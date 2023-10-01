@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [Companies Like Amazon and JPMorgan Spy on Their Staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
+* [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [How companies like Amazon and JPMorgan spy on their staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
 * [2023-10-01, 21:51:11](https://news.ycombinator.com/item?id=37731239) - [Nvidia Office Raided by French Authorities](https://futurism.com/the-byte/france-raided-nvidia-office)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 18:54:09](https://news.ycombinator.com/item?id=37729203) - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
@@ -21,13 +21,13 @@
 * [2023-10-01, 11:23:00](https://news.ycombinator.com/item?id=37724861) - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and publish your keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 03:25:43](https://news.ycombinator.com/item?id=37722248) - [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
-* [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s secret message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
 * [2023-09-29, 15:05:49](https://news.ycombinator.com/item?id=37705344) - [Simple math moves the needle](https://www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/)
 * [2023-09-29, 14:19:31](https://news.ycombinator.com/item?id=37704669) - [Design Your Own Arduino-Compatible Digital Level PCB, SparkleTilt](https://jams.hackclub.com/batch/sparkletilt-pcb)
 * [2023-09-29, 13:16:59](https://news.ycombinator.com/item?id=37703739) - [Fireblocks OSS Multi-Party Computation Library](https://github.com/fireblocks/mpc-lib)
 * [2023-09-29, 13:10:43](https://news.ycombinator.com/item?id=37703651) - [Publishing my first game using PICO-8](https://boyter.org/posts/publishing-a-pico8-game/)
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
 * [2023-09-29, 12:59:37](https://news.ycombinator.com/item?id=37703448) - [The Worth of Wild Ideas](https://nautil.us/the-worth-of-wild-ideas-399097/)
+* [2023-09-29, 10:33:52](https://news.ycombinator.com/item?id=37701706) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 09:10:04](https://news.ycombinator.com/item?id=37701127) - [Upside-Down-Ternet (2006)](http://www.ex-parrot.com/~pete/upside-down-ternet.html)
 * [2023-09-29, 08:47:41](https://news.ycombinator.com/item?id=37700980) - [Language was born in the hands (2022)](https://cosmosmagazine.com/people/culture/language-evolution-gestures-sign/)
 
