@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 18:00:01](https://news.ycombinator.com/item?id=37728601) - [The worrying democratic erosions in South Korea](https://www.newyorker.com/news/daily-comment/the-worrying-democratic-erosions-in-south-korea)
+* [2023-10-01, 17:48:20](https://news.ycombinator.com/item?id=37728464) - [Canada to require registration of podcasters and streaming services](https://www.canada.ca/en/radio-television-telecommunications/news/2023/09/crtc-takes-major-step-forward-to-modernize-canadas-broadcasting-framework.html)
 * [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
+* [2023-10-01, 17:26:23](https://news.ycombinator.com/item?id=37728237) - [Pillows to help workers snooze at desk draw attention in Japan](https://mainichi.jp/english/articles/20230928/p2a/00m/0na/023000c)
 * [2023-10-01, 17:19:26](https://news.ycombinator.com/item?id=37728154) - [Bruno – Opensource, Sustainability, Privacy, Freedom and Incentives](https://github.com/usebruno/bruno/discussions/269)
 * [2023-10-01, 17:06:32](https://news.ycombinator.com/item?id=37728016) - [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
 * [2023-10-01, 16:57:18](https://news.ycombinator.com/item?id=37727944) - [Trudeau Government moves to regulate podcasts](https://thecountersignal.com/trudeau-government-moves-to-regulate-podcasts/)
