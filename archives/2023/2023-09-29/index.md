@@ -100,6 +100,7 @@
 * [2023-09-29, 11:34:55](https://news.ycombinator.com/item?id=37702194) - [Pixel-based visualization of distributions – click Settings](https://lincoln.swaine-moore.is/blue)
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
+* [2023-09-29, 10:58:33](https://news.ycombinator.com/item?id=37701884) - [OnlyOffice: Free open source office suite with business productivity tools](https://github.com/ONLYOFFICE/CommunityServer)
 * [2023-09-29, 10:55:15](https://news.ycombinator.com/item?id=37701860) - [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
 * [2023-09-29, 10:33:52](https://news.ycombinator.com/item?id=37701706) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
