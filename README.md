@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-01, 13:14:54](https://news.ycombinator.com/item?id=37725634) - [Norway wants a ban on targeted Meta advertising throughout Europe](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
+* [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-10-01, 12:57:16](https://news.ycombinator.com/item?id=37725498) - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
-* [2023-10-01, 12:39:37](https://news.ycombinator.com/item?id=37725379) - [Arnold Schwarzenegger Is Here to Pump You Up (Emotionally)](https://www.nytimes.com/interactive/2023/10/01/magazine/arnold-schwarzenegger-interview.html)
 * [2023-10-01, 12:24:55](https://news.ycombinator.com/item?id=37725264) - [Ask HN: Whats the modern day equivalent of 80s computer for kids to explore?](https://news.ycombinator.com/item?id=37725264)
 * [2023-10-01, 12:24:17](https://news.ycombinator.com/item?id=37725261) - [MyPowerbank hacks Santander bikes so London's homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
 * [2023-10-01, 12:18:45](https://news.ycombinator.com/item?id=37725229) - [Hermit 'scribblings' of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
@@ -13,7 +14,6 @@
 * [2023-10-01, 09:57:45](https://news.ycombinator.com/item?id=37724393) - [In Digital Ocean, S3-like space keys can access all your buckets](https://ideas.digitalocean.com/storage/p/access-key-per-space)
 * [2023-10-01, 09:33:01](https://news.ycombinator.com/item?id=37724268) - [Where's My Bike Dave?](https://road.cc/content/news/bike-thief-convicted-after-mother-victim-protests-304143)
 * [2023-10-01, 09:11:30](https://news.ycombinator.com/item?id=37724161) - [This is Financial Advice [video by Folding Ideas]](https://www.youtube.com/watch?v=5pYeoZaoWrA)
-* [2023-10-01, 08:14:23](https://news.ycombinator.com/item?id=37723862) - [Does anybody remember Google People](https://qntm.org/person)
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 06:45:01](https://news.ycombinator.com/item?id=37723372) - [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
 * [2023-10-01, 03:25:43](https://news.ycombinator.com/item?id=37722248) - [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)

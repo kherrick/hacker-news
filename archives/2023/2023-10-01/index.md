@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 13:14:54](https://news.ycombinator.com/item?id=37725634) - [Norway wants a ban on targeted Meta advertising throughout Europe](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
+* [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-10-01, 12:57:16](https://news.ycombinator.com/item?id=37725498) - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
 * [2023-10-01, 12:39:37](https://news.ycombinator.com/item?id=37725379) - [Arnold Schwarzenegger Is Here to Pump You Up (Emotionally)](https://www.nytimes.com/interactive/2023/10/01/magazine/arnold-schwarzenegger-interview.html)
 * [2023-10-01, 12:24:55](https://news.ycombinator.com/item?id=37725264) - [Ask HN: Whats the modern day equivalent of 80s computer for kids to explore?](https://news.ycombinator.com/item?id=37725264)
