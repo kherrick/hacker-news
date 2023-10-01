@@ -17,6 +17,7 @@
 * [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
 * [2023-09-30, 20:15:00](https://news.ycombinator.com/item?id=37719298) - [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to See Bright, Vivid Images in Your Mind’s Eye](https://photographyinsider.info/image-streaming-for-photographers/)
+* [2023-09-30, 19:28:56](https://news.ycombinator.com/item?id=37718880) - [The Domestic Labour of Reading in Milton’s Areopagitica](https://publicdomainreview.org/essay/free-speech-and-bad-meats/)
 * [2023-09-30, 19:27:29](https://news.ycombinator.com/item?id=37718865) - [I Survived (Barely) as a Jazz Musician at Business School](https://www.honest-broker.com/p/how-i-survived-barely-as-a-jazz-musician)
 * [2023-09-30, 19:26:55](https://news.ycombinator.com/item?id=37718859) - [Pharmacokinetics: Drug Development's Broken Stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
 * [2023-09-30, 18:55:21](https://news.ycombinator.com/item?id=37718566) - [“Never write a database. Even if you want to, even if you think you should.”](https://twitter.com/mipsytipsy/status/1707661770687758401)
