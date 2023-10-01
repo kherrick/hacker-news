@@ -27,7 +27,7 @@
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
 * [2023-09-30, 09:13:28](https://news.ycombinator.com/item?id=37713835) - [The Ingenious Cardboard Bed](https://newatlas.com/good-thinking/ingenious-cardboard-bed/)
-* [2023-09-30, 02:32:34](https://news.ycombinator.com/item?id=37712324) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
+* [2023-09-30, 04:52:07](https://news.ycombinator.com/item?id=37712847) - [Oldsmobile Hydra-Matic Drive (1947) [pdf]](https://www.xr793.com/wp-content/uploads/2018/12/1947-Oldsmobile-Hydra-Matic-Drive.pdf)
 * [2023-09-30, 01:20:42](https://news.ycombinator.com/item?id=37712009) - [Gilgengart: The Tale of a Typeface (2013)](https://www.paulshawletterdesign.com/2013/11/gilgengart-the-tale-of-a-typeface/)
 * [2023-09-29, 17:19:24](https://news.ycombinator.com/item?id=37707348) - [A Bit About Byte Magazine](https://www.goto10retro.com/p/a-bit-about-byte-magazine-the-premier)
 
