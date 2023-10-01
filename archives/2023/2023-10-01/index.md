@@ -6,6 +6,7 @@
 
 * [2023-10-01, 20:04:02](https://news.ycombinator.com/item?id=37730007) - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
+* [2023-10-01, 19:36:10](https://news.ycombinator.com/item?id=37729701) - [Higher UV exposure associated with lower mortality: UK Biobank Cohort Study [pdf]](https://www.medrxiv.org/content/10.1101/2023.07.11.23292360v1.full.pdf)
 * [2023-10-01, 19:05:14](https://news.ycombinator.com/item?id=37729350) - [Celebrity Flights](https://celebrityflight.com/)
 * [2023-10-01, 18:54:09](https://news.ycombinator.com/item?id=37729203) - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
 * [2023-10-01, 18:52:01](https://news.ycombinator.com/item?id=37729172) - [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)

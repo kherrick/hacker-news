@@ -2,6 +2,7 @@
 
 * [2023-10-01, 20:04:02](https://news.ycombinator.com/item?id=37730007) - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
+* [2023-10-01, 19:36:10](https://news.ycombinator.com/item?id=37729701) - [Higher UV exposure associated with lower mortality: UK Biobank Cohort Study [pdf]](https://www.medrxiv.org/content/10.1101/2023.07.11.23292360v1.full.pdf)
 * [2023-10-01, 19:05:14](https://news.ycombinator.com/item?id=37729350) - [Celebrity Flights](https://celebrityflight.com/)
 * [2023-10-01, 18:54:09](https://news.ycombinator.com/item?id=37729203) - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
 * [2023-10-01, 18:52:01](https://news.ycombinator.com/item?id=37729172) - [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
@@ -17,7 +18,6 @@
 * [2023-10-01, 16:03:57](https://news.ycombinator.com/item?id=37727250) - [How many microbes does it take to make you sick?](https://www.quantamagazine.org/how-many-microbes-does-it-take-to-make-you-sick-20230927/)
 * [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire dust makes up the majority of ocean microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD (2008)](https://www.stereophile.com/features/308mp3cd/index.html)
-* [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland for several months in 1970 (2016)](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 * [2023-10-01, 14:02:18](https://news.ycombinator.com/item?id=37726038) - [Focused Ultrasound](https://twitter.com/FutureJurvetson/status/1708306322729607596)
 * [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-10-01, 11:23:00](https://news.ycombinator.com/item?id=37724861) - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
