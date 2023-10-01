@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [Companies Like Amazon and JPMorgan Spy on Their Staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
+* [2023-10-01, 21:51:11](https://news.ycombinator.com/item?id=37731239) - [Nvidia Office Raided by French Authorities](https://futurism.com/the-byte/france-raided-nvidia-office)
 * [2023-10-01, 20:04:02](https://news.ycombinator.com/item?id=37730007) - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 19:58:27](https://news.ycombinator.com/item?id=37729957) - [Majority of US students now support speech codes](https://unherd.com/thepost/majority-of-us-students-now-support-speech-codes/)

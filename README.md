@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-01, 20:04:02](https://news.ycombinator.com/item?id=37730007) - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
+* [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [Companies Like Amazon and JPMorgan Spy on Their Staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
+* [2023-10-01, 21:51:11](https://news.ycombinator.com/item?id=37731239) - [Nvidia Office Raided by French Authorities](https://futurism.com/the-byte/france-raided-nvidia-office)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 18:54:09](https://news.ycombinator.com/item?id=37729203) - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
 * [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
@@ -10,7 +11,6 @@
 * [2023-10-01, 17:56:41](https://news.ycombinator.com/item?id=37728571) - [Unexpected benefits of sun exposure on skin](https://www.theguardian.com/lifeandstyle/2023/oct/01/let-it-shine-the-unexpected-benefits-of-sun-exposure-on-skin)
 * [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
 * [2023-10-01, 17:26:23](https://news.ycombinator.com/item?id=37728237) - [Pillows to help workers snooze at desk](https://mainichi.jp/english/articles/20230928/p2a/00m/0na/023000c)
-* [2023-10-01, 17:19:26](https://news.ycombinator.com/item?id=37728154) - [Bruno – Opensource, sustainability, privacy, freedom and incentives](https://github.com/usebruno/bruno/discussions/269)
 * [2023-10-01, 17:06:32](https://news.ycombinator.com/item?id=37728016) - [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
 * [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire dust makes up the majority of ocean microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD (2008)](https://www.stereophile.com/features/308mp3cd/index.html)
