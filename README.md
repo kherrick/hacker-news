@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 22:38:50](https://news.ycombinator.com/item?id=37731670) - [Tom Hanks says that’s not him selling dental insurance in Instagram ads](https://www.avclub.com/tom-hanks-ai-dental-plan-instagram-ads-1850890845)
+* [2023-10-01, 22:23:49](https://news.ycombinator.com/item?id=37731544) - [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
 * [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [How companies like Amazon and JPMorgan spy on their staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
-* [2023-10-01, 21:51:11](https://news.ycombinator.com/item?id=37731239) - [Nvidia Office Raided by French Authorities](https://futurism.com/the-byte/france-raided-nvidia-office)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 18:54:09](https://news.ycombinator.com/item?id=37729203) - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
 * [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
