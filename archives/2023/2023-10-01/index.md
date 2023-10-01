@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 19:05:14](https://news.ycombinator.com/item?id=37729350) - [Celebrity Flights](https://celebrityflight.com/)
 * [2023-10-01, 18:52:01](https://news.ycombinator.com/item?id=37729172) - [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
 * [2023-10-01, 18:47:31](https://news.ycombinator.com/item?id=37729109) - [We aren’t losing all of our honeybees](https://geneticliteracyproject.org/2020/03/20/no-we-arent-losing-all-of-our-honeybees-and-neonic-seed-coatings-arent-driving-their-health-problems-heres-why/)
 * [2023-10-01, 18:37:09](https://news.ycombinator.com/item?id=37729001) - [4chan Turns 20](https://4chan.org/4channews.php)
 * [2023-10-01, 18:35:56](https://news.ycombinator.com/item?id=37728990) - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
+* [2023-10-01, 18:29:54](https://news.ycombinator.com/item?id=37728915) - [2023 DevOps Is Terrible](https://abidmoon.hashnode.dev/2023-devops-is-terrible)
 * [2023-10-01, 18:27:38](https://news.ycombinator.com/item?id=37728893) - [Buy wisely Whenever I buy things I try to prioritize cost per use](https://twitter.com/kepano/status/1708499101778923647)
 * [2023-10-01, 18:24:26](https://news.ycombinator.com/item?id=37728849) - [Meta in Myanmar, Part II: The Crisis](https://erinkissane.com/meta-in-myanmar-part-ii-the-crisis)
 * [2023-10-01, 18:10:05](https://news.ycombinator.com/item?id=37728699) - [Japan reins in 'stealth marketing' with new regulation](https://www3.nhk.or.jp/nhkworld/en/news/20231001_04/)
