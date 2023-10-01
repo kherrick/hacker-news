@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-01, 12:24:17](https://news.ycombinator.com/item?id=37725261) - [MyPowerbank hacks Santander bikes so London's homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
+* [2023-10-01, 12:18:45](https://news.ycombinator.com/item?id=37725229) - [Hermit 'scribblings' of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
 * [2023-10-01, 11:23:00](https://news.ycombinator.com/item?id=37724861) - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
 * [2023-10-01, 11:08:06](https://news.ycombinator.com/item?id=37724776) - [Plimpton 322 is Babylonian exact sexagesimal trigonometry](https://www.sciencedirect.com/science/article/pii/S0315086017300691)
 * [2023-10-01, 11:01:44](https://news.ycombinator.com/item?id=37724737) - [Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
@@ -11,7 +13,6 @@
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 06:45:01](https://news.ycombinator.com/item?id=37723372) - [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
 * [2023-10-01, 03:25:43](https://news.ycombinator.com/item?id=37722248) - [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
-* [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several'](https://www.merriam-webster.com/grammar/couple-few-several-use)
 * [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 * [2023-10-01, 01:13:50](https://news.ycombinator.com/item?id=37721584) - [LK-99 Research Continues, Paper Says Superconductivity Could Be Possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
@@ -21,7 +22,6 @@
 * [2023-09-30, 22:42:13](https://news.ycombinator.com/item?id=37720632) - [The TRON Project: How Japan almost ruled IT (2022)](https://undervaluedjapan.blogspot.com/2022/08/the-tron-project-how-japan-almost-ruled.html)
 * [2023-09-30, 22:36:21](https://news.ycombinator.com/item?id=37720580) - [Fake recruiter lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
 * [2023-09-30, 22:27:42](https://news.ycombinator.com/item?id=37720530) - [The missing middle in game development](https://howtomarketagame.com/2023/09/28/the-missing-middle-in-game-development/)
-* [2023-09-30, 22:10:12](https://news.ycombinator.com/item?id=37720404) - [Europol sought unlimited data access in online child sexual abuse regulation](https://balkaninsight.com/2023/09/29/europol-sought-unlimited-data-access-in-online-child-sexual-abuse-regulation/)
 * [2023-09-30, 21:23:53](https://news.ycombinator.com/item?id=37719971) - [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
 * [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [PoW gets his life back after 55 years (2000)](https://www.theguardian.com/world/2000/sep/19/1)
 * [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
