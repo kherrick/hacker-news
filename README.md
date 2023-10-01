@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-01, 15:41:13](https://news.ycombinator.com/item?id=37726952) - [More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit](https://www.cnn.com/2023/10/01/americas/amazon-river-dolphins-dead-temperatures-drought-intl-hnk/index.html)
 * [2023-10-01, 15:14:28](https://news.ycombinator.com/item?id=37726696) - [Twitter / X is losing daily active users. CEO Linda Yaccarino confirmed it](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
 * [2023-10-01, 15:03:07](https://news.ycombinator.com/item?id=37726568) - [We don't have Senior Engineers anymore](https://sibelius.substack.com/p/we-dont-have-seniors-anymore)
 * [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
 * [2023-10-01, 14:52:57](https://news.ycombinator.com/item?id=37726450) - [Germans shrug off economic gloom at booming Oktoberfest](https://www.ft.com/content/c251bdfe-9ba3-4204-b933-b7bd6b514549)
-* [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD](https://www.stereophile.com/features/308mp3cd/index.html)
 * [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 * [2023-10-01, 14:02:18](https://news.ycombinator.com/item?id=37726038) - [Focused Ultrasound Is “Medicine's Best Kept Secret”](https://twitter.com/FutureJurvetson/status/1708306322729607596)
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
