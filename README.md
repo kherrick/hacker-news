@@ -11,7 +11,6 @@
 * [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 * [2023-10-01, 01:13:50](https://news.ycombinator.com/item?id=37721584) - [LK-99 Research Continues, Paper Says Superconductivity Could Be Possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
-* [2023-10-01, 00:27:20](https://news.ycombinator.com/item?id=37721320) - [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
 * [2023-09-30, 23:35:28](https://news.ycombinator.com/item?id=37721016) - [Lowering the Cost of Anonymization (2020)](https://desfontain.es/thesis/)
 * [2023-09-30, 23:29:24](https://news.ycombinator.com/item?id=37720976) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 * [2023-09-30, 23:04:13](https://news.ycombinator.com/item?id=37720806) - [-Werror Is not your friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
@@ -30,6 +29,7 @@
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
+* [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 
 ## [Archives](archives/index.md)
 
