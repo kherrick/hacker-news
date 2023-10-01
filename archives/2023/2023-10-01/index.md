@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
 * [2023-10-01, 11:23:00](https://news.ycombinator.com/item?id=37724861) - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
+* [2023-10-01, 11:08:06](https://news.ycombinator.com/item?id=37724776) - [Plimpton 322 is Babylonian exact sexagesimal trigonometry](https://www.sciencedirect.com/science/article/pii/S0315086017300691)
 * [2023-10-01, 11:01:44](https://news.ycombinator.com/item?id=37724737) - [Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
 * [2023-10-01, 10:49:55](https://news.ycombinator.com/item?id=37724665) - [AiPrice – API for Accurate OpenAI Prompt Pricing](https://aiprice.dev/)
 * [2023-10-01, 10:27:22](https://news.ycombinator.com/item?id=37724538) - [Mozilla's midlife crisis: from web pioneer to Google's weird neighbor](https://www.theregister.com/2023/09/29/mozilla_asleep_at_wheel/)

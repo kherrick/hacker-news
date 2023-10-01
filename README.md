@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 11:23:00](https://news.ycombinator.com/item?id=37724861) - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
+* [2023-10-01, 11:08:06](https://news.ycombinator.com/item?id=37724776) - [Plimpton 322 is Babylonian exact sexagesimal trigonometry](https://www.sciencedirect.com/science/article/pii/S0315086017300691)
 * [2023-10-01, 11:01:44](https://news.ycombinator.com/item?id=37724737) - [Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
 * [2023-10-01, 10:27:22](https://news.ycombinator.com/item?id=37724538) - [Mozilla's midlife crisis: from web pioneer to Google's weird neighbor](https://www.theregister.com/2023/09/29/mozilla_asleep_at_wheel/)
 * [2023-10-01, 09:57:45](https://news.ycombinator.com/item?id=37724393) - [In Digital Ocean, S3-like space keys can access all your buckets](https://ideas.digitalocean.com/storage/p/access-key-per-space)
@@ -27,7 +28,6 @@
 * [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to see bright, vivid images in your mind’s eye (2016)](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s Message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
-* [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
 
