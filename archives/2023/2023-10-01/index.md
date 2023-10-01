@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
+* [2023-10-01, 17:19:26](https://news.ycombinator.com/item?id=37728154) - [Bruno – Opensource, Sustainability, Privacy, Freedom and Incentives](https://github.com/usebruno/bruno/discussions/269)
 * [2023-10-01, 17:06:32](https://news.ycombinator.com/item?id=37728016) - [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
 * [2023-10-01, 16:57:18](https://news.ycombinator.com/item?id=37727944) - [Trudeau Government moves to regulate podcasts](https://thecountersignal.com/trudeau-government-moves-to-regulate-podcasts/)
 * [2023-10-01, 16:41:25](https://news.ycombinator.com/item?id=37727762) - [ParaSite: Inflatable Housing for the Homeless (2016)](https://archinect.com/features/article/149944931/parasite-the-bandage-over-the-nomadic-wound)
