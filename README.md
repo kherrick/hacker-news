@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 17:06:32](https://news.ycombinator.com/item?id=37728016) - [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
+* [2023-10-01, 16:57:18](https://news.ycombinator.com/item?id=37727944) - [Trudeau Government moves to regulate podcasts](https://thecountersignal.com/trudeau-government-moves-to-regulate-podcasts/)
+* [2023-10-01, 16:41:25](https://news.ycombinator.com/item?id=37727762) - [ParaSite: Inflatable Housing for the Homeless (2016)](https://archinect.com/features/article/149944931/parasite-the-bandage-over-the-nomadic-wound)
 * [2023-10-01, 16:03:57](https://news.ycombinator.com/item?id=37727250) - [How Many Microbes Does It Take to Make You Sick?](https://www.quantamagazine.org/how-many-microbes-does-it-take-to-make-you-sick-20230927/)
 * [2023-10-01, 15:55:02](https://news.ycombinator.com/item?id=37727129) - [WFH significantly increased workforce participation from those with disabilities](https://thehill.com/opinion/technology/4228100-does-working-from-home-damage-productivity-just-look-at-the-data/)
 * [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
@@ -9,9 +11,7 @@
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
 * [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-10-01, 12:57:16](https://news.ycombinator.com/item?id=37725498) - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
-* [2023-10-01, 12:29:33](https://news.ycombinator.com/item?id=37725295) - [A Call to Action: Lessons from Ukraine for the Future Force [pdf]](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=3240&context=parameters)
 * [2023-10-01, 12:24:17](https://news.ycombinator.com/item?id=37725261) - [MyPowerbank hacks Santander bikes so London's homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
-* [2023-10-01, 12:18:45](https://news.ycombinator.com/item?id=37725229) - [Hermit 'scribblings' of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
 * [2023-10-01, 11:23:00](https://news.ycombinator.com/item?id=37724861) - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
 * [2023-10-01, 11:08:06](https://news.ycombinator.com/item?id=37724776) - [Plimpton 322 is Babylonian exact sexagesimal trigonometry](https://www.sciencedirect.com/science/article/pii/S0315086017300691)
 * [2023-10-01, 11:01:44](https://news.ycombinator.com/item?id=37724737) - [Never say “no,” but rarely say “yes” (2011)](https://longform.asmartbear.com/say-yes/)
@@ -28,7 +28,7 @@
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s secret message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-29, 15:05:49](https://news.ycombinator.com/item?id=37705344) - [Simple Math Moves the Needle](https://www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/)
-* [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
+* [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and Vampire Hunting Game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
 * [2023-09-29, 08:47:41](https://news.ycombinator.com/item?id=37700980) - [Language Was Born in the Hands](https://cosmosmagazine.com/people/culture/language-evolution-gestures-sign/)
 
 ## [Archives](archives/index.md)
