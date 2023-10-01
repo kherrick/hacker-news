@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
 * [2023-10-01, 12:57:16](https://news.ycombinator.com/item?id=37725498) - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
+* [2023-10-01, 12:39:37](https://news.ycombinator.com/item?id=37725379) - [Arnold Schwarzenegger Is Here to Pump You Up (Emotionally)](https://www.nytimes.com/interactive/2023/10/01/magazine/arnold-schwarzenegger-interview.html)
+* [2023-10-01, 12:24:55](https://news.ycombinator.com/item?id=37725264) - [Ask HN: Whats the modern day equivalent of 80s computer for kids to explore?](https://news.ycombinator.com/item?id=37725264)
 * [2023-10-01, 12:24:17](https://news.ycombinator.com/item?id=37725261) - [MyPowerbank hacks Santander bikes so London's homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
 * [2023-10-01, 12:18:45](https://news.ycombinator.com/item?id=37725229) - [Hermit 'scribblings' of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
 * [2023-10-01, 12:02:13](https://news.ycombinator.com/item?id=37725115) - [Groundbreaking Study: People Experience ‘New Dimensions of Reality' When Dying](https://www.vice.com/en/article/pkamgm/people-experience-new-dimensions-of-reality-when-dying-groundbreaking-study-reports)

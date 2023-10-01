@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 12:57:16](https://news.ycombinator.com/item?id=37725498) - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
+* [2023-10-01, 12:39:37](https://news.ycombinator.com/item?id=37725379) - [Arnold Schwarzenegger Is Here to Pump You Up (Emotionally)](https://www.nytimes.com/interactive/2023/10/01/magazine/arnold-schwarzenegger-interview.html)
+* [2023-10-01, 12:24:55](https://news.ycombinator.com/item?id=37725264) - [Ask HN: Whats the modern day equivalent of 80s computer for kids to explore?](https://news.ycombinator.com/item?id=37725264)
 * [2023-10-01, 12:24:17](https://news.ycombinator.com/item?id=37725261) - [MyPowerbank hacks Santander bikes so London's homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
 * [2023-10-01, 12:18:45](https://news.ycombinator.com/item?id=37725229) - [Hermit 'scribblings' of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
 * [2023-10-01, 12:02:13](https://news.ycombinator.com/item?id=37725115) - [Groundbreaking Study: People Experience ‘New Dimensions of Reality' When Dying](https://www.vice.com/en/article/pkamgm/people-experience-new-dimensions-of-reality-when-dying-groundbreaking-study-reports)
@@ -23,13 +25,11 @@
 * [2023-09-30, 23:04:13](https://news.ycombinator.com/item?id=37720806) - [-Werror Is not your friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 22:42:13](https://news.ycombinator.com/item?id=37720632) - [The TRON Project: How Japan almost ruled IT (2022)](https://undervaluedjapan.blogspot.com/2022/08/the-tron-project-how-japan-almost-ruled.html)
 * [2023-09-30, 22:36:21](https://news.ycombinator.com/item?id=37720580) - [Fake recruiter lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
-* [2023-09-30, 22:27:42](https://news.ycombinator.com/item?id=37720530) - [The missing middle in game development](https://howtomarketagame.com/2023/09/28/the-missing-middle-in-game-development/)
-* [2023-09-30, 21:23:53](https://news.ycombinator.com/item?id=37719971) - [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
-* [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [PoW gets his life back after 55 years (2000)](https://www.theguardian.com/world/2000/sep/19/1)
 * [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s Message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
+* [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
-* [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
+* [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 
 ## [Archives](archives/index.md)
 
