@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 06:31:09](https://news.ycombinator.com/item?id=37723304) - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several'](https://www.merriam-webster.com/grammar/couple-few-several-use)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
@@ -21,7 +22,6 @@
 * [2023-09-30, 18:34:02](https://news.ycombinator.com/item?id=37718368) - [Optical Circuit Switching for ML Systems](https://dl.acm.org/doi/10.1145/3603269.3604836)
 * [2023-09-30, 18:09:46](https://news.ycombinator.com/item?id=37718132) - [Reorient GitHub pull requests around changesets](https://mitchellh.com/writing/github-changesets)
 * [2023-09-30, 17:47:33](https://news.ycombinator.com/item?id=37717889) - [Modeling transformational policy pathways on low and negative growth scenarios](https://www.nature.com/articles/s41598-023-42782-y)
-* [2023-09-30, 16:19:00](https://news.ycombinator.com/item?id=37716910) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 12:49:02](https://news.ycombinator.com/item?id=37714922) - [Removing Sybils from an Open Network](https://wiki.saito.io/consensus/sybil-proof)
 * [2023-09-30, 11:21:18](https://news.ycombinator.com/item?id=37714395) - [Building Processors from the Ground Up](https://howcpuworks.com/blogs/processsorbook/building-processors-from-the-ground-up)

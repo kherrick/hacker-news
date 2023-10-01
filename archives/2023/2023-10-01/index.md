@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 06:31:09](https://news.ycombinator.com/item?id=37723304) - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
 * [2023-10-01, 04:03:13](https://news.ycombinator.com/item?id=37722415) - [America does not have a good food culture](https://walkingtheworld.substack.com/p/america-does-not-have-a-good-food)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several': The (Mostly) Definitive Guide](https://www.merriam-webster.com/grammar/couple-few-several-use)
