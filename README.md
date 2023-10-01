@@ -20,6 +20,7 @@
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s Message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
 * [2023-09-30, 18:34:02](https://news.ycombinator.com/item?id=37718368) - [Optical Circuit Switching for ML Systems](https://dl.acm.org/doi/10.1145/3603269.3604836)
 * [2023-09-30, 18:09:46](https://news.ycombinator.com/item?id=37718132) - [Reorient GitHub pull requests around changesets](https://mitchellh.com/writing/github-changesets)
+* [2023-09-30, 17:47:33](https://news.ycombinator.com/item?id=37717889) - [Modeling transformational policy pathways on low and negative growth scenarios](https://www.nature.com/articles/s41598-023-42782-y)
 * [2023-09-30, 16:19:00](https://news.ycombinator.com/item?id=37716910) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 12:49:02](https://news.ycombinator.com/item?id=37714922) - [Removing Sybils from an Open Network](https://wiki.saito.io/consensus/sybil-proof)
@@ -29,7 +30,6 @@
 * [2023-09-30, 09:13:28](https://news.ycombinator.com/item?id=37713835) - [The Ingenious Cardboard Bed](https://newatlas.com/good-thinking/ingenious-cardboard-bed/)
 * [2023-09-30, 04:52:07](https://news.ycombinator.com/item?id=37712847) - [Oldsmobile Hydra-Matic Drive (1947) [pdf]](https://www.xr793.com/wp-content/uploads/2018/12/1947-Oldsmobile-Hydra-Matic-Drive.pdf)
 * [2023-09-30, 01:20:42](https://news.ycombinator.com/item?id=37712009) - [Gilgengart: The Tale of a Typeface (2013)](https://www.paulshawletterdesign.com/2013/11/gilgengart-the-tale-of-a-typeface/)
-* [2023-09-29, 17:19:24](https://news.ycombinator.com/item?id=37707348) - [A Bit About Byte Magazine](https://www.goto10retro.com/p/a-bit-about-byte-magazine-the-premier)
 
 ## [Archives](archives/index.md)
 
