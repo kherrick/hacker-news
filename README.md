@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 01:34:41](https://news.ycombinator.com/item?id=37721720) - [Nvidia's RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
+* [2023-10-01, 01:26:21](https://news.ycombinator.com/item?id=37721663) - [Spacedrive is an open source cross-platform file explorer written in Rust](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-01, 00:52:33](https://news.ycombinator.com/item?id=37721464) - [Machine Learning Mastery Series – Part 1 of 10](https://ataiva.com/machine-learning-mastery-series-part-1-introduction-to-machine-learning/)
 * [2023-10-01, 00:27:20](https://news.ycombinator.com/item?id=37721320) - [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
 * [2023-09-30, 23:29:24](https://news.ycombinator.com/item?id=37720976) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
@@ -26,7 +27,6 @@
 * [2023-09-30, 11:21:18](https://news.ycombinator.com/item?id=37714395) - [Building Processors from the Ground Up](https://howcpuworks.com/blogs/processsorbook/building-processors-from-the-ground-up)
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
 * [2023-09-30, 09:13:28](https://news.ycombinator.com/item?id=37713835) - [The Ingenious Cardboard Bed](https://newatlas.com/good-thinking/ingenious-cardboard-bed/)
-* [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
 * [2023-09-30, 04:52:07](https://news.ycombinator.com/item?id=37712847) - [Oldsmobile Hydra-Matic Drive (1947) [pdf]](https://www.xr793.com/wp-content/uploads/2018/12/1947-Oldsmobile-Hydra-Matic-Drive.pdf)
 * [2023-09-30, 04:38:20](https://news.ycombinator.com/item?id=37712800) - [Was There a Qing Administrative Revolution?](https://www.cambridge.org/core/journals/journal-of-chinese-history/article/was-there-an-administrative-revolution/AD2E74A82073AAEAA5105E946BA17823)
 * [2023-09-30, 02:32:34](https://news.ycombinator.com/item?id=37712324) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
