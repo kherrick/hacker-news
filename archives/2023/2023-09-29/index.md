@@ -103,6 +103,7 @@
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 * [2023-09-29, 10:03:31](https://news.ycombinator.com/item?id=37701476) - [CloudFlare is blocking traffic to Discord](https://discord.com/)
 * [2023-09-29, 09:23:06](https://news.ycombinator.com/item?id=37701222) - [Leaked screenshot shows Amazon now tracking individual employee attendance](https://www.businessinsider.com/amazon-forced-rto-tracking-employee-office-attendance-2023-9)
+* [2023-09-29, 09:10:04](https://news.ycombinator.com/item?id=37701127) - [Upside-Down-Ternet (2006)](http://www.ex-parrot.com/~pete/upside-down-ternet.html)
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 09:05:48](https://news.ycombinator.com/item?id=37701098) - [Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”](https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/)
 * [2023-09-29, 09:03:08](https://news.ycombinator.com/item?id=37701082) - [Linux interop is maturing fast thanks to a games console](https://www.theregister.com/2023/09/27/osseu_steam_os_3/)
