@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 09:57:45](https://news.ycombinator.com/item?id=37724393) - [In Digital Ocean, S3-like space keys can access all your buckets](https://ideas.digitalocean.com/storage/p/access-key-per-space)
 * [2023-10-01, 09:33:01](https://news.ycombinator.com/item?id=37724268) - [Where's My Bike Dave?](https://road.cc/content/news/bike-thief-convicted-after-mother-victim-protests-304143)
 * [2023-10-01, 09:11:30](https://news.ycombinator.com/item?id=37724161) - [This is Financial Advice [video by Folding Ideas]](https://www.youtube.com/watch?v=5pYeoZaoWrA)
 * [2023-10-01, 08:14:23](https://news.ycombinator.com/item?id=37723862) - [Does anybody remember Google People](https://qntm.org/person)
