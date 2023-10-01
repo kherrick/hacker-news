@@ -10,7 +10,6 @@
 * [2023-10-01, 08:14:23](https://news.ycombinator.com/item?id=37723862) - [Does anybody remember Google People](https://qntm.org/person)
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 06:45:01](https://news.ycombinator.com/item?id=37723372) - [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
-* [2023-10-01, 06:31:09](https://news.ycombinator.com/item?id=37723304) - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
 * [2023-10-01, 03:25:43](https://news.ycombinator.com/item?id=37722248) - [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several'](https://www.merriam-webster.com/grammar/couple-few-several-use)
 * [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
@@ -28,6 +27,7 @@
 * [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to see bright, vivid images in your mind’s eye (2016)](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s Message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
+* [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
 
