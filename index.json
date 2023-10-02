@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-02, 18:09:42",
+      "https://news.ycombinator.com/item?id=37742128"
+    ],
+    [
+      "Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills",
+      "https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 17:14:44",
       "https://news.ycombinator.com/item?id=37741269"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37740932"
     ],
     [
-      "Streaming LLM – No limit on context length for your favourite LLM",
+      "Efficient Streaming Language Models with Attention Sinks",
       "https://github.com/mit-han-lab/streaming-llm"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37740468"
     ],
     [
-      "Microsoft Defender flags Tor browser as a trojan and removes it from the system",
+      "Microsoft Defender was flagging Tor browser as a trojan and removing it",
       "https://deform.co/microsoft-defender-flags-tor-browser-as-a-trojan-and-removes-it-from-the-system/"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=37737862"
     ],
     [
-      "James Webb Space Telescope's first spectrum of a TRAPPIST-1 planet",
+      "JWST's first spectrum of a TRAPPIST-1 planet",
       "https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html"
     ]
   ],
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2023-10-02, 09:22:05",
-      "https://news.ycombinator.com/item?id=37735801"
+      "2023-10-02, 10:27:57",
+      "https://news.ycombinator.com/item?id=37736318"
     ],
     [
-      "The minimum every software developer must know about Unicode in 2023",
-      "https://tonsky.me/blog/unicode/"
+      "Exploiting the iPhone 4",
+      "https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/"
     ]
   ],
   [
     [
-      "2023-10-02, 09:09:29",
-      "https://news.ycombinator.com/item?id=37735704"
+      "2023-10-02, 09:22:05",
+      "https://news.ycombinator.com/item?id=37735801"
     ],
     [
-      "Crusty Windows",
-      "https://crustywindo.ws/Main_Page"
+      "What every software developer must know about Unicode in 2023",
+      "https://tonsky.me/blog/unicode/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Finally, an MOS 7600/7601 Video Game Array data sheet",
       "http://oldvcr.blogspot.com/2023/10/finally-mos-76007601-video-game-array.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-01, 21:27:30",
-      "https://news.ycombinator.com/item?id=37731027"
-    ],
-    [
-      "Error correction and concealment in the Compact Disc system (1982) [pdf]",
-      "https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf"
     ]
   ],
   [
