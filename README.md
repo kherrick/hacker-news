@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 07:29:13](https://news.ycombinator.com/item?id=37734953) - [People going 'monk mode' to limit social media use](https://www.bbc.com/news/business-66934688)
 * [2023-10-02, 07:19:42](https://news.ycombinator.com/item?id=37734915) - [Amsterdam preparing to lower speed limit to 30 kilometers per hour](https://nltimes.nl/2023/10/02/amsterdam-preparing-lower-speed-limit-30-kilometers-per-hour)
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
 * [2023-10-02, 06:52:28](https://news.ycombinator.com/item?id=37734759) - [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
@@ -20,7 +21,6 @@
 * [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
 * [2023-10-01, 18:51:24](https://news.ycombinator.com/item?id=37729160) - [Bing ChatGPT image jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
 * [2023-10-01, 18:35:56](https://news.ycombinator.com/item?id=37728990) - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
-* [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
 * [2023-10-01, 08:46:20](https://news.ycombinator.com/item?id=37724014) - [Code Golfing in Commodore BASIC](https://imrannazar.com/articles/binary-golf-in-c64-basic)
 * [2023-09-29, 15:07:25](https://news.ycombinator.com/item?id=37705365) - [Astronomers discover thousands of red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
 * [2023-09-29, 14:26:59](https://news.ycombinator.com/item?id=37704786) - [Waste plastic can be recycled into hydrogen fuel and graphene](https://www.newscientist.com/article/2394144-waste-plastic-can-be-recycled-into-hydrogen-fuel-and-graphene/)
