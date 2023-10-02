@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 15:44:22](https://news.ycombinator.com/item?id=37739610) - [Stop Arguing over Elite Schools. Just Make Public Colleges Free](https://www.thenation.com/article/society/tuition-free-public-college/)
 * [2023-10-02, 15:28:10](https://news.ycombinator.com/item?id=37739376) - [Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739027) - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
+* [2023-10-02, 14:23:34](https://news.ycombinator.com/item?id=37738530) - [How to set up an anonymous user flow](https://fusionauth.io/blog/anonymous-user)
 * [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [James Webb Space Telescope's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
@@ -22,13 +24,11 @@
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free open-source disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
 * [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
-* [2023-10-01, 21:16:27](https://news.ycombinator.com/item?id=37730894) - [The Quiet Revolution of the Sabbath](https://www.newyorker.com/culture/the-weekend-essay/the-quiet-revolution-of-the-sabbath)
 * [2023-10-01, 11:28:09](https://news.ycombinator.com/item?id=37724896) - [A Visual Comparison of Different National Layouts on a Computer Keyboard (2019)](https://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
 * [2023-10-01, 09:54:22](https://news.ycombinator.com/item?id=37724373) - [The Curse of Dialup World](https://allenpike.com/2023/dialup-world-isp)
 * [2023-10-01, 09:02:53](https://news.ycombinator.com/item?id=37724114) - [Don't worry, your Parser is a functor](https://blog.ubavic.rs/8/)
 * [2023-10-01, 04:03:15](https://news.ycombinator.com/item?id=37722416) - [Using Emacs as $Editor](https://magnus.therning.org/2023-09-30-using-emacs-as-$editor.html)
 * [2023-09-29, 15:07:25](https://news.ycombinator.com/item?id=37705365) - [Astronomers discover thousands of red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
-* [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
 * [2023-09-29, 10:23:47](https://news.ycombinator.com/item?id=37701613) - [Eye comfort a priority for all-in-one desktop PC with color E Ink display](https://newatlas.com/computers/bigme-b251-all-in-one-computer-color-eink/)
 
 ## [Archives](archives/index.md)
