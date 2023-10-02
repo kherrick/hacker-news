@@ -11,6 +11,8 @@
 * [2023-10-02, 13:09:35](https://news.ycombinator.com/item?id=37737588) - [Major airline faces backlash after using ghost flights to exploit legal loophole](https://news.yahoo.com/major-airline-faces-backlash-using-220000546.html)
 * [2023-10-02, 13:01:38](https://news.ycombinator.com/item?id=37737519) - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 12:48:41](https://news.ycombinator.com/item?id=37737409) - [Who’s Rooting Hardest for a Sam Bankman-Fried Conviction? The Crypto Industry.](https://www.nytimes.com/2023/10/02/technology/crypto-insiders-sam-bankman-fried-conviction.html)
+* [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
+* [2023-10-02, 12:14:39](https://news.ycombinator.com/item?id=37737131) - [Study: Some people may be physically unable to use police breathalysers](https://www.sheffield.ac.uk/news/new-research-indicates-some-people-may-be-physically-unable-use-police-breathalysers)
 * [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)
