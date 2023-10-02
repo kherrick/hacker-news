@@ -20,6 +20,7 @@
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD (2008)](https://www.stereophile.com/features/308mp3cd/index.html)
 * [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-09-29, 14:26:59](https://news.ycombinator.com/item?id=37704786) - [Waste plastic can be recycled into hydrogen fuel and graphene](https://www.newscientist.com/article/2394144-waste-plastic-can-be-recycled-into-hydrogen-fuel-and-graphene/)
+* [2023-09-29, 13:16:59](https://news.ycombinator.com/item?id=37703739) - [Fireblocks OSS Multi-Party Computation Library](https://github.com/fireblocks/mpc-lib)
 * [2023-09-29, 13:10:43](https://news.ycombinator.com/item?id=37703651) - [Publishing my first game using PICO-8](https://boyter.org/posts/publishing-a-pico8-game/)
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
 * [2023-09-29, 13:00:27](https://news.ycombinator.com/item?id=37703464) - [The Artichoke Blossom, an Exploding Castle](https://worldsensorium.com/the-artichoke-blossom-an-exploding-castle/)
@@ -29,7 +30,6 @@
 * [2023-09-29, 10:23:47](https://news.ycombinator.com/item?id=37701613) - [Eye comfort a priority for all-in-one desktop PC with color E Ink display](https://newatlas.com/computers/bigme-b251-all-in-one-computer-color-eink/)
 * [2023-09-29, 09:17:30](https://news.ycombinator.com/item?id=37701183) - [How to Pick a Programming Language (2002)](https://www.tundraware.com/Technology/How-To-Pick-A-Programming-Language/)
 * [2023-09-29, 09:10:04](https://news.ycombinator.com/item?id=37701127) - [Upside-Down-Ternet (2006)](http://www.ex-parrot.com/~pete/upside-down-ternet.html)
-* [2023-09-29, 08:47:41](https://news.ycombinator.com/item?id=37700980) - [Language was born in the hands (2022)](https://cosmosmagazine.com/people/culture/language-evolution-gestures-sign/)
 
 ## [Archives](archives/index.md)
 
