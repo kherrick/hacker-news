@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine awarded to Katalin Karikó and Drew Weissman](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
@@ -8,7 +9,6 @@
 * [2023-10-02, 04:26:15](https://news.ycombinator.com/item?id=37733988) - [On Learning to Program with LLMs](https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/)
 * [2023-10-02, 04:13:02](https://news.ycombinator.com/item?id=37733916) - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
 * [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Experimental Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
-* [2023-10-02, 03:41:17](https://news.ycombinator.com/item?id=37733708) - [New group attacking iPhone encryption backed by US political dark-money network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free open-source disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)

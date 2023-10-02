@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 08:56:46](https://news.ycombinator.com/item?id=37735614) - [HTTP Cats](https://http.cat/)
 * [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
