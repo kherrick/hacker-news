@@ -84,6 +84,7 @@
 * [2023-10-01, 09:54:22](https://news.ycombinator.com/item?id=37724373) - [The Curse of Dialup World](https://allenpike.com/2023/dialup-world-isp)
 * [2023-10-01, 09:33:01](https://news.ycombinator.com/item?id=37724268) - [Where's My Bike Dave?](https://road.cc/content/news/bike-thief-convicted-after-mother-victim-protests-304143)
 * [2023-10-01, 09:11:30](https://news.ycombinator.com/item?id=37724161) - [This is Financial Advice [video by Folding Ideas]](https://www.youtube.com/watch?v=5pYeoZaoWrA)
+* [2023-10-01, 09:02:53](https://news.ycombinator.com/item?id=37724114) - [Don't worry, your Parser is a functor](https://blog.ubavic.rs/8/)
 * [2023-10-01, 08:46:20](https://news.ycombinator.com/item?id=37724014) - [Code Golfing in Commodore BASIC](https://imrannazar.com/articles/binary-golf-in-c64-basic)
 * [2023-10-01, 08:14:23](https://news.ycombinator.com/item?id=37723862) - [Does anybody remember Google People](https://qntm.org/person)
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
