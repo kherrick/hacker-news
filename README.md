@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
+* [2023-10-02, 03:41:17](https://news.ycombinator.com/item?id=37733708) - [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free, open source, disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
@@ -15,7 +16,6 @@
 * [2023-10-01, 18:51:24](https://news.ycombinator.com/item?id=37729160) - [Bing ChatGPT image jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
 * [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD (2008)](https://www.stereophile.com/features/308mp3cd/index.html)
-* [2023-10-01, 14:02:18](https://news.ycombinator.com/item?id=37726038) - [Focused Ultrasound](https://twitter.com/FutureJurvetson/status/1708306322729607596)
 * [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-09-29, 14:26:59](https://news.ycombinator.com/item?id=37704786) - [Waste plastic can be recycled into hydrogen fuel and graphene](https://www.newscientist.com/article/2394144-waste-plastic-can-be-recycled-into-hydrogen-fuel-and-graphene/)
 * [2023-09-29, 13:16:59](https://news.ycombinator.com/item?id=37703739) - [Fireblocks OSS Multi-Party Computation Library](https://github.com/fireblocks/mpc-lib)
