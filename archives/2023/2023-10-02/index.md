@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 20:02:52](https://news.ycombinator.com/item?id=37743689) - [Asus Formally Completes Acquisition of Intel's NUC Business](https://www.anandtech.com/show/21080/asus-formally-completes-acquisition-of-intels-nuc-business)
 * [2023-10-02, 19:53:36](https://news.ycombinator.com/item?id=37743567) - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
 * [2023-10-02, 19:01:43](https://news.ycombinator.com/item?id=37742835) - [Two new security incidents involving CLEAR ratchet up concern from lawmakers](https://www.politico.com/news/2023/08/07/transpo-clear-tsa-00110124)
 * [2023-10-02, 18:55:52](https://news.ycombinator.com/item?id=37742750) - [Notion experiencing issues (over 6 hours)](https://status.notion.so/incidents/b3g5shlj6hhl)
