@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 18:09:42](https://news.ycombinator.com/item?id=37742128) - [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
 * [2023-10-02, 17:14:44](https://news.ycombinator.com/item?id=37741269) - [ASCII FacePalm](http://www.asciifacepalm.com/)
 * [2023-10-02, 17:14:14](https://news.ycombinator.com/item?id=37741262) - [EV Battery Factory Will Require So Much Energy It Needs a Coal Plant to Power It](https://cowboystatedaily.com/2023/09/22/ev-battery-factory-will-require-so-much-energy-it-needs-a-coal-plant-to-power-it/)
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
@@ -33,6 +34,7 @@
 * [2023-10-02, 12:48:41](https://news.ycombinator.com/item?id=37737409) - [Who’s Rooting Hardest for a Sam Bankman-Fried Conviction? The Crypto Industry.](https://www.nytimes.com/2023/10/02/technology/crypto-insiders-sam-bankman-fried-conviction.html)
 * [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 12:14:39](https://news.ycombinator.com/item?id=37737131) - [Study: Some people may be physically unable to use police breathalysers](https://www.sheffield.ac.uk/news/new-research-indicates-some-people-may-be-physically-unable-use-police-breathalysers)
+* [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)
