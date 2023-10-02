@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 07:19:42](https://news.ycombinator.com/item?id=37734915) - [Amsterdam preparing to lower speed limit to 30 kilometers per hour](https://nltimes.nl/2023/10/02/amsterdam-preparing-lower-speed-limit-30-kilometers-per-hour)
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
 * [2023-10-02, 06:52:28](https://news.ycombinator.com/item?id=37734759) - [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
 * [2023-10-02, 05:12:58](https://news.ycombinator.com/item?id=37734251) - [Nue.js: Rethinking Reactivity](https://nuejs.org/blog/rethinking-reactivity/)
@@ -24,7 +25,6 @@
 * [2023-09-29, 15:07:25](https://news.ycombinator.com/item?id=37705365) - [Astronomers discover thousands of red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
 * [2023-09-29, 14:26:59](https://news.ycombinator.com/item?id=37704786) - [Waste plastic can be recycled into hydrogen fuel and graphene](https://www.newscientist.com/article/2394144-waste-plastic-can-be-recycled-into-hydrogen-fuel-and-graphene/)
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
-* [2023-09-29, 13:00:27](https://news.ycombinator.com/item?id=37703464) - [The Artichoke Blossom, an Exploding Castle](https://worldsensorium.com/the-artichoke-blossom-an-exploding-castle/)
 * [2023-09-29, 11:58:41](https://news.ycombinator.com/item?id=37702522) - [Nanofluidic device generates power with saltwater](https://techxplore.com/news/2023-09-nanofluidic-device-generates-power-saltwater.html)
 * [2023-09-29, 11:46:55](https://news.ycombinator.com/item?id=37702378) - [Lone Wolf, Letting Go](https://www.ungatedcreative.com/p/lone-wolf-letting-go)
 * [2023-09-29, 10:58:33](https://news.ycombinator.com/item?id=37701884) - [OnlyOffice: Free open source office suite with business productivity tools](https://github.com/ONLYOFFICE/CommunityServer)
