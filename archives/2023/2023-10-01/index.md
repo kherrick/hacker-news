@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
 * [2023-10-01, 23:57:34](https://news.ycombinator.com/item?id=37732271) - [‘Quotes were £5000 or more’: electric vehicle owners face soaring insurance cost](https://www.theguardian.com/money/2023/sep/30/the-quotes-were-5000-or-more-electric-vehicle-owners-face-soaring-insurance-costs)
+* [2023-10-01, 23:48:14](https://news.ycombinator.com/item?id=37732203) - [LinkedIn forcing me to disclose my phone number to log in? No thanks](https://news.ycombinator.com/item?id=37732203)
+* [2023-10-01, 23:46:17](https://news.ycombinator.com/item?id=37732186) - [Intimacy does not scale (2021)](https://archive.ph/AUpYp)
 * [2023-10-01, 23:03:21](https://news.ycombinator.com/item?id=37731870) - [Peter Thiel’s Palantir Pushed Toward the Heart of U.K. Health Care](https://www.nytimes.com/2023/09/29/world/europe/uk-nhs-palantir.html)
 * [2023-10-01, 22:58:53](https://news.ycombinator.com/item?id=37731832) - [M2 MacBook Air “off-by-one” audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 22:45:08](https://news.ycombinator.com/item?id=37731729) - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)

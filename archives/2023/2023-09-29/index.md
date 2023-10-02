@@ -61,6 +61,7 @@
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
 * [2023-09-29, 14:31:37](https://news.ycombinator.com/item?id=37704859) - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
 * [2023-09-29, 14:28:14](https://news.ycombinator.com/item?id=37704807) - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
+* [2023-09-29, 14:26:59](https://news.ycombinator.com/item?id=37704786) - [Waste plastic can be recycled into hydrogen fuel and graphene](https://www.newscientist.com/article/2394144-waste-plastic-can-be-recycled-into-hydrogen-fuel-and-graphene/)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 * [2023-09-29, 14:23:20](https://news.ycombinator.com/item?id=37704721) - [Starting next year people will be able to drive home from their ophthalmologist](https://www.nasdaq.com/articles/viatris-vtrs-gets-fda-nod-for-pupil-dilation-reversal-agent)
 * [2023-09-29, 14:19:31](https://news.ycombinator.com/item?id=37704669) - [Design Your Own Arduino-Compatible Digital Level PCB, SparkleTilt](https://jams.hackclub.com/batch/sparkletilt-pcb)
