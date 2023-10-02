@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-02, 20:09:53](https://news.ycombinator.com/item?id=37743759) - [Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
-* [2023-10-02, 20:02:52](https://news.ycombinator.com/item?id=37743689) - [Asus Formally Completes Acquisition of Intel's NUC Business](https://www.anandtech.com/show/21080/asus-formally-completes-acquisition-of-intels-nuc-business)
+* [2023-10-02, 20:09:53](https://news.ycombinator.com/item?id=37743759) - [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
 * [2023-10-02, 19:53:36](https://news.ycombinator.com/item?id=37743567) - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
 * [2023-10-02, 19:49:05](https://news.ycombinator.com/item?id=37743517) - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
 * [2023-10-02, 18:05:23](https://news.ycombinator.com/item?id=37742067) - [Wilhelm Reich on pleasure and the genesis of anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
@@ -14,6 +13,7 @@
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
+* [2023-10-02, 14:29:03](https://news.ycombinator.com/item?id=37738603) - [Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
 * [2023-10-02, 14:20:05](https://news.ycombinator.com/item?id=37738489) - [Subroutines: David Bunnell's Newsletter from Inside the PC Industry (1986)](https://archive.org/details/subroutines-1986-david-bunnell-newsletter)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [JWST's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)

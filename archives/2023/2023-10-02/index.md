@@ -37,6 +37,7 @@
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739027) - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
+* [2023-10-02, 14:29:03](https://news.ycombinator.com/item?id=37738603) - [Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
 * [2023-10-02, 14:23:34](https://news.ycombinator.com/item?id=37738530) - [How to set up an anonymous user flow](https://fusionauth.io/blog/anonymous-user)
 * [2023-10-02, 14:20:05](https://news.ycombinator.com/item?id=37738489) - [Subroutines: David Bunnell's Newsletter from Inside the PC Industry](https://archive.org/details/subroutines-1986-david-bunnell-newsletter)
 * [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
