@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 13:09:35](https://news.ycombinator.com/item?id=37737588) - [Major airline faces backlash after using ghost flights to exploit legal loophole](https://news.yahoo.com/major-airline-faces-backlash-using-220000546.html)
+* [2023-10-02, 13:01:38](https://news.ycombinator.com/item?id=37737519) - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine awarded to Katalin Karikó and Drew Weissman](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)
@@ -15,7 +17,6 @@
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
 * [2023-10-02, 00:05:44](https://news.ycombinator.com/item?id=37732329) - [Beekeeper Studio SQL editor 4.0 – Import. backup, restore, and bigquery](https://www.beekeeperstudio.io/blog/release-4.0-db-backup-restore-import-export)
 * [2023-10-01, 23:46:17](https://news.ycombinator.com/item?id=37732186) - [Intimacy does not scale (2021)](https://archive.ph/AUpYp)
-* [2023-10-01, 22:53:04](https://news.ycombinator.com/item?id=37731798) - [Choose Boring Technology (2018)](https://boringtechnology.club/)
 * [2023-10-01, 22:43:29](https://news.ycombinator.com/item?id=37731716) - [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
 * [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
 * [2023-10-01, 21:16:27](https://news.ycombinator.com/item?id=37730894) - [The Quiet Revolution of the Sabbath](https://www.newyorker.com/culture/the-weekend-essay/the-quiet-revolution-of-the-sabbath)
@@ -29,7 +30,6 @@
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
 * [2023-09-29, 11:58:41](https://news.ycombinator.com/item?id=37702522) - [Nanofluidic device generates power with saltwater](https://techxplore.com/news/2023-09-nanofluidic-device-generates-power-saltwater.html)
 * [2023-09-29, 10:23:47](https://news.ycombinator.com/item?id=37701613) - [Eye comfort a priority for all-in-one desktop PC with color E Ink display](https://newatlas.com/computers/bigme-b251-all-in-one-computer-color-eink/)
-* [2023-09-29, 09:17:30](https://news.ycombinator.com/item?id=37701183) - [How to Pick a Programming Language (2002)](https://www.tundraware.com/Technology/How-To-Pick-A-Programming-Language/)
 
 ## [Archives](archives/index.md)
 
