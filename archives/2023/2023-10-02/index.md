@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 21:57:25](https://news.ycombinator.com/item?id=37745005) - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 * [2023-10-02, 20:48:50](https://news.ycombinator.com/item?id=37744213) - [Rewind Pendant: a wearable that captures what you say and hear](https://www.rewind.ai/pendant)
 * [2023-10-02, 20:40:30](https://news.ycombinator.com/item?id=37744114) - [A Call for Developers – Jellyfin](https://jellyfin.org/posts/a-call-for-developers/)
