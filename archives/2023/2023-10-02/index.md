@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
 * [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
+* [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
+* [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [James Webb Space Telescope's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
 * [2023-10-02, 13:15:23](https://news.ycombinator.com/item?id=37737651) - [Chromebook Plus: more performance and AI capabilities](https://blog.google/products/chromebooks/chromebook-plus/)
 * [2023-10-02, 13:10:43](https://news.ycombinator.com/item?id=37737599) - [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
 * [2023-10-02, 13:10:20](https://news.ycombinator.com/item?id=37737595) - [Milk Tea Addiction](https://pubmed.ncbi.nlm.nih.gov/37625703/)
