@@ -11,6 +11,7 @@
 * [2023-10-02, 06:52:28](https://news.ycombinator.com/item?id=37734759) - [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
 * [2023-10-02, 05:12:58](https://news.ycombinator.com/item?id=37734251) - [Nue.js: Rethinking Reactivity](https://nuejs.org/blog/rethinking-reactivity/)
 * [2023-10-02, 04:49:31](https://news.ycombinator.com/item?id=37734112) - [jq 1.7](https://github.com/jqlang/jq/releases)
+* [2023-10-02, 04:47:54](https://news.ycombinator.com/item?id=37734102) - [Lester del Rey invented fantasy fiction as we know it](https://slate.com/culture/2023/10/lester-del-rey-invention-fantasy-book-publishing.html)
 * [2023-10-02, 04:26:15](https://news.ycombinator.com/item?id=37733988) - [On Learning to Program with LLMs](https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/)
 * [2023-10-02, 04:13:02](https://news.ycombinator.com/item?id=37733916) - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
 * [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
