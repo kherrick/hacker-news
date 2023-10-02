@@ -6,6 +6,7 @@
 
 * [2023-10-02, 19:01:43](https://news.ycombinator.com/item?id=37742835) - [Two new security incidents involving CLEAR ratchet up concern from lawmakers](https://www.politico.com/news/2023/08/07/transpo-clear-tsa-00110124)
 * [2023-10-02, 18:55:52](https://news.ycombinator.com/item?id=37742750) - [Notion experiencing issues (over 6 hours)](https://status.notion.so/incidents/b3g5shlj6hhl)
+* [2023-10-02, 18:46:14](https://news.ycombinator.com/item?id=37742632) - [The 15-minute city conspiracy theory goes mainstream](https://www.wired.com/story/15-minute-city-conspiracy-uk-politics/)
 * [2023-10-02, 18:38:32](https://news.ycombinator.com/item?id=37742529) - [Robin Williams’ daughter Zelda slams AI for recreating her father’s voice](https://english.elpais.com/culture/2023-10-02/robin-williams-daughter-zelda-slams-ai-for-recreating-her-fathers-voice.html)
 * [2023-10-02, 18:31:12](https://news.ycombinator.com/item?id=37742433) - [Tom Hanks Warns Fans to Beware of Dental Plan Ad Featuring an AI Version of Him](https://www.ign.com/articles/tom-hanks-warns-fans-beware-dental-plan-ad-featuring-ai-version-of-him)
 * [2023-10-02, 18:30:54](https://news.ycombinator.com/item?id=37742429) - [Dalle-3 Examples](https://www.aidemos.info/dalle-3-examples/)
