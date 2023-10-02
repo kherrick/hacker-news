@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 18:20:30](https://news.ycombinator.com/item?id=37742286) - [The New Push for Censorship Under the Guise of Combating Hate](https://www.tabletmag.com/sections/news/articles/censorship-center-guise-combating-hate-covid-elon-musk)
 * [2023-10-02, 18:09:42](https://news.ycombinator.com/item?id=37742128) - [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
-* [2023-10-02, 18:05:38](https://news.ycombinator.com/item?id=37742072) - [South Asians Are Divided over a Pending Ban on Caste Discrimination](https://www.nytimes.com/2023/10/02/us/south-asians-are-divided-over-a-pending-ban-on-caste-discrimination.html)
 * [2023-10-02, 17:14:44](https://news.ycombinator.com/item?id=37741269) - [ASCII FacePalm](http://www.asciifacepalm.com/)
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
-* [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient Streaming Language Models with Attention Sinks](https://github.com/mit-han-lab/streaming-llm)
+* [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 * [2023-10-02, 16:29:13](https://news.ycombinator.com/item?id=37740468) - [Microsoft Defender was flagging Tor browser as a trojan and removing it](https://deform.co/microsoft-defender-flags-tor-browser-as-a-trojan-and-removes-it-from-the-system/)
 * [2023-10-02, 16:27:01](https://news.ycombinator.com/item?id=37740425) - [Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
