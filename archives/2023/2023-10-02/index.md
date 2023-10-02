@@ -7,6 +7,7 @@
 * [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)
+* [2023-10-02, 09:09:29](https://news.ycombinator.com/item?id=37735704) - [Crusty Windows](https://crustywindo.ws/Main_Page)
 * [2023-10-02, 08:56:46](https://news.ycombinator.com/item?id=37735614) - [HTTP Cats](https://http.cat/)
 * [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 * [2023-10-02, 07:45:33](https://news.ycombinator.com/item?id=37735049) - [The Shadowy Global Network Vilifying Climate Protesters](https://newrepublic.com/article/175488/meet-shadowy-global-network-vilifying-climate-protesters)
