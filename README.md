@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 04:49:31](https://news.ycombinator.com/item?id=37734112) - [jq 1.7](https://github.com/jqlang/jq/releases)
+* [2023-10-02, 04:13:02](https://news.ycombinator.com/item?id=37733916) - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
 * [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
 * [2023-10-02, 03:41:17](https://news.ycombinator.com/item?id=37733708) - [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
@@ -22,10 +24,8 @@
 * [2023-09-29, 13:10:43](https://news.ycombinator.com/item?id=37703651) - [Publishing my first game using PICO-8](https://boyter.org/posts/publishing-a-pico8-game/)
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
 * [2023-09-29, 13:00:27](https://news.ycombinator.com/item?id=37703464) - [The Artichoke Blossom, an Exploding Castle](https://worldsensorium.com/the-artichoke-blossom-an-exploding-castle/)
-* [2023-09-29, 12:59:37](https://news.ycombinator.com/item?id=37703448) - [The Worth of Wild Ideas](https://nautil.us/the-worth-of-wild-ideas-399097/)
 * [2023-09-29, 11:46:55](https://news.ycombinator.com/item?id=37702378) - [Lone Wolf, Letting Go](https://www.ungatedcreative.com/p/lone-wolf-letting-go)
 * [2023-09-29, 10:58:33](https://news.ycombinator.com/item?id=37701884) - [OnlyOffice: Free open source office suite with business productivity tools](https://github.com/ONLYOFFICE/CommunityServer)
-* [2023-09-29, 10:46:01](https://news.ycombinator.com/item?id=37701803) - [Bruno: Open-Source IDE for Exploring and Testing APIs](https://github.com/usebruno/bruno)
 * [2023-09-29, 10:23:47](https://news.ycombinator.com/item?id=37701613) - [Eye comfort a priority for all-in-one desktop PC with color E Ink display](https://newatlas.com/computers/bigme-b251-all-in-one-computer-color-eink/)
 * [2023-09-29, 09:17:30](https://news.ycombinator.com/item?id=37701183) - [How to Pick a Programming Language (2002)](https://www.tundraware.com/Technology/How-To-Pick-A-Programming-Language/)
 * [2023-09-29, 09:10:04](https://news.ycombinator.com/item?id=37701127) - [Upside-Down-Ternet (2006)](http://www.ex-parrot.com/~pete/upside-down-ternet.html)
