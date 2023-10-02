@@ -14,6 +14,7 @@
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739027) - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
 * [2023-10-02, 14:23:34](https://news.ycombinator.com/item?id=37738530) - [How to set up an anonymous user flow](https://fusionauth.io/blog/anonymous-user)
+* [2023-10-02, 14:20:05](https://news.ycombinator.com/item?id=37738489) - [Subroutines: David Bunnell's Newsletter from Inside the PC Industry](https://archive.org/details/subroutines-1986-david-bunnell-newsletter)
 * [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [James Webb Space Telescope's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
