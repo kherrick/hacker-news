@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 22:43:46](https://news.ycombinator.com/item?id=37745461) - [Ask HN: Who's Retired?](https://news.ycombinator.com/item?id=37745461)
 * [2023-10-02, 21:57:25](https://news.ycombinator.com/item?id=37745005) - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 * [2023-10-02, 20:40:30](https://news.ycombinator.com/item?id=37744114) - [A Call for Developers – Jellyfin](https://jellyfin.org/posts/a-call-for-developers/)
-* [2023-10-02, 20:09:53](https://news.ycombinator.com/item?id=37743759) - [Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
 * [2023-10-02, 20:06:30](https://news.ycombinator.com/item?id=37743727) - [Oxford 'explosion' after lightning strike seen from A34](https://www.oxfordmail.co.uk/news/23829165.oxford-explosion-lightning-strike-seen-a34/)
 * [2023-10-02, 19:49:05](https://news.ycombinator.com/item?id=37743517) - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
 * [2023-10-02, 18:05:23](https://news.ycombinator.com/item?id=37742067) - [Wilhelm Reich on pleasure and the genesis of anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
@@ -20,6 +20,7 @@
 * [2023-10-02, 14:29:03](https://news.ycombinator.com/item?id=37738603) - [Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [JWST's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
+* [2023-10-02, 13:15:23](https://news.ycombinator.com/item?id=37737651) - [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
 * [2023-10-02, 13:10:43](https://news.ycombinator.com/item?id=37737599) - [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
 * [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
@@ -29,7 +30,6 @@
 * [2023-10-02, 02:53:12](https://news.ycombinator.com/item?id=37733420) - [Finally, an MOS 7600/7601 Video Game Array data sheet](http://oldvcr.blogspot.com/2023/10/finally-mos-76007601-video-game-array.html)
 * [2023-10-02, 02:50:54](https://news.ycombinator.com/item?id=37733403) - [Slovenia’s beautiful beehives turn apiaries into art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
 * [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
-* [2023-10-01, 09:54:22](https://news.ycombinator.com/item?id=37724373) - [The Curse of Dialup World](https://allenpike.com/2023/dialup-world-isp)
 
 ## [Archives](archives/index.md)
 
