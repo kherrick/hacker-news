@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-02, 01:44:59",
+      "https://news.ycombinator.com/item?id=37733036"
+    ],
+    [
+      "Bye Sequence, Hello UUIDv7",
+      "https://buildkite.com/blog/goodbye-integers-hello-uuids"
+    ]
+  ],
+  [
+    [
+      "2023-10-02, 01:30:36",
+      "https://news.ycombinator.com/item?id=37732961"
+    ],
+    [
+      "Nvidia Unveils Updated GH200 Grace Hopper with HBM3e Memory, Shipping in Q2'2024",
+      "https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory"
+    ]
+  ],
+  [
+    [
+      "2023-10-02, 01:21:26",
+      "https://news.ycombinator.com/item?id=37732893"
+    ],
+    [
+      "Defense Counterintelligence and Security Agency",
+      "https://www.dcsa.mil/"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 00:33:29",
       "https://news.ycombinator.com/item?id=37732550"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-10-01, 15:01:01",
-      "https://news.ycombinator.com/item?id=37726539"
-    ],
-    [
-      "Tire dust makes up the majority of ocean microplastics",
-      "https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds"
-    ]
-  ],
-  [
-    [
       "2023-10-01, 14:41:12",
       "https://news.ycombinator.com/item?id=37726359"
     ],
@@ -177,16 +197,6 @@
     [
       "FlashAttention: Fast Transformer training with long sequences",
       "https://www.adept.ai/blog/flashier-attention"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 15:05:49",
-      "https://news.ycombinator.com/item?id=37705344"
-    ],
-    [
-      "Simple math moves the needle",
-      "https://www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Bruno: Open-Source IDE for Exploring and Testing APIs",
       "https://github.com/usebruno/bruno"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 10:33:52",
-      "https://news.ycombinator.com/item?id=37701706"
-    ],
-    [
-      "Physicists coax superconductivity and more from quasicrystals",
-      "https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html"
     ]
   ],
   [
