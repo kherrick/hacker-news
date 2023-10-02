@@ -22,6 +22,7 @@
 * [2023-10-02, 04:13:02](https://news.ycombinator.com/item?id=37733916) - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
 * [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
 * [2023-10-02, 03:41:17](https://news.ycombinator.com/item?id=37733708) - [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
+* [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short, forgotten life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free, open source, disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
