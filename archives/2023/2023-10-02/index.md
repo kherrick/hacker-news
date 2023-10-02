@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
 * [2023-10-02, 04:49:31](https://news.ycombinator.com/item?id=37734112) - [jq 1.7](https://github.com/jqlang/jq/releases)
+* [2023-10-02, 04:26:15](https://news.ycombinator.com/item?id=37733988) - [On Learning to Program with LLMs](https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/)
 * [2023-10-02, 04:13:02](https://news.ycombinator.com/item?id=37733916) - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
 * [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
 * [2023-10-02, 03:41:17](https://news.ycombinator.com/item?id=37733708) - [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
