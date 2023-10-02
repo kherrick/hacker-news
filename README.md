@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-02, 08:56:46](https://news.ycombinator.com/item?id=37735614) - [HTTP Cats](https://http.cat/)
+* [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 * [2023-10-02, 07:45:33](https://news.ycombinator.com/item?id=37735049) - [The Shadowy Global Network Vilifying Climate Protesters](https://newrepublic.com/article/175488/meet-shadowy-global-network-vilifying-climate-protesters)
 * [2023-10-02, 07:29:13](https://news.ycombinator.com/item?id=37734953) - [People going 'monk mode' to limit social media use](https://www.bbc.com/news/business-66934688)
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
@@ -20,7 +21,6 @@
 * [2023-10-01, 21:16:27](https://news.ycombinator.com/item?id=37730894) - [The Quiet Revolution of the Sabbath](https://www.newyorker.com/culture/the-weekend-essay/the-quiet-revolution-of-the-sabbath)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
-* [2023-10-01, 18:51:24](https://news.ycombinator.com/item?id=37729160) - [Bing ChatGPT image jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
 * [2023-10-01, 18:35:56](https://news.ycombinator.com/item?id=37728990) - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
 * [2023-10-01, 08:46:20](https://news.ycombinator.com/item?id=37724014) - [Code Golfing in Commodore BASIC](https://imrannazar.com/articles/binary-golf-in-c64-basic)
 * [2023-09-29, 15:07:25](https://news.ycombinator.com/item?id=37705365) - [Astronomers discover thousands of red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
