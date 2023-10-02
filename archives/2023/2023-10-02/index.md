@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 08:56:46](https://news.ycombinator.com/item?id=37735614) - [HTTP Cats](https://http.cat/)
 * [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 * [2023-10-02, 07:45:33](https://news.ycombinator.com/item?id=37735049) - [The Shadowy Global Network Vilifying Climate Protesters](https://newrepublic.com/article/175488/meet-shadowy-global-network-vilifying-climate-protesters)

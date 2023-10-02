@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-02, 08:56:46](https://news.ycombinator.com/item?id=37735614) - [HTTP Cats](https://http.cat/)
+* [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 * [2023-10-02, 07:45:33](https://news.ycombinator.com/item?id=37735049) - [The Shadowy Global Network Vilifying Climate Protesters](https://newrepublic.com/article/175488/meet-shadowy-global-network-vilifying-climate-protesters)
 * [2023-10-02, 07:29:13](https://news.ycombinator.com/item?id=37734953) - [People going 'monk mode' to limit social media use](https://www.bbc.com/news/business-66934688)
@@ -10,7 +10,6 @@
 * [2023-10-02, 04:26:15](https://news.ycombinator.com/item?id=37733988) - [On Learning to Program with LLMs](https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/)
 * [2023-10-02, 04:13:02](https://news.ycombinator.com/item?id=37733916) - [Mastodon for Apple II](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/)
 * [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Experimental Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
-* [2023-10-02, 03:41:17](https://news.ycombinator.com/item?id=37733708) - [New group attacking iPhone encryption backed by US political dark-money network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free open-source disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
@@ -21,6 +20,7 @@
 * [2023-10-01, 21:16:27](https://news.ycombinator.com/item?id=37730894) - [The Quiet Revolution of the Sabbath](https://www.newyorker.com/culture/the-weekend-essay/the-quiet-revolution-of-the-sabbath)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
+* [2023-10-01, 18:35:56](https://news.ycombinator.com/item?id=37728990) - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
 * [2023-10-01, 09:54:22](https://news.ycombinator.com/item?id=37724373) - [The Curse of Dialup World](https://allenpike.com/2023/dialup-world-isp)
 * [2023-10-01, 08:46:20](https://news.ycombinator.com/item?id=37724014) - [Code Golfing in Commodore BASIC](https://imrannazar.com/articles/binary-golf-in-c64-basic)
 * [2023-09-29, 15:07:25](https://news.ycombinator.com/item?id=37705365) - [Astronomers discover thousands of red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
