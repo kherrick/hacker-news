@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
 * [2023-10-02, 15:44:22](https://news.ycombinator.com/item?id=37739610) - [Stop Arguing over Elite Schools. Just Make Public Colleges Free](https://www.thenation.com/article/society/tuition-free-public-college/)
+* [2023-10-02, 15:41:44](https://news.ycombinator.com/item?id=37739575) - [Americans Saved $1.1T Less Than Previously Thought from 2017-2022](https://www.bloomberg.com/news/articles/2023-09-28/americans-saved-1-1-trillion-less-than-thought-from-2017-2022)
 * [2023-10-02, 15:28:10](https://news.ycombinator.com/item?id=37739376) - [Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
+* [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739027) - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
 * [2023-10-02, 14:23:34](https://news.ycombinator.com/item?id=37738530) - [How to set up an anonymous user flow](https://fusionauth.io/blog/anonymous-user)
 * [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
