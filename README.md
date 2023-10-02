@@ -2,7 +2,6 @@
 
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
 * [2023-10-02, 01:30:36](https://news.ycombinator.com/item?id=37732961) - [Nvidia Unveils Updated GH200 Grace Hopper with HBM3e Memory, Shipping in Q2'2024](https://www.anandtech.com/show/20001/nvidia-unveils-gh200-grace-hopper-gpu-with-hbm3e-memory)
-* [2023-10-02, 00:33:29](https://news.ycombinator.com/item?id=37732550) - [Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought](https://futurism.com/critics-microsoft-water-train-ai-drought)
 * [2023-10-01, 23:48:14](https://news.ycombinator.com/item?id=37732203) - [LinkedIn forcing me to disclose my phone number to log in? No thanks](https://news.ycombinator.com/item?id=37732203)
 * [2023-10-01, 23:46:17](https://news.ycombinator.com/item?id=37732186) - [Intimacy does not scale (2021)](https://archive.ph/AUpYp)
 * [2023-10-01, 22:45:08](https://news.ycombinator.com/item?id=37731729) - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
@@ -28,6 +27,7 @@
 * [2023-09-29, 11:46:55](https://news.ycombinator.com/item?id=37702378) - [Lone Wolf, Letting Go](https://www.ungatedcreative.com/p/lone-wolf-letting-go)
 * [2023-09-29, 10:58:33](https://news.ycombinator.com/item?id=37701884) - [OnlyOffice: Free open source office suite with business productivity tools](https://github.com/ONLYOFFICE/CommunityServer)
 * [2023-09-29, 10:46:01](https://news.ycombinator.com/item?id=37701803) - [Bruno: Open-Source IDE for Exploring and Testing APIs](https://github.com/usebruno/bruno)
+* [2023-09-29, 10:33:52](https://news.ycombinator.com/item?id=37701706) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 09:10:04](https://news.ycombinator.com/item?id=37701127) - [Upside-Down-Ternet (2006)](http://www.ex-parrot.com/~pete/upside-down-ternet.html)
 * [2023-09-29, 08:47:41](https://news.ycombinator.com/item?id=37700980) - [Language was born in the hands (2022)](https://cosmosmagazine.com/people/culture/language-evolution-gestures-sign/)
 
