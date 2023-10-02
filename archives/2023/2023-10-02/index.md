@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
+* [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Streaming LLM – No limit on context length for your favourite LLM](https://github.com/mit-han-lab/streaming-llm)
+* [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 * [2023-10-02, 16:29:13](https://news.ycombinator.com/item?id=37740468) - [Microsoft Defender Flags Tor Browser as a Trojan and Removes It from the System](https://deform.co/microsoft-defender-flags-tor-browser-as-a-trojan-and-removes-it-from-the-system/)
+* [2023-10-02, 16:27:01](https://news.ycombinator.com/item?id=37740425) - [Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
+* [2023-10-02, 16:04:41](https://news.ycombinator.com/item?id=37739965) - [Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices)
 * [2023-10-02, 15:44:22](https://news.ycombinator.com/item?id=37739610) - [Stop Arguing over Elite Schools. Just Make Public Colleges Free](https://www.thenation.com/article/society/tuition-free-public-college/)
 * [2023-10-02, 15:41:44](https://news.ycombinator.com/item?id=37739575) - [Americans Saved $1.1T Less Than Previously Thought from 2017-2022](https://www.bloomberg.com/news/articles/2023-09-28/americans-saved-1-1-trillion-less-than-thought-from-2017-2022)
 * [2023-10-02, 15:39:30](https://news.ycombinator.com/item?id=37739540) - [How China's “debt traps” work](https://www.noahpinion.blog/p/how-chinas-debt-traps-actually-work)
