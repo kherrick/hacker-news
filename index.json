@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-02, 04:49:31",
-      "https://news.ycombinator.com/item?id=37734112"
-    ],
-    [
-      "jq 1.7",
-      "https://github.com/jqlang/jq/releases"
-    ]
-  ],
-  [
-    [
       "2023-10-02, 04:26:15",
       "https://news.ycombinator.com/item?id=37733988"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37733763"
     ],
     [
-      "Pg_branch: Pre-alpha Postgres extension brings Neon-like branching",
+      "Pg_branch: Experimental Postgres extension brings Neon-like branching",
       "https://github.com/NAlexPear/pg_branch"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37733708"
     ],
     [
-      "New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network",
+      "New group attacking iPhone encryption backed by US political dark-money network",
       "https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37733184"
     ],
     [
-      "VeraCrypt: Free, open source, disk encryption for Windows, Mac OS X, Linux",
+      "VeraCrypt: Free open-source disk encryption for Windows, Mac OS X, Linux",
       "https://www.veracrypt.fr/en/Home.html"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Publishing my first game using PICO-8",
       "https://boyter.org/posts/publishing-a-pico8-game/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 13:09:52",
+      "https://news.ycombinator.com/item?id=37703637"
+    ],
+    [
+      "Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET",
+      "https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a"
     ]
   ],
   [
