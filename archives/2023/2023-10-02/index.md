@@ -6,6 +6,7 @@
 
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 * [2023-10-02, 20:48:50](https://news.ycombinator.com/item?id=37744213) - [Rewind Pendant: a wearable that captures what you say and hear](https://www.rewind.ai/pendant)
+* [2023-10-02, 20:40:30](https://news.ycombinator.com/item?id=37744114) - [A Call for Developers – Jellyfin](https://jellyfin.org/posts/a-call-for-developers/)
 * [2023-10-02, 20:09:53](https://news.ycombinator.com/item?id=37743759) - [Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
 * [2023-10-02, 20:06:30](https://news.ycombinator.com/item?id=37743727) - [Oxford 'explosion' after lightning strike seen from A34](https://www.oxfordmail.co.uk/news/23829165.oxford-explosion-lightning-strike-seen-a34/)
 * [2023-10-02, 20:02:52](https://news.ycombinator.com/item?id=37743689) - [Asus Formally Completes Acquisition of Intel's NUC Business](https://www.anandtech.com/show/21080/asus-formally-completes-acquisition-of-intels-nuc-business)
