@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 15:28:10](https://news.ycombinator.com/item?id=37739376) - [Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
+* [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739027) - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
 * [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [James Webb Space Telescope's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
@@ -8,7 +10,6 @@
 * [2023-10-02, 13:01:38](https://news.ycombinator.com/item?id=37737519) - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 12:14:39](https://news.ycombinator.com/item?id=37737131) - [Some people may be physically unable to use police breathalysers – study](https://www.sheffield.ac.uk/news/new-research-indicates-some-people-may-be-physically-unable-use-police-breathalysers)
-* [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Prize in Medicine awarded to Katalin Karikó and Drew Weissman](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [The minimum every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 09:09:29](https://news.ycombinator.com/item?id=37735704) - [Crusty Windows](https://crustywindo.ws/Main_Page)
@@ -28,7 +29,6 @@
 * [2023-10-01, 04:03:15](https://news.ycombinator.com/item?id=37722416) - [Using Emacs as $Editor](https://magnus.therning.org/2023-09-30-using-emacs-as-$editor.html)
 * [2023-09-29, 15:07:25](https://news.ycombinator.com/item?id=37705365) - [Astronomers discover thousands of red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
-* [2023-09-29, 11:58:41](https://news.ycombinator.com/item?id=37702522) - [Nanofluidic device generates power with saltwater](https://techxplore.com/news/2023-09-nanofluidic-device-generates-power-saltwater.html)
 * [2023-09-29, 10:23:47](https://news.ycombinator.com/item?id=37701613) - [Eye comfort a priority for all-in-one desktop PC with color E Ink display](https://newatlas.com/computers/bigme-b251-all-in-one-computer-color-eink/)
 
 ## [Archives](archives/index.md)
