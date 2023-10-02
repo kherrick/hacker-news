@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 18:30:54](https://news.ycombinator.com/item?id=37742429) - [Dalle-3 Examples](https://www.aidemos.info/dalle-3-examples/)
 * [2023-10-02, 18:20:30](https://news.ycombinator.com/item?id=37742286) - [The New Push for Censorship Under the Guise of Combating Hate](https://www.tabletmag.com/sections/news/articles/censorship-center-guise-combating-hate-covid-elon-musk)
 * [2023-10-02, 18:09:42](https://news.ycombinator.com/item?id=37742128) - [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
 * [2023-10-02, 18:05:38](https://news.ycombinator.com/item?id=37742072) - [South Asians Are Divided over a Pending Ban on Caste Discrimination](https://www.nytimes.com/2023/10/02/us/south-asians-are-divided-over-a-pending-ban-on-caste-discrimination.html)
+* [2023-10-02, 18:05:23](https://news.ycombinator.com/item?id=37742067) - [Wilhelm Reich on Pleasure and the Genesis of Anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
 * [2023-10-02, 17:14:44](https://news.ycombinator.com/item?id=37741269) - [ASCII FacePalm](http://www.asciifacepalm.com/)
 * [2023-10-02, 17:14:14](https://news.ycombinator.com/item?id=37741262) - [EV Battery Factory Will Require So Much Energy It Needs a Coal Plant to Power It](https://cowboystatedaily.com/2023/09/22/ev-battery-factory-will-require-so-much-energy-it-needs-a-coal-plant-to-power-it/)
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
@@ -57,6 +59,7 @@
 * [2023-10-02, 03:41:17](https://news.ycombinator.com/item?id=37733708) - [New Group Attacking iPhone Encryption Backed by US Political Dark-Money Network](https://theintercept.com/2023/10/01/apple-encryption-iphone-heat-initiative/)
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short, forgotten life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 * [2023-10-02, 02:53:12](https://news.ycombinator.com/item?id=37733420) - [Finally, an MOS 7600/7601 Video Game Array data sheet](http://oldvcr.blogspot.com/2023/10/finally-mos-76007601-video-game-array.html)
+* [2023-10-02, 02:50:54](https://news.ycombinator.com/item?id=37733403) - [Slovenia’s Beautiful Beehives Turn Apiaries into Art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free, open source, disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
