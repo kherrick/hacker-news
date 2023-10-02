@@ -12,6 +12,7 @@
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 * [2023-10-02, 15:22:56](https://news.ycombinator.com/item?id=37739320) - [The world needs computational social science](https://petterhol.me/2023/10/02/the-well-groomed-anarchists-why-the-world-needs-computational-social-science/)
+* [2023-10-02, 15:16:04](https://news.ycombinator.com/item?id=37739238) - [Researchers find a cause of Parkinson’s disease, Mitochondrial DNA damage](https://www.eurekalert.org/news-releases/1003348)
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
@@ -28,7 +29,6 @@
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 * [2023-10-02, 02:53:12](https://news.ycombinator.com/item?id=37733420) - [Finally, an MOS 7600/7601 Video Game Array data sheet](http://oldvcr.blogspot.com/2023/10/finally-mos-76007601-video-game-array.html)
 * [2023-10-02, 02:50:54](https://news.ycombinator.com/item?id=37733403) - [Slovenia’s beautiful beehives turn apiaries into art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
-* [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
 * [2023-10-01, 09:54:22](https://news.ycombinator.com/item?id=37724373) - [The Curse of Dialup World](https://allenpike.com/2023/dialup-world-isp)
 
 ## [Archives](archives/index.md)

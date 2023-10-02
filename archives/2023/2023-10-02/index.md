@@ -37,6 +37,7 @@
 * [2023-10-02, 15:38:51](https://news.ycombinator.com/item?id=37739527) - [The CDC Awards $260M Contract for Disease Surveillance](https://reclaimthenet.org/the-cdc-awards-260-million-contract-for-disease-surveillance)
 * [2023-10-02, 15:28:10](https://news.ycombinator.com/item?id=37739376) - [Return to Office Is Bullshit and Everyone Knows It](https://soatok.blog/2023/10/02/return-to-office-is-bullshit-and-everyone-knows-it/)
 * [2023-10-02, 15:22:56](https://news.ycombinator.com/item?id=37739320) - [Why the world needs computational social science](https://petterhol.me/2023/10/02/the-well-groomed-anarchists-why-the-world-needs-computational-social-science/)
+* [2023-10-02, 15:16:04](https://news.ycombinator.com/item?id=37739238) - [Researchers find a cause of Parkinson’s disease, Mitochondrial DNA damage](https://www.eurekalert.org/news-releases/1003348)
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic, a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739027) - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
