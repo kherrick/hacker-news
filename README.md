@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
-* [2023-10-02, 08:56:46](https://news.ycombinator.com/item?id=37735614) - [HTTP Cats](https://http.cat/)
+* [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine awarded to Katalin Karikó and Drew Weissman](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 * [2023-10-02, 07:29:13](https://news.ycombinator.com/item?id=37734953) - [People going 'monk mode' to limit social media use](https://www.bbc.com/news/business-66934688)
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
@@ -17,6 +16,7 @@
 * [2023-10-01, 23:46:17](https://news.ycombinator.com/item?id=37732186) - [Intimacy does not scale (2021)](https://archive.ph/AUpYp)
 * [2023-10-01, 22:53:04](https://news.ycombinator.com/item?id=37731798) - [Choose Boring Technology (2018)](https://boringtechnology.club/)
 * [2023-10-01, 22:43:29](https://news.ycombinator.com/item?id=37731716) - [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
+* [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
 * [2023-10-01, 21:16:27](https://news.ycombinator.com/item?id=37730894) - [The Quiet Revolution of the Sabbath](https://www.newyorker.com/culture/the-weekend-essay/the-quiet-revolution-of-the-sabbath)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
