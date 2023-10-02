@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-02, 13:15:23](https://news.ycombinator.com/item?id=37737651) - [Chromebook Plus: more performance and AI capabilities](https://blog.google/products/chromebooks/chromebook-plus/)
+* [2023-10-02, 13:15:23](https://news.ycombinator.com/item?id=37737651) - [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
 * [2023-10-02, 13:10:43](https://news.ycombinator.com/item?id=37737599) - [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
-* [2023-10-02, 13:10:20](https://news.ycombinator.com/item?id=37737595) - [Milk Tea Addiction](https://pubmed.ncbi.nlm.nih.gov/37625703/)
 * [2023-10-02, 13:09:35](https://news.ycombinator.com/item?id=37737588) - [Major airline faces backlash after using ghost flights to exploit legal loophole](https://news.yahoo.com/major-airline-faces-backlash-using-220000546.html)
 * [2023-10-02, 13:01:38](https://news.ycombinator.com/item?id=37737519) - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 12:48:41](https://news.ycombinator.com/item?id=37737409) - [Who’s Rooting Hardest for a Sam Bankman-Fried Conviction? The Crypto Industry.](https://www.nytimes.com/2023/10/02/technology/crypto-insiders-sam-bankman-fried-conviction.html)
@@ -18,6 +17,7 @@
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free open-source disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
+* [2023-10-02, 00:05:44](https://news.ycombinator.com/item?id=37732329) - [Beekeeper Studio SQL editor 4.0 – Import. backup, restore, and bigquery](https://www.beekeeperstudio.io/blog/release-4.0-db-backup-restore-import-export)
 * [2023-10-01, 23:46:17](https://news.ycombinator.com/item?id=37732186) - [Intimacy does not scale (2021)](https://archive.ph/AUpYp)
 * [2023-10-01, 22:43:29](https://news.ycombinator.com/item?id=37731716) - [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
 * [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
