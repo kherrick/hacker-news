@@ -97,6 +97,7 @@
 * [2023-09-29, 12:20:13](https://news.ycombinator.com/item?id=37702751) - [Web Scraping Using ChatGPT – Complete Guide with Examples](https://proxiesapi.com/articles/web-scraping-using-chatgpt-complete-guide-with-examples)
 * [2023-09-29, 12:09:04](https://news.ycombinator.com/item?id=37702632) - [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
 * [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
+* [2023-09-29, 11:46:55](https://news.ycombinator.com/item?id=37702378) - [Lone Wolf, Letting Go](https://www.ungatedcreative.com/p/lone-wolf-letting-go)
 * [2023-09-29, 11:34:55](https://news.ycombinator.com/item?id=37702194) - [Pixel-based visualization of distributions – click Settings](https://lincoln.swaine-moore.is/blue)
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
