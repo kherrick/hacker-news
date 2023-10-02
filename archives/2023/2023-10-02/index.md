@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 17:14:14](https://news.ycombinator.com/item?id=37741262) - [EV Battery Factory Will Require So Much Energy It Needs a Coal Plant to Power It](https://cowboystatedaily.com/2023/09/22/ev-battery-factory-will-require-so-much-energy-it-needs-a-coal-plant-to-power-it/)
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Streaming LLM – No limit on context length for your favourite LLM](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
