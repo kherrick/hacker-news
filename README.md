@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 20:09:53](https://news.ycombinator.com/item?id=37743759) - [Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
 * [2023-10-02, 20:02:52](https://news.ycombinator.com/item?id=37743689) - [Asus Formally Completes Acquisition of Intel's NUC Business](https://www.anandtech.com/show/21080/asus-formally-completes-acquisition-of-intels-nuc-business)
 * [2023-10-02, 19:53:36](https://news.ycombinator.com/item?id=37743567) - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
 * [2023-10-02, 19:49:05](https://news.ycombinator.com/item?id=37743517) - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
@@ -9,9 +10,10 @@
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 * [2023-10-02, 16:04:41](https://news.ycombinator.com/item?id=37739965) - [Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices)
-* [2023-10-02, 15:22:56](https://news.ycombinator.com/item?id=37739320) - [Why the world needs computational social science](https://petterhol.me/2023/10/02/the-well-groomed-anarchists-why-the-world-needs-computational-social-science/)
+* [2023-10-02, 15:22:56](https://news.ycombinator.com/item?id=37739320) - [The world needs computational social science](https://petterhol.me/2023/10/02/the-well-groomed-anarchists-why-the-world-needs-computational-social-science/)
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
+* [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
 * [2023-10-02, 14:20:05](https://news.ycombinator.com/item?id=37738489) - [Subroutines: David Bunnell's Newsletter from Inside the PC Industry (1986)](https://archive.org/details/subroutines-1986-david-bunnell-newsletter)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [JWST's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
@@ -27,9 +29,7 @@
 * [2023-10-02, 02:53:12](https://news.ycombinator.com/item?id=37733420) - [Finally, an MOS 7600/7601 Video Game Array data sheet](http://oldvcr.blogspot.com/2023/10/finally-mos-76007601-video-game-array.html)
 * [2023-10-02, 02:50:54](https://news.ycombinator.com/item?id=37733403) - [Slovenia’s beautiful beehives turn apiaries into art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
 * [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
-* [2023-10-01, 11:28:09](https://news.ycombinator.com/item?id=37724896) - [A visual comparison of different national layouts on a computer keyboard (2019)](https://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
 * [2023-10-01, 09:54:22](https://news.ycombinator.com/item?id=37724373) - [The Curse of Dialup World](https://allenpike.com/2023/dialup-world-isp)
-* [2023-10-01, 04:03:15](https://news.ycombinator.com/item?id=37722416) - [Using Emacs as $EDITOR](https://magnus.therning.org/2023-09-30-using-emacs-as-$editor.html)
 
 ## [Archives](archives/index.md)
 

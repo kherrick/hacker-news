@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 20:09:53](https://news.ycombinator.com/item?id=37743759) - [Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA](https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/)
 * [2023-10-02, 20:02:52](https://news.ycombinator.com/item?id=37743689) - [Asus Formally Completes Acquisition of Intel's NUC Business](https://www.anandtech.com/show/21080/asus-formally-completes-acquisition-of-intels-nuc-business)
 * [2023-10-02, 19:53:36](https://news.ycombinator.com/item?id=37743567) - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
 * [2023-10-02, 19:49:05](https://news.ycombinator.com/item?id=37743517) - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
@@ -35,6 +36,7 @@
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic, a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739027) - [Ask HN: Freelancer? Seeking freelancer? (October 2023)](https://news.ycombinator.com/item?id=37739027)
+* [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
 * [2023-10-02, 14:23:34](https://news.ycombinator.com/item?id=37738530) - [How to set up an anonymous user flow](https://fusionauth.io/blog/anonymous-user)
 * [2023-10-02, 14:20:05](https://news.ycombinator.com/item?id=37738489) - [Subroutines: David Bunnell's Newsletter from Inside the PC Industry](https://archive.org/details/subroutines-1986-david-bunnell-newsletter)
 * [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
