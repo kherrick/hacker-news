@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 13:10:20](https://news.ycombinator.com/item?id=37737595) - [Milk Tea Addiction](https://pubmed.ncbi.nlm.nih.gov/37625703/)
 * [2023-10-02, 13:09:35](https://news.ycombinator.com/item?id=37737588) - [Major airline faces backlash after using ghost flights to exploit legal loophole](https://news.yahoo.com/major-airline-faces-backlash-using-220000546.html)
 * [2023-10-02, 13:01:38](https://news.ycombinator.com/item?id=37737519) - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)

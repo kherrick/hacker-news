@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-02, 13:10:20](https://news.ycombinator.com/item?id=37737595) - [Milk Tea Addiction](https://pubmed.ncbi.nlm.nih.gov/37625703/)
 * [2023-10-02, 13:09:35](https://news.ycombinator.com/item?id=37737588) - [Major airline faces backlash after using ghost flights to exploit legal loophole](https://news.yahoo.com/major-airline-faces-backlash-using-220000546.html)
 * [2023-10-02, 13:01:38](https://news.ycombinator.com/item?id=37737519) - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
@@ -21,7 +22,6 @@
 * [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
 * [2023-10-01, 21:16:27](https://news.ycombinator.com/item?id=37730894) - [The Quiet Revolution of the Sabbath](https://www.newyorker.com/culture/the-weekend-essay/the-quiet-revolution-of-the-sabbath)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
-* [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
 * [2023-10-01, 09:54:22](https://news.ycombinator.com/item?id=37724373) - [The Curse of Dialup World](https://allenpike.com/2023/dialup-world-isp)
 * [2023-10-01, 08:46:20](https://news.ycombinator.com/item?id=37724014) - [Code Golfing in Commodore BASIC](https://imrannazar.com/articles/binary-golf-in-c64-basic)
 * [2023-10-01, 04:03:15](https://news.ycombinator.com/item?id=37722416) - [Using Emacs as $Editor](https://magnus.therning.org/2023-09-30-using-emacs-as-$editor.html)
