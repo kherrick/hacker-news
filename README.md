@@ -13,7 +13,6 @@
 * [2023-10-01, 18:54:09](https://news.ycombinator.com/item?id=37729203) - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
 * [2023-10-01, 18:51:30](https://news.ycombinator.com/item?id=37729163) - [12,000-year-old realistic human statue was unearthed](https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/)
 * [2023-10-01, 18:51:24](https://news.ycombinator.com/item?id=37729160) - [Bing ChatGPT image jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
-* [2023-10-01, 18:04:28](https://news.ycombinator.com/item?id=37728642) - [Fine, I'll run a regression analysis but it won't make you happy](https://www.natesilver.net/p/fine-ill-run-a-regression-analysis)
 * [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
 * [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire dust makes up the majority of ocean microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD (2008)](https://www.stereophile.com/features/308mp3cd/index.html)
@@ -28,6 +27,7 @@
 * [2023-09-29, 11:46:55](https://news.ycombinator.com/item?id=37702378) - [Lone Wolf, Letting Go](https://www.ungatedcreative.com/p/lone-wolf-letting-go)
 * [2023-09-29, 10:58:33](https://news.ycombinator.com/item?id=37701884) - [OnlyOffice: Free open source office suite with business productivity tools](https://github.com/ONLYOFFICE/CommunityServer)
 * [2023-09-29, 10:46:01](https://news.ycombinator.com/item?id=37701803) - [Bruno: Open-Source IDE for Exploring and Testing APIs](https://github.com/usebruno/bruno)
+* [2023-09-29, 09:17:30](https://news.ycombinator.com/item?id=37701183) - [How to Pick a Programming Language (2002)](https://www.tundraware.com/Technology/How-To-Pick-A-Programming-Language/)
 * [2023-09-29, 09:10:04](https://news.ycombinator.com/item?id=37701127) - [Upside-Down-Ternet (2006)](http://www.ex-parrot.com/~pete/upside-down-ternet.html)
 * [2023-09-29, 08:47:41](https://news.ycombinator.com/item?id=37700980) - [Language was born in the hands (2022)](https://cosmosmagazine.com/people/culture/language-evolution-gestures-sign/)
 
