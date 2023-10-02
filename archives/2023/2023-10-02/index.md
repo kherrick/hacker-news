@@ -9,6 +9,7 @@
 * [2023-10-02, 18:09:42](https://news.ycombinator.com/item?id=37742128) - [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
 * [2023-10-02, 18:05:38](https://news.ycombinator.com/item?id=37742072) - [South Asians Are Divided over a Pending Ban on Caste Discrimination](https://www.nytimes.com/2023/10/02/us/south-asians-are-divided-over-a-pending-ban-on-caste-discrimination.html)
 * [2023-10-02, 18:05:23](https://news.ycombinator.com/item?id=37742067) - [Wilhelm Reich on Pleasure and the Genesis of Anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
+* [2023-10-02, 17:32:48](https://news.ycombinator.com/item?id=37741575) - [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
 * [2023-10-02, 17:14:44](https://news.ycombinator.com/item?id=37741269) - [ASCII FacePalm](http://www.asciifacepalm.com/)
 * [2023-10-02, 17:14:14](https://news.ycombinator.com/item?id=37741262) - [EV Battery Factory Will Require So Much Energy It Needs a Coal Plant to Power It](https://cowboystatedaily.com/2023/09/22/ev-battery-factory-will-require-so-much-energy-it-needs-a-coal-plant-to-power-it/)
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
