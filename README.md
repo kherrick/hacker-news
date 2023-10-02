@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-02, 18:09:42](https://news.ycombinator.com/item?id=37742128) - [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
+* [2023-10-02, 18:05:38](https://news.ycombinator.com/item?id=37742072) - [South Asians Are Divided over a Pending Ban on Caste Discrimination](https://www.nytimes.com/2023/10/02/us/south-asians-are-divided-over-a-pending-ban-on-caste-discrimination.html)
 * [2023-10-02, 17:14:44](https://news.ycombinator.com/item?id=37741269) - [ASCII FacePalm](http://www.asciifacepalm.com/)
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient Streaming Language Models with Attention Sinks](https://github.com/mit-han-lab/streaming-llm)
@@ -13,7 +14,6 @@
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 14:20:05](https://news.ycombinator.com/item?id=37738489) - [Subroutines: David Bunnell's Newsletter from Inside the PC Industry](https://archive.org/details/subroutines-1986-david-bunnell-newsletter)
-* [2023-10-02, 14:08:13](https://news.ycombinator.com/item?id=37738347) - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [JWST's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
 * [2023-10-02, 13:15:23](https://news.ycombinator.com/item?id=37737651) - [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
