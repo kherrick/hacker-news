@@ -104,6 +104,7 @@
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 * [2023-09-29, 10:58:33](https://news.ycombinator.com/item?id=37701884) - [OnlyOffice: Free open source office suite with business productivity tools](https://github.com/ONLYOFFICE/CommunityServer)
 * [2023-09-29, 10:55:15](https://news.ycombinator.com/item?id=37701860) - [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
+* [2023-09-29, 10:46:01](https://news.ycombinator.com/item?id=37701803) - [Bruno: Open-Source IDE for Exploring and Testing APIs](https://github.com/usebruno/bruno)
 * [2023-09-29, 10:33:52](https://news.ycombinator.com/item?id=37701706) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)

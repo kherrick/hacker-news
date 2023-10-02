@@ -10,6 +10,7 @@
 * [2023-10-01, 23:03:21](https://news.ycombinator.com/item?id=37731870) - [Peter Thiel’s Palantir Pushed Toward the Heart of U.K. Health Care](https://www.nytimes.com/2023/09/29/world/europe/uk-nhs-palantir.html)
 * [2023-10-01, 22:58:53](https://news.ycombinator.com/item?id=37731832) - [M2 MacBook Air “off-by-one” audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 22:45:08](https://news.ycombinator.com/item?id=37731729) - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
+* [2023-10-01, 22:43:29](https://news.ycombinator.com/item?id=37731716) - [CISA, NSA, FBI Release Advisory Warning of BlackTech, PRC-Linked Cyber Activity](https://www.cisa.gov/news-events/news/cisa-nsa-fbi-and-japan-release-advisory-warning-blacktech-prc-linked-cyber-activity)
 * [2023-10-01, 22:38:50](https://news.ycombinator.com/item?id=37731670) - [Tom Hanks says that’s not him selling dental insurance in Instagram ads](https://www.avclub.com/tom-hanks-ai-dental-plan-instagram-ads-1850890845)
 * [2023-10-01, 22:23:49](https://news.ycombinator.com/item?id=37731544) - [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
 * [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [Companies Like Amazon and JPMorgan Spy on Their Staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
