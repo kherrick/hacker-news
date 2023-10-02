@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 19:01:43](https://news.ycombinator.com/item?id=37742835) - [Two new security incidents involving CLEAR ratchet up concern from lawmakers](https://www.politico.com/news/2023/08/07/transpo-clear-tsa-00110124)
+* [2023-10-02, 18:55:52](https://news.ycombinator.com/item?id=37742750) - [Notion experiencing issues (over 6 hours)](https://status.notion.so/incidents/b3g5shlj6hhl)
+* [2023-10-02, 18:38:32](https://news.ycombinator.com/item?id=37742529) - [Robin Williams’ daughter Zelda slams AI for recreating her father’s voice](https://english.elpais.com/culture/2023-10-02/robin-williams-daughter-zelda-slams-ai-for-recreating-her-fathers-voice.html)
+* [2023-10-02, 18:31:12](https://news.ycombinator.com/item?id=37742433) - [Tom Hanks Warns Fans to Beware of Dental Plan Ad Featuring an AI Version of Him](https://www.ign.com/articles/tom-hanks-warns-fans-beware-dental-plan-ad-featuring-ai-version-of-him)
 * [2023-10-02, 18:30:54](https://news.ycombinator.com/item?id=37742429) - [Dalle-3 Examples](https://www.aidemos.info/dalle-3-examples/)
 * [2023-10-02, 18:20:30](https://news.ycombinator.com/item?id=37742286) - [The New Push for Censorship Under the Guise of Combating Hate](https://www.tabletmag.com/sections/news/articles/censorship-center-guise-combating-hate-covid-elon-musk)
 * [2023-10-02, 18:09:42](https://news.ycombinator.com/item?id=37742128) - [Cat found after Lyft fiasco dragged on for days, Lyft to pay vet bills](https://arstechnica.com/tech-policy/2023/10/tux-the-cat-found-after-lyft-fiasco-dragged-on-for-days-lyft-to-pay-vet-bills/)
