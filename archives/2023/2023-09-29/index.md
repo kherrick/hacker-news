@@ -107,6 +107,7 @@
 * [2023-09-29, 10:46:01](https://news.ycombinator.com/item?id=37701803) - [Bruno: Open-Source IDE for Exploring and Testing APIs](https://github.com/usebruno/bruno)
 * [2023-09-29, 10:33:52](https://news.ycombinator.com/item?id=37701706) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
+* [2023-09-29, 10:23:47](https://news.ycombinator.com/item?id=37701613) - [Eye comfort a priority for all-in-one desktop PC with color E Ink display](https://newatlas.com/computers/bigme-b251-all-in-one-computer-color-eink/)
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 * [2023-09-29, 10:03:31](https://news.ycombinator.com/item?id=37701476) - [CloudFlare is blocking traffic to Discord](https://discord.com/)
 * [2023-09-29, 09:23:06](https://news.ycombinator.com/item?id=37701222) - [Leaked screenshot shows Amazon now tracking individual employee attendance](https://www.businessinsider.com/amazon-forced-rto-tracking-employee-office-attendance-2023-9)
