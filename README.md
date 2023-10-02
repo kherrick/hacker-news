@@ -2,12 +2,12 @@
 
 * [2023-10-02, 20:02:52](https://news.ycombinator.com/item?id=37743689) - [Asus Formally Completes Acquisition of Intel's NUC Business](https://www.anandtech.com/show/21080/asus-formally-completes-acquisition-of-intels-nuc-business)
 * [2023-10-02, 19:53:36](https://news.ycombinator.com/item?id=37743567) - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://arxiv.org/abs/2309.14556)
+* [2023-10-02, 19:49:05](https://news.ycombinator.com/item?id=37743517) - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
 * [2023-10-02, 18:05:23](https://news.ycombinator.com/item?id=37742067) - [Wilhelm Reich on pleasure and the genesis of anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
 * [2023-10-02, 17:32:48](https://news.ycombinator.com/item?id=37741575) - [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
 * [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
-* [2023-10-02, 16:29:13](https://news.ycombinator.com/item?id=37740468) - [Microsoft Defender was flagging Tor browser as a trojan and removing it](https://deform.co/microsoft-defender-flags-tor-browser-as-a-trojan-and-removes-it-from-the-system/)
 * [2023-10-02, 16:04:41](https://news.ycombinator.com/item?id=37739965) - [Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices)
 * [2023-10-02, 15:22:56](https://news.ycombinator.com/item?id=37739320) - [Why the world needs computational social science](https://petterhol.me/2023/10/02/the-well-groomed-anarchists-why-the-world-needs-computational-social-science/)
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
