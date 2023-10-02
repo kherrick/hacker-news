@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 03:49:35](https://news.ycombinator.com/item?id=37733763) - [Pg_branch: Pre-alpha Postgres extension brings Neon-like branching](https://github.com/NAlexPear/pg_branch)
 * [2023-10-02, 02:14:10](https://news.ycombinator.com/item?id=37733200) - [Arm’s Cortex A510: Two Kids in a Trench Coat](https://chipsandcheese.com/2023/10/01/arms-cortex-a510-two-kids-in-a-trench-coat/)
 * [2023-10-02, 02:11:15](https://news.ycombinator.com/item?id=37733184) - [VeraCrypt: Free, open source, disk encryption for Windows, Mac OS X, Linux](https://www.veracrypt.fr/en/Home.html)
 * [2023-10-02, 01:44:59](https://news.ycombinator.com/item?id=37733036) - [Bye Sequence, Hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
