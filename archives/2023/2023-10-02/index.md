@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 * [2023-10-02, 23:46:58](https://news.ycombinator.com/item?id=37746048) - [Kagi is 80% faster and 70% less carbon intensive than Google](https://help.kagi.com/kagi/search-details/search-speed.html)
 * [2023-10-02, 23:42:40](https://news.ycombinator.com/item?id=37746017) - [Days of Awe: The clinical trial drug that might save my husband's life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
 * [2023-10-02, 22:43:46](https://news.ycombinator.com/item?id=37745461) - [Ask HN: Who's Retired?](https://news.ycombinator.com/item?id=37745461)
