@@ -8,6 +8,7 @@
 * [2023-10-02, 23:46:58](https://news.ycombinator.com/item?id=37746048) - [Kagi is 80% faster and 70% less carbon intensive than Google](https://help.kagi.com/kagi/search-details/search-speed.html)
 * [2023-10-02, 23:42:40](https://news.ycombinator.com/item?id=37746017) - [Days of Awe: The clinical trial drug that might save my husband's life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
 * [2023-10-02, 22:43:46](https://news.ycombinator.com/item?id=37745461) - [Ask HN: Who's Retired?](https://news.ycombinator.com/item?id=37745461)
+* [2023-10-02, 22:38:06](https://news.ycombinator.com/item?id=37745399) - [Strontium isoscape of Angola and implications for archaeology of the slave trade](https://www.sciencedirect.com/science/article/pii/S0305440323000535)
 * [2023-10-02, 22:07:50](https://news.ycombinator.com/item?id=37745120) - [Americans Are Still Spending Like There’s No Tomorrow](https://www.wsj.com/economy/consumers/americans-are-still-spending-like-theres-no-tomorrow-6a1d307)
 * [2023-10-02, 21:57:25](https://news.ycombinator.com/item?id=37745005) - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
 * [2023-10-02, 21:56:38](https://news.ycombinator.com/item?id=37744993) - [To Make a Codling Tarte](https://rarecooking.com/2023/06/27/to-make-a-codling-tarte/)
