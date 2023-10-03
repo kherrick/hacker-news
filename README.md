@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-03, 18:33:19](https://news.ycombinator.com/item?id=37755767) - [Why Google Search is crap – it’s replacing your query with an ad trigger](https://twitter.com/megangrA/status/1708892621433672072)
+* [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 * [2023-10-03, 18:17:51](https://news.ycombinator.com/item?id=37755589) - [The Gulf War Did Not Take Place](https://en.wikipedia.org/wiki/The_Gulf_War_Did_Not_Take_Place)
 * [2023-10-03, 17:37:12](https://news.ycombinator.com/item?id=37755063) - [Yt-Dlp Commands: The Complete Tutorial for Beginners](https://ostechnix.com/yt-dlp-tutorial/)
 * [2023-10-03, 17:18:02](https://news.ycombinator.com/item?id=37754792) - [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
@@ -9,7 +9,6 @@
 * [2023-10-03, 16:44:23](https://news.ycombinator.com/item?id=37754287) - [Ask HN: Best books to understand semiconductor business?](https://news.ycombinator.com/item?id=37754287)
 * [2023-10-03, 16:12:42](https://news.ycombinator.com/item?id=37753840) - [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
-* [2023-10-03, 15:36:18](https://news.ycombinator.com/item?id=37753292) - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
 * [2023-10-03, 15:19:37](https://news.ycombinator.com/item?id=37753079) - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
 * [2023-10-03, 15:10:03](https://news.ycombinator.com/item?id=37752950) - [Review: Framework Laptop finally gets an AMD Ryzen config–and it’s pretty good](https://arstechnica.com/gadgets/2023/10/review-framework-laptop-finally-gets-an-amd-ryzen-config-and-its-pretty-good/)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
@@ -30,6 +29,7 @@
 * [2023-10-02, 21:25:19](https://news.ycombinator.com/item?id=37744627) - [Faces of Death: Ancient Burial Masks, from Egypt to Peru](https://worldhistory.substack.com/p/faces-of-death)
 * [2023-10-02, 11:35:09](https://news.ycombinator.com/item?id=37736853) - [One Revolution per Minute [video]](https://erikwernquist.com/one-revolution-per-minute)
 * [2023-10-02, 10:15:37](https://news.ycombinator.com/item?id=37736205) - [The World’s First Known Deep-Sea Octopus Nursery](https://nautil.us/the-worlds-first-known-deep-sea-octopus-nursery-401656/)
+* [2023-10-02, 05:57:25](https://news.ycombinator.com/item?id=37734460) - [HPC at Autodesk](https://forums.autodesk.com/t5/engineering-hub-blog/autodesk-and-outerbounds-partner-to-open-source-ray-and-hpc/ba-p/12254816)
 
 ## [Archives](archives/index.md)
 

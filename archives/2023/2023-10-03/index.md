@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 * [2023-10-03, 18:33:19](https://news.ycombinator.com/item?id=37755767) - [Why Google Search is crap – it’s replacing your query with an ad trigger](https://twitter.com/megangrA/status/1708892621433672072)
 * [2023-10-03, 18:17:51](https://news.ycombinator.com/item?id=37755589) - [The Gulf War Did Not Take Place](https://en.wikipedia.org/wiki/The_Gulf_War_Did_Not_Take_Place)
 * [2023-10-03, 17:37:12](https://news.ycombinator.com/item?id=37755063) - [Yt-Dlp Commands: The Complete Tutorial for Beginners](https://ostechnix.com/yt-dlp-tutorial/)
