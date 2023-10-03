@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:10:55](https://news.ycombinator.com/item?id=37747534) - [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 * [2023-10-03, 03:09:06](https://news.ycombinator.com/item?id=37747528) - [Vagus nerve active during exercise, research finds](https://medicalxpress.com/news/2023-09-vagus-nerve.html)
 * [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
@@ -24,7 +25,6 @@
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
 * [2023-10-02, 14:29:03](https://news.ycombinator.com/item?id=37738603) - [Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [JWST's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
-* [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
