@@ -65,6 +65,7 @@
 * [2023-10-01, 14:02:18](https://news.ycombinator.com/item?id=37726038) - [Focused Ultrasound Is “Medicine's Best Kept Secret”](https://twitter.com/FutureJurvetson/status/1708306322729607596)
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [InfluxDB CTO: Why We Moved from Go to Rust](https://old.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
+* [2023-10-01, 13:20:51](https://news.ycombinator.com/item?id=37725683) - [Apple has what it needs to launch its own Google replacement](https://www.bloomberg.com/news/newsletters/2023-10-01/could-apple-replace-google-with-own-search-engine-it-s-possible-but-unlikely-ln7gywed)
 * [2023-10-01, 13:14:54](https://news.ycombinator.com/item?id=37725634) - [Norway wants a ban on targeted Meta advertising throughout Europe](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
 * [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-10-01, 12:57:16](https://news.ycombinator.com/item?id=37725498) - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
