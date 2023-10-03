@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
 * [2023-10-03, 19:51:39](https://news.ycombinator.com/item?id=37756678) - [Show HN: Bookmark in Public – Curate and Share Collections of Links Easily](https://linkcollect.io)
+* [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
+* [2023-10-03, 19:46:49](https://news.ycombinator.com/item?id=37756634) - [Google removes Reviews widget when you add the word 'sucks' to a company search](https://news.ycombinator.com/item?id=37756634)
+* [2023-10-03, 19:46:47](https://news.ycombinator.com/item?id=37756632) - [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 * [2023-10-03, 19:46:19](https://news.ycombinator.com/item?id=37756624) - [Gun-related deaths and suicides among American children soar to all-time high](https://www.dailymail.co.uk/news/article-12585743/Gun-deaths-suicides-children-time-high.html)
 * [2023-10-03, 19:41:30](https://news.ycombinator.com/item?id=37756570) - [‘Preapproved Narratives’ Corrupt Science](https://www.wsj.com/articles/how-preapproved-narratives-corrupt-science-false-studies-covid-climate-change-5bee0844)
 * [2023-10-03, 19:25:35](https://news.ycombinator.com/item?id=37756357) - [Glibc Dynamic Loader Hit by a Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
