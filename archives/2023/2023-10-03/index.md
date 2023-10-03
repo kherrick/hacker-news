@@ -6,6 +6,7 @@
 
 * [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 * [2023-10-03, 18:33:19](https://news.ycombinator.com/item?id=37755767) - [Why Google Search is crap – it’s replacing your query with an ad trigger](https://twitter.com/megangrA/status/1708892621433672072)
+* [2023-10-03, 18:23:22](https://news.ycombinator.com/item?id=37755648) - [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
 * [2023-10-03, 18:17:51](https://news.ycombinator.com/item?id=37755589) - [The Gulf War Did Not Take Place](https://en.wikipedia.org/wiki/The_Gulf_War_Did_Not_Take_Place)
 * [2023-10-03, 17:37:12](https://news.ycombinator.com/item?id=37755063) - [Yt-Dlp Commands: The Complete Tutorial for Beginners](https://ostechnix.com/yt-dlp-tutorial/)
 * [2023-10-03, 17:18:02](https://news.ycombinator.com/item?id=37754792) - [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
@@ -36,6 +37,7 @@
 * [2023-10-03, 12:52:04](https://news.ycombinator.com/item?id=37751179) - [UK prime minister launches plan “to stop councils implementing” 15-minute cities](https://www.dezeen.com/2023/10/02/uk-plan-stop-councils-implementing-15-minute-cities/)
 * [2023-10-03, 12:47:37](https://news.ycombinator.com/item?id=37751140) - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
 * [2023-10-03, 12:42:51](https://news.ycombinator.com/item?id=37751104) - [Is a broadcast license revocation a form of censorship? (Hint: No, it's not.)](https://www.chicagomediaaction.org/news.php?id=757)
+* [2023-10-03, 12:36:45](https://news.ycombinator.com/item?id=37751041) - [Show HN: Leporello.js – interactive functional programming IDE for JavaScript](https://leporello.tech)
 * [2023-10-03, 12:31:28](https://news.ycombinator.com/item?id=37750982) - [root with a single command: sudo logrotate](https://joshua.hu/gaining-root-with-logrotate-sudo-ubuntu)
 * [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-03, 12:07:19](https://news.ycombinator.com/item?id=37750763) - [Show HN: Trigger.dev V2 – a Temporal alternative for TypeScript devs](https://news.ycombinator.com/item?id=37750763)
