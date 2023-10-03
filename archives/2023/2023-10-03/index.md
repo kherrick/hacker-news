@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 18:57:37](https://news.ycombinator.com/item?id=37756030) - [Inflated rents, high interest and lack of supply create European housing crisis](https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis)
 * [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 * [2023-10-03, 18:33:19](https://news.ycombinator.com/item?id=37755767) - [Why Google Search is crap – it’s replacing your query with an ad trigger](https://twitter.com/megangrA/status/1708892621433672072)
+* [2023-10-03, 18:24:08](https://news.ycombinator.com/item?id=37755658) - [The Key to Rocketing Your Japanese Understanding](https://japanesecomplete.com/articles/?p=1577)
 * [2023-10-03, 18:23:22](https://news.ycombinator.com/item?id=37755648) - [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
+* [2023-10-03, 18:20:34](https://news.ycombinator.com/item?id=37755620) - [Ask HN: Where are you looking for remote jobs?](https://news.ycombinator.com/item?id=37755620)
 * [2023-10-03, 18:17:51](https://news.ycombinator.com/item?id=37755589) - [The Gulf War Did Not Take Place](https://en.wikipedia.org/wiki/The_Gulf_War_Did_Not_Take_Place)
 * [2023-10-03, 17:37:12](https://news.ycombinator.com/item?id=37755063) - [Yt-Dlp Commands: The Complete Tutorial for Beginners](https://ostechnix.com/yt-dlp-tutorial/)
 * [2023-10-03, 17:18:02](https://news.ycombinator.com/item?id=37754792) - [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
