@@ -19,7 +19,6 @@
 * [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-03, 12:07:19](https://news.ycombinator.com/item?id=37750763) - [Show HN: Trigger.dev V2 – a Temporal alternative for TypeScript devs](https://news.ycombinator.com/item?id=37750763)
 * [2023-10-03, 09:52:57](https://news.ycombinator.com/item?id=37749776) - [Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
-* [2023-10-03, 09:50:19](https://news.ycombinator.com/item?id=37749753) - [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
 * [2023-10-03, 08:17:35](https://news.ycombinator.com/item?id=37749207) - [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
 * [2023-10-03, 06:25:29](https://news.ycombinator.com/item?id=37748543) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
 * [2023-10-03, 06:03:59](https://news.ycombinator.com/item?id=37748433) - [Ági Szabados Does Not Need to Apologize to Me](https://whatever.scalzi.com/2023/10/02/agi-szabados-does-not-need-to-apologize-to-me/)
@@ -29,6 +28,7 @@
 * [2023-10-02, 22:38:06](https://news.ycombinator.com/item?id=37745399) - [Strontium isoscape of Angola and implications for archaeology of the slave trade](https://www.sciencedirect.com/science/article/pii/S0305440323000535)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
 * [2023-10-02, 11:35:09](https://news.ycombinator.com/item?id=37736853) - [One Revolution per Minute [video]](https://erikwernquist.com/one-revolution-per-minute)
+* [2023-10-02, 11:11:09](https://news.ycombinator.com/item?id=37736658) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 10:15:37](https://news.ycombinator.com/item?id=37736205) - [The World’s First Known Deep-Sea Octopus Nursery](https://nautil.us/the-worlds-first-known-deep-sea-octopus-nursery-401656/)
 
 ## [Archives](archives/index.md)
