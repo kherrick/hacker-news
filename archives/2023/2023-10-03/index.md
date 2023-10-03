@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 17:01:28](https://news.ycombinator.com/item?id=37754576) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-10-03, 16:31:15](https://news.ycombinator.com/item?id=37754124) - [Airbnb CEO: NYC hotels will get more expensive after short-term rental crackdown](https://thepointsguy.com/news/airbnb-new-york-city-ban/)
 * [2023-10-03, 16:12:42](https://news.ycombinator.com/item?id=37753840) - [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
