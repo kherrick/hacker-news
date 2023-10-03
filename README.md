@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 11:10:15](https://news.ycombinator.com/item?id=37750279) - [HMD Global Starts Manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
 * [2023-10-03, 10:57:48](https://news.ycombinator.com/item?id=37750179) - [WeWork Skips $95M in Interest Payments](https://www.nytimes.com/2023/10/02/business/wework-misses-interest-payments.html)
 * [2023-10-03, 10:46:40](https://news.ycombinator.com/item?id=37750121) - [US finally moves to cut $2,350 fee for renouncing citizenship](https://www.thelocal.de/20231002/americans-in-europe-us-finally-moves-to-cut-e2350-fee-for-renouncing-citizenship)
 * [2023-10-03, 10:36:17](https://news.ycombinator.com/item?id=37750064) - [As EV sales surge and cars get heavier, parking garages will have to change](https://www.cnbc.com/2023/10/03/as-ev-sales-surge-and-cars-get-heavier-parking-garages-have-to-change.html)
@@ -21,7 +22,6 @@
 * [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
-* [2023-10-02, 20:24:25](https://news.ycombinator.com/item?id=37743931) - [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
 * [2023-10-02, 18:10:26](https://news.ycombinator.com/item?id=37742138) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:29:54](https://news.ycombinator.com/item?id=37740483) - [Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
