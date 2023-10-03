@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-03, 18:57:37](https://news.ycombinator.com/item?id=37756030) - [Inflated rents, high interest and lack of supply create European housing crisis](https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis)
+* [2023-10-03, 18:49:10](https://news.ycombinator.com/item?id=37755942) - [Study Finds Hybrid Work Improves Mental Health Compared to Remote or In-Office](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9517068/)
 * [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 * [2023-10-03, 18:23:22](https://news.ycombinator.com/item?id=37755648) - [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
-* [2023-10-03, 18:20:34](https://news.ycombinator.com/item?id=37755620) - [Ask HN: Where are you looking for remote jobs?](https://news.ycombinator.com/item?id=37755620)
 * [2023-10-03, 17:18:02](https://news.ycombinator.com/item?id=37754792) - [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
 * [2023-10-03, 17:01:28](https://news.ycombinator.com/item?id=37754576) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)

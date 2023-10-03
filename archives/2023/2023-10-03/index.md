@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
 * [2023-10-03, 18:57:37](https://news.ycombinator.com/item?id=37756030) - [Inflated rents, high interest and lack of supply create European housing crisis](https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis)
+* [2023-10-03, 18:49:10](https://news.ycombinator.com/item?id=37755942) - [Study Finds Hybrid Work Improves Mental Health Compared to Remote or In-Office](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9517068/)
 * [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 * [2023-10-03, 18:33:19](https://news.ycombinator.com/item?id=37755767) - [Why Google Search is crap – it’s replacing your query with an ad trigger](https://twitter.com/megangrA/status/1708892621433672072)
 * [2023-10-03, 18:24:08](https://news.ycombinator.com/item?id=37755658) - [The Key to Rocketing Your Japanese Understanding](https://japanesecomplete.com/articles/?p=1577)
