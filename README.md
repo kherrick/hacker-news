@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 03:24:47](https://news.ycombinator.com/item?id=37747617) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
 * [2023-10-03, 03:11:51](https://news.ycombinator.com/item?id=37747541) - [The CEO of Airbnb wants you to charge less for your house](https://www.businessinsider.com/airbnb-ceo-hosts-lower-prices-competitive-hotels-brian-chesky-2023-10)
-* [2023-10-03, 03:09:06](https://news.ycombinator.com/item?id=37747528) - [Vagus nerve active during exercise, research finds](https://medicalxpress.com/news/2023-09-vagus-nerve.html)
 * [2023-10-03, 02:00:30](https://news.ycombinator.com/item?id=37747040) - [Ask HN: Is GenAI heading for a crypto-esque bubble pop?](https://news.ycombinator.com/item?id=37747040)
 * [2023-10-03, 01:17:45](https://news.ycombinator.com/item?id=37746717) - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
