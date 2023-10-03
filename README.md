@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 23:23:38](https://news.ycombinator.com/item?id=37758911) - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
 * [2023-10-03, 23:05:30](https://news.ycombinator.com/item?id=37758772) - [Semantic Versioning 2.0.0 – Semantic Versioning](https://semver.org/)
 * [2023-10-03, 21:41:12](https://news.ycombinator.com/item?id=37757952) - [Ask HN: Has meetup.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
 * [2023-10-03, 21:07:36](https://news.ycombinator.com/item?id=37757595) - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
 * [2023-10-03, 21:05:12](https://news.ycombinator.com/item?id=37757574) - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
 * [2023-10-03, 21:00:11](https://news.ycombinator.com/item?id=37757516) - [Gym Class VR (YC W22) is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
-* [2023-10-03, 20:16:22](https://news.ycombinator.com/item?id=37756964) - [Poppler is a PDF rendering library based on the xpdf-3.0 code base](https://poppler.freedesktop.org/)
 * [2023-10-03, 20:10:46](https://news.ycombinator.com/item?id=37756895) - [StreamingLLM: Efficient streaming technique enable infinite sequence lengths](https://arxiv.org/abs/2309.17453)
 * [2023-10-03, 19:55:18](https://news.ycombinator.com/item?id=37756714) - [Update: Lumber Prices Down 11% YoY](https://www.calculatedriskblog.com/2023/10/update-lumber-prices-down-11-yoy.html)
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
