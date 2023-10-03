@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-03, 18:34:28",
-      "https://news.ycombinator.com/item?id=37755785"
+      "2023-10-03, 18:23:22",
+      "https://news.ycombinator.com/item?id=37755648"
     ],
     [
-      "How police use location/search data to find suspects - not always the right ones",
-      "https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants"
+      "Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices",
+      "https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-10-03, 12:36:45",
+      "https://news.ycombinator.com/item?id=37751041"
+    ],
+    [
+      "Show HN: Leporello.js – interactive functional programming IDE for JavaScript",
+      "https://leporello.tech"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 12:31:28",
       "https://news.ycombinator.com/item?id=37750982"
     ],
@@ -237,16 +247,6 @@
     [
       "Windows NT 3.1 on Dec Alpha AXP",
       "https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 03:31:13",
-      "https://news.ycombinator.com/item?id=37747650"
-    ],
-    [
-      "Illustrated A64 SIMD Instruction List: SVE Instructions",
-      "https://dougallj.github.io/asil/"
     ]
   ],
   [
