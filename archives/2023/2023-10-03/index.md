@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 19:51:39](https://news.ycombinator.com/item?id=37756678) - [Show HN: Bookmark in Public – Curate and Share Collections of Links Easily](https://linkcollect.io)
+* [2023-10-03, 19:46:19](https://news.ycombinator.com/item?id=37756624) - [Gun-related deaths and suicides among American children soar to all-time high](https://www.dailymail.co.uk/news/article-12585743/Gun-deaths-suicides-children-time-high.html)
+* [2023-10-03, 19:41:30](https://news.ycombinator.com/item?id=37756570) - [‘Preapproved Narratives’ Corrupt Science](https://www.wsj.com/articles/how-preapproved-narratives-corrupt-science-false-studies-covid-climate-change-5bee0844)
+* [2023-10-03, 19:25:35](https://news.ycombinator.com/item?id=37756357) - [Glibc Dynamic Loader Hit by a Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
 * [2023-10-03, 18:57:37](https://news.ycombinator.com/item?id=37756030) - [Inflated rents, high interest and lack of supply create European housing crisis](https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis)
 * [2023-10-03, 18:49:10](https://news.ycombinator.com/item?id=37755942) - [Study Finds Hybrid Work Improves Mental Health Compared to Remote or In-Office](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9517068/)
 * [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
