@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 23:05:30](https://news.ycombinator.com/item?id=37758772) - [Semantic Versioning 2.0.0 – Semantic Versioning](https://semver.org/)
 * [2023-10-03, 21:41:12](https://news.ycombinator.com/item?id=37757952) - [Ask HN: Has meetup.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
 * [2023-10-03, 21:07:36](https://news.ycombinator.com/item?id=37757595) - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
 * [2023-10-03, 21:05:12](https://news.ycombinator.com/item?id=37757574) - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
@@ -12,7 +13,6 @@
 * [2023-10-03, 19:25:35](https://news.ycombinator.com/item?id=37756357) - [Glibc Dynamic Loader Hit by a Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
 * [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
 * [2023-10-03, 18:23:22](https://news.ycombinator.com/item?id=37755648) - [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
-* [2023-10-03, 17:54:35](https://news.ycombinator.com/item?id=37755276) - [John Carmack on AI](https://twitter.com/ID_AA_Carmack/status/1708905454544282083)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
 * [2023-10-03, 16:08:50](https://news.ycombinator.com/item?id=37753791) - [Show HN: Wild Moose – Autonomous agent for production debugging](https://www.wildmoose.ai/)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Graph Mining Library](https://github.com/google/graph-mining)
