@@ -87,6 +87,7 @@
 * [2023-10-02, 07:19:42](https://news.ycombinator.com/item?id=37734915) - [Amsterdam preparing to lower speed limit to 30 kilometers per hour](https://nltimes.nl/2023/10/02/amsterdam-preparing-lower-speed-limit-30-kilometers-per-hour)
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
 * [2023-10-02, 06:52:28](https://news.ycombinator.com/item?id=37734759) - [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
+* [2023-10-02, 06:48:11](https://news.ycombinator.com/item?id=37734741) - [The short-lived experiment with rubber tires on railways (2013)](https://www.ianvisits.co.uk/articles/the-short-lived-experiment-with-rubber-tires-on-railways-9831/)
 * [2023-10-02, 05:57:25](https://news.ycombinator.com/item?id=37734460) - [HPC at Autodesk](https://forums.autodesk.com/t5/engineering-hub-blog/autodesk-and-outerbounds-partner-to-open-source-ray-and-hpc/ba-p/12254816)
 * [2023-10-02, 05:12:58](https://news.ycombinator.com/item?id=37734251) - [Nue.js: Rethinking Reactivity](https://nuejs.org/blog/rethinking-reactivity/)
 * [2023-10-02, 04:49:31](https://news.ycombinator.com/item?id=37734112) - [jq 1.7](https://github.com/jqlang/jq/releases)

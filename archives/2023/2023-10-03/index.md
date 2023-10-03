@@ -13,6 +13,7 @@
 * [2023-10-03, 18:20:34](https://news.ycombinator.com/item?id=37755620) - [Ask HN: Where are you looking for remote jobs?](https://news.ycombinator.com/item?id=37755620)
 * [2023-10-03, 18:17:51](https://news.ycombinator.com/item?id=37755589) - [The Gulf War Did Not Take Place](https://en.wikipedia.org/wiki/The_Gulf_War_Did_Not_Take_Place)
 * [2023-10-03, 17:37:12](https://news.ycombinator.com/item?id=37755063) - [Yt-Dlp Commands: The Complete Tutorial for Beginners](https://ostechnix.com/yt-dlp-tutorial/)
+* [2023-10-03, 17:30:52](https://news.ycombinator.com/item?id=37754967) - [Fighting the Good Fight in an Age of Unreason – A New Dissident Guide](https://hxstem.substack.com/p/fighting-the-good-fight-in-an-age)
 * [2023-10-03, 17:18:02](https://news.ycombinator.com/item?id=37754792) - [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
 * [2023-10-03, 17:01:28](https://news.ycombinator.com/item?id=37754576) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package · Jamie Magee](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
