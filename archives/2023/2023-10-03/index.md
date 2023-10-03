@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 21:00:11](https://news.ycombinator.com/item?id=37757516) - [GCVR (YC W22, Top Rated on Quest) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-10-03, 20:16:22](https://news.ycombinator.com/item?id=37756964) - [Poppler is a PDF rendering library based on the xpdf-3.0 code base](https://poppler.freedesktop.org/)
+* [2023-10-03, 19:55:18](https://news.ycombinator.com/item?id=37756714) - [Update: Lumber Prices Down 11% YoY](https://www.calculatedriskblog.com/2023/10/update-lumber-prices-down-11-yoy.html)
 * [2023-10-03, 19:51:39](https://news.ycombinator.com/item?id=37756678) - [Show HN: Bookmark in Public – Curate and Share Collections of Links Easily](https://linkcollect.io)
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-03, 19:46:49](https://news.ycombinator.com/item?id=37756634) - [Google removes Reviews widget when you add the word 'sucks' to a company search](https://news.ycombinator.com/item?id=37756634)
