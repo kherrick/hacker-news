@@ -2,7 +2,7 @@
 
 * [2023-10-03, 03:10:55](https://news.ycombinator.com/item?id=37747534) - [Vector database is not a separate database category](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 * [2023-10-03, 03:09:06](https://news.ycombinator.com/item?id=37747528) - [Vagus nerve active during exercise, research finds](https://medicalxpress.com/news/2023-09-vagus-nerve.html)
-* [2023-10-03, 02:00:30](https://news.ycombinator.com/item?id=37747040) - [Ask HN: Is GenAI heading for a crypto-esque bubble pop?](https://news.ycombinator.com/item?id=37747040)
+* [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
 * [2023-10-03, 01:17:45](https://news.ycombinator.com/item?id=37746717) - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
 * [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)

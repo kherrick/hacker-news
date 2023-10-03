@@ -10,6 +10,7 @@
 * [2023-10-03, 03:09:06](https://news.ycombinator.com/item?id=37747528) - [Vagus nerve active during exercise, research finds](https://medicalxpress.com/news/2023-09-vagus-nerve.html)
 * [2023-10-03, 02:21:11](https://news.ycombinator.com/item?id=37747158) - [The successful campaign to convince people the USA and not the USSR beat Hitler](https://www.vox.com/2014/6/16/5814270/the-successful-70-year-campaign-to-convince-people-the-usa-and-not)
 * [2023-10-03, 02:00:30](https://news.ycombinator.com/item?id=37747040) - [Ask HN: Is GenAI heading for a crypto-esque bubble pop?](https://news.ycombinator.com/item?id=37747040)
+* [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
 * [2023-10-03, 01:17:45](https://news.ycombinator.com/item?id=37746717) - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
 * [2023-10-03, 00:04:35](https://news.ycombinator.com/item?id=37746185) - [Starlink is now available across the United States](https://twitter.com/Starlink/status/1708871459224133933)
