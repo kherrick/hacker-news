@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 09:10:27](https://news.ycombinator.com/item?id=37749530) - [The Linux Foundation has practically abandoned Linux](https://lunduke.locals.com/post/4666420/the-linux-foundation-has-practically-abandoned-linux)
+* [2023-10-03, 09:05:04](https://news.ycombinator.com/item?id=37749503) - [Wegovy, other weight-loss drugs scrutinized over reports of suicidal thoughts](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-other-weight-loss-drugs-scrutinized-over-reports-suicidal-thoughts-2023-09-28/)
 * [2023-10-03, 08:17:35](https://news.ycombinator.com/item?id=37749207) - [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
 * [2023-10-03, 06:37:31](https://news.ycombinator.com/item?id=37748602) - [Meta's Mandatory Return to Office Is 'A Mess'](https://www.businessinsider.com/meta-rto-mess-return-to-office-remote-work-2023-9)
 * [2023-10-03, 06:25:29](https://news.ycombinator.com/item?id=37748543) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)

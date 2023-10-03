@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 09:10:27](https://news.ycombinator.com/item?id=37749530) - [The Linux Foundation has practically abandoned Linux](https://lunduke.locals.com/post/4666420/the-linux-foundation-has-practically-abandoned-linux)
+* [2023-10-03, 09:05:04](https://news.ycombinator.com/item?id=37749503) - [Wegovy, other weight-loss drugs scrutinized over reports of suicidal thoughts](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-other-weight-loss-drugs-scrutinized-over-reports-suicidal-thoughts-2023-09-28/)
 * [2023-10-03, 08:17:35](https://news.ycombinator.com/item?id=37749207) - [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
 * [2023-10-03, 06:25:29](https://news.ycombinator.com/item?id=37748543) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
 * [2023-10-03, 05:59:15](https://news.ycombinator.com/item?id=37748408) - [Texas man sent to death row over junk science denied US Supreme Court appeal](https://www.theguardian.com/us-news/2023/oct/02/texas-robert-roberson-death-penalty-supreme-court-appeal-denied)
@@ -10,7 +12,6 @@
 * [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
 * [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
-* [2023-10-02, 23:42:40](https://news.ycombinator.com/item?id=37746017) - [Days of Awe: The clinical trial drug that might save my husband's life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 * [2023-10-02, 20:24:25](https://news.ycombinator.com/item?id=37743931) - [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
@@ -22,7 +23,6 @@
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 * [2023-10-02, 16:29:54](https://news.ycombinator.com/item?id=37740483) - [Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 * [2023-10-02, 15:16:04](https://news.ycombinator.com/item?id=37739238) - [Mitochondrial DNA damage triggers spread of Parkinson’s disease-like pathology](https://www.eurekalert.org/news-releases/1003348)
-* [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
 * [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
