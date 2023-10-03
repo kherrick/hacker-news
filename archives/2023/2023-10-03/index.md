@@ -18,6 +18,7 @@
 * [2023-10-03, 10:55:42](https://news.ycombinator.com/item?id=37750170) - [Ask HN: How are so many fake ads allowed on YouTube?](https://news.ycombinator.com/item?id=37750170)
 * [2023-10-03, 10:46:40](https://news.ycombinator.com/item?id=37750121) - [US finally moves to cut $2,350 fee for renouncing citizenship](https://www.thelocal.de/20231002/americans-in-europe-us-finally-moves-to-cut-e2350-fee-for-renouncing-citizenship)
 * [2023-10-03, 10:36:17](https://news.ycombinator.com/item?id=37750064) - [As EV sales surge and cars get heavier, parking garages will have to change](https://www.cnbc.com/2023/10/03/as-ev-sales-surge-and-cars-get-heavier-parking-garages-have-to-change.html)
+* [2023-10-03, 10:31:28](https://news.ycombinator.com/item?id=37750024) - [Original Apple Watch Is Now Obsolete, Including $17,000 Gold Model](https://www.macrumors.com/2023/10/02/original-apple-watch-now-obsolete/)
 * [2023-10-03, 09:55:50](https://news.ycombinator.com/item?id=37749802) - [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
 * [2023-10-03, 09:52:57](https://news.ycombinator.com/item?id=37749776) - [Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
 * [2023-10-03, 09:50:19](https://news.ycombinator.com/item?id=37749753) - [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
