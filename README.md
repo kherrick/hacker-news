@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 15:36:18](https://news.ycombinator.com/item?id=37753292) - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
 * [2023-10-03, 15:19:37](https://news.ycombinator.com/item?id=37753079) - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
-* [2023-10-03, 14:43:57](https://news.ycombinator.com/item?id=37752640) - [How the Upcoming Mazda RX-9 Will Keep the Spirit of the Rotary Engine Alive](https://www.topspeed.com/mazda-rx-9-will-keep-the-spirit-of-the-rotary-engine-alive/)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 14:33:42](https://news.ycombinator.com/item?id=37752514) - [PFAS Forever Chemicals Present in Some Plastic Recyclable Bottles](https://www.bloomberg.com/news/features/2023-09-28/pfas-forever-chemicals-present-in-some-plastic-recyclable-bottles)
+* [2023-10-03, 14:29:25](https://news.ycombinator.com/item?id=37752461) - [Driver hits woman in S.F., then Cruise driverless car runs her over](https://www.sfchronicle.com/bayarea/article/woman-run-autonomous-vehicle-san-francisco-18403044.php)
 * [2023-10-03, 14:24:16](https://news.ycombinator.com/item?id=37752406) - [$8B Sam Bankman-Fried criminal trial starts today](https://www.cnbc.com/2023/10/03/sam-bankman-fried-criminal-trial-starts-today-heres-whats-at-stake.html)
 * [2023-10-03, 14:20:56](https://news.ycombinator.com/item?id=37752366) - [Pgroll: zero-downtime, undoable, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2023-10-03, 13:50:37](https://news.ycombinator.com/item?id=37751924) - [Fairphone 5 review: The most uncompromising repairable phone yet](https://www.androidpolice.com/fairphone-5-review/)
@@ -22,14 +23,13 @@
 * [2023-10-03, 04:29:34](https://news.ycombinator.com/item?id=37747998) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code (2020)](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:31:13](https://news.ycombinator.com/item?id=37747650) - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
-* [2023-10-03, 03:10:55](https://news.ycombinator.com/item?id=37747534) - [Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 * [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
 * [2023-10-02, 22:38:06](https://news.ycombinator.com/item?id=37745399) - [Strontium isoscape of Angola and implications for archaeology of the slave trade](https://www.sciencedirect.com/science/article/pii/S0305440323000535)
 * [2023-10-02, 21:56:38](https://news.ycombinator.com/item?id=37744993) - [To Make a Codling Tarte](https://rarecooking.com/2023/06/27/to-make-a-codling-tarte/)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
+* [2023-10-02, 11:35:09](https://news.ycombinator.com/item?id=37736853) - [One Revolution per Minute [video]](https://erikwernquist.com/one-revolution-per-minute)
 * [2023-10-02, 10:15:37](https://news.ycombinator.com/item?id=37736205) - [The World’s First Known Deep-Sea Octopus Nursery](https://nautil.us/the-worlds-first-known-deep-sea-octopus-nursery-401656/)
-* [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
 
 ## [Archives](archives/index.md)
 
