@@ -21,15 +21,15 @@
 * [2023-10-02, 14:29:03](https://news.ycombinator.com/item?id=37738603) - [Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [JWST's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
+* [2023-10-02, 13:15:23](https://news.ycombinator.com/item?id=37737651) - [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
 * [2023-10-02, 13:10:43](https://news.ycombinator.com/item?id=37737599) - [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
 * [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
-* [2023-10-02, 09:09:29](https://news.ycombinator.com/item?id=37735704) - [Crusty Windows](https://crustywindo.ws/Main_Page)
+* [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 * [2023-10-02, 02:53:12](https://news.ycombinator.com/item?id=37733420) - [Finally, an MOS 7600/7601 Video Game Array data sheet](http://oldvcr.blogspot.com/2023/10/finally-mos-76007601-video-game-array.html)
 * [2023-10-02, 02:50:54](https://news.ycombinator.com/item?id=37733403) - [Slovenia’s beautiful beehives turn apiaries into art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
-* [2023-10-01, 21:27:30](https://news.ycombinator.com/item?id=37731027) - [Error correction and concealment in the Compact Disc system (1982) [pdf]](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_53/Philips_Tech_Review/PTechReview-40-1982-166.pdf)
 
 ## [Archives](archives/index.md)
 
