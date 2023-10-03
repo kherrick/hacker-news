@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=37747822"
     ],
     [
-      "What scientists must know about hardware to write fast code",
+      "What scientists must know about hardware to write fast code (2020)",
       "https://viralinstruction.com/posts/hardware/"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37747534"
     ],
     [
-      "Vector database is not a separate database category",
+      "Every database will become a vector database sooner or later",
       "https://nextword.substack.com/p/vector-database-is-not-a-separate"
     ]
   ],
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-10-02, 21:20:38",
+      "https://news.ycombinator.com/item?id=37744563"
+    ],
+    [
+      "Show HN: A new stdlib for Golang focusing on platform native support",
+      "https://github.com/primecitizens/pcz"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 21:02:22",
       "https://news.ycombinator.com/item?id=37744350"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37744077"
     ],
     [
-      "Dish dealt first-ever space-debris fine for misparking satellite",
+      "Dish dealt space-debris fine for misparking satellite",
       "https://www.bloomberg.com/news/articles/2023-10-02/dish-dealt-first-ever-space-debris-fine-for-misparking-satellite"
     ]
   ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2023-10-02, 18:10:26",
+      "https://news.ycombinator.com/item?id=37742138"
+    ],
+    [
+      "My views on NeoHaskell",
+      "https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 18:05:23",
       "https://news.ycombinator.com/item?id=37742067"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-10-02, 17:01:14",
-      "https://news.ycombinator.com/item?id=37741024"
-    ],
-    [
-      "Polymath Robotics (YC S22) Is Hiring",
-      "https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco"
-    ]
-  ],
-  [
-    [
       "2023-10-02, 16:56:04",
       "https://news.ycombinator.com/item?id=37740932"
     ],
@@ -177,6 +187,16 @@
     [
       "Show HN: OpenStatus – Open-source monitoring with incident managements",
       "https://www.openstatus.dev"
+    ]
+  ],
+  [
+    [
+      "2023-10-02, 16:29:54",
+      "https://news.ycombinator.com/item?id=37740483"
+    ],
+    [
+      "Modos Paper Monitor",
+      "https://www.modos.tech/blog/modos-paper-monitor"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-10-02, 14:29:03",
-      "https://news.ycombinator.com/item?id=37738603"
-    ],
-    [
-      "Sprite Lightning in High Definition",
-      "https://apod.nasa.gov/apod/ap231002.html"
-    ]
-  ],
-  [
-    [
       "2023-10-02, 13:33:42",
       "https://news.ycombinator.com/item?id=37737862"
     ],
@@ -257,16 +267,6 @@
     [
       "Exploiting the iPhone 4",
       "https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 09:22:05",
-      "https://news.ycombinator.com/item?id=37735801"
-    ],
-    [
-      "What every software developer must know about Unicode in 2023",
-      "https://tonsky.me/blog/unicode/"
     ]
   ],
   [
