@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 13:26:56](https://news.ycombinator.com/item?id=37751576) - [Ad-free Facebook, Instagram access planned for $14 per month in Europe](https://arstechnica.com/tech-policy/2023/10/ad-free-facebook-instagram-access-planned-for-14-per-month-in-europe/)
 * [2023-10-03, 13:07:40](https://news.ycombinator.com/item?id=37751335) - [Missing girl found using fingerprints on ransom note](https://www.bbc.com/news/world-us-canada-66993201)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
 * [2023-10-03, 12:47:37](https://news.ycombinator.com/item?id=37751140) - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
@@ -24,10 +25,9 @@
 * [2023-10-02, 22:38:06](https://news.ycombinator.com/item?id=37745399) - [Strontium isoscape of Angola and implications for archaeology of the slave trade](https://www.sciencedirect.com/science/article/pii/S0305440323000535)
 * [2023-10-02, 21:56:38](https://news.ycombinator.com/item?id=37744993) - [To Make a Codling Tarte](https://rarecooking.com/2023/06/27/to-make-a-codling-tarte/)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
+* [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:29:54](https://news.ycombinator.com/item?id=37740483) - [Modos Paper Monitor (2022)](https://www.modos.tech/blog/modos-paper-monitor)
-* [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
-* [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 
