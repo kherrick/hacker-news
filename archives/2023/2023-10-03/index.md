@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 05:26:13](https://news.ycombinator.com/item?id=37748263) - [Ask HN: LinkedIn mysteriously banned me permanently; where to go next?](https://news.ycombinator.com/item?id=37748263)
 * [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:31:13](https://news.ycombinator.com/item?id=37747650) - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
 * [2023-10-03, 03:24:47](https://news.ycombinator.com/item?id=37747617) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)

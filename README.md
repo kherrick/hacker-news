@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 05:26:13](https://news.ycombinator.com/item?id=37748263) - [Ask HN: LinkedIn mysteriously banned me permanently; where to go next?](https://news.ycombinator.com/item?id=37748263)
 * [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code (2020)](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:31:13](https://news.ycombinator.com/item?id=37747650) - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
 * [2023-10-03, 03:10:55](https://news.ycombinator.com/item?id=37747534) - [Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
@@ -13,7 +14,6 @@
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 * [2023-10-02, 20:37:41](https://news.ycombinator.com/item?id=37744077) - [Dish dealt space-debris fine for misparking satellite](https://www.bloomberg.com/news/articles/2023-10-02/dish-dealt-first-ever-space-debris-fine-for-misparking-satellite)
 * [2023-10-02, 20:24:25](https://news.ycombinator.com/item?id=37743931) - [Microsoft CEO testifies that Google’s power in search is ubiquitous](https://www.nytimes.com/2023/10/02/technology/microsoft-ceo-testifies-google-search.html)
-* [2023-10-02, 19:49:05](https://news.ycombinator.com/item?id=37743517) - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
 * [2023-10-02, 18:10:26](https://news.ycombinator.com/item?id=37742138) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 18:05:23](https://news.ycombinator.com/item?id=37742067) - [Wilhelm Reich on pleasure and the genesis of anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
 * [2023-10-02, 17:32:48](https://news.ycombinator.com/item?id=37741575) - [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
