@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 03:11:51](https://news.ycombinator.com/item?id=37747541) - [The CEO of Airbnb wants you to charge less for your house](https://www.businessinsider.com/airbnb-ceo-hosts-lower-prices-competitive-hotels-brian-chesky-2023-10)
 * [2023-10-03, 02:00:30](https://news.ycombinator.com/item?id=37747040) - [Ask HN: Is GenAI heading for a crypto-esque bubble pop?](https://news.ycombinator.com/item?id=37747040)
 * [2023-10-03, 01:17:45](https://news.ycombinator.com/item?id=37746717) - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
@@ -26,7 +27,6 @@
 * [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
-* [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 * [2023-10-02, 02:53:12](https://news.ycombinator.com/item?id=37733420) - [Finally, an MOS 7600/7601 Video Game Array data sheet](http://oldvcr.blogspot.com/2023/10/finally-mos-76007601-video-game-array.html)
 * [2023-10-02, 02:50:54](https://news.ycombinator.com/item?id=37733403) - [Slovenia’s beautiful beehives turn apiaries into art](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses)
