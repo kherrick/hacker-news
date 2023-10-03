@@ -24,6 +24,7 @@
 * [2023-10-03, 05:59:15](https://news.ycombinator.com/item?id=37748408) - [Texas man sent to death row over junk science denied US Supreme Court appeal](https://www.theguardian.com/us-news/2023/oct/02/texas-robert-roberson-death-penalty-supreme-court-appeal-denied)
 * [2023-10-03, 05:26:13](https://news.ycombinator.com/item?id=37748263) - [Ask HN: LinkedIn mysteriously banned me permanently; where to go next?](https://news.ycombinator.com/item?id=37748263)
 * [2023-10-03, 04:47:43](https://news.ycombinator.com/item?id=37748087) - [Windows NT 3.1 on Dec Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
+* [2023-10-03, 04:29:34](https://news.ycombinator.com/item?id=37747998) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:31:13](https://news.ycombinator.com/item?id=37747650) - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
 * [2023-10-03, 03:24:47](https://news.ycombinator.com/item?id=37747617) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
