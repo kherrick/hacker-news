@@ -8,6 +8,7 @@
 * [2023-10-03, 21:17:05](https://news.ycombinator.com/item?id=37757699) - [Most Americans comfortable with solar panels, turbines in their communities](https://www.washingtonpost.com/climate-solutions/2023/10/03/solar-panels-wind-turbines-nimby/)
 * [2023-10-03, 21:05:12](https://news.ycombinator.com/item?id=37757574) - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
 * [2023-10-03, 21:00:11](https://news.ycombinator.com/item?id=37757516) - [GCVR (YC W22, Top Rated on Quest) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+* [2023-10-03, 20:59:09](https://news.ycombinator.com/item?id=37757499) - [U2 at Sphere is the nightmare future of music](https://mattruby.substack.com/p/u2-at-sphere-is-the-nightmare-future)
 * [2023-10-03, 20:16:22](https://news.ycombinator.com/item?id=37756964) - [Poppler is a PDF rendering library based on the xpdf-3.0 code base](https://poppler.freedesktop.org/)
 * [2023-10-03, 19:55:18](https://news.ycombinator.com/item?id=37756714) - [Update: Lumber Prices Down 11% YoY](https://www.calculatedriskblog.com/2023/10/update-lumber-prices-down-11-yoy.html)
 * [2023-10-03, 19:51:39](https://news.ycombinator.com/item?id=37756678) - [Show HN: Bookmark in Public – Curate and Share Collections of Links Easily](https://linkcollect.io)
