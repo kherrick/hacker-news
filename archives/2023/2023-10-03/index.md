@@ -31,6 +31,7 @@
 * [2023-10-03, 16:44:23](https://news.ycombinator.com/item?id=37754287) - [Ask HN: Best books to understand semiconductor business?](https://news.ycombinator.com/item?id=37754287)
 * [2023-10-03, 16:31:15](https://news.ycombinator.com/item?id=37754124) - [Airbnb CEO: NYC hotels will get more expensive after short-term rental crackdown](https://thepointsguy.com/news/airbnb-new-york-city-ban/)
 * [2023-10-03, 16:12:42](https://news.ycombinator.com/item?id=37753840) - [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
+* [2023-10-03, 16:08:50](https://news.ycombinator.com/item?id=37753791) - [Show HN: Wild Moose – Autonomous agent for production debugging](https://www.wildmoose.ai/)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
 * [2023-10-03, 15:36:18](https://news.ycombinator.com/item?id=37753292) - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
 * [2023-10-03, 15:19:37](https://news.ycombinator.com/item?id=37753079) - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
