@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 16:31:15](https://news.ycombinator.com/item?id=37754124) - [Airbnb CEO: NYC hotels will get more expensive after short-term rental crackdown](https://thepointsguy.com/news/airbnb-new-york-city-ban/)
 * [2023-10-03, 16:12:42](https://news.ycombinator.com/item?id=37753840) - [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
 * [2023-10-03, 15:36:18](https://news.ycombinator.com/item?id=37753292) - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
@@ -12,6 +13,7 @@
 * [2023-10-03, 14:51:27](https://news.ycombinator.com/item?id=37752744) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 14:43:57](https://news.ycombinator.com/item?id=37752640) - [How the Upcoming Mazda RX-9 Will Keep the Spirit of the Rotary Engine Alive](https://www.topspeed.com/mazda-rx-9-will-keep-the-spirit-of-the-rotary-engine-alive/)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
+* [2023-10-03, 14:42:19](https://news.ycombinator.com/item?id=37752622) - [Building Personal and Organizational Prestige](https://lethain.com/building-prestige/)
 * [2023-10-03, 14:33:42](https://news.ycombinator.com/item?id=37752514) - [PFAS Forever Chemicals Present in Some Plastic Recyclable Bottles](https://www.bloomberg.com/news/features/2023-09-28/pfas-forever-chemicals-present-in-some-plastic-recyclable-bottles)
 * [2023-10-03, 14:29:25](https://news.ycombinator.com/item?id=37752461) - [Driver hits woman in S.F., then Cruise driverless car runs her over](https://www.sfchronicle.com/bayarea/article/woman-run-autonomous-vehicle-san-francisco-18403044.php)
 * [2023-10-03, 14:24:16](https://news.ycombinator.com/item?id=37752406) - [$8B Sam Bankman-Fried criminal trial starts today](https://www.cnbc.com/2023/10/03/sam-bankman-fried-criminal-trial-starts-today-heres-whats-at-stake.html)
