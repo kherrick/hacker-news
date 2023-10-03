@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 13:07:40](https://news.ycombinator.com/item?id=37751335) - [Missing girl found using fingerprints on ransom note](https://www.bbc.com/news/world-us-canada-66993201)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
 * [2023-10-03, 13:02:36](https://news.ycombinator.com/item?id=37751286) - [The Internet Is at Risk of Driving Women Away](https://www.wired.co.uk/article/women-internet-harassment)
 * [2023-10-03, 12:52:04](https://news.ycombinator.com/item?id=37751179) - [UK prime minister launches plan “to stop councils implementing” 15-minute cities](https://www.dezeen.com/2023/10/02/uk-plan-stop-councils-implementing-15-minute-cities/)
 * [2023-10-03, 12:47:37](https://news.ycombinator.com/item?id=37751140) - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
+* [2023-10-03, 12:42:51](https://news.ycombinator.com/item?id=37751104) - [Is a broadcast license revocation a form of censorship? (Hint: No, it's not.)](https://www.chicagomediaaction.org/news.php?id=757)
+* [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-03, 11:10:15](https://news.ycombinator.com/item?id=37750279) - [HMD Global Starts Manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
 * [2023-10-03, 10:57:48](https://news.ycombinator.com/item?id=37750179) - [WeWork Skips $95M in Interest Payments](https://www.nytimes.com/2023/10/02/business/wework-misses-interest-payments.html)
 * [2023-10-03, 10:55:42](https://news.ycombinator.com/item?id=37750170) - [Ask HN: How are so many fake ads allowed on YouTube?](https://news.ycombinator.com/item?id=37750170)
