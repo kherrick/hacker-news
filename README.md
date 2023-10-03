@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 15:19:37](https://news.ycombinator.com/item?id=37753079) - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
 * [2023-10-03, 14:43:57](https://news.ycombinator.com/item?id=37752640) - [How the Upcoming Mazda RX-9 Will Keep the Spirit of the Rotary Engine Alive](https://www.topspeed.com/mazda-rx-9-will-keep-the-spirit-of-the-rotary-engine-alive/)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 14:33:42](https://news.ycombinator.com/item?id=37752514) - [PFAS Forever Chemicals Present in Some Plastic Recyclable Bottles](https://www.bloomberg.com/news/features/2023-09-28/pfas-forever-chemicals-present-in-some-plastic-recyclable-bottles)
@@ -23,12 +24,11 @@
 * [2023-10-03, 03:10:55](https://news.ycombinator.com/item?id=37747534) - [Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
 * [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
-* [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 * [2023-10-02, 22:38:06](https://news.ycombinator.com/item?id=37745399) - [Strontium isoscape of Angola and implications for archaeology of the slave trade](https://www.sciencedirect.com/science/article/pii/S0305440323000535)
 * [2023-10-02, 21:56:38](https://news.ycombinator.com/item?id=37744993) - [To Make a Codling Tarte](https://rarecooking.com/2023/06/27/to-make-a-codling-tarte/)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
-* [2023-10-02, 16:29:54](https://news.ycombinator.com/item?id=37740483) - [Modos Paper Monitor (2022)](https://www.modos.tech/blog/modos-paper-monitor)
 * [2023-10-02, 10:15:37](https://news.ycombinator.com/item?id=37736205) - [The World’s First Known Deep-Sea Octopus Nursery](https://nautil.us/the-worlds-first-known-deep-sea-octopus-nursery-401656/)
+* [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 
 ## [Archives](archives/index.md)

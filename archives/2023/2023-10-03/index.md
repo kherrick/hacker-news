@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 15:19:37](https://news.ycombinator.com/item?id=37753079) - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
 * [2023-10-03, 14:43:57](https://news.ycombinator.com/item?id=37752640) - [How the Upcoming Mazda RX-9 Will Keep the Spirit of the Rotary Engine Alive](https://www.topspeed.com/mazda-rx-9-will-keep-the-spirit-of-the-rotary-engine-alive/)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 14:33:42](https://news.ycombinator.com/item?id=37752514) - [PFAS Forever Chemicals Present in Some Plastic Recyclable Bottles](https://www.bloomberg.com/news/features/2023-09-28/pfas-forever-chemicals-present-in-some-plastic-recyclable-bottles)
