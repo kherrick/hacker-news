@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 13:50:37](https://news.ycombinator.com/item?id=37751924) - [Fairphone 5 review: The most uncompromising repairable phone yet](https://www.androidpolice.com/fairphone-5-review/)
 * [2023-10-03, 13:26:56](https://news.ycombinator.com/item?id=37751576) - [Ad-free Facebook, Instagram access planned for $14 per month in Europe](https://arstechnica.com/tech-policy/2023/10/ad-free-facebook-instagram-access-planned-for-14-per-month-in-europe/)
 * [2023-10-03, 13:07:40](https://news.ycombinator.com/item?id=37751335) - [Missing girl found using fingerprints on ransom note](https://www.bbc.com/news/world-us-canada-66993201)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)

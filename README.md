@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 13:50:37](https://news.ycombinator.com/item?id=37751924) - [Fairphone 5 review: The most uncompromising repairable phone yet](https://www.androidpolice.com/fairphone-5-review/)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
 * [2023-10-03, 12:47:37](https://news.ycombinator.com/item?id=37751140) - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
 * [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-03, 11:10:15](https://news.ycombinator.com/item?id=37750279) - [HMD Global Starts Manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
-* [2023-10-03, 10:31:28](https://news.ycombinator.com/item?id=37750024) - [Original Apple Watch Is Now Obsolete, Including $17,000 Gold Model](https://www.macrumors.com/2023/10/02/original-apple-watch-now-obsolete/)
 * [2023-10-03, 09:55:50](https://news.ycombinator.com/item?id=37749802) - [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
 * [2023-10-03, 09:52:57](https://news.ycombinator.com/item?id=37749776) - [Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
 * [2023-10-03, 09:50:19](https://news.ycombinator.com/item?id=37749753) - [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
