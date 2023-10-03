@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 09:55:50](https://news.ycombinator.com/item?id=37749802) - [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
 * [2023-10-03, 09:50:19](https://news.ycombinator.com/item?id=37749753) - [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
-* [2023-10-03, 09:10:27](https://news.ycombinator.com/item?id=37749530) - [The Linux Foundation has practically abandoned Linux](https://lunduke.locals.com/post/4666420/the-linux-foundation-has-practically-abandoned-linux)
+* [2023-10-03, 09:26:49](https://news.ycombinator.com/item?id=37749619) - [What companies offer noteworthy discounts or startup programs for bootstrappers?](https://news.ycombinator.com/item?id=37749619)
 * [2023-10-03, 09:05:04](https://news.ycombinator.com/item?id=37749503) - [Wegovy, other weight-loss drugs scrutinized over reports of suicidal thoughts](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-other-weight-loss-drugs-scrutinized-over-reports-suicidal-thoughts-2023-09-28/)
 * [2023-10-03, 08:17:35](https://news.ycombinator.com/item?id=37749207) - [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
 * [2023-10-03, 06:25:29](https://news.ycombinator.com/item?id=37748543) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
-* [2023-10-03, 05:59:15](https://news.ycombinator.com/item?id=37748408) - [Texas man sent to death row over junk science denied US Supreme Court appeal](https://www.theguardian.com/us-news/2023/oct/02/texas-robert-roberson-death-penalty-supreme-court-appeal-denied)
 * [2023-10-03, 04:47:43](https://news.ycombinator.com/item?id=37748087) - [Windows NT 3.1 on Dec Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
 * [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code (2020)](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:31:13](https://news.ycombinator.com/item?id=37747650) - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
