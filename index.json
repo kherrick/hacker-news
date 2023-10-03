@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-03, 15:46:07",
+      "https://news.ycombinator.com/item?id=37753442"
+    ],
+    [
+      "Google open-sources their graph mining library",
+      "https://github.com/google/graph-mining"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 15:36:18",
       "https://news.ycombinator.com/item?id=37753292"
     ],
@@ -17,6 +27,16 @@
     [
       "Predictive Policing Software Is Pretty Terrible at Predicting Crimes",
       "https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951"
+    ]
+  ],
+  [
+    [
+      "2023-10-03, 14:51:27",
+      "https://news.ycombinator.com/item?id=37752744"
+    ],
+    [
+      "Picat is my favorite new toolbox language",
+      "https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Daktilo: Turn Your Keyboard into a Typewriter",
       "https://github.com/orhun/daktilo"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 12:55:22",
-      "https://news.ycombinator.com/item?id=37751217"
-    ],
-    [
-      "Anti-Piracy Group Takes AI Training Dataset 'Books3′ Offline",
-      "https://gizmodo.com/anti-piracy-group-takes-ai-training-dataset-books3-off-1850743763"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Illustrated A64 SIMD Instruction List: SVE Instructions",
       "https://dougallj.github.io/asil/"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 01:44:21",
-      "https://news.ycombinator.com/item?id=37746918"
-    ],
-    [
-      "Learnable Programming (2012)",
-      "http://worrydream.com/LearnableProgramming/"
     ]
   ],
   [
