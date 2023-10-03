@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 02:21:11](https://news.ycombinator.com/item?id=37747158) - [The successful campaign to convince people the USA and not the USSR beat Hitler](https://www.vox.com/2014/6/16/5814270/the-successful-70-year-campaign-to-convince-people-the-usa-and-not)
 * [2023-10-03, 01:17:45](https://news.ycombinator.com/item?id=37746717) - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
 * [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
@@ -14,7 +15,6 @@
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 * [2023-10-02, 15:22:56](https://news.ycombinator.com/item?id=37739320) - [The world needs computational social science](https://petterhol.me/2023/10/02/the-well-groomed-anarchists-why-the-world-needs-computational-social-science/)
-* [2023-10-02, 15:19:54](https://news.ycombinator.com/item?id=37739283) - [The spotted lanternfly is now in Illinois](https://www.cbsnews.com/chicago/news/spotted-lanternfly-in-illinois-what-you-need-to-know/)
 * [2023-10-02, 15:16:04](https://news.ycombinator.com/item?id=37739238) - [Mitochondrial DNA damage triggers spread of Parkinson’s disease-like pathology](https://www.eurekalert.org/news-releases/1003348)
 * [2023-10-02, 15:15:42](https://news.ycombinator.com/item?id=37739233) - [Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning](https://waxy.org/2023/10/weird-ai-yankovic-voice-cloning/)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
