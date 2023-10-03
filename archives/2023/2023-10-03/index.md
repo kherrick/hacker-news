@@ -51,6 +51,7 @@
 * [2023-10-03, 14:29:25](https://news.ycombinator.com/item?id=37752461) - [Driver hits woman in S.F., then Cruise driverless car runs her over](https://www.sfchronicle.com/bayarea/article/woman-run-autonomous-vehicle-san-francisco-18403044.php)
 * [2023-10-03, 14:24:16](https://news.ycombinator.com/item?id=37752406) - [$8B Sam Bankman-Fried criminal trial starts today](https://www.cnbc.com/2023/10/03/sam-bankman-fried-criminal-trial-starts-today-heres-whats-at-stake.html)
 * [2023-10-03, 14:20:56](https://news.ycombinator.com/item?id=37752366) - [Pgroll: zero-downtime, undoable, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
+* [2023-10-03, 14:13:35](https://news.ycombinator.com/item?id=37752272) - [Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
 * [2023-10-03, 13:50:37](https://news.ycombinator.com/item?id=37751924) - [Fairphone 5 review: The most uncompromising repairable phone yet](https://www.androidpolice.com/fairphone-5-review/)
 * [2023-10-03, 13:26:56](https://news.ycombinator.com/item?id=37751576) - [Ad-free Facebook, Instagram access planned for $14 per month in Europe](https://arstechnica.com/tech-policy/2023/10/ad-free-facebook-instagram-access-planned-for-14-per-month-in-europe/)
 * [2023-10-03, 13:07:40](https://news.ycombinator.com/item?id=37751335) - [Missing girl found using fingerprints on ransom note](https://www.bbc.com/news/world-us-canada-66993201)
