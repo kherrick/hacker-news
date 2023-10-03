@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-03, 01:17:45](https://news.ycombinator.com/item?id=37746717) - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
+* [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
 * [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
 * [2023-10-02, 23:42:40](https://news.ycombinator.com/item?id=37746017) - [Days of Awe: The clinical trial drug that might save my husband's life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
@@ -21,7 +22,6 @@
 * [2023-10-02, 14:29:03](https://news.ycombinator.com/item?id=37738603) - [Sprite Lightning in High Definition](https://apod.nasa.gov/apod/ap231002.html)
 * [2023-10-02, 13:50:38](https://news.ycombinator.com/item?id=37738088) - [Chess and solution pool with linear programming (2018)](http://yetanothermathprogrammingconsultant.blogspot.com/2018/11/chess-and-solution-pool.html)
 * [2023-10-02, 13:33:42](https://news.ycombinator.com/item?id=37737862) - [JWST's first spectrum of a TRAPPIST-1 planet](https://phys.org/news/2023-09-james-webb-space-telescope-spectrum.html)
-* [2023-10-02, 13:15:23](https://news.ycombinator.com/item?id=37737651) - [Chromebook Plus](https://blog.google/products/chromebooks/chromebook-plus/)
 * [2023-10-02, 13:10:43](https://news.ycombinator.com/item?id=37737599) - [Break-a-Scene: Extracting Multiple Concepts from a Single Image](https://omriavrahami.com/break-a-scene/)
 * [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
