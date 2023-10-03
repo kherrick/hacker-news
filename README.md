@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-03, 21:17:05](https://news.ycombinator.com/item?id=37757699) - [Most Americans comfortable with solar panels, turbines in their communities](https://www.washingtonpost.com/climate-solutions/2023/10/03/solar-panels-wind-turbines-nimby/)
+* [2023-10-03, 21:05:12](https://news.ycombinator.com/item?id=37757574) - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
 * [2023-10-03, 21:00:11](https://news.ycombinator.com/item?id=37757516) - [GCVR (YC W22, Top Rated on Quest) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-10-03, 20:16:22](https://news.ycombinator.com/item?id=37756964) - [Poppler is a PDF rendering library based on the xpdf-3.0 code base](https://poppler.freedesktop.org/)
 * [2023-10-03, 19:55:18](https://news.ycombinator.com/item?id=37756714) - [Update: Lumber Prices Down 11% YoY](https://www.calculatedriskblog.com/2023/10/update-lumber-prices-down-11-yoy.html)
@@ -20,8 +21,7 @@
 * [2023-10-03, 14:20:56](https://news.ycombinator.com/item?id=37752366) - [Pgroll: zero-downtime, reversible schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
 * [2023-10-03, 12:36:45](https://news.ycombinator.com/item?id=37751041) - [Show HN: Leporello.js – interactive functional programming IDE for JavaScript](https://leporello.tech)
-* [2023-10-03, 12:31:28](https://news.ycombinator.com/item?id=37750982) - [root with a single command: sudo logrotate](https://joshua.hu/gaining-root-with-logrotate-sudo-ubuntu)
-* [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
+* [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, computer, make me a font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-03, 12:07:19](https://news.ycombinator.com/item?id=37750763) - [Show HN: Trigger.dev V2 – a Temporal alternative for TypeScript devs](https://trigger.dev)
 * [2023-10-02, 21:25:19](https://news.ycombinator.com/item?id=37744627) - [Faces of Death: Ancient Burial Masks, from Egypt to Peru](https://worldhistory.substack.com/p/faces-of-death)
 * [2023-10-02, 17:13:50](https://news.ycombinator.com/item?id=37741254) - [Greek Temples Made of Wood](https://www.philipsteadman.com/blog/greek-temples-made-of-wood/)
