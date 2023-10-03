@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 10:46:40](https://news.ycombinator.com/item?id=37750121) - [US finally moves to cut $2,350 fee for renouncing citizenship](https://www.thelocal.de/20231002/americans-in-europe-us-finally-moves-to-cut-e2350-fee-for-renouncing-citizenship)
+* [2023-10-03, 10:36:17](https://news.ycombinator.com/item?id=37750064) - [As EV sales surge and cars get heavier, parking garages will have to change](https://www.cnbc.com/2023/10/03/as-ev-sales-surge-and-cars-get-heavier-parking-garages-have-to-change.html)
 * [2023-10-03, 09:55:50](https://news.ycombinator.com/item?id=37749802) - [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
+* [2023-10-03, 09:52:57](https://news.ycombinator.com/item?id=37749776) - [Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
 * [2023-10-03, 09:50:19](https://news.ycombinator.com/item?id=37749753) - [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
 * [2023-10-03, 09:35:23](https://news.ycombinator.com/item?id=37749666) - [BMW has an all-new electric 5 Series, and we’ve driven it: The 2024 BMW i5](https://arstechnica.com/cars/2023/10/bmw-has-an-all-new-electric-5-series-and-weve-driven-it-the-2024-bmw-i5/)
 * [2023-10-03, 09:26:49](https://news.ycombinator.com/item?id=37749619) - [What companies offer noteworthy discounts or startup programs for bootstrappers?](https://news.ycombinator.com/item?id=37749619)
