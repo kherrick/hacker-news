@@ -12,6 +12,7 @@
 * [2023-10-02, 22:07:50](https://news.ycombinator.com/item?id=37745120) - [Americans Are Still Spending Like There’s No Tomorrow](https://www.wsj.com/economy/consumers/americans-are-still-spending-like-theres-no-tomorrow-6a1d307)
 * [2023-10-02, 21:57:25](https://news.ycombinator.com/item?id=37745005) - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
 * [2023-10-02, 21:56:38](https://news.ycombinator.com/item?id=37744993) - [To Make a Codling Tarte](https://rarecooking.com/2023/06/27/to-make-a-codling-tarte/)
+* [2023-10-02, 21:25:19](https://news.ycombinator.com/item?id=37744627) - [Faces of Death: Ancient Burial Masks, from Egypt to Peru](https://worldhistory.substack.com/p/faces-of-death)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First Blood Test for Dozens of Hereditary Cancers Approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 * [2023-10-02, 20:48:50](https://news.ycombinator.com/item?id=37744213) - [Rewind Pendant: a wearable that captures what you say and hear](https://www.rewind.ai/pendant)
