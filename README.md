@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 10:57:48](https://news.ycombinator.com/item?id=37750179) - [WeWork Skips $95M in Interest Payments](https://www.nytimes.com/2023/10/02/business/wework-misses-interest-payments.html)
 * [2023-10-03, 10:46:40](https://news.ycombinator.com/item?id=37750121) - [US finally moves to cut $2,350 fee for renouncing citizenship](https://www.thelocal.de/20231002/americans-in-europe-us-finally-moves-to-cut-e2350-fee-for-renouncing-citizenship)
 * [2023-10-03, 10:36:17](https://news.ycombinator.com/item?id=37750064) - [As EV sales surge and cars get heavier, parking garages will have to change](https://www.cnbc.com/2023/10/03/as-ev-sales-surge-and-cars-get-heavier-parking-garages-have-to-change.html)
 * [2023-10-03, 09:55:50](https://news.ycombinator.com/item?id=37749802) - [Show HN: Binance Orderbooks Consumer in C++](https://github.com/xreptoid/viperfish)
@@ -26,7 +27,6 @@
 * [2023-10-02, 16:29:54](https://news.ycombinator.com/item?id=37740483) - [Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
 * [2023-10-02, 15:16:04](https://news.ycombinator.com/item?id=37739238) - [Mitochondrial DNA damage triggers spread of Parkinson’s disease-like pathology](https://www.eurekalert.org/news-releases/1003348)
 * [2023-10-02, 15:02:08](https://news.ycombinator.com/item?id=37739028) - [Ask HN: Who is hiring? (October 2023)](https://news.ycombinator.com/item?id=37739028)
-* [2023-10-02, 15:02:07](https://news.ycombinator.com/item?id=37739026) - [Ask HN: Who wants to be hired? (October 2023)](https://news.ycombinator.com/item?id=37739026)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
