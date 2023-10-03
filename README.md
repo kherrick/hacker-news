@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 21:41:12](https://news.ycombinator.com/item?id=37757952) - [Ask HN: Has MeetUp.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
 * [2023-10-03, 21:17:05](https://news.ycombinator.com/item?id=37757699) - [Most Americans comfortable with solar panels, turbines in their communities](https://www.washingtonpost.com/climate-solutions/2023/10/03/solar-panels-wind-turbines-nimby/)
 * [2023-10-03, 21:05:12](https://news.ycombinator.com/item?id=37757574) - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
 * [2023-10-03, 21:00:11](https://news.ycombinator.com/item?id=37757516) - [GCVR (YC W22, Top Rated on Quest) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
@@ -9,7 +10,7 @@
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-03, 19:46:47](https://news.ycombinator.com/item?id=37756632) - [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 * [2023-10-03, 19:25:35](https://news.ycombinator.com/item?id=37756357) - [Glibc Dynamic Loader Hit by a Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
-* [2023-10-03, 18:49:10](https://news.ycombinator.com/item?id=37755942) - [Study Finds Hybrid Work Improves Mental Health Compared to Remote or In-Office](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9517068/)
+* [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
 * [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 * [2023-10-03, 18:23:22](https://news.ycombinator.com/item?id=37755648) - [Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
@@ -17,7 +18,6 @@
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Graph Mining Library](https://github.com/google/graph-mining)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 14:42:19](https://news.ycombinator.com/item?id=37752622) - [Building Personal and Organizational Prestige](https://lethain.com/building-prestige/)
-* [2023-10-03, 14:24:16](https://news.ycombinator.com/item?id=37752406) - [$8B Sam Bankman-Fried criminal trial starts today](https://www.cnbc.com/2023/10/03/sam-bankman-fried-criminal-trial-starts-today-heres-whats-at-stake.html)
 * [2023-10-03, 14:20:56](https://news.ycombinator.com/item?id=37752366) - [Pgroll: zero-downtime, reversible schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
 * [2023-10-03, 12:36:45](https://news.ycombinator.com/item?id=37751041) - [Show HN: Leporello.js – interactive functional programming IDE for JavaScript](https://leporello.tech)

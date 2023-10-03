@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 21:41:12](https://news.ycombinator.com/item?id=37757952) - [Ask HN: Has MeetUp.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
 * [2023-10-03, 21:17:05](https://news.ycombinator.com/item?id=37757699) - [Most Americans comfortable with solar panels, turbines in their communities](https://www.washingtonpost.com/climate-solutions/2023/10/03/solar-panels-wind-turbines-nimby/)
 * [2023-10-03, 21:05:12](https://news.ycombinator.com/item?id=37757574) - [Michael F. Flynn has died](http://tofspot.blogspot.com/2023/10/wonder-and-anticipation-likes-of-which.html)
 * [2023-10-03, 21:00:11](https://news.ycombinator.com/item?id=37757516) - [GCVR (YC W22, Top Rated on Quest) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
@@ -16,6 +17,7 @@
 * [2023-10-03, 19:46:19](https://news.ycombinator.com/item?id=37756624) - [Gun-related deaths and suicides among American children soar to all-time high](https://www.dailymail.co.uk/news/article-12585743/Gun-deaths-suicides-children-time-high.html)
 * [2023-10-03, 19:41:30](https://news.ycombinator.com/item?id=37756570) - [‘Preapproved Narratives’ Corrupt Science](https://www.wsj.com/articles/how-preapproved-narratives-corrupt-science-false-studies-covid-climate-change-5bee0844)
 * [2023-10-03, 19:25:35](https://news.ycombinator.com/item?id=37756357) - [Glibc Dynamic Loader Hit by a Nasty Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
+* [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
 * [2023-10-03, 18:57:37](https://news.ycombinator.com/item?id=37756030) - [Inflated rents, high interest and lack of supply create European housing crisis](https://www.france24.com/en/europe/20231003-inflated-rents-high-interest-rates-and-lack-of-supply-create-european-housing-crisis)
 * [2023-10-03, 18:49:10](https://news.ycombinator.com/item?id=37755942) - [Study Finds Hybrid Work Improves Mental Health Compared to Remote or In-Office](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9517068/)
 * [2023-10-03, 18:34:28](https://news.ycombinator.com/item?id=37755785) - [How police use location/search data to find suspects - not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
