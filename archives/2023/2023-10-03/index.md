@@ -6,6 +6,7 @@
 
 * [2023-10-03, 06:37:31](https://news.ycombinator.com/item?id=37748602) - [Meta's Mandatory Return to Office Is 'A Mess'](https://www.businessinsider.com/meta-rto-mess-return-to-office-remote-work-2023-9)
 * [2023-10-03, 06:04:20](https://news.ycombinator.com/item?id=37748436) - [Satya Nadella Says Copilot Will Be as Significant as the PC](https://jdmeier.com/satya-nadella-on-copilot/)
+* [2023-10-03, 05:59:15](https://news.ycombinator.com/item?id=37748408) - [Texas man sent to death row over junk science denied US Supreme Court appeal](https://www.theguardian.com/us-news/2023/oct/02/texas-robert-roberson-death-penalty-supreme-court-appeal-denied)
 * [2023-10-03, 05:26:13](https://news.ycombinator.com/item?id=37748263) - [Ask HN: LinkedIn mysteriously banned me permanently; where to go next?](https://news.ycombinator.com/item?id=37748263)
 * [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:31:13](https://news.ycombinator.com/item?id=37747650) - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)

@@ -2,6 +2,7 @@
 
 * [2023-10-03, 06:37:31](https://news.ycombinator.com/item?id=37748602) - [Meta's Mandatory Return to Office Is 'A Mess'](https://www.businessinsider.com/meta-rto-mess-return-to-office-remote-work-2023-9)
 * [2023-10-03, 06:04:20](https://news.ycombinator.com/item?id=37748436) - [Satya Nadella Says Copilot Will Be as Significant as the PC](https://jdmeier.com/satya-nadella-on-copilot/)
+* [2023-10-03, 05:59:15](https://news.ycombinator.com/item?id=37748408) - [Texas man sent to death row over junk science denied US Supreme Court appeal](https://www.theguardian.com/us-news/2023/oct/02/texas-robert-roberson-death-penalty-supreme-court-appeal-denied)
 * [2023-10-03, 04:02:41](https://news.ycombinator.com/item?id=37747822) - [What scientists must know about hardware to write fast code (2020)](https://viralinstruction.com/posts/hardware/)
 * [2023-10-03, 03:31:13](https://news.ycombinator.com/item?id=37747650) - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
 * [2023-10-03, 03:10:55](https://news.ycombinator.com/item?id=37747534) - [Every database will become a vector database sooner or later](https://nextword.substack.com/p/vector-database-is-not-a-separate)
@@ -17,7 +18,6 @@
 * [2023-10-02, 18:10:26](https://news.ycombinator.com/item?id=37742138) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 18:05:23](https://news.ycombinator.com/item?id=37742067) - [Wilhelm Reich on pleasure and the genesis of anxiety (2021)](https://epochemagazine.org/44/wilhelm-reich-on-pleasure-and-the-genesis-of-anxiety/)
 * [2023-10-02, 17:32:48](https://news.ycombinator.com/item?id=37741575) - [Show HN: Anything World – AI for 3D auto-rigging and animation](https://anything.world/)
-* [2023-10-02, 17:01:14](https://news.ycombinator.com/item?id=37741024) - [Polymath Robotics (YC S22) Is Hiring](https://www.ycombinator.com/companies/polymath-robotics/jobs/NM8JJ8C-robotics-engineer-in-san-francisco)
 * [2023-10-02, 16:56:04](https://news.ycombinator.com/item?id=37740932) - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm)
 * [2023-10-02, 16:52:26](https://news.ycombinator.com/item?id=37740870) - [Show HN: OpenStatus – Open-source monitoring with incident managements](https://www.openstatus.dev)
 * [2023-10-02, 16:29:54](https://news.ycombinator.com/item?id=37740483) - [Modos Paper Monitor](https://www.modos.tech/blog/modos-paper-monitor)
