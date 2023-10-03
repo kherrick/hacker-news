@@ -101,4 +101,5 @@
 * [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
 * [2023-10-03, 01:17:45](https://news.ycombinator.com/item?id=37746717) - [Redfin Is Leaving the National Association of Realtors](https://www.redfin.com/news/redfin-is-leaving-nar/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A Fully-Functional Clone of VisiCalc](https://www.lexaloffle.com/bbs/?tid=41739)
+* [2023-10-03, 00:24:40](https://news.ycombinator.com/item?id=37746341) - [Archaeologists Uncover 9,500-Year-Old Woven Baskets and Europe’s Oldest Sandals](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-9500-year-old-woven-baskets-and-europes-oldest-sandals-180983001/)
 * [2023-10-03, 00:04:35](https://news.ycombinator.com/item?id=37746185) - [Starlink is now available across the United States](https://twitter.com/Starlink/status/1708871459224133933)
