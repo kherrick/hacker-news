@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 08:17:35](https://news.ycombinator.com/item?id=37749207) - [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
 * [2023-10-03, 06:37:31](https://news.ycombinator.com/item?id=37748602) - [Meta's Mandatory Return to Office Is 'A Mess'](https://www.businessinsider.com/meta-rto-mess-return-to-office-remote-work-2023-9)
 * [2023-10-03, 06:25:29](https://news.ycombinator.com/item?id=37748543) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
 * [2023-10-03, 06:04:20](https://news.ycombinator.com/item?id=37748436) - [Satya Nadella Says Copilot Will Be as Significant as the PC](https://jdmeier.com/satya-nadella-on-copilot/)
