@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 16:12:42](https://news.ycombinator.com/item?id=37753840) - [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
 * [2023-10-03, 15:36:18](https://news.ycombinator.com/item?id=37753292) - [I applied to 250 jobs and timed how long each one took](https://www.careerfair.io/online-maze)
 * [2023-10-03, 15:19:37](https://news.ycombinator.com/item?id=37753079) - [Predictive Policing Software Is Pretty Terrible at Predicting Crimes](https://gizmodo.com/predictive-policing-cops-law-enforcement-predpol-1850893951)
+* [2023-10-03, 15:10:03](https://news.ycombinator.com/item?id=37752950) - [Review: Framework Laptop finally gets an AMD Ryzen config–and it’s pretty good](https://arstechnica.com/gadgets/2023/10/review-framework-laptop-finally-gets-an-amd-ryzen-config-and-its-pretty-good/)
 * [2023-10-03, 14:51:27](https://news.ycombinator.com/item?id=37752744) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 14:43:57](https://news.ycombinator.com/item?id=37752640) - [How the Upcoming Mazda RX-9 Will Keep the Spirit of the Rotary Engine Alive](https://www.topspeed.com/mazda-rx-9-will-keep-the-spirit-of-the-rotary-engine-alive/)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
