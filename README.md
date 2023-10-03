@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-03, 09:50:19](https://news.ycombinator.com/item?id=37749753) - [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
 * [2023-10-03, 09:10:27](https://news.ycombinator.com/item?id=37749530) - [The Linux Foundation has practically abandoned Linux](https://lunduke.locals.com/post/4666420/the-linux-foundation-has-practically-abandoned-linux)
 * [2023-10-03, 09:05:04](https://news.ycombinator.com/item?id=37749503) - [Wegovy, other weight-loss drugs scrutinized over reports of suicidal thoughts](https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-other-weight-loss-drugs-scrutinized-over-reports-suicidal-thoughts-2023-09-28/)
 * [2023-10-03, 08:17:35](https://news.ycombinator.com/item?id=37749207) - [UltraRAM](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential)
@@ -12,7 +13,6 @@
 * [2023-10-03, 01:44:21](https://news.ycombinator.com/item?id=37746918) - [Learnable Programming (2012)](http://worrydream.com/LearnableProgramming/)
 * [2023-10-03, 01:09:13](https://news.ycombinator.com/item?id=37746663) - [PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
 * [2023-10-02, 23:59:44](https://news.ycombinator.com/item?id=37746148) - [MotionLM: Multi-Agent Motion Forecasting as Language Modeling](https://arxiv.org/abs/2309.16534)
-* [2023-10-02, 23:42:40](https://news.ycombinator.com/item?id=37746017) - [Days of Awe: The clinical trial drug that might save my husband's life](https://bessstillman.substack.com/p/days-of-awe-the-clinical-trial-drug)
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
 * [2023-10-02, 21:02:22](https://news.ycombinator.com/item?id=37744350) - [First blood test for dozens of hereditary cancers approved by FDA](https://www.insideprecisionmedicine.com/topics/oncology/first-blood-test-for-dozens-of-hereditary-cancers-approved-by-fda/)
 * [2023-10-02, 19:49:05](https://news.ycombinator.com/item?id=37743517) - [Local-first software: You own your data, in spite of the cloud (2019)](https://www.inkandswitch.com/local-first/)
