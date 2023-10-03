@@ -4,6 +4,7 @@
 * [2023-10-03, 14:43:57](https://news.ycombinator.com/item?id=37752640) - [How the Upcoming Mazda RX-9 Will Keep the Spirit of the Rotary Engine Alive](https://www.topspeed.com/mazda-rx-9-will-keep-the-spirit-of-the-rotary-engine-alive/)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 14:33:42](https://news.ycombinator.com/item?id=37752514) - [PFAS Forever Chemicals Present in Some Plastic Recyclable Bottles](https://www.bloomberg.com/news/features/2023-09-28/pfas-forever-chemicals-present-in-some-plastic-recyclable-bottles)
+* [2023-10-03, 14:24:16](https://news.ycombinator.com/item?id=37752406) - [$8B Sam Bankman-Fried criminal trial starts today](https://www.cnbc.com/2023/10/03/sam-bankman-fried-criminal-trial-starts-today-heres-whats-at-stake.html)
 * [2023-10-03, 14:20:56](https://news.ycombinator.com/item?id=37752366) - [Pgroll: zero-downtime, undoable, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2023-10-03, 13:50:37](https://news.ycombinator.com/item?id=37751924) - [Fairphone 5 review: The most uncompromising repairable phone yet](https://www.androidpolice.com/fairphone-5-review/)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
@@ -29,7 +30,6 @@
 * [2023-10-02, 21:20:38](https://news.ycombinator.com/item?id=37744563) - [Show HN: A new stdlib for Golang focusing on platform native support](https://github.com/primecitizens/pcz)
 * [2023-10-02, 10:15:37](https://news.ycombinator.com/item?id=37736205) - [The World’s First Known Deep-Sea Octopus Nursery](https://nautil.us/the-worlds-first-known-deep-sea-octopus-nursery-401656/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [What every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
-* [2023-10-02, 03:00:06](https://news.ycombinator.com/item?id=37733455) - [The short life of New York City’s first skyscraper](https://ephemeralnewyork.wordpress.com/2023/09/25/the-short-forgotten-life-of-new-york-citys-first-skyscraper/)
 
 ## [Archives](archives/index.md)
 
