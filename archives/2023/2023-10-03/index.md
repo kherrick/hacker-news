@@ -7,6 +7,7 @@
 * [2023-10-03, 17:18:02](https://news.ycombinator.com/item?id=37754792) - [Show HN: A better visual builder for complex business logic](https://www.superblocks.com/blog/introducing-control-blocks-build-any-backend-business-logic-visually)
 * [2023-10-03, 17:01:28](https://news.ycombinator.com/item?id=37754576) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package · Jamie Magee](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
+* [2023-10-03, 16:44:23](https://news.ycombinator.com/item?id=37754287) - [Ask HN: Best books to understand semiconductor business?](https://news.ycombinator.com/item?id=37754287)
 * [2023-10-03, 16:31:15](https://news.ycombinator.com/item?id=37754124) - [Airbnb CEO: NYC hotels will get more expensive after short-term rental crackdown](https://thepointsguy.com/news/airbnb-new-york-city-ban/)
 * [2023-10-03, 16:12:42](https://news.ycombinator.com/item?id=37753840) - [Arc browser built-in AI features [video]](https://www.youtube.com/watch?v=y7koAGLf0EE)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Google open-sources their graph mining library](https://github.com/google/graph-mining)
