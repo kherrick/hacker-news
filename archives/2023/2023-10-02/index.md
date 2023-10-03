@@ -72,6 +72,7 @@
 * [2023-10-02, 12:39:56](https://news.ycombinator.com/item?id=37737318) - [Open-source could finally get the world’s microscopes speaking the same language](https://www.nature.com/articles/d41586-023-03064-9)
 * [2023-10-02, 12:14:39](https://news.ycombinator.com/item?id=37737131) - [Study: Some people may be physically unable to use police breathalysers](https://www.sheffield.ac.uk/news/new-research-indicates-some-people-may-be-physically-unable-use-police-breathalysers)
 * [2023-10-02, 10:27:57](https://news.ycombinator.com/item?id=37736318) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
+* [2023-10-02, 10:15:37](https://news.ycombinator.com/item?id=37736205) - [The World’s First Known Deep-Sea Octopus Nursery](https://nautil.us/the-worlds-first-known-deep-sea-octopus-nursery-401656/)
 * [2023-10-02, 10:14:16](https://news.ycombinator.com/item?id=37736194) - [James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion](https://www.bbc.co.uk/news/science-environment-66974738)
 * [2023-10-02, 09:50:54](https://news.ycombinator.com/item?id=37736035) - [Nobel Price in Medicine goes to development of mRNA vaccines](https://www.nobelprize.org/prizes/medicine/2023/press-release/)
 * [2023-10-02, 09:22:05](https://news.ycombinator.com/item?id=37735801) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)

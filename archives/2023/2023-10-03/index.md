@@ -13,6 +13,7 @@
 * [2023-10-03, 12:47:37](https://news.ycombinator.com/item?id=37751140) - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
 * [2023-10-03, 12:42:51](https://news.ycombinator.com/item?id=37751104) - [Is a broadcast license revocation a form of censorship? (Hint: No, it's not.)](https://www.chicagomediaaction.org/news.php?id=757)
 * [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
+* [2023-10-03, 12:07:19](https://news.ycombinator.com/item?id=37750763) - [Show HN: Trigger.dev V2 – a Temporal alternative for TypeScript devs](https://news.ycombinator.com/item?id=37750763)
 * [2023-10-03, 11:39:47](https://news.ycombinator.com/item?id=37750510) - [Meta pitches EU to charge a $10 subscription for ad-free Facebook and Instagram](https://www.wsj.com/tech/meta-floats-charging-14-a-month-for-ad-free-instagram-or-facebook-5dbaf4d5)
 * [2023-10-03, 11:10:15](https://news.ycombinator.com/item?id=37750279) - [HMD Global Starts Manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
 * [2023-10-03, 10:57:48](https://news.ycombinator.com/item?id=37750179) - [WeWork Skips $95M in Interest Payments](https://www.nytimes.com/2023/10/02/business/wework-misses-interest-payments.html)
