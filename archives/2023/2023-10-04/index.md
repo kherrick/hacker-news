@@ -24,6 +24,7 @@
 * [2023-10-04, 16:53:15](https://news.ycombinator.com/item?id=37768018) - [Meta starts rolling out generative AI tools for all advertisers](https://www.reuters.com/technology/meta-starts-rolling-out-generative-ai-tools-all-advertisers-2023-10-04/)
 * [2023-10-04, 16:42:45](https://news.ycombinator.com/item?id=37767831) - [Intel to Set Its FPGA Unit Free to Pursue Its Own Path – The Next Platform](https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/)
 * [2023-10-04, 16:40:38](https://news.ycombinator.com/item?id=37767796) - [Airbnb tenant refuses to leave for more than a year](https://www.latimes.com/california/story/2023-10-04/airbnb-guest-refuse-pay-leave-luxury-rental)
+* [2023-10-04, 16:37:29](https://news.ycombinator.com/item?id=37767722) - [Show HN: Running LLMs in one line of Python without Docker](https://www.lepton.ai/)
 * [2023-10-04, 16:35:53](https://news.ycombinator.com/item?id=37767692) - [Sequoia Captials Puff piece on SBF just before FTX's collapse](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 * [2023-10-04, 16:26:34](https://news.ycombinator.com/item?id=37767525) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 * [2023-10-04, 16:15:42](https://news.ycombinator.com/item?id=37767335) - [Tech doesn’t make our lives easier. It makes them faster](https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier)
