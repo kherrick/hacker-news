@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-04, 19:03:36",
+      "https://news.ycombinator.com/item?id=37770008"
+    ],
+    [
+      "Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis",
+      "https://github.com/sebosp/s2protocol-rs"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 18:34:11",
       "https://news.ycombinator.com/item?id=37769595"
     ],
@@ -107,16 +117,6 @@
     [
       "How US intelligence agencies hid their most shameful experiments",
       "https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 14:23:43",
-      "https://news.ycombinator.com/item?id=37765663"
-    ],
-    [
-      "Language Models Represent Space and Time",
-      "https://arxiv.org/abs/2310.02207"
     ]
   ],
   [
