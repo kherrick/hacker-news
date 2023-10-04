@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=37768621"
     ],
     [
-      "Figma added OpenAI to a list of companies that can use some of its data",
+      "Figma added OpenAI to a list of subprocessor companies",
       "https://www.figma.com/sub-processors/"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 17:26:35",
+      "https://news.ycombinator.com/item?id=37768586"
+    ],
+    [
+      "How the Baltic states became the hub of crypto money laundering and fraud",
+      "https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-10-04, 16:26:34",
-      "https://news.ycombinator.com/item?id=37767525"
-    ],
-    [
-      "Open Sourcing Ferrocene",
-      "https://ferrous-systems.com/blog/ferrocene-open-source/"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 15:36:19",
       "https://news.ycombinator.com/item?id=37766711"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37765663"
     ],
     [
-      "Paper: LLMs have internal world model, and a sense of time and space",
+      "Language Models Represent Space and Time",
       "https://arxiv.org/abs/2310.02207"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37763424"
     ],
     [
-      "The FTC Sues to Break Up Amazon over an Economy-Wide “Hidden Tax”",
+      "The FTC sues to break up Amazon over an economy-wide “hidden tax”",
       "https://www.thebignewsletter.com/p/the-ftc-sues-to-break-up-amazon-over"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37761273"
     ],
     [
-      "Extracting Hacker News Book Recommendations with the ChatGPT API",
+      "Extracting Hacker News book recommendations with the ChatGPT API",
       "https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/"
     ]
   ],
