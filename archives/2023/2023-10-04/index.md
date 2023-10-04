@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 12:40:07](https://news.ycombinator.com/item?id=37764226) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
 * [2023-10-04, 12:00:19](https://news.ycombinator.com/item?id=37763906) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-10-04, 11:51:17](https://news.ycombinator.com/item?id=37763822) - [Show HN: Shuttle – Build Back Ends Fast](https://github.com/shuttle-hq/shuttle)
 * [2023-10-04, 11:35:09](https://news.ycombinator.com/item?id=37763679) - [Richard Stallman Talks Red Hat, AI and Ethical Software Licenses at GNU Birthday](https://fossforce.com/2023/10/richard-stallman-talks-red-hat-ai-and-ethical-software-licenses-at-gnu-birthday-event/)
@@ -17,6 +18,7 @@
 * [2023-10-04, 08:24:23](https://news.ycombinator.com/item?id=37762380) - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
 * [2023-10-04, 07:42:40](https://news.ycombinator.com/item?id=37762092) - [The time Terry Pratchett’s German publisher inserted a soup ad into his novel](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
+* [2023-10-04, 05:50:02](https://news.ycombinator.com/item?id=37761283) - [Canada to Regulate Podcasts](https://podnews.net/update/crtc-podcast-regulation)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-04, 05:07:58](https://news.ycombinator.com/item?id=37761045) - [Tell HN: Please stop sending AI-generated job applications (whoishiring threads)](https://news.ycombinator.com/item?id=37761045)
 * [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
