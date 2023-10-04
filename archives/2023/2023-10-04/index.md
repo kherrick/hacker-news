@@ -8,6 +8,7 @@
 * [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
 * [2023-10-04, 17:50:22](https://news.ycombinator.com/item?id=37768979) - [Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun](https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/)
+* [2023-10-04, 17:44:11](https://news.ycombinator.com/item?id=37768884) - [OpenSSH 9.5](https://www.openssh.com/txt/release-9.5)
 * [2023-10-04, 17:29:01](https://news.ycombinator.com/item?id=37768621) - [Figma added OpenAI to a list of companies that can use some of its data](https://www.figma.com/sub-processors/)
 * [2023-10-04, 17:26:35](https://news.ycombinator.com/item?id=37768586) - [How the Baltic states became the hub of crypto money laundering and fraud](https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/)
 * [2023-10-04, 17:24:58](https://news.ycombinator.com/item?id=37768551) - [Free Open-source ML observability course](https://www.evidentlyai.com/ml-observability-course)
