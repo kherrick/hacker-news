@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 14:58:08](https://news.ycombinator.com/item?id=37766122) - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
 * [2023-10-04, 14:01:21](https://news.ycombinator.com/item?id=37765313) - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
 * [2023-10-04, 13:59:26](https://news.ycombinator.com/item?id=37765291) - [Software Is in the Grey Areas](https://oom.senyosimpson.com/software-is-in-the-grey-areas/)
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
