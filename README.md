@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 20:13:14](https://news.ycombinator.com/item?id=37771019) - [The further apart your parents were born, the higher your IQ and height](https://www.nature.com/articles/nature14618)
+* [2023-10-04, 20:00:06](https://news.ycombinator.com/item?id=37770819) - [How Bad Is Your Resume? – Get Your Resume Roasted by AI](https://roastmyresu.me/)
 * [2023-10-04, 19:31:27](https://news.ycombinator.com/item?id=37770384) - [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
 * [2023-10-04, 19:21:53](https://news.ycombinator.com/item?id=37770260) - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
 * [2023-10-04, 19:03:36](https://news.ycombinator.com/item?id=37770008) - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
@@ -16,7 +18,6 @@
 * [2023-10-04, 16:15:42](https://news.ycombinator.com/item?id=37767335) - [Tech doesn’t make our lives easier. It makes them faster](https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier)
 * [2023-10-04, 16:06:41](https://news.ycombinator.com/item?id=37767205) - [\"You have a 27% 'AI' issue in here\"](https://twitter.com/rustykitty_/status/1709316764868153537)
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
-* [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 13:04:52](https://news.ycombinator.com/item?id=37764489) - [Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
 * [2023-10-04, 12:22:58](https://news.ycombinator.com/item?id=37764088) - [1.3B Worldcat scrape and data science mini-competition](https://annas-blog.org/worldcat-scrape.html)
@@ -24,7 +25,6 @@
 * [2023-10-04, 11:03:22](https://news.ycombinator.com/item?id=37763424) - [The FTC sues to break up Amazon over an economy-wide “hidden tax”](https://www.thebignewsletter.com/p/the-ftc-sues-to-break-up-amazon-over)
 * [2023-10-04, 10:18:04](https://news.ycombinator.com/item?id=37763098) - [Show HN: Classic Video Poker](https://lfgslots.com/classicvideopoker/)
 * [2023-10-04, 09:55:15](https://news.ycombinator.com/item?id=37762968) - [Nobel Prize Chemistry 2023](https://www.nobelprize.org/prizes/chemistry/2023/press-release/)
-* [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News book recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
 * [2023-10-02, 07:26:01](https://news.ycombinator.com/item?id=37734941) - [Color for the Color-Challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 20:13:14](https://news.ycombinator.com/item?id=37771019) - [The further apart your parents were born, the higher your IQ and height](https://www.nature.com/articles/nature14618)
+* [2023-10-04, 20:00:06](https://news.ycombinator.com/item?id=37770819) - [How Bad Is Your Resume? – Get Your Resume Roasted by AI](https://roastmyresu.me/)
 * [2023-10-04, 19:31:27](https://news.ycombinator.com/item?id=37770384) - [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
 * [2023-10-04, 19:21:53](https://news.ycombinator.com/item?id=37770260) - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
 * [2023-10-04, 19:03:36](https://news.ycombinator.com/item?id=37770008) - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
