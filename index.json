@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-04, 00:18:01",
+      "https://news.ycombinator.com/item?id=37759366"
+    ],
+    [
+      "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "https://www.openculture.com/2020/10/daisugi.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 00:05:54",
+      "https://news.ycombinator.com/item?id=37759252"
+    ],
+    [
+      "OpenCore Legacy Patcher project brings macOS Sonoma support to 16-year-old Macs",
+      "https://arstechnica.com/gadgets/2023/10/opencore-legacy-patcher-project-brings-macos-sonoma-support-to-16-year-old-macs/"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 23:23:38",
       "https://news.ycombinator.com/item?id=37758911"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2023-10-03, 23:07:08",
+      "https://news.ycombinator.com/item?id=37758788"
+    ],
+    [
+      "Passive Solar Water Desalination",
+      "https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 23:05:30",
       "https://news.ycombinator.com/item?id=37758772"
     ],
     [
-      "Semantic Versioning 2.0.0 – Semantic Versioning",
+      "Semantic Versioning 2.0 (2013)",
       "https://semver.org/"
+    ]
+  ],
+  [
+    [
+      "2023-10-03, 21:52:53",
+      "https://news.ycombinator.com/item?id=37758099"
+    ],
+    [
+      "Show HN: An app to create asynchronous micro podcasts",
+      "https://roadsaudio.com/"
     ]
   ],
   [
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37756714"
     ],
     [
-      "Update: Lumber Prices Down 11% YoY",
+      "Lumber prices down 11% YoY",
       "https://www.calculatedriskblog.com/2023/10/update-lumber-prices-down-11-yoy.html"
     ]
   ],
@@ -117,16 +157,6 @@
     [
       "Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices",
       "https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 17:54:35",
-      "https://news.ycombinator.com/item?id=37755276"
-    ],
-    [
-      "John Carmack on AI",
-      "https://twitter.com/ID_AA_Carmack/status/1708905454544282083"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-10-03, 12:36:45",
-      "https://news.ycombinator.com/item?id=37751041"
-    ],
-    [
-      "Show HN: Leporello.js – interactive functional programming IDE for JavaScript",
-      "https://leporello.tech"
-    ]
-  ],
-  [
-    [
       "2023-10-03, 12:17:33",
       "https://news.ycombinator.com/item?id=37750859"
     ],
@@ -277,26 +297,6 @@
     [
       "One Revolution per Minute [video]",
       "https://erikwernquist.com/one-revolution-per-minute"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 06:48:11",
-      "https://news.ycombinator.com/item?id=37734741"
-    ],
-    [
-      "The short-lived experiment with rubber tires on railways (2013)",
-      "https://www.ianvisits.co.uk/articles/the-short-lived-experiment-with-rubber-tires-on-railways-9831/"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 05:57:25",
-      "https://news.ycombinator.com/item?id=37734460"
-    ],
-    [
-      "HPC at Autodesk",
-      "https://forums.autodesk.com/t5/engineering-hub-blog/autodesk-and-outerbounds-partner-to-open-source-ray-and-hpc/ba-p/12254816"
     ]
   ]
 ]
