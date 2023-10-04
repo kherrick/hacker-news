@@ -7,6 +7,7 @@
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:17:01](https://news.ycombinator.com/item?id=37764651) - [Why Aren’t America’s Students Showing Up?](https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+* [2023-10-04, 12:54:33](https://news.ycombinator.com/item?id=37764382) - [Think Before You Speak: Training Language Models with Pause Tokens](https://arxiv.org/abs/2310.02226)
 * [2023-10-04, 12:51:35](https://news.ycombinator.com/item?id=37764351) - [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 Mm/S](https://www.tomshardware.com/news/3d-printer-uses-magnets-to-break-speed-limits-print-at-a-table-shaking-800-mms)
 * [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 12:43:20](https://news.ycombinator.com/item?id=37764266) - [Remembering the women who didn't survive prostitution](https://nordicmodelnow.org/2019/10/04/remembering-the-women-who-didnt-survive-prostitution/)
