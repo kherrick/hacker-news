@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37770627"
     ],
     [
-      "Ural Airlines Is Preparing to Fly an Airbus A320 Out of a Field",
+      "Ural Airlines is preparing to fly a stranded Airbus A320 out of a field",
       "https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37770260"
     ],
     [
-      "Expressive Text-to-Image Generation with Rich Text",
+      "Expressive text-to-image generation with rich text",
       "https://rich-text-to-image.github.io/"
     ]
   ],
@@ -95,8 +95,18 @@
       "https://news.ycombinator.com/item?id=37769919"
     ],
     [
-      "CVE-2023-4911: Looney Tunables – Local Privilege Escalation in the glibc’s ld.so",
-      "https://blog.qualys.com/vulnerabilities-threat-research/2023/10/03/cve-2023-4911-looney-tunables-local-privilege-escalation-in-the-glibcs-ld-so"
+      "Looney Tunables – Local privilege escalation in glibc’s ld.so",
+      "https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 18:54:13",
+      "https://news.ycombinator.com/item?id=37769893"
+    ],
+    [
+      "Ring attention with blockwise transformers for near-infinite context",
+      "https://arxiv.org/abs/2310.01889"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37769139"
     ],
     [
-      "Eliminating Radio Interference from Apple Charger",
+      "Eliminating radio interference from Apple charger",
       "https://oh8hub.substack.com/p/eliminating-radio-interference-from"
     ]
   ],
@@ -141,42 +151,12 @@
   ],
   [
     [
-      "2023-10-04, 17:24:58",
-      "https://news.ycombinator.com/item?id=37768551"
-    ],
-    [
-      "Free Open-source ML observability course",
-      "https://www.evidentlyai.com/ml-observability-course"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 17:10:18",
-      "https://news.ycombinator.com/item?id=37768300"
-    ],
-    [
-      "Pkgx – “Run Anything” from the creator of brew",
-      "https://pkgx.sh"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 16:37:29",
       "https://news.ycombinator.com/item?id=37767722"
     ],
     [
       "Show HN: Running LLMs in one line of Python without Docker",
       "https://www.lepton.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 16:15:42",
-      "https://news.ycombinator.com/item?id=37767335"
-    ],
-    [
-      "Tech doesn’t make our lives easier. It makes them faster",
-      "https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier"
     ]
   ],
   [
@@ -207,6 +187,16 @@
     [
       "Choosing vector database: a side-by-side comparison",
       "https://benchmark.vectorview.ai/vectordbs.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 12:54:33",
+      "https://news.ycombinator.com/item?id=37764382"
+    ],
+    [
+      "Training language models with pause tokens",
+      "https://arxiv.org/abs/2310.02226"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2023-10-04, 09:55:15",
+      "https://news.ycombinator.com/item?id=37762968"
+    ],
+    [
+      "Nobel Prize Chemistry 2023",
+      "https://www.nobelprize.org/prizes/chemistry/2023/press-release/"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 13:01:33",
       "https://news.ycombinator.com/item?id=37751270"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-10-03, 09:36:44",
-      "https://news.ycombinator.com/item?id=37749676"
+      "2023-10-03, 10:59:17",
+      "https://news.ycombinator.com/item?id=37750193"
     ],
     [
-      "Harnessing the Power of the Sun to Turn Apples into Art (2018)",
-      "https://www.atlasobscura.com/articles/japanese-apple-art"
+      "The Garden of the Five Senses",
+      "https://worldsensorium.com/the-garden-of-the-five-senses/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=37734941"
     ],
     [
-      "Color for the Color-Challenged",
+      "Color for the color-challenged",
       "https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd"
     ]
   ],
