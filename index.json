@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-10-04, 21:59:43",
+      "https://news.ycombinator.com/item?id=37772394"
+    ],
+    [
+      "Insurance companies fill their networks with ‘ghost’ therapists",
+      "https://www.seattletimes.com/seattle-news/mental-health/how-insurance-companies-fill-their-networks-with-ghost-therapists/"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 21:00:47",
       "https://news.ycombinator.com/item?id=37771721"
     ],
     [
       "Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam",
       "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 20:24:58",
-      "https://news.ycombinator.com/item?id=37771182"
-    ],
-    [
-      "The climate model approximation that could fundamentally change climate movement",
-      "https://climatewaterproject.substack.com/p/carbon-warming-water-cooling"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "The Diorama Engine",
       "https://dioragame.com/devlog/?log=3"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 20:10:24",
-      "https://news.ycombinator.com/item?id=37770982"
-    ],
-    [
-      "Effects of tea, catechins, and derivatives on Omicron COVID variatns",
-      "https://www.nature.com/articles/s41598-023-43563-3"
     ]
   ],
   [
@@ -101,26 +91,6 @@
   ],
   [
     [
-      "2023-10-04, 18:56:48",
-      "https://news.ycombinator.com/item?id=37769919"
-    ],
-    [
-      "Looney Tunables – Local privilege escalation in glibc’s ld.so",
-      "https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 18:54:13",
-      "https://news.ycombinator.com/item?id=37769893"
-    ],
-    [
-      "Ring attention with blockwise transformers for near-infinite context",
-      "https://arxiv.org/abs/2310.01889"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 18:36:46",
       "https://news.ycombinator.com/item?id=37769633"
     ],
@@ -157,6 +127,16 @@
     [
       "How the Baltic states became the hub of crypto money laundering and fraud",
       "https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 16:42:45",
+      "https://news.ycombinator.com/item?id=37767831"
+    ],
+    [
+      "Intel to set its FPGA unit free to pursue its own path",
+      "https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/"
     ]
   ],
   [
@@ -241,12 +221,12 @@
   ],
   [
     [
-      "2023-10-04, 09:55:15",
-      "https://news.ycombinator.com/item?id=37762968"
+      "2023-10-03, 16:49:22",
+      "https://news.ycombinator.com/item?id=37754377"
     ],
     [
-      "Nobel Prize Chemistry 2023",
-      "https://www.nobelprize.org/prizes/chemistry/2023/press-release/"
+      "Puzzle Languages (2009)",
+      "https://prog21.dadgum.com/38.html"
     ]
   ],
   [
@@ -255,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37751270"
     ],
     [
-      "Extism Makes WebAssembly Easy",
+      "Extism makes WebAssembly easy",
       "https://dylibso.com/blog/why-extism/"
     ]
   ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2023-10-03, 10:23:41",
+      "https://news.ycombinator.com/item?id=37749970"
+    ],
+    [
+      "The Rec.Sport.Soccer Statistics Foundation",
+      "https://www.rsssf.org/archive.html"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 07:26:01",
       "https://news.ycombinator.com/item?id=37734941"
     ],
     [
       "Color for the color-challenged",
       "https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd"
+    ]
+  ],
+  [
+    [
+      "2023-10-02, 06:35:50",
+      "https://news.ycombinator.com/item?id=37734673"
+    ],
+    [
+      "Waterbed Theory (2014)",
+      "http://wiki.c2.com/?WaterbedTheory"
     ]
   ],
   [
