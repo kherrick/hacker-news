@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-04, 19:21:53",
+      "https://news.ycombinator.com/item?id=37770260"
+    ],
+    [
+      "Expressive Text-to-Image Generation with Rich Text",
+      "https://rich-text-to-image.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 19:03:36",
       "https://news.ycombinator.com/item?id=37770008"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2023-10-04, 17:50:22",
-      "https://news.ycombinator.com/item?id=37768979"
+      "2023-10-04, 17:44:11",
+      "https://news.ycombinator.com/item?id=37768884"
     ],
     [
-      "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
-      "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/"
+      "OpenSSH 9.5",
+      "https://www.openssh.com/txt/release-9.5"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Choosing vector database: a side-by-side comparison",
       "https://benchmark.vectorview.ai/vectordbs.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 12:54:33",
-      "https://news.ycombinator.com/item?id=37764382"
-    ],
-    [
-      "Training language models with pause tokens",
-      "https://arxiv.org/abs/2310.02226"
     ]
   ],
   [
