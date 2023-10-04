@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 05:07:58](https://news.ycombinator.com/item?id=37761045) - [Tell HN: Please stop sending AI-generated job applications (whoishiring threads)](https://news.ycombinator.com/item?id=37761045)
 * [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
 * [2023-10-04, 04:39:21](https://news.ycombinator.com/item?id=37760922) - [They say I make $45K/month just by pure luck and just by posting my MRR on X](https://twitter.com/tdinh_me/status/1709116250520265164)
 * [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
