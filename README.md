@@ -21,7 +21,7 @@
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-03, 19:46:47](https://news.ycombinator.com/item?id=37756632) - [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 * [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
-* [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
+* [2023-10-03, 17:54:35](https://news.ycombinator.com/item?id=37755276) - [John Carmack on AI](https://twitter.com/ID_AA_Carmack/status/1708905454544282083)
 * [2023-10-03, 16:49:22](https://news.ycombinator.com/item?id=37754377) - [Puzzle Languages](https://prog21.dadgum.com/38.html)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Graph Mining Library](https://github.com/google/graph-mining)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
