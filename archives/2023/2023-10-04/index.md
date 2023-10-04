@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 * [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 * [2023-10-04, 02:09:37](https://news.ycombinator.com/item?id=37760042) - [A Pedestrian Was Hit; Cruise Car Subsequently Runs Her Over and Stops on Her](https://sfist.com/2023/10/03/driver-strikes-pedestrian-near-fifth-and-market-cruise-car-subsequently-runs-her-over-and-stops-on-top-of-her/)
 * [2023-10-04, 01:37:29](https://news.ycombinator.com/item?id=37759873) - [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
