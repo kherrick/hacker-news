@@ -23,12 +23,12 @@
 * [2023-10-04, 01:04:25](https://news.ycombinator.com/item?id=37759668) - [Self-Assembling Artificial Neural Networks Through Neural Developmental Programs](https://arxiv.org/abs/2307.08197)
 * [2023-10-04, 00:18:01](https://news.ycombinator.com/item?id=37759366) - [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)
 * [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
-* [2023-10-03, 23:07:08](https://news.ycombinator.com/item?id=37758788) - [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
 * [2023-10-03, 20:11:41](https://news.ycombinator.com/item?id=37756906) - [Among the Cabin Fanatics of Mississippi’s Giant Houseparty](https://www.newyorker.com/magazine/2023/10/09/among-the-cabin-fanatics-of-mississippis-giant-houseparty)
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-03, 19:16:55](https://news.ycombinator.com/item?id=37756248) - [Can You Trust Those Awards You See in Auto Ads? (2010)](https://www.consumerreports.org/consumerist/can-you-trust-those-awards-you-see-in-auto-ads/)
 * [2023-10-03, 16:49:22](https://news.ycombinator.com/item?id=37754377) - [Puzzle Languages (2009)](https://prog21.dadgum.com/38.html)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
+* [2023-10-03, 09:24:58](https://news.ycombinator.com/item?id=37749608) - [Project Management Software Can't Save You](https://www.wired.com/story/project-management-software-productivity/)
 * [2023-10-02, 10:16:20](https://news.ycombinator.com/item?id=37736211) - [The Greening of Milan: Porta Nuova and Vertical Forest](https://worldsensorium.com/the-greening-of-milan-porta-nuova-and-vertical-forest/)
 
 ## [Archives](archives/index.md)
