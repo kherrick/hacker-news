@@ -87,6 +87,7 @@
 * [2023-10-02, 07:55:20](https://news.ycombinator.com/item?id=37735117) - [Commodore 700: “It's a picture – and it's worth a thousand words”](https://nosher.net/archives/computers/comm_002-a)
 * [2023-10-02, 07:45:33](https://news.ycombinator.com/item?id=37735049) - [The Shadowy Global Network Vilifying Climate Protesters](https://newrepublic.com/article/175488/meet-shadowy-global-network-vilifying-climate-protesters)
 * [2023-10-02, 07:29:13](https://news.ycombinator.com/item?id=37734953) - [People going 'monk mode' to limit social media use](https://www.bbc.com/news/business-66934688)
+* [2023-10-02, 07:26:01](https://news.ycombinator.com/item?id=37734941) - [Color for the Color-Challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd)
 * [2023-10-02, 07:19:42](https://news.ycombinator.com/item?id=37734915) - [Amsterdam preparing to lower speed limit to 30 kilometers per hour](https://nltimes.nl/2023/10/02/amsterdam-preparing-lower-speed-limit-30-kilometers-per-hour)
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
 * [2023-10-02, 06:52:28](https://news.ycombinator.com/item?id=37734759) - [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
