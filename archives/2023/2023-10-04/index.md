@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 19:03:36](https://news.ycombinator.com/item?id=37770008) - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
 * [2023-10-04, 18:34:11](https://news.ycombinator.com/item?id=37769595) - [Show HN: Algora – Open source coding bounties](https://console.algora.io/hacktoberfest)
 * [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)

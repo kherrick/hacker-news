@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 19:03:36](https://news.ycombinator.com/item?id=37770008) - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
 * [2023-10-04, 18:34:11](https://news.ycombinator.com/item?id=37769595) - [Show HN: Algora – Open source coding bounties](https://console.algora.io/hacktoberfest)
 * [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
@@ -11,7 +12,6 @@
 * [2023-10-04, 16:53:15](https://news.ycombinator.com/item?id=37768018) - [Meta starts rolling out generative AI tools for all advertisers](https://www.reuters.com/technology/meta-starts-rolling-out-generative-ai-tools-all-advertisers-2023-10-04/)
 * [2023-10-04, 16:15:42](https://news.ycombinator.com/item?id=37767335) - [Tech doesn’t make our lives easier. It makes them faster](https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier)
 * [2023-10-04, 15:36:19](https://news.ycombinator.com/item?id=37766711) - [How US intelligence agencies hid their most shameful experiments](https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/)
-* [2023-10-04, 14:23:43](https://news.ycombinator.com/item?id=37765663) - [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207)
 * [2023-10-04, 14:01:21](https://news.ycombinator.com/item?id=37765313) - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
