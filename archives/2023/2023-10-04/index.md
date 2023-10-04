@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-10-04, 20:18:51](https://news.ycombinator.com/item?id=37771097) - [Replit moving away from free hosting](https://blog.replit.com/hosting-changes)
 * [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 20:13:14](https://news.ycombinator.com/item?id=37771019) - [The further apart your parents were born, the higher your IQ and height](https://www.nature.com/articles/nature14618)
 * [2023-10-04, 20:10:24](https://news.ycombinator.com/item?id=37770982) - [Effects of tea, catechins, and derivatives on Omicron COVID variatns](https://www.nature.com/articles/s41598-023-43563-3)
