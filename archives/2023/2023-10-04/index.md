@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
 * [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 * [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 * [2023-10-04, 02:54:11](https://news.ycombinator.com/item?id=37760309) - [Does “and” Mean “and”? Or “Or”? The Supreme Court Will Decide](https://www.motherjones.com/crime-justice/2023/10/supreme-court-pulsifer-criminal-justice-drug-definitions/)

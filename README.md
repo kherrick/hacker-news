@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
 * [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 * [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 * [2023-10-04, 02:54:11](https://news.ycombinator.com/item?id=37760309) - [Does “and” Mean “and”? Or “Or”? The Supreme Court Will Decide](https://www.motherjones.com/crime-justice/2023/10/supreme-court-pulsifer-criminal-justice-drug-definitions/)
@@ -20,7 +21,6 @@
 * [2023-10-03, 19:46:47](https://news.ycombinator.com/item?id=37756632) - [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 * [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
-* [2023-10-03, 16:08:50](https://news.ycombinator.com/item?id=37753791) - [Show HN: Wild Moose – Autonomous agent for production debugging](https://www.wildmoose.ai/)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Graph Mining Library](https://github.com/google/graph-mining)
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 14:42:19](https://news.ycombinator.com/item?id=37752622) - [Building personal and organizational prestige](https://lethain.com/building-prestige/)
