@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
 * [2023-10-04, 17:29:01](https://news.ycombinator.com/item?id=37768621) - [Figma added OpenAI to a list of subprocessor companies](https://www.figma.com/sub-processors/)
 * [2023-10-04, 17:26:35](https://news.ycombinator.com/item?id=37768586) - [How the Baltic states became the hub of crypto money laundering and fraud](https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/)
 * [2023-10-04, 17:00:43](https://news.ycombinator.com/item?id=37768145) - [Stellar Sleep (YC S23) Is Hiring a Senior SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-software-engineer-flutter-django)
@@ -19,7 +20,6 @@
 * [2023-10-04, 11:03:22](https://news.ycombinator.com/item?id=37763424) - [The FTC sues to break up Amazon over an economy-wide “hidden tax”](https://www.thebignewsletter.com/p/the-ftc-sues-to-break-up-amazon-over)
 * [2023-10-04, 10:18:04](https://news.ycombinator.com/item?id=37763098) - [Show HN: Classic Video Poker](https://lfgslots.com/classicvideopoker/)
 * [2023-10-04, 09:55:15](https://news.ycombinator.com/item?id=37762968) - [Nobel Prize Chemistry 2023](https://www.nobelprize.org/prizes/chemistry/2023/press-release/)
-* [2023-10-04, 08:24:23](https://news.ycombinator.com/item?id=37762380) - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News book recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)

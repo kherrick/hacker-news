@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
 * [2023-10-04, 17:29:01](https://news.ycombinator.com/item?id=37768621) - [Figma added OpenAI to a list of companies that can use some of its data](https://www.figma.com/sub-processors/)
 * [2023-10-04, 17:26:35](https://news.ycombinator.com/item?id=37768586) - [How the Baltic states became the hub of crypto money laundering and fraud](https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/)
 * [2023-10-04, 17:00:43](https://news.ycombinator.com/item?id=37768145) - [Stellar Sleep (YC S23) Is Hiring a Senior SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-software-engineer-flutter-django)
