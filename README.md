@@ -14,7 +14,6 @@
 * [2023-10-04, 00:00:01](https://news.ycombinator.com/item?id=37759177) - [Show HN: Atlassian Design for Bootstrap v5](https://github.com/fastbootstrap/atlassian-design-for-bootstrap)
 * [2023-10-03, 23:23:38](https://news.ycombinator.com/item?id=37758911) - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
 * [2023-10-03, 23:07:08](https://news.ycombinator.com/item?id=37758788) - [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
-* [2023-10-03, 23:05:30](https://news.ycombinator.com/item?id=37758772) - [Semantic Versioning 2.0 (2013)](https://semver.org/)
 * [2023-10-03, 21:52:53](https://news.ycombinator.com/item?id=37758099) - [Show HN: An app to create asynchronous micro podcasts](https://roadsaudio.com/)
 * [2023-10-03, 21:07:36](https://news.ycombinator.com/item?id=37757595) - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
 * [2023-10-03, 21:00:11](https://news.ycombinator.com/item?id=37757516) - [Gym Class VR (YC W22) is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
@@ -29,6 +28,7 @@
 * [2023-10-03, 14:13:35](https://news.ycombinator.com/item?id=37752272) - [Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
 * [2023-10-03, 00:24:40](https://news.ycombinator.com/item?id=37746341) - [Archaeologists Uncover 9,500-Year-Old Woven Baskets and Europe’s Oldest Sandals](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-9500-year-old-woven-baskets-and-europes-oldest-sandals-180983001/)
 * [2023-10-02, 21:47:05](https://news.ycombinator.com/item?id=37744912) - [Researchers mined Erowid and fed the entries to an AI](https://pioneerworks.org/broadcast/the-great-psychedelic-experiment-erowid)
+* [2023-10-02, 17:13:50](https://news.ycombinator.com/item?id=37741254) - [Greek Temples Made of Wood](https://www.philipsteadman.com/blog/greek-temples-made-of-wood/)
 * [2023-10-02, 14:24:44](https://news.ycombinator.com/item?id=37738543) - [Predictive policing software terrible at predicting crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
 
 ## [Archives](archives/index.md)
