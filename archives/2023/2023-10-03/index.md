@@ -87,6 +87,7 @@
 * [2023-10-03, 09:52:57](https://news.ycombinator.com/item?id=37749776) - [Amino – The Public IPFS DHT Is Getting a Facelift](https://blog.ipfs.tech/2023-09-amino-refactoring/)
 * [2023-10-03, 09:50:19](https://news.ycombinator.com/item?id=37749753) - [Nobel Prize in Physics Awarded to Agostini, Krausz, and L’Huillier](https://www.nobelprize.org/prizes/physics/2023/summary/)
 * [2023-10-03, 09:35:23](https://news.ycombinator.com/item?id=37749666) - [BMW has an all-new electric 5 Series, and we’ve driven it: The 2024 BMW i5](https://arstechnica.com/cars/2023/10/bmw-has-an-all-new-electric-5-series-and-weve-driven-it-the-2024-bmw-i5/)
+* [2023-10-03, 09:27:16](https://news.ycombinator.com/item?id=37749623) - [Level-up your Java Debugging Skills with on-demand Debugging](https://mostlynerdless.de/blog/2023/10/03/level-up-your-java-debugging-skills-with-on-demand-debugging/)
 * [2023-10-03, 09:26:49](https://news.ycombinator.com/item?id=37749619) - [What companies offer noteworthy discounts or startup programs for bootstrappers?](https://news.ycombinator.com/item?id=37749619)
 * [2023-10-03, 09:24:58](https://news.ycombinator.com/item?id=37749608) - [Project Management Software Can't Save You](https://www.wired.com/story/project-management-software-productivity/)
 * [2023-10-03, 09:10:27](https://news.ycombinator.com/item?id=37749530) - [The Linux Foundation has practically abandoned Linux](https://lunduke.locals.com/post/4666420/the-linux-foundation-has-practically-abandoned-linux)

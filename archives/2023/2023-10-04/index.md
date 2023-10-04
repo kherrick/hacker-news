@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 16:06:41](https://news.ycombinator.com/item?id=37767205) - [AI Detectors: I Hate Being a Student in the Modern Age](https://twitter.com/rustykitty_/status/1709316764868153537)
+* [2023-10-04, 15:49:54](https://news.ycombinator.com/item?id=37766929) - [Pure Remote Jobs from “HN: Who Is Hiring”](https://docs.google.com/spreadsheets/d/162eraapxB6GYl1kjrv-0ZJsn-19ehFIARaM2_37PCls/edit#gid=0)
+* [2023-10-04, 15:36:19](https://news.ycombinator.com/item?id=37766711) - [How US Intelligence Agencies Hid Their Most Shameful Experiments](https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/)
+* [2023-10-04, 15:24:48](https://news.ycombinator.com/item?id=37766520) - [Rust is not the language for you if you don't like traits](https://github.com/marshallpierce/rust-base64/issues/213)
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 * [2023-10-04, 14:58:08](https://news.ycombinator.com/item?id=37766122) - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
+* [2023-10-04, 14:23:43](https://news.ycombinator.com/item?id=37765663) - [Paper: LLMs have internal world model, and a sense of time and space](https://arxiv.org/abs/2310.02207)
 * [2023-10-04, 14:01:21](https://news.ycombinator.com/item?id=37765313) - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
 * [2023-10-04, 13:59:26](https://news.ycombinator.com/item?id=37765291) - [Software Is in the Grey Areas](https://oom.senyosimpson.com/software-is-in-the-grey-areas/)
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
