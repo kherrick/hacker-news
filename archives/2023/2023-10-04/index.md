@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 20:13:14](https://news.ycombinator.com/item?id=37771019) - [The further apart your parents were born, the higher your IQ and height](https://www.nature.com/articles/nature14618)
 * [2023-10-04, 20:00:06](https://news.ycombinator.com/item?id=37770819) - [How Bad Is Your Resume? – Get Your Resume Roasted by AI](https://roastmyresu.me/)
 * [2023-10-04, 19:31:27](https://news.ycombinator.com/item?id=37770384) - [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
