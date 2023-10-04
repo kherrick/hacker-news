@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 14:01:21](https://news.ycombinator.com/item?id=37765313) - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
+* [2023-10-04, 13:59:26](https://news.ycombinator.com/item?id=37765291) - [Software Is in the Grey Areas](https://oom.senyosimpson.com/software-is-in-the-grey-areas/)
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:17:01](https://news.ycombinator.com/item?id=37764651) - [Why Aren’t America’s Students Showing Up?](https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+* [2023-10-04, 13:04:52](https://news.ycombinator.com/item?id=37764489) - [Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
 * [2023-10-04, 12:54:33](https://news.ycombinator.com/item?id=37764382) - [Think Before You Speak: Training Language Models with Pause Tokens](https://arxiv.org/abs/2310.02226)
 * [2023-10-04, 12:51:35](https://news.ycombinator.com/item?id=37764351) - [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 Mm/S](https://www.tomshardware.com/news/3d-printer-uses-magnets-to-break-speed-limits-print-at-a-table-shaking-800-mms)
 * [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
