@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-04, 17:29:01",
+      "https://news.ycombinator.com/item?id=37768621"
+    ],
+    [
+      "Figma added OpenAI to a list of companies that can use some of its data",
+      "https://www.figma.com/sub-processors/"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 17:00:43",
       "https://news.ycombinator.com/item?id=37768145"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2023-10-04, 16:35:53",
-      "https://news.ycombinator.com/item?id=37767692"
-    ],
-    [
-      "Sequoia Captials Puff piece on SBF just before FTX's collapse",
-      "https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 16:26:34",
       "https://news.ycombinator.com/item?id=37767525"
     ],
@@ -51,21 +51,11 @@
   ],
   [
     [
-      "2023-10-04, 15:49:54",
-      "https://news.ycombinator.com/item?id=37766929"
-    ],
-    [
-      "Pure Remote Jobs from “HN: Who Is Hiring”",
-      "https://docs.google.com/spreadsheets/d/162eraapxB6GYl1kjrv-0ZJsn-19ehFIARaM2_37PCls/edit#gid=0"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 15:36:19",
       "https://news.ycombinator.com/item?id=37766711"
     ],
     [
-      "How US Intelligence Agencies Hid Their Most Shameful Experiments",
+      "How US intelligence agencies hid their most shameful experiments",
       "https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37764581"
     ],
     [
-      "An Interactive Intro to CRDTs",
+      "An interactive intro to CRDTs",
       "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37764382"
     ],
     [
-      "Think Before You Speak: Training Language Models with Pause Tokens",
+      "Training language models with pause tokens",
       "https://arxiv.org/abs/2310.02226"
     ]
   ],
@@ -181,11 +171,21 @@
   ],
   [
     [
+      "2023-10-04, 10:25:23",
+      "https://news.ycombinator.com/item?id=37763143"
+    ],
+    [
+      "Issues with 1.1.1.1 public resolver and WARP",
+      "https://www.cloudflarestatus.com/incidents/j3h00yhjyw6p"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 10:18:04",
       "https://news.ycombinator.com/item?id=37763098"
     ],
     [
-      "Show HN: Classic Video Poker (Godot is awesome!)",
+      "Show HN: Classic Video Poker",
       "https://lfgslots.com/classicvideopoker/"
     ]
   ],
