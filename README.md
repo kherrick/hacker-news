@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-04, 13:17:01](https://news.ycombinator.com/item?id=37764651) - [Why Aren’t America’s Students Showing Up?](https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school)
+* [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+* [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 12:40:07](https://news.ycombinator.com/item?id=37764226) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
 * [2023-10-04, 12:31:21](https://news.ycombinator.com/item?id=37764162) - [Most of Us Are Blissfully Ignorant About How Much Rancid Olive Oil We Use (2016)](https://fivethirtyeight.com/features/most-of-us-are-blissfully-ignorant-about-how-much-rancid-olive-oil-we-use/)
 * [2023-10-04, 12:28:25](https://news.ycombinator.com/item?id=37764133) - [Show HN: Ambient, a multiplayer game engine and platform using WASM/WebGPU/Rust](https://ambient.run/)
@@ -26,9 +28,7 @@
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-03, 19:16:55](https://news.ycombinator.com/item?id=37756248) - [Can You Trust Those Awards You See in Auto Ads? (2010)](https://www.consumerreports.org/consumerist/can-you-trust-those-awards-you-see-in-auto-ads/)
 * [2023-10-03, 16:49:22](https://news.ycombinator.com/item?id=37754377) - [Puzzle Languages (2009)](https://prog21.dadgum.com/38.html)
-* [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
-* [2023-10-02, 14:24:44](https://news.ycombinator.com/item?id=37738543) - [Predictive policing software terrible at predicting crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
 * [2023-10-02, 10:16:20](https://news.ycombinator.com/item?id=37736211) - [The Greening of Milan: Porta Nuova and Vertical Forest](https://worldsensorium.com/the-greening-of-milan-porta-nuova-and-vertical-forest/)
 
 ## [Archives](archives/index.md)
