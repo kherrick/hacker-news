@@ -4,7 +4,7 @@
 * [2023-10-04, 21:59:43](https://news.ycombinator.com/item?id=37772394) - [Insurance companies fill their networks with ‘ghost’ therapists](https://www.seattletimes.com/seattle-news/mental-health/how-insurance-companies-fill-their-networks-with-ghost-therapists/)
 * [2023-10-04, 21:40:41](https://news.ycombinator.com/item?id=37772206) - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-* [2023-10-04, 20:18:51](https://news.ycombinator.com/item?id=37771097) - [Replit moving away from free hosting](https://blog.replit.com/hosting-changes)
+* [2023-10-04, 20:18:51](https://news.ycombinator.com/item?id=37771097) - [Changes to Hosting on Replit](https://blog.replit.com/hosting-changes)
 * [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 19:47:32](https://news.ycombinator.com/item?id=37770627) - [Ural Airlines is preparing to fly a stranded Airbus A320 out of a field](https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/)
 * [2023-10-04, 19:41:21](https://news.ycombinator.com/item?id=37770523) - [1.1.1.1 lookup failures on October 4th, 2023](https://blog.cloudflare.com/1-1-1-1-lookup-failures-on-october-4th-2023/)
