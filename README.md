@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 * [2023-10-04, 14:58:08](https://news.ycombinator.com/item?id=37766122) - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
 * [2023-10-04, 14:01:21](https://news.ycombinator.com/item?id=37765313) - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
@@ -22,14 +23,13 @@
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-04, 02:24:01](https://news.ycombinator.com/item?id=37760130) - [RT-X: the largest open-source robot dataset](https://robotics-transformer-x.github.io/)
 * [2023-10-04, 01:37:29](https://news.ycombinator.com/item?id=37759873) - [Career Advice (2013)](https://moxie.org/2013/01/07/career-advice.html)
-* [2023-10-04, 00:18:01](https://news.ycombinator.com/item?id=37759366) - [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)
 * [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-03, 20:11:41](https://news.ycombinator.com/item?id=37756906) - [Among the Cabin Fanatics of Mississippi’s Giant Houseparty](https://www.newyorker.com/magazine/2023/10/09/among-the-cabin-fanatics-of-mississippis-giant-houseparty)
-* [2023-10-03, 19:16:55](https://news.ycombinator.com/item?id=37756248) - [Can You Trust Those Awards You See in Auto Ads? (2010)](https://www.consumerreports.org/consumerist/can-you-trust-those-awards-you-see-in-auto-ads/)
 * [2023-10-03, 16:49:22](https://news.ycombinator.com/item?id=37754377) - [Puzzle Languages (2009)](https://prog21.dadgum.com/38.html)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
 * [2023-10-03, 09:24:58](https://news.ycombinator.com/item?id=37749608) - [Project Management Software Can't Save You](https://www.wired.com/story/project-management-software-productivity/)
 * [2023-10-02, 10:16:20](https://news.ycombinator.com/item?id=37736211) - [The Greening of Milan: Porta Nuova and Vertical Forest](https://worldsensorium.com/the-greening-of-milan-porta-nuova-and-vertical-forest/)
+* [2023-10-02, 06:09:48](https://news.ycombinator.com/item?id=37734531) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
 
 ## [Archives](archives/index.md)
 
