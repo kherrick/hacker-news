@@ -12,7 +12,6 @@
 * [2023-10-04, 13:04:52](https://news.ycombinator.com/item?id=37764489) - [Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
 * [2023-10-04, 12:54:33](https://news.ycombinator.com/item?id=37764382) - [Think Before You Speak: Training Language Models with Pause Tokens](https://arxiv.org/abs/2310.02226)
 * [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
-* [2023-10-04, 12:28:25](https://news.ycombinator.com/item?id=37764133) - [Show HN: Ambient, a multiplayer game engine and platform using WASM/WebGPU/Rust](https://ambient.run/)
 * [2023-10-04, 12:22:58](https://news.ycombinator.com/item?id=37764088) - [1.3B Worldcat scrape and data science mini-competition](https://annas-blog.org/worldcat-scrape.html)
 * [2023-10-04, 12:00:19](https://news.ycombinator.com/item?id=37763906) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-10-04, 11:51:17](https://news.ycombinator.com/item?id=37763822) - [Show HN: Shuttle – Build and ship backends without writing infrastructure files](https://github.com/shuttle-hq/shuttle)
@@ -28,6 +27,7 @@
 * [2023-10-03, 20:11:41](https://news.ycombinator.com/item?id=37756906) - [Among the Cabin Fanatics of Mississippi’s Giant Houseparty](https://www.newyorker.com/magazine/2023/10/09/among-the-cabin-fanatics-of-mississippis-giant-houseparty)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
 * [2023-10-03, 09:27:16](https://news.ycombinator.com/item?id=37749623) - [Level-up your Java Debugging Skills with on-demand Debugging](https://mostlynerdless.de/blog/2023/10/03/level-up-your-java-debugging-skills-with-on-demand-debugging/)
+* [2023-10-03, 09:24:58](https://news.ycombinator.com/item?id=37749608) - [Project Management Software Can't Save You](https://www.wired.com/story/project-management-software-productivity/)
 * [2023-10-02, 10:16:20](https://news.ycombinator.com/item?id=37736211) - [The Greening of Milan: Porta Nuova and Vertical Forest](https://worldsensorium.com/the-greening-of-milan-porta-nuova-and-vertical-forest/)
 * [2023-10-02, 06:09:48](https://news.ycombinator.com/item?id=37734531) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
 
