@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-04, 05:07:58](https://news.ycombinator.com/item?id=37761045) - [Tell HN: Please stop sending AI-generated job applications (whoishiring threads)](https://news.ycombinator.com/item?id=37761045)
 * [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
 * [2023-10-04, 04:51:33](https://news.ycombinator.com/item?id=37760976) - [Social media traffic to top news sites craters](https://www.axios.com/2023/10/03/social-media-traffic-news-sites-decrease)
