@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 19:31:27](https://news.ycombinator.com/item?id=37770384) - [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
 * [2023-10-04, 19:03:36](https://news.ycombinator.com/item?id=37770008) - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
 * [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
+* [2023-10-04, 18:54:13](https://news.ycombinator.com/item?id=37769893) - [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
 * [2023-10-04, 18:36:46](https://news.ycombinator.com/item?id=37769633) - [Show HN: Sqinn-Go is a Golang library for accessing SQLite databases in pure Go](https://github.com/cvilsmeier/sqinn-go)
 * [2023-10-04, 18:34:11](https://news.ycombinator.com/item?id=37769595) - [Show HN: Algora – Open source coding bounties](https://console.algora.io/hacktoberfest)
 * [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
@@ -25,9 +27,7 @@
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News book recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
-* [2023-10-03, 09:27:16](https://news.ycombinator.com/item?id=37749623) - [Level-up your Java Debugging Skills with on-demand Debugging](https://mostlynerdless.de/blog/2023/10/03/level-up-your-java-debugging-skills-with-on-demand-debugging/)
 * [2023-10-02, 07:26:01](https://news.ycombinator.com/item?id=37734941) - [Color for the Color-Challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd)
-* [2023-10-02, 06:35:50](https://news.ycombinator.com/item?id=37734673) - [Waterbed Theory (2014)](http://wiki.c2.com/?WaterbedTheory)
 * [2023-10-02, 06:23:17](https://news.ycombinator.com/item?id=37734593) - [Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
 * [2023-10-02, 06:09:48](https://news.ycombinator.com/item?id=37734531) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
 
