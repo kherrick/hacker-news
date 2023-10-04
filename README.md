@@ -3,7 +3,7 @@
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 12:54:33](https://news.ycombinator.com/item?id=37764382) - [Think Before You Speak: Training Language Models with Pause Tokens](https://arxiv.org/abs/2310.02226)
-* [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
+* [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 12:40:07](https://news.ycombinator.com/item?id=37764226) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
 * [2023-10-04, 12:31:21](https://news.ycombinator.com/item?id=37764162) - [Most of Us Are Blissfully Ignorant About How Much Rancid Olive Oil We Use (2016)](https://fivethirtyeight.com/features/most-of-us-are-blissfully-ignorant-about-how-much-rancid-olive-oil-we-use/)
 * [2023-10-04, 12:28:25](https://news.ycombinator.com/item?id=37764133) - [Show HN: Ambient, a multiplayer game engine and platform using WASM/WebGPU/Rust](https://ambient.run/)
