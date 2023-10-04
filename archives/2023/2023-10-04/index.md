@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 11:15:48](https://news.ycombinator.com/item?id=37763527) - [Apple declares its $17,000 solid-gold watch officially obsolete](https://www.techspot.com/news/100360-apple-declares-17000-solid-gold-watch-officially-obsolete.html)
+* [2023-10-04, 10:55:13](https://news.ycombinator.com/item?id=37763361) - [How to Promote Your Business for Free on HN, Apparently](https://twitter.com/natiakourdadze/status/1709249655047905399)
 * [2023-10-04, 10:25:23](https://news.ycombinator.com/item?id=37763143) - [Cloudflare 1.1.1.1 DNS resolving issues](https://www.cloudflarestatus.com/incidents/j3h00yhjyw6p)
 * [2023-10-04, 10:18:04](https://news.ycombinator.com/item?id=37763098) - [Show HN: Classic Video Poker (Godot is awesome!)](https://lfgslots.com/classicvideopoker/)
 * [2023-10-04, 09:48:25](https://news.ycombinator.com/item?id=37762926) - [What Ghosting Says About Society (and Why It Hurts So Much)](https://www.truthdig.com/articles/what-ghosting-says-about-society-and-why-it-hurts-so-much/)
