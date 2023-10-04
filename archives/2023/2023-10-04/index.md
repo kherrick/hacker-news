@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
 * [2023-10-04, 18:34:11](https://news.ycombinator.com/item?id=37769595) - [Show HN: Algora – Open source coding bounties](https://console.algora.io/hacktoberfest)
+* [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
 * [2023-10-04, 17:50:22](https://news.ycombinator.com/item?id=37768979) - [Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun](https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/)
 * [2023-10-04, 17:29:01](https://news.ycombinator.com/item?id=37768621) - [Figma added OpenAI to a list of companies that can use some of its data](https://www.figma.com/sub-processors/)
@@ -16,6 +17,7 @@
 * [2023-10-04, 16:40:38](https://news.ycombinator.com/item?id=37767796) - [Airbnb tenant refuses to leave for more than a year](https://www.latimes.com/california/story/2023-10-04/airbnb-guest-refuse-pay-leave-luxury-rental)
 * [2023-10-04, 16:35:53](https://news.ycombinator.com/item?id=37767692) - [Sequoia Captials Puff piece on SBF just before FTX's collapse](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 * [2023-10-04, 16:26:34](https://news.ycombinator.com/item?id=37767525) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
+* [2023-10-04, 16:15:42](https://news.ycombinator.com/item?id=37767335) - [Tech doesn’t make our lives easier. It makes them faster](https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier)
 * [2023-10-04, 16:06:41](https://news.ycombinator.com/item?id=37767205) - [AI Detectors: I Hate Being a Student in the Modern Age](https://twitter.com/rustykitty_/status/1709316764868153537)
 * [2023-10-04, 15:49:54](https://news.ycombinator.com/item?id=37766929) - [Pure Remote Jobs from “HN: Who Is Hiring”](https://docs.google.com/spreadsheets/d/162eraapxB6GYl1kjrv-0ZJsn-19ehFIARaM2_37PCls/edit#gid=0)
 * [2023-10-04, 15:36:19](https://news.ycombinator.com/item?id=37766711) - [How US Intelligence Agencies Hid Their Most Shameful Experiments](https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/)
