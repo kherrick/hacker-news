@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-04, 22:02:53",
+      "https://news.ycombinator.com/item?id=37772427"
+    ],
+    [
+      "Qualcomm’s Hexagon DSP, and Now, NPU",
+      "https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 21:59:43",
       "https://news.ycombinator.com/item?id=37772394"
     ],
@@ -137,16 +147,6 @@
     [
       "Intel to set its FPGA unit free to pursue its own path",
       "https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 16:37:29",
-      "https://news.ycombinator.com/item?id=37767722"
-    ],
-    [
-      "Show HN: Running LLMs in one line of Python without Docker",
-      "https://www.lepton.ai/"
     ]
   ],
   [
