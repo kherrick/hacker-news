@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-04, 03:02:18",
+      "https://news.ycombinator.com/item?id=37760363"
+    ],
+    [
+      "Ben Fry Resigns from the Processing Foundation",
+      "https://twitter.com/ben_fry/status/1709400641456501020"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 01:37:29",
+      "https://news.ycombinator.com/item?id=37759873"
+    ],
+    [
+      "Pretty good career and life advice",
+      "https://moxie.org/2013/01/07/career-advice.html"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 01:37:03",
       "https://news.ycombinator.com/item?id=37759871"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-10-03, 19:25:35",
-      "https://news.ycombinator.com/item?id=37756357"
-    ],
-    [
-      "Glibc dynamic loader hit by a nasty local privilege escalation vulnerability",
-      "https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug"
-    ]
-  ],
-  [
-    [
       "2023-10-03, 19:20:19",
       "https://news.ycombinator.com/item?id=37756281"
     ],
@@ -217,16 +227,6 @@
     [
       "Daktilo: Turn Your Keyboard into a Typewriter",
       "https://github.com/orhun/daktilo"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 12:36:45",
-      "https://news.ycombinator.com/item?id=37751041"
-    ],
-    [
-      "Show HN: Leporello.js – interactive functional programming IDE for JavaScript",
-      "https://leporello.tech"
     ]
   ],
   [
