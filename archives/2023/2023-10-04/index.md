@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 10:25:23](https://news.ycombinator.com/item?id=37763143) - [Cloudflare 1.1.1.1 DNS resolving issues](https://www.cloudflarestatus.com/incidents/j3h00yhjyw6p)
 * [2023-10-04, 10:18:04](https://news.ycombinator.com/item?id=37763098) - [Show HN: Classic Video Poker (Godot is awesome!)](https://lfgslots.com/classicvideopoker/)
 * [2023-10-04, 09:48:25](https://news.ycombinator.com/item?id=37762926) - [What Ghosting Says About Society (and Why It Hurts So Much)](https://www.truthdig.com/articles/what-ghosting-says-about-society-and-why-it-hurts-so-much/)
 * [2023-10-04, 08:24:23](https://news.ycombinator.com/item?id=37762380) - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
