@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 * [2023-10-04, 02:09:37](https://news.ycombinator.com/item?id=37760042) - [A Pedestrian Was Hit; Cruise Car Subsequently Runs Her Over and Stops on Her](https://sfist.com/2023/10/03/driver-strikes-pedestrian-near-fifth-and-market-cruise-car-subsequently-runs-her-over-and-stops-on-top-of-her/)
+* [2023-10-04, 01:37:29](https://news.ycombinator.com/item?id=37759873) - [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
 * [2023-10-04, 01:37:03](https://news.ycombinator.com/item?id=37759871) - [BBC Gives Up on Threads (By Instagram), Sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
 * [2023-10-04, 01:19:04](https://news.ycombinator.com/item?id=37759759) - [Ask HN: What software did you purchase that positively impacted your family life](https://news.ycombinator.com/item?id=37759759)
 * [2023-10-04, 01:02:55](https://news.ycombinator.com/item?id=37759662) - [D.C.'s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
+* [2023-10-04, 01:37:29](https://news.ycombinator.com/item?id=37759873) - [Pretty good career and life advice](https://moxie.org/2013/01/07/career-advice.html)
 * [2023-10-04, 01:37:03](https://news.ycombinator.com/item?id=37759871) - [BBC gives up on Threads, sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
 * [2023-10-04, 01:02:55](https://news.ycombinator.com/item?id=37759662) - [D.C.'s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
 * [2023-10-04, 00:18:01](https://news.ycombinator.com/item?id=37759366) - [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)
@@ -13,7 +15,6 @@
 * [2023-10-03, 19:55:18](https://news.ycombinator.com/item?id=37756714) - [Lumber prices down 11% YoY](https://www.calculatedriskblog.com/2023/10/update-lumber-prices-down-11-yoy.html)
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-03, 19:46:47](https://news.ycombinator.com/item?id=37756632) - [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
-* [2023-10-03, 19:25:35](https://news.ycombinator.com/item?id=37756357) - [Glibc dynamic loader hit by a nasty local privilege escalation vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
 * [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
 * [2023-10-03, 16:08:50](https://news.ycombinator.com/item?id=37753791) - [Show HN: Wild Moose – Autonomous agent for production debugging](https://www.wildmoose.ai/)
@@ -22,7 +23,6 @@
 * [2023-10-03, 14:42:19](https://news.ycombinator.com/item?id=37752622) - [Building personal and organizational prestige](https://lethain.com/building-prestige/)
 * [2023-10-03, 14:13:35](https://news.ycombinator.com/item?id=37752272) - [Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
-* [2023-10-03, 12:36:45](https://news.ycombinator.com/item?id=37751041) - [Show HN: Leporello.js – interactive functional programming IDE for JavaScript](https://leporello.tech)
 * [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, computer, make me a font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-03, 12:07:19](https://news.ycombinator.com/item?id=37750763) - [Show HN: Trigger.dev V2 – a Temporal alternative for TypeScript devs](https://trigger.dev)
 * [2023-10-03, 00:24:40](https://news.ycombinator.com/item?id=37746341) - [Archaeologists Uncover 9,500-Year-Old Woven Baskets and Europe’s Oldest Sandals](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-9500-year-old-woven-baskets-and-europes-oldest-sandals-180983001/)
