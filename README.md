@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 01:19:04](https://news.ycombinator.com/item?id=37759759) - [Ask HN: What software did you purchase that positively impacted your family life](https://news.ycombinator.com/item?id=37759759)
+* [2023-10-04, 01:02:55](https://news.ycombinator.com/item?id=37759662) - [D.C.'s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
 * [2023-10-04, 00:18:01](https://news.ycombinator.com/item?id=37759366) - [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)
-* [2023-10-04, 00:05:54](https://news.ycombinator.com/item?id=37759252) - [OpenCore Legacy Patcher project brings macOS Sonoma support to 16-year-old Macs](https://arstechnica.com/gadgets/2023/10/opencore-legacy-patcher-project-brings-macos-sonoma-support-to-16-year-old-macs/)
 * [2023-10-03, 23:23:38](https://news.ycombinator.com/item?id=37758911) - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
 * [2023-10-03, 23:07:08](https://news.ycombinator.com/item?id=37758788) - [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
 * [2023-10-03, 23:05:30](https://news.ycombinator.com/item?id=37758772) - [Semantic Versioning 2.0 (2013)](https://semver.org/)
@@ -15,7 +16,6 @@
 * [2023-10-03, 19:46:47](https://news.ycombinator.com/item?id=37756632) - [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 * [2023-10-03, 19:25:35](https://news.ycombinator.com/item?id=37756357) - [Glibc dynamic loader hit by a nasty local privilege escalation vulnerability](https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug)
 * [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
-* [2023-10-03, 18:23:22](https://news.ycombinator.com/item?id=37755648) - [Amazon used algorithm to test how much it could raise prices: FTC](https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
 * [2023-10-03, 16:08:50](https://news.ycombinator.com/item?id=37753791) - [Show HN: Wild Moose – Autonomous agent for production debugging](https://www.wildmoose.ai/)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Graph Mining Library](https://github.com/google/graph-mining)
