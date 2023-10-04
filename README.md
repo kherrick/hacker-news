@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-04, 12:40:07](https://news.ycombinator.com/item?id=37764226) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
+* [2023-10-04, 12:26:20](https://news.ycombinator.com/item?id=37764113) - [Why do we assume like and view numbers in social media are correct?](https://news.ycombinator.com/item?id=37764113)
 * [2023-10-04, 12:00:19](https://news.ycombinator.com/item?id=37763906) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-10-04, 11:51:17](https://news.ycombinator.com/item?id=37763822) - [Show HN: Shuttle – Build Back Ends Fast](https://github.com/shuttle-hq/shuttle)
 * [2023-10-04, 11:35:09](https://news.ycombinator.com/item?id=37763679) - [Richard Stallman Talks Red Hat, AI and Ethical Software Licenses at GNU Birthday](https://fossforce.com/2023/10/richard-stallman-talks-red-hat-ai-and-ethical-software-licenses-at-gnu-birthday-event/)
@@ -17,7 +18,6 @@
 * [2023-10-04, 01:37:29](https://news.ycombinator.com/item?id=37759873) - [Career Advice (2013)](https://moxie.org/2013/01/07/career-advice.html)
 * [2023-10-04, 01:37:03](https://news.ycombinator.com/item?id=37759871) - [BBC gives up on Threads, sticks with Mastodon](https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon)
 * [2023-10-04, 01:04:25](https://news.ycombinator.com/item?id=37759668) - [Self-Assembling Artificial Neural Networks Through Neural Developmental Programs](https://arxiv.org/abs/2307.08197)
-* [2023-10-04, 01:02:55](https://news.ycombinator.com/item?id=37759662) - [D.C.'s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
 * [2023-10-04, 00:18:01](https://news.ycombinator.com/item?id=37759366) - [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)
 * [2023-10-04, 00:00:01](https://news.ycombinator.com/item?id=37759177) - [Show HN: Atlassian Design for Bootstrap v5](https://github.com/fastbootstrap/atlassian-design-for-bootstrap)
 * [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)

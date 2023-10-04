@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
 * [2023-10-04, 12:40:07](https://news.ycombinator.com/item?id=37764226) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
+* [2023-10-04, 12:26:20](https://news.ycombinator.com/item?id=37764113) - [Why do we assume like and view numbers in social media are correct?](https://news.ycombinator.com/item?id=37764113)
 * [2023-10-04, 12:00:19](https://news.ycombinator.com/item?id=37763906) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-10-04, 11:51:17](https://news.ycombinator.com/item?id=37763822) - [Show HN: Shuttle – Build Back Ends Fast](https://github.com/shuttle-hq/shuttle)
 * [2023-10-04, 11:35:09](https://news.ycombinator.com/item?id=37763679) - [Richard Stallman Talks Red Hat, AI and Ethical Software Licenses at GNU Birthday](https://fossforce.com/2023/10/richard-stallman-talks-red-hat-ai-and-ethical-software-licenses-at-gnu-birthday-event/)
