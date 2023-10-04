@@ -1,22 +1,52 @@
 [
   [
     [
+      "2023-10-04, 13:17:01",
+      "https://news.ycombinator.com/item?id=37764651"
+    ],
+    [
+      "Why Aren’t America’s Students Showing Up?",
+      "https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 12:51:35",
+      "https://news.ycombinator.com/item?id=37764351"
+    ],
+    [
+      "3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 Mm/S",
+      "https://www.tomshardware.com/news/3d-printer-uses-magnets-to-break-speed-limits-print-at-a-table-shaking-800-mms"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 12:49:17",
+      "https://news.ycombinator.com/item?id=37764326"
+    ],
+    [
+      "Strong typing, a hill I'm willing to die on",
+      "https://www.svix.com/blog/strong-typing-hill-to-die-on/"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 12:43:20",
+      "https://news.ycombinator.com/item?id=37764266"
+    ],
+    [
+      "Remembering the women who didn't survive prostitution",
+      "https://nordicmodelnow.org/2019/10/04/remembering-the-women-who-didnt-survive-prostitution/"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 12:40:07",
       "https://news.ycombinator.com/item?id=37764226"
     ],
     [
       "FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4",
       "https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 12:26:20",
-      "https://news.ycombinator.com/item?id=37764113"
-    ],
-    [
-      "Why do we assume like and view numbers in social media are correct?",
-      "https://news.ycombinator.com/item?id=37764113"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37763822"
     ],
     [
-      "Show HN: Shuttle – Build Back Ends Fast",
+      "Show HN: Shuttle – Build and ship backends without writing infrastructure files",
       "https://github.com/shuttle-hq/shuttle"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37763143"
     ],
     [
-      "Cloudflare 1.1.1.1 DNS resolving issues",
+      "Issues with 1.1.1.1 public resolver and WARP",
       "https://www.cloudflarestatus.com/incidents/j3h00yhjyw6p"
     ]
   ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-10-04, 03:02:18",
-      "https://news.ycombinator.com/item?id=37760363"
-    ],
-    [
-      "Ben Fry Resigns from the Processing Foundation",
-      "https://twitter.com/ben_fry/status/1709400641456501020"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 02:24:01",
       "https://news.ycombinator.com/item?id=37760130"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-04, 01:37:03",
-      "https://news.ycombinator.com/item?id=37759871"
-    ],
-    [
-      "BBC gives up on Threads, sticks with Mastodon",
-      "https://darnell.day/bbc-gives-up-on-threads-by-instagram-sticks-with-mastodon"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 01:04:25",
       "https://news.ycombinator.com/item?id=37759668"
     ],
@@ -187,16 +197,6 @@
     [
       "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
       "https://www.openculture.com/2020/10/daisugi.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 00:00:01",
-      "https://news.ycombinator.com/item?id=37759177"
-    ],
-    [
-      "Show HN: Atlassian Design for Bootstrap v5",
-      "https://github.com/fastbootstrap/atlassian-design-for-bootstrap"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-10-03, 14:13:35",
-      "https://news.ycombinator.com/item?id=37752272"
+      "2023-10-03, 13:01:33",
+      "https://news.ycombinator.com/item?id=37751270"
     ],
     [
-      "Translating Latin demonology manuals with GPT-4 and Claude",
-      "https://resobscura.substack.com/p/translating-latin-demonology-manuals"
+      "Extism Makes WebAssembly Easy",
+      "https://dylibso.com/blog/why-extism/"
     ]
   ],
   [
