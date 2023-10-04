@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-04, 21:59:43](https://news.ycombinator.com/item?id=37772394) - [Insurance companies fill their networks with ‘ghost’ therapists](https://www.seattletimes.com/seattle-news/mental-health/how-insurance-companies-fill-their-networks-with-ghost-therapists/)
+* [2023-10-04, 21:40:41](https://news.ycombinator.com/item?id=37772206) - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-04, 20:18:51](https://news.ycombinator.com/item?id=37771097) - [Replit moving away from free hosting](https://blog.replit.com/hosting-changes)
 * [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
@@ -12,7 +13,6 @@
 * [2023-10-04, 18:36:46](https://news.ycombinator.com/item?id=37769633) - [Show HN: Sqinn-Go is a Golang library for accessing SQLite databases in pure Go](https://github.com/cvilsmeier/sqinn-go)
 * [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating radio interference from Apple charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
-* [2023-10-04, 17:26:35](https://news.ycombinator.com/item?id=37768586) - [How the Baltic states became the hub of crypto money laundering and fraud](https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/)
 * [2023-10-04, 16:42:45](https://news.ycombinator.com/item?id=37767831) - [Intel to set its FPGA unit free to pursue its own path](https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/)
 * [2023-10-04, 16:37:29](https://news.ycombinator.com/item?id=37767722) - [Show HN: Running LLMs in one line of Python without Docker](https://www.lepton.ai/)
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
