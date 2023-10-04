@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-10-04, 15:19:19",
-      "https://news.ycombinator.com/item?id=37766446"
+      "2023-10-04, 16:06:41",
+      "https://news.ycombinator.com/item?id=37767205"
     ],
     [
-      "Pixel 8 Pro",
-      "https://store.google.com/product/pixel_8_pro?hl=en-US"
+      "AI Detectors: I Hate Being a Student in the Modern Age",
+      "https://twitter.com/rustykitty_/status/1709316764868153537"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 15:49:54",
+      "https://news.ycombinator.com/item?id=37766929"
+    ],
+    [
+      "Pure Remote Jobs from “HN: Who Is Hiring”",
+      "https://docs.google.com/spreadsheets/d/162eraapxB6GYl1kjrv-0ZJsn-19ehFIARaM2_37PCls/edit#gid=0"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 15:36:19",
+      "https://news.ycombinator.com/item?id=37766711"
+    ],
+    [
+      "How US Intelligence Agencies Hid Their Most Shameful Experiments",
+      "https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 15:24:48",
+      "https://news.ycombinator.com/item?id=37766520"
+    ],
+    [
+      "Rust is not the language for you if you don't like traits",
+      "https://github.com/marshallpierce/rust-base64/issues/213"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "Pixel 8 to have seven years of Android updates",
       "https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 14:23:43",
+      "https://news.ycombinator.com/item?id=37765663"
+    ],
+    [
+      "Paper: LLMs have internal world model, and a sense of time and space",
+      "https://arxiv.org/abs/2310.02207"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2023-10-04, 12:40:07",
-      "https://news.ycombinator.com/item?id=37764226"
-    ],
-    [
-      "FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4",
-      "https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 12:28:25",
       "https://news.ycombinator.com/item?id=37764133"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-10-04, 11:35:09",
-      "https://news.ycombinator.com/item?id=37763679"
-    ],
-    [
-      "Richard Stallman Talks Red Hat, AI and Ethical Software Licenses at GNU Birthday",
-      "https://fossforce.com/2023/10/richard-stallman-talks-red-hat-ai-and-ethical-software-licenses-at-gnu-birthday-event/"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 11:03:22",
       "https://news.ycombinator.com/item?id=37763424"
     ],
@@ -167,26 +187,6 @@
     [
       "Show HN: Classic Video Poker (Godot is awesome!)",
       "https://lfgslots.com/classicvideopoker/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 09:55:15",
-      "https://news.ycombinator.com/item?id=37762968"
-    ],
-    [
-      "Nobel Prize Chemistry 2023",
-      "https://www.nobelprize.org/prizes/chemistry/2023/press-release/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 08:24:23",
-      "https://news.ycombinator.com/item?id=37762380"
-    ],
-    [
-      "Kata Containers: The speed of containers, the security of VMs",
-      "https://github.com/kata-containers/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-10-03, 16:49:22",
-      "https://news.ycombinator.com/item?id=37754377"
-    ],
-    [
-      "Puzzle Languages (2009)",
-      "https://prog21.dadgum.com/38.html"
-    ]
-  ],
-  [
-    [
       "2023-10-03, 13:01:33",
       "https://news.ycombinator.com/item?id=37751270"
     ],
     [
       "Extism Makes WebAssembly Easy",
       "https://dylibso.com/blog/why-extism/"
+    ]
+  ],
+  [
+    [
+      "2023-10-03, 09:27:16",
+      "https://news.ycombinator.com/item?id=37749623"
+    ],
+    [
+      "Level-up your Java Debugging Skills with on-demand Debugging",
+      "https://mostlynerdless.de/blog/2023/10/03/level-up-your-java-debugging-skills-with-on-demand-debugging/"
     ]
   ],
   [
