@@ -2,8 +2,9 @@
 
 * [2023-10-04, 17:00:43](https://news.ycombinator.com/item?id=37768145) - [Stellar Sleep (YC S23) Is Hiring a Senior SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-software-engineer-flutter-django)
 * [2023-10-04, 16:53:15](https://news.ycombinator.com/item?id=37768018) - [Meta starts rolling out generative AI tools for all advertisers](https://www.reuters.com/technology/meta-starts-rolling-out-generative-ai-tools-all-advertisers-2023-10-04/)
-* [2023-10-04, 16:40:38](https://news.ycombinator.com/item?id=37767796) - [Airbnb tenant refuses to leave for more than a year](https://www.latimes.com/california/story/2023-10-04/airbnb-guest-refuse-pay-leave-luxury-rental)
+* [2023-10-04, 16:42:45](https://news.ycombinator.com/item?id=37767831) - [Intel to Set Its FPGA Unit Free to Pursue Its Own Path – The Next Platform](https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/)
 * [2023-10-04, 16:35:53](https://news.ycombinator.com/item?id=37767692) - [Sequoia Captials Puff piece on SBF just before FTX's collapse](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
+* [2023-10-04, 16:26:34](https://news.ycombinator.com/item?id=37767525) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 * [2023-10-04, 15:49:54](https://news.ycombinator.com/item?id=37766929) - [Pure Remote Jobs from “HN: Who Is Hiring”](https://docs.google.com/spreadsheets/d/162eraapxB6GYl1kjrv-0ZJsn-19ehFIARaM2_37PCls/edit#gid=0)
 * [2023-10-04, 15:36:19](https://news.ycombinator.com/item?id=37766711) - [How US Intelligence Agencies Hid Their Most Shameful Experiments](https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/)
 * [2023-10-04, 14:58:08](https://news.ycombinator.com/item?id=37766122) - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
@@ -22,7 +23,6 @@
 * [2023-10-04, 08:24:23](https://news.ycombinator.com/item?id=37762380) - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
-* [2023-10-04, 02:24:01](https://news.ycombinator.com/item?id=37760130) - [RT-X: the largest open-source robot dataset](https://robotics-transformer-x.github.io/)
 * [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-03, 20:11:41](https://news.ycombinator.com/item?id=37756906) - [Among the Cabin Fanatics of Mississippi’s Giant Houseparty](https://www.newyorker.com/magazine/2023/10/09/among-the-cabin-fanatics-of-mississippis-giant-houseparty)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
