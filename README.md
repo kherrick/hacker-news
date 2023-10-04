@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
+* [2023-10-04, 04:39:21](https://news.ycombinator.com/item?id=37760922) - [They say I make $45K/month just by pure luck and just by posting my MRR on X](https://twitter.com/tdinh_me/status/1709116250520265164)
 * [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 * [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 * [2023-10-04, 02:54:11](https://news.ycombinator.com/item?id=37760309) - [Does “and” Mean “and”? Or “Or”? The Supreme Court Will Decide](https://www.motherjones.com/crime-justice/2023/10/supreme-court-pulsifer-criminal-justice-drug-definitions/)
@@ -25,7 +26,6 @@
 * [2023-10-03, 14:43:10](https://news.ycombinator.com/item?id=37752632) - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
 * [2023-10-03, 14:42:19](https://news.ycombinator.com/item?id=37752622) - [Building personal and organizational prestige](https://lethain.com/building-prestige/)
 * [2023-10-03, 14:13:35](https://news.ycombinator.com/item?id=37752272) - [Translating Latin demonology manuals with GPT-4 and Claude](https://resobscura.substack.com/p/translating-latin-demonology-manuals)
-* [2023-10-03, 12:17:33](https://news.ycombinator.com/item?id=37750859) - [Hey, computer, make me a font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-03, 00:24:40](https://news.ycombinator.com/item?id=37746341) - [Archaeologists Uncover 9,500-Year-Old Woven Baskets and Europe’s Oldest Sandals](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-9500-year-old-woven-baskets-and-europes-oldest-sandals-180983001/)
 * [2023-10-02, 17:13:50](https://news.ycombinator.com/item?id=37741254) - [Greek Temples Made of Wood](https://www.philipsteadman.com/blog/greek-temples-made-of-wood/)
 * [2023-10-02, 14:24:44](https://news.ycombinator.com/item?id=37738543) - [Predictive policing software terrible at predicting crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
