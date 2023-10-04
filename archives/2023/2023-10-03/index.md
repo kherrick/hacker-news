@@ -66,6 +66,7 @@
 * [2023-10-03, 13:07:40](https://news.ycombinator.com/item?id=37751335) - [Missing girl found using fingerprints on ransom note](https://www.bbc.com/news/world-us-canada-66993201)
 * [2023-10-03, 13:05:40](https://news.ycombinator.com/item?id=37751311) - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
 * [2023-10-03, 13:02:36](https://news.ycombinator.com/item?id=37751286) - [The Internet Is at Risk of Driving Women Away](https://www.wired.co.uk/article/women-internet-harassment)
+* [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism Makes WebAssembly Easy](https://dylibso.com/blog/why-extism/)
 * [2023-10-03, 12:55:22](https://news.ycombinator.com/item?id=37751217) - [Anti-Piracy Group Takes AI Training Dataset 'Books3′ Offline](https://gizmodo.com/anti-piracy-group-takes-ai-training-dataset-books3-off-1850743763)
 * [2023-10-03, 12:52:04](https://news.ycombinator.com/item?id=37751179) - [UK prime minister launches plan “to stop councils implementing” 15-minute cities](https://www.dezeen.com/2023/10/02/uk-plan-stop-councils-implementing-15-minute-cities/)
 * [2023-10-03, 12:47:37](https://news.ycombinator.com/item?id=37751140) - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)

@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 13:17:01](https://news.ycombinator.com/item?id=37764651) - [Why Aren’t America’s Students Showing Up?](https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school)
+* [2023-10-04, 12:51:35](https://news.ycombinator.com/item?id=37764351) - [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 Mm/S](https://www.tomshardware.com/news/3d-printer-uses-magnets-to-break-speed-limits-print-at-a-table-shaking-800-mms)
+* [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
+* [2023-10-04, 12:43:20](https://news.ycombinator.com/item?id=37764266) - [Remembering the women who didn't survive prostitution](https://nordicmodelnow.org/2019/10/04/remembering-the-women-who-didnt-survive-prostitution/)
 * [2023-10-04, 12:40:07](https://news.ycombinator.com/item?id=37764226) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4](https://www.fema.gov/press-release/20231003/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-test-messages-will)
 * [2023-10-04, 12:26:20](https://news.ycombinator.com/item?id=37764113) - [Why do we assume like and view numbers in social media are correct?](https://news.ycombinator.com/item?id=37764113)
 * [2023-10-04, 12:00:19](https://news.ycombinator.com/item?id=37763906) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
