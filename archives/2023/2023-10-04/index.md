@@ -16,6 +16,7 @@
 * [2023-10-04, 19:21:53](https://news.ycombinator.com/item?id=37770260) - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
 * [2023-10-04, 19:03:36](https://news.ycombinator.com/item?id=37770008) - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
 * [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
+* [2023-10-04, 18:56:48](https://news.ycombinator.com/item?id=37769919) - [Looney Tunables – Local privilege escalation in glibc’s ld.so](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
 * [2023-10-04, 18:56:48](https://news.ycombinator.com/item?id=37769919) - [CVE-2023-4911: Looney Tunables – Local Privilege Escalation in the glibc’s ld.so](https://blog.qualys.com/vulnerabilities-threat-research/2023/10/03/cve-2023-4911-looney-tunables-local-privilege-escalation-in-the-glibcs-ld-so)
 * [2023-10-04, 18:54:13](https://news.ycombinator.com/item?id=37769893) - [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
 * [2023-10-04, 18:36:46](https://news.ycombinator.com/item?id=37769633) - [Show HN: Sqinn-Go is a Golang library for accessing SQLite databases in pure Go](https://github.com/cvilsmeier/sqinn-go)
