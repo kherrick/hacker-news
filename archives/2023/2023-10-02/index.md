@@ -92,6 +92,7 @@
 * [2023-10-02, 07:12:42](https://news.ycombinator.com/item?id=37734875) - [Nomnoml](https://nomnoml.com/)
 * [2023-10-02, 06:52:28](https://news.ycombinator.com/item?id=37734759) - [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
 * [2023-10-02, 06:48:11](https://news.ycombinator.com/item?id=37734741) - [The short-lived experiment with rubber tires on railways (2013)](https://www.ianvisits.co.uk/articles/the-short-lived-experiment-with-rubber-tires-on-railways-9831/)
+* [2023-10-02, 06:23:17](https://news.ycombinator.com/item?id=37734593) - [Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
 * [2023-10-02, 06:09:48](https://news.ycombinator.com/item?id=37734531) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
 * [2023-10-02, 05:57:25](https://news.ycombinator.com/item?id=37734460) - [HPC at Autodesk](https://forums.autodesk.com/t5/engineering-hub-blog/autodesk-and-outerbounds-partner-to-open-source-ray-and-hpc/ba-p/12254816)
 * [2023-10-02, 05:12:58](https://news.ycombinator.com/item?id=37734251) - [Nue.js: Rethinking Reactivity](https://nuejs.org/blog/rethinking-reactivity/)
