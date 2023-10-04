@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 18:34:11](https://news.ycombinator.com/item?id=37769595) - [Show HN: Algora – Open source coding bounties](https://console.algora.io/hacktoberfest)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating Radio Interference from Apple Charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
+* [2023-10-04, 17:50:22](https://news.ycombinator.com/item?id=37768979) - [Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun](https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/)
 * [2023-10-04, 17:29:01](https://news.ycombinator.com/item?id=37768621) - [Figma added OpenAI to a list of companies that can use some of its data](https://www.figma.com/sub-processors/)
 * [2023-10-04, 17:26:35](https://news.ycombinator.com/item?id=37768586) - [How the Baltic states became the hub of crypto money laundering and fraud](https://vsquare.org/tales-from-the-crypto-money-laundering-fraud-sanctions-estonia-lithuania-russia/)
+* [2023-10-04, 17:24:58](https://news.ycombinator.com/item?id=37768551) - [Free Open-source ML observability course](https://www.evidentlyai.com/ml-observability-course)
 * [2023-10-04, 17:00:43](https://news.ycombinator.com/item?id=37768145) - [Stellar Sleep (YC S23) Is Hiring a Senior SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-software-engineer-flutter-django)
 * [2023-10-04, 16:53:15](https://news.ycombinator.com/item?id=37768018) - [Meta starts rolling out generative AI tools for all advertisers](https://www.reuters.com/technology/meta-starts-rolling-out-generative-ai-tools-all-advertisers-2023-10-04/)
 * [2023-10-04, 16:42:45](https://news.ycombinator.com/item?id=37767831) - [Intel to Set Its FPGA Unit Free to Pursue Its Own Path – The Next Platform](https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/)
