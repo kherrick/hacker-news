@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 12:00:19](https://news.ycombinator.com/item?id=37763906) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2023-10-04, 11:51:17](https://news.ycombinator.com/item?id=37763822) - [Show HN: Shuttle – Build Back Ends Fast](https://github.com/shuttle-hq/shuttle)
+* [2023-10-04, 11:35:09](https://news.ycombinator.com/item?id=37763679) - [Richard Stallman Talks Red Hat, AI and Ethical Software Licenses at GNU Birthday](https://fossforce.com/2023/10/richard-stallman-talks-red-hat-ai-and-ethical-software-licenses-at-gnu-birthday-event/)
 * [2023-10-04, 11:15:48](https://news.ycombinator.com/item?id=37763527) - [Apple declares its $17,000 solid-gold watch officially obsolete](https://www.techspot.com/news/100360-apple-declares-17000-solid-gold-watch-officially-obsolete.html)
+* [2023-10-04, 11:03:22](https://news.ycombinator.com/item?id=37763424) - [The FTC Sues to Break Up Amazon over an Economy-Wide “Hidden Tax”](https://www.thebignewsletter.com/p/the-ftc-sues-to-break-up-amazon-over)
 * [2023-10-04, 10:55:13](https://news.ycombinator.com/item?id=37763361) - [How to Promote Your Business for Free on HN, Apparently](https://twitter.com/natiakourdadze/status/1709249655047905399)
 * [2023-10-04, 10:25:23](https://news.ycombinator.com/item?id=37763143) - [Cloudflare 1.1.1.1 DNS resolving issues](https://www.cloudflarestatus.com/incidents/j3h00yhjyw6p)
 * [2023-10-04, 10:18:04](https://news.ycombinator.com/item?id=37763098) - [Show HN: Classic Video Poker (Godot is awesome!)](https://lfgslots.com/classicvideopoker/)
