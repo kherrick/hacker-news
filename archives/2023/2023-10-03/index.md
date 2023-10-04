@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
 * [2023-10-03, 23:23:38](https://news.ycombinator.com/item?id=37758911) - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
+* [2023-10-03, 23:07:08](https://news.ycombinator.com/item?id=37758788) - [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
 * [2023-10-03, 23:05:30](https://news.ycombinator.com/item?id=37758772) - [Semantic Versioning 2.0.0 – Semantic Versioning](https://semver.org/)
+* [2023-10-03, 21:52:53](https://news.ycombinator.com/item?id=37758099) - [Show HN: An app to create asynchronous micro podcasts](https://roadsaudio.com/)
 * [2023-10-03, 21:41:12](https://news.ycombinator.com/item?id=37757952) - [Ask HN: Has MeetUp.org been replaced by anything?](https://news.ycombinator.com/item?id=37757952)
 * [2023-10-03, 21:17:05](https://news.ycombinator.com/item?id=37757699) - [Most Americans comfortable with solar panels, turbines in their communities](https://www.washingtonpost.com/climate-solutions/2023/10/03/solar-panels-wind-turbines-nimby/)
 * [2023-10-03, 21:07:36](https://news.ycombinator.com/item?id=37757595) - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
