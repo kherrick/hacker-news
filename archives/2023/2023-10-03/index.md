@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-03, 23:23:38](https://news.ycombinator.com/item?id=37758911) - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
 * [2023-10-03, 23:07:08](https://news.ycombinator.com/item?id=37758788) - [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
 * [2023-10-03, 23:05:30](https://news.ycombinator.com/item?id=37758772) - [Semantic Versioning 2.0.0 – Semantic Versioning](https://semver.org/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 07:42:40](https://news.ycombinator.com/item?id=37762092) - [The time Terry Pratchett’s German publisher inserted a soup ad into his novel](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
@@ -10,7 +11,7 @@
 * [2023-10-04, 01:02:55](https://news.ycombinator.com/item?id=37759662) - [D.C.'s ban on cashless businesses takes effect](https://www.axios.com/local/washington-dc/2023/09/29/cashless-business-ban)
 * [2023-10-04, 00:18:01](https://news.ycombinator.com/item?id=37759366) - [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)
 * [2023-10-04, 00:00:01](https://news.ycombinator.com/item?id=37759177) - [Show HN: Atlassian Design for Bootstrap v5](https://github.com/fastbootstrap/atlassian-design-for-bootstrap)
-* [2023-10-03, 23:23:38](https://news.ycombinator.com/item?id=37758911) - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
+* [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-03, 23:07:08](https://news.ycombinator.com/item?id=37758788) - [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
 * [2023-10-03, 21:52:53](https://news.ycombinator.com/item?id=37758099) - [Show HN: An app to create asynchronous micro podcasts](https://roadsaudio.com/)
 * [2023-10-03, 21:07:36](https://news.ycombinator.com/item?id=37757595) - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
@@ -20,7 +21,6 @@
 * [2023-10-03, 19:49:47](https://news.ycombinator.com/item?id=37756656) - [Debunking NIST's calculation of the Kyber-512 security level](https://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-03, 19:46:47](https://news.ycombinator.com/item?id=37756632) - [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 * [2023-10-03, 19:20:19](https://news.ycombinator.com/item?id=37756281) - [MatX: Efficient C++17 GPU numerical computing library with Python-like syntax](https://github.com/NVIDIA/MatX)
-* [2023-10-03, 17:54:35](https://news.ycombinator.com/item?id=37755276) - [John Carmack on AI](https://twitter.com/ID_AA_Carmack/status/1708905454544282083)
 * [2023-10-03, 16:55:55](https://news.ycombinator.com/item?id=37754489) - [Honey, I shrunk the NPM package](https://jamiemagee.co.uk/blog/honey-i-shrunk-the-npm-package/)
 * [2023-10-03, 16:49:22](https://news.ycombinator.com/item?id=37754377) - [Puzzle Languages](https://prog21.dadgum.com/38.html)
 * [2023-10-03, 15:46:07](https://news.ycombinator.com/item?id=37753442) - [Graph Mining Library](https://github.com/google/graph-mining)
