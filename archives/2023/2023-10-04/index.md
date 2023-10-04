@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 22:02:53](https://news.ycombinator.com/item?id=37772427) - [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
 * [2023-10-04, 21:59:43](https://news.ycombinator.com/item?id=37772394) - [Insurance companies fill their networks with ‘ghost’ therapists](https://www.seattletimes.com/seattle-news/mental-health/how-insurance-companies-fill-their-networks-with-ghost-therapists/)
 * [2023-10-04, 21:40:41](https://news.ycombinator.com/item?id=37772206) - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
