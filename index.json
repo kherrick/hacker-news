@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-10-04, 20:10:24",
+      "https://news.ycombinator.com/item?id=37770982"
+    ],
+    [
+      "Effects of tea, catechins, and derivatives on Omicron COVID variatns",
+      "https://www.nature.com/articles/s41598-023-43563-3"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 19:47:32",
       "https://news.ycombinator.com/item?id=37770627"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37770008"
     ],
     [
-      "Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis",
+      "Show HN: A nom parser for the Starcraft 2 Protocol Replay format",
       "https://github.com/sebosp/s2protocol-rs"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "CVE-2023-4911: Looney Tunables – Local Privilege Escalation in the glibc’s ld.so",
       "https://blog.qualys.com/vulnerabilities-threat-research/2023/10/03/cve-2023-4911-looney-tunables-local-privilege-escalation-in-the-glibcs-ld-so"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 18:54:13",
-      "https://news.ycombinator.com/item?id=37769893"
-    ],
-    [
-      "Ring Attention with Blockwise Transformers for Near-Infinite Context",
-      "https://arxiv.org/abs/2310.01889"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "Free Open-source ML observability course",
       "https://www.evidentlyai.com/ml-observability-course"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 17:10:18",
+      "https://news.ycombinator.com/item?id=37768300"
+    ],
+    [
+      "Pkgx – “Run Anything” from the creator of brew",
+      "https://pkgx.sh"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Extism Makes WebAssembly Easy",
       "https://dylibso.com/blog/why-extism/"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 10:59:17",
-      "https://news.ycombinator.com/item?id=37750193"
-    ],
-    [
-      "The Garden of the Five Senses",
-      "https://worldsensorium.com/the-garden-of-the-five-senses/"
     ]
   ],
   [
