@@ -26,8 +26,8 @@
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism makes WebAssembly easy](https://dylibso.com/blog/why-extism/)
 * [2023-10-03, 10:59:17](https://news.ycombinator.com/item?id=37750193) - [The Garden of the Five Senses](https://worldsensorium.com/the-garden-of-the-five-senses/)
 * [2023-10-03, 10:23:41](https://news.ycombinator.com/item?id=37749970) - [The Rec.Sport.Soccer Statistics Foundation](https://www.rsssf.org/archive.html)
+* [2023-10-03, 10:02:40](https://news.ycombinator.com/item?id=37749834) - [Proxy Generic Function](http://turtleware.eu/posts/Proxy-Generic-Function.html)
 * [2023-10-02, 07:26:01](https://news.ycombinator.com/item?id=37734941) - [Color for the color-challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd)
-* [2023-10-02, 06:35:50](https://news.ycombinator.com/item?id=37734673) - [Waterbed Theory (2014)](http://wiki.c2.com/?WaterbedTheory)
 * [2023-10-02, 06:23:17](https://news.ycombinator.com/item?id=37734593) - [Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
 * [2023-10-02, 06:09:48](https://news.ycombinator.com/item?id=37734531) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
 
