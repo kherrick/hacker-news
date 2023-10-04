@@ -2,6 +2,7 @@
 
 * [2023-10-04, 05:07:58](https://news.ycombinator.com/item?id=37761045) - [Tell HN: Please stop sending AI-generated job applications (whoishiring threads)](https://news.ycombinator.com/item?id=37761045)
 * [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
+* [2023-10-04, 04:51:33](https://news.ycombinator.com/item?id=37760976) - [Social media traffic to top news sites craters](https://www.axios.com/2023/10/03/social-media-traffic-news-sites-decrease)
 * [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 * [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
 * [2023-10-04, 02:54:11](https://news.ycombinator.com/item?id=37760309) - [Does “and” Mean “and”? Or “Or”? The Supreme Court Will Decide](https://www.motherjones.com/crime-justice/2023/10/supreme-court-pulsifer-criminal-justice-drug-definitions/)
@@ -29,7 +30,6 @@
 * [2023-10-03, 00:24:40](https://news.ycombinator.com/item?id=37746341) - [Archaeologists Uncover 9,500-Year-Old Woven Baskets and Europe’s Oldest Sandals](https://www.smithsonianmag.com/smart-news/archaeologists-uncover-9500-year-old-woven-baskets-and-europes-oldest-sandals-180983001/)
 * [2023-10-02, 17:13:50](https://news.ycombinator.com/item?id=37741254) - [Greek Temples Made of Wood](https://www.philipsteadman.com/blog/greek-temples-made-of-wood/)
 * [2023-10-02, 14:24:44](https://news.ycombinator.com/item?id=37738543) - [Predictive policing software terrible at predicting crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
-* [2023-10-02, 11:35:09](https://news.ycombinator.com/item?id=37736853) - [One Revolution per Minute [video]](https://erikwernquist.com/one-revolution-per-minute)
 
 ## [Archives](archives/index.md)
 
