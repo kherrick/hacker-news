@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 08:24:23](https://news.ycombinator.com/item?id=37762380) - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
 * [2023-10-04, 07:42:40](https://news.ycombinator.com/item?id=37762092) - [The time Terry Pratchett’s German publisher inserted a soup ad into his novel (2011)](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
@@ -12,7 +13,6 @@
 * [2023-10-04, 00:18:01](https://news.ycombinator.com/item?id=37759366) - [Daisugi, the Japanese technique of growing trees out of other trees (2020)](https://www.openculture.com/2020/10/daisugi.html)
 * [2023-10-04, 00:00:01](https://news.ycombinator.com/item?id=37759177) - [Show HN: Atlassian Design for Bootstrap v5](https://github.com/fastbootstrap/atlassian-design-for-bootstrap)
 * [2023-10-03, 23:36:15](https://news.ycombinator.com/item?id=37759002) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
-* [2023-10-03, 23:23:38](https://news.ycombinator.com/item?id=37758911) - [Press Reviews of the AMD Ryzen 7040 Framework Laptop 13](https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live)
 * [2023-10-03, 23:07:08](https://news.ycombinator.com/item?id=37758788) - [Passive Solar Water Desalination](https://theness.com/neurologicablog/index.php/passive-solar-water-desalination/)
 * [2023-10-03, 21:52:53](https://news.ycombinator.com/item?id=37758099) - [Show HN: An app to create asynchronous micro podcasts](https://roadsaudio.com/)
 * [2023-10-03, 21:07:36](https://news.ycombinator.com/item?id=37757595) - [Show HN: Generate JSON mock data for testing/initial app development](https://www.jsongenerator.io/)
