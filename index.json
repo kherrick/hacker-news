@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-10-03, 23:05:30",
+      "https://news.ycombinator.com/item?id=37758772"
+    ],
+    [
+      "Semantic Versioning 2.0 (2013)",
+      "https://semver.org/"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 21:52:53",
       "https://news.ycombinator.com/item?id=37758099"
     ],
@@ -137,16 +147,6 @@
     [
       "MatX: Efficient C++17 GPU numerical computing library with Python-like syntax",
       "https://github.com/NVIDIA/MatX"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 18:23:22",
-      "https://news.ycombinator.com/item?id=37755648"
-    ],
-    [
-      "Amazon used algorithm to test how much it could raise prices: FTC",
-      "https://www.wsj.com/business/retail/amazon-used-secret-project-nessie-algorithm-to-raise-prices-6c593706"
     ]
   ],
   [
