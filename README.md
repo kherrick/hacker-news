@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-10-04, 20:24:58](https://news.ycombinator.com/item?id=37771182) - [The climate model approximation that could fundamentally change climate movement](https://climatewaterproject.substack.com/p/carbon-warming-water-cooling)
 * [2023-10-04, 20:18:51](https://news.ycombinator.com/item?id=37771097) - [Replit moving away from free hosting](https://blog.replit.com/hosting-changes)
 * [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 20:10:24](https://news.ycombinator.com/item?id=37770982) - [Effects of tea, catechins, and derivatives on Omicron COVID variatns](https://www.nature.com/articles/s41598-023-43563-3)
@@ -19,7 +20,6 @@
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 13:04:52](https://news.ycombinator.com/item?id=37764489) - [Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
-* [2023-10-04, 12:54:33](https://news.ycombinator.com/item?id=37764382) - [Training language models with pause tokens](https://arxiv.org/abs/2310.02226)
 * [2023-10-04, 12:22:58](https://news.ycombinator.com/item?id=37764088) - [1.3B Worldcat scrape and data science mini-competition](https://annas-blog.org/worldcat-scrape.html)
 * [2023-10-04, 11:51:17](https://news.ycombinator.com/item?id=37763822) - [Show HN: Shuttle – Build and ship backends without writing infrastructure files](https://github.com/shuttle-hq/shuttle)
 * [2023-10-04, 11:03:22](https://news.ycombinator.com/item?id=37763424) - [The FTC sues to break up Amazon over an economy-wide “hidden tax”](https://www.thebignewsletter.com/p/the-ftc-sues-to-break-up-amazon-over)
