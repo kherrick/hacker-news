@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:17:01](https://news.ycombinator.com/item?id=37764651) - [Why Aren’t America’s Students Showing Up?](https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 12:51:35](https://news.ycombinator.com/item?id=37764351) - [3D Printer Uses Magnets to Break Speed Limits, Print at a Table-Shaking 800 Mm/S](https://www.tomshardware.com/news/3d-printer-uses-magnets-to-break-speed-limits-print-at-a-table-shaking-800-mms)

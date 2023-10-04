@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:17:01](https://news.ycombinator.com/item?id=37764651) - [Why Aren’t America’s Students Showing Up?](https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 12:49:17](https://news.ycombinator.com/item?id=37764326) - [Strong typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
@@ -16,7 +17,6 @@
 * [2023-10-04, 09:55:15](https://news.ycombinator.com/item?id=37762968) - [Nobel Prize Chemistry 2023](https://www.nobelprize.org/prizes/chemistry/2023/press-release/)
 * [2023-10-04, 08:24:23](https://news.ycombinator.com/item?id=37762380) - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
-* [2023-10-04, 05:50:02](https://news.ycombinator.com/item?id=37761283) - [Canada to Regulate Podcasts](https://podnews.net/update/crtc-podcast-regulation)
 * [2023-10-04, 05:48:00](https://news.ycombinator.com/item?id=37761273) - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
 * [2023-10-04, 02:24:01](https://news.ycombinator.com/item?id=37760130) - [RT-X: the largest open-source robot dataset](https://robotics-transformer-x.github.io/)
 * [2023-10-04, 01:37:29](https://news.ycombinator.com/item?id=37759873) - [Career Advice (2013)](https://moxie.org/2013/01/07/career-advice.html)
