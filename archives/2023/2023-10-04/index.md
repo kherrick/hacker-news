@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 17:00:43](https://news.ycombinator.com/item?id=37768145) - [Stellar Sleep (YC S23) Is Hiring a Senior SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-software-engineer-flutter-django)
+* [2023-10-04, 16:53:15](https://news.ycombinator.com/item?id=37768018) - [Meta starts rolling out generative AI tools for all advertisers](https://www.reuters.com/technology/meta-starts-rolling-out-generative-ai-tools-all-advertisers-2023-10-04/)
+* [2023-10-04, 16:42:45](https://news.ycombinator.com/item?id=37767831) - [Intel to Set Its FPGA Unit Free to Pursue Its Own Path – The Next Platform](https://www.nextplatform.com/2023/10/04/intel-to-set-its-fpga-unit-free-to-pursue-its-own-path/)
+* [2023-10-04, 16:40:38](https://news.ycombinator.com/item?id=37767796) - [Airbnb tenant refuses to leave for more than a year](https://www.latimes.com/california/story/2023-10-04/airbnb-guest-refuse-pay-leave-luxury-rental)
+* [2023-10-04, 16:35:53](https://news.ycombinator.com/item?id=37767692) - [Sequoia Captials Puff piece on SBF just before FTX's collapse](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 * [2023-10-04, 16:06:41](https://news.ycombinator.com/item?id=37767205) - [AI Detectors: I Hate Being a Student in the Modern Age](https://twitter.com/rustykitty_/status/1709316764868153537)
 * [2023-10-04, 15:49:54](https://news.ycombinator.com/item?id=37766929) - [Pure Remote Jobs from “HN: Who Is Hiring”](https://docs.google.com/spreadsheets/d/162eraapxB6GYl1kjrv-0ZJsn-19ehFIARaM2_37PCls/edit#gid=0)
 * [2023-10-04, 15:36:19](https://news.ycombinator.com/item?id=37766711) - [How US Intelligence Agencies Hid Their Most Shameful Experiments](https://lithub.com/how-us-intelligence-agencies-hid-their-most-shameful-experiments/)
