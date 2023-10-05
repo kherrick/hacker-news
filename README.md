@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-05, 21:00:56](https://news.ycombinator.com/item?id=37784251) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
-* [2023-10-05, 19:33:24](https://news.ycombinator.com/item?id=37783198) - [Reversal of Biological Age in Multiple Rat Organs by Young Porcine Plasma](https://www.biorxiv.org/content/10.1101/2023.08.06.552148v1)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol](https://testanything.org/)
 * [2023-10-05, 18:50:10](https://news.ycombinator.com/item?id=37782513) - [Show HN: An app store just for installable web apps](https://store.app)
 * [2023-10-05, 18:49:29](https://news.ycombinator.com/item?id=37782493) - [How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html)
@@ -9,6 +8,7 @@
 * [2023-10-05, 18:03:22](https://news.ycombinator.com/item?id=37781862) - [HP fails to derail claims that it bricks scanners on printers when ink runs low](https://abcnews.go.com/Technology/wireStory/hp-fails-derail-claims-bricks-scanners-multifunction-printers-102286365)
 * [2023-10-05, 17:48:36](https://news.ycombinator.com/item?id=37781663) - [Birdsong Visualizer](https://webfft.net/cir/)
 * [2023-10-05, 17:44:59](https://news.ycombinator.com/item?id=37781612) - [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
+* [2023-10-05, 17:17:28](https://news.ycombinator.com/item?id=37781266) - [Windows Copilot's is showing third-party Ads to Windows users](https://www.ghacks.net/2023/10/03/windows-copilots-is-showing-third-party-ads-to-windows-users/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
 * [2023-10-05, 17:13:44](https://news.ycombinator.com/item?id=37781231) - [Chatbot Hallucinations Are Poisoning Web Search](https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/)
 * [2023-10-05, 17:03:39](https://news.ycombinator.com/item?id=37781125) - [Vivaldi Takes a Bite Out of the Apple: Introducing Vivaldi on iOS](https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/)
