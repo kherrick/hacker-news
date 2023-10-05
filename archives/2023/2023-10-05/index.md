@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 15:16:40](https://news.ycombinator.com/item?id=37779686) - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
 * [2023-10-05, 14:59:23](https://news.ycombinator.com/item?id=37779457) - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
 * [2023-10-05, 14:58:09](https://news.ycombinator.com/item?id=37779435) - [Please don’t theme our apps](https://stopthemingmy.app/)
 * [2023-10-05, 14:25:44](https://news.ycombinator.com/item?id=37779018) - [Singapore: Right to own a car costs $76,000. And that doesn't include the car](https://www.cnn.com/2023/10/05/asia/singapore-most-expensive-car-license-intl-hnk/index.html)
 * [2023-10-05, 14:04:30](https://news.ycombinator.com/item?id=37778771) - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
+* [2023-10-05, 13:42:13](https://news.ycombinator.com/item?id=37778490) - [Traveling words: a geometric interpretation of transformers](https://arxiv.org/abs/2309.07315)
+* [2023-10-05, 13:27:38](https://news.ycombinator.com/item?id=37778334) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
+* [2023-10-05, 13:22:09](https://news.ycombinator.com/item?id=37778265) - [Assembly theory explains and quantifies selection and evolution](https://www.nature.com/articles/s41586-023-06600-9)
 * [2023-10-05, 13:15:09](https://news.ycombinator.com/item?id=37778186) - [School shooting hoaxes have terrorized kids across U.S.](https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/)
 * [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 * [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
