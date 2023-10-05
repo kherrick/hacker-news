@@ -79,6 +79,7 @@
 * [2023-10-04, 09:55:15](https://news.ycombinator.com/item?id=37762968) - [Nobel Prize Chemistry 2023](https://www.nobelprize.org/prizes/chemistry/2023/press-release/)
 * [2023-10-04, 09:48:25](https://news.ycombinator.com/item?id=37762926) - [What Ghosting Says About Society (and Why It Hurts So Much)](https://www.truthdig.com/articles/what-ghosting-says-about-society-and-why-it-hurts-so-much/)
 * [2023-10-04, 08:24:23](https://news.ycombinator.com/item?id=37762380) - [Kata Containers: The speed of containers, the security of VMs](https://github.com/kata-containers/)
+* [2023-10-04, 08:12:33](https://news.ycombinator.com/item?id=37762290) - [Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
 * [2023-10-04, 07:42:40](https://news.ycombinator.com/item?id=37762092) - [The time Terry Pratchett’s German publisher inserted a soup ad into his novel](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
 * [2023-10-04, 05:59:47](https://news.ycombinator.com/item?id=37761350) - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 * [2023-10-04, 05:50:02](https://news.ycombinator.com/item?id=37761283) - [Canada to Regulate Podcasts](https://podnews.net/update/crtc-podcast-regulation)

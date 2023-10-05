@@ -9,7 +9,6 @@
 * [2023-10-05, 03:40:49](https://news.ycombinator.com/item?id=37774676) - [How Transformers Work](https://ig.ft.com/generative-ai/)
 * [2023-10-05, 03:24:17](https://news.ycombinator.com/item?id=37774603) - [Python 3.12.0 from a supply chain security perspective](https://sethmlarson.dev/security-developer-in-residence-weekly-report-13)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
-* [2023-10-05, 02:55:56](https://news.ycombinator.com/item?id=37774431) - [Every Type of Railcar Explained in 15 Minutes [video]](https://www.youtube.com/watch?v=psjExhXfvbI)
 * [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
 * [2023-10-05, 01:30:32](https://news.ycombinator.com/item?id=37773918) - [LLMs confabulate not hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
 * [2023-10-05, 00:43:10](https://news.ycombinator.com/item?id=37773599) - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
@@ -29,6 +28,7 @@
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 * [2023-10-04, 14:20:00](https://news.ycombinator.com/item?id=37765605) - [When is a Feature Factory... not?](https://honestprod.substack.com/p/when-is-a-feature-factorynot)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+* [2023-10-04, 08:12:33](https://news.ycombinator.com/item?id=37762290) - [Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
 * [2023-10-03, 10:32:16](https://news.ycombinator.com/item?id=37750030) - [Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
 
 ## [Archives](archives/index.md)
