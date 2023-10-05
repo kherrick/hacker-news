@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-05, 01:30:32",
+      "https://news.ycombinator.com/item?id=37773918"
+    ],
+    [
+      "LLMs Confabulate Not Hallucinate",
+      "https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 01:01:57",
       "https://news.ycombinator.com/item?id=37773731"
     ],
@@ -127,16 +137,6 @@
     [
       "Security weaknesses of Copilot generated code in GitHub",
       "https://arxiv.org/abs/2310.02059"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 19:03:36",
-      "https://news.ycombinator.com/item?id=37770008"
-    ],
-    [
-      "Show HN: A nom parser for the Starcraft 2 Protocol Replay format",
-      "https://github.com/sebosp/s2protocol-rs"
     ]
   ],
   [
