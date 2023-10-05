@@ -88,6 +88,7 @@
 * [2023-10-04, 05:07:58](https://news.ycombinator.com/item?id=37761045) - [Tell HN: Please stop sending AI-generated job applications (whoishiring threads)](https://news.ycombinator.com/item?id=37761045)
 * [2023-10-04, 04:52:10](https://news.ycombinator.com/item?id=37760981) - [Gunung Padang](https://en.wikipedia.org/wiki/Gunung_Padang)
 * [2023-10-04, 04:51:33](https://news.ycombinator.com/item?id=37760976) - [Social media traffic to top news sites craters](https://www.axios.com/2023/10/03/social-media-traffic-news-sites-decrease)
+* [2023-10-04, 04:40:55](https://news.ycombinator.com/item?id=37760930) - [Instrumental Tricks](https://www.lrb.co.uk/the-paper/v45/n19/james-vincent/instrumental-tricks)
 * [2023-10-04, 04:39:21](https://news.ycombinator.com/item?id=37760922) - [They say I make $45K/month just by pure luck and just by posting my MRR on X](https://twitter.com/tdinh_me/status/1709116250520265164)
 * [2023-10-04, 03:22:52](https://news.ycombinator.com/item?id=37760486) - [Google User Data Is Police's Top Shortcut for Solving Crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
 * [2023-10-04, 03:02:18](https://news.ycombinator.com/item?id=37760363) - [Ben Fry Resigns from the Processing Foundation](https://twitter.com/ben_fry/status/1709400641456501020)
