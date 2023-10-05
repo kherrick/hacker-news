@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-05, 05:03:11](https://news.ycombinator.com/item?id=37775073) - [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
+* [2023-10-05, 04:49:04](https://news.ycombinator.com/item?id=37774996) - [SQL db as cache – 2x faster* requests vs. Redis](https://dev.37signals.com/solid-cache/)
 * [2023-10-05, 04:04:57](https://news.ycombinator.com/item?id=37774807) - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
@@ -29,7 +30,6 @@
 * [2023-10-03, 10:02:40](https://news.ycombinator.com/item?id=37749834) - [Proxy Generic Function](http://turtleware.eu/posts/Proxy-Generic-Function.html)
 * [2023-10-02, 07:26:01](https://news.ycombinator.com/item?id=37734941) - [Color for the color-challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd)
 * [2023-10-02, 06:23:17](https://news.ycombinator.com/item?id=37734593) - [Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
-* [2023-10-02, 06:09:48](https://news.ycombinator.com/item?id=37734531) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
 
 ## [Archives](archives/index.md)
 
