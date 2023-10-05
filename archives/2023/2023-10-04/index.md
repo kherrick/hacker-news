@@ -53,6 +53,7 @@
 * [2023-10-04, 14:23:43](https://news.ycombinator.com/item?id=37765663) - [Paper: LLMs have internal world model, and a sense of time and space](https://arxiv.org/abs/2310.02207)
 * [2023-10-04, 14:01:21](https://news.ycombinator.com/item?id=37765313) - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
 * [2023-10-04, 13:59:26](https://news.ycombinator.com/item?id=37765291) - [Software Is in the Grey Areas](https://oom.senyosimpson.com/software-is-in-the-grey-areas/)
+* [2023-10-04, 13:51:19](https://news.ycombinator.com/item?id=37765172) - [What is an “attosecond pulse”, and what can you use it for?](https://physics.stackexchange.com/questions/782972/what-is-an-attosecond-pulse-and-what-can-you-use-it-for)
 * [2023-10-04, 13:50:09](https://news.ycombinator.com/item?id=37765158) - [OpenSSH 9.5 released with keystroke timing obfuscation](https://lwn.net/Articles/946497/)
 * [2023-10-04, 13:17:01](https://news.ycombinator.com/item?id=37764651) - [Why Aren’t America’s Students Showing Up?](https://www.bloomberg.com/opinion/articles/2023-10-04/learning-loss-why-america-s-students-aren-t-showing-up-for-school)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
