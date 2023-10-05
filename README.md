@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 05:36:02](https://news.ycombinator.com/item?id=37775213) - [Domestic cat larynges can produce purring frequencies without neural input](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01230-7)
 * [2023-10-05, 05:25:10](https://news.ycombinator.com/item?id=37775169) - [Ray Kurzweil and Mitch Kapor’s “Long Bet” on the Turing Test](https://twitter.com/denizen_kane/status/1709800563485946156)
 * [2023-10-05, 05:03:11](https://news.ycombinator.com/item?id=37775073) - [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 * [2023-10-05, 04:30:05](https://news.ycombinator.com/item?id=37774917) - [Unreal Engine change its price for non-game apps](https://gamefromscratch.com/unreal-engine-pricing-changes/)
@@ -13,7 +14,6 @@
 * [2023-10-04, 21:40:41](https://news.ycombinator.com/item?id=37772206) - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
-* [2023-10-04, 19:47:32](https://news.ycombinator.com/item?id=37770627) - [Ural Airlines is preparing to fly a stranded Airbus A320 out of a field](https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/)
 * [2023-10-04, 19:41:21](https://news.ycombinator.com/item?id=37770523) - [1.1.1.1 lookup failures on October 4th, 2023](https://blog.cloudflare.com/1-1-1-1-lookup-failures-on-october-4th-2023/)
 * [2023-10-04, 19:21:53](https://news.ycombinator.com/item?id=37770260) - [Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/)
 * [2023-10-04, 19:19:35](https://news.ycombinator.com/item?id=37770233) - [Security weaknesses of Copilot generated code in GitHub](https://arxiv.org/abs/2310.02059)
