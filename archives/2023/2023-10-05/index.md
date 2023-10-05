@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
+* [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks](https://par.nsf.gov/servlets/purl/10150578)
 * [2023-10-05, 02:06:10](https://news.ycombinator.com/item?id=37774127) - [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
 * [2023-10-05, 01:42:59](https://news.ycombinator.com/item?id=37774004) - [Google Pixel Watch 2](https://store.google.com/us/product/pixel_watch_2?hl=en-US)
 * [2023-10-05, 01:30:32](https://news.ycombinator.com/item?id=37773918) - [LLMs Confabulate Not Hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
