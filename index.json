@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-10-04, 19:47:32",
-      "https://news.ycombinator.com/item?id=37770627"
-    ],
-    [
-      "Ural Airlines is preparing to fly a stranded Airbus A320 out of a field",
-      "https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 19:41:21",
       "https://news.ycombinator.com/item?id=37770523"
     ],
@@ -147,6 +137,16 @@
     [
       "Security weaknesses of Copilot generated code in GitHub",
       "https://arxiv.org/abs/2310.02059"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 19:03:36",
+      "https://news.ycombinator.com/item?id=37770008"
+    ],
+    [
+      "Show HN: A nom parser for the Starcraft 2 Protocol Replay format",
+      "https://github.com/sebosp/s2protocol-rs"
     ]
   ],
   [
