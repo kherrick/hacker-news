@@ -10,6 +10,7 @@
 * [2023-10-04, 21:40:41](https://news.ycombinator.com/item?id=37772206) - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
 * [2023-10-04, 21:29:05](https://news.ycombinator.com/item?id=37772070) - [Google announces plan to make Gmail “less spammy”: A checklist to help](https://www.thenewsletternewsletter.xyz/post/google-announces-plan-to-make-gmail-less-spammy-a-checklist-to-ensure-you-meet-the-new-sender-requirements)
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-10-04, 20:37:20](https://news.ycombinator.com/item?id=37771373) - [The Ends of Knowledge](https://aeon.co/essays/should-academic-disciplines-have-both-a-purpose-and-a-finish-date)
 * [2023-10-04, 20:24:58](https://news.ycombinator.com/item?id=37771182) - [The climate model approximation that could fundamentally change climate movement](https://climatewaterproject.substack.com/p/carbon-warming-water-cooling)
 * [2023-10-04, 20:18:51](https://news.ycombinator.com/item?id=37771097) - [Replit moving away from free hosting](https://blog.replit.com/hosting-changes)
 * [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
