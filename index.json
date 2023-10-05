@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 08:36:19",
+      "https://news.ycombinator.com/item?id=37776204"
+    ],
+    [
+      "Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11",
+      "https://github.com/curl/curl/discussions/12026"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 08:22:34",
       "https://news.ycombinator.com/item?id=37776105"
     ],
@@ -117,16 +127,6 @@
     [
       "Divan: Fast and Simple Benchmarking for Rust",
       "https://nikolaivazquez.com/blog/divan/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 00:32:35",
-      "https://news.ycombinator.com/item?id=37773514"
-    ],
-    [
-      "Wound healing research produces full thickness human bioprinted skin",
-      "https://newsroom.wakehealth.edu/news-releases/2023/10/new-wound-healing-research-produces-full-thickness-human-bioprinted-skin"
     ]
   ],
   [
