@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 06:13:49](https://news.ycombinator.com/item?id=37775407) - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
 * [2023-10-05, 05:36:02](https://news.ycombinator.com/item?id=37775213) - [Domestic cat larynges can produce purring frequencies without neural input](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01230-7)
-* [2023-10-05, 05:25:10](https://news.ycombinator.com/item?id=37775169) - [Ray Kurzweil and Mitch Kapor’s “Long Bet” on the Turing Test](https://twitter.com/denizen_kane/status/1709800563485946156)
 * [2023-10-05, 05:03:11](https://news.ycombinator.com/item?id=37775073) - [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 * [2023-10-05, 04:30:05](https://news.ycombinator.com/item?id=37774917) - [Unreal Engine change its price for non-game apps](https://gamefromscratch.com/unreal-engine-pricing-changes/)
 * [2023-10-05, 04:04:57](https://news.ycombinator.com/item?id=37774807) - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
