@@ -23,13 +23,13 @@
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 * [2023-10-05, 11:11:27](https://news.ycombinator.com/item?id=37777116) - [International Earth Rotation and Reference Systems Service](https://www.iers.org/IERS/EN/Home/home_node.html)
+* [2023-10-05, 11:02:52](https://news.ycombinator.com/item?id=37777063) - [The Deq Tattooist: Preserving the ink of a disappearing culture](https://www.aljazeera.com/features/longform/2023/1/8/deq-the-tattooist-preserving-the-ink-of-a-disappearing-culture)
 * [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [HTTP/3 adoption is growing rapidly](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 09:14:07](https://news.ycombinator.com/item?id=37776450) - [What Is the Point of Decidability](https://lists.ugent.be/wws/arc/fom/2023-10/msg00004.html)
 * [2023-10-05, 07:59:13](https://news.ycombinator.com/item?id=37775954) - [There's No Such Thing as “Implicitly Atomic”](https://belkadan.com/blog/2023/10/Implicity-Atomic/)
 * [2023-10-05, 06:48:27](https://news.ycombinator.com/item?id=37775574) - [F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
-* [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras (2009)](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 02:55:56](https://news.ycombinator.com/item?id=37774431) - [Every Type of Railcar Explained in 15 Minutes [video]](https://www.youtube.com/watch?v=psjExhXfvbI)
-* [2023-10-04, 08:49:10](https://news.ycombinator.com/item?id=37762576) - [Great Pyramid of Cholula](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)
+* [2023-10-04, 08:12:33](https://news.ycombinator.com/item?id=37762290) - [Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
 
 ## [Archives](archives/index.md)
 
