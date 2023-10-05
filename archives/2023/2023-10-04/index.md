@@ -51,6 +51,7 @@
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 * [2023-10-04, 14:58:08](https://news.ycombinator.com/item?id=37766122) - [Pixel 8 to have seven years of Android updates](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features)
 * [2023-10-04, 14:23:43](https://news.ycombinator.com/item?id=37765663) - [Paper: LLMs have internal world model, and a sense of time and space](https://arxiv.org/abs/2310.02207)
+* [2023-10-04, 14:20:00](https://news.ycombinator.com/item?id=37765605) - [When is a Feature Factory... not?](https://honestprod.substack.com/p/when-is-a-feature-factorynot)
 * [2023-10-04, 14:01:21](https://news.ycombinator.com/item?id=37765313) - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
 * [2023-10-04, 13:59:26](https://news.ycombinator.com/item?id=37765291) - [Software Is in the Grey Areas](https://oom.senyosimpson.com/software-is-in-the-grey-areas/)
 * [2023-10-04, 13:51:19](https://news.ycombinator.com/item?id=37765172) - [What is an “attosecond pulse”, and what can you use it for?](https://physics.stackexchange.com/questions/782972/what-is-an-attosecond-pulse-and-what-can-you-use-it-for)
