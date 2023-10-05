@@ -22,6 +22,7 @@
 * [2023-10-05, 18:12:56](https://news.ycombinator.com/item?id=37781988) - [Own the Demand (2018)](https://flocrivello.com/own-the-demand/)
 * [2023-10-05, 18:03:22](https://news.ycombinator.com/item?id=37781862) - [HP fails to derail claims that it bricks scanners on printers when ink runs low](https://abcnews.go.com/Technology/wireStory/hp-fails-derail-claims-bricks-scanners-multifunction-printers-102286365)
 * [2023-10-05, 18:01:13](https://news.ycombinator.com/item?id=37781832) - [Dot Dotat.at](https://dotat.at/email.html)
+* [2023-10-05, 17:53:52](https://news.ycombinator.com/item?id=37781735) - [Lockheed CEO Pitches Pentagon on Subscription Software](https://news.usni.org/2023/10/04/lockheed-ceo-pitches-pentagon-on-subscription-software)
 * [2023-10-05, 17:48:36](https://news.ycombinator.com/item?id=37781663) - [Birdsong Visualizer](https://webfft.net/cir/)
 * [2023-10-05, 17:44:59](https://news.ycombinator.com/item?id=37781612) - [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
 * [2023-10-05, 17:27:50](https://news.ycombinator.com/item?id=37781392) - [Android 14 released, source code hits AOSP](https://www.cnx-software.com/2023/10/06/android-14-released-source-code-aosp/)

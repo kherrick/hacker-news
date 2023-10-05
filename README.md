@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-05, 22:53:19](https://news.ycombinator.com/item?id=37785253) - [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 19:25:33](https://news.ycombinator.com/item?id=37783081) - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol](https://testanything.org/)
@@ -11,6 +10,7 @@
 * [2023-10-05, 18:36:30](https://news.ycombinator.com/item?id=37782308) - [Oldest footprints in North America push back human arrival](https://www.washingtonpost.com/science/2023/10/05/oldest-human-footprint-americas-white-sands/)
 * [2023-10-05, 18:03:22](https://news.ycombinator.com/item?id=37781862) - [HP fails to derail claims that it bricks scanners on printers when ink runs low](https://abcnews.go.com/Technology/wireStory/hp-fails-derail-claims-bricks-scanners-multifunction-printers-102286365)
 * [2023-10-05, 18:01:13](https://news.ycombinator.com/item?id=37781832) - [Dot Dotat.at](https://dotat.at/email.html)
+* [2023-10-05, 17:53:52](https://news.ycombinator.com/item?id=37781735) - [Lockheed CEO Pitches Pentagon on Subscription Software](https://news.usni.org/2023/10/04/lockheed-ceo-pitches-pentagon-on-subscription-software)
 * [2023-10-05, 17:48:36](https://news.ycombinator.com/item?id=37781663) - [Birdsong Visualizer](https://webfft.net/cir/)
 * [2023-10-05, 17:17:28](https://news.ycombinator.com/item?id=37781266) - [Windows Copilot's is showing third-party Ads to Windows users](https://www.ghacks.net/2023/10/03/windows-copilots-is-showing-third-party-ads-to-windows-users/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
