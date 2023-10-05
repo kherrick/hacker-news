@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
 * [2023-10-05, 17:00:12](https://news.ycombinator.com/item?id=37781076) - [PropelAuth (YC W22) Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
 * [2023-10-05, 16:54:25](https://news.ycombinator.com/item?id=37780991) - [Searches for Noah's Ark](https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark)
 * [2023-10-05, 16:17:37](https://news.ycombinator.com/item?id=37780514) - [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
@@ -42,6 +43,7 @@
 * [2023-10-05, 10:09:24](https://news.ycombinator.com/item?id=37776743) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
 * [2023-10-05, 09:41:53](https://news.ycombinator.com/item?id=37776605) - [Can You Customize My Startup's Login Page?](https://ph-uhl.com/can-you-customize-my-startup-s-login-page/)
 * [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
+* [2023-10-05, 09:14:07](https://news.ycombinator.com/item?id=37776450) - [What Is the Point of Decidability](https://lists.ugent.be/wws/arc/fom/2023-10/msg00004.html)
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 * [2023-10-05, 07:59:13](https://news.ycombinator.com/item?id=37775954) - [There's No Such Thing as “Implicitly Atomic”](https://belkadan.com/blog/2023/10/Implicity-Atomic/)
