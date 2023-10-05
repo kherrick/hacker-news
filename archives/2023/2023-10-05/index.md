@@ -9,6 +9,7 @@
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
 * [2023-10-05, 11:51:50](https://news.ycombinator.com/item?id=37777412) - [The Insidious Lie That We Can’t Understand Each Other](https://jonathanhaidt.substack.com/p/identity-trap)
 * [2023-10-05, 11:38:18](https://news.ycombinator.com/item?id=37777301) - [Krita fund has 0 corporate support](https://fund.krita.org/)
+* [2023-10-05, 11:11:27](https://news.ycombinator.com/item?id=37777116) - [International Earth Rotation and Reference Systems Service](https://www.iers.org/IERS/EN/Home/home_node.html)
 * [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 10:41:07](https://news.ycombinator.com/item?id=37776935) - [Show HN: Use your familiar Markdown editor to create and publish web pages](https://amarkdown.com/)
 * [2023-10-05, 10:27:53](https://news.ycombinator.com/item?id=37776855) - [Should you buy or build tools for your business?](https://www.appsmith.com/blog/build-vs-buy-when-choosing-internal-tools)
