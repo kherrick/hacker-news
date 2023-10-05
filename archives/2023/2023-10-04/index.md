@@ -19,6 +19,7 @@
 * [2023-10-04, 19:41:21](https://news.ycombinator.com/item?id=37770523) - [1.1.1.1 lookup failures on October 4th, 2023](https://blog.cloudflare.com/1-1-1-1-lookup-failures-on-october-4th-2023/)
 * [2023-10-04, 19:31:27](https://news.ycombinator.com/item?id=37770384) - [Many scientists don’t want to tell the truth about climate change. Here’s why](https://www.wbur.org/cognoscenti/2023/10/03/1-5-degrees-celcius-un-climate-change-report-barbara-moran)
 * [2023-10-04, 19:21:53](https://news.ycombinator.com/item?id=37770260) - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
+* [2023-10-04, 19:19:35](https://news.ycombinator.com/item?id=37770233) - [Security weaknesses of Copilot generated code in GitHub](https://arxiv.org/abs/2310.02059)
 * [2023-10-04, 19:03:36](https://news.ycombinator.com/item?id=37770008) - [Show HN: Rust nom parsing Starcraft2 Replays into Arrow for Polars data analysis](https://github.com/sebosp/s2protocol-rs)
 * [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
 * [2023-10-04, 18:56:48](https://news.ycombinator.com/item?id=37769919) - [Looney Tunables – Local privilege escalation in glibc’s ld.so](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
