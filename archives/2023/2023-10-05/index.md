@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 16:05:07](https://news.ycombinator.com/item?id=37780385) - [Grug on Diet Soda and Autism](https://dynomight.net/grug/)
+* [2023-10-05, 15:52:01](https://news.ycombinator.com/item?id=37780199) - [OpenAI's justification for why training data is fair use, not infringement [pdf]](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf)
 * [2023-10-05, 15:22:30](https://news.ycombinator.com/item?id=37779782) - [Active Prompting: A Comprehensive Guide for the Future of Prompt Engineering](https://www.thepromptengineer.org/exploring-active-prompting-a-comprehensive-guide-for-the-future-of-prompt-engineering/)
 * [2023-10-05, 15:16:40](https://news.ycombinator.com/item?id=37779686) - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
 * [2023-10-05, 14:59:23](https://news.ycombinator.com/item?id=37779457) - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
@@ -35,6 +37,7 @@
 * [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
+* [2023-10-05, 07:59:13](https://news.ycombinator.com/item?id=37775954) - [There's No Such Thing as “Implicitly Atomic”](https://belkadan.com/blog/2023/10/Implicity-Atomic/)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
 * [2023-10-05, 06:48:27](https://news.ycombinator.com/item?id=37775574) - [F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
 * [2023-10-05, 06:26:57](https://news.ycombinator.com/item?id=37775459) - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
