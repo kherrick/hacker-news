@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
 * [2023-10-05, 06:26:57](https://news.ycombinator.com/item?id=37775459) - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
 * [2023-10-05, 06:13:49](https://news.ycombinator.com/item?id=37775407) - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
@@ -29,7 +30,6 @@
 * [2023-10-04, 14:20:00](https://news.ycombinator.com/item?id=37765605) - [When is a Feature Factory... not?](https://honestprod.substack.com/p/when-is-a-feature-factorynot)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-03, 10:32:16](https://news.ycombinator.com/item?id=37750030) - [Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
-* [2023-10-02, 06:23:17](https://news.ycombinator.com/item?id=37734593) - [Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
 
 ## [Archives](archives/index.md)
 
