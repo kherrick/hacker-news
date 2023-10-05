@@ -9,6 +9,7 @@
 * [2023-10-05, 11:59:01](https://news.ycombinator.com/item?id=37777479) - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
 * [2023-10-05, 11:51:50](https://news.ycombinator.com/item?id=37777412) - [The Insidious Lie That We Can’t Understand Each Other](https://jonathanhaidt.substack.com/p/identity-trap)
+* [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 * [2023-10-05, 11:38:18](https://news.ycombinator.com/item?id=37777301) - [Krita fund has 0 corporate support](https://fund.krita.org/)
 * [2023-10-05, 11:11:27](https://news.ycombinator.com/item?id=37777116) - [International Earth Rotation and Reference Systems Service](https://www.iers.org/IERS/EN/Home/home_node.html)
 * [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
