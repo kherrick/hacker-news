@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-05, 18:30:24](https://news.ycombinator.com/item?id=37782218) - [U.S. federal price tag for the post-9/11 wars is over $8T](https://watson.brown.edu/costsofwar/figures/2021/BudgetaryCosts)
-* [2023-10-05, 18:27:07](https://news.ycombinator.com/item?id=37782171) - [YouTube's crackdown on ad blockers intensifies](https://searchengineland.com/youtubes-crackdown-on-ad-blockers-intensifies-432213)
 * [2023-10-05, 17:44:59](https://news.ycombinator.com/item?id=37781612) - [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
 * [2023-10-05, 17:23:06](https://news.ycombinator.com/item?id=37781334) - [A Database for Game Engines](https://enginesdatabase.com/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
@@ -22,6 +21,7 @@
 * [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Database Performance at Scale – A free book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 * [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
+* [2023-10-05, 11:45:38](https://news.ycombinator.com/item?id=37777362) - [Show HN: OCI container of OBS Studio with 50 plugins included](https://github.com/ublue-os/obs-studio-portable)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 * [2023-10-05, 11:02:52](https://news.ycombinator.com/item?id=37777063) - [The Deq Tattooist: Preserving the ink of a disappearing culture](https://www.aljazeera.com/features/longform/2023/1/8/deq-the-tattooist-preserving-the-ink-of-a-disappearing-culture)
 * [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [HTTP/3 adoption is growing rapidly](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
