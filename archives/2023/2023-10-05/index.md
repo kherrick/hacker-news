@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 15:22:30](https://news.ycombinator.com/item?id=37779782) - [Active Prompting: A Comprehensive Guide for the Future of Prompt Engineering](https://www.thepromptengineer.org/exploring-active-prompting-a-comprehensive-guide-for-the-future-of-prompt-engineering/)
 * [2023-10-05, 15:16:40](https://news.ycombinator.com/item?id=37779686) - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
 * [2023-10-05, 14:59:23](https://news.ycombinator.com/item?id=37779457) - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
 * [2023-10-05, 14:58:09](https://news.ycombinator.com/item?id=37779435) - [Please don’t theme our apps](https://stopthemingmy.app/)
@@ -21,6 +22,7 @@
 * [2023-10-05, 11:59:01](https://news.ycombinator.com/item?id=37777479) - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
 * [2023-10-05, 11:51:50](https://news.ycombinator.com/item?id=37777412) - [The Insidious Lie That We Can’t Understand Each Other](https://jonathanhaidt.substack.com/p/identity-trap)
+* [2023-10-05, 11:45:38](https://news.ycombinator.com/item?id=37777362) - [Show HN: OCI container of OBS Studio with 50 plugins included](https://github.com/ublue-os/obs-studio-portable)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 * [2023-10-05, 11:38:18](https://news.ycombinator.com/item?id=37777301) - [Krita fund has 0 corporate support](https://fund.krita.org/)
 * [2023-10-05, 11:11:27](https://news.ycombinator.com/item?id=37777116) - [International Earth Rotation and Reference Systems Service](https://www.iers.org/IERS/EN/Home/home_node.html)
