@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 17:27:50](https://news.ycombinator.com/item?id=37781392) - [Android 14 released, source code hits AOSP](https://www.cnx-software.com/2023/10/06/android-14-released-source-code-aosp/)
 * [2023-10-05, 17:23:06](https://news.ycombinator.com/item?id=37781334) - [A Database for Game Engines](https://enginesdatabase.com/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
 * [2023-10-05, 17:00:12](https://news.ycombinator.com/item?id=37781076) - [PropelAuth (YC W22) Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
@@ -29,7 +30,6 @@
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 02:55:56](https://news.ycombinator.com/item?id=37774431) - [Every Type of Railcar Explained in 15 Minutes [video]](https://www.youtube.com/watch?v=psjExhXfvbI)
 * [2023-10-04, 08:49:10](https://news.ycombinator.com/item?id=37762576) - [Great Pyramid of Cholula](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)
-* [2023-10-04, 08:12:33](https://news.ycombinator.com/item?id=37762290) - [Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
 
 ## [Archives](archives/index.md)
 
