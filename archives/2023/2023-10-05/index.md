@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [The $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 21:00:56](https://news.ycombinator.com/item?id=37784251) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-10-05, 19:33:24](https://news.ycombinator.com/item?id=37783198) - [Reversal of Biological Age in Multiple Rat Organs by Young Porcine Plasma](https://www.biorxiv.org/content/10.1101/2023.08.06.552148v1)
 * [2023-10-05, 19:31:12](https://news.ycombinator.com/item?id=37783167) - [Hired by Google as L4 but rejected by top colleges](https://www.dcurbanmom.com/jforum/posts/list/1159559.page)

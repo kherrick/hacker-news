@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [The $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 21:00:56](https://news.ycombinator.com/item?id=37784251) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol](https://testanything.org/)
 * [2023-10-05, 18:50:10](https://news.ycombinator.com/item?id=37782513) - [Show HN: An app store just for installable web apps](https://store.app)
@@ -12,7 +13,6 @@
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
 * [2023-10-05, 17:13:44](https://news.ycombinator.com/item?id=37781231) - [Chatbot Hallucinations Are Poisoning Web Search](https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/)
 * [2023-10-05, 17:03:39](https://news.ycombinator.com/item?id=37781125) - [Vivaldi Takes a Bite Out of the Apple: Introducing Vivaldi on iOS](https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/)
-* [2023-10-05, 16:17:37](https://news.ycombinator.com/item?id=37780514) - [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
 * [2023-10-05, 15:49:48](https://news.ycombinator.com/item?id=37780159) - [Hickory DNS](https://bluejekyll.github.io/blog/posts/announcing-hickory-dns/)
 * [2023-10-05, 15:18:01](https://news.ycombinator.com/item?id=37779707) - [Guide stars found as Euclid's navigation fine tuned](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Guide_stars_found_as_Euclid_s_navigation_fine_tuned)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
