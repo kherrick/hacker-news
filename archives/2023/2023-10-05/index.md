@@ -10,6 +10,7 @@
 * [2023-10-05, 17:27:50](https://news.ycombinator.com/item?id=37781392) - [Android 14 released, source code hits AOSP](https://www.cnx-software.com/2023/10/06/android-14-released-source-code-aosp/)
 * [2023-10-05, 17:23:06](https://news.ycombinator.com/item?id=37781334) - [A Database for Game Engines](https://enginesdatabase.com/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
+* [2023-10-05, 17:13:44](https://news.ycombinator.com/item?id=37781231) - [Chatbot Hallucinations Are Poisoning Web Search](https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/)
 * [2023-10-05, 17:00:12](https://news.ycombinator.com/item?id=37781076) - [PropelAuth (YC W22) Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
 * [2023-10-05, 16:56:56](https://news.ycombinator.com/item?id=37781022) - [Booking.com makes a fortune – so why is it leaving its bills to hotels unpaid?](https://www.theguardian.com/business/2023/oct/03/bookingcom-makes-a-fortune-so-why-is-it-leaving-its-bills-to-small-hotels-unpaid)
 * [2023-10-05, 16:54:25](https://news.ycombinator.com/item?id=37780991) - [Searches for Noah's Ark](https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark)
