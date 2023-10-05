@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 19:25:33](https://news.ycombinator.com/item?id=37783081) - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 * [2023-10-05, 19:16:05](https://news.ycombinator.com/item?id=37782945) - [X confuses the masses by removing all details from links](https://www.theregister.com/2023/10/05/x_twitter_links_details/)
 * [2023-10-05, 18:57:21](https://news.ycombinator.com/item?id=37782626) - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
 * [2023-10-05, 18:49:29](https://news.ycombinator.com/item?id=37782493) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 19:25:33](https://news.ycombinator.com/item?id=37783081) - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 * [2023-10-05, 18:57:21](https://news.ycombinator.com/item?id=37782626) - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
 * [2023-10-05, 18:49:29](https://news.ycombinator.com/item?id=37782493) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 * [2023-10-05, 17:44:59](https://news.ycombinator.com/item?id=37781612) - [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
@@ -22,7 +23,6 @@
 * [2023-10-05, 12:57:52](https://news.ycombinator.com/item?id=37778010) - [The Proof of Innocence](https://fermatslibrary.com/s/the-proof-of-innocence)
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
-* [2023-10-05, 11:11:27](https://news.ycombinator.com/item?id=37777116) - [International Earth Rotation and Reference Systems Service](https://www.iers.org/IERS/EN/Home/home_node.html)
 * [2023-10-05, 11:02:52](https://news.ycombinator.com/item?id=37777063) - [The Deq Tattooist: Preserving the ink of a disappearing culture](https://www.aljazeera.com/features/longform/2023/1/8/deq-the-tattooist-preserving-the-ink-of-a-disappearing-culture)
 * [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [HTTP/3 adoption is growing rapidly](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 09:14:07](https://news.ycombinator.com/item?id=37776450) - [What Is the Point of Decidability](https://lists.ugent.be/wws/arc/fom/2023-10/msg00004.html)
