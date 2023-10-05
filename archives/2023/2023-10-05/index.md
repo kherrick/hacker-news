@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 19:16:05](https://news.ycombinator.com/item?id=37782945) - [X confuses the masses by removing all details from links](https://www.theregister.com/2023/10/05/x_twitter_links_details/)
+* [2023-10-05, 18:57:21](https://news.ycombinator.com/item?id=37782626) - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
 * [2023-10-05, 18:30:24](https://news.ycombinator.com/item?id=37782218) - [U.S. federal price tag for the post-9/11 wars is over $8T](https://watson.brown.edu/costsofwar/figures/2021/BudgetaryCosts)
 * [2023-10-05, 18:27:07](https://news.ycombinator.com/item?id=37782171) - [YouTube's crackdown on ad blockers intensifies](https://searchengineland.com/youtubes-crackdown-on-ad-blockers-intensifies-432213)
 * [2023-10-05, 17:44:59](https://news.ycombinator.com/item?id=37781612) - [Safety vs. Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
