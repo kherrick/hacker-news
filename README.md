@@ -22,12 +22,12 @@
 * [2023-10-04, 19:21:53](https://news.ycombinator.com/item?id=37770260) - [Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/)
 * [2023-10-04, 19:19:35](https://news.ycombinator.com/item?id=37770233) - [Security weaknesses of Copilot generated code in GitHub](https://arxiv.org/abs/2310.02059)
 * [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
-* [2023-10-04, 18:36:46](https://news.ycombinator.com/item?id=37769633) - [Show HN: Sqinn-Go is a Golang library for accessing SQLite databases in pure Go](https://github.com/cvilsmeier/sqinn-go)
 * [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating radio interference from Apple charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 * [2023-10-04, 14:20:00](https://news.ycombinator.com/item?id=37765605) - [When is a Feature Factory... not?](https://honestprod.substack.com/p/when-is-a-feature-factorynot)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+* [2023-10-04, 08:49:10](https://news.ycombinator.com/item?id=37762576) - [Great Pyramid of Cholula](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)
 * [2023-10-04, 08:12:33](https://news.ycombinator.com/item?id=37762290) - [Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
 * [2023-10-03, 10:32:16](https://news.ycombinator.com/item?id=37750030) - [Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
 
