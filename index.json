@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 17:44:59",
+      "https://news.ycombinator.com/item?id=37781612"
+    ],
+    [
+      "Safety vs. Performance. A case study of C, C++ and Rust sort implementations",
+      "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 17:27:50",
       "https://news.ycombinator.com/item?id=37781392"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-10-05, 14:59:23",
-      "https://news.ycombinator.com/item?id=37779457"
-    ],
-    [
-      "Microsoft introduces AI meddling to your files with Copilot in OneDrive",
-      "https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 14:04:30",
       "https://news.ycombinator.com/item?id=37778771"
     ],
@@ -185,8 +185,18 @@
       "https://news.ycombinator.com/item?id=37778069"
     ],
     [
-      "Introducing “Database Performance at Scale”: A Free, Open Source Book",
+      "Database Performance at Scale – A free book",
       "https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 12:47:24",
+      "https://news.ycombinator.com/item?id=37777897"
+    ],
+    [
+      "Ask HN: Does your microwave interfere with Bluetooth? Mine does",
+      "https://news.ycombinator.com/item?id=37777897"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "US Government issues first-ever space debris penalty to Dish Network",
       "https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 11:45:38",
-      "https://news.ycombinator.com/item?id=37777362"
-    ],
-    [
-      "Show HN: OCI container of OBS Studio with 50 plugins included",
-      "https://github.com/ublue-os/obs-studio-portable"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37777050"
     ],
     [
-      "Why HTTP/3 is eating the world",
+      "HTTP/3 adoption is growing rapidly",
       "https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=37774580"
     ],
     [
-      "Pythagorean Theorem found on clay tablet 1k years older than Pythagoras",
+      "Pythagorean Theorem found on clay tablet 1k years older than Pythagoras (2009)",
       "https://link.springer.com/article/10.1057/jt.2009.16"
     ]
   ],
