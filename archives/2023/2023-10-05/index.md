@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 14:25:44](https://news.ycombinator.com/item?id=37779018) - [Singapore: Right to own a car costs $76,000. And that doesn't include the car](https://www.cnn.com/2023/10/05/asia/singapore-most-expensive-car-license-intl-hnk/index.html)
 * [2023-10-05, 14:04:30](https://news.ycombinator.com/item?id=37778771) - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:15:09](https://news.ycombinator.com/item?id=37778186) - [School shooting hoaxes have terrorized kids across U.S.](https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/)
+* [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 * [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
 * [2023-10-05, 12:01:02](https://news.ycombinator.com/item?id=37777494) - [Whalesync (YC S21) is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
 * [2023-10-05, 11:59:01](https://news.ycombinator.com/item?id=37777479) - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
