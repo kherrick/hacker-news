@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 16:17:37](https://news.ycombinator.com/item?id=37780514) - [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
 * [2023-10-05, 16:05:07](https://news.ycombinator.com/item?id=37780385) - [Grug on Diet Soda and Autism](https://dynomight.net/grug/)
 * [2023-10-05, 15:52:01](https://news.ycombinator.com/item?id=37780199) - [OpenAI's justification for why training data is fair use, not infringement [pdf]](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf)
 * [2023-10-05, 15:22:30](https://news.ycombinator.com/item?id=37779782) - [Active Prompting: A Comprehensive Guide for the Future of Prompt Engineering](https://www.thepromptengineer.org/exploring-active-prompting-a-comprehensive-guide-for-the-future-of-prompt-engineering/)
