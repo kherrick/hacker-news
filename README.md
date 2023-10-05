@@ -2,9 +2,9 @@
 
 * [2023-10-05, 01:01:57](https://news.ycombinator.com/item?id=37773731) - [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
 * [2023-10-05, 00:43:10](https://news.ycombinator.com/item?id=37773599) - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
+* [2023-10-04, 22:51:36](https://news.ycombinator.com/item?id=37772829) - [Tell HN: The popular Chrome extension ModHeader is injecting ads into searches](https://news.ycombinator.com/item?id=37772829)
 * [2023-10-04, 22:02:53](https://news.ycombinator.com/item?id=37772427) - [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
 * [2023-10-04, 21:40:41](https://news.ycombinator.com/item?id=37772206) - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
-* [2023-10-04, 21:29:05](https://news.ycombinator.com/item?id=37772070) - [Google announces plan to make Gmail “less spammy”: A checklist to help](https://www.thenewsletternewsletter.xyz/post/google-announces-plan-to-make-gmail-less-spammy-a-checklist-to-ensure-you-meet-the-new-sender-requirements)
 * [2023-10-04, 21:00:47](https://news.ycombinator.com/item?id=37771721) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-04, 20:14:42](https://news.ycombinator.com/item?id=37771041) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 19:47:32](https://news.ycombinator.com/item?id=37770627) - [Ural Airlines is preparing to fly a stranded Airbus A320 out of a field](https://simpleflying.com/ural-airlines-prepares-fly-airbus-a320-from-field/)
@@ -26,8 +26,8 @@
 * [2023-10-03, 16:49:22](https://news.ycombinator.com/item?id=37754377) - [Puzzle Languages (2009)](https://prog21.dadgum.com/38.html)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism makes WebAssembly easy](https://dylibso.com/blog/why-extism/)
 * [2023-10-03, 10:32:16](https://news.ycombinator.com/item?id=37750030) - [Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
+* [2023-10-03, 10:23:41](https://news.ycombinator.com/item?id=37749970) - [The Rec.Sport.Soccer Statistics Foundation](https://www.rsssf.org/archive.html)
 * [2023-10-03, 10:02:40](https://news.ycombinator.com/item?id=37749834) - [Proxy Generic Function](http://turtleware.eu/posts/Proxy-Generic-Function.html)
-* [2023-10-02, 07:26:01](https://news.ycombinator.com/item?id=37734941) - [Color for the color-challenged](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56?gi=67a96925e6bd)
 * [2023-10-02, 06:23:17](https://news.ycombinator.com/item?id=37734593) - [Building a DIY Pen Plotter](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/)
 * [2023-10-02, 06:09:48](https://news.ycombinator.com/item?id=37734531) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032)
 

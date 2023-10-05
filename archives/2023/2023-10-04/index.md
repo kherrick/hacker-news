@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 22:51:36](https://news.ycombinator.com/item?id=37772829) - [Tell HN: The popular Chrome extension ModHeader is injecting ads into searches](https://news.ycombinator.com/item?id=37772829)
 * [2023-10-04, 22:02:53](https://news.ycombinator.com/item?id=37772427) - [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
 * [2023-10-04, 21:59:43](https://news.ycombinator.com/item?id=37772394) - [Insurance companies fill their networks with ‘ghost’ therapists](https://www.seattletimes.com/seattle-news/mental-health/how-insurance-companies-fill-their-networks-with-ghost-therapists/)
 * [2023-10-04, 21:40:41](https://news.ycombinator.com/item?id=37772206) - [AI beats human sleuth at finding problematic images in research papers](https://www.nature.com/articles/d41586-023-02920-y)
