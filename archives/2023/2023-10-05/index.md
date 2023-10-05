@@ -51,6 +51,7 @@
 * [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 * [2023-10-05, 12:57:52](https://news.ycombinator.com/item?id=37778010) - [The Proof of Innocence](https://fermatslibrary.com/s/the-proof-of-innocence)
 * [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
+* [2023-10-05, 12:17:34](https://news.ycombinator.com/item?id=37777626) - [Sea trials of new acoustic deterrent device to keep orcas at bay](https://www.pbo.co.uk/news/sea-trials-of-new-acoustic-deterrent-device-to-keep-orcas-at-bay-80583)
 * [2023-10-05, 12:01:02](https://news.ycombinator.com/item?id=37777494) - [Whalesync (YC S21) is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
 * [2023-10-05, 11:59:01](https://news.ycombinator.com/item?id=37777479) - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
