@@ -11,6 +11,7 @@
 * [2023-10-05, 18:57:21](https://news.ycombinator.com/item?id=37782626) - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
 * [2023-10-05, 18:50:10](https://news.ycombinator.com/item?id=37782513) - [Show HN: An app store just for installable web apps](https://store.app)
 * [2023-10-05, 18:49:29](https://news.ycombinator.com/item?id=37782493) - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+* [2023-10-05, 18:36:30](https://news.ycombinator.com/item?id=37782308) - [Oldest footprints in North America push back human arrival](https://www.washingtonpost.com/science/2023/10/05/oldest-human-footprint-americas-white-sands/)
 * [2023-10-05, 18:30:24](https://news.ycombinator.com/item?id=37782218) - [U.S. federal price tag for the post-9/11 wars is over $8T](https://watson.brown.edu/costsofwar/figures/2021/BudgetaryCosts)
 * [2023-10-05, 18:27:07](https://news.ycombinator.com/item?id=37782171) - [YouTube's crackdown on ad blockers intensifies](https://searchengineland.com/youtubes-crackdown-on-ad-blockers-intensifies-432213)
 * [2023-10-05, 18:12:56](https://news.ycombinator.com/item?id=37781988) - [Own the Demand (2018)](https://flocrivello.com/own-the-demand/)
