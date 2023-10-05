@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-10-05, 12:01:02",
+      "https://news.ycombinator.com/item?id=37777494"
+    ],
+    [
+      "Whalesync (YC S21) is hiring remote full-stack software engineers",
+      "https://jobs.polymer.co/whalesync/28574"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 11:59:01",
+      "https://news.ycombinator.com/item?id=37777479"
+    ],
+    [
+      "HN search engine now shows Google's 404 error page",
+      "https://hn.algolia.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 11:54:33",
+      "https://news.ycombinator.com/item?id=37777440"
+    ],
+    [
+      "US Government issues first-ever space debris penalty to Dish Network",
+      "https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 11:38:18",
+      "https://news.ycombinator.com/item?id=37777301"
+    ],
+    [
+      "Krita fund has 0 corporate support",
+      "https://fund.krita.org/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 10:59:52",
       "https://news.ycombinator.com/item?id=37777050"
     ],
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2023-10-05, 10:27:53",
-      "https://news.ycombinator.com/item?id=37776855"
+      "2023-10-05, 10:27:51",
+      "https://news.ycombinator.com/item?id=37776854"
     ],
     [
-      "Should you buy or build tools for your business?",
-      "https://www.appsmith.com/blog/build-vs-buy-when-choosing-internal-tools"
+      "September was the most anomalously hot month ever",
+      "https://www.scientificamerican.com/article/september-was-the-most-anomalously-hot-month-ever/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2023-10-05, 03:40:49",
-      "https://news.ycombinator.com/item?id=37774676"
-    ],
-    [
-      "How Transformers Work",
-      "https://ig.ft.com/generative-ai/"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 03:24:17",
       "https://news.ycombinator.com/item?id=37774603"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-10-04, 22:02:53",
-      "https://news.ycombinator.com/item?id=37772427"
-    ],
-    [
-      "Qualcomm’s Hexagon DSP, and Now, NPU",
-      "https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 21:40:41",
       "https://news.ycombinator.com/item?id=37772206"
     ],
     [
       "AI beats human sleuth at finding problematic images in research papers",
       "https://www.nature.com/articles/d41586-023-02920-y"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 21:00:47",
-      "https://news.ycombinator.com/item?id=37771721"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Senior Data Engineer and Senior Back End Engineer in Latam",
-      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -217,26 +227,6 @@
     [
       "Vespa.ai is spinning out of Yahoo as a separate company",
       "https://blog.vespa.ai/vespa-is-becoming-its-own-company/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 18:30:05",
-      "https://news.ycombinator.com/item?id=37769546"
-    ],
-    [
-      "MiniOS – a lightweight Linux distribution designed for USB drive",
-      "https://minios.dev"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 18:01:14",
-      "https://news.ycombinator.com/item?id=37769139"
-    ],
-    [
-      "Eliminating radio interference from Apple charger",
-      "https://oh8hub.substack.com/p/eliminating-radio-interference-from"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Beginner's Guide to Aeronautics",
       "https://www.grc.nasa.gov/www/k-12/airplane/guided.htm"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 04:40:55",
+      "https://news.ycombinator.com/item?id=37760930"
+    ],
+    [
+      "Instrumental Tricks",
+      "https://www.lrb.co.uk/the-paper/v45/n19/james-vincent/instrumental-tricks"
     ]
   ],
   [
