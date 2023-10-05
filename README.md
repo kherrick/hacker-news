@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 14:59:23](https://news.ycombinator.com/item?id=37779457) - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
+* [2023-10-05, 14:58:09](https://news.ycombinator.com/item?id=37779435) - [Please don’t theme our apps](https://stopthemingmy.app/)
 * [2023-10-05, 14:04:30](https://news.ycombinator.com/item?id=37778771) - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
-* [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle](https://www.ronpatrickstuff.com/)
+* [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 * [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
@@ -23,13 +25,11 @@
 * [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
 * [2023-10-05, 01:51:46](https://news.ycombinator.com/item?id=37774055) - [Classic Mac Video Signals Demystified Designing a Mac-to-VGA Adapter with LM1881](https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/)
 * [2023-10-04, 20:37:20](https://news.ycombinator.com/item?id=37771373) - [The Ends of Knowledge](https://aeon.co/essays/should-academic-disciplines-have-both-a-purpose-and-a-finish-date)
-* [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
 * [2023-10-04, 14:20:00](https://news.ycombinator.com/item?id=37765605) - [When is a Feature Factory... not?](https://honestprod.substack.com/p/when-is-a-feature-factorynot)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 08:49:10](https://news.ycombinator.com/item?id=37762576) - [Great Pyramid of Cholula](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)
 * [2023-10-04, 08:12:33](https://news.ycombinator.com/item?id=37762290) - [Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
 * [2023-10-04, 04:40:55](https://news.ycombinator.com/item?id=37760930) - [Instrumental Tricks](https://www.lrb.co.uk/the-paper/v45/n19/james-vincent/instrumental-tricks)
-* [2023-10-03, 10:32:16](https://news.ycombinator.com/item?id=37750030) - [Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
 
 ## [Archives](archives/index.md)
 
