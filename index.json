@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-05, 04:49:04",
+      "https://news.ycombinator.com/item?id=37774996"
+    ],
+    [
+      "SQL db as cache – 2x faster* requests vs. Redis",
+      "https://dev.37signals.com/solid-cache/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 04:04:57",
       "https://news.ycombinator.com/item?id=37774807"
     ],
@@ -287,16 +297,6 @@
     [
       "Building a DIY Pen Plotter",
       "https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 06:09:48",
-      "https://news.ycombinator.com/item?id=37734531"
-    ],
-    [
-      "32 MiB Working Sets on a 64 GiB machine",
-      "https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/#more-4032"
     ]
   ]
 ]
