@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 22:53:19](https://news.ycombinator.com/item?id=37785253) - [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 19:25:33](https://news.ycombinator.com/item?id=37783081) - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol](https://testanything.org/)
@@ -16,7 +17,6 @@
 * [2023-10-05, 17:13:44](https://news.ycombinator.com/item?id=37781231) - [Generative AI could make search harder to trust](https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/)
 * [2023-10-05, 17:03:39](https://news.ycombinator.com/item?id=37781125) - [Vivaldi on iOS](https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/)
 * [2023-10-05, 17:00:12](https://news.ycombinator.com/item?id=37781076) - [PropelAuth (YC W22) Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
-* [2023-10-05, 15:49:48](https://news.ycombinator.com/item?id=37780159) - [Hickory DNS](https://bluejekyll.github.io/blog/posts/announcing-hickory-dns/)
 * [2023-10-05, 15:18:01](https://news.ycombinator.com/item?id=37779707) - [Guide stars found as Euclid's navigation fine tuned](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Guide_stars_found_as_Euclid_s_navigation_fine_tuned)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
