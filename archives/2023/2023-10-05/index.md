@@ -6,9 +6,11 @@
 
 * [2023-10-05, 16:17:37](https://news.ycombinator.com/item?id=37780514) - [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
 * [2023-10-05, 16:05:07](https://news.ycombinator.com/item?id=37780385) - [Grug on Diet Soda and Autism](https://dynomight.net/grug/)
+* [2023-10-05, 15:52:13](https://news.ycombinator.com/item?id=37780204) - [Google agrees to reform its data terms after German antitrust intervention](https://techcrunch.com/2023/10/05/google-data-terms-fco/)
 * [2023-10-05, 15:52:01](https://news.ycombinator.com/item?id=37780199) - [OpenAI's justification for why training data is fair use, not infringement [pdf]](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf)
 * [2023-10-05, 15:22:30](https://news.ycombinator.com/item?id=37779782) - [Active Prompting: A Comprehensive Guide for the Future of Prompt Engineering](https://www.thepromptengineer.org/exploring-active-prompting-a-comprehensive-guide-for-the-future-of-prompt-engineering/)
 * [2023-10-05, 15:16:40](https://news.ycombinator.com/item?id=37779686) - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
+* [2023-10-05, 15:08:35](https://news.ycombinator.com/item?id=37779591) - [How to Balance Money and Meaning](https://every.to/no-small-plans/the-three-ways-to-balance-money-and-meaning)
 * [2023-10-05, 14:59:23](https://news.ycombinator.com/item?id=37779457) - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
 * [2023-10-05, 14:58:09](https://news.ycombinator.com/item?id=37779435) - [Please don’t theme our apps](https://stopthemingmy.app/)
 * [2023-10-05, 14:25:44](https://news.ycombinator.com/item?id=37779018) - [Singapore: Right to own a car costs $76,000. And that doesn't include the car](https://www.cnn.com/2023/10/05/asia/singapore-most-expensive-car-license-intl-hnk/index.html)

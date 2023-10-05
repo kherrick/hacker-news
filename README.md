@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-05, 16:17:37](https://news.ycombinator.com/item?id=37780514) - [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
+* [2023-10-05, 15:52:13](https://news.ycombinator.com/item?id=37780204) - [Google agrees to reform its data terms after German antitrust intervention](https://techcrunch.com/2023/10/05/google-data-terms-fco/)
 * [2023-10-05, 15:52:01](https://news.ycombinator.com/item?id=37780199) - [OpenAI's justification for why training data is fair use, not infringement [pdf]](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf)
+* [2023-10-05, 15:08:35](https://news.ycombinator.com/item?id=37779591) - [How to Balance Money and Meaning](https://every.to/no-small-plans/the-three-ways-to-balance-money-and-meaning)
 * [2023-10-05, 14:59:23](https://news.ycombinator.com/item?id=37779457) - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
 * [2023-10-05, 14:04:30](https://news.ycombinator.com/item?id=37778771) - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
@@ -25,11 +27,9 @@
 * [2023-10-05, 03:24:17](https://news.ycombinator.com/item?id=37774603) - [Python 3.12.0 from a supply chain security perspective](https://sethmlarson.dev/security-developer-in-residence-weekly-report-13)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 02:55:56](https://news.ycombinator.com/item?id=37774431) - [Every Type of Railcar Explained in 15 Minutes [video]](https://www.youtube.com/watch?v=psjExhXfvbI)
-* [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
 * [2023-10-05, 01:51:46](https://news.ycombinator.com/item?id=37774055) - [Classic Mac Video Signals Demystified Designing a Mac-to-VGA Adapter with LM1881](https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/)
 * [2023-10-04, 08:49:10](https://news.ycombinator.com/item?id=37762576) - [Great Pyramid of Cholula](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)
 * [2023-10-04, 08:12:33](https://news.ycombinator.com/item?id=37762290) - [Beginner's Guide to Aeronautics](https://www.grc.nasa.gov/www/k-12/airplane/guided.htm)
-* [2023-10-04, 04:40:55](https://news.ycombinator.com/item?id=37760930) - [Instrumental Tricks](https://www.lrb.co.uk/the-paper/v45/n19/james-vincent/instrumental-tricks)
 
 ## [Archives](archives/index.md)
 
