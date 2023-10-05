@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 04:04:57](https://news.ycombinator.com/item?id=37774807) - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
 * [2023-10-05, 01:42:59](https://news.ycombinator.com/item?id=37774004) - [Google Pixel Watch 2](https://store.google.com/us/product/pixel_watch_2?hl=en-US)
 * [2023-10-05, 01:30:32](https://news.ycombinator.com/item?id=37773918) - [LLMs confabulate not hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
-* [2023-10-05, 01:01:57](https://news.ycombinator.com/item?id=37773731) - [A drop in salaries and in the number of jobs available in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
 * [2023-10-05, 00:43:10](https://news.ycombinator.com/item?id=37773599) - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
 * [2023-10-05, 00:32:35](https://news.ycombinator.com/item?id=37773514) - [Wound healing research produces full thickness human bioprinted skin](https://newsroom.wakehealth.edu/news-releases/2023/10/new-wound-healing-research-produces-full-thickness-human-bioprinted-skin)
 * [2023-10-04, 22:02:53](https://news.ycombinator.com/item?id=37772427) - [Qualcomm’s Hexagon DSP, and Now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)

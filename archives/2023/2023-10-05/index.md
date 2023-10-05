@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 04:04:57](https://news.ycombinator.com/item?id=37774807) - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
 * [2023-10-05, 03:09:00](https://news.ycombinator.com/item?id=37774523) - [Amazon Shuts Down Amp, Its Live-Audio Streaming App](https://www.bloomberg.com/news/articles/2023-10-04/amazon-shuts-down-amp-its-live-audio-streaming-app)
