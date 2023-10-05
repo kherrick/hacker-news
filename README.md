@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 14:04:30](https://news.ycombinator.com/item?id=37778771) - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
+* [2023-10-05, 13:15:09](https://news.ycombinator.com/item?id=37778186) - [School shooting hoaxes have terrorized kids across U.S.](https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/)
 * [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
 * [2023-10-05, 12:01:02](https://news.ycombinator.com/item?id=37777494) - [Whalesync (YC S21) is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
 * [2023-10-05, 11:59:01](https://news.ycombinator.com/item?id=37777479) - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
@@ -15,7 +17,6 @@
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
 * [2023-10-05, 06:48:27](https://news.ycombinator.com/item?id=37775574) - [F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
 * [2023-10-05, 06:13:49](https://news.ycombinator.com/item?id=37775407) - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
-* [2023-10-05, 05:03:11](https://news.ycombinator.com/item?id=37775073) - [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 * [2023-10-05, 04:04:57](https://news.ycombinator.com/item?id=37774807) - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 * [2023-10-05, 03:24:17](https://news.ycombinator.com/item?id=37774603) - [Python 3.12.0 from a supply chain security perspective](https://sethmlarson.dev/security-developer-in-residence-weekly-report-13)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
@@ -23,7 +24,6 @@
 * [2023-10-05, 01:51:46](https://news.ycombinator.com/item?id=37774055) - [Classic Mac Video Signals Demystified Designing a Mac-to-VGA Adapter with LM1881](https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/)
 * [2023-10-04, 20:37:20](https://news.ycombinator.com/item?id=37771373) - [The Ends of Knowledge](https://aeon.co/essays/should-academic-disciplines-have-both-a-purpose-and-a-finish-date)
 * [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
-* [2023-10-04, 14:23:36](https://news.ycombinator.com/item?id=37765661) - [Intel plans to undo its Xilinx acquisition](https://www.cnbc.com/2023/10/03/intel-plans-to-ipo-programmable-chip-unit-within-three-years.html)
 * [2023-10-04, 14:20:00](https://news.ycombinator.com/item?id=37765605) - [When is a Feature Factory... not?](https://honestprod.substack.com/p/when-is-a-feature-factorynot)
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 08:49:10](https://news.ycombinator.com/item?id=37762576) - [Great Pyramid of Cholula](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)
