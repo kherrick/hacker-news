@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 09:41:53](https://news.ycombinator.com/item?id=37776605) - [Can You Customize My Startup's Login Page?](https://ph-uhl.com/can-you-customize-my-startup-s-login-page/)
 * [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
 * [2023-10-05, 06:48:27](https://news.ycombinator.com/item?id=37775574) - [F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
 * [2023-10-05, 06:13:49](https://news.ycombinator.com/item?id=37775407) - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
-* [2023-10-05, 05:36:02](https://news.ycombinator.com/item?id=37775213) - [Domestic cat larynges can produce purring frequencies without neural input](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01230-7)
 * [2023-10-05, 05:03:11](https://news.ycombinator.com/item?id=37775073) - [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 * [2023-10-05, 04:04:57](https://news.ycombinator.com/item?id=37774807) - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 * [2023-10-05, 03:40:49](https://news.ycombinator.com/item?id=37774676) - [How Transformers Work](https://ig.ft.com/generative-ai/)

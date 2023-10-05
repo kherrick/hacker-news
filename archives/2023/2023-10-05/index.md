@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 09:41:53](https://news.ycombinator.com/item?id=37776605) - [Can You Customize My Startup's Login Page?](https://ph-uhl.com/can-you-customize-my-startup-s-login-page/)
 * [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
