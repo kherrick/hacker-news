@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
+* [2023-10-05, 06:48:27](https://news.ycombinator.com/item?id=37775574) - [F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
 * [2023-10-05, 06:26:57](https://news.ycombinator.com/item?id=37775459) - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
 * [2023-10-05, 06:13:49](https://news.ycombinator.com/item?id=37775407) - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
 * [2023-10-05, 05:36:02](https://news.ycombinator.com/item?id=37775213) - [Domestic cat larynges can produce purring frequencies without neural input](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01230-7)
@@ -23,6 +25,7 @@
 * [2023-10-05, 02:55:56](https://news.ycombinator.com/item?id=37774431) - [Every Type of Railcar Explained in 15 Minutes [video]](https://www.youtube.com/watch?v=psjExhXfvbI)
 * [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks](https://par.nsf.gov/servlets/purl/10150578)
 * [2023-10-05, 02:06:10](https://news.ycombinator.com/item?id=37774127) - [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
+* [2023-10-05, 01:51:46](https://news.ycombinator.com/item?id=37774055) - [Classic Mac Video Signals Demystified Designing a Mac-to-VGA Adapter with LM1881](https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/)
 * [2023-10-05, 01:42:59](https://news.ycombinator.com/item?id=37774004) - [Google Pixel Watch 2](https://store.google.com/us/product/pixel_watch_2?hl=en-US)
 * [2023-10-05, 01:30:32](https://news.ycombinator.com/item?id=37773918) - [LLMs Confabulate Not Hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
 * [2023-10-05, 01:01:57](https://news.ycombinator.com/item?id=37773731) - [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
