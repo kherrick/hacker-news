@@ -7,6 +7,7 @@
 * [2023-10-05, 12:01:02](https://news.ycombinator.com/item?id=37777494) - [Whalesync (YC S21) is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
 * [2023-10-05, 11:59:01](https://news.ycombinator.com/item?id=37777479) - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
+* [2023-10-05, 11:51:50](https://news.ycombinator.com/item?id=37777412) - [The Insidious Lie That We Can’t Understand Each Other](https://jonathanhaidt.substack.com/p/identity-trap)
 * [2023-10-05, 11:38:18](https://news.ycombinator.com/item?id=37777301) - [Krita fund has 0 corporate support](https://fund.krita.org/)
 * [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 10:41:07](https://news.ycombinator.com/item?id=37776935) - [Show HN: Use your familiar Markdown editor to create and publish web pages](https://amarkdown.com/)
