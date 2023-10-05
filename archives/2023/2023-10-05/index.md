@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 19:31:12](https://news.ycombinator.com/item?id=37783167) - [Hired by Google as L4 but rejected by top colleges](https://www.dcurbanmom.com/jforum/posts/list/1159559.page)
 * [2023-10-05, 19:25:33](https://news.ycombinator.com/item?id=37783081) - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol (Tap)](https://testanything.org/)
 * [2023-10-05, 19:16:05](https://news.ycombinator.com/item?id=37782945) - [X confuses the masses by removing all details from links](https://www.theregister.com/2023/10/05/x_twitter_links_details/)
@@ -67,6 +68,7 @@
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 * [2023-10-05, 07:59:13](https://news.ycombinator.com/item?id=37775954) - [There's No Such Thing as “Implicitly Atomic”](https://belkadan.com/blog/2023/10/Implicity-Atomic/)
+* [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo-creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
 * [2023-10-05, 06:48:27](https://news.ycombinator.com/item?id=37775574) - [F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
 * [2023-10-05, 06:26:57](https://news.ycombinator.com/item?id=37775459) - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
