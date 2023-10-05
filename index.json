@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 15:16:40",
+      "https://news.ycombinator.com/item?id=37779686"
+    ],
+    [
+      "Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras",
+      "https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 14:59:23",
       "https://news.ycombinator.com/item?id=37779457"
     ],
@@ -47,6 +57,36 @@
     [
       "Where does my computer get the time from?",
       "https://dotat.at/@/2023-05-26-whence-time.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 13:42:13",
+      "https://news.ycombinator.com/item?id=37778490"
+    ],
+    [
+      "Traveling words: a geometric interpretation of transformers",
+      "https://arxiv.org/abs/2309.07315"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 13:27:38",
+      "https://news.ycombinator.com/item?id=37778334"
+    ],
+    [
+      "Fluid Simulation",
+      "https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 13:22:09",
+      "https://news.ycombinator.com/item?id=37778265"
+    ],
+    [
+      "Assembly theory explains and quantifies selection and evolution",
+      "https://www.nature.com/articles/s41586-023-06600-9"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2023-10-05, 04:04:57",
-      "https://news.ycombinator.com/item?id=37774807"
-    ],
-    [
-      "An updated Node-WebRTC that works with Node Stable",
-      "https://github.com/WonderInventions/node-webrtc"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 03:40:49",
       "https://news.ycombinator.com/item?id=37774676"
     ],
@@ -237,36 +267,6 @@
     [
       "Classic Mac Video Signals Demystified Designing a Mac-to-VGA Adapter with LM1881",
       "https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 20:37:20",
-      "https://news.ycombinator.com/item?id=37771373"
-    ],
-    [
-      "The Ends of Knowledge",
-      "https://aeon.co/essays/should-academic-disciplines-have-both-a-purpose-and-a-finish-date"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 14:20:00",
-      "https://news.ycombinator.com/item?id=37765605"
-    ],
-    [
-      "When is a Feature Factory... not?",
-      "https://honestprod.substack.com/p/when-is-a-feature-factorynot"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 13:12:45",
-      "https://news.ycombinator.com/item?id=37764581"
-    ],
-    [
-      "An interactive intro to CRDTs",
-      "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/"
     ]
   ],
   [
