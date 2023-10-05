@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 05:03:11](https://news.ycombinator.com/item?id=37775073) - [Delta finds fake jet aircraft engine parts with forged airworthiness documents](https://fortune.com/2023/10/03/delta-fourth-major-us-airline-fake-jet-aircraft-engine-parts-forged-airworthiness-documents-uk-company-aog/)
 * [2023-10-05, 04:04:57](https://news.ycombinator.com/item?id=37774807) - [An updated Node-WebRTC that works with Node Stable](https://github.com/WonderInventions/node-webrtc)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem Found on Clay Tablet 1k Years Older Than Pythagoras](https://www.iflscience.com/pythagorean-theorem-found-on-clay-tablet-1000-years-older-than-pythagoras-70934)
