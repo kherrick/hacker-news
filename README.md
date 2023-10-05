@@ -2,6 +2,7 @@
 
 * [2023-10-05, 14:25:44](https://news.ycombinator.com/item?id=37779018) - [Singapore: Right to own a car costs $76,000. And that doesn't include the car](https://www.cnn.com/2023/10/05/asia/singapore-most-expensive-car-license-intl-hnk/index.html)
 * [2023-10-05, 14:04:30](https://news.ycombinator.com/item?id=37778771) - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
+* [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:15:09](https://news.ycombinator.com/item?id=37778186) - [School shooting hoaxes have terrorized kids across U.S.](https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/)
 * [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
@@ -15,7 +16,6 @@
 * [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 10:41:07](https://news.ycombinator.com/item?id=37776935) - [Show HN: Use your familiar Markdown editor to create and publish web pages](https://amarkdown.com/)
 * [2023-10-05, 10:27:51](https://news.ycombinator.com/item?id=37776854) - [September was the most anomalously hot month ever](https://www.scientificamerican.com/article/september-was-the-most-anomalously-hot-month-ever/)
-* [2023-10-05, 10:09:24](https://news.ycombinator.com/item?id=37776743) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
 * [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
 * [2023-10-05, 06:48:27](https://news.ycombinator.com/item?id=37775574) - [F3D is an open source 3D viewer, fast and minimalist](https://f3d.app//)
