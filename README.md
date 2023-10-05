@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 17:23:06](https://news.ycombinator.com/item?id=37781334) - [A Database for Game Engines](https://enginesdatabase.com/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
 * [2023-10-05, 17:00:12](https://news.ycombinator.com/item?id=37781076) - [PropelAuth (YC W22) Is Hiring Rust Developers](https://www.ycombinator.com/companies/propelauth/jobs/NogUaq4-backend-engineer)
 * [2023-10-05, 16:56:56](https://news.ycombinator.com/item?id=37781022) - [Booking.com makes a fortune – so why is it leaving its bills to hotels unpaid?](https://www.theguardian.com/business/2023/oct/03/bookingcom-makes-a-fortune-so-why-is-it-leaving-its-bills-to-small-hotels-unpaid)
-* [2023-10-05, 16:54:25](https://news.ycombinator.com/item?id=37780991) - [Searches for Noah's Ark](https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark)
 * [2023-10-05, 16:17:37](https://news.ycombinator.com/item?id=37780514) - [Astronomers Watched a Star Disappear. Now JWST Might Have Some Answers](https://www.universetoday.com/163473/astronomers-watched-a-massive-star-just-disappear-now-jwst-might-have-some-answers/)
 * [2023-10-05, 15:52:13](https://news.ycombinator.com/item?id=37780204) - [Google agrees to reform its data terms after German antitrust intervention](https://techcrunch.com/2023/10/05/google-data-terms-fco/)
 * [2023-10-05, 15:52:01](https://news.ycombinator.com/item?id=37780199) - [OpenAI's justification for why training data is fair use, not infringement [pdf]](https://www.uspto.gov/sites/default/files/documents/OpenAI_RFC-84-FR-58141.pdf)
