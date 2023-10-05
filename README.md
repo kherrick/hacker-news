@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 09:41:53](https://news.ycombinator.com/item?id=37776605) - [Can You Customize My Startup's Login Page?](https://ph-uhl.com/can-you-customize-my-startup-s-login-page/)
 * [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
@@ -22,7 +23,6 @@
 * [2023-10-04, 19:21:53](https://news.ycombinator.com/item?id=37770260) - [Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/)
 * [2023-10-04, 19:19:35](https://news.ycombinator.com/item?id=37770233) - [Security weaknesses of Copilot generated code in GitHub](https://arxiv.org/abs/2310.02059)
 * [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
-* [2023-10-04, 18:30:05](https://news.ycombinator.com/item?id=37769546) - [MiniOS – a lightweight Linux distribution designed for USB drive](https://minios.dev)
 * [2023-10-04, 18:01:14](https://news.ycombinator.com/item?id=37769139) - [Eliminating radio interference from Apple charger](https://oh8hub.substack.com/p/eliminating-radio-interference-from)
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
 * [2023-10-04, 14:20:00](https://news.ycombinator.com/item?id=37765605) - [When is a Feature Factory... not?](https://honestprod.substack.com/p/when-is-a-feature-factorynot)
