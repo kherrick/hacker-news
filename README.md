@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 02:06:10](https://news.ycombinator.com/item?id=37774127) - [Meta Reportedly Laying Off Custom Chip Staff](https://www.uploadvr.com/meta-laying-off-custom-silicon-engineers-qualcomm-partnership/)
 * [2023-10-05, 01:42:59](https://news.ycombinator.com/item?id=37774004) - [Google Pixel Watch 2](https://store.google.com/us/product/pixel_watch_2?hl=en-US)
 * [2023-10-05, 01:30:32](https://news.ycombinator.com/item?id=37773918) - [LLMs Confabulate Not Hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
 * [2023-10-05, 01:01:57](https://news.ycombinator.com/item?id=37773731) - [U.S. Tech Workers Are Experiencing a Drop in Salaries in the Bay Area](https://www.forbes.com/sites/jackkelly/2023/10/04/us-tech-workers-are-experiencing-a-drop-in-salaries-and-in-the-number-of-jobs-available-in-the-bay-area/)
@@ -23,7 +24,6 @@
 * [2023-10-04, 13:12:45](https://news.ycombinator.com/item?id=37764581) - [An interactive intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 13:04:52](https://news.ycombinator.com/item?id=37764489) - [Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html)
 * [2023-10-04, 12:22:58](https://news.ycombinator.com/item?id=37764088) - [1.3B Worldcat scrape and data science mini-competition](https://annas-blog.org/worldcat-scrape.html)
-* [2023-10-04, 11:51:17](https://news.ycombinator.com/item?id=37763822) - [Show HN: Shuttle – Build and ship backends without writing infrastructure files](https://github.com/shuttle-hq/shuttle)
 * [2023-10-03, 16:49:22](https://news.ycombinator.com/item?id=37754377) - [Puzzle Languages (2009)](https://prog21.dadgum.com/38.html)
 * [2023-10-03, 13:01:33](https://news.ycombinator.com/item?id=37751270) - [Extism makes WebAssembly easy](https://dylibso.com/blog/why-extism/)
 * [2023-10-03, 10:32:16](https://news.ycombinator.com/item?id=37750030) - [Five Kinds of Friends (2022)](http://sociological-eye.blogspot.com/2022/02/five-kinds-of-friends.html)
