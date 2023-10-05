@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-05, 19:16:05",
-      "https://news.ycombinator.com/item?id=37782945"
-    ],
-    [
-      "X confuses the masses by removing all details from links",
-      "https://www.theregister.com/2023/10/05/x_twitter_links_details/"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 18:57:21",
       "https://news.ycombinator.com/item?id=37782626"
     ],
@@ -21,12 +11,32 @@
   ],
   [
     [
+      "2023-10-05, 18:49:29",
+      "https://news.ycombinator.com/item?id=37782493"
+    ],
+    [
+      "How fast are Linux pipes anyway?",
+      "https://mazzo.li/posts/fast-pipes.html"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 17:44:59",
       "https://news.ycombinator.com/item?id=37781612"
     ],
     [
       "Safety vs. Performance. A case study of C, C++ and Rust sort implementations",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 17:17:28",
+      "https://news.ycombinator.com/item?id=37781266"
+    ],
+    [
+      "Windows Copilot's is showing third-party Ads to Windows users",
+      "https://www.ghacks.net/2023/10/03/windows-copilots-is-showing-third-party-ads-to-windows-users/"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-10-05, 15:08:35",
-      "https://news.ycombinator.com/item?id=37779591"
-    ],
-    [
-      "How to Balance Money and Meaning",
-      "https://every.to/no-small-plans/the-three-ways-to-balance-money-and-meaning"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 14:04:30",
       "https://news.ycombinator.com/item?id=37778771"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2023-10-05, 12:47:24",
-      "https://news.ycombinator.com/item?id=37777897"
+      "2023-10-05, 12:57:52",
+      "https://news.ycombinator.com/item?id=37778010"
     ],
     [
-      "Ask HN: Does your microwave interfere with Bluetooth? Mine does",
-      "https://news.ycombinator.com/item?id=37777897"
+      "The Proof of Innocence",
+      "https://fermatslibrary.com/s/the-proof-of-innocence"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2023-10-05, 11:45:38",
-      "https://news.ycombinator.com/item?id=37777362"
-    ],
-    [
-      "Show HN: OCI container of OBS Studio with 50 plugins included",
-      "https://github.com/ublue-os/obs-studio-portable"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 11:44:17",
       "https://news.ycombinator.com/item?id=37777347"
     ],
     [
       "Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search",
       "https://bitmagnet.io/"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 11:11:27",
+      "https://news.ycombinator.com/item?id=37777116"
+    ],
+    [
+      "International Earth Rotation and Reference Systems Service",
+      "https://www.iers.org/IERS/EN/Home/home_node.html"
     ]
   ],
   [
