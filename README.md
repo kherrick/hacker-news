@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
 * [2023-10-05, 12:01:02](https://news.ycombinator.com/item?id=37777494) - [Whalesync (YC S21) is hiring remote full-stack software engineers](https://jobs.polymer.co/whalesync/28574)
 * [2023-10-05, 11:59:01](https://news.ycombinator.com/item?id=37777479) - [HN search engine now shows Google's 404 error page](https://hn.algolia.com/)
 * [2023-10-05, 11:54:33](https://news.ycombinator.com/item?id=37777440) - [US Government issues first-ever space debris penalty to Dish Network](https://www.theguardian.com/science/2023/oct/02/fcc-space-debris-fine-dish-network-satellite)
@@ -20,7 +21,6 @@
 * [2023-10-05, 03:19:43](https://news.ycombinator.com/item?id=37774580) - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 * [2023-10-05, 02:45:50](https://news.ycombinator.com/item?id=37774366) - [President Speaking: Spoofing Alerts in 4G LTE Networks (2019) [pdf]](https://par.nsf.gov/servlets/purl/10150578)
 * [2023-10-05, 01:51:46](https://news.ycombinator.com/item?id=37774055) - [Classic Mac Video Signals Demystified Designing a Mac-to-VGA Adapter with LM1881](https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/)
-* [2023-10-05, 01:30:32](https://news.ycombinator.com/item?id=37773918) - [LLMs confabulate not hallucinate](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate/)
 * [2023-10-04, 20:37:20](https://news.ycombinator.com/item?id=37771373) - [The Ends of Knowledge](https://aeon.co/essays/should-academic-disciplines-have-both-a-purpose-and-a-finish-date)
 * [2023-10-04, 19:00:07](https://news.ycombinator.com/item?id=37769962) - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
 * [2023-10-04, 15:19:19](https://news.ycombinator.com/item?id=37766446) - [Pixel 8 Pro](https://store.google.com/product/pixel_8_pro?hl=en-US)
