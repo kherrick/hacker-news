@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 20:47:01](https://news.ycombinator.com/item?id=37796194) - [OpenStack Unleashes Bobcat: A Leap Forward in Open-Source Cloud Infrastructure](https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure)
 * [2023-10-06, 20:44:50](https://news.ycombinator.com/item?id=37796157) - [Charles H. Bennett's Shadows (ca. 1856)](https://publicdomainreview.org/collection/shadows/)
 * [2023-10-06, 20:15:17](https://news.ycombinator.com/item?id=37795751) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
 * [2023-10-06, 20:08:52](https://news.ycombinator.com/item?id=37795652) - [23andMe scraping incident leaked data on 1.3M users](https://therecord.media/scraping-incident-genetic-testing-site)
