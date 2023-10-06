@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 15:42:05](https://news.ycombinator.com/item?id=37792265) - [Where’s the beef? Middle-aged, American men ate all of it](https://bigthink.com/health/american-men-may-have-a-beef-problem/)
+* [2023-10-06, 15:30:13](https://news.ycombinator.com/item?id=37792104) - [Google Faces Grilling over Alleged Unfair Ad Practices in Antitrust Trial](https://www.pymnts.com/cpi_posts/google-faces-grilling-over-alleged-unfair-ad-practices-in-antitrust-trial/)
 * [2023-10-06, 15:24:19](https://news.ycombinator.com/item?id=37792030) - [Unreal Engine will no longer be free for all](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
 * [2023-10-06, 15:15:30](https://news.ycombinator.com/item?id=37791897) - [When allocators are hoarding your precious memory](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
 * [2023-10-06, 14:32:14](https://news.ycombinator.com/item?id=37791298) - [Oh-My-God Particle](https://en.wikipedia.org/wiki/Oh-My-God_particle)
