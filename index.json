@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-10-06, 13:59:55",
-      "https://news.ycombinator.com/item?id=37790899"
-    ],
-    [
-      "Sam Altman's sister's tweets saying he sexually abused her being flagged on HN",
-      "https://news.ycombinator.com/item?id=37790899"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 13:47:32",
       "https://news.ycombinator.com/item?id=37790745"
     ],
     [
-      "Thread-per-Core",
+      "Thread-per-core",
       "https://without.boats/blog/thread-per-core/"
     ]
   ],
@@ -35,8 +25,18 @@
       "https://news.ycombinator.com/item?id=37790711"
     ],
     [
-      "Meta's New AI Dating Coach Will Kink Shame You (Unless You're into Foot Stuff)",
+      "Meta's new AI dating coach will kink shame you (unless you're into foot stuff)",
       "https://gizmodo.com/metas-new-ai-dating-coach-will-kink-shame-you-1850904198"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 13:37:51",
+      "https://news.ycombinator.com/item?id=37790630"
+    ],
+    [
+      "Google promises Germany to creep on users less after market power probe",
+      "https://www.theregister.com/2023/10/06/google_bundeskartellamt_data_processing/"
     ]
   ],
   [
@@ -161,22 +161,22 @@
   ],
   [
     [
-      "2023-10-06, 06:36:09",
-      "https://news.ycombinator.com/item?id=37787775"
-    ],
-    [
-      "Dear Spotify, stop treating your users like testers",
-      "https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 03:12:45",
       "https://news.ycombinator.com/item?id=37786781"
     ],
     [
       "OpenPubKey and Sigstore",
       "https://blog.sigstore.dev/openpubkey-and-sigstore/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 02:36:09",
+      "https://news.ycombinator.com/item?id=37786616"
+    ],
+    [
+      "Show HN: Decorate Java stack traces with source code snippets",
+      "https://github.com/laech/java-stacksrc"
     ]
   ],
   [
