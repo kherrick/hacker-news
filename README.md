@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 04:31:36](https://news.ycombinator.com/item?id=37787130) - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 * [2023-10-06, 02:43:49](https://news.ycombinator.com/item?id=37786653) - [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
 * [2023-10-06, 02:18:27](https://news.ycombinator.com/item?id=37786525) - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
@@ -25,10 +26,9 @@
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:35:36](https://news.ycombinator.com/item?id=37778421) - [Matrix Operations with Math.js](https://www.robinwieruch.de/linear-algebra-matrix-javascript/)
-* [2023-10-05, 13:27:38](https://news.ycombinator.com/item?id=37778334) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
 * [2023-10-05, 13:04:14](https://news.ycombinator.com/item?id=37778082) - [The Return of a Small Universe?](https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/)
-* [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Database Performance at Scale – A free book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
+* [2023-10-05, 11:02:52](https://news.ycombinator.com/item?id=37777063) - [The Deq Tattooist: Preserving the ink of a disappearing culture](https://www.aljazeera.com/features/longform/2023/1/8/deq-the-tattooist-preserving-the-ink-of-a-disappearing-culture)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 
 ## [Archives](archives/index.md)
