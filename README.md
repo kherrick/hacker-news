@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 18:29:19](https://news.ycombinator.com/item?id=37794381) - [Jobs report shock: American economy added a stunning 336,000 jobs in September](https://www.cnn.com/business/live-news/markets-jobs-report-september/index.html)
 * [2023-10-06, 18:00:28](https://news.ycombinator.com/item?id=37793941) - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
 * [2023-10-06, 17:49:10](https://news.ycombinator.com/item?id=37793788) - [Support HDR images in your app [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
 * [2023-10-06, 17:35:36](https://news.ycombinator.com/item?id=37793635) - [AMD May Get Across the CUDA Moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
@@ -13,7 +14,6 @@
 * [2023-10-06, 15:44:33](https://news.ycombinator.com/item?id=37792300) - [Ask HN: Sales Tips for Solo Devs](https://news.ycombinator.com/item?id=37792300)
 * [2023-10-06, 15:44:13](https://news.ycombinator.com/item?id=37792294) - [Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)](https://clojure.org/news/2023/10/06/deref)
 * [2023-10-06, 15:31:41](https://news.ycombinator.com/item?id=37792129) - [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
-* [2023-10-06, 15:24:19](https://news.ycombinator.com/item?id=37792030) - [Unreal Engine will no longer be free for all](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
 * [2023-10-06, 15:15:30](https://news.ycombinator.com/item?id=37791897) - [When allocators are hoarding your precious memory](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
 * [2023-10-06, 14:18:59](https://news.ycombinator.com/item?id=37791116) - [EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
 * [2023-10-06, 14:14:09](https://news.ycombinator.com/item?id=37791060) - [SudoLang: a programming language designed to collaborate with AI language models](https://github.com/paralleldrive/sudolang-llm-support)
