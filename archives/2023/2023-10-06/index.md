@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 22:27:35](https://news.ycombinator.com/item?id=37797164) - [Bored Apes' Yuga Labs lays off employees](https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees)
 * [2023-10-06, 22:09:24](https://news.ycombinator.com/item?id=37797012) - [Show HN: What to read after? Personalised AI book recommendations](https://whattoreadafter.xyz/ai-librarian)
 * [2023-10-06, 21:53:05](https://news.ycombinator.com/item?id=37796913) - [US science agencies on track to hit 25-year funding low](https://www.nature.com/articles/d41586-023-03135-x)
 * [2023-10-06, 21:46:50](https://news.ycombinator.com/item?id=37796863) - [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
