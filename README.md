@@ -28,7 +28,7 @@
 * [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
 * [2023-10-06, 02:25:09](https://news.ycombinator.com/item?id=37786561) - [America's Steam Empire](https://technicshistory.com/2023/10/06/americas-steam-empire/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
-* [2023-10-05, 20:44:47](https://news.ycombinator.com/item?id=37784071) - [The Details Are in the Devil’s Tumors](https://hakaimagazine.com/features/the-details-are-in-the-devils-tumors/)
+* [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How Will AI Learn Next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
 * [2023-10-05, 20:08:38](https://news.ycombinator.com/item?id=37783654) - [Supernova in 1006](https://en.wikipedia.org/wiki/SN_1006)
 
 ## [Archives](archives/index.md)
