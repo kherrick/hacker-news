@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-06, 04:51:29",
-      "https://news.ycombinator.com/item?id=37787205"
-    ],
-    [
-      "Chinese Netizen Fined over 1M Yuan for Using VPN",
-      "https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 04:31:36",
       "https://news.ycombinator.com/item?id=37787130"
     ],
@@ -71,16 +61,6 @@
   ],
   [
     [
-      "2023-10-06, 00:13:23",
-      "https://news.ycombinator.com/item?id=37785837"
-    ],
-    [
-      "Show HN: A tool to Convert JSON schemas into TypeScript Deno classes",
-      "https://github.com/leigna/json-schema-to-ts-util"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 23:53:51",
       "https://news.ycombinator.com/item?id=37785706"
     ],
@@ -111,12 +91,32 @@
   ],
   [
     [
+      "2023-10-05, 21:13:07",
+      "https://news.ycombinator.com/item?id=37784373"
+    ],
+    [
+      "In-kernel QUIC implementation with Userspace handshake",
+      "https://github.com/lxin/quic"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 19:21:42",
       "https://news.ycombinator.com/item?id=37783025"
     ],
     [
       "Test Anything Protocol",
       "https://testanything.org/"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 19:00:36",
+      "https://news.ycombinator.com/item?id=37782687"
+    ],
+    [
+      "Fluorescent mammals are far more common than earlier thought",
+      "https://www.theguardian.com/science/2023/oct/04/positively-glowing-fluorescent-mammals-are-far-more-common-than-earlier-thought-study-suggests"
     ]
   ],
   [
