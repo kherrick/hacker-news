@@ -2,6 +2,7 @@
 
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
 * [2023-10-06, 10:30:00](https://news.ycombinator.com/item?id=37788952) - [OpenAI’s ChatGPT Is the Whole Game Studio [video]](https://www.youtube.com/watch?v=Zlgkzjndpak)
+* [2023-10-06, 10:19:22](https://news.ycombinator.com/item?id=37788906) - [Airbnb guest stays at LA rental for 500 days without paying, refuses to leave](https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying)
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
 * [2023-10-06, 09:45:00](https://news.ycombinator.com/item?id=37788747) - [When does an old iPhone become unsafe to use?](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
@@ -20,7 +21,6 @@
 * [2023-10-05, 21:13:07](https://news.ycombinator.com/item?id=37784373) - [In-kernel QUIC implementation with Userspace handshake](https://github.com/lxin/quic)
 * [2023-10-05, 20:44:47](https://news.ycombinator.com/item?id=37784071) - [The Details Are in the Devil’s Tumors](https://hakaimagazine.com/features/the-details-are-in-the-devils-tumors/)
 * [2023-10-05, 20:08:38](https://news.ycombinator.com/item?id=37783654) - [Supernova in 1006](https://en.wikipedia.org/wiki/SN_1006)
-* [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol](https://testanything.org/)
 * [2023-10-05, 19:00:36](https://news.ycombinator.com/item?id=37782687) - [Fluorescent mammals are far more common than earlier thought](https://www.theguardian.com/science/2023/oct/04/positively-glowing-fluorescent-mammals-are-far-more-common-than-earlier-thought-study-suggests)
 * [2023-10-05, 18:57:21](https://news.ycombinator.com/item?id=37782626) - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
 * [2023-10-05, 18:50:10](https://news.ycombinator.com/item?id=37782513) - [Show HN: An app store just for installable web apps](https://store.app)
