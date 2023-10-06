@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 20:15:17](https://news.ycombinator.com/item?id=37795751) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
+* [2023-10-06, 20:05:33](https://news.ycombinator.com/item?id=37795608) - [America Needs to Build More (and Better) Ships](https://www.liberalpatriot.com/p/economic-strength-for-maritime-security)
 * [2023-10-06, 19:45:17](https://news.ycombinator.com/item?id=37795328) - [Why audio-only deepfakes are uniquely threatening to elections](https://aipoliticalpulse.substack.com/p/the-deepfake-issue)
 * [2023-10-06, 19:40:41](https://news.ycombinator.com/item?id=37795278) - [A 20MP Sensor in a Film Canister Reinvigorates Vintage Analog Cameras](https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/)
 * [2023-10-06, 19:34:07](https://news.ycombinator.com/item?id=37795179) - [More Than 80 Percent of Americans Can't Afford New Cars](https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956)

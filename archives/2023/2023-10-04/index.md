@@ -43,6 +43,7 @@
 * [2023-10-04, 16:40:38](https://news.ycombinator.com/item?id=37767796) - [Airbnb tenant refuses to leave for more than a year](https://www.latimes.com/california/story/2023-10-04/airbnb-guest-refuse-pay-leave-luxury-rental)
 * [2023-10-04, 16:37:29](https://news.ycombinator.com/item?id=37767722) - [Show HN: Running LLMs in one line of Python without Docker](https://www.lepton.ai/)
 * [2023-10-04, 16:35:53](https://news.ycombinator.com/item?id=37767692) - [Sequoia Captials Puff piece on SBF just before FTX's collapse](https://web.archive.org/web/20221027181005/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
+* [2023-10-04, 16:32:49](https://news.ycombinator.com/item?id=37767633) - [Researchers tested AI watermarks and broke all of them](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
 * [2023-10-04, 16:26:34](https://news.ycombinator.com/item?id=37767525) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 * [2023-10-04, 16:15:42](https://news.ycombinator.com/item?id=37767335) - [Tech doesn’t make our lives easier. It makes them faster](https://brettscott.substack.com/p/tech-doesnt-make-our-lives-easier)
 * [2023-10-04, 16:06:41](https://news.ycombinator.com/item?id=37767205) - [AI Detectors: I Hate Being a Student in the Modern Age](https://twitter.com/rustykitty_/status/1709316764868153537)
