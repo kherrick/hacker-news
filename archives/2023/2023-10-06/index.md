@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 12:57:27](https://news.ycombinator.com/item?id=37790174) - [Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
+* [2023-10-06, 12:43:20](https://news.ycombinator.com/item?id=37790004) - [Will workers hired as Remote all be laid off in next wave?](https://news.ycombinator.com/item?id=37790004)
+* [2023-10-06, 12:39:11](https://news.ycombinator.com/item?id=37789963) - [Sam Altman's sister says he sexually abused her when she was 4](https://twitter.com/phuckfilosophy/status/1635704398939832321)
+* [2023-10-06, 11:56:36](https://news.ycombinator.com/item?id=37789514) - [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 11:25:25](https://news.ycombinator.com/item?id=37789290) - [Productivity has grown faster in Western Europe than in America](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
@@ -18,6 +22,7 @@
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 06:59:25](https://news.ycombinator.com/item?id=37787901) - [Reversing 'France Identité': The New French Digital ID](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
 * [2023-10-06, 06:48:21](https://news.ycombinator.com/item?id=37787851) - [Towards Monosemanticity: Decomposing Language Models with Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+* [2023-10-06, 06:36:09](https://news.ycombinator.com/item?id=37787775) - [Dear Spotify, stop treating your users like testers](https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc)
 * [2023-10-06, 04:51:29](https://news.ycombinator.com/item?id=37787205) - [Chinese Netizen Fined over 1M Yuan for Using VPN](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
 * [2023-10-06, 04:31:36](https://news.ycombinator.com/item?id=37787130) - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
