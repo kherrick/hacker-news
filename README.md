@@ -13,6 +13,7 @@
 * [2023-10-05, 18:50:10](https://news.ycombinator.com/item?id=37782513) - [Show HN: An app store just for installable web apps](https://store.app)
 * [2023-10-05, 18:49:29](https://news.ycombinator.com/item?id=37782493) - [How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html)
 * [2023-10-05, 18:03:22](https://news.ycombinator.com/item?id=37781862) - [HP fails to derail claims that it bricks scanners on printers when ink runs low](https://abcnews.go.com/Technology/wireStory/hp-fails-derail-claims-bricks-scanners-multifunction-printers-102286365)
+* [2023-10-05, 18:01:13](https://news.ycombinator.com/item?id=37781832) - [Dot Dotat.at](https://dotat.at/email.html)
 * [2023-10-05, 17:53:52](https://news.ycombinator.com/item?id=37781735) - [Lockheed CEO Pitches Pentagon on Subscription Software](https://news.usni.org/2023/10/04/lockheed-ceo-pitches-pentagon-on-subscription-software)
 * [2023-10-05, 17:48:36](https://news.ycombinator.com/item?id=37781663) - [Birdsong Visualizer](https://webfft.net/cir/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
@@ -28,7 +29,6 @@
 * [2023-10-05, 13:04:14](https://news.ycombinator.com/item?id=37778082) - [The Return of a Small Universe?](https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/)
 * [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Database Performance at Scale – A free book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
-* [2023-10-05, 11:02:52](https://news.ycombinator.com/item?id=37777063) - [The Deq Tattooist: Preserving the ink of a disappearing culture](https://www.aljazeera.com/features/longform/2023/1/8/deq-the-tattooist-preserving-the-ink-of-a-disappearing-culture)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 
 ## [Archives](archives/index.md)
