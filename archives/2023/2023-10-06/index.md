@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 08:54:43](https://news.ycombinator.com/item?id=37788454) - [Slack Is Down](https://slack.com/?nojsmode=1)
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 04:51:29](https://news.ycombinator.com/item?id=37787205) - [Chinese Netizen Fined over 1M Yuan for Using VPN](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
 * [2023-10-06, 04:31:36](https://news.ycombinator.com/item?id=37787130) - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)

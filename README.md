@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 08:54:43](https://news.ycombinator.com/item?id=37788454) - [Slack Is Down](https://slack.com/?nojsmode=1)
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 04:31:36](https://news.ycombinator.com/item?id=37787130) - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
@@ -27,7 +28,6 @@
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:35:36](https://news.ycombinator.com/item?id=37778421) - [Matrix Operations with Math.js](https://www.robinwieruch.de/linear-algebra-matrix-javascript/)
-* [2023-10-05, 13:04:14](https://news.ycombinator.com/item?id=37778082) - [The Return of a Small Universe?](https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 
