@@ -4,7 +4,7 @@
 * [2023-10-06, 04:31:36](https://news.ycombinator.com/item?id=37787130) - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 * [2023-10-06, 02:43:49](https://news.ycombinator.com/item?id=37786653) - [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
-* [2023-10-06, 02:18:27](https://news.ycombinator.com/item?id=37786525) - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
+* [2023-10-06, 02:36:09](https://news.ycombinator.com/item?id=37786616) - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
 * [2023-10-06, 00:27:09](https://news.ycombinator.com/item?id=37785920) - [Gboard Hat Version](https://landing.google.co.jp/caps/)
 * [2023-10-05, 23:53:51](https://news.ycombinator.com/item?id=37785706) - [Nine ways to break your systems code using volatile](https://blog.regehr.org/archives/28)
 * [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)

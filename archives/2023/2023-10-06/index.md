@@ -8,6 +8,7 @@
 * [2023-10-06, 04:31:36](https://news.ycombinator.com/item?id=37787130) - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 * [2023-10-06, 02:43:49](https://news.ycombinator.com/item?id=37786653) - [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
+* [2023-10-06, 02:36:09](https://news.ycombinator.com/item?id=37786616) - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
 * [2023-10-06, 02:18:27](https://news.ycombinator.com/item?id=37786525) - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
 * [2023-10-06, 02:07:59](https://news.ycombinator.com/item?id=37786472) - [US transition to clean energy is happening faster than you think, reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
 * [2023-10-06, 01:31:10](https://news.ycombinator.com/item?id=37786276) - [Ring Is Cashing in on the UFO Craze to Promote Its Surveillance Dystopia](https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia)
