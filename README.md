@@ -11,7 +11,7 @@
 * [2023-10-06, 01:49:04](https://news.ycombinator.com/item?id=37786366) - [A prehistoric cosmic airburst preceded the advent of agriculture in the Levant](https://phys.org/news/2023-10-prehistoric-cosmic-airburst-advent-agriculture.html)
 * [2023-10-06, 00:27:09](https://news.ycombinator.com/item?id=37785920) - [Gboard Hat Version](https://landing.google.co.jp/caps/)
 * [2023-10-06, 00:13:23](https://news.ycombinator.com/item?id=37785837) - [Show HN: A tool to Convert JSON schemas into TypeScript Deno classes](https://github.com/leigna/json-schema-to-ts-util)
-* [2023-10-05, 23:53:51](https://news.ycombinator.com/item?id=37785706) - [Nine ways to break your systems code using volatile](https://blog.regehr.org/archives/28)
+* [2023-10-05, 23:53:51](https://news.ycombinator.com/item?id=37785706) - [Nine ways to break your systems code using volatile (2010)](https://blog.regehr.org/archives/28)
 * [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
 * [2023-10-05, 23:19:33](https://news.ycombinator.com/item?id=37785451) - [A simple, arena-backed, generic dynamic array for C](https://nullprogram.com/blog/2023/10/05/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
