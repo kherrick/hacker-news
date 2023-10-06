@@ -6,6 +6,7 @@
 
 * [2023-10-06, 18:00:28](https://news.ycombinator.com/item?id=37793941) - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
 * [2023-10-06, 17:49:10](https://news.ycombinator.com/item?id=37793788) - [Apple put their weight behind an open HDR standard called “ISO/TS 22028-5” [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
+* [2023-10-06, 17:35:36](https://news.ycombinator.com/item?id=37793635) - [AMD May Get Across the CUDA Moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
 * [2023-10-06, 17:20:29](https://news.ycombinator.com/item?id=37793466) - [Overshooting Earth’s Boundaries: An Interview with Bill Rees](https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/)
 * [2023-10-06, 17:13:01](https://news.ycombinator.com/item?id=37793375) - [Tell HN: \"Ad blockers are not allowed on YouTube”](https://news.ycombinator.com/item?id=37793375)
 * [2023-10-06, 16:55:58](https://news.ycombinator.com/item?id=37793185) - [Ozempic linked to stomach paralysis, other gastrointestinal issues: UBC study](https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/)
