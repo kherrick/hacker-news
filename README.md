@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 15:15:30](https://news.ycombinator.com/item?id=37791897) - [When allocators are hoarding your precious memory](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
 * [2023-10-06, 14:32:14](https://news.ycombinator.com/item?id=37791298) - [Oh-My-God Particle](https://en.wikipedia.org/wiki/Oh-My-God_particle)
 * [2023-10-06, 14:23:42](https://news.ycombinator.com/item?id=37791165) - [Humans are biased. Generative AI is even worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
 * [2023-10-06, 14:18:59](https://news.ycombinator.com/item?id=37791116) - [EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
@@ -17,7 +18,6 @@
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Narges Mohammadi wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
 * [2023-10-06, 09:13:29](https://news.ycombinator.com/item?id=37788595) - [A California hedge fund bulldozed state labor laws, imposed harshest noncompetes](https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9)
 * [2023-10-06, 08:46:41](https://news.ycombinator.com/item?id=37788420) - [NSA publishes ten most common misconfigurations in networks](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a)
-* [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 06:48:21](https://news.ycombinator.com/item?id=37787851) - [Towards Monosemanticity: Decomposing Language Models with Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 * [2023-10-06, 02:25:09](https://news.ycombinator.com/item?id=37786561) - [America's Steam Empire](https://technicshistory.com/2023/10/06/americas-steam-empire/)
