@@ -20,6 +20,7 @@
 * [2023-10-06, 15:44:13](https://news.ycombinator.com/item?id=37792294) - [Java 21 VirtualThreads vs. Clojure Lazy Seqs](https://clojure.org/news/2023/10/06/deref)
 * [2023-10-06, 15:31:41](https://news.ycombinator.com/item?id=37792129) - [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
 * [2023-10-06, 15:15:30](https://news.ycombinator.com/item?id=37791897) - [When allocators are hoarding your precious memory](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
+* [2023-10-06, 14:18:59](https://news.ycombinator.com/item?id=37791116) - [EU Grabs ARM for First ExaFLOP Supercomputer](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
 * [2023-10-06, 14:14:09](https://news.ycombinator.com/item?id=37791060) - [SudoLang: a programming language designed to collaborate with AI language models](https://github.com/paralleldrive/sudolang-llm-support)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 12:07:37](https://news.ycombinator.com/item?id=37789617) - [How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
@@ -27,7 +28,6 @@
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 10:12:22](https://news.ycombinator.com/item?id=37788875) - [Walkers in the City and Everywhere: on Psychogeography](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
 * [2023-10-06, 09:45:00](https://news.ycombinator.com/item?id=37788747) - [When does an old iPhone become unsafe to use?](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
-* [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How Will AI Learn Next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 * [2023-10-04, 16:32:49](https://news.ycombinator.com/item?id=37767633) - [Researchers tested AI watermarks and broke all of them](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
 
