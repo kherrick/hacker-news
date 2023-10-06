@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 21:34:31](https://news.ycombinator.com/item?id=37796729) - [Up to tenth of Amazon shoppers in GB 'bribed' by sellers to offer good review](https://www.theguardian.com/technology/2023/sep/28/up-to-tenth-of-amazon-shoppers-in-great-britain-bribed-by-sellers-to-offer-good-review-poll-finds)
 * [2023-10-06, 21:06:59](https://news.ycombinator.com/item?id=37796428) - [Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
 * [2023-10-06, 20:44:50](https://news.ycombinator.com/item?id=37796157) - [Charles H. Bennett's Shadows (ca. 1856)](https://publicdomainreview.org/collection/shadows/)
@@ -23,11 +24,10 @@
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 12:07:37](https://news.ycombinator.com/item?id=37789617) - [How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
-* [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [We’re opening up access to Gov.uk forms](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+* [2023-10-06, 10:54:33](https://news.ycombinator.com/item?id=37789106) - [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
 * [2023-10-06, 10:12:22](https://news.ycombinator.com/item?id=37788875) - [Walkers in the City and Everywhere: on Psychogeography](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
 * [2023-10-06, 09:45:00](https://news.ycombinator.com/item?id=37788747) - [When does an old iPhone become unsafe to use?](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
 * [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
-* [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 * [2023-10-04, 16:32:49](https://news.ycombinator.com/item?id=37767633) - [Researchers tested AI watermarks and broke all of them](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
 
