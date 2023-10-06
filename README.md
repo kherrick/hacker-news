@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+* [2023-10-06, 10:18:19](https://news.ycombinator.com/item?id=37788903) - [The $53.000 Intel Mac Pro won't be usable for developing VisionOS apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes#)
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 06:59:25](https://news.ycombinator.com/item?id=37787901) - [Reversing 'France Identité': The New French Digital ID](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
@@ -9,7 +11,6 @@
 * [2023-10-06, 02:36:09](https://news.ycombinator.com/item?id=37786616) - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
 * [2023-10-06, 01:58:46](https://news.ycombinator.com/item?id=37786415) - [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
 * [2023-10-06, 01:49:04](https://news.ycombinator.com/item?id=37786366) - [A prehistoric cosmic airburst preceded the advent of agriculture in the Levant](https://phys.org/news/2023-10-prehistoric-cosmic-airburst-advent-agriculture.html)
-* [2023-10-06, 00:27:09](https://news.ycombinator.com/item?id=37785920) - [Gboard Hat Version](https://landing.google.co.jp/caps/)
 * [2023-10-06, 00:13:23](https://news.ycombinator.com/item?id=37785837) - [Show HN: A tool to Convert JSON schemas into TypeScript Deno classes](https://github.com/leigna/json-schema-to-ts-util)
 * [2023-10-05, 23:53:51](https://news.ycombinator.com/item?id=37785706) - [Nine ways to break your systems code using volatile (2010)](https://blog.regehr.org/archives/28)
 * [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
@@ -28,7 +29,6 @@
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:35:36](https://news.ycombinator.com/item?id=37778421) - [Matrix Operations with Math.js](https://www.robinwieruch.de/linear-algebra-matrix-javascript/)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
-* [2023-10-05, 11:02:52](https://news.ycombinator.com/item?id=37777063) - [The Deq Tattooist: Preserving the ink of a disappearing culture](https://www.aljazeera.com/features/longform/2023/1/8/deq-the-tattooist-preserving-the-ink-of-a-disappearing-culture)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 
 ## [Archives](archives/index.md)

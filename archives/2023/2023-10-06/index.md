@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+* [2023-10-06, 10:18:19](https://news.ycombinator.com/item?id=37788903) - [The $53.000 Intel Mac Pro won't be usable for developing VisionOS apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes#)
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
 * [2023-10-06, 08:54:43](https://news.ycombinator.com/item?id=37788454) - [Slack Is Down](https://slack.com/?nojsmode=1)
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
