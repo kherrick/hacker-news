@@ -90,6 +90,7 @@
 * [2023-10-05, 09:14:07](https://news.ycombinator.com/item?id=37776450) - [What Is the Point of Decidability](https://lists.ugent.be/wws/arc/fom/2023-10/msg00004.html)
 * [2023-10-05, 08:36:19](https://news.ycombinator.com/item?id=37776204) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
+* [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 * [2023-10-05, 07:59:13](https://news.ycombinator.com/item?id=37775954) - [There's No Such Thing as “Implicitly Atomic”](https://belkadan.com/blog/2023/10/Implicity-Atomic/)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo-creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
