@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
 * [2023-10-06, 10:30:00](https://news.ycombinator.com/item?id=37788952) - [OpenAI’s ChatGPT Is the Whole Game Studio [video]](https://www.youtube.com/watch?v=Zlgkzjndpak)
 * [2023-10-06, 10:19:22](https://news.ycombinator.com/item?id=37788906) - [Airbnb guest stays at LA rental for 500 days without paying, refuses to leave](https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying)
@@ -8,7 +9,6 @@
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 06:59:25](https://news.ycombinator.com/item?id=37787901) - [Reversing 'France Identité': The New French Digital ID](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
-* [2023-10-06, 02:43:49](https://news.ycombinator.com/item?id=37786653) - [Google's agreement with Samsung prevented Branch from launching: testimony](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
 * [2023-10-06, 02:36:09](https://news.ycombinator.com/item?id=37786616) - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
 * [2023-10-06, 01:58:46](https://news.ycombinator.com/item?id=37786415) - [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
 * [2023-10-06, 01:49:04](https://news.ycombinator.com/item?id=37786366) - [A prehistoric cosmic airburst preceded the advent of agriculture in the Levant](https://phys.org/news/2023-10-prehistoric-cosmic-airburst-advent-agriculture.html)
