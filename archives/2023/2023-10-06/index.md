@@ -8,6 +8,7 @@
 * [2023-10-06, 19:02:09](https://news.ycombinator.com/item?id=37794809) - [X rolls out new ad format that can't be reported, blocked](https://mashable.com/article/twitter-x-new-clickbait-ad-format)
 * [2023-10-06, 18:34:04](https://news.ycombinator.com/item?id=37794443) - [Phishing 2FA 25 years ago](https://twitter.com/123456/status/1710359310419607976)
 * [2023-10-06, 18:29:19](https://news.ycombinator.com/item?id=37794381) - [Jobs report shock: American economy added a stunning 336,000 jobs in September](https://www.cnn.com/business/live-news/markets-jobs-report-september/index.html)
+* [2023-10-06, 18:13:10](https://news.ycombinator.com/item?id=37794139) - [More than 75,000 Kaiser workers go on strike in clash with over wages](https://www.latimes.com/california/story/2023-10-04/75000-kaiser-workers-go-on-strike-disrupting-healthcare-in-california-and-beyond)
 * [2023-10-06, 18:00:28](https://news.ycombinator.com/item?id=37793941) - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
 * [2023-10-06, 17:49:10](https://news.ycombinator.com/item?id=37793788) - [Apple put their weight behind an open HDR standard called “ISO/TS 22028-5” [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
 * [2023-10-06, 17:35:36](https://news.ycombinator.com/item?id=37793635) - [AMD May Get Across the CUDA Moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
