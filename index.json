@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-10-06, 12:57:27",
+      "https://news.ycombinator.com/item?id=37790174"
+    ],
+    [
+      "Thirty Years Ago: MS-DOS 6.00",
+      "https://www.pcjs.org/blog/2023/10/04/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 12:43:20",
+      "https://news.ycombinator.com/item?id=37790004"
+    ],
+    [
+      "Will workers hired as Remote all be laid off in next wave?",
+      "https://news.ycombinator.com/item?id=37790004"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 12:39:11",
+      "https://news.ycombinator.com/item?id=37789963"
+    ],
+    [
+      "Sam Altman's sister says he sexually abused her when she was 4",
+      "https://twitter.com/phuckfilosophy/status/1635704398939832321"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 11:56:36",
+      "https://news.ycombinator.com/item?id=37789514"
+    ],
+    [
+      "Long gone, DEC is still powering the world of computing",
+      "https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 11:36:41",
       "https://news.ycombinator.com/item?id=37789371"
     ],
@@ -37,16 +77,6 @@
     [
       "Bus Sniffing the IBM 5150",
       "https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 10:30:00",
-      "https://news.ycombinator.com/item?id=37788952"
-    ],
-    [
-      "OpenAI’s ChatGPT Is the Whole Game Studio [video]",
-      "https://www.youtube.com/watch?v=Zlgkzjndpak"
     ]
   ],
   [
@@ -111,6 +141,16 @@
   ],
   [
     [
+      "2023-10-06, 06:36:09",
+      "https://news.ycombinator.com/item?id=37787775"
+    ],
+    [
+      "Dear Spotify, stop treating your users like testers",
+      "https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 03:12:45",
       "https://news.ycombinator.com/item?id=37786781"
     ],
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2023-10-06, 02:36:09",
-      "https://news.ycombinator.com/item?id=37786616"
-    ],
-    [
-      "Show HN: Decorate Java stack traces with source code snippets",
-      "https://github.com/laech/java-stacksrc"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 01:58:46",
       "https://news.ycombinator.com/item?id=37786415"
     ],
     [
       "Scientists discover the highest energy gamma-rays ever from a pulsar",
       "https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 01:49:04",
-      "https://news.ycombinator.com/item?id=37786366"
-    ],
-    [
-      "A prehistoric cosmic airburst preceded the advent of agriculture in the Levant",
-      "https://phys.org/news/2023-10-prehistoric-cosmic-airburst-advent-agriculture.html"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Nine ways to break your systems code using volatile (2010)",
       "https://blog.regehr.org/archives/28"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 23:50:12",
-      "https://news.ycombinator.com/item?id=37785680"
-    ],
-    [
-      "Play Leisure Suit Larry free in DOS running in browser",
-      "https://www.retrogames.cz/play_493-DOS.php"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Where does my computer get the time from?",
       "https://dotat.at/@/2023-05-26-whence-time.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 11:44:17",
-      "https://news.ycombinator.com/item?id=37777347"
-    ],
-    [
-      "Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search",
-      "https://bitmagnet.io/"
     ]
   ]
 ]
