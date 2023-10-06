@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 14:23:42](https://news.ycombinator.com/item?id=37791165) - [Humans are biased. Generative AI is even worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
+* [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 14:07:29](https://news.ycombinator.com/item?id=37790978) - [Casino giant MGM expects $100M hit from hack that led to data breach](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
 * [2023-10-06, 13:59:55](https://news.ycombinator.com/item?id=37790899) - [Sam Altman's sister's tweets saying he sexually abused her being flagged on HN](https://news.ycombinator.com/item?id=37790899)
 * [2023-10-06, 13:47:32](https://news.ycombinator.com/item?id=37790745) - [Thread-per-Core](https://without.boats/blog/thread-per-core/)
@@ -15,6 +17,7 @@
 * [2023-10-06, 12:43:20](https://news.ycombinator.com/item?id=37790004) - [Will workers hired as Remote all be laid off in next wave?](https://news.ycombinator.com/item?id=37790004)
 * [2023-10-06, 12:39:11](https://news.ycombinator.com/item?id=37789963) - [Sam Altman's sister says he sexually abused her when she was 4](https://twitter.com/phuckfilosophy/status/1635704398939832321)
 * [2023-10-06, 11:56:36](https://news.ycombinator.com/item?id=37789514) - [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
+* [2023-10-06, 11:43:12](https://news.ycombinator.com/item?id=37789416) - [US nutrition panel’s ties to top food giants revealed in new report](https://www.theguardian.com/society/2023/oct/06/us-government-nutrition-panel-report)
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 11:25:25](https://news.ycombinator.com/item?id=37789290) - [Productivity has grown faster in Western Europe than in America](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
