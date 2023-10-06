@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-10-06, 20:15:17",
+      "https://news.ycombinator.com/item?id=37795751"
+    ],
+    [
+      "Redox OS Development Priorities for 2023/24",
+      "https://www.redox-os.org/news/development-priorities-2023-09/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 20:05:33",
+      "https://news.ycombinator.com/item?id=37795608"
+    ],
+    [
+      "America Needs to Build More (and Better) Ships",
+      "https://www.liberalpatriot.com/p/economic-strength-for-maritime-security"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 19:45:17",
       "https://news.ycombinator.com/item?id=37795328"
     ],
     [
-      "Why audio-only deepfakes are uniquely threatening to elections",
+      "Deepfakes start ringing in voters' ears",
       "https://aipoliticalpulse.substack.com/p/the-deepfake-issue"
     ]
   ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2023-10-06, 17:49:10",
-      "https://news.ycombinator.com/item?id=37793788"
-    ],
-    [
-      "Support HDR images in your app [video]",
-      "https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 17:35:36",
       "https://news.ycombinator.com/item?id=37793635"
     ],
     [
-      "AMD May Get Across the CUDA Moat",
+      "AMD may get across the CUDA moat",
       "https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 17:20:29",
-      "https://news.ycombinator.com/item?id=37793466"
-    ],
-    [
-      "Overshooting Earth’s Boundaries: An Interview with Bill Rees",
-      "https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37792916"
     ],
     [
-      "Exploratory Data Analysis Using Awk",
+      "Exploratory data analysis for humanities data",
       "https://awk.dev/eda.html"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37792294"
     ],
     [
-      "Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)",
+      "Java 21 VirtualThreads vs. Clojure Lazy Seqs",
       "https://clojure.org/news/2023/10/06/deref"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37791116"
     ],
     [
-      "EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out",
+      "EU Grabs ARM for First ExaFLOP Supercomputer",
       "https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-10-05, 23:15:09",
-      "https://news.ycombinator.com/item?id=37785416"
-    ],
-    [
-      "How Will AI Learn Next?",
-      "https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 08:17:21",
       "https://news.ycombinator.com/item?id=37776079"
     ],
     [
       "The Workflow Pattern",
       "https://blog.bittacklr.be/the-workflow-pattern.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 16:32:49",
+      "https://news.ycombinator.com/item?id=37767633"
+    ],
+    [
+      "Researchers tested AI watermarks and broke all of them",
+      "https://www.wired.com/story/artificial-intelligence-watermarking-issues/"
     ]
   ]
 ]
