@@ -83,6 +83,7 @@
 * [2023-10-05, 10:41:07](https://news.ycombinator.com/item?id=37776935) - [Show HN: Use your familiar Markdown editor to create and publish web pages](https://amarkdown.com/)
 * [2023-10-05, 10:27:53](https://news.ycombinator.com/item?id=37776855) - [Should you buy or build tools for your business?](https://www.appsmith.com/blog/build-vs-buy-when-choosing-internal-tools)
 * [2023-10-05, 10:27:51](https://news.ycombinator.com/item?id=37776854) - [September was the most anomalously hot month ever](https://www.scientificamerican.com/article/september-was-the-most-anomalously-hot-month-ever/)
+* [2023-10-05, 10:10:33](https://news.ycombinator.com/item?id=37776750) - [Shift Happens: A book about keyboards](https://shifthappens.backerkit.com/hosted_preorders)
 * [2023-10-05, 10:09:24](https://news.ycombinator.com/item?id=37776743) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
 * [2023-10-05, 09:41:53](https://news.ycombinator.com/item?id=37776605) - [Can You Customize My Startup's Login Page?](https://ph-uhl.com/can-you-customize-my-startup-s-login-page/)
 * [2023-10-05, 09:21:19](https://news.ycombinator.com/item?id=37776492) - [Google Docs adds tracking to links in document exports](https://fosstodon.org/@Joe_0237/111145684757912952)
