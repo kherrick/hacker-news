@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-06, 19:34:07](https://news.ycombinator.com/item?id=37795179) - [More Than 80 Percent of Americans Can't Afford New Cars](https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956)
+* [2023-10-06, 19:45:17](https://news.ycombinator.com/item?id=37795328) - [Why audio-only deepfakes are uniquely threatening to elections](https://aipoliticalpulse.substack.com/p/the-deepfake-issue)
+* [2023-10-06, 19:40:41](https://news.ycombinator.com/item?id=37795278) - [A 20MP Sensor in a Film Canister Reinvigorates Vintage Analog Cameras](https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/)
 * [2023-10-06, 19:14:55](https://news.ycombinator.com/item?id=37794960) - [Show HN: A simple Pastebin Clone using Deno](https://github.com/JLCarveth/nutty)
 * [2023-10-06, 19:11:00](https://news.ycombinator.com/item?id=37794904) - [Show HN: Neobrutalism components – A collection of react-tailwind components](https://github.com/ekmas/neobrutalism-components)
 * [2023-10-06, 19:08:34](https://news.ycombinator.com/item?id=37794874) - [Chicago independently abolishes subminimum wage for tipped workers](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
@@ -28,7 +29,6 @@
 * [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
 * [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How Will AI Learn Next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
-* [2023-10-05, 20:08:38](https://news.ycombinator.com/item?id=37783654) - [Supernova in 1006](https://en.wikipedia.org/wiki/SN_1006)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 
 ## [Archives](archives/index.md)
