@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 02:07:59](https://news.ycombinator.com/item?id=37786472) - [US transition to clean energy is happening faster than you think, reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
 * [2023-10-06, 01:31:10](https://news.ycombinator.com/item?id=37786276) - [Ring Is Cashing in on the UFO Craze to Promote Its Surveillance Dystopia](https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia)
 * [2023-10-06, 00:27:09](https://news.ycombinator.com/item?id=37785920) - [Gboard Hat Version](https://landing.google.co.jp/caps/)
 * [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
@@ -28,7 +29,6 @@
 * [2023-10-05, 12:47:24](https://news.ycombinator.com/item?id=37777897) - [Ask HN: Does your microwave interfere with Bluetooth? Mine does](https://news.ycombinator.com/item?id=37777897)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 * [2023-10-05, 11:02:52](https://news.ycombinator.com/item?id=37777063) - [The Deq Tattooist: Preserving the ink of a disappearing culture](https://www.aljazeera.com/features/longform/2023/1/8/deq-the-tattooist-preserving-the-ink-of-a-disappearing-culture)
-* [2023-10-05, 10:59:52](https://news.ycombinator.com/item?id=37777050) - [HTTP/3 adoption is growing rapidly](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 
 ## [Archives](archives/index.md)
