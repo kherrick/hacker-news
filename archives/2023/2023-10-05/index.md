@@ -6,6 +6,7 @@
 
 * [2023-10-05, 23:53:51](https://news.ycombinator.com/item?id=37785706) - [Nine ways to break your systems code using volatile](https://blog.regehr.org/archives/28)
 * [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
+* [2023-10-05, 23:19:33](https://news.ycombinator.com/item?id=37785451) - [A simple, arena-backed, generic dynamic array for C](https://nullprogram.com/blog/2023/10/05/)
 * [2023-10-05, 22:53:19](https://news.ycombinator.com/item?id=37785253) - [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [The $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 21:13:07](https://news.ycombinator.com/item?id=37784373) - [In-kernel QUIC implementation with Userspace handshake](https://github.com/lxin/quic)
@@ -16,6 +17,7 @@
 * [2023-10-05, 19:25:33](https://news.ycombinator.com/item?id=37783081) - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol (Tap)](https://testanything.org/)
 * [2023-10-05, 19:16:05](https://news.ycombinator.com/item?id=37782945) - [X confuses the masses by removing all details from links](https://www.theregister.com/2023/10/05/x_twitter_links_details/)
+* [2023-10-05, 19:15:49](https://news.ycombinator.com/item?id=37782941) - [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.nature.com/articles/s41467-023-39888-2)
 * [2023-10-05, 19:00:36](https://news.ycombinator.com/item?id=37782687) - [Fluorescent mammals are far more common than earlier thought](https://www.theguardian.com/science/2023/oct/04/positively-glowing-fluorescent-mammals-are-far-more-common-than-earlier-thought-study-suggests)
 * [2023-10-05, 18:59:42](https://news.ycombinator.com/item?id=37782670) - [Gaia-1 a 9B parameter generative world model for autonomous driving](https://wayve.ai/thinking/scaling-gaia-1/)
 * [2023-10-05, 18:57:21](https://news.ycombinator.com/item?id=37782626) - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
