@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 15:24:19](https://news.ycombinator.com/item?id=37792030) - [Unreal Engine will no longer be free for all](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
 * [2023-10-06, 15:15:30](https://news.ycombinator.com/item?id=37791897) - [When allocators are hoarding your precious memory](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
 * [2023-10-06, 14:32:14](https://news.ycombinator.com/item?id=37791298) - [Oh-My-God Particle](https://en.wikipedia.org/wiki/Oh-My-God_particle)
 * [2023-10-06, 14:23:42](https://news.ycombinator.com/item?id=37791165) - [Humans are biased. Generative AI is even worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
@@ -23,6 +24,7 @@
 * [2023-10-06, 12:39:11](https://news.ycombinator.com/item?id=37789963) - [Sam Altman's sister says he sexually abused her when she was 4](https://twitter.com/phuckfilosophy/status/1635704398939832321)
 * [2023-10-06, 11:56:36](https://news.ycombinator.com/item?id=37789514) - [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
 * [2023-10-06, 11:43:12](https://news.ycombinator.com/item?id=37789416) - [US nutrition panel’s ties to top food giants revealed in new report](https://www.theguardian.com/society/2023/oct/06/us-government-nutrition-panel-report)
+* [2023-10-06, 11:37:13](https://news.ycombinator.com/item?id=37789379) - [Puzzling objects found far beyond Neptune hint at second Kuiper belt](https://www.science.org/content/article/puzzling-objects-found-far-beyond-neptune-hint-second-kuiper-belt)
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 11:25:25](https://news.ycombinator.com/item?id=37789290) - [Productivity has grown faster in Western Europe than in America](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [Opening up access to GOV.UK Forms: an online form builder](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
