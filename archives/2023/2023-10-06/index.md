@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 19:34:07](https://news.ycombinator.com/item?id=37795179) - [More Than 80 Percent of Americans Can't Afford New Cars](https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956)
+* [2023-10-06, 19:14:55](https://news.ycombinator.com/item?id=37794960) - [Show HN: A simple Pastebin Clone using Deno](https://github.com/JLCarveth/nutty)
+* [2023-10-06, 19:11:00](https://news.ycombinator.com/item?id=37794904) - [Show HN: Neobrutalism components – A collection of react-tailwind components](https://github.com/ekmas/neobrutalism-components)
 * [2023-10-06, 19:08:34](https://news.ycombinator.com/item?id=37794874) - [Chicago becomes largest US city to abolish subminimum wage for tipped workers](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
 * [2023-10-06, 19:02:09](https://news.ycombinator.com/item?id=37794809) - [X rolls out new ad format that can't be reported, blocked](https://mashable.com/article/twitter-x-new-clickbait-ad-format)
 * [2023-10-06, 18:34:04](https://news.ycombinator.com/item?id=37794443) - [Phishing 2FA 25 years ago](https://twitter.com/123456/status/1710359310419607976)
