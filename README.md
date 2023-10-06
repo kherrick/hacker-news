@@ -2,12 +2,12 @@
 
 * [2023-10-06, 13:10:15](https://news.ycombinator.com/item?id=37790303) - [Lost your luggage? That's nothing – we just lost your whole flight](https://www.theregister.com/2023/10/02/who_me/)
 * [2023-10-06, 12:57:27](https://news.ycombinator.com/item?id=37790174) - [Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
-* [2023-10-06, 12:43:20](https://news.ycombinator.com/item?id=37790004) - [Will workers hired as Remote all be laid off in next wave?](https://news.ycombinator.com/item?id=37790004)
 * [2023-10-06, 11:56:36](https://news.ycombinator.com/item?id=37789514) - [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Another way to use an old tablet as an extra screen](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 11:25:25](https://news.ycombinator.com/item?id=37789290) - [Productivity has grown faster in Western Europe than in America](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [We’re opening up access to Gov.uk forms](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
 * [2023-10-06, 10:54:33](https://news.ycombinator.com/item?id=37789106) - [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
+* [2023-10-06, 10:47:24](https://news.ycombinator.com/item?id=37789057) - [Was Async Fn a Mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
 * [2023-10-06, 09:45:00](https://news.ycombinator.com/item?id=37788747) - [When does an old iPhone become unsafe to use?](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
 * [2023-10-06, 09:13:29](https://news.ycombinator.com/item?id=37788595) - [A California hedge fund bulldozed state labor laws, imposed harshest noncompetes](https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9)
