@@ -7,6 +7,7 @@
 * [2023-10-06, 21:34:31](https://news.ycombinator.com/item?id=37796729) - [Up to tenth of Amazon shoppers in GB 'bribed' by sellers to offer good review](https://www.theguardian.com/technology/2023/sep/28/up-to-tenth-of-amazon-shoppers-in-great-britain-bribed-by-sellers-to-offer-good-review-poll-finds)
 * [2023-10-06, 21:06:59](https://news.ycombinator.com/item?id=37796428) - [Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
+* [2023-10-06, 20:47:07](https://news.ycombinator.com/item?id=37796195) - [The Source of Readability](https://loup-vaillant.fr/articles/source-of-readability)
 * [2023-10-06, 20:47:01](https://news.ycombinator.com/item?id=37796194) - [OpenStack Unleashes Bobcat: A Leap Forward in Open-Source Cloud Infrastructure](https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure)
 * [2023-10-06, 20:44:50](https://news.ycombinator.com/item?id=37796157) - [Charles H. Bennett's Shadows (ca. 1856)](https://publicdomainreview.org/collection/shadows/)
 * [2023-10-06, 20:15:17](https://news.ycombinator.com/item?id=37795751) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
