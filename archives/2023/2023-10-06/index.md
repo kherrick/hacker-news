@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 14:32:14](https://news.ycombinator.com/item?id=37791298) - [Oh-My-God Particle](https://en.wikipedia.org/wiki/Oh-My-God_particle)
 * [2023-10-06, 14:23:42](https://news.ycombinator.com/item?id=37791165) - [Humans are biased. Generative AI is even worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
 * [2023-10-06, 14:18:59](https://news.ycombinator.com/item?id=37791116) - [EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)

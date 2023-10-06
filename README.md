@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-06, 14:23:42](https://news.ycombinator.com/item?id=37791165) - [Humans are biased. Generative AI is even worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
+* [2023-10-06, 14:32:14](https://news.ycombinator.com/item?id=37791298) - [Oh-My-God Particle](https://en.wikipedia.org/wiki/Oh-My-God_particle)
 * [2023-10-06, 14:18:59](https://news.ycombinator.com/item?id=37791116) - [EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 14:07:29](https://news.ycombinator.com/item?id=37790978) - [MGM expects $100M hit from hack that led to data breach](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
@@ -16,7 +16,6 @@
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [We’re opening up access to Gov.uk forms](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
 * [2023-10-06, 10:54:33](https://news.ycombinator.com/item?id=37789106) - [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Narges Mohammadi wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
-* [2023-10-06, 09:13:29](https://news.ycombinator.com/item?id=37788595) - [A California hedge fund bulldozed state labor laws, imposed harshest noncompetes](https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9)
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 06:48:21](https://news.ycombinator.com/item?id=37787851) - [Towards Monosemanticity: Decomposing Language Models with Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
@@ -27,6 +26,7 @@
 * [2023-10-05, 20:44:47](https://news.ycombinator.com/item?id=37784071) - [The Details Are in the Devil’s Tumors](https://hakaimagazine.com/features/the-details-are-in-the-devils-tumors/)
 * [2023-10-05, 20:08:38](https://news.ycombinator.com/item?id=37783654) - [Supernova in 1006](https://en.wikipedia.org/wiki/SN_1006)
 * [2023-10-05, 19:00:36](https://news.ycombinator.com/item?id=37782687) - [Fluorescent mammals are far more common than earlier thought](https://www.theguardian.com/science/2023/oct/04/positively-glowing-fluorescent-mammals-are-far-more-common-than-earlier-thought-study-suggests)
+* [2023-10-05, 18:49:29](https://news.ycombinator.com/item?id=37782493) - [How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html)
 * [2023-10-05, 14:23:54](https://news.ycombinator.com/item?id=37778996) - [Adam? ... is there a reason your laptop is in the fridge? (2006)](https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
