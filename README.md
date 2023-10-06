@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 19:25:33](https://news.ycombinator.com/item?id=37783081) - [ChromeOS is Linux with Google’s desktop environment](https://www.aboutchromebooks.com/news/now-more-than-ever-chromeos-is-linux-with-googles-desktop-environment/#google_vignette)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol](https://testanything.org/)
@@ -12,7 +13,6 @@
 * [2023-10-05, 18:01:13](https://news.ycombinator.com/item?id=37781832) - [Dot Dotat.at](https://dotat.at/email.html)
 * [2023-10-05, 17:53:52](https://news.ycombinator.com/item?id=37781735) - [Lockheed CEO Pitches Pentagon on Subscription Software](https://news.usni.org/2023/10/04/lockheed-ceo-pitches-pentagon-on-subscription-software)
 * [2023-10-05, 17:48:36](https://news.ycombinator.com/item?id=37781663) - [Birdsong Visualizer](https://webfft.net/cir/)
-* [2023-10-05, 17:17:28](https://news.ycombinator.com/item?id=37781266) - [Windows Copilot's is showing third-party Ads to Windows users](https://www.ghacks.net/2023/10/03/windows-copilots-is-showing-third-party-ads-to-windows-users/)
 * [2023-10-05, 17:15:12](https://news.ycombinator.com/item?id=37781244) - [Rerun 0.9 – a framework for visualizing streams of multimodal data](https://www.rerun.io/blog/release-0.9)
 * [2023-10-05, 17:13:44](https://news.ycombinator.com/item?id=37781231) - [Generative AI could make search harder to trust](https://www.wired.com/story/fast-forward-chatbot-hallucinations-are-poisoning-web-search/)
 * [2023-10-05, 17:03:39](https://news.ycombinator.com/item?id=37781125) - [Vivaldi on iOS](https://vivaldi.com/blog/vivaldi-browser-launches-on-ios/)
@@ -20,7 +20,7 @@
 * [2023-10-05, 15:18:01](https://news.ycombinator.com/item?id=37779707) - [Guide stars found as Euclid's navigation fine tuned](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Guide_stars_found_as_Euclid_s_navigation_fine_tuned)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
-* [2023-10-05, 13:42:13](https://news.ycombinator.com/item?id=37778490) - [Traveling words: a geometric interpretation of transformers](https://arxiv.org/abs/2309.07315)
+* [2023-10-05, 13:35:36](https://news.ycombinator.com/item?id=37778421) - [Matrix Operations with Math.js](https://www.robinwieruch.de/linear-algebra-matrix-javascript/)
 * [2023-10-05, 13:27:38](https://news.ycombinator.com/item?id=37778334) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
 * [2023-10-05, 13:04:14](https://news.ycombinator.com/item?id=37778082) - [The Return of a Small Universe?](https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/)
 * [2023-10-05, 13:02:24](https://news.ycombinator.com/item?id=37778069) - [Database Performance at Scale – A free book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)

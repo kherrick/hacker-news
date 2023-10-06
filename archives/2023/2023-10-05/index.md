@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
 * [2023-10-05, 22:53:19](https://news.ycombinator.com/item?id=37785253) - [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [The $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 21:00:56](https://news.ycombinator.com/item?id=37784251) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -50,6 +51,7 @@
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:42:13](https://news.ycombinator.com/item?id=37778490) - [Traveling words: a geometric interpretation of transformers](https://arxiv.org/abs/2309.07315)
+* [2023-10-05, 13:35:36](https://news.ycombinator.com/item?id=37778421) - [Matrix Operations with Math.js](https://www.robinwieruch.de/linear-algebra-matrix-javascript/)
 * [2023-10-05, 13:27:38](https://news.ycombinator.com/item?id=37778334) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
 * [2023-10-05, 13:22:09](https://news.ycombinator.com/item?id=37778265) - [Assembly theory explains and quantifies selection and evolution](https://www.nature.com/articles/s41586-023-06600-9)
 * [2023-10-05, 13:15:09](https://news.ycombinator.com/item?id=37778186) - [School shooting hoaxes have terrorized kids across U.S.](https://www.washingtonpost.com/nation/2023/10/04/school-swatting-hoax-active-shooter/)
