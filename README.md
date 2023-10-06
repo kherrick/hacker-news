@@ -12,6 +12,7 @@
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 19:21:42](https://news.ycombinator.com/item?id=37783025) - [Test Anything Protocol](https://testanything.org/)
 * [2023-10-05, 18:59:42](https://news.ycombinator.com/item?id=37782670) - [Gaia-1 a 9B parameter generative world model for autonomous driving](https://wayve.ai/thinking/scaling-gaia-1/)
+* [2023-10-05, 18:57:21](https://news.ycombinator.com/item?id=37782626) - [I’m not a programmer, and I used AI to build my first bot](https://blog.replit.com/building-my-first-slack-bot)
 * [2023-10-05, 18:50:10](https://news.ycombinator.com/item?id=37782513) - [Show HN: An app store just for installable web apps](https://store.app)
 * [2023-10-05, 18:49:29](https://news.ycombinator.com/item?id=37782493) - [How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html)
 * [2023-10-05, 18:03:22](https://news.ycombinator.com/item?id=37781862) - [HP fails to derail claims that it bricks scanners on printers when ink runs low](https://abcnews.go.com/Technology/wireStory/hp-fails-derail-claims-bricks-scanners-multifunction-printers-102286365)
@@ -27,7 +28,6 @@
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-10-05, 13:35:36](https://news.ycombinator.com/item?id=37778421) - [Matrix Operations with Math.js](https://www.robinwieruch.de/linear-algebra-matrix-javascript/)
-* [2023-10-05, 13:04:14](https://news.ycombinator.com/item?id=37778082) - [The Return of a Small Universe?](https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/)
 * [2023-10-05, 11:44:17](https://news.ycombinator.com/item?id=37777347) - [Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search](https://bitmagnet.io/)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 
