@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 16:50:03](https://news.ycombinator.com/item?id=37793123) - [What Satoshi Did Not Know (2015) [pdf]](https://www.ifca.ai/pub/fc15/89750001.pdf)
 * [2023-10-06, 16:31:36](https://news.ycombinator.com/item?id=37792916) - [Exploratory Data Analysis Using Awk](https://awk.dev/eda.html)
 * [2023-10-06, 16:28:45](https://news.ycombinator.com/item?id=37792877) - [Kentucky made child care free for child care workers. It's already paying off](https://www.npr.org/2023/10/06/1203182131/kentucky-free-child-care-day-care-workers)
 * [2023-10-06, 16:01:54](https://news.ycombinator.com/item?id=37792515) - [Rag Is a Hack](https://www.latent.space/p/llamaindex#details)
@@ -22,6 +23,7 @@
 * [2023-10-06, 14:14:09](https://news.ycombinator.com/item?id=37791060) - [SudoLang: a programming language designed to collaborate with AI language models](https://github.com/paralleldrive/sudolang-llm-support)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 14:07:29](https://news.ycombinator.com/item?id=37790978) - [Casino giant MGM expects $100M hit from hack that led to data breach](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
+* [2023-10-06, 14:06:47](https://news.ycombinator.com/item?id=37790972) - [Rumor: Windows 12 could become a subscription based operating system](https://www.techweekmag.com/news/computer/rumor-windows-12-could-become-a-subscription-based-operating-system/)
 * [2023-10-06, 13:59:55](https://news.ycombinator.com/item?id=37790899) - [Sam Altman's sister's tweets saying he sexually abused her being flagged on HN](https://news.ycombinator.com/item?id=37790899)
 * [2023-10-06, 13:47:32](https://news.ycombinator.com/item?id=37790745) - [Thread-per-Core](https://without.boats/blog/thread-per-core/)
 * [2023-10-06, 13:45:09](https://news.ycombinator.com/item?id=37790711) - [Meta's New AI Dating Coach Will Kink Shame You (Unless You're into Foot Stuff)](https://gizmodo.com/metas-new-ai-dating-coach-will-kink-shame-you-1850904198)
@@ -53,6 +55,7 @@
 * [2023-10-06, 06:59:25](https://news.ycombinator.com/item?id=37787901) - [Reversing 'France Identité': The New French Digital ID](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
 * [2023-10-06, 06:48:21](https://news.ycombinator.com/item?id=37787851) - [Towards Monosemanticity: Decomposing Language Models with Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 * [2023-10-06, 06:36:09](https://news.ycombinator.com/item?id=37787775) - [Dear Spotify, stop treating your users like testers](https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc)
+* [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
 * [2023-10-06, 04:51:29](https://news.ycombinator.com/item?id=37787205) - [Chinese Netizen Fined over 1M Yuan for Using VPN](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
 * [2023-10-06, 04:31:36](https://news.ycombinator.com/item?id=37787130) - [Rails 7.1 Released](https://github.com/rails/rails/releases/tag/v7.1.0)
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
