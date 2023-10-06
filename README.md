@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-06, 18:29:19](https://news.ycombinator.com/item?id=37794381) - [Jobs report shock: American economy added a stunning 336,000 jobs in September](https://www.cnn.com/business/live-news/markets-jobs-report-september/index.html)
 * [2023-10-06, 18:00:28](https://news.ycombinator.com/item?id=37793941) - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
 * [2023-10-06, 17:49:10](https://news.ycombinator.com/item?id=37793788) - [Support HDR images in your app [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
 * [2023-10-06, 17:35:36](https://news.ycombinator.com/item?id=37793635) - [AMD May Get Across the CUDA Moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
@@ -10,6 +9,7 @@
 * [2023-10-06, 16:31:36](https://news.ycombinator.com/item?id=37792916) - [Exploratory Data Analysis Using Awk](https://awk.dev/eda.html)
 * [2023-10-06, 16:14:54](https://news.ycombinator.com/item?id=37792690) - [Tell HN: Postman update removes all your stuff if you refuse to create account](https://news.ycombinator.com/item?id=37792690)
 * [2023-10-06, 15:59:42](https://news.ycombinator.com/item?id=37792479) - [India's banks are making $64B from free cashless payments](https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments)
+* [2023-10-06, 15:56:22](https://news.ycombinator.com/item?id=37792444) - [Show HN: Shortbread – Create AI comics in minutes](https://shortbread.ai/)
 * [2023-10-06, 15:46:16](https://news.ycombinator.com/item?id=37792322) - [Hubble’s Hitchcock Moment: An Explosion in Unexpected Place](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
 * [2023-10-06, 15:44:33](https://news.ycombinator.com/item?id=37792300) - [Ask HN: Sales Tips for Solo Devs](https://news.ycombinator.com/item?id=37792300)
 * [2023-10-06, 15:44:13](https://news.ycombinator.com/item?id=37792294) - [Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)](https://clojure.org/news/2023/10/06/deref)
