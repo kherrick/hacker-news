@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 14:07:29](https://news.ycombinator.com/item?id=37790978) - [Casino giant MGM expects $100M hit from hack that led to data breach](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
+* [2023-10-06, 13:59:55](https://news.ycombinator.com/item?id=37790899) - [Sam Altman's sister's tweets saying he sexually abused her being flagged on HN](https://news.ycombinator.com/item?id=37790899)
+* [2023-10-06, 13:47:32](https://news.ycombinator.com/item?id=37790745) - [Thread-per-Core](https://without.boats/blog/thread-per-core/)
+* [2023-10-06, 13:45:09](https://news.ycombinator.com/item?id=37790711) - [Meta's New AI Dating Coach Will Kink Shame You (Unless You're into Foot Stuff)](https://gizmodo.com/metas-new-ai-dating-coach-will-kink-shame-you-1850904198)
 * [2023-10-06, 13:10:15](https://news.ycombinator.com/item?id=37790303) - [Lost your luggage? That's nothing – we just lost your whole flight](https://www.theregister.com/2023/10/02/who_me/)
 * [2023-10-06, 12:57:27](https://news.ycombinator.com/item?id=37790174) - [Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
 * [2023-10-06, 12:47:59](https://news.ycombinator.com/item?id=37790058) - [OpenAI is exploring making its own AI chips and evaluates acquisition targets](https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/)
