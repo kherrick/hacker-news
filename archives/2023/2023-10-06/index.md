@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 20:44:50](https://news.ycombinator.com/item?id=37796157) - [Charles H. Bennett's Shadows (ca. 1856)](https://publicdomainreview.org/collection/shadows/)
 * [2023-10-06, 20:15:17](https://news.ycombinator.com/item?id=37795751) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
+* [2023-10-06, 20:08:52](https://news.ycombinator.com/item?id=37795652) - [23andMe scraping incident leaked data on 1.3M users](https://therecord.media/scraping-incident-genetic-testing-site)
 * [2023-10-06, 20:06:28](https://news.ycombinator.com/item?id=37795623) - [You've just spent $400 on a baby monitor. Now you need a subscription](https://www.theregister.com/2023/10/06/miku_baby_monitor/)
 * [2023-10-06, 20:05:33](https://news.ycombinator.com/item?id=37795608) - [America Needs to Build More (and Better) Ships](https://www.liberalpatriot.com/p/economic-strength-for-maritime-security)
 * [2023-10-06, 19:45:17](https://news.ycombinator.com/item?id=37795328) - [Why audio-only deepfakes are uniquely threatening to elections](https://aipoliticalpulse.substack.com/p/the-deepfake-issue)
