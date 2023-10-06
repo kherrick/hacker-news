@@ -19,7 +19,6 @@
 * [2023-10-06, 14:06:47](https://news.ycombinator.com/item?id=37790972) - [Rumor: Windows 12 could become a subscription based operating system](https://www.techweekmag.com/news/computer/rumor-windows-12-could-become-a-subscription-based-operating-system/)
 * [2023-10-06, 13:47:32](https://news.ycombinator.com/item?id=37790745) - [Thread-per-core](https://without.boats/blog/thread-per-core/)
 * [2023-10-06, 12:57:27](https://news.ycombinator.com/item?id=37790174) - [Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
-* [2023-10-06, 11:56:36](https://news.ycombinator.com/item?id=37789514) - [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [We’re opening up access to Gov.uk forms](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
 * [2023-10-06, 10:54:33](https://news.ycombinator.com/item?id=37789106) - [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
@@ -29,6 +28,7 @@
 * [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
 * [2023-10-06, 02:25:09](https://news.ycombinator.com/item?id=37786561) - [America's Steam Empire](https://technicshistory.com/2023/10/06/americas-steam-empire/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
+* [2023-10-05, 20:44:47](https://news.ycombinator.com/item?id=37784071) - [The Details Are in the Devil’s Tumors](https://hakaimagazine.com/features/the-details-are-in-the-devils-tumors/)
 * [2023-10-05, 20:08:38](https://news.ycombinator.com/item?id=37783654) - [Supernova in 1006](https://en.wikipedia.org/wiki/SN_1006)
 
 ## [Archives](archives/index.md)
