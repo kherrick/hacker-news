@@ -6,6 +6,7 @@
 
 * [2023-10-06, 22:09:24](https://news.ycombinator.com/item?id=37797012) - [Show HN: What to read after? Personalised AI book recommendations](https://whattoreadafter.xyz/ai-librarian)
 * [2023-10-06, 21:53:05](https://news.ycombinator.com/item?id=37796913) - [US science agencies on track to hit 25-year funding low](https://www.nature.com/articles/d41586-023-03135-x)
+* [2023-10-06, 21:46:50](https://news.ycombinator.com/item?id=37796863) - [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
 * [2023-10-06, 21:34:31](https://news.ycombinator.com/item?id=37796729) - [Up to tenth of Amazon shoppers in GB 'bribed' by sellers to offer good review](https://www.theguardian.com/technology/2023/sep/28/up-to-tenth-of-amazon-shoppers-in-great-britain-bribed-by-sellers-to-offer-good-review-poll-finds)
 * [2023-10-06, 21:06:59](https://news.ycombinator.com/item?id=37796428) - [Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
