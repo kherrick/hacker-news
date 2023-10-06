@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 13:10:15](https://news.ycombinator.com/item?id=37790303) - [Lost your luggage? That's nothing – we just lost your whole flight](https://www.theregister.com/2023/10/02/who_me/)
 * [2023-10-06, 12:57:27](https://news.ycombinator.com/item?id=37790174) - [Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
 * [2023-10-06, 12:43:20](https://news.ycombinator.com/item?id=37790004) - [Will workers hired as Remote all be laid off in next wave?](https://news.ycombinator.com/item?id=37790004)
 * [2023-10-06, 12:39:11](https://news.ycombinator.com/item?id=37789963) - [Sam Altman's sister says he sexually abused her when she was 4](https://twitter.com/phuckfilosophy/status/1635704398939832321)
@@ -28,6 +29,7 @@
 * [2023-10-06, 03:12:45](https://news.ycombinator.com/item?id=37786781) - [OpenPubKey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 * [2023-10-06, 02:43:49](https://news.ycombinator.com/item?id=37786653) - [“Google is clearly buying its way to squelch competitors“](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
 * [2023-10-06, 02:36:09](https://news.ycombinator.com/item?id=37786616) - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
+* [2023-10-06, 02:25:09](https://news.ycombinator.com/item?id=37786561) - [America's Steam Empire](https://technicshistory.com/2023/10/06/americas-steam-empire/)
 * [2023-10-06, 02:18:27](https://news.ycombinator.com/item?id=37786525) - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
 * [2023-10-06, 02:07:59](https://news.ycombinator.com/item?id=37786472) - [US transition to clean energy is happening faster than you think, reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
 * [2023-10-06, 01:58:46](https://news.ycombinator.com/item?id=37786415) - [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
