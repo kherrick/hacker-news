@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-10-06, 09:45:00",
-      "https://news.ycombinator.com/item?id=37788747"
-    ],
-    [
-      "When does an old iPhone become unsafe to use?",
-      "https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 09:13:29",
       "https://news.ycombinator.com/item?id=37788595"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2023-10-06, 02:36:09",
+      "https://news.ycombinator.com/item?id=37786616"
+    ],
+    [
+      "Show HN: Decorate Java stack traces with source code snippets",
+      "https://github.com/laech/java-stacksrc"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 02:25:09",
       "https://news.ycombinator.com/item?id=37786561"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=37785706"
     ],
     [
-      "Nine ways to break your systems code using volatile (2010)",
+      "Ways to break your systems code using volatile (2010)",
       "https://blog.regehr.org/archives/28"
     ]
   ],
