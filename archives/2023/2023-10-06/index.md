@@ -6,6 +6,7 @@
 
 * [2023-10-06, 13:10:15](https://news.ycombinator.com/item?id=37790303) - [Lost your luggage? That's nothing – we just lost your whole flight](https://www.theregister.com/2023/10/02/who_me/)
 * [2023-10-06, 12:57:27](https://news.ycombinator.com/item?id=37790174) - [Thirty Years Ago: MS-DOS 6.00](https://www.pcjs.org/blog/2023/10/04/)
+* [2023-10-06, 12:47:59](https://news.ycombinator.com/item?id=37790058) - [OpenAI is exploring making its own AI chips and evaluates acquisition targets](https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/)
 * [2023-10-06, 12:43:20](https://news.ycombinator.com/item?id=37790004) - [Will workers hired as Remote all be laid off in next wave?](https://news.ycombinator.com/item?id=37790004)
 * [2023-10-06, 12:39:11](https://news.ycombinator.com/item?id=37789963) - [Sam Altman's sister says he sexually abused her when she was 4](https://twitter.com/phuckfilosophy/status/1635704398939832321)
 * [2023-10-06, 11:56:36](https://news.ycombinator.com/item?id=37789514) - [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
