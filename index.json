@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-06, 11:25:25",
+      "https://news.ycombinator.com/item?id=37789290"
+    ],
+    [
+      "Productivity has grown faster in Western Europe than in America",
+      "https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 10:54:35",
       "https://news.ycombinator.com/item?id=37789107"
     ],
@@ -27,16 +37,6 @@
     [
       "OpenAI’s ChatGPT Is the Whole Game Studio [video]",
       "https://www.youtube.com/watch?v=Zlgkzjndpak"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 10:19:22",
-      "https://news.ycombinator.com/item?id=37788906"
-    ],
-    [
-      "Airbnb guest stays at LA rental for 500 days without paying, refuses to leave",
-      "https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "OpenPubKey and Sigstore",
       "https://blog.sigstore.dev/openpubkey-and-sigstore/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 02:43:49",
+      "https://news.ycombinator.com/item?id=37786653"
+    ],
+    [
+      "Google's agreement with Samsung prevented Branch from launching: testimony",
+      "https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-10-05, 21:13:07",
-      "https://news.ycombinator.com/item?id=37784373"
-    ],
-    [
-      "In-kernel QUIC implementation with Userspace handshake",
-      "https://github.com/lxin/quic"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 20:44:47",
       "https://news.ycombinator.com/item?id=37784071"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2023-10-05, 19:21:42",
+      "https://news.ycombinator.com/item?id=37783025"
+    ],
+    [
+      "Test Anything Protocol",
+      "https://testanything.org/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 19:00:36",
       "https://news.ycombinator.com/item?id=37782687"
     ],
     [
       "Fluorescent mammals are far more common than earlier thought",
       "https://www.theguardian.com/science/2023/oct/04/positively-glowing-fluorescent-mammals-are-far-more-common-than-earlier-thought-study-suggests"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 18:57:21",
-      "https://news.ycombinator.com/item?id=37782626"
-    ],
-    [
-      "I’m not a programmer, and I used AI to build my first bot",
-      "https://blog.replit.com/building-my-first-slack-bot"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-10-05, 13:35:36",
+      "https://news.ycombinator.com/item?id=37778421"
+    ],
+    [
+      "Matrix Operations with Math.js",
+      "https://www.robinwieruch.de/linear-algebra-matrix-javascript/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 11:44:17",
       "https://news.ycombinator.com/item?id=37777347"
     ],
     [
       "Bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, and torrent search",
       "https://bitmagnet.io/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 07:14:43",
-      "https://news.ycombinator.com/item?id=37775696"
-    ],
-    [
-      "How I stay motivated as a solo creator",
-      "https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/"
     ]
   ]
 ]
