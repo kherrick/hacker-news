@@ -47,6 +47,7 @@
 * [2023-10-05, 14:59:23](https://news.ycombinator.com/item?id=37779457) - [Microsoft introduces AI meddling to your files with Copilot in OneDrive](https://www.theregister.com/2023/10/04/onedrive_to_acquire_copilot_skills/)
 * [2023-10-05, 14:58:09](https://news.ycombinator.com/item?id=37779435) - [Please don’t theme our apps](https://stopthemingmy.app/)
 * [2023-10-05, 14:25:44](https://news.ycombinator.com/item?id=37779018) - [Singapore: Right to own a car costs $76,000. And that doesn't include the car](https://www.cnn.com/2023/10/05/asia/singapore-most-expensive-car-license-intl-hnk/index.html)
+* [2023-10-05, 14:23:54](https://news.ycombinator.com/item?id=37778996) - [Adam? ... is there a reason your laptop is in the fridge? (2006)](https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/)
 * [2023-10-05, 14:04:30](https://news.ycombinator.com/item?id=37778771) - [Lenovo PC boss: 4 in 5 of our devices will be repairable by 2025](https://www.theregister.com/2023/10/05/lenovo_pc_boss_4_in/)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
