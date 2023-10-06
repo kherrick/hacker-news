@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 02:18:27](https://news.ycombinator.com/item?id=37786525) - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
 * [2023-10-06, 02:07:59](https://news.ycombinator.com/item?id=37786472) - [US transition to clean energy is happening faster than you think, reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
 * [2023-10-06, 01:31:10](https://news.ycombinator.com/item?id=37786276) - [Ring Is Cashing in on the UFO Craze to Promote Its Surveillance Dystopia](https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia)
 * [2023-10-06, 00:27:09](https://news.ycombinator.com/item?id=37785920) - [Gboard Hat Version](https://landing.google.co.jp/caps/)
@@ -22,7 +23,6 @@
 * [2023-10-05, 14:23:54](https://news.ycombinator.com/item?id=37778996) - [Adam? ... is there a reason your laptop is in the fridge? (2006)](https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/)
 * [2023-10-05, 13:45:28](https://news.ycombinator.com/item?id=37778531) - [Ron Patrick's Street-Legal Jet Powered Volkswagen Beetle (2006)](https://www.ronpatrickstuff.com/)
 * [2023-10-05, 13:42:37](https://news.ycombinator.com/item?id=37778496) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
-* [2023-10-05, 13:42:13](https://news.ycombinator.com/item?id=37778490) - [Traveling words: a geometric interpretation of transformers](https://arxiv.org/abs/2309.07315)
 * [2023-10-05, 13:35:36](https://news.ycombinator.com/item?id=37778421) - [Matrix Operations with Math.js](https://www.robinwieruch.de/linear-algebra-matrix-javascript/)
 * [2023-10-05, 13:27:38](https://news.ycombinator.com/item?id=37778334) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
 * [2023-10-05, 13:04:14](https://news.ycombinator.com/item?id=37778082) - [The Return of a Small Universe?](https://telescoper.blog/2023/10/05/the-return-of-a-small-universe/)
