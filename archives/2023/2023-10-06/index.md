@@ -65,6 +65,7 @@
 * [2023-10-06, 10:30:00](https://news.ycombinator.com/item?id=37788952) - [OpenAI’s ChatGPT Is the Whole Game Studio [video]](https://www.youtube.com/watch?v=Zlgkzjndpak)
 * [2023-10-06, 10:19:22](https://news.ycombinator.com/item?id=37788906) - [Airbnb guest stays at LA rental for 500 days without paying, refuses to leave](https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying)
 * [2023-10-06, 10:18:19](https://news.ycombinator.com/item?id=37788903) - [The $53.000 Intel Mac Pro won't be usable for developing VisionOS apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes#)
+* [2023-10-06, 10:12:22](https://news.ycombinator.com/item?id=37788875) - [Walkers in the City and Everywhere: on Psychogeography](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
 * [2023-10-06, 09:45:00](https://news.ycombinator.com/item?id=37788747) - [When does an old iPhone become unsafe to use?](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
 * [2023-10-06, 09:13:29](https://news.ycombinator.com/item?id=37788595) - [A California hedge fund bulldozed state labor laws, imposed harshest noncompetes](https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9)
