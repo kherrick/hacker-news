@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-10-06, 15:42:05",
-      "https://news.ycombinator.com/item?id=37792265"
+      "2023-10-06, 15:59:42",
+      "https://news.ycombinator.com/item?id=37792479"
     ],
     [
-      "Where’s the beef? Middle-aged, American men ate all of it",
-      "https://bigthink.com/health/american-men-may-have-a-beef-problem/"
+      "India's banks are making $64B from free cashless payments",
+      "https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 15:46:16",
+      "https://news.ycombinator.com/item?id=37792322"
+    ],
+    [
+      "Hubble’s Hitchcock Moment: An Explosion in Unexpected Place",
+      "https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 15:44:13",
+      "https://news.ycombinator.com/item?id=37792294"
+    ],
+    [
+      "Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)",
+      "https://clojure.org/news/2023/10/06/deref"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 15:31:41",
+      "https://news.ycombinator.com/item?id=37792129"
+    ],
+    [
+      "Petscii Side-Scrolling Platformer by Jimbo",
+      "https://jimbo.itch.io/petscii-side-scrolling-platformer"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Unreal Engine will no longer be free for all",
       "https://www.creativebloq.com/news/epic-games-unreal-engine-charge"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 15:23:19",
+      "https://news.ycombinator.com/item?id=37792013"
+    ],
+    [
+      "Lost my job because I refused to use Windows, who is at fault?",
+      "https://old.reddit.com/r/archlinux/comments/170emd0/lost_my_job_because_i_refused_to_use_windows_who/"
     ]
   ],
   [
@@ -67,6 +107,16 @@
     [
       "EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out",
       "https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 14:14:09",
+      "https://news.ycombinator.com/item?id=37791060"
+    ],
+    [
+      "SudoLang: a programming language designed to collaborate with AI language models",
+      "https://github.com/paralleldrive/sudolang-llm-support"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2023-10-06, 11:37:13",
-      "https://news.ycombinator.com/item?id=37789379"
-    ],
-    [
-      "Puzzling objects found far beyond Neptune hint at second Kuiper belt",
-      "https://www.science.org/content/article/puzzling-objects-found-far-beyond-neptune-hint-second-kuiper-belt"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 11:36:41",
       "https://news.ycombinator.com/item?id=37789371"
     ],
@@ -187,16 +227,6 @@
     [
       "Narges Mohammadi wins 2023 Nobel Peace Prize",
       "https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 09:13:29",
-      "https://news.ycombinator.com/item?id=37788595"
-    ],
-    [
-      "A California hedge fund bulldozed state labor laws, imposed harshest noncompetes",
-      "https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Supernova in 1006",
       "https://en.wikipedia.org/wiki/SN_1006"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 19:00:36",
-      "https://news.ycombinator.com/item?id=37782687"
-    ],
-    [
-      "Fluorescent mammals are far more common than earlier thought",
-      "https://www.theguardian.com/science/2023/oct/04/positively-glowing-fluorescent-mammals-are-far-more-common-than-earlier-thought-study-suggests"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 14:23:54",
-      "https://news.ycombinator.com/item?id=37778996"
-    ],
-    [
-      "Adam? ... is there a reason your laptop is in the fridge? (2006)",
-      "https://www.kempa.com/adam-is-there-a-reason-your-laptop-is-in-the-fridge/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 13:42:37",
-      "https://news.ycombinator.com/item?id=37778496"
-    ],
-    [
-      "Where does my computer get the time from?",
-      "https://dotat.at/@/2023-05-26-whence-time.html"
     ]
   ]
 ]
