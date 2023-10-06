@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-06, 22:27:35](https://news.ycombinator.com/item?id=37797164) - [Bored Apes' Yuga Labs lays off employees](https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees)
-* [2023-10-06, 22:09:24](https://news.ycombinator.com/item?id=37797012) - [Show HN: What to read after? Personalised AI book recommendations](https://whattoreadafter.xyz/ai-librarian)
 * [2023-10-06, 21:53:05](https://news.ycombinator.com/item?id=37796913) - [US science agencies on track to hit 25-year funding low](https://www.nature.com/articles/d41586-023-03135-x)
 * [2023-10-06, 21:46:50](https://news.ycombinator.com/item?id=37796863) - [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
-* [2023-10-06, 21:06:59](https://news.ycombinator.com/item?id=37796428) - [Lasers Deflected Using Air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
+* [2023-10-06, 21:06:59](https://news.ycombinator.com/item?id=37796428) - [Lasers deflected using air](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
 * [2023-10-06, 20:47:07](https://news.ycombinator.com/item?id=37796195) - [The Source of Readability](https://loup-vaillant.fr/articles/source-of-readability)
+* [2023-10-06, 20:44:50](https://news.ycombinator.com/item?id=37796157) - [Charles H. Bennett's Shadows (ca. 1856)](https://publicdomainreview.org/collection/shadows/)
 * [2023-10-06, 20:08:52](https://news.ycombinator.com/item?id=37795652) - [23andMe scraping incident leaked data on 1.3M users](https://therecord.media/scraping-incident-genetic-testing-site)
 * [2023-10-06, 19:40:41](https://news.ycombinator.com/item?id=37795278) - [A 20MP Sensor in a Film Canister Reinvigorates Vintage Analog Cameras](https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/)
 * [2023-10-06, 19:26:55](https://news.ycombinator.com/item?id=37795100) - [Fail2Ban](https://github.com/fail2ban/fail2ban)
@@ -28,6 +27,7 @@
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 10:12:22](https://news.ycombinator.com/item?id=37788875) - [Walkers in the City and Everywhere: on Psychogeography](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
 * [2023-10-06, 09:45:00](https://news.ycombinator.com/item?id=37788747) - [When does an old iPhone become unsafe to use?](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
+* [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 * [2023-10-04, 16:32:49](https://news.ycombinator.com/item?id=37767633) - [Researchers tested AI watermarks and broke all of them](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
 
