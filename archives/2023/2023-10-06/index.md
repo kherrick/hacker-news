@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 19:08:34](https://news.ycombinator.com/item?id=37794874) - [Chicago becomes largest US city to abolish subminimum wage for tipped workers](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
+* [2023-10-06, 19:02:09](https://news.ycombinator.com/item?id=37794809) - [X rolls out new ad format that can't be reported, blocked](https://mashable.com/article/twitter-x-new-clickbait-ad-format)
 * [2023-10-06, 18:34:04](https://news.ycombinator.com/item?id=37794443) - [Phishing 2FA 25 years ago](https://twitter.com/123456/status/1710359310419607976)
 * [2023-10-06, 18:29:19](https://news.ycombinator.com/item?id=37794381) - [Jobs report shock: American economy added a stunning 336,000 jobs in September](https://www.cnn.com/business/live-news/markets-jobs-report-september/index.html)
 * [2023-10-06, 18:00:28](https://news.ycombinator.com/item?id=37793941) - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)

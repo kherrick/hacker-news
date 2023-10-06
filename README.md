@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-06, 19:08:34](https://news.ycombinator.com/item?id=37794874) - [Chicago becomes largest US city to abolish subminimum wage for tipped workers](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
+* [2023-10-06, 19:02:09](https://news.ycombinator.com/item?id=37794809) - [X rolls out new ad format that can't be reported, blocked](https://mashable.com/article/twitter-x-new-clickbait-ad-format)
 * [2023-10-06, 18:34:04](https://news.ycombinator.com/item?id=37794443) - [Phishing 2FA 25 years ago](https://twitter.com/123456/status/1710359310419607976)
 * [2023-10-06, 18:00:28](https://news.ycombinator.com/item?id=37793941) - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
 * [2023-10-06, 17:49:10](https://news.ycombinator.com/item?id=37793788) - [Support HDR images in your app [video]](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
@@ -23,12 +25,10 @@
 * [2023-10-06, 10:54:35](https://news.ycombinator.com/item?id=37789107) - [We’re opening up access to Gov.uk forms](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
 * [2023-10-06, 10:54:33](https://news.ycombinator.com/item?id=37789106) - [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
 * [2023-10-06, 10:03:21](https://news.ycombinator.com/item?id=37788847) - [Narges Mohammadi wins 2023 Nobel Peace Prize](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
-* [2023-10-06, 08:46:41](https://news.ycombinator.com/item?id=37788420) - [NSA publishes ten most common misconfigurations in networks](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a)
 * [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
 * [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How Will AI Learn Next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
 * [2023-10-05, 20:08:38](https://news.ycombinator.com/item?id=37783654) - [Supernova in 1006](https://en.wikipedia.org/wiki/SN_1006)
-* [2023-10-05, 10:10:33](https://news.ycombinator.com/item?id=37776750) - [Shift Happens: A book about keyboards](https://shifthappens.backerkit.com/hosted_preorders)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 
 ## [Archives](archives/index.md)
