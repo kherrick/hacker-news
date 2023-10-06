@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 17:20:29](https://news.ycombinator.com/item?id=37793466) - [Overshooting Earth’s Boundaries: An Interview with Bill Rees](https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/)
+* [2023-10-06, 17:13:01](https://news.ycombinator.com/item?id=37793375) - [Tell HN: \"Ad blockers are not allowed on YouTube”](https://news.ycombinator.com/item?id=37793375)
 * [2023-10-06, 16:50:03](https://news.ycombinator.com/item?id=37793123) - [What Satoshi Did Not Know (2015) [pdf]](https://www.ifca.ai/pub/fc15/89750001.pdf)
 * [2023-10-06, 16:39:16](https://news.ycombinator.com/item?id=37792996) - [Open-ribbon – A Project to reverse engineer the PS1 music game Vib-Ribbon](https://github.com/open-ribbon/open-ribbon)
 * [2023-10-06, 16:31:36](https://news.ycombinator.com/item?id=37792916) - [Exploratory Data Analysis Using Awk](https://awk.dev/eda.html)
 * [2023-10-06, 16:28:45](https://news.ycombinator.com/item?id=37792877) - [Kentucky made child care free for child care workers. It's already paying off](https://www.npr.org/2023/10/06/1203182131/kentucky-free-child-care-day-care-workers)
 * [2023-10-06, 16:01:54](https://news.ycombinator.com/item?id=37792515) - [Rag Is a Hack](https://www.latent.space/p/llamaindex#details)
 * [2023-10-06, 15:59:42](https://news.ycombinator.com/item?id=37792479) - [India's banks are making $64B from free cashless payments](https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments)
+* [2023-10-06, 15:56:22](https://news.ycombinator.com/item?id=37792444) - [Show HN: Shortbread – Create AI comics in minutes](https://shortbread.ai/)
 * [2023-10-06, 15:46:16](https://news.ycombinator.com/item?id=37792322) - [Hubble’s Hitchcock Moment: An Explosion in Unexpected Place](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
 * [2023-10-06, 15:44:33](https://news.ycombinator.com/item?id=37792300) - [Ask HN: Sales Tips for Solo Devs](https://news.ycombinator.com/item?id=37792300)
 * [2023-10-06, 15:44:13](https://news.ycombinator.com/item?id=37792294) - [Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)](https://clojure.org/news/2023/10/06/deref)
