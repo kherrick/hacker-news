@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 18:50:41](https://news.ycombinator.com/item?id=37804423) - [Using Awk and R to parse 25tb (2019)](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 18:45:15](https://news.ycombinator.com/item?id=37804389) - [Doctorow – A Murder Story: Whatever Happened to Interoperability?](https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/)
 * [2023-10-07, 18:44:27](https://news.ycombinator.com/item?id=37804383) - [How can I get my engineers to accept being on call?](https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call)
-* [2023-10-07, 18:39:16](https://news.ycombinator.com/item?id=37804333) - [A Deep Dive into 70 Layers of Obfuscated Info-Stealer Malware](https://medium.com/checkmarx-security/a-deep-dive-into-70-layers-of-obfuscated-info-stealer-malware-bdeeac0f04db)
 * [2023-10-07, 18:38:47](https://news.ycombinator.com/item?id=37804329) - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
 * [2023-10-07, 18:33:00](https://news.ycombinator.com/item?id=37804288) - [ChatGPT – Dalle3 System Prompt](https://twitter.com/Suhail/status/1710653717081653712)
 * [2023-10-07, 18:29:22](https://news.ycombinator.com/item?id=37804252) - [Why companies still want in-house data centres](https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres)
