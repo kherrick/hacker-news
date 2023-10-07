@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
 * [2023-10-07, 13:20:36](https://news.ycombinator.com/item?id=37801496) - [The final seconds of a fatal Tesla Autopilot crash – A reconstruction](https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/)
+* [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
 * [2023-10-07, 12:11:21](https://news.ycombinator.com/item?id=37801043) - [Brave lays off 9% of its workforce](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
 * [2023-10-07, 11:58:10](https://news.ycombinator.com/item?id=37800967) - [New MIT Desalination System Produces Freshwater That's \"Cheaper Than Tap Water\"](https://scitechdaily.com/mits-new-desalination-system-produces-freshwater-that-is-cheaper-than-tap-water/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [A Clutter-Free Life: Going Paperless with Paperless-Ngx](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
