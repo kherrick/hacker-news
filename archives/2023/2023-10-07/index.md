@@ -45,6 +45,7 @@
 * [2023-10-07, 06:29:51](https://news.ycombinator.com/item?id=37799483) - [Companies that are beating the West](https://restofworld.org/2023/rest-vs-west/)
 * [2023-10-07, 06:20:36](https://news.ycombinator.com/item?id=37799438) - [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
 * [2023-10-07, 06:13:33](https://news.ycombinator.com/item?id=37799413) - [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
+* [2023-10-07, 06:08:16](https://news.ycombinator.com/item?id=37799387) - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/)
 * [2023-10-07, 05:55:19](https://news.ycombinator.com/item?id=37799331) - [Web server 'hello world' benchmark: Go vs. Node.js vs. Nim vs. Bun](https://lemire.me/blog/2023/10/07/web-server-hello-world-benchmark-go-vs-node-js-vs-nim-vs-bun/)
 * [2023-10-07, 04:48:19](https://news.ycombinator.com/item?id=37799082) - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
