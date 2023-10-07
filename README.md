@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-07, 13:58:15](https://news.ycombinator.com/item?id=37801735) - [How Big Pharma Reaps Profits While Hurting Everyday Americans (2019)](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
-* [2023-10-07, 13:53:23](https://news.ycombinator.com/item?id=37801697) - [Crypto Fooled Us Once. It Will Fool Us Again](https://www.thefp.com/p/crypto-fooled-us-once-fool-us-again)
-* [2023-10-07, 13:27:30](https://news.ycombinator.com/item?id=37801543) - [A Reagan Judge, the First Amendment, and the Eternal War Against Pornography](https://www.techdirt.com/2023/10/06/a-reagan-judge-the-first-amendment-and-the-eternal-war-against-pornography/)
 * [2023-10-07, 13:20:36](https://news.ycombinator.com/item?id=37801496) - [The final seconds of a fatal Tesla Autopilot crash – A reconstruction](https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/)
+* [2023-10-07, 13:00:27](https://news.ycombinator.com/item?id=37801360) - [We Finally Have Proof That the Internet Is Worse](https://www.theatlantic.com/technology/archive/2023/10/big-tech-algorithmic-influence-antitrust-litigation/675575/)
 * [2023-10-07, 12:33:10](https://news.ycombinator.com/item?id=37801184) - [Fleurons in Unicode](https://en.wikipedia.org/wiki/Fleuron_(typography))
 * [2023-10-07, 12:28:10](https://news.ycombinator.com/item?id=37801150) - [Meta in Myanmar, Part III. The Inside View](https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
@@ -16,6 +15,7 @@
 * [2023-10-07, 08:35:31](https://news.ycombinator.com/item?id=37800062) - [Subtraction is functionally complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-10-07, 06:54:00](https://news.ycombinator.com/item?id=37799586) - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
 * [2023-10-07, 06:53:19](https://news.ycombinator.com/item?id=37799579) - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/)
+* [2023-10-07, 06:51:29](https://news.ycombinator.com/item?id=37799571) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 * [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)

@@ -8,6 +8,7 @@
 * [2023-10-07, 13:53:23](https://news.ycombinator.com/item?id=37801697) - [Crypto Fooled Us Once. It Will Fool Us Again](https://www.thefp.com/p/crypto-fooled-us-once-fool-us-again)
 * [2023-10-07, 13:27:30](https://news.ycombinator.com/item?id=37801543) - [A Reagan Judge, the First Amendment, and the Eternal War Against Pornography](https://www.techdirt.com/2023/10/06/a-reagan-judge-the-first-amendment-and-the-eternal-war-against-pornography/)
 * [2023-10-07, 13:20:36](https://news.ycombinator.com/item?id=37801496) - [The final seconds of a fatal Tesla Autopilot crash – A reconstruction](https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/)
+* [2023-10-07, 13:00:27](https://news.ycombinator.com/item?id=37801360) - [We Finally Have Proof That the Internet Is Worse](https://www.theatlantic.com/technology/archive/2023/10/big-tech-algorithmic-influence-antitrust-litigation/675575/)
 * [2023-10-07, 12:33:10](https://news.ycombinator.com/item?id=37801184) - [Fleurons in Unicode](https://en.wikipedia.org/wiki/Fleuron_(typography))
 * [2023-10-07, 12:28:10](https://news.ycombinator.com/item?id=37801150) - [Meta in Myanmar, Part III. The Inside View](https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
