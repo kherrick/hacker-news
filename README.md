@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-07, 06:13:33](https://news.ycombinator.com/item?id=37799413) - [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
+* [2023-10-07, 04:48:19](https://news.ycombinator.com/item?id=37799082) - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)
 * [2023-10-06, 23:48:13](https://news.ycombinator.com/item?id=37797764) - [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
@@ -20,7 +21,6 @@
 * [2023-10-06, 16:01:12](https://news.ycombinator.com/item?id=37792507) - [Show HN: A job application tracker with company reviews, recruiter autoresponder](https://rolepad.com)
 * [2023-10-06, 15:56:22](https://news.ycombinator.com/item?id=37792444) - [Show HN: Shortbread – Create AI comics in minutes](https://shortbread.ai/)
 * [2023-10-06, 15:44:13](https://news.ycombinator.com/item?id=37792294) - [Java 21 VirtualThreads vs. Clojure Lazy Seqs](https://clojure.org/news/2023/10/06/deref)
-* [2023-10-06, 15:31:41](https://news.ycombinator.com/item?id=37792129) - [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
 * [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 12:07:37](https://news.ycombinator.com/item?id=37789617) - [How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
