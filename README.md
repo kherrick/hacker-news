@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-07, 12:11:21](https://news.ycombinator.com/item?id=37801043) - [Brave layoffs](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
-* [2023-10-07, 11:58:10](https://news.ycombinator.com/item?id=37800967) - [New MIT Desalination System Produces Freshwater That's \"Cheaper Than Tap Water\"](https://scitechdaily.com/mits-new-desalination-system-produces-freshwater-that-is-cheaper-than-tap-water/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
 * [2023-10-07, 11:27:35](https://news.ycombinator.com/item?id=37800810) - [At least 1k birds died from colliding with one Chicago building in one day](https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows)
 * [2023-10-07, 10:23:51](https://news.ycombinator.com/item?id=37800533) - [What Plants Are Saying About Us](https://worldsensorium.com/what-plants-are-saying-about-us/)
@@ -27,6 +26,7 @@
 * [2023-10-06, 15:44:13](https://news.ycombinator.com/item?id=37792294) - [Java 21 VirtualThreads vs. Clojure Lazy Seqs](https://clojure.org/news/2023/10/06/deref)
 * [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
+* [2023-10-06, 12:07:37](https://news.ycombinator.com/item?id=37789617) - [How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
 * [2023-10-06, 11:36:41](https://news.ycombinator.com/item?id=37789371) - [Show HN: Use an old tablet as an extra monitor](https://github.com/alex028502/extra-screen)
 * [2023-10-06, 08:43:21](https://news.ycombinator.com/item?id=37788408) - [Could we make C arrays memory safe? Probably not, but let's try](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
 * [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How will AI learn next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
