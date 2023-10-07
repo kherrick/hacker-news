@@ -33,6 +33,7 @@
 * [2023-10-07, 16:07:48](https://news.ycombinator.com/item?id=37802885) - [Reverse-Engineering the Mechanical Bendix Central Air Data Computer](https://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
 * [2023-10-07, 16:04:09](https://news.ycombinator.com/item?id=37802838) - [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
 * [2023-10-07, 16:03:54](https://news.ycombinator.com/item?id=37802833) - [Israel says it is 'at war' after Hamas surprise attack](https://edition.cnn.com/middleeast/live-news/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk/index.html)
+* [2023-10-07, 15:49:33](https://news.ycombinator.com/item?id=37802703) - [True Basic by Kemeny and Kurtz](https://www.truebasic.com)
 * [2023-10-07, 15:07:06](https://news.ycombinator.com/item?id=37802316) - [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
 * [2023-10-07, 14:43:44](https://news.ycombinator.com/item?id=37802122) - [The Smartest Person Who Ever Lived (2015)](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
 * [2023-10-07, 14:43:18](https://news.ycombinator.com/item?id=37802116) - [Wired has removed \"How Google alters search queries\" story](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
