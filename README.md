@@ -8,7 +8,6 @@
 * [2023-10-07, 12:33:10](https://news.ycombinator.com/item?id=37801184) - [Fleurons in Unicode](https://en.wikipedia.org/wiki/Fleuron_(typography))
 * [2023-10-07, 12:28:10](https://news.ycombinator.com/item?id=37801150) - [Meta in Myanmar, Part III. The Inside View](https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
-* [2023-10-07, 12:22:52](https://news.ycombinator.com/item?id=37801111) - [Target says it's closing stores due to theft. The data tells a different story](https://popular.info/p/target-says-its-closing-9-stores)
 * [2023-10-07, 12:11:21](https://news.ycombinator.com/item?id=37801043) - [Brave layoffs](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
 * [2023-10-07, 11:27:35](https://news.ycombinator.com/item?id=37800810) - [At least 1k birds died from colliding with one Chicago building in one day](https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows)
@@ -30,6 +29,7 @@
 * [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 08:43:21](https://news.ycombinator.com/item?id=37788408) - [Could we make C arrays memory safe? Probably not, but let's try](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
+* [2023-10-05, 12:56:02](https://news.ycombinator.com/item?id=37777990) - [Borges and AI](https://arxiv.org/abs/2310.01425)
 
 ## [Archives](archives/index.md)
 
