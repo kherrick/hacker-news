@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 16:24:52](https://news.ycombinator.com/item?id=37803046) - [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
 * [2023-10-07, 16:12:46](https://news.ycombinator.com/item?id=37802926) - [Could Earth be the only planet with intelligent life?](https://bigthink.com/starts-with-a-bang/earth-only-planet-intelligent-life/)
 * [2023-10-07, 16:04:09](https://news.ycombinator.com/item?id=37802838) - [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
 * [2023-10-07, 16:03:54](https://news.ycombinator.com/item?id=37802833) - [Israel says it is 'at war' after Hamas surprise attack](https://edition.cnn.com/middleeast/live-news/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk/index.html)
