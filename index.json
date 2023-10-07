@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-06, 23:48:13",
+      "https://news.ycombinator.com/item?id=37797764"
+    ],
+    [
+      "Emacs and Shellcheck",
+      "https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 23:38:48",
       "https://news.ycombinator.com/item?id=37797704"
     ],
@@ -21,22 +31,32 @@
   ],
   [
     [
+      "2023-10-06, 23:26:07",
+      "https://news.ycombinator.com/item?id=37797606"
+    ],
+    [
+      "Show HN: Multiplayer game engine with 120fps and 2 second load time on the web",
+      "https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 23:17:49",
+      "https://news.ycombinator.com/item?id=37797554"
+    ],
+    [
+      "ASP.NET Core Blazor",
+      "https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 21:46:50",
       "https://news.ycombinator.com/item?id=37796863"
     ],
     [
       "SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization",
       "https://github.com/okuvshynov/slowllama"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 21:25:16",
-      "https://news.ycombinator.com/item?id=37796634"
-    ],
-    [
-      "Show HN: Fetchbook – Run and test your HTTP requests 100% locally",
-      "https://github.com/4lejandrito/fetchbook"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "The Source of Readability",
       "https://loup-vaillant.fr/articles/source-of-readability"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 19:40:41",
-      "https://news.ycombinator.com/item?id=37795278"
-    ],
-    [
-      "A 20MP Sensor in a Film Canister Reinvigorates Vintage Analog Cameras",
-      "https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-10-06, 15:46:16",
+      "https://news.ycombinator.com/item?id=37792322"
+    ],
+    [
+      "Hubble’s Hitchcock Moment: An Explosion in Unexpected Place",
+      "https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 15:44:13",
       "https://news.ycombinator.com/item?id=37792294"
     ],
@@ -177,26 +197,6 @@
     [
       "Petscii Side-Scrolling Platformer by Jimbo",
       "https://jimbo.itch.io/petscii-side-scrolling-platformer"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 15:15:30",
-      "https://news.ycombinator.com/item?id=37791897"
-    ],
-    [
-      "When allocators are hoarding your precious memory",
-      "https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 14:18:59",
-      "https://news.ycombinator.com/item?id=37791116"
-    ],
-    [
-      "EU Grabs ARM for First ExaFLOP Supercomputer",
-      "https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/"
     ]
   ],
   [
