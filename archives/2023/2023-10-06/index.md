@@ -57,6 +57,7 @@
 * [2023-10-06, 15:42:05](https://news.ycombinator.com/item?id=37792265) - [Where’s the beef? Middle-aged, American men ate all of it](https://bigthink.com/health/american-men-may-have-a-beef-problem/)
 * [2023-10-06, 15:31:41](https://news.ycombinator.com/item?id=37792129) - [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
 * [2023-10-06, 15:30:13](https://news.ycombinator.com/item?id=37792104) - [Google Faces Grilling over Alleged Unfair Ad Practices in Antitrust Trial](https://www.pymnts.com/cpi_posts/google-faces-grilling-over-alleged-unfair-ad-practices-in-antitrust-trial/)
+* [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 15:27:55](https://news.ycombinator.com/item?id=37792076) - [MitM attacks are easier to avoid with psql/Postgres 16](https://neon.tech/blog/avoid-mitm-attacks-with-psql-postgres-16)
 * [2023-10-06, 15:24:19](https://news.ycombinator.com/item?id=37792030) - [Unreal Engine will no longer be free for all](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
 * [2023-10-06, 15:23:19](https://news.ycombinator.com/item?id=37792013) - [Lost my job because I refused to use Windows, who is at fault?](https://old.reddit.com/r/archlinux/comments/170emd0/lost_my_job_because_i_refused_to_use_windows_who/)
