@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-07](index.md)
+
+* [2023-10-07, 01:09:37](https://news.ycombinator.com/item?id=37798178) - [RISC-V chip technology emerges as new battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)

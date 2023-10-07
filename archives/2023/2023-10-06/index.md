@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 23:51:56](https://news.ycombinator.com/item?id=37797789) - [Half a Million Kinksters Can't Be Wrong](https://asteriskmag.com/issues/04/half-a-million-kinksters-can-t-be-wrong)
 * [2023-10-06, 23:48:13](https://news.ycombinator.com/item?id=37797764) - [Emacs and Shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
 * [2023-10-06, 23:38:48](https://news.ycombinator.com/item?id=37797704) - [Universal Core Gains Nvidia Support](https://universal-blue.org/blog/2023/10/06/universal-core-gains-nvidia-support/)
+* [2023-10-06, 23:38:05](https://news.ycombinator.com/item?id=37797696) - [Braid Is Dead, Long Live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
 * [2023-10-06, 23:35:13](https://news.ycombinator.com/item?id=37797679) - [Android Devices with Backdoored Firmware Found in US Schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
 * [2023-10-06, 23:26:07](https://news.ycombinator.com/item?id=37797606) - [Show HN: Multiplayer game engine with 120fps and 2 second load time on the web](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
 * [2023-10-06, 23:17:49](https://news.ycombinator.com/item?id=37797554) - [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0)
+* [2023-10-06, 23:12:14](https://news.ycombinator.com/item?id=37797503) - [11 years of SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
 * [2023-10-06, 22:27:35](https://news.ycombinator.com/item?id=37797164) - [Bored Apes' Yuga Labs lays off employees](https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees)
 * [2023-10-06, 22:09:24](https://news.ycombinator.com/item?id=37797012) - [Show HN: What to read after? Personalised AI book recommendations](https://whattoreadafter.xyz/ai-librarian)
 * [2023-10-06, 21:53:05](https://news.ycombinator.com/item?id=37796913) - [US science agencies on track to hit 25-year funding low](https://www.nature.com/articles/d41586-023-03135-x)
