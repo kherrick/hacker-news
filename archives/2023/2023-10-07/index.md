@@ -10,6 +10,7 @@
 * [2023-10-07, 11:27:35](https://news.ycombinator.com/item?id=37800810) - [At least 1k birds died from colliding with one Chicago building in one day](https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows)
 * [2023-10-07, 10:23:51](https://news.ycombinator.com/item?id=37800533) - [What Plants Are Saying About Us](https://worldsensorium.com/what-plants-are-saying-about-us/)
 * [2023-10-07, 10:17:50](https://news.ycombinator.com/item?id=37800507) - [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
+* [2023-10-07, 10:06:28](https://news.ycombinator.com/item?id=37800458) - [\"Real Water\" that poisoned dozens contained chemical from rocket fuel](https://arstechnica.com/health/2023/10/jury-awards-229m-to-victims-of-real-water-tainted-with-rocket-fuel-chemical/)
 * [2023-10-07, 08:35:31](https://news.ycombinator.com/item?id=37800062) - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-10-07, 08:24:46](https://news.ycombinator.com/item?id=37800011) - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 * [2023-10-07, 08:02:30](https://news.ycombinator.com/item?id=37799932) - [A Woman Was Denied Medication for Being of 'Childbearing Age.'](https://jezebel.com/childbearing-age-medication-denied-lawsuit-1850899899)
