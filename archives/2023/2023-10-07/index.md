@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 19:29:51](https://news.ycombinator.com/item?id=37804763) - [Testing if a port can be reached, using built-in tools other than ol' telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
+* [2023-10-07, 18:59:55](https://news.ycombinator.com/item?id=37804493) - [FTX \"insurance fund\" calculated by multiplying trading volume by random number](https://twitter.com/molly0xfff/status/1710718416724595187)
 * [2023-10-07, 18:50:41](https://news.ycombinator.com/item?id=37804423) - [Using Awk and R to parse 25tb (2019)](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 18:45:15](https://news.ycombinator.com/item?id=37804389) - [Doctorow – A Murder Story: Whatever Happened to Interoperability?](https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/)
 * [2023-10-07, 18:44:27](https://news.ycombinator.com/item?id=37804383) - [How can I get my engineers to accept being on call?](https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call)
@@ -14,6 +16,7 @@
 * [2023-10-07, 18:23:12](https://news.ycombinator.com/item?id=37804198) - [Show HN: Reliable AI-generated text detection at checkfor.ai](https://www.checkfor.ai)
 * [2023-10-07, 17:27:21](https://news.ycombinator.com/item?id=37803638) - [\"Attention is all you need\" paper digested](https://www.youtube.com/watch?v=iDulhoQ2pro)
 * [2023-10-07, 17:10:12](https://news.ycombinator.com/item?id=37803466) - [Ask HN: How does Starlink work for IP address/ASN internationally?](https://news.ycombinator.com/item?id=37803466)
+* [2023-10-07, 16:46:56](https://news.ycombinator.com/item?id=37803268) - [FTC: Stop falling for social media scams, you've given crooks $650M+ this year](https://www.theregister.com/2023/10/07/ftc_social_media_scams/)
 * [2023-10-07, 16:36:08](https://news.ycombinator.com/item?id=37803157) - [Toyota Will Adopt Tesla-Style Cast Bodies That Might Be Impossible to Fix](https://www.thedrive.com/news/toyota-will-adopt-tesla-style-cast-bodies-that-might-be-impossible-to-fix)
 * [2023-10-07, 16:31:12](https://news.ycombinator.com/item?id=37803117) - [Zilog's Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 16:24:52](https://news.ycombinator.com/item?id=37803046) - [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
