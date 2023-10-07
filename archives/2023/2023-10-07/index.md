@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 21:48:45](https://news.ycombinator.com/item?id=37805849) - [Initial release of Incus, the LXD community fork](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)

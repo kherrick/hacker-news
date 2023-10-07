@@ -25,6 +25,7 @@
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
 * [2023-10-06, 20:47:07](https://news.ycombinator.com/item?id=37796195) - [The Source of Readability](https://loup-vaillant.fr/articles/source-of-readability)
 * [2023-10-06, 20:47:01](https://news.ycombinator.com/item?id=37796194) - [OpenStack Unleashes Bobcat: A Leap Forward in Open-Source Cloud Infrastructure](https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure)
+* [2023-10-06, 20:45:47](https://news.ycombinator.com/item?id=37796174) - [Electoral graffiti found inside Pompeii house](http://www.thehistoryblog.com/archives/68418)
 * [2023-10-06, 20:44:50](https://news.ycombinator.com/item?id=37796157) - [Charles H. Bennett's Shadows (ca. 1856)](https://publicdomainreview.org/collection/shadows/)
 * [2023-10-06, 20:15:17](https://news.ycombinator.com/item?id=37795751) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
 * [2023-10-06, 20:08:52](https://news.ycombinator.com/item?id=37795652) - [23andMe scraping incident leaked data on 1.3M users](https://therecord.media/scraping-incident-genetic-testing-site)
