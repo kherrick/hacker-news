@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 13:58:15](https://news.ycombinator.com/item?id=37801735) - [How Big Pharma Reaps Profits While Hurting Everyday Americans (2019)](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
+* [2023-10-07, 13:53:23](https://news.ycombinator.com/item?id=37801697) - [Crypto Fooled Us Once. It Will Fool Us Again](https://www.thefp.com/p/crypto-fooled-us-once-fool-us-again)
 * [2023-10-07, 13:27:30](https://news.ycombinator.com/item?id=37801543) - [A Reagan Judge, the First Amendment, and the Eternal War Against Pornography](https://www.techdirt.com/2023/10/06/a-reagan-judge-the-first-amendment-and-the-eternal-war-against-pornography/)
 * [2023-10-07, 13:20:36](https://news.ycombinator.com/item?id=37801496) - [The final seconds of a fatal Tesla Autopilot crash – A reconstruction](https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/)
 * [2023-10-07, 12:33:10](https://news.ycombinator.com/item?id=37801184) - [Fleurons in Unicode](https://en.wikipedia.org/wiki/Fleuron_(typography))
@@ -14,6 +16,7 @@
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [A Clutter-Free Life: Going Paperless with Paperless-Ngx](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
 * [2023-10-07, 11:27:35](https://news.ycombinator.com/item?id=37800810) - [At least 1k birds died from colliding with one Chicago building in one day](https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows)
 * [2023-10-07, 11:14:29](https://news.ycombinator.com/item?id=37800753) - [Moving Marginalia to a New Server](https://www.marginalia.nu/log/90-new-server-design/)
+* [2023-10-07, 10:34:38](https://news.ycombinator.com/item?id=37800572) - [Getting Started in KiCad 7.0](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html)
 * [2023-10-07, 10:23:51](https://news.ycombinator.com/item?id=37800533) - [What Plants Are Saying About Us](https://worldsensorium.com/what-plants-are-saying-about-us/)
 * [2023-10-07, 10:17:50](https://news.ycombinator.com/item?id=37800507) - [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
 * [2023-10-07, 10:06:28](https://news.ycombinator.com/item?id=37800458) - [\"Real Water\" that poisoned dozens contained chemical from rocket fuel](https://arstechnica.com/health/2023/10/jury-awards-229m-to-victims-of-real-water-tainted-with-rocket-fuel-chemical/)
