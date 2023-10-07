@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 18:45:15](https://news.ycombinator.com/item?id=37804389) - [Doctorow – A Murder Story: Whatever Happened to Interoperability?](https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/)
 * [2023-10-07, 18:44:27](https://news.ycombinator.com/item?id=37804383) - [How can I get my engineers to accept being on call?](https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call)
+* [2023-10-07, 18:39:16](https://news.ycombinator.com/item?id=37804333) - [A Deep Dive into 70 Layers of Obfuscated Info-Stealer Malware](https://medium.com/checkmarx-security/a-deep-dive-into-70-layers-of-obfuscated-info-stealer-malware-bdeeac0f04db)
 * [2023-10-07, 18:38:47](https://news.ycombinator.com/item?id=37804329) - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
 * [2023-10-07, 18:33:00](https://news.ycombinator.com/item?id=37804288) - [ChatGPT – Dalle3 System Prompt](https://twitter.com/Suhail/status/1710653717081653712)
 * [2023-10-07, 18:29:22](https://news.ycombinator.com/item?id=37804252) - [Why companies still want in-house data centres](https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres)
@@ -54,6 +56,7 @@
 * [2023-10-07, 06:08:16](https://news.ycombinator.com/item?id=37799387) - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/)
 * [2023-10-07, 05:55:19](https://news.ycombinator.com/item?id=37799331) - [Web server 'hello world' benchmark: Go vs. Node.js vs. Nim vs. Bun](https://lemire.me/blog/2023/10/07/web-server-hello-world-benchmark-go-vs-node-js-vs-nim-vs-bun/)
 * [2023-10-07, 04:48:19](https://news.ycombinator.com/item?id=37799082) - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
+* [2023-10-07, 04:26:15](https://news.ycombinator.com/item?id=37799010) - [The Last Express](https://www.filfre.net/2023/10/the-last-express/)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 * [2023-10-07, 01:09:37](https://news.ycombinator.com/item?id=37798178) - [RISC-V chip technology emerges as new battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
