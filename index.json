@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-07, 01:09:37",
-      "https://news.ycombinator.com/item?id=37798178"
-    ],
-    [
-      "RISC-V chip technology emerges as new battleground in US-China tech war",
-      "https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/"
-    ]
-  ],
-  [
-    [
       "2023-10-07, 01:04:31",
       "https://news.ycombinator.com/item?id=37798143"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37797696"
     ],
     [
-      "Braid Is Dead, Long Live Braid",
+      "Braid is dead, long live Braid",
       "https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/"
     ]
   ],
@@ -107,6 +97,16 @@
     [
       "SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization",
       "https://github.com/okuvshynov/slowllama"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 21:25:16",
+      "https://news.ycombinator.com/item?id=37796634"
+    ],
+    [
+      "Show HN: Fetchbook – Run and test your HTTP requests 100% locally",
+      "https://github.com/4lejandrito/fetchbook"
     ]
   ],
   [
