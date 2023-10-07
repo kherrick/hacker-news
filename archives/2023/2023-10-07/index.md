@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 06:51:29](https://news.ycombinator.com/item?id=37799571) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
+* [2023-10-07, 06:20:36](https://news.ycombinator.com/item?id=37799438) - [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
 * [2023-10-07, 06:13:33](https://news.ycombinator.com/item?id=37799413) - [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
 * [2023-10-07, 04:48:19](https://news.ycombinator.com/item?id=37799082) - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
