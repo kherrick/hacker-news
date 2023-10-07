@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 16:36:08](https://news.ycombinator.com/item?id=37803157) - [Toyota Will Adopt Tesla-Style Cast Bodies That Might Be Impossible to Fix](https://www.thedrive.com/news/toyota-will-adopt-tesla-style-cast-bodies-that-might-be-impossible-to-fix)
 * [2023-10-07, 16:31:12](https://news.ycombinator.com/item?id=37803117) - [Zilog's Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 16:24:52](https://news.ycombinator.com/item?id=37803046) - [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
 * [2023-10-07, 16:04:09](https://news.ycombinator.com/item?id=37802838) - [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
@@ -26,7 +27,6 @@
 * [2023-10-06, 19:14:10](https://news.ycombinator.com/item?id=37794948) - [Walkers in the City–and Everywhere](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
 * [2023-10-06, 17:35:36](https://news.ycombinator.com/item?id=37793635) - [AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
 * [2023-10-06, 16:31:36](https://news.ycombinator.com/item?id=37792916) - [Exploratory data analysis for humanities data](https://awk.dev/eda.html)
-* [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-05, 09:03:06](https://news.ycombinator.com/item?id=37776376) - [Literature review on the benefits of static types](https://danluu.com/empirical-pl/)
 * [2023-10-05, 08:22:46](https://news.ycombinator.com/item?id=37776108) - [The father of modern spam speaks (2002)](https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/)
