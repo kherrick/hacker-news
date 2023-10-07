@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 08:24:46](https://news.ycombinator.com/item?id=37800011) - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 * [2023-10-07, 06:51:29](https://news.ycombinator.com/item?id=37799571) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-10-07, 06:20:36](https://news.ycombinator.com/item?id=37799438) - [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
 * [2023-10-07, 06:13:33](https://news.ycombinator.com/item?id=37799413) - [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
-* [2023-10-07, 04:48:19](https://news.ycombinator.com/item?id=37799082) - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)
 * [2023-10-06, 23:48:13](https://news.ycombinator.com/item?id=37797764) - [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
