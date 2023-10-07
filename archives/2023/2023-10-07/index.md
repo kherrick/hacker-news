@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 16:31:12](https://news.ycombinator.com/item?id=37803117) - [Zilog's Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 16:24:52](https://news.ycombinator.com/item?id=37803046) - [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
 * [2023-10-07, 16:12:46](https://news.ycombinator.com/item?id=37802926) - [Could Earth be the only planet with intelligent life?](https://bigthink.com/starts-with-a-bang/earth-only-planet-intelligent-life/)
 * [2023-10-07, 16:04:09](https://news.ycombinator.com/item?id=37802838) - [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
