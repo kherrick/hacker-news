@@ -6,6 +6,7 @@
 
 * [2023-10-07, 13:27:30](https://news.ycombinator.com/item?id=37801543) - [A Reagan Judge, the First Amendment, and the Eternal War Against Pornography](https://www.techdirt.com/2023/10/06/a-reagan-judge-the-first-amendment-and-the-eternal-war-against-pornography/)
 * [2023-10-07, 13:20:36](https://news.ycombinator.com/item?id=37801496) - [The final seconds of a fatal Tesla Autopilot crash – A reconstruction](https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/)
+* [2023-10-07, 12:33:10](https://news.ycombinator.com/item?id=37801184) - [Fleurons in Unicode](https://en.wikipedia.org/wiki/Fleuron_(typography))
 * [2023-10-07, 12:28:10](https://news.ycombinator.com/item?id=37801150) - [Meta in Myanmar, Part III. The Inside View](https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
 * [2023-10-07, 12:11:21](https://news.ycombinator.com/item?id=37801043) - [Brave lays off 9% of its workforce](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
@@ -28,6 +29,7 @@
 * [2023-10-07, 05:55:19](https://news.ycombinator.com/item?id=37799331) - [Web server 'hello world' benchmark: Go vs. Node.js vs. Nim vs. Bun](https://lemire.me/blog/2023/10/07/web-server-hello-world-benchmark-go-vs-node-js-vs-nim-vs-bun/)
 * [2023-10-07, 04:48:19](https://news.ycombinator.com/item?id=37799082) - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
+* [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 * [2023-10-07, 01:09:37](https://news.ycombinator.com/item?id=37798178) - [RISC-V chip technology emerges as new battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
 * [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Research Scientists](https://news.ycombinator.com/item?id=37798143)
 * [2023-10-07, 00:13:52](https://news.ycombinator.com/item?id=37797916) - [Tech giants Meta, Amazon lay off more workers as cuts continue](https://www.sfchronicle.com/tech/article/tech-giants-meta-amazon-lay-workers-cuts-continue-18406560.php)
