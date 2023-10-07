@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 10:17:50](https://news.ycombinator.com/item?id=37800507) - [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
 * [2023-10-07, 08:35:31](https://news.ycombinator.com/item?id=37800062) - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-10-07, 08:24:46](https://news.ycombinator.com/item?id=37800011) - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 * [2023-10-07, 08:02:30](https://news.ycombinator.com/item?id=37799932) - [A Woman Was Denied Medication for Being of 'Childbearing Age.'](https://jezebel.com/childbearing-age-medication-denied-lawsuit-1850899899)
