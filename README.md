@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-07, 01:09:37](https://news.ycombinator.com/item?id=37798178) - [RISC-V chip technology emerges as new battleground in US-China tech war](https://www.reuters.com/technology/us-china-tech-war-risc-v-chip-technology-emerges-new-battleground-2023-10-06/)
+* [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Research Scientists](https://news.ycombinator.com/item?id=37798143)
 * [2023-10-07, 00:13:52](https://news.ycombinator.com/item?id=37797916) - [Tech giants Meta, Amazon lay off more workers as cuts continue](https://www.sfchronicle.com/tech/article/tech-giants-meta-amazon-lay-workers-cuts-continue-18406560.php)
 * [2023-10-06, 23:48:13](https://news.ycombinator.com/item?id=37797764) - [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
 * [2023-10-06, 23:38:05](https://news.ycombinator.com/item?id=37797696) - [Braid Is Dead, Long Live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
 * [2023-10-06, 23:35:13](https://news.ycombinator.com/item?id=37797679) - [Android devices with backdoored firmware found in US schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
+* [2023-10-06, 23:32:10](https://news.ycombinator.com/item?id=37797659) - [Ash: A Gentle Primer](https://jon.hk/elixir/ash/a-gentle-primer-to-ash/)
 * [2023-10-06, 23:12:14](https://news.ycombinator.com/item?id=37797503) - [11 years of SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
 * [2023-10-06, 22:02:38](https://news.ycombinator.com/item?id=37796984) - [The end of the Red Hat security-announcements list](https://lwn.net/Articles/946851/)
 * [2023-10-06, 22:02:26](https://news.ycombinator.com/item?id=37796980) - [Push and Pull](https://kellanem.com/notes/push-and-pull)
@@ -21,7 +23,6 @@
 * [2023-10-06, 15:31:41](https://news.ycombinator.com/item?id=37792129) - [Petscii Side-Scrolling Platformer by Jimbo](https://jimbo.itch.io/petscii-side-scrolling-platformer)
 * [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 15:15:30](https://news.ycombinator.com/item?id=37791897) - [When allocators are hoarding your precious memory (2021)](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
-* [2023-10-06, 14:14:09](https://news.ycombinator.com/item?id=37791060) - [SudoLang: a programming language designed to collaborate with AI language models](https://github.com/paralleldrive/sudolang-llm-support)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 12:07:37](https://news.ycombinator.com/item?id=37789617) - [How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
 * [2023-10-06, 10:12:22](https://news.ycombinator.com/item?id=37788875) - [Walkers in the city and everywhere](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
@@ -29,7 +30,6 @@
 * [2023-10-06, 08:43:21](https://news.ycombinator.com/item?id=37788408) - [Could we make C arrays memory safe? Probably not, but let's try anyway](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
 * [2023-10-06, 02:25:09](https://news.ycombinator.com/item?id=37786561) - [America's Steam Empire](https://technicshistory.com/2023/10/06/americas-steam-empire/)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
-* [2023-10-04, 16:32:49](https://news.ycombinator.com/item?id=37767633) - [Researchers tested AI watermarks and broke all of them](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
 
 ## [Archives](archives/index.md)
 

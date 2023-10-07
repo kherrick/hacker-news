@@ -9,6 +9,7 @@
 * [2023-10-06, 23:38:48](https://news.ycombinator.com/item?id=37797704) - [Universal Core Gains Nvidia Support](https://universal-blue.org/blog/2023/10/06/universal-core-gains-nvidia-support/)
 * [2023-10-06, 23:38:05](https://news.ycombinator.com/item?id=37797696) - [Braid Is Dead, Long Live Braid](https://amandapeyton.com/blog/2023/10/braid-is-dead-long-live-braid/)
 * [2023-10-06, 23:35:13](https://news.ycombinator.com/item?id=37797679) - [Android Devices with Backdoored Firmware Found in US Schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
+* [2023-10-06, 23:32:10](https://news.ycombinator.com/item?id=37797659) - [Ash: A Gentle Primer](https://jon.hk/elixir/ash/a-gentle-primer-to-ash/)
 * [2023-10-06, 23:26:07](https://news.ycombinator.com/item?id=37797606) - [Show HN: Multiplayer game engine with 120fps and 2 second load time on the web](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
 * [2023-10-06, 23:17:49](https://news.ycombinator.com/item?id=37797554) - [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0)
 * [2023-10-06, 23:12:14](https://news.ycombinator.com/item?id=37797503) - [11 years of SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
