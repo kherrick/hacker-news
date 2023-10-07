@@ -103,6 +103,7 @@
 * [2023-10-06, 09:13:29](https://news.ycombinator.com/item?id=37788595) - [A California hedge fund bulldozed state labor laws, imposed harshest noncompetes](https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9)
 * [2023-10-06, 08:54:43](https://news.ycombinator.com/item?id=37788454) - [Slack Is Down](https://slack.com/?nojsmode=1)
 * [2023-10-06, 08:46:41](https://news.ycombinator.com/item?id=37788420) - [NSA publishes ten most common misconfigurations in networks](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a)
+* [2023-10-06, 08:43:21](https://news.ycombinator.com/item?id=37788408) - [Could we make C arrays memory safe? Probably not, but let's try anyway](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
 * [2023-10-06, 07:44:21](https://news.ycombinator.com/item?id=37788153) - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 * [2023-10-06, 06:59:25](https://news.ycombinator.com/item?id=37787901) - [Reversing 'France Identité': The New French Digital ID](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
 * [2023-10-06, 06:48:21](https://news.ycombinator.com/item?id=37787851) - [Towards Monosemanticity: Decomposing Language Models with Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
