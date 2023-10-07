@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 06:13:33](https://news.ycombinator.com/item?id=37799413) - [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)
 * [2023-10-06, 23:48:13](https://news.ycombinator.com/item?id=37797764) - [Emacs and shellcheck](https://amitp.blogspot.com/2023/10/emacs-and-shellcheck.html)
@@ -7,7 +8,6 @@
 * [2023-10-06, 23:35:13](https://news.ycombinator.com/item?id=37797679) - [Android devices with backdoored firmware found in US schools](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
 * [2023-10-06, 23:32:10](https://news.ycombinator.com/item?id=37797659) - [Ash: A Gentle Primer](https://jon.hk/elixir/ash/a-gentle-primer-to-ash/)
 * [2023-10-06, 23:26:07](https://news.ycombinator.com/item?id=37797606) - [Show HN: DotBigBang – Multiplayer game engine with 120fps and 2 second load time](https://dotbigbang.com/game/1af877e9bfdb47088611f55982b7570f/prestons-diamond-wars?mp=playdw)
-* [2023-10-06, 23:17:49](https://news.ycombinator.com/item?id=37797554) - [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0)
 * [2023-10-06, 23:12:14](https://news.ycombinator.com/item?id=37797503) - [Looking back on SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
 * [2023-10-06, 22:02:26](https://news.ycombinator.com/item?id=37796980) - [Push and Pull](https://kellanem.com/notes/push-and-pull)
 * [2023-10-06, 21:46:50](https://news.ycombinator.com/item?id=37796863) - [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
