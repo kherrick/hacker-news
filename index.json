@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-07, 19:29:51",
+      "https://news.ycombinator.com/item?id=37804763"
+    ],
+    [
+      "Testing if a port can be reached, using built-in tools other than ol' telnet",
+      "https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 18:59:55",
+      "https://news.ycombinator.com/item?id=37804493"
+    ],
+    [
+      "FTX \"insurance fund\" calculated by multiplying trading volume by random number",
+      "https://twitter.com/molly0xfff/status/1710718416724595187"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 18:50:41",
       "https://news.ycombinator.com/item?id=37804423"
     ],
@@ -17,16 +37,6 @@
     [
       "Doctorow – A Murder Story: Whatever Happened to Interoperability?",
       "https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 18:44:27",
-      "https://news.ycombinator.com/item?id=37804383"
-    ],
-    [
-      "How can I get my engineers to accept being on call?",
-      "https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Ask HN: How does Starlink work for IP address/ASN internationally?",
       "https://news.ycombinator.com/item?id=37803466"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 16:46:56",
+      "https://news.ycombinator.com/item?id=37803268"
+    ],
+    [
+      "FTC: Stop falling for social media scams, you've given crooks $650M+ this year",
+      "https://www.theregister.com/2023/10/07/ftc_social_media_scams/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Why did the Motorola 68000 processor family fall out of use in PCs?",
       "https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 14:09:41",
-      "https://news.ycombinator.com/item?id=37791002"
-    ],
-    [
-      "Making Hard Things Easy",
-      "https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 09:03:06",
-      "https://news.ycombinator.com/item?id=37776376"
-    ],
-    [
-      "Literature review on the benefits of static types",
-      "https://danluu.com/empirical-pl/"
     ]
   ],
   [
