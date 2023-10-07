@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37804389"
     ],
     [
-      "Doctorow – A Murder Story: Whatever Happened to Interoperability?",
+      "Whatever happened to interoperability?",
       "https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Is the first cure for advanced rabies near?",
       "https://medicalxpress.com/news/2023-09-advanced-rabies.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 18:34:37",
+      "https://news.ycombinator.com/item?id=37804301"
+    ],
+    [
+      "Quake related work logs (1996)",
+      "https://www.gamers.org/dEngine/quake/info/worklogs.html"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-10-07, 16:46:56",
-      "https://news.ycombinator.com/item?id=37803268"
-    ],
-    [
-      "FTC: Stop falling for social media scams, you've given crooks $650M+ this year",
-      "https://www.theregister.com/2023/10/07/ftc_social_media_scams/"
-    ]
-  ],
-  [
-    [
       "2023-10-07, 16:31:12",
       "https://news.ycombinator.com/item?id=37803117"
     ],
@@ -126,17 +126,7 @@
     ],
     [
       "Wired has removed \"How Google alters search queries\" story",
-      "https://twitter.com/maldr0id/status/1710625763534201117"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 13:58:15",
-      "https://news.ycombinator.com/item?id=37801735"
-    ],
-    [
-      "How Big Pharma Reaps Profits While Hurting Everyday Americans (2019)",
-      "https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/"
+      "https://www.wired.com/story/google-antitrust-lawsuit-search-results/"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "Fleuron (typography)",
       "https://en.wikipedia.org/wiki/Fleuron_(typography)"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 12:28:10",
-      "https://news.ycombinator.com/item?id=37801150"
-    ],
-    [
-      "Meta in Myanmar, Part III. The Inside View",
-      "https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view"
     ]
   ],
   [
@@ -271,16 +251,6 @@
   ],
   [
     [
-      "2023-10-07, 01:04:31",
-      "https://news.ycombinator.com/item?id=37798143"
-    ],
-    [
-      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists",
-      "https://news.ycombinator.com/item?id=37798143"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 20:54:21",
       "https://news.ycombinator.com/item?id=37796292"
     ],
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2023-10-06, 17:35:36",
+      "https://news.ycombinator.com/item?id=37793635"
+    ],
+    [
+      "AMD may get across the CUDA moat",
+      "https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 14:09:41",
+      "https://news.ycombinator.com/item?id=37791002"
+    ],
+    [
+      "Making Hard Things Easy",
+      "https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 08:22:46",
       "https://news.ycombinator.com/item?id=37776108"
     ],
     [
       "The father of modern spam speaks (2002)",
       "https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 08:00:06",
+      "https://news.ycombinator.com/item?id=37775962"
+    ],
+    [
+      "An alternative front end for Haskell?",
+      "https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend"
     ]
   ]
 ]
