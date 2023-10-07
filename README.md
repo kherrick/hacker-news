@@ -5,7 +5,6 @@
 * [2023-10-07, 18:44:27](https://news.ycombinator.com/item?id=37804383) - [How can I get my engineers to accept being on call?](https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call)
 * [2023-10-07, 18:38:47](https://news.ycombinator.com/item?id=37804329) - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
 * [2023-10-07, 18:33:00](https://news.ycombinator.com/item?id=37804288) - [ChatGPT – Dalle3 System Prompt](https://twitter.com/Suhail/status/1710653717081653712)
-* [2023-10-07, 18:29:22](https://news.ycombinator.com/item?id=37804252) - [Why companies still want in-house data centres](https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres)
 * [2023-10-07, 17:27:21](https://news.ycombinator.com/item?id=37803638) - [\"Attention is all you need\" paper digested (2018)](https://www.youtube.com/watch?v=iDulhoQ2pro)
 * [2023-10-07, 17:10:12](https://news.ycombinator.com/item?id=37803466) - [Ask HN: How does Starlink work for IP address/ASN internationally?](https://news.ycombinator.com/item?id=37803466)
 * [2023-10-07, 16:31:12](https://news.ycombinator.com/item?id=37803117) - [Zilog's Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
@@ -28,6 +27,7 @@
 * [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 * [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
+* [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-05, 09:03:06](https://news.ycombinator.com/item?id=37776376) - [Literature review on the benefits of static types](https://danluu.com/empirical-pl/)
 * [2023-10-05, 08:22:46](https://news.ycombinator.com/item?id=37776108) - [The father of modern spam speaks (2002)](https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/)
 
