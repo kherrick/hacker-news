@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-07, 13:20:36",
+      "https://news.ycombinator.com/item?id=37801496"
+    ],
+    [
+      "The final seconds of a fatal Tesla Autopilot crash – A reconstruction",
+      "https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 12:11:21",
       "https://news.ycombinator.com/item?id=37801043"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2023-10-07, 11:14:29",
+      "https://news.ycombinator.com/item?id=37800753"
+    ],
+    [
+      "Moving Marginalia to a New Server",
+      "https://www.marginalia.nu/log/90-new-server-design/"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 10:23:51",
       "https://news.ycombinator.com/item?id=37800533"
     ],
     [
       "What Plants Are Saying About Us",
       "https://worldsensorium.com/what-plants-are-saying-about-us/"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 10:17:50",
-      "https://news.ycombinator.com/item?id=37800507"
-    ],
-    [
-      "Shell using Fortnite, TikTok, etc. to convince kids fossil fuels are cool",
-      "https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2023-10-07, 05:55:19",
+      "https://news.ycombinator.com/item?id=37799331"
+    ],
+    [
+      "Web server 'hello world' benchmark: Go vs. Node.js vs. Nim vs. Bun",
+      "https://lemire.me/blog/2023/10/07/web-server-hello-world-benchmark-go-vs-node-js-vs-nim-vs-bun/"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 04:03:42",
       "https://news.ycombinator.com/item?id=37798914"
     ],
@@ -117,6 +137,16 @@
     [
       "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists",
       "https://news.ycombinator.com/item?id=37798143"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 23:51:56",
+      "https://news.ycombinator.com/item?id=37797789"
+    ],
+    [
+      "Half a Million Kinksters Can't Be Wrong",
+      "https://asteriskmag.com/issues/04/half-a-million-kinksters-can-t-be-wrong"
     ]
   ],
   [
@@ -201,6 +231,16 @@
   ],
   [
     [
+      "2023-10-06, 20:54:21",
+      "https://news.ycombinator.com/item?id=37796292"
+    ],
+    [
+      "Why did the Motorola 68000 processor family fall out of use in PCs?",
+      "https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 17:35:36",
       "https://news.ycombinator.com/item?id=37793635"
     ],
@@ -231,16 +271,6 @@
   ],
   [
     [
-      "2023-10-06, 15:44:13",
-      "https://news.ycombinator.com/item?id=37792294"
-    ],
-    [
-      "Java 21 VirtualThreads vs. Clojure Lazy Seqs",
-      "https://clojure.org/news/2023/10/06/deref"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 15:29:34",
       "https://news.ycombinator.com/item?id=37792097"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-10-06, 12:07:37",
-      "https://news.ycombinator.com/item?id=37789617"
-    ],
-    [
-      "How we manage 200 open-source repos",
-      "https://turbot.com/blog/2023/10/repo-management"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 11:36:41",
-      "https://news.ycombinator.com/item?id=37789371"
-    ],
-    [
-      "Show HN: Use an old tablet as an extra monitor",
-      "https://github.com/alex028502/extra-screen"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 08:43:21",
       "https://news.ycombinator.com/item?id=37788408"
     ],
     [
       "Could we make C arrays memory safe? Probably not, but let's try",
       "https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 23:15:09",
-      "https://news.ycombinator.com/item?id=37785416"
-    ],
-    [
-      "How will AI learn next?",
-      "https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next"
     ]
   ]
 ]
