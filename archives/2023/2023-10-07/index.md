@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 15:07:06](https://news.ycombinator.com/item?id=37802316) - [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
+* [2023-10-07, 14:43:44](https://news.ycombinator.com/item?id=37802122) - [The Smartest Person Who Ever Lived (2015)](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
 * [2023-10-07, 14:43:18](https://news.ycombinator.com/item?id=37802116) - [Wired has removed \"How Google Alters Search Queries\" story](https://twitter.com/maldr0id/status/1710625763534201117)
 * [2023-10-07, 13:58:15](https://news.ycombinator.com/item?id=37801735) - [How Big Pharma Reaps Profits While Hurting Everyday Americans (2019)](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
 * [2023-10-07, 13:53:23](https://news.ycombinator.com/item?id=37801697) - [Crypto Fooled Us Once. It Will Fool Us Again](https://www.thefp.com/p/crypto-fooled-us-once-fool-us-again)

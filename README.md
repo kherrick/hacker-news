@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 15:07:06](https://news.ycombinator.com/item?id=37802316) - [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
+* [2023-10-07, 14:43:44](https://news.ycombinator.com/item?id=37802122) - [The Smartest Person Who Ever Lived (2015)](https://www.realclearscience.com/blog/2015/01/the_smartest_person_to_have_ever_lived.html)
 * [2023-10-07, 14:43:18](https://news.ycombinator.com/item?id=37802116) - [Wired has removed \"How Google Alters Search Queries\" story](https://twitter.com/maldr0id/status/1710625763534201117)
 * [2023-10-07, 13:58:15](https://news.ycombinator.com/item?id=37801735) - [How Big Pharma Reaps Profits While Hurting Everyday Americans (2019)](https://www.americanprogress.org/article/big-pharma-reaps-profits-hurting-everyday-americans/)
 * [2023-10-07, 13:53:23](https://news.ycombinator.com/item?id=37801697) - [Crypto Fooled Us Once. It Will Fool Us Again](https://www.thefp.com/p/crypto-fooled-us-once-fool-us-again)
@@ -21,7 +23,6 @@
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 * [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)
-* [2023-10-06, 22:02:26](https://news.ycombinator.com/item?id=37796980) - [Push and Pull](https://kellanem.com/notes/push-and-pull)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
 * [2023-10-06, 19:14:10](https://news.ycombinator.com/item?id=37794948) - [Walkers in the City–and Everywhere](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
 * [2023-10-06, 17:35:36](https://news.ycombinator.com/item?id=37793635) - [AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
@@ -29,7 +30,6 @@
 * [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 08:43:21](https://news.ycombinator.com/item?id=37788408) - [Could we make C arrays memory safe? Probably not, but let's try](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
-* [2023-10-05, 12:56:02](https://news.ycombinator.com/item?id=37777990) - [Borges and AI](https://arxiv.org/abs/2310.01425)
 
 ## [Archives](archives/index.md)
 
