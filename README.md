@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-07, 21:48:45](https://news.ycombinator.com/item?id=37805849) - [Initial release of Incus, the LXD community fork](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
@@ -15,6 +14,7 @@
 * [2023-10-07, 18:12:06](https://news.ycombinator.com/item?id=37804111) - [Show HN: Display all stories and comments for a specific Hacker News user](https://simonpure.github.io/?user=pg)
 * [2023-10-07, 17:55:58](https://news.ycombinator.com/item?id=37803949) - [Researchers find link between plastic additive and autism, ADHD](https://today.rowan.edu/news/2023/09/researchers-find-bpa-links-to-autism-adhd.html)
 * [2023-10-07, 17:27:21](https://news.ycombinator.com/item?id=37803638) - [\"Attention is all you need\" paper digested (2018)](https://www.youtube.com/watch?v=iDulhoQ2pro)
+* [2023-10-07, 16:31:12](https://news.ycombinator.com/item?id=37803117) - [Zilog's Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 16:07:48](https://news.ycombinator.com/item?id=37802885) - [Reverse-Engineering the Mechanical Bendix Central Air Data Computer](https://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
 * [2023-10-07, 15:49:33](https://news.ycombinator.com/item?id=37802703) - [True Basic by Kemeny and Kurtz](https://www.truebasic.com)
 * [2023-10-07, 14:43:18](https://news.ycombinator.com/item?id=37802116) - [Wired has removed \"How Google alters search queries\" story](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
