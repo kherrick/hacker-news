@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-10-07, 06:13:33",
+      "https://news.ycombinator.com/item?id=37799413"
+    ],
+    [
+      "Cloudflare is free of CAPTCHAs; Turnstile is free for everyone",
+      "https://blog.cloudflare.com/turnstile-ga/"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 05:55:19",
       "https://news.ycombinator.com/item?id=37799331"
     ],
@@ -167,16 +177,6 @@
     [
       "SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization",
       "https://github.com/okuvshynov/slowllama"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 21:25:16",
-      "https://news.ycombinator.com/item?id=37796634"
-    ],
-    [
-      "Show HN: Fetchbook – Run and test your HTTP requests 100% locally",
-      "https://github.com/4lejandrito/fetchbook"
     ]
   ],
   [
