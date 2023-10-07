@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 22:11:03](https://news.ycombinator.com/item?id=37805969) - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
 * [2023-10-07, 21:48:45](https://news.ycombinator.com/item?id=37805849) - [Initial release of Incus, the LXD community fork](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
