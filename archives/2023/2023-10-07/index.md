@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 13:20:36](https://news.ycombinator.com/item?id=37801496) - [The final seconds of a fatal Tesla Autopilot crash – A reconstruction](https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/)
 * [2023-10-07, 12:11:21](https://news.ycombinator.com/item?id=37801043) - [Brave lays off 9% of its workforce](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
 * [2023-10-07, 11:58:10](https://news.ycombinator.com/item?id=37800967) - [New MIT Desalination System Produces Freshwater That's \"Cheaper Than Tap Water\"](https://scitechdaily.com/mits-new-desalination-system-produces-freshwater-that-is-cheaper-than-tap-water/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [A Clutter-Free Life: Going Paperless with Paperless-Ngx](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
 * [2023-10-07, 11:27:35](https://news.ycombinator.com/item?id=37800810) - [At least 1k birds died from colliding with one Chicago building in one day](https://www.theguardian.com/us-news/2023/oct/07/chicago-mccormick-place-building-bird-deaths-windows)
+* [2023-10-07, 11:14:29](https://news.ycombinator.com/item?id=37800753) - [Moving Marginalia to a New Server](https://www.marginalia.nu/log/90-new-server-design/)
 * [2023-10-07, 10:23:51](https://news.ycombinator.com/item?id=37800533) - [What Plants Are Saying About Us](https://worldsensorium.com/what-plants-are-saying-about-us/)
 * [2023-10-07, 10:17:50](https://news.ycombinator.com/item?id=37800507) - [Shell Using Fortnite, TikTok, etc. to Convince Kids Fossil Fuels Are Cool](https://kotaku.com/shell-big-oil-roadtrips-fortnite-map-collab-tiktok-ign-1850907435)
 * [2023-10-07, 10:06:28](https://news.ycombinator.com/item?id=37800458) - [\"Real Water\" that poisoned dozens contained chemical from rocket fuel](https://arstechnica.com/health/2023/10/jury-awards-229m-to-victims-of-real-water-tainted-with-rocket-fuel-chemical/)
