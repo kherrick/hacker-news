@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-07, 08:24:46](https://news.ycombinator.com/item?id=37800011) - [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
+* [2023-10-07, 06:54:00](https://news.ycombinator.com/item?id=37799586) - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
 * [2023-10-07, 06:51:29](https://news.ycombinator.com/item?id=37799571) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-10-07, 06:20:36](https://news.ycombinator.com/item?id=37799438) - [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
 * [2023-10-07, 06:13:33](https://news.ycombinator.com/item?id=37799413) - [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
@@ -27,7 +28,6 @@
 * [2023-10-06, 12:07:37](https://news.ycombinator.com/item?id=37789617) - [How we manage 200 open-source repos](https://turbot.com/blog/2023/10/repo-management)
 * [2023-10-06, 08:43:21](https://news.ycombinator.com/item?id=37788408) - [Could we make C arrays memory safe? Probably not, but let's try](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
 * [2023-10-06, 06:04:16](https://news.ycombinator.com/item?id=37787569) - [VeroRoute – an open source Veroboard, Perfboard and PCB layout design software](https://sourceforge.net/projects/veroroute/)
-* [2023-10-06, 02:25:09](https://news.ycombinator.com/item?id=37786561) - [America's Steam Empire](https://technicshistory.com/2023/10/06/americas-steam-empire/)
 * [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How will AI learn next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
 
