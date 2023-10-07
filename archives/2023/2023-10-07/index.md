@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 18:44:27](https://news.ycombinator.com/item?id=37804383) - [How can I get my engineers to accept being on call?](https://workplace.stackexchange.com/questions/193511/how-can-i-get-my-engineers-to-accept-being-on-call)
+* [2023-10-07, 18:38:47](https://news.ycombinator.com/item?id=37804329) - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
 * [2023-10-07, 18:33:00](https://news.ycombinator.com/item?id=37804288) - [ChatGPT – Dalle3 System Prompt](https://twitter.com/Suhail/status/1710653717081653712)
+* [2023-10-07, 18:29:22](https://news.ycombinator.com/item?id=37804252) - [Why companies still want in-house data centres](https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres)
+* [2023-10-07, 18:23:12](https://news.ycombinator.com/item?id=37804198) - [Show HN: Reliable AI-generated text detection at checkfor.ai](https://www.checkfor.ai)
 * [2023-10-07, 17:27:21](https://news.ycombinator.com/item?id=37803638) - [\"Attention is all you need\" paper digested](https://www.youtube.com/watch?v=iDulhoQ2pro)
 * [2023-10-07, 17:10:12](https://news.ycombinator.com/item?id=37803466) - [Ask HN: How does Starlink work for IP address/ASN internationally?](https://news.ycombinator.com/item?id=37803466)
 * [2023-10-07, 16:36:08](https://news.ycombinator.com/item?id=37803157) - [Toyota Will Adopt Tesla-Style Cast Bodies That Might Be Impossible to Fix](https://www.thedrive.com/news/toyota-will-adopt-tesla-style-cast-bodies-that-might-be-impossible-to-fix)
@@ -12,6 +16,7 @@
 * [2023-10-07, 16:24:52](https://news.ycombinator.com/item?id=37803046) - [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
 * [2023-10-07, 16:19:54](https://news.ycombinator.com/item?id=37802996) - [Why NASA Chose WordPress for Revamping Its Flagship Website](https://wptavern.com/why-nasa-chose-wordpress-for-revamping-its-flagship-website)
 * [2023-10-07, 16:12:46](https://news.ycombinator.com/item?id=37802926) - [Could Earth be the only planet with intelligent life?](https://bigthink.com/starts-with-a-bang/earth-only-planet-intelligent-life/)
+* [2023-10-07, 16:07:48](https://news.ycombinator.com/item?id=37802885) - [Reverse-Engineering the Mechanical Bendix Central Air Data Computer](https://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
 * [2023-10-07, 16:04:09](https://news.ycombinator.com/item?id=37802838) - [Dramatic Increase in DPRK-Russia Border Rail Traffic After Kim-Putin Summit](https://beyondparallel.csis.org/dramatic-increase-in-dprk-russia-border-rail-traffic-after-kim-putin-summit/)
 * [2023-10-07, 16:03:54](https://news.ycombinator.com/item?id=37802833) - [Israel says it is 'at war' after Hamas surprise attack](https://edition.cnn.com/middleeast/live-news/al-aqsa-storm-militants-infiltrate-israel-after-gaza-rockets-10-07-intl-hnk/index.html)
 * [2023-10-07, 15:07:06](https://news.ycombinator.com/item?id=37802316) - [The government dug a deep hole for itself with Bills C-11 and C-18](https://www.theglobeandmail.com/opinion/article-the-government-dug-a-deep-hole-for-itself-with-bills-c-11-and-c-18-and/)
