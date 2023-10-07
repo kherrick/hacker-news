@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-10-06, 14:14:09",
-      "https://news.ycombinator.com/item?id=37791060"
-    ],
-    [
-      "SudoLang: a programming language designed to collaborate with AI language models",
-      "https://github.com/paralleldrive/sudolang-llm-support"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 14:09:41",
       "https://news.ycombinator.com/item?id=37791002"
     ],
@@ -277,6 +267,16 @@
     [
       "Could we make C arrays memory safe? Probably not, but let's try anyway",
       "https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 06:04:16",
+      "https://news.ycombinator.com/item?id=37787569"
+    ],
+    [
+      "VeroRoute – an open source Veroboard, Perfboard and PCB layout design software",
+      "https://sourceforge.net/projects/veroroute/"
     ]
   ],
   [
