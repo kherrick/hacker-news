@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-10-06, 19:14:55",
-      "https://news.ycombinator.com/item?id=37794960"
-    ],
-    [
-      "Show HN: A simple Pastebin Clone using Deno",
-      "https://github.com/JLCarveth/nutty"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 18:29:07",
       "https://news.ycombinator.com/item?id=37794379"
     ],
@@ -227,6 +217,16 @@
     [
       "When allocators are hoarding your precious memory (2021)",
       "https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 14:14:09",
+      "https://news.ycombinator.com/item?id=37791060"
+    ],
+    [
+      "SudoLang: a programming language designed to collaborate with AI language models",
+      "https://github.com/paralleldrive/sudolang-llm-support"
     ]
   ],
   [
