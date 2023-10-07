@@ -22,7 +22,6 @@
 * [2023-10-07, 06:51:29](https://news.ycombinator.com/item?id=37799571) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
-* [2023-10-07, 01:04:31](https://news.ycombinator.com/item?id=37798143) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37798143)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
 * [2023-10-06, 19:14:10](https://news.ycombinator.com/item?id=37794948) - [Walkers in the City–and Everywhere](https://daily.jstor.org/walkers-in-the-city-and-everywhere/)
 * [2023-10-06, 17:35:36](https://news.ycombinator.com/item?id=37793635) - [AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
@@ -30,6 +29,7 @@
 * [2023-10-06, 15:29:34](https://news.ycombinator.com/item?id=37792097) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 08:43:21](https://news.ycombinator.com/item?id=37788408) - [Could we make C arrays memory safe? Probably not, but let's try](https://nibblestew.blogspot.com/2023/10/could-we-make-c-arrays-memory.html)
+* [2023-10-05, 12:56:02](https://news.ycombinator.com/item?id=37777990) - [Borges and AI](https://arxiv.org/abs/2310.01425)
 
 ## [Archives](archives/index.md)
 
