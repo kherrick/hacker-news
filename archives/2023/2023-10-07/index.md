@@ -13,6 +13,7 @@
 * [2023-10-07, 18:38:47](https://news.ycombinator.com/item?id=37804329) - [Is the first cure for advanced rabies near?](https://medicalxpress.com/news/2023-09-advanced-rabies.html)
 * [2023-10-07, 18:33:00](https://news.ycombinator.com/item?id=37804288) - [ChatGPT – Dalle3 System Prompt](https://twitter.com/Suhail/status/1710653717081653712)
 * [2023-10-07, 18:29:22](https://news.ycombinator.com/item?id=37804252) - [Why companies still want in-house data centres](https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres)
+* [2023-10-07, 18:23:13](https://news.ycombinator.com/item?id=37804200) - [Show HN: Timbre – An app that finds the best sounds for your sleep](https://apps.apple.com/us/app/timbre-sounds-and-sleep/id6450439150)
 * [2023-10-07, 18:23:12](https://news.ycombinator.com/item?id=37804198) - [Show HN: Reliable AI-generated text detection at checkfor.ai](https://www.checkfor.ai)
 * [2023-10-07, 17:27:21](https://news.ycombinator.com/item?id=37803638) - [\"Attention is all you need\" paper digested](https://www.youtube.com/watch?v=iDulhoQ2pro)
 * [2023-10-07, 17:10:12](https://news.ycombinator.com/item?id=37803466) - [Ask HN: How does Starlink work for IP address/ASN internationally?](https://news.ycombinator.com/item?id=37803466)
