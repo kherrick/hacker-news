@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
 * [2023-10-07, 20:06:42](https://news.ycombinator.com/item?id=37805078) - [You Don't Really Own the Digital Movies You Buy (2021)](https://www.nytimes.com/wirecutter/blog/you-dont-own-your-digital-movies/)
 * [2023-10-07, 19:39:57](https://news.ycombinator.com/item?id=37804856) - [Amazon's Alexa has been claiming the 2020 election was stolen](https://www.washingtonpost.com/technology/2023/10/07/amazon-alexa-news-2020-election-misinformation/)

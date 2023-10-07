@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
 * [2023-10-07, 20:06:42](https://news.ycombinator.com/item?id=37805078) - [You Don't Really Own the Digital Movies You Buy (2021)](https://www.nytimes.com/wirecutter/blog/you-dont-own-your-digital-movies/)
 * [2023-10-07, 19:29:51](https://news.ycombinator.com/item?id=37804763) - [Testing if a port can be reached, using built-in tools other than ol' telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
@@ -26,7 +27,6 @@
 * [2023-10-07, 06:54:00](https://news.ycombinator.com/item?id=37799586) - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
 * [2023-10-07, 06:08:16](https://news.ycombinator.com/item?id=37799387) - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/)
 * [2023-10-07, 04:26:15](https://news.ycombinator.com/item?id=37799010) - [The Last Express](https://www.filfre.net/2023/10/the-last-express/)
-* [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-06, 05:58:11](https://news.ycombinator.com/item?id=37787539) - [Dalibor Farný made Umashimenkana artwork for Alfredo Jaar [video]](https://www.youtube.com/watch?v=8ElxcRCt0mQ)
 * [2023-10-05, 08:22:46](https://news.ycombinator.com/item?id=37776108) - [The father of modern spam speaks (2002)](https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/)
 * [2023-10-05, 08:00:06](https://news.ycombinator.com/item?id=37775962) - [An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
