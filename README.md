@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
 * [2023-10-07, 19:29:51](https://news.ycombinator.com/item?id=37804763) - [Testing if a port can be reached, using built-in tools other than ol' telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
 * [2023-10-07, 18:59:55](https://news.ycombinator.com/item?id=37804493) - [FTX \"insurance fund\" calculated by multiplying trading volume by random number](https://twitter.com/molly0xfff/status/1710718416724595187)
 * [2023-10-07, 18:50:41](https://news.ycombinator.com/item?id=37804423) - [Using Awk and R to parse 25tb (2019)](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
@@ -25,7 +26,6 @@
 * [2023-10-07, 06:08:16](https://news.ycombinator.com/item?id=37799387) - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/)
 * [2023-10-07, 04:26:15](https://news.ycombinator.com/item?id=37799010) - [The Last Express](https://www.filfre.net/2023/10/the-last-express/)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
-* [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
 * [2023-10-06, 14:09:41](https://news.ycombinator.com/item?id=37791002) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-05, 08:22:46](https://news.ycombinator.com/item?id=37776108) - [The father of modern spam speaks (2002)](https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/)
