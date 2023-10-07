@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 22:54:15](https://news.ycombinator.com/item?id=37806200) - [USA paying more interest on its $33T debt than on defense – who holds the IOUs](https://finance.yahoo.com/news/america-now-paying-more-interest-113000593.html)
 * [2023-10-07, 22:11:03](https://news.ycombinator.com/item?id=37805969) - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
 * [2023-10-07, 21:48:45](https://news.ycombinator.com/item?id=37805849) - [Initial release of Incus, the LXD community fork](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-07, 21:38:31](https://news.ycombinator.com/item?id=37805781) - [What Took Down Airbnb](https://www.theatlantic.com/ideas/archive/2023/10/airbnb-new-york-housing-market-can-match/675561/)
