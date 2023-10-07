@@ -10,6 +10,7 @@
 * [2023-10-07, 21:38:31](https://news.ycombinator.com/item?id=37805781) - [What Took Down Airbnb](https://www.theatlantic.com/ideas/archive/2023/10/airbnb-new-york-housing-market-can-match/675561/)
 * [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
 * [2023-10-07, 21:30:12](https://news.ycombinator.com/item?id=37805731) - [Ask HN: Track Users Without Fingerprinting](https://news.ycombinator.com/item?id=37805731)
+* [2023-10-07, 21:10:16](https://news.ycombinator.com/item?id=37805601) - [Council of Europe says 5 governments must investigate Pegasus spyware abuse](https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
 * [2023-10-07, 20:06:42](https://news.ycombinator.com/item?id=37805078) - [You Don't Really Own the Digital Movies You Buy (2021)](https://www.nytimes.com/wirecutter/blog/you-dont-own-your-digital-movies/)

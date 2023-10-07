@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-07, 22:54:15](https://news.ycombinator.com/item?id=37806200) - [USA paying more interest on its $33T debt than on defense – who holds the IOUs](https://finance.yahoo.com/news/america-now-paying-more-interest-113000593.html)
 * [2023-10-07, 22:11:03](https://news.ycombinator.com/item?id=37805969) - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
 * [2023-10-07, 21:38:31](https://news.ycombinator.com/item?id=37805781) - [What Took Down Airbnb](https://www.theatlantic.com/ideas/archive/2023/10/airbnb-new-york-housing-market-can-match/675561/)
 * [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
+* [2023-10-07, 21:10:16](https://news.ycombinator.com/item?id=37805601) - [Council of Europe says 5 governments must investigate Pegasus spyware abuse](https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
 * [2023-10-07, 19:59:43](https://news.ycombinator.com/item?id=37805035) - [1400 year old gold foil figures found in Norwegian pagan temple](https://sciencenorway.no/archaeology-iron-age/another-gold-treasure-in-norway-1400-year-old-gold-foil-figures-found-in-pagan-temple/2253447)
