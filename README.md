@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 17:27:21](https://news.ycombinator.com/item?id=37803638) - [\"Attention is all you need\" paper digested](https://www.youtube.com/watch?v=iDulhoQ2pro)
 * [2023-10-07, 16:36:08](https://news.ycombinator.com/item?id=37803157) - [Toyota Will Adopt Tesla-Style Cast Bodies That Might Be Impossible to Fix](https://www.thedrive.com/news/toyota-will-adopt-tesla-style-cast-bodies-that-might-be-impossible-to-fix)
 * [2023-10-07, 16:31:12](https://news.ycombinator.com/item?id=37803117) - [Zilog's Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 16:24:52](https://news.ycombinator.com/item?id=37803046) - [Internet traffic in Israel surged 170% right after the Hamas attack](https://radar.cloudflare.com/traffic/il?dateRange=2d)
@@ -20,7 +21,6 @@
 * [2023-10-07, 07:01:11](https://news.ycombinator.com/item?id=37799623) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Research Scientists](https://news.ycombinator.com/item?id=37799623)
 * [2023-10-07, 06:54:00](https://news.ycombinator.com/item?id=37799586) - [Auto Xylophone with Homemade Solenoids](https://rachad47.github.io/rwae/Xylophone.html)
 * [2023-10-07, 06:53:19](https://news.ycombinator.com/item?id=37799579) - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.amii.ca/latest-from-amii/john-carmack-and-rich-sutton-agi/)
-* [2023-10-07, 06:51:29](https://news.ycombinator.com/item?id=37799571) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-07, 01:42:35](https://news.ycombinator.com/item?id=37798329) - [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
 * [2023-10-06, 20:54:21](https://news.ycombinator.com/item?id=37796292) - [Why did the Motorola 68000 processor family fall out of use in PCs?](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
