@@ -14,6 +14,7 @@
 * [2023-10-06, 23:12:14](https://news.ycombinator.com/item?id=37797503) - [11 years of SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
 * [2023-10-06, 22:27:35](https://news.ycombinator.com/item?id=37797164) - [Bored Apes' Yuga Labs lays off employees](https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees)
 * [2023-10-06, 22:09:24](https://news.ycombinator.com/item?id=37797012) - [Show HN: What to read after? Personalised AI book recommendations](https://whattoreadafter.xyz/ai-librarian)
+* [2023-10-06, 22:02:38](https://news.ycombinator.com/item?id=37796984) - [The end of the Red Hat security-announcements list](https://lwn.net/Articles/946851/)
 * [2023-10-06, 22:02:26](https://news.ycombinator.com/item?id=37796980) - [Push and Pull](https://kellanem.com/notes/push-and-pull)
 * [2023-10-06, 21:53:05](https://news.ycombinator.com/item?id=37796913) - [US science agencies on track to hit 25-year funding low](https://www.nature.com/articles/d41586-023-03135-x)
 * [2023-10-06, 21:46:50](https://news.ycombinator.com/item?id=37796863) - [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
