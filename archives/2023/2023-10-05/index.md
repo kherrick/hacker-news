@@ -94,6 +94,7 @@
 * [2023-10-05, 08:22:46](https://news.ycombinator.com/item?id=37776108) - [The father of modern spam speaks (2002)](https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/)
 * [2023-10-05, 08:22:34](https://news.ycombinator.com/item?id=37776105) - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 * [2023-10-05, 08:17:21](https://news.ycombinator.com/item?id=37776079) - [The Workflow Pattern](https://blog.bittacklr.be/the-workflow-pattern.html)
+* [2023-10-05, 08:00:06](https://news.ycombinator.com/item?id=37775962) - [An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-05, 07:59:13](https://news.ycombinator.com/item?id=37775954) - [There's No Such Thing as “Implicitly Atomic”](https://belkadan.com/blog/2023/10/Implicity-Atomic/)
 * [2023-10-05, 07:14:43](https://news.ycombinator.com/item?id=37775696) - [How I stay motivated as a solo-creator](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 * [2023-10-05, 07:05:34](https://news.ycombinator.com/item?id=37775649) - [US startup begins producing 40%-efficient thermophotovoltaic cells](https://www.pv-magazine.com/2023/01/25/us-startup-begins-producing-40-efficient-thermophotovoltaic-cells/)
