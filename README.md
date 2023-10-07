@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
 * [2023-10-07, 20:06:42](https://news.ycombinator.com/item?id=37805078) - [You Don't Really Own the Digital Movies You Buy (2021)](https://www.nytimes.com/wirecutter/blog/you-dont-own-your-digital-movies/)
@@ -16,7 +17,6 @@
 * [2023-10-07, 17:10:12](https://news.ycombinator.com/item?id=37803466) - [Ask HN: How does Starlink work for IP address/ASN internationally?](https://news.ycombinator.com/item?id=37803466)
 * [2023-10-07, 16:31:12](https://news.ycombinator.com/item?id=37803117) - [Zilog's Forgotten Operating System: Z80-Rio](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 16:07:48](https://news.ycombinator.com/item?id=37802885) - [Reverse-Engineering the Mechanical Bendix Central Air Data Computer](https://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
-* [2023-10-07, 15:49:33](https://news.ycombinator.com/item?id=37802703) - [True Basic by Kemeny and Kurtz](https://www.truebasic.com)
 * [2023-10-07, 14:43:18](https://news.ycombinator.com/item?id=37802116) - [Wired has removed \"How Google alters search queries\" story](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
 * [2023-10-07, 12:33:10](https://news.ycombinator.com/item?id=37801184) - [Fleuron (typography)](https://en.wikipedia.org/wiki/Fleuron_(typography))
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
