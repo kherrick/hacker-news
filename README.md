@@ -2,6 +2,7 @@
 
 * [2023-10-08, 22:33:35](https://news.ycombinator.com/item?id=37815027) - [RedHat’s security mailing list closing; updates available via web and RSS](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
+* [2023-10-08, 21:47:18](https://news.ycombinator.com/item?id=37814705) - [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
 * [2023-10-08, 21:42:11](https://news.ycombinator.com/item?id=37814667) - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
 * [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-driven development (2021)](https://www.rubick.com/demo-driven-development/)
@@ -29,7 +30,6 @@
 * [2023-10-05, 23:10:17](https://news.ycombinator.com/item?id=37785383) - [Capital Inefficiency](https://cutlefish.substack.com/p/tbm-243-capital-inefficiency)
 * [2023-10-05, 23:03:12](https://news.ycombinator.com/item?id=37785330) - [Star observatories you can visit in the United States](https://matadornetwork.com/read/us-observatories/)
 * [2023-10-05, 22:59:44](https://news.ycombinator.com/item?id=37785300) - [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
-* [2023-10-05, 22:26:13](https://news.ycombinator.com/item?id=37785045) - [Audacity Runs Surprisingly Well in the Browser](https://hackaday.com/2023/10/05/audacity-runs-surprisingly-well-in-your-browser/)
 
 ## [Archives](archives/index.md)
 
