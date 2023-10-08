@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-10-08, 17:17:24",
-      "https://news.ycombinator.com/item?id=37812432"
-    ],
-    [
-      "New pipeline makes valuable organic acid from plants–saving money and emissions",
-      "https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 17:08:11",
       "https://news.ycombinator.com/item?id=37812332"
     ],
@@ -227,6 +217,16 @@
     [
       "Tiny Language Models Come of Age",
       "https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/"
+    ]
+  ],
+  [
+    [
+      "2023-10-06, 04:39:58",
+      "https://news.ycombinator.com/item?id=37787161"
+    ],
+    [
+      "Compiling Rust binaries for Windows 98 SE and more: a journey",
+      "https://seri.tools/blog/compiling-rust-for-legacy-windows/#"
     ]
   ],
   [
