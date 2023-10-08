@@ -7,6 +7,7 @@
 * [2023-10-08, 04:21:15](https://news.ycombinator.com/item?id=37807844) - [Ask HN: Why have people started including GPT in their usernames?](https://news.ycombinator.com/item?id=37807844)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-08, 04:01:56](https://news.ycombinator.com/item?id=37807779) - [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
+* [2023-10-08, 03:47:05](https://news.ycombinator.com/item?id=37807712) - [How far did my post go on the Fediverse?](https://shkspr.mobi/blog/2023/09/how-far-did-my-post-go-on-the-fediverse/)
 * [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
 * [2023-10-08, 02:55:13](https://news.ycombinator.com/item?id=37807503) - [My wife's company is mandating to tell them if I own Bitcoin](https://old.reddit.com/r/Bitcoin/comments/172ivsl/my_wifes_company_is_mandating_to_tell_them_if_i/)
 * [2023-10-08, 02:13:40](https://news.ycombinator.com/item?id=37807281) - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
