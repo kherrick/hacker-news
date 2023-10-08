@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 11:39:07](https://news.ycombinator.com/item?id=37809629) - [The big business of bachelorette party buses](https://thehustle.co/the-big-business-of-bachelorette-party-buses/)
 * [2023-10-08, 11:34:00](https://news.ycombinator.com/item?id=37809613) - [Stephen Fry Warns About the Dangers of Voice Clones](https://jurgengravestein.substack.com/p/stephen-fry-issues-a-stark-warning)
 * [2023-10-08, 11:14:30](https://news.ycombinator.com/item?id=37809529) - [500 Lines or Less – Writing a useful program in fewer than 500 line code – AOSA](https://aosabook.org/en/index.html#500lines)
+* [2023-10-08, 11:12:15](https://news.ycombinator.com/item?id=37809516) - [A Raspberry Pi 5 is better than two Pi 4S](https://hackaday.com/2023/09/28/a-raspberry-pi-5-is-better-than-two-pi-4s/)
 * [2023-10-08, 10:22:49](https://news.ycombinator.com/item?id=37809283) - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
@@ -19,8 +21,6 @@
 * [2023-10-07, 23:21:14](https://news.ycombinator.com/item?id=37806356) - [Lost film of life in Brazil’s Amazon 100 years ago resurfaces](https://www.theguardian.com/world/2023/oct/07/lost-holy-grail-film-of-life-in-brazil-amazon-100-years-ago-resurfaces)
 * [2023-10-07, 22:11:03](https://news.ycombinator.com/item?id=37805969) - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
 * [2023-10-07, 21:01:24](https://news.ycombinator.com/item?id=37805520) - [Twenty: A Modern open-source CRM](https://github.com/twentyhq/twenty)
-* [2023-10-07, 19:59:43](https://news.ycombinator.com/item?id=37805035) - [1400 year old gold foil figures found in Norwegian pagan temple](https://sciencenorway.no/archaeology-iron-age/another-gold-treasure-in-norway-1400-year-old-gold-foil-figures-found-in-pagan-temple/2253447)
-* [2023-10-07, 18:34:37](https://news.ycombinator.com/item?id=37804301) - [Quake related work logs (1996)](https://www.gamers.org/dEngine/quake/info/worklogs.html)
 * [2023-10-07, 12:59:12](https://news.ycombinator.com/item?id=37801354) - [Sonoma's log gets briefer and more secretive](https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
