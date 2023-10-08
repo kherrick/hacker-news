@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
 * [2023-10-08, 02:55:13](https://news.ycombinator.com/item?id=37807503) - [My wife's company is mandating to tell them if I own Bitcoin](https://old.reddit.com/r/Bitcoin/comments/172ivsl/my_wifes_company_is_mandating_to_tell_them_if_i/)
 * [2023-10-08, 02:13:40](https://news.ycombinator.com/item?id=37807281) - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [MIT creates an implantable device that produces insulin](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
