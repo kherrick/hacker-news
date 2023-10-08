@@ -5,7 +5,6 @@
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 * [2023-10-08, 00:16:26](https://news.ycombinator.com/item?id=37806730) - [Photo Tampering Throughout History [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/history.pdf)
 * [2023-10-08, 00:01:18](https://news.ycombinator.com/item?id=37806636) - [California nearly decriminalizes psychedelics – but governor hits brakes](https://www.theguardian.com/us-news/2023/oct/07/california-governor-vetoes-bill-to-decriminalize-natural-psychedelic-drugs)
-* [2023-10-07, 23:47:37](https://news.ycombinator.com/item?id=37806553) - [Internet traffic impacted in Palestine after attacks. Some ISPs are offline](https://twitter.com/CloudflareRadar/status/1710796767288021225?s=20)
 * [2023-10-07, 23:16:24](https://news.ycombinator.com/item?id=37806323) - [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
 * [2023-10-07, 22:28:51](https://news.ycombinator.com/item?id=37806080) - [Kyushu University released more than 1500 3D models of animals and plants (2022)](https://sketchfab.com/ffishAsia-and-floraZia)
 * [2023-10-07, 22:11:03](https://news.ycombinator.com/item?id=37805969) - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
@@ -28,6 +27,7 @@
 * [2023-10-07, 04:26:15](https://news.ycombinator.com/item?id=37799010) - [The Last Express](https://www.filfre.net/2023/10/the-last-express/)
 * [2023-10-06, 20:45:47](https://news.ycombinator.com/item?id=37796174) - [Electoral graffiti found inside Pompeii house](http://www.thehistoryblog.com/archives/68418)
 * [2023-10-06, 05:58:11](https://news.ycombinator.com/item?id=37787539) - [Dalibor Farný made Umashimenkana artwork for Alfredo Jaar [video]](https://www.youtube.com/watch?v=8ElxcRCt0mQ)
+* [2023-10-05, 12:06:34](https://news.ycombinator.com/item?id=37777545) - [Smart Programmers Write STUPID Code](https://bdicroce.medium.com/smart-programmers-write-stupid-code-397765a14b14)
 * [2023-10-05, 08:22:46](https://news.ycombinator.com/item?id=37776108) - [The father of modern spam speaks (2002)](https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/)
 * [2023-10-05, 08:00:06](https://news.ycombinator.com/item?id=37775962) - [An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 
