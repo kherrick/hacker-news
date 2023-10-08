@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 22:33:35](https://news.ycombinator.com/item?id=37815027) - [RedHat is closing their security mailing list](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
-* [2023-10-08, 21:47:18](https://news.ycombinator.com/item?id=37814705) - [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
-* [2023-10-08, 21:27:04](https://news.ycombinator.com/item?id=37814573) - [X strips headlines from news story links to improve their look](https://www.theguardian.com/technology/2023/oct/05/x-twitter-strips-headlines-new-links-why-elon-musk)
+* [2023-10-08, 21:42:11](https://news.ycombinator.com/item?id=37814667) - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
 * [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-Driven Development (2021)](https://www.rubick.com/demo-driven-development/)
 * [2023-10-08, 20:34:02](https://news.ycombinator.com/item?id=37814182) - [Show HN: This is what social media could be](https://bloom.tendtoyourgarden.xyz/)
