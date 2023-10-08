@@ -31,6 +31,7 @@
 * [2023-10-08, 15:20:06](https://news.ycombinator.com/item?id=37811244) - [Open Letter to the Linux World (2014)](https://lkml.org/lkml/2014/8/12/459)
 * [2023-10-08, 13:41:10](https://news.ycombinator.com/item?id=37810366) - [Things I just don't like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 * [2023-10-08, 13:30:07](https://news.ycombinator.com/item?id=37810277) - [World EV Sales Now Equal 18% of World Auto Sales](https://cleantechnica.com/2023/10/07/world-ev-sales-now-equal-18-of-world-auto-sales/)
+* [2023-10-08, 13:10:36](https://news.ycombinator.com/item?id=37810144) - [Flappy Dird: Flappy Bird Implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 * [2023-10-08, 12:27:28](https://news.ycombinator.com/item?id=37809869) - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
