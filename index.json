@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-08, 21:55:09",
+      "https://news.ycombinator.com/item?id=37814748"
+    ],
+    [
+      "Forty Years of Programming",
+      "https://fabiensanglard.net/40/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 21:47:18",
+      "https://news.ycombinator.com/item?id=37814705"
+    ],
+    [
+      "US moves closer to underground testing of nuclear weapons without any explosions",
+      "https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934"
+    ]
+  ],
+  [
+    [
       "2023-10-08, 20:59:57",
       "https://news.ycombinator.com/item?id=37814356"
     ],
@@ -27,6 +47,16 @@
     [
       "Thousands of young people are fleeing Toronto – economists say city will suffer",
       "https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 20:34:02",
+      "https://news.ycombinator.com/item?id=37814182"
+    ],
+    [
+      "Show HN: This is what social media could be",
+      "https://bloom.tendtoyourgarden.xyz/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-10-08, 12:20:23",
-      "https://news.ycombinator.com/item?id=37809834"
-    ],
-    [
-      "Contour: Modern and fast terminal emulator",
-      "https://github.com/contour-terminal/contour"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 11:54:11",
       "https://news.ycombinator.com/item?id=37809696"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-10-08, 11:12:15",
-      "https://news.ycombinator.com/item?id=37809516"
-    ],
-    [
-      "A Raspberry Pi 5 is better than two Pi 4S",
-      "https://hackaday.com/2023/09/28/a-raspberry-pi-5-is-better-than-two-pi-4s/"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 09:43:39",
       "https://news.ycombinator.com/item?id=37809126"
     ],
     [
       "Pg_bm25: Elastic-Quality Full Text Search Inside Postgres",
       "https://docs.paradedb.com/blog/introducing_bm25"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 06:42:35",
-      "https://news.ycombinator.com/item?id=37808366"
-    ],
-    [
-      "Fury – Fast multi-language serialization framework powered by JIT and Zero-copy",
-      "https://github.com/alipay/fury"
     ]
   ],
   [
