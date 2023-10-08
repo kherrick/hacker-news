@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:45:47](https://news.ycombinator.com/item?id=37813786) - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
 * [2023-10-08, 19:37:21](https://news.ycombinator.com/item?id=37813711) - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
 * [2023-10-08, 17:59:36](https://news.ycombinator.com/item?id=37812847) - [New study confirms gulf stream weakening](https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html)
 * [2023-10-08, 17:31:10](https://news.ycombinator.com/item?id=37812556) - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
-* [2023-10-08, 17:17:24](https://news.ycombinator.com/item?id=37812432) - [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
 * [2023-10-08, 17:08:11](https://news.ycombinator.com/item?id=37812332) - [Writing down unfiltered thoughts enhances self-knowledge](https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head/)
 * [2023-10-08, 16:57:02](https://news.ycombinator.com/item?id=37812217) - [OpenIPC: Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 * [2023-10-08, 16:51:28](https://news.ycombinator.com/item?id=37812142) - [The Tailscale Universal Docker Mod](https://tailscale.dev/blog/docker-mod-tailscale)
