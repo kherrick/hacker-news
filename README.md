@@ -2,12 +2,11 @@
 
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-08, 21:47:18](https://news.ycombinator.com/item?id=37814705) - [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
+* [2023-10-08, 21:27:04](https://news.ycombinator.com/item?id=37814573) - [X strips headlines from news story links to improve their look](https://www.theguardian.com/technology/2023/oct/05/x-twitter-strips-headlines-new-links-why-elon-musk)
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
 * [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-Driven Development (2021)](https://www.rubick.com/demo-driven-development/)
-* [2023-10-08, 20:44:51](https://news.ycombinator.com/item?id=37814243) - [Thousands of young people are fleeing Toronto – economists say city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
 * [2023-10-08, 20:34:02](https://news.ycombinator.com/item?id=37814182) - [Show HN: This is what social media could be](https://bloom.tendtoyourgarden.xyz/)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
-* [2023-10-08, 19:45:47](https://news.ycombinator.com/item?id=37813786) - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
 * [2023-10-08, 19:37:21](https://news.ycombinator.com/item?id=37813711) - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
 * [2023-10-08, 17:31:10](https://news.ycombinator.com/item?id=37812556) - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
 * [2023-10-08, 17:08:11](https://news.ycombinator.com/item?id=37812332) - [Writing down unfiltered thoughts enhances self-knowledge](https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head/)
@@ -30,6 +29,7 @@
 * [2023-10-05, 23:10:17](https://news.ycombinator.com/item?id=37785383) - [Capital Inefficiency](https://cutlefish.substack.com/p/tbm-243-capital-inefficiency)
 * [2023-10-05, 23:03:12](https://news.ycombinator.com/item?id=37785330) - [Star observatories you can visit in the United States](https://matadornetwork.com/read/us-observatories/)
 * [2023-10-05, 22:59:44](https://news.ycombinator.com/item?id=37785300) - [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
+* [2023-10-05, 22:26:13](https://news.ycombinator.com/item?id=37785045) - [Audacity Runs Surprisingly Well in the Browser](https://hackaday.com/2023/10/05/audacity-runs-surprisingly-well-in-your-browser/)
 
 ## [Archives](archives/index.md)
 

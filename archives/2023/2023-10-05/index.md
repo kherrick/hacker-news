@@ -17,6 +17,7 @@
 * [2023-10-05, 23:03:12](https://news.ycombinator.com/item?id=37785330) - [Star Observatories You Can Visit in the United States](https://matadornetwork.com/read/us-observatories/)
 * [2023-10-05, 22:59:44](https://news.ycombinator.com/item?id=37785300) - [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
 * [2023-10-05, 22:53:19](https://news.ycombinator.com/item?id=37785253) - [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
+* [2023-10-05, 22:26:13](https://news.ycombinator.com/item?id=37785045) - [Audacity Runs Surprisingly Well in the Browser](https://hackaday.com/2023/10/05/audacity-runs-surprisingly-well-in-your-browser/)
 * [2023-10-05, 22:19:36](https://news.ycombinator.com/item?id=37784997) - [Proboscis, Pollen, and the Rapture of Interspecies Intimacy](https://worldsensorium.com/proboscis-pollen-and-the-rapture-of-interspecies-intimacy/)
 * [2023-10-05, 22:18:36](https://news.ycombinator.com/item?id=37784984) - [My Brain Doesn’t Picture Things](https://nautil.us/my-brain-doesnt-picture-things-407444/)
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [The $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
