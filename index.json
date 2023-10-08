@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-10-08, 00:46:45",
+      "https://news.ycombinator.com/item?id=37806861"
+    ],
+    [
+      "Decomposing Language Models into Understandable Components",
+      "https://www.anthropic.com/index/decomposing-language-models-into-understandable-components"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 00:05:23",
+      "https://news.ycombinator.com/item?id=37806657"
+    ],
+    [
+      "Newsom vetoes a proposed ban on caste discrimination in California",
+      "https://www.politico.com/news/2023/10/07/newsom-veto-caste-discrimination-00120495"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 23:47:37",
+      "https://news.ycombinator.com/item?id=37806553"
+    ],
+    [
+      "Internet traffic impacted in Palestine after attacks. Some ISPs are offline",
+      "https://twitter.com/CloudflareRadar/status/1710796767288021225?s=20"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 23:16:24",
+      "https://news.ycombinator.com/item?id=37806323"
+    ],
+    [
+      "Amazon launches its Bedrock generative AI service in general availability",
+      "https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 22:11:03",
       "https://news.ycombinator.com/item?id=37805969"
     ],
@@ -27,6 +67,16 @@
     [
       "Council of Europe says 5 governments must investigate Pegasus spyware abuse",
       "https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 20:52:12",
+      "https://news.ycombinator.com/item?id=37805451"
+    ],
+    [
+      "Coroutine demonstration with setjmp/longjmp (STM32)",
+      "https://moosh.im/2020/07/coroutine-demonstration-with-setjmp-longjmp-stm32/"
     ]
   ],
   [
@@ -61,32 +111,12 @@
   ],
   [
     [
-      "2023-10-07, 18:50:41",
-      "https://news.ycombinator.com/item?id=37804423"
+      "2023-10-07, 19:29:51",
+      "https://news.ycombinator.com/item?id=37804763"
     ],
     [
-      "Using Awk and R to parse 25tb (2019)",
-      "https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 18:45:15",
-      "https://news.ycombinator.com/item?id=37804389"
-    ],
-    [
-      "Whatever happened to interoperability?",
-      "https://www.theamericanconservative.com/a-murder-story-whatever-happened-to-interoperability/"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 18:38:47",
-      "https://news.ycombinator.com/item?id=37804329"
-    ],
-    [
-      "Is the first cure for advanced rabies near?",
-      "https://medicalxpress.com/news/2023-09-advanced-rabies.html"
+      "Testing if a port can be reached, using built-in tools other than ol' telnet",
+      "https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-10-07, 17:27:21",
-      "https://news.ycombinator.com/item?id=37803638"
-    ],
-    [
-      "\"Attention is all you need\" paper digested (2018)",
-      "https://www.youtube.com/watch?v=iDulhoQ2pro"
-    ]
-  ],
-  [
-    [
       "2023-10-07, 16:07:48",
       "https://news.ycombinator.com/item?id=37802885"
     ],
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2023-10-07, 14:43:18",
-      "https://news.ycombinator.com/item?id=37802116"
+      "2023-10-07, 12:59:12",
+      "https://news.ycombinator.com/item?id=37801354"
     ],
     [
-      "Wired has removed \"How Google alters search queries\" story",
-      "https://www.wired.com/story/google-antitrust-lawsuit-search-results/"
+      "Sonoma's log gets briefer and more secretive",
+      "https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/"
     ]
   ],
   [
@@ -201,12 +221,22 @@
   ],
   [
     [
-      "2023-10-07, 08:35:31",
-      "https://news.ycombinator.com/item?id=37800062"
+      "2023-10-07, 07:01:38",
+      "https://news.ycombinator.com/item?id=37799624"
     ],
     [
-      "Subtraction is functionally complete",
-      "https://orlp.net/blog/subtraction-is-functionally-complete/"
+      "What Is Dual Power Transfer Switch?",
+      "http://www.asbeam.com/news/dual_power_switch-cn.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 06:11:06",
+      "https://news.ycombinator.com/item?id=37799400"
+    ],
+    [
+      "Epistemology in the Lancet",
+      "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02220-1/fulltext"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2023-10-06, 20:54:21",
-      "https://news.ycombinator.com/item?id=37796292"
-    ],
-    [
-      "Why did the Motorola 68000 processor family fall out of use in PCs?",
-      "https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 20:45:47",
       "https://news.ycombinator.com/item?id=37796174"
     ],
     [
       "Electoral graffiti found inside Pompeii house",
       "http://www.thehistoryblog.com/archives/68418"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 20:44:50",
-      "https://news.ycombinator.com/item?id=37796157"
-    ],
-    [
-      "Charles H. Bennett's Shadows (ca. 1856)",
-      "https://publicdomainreview.org/collection/shadows/"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 14:09:41",
-      "https://news.ycombinator.com/item?id=37791002"
-    ],
-    [
-      "Making Hard Things Easy",
-      "https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/"
     ]
   ],
   [
