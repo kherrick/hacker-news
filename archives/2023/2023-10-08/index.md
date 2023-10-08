@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 19:31:19](https://news.ycombinator.com/item?id=37813666) - [Starlink carbon footprint up to 30 times size of land-based internet](https://www.newscientist.com/article/2394949-starlink-carbon-footprint-up-to-30-times-size-of-land-based-internet/)
 * [2023-10-08, 18:10:33](https://news.ycombinator.com/item?id=37812964) - [Born poor, stay poor: what my $120k student debt says about class in the US](https://www.theguardian.com/money/2023/oct/08/us-student-debt-class-poverty-wealth)
 * [2023-10-08, 17:59:36](https://news.ycombinator.com/item?id=37812847) - [New study definitively confirms gulf stream weakening](https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html)
 * [2023-10-08, 17:53:32](https://news.ycombinator.com/item?id=37812782) - [Ferrocene – Rust for Critical Systems](https://ferrous-systems.com/ferrocene/)
