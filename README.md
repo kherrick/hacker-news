@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 16:49:26](https://news.ycombinator.com/item?id=37812113) - [Zen 5's Leaked Slides](https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/)
 * [2023-10-08, 16:13:25](https://news.ycombinator.com/item?id=37811732) - [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
-* [2023-10-08, 13:41:10](https://news.ycombinator.com/item?id=37810366) - [Things I just don't like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 * [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 * [2023-10-08, 12:27:28](https://news.ycombinator.com/item?id=37809869) - [Strong evidence is common (2021)](https://markxu.com/strong-evidence)

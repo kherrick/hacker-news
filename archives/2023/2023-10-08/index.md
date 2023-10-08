@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 16:49:26](https://news.ycombinator.com/item?id=37812113) - [Zen 5's Leaked Slides](https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/)
 * [2023-10-08, 16:13:25](https://news.ycombinator.com/item?id=37811732) - [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
 * [2023-10-08, 15:20:06](https://news.ycombinator.com/item?id=37811244) - [Open Letter to the Linux World (2014)](https://lkml.org/lkml/2014/8/12/459)
 * [2023-10-08, 13:41:10](https://news.ycombinator.com/item?id=37810366) - [Things I just don't like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
