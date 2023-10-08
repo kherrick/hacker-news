@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 02:55:13](https://news.ycombinator.com/item?id=37807503) - [My wife's company is mandating to tell them if I own Bitcoin](https://old.reddit.com/r/Bitcoin/comments/172ivsl/my_wifes_company_is_mandating_to_tell_them_if_i/)
+* [2023-10-08, 02:13:40](https://news.ycombinator.com/item?id=37807281) - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [MIT creates an implantable device that produces insulin](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
 * [2023-10-08, 01:52:00](https://news.ycombinator.com/item?id=37807175) - [How a Social Network Fails](https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/)
 * [2023-10-08, 01:46:00](https://news.ycombinator.com/item?id=37807140) - [Oil-Canning](http://livingstingy.blogspot.com/2023/08/dude-wheres-my-cybertruck.html)

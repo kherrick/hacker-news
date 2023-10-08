@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
 * [2023-10-07, 23:47:37](https://news.ycombinator.com/item?id=37806553) - [Internet traffic impacted in Palestine after attacks. Some ISPs are offline](https://twitter.com/CloudflareRadar/status/1710796767288021225?s=20)
+* [2023-10-07, 23:21:14](https://news.ycombinator.com/item?id=37806356) - [Lost film of life in Brazil’s Amazon 100 years ago resurfaces](https://www.theguardian.com/world/2023/oct/07/lost-holy-grail-film-of-life-in-brazil-amazon-100-years-ago-resurfaces)
 * [2023-10-07, 23:16:24](https://news.ycombinator.com/item?id=37806323) - [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
 * [2023-10-07, 22:54:15](https://news.ycombinator.com/item?id=37806200) - [USA paying more interest on its $33T debt than on defense – who holds the IOUs](https://finance.yahoo.com/news/america-now-paying-more-interest-113000593.html)
 * [2023-10-07, 22:28:51](https://news.ycombinator.com/item?id=37806080) - [Kyushu University released more than 1500 3D models of animals and plants (2022)](https://sketchfab.com/ffishAsia-and-floraZia)
@@ -14,6 +15,7 @@
 * [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
 * [2023-10-07, 21:30:12](https://news.ycombinator.com/item?id=37805731) - [Ask HN: Track Users Without Fingerprinting](https://news.ycombinator.com/item?id=37805731)
 * [2023-10-07, 21:10:16](https://news.ycombinator.com/item?id=37805601) - [Council of Europe says 5 governments must investigate Pegasus spyware abuse](https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee)
+* [2023-10-07, 21:01:24](https://news.ycombinator.com/item?id=37805520) - [Twenty: A Modern open-source CRM](https://github.com/twentyhq/twenty)
 * [2023-10-07, 20:52:12](https://news.ycombinator.com/item?id=37805451) - [Coroutine demonstration with setjmp/longjmp (STM32)](https://moosh.im/2020/07/coroutine-demonstration-with-setjmp-longjmp-stm32/)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 20:13:31](https://news.ycombinator.com/item?id=37805133) - [More than 10k pre-Columbian earthworks are still hidden throughout Amazonia](https://www.science.org/doi/10.1126/science.ade2541?adobe_mc=MCMID%3D83960885786336698153577677940677830318%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1696612291)
