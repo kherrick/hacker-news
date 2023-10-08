@@ -14,6 +14,7 @@
 * [2023-10-08, 11:14:30](https://news.ycombinator.com/item?id=37809529) - [500 Lines or Less – Writing a useful program in fewer than 500 line code – AOSA](https://aosabook.org/en/index.html#500lines)
 * [2023-10-08, 11:12:15](https://news.ycombinator.com/item?id=37809516) - [A Raspberry Pi 5 is better than two Pi 4S](https://hackaday.com/2023/09/28/a-raspberry-pi-5-is-better-than-two-pi-4s/)
 * [2023-10-08, 10:22:49](https://news.ycombinator.com/item?id=37809283) - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
+* [2023-10-08, 10:21:59](https://news.ycombinator.com/item?id=37809276) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 08:23:25](https://news.ycombinator.com/item?id=37808757) - [Show HN: Track time spent on activities that matter to you](https://www.countthehours.app)
 * [2023-10-08, 07:11:03](https://news.ycombinator.com/item?id=37808485) - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
