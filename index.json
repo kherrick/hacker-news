@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-10-08, 03:59:37",
+      "https://news.ycombinator.com/item?id=37807770"
+    ],
+    [
+      "Microsoft launches new app store for Windows – from React to Shoelace, Lit, Vite",
+      "https://www.theverge.com/2023/10/6/23906082/microsoft-windows-app-store-web-version-launch"
+    ]
+  ],
+  [
+    [
       "2023-10-08, 03:47:05",
       "https://news.ycombinator.com/item?id=37807712"
     ],
@@ -137,16 +147,6 @@
     [
       "Twenty: A Modern open-source CRM",
       "https://github.com/twentyhq/twenty"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 20:52:12",
-      "https://news.ycombinator.com/item?id=37805451"
-    ],
-    [
-      "Coroutine demonstration with setjmp/longjmp (STM32)",
-      "https://moosh.im/2020/07/coroutine-demonstration-with-setjmp-longjmp-stm32/"
     ]
   ],
   [
