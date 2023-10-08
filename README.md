@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-08, 13:30:07](https://news.ycombinator.com/item?id=37810277) - [World EV Sales Now Equal 18% of World Auto Sales](https://cleantechnica.com/2023/10/07/world-ev-sales-now-equal-18-of-world-auto-sales/)
+* [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 * [2023-10-08, 12:27:28](https://news.ycombinator.com/item?id=37809869) - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
 * [2023-10-08, 12:20:23](https://news.ycombinator.com/item?id=37809834) - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
@@ -15,7 +16,6 @@
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
 * [2023-10-08, 04:01:56](https://news.ycombinator.com/item?id=37807779) - [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
-* [2023-10-08, 03:47:05](https://news.ycombinator.com/item?id=37807712) - [How far did my post go on the Fediverse?](https://shkspr.mobi/blog/2023/09/how-far-did-my-post-go-on-the-fediverse/)
 * [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
 * [2023-10-08, 02:13:40](https://news.ycombinator.com/item?id=37807281) - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
