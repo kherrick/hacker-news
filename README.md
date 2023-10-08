@@ -2,7 +2,7 @@
 
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
 * [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-Driven Development (2021)](https://www.rubick.com/demo-driven-development/)
-* [2023-10-08, 20:44:51](https://news.ycombinator.com/item?id=37814243) - [Thousands of young people are fleeing Toronto, economists: city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
+* [2023-10-08, 20:44:51](https://news.ycombinator.com/item?id=37814243) - [Thousands of young people are fleeing Toronto – economists say city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:45:47](https://news.ycombinator.com/item?id=37813786) - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
 * [2023-10-08, 19:37:21](https://news.ycombinator.com/item?id=37813711) - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
@@ -22,7 +22,7 @@
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury – Fast multi-language serialization framework powered by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-06, 05:25:53](https://news.ycombinator.com/item?id=37787350) - [Tiny Language Models Come of Age](https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
-* [2023-10-06, 04:39:58](https://news.ycombinator.com/item?id=37787161) - [Compiling Rust binaries for Windows 98 SE and more: a journey](https://seri.tools/blog/compiling-rust-for-legacy-windows/#)
+* [2023-10-06, 04:39:58](https://news.ycombinator.com/item?id=37787161) - [Compiling Rust binaries for Windows 98 SE and more: a journey (2020)](https://seri.tools/blog/compiling-rust-for-legacy-windows/#)
 * [2023-10-06, 02:11:33](https://news.ycombinator.com/item?id=37786488) - [The Economics of Programming Languages [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 23:50:04](https://news.ycombinator.com/item?id=37785679) - [Adversarial competition and collusion in algorithmic markets](https://www.nature.com/articles/s42256-023-00646-0)
 * [2023-10-05, 23:41:51](https://news.ycombinator.com/item?id=37785614) - [Summary of “The Procrastination Equation”](https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/)
