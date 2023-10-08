@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
+* [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-Driven Development (2021)](https://www.rubick.com/demo-driven-development/)
 * [2023-10-08, 20:44:51](https://news.ycombinator.com/item?id=37814243) - [Thousands of young people are fleeing Toronto, economists: city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:45:47](https://news.ycombinator.com/item?id=37813786) - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
@@ -17,7 +18,6 @@
 * [2023-10-08, 11:54:11](https://news.ycombinator.com/item?id=37809696) - [Lessons from Bootstrapped Companies Founded by Software Engineers](https://newsletter.pragmaticengineer.com/p/lessons-from-bootstrapped-companies)
 * [2023-10-08, 11:14:30](https://news.ycombinator.com/item?id=37809529) - [500 Lines or Less (2016)](https://aosabook.org/en/index.html#500lines)
 * [2023-10-08, 11:12:15](https://news.ycombinator.com/item?id=37809516) - [A Raspberry Pi 5 is better than two Pi 4S](https://hackaday.com/2023/09/28/a-raspberry-pi-5-is-better-than-two-pi-4s/)
-* [2023-10-08, 10:21:59](https://news.ycombinator.com/item?id=37809276) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-08, 09:43:39](https://news.ycombinator.com/item?id=37809126) - [Pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury – Fast multi-language serialization framework powered by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
