@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 18:10:33](https://news.ycombinator.com/item?id=37812964) - [Born poor, stay poor: what my $120k student debt says about class in the US](https://www.theguardian.com/money/2023/oct/08/us-student-debt-class-poverty-wealth)
+* [2023-10-08, 17:53:32](https://news.ycombinator.com/item?id=37812782) - [Ferrocene – Rust for Critical Systems](https://ferrous-systems.com/ferrocene/)
 * [2023-10-08, 17:31:10](https://news.ycombinator.com/item?id=37812556) - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
 * [2023-10-08, 17:17:24](https://news.ycombinator.com/item?id=37812432) - [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
 * [2023-10-08, 17:08:48](https://news.ycombinator.com/item?id=37812342) - [Email Steve Jobs sent to himself 1 year before his passing](https://officechai.com/stories/steve-jobs-email-to-self/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 18:10:33](https://news.ycombinator.com/item?id=37812964) - [Born poor, stay poor: what my $120k student debt says about class in the US](https://www.theguardian.com/money/2023/oct/08/us-student-debt-class-poverty-wealth)
+* [2023-10-08, 17:53:32](https://news.ycombinator.com/item?id=37812782) - [Ferrocene – Rust for Critical Systems](https://ferrous-systems.com/ferrocene/)
 * [2023-10-08, 17:31:10](https://news.ycombinator.com/item?id=37812556) - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
 * [2023-10-08, 17:17:24](https://news.ycombinator.com/item?id=37812432) - [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
 * [2023-10-08, 17:00:36](https://news.ycombinator.com/item?id=37812259) - [The Era of Startups Is Over](https://acecreamu.substack.com/p/hard-time-for-startups)
@@ -8,7 +10,6 @@
 * [2023-10-08, 16:32:14](https://news.ycombinator.com/item?id=37811923) - [Americans born in 2019 will spend 48% to 60% of lives on prescription medication](https://read.dukeupress.edu/demography/article/60/5/1549/382305/Life-Course-Patterns-of-Prescription-Drug-Use-in)
 * [2023-10-08, 16:21:31](https://news.ycombinator.com/item?id=37811814) - [Scaling Knative to 100K+ Webapps](https://render.com/blog/knative)
 * [2023-10-08, 15:44:29](https://news.ycombinator.com/item?id=37811481) - [Cats Are Perfect. An Evolutionary Biologist Explains Why](https://www.scientificamerican.com/article/cats-are-perfect-an-evolutionary-biologist-explains-why/)
-* [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 * [2023-10-08, 12:20:23](https://news.ycombinator.com/item?id=37809834) - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
 * [2023-10-08, 12:00:08](https://news.ycombinator.com/item?id=37809721) - [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
@@ -24,7 +25,6 @@
 * [2023-10-08, 00:48:03](https://news.ycombinator.com/item?id=37806870) - [Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing language models into understandable components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
-* [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 * [2023-10-06, 05:25:53](https://news.ycombinator.com/item?id=37787350) - [Tiny Language Models Come of Age](https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
 * [2023-10-06, 02:11:33](https://news.ycombinator.com/item?id=37786488) - [The Economics of Programming Languages [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 23:50:04](https://news.ycombinator.com/item?id=37785679) - [Adversarial competition and collusion in algorithmic markets](https://www.nature.com/articles/s42256-023-00646-0)
