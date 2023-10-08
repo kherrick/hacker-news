@@ -14,6 +14,7 @@
 * [2023-10-08, 16:57:02](https://news.ycombinator.com/item?id=37812217) - [Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 * [2023-10-08, 16:51:28](https://news.ycombinator.com/item?id=37812142) - [The Tailscale Universal Docker Mod](https://tailscale.dev/blog/docker-mod-tailscale)
 * [2023-10-08, 16:49:26](https://news.ycombinator.com/item?id=37812113) - [Zen 5's Leaked Slides](https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/)
+* [2023-10-08, 16:34:46](https://news.ycombinator.com/item?id=37811953) - [Calling Rust from Python](https://blog.frankel.ch/rust-from-python/)
 * [2023-10-08, 16:32:14](https://news.ycombinator.com/item?id=37811923) - [Americans born in 2019 will spend 48% to 60% of lives on prescription medication](https://read.dukeupress.edu/demography/article/60/5/1549/382305/Life-Course-Patterns-of-Prescription-Drug-Use-in)
 * [2023-10-08, 16:21:31](https://news.ycombinator.com/item?id=37811814) - [Scaling Knative to 100K+ Webapps](https://render.com/blog/knative)
 * [2023-10-08, 16:13:25](https://news.ycombinator.com/item?id=37811732) - [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
