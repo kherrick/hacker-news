@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-10-08, 19:31:19",
-      "https://news.ycombinator.com/item?id=37813666"
+      "2023-10-08, 19:45:47",
+      "https://news.ycombinator.com/item?id=37813786"
     ],
     [
-      "Starlink carbon footprint up to 30 times size of land-based internet",
-      "https://www.newscientist.com/article/2394949-starlink-carbon-footprint-up-to-30-times-size-of-land-based-internet/"
+      "Learning Nim: Write an Interpreter [video]",
+      "https://www.youtube.com/watch?v=48CsjEFzyXQ"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 19:37:21",
+      "https://news.ycombinator.com/item?id=37813711"
+    ],
+    [
+      "Amazon launches Project Kuiper satellite internet prototypes",
+      "https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "New study confirms gulf stream weakening",
       "https://phys.org/news/2023-09-definitively-gulf-stream-weakening.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 17:53:32",
-      "https://news.ycombinator.com/item?id=37812782"
-    ],
-    [
-      "Ferrocene – Rust for Critical Systems",
-      "https://ferrous-systems.com/ferrocene/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37812513"
     ],
     [
-      "The NYC's MTA 20 Year Needs Assessment Reminds Us They Can't Build",
+      "The NYC's MTA 20 year needs assessment reminds us they can't build",
       "https://pedestrianobservations.com/2023/10/06/the-mta-20-year-needs-assessment-reminds-us-they-cant-build/"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "New pipeline makes valuable organic acid from plants–saving money and emissions",
       "https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 17:08:11",
+      "https://news.ycombinator.com/item?id=37812332"
+    ],
+    [
+      "Writing down unfiltered thoughts enhances self-knowledge",
+      "https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head/"
     ]
   ],
   [
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2023-10-08, 15:44:29",
-      "https://news.ycombinator.com/item?id=37811481"
+      "2023-10-08, 13:00:54",
+      "https://news.ycombinator.com/item?id=37810068"
     ],
     [
-      "Cats Are Perfect. An Evolutionary Biologist Explains Why",
-      "https://www.scientificamerican.com/article/cats-are-perfect-an-evolutionary-biologist-explains-why/"
+      "Fastest sailboat: Two wild designs",
+      "https://newatlas.com/marine/syroco-sp80-testing/"
     ]
   ],
   [
@@ -125,18 +135,8 @@
       "https://news.ycombinator.com/item?id=37809834"
     ],
     [
-      "Contour: Modern and Fast Terminal Emulator",
+      "Contour: Modern and fast terminal emulator",
       "https://github.com/contour-terminal/contour"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 12:00:08",
-      "https://news.ycombinator.com/item?id=37809721"
-    ],
-    [
-      "Homebrew to deprecate and add caveat for HashiCorp",
-      "https://github.com/Homebrew/homebrew-core/pull/139538"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=37809529"
     ],
     [
-      "500 Lines or Less",
+      "500 Lines or Less (2016)",
       "https://aosabook.org/en/index.html#500lines"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=37785614"
     ],
     [
-      "A Book Summary of “The Procrastination Equation”, by Dr. Piers Steel",
+      "Summary of “The Procrastination Equation”",
       "https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37785330"
     ],
     [
-      "Star Observatories You Can Visit in the United States",
+      "Star observatories you can visit in the United States",
       "https://matadornetwork.com/read/us-observatories/"
     ]
   ],
