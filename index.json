@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-08, 15:20:06",
+      "https://news.ycombinator.com/item?id=37811244"
+    ],
+    [
+      "Open Letter to the Linux World (2014)",
+      "https://lkml.org/lkml/2014/8/12/459"
+    ]
+  ],
+  [
+    [
       "2023-10-08, 13:30:07",
       "https://news.ycombinator.com/item?id=37810277"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37809869"
     ],
     [
-      "Strong Evidence Is Common",
+      "Strong evidence is common (2021)",
       "https://markxu.com/strong-evidence"
     ]
   ],
@@ -61,21 +71,11 @@
   ],
   [
     [
-      "2023-10-08, 11:58:20",
-      "https://news.ycombinator.com/item?id=37809710"
-    ],
-    [
-      "CancelQuora",
-      "https://interestingauthors.com/blog/experience/quora/"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 11:14:30",
       "https://news.ycombinator.com/item?id=37809529"
     ],
     [
-      "500 Lines or Less – Writing a useful program in fewer than 500 line code – AOSA",
+      "500 Lines or Less",
       "https://aosabook.org/en/index.html#500lines"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37808366"
     ],
     [
-      "Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy",
+      "Fury – Fast multi-language serialization framework powered by JIT and Zero-copy",
       "https://github.com/alipay/fury"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=37786488"
     ],
     [
-      "“The Economics of Programming Languages” by Evan Czaplicki [video]",
+      "The Economics of Programming Languages [video]",
       "https://www.youtube.com/watch?v=XZ3w_jec1v8"
     ]
   ],
