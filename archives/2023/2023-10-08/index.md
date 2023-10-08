@@ -11,6 +11,7 @@
 * [2023-10-08, 04:21:15](https://news.ycombinator.com/item?id=37807844) - [Ask HN: Why have people started including GPT in their usernames?](https://news.ycombinator.com/item?id=37807844)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-08, 04:01:56](https://news.ycombinator.com/item?id=37807779) - [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
+* [2023-10-08, 03:59:37](https://news.ycombinator.com/item?id=37807770) - [Microsoft launches new app store for Windows – from React to Shoelace, Lit, Vite](https://www.theverge.com/2023/10/6/23906082/microsoft-windows-app-store-web-version-launch)
 * [2023-10-08, 03:59:19](https://news.ycombinator.com/item?id=37807767) - [Covid vaccine promotes early activation of memory T cells and boosts immunity](https://www.nature.com/articles/s41590-023-01613-y)
 * [2023-10-08, 03:47:05](https://news.ycombinator.com/item?id=37807712) - [How far did my post go on the Fediverse?](https://shkspr.mobi/blog/2023/09/how-far-did-my-post-go-on-the-fediverse/)
 * [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
