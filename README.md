@@ -12,7 +12,6 @@
 * [2023-10-08, 10:22:49](https://news.ycombinator.com/item?id=37809283) - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
 * [2023-10-08, 10:21:59](https://news.ycombinator.com/item?id=37809276) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-08, 09:43:39](https://news.ycombinator.com/item?id=37809126) - [Pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
-* [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury – Fast multi-language serialization framework powered by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
@@ -28,6 +27,7 @@
 * [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 * [2023-10-06, 05:25:53](https://news.ycombinator.com/item?id=37787350) - [Tiny Language Models Come of Age](https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
 * [2023-10-06, 02:11:33](https://news.ycombinator.com/item?id=37786488) - [The Economics of Programming Languages [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
+* [2023-10-05, 23:03:12](https://news.ycombinator.com/item?id=37785330) - [Star Observatories You Can Visit in the United States](https://matadornetwork.com/read/us-observatories/)
 * [2023-10-05, 22:59:44](https://news.ycombinator.com/item?id=37785300) - [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
 * [2023-10-05, 22:19:36](https://news.ycombinator.com/item?id=37784997) - [Proboscis, Pollen, and the Rapture of Interspecies Intimacy](https://worldsensorium.com/proboscis-pollen-and-the-rapture-of-interspecies-intimacy/)
 
