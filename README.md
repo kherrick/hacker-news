@@ -9,7 +9,6 @@
 * [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
 * [2023-10-08, 02:13:40](https://news.ycombinator.com/item?id=37807281) - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
-* [2023-10-08, 01:46:00](https://news.ycombinator.com/item?id=37807140) - [Oil-Canning](http://livingstingy.blogspot.com/2023/08/dude-wheres-my-cybertruck.html)
 * [2023-10-08, 00:48:03](https://news.ycombinator.com/item?id=37806870) - [Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing language models into understandable components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 * [2023-10-08, 00:16:26](https://news.ycombinator.com/item?id=37806730) - [Photo Tampering Throughout History [pdf]](https://faculty.cc.gatech.edu/~beki/cs4001/history.pdf)
@@ -28,6 +27,7 @@
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 * [2023-10-06, 05:58:11](https://news.ycombinator.com/item?id=37787539) - [We made Umashimenkana artwork for Alfredo Jaar [video]](https://www.youtube.com/watch?v=8ElxcRCt0mQ)
+* [2023-10-05, 22:18:36](https://news.ycombinator.com/item?id=37784984) - [My Brain Doesn’t Picture Things](https://nautil.us/my-brain-doesnt-picture-things-407444/)
 * [2023-10-05, 12:06:34](https://news.ycombinator.com/item?id=37777545) - [Smart Programmers Write STUPID Code (2022)](https://bdicroce.medium.com/smart-programmers-write-stupid-code-397765a14b14)
 * [2023-10-05, 08:00:06](https://news.ycombinator.com/item?id=37775962) - [An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 
