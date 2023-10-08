@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 12:27:28](https://news.ycombinator.com/item?id=37809869) - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
 * [2023-10-08, 12:20:23](https://news.ycombinator.com/item?id=37809834) - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
 * [2023-10-08, 11:39:07](https://news.ycombinator.com/item?id=37809629) - [The big business of bachelorette party buses](https://thehustle.co/the-big-business-of-bachelorette-party-buses/)
 * [2023-10-08, 11:34:00](https://news.ycombinator.com/item?id=37809613) - [Stephen Fry Warns About the Dangers of Voice Clones](https://jurgengravestein.substack.com/p/stephen-fry-issues-a-stark-warning)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 12:27:28](https://news.ycombinator.com/item?id=37809869) - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
 * [2023-10-08, 12:20:23](https://news.ycombinator.com/item?id=37809834) - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
 * [2023-10-08, 11:39:07](https://news.ycombinator.com/item?id=37809629) - [The big business of bachelorette party buses](https://thehustle.co/the-big-business-of-bachelorette-party-buses/)
 * [2023-10-08, 11:34:00](https://news.ycombinator.com/item?id=37809613) - [Stephen Fry Warns About the Dangers of Voice Clones](https://jurgengravestein.substack.com/p/stephen-fry-issues-a-stark-warning)
@@ -24,7 +25,6 @@
 * [2023-10-07, 12:59:12](https://news.ycombinator.com/item?id=37801354) - [Sonoma's log gets briefer and more secretive](https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
-* [2023-10-07, 08:35:31](https://news.ycombinator.com/item?id=37800062) - [Subtraction is functionally complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 * [2023-10-06, 05:25:53](https://news.ycombinator.com/item?id=37787350) - [Tiny Language Models Come of Age](https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
