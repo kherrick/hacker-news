@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-08, 22:33:35](https://news.ycombinator.com/item?id=37815027) - [RedHat is closing their security mailing list](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
+* [2023-10-08, 22:33:35](https://news.ycombinator.com/item?id=37815027) - [RedHat’s security mailing list closing; updates available via web and RSS](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-08, 21:42:11](https://news.ycombinator.com/item?id=37814667) - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
-* [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-Driven Development (2021)](https://www.rubick.com/demo-driven-development/)
+* [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-driven development (2021)](https://www.rubick.com/demo-driven-development/)
 * [2023-10-08, 20:34:02](https://news.ycombinator.com/item?id=37814182) - [Show HN: This is what social media could be](https://bloom.tendtoyourgarden.xyz/)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:37:21](https://news.ycombinator.com/item?id=37813711) - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
