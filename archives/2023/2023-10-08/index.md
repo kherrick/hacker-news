@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
 * [2023-10-08, 01:52:00](https://news.ycombinator.com/item?id=37807175) - [How a Social Network Fails](https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/)
+* [2023-10-08, 01:46:00](https://news.ycombinator.com/item?id=37807140) - [Oil-Canning](http://livingstingy.blogspot.com/2023/08/dude-wheres-my-cybertruck.html)
 * [2023-10-08, 01:13:28](https://news.ycombinator.com/item?id=37806973) - [When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/)
 * [2023-10-08, 00:48:03](https://news.ycombinator.com/item?id=37806870) - [Organization Probably Doesn't Want to Improve Things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 01:46:00](https://news.ycombinator.com/item?id=37807140) - [Oil-Canning](http://livingstingy.blogspot.com/2023/08/dude-wheres-my-cybertruck.html)
 * [2023-10-08, 01:13:28](https://news.ycombinator.com/item?id=37806973) - [When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/)
 * [2023-10-08, 00:48:03](https://news.ycombinator.com/item?id=37806870) - [Organization Probably Doesn't Want to Improve Things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing Language Models into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
@@ -9,7 +10,6 @@
 * [2023-10-07, 23:16:24](https://news.ycombinator.com/item?id=37806323) - [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
 * [2023-10-07, 22:28:51](https://news.ycombinator.com/item?id=37806080) - [Kyushu University released more than 1500 3D models of animals and plants (2022)](https://sketchfab.com/ffishAsia-and-floraZia)
 * [2023-10-07, 22:11:03](https://news.ycombinator.com/item?id=37805969) - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
-* [2023-10-07, 21:35:22](https://news.ycombinator.com/item?id=37805759) - [HVM updates: simplifications, finally runs on GPUs, 80x speedup on RTX 4090](https://twitter.com/VictorTaelin/status/1710766199288570079)
 * [2023-10-07, 21:10:16](https://news.ycombinator.com/item?id=37805601) - [Council of Europe says 5 governments must investigate Pegasus spyware abuse](https://pace.coe.int/en/news/9186/five-member-states-must-investigate-spyware-abuse-says-pace-committee)
 * [2023-10-07, 20:52:12](https://news.ycombinator.com/item?id=37805451) - [Coroutine demonstration with setjmp/longjmp (STM32)](https://moosh.im/2020/07/coroutine-demonstration-with-setjmp-longjmp-stm32/)
 * [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
