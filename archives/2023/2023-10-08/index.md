@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
+* [2023-10-08, 20:44:51](https://news.ycombinator.com/item?id=37814243) - [Thousands of young people are fleeing Toronto, economists: city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [We Deserve Better from Apple](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:45:47](https://news.ycombinator.com/item?id=37813786) - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
 * [2023-10-08, 19:37:21](https://news.ycombinator.com/item?id=37813711) - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
