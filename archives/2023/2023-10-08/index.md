@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [MIT creates an implantable device that produces insulin](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
 * [2023-10-08, 01:52:00](https://news.ycombinator.com/item?id=37807175) - [How a Social Network Fails](https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/)
 * [2023-10-08, 01:46:00](https://news.ycombinator.com/item?id=37807140) - [Oil-Canning](http://livingstingy.blogspot.com/2023/08/dude-wheres-my-cybertruck.html)
 * [2023-10-08, 01:13:28](https://news.ycombinator.com/item?id=37806973) - [When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/)
