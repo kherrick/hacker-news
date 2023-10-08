@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 07:11:03](https://news.ycombinator.com/item?id=37808485) - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
 * [2023-10-08, 05:43:48](https://news.ycombinator.com/item?id=37808145) - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
 * [2023-10-08, 05:26:39](https://news.ycombinator.com/item?id=37808088) - [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
