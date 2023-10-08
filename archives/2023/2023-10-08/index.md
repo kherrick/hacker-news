@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 23:34:16](https://news.ycombinator.com/item?id=37815392) - [San Francisco could ban right-hand turns on red. Could L.A. soon follow?](https://www.latimes.com/california/story/2023-10-03/san-francisco-considers-banning-right-hand-turns-on-red-lights)
 * [2023-10-08, 22:33:35](https://news.ycombinator.com/item?id=37815027) - [RedHat is closing their security mailing list](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-08, 21:47:18](https://news.ycombinator.com/item?id=37814705) - [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
