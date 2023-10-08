@@ -88,6 +88,7 @@
 * [2023-10-07, 06:11:06](https://news.ycombinator.com/item?id=37799400) - [Epistemology in the Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02220-1/fulltext)
 * [2023-10-07, 06:08:16](https://news.ycombinator.com/item?id=37799387) - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/)
 * [2023-10-07, 05:55:19](https://news.ycombinator.com/item?id=37799331) - [Web server 'hello world' benchmark: Go vs. Node.js vs. Nim vs. Bun](https://lemire.me/blog/2023/10/07/web-server-hello-world-benchmark-go-vs-node-js-vs-nim-vs-bun/)
+* [2023-10-07, 05:28:14](https://news.ycombinator.com/item?id=37799211) - [For Sale: A ZIL 131 6×6 Ex-Soviet Military Camper Truck](https://silodrome.com/zil-131-truck-russian/)
 * [2023-10-07, 04:48:19](https://news.ycombinator.com/item?id=37799082) - [Why Git Is Hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-07, 04:26:15](https://news.ycombinator.com/item?id=37799010) - [The Last Express](https://www.filfre.net/2023/10/the-last-express/)
 * [2023-10-07, 04:03:42](https://news.ycombinator.com/item?id=37798914) - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
