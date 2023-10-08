@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 05:26:39](https://news.ycombinator.com/item?id=37808088) - [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 * [2023-10-08, 04:40:23](https://news.ycombinator.com/item?id=37807918) - [Pixel 7 WiFi does not work in certain countries](https://support.google.com/pixelphone/thread/218124115/pixel-7a-wifi-stopped-working-after-moving-countries?hl=en)
 * [2023-10-08, 04:21:15](https://news.ycombinator.com/item?id=37807844) - [Ask HN: Why have people started including GPT in their usernames?](https://news.ycombinator.com/item?id=37807844)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
