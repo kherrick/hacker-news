@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-08, 05:43:48",
-      "https://news.ycombinator.com/item?id=37808145"
-    ],
-    [
-      "Questions to ask a teenager to start an important conversation",
-      "https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 05:26:39",
       "https://news.ycombinator.com/item?id=37808088"
     ],
@@ -127,6 +117,16 @@
     [
       "Twenty: A Modern open-source CRM",
       "https://github.com/twentyhq/twenty"
+    ]
+  ],
+  [
+    [
+      "2023-10-07, 20:39:42",
+      "https://news.ycombinator.com/item?id=37805337"
+    ],
+    [
+      "Dockerized local and offline backing up of PostgreSQL with rotation, compression",
+      "https://github.com/efrecon/pgbackup"
     ]
   ],
   [
