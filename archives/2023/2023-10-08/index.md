@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [We Deserve Better from Apple](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:45:47](https://news.ycombinator.com/item?id=37813786) - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
 * [2023-10-08, 19:37:21](https://news.ycombinator.com/item?id=37813711) - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
 * [2023-10-08, 19:31:19](https://news.ycombinator.com/item?id=37813666) - [Starlink carbon footprint up to 30 times size of land-based internet](https://www.newscientist.com/article/2394949-starlink-carbon-footprint-up-to-30-times-size-of-land-based-internet/)
