@@ -7,6 +7,7 @@
 * [2023-10-05, 23:53:51](https://news.ycombinator.com/item?id=37785706) - [Nine ways to break your systems code using volatile](https://blog.regehr.org/archives/28)
 * [2023-10-05, 23:50:12](https://news.ycombinator.com/item?id=37785680) - [Play Leisure Suit Larry free in DOS running in browser](https://www.retrogames.cz/play_493-DOS.php)
 * [2023-10-05, 23:50:04](https://news.ycombinator.com/item?id=37785679) - [Adversarial competition and collusion in algorithmic markets](https://www.nature.com/articles/s42256-023-00646-0)
+* [2023-10-05, 23:41:51](https://news.ycombinator.com/item?id=37785614) - [A Book Summary of “The Procrastination Equation”, by Dr. Piers Steel](https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/)
 * [2023-10-05, 23:36:14](https://news.ycombinator.com/item?id=37785580) - [Why Did Social Media Go to War Against Writers?](https://www.honest-broker.com/p/why-did-social-media-go-to-war-against)
 * [2023-10-05, 23:19:33](https://news.ycombinator.com/item?id=37785451) - [A simple, arena-backed, generic dynamic array for C](https://nullprogram.com/blog/2023/10/05/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
