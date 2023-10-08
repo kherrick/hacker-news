@@ -21,7 +21,7 @@
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury – Fast multi-language serialization framework powered by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
-* [2023-10-08, 04:01:56](https://news.ycombinator.com/item?id=37807779) - [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
+* [2023-10-08, 00:48:03](https://news.ycombinator.com/item?id=37806870) - [Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing language models into understandable components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [2023-10-06, 05:25:53](https://news.ycombinator.com/item?id=37787350) - [Tiny Language Models Come of Age](https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
