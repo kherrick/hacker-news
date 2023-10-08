@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-08, 05:43:48](https://news.ycombinator.com/item?id=37808145) - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 * [2023-10-08, 05:26:39](https://news.ycombinator.com/item?id=37808088) - [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
@@ -13,6 +12,7 @@
 * [2023-10-07, 23:21:14](https://news.ycombinator.com/item?id=37806356) - [Lost film of life in Brazil’s Amazon 100 years ago resurfaces](https://www.theguardian.com/world/2023/oct/07/lost-holy-grail-film-of-life-in-brazil-amazon-100-years-ago-resurfaces)
 * [2023-10-07, 22:11:03](https://news.ycombinator.com/item?id=37805969) - [Permission Slip: Consumer Reports app to take back control of your data](https://permissionslipcr.com/)
 * [2023-10-07, 21:01:24](https://news.ycombinator.com/item?id=37805520) - [Twenty: A Modern open-source CRM](https://github.com/twentyhq/twenty)
+* [2023-10-07, 20:39:42](https://news.ycombinator.com/item?id=37805337) - [Dockerized local and offline backing up of PostgreSQL with rotation, compression](https://github.com/efrecon/pgbackup)
 * [2023-10-07, 19:59:43](https://news.ycombinator.com/item?id=37805035) - [1400 year old gold foil figures found in Norwegian pagan temple](https://sciencenorway.no/archaeology-iron-age/another-gold-treasure-in-norway-1400-year-old-gold-foil-figures-found-in-pagan-temple/2253447)
 * [2023-10-07, 19:29:51](https://news.ycombinator.com/item?id=37804763) - [Testing if a port can be reached, using built-in tools other than ol' telnet](https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet)
 * [2023-10-07, 18:34:37](https://news.ycombinator.com/item?id=37804301) - [Quake related work logs (1996)](https://www.gamers.org/dEngine/quake/info/worklogs.html)
