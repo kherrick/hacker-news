@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-08, 15:20:06](https://news.ycombinator.com/item?id=37811244) - [Open Letter to the Linux World (2014)](https://lkml.org/lkml/2014/8/12/459)
-* [2023-10-08, 13:30:07](https://news.ycombinator.com/item?id=37810277) - [World EV Sales Now Equal 18% of World Auto Sales](https://cleantechnica.com/2023/10/07/world-ev-sales-now-equal-18-of-world-auto-sales/)
 * [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 * [2023-10-08, 12:27:28](https://news.ycombinator.com/item?id=37809869) - [Strong evidence is common (2021)](https://markxu.com/strong-evidence)
@@ -22,7 +20,9 @@
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
 * [2023-10-08, 00:48:03](https://news.ycombinator.com/item?id=37806870) - [Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing language models into understandable components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
+* [2023-10-07, 23:21:14](https://news.ycombinator.com/item?id=37806356) - [Lost film of life in Brazil’s Amazon 100 years ago resurfaces](https://www.theguardian.com/world/2023/oct/07/lost-holy-grail-film-of-life-in-brazil-amazon-100-years-ago-resurfaces)
 * [2023-10-07, 12:59:12](https://news.ycombinator.com/item?id=37801354) - [Sonoma's log gets briefer and more secretive](https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/)
+* [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
