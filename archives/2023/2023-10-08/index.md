@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 11:34:00](https://news.ycombinator.com/item?id=37809613) - [Stephen Fry Warns About the Dangers of Voice Clones](https://jurgengravestein.substack.com/p/stephen-fry-issues-a-stark-warning)
+* [2023-10-08, 11:14:30](https://news.ycombinator.com/item?id=37809529) - [500 Lines or Less – Writing a useful program in fewer than 500 line code – AOSA](https://aosabook.org/en/index.html#500lines)
 * [2023-10-08, 10:22:49](https://news.ycombinator.com/item?id=37809283) - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 07:11:03](https://news.ycombinator.com/item?id=37808485) - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)

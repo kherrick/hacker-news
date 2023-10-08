@@ -9,6 +9,7 @@
 * [2023-10-05, 23:19:33](https://news.ycombinator.com/item?id=37785451) - [A simple, arena-backed, generic dynamic array for C](https://nullprogram.com/blog/2023/10/05/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
 * [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How Will AI Learn Next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
+* [2023-10-05, 22:59:44](https://news.ycombinator.com/item?id=37785300) - [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
 * [2023-10-05, 22:53:19](https://news.ycombinator.com/item?id=37785253) - [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
 * [2023-10-05, 22:19:36](https://news.ycombinator.com/item?id=37784997) - [Proboscis, Pollen, and the Rapture of Interspecies Intimacy](https://worldsensorium.com/proboscis-pollen-and-the-rapture-of-interspecies-intimacy/)
 * [2023-10-05, 22:18:36](https://news.ycombinator.com/item?id=37784984) - [My Brain Doesn’t Picture Things](https://nautil.us/my-brain-doesnt-picture-things-407444/)
