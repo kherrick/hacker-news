@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 05:43:48](https://news.ycombinator.com/item?id=37808145) - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 * [2023-10-08, 05:26:39](https://news.ycombinator.com/item?id=37808088) - [A new basic taste joins sweet, salty, sour, bitter and umami](https://newatlas.com/biology/tongue-detects-ammonium-chloride-as-a-basic-taste/)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-08, 04:01:56](https://news.ycombinator.com/item?id=37807779) - [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
-* [2023-10-08, 03:47:05](https://news.ycombinator.com/item?id=37807712) - [How far did my post go on the Fediverse?](https://shkspr.mobi/blog/2023/09/how-far-did-my-post-go-on-the-fediverse/)
 * [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
 * [2023-10-08, 02:13:40](https://news.ycombinator.com/item?id=37807281) - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
