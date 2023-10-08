@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 10:22:49](https://news.ycombinator.com/item?id=37809283) - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
@@ -28,7 +29,6 @@
 * [2023-10-06, 05:58:11](https://news.ycombinator.com/item?id=37787539) - [We made Umashimenkana artwork for Alfredo Jaar [video]](https://www.youtube.com/watch?v=8ElxcRCt0mQ)
 * [2023-10-05, 22:19:36](https://news.ycombinator.com/item?id=37784997) - [Proboscis, Pollen, and the Rapture of Interspecies Intimacy](https://worldsensorium.com/proboscis-pollen-and-the-rapture-of-interspecies-intimacy/)
 * [2023-10-05, 22:18:36](https://news.ycombinator.com/item?id=37784984) - [My Brain Doesn’t Picture Things](https://nautil.us/my-brain-doesnt-picture-things-407444/)
-* [2023-10-05, 12:06:34](https://news.ycombinator.com/item?id=37777545) - [Smart Programmers Write STUPID Code (2022)](https://bdicroce.medium.com/smart-programmers-write-stupid-code-397765a14b14)
 * [2023-10-05, 08:00:06](https://news.ycombinator.com/item?id=37775962) - [An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 
 ## [Archives](archives/index.md)

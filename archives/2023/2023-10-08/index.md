@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 10:22:49](https://news.ycombinator.com/item?id=37809283) - [Experts warn Letby inquiry of misreading stats to explain 'suspicious' deaths](https://www.thejusticegap.com/experts-warn-letby-inquiry-about-misinterpreting-stats-to-explain-suspicious-clusters-of-hospitals-deaths/)
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 07:11:03](https://news.ycombinator.com/item?id=37808485) - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
