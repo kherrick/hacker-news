@@ -2,7 +2,6 @@
 
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-08, 21:47:18](https://news.ycombinator.com/item?id=37814705) - [US moves closer to underground testing of nuclear weapons without any explosions](https://qz.com/us-moves-closer-to-underground-testing-of-nuclear-weapo-1850904934)
-* [2023-10-08, 21:27:04](https://news.ycombinator.com/item?id=37814573) - [X strips headlines from news story links to improve their look](https://www.theguardian.com/technology/2023/oct/05/x-twitter-strips-headlines-new-links-why-elon-musk)
 * [2023-10-08, 20:59:57](https://news.ycombinator.com/item?id=37814356) - [Projects Innovating Around RISC-V](https://thechipletter.substack.com/p/seven-projects-innovating-around)
 * [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-Driven Development (2021)](https://www.rubick.com/demo-driven-development/)
 * [2023-10-08, 20:44:51](https://news.ycombinator.com/item?id=37814243) - [Thousands of young people are fleeing Toronto – economists say city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
@@ -26,6 +25,7 @@
 * [2023-10-06, 04:39:58](https://news.ycombinator.com/item?id=37787161) - [Compiling Rust binaries for Windows 98 SE and more: a journey (2020)](https://seri.tools/blog/compiling-rust-for-legacy-windows/#)
 * [2023-10-06, 02:11:33](https://news.ycombinator.com/item?id=37786488) - [The Economics of Programming Languages [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 23:50:04](https://news.ycombinator.com/item?id=37785679) - [Adversarial competition and collusion in algorithmic markets](https://www.nature.com/articles/s42256-023-00646-0)
+* [2023-10-05, 23:45:35](https://news.ycombinator.com/item?id=37785645) - [Pots of gold: the world’s most expensive house plants](https://www.theguardian.com/lifeandstyle/2022/apr/17/gold-leaves-meet-the-30000-pound-houseplants-sparking-a-new-green-crimewave)
 * [2023-10-05, 23:41:51](https://news.ycombinator.com/item?id=37785614) - [Summary of “The Procrastination Equation”](https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/)
 * [2023-10-05, 23:10:17](https://news.ycombinator.com/item?id=37785383) - [Capital Inefficiency](https://cutlefish.substack.com/p/tbm-243-capital-inefficiency)
 * [2023-10-05, 23:03:12](https://news.ycombinator.com/item?id=37785330) - [Star observatories you can visit in the United States](https://matadornetwork.com/read/us-observatories/)
