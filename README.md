@@ -2,7 +2,7 @@
 
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-08, 04:01:56](https://news.ycombinator.com/item?id=37807779) - [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
-* [2023-10-08, 03:47:05](https://news.ycombinator.com/item?id=37807712) - [How far did my post go on the Fediverse?](https://shkspr.mobi/blog/2023/09/how-far-did-my-post-go-on-the-fediverse/)
+* [2023-10-08, 03:59:19](https://news.ycombinator.com/item?id=37807767) - [Covid vaccine promotes early activation of memory T cells and boosts immunity](https://www.nature.com/articles/s41590-023-01613-y)
 * [2023-10-08, 03:26:05](https://news.ycombinator.com/item?id=37807640) - [Numbers in Various Languages](https://www.omniglot.com/language/numbers/index.htm#google_vignette)
 * [2023-10-08, 02:13:40](https://news.ycombinator.com/item?id=37807281) - [Before Skynet and The Matrix, there was Colossus: The Forbin Project](https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie)
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
@@ -22,13 +22,13 @@
 * [2023-10-07, 12:59:12](https://news.ycombinator.com/item?id=37801354) - [Sonoma's log gets briefer and more secretive](https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
+* [2023-10-07, 08:35:31](https://news.ycombinator.com/item?id=37800062) - [Subtraction is functionally complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 * [2023-10-07, 05:28:14](https://news.ycombinator.com/item?id=37799211) - [For Sale: A ZIL 131 6×6 Ex-Soviet Military Camper Truck](https://silodrome.com/zil-131-truck-russian/)
 * [2023-10-07, 04:26:15](https://news.ycombinator.com/item?id=37799010) - [The Last Express](https://www.filfre.net/2023/10/the-last-express/)
 * [2023-10-06, 20:45:47](https://news.ycombinator.com/item?id=37796174) - [Electoral graffiti found inside Pompeii house](http://www.thehistoryblog.com/archives/68418)
 * [2023-10-06, 05:58:11](https://news.ycombinator.com/item?id=37787539) - [We made Umashimenkana artwork for Alfredo Jaar [video]](https://www.youtube.com/watch?v=8ElxcRCt0mQ)
 * [2023-10-05, 12:06:34](https://news.ycombinator.com/item?id=37777545) - [Smart Programmers Write STUPID Code (2022)](https://bdicroce.medium.com/smart-programmers-write-stupid-code-397765a14b14)
-* [2023-10-05, 08:22:46](https://news.ycombinator.com/item?id=37776108) - [The father of modern spam speaks (2002)](https://www.cnet.com/tech/tech-industry/the-father-of-modern-spam-speaks/)
 * [2023-10-05, 08:00:06](https://news.ycombinator.com/item?id=37775962) - [An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 
 ## [Archives](archives/index.md)
