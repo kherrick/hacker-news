@@ -2,11 +2,11 @@
 
 * [2023-10-08, 17:31:10](https://news.ycombinator.com/item?id=37812556) - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
 * [2023-10-08, 17:17:24](https://news.ycombinator.com/item?id=37812432) - [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
-* [2023-10-08, 17:08:48](https://news.ycombinator.com/item?id=37812342) - [Email Steve Jobs sent to himself 1 year before his passing](https://officechai.com/stories/steve-jobs-email-to-self/)
 * [2023-10-08, 17:00:36](https://news.ycombinator.com/item?id=37812259) - [The Era of Startups Is Over](https://acecreamu.substack.com/p/hard-time-for-startups)
 * [2023-10-08, 16:57:02](https://news.ycombinator.com/item?id=37812217) - [Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 * [2023-10-08, 16:49:26](https://news.ycombinator.com/item?id=37812113) - [Zen 5's Leaked Slides](https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/)
 * [2023-10-08, 16:32:14](https://news.ycombinator.com/item?id=37811923) - [Americans born in 2019 will spend 48% to 60% of lives on prescription medication](https://read.dukeupress.edu/demography/article/60/5/1549/382305/Life-Course-Patterns-of-Prescription-Drug-Use-in)
+* [2023-10-08, 16:21:31](https://news.ycombinator.com/item?id=37811814) - [Scaling Knative to 100K+ Webapps](https://render.com/blog/knative)
 * [2023-10-08, 15:44:29](https://news.ycombinator.com/item?id=37811481) - [Cats Are Perfect. An Evolutionary Biologist Explains Why](https://www.scientificamerican.com/article/cats-are-perfect-an-evolutionary-biologist-explains-why/)
 * [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
