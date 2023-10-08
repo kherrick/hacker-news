@@ -2,7 +2,6 @@
 
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
-* [2023-10-08, 05:43:48](https://news.ycombinator.com/item?id=37808145) - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-08, 04:01:56](https://news.ycombinator.com/item?id=37807779) - [Does Market Timing Work?](https://www.schwab.com/learn/story/does-market-timing-work)
@@ -27,6 +26,7 @@
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 * [2023-10-06, 05:58:11](https://news.ycombinator.com/item?id=37787539) - [We made Umashimenkana artwork for Alfredo Jaar [video]](https://www.youtube.com/watch?v=8ElxcRCt0mQ)
+* [2023-10-05, 22:19:36](https://news.ycombinator.com/item?id=37784997) - [Proboscis, Pollen, and the Rapture of Interspecies Intimacy](https://worldsensorium.com/proboscis-pollen-and-the-rapture-of-interspecies-intimacy/)
 * [2023-10-05, 22:18:36](https://news.ycombinator.com/item?id=37784984) - [My Brain Doesn’t Picture Things](https://nautil.us/my-brain-doesnt-picture-things-407444/)
 * [2023-10-05, 12:06:34](https://news.ycombinator.com/item?id=37777545) - [Smart Programmers Write STUPID Code (2022)](https://bdicroce.medium.com/smart-programmers-write-stupid-code-397765a14b14)
 * [2023-10-05, 08:00:06](https://news.ycombinator.com/item?id=37775962) - [An alternative front end for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)

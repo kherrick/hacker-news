@@ -10,6 +10,7 @@
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
 * [2023-10-05, 23:15:09](https://news.ycombinator.com/item?id=37785416) - [How Will AI Learn Next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next)
 * [2023-10-05, 22:53:19](https://news.ycombinator.com/item?id=37785253) - [4chan users manipulate AI tools to unleash torrent of racist images](https://arstechnica.com/tech-policy/2023/10/4chan-pushing-bing-dall-e-as-quick-methods-to-spread-racist-images/)
+* [2023-10-05, 22:19:36](https://news.ycombinator.com/item?id=37784997) - [Proboscis, Pollen, and the Rapture of Interspecies Intimacy](https://worldsensorium.com/proboscis-pollen-and-the-rapture-of-interspecies-intimacy/)
 * [2023-10-05, 22:18:36](https://news.ycombinator.com/item?id=37784984) - [My Brain Doesn’t Picture Things](https://nautil.us/my-brain-doesnt-picture-things-407444/)
 * [2023-10-05, 21:26:52](https://news.ycombinator.com/item?id=37784499) - [The $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 21:13:07](https://news.ycombinator.com/item?id=37784373) - [In-kernel QUIC implementation with Userspace handshake](https://github.com/lxin/quic)
