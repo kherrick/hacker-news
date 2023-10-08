@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 05:43:48](https://news.ycombinator.com/item?id=37808145) - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
@@ -23,7 +24,6 @@
 * [2023-10-07, 12:59:12](https://news.ycombinator.com/item?id=37801354) - [Sonoma's log gets briefer and more secretive](https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/)
 * [2023-10-07, 12:26:57](https://news.ycombinator.com/item?id=37801140) - [Berry is a ultra-lightweight dynamically typed embedded scripting language](https://berry-lang.github.io/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
-* [2023-10-07, 08:35:31](https://news.ycombinator.com/item?id=37800062) - [Subtraction is functionally complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [2023-10-07, 07:06:06](https://news.ycombinator.com/item?id=37799656) - [Railway Time](https://en.wikipedia.org/wiki/Railway_time)
 * [2023-10-06, 05:58:11](https://news.ycombinator.com/item?id=37787539) - [We made Umashimenkana artwork for Alfredo Jaar [video]](https://www.youtube.com/watch?v=8ElxcRCt0mQ)
