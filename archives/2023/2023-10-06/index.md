@@ -123,6 +123,7 @@
 * [2023-10-06, 02:36:09](https://news.ycombinator.com/item?id=37786616) - [Show HN: Decorate Java stack traces with source code snippets](https://github.com/laech/java-stacksrc)
 * [2023-10-06, 02:25:09](https://news.ycombinator.com/item?id=37786561) - [America's Steam Empire](https://technicshistory.com/2023/10/06/americas-steam-empire/)
 * [2023-10-06, 02:18:27](https://news.ycombinator.com/item?id=37786525) - [Ollama is now available as an official Docker image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
+* [2023-10-06, 02:11:33](https://news.ycombinator.com/item?id=37786488) - [“The Economics of Programming Languages” by Evan Czaplicki [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-06, 02:07:59](https://news.ycombinator.com/item?id=37786472) - [US transition to clean energy is happening faster than you think, reporter says](https://www.npr.org/2023/10/05/1203846437/u-s-transition-to-clean-energy-is-happening-faster-than-you-think-reporter-says)
 * [2023-10-06, 01:58:46](https://news.ycombinator.com/item?id=37786415) - [Scientists discover the highest energy gamma-rays ever from a pulsar](https://phys.org/news/2023-10-scientists-highest-energy-gamma-rays-pulsar.html)
 * [2023-10-06, 01:49:04](https://news.ycombinator.com/item?id=37786366) - [A prehistoric cosmic airburst preceded the advent of agriculture in the Levant](https://phys.org/news/2023-10-prehistoric-cosmic-airburst-advent-agriculture.html)

@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
 * [2023-10-08, 12:27:28](https://news.ycombinator.com/item?id=37809869) - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
 * [2023-10-08, 12:20:23](https://news.ycombinator.com/item?id=37809834) - [Contour: Modern and Fast Terminal Emulator](https://github.com/contour-terminal/contour)
+* [2023-10-08, 12:00:08](https://news.ycombinator.com/item?id=37809721) - [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
+* [2023-10-08, 11:58:20](https://news.ycombinator.com/item?id=37809710) - [CancelQuora](https://interestingauthors.com/blog/experience/quora/)
 * [2023-10-08, 11:39:07](https://news.ycombinator.com/item?id=37809629) - [The big business of bachelorette party buses](https://thehustle.co/the-big-business-of-bachelorette-party-buses/)
 * [2023-10-08, 11:34:00](https://news.ycombinator.com/item?id=37809613) - [Stephen Fry Warns About the Dangers of Voice Clones](https://jurgengravestein.substack.com/p/stephen-fry-issues-a-stark-warning)
 * [2023-10-08, 11:14:30](https://news.ycombinator.com/item?id=37809529) - [500 Lines or Less – Writing a useful program in fewer than 500 line code – AOSA](https://aosabook.org/en/index.html#500lines)
