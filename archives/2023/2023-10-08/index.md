@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 16:13:25](https://news.ycombinator.com/item?id=37811732) - [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
 * [2023-10-08, 15:20:06](https://news.ycombinator.com/item?id=37811244) - [Open Letter to the Linux World (2014)](https://lkml.org/lkml/2014/8/12/459)
 * [2023-10-08, 13:41:10](https://news.ycombinator.com/item?id=37810366) - [Things I just don't like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 * [2023-10-08, 13:30:07](https://news.ycombinator.com/item?id=37810277) - [World EV Sales Now Equal 18% of World Auto Sales](https://cleantechnica.com/2023/10/07/world-ev-sales-now-equal-18-of-world-auto-sales/)

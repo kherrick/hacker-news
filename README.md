@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-08, 16:13:25](https://news.ycombinator.com/item?id=37811732) - [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
 * [2023-10-08, 13:41:10](https://news.ycombinator.com/item?id=37810366) - [Things I just don't like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 * [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [World's fastest sailboat: Two wild designs hit the water for testing](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 12:58:06](https://news.ycombinator.com/item?id=37810052) - [Indoor wood burning raises women’s lung cancer risk by 43%](https://www.sciencedirect.com/science/article/pii/S0160412023004014)
@@ -21,7 +22,6 @@
 * [2023-10-08, 02:09:14](https://news.ycombinator.com/item?id=37807248) - [An implantable device could enable injection-free control of diabetes](https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918)
 * [2023-10-08, 00:48:03](https://news.ycombinator.com/item?id=37806870) - [Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
 * [2023-10-08, 00:46:45](https://news.ycombinator.com/item?id=37806861) - [Decomposing language models into understandable components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
-* [2023-10-07, 23:21:14](https://news.ycombinator.com/item?id=37806356) - [Lost film of life in Brazil’s Amazon 100 years ago resurfaces](https://www.theguardian.com/world/2023/oct/07/lost-holy-grail-film-of-life-in-brazil-amazon-100-years-ago-resurfaces)
 * [2023-10-07, 12:59:12](https://news.ycombinator.com/item?id=37801354) - [Sonoma's log gets briefer and more secretive](https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/)
 * [2023-10-07, 11:55:09](https://news.ycombinator.com/item?id=37800951) - [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
 * [2023-10-07, 08:31:42](https://news.ycombinator.com/item?id=37800043) - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
