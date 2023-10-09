@@ -25,9 +25,9 @@
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
 * [2023-10-08, 00:12:40](https://news.ycombinator.com/item?id=37806703) - [Workloads on Arm-based AWS instances](https://bignacio.github.io/soc/docs/articles/arm64-x86_64-on-aws/)
 * [2023-10-06, 04:57:23](https://news.ycombinator.com/item?id=37787238) - [How to add documentation to your product life cycle](https://thisisimportant.net/posts/process-models-for-documentation/)
-* [2023-10-06, 04:47:01](https://news.ycombinator.com/item?id=37787188) - [Addictive cheap and controversial: the rise of China’s Temu app](https://www.theguardian.com/world/2023/oct/06/addictive-absurdly-cheap-and-controversial-the-rise-of-chinas-temu-app)
 * [2023-10-06, 01:24:41](https://news.ycombinator.com/item?id=37786245) - [The White Gold of Turda, Romania](https://holeinthedonut.com/2013/11/21/salina-turda-salt-mine-in-romania/)
 * [2023-10-06, 00:24:24](https://news.ycombinator.com/item?id=37785907) - [I helped select the Nobel laureates in physics](https://theconversation.com/i-helped-select-the-nobel-laureates-in-physics-heres-how-our-committee-decides-214991)
+* [2023-10-05, 23:45:35](https://news.ycombinator.com/item?id=37785645) - [Pots of gold: the world’s most expensive house plants (2022)](https://www.theguardian.com/lifeandstyle/2022/apr/17/gold-leaves-meet-the-30000-pound-houseplants-sparking-a-new-green-crimewave)
 * [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 * [2023-10-05, 23:20:32](https://news.ycombinator.com/item?id=37785458) - [Self-Healing of Fractured Diamond](https://www.nature.com/articles/s41563-023-01656-4)
 
