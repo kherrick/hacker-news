@@ -7,6 +7,7 @@
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:34:27](https://news.ycombinator.com/item?id=37820858) - [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
+* [2023-10-09, 14:00:40](https://news.ycombinator.com/item?id=37820532) - [Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 13:26:22](https://news.ycombinator.com/item?id=37820250) - [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
 * [2023-10-09, 13:25:09](https://news.ycombinator.com/item?id=37820236) - [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
 * [2023-10-09, 13:20:05](https://news.ycombinator.com/item?id=37820192) - [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
