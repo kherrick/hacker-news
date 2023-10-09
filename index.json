@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-09, 03:34:31",
+      "https://news.ycombinator.com/item?id=37816670"
+    ],
+    [
+      "Lenovo exec promises 80% of its devices will be consumer-repairable by 2025",
+      "https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 01:29:53",
       "https://news.ycombinator.com/item?id=37815999"
     ],
@@ -67,16 +77,6 @@
     [
       "MiniDisc Hacking",
       "https://www.sharoma.com/minidisc/hacking.htm"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 23:19:23",
-      "https://news.ycombinator.com/item?id=37815318"
-    ],
-    [
-      "Epic Games Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo",
-      "https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2023-10-08, 13:00:54",
-      "https://news.ycombinator.com/item?id=37810068"
+      "2023-10-08, 00:12:40",
+      "https://news.ycombinator.com/item?id=37806703"
     ],
     [
-      "Fastest sailboat: Two wild designs",
-      "https://newatlas.com/marine/syroco-sp80-testing/"
+      "Workloads on Arm-based AWS instances",
+      "https://bignacio.github.io/soc/docs/articles/arm64-x86_64-on-aws/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37785513"
     ],
     [
-      "What We Learned Making a Plastic Injection Mold with a Chinese Mold Maker",
+      "What we learned making a plastic injection mold with a Chinese mold maker",
       "https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/"
     ]
   ],
