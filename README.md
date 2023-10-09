@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-09, 18:48:57](https://news.ycombinator.com/item?id=37823805) - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
+* [2023-10-09, 19:44:37](https://news.ycombinator.com/item?id=37824547) - [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
+* [2023-10-09, 18:48:57](https://news.ycombinator.com/item?id=37823805) - [You probably shouldn't use a lookup table (2022)](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:28:31](https://news.ycombinator.com/item?id=37823543) - [LLMs can't self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
 * [2023-10-09, 18:19:31](https://news.ycombinator.com/item?id=37823440) - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
 * [2023-10-09, 18:18:54](https://news.ycombinator.com/item?id=37823430) - [EMPShield investing $1.9B with CHIPS support to build factory in Kansas](https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/)
@@ -11,7 +12,6 @@
 * [2023-10-09, 17:20:54](https://news.ycombinator.com/item?id=37822774) - [Medieval staircases were not built going clockwise for the defender's advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
 * [2023-10-09, 16:45:40](https://news.ycombinator.com/item?id=37822284) - [Lensm, a Tool for Viewing Disassembly](https://www.storj.io/blog/lensm)
 * [2023-10-09, 16:28:56](https://news.ycombinator.com/item?id=37822082) - [789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
-* [2023-10-09, 14:55:43](https://news.ycombinator.com/item?id=37821094) - [Control-Flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
 * [2023-10-09, 14:00:40](https://news.ycombinator.com/item?id=37820532) - [Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
