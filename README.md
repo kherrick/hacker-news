@@ -21,7 +21,7 @@
 * [2023-10-09, 03:42:45](https://news.ycombinator.com/item?id=37816721) - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 * [2023-10-09, 03:24:13](https://news.ycombinator.com/item?id=37816614) - [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
-* [2023-10-09, 00:54:29](https://news.ycombinator.com/item?id=37815793) - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
+* [2023-10-09, 01:20:18](https://news.ycombinator.com/item?id=37815945) - [Impacts of lack of sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 * [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-08, 23:52:48](https://news.ycombinator.com/item?id=37815488) - [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
 * [2023-10-08, 21:41:37](https://news.ycombinator.com/item?id=37814662) - [The Algorithm for Precision Medicine, talk by Matthew Might [video]](https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s)
