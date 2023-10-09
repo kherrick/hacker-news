@@ -1,12 +1,72 @@
 [
   [
     [
+      "2023-10-09, 14:09:59",
+      "https://news.ycombinator.com/item?id=37820617"
+    ],
+    [
+      "Announcing Chapel 1.32",
+      "https://chapel-lang.org/blog/posts/announcing-chapel-1.32/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 13:25:09",
+      "https://news.ycombinator.com/item?id=37820236"
+    ],
+    [
+      "Mortal Computers",
+      "https://gonzoml.substack.com/p/mortal-computers"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 13:20:05",
       "https://news.ycombinator.com/item?id=37820192"
     ],
     [
       "Google Made Billions with Secret Change to Ad-Auction Algorithm",
       "https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 13:17:03",
+      "https://news.ycombinator.com/item?id=37820165"
+    ],
+    [
+      "Show HN: CheckAnyPlate – Free License Plate to VIN Decoder",
+      "https://checkanyvin.com/search/by-license-plate"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 13:06:08",
+      "https://news.ycombinator.com/item?id=37820067"
+    ],
+    [
+      "Advice for Prospective PhD Students",
+      "https://gonzales.science/resource-blog/for-prospective-phd-students"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 12:49:31",
+      "https://news.ycombinator.com/item?id=37819910"
+    ],
+    [
+      "Intro to Semantic Kernel – Part Two",
+      "https://blog.brakmic.com/intro-to-semantic-kernel-part-two/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 12:44:36",
+      "https://news.ycombinator.com/item?id=37819864"
+    ],
+    [
+      "We made a fork of the Rust Playground",
+      "https://java-playground.com/?runtime=latest&release=21&preview=enabled&gist=27cf9e5152d902d19e3be500c072f66c"
     ]
   ],
   [
@@ -31,12 +91,12 @@
   ],
   [
     [
-      "2023-10-09, 12:36:32",
-      "https://news.ycombinator.com/item?id=37819795"
+      "2023-10-09, 12:25:05",
+      "https://news.ycombinator.com/item?id=37819693"
     ],
     [
-      "Apple Plans Smaller, Lighter Vision Headset; Meta Works on Cheaper Quest 3",
-      "https://www.bloomberg.com/news/newsletters/2023-10-08/apple-plans-smaller-lighter-vision-headset-meta-works-on-cheaper-quest-3-ar-lnhh1ulx"
+      "Leantime: Open-Source Jira Alternative",
+      "https://github.com/Leantime/leantime"
     ]
   ],
   [
@@ -161,16 +221,6 @@
   ],
   [
     [
-      "2023-10-09, 07:44:57",
-      "https://news.ycombinator.com/item?id=37818010"
-    ],
-    [
-      "An MIR-based JIT prototype for Ruby",
-      "https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 05:27:37",
       "https://news.ycombinator.com/item?id=37817152"
     ],
@@ -181,32 +231,12 @@
   ],
   [
     [
-      "2023-10-09, 03:46:03",
-      "https://news.ycombinator.com/item?id=37816744"
-    ],
-    [
-      "Why (and How) I Write Code with Pencil and Paper",
-      "https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 03:42:45",
       "https://news.ycombinator.com/item?id=37816721"
     ],
     [
       "Flexoki, an inky color scheme for prose and code",
       "https://stephango.com/flexoki"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 03:24:13",
-      "https://news.ycombinator.com/item?id=37816614"
-    ],
-    [
-      "Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs",
-      "https://arxiv.org/abs/2310.04406"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2023-10-08, 21:41:37",
-      "https://news.ycombinator.com/item?id=37814662"
-    ],
-    [
-      "The Algorithm for Precision Medicine, talk by Matthew Might [video]",
-      "https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 07:08:15",
       "https://news.ycombinator.com/item?id=37808475"
     ],
@@ -267,26 +287,6 @@
     [
       "Workloads on Arm-based AWS instances",
       "https://bignacio.github.io/soc/docs/articles/arm64-x86_64-on-aws/"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 04:57:23",
-      "https://news.ycombinator.com/item?id=37787238"
-    ],
-    [
-      "How to add documentation to your product life cycle",
-      "https://thisisimportant.net/posts/process-models-for-documentation/"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 01:24:41",
-      "https://news.ycombinator.com/item?id=37786245"
-    ],
-    [
-      "The White Gold of Turda, Romania",
-      "https://holeinthedonut.com/2013/11/21/salina-turda-salt-mine-in-romania/"
     ]
   ],
   [
