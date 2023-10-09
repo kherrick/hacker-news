@@ -11,6 +11,7 @@
 * [2023-10-09, 12:23:38](https://news.ycombinator.com/item?id=37819683) - [Modeling CRDTs in Alloy – the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 12:16:28](https://news.ycombinator.com/item?id=37819637) - [The Prosecutor's Fallacy (2018)](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 * [2023-10-09, 12:06:53](https://news.ycombinator.com/item?id=37819566) - [ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
+* [2023-10-09, 11:42:09](https://news.ycombinator.com/item?id=37819336) - [(Mis)understanding RISC-V ecalls and syscalls](https://jborza.com/post/2021-04-21-ecalls-and-syscalls/)
 * [2023-10-09, 11:28:24](https://news.ycombinator.com/item?id=37819234) - [Show HN: Explore Doctors' Disciplinary History](https://www.physician.fyi/)
 * [2023-10-09, 11:10:19](https://news.ycombinator.com/item?id=37819114) - [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 11:04:44](https://news.ycombinator.com/item?id=37819085) - [Netflix crushed the Latin American password black market](https://restofworld.org/2023/netflix-latin-america-password-sharing-crackdown-worked/)
