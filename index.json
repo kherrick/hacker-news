@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-10-09, 01:29:53",
-      "https://news.ycombinator.com/item?id=37815999"
-    ],
-    [
-      "HTTPie Desktop: cross-platform API testing client for humans",
-      "https://github.com/httpie/desktop"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 01:20:18",
       "https://news.ycombinator.com/item?id=37815945"
     ],
@@ -197,6 +187,16 @@
     [
       "The Tailscale Universal Docker Mod",
       "https://tailscale.dev/blog/docker-mod-tailscale"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 16:34:46",
+      "https://news.ycombinator.com/item?id=37811953"
+    ],
+    [
+      "Calling Rust from Python",
+      "https://blog.frankel.ch/rust-from-python/"
     ]
   ],
   [
