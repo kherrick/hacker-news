@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
+* [2023-10-09, 01:22:13](https://news.ycombinator.com/item?id=37815957) - [Coinbase Outage](https://status.coinbase.com/)
 * [2023-10-09, 01:20:18](https://news.ycombinator.com/item?id=37815945) - [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 * [2023-10-09, 00:54:29](https://news.ycombinator.com/item?id=37815793) - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
 * [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
@@ -26,7 +27,6 @@
 * [2023-10-06, 04:47:01](https://news.ycombinator.com/item?id=37787188) - [Addictive cheap and controversial: the rise of China’s Temu app](https://www.theguardian.com/world/2023/oct/06/addictive-absurdly-cheap-and-controversial-the-rise-of-chinas-temu-app)
 * [2023-10-06, 01:24:41](https://news.ycombinator.com/item?id=37786245) - [The White Gold of Turda, Romania](https://holeinthedonut.com/2013/11/21/salina-turda-salt-mine-in-romania/)
 * [2023-10-06, 00:24:24](https://news.ycombinator.com/item?id=37785907) - [I helped select the Nobel laureates in physics](https://theconversation.com/i-helped-select-the-nobel-laureates-in-physics-heres-how-our-committee-decides-214991)
-* [2023-10-05, 23:50:04](https://news.ycombinator.com/item?id=37785679) - [Adversarial competition and collusion in algorithmic markets](https://www.nature.com/articles/s42256-023-00646-0)
 * [2023-10-05, 23:41:51](https://news.ycombinator.com/item?id=37785614) - [Summary of “The Procrastination Equation”](https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/)
 * [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What We Learned Making a Plastic Injection Mold with a Chinese Mold Maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 * [2023-10-05, 23:20:32](https://news.ycombinator.com/item?id=37785458) - [Self-Healing of Fractured Diamond](https://www.nature.com/articles/s41563-023-01656-4)
