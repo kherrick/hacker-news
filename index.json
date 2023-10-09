@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-09, 18:28:31",
+      "https://news.ycombinator.com/item?id=37823543"
+    ],
+    [
+      "LLMs can't self-correct in reasoning tasks, DeepMind study finds",
+      "https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 18:21:13",
+      "https://news.ycombinator.com/item?id=37823457"
+    ],
+    [
+      "'This Is a False Advertisement': X Ads Are Being Challenged by Reader Context",
+      "https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 18:19:31",
+      "https://news.ycombinator.com/item?id=37823440"
+    ],
+    [
+      "Extreme Parkour with Legged Robots",
+      "https://extreme-parkour.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 18:13:20",
       "https://news.ycombinator.com/item?id=37823377"
     ],
@@ -61,32 +91,22 @@
   ],
   [
     [
+      "2023-10-09, 16:28:56",
+      "https://news.ycombinator.com/item?id=37822082"
+    ],
+    [
+      "789 KB Linux Without MMU on RISC-V",
+      "https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 16:10:36",
       "https://news.ycombinator.com/item?id=37821868"
     ],
     [
       "A new modern look for the Android brand",
       "https://blog.google/products/android/modern-look/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 16:05:51",
-      "https://news.ycombinator.com/item?id=37821821"
-    ],
-    [
-      "Tell HN: DNS record \"hn.algolia.com\" was gone",
-      "https://www.nslookup.io/domains/hn.algolia.com/dns-records/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 15:40:05",
-      "https://news.ycombinator.com/item?id=37821557"
-    ],
-    [
-      "To Fight Big Tech, We Must Seize the Means of Computation",
-      "https://truthout.org/audio/to-fight-big-tech-we-must-seize-the-means-of-computation/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-10-09, 12:43:41",
-      "https://news.ycombinator.com/item?id=37819855"
-    ],
-    [
-      "Safe AI Image Generation",
-      "https://www.smbc-comics.com/comic/generation"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 12:25:05",
       "https://news.ycombinator.com/item?id=37819693"
     ],
@@ -217,16 +227,6 @@
     [
       "ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0",
       "https://github.com/zeromq/libzmq/pull/4555"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 11:28:24",
-      "https://news.ycombinator.com/item?id=37819234"
-    ],
-    [
-      "Show HN: Explore Doctors' Disciplinary History",
-      "https://www.physician.fyi/"
     ]
   ],
   [
