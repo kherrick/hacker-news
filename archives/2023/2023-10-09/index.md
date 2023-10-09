@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 13:20:05](https://news.ycombinator.com/item?id=37820192) - [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
 * [2023-10-09, 12:44:34](https://news.ycombinator.com/item?id=37819862) - [Financial anxiety: The alarming side effect of inflation](https://www.bbc.com/worklife/article/20231005-financial-anxiety-the-alarming-side-effect-of-inflation)
 * [2023-10-09, 12:43:41](https://news.ycombinator.com/item?id=37819855) - [Safe AI Image Generation](https://www.smbc-comics.com/comic/generation)
 * [2023-10-09, 12:39:44](https://news.ycombinator.com/item?id=37819822) - [Disney's Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)

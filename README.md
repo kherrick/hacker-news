@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 13:20:05](https://news.ycombinator.com/item?id=37820192) - [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
 * [2023-10-09, 12:44:34](https://news.ycombinator.com/item?id=37819862) - [Financial anxiety: The alarming side effect of inflation](https://www.bbc.com/worklife/article/20231005-financial-anxiety-the-alarming-side-effect-of-inflation)
 * [2023-10-09, 12:43:41](https://news.ycombinator.com/item?id=37819855) - [Safe AI Image Generation](https://www.smbc-comics.com/comic/generation)
 * [2023-10-09, 12:36:32](https://news.ycombinator.com/item?id=37819795) - [Apple Plans Smaller, Lighter Vision Headset; Meta Works on Cheaper Quest 3](https://www.bloomberg.com/news/newsletters/2023-10-08/apple-plans-smaller-lighter-vision-headset-meta-works-on-cheaper-quest-3-ar-lnhh1ulx)
@@ -21,7 +22,6 @@
 * [2023-10-09, 03:42:45](https://news.ycombinator.com/item?id=37816721) - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 * [2023-10-09, 03:24:13](https://news.ycombinator.com/item?id=37816614) - [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
-* [2023-10-09, 01:20:18](https://news.ycombinator.com/item?id=37815945) - [Impacts of lack of sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 * [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-08, 23:52:48](https://news.ycombinator.com/item?id=37815488) - [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
 * [2023-10-08, 21:41:37](https://news.ycombinator.com/item?id=37814662) - [The Algorithm for Precision Medicine, talk by Matthew Might [video]](https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s)
