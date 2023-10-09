@@ -6,6 +6,7 @@
 
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:41:02](https://news.ycombinator.com/item?id=37826352) - [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
+* [2023-10-09, 22:37:15](https://news.ycombinator.com/item?id=37826321) - [Replit AI for All](https://blog.replit.com/ai4all)
 * [2023-10-09, 22:09:44](https://news.ycombinator.com/item?id=37826095) - [Egyptian banks suspend debit card use in foreign currency](https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/)
 * [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
 * [2023-10-09, 21:30:51](https://news.ycombinator.com/item?id=37825784) - [Study finds the gulf stream is warming and shifting closer to shore](https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/)
@@ -76,6 +77,7 @@
 * [2023-10-09, 08:52:51](https://news.ycombinator.com/item?id=37818391) - [We migrated to SQL. Our biggest learning? Don't use Prisma](https://codedamn.com/news/product/dont-use-prisma)
 * [2023-10-09, 08:50:34](https://news.ycombinator.com/item?id=37818374) - [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
 * [2023-10-09, 08:30:33](https://news.ycombinator.com/item?id=37818279) - [Streaming service DAZN took almost five years to answer a simple access request](https://noyb.eu/en/streaming-service-dazn-took-almost-five-years-answer-simple-access-request)
+* [2023-10-09, 08:23:08](https://news.ycombinator.com/item?id=37818244) - [Fine-Grained Language Composition](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html)
 * [2023-10-09, 08:06:31](https://news.ycombinator.com/item?id=37818132) - [Discogs' vibrant vinyl community is shattering](https://www.theverge.com/23899461/discogs-sellers-vinyl-cds-community-fees)
 * [2023-10-09, 07:44:57](https://news.ycombinator.com/item?id=37818010) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 * [2023-10-09, 07:03:03](https://news.ycombinator.com/item?id=37817761) - [Bus Sniffing the IBM 5150: Writing a 8088 Sigrok Decoder](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150-writing-8088.html)
