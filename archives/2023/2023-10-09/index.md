@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 12:44:34](https://news.ycombinator.com/item?id=37819862) - [Financial anxiety: The alarming side effect of inflation](https://www.bbc.com/worklife/article/20231005-financial-anxiety-the-alarming-side-effect-of-inflation)
 * [2023-10-09, 12:43:41](https://news.ycombinator.com/item?id=37819855) - [Safe AI Image Generation](https://www.smbc-comics.com/comic/generation)
 * [2023-10-09, 12:39:44](https://news.ycombinator.com/item?id=37819822) - [Disney's Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
+* [2023-10-09, 12:36:32](https://news.ycombinator.com/item?id=37819795) - [Apple Plans Smaller, Lighter Vision Headset; Meta Works on Cheaper Quest 3](https://www.bloomberg.com/news/newsletters/2023-10-08/apple-plans-smaller-lighter-vision-headset-meta-works-on-cheaper-quest-3-ar-lnhh1ulx)
+* [2023-10-09, 12:23:38](https://news.ycombinator.com/item?id=37819683) - [Modeling CRDTs in Alloy – the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 12:16:28](https://news.ycombinator.com/item?id=37819637) - [The Prosecutor's Fallacy (2018)](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 * [2023-10-09, 12:06:53](https://news.ycombinator.com/item?id=37819566) - [ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
 * [2023-10-09, 11:28:24](https://news.ycombinator.com/item?id=37819234) - [Show HN: Explore Doctors' Disciplinary History](https://www.physician.fyi/)
