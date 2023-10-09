@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-08](index.md)
 
+* [2023-10-08, 23:52:48](https://news.ycombinator.com/item?id=37815488) - [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
 * [2023-10-08, 23:34:16](https://news.ycombinator.com/item?id=37815392) - [San Francisco could ban right-hand turns on red. Could L.A. soon follow?](https://www.latimes.com/california/story/2023-10-03/san-francisco-considers-banning-right-hand-turns-on-red-lights)
 * [2023-10-08, 22:33:35](https://news.ycombinator.com/item?id=37815027) - [RedHat is closing their security mailing list](https://listman.redhat.com/archives/rhsa-announce/2023-October/012854.html)
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty Years of Programming](https://fabiensanglard.net/40/index.html)
@@ -15,6 +16,7 @@
 * [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-Driven Development (2021)](https://www.rubick.com/demo-driven-development/)
 * [2023-10-08, 20:44:51](https://news.ycombinator.com/item?id=37814243) - [Thousands of young people are fleeing Toronto, economists: city will suffer](https://www.thestar.com/business/thousands-of-young-people-are-fleeing-toronto-economists-say-the-city-will-suffer-because-of/article_1bd938b4-246d-5b24-b0ac-20960d216f30.html)
 * [2023-10-08, 20:34:02](https://news.ycombinator.com/item?id=37814182) - [Show HN: This is what social media could be](https://bloom.tendtoyourgarden.xyz/)
+* [2023-10-08, 20:31:15](https://news.ycombinator.com/item?id=37814153) - [The Performance Cost of Node.js and GraphQL](https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [We Deserve Better from Apple](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:45:47](https://news.ycombinator.com/item?id=37813786) - [Learning Nim: Write an Interpreter [video]](https://www.youtube.com/watch?v=48CsjEFzyXQ)
 * [2023-10-08, 19:37:21](https://news.ycombinator.com/item?id=37813711) - [Amazon launches Project Kuiper satellite internet prototypes](https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html)
