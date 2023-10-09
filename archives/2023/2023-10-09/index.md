@@ -13,6 +13,7 @@
 * [2023-10-09, 17:35:06](https://news.ycombinator.com/item?id=37822967) - [Stop Using Char in Java. and Code Points](https://horstmann.com/unblog/2023-10-03/index.html)
 * [2023-10-09, 17:31:30](https://news.ycombinator.com/item?id=37822927) - [Linuxatemyram.com](https://www.linuxatemyram.com/)
 * [2023-10-09, 17:20:54](https://news.ycombinator.com/item?id=37822774) - [Medieval staircases were NOT built going clockwise for the defender's advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
+* [2023-10-09, 16:45:40](https://news.ycombinator.com/item?id=37822284) - [Lensm, a Tool for Viewing Disassembly](https://www.storj.io/blog/lensm)
 * [2023-10-09, 16:28:56](https://news.ycombinator.com/item?id=37822082) - [789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
 * [2023-10-09, 16:26:45](https://news.ycombinator.com/item?id=37822054) - [Argentina's Senate Approves Bill to Eliminate Income Tax](https://www.bloomberglinea.com/english/argentinas-senate-approves-bill-to-eliminate-income-tax/)
 * [2023-10-09, 16:25:23](https://news.ycombinator.com/item?id=37822034) - [Show HN: Baa the LLM client https://baarilliant.ai](https://reflect.site/g/baarilliant/baa-features-and-roadmap/41a6fcf7f9784ef2aae560fd89260613)
