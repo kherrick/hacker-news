@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
 * [2023-10-09, 03:34:31](https://news.ycombinator.com/item?id=37816670) - [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
+* [2023-10-09, 03:24:13](https://news.ycombinator.com/item?id=37816614) - [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
 * [2023-10-09, 01:22:13](https://news.ycombinator.com/item?id=37815957) - [Coinbase Outage](https://status.coinbase.com/)
 * [2023-10-09, 01:20:18](https://news.ycombinator.com/item?id=37815945) - [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)

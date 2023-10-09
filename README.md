@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-09, 03:34:31](https://news.ycombinator.com/item?id=37816670) - [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
+* [2023-10-09, 03:24:13](https://news.ycombinator.com/item?id=37816614) - [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
 * [2023-10-09, 01:20:18](https://news.ycombinator.com/item?id=37815945) - [Impacts of Lack of Sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html)
 * [2023-10-09, 00:54:29](https://news.ycombinator.com/item?id=37815793) - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
@@ -11,7 +12,6 @@
 * [2023-10-08, 21:46:38](https://news.ycombinator.com/item?id=37814701) - [Speeding up the JavaScript ecosystem – The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 * [2023-10-08, 21:42:11](https://news.ycombinator.com/item?id=37814667) - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
 * [2023-10-08, 21:41:37](https://news.ycombinator.com/item?id=37814662) - [The Algorithm for Precision Medicine, talk by Matthew Might [video]](https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s)
-* [2023-10-08, 20:59:55](https://news.ycombinator.com/item?id=37814355) - [Demo-driven development (2021)](https://www.rubick.com/demo-driven-development/)
 * [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 19:48:47](https://news.ycombinator.com/item?id=37813806) - [Fine-Tuning Mistral7B on Python Code](https://wandb.ai/byyoung3/ml-news/reports/Fine-Tuning-Mistral7B-on-Python-Code-With-A-Single-GPU---Vmlldzo1NTg0NzY5)
 * [2023-10-08, 17:31:10](https://news.ycombinator.com/item?id=37812556) - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
