@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37818991"
     ],
     [
-      "UK Postal Address Oddities",
+      "UK Postal Address Oddities (2018)",
       "https://paulplowman.com/stuff/uk-address-oddities/"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Stream Compression in NATS",
       "https://qaze.app/blog/nats-stream-compression/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 09:40:26",
+      "https://news.ycombinator.com/item?id=37818659"
+    ],
+    [
+      "USB inventor explains why the connector was not designed to be reversible",
+      "https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-10-08, 16:57:02",
-      "https://news.ycombinator.com/item?id=37812217"
-    ],
-    [
-      "OpenIPC: Alternative open firmware for your IP camera",
-      "https://github.com/OpenIPC"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 13:10:36",
       "https://news.ycombinator.com/item?id=37810144"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-10-06, 00:24:24",
-      "https://news.ycombinator.com/item?id=37785907"
-    ],
-    [
-      "I helped select the Nobel laureates in physics",
-      "https://theconversation.com/i-helped-select-the-nobel-laureates-in-physics-heres-how-our-committee-decides-214991"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 23:26:34",
       "https://news.ycombinator.com/item?id=37785513"
     ],
     [
       "What we learned making a plastic injection mold with a Chinese mold maker",
       "https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 23:20:32",
+      "https://news.ycombinator.com/item?id=37785458"
+    ],
+    [
+      "Self-Healing of Fractured Diamond",
+      "https://www.nature.com/articles/s41563-023-01656-4"
     ]
   ]
 ]
