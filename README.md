@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 21:19:51](https://news.ycombinator.com/item?id=37825653) - [Brother Printers Sending Ink Data to Amazon?](https://news.ycombinator.com/item?id=37825653)
 * [2023-10-09, 20:46:49](https://news.ycombinator.com/item?id=37825292) - [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
 * [2023-10-09, 19:44:37](https://news.ycombinator.com/item?id=37824547) - [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
 * [2023-10-09, 19:38:24](https://news.ycombinator.com/item?id=37824458) - [The Handbook of Rationality – MIT Press](https://direct.mit.edu/books/oa-edited-volume/5525/The-Handbook-of-Rationality)
@@ -27,7 +28,6 @@
 * [2023-10-09, 08:50:34](https://news.ycombinator.com/item?id=37818374) - [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
 * [2023-10-09, 05:41:46](https://news.ycombinator.com/item?id=37817220) - [The Soviet spacecraft cemetery in the Pacific](https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific)
 * [2023-10-09, 03:46:03](https://news.ycombinator.com/item?id=37816744) - [Writing code with pencil and paper (2022)](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
-* [2023-10-08, 22:08:28](https://news.ycombinator.com/item?id=37814830) - [Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]](https://eprint.iacr.org/2022/1303.pdf)
 * [2023-10-08, 17:04:56](https://news.ycombinator.com/item?id=37812295) - [The three modern formats for email forwarded by people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats)
 * [2023-10-08, 08:27:09](https://news.ycombinator.com/item?id=37808775) - [What Is a Document? [pdf]](https://monoskop.org/images/4/4e/Buckland_Michael_K_1997_What_is_a_Document.pdf)
 
