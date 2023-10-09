@@ -33,6 +33,7 @@
 * [2023-10-08, 17:17:24](https://news.ycombinator.com/item?id=37812432) - [New pipeline makes valuable organic acid from plants–saving money and emissions](https://phys.org/news/2023-10-pipeline-valuable-acid-plantssaving-money.html)
 * [2023-10-08, 17:08:48](https://news.ycombinator.com/item?id=37812342) - [Email Steve Jobs sent to himself 1 year before his passing](https://officechai.com/stories/steve-jobs-email-to-self/)
 * [2023-10-08, 17:08:11](https://news.ycombinator.com/item?id=37812332) - [Writing down unfiltered thoughts enhances self-knowledge](https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head/)
+* [2023-10-08, 17:04:56](https://news.ycombinator.com/item?id=37812295) - [The three modern formats for email forwarded by people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats)
 * [2023-10-08, 17:00:36](https://news.ycombinator.com/item?id=37812259) - [The Era of Startups Is Over](https://acecreamu.substack.com/p/hard-time-for-startups)
 * [2023-10-08, 16:57:02](https://news.ycombinator.com/item?id=37812217) - [Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 * [2023-10-08, 16:51:28](https://news.ycombinator.com/item?id=37812142) - [The Tailscale Universal Docker Mod](https://tailscale.dev/blog/docker-mod-tailscale)

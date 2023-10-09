@@ -23,11 +23,11 @@
 * [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Address Oddities (2018)](https://paulplowman.com/stuff/uk-address-oddities/)
 * [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible (2019)](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
-* [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0](https://ardour.org/whatsnew.html#)
 * [2023-10-09, 08:50:34](https://news.ycombinator.com/item?id=37818374) - [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
 * [2023-10-09, 05:27:37](https://news.ycombinator.com/item?id=37817152) - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
 * [2023-10-09, 03:46:03](https://news.ycombinator.com/item?id=37816744) - [Writing code with pencil and paper (2022)](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
 * [2023-10-08, 22:08:28](https://news.ycombinator.com/item?id=37814830) - [Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]](https://eprint.iacr.org/2022/1303.pdf)
+* [2023-10-08, 17:04:56](https://news.ycombinator.com/item?id=37812295) - [The three modern formats for email forwarded by people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats)
 * [2023-10-08, 08:27:09](https://news.ycombinator.com/item?id=37808775) - [What Is a Document? [pdf]](https://monoskop.org/images/4/4e/Buckland_Michael_K_1997_What_is_a_Document.pdf)
 * [2023-10-08, 06:10:42](https://news.ycombinator.com/item?id=37808230) - [The Anatomy of a Smart Bulb](https://cheriches.com/smart-home/2023-10-07-the-anatomy-of-a-smart-bulb.html)
 
