@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 19:10:53](https://news.ycombinator.com/item?id=37824060) - [Alvis: Never Get Paged Again](https://xeiaso.net/landing/alvis/)
 * [2023-10-09, 18:48:57](https://news.ycombinator.com/item?id=37823805) - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:28:31](https://news.ycombinator.com/item?id=37823543) - [LLMs can't self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
 * [2023-10-09, 18:21:13](https://news.ycombinator.com/item?id=37823457) - ['This Is a False Advertisement': X Ads Are Being Challenged by Reader Context](https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6)
@@ -11,7 +12,6 @@
 * [2023-10-09, 17:31:30](https://news.ycombinator.com/item?id=37822927) - [Linuxatemyram.com](https://www.linuxatemyram.com/)
 * [2023-10-09, 17:20:54](https://news.ycombinator.com/item?id=37822774) - [Medieval staircases were not built going clockwise for the defender's advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
 * [2023-10-09, 16:28:56](https://news.ycombinator.com/item?id=37822082) - [789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
-* [2023-10-09, 14:55:43](https://news.ycombinator.com/item?id=37821094) - [Control-Flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:34:27](https://news.ycombinator.com/item?id=37820858) - [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)

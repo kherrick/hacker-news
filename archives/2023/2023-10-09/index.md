@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 19:10:53](https://news.ycombinator.com/item?id=37824060) - [Alvis: Never Get Paged Again](https://xeiaso.net/landing/alvis/)
 * [2023-10-09, 18:48:57](https://news.ycombinator.com/item?id=37823805) - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:28:31](https://news.ycombinator.com/item?id=37823543) - [LLMs can't self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
 * [2023-10-09, 18:21:13](https://news.ycombinator.com/item?id=37823457) - ['This Is a False Advertisement': X Ads Are Being Challenged by Reader Context](https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6)
