@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
+* [2023-10-09, 13:26:22](https://news.ycombinator.com/item?id=37820250) - [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
 * [2023-10-09, 13:25:09](https://news.ycombinator.com/item?id=37820236) - [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
 * [2023-10-09, 13:20:05](https://news.ycombinator.com/item?id=37820192) - [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
 * [2023-10-09, 13:17:03](https://news.ycombinator.com/item?id=37820165) - [Show HN: CheckAnyPlate – Free License Plate to VIN Decoder](https://checkanyvin.com/search/by-license-plate)

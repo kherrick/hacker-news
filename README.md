@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
+* [2023-10-09, 13:26:22](https://news.ycombinator.com/item?id=37820250) - [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
 * [2023-10-09, 13:25:09](https://news.ycombinator.com/item?id=37820236) - [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
 * [2023-10-09, 13:20:05](https://news.ycombinator.com/item?id=37820192) - [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
 * [2023-10-09, 13:17:03](https://news.ycombinator.com/item?id=37820165) - [Show HN: CheckAnyPlate – Free License Plate to VIN Decoder](https://checkanyvin.com/search/by-license-plate)
@@ -28,7 +29,6 @@
 * [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-08, 23:52:48](https://news.ycombinator.com/item?id=37815488) - [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
-* [2023-10-08, 00:12:40](https://news.ycombinator.com/item?id=37806703) - [Workloads on Arm-based AWS instances](https://bignacio.github.io/soc/docs/articles/arm64-x86_64-on-aws/)
 * [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 
 ## [Archives](archives/index.md)
