@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-09, 01:06:51",
+      "https://news.ycombinator.com/item?id=37815862"
+    ],
+    [
+      "California governor vetoes bill that would have set a $35 cap for insulin",
+      "https://www.theguardian.com/us-news/2023/oct/08/gavin-newsom-california-insulin-bill-35-dollar-cap"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 00:30:03",
+      "https://news.ycombinator.com/item?id=37815674"
+    ],
+    [
+      "My personal C coding style as of late 2023",
+      "https://nullprogram.com/blog/2023/10/08/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 00:07:12",
       "https://news.ycombinator.com/item?id=37815566"
     ],
@@ -17,6 +37,16 @@
     [
       "MiniDisc Hacking",
       "https://www.sharoma.com/minidisc/hacking.htm"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 23:19:23",
+      "https://news.ycombinator.com/item?id=37815318"
+    ],
+    [
+      "Epic Games Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo",
+      "https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-10-08, 09:43:39",
-      "https://news.ycombinator.com/item?id=37809126"
-    ],
-    [
-      "Pg_bm25: Elastic-Quality Full Text Search Inside Postgres",
-      "https://docs.paradedb.com/blog/introducing_bm25"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 04:03:18",
       "https://news.ycombinator.com/item?id=37807786"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-10-05, 23:50:04",
-      "https://news.ycombinator.com/item?id=37785679"
-    ],
-    [
-      "Adversarial competition and collusion in algorithmic markets",
-      "https://www.nature.com/articles/s42256-023-00646-0"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 23:45:35",
       "https://news.ycombinator.com/item?id=37785645"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-10-05, 23:10:17",
-      "https://news.ycombinator.com/item?id=37785383"
+      "2023-10-05, 23:20:32",
+      "https://news.ycombinator.com/item?id=37785458"
     ],
     [
-      "Capital Inefficiency",
-      "https://cutlefish.substack.com/p/tbm-243-capital-inefficiency"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 22:59:44",
-      "https://news.ycombinator.com/item?id=37785300"
-    ],
-    [
-      "Austria rail operator OeBB unveils new night trains",
-      "https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html"
+      "Self-Healing of Fractured Diamond",
+      "https://www.nature.com/articles/s41563-023-01656-4"
     ]
   ]
 ]
