@@ -65,6 +65,7 @@
 * [2023-10-09, 08:30:33](https://news.ycombinator.com/item?id=37818279) - [Streaming service DAZN took almost five years to answer a simple access request](https://noyb.eu/en/streaming-service-dazn-took-almost-five-years-answer-simple-access-request)
 * [2023-10-09, 08:06:31](https://news.ycombinator.com/item?id=37818132) - [Discogs' vibrant vinyl community is shattering](https://www.theverge.com/23899461/discogs-sellers-vinyl-cds-community-fees)
 * [2023-10-09, 07:44:57](https://news.ycombinator.com/item?id=37818010) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
+* [2023-10-09, 07:03:03](https://news.ycombinator.com/item?id=37817761) - [Bus Sniffing the IBM 5150: Writing a 8088 Sigrok Decoder](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150-writing-8088.html)
 * [2023-10-09, 05:27:37](https://news.ycombinator.com/item?id=37817152) - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
 * [2023-10-09, 05:17:29](https://news.ycombinator.com/item?id=37817112) - [Bill to Ban Hidden Fees in California Signed into Law](https://oag.ca.gov/news/press-releases/attorney-general-bonta%E2%80%99s-sponsored-bill-ban-hidden-fees-california-signed-law)
 * [2023-10-09, 03:46:03](https://news.ycombinator.com/item?id=37816744) - [Why (and How) I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
