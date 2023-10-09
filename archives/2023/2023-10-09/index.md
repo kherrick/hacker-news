@@ -23,6 +23,7 @@
 * [2023-10-09, 16:28:56](https://news.ycombinator.com/item?id=37822082) - [789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
 * [2023-10-09, 16:26:45](https://news.ycombinator.com/item?id=37822054) - [Argentina's Senate Approves Bill to Eliminate Income Tax](https://www.bloomberglinea.com/english/argentinas-senate-approves-bill-to-eliminate-income-tax/)
 * [2023-10-09, 16:25:23](https://news.ycombinator.com/item?id=37822034) - [Show HN: Baa the LLM client https://baarilliant.ai](https://reflect.site/g/baarilliant/baa-features-and-roadmap/41a6fcf7f9784ef2aae560fd89260613)
+* [2023-10-09, 16:21:51](https://news.ycombinator.com/item?id=37821994) - [How to Easily Make Your Own Pyramid Salt Crystals](https://crystalverse.com/pyramid-salt-crystals/)
 * [2023-10-09, 16:17:28](https://news.ycombinator.com/item?id=37821943) - [Autopay Is Making Us Worse at Managing Credit-Card Bills](https://www.wsj.com/personal-finance/autopay-money-management-credit-cards-c546b62c)
 * [2023-10-09, 16:17:20](https://news.ycombinator.com/item?id=37821939) - [Asks HN: Solo founders-How to respond when customers ask how big is your company](https://news.ycombinator.com/item?id=37821939)
 * [2023-10-09, 16:10:36](https://news.ycombinator.com/item?id=37821868) - [A new modern look for the Android brand](https://blog.google/products/android/modern-look/)
