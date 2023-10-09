@@ -2,9 +2,10 @@
 
 * [2023-10-09, 11:04:44](https://news.ycombinator.com/item?id=37819085) - [Netflix crushed the Latin American password black market](https://restofworld.org/2023/netflix-latin-america-password-sharing-crackdown-worked/)
 * [2023-10-09, 10:52:39](https://news.ycombinator.com/item?id=37819012) - [Warp drive's best hope dies, as antimatter falls down](https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/)
-* [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Postal Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/)
+* [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Postal Address Oddities (2018)](https://paulplowman.com/stuff/uk-address-oddities/)
 * [2023-10-09, 10:38:36](https://news.ycombinator.com/item?id=37818937) - [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
 * [2023-10-09, 09:47:36](https://news.ycombinator.com/item?id=37818685) - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
+* [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 09:24:18](https://news.ycombinator.com/item?id=37818562) - [MondayDB: A new in-house data engine from monday.com](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660)
 * [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0](https://ardour.org/whatsnew.html#)
@@ -22,14 +23,13 @@
 * [2023-10-08, 21:46:38](https://news.ycombinator.com/item?id=37814701) - [Speeding up the JavaScript ecosystem – The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 * [2023-10-08, 21:42:11](https://news.ycombinator.com/item?id=37814667) - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
 * [2023-10-08, 21:41:37](https://news.ycombinator.com/item?id=37814662) - [The Algorithm for Precision Medicine, talk by Matthew Might [video]](https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s)
-* [2023-10-08, 16:57:02](https://news.ycombinator.com/item?id=37812217) - [OpenIPC: Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 * [2023-10-08, 13:10:36](https://news.ycombinator.com/item?id=37810144) - [Flappy Dird: Flappy Bird Implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
 * [2023-10-08, 00:12:40](https://news.ycombinator.com/item?id=37806703) - [Workloads on Arm-based AWS instances](https://bignacio.github.io/soc/docs/articles/arm64-x86_64-on-aws/)
 * [2023-10-06, 04:57:23](https://news.ycombinator.com/item?id=37787238) - [How to add documentation to your product life cycle](https://thisisimportant.net/posts/process-models-for-documentation/)
 * [2023-10-06, 01:24:41](https://news.ycombinator.com/item?id=37786245) - [The White Gold of Turda, Romania](https://holeinthedonut.com/2013/11/21/salina-turda-salt-mine-in-romania/)
-* [2023-10-06, 00:24:24](https://news.ycombinator.com/item?id=37785907) - [I helped select the Nobel laureates in physics](https://theconversation.com/i-helped-select-the-nobel-laureates-in-physics-heres-how-our-committee-decides-214991)
 * [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
+* [2023-10-05, 23:20:32](https://news.ycombinator.com/item?id=37785458) - [Self-Healing of Fractured Diamond](https://www.nature.com/articles/s41563-023-01656-4)
 
 ## [Archives](archives/index.md)
 
