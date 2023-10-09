@@ -2,6 +2,7 @@
 
 * [2023-10-09, 05:17:29](https://news.ycombinator.com/item?id=37817112) - [Bill to Ban Hidden Fees in California Signed into Law](https://oag.ca.gov/news/press-releases/attorney-general-bonta%E2%80%99s-sponsored-bill-ban-hidden-fees-california-signed-law)
 * [2023-10-09, 03:46:03](https://news.ycombinator.com/item?id=37816744) - [Why (and How) I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
+* [2023-10-09, 03:42:45](https://news.ycombinator.com/item?id=37816721) - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 * [2023-10-09, 03:34:31](https://news.ycombinator.com/item?id=37816670) - [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
 * [2023-10-09, 03:24:13](https://news.ycombinator.com/item?id=37816614) - [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
@@ -18,7 +19,6 @@
 * [2023-10-08, 17:31:10](https://news.ycombinator.com/item?id=37812556) - [Mitigations=off considered harmful or spurious SIGILL on AMD Zen4](https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049)
 * [2023-10-08, 16:57:02](https://news.ycombinator.com/item?id=37812217) - [OpenIPC: Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 * [2023-10-08, 16:51:28](https://news.ycombinator.com/item?id=37812142) - [The Tailscale Universal Docker Mod](https://tailscale.dev/blog/docker-mod-tailscale)
-* [2023-10-08, 16:34:46](https://news.ycombinator.com/item?id=37811953) - [Calling Rust from Python](https://blog.frankel.ch/rust-from-python/)
 * [2023-10-08, 16:21:31](https://news.ycombinator.com/item?id=37811814) - [Scaling Knative to 100K+ Webapps](https://render.com/blog/knative)
 * [2023-10-08, 13:10:36](https://news.ycombinator.com/item?id=37810144) - [Flappy Dird: Flappy Bird Implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
