@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:34:27](https://news.ycombinator.com/item?id=37820858) - [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
 * [2023-10-09, 13:26:22](https://news.ycombinator.com/item?id=37820250) - [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)

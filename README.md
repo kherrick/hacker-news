@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:34:27](https://news.ycombinator.com/item?id=37820858) - [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
-* [2023-10-09, 13:26:22](https://news.ycombinator.com/item?id=37820250) - [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
 * [2023-10-09, 13:25:09](https://news.ycombinator.com/item?id=37820236) - [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
 * [2023-10-09, 13:20:05](https://news.ycombinator.com/item?id=37820192) - [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
 * [2023-10-09, 13:17:03](https://news.ycombinator.com/item?id=37820165) - [Show HN: CheckAnyPlate – Free License Plate to VIN Decoder](https://checkanyvin.com/search/by-license-plate)
@@ -23,11 +23,11 @@
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0](https://ardour.org/whatsnew.html#)
 * [2023-10-09, 08:50:34](https://news.ycombinator.com/item?id=37818374) - [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
+* [2023-10-09, 07:44:57](https://news.ycombinator.com/item?id=37818010) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 * [2023-10-09, 05:27:37](https://news.ycombinator.com/item?id=37817152) - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
 * [2023-10-09, 03:42:45](https://news.ycombinator.com/item?id=37816721) - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
 * [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
-* [2023-10-08, 23:52:48](https://news.ycombinator.com/item?id=37815488) - [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
 * [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 
