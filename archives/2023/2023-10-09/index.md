@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 18:48:57](https://news.ycombinator.com/item?id=37823805) - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:28:31](https://news.ycombinator.com/item?id=37823543) - [LLMs can't self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
 * [2023-10-09, 18:21:13](https://news.ycombinator.com/item?id=37823457) - ['This Is a False Advertisement': X Ads Are Being Challenged by Reader Context](https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6)
 * [2023-10-09, 18:19:31](https://news.ycombinator.com/item?id=37823440) - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
+* [2023-10-09, 18:18:54](https://news.ycombinator.com/item?id=37823430) - [EMPShield investing $1.9B with CHIPS support to build factory in Kansas](https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/)
 * [2023-10-09, 18:13:20](https://news.ycombinator.com/item?id=37823377) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 * [2023-10-09, 17:51:32](https://news.ycombinator.com/item?id=37823160) - [Video Streaming at Scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
 * [2023-10-09, 17:49:38](https://news.ycombinator.com/item?id=37823141) - [Feds find \"substantial'' safety issue at SC nuclear plant](https://www.thestate.com/news/local/environment/article280228714.html)
