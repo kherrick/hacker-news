@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:09:44](https://news.ycombinator.com/item?id=37826095) - [Egyptian banks suspend debit card use in foreign currency](https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/)
 * [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
 * [2023-10-09, 21:19:51](https://news.ycombinator.com/item?id=37825653) - [Ask HN: Brother printers sending ink data to Amazon?](https://news.ycombinator.com/item?id=37825653)
@@ -23,7 +24,6 @@
 * [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Address Oddities (2018)](https://paulplowman.com/stuff/uk-address-oddities/)
 * [2023-10-09, 10:17:20](https://news.ycombinator.com/item?id=37818829) - [SunPlus: The biggest chip company you've never heard of (2010)](https://hackmii.com/2010/04/sunplus-the-biggest-chip-company-youve-never-heard-of/)
 * [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible (2019)](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
-* [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 08:50:34](https://news.ycombinator.com/item?id=37818374) - [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
 * [2023-10-09, 05:41:46](https://news.ycombinator.com/item?id=37817220) - [The Soviet spacecraft cemetery in the Pacific](https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific)
 * [2023-10-09, 03:46:03](https://news.ycombinator.com/item?id=37816744) - [Writing code with pencil and paper (2022)](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
