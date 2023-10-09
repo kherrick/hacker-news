@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-09, 05:27:37](https://news.ycombinator.com/item?id=37817152) - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
-* [2023-10-09, 05:17:29](https://news.ycombinator.com/item?id=37817112) - [Bill to Ban Hidden Fees in California Signed into Law](https://oag.ca.gov/news/press-releases/attorney-general-bonta%E2%80%99s-sponsored-bill-ban-hidden-fees-california-signed-law)
 * [2023-10-09, 03:46:03](https://news.ycombinator.com/item?id=37816744) - [Why (and How) I Write Code with Pencil and Paper](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
 * [2023-10-09, 03:42:45](https://news.ycombinator.com/item?id=37816721) - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 * [2023-10-09, 03:34:31](https://news.ycombinator.com/item?id=37816670) - [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
@@ -27,6 +26,7 @@
 * [2023-10-06, 04:57:23](https://news.ycombinator.com/item?id=37787238) - [How to add documentation to your product life cycle](https://thisisimportant.net/posts/process-models-for-documentation/)
 * [2023-10-06, 04:47:01](https://news.ycombinator.com/item?id=37787188) - [Addictive cheap and controversial: the rise of China’s Temu app](https://www.theguardian.com/world/2023/oct/06/addictive-absurdly-cheap-and-controversial-the-rise-of-chinas-temu-app)
 * [2023-10-06, 01:24:41](https://news.ycombinator.com/item?id=37786245) - [The White Gold of Turda, Romania](https://holeinthedonut.com/2013/11/21/salina-turda-salt-mine-in-romania/)
+* [2023-10-06, 00:24:24](https://news.ycombinator.com/item?id=37785907) - [I helped select the Nobel laureates in physics](https://theconversation.com/i-helped-select-the-nobel-laureates-in-physics-heres-how-our-committee-decides-214991)
 * [2023-10-05, 23:41:51](https://news.ycombinator.com/item?id=37785614) - [Summary of “The Procrastination Equation”](https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/)
 * [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 * [2023-10-05, 23:20:32](https://news.ycombinator.com/item?id=37785458) - [Self-Healing of Fractured Diamond](https://www.nature.com/articles/s41563-023-01656-4)
