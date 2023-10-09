@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-10-09, 09:24:18",
-      "https://news.ycombinator.com/item?id=37818562"
-    ],
-    [
-      "MondayDB: A new in-house data engine from monday.com",
-      "https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 08:58:35",
       "https://news.ycombinator.com/item?id=37818422"
     ],
@@ -127,6 +117,16 @@
     [
       "Streaming service DAZN took almost five years to answer a simple access request",
       "https://noyb.eu/en/streaming-service-dazn-took-almost-five-years-answer-simple-access-request"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 07:44:57",
+      "https://news.ycombinator.com/item?id=37818010"
+    ],
+    [
+      "An MIR-based JIT prototype for Ruby",
+      "https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-10-08, 21:42:11",
-      "https://news.ycombinator.com/item?id=37814667"
-    ],
-    [
-      "Metals Fuse Together in Space",
-      "https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 21:41:37",
       "https://news.ycombinator.com/item?id=37814662"
     ],
     [
       "The Algorithm for Precision Medicine, talk by Matthew Might [video]",
       "https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 13:10:36",
+      "https://news.ycombinator.com/item?id=37810144"
+    ],
+    [
+      "Flappy Dird: Flappy Bird Implemented in MacOS Finder",
+      "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
     ]
   ],
   [
