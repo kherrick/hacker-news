@@ -101,32 +101,12 @@
   ],
   [
     [
-      "2023-10-09, 16:45:40",
-      "https://news.ycombinator.com/item?id=37822284"
-    ],
-    [
-      "Lensm, a Tool for Viewing Disassembly",
-      "https://www.storj.io/blog/lensm"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 16:28:56",
       "https://news.ycombinator.com/item?id=37822082"
     ],
     [
       "789 KB Linux Without MMU on RISC-V",
       "https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 16:10:36",
-      "https://news.ycombinator.com/item?id=37821868"
-    ],
-    [
-      "A new modern look for the Android brand",
-      "https://blog.google/products/android/modern-look/"
     ]
   ],
   [
@@ -181,16 +161,6 @@
   ],
   [
     [
-      "2023-10-09, 12:44:36",
-      "https://news.ycombinator.com/item?id=37819864"
-    ],
-    [
-      "We made a fork of the Rust Playground",
-      "https://java-playground.com/?runtime=latest&release=21&preview=enabled&gist=27cf9e5152d902d19e3be500c072f66c"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 12:25:05",
       "https://news.ycombinator.com/item?id=37819693"
     ],
@@ -221,22 +191,42 @@
   ],
   [
     [
-      "2023-10-09, 12:06:53",
-      "https://news.ycombinator.com/item?id=37819566"
-    ],
-    [
-      "ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0",
-      "https://github.com/zeromq/libzmq/pull/4555"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 11:10:19",
       "https://news.ycombinator.com/item?id=37819114"
     ],
     [
       "Zimaboard: The closest thing to my dream home server setup",
       "https://ounapuu.ee/posts/2023/10/09/zimaboard/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 10:52:39",
+      "https://news.ycombinator.com/item?id=37819012"
+    ],
+    [
+      "Warp drive's best hope dies, as antimatter falls down",
+      "https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 10:46:49",
+      "https://news.ycombinator.com/item?id=37818991"
+    ],
+    [
+      "UK Address Oddities (2018)",
+      "https://paulplowman.com/stuff/uk-address-oddities/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 09:40:26",
+      "https://news.ycombinator.com/item?id=37818659"
+    ],
+    [
+      "USB inventor explains why the connector was not designed to be reversible (2019)",
+      "https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2023-10-09, 08:58:35",
-      "https://news.ycombinator.com/item?id=37818422"
-    ],
-    [
-      "Ardour 8.0",
-      "https://ardour.org/whatsnew.html#"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 08:50:34",
       "https://news.ycombinator.com/item?id=37818374"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
-      "2023-10-08, 22:08:28",
-      "https://news.ycombinator.com/item?id=37814830"
+      "2023-10-09, 07:03:03",
+      "https://news.ycombinator.com/item?id=37817761"
     ],
     [
-      "Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]",
-      "https://eprint.iacr.org/2022/1303.pdf"
+      "Bus Sniffing the IBM 5150: Writing a 8088 Sigrok Decoder",
+      "https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150-writing-8088.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 05:27:37",
+      "https://news.ycombinator.com/item?id=37817152"
+    ],
+    [
+      "Blackmagic Camera for iPhone",
+      "https://www.blackmagicdesign.com/products/blackmagiccamera"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 03:46:03",
+      "https://news.ycombinator.com/item?id=37816744"
+    ],
+    [
+      "Writing code with pencil and paper (2022)",
+      "https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/"
     ]
   ],
   [
