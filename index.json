@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-09, 01:29:53",
+      "https://news.ycombinator.com/item?id=37815999"
+    ],
+    [
+      "HTTPie Desktop: cross-platform API testing client for humans",
+      "https://github.com/httpie/desktop"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 01:20:18",
+      "https://news.ycombinator.com/item?id=37815945"
+    ],
+    [
+      "Impacts of Lack of Sleep",
+      "https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 00:54:29",
       "https://news.ycombinator.com/item?id=37815793"
     ],
@@ -77,16 +97,6 @@
     [
       "Metals Fuse Together in Space",
       "https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 20:59:57",
-      "https://news.ycombinator.com/item?id=37814356"
-    ],
-    [
-      "Projects Innovating Around RISC-V",
-      "https://thechipletter.substack.com/p/seven-projects-innovating-around"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-10-06, 04:39:58",
-      "https://news.ycombinator.com/item?id=37787161"
-    ],
-    [
-      "Compiling Rust binaries for Windows 98 SE and more: a journey (2020)",
-      "https://seri.tools/blog/compiling-rust-for-legacy-windows/#"
-    ]
-  ],
-  [
-    [
       "2023-10-06, 01:24:41",
       "https://news.ycombinator.com/item?id=37786245"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-10-05, 23:50:04",
-      "https://news.ycombinator.com/item?id=37785679"
-    ],
-    [
-      "Adversarial competition and collusion in algorithmic markets",
-      "https://www.nature.com/articles/s42256-023-00646-0"
-    ]
-  ],
-  [
-    [
       "2023-10-05, 23:45:35",
       "https://news.ycombinator.com/item?id=37785645"
     ],
@@ -287,6 +277,16 @@
     [
       "Summary of “The Procrastination Equation”",
       "https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/"
+    ]
+  ],
+  [
+    [
+      "2023-10-05, 23:26:34",
+      "https://news.ycombinator.com/item?id=37785513"
+    ],
+    [
+      "What We Learned Making a Plastic Injection Mold with a Chinese Mold Maker",
+      "https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/"
     ]
   ],
   [
