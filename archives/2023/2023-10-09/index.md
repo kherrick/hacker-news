@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
+* [2023-10-09, 22:41:02](https://news.ycombinator.com/item?id=37826352) - [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
 * [2023-10-09, 22:09:44](https://news.ycombinator.com/item?id=37826095) - [Egyptian banks suspend debit card use in foreign currency](https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/)
 * [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
 * [2023-10-09, 21:30:51](https://news.ycombinator.com/item?id=37825784) - [Study finds the gulf stream is warming and shifting closer to shore](https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/)
