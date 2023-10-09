@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-10-09, 11:04:44",
-      "https://news.ycombinator.com/item?id=37819085"
+      "2023-10-09, 12:16:28",
+      "https://news.ycombinator.com/item?id=37819637"
     ],
     [
-      "Netflix crushed the Latin American password black market",
-      "https://restofworld.org/2023/netflix-latin-america-password-sharing-crackdown-worked/"
+      "The Prosecutor's Fallacy (2018)",
+      "https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 12:06:53",
+      "https://news.ycombinator.com/item?id=37819566"
+    ],
+    [
+      "ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0",
+      "https://github.com/zeromq/libzmq/pull/4555"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 11:10:19",
+      "https://news.ycombinator.com/item?id=37819114"
+    ],
+    [
+      "Zimaboard: The closest thing to my dream home server setup",
+      "https://ounapuu.ee/posts/2023/10/09/zimaboard/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Stream Compression in NATS",
       "https://qaze.app/blog/nats-stream-compression/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 09:40:26",
-      "https://news.ycombinator.com/item?id=37818659"
-    ],
-    [
-      "USB inventor explains why the connector was not designed to be reversible",
-      "https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/"
     ]
   ],
   [
@@ -161,6 +171,26 @@
   ],
   [
     [
+      "2023-10-09, 01:29:53",
+      "https://news.ycombinator.com/item?id=37815999"
+    ],
+    [
+      "HTTPie Desktop: cross-platform API testing client for humans",
+      "https://github.com/httpie/desktop"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 01:20:18",
+      "https://news.ycombinator.com/item?id=37815945"
+    ],
+    [
+      "Impacts of Lack of Sleep",
+      "https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 00:54:29",
       "https://news.ycombinator.com/item?id=37815793"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-10-08, 21:46:38",
-      "https://news.ycombinator.com/item?id=37814701"
-    ],
-    [
-      "Speeding up the JavaScript ecosystem – The barrel file debacle",
-      "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 21:42:11",
       "https://news.ycombinator.com/item?id=37814667"
     ],
@@ -227,16 +247,6 @@
     [
       "The Algorithm for Precision Medicine, talk by Matthew Might [video]",
       "https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 13:10:36",
-      "https://news.ycombinator.com/item?id=37810144"
-    ],
-    [
-      "Flappy Dird: Flappy Bird Implemented in MacOS Finder",
-      "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What we learned making a plastic injection mold with a Chinese mold maker",
       "https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 23:20:32",
-      "https://news.ycombinator.com/item?id=37785458"
-    ],
-    [
-      "Self-Healing of Fractured Diamond",
-      "https://www.nature.com/articles/s41563-023-01656-4"
     ]
   ]
 ]
