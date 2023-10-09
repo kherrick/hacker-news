@@ -5,6 +5,7 @@
 * [2023-10-09, 13:25:09](https://news.ycombinator.com/item?id=37820236) - [Mortal Computers](https://gonzoml.substack.com/p/mortal-computers)
 * [2023-10-09, 13:20:05](https://news.ycombinator.com/item?id=37820192) - [Google Made Billions with Secret Change to Ad-Auction Algorithm](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
 * [2023-10-09, 13:17:03](https://news.ycombinator.com/item?id=37820165) - [Show HN: CheckAnyPlate – Free License Plate to VIN Decoder](https://checkanyvin.com/search/by-license-plate)
+* [2023-10-09, 13:09:27](https://news.ycombinator.com/item?id=37820096) - [IPC – Unix Signals](https://goodyduru.github.io//os/2023/10/05/ipc-unix-signals.html)
 * [2023-10-09, 13:06:08](https://news.ycombinator.com/item?id=37820067) - [Advice for Prospective PhD Students](https://gonzales.science/resource-blog/for-prospective-phd-students)
 * [2023-10-09, 12:49:31](https://news.ycombinator.com/item?id=37819910) - [Intro to Semantic Kernel – Part Two](https://blog.brakmic.com/intro-to-semantic-kernel-part-two/)
 * [2023-10-09, 12:44:36](https://news.ycombinator.com/item?id=37819864) - [We made a fork of the Rust Playground](https://java-playground.com/?runtime=latest&release=21&preview=enabled&gist=27cf9e5152d902d19e3be500c072f66c)
@@ -27,7 +28,6 @@
 * [2023-10-09, 03:42:45](https://news.ycombinator.com/item?id=37816721) - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 * [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
 * [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
-* [2023-10-08, 23:52:48](https://news.ycombinator.com/item?id=37815488) - [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
 * [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 
