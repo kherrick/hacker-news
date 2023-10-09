@@ -2,10 +2,9 @@
 
 * [2023-10-09, 22:09:44](https://news.ycombinator.com/item?id=37826095) - [Egyptian banks suspend debit card use in foreign currency](https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/)
 * [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
-* [2023-10-09, 21:19:51](https://news.ycombinator.com/item?id=37825653) - [Brother Printers Sending Ink Data to Amazon?](https://news.ycombinator.com/item?id=37825653)
-* [2023-10-09, 20:46:49](https://news.ycombinator.com/item?id=37825292) - [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
+* [2023-10-09, 21:19:51](https://news.ycombinator.com/item?id=37825653) - [Ask HN: Brother printers sending ink data to Amazon?](https://news.ycombinator.com/item?id=37825653)
+* [2023-10-09, 20:46:49](https://news.ycombinator.com/item?id=37825292) - [John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
 * [2023-10-09, 19:44:37](https://news.ycombinator.com/item?id=37824547) - [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
-* [2023-10-09, 19:38:24](https://news.ycombinator.com/item?id=37824458) - [The Handbook of Rationality – MIT Press](https://direct.mit.edu/books/oa-edited-volume/5525/The-Handbook-of-Rationality)
 * [2023-10-09, 18:19:31](https://news.ycombinator.com/item?id=37823440) - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
 * [2023-10-09, 18:13:20](https://news.ycombinator.com/item?id=37823377) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 * [2023-10-09, 17:51:32](https://news.ycombinator.com/item?id=37823160) - [Video streaming at scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
@@ -30,6 +29,7 @@
 * [2023-10-09, 03:46:03](https://news.ycombinator.com/item?id=37816744) - [Writing code with pencil and paper (2022)](https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/)
 * [2023-10-08, 17:04:56](https://news.ycombinator.com/item?id=37812295) - [The three modern formats for email forwarded by people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats)
 * [2023-10-08, 08:27:09](https://news.ycombinator.com/item?id=37808775) - [What Is a Document? [pdf]](https://monoskop.org/images/4/4e/Buckland_Michael_K_1997_What_is_a_Document.pdf)
+* [2023-10-08, 06:10:42](https://news.ycombinator.com/item?id=37808230) - [The anatomy of a smart bulb](https://cheriches.com/smart-home/2023-10-07-the-anatomy-of-a-smart-bulb.html)
 
 ## [Archives](archives/index.md)
 
