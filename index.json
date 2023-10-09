@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-10-09, 12:39:44",
-      "https://news.ycombinator.com/item?id=37819822"
-    ],
-    [
-      "Disney's Loki faces backlash over reported use of generative AI",
-      "https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 12:36:32",
       "https://news.ycombinator.com/item?id=37819795"
     ],
@@ -67,6 +57,16 @@
     [
       "ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0",
       "https://github.com/zeromq/libzmq/pull/4555"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 11:42:09",
+      "https://news.ycombinator.com/item?id=37819336"
+    ],
+    [
+      "(Mis)understanding RISC-V ecalls and syscalls",
+      "https://jborza.com/post/2021-04-21-ecalls-and-syscalls/"
     ]
   ],
   [
