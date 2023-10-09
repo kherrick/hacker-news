@@ -31,11 +31,21 @@
   ],
   [
     [
+      "2023-10-09, 16:17:20",
+      "https://news.ycombinator.com/item?id=37821939"
+    ],
+    [
+      "Asks HN: Solo founders-How to respond when customers ask how big is your company",
+      "https://news.ycombinator.com/item?id=37821939"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 16:05:51",
       "https://news.ycombinator.com/item?id=37821821"
     ],
     [
-      "DNS record \"hn.algolia.com\" is gone",
+      "Tell HN: DNS record \"hn.algolia.com\" is gone",
       "https://www.nslookup.io/domains/hn.algolia.com/dns-records/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37820617"
     ],
     [
-      "Announcing Chapel 1.32",
+      "Chapel 1.32",
       "https://chapel-lang.org/blog/posts/announcing-chapel-1.32/"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-10-09, 11:42:09",
-      "https://news.ycombinator.com/item?id=37819336"
-    ],
-    [
-      "(Mis)understanding RISC-V ecalls and syscalls",
-      "https://jborza.com/post/2021-04-21-ecalls-and-syscalls/"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 11:28:24",
       "https://news.ycombinator.com/item?id=37819234"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-10-09, 05:27:37",
-      "https://news.ycombinator.com/item?id=37817152"
-    ],
-    [
-      "Blackmagic Camera for iPhone",
-      "https://www.blackmagicdesign.com/products/blackmagiccamera"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 03:42:45",
       "https://news.ycombinator.com/item?id=37816721"
     ],
     [
       "Flexoki, an inky color scheme for prose and code",
       "https://stephango.com/flexoki"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 22:08:28",
+      "https://news.ycombinator.com/item?id=37814830"
+    ],
+    [
+      "Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]",
+      "https://eprint.iacr.org/2022/1303.pdf"
     ]
   ],
   [
