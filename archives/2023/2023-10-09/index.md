@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 16:26:45](https://news.ycombinator.com/item?id=37822054) - [Argentina's Senate Approves Bill to Eliminate Income Tax](https://www.bloomberglinea.com/english/argentinas-senate-approves-bill-to-eliminate-income-tax/)
+* [2023-10-09, 16:25:23](https://news.ycombinator.com/item?id=37822034) - [Show HN: Baa the LLM client https://baarilliant.ai](https://reflect.site/g/baarilliant/baa-features-and-roadmap/41a6fcf7f9784ef2aae560fd89260613)
+* [2023-10-09, 16:17:28](https://news.ycombinator.com/item?id=37821943) - [Autopay Is Making Us Worse at Managing Credit-Card Bills](https://www.wsj.com/personal-finance/autopay-money-management-credit-cards-c546b62c)
 * [2023-10-09, 16:17:20](https://news.ycombinator.com/item?id=37821939) - [Asks HN: Solo founders-How to respond when customers ask how big is your company](https://news.ycombinator.com/item?id=37821939)
 * [2023-10-09, 16:05:51](https://news.ycombinator.com/item?id=37821821) - [DNS record \"hn.algolia.com\" is gone](https://www.nslookup.io/domains/hn.algolia.com/dns-records/)
 * [2023-10-09, 15:17:50](https://news.ycombinator.com/item?id=37821324) - [UK opposition leader targeted by AI-generated fake audio smear](https://therecord.media/keir-starmer-labour-party-leader-audio-smear-social-media-deepfake)
