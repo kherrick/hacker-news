@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 01:06:51](https://news.ycombinator.com/item?id=37815862) - [California governor vetoes bill that would have set a $35 cap for insulin](https://www.theguardian.com/us-news/2023/oct/08/gavin-newsom-california-insulin-bill-35-dollar-cap)
+* [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-09, 00:07:12](https://news.ycombinator.com/item?id=37815566) - [Self-Hosting (Almost) All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
 * [2023-10-08, 23:52:48](https://news.ycombinator.com/item?id=37815488) - [MiniDisc Hacking](https://www.sharoma.com/minidisc/hacking.htm)
+* [2023-10-08, 23:19:23](https://news.ycombinator.com/item?id=37815318) - [Epic Games Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo](https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/)
 * [2023-10-08, 21:55:09](https://news.ycombinator.com/item?id=37814748) - [Forty years of programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-08, 21:46:38](https://news.ycombinator.com/item?id=37814701) - [Speeding up the JavaScript ecosystem – The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 * [2023-10-08, 21:42:11](https://news.ycombinator.com/item?id=37814667) - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
@@ -20,16 +23,13 @@
 * [2023-10-08, 13:10:36](https://news.ycombinator.com/item?id=37810144) - [Flappy Dird: Flappy Bird Implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-08, 13:00:54](https://news.ycombinator.com/item?id=37810068) - [Fastest sailboat: Two wild designs](https://newatlas.com/marine/syroco-sp80-testing/)
 * [2023-10-08, 11:54:11](https://news.ycombinator.com/item?id=37809696) - [Lessons from bootstrapped companies founded by software engineers](https://newsletter.pragmaticengineer.com/p/lessons-from-bootstrapped-companies)
-* [2023-10-08, 09:43:39](https://news.ycombinator.com/item?id=37809126) - [Pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-08, 04:03:18](https://news.ycombinator.com/item?id=37807786) - [A Repairman's View of Portable Minidisc Recorders (2000)](https://www.minidisc.org/repair_info.html)
 * [2023-10-06, 04:39:58](https://news.ycombinator.com/item?id=37787161) - [Compiling Rust binaries for Windows 98 SE and more: a journey (2020)](https://seri.tools/blog/compiling-rust-for-legacy-windows/#)
 * [2023-10-06, 02:11:33](https://news.ycombinator.com/item?id=37786488) - [The Economics of Programming Languages [video]](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-06, 00:24:24](https://news.ycombinator.com/item?id=37785907) - [I helped select the Nobel laureates in physics](https://theconversation.com/i-helped-select-the-nobel-laureates-in-physics-heres-how-our-committee-decides-214991)
-* [2023-10-05, 23:50:04](https://news.ycombinator.com/item?id=37785679) - [Adversarial competition and collusion in algorithmic markets](https://www.nature.com/articles/s42256-023-00646-0)
 * [2023-10-05, 23:45:35](https://news.ycombinator.com/item?id=37785645) - [Pots of gold: the world’s most expensive house plants (2022)](https://www.theguardian.com/lifeandstyle/2022/apr/17/gold-leaves-meet-the-30000-pound-houseplants-sparking-a-new-green-crimewave)
 * [2023-10-05, 23:41:51](https://news.ycombinator.com/item?id=37785614) - [Summary of “The Procrastination Equation”](https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/)
-* [2023-10-05, 23:10:17](https://news.ycombinator.com/item?id=37785383) - [Capital Inefficiency](https://cutlefish.substack.com/p/tbm-243-capital-inefficiency)
-* [2023-10-05, 22:59:44](https://news.ycombinator.com/item?id=37785300) - [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
+* [2023-10-05, 23:20:32](https://news.ycombinator.com/item?id=37785458) - [Self-Healing of Fractured Diamond](https://www.nature.com/articles/s41563-023-01656-4)
 
 ## [Archives](archives/index.md)
 

@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 01:06:51](https://news.ycombinator.com/item?id=37815862) - [California governor vetoes bill that would have set a $35 cap for insulin](https://www.theguardian.com/us-news/2023/oct/08/gavin-newsom-california-insulin-bill-35-dollar-cap)
+* [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-09, 00:07:12](https://news.ycombinator.com/item?id=37815566) - [Self-Hosting (Almost) All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
