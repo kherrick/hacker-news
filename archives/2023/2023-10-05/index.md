@@ -10,6 +10,7 @@
 * [2023-10-05, 23:45:35](https://news.ycombinator.com/item?id=37785645) - [Pots of gold: the world’s most expensive house plants](https://www.theguardian.com/lifeandstyle/2022/apr/17/gold-leaves-meet-the-30000-pound-houseplants-sparking-a-new-green-crimewave)
 * [2023-10-05, 23:41:51](https://news.ycombinator.com/item?id=37785614) - [A Book Summary of “The Procrastination Equation”, by Dr. Piers Steel](https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/)
 * [2023-10-05, 23:36:14](https://news.ycombinator.com/item?id=37785580) - [Why Did Social Media Go to War Against Writers?](https://www.honest-broker.com/p/why-did-social-media-go-to-war-against)
+* [2023-10-05, 23:26:34](https://news.ycombinator.com/item?id=37785513) - [What We Learned Making a Plastic Injection Mold with a Chinese Mold Maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 * [2023-10-05, 23:20:32](https://news.ycombinator.com/item?id=37785458) - [Self-Healing of Fractured Diamond](https://www.nature.com/articles/s41563-023-01656-4)
 * [2023-10-05, 23:19:33](https://news.ycombinator.com/item?id=37785451) - [A simple, arena-backed, generic dynamic array for C](https://nullprogram.com/blog/2023/10/05/)
 * [2023-10-05, 23:18:49](https://news.ycombinator.com/item?id=37785442) - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)
