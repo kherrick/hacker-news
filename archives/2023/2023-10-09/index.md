@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 11:04:44](https://news.ycombinator.com/item?id=37819085) - [Netflix crushed the Latin American password black market](https://restofworld.org/2023/netflix-latin-america-password-sharing-crackdown-worked/)
+* [2023-10-09, 10:52:39](https://news.ycombinator.com/item?id=37819012) - [Warp drive's best hope dies, as antimatter falls down](https://bigthink.com/starts-with-a-bang/warp-drives-best-hope-dies/)
+* [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Postal Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/)
 * [2023-10-09, 10:38:36](https://news.ycombinator.com/item?id=37818937) - [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
 * [2023-10-09, 09:47:36](https://news.ycombinator.com/item?id=37818685) - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
