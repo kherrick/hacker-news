@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 12:39:44](https://news.ycombinator.com/item?id=37819822) - [Disney's Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
 * [2023-10-09, 12:16:28](https://news.ycombinator.com/item?id=37819637) - [The Prosecutor's Fallacy (2018)](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 * [2023-10-09, 12:06:53](https://news.ycombinator.com/item?id=37819566) - [ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
 * [2023-10-09, 11:10:19](https://news.ycombinator.com/item?id=37819114) - [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
@@ -13,6 +14,7 @@
 * [2023-10-09, 10:38:36](https://news.ycombinator.com/item?id=37818937) - [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
 * [2023-10-09, 09:47:36](https://news.ycombinator.com/item?id=37818685) - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
 * [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
+* [2023-10-09, 09:38:58](https://news.ycombinator.com/item?id=37818649) - [The Magic Prioritization Trick](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 09:24:18](https://news.ycombinator.com/item?id=37818562) - [MondayDB: A new in-house data engine from monday.com](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660)
 * [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0 released](https://ardour.org/whatsnew.html#)
