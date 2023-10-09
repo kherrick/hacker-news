@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
+* [2023-10-09, 21:30:51](https://news.ycombinator.com/item?id=37825784) - [Study finds the gulf stream is warming and shifting closer to shore](https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/)
 * [2023-10-09, 21:19:51](https://news.ycombinator.com/item?id=37825653) - [Brother Printers Sending Ink Data to Amazon?](https://news.ycombinator.com/item?id=37825653)
 * [2023-10-09, 20:46:49](https://news.ycombinator.com/item?id=37825292) - [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
 * [2023-10-09, 19:44:37](https://news.ycombinator.com/item?id=37824547) - [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
@@ -8,7 +10,6 @@
 * [2023-10-09, 18:19:31](https://news.ycombinator.com/item?id=37823440) - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
 * [2023-10-09, 18:13:20](https://news.ycombinator.com/item?id=37823377) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 * [2023-10-09, 17:51:32](https://news.ycombinator.com/item?id=37823160) - [Video streaming at scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
-* [2023-10-09, 17:49:38](https://news.ycombinator.com/item?id=37823141) - [Feds find \"substantial'' safety issue at SC nuclear plant](https://www.thestate.com/news/local/environment/article280228714.html)
 * [2023-10-09, 17:31:30](https://news.ycombinator.com/item?id=37822927) - [Linux ate my RAM (2009)](https://www.linuxatemyram.com/)
 * [2023-10-09, 17:20:54](https://news.ycombinator.com/item?id=37822774) - [Medieval staircases were not built going clockwise for the defender's advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
 * [2023-10-09, 16:45:40](https://news.ycombinator.com/item?id=37822284) - [Lensm, a Tool for Viewing Disassembly](https://www.storj.io/blog/lensm)
@@ -17,7 +18,6 @@
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
 * [2023-10-09, 14:00:40](https://news.ycombinator.com/item?id=37820532) - [Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
-* [2023-10-09, 12:25:05](https://news.ycombinator.com/item?id=37819693) - [Leantime: Open-Source Jira Alternative](https://github.com/Leantime/leantime)
 * [2023-10-09, 12:23:38](https://news.ycombinator.com/item?id=37819683) - [Modeling CRDTs in Alloy – the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 12:16:28](https://news.ycombinator.com/item?id=37819637) - [The Prosecutor's Fallacy (2018)](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 * [2023-10-09, 11:10:19](https://news.ycombinator.com/item?id=37819114) - [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)

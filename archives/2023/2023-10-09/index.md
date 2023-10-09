@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
+* [2023-10-09, 21:30:51](https://news.ycombinator.com/item?id=37825784) - [Study finds the gulf stream is warming and shifting closer to shore](https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/)
 * [2023-10-09, 21:19:51](https://news.ycombinator.com/item?id=37825653) - [Brother Printers Sending Ink Data to Amazon?](https://news.ycombinator.com/item?id=37825653)
 * [2023-10-09, 20:46:49](https://news.ycombinator.com/item?id=37825292) - [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
 * [2023-10-09, 19:55:24](https://news.ycombinator.com/item?id=37824701) - [Alvis](https://xeiaso.net/blog/alvis/)
