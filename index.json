@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-09, 19:55:24",
-      "https://news.ycombinator.com/item?id=37824701"
-    ],
-    [
-      "Alvis",
-      "https://xeiaso.net/blog/alvis/"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 19:44:37",
       "https://news.ycombinator.com/item?id=37824547"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2023-10-09, 18:18:54",
-      "https://news.ycombinator.com/item?id=37823430"
-    ],
-    [
-      "EMPShield investing $1.9B with CHIPS support to build factory in Kansas",
-      "https://www.kansascommerce.gov/2023/02/governor-kelly-announces-emp-shield-plans-to-build-1-9-billion-1200-job-computer-chip-manufacturing-facility-in-coffey-county/"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 18:13:20",
       "https://news.ycombinator.com/item?id=37823377"
     ],
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37822927"
     ],
     [
-      "Linux Ate My RAM (2009)",
+      "Linux ate my RAM (2009)",
       "https://www.linuxatemyram.com/"
     ]
   ],
@@ -127,6 +107,16 @@
     [
       "789 KB Linux Without MMU on RISC-V",
       "https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 14:55:43",
+      "https://news.ycombinator.com/item?id=37821094"
+    ],
+    [
+      "Control-Flow Integrity in V8",
+      "https://v8.dev/blog/control-flow-integrity"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "NixOS and Flakes Book: An unofficial book for beginners (free)",
       "https://nixos-and-flakes.thiscute.world/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 08:58:35",
+      "https://news.ycombinator.com/item?id=37818422"
+    ],
+    [
+      "Ardour 8.0",
+      "https://ardour.org/whatsnew.html#"
     ]
   ],
   [
