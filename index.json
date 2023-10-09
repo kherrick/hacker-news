@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-09, 08:30:33",
+      "https://news.ycombinator.com/item?id=37818279"
+    ],
+    [
+      "Streaming service DAZN took almost five years to answer a simple access request",
+      "https://noyb.eu/en/streaming-service-dazn-took-almost-five-years-answer-simple-access-request"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 08:06:31",
+      "https://news.ycombinator.com/item?id=37818132"
+    ],
+    [
+      "Discogs' vibrant vinyl community is shattering",
+      "https://www.theverge.com/23899461/discogs-sellers-vinyl-cds-community-fees"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 05:27:37",
       "https://news.ycombinator.com/item?id=37817152"
     ],
@@ -47,6 +67,16 @@
     [
       "Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs",
       "https://arxiv.org/abs/2310.04406"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 01:29:53",
+      "https://news.ycombinator.com/item?id=37815999"
+    ],
+    [
+      "HTTPie Desktop: cross-platform API testing client for humans",
+      "https://github.com/httpie/desktop"
     ]
   ],
   [
@@ -141,6 +171,16 @@
   ],
   [
     [
+      "2023-10-08, 20:59:55",
+      "https://news.ycombinator.com/item?id=37814355"
+    ],
+    [
+      "Demo-driven development (2021)",
+      "https://www.rubick.com/demo-driven-development/"
+    ]
+  ],
+  [
+    [
       "2023-10-08, 19:59:20",
       "https://news.ycombinator.com/item?id=37813895"
     ],
@@ -151,22 +191,12 @@
   ],
   [
     [
-      "2023-10-08, 17:31:10",
-      "https://news.ycombinator.com/item?id=37812556"
+      "2023-10-08, 19:48:47",
+      "https://news.ycombinator.com/item?id=37813806"
     ],
     [
-      "Mitigations=off considered harmful or spurious SIGILL on AMD Zen4",
-      "https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 17:08:11",
-      "https://news.ycombinator.com/item?id=37812332"
-    ],
-    [
-      "Writing down unfiltered thoughts enhances self-knowledge",
-      "https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head/"
+      "Fine-Tuning Mistral7B on Python Code",
+      "https://wandb.ai/byyoung3/ml-news/reports/Fine-Tuning-Mistral7B-on-Python-Code-With-A-Single-GPU---Vmlldzo1NTg0NzY5"
     ]
   ],
   [
@@ -177,26 +207,6 @@
     [
       "OpenIPC: Alternative open firmware for your IP camera",
       "https://github.com/OpenIPC"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 16:34:46",
-      "https://news.ycombinator.com/item?id=37811953"
-    ],
-    [
-      "Calling Rust from Python",
-      "https://blog.frankel.ch/rust-from-python/"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 16:21:31",
-      "https://news.ycombinator.com/item?id=37811814"
-    ],
-    [
-      "Scaling Knative to 100K+ Webapps",
-      "https://render.com/blog/knative"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "I helped select the Nobel laureates in physics",
       "https://theconversation.com/i-helped-select-the-nobel-laureates-in-physics-heres-how-our-committee-decides-214991"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 23:41:51",
-      "https://news.ycombinator.com/item?id=37785614"
-    ],
-    [
-      "Summary of “The Procrastination Equation”",
-      "https://www.njlifehacks.com/the-procrastination-equation-piers-steel-summary/"
     ]
   ],
   [
