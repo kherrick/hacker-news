@@ -61,6 +61,7 @@
 * [2023-10-08, 10:21:59](https://news.ycombinator.com/item?id=37809276) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-08, 09:43:39](https://news.ycombinator.com/item?id=37809126) - [Pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
+* [2023-10-08, 08:27:09](https://news.ycombinator.com/item?id=37808775) - [What Is a Document? [pdf]](https://monoskop.org/images/4/4e/Buckland_Michael_K_1997_What_is_a_Document.pdf)
 * [2023-10-08, 08:23:25](https://news.ycombinator.com/item?id=37808757) - [Show HN: Track time spent on activities that matter to you](https://www.countthehours.app)
 * [2023-10-08, 07:11:03](https://news.ycombinator.com/item?id=37808485) - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
