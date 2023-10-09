@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-09, 09:26:40",
+      "https://news.ycombinator.com/item?id=37818570"
+    ],
+    [
+      "NixOS and Flakes Book: An unofficial book for beginners (free)",
+      "https://nixos-and-flakes.thiscute.world/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 09:24:18",
       "https://news.ycombinator.com/item?id=37818562"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2023-10-09, 01:20:18",
-      "https://news.ycombinator.com/item?id=37815945"
+      "2023-10-09, 01:29:53",
+      "https://news.ycombinator.com/item?id=37815999"
     ],
     [
-      "Impacts of Lack of Sleep",
-      "https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html"
+      "HTTPie Desktop: cross-platform API testing client for humans",
+      "https://github.com/httpie/desktop"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Why I can no longer recommend a Mac to fellow blind computer users",
       "https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 19:48:47",
-      "https://news.ycombinator.com/item?id=37813806"
-    ],
-    [
-      "Fine-Tuning Mistral7B on Python Code",
-      "https://wandb.ai/byyoung3/ml-news/reports/Fine-Tuning-Mistral7B-on-Python-Code-With-A-Single-GPU---Vmlldzo1NTg0NzY5"
     ]
   ],
   [
