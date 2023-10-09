@@ -62,6 +62,7 @@
 * [2023-10-08, 09:40:28](https://news.ycombinator.com/item?id=37809111) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-08, 08:23:25](https://news.ycombinator.com/item?id=37808757) - [Show HN: Track time spent on activities that matter to you](https://www.countthehours.app)
 * [2023-10-08, 07:11:03](https://news.ycombinator.com/item?id=37808485) - [Amazon's Alexa Telling Users That 2020 Election Was Rigged](https://themessenger.com/news/ai-alert-alexa-tells-users-2020-election-was-rigged-report)
+* [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
 * [2023-10-08, 06:42:35](https://news.ycombinator.com/item?id=37808366) - [Fury: 170x faster than JDK, blazing fast serialization by JIT and Zero-copy](https://github.com/alipay/fury)
 * [2023-10-08, 05:43:48](https://news.ycombinator.com/item?id=37808145) - [Questions to ask a teenager to start an important conversation](https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation)
 * [2023-10-08, 05:34:13](https://news.ycombinator.com/item?id=37808115) - [How to Compete with Patreon](https://siderea.dreamwidth.org/1824441.html)
