@@ -6,6 +6,7 @@
 
 * [2023-10-09, 09:24:18](https://news.ycombinator.com/item?id=37818562) - [MondayDB: A new in-house data engine from monday.com](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660)
 * [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0 released](https://ardour.org/whatsnew.html#)
+* [2023-10-09, 08:52:51](https://news.ycombinator.com/item?id=37818391) - [We migrated to SQL. Our biggest learning? Don't use Prisma](https://codedamn.com/news/product/dont-use-prisma)
 * [2023-10-09, 08:50:34](https://news.ycombinator.com/item?id=37818374) - [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
 * [2023-10-09, 08:30:33](https://news.ycombinator.com/item?id=37818279) - [Streaming service DAZN took almost five years to answer a simple access request](https://noyb.eu/en/streaming-service-dazn-took-almost-five-years-answer-simple-access-request)
 * [2023-10-09, 08:06:31](https://news.ycombinator.com/item?id=37818132) - [Discogs' vibrant vinyl community is shattering](https://www.theverge.com/23899461/discogs-sellers-vinyl-cds-community-fees)
