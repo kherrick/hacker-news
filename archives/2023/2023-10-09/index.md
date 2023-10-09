@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 10:38:36](https://news.ycombinator.com/item?id=37818937) - [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
+* [2023-10-09, 09:47:36](https://news.ycombinator.com/item?id=37818685) - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 09:24:18](https://news.ycombinator.com/item?id=37818562) - [MondayDB: A new in-house data engine from monday.com](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660)
 * [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0 released](https://ardour.org/whatsnew.html#)

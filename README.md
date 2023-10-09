@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-09, 10:38:36](https://news.ycombinator.com/item?id=37818937) - [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
+* [2023-10-09, 09:47:36](https://news.ycombinator.com/item?id=37818685) - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 09:24:18](https://news.ycombinator.com/item?id=37818562) - [MondayDB: A new in-house data engine from monday.com](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660)
 * [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0](https://ardour.org/whatsnew.html#)
@@ -11,7 +13,6 @@
 * [2023-10-09, 03:42:45](https://news.ycombinator.com/item?id=37816721) - [Flexoki, an inky color scheme for prose and code](https://stephango.com/flexoki)
 * [2023-10-09, 03:34:31](https://news.ycombinator.com/item?id=37816670) - [Lenovo exec promises 80% of its devices will be consumer-repairable by 2025](https://www.theverge.com/2023/10/6/23884108/lenovo-consumer-repair-pcs-serviceability-framework)
 * [2023-10-09, 03:24:13](https://news.ycombinator.com/item?id=37816614) - [Language Agent Tree Search Unifies Reasoning Acting and Planning in LMs](https://arxiv.org/abs/2310.04406)
-* [2023-10-09, 01:29:53](https://news.ycombinator.com/item?id=37815999) - [HTTPie Desktop: cross-platform API testing client for humans](https://github.com/httpie/desktop)
 * [2023-10-09, 00:54:29](https://news.ycombinator.com/item?id=37815793) - [Review of the .nz DNSSEC Chain Validation Incident on 29-30 May 2023 [pdf]](https://internetnz.nz/assets/Archives/External-report-on-nz-DNSSEC-chain-validation-incident-on-May-2023.pdf)
 * [2023-10-09, 00:30:03](https://news.ycombinator.com/item?id=37815674) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-09, 00:07:12](https://news.ycombinator.com/item?id=37815566) - [Self-Hosting (Almost) All the Way Down [video]](https://archive.fosdem.org/2023/schedule/event/rv_selfhosting_all_the_way_down/)
@@ -20,7 +21,6 @@
 * [2023-10-08, 21:46:38](https://news.ycombinator.com/item?id=37814701) - [Speeding up the JavaScript ecosystem – The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 * [2023-10-08, 21:42:11](https://news.ycombinator.com/item?id=37814667) - [Metals Fuse Together in Space](https://www.spacecentre.nz/resources/facts/physics/metals-fuse.html)
 * [2023-10-08, 21:41:37](https://news.ycombinator.com/item?id=37814662) - [The Algorithm for Precision Medicine, talk by Matthew Might [video]](https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s)
-* [2023-10-08, 19:59:20](https://news.ycombinator.com/item?id=37813895) - [Why I can no longer recommend a Mac to fellow blind computer users](https://www.applevis.com/blog/we-deserve-better-apple-why-i-can-no-longer-recommend-mac-fellow-blind-computer-users)
 * [2023-10-08, 16:57:02](https://news.ycombinator.com/item?id=37812217) - [OpenIPC: Alternative open firmware for your IP camera](https://github.com/OpenIPC)
 * [2023-10-08, 13:10:36](https://news.ycombinator.com/item?id=37810144) - [Flappy Dird: Flappy Bird Implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-08, 07:08:15](https://news.ycombinator.com/item?id=37808475) - [How Games Used to Look: Why Retro Gaming on a CRT Looks Different [video]](https://www.youtube.com/watch?v=puksg4iD3RY)
