@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 17:20:54](https://news.ycombinator.com/item?id=37822774) - [Medieval staircases were NOT built going clockwise for the defender's advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
 * [2023-10-09, 16:26:45](https://news.ycombinator.com/item?id=37822054) - [Argentina's Senate Approves Bill to Eliminate Income Tax](https://www.bloomberglinea.com/english/argentinas-senate-approves-bill-to-eliminate-income-tax/)
 * [2023-10-09, 16:25:23](https://news.ycombinator.com/item?id=37822034) - [Show HN: Baa the LLM client https://baarilliant.ai](https://reflect.site/g/baarilliant/baa-features-and-roadmap/41a6fcf7f9784ef2aae560fd89260613)
 * [2023-10-09, 16:17:28](https://news.ycombinator.com/item?id=37821943) - [Autopay Is Making Us Worse at Managing Credit-Card Bills](https://www.wsj.com/personal-finance/autopay-money-management-credit-cards-c546b62c)
@@ -14,6 +15,7 @@
 * [2023-10-09, 14:55:43](https://news.ycombinator.com/item?id=37821094) - [Control-Flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:34:27](https://news.ycombinator.com/item?id=37820858) - [Lawmakers shift gears on TikTok ban](https://www.politico.com/news/2023/10/09/what-happened-to-the-tiktok-ban-00120434)
+* [2023-10-09, 14:21:54](https://news.ycombinator.com/item?id=37820724) - [Payload 2.0: Postgres, Live Preview, Lexical RTE, and More](https://payloadcms.com/blog/payload-2-0)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
 * [2023-10-09, 14:00:40](https://news.ycombinator.com/item?id=37820532) - [Text Showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 13:26:22](https://news.ycombinator.com/item?id=37820250) - [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
