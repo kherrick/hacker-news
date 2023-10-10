@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 08:00:04](https://news.ycombinator.com/item?id=37829575) - [The Rent Is Too Damn Algorithmic](https://washingtoncitypaper.com/article/631461/the-rent-is-too-damn-algorithmic/)
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 07:25:48](https://news.ycombinator.com/item?id=37829395) - [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
 * [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
