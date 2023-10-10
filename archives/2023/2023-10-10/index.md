@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
 * [2023-10-10, 09:09:23](https://news.ycombinator.com/item?id=37829946) - [Do you make over 20k a month?](https://old.reddit.com/r/Entrepreneur/comments/173b8jh/do_you_make_over_20k_a_month/)
+* [2023-10-10, 09:06:45](https://news.ycombinator.com/item?id=37829926) - [350,757 coin flips show coins tend to land the same-side up they started](https://arxiv.org/abs/2310.04153)
 * [2023-10-10, 08:42:30](https://news.ycombinator.com/item?id=37829787) - [Ask HN: How do you tell if something has a keylogger implemented](https://news.ycombinator.com/item?id=37829787)
 * [2023-10-10, 08:00:04](https://news.ycombinator.com/item?id=37829575) - [The Rent Is Too Damn Algorithmic](https://washingtoncitypaper.com/article/631461/the-rent-is-too-damn-algorithmic/)
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)

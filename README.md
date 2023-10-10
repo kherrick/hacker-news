@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-10, 09:09:23](https://news.ycombinator.com/item?id=37829946) - [Do you make over 20k a month?](https://old.reddit.com/r/Entrepreneur/comments/173b8jh/do_you_make_over_20k_a_month/)
+* [2023-10-10, 09:06:45](https://news.ycombinator.com/item?id=37829926) - [350,757 coin flips show coins tend to land the same-side up they started](https://arxiv.org/abs/2310.04153)
 * [2023-10-10, 08:42:30](https://news.ycombinator.com/item?id=37829787) - [Ask HN: How do you tell if something has a keylogger implemented](https://news.ycombinator.com/item?id=37829787)
 * [2023-10-10, 08:00:04](https://news.ycombinator.com/item?id=37829575) - [The Rent Is Too Damn Algorithmic](https://washingtoncitypaper.com/article/631461/the-rent-is-too-damn-algorithmic/)
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
@@ -9,7 +10,6 @@
 * [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-10, 03:46:52](https://news.ycombinator.com/item?id=37828322) - [Chuck Feeney has died](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
 * [2023-10-10, 02:43:27](https://news.ycombinator.com/item?id=37827995) - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
-* [2023-10-10, 01:57:32](https://news.ycombinator.com/item?id=37827758) - [Google wins reprieve from $32M verdict in Sonos patent fight](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
 * [2023-10-09, 23:39:30](https://news.ycombinator.com/item?id=37826842) - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:29:47](https://news.ycombinator.com/item?id=37826256) - [How to Make a Cantenna (2013)](https://jacobsalmela.com/2013/09/07/wi-fi-cantenna-2-4ghz-how-to-make-a-long-range-wi-fi-antenna/)
