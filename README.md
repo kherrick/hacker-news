@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-10, 18:38:21](https://news.ycombinator.com/item?id=37835765) - [One of Last Survivors of Oklahoma Race Massacre Dies at 102](https://www.usnews.com/news/top-news/articles/2023-10-10/one-of-last-survivors-of-oklahoma-race-massacre-dies-at-102)
-* [2023-10-10, 17:59:20](https://news.ycombinator.com/item?id=37835297) - [Honda debuts its first-ever electric autonomous zero-turn riding lawn mower](https://electrek.co/2023/10/09/honda-first-ever-electric-autonomous-zero-turn-riding-lawn-mower/)
+* [2023-10-10, 18:22:39](https://news.ycombinator.com/item?id=37835584) - [AI girlfriend encouraged man to attempt crossbow assassination of Queen](https://www.theregister.com/2023/10/06/ai_chatbot_kill_queen/)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [First of its kind material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 * [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US sues eBay for allowing sale of emissions defeat devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
 * [2023-10-10, 17:28:26](https://news.ycombinator.com/item?id=37834927) - [Lit 3 Release Announcement](https://lit.dev/blog/2023-10-10-lit-3.0/)
@@ -17,9 +16,9 @@
 * [2023-10-10, 14:17:14](https://news.ycombinator.com/item?id=37832432) - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The Next Generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
 * [2023-10-10, 14:01:04](https://news.ycombinator.com/item?id=37832216) - [Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling](https://www.polarsignals.com/)
-* [2023-10-10, 13:59:09](https://news.ycombinator.com/item?id=37832189) - [Google Kubernetes Engine incident spanning 9 days](https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
 * [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
+* [2023-10-10, 12:37:17](https://news.ycombinator.com/item?id=37831263) - [Valve says Counter-Strike 2 for macOS not happening, there aren't enough players](https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/)
 * [2023-10-10, 12:10:44](https://news.ycombinator.com/item?id=37831062) - [The largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
 * [2023-10-10, 12:00:49](https://news.ycombinator.com/item?id=37830987) - [The novel HTTP/2 'Rapid Reset' DDoS attack](https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack)
 * [2023-10-10, 12:00:18](https://news.ycombinator.com/item?id=37830980) - [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
@@ -28,6 +27,7 @@
 * [2023-10-10, 06:20:58](https://news.ycombinator.com/item?id=37829061) - [A real-time 3D digital map of Tokyo's public transport system](https://minitokyo3d.com)
 * [2023-10-10, 05:49:57](https://news.ycombinator.com/item?id=37828920) - [Plato and the Nerd](https://direct.mit.edu/books/oa-monograph/3527/Plato-and-the-NerdThe-Creative-Partnership-of)
 * [2023-10-10, 02:43:27](https://news.ycombinator.com/item?id=37827995) - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
+* [2023-10-09, 22:42:12](https://news.ycombinator.com/item?id=37826362) - [A history of Ireland in 100 goodbyes](https://www.irishtimes.com/opinion/an-irish-diary/2023/09/29/a-history-of-ireland-in-100-goodbyes/)
 * [2023-10-09, 17:32:37](https://news.ycombinator.com/item?id=37822937) - [Becoming James Bond](https://literaryreview.co.uk/becoming-james-bond)
 * [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney Packed Big Emotion into a Little Robot](https://spectrum.ieee.org/disney-robot)
 
