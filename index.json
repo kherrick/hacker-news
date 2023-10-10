@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-10-10, 17:28:26",
-      "https://news.ycombinator.com/item?id=37834925"
-    ],
-    [
-      "A universal EDR bypass built in Windows 10",
-      "https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 16:54:51",
       "https://news.ycombinator.com/item?id=37834549"
     ],
@@ -157,6 +147,16 @@
     [
       "Passkeys are now enabled by default for Google users",
       "https://blog.google/technology/safety-security/passkeys-default-google-accounts/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 14:17:14",
+      "https://news.ycombinator.com/item?id=37832432"
+    ],
+    [
+      "Building a collaborative pixel art editor with CRDTs",
+      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
     ]
   ],
   [
