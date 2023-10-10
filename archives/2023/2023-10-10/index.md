@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 15:40:19](https://news.ycombinator.com/item?id=37833532) - [FTC: BetterHelp pushed people into handing over health information](https://www.ftc.gov/business-guidance/blog/2023/03/ftc-says-online-counseling-service-betterhelp-pushed-people-handing-over-health-information-broke)
 * [2023-10-10, 15:34:47](https://news.ycombinator.com/item?id=37833454) - [Intermediate Graphics Library, a cross-platform GPU abstraction library by Meta](https://github.com/facebook/igl)
 * [2023-10-10, 15:05:27](https://news.ycombinator.com/item?id=37833011) - [When Does Federal Debt Reach Unsustainable Levels?](https://budgetmodel.wharton.upenn.edu/issues/2023/10/6/when-does-federal-debt-reach-unsustainable-levels)
 * [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
