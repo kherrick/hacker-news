@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
+* [2023-10-10, 14:30:26](https://news.ycombinator.com/item?id=37832585) - [Google announces passwordless by default: Make the switch to passkeys](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
 * [2023-10-10, 14:17:14](https://news.ycombinator.com/item?id=37832432) - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 13:59:09](https://news.ycombinator.com/item?id=37832189) - [Google Kubernetes Engine incident spanning 9 days](https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB)
+* [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
 * [2023-10-10, 13:25:47](https://news.ycombinator.com/item?id=37831780) - [GitHub Copilot Loses an Average of $20 per User per Month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
 * [2023-10-10, 13:01:25](https://news.ycombinator.com/item?id=37831506) - [Movie Piracy Is Strongly Linked to Box Office Revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
 * [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)

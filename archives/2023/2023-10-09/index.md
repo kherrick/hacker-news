@@ -22,6 +22,7 @@
 * [2023-10-09, 19:44:37](https://news.ycombinator.com/item?id=37824547) - [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
 * [2023-10-09, 19:38:24](https://news.ycombinator.com/item?id=37824458) - [The Handbook of Rationality – MIT Press](https://direct.mit.edu/books/oa-edited-volume/5525/The-Handbook-of-Rationality)
 * [2023-10-09, 19:10:53](https://news.ycombinator.com/item?id=37824060) - [Alvis: Never Get Paged Again](https://xeiaso.net/landing/alvis/)
+* [2023-10-09, 19:06:02](https://news.ycombinator.com/item?id=37824000) - [Bless this mess: Curated versus confessional clutter](https://dirt.fyi/article/2023/10/bless-this-mess)
 * [2023-10-09, 18:48:57](https://news.ycombinator.com/item?id=37823805) - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:39:12](https://news.ycombinator.com/item?id=37823680) - [How the Ear Works: Nature's solutions for listening (1997)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/)
 * [2023-10-09, 18:36:19](https://news.ycombinator.com/item?id=37823642) - [Project Pele](https://www.cto.mil/pele_eis/)
