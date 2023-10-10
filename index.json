@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37836977"
     ],
     [
-      "Show HN: I learned to code and built a crypto analytics platform all by myself",
+      "Show HN: I learned to code and built a crypto analytics platform",
       "https://www.tradingdigits.io/"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37836668"
     ],
     [
-      "Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs",
+      "Thought Propagation: An analogical approach to complex reasoning with LLMs",
       "https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37833278"
     ],
     [
-      "Scheme in the Browser: A Hoot of a Tale",
+      "Scheme in the browser: A Hoot of a tale",
       "https://spritely.institute/news/scheme-wireworld-in-browser.html"
     ]
   ],
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-10-10, 14:31:28",
-      "https://news.ycombinator.com/item?id=37832599"
-    ],
-    [
-      "HyperAttention: Long-Context Attention in Near-Linear Time[pdf]",
-      "https://arxiv.org/abs/2310.05869"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 14:30:26",
       "https://news.ycombinator.com/item?id=37832585"
     ],
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2023-10-10, 14:18:31",
-      "https://news.ycombinator.com/item?id=37832457"
+      "2023-10-10, 14:17:14",
+      "https://news.ycombinator.com/item?id=37832432"
     ],
     [
-      "ElevenLabs Launches Voice Translation Tool to Break Down Language Barriers",
-      "https://elevenlabs.io/blog/elevenlabs-launches-voice-translation-tool-to-break-down-language-barriers-for-content/"
+      "Building a collaborative pixel art editor with CRDTs",
+      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
     ]
   ],
   [
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37830980"
     ],
     [
-      "A student asked how I keep us innovative. I don't",
+      "A student asked how I keep us innovative – I don't",
       "https://ntietz.com/blog/forefront-of-innovation/"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "Why do patients leave against medical advice?",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7909809/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 07:55:58",
+      "https://news.ycombinator.com/item?id=37829551"
+    ],
+    [
+      "Simulation Islands",
+      "https://box2d.org/posts/2023/10/simulation-islands/"
     ]
   ],
   [
