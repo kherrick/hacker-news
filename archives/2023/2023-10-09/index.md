@@ -76,6 +76,7 @@
 * [2023-10-09, 09:47:36](https://news.ycombinator.com/item?id=37818685) - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
 * [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
 * [2023-10-09, 09:38:58](https://news.ycombinator.com/item?id=37818649) - [The Magic Prioritization Trick](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
+* [2023-10-09, 09:38:19](https://news.ycombinator.com/item?id=37818643) - [CRT Shaders](https://emulation.gametechwiki.com/index.php/CRT_shaders)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 09:24:18](https://news.ycombinator.com/item?id=37818562) - [MondayDB: A new in-house data engine from monday.com](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660)
 * [2023-10-09, 09:21:52](https://news.ycombinator.com/item?id=37818546) - [How to assert for fun and profit (2022)](https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html)
