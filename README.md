@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-10, 23:17:03](https://news.ycombinator.com/item?id=37839000) - [SQLite needs testers for the new binary JSON format](https://sqlite.org/forum/forumpost/8687d4ad36)
+* [2023-10-10, 23:13:12](https://news.ycombinator.com/item?id=37838964) - [Californians now able to one-click purge all of their data from all data brokers](https://www.tomkemp.ai/blog/2023/10/10/analysis-of-the-california-delete-act-sb-362-signed-into-law)
 * [2023-10-10, 23:09:43](https://news.ycombinator.com/item?id=37838943) - [Polymathic AI](https://polymathic-ai.org/blog/announcement/)
 * [2023-10-10, 21:15:40](https://news.ycombinator.com/item?id=37837620) - [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
 * [2023-10-10, 20:29:15](https://news.ycombinator.com/item?id=37837043) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
@@ -13,9 +15,7 @@
 * [2023-10-10, 16:45:47](https://news.ycombinator.com/item?id=37834437) - [Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API](https://github.com/kohlschutter/jdk.compiler.standalone)
 * [2023-10-10, 15:23:57](https://news.ycombinator.com/item?id=37833278) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
-* [2023-10-10, 14:31:28](https://news.ycombinator.com/item?id=37832599) - [HyperAttention: Long-Context Attention in Near-Linear Time](https://arxiv.org/abs/2310.05869)
 * [2023-10-10, 14:30:26](https://news.ycombinator.com/item?id=37832585) - [Passkeys are now enabled by default for Google users](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
-* [2023-10-10, 14:17:14](https://news.ycombinator.com/item?id=37832432) - [Building a collaborative pixel art editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The next generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
 * [2023-10-10, 14:01:04](https://news.ycombinator.com/item?id=37832216) - [Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling](https://www.polarsignals.com/)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)

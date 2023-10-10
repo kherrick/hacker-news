@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 23:17:03](https://news.ycombinator.com/item?id=37839000) - [SQLite needs testers for the new binary JSON format](https://sqlite.org/forum/forumpost/8687d4ad36)
+* [2023-10-10, 23:13:12](https://news.ycombinator.com/item?id=37838964) - [Californians now able to one-click purge all of their data from all data brokers](https://www.tomkemp.ai/blog/2023/10/10/analysis-of-the-california-delete-act-sb-362-signed-into-law)
 * [2023-10-10, 23:09:43](https://news.ycombinator.com/item?id=37838943) - [Polymathic AI](https://polymathic-ai.org/blog/announcement/)
 * [2023-10-10, 22:26:50](https://news.ycombinator.com/item?id=37838521) - [California becomes first US state to ban 4 potentially harmful chemicals in food](https://www.cnn.com/2023/10/09/health/california-governor-bans-red-dye-no-3-wellness/index.html)
 * [2023-10-10, 21:53:09](https://news.ycombinator.com/item?id=37838120) - [Toyota CEO: \"Our ammonia engine is the end of EV's\" [video]](https://www.youtube.com/watch?v=Pcm4fCDQ4dY)
