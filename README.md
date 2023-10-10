@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
+* [2023-10-10, 18:52:47](https://news.ycombinator.com/item?id=37835954) - [Five Eyes Campaign Against Encryption Threatens Democracy](https://techpolicy.press/five-eyes-campaign-against-encryption-threatens-democracy/)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 * [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US sues eBay for allowing sale of emissions defeat devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
 * [2023-10-10, 17:28:26](https://news.ycombinator.com/item?id=37834925) - [A universal EDR bypass built in Windows 10](https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/)
-* [2023-10-10, 17:26:37](https://news.ycombinator.com/item?id=37834908) - [Ask HN: SaaS Founders, What 3 advice would you give your younger selves?](https://news.ycombinator.com/item?id=37834908)
 * [2023-10-10, 17:15:11](https://news.ycombinator.com/item?id=37834761) - [Official CLI Tool for the Internet Archive](https://archive.org/developers/internetarchive/cli.html)
 * [2023-10-10, 16:45:47](https://news.ycombinator.com/item?id=37834437) - [Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API](https://github.com/kohlschutter/jdk.compiler.standalone)
 * [2023-10-10, 15:23:57](https://news.ycombinator.com/item?id=37833278) - [Scheme in the Browser: A Hoot of a Tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
