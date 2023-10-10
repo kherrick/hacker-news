@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-10, 02:43:27",
+      "https://news.ycombinator.com/item?id=37827995"
+    ],
+    [
+      "Firefox tooltip bug fixed after 22 years",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=148624"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 02:18:24",
       "https://news.ycombinator.com/item?id=37827868"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2023-10-09, 23:31:33",
-      "https://news.ycombinator.com/item?id=37826775"
-    ],
-    [
-      "Stop EU Chat Control",
-      "https://stopchatcontrol.eu/"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 22:41:34",
       "https://news.ycombinator.com/item?id=37826357"
     ],
     [
       "DSLinux – Linux for the Nintendo DS",
       "https://www.dslinux.org/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 22:08:31",
-      "https://news.ycombinator.com/item?id=37826082"
-    ],
-    [
-      "The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()",
-      "https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/"
     ]
   ],
   [
@@ -87,6 +77,26 @@
     [
       "RAG at scale: Synchronizing and ingesting billions of text embeddings",
       "https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 18:39:12",
+      "https://news.ycombinator.com/item?id=37823680"
+    ],
+    [
+      "How the Ear Works: Nature's solutions for listening (1997)",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 18:36:19",
+      "https://news.ycombinator.com/item?id=37823642"
+    ],
+    [
+      "Project Pele",
+      "https://www.cto.mil/pele_eis/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What is a \"document\"? (1997) [pdf]",
       "https://monoskop.org/images/4/4e/Buckland_Michael_K_1997_What_is_a_Document.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 06:10:42",
-      "https://news.ycombinator.com/item?id=37808230"
-    ],
-    [
-      "The anatomy of a smart bulb",
-      "https://cheriches.com/smart-home/2023-10-07-the-anatomy-of-a-smart-bulb.html"
     ]
   ]
 ]
