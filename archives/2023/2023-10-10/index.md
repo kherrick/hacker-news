@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US Sues eBay for Allowing Sale of More Than 300k Emissions Defeat Devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
 * [2023-10-10, 17:13:03](https://news.ycombinator.com/item?id=37834731) - [Google is making their weak, flawed passkey system the default login method](https://lauren.vortex.com/2023/10/10/dont-use-google-passkeys-now)
 * [2023-10-10, 16:40:04](https://news.ycombinator.com/item?id=37834372) - [Ireland Won the Global Tax Game, and Is Swimming in Money](https://www.wsj.com/economy/global/this-country-won-the-global-tax-game-and-is-swimming-in-money-57c3c70)
 * [2023-10-10, 16:29:36](https://news.ycombinator.com/item?id=37834261) - [Finnish president says undersea pipeline, cables damaged by 'external activity'](https://apnews.com/article/finland-estonia-pipeline-24d6623cf2778464fdb4ef1d85c70d91)
@@ -16,6 +17,7 @@
 * [2023-10-10, 14:18:31](https://news.ycombinator.com/item?id=37832457) - [ElevenLabs Launches Voice Translation Tool to Break Down Language Barriers](https://elevenlabs.io/blog/elevenlabs-launches-voice-translation-tool-to-break-down-language-barriers-for-content/)
 * [2023-10-10, 14:17:14](https://news.ycombinator.com/item?id=37832432) - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The Next Generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
+* [2023-10-10, 14:01:04](https://news.ycombinator.com/item?id=37832216) - [Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling](https://www.polarsignals.com/)
 * [2023-10-10, 13:59:09](https://news.ycombinator.com/item?id=37832189) - [Google Kubernetes Engine incident spanning 9 days](https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
 * [2023-10-10, 13:25:47](https://news.ycombinator.com/item?id=37831780) - [GitHub Copilot Loses an Average of $20 per User per Month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
