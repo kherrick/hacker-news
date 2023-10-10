@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-10, 20:29:15",
+      "https://news.ycombinator.com/item?id=37837043"
+    ],
+    [
+      "HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)",
+      "https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 20:23:58",
+      "https://news.ycombinator.com/item?id=37836977"
+    ],
+    [
+      "Show HN: I learned to code and built a crypto analytics platform all by myself",
+      "https://www.tradingdigits.io/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 20:15:46",
       "https://news.ycombinator.com/item?id=37836889"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-10, 14:17:14",
-      "https://news.ycombinator.com/item?id=37832432"
-    ],
-    [
-      "Building a collaborative pixel art editor with CRDTs",
-      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 14:08:48",
       "https://news.ycombinator.com/item?id=37832319"
     ],
@@ -197,16 +207,6 @@
     [
       "Before psychedelic therapy for wartime trauma, there was narcosynthesis",
       "https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 12:37:17",
-      "https://news.ycombinator.com/item?id=37831263"
-    ],
-    [
-      "Valve says Counter-Strike 2 for macOS not happening, there aren't enough players",
-      "https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-10-10, 07:25:48",
-      "https://news.ycombinator.com/item?id=37829395"
+      "2023-10-10, 05:48:08",
+      "https://news.ycombinator.com/item?id=37828910"
     ],
     [
-      "How Netflix uses Java",
-      "https://www.infoq.com/news/2023/10/java-at-netflix-bakker/"
+      "Weekdays with Pope Gregory",
+      "https://leancrew.com/all-this/2023/10/weekdays-with-pope-gregory/"
     ]
   ],
   [
