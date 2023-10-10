@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-09, 23:54:02](https://news.ycombinator.com/item?id=37826944) - [Bitten by the black box of iCloud](https://sixcolors.com/post/2023/10/bitten-by-the-black-box-of-icloud/)
-* [2023-10-09, 23:53:09](https://news.ycombinator.com/item?id=37826936) - [No Revenge for Nerds? Evaluating the Careers of Ivy League Athletes](https://www.nber.org/papers/w31753)
 * [2023-10-09, 23:39:30](https://news.ycombinator.com/item?id=37826842) - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
+* [2023-10-09, 23:31:33](https://news.ycombinator.com/item?id=37826775) - [Stop EU Chat Control](https://stopchatcontrol.eu/)
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
 * [2023-10-09, 20:46:49](https://news.ycombinator.com/item?id=37825292) - [John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
@@ -17,6 +16,7 @@
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
 * [2023-10-09, 14:00:40](https://news.ycombinator.com/item?id=37820532) - [Text showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
+* [2023-10-09, 12:23:38](https://news.ycombinator.com/item?id=37819683) - [Modeling CRDTs in Alloy – the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 12:16:28](https://news.ycombinator.com/item?id=37819637) - [The Prosecutor's Fallacy (2018)](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 * [2023-10-09, 11:28:24](https://news.ycombinator.com/item?id=37819234) - [Show HN: Explore doctors' disciplinary history](https://www.physician.fyi/)
 * [2023-10-09, 11:10:19](https://news.ycombinator.com/item?id=37819114) - [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
