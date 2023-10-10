@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-10, 12:10:44",
+      "https://news.ycombinator.com/item?id=37831062"
+    ],
+    [
+      "Google mitigated the largest DDoS attack to date, peaking above 398M rps",
+      "https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 12:03:29",
+      "https://news.ycombinator.com/item?id=37831004"
+    ],
+    [
+      "HTTP/2 Rapid Reset: deconstructing the record-breaking attack",
+      "https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 12:02:53",
+      "https://news.ycombinator.com/item?id=37830998"
+    ],
+    [
+      "HTTP/2 Zero-Day Vulnerability Results in Record-Breaking DDoS Attacks",
+      "https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 11:02:58",
       "https://news.ycombinator.com/item?id=37830599"
     ],
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37829926"
     ],
     [
-      "350,757 coin flips show coins tend to land the same-side up they started",
+      "Fair coins tend to land on the same side they started",
       "https://arxiv.org/abs/2310.04153"
     ]
   ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2023-10-09, 19:44:37",
-      "https://news.ycombinator.com/item?id=37824547"
-    ],
-    [
-      "RAG at scale: Synchronizing and ingesting billions of text embeddings",
-      "https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 18:39:12",
       "https://news.ycombinator.com/item?id=37823680"
     ],
     [
       "How the Ear Works: Nature's solutions for listening (1997)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 14:36:23",
-      "https://news.ycombinator.com/item?id=37820877"
-    ],
-    [
-      "The pivot table, the spreadsheet's most powerful tool (2020)",
-      "https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 14:00:40",
-      "https://news.ycombinator.com/item?id=37820532"
-    ],
-    [
-      "Text showdown: Gap Buffers vs. Ropes",
-      "https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/"
     ]
   ],
   [
