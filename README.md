@@ -22,7 +22,7 @@
 * [2023-10-09, 11:10:19](https://news.ycombinator.com/item?id=37819114) - [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Address Oddities (2018)](https://paulplowman.com/stuff/uk-address-oddities/)
 * [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible (2019)](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
-* [2023-10-09, 08:23:08](https://news.ycombinator.com/item?id=37818244) - [Fine-grained language composition](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html)
+* [2023-10-09, 09:21:52](https://news.ycombinator.com/item?id=37818546) - [How to assert for fun and profit (2022)](https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html)
 * [2023-10-09, 05:41:46](https://news.ycombinator.com/item?id=37817220) - [The Soviet spacecraft cemetery in the Pacific](https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific)
 * [2023-10-08, 22:08:28](https://news.ycombinator.com/item?id=37814830) - [Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]](https://eprint.iacr.org/2022/1303.pdf)
 * [2023-10-08, 17:04:56](https://news.ycombinator.com/item?id=37812295) - [The three modern formats for email forwarded by people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats)

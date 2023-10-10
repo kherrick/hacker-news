@@ -77,6 +77,7 @@
 * [2023-10-09, 09:38:58](https://news.ycombinator.com/item?id=37818649) - [The Magic Prioritization Trick](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
 * [2023-10-09, 09:26:40](https://news.ycombinator.com/item?id=37818570) - [NixOS and Flakes Book: An unofficial book for beginners (free)](https://nixos-and-flakes.thiscute.world/)
 * [2023-10-09, 09:24:18](https://news.ycombinator.com/item?id=37818562) - [MondayDB: A new in-house data engine from monday.com](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660)
+* [2023-10-09, 09:21:52](https://news.ycombinator.com/item?id=37818546) - [How to assert for fun and profit (2022)](https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html)
 * [2023-10-09, 08:58:35](https://news.ycombinator.com/item?id=37818422) - [Ardour 8.0 released](https://ardour.org/whatsnew.html#)
 * [2023-10-09, 08:52:51](https://news.ycombinator.com/item?id=37818391) - [We migrated to SQL. Our biggest learning? Don't use Prisma](https://codedamn.com/news/product/dont-use-prisma)
 * [2023-10-09, 08:50:34](https://news.ycombinator.com/item?id=37818374) - [Show HN: I made a all-in-one web app to help me with my freelance admin tasks](https://momo.coach/index.html)
