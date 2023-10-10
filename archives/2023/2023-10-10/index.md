@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 13:01:25](https://news.ycombinator.com/item?id=37831506) - [Movie Piracy Is Strongly Linked to Box Office Revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
+* [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
+* [2023-10-10, 12:37:17](https://news.ycombinator.com/item?id=37831263) - [Valve Says Counter-Strike 2 for macOS Not Happening, There Aren't Enough Players](https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/)
+* [2023-10-10, 12:26:21](https://news.ycombinator.com/item?id=37831175) - [Ask HN: Best tools for self-authoring books in 2023?](https://news.ycombinator.com/item?id=37831175)
 * [2023-10-10, 12:10:44](https://news.ycombinator.com/item?id=37831062) - [Google mitigated the largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
 * [2023-10-10, 12:03:29](https://news.ycombinator.com/item?id=37831004) - [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
 * [2023-10-10, 12:02:53](https://news.ycombinator.com/item?id=37830998) - [HTTP/2 Zero-Day Vulnerability Results in Record-Breaking DDoS Attacks](https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/)
+* [2023-10-10, 12:00:49](https://news.ycombinator.com/item?id=37830987) - [The novel HTTP/2 'Rapid Reset' DDoS attack](https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack)
 * [2023-10-10, 11:39:56](https://news.ycombinator.com/item?id=37830869) - [Finnish Government to Make Announcement on Gas Pipeline Leak in Gulf of Finland](https://yle.fi/a/74-20054419)
 * [2023-10-10, 11:02:58](https://news.ycombinator.com/item?id=37830599) - [Lego MRI Scanners donated to hospitals to help children cope with anxiety (2022)](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
 * [2023-10-10, 10:51:13](https://news.ycombinator.com/item?id=37830513) - [In First, Archaeologists Extract DNA of Ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)
