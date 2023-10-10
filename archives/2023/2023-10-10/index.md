@@ -11,6 +11,7 @@
 * [2023-10-10, 12:45:35](https://news.ycombinator.com/item?id=37831351) - [Show HN: Building an app to l earn languages with short stories](https://purplehoisin.com/building-an-app-to-learn-languages-with-short-stories/)
 * [2023-10-10, 12:37:17](https://news.ycombinator.com/item?id=37831263) - [Valve Says Counter-Strike 2 for macOS Not Happening, There Aren't Enough Players](https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/)
 * [2023-10-10, 12:26:21](https://news.ycombinator.com/item?id=37831175) - [Ask HN: Best tools for self-authoring books in 2023?](https://news.ycombinator.com/item?id=37831175)
+* [2023-10-10, 12:17:59](https://news.ycombinator.com/item?id=37831118) - [Show HN: Convert the Internet into your own API in seconds using GPT](https://singleapi.co/)
 * [2023-10-10, 12:10:44](https://news.ycombinator.com/item?id=37831062) - [Google mitigated the largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
 * [2023-10-10, 12:03:29](https://news.ycombinator.com/item?id=37831004) - [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
 * [2023-10-10, 12:02:53](https://news.ycombinator.com/item?id=37830998) - [HTTP/2 Zero-Day Vulnerability Results in Record-Breaking DDoS Attacks](https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/)
