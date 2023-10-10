@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 23:09:43](https://news.ycombinator.com/item?id=37838943) - [Polymathic AI](https://polymathic-ai.org/blog/announcement/)
 * [2023-10-10, 22:26:50](https://news.ycombinator.com/item?id=37838521) - [California becomes first US state to ban 4 potentially harmful chemicals in food](https://www.cnn.com/2023/10/09/health/california-governor-bans-red-dye-no-3-wellness/index.html)
 * [2023-10-10, 21:53:09](https://news.ycombinator.com/item?id=37838120) - [Toyota CEO: \"Our ammonia engine is the end of EV's\" [video]](https://www.youtube.com/watch?v=Pcm4fCDQ4dY)
 * [2023-10-10, 20:50:25](https://news.ycombinator.com/item?id=37837278) - [California mandates VC firms to release investments' diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
@@ -49,6 +50,7 @@
 * [2023-10-10, 14:01:04](https://news.ycombinator.com/item?id=37832216) - [Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling](https://www.polarsignals.com/)
 * [2023-10-10, 13:59:09](https://news.ycombinator.com/item?id=37832189) - [Google Kubernetes Engine incident spanning 9 days](https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
+* [2023-10-10, 13:44:22](https://news.ycombinator.com/item?id=37832017) - [John Carmack: Be an Open Source Absolutist](https://twitter.com/ID_AA_Carmack/status/1711737838889242880)
 * [2023-10-10, 13:25:47](https://news.ycombinator.com/item?id=37831780) - [GitHub Copilot Loses an Average of $20 per User per Month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
 * [2023-10-10, 13:01:25](https://news.ycombinator.com/item?id=37831506) - [Movie Piracy Is Strongly Linked to Box Office Revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
 * [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
