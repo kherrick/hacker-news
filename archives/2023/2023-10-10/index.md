@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 13:25:47](https://news.ycombinator.com/item?id=37831780) - [GitHub Copilot Loses an Average of $20 per User per Month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
 * [2023-10-10, 13:01:25](https://news.ycombinator.com/item?id=37831506) - [Movie Piracy Is Strongly Linked to Box Office Revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
 * [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
+* [2023-10-10, 12:45:35](https://news.ycombinator.com/item?id=37831351) - [Show HN: Building an app to l earn languages with short stories](https://purplehoisin.com/building-an-app-to-learn-languages-with-short-stories/)
 * [2023-10-10, 12:37:17](https://news.ycombinator.com/item?id=37831263) - [Valve Says Counter-Strike 2 for macOS Not Happening, There Aren't Enough Players](https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/)
 * [2023-10-10, 12:26:21](https://news.ycombinator.com/item?id=37831175) - [Ask HN: Best tools for self-authoring books in 2023?](https://news.ycombinator.com/item?id=37831175)
 * [2023-10-10, 12:10:44](https://news.ycombinator.com/item?id=37831062) - [Google mitigated the largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
