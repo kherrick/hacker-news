@@ -51,22 +51,22 @@
   ],
   [
     [
-      "2023-10-10, 17:22:43",
-      "https://news.ycombinator.com/item?id=37834861"
-    ],
-    [
-      "Differences from Psycopg2",
-      "https://www.psycopg.org/psycopg3/docs/basic/from_pg2.html"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 17:15:11",
       "https://news.ycombinator.com/item?id=37834761"
     ],
     [
       "Official CLI Tool for the Internet Archive",
       "https://archive.org/developers/internetarchive/cli.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 16:45:47",
+      "https://news.ycombinator.com/item?id=37834437"
+    ],
+    [
+      "Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API",
+      "https://github.com/kohlschutter/jdk.compiler.standalone"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37832319"
     ],
     [
-      "Postgres: The Next Generation",
+      "Postgres: The next generation",
       "https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling",
       "https://www.polarsignals.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 13:59:09",
-      "https://news.ycombinator.com/item?id=37832189"
-    ],
-    [
-      "Google Kubernetes Engine incident spanning 9 days",
-      "https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Show HN: REST Alternative to GraphQL and tRPC",
       "https://openapistack.co/docs/intro/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 09:20:23",
+      "https://news.ycombinator.com/item?id=37830011"
+    ],
+    [
+      "AI hype is built on flawed test scores",
+      "https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/"
     ]
   ],
   [
