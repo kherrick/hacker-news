@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-10, 23:09:43",
+      "https://news.ycombinator.com/item?id=37838943"
+    ],
+    [
+      "Polymathic AI",
+      "https://polymathic-ai.org/blog/announcement/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 22:26:50",
       "https://news.ycombinator.com/item?id=37838521"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2023-10-10, 20:49:45",
-      "https://news.ycombinator.com/item?id=37837275"
-    ],
-    [
-      "Mercedes-Benz eActros 600 e-truck",
-      "https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 20:29:15",
       "https://news.ycombinator.com/item?id=37837043"
     ],
     [
       "HAProxy is not affected by the HTTP/2 Rapid Reset Attack",
       "https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 20:23:58",
-      "https://news.ycombinator.com/item?id=37836977"
-    ],
-    [
-      "Show HN: I learned to code and built a crypto analytics platform",
-      "https://www.tradingdigits.io/"
     ]
   ],
   [
@@ -181,6 +171,26 @@
   ],
   [
     [
+      "2023-10-10, 13:44:22",
+      "https://news.ycombinator.com/item?id=37832017"
+    ],
+    [
+      "John Carmack: Be an Open Source Absolutist",
+      "https://twitter.com/ID_AA_Carmack/status/1711737838889242880"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 12:37:17",
+      "https://news.ycombinator.com/item?id=37831263"
+    ],
+    [
+      "Valve says Counter-Strike 2 for macOS not happening, there aren't enough players",
+      "https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 12:10:44",
       "https://news.ycombinator.com/item?id=37831062"
     ],
@@ -227,16 +237,6 @@
     [
       "AI hype is built on flawed test scores",
       "https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 08:10:11",
-      "https://news.ycombinator.com/item?id=37829626"
-    ],
-    [
-      "Why do patients leave against medical advice?",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7909809/"
     ]
   ],
   [
