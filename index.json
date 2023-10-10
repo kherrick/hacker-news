@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2023-10-10, 14:31:28",
+      "https://news.ycombinator.com/item?id=37832599"
+    ],
+    [
+      "HyperAttention: Long-Context Attention in Near-Linear Time[pdf]",
+      "https://arxiv.org/abs/2310.05869"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 14:18:31",
+      "https://news.ycombinator.com/item?id=37832457"
+    ],
+    [
+      "ElevenLabs Launches Voice Translation Tool to Break Down Language Barriers",
+      "https://elevenlabs.io/blog/elevenlabs-launches-voice-translation-tool-to-break-down-language-barriers-for-content/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 14:17:14",
       "https://news.ycombinator.com/item?id=37832432"
     ],
@@ -97,16 +117,6 @@
     [
       "Google mitigated the largest DDoS attack to date, peaking above 398M rps",
       "https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 12:03:29",
-      "https://news.ycombinator.com/item?id=37831004"
-    ],
-    [
-      "HTTP/2 Rapid Reset: deconstructing the record-breaking attack",
-      "https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Firefox tooltip bug fixed after 22 years",
       "https://bugzilla.mozilla.org/show_bug.cgi?id=148624"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 22:29:47",
-      "https://news.ycombinator.com/item?id=37826256"
-    ],
-    [
-      "How to Make a Cantenna (2013)",
-      "https://jacobsalmela.com/2013/09/07/wi-fi-cantenna-2-4ghz-how-to-make-a-long-range-wi-fi-antenna/"
     ]
   ],
   [
