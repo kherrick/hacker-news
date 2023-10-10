@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
-* [2023-10-10, 18:52:47](https://news.ycombinator.com/item?id=37835954) - [Five Eyes Campaign Against Encryption Threatens Democracy](https://techpolicy.press/five-eyes-campaign-against-encryption-threatens-democracy/)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 * [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US sues eBay for allowing sale of emissions defeat devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
 * [2023-10-10, 17:28:26](https://news.ycombinator.com/item?id=37834925) - [A universal EDR bypass built in Windows 10](https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/)
@@ -27,6 +26,7 @@
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 07:25:48](https://news.ycombinator.com/item?id=37829395) - [How Netflix uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
 * [2023-10-10, 06:20:58](https://news.ycombinator.com/item?id=37829061) - [A real-time 3D digital map of Tokyo's public transport system](https://minitokyo3d.com)
+* [2023-10-10, 05:48:08](https://news.ycombinator.com/item?id=37828910) - [Weekdays with Pope Gregory](https://leancrew.com/all-this/2023/10/weekdays-with-pope-gregory/)
 * [2023-10-09, 22:42:12](https://news.ycombinator.com/item?id=37826362) - [A history of Ireland in 100 goodbyes](https://www.irishtimes.com/opinion/an-irish-diary/2023/09/29/a-history-of-ireland-in-100-goodbyes/)
 * [2023-10-09, 17:32:37](https://news.ycombinator.com/item?id=37822937) - [Becoming James Bond](https://literaryreview.co.uk/becoming-james-bond)
 * [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney packed big emotion into a little robot](https://spectrum.ieee.org/disney-robot)
