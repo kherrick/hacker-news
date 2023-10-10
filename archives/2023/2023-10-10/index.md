@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 20:01:07](https://news.ycombinator.com/item?id=37836733) - [You can buy teeth online](https://www.toothantique.com/)
+* [2023-10-10, 19:49:59](https://news.ycombinator.com/item?id=37836603) - [Apple Patents Suggest Future AirPods Could Monitor Biosignals and Brain Activity](https://applemagazine.com/apple-patents-suggest-future-airpods-could-monitor-biosignals-and-brain-activity/59510)
+* [2023-10-10, 19:22:46](https://news.ycombinator.com/item?id=37836296) - [Is giving people cash working? Six months of Denver's Basic Income Project](https://denverite.com/2023/10/03/denver-basic-income-project-six-month-results/)
 * [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
 * [2023-10-10, 18:52:47](https://news.ycombinator.com/item?id=37835954) - [Five Eyes Campaign Against Encryption Threatens Democracy](https://techpolicy.press/five-eyes-campaign-against-encryption-threatens-democracy/)
 * [2023-10-10, 18:38:21](https://news.ycombinator.com/item?id=37835765) - [One of Last Survivors of Oklahoma Race Massacre Dies at 102](https://www.usnews.com/news/top-news/articles/2023-10-10/one-of-last-survivors-of-oklahoma-race-massacre-dies-at-102)
