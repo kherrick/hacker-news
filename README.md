@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-10, 13:59:09](https://news.ycombinator.com/item?id=37832189) - [Google Kubernetes Engine incident spanning 9 days](https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB)
 * [2023-10-10, 13:25:47](https://news.ycombinator.com/item?id=37831780) - [GitHub Copilot Loses an Average of $20 per User per Month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
 * [2023-10-10, 13:01:25](https://news.ycombinator.com/item?id=37831506) - [Movie piracy is strongly linked to box office revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
 * [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
@@ -29,7 +30,6 @@
 * [2023-10-09, 18:39:12](https://news.ycombinator.com/item?id=37823680) - [How the Ear Works: Nature's solutions for listening (1997)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/)
 * [2023-10-09, 12:01:52](https://news.ycombinator.com/item?id=37819514) - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/)
 * [2023-10-08, 17:00:11](https://news.ycombinator.com/item?id=37812255) - [Extreme parkour with legged robots](https://extreme-parkour.github.io/)
-* [2023-10-08, 15:58:39](https://news.ycombinator.com/item?id=37811623) - [Empires of the Steppes: The Nomadic Tribes Who Shaped Civilisation](https://www.historytoday.com/archive/review/empires-steppes-kenneth-w-harl-review)
 
 ## [Archives](archives/index.md)
 
