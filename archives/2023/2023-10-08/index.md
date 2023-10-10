@@ -42,6 +42,7 @@
 * [2023-10-08, 16:32:14](https://news.ycombinator.com/item?id=37811923) - [Americans born in 2019 will spend 48% to 60% of lives on prescription medication](https://read.dukeupress.edu/demography/article/60/5/1549/382305/Life-Course-Patterns-of-Prescription-Drug-Use-in)
 * [2023-10-08, 16:21:31](https://news.ycombinator.com/item?id=37811814) - [Scaling Knative to 100K+ Webapps](https://render.com/blog/knative)
 * [2023-10-08, 16:13:25](https://news.ycombinator.com/item?id=37811732) - [CA Gov. Newsom vetoes bill that would have decriminalized psychedelic mushrooms](https://abcnews.go.com/US/wireStory/california-gov-gavin-newsom-vetoes-bill-decriminalized-psychedelic-103810533)
+* [2023-10-08, 15:58:39](https://news.ycombinator.com/item?id=37811623) - ['Empires of the Steppes' by Kenneth W. Harl Review](https://www.historytoday.com/archive/review/empires-steppes-kenneth-w-harl-review)
 * [2023-10-08, 15:44:29](https://news.ycombinator.com/item?id=37811481) - [Cats Are Perfect. An Evolutionary Biologist Explains Why](https://www.scientificamerican.com/article/cats-are-perfect-an-evolutionary-biologist-explains-why/)
 * [2023-10-08, 15:20:06](https://news.ycombinator.com/item?id=37811244) - [Open Letter to the Linux World (2014)](https://lkml.org/lkml/2014/8/12/459)
 * [2023-10-08, 13:41:10](https://news.ycombinator.com/item?id=37810366) - [Things I just don't like about Git](https://cohost.org/tef/post/3009746-things-i-just-don-t)

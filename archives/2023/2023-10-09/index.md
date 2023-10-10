@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 23:54:02](https://news.ycombinator.com/item?id=37826944) - [Bitten by the Black Box of iCloud](https://sixcolors.com/post/2023/10/bitten-by-the-black-box-of-icloud/)
+* [2023-10-09, 23:53:09](https://news.ycombinator.com/item?id=37826936) - [No Revenge of the Nerds: student athletes achieved higher incomes than \"nerds\"](https://www.nber.org/papers/w31753)
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:41:02](https://news.ycombinator.com/item?id=37826352) - [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
 * [2023-10-09, 22:37:15](https://news.ycombinator.com/item?id=37826321) - [Replit AI for All](https://blog.replit.com/ai4all)
