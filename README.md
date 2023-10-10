@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-10, 21:53:09](https://news.ycombinator.com/item?id=37838120) - [Toyota CEO: \"Our ammonia engine is the end of EV's\" [video]](https://www.youtube.com/watch?v=Pcm4fCDQ4dY)
+* [2023-10-10, 22:26:50](https://news.ycombinator.com/item?id=37838521) - [California becomes first US state to ban 4 potentially harmful chemicals in food](https://www.cnn.com/2023/10/09/health/california-governor-bans-red-dye-no-3-wellness/index.html)
 * [2023-10-10, 20:49:45](https://news.ycombinator.com/item?id=37837275) - [Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
 * [2023-10-10, 20:29:15](https://news.ycombinator.com/item?id=37837043) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform](https://www.tradingdigits.io/)
@@ -18,6 +18,7 @@
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The next generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
 * [2023-10-10, 14:01:04](https://news.ycombinator.com/item?id=37832216) - [Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling](https://www.polarsignals.com/)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
+* [2023-10-10, 12:37:17](https://news.ycombinator.com/item?id=37831263) - [Valve says Counter-Strike 2 for macOS not happening, there aren't enough players](https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/)
 * [2023-10-10, 12:10:44](https://news.ycombinator.com/item?id=37831062) - [The largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
 * [2023-10-10, 12:00:49](https://news.ycombinator.com/item?id=37830987) - [The novel HTTP/2 'Rapid Reset' DDoS attack](https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack)
 * [2023-10-10, 12:00:18](https://news.ycombinator.com/item?id=37830980) - [A student asked how I keep us innovative – I don't](https://ntietz.com/blog/forefront-of-innovation/)
@@ -25,7 +26,6 @@
 * [2023-10-10, 09:20:23](https://news.ycombinator.com/item?id=37830011) - [AI hype is built on flawed test scores](https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/)
 * [2023-10-10, 08:10:11](https://news.ycombinator.com/item?id=37829626) - [Why do patients leave against medical advice?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7909809/)
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
-* [2023-10-10, 07:25:48](https://news.ycombinator.com/item?id=37829395) - [How Netflix uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
 * [2023-10-10, 05:48:08](https://news.ycombinator.com/item?id=37828910) - [Weekdays with Pope Gregory](https://leancrew.com/all-this/2023/10/weekdays-with-pope-gregory/)
 * [2023-10-09, 22:42:12](https://news.ycombinator.com/item?id=37826362) - [A history of Ireland in 100 goodbyes](https://www.irishtimes.com/opinion/an-irish-diary/2023/09/29/a-history-of-ireland-in-100-goodbyes/)
 * [2023-10-09, 17:32:37](https://news.ycombinator.com/item?id=37822937) - [Becoming James Bond](https://literaryreview.co.uk/becoming-james-bond)
