@@ -6,6 +6,7 @@
 
 * [2023-10-10, 20:15:46](https://news.ycombinator.com/item?id=37836889) - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 * [2023-10-10, 20:01:07](https://news.ycombinator.com/item?id=37836733) - [You can buy teeth online](https://www.toothantique.com/)
+* [2023-10-10, 19:55:29](https://news.ycombinator.com/item?id=37836668) - [Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
 * [2023-10-10, 19:49:59](https://news.ycombinator.com/item?id=37836603) - [Apple Patents Suggest Future AirPods Could Monitor Biosignals and Brain Activity](https://applemagazine.com/apple-patents-suggest-future-airpods-could-monitor-biosignals-and-brain-activity/59510)
 * [2023-10-10, 19:22:46](https://news.ycombinator.com/item?id=37836296) - [Is giving people cash working? Six months of Denver's Basic Income Project](https://denverite.com/2023/10/03/denver-basic-income-project-six-month-results/)
 * [2023-10-10, 19:17:17](https://news.ycombinator.com/item?id=37836237) - [Oil sector is lobbying for inefficient hydrogen cars to delay electrification](https://www.rechargenews.com/energy-transition/liebreich-oil-sector-is-lobbying-for-inefficient-hydrogen-cars-because-it-wants-to-delay-electrification-/2-1-1033226?zephr_sso_ott=XwKh7x)
