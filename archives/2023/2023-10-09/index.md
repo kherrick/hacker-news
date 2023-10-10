@@ -34,6 +34,7 @@
 * [2023-10-09, 17:51:32](https://news.ycombinator.com/item?id=37823160) - [Video Streaming at Scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
 * [2023-10-09, 17:49:38](https://news.ycombinator.com/item?id=37823141) - [Feds find \"substantial'' safety issue at SC nuclear plant](https://www.thestate.com/news/local/environment/article280228714.html)
 * [2023-10-09, 17:35:06](https://news.ycombinator.com/item?id=37822967) - [Stop Using Char in Java. and Code Points](https://horstmann.com/unblog/2023-10-03/index.html)
+* [2023-10-09, 17:32:37](https://news.ycombinator.com/item?id=37822937) - [Becoming James Bond](https://literaryreview.co.uk/becoming-james-bond)
 * [2023-10-09, 17:31:30](https://news.ycombinator.com/item?id=37822927) - [Linuxatemyram.com](https://www.linuxatemyram.com/)
 * [2023-10-09, 17:20:54](https://news.ycombinator.com/item?id=37822774) - [Medieval staircases were NOT built going clockwise for the defender's advantage](https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/)
 * [2023-10-09, 16:45:40](https://news.ycombinator.com/item?id=37822284) - [Lensm, a Tool for Viewing Disassembly](https://www.storj.io/blog/lensm)

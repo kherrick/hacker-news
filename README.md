@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-10, 15:40:19](https://news.ycombinator.com/item?id=37833532) - [FTC: BetterHelp pushed people into handing over health information](https://www.ftc.gov/business-guidance/blog/2023/03/ftc-says-online-counseling-service-betterhelp-pushed-people-handing-over-health-information-broke)
+* [2023-10-10, 16:29:36](https://news.ycombinator.com/item?id=37834261) - [Finnish president says undersea pipeline, cables damaged by 'external activity'](https://apnews.com/article/finland-estonia-pipeline-24d6623cf2778464fdb4ef1d85c70d91)
 * [2023-10-10, 15:34:47](https://news.ycombinator.com/item?id=37833454) - [Intermediate Graphics Library, a cross-platform GPU abstraction library by Meta](https://github.com/facebook/igl)
 * [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
 * [2023-10-10, 14:31:28](https://news.ycombinator.com/item?id=37832599) - [HyperAttention: Long-Context Attention in Near-Linear Time[pdf]](https://arxiv.org/abs/2310.05869)
@@ -28,7 +28,7 @@
 * [2023-10-10, 06:20:58](https://news.ycombinator.com/item?id=37829061) - [A real-time 3D digital map of Tokyo's public transport system](https://minitokyo3d.com)
 * [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-10, 02:43:27](https://news.ycombinator.com/item?id=37827995) - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
-* [2023-10-09, 19:06:02](https://news.ycombinator.com/item?id=37824000) - [Bless this mess: Curated versus confessional clutter](https://dirt.fyi/article/2023/10/bless-this-mess)
+* [2023-10-09, 17:32:37](https://news.ycombinator.com/item?id=37822937) - [Becoming James Bond](https://literaryreview.co.uk/becoming-james-bond)
 * [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney Packed Big Emotion into a Little Robot](https://spectrum.ieee.org/disney-robot)
 
 ## [Archives](archives/index.md)
