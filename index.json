@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-10, 23:17:03",
+      "https://news.ycombinator.com/item?id=37839000"
+    ],
+    [
+      "SQLite needs testers for the new binary JSON format",
+      "https://sqlite.org/forum/forumpost/8687d4ad36"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 23:13:12",
+      "https://news.ycombinator.com/item?id=37838964"
+    ],
+    [
+      "Californians now able to one-click purge all of their data from all data brokers",
+      "https://www.tomkemp.ai/blog/2023/10/10/analysis-of-the-california-delete-act-sb-362-signed-into-law"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 23:09:43",
       "https://news.ycombinator.com/item?id=37838943"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2023-10-10, 14:31:28",
-      "https://news.ycombinator.com/item?id=37832599"
-    ],
-    [
-      "HyperAttention: Long-Context Attention in Near-Linear Time",
-      "https://arxiv.org/abs/2310.05869"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 14:30:26",
       "https://news.ycombinator.com/item?id=37832585"
     ],
     [
       "Passkeys are now enabled by default for Google users",
       "https://blog.google/technology/safety-security/passkeys-default-google-accounts/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 14:17:14",
-      "https://news.ycombinator.com/item?id=37832432"
-    ],
-    [
-      "Building a collaborative pixel art editor with CRDTs",
-      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
     ]
   ],
   [
