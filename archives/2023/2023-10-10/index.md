@@ -71,6 +71,7 @@
 * [2023-10-10, 09:09:23](https://news.ycombinator.com/item?id=37829946) - [Do you make over 20k a month?](https://old.reddit.com/r/Entrepreneur/comments/173b8jh/do_you_make_over_20k_a_month/)
 * [2023-10-10, 09:06:45](https://news.ycombinator.com/item?id=37829926) - [350,757 coin flips show coins tend to land the same-side up they started](https://arxiv.org/abs/2310.04153)
 * [2023-10-10, 08:42:30](https://news.ycombinator.com/item?id=37829787) - [Ask HN: How do you tell if something has a keylogger implemented](https://news.ycombinator.com/item?id=37829787)
+* [2023-10-10, 08:10:11](https://news.ycombinator.com/item?id=37829626) - [Why do patients leave against medical advice?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7909809/)
 * [2023-10-10, 08:00:04](https://news.ycombinator.com/item?id=37829575) - [The Rent Is Too Damn Algorithmic](https://washingtoncitypaper.com/article/631461/the-rent-is-too-damn-algorithmic/)
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 07:25:48](https://news.ycombinator.com/item?id=37829395) - [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
