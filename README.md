@@ -19,7 +19,7 @@
 * [2023-10-09, 16:45:40](https://news.ycombinator.com/item?id=37822284) - [Lensm, a tool for viewing disassembly](https://www.storj.io/blog/lensm)
 * [2023-10-09, 16:28:56](https://news.ycombinator.com/item?id=37822082) - [789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
 * [2023-10-09, 16:21:51](https://news.ycombinator.com/item?id=37821994) - [Make your own pyramid salt crystals](https://crystalverse.com/pyramid-salt-crystals/)
-* [2023-10-09, 12:01:52](https://news.ycombinator.com/item?id=37819514) - [Decimal BASIC:a tool for calculation and investigation](http://hp.vector.co.jp/authors/VA008683/english/)
+* [2023-10-09, 12:01:52](https://news.ycombinator.com/item?id=37819514) - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/)
 * [2023-10-09, 10:14:56](https://news.ycombinator.com/item?id=37818813) - [Free Online Graph Paper](https://incompetech.com/graphpaper/)
 * [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible (2019)](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
 * [2023-10-09, 09:21:52](https://news.ycombinator.com/item?id=37818546) - [How to assert for fun and profit (2022)](https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html)
