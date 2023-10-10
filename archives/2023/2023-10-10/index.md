@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 20:50:25](https://news.ycombinator.com/item?id=37837278) - [California mandates VC firms to release investments' diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
+* [2023-10-10, 20:49:45](https://news.ycombinator.com/item?id=37837275) - [Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
 * [2023-10-10, 20:48:26](https://news.ycombinator.com/item?id=37837261) - [Why Generative AI Is Currently Doomed](https://twitter.com/The_AI_Skeptic/status/1711791691412250816)
 * [2023-10-10, 20:29:15](https://news.ycombinator.com/item?id=37837043) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform all by myself](https://www.tradingdigits.io/)

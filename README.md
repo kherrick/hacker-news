@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-10, 20:48:26](https://news.ycombinator.com/item?id=37837261) - [Why Generative AI Is Currently Doomed](https://twitter.com/The_AI_Skeptic/status/1711791691412250816)
+* [2023-10-10, 20:50:25](https://news.ycombinator.com/item?id=37837278) - [California mandates VC firms to release investments' diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
+* [2023-10-10, 20:49:45](https://news.ycombinator.com/item?id=37837275) - [Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
 * [2023-10-10, 20:29:15](https://news.ycombinator.com/item?id=37837043) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform all by myself](https://www.tradingdigits.io/)
 * [2023-10-10, 20:15:46](https://news.ycombinator.com/item?id=37836889) - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
@@ -19,7 +20,6 @@
 * [2023-10-10, 14:30:26](https://news.ycombinator.com/item?id=37832585) - [Passkeys are now enabled by default for Google users](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
 * [2023-10-10, 14:18:31](https://news.ycombinator.com/item?id=37832457) - [ElevenLabs Launches Voice Translation Tool to Break Down Language Barriers](https://elevenlabs.io/blog/elevenlabs-launches-voice-translation-tool-to-break-down-language-barriers-for-content/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The next generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
-* [2023-10-10, 14:01:04](https://news.ycombinator.com/item?id=37832216) - [Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling](https://www.polarsignals.com/)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
 * [2023-10-10, 12:10:44](https://news.ycombinator.com/item?id=37831062) - [The largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
 * [2023-10-10, 12:00:49](https://news.ycombinator.com/item?id=37830987) - [The novel HTTP/2 'Rapid Reset' DDoS attack](https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack)
