@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-10, 09:09:23](https://news.ycombinator.com/item?id=37829946) - [Do you make over 20k a month?](https://old.reddit.com/r/Entrepreneur/comments/173b8jh/do_you_make_over_20k_a_month/)
+* [2023-10-10, 08:42:30](https://news.ycombinator.com/item?id=37829787) - [Ask HN: How do you tell if something has a keylogger implemented](https://news.ycombinator.com/item?id=37829787)
 * [2023-10-10, 08:00:04](https://news.ycombinator.com/item?id=37829575) - [The Rent Is Too Damn Algorithmic](https://washingtoncitypaper.com/article/631461/the-rent-is-too-damn-algorithmic/)
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 07:25:48](https://news.ycombinator.com/item?id=37829395) - [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
@@ -11,7 +13,6 @@
 * [2023-10-09, 23:39:30](https://news.ycombinator.com/item?id=37826842) - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:29:47](https://news.ycombinator.com/item?id=37826256) - [How to Make a Cantenna (2013)](https://jacobsalmela.com/2013/09/07/wi-fi-cantenna-2-4ghz-how-to-make-a-long-range-wi-fi-antenna/)
-* [2023-10-09, 22:08:31](https://news.ycombinator.com/item?id=37826082) - [The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()](https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/)
 * [2023-10-09, 20:46:49](https://news.ycombinator.com/item?id=37825292) - [John Riccitiello steps down as CEO of Unity](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
 * [2023-10-09, 20:34:05](https://news.ycombinator.com/item?id=37825155) - [Why AutoGPT engineers ditched vector databases](https://dariuszsemba.com/blog/why-autogpt-engineers-ditched-vector-databases/)
 * [2023-10-09, 19:44:37](https://news.ycombinator.com/item?id=37824547) - [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
@@ -23,7 +24,6 @@
 * [2023-10-09, 16:21:51](https://news.ycombinator.com/item?id=37821994) - [Make your own pyramid salt crystals](https://crystalverse.com/pyramid-salt-crystals/)
 * [2023-10-09, 12:01:52](https://news.ycombinator.com/item?id=37819514) - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/)
 * [2023-10-09, 10:14:56](https://news.ycombinator.com/item?id=37818813) - [Free Online Graph Paper](https://incompetech.com/graphpaper/)
-* [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible (2019)](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
 * [2023-10-09, 05:41:46](https://news.ycombinator.com/item?id=37817220) - [The Soviet spacecraft cemetery in the Pacific](https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific)
 * [2023-10-08, 22:08:28](https://news.ycombinator.com/item?id=37814830) - [Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]](https://eprint.iacr.org/2022/1303.pdf)
 * [2023-10-08, 17:00:11](https://news.ycombinator.com/item?id=37812255) - [Extreme parkour with legged robots](https://extreme-parkour.github.io/)
