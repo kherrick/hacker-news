@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-10, 14:17:14",
+      "https://news.ycombinator.com/item?id=37832432"
+    ],
+    [
+      "Building a Collaborative Pixel Art Editor with CRDTs",
+      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 13:59:09",
       "https://news.ycombinator.com/item?id=37832189"
     ],
@@ -47,16 +57,6 @@
     [
       "Ask HN: Best tools for self-authoring books in 2023?",
       "https://news.ycombinator.com/item?id=37831175"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 12:17:59",
-      "https://news.ycombinator.com/item?id=37831118"
-    ],
-    [
-      "Show HN: SingleAPI – Convert the Internet into your own API",
-      "https://singleapi.co/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37829395"
     ],
     [
-      "How Netflix Really Uses Java",
+      "How Netflix really uses Java",
       "https://www.infoq.com/news/2023/10/java-at-netflix-bakker/"
     ]
   ],
