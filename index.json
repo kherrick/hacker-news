@@ -81,12 +81,32 @@
   ],
   [
     [
+      "2023-10-09, 22:08:31",
+      "https://news.ycombinator.com/item?id=37826082"
+    ],
+    [
+      "The Future of CSS: Easy Light-Dark Mode Color Switching with Light-Dark()",
+      "https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 20:46:49",
       "https://news.ycombinator.com/item?id=37825292"
     ],
     [
       "John Riccitiello steps down as CEO of Unity",
       "https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 20:34:05",
+      "https://news.ycombinator.com/item?id=37825155"
+    ],
+    [
+      "Why AutoGPT engineers ditched vector databases",
+      "https://dariuszsemba.com/blog/why-autogpt-engineers-ditched-vector-databases/"
     ]
   ],
   [
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2023-10-09, 17:20:54",
+      "https://news.ycombinator.com/item?id=37822774"
+    ],
+    [
+      "Medieval staircases were not built going clockwise for the defender's advantage",
+      "https://fakehistoryhunter.net/2023/10/09/medieval-staircases-were-not-built-going-clockwise-for-the-defenders-advantage/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 16:45:40",
       "https://news.ycombinator.com/item?id=37822284"
     ],
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2023-10-09, 14:36:23",
-      "https://news.ycombinator.com/item?id=37820877"
-    ],
-    [
-      "The pivot table, the spreadsheet's most powerful tool (2020)",
-      "https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 14:00:40",
-      "https://news.ycombinator.com/item?id=37820532"
-    ],
-    [
-      "Text showdown: Gap Buffers vs. Ropes",
-      "https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 12:01:52",
       "https://news.ycombinator.com/item?id=37819514"
     ],
     [
       "Decimal BASIC:a tool for calculation and investigation",
       "http://hp.vector.co.jp/authors/VA008683/english/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 10:46:49",
-      "https://news.ycombinator.com/item?id=37818991"
-    ],
-    [
-      "UK Address Oddities (2018)",
-      "https://paulplowman.com/stuff/uk-address-oddities/"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "USB inventor explains why the connector was not designed to be reversible (2019)",
       "https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 09:38:19",
-      "https://news.ycombinator.com/item?id=37818643"
-    ],
-    [
-      "CRT Shaders",
-      "https://emulation.gametechwiki.com/index.php/CRT_shaders"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "What is a \"document\"? (1997) [pdf]",
       "https://monoskop.org/images/4/4e/Buckland_Michael_K_1997_What_is_a_Document.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-10-08, 06:10:42",
+      "https://news.ycombinator.com/item?id=37808230"
+    ],
+    [
+      "The anatomy of a smart bulb",
+      "https://cheriches.com/smart-home/2023-10-07-the-anatomy-of-a-smart-bulb.html"
     ]
   ]
 ]
