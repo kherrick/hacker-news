@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
-* [2023-10-10, 03:46:52](https://news.ycombinator.com/item?id=37828322) - [Charles (Chuck) Feeney, entrepreneur who gave $8B to charity, dies at 92](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
+* [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+* [2023-10-10, 03:46:52](https://news.ycombinator.com/item?id=37828322) - [Chuck Feeney has died](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
 * [2023-10-10, 02:43:27](https://news.ycombinator.com/item?id=37827995) - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
 * [2023-10-10, 02:18:24](https://news.ycombinator.com/item?id=37827868) - [Canada plans to regulate search and social media use of AI](https://www.michaelgeist.ca/2023/10/canada-plans-to-regulate-search-and-social-media-use-of-artificial-intelligence-for-content-moderation-and-discoverability/)
-* [2023-10-10, 01:57:32](https://news.ycombinator.com/item?id=37827758) - [Sonos verdict vs. Google thrown out](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
+* [2023-10-10, 01:57:32](https://news.ycombinator.com/item?id=37827758) - [Google wins reprieve from $32M verdict in Sonos patent fight](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
 * [2023-10-09, 23:39:30](https://news.ycombinator.com/item?id=37826842) - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:29:47](https://news.ycombinator.com/item?id=37826256) - [How to Make a Cantenna (2013)](https://jacobsalmela.com/2013/09/07/wi-fi-cantenna-2-4ghz-how-to-make-a-long-range-wi-fi-antenna/)
