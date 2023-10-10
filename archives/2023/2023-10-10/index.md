@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 11:02:58](https://news.ycombinator.com/item?id=37830599) - [Lego MRI Scanners donated to hospitals to help children cope with anxiety (2022)](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
+* [2023-10-10, 10:16:08](https://news.ycombinator.com/item?id=37830303) - [Samsung expected to report 80% profit plunge as losses mount at chip business](https://www.cnbc.com/2023/10/10/samsung-earnings-preview-q3-2023-chip-losses-weigh-on-profit.html)
+* [2023-10-10, 09:58:43](https://news.ycombinator.com/item?id=37830192) - [Show HN: REST Alternative to GraphQL and tRPC](https://openapistack.co/docs/intro/)
 * [2023-10-10, 09:57:24](https://news.ycombinator.com/item?id=37830186) - [Wayfire (a Wayland compositor) 0.8.0 announcement](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
+* [2023-10-10, 09:37:06](https://news.ycombinator.com/item?id=37830079) - [C uses \"&\" for the address-operator because 'ampersand sounds like \"address\"'](https://softwareengineering.stackexchange.com/questions/252023/why-does-c-use-the-asterisk-for-pointers)
 * [2023-10-10, 09:20:23](https://news.ycombinator.com/item?id=37830011) - [AI hype is built on high test scores. Those tests are flawed](https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/)
 * [2023-10-10, 09:09:23](https://news.ycombinator.com/item?id=37829946) - [Do you make over 20k a month?](https://old.reddit.com/r/Entrepreneur/comments/173b8jh/do_you_make_over_20k_a_month/)
 * [2023-10-10, 09:06:45](https://news.ycombinator.com/item?id=37829926) - [350,757 coin flips show coins tend to land the same-side up they started](https://arxiv.org/abs/2310.04153)
