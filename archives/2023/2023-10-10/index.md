@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [First of its kind material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 * [2023-10-10, 17:39:08](https://news.ycombinator.com/item?id=37835057) - [Judge throws out $32.5M Sonos win against Google](https://www.theverge.com/2023/10/10/23910694/sonos-google-patent-verdict-thrown-out-alsup)
 * [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US Sues eBay for Allowing Sale of More Than 300k Emissions Defeat Devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
 * [2023-10-10, 17:28:26](https://news.ycombinator.com/item?id=37834927) - [Lit 3 Release Announcement](https://lit.dev/blog/2023-10-10-lit-3.0/)
@@ -16,6 +17,7 @@
 * [2023-10-10, 16:29:36](https://news.ycombinator.com/item?id=37834261) - [Finnish president says undersea pipeline, cables damaged by 'external activity'](https://apnews.com/article/finland-estonia-pipeline-24d6623cf2778464fdb4ef1d85c70d91)
 * [2023-10-10, 15:40:19](https://news.ycombinator.com/item?id=37833532) - [FTC: BetterHelp pushed people into handing over health information](https://www.ftc.gov/business-guidance/blog/2023/03/ftc-says-online-counseling-service-betterhelp-pushed-people-handing-over-health-information-broke)
 * [2023-10-10, 15:34:47](https://news.ycombinator.com/item?id=37833454) - [Intermediate Graphics Library, a cross-platform GPU abstraction library by Meta](https://github.com/facebook/igl)
+* [2023-10-10, 15:23:57](https://news.ycombinator.com/item?id=37833278) - [Scheme in the Browser: A Hoot of a Tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 15:05:27](https://news.ycombinator.com/item?id=37833011) - [When Does Federal Debt Reach Unsustainable Levels?](https://budgetmodel.wharton.upenn.edu/issues/2023/10/6/when-does-federal-debt-reach-unsustainable-levels)
 * [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
 * [2023-10-10, 14:31:28](https://news.ycombinator.com/item?id=37832599) - [HyperAttention: Long-Context Attention in Near-Linear Time[pdf]](https://arxiv.org/abs/2310.05869)
