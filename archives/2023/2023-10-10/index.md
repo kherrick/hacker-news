@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 18:38:21](https://news.ycombinator.com/item?id=37835765) - [One of Last Survivors of Oklahoma Race Massacre Dies at 102](https://www.usnews.com/news/top-news/articles/2023-10-10/one-of-last-survivors-of-oklahoma-race-massacre-dies-at-102)
 * [2023-10-10, 18:05:18](https://news.ycombinator.com/item?id=37835383) - [Airbnb listings down to 3,227 from 22,434 since August](https://www.wired.com/story/airbnb-ban-new-york-illegal-listings/)
 * [2023-10-10, 17:59:20](https://news.ycombinator.com/item?id=37835297) - [Honda debuts its first-ever electric autonomous zero-turn riding lawn mower](https://electrek.co/2023/10/09/honda-first-ever-electric-autonomous-zero-turn-riding-lawn-mower/)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [First of its kind material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
