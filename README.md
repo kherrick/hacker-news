@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 07:25:48](https://news.ycombinator.com/item?id=37829395) - [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
 * [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-10, 03:46:52](https://news.ycombinator.com/item?id=37828322) - [Chuck Feeney has died](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
@@ -25,7 +26,6 @@
 * [2023-10-09, 09:21:52](https://news.ycombinator.com/item?id=37818546) - [How to assert for fun and profit (2022)](https://www.aarsen.me/posts/2022-11-18-i-assert-thee.html)
 * [2023-10-09, 05:41:46](https://news.ycombinator.com/item?id=37817220) - [The Soviet spacecraft cemetery in the Pacific](https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific)
 * [2023-10-08, 22:08:28](https://news.ycombinator.com/item?id=37814830) - [Fast and Clean: Auditable high-performance assembly via constraint solving [pdf]](https://eprint.iacr.org/2022/1303.pdf)
-* [2023-10-08, 17:04:56](https://news.ycombinator.com/item?id=37812295) - [The three modern formats for email forwarded by people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailThreeForwardingFormats)
 * [2023-10-08, 17:00:11](https://news.ycombinator.com/item?id=37812255) - [Extreme parkour with legged robots](https://extreme-parkour.github.io/)
 * [2023-10-08, 15:58:39](https://news.ycombinator.com/item?id=37811623) - [Empires of the Steppes: The Nomadic Tribes Who Shaped Civilisation](https://www.historytoday.com/archive/review/empires-steppes-kenneth-w-harl-review)
 * [2023-10-08, 08:27:09](https://news.ycombinator.com/item?id=37808775) - [What is a \"document\"? (1997) [pdf]](https://monoskop.org/images/4/4e/Buckland_Michael_K_1997_What_is_a_Document.pdf)
