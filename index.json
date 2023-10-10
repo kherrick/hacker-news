@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-10, 18:22:39",
-      "https://news.ycombinator.com/item?id=37835584"
+      "2023-10-10, 18:56:58",
+      "https://news.ycombinator.com/item?id=37835995"
     ],
     [
-      "AI girlfriend encouraged man to attempt crossbow assassination of Queen",
-      "https://www.theregister.com/2023/10/06/ai_chatbot_kill_queen/"
+      "Show HN: Building a 42-inch E-Ink frame for generative art",
+      "https://eliot.blog/e-ink-frame"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "US sues eBay for allowing sale of emissions defeat devices",
       "https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 17:28:26",
-      "https://news.ycombinator.com/item?id=37834927"
-    ],
-    [
-      "Lit 3 Release Announcement",
-      "https://lit.dev/blog/2023-10-10-lit-3.0/"
     ]
   ],
   [
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2023-10-10, 16:45:47",
-      "https://news.ycombinator.com/item?id=37834437"
-    ],
-    [
-      "Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API",
-      "https://github.com/kohlschutter/jdk.compiler.standalone"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 15:23:57",
       "https://news.ycombinator.com/item?id=37833278"
     ],
@@ -117,6 +97,16 @@
     [
       "HyperAttention: Long-Context Attention in Near-Linear Time[pdf]",
       "https://arxiv.org/abs/2310.05869"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 14:30:26",
+      "https://news.ycombinator.com/item?id=37832585"
+    ],
+    [
+      "Passkeys are now enabled by default for Google users",
+      "https://blog.google/technology/safety-security/passkeys-default-google-accounts/"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling",
       "https://www.polarsignals.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 13:59:09",
+      "https://news.ycombinator.com/item?id=37832189"
+    ],
+    [
+      "Google Kubernetes Engine incident spanning 9 days",
+      "https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB"
     ]
   ],
   [
@@ -221,6 +221,26 @@
   ],
   [
     [
+      "2023-10-10, 10:51:13",
+      "https://news.ycombinator.com/item?id=37830513"
+    ],
+    [
+      "Archaeologists extract DNA of ancient Israelites",
+      "https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 09:58:43",
+      "https://news.ycombinator.com/item?id=37830192"
+    ],
+    [
+      "Show HN: REST Alternative to GraphQL and tRPC",
+      "https://openapistack.co/docs/intro/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 07:55:58",
       "https://news.ycombinator.com/item?id=37829551"
     ],
@@ -247,26 +267,6 @@
     [
       "A real-time 3D digital map of Tokyo's public transport system",
       "https://minitokyo3d.com"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 05:49:57",
-      "https://news.ycombinator.com/item?id=37828920"
-    ],
-    [
-      "Plato and the Nerd",
-      "https://direct.mit.edu/books/oa-monograph/3527/Plato-and-the-NerdThe-Creative-Partnership-of"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 02:43:27",
-      "https://news.ycombinator.com/item?id=37827995"
-    ],
-    [
-      "Firefox tooltip bug fixed after 22 years",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=148624"
     ]
   ],
   [
