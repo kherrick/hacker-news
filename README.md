@@ -2,11 +2,11 @@
 
 * [2023-10-10, 15:05:27](https://news.ycombinator.com/item?id=37833011) - [When Does Federal Debt Reach Unsustainable Levels?](https://budgetmodel.wharton.upenn.edu/issues/2023/10/6/when-does-federal-debt-reach-unsustainable-levels)
 * [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
-* [2023-10-10, 14:30:26](https://news.ycombinator.com/item?id=37832585) - [Google announces passwordless by default: Make the switch to passkeys](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
 * [2023-10-10, 14:17:14](https://news.ycombinator.com/item?id=37832432) - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The Next Generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
 * [2023-10-10, 13:59:09](https://news.ycombinator.com/item?id=37832189) - [Google Kubernetes Engine incident spanning 9 days](https://status.cloud.google.com/incidents/WMmjrixdPfBGFKCohYGd#Z6wKuSfovJCG51wpbwiB)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
+* [2023-10-10, 13:25:47](https://news.ycombinator.com/item?id=37831780) - [GitHub Copilot loses an average of $20 per user per month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
 * [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
 * [2023-10-10, 12:45:35](https://news.ycombinator.com/item?id=37831351) - [Show HN: Building an app to l earn languages with short stories](https://purplehoisin.com/building-an-app-to-learn-languages-with-short-stories/)
 * [2023-10-10, 12:37:17](https://news.ycombinator.com/item?id=37831263) - [Valve Says Counter-Strike 2 for macOS Not Happening, There Aren't Enough Players](https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/)
