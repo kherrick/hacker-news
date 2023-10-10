@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
 * [2023-10-10, 18:38:21](https://news.ycombinator.com/item?id=37835765) - [One of Last Survivors of Oklahoma Race Massacre Dies at 102](https://www.usnews.com/news/top-news/articles/2023-10-10/one-of-last-survivors-of-oklahoma-race-massacre-dies-at-102)
 * [2023-10-10, 18:22:39](https://news.ycombinator.com/item?id=37835584) - [AI girlfriend encouraged man to attempt crossbow assassination of Queen](https://www.theregister.com/2023/10/06/ai_chatbot_kill_queen/)
 * [2023-10-10, 18:05:18](https://news.ycombinator.com/item?id=37835383) - [Airbnb listings down to 3,227 from 22,434 since August](https://www.wired.com/story/airbnb-ban-new-york-illegal-listings/)
