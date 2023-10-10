@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-10, 13:25:47](https://news.ycombinator.com/item?id=37831780) - [GitHub Copilot Loses an Average of $20 per User per Month](https://www.thurrott.com/cloud/290661/report-github-copilot-loses-an-average-of-20-per-user-per-month)
-* [2023-10-10, 13:01:25](https://news.ycombinator.com/item?id=37831506) - [Movie Piracy Is Strongly Linked to Box Office Revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
+* [2023-10-10, 13:01:25](https://news.ycombinator.com/item?id=37831506) - [Movie piracy is strongly linked to box office revenue](https://torrentfreak.com/movie-piracy-is-strongly-linked-to-box-office-revenue-231009/)
 * [2023-10-10, 13:00:28](https://news.ycombinator.com/item?id=37831502) - [Small-scale magnetism leads to large-scale solar atmosphere](https://www.esa.int/ESA_Multimedia/Images/2023/10/Small-scale_magnetism_leads_to_large-scale_solar_atmosphere)
 * [2023-10-10, 12:45:35](https://news.ycombinator.com/item?id=37831351) - [Show HN: Building an app to l earn languages with short stories](https://purplehoisin.com/building-an-app-to-learn-languages-with-short-stories/)
 * [2023-10-10, 12:26:21](https://news.ycombinator.com/item?id=37831175) - [Ask HN: Best tools for self-authoring books in 2023?](https://news.ycombinator.com/item?id=37831175)
@@ -14,7 +14,7 @@
 * [2023-10-10, 10:51:13](https://news.ycombinator.com/item?id=37830513) - [In First, Archaeologists Extract DNA of Ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)
 * [2023-10-10, 10:16:08](https://news.ycombinator.com/item?id=37830303) - [Samsung expected to report 80% profit plunge as losses mount at chip business](https://www.cnbc.com/2023/10/10/samsung-earnings-preview-q3-2023-chip-losses-weigh-on-profit.html)
 * [2023-10-10, 09:58:43](https://news.ycombinator.com/item?id=37830192) - [Show HN: REST Alternative to GraphQL and tRPC](https://openapistack.co/docs/intro/)
-* [2023-10-10, 09:57:24](https://news.ycombinator.com/item?id=37830186) - [Wayfire (a Wayland compositor) 0.8.0 announcement](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
+* [2023-10-10, 09:57:24](https://news.ycombinator.com/item?id=37830186) - [Wayfire 0.8](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
 * [2023-10-10, 09:37:06](https://news.ycombinator.com/item?id=37830079) - [C uses \"&\" for the address-operator because 'ampersand sounds like \"address\"'](https://softwareengineering.stackexchange.com/questions/252023/why-does-c-use-the-asterisk-for-pointers)
 * [2023-10-10, 09:13:10](https://news.ycombinator.com/item?id=37829964) - [Karaniya Metta Sutta: The Buddha's Words on Loving-Kindness](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.amar.html)
 * [2023-10-10, 09:06:45](https://news.ycombinator.com/item?id=37829926) - [Fair coins tend to land on the same side they started](https://arxiv.org/abs/2310.04153)
@@ -25,11 +25,11 @@
 * [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-10, 02:43:27](https://news.ycombinator.com/item?id=37827995) - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
 * [2023-10-09, 23:39:30](https://news.ycombinator.com/item?id=37826842) - [ECC RAM on AMD Ryzen 7000 Desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
-* [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:29:47](https://news.ycombinator.com/item?id=37826256) - [How to Make a Cantenna (2013)](https://jacobsalmela.com/2013/09/07/wi-fi-cantenna-2-4ghz-how-to-make-a-long-range-wi-fi-antenna/)
 * [2023-10-09, 18:39:12](https://news.ycombinator.com/item?id=37823680) - [How the Ear Works: Nature's solutions for listening (1997)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/)
 * [2023-10-09, 12:01:52](https://news.ycombinator.com/item?id=37819514) - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/)
 * [2023-10-08, 17:00:11](https://news.ycombinator.com/item?id=37812255) - [Extreme parkour with legged robots](https://extreme-parkour.github.io/)
+* [2023-10-08, 15:58:39](https://news.ycombinator.com/item?id=37811623) - [Empires of the Steppes: The Nomadic Tribes Who Shaped Civilisation](https://www.historytoday.com/archive/review/empires-steppes-kenneth-w-harl-review)
 
 ## [Archives](archives/index.md)
 
