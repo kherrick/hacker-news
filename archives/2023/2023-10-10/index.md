@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 17:39:08](https://news.ycombinator.com/item?id=37835057) - [Judge throws out $32.5M Sonos win against Google](https://www.theverge.com/2023/10/10/23910694/sonos-google-patent-verdict-thrown-out-alsup)
 * [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US Sues eBay for Allowing Sale of More Than 300k Emissions Defeat Devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
+* [2023-10-10, 17:28:26](https://news.ycombinator.com/item?id=37834925) - [A universal EDR bypass built in Windows 10](https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/)
 * [2023-10-10, 17:13:03](https://news.ycombinator.com/item?id=37834731) - [Google is making their weak, flawed passkey system the default login method](https://lauren.vortex.com/2023/10/10/dont-use-google-passkeys-now)
 * [2023-10-10, 16:40:04](https://news.ycombinator.com/item?id=37834372) - [Ireland Won the Global Tax Game, and Is Swimming in Money](https://www.wsj.com/economy/global/this-country-won-the-global-tax-game-and-is-swimming-in-money-57c3c70)
 * [2023-10-10, 16:29:36](https://news.ycombinator.com/item?id=37834261) - [Finnish president says undersea pipeline, cables damaged by 'external activity'](https://apnews.com/article/finland-estonia-pipeline-24d6623cf2778464fdb4ef1d85c70d91)
