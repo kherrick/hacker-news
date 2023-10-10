@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-10, 20:48:26](https://news.ycombinator.com/item?id=37837261) - [Why Generative AI Is Currently Doomed](https://twitter.com/The_AI_Skeptic/status/1711791691412250816)
 * [2023-10-10, 20:29:15](https://news.ycombinator.com/item?id=37837043) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform all by myself](https://www.tradingdigits.io/)
 * [2023-10-10, 20:15:46](https://news.ycombinator.com/item?id=37836889) - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 * [2023-10-10, 20:01:07](https://news.ycombinator.com/item?id=37836733) - [You can buy teeth online](https://www.toothantique.com/)
 * [2023-10-10, 19:55:29](https://news.ycombinator.com/item?id=37836668) - [Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
 * [2023-10-10, 19:49:59](https://news.ycombinator.com/item?id=37836603) - [Apple Patents Suggest Future AirPods Could Monitor Biosignals and Brain Activity](https://applemagazine.com/apple-patents-suggest-future-airpods-could-monitor-biosignals-and-brain-activity/59510)
-* [2023-10-10, 19:22:46](https://news.ycombinator.com/item?id=37836296) - [Is giving people cash working? Six months of Denver's Basic Income Project](https://denverite.com/2023/10/03/denver-basic-income-project-six-month-results/)
 * [2023-10-10, 19:17:17](https://news.ycombinator.com/item?id=37836237) - [Oil sector is lobbying for inefficient hydrogen cars to delay electrification](https://www.rechargenews.com/energy-transition/liebreich-oil-sector-is-lobbying-for-inefficient-hydrogen-cars-because-it-wants-to-delay-electrification-/2-1-1033226?zephr_sso_ott=XwKh7x)
 * [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
