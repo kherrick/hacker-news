@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-10, 21:53:09](https://news.ycombinator.com/item?id=37838120) - [Toyota CEO: \"Our ammonia engine is the end of EV's\" [video]](https://www.youtube.com/watch?v=Pcm4fCDQ4dY)
 * [2023-10-10, 20:49:45](https://news.ycombinator.com/item?id=37837275) - [Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
 * [2023-10-10, 20:29:15](https://news.ycombinator.com/item?id=37837043) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform](https://www.tradingdigits.io/)
@@ -14,7 +15,6 @@
 * [2023-10-10, 15:23:57](https://news.ycombinator.com/item?id=37833278) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
 * [2023-10-10, 14:30:26](https://news.ycombinator.com/item?id=37832585) - [Passkeys are now enabled by default for Google users](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
-* [2023-10-10, 14:17:14](https://news.ycombinator.com/item?id=37832432) - [Building a collaborative pixel art editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The next generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
 * [2023-10-10, 14:01:04](https://news.ycombinator.com/item?id=37832216) - [Polar Signals Cloud: Always-on, zero-instrumentation continuous profiling](https://www.polarsignals.com/)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
