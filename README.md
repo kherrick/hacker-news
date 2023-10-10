@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-10, 11:02:58](https://news.ycombinator.com/item?id=37830599) - [Lego MRI Scanners donated to hospitals to help children cope with anxiety (2022)](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
+* [2023-10-10, 10:51:13](https://news.ycombinator.com/item?id=37830513) - [In First, Archaeologists Extract DNA of Ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)
 * [2023-10-10, 10:16:08](https://news.ycombinator.com/item?id=37830303) - [Samsung expected to report 80% profit plunge as losses mount at chip business](https://www.cnbc.com/2023/10/10/samsung-earnings-preview-q3-2023-chip-losses-weigh-on-profit.html)
 * [2023-10-10, 09:58:43](https://news.ycombinator.com/item?id=37830192) - [Show HN: REST Alternative to GraphQL and tRPC](https://openapistack.co/docs/intro/)
 * [2023-10-10, 09:57:24](https://news.ycombinator.com/item?id=37830186) - [Wayfire (a Wayland compositor) 0.8.0 announcement](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
@@ -23,7 +24,6 @@
 * [2023-10-09, 20:34:05](https://news.ycombinator.com/item?id=37825155) - [Why AutoGPT engineers ditched vector databases](https://dariuszsemba.com/blog/why-autogpt-engineers-ditched-vector-databases/)
 * [2023-10-09, 19:44:37](https://news.ycombinator.com/item?id=37824547) - [RAG at scale: Synchronizing and ingesting billions of text embeddings](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
 * [2023-10-09, 18:39:12](https://news.ycombinator.com/item?id=37823680) - [How the Ear Works: Nature's solutions for listening (1997)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/)
-* [2023-10-09, 18:13:20](https://news.ycombinator.com/item?id=37823377) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
 * [2023-10-09, 12:01:52](https://news.ycombinator.com/item?id=37819514) - [Decimal BASIC](http://hp.vector.co.jp/authors/VA008683/english/)
 * [2023-10-09, 10:14:56](https://news.ycombinator.com/item?id=37818813) - [Free Online Graph Paper](https://incompetech.com/graphpaper/)

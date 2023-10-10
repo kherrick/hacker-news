@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
 * [2023-10-10, 11:02:58](https://news.ycombinator.com/item?id=37830599) - [Lego MRI Scanners donated to hospitals to help children cope with anxiety (2022)](https://www.lego.com/en-us/aboutus/news/2022/february/lego-foundation-donation-mri)
+* [2023-10-10, 10:51:13](https://news.ycombinator.com/item?id=37830513) - [In First, Archaeologists Extract DNA of Ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)
 * [2023-10-10, 10:16:08](https://news.ycombinator.com/item?id=37830303) - [Samsung expected to report 80% profit plunge as losses mount at chip business](https://www.cnbc.com/2023/10/10/samsung-earnings-preview-q3-2023-chip-losses-weigh-on-profit.html)
 * [2023-10-10, 09:58:43](https://news.ycombinator.com/item?id=37830192) - [Show HN: REST Alternative to GraphQL and tRPC](https://openapistack.co/docs/intro/)
 * [2023-10-10, 09:57:24](https://news.ycombinator.com/item?id=37830186) - [Wayfire (a Wayland compositor) 0.8.0 announcement](https://wayfire.org/2023/10/07/Wayfire-0-8.html)
