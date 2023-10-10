@@ -72,6 +72,7 @@
 * [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Postal Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/)
 * [2023-10-09, 10:38:36](https://news.ycombinator.com/item?id=37818937) - [2023 Nobel Prize in economics awarded to Claudia Goldin](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/)
 * [2023-10-09, 10:17:20](https://news.ycombinator.com/item?id=37818829) - [SunPlus: The biggest chip company you've never heard of (2010)](https://hackmii.com/2010/04/sunplus-the-biggest-chip-company-youve-never-heard-of/)
+* [2023-10-09, 10:14:56](https://news.ycombinator.com/item?id=37818813) - [Free Online Graph Paper](https://incompetech.com/graphpaper/)
 * [2023-10-09, 09:47:36](https://news.ycombinator.com/item?id=37818685) - [Stream Compression in NATS](https://qaze.app/blog/nats-stream-compression/)
 * [2023-10-09, 09:40:26](https://news.ycombinator.com/item?id=37818659) - [USB inventor explains why the connector was not designed to be reversible](https://www.pcgamer.com/usb-inventor-explains-why-the-connector-was-not-designed-to-be-reversible/)
 * [2023-10-09, 09:38:58](https://news.ycombinator.com/item?id=37818649) - [The Magic Prioritization Trick](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
