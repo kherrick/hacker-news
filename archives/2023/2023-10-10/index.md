@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 17:13:03](https://news.ycombinator.com/item?id=37834731) - [Google is making their weak, flawed passkey system the default login method](https://lauren.vortex.com/2023/10/10/dont-use-google-passkeys-now)
+* [2023-10-10, 16:40:04](https://news.ycombinator.com/item?id=37834372) - [Ireland Won the Global Tax Game, and Is Swimming in Money](https://www.wsj.com/economy/global/this-country-won-the-global-tax-game-and-is-swimming-in-money-57c3c70)
 * [2023-10-10, 16:29:36](https://news.ycombinator.com/item?id=37834261) - [Finnish president says undersea pipeline, cables damaged by 'external activity'](https://apnews.com/article/finland-estonia-pipeline-24d6623cf2778464fdb4ef1d85c70d91)
 * [2023-10-10, 15:40:19](https://news.ycombinator.com/item?id=37833532) - [FTC: BetterHelp pushed people into handing over health information](https://www.ftc.gov/business-guidance/blog/2023/03/ftc-says-online-counseling-service-betterhelp-pushed-people-handing-over-health-information-broke)
 * [2023-10-10, 15:34:47](https://news.ycombinator.com/item?id=37833454) - [Intermediate Graphics Library, a cross-platform GPU abstraction library by Meta](https://github.com/facebook/igl)
