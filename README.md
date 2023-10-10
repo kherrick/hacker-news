@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+* [2023-10-10, 03:46:52](https://news.ycombinator.com/item?id=37828322) - [Charles (Chuck) Feeney, entrepreneur who gave $8B to charity, dies at 92](https://www.cnn.com/2023/10/09/business/billionaire-duty-free-shoppers-founder-charles-feeney-dead/index.html)
 * [2023-10-10, 02:43:27](https://news.ycombinator.com/item?id=37827995) - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
 * [2023-10-10, 02:18:24](https://news.ycombinator.com/item?id=37827868) - [Canada plans to regulate search and social media use of AI](https://www.michaelgeist.ca/2023/10/canada-plans-to-regulate-search-and-social-media-use-of-artificial-intelligence-for-content-moderation-and-discoverability/)
 * [2023-10-10, 01:57:32](https://news.ycombinator.com/item?id=37827758) - [Sonos verdict vs. Google thrown out](https://www.reuters.com/legal/litigation/google-wins-reprieve-325-mln-verdict-sonos-patent-fight-2023-10-09/)
@@ -16,7 +17,6 @@
 * [2023-10-09, 16:28:56](https://news.ycombinator.com/item?id=37822082) - [789 KB Linux Without MMU on RISC-V](https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/)
 * [2023-10-09, 16:21:51](https://news.ycombinator.com/item?id=37821994) - [Make your own pyramid salt crystals](https://crystalverse.com/pyramid-salt-crystals/)
 * [2023-10-09, 14:36:23](https://news.ycombinator.com/item?id=37820877) - [The pivot table, the spreadsheet's most powerful tool (2020)](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
-* [2023-10-09, 14:09:59](https://news.ycombinator.com/item?id=37820617) - [Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
 * [2023-10-09, 14:00:40](https://news.ycombinator.com/item?id=37820532) - [Text showdown: Gap Buffers vs. Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 12:16:28](https://news.ycombinator.com/item?id=37819637) - [The Prosecutor's Fallacy (2018)](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)
 * [2023-10-09, 10:46:49](https://news.ycombinator.com/item?id=37818991) - [UK Address Oddities (2018)](https://paulplowman.com/stuff/uk-address-oddities/)
