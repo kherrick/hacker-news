@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 18:05:18](https://news.ycombinator.com/item?id=37835383) - [Airbnb listings down to 3,227 from 22,434 since August](https://www.wired.com/story/airbnb-ban-new-york-illegal-listings/)
+* [2023-10-10, 17:59:20](https://news.ycombinator.com/item?id=37835297) - [Honda debuts its first-ever electric autonomous zero-turn riding lawn mower](https://electrek.co/2023/10/09/honda-first-ever-electric-autonomous-zero-turn-riding-lawn-mower/)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [First of its kind material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
 * [2023-10-10, 17:39:08](https://news.ycombinator.com/item?id=37835057) - [Judge throws out $32.5M Sonos win against Google](https://www.theverge.com/2023/10/10/23910694/sonos-google-patent-verdict-thrown-out-alsup)
 * [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US Sues eBay for Allowing Sale of More Than 300k Emissions Defeat Devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
