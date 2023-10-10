@@ -93,6 +93,7 @@
 * [2023-10-09, 08:23:08](https://news.ycombinator.com/item?id=37818244) - [Fine-Grained Language Composition](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html)
 * [2023-10-09, 08:06:31](https://news.ycombinator.com/item?id=37818132) - [Discogs' vibrant vinyl community is shattering](https://www.theverge.com/23899461/discogs-sellers-vinyl-cds-community-fees)
 * [2023-10-09, 07:44:57](https://news.ycombinator.com/item?id=37818010) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
+* [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney Packed Big Emotion into a Little Robot](https://spectrum.ieee.org/disney-robot)
 * [2023-10-09, 07:03:03](https://news.ycombinator.com/item?id=37817761) - [Bus Sniffing the IBM 5150: Writing a 8088 Sigrok Decoder](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150-writing-8088.html)
 * [2023-10-09, 05:41:46](https://news.ycombinator.com/item?id=37817220) - [The Soviet spacecraft cemetery in the Pacific](https://www.bbc.com/future/article/20231006-the-soviet-spacecraft-cemetery-in-the-pacific)
 * [2023-10-09, 05:27:37](https://news.ycombinator.com/item?id=37817152) - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
