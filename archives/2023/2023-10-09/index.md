@@ -21,6 +21,8 @@
 * [2023-10-09, 19:38:24](https://news.ycombinator.com/item?id=37824458) - [The Handbook of Rationality – MIT Press](https://direct.mit.edu/books/oa-edited-volume/5525/The-Handbook-of-Rationality)
 * [2023-10-09, 19:10:53](https://news.ycombinator.com/item?id=37824060) - [Alvis: Never Get Paged Again](https://xeiaso.net/landing/alvis/)
 * [2023-10-09, 18:48:57](https://news.ycombinator.com/item?id=37823805) - [You (Probably) Shouldn't Use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
+* [2023-10-09, 18:39:12](https://news.ycombinator.com/item?id=37823680) - [How the Ear Works: Nature's solutions for listening (1997)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2888317/)
+* [2023-10-09, 18:36:19](https://news.ycombinator.com/item?id=37823642) - [Project Pele](https://www.cto.mil/pele_eis/)
 * [2023-10-09, 18:28:31](https://news.ycombinator.com/item?id=37823543) - [LLMs can't self-correct in reasoning tasks, DeepMind study finds](https://bdtechtalks.com/2023/10/09/llm-self-correction-reasoning-failures/)
 * [2023-10-09, 18:21:13](https://news.ycombinator.com/item?id=37823457) - ['This Is a False Advertisement': X Ads Are Being Challenged by Reader Context](https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6)
 * [2023-10-09, 18:19:31](https://news.ycombinator.com/item?id=37823440) - [Extreme Parkour with Legged Robots](https://extreme-parkour.github.io/)
