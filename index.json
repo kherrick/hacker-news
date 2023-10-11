@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-10-11, 08:44:22",
-      "https://news.ycombinator.com/item?id=37842239"
-    ],
-    [
-      "ChatGPT and other AI tools could disrupt scientific publishing",
-      "https://www.nature.com/articles/d41586-023-03144-w"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 08:25:55",
       "https://news.ycombinator.com/item?id=37842171"
     ],
@@ -67,6 +57,16 @@
     [
       "Coordinated Disclosure: 1-Click RCE on Gnome (CVE-2023-43641)",
       "https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 06:39:01",
+      "https://news.ycombinator.com/item?id=37841635"
+    ],
+    [
+      "Thunderbird still can't sort messages within a thread after 15 years.",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=479969"
     ]
   ],
   [
