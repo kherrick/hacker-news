@@ -10,6 +10,7 @@
 * [2023-10-10, 23:09:43](https://news.ycombinator.com/item?id=37838943) - [Polymathic AI](https://polymathic-ai.org/blog/announcement/)
 * [2023-10-10, 22:39:00](https://news.ycombinator.com/item?id=37838636) - [Microsoft says VBScript will be ripped from Windows in a future release](https://www.theregister.com/2023/10/10/microsoft_says_vbscript_will_be/)
 * [2023-10-10, 22:26:50](https://news.ycombinator.com/item?id=37838521) - [California becomes first US state to ban 4 potentially harmful chemicals in food](https://www.cnn.com/2023/10/09/health/california-governor-bans-red-dye-no-3-wellness/index.html)
+* [2023-10-10, 21:54:58](https://news.ycombinator.com/item?id=37838139) - [The Good Life: What can we learn from the history of utopianism?](https://www.thenation.com/article/society/kristen-ghodsee-utopia/)
 * [2023-10-10, 21:53:09](https://news.ycombinator.com/item?id=37838120) - [Toyota CEO: \"Our ammonia engine is the end of EV's\" [video]](https://www.youtube.com/watch?v=Pcm4fCDQ4dY)
 * [2023-10-10, 21:15:40](https://news.ycombinator.com/item?id=37837620) - [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
 * [2023-10-10, 21:00:55](https://news.ycombinator.com/item?id=37837403) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
