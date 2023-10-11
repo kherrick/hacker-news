@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 07:15:15](https://news.ycombinator.com/item?id=37841804) - [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
 * [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 * [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 05:58:46](https://news.ycombinator.com/item?id=37841409) - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
