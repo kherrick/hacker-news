@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-11, 10:43:00](https://news.ycombinator.com/item?id=37842863) - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
-* [2023-10-11, 09:45:35](https://news.ycombinator.com/item?id=37842562) - [A case for the capacity to reason of GPT-4](https://lajili.com/posts/post-3/)
 * [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 * [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
@@ -21,8 +20,8 @@
 * [2023-10-11, 00:52:07](https://news.ycombinator.com/item?id=37839696) - [Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)
 * [2023-10-11, 00:13:02](https://news.ycombinator.com/item?id=37839437) - [Geospatial data science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
 * [2023-10-10, 23:59:00](https://news.ycombinator.com/item?id=37839326) - [Going faster by duplicating code](https://voidstar.tech/code_duplication/)
+* [2023-10-10, 23:13:12](https://news.ycombinator.com/item?id=37838964) - [Analysis of the California Delete Act](https://www.tomkemp.ai/blog/2023/10/10/analysis-of-the-california-delete-act-sb-362-signed-into-law)
 * [2023-10-10, 21:15:40](https://news.ycombinator.com/item?id=37837620) - [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
-* [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform](https://www.tradingdigits.io/)
 * [2023-10-10, 20:21:03](https://news.ycombinator.com/item?id=37836946) - [Problems with default function arguments (2020)](https://quuxplusone.github.io/blog/2020/04/18/default-function-arguments-are-the-devil/)
 * [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
@@ -30,6 +29,7 @@
 * [2023-10-10, 16:54:55](https://news.ycombinator.com/item?id=37834550) - [Rotary Woofer (2006)](http://www.rotarywoofer.com/)
 * [2023-10-10, 10:23:38](https://news.ycombinator.com/item?id=37830342) - [Common Lisp: An Interactive Approach (1992) [pdf]](https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf)
 * [2023-10-09, 22:40:02](https://news.ycombinator.com/item?id=37826345) - [A dictionary of modern slang, cant, and vulgar words (1860)](https://publicdomainreview.org/collection/dictionary-of-modern-slang/)
+* [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney packed big emotion into a little robot](https://spectrum.ieee.org/disney-robot)
 
 ## [Archives](archives/index.md)
 
