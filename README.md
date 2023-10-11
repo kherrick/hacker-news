@@ -14,7 +14,6 @@
 * [2023-10-11, 20:46:30](https://news.ycombinator.com/item?id=37850036) - [Unix Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 * [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
 * [2023-10-11, 18:49:53](https://news.ycombinator.com/item?id=37848662) - [British sandwiches and walking 300km of Wainwright's coast to coast](https://craigmod.com/ridgeline/167/)
-* [2023-10-11, 18:48:11](https://news.ycombinator.com/item?id=37848632) - [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
 * [2023-10-11, 18:25:37](https://news.ycombinator.com/item?id=37848321) - [Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 * [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
 * [2023-10-11, 18:11:08](https://news.ycombinator.com/item?id=37848115) - [Vine Robots: Learn to Make Your Own](https://www.vinerobots.org/)
@@ -29,6 +28,7 @@
 * [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
 * [2023-10-11, 07:58:46](https://news.ycombinator.com/item?id=37842006) - [Ancient Babylonian Algorithms](https://fermatslibrary.com/s/ancient-babylonian-algorithms)
 * [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
+* [2023-10-11, 01:48:08](https://news.ycombinator.com/item?id=37840038) - [Scientists identify pathway activated by interferon-gamma leading to tumor death](https://medicalxpress.com/news/2023-10-scientists-pathway-interferon-gamma-tumor-cell.html)
 * [2023-10-11, 01:22:18](https://news.ycombinator.com/item?id=37839884) - [Evidence that albatrosses use infrasound to navigate long journeys](https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html)
 
 ## [Archives](archives/index.md)

@@ -110,6 +110,7 @@
 * [2023-10-11, 02:19:29](https://news.ycombinator.com/item?id=37840172) - [Microgravity-induced muscle atrophy: Implications for long-duration spaceflights](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023)
 * [2023-10-11, 02:15:39](https://news.ycombinator.com/item?id=37840158) - [What I Learned About MP3 Encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
 * [2023-10-11, 02:01:18](https://news.ycombinator.com/item?id=37840107) - [GHC 9.8.1 has been released](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
+* [2023-10-11, 01:48:08](https://news.ycombinator.com/item?id=37840038) - [Scientists identify pathway activated by interferon-gamma leading to tumor death](https://medicalxpress.com/news/2023-10-scientists-pathway-interferon-gamma-tumor-cell.html)
 * [2023-10-11, 01:22:18](https://news.ycombinator.com/item?id=37839884) - [First evidence that albatrosses use infrasound to navigate long journeys](https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 * [2023-10-11, 01:00:29](https://news.ycombinator.com/item?id=37839759) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
