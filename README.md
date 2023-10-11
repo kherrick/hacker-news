@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 09:45:35](https://news.ycombinator.com/item?id=37842562) - [A case for the capacity to reason of GPT-4](https://lajili.com/posts/post-3/)
 * [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 * [2023-10-11, 08:44:22](https://news.ycombinator.com/item?id=37842239) - [ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
@@ -27,7 +28,6 @@
 * [2023-10-10, 16:55:13](https://news.ycombinator.com/item?id=37834552) - [The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
 * [2023-10-10, 16:54:55](https://news.ycombinator.com/item?id=37834550) - [Rotary Woofer (2006)](http://www.rotarywoofer.com/)
 * [2023-10-10, 10:23:38](https://news.ycombinator.com/item?id=37830342) - [Common Lisp: An Interactive Approach (1992) [pdf]](https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf)
-* [2023-10-09, 22:42:12](https://news.ycombinator.com/item?id=37826362) - [A history of Ireland in 100 goodbyes](https://www.irishtimes.com/opinion/an-irish-diary/2023/09/29/a-history-of-ireland-in-100-goodbyes/)
 * [2023-10-09, 22:40:02](https://news.ycombinator.com/item?id=37826345) - [A dictionary of modern slang, cant, and vulgar words (1860)](https://publicdomainreview.org/collection/dictionary-of-modern-slang/)
 * [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney packed big emotion into a little robot](https://spectrum.ieee.org/disney-robot)
 
