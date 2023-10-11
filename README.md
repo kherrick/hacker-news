@@ -15,7 +15,6 @@
 * [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
 * [2023-10-11, 18:11:08](https://news.ycombinator.com/item?id=37848115) - [Vine Robots: Learn to Make Your Own](https://www.vinerobots.org/)
 * [2023-10-11, 17:47:23](https://news.ycombinator.com/item?id=37847782) - [Wordpress.com Now Supports ActivityPub](https://wordpress.com/blog/2023/10/11/activitypub/)
-* [2023-10-11, 17:25:40](https://news.ycombinator.com/item?id=37847454) - [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
 * [2023-10-11, 16:15:02](https://news.ycombinator.com/item?id=37846387) - [M2 Ultra can run 128 streams of Llama 2 7B in parallel](https://github.com/ggerganov/llama.cpp/pull/3228)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The deep link equating math proofs and computer programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
@@ -23,13 +22,14 @@
 * [2023-10-11, 13:45:11](https://news.ycombinator.com/item?id=37844305) - [SQL reserved words – An empirical list](https://modern-sql.com/reserved-words-empirical-list)
 * [2023-10-11, 13:10:06](https://news.ycombinator.com/item?id=37843907) - [Show HN: OpenLLMetry – OpenTelemetry-based observability for LLMs](https://github.com/traceloop/openllmetry)
 * [2023-10-11, 10:02:10](https://news.ycombinator.com/item?id=37842645) - [Jumperless: Breadboard Without Jumper](https://hackaday.io/project/191238-jumperless)
-* [2023-10-11, 09:56:39](https://news.ycombinator.com/item?id=37842618) - [Mistral 7B](https://arxiv.org/abs/2310.06825)
 * [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why Are There So Many Colourful Houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
+* [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 * [2023-10-11, 07:58:46](https://news.ycombinator.com/item?id=37842006) - [Ancient Babylonian Algorithms](https://fermatslibrary.com/s/ancient-babylonian-algorithms)
 * [2023-10-11, 05:43:56](https://news.ycombinator.com/item?id=37841344) - [Exploring the space-time-stench continuum, where no nose has gone before](https://whyy.org/segments/exploring-the-space-time-stench-continuum-where-no-nose-has-gone-before/)
 * [2023-10-11, 05:18:52](https://news.ycombinator.com/item?id=37841170) - [Deja News joins antispam war (1997)](https://www.cnet.com/tech/services-and-software/deja-news-joins-antispam-war/)
 * [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
 * [2023-10-11, 01:22:18](https://news.ycombinator.com/item?id=37839884) - [Evidence that albatrosses use infrasound to navigate long journeys](https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html)
+* [2023-10-10, 14:58:50](https://news.ycombinator.com/item?id=37832949) - [Why is there a \"Tech, Media, Telecom\" sector?](https://capitalgains.thediff.co/p/tmt)
 
 ## [Archives](archives/index.md)
 
