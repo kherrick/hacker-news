@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 03:24:48](https://news.ycombinator.com/item?id=37840532) - [Californians will be able to delete all personal online data in first-in-US law](https://www.theguardian.com/technology/2023/oct/10/california-delete-act-signed-newsom)
 * [2023-10-11, 02:36:18](https://news.ycombinator.com/item?id=37840275) - [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
 * [2023-10-11, 02:24:15](https://news.ycombinator.com/item?id=37840200) - [The Basics of Photovoltaic Systems: How They Work](https://mercurialtrends.com/the-basics-of-photovoltaic-systems-how-they-work/)
 * [2023-10-11, 02:15:39](https://news.ycombinator.com/item?id=37840158) - [What I Learned About MP3 Encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
@@ -13,7 +14,6 @@
 * [2023-10-10, 20:15:46](https://news.ycombinator.com/item?id=37836889) - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 * [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
 * [2023-10-10, 17:46:58](https://news.ycombinator.com/item?id=37835143) - [Engineered material can reconnect severed nerves](https://news.rice.edu/news/2023/rice-engineered-material-can-reconnect-severed-nerves)
-* [2023-10-10, 17:29:41](https://news.ycombinator.com/item?id=37834946) - [US sues eBay for allowing sale of emissions defeat devices](https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices)
 * [2023-10-10, 16:54:55](https://news.ycombinator.com/item?id=37834550) - [Rotary Woofer (2006)](http://www.rotarywoofer.com/)
 * [2023-10-10, 16:45:47](https://news.ycombinator.com/item?id=37834437) - [Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API](https://github.com/kohlschutter/jdk.compiler.standalone)
 * [2023-10-10, 15:23:57](https://news.ycombinator.com/item?id=37833278) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
