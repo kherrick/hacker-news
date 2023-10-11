@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-11, 13:15:39](https://news.ycombinator.com/item?id=37843961) - [EU says X hosts \"illegal content\" connected to Israel-Hamas war](https://twitter.com/ThierryBreton/status/1711808891757944866)
+* [2023-10-11, 13:14:12](https://news.ycombinator.com/item?id=37843946) - [New Vulkan Documentation Website](https://docs.vulkan.org/)
+* [2023-10-11, 13:10:14](https://news.ycombinator.com/item?id=37843908) - [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
+* [2023-10-11, 13:04:53](https://news.ycombinator.com/item?id=37843855) - [I'm Sorry I Bit You During My Job Interview](https://www.mcsweeneys.net/articles/im-sorry-i-bit-you-during-my-job-interview)
 * [2023-10-11, 12:30:10](https://news.ycombinator.com/item?id=37843595) - [\"We'll call it AI to sell it, Machine Learning to Build it\"](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
 * [2023-10-11, 12:26:51](https://news.ycombinator.com/item?id=37843578) - [Stockholm to ban petrol and diesel cars from centre from 2025](https://www.theguardian.com/world/2023/oct/11/stockholm-ban-petrol-and-diesel-cars-city-centre-2025-swedish-capital-pollution)
 * [2023-10-11, 12:26:19](https://news.ycombinator.com/item?id=37843570) - [Bookworm – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
@@ -12,8 +14,6 @@
 * [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Open-source network emulators and simulators](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
-* [2023-10-11, 08:10:45](https://news.ycombinator.com/item?id=37842075) - [Coordinated Disclosure: 1-Click RCE on Gnome (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
-* [2023-10-11, 07:34:22](https://news.ycombinator.com/item?id=37841891) - [Buildkite has quietly removed their $9 \"Team\" plan](https://buildkite.com/pricing)
 * [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 * [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
