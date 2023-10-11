@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-11, 22:33:59](https://news.ycombinator.com/item?id=37851210) - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-11, 22:17:47](https://news.ycombinator.com/item?id=37851029) - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 * [2023-10-11, 22:08:13](https://news.ycombinator.com/item?id=37850930) - [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
 * [2023-10-11, 22:01:23](https://news.ycombinator.com/item?id=37850833) - [Evolving ArangoDB's Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
@@ -18,6 +17,7 @@
 * [2023-10-11, 18:25:37](https://news.ycombinator.com/item?id=37848321) - [Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 * [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
 * [2023-10-11, 18:11:08](https://news.ycombinator.com/item?id=37848115) - [Vine Robots: Learn to Make Your Own](https://www.vinerobots.org/)
+* [2023-10-11, 17:47:23](https://news.ycombinator.com/item?id=37847782) - [Wordpress.com Now Supports ActivityPub](https://wordpress.com/blog/2023/10/11/activitypub/)
 * [2023-10-11, 16:15:02](https://news.ycombinator.com/item?id=37846387) - [M2 Ultra can run 128 streams of Llama 2 7B in parallel](https://github.com/ggerganov/llama.cpp/pull/3228)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The deep link equating math proofs and computer programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
