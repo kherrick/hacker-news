@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 21:11:24",
+      "https://news.ycombinator.com/item?id=37850309"
+    ],
+    [
+      "Replacing Engineering Managers with AI Agents",
+      "https://www.engineeringcalm.com/p/replacing-engineering-managers-with"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 21:06:44",
       "https://news.ycombinator.com/item?id=37850265"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2023-10-11, 21:05:20",
+      "https://news.ycombinator.com/item?id=37850246"
+    ],
+    [
+      "Railroad \"Time Zones\" of the United States (1868)",
+      "http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 21:01:17",
+      "https://news.ycombinator.com/item?id=37850205"
+    ],
+    [
+      "Show HN: See library availabilities for your Goodreads Want to Read list",
+      "https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 21:00:33",
       "https://news.ycombinator.com/item?id=37850194"
     ],
     [
       "Handle.com (YC W19) Is Hiring (ABM Manager)",
       "https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 20:54:03",
+      "https://news.ycombinator.com/item?id=37850122"
+    ],
+    [
+      "Google Is Going to Court for the First Time over Alleged Pay Discrimination",
+      "https://www.forbesafrica.com/technology/2023/10/11/google-is-going-to-court-for-the-first-time-over-alleged-pay-discrimination/"
     ]
   ],
   [
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2023-10-11, 16:21:06",
-      "https://news.ycombinator.com/item?id=37846471"
-    ],
-    [
-      "How to legally pirate every font",
-      "https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 16:15:02",
       "https://news.ycombinator.com/item?id=37846387"
     ],
     [
       "M2 Ultra can run 128 streams of Llama 2 7B in parallel",
       "https://github.com/ggerganov/llama.cpp/pull/3228"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 15:39:49",
-      "https://news.ycombinator.com/item?id=37845903"
-    ],
-    [
-      "K3s – Lightweight Kubernetes",
-      "https://k3s.io/"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Modern Pascal is still in the race (2022)",
       "https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 13:58:08",
-      "https://news.ycombinator.com/item?id=37844478"
-    ],
-    [
-      "Krita 5.2",
-      "https://krita.org/en/item/krita-5-2-released/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-10-11, 12:22:31",
-      "https://news.ycombinator.com/item?id=37843534"
-    ],
-    [
-      "Numbered block parameters in Ruby",
-      "https://zverok.space/blog/2023-10-11-syntax-sugar1-numeric-block-args.html"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 10:02:10",
       "https://news.ycombinator.com/item?id=37842645"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-10-11, 08:56:54",
-      "https://news.ycombinator.com/item?id=37842301"
+      "2023-10-11, 09:30:57",
+      "https://news.ycombinator.com/item?id=37842492"
     ],
     [
-      "Toxiproxy – simulate network and system conditions for chaos testing",
-      "https://github.com/Shopify/toxiproxy"
+      "Why Are There So Many Colourful Houses in Bristol?",
+      "https://secretbristol.com/colourful-houses-bristol/"
     ]
   ],
   [
@@ -257,6 +257,16 @@
     [
       "Ancient Babylonian Algorithms",
       "https://fermatslibrary.com/s/ancient-babylonian-algorithms"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 05:43:56",
+      "https://news.ycombinator.com/item?id=37841344"
+    ],
+    [
+      "Exploring the space-time-stench continuum, where no nose has gone before",
+      "https://whyy.org/segments/exploring-the-space-time-stench-continuum-where-no-nose-has-gone-before/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Evidence that albatrosses use infrasound to navigate long journeys",
       "https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 14:58:50",
-      "https://news.ycombinator.com/item?id=37832949"
-    ],
-    [
-      "Why is there a \"Tech, Media, Telecom\" sector?",
-      "https://capitalgains.thediff.co/p/tmt"
     ]
   ]
 ]
