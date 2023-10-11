@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 22:33:59",
+      "https://news.ycombinator.com/item?id=37851210"
+    ],
+    [
+      "Snmalloc: A Message Passing Allocator",
+      "https://github.com/microsoft/snmalloc"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 22:17:47",
       "https://news.ycombinator.com/item?id=37851029"
     ],
@@ -207,16 +217,6 @@
     [
       "Modern Pascal is still in the race (2022)",
       "https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 13:58:08",
-      "https://news.ycombinator.com/item?id=37844478"
-    ],
-    [
-      "Krita 5.2",
-      "https://krita.org/en/item/krita-5-2-released/"
     ]
   ],
   [
