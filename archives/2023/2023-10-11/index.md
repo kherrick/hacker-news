@@ -8,6 +8,7 @@
 * [2023-10-11, 22:17:47](https://news.ycombinator.com/item?id=37851029) - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 * [2023-10-11, 22:08:13](https://news.ycombinator.com/item?id=37850930) - [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
 * [2023-10-11, 22:01:23](https://news.ycombinator.com/item?id=37850833) - [Evolving ArangoDB's Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
+* [2023-10-11, 21:47:09](https://news.ycombinator.com/item?id=37850664) - [Galaksija: The Soviet-Era, Z80-based microcomputer](https://spectrum.ieee.org/yugoslavia-diy-microcomputer)
 * [2023-10-11, 21:40:39](https://news.ycombinator.com/item?id=37850593) - [Why single-submission policies need to die (and what to do in the meantime)](https://www.nature.com/articles/d41586-023-03196-y)
 * [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in asteroid sample–possible clues to life's origin](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
 * [2023-10-11, 21:28:55](https://news.ycombinator.com/item?id=37850485) - [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
