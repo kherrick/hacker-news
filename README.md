@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
+* [2023-10-11, 17:45:39](https://news.ycombinator.com/item?id=37847761) - [Ask HN: How YouTube is recommending Chrome in middle of monopoly trial?](https://news.ycombinator.com/item?id=37847761)
 * [2023-10-11, 17:25:40](https://news.ycombinator.com/item?id=37847454) - [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
 * [2023-10-11, 17:24:17](https://news.ycombinator.com/item?id=37847433) - [Amazon rainforest is on fire, this video was recorded by a friend.](https://www.youtube.com/watch?v=miR-kXE9uEQ)
-* [2023-10-11, 16:37:41](https://news.ycombinator.com/item?id=37846706) - [Micro-AGI-JS Artificial General Intelligence for JavaScript](https://github.com/AlessandroAnnini/micro-agi-js)
 * [2023-10-11, 16:22:05](https://news.ycombinator.com/item?id=37846485) - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
 * [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
 * [2023-10-11, 15:39:49](https://news.ycombinator.com/item?id=37845903) - [K3s – Lightweight Kubernetes](https://k3s.io/)
