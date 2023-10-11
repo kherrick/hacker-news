@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 16:53:10](https://news.ycombinator.com/item?id=37846953) - [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
 * [2023-10-11, 16:45:04](https://news.ycombinator.com/item?id=37846821) - [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
 * [2023-10-11, 16:27:59](https://news.ycombinator.com/item?id=37846556) - [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
+* [2023-10-11, 16:22:05](https://news.ycombinator.com/item?id=37846485) - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
 * [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font on Earth in an afternoon](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
 * [2023-10-11, 16:20:27](https://news.ycombinator.com/item?id=37846464) - [California Right to Repair Signed into Law](https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law)
 * [2023-10-11, 15:39:49](https://news.ycombinator.com/item?id=37845903) - [K3s – Lightweight Kubernetes](https://k3s.io/)
@@ -24,6 +26,7 @@
 * [2023-10-11, 13:15:39](https://news.ycombinator.com/item?id=37843961) - [EU says X hosts \"illegal content\" connected to Israel-Hamas war](https://twitter.com/ThierryBreton/status/1711808891757944866)
 * [2023-10-11, 13:14:12](https://news.ycombinator.com/item?id=37843946) - [New Vulkan Documentation Website](https://docs.vulkan.org/)
 * [2023-10-11, 13:10:14](https://news.ycombinator.com/item?id=37843908) - [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
+* [2023-10-11, 13:10:06](https://news.ycombinator.com/item?id=37843907) - [Show HN: OpenLLMetry – OpenTelemetry-based observability for LLMs](https://github.com/traceloop/openllmetry)
 * [2023-10-11, 13:04:53](https://news.ycombinator.com/item?id=37843855) - [I'm Sorry I Bit You During My Job Interview](https://www.mcsweeneys.net/articles/im-sorry-i-bit-you-during-my-job-interview)
 * [2023-10-11, 12:32:57](https://news.ycombinator.com/item?id=37843621) - [Show HN: Speech Meter – Improve Your English Pronunciation](https://speechmeter.com/)
 * [2023-10-11, 12:30:10](https://news.ycombinator.com/item?id=37843595) - [\"We'll call it AI to sell it, Machine Learning to Build it\"](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
@@ -41,6 +44,7 @@
 * [2023-10-11, 08:44:22](https://news.ycombinator.com/item?id=37842239) - [ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
+* [2023-10-11, 08:21:10](https://news.ycombinator.com/item?id=37842137) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
 * [2023-10-11, 08:10:45](https://news.ycombinator.com/item?id=37842075) - [Coordinated Disclosure: 1-Click RCE on Gnome (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-11, 07:34:22](https://news.ycombinator.com/item?id=37841891) - [Buildkite has quietly removed their $9 \"Team\" plan](https://buildkite.com/pricing)
 * [2023-10-11, 07:15:15](https://news.ycombinator.com/item?id=37841804) - [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
