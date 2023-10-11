@@ -7,6 +7,7 @@
 * [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 * [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 05:58:46](https://news.ycombinator.com/item?id=37841409) - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
+* [2023-10-11, 05:47:19](https://news.ycombinator.com/item?id=37841363) - [\"MP3 is dead\" missed the real, much better story (2017)](https://marco.org/2017/05/15/mp3-isnt-dead)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
 * [2023-10-11, 03:53:15](https://news.ycombinator.com/item?id=37840685) - [Does employer have to tell if they're spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
