@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
+* [2023-10-11, 13:38:32](https://news.ycombinator.com/item?id=37844225) - [The acute suicide crisis among veterinarians: 'You're always failing somebody'](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
+* [2023-10-11, 13:26:02](https://news.ycombinator.com/item?id=37844074) - [Farm in Kenya to produce fertilizer without using fossil fuels](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
 * [2023-10-11, 13:15:39](https://news.ycombinator.com/item?id=37843961) - [EU says X hosts \"illegal content\" connected to Israel-Hamas war](https://twitter.com/ThierryBreton/status/1711808891757944866)
 * [2023-10-11, 13:14:12](https://news.ycombinator.com/item?id=37843946) - [New Vulkan Documentation Website](https://docs.vulkan.org/)
 * [2023-10-11, 13:10:14](https://news.ycombinator.com/item?id=37843908) - [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
