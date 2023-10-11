@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 23:59:00](https://news.ycombinator.com/item?id=37839326) - [Going Faster by Duplicating Code](https://voidstar.tech/code_duplication/)
 * [2023-10-10, 23:17:03](https://news.ycombinator.com/item?id=37839000) - [SQLite needs testers for the new binary JSON format](https://sqlite.org/forum/forumpost/8687d4ad36)
 * [2023-10-10, 23:13:12](https://news.ycombinator.com/item?id=37838964) - [Californians now able to one-click purge all of their data from all data brokers](https://www.tomkemp.ai/blog/2023/10/10/analysis-of-the-california-delete-act-sb-362-signed-into-law)
 * [2023-10-10, 23:09:43](https://news.ycombinator.com/item?id=37838943) - [Polymathic AI](https://polymathic-ai.org/blog/announcement/)
+* [2023-10-10, 22:39:00](https://news.ycombinator.com/item?id=37838636) - [Microsoft says VBScript will be ripped from Windows in a future release](https://www.theregister.com/2023/10/10/microsoft_says_vbscript_will_be/)
 * [2023-10-10, 22:26:50](https://news.ycombinator.com/item?id=37838521) - [California becomes first US state to ban 4 potentially harmful chemicals in food](https://www.cnn.com/2023/10/09/health/california-governor-bans-red-dye-no-3-wellness/index.html)
 * [2023-10-10, 21:53:09](https://news.ycombinator.com/item?id=37838120) - [Toyota CEO: \"Our ammonia engine is the end of EV's\" [video]](https://www.youtube.com/watch?v=Pcm4fCDQ4dY)
 * [2023-10-10, 21:15:40](https://news.ycombinator.com/item?id=37837620) - [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
+* [2023-10-10, 21:00:55](https://news.ycombinator.com/item?id=37837403) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-10, 20:50:25](https://news.ycombinator.com/item?id=37837278) - [California mandates VC firms to release investments' diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
 * [2023-10-10, 20:49:45](https://news.ycombinator.com/item?id=37837275) - [Mercedes-Benz eActros 600 e-truck](https://www.mercedes-benz-trucks.com/en_GB/emobility/world/our-offer.html)
 * [2023-10-10, 20:48:26](https://news.ycombinator.com/item?id=37837261) - [Why Generative AI Is Currently Doomed](https://twitter.com/The_AI_Skeptic/status/1711791691412250816)
@@ -83,6 +86,7 @@
 * [2023-10-10, 07:55:58](https://news.ycombinator.com/item?id=37829551) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 07:25:48](https://news.ycombinator.com/item?id=37829395) - [How Netflix Really Uses Java](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
 * [2023-10-10, 06:20:58](https://news.ycombinator.com/item?id=37829061) - [A real-time 3D digital map of Tokyo's public transport system](https://minitokyo3d.com)
+* [2023-10-10, 06:20:43](https://news.ycombinator.com/item?id=37829060) - [Soft Orders of Magnitude](https://belkadan.com/blog/2023/10/Soft-Orders-of-Magnitude/)
 * [2023-10-10, 05:49:57](https://news.ycombinator.com/item?id=37828920) - [Plato and the Nerd](https://direct.mit.edu/books/oa-monograph/3527/Plato-and-the-NerdThe-Creative-Partnership-of)
 * [2023-10-10, 05:48:08](https://news.ycombinator.com/item?id=37828910) - [Weekdays with Pope Gregory](https://leancrew.com/all-this/2023/10/weekdays-with-pope-gregory/)
 * [2023-10-10, 04:06:34](https://news.ycombinator.com/item?id=37828416) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
