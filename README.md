@@ -6,7 +6,7 @@
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 * [2023-10-11, 08:10:45](https://news.ycombinator.com/item?id=37842075) - [Coordinated Disclosure: 1-Click RCE on Gnome (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
-* [2023-10-11, 06:39:01](https://news.ycombinator.com/item?id=37841635) - [Thunderbird still can't sort messages within a thread after 15 years.](https://bugzilla.mozilla.org/show_bug.cgi?id=479969)
+* [2023-10-11, 07:34:22](https://news.ycombinator.com/item?id=37841891) - [Buildkite has quietly removed their $9 \"Team\" plan](https://buildkite.com/pricing)
 * [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 * [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 05:47:19](https://news.ycombinator.com/item?id=37841363) - [\"MP3 is dead\" missed the real, much better story (2017)](https://marco.org/2017/05/15/mp3-isnt-dead)
