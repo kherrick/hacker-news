@@ -11,6 +11,7 @@
 * [2023-10-09, 22:42:12](https://news.ycombinator.com/item?id=37826362) - [A history of Ireland in 100 goodbyes](https://www.irishtimes.com/opinion/an-irish-diary/2023/09/29/a-history-of-ireland-in-100-goodbyes/)
 * [2023-10-09, 22:41:34](https://news.ycombinator.com/item?id=37826357) - [DSLinux – Linux for the Nintendo DS](https://www.dslinux.org/)
 * [2023-10-09, 22:41:02](https://news.ycombinator.com/item?id=37826352) - [Unity Announces Leadership Transition](https://investors.unity.com/news/news-details/2023/Unity-Announces-Leadership-Transition/default.aspx)
+* [2023-10-09, 22:40:02](https://news.ycombinator.com/item?id=37826345) - [A dictionary of modern slang, cant, and vulgar words (1860)](https://publicdomainreview.org/collection/dictionary-of-modern-slang/)
 * [2023-10-09, 22:37:15](https://news.ycombinator.com/item?id=37826321) - [Replit AI for All](https://blog.replit.com/ai4all)
 * [2023-10-09, 22:29:47](https://news.ycombinator.com/item?id=37826256) - [How to Make a Cantenna (2013)](https://jacobsalmela.com/2013/09/07/wi-fi-cantenna-2-4ghz-how-to-make-a-long-range-wi-fi-antenna/)
 * [2023-10-09, 22:09:44](https://news.ycombinator.com/item?id=37826095) - [Egyptian banks suspend debit card use in foreign currency](https://www.reuters.com/markets/currencies/egyptian-banks-suspend-debit-card-use-foreign-currency-2023-10-05/)
