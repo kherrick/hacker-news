@@ -24,6 +24,7 @@
 * [2023-10-11, 16:22:05](https://news.ycombinator.com/item?id=37846485) - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
 * [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font on Earth in an afternoon](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
 * [2023-10-11, 16:20:27](https://news.ycombinator.com/item?id=37846464) - [California Right to Repair Signed into Law](https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law)
+* [2023-10-11, 16:15:02](https://news.ycombinator.com/item?id=37846387) - [M2 Ultra can run 128 streams of Llama 2 7B in parallel](https://github.com/ggerganov/llama.cpp/pull/3228)
 * [2023-10-11, 15:50:05](https://news.ycombinator.com/item?id=37846044) - [RankVicuna: Open Source Zero-Shot Listwise Document Reranking](https://paperswithcode.com/paper/rankvicuna-zero-shot-listwise-document)
 * [2023-10-11, 15:39:49](https://news.ycombinator.com/item?id=37845903) - [K3s – Lightweight Kubernetes](https://k3s.io/)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
