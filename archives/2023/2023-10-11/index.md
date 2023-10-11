@@ -14,6 +14,7 @@
 * [2023-10-11, 02:36:18](https://news.ycombinator.com/item?id=37840275) - [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
 * [2023-10-11, 02:26:53](https://news.ycombinator.com/item?id=37840213) - ['Overhyped' generative AI will get a 'cold shower' in 2024, analysts predict](https://www.cnbc.com/2023/10/10/generative-ai-will-get-a-cold-shower-in-2024-analysts-predict.html)
 * [2023-10-11, 02:24:15](https://news.ycombinator.com/item?id=37840200) - [The Basics of Photovoltaic Systems: How They Work](https://mercurialtrends.com/the-basics-of-photovoltaic-systems-how-they-work/)
+* [2023-10-11, 02:19:29](https://news.ycombinator.com/item?id=37840172) - [Microgravity-induced muscle atrophy: Implications for long-duration spaceflights](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023)
 * [2023-10-11, 02:15:39](https://news.ycombinator.com/item?id=37840158) - [What I Learned About MP3 Encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
 * [2023-10-11, 02:01:18](https://news.ycombinator.com/item?id=37840107) - [GHC 9.8.1 has been released](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)

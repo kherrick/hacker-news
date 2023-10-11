@@ -18,6 +18,7 @@
 * [2023-10-10, 20:48:26](https://news.ycombinator.com/item?id=37837261) - [Why Generative AI Is Currently Doomed](https://twitter.com/The_AI_Skeptic/status/1711791691412250816)
 * [2023-10-10, 20:29:15](https://news.ycombinator.com/item?id=37837043) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform all by myself](https://www.tradingdigits.io/)
+* [2023-10-10, 20:21:03](https://news.ycombinator.com/item?id=37836946) - [Problems with default function arguments (2020)](https://quuxplusone.github.io/blog/2020/04/18/default-function-arguments-are-the-devil/)
 * [2023-10-10, 20:15:46](https://news.ycombinator.com/item?id=37836889) - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 * [2023-10-10, 20:01:07](https://news.ycombinator.com/item?id=37836733) - [You can buy teeth online](https://www.toothantique.com/)
 * [2023-10-10, 19:55:29](https://news.ycombinator.com/item?id=37836668) - [Thought Propagation: An Analogical Approach to Complex Reasoning with LLMs](https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to)
