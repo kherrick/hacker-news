@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 16:45:04](https://news.ycombinator.com/item?id=37846821) - [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
 * [2023-10-11, 16:27:59](https://news.ycombinator.com/item?id=37846556) - [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
 * [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font on Earth in an afternoon](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
 * [2023-10-11, 16:20:27](https://news.ycombinator.com/item?id=37846464) - [California Right to Repair Signed into Law](https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law)

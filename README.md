@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 16:45:04](https://news.ycombinator.com/item?id=37846821) - [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
 * [2023-10-11, 16:27:59](https://news.ycombinator.com/item?id=37846556) - [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
 * [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font on Earth in an afternoon](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
 * [2023-10-11, 16:20:27](https://news.ycombinator.com/item?id=37846464) - [California Right to Repair Signed into Law](https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law)
@@ -23,7 +24,6 @@
 * [2023-10-11, 09:56:39](https://news.ycombinator.com/item?id=37842618) - [Mistral 7B](https://arxiv.org/abs/2310.06825)
 * [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Open-source network emulators and simulators](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
-* [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 * [2023-10-11, 03:17:17](https://news.ycombinator.com/item?id=37840497) - [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
