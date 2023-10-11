@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 22:33:59](https://news.ycombinator.com/item?id=37851210) - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-11, 22:17:47](https://news.ycombinator.com/item?id=37851029) - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 * [2023-10-11, 22:08:13](https://news.ycombinator.com/item?id=37850930) - [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
 * [2023-10-11, 22:01:23](https://news.ycombinator.com/item?id=37850833) - [Evolving ArangoDB's Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
@@ -21,7 +22,6 @@
 * [2023-10-11, 16:15:02](https://news.ycombinator.com/item?id=37846387) - [M2 Ultra can run 128 streams of Llama 2 7B in parallel](https://github.com/ggerganov/llama.cpp/pull/3228)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The deep link equating math proofs and computer programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
-* [2023-10-11, 13:58:08](https://news.ycombinator.com/item?id=37844478) - [Krita 5.2](https://krita.org/en/item/krita-5-2-released/)
 * [2023-10-11, 13:45:11](https://news.ycombinator.com/item?id=37844305) - [SQL reserved words – An empirical list](https://modern-sql.com/reserved-words-empirical-list)
 * [2023-10-11, 13:10:06](https://news.ycombinator.com/item?id=37843907) - [Show HN: OpenLLMetry – OpenTelemetry-based observability for LLMs](https://github.com/traceloop/openllmetry)
 * [2023-10-11, 11:51:08](https://news.ycombinator.com/item?id=37843319) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)
