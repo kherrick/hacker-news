@@ -43,6 +43,7 @@
 * [2023-10-11, 12:22:31](https://news.ycombinator.com/item?id=37843534) - [\"Useless syntax sugar\": Numbered block parameters in Ruby](https://zverok.space/blog/2023-10-11-syntax-sugar1-numeric-block-args.html)
 * [2023-10-11, 11:53:23](https://news.ycombinator.com/item?id=37843334) - [Show HN: Netflix for AI-Generated Videos](https://lucidbox.net/)
 * [2023-10-11, 11:35:46](https://news.ycombinator.com/item?id=37843214) - [New study will examine irritable bowel syndrome as long Covid symptom](https://healthsciences.arizona.edu/newsroom/news-releases/0923/new-study-will-examine-irritable-bowel-syndrome-long-covid-symptom)
+* [2023-10-11, 11:03:13](https://news.ycombinator.com/item?id=37842993) - [In Search of Writers' Haunts](https://themillions.com/2023/10/in-search-of-writers-haunts-bruce-chatwin.html)
 * [2023-10-11, 10:43:00](https://news.ycombinator.com/item?id=37842863) - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
 * [2023-10-11, 10:24:41](https://news.ycombinator.com/item?id=37842778) - [Cypress.io Blocking of Sorry Cypress and Currents](https://currents.dev/posts/v13-blocking)
 * [2023-10-11, 09:56:39](https://news.ycombinator.com/item?id=37842618) - [Mistral 7B Paper on ArXiv](https://arxiv.org/abs/2310.06825)
