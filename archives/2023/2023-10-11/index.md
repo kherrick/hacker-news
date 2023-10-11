@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 18:51:37](https://news.ycombinator.com/item?id=37848685) - [Asphalt-related emissions are a major missing source of air pollution (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
+* [2023-10-11, 18:49:53](https://news.ycombinator.com/item?id=37848662) - [British Sandwiches and Walking 300km of Wainwright's Coast to Coast](https://craigmod.com/ridgeline/167/)
 * [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
 * [2023-10-11, 17:47:23](https://news.ycombinator.com/item?id=37847782) - [Wordpress.com Now Supports ActivityPub](https://wordpress.com/blog/2023/10/11/activitypub/)
 * [2023-10-11, 17:45:39](https://news.ycombinator.com/item?id=37847761) - [Ask HN: How YouTube is recommending Chrome in middle of monopoly trial?](https://news.ycombinator.com/item?id=37847761)
