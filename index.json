@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-10-11, 17:25:40",
-      "https://news.ycombinator.com/item?id=37847454"
-    ],
-    [
-      "Google Cloud Spanner is now half the cost of Amazon DynamoDB",
-      "https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 16:15:02",
       "https://news.ycombinator.com/item?id=37846387"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2023-10-11, 09:56:39",
-      "https://news.ycombinator.com/item?id=37842618"
-    ],
-    [
-      "Mistral 7B",
-      "https://arxiv.org/abs/2310.06825"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 09:30:57",
       "https://news.ycombinator.com/item?id=37842492"
     ],
     [
       "Why Are There So Many Colourful Houses in Bristol?",
       "https://secretbristol.com/colourful-houses-bristol/"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 08:56:54",
+      "https://news.ycombinator.com/item?id=37842301"
+    ],
+    [
+      "Toxiproxy – simulate network and system conditions for chaos testing",
+      "https://github.com/Shopify/toxiproxy"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Evidence that albatrosses use infrasound to navigate long journeys",
       "https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 14:58:50",
+      "https://news.ycombinator.com/item?id=37832949"
+    ],
+    [
+      "Why is there a \"Tech, Media, Telecom\" sector?",
+      "https://capitalgains.thediff.co/p/tmt"
     ]
   ]
 ]
