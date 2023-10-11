@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 15:39:49](https://news.ycombinator.com/item?id=37845903) - [K3s – Lightweight Kubernetes](https://k3s.io/)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:51:52](https://news.ycombinator.com/item?id=37845188) - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
 * [2023-10-11, 14:46:12](https://news.ycombinator.com/item?id=37845101) - [Bad Speech](https://amadeuspagel.com/p/bad-speech)

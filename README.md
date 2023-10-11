@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 15:39:49](https://news.ycombinator.com/item?id=37845903) - [K3s – Lightweight Kubernetes](https://k3s.io/)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:51:52](https://news.ycombinator.com/item?id=37845188) - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
 * [2023-10-11, 14:46:12](https://news.ycombinator.com/item?id=37845101) - [Bad Speech](https://amadeuspagel.com/p/bad-speech)
@@ -27,7 +28,6 @@
 * [2023-10-11, 03:17:17](https://news.ycombinator.com/item?id=37840497) - [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 * [2023-10-11, 01:22:18](https://news.ycombinator.com/item?id=37839884) - [Evidence that albatrosses use infrasound to navigate long journeys](https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
-* [2023-10-11, 00:52:07](https://news.ycombinator.com/item?id=37839696) - [Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)
 * [2023-10-10, 16:55:13](https://news.ycombinator.com/item?id=37834552) - [The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
 * [2023-10-10, 14:58:50](https://news.ycombinator.com/item?id=37832949) - [Why is there a \"Tech, Media, Telecom\" sector?](https://capitalgains.thediff.co/p/tmt)
 
