@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 05:58:46](https://news.ycombinator.com/item?id=37841409) - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
+* [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
 * [2023-10-11, 03:53:15](https://news.ycombinator.com/item?id=37840685) - [Does employer have to tell if they're spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
 * [2023-10-11, 03:34:33](https://news.ycombinator.com/item?id=37840581) - [Curl/libcurl HIGH CVE-2023-38545 leaked early?](https://gitlab.com/redhat/centos-stream/rpms/curl/-/commit/0783247f07250043dceb74e426f16f9d46147163#57c8706b6a9132202629833e05fd961bfcc66836)
