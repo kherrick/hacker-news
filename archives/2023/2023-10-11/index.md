@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
 * [2023-10-11, 03:24:48](https://news.ycombinator.com/item?id=37840532) - [Californians will be able to delete all personal online data in first-in-US law](https://www.theguardian.com/technology/2023/oct/10/california-delete-act-signed-newsom)
+* [2023-10-11, 03:19:28](https://news.ycombinator.com/item?id=37840511) - [Newsom signs bill that would make it easier to delete online personal data](https://www.latimes.com/california/story/2023-10-10/newsom-bill-delete-online-personal-data)
+* [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 * [2023-10-11, 02:36:18](https://news.ycombinator.com/item?id=37840275) - [CSS Is, in Fact, Awesome](https://css-tricks.com/css-is-in-fact-awesome/)
 * [2023-10-11, 02:26:53](https://news.ycombinator.com/item?id=37840213) - ['Overhyped' generative AI will get a 'cold shower' in 2024, analysts predict](https://www.cnbc.com/2023/10/10/generative-ai-will-get-a-cold-shower-in-2024-analysts-predict.html)
 * [2023-10-11, 02:24:15](https://news.ycombinator.com/item?id=37840200) - [The Basics of Photovoltaic Systems: How They Work](https://mercurialtrends.com/the-basics-of-photovoltaic-systems-how-they-work/)
