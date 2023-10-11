@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-10-11, 05:58:46",
-      "https://news.ycombinator.com/item?id=37841409"
+      "2023-10-11, 05:47:19",
+      "https://news.ycombinator.com/item?id=37841363"
     ],
     [
-      "curl - SOCKS5 heap buffer overflow - CVE-2023-38545",
-      "https://curl.se/docs/CVE-2023-38545.html"
+      "\"MP3 is dead\" missed the real, much better story (2017)",
+      "https://marco.org/2017/05/15/mp3-isnt-dead"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Spacedrive – an open source cross-platform file explorer",
       "https://github.com/spacedriveapp/spacedrive"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 03:34:33",
-      "https://news.ycombinator.com/item?id=37840581"
-    ],
-    [
-      "Curl/libcurl HIGH CVE-2023-38545 leaked early?",
-      "https://gitlab.com/redhat/centos-stream/rpms/curl/-/commit/0783247f07250043dceb74e426f16f9d46147163#57c8706b6a9132202629833e05fd961bfcc66836"
     ]
   ],
   [
@@ -251,6 +241,26 @@
   ],
   [
     [
+      "2023-10-10, 16:45:47",
+      "https://news.ycombinator.com/item?id=37834437"
+    ],
+    [
+      "Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API",
+      "https://github.com/kohlschutter/jdk.compiler.standalone"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 12:00:49",
+      "https://news.ycombinator.com/item?id=37830987"
+    ],
+    [
+      "The novel HTTP/2 'Rapid Reset' DDoS attack",
+      "https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 10:23:38",
       "https://news.ycombinator.com/item?id=37830342"
     ],
@@ -277,16 +287,6 @@
     [
       "A dictionary of modern slang, cant, and vulgar words (1860)",
       "https://publicdomainreview.org/collection/dictionary-of-modern-slang/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 17:32:37",
-      "https://news.ycombinator.com/item?id=37822937"
-    ],
-    [
-      "Becoming James Bond",
-      "https://literaryreview.co.uk/becoming-james-bond"
     ]
   ],
   [
