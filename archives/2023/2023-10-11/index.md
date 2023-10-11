@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 17:25:40](https://news.ycombinator.com/item?id=37847454) - [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
 * [2023-10-11, 16:53:10](https://news.ycombinator.com/item?id=37846953) - [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
 * [2023-10-11, 16:45:04](https://news.ycombinator.com/item?id=37846821) - [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
 * [2023-10-11, 16:38:54](https://news.ycombinator.com/item?id=37846727) - [So Far, AI Is a Money Pit That Isn't Paying Off](https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549)
@@ -12,6 +13,7 @@
 * [2023-10-11, 16:22:05](https://news.ycombinator.com/item?id=37846485) - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
 * [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font on Earth in an afternoon](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
 * [2023-10-11, 16:20:27](https://news.ycombinator.com/item?id=37846464) - [California Right to Repair Signed into Law](https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law)
+* [2023-10-11, 15:50:05](https://news.ycombinator.com/item?id=37846044) - [RankVicuna: Open Source Zero-Shot Listwise Document Reranking](https://paperswithcode.com/paper/rankvicuna-zero-shot-listwise-document)
 * [2023-10-11, 15:39:49](https://news.ycombinator.com/item?id=37845903) - [K3s – Lightweight Kubernetes](https://k3s.io/)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:51:52](https://news.ycombinator.com/item?id=37845188) - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
@@ -49,6 +51,7 @@
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 * [2023-10-11, 08:21:10](https://news.ycombinator.com/item?id=37842137) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
 * [2023-10-11, 08:10:45](https://news.ycombinator.com/item?id=37842075) - [Coordinated Disclosure: 1-Click RCE on Gnome (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
+* [2023-10-11, 07:58:46](https://news.ycombinator.com/item?id=37842006) - [Ancient Babylonian Algorithms](https://fermatslibrary.com/s/ancient-babylonian-algorithms)
 * [2023-10-11, 07:34:22](https://news.ycombinator.com/item?id=37841891) - [Buildkite has quietly removed their $9 \"Team\" plan](https://buildkite.com/pricing)
 * [2023-10-11, 07:15:15](https://news.ycombinator.com/item?id=37841804) - [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
 * [2023-10-11, 06:39:01](https://news.ycombinator.com/item?id=37841635) - [Thunderbird still can't sort messages within a thread after 15 years.](https://bugzilla.mozilla.org/show_bug.cgi?id=479969)
