@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 22:08:13](https://news.ycombinator.com/item?id=37850930) - [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
+* [2023-10-11, 22:01:23](https://news.ycombinator.com/item?id=37850833) - [Evolving ArangoDB's Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
 * [2023-10-11, 21:40:39](https://news.ycombinator.com/item?id=37850593) - [Why single-submission policies need to die (and what to do in the meantime)](https://www.nature.com/articles/d41586-023-03196-y)
 * [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in asteroid sample–possible clues to life's origin](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
+* [2023-10-11, 21:28:55](https://news.ycombinator.com/item?id=37850485) - [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
 * [2023-10-11, 21:11:24](https://news.ycombinator.com/item?id=37850309) - [Replacing Engineering Managers with AI Agents](https://www.engineeringcalm.com/p/replacing-engineering-managers-with)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
 * [2023-10-11, 21:05:20](https://news.ycombinator.com/item?id=37850246) - [Railroad \"Time Zones\" of the United States (1868)](http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html)
