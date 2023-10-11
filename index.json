@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-11, 05:58:46",
+      "https://news.ycombinator.com/item?id=37841409"
+    ],
+    [
+      "curl - SOCKS5 heap buffer overflow - CVE-2023-38545",
+      "https://curl.se/docs/CVE-2023-38545.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 04:54:07",
+      "https://news.ycombinator.com/item?id=37841013"
+    ],
+    [
+      "Spacedrive – an open source cross-platform file explorer",
+      "https://github.com/spacedriveapp/spacedrive"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 03:34:33",
       "https://news.ycombinator.com/item?id=37840581"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-10-10, 17:29:41",
-      "https://news.ycombinator.com/item?id=37834946"
-    ],
-    [
-      "US sues eBay for allowing sale of emissions defeat devices",
-      "https://www.thedrive.com/news/us-sues-ebay-for-allowing-sale-of-more-than-300000-emissions-defeat-devices"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 16:55:13",
       "https://news.ycombinator.com/item?id=37834552"
     ],
@@ -237,16 +247,6 @@
     [
       "Scheme in the browser: A Hoot of a tale",
       "https://spritely.institute/news/scheme-wireworld-in-browser.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 12:00:49",
-      "https://news.ycombinator.com/item?id=37830987"
-    ],
-    [
-      "The novel HTTP/2 'Rapid Reset' DDoS attack",
-      "https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack"
     ]
   ],
   [
