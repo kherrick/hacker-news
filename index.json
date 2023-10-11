@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 14:25:08",
+      "https://news.ycombinator.com/item?id=37844797"
+    ],
+    [
+      "Man trains home cameras to help repel badgers and foxes",
+      "https://www.bbc.co.uk/news/technology-67053171"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 14:15:52",
       "https://news.ycombinator.com/item?id=37844691"
     ],
@@ -27,6 +37,16 @@
     [
       "Modern Pascal is still in the race (2022)",
       "https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 13:45:11",
+      "https://news.ycombinator.com/item?id=37844305"
+    ],
+    [
+      "SQL Reserved Words – The Empirical List",
+      "https://modern-sql.com/reserved-words-empirical-list"
     ]
   ],
   [
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2023-10-11, 11:53:23",
+      "https://news.ycombinator.com/item?id=37843334"
+    ],
+    [
+      "Show HN: Netflix for AI-Generated Videos",
+      "https://lucidbox.net/"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 10:43:00",
       "https://news.ycombinator.com/item?id=37842863"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-10-11, 06:12:40",
-      "https://news.ycombinator.com/item?id=37841496"
-    ],
-    [
-      "How I Made a Heap Overflow in Curl",
-      "https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 04:54:07",
       "https://news.ycombinator.com/item?id=37841013"
     ],
@@ -207,6 +227,16 @@
     [
       "Pantographia: 1799 specimen book of all the known alphabets",
       "https://publicdomainreview.org/collection/pantographia/"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 01:22:18",
+      "https://news.ycombinator.com/item?id=37839884"
+    ],
+    [
+      "First evidence that albatrosses use infrasound to navigate long journeys",
+      "https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2023-10-11, 00:13:02",
-      "https://news.ycombinator.com/item?id=37839437"
-    ],
-    [
-      "Geospatial data science with Julia",
-      "https://juliaearth.github.io/geospatial-data-science-with-julia/"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 23:59:00",
       "https://news.ycombinator.com/item?id=37839326"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-10-10, 20:27:47",
-      "https://news.ycombinator.com/item?id=37837023"
-    ],
-    [
-      "How to Design a Vernacular Chair",
-      "https://christopherschwarz.substack.com/p/how-to-design-a-vernacular-chair"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 16:55:13",
       "https://news.ycombinator.com/item?id=37834552"
     ],
     [
       "The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)",
       "http://tom7.org/zelda/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 10:23:38",
-      "https://news.ycombinator.com/item?id=37830342"
-    ],
-    [
-      "Common Lisp: An Interactive Approach (1992) [pdf]",
-      "https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf"
     ]
   ]
 ]
