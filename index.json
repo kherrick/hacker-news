@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2023-10-11, 17:45:39",
-      "https://news.ycombinator.com/item?id=37847761"
-    ],
-    [
-      "Ask HN: How YouTube is recommending Chrome in middle of monopoly trial?",
-      "https://news.ycombinator.com/item?id=37847761"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 17:25:40",
       "https://news.ycombinator.com/item?id=37847454"
     ],
     [
       "Google Cloud Spanner is now half the cost of Amazon DynamoDB",
       "https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 17:24:17",
-      "https://news.ycombinator.com/item?id=37847433"
-    ],
-    [
-      "Amazon rainforest is on fire, this video was recorded by a friend.",
-      "https://www.youtube.com/watch?v=miR-kXE9uEQ"
     ]
   ],
   [
@@ -61,6 +41,16 @@
   ],
   [
     [
+      "2023-10-11, 15:50:05",
+      "https://news.ycombinator.com/item?id=37846044"
+    ],
+    [
+      "RankVicuna: Open Source Zero-Shot Listwise Document Reranking",
+      "https://paperswithcode.com/paper/rankvicuna-zero-shot-listwise-document"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 15:39:49",
       "https://news.ycombinator.com/item?id=37845903"
     ],
@@ -81,12 +71,12 @@
   ],
   [
     [
-      "2023-10-11, 14:46:12",
-      "https://news.ycombinator.com/item?id=37845101"
+      "2023-10-11, 14:29:15",
+      "https://news.ycombinator.com/item?id=37844850"
     ],
     [
-      "Bad Speech",
-      "https://amadeuspagel.com/p/bad-speech"
+      "Libraries with individually owned bookshelves spreading in Japan",
+      "https://www.japantimes.co.jp/culture/2023/10/03/libraries-individual-bookshelves/"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2023-10-11, 12:26:19",
+      "https://news.ycombinator.com/item?id=37843570"
+    ],
+    [
+      "Bookworm – the new version of Raspberry Pi OS",
+      "https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 12:22:31",
       "https://news.ycombinator.com/item?id=37843534"
     ],
@@ -227,6 +227,16 @@
     [
       "Toxiproxy – simulate network and system conditions for chaos testing",
       "https://github.com/Shopify/toxiproxy"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 08:23:20",
+      "https://news.ycombinator.com/item?id=37842161"
+    ],
+    [
+      "Open-source network emulators and simulators",
+      "https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Evidence that albatrosses use infrasound to navigate long journeys",
       "https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 16:55:13",
-      "https://news.ycombinator.com/item?id=37834552"
-    ],
-    [
-      "The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)",
-      "http://tom7.org/zelda/"
     ]
   ],
   [
