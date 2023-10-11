@@ -39,6 +39,7 @@
 * [2023-10-10, 17:22:43](https://news.ycombinator.com/item?id=37834861) - [Differences from Psycopg2](https://www.psycopg.org/psycopg3/docs/basic/from_pg2.html)
 * [2023-10-10, 17:15:11](https://news.ycombinator.com/item?id=37834761) - [Official CLI Tool for the Internet Archive](https://archive.org/developers/internetarchive/cli.html)
 * [2023-10-10, 17:13:03](https://news.ycombinator.com/item?id=37834731) - [Google is making their weak, flawed passkey system the default login method](https://lauren.vortex.com/2023/10/10/dont-use-google-passkeys-now)
+* [2023-10-10, 16:55:13](https://news.ycombinator.com/item?id=37834552) - [The GlEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
 * [2023-10-10, 16:54:55](https://news.ycombinator.com/item?id=37834550) - [Rotary Woofer (2006)](http://www.rotarywoofer.com/)
 * [2023-10-10, 16:54:51](https://news.ycombinator.com/item?id=37834549) - [Family Echo – Free online family tree maker](https://www.familyecho.com/)
 * [2023-10-10, 16:45:47](https://news.ycombinator.com/item?id=37834437) - [Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API](https://github.com/kohlschutter/jdk.compiler.standalone)
