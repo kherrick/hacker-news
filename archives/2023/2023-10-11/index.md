@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
 * [2023-10-11, 18:51:37](https://news.ycombinator.com/item?id=37848685) - [Asphalt-related emissions are a major missing source of air pollution (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
 * [2023-10-11, 18:49:53](https://news.ycombinator.com/item?id=37848662) - [British Sandwiches and Walking 300km of Wainwright's Coast to Coast](https://craigmod.com/ridgeline/167/)
 * [2023-10-11, 18:48:11](https://news.ycombinator.com/item?id=37848632) - [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
@@ -72,6 +73,7 @@
 * [2023-10-11, 05:47:19](https://news.ycombinator.com/item?id=37841363) - [\"MP3 is dead\" missed the real, much better story (2017)](https://marco.org/2017/05/15/mp3-isnt-dead)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
+* [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
 * [2023-10-11, 03:53:15](https://news.ycombinator.com/item?id=37840685) - [Does employer have to tell if they're spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
 * [2023-10-11, 03:34:33](https://news.ycombinator.com/item?id=37840581) - [Curl/libcurl HIGH CVE-2023-38545 leaked early?](https://gitlab.com/redhat/centos-stream/rpms/curl/-/commit/0783247f07250043dceb74e426f16f9d46147163#57c8706b6a9132202629833e05fd961bfcc66836)
 * [2023-10-11, 03:27:51](https://news.ycombinator.com/item?id=37840547) - [Rep. Thomas Massie Designs ESP32 Debt Badge to Wear in Congress](https://twitter.com/RepThomasMassie/status/1711758465406808553)
