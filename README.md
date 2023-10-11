@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 03:34:33](https://news.ycombinator.com/item?id=37840581) - [Curl/libcurl HIGH CVE-2023-38545 leaked early?](https://gitlab.com/redhat/centos-stream/rpms/curl/-/commit/0783247f07250043dceb74e426f16f9d46147163#57c8706b6a9132202629833e05fd961bfcc66836)
 * [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 * [2023-10-11, 03:17:17](https://news.ycombinator.com/item?id=37840497) - [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
-* [2023-10-11, 02:36:18](https://news.ycombinator.com/item?id=37840275) - [CSS is, in fact, awesome (2021)](https://css-tricks.com/css-is-in-fact-awesome/)
 * [2023-10-11, 02:24:15](https://news.ycombinator.com/item?id=37840200) - [The Basics of Photovoltaic Systems: How They Work](https://mercurialtrends.com/the-basics-of-photovoltaic-systems-how-they-work/)
 * [2023-10-11, 02:19:29](https://news.ycombinator.com/item?id=37840172) - [Microgravity-induced muscle atrophy: Implications for long-duration spaceflights](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023)
 * [2023-10-11, 02:15:39](https://news.ycombinator.com/item?id=37840158) - [What I learned about MP3 encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
