@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-10-10, 20:29:15",
-      "https://news.ycombinator.com/item?id=37837043"
-    ],
-    [
-      "HAProxy is not affected by the HTTP/2 Rapid Reset Attack",
-      "https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487"
-    ]
-  ],
-  [
-    [
       "2023-10-10, 20:15:46",
       "https://news.ycombinator.com/item?id=37836889"
     ],
@@ -147,6 +137,16 @@
     [
       "2000Ad announces retirement of John M. Burns",
       "https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 14:31:28",
+      "https://news.ycombinator.com/item?id=37832599"
+    ],
+    [
+      "HyperAttention: Long-Context Attention in Near-Linear Time",
+      "https://arxiv.org/abs/2310.05869"
     ]
   ],
   [
