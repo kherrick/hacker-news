@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 13:15:39](https://news.ycombinator.com/item?id=37843961) - [EU says X hosts \"illegal content\" connected to Israel-Hamas war](https://twitter.com/ThierryBreton/status/1711808891757944866)
 * [2023-10-11, 12:30:10](https://news.ycombinator.com/item?id=37843595) - [\"We'll call it AI to sell it, Machine Learning to Build it\"](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
+* [2023-10-11, 12:26:51](https://news.ycombinator.com/item?id=37843578) - [Stockholm to ban petrol and diesel cars from centre from 2025](https://www.theguardian.com/world/2023/oct/11/stockholm-ban-petrol-and-diesel-cars-city-centre-2025-swedish-capital-pollution)
 * [2023-10-11, 12:26:19](https://news.ycombinator.com/item?id=37843570) - [Bookworm – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 12:22:31](https://news.ycombinator.com/item?id=37843534) - [\"Useless syntax sugar\": Numbered block parameters in Ruby](https://zverok.space/blog/2023-10-11-syntax-sugar1-numeric-block-args.html)
 * [2023-10-11, 11:35:46](https://news.ycombinator.com/item?id=37843214) - [New study will examine irritable bowel syndrome as long Covid symptom](https://healthsciences.arizona.edu/newsroom/news-releases/0923/new-study-will-examine-irritable-bowel-syndrome-long-covid-symptom)
 * [2023-10-11, 10:43:00](https://news.ycombinator.com/item?id=37842863) - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
+* [2023-10-11, 10:24:41](https://news.ycombinator.com/item?id=37842778) - [Cypress.io Blocking of Sorry Cypress and Currents](https://currents.dev/posts/v13-blocking)
+* [2023-10-11, 09:56:39](https://news.ycombinator.com/item?id=37842618) - [Mistral 7B Paper on ArXiv](https://arxiv.org/abs/2310.06825)
 * [2023-10-11, 09:45:35](https://news.ycombinator.com/item?id=37842562) - [A case for the capacity to reason of GPT-4](https://lajili.com/posts/post-3/)
 * [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 * [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
