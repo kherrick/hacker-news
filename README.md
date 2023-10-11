@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 02:26:53](https://news.ycombinator.com/item?id=37840213) - ['Overhyped' generative AI will get a 'cold shower' in 2024, analysts predict](https://www.cnbc.com/2023/10/10/generative-ai-will-get-a-cold-shower-in-2024-analysts-predict.html)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 * [2023-10-11, 01:00:29](https://news.ycombinator.com/item?id=37839759) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-11, 00:13:02](https://news.ycombinator.com/item?id=37839437) - [Geospatial data science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
@@ -14,7 +15,6 @@
 * [2023-10-10, 16:45:47](https://news.ycombinator.com/item?id=37834437) - [Show HN: Standalone Jdk.compiler, Java Compiler Framework and Tree API](https://github.com/kohlschutter/jdk.compiler.standalone)
 * [2023-10-10, 15:23:57](https://news.ycombinator.com/item?id=37833278) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 14:35:46](https://news.ycombinator.com/item?id=37832662) - [2000Ad announces retirement of John M. Burns](https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/)
-* [2023-10-10, 14:31:28](https://news.ycombinator.com/item?id=37832599) - [HyperAttention: Long-Context Attention in Near-Linear Time](https://arxiv.org/abs/2310.05869)
 * [2023-10-10, 14:30:26](https://news.ycombinator.com/item?id=37832585) - [Passkeys are now enabled by default for Google users](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The next generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
