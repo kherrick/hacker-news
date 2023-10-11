@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 * [2023-10-11, 05:58:46](https://news.ycombinator.com/item?id=37841409) - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
