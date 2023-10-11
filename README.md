@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 08:10:45](https://news.ycombinator.com/item?id=37842075) - [Coordinated Disclosure: 1-Click RCE on Gnome (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-11, 07:15:15](https://news.ycombinator.com/item?id=37841804) - [You can now hail an Uber without the Uber app](https://www.businessinsider.com/how-to-request-schedule-uber-ride-over-the-phone-2023-5)
 * [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
 * [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
@@ -9,7 +10,6 @@
 * [2023-10-11, 03:17:17](https://news.ycombinator.com/item?id=37840497) - [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 * [2023-10-11, 02:24:15](https://news.ycombinator.com/item?id=37840200) - [The Basics of Photovoltaic Systems: How They Work](https://mercurialtrends.com/the-basics-of-photovoltaic-systems-how-they-work/)
 * [2023-10-11, 02:19:29](https://news.ycombinator.com/item?id=37840172) - [Microgravity-induced muscle atrophy: Implications for long-duration spaceflights](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023)
-* [2023-10-11, 02:15:39](https://news.ycombinator.com/item?id=37840158) - [What I learned about MP3 encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
 * [2023-10-11, 02:01:18](https://news.ycombinator.com/item?id=37840107) - [GHC 9.8.1](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 * [2023-10-11, 01:00:29](https://news.ycombinator.com/item?id=37839759) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
