@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 16:27:59](https://news.ycombinator.com/item?id=37846556) - [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
+* [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font on Earth in an afternoon](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
+* [2023-10-11, 16:20:27](https://news.ycombinator.com/item?id=37846464) - [California Right to Repair Signed into Law](https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law)
 * [2023-10-11, 15:39:49](https://news.ycombinator.com/item?id=37845903) - [K3s – Lightweight Kubernetes](https://k3s.io/)
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:51:52](https://news.ycombinator.com/item?id=37845188) - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
