@@ -14,6 +14,7 @@
 * [2023-10-11, 18:11:08](https://news.ycombinator.com/item?id=37848115) - [Vine Robots: Learn to Make Your Own](https://www.vinerobots.org/)
 * [2023-10-11, 17:47:23](https://news.ycombinator.com/item?id=37847782) - [Wordpress.com Now Supports ActivityPub](https://wordpress.com/blog/2023/10/11/activitypub/)
 * [2023-10-11, 17:45:39](https://news.ycombinator.com/item?id=37847761) - [Ask HN: How YouTube is recommending Chrome in middle of monopoly trial?](https://news.ycombinator.com/item?id=37847761)
+* [2023-10-11, 17:32:38](https://news.ycombinator.com/item?id=37847563) - [Grande: Gradient-Based Decision Tree Ensembles](https://arxiv.org/abs/2309.17130)
 * [2023-10-11, 17:25:40](https://news.ycombinator.com/item?id=37847454) - [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
 * [2023-10-11, 17:24:17](https://news.ycombinator.com/item?id=37847433) - [Amazon rainforest is on fire, this video was recorded by a friend.](https://www.youtube.com/watch?v=miR-kXE9uEQ)
 * [2023-10-11, 16:53:10](https://news.ycombinator.com/item?id=37846953) - [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
