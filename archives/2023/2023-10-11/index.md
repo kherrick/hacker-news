@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 14:25:08](https://news.ycombinator.com/item?id=37844797) - [Man trains home cameras to help repel badgers and foxes](https://www.bbc.co.uk/news/technology-67053171)
 * [2023-10-11, 14:15:52](https://news.ycombinator.com/item?id=37844691) - [People are happier in a walkable neighborhood: the US community that banned cars](https://www.theguardian.com/cities/2023/oct/11/culdesac-car-free-neighborhood-tempe-arizona)
 * [2023-10-11, 14:10:43](https://news.ycombinator.com/item?id=37844631) - [RIAA Reports AI Vocal Cloning Site 'Voicify' to the U.S. Government](https://torrentfreak.com/riaa-reports-ai-vocal-cloning-voicify-to-the-u-s-government-231010/)
 * [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
+* [2023-10-11, 13:45:11](https://news.ycombinator.com/item?id=37844305) - [SQL Reserved Words – The Empirical List](https://modern-sql.com/reserved-words-empirical-list)
 * [2023-10-11, 13:38:32](https://news.ycombinator.com/item?id=37844225) - [The acute suicide crisis among veterinarians: 'You're always failing somebody'](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
 * [2023-10-11, 13:26:02](https://news.ycombinator.com/item?id=37844074) - [Farm in Kenya to produce fertilizer without using fossil fuels](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
 * [2023-10-11, 13:15:39](https://news.ycombinator.com/item?id=37843961) - [EU says X hosts \"illegal content\" connected to Israel-Hamas war](https://twitter.com/ThierryBreton/status/1711808891757944866)
@@ -18,6 +20,7 @@
 * [2023-10-11, 12:26:51](https://news.ycombinator.com/item?id=37843578) - [Stockholm to ban petrol and diesel cars from centre from 2025](https://www.theguardian.com/world/2023/oct/11/stockholm-ban-petrol-and-diesel-cars-city-centre-2025-swedish-capital-pollution)
 * [2023-10-11, 12:26:19](https://news.ycombinator.com/item?id=37843570) - [Bookworm – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 12:22:31](https://news.ycombinator.com/item?id=37843534) - [\"Useless syntax sugar\": Numbered block parameters in Ruby](https://zverok.space/blog/2023-10-11-syntax-sugar1-numeric-block-args.html)
+* [2023-10-11, 11:53:23](https://news.ycombinator.com/item?id=37843334) - [Show HN: Netflix for AI-Generated Videos](https://lucidbox.net/)
 * [2023-10-11, 11:35:46](https://news.ycombinator.com/item?id=37843214) - [New study will examine irritable bowel syndrome as long Covid symptom](https://healthsciences.arizona.edu/newsroom/news-releases/0923/new-study-will-examine-irritable-bowel-syndrome-long-covid-symptom)
 * [2023-10-11, 10:43:00](https://news.ycombinator.com/item?id=37842863) - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
 * [2023-10-11, 10:24:41](https://news.ycombinator.com/item?id=37842778) - [Cypress.io Blocking of Sorry Cypress and Currents](https://currents.dev/posts/v13-blocking)
@@ -51,6 +54,7 @@
 * [2023-10-11, 02:19:29](https://news.ycombinator.com/item?id=37840172) - [Microgravity-induced muscle atrophy: Implications for long-duration spaceflights](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023)
 * [2023-10-11, 02:15:39](https://news.ycombinator.com/item?id=37840158) - [What I Learned About MP3 Encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
 * [2023-10-11, 02:01:18](https://news.ycombinator.com/item?id=37840107) - [GHC 9.8.1 has been released](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
+* [2023-10-11, 01:22:18](https://news.ycombinator.com/item?id=37839884) - [First evidence that albatrosses use infrasound to navigate long journeys](https://phys.org/news/2023-10-evidence-albatrosses-infrasound-journeys.html)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 * [2023-10-11, 01:00:29](https://news.ycombinator.com/item?id=37839759) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-11, 00:52:07](https://news.ycombinator.com/item?id=37839696) - [Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)
