@@ -73,6 +73,7 @@
 * [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 05:58:46](https://news.ycombinator.com/item?id=37841409) - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 05:47:19](https://news.ycombinator.com/item?id=37841363) - [\"MP3 is dead\" missed the real, much better story (2017)](https://marco.org/2017/05/15/mp3-isnt-dead)
+* [2023-10-11, 05:18:52](https://news.ycombinator.com/item?id=37841170) - [Deja News joins antispam war (1997)](https://www.cnet.com/tech/services-and-software/deja-news-joins-antispam-war/)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
 * [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
