@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 21:40:39](https://news.ycombinator.com/item?id=37850593) - [Why single-submission policies need to die (and what to do in the meantime)](https://www.nature.com/articles/d41586-023-03196-y)
+* [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in asteroid sample–possible clues to life's origin](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
 * [2023-10-11, 21:11:24](https://news.ycombinator.com/item?id=37850309) - [Replacing Engineering Managers with AI Agents](https://www.engineeringcalm.com/p/replacing-engineering-managers-with)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
 * [2023-10-11, 21:05:20](https://news.ycombinator.com/item?id=37850246) - [Railroad \"Time Zones\" of the United States (1868)](http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html)
@@ -12,6 +14,7 @@
 * [2023-10-11, 20:54:03](https://news.ycombinator.com/item?id=37850122) - [Google Is Going to Court for the First Time over Alleged Pay Discrimination](https://www.forbesafrica.com/technology/2023/10/11/google-is-going-to-court-for-the-first-time-over-alleged-pay-discrimination/)
 * [2023-10-11, 20:52:37](https://news.ycombinator.com/item?id=37850110) - [SEC Filing – Microsoft Corporation](https://microsoft.gcs-web.com/node/31951/html)
 * [2023-10-11, 20:46:30](https://news.ycombinator.com/item?id=37850036) - [Unix Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
+* [2023-10-11, 20:31:47](https://news.ycombinator.com/item?id=37849885) - [IRS says Microsoft owes an additional $29B in back taxes](https://www.cnbc.com/2023/10/11/irs-says-microsoft-owes-an-additional-29-billion-in-back-taxes.html)
 * [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
 * [2023-10-11, 18:51:37](https://news.ycombinator.com/item?id=37848685) - [Asphalt-related emissions are a major missing source of air pollution (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
 * [2023-10-11, 18:49:53](https://news.ycombinator.com/item?id=37848662) - [British Sandwiches and Walking 300km of Wainwright's Coast to Coast](https://craigmod.com/ridgeline/167/)
