@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-11, 03:53:15](https://news.ycombinator.com/item?id=37840685) - [Does employer have to tell if they're spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
 * [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 * [2023-10-11, 03:17:17](https://news.ycombinator.com/item?id=37840497) - [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 * [2023-10-11, 02:36:18](https://news.ycombinator.com/item?id=37840275) - [CSS is, in fact, awesome (2021)](https://css-tricks.com/css-is-in-fact-awesome/)
@@ -15,6 +14,7 @@
 * [2023-10-10, 23:59:00](https://news.ycombinator.com/item?id=37839326) - [Going faster by duplicating code](https://voidstar.tech/code_duplication/)
 * [2023-10-10, 23:13:12](https://news.ycombinator.com/item?id=37838964) - [Analysis of the California Delete Act](https://www.tomkemp.ai/blog/2023/10/10/analysis-of-the-california-delete-act-sb-362-signed-into-law)
 * [2023-10-10, 21:15:40](https://news.ycombinator.com/item?id=37837620) - [Isambard Kingdom Brunel](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
+* [2023-10-10, 20:23:58](https://news.ycombinator.com/item?id=37836977) - [Show HN: I learned to code and built a crypto analytics platform](https://www.tradingdigits.io/)
 * [2023-10-10, 20:21:03](https://news.ycombinator.com/item?id=37836946) - [Problems with default function arguments (2020)](https://quuxplusone.github.io/blog/2020/04/18/default-function-arguments-are-the-devil/)
 * [2023-10-10, 20:15:46](https://news.ycombinator.com/item?id=37836889) - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 * [2023-10-10, 18:56:58](https://news.ycombinator.com/item?id=37835995) - [Show HN: Building a 42-inch E-Ink frame for generative art](https://eliot.blog/e-ink-frame)
