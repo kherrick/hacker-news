@@ -6,6 +6,7 @@
 
 * [2023-10-11, 16:53:10](https://news.ycombinator.com/item?id=37846953) - [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
 * [2023-10-11, 16:45:04](https://news.ycombinator.com/item?id=37846821) - [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
+* [2023-10-11, 16:38:54](https://news.ycombinator.com/item?id=37846727) - [So Far, AI Is a Money Pit That Isn't Paying Off](https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549)
 * [2023-10-11, 16:27:59](https://news.ycombinator.com/item?id=37846556) - [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
 * [2023-10-11, 16:22:05](https://news.ycombinator.com/item?id=37846485) - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
 * [2023-10-11, 16:21:06](https://news.ycombinator.com/item?id=37846471) - [How to legally pirate every font on Earth in an afternoon](https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon)
