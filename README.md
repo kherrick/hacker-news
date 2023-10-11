@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
 * [2023-10-11, 03:53:15](https://news.ycombinator.com/item?id=37840685) - [Does employer have to tell if they're spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
 * [2023-10-11, 03:24:48](https://news.ycombinator.com/item?id=37840532) - [Californians will be able to delete all personal online data in first-in-US law](https://www.theguardian.com/technology/2023/oct/10/california-delete-act-signed-newsom)
 * [2023-10-11, 03:19:28](https://news.ycombinator.com/item?id=37840511) - [Newsom signs bill that would make it easier to delete online personal data](https://www.latimes.com/california/story/2023-10-10/newsom-bill-delete-online-personal-data)
@@ -21,7 +22,6 @@
 * [2023-10-10, 16:55:13](https://news.ycombinator.com/item?id=37834552) - [The GlEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
 * [2023-10-10, 16:54:55](https://news.ycombinator.com/item?id=37834550) - [Rotary Woofer (2006)](http://www.rotarywoofer.com/)
 * [2023-10-10, 15:23:57](https://news.ycombinator.com/item?id=37833278) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
-* [2023-10-10, 14:30:26](https://news.ycombinator.com/item?id=37832585) - [Passkeys are now enabled by default for Google users](https://blog.google/technology/safety-security/passkeys-default-google-accounts/)
 * [2023-10-10, 14:08:48](https://news.ycombinator.com/item?id=37832319) - [Postgres: The next generation](https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/)
 * [2023-10-10, 13:47:35](https://news.ycombinator.com/item?id=37832054) - [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
 * [2023-10-10, 10:51:13](https://news.ycombinator.com/item?id=37830513) - [Archaeologists extract DNA of ancient Israelites](https://www.haaretz.com/archaeology/2023-10-09/ty-article/in-first-archaeologists-extract-dna-of-ancient-israelites/0000018b-138a-d2fc-a59f-d39b21fd0000)

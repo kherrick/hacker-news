@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
 * [2023-10-11, 03:53:15](https://news.ycombinator.com/item?id=37840685) - [Does employer have to tell if they're spying on you through your work computer?](https://theconversation.com/does-your-employer-have-to-tell-if-theyre-spying-on-you-through-your-work-computer-214857)
 * [2023-10-11, 03:24:48](https://news.ycombinator.com/item?id=37840532) - [Californians will be able to delete all personal online data in first-in-US law](https://www.theguardian.com/technology/2023/oct/10/california-delete-act-signed-newsom)
 * [2023-10-11, 03:19:28](https://news.ycombinator.com/item?id=37840511) - [Newsom signs bill that would make it easier to delete online personal data](https://www.latimes.com/california/story/2023-10-10/newsom-bill-delete-online-personal-data)
