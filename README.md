@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 11:35:46](https://news.ycombinator.com/item?id=37843214) - [New study will examine irritable bowel syndrome as long Covid symptom](https://healthsciences.arizona.edu/newsroom/news-releases/0923/new-study-will-examine-irritable-bowel-syndrome-long-covid-symptom)
 * [2023-10-11, 10:43:00](https://news.ycombinator.com/item?id=37842863) - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
 * [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 * [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
@@ -29,7 +30,6 @@
 * [2023-10-10, 16:54:55](https://news.ycombinator.com/item?id=37834550) - [Rotary Woofer (2006)](http://www.rotarywoofer.com/)
 * [2023-10-10, 10:23:38](https://news.ycombinator.com/item?id=37830342) - [Common Lisp: An Interactive Approach (1992) [pdf]](https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf)
 * [2023-10-09, 22:40:02](https://news.ycombinator.com/item?id=37826345) - [A dictionary of modern slang, cant, and vulgar words (1860)](https://publicdomainreview.org/collection/dictionary-of-modern-slang/)
-* [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney packed big emotion into a little robot](https://spectrum.ieee.org/disney-robot)
 
 ## [Archives](archives/index.md)
 
