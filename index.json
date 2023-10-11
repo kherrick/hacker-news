@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-11, 18:51:37",
-      "https://news.ycombinator.com/item?id=37848685"
-    ],
-    [
-      "Asphalt-related emissions are a major missing source of air pollution (2020)",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 18:49:53",
       "https://news.ycombinator.com/item?id=37848662"
     ],
@@ -107,6 +97,16 @@
     [
       "How to legally pirate every font",
       "https://blog.willdepue.com/how-to-legally-pirate-all-fonts-in-an-afternoon"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 16:15:02",
+      "https://news.ycombinator.com/item?id=37846387"
+    ],
+    [
+      "M2 Ultra can run 128 streams of Llama 2 7B in parallel",
+      "https://github.com/ggerganov/llama.cpp/pull/3228"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-10-11, 12:30:10",
-      "https://news.ycombinator.com/item?id=37843595"
-    ],
-    [
-      "We’ll call it AI to sell it, machine learning to build it",
-      "https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 12:22:31",
       "https://news.ycombinator.com/item?id=37843534"
     ],
@@ -247,6 +237,16 @@
     [
       "Toxiproxy – simulate network and system conditions for chaos testing",
       "https://github.com/Shopify/toxiproxy"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 08:21:10",
+      "https://news.ycombinator.com/item?id=37842137"
+    ],
+    [
+      "What's new for RISC-V in LLVM 17",
+      "https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17"
     ]
   ],
   [
