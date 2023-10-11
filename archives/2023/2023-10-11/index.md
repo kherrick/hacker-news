@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
+* [2023-10-11, 21:00:33](https://news.ycombinator.com/item?id=37850194) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+* [2023-10-11, 20:52:37](https://news.ycombinator.com/item?id=37850110) - [SEC Filing – Microsoft Corporation](https://microsoft.gcs-web.com/node/31951/html)
+* [2023-10-11, 20:46:30](https://news.ycombinator.com/item?id=37850036) - [Unix Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 * [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
 * [2023-10-11, 18:51:37](https://news.ycombinator.com/item?id=37848685) - [Asphalt-related emissions are a major missing source of air pollution (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467703/)
 * [2023-10-11, 18:49:53](https://news.ycombinator.com/item?id=37848662) - [British Sandwiches and Walking 300km of Wainwright's Coast to Coast](https://craigmod.com/ridgeline/167/)
@@ -56,6 +60,7 @@
 * [2023-10-11, 11:03:13](https://news.ycombinator.com/item?id=37842993) - [In Search of Writers' Haunts](https://themillions.com/2023/10/in-search-of-writers-haunts-bruce-chatwin.html)
 * [2023-10-11, 10:43:00](https://news.ycombinator.com/item?id=37842863) - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
 * [2023-10-11, 10:24:41](https://news.ycombinator.com/item?id=37842778) - [Cypress.io Blocking of Sorry Cypress and Currents](https://currents.dev/posts/v13-blocking)
+* [2023-10-11, 10:02:10](https://news.ycombinator.com/item?id=37842645) - [Jumperless: Breadboard Without Jumper](https://hackaday.io/project/191238-jumperless)
 * [2023-10-11, 09:56:39](https://news.ycombinator.com/item?id=37842618) - [Mistral 7B Paper on ArXiv](https://arxiv.org/abs/2310.06825)
 * [2023-10-11, 09:45:35](https://news.ycombinator.com/item?id=37842562) - [A case for the capacity to reason of GPT-4](https://lajili.com/posts/post-3/)
 * [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
