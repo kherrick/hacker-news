@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 * [2023-10-11, 08:44:22](https://news.ycombinator.com/item?id=37842239) - [ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
@@ -12,7 +13,6 @@
 * [2023-10-11, 03:17:17](https://news.ycombinator.com/item?id=37840497) - [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 * [2023-10-11, 02:24:15](https://news.ycombinator.com/item?id=37840200) - [The Basics of Photovoltaic Systems: How They Work](https://mercurialtrends.com/the-basics-of-photovoltaic-systems-how-they-work/)
 * [2023-10-11, 02:19:29](https://news.ycombinator.com/item?id=37840172) - [Microgravity-induced muscle atrophy: Implications for long-duration spaceflights](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023)
-* [2023-10-11, 02:01:18](https://news.ycombinator.com/item?id=37840107) - [GHC 9.8.1](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 * [2023-10-11, 01:00:29](https://news.ycombinator.com/item?id=37839759) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-11, 00:52:07](https://news.ycombinator.com/item?id=37839696) - [Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)
