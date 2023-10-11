@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-11, 16:53:10",
-      "https://news.ycombinator.com/item?id=37846953"
+      "2023-10-11, 17:25:40",
+      "https://news.ycombinator.com/item?id=37847454"
     ],
     [
-      "Teens Love LinkedIn",
-      "https://www.thecut.com/article/why-teenagers-love-linkedin.html"
+      "Google Cloud Spanner is now half the cost of Amazon DynamoDB",
+      "https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates"
     ]
   ],
   [
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2023-10-11, 16:20:27",
-      "https://news.ycombinator.com/item?id=37846464"
+      "2023-10-11, 15:50:05",
+      "https://news.ycombinator.com/item?id=37846044"
     ],
     [
-      "California Right to Repair Signed into Law",
-      "https://www.ifixit.com/News/84491/california-right-to-repair-signed-into-law"
+      "RankVicuna: Open Source Zero-Shot Listwise Document Reranking",
+      "https://paperswithcode.com/paper/rankvicuna-zero-shot-listwise-document"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "The deep link equating math proofs and computer programs",
       "https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 14:51:52",
-      "https://news.ycombinator.com/item?id=37845188"
-    ],
-    [
-      "Third place",
-      "https://en.wikipedia.org/wiki/Third_place"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "What's new for RISC-V in LLVM 17",
       "https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 07:58:46",
+      "https://news.ycombinator.com/item?id=37842006"
+    ],
+    [
+      "Ancient Babylonian Algorithms",
+      "https://fermatslibrary.com/s/ancient-babylonian-algorithms"
     ]
   ],
   [
