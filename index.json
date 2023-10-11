@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-11, 03:27:51",
-      "https://news.ycombinator.com/item?id=37840547"
-    ],
-    [
-      "Rep. Thomas Massie Designs ESP32 Debt Badge to Wear in Congress",
-      "https://twitter.com/RepThomasMassie/status/1711758465406808553"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 03:18:12",
       "https://news.ycombinator.com/item?id=37840503"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37840497"
     ],
     [
-      "Pantographia: A Specimen Book of All the Alphabets Known on Earth (1799)",
+      "Pantographia: 1799 specimen book of all the known alphabets",
       "https://publicdomainreview.org/collection/pantographia/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37840275"
     ],
     [
-      "CSS Is, in Fact, Awesome",
+      "CSS is, in fact, awesome (2021)",
       "https://css-tricks.com/css-is-in-fact-awesome/"
     ]
   ],
@@ -61,11 +51,21 @@
   ],
   [
     [
+      "2023-10-11, 02:19:29",
+      "https://news.ycombinator.com/item?id=37840172"
+    ],
+    [
+      "Microgravity-induced muscle atrophy: Implications for long-duration spaceflights",
+      "https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 02:15:39",
       "https://news.ycombinator.com/item?id=37840158"
     ],
     [
-      "What I Learned About MP3 Encoding",
+      "What I learned about MP3 encoding",
       "https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37839759"
     ],
     [
-      "Handle.com (YC W19) Is Hiring (ABM Manager)",
+      "Handle.com (YC W19) Is Hiring an ABM Manager",
       "https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37839326"
     ],
     [
-      "Going Faster by Duplicating Code",
+      "Going faster by duplicating code",
       "https://voidstar.tech/code_duplication/"
     ]
   ],
@@ -147,6 +147,16 @@
     [
       "Isambard Kingdom Brunel",
       "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 20:21:03",
+      "https://news.ycombinator.com/item?id=37836946"
+    ],
+    [
+      "Problems with default function arguments (2020)",
+      "https://quuxplusone.github.io/blog/2020/04/18/default-function-arguments-are-the-devil/"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37834552"
     ],
     [
-      "The GlEnd() of Zelda: Automatic 3Dification of NES Games (2016)",
+      "The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)",
       "http://tom7.org/zelda/"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Common Lisp: An Interactive Approach (1992) [pdf]",
       "https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 02:43:27",
-      "https://news.ycombinator.com/item?id=37827995"
-    ],
-    [
-      "Firefox tooltip bug fixed after 22 years",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=148624"
     ]
   ],
   [
