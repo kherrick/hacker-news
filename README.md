@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 14:15:52](https://news.ycombinator.com/item?id=37844691) - [People are happier in a walkable neighborhood: the US community that banned cars](https://www.theguardian.com/cities/2023/oct/11/culdesac-car-free-neighborhood-tempe-arizona)
+* [2023-10-11, 14:10:43](https://news.ycombinator.com/item?id=37844631) - [RIAA Reports AI Vocal Cloning Site 'Voicify' to the U.S. Government](https://torrentfreak.com/riaa-reports-ai-vocal-cloning-voicify-to-the-u-s-government-231010/)
 * [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 * [2023-10-11, 13:38:32](https://news.ycombinator.com/item?id=37844225) - [The acute suicide crisis among veterinarians: 'You're always failing somebody'](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
 * [2023-10-11, 13:26:02](https://news.ycombinator.com/item?id=37844074) - [Farm in Kenya to produce fertilizer without using fossil fuels](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
@@ -8,7 +10,6 @@
 * [2023-10-11, 13:04:53](https://news.ycombinator.com/item?id=37843855) - [I'm Sorry I Bit You During My Job Interview](https://www.mcsweeneys.net/articles/im-sorry-i-bit-you-during-my-job-interview)
 * [2023-10-11, 12:32:57](https://news.ycombinator.com/item?id=37843621) - [Show HN: Speech Meter – Improve Your English Pronunciation](https://speechmeter.com/)
 * [2023-10-11, 12:30:10](https://news.ycombinator.com/item?id=37843595) - [We’ll call it AI to sell it, machine learning to build it](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
-* [2023-10-11, 12:26:51](https://news.ycombinator.com/item?id=37843578) - [Stockholm to ban petrol and diesel cars from centre from 2025](https://www.theguardian.com/world/2023/oct/11/stockholm-ban-petrol-and-diesel-cars-city-centre-2025-swedish-capital-pollution)
 * [2023-10-11, 12:26:19](https://news.ycombinator.com/item?id=37843570) - [Bookworm – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 10:43:00](https://news.ycombinator.com/item?id=37842863) - [Beej's Guide to Network Programming (1994-2023)](https://beej.us/guide/bgnet/html/)
 * [2023-10-11, 10:24:41](https://news.ycombinator.com/item?id=37842778) - [Cypress.io Blocking of Sorry Cypress and Currents](https://currents.dev/posts/v13-blocking)
@@ -29,7 +30,6 @@
 * [2023-10-10, 20:27:47](https://news.ycombinator.com/item?id=37837023) - [How to Design a Vernacular Chair](https://christopherschwarz.substack.com/p/how-to-design-a-vernacular-chair)
 * [2023-10-10, 16:55:13](https://news.ycombinator.com/item?id=37834552) - [The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
 * [2023-10-10, 10:23:38](https://news.ycombinator.com/item?id=37830342) - [Common Lisp: An Interactive Approach (1992) [pdf]](https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf)
-* [2023-10-09, 22:40:02](https://news.ycombinator.com/item?id=37826345) - [A dictionary of modern slang, cant, and vulgar words (1860)](https://publicdomainreview.org/collection/dictionary-of-modern-slang/)
 
 ## [Archives](archives/index.md)
 

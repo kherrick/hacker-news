@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 14:15:52](https://news.ycombinator.com/item?id=37844691) - [People are happier in a walkable neighborhood: the US community that banned cars](https://www.theguardian.com/cities/2023/oct/11/culdesac-car-free-neighborhood-tempe-arizona)
+* [2023-10-11, 14:10:43](https://news.ycombinator.com/item?id=37844631) - [RIAA Reports AI Vocal Cloning Site 'Voicify' to the U.S. Government](https://torrentfreak.com/riaa-reports-ai-vocal-cloning-voicify-to-the-u-s-government-231010/)
 * [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 * [2023-10-11, 13:38:32](https://news.ycombinator.com/item?id=37844225) - [The acute suicide crisis among veterinarians: 'You're always failing somebody'](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
 * [2023-10-11, 13:26:02](https://news.ycombinator.com/item?id=37844074) - [Farm in Kenya to produce fertilizer without using fossil fuels](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
