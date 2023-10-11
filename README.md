@@ -5,11 +5,10 @@
 * [2023-10-11, 14:46:12](https://news.ycombinator.com/item?id=37845101) - [Bad Speech](https://amadeuspagel.com/p/bad-speech)
 * [2023-10-11, 14:29:15](https://news.ycombinator.com/item?id=37844850) - [Libraries with individually owned bookshelves spreading in Japan](https://www.japantimes.co.jp/culture/2023/10/03/libraries-individual-bookshelves/)
 * [2023-10-11, 14:26:27](https://news.ycombinator.com/item?id=37844810) - [Croatia wants to turn superhot underground lake into 16MW power plant](https://thenextweb.com/news/croatia-geothermal-energy-plant)
-* [2023-10-11, 14:15:52](https://news.ycombinator.com/item?id=37844691) - [People are happier in a walkable neighborhood: the US community that banned cars](https://www.theguardian.com/cities/2023/oct/11/culdesac-car-free-neighborhood-tempe-arizona)
 * [2023-10-11, 14:10:43](https://news.ycombinator.com/item?id=37844631) - [RIAA Reports AI Vocal Cloning Site 'Voicify' to the U.S. Government](https://torrentfreak.com/riaa-reports-ai-vocal-cloning-voicify-to-the-u-s-government-231010/)
 * [2023-10-11, 14:02:43](https://news.ycombinator.com/item?id=37844536) - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 * [2023-10-11, 13:45:11](https://news.ycombinator.com/item?id=37844305) - [SQL Reserved Words – The Empirical List](https://modern-sql.com/reserved-words-empirical-list)
-* [2023-10-11, 13:38:32](https://news.ycombinator.com/item?id=37844225) - [The acute suicide crisis among veterinarians: 'You're always failing somebody'](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
+* [2023-10-11, 13:38:32](https://news.ycombinator.com/item?id=37844225) - [A suicide crisis among veterinarians](https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody)
 * [2023-10-11, 13:26:02](https://news.ycombinator.com/item?id=37844074) - [Farm in Kenya to produce fossil-free fertilizer on site](https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya)
 * [2023-10-11, 13:14:12](https://news.ycombinator.com/item?id=37843946) - [Vulkan Documentation](https://docs.vulkan.org/)
 * [2023-10-11, 13:10:14](https://news.ycombinator.com/item?id=37843908) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
@@ -30,6 +29,7 @@
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 * [2023-10-11, 00:52:07](https://news.ycombinator.com/item?id=37839696) - [Replit's new AI Model now available on Hugging Face](https://blog.replit.com/replit-code-v1_5)
 * [2023-10-10, 16:55:13](https://news.ycombinator.com/item?id=37834552) - [The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)](http://tom7.org/zelda/)
+* [2023-10-10, 14:58:50](https://news.ycombinator.com/item?id=37832949) - [Why is there a \"Tech, Media, Telecom\" sector?](https://capitalgains.thediff.co/p/tmt)
 
 ## [Archives](archives/index.md)
 
