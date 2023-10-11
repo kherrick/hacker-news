@@ -8,6 +8,7 @@
 * [2023-10-11, 18:49:53](https://news.ycombinator.com/item?id=37848662) - [British Sandwiches and Walking 300km of Wainwright's Coast to Coast](https://craigmod.com/ridgeline/167/)
 * [2023-10-11, 18:48:11](https://news.ycombinator.com/item?id=37848632) - [Awareness at Death](https://community.macmillanlearning.com/t5/talk-psych-blog/awareness-at-death/ba-p/19410)
 * [2023-10-11, 18:43:24](https://news.ycombinator.com/item?id=37848571) - [Julia leads Rust,Zig,Go and Java in data processing benchmark](https://github.com/jinyus/related_post_gen)
+* [2023-10-11, 18:25:37](https://news.ycombinator.com/item?id=37848321) - [Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 * [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
 * [2023-10-11, 18:11:08](https://news.ycombinator.com/item?id=37848115) - [Vine Robots: Learn to Make Your Own](https://www.vinerobots.org/)
 * [2023-10-11, 17:47:23](https://news.ycombinator.com/item?id=37847782) - [Wordpress.com Now Supports ActivityPub](https://wordpress.com/blog/2023/10/11/activitypub/)
