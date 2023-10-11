@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-11, 16:53:10](https://news.ycombinator.com/item?id=37846953) - [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
-* [2023-10-11, 16:45:04](https://news.ycombinator.com/item?id=37846821) - [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
 * [2023-10-11, 16:38:54](https://news.ycombinator.com/item?id=37846727) - [So Far, AI Is a Money Pit That Isn't Paying Off](https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549)
 * [2023-10-11, 16:27:59](https://news.ycombinator.com/item?id=37846556) - [Living in privately rented homes linked to faster biological ageing, study finds](https://www.theguardian.com/society/2023/oct/10/living-in-privately-rented-homes-linked-to-faster-biological-ageing-study-finds)
 * [2023-10-11, 16:22:05](https://news.ycombinator.com/item?id=37846485) - [Origami-Inspired Screw-Based Propulsion on Mobile Ground Robots](https://arxiv.org/abs/2310.00184)
@@ -24,6 +23,7 @@
 * [2023-10-11, 11:53:23](https://news.ycombinator.com/item?id=37843334) - [Show HN: Netflix for AI-Generated Videos](https://lucidbox.net/)
 * [2023-10-11, 09:56:39](https://news.ycombinator.com/item?id=37842618) - [Mistral 7B](https://arxiv.org/abs/2310.06825)
 * [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
+* [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Open-source network emulators and simulators](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 * [2023-10-11, 08:21:10](https://news.ycombinator.com/item?id=37842137) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
