@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-11, 06:15:38](https://news.ycombinator.com/item?id=37841512) - [RFC 1925: The Twelve Networking Truths (1996)](https://www.rfc-editor.org/rfc/rfc1925)
+* [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 05:58:46](https://news.ycombinator.com/item?id=37841409) - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 03:34:33](https://news.ycombinator.com/item?id=37840581) - [Curl/libcurl HIGH CVE-2023-38545 leaked early?](https://gitlab.com/redhat/centos-stream/rpms/curl/-/commit/0783247f07250043dceb74e426f16f9d46147163#57c8706b6a9132202629833e05fd961bfcc66836)
@@ -8,7 +9,6 @@
 * [2023-10-11, 03:17:17](https://news.ycombinator.com/item?id=37840497) - [Pantographia: 1799 specimen book of all the known alphabets](https://publicdomainreview.org/collection/pantographia/)
 * [2023-10-11, 02:24:15](https://news.ycombinator.com/item?id=37840200) - [The Basics of Photovoltaic Systems: How They Work](https://mercurialtrends.com/the-basics-of-photovoltaic-systems-how-they-work/)
 * [2023-10-11, 02:19:29](https://news.ycombinator.com/item?id=37840172) - [Microgravity-induced muscle atrophy: Implications for long-duration spaceflights](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00412.2023)
-* [2023-10-11, 02:15:39](https://news.ycombinator.com/item?id=37840158) - [What I learned about MP3 encoding](https://braheezy.github.io/posts/what-i-learned-about-mp3-encoding/)
 * [2023-10-11, 02:01:18](https://news.ycombinator.com/item?id=37840107) - [GHC 9.8.1](https://discourse.haskell.org/t/ghc-9-8-1-is-now-available/7832)
 * [2023-10-11, 01:20:32](https://news.ycombinator.com/item?id=37839872) - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
 * [2023-10-11, 01:00:29](https://news.ycombinator.com/item?id=37839759) - [Handle.com (YC W19) Is Hiring an ABM Manager](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
