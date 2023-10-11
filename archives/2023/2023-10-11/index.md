@@ -11,6 +11,7 @@
 * [2023-10-11, 13:14:12](https://news.ycombinator.com/item?id=37843946) - [New Vulkan Documentation Website](https://docs.vulkan.org/)
 * [2023-10-11, 13:10:14](https://news.ycombinator.com/item?id=37843908) - [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 13:04:53](https://news.ycombinator.com/item?id=37843855) - [I'm Sorry I Bit You During My Job Interview](https://www.mcsweeneys.net/articles/im-sorry-i-bit-you-during-my-job-interview)
+* [2023-10-11, 12:32:57](https://news.ycombinator.com/item?id=37843621) - [Show HN: Speech Meter – Improve Your English Pronunciation](https://speechmeter.com/)
 * [2023-10-11, 12:30:10](https://news.ycombinator.com/item?id=37843595) - [\"We'll call it AI to sell it, Machine Learning to Build it\"](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
 * [2023-10-11, 12:26:51](https://news.ycombinator.com/item?id=37843578) - [Stockholm to ban petrol and diesel cars from centre from 2025](https://www.theguardian.com/world/2023/oct/11/stockholm-ban-petrol-and-diesel-cars-city-centre-2025-swedish-capital-pollution)
 * [2023-10-11, 12:26:19](https://news.ycombinator.com/item?id=37843570) - [Bookworm – the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
