@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
 * [2023-10-11, 17:25:40](https://news.ycombinator.com/item?id=37847454) - [Google Cloud Spanner is now half the cost of Amazon DynamoDB](https://cloud.google.com/blog/products/databases/announcing-cloud-spanner-price-performance-updates)
+* [2023-10-11, 17:24:17](https://news.ycombinator.com/item?id=37847433) - [Amazon rainforest is on fire, this video was recorded by a friend.](https://www.youtube.com/watch?v=miR-kXE9uEQ)
 * [2023-10-11, 16:53:10](https://news.ycombinator.com/item?id=37846953) - [Teens Love LinkedIn](https://www.thecut.com/article/why-teenagers-love-linkedin.html)
 * [2023-10-11, 16:45:04](https://news.ycombinator.com/item?id=37846821) - [Europe gives Mark Zuckerberg 24 hours to respond about Israel-Hamas conflict](https://www.cnbc.com/2023/10/11/europe-gives-zuckerberg-24-hours-to-respond-about-israel-hamas-misinfo.html)
 * [2023-10-11, 16:38:54](https://news.ycombinator.com/item?id=37846727) - [So Far, AI Is a Money Pit That Isn't Paying Off](https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549)
