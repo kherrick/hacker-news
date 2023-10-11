@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 21:11:24](https://news.ycombinator.com/item?id=37850309) - [Replacing Engineering Managers with AI Agents](https://www.engineeringcalm.com/p/replacing-engineering-managers-with)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
+* [2023-10-11, 21:05:20](https://news.ycombinator.com/item?id=37850246) - [Railroad \"Time Zones\" of the United States (1868)](http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html)
+* [2023-10-11, 21:01:17](https://news.ycombinator.com/item?id=37850205) - [Show HN: See library availabilities for your Goodreads Want to Read list](https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle)
 * [2023-10-11, 21:00:33](https://news.ycombinator.com/item?id=37850194) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+* [2023-10-11, 20:54:03](https://news.ycombinator.com/item?id=37850122) - [Google Is Going to Court for the First Time over Alleged Pay Discrimination](https://www.forbesafrica.com/technology/2023/10/11/google-is-going-to-court-for-the-first-time-over-alleged-pay-discrimination/)
 * [2023-10-11, 20:52:37](https://news.ycombinator.com/item?id=37850110) - [SEC Filing – Microsoft Corporation](https://microsoft.gcs-web.com/node/31951/html)
 * [2023-10-11, 20:46:30](https://news.ycombinator.com/item?id=37850036) - [Unix Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 * [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
@@ -63,6 +67,7 @@
 * [2023-10-11, 10:02:10](https://news.ycombinator.com/item?id=37842645) - [Jumperless: Breadboard Without Jumper](https://hackaday.io/project/191238-jumperless)
 * [2023-10-11, 09:56:39](https://news.ycombinator.com/item?id=37842618) - [Mistral 7B Paper on ArXiv](https://arxiv.org/abs/2310.06825)
 * [2023-10-11, 09:45:35](https://news.ycombinator.com/item?id=37842562) - [A case for the capacity to reason of GPT-4](https://lajili.com/posts/post-3/)
+* [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why Are There So Many Colourful Houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
 * [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
 * [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 * [2023-10-11, 08:44:22](https://news.ycombinator.com/item?id=37842239) - [ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
@@ -78,6 +83,7 @@
 * [2023-10-11, 06:12:40](https://news.ycombinator.com/item?id=37841496) - [How I Made a Heap Overflow in Curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 05:58:46](https://news.ycombinator.com/item?id=37841409) - [curl - SOCKS5 heap buffer overflow - CVE-2023-38545](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 05:47:19](https://news.ycombinator.com/item?id=37841363) - [\"MP3 is dead\" missed the real, much better story (2017)](https://marco.org/2017/05/15/mp3-isnt-dead)
+* [2023-10-11, 05:43:56](https://news.ycombinator.com/item?id=37841344) - [Exploring the space-time-stench continuum, where no nose has gone before](https://whyy.org/segments/exploring-the-space-time-stench-continuum-where-no-nose-has-gone-before/)
 * [2023-10-11, 05:18:52](https://news.ycombinator.com/item?id=37841170) - [Deja News joins antispam war (1997)](https://www.cnet.com/tech/services-and-software/deja-news-joins-antispam-war/)
 * [2023-10-11, 04:54:07](https://news.ycombinator.com/item?id=37841013) - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 * [2023-10-11, 04:12:55](https://news.ycombinator.com/item?id=37840803) - [Teflon pans leak thousands of plastic particles from each crack](https://www.zmescience.com/medicine/your-teflon-pan-is-leaking-thousands-of-plastic-particles-from-each-crack/)
