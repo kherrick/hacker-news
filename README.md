@@ -2,6 +2,7 @@
 
 * [2023-10-11, 09:45:35](https://news.ycombinator.com/item?id=37842562) - [A case for the capacity to reason of GPT-4](https://lajili.com/posts/post-3/)
 * [2023-10-11, 09:15:46](https://news.ycombinator.com/item?id=37842414) - [Security pros question EU zero-day rule](https://stackdiary.com/security-experts-uneasy-about-european-zero-day-law/)
+* [2023-10-11, 08:56:54](https://news.ycombinator.com/item?id=37842301) - [Toxiproxy – simulate network and system conditions for chaos testing](https://github.com/Shopify/toxiproxy)
 * [2023-10-11, 08:44:22](https://news.ycombinator.com/item?id=37842239) - [ChatGPT and other AI tools could disrupt scientific publishing](https://www.nature.com/articles/d41586-023-03144-w)
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
@@ -29,7 +30,6 @@
 * [2023-10-10, 16:54:55](https://news.ycombinator.com/item?id=37834550) - [Rotary Woofer (2006)](http://www.rotarywoofer.com/)
 * [2023-10-10, 10:23:38](https://news.ycombinator.com/item?id=37830342) - [Common Lisp: An Interactive Approach (1992) [pdf]](https://cse.buffalo.edu/~shapiro/Commonlisp/commonLisp.pdf)
 * [2023-10-09, 22:40:02](https://news.ycombinator.com/item?id=37826345) - [A dictionary of modern slang, cant, and vulgar words (1860)](https://publicdomainreview.org/collection/dictionary-of-modern-slang/)
-* [2023-10-09, 07:44:54](https://news.ycombinator.com/item?id=37818009) - [Disney packed big emotion into a little robot](https://spectrum.ieee.org/disney-robot)
 
 ## [Archives](archives/index.md)
 
