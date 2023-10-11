@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-11, 22:17:47](https://news.ycombinator.com/item?id=37851029) - [AVX10/128 is a silly idea and should be removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 * [2023-10-11, 22:08:13](https://news.ycombinator.com/item?id=37850930) - [US citizens with permanent disabilities get free lifetime pass to National Parks](https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm)
 * [2023-10-11, 22:01:23](https://news.ycombinator.com/item?id=37850833) - [Evolving ArangoDB's Licensing Model for a Sustainable Future](https://arangodb.com/2023/10/evolving-arangodbs-licensing-model-for-a-sustainable-future/)
 * [2023-10-11, 21:40:39](https://news.ycombinator.com/item?id=37850593) - [Why single-submission policies need to die (and what to do in the meantime)](https://www.nature.com/articles/d41586-023-03196-y)
@@ -8,7 +9,6 @@
 * [2023-10-11, 21:05:20](https://news.ycombinator.com/item?id=37850246) - [Railroad \"Time Zones\" of the United States (1868)](http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html)
 * [2023-10-11, 21:01:17](https://news.ycombinator.com/item?id=37850205) - [Show HN: See library availabilities for your Goodreads want-to-read list](https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle)
 * [2023-10-11, 21:00:33](https://news.ycombinator.com/item?id=37850194) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
-* [2023-10-11, 20:54:03](https://news.ycombinator.com/item?id=37850122) - [Google is going to court for the first time over alleged pay discrimination](https://www.forbesafrica.com/technology/2023/10/11/google-is-going-to-court-for-the-first-time-over-alleged-pay-discrimination/)
 * [2023-10-11, 20:52:37](https://news.ycombinator.com/item?id=37850110) - [SEC Filing – Microsoft Corporation](https://microsoft.gcs-web.com/node/31951/html)
 * [2023-10-11, 20:46:30](https://news.ycombinator.com/item?id=37850036) - [Unix Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 * [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
