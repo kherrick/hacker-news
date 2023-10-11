@@ -1,32 +1,42 @@
 [
   [
     [
+      "2023-10-11, 00:13:02",
+      "https://news.ycombinator.com/item?id=37839437"
+    ],
+    [
+      "Geospatial Data Science with Julia",
+      "https://juliaearth.github.io/geospatial-data-science-with-julia/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 23:59:00",
+      "https://news.ycombinator.com/item?id=37839326"
+    ],
+    [
+      "Going Faster by Duplicating Code",
+      "https://voidstar.tech/code_duplication/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 23:17:03",
       "https://news.ycombinator.com/item?id=37839000"
     ],
     [
-      "SQLite needs testers for the new binary JSON format",
+      "JSONB – Request for evaluation and comment",
       "https://sqlite.org/forum/forumpost/8687d4ad36"
     ]
   ],
   [
     [
-      "2023-10-10, 23:13:12",
-      "https://news.ycombinator.com/item?id=37838964"
+      "2023-10-10, 22:39:00",
+      "https://news.ycombinator.com/item?id=37838636"
     ],
     [
-      "In 2026 Californians can one-click purge all of their data from all data brokers",
-      "https://www.tomkemp.ai/blog/2023/10/10/analysis-of-the-california-delete-act-sb-362-signed-into-law"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 23:09:43",
-      "https://news.ycombinator.com/item?id=37838943"
-    ],
-    [
-      "Polymathic AI",
-      "https://polymathic-ai.org/blog/announcement/"
+      "Microsoft says VBScript will be ripped from Windows in a future release",
+      "https://www.theregister.com/2023/10/10/microsoft_says_vbscript_will_be/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Isambard Kingdom Brunel",
       "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 21:00:55",
+      "https://news.ycombinator.com/item?id=37837403"
+    ],
+    [
+      "Handle.com (YC W19) Is Hiring (ABM Manager)",
+      "https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "The Evolution of Tunnel Boring Machines",
       "https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 19:55:29",
-      "https://news.ycombinator.com/item?id=37836668"
-    ],
-    [
-      "Thought Propagation: An analogical approach to complex reasoning with LLMs",
-      "https://paperswithcode.com/paper/thought-propagation-an-analogical-approach-to"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "2000Ad announces retirement of John M. Burns",
       "https://2000ad.com/news/no-more-robots-no-more-trains-2000-ad-wishes-a-very-happy-retirement-to-the-legendary-john-m-burns/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 14:31:28",
-      "https://news.ycombinator.com/item?id=37832599"
-    ],
-    [
-      "HyperAttention: Long-Context Attention in Near-Linear Time",
-      "https://arxiv.org/abs/2310.05869"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-10-10, 05:48:08",
-      "https://news.ycombinator.com/item?id=37828910"
+      "2023-10-10, 06:20:43",
+      "https://news.ycombinator.com/item?id=37829060"
     ],
     [
-      "Weekdays with Pope Gregory",
-      "https://leancrew.com/all-this/2023/10/weekdays-with-pope-gregory/"
+      "Soft Orders of Magnitude",
+      "https://belkadan.com/blog/2023/10/Soft-Orders-of-Magnitude/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37822835"
     ],
     [
-      "The Urgent Important Matrix",
+      "The Urgent-Important Matrix (2013)",
       "https://www.thecoachingtoolscompany.com/coaching-tools-101-what-is-the-urgent-important-matrix/"
     ]
   ],
