@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 * [2023-10-12, 22:03:55](https://news.ycombinator.com/item?id=37863776) - [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
 * [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [The Misunderstanding About Education That Cost Mark Zuckerberg $100M](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
 * [2023-10-12, 21:45:51](https://news.ycombinator.com/item?id=37863583) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)

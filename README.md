@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 * [2023-10-12, 22:03:55](https://news.ycombinator.com/item?id=37863776) - [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
 * [2023-10-12, 21:45:51](https://news.ycombinator.com/item?id=37863583) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 21:39:47](https://news.ycombinator.com/item?id=37863512) - [Screenshots from Windows 95](https://guidebookgallery.org/screenshots/win95)
@@ -26,7 +27,6 @@
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 * [2023-10-12, 08:44:16](https://news.ycombinator.com/item?id=37854844) - [Show HN: Nostalgist.js – Run emulators of retro consoles, within web browsers](https://nostalgist.js.org/)
-* [2023-10-12, 00:42:11](https://news.ycombinator.com/item?id=37852185) - [True to form: Media and data technologies of self-inscription](https://www.cambridge.org/core/journals/science-in-context/article/true-to-form-media-and-data-technologies-of-selfinscription/61C1F69BA159B18E0567DECD4D236890)
 * [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in Bennu asteroid sample](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
 * [2023-10-11, 00:15:32](https://news.ycombinator.com/item?id=37839458) - [Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment](https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html)
 * [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
