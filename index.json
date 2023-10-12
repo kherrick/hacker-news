@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-12, 19:28:24",
+      "https://news.ycombinator.com/item?id=37861927"
+    ],
+    [
+      "It appears that Dropbox is sharing all content ouside the EU with OpenAI",
+      "https://mastodon.social/@gvwilson/111223262876771219"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 19:04:50",
+      "https://news.ycombinator.com/item?id=37861589"
+    ],
+    [
+      "HTTP/2 Rapid Reset Attack",
+      "https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 19:00:01",
+      "https://news.ycombinator.com/item?id=37861508"
+    ],
+    [
+      "Scientists unlock biological secrets of the aging process",
+      "https://phys.org/news/2023-10-scientists-biological-secrets-aging.html"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 18:57:35",
       "https://news.ycombinator.com/item?id=37861467"
     ],
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2023-10-12, 16:47:10",
-      "https://news.ycombinator.com/item?id=37859637"
-    ],
-    [
-      "Who Runs the Best U.S. Schools? It May Be the Defense Department",
-      "https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html"
-    ]
-  ],
-  [
-    [
       "2023-10-12, 16:31:17",
       "https://news.ycombinator.com/item?id=37859437"
     ],
     [
-      "The Midwit Smart Home",
+      "The midwit home",
       "https://dynomight.substack.com/p/midwit-home"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 16:28:34",
-      "https://news.ycombinator.com/item?id=37859402"
-    ],
-    [
-      "EU \"Chat Control\" and Mandatory Client Side Scanning",
-      "https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37859311"
     ],
     [
-      "Can't Be Fucked: Underrated Cause of Tech Debt",
+      "Can't be fucked: Underrated cause of tech debt",
       "https://jesseduffield.com/Can%27t-Be-Fcked/"
     ]
   ],
@@ -135,8 +145,18 @@
       "https://news.ycombinator.com/item?id=37859085"
     ],
     [
-      "Desmos 3D graphing calculator (beta)",
+      "Desmos 3D graphing calculator",
       "https://www.desmos.com/3d"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 15:46:14",
+      "https://news.ycombinator.com/item?id=37858812"
+    ],
+    [
+      "Show HN: Kali – Scheduling Assistant for iOS",
+      "https://apps.apple.com/us/app/kali-ai-calendar-scheduler/id6460134539"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-10-12, 09:55:51",
-      "https://news.ycombinator.com/item?id=37855213"
-    ],
-    [
-      "Microsoft reveals IRS notice asking for $28.9B in back taxes",
-      "https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html"
-    ]
-  ],
-  [
-    [
       "2023-10-12, 09:26:50",
       "https://news.ycombinator.com/item?id=37855057"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: Nostalgist.js – Run emulators of retro consoles, within web browsers",
       "https://nostalgist.js.org/"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 07:16:46",
-      "https://news.ycombinator.com/item?id=37854358"
-    ],
-    [
-      "Bentham's Mugging (2022)",
-      "https://www.cambridge.org/core/journals/utilitas/article/benthams-mugging/9C67002F344B20661A6C35C960F25A86"
     ]
   ],
   [
