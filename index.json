@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-10-12, 04:15:46",
+      "https://news.ycombinator.com/item?id=37853435"
+    ],
+    [
+      "In Defense of Electricity Markets",
+      "https://austinvernon.site/blog/electricitymarkets.html"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 04:15:36",
       "https://news.ycombinator.com/item?id=37853434"
     ],
@@ -147,16 +157,6 @@
     [
       "Using OpenBSD Relayd(8) as an Application Layer Gateway",
       "https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 22:33:59",
-      "https://news.ycombinator.com/item?id=37851210"
-    ],
-    [
-      "Snmalloc: A Message Passing Allocator",
-      "https://github.com/microsoft/snmalloc"
     ]
   ],
   [
