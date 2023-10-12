@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-12, 04:15:46](https://news.ycombinator.com/item?id=37853435) - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
+* [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
 * [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
 * [2023-10-12, 02:45:51](https://news.ycombinator.com/item?id=37852944) - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 02:10:00](https://news.ycombinator.com/item?id=37852711) - [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
@@ -9,7 +10,6 @@
 * [2023-10-11, 22:33:59](https://news.ycombinator.com/item?id=37851210) - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-11, 22:17:47](https://news.ycombinator.com/item?id=37851029) - [AVX10/128 is a silly idea](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 * [2023-10-11, 21:47:09](https://news.ycombinator.com/item?id=37850664) - [Galaksija: The Soviet-Era, Z80-based microcomputer](https://spectrum.ieee.org/yugoslavia-diy-microcomputer)
-* [2023-10-11, 21:40:39](https://news.ycombinator.com/item?id=37850593) - [It’s time to allow researchers to submit manuscripts to multiple journals](https://www.nature.com/articles/d41586-023-03196-y)
 * [2023-10-11, 21:28:55](https://news.ycombinator.com/item?id=37850485) - [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
 * [2023-10-11, 21:27:14](https://news.ycombinator.com/item?id=37850459) - [QX82: Tiny JavaScript game/experience engine inspired by retro 80s computing](https://btco.github.io/qx82/)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
