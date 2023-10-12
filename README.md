@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 14:47:47](https://news.ycombinator.com/item?id=37857958) - [New Entry-Level Lucid Air Pure RWD Starts at $78,675, Still with 410-Mile Range](https://www.thedrive.com/news/new-entry-level-lucid-air-pure-rwd-starts-at-78675-still-offers-410-mile-range)
 * [2023-10-12, 14:19:46](https://news.ycombinator.com/item?id=37857544) - [The Twelve-Factor App](https://12factor.net/)
 * [2023-10-12, 14:18:58](https://news.ycombinator.com/item?id=37857535) - [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
 * [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
@@ -7,6 +8,7 @@
 * [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857229) - [Migrate Users from Keycloak to Zitadel](https://zitadel.com/blog/migrate-from-keycloak)
 * [2023-10-12, 13:55:03](https://news.ycombinator.com/item?id=37857175) - [The data and puzzling history behind California's new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
 * [2023-10-12, 13:54:19](https://news.ycombinator.com/item?id=37857159) - [SpaceX files for new 29,988-satellite W-band network](https://www.spaceintelreport.com/spacex-files-29988-satellite-w-band-network-using-kingdom-of-tonga-as-regulatory-home/)
+* [2023-10-12, 13:44:46](https://news.ycombinator.com/item?id=37857017) - [Ask HN: Googlers, Will Google Disable Accounts for Using Adblockers on YouTube?](https://news.ycombinator.com/item?id=37857017)
 * [2023-10-12, 13:33:58](https://news.ycombinator.com/item?id=37856895) - [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
 * [2023-10-12, 09:55:51](https://news.ycombinator.com/item?id=37855213) - [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
@@ -23,13 +25,11 @@
 * [2023-10-12, 02:45:51](https://news.ycombinator.com/item?id=37852944) - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 02:10:00](https://news.ycombinator.com/item?id=37852711) - [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
 * [2023-10-12, 00:34:59](https://news.ycombinator.com/item?id=37852135) - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
-* [2023-10-11, 22:33:59](https://news.ycombinator.com/item?id=37851210) - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-11, 21:28:55](https://news.ycombinator.com/item?id=37850485) - [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
 * [2023-10-11, 12:12:11](https://news.ycombinator.com/item?id=37843470) - [A 4-track tape recorder made me fall in love with music again](https://www.gearpatrol.com/tech/audio/a45461959/tascam-portastudio-414-mkii/)
 * [2023-10-11, 10:57:56](https://news.ycombinator.com/item?id=37842963) - [Spiraling into Control (2013)](https://blog.beeminder.com/nick/)
 * [2023-10-11, 10:47:24](https://news.ycombinator.com/item?id=37842904) - [The Hard Economics of Selling Web Data](https://blog.databoutique.com/p/the-hard-economics-of-selling-web)
-* [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 
 ## [Archives](archives/index.md)
 
