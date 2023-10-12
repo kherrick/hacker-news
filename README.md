@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-12, 19:55:35](https://news.ycombinator.com/item?id=37862338) - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
+* [2023-10-12, 19:50:21](https://news.ycombinator.com/item?id=37862269) - [Djb warns NSA may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
+* [2023-10-12, 19:47:41](https://news.ycombinator.com/item?id=37862220) - [GNU Emacs Lisp Reference Manual](https://www.gnu.org/software/emacs/manual/html_node/elisp/Index.html)
 * [2023-10-12, 19:11:47](https://news.ycombinator.com/item?id=37861686) - [ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
 * [2023-10-12, 19:04:50](https://news.ycombinator.com/item?id=37861589) - [HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
 * [2023-10-12, 19:00:01](https://news.ycombinator.com/item?id=37861508) - [Mitochondrial permeabilization promotes inflammation in aged cells: study](https://phys.org/news/2023-10-scientists-biological-secrets-aging.html)
@@ -8,8 +10,6 @@
 * [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
 * [2023-10-12, 18:06:22](https://news.ycombinator.com/item?id=37860702) - [T-Mobile switches users to pricier plans](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
 * [2023-10-12, 17:52:46](https://news.ycombinator.com/item?id=37860496) - [QBinDiff: A Modular Diffing Toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
-* [2023-10-12, 17:27:51](https://news.ycombinator.com/item?id=37860172) - [Show HN: I got tired of reading \"This posting has been deleted by its author\"](https://clippings.june07.com)
-* [2023-10-12, 17:13:07](https://news.ycombinator.com/item?id=37860004) - [The GRU's Disruptive Playbook](https://www.mandiant.com/resources/blog/gru-disruptive-playbook)
 * [2023-10-12, 17:05:03](https://news.ycombinator.com/item?id=37859905) - [Automakers invented the crime of jaywalking (2015)](https://www.vox.com/2015/1/15/7551873/jaywalking-history)
 * [2023-10-12, 16:48:30](https://news.ycombinator.com/item?id=37859655) - [Toshiba to delist from Japanese stock exchange in December](https://english.kyodonews.net/news/2023/10/5e4f364913d7-toshiba-to-delist-in-japan-on-dec-20-after-74-years-of-history.html)
 * [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The midwit home](https://dynomight.substack.com/p/midwit-home)
@@ -28,8 +28,8 @@
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 * [2023-10-12, 08:44:16](https://news.ycombinator.com/item?id=37854844) - [Show HN: Nostalgist.js – Run emulators of retro consoles, within web browsers](https://nostalgist.js.org/)
 * [2023-10-12, 07:16:46](https://news.ycombinator.com/item?id=37854358) - [Bentham's Mugging (2022)](https://www.cambridge.org/core/journals/utilitas/article/benthams-mugging/9C67002F344B20661A6C35C960F25A86)
-* [2023-10-12, 07:00:55](https://news.ycombinator.com/item?id=37854269) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in Bennu asteroid sample](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
+* [2023-10-11, 00:15:32](https://news.ycombinator.com/item?id=37839458) - [Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment](https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html)
 
 ## [Archives](archives/index.md)
 
