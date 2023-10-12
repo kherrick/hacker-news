@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 18:57:35](https://news.ycombinator.com/item?id=37861467) - [Has Play Protect removed KDE Connect from your phone? Let us know](https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/)
 * [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
 * [2023-10-12, 18:09:42](https://news.ycombinator.com/item?id=37860732) - [France bans all pro-Palestinian demonstrations](https://www.bbc.com/news/world-europe-67088547)
 * [2023-10-12, 18:06:22](https://news.ycombinator.com/item?id=37860702) - [T-Mobile switching users to more expensive plans unless they call to opt out](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
