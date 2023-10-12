@@ -2,6 +2,7 @@
 
 * [2023-10-12, 14:19:46](https://news.ycombinator.com/item?id=37857544) - [The Twelve-Factor App](https://12factor.net/)
 * [2023-10-12, 14:18:58](https://news.ycombinator.com/item?id=37857535) - [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
+* [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857229) - [Migrate Users from Keycloak to Zitadel](https://zitadel.com/blog/migrate-from-keycloak)
 * [2023-10-12, 13:55:03](https://news.ycombinator.com/item?id=37857175) - [The data and puzzling history behind California's new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
 * [2023-10-12, 13:54:19](https://news.ycombinator.com/item?id=37857159) - [SpaceX files for new 29,988-satellite W-band network](https://www.spaceintelreport.com/spacex-files-29988-satellite-w-band-network-using-kingdom-of-tonga-as-regulatory-home/)
 * [2023-10-12, 13:33:58](https://news.ycombinator.com/item?id=37856895) - [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
@@ -23,13 +24,12 @@
 * [2023-10-12, 00:34:59](https://news.ycombinator.com/item?id=37852135) - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
 * [2023-10-11, 21:40:39](https://news.ycombinator.com/item?id=37850593) - [It’s time to allow researchers to submit manuscripts to multiple journals](https://www.nature.com/articles/d41586-023-03196-y)
 * [2023-10-11, 21:28:55](https://news.ycombinator.com/item?id=37850485) - [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
-* [2023-10-11, 21:27:14](https://news.ycombinator.com/item?id=37850459) - [QX82: Tiny JavaScript game/experience engine inspired by retro 80s computing](https://btco.github.io/qx82/)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
-* [2023-10-11, 21:01:17](https://news.ycombinator.com/item?id=37850205) - [Show HN: See library availabilities for your Goodreads want-to-read list](https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle)
+* [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
 * [2023-10-11, 12:12:11](https://news.ycombinator.com/item?id=37843470) - [A 4-track tape recorder made me fall in love with music again](https://www.gearpatrol.com/tech/audio/a45461959/tascam-portastudio-414-mkii/)
 * [2023-10-11, 10:57:56](https://news.ycombinator.com/item?id=37842963) - [Spiraling into Control (2013)](https://blog.beeminder.com/nick/)
 * [2023-10-11, 10:47:24](https://news.ycombinator.com/item?id=37842904) - [The Hard Economics of Selling Web Data](https://blog.databoutique.com/p/the-hard-economics-of-selling-web)
-* [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
+* [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 
 ## [Archives](archives/index.md)
 
