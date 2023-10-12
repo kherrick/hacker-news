@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 11:04:24](https://news.ycombinator.com/item?id=37855625) - [Millions of Homes Still Being Kept Vacant as Housing Costs Surge, Report Finds](https://www.vice.com/en/article/pkam9v/millions-of-homes-still-being-kept-vacant-as-housing-costs-surge-report-finds)
 * [2023-10-12, 10:49:10](https://news.ycombinator.com/item?id=37855525) - [There Is No Moral Argument for Staying on Twitter/X](https://joanwestenberg.medium.com/there-is-no-moral-argument-for-staying-on-twitter-x-cdef14b04730)
 * [2023-10-12, 09:55:51](https://news.ycombinator.com/item?id=37855213) - [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
 * [2023-10-12, 09:28:09](https://news.ycombinator.com/item?id=37855063) - [IRS says Microsoft may owe more than $29B in back taxes; MSFT disagrees](https://apnews.com/article/microsoft-taxes-irs-96eb66abe86de19f1108209a8d57431a)
