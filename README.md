@@ -4,7 +4,6 @@
 * [2023-10-12, 13:17:50](https://news.ycombinator.com/item?id=37856754) - [Atlassian Acquires Loom](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom)
 * [2023-10-12, 13:07:40](https://news.ycombinator.com/item?id=37856655) - [Support for Third U.S. Political Party Up to 63%](https://news.gallup.com/poll/512135/support-third-political-party.aspx)
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
-* [2023-10-12, 11:04:24](https://news.ycombinator.com/item?id=37855625) - [Millions of Homes Still Being Kept Vacant as Housing Costs Surge, Report Finds](https://www.vice.com/en/article/pkam9v/millions-of-homes-still-being-kept-vacant-as-housing-costs-surge-report-finds)
 * [2023-10-12, 09:55:51](https://news.ycombinator.com/item?id=37855213) - [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
 * [2023-10-12, 09:26:50](https://news.ycombinator.com/item?id=37855057) - [47 Anime for 47 Prefectures in Japan](https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/)
 * [2023-10-12, 09:16:14](https://news.ycombinator.com/item?id=37854995) - [Email and Git = <3](https://git-send-email.io/)
@@ -30,6 +29,7 @@
 * [2023-10-11, 10:47:24](https://news.ycombinator.com/item?id=37842904) - [The Hard Economics of Selling Web Data](https://blog.databoutique.com/p/the-hard-economics-of-selling-web)
 * [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
 * [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
+* [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 
 ## [Archives](archives/index.md)
 
