@@ -34,6 +34,7 @@
 * [2023-10-12, 16:44:05](https://news.ycombinator.com/item?id=37859607) - [Tips to Optimize Your AWS Lambda Performance](https://medium.com/@deepdmistry/5-tips-to-optimize-your-aws-lambda-performance-899525e3491b)
 * [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
 * [2023-10-12, 16:28:34](https://news.ycombinator.com/item?id=37859402) - [EU \"Chat Control\" and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
+* [2023-10-12, 16:26:56](https://news.ycombinator.com/item?id=37859388) - [A few cores too many (2016)](https://prl.khoury.northeastern.edu/blog/2016/08/03/a-few-cores-too-many/)
 * [2023-10-12, 16:25:29](https://news.ycombinator.com/item?id=37859370) - [Hamas vows to broadcast hostage executions. Tech firms can't stop them](https://www.washingtonpost.com/world/2023/10/12/hamas-hostage-video-threat/)
 * [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
