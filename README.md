@@ -5,6 +5,7 @@
 * [2023-10-12, 21:39:47](https://news.ycombinator.com/item?id=37863512) - [Screenshots from Windows 95](https://guidebookgallery.org/screenshots/win95)
 * [2023-10-12, 21:21:05](https://news.ycombinator.com/item?id=37863309) - [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
 * [2023-10-12, 21:04:10](https://news.ycombinator.com/item?id=37863126) - [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
+* [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 19:11:47](https://news.ycombinator.com/item?id=37861686) - [ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
 * [2023-10-12, 19:04:50](https://news.ycombinator.com/item?id=37861589) - [HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
@@ -27,7 +28,6 @@
 * [2023-10-12, 08:44:16](https://news.ycombinator.com/item?id=37854844) - [Show HN: Nostalgist.js – Run emulators of retro consoles, within web browsers](https://nostalgist.js.org/)
 * [2023-10-12, 00:42:11](https://news.ycombinator.com/item?id=37852185) - [True to form: Media and data technologies of self-inscription](https://www.cambridge.org/core/journals/science-in-context/article/true-to-form-media-and-data-technologies-of-selfinscription/61C1F69BA159B18E0567DECD4D236890)
 * [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in Bennu asteroid sample](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
-* [2023-10-11, 14:38:04](https://news.ycombinator.com/item?id=37844979) - [Extracting IP from getaddrinfo call](https://blog.alien177.ca/from-getaddrinfo-to-ip/)
 * [2023-10-11, 00:15:32](https://news.ycombinator.com/item?id=37839458) - [Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment](https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html)
 * [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
 
