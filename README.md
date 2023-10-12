@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
+* [2023-10-12, 16:28:34](https://news.ycombinator.com/item?id=37859402) - [EU \"Chat Control\" and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
 * [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
 * [2023-10-12, 15:42:50](https://news.ycombinator.com/item?id=37858766) - [Woman's Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
@@ -27,9 +29,7 @@
 * [2023-10-12, 06:36:11](https://news.ycombinator.com/item?id=37854115) - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
 * [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
 * [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
-* [2023-10-12, 02:45:51](https://news.ycombinator.com/item?id=37852944) - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 02:10:00](https://news.ycombinator.com/item?id=37852711) - [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
-* [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
 
 ## [Archives](archives/index.md)
 

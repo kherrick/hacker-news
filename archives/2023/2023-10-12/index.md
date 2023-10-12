@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
+* [2023-10-12, 16:28:34](https://news.ycombinator.com/item?id=37859402) - [EU \"Chat Control\" and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
 * [2023-10-12, 16:25:29](https://news.ycombinator.com/item?id=37859370) - [Hamas vows to broadcast hostage executions. Tech firms can't stop them](https://www.washingtonpost.com/world/2023/10/12/hamas-hostage-video-threat/)
 * [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
