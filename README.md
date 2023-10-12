@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-12, 17:22:37](https://news.ycombinator.com/item?id=37860105) - [She's the star witness against Sam Bankman-Fried. Her testimony was explosive](https://text.npr.org/1205045583)
+* [2023-10-12, 17:13:07](https://news.ycombinator.com/item?id=37860004) - [The GRU's Disruptive Playbook](https://www.mandiant.com/resources/blog/gru-disruptive-playbook)
 * [2023-10-12, 17:05:03](https://news.ycombinator.com/item?id=37859905) - [Automakers invented the crime of jaywalking (2015)](https://www.vox.com/2015/1/15/7551873/jaywalking-history)
 * [2023-10-12, 16:48:51](https://news.ycombinator.com/item?id=37859659) - [YouTube TV, which costs $73 a month, agrees to end \"$600 less than cable\" ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
 * [2023-10-12, 16:48:30](https://news.ycombinator.com/item?id=37859655) - [Toshiba to delist from Japanese stock exchange in December](https://english.kyodonews.net/news/2023/10/5e4f364913d7-toshiba-to-delist-in-japan-on-dec-20-after-74-years-of-history.html)
@@ -28,7 +29,6 @@
 * [2023-10-12, 07:16:46](https://news.ycombinator.com/item?id=37854358) - [Bentham's Mugging (2022)](https://www.cambridge.org/core/journals/utilitas/article/benthams-mugging/9C67002F344B20661A6C35C960F25A86)
 * [2023-10-12, 07:00:55](https://news.ycombinator.com/item?id=37854269) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 06:44:17](https://news.ycombinator.com/item?id=37854159) - [Slack's Google Drive App can share your private Docs and Drive files](https://www.kapwing.com/blog/slacks-google-drive-integration-shares-private-documents/)
-* [2023-10-12, 06:36:11](https://news.ycombinator.com/item?id=37854115) - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
 * [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
 
 ## [Archives](archives/index.md)

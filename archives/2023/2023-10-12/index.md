@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
 * [2023-10-12, 17:22:37](https://news.ycombinator.com/item?id=37860105) - [She's the star witness against Sam Bankman-Fried. Her testimony was explosive](https://text.npr.org/1205045583)
+* [2023-10-12, 17:13:07](https://news.ycombinator.com/item?id=37860004) - [The GRU's Disruptive Playbook](https://www.mandiant.com/resources/blog/gru-disruptive-playbook)
 * [2023-10-12, 17:05:03](https://news.ycombinator.com/item?id=37859905) - [Automakers invented the crime of jaywalking (2015)](https://www.vox.com/2015/1/15/7551873/jaywalking-history)
 * [2023-10-12, 16:48:51](https://news.ycombinator.com/item?id=37859659) - [YouTube TV, which costs $73 a month, agrees to end \"$600 less than cable\" ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
 * [2023-10-12, 16:48:30](https://news.ycombinator.com/item?id=37859655) - [Toshiba to delist from Japanese stock exchange in December](https://english.kyodonews.net/news/2023/10/5e4f364913d7-toshiba-to-delist-in-japan-on-dec-20-after-74-years-of-history.html)
