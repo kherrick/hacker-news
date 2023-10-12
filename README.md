@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 15:03:23](https://news.ycombinator.com/item?id=37858198) - [The Humans Who Live as Lab Rats](https://www.thefp.com/p/the-human-beings-who-live-as-lab)
+* [2023-10-12, 14:49:31](https://news.ycombinator.com/item?id=37857991) - [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
 * [2023-10-12, 14:47:47](https://news.ycombinator.com/item?id=37857958) - [New Entry-Level Lucid Air Pure RWD Starts at $78,675, Still with 410-Mile Range](https://www.thedrive.com/news/new-entry-level-lucid-air-pure-rwd-starts-at-78675-still-offers-410-mile-range)
+* [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
+* [2023-10-12, 14:30:58](https://news.ycombinator.com/item?id=37857699) - [Major Breakthrough in the Vesuvius Challenge](https://twitter.com/natfriedman/status/1712470683207532906)
 * [2023-10-12, 14:19:46](https://news.ycombinator.com/item?id=37857544) - [The Twelve-Factor App](https://12factor.net/)
 * [2023-10-12, 14:18:58](https://news.ycombinator.com/item?id=37857535) - [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
 * [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
@@ -25,11 +29,7 @@
 * [2023-10-12, 02:45:51](https://news.ycombinator.com/item?id=37852944) - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 02:10:00](https://news.ycombinator.com/item?id=37852711) - [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
 * [2023-10-12, 00:34:59](https://news.ycombinator.com/item?id=37852135) - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
-* [2023-10-11, 21:28:55](https://news.ycombinator.com/item?id=37850485) - [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
-* [2023-10-11, 12:12:11](https://news.ycombinator.com/item?id=37843470) - [A 4-track tape recorder made me fall in love with music again](https://www.gearpatrol.com/tech/audio/a45461959/tascam-portastudio-414-mkii/)
-* [2023-10-11, 10:57:56](https://news.ycombinator.com/item?id=37842963) - [Spiraling into Control (2013)](https://blog.beeminder.com/nick/)
-* [2023-10-11, 10:47:24](https://news.ycombinator.com/item?id=37842904) - [The Hard Economics of Selling Web Data](https://blog.databoutique.com/p/the-hard-economics-of-selling-web)
 
 ## [Archives](archives/index.md)
 
