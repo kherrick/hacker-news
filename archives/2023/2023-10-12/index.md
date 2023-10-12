@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 19:55:35](https://news.ycombinator.com/item?id=37862338) - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
 * [2023-10-12, 19:28:24](https://news.ycombinator.com/item?id=37861927) - [It appears that Dropbox is sharing all content ouside the EU with OpenAI](https://mastodon.social/@gvwilson/111223262876771219)
+* [2023-10-12, 19:11:47](https://news.ycombinator.com/item?id=37861686) - [ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
 * [2023-10-12, 19:04:50](https://news.ycombinator.com/item?id=37861589) - [HTTP/2 Rapid Reset Attack](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
 * [2023-10-12, 19:00:01](https://news.ycombinator.com/item?id=37861508) - [Scientists unlock biological secrets of the aging process](https://phys.org/news/2023-10-scientists-biological-secrets-aging.html)
 * [2023-10-12, 18:57:35](https://news.ycombinator.com/item?id=37861467) - [Has Play Protect removed KDE Connect from your phone? Let us know](https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/)
