@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 15:15:11](https://news.ycombinator.com/item?id=37858369) - [Want to get started with LLMs? Here's what you need to know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
 * [2023-10-12, 15:03:23](https://news.ycombinator.com/item?id=37858198) - [The Humans Who Live as Lab Rats](https://www.thefp.com/p/the-human-beings-who-live-as-lab)
 * [2023-10-12, 14:49:31](https://news.ycombinator.com/item?id=37857991) - [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
 * [2023-10-12, 14:47:47](https://news.ycombinator.com/item?id=37857958) - [New Entry-Level Lucid Air Pure RWD Starts at $78,675, Still with 410-Mile Range](https://www.thedrive.com/news/new-entry-level-lucid-air-pure-rwd-starts-at-78675-still-offers-410-mile-range)
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
 * [2023-10-12, 14:30:58](https://news.ycombinator.com/item?id=37857699) - [Major Breakthrough in the Vesuvius Challenge](https://twitter.com/natfriedman/status/1712470683207532906)
+* [2023-10-12, 14:21:20](https://news.ycombinator.com/item?id=37857564) - [San Francisco is becoming a tech hub again, Y Combinator CEO says](https://www.marketplace.org/shows/marketplace-tech/san-francisco-is-becoming-a-tech-hub-again-y-combinator-ceo-says/)
 * [2023-10-12, 14:19:46](https://news.ycombinator.com/item?id=37857544) - [The Twelve-Factor App](https://12factor.net/)
 * [2023-10-12, 14:18:58](https://news.ycombinator.com/item?id=37857535) - [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
 * [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
