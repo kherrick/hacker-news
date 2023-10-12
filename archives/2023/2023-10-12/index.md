@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 22:03:55](https://news.ycombinator.com/item?id=37863776) - [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
 * [2023-10-12, 21:45:51](https://news.ycombinator.com/item?id=37863583) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 21:39:47](https://news.ycombinator.com/item?id=37863512) - [Screenshots from Windows 95](https://guidebookgallery.org/screenshots/win95)
 * [2023-10-12, 21:21:05](https://news.ycombinator.com/item?id=37863309) - [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
@@ -41,6 +42,7 @@
 * [2023-10-12, 16:26:56](https://news.ycombinator.com/item?id=37859388) - [A few cores too many (2016)](https://prl.khoury.northeastern.edu/blog/2016/08/03/a-few-cores-too-many/)
 * [2023-10-12, 16:25:29](https://news.ycombinator.com/item?id=37859370) - [Hamas vows to broadcast hostage executions. Tech firms can't stop them](https://www.washingtonpost.com/world/2023/10/12/hamas-hostage-video-threat/)
 * [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
+* [2023-10-12, 16:18:02](https://news.ycombinator.com/item?id=37859261) - [Impossible photo feat now possible via holography](https://spectrum.ieee.org/depth-of-field)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
 * [2023-10-12, 16:02:48](https://news.ycombinator.com/item?id=37859047) - [Oops–It looks like the Ariane 6 rocket may not offer Europe any launch savings](https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/)
 * [2023-10-12, 15:46:14](https://news.ycombinator.com/item?id=37858812) - [Show HN: Kali – Scheduling Assistant for iOS](https://apps.apple.com/us/app/kali-ai-calendar-scheduler/id6460134539)
