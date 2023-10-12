@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 19:28:24](https://news.ycombinator.com/item?id=37861927) - [It appears that Dropbox is sharing all content ouside the EU with OpenAI](https://mastodon.social/@gvwilson/111223262876771219)
+* [2023-10-12, 19:04:50](https://news.ycombinator.com/item?id=37861589) - [HTTP/2 Rapid Reset Attack](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
+* [2023-10-12, 19:00:01](https://news.ycombinator.com/item?id=37861508) - [Scientists unlock biological secrets of the aging process](https://phys.org/news/2023-10-scientists-biological-secrets-aging.html)
 * [2023-10-12, 18:57:35](https://news.ycombinator.com/item?id=37861467) - [Has Play Protect removed KDE Connect from your phone? Let us know](https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/)
 * [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
 * [2023-10-12, 18:09:42](https://news.ycombinator.com/item?id=37860732) - [France bans all pro-Palestinian demonstrations](https://www.bbc.com/news/world-europe-67088547)
@@ -27,6 +30,7 @@
 * [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
 * [2023-10-12, 16:02:48](https://news.ycombinator.com/item?id=37859047) - [Oops–It looks like the Ariane 6 rocket may not offer Europe any launch savings](https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/)
+* [2023-10-12, 15:46:14](https://news.ycombinator.com/item?id=37858812) - [Show HN: Kali – Scheduling Assistant for iOS](https://apps.apple.com/us/app/kali-ai-calendar-scheduler/id6460134539)
 * [2023-10-12, 15:42:50](https://news.ycombinator.com/item?id=37858766) - [Woman's Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
 * [2023-10-12, 15:33:42](https://news.ycombinator.com/item?id=37858643) - ['They know us better than we know ourselves': how Amazon tracked](https://www.theguardian.com/technology/2020/feb/03/amazon-kindle-data-reading-tracking-privacy)
 * [2023-10-12, 15:26:14](https://news.ycombinator.com/item?id=37858554) - [Why BMI is flawed – and how to redefine obesity](https://www.nature.com/articles/d41586-023-03143-x)
