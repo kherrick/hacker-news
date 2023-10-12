@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
+* [2023-10-12, 18:09:42](https://news.ycombinator.com/item?id=37860732) - [France bans all pro-Palestinian demonstrations](https://www.bbc.com/news/world-europe-67088547)
 * [2023-10-12, 18:06:22](https://news.ycombinator.com/item?id=37860702) - [T-Mobile switching users to more expensive plans unless they call to opt out](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
+* [2023-10-12, 17:56:36](https://news.ycombinator.com/item?id=37860563) - [Are we heading for World War Three?](https://theweek.com/92967/are-we-heading-towards-world-war-3)
 * [2023-10-12, 17:41:56](https://news.ycombinator.com/item?id=37860358) - [ACT test scores for U.S. students drop to a 30-year low](https://www.npr.org/2023/10/12/1205404298/act-test-scores-college-admissions-30-year-low)
 * [2023-10-12, 17:22:37](https://news.ycombinator.com/item?id=37860105) - [She's the star witness against Sam Bankman-Fried. Her testimony was explosive](https://text.npr.org/1205045583)
 * [2023-10-12, 17:21:38](https://news.ycombinator.com/item?id=37860086) - [Dracula – Dark theme for 300 apps](https://draculatheme.com)
-* [2023-10-12, 17:13:42](https://news.ycombinator.com/item?id=37860010) - [NASA's Bennu Asteroid Sample](https://www.nasa.gov/news-release/nasas-bennu-asteroid-sample-contains-carbon-water/)
 * [2023-10-12, 17:13:07](https://news.ycombinator.com/item?id=37860004) - [The GRU's Disruptive Playbook](https://www.mandiant.com/resources/blog/gru-disruptive-playbook)
 * [2023-10-12, 17:05:03](https://news.ycombinator.com/item?id=37859905) - [Automakers invented the crime of jaywalking (2015)](https://www.vox.com/2015/1/15/7551873/jaywalking-history)
 * [2023-10-12, 16:48:51](https://news.ycombinator.com/item?id=37859659) - [YouTube TV, which costs $73 a month, agrees to end \"$600 less than cable\" ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
@@ -21,7 +23,6 @@
 * [2023-10-12, 14:19:46](https://news.ycombinator.com/item?id=37857544) - [The Twelve-Factor App (2011)](https://12factor.net/)
 * [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by 21yo CS student](https://scrollprize.org/firstletters)
-* [2023-10-12, 13:59:12](https://news.ycombinator.com/item?id=37857242) - [Open Textbook Library – Textbooks that may be freely downloaded and distributed](https://open.umn.edu/opentextbooks)
 * [2023-10-12, 13:33:58](https://news.ycombinator.com/item?id=37856895) - [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
 * [2023-10-12, 09:26:50](https://news.ycombinator.com/item?id=37855057) - [47 Anime for 47 Prefectures in Japan](https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/)
@@ -29,7 +30,6 @@
 * [2023-10-12, 08:44:16](https://news.ycombinator.com/item?id=37854844) - [Show HN: Nostalgist.js – Run emulators of retro consoles, within web browsers](https://nostalgist.js.org/)
 * [2023-10-12, 07:00:55](https://news.ycombinator.com/item?id=37854269) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 06:44:17](https://news.ycombinator.com/item?id=37854159) - [Slack's Google Drive App can share your private Docs and Drive files](https://www.kapwing.com/blog/slacks-google-drive-integration-shares-private-documents/)
-* [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
 
 ## [Archives](archives/index.md)
 
