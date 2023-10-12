@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 21:04:10",
+      "https://news.ycombinator.com/item?id=37863126"
+    ],
+    [
+      "TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion",
+      "https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 20:46:37",
       "https://news.ycombinator.com/item?id=37862963"
     ],
@@ -67,16 +77,6 @@
     [
       "OpenAI is too cheap to beat",
       "https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 17:52:46",
-      "https://news.ycombinator.com/item?id=37860496"
-    ],
-    [
-      "QBinDiff: A Modular Diffing Toolkit",
-      "https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html"
     ]
   ],
   [
