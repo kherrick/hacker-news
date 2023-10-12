@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
 * [2023-10-12, 21:45:51](https://news.ycombinator.com/item?id=37863583) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+* [2023-10-12, 21:39:47](https://news.ycombinator.com/item?id=37863512) - [Screenshots from Windows 95](https://guidebookgallery.org/screenshots/win95)
+* [2023-10-12, 21:21:05](https://news.ycombinator.com/item?id=37863309) - [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
 * [2023-10-12, 21:04:10](https://news.ycombinator.com/item?id=37863126) - [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
 * [2023-10-12, 20:46:37](https://news.ycombinator.com/item?id=37862963) - [Firefox and Fastly take another step toward a privacy upgrade for the internet](https://www.fastly.com/blog/firefox-fastly-take-another-step-toward-security-upgrade)
 * [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
