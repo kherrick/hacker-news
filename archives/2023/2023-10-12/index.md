@@ -8,6 +8,7 @@
 * [2023-10-12, 19:04:50](https://news.ycombinator.com/item?id=37861589) - [HTTP/2 Rapid Reset Attack](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
 * [2023-10-12, 19:00:01](https://news.ycombinator.com/item?id=37861508) - [Scientists unlock biological secrets of the aging process](https://phys.org/news/2023-10-scientists-biological-secrets-aging.html)
 * [2023-10-12, 18:57:35](https://news.ycombinator.com/item?id=37861467) - [Has Play Protect removed KDE Connect from your phone? Let us know](https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/)
+* [2023-10-12, 18:25:58](https://news.ycombinator.com/item?id=37860970) - [FGM ban in the Gambia under threat as calls grow to repeal law](https://www.theguardian.com/global-development/2023/oct/11/fgm-ban-in-the-gambia-under-threat-as-calls-grow-to-repeal-law)
 * [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
 * [2023-10-12, 18:09:42](https://news.ycombinator.com/item?id=37860732) - [France bans all pro-Palestinian demonstrations](https://www.bbc.com/news/world-europe-67088547)
 * [2023-10-12, 18:06:22](https://news.ycombinator.com/item?id=37860702) - [T-Mobile switching users to more expensive plans unless they call to opt out](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
