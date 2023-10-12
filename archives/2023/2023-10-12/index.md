@@ -10,6 +10,7 @@
 * [2023-10-12, 09:26:50](https://news.ycombinator.com/item?id=37855057) - [47 Anime for 47 Prefectures in Japan](https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/)
 * [2023-10-12, 09:16:14](https://news.ycombinator.com/item?id=37854995) - [Email and Git = <3](https://git-send-email.io/)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
+* [2023-10-12, 08:44:16](https://news.ycombinator.com/item?id=37854844) - [Show HN: Nostalgist.js – Run emulators of retro consoles, within web browsers](https://nostalgist.js.org/)
 * [2023-10-12, 07:48:12](https://news.ycombinator.com/item?id=37854526) - [Why the BBC doesn't call Hamas militants \"terrorists\"](https://www.bbc.com/news/world-middle-east-67083432)
 * [2023-10-12, 07:16:46](https://news.ycombinator.com/item?id=37854358) - [Bentham's Mugging (2022)](https://www.cambridge.org/core/journals/utilitas/article/benthams-mugging/9C67002F344B20661A6C35C960F25A86)
 * [2023-10-12, 06:44:17](https://news.ycombinator.com/item?id=37854159) - [Slack's Google Drive App can share your private Docs and Drive files](https://www.kapwing.com/blog/slacks-google-drive-integration-shares-private-documents/)
