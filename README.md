@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 09:55:51](https://news.ycombinator.com/item?id=37855213) - [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
 * [2023-10-12, 09:28:09](https://news.ycombinator.com/item?id=37855063) - [IRS says Microsoft may owe more than $29B in back taxes; MSFT disagrees](https://apnews.com/article/microsoft-taxes-irs-96eb66abe86de19f1108209a8d57431a)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 * [2023-10-12, 06:36:11](https://news.ycombinator.com/item?id=37854115) - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
 * [2023-10-12, 04:15:46](https://news.ycombinator.com/item?id=37853435) - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
 * [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
-* [2023-10-12, 03:58:12](https://news.ycombinator.com/item?id=37853355) - [A BART seat-slashing gang that was part of an upholstery racket (2019)](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
 * [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
 * [2023-10-12, 02:45:51](https://news.ycombinator.com/item?id=37852944) - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 02:10:00](https://news.ycombinator.com/item?id=37852711) - [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
