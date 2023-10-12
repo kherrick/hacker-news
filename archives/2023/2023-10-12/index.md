@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 20:46:37](https://news.ycombinator.com/item?id=37862963) - [Firefox and Fastly take another step toward a privacy upgrade for the internet](https://www.fastly.com/blog/firefox-fastly-take-another-step-toward-security-upgrade)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 19:55:35](https://news.ycombinator.com/item?id=37862338) - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
 * [2023-10-12, 19:50:21](https://news.ycombinator.com/item?id=37862269) - [Djb warns NSA may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
@@ -52,6 +53,7 @@
 * [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by 21yo CS student](https://scrollprize.org/firstletters)
 * [2023-10-12, 13:59:12](https://news.ycombinator.com/item?id=37857242) - [Open Textbook Library – Textbooks that may be freely downloaded and distributed](https://open.umn.edu/opentextbooks)
+* [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857231) - [Ask HN: Show me your half baked project](https://news.ycombinator.com/item?id=37857231)
 * [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857229) - [Migrate Users from Keycloak to Zitadel](https://zitadel.com/blog/migrate-from-keycloak)
 * [2023-10-12, 13:55:03](https://news.ycombinator.com/item?id=37857175) - [The data and puzzling history behind California's new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
 * [2023-10-12, 13:54:19](https://news.ycombinator.com/item?id=37857159) - [SpaceX files for new 29,988-satellite W-band network](https://www.spaceintelreport.com/spacex-files-29988-satellite-w-band-network-using-kingdom-of-tonga-as-regulatory-home/)
