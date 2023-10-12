@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
 * [2023-10-12, 22:03:55](https://news.ycombinator.com/item?id=37863776) - [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
+* [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [The Misunderstanding About Education That Cost Mark Zuckerberg $100M](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
 * [2023-10-12, 21:45:51](https://news.ycombinator.com/item?id=37863583) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 21:39:47](https://news.ycombinator.com/item?id=37863512) - [Screenshots from Windows 95](https://guidebookgallery.org/screenshots/win95)
 * [2023-10-12, 21:21:05](https://news.ycombinator.com/item?id=37863309) - [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
@@ -99,5 +100,6 @@
 * [2023-10-12, 01:58:16](https://news.ycombinator.com/item?id=37852640) - [FastGPT](https://kagi.com/fastgpt)
 * [2023-10-12, 01:22:16](https://news.ycombinator.com/item?id=37852410) - [\"Full Self-Driving\" doesn't imply autonomy, Tesla engineer says](https://cleanenergyrevolution.co/2023/10/11/full-self-driving-doesnt-imply-autonomy-tesla-engineer-says/)
 * [2023-10-12, 01:01:08](https://news.ycombinator.com/item?id=37852301) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
+* [2023-10-12, 00:42:11](https://news.ycombinator.com/item?id=37852185) - [True to form: Media and data technologies of self-inscription](https://www.cambridge.org/core/journals/science-in-context/article/true-to-form-media-and-data-technologies-of-selfinscription/61C1F69BA159B18E0567DECD4D236890)
 * [2023-10-12, 00:34:59](https://news.ycombinator.com/item?id=37852135) - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
 * [2023-10-12, 00:34:42](https://news.ycombinator.com/item?id=37852133) - [Kagi finally let me lay Google Search to rest](https://dannb.org/blog/2023/how-kagi-beats-google/)
