@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 18:06:22](https://news.ycombinator.com/item?id=37860702) - [T-Mobile switching users to more expensive plans unless they call to opt out](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
 * [2023-10-12, 17:41:56](https://news.ycombinator.com/item?id=37860358) - [ACT test scores for U.S. students drop to a 30-year low](https://www.npr.org/2023/10/12/1205404298/act-test-scores-college-admissions-30-year-low)
 * [2023-10-12, 17:22:37](https://news.ycombinator.com/item?id=37860105) - [She's the star witness against Sam Bankman-Fried. Her testimony was explosive](https://text.npr.org/1205045583)
 * [2023-10-12, 17:21:38](https://news.ycombinator.com/item?id=37860086) - [Dracula – Dark theme for 300 apps](https://draculatheme.com)

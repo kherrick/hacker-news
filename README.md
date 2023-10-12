@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 18:06:22](https://news.ycombinator.com/item?id=37860702) - [T-Mobile switching users to more expensive plans unless they call to opt out](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
 * [2023-10-12, 17:41:56](https://news.ycombinator.com/item?id=37860358) - [ACT test scores for U.S. students drop to a 30-year low](https://www.npr.org/2023/10/12/1205404298/act-test-scores-college-admissions-30-year-low)
 * [2023-10-12, 17:22:37](https://news.ycombinator.com/item?id=37860105) - [She's the star witness against Sam Bankman-Fried. Her testimony was explosive](https://text.npr.org/1205045583)
 * [2023-10-12, 17:21:38](https://news.ycombinator.com/item?id=37860086) - [Dracula – Dark theme for 300 apps](https://draculatheme.com)
@@ -26,7 +27,6 @@
 * [2023-10-12, 09:26:50](https://news.ycombinator.com/item?id=37855057) - [47 Anime for 47 Prefectures in Japan](https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 * [2023-10-12, 08:44:16](https://news.ycombinator.com/item?id=37854844) - [Show HN: Nostalgist.js – Run emulators of retro consoles, within web browsers](https://nostalgist.js.org/)
-* [2023-10-12, 07:16:46](https://news.ycombinator.com/item?id=37854358) - [Bentham's Mugging (2022)](https://www.cambridge.org/core/journals/utilitas/article/benthams-mugging/9C67002F344B20661A6C35C960F25A86)
 * [2023-10-12, 07:00:55](https://news.ycombinator.com/item?id=37854269) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 06:44:17](https://news.ycombinator.com/item?id=37854159) - [Slack's Google Drive App can share your private Docs and Drive files](https://www.kapwing.com/blog/slacks-google-drive-integration-shares-private-documents/)
 * [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
