@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 16:48:51](https://news.ycombinator.com/item?id=37859659) - [YouTube TV, which costs $73 a month, agrees to end \"$600 less than cable\" ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
+* [2023-10-12, 16:47:10](https://news.ycombinator.com/item?id=37859637) - [Who Runs the Best U.S. Schools? It May Be the Defense Department](https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html)
 * [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
 * [2023-10-12, 16:28:34](https://news.ycombinator.com/item?id=37859402) - [EU \"Chat Control\" and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
 * [2023-10-12, 16:25:29](https://news.ycombinator.com/item?id=37859370) - [Hamas vows to broadcast hostage executions. Tech firms can't stop them](https://www.washingtonpost.com/world/2023/10/12/hamas-hostage-video-threat/)
 * [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
+* [2023-10-12, 16:02:48](https://news.ycombinator.com/item?id=37859047) - [Oops–It looks like the Ariane 6 rocket may not offer Europe any launch savings](https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/)
 * [2023-10-12, 15:42:50](https://news.ycombinator.com/item?id=37858766) - [Woman's Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
 * [2023-10-12, 15:33:42](https://news.ycombinator.com/item?id=37858643) - ['They know us better than we know ourselves': how Amazon tracked](https://www.theguardian.com/technology/2020/feb/03/amazon-kindle-data-reading-tracking-privacy)
 * [2023-10-12, 15:26:14](https://news.ycombinator.com/item?id=37858554) - [Why BMI is flawed – and how to redefine obesity](https://www.nature.com/articles/d41586-023-03143-x)

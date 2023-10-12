@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 16:48:51](https://news.ycombinator.com/item?id=37859659) - [YouTube TV, which costs $73 a month, agrees to end \"$600 less than cable\" ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
+* [2023-10-12, 16:47:10](https://news.ycombinator.com/item?id=37859637) - [Who Runs the Best U.S. Schools? It May Be the Defense Department](https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html)
 * [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
 * [2023-10-12, 16:28:34](https://news.ycombinator.com/item?id=37859402) - [EU \"Chat Control\" and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
 * [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
+* [2023-10-12, 16:02:48](https://news.ycombinator.com/item?id=37859047) - [Oops–It looks like the Ariane 6 rocket may not offer Europe any launch savings](https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/)
 * [2023-10-12, 15:42:50](https://news.ycombinator.com/item?id=37858766) - [Woman's Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
 * [2023-10-12, 15:15:11](https://news.ycombinator.com/item?id=37858369) - [Want to get started with LLMs? Here's what you need to know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
 * [2023-10-12, 14:49:31](https://news.ycombinator.com/item?id=37857991) - [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
@@ -14,7 +17,6 @@
 * [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by 21yo CS student](https://scrollprize.org/firstletters)
 * [2023-10-12, 13:59:12](https://news.ycombinator.com/item?id=37857242) - [Open Textbook Library – Textbooks that may be freely downloaded and distributed](https://open.umn.edu/opentextbooks)
-* [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857229) - [Migrate Users from Keycloak to Zitadel](https://zitadel.com/blog/migrate-from-keycloak)
 * [2023-10-12, 13:34:11](https://news.ycombinator.com/item?id=37856898) - [Google Removes the Photo Sphere Mode from the Pixel 8 Camera](https://www.androidauthority.com/google-photo-sphere-mode-pixel-8-3373610/)
 * [2023-10-12, 13:33:58](https://news.ycombinator.com/item?id=37856895) - [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
@@ -27,9 +29,7 @@
 * [2023-10-12, 07:00:55](https://news.ycombinator.com/item?id=37854269) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 06:44:17](https://news.ycombinator.com/item?id=37854159) - [Slack's Google Drive App can share your private Docs and Drive files](https://www.kapwing.com/blog/slacks-google-drive-integration-shares-private-documents/)
 * [2023-10-12, 06:36:11](https://news.ycombinator.com/item?id=37854115) - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
-* [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
 * [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
-* [2023-10-12, 02:10:00](https://news.ycombinator.com/item?id=37852711) - [Ask HN: Has anyone gotten complete, permanent relief from tinnitus?](https://news.ycombinator.com/item?id=37852711)
 
 ## [Archives](archives/index.md)
 
