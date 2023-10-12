@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
 * [2023-10-12, 15:42:50](https://news.ycombinator.com/item?id=37858766) - [Woman's Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
 * [2023-10-12, 15:33:42](https://news.ycombinator.com/item?id=37858643) - ['They know us better than we know ourselves': how Amazon tracked](https://www.theguardian.com/technology/2020/feb/03/amazon-kindle-data-reading-tracking-privacy)
 * [2023-10-12, 15:26:14](https://news.ycombinator.com/item?id=37858554) - [Why BMI is flawed – and how to redefine obesity](https://www.nature.com/articles/d41586-023-03143-x)
@@ -18,10 +19,12 @@
 * [2023-10-12, 14:18:58](https://news.ycombinator.com/item?id=37857535) - [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
 * [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by 21yo CS student](https://scrollprize.org/firstletters)
+* [2023-10-12, 13:59:12](https://news.ycombinator.com/item?id=37857242) - [Open Textbook Library – Textbooks that may be freely downloaded and distributed](https://open.umn.edu/opentextbooks)
 * [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857229) - [Migrate Users from Keycloak to Zitadel](https://zitadel.com/blog/migrate-from-keycloak)
 * [2023-10-12, 13:55:03](https://news.ycombinator.com/item?id=37857175) - [The data and puzzling history behind California's new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
 * [2023-10-12, 13:54:19](https://news.ycombinator.com/item?id=37857159) - [SpaceX files for new 29,988-satellite W-band network](https://www.spaceintelreport.com/spacex-files-29988-satellite-w-band-network-using-kingdom-of-tonga-as-regulatory-home/)
 * [2023-10-12, 13:44:46](https://news.ycombinator.com/item?id=37857017) - [Ask HN: Googlers, Will Google Disable Accounts for Using Adblockers on YouTube?](https://news.ycombinator.com/item?id=37857017)
+* [2023-10-12, 13:34:11](https://news.ycombinator.com/item?id=37856898) - [Google Removes the Photo Sphere Mode from the Pixel 8 Camera](https://www.androidauthority.com/google-photo-sphere-mode-pixel-8-3373610/)
 * [2023-10-12, 13:33:58](https://news.ycombinator.com/item?id=37856895) - [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
 * [2023-10-12, 13:17:50](https://news.ycombinator.com/item?id=37856754) - [Atlassian Acquires Loom](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom)
 * [2023-10-12, 13:07:40](https://news.ycombinator.com/item?id=37856655) - [Support for Third U.S. Political Party Up to 63%](https://news.gallup.com/poll/512135/support-third-political-party.aspx)
