@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 07:48:12](https://news.ycombinator.com/item?id=37854526) - [Why the BBC doesn't call Hamas militants \"terrorists\"](https://www.bbc.com/news/world-middle-east-67083432)
 * [2023-10-12, 06:36:11](https://news.ycombinator.com/item?id=37854115) - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
 * [2023-10-12, 04:36:50](https://news.ycombinator.com/item?id=37853526) - [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
 * [2023-10-12, 04:15:46](https://news.ycombinator.com/item?id=37853435) - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
