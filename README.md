@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 21:45:51](https://news.ycombinator.com/item?id=37863583) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 21:04:10](https://news.ycombinator.com/item?id=37863126) - [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
-* [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 19:55:35](https://news.ycombinator.com/item?id=37862338) - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
 * [2023-10-12, 19:11:47](https://news.ycombinator.com/item?id=37861686) - [ISS Rodent Habitat](https://spaceflight101.com/iss/rodent-habitat/)
@@ -14,7 +14,6 @@
 * [2023-10-12, 16:47:10](https://news.ycombinator.com/item?id=37859637) - [Schools for children of military achieve results rarely seen in public education](https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html)
 * [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The midwit home](https://dynomight.substack.com/p/midwit-home)
 * [2023-10-12, 16:26:56](https://news.ycombinator.com/item?id=37859388) - [A few cores too many (2016)](https://prl.khoury.northeastern.edu/blog/2016/08/03/a-few-cores-too-many/)
-* [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't be fucked: Underrated cause of tech debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator](https://www.desmos.com/3d)
 * [2023-10-12, 14:49:31](https://news.ycombinator.com/item?id=37857991) - [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
@@ -30,6 +29,7 @@
 * [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in Bennu asteroid sample](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
 * [2023-10-11, 14:38:04](https://news.ycombinator.com/item?id=37844979) - [Extracting IP from getaddrinfo call](https://blog.alien177.ca/from-getaddrinfo-to-ip/)
 * [2023-10-11, 00:15:32](https://news.ycombinator.com/item?id=37839458) - [Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment](https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html)
+* [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
 
 ## [Archives](archives/index.md)
 
