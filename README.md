@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 * [2023-10-12, 06:36:11](https://news.ycombinator.com/item?id=37854115) - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
-* [2023-10-12, 04:36:50](https://news.ycombinator.com/item?id=37853526) - [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
 * [2023-10-12, 04:15:46](https://news.ycombinator.com/item?id=37853435) - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
 * [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
 * [2023-10-12, 03:58:12](https://news.ycombinator.com/item?id=37853355) - [A BART seat-slashing gang that was part of an upholstery racket (2019)](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
