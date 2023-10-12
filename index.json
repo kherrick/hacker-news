@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-12, 19:28:24",
-      "https://news.ycombinator.com/item?id=37861927"
-    ],
-    [
-      "It appears that Dropbox is sharing all content ouside the EU with OpenAI",
-      "https://mastodon.social/@gvwilson/111223262876771219"
-    ]
-  ],
-  [
-    [
       "2023-10-12, 19:04:50",
       "https://news.ycombinator.com/item?id=37861589"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37861508"
     ],
     [
-      "Scientists unlock biological secrets of the aging process",
+      "Mitochondrial permeabilization promotes inflammation in aged cells: study",
       "https://phys.org/news/2023-10-scientists-biological-secrets-aging.html"
     ]
   ],
@@ -37,6 +27,16 @@
     [
       "Has Play Protect removed KDE Connect from your phone? Let us know",
       "https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 18:25:58",
+      "https://news.ycombinator.com/item?id=37860970"
+    ],
+    [
+      "FGM ban in the Gambia under threat as calls grow to repeal law",
+      "https://www.theguardian.com/global-development/2023/oct/11/fgm-ban-in-the-gambia-under-threat-as-calls-grow-to-repeal-law"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: I got tired of reading \"This posting has been deleted by its author\"",
       "https://clippings.june07.com"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 17:13:42",
-      "https://news.ycombinator.com/item?id=37860010"
-    ],
-    [
-      "NASA's Bennu Asteroid Sample",
-      "https://www.nasa.gov/news-release/nasas-bennu-asteroid-sample-contains-carbon-water/"
     ]
   ],
   [
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37858766"
     ],
     [
-      "Woman's Experimental Bionic Hand Passes Major Test with Flying Colors",
+      "Woman's experimental bionic hand passes major test",
       "https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751"
     ]
   ],
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37857521"
     ],
     [
-      "The AI research job market shit show (and my experience)",
+      "The AI research job market",
       "https://www.interconnects.ai/p/ai-research-job-market"
     ]
   ],
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37857417"
     ],
     [
-      "First word discovered in unopened Herculaneum scroll by 21yo CS student",
+      "First word discovered in unopened Herculaneum scroll by CS student",
       "https://scrollprize.org/firstletters"
     ]
   ],
@@ -247,16 +237,6 @@
     [
       "NASA: Capillary Cup",
       "https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 09:26:50",
-      "https://news.ycombinator.com/item?id=37855057"
-    ],
-    [
-      "47 Anime for 47 Prefectures in Japan",
-      "https://www.tokyoweekender.com/art_and_culture/entertainment-art_and_culture/47-anime-locations-47-prefectures-japan/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Handle.com (YC W19) Is Hiring (ABM Manager)",
       "https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 03:27:19",
+      "https://news.ycombinator.com/item?id=37853181"
+    ],
+    [
+      "Metric Time",
+      "https://metric-time.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 21:36:16",
+      "https://news.ycombinator.com/item?id=37850556"
+    ],
+    [
+      "NASA finds water and organics in Bennu asteroid sample",
+      "https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/"
     ]
   ]
 ]
