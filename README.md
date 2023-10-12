@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 21:04:10](https://news.ycombinator.com/item?id=37863126) - [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
 * [2023-10-12, 20:46:37](https://news.ycombinator.com/item?id=37862963) - [Firefox and Fastly take another step toward a privacy upgrade for the internet](https://www.fastly.com/blog/firefox-fastly-take-another-step-toward-security-upgrade)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 19:55:35](https://news.ycombinator.com/item?id=37862338) - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
@@ -7,7 +8,6 @@
 * [2023-10-12, 19:04:50](https://news.ycombinator.com/item?id=37861589) - [HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
 * [2023-10-12, 19:00:01](https://news.ycombinator.com/item?id=37861508) - [Mitochondrial permeabilization promotes inflammation in aged cells: study](https://phys.org/news/2023-10-scientists-biological-secrets-aging.html)
 * [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
-* [2023-10-12, 17:52:46](https://news.ycombinator.com/item?id=37860496) - [QBinDiff: A Modular Diffing Toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
 * [2023-10-12, 17:27:51](https://news.ycombinator.com/item?id=37860172) - [Show HN: I got tired of reading \"This posting has been deleted by its author\"](https://clippings.june07.com)
 * [2023-10-12, 17:05:03](https://news.ycombinator.com/item?id=37859905) - [Automakers invented the crime of jaywalking (2015)](https://www.vox.com/2015/1/15/7551873/jaywalking-history)
 * [2023-10-12, 16:48:30](https://news.ycombinator.com/item?id=37859655) - [Toshiba to delist from Japanese stock exchange](https://english.kyodonews.net/news/2023/10/5e4f364913d7-toshiba-to-delist-in-japan-on-dec-20-after-74-years-of-history.html)
