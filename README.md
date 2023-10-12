@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 12:21:11](https://news.ycombinator.com/item?id=37856192) - [Think that your plastic is being recycled? Think again](https://www.technologyreview.com/2023/10/12/1081129/plastic-recycling-climate-change-microplastics/)
+* [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
 * [2023-10-12, 11:04:24](https://news.ycombinator.com/item?id=37855625) - [Millions of Homes Still Being Kept Vacant as Housing Costs Surge, Report Finds](https://www.vice.com/en/article/pkam9v/millions-of-homes-still-being-kept-vacant-as-housing-costs-surge-report-finds)
 * [2023-10-12, 09:55:51](https://news.ycombinator.com/item?id=37855213) - [Microsoft reveals IRS notice asking for $28.9B in back taxes](https://www.engadget.com/microsoft-reveals-irs-notice-asking-for-289-billion-in-back-taxes-055326006.html)
 * [2023-10-12, 09:28:09](https://news.ycombinator.com/item?id=37855063) - [IRS says Microsoft may owe more than $29B in back taxes; MSFT disagrees](https://apnews.com/article/microsoft-taxes-irs-96eb66abe86de19f1108209a8d57431a)
@@ -22,14 +24,12 @@
 * [2023-10-11, 21:27:14](https://news.ycombinator.com/item?id=37850459) - [QX82: Tiny JavaScript game/experience engine inspired by retro 80s computing](https://btco.github.io/qx82/)
 * [2023-10-11, 21:06:44](https://news.ycombinator.com/item?id=37850265) - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
 * [2023-10-11, 21:01:17](https://news.ycombinator.com/item?id=37850205) - [Show HN: See library availabilities for your Goodreads want-to-read list](https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle)
-* [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
-* [2023-10-11, 18:25:37](https://news.ycombinator.com/item?id=37848321) - [Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
-* [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
 * [2023-10-11, 18:11:08](https://news.ycombinator.com/item?id=37848115) - [Vine Robots: Learn to Make Your Own](https://www.vinerobots.org/)
 * [2023-10-11, 12:12:11](https://news.ycombinator.com/item?id=37843470) - [A 4-track tape recorder made me fall in love with music again](https://www.gearpatrol.com/tech/audio/a45461959/tascam-portastudio-414-mkii/)
+* [2023-10-11, 10:57:56](https://news.ycombinator.com/item?id=37842963) - [Spiraling into Control (2013)](https://blog.beeminder.com/nick/)
 * [2023-10-11, 10:47:24](https://news.ycombinator.com/item?id=37842904) - [The Hard Economics of Selling Web Data](https://blog.databoutique.com/p/the-hard-economics-of-selling-web)
-* [2023-10-11, 10:02:10](https://news.ycombinator.com/item?id=37842645) - [Jumperless: Breadboard Without Jumper](https://hackaday.io/project/191238-jumperless)
 * [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
+* [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
 
 ## [Archives](archives/index.md)
 
