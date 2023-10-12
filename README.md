@@ -2,8 +2,10 @@
 
 * [2023-10-12, 06:36:11](https://news.ycombinator.com/item?id=37854115) - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
 * [2023-10-12, 04:36:50](https://news.ycombinator.com/item?id=37853526) - [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
+* [2023-10-12, 04:15:46](https://news.ycombinator.com/item?id=37853435) - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
 * [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
-* [2023-10-12, 03:58:12](https://news.ycombinator.com/item?id=37853355) - [The little-told story about the BART seat-slashing gang](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
+* [2023-10-12, 03:58:12](https://news.ycombinator.com/item?id=37853355) - [A BART seat-slashing gang that was part of an upholstery racket (2019)](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
+* [2023-10-12, 03:27:19](https://news.ycombinator.com/item?id=37853181) - [Metric Time](https://metric-time.com/)
 * [2023-10-12, 02:45:51](https://news.ycombinator.com/item?id=37852944) - [How LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 01:01:08](https://news.ycombinator.com/item?id=37852301) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 00:34:59](https://news.ycombinator.com/item?id=37852135) - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
@@ -16,7 +18,6 @@
 * [2023-10-11, 21:05:20](https://news.ycombinator.com/item?id=37850246) - [Railroad \"Time Zones\" of the United States (1868)](http://cprr.org/Museum/Ephemera/Comparative_TT_1868.html)
 * [2023-10-11, 21:01:17](https://news.ycombinator.com/item?id=37850205) - [Show HN: See library availabilities for your Goodreads want-to-read list](https://projecttbr.com/?goodreadsProfile=121455547-bella-vice-van-heyde&library=nypl,spl&format=ebook-kindle)
 * [2023-10-11, 20:52:37](https://news.ycombinator.com/item?id=37850110) - [Microsoft SEC 8-K: IRS is seeking an additional tax payment of $29B](https://microsoft.gcs-web.com/node/31951/html)
-* [2023-10-11, 20:38:06](https://news.ycombinator.com/item?id=37849958) - [Rethinking Open Source Licenses](https://www.fermyon.com/blog/rethinking-open-source-licenses)
 * [2023-10-11, 18:59:20](https://news.ycombinator.com/item?id=37848793) - [Show HN: Obligator – An OpenID Connect server for self-hosters](https://github.com/anderspitman/obligator)
 * [2023-10-11, 18:25:37](https://news.ycombinator.com/item?id=37848321) - [Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 * [2023-10-11, 18:18:00](https://news.ycombinator.com/item?id=37848212) - [Starlink Direct to Cell](https://direct.starlink.com/)
@@ -28,7 +29,6 @@
 * [2023-10-11, 10:02:10](https://news.ycombinator.com/item?id=37842645) - [Jumperless: Breadboard Without Jumper](https://hackaday.io/project/191238-jumperless)
 * [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
 * [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
-* [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 * [2023-10-11, 01:48:08](https://news.ycombinator.com/item?id=37840038) - [Scientists identify pathway activated by interferon-gamma leading to tumor death](https://medicalxpress.com/news/2023-10-scientists-pathway-interferon-gamma-tumor-cell.html)
 
 ## [Archives](archives/index.md)
