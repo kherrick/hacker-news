@@ -3,7 +3,7 @@
 * [2023-10-12, 18:57:35](https://news.ycombinator.com/item?id=37861467) - [Has Play Protect removed KDE Connect from your phone? Let us know](https://old.reddit.com/r/kde/comments/175upzi/has_play_protect_removed_kde_connect_from_your/)
 * [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
 * [2023-10-12, 18:06:22](https://news.ycombinator.com/item?id=37860702) - [T-Mobile switches users to pricier plans](https://arstechnica.com/tech-policy/2023/10/t-mobile-switches-users-to-pricier-plans-and-tells-them-its-not-a-price-hike/)
-* [2023-10-12, 17:41:56](https://news.ycombinator.com/item?id=37860358) - [ACT test scores for U.S. students drop to a 30-year low](https://www.npr.org/2023/10/12/1205404298/act-test-scores-college-admissions-30-year-low)
+* [2023-10-12, 17:52:46](https://news.ycombinator.com/item?id=37860496) - [QBinDiff: A Modular Diffing Toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
 * [2023-10-12, 17:27:51](https://news.ycombinator.com/item?id=37860172) - [Show HN: I got tired of reading \"This posting has been deleted by its author\"](https://clippings.june07.com)
 * [2023-10-12, 17:13:42](https://news.ycombinator.com/item?id=37860010) - [NASA's Bennu Asteroid Sample](https://www.nasa.gov/news-release/nasas-bennu-asteroid-sample-contains-carbon-water/)
 * [2023-10-12, 17:13:07](https://news.ycombinator.com/item?id=37860004) - [The GRU's Disruptive Playbook](https://www.mandiant.com/resources/blog/gru-disruptive-playbook)
