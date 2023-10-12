@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37861589"
     ],
     [
-      "HTTP/2 Rapid Reset Attack",
+      "HTTP/2 rapid reset attack impacting Nginx products",
       "https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/"
     ]
   ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-10-12, 16:28:34",
+      "https://news.ycombinator.com/item?id=37859402"
+    ],
+    [
+      "EU \"Chat Control\" and Mandatory Client Side Scanning",
+      "https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 16:21:10",
       "https://news.ycombinator.com/item?id=37859311"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-10-12, 13:59:12",
-      "https://news.ycombinator.com/item?id=37857242"
-    ],
-    [
-      "Open Textbook Library – Textbooks that may be freely downloaded and distributed",
-      "https://open.umn.edu/opentextbooks"
-    ]
-  ],
-  [
-    [
       "2023-10-12, 13:33:58",
       "https://news.ycombinator.com/item?id=37856895"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-10-12, 07:16:46",
+      "https://news.ycombinator.com/item?id=37854358"
+    ],
+    [
+      "Bentham's Mugging (2022)",
+      "https://www.cambridge.org/core/journals/utilitas/article/benthams-mugging/9C67002F344B20661A6C35C960F25A86"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 07:00:55",
       "https://news.ycombinator.com/item?id=37854269"
     ],
     [
       "Handle.com (YC W19) Is Hiring (ABM Manager)",
       "https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 06:44:17",
-      "https://news.ycombinator.com/item?id=37854159"
-    ],
-    [
-      "Slack's Google Drive App can share your private Docs and Drive files",
-      "https://www.kapwing.com/blog/slacks-google-drive-integration-shares-private-documents/"
     ]
   ]
 ]
