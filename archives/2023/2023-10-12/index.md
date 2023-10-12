@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 13:33:58](https://news.ycombinator.com/item?id=37856895) - [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
+* [2023-10-12, 13:17:50](https://news.ycombinator.com/item?id=37856754) - [Atlassian Acquires Loom](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom)
+* [2023-10-12, 13:07:40](https://news.ycombinator.com/item?id=37856655) - [Support for Third U.S. Political Party Up to 63%](https://news.gallup.com/poll/512135/support-third-political-party.aspx)
 * [2023-10-12, 12:21:11](https://news.ycombinator.com/item?id=37856192) - [Think that your plastic is being recycled? Think again](https://www.technologyreview.com/2023/10/12/1081129/plastic-recycling-climate-change-microplastics/)
 * [2023-10-12, 11:22:19](https://news.ycombinator.com/item?id=37855752) - [Show HN: Laketool – A platform for rapid AI experiments on data lakes](https://laketool.ai/)
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
