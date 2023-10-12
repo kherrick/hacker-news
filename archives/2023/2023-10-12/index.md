@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
 * [2023-10-12, 16:48:51](https://news.ycombinator.com/item?id=37859659) - [YouTube TV, which costs $73 a month, agrees to end \"$600 less than cable\" ads](https://arstechnica.com/tech-policy/2023/10/youtube-tv-which-costs-73-a-month-agrees-to-end-600-less-than-cable-ads/)
+* [2023-10-12, 16:48:30](https://news.ycombinator.com/item?id=37859655) - [Toshiba to delist from Japanese stock exchange in December](https://english.kyodonews.net/news/2023/10/5e4f364913d7-toshiba-to-delist-in-japan-on-dec-20-after-74-years-of-history.html)
 * [2023-10-12, 16:47:10](https://news.ycombinator.com/item?id=37859637) - [Who Runs the Best U.S. Schools? It May Be the Defense Department](https://www.nytimes.com/2023/10/10/us/schools-pandemic-defense-department.html)
+* [2023-10-12, 16:44:05](https://news.ycombinator.com/item?id=37859607) - [Tips to Optimize Your AWS Lambda Performance](https://medium.com/@deepdmistry/5-tips-to-optimize-your-aws-lambda-performance-899525e3491b)
 * [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The Midwit Smart Home](https://dynomight.substack.com/p/midwit-home)
 * [2023-10-12, 16:28:34](https://news.ycombinator.com/item?id=37859402) - [EU \"Chat Control\" and Mandatory Client Side Scanning](https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/)
 * [2023-10-12, 16:25:29](https://news.ycombinator.com/item?id=37859370) - [Hamas vows to broadcast hostage executions. Tech firms can't stop them](https://www.washingtonpost.com/world/2023/10/12/hamas-hostage-video-threat/)
