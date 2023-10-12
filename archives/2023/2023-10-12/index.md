@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
 * [2023-10-12, 12:21:11](https://news.ycombinator.com/item?id=37856192) - [Think that your plastic is being recycled? Think again](https://www.technologyreview.com/2023/10/12/1081129/plastic-recycling-climate-change-microplastics/)
+* [2023-10-12, 11:22:19](https://news.ycombinator.com/item?id=37855752) - [Show HN: Laketool – A platform for rapid AI experiments on data lakes](https://laketool.ai/)
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
 * [2023-10-12, 11:04:24](https://news.ycombinator.com/item?id=37855625) - [Millions of Homes Still Being Kept Vacant as Housing Costs Surge, Report Finds](https://www.vice.com/en/article/pkam9v/millions-of-homes-still-being-kept-vacant-as-housing-costs-surge-report-finds)
 * [2023-10-12, 10:49:10](https://news.ycombinator.com/item?id=37855525) - [There Is No Moral Argument for Staying on Twitter/X](https://joanwestenberg.medium.com/there-is-no-moral-argument-for-staying-on-twitter-x-cdef14b04730)
