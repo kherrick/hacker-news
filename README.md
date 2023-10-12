@@ -9,7 +9,6 @@
 * [2023-10-12, 01:01:08](https://news.ycombinator.com/item?id=37852301) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
 * [2023-10-12, 00:34:59](https://news.ycombinator.com/item?id=37852135) - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
 * [2023-10-11, 22:33:59](https://news.ycombinator.com/item?id=37851210) - [Snmalloc: A Message Passing Allocator](https://github.com/microsoft/snmalloc)
-* [2023-10-11, 22:17:47](https://news.ycombinator.com/item?id=37851029) - [AVX10/128 is a silly idea](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 * [2023-10-11, 21:47:09](https://news.ycombinator.com/item?id=37850664) - [Galaksija: The Soviet-Era, Z80-based microcomputer](https://spectrum.ieee.org/yugoslavia-diy-microcomputer)
 * [2023-10-11, 21:40:39](https://news.ycombinator.com/item?id=37850593) - [It’s time to allow researchers to submit manuscripts to multiple journals](https://www.nature.com/articles/d41586-023-03196-y)
 * [2023-10-11, 21:28:55](https://news.ycombinator.com/item?id=37850485) - [Roll Your Own All-Sky, Raspberry Pi Camera](https://spectrum.ieee.org/all-sky-camera)
@@ -29,6 +28,7 @@
 * [2023-10-11, 10:02:10](https://news.ycombinator.com/item?id=37842645) - [Jumperless: Breadboard Without Jumper](https://hackaday.io/project/191238-jumperless)
 * [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
 * [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
+* [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 * [2023-10-11, 01:48:08](https://news.ycombinator.com/item?id=37840038) - [Scientists identify pathway activated by interferon-gamma leading to tumor death](https://medicalxpress.com/news/2023-10-scientists-pathway-interferon-gamma-tumor-cell.html)
 
 ## [Archives](archives/index.md)
