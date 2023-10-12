@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 04:36:50](https://news.ycombinator.com/item?id=37853526) - [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
 * [2023-10-12, 04:15:46](https://news.ycombinator.com/item?id=37853435) - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
 * [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
 * [2023-10-12, 03:58:12](https://news.ycombinator.com/item?id=37853355) - [The little-told story about the BART seat-slashing gang](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
@@ -26,7 +27,6 @@
 * [2023-10-11, 10:47:24](https://news.ycombinator.com/item?id=37842904) - [The Hard Economics of Selling Web Data](https://blog.databoutique.com/p/the-hard-economics-of-selling-web)
 * [2023-10-11, 10:02:10](https://news.ycombinator.com/item?id=37842645) - [Jumperless: Breadboard Without Jumper](https://hackaday.io/project/191238-jumperless)
 * [2023-10-11, 09:30:57](https://news.ycombinator.com/item?id=37842492) - [Why are there so many colourful houses in Bristol?](https://secretbristol.com/colourful-houses-bristol/)
-* [2023-10-11, 07:58:46](https://news.ycombinator.com/item?id=37842006) - [Ancient Babylonian Algorithms](https://fermatslibrary.com/s/ancient-babylonian-algorithms)
 * [2023-10-11, 04:04:53](https://news.ycombinator.com/item?id=37840756) - [Thunderbird and Whale](https://en.wikipedia.org/wiki/Thunderbird_and_Whale)
 * [2023-10-11, 03:18:12](https://news.ycombinator.com/item?id=37840503) - [Log is the \"Pro\" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 * [2023-10-11, 01:48:08](https://news.ycombinator.com/item?id=37840038) - [Scientists identify pathway activated by interferon-gamma leading to tumor death](https://medicalxpress.com/news/2023-10-scientists-pathway-interferon-gamma-tumor-cell.html)

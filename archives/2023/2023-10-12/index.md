@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 04:36:50](https://news.ycombinator.com/item?id=37853526) - [Mars helicopter to try for new speed record on Thursday](https://www.theregister.com/2023/10/12/mars_helicopter_speed_record_attempt/)
 * [2023-10-12, 04:15:46](https://news.ycombinator.com/item?id=37853435) - [In Defense of Electricity Markets](https://austinvernon.site/blog/electricitymarkets.html)
 * [2023-10-12, 04:15:36](https://news.ycombinator.com/item?id=37853434) - [Armbian and Devuan = Armvuan](https://github.com/declassed-art/armvuan)
 * [2023-10-12, 03:58:12](https://news.ycombinator.com/item?id=37853355) - [The little-told story about the BART seat-slashing gang](https://www.sfgate.com/bayarea/article/bart-seat-slasher-hurwitz-service-systems-inc-14544785.php)
