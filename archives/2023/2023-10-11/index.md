@@ -50,6 +50,7 @@
 * [2023-10-11, 14:52:25](https://news.ycombinator.com/item?id=37845195) - [The Deep Link Equating Math Proofs and Computer Programs](https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/)
 * [2023-10-11, 14:51:52](https://news.ycombinator.com/item?id=37845188) - [The Third Place](https://en.wikipedia.org/wiki/Third_place)
 * [2023-10-11, 14:46:12](https://news.ycombinator.com/item?id=37845101) - [Bad Speech](https://amadeuspagel.com/p/bad-speech)
+* [2023-10-11, 14:38:04](https://news.ycombinator.com/item?id=37844979) - [Extracting IP from getaddrinfo call](https://blog.alien177.ca/from-getaddrinfo-to-ip/)
 * [2023-10-11, 14:29:15](https://news.ycombinator.com/item?id=37844850) - [Libraries with individually owned bookshelves spreading in Japan](https://www.japantimes.co.jp/culture/2023/10/03/libraries-individual-bookshelves/)
 * [2023-10-11, 14:26:27](https://news.ycombinator.com/item?id=37844810) - [Croatia wants to turn superhot underground lake into 16MW power plant](https://thenextweb.com/news/croatia-geothermal-energy-plant)
 * [2023-10-11, 14:25:08](https://news.ycombinator.com/item?id=37844797) - [Man trains home cameras to help repel badgers and foxes](https://www.bbc.co.uk/news/technology-67053171)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 19:55:35](https://news.ycombinator.com/item?id=37862338) - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
 * [2023-10-12, 19:50:21](https://news.ycombinator.com/item?id=37862269) - [Djb warns NSA may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 * [2023-10-12, 19:47:41](https://news.ycombinator.com/item?id=37862220) - [GNU Emacs Lisp Reference Manual](https://www.gnu.org/software/emacs/manual/html_node/elisp/Index.html)
