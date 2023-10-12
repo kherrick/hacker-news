@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-12, 16:25:29](https://news.ycombinator.com/item?id=37859370) - [Hamas vows to broadcast hostage executions. Tech firms can't stop them](https://www.washingtonpost.com/world/2023/10/12/hamas-hostage-video-threat/)
+* [2023-10-12, 16:21:10](https://news.ycombinator.com/item?id=37859311) - [Can't Be Fucked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator (beta)](https://www.desmos.com/3d)
 * [2023-10-12, 15:42:50](https://news.ycombinator.com/item?id=37858766) - [Woman's Experimental Bionic Hand Passes Major Test with Flying Colors](https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751)
-* [2023-10-12, 15:26:14](https://news.ycombinator.com/item?id=37858554) - [Why BMI is flawed – and how to redefine obesity](https://www.nature.com/articles/d41586-023-03143-x)
 * [2023-10-12, 15:15:11](https://news.ycombinator.com/item?id=37858369) - [Want to get started with LLMs? Here's what you need to know](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
 * [2023-10-12, 14:49:31](https://news.ycombinator.com/item?id=37857991) - [When XML in Word Became Illegal](https://blog.withedge.com/p/when-xml-in-word-became-illegal)
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
@@ -14,7 +15,6 @@
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by 21yo CS student](https://scrollprize.org/firstletters)
 * [2023-10-12, 13:59:12](https://news.ycombinator.com/item?id=37857242) - [Open Textbook Library – Textbooks that may be freely downloaded and distributed](https://open.umn.edu/opentextbooks)
 * [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857229) - [Migrate Users from Keycloak to Zitadel](https://zitadel.com/blog/migrate-from-keycloak)
-* [2023-10-12, 13:55:03](https://news.ycombinator.com/item?id=37857175) - [The data and puzzling history behind California's new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
 * [2023-10-12, 13:34:11](https://news.ycombinator.com/item?id=37856898) - [Google Removes the Photo Sphere Mode from the Pixel 8 Camera](https://www.androidauthority.com/google-photo-sphere-mode-pixel-8-3373610/)
 * [2023-10-12, 13:33:58](https://news.ycombinator.com/item?id=37856895) - [Atlassian to buy Loom for nearly $1B](https://www.reuters.com/markets/deals/atlassian-agrees-buy-video-messaging-provider-loom-nearly-1-bln-2023-10-12/)
 * [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
