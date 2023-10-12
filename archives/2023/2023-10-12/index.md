@@ -6,6 +6,8 @@
 
 * [2023-10-12, 14:19:46](https://news.ycombinator.com/item?id=37857544) - [The Twelve-Factor App](https://12factor.net/)
 * [2023-10-12, 14:18:58](https://news.ycombinator.com/item?id=37857535) - [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
+* [2023-10-12, 14:18:07](https://news.ycombinator.com/item?id=37857521) - [The AI research job market shit show (and my experience)](https://www.interconnects.ai/p/ai-research-job-market)
+* [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by 21yo CS student](https://scrollprize.org/firstletters)
 * [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857229) - [Migrate Users from Keycloak to Zitadel](https://zitadel.com/blog/migrate-from-keycloak)
 * [2023-10-12, 13:55:03](https://news.ycombinator.com/item?id=37857175) - [The data and puzzling history behind California's new red food dye ban](https://arstechnica.com/health/2023/10/common-red-food-dye-banned-in-calif-30-years-after-fda-found-cancer-risk-in-rats/)
 * [2023-10-12, 13:54:19](https://news.ycombinator.com/item?id=37857159) - [SpaceX files for new 29,988-satellite W-band network](https://www.spaceintelreport.com/spacex-files-29988-satellite-w-band-network-using-kingdom-of-tonga-as-regulatory-home/)
