@@ -6,7 +6,6 @@
 * [2023-10-13, 19:58:32](https://news.ycombinator.com/item?id=37874891) - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
 * [2023-10-13, 19:33:13](https://news.ycombinator.com/item?id=37874587) - [Histotripsy – a technique that harnesses soundwaves to attack cancer](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
 * [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
-* [2023-10-13, 18:58:01](https://news.ycombinator.com/item?id=37874174) - [\"Hallucinating\" AIs sound creative, but let's not celebrate being wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
 * [2023-10-13, 18:23:46](https://news.ycombinator.com/item?id=37873798) - [Sodium ascorbate treatment for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
 * [2023-10-13, 18:19:38](https://news.ycombinator.com/item?id=37873749) - [iSponsorBlockTV v2: SponsorBlock for TVs and game consoles](https://github.com/dmunozv04/iSponsorBlockTV)
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus nut](https://en.wikipedia.org/wiki/Jesus_nut)
@@ -29,6 +28,7 @@
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth century scientists set out to solve the \"problem of American storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-13, 01:51:10](https://news.ycombinator.com/item?id=37865610) - [Scientists generate first single-cell atlas of the primate brain](https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
+* [2023-10-11, 12:28:21](https://news.ycombinator.com/item?id=37843590) - [Keyboard keys and characters](https://utcc.utoronto.ca/~cks/space/blog/tech/KeysAndCharacters)
 * [2023-10-11, 10:49:16](https://news.ycombinator.com/item?id=37842914) - [Making GRID's spreadsheet engine 10% faster](https://alexharri.com/blog/grid-engine-performance)
 
 ## [Archives](archives/index.md)
