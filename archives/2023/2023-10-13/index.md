@@ -28,6 +28,7 @@
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
 * [2023-10-13, 17:00:14](https://news.ycombinator.com/item?id=37872800) - [Ads on Your Phone Can Aid Government Surveillance](https://www.wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04)
+* [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 16:48:06](https://news.ycombinator.com/item?id=37872638) - [Roughly 80% of Grades Given at Harvard Are in the 'A' Range](https://jonathanturley.org/2023/10/12/the-incredibles-roughly-80-percent-of-grades-given-at-harvard-are-as/)
 * [2023-10-13, 16:29:06](https://news.ycombinator.com/item?id=37872381) - [Cars are a 'privacy nightmare on wheels'](https://theconversation.com/cars-are-a-privacy-nightmare-on-wheels-heres-how-they-get-away-with-collecting-and-sharing-your-data-214386)
 * [2023-10-13, 16:09:21](https://news.ycombinator.com/item?id=37872150) - [Tesla is launching their developer APIs](https://developer.tesla.com/docs)
