@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-13, 01:41:47](https://news.ycombinator.com/item?id=37865534) - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
+* [2023-10-13, 01:14:46](https://news.ycombinator.com/item?id=37865336) - [AMD acquires Nod.ai to bolsters its AI software ecosystem](https://techcrunch.com/2023/10/11/amd-acquires-nod-ai-to-bolsters-its-ai-software-ecosystem/)
 * [2023-10-13, 01:00:34](https://news.ycombinator.com/item?id=37865222) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Research Scientists](https://news.ycombinator.com/item?id=37865222)
 * [2023-10-13, 00:40:13](https://news.ycombinator.com/item?id=37865046) - [Bonterms: Standard Agreements for the Enterprise](https://bonterms.com/)
 * [2023-10-13, 00:19:43](https://news.ycombinator.com/item?id=37864883) - [Framework 13 AMD 7040 Series: A Developer's First Impressions](https://zach.codes/p/a-developers-review-framework-13)
-* [2023-10-13, 00:17:23](https://news.ycombinator.com/item?id=37864867) - [Scrollbars Are Becoming a Problem](https://artemis.sh/2023/10/12/scrollbars.html)
-* [2023-10-12, 23:43:59](https://news.ycombinator.com/item?id=37864629) - [REI is Laying Off 275 Employees](https://old.reddit.com/r/REI/comments/176chas/rei_is_letting_go_275_employees_today/)
+* [2023-10-13, 00:17:23](https://news.ycombinator.com/item?id=37864867) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-12, 23:30:08](https://news.ycombinator.com/item?id=37864525) - [You Can't Currently Download Ubuntu 23.10](https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-installer-translations-hijack)
 * [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 * [2023-10-12, 22:07:04](https://news.ycombinator.com/item?id=37863804) - [Let's Celebrate Relicensing from an Open Source to a Proprietary License](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/)
