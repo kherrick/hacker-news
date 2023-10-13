@@ -2,6 +2,7 @@
 
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:39:02](https://news.ycombinator.com/item?id=37867481) - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
+* [2023-10-13, 06:17:02](https://news.ycombinator.com/item?id=37867334) - [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
 * [2023-10-13, 05:36:08](https://news.ycombinator.com/item?id=37867074) - [Ask HN: Anyone Using MacBook Air M2 24GB for Developement?](https://news.ycombinator.com/item?id=37867074)
 * [2023-10-13, 05:21:38](https://news.ycombinator.com/item?id=37866999) - [The Thumb Calendar](http://thumbcalendar.com/)
@@ -22,7 +23,6 @@
 * [2023-10-12, 19:11:47](https://news.ycombinator.com/item?id=37861686) - [ISS Rodent Habitat (2014)](https://spaceflight101.com/iss/rodent-habitat/)
 * [2023-10-12, 19:04:50](https://news.ycombinator.com/item?id=37861589) - [HTTP/2 rapid reset attack impacting Nginx products](https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/)
 * [2023-10-12, 18:16:09](https://news.ycombinator.com/item?id=37860819) - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat)
-* [2023-10-12, 16:31:17](https://news.ycombinator.com/item?id=37859437) - [The midwit home](https://dynomight.substack.com/p/midwit-home)
 * [2023-10-12, 16:18:02](https://news.ycombinator.com/item?id=37859261) - [Impossible photo feat now possible via holography](https://spectrum.ieee.org/depth-of-field)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator](https://www.desmos.com/3d)
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
