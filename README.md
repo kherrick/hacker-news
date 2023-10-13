@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 19:34:02](https://news.ycombinator.com/item?id=37874596) - [Equifax scores £11.1M slap on wrist over 2017 mega breach](https://www.theregister.com/2023/10/13/equifax_fca_fine/)
+* [2023-10-13, 19:33:13](https://news.ycombinator.com/item?id=37874587) - [Bubbles Kill Cancer – It's called histotripsy](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
 * [2023-10-13, 19:12:06](https://news.ycombinator.com/item?id=37874345) - [PC shipments decline slows in Q3 2023, but Apple plunges over 23%](https://techcrunch.com/2023/10/10/pc-shipments-decline-slows-in-q3-2023-but-apple-plunges-over-23/)
 * [2023-10-13, 19:02:39](https://news.ycombinator.com/item?id=37874229) - [Tesla workers shared sensitive images recorded by customers' cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
 * [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services Integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
@@ -9,8 +11,6 @@
 * [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting police tech in our communities](https://atlasofsurveillance.org/)
 * [2023-10-13, 17:15:49](https://news.ycombinator.com/item?id=37872993) - [It looks like the 23ky old human footprints at White Sands are solid](https://archeothoughts.wordpress.com/2023/10/10/it-looks-like-the-23ky-old-human-footprints-at-white-sands-are-solid/)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
-* [2023-10-13, 16:29:06](https://news.ycombinator.com/item?id=37872381) - [Cars are a 'privacy nightmare on wheels'](https://theconversation.com/cars-are-a-privacy-nightmare-on-wheels-heres-how-they-get-away-with-collecting-and-sharing-your-data-214386)
-* [2023-10-13, 16:09:21](https://news.ycombinator.com/item?id=37872150) - [Tesla is launching their developer APIs](https://developer.tesla.com/docs)
 * [2023-10-13, 16:09:10](https://news.ycombinator.com/item?id=37872147) - [Google Cloud announces generative AI indemnification protections](https://cloud.google.com/blog/products/ai-machine-learning/protecting-customers-with-generative-ai-indemnification)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: Generate interactive API documentations from Swagger files](https://github.com/scalar/scalar)
 * [2023-10-13, 15:12:24](https://news.ycombinator.com/item?id=37871534) - [Would we still create Nebula today?](https://www.defined.net/blog/would-we-still-create-nebula-today/)
@@ -20,6 +20,7 @@
 * [2023-10-13, 12:24:56](https://news.ycombinator.com/item?id=37869809) - [The Compact Calendar 2023-2024](https://davidseah.com/node/compact-calendar/)
 * [2023-10-13, 11:57:40](https://news.ycombinator.com/item?id=37869597) - [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 * [2023-10-13, 11:50:17](https://news.ycombinator.com/item?id=37869534) - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+* [2023-10-13, 11:36:59](https://news.ycombinator.com/item?id=37869445) - [Nature: Programming language to experience the joy of programming](https://nature-lang.org/)
 * [2023-10-13, 11:02:55](https://news.ycombinator.com/item?id=37869220) - [What I wish I knew when I got my ASN](https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software (2003)](https://mprove.de/script/99/kai/)
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
@@ -29,7 +30,6 @@
 * [2023-10-13, 06:08:50](https://news.ycombinator.com/item?id=37867272) - [MathJax – Beautiful and accessible math in all browsers](https://www.mathjax.org/)
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth Century Scientists Set Out to Solve the \"Problem of American Storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
-* [2023-10-11, 12:28:21](https://news.ycombinator.com/item?id=37843590) - [Keyboard Keys and Characters](https://utcc.utoronto.ca/~cks/space/blog/tech/KeysAndCharacters)
 
 ## [Archives](archives/index.md)
 
