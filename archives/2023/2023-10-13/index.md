@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 14:12:08](https://news.ycombinator.com/item?id=37870842) - [Ask HN: Is it just me or is mobile web browsing awful?](https://news.ycombinator.com/item?id=37870842)
+* [2023-10-13, 14:01:56](https://news.ycombinator.com/item?id=37870737) - [New AC technology uses 60% less energy](https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/)
 * [2023-10-13, 13:55:37](https://news.ycombinator.com/item?id=37870653) - [The drugs did work (2006)](https://www.theguardian.com/film/2006/aug/12/sciencefictionfantasyandhorror.philipkdick)
 * [2023-10-13, 13:49:39](https://news.ycombinator.com/item?id=37870575) - [FTX thief cashes out millions during Bankman-Fried trial](https://www.bbc.co.uk/news/technology-67090501)
 * [2023-10-13, 13:47:20](https://news.ycombinator.com/item?id=37870557) - [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
