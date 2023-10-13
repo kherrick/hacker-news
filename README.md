@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 12:18:17](https://news.ycombinator.com/item?id=37869760) - [You shouldn't join Y Combinator](https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator)
 * [2023-10-13, 12:00:16](https://news.ycombinator.com/item?id=37869612) - [Authzed (YC W21) Is Hiring: Customer Success Engineer, Dev Evangelist](https://www.workatastartup.com/companies/authzed)
 * [2023-10-13, 11:50:17](https://news.ycombinator.com/item?id=37869534) - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+* [2023-10-13, 11:23:50](https://news.ycombinator.com/item?id=37869353) - [Bounty to Recover NIST's Elliptic Curve Seeds](https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html)
 * [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
 * [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software (2003)](https://mprove.de/script/99/kai/)
@@ -27,9 +29,7 @@
 * [2023-10-12, 22:04:57](https://news.ycombinator.com/item?id=37863784) - [Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel](https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html)
 * [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [Personalized learning can feel isolating. Whole class learning can feel personal](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator](https://www.desmos.com/3d)
-* [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
-* [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 
 ## [Archives](archives/index.md)
 
