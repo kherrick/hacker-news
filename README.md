@@ -2,6 +2,7 @@
 
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:32:06](https://news.ycombinator.com/item?id=37867431) - ['Start Up Nation' goes to war](https://www.ft.com/content/6488b1f1-f10e-4285-931d-1b63b4bcf018)
+* [2023-10-13, 06:17:02](https://news.ycombinator.com/item?id=37867334) - [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
 * [2023-10-13, 05:48:44](https://news.ycombinator.com/item?id=37867152) - [Malaysia's spat with Goldman about to get ugly](https://www.channelnewsasia.com/asia/malaysia-goldman-sachs-1mdb-settlement-arbitration-london-3841106)
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
 * [2023-10-13, 04:07:15](https://news.ycombinator.com/item?id=37866537) - [Apple Bricked my AirPods and now wants me to buy new ones](https://twitter.com/mattcantstop/status/1712680601340579891)
@@ -15,7 +16,6 @@
 * [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 * [2023-10-12, 22:43:02](https://news.ycombinator.com/item?id=37864096) - [Step-by-Step Restoration of a Rare 1995 IBM ThinkPad [video]](https://www.youtube.com/watch?v=xvyYPVkkztQ)
 * [2023-10-12, 22:01:31](https://news.ycombinator.com/item?id=37863745) - [The Great Hargeisa Goat Bubble](https://web.archive.org/web/20120630140041/https://www.juliangough.com/the-great-hargeisa-goat-bubble/)
-* [2023-10-12, 21:56:09](https://news.ycombinator.com/item?id=37863694) - [The Quest to Secure chown and symlinks](https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions)
 * [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [A misunderstanding about education that cost Mark Zuckerberg $100M](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 19:11:47](https://news.ycombinator.com/item?id=37861686) - [ISS Rodent Habitat (2014)](https://spaceflight101.com/iss/rodent-habitat/)
