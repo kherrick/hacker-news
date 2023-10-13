@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-13](index.md)
+
+* [2023-10-13, 00:17:23](https://news.ycombinator.com/item?id=37864867) - [Scrollbars Are Becoming a Problem](https://artemis.sh/2023/10/12/scrollbars.html)
