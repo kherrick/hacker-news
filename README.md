@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 09:27:36](https://news.ycombinator.com/item?id=37868591) - [Remove Half of Your Documentation](https://blog.orsinium.dev/posts/misc/docs/)
 * [2023-10-13, 09:12:09](https://news.ycombinator.com/item?id=37868502) - [Rack Attack – Rails Tricks](https://greg.molnar.io/blog/rails-tricks-issue-20/)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
 * [2023-10-13, 09:01:07](https://news.ycombinator.com/item?id=37868429) - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
 * [2023-10-13, 07:36:27](https://news.ycombinator.com/item?id=37867856) - [Two Stories for \"What Is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
-* [2023-10-13, 07:14:16](https://news.ycombinator.com/item?id=37867712) - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:53:33](https://news.ycombinator.com/item?id=37867546) - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
 * [2023-10-13, 06:39:02](https://news.ycombinator.com/item?id=37867481) - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)

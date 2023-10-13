@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 09:27:36](https://news.ycombinator.com/item?id=37868591) - [Remove Half of Your Documentation](https://blog.orsinium.dev/posts/misc/docs/)
 * [2023-10-13, 09:12:09](https://news.ycombinator.com/item?id=37868502) - [Rack Attack – Rails Tricks](https://greg.molnar.io/blog/rails-tricks-issue-20/)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
 * [2023-10-13, 09:01:07](https://news.ycombinator.com/item?id=37868429) - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
