@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-13, 12:18:17",
+      "https://news.ycombinator.com/item?id=37869760"
+    ],
+    [
+      "You shouldn't join Y Combinator",
+      "https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 12:00:16",
       "https://news.ycombinator.com/item?id=37869612"
     ],
@@ -17,6 +27,16 @@
     [
       "Signal Identification Wiki",
       "https://www.sigidwiki.com/wiki/Signal_Identification_Guide"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 11:23:50",
+      "https://news.ycombinator.com/item?id=37869353"
+    ],
+    [
+      "Bounty to Recover NIST's Elliptic Curve Seeds",
+      "https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-10-12, 14:35:56",
-      "https://news.ycombinator.com/item?id=37857765"
-    ],
-    [
-      "Show HN: I built a virtual tabletop for playing Dungeons and Dragons",
-      "https://www.diceright.com/"
-    ]
-  ],
-  [
-    [
       "2023-10-12, 14:11:18",
       "https://news.ycombinator.com/item?id=37857417"
     ],
     [
       "First word discovered in unopened Herculaneum scroll by CS student",
       "https://scrollprize.org/firstletters"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 08:45:10",
-      "https://news.ycombinator.com/item?id=37854846"
-    ],
-    [
-      "Introduction to Modern Statistics",
-      "https://openintro-ims2.netlify.app/"
     ]
   ]
 ]
