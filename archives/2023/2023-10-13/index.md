@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 09:12:09](https://news.ycombinator.com/item?id=37868502) - [Rack Attack – Rails Tricks](https://greg.molnar.io/blog/rails-tricks-issue-20/)
+* [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
 * [2023-10-13, 09:01:07](https://news.ycombinator.com/item?id=37868429) - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
+* [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
 * [2023-10-13, 07:14:16](https://news.ycombinator.com/item?id=37867712) - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:53:33](https://news.ycombinator.com/item?id=37867546) - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
