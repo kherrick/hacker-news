@@ -2,7 +2,6 @@
 
 * [2023-10-13, 15:39:01](https://news.ycombinator.com/item?id=37871808) - [Microsoft Closes $69B Activision Deal, Overcoming Regulators' Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
-* [2023-10-13, 15:09:33](https://news.ycombinator.com/item?id=37871503) - [Why do so many people think they are in a bullshit job?](https://psyche.co/ideas/why-do-so-many-people-think-they-are-in-a-bullshit-job)
 * [2023-10-13, 15:07:17](https://news.ycombinator.com/item?id=37871480) - [What's wrong with CVEs? Daniel Stenberg of cURL wants you to know](https://podcast.sustainoss.org/203)
 * [2023-10-13, 14:45:20](https://news.ycombinator.com/item?id=37871203) - [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from Hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
@@ -22,6 +21,7 @@
 * [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 * [2023-10-13, 09:38:02](https://news.ycombinator.com/item?id=37868653) - [OpenWrt 23.05](https://openwrt.org/releases/23.05/notes-23.05.0)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software (2003)](https://mprove.de/script/99/kai/)
+* [2023-10-13, 09:01:07](https://news.ycombinator.com/item?id=37868429) - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 * [2023-10-13, 08:24:59](https://news.ycombinator.com/item?id=37868196) - [Reproducibility trial: Biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
