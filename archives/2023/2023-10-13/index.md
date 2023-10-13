@@ -76,6 +76,7 @@
 * [2023-10-13, 09:01:07](https://news.ycombinator.com/item?id=37868429) - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
 * [2023-10-13, 08:58:11](https://news.ycombinator.com/item?id=37868406) - [USPS is falsifying safety docs as its workers die of heat](https://www.texasobserver.org/usps-worker-heat-death-safety/)
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+* [2023-10-13, 08:55:22](https://news.ycombinator.com/item?id=37868386) - [North of House (2016)](https://ericlippert.com/2016/02/03/north-of-house/)
 * [2023-10-13, 08:24:59](https://news.ycombinator.com/item?id=37868196) - [Reproducibility trial: 246 biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
 * [2023-10-13, 07:40:09](https://news.ycombinator.com/item?id=37867881) - [Microsoft $69B deal to buy Call of Duty maker Activision Blizzard cleared by UK](https://www.theguardian.com/business/2023/oct/13/microsoft-deal-to-buy-call-of-duty-maker-activision-blizzard-cleared-by-uk)
