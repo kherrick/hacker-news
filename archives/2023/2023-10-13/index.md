@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 19:12:06](https://news.ycombinator.com/item?id=37874345) - [PC shipments decline slows in Q3 2023, but Apple plunges over 23%](https://techcrunch.com/2023/10/10/pc-shipments-decline-slows-in-q3-2023-but-apple-plunges-over-23/)
 * [2023-10-13, 19:02:39](https://news.ycombinator.com/item?id=37874229) - [Tesla workers shared sensitive images recorded by customers' cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
 * [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services Integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
 * [2023-10-13, 18:58:01](https://news.ycombinator.com/item?id=37874174) - [\"Hallucinating\" AIs Sound Creative, but Let's Not Celebrate Being Wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
@@ -71,6 +72,7 @@
 * [2023-10-13, 06:39:02](https://news.ycombinator.com/item?id=37867481) - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
 * [2023-10-13, 06:32:06](https://news.ycombinator.com/item?id=37867431) - ['Start Up Nation' goes to war](https://www.ft.com/content/6488b1f1-f10e-4285-931d-1b63b4bcf018)
 * [2023-10-13, 06:17:02](https://news.ycombinator.com/item?id=37867334) - [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
+* [2023-10-13, 06:08:50](https://news.ycombinator.com/item?id=37867272) - [MathJax – Beautiful and accessible math in all browsers](https://www.mathjax.org/)
 * [2023-10-13, 05:48:44](https://news.ycombinator.com/item?id=37867152) - [Malaysia's spat with Goldman about to get ugly](https://www.channelnewsasia.com/asia/malaysia-goldman-sachs-1mdb-settlement-arbitration-london-3841106)
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to Fit a Large Program into a Small Machine (Zork, Z-Machine, ZIL) (1999)](https://mud.co.uk/richard/htflpism.htm)
 * [2023-10-13, 05:36:08](https://news.ycombinator.com/item?id=37867074) - [Ask HN: Anyone Using MacBook Air M2 24GB for Developement?](https://news.ycombinator.com/item?id=37867074)
