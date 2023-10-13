@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 20:16:37](https://news.ycombinator.com/item?id=37875107) - [You Will Never Own a Home. TL:DR – Housing Is F**ked](https://joanwestenberg.medium.com/the-global-housing-squeeze-a-generational-wealth-apocalypse-d01ceaab8905)
 * [2023-10-13, 19:58:32](https://news.ycombinator.com/item?id=37874891) - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
 * [2023-10-13, 19:45:23](https://news.ycombinator.com/item?id=37874715) - ['Dumbphones' make a comeback: 'No one calls me anymore'](https://english.elpais.com/technology/2023-10-11/dumbphones-make-a-comeback-no-one-calls-me-anymore.html)
 * [2023-10-13, 19:34:02](https://news.ycombinator.com/item?id=37874596) - [Equifax scores £11.1M slap on wrist over 2017 mega breach](https://www.theregister.com/2023/10/13/equifax_fca_fine/)
@@ -8,7 +9,6 @@
 * [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
 * [2023-10-13, 18:58:01](https://news.ycombinator.com/item?id=37874174) - [\"Hallucinating\" AIs sound creative, but let's not celebrate being wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
 * [2023-10-13, 18:23:46](https://news.ycombinator.com/item?id=37873798) - [Sodium ascorbate treatment for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
-* [2023-10-13, 18:09:26](https://news.ycombinator.com/item?id=37873621) - [CIA publicly acknowledges 1953 coup it backed in Iran was undemocratic](https://www.nbcnews.com/news/us-news/cia-publicly-acknowledges-1953-coup-backed-iran-was-undemocratic-revis-rcna120154)
 * [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting police tech in our communities](https://atlasofsurveillance.org/)
 * [2023-10-13, 17:15:49](https://news.ycombinator.com/item?id=37872993) - [It looks like the 23ky old human footprints at White Sands are solid](https://archeothoughts.wordpress.com/2023/10/10/it-looks-like-the-23ky-old-human-footprints-at-white-sands-are-solid/)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
@@ -26,9 +26,9 @@
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
 * [2023-10-13, 07:40:09](https://news.ycombinator.com/item?id=37867881) - [Microsoft completes $69B deal to buy Activision Blizzard](https://www.theguardian.com/business/2023/oct/13/microsoft-deal-to-buy-call-of-duty-maker-activision-blizzard-cleared-by-uk)
-* [2023-10-13, 07:03:47](https://news.ycombinator.com/item?id=37867635) - [Text Embeddings Reveal (Almost) as Much as Text](https://arxiv.org/abs/2310.06816)
-* [2023-10-13, 06:08:50](https://news.ycombinator.com/item?id=37867272) - [MathJax – Beautiful and accessible math in all browsers](https://www.mathjax.org/)
-* [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth Century Scientists Set Out to Solve the \"Problem of American Storms\"](https://www.neh.gov/article/storm-patrol)
+* [2023-10-13, 07:03:47](https://news.ycombinator.com/item?id=37867635) - [Text embeddings reveal almost as much as text](https://arxiv.org/abs/2310.06816)
+* [2023-10-13, 06:08:50](https://news.ycombinator.com/item?id=37867272) - [MathJax: Beautiful and accessible math in all browsers](https://www.mathjax.org/)
+* [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth century scientists set out to solve the \"problem of American storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)

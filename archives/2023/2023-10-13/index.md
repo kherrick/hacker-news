@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 20:16:37](https://news.ycombinator.com/item?id=37875107) - [You Will Never Own a Home. TL:DR – Housing Is F**ked](https://joanwestenberg.medium.com/the-global-housing-squeeze-a-generational-wealth-apocalypse-d01ceaab8905)
 * [2023-10-13, 19:58:32](https://news.ycombinator.com/item?id=37874891) - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
 * [2023-10-13, 19:45:23](https://news.ycombinator.com/item?id=37874715) - ['Dumbphones' make a comeback: 'No one calls me anymore'](https://english.elpais.com/technology/2023-10-11/dumbphones-make-a-comeback-no-one-calls-me-anymore.html)
 * [2023-10-13, 19:34:02](https://news.ycombinator.com/item?id=37874596) - [Equifax scores £11.1M slap on wrist over 2017 mega breach](https://www.theregister.com/2023/10/13/equifax_fca_fine/)
