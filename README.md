@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 01:41:47](https://news.ycombinator.com/item?id=37865534) - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
 * [2023-10-13, 01:00:34](https://news.ycombinator.com/item?id=37865222) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Research Scientists](https://news.ycombinator.com/item?id=37865222)
 * [2023-10-13, 00:40:13](https://news.ycombinator.com/item?id=37865046) - [Bonterms: Standard Agreements for the Enterprise](https://bonterms.com/)
 * [2023-10-13, 00:19:43](https://news.ycombinator.com/item?id=37864883) - [Framework 13 AMD 7040 Series: A Developer's First Impressions](https://zach.codes/p/a-developers-review-framework-13)
@@ -7,6 +8,7 @@
 * [2023-10-12, 23:43:59](https://news.ycombinator.com/item?id=37864629) - [REI is Laying Off 275 Employees](https://old.reddit.com/r/REI/comments/176chas/rei_is_letting_go_275_employees_today/)
 * [2023-10-12, 23:30:08](https://news.ycombinator.com/item?id=37864525) - [You Can't Currently Download Ubuntu 23.10](https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-installer-translations-hijack)
 * [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
+* [2023-10-12, 22:07:04](https://news.ycombinator.com/item?id=37863804) - [Let's Celebrate Relicensing from an Open Source to a Proprietary License](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/)
 * [2023-10-12, 21:56:09](https://news.ycombinator.com/item?id=37863694) - [The Quest to Secure chown and symlinks](https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions)
 * [2023-10-12, 21:04:10](https://news.ycombinator.com/item?id=37863126) - [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
 * [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
@@ -25,9 +27,7 @@
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 * [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857231) - [Ask HN: Show me your half baked project](https://news.ycombinator.com/item?id=37857231)
 * [2023-10-12, 13:17:50](https://news.ycombinator.com/item?id=37856754) - [Atlassian Acquires Loom](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom)
-* [2023-10-12, 11:18:50](https://news.ycombinator.com/item?id=37855719) - [NASA: Capillary Cup](https://www.rit.edu/vignellicenter/product-timecapsule/nasa-capillary-cup)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
-* [2023-10-11, 21:36:16](https://news.ycombinator.com/item?id=37850556) - [NASA finds water and organics in Bennu asteroid sample](https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/)
 * [2023-10-11, 00:15:32](https://news.ycombinator.com/item?id=37839458) - [Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment](https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html)
 * [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
 
