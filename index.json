@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-10-13, 15:39:01",
+      "https://news.ycombinator.com/item?id=37871808"
+    ],
+    [
+      "Microsoft Closes $69B Activision Deal, Overcoming Regulators' Objections",
+      "https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 15:15:53",
+      "https://news.ycombinator.com/item?id=37871577"
+    ],
+    [
+      "Scalar: An open-source alternative to Redocly and Swagger UI",
+      "https://github.com/scalar/scalar"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 15:09:33",
       "https://news.ycombinator.com/item?id=37871503"
     ],
     [
       "Why do so many people think they are in a bullshit job?",
       "https://psyche.co/ideas/why-do-so-many-people-think-they-are-in-a-bullshit-job"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 15:07:17",
+      "https://news.ycombinator.com/item?id=37871480"
+    ],
+    [
+      "What's wrong with CVEs? Daniel Stenberg of cURL wants you to know",
+      "https://podcast.sustainoss.org/203"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "The Compact Calendar 2023-2024",
       "https://davidseah.com/node/compact-calendar/"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 12:18:17",
-      "https://news.ycombinator.com/item?id=37869760"
-    ],
-    [
-      "Why you shouldn't join Y Combinator",
-      "https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-10-13, 09:01:07",
-      "https://news.ycombinator.com/item?id=37868429"
-    ],
-    [
-      "Cisco Can't Stop Using Hard-Coded Passwords",
-      "https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 08:55:42",
       "https://news.ycombinator.com/item?id=37868388"
     ],
@@ -237,16 +247,6 @@
     [
       "GPSJam: Daily maps of possible GPS interference",
       "https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 07:36:27",
-      "https://news.ycombinator.com/item?id=37867856"
-    ],
-    [
-      "Two Stories for \"What Is CHERI?\"",
-      "https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html"
     ]
   ],
   [
