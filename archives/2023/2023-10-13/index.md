@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
+* [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 * [2023-10-13, 09:27:36](https://news.ycombinator.com/item?id=37868591) - [Remove Half of Your Documentation](https://blog.orsinium.dev/posts/misc/docs/)
 * [2023-10-13, 09:12:09](https://news.ycombinator.com/item?id=37868502) - [Rack Attack – Rails Tricks](https://greg.molnar.io/blog/rails-tricks-issue-20/)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
