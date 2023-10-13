@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
 * [2023-10-13, 17:25:27](https://news.ycombinator.com/item?id=37873123) - [US intelligence warned of potential for Gaza clash in days before attack](https://www.cnn.com/2023/10/13/politics/us-intelligence-warnings-potential-gaza-clash-days-before-attack/index.html)
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
@@ -51,6 +52,7 @@
 * [2023-10-13, 07:40:09](https://news.ycombinator.com/item?id=37867881) - [Microsoft $69B deal to buy Call of Duty maker Activision Blizzard cleared by UK](https://www.theguardian.com/business/2023/oct/13/microsoft-deal-to-buy-call-of-duty-maker-activision-blizzard-cleared-by-uk)
 * [2023-10-13, 07:36:27](https://news.ycombinator.com/item?id=37867856) - [Two Stories for \"What Is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-10-13, 07:14:16](https://news.ycombinator.com/item?id=37867712) - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
+* [2023-10-13, 07:03:47](https://news.ycombinator.com/item?id=37867635) - [Text Embeddings Reveal (Almost) as Much as Text](https://arxiv.org/abs/2310.06816)
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:53:33](https://news.ycombinator.com/item?id=37867546) - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
 * [2023-10-13, 06:39:02](https://news.ycombinator.com/item?id=37867481) - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)

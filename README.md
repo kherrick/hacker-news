@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-13, 17:25:27](https://news.ycombinator.com/item?id=37873123) - [US intelligence warned of potential for Gaza clash in days before attack](https://www.cnn.com/2023/10/13/politics/us-intelligence-warnings-potential-gaza-clash-days-before-attack/index.html)
+* [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
 * [2023-10-13, 16:48:06](https://news.ycombinator.com/item?id=37872638) - [Roughly 80% of Grades Given at Harvard Are in the 'A' Range](https://jonathanturley.org/2023/10/12/the-incredibles-roughly-80-percent-of-grades-given-at-harvard-are-as/)
@@ -24,8 +24,8 @@
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 * [2023-10-13, 08:24:59](https://news.ycombinator.com/item?id=37868196) - [Reproducibility trial: Biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
+* [2023-10-13, 07:03:47](https://news.ycombinator.com/item?id=37867635) - [Text Embeddings Reveal (Almost) as Much as Text](https://arxiv.org/abs/2310.06816)
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
-* [2023-10-13, 05:21:38](https://news.ycombinator.com/item?id=37866999) - [The Thumb Calendar](http://thumbcalendar.com/)
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth Century Scientists Set Out to Solve the \"Problem of American Storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-13, 01:43:14](https://news.ycombinator.com/item?id=37865550) - [Neanderthals hunted dangerous cave lions, study shows](https://phys.org/news/2023-10-neanderthals-dangerous-cave-lions.html)
 * [2023-10-13, 00:17:23](https://news.ycombinator.com/item?id=37864867) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
