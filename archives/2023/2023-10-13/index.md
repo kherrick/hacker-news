@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
 * [2023-10-13, 12:00:16](https://news.ycombinator.com/item?id=37869612) - [Authzed (YC W21) Is Hiring: Customer Success Engineer, Dev Evangelist](https://www.workatastartup.com/companies/authzed)
+* [2023-10-13, 11:50:17](https://news.ycombinator.com/item?id=37869534) - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 * [2023-10-13, 11:18:04](https://news.ycombinator.com/item?id=37869315) - [Ad blockers are not allowed on YouTube](https://i.imgur.com/AhrLdE9.png)
 * [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
 * [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
@@ -36,6 +37,7 @@
 * [2023-10-13, 02:31:06](https://news.ycombinator.com/item?id=37865850) - [LabVIEW abandons Mac after 4 decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades)
 * [2023-10-13, 02:24:38](https://news.ycombinator.com/item?id=37865816) - [The Price-Fixing Economy](https://www.thebignewsletter.com/p/the-price-fixing-economy)
 * [2023-10-13, 02:24:09](https://news.ycombinator.com/item?id=37865812) - [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
+* [2023-10-13, 01:43:14](https://news.ycombinator.com/item?id=37865550) - [Neanderthals hunted dangerous cave lions, study shows](https://phys.org/news/2023-10-neanderthals-dangerous-cave-lions.html)
 * [2023-10-13, 01:41:47](https://news.ycombinator.com/item?id=37865534) - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
 * [2023-10-13, 01:35:32](https://news.ycombinator.com/item?id=37865476) - [Research shows why hunting for the cheapest plane ticket is a waste of time](https://phys.org/news/2023-10-cheapest-plane-ticket.html)
 * [2023-10-13, 01:14:46](https://news.ycombinator.com/item?id=37865336) - [AMD acquires Nod.ai to bolsters its AI software ecosystem](https://techcrunch.com/2023/10/11/amd-acquires-nod-ai-to-bolsters-its-ai-software-ecosystem/)
