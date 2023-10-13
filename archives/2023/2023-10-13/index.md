@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 17:57:25](https://news.ycombinator.com/item?id=37873499) - [Google.com tests a news-filled homepage, just like Bing and Yahoo](https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/)
+* [2023-10-13, 17:55:58](https://news.ycombinator.com/item?id=37873486) - [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
 * [2023-10-13, 17:25:27](https://news.ycombinator.com/item?id=37873123) - [US intelligence warned of potential for Gaza clash in days before attack](https://www.cnn.com/2023/10/13/politics/us-intelligence-warnings-potential-gaza-clash-days-before-attack/index.html)
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
+* [2023-10-13, 17:00:14](https://news.ycombinator.com/item?id=37872800) - [Ads on Your Phone Can Aid Government Surveillance](https://www.wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04)
 * [2023-10-13, 16:48:06](https://news.ycombinator.com/item?id=37872638) - [Roughly 80% of Grades Given at Harvard Are in the 'A' Range](https://jonathanturley.org/2023/10/12/the-incredibles-roughly-80-percent-of-grades-given-at-harvard-are-as/)
 * [2023-10-13, 16:29:06](https://news.ycombinator.com/item?id=37872381) - [Cars are a 'privacy nightmare on wheels'](https://theconversation.com/cars-are-a-privacy-nightmare-on-wheels-heres-how-they-get-away-with-collecting-and-sharing-your-data-214386)
 * [2023-10-13, 16:09:21](https://news.ycombinator.com/item?id=37872150) - [Tesla is launching their developer APIs](https://developer.tesla.com/docs)
