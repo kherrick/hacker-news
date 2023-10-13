@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 22:30:18](https://news.ycombinator.com/item?id=37876328) - [Dropbox AI](https://blog.dropbox.com/topics/product/introducing-AI-powered-tools%3C)
 * [2023-10-13, 21:42:58](https://news.ycombinator.com/item?id=37875943) - [Cloudy with a Chance of Insanity: Unsticking iCloud Drive](https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/)
 * [2023-10-13, 21:00:38](https://news.ycombinator.com/item?id=37875574) - [Kodable (YC IK12) is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
 * [2023-10-13, 20:57:35](https://news.ycombinator.com/item?id=37875542) - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
@@ -28,7 +29,6 @@
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth century scientists set out to solve the \"problem of American storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-13, 01:51:10](https://news.ycombinator.com/item?id=37865610) - [Scientists generate first single-cell atlas of the primate brain](https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
-* [2023-10-11, 12:28:21](https://news.ycombinator.com/item?id=37843590) - [Keyboard keys and characters](https://utcc.utoronto.ca/~cks/space/blog/tech/KeysAndCharacters)
 * [2023-10-11, 10:49:16](https://news.ycombinator.com/item?id=37842914) - [Making GRID's spreadsheet engine 10% faster](https://alexharri.com/blog/grid-engine-performance)
 
 ## [Archives](archives/index.md)
