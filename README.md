@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 09:01:07](https://news.ycombinator.com/item?id=37868429) - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
 * [2023-10-13, 07:14:16](https://news.ycombinator.com/item?id=37867712) - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:53:33](https://news.ycombinator.com/item?id=37867546) - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
@@ -28,7 +29,6 @@
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
-* [2023-10-11, 00:15:32](https://news.ycombinator.com/item?id=37839458) - [Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment](https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html)
 * [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
 
 ## [Archives](archives/index.md)

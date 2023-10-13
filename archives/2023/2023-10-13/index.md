@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 09:01:07](https://news.ycombinator.com/item?id=37868429) - [Cisco Can't Stop Using Hard-Coded Passwords](https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html)
 * [2023-10-13, 07:14:16](https://news.ycombinator.com/item?id=37867712) - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:53:33](https://news.ycombinator.com/item?id=37867546) - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
