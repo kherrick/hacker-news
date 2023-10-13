@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-13, 17:57:25",
+      "https://news.ycombinator.com/item?id=37873499"
+    ],
+    [
+      "Google.com tests a news-filled homepage, just like Bing and Yahoo",
+      "https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 17:55:58",
+      "https://news.ycombinator.com/item?id=37873486"
+    ],
+    [
+      "OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3",
+      "https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 17:35:38",
       "https://news.ycombinator.com/item?id=37873237"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2023-10-13, 17:00:14",
+      "https://news.ycombinator.com/item?id=37872800"
+    ],
+    [
+      "Ads on Your Phone Can Aid Government Surveillance",
+      "https://www.wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 16:29:06",
       "https://news.ycombinator.com/item?id=37872381"
     ],
@@ -57,16 +87,6 @@
     [
       "Google Cloud announces generative AI indemnification protections",
       "https://cloud.google.com/blog/products/ai-machine-learning/protecting-customers-with-generative-ai-indemnification"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 15:39:01",
-      "https://news.ycombinator.com/item?id=37871808"
-    ],
-    [
-      "Microsoft Closes $69B Activision Deal, Overcoming Regulators' Objections",
-      "https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Text Embeddings Reveal (Almost) as Much as Text",
       "https://arxiv.org/abs/2310.06816"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 05:47:40",
-      "https://news.ycombinator.com/item?id=37867144"
-    ],
-    [
-      "How to fit a large program into a small machine (1980)",
-      "https://mud.co.uk/richard/htflpism.htm"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 05:21:38",
-      "https://news.ycombinator.com/item?id=37866999"
-    ],
-    [
-      "The Thumb Calendar",
-      "http://thumbcalendar.com/"
     ]
   ],
   [
