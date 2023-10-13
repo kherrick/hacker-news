@@ -9,6 +9,7 @@
 * [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 * [2023-10-12, 22:07:04](https://news.ycombinator.com/item?id=37863804) - [Let's Celebrate Relicensing from an Open Source to a Proprietary License](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/)
 * [2023-10-12, 22:03:55](https://news.ycombinator.com/item?id=37863776) - [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
+* [2023-10-12, 22:01:31](https://news.ycombinator.com/item?id=37863745) - [The Great Hargeisa Goat Bubble](https://web.archive.org/web/20120630140041/https://www.juliangough.com/the-great-hargeisa-goat-bubble/)
 * [2023-10-12, 21:56:09](https://news.ycombinator.com/item?id=37863694) - [The Quest to Secure chown and symlinks](https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions)
 * [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [The Misunderstanding About Education That Cost Mark Zuckerberg $100M](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
 * [2023-10-12, 21:45:51](https://news.ycombinator.com/item?id=37863583) - [Handle.com (YC W19) Is Hiring (ABM Manager)](https://www.ycombinator.com/companies/handle-com/jobs/lgchJ3v-abm-campaigns-manager)
