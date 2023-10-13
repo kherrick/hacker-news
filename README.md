@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
 * [2023-10-13, 16:48:06](https://news.ycombinator.com/item?id=37872638) - [Roughly 80% of Grades Given at Harvard Are in the 'A' Range](https://jonathanturley.org/2023/10/12/the-incredibles-roughly-80-percent-of-grades-given-at-harvard-are-as/)
 * [2023-10-13, 16:29:06](https://news.ycombinator.com/item?id=37872381) - [Cars are a 'privacy nightmare on wheels'](https://theconversation.com/cars-are-a-privacy-nightmare-on-wheels-heres-how-they-get-away-with-collecting-and-sharing-your-data-214386)
-* [2023-10-13, 15:41:35](https://news.ycombinator.com/item?id=37871843) - [The EU Says Mark Zuckerberg Has 24 Hours to Respond to Censorship Demands](https://reclaimthenet.org/eu-says-zuckerberg-24-hours-respond-censorship-demands)
 * [2023-10-13, 15:39:01](https://news.ycombinator.com/item?id=37871808) - [Microsoft Closes $69B Activision Deal, Overcoming Regulators' Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
 * [2023-10-13, 14:45:20](https://news.ycombinator.com/item?id=37871203) - [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
