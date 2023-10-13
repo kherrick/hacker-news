@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 18:09:26](https://news.ycombinator.com/item?id=37873621) - [CIA publicly acknowledges 1953 coup it backed in Iran was undemocratic](https://www.nbcnews.com/news/us-news/cia-publicly-acknowledges-1953-coup-backed-iran-was-undemocratic-revis-rcna120154)
 * [2023-10-13, 17:57:25](https://news.ycombinator.com/item?id=37873499) - [Google.com tests a news-filled homepage, just like Bing and Yahoo](https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/)
 * [2023-10-13, 17:55:58](https://news.ycombinator.com/item?id=37873486) - [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
@@ -10,7 +11,7 @@
 * [2023-10-13, 16:09:21](https://news.ycombinator.com/item?id=37872150) - [Tesla is launching their developer APIs](https://developer.tesla.com/docs)
 * [2023-10-13, 16:09:10](https://news.ycombinator.com/item?id=37872147) - [Google Cloud announces generative AI indemnification protections](https://cloud.google.com/blog/products/ai-machine-learning/protecting-customers-with-generative-ai-indemnification)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
-* [2023-10-13, 14:45:20](https://news.ycombinator.com/item?id=37871203) - [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
+* [2023-10-13, 15:12:24](https://news.ycombinator.com/item?id=37871534) - [Would we still create Nebula today?](https://www.defined.net/blog/would-we-still-create-nebula-today/)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from Hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
 * [2023-10-13, 14:01:56](https://news.ycombinator.com/item?id=37870737) - [New AC technology uses 60% less energy](https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/)
 * [2023-10-13, 13:47:20](https://news.ycombinator.com/item?id=37870557) - [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
@@ -24,12 +25,11 @@
 * [2023-10-13, 09:38:02](https://news.ycombinator.com/item?id=37868653) - [OpenWrt 23.05](https://openwrt.org/releases/23.05/notes-23.05.0)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software (2003)](https://mprove.de/script/99/kai/)
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-* [2023-10-13, 08:24:59](https://news.ycombinator.com/item?id=37868196) - [Reproducibility trial: Biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
 * [2023-10-13, 07:03:47](https://news.ycombinator.com/item?id=37867635) - [Text Embeddings Reveal (Almost) as Much as Text](https://arxiv.org/abs/2310.06816)
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth Century Scientists Set Out to Solve the \"Problem of American Storms\"](https://www.neh.gov/article/storm-patrol)
-* [2023-10-13, 00:17:23](https://news.ycombinator.com/item?id=37864867) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
+* [2023-10-11, 12:28:21](https://news.ycombinator.com/item?id=37843590) - [Keyboard Keys and Characters](https://utcc.utoronto.ca/~cks/space/blog/tech/KeysAndCharacters)
 
 ## [Archives](archives/index.md)
 

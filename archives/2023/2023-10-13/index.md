@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 18:09:26](https://news.ycombinator.com/item?id=37873621) - [CIA publicly acknowledges 1953 coup it backed in Iran was undemocratic](https://www.nbcnews.com/news/us-news/cia-publicly-acknowledges-1953-coup-backed-iran-was-undemocratic-revis-rcna120154)
 * [2023-10-13, 17:57:25](https://news.ycombinator.com/item?id=37873499) - [Google.com tests a news-filled homepage, just like Bing and Yahoo](https://arstechnica.com/gadgets/2023/10/google-com-tests-a-news-filled-homepage-just-like-bing-and-yahoo/)
 * [2023-10-13, 17:55:58](https://news.ycombinator.com/item?id=37873486) - [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
@@ -18,6 +19,7 @@
 * [2023-10-13, 15:41:35](https://news.ycombinator.com/item?id=37871843) - [The EU Says Mark Zuckerberg Has 24 Hours to Respond to Censorship Demands](https://reclaimthenet.org/eu-says-zuckerberg-24-hours-respond-censorship-demands)
 * [2023-10-13, 15:39:01](https://news.ycombinator.com/item?id=37871808) - [Microsoft Closes $69B Activision Deal, Overcoming Regulators' Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
+* [2023-10-13, 15:12:24](https://news.ycombinator.com/item?id=37871534) - [Would we still create Nebula today?](https://www.defined.net/blog/would-we-still-create-nebula-today/)
 * [2023-10-13, 15:09:33](https://news.ycombinator.com/item?id=37871503) - [Why do so many people think they are in a bullshit job?](https://psyche.co/ideas/why-do-so-many-people-think-they-are-in-a-bullshit-job)
 * [2023-10-13, 15:07:17](https://news.ycombinator.com/item?id=37871480) - [What's wrong with CVEs? Daniel Stenberg of cURL wants you to know](https://podcast.sustainoss.org/203)
 * [2023-10-13, 14:45:20](https://news.ycombinator.com/item?id=37871203) - [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
