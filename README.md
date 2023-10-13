@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 13:47:20](https://news.ycombinator.com/item?id=37870557) - [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
 * [2023-10-13, 13:35:17](https://news.ycombinator.com/item?id=37870437) - [Every app that adds AI looks like this](https://botharetrue.substack.com/p/every-app-that-adds-ai-looks-like)
 * [2023-10-13, 12:24:56](https://news.ycombinator.com/item?id=37869809) - [The Compact Calendar 2023-2024](https://davidseah.com/node/compact-calendar/)
 * [2023-10-13, 12:18:17](https://news.ycombinator.com/item?id=37869760) - [Why you shouldn't join Y Combinator](https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator)
@@ -16,7 +17,6 @@
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 * [2023-10-13, 08:24:59](https://news.ycombinator.com/item?id=37868196) - [Reproducibility trial: Biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
-* [2023-10-13, 07:40:09](https://news.ycombinator.com/item?id=37867881) - [Microsoft $69B deal to buy Call of Duty maker Activision Blizzard cleared by UK](https://www.theguardian.com/business/2023/oct/13/microsoft-deal-to-buy-call-of-duty-maker-activision-blizzard-cleared-by-uk)
 * [2023-10-13, 07:36:27](https://news.ycombinator.com/item?id=37867856) - [Two Stories for \"What Is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
 * [2023-10-13, 05:21:38](https://news.ycombinator.com/item?id=37866999) - [The Thumb Calendar](http://thumbcalendar.com/)
