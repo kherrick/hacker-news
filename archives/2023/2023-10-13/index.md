@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 19:02:39](https://news.ycombinator.com/item?id=37874229) - [Tesla workers shared sensitive images recorded by customers' cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
 * [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services Integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
 * [2023-10-13, 18:58:01](https://news.ycombinator.com/item?id=37874174) - [\"Hallucinating\" AIs Sound Creative, but Let's Not Celebrate Being Wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
 * [2023-10-13, 18:24:30](https://news.ycombinator.com/item?id=37873807) - [Photographer Reuben Wu Showcases the Power of iPhone 15 Pro Max](https://petapixel.com/2023/10/03/photographer-reuben-wu-showcases-the-power-of-iphone-15-pro-max/)

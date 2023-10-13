@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 19:02:39](https://news.ycombinator.com/item?id=37874229) - [Tesla workers shared sensitive images recorded by customers' cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
 * [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services Integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
-* [2023-10-13, 18:58:01](https://news.ycombinator.com/item?id=37874174) - [\"Hallucinating\" AIs Sound Creative, but Let's Not Celebrate Being Wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
+* [2023-10-13, 18:58:01](https://news.ycombinator.com/item?id=37874174) - [\"Hallucinating\" AIs sound creative, but let's not celebrate being wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
 * [2023-10-13, 18:24:30](https://news.ycombinator.com/item?id=37873807) - [Photographer Reuben Wu Showcases the Power of iPhone 15 Pro Max](https://petapixel.com/2023/10/03/photographer-reuben-wu-showcases-the-power-of-iphone-15-pro-max/)
 * [2023-10-13, 18:23:46](https://news.ycombinator.com/item?id=37873798) - ['Remarkable' medical discovery for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
 * [2023-10-13, 18:09:26](https://news.ycombinator.com/item?id=37873621) - [CIA publicly acknowledges 1953 coup it backed in Iran was undemocratic](https://www.nbcnews.com/news/us-news/cia-publicly-acknowledges-1953-coup-backed-iran-was-undemocratic-revis-rcna120154)
-* [2023-10-13, 17:55:58](https://news.ycombinator.com/item?id=37873486) - [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
 * [2023-10-13, 17:15:49](https://news.ycombinator.com/item?id=37872993) - [It looks like the 23ky old human footprints at White Sands are solid](https://archeothoughts.wordpress.com/2023/10/10/it-looks-like-the-23ky-old-human-footprints-at-white-sands-are-solid/)
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
@@ -13,10 +13,9 @@
 * [2023-10-13, 16:29:06](https://news.ycombinator.com/item?id=37872381) - [Cars are a 'privacy nightmare on wheels'](https://theconversation.com/cars-are-a-privacy-nightmare-on-wheels-heres-how-they-get-away-with-collecting-and-sharing-your-data-214386)
 * [2023-10-13, 16:09:21](https://news.ycombinator.com/item?id=37872150) - [Tesla is launching their developer APIs](https://developer.tesla.com/docs)
 * [2023-10-13, 16:09:10](https://news.ycombinator.com/item?id=37872147) - [Google Cloud announces generative AI indemnification protections](https://cloud.google.com/blog/products/ai-machine-learning/protecting-customers-with-generative-ai-indemnification)
-* [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
+* [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: Generate interactive API documentations from Swagger files](https://github.com/scalar/scalar)
 * [2023-10-13, 15:12:24](https://news.ycombinator.com/item?id=37871534) - [Would we still create Nebula today?](https://www.defined.net/blog/would-we-still-create-nebula-today/)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from Hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
-* [2023-10-13, 14:01:56](https://news.ycombinator.com/item?id=37870737) - [New AC technology uses 60% less energy](https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/)
 * [2023-10-13, 13:47:20](https://news.ycombinator.com/item?id=37870557) - [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
 * [2023-10-13, 12:58:50](https://news.ycombinator.com/item?id=37870061) - [The MP3mobile (1998)](http://utter.chaos.org.uk/~altman/mp3mobile/)
 * [2023-10-13, 12:24:56](https://news.ycombinator.com/item?id=37869809) - [The Compact Calendar 2023-2024](https://davidseah.com/node/compact-calendar/)
@@ -30,6 +29,7 @@
 * [2023-10-13, 07:03:47](https://news.ycombinator.com/item?id=37867635) - [Text Embeddings Reveal (Almost) as Much as Text](https://arxiv.org/abs/2310.06816)
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth Century Scientists Set Out to Solve the \"Problem of American Storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
+* [2023-10-11, 12:28:21](https://news.ycombinator.com/item?id=37843590) - [Keyboard Keys and Characters](https://utcc.utoronto.ca/~cks/space/blog/tech/KeysAndCharacters)
 
 ## [Archives](archives/index.md)
 
