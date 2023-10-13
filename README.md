@@ -2,7 +2,7 @@
 
 * [2023-10-13, 06:17:02](https://news.ycombinator.com/item?id=37867334) - [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
 * [2023-10-13, 05:48:44](https://news.ycombinator.com/item?id=37867152) - [Malaysia's spat with Goldman about to get ugly](https://www.channelnewsasia.com/asia/malaysia-goldman-sachs-1mdb-settlement-arbitration-london-3841106)
-* [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to Fit a Large Program into a Small Machine (Zork, Z-Machine, ZIL) (1999)](https://mud.co.uk/richard/htflpism.htm)
+* [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
 * [2023-10-13, 04:07:15](https://news.ycombinator.com/item?id=37866537) - [Apple Bricked my AirPods and now wants me to buy new ones](https://twitter.com/mattcantstop/status/1712680601340579891)
 * [2023-10-13, 03:51:32](https://news.ycombinator.com/item?id=37866421) - [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 * [2023-10-13, 02:43:13](https://news.ycombinator.com/item?id=37865941) - [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
