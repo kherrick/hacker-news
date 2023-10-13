@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 13:55:37](https://news.ycombinator.com/item?id=37870653) - [The drugs did work (2006)](https://www.theguardian.com/film/2006/aug/12/sciencefictionfantasyandhorror.philipkdick)
+* [2023-10-13, 13:49:39](https://news.ycombinator.com/item?id=37870575) - [FTX thief cashes out millions during Bankman-Fried trial](https://www.bbc.co.uk/news/technology-67090501)
 * [2023-10-13, 13:47:20](https://news.ycombinator.com/item?id=37870557) - [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
 * [2023-10-13, 13:35:17](https://news.ycombinator.com/item?id=37870437) - [Every app that adds AI looks like this](https://botharetrue.substack.com/p/every-app-that-adds-ai-looks-like)
 * [2023-10-13, 12:24:56](https://news.ycombinator.com/item?id=37869809) - [The Compact Calendar 2023-2024](https://davidseah.com/node/compact-calendar/)
@@ -10,6 +12,7 @@
 * [2023-10-13, 11:23:50](https://news.ycombinator.com/item?id=37869353) - [Bounty to Recover NIST's Elliptic Curve Seeds](https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html)
 * [2023-10-13, 11:21:51](https://news.ycombinator.com/item?id=37869341) - [The Art of Communication Design](https://medium.com/@mseckington/the-art-of-communication-design-intro-54a822efab34)
 * [2023-10-13, 11:02:55](https://news.ycombinator.com/item?id=37869220) - [What I wish I knew when I got my ASN](https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/)
+* [2023-10-13, 10:08:00](https://news.ycombinator.com/item?id=37868887) - [The soloists and populars of the software world](https://mihaiolteanu.me/soloists-and-populars)
 * [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 * [2023-10-13, 09:38:02](https://news.ycombinator.com/item?id=37868653) - [OpenWrt 23.05](https://openwrt.org/releases/23.05/notes-23.05.0)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software (2003)](https://mprove.de/script/99/kai/)
@@ -23,11 +26,8 @@
 * [2023-10-13, 03:51:32](https://news.ycombinator.com/item?id=37866421) - [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 * [2023-10-13, 02:42:08](https://news.ycombinator.com/item?id=37865933) - [Go in the Devil's Name: When Isobel Gowdie Confessed to Being a Witch](https://www.laphamsquarterly.org/roundtable/go-devils-name)
 * [2023-10-13, 02:24:38](https://news.ycombinator.com/item?id=37865816) - [The Price-Fixing Economy](https://www.thebignewsletter.com/p/the-price-fixing-economy)
-* [2023-10-13, 02:24:09](https://news.ycombinator.com/item?id=37865812) - [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
 * [2023-10-13, 01:43:14](https://news.ycombinator.com/item?id=37865550) - [Neanderthals hunted dangerous cave lions, study shows](https://phys.org/news/2023-10-neanderthals-dangerous-cave-lions.html)
 * [2023-10-13, 00:17:23](https://news.ycombinator.com/item?id=37864867) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
-* [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
-* [2023-10-12, 22:43:02](https://news.ycombinator.com/item?id=37864096) - [Step-by-Step Restoration of a Rare 1995 IBM ThinkPad [video]](https://www.youtube.com/watch?v=xvyYPVkkztQ)
 * [2023-10-12, 22:04:57](https://news.ycombinator.com/item?id=37863784) - [Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel](https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
