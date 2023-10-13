@@ -9,6 +9,7 @@
 * [2023-10-13, 08:55:42](https://news.ycombinator.com/item?id=37868388) - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 * [2023-10-13, 08:24:59](https://news.ycombinator.com/item?id=37868196) - [Reproducibility trial: 246 biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
+* [2023-10-13, 07:40:09](https://news.ycombinator.com/item?id=37867881) - [Microsoft $69B deal to buy Call of Duty maker Activision Blizzard cleared by UK](https://www.theguardian.com/business/2023/oct/13/microsoft-deal-to-buy-call-of-duty-maker-activision-blizzard-cleared-by-uk)
 * [2023-10-13, 07:36:27](https://news.ycombinator.com/item?id=37867856) - [Two Stories for \"What Is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
@@ -27,7 +28,6 @@
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator](https://www.desmos.com/3d)
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
-* [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857231) - [Ask HN: Show me your half baked project](https://news.ycombinator.com/item?id=37857231)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 * [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
 
