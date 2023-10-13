@@ -9,6 +9,7 @@
 * [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 * [2023-10-12, 22:43:02](https://news.ycombinator.com/item?id=37864096) - [Step-by-Step Restoration of a Rare 1995 IBM ThinkPad [video]](https://www.youtube.com/watch?v=xvyYPVkkztQ)
 * [2023-10-12, 22:07:04](https://news.ycombinator.com/item?id=37863804) - [Let's Celebrate Relicensing from an Open Source to a Proprietary License](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/)
+* [2023-10-12, 22:04:57](https://news.ycombinator.com/item?id=37863784) - [Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel](https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html)
 * [2023-10-12, 22:03:55](https://news.ycombinator.com/item?id=37863776) - [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
 * [2023-10-12, 22:01:31](https://news.ycombinator.com/item?id=37863745) - [The Great Hargeisa Goat Bubble](https://web.archive.org/web/20120630140041/https://www.juliangough.com/the-great-hargeisa-goat-bubble/)
 * [2023-10-12, 21:56:09](https://news.ycombinator.com/item?id=37863694) - [The Quest to Secure chown and symlinks](https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions)
