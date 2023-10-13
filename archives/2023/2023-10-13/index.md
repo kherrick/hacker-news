@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 15:39:01](https://news.ycombinator.com/item?id=37871808) - [Microsoft Closes $69B Activision Deal, Overcoming Regulators' Objections](https://www.nytimes.com/2023/10/13/technology/microsoft-activision-blizzard-deal-closes.html)
+* [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: An open-source alternative to Redocly and Swagger UI](https://github.com/scalar/scalar)
 * [2023-10-13, 15:09:33](https://news.ycombinator.com/item?id=37871503) - [Why do so many people think they are in a bullshit job?](https://psyche.co/ideas/why-do-so-many-people-think-they-are-in-a-bullshit-job)
+* [2023-10-13, 15:07:17](https://news.ycombinator.com/item?id=37871480) - [What's wrong with CVEs? Daniel Stenberg of cURL wants you to know](https://podcast.sustainoss.org/203)
 * [2023-10-13, 14:45:20](https://news.ycombinator.com/item?id=37871203) - [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
 * [2023-10-13, 14:26:05](https://news.ycombinator.com/item?id=37871001) - [Climate change primary driver of amphibian decline: Study](https://phys.org/news/2023-10-climate-primary-driver-amphibian-decline.html)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from Hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
