@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 07:14:16](https://news.ycombinator.com/item?id=37867712) - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
 * [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 06:53:33](https://news.ycombinator.com/item?id=37867546) - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
 * [2023-10-13, 06:39:02](https://news.ycombinator.com/item?id=37867481) - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
@@ -17,6 +18,7 @@
 * [2023-10-13, 03:51:32](https://news.ycombinator.com/item?id=37866421) - [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 * [2023-10-13, 03:00:43](https://news.ycombinator.com/item?id=37866076) - [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
 * [2023-10-13, 02:43:13](https://news.ycombinator.com/item?id=37865941) - [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
+* [2023-10-13, 02:42:08](https://news.ycombinator.com/item?id=37865933) - [Go in the Devil's Name: When Isobel Gowdie Confessed to Being a Witch](https://www.laphamsquarterly.org/roundtable/go-devils-name)
 * [2023-10-13, 02:31:06](https://news.ycombinator.com/item?id=37865850) - [LabVIEW abandons Mac after 4 decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades)
 * [2023-10-13, 02:24:38](https://news.ycombinator.com/item?id=37865816) - [The Price-Fixing Economy](https://www.thebignewsletter.com/p/the-price-fixing-economy)
 * [2023-10-13, 02:24:09](https://news.ycombinator.com/item?id=37865812) - [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
