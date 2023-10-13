@@ -95,6 +95,7 @@
 * [2023-10-13, 02:31:06](https://news.ycombinator.com/item?id=37865850) - [LabVIEW abandons Mac after 4 decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades)
 * [2023-10-13, 02:24:38](https://news.ycombinator.com/item?id=37865816) - [The Price-Fixing Economy](https://www.thebignewsletter.com/p/the-price-fixing-economy)
 * [2023-10-13, 02:24:09](https://news.ycombinator.com/item?id=37865812) - [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
+* [2023-10-13, 01:51:10](https://news.ycombinator.com/item?id=37865610) - [Scientists generate first single-cell atlas of the primate brain](https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html)
 * [2023-10-13, 01:43:14](https://news.ycombinator.com/item?id=37865550) - [Neanderthals hunted dangerous cave lions, study shows](https://phys.org/news/2023-10-neanderthals-dangerous-cave-lions.html)
 * [2023-10-13, 01:41:47](https://news.ycombinator.com/item?id=37865534) - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
 * [2023-10-13, 01:35:32](https://news.ycombinator.com/item?id=37865476) - [Research shows why hunting for the cheapest plane ticket is a waste of time](https://phys.org/news/2023-10-cheapest-plane-ticket.html)
