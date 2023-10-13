@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 13:35:17](https://news.ycombinator.com/item?id=37870437) - [Every app that adds AI looks like this](https://botharetrue.substack.com/p/every-app-that-adds-ai-looks-like)
 * [2023-10-13, 12:24:56](https://news.ycombinator.com/item?id=37869809) - [The Compact Calendar 2023-2024](https://davidseah.com/node/compact-calendar/)
 * [2023-10-13, 12:18:17](https://news.ycombinator.com/item?id=37869760) - [You shouldn't join Y Combinator](https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator)
 * [2023-10-13, 12:00:16](https://news.ycombinator.com/item?id=37869612) - [Authzed (YC W21) Is Hiring: Customer Success Engineer, Dev Evangelist](https://www.workatastartup.com/companies/authzed)
@@ -11,6 +12,7 @@
 * [2023-10-13, 11:50:17](https://news.ycombinator.com/item?id=37869534) - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 * [2023-10-13, 11:48:42](https://news.ycombinator.com/item?id=37869517) - [Ask HN: How do you organize your life?](https://news.ycombinator.com/item?id=37869517)
 * [2023-10-13, 11:23:50](https://news.ycombinator.com/item?id=37869353) - [Bounty to Recover NIST's Elliptic Curve Seeds](https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html)
+* [2023-10-13, 11:21:51](https://news.ycombinator.com/item?id=37869341) - [The Art of Communication Design](https://medium.com/@mseckington/the-art-of-communication-design-intro-54a822efab34)
 * [2023-10-13, 11:18:04](https://news.ycombinator.com/item?id=37869315) - [Ad blockers are not allowed on YouTube](https://i.imgur.com/AhrLdE9.png)
 * [2023-10-13, 10:08:00](https://news.ycombinator.com/item?id=37868887) - [The soloists and populars of the software world](https://mihaiolteanu.me/soloists-and-populars)
 * [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
