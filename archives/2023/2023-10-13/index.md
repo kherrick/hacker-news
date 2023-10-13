@@ -54,6 +54,7 @@
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to Fit a Large Program into a Small Machine (Zork, Z-Machine, ZIL) (1999)](https://mud.co.uk/richard/htflpism.htm)
 * [2023-10-13, 05:36:08](https://news.ycombinator.com/item?id=37867074) - [Ask HN: Anyone Using MacBook Air M2 24GB for Developement?](https://news.ycombinator.com/item?id=37867074)
 * [2023-10-13, 05:21:38](https://news.ycombinator.com/item?id=37866999) - [The Thumb Calendar](http://thumbcalendar.com/)
+* [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth Century Scientists Set Out to Solve the \"Problem of American Storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-13, 04:07:15](https://news.ycombinator.com/item?id=37866537) - [Apple Bricked my AirPods and now wants me to buy new ones](https://twitter.com/mattcantstop/status/1712680601340579891)
 * [2023-10-13, 03:51:32](https://news.ycombinator.com/item?id=37866421) - [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 * [2023-10-13, 03:00:43](https://news.ycombinator.com/item?id=37866076) - [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
