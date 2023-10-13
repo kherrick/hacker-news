@@ -7,6 +7,7 @@
 * [2023-10-12, 23:43:59](https://news.ycombinator.com/item?id=37864629) - [REI is Laying Off 275 Employees](https://old.reddit.com/r/REI/comments/176chas/rei_is_letting_go_275_employees_today/)
 * [2023-10-12, 23:30:08](https://news.ycombinator.com/item?id=37864525) - [You Can't Currently Download Ubuntu 23.10](https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-installer-translations-hijack)
 * [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
+* [2023-10-12, 22:43:02](https://news.ycombinator.com/item?id=37864096) - [Step-by-Step Restoration of a Rare 1995 IBM ThinkPad [video]](https://www.youtube.com/watch?v=xvyYPVkkztQ)
 * [2023-10-12, 22:07:04](https://news.ycombinator.com/item?id=37863804) - [Let's Celebrate Relicensing from an Open Source to a Proprietary License](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/)
 * [2023-10-12, 22:03:55](https://news.ycombinator.com/item?id=37863776) - [Flexport is laying off 20% of its workforce](https://www.cnbc.com/2023/10/12/flexport-is-laying-off-20percent-of-its-workforce.html)
 * [2023-10-12, 22:01:31](https://news.ycombinator.com/item?id=37863745) - [The Great Hargeisa Goat Bubble](https://web.archive.org/web/20120630140041/https://www.juliangough.com/the-great-hargeisa-goat-bubble/)
