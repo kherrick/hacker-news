@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 21:42:58](https://news.ycombinator.com/item?id=37875943) - [Cloudy with a Chance of Insanity: Unsticking iCloud Drive](https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/)
 * [2023-10-13, 21:00:38](https://news.ycombinator.com/item?id=37875574) - [Kodable (YC IK12) is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
 * [2023-10-13, 20:57:35](https://news.ycombinator.com/item?id=37875542) - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
 * [2023-10-13, 20:41:16](https://news.ycombinator.com/item?id=37875396) - [Extinct goat was cold-blooded (2009)](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
@@ -14,7 +15,6 @@
 * [2023-10-13, 15:12:24](https://news.ycombinator.com/item?id=37871534) - [Would we still create Nebula today?](https://www.defined.net/blog/would-we-still-create-nebula-today/)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
 * [2023-10-13, 14:01:56](https://news.ycombinator.com/item?id=37870737) - [Blue Frontier and its energy-efficient AC](https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/)
-* [2023-10-13, 12:58:50](https://news.ycombinator.com/item?id=37870061) - [The MP3mobile (1998)](http://utter.chaos.org.uk/~altman/mp3mobile/)
 * [2023-10-13, 11:57:40](https://news.ycombinator.com/item?id=37869597) - [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 * [2023-10-13, 11:50:17](https://news.ycombinator.com/item?id=37869534) - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 * [2023-10-13, 11:36:59](https://news.ycombinator.com/item?id=37869445) - [Nature: Programming language to experience the joy of programming](https://nature-lang.org/)
