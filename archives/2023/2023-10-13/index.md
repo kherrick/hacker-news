@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 03:51:32](https://news.ycombinator.com/item?id=37866421) - [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
 * [2023-10-13, 03:00:43](https://news.ycombinator.com/item?id=37866076) - [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
 * [2023-10-13, 02:43:13](https://news.ycombinator.com/item?id=37865941) - [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
 * [2023-10-13, 02:31:06](https://news.ycombinator.com/item?id=37865850) - [LabVIEW abandons Mac after 4 decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades)
