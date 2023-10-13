@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-13, 11:18:04](https://news.ycombinator.com/item?id=37869315) - [Ad blockers are not allowed on YouTube](https://i.imgur.com/AhrLdE9.png)
+* [2023-10-13, 12:00:16](https://news.ycombinator.com/item?id=37869612) - [Authzed (YC W21) Is Hiring: Customer Success Engineer, Dev Evangelist](https://www.workatastartup.com/companies/authzed)
 * [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
 * [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 * [2023-10-13, 09:10:51](https://news.ycombinator.com/item?id=37868493) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
@@ -11,7 +11,6 @@
 * [2023-10-13, 08:12:42](https://news.ycombinator.com/item?id=37868106) - [GPSJam: Daily maps of possible GPS interference](https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10)
 * [2023-10-13, 07:40:09](https://news.ycombinator.com/item?id=37867881) - [Microsoft $69B deal to buy Call of Duty maker Activision Blizzard cleared by UK](https://www.theguardian.com/business/2023/oct/13/microsoft-deal-to-buy-call-of-duty-maker-activision-blizzard-cleared-by-uk)
 * [2023-10-13, 07:36:27](https://news.ycombinator.com/item?id=37867856) - [Two Stories for \"What Is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
-* [2023-10-13, 07:01:13](https://news.ycombinator.com/item?id=37867609) - [Our World in Data (YC W19) Is Hiring a Comms Manager](https://ourworldindata.org/communications-outreach-manager-q4-2023)
 * [2023-10-13, 05:47:40](https://news.ycombinator.com/item?id=37867144) - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
 * [2023-10-13, 05:21:38](https://news.ycombinator.com/item?id=37866999) - [The Thumb Calendar](http://thumbcalendar.com/)
 * [2023-10-13, 03:51:32](https://news.ycombinator.com/item?id=37866421) - [Mathematician warns US spies may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
@@ -25,11 +24,12 @@
 * [2023-10-12, 22:43:02](https://news.ycombinator.com/item?id=37864096) - [Step-by-Step Restoration of a Rare 1995 IBM ThinkPad [video]](https://www.youtube.com/watch?v=xvyYPVkkztQ)
 * [2023-10-12, 22:04:57](https://news.ycombinator.com/item?id=37863784) - [Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel](https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html)
 * [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [Personalized learning can feel isolating. Whole class learning can feel personal](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
+* [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator](https://www.desmos.com/3d)
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
+* [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857231) - [Ask HN: Show me your half baked project](https://news.ycombinator.com/item?id=37857231)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
-* [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
 
 ## [Archives](archives/index.md)
 
