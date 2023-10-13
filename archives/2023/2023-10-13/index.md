@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 14:45:20](https://news.ycombinator.com/item?id=37871203) - [LoRA Fine-Tuning Efficiently Undoes Safety Training from Llama 2-Chat 70B](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from)
 * [2023-10-13, 14:26:05](https://news.ycombinator.com/item?id=37871001) - [Climate change primary driver of amphibian decline: Study](https://phys.org/news/2023-10-climate-primary-driver-amphibian-decline.html)
+* [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from Hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
 * [2023-10-13, 14:12:08](https://news.ycombinator.com/item?id=37870842) - [Ask HN: Is it just me or is mobile web browsing awful?](https://news.ycombinator.com/item?id=37870842)
 * [2023-10-13, 14:01:56](https://news.ycombinator.com/item?id=37870737) - [New AC technology uses 60% less energy](https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/)
 * [2023-10-13, 13:55:37](https://news.ycombinator.com/item?id=37870653) - [The drugs did work (2006)](https://www.theguardian.com/film/2006/aug/12/sciencefictionfantasyandhorror.philipkdick)
