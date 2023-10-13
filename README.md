@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 03:00:43](https://news.ycombinator.com/item?id=37866076) - [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
 * [2023-10-13, 02:43:13](https://news.ycombinator.com/item?id=37865941) - [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
+* [2023-10-13, 02:31:06](https://news.ycombinator.com/item?id=37865850) - [LabVIEW abandons Mac after 4 decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades)
 * [2023-10-13, 02:24:09](https://news.ycombinator.com/item?id=37865812) - [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
 * [2023-10-13, 01:41:47](https://news.ycombinator.com/item?id=37865534) - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
 * [2023-10-13, 01:35:32](https://news.ycombinator.com/item?id=37865476) - [Research shows why hunting for the cheapest plane ticket is a waste of time](https://phys.org/news/2023-10-cheapest-plane-ticket.html)
@@ -10,7 +12,6 @@
 * [2023-10-13, 00:17:23](https://news.ycombinator.com/item?id=37864867) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-12, 22:57:47](https://news.ycombinator.com/item?id=37864244) - [Echoes of Electromagnetism Found in Number Theory](https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/)
 * [2023-10-12, 22:07:04](https://news.ycombinator.com/item?id=37863804) - [Let's Celebrate Relicensing from an Open Source to a Proprietary License](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/)
-* [2023-10-12, 21:56:09](https://news.ycombinator.com/item?id=37863694) - [The Quest to Secure chown and symlinks](https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions)
 * [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [A misunderstanding about education that cost Mark Zuckerberg $100M](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
 * [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
@@ -28,7 +29,6 @@
 * [2023-10-12, 13:58:38](https://news.ycombinator.com/item?id=37857231) - [Ask HN: Show me your half baked project](https://news.ycombinator.com/item?id=37857231)
 * [2023-10-12, 13:17:50](https://news.ycombinator.com/item?id=37856754) - [Atlassian Acquires Loom](https://www.atlassian.com/blog/announcements/atlassian-acquires-loom)
 * [2023-10-12, 08:45:10](https://news.ycombinator.com/item?id=37854846) - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
-* [2023-10-11, 00:15:32](https://news.ycombinator.com/item?id=37839458) - [Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment](https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html)
 * [2023-10-11, 00:10:34](https://news.ycombinator.com/item?id=37839417) - [Researchers find pre-Columbian agave plants persisting in Arizona landscapes](https://phys.org/news/2023-10-pre-columbian-agave-persisting-arizona-landscapes.html)
 
 ## [Archives](archives/index.md)
