@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
 * [2023-10-13, 21:00:38](https://news.ycombinator.com/item?id=37875574) - [Kodable (YC IK12) is hiring a Unity Game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
+* [2023-10-13, 20:57:35](https://news.ycombinator.com/item?id=37875542) - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
 * [2023-10-13, 20:39:07](https://news.ycombinator.com/item?id=37875370) - [Apple OSes Are Insecure by Design to Aid Surveillance](https://sneak.berlin/20231005/apple-operating-system-surveillance/)
 * [2023-10-13, 20:18:52](https://news.ycombinator.com/item?id=37875136) - [Only speaking to my daughter in Spanish for 2 years](https://joeprevite.com/2-years-bilingual-journey/)
 * [2023-10-13, 20:16:37](https://news.ycombinator.com/item?id=37875107) - [You Will Never Own a Home. TL:DR – Housing Is F**ked](https://joanwestenberg.medium.com/the-global-housing-squeeze-a-generational-wealth-apocalypse-d01ceaab8905)
