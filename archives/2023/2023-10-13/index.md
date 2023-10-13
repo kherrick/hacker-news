@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services Integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)
 * [2023-10-13, 18:58:01](https://news.ycombinator.com/item?id=37874174) - [\"Hallucinating\" AIs Sound Creative, but Let's Not Celebrate Being Wrong](https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/)
 * [2023-10-13, 18:24:30](https://news.ycombinator.com/item?id=37873807) - [Photographer Reuben Wu Showcases the Power of iPhone 15 Pro Max](https://petapixel.com/2023/10/03/photographer-reuben-wu-showcases-the-power-of-iphone-15-pro-max/)
 * [2023-10-13, 18:23:46](https://news.ycombinator.com/item?id=37873798) - ['Remarkable' medical discovery for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
@@ -12,6 +13,7 @@
 * [2023-10-13, 17:55:58](https://news.ycombinator.com/item?id=37873486) - [OpenZFS 2.2: Block Cloning, Linux Containers, BLAKE3](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 17:35:38](https://news.ycombinator.com/item?id=37873237) - [Atlas of Surveillance: Documenting Police Tech in Our Communities](https://atlasofsurveillance.org/)
 * [2023-10-13, 17:25:27](https://news.ycombinator.com/item?id=37873123) - [US intelligence warned of potential for Gaza clash in days before attack](https://www.cnn.com/2023/10/13/politics/us-intelligence-warnings-potential-gaza-clash-days-before-attack/index.html)
+* [2023-10-13, 17:15:49](https://news.ycombinator.com/item?id=37872993) - [It looks like the 23ky old human footprints at White Sands are solid](https://archeothoughts.wordpress.com/2023/10/10/it-looks-like-the-23ky-old-human-footprints-at-white-sands-are-solid/)
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 17:00:36](https://news.ycombinator.com/item?id=37872804) - [Pump (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump)
 * [2023-10-13, 17:00:14](https://news.ycombinator.com/item?id=37872800) - [Ads on Your Phone Can Aid Government Surveillance](https://www.wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04)
