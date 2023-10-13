@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 11:18:04](https://news.ycombinator.com/item?id=37869315) - [Ad blockers are not allowed on YouTube](https://i.imgur.com/AhrLdE9.png)
 * [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
 * [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 * [2023-10-13, 09:27:36](https://news.ycombinator.com/item?id=37868591) - [Remove Half of Your Documentation](https://blog.orsinium.dev/posts/misc/docs/)

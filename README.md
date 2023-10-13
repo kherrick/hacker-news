@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-13, 11:18:04](https://news.ycombinator.com/item?id=37869315) - [Ad blockers are not allowed on YouTube](https://i.imgur.com/AhrLdE9.png)
 * [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
 * [2023-10-13, 09:44:25](https://news.ycombinator.com/item?id=37868705) - [The Advice SaaS Startup Founders Would Give Their Younger Selves](https://www.justbeepit.com/post/saas-startup-founders-what-advice-would-you-give-your-younger-selves-here-s-what-they-said)
 * [2023-10-13, 09:27:36](https://news.ycombinator.com/item?id=37868591) - [Remove Half of Your Documentation](https://blog.orsinium.dev/posts/misc/docs/)
@@ -24,7 +25,6 @@
 * [2023-10-12, 22:01:31](https://news.ycombinator.com/item?id=37863745) - [The Great Hargeisa Goat Bubble](https://web.archive.org/web/20120630140041/https://www.juliangough.com/the-great-hargeisa-goat-bubble/)
 * [2023-10-12, 21:48:32](https://news.ycombinator.com/item?id=37863616) - [Personalized learning can feel isolating. Whole class learning can feel personal](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
 * [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
-* [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 16:05:23](https://news.ycombinator.com/item?id=37859085) - [Desmos 3D graphing calculator](https://www.desmos.com/3d)
 * [2023-10-12, 14:35:56](https://news.ycombinator.com/item?id=37857765) - [Show HN: I built a virtual tabletop for playing Dungeons and Dragons](https://www.diceright.com/)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
