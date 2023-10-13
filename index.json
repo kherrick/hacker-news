@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-13, 20:16:37",
-      "https://news.ycombinator.com/item?id=37875107"
-    ],
-    [
-      "You Will Never Own a Home. TL:DR – Housing Is F**ked",
-      "https://joanwestenberg.medium.com/the-global-housing-squeeze-a-generational-wealth-apocalypse-d01ceaab8905"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 19:58:32",
       "https://news.ycombinator.com/item?id=37874891"
     ],
@@ -27,16 +17,6 @@
     [
       "'Dumbphones' make a comeback: 'No one calls me anymore'",
       "https://english.elpais.com/technology/2023-10-11/dumbphones-make-a-comeback-no-one-calls-me-anymore.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 19:34:02",
-      "https://news.ycombinator.com/item?id=37874596"
-    ],
-    [
-      "Equifax scores £11.1M slap on wrist over 2017 mega breach",
-      "https://www.theregister.com/2023/10/13/equifax_fca_fine/"
     ]
   ],
   [
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37872993"
     ],
     [
-      "It looks like the 23ky old human footprints at White Sands are solid",
+      "It looks like the 23k year old human footprints at White Sands are solid",
       "https://archeothoughts.wordpress.com/2023/10/10/it-looks-like-the-23ky-old-human-footprints-at-white-sands-are-solid/"
     ]
   ],
@@ -147,6 +127,16 @@
     [
       "Takeaways from hundreds of LLM finetuning experiments with LoRA",
       "https://lightning.ai/pages/community/lora-insights/"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 14:01:56",
+      "https://news.ycombinator.com/item?id=37870737"
+    ],
+    [
+      "New AC technology uses 60% less energy",
+      "https://www.technologyreview.com/2023/10/04/1080128/2023-climate-tech-companies-blue-frontier-air-conditioning-energy-storage-climate-technology/"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37868388"
     ],
     [
-      "Populating the page: how browsers work",
+      "Populating the page: how browsers work (2020)",
       "https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "First word discovered in unopened Herculaneum scroll by CS student",
       "https://scrollprize.org/firstletters"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 10:49:16",
+      "https://news.ycombinator.com/item?id=37842914"
+    ],
+    [
+      "Making GRID's spreadsheet engine 10% faster",
+      "https://alexharri.com/blog/grid-engine-performance"
     ]
   ]
 ]
