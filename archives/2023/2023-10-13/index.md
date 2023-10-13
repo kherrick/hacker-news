@@ -11,6 +11,7 @@
 * [2023-10-13, 03:00:43](https://news.ycombinator.com/item?id=37866076) - [Apple AirTags stalking led to ruin and murders, lawsuit says](https://arstechnica.com/tech-policy/2023/10/apple-airtags-triggered-explosion-of-stalking-reports-nationwide-lawsuit-says/)
 * [2023-10-13, 02:43:13](https://news.ycombinator.com/item?id=37865941) - [Not setting up Find My bricked my MacBook](https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook)
 * [2023-10-13, 02:31:06](https://news.ycombinator.com/item?id=37865850) - [LabVIEW abandons Mac after 4 decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades)
+* [2023-10-13, 02:24:38](https://news.ycombinator.com/item?id=37865816) - [The Price-Fixing Economy](https://www.thebignewsletter.com/p/the-price-fixing-economy)
 * [2023-10-13, 02:24:09](https://news.ycombinator.com/item?id=37865812) - [The Rise and Reign of Japanese VCRs [video]](https://www.youtube.com/watch?v=5CMv5V-wxT8)
 * [2023-10-13, 01:41:47](https://news.ycombinator.com/item?id=37865534) - [Higher Mushroom Consumption Associated with Lower Cancer Risk](https://www.sciencedirect.com/science/article/pii/S2161831322004641)
 * [2023-10-13, 01:35:32](https://news.ycombinator.com/item?id=37865476) - [Research shows why hunting for the cheapest plane ticket is a waste of time](https://phys.org/news/2023-10-cheapest-plane-ticket.html)
