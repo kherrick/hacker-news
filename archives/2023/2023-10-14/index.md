@@ -6,11 +6,13 @@
 
 * [2023-10-14, 05:03:43](https://news.ycombinator.com/item?id=37878218) - [Israel Deploys Semi-Autonomous Machine Gun Robot to Gaza Border (2021)](https://www.thedefensepost.com/2021/07/01/israel-machine-gun-robot-gaza-border/)
 * [2023-10-14, 04:47:45](https://news.ycombinator.com/item?id=37878154) - [Traditionally Horny](https://danbaltic.substack.com/p/traditionally-horny)
+* [2023-10-14, 04:29:34](https://news.ycombinator.com/item?id=37878077) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-14, 03:48:09](https://news.ycombinator.com/item?id=37877918) - [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
 * [2023-10-14, 03:02:59](https://news.ycombinator.com/item?id=37877751) - [Why the average lifespan of a smartphone is only three years](https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html)
 * [2023-10-14, 02:29:12](https://news.ycombinator.com/item?id=37877618) - [2023 Solar Eclipse – Oct 14](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/)
 * [2023-10-14, 02:17:41](https://news.ycombinator.com/item?id=37877568) - [ChatGPT histories got leaked, again](https://old.reddit.com/r/ChatGPT/comments/1777ob0/my_history_tab_is_being_populated_with_hundreds/)
 * [2023-10-14, 02:06:33](https://news.ycombinator.com/item?id=37877528) - [Washington's cryptocurrency lobby is scrambling to contain their \"Hamas problem\"](https://www.politico.com/news/2023/10/13/israel-hamas-war-crypto-elizabeth-warren-00121368)
+* [2023-10-14, 01:54:53](https://news.ycombinator.com/item?id=37877470) - [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
 * [2023-10-14, 01:45:00](https://news.ycombinator.com/item?id=37877421) - [What Happens When Tony Hsieh Dies with $1B, with No Estate Planning](https://www.williamhalaw.com/post/1/)
 * [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 * [2023-10-14, 00:46:59](https://news.ycombinator.com/item?id=37877125) - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)

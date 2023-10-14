@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-14, 03:48:09](https://news.ycombinator.com/item?id=37877918) - [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
+* [2023-10-14, 04:29:34](https://news.ycombinator.com/item?id=37878077) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-14, 03:02:59](https://news.ycombinator.com/item?id=37877751) - [Why the average lifespan of a smartphone is only three years](https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html)
-* [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
+* [2023-10-14, 01:54:53](https://news.ycombinator.com/item?id=37877470) - [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
 * [2023-10-14, 00:46:59](https://news.ycombinator.com/item?id=37877125) - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 * [2023-10-14, 00:19:37](https://news.ycombinator.com/item?id=37876988) - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 * [2023-10-13, 21:00:38](https://news.ycombinator.com/item?id=37875574) - [Kodable (YC IK12) is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
@@ -16,7 +16,7 @@
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: Generate interactive API documentations from Swagger files](https://github.com/scalar/scalar)
-* [2023-10-13, 11:10:16](https://news.ycombinator.com/item?id=37869269) - [Overlooked Reasons to Still Buy Physical Media](https://brainbaking.com/post/2023/09/overlooked-reasons-to-still-buy-physical-media/)
+* [2023-10-13, 11:10:16](https://news.ycombinator.com/item?id=37869269) - [Overlooked reasons to still buy physical media](https://brainbaking.com/post/2023/09/overlooked-reasons-to-still-buy-physical-media/)
 * [2023-10-13, 10:52:38](https://news.ycombinator.com/item?id=37869144) - [Word Warriors' \"Words that deserve wider use\"](https://wordwarriors.wayne.edu/list)
 * [2023-10-13, 10:28:43](https://news.ycombinator.com/item?id=37869012) - [The Quest to Recreate a Lost and 'Terrifying' Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
 * [2023-10-13, 09:15:37](https://news.ycombinator.com/item?id=37868524) - [Protocol Analysis and Libusb Linux Driver for the Uni-T UT61B Multimeter (2014)](https://lukasschwarz.de/ut61b)
@@ -29,7 +29,7 @@
 * [2023-10-11, 11:03:13](https://news.ycombinator.com/item?id=37842993) - [In Search of Writers' Haunts](https://themillions.com/2023/10/in-search-of-writers-haunts-bruce-chatwin.html)
 * [2023-10-11, 10:49:16](https://news.ycombinator.com/item?id=37842914) - [Making GRID's spreadsheet engine 10% faster](https://alexharri.com/blog/grid-engine-performance)
 * [2023-10-11, 08:14:27](https://news.ycombinator.com/item?id=37842100) - [Intel Launches Arc A580: A $179 Graphics Card for 1080p Gaming](https://www.anandtech.com/show/21090/intel-launches-arc-a580-a-179-graphics-card-for-1080p-gaming)
-* [2023-10-11, 07:27:07](https://news.ycombinator.com/item?id=37841865) - [Underwater Chainsaws](https://www.stanleyinfrastructure.com/products/underwater-chain-saws)
+* [2023-10-11, 07:27:07](https://news.ycombinator.com/item?id=37841865) - [Underwater Chain Saws](https://www.stanleyinfrastructure.com/products/underwater-chain-saws)
 
 ## [Archives](archives/index.md)
 
