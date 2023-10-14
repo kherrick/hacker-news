@@ -8,6 +8,8 @@
 * [2023-10-14, 12:23:20](https://news.ycombinator.com/item?id=37879925) - [Blue checks aren't protecting sex workers from X's porn crackdown](https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/)
 * [2023-10-14, 12:16:02](https://news.ycombinator.com/item?id=37879893) - [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
 * [2023-10-14, 12:00:42](https://news.ycombinator.com/item?id=37879828) - [Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
+* [2023-10-14, 11:37:28](https://news.ycombinator.com/item?id=37879723) - [Petition against EU chat control](https://stopscanningme.eu/en/index.html)
+* [2023-10-14, 11:34:58](https://news.ycombinator.com/item?id=37879715) - [Kalman Filter Tutorial: Kalman Filter from the Ground Up](https://www.kalmanfilter.net/default.aspx)
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
 * [2023-10-14, 11:25:56](https://news.ycombinator.com/item?id=37879676) - [Walmart customers getting hostile at self-checkout – they blame anti-theft tech](https://www.businessinsider.com/walmarts-anti-theft-technology-is-effective-but-involves-confronting-customers-2023-10)
 * [2023-10-14, 10:50:41](https://news.ycombinator.com/item?id=37879511) - [The Razor Edge Book of Sharpening [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
