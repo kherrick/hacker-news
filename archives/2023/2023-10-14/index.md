@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 21:01:07](https://news.ycombinator.com/item?id=37884240) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-10-14, 19:15:56](https://news.ycombinator.com/item?id=37883351) - [Ask HN: For those trying to hire how hard is it to find people currently?](https://news.ycombinator.com/item?id=37883351)
 * [2023-10-14, 19:01:46](https://news.ycombinator.com/item?id=37883228) - [YouTube is cracking down on consumers' favorite loophole](https://www.thestreet.com/technology/youtube-is-cracking-down-on-consumers-favorite-loophole)
 * [2023-10-14, 18:40:33](https://news.ycombinator.com/item?id=37883056) - [Microsoft Acquires Activision Blizzard for $69.7B](https://www.bbc.com/news/business-67080391)
