@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 14:57:30](https://news.ycombinator.com/item?id=37880954) - [Mango Mail – an unlimited email host](https://mymangomail.com/)
+* [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
 * [2023-10-14, 14:20:09](https://news.ycombinator.com/item?id=37880656) - [Antarctica: Ice shelves shrinking 'with no sign of recovery](https://www.dw.com/en/antarctica-ice-shelves-shrinking-with-no-sign-of-recovery/a-67084109)
 * [2023-10-14, 14:16:46](https://news.ycombinator.com/item?id=37880635) - [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
@@ -16,7 +18,6 @@
 * [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 * [2023-10-14, 09:34:03](https://news.ycombinator.com/item?id=37879216) - [PostgresJs: Fast, full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 * [2023-10-14, 09:02:23](https://news.ycombinator.com/item?id=37879077) - [ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
-* [2023-10-14, 08:44:16](https://news.ycombinator.com/item?id=37879027) - [Fcron Is the Best Cron](https://dbohdan.com/fcron)
 * [2023-10-14, 06:40:05](https://news.ycombinator.com/item?id=37878558) - [The average persons metabolism doesn't decline until 60](https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course)
 * [2023-10-14, 06:34:52](https://news.ycombinator.com/item?id=37878532) - [Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80](https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html)
 * [2023-10-14, 04:43:58](https://news.ycombinator.com/item?id=37878145) - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
@@ -29,7 +30,6 @@
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles’ collaborative notes: Three ways to write a song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
 * [2023-10-13, 10:48:54](https://news.ycombinator.com/item?id=37869119) - [Kenichi Shinohara's pixel art Ukiyo-e (1987)](https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/)
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [Trek, a Classic Game for DOS](https://www.michaelburns.net/Software/Trek/)
-* [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)
 

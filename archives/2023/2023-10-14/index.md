@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 14:57:30](https://news.ycombinator.com/item?id=37880954) - [Mango Mail – an unlimited email host](https://mymangomail.com/)
+* [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
 * [2023-10-14, 14:20:09](https://news.ycombinator.com/item?id=37880656) - [Antarctica: Ice shelves shrinking 'with no sign of recovery](https://www.dw.com/en/antarctica-ice-shelves-shrinking-with-no-sign-of-recovery/a-67084109)
 * [2023-10-14, 14:16:46](https://news.ycombinator.com/item?id=37880635) - [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
