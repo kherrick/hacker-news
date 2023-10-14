@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 19:01:46](https://news.ycombinator.com/item?id=37883228) - [YouTube is cracking down on consumers' favorite loophole](https://www.thestreet.com/technology/youtube-is-cracking-down-on-consumers-favorite-loophole)
+* [2023-10-14, 17:53:07](https://news.ycombinator.com/item?id=37882622) - [Comcast deploys 2 Gbps symmetrical internet speeds via decades-old coaxial cable](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
 * [2023-10-14, 17:51:40](https://news.ycombinator.com/item?id=37882607) - [Ask HN: How did you escape homelessness?](https://news.ycombinator.com/item?id=37882607)
 * [2023-10-14, 17:46:50](https://news.ycombinator.com/item?id=37882569) - [AI Images Detectors Are Being Used to Discredit the Real Horrors of War](https://www.404media.co/ai-images-detectors-are-being-used-to-discredit-the-real-horrors-of-war/)
 * [2023-10-14, 17:32:45](https://news.ycombinator.com/item?id=37882454) - [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)

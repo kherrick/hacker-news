@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-14, 17:46:50](https://news.ycombinator.com/item?id=37882569) - [AI Images Detectors Are Being Used to Discredit the Real Horrors of War](https://www.404media.co/ai-images-detectors-are-being-used-to-discredit-the-real-horrors-of-war/)
+* [2023-10-14, 19:01:46](https://news.ycombinator.com/item?id=37883228) - [YouTube is cracking down on consumers' favorite loophole](https://www.thestreet.com/technology/youtube-is-cracking-down-on-consumers-favorite-loophole)
+* [2023-10-14, 17:53:07](https://news.ycombinator.com/item?id=37882622) - [Comcast deploys 2 Gbps symmetrical internet speeds via decades-old coaxial cable](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
 * [2023-10-14, 17:02:09](https://news.ycombinator.com/item?id=37882177) - [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 * [2023-10-14, 17:01:04](https://news.ycombinator.com/item?id=37882167) - [Great Question (YC W21) Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
-* [2023-10-14, 16:43:55](https://news.ycombinator.com/item?id=37881998) - [Ferrari to accept crypto as payment for its cars in the US](https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/)
 * [2023-10-14, 16:22:30](https://news.ycombinator.com/item?id=37881767) - [Germany's terrible trains are no joke for a nation built on efficiency](https://www.theguardian.com/business/2023/oct/14/its-the-same-daily-misery-germanys-terrible-trains-are-no-joke-for-a-nation-built-on-efficiency)
 * [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
 * [2023-10-14, 16:12:40](https://news.ycombinator.com/item?id=37881656) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
@@ -12,7 +12,6 @@
 * [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://grumpy.website/1389)
 * [2023-10-14, 14:25:15](https://news.ycombinator.com/item?id=37880690) - [Ask HN: How to be a manager? Any good sources for learning how to delegate?](https://news.ycombinator.com/item?id=37880690)
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
-* [2023-10-14, 14:20:09](https://news.ycombinator.com/item?id=37880656) - [Antarctica: Ice shelves shrinking 'with no sign of recovery](https://www.dw.com/en/antarctica-ice-shelves-shrinking-with-no-sign-of-recovery/a-67084109)
 * [2023-10-14, 14:16:46](https://news.ycombinator.com/item?id=37880635) - [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
 * [2023-10-14, 13:16:17](https://news.ycombinator.com/item?id=37880236) - [Cottage Computer Programming (2003?)](https://www.atariarchives.org/deli/cottage_computer_programming.php)
 * [2023-10-14, 12:42:05](https://news.ycombinator.com/item?id=37880033) - [Snowden Archive – documents leaked by Snowden](https://github.com/iamcryptoki/snowden-archive)
@@ -28,6 +27,7 @@
 * [2023-10-14, 04:29:34](https://news.ycombinator.com/item?id=37878077) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles’ collaborative notes: Three ways to write a song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
+* [2023-10-13, 10:52:38](https://news.ycombinator.com/item?id=37869144) - [Words that deserve wider use](https://wordwarriors.wayne.edu/list)
 * [2023-10-13, 10:48:54](https://news.ycombinator.com/item?id=37869119) - [Kenichi Shinohara's pixel art Ukiyo-e (1987)](https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/)
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [The Classic Super Star Trek Game](https://www.michaelburns.net/Software/Trek/)
 
