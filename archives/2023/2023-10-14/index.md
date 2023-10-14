@@ -6,6 +6,7 @@
 
 * [2023-10-14, 23:09:31](https://news.ycombinator.com/item?id=37885116) - [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
 * [2023-10-14, 22:25:12](https://news.ycombinator.com/item?id=37884804) - [The Existential Risk of AGI](https://joscha.substack.com/p/the-existential-risk-of-agi)
+* [2023-10-14, 22:16:47](https://news.ycombinator.com/item?id=37884749) - [The Scientist and the Warplane That Became Britain's Most Unlikely Airliner](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
 * [2023-10-14, 22:06:20](https://news.ycombinator.com/item?id=37884683) - [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
 * [2023-10-14, 21:52:48](https://news.ycombinator.com/item?id=37884585) - [Firefox accounts renamed Mozilla accounts](https://support.mozilla.org/en-US/kb/firefox-accounts-renamed-mozilla-accounts)
 * [2023-10-14, 21:42:31](https://news.ycombinator.com/item?id=37884514) - [Being Poor vs. Feeling Poor](https://moretothat.com/being-poor-vs-feeling-poor/)
