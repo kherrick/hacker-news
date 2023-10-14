@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 17:02:09](https://news.ycombinator.com/item?id=37882177) - [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 * [2023-10-14, 17:01:04](https://news.ycombinator.com/item?id=37882167) - [Great Question (YC W21) Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
 * [2023-10-14, 16:43:55](https://news.ycombinator.com/item?id=37881998) - [Ferrari to accept crypto as payment for its cars in the US](https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/)
 * [2023-10-14, 16:35:38](https://news.ycombinator.com/item?id=37881907) - [Bitcoin stolen from FTX being converted to cash via \"mixer\"](https://www.bbc.com/news/technology-67090501)
@@ -28,7 +29,6 @@
 * [2023-10-14, 02:26:40](https://news.ycombinator.com/item?id=37877605) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles’ collaborative notes: Three ways to write a song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
-* [2023-10-13, 10:48:54](https://news.ycombinator.com/item?id=37869119) - [Kenichi Shinohara's pixel art Ukiyo-e (1987)](https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/)
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [Trek, a Classic Game for DOS](https://www.michaelburns.net/Software/Trek/)
 
 ## [Archives](archives/index.md)

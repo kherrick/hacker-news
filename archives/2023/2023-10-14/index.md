@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 17:02:09](https://news.ycombinator.com/item?id=37882177) - [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 * [2023-10-14, 17:01:04](https://news.ycombinator.com/item?id=37882167) - [Great Question (YC W21) Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
 * [2023-10-14, 16:43:55](https://news.ycombinator.com/item?id=37881998) - [Ferrari to accept crypto as payment for its cars in the US](https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/)
 * [2023-10-14, 16:37:44](https://news.ycombinator.com/item?id=37881928) - [3D-Printed Medical Equipment Makers Struggle to Save Lives in Gaza Under Siege](https://www.vice.com/en/article/3ak7gj/makers-of-3d-printed-medical-equipment-struggle-to-save-lives-in-gaza-under-siege)
