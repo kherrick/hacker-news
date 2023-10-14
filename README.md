@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 19:15:56](https://news.ycombinator.com/item?id=37883351) - [Ask HN: For those trying to hire how hard is it to find people currently?](https://news.ycombinator.com/item?id=37883351)
 * [2023-10-14, 17:53:07](https://news.ycombinator.com/item?id=37882622) - [Comcast deploys 2 Gbps symmetrical internet speeds via decades-old coaxial cable](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
 * [2023-10-14, 17:02:09](https://news.ycombinator.com/item?id=37882177) - [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 * [2023-10-14, 17:01:04](https://news.ycombinator.com/item?id=37882167) - [Great Question (YC W21) Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
@@ -14,7 +15,6 @@
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
 * [2023-10-14, 14:16:46](https://news.ycombinator.com/item?id=37880635) - [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
 * [2023-10-14, 13:16:17](https://news.ycombinator.com/item?id=37880236) - [Cottage Computer Programming (2003?)](https://www.atariarchives.org/deli/cottage_computer_programming.php)
-* [2023-10-14, 12:42:05](https://news.ycombinator.com/item?id=37880033) - [Snowden Archive – documents leaked by Snowden](https://github.com/iamcryptoki/snowden-archive)
 * [2023-10-14, 12:25:35](https://news.ycombinator.com/item?id=37879935) - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
 * [2023-10-14, 11:34:58](https://news.ycombinator.com/item?id=37879715) - [Kalman filter from the ground up](https://www.kalmanfilter.net/default.aspx)
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Linux Performance](https://www.brendangregg.com/linuxperf.html)
