@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 17:51:40](https://news.ycombinator.com/item?id=37882607) - [Ask HN: How did you escape homelessness?](https://news.ycombinator.com/item?id=37882607)
 * [2023-10-14, 17:46:50](https://news.ycombinator.com/item?id=37882569) - [AI Images Detectors Are Being Used to Discredit the Real Horrors of War](https://www.404media.co/ai-images-detectors-are-being-used-to-discredit-the-real-horrors-of-war/)
 * [2023-10-14, 17:02:09](https://news.ycombinator.com/item?id=37882177) - [Raymond Chen – What happened to the source code for The AppleSoft Compiler? [video]](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 * [2023-10-14, 17:01:04](https://news.ycombinator.com/item?id=37882167) - [Great Question (YC W21) Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
