@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
+* [2023-10-14, 16:02:21](https://news.ycombinator.com/item?id=37881562) - [Paper posits ultradense asteroid 33 Polyhymnia has transuranic elements](https://www.popularmechanics.com/space/solar-system/a45522962/new-element-asteroid/)
 * [2023-10-14, 15:09:10](https://news.ycombinator.com/item?id=37881072) - [What SWE job hunting is like right now](https://news.ycombinator.com/item?id=37881072)
+* [2023-10-14, 14:56:33](https://news.ycombinator.com/item?id=37880942) - [Humid Heat Can Kill Us Much Faster Than We Thought](https://nautil.us/humid-heat-can-kill-us-much-faster-than-we-thought-415997/)
 * [2023-10-14, 14:43:01](https://news.ycombinator.com/item?id=37880838) - [Apple's new video reactions are making therapy awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
 * [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
@@ -16,8 +19,6 @@
 * [2023-10-14, 11:34:58](https://news.ycombinator.com/item?id=37879715) - [Kalman Filter Tutorial: Kalman Filter from the Ground Up](https://www.kalmanfilter.net/default.aspx)
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
 * [2023-10-14, 10:50:41](https://news.ycombinator.com/item?id=37879511) - [The Razor Edge Book of Sharpening (1985) [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
-* [2023-10-14, 09:55:54](https://news.ycombinator.com/item?id=37879296) - [The science of road ecology, or how roadways affect plants and animal life](https://undark.org/2023/10/13/book-review-crossings/)
-* [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 * [2023-10-14, 09:34:03](https://news.ycombinator.com/item?id=37879216) - [PostgresJs: Fast, full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 * [2023-10-14, 09:02:23](https://news.ycombinator.com/item?id=37879077) - [ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 * [2023-10-14, 06:40:05](https://news.ycombinator.com/item?id=37878558) - [The average persons metabolism doesn't decline until 60](https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course)
@@ -29,7 +30,6 @@
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles’ collaborative notes: Three ways to write a song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
 * [2023-10-13, 10:48:54](https://news.ycombinator.com/item?id=37869119) - [Kenichi Shinohara's pixel art Ukiyo-e (1987)](https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/)
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [Trek, a Classic Game for DOS](https://www.michaelburns.net/Software/Trek/)
-* [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)
 

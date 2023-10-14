@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
+* [2023-10-14, 16:02:21](https://news.ycombinator.com/item?id=37881562) - [Paper posits ultradense asteroid 33 Polyhymnia has transuranic elements](https://www.popularmechanics.com/space/solar-system/a45522962/new-element-asteroid/)
 * [2023-10-14, 15:09:10](https://news.ycombinator.com/item?id=37881072) - [What SWE job hunting is like right now](https://news.ycombinator.com/item?id=37881072)
 * [2023-10-14, 14:57:30](https://news.ycombinator.com/item?id=37880954) - [Mango Mail – an unlimited email host](https://mymangomail.com/)
+* [2023-10-14, 14:56:33](https://news.ycombinator.com/item?id=37880942) - [Humid Heat Can Kill Us Much Faster Than We Thought](https://nautil.us/humid-heat-can-kill-us-much-faster-than-we-thought-415997/)
 * [2023-10-14, 14:43:01](https://news.ycombinator.com/item?id=37880838) - [Apple's new video reactions are making therapy awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
 * [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
