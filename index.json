@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-14, 17:01:04",
+      "https://news.ycombinator.com/item?id=37882167"
+    ],
+    [
+      "Great Question (YC W21) Is Hiring Senior Account Executives",
+      "https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 16:35:38",
       "https://news.ycombinator.com/item?id=37881907"
     ],
@@ -27,6 +37,16 @@
     [
       "Examining the silicon dies of the Intel 386 processor",
       "http://www.righto.com/2023/10/intel-386-die-versions.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 16:08:31",
+      "https://news.ycombinator.com/item?id=37881621"
+    ],
+    [
+      "Google blocked Pixel 8 reviewers and owners from benchmarking the Tensor G3 chip",
+      "https://www.notebookcheck.net/Google-blocked-Pixel-8-Pixel-8-Pro-reviewers-from-using-popular-benchmarks-to-test-the-Tensor-G3-chip-new-owners-too.759260.0.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-10-14, 12:00:42",
-      "https://news.ycombinator.com/item?id=37879828"
-    ],
-    [
-      "Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC",
-      "https://www.ycombinator.com/companies/zoltar-labs/jobs"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 11:37:28",
       "https://news.ycombinator.com/item?id=37879723"
     ],
@@ -247,16 +257,6 @@
     [
       "Gsplat: CUDA accelerated rasterization of gaussians with Python bindings",
       "https://docs.gsplat.studio/"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 04:29:34",
-      "https://news.ycombinator.com/item?id=37878077"
-    ],
-    [
-      "OpenBSD PF-based firewalls suffer differently from denial of service attacks",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS"
     ]
   ],
   [
