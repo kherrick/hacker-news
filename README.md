@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 09:55:54](https://news.ycombinator.com/item?id=37879296) - [Book Review: How Our Roads Have Become an Invasive Species](https://undark.org/2023/10/13/book-review-crossings/)
 * [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 * [2023-10-14, 09:34:03](https://news.ycombinator.com/item?id=37879216) - [PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 * [2023-10-14, 09:28:51](https://news.ycombinator.com/item?id=37879197) - [The UK's Association to Horizon Europe and Copernicus](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373)
@@ -15,7 +16,6 @@
 * [2023-10-13, 20:57:35](https://news.ycombinator.com/item?id=37875542) - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
 * [2023-10-13, 20:41:16](https://news.ycombinator.com/item?id=37875396) - [Extinct goat was cold-blooded (2009)](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
 * [2023-10-13, 19:58:32](https://news.ycombinator.com/item?id=37874891) - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
-* [2023-10-13, 18:19:38](https://news.ycombinator.com/item?id=37873749) - [iSponsorBlockTV v2: SponsorBlock for TVs and game consoles](https://github.com/dmunozv04/iSponsorBlockTV)
 * [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles' Collaborative Notes: 3 Ways to Write a Song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
 * [2023-10-13, 10:52:38](https://news.ycombinator.com/item?id=37869144) - [Words that deserve wider use](https://wordwarriors.wayne.edu/list)
