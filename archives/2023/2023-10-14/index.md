@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
 * [2023-10-14, 07:00:17](https://news.ycombinator.com/item?id=37878633) - [Meticulous (YC S21) Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
+* [2023-10-14, 05:33:53](https://news.ycombinator.com/item?id=37878312) - [Why I Eat Old Cheese (and Why You Should Too) (2020)](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
 * [2023-10-14, 05:03:43](https://news.ycombinator.com/item?id=37878218) - [Israel Deploys Semi-Autonomous Machine Gun Robot to Gaza Border (2021)](https://www.thedefensepost.com/2021/07/01/israel-machine-gun-robot-gaza-border/)
 * [2023-10-14, 04:47:45](https://news.ycombinator.com/item?id=37878154) - [Traditionally Horny](https://danbaltic.substack.com/p/traditionally-horny)
 * [2023-10-14, 04:43:58](https://news.ycombinator.com/item?id=37878145) - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
