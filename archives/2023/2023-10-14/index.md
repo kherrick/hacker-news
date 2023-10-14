@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 07:00:17](https://news.ycombinator.com/item?id=37878633) - [Meticulous (YC S21) Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
 * [2023-10-14, 05:03:43](https://news.ycombinator.com/item?id=37878218) - [Israel Deploys Semi-Autonomous Machine Gun Robot to Gaza Border (2021)](https://www.thedefensepost.com/2021/07/01/israel-machine-gun-robot-gaza-border/)
 * [2023-10-14, 04:47:45](https://news.ycombinator.com/item?id=37878154) - [Traditionally Horny](https://danbaltic.substack.com/p/traditionally-horny)
+* [2023-10-14, 04:43:58](https://news.ycombinator.com/item?id=37878145) - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
 * [2023-10-14, 04:29:34](https://news.ycombinator.com/item?id=37878077) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-14, 03:48:09](https://news.ycombinator.com/item?id=37877918) - [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
 * [2023-10-14, 03:02:59](https://news.ycombinator.com/item?id=37877751) - [Why the average lifespan of a smartphone is only three years](https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html)

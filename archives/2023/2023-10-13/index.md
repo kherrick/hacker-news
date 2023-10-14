@@ -68,6 +68,7 @@
 * [2023-10-13, 11:10:16](https://news.ycombinator.com/item?id=37869269) - [Overlooked Reasons to Still Buy Physical Media](https://brainbaking.com/post/2023/09/overlooked-reasons-to-still-buy-physical-media/)
 * [2023-10-13, 11:02:55](https://news.ycombinator.com/item?id=37869220) - [What I wish I knew when I got my ASN](https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/)
 * [2023-10-13, 10:52:38](https://news.ycombinator.com/item?id=37869144) - [Word Warriors' \"Words that deserve wider use\"](https://wordwarriors.wayne.edu/list)
+* [2023-10-13, 10:48:54](https://news.ycombinator.com/item?id=37869119) - [Kenichi Shinohara's pixel art Ukiyo-e (1987)](https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/)
 * [2023-10-13, 10:28:43](https://news.ycombinator.com/item?id=37869012) - [The Quest to Recreate a Lost and 'Terrifying' Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
 * [2023-10-13, 10:08:00](https://news.ycombinator.com/item?id=37868887) - [The soloists and populars of the software world](https://mihaiolteanu.me/soloists-and-populars)
 * [2023-10-13, 09:56:31](https://news.ycombinator.com/item?id=37868792) - [New brain atlases will unlock mysteries of the human mind](https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463)
