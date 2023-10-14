@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-14, 03:48:09](https://news.ycombinator.com/item?id=37877918) - [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
-* [2023-10-14, 03:02:59](https://news.ycombinator.com/item?id=37877751) - [Why the average lifespan of a smartphone is only three years](https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html)
 * [2023-10-14, 02:29:12](https://news.ycombinator.com/item?id=37877618) - [2023 Solar Eclipse – Oct 14](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/)
 * [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 * [2023-10-14, 00:46:59](https://news.ycombinator.com/item?id=37877125) - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
@@ -17,6 +16,7 @@
 * [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: Generate interactive API documentations from Swagger files](https://github.com/scalar/scalar)
+* [2023-10-13, 15:12:24](https://news.ycombinator.com/item?id=37871534) - [Would we still create Nebula today?](https://www.defined.net/blog/would-we-still-create-nebula-today/)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
 * [2023-10-13, 12:58:50](https://news.ycombinator.com/item?id=37870061) - [The MP3mobile (1998)](http://utter.chaos.org.uk/~altman/mp3mobile/)
 * [2023-10-13, 11:10:16](https://news.ycombinator.com/item?id=37869269) - [Overlooked Reasons to Still Buy Physical Media](https://brainbaking.com/post/2023/09/overlooked-reasons-to-still-buy-physical-media/)
