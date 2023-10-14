@@ -17,7 +17,6 @@
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
 * [2023-10-14, 14:16:46](https://news.ycombinator.com/item?id=37880635) - [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
 * [2023-10-14, 13:16:17](https://news.ycombinator.com/item?id=37880236) - [Cottage Computer Programming (2003?)](https://www.atariarchives.org/deli/cottage_computer_programming.php)
-* [2023-10-14, 12:42:05](https://news.ycombinator.com/item?id=37880033) - [Snowden Archive – documents leaked by Snowden](https://github.com/iamcryptoki/snowden-archive)
 * [2023-10-14, 12:25:35](https://news.ycombinator.com/item?id=37879935) - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
 * [2023-10-14, 11:34:58](https://news.ycombinator.com/item?id=37879715) - [Kalman filter from the ground up](https://www.kalmanfilter.net/default.aspx)
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Linux Performance](https://www.brendangregg.com/linuxperf.html)
@@ -29,6 +28,7 @@
 * [2023-10-14, 06:40:05](https://news.ycombinator.com/item?id=37878558) - [Daily energy expenditure through the human life course](https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course)
 * [2023-10-14, 06:34:52](https://news.ycombinator.com/item?id=37878532) - [Louise Glück has died](https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
+* [2023-10-12, 22:21:10](https://news.ycombinator.com/item?id=37863928) - [Websites of 2000 [video]](https://www.bbc.co.uk/archive/topwebsites/zdpf46f)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)
