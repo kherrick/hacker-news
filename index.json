@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-14, 12:23:20",
-      "https://news.ycombinator.com/item?id=37879925"
-    ],
-    [
-      "Blue checks aren't protecting sex workers from X's porn crackdown",
-      "https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 12:00:42",
       "https://news.ycombinator.com/item?id=37879828"
     ],
@@ -77,16 +67,6 @@
     [
       "PostgresJs: Fast, full featured PostgreSQL client for Node.js and Deno",
       "https://github.com/porsager/postgres"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 09:28:51",
-      "https://news.ycombinator.com/item?id=37879197"
-    ],
-    [
-      "The UK's Association to Horizon Europe and Copernicus",
-      "https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373"
     ]
   ],
   [
@@ -191,22 +171,22 @@
   ],
   [
     [
-      "2023-10-13, 20:57:35",
-      "https://news.ycombinator.com/item?id=37875542"
-    ],
-    [
-      "Playing Pokemon Red with Reinforcement Learning",
-      "https://github.com/PWhiddy/PokemonRedExperiments"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 20:41:16",
       "https://news.ycombinator.com/item?id=37875396"
     ],
     [
       "Extinct goat was cold-blooded (2009)",
       "https://phys.org/news/2009-11-extinct-goat-cold-blooded.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 19:58:32",
+      "https://news.ycombinator.com/item?id=37874891"
+    ],
+    [
+      "TimeGPT-1",
+      "https://arxiv.org/abs/2310.03589"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2023-10-13, 06:30:32",
+      "https://news.ycombinator.com/item?id=37867421"
+    ],
+    [
+      "Questions about synthetic control methods in causal inference",
+      "https://statmodeling.stat.columbia.edu/2023/10/12/debate-over-effect-of-reduced-prosecutions-on-urban-homicides-also-larger-questions-about-synthetic-control-methods-in-causal-inference/"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 06:29:37",
       "https://news.ycombinator.com/item?id=37867411"
     ],
     [
       "Trek, a Classic Game for DOS",
       "https://www.michaelburns.net/Software/Trek/"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 06:08:50",
+      "https://news.ycombinator.com/item?id=37867272"
+    ],
+    [
+      "MathJax: Beautiful and accessible math in all browsers",
+      "https://www.mathjax.org/"
     ]
   ],
   [
