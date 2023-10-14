@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-14, 14:57:30](https://news.ycombinator.com/item?id=37880954) - [Mango Mail – an unlimited email host](https://mymangomail.com/)
 * [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
 * [2023-10-14, 14:21:38](https://news.ycombinator.com/item?id=37880667) - [The Banality of Genius: Notes on Peter Jackson's Get Back (2022)](https://www.ian-leslie.com/p/the-banality-of-genius-notes-on-peter)
 * [2023-10-14, 14:20:09](https://news.ycombinator.com/item?id=37880656) - [Antarctica: Ice shelves shrinking 'with no sign of recovery](https://www.dw.com/en/antarctica-ice-shelves-shrinking-with-no-sign-of-recovery/a-67084109)
 * [2023-10-14, 14:16:46](https://news.ycombinator.com/item?id=37880635) - [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
-* [2023-10-14, 14:06:15](https://news.ycombinator.com/item?id=37880564) - [California Allows Cities to Catch Speeding Drivers with Automated Cameras](https://www.nytimes.com/2023/10/13/us/california-speed-cameras.html)
 * [2023-10-14, 13:16:17](https://news.ycombinator.com/item?id=37880236) - [Cottage Computer Programming (2003?)](https://www.atariarchives.org/deli/cottage_computer_programming.php)
 * [2023-10-14, 12:25:35](https://news.ycombinator.com/item?id=37879935) - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
 * [2023-10-14, 12:16:02](https://news.ycombinator.com/item?id=37879893) - [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
@@ -27,9 +25,11 @@
 * [2023-10-14, 00:19:37](https://news.ycombinator.com/item?id=37876988) - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 * [2023-10-14, 00:02:56](https://news.ycombinator.com/item?id=37876896) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
+* [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles’ collaborative notes: Three ways to write a song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
 * [2023-10-13, 10:48:54](https://news.ycombinator.com/item?id=37869119) - [Kenichi Shinohara's pixel art Ukiyo-e (1987)](https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/)
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [Trek, a Classic Game for DOS](https://www.michaelburns.net/Software/Trek/)
+* [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)
 
