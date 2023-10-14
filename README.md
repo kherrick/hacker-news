@@ -2,6 +2,7 @@
 
 * [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 * [2023-10-14, 09:28:51](https://news.ycombinator.com/item?id=37879197) - [The UK's Association to Horizon Europe and Copernicus](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373)
+* [2023-10-14, 08:44:16](https://news.ycombinator.com/item?id=37879027) - [Fcron Is the Best Cron](https://dbohdan.com/fcron)
 * [2023-10-14, 07:00:17](https://news.ycombinator.com/item?id=37878633) - [Meticulous (YC S21) Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
 * [2023-10-14, 05:33:53](https://news.ycombinator.com/item?id=37878312) - [Why I Eat Old Cheese (and Why You Should Too) (2020)](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
 * [2023-10-14, 04:43:58](https://news.ycombinator.com/item?id=37878145) - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
@@ -14,7 +15,6 @@
 * [2023-10-13, 20:41:16](https://news.ycombinator.com/item?id=37875396) - [Extinct goat was cold-blooded (2009)](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
 * [2023-10-13, 19:58:32](https://news.ycombinator.com/item?id=37874891) - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
 * [2023-10-13, 19:33:13](https://news.ycombinator.com/item?id=37874587) - [Histotripsy – a technique that harnesses soundwaves to attack cancer](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
-* [2023-10-13, 18:23:46](https://news.ycombinator.com/item?id=37873798) - [Sodium ascorbate treatment for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
 * [2023-10-13, 18:19:38](https://news.ycombinator.com/item?id=37873749) - [iSponsorBlockTV v2: SponsorBlock for TVs and game consoles](https://github.com/dmunozv04/iSponsorBlockTV)
 * [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles' Collaborative Notes: 3 Ways to Write a Song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
