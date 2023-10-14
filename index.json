@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-14, 17:32:45",
-      "https://news.ycombinator.com/item?id=37882454"
-    ],
-    [
-      "Critical Ignoring as a Core Competence for Digital Citizens",
-      "https://journals.sagepub.com/doi/10.1177/09637214221121570"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 17:02:09",
       "https://news.ycombinator.com/item?id=37882177"
     ],
@@ -96,7 +86,7 @@
     ],
     [
       "Anything longer ago than yesterday should just say the actual date",
-      "https://mjtsai.com/blog/2023/10/13/relative-time-labels/"
+      "https://grumpy.website/1389"
     ]
   ],
   [
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37879715"
     ],
     [
-      "Kalman Filter Tutorial: Kalman Filter from the Ground Up",
+      "Kalman filter from the ground up",
       "https://www.kalmanfilter.net/default.aspx"
     ]
   ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=37879706"
     ],
     [
-      "Tuning Linux for Performance (2021)",
+      "Linux Performance",
       "https://www.brendangregg.com/linuxperf.html"
     ]
   ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37879216"
     ],
     [
-      "PostgresJs: Fast, full featured PostgreSQL client for Node.js and Deno",
+      "PostgresJs: PostgreSQL client for Node.js and Deno",
       "https://github.com/porsager/postgres"
     ]
   ],
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37878558"
     ],
     [
-      "The average persons metabolism doesn't decline until 60",
+      "Daily energy expenditure through the human life course",
       "https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=37867411"
     ],
     [
-      "Trek, a Classic Game for DOS",
+      "The Classic Super Star Trek Game",
       "https://www.michaelburns.net/Software/Trek/"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 14:11:18",
+      "https://news.ycombinator.com/item?id=37857417"
+    ],
+    [
+      "First word discovered in unopened Herculaneum scroll by CS student",
+      "https://scrollprize.org/firstletters"
     ]
   ]
 ]
