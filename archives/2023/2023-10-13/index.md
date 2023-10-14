@@ -65,6 +65,7 @@
 * [2023-10-13, 11:23:50](https://news.ycombinator.com/item?id=37869353) - [Bounty to Recover NIST's Elliptic Curve Seeds](https://www.schneier.com/blog/archives/2023/10/bounty-to-recover-nists-elliptic-curve-seeds.html)
 * [2023-10-13, 11:21:51](https://news.ycombinator.com/item?id=37869341) - [The Art of Communication Design](https://medium.com/@mseckington/the-art-of-communication-design-intro-54a822efab34)
 * [2023-10-13, 11:18:04](https://news.ycombinator.com/item?id=37869315) - [Ad blockers are not allowed on YouTube](https://i.imgur.com/AhrLdE9.png)
+* [2023-10-13, 11:10:16](https://news.ycombinator.com/item?id=37869269) - [Overlooked Reasons to Still Buy Physical Media](https://brainbaking.com/post/2023/09/overlooked-reasons-to-still-buy-physical-media/)
 * [2023-10-13, 11:02:55](https://news.ycombinator.com/item?id=37869220) - [What I wish I knew when I got my ASN](https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/)
 * [2023-10-13, 10:28:43](https://news.ycombinator.com/item?id=37869012) - [The Quest to Recreate a Lost and 'Terrifying' Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
 * [2023-10-13, 10:08:00](https://news.ycombinator.com/item?id=37868887) - [The soloists and populars of the software world](https://mihaiolteanu.me/soloists-and-populars)
