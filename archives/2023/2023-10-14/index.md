@@ -28,6 +28,7 @@
 * [2023-10-14, 15:09:10](https://news.ycombinator.com/item?id=37881072) - [What SWE job hunting is like right now](https://news.ycombinator.com/item?id=37881072)
 * [2023-10-14, 14:57:30](https://news.ycombinator.com/item?id=37880954) - [Mango Mail – an unlimited email host](https://mymangomail.com/)
 * [2023-10-14, 14:56:33](https://news.ycombinator.com/item?id=37880942) - [Humid Heat Can Kill Us Much Faster Than We Thought](https://nautil.us/humid-heat-can-kill-us-much-faster-than-we-thought-415997/)
+* [2023-10-14, 14:55:18](https://news.ycombinator.com/item?id=37880931) - [Calorie restriction in humans builds strong muscle and stimulates healthy aging](https://www.nih.gov/news-events/news-releases/calorie-restriction-humans-builds-strong-muscle-stimulates-healthy-aging-genes)
 * [2023-10-14, 14:43:01](https://news.ycombinator.com/item?id=37880838) - [Apple's new video reactions are making therapy awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
 * [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://mjtsai.com/blog/2023/10/13/relative-time-labels/)
 * [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://grumpy.website/1389)
