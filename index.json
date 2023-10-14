@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-14, 12:25:35",
+      "https://news.ycombinator.com/item?id=37879935"
+    ],
+    [
+      "F-Droid version of KDEConnect uninstalled by PlayProtect",
+      "https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 12:23:20",
+      "https://news.ycombinator.com/item?id=37879925"
+    ],
+    [
+      "Blue checks aren't protecting sex workers from X's porn crackdown",
+      "https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 12:00:42",
       "https://news.ycombinator.com/item?id=37879828"
     ],
@@ -17,6 +37,16 @@
     [
       "Tuning Linux for Performance",
       "https://www.brendangregg.com/linuxperf.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 10:50:41",
+      "https://news.ycombinator.com/item?id=37879511"
+    ],
+    [
+      "The Razor Edge Book of Sharpening [pdf]",
+      "https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37879216"
     ],
     [
-      "PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno",
+      "PostgresJs: Fast, full featured PostgreSQL client for Node.js and Deno",
       "https://github.com/porsager/postgres"
     ]
   ],
@@ -87,6 +117,16 @@
     [
       "The average persons metabolism doesn't decline until 60",
       "https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 06:34:52",
+      "https://news.ycombinator.com/item?id=37878532"
+    ],
+    [
+      "Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80",
+      "https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2023-10-13, 19:58:32",
-      "https://news.ycombinator.com/item?id=37874891"
-    ],
-    [
-      "TimeGPT-1",
-      "https://arxiv.org/abs/2310.03589"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 19:18:58",
       "https://news.ycombinator.com/item?id=37874423"
     ],
@@ -205,18 +235,8 @@
       "https://news.ycombinator.com/item?id=37872561"
     ],
     [
-      "The Beatles' Collaborative Notes: 3 Ways to Write a Song",
+      "The Beatles’ collaborative notes: Three ways to write a song",
       "https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 10:52:38",
-      "https://news.ycombinator.com/item?id=37869144"
-    ],
-    [
-      "Words that deserve wider use",
-      "https://wordwarriors.wayne.edu/list"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-10-13, 06:30:32",
-      "https://news.ycombinator.com/item?id=37867421"
-    ],
-    [
-      "Questions about synthetic control methods in causal inference",
-      "https://statmodeling.stat.columbia.edu/2023/10/12/debate-over-effect-of-reduced-prosecutions-on-urban-homicides-also-larger-questions-about-synthetic-control-methods-in-causal-inference/"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 06:29:37",
       "https://news.ycombinator.com/item?id=37867411"
     ],
     [
       "Trek, a Classic Game for DOS",
       "https://www.michaelburns.net/Software/Trek/"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 06:08:50",
-      "https://news.ycombinator.com/item?id=37867272"
-    ],
-    [
-      "MathJax: Beautiful and accessible math in all browsers",
-      "https://www.mathjax.org/"
     ]
   ],
   [
