@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 21:17:15](https://news.ycombinator.com/item?id=37884352) - [Apple's iPhone 15 Pro Max is a disaster:Screen burn-in latest of reported issues](https://www.laptopmag.com/phones/iphone/apples-iphone-15-pro-max-is-a-disaster-screen-burn-in-latest-of-reported-issues)
 * [2023-10-14, 21:01:07](https://news.ycombinator.com/item?id=37884240) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-10-14, 20:53:40](https://news.ycombinator.com/item?id=37884177) - [Widely Accepted Mathematical Results That Were Later Shown to Be Wrong](https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong)
 * [2023-10-14, 20:44:12](https://news.ycombinator.com/item?id=37884102) - [Netflix plans to open brick and mortar locations](https://www.npr.org/2023/10/14/1205971022/netflix-house-brick-and-mortar-locations)
@@ -8,7 +9,6 @@
 * [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
 * [2023-10-14, 16:12:40](https://news.ycombinator.com/item?id=37881656) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 16:07:03](https://news.ycombinator.com/item?id=37881604) - [Mindblowing dissertations](https://ideophone.org/mindblowing-dissertations/)
-* [2023-10-14, 16:02:21](https://news.ycombinator.com/item?id=37881562) - [Paper posits ultradense asteroid 33 Polyhymnia has transuranic elements](https://www.popularmechanics.com/space/solar-system/a45522962/new-element-asteroid/)
 * [2023-10-14, 15:45:17](https://news.ycombinator.com/item?id=37881384) - [Caltrans exec who protested a freeway expansion gets demoted](https://www.latimes.com/california/story/2023-10-13/caltrans-whistleblower-says-demoted-block-freeway-expansion)
 * [2023-10-14, 15:35:21](https://news.ycombinator.com/item?id=37881293) - [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)
 * [2023-10-14, 14:55:18](https://news.ycombinator.com/item?id=37880931) - [Calorie restriction in humans builds strong muscle and stimulates healthy aging](https://www.nih.gov/news-events/news-releases/calorie-restriction-humans-builds-strong-muscle-stimulates-healthy-aging-genes)
@@ -26,7 +26,7 @@
 * [2023-10-14, 09:02:23](https://news.ycombinator.com/item?id=37879077) - [ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 * [2023-10-14, 08:44:16](https://news.ycombinator.com/item?id=37879027) - [Fcron Is the Best Cron](https://dbohdan.com/fcron)
 * [2023-10-14, 06:40:05](https://news.ycombinator.com/item?id=37878558) - [Daily energy expenditure through the human life course](https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course)
-* [2023-10-14, 06:34:52](https://news.ycombinator.com/item?id=37878532) - [Louise Glück, Nobel-winning poet who explored trauma and loss, dies at 80](https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html)
+* [2023-10-14, 06:34:52](https://news.ycombinator.com/item?id=37878532) - [Louise Glück has died](https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles’ collaborative notes: Three ways to write a song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
