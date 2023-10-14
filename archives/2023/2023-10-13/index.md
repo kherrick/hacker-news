@@ -16,6 +16,7 @@
 * [2023-10-13, 19:45:23](https://news.ycombinator.com/item?id=37874715) - ['Dumbphones' make a comeback: 'No one calls me anymore'](https://english.elpais.com/technology/2023-10-11/dumbphones-make-a-comeback-no-one-calls-me-anymore.html)
 * [2023-10-13, 19:34:02](https://news.ycombinator.com/item?id=37874596) - [Equifax scores £11.1M slap on wrist over 2017 mega breach](https://www.theregister.com/2023/10/13/equifax_fca_fine/)
 * [2023-10-13, 19:33:13](https://news.ycombinator.com/item?id=37874587) - [Bubbles Kill Cancer – It's called histotripsy](https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/)
+* [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-13, 19:12:06](https://news.ycombinator.com/item?id=37874345) - [PC shipments decline slows in Q3 2023, but Apple plunges over 23%](https://techcrunch.com/2023/10/10/pc-shipments-decline-slows-in-q3-2023-but-apple-plunges-over-23/)
 * [2023-10-13, 19:02:39](https://news.ycombinator.com/item?id=37874229) - [Tesla workers shared sensitive images recorded by customers' cars: Ex-employees](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
 * [2023-10-13, 19:02:12](https://news.ycombinator.com/item?id=37874220) - [Removal of Mazda Connected Services Integration](https://www.home-assistant.io/blog/2023/10/13/removal-of-mazda-connected-services-integration/)

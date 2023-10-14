@@ -17,6 +17,7 @@
 * [2023-10-13, 20:57:35](https://news.ycombinator.com/item?id=37875542) - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
 * [2023-10-13, 20:41:16](https://news.ycombinator.com/item?id=37875396) - [Extinct goat was cold-blooded (2009)](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
 * [2023-10-13, 19:58:32](https://news.ycombinator.com/item?id=37874891) - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
+* [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles' Collaborative Notes: 3 Ways to Write a Song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
 * [2023-10-13, 10:52:38](https://news.ycombinator.com/item?id=37869144) - [Words that deserve wider use](https://wordwarriors.wayne.edu/list)
@@ -28,7 +29,6 @@
 * [2023-10-13, 01:51:10](https://news.ycombinator.com/item?id=37865610) - [Scientists generate first single-cell atlas of the primate brain](https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 * [2023-10-11, 11:03:13](https://news.ycombinator.com/item?id=37842993) - [In Search of Writers' Haunts](https://themillions.com/2023/10/in-search-of-writers-haunts-bruce-chatwin.html)
-* [2023-10-11, 10:49:16](https://news.ycombinator.com/item?id=37842914) - [Making GRID's spreadsheet engine 10% faster](https://alexharri.com/blog/grid-engine-performance)
 * [2023-10-11, 07:27:07](https://news.ycombinator.com/item?id=37841865) - [Underwater Chain Saws](https://www.stanleyinfrastructure.com/products/underwater-chain-saws)
 
 ## [Archives](archives/index.md)
