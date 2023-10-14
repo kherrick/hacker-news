@@ -92,6 +92,7 @@
 * [2023-10-11, 08:25:55](https://news.ycombinator.com/item?id=37842171) - [Newly discovered Terry Pratchett stories published](https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories)
 * [2023-10-11, 08:23:20](https://news.ycombinator.com/item?id=37842161) - [Twenty-five open-source network emulators and simulators you can use in 2023](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 * [2023-10-11, 08:21:10](https://news.ycombinator.com/item?id=37842137) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
+* [2023-10-11, 08:14:27](https://news.ycombinator.com/item?id=37842100) - [Intel Launches Arc A580: A $179 Graphics Card for 1080p Gaming](https://www.anandtech.com/show/21090/intel-launches-arc-a580-a-179-graphics-card-for-1080p-gaming)
 * [2023-10-11, 08:10:45](https://news.ycombinator.com/item?id=37842075) - [Coordinated Disclosure: 1-Click RCE on Gnome (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-11, 07:58:46](https://news.ycombinator.com/item?id=37842006) - [Ancient Babylonian Algorithms](https://fermatslibrary.com/s/ancient-babylonian-algorithms)
 * [2023-10-11, 07:34:22](https://news.ycombinator.com/item?id=37841891) - [Buildkite has quietly removed their $9 \"Team\" plan](https://buildkite.com/pricing)

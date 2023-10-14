@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-14, 02:17:41](https://news.ycombinator.com/item?id=37877568) - [ChatGPT histories got leaked, again](https://old.reddit.com/r/ChatGPT/comments/1777ob0/my_history_tab_is_being_populated_with_hundreds/)
-* [2023-10-14, 02:06:33](https://news.ycombinator.com/item?id=37877528) - [Washington's cryptocurrency lobby is scrambling to contain their \"Hamas problem\"](https://www.politico.com/news/2023/10/13/israel-hamas-war-crypto-elizabeth-warren-00121368)
 * [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 * [2023-10-14, 00:19:37](https://news.ycombinator.com/item?id=37876988) - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 * [2023-10-13, 21:00:38](https://news.ycombinator.com/item?id=37875574) - [Kodable (YC IK12) is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
@@ -29,6 +28,7 @@
 * [2023-10-13, 01:51:10](https://news.ycombinator.com/item?id=37865610) - [Scientists generate first single-cell atlas of the primate brain](https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 * [2023-10-11, 10:49:16](https://news.ycombinator.com/item?id=37842914) - [Making GRID's spreadsheet engine 10% faster](https://alexharri.com/blog/grid-engine-performance)
+* [2023-10-11, 08:14:27](https://news.ycombinator.com/item?id=37842100) - [Intel Launches Arc A580: A $179 Graphics Card for 1080p Gaming](https://www.anandtech.com/show/21090/intel-launches-arc-a580-a-179-graphics-card-for-1080p-gaming)
 * [2023-10-11, 07:27:07](https://news.ycombinator.com/item?id=37841865) - [Underwater Chainsaws](https://www.stanleyinfrastructure.com/products/underwater-chain-saws)
 
 ## [Archives](archives/index.md)
