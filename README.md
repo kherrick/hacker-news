@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-14, 14:06:15](https://news.ycombinator.com/item?id=37880564) - [California Allows Cities to Catch Speeding Drivers with Automated Cameras](https://www.nytimes.com/2023/10/13/us/california-speed-cameras.html)
+* [2023-10-14, 13:16:17](https://news.ycombinator.com/item?id=37880236) - [Cottage Computer Programming (2003?)](https://www.atariarchives.org/deli/cottage_computer_programming.php)
 * [2023-10-14, 12:25:35](https://news.ycombinator.com/item?id=37879935) - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
 * [2023-10-14, 12:16:02](https://news.ycombinator.com/item?id=37879893) - [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
 * [2023-10-14, 12:00:42](https://news.ycombinator.com/item?id=37879828) - [Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
@@ -29,7 +30,6 @@
 * [2023-10-13, 06:30:32](https://news.ycombinator.com/item?id=37867421) - [Questions about synthetic control methods in causal inference](https://statmodeling.stat.columbia.edu/2023/10/12/debate-over-effect-of-reduced-prosecutions-on-urban-homicides-also-larger-questions-about-synthetic-control-methods-in-causal-inference/)
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [Trek, a Classic Game for DOS](https://www.michaelburns.net/Software/Trek/)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
-* [2023-10-11, 11:03:13](https://news.ycombinator.com/item?id=37842993) - [In Search of Writers' Haunts](https://themillions.com/2023/10/in-search-of-writers-haunts-bruce-chatwin.html)
 
 ## [Archives](archives/index.md)
 
