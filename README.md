@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 02:06:33](https://news.ycombinator.com/item?id=37877528) - [Washington's cryptocurrency lobby is scrambling to contain their \"Hamas problem\"](https://www.politico.com/news/2023/10/13/israel-hamas-war-crypto-elizabeth-warren-00121368)
+* [2023-10-14, 01:45:00](https://news.ycombinator.com/item?id=37877421) - [What Happens When Tony Hsieh Dies with $1B, with No Estate Planning](https://www.williamhalaw.com/post/1/)
 * [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 * [2023-10-14, 00:19:37](https://news.ycombinator.com/item?id=37876988) - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 * [2023-10-13, 21:00:38](https://news.ycombinator.com/item?id=37875574) - [Kodable (YC IK12) is hiring a Unity game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
@@ -15,7 +17,6 @@
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: Generate interactive API documentations from Swagger files](https://github.com/scalar/scalar)
 * [2023-10-13, 15:12:24](https://news.ycombinator.com/item?id=37871534) - [Would we still create Nebula today?](https://www.defined.net/blog/would-we-still-create-nebula-today/)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
-* [2023-10-13, 12:58:50](https://news.ycombinator.com/item?id=37870061) - [The MP3mobile (1998)](http://utter.chaos.org.uk/~altman/mp3mobile/)
 * [2023-10-13, 11:57:40](https://news.ycombinator.com/item?id=37869597) - [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 * [2023-10-13, 11:50:17](https://news.ycombinator.com/item?id=37869534) - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 * [2023-10-13, 11:36:59](https://news.ycombinator.com/item?id=37869445) - [Nature: Programming language to experience the joy of programming](https://nature-lang.org/)
@@ -27,7 +28,6 @@
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth century scientists set out to solve the \"problem of American storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-13, 01:51:10](https://news.ycombinator.com/item?id=37865610) - [Scientists generate first single-cell atlas of the primate brain](https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
-* [2023-10-11, 12:28:21](https://news.ycombinator.com/item?id=37843590) - [Keyboard keys and characters](https://utcc.utoronto.ca/~cks/space/blog/tech/KeysAndCharacters)
 * [2023-10-11, 10:49:16](https://news.ycombinator.com/item?id=37842914) - [Making GRID's spreadsheet engine 10% faster](https://alexharri.com/blog/grid-engine-performance)
 * [2023-10-11, 07:27:07](https://news.ycombinator.com/item?id=37841865) - [Underwater Chainsaws](https://www.stanleyinfrastructure.com/products/underwater-chain-saws)
 
