@@ -6,6 +6,7 @@
 
 * [2023-10-14, 12:25:35](https://news.ycombinator.com/item?id=37879935) - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
 * [2023-10-14, 12:23:20](https://news.ycombinator.com/item?id=37879925) - [Blue checks aren't protecting sex workers from X's porn crackdown](https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/)
+* [2023-10-14, 12:16:02](https://news.ycombinator.com/item?id=37879893) - [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
 * [2023-10-14, 12:00:42](https://news.ycombinator.com/item?id=37879828) - [Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
 * [2023-10-14, 11:25:56](https://news.ycombinator.com/item?id=37879676) - [Walmart customers getting hostile at self-checkout – they blame anti-theft tech](https://www.businessinsider.com/walmarts-anti-theft-technology-is-effective-but-involves-confronting-customers-2023-10)
