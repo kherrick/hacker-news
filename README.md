@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-14, 07:00:17](https://news.ycombinator.com/item?id=37878633) - [Meticulous (YC S21) Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
+* [2023-10-14, 06:48:07](https://news.ycombinator.com/item?id=37878587) - [UK's nuclear fusion site ends experiments after 40 years](https://www.bbc.co.uk/news/science-environment-67101176)
 * [2023-10-14, 05:33:53](https://news.ycombinator.com/item?id=37878312) - [Why I Eat Old Cheese (and Why You Should Too) (2020)](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
 * [2023-10-14, 04:43:58](https://news.ycombinator.com/item?id=37878145) - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
 * [2023-10-14, 04:29:34](https://news.ycombinator.com/item?id=37878077) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
@@ -15,7 +16,6 @@
 * [2023-10-13, 18:23:46](https://news.ycombinator.com/item?id=37873798) - [Sodium ascorbate treatment for sepsis moves to next phase of human trials](https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/)
 * [2023-10-13, 18:19:38](https://news.ycombinator.com/item?id=37873749) - [iSponsorBlockTV v2: SponsorBlock for TVs and game consoles](https://github.com/dmunozv04/iSponsorBlockTV)
 * [2023-10-13, 17:09:22](https://news.ycombinator.com/item?id=37872904) - [Make Your Car Electric for 5K in Less Than a Day](https://www.jamesdysonaward.org/en-AU/2023/project/revr/)
-* [2023-10-13, 17:04:05](https://news.ycombinator.com/item?id=37872850) - [Jesus nut](https://en.wikipedia.org/wiki/Jesus_nut)
 * [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 11:10:16](https://news.ycombinator.com/item?id=37869269) - [Overlooked reasons to still buy physical media](https://brainbaking.com/post/2023/09/overlooked-reasons-to-still-buy-physical-media/)
 * [2023-10-13, 10:52:38](https://news.ycombinator.com/item?id=37869144) - [Words that deserve wider use](https://wordwarriors.wayne.edu/list)
