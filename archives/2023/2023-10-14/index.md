@@ -6,6 +6,7 @@
 
 * [2023-10-14, 19:15:56](https://news.ycombinator.com/item?id=37883351) - [Ask HN: For those trying to hire how hard is it to find people currently?](https://news.ycombinator.com/item?id=37883351)
 * [2023-10-14, 19:01:46](https://news.ycombinator.com/item?id=37883228) - [YouTube is cracking down on consumers' favorite loophole](https://www.thestreet.com/technology/youtube-is-cracking-down-on-consumers-favorite-loophole)
+* [2023-10-14, 18:40:33](https://news.ycombinator.com/item?id=37883056) - [Microsoft Acquires Activision Blizzard for $69.7B](https://www.bbc.com/news/business-67080391)
 * [2023-10-14, 17:53:07](https://news.ycombinator.com/item?id=37882622) - [Comcast deploys 2 Gbps symmetrical internet speeds via decades-old coaxial cable](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
 * [2023-10-14, 17:51:40](https://news.ycombinator.com/item?id=37882607) - [Ask HN: How did you escape homelessness?](https://news.ycombinator.com/item?id=37882607)
 * [2023-10-14, 17:46:50](https://news.ycombinator.com/item?id=37882569) - [AI Images Detectors Are Being Used to Discredit the Real Horrors of War](https://www.404media.co/ai-images-detectors-are-being-used-to-discredit-the-real-horrors-of-war/)
@@ -23,6 +24,7 @@
 * [2023-10-14, 16:02:21](https://news.ycombinator.com/item?id=37881562) - [Paper posits ultradense asteroid 33 Polyhymnia has transuranic elements](https://www.popularmechanics.com/space/solar-system/a45522962/new-element-asteroid/)
 * [2023-10-14, 15:58:54](https://news.ycombinator.com/item?id=37881527) - [Eichmann in Jerusalem, Part I (February 8, 1963)](https://www.newyorker.com/magazine/1963/02/16/eichmann-in-jerusalem-i)
 * [2023-10-14, 15:45:17](https://news.ycombinator.com/item?id=37881384) - [Caltrans exec who protested a freeway expansion gets demoted](https://www.latimes.com/california/story/2023-10-13/caltrans-whistleblower-says-demoted-block-freeway-expansion)
+* [2023-10-14, 15:35:21](https://news.ycombinator.com/item?id=37881293) - [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)
 * [2023-10-14, 15:09:10](https://news.ycombinator.com/item?id=37881072) - [What SWE job hunting is like right now](https://news.ycombinator.com/item?id=37881072)
 * [2023-10-14, 14:57:30](https://news.ycombinator.com/item?id=37880954) - [Mango Mail – an unlimited email host](https://mymangomail.com/)
 * [2023-10-14, 14:56:33](https://news.ycombinator.com/item?id=37880942) - [Humid Heat Can Kill Us Much Faster Than We Thought](https://nautil.us/humid-heat-can-kill-us-much-faster-than-we-thought-415997/)
