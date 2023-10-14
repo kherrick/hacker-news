@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 02:17:41](https://news.ycombinator.com/item?id=37877568) - [ChatGPT histories got leaked, again](https://old.reddit.com/r/ChatGPT/comments/1777ob0/my_history_tab_is_being_populated_with_hundreds/)
 * [2023-10-14, 02:06:33](https://news.ycombinator.com/item?id=37877528) - [Washington's cryptocurrency lobby is scrambling to contain their \"Hamas problem\"](https://www.politico.com/news/2023/10/13/israel-hamas-war-crypto-elizabeth-warren-00121368)
 * [2023-10-14, 01:45:00](https://news.ycombinator.com/item?id=37877421) - [What Happens When Tony Hsieh Dies with $1B, with No Estate Planning](https://www.williamhalaw.com/post/1/)
 * [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
