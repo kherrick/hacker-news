@@ -8,6 +8,7 @@
 * [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
 * [2023-10-14, 16:12:40](https://news.ycombinator.com/item?id=37881656) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 16:07:03](https://news.ycombinator.com/item?id=37881604) - [Mindblowing Dissertations](https://ideophone.org/mindblowing-dissertations/)
+* [2023-10-14, 16:02:21](https://news.ycombinator.com/item?id=37881562) - [Paper posits ultradense asteroid 33 Polyhymnia has transuranic elements](https://www.popularmechanics.com/space/solar-system/a45522962/new-element-asteroid/)
 * [2023-10-14, 15:45:17](https://news.ycombinator.com/item?id=37881384) - [Caltrans exec who protested a freeway expansion gets demoted](https://www.latimes.com/california/story/2023-10-13/caltrans-whistleblower-says-demoted-block-freeway-expansion)
 * [2023-10-14, 14:39:37](https://news.ycombinator.com/item?id=37880818) - [Anything longer ago than yesterday should just say the actual date](https://grumpy.website/1389)
 * [2023-10-14, 14:25:15](https://news.ycombinator.com/item?id=37880690) - [Ask HN: How to be a manager? Any good sources for learning how to delegate?](https://news.ycombinator.com/item?id=37880690)
@@ -27,7 +28,6 @@
 * [2023-10-14, 04:29:34](https://news.ycombinator.com/item?id=37878077) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-13, 16:42:54](https://news.ycombinator.com/item?id=37872561) - [The Beatles’ collaborative notes: Three ways to write a song](https://jillianhess.substack.com/p/the-beatles-notes-3-ways-to-write)
-* [2023-10-13, 10:52:38](https://news.ycombinator.com/item?id=37869144) - [Words that deserve wider use](https://wordwarriors.wayne.edu/list)
 * [2023-10-13, 10:48:54](https://news.ycombinator.com/item?id=37869119) - [Kenichi Shinohara's pixel art Ukiyo-e (1987)](https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/)
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [The Classic Super Star Trek Game](https://www.michaelburns.net/Software/Trek/)
 
