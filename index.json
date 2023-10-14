@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-10-14, 12:42:05",
+      "https://news.ycombinator.com/item?id=37880033"
+    ],
+    [
+      "Snowden Archive – documents leaked by Snowden",
+      "https://github.com/iamcryptoki/snowden-archive"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 12:25:35",
       "https://news.ycombinator.com/item?id=37879935"
     ],
@@ -237,16 +247,6 @@
     [
       "Multi-modal prompt injection image attacks against GPT-4V",
       "https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 00:46:59",
-      "https://news.ycombinator.com/item?id=37877125"
-    ],
-    [
-      "Large Language Models Are Zero-Shot Time Series Forecasters",
-      "https://arxiv.org/abs/2310.07820"
     ]
   ],
   [
