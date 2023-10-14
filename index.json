@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-14, 17:46:50",
+      "https://news.ycombinator.com/item?id=37882569"
+    ],
+    [
+      "AI Images Detectors Are Being Used to Discredit the Real Horrors of War",
+      "https://www.404media.co/ai-images-detectors-are-being-used-to-discredit-the-real-horrors-of-war/"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 17:02:09",
       "https://news.ycombinator.com/item?id=37882177"
     ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37879706"
     ],
     [
-      "Tuning Linux for Performance",
+      "Tuning Linux for Performance (2021)",
       "https://www.brendangregg.com/linuxperf.html"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "OpenBSD PF-based firewalls suffer differently from denial of service attacks",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 02:26:40",
-      "https://news.ycombinator.com/item?id=37877605"
-    ],
-    [
-      "Multi-modal prompt injection image attacks against GPT-4V",
-      "https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/"
     ]
   ],
   [
