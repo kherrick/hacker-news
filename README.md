@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 05:03:43](https://news.ycombinator.com/item?id=37878218) - [Israel Deploys Semi-Autonomous Machine Gun Robot to Gaza Border (2021)](https://www.thedefensepost.com/2021/07/01/israel-machine-gun-robot-gaza-border/)
 * [2023-10-14, 03:48:09](https://news.ycombinator.com/item?id=37877918) - [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
 * [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 * [2023-10-14, 00:46:59](https://news.ycombinator.com/item?id=37877125) - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
@@ -16,7 +17,6 @@
 * [2023-10-13, 16:57:12](https://news.ycombinator.com/item?id=37872774) - [The whole of the Whole Earth Catalog is now online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
 * [2023-10-13, 15:15:53](https://news.ycombinator.com/item?id=37871577) - [Scalar: Generate interactive API documentations from Swagger files](https://github.com/scalar/scalar)
 * [2023-10-13, 14:20:03](https://news.ycombinator.com/item?id=37870930) - [Takeaways from hundreds of LLM finetuning experiments with LoRA](https://lightning.ai/pages/community/lora-insights/)
-* [2023-10-13, 12:58:50](https://news.ycombinator.com/item?id=37870061) - [The MP3mobile (1998)](http://utter.chaos.org.uk/~altman/mp3mobile/)
 * [2023-10-13, 11:10:16](https://news.ycombinator.com/item?id=37869269) - [Overlooked Reasons to Still Buy Physical Media](https://brainbaking.com/post/2023/09/overlooked-reasons-to-still-buy-physical-media/)
 * [2023-10-13, 10:28:43](https://news.ycombinator.com/item?id=37869012) - [The Quest to Recreate a Lost and 'Terrifying' Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
 * [2023-10-13, 09:15:37](https://news.ycombinator.com/item?id=37868524) - [Protocol Analysis and Libusb Linux Driver for the Uni-T UT61B Multimeter (2014)](https://lukasschwarz.de/ut61b)
