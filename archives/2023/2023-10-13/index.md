@@ -90,6 +90,7 @@
 * [2023-10-13, 06:53:33](https://news.ycombinator.com/item?id=37867546) - [How to Download and Install Linux](https://learn.microsoft.com/en-us/linux/install)
 * [2023-10-13, 06:39:02](https://news.ycombinator.com/item?id=37867481) - [Flexport will lay off 20% of the company starting Friday, leaked memo says](https://www.businessinsider.com/flexport-layoffs-ceo-announces-20-workforce-reduction-2023-10)
 * [2023-10-13, 06:32:06](https://news.ycombinator.com/item?id=37867431) - ['Start Up Nation' goes to war](https://www.ft.com/content/6488b1f1-f10e-4285-931d-1b63b4bcf018)
+* [2023-10-13, 06:30:32](https://news.ycombinator.com/item?id=37867421) - [Questions about synthetic control methods in causal inference](https://statmodeling.stat.columbia.edu/2023/10/12/debate-over-effect-of-reduced-prosecutions-on-urban-homicides-also-larger-questions-about-synthetic-control-methods-in-causal-inference/)
 * [2023-10-13, 06:17:02](https://news.ycombinator.com/item?id=37867334) - [Microsoft gets green light in UK to buy Activision](https://www.bbc.co.uk/news/business-67080391)
 * [2023-10-13, 06:08:50](https://news.ycombinator.com/item?id=37867272) - [MathJax – Beautiful and accessible math in all browsers](https://www.mathjax.org/)
 * [2023-10-13, 05:48:44](https://news.ycombinator.com/item?id=37867152) - [Malaysia's spat with Goldman about to get ugly](https://www.channelnewsasia.com/asia/malaysia-goldman-sachs-1mdb-settlement-arbitration-london-3841106)

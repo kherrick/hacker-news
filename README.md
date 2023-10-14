@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-14, 03:48:09](https://news.ycombinator.com/item?id=37877918) - [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
-* [2023-10-14, 02:29:12](https://news.ycombinator.com/item?id=37877618) - [2023 Solar Eclipse – Oct 14](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/)
 * [2023-10-14, 01:26:21](https://news.ycombinator.com/item?id=37877317) - [You are onboarding developers wrong (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
 * [2023-10-14, 00:46:59](https://news.ycombinator.com/item?id=37877125) - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 * [2023-10-14, 00:19:37](https://news.ycombinator.com/item?id=37876988) - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
@@ -22,6 +21,7 @@
 * [2023-10-13, 10:28:43](https://news.ycombinator.com/item?id=37869012) - [The Quest to Recreate a Lost and 'Terrifying' Medieval Mead](https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet)
 * [2023-10-13, 09:15:37](https://news.ycombinator.com/item?id=37868524) - [Protocol Analysis and Libusb Linux Driver for the Uni-T UT61B Multimeter (2014)](https://lukasschwarz.de/ut61b)
 * [2023-10-13, 07:03:47](https://news.ycombinator.com/item?id=37867635) - [Text embeddings reveal almost as much as text](https://arxiv.org/abs/2310.06816)
+* [2023-10-13, 06:30:32](https://news.ycombinator.com/item?id=37867421) - [Questions about synthetic control methods in causal inference](https://statmodeling.stat.columbia.edu/2023/10/12/debate-over-effect-of-reduced-prosecutions-on-urban-homicides-also-larger-questions-about-synthetic-control-methods-in-causal-inference/)
 * [2023-10-13, 06:08:50](https://news.ycombinator.com/item?id=37867272) - [MathJax: Beautiful and accessible math in all browsers](https://www.mathjax.org/)
 * [2023-10-13, 05:03:41](https://news.ycombinator.com/item?id=37866905) - [Nineteenth century scientists set out to solve the \"problem of American storms\"](https://www.neh.gov/article/storm-patrol)
 * [2023-10-13, 01:51:10](https://news.ycombinator.com/item?id=37865610) - [Scientists generate first single-cell atlas of the primate brain](https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html)
