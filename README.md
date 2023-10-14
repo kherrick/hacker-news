@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-14, 22:06:20](https://news.ycombinator.com/item?id=37884683) - [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
+* [2023-10-14, 21:42:31](https://news.ycombinator.com/item?id=37884514) - [Being Poor vs. Feeling Poor](https://moretothat.com/being-poor-vs-feeling-poor/)
 * [2023-10-14, 21:01:07](https://news.ycombinator.com/item?id=37884240) - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
 * [2023-10-14, 20:56:29](https://news.ycombinator.com/item?id=37884205) - [Lisp Badge](http://www.ulisp.com/show?2L0C)
 * [2023-10-14, 20:53:40](https://news.ycombinator.com/item?id=37884177) - [Widely accepted mathematical results that were later shown to be wrong? (2010)](https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong)
 * [2023-10-14, 20:52:08](https://news.ycombinator.com/item?id=37884158) - [SWEET16: Interpreted byte-code instruction set invented by Steve Wozniak](https://en.wikipedia.org/wiki/SWEET16)
-* [2023-10-14, 19:31:21](https://news.ycombinator.com/item?id=37883511) - [Solar eclipse of August 12, 2026](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026)
 * [2023-10-14, 17:53:07](https://news.ycombinator.com/item?id=37882622) - [Comcast squeezing 2Gbps internet speeds through decades-old coaxial cables](https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html)
 * [2023-10-14, 16:22:51](https://news.ycombinator.com/item?id=37881771) - [Show HN: Firefox add-on to open YouTube videos in alternative front ends](https://github.com/d3vr/yt-siphon)
 * [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)

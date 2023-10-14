@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
 * [2023-10-14, 22:06:20](https://news.ycombinator.com/item?id=37884683) - [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
+* [2023-10-14, 21:42:31](https://news.ycombinator.com/item?id=37884514) - [Being Poor vs. Feeling Poor](https://moretothat.com/being-poor-vs-feeling-poor/)
 * [2023-10-14, 21:17:15](https://news.ycombinator.com/item?id=37884352) - [Apple's iPhone 15 Pro Max is a disaster:Screen burn-in latest of reported issues](https://www.laptopmag.com/phones/iphone/apples-iphone-15-pro-max-is-a-disaster-screen-burn-in-latest-of-reported-issues)
 * [2023-10-14, 21:01:07](https://news.ycombinator.com/item?id=37884240) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-10-14, 20:56:29](https://news.ycombinator.com/item?id=37884205) - [Lisp Badge](http://www.ulisp.com/show?2L0C)
