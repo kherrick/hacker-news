@@ -4,6 +4,7 @@
 * [2023-10-14, 05:33:53](https://news.ycombinator.com/item?id=37878312) - [Why I Eat Old Cheese (and Why You Should Too) (2020)](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
 * [2023-10-14, 04:43:58](https://news.ycombinator.com/item?id=37878145) - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
 * [2023-10-14, 04:29:34](https://news.ycombinator.com/item?id=37878077) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
+* [2023-10-14, 02:26:40](https://news.ycombinator.com/item?id=37877605) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 * [2023-10-14, 01:54:53](https://news.ycombinator.com/item?id=37877470) - [Write Code Like You Just Learned How to Program](https://prog21.dadgum.com/87.html)
 * [2023-10-14, 00:46:59](https://news.ycombinator.com/item?id=37877125) - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 * [2023-10-14, 00:19:37](https://news.ycombinator.com/item?id=37876988) - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
@@ -28,7 +29,6 @@
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 * [2023-10-11, 11:03:13](https://news.ycombinator.com/item?id=37842993) - [In Search of Writers' Haunts](https://themillions.com/2023/10/in-search-of-writers-haunts-bruce-chatwin.html)
 * [2023-10-11, 10:49:16](https://news.ycombinator.com/item?id=37842914) - [Making GRID's spreadsheet engine 10% faster](https://alexharri.com/blog/grid-engine-performance)
-* [2023-10-11, 08:14:27](https://news.ycombinator.com/item?id=37842100) - [Intel Launches Arc A580: A $179 Graphics Card for 1080p Gaming](https://www.anandtech.com/show/21090/intel-launches-arc-a580-a-179-graphics-card-for-1080p-gaming)
 * [2023-10-11, 07:27:07](https://news.ycombinator.com/item?id=37841865) - [Underwater Chain Saws](https://www.stanleyinfrastructure.com/products/underwater-chain-saws)
 
 ## [Archives](archives/index.md)
