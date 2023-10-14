@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 22:06:20](https://news.ycombinator.com/item?id=37884683) - [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
 * [2023-10-14, 21:17:15](https://news.ycombinator.com/item?id=37884352) - [Apple's iPhone 15 Pro Max is a disaster:Screen burn-in latest of reported issues](https://www.laptopmag.com/phones/iphone/apples-iphone-15-pro-max-is-a-disaster-screen-burn-in-latest-of-reported-issues)
 * [2023-10-14, 21:01:07](https://news.ycombinator.com/item?id=37884240) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-10-14, 20:56:29](https://news.ycombinator.com/item?id=37884205) - [Lisp Badge](http://www.ulisp.com/show?2L0C)
 * [2023-10-14, 20:53:40](https://news.ycombinator.com/item?id=37884177) - [Widely Accepted Mathematical Results That Were Later Shown to Be Wrong](https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong)
 * [2023-10-14, 20:44:12](https://news.ycombinator.com/item?id=37884102) - [Netflix plans to open brick and mortar locations](https://www.npr.org/2023/10/14/1205971022/netflix-house-brick-and-mortar-locations)
 * [2023-10-14, 19:31:21](https://news.ycombinator.com/item?id=37883511) - [Solar eclipse of August 12, 2026](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026)
