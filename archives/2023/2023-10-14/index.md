@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
 * [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
+* [2023-10-14, 09:34:03](https://news.ycombinator.com/item?id=37879216) - [PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
 * [2023-10-14, 09:28:51](https://news.ycombinator.com/item?id=37879197) - [The UK's Association to Horizon Europe and Copernicus](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373)
 * [2023-10-14, 08:44:16](https://news.ycombinator.com/item?id=37879027) - [Fcron Is the Best Cron](https://dbohdan.com/fcron)
 * [2023-10-14, 07:00:17](https://news.ycombinator.com/item?id=37878633) - [Meticulous (YC S21) Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
