@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 03:48:09](https://news.ycombinator.com/item?id=37877918) - [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
 * [2023-10-14, 03:02:59](https://news.ycombinator.com/item?id=37877751) - [Why the average lifespan of a smartphone is only three years](https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html)
 * [2023-10-14, 02:29:12](https://news.ycombinator.com/item?id=37877618) - [2023 Solar Eclipse – Oct 14](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/)
 * [2023-10-14, 02:17:41](https://news.ycombinator.com/item?id=37877568) - [ChatGPT histories got leaked, again](https://old.reddit.com/r/ChatGPT/comments/1777ob0/my_history_tab_is_being_populated_with_hundreds/)
