@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
 * [2023-10-14, 17:01:04](https://news.ycombinator.com/item?id=37882167) - [Great Question (YC W21) Is Hiring Senior Account Executives](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
+* [2023-10-14, 16:43:55](https://news.ycombinator.com/item?id=37881998) - [Ferrari to accept crypto as payment for its cars in the US](https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/)
+* [2023-10-14, 16:37:44](https://news.ycombinator.com/item?id=37881928) - [3D-Printed Medical Equipment Makers Struggle to Save Lives in Gaza Under Siege](https://www.vice.com/en/article/3ak7gj/makers-of-3d-printed-medical-equipment-struggle-to-save-lives-in-gaza-under-siege)
 * [2023-10-14, 16:35:38](https://news.ycombinator.com/item?id=37881907) - [Bitcoin stolen from FTX being converted to cash via \"mixer\"](https://www.bbc.com/news/technology-67090501)
+* [2023-10-14, 16:22:30](https://news.ycombinator.com/item?id=37881767) - [Germany's terrible trains are no joke for a nation built on efficiency](https://www.theguardian.com/business/2023/oct/14/its-the-same-daily-misery-germanys-terrible-trains-are-no-joke-for-a-nation-built-on-efficiency)
 * [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
 * [2023-10-14, 16:12:40](https://news.ycombinator.com/item?id=37881656) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 16:08:31](https://news.ycombinator.com/item?id=37881621) - [Google blocked Pixel 8 reviewers and owners from benchmarking the Tensor G3 chip](https://www.notebookcheck.net/Google-blocked-Pixel-8-Pixel-8-Pro-reviewers-from-using-popular-benchmarks-to-test-the-Tensor-G3-chip-new-owners-too.759260.0.html)
