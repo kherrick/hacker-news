@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 12:25:35](https://news.ycombinator.com/item?id=37879935) - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
+* [2023-10-14, 12:23:20](https://news.ycombinator.com/item?id=37879925) - [Blue checks aren't protecting sex workers from X's porn crackdown](https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/)
 * [2023-10-14, 12:00:42](https://news.ycombinator.com/item?id=37879828) - [Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
+* [2023-10-14, 10:50:41](https://news.ycombinator.com/item?id=37879511) - [The Razor Edge Book of Sharpening [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
 * [2023-10-14, 09:55:54](https://news.ycombinator.com/item?id=37879296) - [Book Review: How Our Roads Have Become an Invasive Species](https://undark.org/2023/10/13/book-review-crossings/)
 * [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 * [2023-10-14, 09:34:03](https://news.ycombinator.com/item?id=37879216) - [PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
@@ -15,6 +18,7 @@
 * [2023-10-14, 07:00:17](https://news.ycombinator.com/item?id=37878633) - [Meticulous (YC S21) Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
 * [2023-10-14, 06:48:07](https://news.ycombinator.com/item?id=37878587) - [UK's nuclear fusion site ends experiments after 40 years](https://www.bbc.co.uk/news/science-environment-67101176)
 * [2023-10-14, 06:40:05](https://news.ycombinator.com/item?id=37878558) - [The average persons metabolism doesn't decline until 60](https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course)
+* [2023-10-14, 06:34:52](https://news.ycombinator.com/item?id=37878532) - [Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80](https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html)
 * [2023-10-14, 05:33:53](https://news.ycombinator.com/item?id=37878312) - [Why I Eat Old Cheese (and Why You Should Too) (2020)](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
 * [2023-10-14, 05:03:43](https://news.ycombinator.com/item?id=37878218) - [Israel Deploys Semi-Autonomous Machine Gun Robot to Gaza Border (2021)](https://www.thedefensepost.com/2021/07/01/israel-machine-gun-robot-gaza-border/)
 * [2023-10-14, 04:47:45](https://news.ycombinator.com/item?id=37878154) - [Traditionally Horny](https://danbaltic.substack.com/p/traditionally-horny)
