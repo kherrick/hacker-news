@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-14, 03:02:59",
-      "https://news.ycombinator.com/item?id=37877751"
-    ],
-    [
-      "Why the average lifespan of a smartphone is only three years",
-      "https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 01:54:53",
       "https://news.ycombinator.com/item?id=37877470"
     ],
@@ -151,12 +141,22 @@
   ],
   [
     [
-      "2023-10-13, 15:15:53",
-      "https://news.ycombinator.com/item?id=37871577"
+      "2023-10-13, 15:12:24",
+      "https://news.ycombinator.com/item?id=37871534"
     ],
     [
-      "Scalar: Generate interactive API documentations from Swagger files",
-      "https://github.com/scalar/scalar"
+      "Would we still create Nebula today?",
+      "https://www.defined.net/blog/would-we-still-create-nebula-today/"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 14:20:03",
+      "https://news.ycombinator.com/item?id=37870930"
+    ],
+    [
+      "Takeaways from hundreds of LLM finetuning experiments with LoRA",
+      "https://lightning.ai/pages/community/lora-insights/"
     ]
   ],
   [
