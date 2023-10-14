@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-10-14, 07:00:17",
+      "https://news.ycombinator.com/item?id=37878633"
+    ],
+    [
+      "Meticulous (YC S21) Is Hiring to Build AI for Testing",
+      "https://news.ycombinator.com/item?id=37878633"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 04:43:58",
+      "https://news.ycombinator.com/item?id=37878145"
+    ],
+    [
+      "Gsplat: CUDA accelerated rasterization of gaussians with Python bindings",
+      "https://docs.gsplat.studio/"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 04:29:34",
       "https://news.ycombinator.com/item?id=37878077"
     ],
     [
       "OpenBSD PF-based firewalls suffer differently from denial of service attacks",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 03:02:59",
-      "https://news.ycombinator.com/item?id=37877751"
-    ],
-    [
-      "Why the average lifespan of a smartphone is only three years",
-      "https://english.elpais.com/technology/2023-10-07/will-your-cellphone-work-for-a-decade-why-the-average-lifespan-of-a-smartphone-is-only-three-years.html"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "How to cook ground meat perfectly without vision",
       "https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 21:00:38",
-      "https://news.ycombinator.com/item?id=37875574"
-    ],
-    [
-      "Kodable (YC IK12) is hiring a Unity game Developer to help teach kids to code",
-      "https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer"
     ]
   ],
   [
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2023-10-13, 14:20:03",
-      "https://news.ycombinator.com/item?id=37870930"
+      "2023-10-13, 15:12:24",
+      "https://news.ycombinator.com/item?id=37871534"
     ],
     [
-      "Takeaways from hundreds of LLM finetuning experiments with LoRA",
-      "https://lightning.ai/pages/community/lora-insights/"
+      "Would we still create Nebula today?",
+      "https://www.defined.net/blog/would-we-still-create-nebula-today/"
     ]
   ],
   [
@@ -175,8 +175,18 @@
       "https://news.ycombinator.com/item?id=37869144"
     ],
     [
-      "Word Warriors' \"Words that deserve wider use\"",
+      "Words that deserve wider use",
       "https://wordwarriors.wayne.edu/list"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 10:48:54",
+      "https://news.ycombinator.com/item?id=37869119"
+    ],
+    [
+      "Kenichi Shinohara's pixel art Ukiyo-e (1987)",
+      "https://blog.gingerbeardman.com/2023/10/13/kenichi-shinohara-pixel-art-ukiyo-e/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "MathJax: Beautiful and accessible math in all browsers",
       "https://www.mathjax.org/"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 05:03:41",
-      "https://news.ycombinator.com/item?id=37866905"
-    ],
-    [
-      "Nineteenth century scientists set out to solve the \"problem of American storms\"",
-      "https://www.neh.gov/article/storm-patrol"
     ]
   ],
   [
