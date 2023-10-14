@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-14, 14:06:15](https://news.ycombinator.com/item?id=37880564) - [California Allows Cities to Catch Speeding Drivers with Automated Cameras](https://www.nytimes.com/2023/10/13/us/california-speed-cameras.html)
 * [2023-10-14, 12:25:35](https://news.ycombinator.com/item?id=37879935) - [F-Droid version of KDEConnect uninstalled by PlayProtect](https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992)
 * [2023-10-14, 12:16:02](https://news.ycombinator.com/item?id=37879893) - [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
 * [2023-10-14, 12:00:42](https://news.ycombinator.com/item?id=37879828) - [Zoltar (YC S22) Is Hiring Founding Full-Stack Engineers in NYC](https://www.ycombinator.com/companies/zoltar-labs/jobs)
 * [2023-10-14, 11:37:28](https://news.ycombinator.com/item?id=37879723) - [Petition against EU chat control](https://stopscanningme.eu/en/index.html)
 * [2023-10-14, 11:34:58](https://news.ycombinator.com/item?id=37879715) - [Kalman Filter Tutorial: Kalman Filter from the Ground Up](https://www.kalmanfilter.net/default.aspx)
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
-* [2023-10-14, 10:50:41](https://news.ycombinator.com/item?id=37879511) - [The Razor Edge Book of Sharpening [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
+* [2023-10-14, 10:50:41](https://news.ycombinator.com/item?id=37879511) - [The Razor Edge Book of Sharpening (1985) [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
 * [2023-10-14, 09:55:54](https://news.ycombinator.com/item?id=37879296) - [The science of road ecology, or how roadways affect plants and animal life](https://undark.org/2023/10/13/book-review-crossings/)
 * [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 * [2023-10-14, 09:34:03](https://news.ycombinator.com/item?id=37879216) - [PostgresJs: Fast, full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
@@ -29,7 +30,6 @@
 * [2023-10-13, 06:29:37](https://news.ycombinator.com/item?id=37867411) - [Trek, a Classic Game for DOS](https://www.michaelburns.net/Software/Trek/)
 * [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 * [2023-10-11, 11:03:13](https://news.ycombinator.com/item?id=37842993) - [In Search of Writers' Haunts](https://themillions.com/2023/10/in-search-of-writers-haunts-bruce-chatwin.html)
-* [2023-10-11, 07:27:07](https://news.ycombinator.com/item?id=37841865) - [Underwater Chain Saws](https://www.stanleyinfrastructure.com/products/underwater-chain-saws)
 
 ## [Archives](archives/index.md)
 
