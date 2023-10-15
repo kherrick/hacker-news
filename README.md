@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 14:01:28](https://news.ycombinator.com/item?id=37889790) - [Node.js – v20.8.1](https://nodejs.org/en/blog/release/v20.8.1)
 * [2023-10-15, 13:45:21](https://news.ycombinator.com/item?id=37889666) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2023-10-15, 13:40:26](https://news.ycombinator.com/item?id=37889631) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
 * [2023-10-15, 13:34:12](https://news.ycombinator.com/item?id=37889580) - [2023 was earth's warmest September In 174 year record](https://www.noaa.gov/news/topping-charts-september-2023-was-earths-warmest-september-in-174-year-record)
@@ -9,7 +10,6 @@
 * [2023-10-15, 10:37:13](https://news.ycombinator.com/item?id=37888606) - [Show HN: \"Interactive\" Italian Poetry for English Speakers](https://italianpoetry.it/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
 * [2023-10-15, 08:55:12](https://news.ycombinator.com/item?id=37888135) - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
-* [2023-10-15, 07:01:37](https://news.ycombinator.com/item?id=37887562) - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
 * [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 * [2023-10-15, 05:43:39](https://news.ycombinator.com/item?id=37887204) - [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
 * [2023-10-15, 05:40:29](https://news.ycombinator.com/item?id=37887184) - [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
