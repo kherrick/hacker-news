@@ -72,6 +72,7 @@
 * [2023-10-14, 11:32:16](https://news.ycombinator.com/item?id=37879706) - [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
 * [2023-10-14, 11:25:56](https://news.ycombinator.com/item?id=37879676) - [Walmart customers getting hostile at self-checkout – they blame anti-theft tech](https://www.businessinsider.com/walmarts-anti-theft-technology-is-effective-but-involves-confronting-customers-2023-10)
 * [2023-10-14, 10:50:41](https://news.ycombinator.com/item?id=37879511) - [The Razor Edge Book of Sharpening [pdf]](https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf)
+* [2023-10-14, 10:04:25](https://news.ycombinator.com/item?id=37879329) - [Ten Years Writing Book Reviews](https://dannyreviews.com/history.html)
 * [2023-10-14, 09:55:54](https://news.ycombinator.com/item?id=37879296) - [Book Review: How Our Roads Have Become an Invasive Species](https://undark.org/2023/10/13/book-review-crossings/)
 * [2023-10-14, 09:40:43](https://news.ycombinator.com/item?id=37879244) - [AMD Counter-Strikes Itself, Pulls Driver After Anti-Lag Feature Causes CS2 Bans](https://www.tomshardware.com/news/amd-pulls-drivers-that-cause-counter-strike-2-bans-after-valve-roasted-them)
 * [2023-10-14, 09:34:03](https://news.ycombinator.com/item?id=37879216) - [PostgresJs: The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
