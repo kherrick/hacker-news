@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 15:48:32](https://news.ycombinator.com/item?id=37890740) - [Automakers Have Big Hopes for EVs; Buyers Aren't Cooperating](https://www.wsj.com/business/autos/electric-vehicle-buyer-interest-67b407cb)
 * [2023-10-15, 15:47:07](https://news.ycombinator.com/item?id=37890725) - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
 * [2023-10-15, 15:46:59](https://news.ycombinator.com/item?id=37890723) - [Impureim Sandwich (2020)](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
@@ -26,7 +27,6 @@
 * [2023-10-14, 21:44:57](https://news.ycombinator.com/item?id=37884532) - [Think in Analog, Capture in Digital](https://huwfulcher.com/blog/2023-10-14-think-in-analog-capture-in-digital/)
 * [2023-10-14, 18:04:28](https://news.ycombinator.com/item?id=37882718) - [The Welsh Punk Scene of the 1980s](https://www.huckmag.com/article/inside-the-80s-welsh-punk-scene)
 * [2023-10-14, 10:04:25](https://news.ycombinator.com/item?id=37879329) - [Ten Years Writing Book Reviews (2003)](https://dannyreviews.com/history.html)
-* [2023-10-14, 05:06:51](https://news.ycombinator.com/item?id=37878231) - [The Apple Macintosh Primer (1984) [pdf]](https://vintageapple.org/macbooks/pdf/The_Apple_Macintosh_Primer_1984.pdf)
 * [2023-10-13, 21:16:17](https://news.ycombinator.com/item?id=37875723) - [Self-Taught Optimizer (Stop): Recursively Self-Improving Code Generation](https://arxiv.org/abs/2310.02304)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A Wild Idea to Protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
