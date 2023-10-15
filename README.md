@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 10:04:39](https://news.ycombinator.com/item?id=37888477) - [Cursor – The AI-First Code Editor](https://cursor.sh/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
 * [2023-10-15, 08:55:12](https://news.ycombinator.com/item?id=37888135) - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
 * [2023-10-15, 07:01:37](https://news.ycombinator.com/item?id=37887562) - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
@@ -21,7 +22,6 @@
 * [2023-10-14, 20:13:12](https://news.ycombinator.com/item?id=37883862) - [QNX Demo Disk screen shots](http://toastytech.com/guis/qnxdemo.html)
 * [2023-10-14, 18:04:28](https://news.ycombinator.com/item?id=37882718) - [The Welsh Punk Scene of the 1980s](https://www.huckmag.com/article/inside-the-80s-welsh-punk-scene)
 * [2023-10-14, 16:22:51](https://news.ycombinator.com/item?id=37881771) - [Show HN: Firefox add-on to open YouTube videos in alternative front ends](https://github.com/d3vr/yt-siphon)
-* [2023-10-14, 16:12:40](https://news.ycombinator.com/item?id=37881656) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 10:04:25](https://news.ycombinator.com/item?id=37879329) - [Ten Years Writing Book Reviews](https://dannyreviews.com/history.html)
 * [2023-10-14, 09:02:23](https://news.ycombinator.com/item?id=37879077) - [ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 * [2023-10-14, 07:59:02](https://news.ycombinator.com/item?id=37878851) - [Linux on an 8bit Microcontroller](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
