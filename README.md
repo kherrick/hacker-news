@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-15, 18:36:18](https://news.ycombinator.com/item?id=37892160) - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
-* [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 * [2023-10-15, 18:01:30](https://news.ycombinator.com/item?id=37891886) - [Finland to vote against the EU mass surveillance and encryption ban directive](https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta)
@@ -19,6 +18,7 @@
 * [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
 * [2023-10-15, 14:07:06](https://news.ycombinator.com/item?id=37889844) - [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
 * [2023-10-15, 13:45:21](https://news.ycombinator.com/item?id=37889666) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
+* [2023-10-15, 13:11:03](https://news.ycombinator.com/item?id=37889444) - [Show HN: Deep Chat – AI chat component](https://github.com/OvidijusParsiunas/deep-chat)
 * [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-15, 10:37:13](https://news.ycombinator.com/item?id=37888606) - [Show HN: \"Interactive\" Italian Poetry for English Speakers](https://italianpoetry.it/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
