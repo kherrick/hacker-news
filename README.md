@@ -3,6 +3,7 @@
 * [2023-10-15, 07:01:37](https://news.ycombinator.com/item?id=37887562) - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
 * [2023-10-15, 07:00:48](https://news.ycombinator.com/item?id=37887558) - [Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
 * [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
+* [2023-10-15, 05:46:25](https://news.ycombinator.com/item?id=37887217) - [The fascist state of Paw Patrol (2021)](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
 * [2023-10-15, 05:43:39](https://news.ycombinator.com/item?id=37887204) - [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
 * [2023-10-15, 05:40:29](https://news.ycombinator.com/item?id=37887184) - [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
 * [2023-10-15, 05:15:59](https://news.ycombinator.com/item?id=37887071) - [Decline in independent activity as a cause of  decline in child mental health](https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf)
@@ -29,7 +30,6 @@
 * [2023-10-12, 22:21:10](https://news.ycombinator.com/item?id=37863928) - [Websites of 2000 [video]](https://www.bbc.co.uk/archive/topwebsites/zdpf46f)
 * [2023-10-12, 21:16:51](https://news.ycombinator.com/item?id=37863255) - [History of the Mackintosh: 200 years of the classic raincoat](https://www.theguardian.com/news/2023/oct/12/history-mackintosh-raincoat-charles-macintosh)
 * [2023-10-12, 20:28:11](https://news.ycombinator.com/item?id=37862761) - [The Garden of the Five Senses](https://worldsensorium.com/the-garden-of-the-five-senses/)
-* [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)
 
