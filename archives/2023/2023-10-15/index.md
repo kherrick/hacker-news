@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 19:20:45](https://news.ycombinator.com/item?id=37892560) - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
 * [2023-10-15, 18:36:18](https://news.ycombinator.com/item?id=37892160) - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
 * [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
@@ -11,6 +12,7 @@
 * [2023-10-15, 18:01:30](https://news.ycombinator.com/item?id=37891886) - [Finland to vote against the EU mass surveillance and encryption ban directive](https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta)
 * [2023-10-15, 17:55:24](https://news.ycombinator.com/item?id=37891848) - [Zephyr 7B – Mistral Finetune that responds like ChatGPT](https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha)
 * [2023-10-15, 17:48:19](https://news.ycombinator.com/item?id=37891786) - [Centimillionaires: Elites with Investable Assets of More Than $100M](https://www.investopedia.com/new-class-of-global-elite-have-emerged-8357556)
+* [2023-10-15, 17:42:55](https://news.ycombinator.com/item?id=37891748) - [The Polish Election Bazaar](https://dragonscave.space/@miki/111240259192723454)
 * [2023-10-15, 17:11:39](https://news.ycombinator.com/item?id=37891518) - [FFmpeg-online: ffpmeg running on the browser](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
 * [2023-10-15, 17:00:09](https://news.ycombinator.com/item?id=37891405) - [Kraftful (YC S19) hiring a Founding Eng – we use AI to disrupt product dev](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-10-15, 16:18:29](https://news.ycombinator.com/item?id=37891020) - [Why Async Rust?](https://without.boats/blog/why-async-rust/)
