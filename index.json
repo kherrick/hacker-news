@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-10-15, 00:10:07",
+      "https://news.ycombinator.com/item?id=37885519"
+    ],
+    [
+      "Bay Area refineries to stop making gasoline",
+      "https://www.ktvu.com/news/2-of-5-of-bay-area-refineries-to-stop-making-gasoline"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 23:09:31",
       "https://news.ycombinator.com/item?id=37885116"
     ],
     [
       "Linux on the Web: Getting a handle on the files in the browser",
       "https://linuxontheweb.github.io/docs/what-it-is.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 23:00:11",
+      "https://news.ycombinator.com/item?id=37885044"
+    ],
+    [
+      "Real-Time Research: Top Reference Systems (Design Systems and UI Libs) 2023",
+      "https://app.excalidraw.com/l/5M4i1z9oaht/2Be9A63OXZt"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 22:53:07",
+      "https://news.ycombinator.com/item?id=37885000"
+    ],
+    [
+      "WordPress blogs can now be followed on Mastodon and other federated platforms",
+      "https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/"
     ]
   ],
   [
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2023-10-14, 21:42:31",
-      "https://news.ycombinator.com/item?id=37884514"
-    ],
-    [
-      "Being Poor vs. Feeling Poor",
-      "https://moretothat.com/being-poor-vs-feeling-poor/"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 21:01:07",
       "https://news.ycombinator.com/item?id=37884240"
     ],
@@ -77,16 +97,6 @@
     [
       "Widely accepted mathematical results that were later shown to be wrong? (2010)",
       "https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 17:53:07",
-      "https://news.ycombinator.com/item?id=37882622"
-    ],
-    [
-      "Comcast squeezing 2Gbps internet speeds through decades-old coaxial cables",
-      "https://www.engadget.com/comcast-starts-squeezing-2-gbps-symmetrical-internet-speeds-through-decades-old-coaxial-cables-143657830.html"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-10-14, 14:39:37",
-      "https://news.ycombinator.com/item?id=37880818"
-    ],
-    [
-      "Anything longer ago than yesterday should just say the actual date",
-      "https://grumpy.website/1389"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 14:21:38",
       "https://news.ycombinator.com/item?id=37880667"
     ],
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2023-10-14, 14:16:46",
-      "https://news.ycombinator.com/item?id=37880635"
-    ],
-    [
-      "Undermining Democracy: The EU Commission's Controversial Push for Surveillance",
-      "https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 13:16:17",
       "https://news.ycombinator.com/item?id=37880236"
     ],
     [
       "Cottage Computer Programming (2003?)",
       "https://www.atariarchives.org/deli/cottage_computer_programming.php"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 12:42:05",
-      "https://news.ycombinator.com/item?id=37880033"
-    ],
-    [
-      "Snowden Archive – documents leaked by Snowden",
-      "https://github.com/iamcryptoki/snowden-archive"
     ]
   ],
   [
@@ -237,6 +217,26 @@
     [
       "ChatGPT’s system prompts",
       "https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 08:37:08",
+      "https://news.ycombinator.com/item?id=37878997"
+    ],
+    [
+      "Robots Ranked",
+      "https://robotsguide.com/rankings"
+    ]
+  ],
+  [
+    [
+      "2023-10-14, 07:59:02",
+      "https://news.ycombinator.com/item?id=37878851"
+    ],
+    [
+      "Linux on an 8bit Microcontroller",
+      "https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit"
     ]
   ],
   [
