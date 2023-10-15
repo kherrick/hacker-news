@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 21:00:30](https://news.ycombinator.com/item?id=37893337) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-10-15, 20:52:25](https://news.ycombinator.com/item?id=37893291) - [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
+* [2023-10-15, 20:27:17](https://news.ycombinator.com/item?id=37893111) - [Bytecode and the Busicom (2022)](https://thechipletter.substack.com/p/bytecode-and-the-busicom)
 * [2023-10-15, 20:24:20](https://news.ycombinator.com/item?id=37893091) - [The Sycamore Gap tree held a particularly deep place in people's hearts](https://www.economist.com/obituary/2023/10/04/the-sycamore-gap-tree-held-a-particularly-deep-place-in-peoples-hearts)
 * [2023-10-15, 19:36:58](https://news.ycombinator.com/item?id=37892721) - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
 * [2023-10-15, 19:33:35](https://news.ycombinator.com/item?id=37892684) - [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data)
@@ -32,6 +35,7 @@
 * [2023-10-15, 15:40:13](https://news.ycombinator.com/item?id=37890649) - [A Fleet Prone to Captive Labor and Plunder](https://www.theoutlawocean.com/investigations/china-the-superpower-of-seafood/a-fleet-prone-to-captive-labor-and-plunder/)
 * [2023-10-15, 15:31:56](https://news.ycombinator.com/item?id=37890570) - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
 * [2023-10-15, 15:18:39](https://news.ycombinator.com/item?id=37890453) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
+* [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain filmed by Thomas Edison in 1909](https://www.youtube.com/watch?v=leYj--P4CgQ)
 * [2023-10-15, 15:00:29](https://news.ycombinator.com/item?id=37890305) - [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
 * [2023-10-15, 14:45:45](https://news.ycombinator.com/item?id=37890206) - [Bodybuilder Charles Atlas' classic website](https://www.charlesatlas.com/index.html)
 * [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)

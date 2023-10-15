@@ -13,6 +13,7 @@
 * [2023-10-13, 20:57:35](https://news.ycombinator.com/item?id=37875542) - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
 * [2023-10-13, 20:41:16](https://news.ycombinator.com/item?id=37875396) - [Extinct goat was cold-blooded (2009)](https://phys.org/news/2009-11-extinct-goat-cold-blooded.html)
 * [2023-10-13, 20:39:07](https://news.ycombinator.com/item?id=37875370) - [Apple OSes Are Insecure by Design to Aid Surveillance](https://sneak.berlin/20231005/apple-operating-system-surveillance/)
+* [2023-10-13, 20:23:28](https://news.ycombinator.com/item?id=37875193) - [The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
 * [2023-10-13, 20:18:52](https://news.ycombinator.com/item?id=37875136) - [Only speaking to my daughter in Spanish for 2 years](https://joeprevite.com/2-years-bilingual-journey/)
 * [2023-10-13, 20:16:37](https://news.ycombinator.com/item?id=37875107) - [You Will Never Own a Home. TL:DR – Housing Is F**ked](https://joanwestenberg.medium.com/the-global-housing-squeeze-a-generational-wealth-apocalypse-d01ceaab8905)
 * [2023-10-13, 19:58:32](https://news.ycombinator.com/item?id=37874891) - [TimeGPT-1](https://arxiv.org/abs/2310.03589)
