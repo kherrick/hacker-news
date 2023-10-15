@@ -21,6 +21,7 @@
 * [2023-10-12, 21:04:10](https://news.ycombinator.com/item?id=37863126) - [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)
 * [2023-10-12, 20:46:37](https://news.ycombinator.com/item?id=37862963) - [Firefox and Fastly take another step toward a privacy upgrade for the internet](https://www.fastly.com/blog/firefox-fastly-take-another-step-toward-security-upgrade)
 * [2023-10-12, 20:43:17](https://news.ycombinator.com/item?id=37862924) - [MS Paint Cocreator, a new AI-powered experience powered by DALL-E](https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/)
+* [2023-10-12, 20:28:11](https://news.ycombinator.com/item?id=37862761) - [The Garden of the Five Senses](https://worldsensorium.com/the-garden-of-the-five-senses/)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 19:55:35](https://news.ycombinator.com/item?id=37862338) - [Nearly half a billion small tech items thrown away](https://www.bbc.com/news/business-67082005)
 * [2023-10-12, 19:50:21](https://news.ycombinator.com/item?id=37862269) - [Djb warns NSA may be weakening next-gen encryption](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
