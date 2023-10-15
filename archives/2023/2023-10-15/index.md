@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 15:48:33](https://news.ycombinator.com/item?id=37890742) - [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
+* [2023-10-15, 15:48:32](https://news.ycombinator.com/item?id=37890740) - [Automakers Have Big Hopes for EVs; Buyers Aren't Cooperating](https://www.wsj.com/business/autos/electric-vehicle-buyer-interest-67b407cb)
+* [2023-10-15, 15:47:07](https://news.ycombinator.com/item?id=37890725) - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
+* [2023-10-15, 15:46:59](https://news.ycombinator.com/item?id=37890723) - [Impureim Sandwich (2020)](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
+* [2023-10-15, 14:45:45](https://news.ycombinator.com/item?id=37890206) - [Bodybuilder Charles Atlas' classic website](https://www.charlesatlas.com/index.html)
+* [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
 * [2023-10-15, 14:36:20](https://news.ycombinator.com/item?id=37890110) - [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
 * [2023-10-15, 14:17:38](https://news.ycombinator.com/item?id=37889933) - [Do authors get paid for ad placement in novels?](https://news.ycombinator.com/item?id=37889933)
 * [2023-10-15, 14:17:04](https://news.ycombinator.com/item?id=37889925) - [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
