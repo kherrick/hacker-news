@@ -86,6 +86,7 @@
 * [2023-10-14, 06:40:05](https://news.ycombinator.com/item?id=37878558) - [The average persons metabolism doesn't decline until 60](https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course)
 * [2023-10-14, 06:34:52](https://news.ycombinator.com/item?id=37878532) - [Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80](https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html)
 * [2023-10-14, 05:33:53](https://news.ycombinator.com/item?id=37878312) - [Why I Eat Old Cheese (and Why You Should Too) (2020)](https://www.cheeseprofessor.com/blog/why-i-eat-old-cheese-and-why-you-should-too)
+* [2023-10-14, 05:06:51](https://news.ycombinator.com/item?id=37878231) - [The Apple Macintosh Primer (1984) [pdf]](https://vintageapple.org/macbooks/pdf/The_Apple_Macintosh_Primer_1984.pdf)
 * [2023-10-14, 05:03:43](https://news.ycombinator.com/item?id=37878218) - [Israel Deploys Semi-Autonomous Machine Gun Robot to Gaza Border (2021)](https://www.thedefensepost.com/2021/07/01/israel-machine-gun-robot-gaza-border/)
 * [2023-10-14, 04:47:45](https://news.ycombinator.com/item?id=37878154) - [Traditionally Horny](https://danbaltic.substack.com/p/traditionally-horny)
 * [2023-10-14, 04:43:58](https://news.ycombinator.com/item?id=37878145) - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
