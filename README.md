@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 21:35:51](https://news.ycombinator.com/item?id=37893601) - [Florida men scammed more than $1M out of Uber Eats](https://www.insider.com/2-florida-men-scammed-more-than-1-million-uber-eats-2023-8)
 * [2023-10-15, 21:17:29](https://news.ycombinator.com/item?id=37893467) - [The largest dam removal in history stirs hopes of restoring tribes' way of life](https://www.latimes.com/environment/story/2023-10-05/klamath-dam-removal-tribes)
 * [2023-10-15, 21:00:30](https://news.ycombinator.com/item?id=37893337) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-10-15, 20:52:25](https://news.ycombinator.com/item?id=37893291) - [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
@@ -27,7 +28,6 @@
 * [2023-10-13, 21:39:58](https://news.ycombinator.com/item?id=37875924) - [\"Building Machines That Learn and Think Like People\", 7 Years Later](https://gonzoml.substack.com/p/building-machines-that-learn-and)
 * [2023-10-13, 21:37:48](https://news.ycombinator.com/item?id=37875898) - [Single-cell genomic atlas for maturation of human cerebellum in early childhood](https://www.science.org/doi/10.1126/scitranslmed.ade1283)
 * [2023-10-13, 20:23:28](https://news.ycombinator.com/item?id=37875193) - [The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
-* [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A wild idea to protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
 * [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html)
 * [2023-10-12, 19:53:45](https://news.ycombinator.com/item?id=37862317) - [Show HN: OpenBLE, Swagger for Bluetooth](https://demo.openble.org)
 
