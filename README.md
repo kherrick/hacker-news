@@ -27,9 +27,9 @@
 * [2023-10-13, 21:39:58](https://news.ycombinator.com/item?id=37875924) - [\"Building Machines That Learn and Think Like People\", 7 Years Later](https://gonzoml.substack.com/p/building-machines-that-learn-and)
 * [2023-10-13, 21:37:48](https://news.ycombinator.com/item?id=37875898) - [Single-cell genomic atlas for maturation of human cerebellum in early childhood](https://www.science.org/doi/10.1126/scitranslmed.ade1283)
 * [2023-10-13, 20:23:28](https://news.ycombinator.com/item?id=37875193) - [The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
+* [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A wild idea to protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
 * [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html)
 * [2023-10-12, 19:53:45](https://news.ycombinator.com/item?id=37862317) - [Show HN: OpenBLE, Swagger for Bluetooth](https://demo.openble.org)
-* [2023-10-12, 19:32:02](https://news.ycombinator.com/item?id=37861983) - [Jumperless: Hackaday Prize 2023 [video]](https://www.youtube.com/watch?v=_k0aKM68Xl4)
 
 ## [Archives](archives/index.md)
 
