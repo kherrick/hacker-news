@@ -12,6 +12,7 @@
 * [2023-10-15, 05:15:59](https://news.ycombinator.com/item?id=37887071) - [Decline in Independent Activity as a Cause of  Decline in Child Mental Health](https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf)
 * [2023-10-15, 05:10:49](https://news.ycombinator.com/item?id=37887049) - [Vercel employee used customer information to pursue a personal trademark matter](https://twitter.com/vercel_support/status/1713295474998772215)
 * [2023-10-15, 04:43:52](https://news.ycombinator.com/item?id=37886945) - [FBI warns against using public USB charging ports](https://abcnews.go.com/Politics/fbi-warns-public-charging-stations/story?id=98503419)
+* [2023-10-15, 04:11:37](https://news.ycombinator.com/item?id=37886818) - [On the Experience of Being Poor-Ish, for People Who Aren't](https://www.residentcontrarian.com/p/on-the-experience-of-being-poor-ish)
 * [2023-10-15, 02:47:03](https://news.ycombinator.com/item?id=37886420) - [Jupe: Off-grid shelters that pop up anywhere on Earth](https://www.jupe.com/get-jupe)
 * [2023-10-15, 02:45:23](https://news.ycombinator.com/item?id=37886413) - [Gnome developer proposes removing the X11 session](https://www.theregister.com/2023/10/13/gnome_proposes_dropping_x11/)
 * [2023-10-15, 02:23:54](https://news.ycombinator.com/item?id=37886314) - [Steve's Explanation of the Viterbi Algorithm (2003)](https://www.cs.toronto.edu/~sengels/tutorials/viterbi.html)
