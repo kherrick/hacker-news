@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 21:15:02](https://news.ycombinator.com/item?id=37893449) - [2006 Palestinian Legislative Election](https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election)
 * [2023-10-15, 21:00:30](https://news.ycombinator.com/item?id=37893337) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-10-15, 20:52:25](https://news.ycombinator.com/item?id=37893291) - [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
 * [2023-10-15, 20:27:17](https://news.ycombinator.com/item?id=37893111) - [Bytecode and the Busicom (2022)](https://thechipletter.substack.com/p/bytecode-and-the-busicom)
@@ -22,7 +23,6 @@
 * [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
 * [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-15, 10:37:13](https://news.ycombinator.com/item?id=37888606) - [Show HN: \"Interactive\" Italian Poetry for English Speakers](https://italianpoetry.it/)
-* [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 * [2023-10-13, 21:39:58](https://news.ycombinator.com/item?id=37875924) - [\"Building Machines That Learn and Think Like People\", 7 Years Later](https://gonzoml.substack.com/p/building-machines-that-learn-and)
 * [2023-10-13, 21:37:48](https://news.ycombinator.com/item?id=37875898) - [Single-cell genomic atlas for maturation of human cerebellum in early childhood](https://www.science.org/doi/10.1126/scitranslmed.ade1283)
 * [2023-10-13, 21:16:17](https://news.ycombinator.com/item?id=37875723) - [Self-Taught Optimizer (Stop): Recursively Self-Improving Code Generation](https://arxiv.org/abs/2310.02304)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 21:15:02](https://news.ycombinator.com/item?id=37893449) - [2006 Palestinian Legislative Election](https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election)
 * [2023-10-15, 21:00:30](https://news.ycombinator.com/item?id=37893337) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-10-15, 20:52:25](https://news.ycombinator.com/item?id=37893291) - [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
 * [2023-10-15, 20:27:17](https://news.ycombinator.com/item?id=37893111) - [Bytecode and the Busicom (2022)](https://thechipletter.substack.com/p/bytecode-and-the-busicom)
