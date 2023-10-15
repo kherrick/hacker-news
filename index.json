@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-15, 18:22:12",
+      "https://news.ycombinator.com/item?id=37892061"
+    ],
+    [
+      "Show HN: Pg_yregress, Structured Testing for Postgres",
+      "https://github.com/omnigres/omnigres/tree/master/pg_yregress"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 18:01:30",
+      "https://news.ycombinator.com/item?id=37891886"
+    ],
+    [
+      "Finland to vote against the EU mass surveillance and encryption ban directive",
+      "https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 17:55:24",
+      "https://news.ycombinator.com/item?id=37891848"
+    ],
+    [
+      "Zephyr 7B – Mistral Finetune that responds like ChatGPT",
+      "https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 17:11:39",
       "https://news.ycombinator.com/item?id=37891518"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2023-10-15, 13:40:26",
-      "https://news.ycombinator.com/item?id=37889631"
-    ],
-    [
-      "Trying out C++20's modules with Clang and Make",
-      "https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 13:37:09",
-      "https://news.ycombinator.com/item?id=37889599"
-    ],
-    [
-      "\"Last Week in Collapse\"",
-      "https://substack.com/@lastweekincollapse"
-    ]
-  ],
-  [
-    [
       "2023-10-15, 13:11:03",
       "https://news.ycombinator.com/item?id=37889444"
     ],
@@ -217,16 +227,6 @@
     [
       "BeagleV-Ahead open-source RISC-V single board computer",
       "https://www.beagleboard.org/boards/beaglev-ahead"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 05:43:39",
-      "https://news.ycombinator.com/item?id=37887204"
-    ],
-    [
-      "Transactions and Concurrency in PostgreSQL",
-      "https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html"
     ]
   ],
   [
