@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 13:45:21](https://news.ycombinator.com/item?id=37889666) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2023-10-15, 13:34:12](https://news.ycombinator.com/item?id=37889580) - [2023 was earth's warmest September In 174 year record](https://www.noaa.gov/news/topping-charts-september-2023-was-earths-warmest-september-in-174-year-record)
 * [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-15, 12:01:06](https://news.ycombinator.com/item?id=37889032) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
 * [2023-10-15, 12:01:05](https://news.ycombinator.com/item?id=37889031) - [Disney Mocked for Ludicrously Fake CGI \"Actors\" in Crowd Scene](https://futurism.com/the-byte/disney-mocked-fake-cgi-actors-crowd-scene)
-* [2023-10-15, 11:43:37](https://news.ycombinator.com/item?id=37888948) - ['Terminating Internet Access over Piracy Claims Is Drastic and Overbroad'](https://torrentfreak.com/terminating-internet-access-over-piracy-claims-is-drastic-and-overbroad-231014/)
 * [2023-10-15, 11:01:25](https://news.ycombinator.com/item?id=37888728) - [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
 * [2023-10-15, 10:37:13](https://news.ycombinator.com/item?id=37888606) - [Show HN: \"Interactive\" Italian Poetry for English Speakers](https://italianpoetry.it/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
