@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-15, 18:36:18",
+      "https://news.ycombinator.com/item?id=37892160"
+    ],
+    [
+      "My Google Play Developer account has been terminated",
+      "https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 18:34:51",
       "https://news.ycombinator.com/item?id=37892148"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Pg_yregress, Structured Testing for Postgres",
       "https://github.com/omnigres/omnigres/tree/master/pg_yregress"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 18:18:44",
+      "https://news.ycombinator.com/item?id=37892028"
+    ],
+    [
+      "SSH-audit: SSH server and client security auditing",
+      "https://github.com/jtesta/ssh-audit"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-10-15, 08:55:12",
-      "https://news.ycombinator.com/item?id=37888135"
-    ],
-    [
-      "Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees",
-      "https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/"
-    ]
-  ],
-  [
-    [
       "2023-10-15, 06:12:13",
       "https://news.ycombinator.com/item?id=37887341"
     ],
@@ -237,16 +247,6 @@
     [
       "Sessionic: A cross-browser extension to save, manage, restore tabs and sessions",
       "https://github.com/navorite/sessionic"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 10:04:25",
-      "https://news.ycombinator.com/item?id=37879329"
-    ],
-    [
-      "Ten Years Writing Book Reviews (2003)",
-      "https://dannyreviews.com/history.html"
     ]
   ],
   [
