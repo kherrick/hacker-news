@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
 * [2023-10-15, 21:35:51](https://news.ycombinator.com/item?id=37893601) - [Florida men scammed more than $1M out of Uber Eats](https://www.insider.com/2-florida-men-scammed-more-than-1-million-uber-eats-2023-8)
+* [2023-10-15, 21:30:27](https://news.ycombinator.com/item?id=37893555) - [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
 * [2023-10-15, 21:17:29](https://news.ycombinator.com/item?id=37893467) - [The largest dam removal in history stirs hopes of restoring tribes' way of life](https://www.latimes.com/environment/story/2023-10-05/klamath-dam-removal-tribes)
 * [2023-10-15, 21:15:02](https://news.ycombinator.com/item?id=37893449) - [2006 Palestinian Legislative Election](https://en.wikipedia.org/wiki/2006_Palestinian_legislative_election)
 * [2023-10-15, 21:00:30](https://news.ycombinator.com/item?id=37893337) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
