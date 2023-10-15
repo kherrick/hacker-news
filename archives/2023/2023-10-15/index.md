@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 12:01:06](https://news.ycombinator.com/item?id=37889032) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
 * [2023-10-15, 11:01:25](https://news.ycombinator.com/item?id=37888728) - [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
 * [2023-10-15, 10:04:39](https://news.ycombinator.com/item?id=37888477) - [Cursor – The AI-First Code Editor](https://cursor.sh/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
