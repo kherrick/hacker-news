@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 * [2023-10-15, 18:01:30](https://news.ycombinator.com/item?id=37891886) - [Finland to vote against the EU mass surveillance and encryption ban directive](https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta)
-* [2023-10-15, 17:55:24](https://news.ycombinator.com/item?id=37891848) - [Zephyr 7B – Mistral Finetune that responds like ChatGPT](https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha)
+* [2023-10-15, 17:48:19](https://news.ycombinator.com/item?id=37891786) - [Centimillionaires: Elites with Investable Assets of More Than $100M](https://www.investopedia.com/new-class-of-global-elite-have-emerged-8357556)
 * [2023-10-15, 17:11:39](https://news.ycombinator.com/item?id=37891518) - [FFmpeg-online: ffpmeg running on the browser](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
 * [2023-10-15, 17:00:09](https://news.ycombinator.com/item?id=37891405) - [Kraftful (YC S19) hiring a Founding Eng – we use AI to disrupt product dev](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-10-15, 16:18:29](https://news.ycombinator.com/item?id=37891020) - [Why Async Rust?](https://without.boats/blog/why-async-rust/)
@@ -10,7 +11,6 @@
 * [2023-10-15, 15:46:59](https://news.ycombinator.com/item?id=37890723) - [Impureim Sandwich (2020)](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 * [2023-10-15, 15:40:13](https://news.ycombinator.com/item?id=37890649) - [A Fleet Prone to Captive Labor and Plunder](https://www.theoutlawocean.com/investigations/china-the-superpower-of-seafood/a-fleet-prone-to-captive-labor-and-plunder/)
-* [2023-10-15, 15:31:56](https://news.ycombinator.com/item?id=37890570) - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
 * [2023-10-15, 15:18:39](https://news.ycombinator.com/item?id=37890453) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 15:00:29](https://news.ycombinator.com/item?id=37890305) - [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
 * [2023-10-15, 14:45:45](https://news.ycombinator.com/item?id=37890206) - [Bodybuilder Charles Atlas' classic website](https://www.charlesatlas.com/index.html)
