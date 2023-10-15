@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
 * [2023-10-15, 17:00:09](https://news.ycombinator.com/item?id=37891405) - [Kraftful (YC S19) hiring a Founding Eng – we use AI to disrupt product dev](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
+* [2023-10-15, 16:09:12](https://news.ycombinator.com/item?id=37890933) - [If the first solar entrepreneur hadn't been kidnapped?](https://techxplore.com/news/2023-10-solar-entrepreneur-hadnt-kidnapped-fossil.html)
 * [2023-10-15, 15:48:33](https://news.ycombinator.com/item?id=37890742) - [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
 * [2023-10-15, 15:48:32](https://news.ycombinator.com/item?id=37890740) - [Automakers Have Big Hopes for EVs; Buyers Aren't Cooperating](https://www.wsj.com/business/autos/electric-vehicle-buyer-interest-67b407cb)
 * [2023-10-15, 15:47:07](https://news.ycombinator.com/item?id=37890725) - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
