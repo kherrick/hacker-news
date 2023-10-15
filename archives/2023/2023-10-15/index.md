@@ -8,6 +8,7 @@
 * [2023-10-15, 08:55:12](https://news.ycombinator.com/item?id=37888135) - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
 * [2023-10-15, 07:01:37](https://news.ycombinator.com/item?id=37887562) - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
 * [2023-10-15, 07:00:48](https://news.ycombinator.com/item?id=37887558) - [Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
+* [2023-10-15, 06:28:53](https://news.ycombinator.com/item?id=37887426) - [Breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html?)
 * [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 * [2023-10-15, 05:47:21](https://news.ycombinator.com/item?id=37887221) - [Polar Views of Titan's Global Topography](https://science.nasa.gov/resource/polar-views-of-titans-global-topography/)
 * [2023-10-15, 05:46:25](https://news.ycombinator.com/item?id=37887217) - [The fascist state of Paw Patrol (2021)](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
