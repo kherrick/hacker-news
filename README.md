@@ -7,7 +7,7 @@
 * [2023-10-15, 15:31:56](https://news.ycombinator.com/item?id=37890570) - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
 * [2023-10-15, 14:45:45](https://news.ycombinator.com/item?id=37890206) - [Bodybuilder Charles Atlas' classic website](https://www.charlesatlas.com/index.html)
 * [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
-* [2023-10-15, 14:17:04](https://news.ycombinator.com/item?id=37889925) - [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
+* [2023-10-15, 14:36:20](https://news.ycombinator.com/item?id=37890110) - [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
 * [2023-10-15, 14:07:06](https://news.ycombinator.com/item?id=37889844) - [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
 * [2023-10-15, 14:04:09](https://news.ycombinator.com/item?id=37889818) - [MariaDB ditches products and staff in restructure](https://www.theregister.com/2023/10/13/mariadb_restructure/)
 * [2023-10-15, 14:01:28](https://news.ycombinator.com/item?id=37889790) - [Node.js – v20.8.1](https://nodejs.org/en/blog/release/v20.8.1)
