@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
 * [2023-10-14, 23:09:31](https://news.ycombinator.com/item?id=37885116) - [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
+* [2023-10-14, 23:00:11](https://news.ycombinator.com/item?id=37885044) - [Real-Time Research: Top Reference Systems (Design Systems and UI Libs) 2023](https://app.excalidraw.com/l/5M4i1z9oaht/2Be9A63OXZt)
+* [2023-10-14, 22:53:07](https://news.ycombinator.com/item?id=37885000) - [WordPress blogs can now be followed on Mastodon and other federated platforms](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/)
 * [2023-10-14, 22:25:12](https://news.ycombinator.com/item?id=37884804) - [The Existential Risk of AGI](https://joscha.substack.com/p/the-existential-risk-of-agi)
 * [2023-10-14, 22:16:47](https://news.ycombinator.com/item?id=37884749) - [The Scientist and the Warplane That Became Britain's Most Unlikely Airliner](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
 * [2023-10-14, 22:06:20](https://news.ycombinator.com/item?id=37884683) - [Anti-Anti-Adblocker uBlock filter to get rid of the annoying YouTube message](https://twitter.com/endermanch/status/1713129854818742684)
@@ -70,6 +72,8 @@
 * [2023-10-14, 09:28:51](https://news.ycombinator.com/item?id=37879197) - [The UK's Association to Horizon Europe and Copernicus](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_4373)
 * [2023-10-14, 09:02:23](https://news.ycombinator.com/item?id=37879077) - [All of ChatGPT's System Prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
 * [2023-10-14, 08:44:16](https://news.ycombinator.com/item?id=37879027) - [Fcron Is the Best Cron](https://dbohdan.com/fcron)
+* [2023-10-14, 08:37:08](https://news.ycombinator.com/item?id=37878997) - [Robots Ranked](https://robotsguide.com/rankings)
+* [2023-10-14, 07:59:02](https://news.ycombinator.com/item?id=37878851) - [Linux on an 8bit Microcontroller](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
 * [2023-10-14, 07:24:45](https://news.ycombinator.com/item?id=37878714) - [The Datassettes](http://www.linusakesson.net/hardware/datassettes/index.php)
 * [2023-10-14, 07:00:17](https://news.ycombinator.com/item?id=37878633) - [Meticulous (YC S21) Is Hiring to Build AI for Testing](https://news.ycombinator.com/item?id=37878633)
 * [2023-10-14, 06:48:07](https://news.ycombinator.com/item?id=37878587) - [UK's nuclear fusion site ends experiments after 40 years](https://www.bbc.co.uk/news/science-environment-67101176)
