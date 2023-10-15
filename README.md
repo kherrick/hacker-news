@@ -12,7 +12,7 @@
 * [2023-10-15, 19:33:35](https://news.ycombinator.com/item?id=37892684) - [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data)
 * [2023-10-15, 19:30:25](https://news.ycombinator.com/item?id=37892654) - [Hyphens in man pages](https://lists.debian.org/debian-devel/2023/10/msg00083.html)
 * [2023-10-15, 19:20:45](https://news.ycombinator.com/item?id=37892560) - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
-* [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
+* [2023-10-15, 18:46:16](https://news.ycombinator.com/item?id=37892249) - [Spain tech job market is facing a hiring freeze](https://samagame.com/en/latest/after-years-of-prosperity-the-spanish-technology-sector-faces-an-unprecedented-situation-the-hiring-freeze/)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 * [2023-10-15, 15:48:33](https://news.ycombinator.com/item?id=37890742) - [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
 * [2023-10-15, 15:47:07](https://news.ycombinator.com/item?id=37890725) - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
