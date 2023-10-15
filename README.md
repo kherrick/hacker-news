@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 11:01:25](https://news.ycombinator.com/item?id=37888728) - [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
 * [2023-10-15, 10:04:39](https://news.ycombinator.com/item?id=37888477) - [Cursor – The AI-First Code Editor](https://cursor.sh/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
 * [2023-10-15, 08:55:12](https://news.ycombinator.com/item?id=37888135) - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
@@ -9,7 +10,6 @@
 * [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 * [2023-10-15, 05:43:39](https://news.ycombinator.com/item?id=37887204) - [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
 * [2023-10-15, 05:40:29](https://news.ycombinator.com/item?id=37887184) - [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
-* [2023-10-15, 04:43:52](https://news.ycombinator.com/item?id=37886945) - [FBI warns against using public USB charging ports](https://abcnews.go.com/Politics/fbi-warns-public-charging-stations/story?id=98503419)
 * [2023-10-15, 04:11:37](https://news.ycombinator.com/item?id=37886818) - [On the Experience of Being Poor-Ish, for People Who Aren't](https://www.residentcontrarian.com/p/on-the-experience-of-being-poor-ish)
 * [2023-10-15, 03:47:42](https://news.ycombinator.com/item?id=37886698) - [Show HN: Mini-Woo, luanch Telegram mini app for WooCommerce in seconds](https://github.com/mini-woo/mini-woo)
 * [2023-10-15, 02:47:03](https://news.ycombinator.com/item?id=37886420) - [Jupe: Off-grid shelters that pop up anywhere on Earth](https://www.jupe.com/get-jupe)
