@@ -21,6 +21,7 @@
 * [2023-10-15, 00:30:23](https://news.ycombinator.com/item?id=37885636) - [Recursive Recipes](https://recursiverecipes.schollz.com/)
 * [2023-10-14, 22:16:47](https://news.ycombinator.com/item?id=37884749) - [The British Mosquito once carried Niels Bohr in its bomb bay](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
 * [2023-10-14, 21:44:57](https://news.ycombinator.com/item?id=37884532) - [Think in Analog, Capture in Digital](https://huwfulcher.com/blog/2023-10-14-think-in-analog-capture-in-digital/)
+* [2023-10-14, 21:20:26](https://news.ycombinator.com/item?id=37884375) - [Show HN: mystery-o-matic offers a daily random murder mystery](https://mystery-o-matic.com/?hn)
 * [2023-10-14, 18:04:28](https://news.ycombinator.com/item?id=37882718) - [The Welsh Punk Scene of the 1980s](https://www.huckmag.com/article/inside-the-80s-welsh-punk-scene)
 * [2023-10-14, 16:22:51](https://news.ycombinator.com/item?id=37881771) - [Show HN: Firefox add-on to open YouTube videos in alternative front ends](https://github.com/d3vr/yt-siphon)
 * [2023-10-14, 10:04:25](https://news.ycombinator.com/item?id=37879329) - [Ten Years Writing Book Reviews (2003)](https://dannyreviews.com/history.html)
@@ -29,7 +30,6 @@
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-12, 21:16:51](https://news.ycombinator.com/item?id=37863255) - [History of the Mackintosh: 200 years of the classic raincoat](https://www.theguardian.com/news/2023/oct/12/history-mackintosh-raincoat-charles-macintosh)
 * [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A Wild Idea to Protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
-* [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)
 
