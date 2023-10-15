@@ -25,7 +25,7 @@
 * [2023-10-14, 21:44:57](https://news.ycombinator.com/item?id=37884532) - [Think in Analog, Capture in Digital](https://huwfulcher.com/blog/2023-10-14-think-in-analog-capture-in-digital/)
 * [2023-10-14, 18:04:28](https://news.ycombinator.com/item?id=37882718) - [The Welsh Punk Scene of the 1980s](https://www.huckmag.com/article/inside-the-80s-welsh-punk-scene)
 * [2023-10-14, 10:04:25](https://news.ycombinator.com/item?id=37879329) - [Ten Years Writing Book Reviews (2003)](https://dannyreviews.com/history.html)
-* [2023-10-14, 09:02:23](https://news.ycombinator.com/item?id=37879077) - [ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
+* [2023-10-13, 21:37:48](https://news.ycombinator.com/item?id=37875898) - [Single-cell genomic atlas for maturation of human cerebellum in early childhood](https://www.science.org/doi/10.1126/scitranslmed.ade1283)
 * [2023-10-13, 21:16:17](https://news.ycombinator.com/item?id=37875723) - [Self-Taught Optimizer (Stop): Recursively Self-Improving Code Generation](https://arxiv.org/abs/2310.02304)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A Wild Idea to Protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)

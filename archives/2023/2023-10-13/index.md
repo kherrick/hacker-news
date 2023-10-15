@@ -6,6 +6,7 @@
 
 * [2023-10-13, 22:30:18](https://news.ycombinator.com/item?id=37876328) - [Dropbox AI](https://blog.dropbox.com/topics/product/introducing-AI-powered-tools%3C)
 * [2023-10-13, 21:42:58](https://news.ycombinator.com/item?id=37875943) - [Cloudy with a Chance of Insanity: Unsticking iCloud Drive](https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/)
+* [2023-10-13, 21:37:48](https://news.ycombinator.com/item?id=37875898) - [Single-cell genomic atlas for maturation of human cerebellum in early childhood](https://www.science.org/doi/10.1126/scitranslmed.ade1283)
 * [2023-10-13, 21:16:17](https://news.ycombinator.com/item?id=37875723) - [Self-Taught Optimizer (Stop): Recursively Self-Improving Code Generation](https://arxiv.org/abs/2310.02304)
 * [2023-10-13, 21:00:38](https://news.ycombinator.com/item?id=37875574) - [Kodable (YC IK12) is hiring a Unity Game Developer to help teach kids to code](https://www.ycombinator.com/companies/kodable/jobs/67s5cf8-unity-game-developer)
 * [2023-10-13, 20:57:35](https://news.ycombinator.com/item?id=37875542) - [Playing Pokemon Red with Reinforcement Learning](https://github.com/PWhiddy/PokemonRedExperiments)
