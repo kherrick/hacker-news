@@ -16,7 +16,7 @@
 * [2023-10-14, 22:16:47](https://news.ycombinator.com/item?id=37884749) - [The British Mosquito once carried Niels Bohr in its bomb bay](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
 * [2023-10-14, 21:01:07](https://news.ycombinator.com/item?id=37884240) - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
 * [2023-10-14, 20:13:12](https://news.ycombinator.com/item?id=37883862) - [QNX Demo Disk screen shots](http://toastytech.com/guis/qnxdemo.html)
-* [2023-10-14, 18:04:28](https://news.ycombinator.com/item?id=37882718) - [The Welsh Punk Scene of the 1980S](https://www.huckmag.com/article/inside-the-80s-welsh-punk-scene)
+* [2023-10-14, 18:04:28](https://news.ycombinator.com/item?id=37882718) - [The Welsh Punk Scene of the 1980s](https://www.huckmag.com/article/inside-the-80s-welsh-punk-scene)
 * [2023-10-14, 18:01:33](https://news.ycombinator.com/item?id=37882685) - [The Edith Hamilton Way](https://www.newyorker.com/culture/comma-queen/the-edith-hamilton-way)
 * [2023-10-14, 16:22:51](https://news.ycombinator.com/item?id=37881771) - [Show HN: Firefox add-on to open YouTube videos in alternative front ends](https://github.com/d3vr/yt-siphon)
 * [2023-10-14, 16:16:34](https://news.ycombinator.com/item?id=37881699) - [Escape analysis hates copy elision (2021)](https://quuxplusone.github.io/blog/2021/03/07/copy-elision-borks-escape-analysis/)
