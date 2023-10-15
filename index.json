@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-10-15, 01:34:41",
-      "https://news.ycombinator.com/item?id=37886006"
-    ],
-    [
-      "Lake City Ammo Plant Cancels All Commercial Contracts",
-      "https://stapledefense.com/lake-city-plant-commercial-contracts/"
-    ]
-  ],
-  [
-    [
       "2023-10-15, 01:01:25",
       "https://news.ycombinator.com/item?id=37885813"
     ],
     [
       "Show HN: 3D Binpacking Algorithm Visualized",
       "https://skusavvy.com/bin-packing-preview"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 01:00:45",
-      "https://news.ycombinator.com/item?id=37885805"
-    ],
-    [
-      "AI accurately predicted 70% of earthquakes a week in advance",
-      "https://www.openaccessgovernment.org/ai-powered-earthquake-forecasting-proves-to-be-a-success/168020/"
     ]
   ],
   [
@@ -111,16 +91,6 @@
   ],
   [
     [
-      "2023-10-14, 21:08:06",
-      "https://news.ycombinator.com/item?id=37884292"
-    ],
-    [
-      "YouTube gets reminder to follow EU law over Hamas content",
-      "https://www.politico.eu/article/youtube-gets-reminder-to-follow-eu-content-law-over-hamas-content/"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 21:01:07",
       "https://news.ycombinator.com/item?id=37884240"
     ],
@@ -131,12 +101,12 @@
   ],
   [
     [
-      "2023-10-14, 20:56:29",
-      "https://news.ycombinator.com/item?id=37884205"
+      "2023-10-14, 20:53:40",
+      "https://news.ycombinator.com/item?id=37884177"
     ],
     [
-      "Lisp Badge",
-      "http://www.ulisp.com/show?2L0C"
+      "Widely accepted mathematical results that were later shown to be wrong? (2010)",
+      "https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong"
     ]
   ],
   [
@@ -231,12 +201,12 @@
   ],
   [
     [
-      "2023-10-14, 10:50:41",
-      "https://news.ycombinator.com/item?id=37879511"
+      "2023-10-14, 09:34:03",
+      "https://news.ycombinator.com/item?id=37879216"
     ],
     [
-      "The Razor Edge Book of Sharpening (1985) [pdf]",
-      "https://www.sharpeninghandbook.info/Images/Knife_Sharpening_text.pdf"
+      "PostgresJs: PostgreSQL client for Node.js and Deno",
+      "https://github.com/porsager/postgres"
     ]
   ],
   [
@@ -281,6 +251,16 @@
   ],
   [
     [
+      "2023-10-14, 06:40:05",
+      "https://news.ycombinator.com/item?id=37878558"
+    ],
+    [
+      "Daily energy expenditure through the human life course",
+      "https://research.brighton.ac.uk/en/publications/daily-energy-expenditure-through-the-human-life-course"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 19:18:58",
       "https://news.ycombinator.com/item?id=37874423"
     ],
@@ -297,6 +277,26 @@
     [
       "Websites of 2000 [video]",
       "https://www.bbc.co.uk/archive/topwebsites/zdpf46f"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 20:28:11",
+      "https://news.ycombinator.com/item?id=37862761"
+    ],
+    [
+      "The Garden of the Five Senses",
+      "https://worldsensorium.com/the-garden-of-the-five-senses/"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 14:11:18",
+      "https://news.ycombinator.com/item?id=37857417"
+    ],
+    [
+      "First word discovered in unopened Herculaneum scroll by CS student",
+      "https://scrollprize.org/firstletters"
     ]
   ]
 ]
