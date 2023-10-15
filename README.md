@@ -4,8 +4,8 @@
 * [2023-10-15, 07:00:48](https://news.ycombinator.com/item?id=37887558) - [Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
 * [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 * [2023-10-15, 05:46:25](https://news.ycombinator.com/item?id=37887217) - [The fascist state of Paw Patrol (2021)](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
+* [2023-10-15, 05:43:39](https://news.ycombinator.com/item?id=37887204) - [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
 * [2023-10-15, 05:40:29](https://news.ycombinator.com/item?id=37887184) - [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
-* [2023-10-15, 05:19:54](https://news.ycombinator.com/item?id=37887088) - [The EU–US Data Protection Framework: Balancing Economic, Security and Privacy](https://www.iai.it/en/pubblicazioni/eu-us-data-protection-framework-balancing-economic-security-and-privacy-considerations)
 * [2023-10-15, 05:15:59](https://news.ycombinator.com/item?id=37887071) - [Decline in independent activity as a cause of  decline in child mental health](https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf)
 * [2023-10-15, 04:43:52](https://news.ycombinator.com/item?id=37886945) - [FBI warns against using public USB charging ports](https://abcnews.go.com/Politics/fbi-warns-public-charging-stations/story?id=98503419)
 * [2023-10-15, 04:11:37](https://news.ycombinator.com/item?id=37886818) - [On the Experience of Being Poor-Ish, for People Who Aren't](https://www.residentcontrarian.com/p/on-the-experience-of-being-poor-ish)
@@ -14,7 +14,6 @@
 * [2023-10-15, 02:23:54](https://news.ycombinator.com/item?id=37886314) - [Steve's Explanation of the Viterbi Algorithm (2003)](https://www.cs.toronto.edu/~sengels/tutorials/viterbi.html)
 * [2023-10-15, 01:01:25](https://news.ycombinator.com/item?id=37885813) - [Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
 * [2023-10-15, 00:30:23](https://news.ycombinator.com/item?id=37885636) - [Recursive Recipes](https://recursiverecipes.schollz.com/)
-* [2023-10-14, 23:09:31](https://news.ycombinator.com/item?id=37885116) - [Linux on the Web: Getting a handle on the files in the browser](https://linuxontheweb.github.io/docs/what-it-is.html)
 * [2023-10-14, 22:16:47](https://news.ycombinator.com/item?id=37884749) - [The British Mosquito once carried Niels Bohr in its bomb bay](https://www.thedrive.com/the-war-zone/the-nuclear-scientist-and-the-warplane-that-became-britains-most-unlikely-airliner)
 * [2023-10-14, 21:44:57](https://news.ycombinator.com/item?id=37884532) - [Think in Analog, Capture in Digital](https://huwfulcher.com/blog/2023-10-14-think-in-analog-capture-in-digital/)
 * [2023-10-14, 20:13:12](https://news.ycombinator.com/item?id=37883862) - [QNX Demo Disk screen shots](http://toastytech.com/guis/qnxdemo.html)
@@ -30,6 +29,7 @@
 * [2023-10-12, 22:21:10](https://news.ycombinator.com/item?id=37863928) - [Websites of 2000 [video]](https://www.bbc.co.uk/archive/topwebsites/zdpf46f)
 * [2023-10-12, 21:16:51](https://news.ycombinator.com/item?id=37863255) - [History of the Mackintosh: 200 years of the classic raincoat](https://www.theguardian.com/news/2023/oct/12/history-mackintosh-raincoat-charles-macintosh)
 * [2023-10-12, 20:28:11](https://news.ycombinator.com/item?id=37862761) - [The Garden of the Five Senses](https://worldsensorium.com/the-garden-of-the-five-senses/)
+* [2023-10-12, 14:11:18](https://news.ycombinator.com/item?id=37857417) - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 
 ## [Archives](archives/index.md)
 

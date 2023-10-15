@@ -9,6 +9,7 @@
 * [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 * [2023-10-15, 05:47:21](https://news.ycombinator.com/item?id=37887221) - [Polar Views of Titan's Global Topography](https://science.nasa.gov/resource/polar-views-of-titans-global-topography/)
 * [2023-10-15, 05:46:25](https://news.ycombinator.com/item?id=37887217) - [The fascist state of Paw Patrol (2021)](https://thecritic.co.uk/the-fascist-state-of-paw-patrol/)
+* [2023-10-15, 05:43:39](https://news.ycombinator.com/item?id=37887204) - [Transactions and Concurrency in PostgreSQL](https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html)
 * [2023-10-15, 05:40:29](https://news.ycombinator.com/item?id=37887184) - [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
 * [2023-10-15, 05:19:54](https://news.ycombinator.com/item?id=37887088) - [The EU–US Data Protection Framework: Balancing Economic, Security and Privacy](https://www.iai.it/en/pubblicazioni/eu-us-data-protection-framework-balancing-economic-security-and-privacy-considerations)
 * [2023-10-15, 05:15:59](https://news.ycombinator.com/item?id=37887071) - [Decline in Independent Activity as a Cause of  Decline in Child Mental Health](https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf)
