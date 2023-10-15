@@ -12,6 +12,7 @@
 * [2023-10-15, 15:46:59](https://news.ycombinator.com/item?id=37890723) - [Impureim Sandwich (2020)](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 * [2023-10-15, 15:31:56](https://news.ycombinator.com/item?id=37890570) - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
+* [2023-10-15, 15:18:39](https://news.ycombinator.com/item?id=37890453) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 14:45:45](https://news.ycombinator.com/item?id=37890206) - [Bodybuilder Charles Atlas' classic website](https://www.charlesatlas.com/index.html)
 * [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
 * [2023-10-15, 14:36:20](https://news.ycombinator.com/item?id=37890110) - [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
