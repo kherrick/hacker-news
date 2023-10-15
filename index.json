@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-10-15, 18:46:16",
-      "https://news.ycombinator.com/item?id=37892249"
-    ],
-    [
-      "Spain tech job market is facing a hiring freeze",
-      "https://samagame.com/en/latest/after-years-of-prosperity-the-spanish-technology-sector-faces-an-unprecedented-situation-the-hiring-freeze/"
-    ]
-  ],
-  [
-    [
       "2023-10-15, 18:18:44",
       "https://news.ycombinator.com/item?id=37892028"
     ],
@@ -287,6 +277,16 @@
     [
       "Revisited mass of the Milky Way is much smaller than expectations from cosmology",
       "https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 20:09:47",
+      "https://news.ycombinator.com/item?id=37862532"
+    ],
+    [
+      "Stark-DB: SQLite-backed, change-tracking database available over HTTP",
+      "https://www.npmjs.com/package/stark-db"
     ]
   ],
   [
