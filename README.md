@@ -10,6 +10,7 @@
 * [2023-10-15, 19:33:35](https://news.ycombinator.com/item?id=37892684) - [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data)
 * [2023-10-15, 19:30:25](https://news.ycombinator.com/item?id=37892654) - [Hyphens in man pages](https://lists.debian.org/debian-devel/2023/10/msg00083.html)
 * [2023-10-15, 19:20:45](https://news.ycombinator.com/item?id=37892560) - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
+* [2023-10-15, 18:46:16](https://news.ycombinator.com/item?id=37892249) - [Spain tech job market is facing a hiring freeze](https://samagame.com/en/latest/after-years-of-prosperity-the-spanish-technology-sector-faces-an-unprecedented-situation-the-hiring-freeze/)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 * [2023-10-15, 15:48:33](https://news.ycombinator.com/item?id=37890742) - [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
@@ -27,7 +28,6 @@
 * [2023-10-13, 21:39:58](https://news.ycombinator.com/item?id=37875924) - [\"Building Machines That Learn and Think Like People\", 7 Years Later](https://gonzoml.substack.com/p/building-machines-that-learn-and)
 * [2023-10-13, 21:37:48](https://news.ycombinator.com/item?id=37875898) - [Single-cell genomic atlas for maturation of human cerebellum in early childhood](https://www.science.org/doi/10.1126/scitranslmed.ade1283)
 * [2023-10-13, 20:23:28](https://news.ycombinator.com/item?id=37875193) - [The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
-* [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A wild idea to protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
 * [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html)
 * [2023-10-12, 19:53:45](https://news.ycombinator.com/item?id=37862317) - [Show HN: OpenBLE, Swagger for Bluetooth](https://demo.openble.org)
 
