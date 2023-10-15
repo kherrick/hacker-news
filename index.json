@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-10-15, 15:48:33",
-      "https://news.ycombinator.com/item?id=37890742"
-    ],
-    [
-      "Omnivore – free, open source, read-it-later App",
-      "https://omnivore.app/"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 15:48:32",
-      "https://news.ycombinator.com/item?id=37890740"
-    ],
-    [
-      "Automakers Have Big Hopes for EVs; Buyers Aren't Cooperating",
-      "https://www.wsj.com/business/autos/electric-vehicle-buyer-interest-67b407cb"
-    ]
-  ],
-  [
-    [
       "2023-10-15, 15:47:07",
       "https://news.ycombinator.com/item?id=37890725"
     ],
@@ -51,6 +31,16 @@
   ],
   [
     [
+      "2023-10-15, 15:31:56",
+      "https://news.ycombinator.com/item?id=37890570"
+    ],
+    [
+      "Scientists begin building AI for scientific discovery using tech behind ChatGPT",
+      "https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 14:45:45",
       "https://news.ycombinator.com/item?id=37890206"
     ],
@@ -67,16 +57,6 @@
     [
       "Signtime.apple: One-on-one sign language interpreting by Apple",
       "https://www.signtime.apple/applecare/us-EN/asl"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 14:36:20",
-      "https://news.ycombinator.com/item?id=37890110"
-    ],
-    [
-      "Ending Junk Fees, the Most Annoying Thing in American Commerce",
-      "https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2023-10-14, 05:06:51",
+      "https://news.ycombinator.com/item?id=37878231"
+    ],
+    [
+      "The Apple Macintosh Primer (1984) [pdf]",
+      "https://vintageapple.org/macbooks/pdf/The_Apple_Macintosh_Primer_1984.pdf"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 21:16:17",
       "https://news.ycombinator.com/item?id=37875723"
     ],
     [
       "Self-Taught Optimizer (Stop): Recursively Self-Improving Code Generation",
       "https://arxiv.org/abs/2310.02304"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 19:18:58",
+      "https://news.ycombinator.com/item?id=37874423"
+    ],
+    [
+      "Implementing a GPU's programming model on a CPU",
+      "http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html"
     ]
   ],
   [
