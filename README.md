@@ -7,7 +7,6 @@
 * [2023-10-15, 15:31:56](https://news.ycombinator.com/item?id=37890570) - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
 * [2023-10-15, 14:45:45](https://news.ycombinator.com/item?id=37890206) - [Bodybuilder Charles Atlas' classic website](https://www.charlesatlas.com/index.html)
 * [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
-* [2023-10-15, 14:17:38](https://news.ycombinator.com/item?id=37889933) - [Do authors get paid for ad placement in novels?](https://news.ycombinator.com/item?id=37889933)
 * [2023-10-15, 14:17:04](https://news.ycombinator.com/item?id=37889925) - [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
 * [2023-10-15, 14:07:06](https://news.ycombinator.com/item?id=37889844) - [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
 * [2023-10-15, 14:04:09](https://news.ycombinator.com/item?id=37889818) - [MariaDB ditches products and staff in restructure](https://www.theregister.com/2023/10/13/mariadb_restructure/)
@@ -30,6 +29,7 @@
 * [2023-10-13, 21:16:17](https://news.ycombinator.com/item?id=37875723) - [Self-Taught Optimizer (Stop): Recursively Self-Improving Code Generation](https://arxiv.org/abs/2310.02304)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A Wild Idea to Protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
+* [2023-10-12, 19:53:45](https://news.ycombinator.com/item?id=37862317) - [Show HN: OpenBLE, Swagger for Bluetooth](https://demo.openble.org)
 
 ## [Archives](archives/index.md)
 
