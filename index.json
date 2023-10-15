@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-15, 17:11:39",
+      "https://news.ycombinator.com/item?id=37891518"
+    ],
+    [
+      "FFmpeg-online: ffpmeg running on the browser",
+      "https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions="
+    ]
+  ],
+  [
+    [
       "2023-10-15, 17:00:09",
       "https://news.ycombinator.com/item?id=37891405"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-10-15, 16:09:12",
-      "https://news.ycombinator.com/item?id=37890933"
+      "2023-10-15, 16:18:29",
+      "https://news.ycombinator.com/item?id=37891020"
     ],
     [
-      "If the first solar entrepreneur hadn't been kidnapped?",
-      "https://techxplore.com/news/2023-10-solar-entrepreneur-hadnt-kidnapped-fossil.html"
+      "Why Async Rust?",
+      "https://without.boats/blog/why-async-rust/"
     ]
   ],
   [
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2023-10-15, 15:40:13",
+      "https://news.ycombinator.com/item?id=37890649"
+    ],
+    [
+      "A Fleet Prone to Captive Labor and Plunder",
+      "https://www.theoutlawocean.com/investigations/china-the-superpower-of-seafood/a-fleet-prone-to-captive-labor-and-plunder/"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 15:31:56",
       "https://news.ycombinator.com/item?id=37890570"
     ],
@@ -67,6 +87,16 @@
     [
       "Background job queues and priorities may be the wrong path",
       "https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 15:00:29",
+      "https://news.ycombinator.com/item?id=37890305"
+    ],
+    [
+      "Distribution Release: Window Maker Live 0.96",
+      "https://distrowatch.com/index-mobile.php?newsid=11963"
     ]
   ],
   [
@@ -97,26 +127,6 @@
     [
       "Critical Ignoring as a Core Competence for Digital Citizens",
       "https://journals.sagepub.com/doi/10.1177/09637214221121570"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 14:04:09",
-      "https://news.ycombinator.com/item?id=37889818"
-    ],
-    [
-      "MariaDB ditches products and staff in restructure",
-      "https://www.theregister.com/2023/10/13/mariadb_restructure/"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 14:01:28",
-      "https://news.ycombinator.com/item?id=37889790"
-    ],
-    [
-      "Node.js – v20.8.1",
-      "https://nodejs.org/en/blog/release/v20.8.1"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-10-14, 21:44:57",
-      "https://news.ycombinator.com/item?id=37884532"
-    ],
-    [
-      "Think in Analog, Capture in Digital",
-      "https://huwfulcher.com/blog/2023-10-14-think-in-analog-capture-in-digital/"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 18:04:28",
       "https://news.ycombinator.com/item?id=37882718"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-10-13, 19:18:58",
-      "https://news.ycombinator.com/item?id=37874423"
-    ],
-    [
-      "Implementing a GPU's programming model on a CPU",
-      "http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html"
-    ]
-  ],
-  [
-    [
       "2023-10-12, 20:24:15",
       "https://news.ycombinator.com/item?id=37862721"
     ],
     [
       "A Wild Idea to Protect the Great Barrier Reef",
       "https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 20:10:11",
+      "https://news.ycombinator.com/item?id=37862538"
+    ],
+    [
+      "To battle moldy barracks, Fort Stewart soldiers built their own mold detectors",
+      "https://taskandpurpose.com/military-life/mold-detection-tool/"
     ]
   ],
   [
