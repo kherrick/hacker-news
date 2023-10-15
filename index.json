@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2023-10-15, 05:43:39",
+      "https://news.ycombinator.com/item?id=37887204"
+    ],
+    [
+      "Transactions and Concurrency in PostgreSQL",
+      "https://doadm-notes.blogspot.com/2023/10/transactions-and-concurrency-in.html"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 05:40:29",
       "https://news.ycombinator.com/item?id=37887184"
     ],
     [
       "Sessionic: A cross-browser extension to save, manage, restore tabs and sessions",
       "https://github.com/navorite/sessionic"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 05:19:54",
-      "https://news.ycombinator.com/item?id=37887088"
-    ],
-    [
-      "The EU–US Data Protection Framework: Balancing Economic, Security and Privacy",
-      "https://www.iai.it/en/pubblicazioni/eu-us-data-protection-framework-balancing-economic-security-and-privacy-considerations"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Recursive Recipes",
       "https://recursiverecipes.schollz.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 23:09:31",
-      "https://news.ycombinator.com/item?id=37885116"
-    ],
-    [
-      "Linux on the Web: Getting a handle on the files in the browser",
-      "https://linuxontheweb.github.io/docs/what-it-is.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Garden of the Five Senses",
       "https://worldsensorium.com/the-garden-of-the-five-senses/"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 14:11:18",
+      "https://news.ycombinator.com/item?id=37857417"
+    ],
+    [
+      "First word discovered in unopened Herculaneum scroll by CS student",
+      "https://scrollprize.org/firstletters"
     ]
   ]
 ]
