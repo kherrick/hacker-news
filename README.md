@@ -2,6 +2,7 @@
 
 * [2023-10-15, 14:36:20](https://news.ycombinator.com/item?id=37890110) - [Ending Junk Fees, the Most Annoying Thing in American Commerce](https://www.thebignewsletter.com/p/ending-junk-fees-the-most-annoying)
 * [2023-10-15, 14:17:38](https://news.ycombinator.com/item?id=37889933) - [Do authors get paid for ad placement in novels?](https://news.ycombinator.com/item?id=37889933)
+* [2023-10-15, 14:17:04](https://news.ycombinator.com/item?id=37889925) - [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
 * [2023-10-15, 14:07:06](https://news.ycombinator.com/item?id=37889844) - [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
 * [2023-10-15, 14:04:09](https://news.ycombinator.com/item?id=37889818) - [MariaDB ditches products and staff in restructure](https://www.theregister.com/2023/10/13/mariadb_restructure/)
 * [2023-10-15, 14:01:28](https://news.ycombinator.com/item?id=37889790) - [Node.js – v20.8.1](https://nodejs.org/en/blog/release/v20.8.1)
@@ -9,7 +10,6 @@
 * [2023-10-15, 13:40:26](https://news.ycombinator.com/item?id=37889631) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
 * [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-15, 12:01:06](https://news.ycombinator.com/item?id=37889032) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
-* [2023-10-15, 12:01:05](https://news.ycombinator.com/item?id=37889031) - [Disney Mocked for Ludicrously Fake CGI \"Actors\" in Crowd Scene](https://futurism.com/the-byte/disney-mocked-fake-cgi-actors-crowd-scene)
 * [2023-10-15, 10:37:13](https://news.ycombinator.com/item?id=37888606) - [Show HN: \"Interactive\" Italian Poetry for English Speakers](https://italianpoetry.it/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
 * [2023-10-15, 08:55:12](https://news.ycombinator.com/item?id=37888135) - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
