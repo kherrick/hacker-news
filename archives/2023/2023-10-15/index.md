@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
 * [2023-10-15, 13:45:21](https://news.ycombinator.com/item?id=37889666) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
+* [2023-10-15, 13:40:26](https://news.ycombinator.com/item?id=37889631) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
 * [2023-10-15, 13:34:12](https://news.ycombinator.com/item?id=37889580) - [2023 was earth's warmest September In 174 year record](https://www.noaa.gov/news/topping-charts-september-2023-was-earths-warmest-september-in-174-year-record)
 * [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-15, 12:30:08](https://news.ycombinator.com/item?id=37889204) - [The Decades-Long Travesty That Made Millions of Americans Mistrust Their Schools](https://slate.com/human-interest/2023/10/reading-phonics-literacy-calkins-curriculum-public-school.html)
