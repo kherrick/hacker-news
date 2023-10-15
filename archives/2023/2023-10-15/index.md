@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 20:24:20](https://news.ycombinator.com/item?id=37893091) - [The Sycamore Gap tree held a particularly deep place in people's hearts](https://www.economist.com/obituary/2023/10/04/the-sycamore-gap-tree-held-a-particularly-deep-place-in-peoples-hearts)
 * [2023-10-15, 19:36:58](https://news.ycombinator.com/item?id=37892721) - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
+* [2023-10-15, 19:33:35](https://news.ycombinator.com/item?id=37892684) - [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data)
 * [2023-10-15, 19:30:25](https://news.ycombinator.com/item?id=37892654) - [Hyphens in Man Pages](https://lists.debian.org/debian-devel/2023/10/msg00083.html)
 * [2023-10-15, 19:20:45](https://news.ycombinator.com/item?id=37892560) - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
 * [2023-10-15, 18:59:01](https://news.ycombinator.com/item?id=37892384) - [American Big Tech Has Enslaved Us – Yanis Varoufakis](https://www.youtube.com/watch?v=VatYrw0uqjU)
+* [2023-10-15, 18:52:40](https://news.ycombinator.com/item?id=37892314) - [SpaceX Space Station](https://chrisprophet.substack.com/p/spacex-space-station)
 * [2023-10-15, 18:46:16](https://news.ycombinator.com/item?id=37892249) - [Spain tech job market is facing a hiring freeze](https://samagame.com/en/latest/after-years-of-prosperity-the-spanish-technology-sector-faces-an-unprecedented-situation-the-hiring-freeze/)
 * [2023-10-15, 18:36:18](https://news.ycombinator.com/item?id=37892160) - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
 * [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
