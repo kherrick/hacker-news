@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
+* [2023-10-15, 08:55:12](https://news.ycombinator.com/item?id=37888135) - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
 * [2023-10-15, 07:01:37](https://news.ycombinator.com/item?id=37887562) - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
 * [2023-10-15, 07:00:48](https://news.ycombinator.com/item?id=37887558) - [Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
 * [2023-10-15, 06:12:13](https://news.ycombinator.com/item?id=37887341) - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)

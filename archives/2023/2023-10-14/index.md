@@ -13,6 +13,7 @@
 * [2023-10-14, 21:52:48](https://news.ycombinator.com/item?id=37884585) - [Firefox accounts renamed Mozilla accounts](https://support.mozilla.org/en-US/kb/firefox-accounts-renamed-mozilla-accounts)
 * [2023-10-14, 21:44:57](https://news.ycombinator.com/item?id=37884532) - [Think in Analog, Capture in Digital](https://huwfulcher.com/blog/2023-10-14-think-in-analog-capture-in-digital/)
 * [2023-10-14, 21:42:31](https://news.ycombinator.com/item?id=37884514) - [Being Poor vs. Feeling Poor](https://moretothat.com/being-poor-vs-feeling-poor/)
+* [2023-10-14, 21:20:26](https://news.ycombinator.com/item?id=37884375) - [Show HN: mystery-o-matic offers a daily random murder mystery](https://mystery-o-matic.com/?hn)
 * [2023-10-14, 21:17:15](https://news.ycombinator.com/item?id=37884352) - [Apple's iPhone 15 Pro Max is a disaster:Screen burn-in latest of reported issues](https://www.laptopmag.com/phones/iphone/apples-iphone-15-pro-max-is-a-disaster-screen-burn-in-latest-of-reported-issues)
 * [2023-10-14, 21:08:06](https://news.ycombinator.com/item?id=37884292) - [YouTube gets reminder to follow EU law over Hamas content](https://www.politico.eu/article/youtube-gets-reminder-to-follow-eu-content-law-over-hamas-content/)
 * [2023-10-14, 21:01:07](https://news.ycombinator.com/item?id=37884240) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
