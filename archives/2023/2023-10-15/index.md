@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 19:36:58](https://news.ycombinator.com/item?id=37892721) - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
 * [2023-10-15, 19:20:45](https://news.ycombinator.com/item?id=37892560) - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
+* [2023-10-15, 18:59:01](https://news.ycombinator.com/item?id=37892384) - [American Big Tech Has Enslaved Us – Yanis Varoufakis](https://www.youtube.com/watch?v=VatYrw0uqjU)
 * [2023-10-15, 18:36:18](https://news.ycombinator.com/item?id=37892160) - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
 * [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)

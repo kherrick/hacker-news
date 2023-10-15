@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 19:36:58](https://news.ycombinator.com/item?id=37892721) - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
 * [2023-10-15, 19:20:45](https://news.ycombinator.com/item?id=37892560) - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
+* [2023-10-15, 18:59:01](https://news.ycombinator.com/item?id=37892384) - [American Big Tech Has Enslaved Us – Yanis Varoufakis](https://www.youtube.com/watch?v=VatYrw0uqjU)
 * [2023-10-15, 18:36:18](https://news.ycombinator.com/item?id=37892160) - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
@@ -8,7 +10,6 @@
 * [2023-10-15, 17:42:55](https://news.ycombinator.com/item?id=37891748) - [The Polish Election Bazaar](https://dragonscave.space/@miki/111240259192723454)
 * [2023-10-15, 17:11:39](https://news.ycombinator.com/item?id=37891518) - [FFmpeg-online: ffpmeg running on the browser](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
 * [2023-10-15, 17:00:09](https://news.ycombinator.com/item?id=37891405) - [Kraftful (YC S19) hiring a Founding Eng – we use AI to disrupt product dev](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
-* [2023-10-15, 16:18:29](https://news.ycombinator.com/item?id=37891020) - [Why Async Rust?](https://without.boats/blog/why-async-rust/)
 * [2023-10-15, 15:48:33](https://news.ycombinator.com/item?id=37890742) - [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
 * [2023-10-15, 15:47:07](https://news.ycombinator.com/item?id=37890725) - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
 * [2023-10-15, 15:46:59](https://news.ycombinator.com/item?id=37890723) - [Impureim Sandwich (2020)](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
@@ -28,7 +29,6 @@
 * [2023-10-13, 21:16:17](https://news.ycombinator.com/item?id=37875723) - [Self-Taught Optimizer (Stop): Recursively Self-Improving Code Generation](https://arxiv.org/abs/2310.02304)
 * [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A Wild Idea to Protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
 * [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html)
-* [2023-10-12, 20:10:11](https://news.ycombinator.com/item?id=37862538) - [To battle moldy barracks, Fort Stewart soldiers built their own mold detectors](https://taskandpurpose.com/military-life/mold-detection-tool/)
 * [2023-10-12, 19:53:45](https://news.ycombinator.com/item?id=37862317) - [Show HN: OpenBLE, Swagger for Bluetooth](https://demo.openble.org)
 
 ## [Archives](archives/index.md)
