@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
 * [2023-10-15, 12:01:06](https://news.ycombinator.com/item?id=37889032) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
+* [2023-10-15, 11:43:37](https://news.ycombinator.com/item?id=37888948) - ['Terminating Internet Access over Piracy Claims Is Drastic and Overbroad'](https://torrentfreak.com/terminating-internet-access-over-piracy-claims-is-drastic-and-overbroad-231014/)
 * [2023-10-15, 11:01:25](https://news.ycombinator.com/item?id=37888728) - [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
+* [2023-10-15, 10:37:13](https://news.ycombinator.com/item?id=37888606) - [Show HN: \"Interactive\" Italian Poetry for English Speakers](https://italianpoetry.it/)
 * [2023-10-15, 10:04:39](https://news.ycombinator.com/item?id=37888477) - [Cursor – The AI-First Code Editor](https://cursor.sh/)
 * [2023-10-15, 08:57:06](https://news.ycombinator.com/item?id=37888144) - [\"Hacker News\" for retro computing and gaming](https://blog.jgc.org/2023/10/hacker-news-for-retro-computing-and.html)
 * [2023-10-15, 08:55:12](https://news.ycombinator.com/item?id=37888135) - [Cloudflare Sippy: Incrementally Migrate Data from AWS S3 to Reduce Egress Fees](https://www.infoq.com/news/2023/10/cloudflare-sippy-migrate-s3/)
+* [2023-10-15, 07:03:37](https://news.ycombinator.com/item?id=37887570) - [Nvidia, one of tech's hottest companies, is fine with remote work](https://fortune.com/2023/10/14/nvidia-skips-return-to-office-sticks-to-remote-work-among-hottest-tech-companies/)
 * [2023-10-15, 07:01:37](https://news.ycombinator.com/item?id=37887562) - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
 * [2023-10-15, 07:00:48](https://news.ycombinator.com/item?id=37887558) - [Supabase (YC S20) Is Hiring a Technical Docs Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4965064004)
 * [2023-10-15, 06:28:53](https://news.ycombinator.com/item?id=37887426) - [Breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html?)
