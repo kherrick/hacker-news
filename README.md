@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-15, 12:30:08](https://news.ycombinator.com/item?id=37889204) - [The Decades-Long Travesty That Made Millions of Americans Mistrust Their Schools](https://slate.com/human-interest/2023/10/reading-phonics-literacy-calkins-curriculum-public-school.html)
 * [2023-10-15, 12:01:06](https://news.ycombinator.com/item?id=37889032) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
 * [2023-10-15, 11:43:37](https://news.ycombinator.com/item?id=37888948) - ['Terminating Internet Access over Piracy Claims Is Drastic and Overbroad'](https://torrentfreak.com/terminating-internet-access-over-piracy-claims-is-drastic-and-overbroad-231014/)
@@ -24,7 +25,6 @@
 * [2023-10-14, 16:12:40](https://news.ycombinator.com/item?id=37881656) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 10:04:25](https://news.ycombinator.com/item?id=37879329) - [Ten Years Writing Book Reviews](https://dannyreviews.com/history.html)
 * [2023-10-14, 09:02:23](https://news.ycombinator.com/item?id=37879077) - [ChatGPT’s system prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
-* [2023-10-14, 07:59:02](https://news.ycombinator.com/item?id=37878851) - [Linux on an 8bit Microcontroller](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
 * [2023-10-14, 05:06:51](https://news.ycombinator.com/item?id=37878231) - [The Apple Macintosh Primer (1984) [pdf]](https://vintageapple.org/macbooks/pdf/The_Apple_Macintosh_Primer_1984.pdf)
 * [2023-10-13, 19:18:58](https://news.ycombinator.com/item?id=37874423) - [Implementing a GPU's programming model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-12, 21:16:51](https://news.ycombinator.com/item?id=37863255) - [History of the Mackintosh: 200 years of the classic raincoat](https://www.theguardian.com/news/2023/oct/12/history-mackintosh-raincoat-charles-macintosh)

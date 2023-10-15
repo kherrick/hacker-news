@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-15, 12:30:08](https://news.ycombinator.com/item?id=37889204) - [The Decades-Long Travesty That Made Millions of Americans Mistrust Their Schools](https://slate.com/human-interest/2023/10/reading-phonics-literacy-calkins-curriculum-public-school.html)
 * [2023-10-15, 12:01:06](https://news.ycombinator.com/item?id=37889032) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://www.sievedata.com/)
 * [2023-10-15, 11:43:37](https://news.ycombinator.com/item?id=37888948) - ['Terminating Internet Access over Piracy Claims Is Drastic and Overbroad'](https://torrentfreak.com/terminating-internet-access-over-piracy-claims-is-drastic-and-overbroad-231014/)
