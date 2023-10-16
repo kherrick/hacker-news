@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
 * [2023-10-16, 22:26:57](https://news.ycombinator.com/item?id=37907519) - [Edinburgh couple are handed £17K bill by Tesla as they 'drove in rain'](https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-couple-fume-handed-17k-27906242)
 * [2023-10-16, 21:42:06](https://news.ycombinator.com/item?id=37907055) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx)
 * [2023-10-16, 21:25:06](https://news.ycombinator.com/item?id=37906871) - [NY Bill Would Require Background Checks to Buy 3D Printers](https://www.tomshardware.com/news/ny-bill-bans-3d-printers)
