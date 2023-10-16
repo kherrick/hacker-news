@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 02:30:44](https://news.ycombinator.com/item?id=37895370) - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
 * [2023-10-16, 02:28:39](https://news.ycombinator.com/item?id=37895365) - [Post-truth society is near](https://www.mindprison.cc/p/post-truth-society-is-near)
 * [2023-10-16, 02:13:40](https://news.ycombinator.com/item?id=37895272) - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
@@ -25,7 +26,6 @@
 * [2023-10-15, 12:34:21](https://news.ycombinator.com/item?id=37889224) - [State of the Map EU 2023](https://stateofthemap.eu/)
 * [2023-10-13, 23:07:38](https://news.ycombinator.com/item?id=37876589) - [Runtime Verification for Trustworthy Computing](https://arxiv.org/abs/2310.02341)
 * [2023-10-13, 21:39:58](https://news.ycombinator.com/item?id=37875924) - [\"Building Machines That Learn and Think Like People\", 7 Years Later](https://gonzoml.substack.com/p/building-machines-that-learn-and)
-* [2023-10-13, 21:37:48](https://news.ycombinator.com/item?id=37875898) - [Single-cell genomic atlas for maturation of human cerebellum in early childhood](https://www.science.org/doi/10.1126/scitranslmed.ade1283)
 * [2023-10-13, 20:23:28](https://news.ycombinator.com/item?id=37875193) - [The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
 * [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html)
 * [2023-10-12, 20:09:47](https://news.ycombinator.com/item?id=37862532) - [Stark-DB: SQLite-backed, change-tracking database available over HTTP](https://www.npmjs.com/package/stark-db)
