@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
+* [2023-10-16, 07:17:24](https://news.ycombinator.com/item?id=37896694) - [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
 * [2023-10-16, 07:00:07](https://news.ycombinator.com/item?id=37896615) - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
 * [2023-10-16, 06:29:47](https://news.ycombinator.com/item?id=37896472) - [Some iPhone 15 Pro Max users are reporting OLED screen 'burn in'](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
 * [2023-10-16, 06:20:11](https://news.ycombinator.com/item?id=37896427) - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
@@ -15,7 +16,6 @@
 * [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
 * [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-15, 22:24:42](https://news.ycombinator.com/item?id=37893960) - [One (1) new Wii U console was sold in the U.S. during September 2023](https://mynintendonews.com/2023/10/14/us-a-single-brand-new-wii-u-console-was-sold-during-september-2023/)
-* [2023-10-15, 22:10:30](https://news.ycombinator.com/item?id=37893856) - [Why the Culture Wins: An Appreciation of Iain M. Banks (2017; by Joseph Heath)](https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/)
 * [2023-10-15, 21:59:28](https://news.ycombinator.com/item?id=37893794) - [Microsoft buys Activision – what happens to Infocom's text adventures now?](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
 * [2023-10-15, 21:30:27](https://news.ycombinator.com/item?id=37893555) - [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
 * [2023-10-15, 20:52:25](https://news.ycombinator.com/item?id=37893291) - [Yes, You Can Use Lightguns on LCDs– Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)

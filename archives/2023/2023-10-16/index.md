@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
 * [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
+* [2023-10-16, 07:17:24](https://news.ycombinator.com/item?id=37896694) - [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
 * [2023-10-16, 07:00:07](https://news.ycombinator.com/item?id=37896615) - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
 * [2023-10-16, 06:29:47](https://news.ycombinator.com/item?id=37896472) - [Some iPhone 15 Pro Max users are reporting OLED screen 'burn in'](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
 * [2023-10-16, 06:20:11](https://news.ycombinator.com/item?id=37896427) - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
