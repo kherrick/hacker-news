@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 23:24:06](https://news.ycombinator.com/item?id=37908055) - [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 * [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
 * [2023-10-16, 22:16:41](https://news.ycombinator.com/item?id=37907433) - [20% of LinkedIn's recent layoffs were managers](https://news.ycombinator.com/item?id=37907433)
 * [2023-10-16, 21:42:06](https://news.ycombinator.com/item?id=37907055) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx)
@@ -22,10 +23,9 @@
 * [2023-10-16, 13:59:25](https://news.ycombinator.com/item?id=37899993) - [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
 * [2023-10-16, 12:46:58](https://news.ycombinator.com/item?id=37899098) - [Should you be scared of Unix signals? (2016)](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
 * [2023-10-16, 12:38:14](https://news.ycombinator.com/item?id=37898999) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
-* [2023-10-16, 11:23:57](https://news.ycombinator.com/item?id=37898223) - [Isometric Geological Diagrams](https://socks-studio.com/2023/10/15/the-hidden-territory-usgss-1950s-to-1970s-isometric-geological-diagrams/)
+* [2023-10-16, 09:15:26](https://news.ycombinator.com/item?id=37897390) - [Metaphors We Web By](https://maggieappleton.com/metaphors-web)
 * [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can we build trustable hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
 * [2023-10-16, 07:47:16](https://news.ycombinator.com/item?id=37896854) - [Chess Written in GNU Sed](https://github.com/moldabekov/chess-sed)
-* [2023-10-16, 05:27:01](https://news.ycombinator.com/item?id=37896198) - [Cataloguing the Cotton Charters](https://blogs.bl.uk/digitisedmanuscripts/2023/10/cataloguing-the-cotton-charters.html)
 * [2023-10-15, 07:14:47](https://news.ycombinator.com/item?id=37887625) - [Werner Herzog on beer, yoga and what he would ask God](https://www.theguardian.com/film/2023/oct/15/werner-herzog-documentary-film-memoir-every-man-for-himself-interview)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
 * [2023-10-15, 04:41:36](https://news.ycombinator.com/item?id=37886936) - [Orthographic Depth](https://en.wikipedia.org/wiki/Orthographic_depth)

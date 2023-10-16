@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 23:24:06](https://news.ycombinator.com/item?id=37908055) - [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 * [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
 * [2023-10-16, 22:26:57](https://news.ycombinator.com/item?id=37907519) - [Edinburgh couple are handed £17K bill by Tesla as they 'drove in rain'](https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-couple-fume-handed-17k-27906242)
 * [2023-10-16, 22:16:41](https://news.ycombinator.com/item?id=37907433) - [20% of LinkedIn's recent layoffs were managers](https://news.ycombinator.com/item?id=37907433)
@@ -93,6 +94,7 @@
 * [2023-10-16, 10:13:12](https://news.ycombinator.com/item?id=37897751) - [Alameda meeting where Caroline Ellison admitted the firm took FTX customer money](https://www.businessinsider.com/alameda-all-hands-meeting-caroline-ellison-shut-down-audio-2023-10)
 * [2023-10-16, 09:25:12](https://news.ycombinator.com/item?id=37897444) - [Zip: How not to design a file format](https://games.greggman.com/game/zip-rant/)
 * [2023-10-16, 09:23:43](https://news.ycombinator.com/item?id=37897432) - [Windows 10 warns me to use a \"Microsoft-verified\" app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
+* [2023-10-16, 09:15:26](https://news.ycombinator.com/item?id=37897390) - [Metaphors We Web By](https://maggieappleton.com/metaphors-web)
 * [2023-10-16, 09:14:38](https://news.ycombinator.com/item?id=37897388) - [My opinion on the future of React development](https://news.ycombinator.com/item?id=37897388)
 * [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
 * [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can We Build Trustable Hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
