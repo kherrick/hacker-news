@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 19:00:13](https://news.ycombinator.com/item?id=37904530) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
+* [2023-10-16, 18:59:46](https://news.ycombinator.com/item?id=37904518) - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
 * [2023-10-16, 18:34:14](https://news.ycombinator.com/item?id=37904101) - [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=37904101)
 * [2023-10-16, 18:31:07](https://news.ycombinator.com/item?id=37904065) - [HashiCorp CEO Predicts OSS-Free Silicon Valley](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/)
 * [2023-10-16, 18:29:55](https://news.ycombinator.com/item?id=37904047) - [Hallucineted CVE against Curl: someone asked Bard to find a vulnerability](https://mastodon.social/@bagder/111245232072475867)
@@ -40,6 +42,7 @@
 * [2023-10-16, 15:12:51](https://news.ycombinator.com/item?id=37900935) - [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
 * [2023-10-16, 14:57:12](https://news.ycombinator.com/item?id=37900713) - [A successful example of \"adversarial collaboration.\"](https://statmodeling.stat.columbia.edu/2023/10/16/a-successful-example-of-adversarial-collaboration-when-does-this-approach-work-and-when-does-it-not/)
 * [2023-10-16, 14:53:10](https://news.ycombinator.com/item?id=37900651) - [Stack Overflow is laying off another 28%](https://www.theverge.com/2023/10/16/23919004/stack-overflow-layoff-ai-profitability)
+* [2023-10-16, 14:38:36](https://news.ycombinator.com/item?id=37900458) - [Invidious – An open source alternative front-end to YouTube](https://invidious.io/)
 * [2023-10-16, 14:18:28](https://news.ycombinator.com/item?id=37900194) - [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
 * [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
 * [2023-10-16, 14:03:11](https://news.ycombinator.com/item?id=37900028) - [AI Tinder already exists: 'Real people will disappoint you, but not them'](https://english.elpais.com/technology/2023-10-09/ai-tinder-already-exists-real-people-will-disappoint-you-but-not-them.html)
