@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
+* [2023-10-15, 23:31:56](https://news.ycombinator.com/item?id=37894390) - [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
 * [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
 * [2023-10-15, 23:24:11](https://news.ycombinator.com/item?id=37894341) - [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
 * [2023-10-15, 22:43:37](https://news.ycombinator.com/item?id=37894081) - [Extroverts more likely to resist vaccines, study shows](https://www.utep.edu/newsfeed/2023/extroverts-more-likely-to-resist-vaccines-study-shows.html)
