@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 19:41:08](https://news.ycombinator.com/item?id=37905251) - [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
+* [2023-10-16, 19:37:37](https://news.ycombinator.com/item?id=37905181) - [Vercel employee threatens user over domain similar to own project, gets fired](https://twitter.com/nico_jeannen/status/1713139186474406206)
 * [2023-10-16, 19:00:13](https://news.ycombinator.com/item?id=37904530) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
 * [2023-10-16, 18:59:46](https://news.ycombinator.com/item?id=37904518) - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
 * [2023-10-16, 18:49:07](https://news.ycombinator.com/item?id=37904319) - [If the Economy Is So Strong, Why Are Consumer Stocks Tanking?](https://www.wsj.com/finance/stocks/if-the-economy-is-so-strong-why-are-consumer-stocks-tanking-904fbe7f)
-* [2023-10-16, 18:38:57](https://news.ycombinator.com/item?id=37904166) - [Colorado Supreme Court Approves Use of Google Search Data in Murder Case](https://www.bloomberg.com/news/articles/2023-10-16/colorado-court-approves-use-of-google-search-data-in-murder-case)
 * [2023-10-16, 18:29:55](https://news.ycombinator.com/item?id=37904047) - [Hallucineted CVE against Curl: someone asked Bard to find a vulnerability](https://mastodon.social/@bagder/111245232072475867)
 * [2023-10-16, 18:18:22](https://news.ycombinator.com/item?id=37903890) - [Leaving Twitter had no effect on NPR's traffic](https://pluralistic.net/2023/10/14/freedom-of-reach/)
-* [2023-10-16, 18:11:58](https://news.ycombinator.com/item?id=37903812) - [Intel's Latest I9 Chip Has Speeds Up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
-* [2023-10-16, 17:53:28](https://news.ycombinator.com/item?id=37903574) - [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
 * [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
 * [2023-10-16, 17:21:05](https://news.ycombinator.com/item?id=37903100) - [Demo: Android 14 Clipboard Manager Data Leak Security Issue](https://fingerprint.com/blog/android-14-clipboard-security-leak/)
@@ -19,7 +18,7 @@
 * [2023-10-16, 16:07:56](https://news.ycombinator.com/item?id=37901902) - [MemGPT – LLMs with self-editing memory for unbounded context](https://github.com/cpacker/MemGPT)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 14:57:12](https://news.ycombinator.com/item?id=37900713) - [A successful example of \"adversarial collaboration\"](https://statmodeling.stat.columbia.edu/2023/10/16/a-successful-example-of-adversarial-collaboration-when-does-this-approach-work-and-when-does-it-not/)
-* [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
+* [2023-10-16, 14:38:36](https://news.ycombinator.com/item?id=37900458) - [Invidious – An open source alternative front-end to YouTube](https://invidious.io/)
 * [2023-10-16, 13:06:48](https://news.ycombinator.com/item?id=37899319) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
 * [2023-10-16, 12:46:58](https://news.ycombinator.com/item?id=37899098) - [Should you be scared of Unix signals?](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
 * [2023-10-16, 12:38:14](https://news.ycombinator.com/item?id=37898999) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
@@ -30,6 +29,7 @@
 * [2023-10-16, 05:17:49](https://news.ycombinator.com/item?id=37896157) - [How to build a universe that doesn’t fall apart two days later (1978)](https://urbigenous.net/library/how_to_build.html)
 * [2023-10-15, 04:41:36](https://news.ycombinator.com/item?id=37886936) - [Orthographic Depth](https://en.wikipedia.org/wiki/Orthographic_depth)
 * [2023-10-15, 01:43:24](https://news.ycombinator.com/item?id=37886049) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
+* [2023-10-14, 22:35:39](https://news.ycombinator.com/item?id=37884881) - [The Middle State: Famous Owners of a Controversial Text](https://blogs.loc.gov/bibliomania/2023/09/27/the-middle-state-famous-owners-of-a-controversial-text/)
 
 ## [Archives](archives/index.md)
 

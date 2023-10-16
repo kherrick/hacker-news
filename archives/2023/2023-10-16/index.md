@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 19:41:08](https://news.ycombinator.com/item?id=37905251) - [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
+* [2023-10-16, 19:37:37](https://news.ycombinator.com/item?id=37905181) - [Vercel employee threatens user over domain similar to own project, gets fired](https://twitter.com/nico_jeannen/status/1713139186474406206)
 * [2023-10-16, 19:00:13](https://news.ycombinator.com/item?id=37904530) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
 * [2023-10-16, 18:59:46](https://news.ycombinator.com/item?id=37904518) - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
 * [2023-10-16, 18:49:07](https://news.ycombinator.com/item?id=37904319) - [If the Economy Is So Strong, Why Are Consumer Stocks Tanking?](https://www.wsj.com/finance/stocks/if-the-economy-is-so-strong-why-are-consumer-stocks-tanking-904fbe7f)
