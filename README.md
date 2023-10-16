@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 03:41:24](https://news.ycombinator.com/item?id=37895719) - [How the conspiracy-fueled Epoch Times went mainstream and made millions](https://www.nbcnews.com/news/us-news/epoch-times-falun-gong-growth-rcna111373)
 * [2023-10-16, 02:30:44](https://news.ycombinator.com/item?id=37895370) - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
 * [2023-10-16, 02:28:39](https://news.ycombinator.com/item?id=37895365) - [Post-truth society is near](https://www.mindprison.cc/p/post-truth-society-is-near)
 * [2023-10-16, 02:13:40](https://news.ycombinator.com/item?id=37895272) - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
 * [2023-10-15, 23:31:56](https://news.ycombinator.com/item?id=37894390) - [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
 * [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
-* [2023-10-15, 23:24:11](https://news.ycombinator.com/item?id=37894341) - [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
 * [2023-10-15, 22:43:06](https://news.ycombinator.com/item?id=37894072) - [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
 * [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-15, 21:59:28](https://news.ycombinator.com/item?id=37893794) - [Microsoft buys Activision – what happens to Infocom's text adventures now?](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
