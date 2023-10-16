@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 12:38:14](https://news.ycombinator.com/item?id=37898999) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 12:09:12](https://news.ycombinator.com/item?id=37898667) - [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
 * [2023-10-16, 12:00:27](https://news.ycombinator.com/item?id=37898561) - [Verdn (YC W22) Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2023-10-16, 11:58:54](https://news.ycombinator.com/item?id=37898544) - [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
 * [2023-10-16, 11:45:35](https://news.ycombinator.com/item?id=37898391) - [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
 * [2023-10-16, 11:21:06](https://news.ycombinator.com/item?id=37898199) - [Stack Overflow announces 28% headcount reduction](https://stackoverflow.blog/2023/10/16/stack-overflow-company-announcement-october-2023/)
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
+* [2023-10-16, 10:47:31](https://news.ycombinator.com/item?id=37897955) - [U.S. Teens Spend Average of 4.8 Hours on Social Media per Day](https://news.gallup.com/poll/512576/teens-spend-average-hours-social-media-per-day.aspx)
 * [2023-10-16, 10:46:10](https://news.ycombinator.com/item?id=37897946) - [C Is Not a Low-level Language – Your computer is not a fast PDP-11](https://queue.acm.org/detail.cfm?id=3212479)
 * [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
 * [2023-10-16, 10:40:17](https://news.ycombinator.com/item?id=37897916) - [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
@@ -18,6 +20,7 @@
 * [2023-10-16, 09:23:43](https://news.ycombinator.com/item?id=37897432) - [Windows 10 warns me to use a \"Microsoft-verified\" app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
 * [2023-10-16, 09:14:38](https://news.ycombinator.com/item?id=37897388) - [My opinion on the future of React development](https://news.ycombinator.com/item?id=37897388)
 * [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
+* [2023-10-16, 08:34:03](https://news.ycombinator.com/item?id=37897113) - [Bootstrapping a SaaS Business in Germany: How I did it](https://lukashermann.dev/writing/bootstrapping-a-saas-business-in-germany/)
 * [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 * [2023-10-16, 07:25:43](https://news.ycombinator.com/item?id=37896737) - [Disclosing the BLOODALCHEMY backdoor](https://www.elastic.co/security-labs/disclosing-the-bloodalchemy-backdoor)
 * [2023-10-16, 07:17:24](https://news.ycombinator.com/item?id=37896694) - [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
