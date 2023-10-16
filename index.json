@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-16, 23:04:40",
+      "https://news.ycombinator.com/item?id=37907901"
+    ],
+    [
+      "BitVM: Compute Anything on Bitcoin [pdf]",
+      "https://bitvm.org/bitvm.pdf"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 21:42:06",
       "https://news.ycombinator.com/item?id=37907055"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2023-10-16, 21:25:06",
-      "https://news.ycombinator.com/item?id=37906871"
-    ],
-    [
-      "NY Bill Would Require Background Checks to Buy 3D Printers",
-      "https://www.tomshardware.com/news/ny-bill-bans-3d-printers"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 21:03:32",
       "https://news.ycombinator.com/item?id=37906601"
     ],
     [
       "OneSignal (YC S11) Is Hiring Software Engineers in the US",
       "https://onesignal.com/careers/4264311006"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 20:37:26",
-      "https://news.ycombinator.com/item?id=37906206"
-    ],
-    [
-      "Ask HN: Best Tech Courses/Certifications Under $400 for a Back End Engineer?",
-      "https://news.ycombinator.com/item?id=37906206"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Isometric Geological Diagrams",
       "https://socks-studio.com/2023/10/15/the-hidden-territory-usgss-1950s-to-1970s-isometric-geological-diagrams/"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 10:53:41",
+      "https://news.ycombinator.com/item?id=37898001"
+    ],
+    [
+      "GPU Embedding with GGML",
+      "https://bloop.ai/blog/gpu_with_ggml"
     ]
   ],
   [
