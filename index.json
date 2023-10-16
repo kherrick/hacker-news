@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-16, 15:45:47",
+      "https://news.ycombinator.com/item?id=37901488"
+    ],
+    [
+      "LinkedIn laying off nearly 700, mostly from core engineering teams",
+      "https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 15:32:37",
+      "https://news.ycombinator.com/item?id=37901259"
+    ],
+    [
+      "The Fall of Babylon is a warning to AI unicorns",
+      "https://www.wired.com/story/babylon-health-warning-ai-unicorns/"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 15:20:00",
       "https://news.ycombinator.com/item?id=37901059"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-10-16, 13:30:23",
-      "https://news.ycombinator.com/item?id=37899638"
-    ],
-    [
-      "Snowbanks are set to get whiter – offsetting climate change's effects",
-      "https://www.nature.com/articles/d41586-023-03106-2"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 13:06:48",
       "https://news.ycombinator.com/item?id=37899319"
     ],
@@ -107,16 +117,6 @@
     [
       "$100M Valuation and No More Funding",
       "https://davidcummings.org/2023/10/14/100m-valuation-and-no-more-funding/"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 13:03:13",
-      "https://news.ycombinator.com/item?id=37899272"
-    ],
-    [
-      "X.org Alternatives? MicroXWin, Wayland, Y, DFB, Xynth, Fresco, etc. (2009)",
-      "https://bbs.archlinux.org/viewtopic.php?id=87281"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "A little-known pollution rule keeps the air dirty for millions of Americans",
       "https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 12:04:48",
-      "https://news.ycombinator.com/item?id=37898614"
-    ],
-    [
-      "OpenBSD: OpenBGPD 8.3 Released",
-      "https://www.undeadly.org/cgi?action=article;sid=20231016120408"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "FreeTube – The Private YouTube Client",
       "https://github.com/FreeTubeApp/FreeTube"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 09:09:22",
+      "https://news.ycombinator.com/item?id=37897351"
+    ],
+    [
+      "Atlassian prepares to abandon on-prem server products",
+      "https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/"
     ]
   ],
   [
