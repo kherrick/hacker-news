@@ -25,6 +25,7 @@
 * [2023-10-12, 20:28:11](https://news.ycombinator.com/item?id=37862761) - [The Garden of the Five Senses](https://worldsensorium.com/the-garden-of-the-five-senses/)
 * [2023-10-12, 20:24:15](https://news.ycombinator.com/item?id=37862721) - [A Wild Idea to Protect the Great Barrier Reef](https://nautil.us/a-wild-idea-to-protect-the-great-barrier-reef-413426/)
 * [2023-10-12, 20:14:46](https://news.ycombinator.com/item?id=37862606) - [One game, by one man, on six platforms: The good, the bad and the ugly](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
+* [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html?lang=en)
 * [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html)
 * [2023-10-12, 20:10:11](https://news.ycombinator.com/item?id=37862538) - [To battle moldy barracks, Fort Stewart soldiers built their own mold detectors](https://taskandpurpose.com/military-life/mold-detection-tool/)
 * [2023-10-12, 20:09:47](https://news.ycombinator.com/item?id=37862532) - [Stark-DB: SQLite-backed, change-tracking database available over HTTP](https://www.npmjs.com/package/stark-db)
