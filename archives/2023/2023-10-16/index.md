@@ -6,6 +6,7 @@
 
 * [2023-10-16, 19:00:13](https://news.ycombinator.com/item?id=37904530) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
 * [2023-10-16, 18:59:46](https://news.ycombinator.com/item?id=37904518) - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
+* [2023-10-16, 18:49:07](https://news.ycombinator.com/item?id=37904319) - [If the Economy Is So Strong, Why Are Consumer Stocks Tanking?](https://www.wsj.com/finance/stocks/if-the-economy-is-so-strong-why-are-consumer-stocks-tanking-904fbe7f)
 * [2023-10-16, 18:38:57](https://news.ycombinator.com/item?id=37904166) - [Colorado Supreme Court Approves Use of Google Search Data in Murder Case](https://www.bloomberg.com/news/articles/2023-10-16/colorado-court-approves-use-of-google-search-data-in-murder-case)
 * [2023-10-16, 18:34:14](https://news.ycombinator.com/item?id=37904101) - [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=37904101)
 * [2023-10-16, 18:31:07](https://news.ycombinator.com/item?id=37904065) - [HashiCorp CEO Predicts OSS-Free Silicon Valley](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/)
@@ -19,6 +20,7 @@
 * [2023-10-16, 17:35:09](https://news.ycombinator.com/item?id=37903329) - [One of America's most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
 * [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
+* [2023-10-16, 17:21:05](https://news.ycombinator.com/item?id=37903100) - [Demo: Android 14 Clipboard Manager Data Leak Security Issue](https://fingerprint.com/blog/android-14-clipboard-security-leak/)
 * [2023-10-16, 17:00:48](https://news.ycombinator.com/item?id=37902815) - [Motion (YC W20) Is Hiring Staff Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-10-16, 16:52:57](https://news.ycombinator.com/item?id=37902679) - [Napflix – Siesta Video Platform](https://napflix.tv/)
 * [2023-10-16, 16:37:00](https://news.ycombinator.com/item?id=37902412) - [I wrote the book on user-friendly design. What I see today horrifies me (2019)](https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me)
