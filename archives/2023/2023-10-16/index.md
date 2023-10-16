@@ -8,6 +8,7 @@
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
 * [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
 * [2023-10-16, 10:40:17](https://news.ycombinator.com/item?id=37897916) - [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
+* [2023-10-16, 10:22:34](https://news.ycombinator.com/item?id=37897798) - [NY bill would require a criminal history check for the purchase of a 3D printer](https://www.nysenate.gov/legislation/bills/2023/A8132)
 * [2023-10-16, 09:25:12](https://news.ycombinator.com/item?id=37897444) - [Zip: How not to design a file format](https://games.greggman.com/game/zip-rant/)
 * [2023-10-16, 09:23:43](https://news.ycombinator.com/item?id=37897432) - [Windows 10 warns me to use a \"Microsoft-verified\" app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
 * [2023-10-16, 09:14:38](https://news.ycombinator.com/item?id=37897388) - [My opinion on the future of React development](https://news.ycombinator.com/item?id=37897388)
