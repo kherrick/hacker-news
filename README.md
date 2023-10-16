@@ -2,6 +2,7 @@
 
 * [2023-10-16, 13:18:13](https://news.ycombinator.com/item?id=37899478) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
 * [2023-10-16, 13:06:48](https://news.ycombinator.com/item?id=37899319) - [OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
+* [2023-10-16, 13:03:13](https://news.ycombinator.com/item?id=37899272) - [X.org Alternatives? MicroXWin, Wayland, Y, DFB, Xynth, Fresco, etc. (2009)](https://bbs.archlinux.org/viewtopic.php?id=87281)
 * [2023-10-16, 12:46:58](https://news.ycombinator.com/item?id=37899098) - [Should You Be Scared of Unix Signals?](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
 * [2023-10-16, 12:38:14](https://news.ycombinator.com/item?id=37898999) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 12:09:12](https://news.ycombinator.com/item?id=37898667) - [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
@@ -29,7 +30,6 @@
 * [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-15, 20:16:13](https://news.ycombinator.com/item?id=37893022) - [Cybernetics and Ghosts (1967) [pdf]](https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf)
 * [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain at Stormfield (1909) [video]](https://www.youtube.com/watch?v=leYj--P4CgQ)
-* [2023-10-12, 19:35:57](https://news.ycombinator.com/item?id=37862039) - [PeaTMOSS: Mining Pre-Trained Models in Open-Source Software](https://arxiv.org/abs/2310.03620)
 
 ## [Archives](archives/index.md)
 

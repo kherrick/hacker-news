@@ -6,6 +6,7 @@
 
 * [2023-10-16, 13:18:13](https://news.ycombinator.com/item?id=37899478) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
 * [2023-10-16, 13:06:48](https://news.ycombinator.com/item?id=37899319) - [OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
+* [2023-10-16, 13:03:13](https://news.ycombinator.com/item?id=37899272) - [X.org Alternatives? MicroXWin, Wayland, Y, DFB, Xynth, Fresco, etc. (2009)](https://bbs.archlinux.org/viewtopic.php?id=87281)
 * [2023-10-16, 12:59:38](https://news.ycombinator.com/item?id=37899234) - [Steve Bell sacked by Guardian in antisemitism row over Netanyahu cartoon](https://www.bbc.co.uk/news/entertainment-arts-67122609)
 * [2023-10-16, 12:46:58](https://news.ycombinator.com/item?id=37899098) - [Should You Be Scared of Unix Signals?](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
 * [2023-10-16, 12:38:14](https://news.ycombinator.com/item?id=37898999) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
