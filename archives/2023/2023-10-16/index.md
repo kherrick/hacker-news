@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 16:33:45](https://news.ycombinator.com/item?id=37902350) - [Hong Kong Locations in Ghost in the Shell](https://randomwire.com/recreating-ghost-in-hong-kong/comment-page-1/)
 * [2023-10-16, 16:27:08](https://news.ycombinator.com/item?id=37902217) - [Can You Hide a Child's Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
 * [2023-10-16, 16:23:15](https://news.ycombinator.com/item?id=37902148) - [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
 * [2023-10-16, 16:22:51](https://news.ycombinator.com/item?id=37902140) - [Worst Examples of Meta's Dystopian AI Influencers](https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709)

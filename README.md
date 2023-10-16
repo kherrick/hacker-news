@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 16:33:45](https://news.ycombinator.com/item?id=37902350) - [Hong Kong Locations in Ghost in the Shell](https://randomwire.com/recreating-ghost-in-hong-kong/comment-page-1/)
 * [2023-10-16, 16:27:08](https://news.ycombinator.com/item?id=37902217) - [Can You Hide a Child's Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
 * [2023-10-16, 16:23:15](https://news.ycombinator.com/item?id=37902148) - [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
 * [2023-10-16, 16:22:51](https://news.ycombinator.com/item?id=37902140) - [Worst Examples of Meta's Dystopian AI Influencers](https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709)
@@ -8,7 +9,6 @@
 * [2023-10-16, 15:46:39](https://news.ycombinator.com/item?id=37901506) - [LinkedIn to lay off hundreds of people amid broader restructuring](https://www.axios.com/2023/10/16/linkedin-layoffs-restructuring-artifical-intelligence)
 * [2023-10-16, 15:32:37](https://news.ycombinator.com/item?id=37901259) - [The Fall of Babylon is a warning to AI unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
-* [2023-10-16, 15:20:00](https://news.ycombinator.com/item?id=37901059) - [Goldman Sachs reportedly said Apple Card savings account was a mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
 * [2023-10-16, 15:18:17](https://news.ycombinator.com/item?id=37901025) - [Analogue 3D](https://www.analogue.co/3d)
 * [2023-10-16, 15:12:51](https://news.ycombinator.com/item?id=37900935) - [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
 * [2023-10-16, 14:57:12](https://news.ycombinator.com/item?id=37900713) - [A successful example of \"adversarial collaboration.\"](https://statmodeling.stat.columbia.edu/2023/10/16/a-successful-example-of-adversarial-collaboration-when-does-this-approach-work-and-when-does-it-not/)
