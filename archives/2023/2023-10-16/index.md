@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 14:18:28](https://news.ycombinator.com/item?id=37900194) - [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
+* [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
 * [2023-10-16, 13:18:13](https://news.ycombinator.com/item?id=37899478) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
 * [2023-10-16, 13:06:48](https://news.ycombinator.com/item?id=37899319) - [OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
+* [2023-10-16, 13:03:47](https://news.ycombinator.com/item?id=37899281) - [$100M Valuation and No More Funding](https://davidcummings.org/2023/10/14/100m-valuation-and-no-more-funding/)
 * [2023-10-16, 13:03:13](https://news.ycombinator.com/item?id=37899272) - [X.org Alternatives? MicroXWin, Wayland, Y, DFB, Xynth, Fresco, etc. (2009)](https://bbs.archlinux.org/viewtopic.php?id=87281)
 * [2023-10-16, 12:59:38](https://news.ycombinator.com/item?id=37899234) - [Steve Bell sacked by Guardian in antisemitism row over Netanyahu cartoon](https://www.bbc.co.uk/news/entertainment-arts-67122609)
 * [2023-10-16, 12:46:58](https://news.ycombinator.com/item?id=37899098) - [Should You Be Scared of Unix Signals?](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
