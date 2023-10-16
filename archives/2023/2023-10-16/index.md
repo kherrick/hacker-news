@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 16:27:08](https://news.ycombinator.com/item?id=37902217) - [Can You Hide a Child's Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
+* [2023-10-16, 16:23:15](https://news.ycombinator.com/item?id=37902148) - [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
 * [2023-10-16, 16:06:28](https://news.ycombinator.com/item?id=37901870) - [The real engine behind \"AI\" is the bad tech economy](https://hachyderm.io/@softwaredoug/111245545674056246)
+* [2023-10-16, 15:46:39](https://news.ycombinator.com/item?id=37901506) - [LinkedIn to lay off hundreds of people amid broader restructuring](https://www.axios.com/2023/10/16/linkedin-layoffs-restructuring-artifical-intelligence)
 * [2023-10-16, 15:45:47](https://news.ycombinator.com/item?id=37901488) - [LinkedIn laying off nearly 700, mostly from core engineering teams](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html)
 * [2023-10-16, 15:32:37](https://news.ycombinator.com/item?id=37901259) - [The Fall of Babylon is a warning to AI unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
