@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 16:06:28](https://news.ycombinator.com/item?id=37901870) - [The real engine behind \"AI\" is the bad tech economy](https://hachyderm.io/@softwaredoug/111245545674056246)
 * [2023-10-16, 15:45:47](https://news.ycombinator.com/item?id=37901488) - [LinkedIn laying off nearly 700, mostly from core engineering teams](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html)
 * [2023-10-16, 15:32:37](https://news.ycombinator.com/item?id=37901259) - [The Fall of Babylon is a warning to AI unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
+* [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 15:20:00](https://news.ycombinator.com/item?id=37901059) - [Goldman Sachs reportedly said Apple Card savings account was a ****ing mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
 * [2023-10-16, 15:18:17](https://news.ycombinator.com/item?id=37901025) - [Analogue 3D](https://www.analogue.co/3d)
 * [2023-10-16, 15:12:51](https://news.ycombinator.com/item?id=37900935) - [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
+* [2023-10-16, 14:57:12](https://news.ycombinator.com/item?id=37900713) - [A successful example of \"adversarial collaboration.\"](https://statmodeling.stat.columbia.edu/2023/10/16/a-successful-example-of-adversarial-collaboration-when-does-this-approach-work-and-when-does-it-not/)
 * [2023-10-16, 14:53:10](https://news.ycombinator.com/item?id=37900651) - [Stack Overflow is laying off another 28%](https://www.theverge.com/2023/10/16/23919004/stack-overflow-layoff-ai-profitability)
 * [2023-10-16, 14:18:28](https://news.ycombinator.com/item?id=37900194) - [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
 * [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
@@ -18,6 +21,7 @@
 * [2023-10-16, 13:32:58](https://news.ycombinator.com/item?id=37899676) - [Snapdragon X Series chips are heading to PCs to take on Apple's processors](https://liliputing.com/qualcomm-snapdragon-x-series-chips-are-heading-to-pcs-to-take-on-apples-m-series-processors/)
 * [2023-10-16, 13:30:23](https://news.ycombinator.com/item?id=37899638) - [Snowbanks are set to get whiter – offsetting climate change's effects](https://www.nature.com/articles/d41586-023-03106-2)
 * [2023-10-16, 13:18:13](https://news.ycombinator.com/item?id=37899478) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
+* [2023-10-16, 13:06:48](https://news.ycombinator.com/item?id=37899319) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
 * [2023-10-16, 13:06:48](https://news.ycombinator.com/item?id=37899319) - [OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
 * [2023-10-16, 13:03:47](https://news.ycombinator.com/item?id=37899281) - [$100M Valuation and No More Funding](https://davidcummings.org/2023/10/14/100m-valuation-and-no-more-funding/)
 * [2023-10-16, 13:03:13](https://news.ycombinator.com/item?id=37899272) - [X.org Alternatives? MicroXWin, Wayland, Y, DFB, Xynth, Fresco, etc. (2009)](https://bbs.archlinux.org/viewtopic.php?id=87281)

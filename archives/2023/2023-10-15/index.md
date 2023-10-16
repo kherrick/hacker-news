@@ -98,6 +98,7 @@
 * [2023-10-15, 02:23:54](https://news.ycombinator.com/item?id=37886314) - [Steve's Explanation of the Viterbi Algorithm (2003)](https://www.cs.toronto.edu/~sengels/tutorials/viterbi.html)
 * [2023-10-15, 02:12:32](https://news.ycombinator.com/item?id=37886237) - [The Average New EV Costs $14,000 Less Than It Did a Year Ago: KBB](https://www.thedrive.com/news/the-average-new-ev-costs-14000-less-than-it-did-a-year-ago)
 * [2023-10-15, 01:58:16](https://news.ycombinator.com/item?id=37886132) - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
+* [2023-10-15, 01:43:24](https://news.ycombinator.com/item?id=37886049) - [Organizing Multiple Git Identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 * [2023-10-15, 01:34:41](https://news.ycombinator.com/item?id=37886006) - [Lake City Ammo Plant Cancels All Commercial Contracts](https://stapledefense.com/lake-city-plant-commercial-contracts/)
 * [2023-10-15, 01:19:52](https://news.ycombinator.com/item?id=37885909) - [America's 'Gold Standard' GPS Risks Falling Behind Rival Systems](https://www.wsj.com/business/telecom/america-gps-eu-china-gnss-13f042b0)
 * [2023-10-15, 01:01:25](https://news.ycombinator.com/item?id=37885813) - [Show HN: 3D Binpacking Algorithm Visualized](https://skusavvy.com/bin-packing-preview)
