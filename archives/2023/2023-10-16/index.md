@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
+* [2023-10-16, 17:53:28](https://news.ycombinator.com/item?id=37903574) - [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
 * [2023-10-16, 17:35:09](https://news.ycombinator.com/item?id=37903329) - [One of America's most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
 * [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
@@ -19,6 +21,7 @@
 * [2023-10-16, 16:09:32](https://news.ycombinator.com/item?id=37901930) - [Australia fines X for not answering questions on child abuse content](https://www.cnbc.com/2023/10/15/australia-fines-x-formerly-twitter-for-not-answering-questions-on-child-abuse-content-.html)
 * [2023-10-16, 16:07:56](https://news.ycombinator.com/item?id=37901902) - [MemGPT – LLMs with self-editing memory for unbounded context](https://github.com/cpacker/MemGPT)
 * [2023-10-16, 16:06:28](https://news.ycombinator.com/item?id=37901870) - [The real engine behind \"AI\" is the bad tech economy](https://hachyderm.io/@softwaredoug/111245545674056246)
+* [2023-10-16, 15:55:59](https://news.ycombinator.com/item?id=37901692) - [Building cross-cloud identity federation in Go for secure data sharing](https://www.prequel.co/blog/building-cross-cloud-identity-federation-in-go)
 * [2023-10-16, 15:46:39](https://news.ycombinator.com/item?id=37901506) - [LinkedIn to lay off hundreds of people amid broader restructuring](https://www.axios.com/2023/10/16/linkedin-layoffs-restructuring-artifical-intelligence)
 * [2023-10-16, 15:45:47](https://news.ycombinator.com/item?id=37901488) - [LinkedIn laying off nearly 700, mostly from core engineering teams](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html)
 * [2023-10-16, 15:32:37](https://news.ycombinator.com/item?id=37901259) - [The Fall of Babylon is a warning to AI unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
