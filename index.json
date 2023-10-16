@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-16, 12:38:14",
+      "https://news.ycombinator.com/item?id=37898999"
+    ],
+    [
+      "Better HTTP server routing in Go 1.22",
+      "https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 12:09:12",
       "https://news.ycombinator.com/item?id=37898667"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2023-10-16, 10:47:31",
+      "https://news.ycombinator.com/item?id=37897955"
+    ],
+    [
+      "U.S. Teens Spend Average of 4.8 Hours on Social Media per Day",
+      "https://news.gallup.com/poll/512576/teens-spend-average-hours-social-media-per-day.aspx"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 10:46:10",
       "https://news.ycombinator.com/item?id=37897946"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-10-16, 10:22:34",
-      "https://news.ycombinator.com/item?id=37897798"
-    ],
-    [
-      "NY bill would require a criminal history check for the purchase of a 3D printer",
-      "https://www.nysenate.gov/legislation/bills/2023/A8132"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 09:23:43",
       "https://news.ycombinator.com/item?id=37897432"
     ],
@@ -107,6 +117,16 @@
     [
       "Atlassian prepares to abandon on-prem server products",
       "https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 08:34:03",
+      "https://news.ycombinator.com/item?id=37897113"
+    ],
+    [
+      "Bootstrapping a SaaS Business in Germany: How I did it",
+      "https://lukashermann.dev/writing/bootstrapping-a-saas-business-in-germany/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-10-15, 21:59:28",
-      "https://news.ycombinator.com/item?id=37893794"
-    ],
-    [
-      "Microsoft consumes Activision; and a plea",
-      "https://blog.zarfhome.com/2023/10/microsoft-consumes-activision"
-    ]
-  ],
-  [
-    [
       "2023-10-15, 20:16:13",
       "https://news.ycombinator.com/item?id=37893022"
     ],
     [
       "Cybernetics and Ghosts (1967) [pdf]",
       "https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 18:18:44",
-      "https://news.ycombinator.com/item?id=37892028"
-    ],
-    [
-      "SSH-audit: SSH server and client security auditing",
-      "https://github.com/jtesta/ssh-audit"
     ]
   ],
   [
