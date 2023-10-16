@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 11:21:06](https://news.ycombinator.com/item?id=37898199) - [Stack Overflow announces 28% headcount reduction](https://stackoverflow.blog/2023/10/16/stack-overflow-company-announcement-october-2023/)
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
 * [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
 * [2023-10-16, 10:40:17](https://news.ycombinator.com/item?id=37897916) - [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
