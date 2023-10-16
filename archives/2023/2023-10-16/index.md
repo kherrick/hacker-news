@@ -6,6 +6,7 @@
 
 * [2023-10-16, 11:21:06](https://news.ycombinator.com/item?id=37898199) - [Stack Overflow announces 28% headcount reduction](https://stackoverflow.blog/2023/10/16/stack-overflow-company-announcement-october-2023/)
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
+* [2023-10-16, 10:46:10](https://news.ycombinator.com/item?id=37897946) - [C Is Not a Low-level Language – Your computer is not a fast PDP-11](https://queue.acm.org/detail.cfm?id=3212479)
 * [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
 * [2023-10-16, 10:40:17](https://news.ycombinator.com/item?id=37897916) - [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
 * [2023-10-16, 10:22:34](https://news.ycombinator.com/item?id=37897798) - [NY bill would require a criminal history check for the purchase of a 3D printer](https://www.nysenate.gov/legislation/bills/2023/A8132)
