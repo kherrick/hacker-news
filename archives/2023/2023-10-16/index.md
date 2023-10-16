@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
 * [2023-10-16, 09:25:12](https://news.ycombinator.com/item?id=37897444) - [Zip: How not to design a file format](https://games.greggman.com/game/zip-rant/)
+* [2023-10-16, 09:23:43](https://news.ycombinator.com/item?id=37897432) - [Windows 10 warns me to use a \"Microsoft-verified\" app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
+* [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
 * [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 * [2023-10-16, 07:17:24](https://news.ycombinator.com/item?id=37896694) - [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
 * [2023-10-16, 07:00:07](https://news.ycombinator.com/item?id=37896615) - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
