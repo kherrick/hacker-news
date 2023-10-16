@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 15:45:47](https://news.ycombinator.com/item?id=37901488) - [LinkedIn laying off nearly 700, mostly from core engineering teams](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html)
+* [2023-10-16, 15:32:37](https://news.ycombinator.com/item?id=37901259) - [The Fall of Babylon is a warning to AI unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
 * [2023-10-16, 15:20:00](https://news.ycombinator.com/item?id=37901059) - [Goldman Sachs reportedly said Apple Card savings account was a ****ing mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
 * [2023-10-16, 15:18:17](https://news.ycombinator.com/item?id=37901025) - [Analogue 3D](https://www.analogue.co/3d)
 * [2023-10-16, 15:12:51](https://news.ycombinator.com/item?id=37900935) - [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
