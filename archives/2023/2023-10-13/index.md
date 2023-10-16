@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 23:07:38](https://news.ycombinator.com/item?id=37876589) - [Runtime Verification for Trustworthy Computing](https://arxiv.org/abs/2310.02341)
 * [2023-10-13, 23:03:36](https://news.ycombinator.com/item?id=37876551) - [Video Friday: Strandbeest](https://spectrum.ieee.org/video-friday-strandbeest-2)
 * [2023-10-13, 22:30:18](https://news.ycombinator.com/item?id=37876328) - [Dropbox AI](https://blog.dropbox.com/topics/product/introducing-AI-powered-tools%3C)
 * [2023-10-13, 21:42:58](https://news.ycombinator.com/item?id=37875943) - [Cloudy with a Chance of Insanity: Unsticking iCloud Drive](https://tidbits.com/2023/10/12/cloudy-with-a-chance-of-insanity-unsticking-icloud-drive/)
