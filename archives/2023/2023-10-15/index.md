@@ -21,6 +21,7 @@
 * [2023-10-15, 20:27:17](https://news.ycombinator.com/item?id=37893111) - [Bytecode and the Busicom (2022)](https://thechipletter.substack.com/p/bytecode-and-the-busicom)
 * [2023-10-15, 20:24:20](https://news.ycombinator.com/item?id=37893091) - [The Sycamore Gap tree held a particularly deep place in people's hearts](https://www.economist.com/obituary/2023/10/04/the-sycamore-gap-tree-held-a-particularly-deep-place-in-peoples-hearts)
 * [2023-10-15, 20:23:55](https://news.ycombinator.com/item?id=37893080) - [Omnigres: Postgres as a Platform](https://github.com/omnigres/omnigres)
+* [2023-10-15, 20:16:13](https://news.ycombinator.com/item?id=37893022) - [Cybernetics and Ghosts (1967) [pdf]](https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf)
 * [2023-10-15, 19:36:58](https://news.ycombinator.com/item?id=37892721) - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
 * [2023-10-15, 19:33:35](https://news.ycombinator.com/item?id=37892684) - [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data)
 * [2023-10-15, 19:30:25](https://news.ycombinator.com/item?id=37892654) - [Hyphens in Man Pages](https://lists.debian.org/debian-devel/2023/10/msg00083.html)
