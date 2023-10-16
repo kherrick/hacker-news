@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 12:09:12](https://news.ycombinator.com/item?id=37898667) - [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
 * [2023-10-16, 12:00:27](https://news.ycombinator.com/item?id=37898561) - [Verdn (YC W22) Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2023-10-16, 11:58:54](https://news.ycombinator.com/item?id=37898544) - [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
+* [2023-10-16, 11:45:35](https://news.ycombinator.com/item?id=37898391) - [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
 * [2023-10-16, 11:21:06](https://news.ycombinator.com/item?id=37898199) - [Stack Overflow announces 28% headcount reduction](https://stackoverflow.blog/2023/10/16/stack-overflow-company-announcement-october-2023/)
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
 * [2023-10-16, 10:46:10](https://news.ycombinator.com/item?id=37897946) - [C Is Not a Low-level Language – Your computer is not a fast PDP-11](https://queue.acm.org/detail.cfm?id=3212479)

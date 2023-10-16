@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 12:09:12](https://news.ycombinator.com/item?id=37898667) - [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
 * [2023-10-16, 12:00:27](https://news.ycombinator.com/item?id=37898561) - [Verdn (YC W22) Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2023-10-16, 11:58:54](https://news.ycombinator.com/item?id=37898544) - [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
-* [2023-10-16, 11:21:06](https://news.ycombinator.com/item?id=37898199) - [Stack Overflow announces 28% headcount reduction](https://stackoverflow.blog/2023/10/16/stack-overflow-company-announcement-october-2023/)
+* [2023-10-16, 11:45:35](https://news.ycombinator.com/item?id=37898391) - [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
 * [2023-10-16, 10:46:10](https://news.ycombinator.com/item?id=37897946) - [C Is Not a Low-level Language – Your computer is not a fast PDP-11](https://queue.acm.org/detail.cfm?id=3212479)
 * [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
@@ -25,7 +26,6 @@
 * [2023-10-15, 22:24:42](https://news.ycombinator.com/item?id=37893960) - [One (1) new Wii U console was sold in the U.S. during September 2023](https://mynintendonews.com/2023/10/14/us-a-single-brand-new-wii-u-console-was-sold-during-september-2023/)
 * [2023-10-15, 22:10:30](https://news.ycombinator.com/item?id=37893856) - [Why the Culture Wins: An Appreciation of Iain M. Banks (2017)](https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/)
 * [2023-10-15, 21:59:28](https://news.ycombinator.com/item?id=37893794) - [Microsoft consumes Activision; and a plea](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
-* [2023-10-15, 21:30:27](https://news.ycombinator.com/item?id=37893555) - [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
 * [2023-10-15, 20:16:13](https://news.ycombinator.com/item?id=37893022) - [Cybernetics and Ghosts (1967) [pdf]](https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 * [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain at Stormfield (1909) [video]](https://www.youtube.com/watch?v=leYj--P4CgQ)
