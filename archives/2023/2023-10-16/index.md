@@ -12,6 +12,7 @@
 * [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
 * [2023-10-16, 14:03:11](https://news.ycombinator.com/item?id=37900028) - [AI Tinder already exists: 'Real people will disappoint you, but not them'](https://english.elpais.com/technology/2023-10-09/ai-tinder-already-exists-real-people-will-disappoint-you-but-not-them.html)
 * [2023-10-16, 13:59:25](https://news.ycombinator.com/item?id=37899993) - [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
+* [2023-10-16, 13:53:49](https://news.ycombinator.com/item?id=37899922) - [Advent of Code 2023's new AI/LLM Policy](https://adventofcode.com/about#ai_leaderboard)
 * [2023-10-16, 13:32:58](https://news.ycombinator.com/item?id=37899676) - [Snapdragon X Series chips are heading to PCs to take on Apple's processors](https://liliputing.com/qualcomm-snapdragon-x-series-chips-are-heading-to-pcs-to-take-on-apples-m-series-processors/)
 * [2023-10-16, 13:30:23](https://news.ycombinator.com/item?id=37899638) - [Snowbanks are set to get whiter – offsetting climate change's effects](https://www.nature.com/articles/d41586-023-03106-2)
 * [2023-10-16, 13:18:13](https://news.ycombinator.com/item?id=37899478) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
