@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
 * [2023-10-16, 17:00:48](https://news.ycombinator.com/item?id=37902815) - [Motion (YC W20) Is Hiring Staff Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2023-10-16, 16:37:00](https://news.ycombinator.com/item?id=37902412) - [I wrote the book on user-friendly design. What I see today horrifies me (2019)](https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me)
 * [2023-10-16, 16:36:49](https://news.ycombinator.com/item?id=37902406) - [Tech layoffs exceed 240k so far in 2023, 50% more than 2022](https://www.msn.com/en-us/money/companies/tech-layoffs-exceed-240000-so-far-in-2023-more-than-50-higher-than-in-all-of-2022/ar-AA1ib3AY)
 * [2023-10-16, 16:33:45](https://news.ycombinator.com/item?id=37902350) - [Hong Kong Locations in Ghost in the Shell](https://randomwire.com/recreating-ghost-in-hong-kong/comment-page-1/)
 * [2023-10-16, 16:27:08](https://news.ycombinator.com/item?id=37902217) - [Can You Hide a Child's Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
@@ -43,6 +44,7 @@
 * [2023-10-16, 12:00:27](https://news.ycombinator.com/item?id=37898561) - [Verdn (YC W22) Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2023-10-16, 11:58:54](https://news.ycombinator.com/item?id=37898544) - [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
 * [2023-10-16, 11:45:35](https://news.ycombinator.com/item?id=37898391) - [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
+* [2023-10-16, 11:23:57](https://news.ycombinator.com/item?id=37898223) - [Isometric Geological Diagrams](https://socks-studio.com/2023/10/15/the-hidden-territory-usgss-1950s-to-1970s-isometric-geological-diagrams/)
 * [2023-10-16, 11:21:06](https://news.ycombinator.com/item?id=37898199) - [Stack Overflow announces 28% headcount reduction](https://stackoverflow.blog/2023/10/16/stack-overflow-company-announcement-october-2023/)
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
 * [2023-10-16, 10:48:01](https://news.ycombinator.com/item?id=37897958) - [Forget privacy: you're terrible at targeting anyway (2019)](https://apenwarr.ca/log/20190201)
