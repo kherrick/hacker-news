@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
 * [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
 * [2023-10-16, 10:40:17](https://news.ycombinator.com/item?id=37897916) - [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
 * [2023-10-16, 09:25:12](https://news.ycombinator.com/item?id=37897444) - [Zip – How not to design a file format (2021)](https://games.greggman.com/game/zip-rant/)
@@ -15,7 +16,6 @@
 * [2023-10-16, 01:15:15](https://news.ycombinator.com/item?id=37894925) - [Canon Nanoimprint lithography semiconductor manufacturing system (5nm)](https://global.canon/en/news/2023/20231013.html)
 * [2023-10-16, 00:29:31](https://news.ycombinator.com/item?id=37894684) - [Visualizing American inflation across eight categories](https://perthirtysix.com/tool/visualizing-american-inflation)
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
-* [2023-10-15, 23:31:56](https://news.ycombinator.com/item?id=37894390) - [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
 * [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada ends official time signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
 * [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-15, 22:24:42](https://news.ycombinator.com/item?id=37893960) - [One (1) new Wii U console was sold in the U.S. during September 2023](https://mynintendonews.com/2023/10/14/us-a-single-brand-new-wii-u-console-was-sold-during-september-2023/)
