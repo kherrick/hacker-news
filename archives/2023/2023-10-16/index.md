@@ -7,6 +7,7 @@
 * [2023-10-16, 21:42:06](https://news.ycombinator.com/item?id=37907055) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx)
 * [2023-10-16, 21:03:32](https://news.ycombinator.com/item?id=37906601) - [OneSignal (YC S11) Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
 * [2023-10-16, 20:37:26](https://news.ycombinator.com/item?id=37906206) - [Ask HN: Best Tech Courses/Certifications Under $400 for a Back End Engineer?](https://news.ycombinator.com/item?id=37906206)
+* [2023-10-16, 20:03:02](https://news.ycombinator.com/item?id=37905669) - [Coolify – Self-Hosting with Superpowers](https://coolify.io/)
 * [2023-10-16, 20:01:26](https://news.ycombinator.com/item?id=37905638) - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)
 * [2023-10-16, 19:59:35](https://news.ycombinator.com/item?id=37905601) - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 * [2023-10-16, 19:41:08](https://news.ycombinator.com/item?id=37905251) - [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
