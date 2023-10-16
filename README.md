@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
+* [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
 * [2023-10-16, 17:00:48](https://news.ycombinator.com/item?id=37902815) - [Motion (YC W20) is hiring staff front end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-10-16, 16:37:00](https://news.ycombinator.com/item?id=37902412) - [I wrote the book on user-friendly design. What I see today horrifies me (2019)](https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me)
-* [2023-10-16, 16:36:49](https://news.ycombinator.com/item?id=37902406) - [Tech layoffs exceed 240k so far in 2023, 50% more than 2022](https://www.msn.com/en-us/money/companies/tech-layoffs-exceed-240000-so-far-in-2023-more-than-50-higher-than-in-all-of-2022/ar-AA1ib3AY)
 * [2023-10-16, 16:33:45](https://news.ycombinator.com/item?id=37902350) - [Hong Kong Locations in Ghost in the Shell](https://randomwire.com/recreating-ghost-in-hong-kong/comment-page-1/)
-* [2023-10-16, 16:27:08](https://news.ycombinator.com/item?id=37902217) - [Can You Hide a Child's Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
 * [2023-10-16, 16:25:28](https://news.ycombinator.com/item?id=37902190) - [If you value Tor, please make a donation](https://blog.torproject.org/2023-fundraiser-make-a-donation-to-Tor/)
 * [2023-10-16, 16:23:15](https://news.ycombinator.com/item?id=37902148) - [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
 * [2023-10-16, 16:09:32](https://news.ycombinator.com/item?id=37901930) - [Australia fines X for not answering questions on child abuse content](https://www.cnbc.com/2023/10/15/australia-fines-x-formerly-twitter-for-not-answering-questions-on-child-abuse-content-.html)
