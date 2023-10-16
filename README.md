@@ -2,7 +2,7 @@
 
 * [2023-10-16, 19:00:13](https://news.ycombinator.com/item?id=37904530) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
 * [2023-10-16, 18:59:46](https://news.ycombinator.com/item?id=37904518) - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
-* [2023-10-16, 18:34:14](https://news.ycombinator.com/item?id=37904101) - [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=37904101)
+* [2023-10-16, 18:38:57](https://news.ycombinator.com/item?id=37904166) - [Colorado Supreme Court Approves Use of Google Search Data in Murder Case](https://www.bloomberg.com/news/articles/2023-10-16/colorado-court-approves-use-of-google-search-data-in-murder-case)
 * [2023-10-16, 18:29:55](https://news.ycombinator.com/item?id=37904047) - [Hallucineted CVE against Curl: someone asked Bard to find a vulnerability](https://mastodon.social/@bagder/111245232072475867)
 * [2023-10-16, 18:18:22](https://news.ycombinator.com/item?id=37903890) - [Leaving Twitter had no effect on NPR's traffic](https://pluralistic.net/2023/10/14/freedom-of-reach/)
 * [2023-10-16, 18:11:58](https://news.ycombinator.com/item?id=37903812) - [Intel's Latest I9 Chip Has Speeds Up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
