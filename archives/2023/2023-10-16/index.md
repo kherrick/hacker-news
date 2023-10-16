@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 17:00:48](https://news.ycombinator.com/item?id=37902815) - [Motion (YC W20) Is Hiring Staff Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2023-10-16, 16:36:49](https://news.ycombinator.com/item?id=37902406) - [Tech layoffs exceed 240k so far in 2023, 50% more than 2022](https://www.msn.com/en-us/money/companies/tech-layoffs-exceed-240000-so-far-in-2023-more-than-50-higher-than-in-all-of-2022/ar-AA1ib3AY)
 * [2023-10-16, 16:33:45](https://news.ycombinator.com/item?id=37902350) - [Hong Kong Locations in Ghost in the Shell](https://randomwire.com/recreating-ghost-in-hong-kong/comment-page-1/)
 * [2023-10-16, 16:27:08](https://news.ycombinator.com/item?id=37902217) - [Can You Hide a Child's Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
 * [2023-10-16, 16:23:15](https://news.ycombinator.com/item?id=37902148) - [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
 * [2023-10-16, 16:22:51](https://news.ycombinator.com/item?id=37902140) - [Worst Examples of Meta's Dystopian AI Influencers](https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709)
+* [2023-10-16, 16:09:32](https://news.ycombinator.com/item?id=37901930) - [Australia fines X for not answering questions on child abuse content](https://www.cnbc.com/2023/10/15/australia-fines-x-formerly-twitter-for-not-answering-questions-on-child-abuse-content-.html)
 * [2023-10-16, 16:07:56](https://news.ycombinator.com/item?id=37901902) - [MemGPT – LLMs with self-editing memory for unbounded context](https://github.com/cpacker/MemGPT)
 * [2023-10-16, 16:06:28](https://news.ycombinator.com/item?id=37901870) - [The real engine behind \"AI\" is the bad tech economy](https://hachyderm.io/@softwaredoug/111245545674056246)
 * [2023-10-16, 15:46:39](https://news.ycombinator.com/item?id=37901506) - [LinkedIn to lay off hundreds of people amid broader restructuring](https://www.axios.com/2023/10/16/linkedin-layoffs-restructuring-artifical-intelligence)
@@ -52,6 +55,7 @@
 * [2023-10-16, 09:23:43](https://news.ycombinator.com/item?id=37897432) - [Windows 10 warns me to use a \"Microsoft-verified\" app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
 * [2023-10-16, 09:14:38](https://news.ycombinator.com/item?id=37897388) - [My opinion on the future of React development](https://news.ycombinator.com/item?id=37897388)
 * [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
+* [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can We Build Trustable Hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
 * [2023-10-16, 08:34:03](https://news.ycombinator.com/item?id=37897113) - [Bootstrapping a SaaS Business in Germany: How I did it](https://lukashermann.dev/writing/bootstrapping-a-saas-business-in-germany/)
 * [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 * [2023-10-16, 07:25:43](https://news.ycombinator.com/item?id=37896737) - [Disclosing the BLOODALCHEMY backdoor](https://www.elastic.co/security-labs/disclosing-the-bloodalchemy-backdoor)
