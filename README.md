@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 19:59:35](https://news.ycombinator.com/item?id=37905601) - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 * [2023-10-16, 19:41:08](https://news.ycombinator.com/item?id=37905251) - [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
 * [2023-10-16, 19:11:21](https://news.ycombinator.com/item?id=37904709) - [El Salvador Taps Geothermal Energy in New Bitcoin Mining Project](https://oilprice.com/Alternative-Energy/Geothermal-Energy/El-Salvador-Taps-Geothermal-Energy-In-New-Bitcoin-Mining-Project.html)
 * [2023-10-16, 19:00:13](https://news.ycombinator.com/item?id=37904530) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
@@ -9,7 +10,6 @@
 * [2023-10-16, 17:56:46](https://news.ycombinator.com/item?id=37903603) - [Google's Green Light project retimes traffic lights for 30% fewer stops](https://newatlas.com/transport/google-green-light-traffic/)
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:46:44](https://news.ycombinator.com/item?id=37903489) - [The 2.5 year side project app I designed, built, and never launched](https://paulstamatiou.com/stocketa/)
-* [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
 * [2023-10-16, 17:21:05](https://news.ycombinator.com/item?id=37903100) - [Demo: Android 14 Clipboard Manager Data Leak Security Issue](https://fingerprint.com/blog/android-14-clipboard-security-leak/)
 * [2023-10-16, 17:00:48](https://news.ycombinator.com/item?id=37902815) - [Motion (YC W20) is hiring staff front end engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
