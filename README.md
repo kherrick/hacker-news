@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
+* [2023-10-16, 10:40:17](https://news.ycombinator.com/item?id=37897916) - [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
 * [2023-10-16, 09:25:12](https://news.ycombinator.com/item?id=37897444) - [Zip – How not to design a file format (2021)](https://games.greggman.com/game/zip-rant/)
 * [2023-10-16, 09:23:43](https://news.ycombinator.com/item?id=37897432) - [Windows 10 warns me to use a \"Microsoft-verified\" app](https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app)
 * [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
@@ -10,7 +12,6 @@
 * [2023-10-16, 03:11:16](https://news.ycombinator.com/item?id=37895552) - [Tech giants are hijacking the internet](https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639)
 * [2023-10-16, 02:48:21](https://news.ycombinator.com/item?id=37895446) - [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
 * [2023-10-16, 02:30:44](https://news.ycombinator.com/item?id=37895370) - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
-* [2023-10-16, 02:13:40](https://news.ycombinator.com/item?id=37895272) - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
 * [2023-10-16, 01:15:15](https://news.ycombinator.com/item?id=37894925) - [Canon Nanoimprint lithography semiconductor manufacturing system (5nm)](https://global.canon/en/news/2023/20231013.html)
 * [2023-10-16, 00:29:31](https://news.ycombinator.com/item?id=37894684) - [Visualizing American inflation across eight categories](https://perthirtysix.com/tool/visualizing-american-inflation)
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
@@ -26,7 +27,6 @@
 * [2023-10-15, 20:23:55](https://news.ycombinator.com/item?id=37893080) - [Omnigres: Postgres as a Platform](https://github.com/omnigres/omnigres)
 * [2023-10-15, 20:16:13](https://news.ycombinator.com/item?id=37893022) - [Cybernetics and Ghosts (1967) [pdf]](https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
-* [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 * [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain at Stormfield (1909) [video]](https://www.youtube.com/watch?v=leYj--P4CgQ)
 * [2023-10-13, 20:23:28](https://news.ycombinator.com/item?id=37875193) - [The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
 * [2023-10-12, 19:35:57](https://news.ycombinator.com/item?id=37862039) - [PeaTMOSS: Mining Pre-Trained Models in Open-Source Software](https://arxiv.org/abs/2310.03620)
