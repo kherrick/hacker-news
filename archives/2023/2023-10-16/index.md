@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 17:35:09](https://news.ycombinator.com/item?id=37903329) - [One of America's most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
 * [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
 * [2023-10-16, 17:00:48](https://news.ycombinator.com/item?id=37902815) - [Motion (YC W20) Is Hiring Staff Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -64,6 +65,7 @@
 * [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
 * [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can We Build Trustable Hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
 * [2023-10-16, 08:34:03](https://news.ycombinator.com/item?id=37897113) - [Bootstrapping a SaaS Business in Germany: How I did it](https://lukashermann.dev/writing/bootstrapping-a-saas-business-in-germany/)
+* [2023-10-16, 07:47:16](https://news.ycombinator.com/item?id=37896854) - [Chess Written in GNU Sed](https://github.com/moldabekov/chess-sed)
 * [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 * [2023-10-16, 07:25:43](https://news.ycombinator.com/item?id=37896737) - [Disclosing the BLOODALCHEMY backdoor](https://www.elastic.co/security-labs/disclosing-the-bloodalchemy-backdoor)
 * [2023-10-16, 07:17:24](https://news.ycombinator.com/item?id=37896694) - [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
