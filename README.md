@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 02:13:40](https://news.ycombinator.com/item?id=37895272) - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
 * [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
 * [2023-10-15, 23:24:11](https://news.ycombinator.com/item?id=37894341) - [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
@@ -16,7 +17,6 @@
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 * [2023-10-15, 15:48:33](https://news.ycombinator.com/item?id=37890742) - [Omnivore – free, open source, read-it-later App](https://omnivore.app/)
 * [2023-10-15, 15:47:07](https://news.ycombinator.com/item?id=37890725) - [Being picky about a CSS reset for fun](https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/)
-* [2023-10-15, 15:46:59](https://news.ycombinator.com/item?id=37890723) - [Impureim Sandwich (2020)](https://blog.ploeh.dk/2020/03/02/impureim-sandwich/)
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 * [2023-10-15, 15:18:39](https://news.ycombinator.com/item?id=37890453) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain filmed by Thomas Edison in 1909](https://www.youtube.com/watch?v=leYj--P4CgQ)
