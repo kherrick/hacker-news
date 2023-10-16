@@ -16,6 +16,7 @@
 * [2023-10-16, 18:18:22](https://news.ycombinator.com/item?id=37903890) - [Leaving Twitter had no effect on NPR's traffic](https://pluralistic.net/2023/10/14/freedom-of-reach/)
 * [2023-10-16, 18:11:58](https://news.ycombinator.com/item?id=37903812) - [Intel's Latest I9 Chip Has Speeds Up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
 * [2023-10-16, 18:06:54](https://news.ycombinator.com/item?id=37903737) - [California to require firms to reveal carbon emissions in first law of its kind](https://www.theguardian.com/us-news/2023/oct/09/california-carbon-emissions-law)
+* [2023-10-16, 17:56:46](https://news.ycombinator.com/item?id=37903603) - [Google's Green Light project retimes traffic lights for 30% fewer stops](https://newatlas.com/transport/google-green-light-traffic/)
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:53:28](https://news.ycombinator.com/item?id=37903574) - [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
 * [2023-10-16, 17:49:38](https://news.ycombinator.com/item?id=37903520) - [AGPL license is a non-starter for most companies](https://opencoreventures.com/blog/2023-10-agpl-license-is-a-non-starter-for-most-companies/)
