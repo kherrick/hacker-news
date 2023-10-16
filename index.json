@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-16, 18:31:07",
+      "https://news.ycombinator.com/item?id=37904065"
+    ],
+    [
+      "HashiCorp CEO Predicts OSS-Free Silicon Valley",
+      "https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 18:29:55",
+      "https://news.ycombinator.com/item?id=37904047"
+    ],
+    [
+      "Hallucineted CVE against Curl: someone asked Bard to find a vulnerability",
+      "https://mastodon.social/@bagder/111245232072475867"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 18:06:54",
+      "https://news.ycombinator.com/item?id=37903737"
+    ],
+    [
+      "California to require firms to reveal carbon emissions in first law of its kind",
+      "https://www.theguardian.com/us-news/2023/oct/09/california-carbon-emissions-law"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 17:56:34",
       "https://news.ycombinator.com/item?id=37903600"
     ],
@@ -17,6 +47,16 @@
     [
       "Ask HN: New ThinkPad battery life on Ubuntu",
       "https://news.ycombinator.com/item?id=37903574"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 17:49:38",
+      "https://news.ycombinator.com/item?id=37903520"
+    ],
+    [
+      "AGPL license is a non-starter for most companies",
+      "https://opencoreventures.com/blog/2023-10-agpl-license-is-a-non-starter-for-most-companies/"
     ]
   ],
   [
@@ -81,42 +121,12 @@
   ],
   [
     [
-      "2023-10-16, 16:23:15",
-      "https://news.ycombinator.com/item?id=37902148"
-    ],
-    [
-      "Signal says there is no evidence rumored zero-day bug is real",
-      "https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 16:09:32",
-      "https://news.ycombinator.com/item?id=37901930"
-    ],
-    [
-      "Australia fines X for not answering questions on child abuse content",
-      "https://www.cnbc.com/2023/10/15/australia-fines-x-formerly-twitter-for-not-answering-questions-on-child-abuse-content-.html"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 16:07:56",
       "https://news.ycombinator.com/item?id=37901902"
     ],
     [
       "MemGPT – LLMs with self-editing memory for unbounded context",
       "https://github.com/cpacker/MemGPT"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 15:55:59",
-      "https://news.ycombinator.com/item?id=37901692"
-    ],
-    [
-      "Building cross-cloud identity federation in Go for secure data sharing",
-      "https://www.prequel.co/blog/building-cross-cloud-identity-federation-in-go"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft",
       "https://news.ycombinator.com/item?id=37901120"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 15:18:17",
-      "https://news.ycombinator.com/item?id=37901025"
-    ],
-    [
-      "Analogue 3D",
-      "https://www.analogue.co/3d"
     ]
   ],
   [
