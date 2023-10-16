@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-16, 03:25:23",
+      "https://news.ycombinator.com/item?id=37895630"
+    ],
+    [
+      "Peter Molyneux wants Project MOAT to represent his life's work",
+      "https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 03:20:55",
+      "https://news.ycombinator.com/item?id=37895601"
+    ],
+    [
+      "Pali-3 Vision Language Models: Smaller, Faster, Stronger",
+      "https://arxiv.org/abs/2310.09199"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 02:48:21",
       "https://news.ycombinator.com/item?id=37895446"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2023-10-16, 00:27:50",
-      "https://news.ycombinator.com/item?id=37894676"
-    ],
-    [
-      "I Will Fucking Haymaker You If You Mention Agile Again",
-      "https://ludic.mataroa.blog/blog/i-will-fucking-haymaker-you-if-you-mention-agile-again/"
-    ]
-  ],
-  [
-    [
       "2023-10-15, 23:33:15",
       "https://news.ycombinator.com/item?id=37894403"
     ],
@@ -67,16 +77,6 @@
     [
       "Canada Abruptly Ends Official Time Signal",
       "https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 23:24:11",
-      "https://news.ycombinator.com/item?id=37894341"
-    ],
-    [
-      "Engineering Judgement: Ralph Peck [video]",
-      "https://peck.geoengineer.org/resources/videos/singleVideo/41"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-10-13, 23:07:38",
-      "https://news.ycombinator.com/item?id=37876589"
-    ],
-    [
-      "Runtime Verification for Trustworthy Computing",
-      "https://arxiv.org/abs/2310.02341"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 21:39:58",
       "https://news.ycombinator.com/item?id=37875924"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: OpenBLE, Swagger for Bluetooth",
       "https://demo.openble.org"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 19:35:57",
+      "https://news.ycombinator.com/item?id=37862039"
+    ],
+    [
+      "PeaTMOSS: Mining Pre-Trained Models in Open-Source Software",
+      "https://arxiv.org/abs/2310.03620"
     ]
   ]
 ]
