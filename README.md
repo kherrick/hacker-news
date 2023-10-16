@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 22:26:57](https://news.ycombinator.com/item?id=37907519) - [Edinburgh couple are handed £17K bill by Tesla as they 'drove in rain'](https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-couple-fume-handed-17k-27906242)
 * [2023-10-16, 21:42:06](https://news.ycombinator.com/item?id=37907055) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx)
 * [2023-10-16, 21:25:06](https://news.ycombinator.com/item?id=37906871) - [NY Bill Would Require Background Checks to Buy 3D Printers](https://www.tomshardware.com/news/ny-bill-bans-3d-printers)
 * [2023-10-16, 21:03:32](https://news.ycombinator.com/item?id=37906601) - [OneSignal (YC S11) Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
@@ -15,7 +16,6 @@
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
 * [2023-10-16, 17:21:05](https://news.ycombinator.com/item?id=37903100) - [Demo: Android 14 Clipboard Manager Data Leak Security Issue](https://fingerprint.com/blog/android-14-clipboard-security-leak/)
 * [2023-10-16, 16:52:57](https://news.ycombinator.com/item?id=37902679) - [Napflix – Siesta Video Platform](https://napflix.tv/)
-* [2023-10-16, 16:37:00](https://news.ycombinator.com/item?id=37902412) - [The world is designed against the elderly, writes Don Norman](https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me)
 * [2023-10-16, 16:07:56](https://news.ycombinator.com/item?id=37901902) - [MemGPT – LLMs with self-editing memory for unbounded context](https://github.com/cpacker/MemGPT)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 14:57:12](https://news.ycombinator.com/item?id=37900713) - [A successful example of \"adversarial collaboration\"](https://statmodeling.stat.columbia.edu/2023/10/16/a-successful-example-of-adversarial-collaboration-when-does-this-approach-work-and-when-does-it-not/)
