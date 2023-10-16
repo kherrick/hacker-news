@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
+* [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
+* [2023-10-15, 23:24:11](https://news.ycombinator.com/item?id=37894341) - [Engineering Judgement: Ralph Peck [video]](https://peck.geoengineer.org/resources/videos/singleVideo/41)
 * [2023-10-15, 22:43:37](https://news.ycombinator.com/item?id=37894081) - [Extroverts more likely to resist vaccines, study shows](https://www.utep.edu/newsfeed/2023/extroverts-more-likely-to-resist-vaccines-study-shows.html)
 * [2023-10-15, 22:43:06](https://news.ycombinator.com/item?id=37894072) - [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
 * [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
+* [2023-10-15, 21:59:28](https://news.ycombinator.com/item?id=37893794) - [Microsoft buys Activision – what happens to Infocom's text adventures now?](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
 * [2023-10-15, 21:35:51](https://news.ycombinator.com/item?id=37893601) - [Florida men scammed more than $1M out of Uber Eats](https://www.insider.com/2-florida-men-scammed-more-than-1-million-uber-eats-2023-8)
 * [2023-10-15, 21:30:27](https://news.ycombinator.com/item?id=37893555) - [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
 * [2023-10-15, 21:17:29](https://news.ycombinator.com/item?id=37893467) - [The largest dam removal in history stirs hopes of restoring tribes' way of life](https://www.latimes.com/environment/story/2023-10-05/klamath-dam-removal-tribes)
