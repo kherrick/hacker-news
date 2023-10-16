@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
 * [2023-10-16, 15:20:00](https://news.ycombinator.com/item?id=37901059) - [Goldman Sachs reportedly said Apple Card savings account was a ****ing mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
+* [2023-10-16, 15:18:17](https://news.ycombinator.com/item?id=37901025) - [Analogue 3D](https://www.analogue.co/3d)
 * [2023-10-16, 15:12:51](https://news.ycombinator.com/item?id=37900935) - [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
+* [2023-10-16, 14:53:10](https://news.ycombinator.com/item?id=37900651) - [Stack Overflow is laying off another 28%](https://www.theverge.com/2023/10/16/23919004/stack-overflow-layoff-ai-profitability)
 * [2023-10-16, 14:18:28](https://news.ycombinator.com/item?id=37900194) - [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
 * [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
 * [2023-10-16, 14:03:11](https://news.ycombinator.com/item?id=37900028) - [AI Tinder already exists: 'Real people will disappoint you, but not them'](https://english.elpais.com/technology/2023-10-09/ai-tinder-already-exists-real-people-will-disappoint-you-but-not-them.html)

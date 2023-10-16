@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-16, 15:20:00](https://news.ycombinator.com/item?id=37901059) - [Goldman Sachs reportedly said Apple Card savings account was a ****ing mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
-* [2023-10-16, 15:12:51](https://news.ycombinator.com/item?id=37900935) - [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
+* [2023-10-16, 15:20:00](https://news.ycombinator.com/item?id=37901059) - [Goldman Sachs reportedly said Apple Card savings account was a mistake](https://9to5mac.com/2023/10/16/apple-card-savings-account-mistake/)
+* [2023-10-16, 15:18:17](https://news.ycombinator.com/item?id=37901025) - [Analogue 3D](https://www.analogue.co/3d)
+* [2023-10-16, 14:53:10](https://news.ycombinator.com/item?id=37900651) - [Stack Overflow is laying off another 28%](https://www.theverge.com/2023/10/16/23919004/stack-overflow-layoff-ai-profitability)
 * [2023-10-16, 14:18:28](https://news.ycombinator.com/item?id=37900194) - [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
 * [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
 * [2023-10-16, 13:59:25](https://news.ycombinator.com/item?id=37899993) - [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
@@ -29,7 +30,6 @@
 * [2023-10-16, 02:48:21](https://news.ycombinator.com/item?id=37895446) - [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
 * [2023-10-16, 02:30:44](https://news.ycombinator.com/item?id=37895370) - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
 * [2023-10-16, 01:15:15](https://news.ycombinator.com/item?id=37894925) - [Canon Nanoimprint lithography semiconductor manufacturing system (5nm)](https://global.canon/en/news/2023/20231013.html)
-* [2023-10-16, 00:29:31](https://news.ycombinator.com/item?id=37894684) - [Visualizing American inflation across eight categories](https://perthirtysix.com/tool/visualizing-american-inflation)
 
 ## [Archives](archives/index.md)
 
