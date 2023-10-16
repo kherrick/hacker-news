@@ -12,6 +12,7 @@
 * [2023-10-15, 22:43:06](https://news.ycombinator.com/item?id=37894072) - [Margaret Atwood Reviews a Margaret Atwood Story by AI](https://thewalrus.ca/margaret-atwood-ai/)
 * [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-15, 22:24:42](https://news.ycombinator.com/item?id=37893960) - [One (1) new Wii U console was sold in the U.S. during September 2023](https://mynintendonews.com/2023/10/14/us-a-single-brand-new-wii-u-console-was-sold-during-september-2023/)
+* [2023-10-15, 22:10:30](https://news.ycombinator.com/item?id=37893856) - [Why the Culture Wins: An Appreciation of Iain M. Banks (2017; by Joseph Heath)](https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/)
 * [2023-10-15, 21:59:28](https://news.ycombinator.com/item?id=37893794) - [Microsoft buys Activision – what happens to Infocom's text adventures now?](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
 * [2023-10-15, 21:35:51](https://news.ycombinator.com/item?id=37893601) - [Florida men scammed more than $1M out of Uber Eats](https://www.insider.com/2-florida-men-scammed-more-than-1-million-uber-eats-2023-8)
 * [2023-10-15, 21:30:27](https://news.ycombinator.com/item?id=37893555) - [GPL-3.0 licensed BIOS for Intel 8088 based computers](https://github.com/skiselev/8088_bios)
