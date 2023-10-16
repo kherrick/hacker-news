@@ -6,6 +6,8 @@
 
 * [2023-10-16, 16:27:08](https://news.ycombinator.com/item?id=37902217) - [Can You Hide a Child's Face from A.I.?](https://www.nytimes.com/2023/10/14/technology/artifical-intelligence-children-privacy-internet.html)
 * [2023-10-16, 16:23:15](https://news.ycombinator.com/item?id=37902148) - [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
+* [2023-10-16, 16:22:51](https://news.ycombinator.com/item?id=37902140) - [Worst Examples of Meta's Dystopian AI Influencers](https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709)
+* [2023-10-16, 16:07:56](https://news.ycombinator.com/item?id=37901902) - [MemGPT – LLMs with self-editing memory for unbounded context](https://github.com/cpacker/MemGPT)
 * [2023-10-16, 16:06:28](https://news.ycombinator.com/item?id=37901870) - [The real engine behind \"AI\" is the bad tech economy](https://hachyderm.io/@softwaredoug/111245545674056246)
 * [2023-10-16, 15:46:39](https://news.ycombinator.com/item?id=37901506) - [LinkedIn to lay off hundreds of people amid broader restructuring](https://www.axios.com/2023/10/16/linkedin-layoffs-restructuring-artifical-intelligence)
 * [2023-10-16, 15:45:47](https://news.ycombinator.com/item?id=37901488) - [LinkedIn laying off nearly 700, mostly from core engineering teams](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html)
