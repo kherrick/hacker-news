@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 * [2023-10-16, 07:00:07](https://news.ycombinator.com/item?id=37896615) - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
 * [2023-10-16, 06:29:47](https://news.ycombinator.com/item?id=37896472) - [Some iPhone 15 Pro Max users are reporting OLED screen 'burn in'](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
 * [2023-10-16, 06:20:11](https://news.ycombinator.com/item?id=37896427) - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
 * [2023-10-16, 05:17:49](https://news.ycombinator.com/item?id=37896157) - [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
-* [2023-10-16, 03:25:23](https://news.ycombinator.com/item?id=37895630) - [Peter Molyneux wants Project MOAT to represent his life's work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
 * [2023-10-16, 03:20:55](https://news.ycombinator.com/item?id=37895601) - [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
 * [2023-10-16, 03:11:16](https://news.ycombinator.com/item?id=37895552) - [Tech giants are hijacking the internet](https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639)
 * [2023-10-16, 02:48:21](https://news.ycombinator.com/item?id=37895446) - [Cockpit: Web-based graphical interface for servers](https://cockpit-project.org/)
