@@ -13,6 +13,7 @@
 * [2023-10-16, 02:30:44](https://news.ycombinator.com/item?id=37895370) - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
 * [2023-10-16, 02:28:39](https://news.ycombinator.com/item?id=37895365) - [Post-truth society is near](https://www.mindprison.cc/p/post-truth-society-is-near)
 * [2023-10-16, 02:13:40](https://news.ycombinator.com/item?id=37895272) - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes)
+* [2023-10-16, 01:53:21](https://news.ycombinator.com/item?id=37895164) - [Why Is the Front End Stack So Complicated?](https://matt-rickard.com/why-is-the-frontend-stack-so-complicated)
 * [2023-10-16, 01:15:15](https://news.ycombinator.com/item?id=37894925) - [Canon Nanoimprint lithography semiconductor manufacturing system (5nm)](https://global.canon/en/news/2023/20231013.html)
 * [2023-10-16, 00:29:31](https://news.ycombinator.com/item?id=37894684) - [How Far Does $1 from 1999 Go Today?](https://perthirtysix.com/tool/visualizing-american-inflation)
 * [2023-10-16, 00:27:50](https://news.ycombinator.com/item?id=37894676) - [I Will Fucking Haymaker You If You Mention Agile Again](https://ludic.mataroa.blog/blog/i-will-fucking-haymaker-you-if-you-mention-agile-again/)
