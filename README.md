@@ -2,7 +2,8 @@
 
 * [2023-10-16, 07:00:07](https://news.ycombinator.com/item?id=37896615) - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
 * [2023-10-16, 06:29:47](https://news.ycombinator.com/item?id=37896472) - [Some iPhone 15 Pro Max users are reporting OLED screen 'burn in'](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
-* [2023-10-16, 05:17:49](https://news.ycombinator.com/item?id=37896157) - [\"How to Build a Universe That Doesn't Fall Apart Two Days Later\" – Philip K Dick (1978)](https://urbigenous.net/library/how_to_build.html)
+* [2023-10-16, 06:20:11](https://news.ycombinator.com/item?id=37896427) - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
+* [2023-10-16, 05:17:49](https://news.ycombinator.com/item?id=37896157) - [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
 * [2023-10-16, 03:25:23](https://news.ycombinator.com/item?id=37895630) - [Peter Molyneux wants Project MOAT to represent his life's work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
 * [2023-10-16, 03:20:55](https://news.ycombinator.com/item?id=37895601) - [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
 * [2023-10-16, 03:11:16](https://news.ycombinator.com/item?id=37895552) - [Tech giants are hijacking the internet](https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639)
@@ -22,7 +23,6 @@
 * [2023-10-15, 20:23:55](https://news.ycombinator.com/item?id=37893080) - [Omnigres: Postgres as a Platform](https://github.com/omnigres/omnigres)
 * [2023-10-15, 20:16:13](https://news.ycombinator.com/item?id=37893022) - [Cybernetics and Ghosts (1967) [pdf]](https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf)
 * [2023-10-15, 19:33:35](https://news.ycombinator.com/item?id=37892684) - [Mastercard Should Stop Selling Our Data](https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data)
-* [2023-10-15, 19:20:45](https://news.ycombinator.com/item?id=37892560) - [OpenEarable: A new, open-source, Arduino-based platform for ear-based sensing](https://open-earable.teco.edu/)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 * [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain at Stormfield (1909) [video]](https://www.youtube.com/watch?v=leYj--P4CgQ)
