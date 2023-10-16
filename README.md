@@ -11,9 +11,11 @@
 * [2023-10-16, 11:58:54](https://news.ycombinator.com/item?id=37898544) - [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
 * [2023-10-16, 11:45:35](https://news.ycombinator.com/item?id=37898391) - [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
 * [2023-10-16, 10:53:41](https://news.ycombinator.com/item?id=37898001) - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
+* [2023-10-16, 10:48:01](https://news.ycombinator.com/item?id=37897958) - [Forget privacy: you're terrible at targeting anyway (2019)](https://apenwarr.ca/log/20190201)
 * [2023-10-16, 10:46:10](https://news.ycombinator.com/item?id=37897946) - [C Is Not a Low-level Language – Your computer is not a fast PDP-11](https://queue.acm.org/detail.cfm?id=3212479)
 * [2023-10-16, 10:41:02](https://news.ycombinator.com/item?id=37897921) - [Ask HN: Why are there no open source NVMe-native key value stores in 2023?](https://news.ycombinator.com/item?id=37897921)
 * [2023-10-16, 10:40:17](https://news.ycombinator.com/item?id=37897916) - [FreeTube – The Private YouTube Client](https://github.com/FreeTubeApp/FreeTube)
+* [2023-10-16, 10:13:12](https://news.ycombinator.com/item?id=37897751) - [Alameda meeting where Caroline Ellison admitted the firm took FTX customer money](https://www.businessinsider.com/alameda-all-hands-meeting-caroline-ellison-shut-down-audio-2023-10)
 * [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
 * [2023-10-16, 08:34:03](https://news.ycombinator.com/item?id=37897113) - [Bootstrapping a SaaS Business in Germany: How I did it](https://lukashermann.dev/writing/bootstrapping-a-saas-business-in-germany/)
 * [2023-10-16, 07:39:21](https://news.ycombinator.com/item?id=37896806) - [Google’s dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
@@ -27,9 +29,7 @@
 * [2023-10-16, 00:29:31](https://news.ycombinator.com/item?id=37894684) - [Visualizing American inflation across eight categories](https://perthirtysix.com/tool/visualizing-american-inflation)
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
 * [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada ends official time signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
-* [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-15, 20:16:13](https://news.ycombinator.com/item?id=37893022) - [Cybernetics and Ghosts (1967) [pdf]](https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf)
-* [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain at Stormfield (1909) [video]](https://www.youtube.com/watch?v=leYj--P4CgQ)
 
 ## [Archives](archives/index.md)
 
