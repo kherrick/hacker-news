@@ -6,6 +6,7 @@
 
 * [2023-10-16, 19:41:08](https://news.ycombinator.com/item?id=37905251) - [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
 * [2023-10-16, 19:37:37](https://news.ycombinator.com/item?id=37905181) - [Vercel employee threatens user over domain similar to own project, gets fired](https://twitter.com/nico_jeannen/status/1713139186474406206)
+* [2023-10-16, 19:11:21](https://news.ycombinator.com/item?id=37904709) - [El Salvador Taps Geothermal Energy in New Bitcoin Mining Project](https://oilprice.com/Alternative-Energy/Geothermal-Energy/El-Salvador-Taps-Geothermal-Energy-In-New-Bitcoin-Mining-Project.html)
 * [2023-10-16, 19:00:13](https://news.ycombinator.com/item?id=37904530) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://townflex.com/tanzania-unveils-first-aircraft-skyleader-600/)
 * [2023-10-16, 18:59:46](https://news.ycombinator.com/item?id=37904518) - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
 * [2023-10-16, 18:49:07](https://news.ycombinator.com/item?id=37904319) - [If the Economy Is So Strong, Why Are Consumer Stocks Tanking?](https://www.wsj.com/finance/stocks/if-the-economy-is-so-strong-why-are-consumer-stocks-tanking-904fbe7f)
@@ -20,6 +21,7 @@
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:53:28](https://news.ycombinator.com/item?id=37903574) - [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
 * [2023-10-16, 17:49:38](https://news.ycombinator.com/item?id=37903520) - [AGPL license is a non-starter for most companies](https://opencoreventures.com/blog/2023-10-agpl-license-is-a-non-starter-for-most-companies/)
+* [2023-10-16, 17:46:44](https://news.ycombinator.com/item?id=37903489) - [The 2.5 year side project app I designed, built, and never launched](https://paulstamatiou.com/stocketa/)
 * [2023-10-16, 17:35:09](https://news.ycombinator.com/item?id=37903329) - [One of America's most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
 * [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
