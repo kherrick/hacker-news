@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-16, 05:17:49](https://news.ycombinator.com/item?id=37896157) - [\"How to Build a Universe That Doesn't Fall Apart Two Days Later\" – Philip K Dick (1978)](https://urbigenous.net/library/how_to_build.html)
 * [2023-10-16, 03:25:23](https://news.ycombinator.com/item?id=37895630) - [Peter Molyneux wants Project MOAT to represent his life's work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
 * [2023-10-16, 03:20:55](https://news.ycombinator.com/item?id=37895601) - [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
 * [2023-10-16, 03:11:16](https://news.ycombinator.com/item?id=37895552) - [Tech giants are hijacking the internet](https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639)
@@ -7,6 +8,7 @@
 * [2023-10-16, 02:30:44](https://news.ycombinator.com/item?id=37895370) - [Semihosting with VS Code on RP2040](https://mcuoneclipse.com/2023/10/14/semihosting-with-vs-code-on-rp2040/)
 * [2023-10-16, 01:15:15](https://news.ycombinator.com/item?id=37894925) - [Canon Nanoimprint lithography semiconductor manufacturing system (5nm)](https://global.canon/en/news/2023/20231013.html)
 * [2023-10-15, 23:33:15](https://news.ycombinator.com/item?id=37894403) - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
+* [2023-10-15, 23:31:56](https://news.ycombinator.com/item?id=37894390) - [Why decline in generalists leads to disjointed games and harms tool quality](https://gameworldobserver.com/2023/10/09/generalists-vs-specialists-gamedev-tool-quality-tim-cain)
 * [2023-10-15, 23:30:04](https://news.ycombinator.com/item?id=37894382) - [Canada Abruptly Ends Official Time Signal](https://hackaday.com/2023/10/13/canada-abruptly-ends-official-time-signal/)
 * [2023-10-15, 22:35:58](https://news.ycombinator.com/item?id=37894030) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](http://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-15, 22:24:42](https://news.ycombinator.com/item?id=37893960) - [One (1) new Wii U console was sold in the U.S. during September 2023](https://mynintendonews.com/2023/10/14/us-a-single-brand-new-wii-u-console-was-sold-during-september-2023/)
@@ -24,11 +26,9 @@
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 * [2023-10-15, 15:18:39](https://news.ycombinator.com/item?id=37890453) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain at Stormfield (1909) [video]](https://www.youtube.com/watch?v=leYj--P4CgQ)
-* [2023-10-15, 14:42:55](https://news.ycombinator.com/item?id=37890176) - [Signtime.apple: One-on-one sign language interpreting by Apple](https://www.signtime.apple/applecare/us-EN/asl)
 * [2023-10-13, 21:39:58](https://news.ycombinator.com/item?id=37875924) - [\"Building Machines That Learn and Think Like People\", 7 Years Later](https://gonzoml.substack.com/p/building-machines-that-learn-and)
 * [2023-10-13, 20:23:28](https://news.ycombinator.com/item?id=37875193) - [The History of Cover Flow](https://512pixels.net/2023/10/the-history-of-cover-flow/)
 * [2023-10-12, 20:10:35](https://news.ycombinator.com/item?id=37862546) - [Revisited mass of the Milky Way is much smaller than expectations from cosmology](https://www.observatoiredeparis.psl.eu/revue-fortement-a-la-baisse.html?lang=en)
-* [2023-10-12, 20:09:47](https://news.ycombinator.com/item?id=37862532) - [Stark-DB: SQLite-backed, change-tracking database available over HTTP](https://www.npmjs.com/package/stark-db)
 * [2023-10-12, 19:35:57](https://news.ycombinator.com/item?id=37862039) - [PeaTMOSS: Mining Pre-Trained Models in Open-Source Software](https://arxiv.org/abs/2310.03620)
 
 ## [Archives](archives/index.md)

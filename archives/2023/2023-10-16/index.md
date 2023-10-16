@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 05:17:49](https://news.ycombinator.com/item?id=37896157) - [\"How to Build a Universe That Doesn't Fall Apart Two Days Later\" – Philip K Dick (1978)](https://urbigenous.net/library/how_to_build.html)
 * [2023-10-16, 03:41:24](https://news.ycombinator.com/item?id=37895719) - [How the conspiracy-fueled Epoch Times went mainstream and made millions](https://www.nbcnews.com/news/us-news/epoch-times-falun-gong-growth-rcna111373)
 * [2023-10-16, 03:25:23](https://news.ycombinator.com/item?id=37895630) - [Peter Molyneux wants Project MOAT to represent his life's work](https://www.gamedeveloper.com/business/peter-molyneux-wants-i-project-moat-i-to-represent-his-life-s-work)
 * [2023-10-16, 03:20:55](https://news.ycombinator.com/item?id=37895601) - [Pali-3 Vision Language Models: Smaller, Faster, Stronger](https://arxiv.org/abs/2310.09199)
