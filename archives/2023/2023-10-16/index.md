@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 21:03:32](https://news.ycombinator.com/item?id=37906601) - [OneSignal (YC S11) Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
+* [2023-10-16, 20:37:26](https://news.ycombinator.com/item?id=37906206) - [Ask HN: Best Tech Courses/Certifications Under $400 for a Back End Engineer?](https://news.ycombinator.com/item?id=37906206)
 * [2023-10-16, 19:59:35](https://news.ycombinator.com/item?id=37905601) - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 * [2023-10-16, 19:41:08](https://news.ycombinator.com/item?id=37905251) - [Roundup herbicide ingredient connected to epidemic chronic kidney disease](https://phys.org/news/2023-10-roundup-herbicide-ingredient-epidemic-chronic.html)
 * [2023-10-16, 19:37:37](https://news.ycombinator.com/item?id=37905181) - [Vercel employee threatens user over domain similar to own project, gets fired](https://twitter.com/nico_jeannen/status/1713139186474406206)
