@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-10-16, 15:12:51",
+      "https://news.ycombinator.com/item?id=37900935"
+    ],
+    [
+      "Microsoft plans to kill off NTLM authentication in Windows 11",
+      "https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 14:53:10",
       "https://news.ycombinator.com/item?id=37900651"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-10-16, 13:59:25",
-      "https://news.ycombinator.com/item?id=37899993"
+      "2023-10-16, 13:53:49",
+      "https://news.ycombinator.com/item?id=37899922"
     ],
     [
-      "The Techno-Optimist Manifesto",
-      "https://a16z.com/the-techno-optimist-manifesto/"
+      "Advent of Code 2023's new AI/LLM Policy",
+      "https://adventofcode.com/about#ai_leaderboard"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2023-10-16, 12:04:48",
+      "https://news.ycombinator.com/item?id=37898614"
+    ],
+    [
+      "OpenBSD: OpenBGPD 8.3 Released",
+      "https://www.undeadly.org/cgi?action=article;sid=20231016120408"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 12:00:27",
       "https://news.ycombinator.com/item?id=37898561"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-10-16, 10:41:02",
-      "https://news.ycombinator.com/item?id=37897921"
-    ],
-    [
-      "Ask HN: Why are there no open source NVMe-native key value stores in 2023?",
-      "https://news.ycombinator.com/item?id=37897921"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 10:40:17",
       "https://news.ycombinator.com/item?id=37897916"
     ],
     [
       "FreeTube – The Private YouTube Client",
       "https://github.com/FreeTubeApp/FreeTube"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 09:09:22",
-      "https://news.ycombinator.com/item?id=37897351"
-    ],
-    [
-      "Atlassian prepares to abandon on-prem server products",
-      "https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/"
     ]
   ],
   [
