@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-16, 13:18:13",
+      "https://news.ycombinator.com/item?id=37899478"
+    ],
+    [
+      "OpenBSD 7.4",
+      "https://www.openbsd.org/74.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 12:59:38",
+      "https://news.ycombinator.com/item?id=37899234"
+    ],
+    [
+      "Steve Bell sacked by Guardian in antisemitism row over Netanyahu cartoon",
+      "https://www.bbc.co.uk/news/entertainment-arts-67122609"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 12:46:58",
+      "https://news.ycombinator.com/item?id=37899098"
+    ],
+    [
+      "Should You Be Scared of Unix Signals?",
+      "https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 12:38:14",
       "https://news.ycombinator.com/item?id=37898999"
     ],
@@ -17,6 +47,16 @@
     [
       "A little-known pollution rule keeps the air dirty for millions of Americans",
       "https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 12:04:48",
+      "https://news.ycombinator.com/item?id=37898614"
+    ],
+    [
+      "OpenBSD: OpenBGPD 8.3 Released",
+      "https://www.undeadly.org/cgi?action=article;sid=20231016120408"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "GPU Embedding with GGML",
       "https://bloop.ai/blog/gpu_with_ggml"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 10:47:31",
-      "https://news.ycombinator.com/item?id=37897955"
-    ],
-    [
-      "U.S. Teens Spend Average of 4.8 Hours on Social Media per Day",
-      "https://news.gallup.com/poll/512576/teens-spend-average-hours-social-media-per-day.aspx"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-10-16, 03:11:16",
-      "https://news.ycombinator.com/item?id=37895552"
-    ],
-    [
-      "Tech giants are hijacking the internet",
-      "https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 02:48:21",
       "https://news.ycombinator.com/item?id=37895446"
     ],
@@ -277,26 +297,6 @@
     [
       "Cybernetics and Ghosts (1967) [pdf]",
       "https://www.jfki.fu-berlin.de/academics/SummerSchool/Dateien2011/Reading_Assignments/iuli_reader2.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 15:08:39",
-      "https://news.ycombinator.com/item?id=37890369"
-    ],
-    [
-      "Mark Twain at Stormfield (1909) [video]",
-      "https://www.youtube.com/watch?v=leYj--P4CgQ"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 19:35:57",
-      "https://news.ycombinator.com/item?id=37862039"
-    ],
-    [
-      "PeaTMOSS: Mining Pre-Trained Models in Open-Source Software",
-      "https://arxiv.org/abs/2310.03620"
     ]
   ]
 ]
