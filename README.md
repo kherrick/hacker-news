@@ -2,6 +2,7 @@
 
 * [2023-10-16, 14:18:28](https://news.ycombinator.com/item?id=37900194) - [The U.S. Government Has $5B in Bitcoin](https://www.wsj.com/finance/currencies/federal-government-bitcoin-5-billion-78ce0938)
 * [2023-10-16, 14:11:14](https://news.ycombinator.com/item?id=37900131) - [Dig near Paris unearths beginnings of urbanization dating back to 4,200 BC](https://www.lemonde.fr/en/science/article/2023/10/16/an-archaeological-dig-near-paris-unearthed-beginnings-of-urbanization-dating-back-to-4-200-b-c_6177642_10.html)
+* [2023-10-16, 14:03:11](https://news.ycombinator.com/item?id=37900028) - [AI Tinder already exists: 'Real people will disappoint you, but not them'](https://english.elpais.com/technology/2023-10-09/ai-tinder-already-exists-real-people-will-disappoint-you-but-not-them.html)
 * [2023-10-16, 13:30:23](https://news.ycombinator.com/item?id=37899638) - [Snowbanks are set to get whiter – offsetting climate change's effects](https://www.nature.com/articles/d41586-023-03106-2)
 * [2023-10-16, 13:18:13](https://news.ycombinator.com/item?id=37899478) - [OpenBSD 7.4](https://www.openbsd.org/74.html)
 * [2023-10-16, 13:06:48](https://news.ycombinator.com/item?id=37899319) - [OpenBSD 7.4 Released](https://www.undeadly.org/cgi?action=article;sid=20231016130614)
@@ -10,7 +11,6 @@
 * [2023-10-16, 12:46:58](https://news.ycombinator.com/item?id=37899098) - [Should You Be Scared of Unix Signals?](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
 * [2023-10-16, 12:38:14](https://news.ycombinator.com/item?id=37898999) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 12:09:12](https://news.ycombinator.com/item?id=37898667) - [A little-known pollution rule keeps the air dirty for millions of Americans](https://www.theguardian.com/us-news/2023/oct/16/epa-local-governments-dont-report-air-pollution-wildfire-smoke-data-across-us)
-* [2023-10-16, 12:04:48](https://news.ycombinator.com/item?id=37898614) - [OpenBSD: OpenBGPD 8.3 Released](https://www.undeadly.org/cgi?action=article;sid=20231016120408)
 * [2023-10-16, 12:00:27](https://news.ycombinator.com/item?id=37898561) - [Verdn (YC W22) Is Hiring Full Stack Engineers in London](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
 * [2023-10-16, 11:58:54](https://news.ycombinator.com/item?id=37898544) - [Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
 * [2023-10-16, 11:45:35](https://news.ycombinator.com/item?id=37898391) - [Oughtred Society Archive of Slide Rule Collections](https://osgalleries.org/collectors/)
