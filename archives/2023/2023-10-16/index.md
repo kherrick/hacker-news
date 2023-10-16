@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 18:31:07](https://news.ycombinator.com/item?id=37904065) - [HashiCorp CEO Predicts OSS-Free Silicon Valley](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/)
+* [2023-10-16, 18:29:55](https://news.ycombinator.com/item?id=37904047) - [Hallucineted CVE against Curl: someone asked Bard to find a vulnerability](https://mastodon.social/@bagder/111245232072475867)
+* [2023-10-16, 18:06:54](https://news.ycombinator.com/item?id=37903737) - [California to require firms to reveal carbon emissions in first law of its kind](https://www.theguardian.com/us-news/2023/oct/09/california-carbon-emissions-law)
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:53:28](https://news.ycombinator.com/item?id=37903574) - [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
+* [2023-10-16, 17:49:38](https://news.ycombinator.com/item?id=37903520) - [AGPL license is a non-starter for most companies](https://opencoreventures.com/blog/2023-10-agpl-license-is-a-non-starter-for-most-companies/)
 * [2023-10-16, 17:35:09](https://news.ycombinator.com/item?id=37903329) - [One of America's most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
 * [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
