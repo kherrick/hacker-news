@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 12:30:02](https://news.ycombinator.com/item?id=37913936) - [Wikipedia's Intentional Distortion of the History of the Holocaust](https://digitalcommons.chapman.edu/history_articles/74/)
+* [2023-10-17, 12:03:58](https://news.ycombinator.com/item?id=37913659) - [Working in Silicon Valley was fun. Now it's just another miserable corporate gig](https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10)
 * [2023-10-17, 12:00:30](https://news.ycombinator.com/item?id=37913625) - [Lago (Open-Source Alternative to Stripe Billing) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
 * [2023-10-17, 11:49:13](https://news.ycombinator.com/item?id=37913506) - [Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/)
 * [2023-10-17, 11:40:00](https://news.ycombinator.com/item?id=37913434) - [Show HN: Tell YouTube Ads to Fuck Off](https://www.fuckoff.yt)
+* [2023-10-17, 11:19:34](https://news.ycombinator.com/item?id=37913256) - [Encrypting private data and private communications is an ethical duty](https://blog.tripu.info/encrypt/)
 * [2023-10-17, 11:18:07](https://news.ycombinator.com/item?id=37913249) - [Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
 * [2023-10-17, 10:36:16](https://news.ycombinator.com/item?id=37912954) - [No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
 * [2023-10-17, 10:28:17](https://news.ycombinator.com/item?id=37912900) - [The Microsoft way (part 86): shipping rotten software](https://seclists.org/fulldisclosure/2023/Oct/17)
@@ -20,6 +23,7 @@
 * [2023-10-17, 07:57:01](https://news.ycombinator.com/item?id=37911857) - [Wales' 20mph speed limit: How has the first month gone?](https://www.bbc.co.uk/news/uk-wales-67064306)
 * [2023-10-17, 07:04:50](https://news.ycombinator.com/item?id=37911544) - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
 * [2023-10-17, 07:03:27](https://news.ycombinator.com/item?id=37911530) - [Craig Murray Arrested Under Terrorism Act While Returning from Iceland](https://twitter.com/khrafnsson/status/1714003661834068390)
+* [2023-10-17, 07:02:58](https://news.ycombinator.com/item?id=37911527) - [Spotta – Find Bed Bugs Before Your Guests Do](https://www.spotta.co/bed-pod)
 * [2023-10-17, 06:41:53](https://news.ycombinator.com/item?id=37911404) - [Finland's ChatGPT equivalent begins to think in Estonian as well](https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well)
 * [2023-10-17, 05:39:10](https://news.ycombinator.com/item?id=37911036) - [Engineering Team Lessons from Cycling](https://benjiweber.co.uk/blog/2023/10/15/engineering-team-lessons-from-cycling/)
 * [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
