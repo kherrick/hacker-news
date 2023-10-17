@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
+* [2023-10-17, 18:58:57](https://news.ycombinator.com/item?id=37919924) - [ExecuTorch: Enabling On-Device interference for embedded devices](https://pytorch.org/executorch/stable/index.html)
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
@@ -27,7 +28,6 @@
 * [2023-10-17, 05:31:53](https://news.ycombinator.com/item?id=37910983) - [*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2023-10-17, 00:35:04](https://news.ycombinator.com/item?id=37908669) - [Is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
-* [2023-10-16, 05:27:01](https://news.ycombinator.com/item?id=37896198) - [Cataloguing the Cotton Charters](https://blogs.bl.uk/digitisedmanuscripts/2023/10/cataloguing-the-cotton-charters.html)
 * [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
 * [2023-10-15, 12:36:12](https://news.ycombinator.com/item?id=37889238) - [Southern Gumbo Trail (2006)](https://www.southernfoodways.org/oral-history/southern-gumbo-trail/)
 
