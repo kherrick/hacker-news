@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-10-16, 12:46:58",
-      "https://news.ycombinator.com/item?id=37899098"
-    ],
-    [
-      "Should you be scared of Unix signals? (2016)",
-      "https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 09:00:19",
       "https://news.ycombinator.com/item?id=37897289"
     ],
@@ -257,6 +247,16 @@
     [
       "Can we build trustable hardware? (2019)",
       "https://www.bunniestudios.com/blog/?cat=28"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 07:47:16",
+      "https://news.ycombinator.com/item?id=37896854"
+    ],
+    [
+      "Chess Written in GNU Sed",
+      "https://github.com/moldabekov/chess-sed"
     ]
   ],
   [
