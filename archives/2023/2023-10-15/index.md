@@ -73,6 +73,7 @@
 * [2023-10-15, 12:01:05](https://news.ycombinator.com/item?id=37889031) - [Disney Mocked for Ludicrously Fake CGI \"Actors\" in Crowd Scene](https://futurism.com/the-byte/disney-mocked-fake-cgi-actors-crowd-scene)
 * [2023-10-15, 11:43:37](https://news.ycombinator.com/item?id=37888948) - ['Terminating Internet Access over Piracy Claims Is Drastic and Overbroad'](https://torrentfreak.com/terminating-internet-access-over-piracy-claims-is-drastic-and-overbroad-231014/)
 * [2023-10-15, 11:01:25](https://news.ycombinator.com/item?id=37888728) - [Ask HN: What is your experience with Nano-Hydroxyapatite toothpaste?](https://news.ycombinator.com/item?id=37888728)
+* [2023-10-15, 10:53:55](https://news.ycombinator.com/item?id=37888676) - [Best Buy stores to stop selling DVDs, Blu-ray in 2024](https://www.cnn.com/2023/10/14/business/best-buy-dvds-netflix/index.html)
 * [2023-10-15, 10:37:13](https://news.ycombinator.com/item?id=37888606) - [Show HN: \"Interactive\" Italian Poetry for English Speakers](https://italianpoetry.it/)
 * [2023-10-15, 10:15:10](https://news.ycombinator.com/item?id=37888531) - [Possible 0day in Signal? Disable link preview](https://hax0rbana.social/@adam/111236822600142276)
 * [2023-10-15, 10:04:39](https://news.ycombinator.com/item?id=37888477) - [Cursor – The AI-First Code Editor](https://cursor.sh/)

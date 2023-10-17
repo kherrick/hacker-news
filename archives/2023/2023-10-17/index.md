@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
 * [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
+* [2023-10-17, 16:28:48](https://news.ycombinator.com/item?id=37917605) - [Ask HN: Do you upvote? Why or why not?](https://news.ycombinator.com/item?id=37917605)
 * [2023-10-17, 16:28:29](https://news.ycombinator.com/item?id=37917597) - [Tech CEO Sentenced to 5 Years in IP Address Scheme](https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/)
 * [2023-10-17, 16:06:43](https://news.ycombinator.com/item?id=37917235) - [Gas utilities used tobacco tactics to avoid gas stove regulations](https://text.npr.org/1183551603)
 * [2023-10-17, 16:00:20](https://news.ycombinator.com/item?id=37917134) - [Lab Leak Fight Casts Chill over Virology Research](https://www.nytimes.com/2023/10/16/science/covid-lab-leak-research.html)
