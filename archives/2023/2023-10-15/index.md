@@ -94,6 +94,7 @@
 * [2023-10-15, 05:10:49](https://news.ycombinator.com/item?id=37887049) - [Vercel employee used customer information to pursue a personal trademark matter](https://twitter.com/vercel_support/status/1713295474998772215)
 * [2023-10-15, 04:43:52](https://news.ycombinator.com/item?id=37886945) - [FBI warns against using public USB charging ports](https://abcnews.go.com/Politics/fbi-warns-public-charging-stations/story?id=98503419)
 * [2023-10-15, 04:41:36](https://news.ycombinator.com/item?id=37886936) - [Orthographic Depth](https://en.wikipedia.org/wiki/Orthographic_depth)
+* [2023-10-15, 04:19:27](https://news.ycombinator.com/item?id=37886845) - [Predilections: Profile of Errol Morris (1989)](http://www.errolmorris.com/content/profile/singer_predilections.html)
 * [2023-10-15, 04:11:37](https://news.ycombinator.com/item?id=37886818) - [On the Experience of Being Poor-Ish, for People Who Aren't](https://www.residentcontrarian.com/p/on-the-experience-of-being-poor-ish)
 * [2023-10-15, 03:47:42](https://news.ycombinator.com/item?id=37886698) - [Show HN: Mini-Woo, luanch Telegram mini app for WooCommerce in seconds](https://github.com/mini-woo/mini-woo)
 * [2023-10-15, 03:23:35](https://news.ycombinator.com/item?id=37886580) - [Would You Kill the Fat Man? [pdf]](https://www.utilitarianism.com/trolley-problem.pdf)

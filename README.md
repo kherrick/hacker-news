@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 04:40:03](https://news.ycombinator.com/item?id=37910698) - [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 01:52:30](https://news.ycombinator.com/item?id=37909433) - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
-* [2023-10-17, 01:08:09](https://news.ycombinator.com/item?id=37908973) - [Antarctic Ice Shelf Demise](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise)
 * [2023-10-17, 00:43:54](https://news.ycombinator.com/item?id=37908760) - [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
 * [2023-10-17, 00:34:07](https://news.ycombinator.com/item?id=37908655) - [Getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-16, 23:58:08](https://news.ycombinator.com/item?id=37908326) - [NASA's Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
@@ -10,7 +10,6 @@
 * [2023-10-16, 23:24:06](https://news.ycombinator.com/item?id=37908055) - [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 * [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
 * [2023-10-16, 22:16:41](https://news.ycombinator.com/item?id=37907433) - [Ask HN: 20% of LinkedIn's recent layoffs were managers](https://news.ycombinator.com/item?id=37907433)
-* [2023-10-16, 22:01:13](https://news.ycombinator.com/item?id=37907283) - [Amazon Passkeys Launched: Response to Consumer Demand with Poor Implementation](https://www.corbado.com/blog/amazon-passkeys-launch)
 * [2023-10-16, 21:03:32](https://news.ycombinator.com/item?id=37906601) - [OneSignal (YC S11) Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
 * [2023-10-16, 20:01:26](https://news.ycombinator.com/item?id=37905638) - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)
 * [2023-10-16, 19:59:35](https://news.ycombinator.com/item?id=37905601) - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
@@ -22,7 +21,6 @@
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 14:57:12](https://news.ycombinator.com/item?id=37900713) - [A successful example of \"adversarial collaboration\"](https://statmodeling.stat.columbia.edu/2023/10/16/a-successful-example-of-adversarial-collaboration-when-does-this-approach-work-and-when-does-it-not/)
 * [2023-10-16, 14:38:36](https://news.ycombinator.com/item?id=37900458) - [Invidious – An open source alternative front-end to YouTube](https://invidious.io/)
-* [2023-10-16, 13:59:25](https://news.ycombinator.com/item?id=37899993) - [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
 * [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can we build trustable hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
 * [2023-10-16, 07:47:16](https://news.ycombinator.com/item?id=37896854) - [Chess Written in GNU Sed](https://github.com/moldabekov/chess-sed)
@@ -30,6 +28,8 @@
 * [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
+* [2023-10-15, 04:19:27](https://news.ycombinator.com/item?id=37886845) - [Predilections: Profile of Errol Morris (1989)](http://www.errolmorris.com/content/profile/singer_predilections.html)
+* [2023-10-15, 01:43:24](https://news.ycombinator.com/item?id=37886049) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 
 ## [Archives](archives/index.md)
 
