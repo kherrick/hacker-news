@@ -16,6 +16,7 @@
 * [2023-10-17, 17:36:29](https://news.ycombinator.com/item?id=37918586) - [Tesla urges US to adopt much tougher fuel efficiency rules](https://www.reuters.com/business/autos-transportation/tesla-says-us-should-adopt-tougher-fuel-efficiency-rules-2023-10-17/)
 * [2023-10-17, 17:22:06](https://news.ycombinator.com/item?id=37918373) - [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
+* [2023-10-17, 17:17:25](https://news.ycombinator.com/item?id=37918304) - [The Future of How We Work Together at Roblox](https://blog.roblox.com/2023/10/future-work-together-roblox/)
 * [2023-10-17, 17:17:02](https://news.ycombinator.com/item?id=37918298) - [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause)
 * [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
 * [2023-10-17, 16:35:16](https://news.ycombinator.com/item?id=37917696) - [AMD's Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)
