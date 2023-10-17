@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 11:18:07](https://news.ycombinator.com/item?id=37913249) - [Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
+* [2023-10-17, 10:36:16](https://news.ycombinator.com/item?id=37912954) - [No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
 * [2023-10-17, 10:21:23](https://news.ycombinator.com/item?id=37912861) - [AWS pulls plug on 3rd party re:Invent planning apps day before registration](https://twitter.com/donkersgood/status/1714161357510095292?s=46&t=LghIQ7soh6pCfjuNxdqDjQ)
 * [2023-10-17, 09:55:41](https://news.ycombinator.com/item?id=37912673) - [Leaked Microsoft pay guidelines – salary, hiring bonus, stock awards by level](https://www.businessinsider.com/microsoft-pay-guidelines-salary-hiring-bonus-stock-levels-2023-10)
 * [2023-10-17, 08:47:12](https://news.ycombinator.com/item?id=37912203) - [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
@@ -9,7 +11,6 @@
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 02:27:59](https://news.ycombinator.com/item?id=37909756) - [The importance of handwriting is now better understood](https://www.economist.com/culture/2023/09/14/the-importance-of-handwriting-is-becoming-better-understood)
 * [2023-10-17, 01:52:30](https://news.ycombinator.com/item?id=37909433) - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
-* [2023-10-17, 01:03:31](https://news.ycombinator.com/item?id=37908936) - [Hamas' social media following has skyrocketed](https://www.cnn.com/2023/10/16/tech/hamas-telegram/index.html)
 * [2023-10-17, 00:50:56](https://news.ycombinator.com/item?id=37908824) - [Realtors Face an Antitrust Reckoning](https://www.wsj.com/articles/burnett-v-national-association-of-realtors-home-buyers-sellers-brokers-commission-7e58fda0)
 * [2023-10-17, 00:34:07](https://news.ycombinator.com/item?id=37908655) - [Getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-16, 23:58:08](https://news.ycombinator.com/item?id=37908326) - [NASA's Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
@@ -27,7 +28,6 @@
 * [2023-10-16, 14:38:36](https://news.ycombinator.com/item?id=37900458) - [Invidious – An open source alternative front-end to YouTube](https://invidious.io/)
 * [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript Is Weird as a Compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
-* [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 11:18:07](https://news.ycombinator.com/item?id=37913249) - [Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
+* [2023-10-17, 10:36:16](https://news.ycombinator.com/item?id=37912954) - [No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
 * [2023-10-17, 10:28:17](https://news.ycombinator.com/item?id=37912900) - [The Microsoft way (part 86): shipping rotten software](https://seclists.org/fulldisclosure/2023/Oct/17)
 * [2023-10-17, 10:21:23](https://news.ycombinator.com/item?id=37912861) - [AWS pulls plug on 3rd party re:Invent planning apps day before registration](https://twitter.com/donkersgood/status/1714161357510095292?s=46&t=LghIQ7soh6pCfjuNxdqDjQ)
 * [2023-10-17, 10:05:28](https://news.ycombinator.com/item?id=37912749) - [Is it easy to got from back end engineer to tech YouTuber? Watch Marko's journey [video]](https://www.youtube.com/watch?v=Vo4-6tEP1Ts)
