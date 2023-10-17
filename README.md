@@ -21,6 +21,7 @@
 * [2023-10-16, 19:59:35](https://news.ycombinator.com/item?id=37905601) - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:46:44](https://news.ycombinator.com/item?id=37903489) - [Stocketa – An app I designed, built and never launched](https://paulstamatiou.com/stocketa/)
+* [2023-10-16, 16:52:57](https://news.ycombinator.com/item?id=37902679) - [Napflix – Siesta Video Platform](https://napflix.tv/)
 * [2023-10-16, 16:07:56](https://news.ycombinator.com/item?id=37901902) - [MemGPT – LLMs with self-editing memory for unbounded context](https://github.com/cpacker/MemGPT)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 14:38:36](https://news.ycombinator.com/item?id=37900458) - [Invidious – An open source alternative front-end to YouTube](https://invidious.io/)
@@ -29,7 +30,6 @@
 * [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
-* [2023-10-15, 04:19:27](https://news.ycombinator.com/item?id=37886845) - [Predilections: Profile of Errol Morris (1989)](http://www.errolmorris.com/content/profile/singer_predilections.html)
 
 ## [Archives](archives/index.md)
 
