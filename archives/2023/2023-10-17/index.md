@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 03:32:25](https://news.ycombinator.com/item?id=37910238) - [Butt Plug Will Allow Toyota to Build 900-Mile EVs](https://jalopnik.com/toyota-says-this-butt-plug-will-allow-it-to-build-900-m-1850929505)
 * [2023-10-17, 01:57:24](https://news.ycombinator.com/item?id=37909470) - [The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope](https://www.nytimes.com/2023/10/16/dining/farm-raised-salmon-sustainability.html)
 * [2023-10-17, 01:52:30](https://news.ycombinator.com/item?id=37909433) - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
 * [2023-10-17, 01:14:30](https://news.ycombinator.com/item?id=37909037) - [Ford lays off 700 who were building electric version of F-150](https://www.cnn.com/2023/10/16/business/ford-f150-lightning-layoffs/index.html)
