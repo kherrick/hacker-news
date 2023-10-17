@@ -2,6 +2,7 @@
 
 * [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
 * [2023-10-17, 04:40:03](https://news.ycombinator.com/item?id=37910698) - [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
+* [2023-10-17, 04:10:16](https://news.ycombinator.com/item?id=37910505) - [Japan Airlines lays on extra plane after sumo wrestlers make too heavy to fly](https://www.theguardian.com/world/2023/oct/16/weighty-issue-japan-airlines-lays-on-extra-plane-after-sumo-wrestlers-make-aircraft-too-heavy-to-fly)
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 01:52:30](https://news.ycombinator.com/item?id=37909433) - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
 * [2023-10-17, 00:43:54](https://news.ycombinator.com/item?id=37908760) - [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
@@ -27,7 +28,6 @@
 * [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript Is Weird as a Compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
 * [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
-* [2023-10-15, 07:14:47](https://news.ycombinator.com/item?id=37887625) - [Werner Herzog on beer, yoga and what he would ask God](https://www.theguardian.com/film/2023/oct/15/werner-herzog-documentary-film-memoir-every-man-for-himself-interview)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
 * [2023-10-15, 04:19:27](https://news.ycombinator.com/item?id=37886845) - [Predilections: Profile of Errol Morris (1989)](http://www.errolmorris.com/content/profile/singer_predilections.html)
 

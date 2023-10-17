@@ -6,6 +6,7 @@
 
 * [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
 * [2023-10-17, 04:40:03](https://news.ycombinator.com/item?id=37910698) - [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
+* [2023-10-17, 04:10:16](https://news.ycombinator.com/item?id=37910505) - [Japan Airlines lays on extra plane after sumo wrestlers make too heavy to fly](https://www.theguardian.com/world/2023/oct/16/weighty-issue-japan-airlines-lays-on-extra-plane-after-sumo-wrestlers-make-aircraft-too-heavy-to-fly)
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 03:32:25](https://news.ycombinator.com/item?id=37910238) - [Butt Plug Will Allow Toyota to Build 900-Mile EVs](https://jalopnik.com/toyota-says-this-butt-plug-will-allow-it-to-build-900-m-1850929505)
 * [2023-10-17, 03:17:39](https://news.ycombinator.com/item?id=37910148) - [Hamas Got Around Israel's Surveillance Prowess by Going Dark](https://www.bloomberg.com/news/articles/2023-10-10/hamas-outmaneuvered-israel-s-surveillance-prowess-by-going-dark)
