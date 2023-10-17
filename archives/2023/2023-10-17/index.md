@@ -66,6 +66,7 @@
 * [2023-10-17, 07:02:58](https://news.ycombinator.com/item?id=37911527) - [Spotta – Find Bed Bugs Before Your Guests Do](https://www.spotta.co/bed-pod)
 * [2023-10-17, 06:41:53](https://news.ycombinator.com/item?id=37911404) - [Finland's ChatGPT equivalent begins to think in Estonian as well](https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well)
 * [2023-10-17, 05:39:10](https://news.ycombinator.com/item?id=37911036) - [Engineering Team Lessons from Cycling](https://benjiweber.co.uk/blog/2023/10/15/engineering-team-lessons-from-cycling/)
+* [2023-10-17, 05:31:53](https://news.ycombinator.com/item?id=37910983) - [*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2023-10-17, 05:22:28](https://news.ycombinator.com/item?id=37910926) - [Biomolecular archaeology reveals a fuller picture of the nomadic Xiongnu](https://news.harvard.edu/gazette/story/2023/04/dna-shows-poorly-understood-empire-was-multiethnic-with-strong-female-leadership/)
 * [2023-10-17, 05:21:52](https://news.ycombinator.com/item?id=37910923) - [Toward the Decipherment of Harappan (2022)](https://languagelog.ldc.upenn.edu/nll/?p=53609)
 * [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
