@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 19:57:06](https://news.ycombinator.com/item?id=37920697) - [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
+* [2023-10-17, 19:51:49](https://news.ycombinator.com/item?id=37920633) - [IRS will officially launch free online tax filing service for 2024 tax season](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
+* [2023-10-17, 19:16:46](https://news.ycombinator.com/item?id=37920191) - [Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)
 * [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
 * [2023-10-17, 18:58:57](https://news.ycombinator.com/item?id=37919924) - [ExecuTorch: Enabling On-Device interference for embedded devices](https://pytorch.org/executorch/stable/index.html)
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
