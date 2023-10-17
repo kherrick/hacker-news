@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 12:51:18](https://news.ycombinator.com/item?id=37914146) - [Mypy 1.6 Released](https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html)
+* [2023-10-17, 12:49:16](https://news.ycombinator.com/item?id=37914115) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+* [2023-10-17, 12:42:46](https://news.ycombinator.com/item?id=37914043) - [Google Proposes New Mseal() Memory Sealing Syscall for Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
+* [2023-10-17, 12:38:03](https://news.ycombinator.com/item?id=37914003) - [Security Vulnerability of Switzerland's E-Voting System](https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html)
 * [2023-10-17, 12:30:02](https://news.ycombinator.com/item?id=37913936) - [Wikipedia's Intentional Distortion of the History of the Holocaust](https://digitalcommons.chapman.edu/history_articles/74/)
+* [2023-10-17, 12:24:25](https://news.ycombinator.com/item?id=37913882) - [A False HackerOne Report Based on Bard's Hallucination](https://hackerone.com/reports/2199174)
+* [2023-10-17, 12:14:38](https://news.ycombinator.com/item?id=37913784) - [Home Insurance Is So High in This Florida Town, Residents Are Leaving](https://www.wsj.com/real-estate/home-insurance-is-so-high-in-this-florida-town-residents-are-leaving-bb00c96f)
 * [2023-10-17, 12:03:58](https://news.ycombinator.com/item?id=37913659) - [Working in Silicon Valley was fun. Now it's just another miserable corporate gig](https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10)
 * [2023-10-17, 12:00:30](https://news.ycombinator.com/item?id=37913625) - [Lago (Open-Source Alternative to Stripe Billing) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
 * [2023-10-17, 11:49:13](https://news.ycombinator.com/item?id=37913506) - [Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/)
