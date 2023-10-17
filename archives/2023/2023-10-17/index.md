@@ -36,6 +36,7 @@
 * [2023-10-17, 13:52:06](https://news.ycombinator.com/item?id=37915055) - [Science is bringing historic Apple varieties back to life](https://www.nature.com/articles/d41586-023-03229-6)
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:45:23](https://news.ycombinator.com/item?id=37914958) - [Love After Life: Richard Feynman's Letter to His Departed Wife](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/)
+* [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
 * [2023-10-17, 13:03:37](https://news.ycombinator.com/item?id=37914312) - [The Paperweight Dilemma](https://blog.mobian.org/posts/2023/09/30/paperweight-dilemma/)
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
