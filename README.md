@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-17, 19:57:06](https://news.ycombinator.com/item?id=37920697) - [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
+* [2023-10-17, 19:55:43](https://news.ycombinator.com/item?id=37920682) - [Raspberry Pi 5 vs. Orange Pi 5 Plus vs. Rock 5 Model B](https://picockpit.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5-plus-vs-rock-5-model-b/)
+* [2023-10-17, 19:54:49](https://news.ycombinator.com/item?id=37920674) - [Alternatives to Adobe](https://untested.sonnet.io/Alternatives+to+Adobe)
 * [2023-10-17, 19:51:49](https://news.ycombinator.com/item?id=37920633) - [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
-* [2023-10-17, 19:48:57](https://news.ycombinator.com/item?id=37920614) - [KDE 6 Wallpaper Competition Open Until Nov.14](https://discuss.kde.org/t/wallpaper-competition-announcement/3773)
 * [2023-10-17, 19:19:02](https://news.ycombinator.com/item?id=37920224) - [Gnome Foundation Welcomes Holly Million as Executive Director](https://foundation.gnome.org/2023/10/17/foundation-welcomes-new-executive-director/)
 * [2023-10-17, 19:16:46](https://news.ycombinator.com/item?id=37920191) - [Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)
 * [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
@@ -18,7 +19,6 @@
 * [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:45:16](https://news.ycombinator.com/item?id=37915934) - [Making CRDTs More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/)
 * [2023-10-17, 14:28:45](https://news.ycombinator.com/item?id=37915662) - [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting](https://taoranyi.com/gaussiandreamer/)
-* [2023-10-17, 13:52:06](https://news.ycombinator.com/item?id=37915055) - [Science is bringing historic Apple varieties back to life](https://www.nature.com/articles/d41586-023-03229-6)
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
