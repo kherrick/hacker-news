@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 10:05:28](https://news.ycombinator.com/item?id=37912749) - [Is it easy to got from back end engineer to tech YouTuber? Watch Marko's journey [video]](https://www.youtube.com/watch?v=Vo4-6tEP1Ts)
+* [2023-10-17, 09:55:41](https://news.ycombinator.com/item?id=37912673) - [Leaked Microsoft pay guidelines – salary, hiring bonus, stock awards by level](https://www.businessinsider.com/microsoft-pay-guidelines-salary-hiring-bonus-stock-levels-2023-10)
 * [2023-10-17, 09:51:26](https://news.ycombinator.com/item?id=37912643) - [Five Design Principles for Building a Data Pipeline Engine](https://docs.tenzir.com/blog/five-design-principles-for-building-a-data-pipeline-engine)
 * [2023-10-17, 09:19:53](https://news.ycombinator.com/item?id=37912421) - [Ask HN: When LLMs make stuff up, call it 'confabulating', not 'hallucinating'](https://news.ycombinator.com/item?id=37912421)
 * [2023-10-17, 08:47:12](https://news.ycombinator.com/item?id=37912203) - [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
