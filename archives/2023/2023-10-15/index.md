@@ -35,6 +35,7 @@
 * [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
+* [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
 * [2023-10-15, 18:01:30](https://news.ycombinator.com/item?id=37891886) - [Finland to vote against the EU mass surveillance and encryption ban directive](https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta)
 * [2023-10-15, 17:55:24](https://news.ycombinator.com/item?id=37891848) - [Zephyr 7B – Mistral Finetune that responds like ChatGPT](https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha)
 * [2023-10-15, 17:48:19](https://news.ycombinator.com/item?id=37891786) - [Centimillionaires: Elites with Investable Assets of More Than $100M](https://www.investopedia.com/new-class-of-global-elite-have-emerged-8357556)

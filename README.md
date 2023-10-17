@@ -2,8 +2,6 @@
 
 * [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
-* [2023-10-17, 18:10:04](https://news.ycombinator.com/item?id=37919157) - [Rayban Meta Smart Glasses](https://www.meta.com/de/smart-glasses/)
-* [2023-10-17, 17:22:06](https://news.ycombinator.com/item?id=37918373) - [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
 * [2023-10-17, 16:35:16](https://news.ycombinator.com/item?id=37917696) - [AMD's Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)
@@ -16,6 +14,7 @@
 * [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:45:16](https://news.ycombinator.com/item?id=37915934) - [Making CRDTs 98% More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/)
 * [2023-10-17, 14:28:45](https://news.ycombinator.com/item?id=37915662) - [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting](https://taoranyi.com/gaussiandreamer/)
+* [2023-10-17, 13:52:06](https://news.ycombinator.com/item?id=37915055) - [Science is bringing historic Apple varieties back to life](https://www.nature.com/articles/d41586-023-03229-6)
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:45:23](https://news.ycombinator.com/item?id=37914958) - [Love after life: Richard Feynman's letter to his departed wife (2017)](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/)
 * [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
@@ -29,6 +28,7 @@
 * [2023-10-17, 00:35:04](https://news.ycombinator.com/item?id=37908669) - [Is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
 * [2023-10-16, 05:27:01](https://news.ycombinator.com/item?id=37896198) - [Cataloguing the Cotton Charters](https://blogs.bl.uk/digitisedmanuscripts/2023/10/cataloguing-the-cotton-charters.html)
+* [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
 * [2023-10-15, 12:36:12](https://news.ycombinator.com/item?id=37889238) - [Southern Gumbo Trail (2006)](https://www.southernfoodways.org/oral-history/southern-gumbo-trail/)
 
 ## [Archives](archives/index.md)
