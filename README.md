@@ -12,7 +12,6 @@
 * [2023-10-17, 10:21:23](https://news.ycombinator.com/item?id=37912861) - [AWS takedown notice to third-party Re:Invent session trackers](https://twitter.com/donkersgood/status/1714161357510095292?s=46&t=LghIQ7soh6pCfjuNxdqDjQ)
 * [2023-10-17, 08:19:28](https://news.ycombinator.com/item?id=37911989) - [Piped – An alternative privacy-friendly YouTube front end](https://github.com/TeamPiped/Piped)
 * [2023-10-17, 07:04:50](https://news.ycombinator.com/item?id=37911544) - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
-* [2023-10-17, 07:02:58](https://news.ycombinator.com/item?id=37911527) - [Spotta – Find Bed Bugs Before Your Guests Do](https://www.spotta.co/bed-pod)
 * [2023-10-17, 05:22:28](https://news.ycombinator.com/item?id=37910926) - [Biomolecular archaeology reveals a fuller picture of the nomadic Xiongnu](https://news.harvard.edu/gazette/story/2023/04/dna-shows-poorly-understood-empire-was-multiethnic-with-strong-female-leadership/)
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 02:27:59](https://news.ycombinator.com/item?id=37909756) - [The importance of handwriting is now better understood](https://www.economist.com/culture/2023/09/14/the-importance-of-handwriting-is-becoming-better-understood)
@@ -29,6 +28,7 @@
 * [2023-10-16, 14:38:36](https://news.ycombinator.com/item?id=37900458) - [Invidious – An open source alternative front-end to YouTube](https://invidious.io/)
 * [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript-Is-Weird as a compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
+* [2023-10-16, 05:27:01](https://news.ycombinator.com/item?id=37896198) - [Cataloguing the Cotton Charters](https://blogs.bl.uk/digitisedmanuscripts/2023/10/cataloguing-the-cotton-charters.html)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [The story of ispc: origins (part 1) (2018)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 
 ## [Archives](archives/index.md)
