@@ -26,7 +26,7 @@
 * [2023-10-16, 23:51:24](https://news.ycombinator.com/item?id=37908268) - [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
-* [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript-Is-Weird as a compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
+* [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 05:27:01](https://news.ycombinator.com/item?id=37896198) - [Cataloguing the Cotton Charters](https://blogs.bl.uk/digitisedmanuscripts/2023/10/cataloguing-the-cotton-charters.html)
 * [2023-10-15, 12:36:12](https://news.ycombinator.com/item?id=37889238) - [Southern Gumbo Trail (2006)](https://www.southernfoodways.org/oral-history/southern-gumbo-trail/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [The story of ispc: origins (part 1) (2018)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
