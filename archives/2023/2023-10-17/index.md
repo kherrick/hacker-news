@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:46:51](https://news.ycombinator.com/item?id=37915956) - [Former Head of U.S. Government Program Confirms Government Possesses UFOs](https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin)
 * [2023-10-17, 14:13:57](https://news.ycombinator.com/item?id=37915393) - [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
 * [2023-10-17, 14:13:15](https://news.ycombinator.com/item?id=37915372) - [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/)
@@ -22,6 +23,7 @@
 * [2023-10-17, 12:24:25](https://news.ycombinator.com/item?id=37913882) - [A False HackerOne Report Based on Bard's Hallucination](https://hackerone.com/reports/2199174)
 * [2023-10-17, 12:14:38](https://news.ycombinator.com/item?id=37913784) - [Home Insurance Is So High in This Florida Town, Residents Are Leaving](https://www.wsj.com/real-estate/home-insurance-is-so-high-in-this-florida-town-residents-are-leaving-bb00c96f)
 * [2023-10-17, 12:03:58](https://news.ycombinator.com/item?id=37913659) - [Working in Silicon Valley was fun. Now it's just another miserable corporate gig](https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10)
+* [2023-10-17, 12:02:01](https://news.ycombinator.com/item?id=37913642) - [Show HN: Hacker News API SDKs → Code Generation in Rust](https://hacker-news.sideko.dev/hacker-news/docs)
 * [2023-10-17, 12:00:30](https://news.ycombinator.com/item?id=37913625) - [Lago (Open-Source Alternative to Stripe Billing) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
 * [2023-10-17, 11:49:13](https://news.ycombinator.com/item?id=37913506) - [Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/)
 * [2023-10-17, 11:40:00](https://news.ycombinator.com/item?id=37913434) - [Show HN: Tell YouTube Ads to Fuck Off](https://www.fuckoff.yt)
@@ -44,6 +46,7 @@
 * [2023-10-17, 06:41:53](https://news.ycombinator.com/item?id=37911404) - [Finland's ChatGPT equivalent begins to think in Estonian as well](https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well)
 * [2023-10-17, 05:39:10](https://news.ycombinator.com/item?id=37911036) - [Engineering Team Lessons from Cycling](https://benjiweber.co.uk/blog/2023/10/15/engineering-team-lessons-from-cycling/)
 * [2023-10-17, 05:22:28](https://news.ycombinator.com/item?id=37910926) - [Biomolecular archaeology reveals a fuller picture of the nomadic Xiongnu](https://news.harvard.edu/gazette/story/2023/04/dna-shows-poorly-understood-empire-was-multiethnic-with-strong-female-leadership/)
+* [2023-10-17, 05:21:52](https://news.ycombinator.com/item?id=37910923) - [Toward the Decipherment of Harappan (2022)](https://languagelog.ldc.upenn.edu/nll/?p=53609)
 * [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
 * [2023-10-17, 04:40:03](https://news.ycombinator.com/item?id=37910698) - [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
 * [2023-10-17, 04:10:16](https://news.ycombinator.com/item?id=37910505) - [Japan Airlines lays on extra plane after sumo wrestlers make too heavy to fly](https://www.theguardian.com/world/2023/oct/16/weighty-issue-japan-airlines-lays-on-extra-plane-after-sumo-wrestlers-make-aircraft-too-heavy-to-fly)
