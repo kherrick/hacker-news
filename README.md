@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy: A Game Boy Color game based on the 'Fraiser' TV series](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-17, 15:27:28](https://news.ycombinator.com/item?id=37916647) - [Export Controls on Advanced Computing and Semiconductor Manufacturing Items](https://www.bis.doc.gov/index.php/about-bis/newsroom/2082)
 * [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:13:57](https://news.ycombinator.com/item?id=37915393) - [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
@@ -10,7 +11,6 @@
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
 * [2023-10-17, 12:51:18](https://news.ycombinator.com/item?id=37914146) - [Mypy 1.6](https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html)
 * [2023-10-17, 12:49:16](https://news.ycombinator.com/item?id=37914115) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
-* [2023-10-17, 12:42:46](https://news.ycombinator.com/item?id=37914043) - [Google Proposes New Mseal() Memory Sealing Syscall for Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
 * [2023-10-17, 12:38:03](https://news.ycombinator.com/item?id=37914003) - [Security Vulnerability of Switzerland's E-Voting System](https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html)
 * [2023-10-17, 12:02:01](https://news.ycombinator.com/item?id=37913642) - [Show HN: Hacker News API SDKs → Code Generation in Rust](https://hacker-news.sideko.dev/hacker-news/docs)
 * [2023-10-17, 11:49:13](https://news.ycombinator.com/item?id=37913506) - [Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/)

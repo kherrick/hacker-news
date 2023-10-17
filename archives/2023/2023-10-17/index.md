@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy: A Game Boy Color game based on the 'Fraiser' TV series](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-17, 15:27:28](https://news.ycombinator.com/item?id=37916647) - [Export Controls on Advanced Computing and Semiconductor Manufacturing Items](https://www.bis.doc.gov/index.php/about-bis/newsroom/2082)
 * [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:46:51](https://news.ycombinator.com/item?id=37915956) - [Former Head of U.S. Government Program Confirms Government Possesses UFOs](https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin)
