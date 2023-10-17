@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+* [2023-10-17, 18:01:26](https://news.ycombinator.com/item?id=37919030) - [In California, You Can Now Sell Your ADU](https://www.dwell.com/article/california-assembly-bill-1033-sell-your-adu-backyard-house-ab18999c)
 * [2023-10-17, 17:36:29](https://news.ycombinator.com/item?id=37918586) - [Tesla urges US to adopt much tougher fuel efficiency rules](https://www.reuters.com/business/autos-transportation/tesla-says-us-should-adopt-tougher-fuel-efficiency-rules-2023-10-17/)
 * [2023-10-17, 17:22:06](https://news.ycombinator.com/item?id=37918373) - [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
@@ -81,5 +83,6 @@
 * [2023-10-17, 00:52:08](https://news.ycombinator.com/item?id=37908837) - [Rite Aid Files for Bankruptcy](https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/)
 * [2023-10-17, 00:50:56](https://news.ycombinator.com/item?id=37908824) - [Realtors Face an Antitrust Reckoning](https://www.wsj.com/articles/burnett-v-national-association-of-realtors-home-buyers-sellers-brokers-commission-7e58fda0)
 * [2023-10-17, 00:43:54](https://news.ycombinator.com/item?id=37908760) - [Ruff v0.1.0](https://astral.sh/blog/ruff-v0.1.0)
+* [2023-10-17, 00:35:04](https://news.ycombinator.com/item?id=37908669) - [Is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)
 * [2023-10-17, 00:34:07](https://news.ycombinator.com/item?id=37908655) - [Getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-17, 00:23:13](https://news.ycombinator.com/item?id=37908549) - [Title 38, §1614: Products containing PFAS](https://www.mainelegislature.org/legis/statutes/38/title38sec1614.html)
