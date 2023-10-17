@@ -31,6 +31,7 @@
 * [2023-10-15, 18:59:01](https://news.ycombinator.com/item?id=37892384) - [American Big Tech Has Enslaved Us – Yanis Varoufakis](https://www.youtube.com/watch?v=VatYrw0uqjU)
 * [2023-10-15, 18:52:40](https://news.ycombinator.com/item?id=37892314) - [SpaceX Space Station](https://chrisprophet.substack.com/p/spacex-space-station)
 * [2023-10-15, 18:46:16](https://news.ycombinator.com/item?id=37892249) - [Spain tech job market is facing a hiring freeze](https://samagame.com/en/latest/after-years-of-prosperity-the-spanish-technology-sector-faces-an-unprecedented-situation-the-hiring-freeze/)
+* [2023-10-15, 18:41:29](https://news.ycombinator.com/item?id=37892206) - [NASA's Psyche Spacecraft, Optical Comms Demo En Route to Asteroid](https://www.nasa.gov/news-release/nasas-psyche-spacecraft-optical-comms-demo-en-route-to-asteroid/)
 * [2023-10-15, 18:36:18](https://news.ycombinator.com/item?id=37892160) - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
 * [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
