@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 14:13:57](https://news.ycombinator.com/item?id=37915393) - [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
 * [2023-10-17, 14:13:15](https://news.ycombinator.com/item?id=37915372) - [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/)
 * [2023-10-17, 14:04:56](https://news.ycombinator.com/item?id=37915241) - [Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
 * [2023-10-17, 13:58:06](https://news.ycombinator.com/item?id=37915132) - [\"Nepo-homebuyers\": 38% of young buyers use family money for down payments](https://www.axios.com/2023/10/16/nepo-homebuyers-housing-market-meaning-millennials)
@@ -35,6 +36,7 @@
 * [2023-10-17, 08:47:12](https://news.ycombinator.com/item?id=37912203) - [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
 * [2023-10-17, 08:19:28](https://news.ycombinator.com/item?id=37911989) - [Piped – An alternative privacy-friendly YouTube front end](https://github.com/TeamPiped/Piped)
 * [2023-10-17, 07:57:01](https://news.ycombinator.com/item?id=37911857) - [Wales' 20mph speed limit: How has the first month gone?](https://www.bbc.co.uk/news/uk-wales-67064306)
+* [2023-10-17, 07:37:11](https://news.ycombinator.com/item?id=37911740) - [Switching to WordPress felt like a visit to the Ferengi homeworld](https://www.lasselaursen.com/post/switching-to-wordpress-felt-like-a-visit-to-the-ferengi-homeworld/)
 * [2023-10-17, 07:04:50](https://news.ycombinator.com/item?id=37911544) - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
 * [2023-10-17, 07:03:27](https://news.ycombinator.com/item?id=37911530) - [Craig Murray Arrested Under Terrorism Act While Returning from Iceland](https://twitter.com/khrafnsson/status/1714003661834068390)
 * [2023-10-17, 07:02:58](https://news.ycombinator.com/item?id=37911527) - [Spotta – Find Bed Bugs Before Your Guests Do](https://www.spotta.co/bed-pod)
