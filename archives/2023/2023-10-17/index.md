@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 21:14:10](https://news.ycombinator.com/item?id=37921661) - [Stable Diffusion Gets a Major Boost with RTX Acceleration](https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/)
 * [2023-10-17, 21:00:58](https://news.ycombinator.com/item?id=37921497) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
 * [2023-10-17, 20:14:23](https://news.ycombinator.com/item?id=37920907) - [How We'll build sustainable, scalable, secure infrastructure for an AI future](https://cloud.google.com/blog/topics/systems/google-systems-innovations-at-ocp-global-summit)
 * [2023-10-17, 19:57:06](https://news.ycombinator.com/item?id=37920697) - [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
