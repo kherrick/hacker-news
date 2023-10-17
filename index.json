@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-17, 22:08:33",
+      "https://news.ycombinator.com/item?id=37922272"
+    ],
+    [
+      "AI Graphics at JetBrains",
+      "https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 22:01:15",
       "https://news.ycombinator.com/item?id=37922200"
     ],
@@ -77,16 +87,6 @@
     [
       "Raspberry Pi 5 vs. Orange Pi 5 Plus vs. Rock 5 Model B",
       "https://picockpit.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5-plus-vs-rock-5-model-b/"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 19:55:13",
-      "https://news.ycombinator.com/item?id=37920678"
-    ],
-    [
-      "Lumalabs AI",
-      "https://lumalabs.ai"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-10-17, 13:11:43",
-      "https://news.ycombinator.com/item?id=37914425"
+      "2023-10-17, 13:25:34",
+      "https://news.ycombinator.com/item?id=37914672"
     ],
     [
-      "Show HN: Riffusion with Lyrics",
-      "https://www.riffusion.com/"
+      "Show HN: I made an all-in-one desktop app with a no-BS approach to get work done",
+      "https://news.ycombinator.com/item?id=37914672"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Encrypting private data and private communications is now an ethical duty",
       "https://blog.tripu.info/encrypt/"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 05:31:53",
+      "https://news.ycombinator.com/item?id=37910983"
+    ],
+    [
+      "*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]",
+      "https://www.youtube.com/watch?v=dFIqNZ8VbRY"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Qaul – Internet independent wireless mesh communication app",
       "https://qaul.net/"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 14:01:58",
-      "https://news.ycombinator.com/item?id=37889798"
-    ],
-    [
-      "A Genius for Introspection (1994)",
-      "https://www.nytimes.com/1994/11/20/books/a-genius-for-introspection.html"
     ]
   ]
 ]
