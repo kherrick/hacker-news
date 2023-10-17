@@ -2,7 +2,6 @@
 
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 * [2023-10-17, 18:01:26](https://news.ycombinator.com/item?id=37919030) - [In California, You Can Now Sell Your ADU](https://www.dwell.com/article/california-assembly-bill-1033-sell-your-adu-backyard-house-ab18999c)
-* [2023-10-17, 17:36:29](https://news.ycombinator.com/item?id=37918586) - [Tesla urges US to adopt much tougher fuel efficiency rules](https://www.reuters.com/business/autos-transportation/tesla-says-us-should-adopt-tougher-fuel-efficiency-rules-2023-10-17/)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 17:17:02](https://news.ycombinator.com/item?id=37918298) - [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause)
 * [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
@@ -21,7 +20,6 @@
 * [2023-10-17, 13:45:23](https://news.ycombinator.com/item?id=37914958) - [Love after life: Richard Feynman's letter to his departed wife (2017)](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/)
 * [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
 * [2023-10-17, 13:03:37](https://news.ycombinator.com/item?id=37914312) - [The Paperweight Dilemma](https://blog.mobian.org/posts/2023/09/30/paperweight-dilemma/)
-* [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
 * [2023-10-17, 12:51:18](https://news.ycombinator.com/item?id=37914146) - [Mypy 1.6](https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html)
 * [2023-10-17, 11:19:34](https://news.ycombinator.com/item?id=37913256) - [Encrypting private data and private communications is now an ethical duty](https://blog.tripu.info/encrypt/)
 * [2023-10-17, 08:19:28](https://news.ycombinator.com/item?id=37911989) - [Piped – An alternative privacy-friendly YouTube front end](https://github.com/TeamPiped/Piped)
@@ -30,6 +28,8 @@
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 00:35:04](https://news.ycombinator.com/item?id=37908669) - [Is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
+* [2023-10-16, 05:27:01](https://news.ycombinator.com/item?id=37896198) - [Cataloguing the Cotton Charters](https://blogs.bl.uk/digitisedmanuscripts/2023/10/cataloguing-the-cotton-charters.html)
+* [2023-10-15, 12:36:12](https://news.ycombinator.com/item?id=37889238) - [Southern Gumbo Trail (2006)](https://www.southernfoodways.org/oral-history/southern-gumbo-trail/)
 
 ## [Archives](archives/index.md)
 
