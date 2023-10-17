@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 11:40:00](https://news.ycombinator.com/item?id=37913434) - [Show HN: Tell YouTube Ads to Fuck Off](https://www.fuckoff.yt)
 * [2023-10-17, 11:18:07](https://news.ycombinator.com/item?id=37913249) - [Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
 * [2023-10-17, 10:36:16](https://news.ycombinator.com/item?id=37912954) - [No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
 * [2023-10-17, 10:28:17](https://news.ycombinator.com/item?id=37912900) - [The Microsoft way (part 86): shipping rotten software](https://seclists.org/fulldisclosure/2023/Oct/17)
