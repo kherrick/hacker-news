@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 23:58:08](https://news.ycombinator.com/item?id=37908326) - [NASA's Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
 * [2023-10-16, 23:51:24](https://news.ycombinator.com/item?id=37908268) - [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
 * [2023-10-16, 23:24:06](https://news.ycombinator.com/item?id=37908055) - [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 * [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
@@ -108,6 +109,7 @@
 * [2023-10-16, 07:00:07](https://news.ycombinator.com/item?id=37896615) - [SigNoz (YC W21), open source Datadog alternative, hiring Senior Front end Engineer](https://signoz.io/careers/senior-frontend-engineer-in/)
 * [2023-10-16, 06:29:47](https://news.ycombinator.com/item?id=37896472) - [Some iPhone 15 Pro Max users are reporting OLED screen 'burn in'](https://www.techradar.com/phones/iphone/some-iphone-15-pro-max-users-are-reporting-oled-screen-burn-in)
 * [2023-10-16, 06:20:11](https://news.ycombinator.com/item?id=37896427) - [EU member states still cannot agree about end-to-end encryption](https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption)
+* [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript Is Weird as a Compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
 * [2023-10-16, 05:27:01](https://news.ycombinator.com/item?id=37896198) - [Cataloguing the Cotton Charters](https://blogs.bl.uk/digitisedmanuscripts/2023/10/cataloguing-the-cotton-charters.html)
 * [2023-10-16, 05:17:49](https://news.ycombinator.com/item?id=37896157) - [\"How to Build a Universe That Doesn't Fall Apart Two Days Later\" – Philip K Dick (1978)](https://urbigenous.net/library/how_to_build.html)
 * [2023-10-16, 03:41:24](https://news.ycombinator.com/item?id=37895719) - [How the conspiracy-fueled Epoch Times went mainstream and made millions](https://www.nbcnews.com/news/us-news/epoch-times-falun-gong-growth-rcna111373)
