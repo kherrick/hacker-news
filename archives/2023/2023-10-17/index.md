@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
 * [2023-10-17, 16:28:29](https://news.ycombinator.com/item?id=37917597) - [Tech CEO Sentenced to 5 Years in IP Address Scheme](https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/)
 * [2023-10-17, 16:06:43](https://news.ycombinator.com/item?id=37917235) - [Gas utilities used tobacco tactics to avoid gas stove regulations](https://text.npr.org/1183551603)
 * [2023-10-17, 16:00:20](https://news.ycombinator.com/item?id=37917134) - [Lab Leak Fight Casts Chill over Virology Research](https://www.nytimes.com/2023/10/16/science/covid-lab-leak-research.html)
@@ -16,6 +17,7 @@
 * [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:46:51](https://news.ycombinator.com/item?id=37915956) - [Former Head of U.S. Government Program Confirms Government Possesses UFOs](https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin)
 * [2023-10-17, 14:45:16](https://news.ycombinator.com/item?id=37915934) - [Making CRDTs 98% More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/)
+* [2023-10-17, 14:28:45](https://news.ycombinator.com/item?id=37915662) - [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting](https://taoranyi.com/gaussiandreamer/)
 * [2023-10-17, 14:13:57](https://news.ycombinator.com/item?id=37915393) - [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
 * [2023-10-17, 14:13:15](https://news.ycombinator.com/item?id=37915372) - [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/)
 * [2023-10-17, 14:04:56](https://news.ycombinator.com/item?id=37915241) - [Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
