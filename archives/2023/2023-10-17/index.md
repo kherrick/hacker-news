@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 14:46:51](https://news.ycombinator.com/item?id=37915956) - [Former Head of U.S. Government Program Confirms Government Possesses UFOs](https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin)
 * [2023-10-17, 14:13:57](https://news.ycombinator.com/item?id=37915393) - [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
 * [2023-10-17, 14:13:15](https://news.ycombinator.com/item?id=37915372) - [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/)
 * [2023-10-17, 14:04:56](https://news.ycombinator.com/item?id=37915241) - [Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
