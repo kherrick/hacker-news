@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
+* [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
 * [2023-10-17, 12:51:18](https://news.ycombinator.com/item?id=37914146) - [Mypy 1.6 Released](https://mypy-lang.blogspot.com/2023/10/mypy-16-released.html)
 * [2023-10-17, 12:49:16](https://news.ycombinator.com/item?id=37914115) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-10-17, 12:42:46](https://news.ycombinator.com/item?id=37914043) - [Google Proposes New Mseal() Memory Sealing Syscall for Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
