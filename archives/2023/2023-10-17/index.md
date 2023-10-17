@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 14:13:15](https://news.ycombinator.com/item?id=37915372) - [Citing slow Starship reviews, SpaceX urges FAA to double licensing staff](https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/)
+* [2023-10-17, 14:04:56](https://news.ycombinator.com/item?id=37915241) - [Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
 * [2023-10-17, 13:58:06](https://news.ycombinator.com/item?id=37915132) - [\"Nepo-homebuyers\": 38% of young buyers use family money for down payments](https://www.axios.com/2023/10/16/nepo-homebuyers-housing-market-meaning-millennials)
 * [2023-10-17, 13:52:06](https://news.ycombinator.com/item?id=37915055) - [Science is bringing historic Apple varieties back to life](https://www.nature.com/articles/d41586-023-03229-6)
+* [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:45:23](https://news.ycombinator.com/item?id=37914958) - [Love After Life: Richard Feynman's Letter to His Departed Wife](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/)
 * [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
