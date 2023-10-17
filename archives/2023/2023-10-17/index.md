@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 07:57:01](https://news.ycombinator.com/item?id=37911857) - [Wales' 20mph speed limit: How has the first month gone?](https://www.bbc.co.uk/news/uk-wales-67064306)
 * [2023-10-17, 07:04:50](https://news.ycombinator.com/item?id=37911544) - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
+* [2023-10-17, 07:03:27](https://news.ycombinator.com/item?id=37911530) - [Craig Murray Arrested Under Terrorism Act While Returning from Iceland](https://twitter.com/khrafnsson/status/1714003661834068390)
 * [2023-10-17, 06:41:53](https://news.ycombinator.com/item?id=37911404) - [Finland's ChatGPT equivalent begins to think in Estonian as well](https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well)
 * [2023-10-17, 05:39:10](https://news.ycombinator.com/item?id=37911036) - [Engineering Team Lessons from Cycling](https://benjiweber.co.uk/blog/2023/10/15/engineering-team-lessons-from-cycling/)
 * [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)

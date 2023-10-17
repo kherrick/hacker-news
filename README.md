@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 07:57:01](https://news.ycombinator.com/item?id=37911857) - [Wales' 20mph speed limit: How has the first month gone?](https://www.bbc.co.uk/news/uk-wales-67064306)
 * [2023-10-17, 07:04:50](https://news.ycombinator.com/item?id=37911544) - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
+* [2023-10-17, 07:03:27](https://news.ycombinator.com/item?id=37911530) - [Craig Murray Arrested Under Terrorism Act While Returning from Iceland](https://twitter.com/khrafnsson/status/1714003661834068390)
 * [2023-10-17, 06:41:53](https://news.ycombinator.com/item?id=37911404) - [Finland's ChatGPT equivalent begins to think in Estonian as well](https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well)
 * [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
 * [2023-10-17, 04:40:03](https://news.ycombinator.com/item?id=37910698) - [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
@@ -21,7 +23,6 @@
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:46:44](https://news.ycombinator.com/item?id=37903489) - [Stocketa – An app I designed, built and never launched](https://paulstamatiou.com/stocketa/)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
-* [2023-10-16, 16:52:57](https://news.ycombinator.com/item?id=37902679) - [Napflix – Siesta Video Platform](https://napflix.tv/)
 * [2023-10-16, 16:07:56](https://news.ycombinator.com/item?id=37901902) - [MemGPT – LLMs with self-editing memory for unbounded context](https://github.com/cpacker/MemGPT)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
@@ -29,7 +30,6 @@
 * [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
-* [2023-10-15, 04:19:27](https://news.ycombinator.com/item?id=37886845) - [Predilections: Profile of Errol Morris (1989)](http://www.errolmorris.com/content/profile/singer_predilections.html)
 
 ## [Archives](archives/index.md)
 
