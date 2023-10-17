@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 01:57:24](https://news.ycombinator.com/item?id=37909470) - [The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope](https://www.nytimes.com/2023/10/16/dining/farm-raised-salmon-sustainability.html)
 * [2023-10-17, 01:14:30](https://news.ycombinator.com/item?id=37909037) - [Ford lays off 700 who were building electric version of F-150](https://www.cnn.com/2023/10/16/business/ford-f150-lightning-layoffs/index.html)
 * [2023-10-17, 01:08:09](https://news.ycombinator.com/item?id=37908973) - [Antarctic Ice Shelf Demise](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise)
 * [2023-10-17, 00:52:08](https://news.ycombinator.com/item?id=37908837) - [Rite Aid Files for Bankruptcy](https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/)
@@ -28,7 +29,6 @@
 * [2023-10-16, 07:47:16](https://news.ycombinator.com/item?id=37896854) - [Chess Written in GNU Sed](https://github.com/moldabekov/chess-sed)
 * [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript Is Weird as a Compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
-* [2023-10-15, 07:14:47](https://news.ycombinator.com/item?id=37887625) - [Werner Herzog on beer, yoga and what he would ask God](https://www.theguardian.com/film/2023/oct/15/werner-herzog-documentary-film-memoir-every-man-for-himself-interview)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
 
 ## [Archives](archives/index.md)
