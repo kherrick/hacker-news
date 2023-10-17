@@ -100,6 +100,7 @@
 * [2023-10-16, 09:15:26](https://news.ycombinator.com/item?id=37897390) - [Metaphors We Web By](https://maggieappleton.com/metaphors-web)
 * [2023-10-16, 09:14:38](https://news.ycombinator.com/item?id=37897388) - [My opinion on the future of React development](https://news.ycombinator.com/item?id=37897388)
 * [2023-10-16, 09:09:22](https://news.ycombinator.com/item?id=37897351) - [Atlassian prepares to abandon on-prem server products](https://www.theregister.com/2023/10/16/atlassian_cloud_migration_server_deprecation/)
+* [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can We Build Trustable Hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
 * [2023-10-16, 08:34:03](https://news.ycombinator.com/item?id=37897113) - [Bootstrapping a SaaS Business in Germany: How I did it](https://lukashermann.dev/writing/bootstrapping-a-saas-business-in-germany/)
 * [2023-10-16, 07:47:16](https://news.ycombinator.com/item?id=37896854) - [Chess Written in GNU Sed](https://github.com/moldabekov/chess-sed)
