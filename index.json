@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-10-17, 01:14:30",
+      "https://news.ycombinator.com/item?id=37909037"
+    ],
+    [
+      "Ford lays off 700 who were building electric version of F-150",
+      "https://www.cnn.com/2023/10/16/business/ford-f150-lightning-layoffs/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 00:52:08",
+      "https://news.ycombinator.com/item?id=37908837"
+    ],
+    [
+      "Rite Aid Files for Bankruptcy",
+      "https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 00:43:54",
+      "https://news.ycombinator.com/item?id=37908760"
+    ],
+    [
+      "Ruff v0.1.0",
+      "https://astral.sh/blog/ruff-v0.1.0"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 00:34:07",
+      "https://news.ycombinator.com/item?id=37908655"
+    ],
+    [
+      "Getaddrinfo() on glibc calls getenv(), oh boy",
+      "https://rachelbythebay.com/w/2023/10/16/env/"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 00:23:13",
+      "https://news.ycombinator.com/item?id=37908549"
+    ],
+    [
+      "Title 38, §1614: Products containing PFAS",
+      "https://www.mainelegislature.org/legis/statutes/38/title38sec1614.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 23:58:08",
+      "https://news.ycombinator.com/item?id=37908326"
+    ],
+    [
+      "NASA's Webb captures an ethereal view of NGC 346",
+      "https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 23:51:24",
       "https://news.ycombinator.com/item?id=37908268"
     ],
@@ -27,16 +87,6 @@
     [
       "BitVM: Compute Anything on Bitcoin [pdf]",
       "https://bitvm.org/bitvm.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 22:22:53",
-      "https://news.ycombinator.com/item?id=37907482"
-    ],
-    [
-      "Meta in Myanmar, Part IV: Only Connect",
-      "https://erinkissane.com/meta-in-myanmar-part-iv-only-connect"
     ]
   ],
   [
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2023-10-16, 20:03:02",
-      "https://news.ycombinator.com/item?id=37905669"
-    ],
-    [
-      "Coolify – Self-Hosting with Superpowers",
-      "https://coolify.io/"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 20:01:26",
       "https://news.ycombinator.com/item?id=37905638"
     ],
@@ -107,16 +147,6 @@
     [
       "LinkedIn is laying off nearly 700 employees",
       "https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 18:29:55",
-      "https://news.ycombinator.com/item?id=37904047"
-    ],
-    [
-      "Hallucineted CVE against Curl: someone asked Bard to find a vulnerability",
-      "https://mastodon.social/@bagder/111245232072475867"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2023-10-16, 12:38:14",
-      "https://news.ycombinator.com/item?id=37898999"
-    ],
-    [
-      "Better HTTP server routing in Go 1.22",
-      "https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/"
-    ]
-  ],
-  [
-    [
       "2023-10-16, 08:41:22",
       "https://news.ycombinator.com/item?id=37897155"
     ],
@@ -251,12 +271,12 @@
   ],
   [
     [
-      "2023-10-16, 07:47:16",
-      "https://news.ycombinator.com/item?id=37896854"
+      "2023-10-16, 06:17:56",
+      "https://news.ycombinator.com/item?id=37896416"
     ],
     [
-      "Chess Written in GNU Sed",
-      "https://github.com/moldabekov/chess-sed"
+      "JavaScript Is Weird as a Compressor",
+      "https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "USB Made Simple (2008)",
       "https://www.usbmadesimple.co.uk/"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 04:41:36",
-      "https://news.ycombinator.com/item?id=37886936"
-    ],
-    [
-      "Orthographic Depth",
-      "https://en.wikipedia.org/wiki/Orthographic_depth"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 01:43:24",
-      "https://news.ycombinator.com/item?id=37886049"
-    ],
-    [
-      "Organizing multiple Git identities",
-      "https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities"
     ]
   ]
 ]
