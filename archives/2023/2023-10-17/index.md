@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 17:22:06](https://news.ycombinator.com/item?id=37918373) - [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
+* [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
+* [2023-10-17, 17:17:02](https://news.ycombinator.com/item?id=37918298) - [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause)
 * [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
 * [2023-10-17, 16:28:48](https://news.ycombinator.com/item?id=37917605) - [Ask HN: Do you upvote? Why or why not?](https://news.ycombinator.com/item?id=37917605)
 * [2023-10-17, 16:28:29](https://news.ycombinator.com/item?id=37917597) - [Tech CEO Sentenced to 5 Years in IP Address Scheme](https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/)
