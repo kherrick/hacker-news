@@ -23,13 +23,13 @@
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
+* [2023-10-17, 13:03:37](https://news.ycombinator.com/item?id=37914312) - [The Paperweight Dilemma](https://blog.mobian.org/posts/2023/09/30/paperweight-dilemma/)
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
 * [2023-10-17, 11:19:34](https://news.ycombinator.com/item?id=37913256) - [Encrypting private data and private communications is now an ethical duty](https://blog.tripu.info/encrypt/)
 * [2023-10-17, 07:04:50](https://news.ycombinator.com/item?id=37911544) - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
 * [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
 * [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
-* [2023-10-15, 14:01:58](https://news.ycombinator.com/item?id=37889798) - [A Genius for Introspection (1994)](https://www.nytimes.com/1994/11/20/books/a-genius-for-introspection.html)
 
 ## [Archives](archives/index.md)
 
