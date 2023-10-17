@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+* [2023-10-17, 18:10:04](https://news.ycombinator.com/item?id=37919157) - [Rayban Meta Smart Glasses](https://www.meta.com/de/smart-glasses/)
 * [2023-10-17, 18:01:26](https://news.ycombinator.com/item?id=37919030) - [In California, You Can Now Sell Your ADU](https://www.dwell.com/article/california-assembly-bill-1033-sell-your-adu-backyard-house-ab18999c)
 * [2023-10-17, 17:36:29](https://news.ycombinator.com/item?id=37918586) - [Tesla urges US to adopt much tougher fuel efficiency rules](https://www.reuters.com/business/autos-transportation/tesla-says-us-should-adopt-tougher-fuel-efficiency-rules-2023-10-17/)
 * [2023-10-17, 17:22:06](https://news.ycombinator.com/item?id=37918373) - [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
