@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-17, 15:27:28",
+      "https://news.ycombinator.com/item?id=37916647"
+    ],
+    [
+      "Export Controls on Advanced Computing and Semiconductor Manufacturing Items",
+      "https://www.bis.doc.gov/index.php/about-bis/newsroom/2082"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 15:06:49",
       "https://news.ycombinator.com/item?id=37916306"
     ],
@@ -227,16 +237,6 @@
     [
       "Antibiotic Identified by AI",
       "https://www.nature.com/articles/s41589-023-01448-6"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 00:34:07",
-      "https://news.ycombinator.com/item?id=37908655"
-    ],
-    [
-      "Getaddrinfo() on glibc calls getenv(), oh boy",
-      "https://rachelbythebay.com/w/2023/10/16/env/"
     ]
   ],
   [
