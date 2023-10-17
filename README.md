@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-17, 22:49:51](https://news.ycombinator.com/item?id=37922616) - [NYC Mayor Eric Adams Condemning AI Critics [video]](https://www.youtube.com/watch?v=vFVZA1qcXfY)
+* [2023-10-17, 23:34:53](https://news.ycombinator.com/item?id=37922973) - [X/Twitter will begin charging new users $1 a year to access key features](https://fortune.com/2023/10/17/twitter-x-charging-new-users-1-dollar-year-to-tweet/)
+* [2023-10-17, 22:33:18](https://news.ycombinator.com/item?id=37922494) - [Adult Attention-Deficit/Hyperactivity Disorder and the Risk of Dementia](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810766)
 * [2023-10-17, 22:08:33](https://news.ycombinator.com/item?id=37922272) - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
 * [2023-10-17, 21:27:43](https://news.ycombinator.com/item?id=37921832) - [\"A Young Lady's Illustrated Primer\" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
@@ -29,7 +30,6 @@
 * [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
 * [2023-10-15, 17:06:40](https://news.ycombinator.com/item?id=37891469) - [WordStar: Arrogant, Difficult, Powerful (2022)](https://www.abortretry.fail/p/arrogant-difficult-powerful)
 * [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
-* [2023-10-15, 14:01:58](https://news.ycombinator.com/item?id=37889798) - [A Genius for Introspection (1994)](https://www.nytimes.com/1994/11/20/books/a-genius-for-introspection.html)
 
 ## [Archives](archives/index.md)
 
