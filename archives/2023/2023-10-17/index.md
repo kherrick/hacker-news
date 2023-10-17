@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 21:00:58](https://news.ycombinator.com/item?id=37921497) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
+* [2023-10-17, 20:14:23](https://news.ycombinator.com/item?id=37920907) - [How We'll build sustainable, scalable, secure infrastructure for an AI future](https://cloud.google.com/blog/topics/systems/google-systems-innovations-at-ocp-global-summit)
 * [2023-10-17, 19:57:06](https://news.ycombinator.com/item?id=37920697) - [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
 * [2023-10-17, 19:55:43](https://news.ycombinator.com/item?id=37920682) - [Raspberry Pi 5 vs. Orange Pi 5 Plus vs. Rock 5 Model B](https://picockpit.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5-plus-vs-rock-5-model-b/)
+* [2023-10-17, 19:55:13](https://news.ycombinator.com/item?id=37920678) - [Lumalabs AI](https://lumalabs.ai)
 * [2023-10-17, 19:54:49](https://news.ycombinator.com/item?id=37920674) - [Alternatives to Adobe](https://untested.sonnet.io/Alternatives+to+Adobe)
 * [2023-10-17, 19:51:49](https://news.ycombinator.com/item?id=37920633) - [IRS will officially launch free online tax filing service for 2024 tax season](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
 * [2023-10-17, 19:48:57](https://news.ycombinator.com/item?id=37920614) - [KDE 6 Wallpaper Competition Open Until Nov.14](https://discuss.kde.org/t/wallpaper-competition-announcement/3773)
