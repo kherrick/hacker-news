@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 05:19:50](https://news.ycombinator.com/item?id=37910904) - [Do You Need a Visit to the Confident Man Ranch?](https://www.gq.com/story/confident-man-ranch-profile)
 * [2023-10-17, 04:40:03](https://news.ycombinator.com/item?id=37910698) - [Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police](https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/)
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 03:32:25](https://news.ycombinator.com/item?id=37910238) - [Butt Plug Will Allow Toyota to Build 900-Mile EVs](https://jalopnik.com/toyota-says-this-butt-plug-will-allow-it-to-build-900-m-1850929505)

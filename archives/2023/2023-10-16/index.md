@@ -6,6 +6,7 @@
 
 * [2023-10-16, 23:58:08](https://news.ycombinator.com/item?id=37908326) - [NASA's Webb captures an ethereal view of NGC 346](https://phys.org/news/2023-10-nasa-webb-captures-ethereal-view.html)
 * [2023-10-16, 23:51:24](https://news.ycombinator.com/item?id=37908268) - [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
+* [2023-10-16, 23:47:53](https://news.ycombinator.com/item?id=37908243) - [Using different flours for sourdough fosters different bacteria–and flavors](https://phys.org/news/2023-10-flours-sourdough-fosters-bacteriaand-flavors.html)
 * [2023-10-16, 23:24:06](https://news.ycombinator.com/item?id=37908055) - [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 * [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
 * [2023-10-16, 22:26:57](https://news.ycombinator.com/item?id=37907519) - [Edinburgh couple are handed £17K bill by Tesla as they 'drove in rain'](https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-couple-fume-handed-17k-27906242)
