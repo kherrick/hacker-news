@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
+* [2023-10-17, 21:50:27](https://news.ycombinator.com/item?id=37922085) - [Detroit: magic wand makes dirty air look clean and lets polluters off the hook](https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution)
 * [2023-10-17, 21:40:22](https://news.ycombinator.com/item?id=37921978) - [Show HN: Found a clean link today for Harmy's Despecialized edition.](https://peertube-a5egg-u8148.vm.elestio.app/videos/watch/14a4104d-8fc4-431a-ad67-8b286c25df15)
 * [2023-10-17, 21:27:43](https://news.ycombinator.com/item?id=37921832) - [\"A Young Lady's Illustrated Primer\" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
 * [2023-10-17, 21:14:10](https://news.ycombinator.com/item?id=37921661) - [Stable Diffusion Gets a Major Boost with RTX Acceleration](https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/)
