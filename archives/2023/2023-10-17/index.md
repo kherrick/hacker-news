@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 22:49:51](https://news.ycombinator.com/item?id=37922616) - [NYC Mayor Eric Adams Condemning AI Critics [video]](https://www.youtube.com/watch?v=vFVZA1qcXfY)
 * [2023-10-17, 22:08:33](https://news.ycombinator.com/item?id=37922272) - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
 * [2023-10-17, 21:50:27](https://news.ycombinator.com/item?id=37922085) - [Detroit: magic wand makes dirty air look clean and lets polluters off the hook](https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution)

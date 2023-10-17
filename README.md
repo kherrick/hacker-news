@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 22:49:51](https://news.ycombinator.com/item?id=37922616) - [NYC Mayor Eric Adams Condemning AI Critics [video]](https://www.youtube.com/watch?v=vFVZA1qcXfY)
 * [2023-10-17, 22:08:33](https://news.ycombinator.com/item?id=37922272) - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
 * [2023-10-17, 21:50:27](https://news.ycombinator.com/item?id=37922085) - [Detroit: magic wand makes dirty air look clean and lets polluters off the hook](https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution)
@@ -15,7 +16,6 @@
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 16:28:29](https://news.ycombinator.com/item?id=37917597) - [Tech CEO sentenced to 5 years in IP address scheme](https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/)
-* [2023-10-17, 15:51:59](https://news.ycombinator.com/item?id=37917012) - [Using Goatse to Stop App Theft](https://joshcsimmons.com/post/H4sIAAAAAAAA%2F0xVTY%2FjNgy951c8TA%2BzC0yCQQ9F0dte2gYosIedbdEjbdG2dmRRFakE7q8vKCebXvIBySTfB59%2FwFeNecZvQqYME3wxKfhUCt4WnuxwOKPyyNnShqHFZCAMVa7K9TiQcsBVasBMK%2BMabcG6YaqRc1CMlBIHfPmnX%2Fmg%2Ffs0yvrxhPPzilKlBe%2BptMEWMlz5%2BcIYmDNoSH2elWI2ihkENaawYa7SCmRCoJg20GjxwmjKVSEXrrCFUUgNP2GVbItCKlQQWEs0RhZDEIdNeUNlSqBw4WrRuTgdDn%2B2ZK2y4hpTAl84o8TxHWRYJbAatI0jq0JNamQ9HQ5%2FsxrXQBsks0%2B3bhglJRqkkklVzCKz8%2FG0E%2FEEyh39EhXaaqlR%2BcWHr4yrf5hk9UpTrGrHQjOjsrZkemercn62jvdBLoI4ZycXUBkajRVUGU9dJJrnyrNP9HQ767UWUcMmrYJKQcwaQ0dBGfHX6g%2Bq7Ddt4Q0j5S6HM4fqDDXGVGXda5QqoY12OhzeHN1KgeG981xjF8jLGnSRlgIWujCOXZaBR2rKd89EBWEkXTDKFUdcGUEccm0ZFBSSd%2FQuq9O5n670zi49uxdlRbQXRHtWfGtqmKRiahlHDO3RMRqu5O0KqUbJjuEbj7a7%2BmbpF6isbIt7p7S694zZOFuUTCl5Q%2B6%2BLYk2%2FHV%2B%2B%2F3z1zcf9YSzT0Azxazm7mBbRNF7Br5wksL1rr%2FrNVDO7mnvUaS0om7Ful39xgnnCee%2BksFFolJe%2FD%2BnyBf%2BH7kcvSIGl4fZN%2BFxNjBaOU5VsoEGaYbrTWFoG3SssTguf6i0Oi6kjFLjyC7Mh27fhXMXrhXllFz9jycPjdEbuBY0uJOU2TnrO%2BFekMwW%2F2UnD%2BYWudLW3cJYyXevo66sRbLGHgWddBMEwfVhm54VJqAQ3CrStYDy2Gq0DUVSHDe%2FsIfC7MSB1j7zrZOK%2B92zZYd%2FRuAxBg73bqSonMMtWZhq2vDj6%2Burdulr5k7o%2BI64%2Bo7esrT7hpCdrpVV%2FUhb4RrXIh6cPauiOQUl0djXzRv0BZzuKxDYeLxvvN%2F2ro%2B1dLINC%2BnOxCN75spkHlU0Lm6JlbM93PaLY0vxwsfAJckGwuq%2BvzDmffwdizNrSOxp%2BvMtWW6z0B4%2Ba8w%2BxB%2Fsvok%2BBgiJVX01xQ2Bo8PxH%2B7q1t83j1hxjqP2baF9j3ek6sU9TPRlT2Bf28RztLiSsRvSadSXXrl7IUs3QJV0fw%2BQfbfE0cnz2BoXyjM7LE9%2Fiyuf8DkzPLrvPpAJSeTdJ43ZObiPu3db47x4cny%2F1IvBU6By2hDiNHk2G95j7tWKVKN0OvwHAAD%2F%2FwMASc5Y2XAHAAA%3D)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-17, 15:39:20](https://news.ycombinator.com/item?id=37916840) - [Billing Engines Don't Solve Pricing Problems](https://www.tier.run/blog/pricing-engine-vs-billing-engine)
 * [2023-10-17, 14:45:16](https://news.ycombinator.com/item?id=37915934) - [Making CRDTs More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/)
@@ -23,13 +23,13 @@
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
-* [2023-10-17, 11:19:34](https://news.ycombinator.com/item?id=37913256) - [Encrypting private data and private communications is now an ethical duty](https://blog.tripu.info/encrypt/)
 * [2023-10-17, 05:31:53](https://news.ycombinator.com/item?id=37910983) - [*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
 * [2023-10-15, 18:41:29](https://news.ycombinator.com/item?id=37892206) - [NASA's Psyche Spacecraft, Optical Comms Demo En Route to Asteroid](https://www.nasa.gov/news-release/nasas-psyche-spacecraft-optical-comms-demo-en-route-to-asteroid/)
 * [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
 * [2023-10-15, 17:06:40](https://news.ycombinator.com/item?id=37891469) - [WordStar: Arrogant, Difficult, Powerful (2022)](https://www.abortretry.fail/p/arrogant-difficult-powerful)
 * [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
+* [2023-10-15, 14:01:58](https://news.ycombinator.com/item?id=37889798) - [A Genius for Introspection (1994)](https://www.nytimes.com/1994/11/20/books/a-genius-for-introspection.html)
 
 ## [Archives](archives/index.md)
 
