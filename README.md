@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 22:08:33](https://news.ycombinator.com/item?id=37922272) - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
 * [2023-10-17, 21:50:27](https://news.ycombinator.com/item?id=37922085) - [Detroit: magic wand makes dirty air look clean and lets polluters off the hook](https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution)
 * [2023-10-17, 21:27:43](https://news.ycombinator.com/item?id=37921832) - [\"A Young Lady's Illustrated Primer\" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
@@ -8,7 +9,6 @@
 * [2023-10-17, 20:14:23](https://news.ycombinator.com/item?id=37920907) - [How We'll build sustainable, scalable, secure infrastructure for an AI future](https://cloud.google.com/blog/topics/systems/google-systems-innovations-at-ocp-global-summit)
 * [2023-10-17, 19:57:06](https://news.ycombinator.com/item?id=37920697) - [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
 * [2023-10-17, 19:55:43](https://news.ycombinator.com/item?id=37920682) - [Raspberry Pi 5 vs. Orange Pi 5 Plus vs. Rock 5 Model B](https://picockpit.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5-plus-vs-rock-5-model-b/)
-* [2023-10-17, 19:55:13](https://news.ycombinator.com/item?id=37920678) - [Lumalabs AI](https://lumalabs.ai)
 * [2023-10-17, 19:51:49](https://news.ycombinator.com/item?id=37920633) - [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
 * [2023-10-17, 19:16:46](https://news.ycombinator.com/item?id=37920191) - [Using spaced repetition systems to see through a piece of mathematics (2019)](https://cognitivemedium.com/srs-mathematics)
 * [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
@@ -22,14 +22,14 @@
 * [2023-10-17, 14:45:16](https://news.ycombinator.com/item?id=37915934) - [Making CRDTs More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/)
 * [2023-10-17, 14:28:45](https://news.ycombinator.com/item?id=37915662) - [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting](https://taoranyi.com/gaussiandreamer/)
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
-* [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
+* [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
 * [2023-10-17, 11:19:34](https://news.ycombinator.com/item?id=37913256) - [Encrypting private data and private communications is now an ethical duty](https://blog.tripu.info/encrypt/)
+* [2023-10-17, 05:31:53](https://news.ycombinator.com/item?id=37910983) - [*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
 * [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
 * [2023-10-15, 17:06:40](https://news.ycombinator.com/item?id=37891469) - [WordStar: Arrogant, Difficult, Powerful (2022)](https://www.abortretry.fail/p/arrogant-difficult-powerful)
 * [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
-* [2023-10-15, 14:01:58](https://news.ycombinator.com/item?id=37889798) - [A Genius for Introspection (1994)](https://www.nytimes.com/1994/11/20/books/a-genius-for-introspection.html)
 
 ## [Archives](archives/index.md)
 
