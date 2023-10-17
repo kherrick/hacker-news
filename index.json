@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-17, 14:46:51",
-      "https://news.ycombinator.com/item?id=37915956"
+      "2023-10-17, 15:06:49",
+      "https://news.ycombinator.com/item?id=37916306"
     ],
     [
-      "Former Head of U.S. Government Program Confirms Government Possesses UFOs",
-      "https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin"
+      "Patlabor 2, the Movie: realistic portrayal of modern aerial combat",
+      "https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37914958"
     ],
     [
-      "Love After Life: Richard Feynman's Letter to His Departed Wife",
+      "Love after life: Richard Feynman's letter to his departed wife (2017)",
       "https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter/"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "Security Vulnerability of Switzerland's E-Voting System",
       "https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 12:02:01",
+      "https://news.ycombinator.com/item?id=37913642"
+    ],
+    [
+      "Show HN: Hacker News API SDKs → Code Generation in Rust",
+      "https://hacker-news.sideko.dev/hacker-news/docs"
     ]
   ],
   [
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2023-10-17, 05:22:28",
-      "https://news.ycombinator.com/item?id=37910926"
+      "2023-10-17, 05:21:52",
+      "https://news.ycombinator.com/item?id=37910923"
     ],
     [
-      "Biomolecular archaeology reveals a fuller picture of the nomadic Xiongnu",
-      "https://news.harvard.edu/gazette/story/2023/04/dna-shows-poorly-understood-empire-was-multiethnic-with-strong-female-leadership/"
+      "Toward the Decipherment of Harappan (2022)",
+      "https://languagelog.ldc.upenn.edu/nll/?p=53609"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Getaddrinfo() on glibc calls getenv(), oh boy",
       "https://rachelbythebay.com/w/2023/10/16/env/"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 19:59:35",
-      "https://news.ycombinator.com/item?id=37905601"
-    ],
-    [
-      "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
-      "https://guanjunwu.github.io/4dgs/"
     ]
   ],
   [
