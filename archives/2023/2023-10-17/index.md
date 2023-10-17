@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 10:28:17](https://news.ycombinator.com/item?id=37912900) - [The Microsoft way (part 86): shipping rotten software](https://seclists.org/fulldisclosure/2023/Oct/17)
+* [2023-10-17, 10:21:23](https://news.ycombinator.com/item?id=37912861) - [AWS pulls plug on 3rd party re:Invent planning apps day before registration](https://twitter.com/donkersgood/status/1714161357510095292?s=46&t=LghIQ7soh6pCfjuNxdqDjQ)
 * [2023-10-17, 10:05:28](https://news.ycombinator.com/item?id=37912749) - [Is it easy to got from back end engineer to tech YouTuber? Watch Marko's journey [video]](https://www.youtube.com/watch?v=Vo4-6tEP1Ts)
 * [2023-10-17, 09:55:41](https://news.ycombinator.com/item?id=37912673) - [Leaked Microsoft pay guidelines – salary, hiring bonus, stock awards by level](https://www.businessinsider.com/microsoft-pay-guidelines-salary-hiring-bonus-stock-levels-2023-10)
 * [2023-10-17, 09:51:26](https://news.ycombinator.com/item?id=37912643) - [Five Design Principles for Building a Data Pipeline Engine](https://docs.tenzir.com/blog/five-design-principles-for-building-a-data-pipeline-engine)
