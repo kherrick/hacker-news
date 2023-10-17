@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 12:00:30](https://news.ycombinator.com/item?id=37913625) - [Lago (Open-Source Alternative to Stripe Billing) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
+* [2023-10-17, 11:49:13](https://news.ycombinator.com/item?id=37913506) - [Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead](https://chrlschn.dev/blog/2023/07/interviews-age-of-ai-ditch-leetcode-try-code-reviews-instead/)
 * [2023-10-17, 11:40:00](https://news.ycombinator.com/item?id=37913434) - [Show HN: Tell YouTube Ads to Fuck Off](https://www.fuckoff.yt)
 * [2023-10-17, 11:18:07](https://news.ycombinator.com/item?id=37913249) - [Canadian cannabis market struggles five years after legalisation](https://www.bbc.com/news/world-us-canada-67126243)
 * [2023-10-17, 10:36:16](https://news.ycombinator.com/item?id=37912954) - [No morphological differences between living and non-living systems are yet known](https://www.chemistryworld.com/opinion/shape-is-not-enough-to-distinguish-life-from-abiotic-systems/4017874.article)
