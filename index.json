@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-17, 12:30:02",
+      "https://news.ycombinator.com/item?id=37913936"
+    ],
+    [
+      "Wikipedia's Intentional Distortion of the History of the Holocaust",
+      "https://digitalcommons.chapman.edu/history_articles/74/"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 12:03:58",
+      "https://news.ycombinator.com/item?id=37913659"
+    ],
+    [
+      "Working in Silicon Valley was fun. Now it's just another miserable corporate gig",
+      "https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 12:00:30",
       "https://news.ycombinator.com/item?id=37913625"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2023-10-17, 11:18:07",
-      "https://news.ycombinator.com/item?id=37913249"
+      "2023-10-17, 11:19:34",
+      "https://news.ycombinator.com/item?id=37913256"
     ],
     [
-      "Canadian cannabis market struggles five years after legalisation",
-      "https://www.bbc.com/news/world-us-canada-67126243"
+      "Encrypting private data and private communications is an ethical duty",
+      "https://blog.tripu.info/encrypt/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37912861"
     ],
     [
-      "AWS pulls plug on 3rd party re:Invent planning apps day before registration",
+      "AWS takedown notice to third-party Re:Invent session trackers",
       "https://twitter.com/donkersgood/status/1714161357510095292?s=46&t=LghIQ7soh6pCfjuNxdqDjQ"
     ]
   ],
@@ -81,22 +101,12 @@
   ],
   [
     [
-      "2023-10-17, 06:41:53",
-      "https://news.ycombinator.com/item?id=37911404"
+      "2023-10-17, 07:02:58",
+      "https://news.ycombinator.com/item?id=37911527"
     ],
     [
-      "Finland's ChatGPT equivalent begins to think in Estonian as well",
-      "https://news.err.ee/1609120697/finland-s-chatgpt-equivalent-begins-to-think-in-estonian-as-well"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 04:40:03",
-      "https://news.ycombinator.com/item?id=37910698"
-    ],
-    [
-      "Iowa man files lawsuit after being arrested twice for criticizing the police",
-      "https://reason.com/2023/10/13/iowa-man-files-lawsuit-after-being-arrested-twice-for-criticizing-the-police-at-a-public-meeting/"
+      "Spotta – Find Bed Bugs Before Your Guests Do",
+      "https://www.spotta.co/bed-pod"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=37896416"
     ],
     [
-      "JavaScript Is Weird as a Compressor",
+      "JavaScript-Is-Weird as a compressor",
       "https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The story of ispc: origins (part 1) (2018)",
       "https://pharr.org/matt/blog/2018/04/18/ispc-origins"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 05:12:39",
-      "https://news.ycombinator.com/item?id=37887058"
-    ],
-    [
-      "USB Made Simple (2008)",
-      "https://www.usbmadesimple.co.uk/"
     ]
   ]
 ]
