@@ -24,10 +24,10 @@
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 14:38:36](https://news.ycombinator.com/item?id=37900458) - [Invidious – An open source alternative front-end to YouTube](https://invidious.io/)
 * [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
-* [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can we build trustable hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
 * [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript Is Weird as a Compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
 * [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
+* [2023-10-15, 07:14:47](https://news.ycombinator.com/item?id=37887625) - [Werner Herzog on beer, yoga and what he would ask God](https://www.theguardian.com/film/2023/oct/15/werner-herzog-documentary-film-memoir-every-man-for-himself-interview)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
 * [2023-10-15, 04:19:27](https://news.ycombinator.com/item?id=37886845) - [Predilections: Profile of Errol Morris (1989)](http://www.errolmorris.com/content/profile/singer_predilections.html)
 
