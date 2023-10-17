@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 23:51:24](https://news.ycombinator.com/item?id=37908268) - [Detroit wants to be the first big American city to tax land value](https://www.economist.com/united-states/2023/10/05/detroit-wants-to-be-the-first-big-american-city-to-tax-land-value)
 * [2023-10-16, 23:24:06](https://news.ycombinator.com/item?id=37908055) - [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 * [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
 * [2023-10-16, 22:26:57](https://news.ycombinator.com/item?id=37907519) - [Edinburgh couple are handed £17K bill by Tesla as they 'drove in rain'](https://www.edinburghlive.co.uk/news/edinburgh-news/edinburgh-couple-fume-handed-17k-27906242)
+* [2023-10-16, 22:22:53](https://news.ycombinator.com/item?id=37907482) - [Meta in Myanmar, Part IV: Only Connect](https://erinkissane.com/meta-in-myanmar-part-iv-only-connect)
 * [2023-10-16, 22:16:41](https://news.ycombinator.com/item?id=37907433) - [20% of LinkedIn's recent layoffs were managers](https://news.ycombinator.com/item?id=37907433)
 * [2023-10-16, 21:42:06](https://news.ycombinator.com/item?id=37907055) - [Tanzania unveils its first locally assembled aircraft, Skyleader 600](https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx)
 * [2023-10-16, 21:25:06](https://news.ycombinator.com/item?id=37906871) - [NY Bill Would Require Background Checks to Buy 3D Printers](https://www.tomshardware.com/news/ny-bill-bans-3d-printers)
