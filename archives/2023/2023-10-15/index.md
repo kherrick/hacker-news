@@ -61,6 +61,7 @@
 * [2023-10-15, 14:17:04](https://news.ycombinator.com/item?id=37889925) - [What does friendship look like in America?](https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/)
 * [2023-10-15, 14:07:06](https://news.ycombinator.com/item?id=37889844) - [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570)
 * [2023-10-15, 14:04:09](https://news.ycombinator.com/item?id=37889818) - [MariaDB ditches products and staff in restructure](https://www.theregister.com/2023/10/13/mariadb_restructure/)
+* [2023-10-15, 14:01:58](https://news.ycombinator.com/item?id=37889798) - [A Genius for Introspection (1994)](https://www.nytimes.com/1994/11/20/books/a-genius-for-introspection.html)
 * [2023-10-15, 14:01:28](https://news.ycombinator.com/item?id=37889790) - [Node.js – v20.8.1](https://nodejs.org/en/blog/release/v20.8.1)
 * [2023-10-15, 13:45:21](https://news.ycombinator.com/item?id=37889666) - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [2023-10-15, 13:40:26](https://news.ycombinator.com/item?id=37889631) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
