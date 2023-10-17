@@ -15,7 +15,6 @@
 * [2023-10-16, 23:47:53](https://news.ycombinator.com/item?id=37908243) - [Using different flours for sourdough fosters different bacteria–and flavors](https://phys.org/news/2023-10-flours-sourdough-fosters-bacteriaand-flavors.html)
 * [2023-10-16, 23:24:06](https://news.ycombinator.com/item?id=37908055) - [Skyvew – View and share Bluesky threads without needing a Bluesky account](https://skyview.social/)
 * [2023-10-16, 23:04:40](https://news.ycombinator.com/item?id=37907901) - [BitVM: Compute Anything on Bitcoin [pdf]](https://bitvm.org/bitvm.pdf)
-* [2023-10-16, 22:16:41](https://news.ycombinator.com/item?id=37907433) - [Ask HN: 20% of LinkedIn's recent layoffs were managers](https://news.ycombinator.com/item?id=37907433)
 * [2023-10-16, 22:01:13](https://news.ycombinator.com/item?id=37907283) - [Amazon Passkeys Launched: Response to Consumer Demand with Poor Implementation](https://www.corbado.com/blog/amazon-passkeys-launch)
 * [2023-10-16, 21:03:32](https://news.ycombinator.com/item?id=37906601) - [OneSignal (YC S11) Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
 * [2023-10-16, 20:01:26](https://news.ycombinator.com/item?id=37905638) - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)
@@ -30,6 +29,7 @@
 * [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
+* [2023-10-15, 04:19:27](https://news.ycombinator.com/item?id=37886845) - [Predilections: Profile of Errol Morris (1989)](http://www.errolmorris.com/content/profile/singer_predilections.html)
 
 ## [Archives](archives/index.md)
 
