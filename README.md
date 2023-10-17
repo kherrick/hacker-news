@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-17, 21:14:10](https://news.ycombinator.com/item?id=37921661) - [Stable Diffusion Gets a Major Boost with RTX Acceleration](https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/)
+* [2023-10-17, 21:07:18](https://news.ycombinator.com/item?id=37921576) - [How Do We Clean Up the Scientific Record?](https://academic.oup.com/function/article/4/6/zqad055/7306462)
 * [2023-10-17, 21:00:58](https://news.ycombinator.com/item?id=37921497) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
 * [2023-10-17, 20:14:23](https://news.ycombinator.com/item?id=37920907) - [How We'll build sustainable, scalable, secure infrastructure for an AI future](https://cloud.google.com/blog/topics/systems/google-systems-innovations-at-ocp-global-summit)
 * [2023-10-17, 19:57:06](https://news.ycombinator.com/item?id=37920697) - [What happened to blogging for the hell of it?](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/)
@@ -22,7 +23,6 @@
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 13:11:43](https://news.ycombinator.com/item?id=37914425) - [Show HN: Riffusion with Lyrics](https://www.riffusion.com/)
-* [2023-10-17, 13:03:37](https://news.ycombinator.com/item?id=37914312) - [The Paperweight Dilemma](https://blog.mobian.org/posts/2023/09/30/paperweight-dilemma/)
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
 * [2023-10-17, 11:19:34](https://news.ycombinator.com/item?id=37913256) - [Encrypting private data and private communications is now an ethical duty](https://blog.tripu.info/encrypt/)
 * [2023-10-17, 07:04:50](https://news.ycombinator.com/item?id=37911544) - [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
