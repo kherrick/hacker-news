@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-17, 01:08:09",
+      "https://news.ycombinator.com/item?id=37908973"
+    ],
+    [
+      "Antarctic Ice Shelf Demise",
+      "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 00:52:08",
       "https://news.ycombinator.com/item?id=37908837"
     ],
@@ -37,16 +47,6 @@
     [
       "Getaddrinfo() on glibc calls getenv(), oh boy",
       "https://rachelbythebay.com/w/2023/10/16/env/"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 00:23:13",
-      "https://news.ycombinator.com/item?id=37908549"
-    ],
-    [
-      "Title 38, §1614: Products containing PFAS",
-      "https://www.mainelegislature.org/legis/statutes/38/title38sec1614.html"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "20% of LinkedIn's recent layoffs were managers",
       "https://news.ycombinator.com/item?id=37907433"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 21:42:06",
-      "https://news.ycombinator.com/item?id=37907055"
-    ],
-    [
-      "Tanzania unveils its first locally assembled aircraft, Skyleader 600",
-      "https://africa.businessinsider.com/local/markets/tanzania-takes-flight-unveiling-its-first-ever-homemade-aircraft/lbwekdx"
     ]
   ],
   [
@@ -177,16 +167,6 @@
     [
       "The Mathematician Who Sculpted the Shape of Space",
       "https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 17:21:05",
-      "https://news.ycombinator.com/item?id=37903100"
-    ],
-    [
-      "Demo: Android 14 Clipboard Manager Data Leak Security Issue",
-      "https://fingerprint.com/blog/android-14-clipboard-security-leak/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2023-10-16, 07:47:16",
+      "https://news.ycombinator.com/item?id=37896854"
+    ],
+    [
+      "Chess Written in GNU Sed",
+      "https://github.com/moldabekov/chess-sed"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 06:17:56",
       "https://news.ycombinator.com/item?id=37896416"
     ],
     [
       "JavaScript Is Weird as a Compressor",
       "https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 08:33:59",
+      "https://news.ycombinator.com/item?id=37888034"
+    ],
+    [
+      "Ispc: Origins (Part 1)",
+      "https://pharr.org/matt/blog/2018/04/18/ispc-origins"
     ]
   ],
   [
