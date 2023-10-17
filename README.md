@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-17, 01:57:24](https://news.ycombinator.com/item?id=37909470) - [The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope](https://www.nytimes.com/2023/10/16/dining/farm-raised-salmon-sustainability.html)
+* [2023-10-17, 01:52:30](https://news.ycombinator.com/item?id=37909433) - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
 * [2023-10-17, 01:14:30](https://news.ycombinator.com/item?id=37909037) - [Ford lays off 700 who were building electric version of F-150](https://www.cnn.com/2023/10/16/business/ford-f150-lightning-layoffs/index.html)
 * [2023-10-17, 01:08:09](https://news.ycombinator.com/item?id=37908973) - [Antarctic Ice Shelf Demise](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_ice_shelf_demise)
 * [2023-10-17, 00:52:08](https://news.ycombinator.com/item?id=37908837) - [Rite Aid Files for Bankruptcy](https://www.cbsnews.com/news/rite-aid-bankruptcy-opioids-lawsuits/)
@@ -14,7 +15,6 @@
 * [2023-10-16, 21:03:32](https://news.ycombinator.com/item?id=37906601) - [OneSignal (YC S11) Is Hiring Software Engineers in the US](https://onesignal.com/careers/4264311006)
 * [2023-10-16, 20:01:26](https://news.ycombinator.com/item?id=37905638) - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)
 * [2023-10-16, 19:59:35](https://news.ycombinator.com/item?id=37905601) - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
-* [2023-10-16, 18:59:46](https://news.ycombinator.com/item?id=37904518) - [LinkedIn is laying off nearly 700 employees](https://www.npr.org/2023/10/16/1206158638/linkedin-layoffs)
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:46:44](https://news.ycombinator.com/item?id=37903489) - [Stocketa – An app I designed, built and never launched](https://paulstamatiou.com/stocketa/)
 * [2023-10-16, 17:22:21](https://news.ycombinator.com/item?id=37903120) - [The Mathematician Who Sculpted the Shape of Space](https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/)
@@ -26,8 +26,8 @@
 * [2023-10-16, 13:59:25](https://news.ycombinator.com/item?id=37899993) - [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
 * [2023-10-16, 12:46:58](https://news.ycombinator.com/item?id=37899098) - [Should you be scared of Unix signals? (2016)](https://jvns.ca/blog/2016/06/13/should-you-be-scared-of-signals/)
 * [2023-10-16, 08:41:22](https://news.ycombinator.com/item?id=37897155) - [Can we build trustable hardware? (2019)](https://www.bunniestudios.com/blog/?cat=28)
-* [2023-10-16, 07:47:16](https://news.ycombinator.com/item?id=37896854) - [Chess Written in GNU Sed](https://github.com/moldabekov/chess-sed)
 * [2023-10-16, 06:17:56](https://news.ycombinator.com/item?id=37896416) - [JavaScript Is Weird as a Compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
+* [2023-10-16, 05:16:22](https://news.ycombinator.com/item?id=37896151) - [89, 263, 201: A set of three encrypted notes from the nineteenth century (2015)](https://www.damninteresting.com/89-263-201-500-337-480/)
 * [2023-10-15, 08:33:59](https://news.ycombinator.com/item?id=37888034) - [Ispc: Origins (Part 1)](https://pharr.org/matt/blog/2018/04/18/ispc-origins)
 * [2023-10-15, 05:12:39](https://news.ycombinator.com/item?id=37887058) - [USB Made Simple (2008)](https://www.usbmadesimple.co.uk/)
 
