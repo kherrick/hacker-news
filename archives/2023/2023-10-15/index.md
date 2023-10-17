@@ -41,6 +41,7 @@
 * [2023-10-15, 17:48:19](https://news.ycombinator.com/item?id=37891786) - [Centimillionaires: Elites with Investable Assets of More Than $100M](https://www.investopedia.com/new-class-of-global-elite-have-emerged-8357556)
 * [2023-10-15, 17:42:55](https://news.ycombinator.com/item?id=37891748) - [The Polish Election Bazaar](https://dragonscave.space/@miki/111240259192723454)
 * [2023-10-15, 17:11:39](https://news.ycombinator.com/item?id=37891518) - [FFmpeg-online: ffpmeg running on the browser](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
+* [2023-10-15, 17:06:40](https://news.ycombinator.com/item?id=37891469) - [WordStar: Arrogant, Difficult, Powerful (2022)](https://www.abortretry.fail/p/arrogant-difficult-powerful)
 * [2023-10-15, 17:00:09](https://news.ycombinator.com/item?id=37891405) - [Kraftful (YC S19) hiring a Founding Eng – we use AI to disrupt product dev](https://www.ycombinator.com/companies/kraftful/jobs/LUQ1XoF-founding-engineer)
 * [2023-10-15, 16:18:29](https://news.ycombinator.com/item?id=37891020) - [Why Async Rust?](https://without.boats/blog/why-async-rust/)
 * [2023-10-15, 16:09:12](https://news.ycombinator.com/item?id=37890933) - [If the first solar entrepreneur hadn't been kidnapped?](https://techxplore.com/news/2023-10-solar-entrepreneur-hadnt-kidnapped-fossil.html)
