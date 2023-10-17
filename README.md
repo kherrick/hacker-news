@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-17, 15:27:28](https://news.ycombinator.com/item?id=37916647) - [Export Controls on Advanced Computing and Semiconductor Manufacturing Items](https://www.bis.doc.gov/index.php/about-bis/newsroom/2082)
 * [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:13:57](https://news.ycombinator.com/item?id=37915393) - [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
 * [2023-10-17, 14:04:56](https://news.ycombinator.com/item?id=37915241) - [Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
@@ -23,7 +24,6 @@
 * [2023-10-17, 03:41:07](https://news.ycombinator.com/item?id=37910297) - [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 02:27:59](https://news.ycombinator.com/item?id=37909756) - [The importance of handwriting is now better understood](https://www.economist.com/culture/2023/09/14/the-importance-of-handwriting-is-becoming-better-understood)
 * [2023-10-17, 01:52:30](https://news.ycombinator.com/item?id=37909433) - [Antibiotic Identified by AI](https://www.nature.com/articles/s41589-023-01448-6)
-* [2023-10-17, 00:34:07](https://news.ycombinator.com/item?id=37908655) - [Getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-16, 17:02:22](https://news.ycombinator.com/item?id=37902837) - [The Largest Greek Manuscript?](https://blogs.bl.uk/digitisedmanuscripts/2023/10/the-largest-greek-manuscript.html)
 * [2023-10-16, 15:23:57](https://news.ycombinator.com/item?id=37901120) - [Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft](https://news.ycombinator.com/item?id=37901120)
 * [2023-10-16, 09:00:19](https://news.ycombinator.com/item?id=37897289) - [Wrapping Meshes with Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 15:27:28](https://news.ycombinator.com/item?id=37916647) - [Export Controls on Advanced Computing and Semiconductor Manufacturing Items](https://www.bis.doc.gov/index.php/about-bis/newsroom/2082)
 * [2023-10-17, 15:06:49](https://news.ycombinator.com/item?id=37916306) - [Patlabor 2, the Movie: realistic portrayal of modern aerial combat](https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/)
 * [2023-10-17, 14:46:51](https://news.ycombinator.com/item?id=37915956) - [Former Head of U.S. Government Program Confirms Government Possesses UFOs](https://www.liberationtimes.com/home/former-head-of-us-government-ufo-program-confirms-government-possesses-advanced-craft-of-unknown-origin)
 * [2023-10-17, 14:13:57](https://news.ycombinator.com/item?id=37915393) - [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
