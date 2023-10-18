@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 02:32:12](https://news.ycombinator.com/item?id=37924253) - [Microsoft in talks to sign on Amazon as customer in $1B cloud tools deal](https://www.reuters.com/markets/deals/microsoft-sign-amazon-customer-1-bln-cloud-tools-deal-insider-2023-10-17/)
 * [2023-10-18, 02:06:56](https://news.ycombinator.com/item?id=37924092) - [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
 * [2023-10-18, 01:28:41](https://news.ycombinator.com/item?id=37923849) - [LinkedIn lays off nearly 700 staff, engineers to suffer the most](https://www.theregister.com/2023/10/16/linkedin_layoffs/)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
