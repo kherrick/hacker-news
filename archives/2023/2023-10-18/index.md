@@ -6,6 +6,7 @@
 
 * [2023-10-18, 19:37:57](https://news.ycombinator.com/item?id=37933684) - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 * [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
+* [2023-10-18, 19:12:39](https://news.ycombinator.com/item?id=37933327) - [X plans to use payment, phone and ID verification to stop bots, $1/yr fee](https://techcrunch.com/2023/10/18/x-plans-to-use-payment-phone-and-id-verification-to-stop-bots-in-addition-to-the-new-1-yr-fee/)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 18:36:27](https://news.ycombinator.com/item?id=37932800) - [What is the difference between include <filename> and include \"filename\"?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
 * [2023-10-18, 18:33:42](https://news.ycombinator.com/item?id=37932754) - [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
@@ -13,6 +14,7 @@
 * [2023-10-18, 18:16:36](https://news.ycombinator.com/item?id=37932539) - [Inside the booming AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
 * [2023-10-18, 18:09:17](https://news.ycombinator.com/item?id=37932449) - [Turbopuffer: $1/month per million vectors](https://turbopuffer.com/)
 * [2023-10-18, 18:04:54](https://news.ycombinator.com/item?id=37932383) - [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.livescience.com/planet-earth/gulf-stream-weakening-now-99-certain-and-ramifications-will-be-global)
+* [2023-10-18, 18:00:38](https://news.ycombinator.com/item?id=37932325) - [Windows Longhorn and the Worst Code I've Ever Seen: Dave Cutler [video]](https://www.youtube.com/watch?v=vxmZPMg7vIs)
 * [2023-10-18, 17:22:52](https://news.ycombinator.com/item?id=37931804) - [Ask HN: What's the most beautiful web game you've seen?](https://news.ycombinator.com/item?id=37931804)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) Is Hiring Engineerings o make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [A 'Godfather of AI' Calls for an Organization to Defend Humanity](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
