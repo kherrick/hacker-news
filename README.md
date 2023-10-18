@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 06:31:07](https://news.ycombinator.com/item?id=37925441) - [Nitrous oxide: Laughing gas possession to be illegal in three weeks](https://www.bbc.co.uk/news/uk-67141869)
 * [2023-10-18, 05:25:25](https://news.ycombinator.com/item?id=37925099) - [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
 * [2023-10-18, 05:15:57](https://news.ycombinator.com/item?id=37925059) - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
 * [2023-10-18, 04:43:31](https://news.ycombinator.com/item?id=37924928) - [Open source app to watch videos from any platform](https://gitlab.futo.org/videostreaming/grayjay)
@@ -20,7 +21,6 @@
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 16:28:29](https://news.ycombinator.com/item?id=37917597) - [Tech CEO sentenced to 5 years in IP address scheme](https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
-* [2023-10-17, 15:39:20](https://news.ycombinator.com/item?id=37916840) - [Billing Engines Don't Solve Pricing Problems](https://www.tier.run/blog/pricing-engine-vs-billing-engine)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 05:31:53](https://news.ycombinator.com/item?id=37910983) - [*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2023-10-16, 18:18:56](https://news.ycombinator.com/item?id=37903899) - [Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)

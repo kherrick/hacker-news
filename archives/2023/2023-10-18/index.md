@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 06:31:07](https://news.ycombinator.com/item?id=37925441) - [Nitrous oxide: Laughing gas possession to be illegal in three weeks](https://www.bbc.co.uk/news/uk-67141869)
 * [2023-10-18, 05:25:25](https://news.ycombinator.com/item?id=37925099) - [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
 * [2023-10-18, 05:15:57](https://news.ycombinator.com/item?id=37925059) - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
 * [2023-10-18, 05:12:27](https://news.ycombinator.com/item?id=37925047) - [After ChatGPT disruption, Stack Overflow lays off 28 percent of staff](https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/)
