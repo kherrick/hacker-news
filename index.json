@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-18, 13:17:45",
+      "https://news.ycombinator.com/item?id=37928205"
+    ],
+    [
+      "Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts",
+      "https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 12:55:35",
+      "https://news.ycombinator.com/item?id=37927918"
+    ],
+    [
+      "The most insane \"robocall mitigation plans\" that telcos filed with the FCC",
+      "https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 12:50:54",
       "https://news.ycombinator.com/item?id=37927866"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2023-10-18, 12:29:59",
-      "https://news.ycombinator.com/item?id=37927665"
-    ],
-    [
-      "I Just Sold My 500th Book. If I Was Allowed to Advertise It I'd Be Rich",
-      "https://jjpryor.substack.com/p/i-just-sold-my-500th-book-if-i-was"
-    ]
-  ],
-  [
-    [
       "2023-10-18, 12:06:06",
       "https://news.ycombinator.com/item?id=37927480"
     ],
     [
       "Why is text of sumissions in low-contrast grey on HN?",
       "https://news.ycombinator.com/item?id=37927480"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 12:06:04",
-      "https://news.ycombinator.com/item?id=37927479"
-    ],
-    [
-      "Self-Checkout Is a Failed Experiment",
-      "https://www.theatlantic.com/technology/archive/2023/10/self-checkout-kiosks-grocery-retail-stores/675676/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-10-18, 03:45:57",
+      "https://news.ycombinator.com/item?id=37924644"
+    ],
+    [
+      "Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen",
+      "https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 03:38:10",
       "https://news.ycombinator.com/item?id=37924589"
     ],
@@ -287,16 +297,6 @@
     [
       "MfsBSD: ISO file that create a working minimal installation of FreeBSD",
       "https://github.com/mmatuska/mfsbsd"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 15:39:05",
-      "https://news.ycombinator.com/item?id=37890637"
-    ],
-    [
-      "Qaul – Internet independent wireless mesh communication app",
-      "https://qaul.net/"
     ]
   ]
 ]
