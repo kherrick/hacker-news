@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
+* [2023-10-18, 15:43:57](https://news.ycombinator.com/item?id=37930334) - [Nvidia's banking on TensorRT to expand its generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
+* [2023-10-18, 15:40:06](https://news.ycombinator.com/item?id=37930266) - [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
 * [2023-10-18, 15:33:09](https://news.ycombinator.com/item?id=37930148) - [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
 * [2023-10-18, 15:19:35](https://news.ycombinator.com/item?id=37929921) - [Gnome Foundation Hires \"Professional Shaman\" as New Executive Director](https://lunduke.locals.com/post/4740497/gnome-foundation-hires-professional-shaman-as-new-executive-director)
 * [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfront ends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
@@ -13,6 +15,7 @@
 * [2023-10-18, 14:46:48](https://news.ycombinator.com/item?id=37929467) - [Fed to Propose Lowering Debit-Card Swipe Fees](https://www.wsj.com/finance/regulation/fed-to-propose-lowering-debit-card-swipe-fees-d80c3dd3)
 * [2023-10-18, 14:42:25](https://news.ycombinator.com/item?id=37929398) - [Stopbuyingdomainnames](https://stopbuyingdomainnames.com)
 * [2023-10-18, 14:38:23](https://news.ycombinator.com/item?id=37929338) - [USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
+* [2023-10-18, 14:37:01](https://news.ycombinator.com/item?id=37929311) - [The Oracle Java Platform Extension for Visual Studio Code](https://inside.java/2023/10/18/announcing-vscode-extension/)
 * [2023-10-18, 14:22:36](https://news.ycombinator.com/item?id=37929110) - [Titanium oxide material can remove toxic dyes from wastewater](https://phys.org/news/2023-10-titanium-oxide-material-toxic-dyes.html)
 * [2023-10-18, 14:17:12](https://news.ycombinator.com/item?id=37929028) - [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
 * [2023-10-18, 14:16:43](https://news.ycombinator.com/item?id=37929017) - [Binance US No Longer Allows USD Withdrawal for Users](https://thenewscrypto.com/binance-us-no-longer-allows-usd-withdrawal-for-users/)
