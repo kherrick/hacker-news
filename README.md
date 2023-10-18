@@ -14,7 +14,6 @@
 * [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
 * [2023-10-17, 21:58:45](https://news.ycombinator.com/item?id=37922181) - [Universal cancer vaccine trial shows significant improvement in overall survival](https://ultimovacs.com/investors/news/ultimovacs-announces-nipu-results-presented-at-esmo-2023-significant-and-clinically-meaningful-improvement-in-overall-survival-for-patients-receiving-uv1-cancer-vaccine-in-phase-ii-nipu-trial-in-mali)
-* [2023-10-17, 21:27:43](https://news.ycombinator.com/item?id=37921832) - [\"A Young Lady's Illustrated Primer\" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
 * [2023-10-17, 21:00:58](https://news.ycombinator.com/item?id=37921497) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
 * [2023-10-17, 19:51:49](https://news.ycombinator.com/item?id=37920633) - [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
 * [2023-10-17, 19:16:46](https://news.ycombinator.com/item?id=37920191) - [Using spaced repetition systems to see through a piece of mathematics (2019)](https://cognitivemedium.com/srs-mathematics)
@@ -29,6 +28,7 @@
 * [2023-10-15, 18:41:29](https://news.ycombinator.com/item?id=37892206) - [NASA's Psyche Spacecraft, Optical Comms Demo En Route to Asteroid](https://www.nasa.gov/news-release/nasas-psyche-spacecraft-optical-comms-demo-en-route-to-asteroid/)
 * [2023-10-15, 18:32:31](https://news.ycombinator.com/item?id=37892125) - [Why Card Catalogs Matter (2017)](https://www.smithsonianmag.com/arts-culture/librarian-congress-weighs-why-card-catalogs-matter-180963371/)
 * [2023-10-15, 17:06:40](https://news.ycombinator.com/item?id=37891469) - [WordStar: Arrogant, Difficult, Powerful (2022)](https://www.abortretry.fail/p/arrogant-difficult-powerful)
+* [2023-10-15, 17:03:57](https://news.ycombinator.com/item?id=37891445) - [MfsBSD: ISO file that create a working minimal installation of FreeBSD](https://github.com/mmatuska/mfsbsd)
 * [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
 
 ## [Archives](archives/index.md)
