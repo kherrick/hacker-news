@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 11:30:06](https://news.ycombinator.com/item?id=37927229) - [Therapy centre hack suspect faces aggravated blackmail, other charges](https://yle.fi/a/74-20055793)
 * [2023-10-18, 10:00:34](https://news.ycombinator.com/item?id=37926698) - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
 * [2023-10-18, 08:48:04](https://news.ycombinator.com/item?id=37926259) - [I'd rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
@@ -8,7 +9,6 @@
 * [2023-10-18, 05:15:57](https://news.ycombinator.com/item?id=37925059) - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
 * [2023-10-18, 04:12:35](https://news.ycombinator.com/item?id=37924776) - [Grayjay – Follow Creators Not Platforms](https://grayjay.app/)
 * [2023-10-18, 03:38:10](https://news.ycombinator.com/item?id=37924589) - [Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
-* [2023-10-18, 02:51:09](https://news.ycombinator.com/item?id=37924363) - [LLMs up to 4x Faster With Latest NVIDIA Drivers on Windows](https://blogs.nvidia.com/blog/2023/10/17/tensorrt-llm-windows-stable-diffusion-rtx/)
 * [2023-10-18, 02:06:56](https://news.ycombinator.com/item?id=37924092) - [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
