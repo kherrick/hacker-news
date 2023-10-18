@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-18, 01:28:41",
+      "https://news.ycombinator.com/item?id=37923849"
+    ],
+    [
+      "LinkedIn lays off nearly 700 staff, engineers to suffer the most",
+      "https://www.theregister.com/2023/10/16/linkedin_layoffs/"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 01:20:52",
       "https://news.ycombinator.com/item?id=37923801"
     ],
@@ -47,16 +57,6 @@
     [
       "Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem",
       "https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 22:08:33",
-      "https://news.ycombinator.com/item?id=37922272"
-    ],
-    [
-      "AI Graphics at JetBrains",
-      "https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Superlinear Returns",
       "http://paulgraham.com/superlinear.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 18:58:57",
-      "https://news.ycombinator.com/item?id=37919924"
-    ],
-    [
-      "ExecuTorch: Run PyTorch programs on mobile and edge devices",
-      "https://pytorch.org/executorch/stable/index.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Qaul – Internet independent wireless mesh communication app",
       "https://qaul.net/"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 15:34:58",
+      "https://news.ycombinator.com/item?id=37890599"
+    ],
+    [
+      "The challenges of producing quality code when using AI-based generalistic models",
+      "https://www.infoq.com/news/2023/10/producing-quality-code-AI/"
     ]
   ]
 ]
