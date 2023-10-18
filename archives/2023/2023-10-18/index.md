@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
 * [2023-10-18, 11:30:06](https://news.ycombinator.com/item?id=37927229) - [Therapy centre hack suspect faces aggravated blackmail, other charges](https://yle.fi/a/74-20055793)
+* [2023-10-18, 10:41:26](https://news.ycombinator.com/item?id=37926926) - [Ask HN: What are the best / most accessible languages for blind programmers?](https://news.ycombinator.com/item?id=37926926)
 * [2023-10-18, 10:00:34](https://news.ycombinator.com/item?id=37926698) - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
 * [2023-10-18, 09:06:27](https://news.ycombinator.com/item?id=37926372) - [Don't Work with a**Holes](https://www.danielrsim.com/dont-work-with-a-holes/)
 * [2023-10-18, 08:48:04](https://news.ycombinator.com/item?id=37926259) - [I'd rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
