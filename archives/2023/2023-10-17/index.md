@@ -32,6 +32,7 @@
 * [2023-10-17, 18:10:04](https://news.ycombinator.com/item?id=37919157) - [Rayban Meta Smart Glasses](https://www.meta.com/de/smart-glasses/)
 * [2023-10-17, 18:01:26](https://news.ycombinator.com/item?id=37919030) - [In California, You Can Now Sell Your ADU](https://www.dwell.com/article/california-assembly-bill-1033-sell-your-adu-backyard-house-ab18999c)
 * [2023-10-17, 17:36:29](https://news.ycombinator.com/item?id=37918586) - [Tesla urges US to adopt much tougher fuel efficiency rules](https://www.reuters.com/business/autos-transportation/tesla-says-us-should-adopt-tougher-fuel-efficiency-rules-2023-10-17/)
+* [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
 * [2023-10-17, 17:22:06](https://news.ycombinator.com/item?id=37918373) - [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 17:17:25](https://news.ycombinator.com/item?id=37918304) - [The Future of How We Work Together at Roblox](https://blog.roblox.com/2023/10/future-work-together-roblox/)
