@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 15:19:35](https://news.ycombinator.com/item?id=37929921) - [Gnome Foundation Hires \"Professional Shaman\" as New Executive Director](https://lunduke.locals.com/post/4740497/gnome-foundation-hires-professional-shaman-as-new-executive-director)
 * [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfront ends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 * [2023-10-18, 14:51:49](https://news.ycombinator.com/item?id=37929535) - [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
 * [2023-10-18, 14:48:55](https://news.ycombinator.com/item?id=37929503) - [Ask HN: What outdated tech are you still using and are perfectly happy with?](https://news.ycombinator.com/item?id=37929503)
+* [2023-10-18, 14:46:48](https://news.ycombinator.com/item?id=37929467) - [Fed to Propose Lowering Debit-Card Swipe Fees](https://www.wsj.com/finance/regulation/fed-to-propose-lowering-debit-card-swipe-fees-d80c3dd3)
 * [2023-10-18, 14:42:25](https://news.ycombinator.com/item?id=37929398) - [Stopbuyingdomainnames](https://stopbuyingdomainnames.com)
 * [2023-10-18, 14:38:23](https://news.ycombinator.com/item?id=37929338) - [USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 * [2023-10-18, 14:22:36](https://news.ycombinator.com/item?id=37929110) - [Titanium oxide material can remove toxic dyes from wastewater](https://phys.org/news/2023-10-titanium-oxide-material-toxic-dyes.html)
