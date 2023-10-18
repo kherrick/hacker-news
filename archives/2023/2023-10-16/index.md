@@ -30,6 +30,7 @@
 * [2023-10-16, 18:34:14](https://news.ycombinator.com/item?id=37904101) - [Ask HN: How do you get out of a rut?](https://news.ycombinator.com/item?id=37904101)
 * [2023-10-16, 18:31:07](https://news.ycombinator.com/item?id=37904065) - [HashiCorp CEO Predicts OSS-Free Silicon Valley](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/)
 * [2023-10-16, 18:29:55](https://news.ycombinator.com/item?id=37904047) - [Hallucineted CVE against Curl: someone asked Bard to find a vulnerability](https://mastodon.social/@bagder/111245232072475867)
+* [2023-10-16, 18:18:56](https://news.ycombinator.com/item?id=37903899) - [Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)
 * [2023-10-16, 18:18:22](https://news.ycombinator.com/item?id=37903890) - [Leaving Twitter had no effect on NPR's traffic](https://pluralistic.net/2023/10/14/freedom-of-reach/)
 * [2023-10-16, 18:11:58](https://news.ycombinator.com/item?id=37903812) - [Intel's Latest I9 Chip Has Speeds Up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
 * [2023-10-16, 18:06:54](https://news.ycombinator.com/item?id=37903737) - [California to require firms to reveal carbon emissions in first law of its kind](https://www.theguardian.com/us-news/2023/oct/09/california-carbon-emissions-law)
