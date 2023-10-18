@@ -6,6 +6,7 @@
 
 * [2023-10-18, 05:12:27](https://news.ycombinator.com/item?id=37925047) - [After ChatGPT disruption, Stack Overflow lays off 28 percent of staff](https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/)
 * [2023-10-18, 04:43:31](https://news.ycombinator.com/item?id=37924928) - [Open source app to watch videos from any platform](https://gitlab.futo.org/videostreaming/grayjay)
+* [2023-10-18, 04:12:35](https://news.ycombinator.com/item?id=37924776) - [Grayjay – Follow Creators Not Platforms](https://grayjay.app/)
 * [2023-10-18, 04:08:47](https://news.ycombinator.com/item?id=37924757) - [X traffic and monthly active users are in decline, report claims](https://echonewshub.com/one-year-post-acquisition-x-traffic-and-monthly-active-users-are-in-decline-report-claims/)
 * [2023-10-18, 03:56:19](https://news.ycombinator.com/item?id=37924705) - [CIA's Telegram Hijacked](https://www.bbc.com/news/technology-67137773)
 * [2023-10-18, 03:38:10](https://news.ycombinator.com/item?id=37924589) - [Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
