@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
+* [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent (2020)](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 18:33:42](https://news.ycombinator.com/item?id=37932754) - [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
-* [2023-10-18, 18:23:47](https://news.ycombinator.com/item?id=37932617) - [The Westminster Declaration](https://westminsterdeclaration.org)
 * [2023-10-18, 18:04:54](https://news.ycombinator.com/item?id=37932383) - [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.livescience.com/planet-earth/gulf-stream-weakening-now-99-certain-and-ramifications-will-be-global)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) is hiring engineers to make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
@@ -26,6 +25,7 @@
 * [2023-10-18, 10:07:17](https://news.ycombinator.com/item?id=37926741) - [Autogen: Enable next-gen large language model applications](https://github.com/microsoft/autogen)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
+* [2023-10-18, 06:51:06](https://news.ycombinator.com/item?id=37925538) - [The Ur-Quan Masters: The Open Source Remake of Star Control II](http://theurquanmasters.com/)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-17, 23:04:51](https://news.ycombinator.com/item?id=37922748) - [Winsorized mean](https://en.wikipedia.org/wiki/Winsorized_mean)
 * [2023-10-17, 17:17:37](https://news.ycombinator.com/item?id=37918308) - [Ask HN: Why is there no modern successor to the 3D Pinball games of yesteryear?](https://news.ycombinator.com/item?id=37918308)
