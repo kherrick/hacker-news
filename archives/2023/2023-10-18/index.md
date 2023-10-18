@@ -4,11 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 12:24:09](https://news.ycombinator.com/item?id=37927613) - [X begins charging new users $1 a year in New Zealand, Philippines](https://www.bbc.co.uk/news/business-67141993)
+* [2023-10-18, 12:06:06](https://news.ycombinator.com/item?id=37927480) - [Why is text of sumissions in low-contrast grey on HN?](https://news.ycombinator.com/item?id=37927480)
 * [2023-10-18, 12:00:35](https://news.ycombinator.com/item?id=37927435) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+* [2023-10-18, 11:50:23](https://news.ycombinator.com/item?id=37927357) - [GPT-4 Vision Prompt Injection](https://blog.roboflow.com/gpt-4-vision-prompt-injection/)
 * [2023-10-18, 11:48:56](https://news.ycombinator.com/item?id=37927344) - [What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
+* [2023-10-18, 11:35:23](https://news.ycombinator.com/item?id=37927269) - [Bricklaying robots can now build tennis-court-sized walls in 4 hours](https://newatlas.com/robotics/hadrian-x-bricklaying-robot/)
 * [2023-10-18, 11:33:01](https://news.ycombinator.com/item?id=37927255) - [Sweden reports damage to Baltic Sea cable with Estonia](https://www.dw.com/en/sweden-reports-damage-to-baltic-sea-cable-with-estonia/a-67126637)
 * [2023-10-18, 11:30:06](https://news.ycombinator.com/item?id=37927229) - [Therapy centre hack suspect faces aggravated blackmail, other charges](https://yle.fi/a/74-20055793)
 * [2023-10-18, 10:41:26](https://news.ycombinator.com/item?id=37926926) - [Ask HN: What are the best / most accessible languages for blind programmers?](https://news.ycombinator.com/item?id=37926926)
+* [2023-10-18, 10:28:11](https://news.ycombinator.com/item?id=37926849) - [Commercially Available Chairs in Star Trek](https://www.ex-astris-scientia.org/database/chairs-trek.htm)
+* [2023-10-18, 10:10:58](https://news.ycombinator.com/item?id=37926762) - [Vitalik Buterin Has Invested 400 ETH into SimulaVR](https://simulavr.com/blog/vitalik-investment/)
+* [2023-10-18, 10:07:17](https://news.ycombinator.com/item?id=37926741) - [AutoGen: Enable Next-Gen Large Language Model Applications](https://github.com/microsoft/autogen)
 * [2023-10-18, 10:00:34](https://news.ycombinator.com/item?id=37926698) - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
 * [2023-10-18, 09:06:27](https://news.ycombinator.com/item?id=37926372) - [Don't Work with a**Holes](https://www.danielrsim.com/dont-work-with-a-holes/)
 * [2023-10-18, 08:48:04](https://news.ycombinator.com/item?id=37926259) - [I'd rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
