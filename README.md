@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 14:11:40](https://news.ycombinator.com/item?id=37928956) - [OpenAI just replaced its core values with completely different ones](https://futurism.com/the-byte/openai-core-values-agi)
+* [2023-10-18, 13:49:18](https://news.ycombinator.com/item?id=37928630) - [I Am Happy Not to Be a Web Developer Anymore](https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/)
 * [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
 * [2023-10-18, 13:13:10](https://news.ycombinator.com/item?id=37928151) - [YouTube wants to get you watching more news from 'authoritative sources'](https://www.theverge.com/2023/10/18/23922070/youtube-news-immersive-watch-page-experience-shortform)
 * [2023-10-18, 12:55:35](https://news.ycombinator.com/item?id=37927918) - [The most insane \"robocall mitigation plans\" that telcos filed with the FCC](https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/)
@@ -24,11 +26,9 @@
 * [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
 * [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
 * [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
-* [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-16, 18:18:56](https://news.ycombinator.com/item?id=37903899) - [Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)
 * [2023-10-16, 17:48:38](https://news.ycombinator.com/item?id=37903509) - [Reconfigurable transistors for more efficient AI on-device classification](https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/)
-* [2023-10-15, 18:32:31](https://news.ycombinator.com/item?id=37892125) - [Why Card Catalogs Matter (2017)](https://www.smithsonianmag.com/arts-culture/librarian-congress-weighs-why-card-catalogs-matter-180963371/)
 * [2023-10-15, 17:03:57](https://news.ycombinator.com/item?id=37891445) - [MfsBSD: ISO file that create a working minimal installation of FreeBSD](https://github.com/mmatuska/mfsbsd)
 
 ## [Archives](archives/index.md)
