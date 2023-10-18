@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 14:17:12](https://news.ycombinator.com/item?id=37929028) - [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
 * [2023-10-18, 14:11:40](https://news.ycombinator.com/item?id=37928956) - [OpenAI just replaced its core values with completely different ones](https://futurism.com/the-byte/openai-core-values-agi)
 * [2023-10-18, 13:49:18](https://news.ycombinator.com/item?id=37928630) - [I Am Happy Not to Be a Web Developer Anymore](https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/)
 * [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)

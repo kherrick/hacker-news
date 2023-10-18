@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 14:17:12](https://news.ycombinator.com/item?id=37929028) - [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
 * [2023-10-18, 14:11:40](https://news.ycombinator.com/item?id=37928956) - [OpenAI just replaced its core values with completely different ones](https://futurism.com/the-byte/openai-core-values-agi)
 * [2023-10-18, 13:49:18](https://news.ycombinator.com/item?id=37928630) - [I Am Happy Not to Be a Web Developer Anymore](https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/)
 * [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
@@ -28,7 +29,6 @@
 * [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-16, 18:18:56](https://news.ycombinator.com/item?id=37903899) - [Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)
-* [2023-10-16, 17:48:38](https://news.ycombinator.com/item?id=37903509) - [Reconfigurable transistors for more efficient AI on-device classification](https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/)
 * [2023-10-15, 17:03:57](https://news.ycombinator.com/item?id=37891445) - [MfsBSD: ISO file that create a working minimal installation of FreeBSD](https://github.com/mmatuska/mfsbsd)
 
 ## [Archives](archives/index.md)
