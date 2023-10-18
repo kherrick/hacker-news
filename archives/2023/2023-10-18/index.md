@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 05:25:25](https://news.ycombinator.com/item?id=37925099) - [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
+* [2023-10-18, 05:15:57](https://news.ycombinator.com/item?id=37925059) - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
 * [2023-10-18, 05:12:27](https://news.ycombinator.com/item?id=37925047) - [After ChatGPT disruption, Stack Overflow lays off 28 percent of staff](https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/)
 * [2023-10-18, 04:43:31](https://news.ycombinator.com/item?id=37924928) - [Open source app to watch videos from any platform](https://gitlab.futo.org/videostreaming/grayjay)
 * [2023-10-18, 04:12:35](https://news.ycombinator.com/item?id=37924776) - [Grayjay – Follow Creators Not Platforms](https://grayjay.app/)
