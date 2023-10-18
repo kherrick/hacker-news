@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 18:36:27](https://news.ycombinator.com/item?id=37932800) - [What is the difference between include <filename> and include \"filename\"?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
 * [2023-10-18, 18:16:36](https://news.ycombinator.com/item?id=37932539) - [Inside the booming AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
@@ -13,6 +14,7 @@
 * [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [A 'Godfather of AI' Calls for an Organization to Defend Humanity](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
 * [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Ready Player Two – What the Multiplayer Web Can Learn from Video Games](https://rocicorp.dev/blog/ready-player-two)
+* [2023-10-18, 16:46:44](https://news.ycombinator.com/item?id=37931294) - [Fuyu-8B: A multimodal architecture for AI agents](https://www.adept.ai/blog/fuyu-8b)
 * [2023-10-18, 16:45:57](https://news.ycombinator.com/item?id=37931287) - [Bank of America's unrealized losses on securities rose to $131.6B](https://www.reuters.com/business/finance/bank-americas-unrealized-losses-securities-rose-1316-bln-2023-10-17/)
 * [2023-10-18, 16:39:19](https://news.ycombinator.com/item?id=37931181) - [State of Online Privacy Reaches 'Creepy' Level](https://foundation.mozilla.org/fr/blog/state-of-online-privacy-reaches-very-creepy-level-finds-mozillas-first-annual-consumer-creep-o-meter/)
 * [2023-10-18, 16:21:06](https://news.ycombinator.com/item?id=37930927) - [Amazon reaches 10000 Rivian electric delivery vans in U.S.](https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/)
