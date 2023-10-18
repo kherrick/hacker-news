@@ -37,6 +37,7 @@
 * [2023-10-16, 17:56:34](https://news.ycombinator.com/item?id=37903600) - [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
 * [2023-10-16, 17:53:28](https://news.ycombinator.com/item?id=37903574) - [Ask HN: New ThinkPad battery life on Ubuntu](https://news.ycombinator.com/item?id=37903574)
 * [2023-10-16, 17:49:38](https://news.ycombinator.com/item?id=37903520) - [AGPL license is a non-starter for most companies](https://opencoreventures.com/blog/2023-10-agpl-license-is-a-non-starter-for-most-companies/)
+* [2023-10-16, 17:48:38](https://news.ycombinator.com/item?id=37903509) - [Reconfigurable transistors for more efficient AI on-device classification](https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/)
 * [2023-10-16, 17:46:44](https://news.ycombinator.com/item?id=37903489) - [The 2.5 year side project app I designed, built, and never launched](https://paulstamatiou.com/stocketa/)
 * [2023-10-16, 17:35:09](https://news.ycombinator.com/item?id=37903329) - [One of America's most corporate-crime-friendly judges forced to recuse himself](https://pluralistic.net/2023/10/16/texas-two-step/#david-jones)
 * [2023-10-16, 17:25:33](https://news.ycombinator.com/item?id=37903172) - [\"About half of Bandcamp was laid off today\"](https://twitter.com/modernistwitch/status/1713962311579234428)
