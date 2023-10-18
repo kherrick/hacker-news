@@ -19,7 +19,7 @@
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 16:28:29](https://news.ycombinator.com/item?id=37917597) - [Tech CEO sentenced to 5 years in IP address scheme](https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
-* [2023-10-17, 14:28:45](https://news.ycombinator.com/item?id=37915662) - [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting](https://taoranyi.com/gaussiandreamer/)
+* [2023-10-17, 15:39:20](https://news.ycombinator.com/item?id=37916840) - [Billing Engines Don't Solve Pricing Problems](https://www.tier.run/blog/pricing-engine-vs-billing-engine)
 * [2023-10-17, 13:51:13](https://news.ycombinator.com/item?id=37915044) - [Circulant Matrices, Eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 12:59:13](https://news.ycombinator.com/item?id=37914243) - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
