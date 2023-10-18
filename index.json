@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-10-18, 22:14:42",
+      "https://news.ycombinator.com/item?id=37935496"
+    ],
+    [
+      "Bank of America warned consumers they would be pushed to the 'point of pain'",
+      "https://finance.yahoo.com/news/bank-america-warned-consumers-pushed-105605526.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 22:10:09",
+      "https://news.ycombinator.com/item?id=37935452"
+    ],
+    [
+      "The game theory of the Republican speakership crisis",
+      "https://www.natesilver.net/p/the-game-theory-of-the-republican"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 21:58:29",
       "https://news.ycombinator.com/item?id=37935333"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37935053"
     ],
     [
-      "How to Scale Nuclear Power",
+      "How to scale nuclear power",
       "https://a16z.com/how-to-scale-nuclear-power/"
     ]
   ],
@@ -67,26 +87,6 @@
     [
       "gRPC request context which caries values across microservice boundaries",
       "https://github.com/konigsoftware/konig-kontext"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 20:02:47",
-      "https://news.ycombinator.com/item?id=37934034"
-    ],
-    [
-      "The Awk Programming Language, Second Edition",
-      "https://www.awk.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 19:33:46",
-      "https://news.ycombinator.com/item?id=37933633"
-    ],
-    [
-      "You're not lacking creativity, you're overwhelmed",
-      "https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37911900"
     ],
     [
-      "Write More \"Useless\" Software",
+      "Write more \"useless\" software",
       "https://ntietz.com/blog/write-more-useless-software/"
     ]
   ]
