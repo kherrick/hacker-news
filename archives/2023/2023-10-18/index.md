@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
 * [2023-10-18, 18:16:36](https://news.ycombinator.com/item?id=37932539) - [Inside the booming AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
+* [2023-10-18, 18:09:17](https://news.ycombinator.com/item?id=37932449) - [Turbopuffer: $1/month per million vectors](https://turbopuffer.com/)
 * [2023-10-18, 17:22:52](https://news.ycombinator.com/item?id=37931804) - [Ask HN: What's the most beautiful web game you've seen?](https://news.ycombinator.com/item?id=37931804)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) Is Hiring Engineerings o make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [A 'Godfather of AI' Calls for an Organization to Defend Humanity](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)

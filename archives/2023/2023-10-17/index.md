@@ -38,6 +38,7 @@
 * [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
 * [2023-10-17, 17:22:06](https://news.ycombinator.com/item?id=37918373) - [Tesla owner received a $21,000 bill after the battery was damaged by rain](https://www.businessinsider.com/tesla-owners-bill-battery-damaged-ev-scotland-weather-2023-10)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
+* [2023-10-17, 17:17:37](https://news.ycombinator.com/item?id=37918308) - [Ask HN: Why is there no modern successor to the 3D Pinball games of yesteryear?](https://news.ycombinator.com/item?id=37918308)
 * [2023-10-17, 17:17:25](https://news.ycombinator.com/item?id=37918304) - [The Future of How We Work Together at Roblox](https://blog.roblox.com/2023/10/future-work-together-roblox/)
 * [2023-10-17, 17:17:02](https://news.ycombinator.com/item?id=37918298) - [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause)
 * [2023-10-17, 17:00:49](https://news.ycombinator.com/item?id=37918068) - [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/fz7HstY-full-stack-engineer)
