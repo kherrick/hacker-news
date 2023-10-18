@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 05:12:27](https://news.ycombinator.com/item?id=37925047) - [After ChatGPT disruption, Stack Overflow lays off 28 percent of staff](https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/)
 * [2023-10-18, 04:08:47](https://news.ycombinator.com/item?id=37924757) - [X traffic and monthly active users are in decline, report claims](https://echonewshub.com/one-year-post-acquisition-x-traffic-and-monthly-active-users-are-in-decline-report-claims/)
 * [2023-10-18, 03:38:10](https://news.ycombinator.com/item?id=37924589) - [Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 * [2023-10-18, 02:32:12](https://news.ycombinator.com/item?id=37924253) - [Microsoft in talks to sign on Amazon as customer in $1B cloud tools deal](https://www.reuters.com/markets/deals/microsoft-sign-amazon-customer-1-bln-cloud-tools-deal-insider-2023-10-17/)
