@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 12:00:35](https://news.ycombinator.com/item?id=37927435) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+* [2023-10-18, 11:48:56](https://news.ycombinator.com/item?id=37927344) - [What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
+* [2023-10-18, 11:33:01](https://news.ycombinator.com/item?id=37927255) - [Sweden reports damage to Baltic Sea cable with Estonia](https://www.dw.com/en/sweden-reports-damage-to-baltic-sea-cable-with-estonia/a-67126637)
 * [2023-10-18, 11:30:06](https://news.ycombinator.com/item?id=37927229) - [Therapy centre hack suspect faces aggravated blackmail, other charges](https://yle.fi/a/74-20055793)
 * [2023-10-18, 10:41:26](https://news.ycombinator.com/item?id=37926926) - [Ask HN: What are the best / most accessible languages for blind programmers?](https://news.ycombinator.com/item?id=37926926)
 * [2023-10-18, 10:00:34](https://news.ycombinator.com/item?id=37926698) - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
