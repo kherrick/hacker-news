@@ -13,7 +13,6 @@
 * [2023-10-18, 11:30:06](https://news.ycombinator.com/item?id=37927229) - [Therapy centre hack suspect faces aggravated blackmail, other charges](https://yle.fi/a/74-20055793)
 * [2023-10-18, 10:41:26](https://news.ycombinator.com/item?id=37926926) - [Ask HN: What are the best / most accessible languages for blind programmers?](https://news.ycombinator.com/item?id=37926926)
 * [2023-10-18, 10:28:11](https://news.ycombinator.com/item?id=37926849) - [Commercially Available Chairs in Star Trek](https://www.ex-astris-scientia.org/database/chairs-trek.htm)
-* [2023-10-18, 10:10:58](https://news.ycombinator.com/item?id=37926762) - [Vitalik Buterin Has Invested 400 ETH into SimulaVR](https://simulavr.com/blog/vitalik-investment/)
 * [2023-10-18, 10:07:17](https://news.ycombinator.com/item?id=37926741) - [AutoGen: Enable Next-Gen Large Language Model Applications](https://github.com/microsoft/autogen)
 * [2023-10-18, 10:00:34](https://news.ycombinator.com/item?id=37926698) - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
@@ -30,6 +29,7 @@
 * [2023-10-16, 17:48:38](https://news.ycombinator.com/item?id=37903509) - [Reconfigurable transistors for more efficient AI on-device classification](https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/)
 * [2023-10-15, 18:32:31](https://news.ycombinator.com/item?id=37892125) - [Why Card Catalogs Matter (2017)](https://www.smithsonianmag.com/arts-culture/librarian-congress-weighs-why-card-catalogs-matter-180963371/)
 * [2023-10-15, 17:03:57](https://news.ycombinator.com/item?id=37891445) - [MfsBSD: ISO file that create a working minimal installation of FreeBSD](https://github.com/mmatuska/mfsbsd)
+* [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
 
 ## [Archives](archives/index.md)
 
