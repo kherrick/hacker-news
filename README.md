@@ -2,12 +2,12 @@
 
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 * [2023-10-18, 21:00:19](https://news.ycombinator.com/item?id=37934688) - [Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
+* [2023-10-18, 20:52:13](https://news.ycombinator.com/item?id=37934598) - [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
 * [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using Cloud Dev Environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
 * [2023-10-18, 20:36:19](https://news.ycombinator.com/item?id=37934439) - [gRPC request context which caries values across microservice boundaries](https://github.com/konigsoftware/konig-kontext)
 * [2023-10-18, 20:02:47](https://news.ycombinator.com/item?id=37934034) - [The Awk Programming Language, Second Edition](https://www.awk.dev/)
 * [2023-10-18, 19:33:46](https://news.ycombinator.com/item?id=37933633) - [You're not lacking creativity, you're overwhelmed](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
-* [2023-10-18, 18:00:38](https://news.ycombinator.com/item?id=37932325) - [Windows Longhorn and the Worst Code I've Ever Seen: Dave Cutler [video]](https://www.youtube.com/watch?v=vxmZPMg7vIs)
 * [2023-10-18, 16:56:05](https://news.ycombinator.com/item?id=37931424) - [Scientists discover links between Alzheimer's disease and gut microbiota](https://www.kcl.ac.uk/news/links-between-alzheimers-and-gut-microbiota)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
 * [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Reflect – Multiplayer web app framework with game-style synchronization](https://rocicorp.dev/blog/ready-player-two)
