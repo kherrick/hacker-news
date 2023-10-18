@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
-* [2023-10-18, 18:36:27](https://news.ycombinator.com/item?id=37932800) - [What is the difference between include <filename> and include \"filename\"?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
 * [2023-10-18, 18:16:36](https://news.ycombinator.com/item?id=37932539) - [The AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
+* [2023-10-18, 18:09:17](https://news.ycombinator.com/item?id=37932449) - [Turbopuffer: $1/month per million vectors](https://turbopuffer.com/)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) is hiring engineers to make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [Yoshua Bengio: We need a humanity defense organization](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
