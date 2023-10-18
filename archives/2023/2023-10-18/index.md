@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) Is Hiring Engineerings o make an AI-first image editor](https://playground.com/jobs)
+* [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
+* [2023-10-18, 16:21:06](https://news.ycombinator.com/item?id=37930927) - [Amazon reaches 10000 Rivian electric delivery vans in U.S.](https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/)
 * [2023-10-18, 16:13:42](https://news.ycombinator.com/item?id=37930821) - [What's New in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
 * [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The Fake Browser Update Scam Gets a Makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
