@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-18, 16:13:42",
+      "https://news.ycombinator.com/item?id=37930821"
+    ],
+    [
+      "What's New in Python 3.12",
+      "https://docs.python.org/3/whatsnew/3.12.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 16:02:41",
+      "https://news.ycombinator.com/item?id=37930634"
+    ],
+    [
+      "The Fake Browser Update Scam Gets a Makeover",
+      "https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 15:50:30",
       "https://news.ycombinator.com/item?id=37930441"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37929711"
     ],
     [
-      "Microfront ends should be your last resort",
+      "Microfrontends should be your last resort",
       "https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/"
     ]
   ],
@@ -277,26 +297,6 @@
     [
       "Psytrance Guide",
       "https://psytranceguide.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 23:31:05",
-      "https://news.ycombinator.com/item?id=37922948"
-    ],
-    [
-      "Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem",
-      "https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 18:18:56",
-      "https://news.ycombinator.com/item?id=37903899"
-    ],
-    [
-      "Levity and gravity",
-      "https://www.nature.com/articles/s41567-023-02264-4"
     ]
   ]
 ]
