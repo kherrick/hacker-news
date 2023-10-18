@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
+* [2023-10-18, 15:33:09](https://news.ycombinator.com/item?id=37930148) - [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
 * [2023-10-18, 15:19:35](https://news.ycombinator.com/item?id=37929921) - [Gnome Foundation Hires \"Professional Shaman\" as New Executive Director](https://lunduke.locals.com/post/4740497/gnome-foundation-hires-professional-shaman-as-new-executive-director)
 * [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfront ends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 * [2023-10-18, 14:51:49](https://news.ycombinator.com/item?id=37929535) - [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
