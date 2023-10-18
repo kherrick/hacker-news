@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 21:58:29](https://news.ycombinator.com/item?id=37935333) - [Every member of Bandcamp United Union bargaining team was laid off – Hypebot](https://www.hypebot.com/hypebot/2023/10/every-member-of-bandcamp-united-union-bargaining-team-was-laid-off.html)
+* [2023-10-18, 21:49:14](https://news.ycombinator.com/item?id=37935232) - [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
 * [2023-10-18, 21:31:00](https://news.ycombinator.com/item?id=37935053) - [How to Scale Nuclear Power](https://a16z.com/how-to-scale-nuclear-power/)
 * [2023-10-18, 21:07:27](https://news.ycombinator.com/item?id=37934781) - [Yanis Varoufakis: 'Capitalism is dead. The new order is a techno-feudal economy'](https://english.elpais.com/economy-and-business/2023-10-11/yanis-varoufakis-capitalism-is-dead-the-new-order-is-a-techno-feudal-economy.html)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)

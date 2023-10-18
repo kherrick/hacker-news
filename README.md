@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 21:58:29](https://news.ycombinator.com/item?id=37935333) - [Every member of Bandcamp United Union bargaining team was laid off – Hypebot](https://www.hypebot.com/hypebot/2023/10/every-member-of-bandcamp-united-union-bargaining-team-was-laid-off.html)
+* [2023-10-18, 21:49:14](https://news.ycombinator.com/item?id=37935232) - [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
 * [2023-10-18, 21:31:00](https://news.ycombinator.com/item?id=37935053) - [How to Scale Nuclear Power](https://a16z.com/how-to-scale-nuclear-power/)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 * [2023-10-18, 21:00:19](https://news.ycombinator.com/item?id=37934688) - [Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
-* [2023-10-18, 20:52:13](https://news.ycombinator.com/item?id=37934598) - [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
 * [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using Cloud Dev Environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
 * [2023-10-18, 20:36:19](https://news.ycombinator.com/item?id=37934439) - [gRPC request context which caries values across microservice boundaries](https://github.com/konigsoftware/konig-kontext)
 * [2023-10-18, 20:02:47](https://news.ycombinator.com/item?id=37934034) - [The Awk Programming Language, Second Edition](https://www.awk.dev/)
@@ -27,7 +28,6 @@
 * [2023-10-18, 06:51:06](https://news.ycombinator.com/item?id=37925538) - [The Ur-Quan Masters: Open-source remake of Star Control II](http://theurquanmasters.com/)
 * [2023-10-18, 06:25:59](https://news.ycombinator.com/item?id=37925411) - [Marked by Stars – Agrippa's Occult Philosophy](https://publicdomainreview.org/essay/agrippa-occult-philosophy)
 * [2023-10-17, 23:04:51](https://news.ycombinator.com/item?id=37922748) - [Winsorized mean](https://en.wikipedia.org/wiki/Winsorized_mean)
-* [2023-10-17, 17:17:37](https://news.ycombinator.com/item?id=37918308) - [Ask HN: Why is there no modern successor to the 3D Pinball games of yesteryear?](https://news.ycombinator.com/item?id=37918308)
 * [2023-10-17, 08:42:20](https://news.ycombinator.com/item?id=37912168) - [Bill Gates demonstrates Visual Basic (1991) [video]](https://www.youtube.com/watch?v=Fh_UDQnboRw)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write More \"Useless\" Software](https://ntietz.com/blog/write-more-useless-software/)
 
