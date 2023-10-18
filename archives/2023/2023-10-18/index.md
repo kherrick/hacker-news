@@ -6,10 +6,13 @@
 
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) Is Hiring Engineerings o make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
+* [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Ready Player Two – What the Multiplayer Web Can Learn from Video Games](https://rocicorp.dev/blog/ready-player-two)
+* [2023-10-18, 16:45:57](https://news.ycombinator.com/item?id=37931287) - [Bank of America's unrealized losses on securities rose to $131.6B](https://www.reuters.com/business/finance/bank-americas-unrealized-losses-securities-rose-1316-bln-2023-10-17/)
 * [2023-10-18, 16:21:06](https://news.ycombinator.com/item?id=37930927) - [Amazon reaches 10000 Rivian electric delivery vans in U.S.](https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/)
 * [2023-10-18, 16:13:42](https://news.ycombinator.com/item?id=37930821) - [What's New in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
 * [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The Fake Browser Update Scam Gets a Makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
+* [2023-10-18, 15:46:14](https://news.ycombinator.com/item?id=37930364) - [Japanese tea commercial actress created by AI, is it the scandal-free future](https://soranews24.com/2023/10/17/japanese-tea-commercial-actress-created-by-ai-has-some-wondering-if-its-the-scandal-free-future/)
 * [2023-10-18, 15:43:57](https://news.ycombinator.com/item?id=37930334) - [Nvidia's banking on TensorRT to expand its generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
 * [2023-10-18, 15:40:06](https://news.ycombinator.com/item?id=37930266) - [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
 * [2023-10-18, 15:33:09](https://news.ycombinator.com/item?id=37930148) - [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
