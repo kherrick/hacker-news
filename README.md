@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 19:37:57](https://news.ycombinator.com/item?id=37933684) - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 * [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent (2020)](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 18:33:42](https://news.ycombinator.com/item?id=37932754) - [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
@@ -9,7 +10,6 @@
 * [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Reflect – Multiplayer web app framework with game-style synchronization](https://rocicorp.dev/blog/ready-player-two)
 * [2023-10-18, 16:46:44](https://news.ycombinator.com/item?id=37931294) - [Fuyu-8B: A multimodal architecture for AI agents](https://www.adept.ai/blog/fuyu-8b)
 * [2023-10-18, 16:45:57](https://news.ycombinator.com/item?id=37931287) - [Bank of America's unrealized losses on securities rose to $131.6B](https://www.reuters.com/business/finance/bank-americas-unrealized-losses-securities-rose-1316-bln-2023-10-17/)
-* [2023-10-18, 16:21:06](https://news.ycombinator.com/item?id=37930927) - [Amazon reaches 10k Rivian electric delivery vans in US](https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/)
 * [2023-10-18, 16:13:42](https://news.ycombinator.com/item?id=37930821) - [What's New in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
 * [2023-10-18, 16:04:18](https://news.ycombinator.com/item?id=37930663) - [Standardizing next-generation narrow precision data formats for AI](https://www.opencompute.org/blog/amd-arm-intel-meta-microsoft-nvidia-and-qualcomm-standardize-next-generation-narrow-precision-data-formats-for-ai)
 * [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The fake browser update scam gets a makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
