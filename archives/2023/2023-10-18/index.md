@@ -11,6 +11,7 @@
 * [2023-10-18, 15:40:06](https://news.ycombinator.com/item?id=37930266) - [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
 * [2023-10-18, 15:33:09](https://news.ycombinator.com/item?id=37930148) - [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
 * [2023-10-18, 15:19:35](https://news.ycombinator.com/item?id=37929921) - [Gnome Foundation Hires \"Professional Shaman\" as New Executive Director](https://lunduke.locals.com/post/4740497/gnome-foundation-hires-professional-shaman-as-new-executive-director)
+* [2023-10-18, 15:18:55](https://news.ycombinator.com/item?id=37929904) - [Yamaha TX81Z Homepage](https://mgregory22.me/tx81z/index.html)
 * [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfront ends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 * [2023-10-18, 14:51:49](https://news.ycombinator.com/item?id=37929535) - [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
 * [2023-10-18, 14:48:55](https://news.ycombinator.com/item?id=37929503) - [Ask HN: What outdated tech are you still using and are perfectly happy with?](https://news.ycombinator.com/item?id=37929503)

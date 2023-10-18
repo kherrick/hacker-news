@@ -6,6 +6,7 @@
 * [2023-10-18, 15:43:57](https://news.ycombinator.com/item?id=37930334) - [Nvidia's banking on TensorRT to expand its generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
 * [2023-10-18, 15:40:06](https://news.ycombinator.com/item?id=37930266) - [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
 * [2023-10-18, 15:33:09](https://news.ycombinator.com/item?id=37930148) - [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
+* [2023-10-18, 15:18:55](https://news.ycombinator.com/item?id=37929904) - [Yamaha TX81Z Homepage](https://mgregory22.me/tx81z/index.html)
 * [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfrontends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 * [2023-10-18, 14:51:49](https://news.ycombinator.com/item?id=37929535) - [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
 * [2023-10-18, 14:46:48](https://news.ycombinator.com/item?id=37929467) - [Fed to Propose Lowering Debit-Card Swipe Fees](https://www.wsj.com/finance/regulation/fed-to-propose-lowering-debit-card-swipe-fees-d80c3dd3)
@@ -14,7 +15,6 @@
 * [2023-10-18, 14:22:36](https://news.ycombinator.com/item?id=37929110) - [Titanium oxide material can remove toxic dyes from wastewater](https://phys.org/news/2023-10-titanium-oxide-material-toxic-dyes.html)
 * [2023-10-18, 14:17:12](https://news.ycombinator.com/item?id=37929028) - [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
 * [2023-10-18, 14:16:43](https://news.ycombinator.com/item?id=37929017) - [Binance US No Longer Allows USD Withdrawal for Users](https://thenewscrypto.com/binance-us-no-longer-allows-usd-withdrawal-for-users/)
-* [2023-10-18, 13:28:26](https://news.ycombinator.com/item?id=37928352) - [Ask HN: Can you suggest advanced books on integral calculation techniques?](https://news.ycombinator.com/item?id=37928352)
 * [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
 * [2023-10-18, 12:55:35](https://news.ycombinator.com/item?id=37927918) - [The most insane \"robocall mitigation plans\" that telcos filed with the FCC](https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/)
 * [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [How would we know whether there is life on Earth? This bold experiment found out](https://www.nature.com/articles/d41586-023-03230-z)
@@ -29,7 +29,7 @@
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
-* [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
+* [2023-10-17, 23:04:51](https://news.ycombinator.com/item?id=37922748) - [Winsorized Mean](https://en.wikipedia.org/wiki/Winsorized_mean)
 
 ## [Archives](archives/index.md)
 
