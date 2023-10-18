@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
+* [2023-10-18, 12:55:35](https://news.ycombinator.com/item?id=37927918) - [The most insane \"robocall mitigation plans\" that telcos filed with the FCC](https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/)
 * [2023-10-18, 12:50:54](https://news.ycombinator.com/item?id=37927866) - [Low serotonin levels might explain some Long Covid symptoms, study proposes](https://www.science.org/content/article/low-serotonin-levels-might-explain-some-long-covid-symptoms-study-proposes)
 * [2023-10-18, 12:29:59](https://news.ycombinator.com/item?id=37927665) - [I Just Sold My 500th Book. If I Was Allowed to Advertise It I'd Be Rich](https://jjpryor.substack.com/p/i-just-sold-my-500th-book-if-i-was)
 * [2023-10-18, 12:24:09](https://news.ycombinator.com/item?id=37927613) - [X begins charging new users $1 a year in New Zealand, Philippines](https://www.bbc.co.uk/news/business-67141993)
@@ -35,6 +37,7 @@
 * [2023-10-18, 04:12:35](https://news.ycombinator.com/item?id=37924776) - [Grayjay – Follow Creators Not Platforms](https://grayjay.app/)
 * [2023-10-18, 04:08:47](https://news.ycombinator.com/item?id=37924757) - [X traffic and monthly active users are in decline, report claims](https://echonewshub.com/one-year-post-acquisition-x-traffic-and-monthly-active-users-are-in-decline-report-claims/)
 * [2023-10-18, 03:56:19](https://news.ycombinator.com/item?id=37924705) - [CIA's Telegram Hijacked](https://www.bbc.com/news/technology-67137773)
+* [2023-10-18, 03:45:57](https://news.ycombinator.com/item?id=37924644) - [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 * [2023-10-18, 03:38:10](https://news.ycombinator.com/item?id=37924589) - [Localization Failure: Temperature Is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 * [2023-10-18, 02:51:09](https://news.ycombinator.com/item?id=37924363) - [LLMs up to 4x Faster With Latest NVIDIA Drivers on Windows](https://blogs.nvidia.com/blog/2023/10/17/tensorrt-llm-windows-stable-diffusion-rtx/)
 * [2023-10-18, 02:32:12](https://news.ycombinator.com/item?id=37924253) - [Microsoft in talks to sign on Amazon as customer in $1B cloud tools deal](https://www.reuters.com/markets/deals/microsoft-sign-amazon-customer-1-bln-cloud-tools-deal-insider-2023-10-17/)
