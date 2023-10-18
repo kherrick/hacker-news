@@ -6,6 +6,7 @@
 
 * [2023-10-18, 22:47:43](https://news.ycombinator.com/item?id=37935836) - [YouTube de-monetize journalist Richard Medhurst for reporting on Palestine](https://www.youtube.com/watch?v=d8RpHjnDp8o)
 * [2023-10-18, 22:46:08](https://news.ycombinator.com/item?id=37935817) - [Ask HN: Where to Host a FastAPI App](https://news.ycombinator.com/item?id=37935817)
+* [2023-10-18, 22:46:06](https://news.ycombinator.com/item?id=37935816) - [iPhone sales drop 4.5% in China](https://substack.com/@rakkhi/note/c-42098087)
 * [2023-10-18, 22:36:41](https://news.ycombinator.com/item?id=37935721) - [CT scanned: What's inside Apple's $129 Thunderbolt cable?](https://twitter.com/JonBruner/status/1714696044356005949)
 * [2023-10-18, 22:18:22](https://news.ycombinator.com/item?id=37935550) - [Richard Feynman explains neutron stars](https://twitter.com/1517fund/status/1714766669149532351)
 * [2023-10-18, 22:14:42](https://news.ycombinator.com/item?id=37935496) - [Bank of America warned consumers they would be pushed to the 'point of pain'](https://finance.yahoo.com/news/bank-america-warned-consumers-pushed-105605526.html)
