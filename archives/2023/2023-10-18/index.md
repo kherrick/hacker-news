@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 21:07:27](https://news.ycombinator.com/item?id=37934781) - [Yanis Varoufakis: 'Capitalism is dead. The new order is a techno-feudal economy'](https://english.elpais.com/economy-and-business/2023-10-11/yanis-varoufakis-capitalism-is-dead-the-new-order-is-a-techno-feudal-economy.html)
+* [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 * [2023-10-18, 21:00:19](https://news.ycombinator.com/item?id=37934688) - [Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
 * [2023-10-18, 20:52:13](https://news.ycombinator.com/item?id=37934598) - [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
 * [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using Cloud Dev Environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)

@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 21:07:27](https://news.ycombinator.com/item?id=37934781) - [Yanis Varoufakis: 'Capitalism is dead. The new order is a techno-feudal economy'](https://english.elpais.com/economy-and-business/2023-10-11/yanis-varoufakis-capitalism-is-dead-the-new-order-is-a-techno-feudal-economy.html)
+* [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 * [2023-10-18, 21:00:19](https://news.ycombinator.com/item?id=37934688) - [Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
-* [2023-10-18, 20:52:13](https://news.ycombinator.com/item?id=37934598) - [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
 * [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using Cloud Dev Environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
+* [2023-10-18, 19:37:57](https://news.ycombinator.com/item?id=37933684) - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 18:33:42](https://news.ycombinator.com/item?id=37932754) - [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
 * [2023-10-18, 18:00:38](https://news.ycombinator.com/item?id=37932325) - [Windows Longhorn and the Worst Code I've Ever Seen: Dave Cutler [video]](https://www.youtube.com/watch?v=vxmZPMg7vIs)
@@ -17,8 +19,6 @@
 * [2023-10-18, 15:18:55](https://news.ycombinator.com/item?id=37929904) - [Yamaha TX81Z Homepage](https://mgregory22.me/tx81z/index.html)
 * [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfrontends should be a last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 * [2023-10-18, 14:38:23](https://news.ycombinator.com/item?id=37929338) - [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
-* [2023-10-18, 14:37:01](https://news.ycombinator.com/item?id=37929311) - [The Oracle Java Platform Extension for Visual Studio Code](https://inside.java/2023/10/18/announcing-vscode-extension/)
-* [2023-10-18, 12:43:37](https://news.ycombinator.com/item?id=37927792) - [Ask HN: Good practices for my first C project?](https://news.ycombinator.com/item?id=37927792)
 * [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [A 1990 experiment to test whether we could discern life on Earth remotely](https://www.nature.com/articles/d41586-023-03230-z)
 * [2023-10-18, 11:48:56](https://news.ycombinator.com/item?id=37927344) - [What is the Demoscene? An interview](https://onthearts.com/p/what-is-the-demoscene)
 * [2023-10-18, 10:28:11](https://news.ycombinator.com/item?id=37926849) - [Commercially available chairs in Star Trek](https://www.ex-astris-scientia.org/database/chairs-trek.htm)
@@ -26,10 +26,10 @@
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 06:51:06](https://news.ycombinator.com/item?id=37925538) - [The Ur-Quan Masters: Open-source remake of Star Control II](http://theurquanmasters.com/)
 * [2023-10-18, 06:25:59](https://news.ycombinator.com/item?id=37925411) - [Marked by Stars – Agrippa's Occult Philosophy](https://publicdomainreview.org/essay/agrippa-occult-philosophy)
-* [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-17, 23:04:51](https://news.ycombinator.com/item?id=37922748) - [Winsorized mean](https://en.wikipedia.org/wiki/Winsorized_mean)
 * [2023-10-17, 17:17:37](https://news.ycombinator.com/item?id=37918308) - [Ask HN: Why is there no modern successor to the 3D Pinball games of yesteryear?](https://news.ycombinator.com/item?id=37918308)
 * [2023-10-17, 08:42:20](https://news.ycombinator.com/item?id=37912168) - [Bill Gates demonstrates Visual Basic (1991) [video]](https://www.youtube.com/watch?v=Fh_UDQnboRw)
+* [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write More \"Useless\" Software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)
 
