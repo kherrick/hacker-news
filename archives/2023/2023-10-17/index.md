@@ -75,6 +75,7 @@
 * [2023-10-17, 12:30:02](https://news.ycombinator.com/item?id=37913936) - [Wikipedia's Intentional Distortion of the History of the Holocaust](https://digitalcommons.chapman.edu/history_articles/74/)
 * [2023-10-17, 12:24:25](https://news.ycombinator.com/item?id=37913882) - [A False HackerOne Report Based on Bard's Hallucination](https://hackerone.com/reports/2199174)
 * [2023-10-17, 12:14:38](https://news.ycombinator.com/item?id=37913784) - [Home Insurance Is So High in This Florida Town, Residents Are Leaving](https://www.wsj.com/real-estate/home-insurance-is-so-high-in-this-florida-town-residents-are-leaving-bb00c96f)
+* [2023-10-17, 12:08:23](https://news.ycombinator.com/item?id=37913709) - [How to Exclaim!](https://themillions.com/2023/10/how-to-exclaim.html)
 * [2023-10-17, 12:03:58](https://news.ycombinator.com/item?id=37913659) - [Working in Silicon Valley was fun. Now it's just another miserable corporate gig](https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10)
 * [2023-10-17, 12:02:01](https://news.ycombinator.com/item?id=37913642) - [Show HN: Hacker News API SDKs → Code Generation in Rust](https://hacker-news.sideko.dev/hacker-news/docs)
 * [2023-10-17, 12:00:30](https://news.ycombinator.com/item?id=37913625) - [Lago (Open-Source Alternative to Stripe Billing) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/lago/jobs/H5LnVlE-chief-of-staff-to-ceo)
