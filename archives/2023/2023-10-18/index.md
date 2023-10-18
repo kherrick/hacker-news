@@ -10,6 +10,7 @@
 * [2023-10-18, 20:52:13](https://news.ycombinator.com/item?id=37934598) - [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
 * [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using Cloud Dev Environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
 * [2023-10-18, 20:36:19](https://news.ycombinator.com/item?id=37934439) - [gRPC request context which caries values across microservice boundaries](https://github.com/konigsoftware/konig-kontext)
+* [2023-10-18, 20:02:47](https://news.ycombinator.com/item?id=37934034) - [The Awk Programming Language, Second Edition](https://www.awk.dev/)
 * [2023-10-18, 19:37:57](https://news.ycombinator.com/item?id=37933684) - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 * [2023-10-18, 19:33:46](https://news.ycombinator.com/item?id=37933633) - [You're not lacking creativity, you're overwhelmed](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)
 * [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
