@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
+* [2023-10-18, 18:36:27](https://news.ycombinator.com/item?id=37932800) - [What is the difference between include <filename> and include \"filename\"?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
 * [2023-10-18, 18:16:36](https://news.ycombinator.com/item?id=37932539) - [Inside the booming AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
 * [2023-10-18, 18:09:17](https://news.ycombinator.com/item?id=37932449) - [Turbopuffer: $1/month per million vectors](https://turbopuffer.com/)
 * [2023-10-18, 17:22:52](https://news.ycombinator.com/item?id=37931804) - [Ask HN: What's the most beautiful web game you've seen?](https://news.ycombinator.com/item?id=37931804)
@@ -43,6 +45,7 @@
 * [2023-10-18, 12:55:35](https://news.ycombinator.com/item?id=37927918) - [The most insane \"robocall mitigation plans\" that telcos filed with the FCC](https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/)
 * [2023-10-18, 12:53:08](https://news.ycombinator.com/item?id=37927889) - [Why Apollo 11 astronauts signed tons of autographs – then stowed them away](https://bigthink.com/the-past/apollo-11-plan-b/)
 * [2023-10-18, 12:50:54](https://news.ycombinator.com/item?id=37927866) - [Low serotonin levels might explain some Long Covid symptoms, study proposes](https://www.science.org/content/article/low-serotonin-levels-might-explain-some-long-covid-symptoms-study-proposes)
+* [2023-10-18, 12:43:37](https://news.ycombinator.com/item?id=37927792) - [Ask HN: Good practices for my first C project?](https://news.ycombinator.com/item?id=37927792)
 * [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [How would we know whether there is life on Earth? This bold experiment found out](https://www.nature.com/articles/d41586-023-03230-z)
 * [2023-10-18, 12:29:59](https://news.ycombinator.com/item?id=37927665) - [I Just Sold My 500th Book. If I Was Allowed to Advertise It I'd Be Rich](https://jjpryor.substack.com/p/i-just-sold-my-500th-book-if-i-was)
 * [2023-10-18, 12:24:09](https://news.ycombinator.com/item?id=37927613) - [X begins charging new users $1 a year in New Zealand, Philippines](https://www.bbc.co.uk/news/business-67141993)
