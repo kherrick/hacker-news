@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
 * [2023-10-17, 23:34:53](https://news.ycombinator.com/item?id=37922973) - [X/Twitter will begin charging new users $1 a year to access key features](https://fortune.com/2023/10/17/twitter-x-charging-new-users-1-dollar-year-to-tweet/)
+* [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
 * [2023-10-17, 22:49:51](https://news.ycombinator.com/item?id=37922616) - [NYC Mayor Eric Adams Condemning AI Critics [video]](https://www.youtube.com/watch?v=vFVZA1qcXfY)
 * [2023-10-17, 22:33:18](https://news.ycombinator.com/item?id=37922494) - [Adult Attention-Deficit/Hyperactivity Disorder and the Risk of Dementia](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810766)
 * [2023-10-17, 22:08:33](https://news.ycombinator.com/item?id=37922272) - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
+* [2023-10-17, 21:58:45](https://news.ycombinator.com/item?id=37922181) - [Universal cancer vaccine trial shows significant improvement in overall survival](https://ultimovacs.com/investors/news/ultimovacs-announces-nipu-results-presented-at-esmo-2023-significant-and-clinically-meaningful-improvement-in-overall-survival-for-patients-receiving-uv1-cancer-vaccine-in-phase-ii-nipu-trial-in-mali)
 * [2023-10-17, 21:50:27](https://news.ycombinator.com/item?id=37922085) - [Detroit: magic wand makes dirty air look clean and lets polluters off the hook](https://www.theguardian.com/us-news/2023/oct/17/us-local-governments-oil-gas-lobbyists-use-millions-dollars-hiding-wildfire-climate-change-pollution)
 * [2023-10-17, 21:40:22](https://news.ycombinator.com/item?id=37921978) - [Show HN: Found a clean link today for Harmy's Despecialized edition.](https://peertube-a5egg-u8148.vm.elestio.app/videos/watch/14a4104d-8fc4-431a-ad67-8b286c25df15)
 * [2023-10-17, 21:27:43](https://news.ycombinator.com/item?id=37921832) - [\"A Young Lady's Illustrated Primer\" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)

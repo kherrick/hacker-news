@@ -34,6 +34,7 @@
 * [2023-10-15, 18:41:29](https://news.ycombinator.com/item?id=37892206) - [NASA's Psyche Spacecraft, Optical Comms Demo En Route to Asteroid](https://www.nasa.gov/news-release/nasas-psyche-spacecraft-optical-comms-demo-en-route-to-asteroid/)
 * [2023-10-15, 18:36:18](https://news.ycombinator.com/item?id=37892160) - [My Google Play Developer account has been terminated](https://medium.com/@raffaelet/my-seven-years-old-google-play-developer-account-has-been-terminated-ed321754cd51)
 * [2023-10-15, 18:34:51](https://news.ycombinator.com/item?id=37892148) - [Windows 12 May Require a Subscription](https://uk.pcmag.com/migrated-3765-windows-10/149004/windows-12-may-require-a-subscription)
+* [2023-10-15, 18:32:31](https://news.ycombinator.com/item?id=37892125) - [The Librarian of Congress Weighs in on Why Card Catalogs Matter (2017)](https://www.smithsonianmag.com/arts-culture/librarian-congress-weighs-why-card-catalogs-matter-180963371/)
 * [2023-10-15, 18:22:12](https://news.ycombinator.com/item?id=37892061) - [Show HN: Pg_yregress, Structured Testing for Postgres](https://github.com/omnigres/omnigres/tree/master/pg_yregress)
 * [2023-10-15, 18:18:44](https://news.ycombinator.com/item?id=37892028) - [SSH-audit: SSH server and client security auditing](https://github.com/jtesta/ssh-audit)
 * [2023-10-15, 18:17:28](https://news.ycombinator.com/item?id=37892017) - [Designing Compilers for Speed with Troels Henriksen from Software Unscripted](https://podbay.fm/p/software-unscripted/e/1697165940)
