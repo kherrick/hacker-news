@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
 * [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
+* [2023-10-18, 13:13:10](https://news.ycombinator.com/item?id=37928151) - [YouTube wants to get you watching more news from 'authoritative sources'](https://www.theverge.com/2023/10/18/23922070/youtube-news-immersive-watch-page-experience-shortform)
 * [2023-10-18, 12:55:35](https://news.ycombinator.com/item?id=37927918) - [The most insane \"robocall mitigation plans\" that telcos filed with the FCC](https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/)
+* [2023-10-18, 12:53:08](https://news.ycombinator.com/item?id=37927889) - [Why Apollo 11 astronauts signed tons of autographs – then stowed them away](https://bigthink.com/the-past/apollo-11-plan-b/)
 * [2023-10-18, 12:50:54](https://news.ycombinator.com/item?id=37927866) - [Low serotonin levels might explain some Long Covid symptoms, study proposes](https://www.science.org/content/article/low-serotonin-levels-might-explain-some-long-covid-symptoms-study-proposes)
+* [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [How would we know whether there is life on Earth? This bold experiment found out](https://www.nature.com/articles/d41586-023-03230-z)
 * [2023-10-18, 12:29:59](https://news.ycombinator.com/item?id=37927665) - [I Just Sold My 500th Book. If I Was Allowed to Advertise It I'd Be Rich](https://jjpryor.substack.com/p/i-just-sold-my-500th-book-if-i-was)
 * [2023-10-18, 12:24:09](https://news.ycombinator.com/item?id=37927613) - [X begins charging new users $1 a year in New Zealand, Philippines](https://www.bbc.co.uk/news/business-67141993)
 * [2023-10-18, 12:06:06](https://news.ycombinator.com/item?id=37927480) - [Why is text of sumissions in low-contrast grey on HN?](https://news.ycombinator.com/item?id=37927480)
