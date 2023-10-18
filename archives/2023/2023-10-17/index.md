@@ -6,6 +6,7 @@
 
 * [2023-10-17, 23:34:53](https://news.ycombinator.com/item?id=37922973) - [X/Twitter will begin charging new users $1 a year to access key features](https://fortune.com/2023/10/17/twitter-x-charging-new-users-1-dollar-year-to-tweet/)
 * [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
+* [2023-10-17, 23:12:57](https://news.ycombinator.com/item?id=37922808) - [VirtualBox 7.0.12](https://www.virtualbox.org/wiki/Changelog-7.0#v12)
 * [2023-10-17, 22:49:51](https://news.ycombinator.com/item?id=37922616) - [NYC Mayor Eric Adams Condemning AI Critics [video]](https://www.youtube.com/watch?v=vFVZA1qcXfY)
 * [2023-10-17, 22:33:18](https://news.ycombinator.com/item?id=37922494) - [Adult Attention-Deficit/Hyperactivity Disorder and the Risk of Dementia](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2810766)
 * [2023-10-17, 22:08:33](https://news.ycombinator.com/item?id=37922272) - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
