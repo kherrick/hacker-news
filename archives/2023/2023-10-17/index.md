@@ -89,6 +89,7 @@
 * [2023-10-17, 09:51:26](https://news.ycombinator.com/item?id=37912643) - [Five Design Principles for Building a Data Pipeline Engine](https://docs.tenzir.com/blog/five-design-principles-for-building-a-data-pipeline-engine)
 * [2023-10-17, 09:19:53](https://news.ycombinator.com/item?id=37912421) - [Ask HN: When LLMs make stuff up, call it 'confabulating', not 'hallucinating'](https://news.ycombinator.com/item?id=37912421)
 * [2023-10-17, 08:47:12](https://news.ycombinator.com/item?id=37912203) - [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
+* [2023-10-17, 08:42:20](https://news.ycombinator.com/item?id=37912168) - [Bill Gates demonstrates Visual Basic (1991) [video]](https://www.youtube.com/watch?v=Fh_UDQnboRw)
 * [2023-10-17, 08:19:28](https://news.ycombinator.com/item?id=37911989) - [Piped – An alternative privacy-friendly YouTube front end](https://github.com/TeamPiped/Piped)
 * [2023-10-17, 07:57:01](https://news.ycombinator.com/item?id=37911857) - [Wales' 20mph speed limit: How has the first month gone?](https://www.bbc.co.uk/news/uk-wales-67064306)
 * [2023-10-17, 07:37:11](https://news.ycombinator.com/item?id=37911740) - [Switching to WordPress felt like a visit to the Ferengi homeworld](https://www.lasselaursen.com/post/switching-to-wordpress-felt-like-a-visit-to-the-ferengi-homeworld/)
