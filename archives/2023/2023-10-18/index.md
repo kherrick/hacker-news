@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 09:06:27](https://news.ycombinator.com/item?id=37926372) - [Don't Work with a**Holes](https://www.danielrsim.com/dont-work-with-a-holes/)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: The Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 07:12:20](https://news.ycombinator.com/item?id=37925678) - [Tell HN: Wise froze $40k+ in funds for 10 days and counting](https://news.ycombinator.com/item?id=37925678)
