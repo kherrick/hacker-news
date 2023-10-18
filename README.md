@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 16:13:42](https://news.ycombinator.com/item?id=37930821) - [What's New in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
+* [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The Fake Browser Update Scam Gets a Makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
 * [2023-10-18, 15:43:57](https://news.ycombinator.com/item?id=37930334) - [Nvidia's banking on TensorRT to expand its generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
 * [2023-10-18, 15:40:06](https://news.ycombinator.com/item?id=37930266) - [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
 * [2023-10-18, 15:33:09](https://news.ycombinator.com/item?id=37930148) - [PyTorch Edge](https://pytorch.org/blog/pytorch-edge/)
-* [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfront ends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
+* [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfrontends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 * [2023-10-18, 14:51:49](https://news.ycombinator.com/item?id=37929535) - [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
 * [2023-10-18, 14:46:48](https://news.ycombinator.com/item?id=37929467) - [Fed to Propose Lowering Debit-Card Swipe Fees](https://www.wsj.com/finance/regulation/fed-to-propose-lowering-debit-card-swipe-fees-d80c3dd3)
 * [2023-10-18, 14:38:23](https://news.ycombinator.com/item?id=37929338) - [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
@@ -28,8 +30,6 @@
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
-* [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
-* [2023-10-16, 18:18:56](https://news.ycombinator.com/item?id=37903899) - [Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)
 
 ## [Archives](archives/index.md)
 

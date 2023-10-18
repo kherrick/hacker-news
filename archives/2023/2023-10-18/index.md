@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 16:13:42](https://news.ycombinator.com/item?id=37930821) - [What's New in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
+* [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The Fake Browser Update Scam Gets a Makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
 * [2023-10-18, 15:43:57](https://news.ycombinator.com/item?id=37930334) - [Nvidia's banking on TensorRT to expand its generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
 * [2023-10-18, 15:40:06](https://news.ycombinator.com/item?id=37930266) - [New pill helps Covid smell and taste loss fade quickly](https://www.nature.com/articles/d41586-023-03244-7)
