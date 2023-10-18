@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 21:00:19](https://news.ycombinator.com/item?id=37934688) - [Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
+* [2023-10-18, 20:52:13](https://news.ycombinator.com/item?id=37934598) - [Tesla announces Cybertruck deliveries in November, with 125k production capacity](https://electrek.co/2023/10/18/tesla-cybertruck-deliveries-november-production-capacity/)
+* [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using Cloud Dev Environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
 * [2023-10-18, 19:37:57](https://news.ycombinator.com/item?id=37933684) - [Synsepalum Dulcificum (Miracle Berry)](https://en.wikipedia.org/wiki/Synsepalum_dulcificum)
 * [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
 * [2023-10-18, 19:12:39](https://news.ycombinator.com/item?id=37933327) - [X plans to use payment, phone and ID verification to stop bots, $1/yr fee](https://techcrunch.com/2023/10/18/x-plans-to-use-payment-phone-and-id-verification-to-stop-bots-in-addition-to-the-new-1-yr-fee/)
