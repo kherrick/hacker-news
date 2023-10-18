@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 14:51:49](https://news.ycombinator.com/item?id=37929535) - [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
 * [2023-10-18, 14:38:23](https://news.ycombinator.com/item?id=37929338) - [USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
+* [2023-10-18, 14:22:36](https://news.ycombinator.com/item?id=37929110) - [Titanium oxide material can remove toxic dyes from wastewater](https://phys.org/news/2023-10-titanium-oxide-material-toxic-dyes.html)
 * [2023-10-18, 14:17:12](https://news.ycombinator.com/item?id=37929028) - [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
 * [2023-10-18, 14:11:40](https://news.ycombinator.com/item?id=37928956) - [OpenAI just replaced its core values with completely different ones](https://futurism.com/the-byte/openai-core-values-agi)
-* [2023-10-18, 13:49:18](https://news.ycombinator.com/item?id=37928630) - [I Am Happy Not to Be a Web Developer Anymore](https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/)
+* [2023-10-18, 13:28:26](https://news.ycombinator.com/item?id=37928352) - [Ask HN: Can you suggest advanced books on integral calculation techniques?](https://news.ycombinator.com/item?id=37928352)
 * [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
 * [2023-10-18, 12:55:35](https://news.ycombinator.com/item?id=37927918) - [The most insane \"robocall mitigation plans\" that telcos filed with the FCC](https://arstechnica.com/tech-policy/2023/10/telcos-filed-blank-robocall-plans-with-fcc-and-got-away-with-it-for-2-years/)
 * [2023-10-18, 12:53:08](https://news.ycombinator.com/item?id=37927889) - [Why Apollo 11 astronauts signed tons of autographs – then stowed them away](https://bigthink.com/the-past/apollo-11-plan-b/)
@@ -22,14 +24,12 @@
 * [2023-10-18, 10:00:34](https://news.ycombinator.com/item?id=37926698) - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
-* [2023-10-18, 03:45:57](https://news.ycombinator.com/item?id=37924644) - [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
 * [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-16, 18:18:56](https://news.ycombinator.com/item?id=37903899) - [Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)
 * [2023-10-16, 17:48:38](https://news.ycombinator.com/item?id=37903509) - [Reconfigurable transistors for more efficient AI on-device classification](https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/)
-* [2023-10-15, 17:03:57](https://news.ycombinator.com/item?id=37891445) - [MfsBSD: ISO file that create a working minimal installation of FreeBSD](https://github.com/mmatuska/mfsbsd)
 
 ## [Archives](archives/index.md)
 
