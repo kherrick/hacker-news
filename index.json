@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-10-18, 14:51:49",
+      "https://news.ycombinator.com/item?id=37929535"
+    ],
+    [
+      "Even the FBI says you need to patch this Atlassian Confluence bug",
+      "https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 14:38:23",
       "https://news.ycombinator.com/item?id=37929338"
     ],
     [
       "USB-C teardown with CT scans: Thunderbolt and more",
       "https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 14:22:36",
+      "https://news.ycombinator.com/item?id=37929110"
+    ],
+    [
+      "Titanium oxide material can remove toxic dyes from wastewater",
+      "https://phys.org/news/2023-10-titanium-oxide-material-toxic-dyes.html"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2023-10-18, 13:49:18",
-      "https://news.ycombinator.com/item?id=37928630"
+      "2023-10-18, 13:28:26",
+      "https://news.ycombinator.com/item?id=37928352"
     ],
     [
-      "I Am Happy Not to Be a Web Developer Anymore",
-      "https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/"
+      "Ask HN: Can you suggest advanced books on integral calculation techniques?",
+      "https://news.ycombinator.com/item?id=37928352"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-10-18, 03:45:57",
-      "https://news.ycombinator.com/item?id=37924644"
-    ],
-    [
-      "Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen",
-      "https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/"
-    ]
-  ],
-  [
-    [
       "2023-10-18, 01:20:52",
       "https://news.ycombinator.com/item?id=37923801"
     ],
@@ -287,16 +297,6 @@
     [
       "Reconfigurable transistors for more efficient AI on-device classification",
       "https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/"
-    ]
-  ],
-  [
-    [
-      "2023-10-15, 17:03:57",
-      "https://news.ycombinator.com/item?id=37891445"
-    ],
-    [
-      "MfsBSD: ISO file that create a working minimal installation of FreeBSD",
-      "https://github.com/mmatuska/mfsbsd"
     ]
   ]
 ]
