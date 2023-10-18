@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 23:22:10](https://news.ycombinator.com/item?id=37936134) - [Tesla earns $690M less than expected in third quarter](https://www.theguardian.com/technology/2023/oct/18/elon-musk-tesla-third-quarter-earnings-decline-cybertruck)
 * [2023-10-18, 22:47:43](https://news.ycombinator.com/item?id=37935836) - [YouTube de-monetize journalist Richard Medhurst for reporting on Palestine](https://www.youtube.com/watch?v=d8RpHjnDp8o)
 * [2023-10-18, 22:46:08](https://news.ycombinator.com/item?id=37935817) - [Ask HN: Where to Host a FastAPI App](https://news.ycombinator.com/item?id=37935817)
 * [2023-10-18, 22:46:06](https://news.ycombinator.com/item?id=37935816) - [iPhone sales drop 4.5% in China](https://substack.com/@rakkhi/note/c-42098087)
