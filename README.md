@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 07:12:20](https://news.ycombinator.com/item?id=37925678) - [Tell HN: Wise froze $40k+ in funds for 10 days and counting](https://news.ycombinator.com/item?id=37925678)
 * [2023-10-18, 05:57:13](https://news.ycombinator.com/item?id=37925275) - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
@@ -22,7 +23,6 @@
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
-* [2023-10-17, 05:31:53](https://news.ycombinator.com/item?id=37910983) - [*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2023-10-16, 18:18:56](https://news.ycombinator.com/item?id=37903899) - [Levity and gravity](https://www.nature.com/articles/s41567-023-02264-4)
 * [2023-10-16, 17:48:38](https://news.ycombinator.com/item?id=37903509) - [Reconfigurable transistors for more efficient AI on-device classification](https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/)
 * [2023-10-15, 18:41:29](https://news.ycombinator.com/item?id=37892206) - [NASA's Psyche Spacecraft, Optical Comms Demo En Route to Asteroid](https://www.nasa.gov/news-release/nasas-psyche-spacecraft-optical-comms-demo-en-route-to-asteroid/)
