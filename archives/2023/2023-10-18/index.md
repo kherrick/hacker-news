@@ -16,6 +16,7 @@
 * [2023-10-18, 17:22:52](https://news.ycombinator.com/item?id=37931804) - [Ask HN: What's the most beautiful web game you've seen?](https://news.ycombinator.com/item?id=37931804)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) Is Hiring Engineerings o make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [A 'Godfather of AI' Calls for an Organization to Defend Humanity](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
+* [2023-10-18, 16:56:05](https://news.ycombinator.com/item?id=37931424) - [Scientists discover links between Alzheimer's disease and gut microbiota](https://www.kcl.ac.uk/news/links-between-alzheimers-and-gut-microbiota)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
 * [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Ready Player Two – What the Multiplayer Web Can Learn from Video Games](https://rocicorp.dev/blog/ready-player-two)
 * [2023-10-18, 16:46:44](https://news.ycombinator.com/item?id=37931294) - [Fuyu-8B: A multimodal architecture for AI agents](https://www.adept.ai/blog/fuyu-8b)

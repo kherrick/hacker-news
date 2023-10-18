@@ -4,7 +4,7 @@
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 18:33:42](https://news.ycombinator.com/item?id=37932754) - [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) is hiring engineers to make an AI-first image editor](https://playground.com/jobs)
-* [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [Yoshua Bengio: We need a humanity defense organization](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
+* [2023-10-18, 16:56:05](https://news.ycombinator.com/item?id=37931424) - [Scientists discover links between Alzheimer's disease and gut microbiota](https://www.kcl.ac.uk/news/links-between-alzheimers-and-gut-microbiota)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
 * [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Reflect – Multiplayer web app framework with game-style synchronization](https://rocicorp.dev/blog/ready-player-two)
 * [2023-10-18, 16:46:44](https://news.ycombinator.com/item?id=37931294) - [Fuyu-8B: A multimodal architecture for AI agents](https://www.adept.ai/blog/fuyu-8b)
