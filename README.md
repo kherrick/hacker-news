@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 22:47:43](https://news.ycombinator.com/item?id=37935836) - [YouTube de-monetize journalist Richard Medhurst for reporting on Palestine](https://www.youtube.com/watch?v=d8RpHjnDp8o)
+* [2023-10-18, 22:36:41](https://news.ycombinator.com/item?id=37935721) - [CT scanned: What's inside Apple's $129 Thunderbolt cable?](https://twitter.com/JonBruner/status/1714696044356005949)
 * [2023-10-18, 22:18:22](https://news.ycombinator.com/item?id=37935550) - [Richard Feynman explains neutron stars](https://twitter.com/1517fund/status/1714766669149532351)
-* [2023-10-18, 22:14:42](https://news.ycombinator.com/item?id=37935496) - [Bank of America warned consumers they would be pushed to the 'point of pain'](https://finance.yahoo.com/news/bank-america-warned-consumers-pushed-105605526.html)
 * [2023-10-18, 22:10:09](https://news.ycombinator.com/item?id=37935452) - [The game theory of the Republican speakership crisis](https://www.natesilver.net/p/the-game-theory-of-the-republican)
-* [2023-10-18, 21:58:29](https://news.ycombinator.com/item?id=37935333) - [Every member of Bandcamp United Union bargaining team was laid off – Hypebot](https://www.hypebot.com/hypebot/2023/10/every-member-of-bandcamp-united-union-bargaining-team-was-laid-off.html)
 * [2023-10-18, 21:49:14](https://news.ycombinator.com/item?id=37935232) - [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
 * [2023-10-18, 21:31:00](https://news.ycombinator.com/item?id=37935053) - [How to scale nuclear power](https://a16z.com/how-to-scale-nuclear-power/)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
