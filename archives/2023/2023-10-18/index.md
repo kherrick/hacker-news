@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: The Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 06:31:07](https://news.ycombinator.com/item?id=37925441) - [Nitrous oxide: Laughing gas possession to be illegal in three weeks](https://www.bbc.co.uk/news/uk-67141869)
 * [2023-10-18, 05:57:13](https://news.ycombinator.com/item?id=37925275) - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
 * [2023-10-18, 05:25:25](https://news.ycombinator.com/item?id=37925099) - [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)

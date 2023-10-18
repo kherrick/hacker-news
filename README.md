@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: The Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 06:31:07](https://news.ycombinator.com/item?id=37925441) - [Nitrous oxide: Laughing gas possession to be illegal in three weeks](https://www.bbc.co.uk/news/uk-67141869)
 * [2023-10-18, 05:57:13](https://news.ycombinator.com/item?id=37925275) - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
 * [2023-10-18, 05:25:25](https://news.ycombinator.com/item?id=37925099) - [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
@@ -20,7 +21,6 @@
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 * [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
-* [2023-10-17, 16:28:29](https://news.ycombinator.com/item?id=37917597) - [Tech CEO sentenced to 5 years in IP address scheme](https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
 * [2023-10-17, 13:25:34](https://news.ycombinator.com/item?id=37914672) - [Show HN: I made an all-in-one desktop app with a no-BS approach to get work done](https://news.ycombinator.com/item?id=37914672)
 * [2023-10-17, 05:31:53](https://news.ycombinator.com/item?id=37910983) - [*(char*)0 = 0; – What does the C++ programmer intend with this code? [video]](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
