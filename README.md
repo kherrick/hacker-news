@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 18:16:36](https://news.ycombinator.com/item?id=37932539) - [Inside the booming AI-generated porn industry](https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros)
 * [2023-10-18, 17:22:52](https://news.ycombinator.com/item?id=37931804) - [Ask HN: What's the most beautiful web game you've seen?](https://news.ycombinator.com/item?id=37931804)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) is hiring engineers to make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [A 'Godfather of AI' Calls for an Organization to Defend Humanity](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
@@ -21,7 +22,6 @@
 * [2023-10-18, 14:37:01](https://news.ycombinator.com/item?id=37929311) - [The Oracle Java Platform Extension for Visual Studio Code](https://inside.java/2023/10/18/announcing-vscode-extension/)
 * [2023-10-18, 14:17:12](https://news.ycombinator.com/item?id=37929028) - [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
 * [2023-10-18, 13:38:56](https://news.ycombinator.com/item?id=37928493) - [Hacker News Classic](https://news.ycombinator.com/classic)
-* [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
 * [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [A 1990 experiment to test whether we could discern life on Earth remotely](https://www.nature.com/articles/d41586-023-03230-z)
 * [2023-10-18, 11:48:56](https://news.ycombinator.com/item?id=37927344) - [What is the Demoscene? An interview](https://onthearts.com/p/what-is-the-demoscene)
 * [2023-10-18, 11:33:01](https://news.ycombinator.com/item?id=37927255) - [Sweden reports damage to Baltic Sea cable with Estonia](https://www.dw.com/en/sweden-reports-damage-to-baltic-sea-cable-with-estonia/a-67126637)
