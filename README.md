@@ -1,14 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-18, 22:18:22](https://news.ycombinator.com/item?id=37935550) - [Richard Feynman explains neutron stars](https://twitter.com/1517fund/status/1714766669149532351)
+* [2023-10-18, 22:14:42](https://news.ycombinator.com/item?id=37935496) - [Bank of America warned consumers they would be pushed to the 'point of pain'](https://finance.yahoo.com/news/bank-america-warned-consumers-pushed-105605526.html)
+* [2023-10-18, 22:10:09](https://news.ycombinator.com/item?id=37935452) - [The game theory of the Republican speakership crisis](https://www.natesilver.net/p/the-game-theory-of-the-republican)
 * [2023-10-18, 21:58:29](https://news.ycombinator.com/item?id=37935333) - [Every member of Bandcamp United Union bargaining team was laid off – Hypebot](https://www.hypebot.com/hypebot/2023/10/every-member-of-bandcamp-united-union-bargaining-team-was-laid-off.html)
 * [2023-10-18, 21:49:14](https://news.ycombinator.com/item?id=37935232) - [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
-* [2023-10-18, 21:31:00](https://news.ycombinator.com/item?id=37935053) - [How to Scale Nuclear Power](https://a16z.com/how-to-scale-nuclear-power/)
+* [2023-10-18, 21:31:00](https://news.ycombinator.com/item?id=37935053) - [How to scale nuclear power](https://a16z.com/how-to-scale-nuclear-power/)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 * [2023-10-18, 21:00:19](https://news.ycombinator.com/item?id=37934688) - [Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
 * [2023-10-18, 20:36:19](https://news.ycombinator.com/item?id=37934439) - [gRPC request context which caries values across microservice boundaries](https://github.com/konigsoftware/konig-kontext)
-* [2023-10-18, 20:02:47](https://news.ycombinator.com/item?id=37934034) - [The Awk Programming Language, Second Edition](https://www.awk.dev/)
-* [2023-10-18, 19:33:46](https://news.ycombinator.com/item?id=37933633) - [You're not lacking creativity, you're overwhelmed](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 16:56:05](https://news.ycombinator.com/item?id=37931424) - [Scientists discover links between Alzheimer's disease and gut microbiota](https://www.kcl.ac.uk/news/links-between-alzheimers-and-gut-microbiota)
 * [2023-10-18, 16:52:58](https://news.ycombinator.com/item?id=37931383) - [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
@@ -29,7 +29,7 @@
 * [2023-10-18, 06:25:59](https://news.ycombinator.com/item?id=37925411) - [Marked by Stars – Agrippa's Occult Philosophy](https://publicdomainreview.org/essay/agrippa-occult-philosophy)
 * [2023-10-17, 23:04:51](https://news.ycombinator.com/item?id=37922748) - [Winsorized mean](https://en.wikipedia.org/wiki/Winsorized_mean)
 * [2023-10-17, 12:08:23](https://news.ycombinator.com/item?id=37913709) - [How to Exclaim!](https://themillions.com/2023/10/how-to-exclaim.html)
-* [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write More \"Useless\" Software](https://ntietz.com/blog/write-more-useless-software/)
+* [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)
 
