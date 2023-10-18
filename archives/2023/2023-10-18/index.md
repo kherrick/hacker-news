@@ -36,6 +36,7 @@
 * [2023-10-18, 18:09:17](https://news.ycombinator.com/item?id=37932449) - [Turbopuffer: $1/month per million vectors](https://turbopuffer.com/)
 * [2023-10-18, 18:04:54](https://news.ycombinator.com/item?id=37932383) - [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.livescience.com/planet-earth/gulf-stream-weakening-now-99-certain-and-ramifications-will-be-global)
 * [2023-10-18, 18:00:38](https://news.ycombinator.com/item?id=37932325) - [Windows Longhorn and the Worst Code I've Ever Seen: Dave Cutler [video]](https://www.youtube.com/watch?v=vxmZPMg7vIs)
+* [2023-10-18, 17:29:09](https://news.ycombinator.com/item?id=37931893) - [Convoy cancels all shipments, load board is empty, announcement upcoming](https://www.freightwaves.com/news/convoy-cancels-all-shipments-load-board-is-empty-announcement-upcoming)
 * [2023-10-18, 17:22:52](https://news.ycombinator.com/item?id=37931804) - [Ask HN: What's the most beautiful web game you've seen?](https://news.ycombinator.com/item?id=37931804)
 * [2023-10-18, 17:00:45](https://news.ycombinator.com/item?id=37931488) - [Playground (YC S19) Is Hiring Engineerings o make an AI-first image editor](https://playground.com/jobs)
 * [2023-10-18, 16:57:17](https://news.ycombinator.com/item?id=37931448) - [A 'Godfather of AI' Calls for an Organization to Defend Humanity](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
