@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 12:50:54](https://news.ycombinator.com/item?id=37927866) - [Low serotonin levels might explain some Long Covid symptoms, study proposes](https://www.science.org/content/article/low-serotonin-levels-might-explain-some-long-covid-symptoms-study-proposes)
+* [2023-10-18, 12:29:59](https://news.ycombinator.com/item?id=37927665) - [I Just Sold My 500th Book. If I Was Allowed to Advertise It I'd Be Rich](https://jjpryor.substack.com/p/i-just-sold-my-500th-book-if-i-was)
 * [2023-10-18, 12:24:09](https://news.ycombinator.com/item?id=37927613) - [X begins charging new users $1 a year in New Zealand, Philippines](https://www.bbc.co.uk/news/business-67141993)
 * [2023-10-18, 12:06:06](https://news.ycombinator.com/item?id=37927480) - [Why is text of sumissions in low-contrast grey on HN?](https://news.ycombinator.com/item?id=37927480)
 * [2023-10-18, 12:00:35](https://news.ycombinator.com/item?id=37927435) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
@@ -20,8 +22,6 @@
 * [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
 * [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
-* [2023-10-17, 21:36:19](https://news.ycombinator.com/item?id=37921933) - [The Thing About PHP](https://asko.dev/blog/the-thing-about-php)
-* [2023-10-17, 19:16:46](https://news.ycombinator.com/item?id=37920191) - [Using spaced repetition systems to see through a piece of mathematics (2019)](https://cognitivemedium.com/srs-mathematics)
 * [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
 * [2023-10-17, 15:40:15](https://news.ycombinator.com/item?id=37916855) - [Frasier Fantasy](https://edward-la-barbera.itch.io/frasier-fantasy)
