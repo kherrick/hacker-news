@@ -24,6 +24,7 @@
 * [2023-10-18, 14:16:43](https://news.ycombinator.com/item?id=37929017) - [Binance US No Longer Allows USD Withdrawal for Users](https://thenewscrypto.com/binance-us-no-longer-allows-usd-withdrawal-for-users/)
 * [2023-10-18, 14:11:40](https://news.ycombinator.com/item?id=37928956) - [OpenAI just replaced its core values with completely different ones](https://futurism.com/the-byte/openai-core-values-agi)
 * [2023-10-18, 13:49:18](https://news.ycombinator.com/item?id=37928630) - [I Am Happy Not to Be a Web Developer Anymore](https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/)
+* [2023-10-18, 13:38:56](https://news.ycombinator.com/item?id=37928493) - [Hacker News Classic](https://news.ycombinator.com/classic)
 * [2023-10-18, 13:28:26](https://news.ycombinator.com/item?id=37928352) - [Ask HN: Can you suggest advanced books on integral calculation techniques?](https://news.ycombinator.com/item?id=37928352)
 * [2023-10-18, 13:17:45](https://news.ycombinator.com/item?id=37928205) - [Intel Launches Intel Core 14th Gen Desktop Processors for Enthusiasts](https://www.intel.com/content/www/us/en/newsroom/news/intel-core-14th-gen-desktop-processors.html)
 * [2023-10-18, 13:13:10](https://news.ycombinator.com/item?id=37928151) - [YouTube wants to get you watching more news from 'authoritative sources'](https://www.theverge.com/2023/10/18/23922070/youtube-news-immersive-watch-page-experience-shortform)
