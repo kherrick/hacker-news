@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-18, 10:00:34](https://news.ycombinator.com/item?id=37926698) - [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.theguardian.com/uk-news/2023/oct/18/millennium-bridge-workers-forced-to-hang-straw-bales-after-ancient-bylaw-triggered)
+* [2023-10-18, 08:48:04](https://news.ycombinator.com/item?id=37926259) - [I'd rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 05:57:13](https://news.ycombinator.com/item?id=37925275) - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
@@ -18,7 +19,6 @@
 * [2023-10-17, 21:00:58](https://news.ycombinator.com/item?id=37921497) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37921497)
 * [2023-10-17, 19:51:49](https://news.ycombinator.com/item?id=37920633) - [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
 * [2023-10-17, 19:16:46](https://news.ycombinator.com/item?id=37920191) - [Using spaced repetition systems to see through a piece of mathematics (2019)](https://cognitivemedium.com/srs-mathematics)
-* [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 * [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
