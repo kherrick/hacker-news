@@ -6,9 +6,12 @@
 
 * [2023-10-18, 15:03:01](https://news.ycombinator.com/item?id=37929711) - [Microfront ends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
 * [2023-10-18, 14:51:49](https://news.ycombinator.com/item?id=37929535) - [Even the FBI says you need to patch this Atlassian Confluence bug](https://www.techradar.com/pro/security/even-the-fbi-says-you-need-to-patch-this-atlassian-confluence-bug-right-now)
+* [2023-10-18, 14:48:55](https://news.ycombinator.com/item?id=37929503) - [Ask HN: What outdated tech are you still using and are perfectly happy with?](https://news.ycombinator.com/item?id=37929503)
+* [2023-10-18, 14:42:25](https://news.ycombinator.com/item?id=37929398) - [Stopbuyingdomainnames](https://stopbuyingdomainnames.com)
 * [2023-10-18, 14:38:23](https://news.ycombinator.com/item?id=37929338) - [USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 * [2023-10-18, 14:22:36](https://news.ycombinator.com/item?id=37929110) - [Titanium oxide material can remove toxic dyes from wastewater](https://phys.org/news/2023-10-titanium-oxide-material-toxic-dyes.html)
 * [2023-10-18, 14:17:12](https://news.ycombinator.com/item?id=37929028) - [Shift Happens Cover Stories: guess the Shift keys of retro keyboards](https://shifthappens.site/cover-stories/)
+* [2023-10-18, 14:16:43](https://news.ycombinator.com/item?id=37929017) - [Binance US No Longer Allows USD Withdrawal for Users](https://thenewscrypto.com/binance-us-no-longer-allows-usd-withdrawal-for-users/)
 * [2023-10-18, 14:11:40](https://news.ycombinator.com/item?id=37928956) - [OpenAI just replaced its core values with completely different ones](https://futurism.com/the-byte/openai-core-values-agi)
 * [2023-10-18, 13:49:18](https://news.ycombinator.com/item?id=37928630) - [I Am Happy Not to Be a Web Developer Anymore](https://thecodist.com/i-am-happy-not-to-be-a-web-developer-anymore/)
 * [2023-10-18, 13:28:26](https://news.ycombinator.com/item?id=37928352) - [Ask HN: Can you suggest advanced books on integral calculation techniques?](https://news.ycombinator.com/item?id=37928352)
