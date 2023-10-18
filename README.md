@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-18, 01:28:41](https://news.ycombinator.com/item?id=37923849) - [LinkedIn lays off nearly 700 staff, engineers to suffer the most](https://www.theregister.com/2023/10/16/linkedin_layoffs/)
+* [2023-10-18, 02:06:56](https://news.ycombinator.com/item?id=37924092) - [Qualcomm to Bring RISC-V Based Wearable Platform to Wear OS by Google](https://www.qualcomm.com/news/releases/2023/10/qualcomm-to-bring-risc-v-based-wearable-platform-to--wear-os-by-)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
 * [2023-10-18, 00:46:30](https://news.ycombinator.com/item?id=37923547) - [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
