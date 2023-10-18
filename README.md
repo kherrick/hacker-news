@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-18, 01:28:41](https://news.ycombinator.com/item?id=37923849) - [LinkedIn lays off nearly 700 staff, engineers to suffer the most](https://www.theregister.com/2023/10/16/linkedin_layoffs/)
 * [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-18, 01:10:34](https://news.ycombinator.com/item?id=37923732) - [Psytrance Guide](https://psytranceguide.com/)
 * [2023-10-18, 00:46:30](https://news.ycombinator.com/item?id=37923547) - [Waymo Layoffs](https://sfstandard.com/2023/10/17/tech-layoffs-waymo-san-francisco-robotaxi/)
 * [2023-10-18, 00:11:20](https://news.ycombinator.com/item?id=37923293) - [Anti-ageing molecule boosts fertility in ageing mice](https://www.nature.com/articles/d41586-023-03224-x)
 * [2023-10-17, 23:31:05](https://news.ycombinator.com/item?id=37922948) - [Google opens Falcon, a reliable low-latency hardware transport, to the ecosystem](https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport)
-* [2023-10-17, 22:08:33](https://news.ycombinator.com/item?id=37922272) - [AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 22:01:15](https://news.ycombinator.com/item?id=37922200) - [The pneumatic tube mail system in New York City](https://untappedcities.com/2023/10/17/pneumatic-tube-mail-new-york-city/)
 * [2023-10-17, 21:58:45](https://news.ycombinator.com/item?id=37922181) - [Universal cancer vaccine trial shows significant improvement in overall survival](https://ultimovacs.com/investors/news/ultimovacs-announces-nipu-results-presented-at-esmo-2023-significant-and-clinically-meaningful-improvement-in-overall-survival-for-patients-receiving-uv1-cancer-vaccine-in-phase-ii-nipu-trial-in-mali)
 * [2023-10-17, 21:27:43](https://news.ycombinator.com/item?id=37921832) - [\"A Young Lady's Illustrated Primer\" Simulated by GPT-4](https://www.andrealyip.com/a-young-ladys-illustrated-primer)
@@ -14,7 +14,6 @@
 * [2023-10-17, 19:51:49](https://news.ycombinator.com/item?id=37920633) - [Free IRS-run tax filing pilot to be available in 13 states](https://www.irs.gov/newsroom/irs-advances-innovative-direct-file-project-for-2024-tax-season-free-irs-run-pilot-option-projected-to-be-available-for-eligible-taxpayers-in-13-states)
 * [2023-10-17, 19:16:46](https://news.ycombinator.com/item?id=37920191) - [Using spaced repetition systems to see through a piece of mathematics (2019)](https://cognitivemedium.com/srs-mathematics)
 * [2023-10-17, 19:00:27](https://news.ycombinator.com/item?id=37919949) - [Superlinear Returns](http://paulgraham.com/superlinear.html)
-* [2023-10-17, 18:58:57](https://news.ycombinator.com/item?id=37919924) - [ExecuTorch: Run PyTorch programs on mobile and edge devices](https://pytorch.org/executorch/stable/index.html)
 * [2023-10-17, 18:15:38](https://news.ycombinator.com/item?id=37919241) - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 * [2023-10-17, 17:25:58](https://news.ycombinator.com/item?id=37918438) - [The Long Boom: A History of the Future, 1980–2020 (1997)](https://www.wired.com/1997/07/longboom/)
 * [2023-10-17, 17:19:29](https://news.ycombinator.com/item?id=37918327) - [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631)
@@ -30,6 +29,7 @@
 * [2023-10-15, 18:32:31](https://news.ycombinator.com/item?id=37892125) - [The Librarian of Congress Weighs in on Why Card Catalogs Matter (2017)](https://www.smithsonianmag.com/arts-culture/librarian-congress-weighs-why-card-catalogs-matter-180963371/)
 * [2023-10-15, 17:06:40](https://news.ycombinator.com/item?id=37891469) - [WordStar: Arrogant, Difficult, Powerful (2022)](https://www.abortretry.fail/p/arrogant-difficult-powerful)
 * [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
+* [2023-10-15, 15:34:58](https://news.ycombinator.com/item?id=37890599) - [The challenges of producing quality code when using AI-based generalistic models](https://www.infoq.com/news/2023/10/producing-quality-code-AI/)
 
 ## [Archives](archives/index.md)
 

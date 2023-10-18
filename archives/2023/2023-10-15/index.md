@@ -54,6 +54,7 @@
 * [2023-10-15, 15:43:19](https://news.ycombinator.com/item?id=37890685) - [Causal inference as a blind spot of data scientists](https://dzidas.com/ml/2023/10/15/blind-spot-ds/)
 * [2023-10-15, 15:40:13](https://news.ycombinator.com/item?id=37890649) - [A Fleet Prone to Captive Labor and Plunder](https://www.theoutlawocean.com/investigations/china-the-superpower-of-seafood/a-fleet-prone-to-captive-labor-and-plunder/)
 * [2023-10-15, 15:39:05](https://news.ycombinator.com/item?id=37890637) - [Qaul – Internet independent wireless mesh communication app](https://qaul.net/)
+* [2023-10-15, 15:34:58](https://news.ycombinator.com/item?id=37890599) - [The challenges of producing quality code when using AI-based generalistic models](https://www.infoq.com/news/2023/10/producing-quality-code-AI/)
 * [2023-10-15, 15:31:56](https://news.ycombinator.com/item?id=37890570) - [Scientists begin building AI for scientific discovery using tech behind ChatGPT](https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html)
 * [2023-10-15, 15:18:39](https://news.ycombinator.com/item?id=37890453) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 15:08:39](https://news.ycombinator.com/item?id=37890369) - [Mark Twain filmed by Thomas Edison in 1909](https://www.youtube.com/watch?v=leYj--P4CgQ)
