@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 23:20:31](https://news.ycombinator.com/item?id=37950126) - [Marines Test Fire Robot Dog Armed with Rocket Launcher](https://www.thedrive.com/the-war-zone/marines-test-fire-robot-dog-armed-with-rocket-launcher)
+* [2023-10-19, 23:05:32](https://news.ycombinator.com/item?id=37950014) - [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
 * [2023-10-19, 22:52:18](https://news.ycombinator.com/item?id=37949899) - [Please Pay for a Year of Nothing](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html)
 * [2023-10-19, 22:40:29](https://news.ycombinator.com/item?id=37949789) - [Clearview doesn't let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
 * [2023-10-19, 22:28:19](https://news.ycombinator.com/item?id=37949656) - [Research repository ArXiv receives $10M for upgrades](https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades)
