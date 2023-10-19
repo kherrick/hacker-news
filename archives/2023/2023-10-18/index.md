@@ -33,6 +33,7 @@
 * [2023-10-18, 19:33:46](https://news.ycombinator.com/item?id=37933633) - [You're not lacking creativity, you're overwhelmed](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)
 * [2023-10-18, 19:13:56](https://news.ycombinator.com/item?id=37933345) - [GitHub stars won't pay your rent](https://www.kitze.io/posts/github-stars-wont-pay-your-rent)
 * [2023-10-18, 19:12:39](https://news.ycombinator.com/item?id=37933327) - [X plans to use payment, phone and ID verification to stop bots, $1/yr fee](https://techcrunch.com/2023/10/18/x-plans-to-use-payment-phone-and-id-verification-to-stop-bots-in-addition-to-the-new-1-yr-fee/)
+* [2023-10-18, 19:11:51](https://news.ycombinator.com/item?id=37933316) - [Elastic Tab Stops (2017)](https://nickgravgaard.com/elastic-tabstops/)
 * [2023-10-18, 18:48:03](https://news.ycombinator.com/item?id=37932971) - [An ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
 * [2023-10-18, 18:36:27](https://news.ycombinator.com/item?id=37932800) - [What is the difference between include <filename> and include \"filename\"?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
 * [2023-10-18, 18:33:42](https://news.ycombinator.com/item?id=37932754) - [Brave appears to install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
