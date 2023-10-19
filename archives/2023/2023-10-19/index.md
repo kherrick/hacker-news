@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 19:29:30](https://news.ycombinator.com/item?id=37947532) - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
 * [2023-10-19, 19:22:34](https://news.ycombinator.com/item?id=37947432) - [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
+* [2023-10-19, 19:07:30](https://news.ycombinator.com/item?id=37947223) - [Cruise's Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
 * [2023-10-19, 19:06:08](https://news.ycombinator.com/item?id=37947205) - [Ask HN: Do tools like Copilot or ChatGPT4 help you code?](https://news.ycombinator.com/item?id=37947205)
 * [2023-10-19, 19:06:07](https://news.ycombinator.com/item?id=37947204) - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)
 * [2023-10-19, 18:06:06](https://news.ycombinator.com/item?id=37946306) - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
+* [2023-10-19, 18:03:00](https://news.ycombinator.com/item?id=37946266) - [Show HN: ChatAPI – PWA to Use ChatGPT by API](https://github.com/david-haerer/chatapi)
 * [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
 * [2023-10-19, 17:49:34](https://news.ycombinator.com/item?id=37946103) - [Meta Plans to Grow Threads by Ramming Its Posts to Facebook](https://gizmodo.com/meta-hopes-threads-grows-by-jamming-posts-into-facebook-1850940853)
