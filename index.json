@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-19, 17:58:01",
-      "https://news.ycombinator.com/item?id=37946203"
-    ],
-    [
-      "Just paying Figma $15/month because nothing else fucking works",
-      "https://fasterthanli.me/articles/just-paying-figma-15-dollars"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 17:50:21",
       "https://news.ycombinator.com/item?id=37946109"
     ],
@@ -31,21 +21,11 @@
   ],
   [
     [
-      "2023-10-19, 17:49:34",
-      "https://news.ycombinator.com/item?id=37946103"
-    ],
-    [
-      "Meta Plans to Grow Threads by Ramming Its Posts to Facebook",
-      "https://gizmodo.com/meta-hopes-threads-grows-by-jamming-posts-into-facebook-1850940853"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 17:48:11",
       "https://news.ycombinator.com/item?id=37946080"
     ],
     [
-      "Instagram Apologizes for Inserting 'Terrorist' into Palestinian Bio Translations",
+      "Instagram apologizes for inserting 'terrorist' into Palestinian bio translations",
       "https://www.404media.co/instagram-palestinian-arabic-bio-translation/"
     ]
   ],
@@ -61,21 +41,11 @@
   ],
   [
     [
-      "2023-10-19, 17:44:50",
-      "https://news.ycombinator.com/item?id=37946030"
-    ],
-    [
-      "Convoy collapse: Read CEO's memo detailing shutdown of Seattle trucking startup",
-      "https://www.freightwaves.com/news/freight-brokerage-bubble-bursting-as-freight-markets-face-long-winter"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 17:43:46",
       "https://news.ycombinator.com/item?id=37946017"
     ],
     [
-      "Bezos-Backed Startup Convoy Closes Operations with No Buyer",
+      "Trucking startup Convoy closes operations with no buyer",
       "https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer"
     ]
   ],
@@ -105,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37944691"
     ],
     [
-      "Even a laptop can run RAM externally thanks to a little-known tech called CXL",
+      "Even a laptop can run RAM externally thanks to CXL",
       "https://www.techradar.com/pro/even-a-laptop-can-run-ram-externally-thanks-to-a-little-known-tech-called-cxl-but-its-not-for-sale-to-mere-mortals-who-only-want-1tb-of-ram"
     ]
   ],
@@ -135,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37944219"
     ],
     [
-      "Scientists pry a secret from 'Mona Lisa' about how Leonardo painted masterpiece",
+      "Researchers find a rare compound, plumbonacrite, in first layer of Mona Lisa",
       "https://phys.org/news/2023-10-scientists-winkle-secret-mona-lisa.html"
     ]
   ],
@@ -145,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37944198"
     ],
     [
-      "Mikiphone: The First Pocket Record Player",
+      "The 1924 Mikiphone: The first pocket record player",
       "https://rarehistoricalphotos.com/mikiphone/"
     ]
   ],
@@ -157,6 +127,16 @@
     [
       "NASA asteroid sample contains life-critical water and carbon",
       "https://phys.org/news/2023-10-nasa-asteroid-sample-life-critical-carbon.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 15:14:30",
+      "https://news.ycombinator.com/item?id=37944011"
+    ],
+    [
+      "Discord is going to give out warnings instead of permanent bans",
+      "https://www.theverge.com/2023/10/19/23923646/discord-warning-system-moderation-teen-safety-new-mobile-features"
     ]
   ],
   [
@@ -181,22 +161,22 @@
   ],
   [
     [
+      "2023-10-19, 14:43:40",
+      "https://news.ycombinator.com/item?id=37943596"
+    ],
+    [
+      "Netflix is raising prices, again",
+      "https://www.npr.org/2023/10/19/1207013682/netflix-raises-prices-premium-plan"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 13:42:59",
       "https://news.ycombinator.com/item?id=37942791"
     ],
     [
       "Linux runtime security agent powered by eBPF",
       "https://github.com/Exein-io/pulsar"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 13:25:39",
-      "https://news.ycombinator.com/item?id=37942567"
-    ],
-    [
-      "The reason CEOs want workers to RTO is because they want you to quit",
-      "https://www.fastcompany.com/90969112/op-ed-the-real-reason-ceos-want-workers-back-in-the-office-is-because-they-want-you-to-quit"
     ]
   ],
   [
@@ -221,6 +201,26 @@
   ],
   [
     [
+      "2023-10-19, 11:38:30",
+      "https://news.ycombinator.com/item?id=37941459"
+    ],
+    [
+      "AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations",
+      "https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 11:34:35",
+      "https://news.ycombinator.com/item?id=37941413"
+    ],
+    [
+      "Show HN: One makefile to rule them all",
+      "https://gist.github.com/LiquidityC/c832cd3d8394f267299d43b1f1719e90"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 10:53:56",
       "https://news.ycombinator.com/item?id=37941075"
     ],
@@ -235,18 +235,28 @@
       "https://news.ycombinator.com/item?id=37941002"
     ],
     [
-      "The Origins of the Idle Scan",
+      "The origins of the Idle Scan",
       "http://antirez.com/news/139"
     ]
   ],
   [
     [
-      "2023-10-19, 09:40:31",
-      "https://news.ycombinator.com/item?id=37940572"
+      "2023-10-19, 10:22:01",
+      "https://news.ycombinator.com/item?id=37940842"
     ],
     [
-      "LocalPilot: Open-source GitHub Copilot on your MacBook",
-      "https://github.com/danielgross/localpilot"
+      "AtomVM: Erlang virtual machine for IoT devices",
+      "https://www.atomvm.net//"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 10:01:36",
+      "https://news.ycombinator.com/item?id=37940713"
+    ],
+    [
+      "How not to hire a North Korean plant posing as a techie",
+      "https://www.theregister.com/2023/10/19/north_korea_fake_freelance_avoidance/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2023-10-19, 05:33:24",
-      "https://news.ycombinator.com/item?id=37938866"
+      "2023-10-19, 06:31:33",
+      "https://news.ycombinator.com/item?id=37939263"
     ],
     [
-      "Google-hosted malvertising leads to fake Keepass site that looks genuine",
-      "https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/"
+      "Advice from \"pracademics\" of how to apply ecological dynamics theory to practice",
+      "https://www.frontiersin.org/articles/10.3389/fspor.2023.1192332/full"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Localsend: Open-Source Airdrop Alternative",
       "https://github.com/localsend/localsend"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 15:50:30",
-      "https://news.ycombinator.com/item?id=37930441"
-    ],
-    [
-      "Launch HN: Pier (YC W23) – Stripe for Credit",
-      "https://news.ycombinator.com/item?id=37930441"
     ]
   ],
   [
