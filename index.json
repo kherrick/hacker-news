@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-19, 13:01:44",
+      "https://news.ycombinator.com/item?id=37942303"
+    ],
+    [
+      "Is POSIX really outdated?",
+      "https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 12:46:38",
       "https://news.ycombinator.com/item?id=37942128"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-10-19, 12:38:04",
-      "https://news.ycombinator.com/item?id=37942022"
+      "2023-10-19, 12:45:28",
+      "https://news.ycombinator.com/item?id=37942114"
     ],
     [
-      "Amazon Let Its Drivers' Urine Be Sold as an Energy Drink",
-      "https://www.wired.com/story/amazon-let-its-drivers-urine-be-sold-as-an-energy-drink/"
+      "There's a new way to flip bits in DRAM, and it works against the latest defenses",
+      "https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-10-19, 11:15:38",
-      "https://news.ycombinator.com/item?id=37941234"
-    ],
-    [
-      "\"We have a thermal printer hooked up to the internet, you can send us a doodle\"",
-      "https://guestbook.goodenough.us/"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 10:59:28",
       "https://news.ycombinator.com/item?id=37941119"
     ],
@@ -147,16 +147,6 @@
     [
       "Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December",
       "https://www.youtube.com/watch?v=4b52A3sKz-I"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 08:54:51",
-      "https://news.ycombinator.com/item?id=37940249"
-    ],
-    [
-      "Show HN: Open-source background removal in Node.js",
-      "https://www.npmjs.com/package/@imgly/background-removal-node"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "DRM-free e-books are a big deal (2019)",
       "https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 22:00:05",
+      "https://news.ycombinator.com/item?id=37935353"
+    ],
+    [
+      "Zero ASIC is out of stealth",
+      "https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making"
     ]
   ],
   [
