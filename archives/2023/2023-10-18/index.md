@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 23:59:49](https://news.ycombinator.com/item?id=37936444) - [Red Hat's Ex, Jim Whitehurst, Is Now Temporary CEO at Unity Software](https://fossforce.com/2023/10/red-hats-ex-jim-whitehurst-is-now-temporary-ceo-at-unity-software/)
 * [2023-10-18, 23:34:45](https://news.ycombinator.com/item?id=37936234) - [Colorado Supreme Court Upholds Keyword Search Warrant](https://www.eff.org/deeplinks/2023/10/colorado-supreme-court-upholds-keyword-search-warrant)
 * [2023-10-18, 23:22:10](https://news.ycombinator.com/item?id=37936134) - [Tesla earns $690M less than expected in third quarter](https://www.theguardian.com/technology/2023/oct/18/elon-musk-tesla-third-quarter-earnings-decline-cybertruck)
 * [2023-10-18, 23:15:12](https://news.ycombinator.com/item?id=37936076) - [Tell HN: Don't use Wise Business (TransferWise) to receive business payments](https://news.ycombinator.com/item?id=37936076)
+* [2023-10-18, 23:04:58](https://news.ycombinator.com/item?id=37936005) - [xVal: A continuous number encoding for large language models](https://arxiv.org/abs/2310.02989)
 * [2023-10-18, 22:47:43](https://news.ycombinator.com/item?id=37935836) - [YouTube de-monetize journalist Richard Medhurst for reporting on Palestine](https://www.youtube.com/watch?v=d8RpHjnDp8o)
 * [2023-10-18, 22:46:08](https://news.ycombinator.com/item?id=37935817) - [Ask HN: Where to Host a FastAPI App](https://news.ycombinator.com/item?id=37935817)
 * [2023-10-18, 22:46:06](https://news.ycombinator.com/item?id=37935816) - [iPhone sales drop 4.5% in China](https://substack.com/@rakkhi/note/c-42098087)
@@ -15,6 +17,7 @@
 * [2023-10-18, 22:14:42](https://news.ycombinator.com/item?id=37935496) - [Bank of America warned consumers they would be pushed to the 'point of pain'](https://finance.yahoo.com/news/bank-america-warned-consumers-pushed-105605526.html)
 * [2023-10-18, 22:10:09](https://news.ycombinator.com/item?id=37935452) - [The game theory of the Republican speakership crisis](https://www.natesilver.net/p/the-game-theory-of-the-republican)
 * [2023-10-18, 22:02:54](https://news.ycombinator.com/item?id=37935375) - [AlmaLinux stays Red Hat Enterprise Linux compatible without Red Hat code](https://www.zdnet.com/article/how-almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code/)
+* [2023-10-18, 22:00:05](https://news.ycombinator.com/item?id=37935353) - [Zero ASIC is out of stealth](https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making)
 * [2023-10-18, 21:58:29](https://news.ycombinator.com/item?id=37935333) - [Every member of Bandcamp United Union bargaining team was laid off – Hypebot](https://www.hypebot.com/hypebot/2023/10/every-member-of-bandcamp-united-union-bargaining-team-was-laid-off.html)
 * [2023-10-18, 21:54:09](https://news.ycombinator.com/item?id=37935288) - [Ask HN: Why did the number of new GitHub repos crash in late 2022](https://news.ycombinator.com/item?id=37935288)
 * [2023-10-18, 21:49:14](https://news.ycombinator.com/item?id=37935232) - [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
@@ -100,6 +103,7 @@
 * [2023-10-18, 09:06:27](https://news.ycombinator.com/item?id=37926372) - [Don't Work with a**Holes](https://www.danielrsim.com/dont-work-with-a-holes/)
 * [2023-10-18, 08:48:04](https://news.ycombinator.com/item?id=37926259) - [I'd rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
+* [2023-10-18, 07:48:53](https://news.ycombinator.com/item?id=37925929) - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: The Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 * [2023-10-18, 07:12:20](https://news.ycombinator.com/item?id=37925678) - [Tell HN: Wise froze $40k+ in funds for 10 days and counting](https://news.ycombinator.com/item?id=37925678)
 * [2023-10-18, 06:51:06](https://news.ycombinator.com/item?id=37925538) - [The Ur-Quan Masters: The Open Source Remake of Star Control II](http://theurquanmasters.com/)

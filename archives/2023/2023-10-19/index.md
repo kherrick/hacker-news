@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-19](index.md)
+
+* [2023-10-19, 00:16:27](https://news.ycombinator.com/item?id=37936592) - [I know data engineers who know just Python and SQL who make $500k at Netflix](https://twitter.com/EcZachly/status/1714772914682376316)
