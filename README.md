@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 21:04:53](https://news.ycombinator.com/item?id=37948703) - [Scottish couple facing $33k repair bill after driving Tesla in heavy rain](https://www.carexpert.com.au/car-news/scottish-couple-facing-33k-repair-bill-after-driving-tesla-in-heavy-rain)
 * [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-10-19, 20:42:55](https://news.ycombinator.com/item?id=37948456) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
 * [2023-10-19, 20:22:35](https://news.ycombinator.com/item?id=37948200) - [Amazon begins testing Agility's Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
@@ -9,7 +10,6 @@
 * [2023-10-19, 19:29:30](https://news.ycombinator.com/item?id=37947532) - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
 * [2023-10-19, 19:07:30](https://news.ycombinator.com/item?id=37947223) - [Cruise's Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
 * [2023-10-19, 18:30:22](https://news.ycombinator.com/item?id=37946659) - [The elixir-tools Update Vol. 4](https://www.elixir-tools.dev/news/the-elixir-tools-update-vol-4/)
-* [2023-10-19, 18:03:00](https://news.ycombinator.com/item?id=37946266) - [Show HN: ChatAPI – PWA to Use ChatGPT by API](https://github.com/david-haerer/chatapi)
 * [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
 * [2023-10-19, 17:48:11](https://news.ycombinator.com/item?id=37946080) - [Instagram apologizes for inserting 'terrorist' into Palestinian bio translations](https://www.404media.co/instagram-palestinian-arabic-bio-translation/)
