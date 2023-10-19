@@ -109,6 +109,7 @@
 * [2023-10-18, 06:51:06](https://news.ycombinator.com/item?id=37925538) - [The Ur-Quan Masters: The Open Source Remake of Star Control II](http://theurquanmasters.com/)
 * [2023-10-18, 06:31:07](https://news.ycombinator.com/item?id=37925441) - [Nitrous oxide: Laughing gas possession to be illegal in three weeks](https://www.bbc.co.uk/news/uk-67141869)
 * [2023-10-18, 06:25:59](https://news.ycombinator.com/item?id=37925411) - [Marked by Stars – Agrippa's Occult Philosophy](https://publicdomainreview.org/essay/agrippa-occult-philosophy)
+* [2023-10-18, 06:19:26](https://news.ycombinator.com/item?id=37925374) - [Fractional Factorial Experiment Design: There Are Too Many Experiments to Do](https://blog.demofox.org/2023/10/17/fractional-factorial-experiment-design-when-there-are-too-many-experiments-to-do/)
 * [2023-10-18, 05:57:13](https://news.ycombinator.com/item?id=37925275) - [Nushell 0.86](https://www.nushell.sh/blog/2023-10-17-nushell_0_86.html)
 * [2023-10-18, 05:25:25](https://news.ycombinator.com/item?id=37925099) - [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
 * [2023-10-18, 05:15:57](https://news.ycombinator.com/item?id=37925059) - [Barnes and Noble Sets Itself Free](https://www.nytimes.com/2023/10/17/style/barnes-noble-redesign.html)
