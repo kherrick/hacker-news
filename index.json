@@ -1,6 +1,76 @@
 [
   [
     [
+      "2023-10-19, 17:50:21",
+      "https://news.ycombinator.com/item?id=37946109"
+    ],
+    [
+      "Joining CSV Data Without SQL: An IP Geolocation Use Case",
+      "https://www.brimdata.io/blog/join-geolocation-csv-data/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 17:49:34",
+      "https://news.ycombinator.com/item?id=37946103"
+    ],
+    [
+      "Meta Plans to Grow Threads by Ramming Its Posts to Facebook",
+      "https://gizmodo.com/meta-hopes-threads-grows-by-jamming-posts-into-facebook-1850940853"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 17:48:11",
+      "https://news.ycombinator.com/item?id=37946080"
+    ],
+    [
+      "Instagram Apologizes for Inserting 'Terrorist' into Palestinian Bio Translations",
+      "https://www.404media.co/instagram-palestinian-arabic-bio-translation/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 17:46:04",
+      "https://news.ycombinator.com/item?id=37946043"
+    ],
+    [
+      "Google's 21-year deal with Apple is the \"heart\" of monopoly case, judge says",
+      "https://arstechnica.com/tech-policy/2023/10/googles-21-year-deal-with-apple-is-the-heart-of-monopoly-case-judge-says/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 17:44:50",
+      "https://news.ycombinator.com/item?id=37946030"
+    ],
+    [
+      "Convoy collapse: Read CEO's memo detailing shutdown of Seattle trucking startup",
+      "https://www.freightwaves.com/news/freight-brokerage-bubble-bursting-as-freight-markets-face-long-winter"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 17:44:01",
+      "https://news.ycombinator.com/item?id=37946023"
+    ],
+    [
+      "The Killer Use Case for LLMs Is Summarization",
+      "https://www.sebastianmellen.com/post/2023/the-killer-use-case-for-llms-is-summarization/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 17:43:46",
+      "https://news.ycombinator.com/item?id=37946017"
+    ],
+    [
+      "Bezos-Backed Startup Convoy Closes Operations with No Buyer",
+      "https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 17:02:10",
       "https://news.ycombinator.com/item?id=37945452"
     ],
@@ -71,16 +141,6 @@
   ],
   [
     [
-      "2023-10-19, 15:19:56",
-      "https://news.ycombinator.com/item?id=37944101"
-    ],
-    [
-      "Rust Is Surging Ahead in WebAssembly (For Now)",
-      "https://thenewstack.io/rust-is-surging-ahead-in-webassembly-for-now/"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 15:19:17",
       "https://news.ycombinator.com/item?id=37944091"
     ],
@@ -97,6 +157,16 @@
     [
       "Wireless Is a Trap (2020)",
       "https://www.benkuhn.net/wireless/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 15:08:40",
+      "https://news.ycombinator.com/item?id=37943931"
+    ],
+    [
+      "Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts",
+      "https://www.autotab.com/"
     ]
   ],
   [
@@ -121,16 +191,6 @@
   ],
   [
     [
-      "2023-10-19, 13:26:18",
-      "https://news.ycombinator.com/item?id=37942574"
-    ],
-    [
-      "Mojo is now available on Mac",
-      "https://www.modular.com/blog/mojo-is-now-available-on-mac"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 13:12:05",
       "https://news.ycombinator.com/item?id=37942418"
     ],
@@ -151,32 +211,12 @@
   ],
   [
     [
-      "2023-10-19, 12:07:19",
-      "https://news.ycombinator.com/item?id=37941727"
+      "2023-10-19, 10:59:28",
+      "https://news.ycombinator.com/item?id=37941119"
     ],
     [
-      "Apache HTTP Server 2.4.58 (CVE fixes)",
-      "https://downloads.apache.org/httpd/CHANGES_2.4.58"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 11:34:35",
-      "https://news.ycombinator.com/item?id=37941413"
-    ],
-    [
-      "Show HN: One makefile to rule them all",
-      "https://gist.github.com/LiquidityC/c832cd3d8394f267299d43b1f1719e90"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 11:15:38",
-      "https://news.ycombinator.com/item?id=37941234"
-    ],
-    [
-      "\"We have a thermal printer hooked up to the internet, you can send us a doodle\"",
-      "https://guestbook.goodenough.us/"
+      "Requiem for a Stringref",
+      "https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref"
     ]
   ],
   [
@@ -201,42 +241,12 @@
   ],
   [
     [
-      "2023-10-19, 10:01:36",
-      "https://news.ycombinator.com/item?id=37940713"
-    ],
-    [
-      "How not to hire a North Korean plant posing as a techie",
-      "https://www.theregister.com/2023/10/19/north_korea_fake_freelance_avoidance/"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 09:40:31",
       "https://news.ycombinator.com/item?id=37940572"
     ],
     [
       "LocalPilot: Open-source GitHub Copilot on your MacBook",
       "https://github.com/danielgross/localpilot"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 09:03:35",
-      "https://news.ycombinator.com/item?id=37940315"
-    ],
-    [
-      "Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December",
-      "https://www.youtube.com/watch?v=4b52A3sKz-I"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 08:54:51",
-      "https://news.ycombinator.com/item?id=37940249"
-    ],
-    [
-      "Show HN: Open-source background removal in Node.js",
-      "https://www.npmjs.com/package/@imgly/background-removal-node"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Localsend: Open-Source Airdrop Alternative",
       "https://github.com/localsend/localsend"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 20:26:04",
-      "https://news.ycombinator.com/item?id=37934324"
-    ],
-    [
-      "Spacedrive: Unify files from all your devices and clouds into one explorer",
-      "https://www.spacedrive.com/"
     ]
   ],
   [
