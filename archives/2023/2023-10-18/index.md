@@ -102,6 +102,7 @@
 * [2023-10-18, 09:33:35](https://news.ycombinator.com/item?id=37926525) - [Add Friction to Your Onboarding](https://wraptext.equals.com/why-you-should-add-friction-to-your-onboarding/)
 * [2023-10-18, 09:06:27](https://news.ycombinator.com/item?id=37926372) - [Don't Work with a**Holes](https://www.danielrsim.com/dont-work-with-a-holes/)
 * [2023-10-18, 08:48:04](https://news.ycombinator.com/item?id=37926259) - [I'd rather build my house with my own earth than go into debt [video]](https://www.youtube.com/watch?v=f_q1pYl80pc)
+* [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
 * [2023-10-18, 08:01:18](https://news.ycombinator.com/item?id=37926005) - [Higher Quality Random Floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-18, 07:48:53](https://news.ycombinator.com/item?id=37925929) - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
 * [2023-10-18, 07:47:34](https://news.ycombinator.com/item?id=37925922) - [C++ Modules: The Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)

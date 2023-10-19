@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 01:57:43](https://news.ycombinator.com/item?id=37937345) - [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
 * [2023-10-19, 01:05:36](https://news.ycombinator.com/item?id=37936956) - [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
 * [2023-10-19, 01:02:58](https://news.ycombinator.com/item?id=37936940) - [Consortium launched to build the largest open LLM](https://www.utu.fi/en/news/press-release/university-of-turku-and-silogen-launch-consortium-to-build-the-worlds-largest)
 * [2023-10-19, 01:00:33](https://news.ycombinator.com/item?id=37936917) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
