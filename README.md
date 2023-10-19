@@ -8,7 +8,7 @@
 * [2023-10-19, 12:09:21](https://news.ycombinator.com/item?id=37941751) - [Nvidia and Foxconn to build 'AI factories'](https://www.bbc.com/news/business-67153669)
 * [2023-10-19, 12:07:19](https://news.ycombinator.com/item?id=37941727) - [Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
 * [2023-10-19, 12:00:24](https://news.ycombinator.com/item?id=37941675) - [Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
-* [2023-10-19, 11:15:52](https://news.ycombinator.com/item?id=37941235) - [What Caroline Ellison's Testimony in SBF Trial Says on Loneliness and Workplace](https://www.forbes.com/sites/lisaconn/2023/10/16/what-caroline-ellisons-testimony-in-sam-bankman-fried-trial-says-about-loneliness-and-the-workplace/)
+* [2023-10-19, 11:15:38](https://news.ycombinator.com/item?id=37941234) - [\"We have a thermal printer hooked up to the internet, you can send us a doodle\"](https://guestbook.goodenough.us/)
 * [2023-10-19, 10:59:28](https://news.ycombinator.com/item?id=37941119) - [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
 * [2023-10-19, 10:53:56](https://news.ycombinator.com/item?id=37941075) - [Build your own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 * [2023-10-19, 10:01:36](https://news.ycombinator.com/item?id=37940713) - [How not to hire a North Korean plant posing as a techie](https://www.theregister.com/2023/10/19/north_korea_fake_freelance_avoidance/)
