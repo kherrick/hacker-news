@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
+* [2023-10-19, 17:49:34](https://news.ycombinator.com/item?id=37946103) - [Meta Plans to Grow Threads by Ramming Its Posts to Facebook](https://gizmodo.com/meta-hopes-threads-grows-by-jamming-posts-into-facebook-1850940853)
+* [2023-10-19, 17:48:11](https://news.ycombinator.com/item?id=37946080) - [Instagram Apologizes for Inserting 'Terrorist' into Palestinian Bio Translations](https://www.404media.co/instagram-palestinian-arabic-bio-translation/)
+* [2023-10-19, 17:46:04](https://news.ycombinator.com/item?id=37946043) - [Google's 21-year deal with Apple is the \"heart\" of monopoly case, judge says](https://arstechnica.com/tech-policy/2023/10/googles-21-year-deal-with-apple-is-the-heart-of-monopoly-case-judge-says/)
+* [2023-10-19, 17:44:50](https://news.ycombinator.com/item?id=37946030) - [Convoy collapse: Read CEO's memo detailing shutdown of Seattle trucking startup](https://www.freightwaves.com/news/freight-brokerage-bubble-bursting-as-freight-markets-face-long-winter)
+* [2023-10-19, 17:44:01](https://news.ycombinator.com/item?id=37946023) - [The Killer Use Case for LLMs Is Summarization](https://www.sebastianmellen.com/post/2023/the-killer-use-case-for-llms-is-summarization/)
+* [2023-10-19, 17:43:46](https://news.ycombinator.com/item?id=37946017) - [Bezos-Backed Startup Convoy Closes Operations with No Buyer](https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer)
 * [2023-10-19, 17:02:10](https://news.ycombinator.com/item?id=37945452) - [DALL·E 3 is now available in ChatGPT Plus and Enterprise](https://openai.com/blog/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise)
 * [2023-10-19, 17:00:44](https://news.ycombinator.com/item?id=37945432) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-10-19, 16:06:52](https://news.ycombinator.com/item?id=37944745) - [The Case Against AI Everything, Everywhere, All at Once](https://time.com/6302761/ai-risks-autonomy/)
@@ -17,6 +24,7 @@
 * [2023-10-19, 15:19:56](https://news.ycombinator.com/item?id=37944101) - [Rust Is Surging Ahead in WebAssembly (For Now)](https://thenewstack.io/rust-is-surging-ahead-in-webassembly-for-now/)
 * [2023-10-19, 15:19:17](https://news.ycombinator.com/item?id=37944091) - [NASA asteroid sample contains life-critical water and carbon](https://phys.org/news/2023-10-nasa-asteroid-sample-life-critical-carbon.html)
 * [2023-10-19, 15:11:14](https://news.ycombinator.com/item?id=37943963) - [Wireless Is a Trap (2020)](https://www.benkuhn.net/wireless/)
+* [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
 * [2023-10-19, 14:29:45](https://news.ycombinator.com/item?id=37943408) - [Fructose is the main culprit of the obesity epidemic, study explains](https://studyfinds.org/fructose-obesity/)
 * [2023-10-19, 13:42:59](https://news.ycombinator.com/item?id=37942791) - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
