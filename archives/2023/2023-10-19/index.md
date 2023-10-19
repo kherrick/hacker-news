@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 18:06:06](https://news.ycombinator.com/item?id=37946306) - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
+* [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
 * [2023-10-19, 17:49:34](https://news.ycombinator.com/item?id=37946103) - [Meta Plans to Grow Threads by Ramming Its Posts to Facebook](https://gizmodo.com/meta-hopes-threads-grows-by-jamming-posts-into-facebook-1850940853)
 * [2023-10-19, 17:48:11](https://news.ycombinator.com/item?id=37946080) - [Instagram Apologizes for Inserting 'Terrorist' into Palestinian Bio Translations](https://www.404media.co/instagram-palestinian-arabic-bio-translation/)
