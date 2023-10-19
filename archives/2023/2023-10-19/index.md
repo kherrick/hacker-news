@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
+* [2023-10-19, 05:33:24](https://news.ycombinator.com/item?id=37938866) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
 * [2023-10-19, 04:57:23](https://news.ycombinator.com/item?id=37938636) - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
 * [2023-10-19, 04:20:22](https://news.ycombinator.com/item?id=37938343) - [Tell HN: Pet Projects vs. OSS Contribution](https://news.ycombinator.com/item?id=37938343)
 * [2023-10-19, 04:14:40](https://news.ycombinator.com/item?id=37938306) - [Welcome to Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1)
