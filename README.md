@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 09:04:40](https://news.ycombinator.com/item?id=37940317) - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 * [2023-10-19, 05:33:24](https://news.ycombinator.com/item?id=37938866) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
@@ -28,7 +29,6 @@
 * [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
 * [2023-10-18, 07:48:53](https://news.ycombinator.com/item?id=37925929) - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
 * [2023-10-18, 06:19:26](https://news.ycombinator.com/item?id=37925374) - [Fractional Factorial Experiment Design: There Are Too Many Experiments to Do](https://blog.demofox.org/2023/10/17/fractional-factorial-experiment-design-when-there-are-too-many-experiments-to-do/)
-* [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 09:04:40](https://news.ycombinator.com/item?id=37940317) - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
 * [2023-10-19, 07:46:33](https://news.ycombinator.com/item?id=37939749) - ['Reconciliation is dead': Indigenous Australians vow silence as referendum fails](https://www.reuters.com/world/asia-pacific/australian-indigenous-leaders-call-week-silence-after-referendum-defeat-2023-10-15/)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
