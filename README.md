@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 11:15:38](https://news.ycombinator.com/item?id=37941234) - [\"We have a thermal printer hooked up to the internet, you can send us a doodle\"](https://guestbook.goodenough.us/)
 * [2023-10-19, 10:59:53](https://news.ycombinator.com/item?id=37941123) - [Ditch the glass: It's time to bring back less-fragile plastic smartphones](https://www.notebookcheck.net/Ditch-the-glass-It-s-time-to-bring-back-less-fragile-plastic-smartphones.727130.0.html)
+* [2023-10-19, 10:59:28](https://news.ycombinator.com/item?id=37941119) - [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
+* [2023-10-19, 10:53:56](https://news.ycombinator.com/item?id=37941075) - [Build Your Own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 * [2023-10-19, 09:40:31](https://news.ycombinator.com/item?id=37940572) - [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
 * [2023-10-19, 09:04:40](https://news.ycombinator.com/item?id=37940317) - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
@@ -14,7 +17,6 @@
 * [2023-10-19, 03:13:09](https://news.ycombinator.com/item?id=37937894) - [13 States join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
 * [2023-10-19, 02:14:22](https://news.ycombinator.com/item?id=37937451) - [DRM-free e-books are a big deal (2019)](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
 * [2023-10-19, 01:00:33](https://news.ycombinator.com/item?id=37936917) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
-* [2023-10-18, 23:04:58](https://news.ycombinator.com/item?id=37936005) - [xVal: A continuous number encoding for large language models](https://arxiv.org/abs/2310.02989)
 * [2023-10-18, 22:00:05](https://news.ycombinator.com/item?id=37935353) - [Zero ASIC is out of stealth](https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 * [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using cloud dev environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
@@ -25,9 +27,7 @@
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
 * [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [A 1990 experiment to test whether we could discern life on Earth remotely](https://www.nature.com/articles/d41586-023-03230-z)
 * [2023-10-18, 09:40:04](https://news.ycombinator.com/item?id=37926566) - [Thirty Years Later, a Speed Boost for Quantum Factoring](https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017/)
-* [2023-10-18, 08:45:53](https://news.ycombinator.com/item?id=37926239) - [This is what the year actually looks like (2018)](https://nrkbeta.no/2018/01/01/this-is-what-the-year-actually-looks-like/)
 * [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
-* [2023-10-18, 07:48:53](https://news.ycombinator.com/item?id=37925929) - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
 * [2023-10-18, 06:19:26](https://news.ycombinator.com/item?id=37925374) - [Fractional Factorial Experiment Design: There Are Too Many Experiments to Do](https://blog.demofox.org/2023/10/17/fractional-factorial-experiment-design-when-there-are-too-many-experiments-to-do/)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 

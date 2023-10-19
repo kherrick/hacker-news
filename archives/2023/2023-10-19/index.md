@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 11:15:38](https://news.ycombinator.com/item?id=37941234) - [\"We have a thermal printer hooked up to the internet, you can send us a doodle\"](https://guestbook.goodenough.us/)
 * [2023-10-19, 10:59:53](https://news.ycombinator.com/item?id=37941123) - [Ditch the glass: It's time to bring back less-fragile plastic smartphones](https://www.notebookcheck.net/Ditch-the-glass-It-s-time-to-bring-back-less-fragile-plastic-smartphones.727130.0.html)
+* [2023-10-19, 10:59:28](https://news.ycombinator.com/item?id=37941119) - [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
+* [2023-10-19, 10:53:56](https://news.ycombinator.com/item?id=37941075) - [Build Your Own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 * [2023-10-19, 09:40:31](https://news.ycombinator.com/item?id=37940572) - [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
 * [2023-10-19, 09:04:40](https://news.ycombinator.com/item?id=37940317) - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
