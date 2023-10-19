@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
 * [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
+* [2023-10-19, 20:42:55](https://news.ycombinator.com/item?id=37948456) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
 * [2023-10-19, 20:22:35](https://news.ycombinator.com/item?id=37948200) - [Amazon begins testing Agility's Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
 * [2023-10-19, 20:19:14](https://news.ycombinator.com/item?id=37948163) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
 * [2023-10-19, 20:15:46](https://news.ycombinator.com/item?id=37948121) - [Elephant dies after her herd became agitated from a dog running loose](https://apnews.com/article/st-louis-zoo-elephant-death-loose-dog-5ad9cdc5b483c86b25b1adc21f013cc5)
+* [2023-10-19, 20:03:11](https://news.ycombinator.com/item?id=37947954) - [The Web Is for User Agency](https://berjon.com/user-agency/)
 * [2023-10-19, 19:48:49](https://news.ycombinator.com/item?id=37947772) - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-19, 19:48:08](https://news.ycombinator.com/item?id=37947763) - [Banging Errors in Go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 19:29:30](https://news.ycombinator.com/item?id=37947532) - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
