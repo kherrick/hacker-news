@@ -7,6 +7,7 @@
 * [2023-10-19, 09:40:31](https://news.ycombinator.com/item?id=37940572) - [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
 * [2023-10-19, 09:04:40](https://news.ycombinator.com/item?id=37940317) - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
+* [2023-10-19, 09:03:28](https://news.ycombinator.com/item?id=37940311) - [TanStack Query(a.k.a. React Query) v5 announced](https://tanstack.com/blog/announcing-tanstack-query-v5)
 * [2023-10-19, 07:46:33](https://news.ycombinator.com/item?id=37939749) - ['Reconciliation is dead': Indigenous Australians vow silence as referendum fails](https://www.reuters.com/world/asia-pacific/australian-indigenous-leaders-call-week-silence-after-referendum-defeat-2023-10-15/)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 * [2023-10-19, 05:33:24](https://news.ycombinator.com/item?id=37938866) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
