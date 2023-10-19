@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-19, 04:20:22](https://news.ycombinator.com/item?id=37938343) - [Tell HN: Pet Projects vs. OSS Contribution](https://news.ycombinator.com/item?id=37938343)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-19, 02:23:55](https://news.ycombinator.com/item?id=37937528) - [30-year fixed mortgage rate just hit 8% for the first time since 2000](https://www.cnbc.com/2023/10/18/30-year-fixed-mortgage-rate-just-hit-8percent-for-the-first-time-since-2000.html)
 * [2023-10-19, 02:14:22](https://news.ycombinator.com/item?id=37937451) - [DRM-free e-books are a big deal (2019)](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
@@ -20,6 +19,7 @@
 * [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The fake browser update scam gets a makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
 * [2023-10-18, 15:18:55](https://news.ycombinator.com/item?id=37929904) - [Yamaha TX81Z Homepage](https://mgregory22.me/tx81z/index.html)
+* [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [A 1990 experiment to test whether we could discern life on Earth remotely](https://www.nature.com/articles/d41586-023-03230-z)
 * [2023-10-18, 09:33:35](https://news.ycombinator.com/item?id=37926525) - [Add Friction to Your Onboarding](https://wraptext.equals.com/why-you-should-add-friction-to-your-onboarding/)
 * [2023-10-18, 08:45:53](https://news.ycombinator.com/item?id=37926239) - [This is what the year actually looks like (2018)](https://nrkbeta.no/2018/01/01/this-is-what-the-year-actually-looks-like/)
 * [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
