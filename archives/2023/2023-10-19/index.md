@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-10-19, 20:22:35](https://news.ycombinator.com/item?id=37948200) - [Amazon begins testing Agility's Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
 * [2023-10-19, 20:19:14](https://news.ycombinator.com/item?id=37948163) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
 * [2023-10-19, 20:15:46](https://news.ycombinator.com/item?id=37948121) - [Elephant dies after her herd became agitated from a dog running loose](https://apnews.com/article/st-louis-zoo-elephant-death-loose-dog-5ad9cdc5b483c86b25b1adc21f013cc5)
@@ -12,6 +13,7 @@
 * [2023-10-19, 19:29:30](https://news.ycombinator.com/item?id=37947532) - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
 * [2023-10-19, 19:22:34](https://news.ycombinator.com/item?id=37947432) - [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
 * [2023-10-19, 19:19:29](https://news.ycombinator.com/item?id=37947390) - [Underrated Feature on a Chromebook: Install with Linux](https://www.aboutchromebooks.com/news/how-to-use-the-most-underrated-chromeos-feature-on-a-chromebook-install-with-linux/)
+* [2023-10-19, 19:19:11](https://news.ycombinator.com/item?id=37947383) - [Tesla Earnings Slide 37%](https://www.investors.com/news/tesla-earnings-slide-37-cybertruck-coming-margins-bottomed/)
 * [2023-10-19, 19:07:30](https://news.ycombinator.com/item?id=37947223) - [Cruise's Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
 * [2023-10-19, 19:06:08](https://news.ycombinator.com/item?id=37947205) - [Ask HN: Do tools like Copilot or ChatGPT4 help you code?](https://news.ycombinator.com/item?id=37947205)
 * [2023-10-19, 19:06:07](https://news.ycombinator.com/item?id=37947204) - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)
