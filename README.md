@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 02:14:22](https://news.ycombinator.com/item?id=37937451) - [It is important that ebooks be sold without DRM](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
 * [2023-10-19, 01:57:43](https://news.ycombinator.com/item?id=37937345) - [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
+* [2023-10-19, 01:35:32](https://news.ycombinator.com/item?id=37937165) - [Big layoffs coming at Convoy, a logistics startup backed by Bezos and Gates](https://www.axios.com/2023/10/18/convoy-gates-bezos-layoffs-trucking)
 * [2023-10-19, 01:05:36](https://news.ycombinator.com/item?id=37936956) - [Retroactive: Run Aperture, iPhoto and iTunes on macOS Ventura, Monterey, Big Sur](https://github.com/cormiertyshawn895/Retroactive)
 * [2023-10-19, 01:02:58](https://news.ycombinator.com/item?id=37936940) - [Consortium launched to build the largest open LLM](https://www.utu.fi/en/news/press-release/university-of-turku-and-silogen-launch-consortium-to-build-the-worlds-largest)
 * [2023-10-19, 01:00:33](https://news.ycombinator.com/item?id=37936917) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
@@ -23,9 +25,7 @@
 * [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [A 1990 experiment to test whether we could discern life on Earth remotely](https://www.nature.com/articles/d41586-023-03230-z)
 * [2023-10-18, 11:48:56](https://news.ycombinator.com/item?id=37927344) - [What is the Demoscene? An interview](https://onthearts.com/p/what-is-the-demoscene)
 * [2023-10-18, 09:33:35](https://news.ycombinator.com/item?id=37926525) - [Add Friction to Your Onboarding](https://wraptext.equals.com/why-you-should-add-friction-to-your-onboarding/)
-* [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
 * [2023-10-18, 07:48:53](https://news.ycombinator.com/item?id=37925929) - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
-* [2023-10-18, 06:51:06](https://news.ycombinator.com/item?id=37925538) - [The Ur-Quan Masters: Open-source remake of Star Control II](http://theurquanmasters.com/)
 * [2023-10-18, 06:19:26](https://news.ycombinator.com/item?id=37925374) - [Fractional Factorial Experiment Design: There Are Too Many Experiments to Do](https://blog.demofox.org/2023/10/17/fractional-factorial-experiment-design-when-there-are-too-many-experiments-to-do/)
 * [2023-10-17, 23:04:51](https://news.ycombinator.com/item?id=37922748) - [Winsorized mean](https://en.wikipedia.org/wiki/Winsorized_mean)
 * [2023-10-17, 08:42:20](https://news.ycombinator.com/item?id=37912168) - [Bill Gates demonstrates Visual Basic (1991) [video]](https://www.youtube.com/watch?v=Fh_UDQnboRw)
