@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
+* [2023-10-19, 14:29:45](https://news.ycombinator.com/item?id=37943408) - [Fructose is the main culprit of the obesity epidemic, study explains](https://studyfinds.org/fructose-obesity/)
 * [2023-10-19, 13:42:59](https://news.ycombinator.com/item?id=37942791) - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
+* [2023-10-19, 13:39:33](https://news.ycombinator.com/item?id=37942747) - [42 is the answer to these 5 fundamental questions](https://bigthink.com/starts-with-a-bang/42-answer-fundamental-questions/)
 * [2023-10-19, 13:26:18](https://news.ycombinator.com/item?id=37942574) - [Mojo is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
 * [2023-10-19, 13:01:44](https://news.ycombinator.com/item?id=37942303) - [Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
 * [2023-10-19, 12:45:28](https://news.ycombinator.com/item?id=37942114) - [There's a new way to flip bits in DRAM, and it works against the latest defenses](https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/)
@@ -24,11 +27,8 @@
 * [2023-10-19, 02:14:22](https://news.ycombinator.com/item?id=37937451) - [DRM-free e-books are a big deal (2019)](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
 * [2023-10-18, 20:26:04](https://news.ycombinator.com/item?id=37934324) - [Spacedrive: Unify files from all your devices and clouds into one explorer](https://www.spacedrive.com/)
 * [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Reflect – Multiplayer web app framework with game-style synchronization](https://rocicorp.dev/blog/ready-player-two)
-* [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The fake browser update scam gets a makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
-* [2023-10-18, 09:40:04](https://news.ycombinator.com/item?id=37926566) - [Thirty Years Later, a Speed Boost for Quantum Factoring](https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017/)
 * [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
-* [2023-10-18, 06:19:26](https://news.ycombinator.com/item?id=37925374) - [Fractional Factorial Experiment Design: There Are Too Many Experiments to Do](https://blog.demofox.org/2023/10/17/fractional-factorial-experiment-design-when-there-are-too-many-experiments-to-do/)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)

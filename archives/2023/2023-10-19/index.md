@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
+* [2023-10-19, 14:29:45](https://news.ycombinator.com/item?id=37943408) - [Fructose is the main culprit of the obesity epidemic, study explains](https://studyfinds.org/fructose-obesity/)
 * [2023-10-19, 13:42:59](https://news.ycombinator.com/item?id=37942791) - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
+* [2023-10-19, 13:39:33](https://news.ycombinator.com/item?id=37942747) - [42 is the answer to these 5 fundamental questions](https://bigthink.com/starts-with-a-bang/42-answer-fundamental-questions/)
 * [2023-10-19, 13:26:18](https://news.ycombinator.com/item?id=37942574) - [Mojo is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
 * [2023-10-19, 13:11:11](https://news.ycombinator.com/item?id=37942403) - [Nokia to erase up to 14,000 employees from payroll](https://www.theregister.com/2023/10/19/nokia_to_erase_up_to/)
 * [2023-10-19, 13:01:44](https://news.ycombinator.com/item?id=37942303) - [Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
