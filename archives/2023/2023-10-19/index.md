@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-19, 02:49:44](https://news.ycombinator.com/item?id=37937733) - [To YouTube: I'd gladly pay you if your website was de-bloated and fast like this](https://piped.kavin.rocks/trending)
 * [2023-10-19, 02:28:24](https://news.ycombinator.com/item?id=37937562) - [Instead of YouTube, use Invidious; Instead of subscribing to channels, use RSS](https://old.reddit.com/r/palemoon/comments/uo2ux9/how_to_make_your_life_easier_with_invidious/)
+* [2023-10-19, 02:23:55](https://news.ycombinator.com/item?id=37937528) - [30-year fixed mortgage rate just hit 8% for the first time since 2000](https://www.cnbc.com/2023/10/18/30-year-fixed-mortgage-rate-just-hit-8percent-for-the-first-time-since-2000.html)
 * [2023-10-19, 02:14:22](https://news.ycombinator.com/item?id=37937451) - [It is important that ebooks be sold without DRM](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
 * [2023-10-19, 01:57:43](https://news.ycombinator.com/item?id=37937345) - [United Airlines plans to board passengers with window seats first](https://www.cbsnews.com/news/united-air-window-seats-economy-class-board-first-wilma-plan/)
 * [2023-10-19, 01:35:32](https://news.ycombinator.com/item?id=37937165) - [Big layoffs coming at Convoy, a logistics startup backed by Bezos and Gates](https://www.axios.com/2023/10/18/convoy-gates-bezos-layoffs-trucking)
