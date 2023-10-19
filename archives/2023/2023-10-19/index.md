@@ -14,6 +14,7 @@
 * [2023-10-19, 21:24:33](https://news.ycombinator.com/item?id=37948922) - [Product Hunt cleans house with layoffs impacting 60% of staff](https://techcrunch.com/2023/10/19/product-hunt-cleans-house-with-layoffs-impacting-60-of-staff/)
 * [2023-10-19, 21:04:53](https://news.ycombinator.com/item?id=37948703) - [Scottish couple facing $33k repair bill after driving Tesla in heavy rain](https://www.carexpert.com.au/car-news/scottish-couple-facing-33k-repair-bill-after-driving-tesla-in-heavy-rain)
 * [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
+* [2023-10-19, 20:59:52](https://news.ycombinator.com/item?id=37948648) - [DALL-E 3: Improving image generation with better captions [pdf]](https://cdn.openai.com/papers/dall-e-3.pdf)
 * [2023-10-19, 20:42:55](https://news.ycombinator.com/item?id=37948456) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
 * [2023-10-19, 20:22:35](https://news.ycombinator.com/item?id=37948200) - [Amazon begins testing Agility's Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
 * [2023-10-19, 20:19:14](https://news.ycombinator.com/item?id=37948163) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
