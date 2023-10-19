@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 13:26:18](https://news.ycombinator.com/item?id=37942574) - [Mojo is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
+* [2023-10-19, 13:11:11](https://news.ycombinator.com/item?id=37942403) - [Nokia to erase up to 14,000 employees from payroll](https://www.theregister.com/2023/10/19/nokia_to_erase_up_to/)
 * [2023-10-19, 13:01:44](https://news.ycombinator.com/item?id=37942303) - [Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
 * [2023-10-19, 12:46:38](https://news.ycombinator.com/item?id=37942128) - [YouTube launches new page that only shows videos from \"authoritative\" sources](https://www.niemanlab.org/2023/10/youtube-launches-new-watch-page-that-only-shows-videos-from-authoritative-news-sources/)
 * [2023-10-19, 12:45:28](https://news.ycombinator.com/item?id=37942114) - [There's a new way to flip bits in DRAM, and it works against the latest defenses](https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/)
