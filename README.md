@@ -2,7 +2,6 @@
 
 * [2023-10-19, 17:02:10](https://news.ycombinator.com/item?id=37945452) - [DALL·E 3 is now available in ChatGPT Plus and Enterprise](https://openai.com/blog/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise)
 * [2023-10-19, 17:00:44](https://news.ycombinator.com/item?id=37945432) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
-* [2023-10-19, 16:06:52](https://news.ycombinator.com/item?id=37944745) - [The case against AI everything, everywhere, all at once](https://time.com/6302761/ai-risks-autonomy/)
 * [2023-10-19, 16:02:51](https://news.ycombinator.com/item?id=37944691) - [Even a laptop can run RAM externally thanks to a little-known tech called CXL](https://www.techradar.com/pro/even-a-laptop-can-run-ram-externally-thanks-to-a-little-known-tech-called-cxl-but-its-not-for-sale-to-mere-mortals-who-only-want-1tb-of-ram)
 * [2023-10-19, 16:01:59](https://news.ycombinator.com/item?id=37944680) - [FCC moves ahead with Title II net neutrality rules in 3-2 party-line vote](https://arstechnica.com/tech-policy/2023/10/fcc-moves-ahead-with-title-ii-net-neutrality-rules-in-3-2-party-line-vote/)
 * [2023-10-19, 15:30:18](https://news.ycombinator.com/item?id=37944269) - [Researchers identify largest ever solar storm in 14,300-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
@@ -26,6 +25,7 @@
 * [2023-10-19, 08:54:51](https://news.ycombinator.com/item?id=37940249) - [Show HN: Open-source background removal in Node.js](https://www.npmjs.com/package/@imgly/background-removal-node)
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
 * [2023-10-19, 05:33:24](https://news.ycombinator.com/item?id=37938866) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
+* [2023-10-19, 04:57:23](https://news.ycombinator.com/item?id=37938636) - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-18, 20:26:04](https://news.ycombinator.com/item?id=37934324) - [Spacedrive: Unify files from all your devices and clouds into one explorer](https://www.spacedrive.com/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
