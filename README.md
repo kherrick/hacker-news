@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 07:46:33](https://news.ycombinator.com/item?id=37939749) - ['Reconciliation is dead': Indigenous Australians vow silence as referendum fails](https://www.reuters.com/world/asia-pacific/australian-indigenous-leaders-call-week-silence-after-referendum-defeat-2023-10-15/)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 * [2023-10-19, 05:33:24](https://news.ycombinator.com/item?id=37938866) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
 * [2023-10-19, 04:57:23](https://news.ycombinator.com/item?id=37938636) - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
@@ -12,7 +13,6 @@
 * [2023-10-18, 23:04:58](https://news.ycombinator.com/item?id=37936005) - [xVal: A continuous number encoding for large language models](https://arxiv.org/abs/2310.02989)
 * [2023-10-18, 22:00:05](https://news.ycombinator.com/item?id=37935353) - [Zero ASIC is out of stealth](https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
-* [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using cloud dev environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
 * [2023-10-18, 20:36:19](https://news.ycombinator.com/item?id=37934439) - [gRPC request context which caries values across microservice boundaries](https://github.com/konigsoftware/konig-kontext)
 * [2023-10-18, 20:26:04](https://news.ycombinator.com/item?id=37934324) - [Spacedrive: Unify files from all your devices and clouds into one explorer](https://www.spacedrive.com/)
 * [2023-10-18, 19:23:41](https://news.ycombinator.com/item?id=37933497) - [BPF Tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
