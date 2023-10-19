@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 21:45:42](https://news.ycombinator.com/item?id=37949144) - [Americans Must Earn $114,000 a Year to Afford a Typical Home](https://www.bloomberg.com/news/articles/2023-10-19/how-much-do-i-need-to-make-to-buy-a-house-114-000-according-to-redfin)
 * [2023-10-19, 21:43:09](https://news.ycombinator.com/item?id=37949118) - [Ask HN: Did you change career paths after 30?](https://news.ycombinator.com/item?id=37949118)
 * [2023-10-19, 21:25:55](https://news.ycombinator.com/item?id=37948938) - [Ketamine's effect on depression may hinge on hope](https://med.stanford.edu/news/all-news/2023/10/ketamine.html)
+* [2023-10-19, 21:24:33](https://news.ycombinator.com/item?id=37948922) - [Product Hunt cleans house with layoffs impacting 60% of staff](https://techcrunch.com/2023/10/19/product-hunt-cleans-house-with-layoffs-impacting-60-of-staff/)
 * [2023-10-19, 21:04:53](https://news.ycombinator.com/item?id=37948703) - [Scottish couple facing $33k repair bill after driving Tesla in heavy rain](https://www.carexpert.com.au/car-news/scottish-couple-facing-33k-repair-bill-after-driving-tesla-in-heavy-rain)
 * [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-10-19, 20:42:55](https://news.ycombinator.com/item?id=37948456) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
