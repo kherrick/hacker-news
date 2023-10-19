@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 09:40:31](https://news.ycombinator.com/item?id=37940572) - [LocalPilot: Open-source GitHub Copilot on your MacBook](https://github.com/danielgross/localpilot)
 * [2023-10-19, 09:04:40](https://news.ycombinator.com/item?id=37940317) - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
@@ -22,7 +23,6 @@
 * [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The fake browser update scam gets a makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
 * [2023-10-18, 12:37:29](https://news.ycombinator.com/item?id=37927734) - [A 1990 experiment to test whether we could discern life on Earth remotely](https://www.nature.com/articles/d41586-023-03230-z)
-* [2023-10-18, 11:48:56](https://news.ycombinator.com/item?id=37927344) - [What is the Demoscene? An interview](https://onthearts.com/p/what-is-the-demoscene)
 * [2023-10-18, 09:40:04](https://news.ycombinator.com/item?id=37926566) - [Thirty Years Later, a Speed Boost for Quantum Factoring](https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017/)
 * [2023-10-18, 09:33:35](https://news.ycombinator.com/item?id=37926525) - [Add Friction to Your Onboarding](https://wraptext.equals.com/why-you-should-add-friction-to-your-onboarding/)
 * [2023-10-18, 08:45:53](https://news.ycombinator.com/item?id=37926239) - [This is what the year actually looks like (2018)](https://nrkbeta.no/2018/01/01/this-is-what-the-year-actually-looks-like/)
