@@ -9,6 +9,7 @@
 * [2023-10-19, 13:42:59](https://news.ycombinator.com/item?id=37942791) - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
 * [2023-10-19, 13:39:33](https://news.ycombinator.com/item?id=37942747) - [42 is the answer to these 5 fundamental questions](https://bigthink.com/starts-with-a-bang/42-answer-fundamental-questions/)
 * [2023-10-19, 13:26:18](https://news.ycombinator.com/item?id=37942574) - [Mojo is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac)
+* [2023-10-19, 13:12:05](https://news.ycombinator.com/item?id=37942418) - [AMD Introduces New AMD Ryzen Threadripper 7000/Pro 7000 WX](https://ir.amd.com/news-events/press-releases/detail/1162/amd-introduces-new-amd-ryzen-threadripper-7000-series)
 * [2023-10-19, 13:11:11](https://news.ycombinator.com/item?id=37942403) - [Nokia to erase up to 14,000 employees from payroll](https://www.theregister.com/2023/10/19/nokia_to_erase_up_to/)
 * [2023-10-19, 13:01:44](https://news.ycombinator.com/item?id=37942303) - [Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
 * [2023-10-19, 12:46:38](https://news.ycombinator.com/item?id=37942128) - [YouTube launches new page that only shows videos from \"authoritative\" sources](https://www.niemanlab.org/2023/10/youtube-launches-new-watch-page-that-only-shows-videos-from-authoritative-news-sources/)
