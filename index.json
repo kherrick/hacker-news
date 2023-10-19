@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-19, 22:40:29",
+      "https://news.ycombinator.com/item?id=37949789"
+    ],
+    [
+      "Clearview doesn't let Europeans delete themselves anymore",
+      "https://twitter.com/kashhill/status/1715048994223567281"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 22:28:19",
+      "https://news.ycombinator.com/item?id=37949656"
+    ],
+    [
+      "Research repository ArXiv receives $10M for upgrades",
+      "https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 22:16:19",
       "https://news.ycombinator.com/item?id=37949503"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2023-10-19, 21:45:42",
-      "https://news.ycombinator.com/item?id=37949144"
+      "2023-10-19, 21:54:13",
+      "https://news.ycombinator.com/item?id=37949243"
     ],
     [
-      "Americans Must Earn $114,000 a Year to Afford a Typical Home",
-      "https://www.bloomberg.com/news/articles/2023-10-19/how-much-do-i-need-to-make-to-buy-a-house-114-000-according-to-redfin"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 21:43:09",
-      "https://news.ycombinator.com/item?id=37949118"
-    ],
-    [
-      "Ask HN: Did you change career paths after 30?",
-      "https://news.ycombinator.com/item?id=37949118"
+      "Bezos-backed freight firm Convoy shuts down after slashing hundreds of jobs",
+      "https://www.cnbc.com/2023/10/19/bezos-backed-freight-firm-convoy-shuts-down-read-ceo-memo-here.html"
     ]
   ],
   [
@@ -41,21 +51,11 @@
   ],
   [
     [
-      "2023-10-19, 21:24:33",
-      "https://news.ycombinator.com/item?id=37948922"
-    ],
-    [
-      "Product Hunt cleans house with layoffs impacting 60% of staff",
-      "https://techcrunch.com/2023/10/19/product-hunt-cleans-house-with-layoffs-impacting-60-of-staff/"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 21:00:47",
       "https://news.ycombinator.com/item?id=37948658"
     ],
     [
-      "Laylo (YC S20) Is Hiring a Lead Growth Engineer",
+      "Laylo (YC S20) is hiring a lead growth engineer",
       "https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer"
     ]
   ],
@@ -87,6 +87,16 @@
     [
       "Apple's use of Swift and SwiftUI in iOS 17",
       "https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 19:48:08",
+      "https://news.ycombinator.com/item?id=37947763"
+    ],
+    [
+      "Banging errors in Go",
+      "https://flak.tedunangst.com/post/bango"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Linux runtime security agent powered by eBPF",
       "https://github.com/Exein-io/pulsar"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 12:45:28",
-      "https://news.ycombinator.com/item?id=37942114"
-    ],
-    [
-      "There's a new way to flip bits in DRAM, and it works against the latest defenses",
-      "https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/"
     ]
   ],
   [
