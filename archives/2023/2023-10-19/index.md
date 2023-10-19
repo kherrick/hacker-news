@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 13:01:44](https://news.ycombinator.com/item?id=37942303) - [Is POSIX really outdated?](https://cuno.io/blog/is-posix-outdated-in-the-cloud-era/)
 * [2023-10-19, 12:46:38](https://news.ycombinator.com/item?id=37942128) - [YouTube launches new page that only shows videos from \"authoritative\" sources](https://www.niemanlab.org/2023/10/youtube-launches-new-watch-page-that-only-shows-videos-from-authoritative-news-sources/)
+* [2023-10-19, 12:45:28](https://news.ycombinator.com/item?id=37942114) - [There's a new way to flip bits in DRAM, and it works against the latest defenses](https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/)
 * [2023-10-19, 12:38:04](https://news.ycombinator.com/item?id=37942022) - [Amazon Let Its Drivers' Urine Be Sold as an Energy Drink](https://www.wired.com/story/amazon-let-its-drivers-urine-be-sold-as-an-energy-drink/)
 * [2023-10-19, 12:24:17](https://news.ycombinator.com/item?id=37941881) - [Tech Billionaire Peter Thiel Was an FBI Informant](https://www.businessinsider.com/peter-thiel-fbi-informant-charles-johnson-johnathan-buma-chs-genius-2023-10)
 * [2023-10-19, 12:15:59](https://news.ycombinator.com/item?id=37941807) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges)
