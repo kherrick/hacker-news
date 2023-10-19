@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 12:24:17](https://news.ycombinator.com/item?id=37941881) - [Tech Billionaire Peter Thiel Was an FBI Informant](https://www.businessinsider.com/peter-thiel-fbi-informant-charles-johnson-johnathan-buma-chs-genius-2023-10)
+* [2023-10-19, 12:15:59](https://news.ycombinator.com/item?id=37941807) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges)
+* [2023-10-19, 12:09:21](https://news.ycombinator.com/item?id=37941751) - [Nvidia and Foxconn to build 'AI factories'](https://www.bbc.com/news/business-67153669)
+* [2023-10-19, 12:07:19](https://news.ycombinator.com/item?id=37941727) - [Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
 * [2023-10-19, 12:00:24](https://news.ycombinator.com/item?id=37941675) - [Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
+* [2023-10-19, 11:38:30](https://news.ycombinator.com/item?id=37941459) - [AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations](https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/)
+* [2023-10-19, 11:15:52](https://news.ycombinator.com/item?id=37941235) - [What Caroline Ellison's Testimony in SBF Trial Says on Loneliness and Workplace](https://www.forbes.com/sites/lisaconn/2023/10/16/what-caroline-ellisons-testimony-in-sam-bankman-fried-trial-says-about-loneliness-and-the-workplace/)
 * [2023-10-19, 11:15:38](https://news.ycombinator.com/item?id=37941234) - [\"We have a thermal printer hooked up to the internet, you can send us a doodle\"](https://guestbook.goodenough.us/)
 * [2023-10-19, 10:59:53](https://news.ycombinator.com/item?id=37941123) - [Ditch the glass: It's time to bring back less-fragile plastic smartphones](https://www.notebookcheck.net/Ditch-the-glass-It-s-time-to-bring-back-less-fragile-plastic-smartphones.727130.0.html)
 * [2023-10-19, 10:59:28](https://news.ycombinator.com/item?id=37941119) - [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
@@ -14,6 +20,7 @@
 * [2023-10-19, 09:04:40](https://news.ycombinator.com/item?id=37940317) - [Nokia to axe up to 14,000 jobs to cut costs](https://www.bbc.co.uk/news/business-67153676)
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
 * [2023-10-19, 09:03:28](https://news.ycombinator.com/item?id=37940311) - [TanStack Query(a.k.a. React Query) v5 announced](https://tanstack.com/blog/announcing-tanstack-query-v5)
+* [2023-10-19, 08:54:51](https://news.ycombinator.com/item?id=37940249) - [Show HN: Open-source background removal in Node.js](https://www.npmjs.com/package/@imgly/background-removal-node)
 * [2023-10-19, 07:46:33](https://news.ycombinator.com/item?id=37939749) - ['Reconciliation is dead': Indigenous Australians vow silence as referendum fails](https://www.reuters.com/world/asia-pacific/australian-indigenous-leaders-call-week-silence-after-referendum-defeat-2023-10-15/)
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
