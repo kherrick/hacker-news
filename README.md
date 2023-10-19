@@ -20,7 +20,6 @@
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans ate seaweed for thousands of years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
 * [2023-10-19, 14:22:04](https://news.ycombinator.com/item?id=37943308) - [Rip – Rust crate to resolve and install Python packages](https://prefix.dev/blog/introducing_rip)
 * [2023-10-19, 13:42:59](https://news.ycombinator.com/item?id=37942791) - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
-* [2023-10-19, 13:12:05](https://news.ycombinator.com/item?id=37942418) - [AMD Introduces New AMD Ryzen Threadripper 7000/Pro 7000 WX](https://ir.amd.com/news-events/press-releases/detail/1162/amd-introduces-new-amd-ryzen-threadripper-7000-series)
 * [2023-10-19, 12:45:28](https://news.ycombinator.com/item?id=37942114) - [There's a new way to flip bits in DRAM, and it works against the latest defenses](https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/)
 * [2023-10-19, 11:34:35](https://news.ycombinator.com/item?id=37941413) - [Show HN: One makefile to rule them all](https://gist.github.com/LiquidityC/c832cd3d8394f267299d43b1f1719e90)
 * [2023-10-19, 10:59:28](https://news.ycombinator.com/item?id=37941119) - [Requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
@@ -29,6 +28,7 @@
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
 * [2023-10-19, 06:31:33](https://news.ycombinator.com/item?id=37939263) - [Advice from \"pracademics\" of how to apply ecological dynamics theory to practice](https://www.frontiersin.org/articles/10.3389/fspor.2023.1192332/full)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
+* [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)

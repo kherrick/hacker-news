@@ -54,6 +54,7 @@
 * [2023-10-18, 16:46:44](https://news.ycombinator.com/item?id=37931294) - [Fuyu-8B: A multimodal architecture for AI agents](https://www.adept.ai/blog/fuyu-8b)
 * [2023-10-18, 16:45:57](https://news.ycombinator.com/item?id=37931287) - [Bank of America's unrealized losses on securities rose to $131.6B](https://www.reuters.com/business/finance/bank-americas-unrealized-losses-securities-rose-1316-bln-2023-10-17/)
 * [2023-10-18, 16:39:19](https://news.ycombinator.com/item?id=37931181) - [State of Online Privacy Reaches 'Creepy' Level](https://foundation.mozilla.org/fr/blog/state-of-online-privacy-reaches-very-creepy-level-finds-mozillas-first-annual-consumer-creep-o-meter/)
+* [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [2023-10-18, 16:21:06](https://news.ycombinator.com/item?id=37930927) - [Amazon reaches 10000 Rivian electric delivery vans in U.S.](https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/)
 * [2023-10-18, 16:13:42](https://news.ycombinator.com/item?id=37930821) - [What's New in Python 3.12](https://docs.python.org/3/whatsnew/3.12.html)
 * [2023-10-18, 16:04:18](https://news.ycombinator.com/item?id=37930663) - [AMD, Arm, Intel, Meta, Microsoft, Nvidia, Qualcomm Standardize New AI Datatypes](https://www.opencompute.org/blog/amd-arm-intel-meta-microsoft-nvidia-and-qualcomm-standardize-next-generation-narrow-precision-data-formats-for-ai)
