@@ -7,6 +7,7 @@
 * [2023-10-19, 04:57:23](https://news.ycombinator.com/item?id=37938636) - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
 * [2023-10-19, 04:20:22](https://news.ycombinator.com/item?id=37938343) - [Tell HN: Pet Projects vs. OSS Contribution](https://news.ycombinator.com/item?id=37938343)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
+* [2023-10-19, 03:13:09](https://news.ycombinator.com/item?id=37937894) - [13 States join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
 * [2023-10-19, 02:49:44](https://news.ycombinator.com/item?id=37937733) - [To YouTube: I'd gladly pay you if your website was de-bloated and fast like this](https://piped.kavin.rocks/trending)
 * [2023-10-19, 02:28:24](https://news.ycombinator.com/item?id=37937562) - [Instead of YouTube, use Invidious; Instead of subscribing to channels, use RSS](https://old.reddit.com/r/palemoon/comments/uo2ux9/how_to_make_your_life_easier_with_invidious/)
 * [2023-10-19, 02:23:55](https://news.ycombinator.com/item?id=37937528) - [30-year fixed mortgage rate just hit 8% for the first time since 2000](https://www.cnbc.com/2023/10/18/30-year-fixed-mortgage-rate-just-hit-8percent-for-the-first-time-since-2000.html)
