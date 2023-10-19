@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 21:43:09](https://news.ycombinator.com/item?id=37949118) - [Ask HN: Did you change career paths after 30?](https://news.ycombinator.com/item?id=37949118)
+* [2023-10-19, 21:25:55](https://news.ycombinator.com/item?id=37948938) - [Ketamine's effect on depression may hinge on hope](https://med.stanford.edu/news/all-news/2023/10/ketamine.html)
 * [2023-10-19, 21:04:53](https://news.ycombinator.com/item?id=37948703) - [Scottish couple facing $33k repair bill after driving Tesla in heavy rain](https://www.carexpert.com.au/car-news/scottish-couple-facing-33k-repair-bill-after-driving-tesla-in-heavy-rain)
 * [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-10-19, 20:42:55](https://news.ycombinator.com/item?id=37948456) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
@@ -85,6 +87,7 @@
 * [2023-10-19, 09:03:35](https://news.ycombinator.com/item?id=37940315) - [Monty Python and the Holy Grail 48 1/2 year anniversary in theaters December](https://www.youtube.com/watch?v=4b52A3sKz-I)
 * [2023-10-19, 09:03:28](https://news.ycombinator.com/item?id=37940311) - [TanStack Query(a.k.a. React Query) v5 announced](https://tanstack.com/blog/announcing-tanstack-query-v5)
 * [2023-10-19, 08:54:51](https://news.ycombinator.com/item?id=37940249) - [Show HN: Open-source background removal in Node.js](https://www.npmjs.com/package/@imgly/background-removal-node)
+* [2023-10-19, 07:48:28](https://news.ycombinator.com/item?id=37939764) - [Libre Silicon – Free semiconductors for everyone](https://libresilicon.com/)
 * [2023-10-19, 07:46:33](https://news.ycombinator.com/item?id=37939749) - ['Reconciliation is dead': Indigenous Australians vow silence as referendum fails](https://www.reuters.com/world/asia-pacific/australian-indigenous-leaders-call-week-silence-after-referendum-defeat-2023-10-15/)
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
