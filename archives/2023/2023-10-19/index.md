@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 17:02:10](https://news.ycombinator.com/item?id=37945452) - [DALL·E 3 is now available in ChatGPT Plus and Enterprise](https://openai.com/blog/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise)
 * [2023-10-19, 17:00:44](https://news.ycombinator.com/item?id=37945432) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-10-19, 16:06:52](https://news.ycombinator.com/item?id=37944745) - [The Case Against AI Everything, Everywhere, All at Once](https://time.com/6302761/ai-risks-autonomy/)
 * [2023-10-19, 16:02:51](https://news.ycombinator.com/item?id=37944691) - [Even a laptop can run RAM externally thanks to a little-known tech called CXL](https://www.techradar.com/pro/even-a-laptop-can-run-ram-externally-thanks-to-a-little-known-tech-called-cxl-but-its-not-for-sale-to-mere-mortals-who-only-want-1tb-of-ram)
@@ -15,6 +16,7 @@
 * [2023-10-19, 15:25:56](https://news.ycombinator.com/item?id=37944198) - [Mikiphone: The First Pocket Record Player](https://rarehistoricalphotos.com/mikiphone/)
 * [2023-10-19, 15:19:56](https://news.ycombinator.com/item?id=37944101) - [Rust Is Surging Ahead in WebAssembly (For Now)](https://thenewstack.io/rust-is-surging-ahead-in-webassembly-for-now/)
 * [2023-10-19, 15:19:17](https://news.ycombinator.com/item?id=37944091) - [NASA asteroid sample contains life-critical water and carbon](https://phys.org/news/2023-10-nasa-asteroid-sample-life-critical-carbon.html)
+* [2023-10-19, 15:11:14](https://news.ycombinator.com/item?id=37943963) - [Wireless Is a Trap (2020)](https://www.benkuhn.net/wireless/)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
 * [2023-10-19, 14:29:45](https://news.ycombinator.com/item?id=37943408) - [Fructose is the main culprit of the obesity epidemic, study explains](https://studyfinds.org/fructose-obesity/)
 * [2023-10-19, 13:42:59](https://news.ycombinator.com/item?id=37942791) - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
@@ -33,6 +35,7 @@
 * [2023-10-19, 12:07:19](https://news.ycombinator.com/item?id=37941727) - [Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
 * [2023-10-19, 12:00:24](https://news.ycombinator.com/item?id=37941675) - [Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
 * [2023-10-19, 11:38:30](https://news.ycombinator.com/item?id=37941459) - [AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations](https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/)
+* [2023-10-19, 11:34:35](https://news.ycombinator.com/item?id=37941413) - [Show HN: One makefile to rule them all](https://gist.github.com/LiquidityC/c832cd3d8394f267299d43b1f1719e90)
 * [2023-10-19, 11:15:52](https://news.ycombinator.com/item?id=37941235) - [What Caroline Ellison's Testimony in SBF Trial Says on Loneliness and Workplace](https://www.forbes.com/sites/lisaconn/2023/10/16/what-caroline-ellisons-testimony-in-sam-bankman-fried-trial-says-about-loneliness-and-the-workplace/)
 * [2023-10-19, 11:15:38](https://news.ycombinator.com/item?id=37941234) - [\"We have a thermal printer hooked up to the internet, you can send us a doodle\"](https://guestbook.goodenough.us/)
 * [2023-10-19, 10:59:53](https://news.ycombinator.com/item?id=37941123) - [Ditch the glass: It's time to bring back less-fragile plastic smartphones](https://www.notebookcheck.net/Ditch-the-glass-It-s-time-to-bring-back-less-fragile-plastic-smartphones.727130.0.html)
