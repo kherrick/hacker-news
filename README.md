@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 20:15:46](https://news.ycombinator.com/item?id=37948121) - [Elephant dies after her herd became agitated from a dog running loose](https://apnews.com/article/st-louis-zoo-elephant-death-loose-dog-5ad9cdc5b483c86b25b1adc21f013cc5)
 * [2023-10-19, 19:29:30](https://news.ycombinator.com/item?id=37947532) - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
 * [2023-10-19, 19:22:34](https://news.ycombinator.com/item?id=37947432) - [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
 * [2023-10-19, 19:07:30](https://news.ycombinator.com/item?id=37947223) - [Cruise's Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
@@ -26,7 +27,6 @@
 * [2023-10-19, 10:53:56](https://news.ycombinator.com/item?id=37941075) - [Build your own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 * [2023-10-19, 10:43:13](https://news.ycombinator.com/item?id=37941002) - [The origins of the Idle Scan](http://antirez.com/news/139)
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
-* [2023-10-19, 06:31:33](https://news.ycombinator.com/item?id=37939263) - [Advice from \"pracademics\" of how to apply ecological dynamics theory to practice](https://www.frontiersin.org/articles/10.3389/fspor.2023.1192332/full)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
