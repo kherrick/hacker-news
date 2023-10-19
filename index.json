@@ -1,12 +1,72 @@
 [
   [
     [
+      "2023-10-19, 12:24:17",
+      "https://news.ycombinator.com/item?id=37941881"
+    ],
+    [
+      "Tech Billionaire Peter Thiel Was an FBI Informant",
+      "https://www.businessinsider.com/peter-thiel-fbi-informant-charles-johnson-johnathan-buma-chs-genius-2023-10"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 12:15:59",
+      "https://news.ycombinator.com/item?id=37941807"
+    ],
+    [
+      "Thiel's Unicorn Success Is Awkward for Colleges",
+      "https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 12:09:21",
+      "https://news.ycombinator.com/item?id=37941751"
+    ],
+    [
+      "Nvidia and Foxconn to build 'AI factories'",
+      "https://www.bbc.com/news/business-67153669"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 12:07:19",
+      "https://news.ycombinator.com/item?id=37941727"
+    ],
+    [
+      "Apache HTTP Server 2.4.58 (CVE fixes)",
+      "https://downloads.apache.org/httpd/CHANGES_2.4.58"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 12:00:24",
       "https://news.ycombinator.com/item?id=37941675"
     ],
     [
       "Bright (YC W15) hiring a VP of eng and product",
       "https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 11:38:30",
+      "https://news.ycombinator.com/item?id=37941459"
+    ],
+    [
+      "AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations",
+      "https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 11:15:52",
+      "https://news.ycombinator.com/item?id=37941235"
+    ],
+    [
+      "What Caroline Ellison's Testimony in SBF Trial Says on Loneliness and Workplace",
+      "https://www.forbes.com/sites/lisaconn/2023/10/16/what-caroline-ellisons-testimony-in-sam-bankman-fried-trial-says-about-loneliness-and-the-workplace/"
     ]
   ],
   [
@@ -71,6 +131,16 @@
   ],
   [
     [
+      "2023-10-19, 08:54:51",
+      "https://news.ycombinator.com/item?id=37940249"
+    ],
+    [
+      "Show HN: Open-source background removal in Node.js",
+      "https://www.npmjs.com/package/@imgly/background-removal-node"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 07:22:43",
       "https://news.ycombinator.com/item?id=37939576"
     ],
@@ -121,16 +191,6 @@
   ],
   [
     [
-      "2023-10-19, 03:13:27",
-      "https://news.ycombinator.com/item?id=37937899"
-    ],
-    [
-      "Sparse LLM Inference on CPU: 75% fewer parameters",
-      "https://huggingface.co/blog/mwitiderrick/llm-infrerence-on-cpu"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 03:13:09",
       "https://news.ycombinator.com/item?id=37937894"
     ],
@@ -151,32 +211,12 @@
   ],
   [
     [
-      "2023-10-18, 23:04:58",
-      "https://news.ycombinator.com/item?id=37936005"
-    ],
-    [
-      "xVal: A continuous number encoding for large language models",
-      "https://arxiv.org/abs/2310.02989"
-    ]
-  ],
-  [
-    [
       "2023-10-18, 22:00:05",
       "https://news.ycombinator.com/item?id=37935353"
     ],
     [
       "Zero ASIC is out of stealth",
       "https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 21:01:28",
-      "https://news.ycombinator.com/item?id=37934705"
-    ],
-    [
-      "ArgoCon – Vendor-neutral Argo-focused Event",
-      "https://akuity.io/argocon/"
     ]
   ],
   [
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2023-10-18, 16:56:05",
-      "https://news.ycombinator.com/item?id=37931424"
-    ],
-    [
-      "Scientists discover links between Alzheimer's disease and gut microbiota",
-      "https://www.kcl.ac.uk/news/links-between-alzheimers-and-gut-microbiota"
-    ]
-  ],
-  [
-    [
       "2023-10-18, 16:51:53",
       "https://news.ycombinator.com/item?id=37931373"
     ],
     [
       "Reflect – Multiplayer web app framework with game-style synchronization",
       "https://rocicorp.dev/blog/ready-player-two"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 16:46:44",
-      "https://news.ycombinator.com/item?id=37931294"
-    ],
-    [
-      "Fuyu-8B: A multimodal architecture for AI agents",
-      "https://www.adept.ai/blog/fuyu-8b"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-10-18, 12:37:29",
-      "https://news.ycombinator.com/item?id=37927734"
-    ],
-    [
-      "A 1990 experiment to test whether we could discern life on Earth remotely",
-      "https://www.nature.com/articles/d41586-023-03230-z"
-    ]
-  ],
-  [
-    [
       "2023-10-18, 09:40:04",
       "https://news.ycombinator.com/item?id=37926566"
     ],
     [
       "Thirty Years Later, a Speed Boost for Quantum Factoring",
       "https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017/"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 08:45:53",
-      "https://news.ycombinator.com/item?id=37926239"
-    ],
-    [
-      "This is what the year actually looks like (2018)",
-      "https://nrkbeta.no/2018/01/01/this-is-what-the-year-actually-looks-like/"
     ]
   ],
   [
