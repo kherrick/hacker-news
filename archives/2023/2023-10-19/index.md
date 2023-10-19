@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 19:06:07](https://news.ycombinator.com/item?id=37947204) - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)
 * [2023-10-19, 18:06:06](https://news.ycombinator.com/item?id=37946306) - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
 * [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
@@ -13,6 +14,7 @@
 * [2023-10-19, 17:44:50](https://news.ycombinator.com/item?id=37946030) - [Convoy collapse: Read CEO's memo detailing shutdown of Seattle trucking startup](https://www.freightwaves.com/news/freight-brokerage-bubble-bursting-as-freight-markets-face-long-winter)
 * [2023-10-19, 17:44:01](https://news.ycombinator.com/item?id=37946023) - [The Killer Use Case for LLMs Is Summarization](https://www.sebastianmellen.com/post/2023/the-killer-use-case-for-llms-is-summarization/)
 * [2023-10-19, 17:43:46](https://news.ycombinator.com/item?id=37946017) - [Bezos-Backed Startup Convoy Closes Operations with No Buyer](https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer)
+* [2023-10-19, 17:40:25](https://news.ycombinator.com/item?id=37945961) - [The Geometry of Truth: Do LLM's Know True and False](https://saprmarks.github.io/geometry-of-truth/dataexplorer/)
 * [2023-10-19, 17:08:28](https://news.ycombinator.com/item?id=37945543) - [Show HN: Generate Stable Diffusion scenes around 3D models](https://github.com/Dabble-Studio/3d-to-photo)
 * [2023-10-19, 17:02:10](https://news.ycombinator.com/item?id=37945452) - [DALL·E 3 is now available in ChatGPT Plus and Enterprise](https://openai.com/blog/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise)
 * [2023-10-19, 17:00:44](https://news.ycombinator.com/item?id=37945432) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
