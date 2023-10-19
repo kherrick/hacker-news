@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-19, 20:15:46](https://news.ycombinator.com/item?id=37948121) - [Elephant dies after her herd became agitated from a dog running loose](https://apnews.com/article/st-louis-zoo-elephant-death-loose-dog-5ad9cdc5b483c86b25b1adc21f013cc5)
+* [2023-10-19, 19:48:49](https://news.ycombinator.com/item?id=37947772) - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-19, 19:29:30](https://news.ycombinator.com/item?id=37947532) - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
 * [2023-10-19, 19:22:34](https://news.ycombinator.com/item?id=37947432) - [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
+* [2023-10-19, 19:19:29](https://news.ycombinator.com/item?id=37947390) - [Underrated Feature on a Chromebook: Install with Linux](https://www.aboutchromebooks.com/news/how-to-use-the-most-underrated-chromeos-feature-on-a-chromebook-install-with-linux/)
 * [2023-10-19, 19:07:30](https://news.ycombinator.com/item?id=37947223) - [Cruise's Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
 * [2023-10-19, 18:06:06](https://news.ycombinator.com/item?id=37946306) - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
 * [2023-10-19, 18:03:00](https://news.ycombinator.com/item?id=37946266) - [Show HN: ChatAPI – PWA to Use ChatGPT by API](https://github.com/david-haerer/chatapi)
@@ -29,7 +30,6 @@
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
-* [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)
 
