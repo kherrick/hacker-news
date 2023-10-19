@@ -2,6 +2,7 @@
 
 * [2023-10-19, 23:20:31](https://news.ycombinator.com/item?id=37950126) - [Marines Test Fire Robot Dog Armed with Rocket Launcher](https://www.thedrive.com/the-war-zone/marines-test-fire-robot-dog-armed-with-rocket-launcher)
 * [2023-10-19, 23:05:32](https://news.ycombinator.com/item?id=37950014) - [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
+* [2023-10-19, 22:57:30](https://news.ycombinator.com/item?id=37949950) - [Anna's Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
 * [2023-10-19, 22:52:18](https://news.ycombinator.com/item?id=37949899) - [Please Pay for a Year of Nothing](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html)
 * [2023-10-19, 22:40:29](https://news.ycombinator.com/item?id=37949789) - [Clearview doesn't let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
 * [2023-10-19, 22:28:19](https://news.ycombinator.com/item?id=37949656) - [Research repository ArXiv receives $10M for upgrades](https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades)
@@ -9,7 +10,6 @@
 * [2023-10-19, 22:16:19](https://news.ycombinator.com/item?id=37949503) - [FCC greenlights superfast Wi-Fi tethering for AR and VR headsets](https://www.theverge.com/2023/10/19/23923015/fcc-6ghz-approval-very-low-power-devices-apple-google-meta)
 * [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) is hiring a lead growth engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-10-19, 20:59:52](https://news.ycombinator.com/item?id=37948648) - [DALL-E 3: Improving image generation with better captions [pdf]](https://cdn.openai.com/papers/dall-e-3.pdf)
-* [2023-10-19, 20:03:11](https://news.ycombinator.com/item?id=37947954) - [The Web Is for User Agency](https://berjon.com/user-agency/)
 * [2023-10-19, 19:48:49](https://news.ycombinator.com/item?id=37947772) - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-19, 19:48:08](https://news.ycombinator.com/item?id=37947763) - [Banging errors in Go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
