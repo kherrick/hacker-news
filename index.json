@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-19, 00:16:27",
+      "https://news.ycombinator.com/item?id=37936592"
+    ],
+    [
+      "I know data engineers who know just Python and SQL who make $500k at Netflix",
+      "https://twitter.com/EcZachly/status/1714772914682376316"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 23:59:49",
+      "https://news.ycombinator.com/item?id=37936444"
+    ],
+    [
+      "Red Hat's Ex, Jim Whitehurst, Is Now Temporary CEO at Unity Software",
+      "https://fossforce.com/2023/10/red-hats-ex-jim-whitehurst-is-now-temporary-ceo-at-unity-software/"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 23:34:45",
       "https://news.ycombinator.com/item?id=37936234"
     ],
@@ -11,52 +31,22 @@
   ],
   [
     [
-      "2023-10-18, 23:22:10",
-      "https://news.ycombinator.com/item?id=37936134"
+      "2023-10-18, 23:04:58",
+      "https://news.ycombinator.com/item?id=37936005"
     ],
     [
-      "Tesla earns $690M less than expected in third quarter",
-      "https://www.theguardian.com/technology/2023/oct/18/elon-musk-tesla-third-quarter-earnings-decline-cybertruck"
+      "xVal: A continuous number encoding for large language models",
+      "https://arxiv.org/abs/2310.02989"
     ]
   ],
   [
     [
-      "2023-10-18, 23:15:12",
-      "https://news.ycombinator.com/item?id=37936076"
+      "2023-10-18, 22:00:05",
+      "https://news.ycombinator.com/item?id=37935353"
     ],
     [
-      "Tell HN: Don't use Wise Business (TransferWise) to receive business payments",
-      "https://news.ycombinator.com/item?id=37936076"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 22:46:08",
-      "https://news.ycombinator.com/item?id=37935817"
-    ],
-    [
-      "Ask HN: Where to Host a FastAPI App",
-      "https://news.ycombinator.com/item?id=37935817"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 22:18:22",
-      "https://news.ycombinator.com/item?id=37935550"
-    ],
-    [
-      "Feynman explains degenerate matter [video]",
-      "https://twitter.com/1517fund/status/1714766669149532351"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 22:02:54",
-      "https://news.ycombinator.com/item?id=37935375"
-    ],
-    [
-      "AlmaLinux stays Red Hat Enterprise Linux compatible without Red Hat code",
-      "https://www.zdnet.com/article/how-almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code/"
+      "Zero ASIC is out of stealth",
+      "https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making"
     ]
   ],
   [
@@ -81,22 +71,22 @@
   ],
   [
     [
+      "2023-10-18, 20:41:05",
+      "https://news.ycombinator.com/item?id=37934488"
+    ],
+    [
+      "Ask HN: Is anyone using cloud dev environments (e.g. Codespaces/Replit) at work?",
+      "https://news.ycombinator.com/item?id=37934488"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 20:36:19",
       "https://news.ycombinator.com/item?id=37934439"
     ],
     [
       "gRPC request context which caries values across microservice boundaries",
       "https://github.com/konigsoftware/konig-kontext"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 18:48:03",
-      "https://news.ycombinator.com/item?id=37932971"
-    ],
-    [
-      "An ultra-quiet electric leaf blower",
-      "https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/"
     ]
   ],
   [
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-10-18, 16:21:06",
+      "https://news.ycombinator.com/item?id=37930927"
+    ],
+    [
+      "Amazon reaches 10k Rivian electric delivery vans in US",
+      "https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 16:04:18",
       "https://news.ycombinator.com/item?id=37930663"
     ],
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2023-10-18, 15:40:06",
-      "https://news.ycombinator.com/item?id=37930266"
+      "2023-10-18, 15:18:55",
+      "https://news.ycombinator.com/item?id=37929904"
     ],
     [
-      "New pill helps Covid smell and taste loss fade quickly",
-      "https://www.nature.com/articles/d41586-023-03244-7"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 15:03:01",
-      "https://news.ycombinator.com/item?id=37929711"
-    ],
-    [
-      "Microfrontends should be a last resort",
-      "https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 14:38:23",
-      "https://news.ycombinator.com/item?id=37929338"
-    ],
-    [
-      "USB-C head-to-head comparison",
-      "https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics"
+      "Yamaha TX81Z Homepage",
+      "https://mgregory22.me/tx81z/index.html"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2023-10-18, 07:48:53",
+      "https://news.ycombinator.com/item?id=37925929"
+    ],
+    [
+      "A Generation Lost in the Bazaar (2012)",
+      "https://queue.acm.org/detail.cfm?id=2349257"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 06:51:06",
       "https://news.ycombinator.com/item?id=37925538"
     ],
@@ -287,6 +277,16 @@
     [
       "How to Exclaim",
       "https://themillions.com/2023/10/how-to-exclaim.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-17, 08:42:20",
+      "https://news.ycombinator.com/item?id=37912168"
+    ],
+    [
+      "Bill Gates demonstrates Visual Basic (1991) [video]",
+      "https://www.youtube.com/watch?v=Fh_UDQnboRw"
     ]
   ],
   [
