@@ -11,6 +11,7 @@
 * [2023-10-19, 04:20:22](https://news.ycombinator.com/item?id=37938343) - [Tell HN: Pet Projects vs. OSS Contribution](https://news.ycombinator.com/item?id=37938343)
 * [2023-10-19, 04:14:40](https://news.ycombinator.com/item?id=37938306) - [Welcome to Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues/1)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
+* [2023-10-19, 03:13:27](https://news.ycombinator.com/item?id=37937899) - [Sparse LLM Inference on CPU: 75% fewer parameters](https://huggingface.co/blog/mwitiderrick/llm-infrerence-on-cpu)
 * [2023-10-19, 03:13:09](https://news.ycombinator.com/item?id=37937894) - [13 States join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
 * [2023-10-19, 02:49:44](https://news.ycombinator.com/item?id=37937733) - [To YouTube: I'd gladly pay you if your website was de-bloated and fast like this](https://piped.kavin.rocks/trending)
 * [2023-10-19, 02:28:24](https://news.ycombinator.com/item?id=37937562) - [Instead of YouTube, use Invidious; Instead of subscribing to channels, use RSS](https://old.reddit.com/r/palemoon/comments/uo2ux9/how_to_make_your_life_easier_with_invidious/)
