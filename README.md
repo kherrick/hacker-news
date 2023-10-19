@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-19, 20:22:35](https://news.ycombinator.com/item?id=37948200) - [Amazon begins testing Agility's Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
-* [2023-10-19, 20:19:14](https://news.ycombinator.com/item?id=37948163) - [Balfour Declaration](https://en.wikipedia.org/wiki/Balfour_Declaration)
 * [2023-10-19, 19:48:49](https://news.ycombinator.com/item?id=37947772) - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
+* [2023-10-19, 19:48:08](https://news.ycombinator.com/item?id=37947763) - [Banging Errors in Go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 19:29:30](https://news.ycombinator.com/item?id=37947532) - [Alzheimer's microbiota induce deficits in cognition and hippocampal neurogenesis](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awad303/7308687)
 * [2023-10-19, 19:07:30](https://news.ycombinator.com/item?id=37947223) - [Cruise's Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car](https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car)
+* [2023-10-19, 18:30:22](https://news.ycombinator.com/item?id=37946659) - [The elixir-tools Update Vol. 4](https://www.elixir-tools.dev/news/the-elixir-tools-update-vol-4/)
 * [2023-10-19, 18:03:00](https://news.ycombinator.com/item?id=37946266) - [Show HN: ChatAPI – PWA to Use ChatGPT by API](https://github.com/david-haerer/chatapi)
 * [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
@@ -17,7 +18,6 @@
 * [2023-10-19, 15:30:18](https://news.ycombinator.com/item?id=37944269) - [Researchers identify largest ever solar storm in 14k-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
 * [2023-10-19, 15:27:20](https://news.ycombinator.com/item?id=37944219) - [Researchers find a rare compound, plumbonacrite, in first layer of Mona Lisa](https://phys.org/news/2023-10-scientists-winkle-secret-mona-lisa.html)
 * [2023-10-19, 15:25:56](https://news.ycombinator.com/item?id=37944198) - [The 1924 Mikiphone: The first pocket record player](https://rarehistoricalphotos.com/mikiphone/)
-* [2023-10-19, 15:14:30](https://news.ycombinator.com/item?id=37944011) - [Discord is going to give out warnings instead of permanent bans](https://www.theverge.com/2023/10/19/23923646/discord-warning-system-moderation-teen-safety-new-mobile-features)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans ate seaweed for thousands of years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
 * [2023-10-19, 14:22:04](https://news.ycombinator.com/item?id=37943308) - [Rip – Rust crate to resolve and install Python packages](https://prefix.dev/blog/introducing_rip)
@@ -26,10 +26,10 @@
 * [2023-10-19, 10:59:28](https://news.ycombinator.com/item?id=37941119) - [Requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
 * [2023-10-19, 10:53:56](https://news.ycombinator.com/item?id=37941075) - [Build your own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 * [2023-10-19, 10:43:13](https://news.ycombinator.com/item?id=37941002) - [The origins of the Idle Scan](http://antirez.com/news/139)
+* [2023-10-19, 09:26:11](https://news.ycombinator.com/item?id=37940484) - [In-memory database Redis wants to dabble in disk](https://www.theregister.com/2023/10/19/redis_disk_support/)
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
-* [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)
 
