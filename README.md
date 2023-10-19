@@ -9,7 +9,6 @@
 * [2023-10-18, 23:04:58](https://news.ycombinator.com/item?id=37936005) - [xVal: A continuous number encoding for large language models](https://arxiv.org/abs/2310.02989)
 * [2023-10-18, 22:00:05](https://news.ycombinator.com/item?id=37935353) - [Zero ASIC is out of stealth](https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
-* [2023-10-18, 20:41:05](https://news.ycombinator.com/item?id=37934488) - [Ask HN: Is anyone using cloud dev environments (e.g. Codespaces/Replit) at work?](https://news.ycombinator.com/item?id=37934488)
 * [2023-10-18, 20:36:19](https://news.ycombinator.com/item?id=37934439) - [gRPC request context which caries values across microservice boundaries](https://github.com/konigsoftware/konig-kontext)
 * [2023-10-18, 19:11:51](https://news.ycombinator.com/item?id=37933316) - [Elastic Tab Stops (2017)](https://nickgravgaard.com/elastic-tabstops/)
 * [2023-10-18, 16:56:05](https://news.ycombinator.com/item?id=37931424) - [Scientists discover links between Alzheimer's disease and gut microbiota](https://www.kcl.ac.uk/news/links-between-alzheimers-and-gut-microbiota)
@@ -28,6 +27,7 @@
 * [2023-10-18, 06:51:06](https://news.ycombinator.com/item?id=37925538) - [The Ur-Quan Masters: Open-source remake of Star Control II](http://theurquanmasters.com/)
 * [2023-10-18, 06:19:26](https://news.ycombinator.com/item?id=37925374) - [Fractional Factorial Experiment Design: There Are Too Many Experiments to Do](https://blog.demofox.org/2023/10/17/fractional-factorial-experiment-design-when-there-are-too-many-experiments-to-do/)
 * [2023-10-17, 23:04:51](https://news.ycombinator.com/item?id=37922748) - [Winsorized mean](https://en.wikipedia.org/wiki/Winsorized_mean)
+* [2023-10-17, 09:51:26](https://news.ycombinator.com/item?id=37912643) - [Five Design Principles for Building a Data Pipeline Engine](https://docs.tenzir.com/blog/five-design-principles-for-building-a-data-pipeline-engine)
 * [2023-10-17, 08:42:20](https://news.ycombinator.com/item?id=37912168) - [Bill Gates demonstrates Visual Basic (1991) [video]](https://www.youtube.com/watch?v=Fh_UDQnboRw)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
