@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 22:40:29](https://news.ycombinator.com/item?id=37949789) - [Clearview doesn't let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
+* [2023-10-19, 22:28:19](https://news.ycombinator.com/item?id=37949656) - [Research repository ArXiv receives $10M for upgrades](https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades)
 * [2023-10-19, 22:16:19](https://news.ycombinator.com/item?id=37949503) - [FCC greenlights superfast Wi-Fi tethering for AR and VR headsets](https://www.theverge.com/2023/10/19/23923015/fcc-6ghz-approval-very-low-power-devices-apple-google-meta)
+* [2023-10-19, 21:54:13](https://news.ycombinator.com/item?id=37949243) - [Bezos-backed freight firm Convoy shuts down after slashing hundreds of jobs](https://www.cnbc.com/2023/10/19/bezos-backed-freight-firm-convoy-shuts-down-read-ceo-memo-here.html)
 * [2023-10-19, 21:45:42](https://news.ycombinator.com/item?id=37949144) - [Americans Must Earn $114,000 a Year to Afford a Typical Home](https://www.bloomberg.com/news/articles/2023-10-19/how-much-do-i-need-to-make-to-buy-a-house-114-000-according-to-redfin)
 * [2023-10-19, 21:43:09](https://news.ycombinator.com/item?id=37949118) - [Ask HN: Did you change career paths after 30?](https://news.ycombinator.com/item?id=37949118)
 * [2023-10-19, 21:25:55](https://news.ycombinator.com/item?id=37948938) - [Ketamine's effect on depression may hinge on hope](https://med.stanford.edu/news/all-news/2023/10/ketamine.html)
