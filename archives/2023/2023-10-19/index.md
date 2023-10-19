@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 16:06:52](https://news.ycombinator.com/item?id=37944745) - [The Case Against AI Everything, Everywhere, All at Once](https://time.com/6302761/ai-risks-autonomy/)
+* [2023-10-19, 16:02:51](https://news.ycombinator.com/item?id=37944691) - [Even a laptop can run RAM externally thanks to a little-known tech called CXL](https://www.techradar.com/pro/even-a-laptop-can-run-ram-externally-thanks-to-a-little-known-tech-called-cxl-but-its-not-for-sale-to-mere-mortals-who-only-want-1tb-of-ram)
+* [2023-10-19, 16:01:59](https://news.ycombinator.com/item?id=37944680) - [FCC moves ahead with Title II net neutrality rules in 3-2 party-line vote](https://arstechnica.com/tech-policy/2023/10/fcc-moves-ahead-with-title-ii-net-neutrality-rules-in-3-2-party-line-vote/)
 * [2023-10-19, 15:30:18](https://news.ycombinator.com/item?id=37944269) - [Researchers identify largest ever solar storm in 14,300-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
+* [2023-10-19, 15:29:32](https://news.ycombinator.com/item?id=37944255) - [Indonesia opens carbon trading market to both skepticism and hope](https://news.mongabay.com/2023/10/indonesia-opens-carbon-trading-market-to-both-skepticism-and-hope/)
 * [2023-10-19, 15:25:56](https://news.ycombinator.com/item?id=37944198) - [Mikiphone: The First Pocket Record Player](https://rarehistoricalphotos.com/mikiphone/)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans Ate Seaweed for Thousands of Years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
 * [2023-10-19, 14:29:45](https://news.ycombinator.com/item?id=37943408) - [Fructose is the main culprit of the obesity epidemic, study explains](https://studyfinds.org/fructose-obesity/)
