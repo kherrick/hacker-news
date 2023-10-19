@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 19:22:34](https://news.ycombinator.com/item?id=37947432) - [My 82 year old mother found out that fraudsters had emptied her HSBC_UK account](https://twitter.com/AAMortazavi/status/1713265395388252666)
+* [2023-10-19, 19:06:08](https://news.ycombinator.com/item?id=37947205) - [Ask HN: Do tools like Copilot or ChatGPT4 help you code?](https://news.ycombinator.com/item?id=37947205)
 * [2023-10-19, 19:06:07](https://news.ycombinator.com/item?id=37947204) - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)
 * [2023-10-19, 18:06:06](https://news.ycombinator.com/item?id=37946306) - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
 * [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
