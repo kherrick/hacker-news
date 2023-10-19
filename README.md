@@ -27,8 +27,8 @@
 * [2023-10-18, 08:45:53](https://news.ycombinator.com/item?id=37926239) - [This is what the year actually looks like (2018)](https://nrkbeta.no/2018/01/01/this-is-what-the-year-actually-looks-like/)
 * [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
 * [2023-10-18, 07:48:53](https://news.ycombinator.com/item?id=37925929) - [A Generation Lost in the Bazaar (2012)](https://queue.acm.org/detail.cfm?id=2349257)
-* [2023-10-18, 06:25:59](https://news.ycombinator.com/item?id=37925411) - [Marked by Stars – Agrippa's Occult Philosophy](https://publicdomainreview.org/essay/agrippa-occult-philosophy)
 * [2023-10-18, 06:19:26](https://news.ycombinator.com/item?id=37925374) - [Fractional Factorial Experiment Design: There Are Too Many Experiments to Do](https://blog.demofox.org/2023/10/17/fractional-factorial-experiment-design-when-there-are-too-many-experiments-to-do/)
+* [2023-10-18, 01:20:52](https://news.ycombinator.com/item?id=37923801) - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 * [2023-10-17, 08:05:16](https://news.ycombinator.com/item?id=37911900) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)
