@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-19, 12:46:38](https://news.ycombinator.com/item?id=37942128) - [YouTube launches new page that only shows videos from \"authoritative\" sources](https://www.niemanlab.org/2023/10/youtube-launches-new-watch-page-that-only-shows-videos-from-authoritative-news-sources/)
+* [2023-10-19, 12:38:04](https://news.ycombinator.com/item?id=37942022) - [Amazon Let Its Drivers' Urine Be Sold as an Energy Drink](https://www.wired.com/story/amazon-let-its-drivers-urine-be-sold-as-an-energy-drink/)
 * [2023-10-19, 12:24:17](https://news.ycombinator.com/item?id=37941881) - [Tech Billionaire Peter Thiel Was an FBI Informant](https://www.businessinsider.com/peter-thiel-fbi-informant-charles-johnson-johnathan-buma-chs-genius-2023-10)
 * [2023-10-19, 12:15:59](https://news.ycombinator.com/item?id=37941807) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges)
 * [2023-10-19, 12:09:21](https://news.ycombinator.com/item?id=37941751) - [Nvidia and Foxconn to build 'AI factories'](https://www.bbc.com/news/business-67153669)
@@ -21,10 +23,8 @@
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-19, 03:13:09](https://news.ycombinator.com/item?id=37937894) - [13 States join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
 * [2023-10-19, 02:14:22](https://news.ycombinator.com/item?id=37937451) - [DRM-free e-books are a big deal (2019)](https://www.libraryjournal.com/story/drm-free-e-books-are-now-available-heres-why-thats-a-big-deal)
-* [2023-10-18, 22:00:05](https://news.ycombinator.com/item?id=37935353) - [Zero ASIC is out of stealth](https://www.zeroasic.com/blog/zero-asic-democratizing-chip-making)
 * [2023-10-18, 20:26:04](https://news.ycombinator.com/item?id=37934324) - [Spacedrive: Unify files from all your devices and clouds into one explorer](https://www.spacedrive.com/)
 * [2023-10-18, 16:51:53](https://news.ycombinator.com/item?id=37931373) - [Reflect – Multiplayer web app framework with game-style synchronization](https://rocicorp.dev/blog/ready-player-two)
-* [2023-10-18, 16:02:41](https://news.ycombinator.com/item?id=37930634) - [The fake browser update scam gets a makeover](https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/)
 * [2023-10-18, 15:50:30](https://news.ycombinator.com/item?id=37930441) - [Launch HN: Pier (YC W23) – Stripe for Credit](https://news.ycombinator.com/item?id=37930441)
 * [2023-10-18, 09:40:04](https://news.ycombinator.com/item?id=37926566) - [Thirty Years Later, a Speed Boost for Quantum Factoring](https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017/)
 * [2023-10-18, 08:31:59](https://news.ycombinator.com/item?id=37926181) - [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)
