@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 04:20:22](https://news.ycombinator.com/item?id=37938343) - [Tell HN: Pet Projects vs. OSS Contribution](https://news.ycombinator.com/item?id=37938343)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-19, 02:49:44](https://news.ycombinator.com/item?id=37937733) - [To YouTube: I'd gladly pay you if your website was de-bloated and fast like this](https://piped.kavin.rocks/trending)
 * [2023-10-19, 02:28:24](https://news.ycombinator.com/item?id=37937562) - [Instead of YouTube, use Invidious; Instead of subscribing to channels, use RSS](https://old.reddit.com/r/palemoon/comments/uo2ux9/how_to_make_your_life_easier_with_invidious/)
