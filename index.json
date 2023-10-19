@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2023-10-19, 20:19:14",
-      "https://news.ycombinator.com/item?id=37948163"
-    ],
-    [
-      "Balfour Declaration",
-      "https://en.wikipedia.org/wiki/Balfour_Declaration"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 19:48:49",
       "https://news.ycombinator.com/item?id=37947772"
     ],
     [
       "Apple's use of Swift and SwiftUI in iOS 17",
       "https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 19:48:08",
+      "https://news.ycombinator.com/item?id=37947763"
+    ],
+    [
+      "Banging Errors in Go",
+      "https://flak.tedunangst.com/post/bango"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Cruise's Solution to Robotaxis and Emergency Vehicles: Let Them Move the Car",
       "https://www.thedrive.com/news/cruises-solution-to-robotaxis-blocking-emergency-vehicles-let-them-move-the-car"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 18:30:22",
+      "https://news.ycombinator.com/item?id=37946659"
+    ],
+    [
+      "The elixir-tools Update Vol. 4",
+      "https://www.elixir-tools.dev/news/the-elixir-tools-update-vol-4/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-10-19, 15:14:30",
-      "https://news.ycombinator.com/item?id=37944011"
-    ],
-    [
-      "Discord is going to give out warnings instead of permanent bans",
-      "https://www.theverge.com/2023/10/19/23923646/discord-warning-system-moderation-teen-safety-new-mobile-features"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 15:08:40",
       "https://news.ycombinator.com/item?id=37943931"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-10-19, 09:26:11",
+      "https://news.ycombinator.com/item?id=37940484"
+    ],
+    [
+      "In-memory database Redis wants to dabble in disk",
+      "https://www.theregister.com/2023/10/19/redis_disk_support/"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 07:22:43",
       "https://news.ycombinator.com/item?id=37939576"
     ],
@@ -287,16 +297,6 @@
     [
       "The Foundation Model Transparency Index",
       "https://crfm.stanford.edu/fmti/"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 08:05:16",
-      "https://news.ycombinator.com/item?id=37911900"
-    ],
-    [
-      "Write more \"useless\" software",
-      "https://ntietz.com/blog/write-more-useless-software/"
     ]
   ]
 ]
