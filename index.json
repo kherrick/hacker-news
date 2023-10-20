@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-10-20, 21:41:02",
+      "https://news.ycombinator.com/item?id=37961873"
+    ],
+    [
+      "Energy, WiFi and RAM use by Android messaging apps",
+      "https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 21:39:58",
       "https://news.ycombinator.com/item?id=37961860"
     ],
     [
       "Cloudflare mitigated yet another Okta compromise",
       "https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 21:01:04",
-      "https://news.ycombinator.com/item?id=37961464"
-    ],
-    [
-      "Hetzner does run a (MitM) proxy in front of my server",
-      "https://old.reddit.com/r/hetzner/comments/17ccp3i/hetzner_does_run_a_mitm_proxy_in_front_of_my/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Mitigating the Hetzner/Linode XMPP.ru MitM interception incident",
       "https://www.devever.net/~hl/xmpp-incident"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 20:17:37",
-      "https://news.ycombinator.com/item?id=37961007"
-    ],
-    [
-      "DMCA Excemptions to \"Copyright Protection Systems\" Being Reconsidered",
-      "https://www.copyright.gov/1201/2024/"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "Implication for C++ [pdf]",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 16:54:04",
+      "https://news.ycombinator.com/item?id=37958555"
+    ],
+    [
+      "Show HN: No Feed? Unlimited Productivity",
+      "https://github.com/kwkr/feed-remover"
     ]
   ],
   [
