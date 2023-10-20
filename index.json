@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=37961232"
     ],
     [
-      "How the Creator of Alone in the Dark Came Back to Games",
+      "How the creator of Alone in the Dark came back to games",
       "https://news.play.date/news/skew/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 20:14:00",
-      "https://news.ycombinator.com/item?id=37960969"
-    ],
-    [
-      "Okta's stock plunges after security breach",
-      "https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b"
     ]
   ],
   [
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2023-10-20, 19:18:13",
-      "https://news.ycombinator.com/item?id=37960289"
+      "2023-10-20, 19:47:01",
+      "https://news.ycombinator.com/item?id=37960666"
     ],
     [
-      "Accounting prof testifies about FTX's misuse of customers' money",
-      "https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/"
+      "OpenSSL Adds Support for Raw Public Key (RFC7250)",
+      "https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/"
     ]
   ],
   [
@@ -71,12 +61,32 @@
   ],
   [
     [
+      "2023-10-20, 18:48:47",
+      "https://news.ycombinator.com/item?id=37959931"
+    ],
+    [
+      "Leaving the Phone at Home",
+      "https://josem.co/leaving-the-phone-at-home/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 18:46:28",
       "https://news.ycombinator.com/item?id=37959904"
     ],
     [
       "Hackers stole access tokens from Okta's support unit",
       "https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 17:57:35",
+      "https://news.ycombinator.com/item?id=37959376"
+    ],
+    [
+      "PowerDNS Starts to Use Rust",
+      "https://mailman.powerdns.com/pipermail/pdns-announce/2023-October/001284.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Durable Coroutines for Go",
       "https://github.com/stealthrocket/coroutine"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 05:54:56",
-      "https://news.ycombinator.com/item?id=37939011"
-    ],
-    [
-      "Ruvy: creating Wasm modules from Ruby code",
-      "https://shopify.engineering/introducing-ruvy"
     ]
   ]
 ]
