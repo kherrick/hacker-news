@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-10-19, 22:40:29",
-      "https://news.ycombinator.com/item?id=37949789"
-    ],
-    [
-      "Clearview doesn't let Europeans delete themselves anymore",
-      "https://twitter.com/kashhill/status/1715048994223567281"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 22:32:30",
       "https://news.ycombinator.com/item?id=37949688"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2023-10-19, 13:42:59",
-      "https://news.ycombinator.com/item?id=37942791"
+      "2023-10-19, 14:22:04",
+      "https://news.ycombinator.com/item?id=37943308"
     ],
     [
-      "Linux runtime security agent powered by eBPF",
-      "https://github.com/Exein-io/pulsar"
+      "Rip – Rust crate to resolve and install Python packages",
+      "https://prefix.dev/blog/introducing_rip"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Webb detects quartz crystals in clouds of hot gas giant",
       "https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 16:39:17",
+      "https://news.ycombinator.com/item?id=37931180"
+    ],
+    [
+      "The Foundation Model Transparency Index",
+      "https://crfm.stanford.edu/fmti/"
     ]
   ]
 ]
