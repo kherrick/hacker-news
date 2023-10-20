@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 21:39:58](https://news.ycombinator.com/item?id=37961860) - [Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
 * [2023-10-20, 21:01:04](https://news.ycombinator.com/item?id=37961464) - [Hetzner does run a (MitM) proxy in front of my server](https://old.reddit.com/r/hetzner/comments/17ccp3i/hetzner_does_run_a_mitm_proxy_in_front_of_my/)
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
@@ -15,7 +16,6 @@
 * [2023-10-20, 16:46:47](https://news.ycombinator.com/item?id=37958473) - [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
 * [2023-10-20, 16:13:13](https://news.ycombinator.com/item?id=37958060) - [A Digital Pornutopia, Part 1: The Seedy-ROM Revolution](https://www.filfre.net/2023/10/a-digital-pornutopia-part-1-the-seedy-rom-revolution/)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
-* [2023-10-20, 15:08:12](https://news.ycombinator.com/item?id=37957189) - [\"Useless Ruby sugar\": Pattern matching (Pt. 1)](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
 * [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird implemented in TypeScript types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
