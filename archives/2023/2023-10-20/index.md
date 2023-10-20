@@ -7,6 +7,7 @@
 * [2023-10-20, 17:00:12](https://news.ycombinator.com/item?id=37958633) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-10-20, 16:54:04](https://news.ycombinator.com/item?id=37958555) - [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)
 * [2023-10-20, 16:46:47](https://news.ycombinator.com/item?id=37958473) - [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
+* [2023-10-20, 16:37:11](https://news.ycombinator.com/item?id=37958337) - [One-in-a-Trillion Game of Rock Paper Scissors Implemented with YouTube Endcards [video]](https://www.youtube.com/watch?v=PmWQmZXYd74)
 * [2023-10-20, 16:31:02](https://news.ycombinator.com/item?id=37958263) - [RIP to my 8-port Unifi switch after years and years of Texas outdoor temps](https://arstechnica.com/gadgets/2023/10/saying-goodbye-to-great-hardware-my-8-port-unifi-switch-finally-buys-the-farm/)
 * [2023-10-20, 16:22:31](https://news.ycombinator.com/item?id=37958155) - [Big Banks Are Quietly Cutting Thousands of Employees](https://www.cnbc.com/2023/10/19/big-banks-cut-thousands-of-jobs-more-layoffs-coming.html)
 * [2023-10-20, 16:21:20](https://news.ycombinator.com/item?id=37958143) - [Top Crypto Firms Named in $1B Fraud Lawsuit](https://www.bbc.com/news/business-67161638)
