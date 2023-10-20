@@ -109,6 +109,7 @@
 * [2023-10-19, 07:48:28](https://news.ycombinator.com/item?id=37939764) - [Libre Silicon – Free semiconductors for everyone](https://libresilicon.com/)
 * [2023-10-19, 07:46:33](https://news.ycombinator.com/item?id=37939749) - ['Reconciliation is dead': Indigenous Australians vow silence as referendum fails](https://www.reuters.com/world/asia-pacific/australian-indigenous-leaders-call-week-silence-after-referendum-defeat-2023-10-15/)
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
+* [2023-10-19, 06:45:58](https://news.ycombinator.com/item?id=37939369) - [Durable Coroutines for Go](https://github.com/stealthrocket/coroutine)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 * [2023-10-19, 06:31:33](https://news.ycombinator.com/item?id=37939263) - [Advice from \"pracademics\" of how to apply ecological dynamics theory to practice](https://www.frontiersin.org/articles/10.3389/fspor.2023.1192332/full)
 * [2023-10-19, 05:54:56](https://news.ycombinator.com/item?id=37939011) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
