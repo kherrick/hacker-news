@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
 * [2023-10-20, 05:48:47](https://news.ycombinator.com/item?id=37952719) - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
+* [2023-10-20, 05:45:22](https://news.ycombinator.com/item?id=37952703) - [Threads 'temporarily' blocks Covid search terms to focus on larger concerns](https://fortune.com/2023/10/19/threads-blocks-covid-search-terms-israel-gaza-misinformation-mark-zuckerberg/)
 * [2023-10-20, 05:21:20](https://news.ycombinator.com/item?id=37952597) - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
 * [2023-10-20, 04:31:42](https://news.ycombinator.com/item?id=37952410) - [Mentally Ill Man with AI Girlfriend Tried to Kill Queen](https://www.loweringthebar.net/2023/10/sith-lord-gets-nine-years-treason.html)
 * [2023-10-20, 04:05:24](https://news.ycombinator.com/item?id=37952279) - [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
