@@ -6,6 +6,8 @@
 
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
+* [2023-10-20, 14:23:37](https://news.ycombinator.com/item?id=37956480) - [Kyoto Statement on End-to-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
+* [2023-10-20, 14:18:52](https://news.ycombinator.com/item?id=37956406) - [10-year Treasury yield rises to 5%, highest level for the key rate in 16 years](https://www.cnbc.com/2023/10/19/us-treasurys-ahead-of-fed-chair-powell-speech.html)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:50:17](https://news.ycombinator.com/item?id=37955974) - [The Tech Industry Has a New Plan to Stop Proliferation of Right to Repair Laws](https://www.404media.co/the-tech-industry-has-a-new-plan-to-stop-right-to-repair-laws/)
 * [2023-10-20, 13:49:09](https://news.ycombinator.com/item?id=37955952) - [Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
