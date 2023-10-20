@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
+* [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 20:09:51](https://news.ycombinator.com/item?id=37960928) - [Twenty-Four Hours in An Invisible Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
-* [2023-10-20, 19:53:28](https://news.ycombinator.com/item?id=37960735) - [Amazon's bestselling bitter lemon energy drink was bottled delivery driver piss](https://pluralistic.net/2023/10/20/release-energy/)
-* [2023-10-20, 19:21:24](https://news.ycombinator.com/item?id=37960330) - [Windows 11 Pro's On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
+* [2023-10-20, 19:38:04](https://news.ycombinator.com/item?id=37960557) - [Amazon to managers: You can now sack employees who won't come 3 times a week](https://timesofindia.indiatimes.com/gadgets-news/amazon-to-managers-you-can-now-sack-employees-who-wont-come-into-the-office-3-times-a-week/articleshow/104576430.cms)
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [Accounting prof testifies about FTX's misuse of customers' money](https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/)
 * [2023-10-20, 19:14:12](https://news.ycombinator.com/item?id=37960239) - [Why America Is Out of Ammunition](https://www.thebignewsletter.com/p/why-america-is-out-of-ammunition)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 – Flyweight IDE](https://geany.org/)
@@ -29,7 +30,6 @@
 * [2023-10-19, 23:54:02](https://news.ycombinator.com/item?id=37950399) - [Bumble bees drop to shake off Asian hornets](https://phys.org/news/2023-10-bumble-bees-asian-hornets.html)
 * [2023-10-19, 12:52:17](https://news.ycombinator.com/item?id=37942181) - [Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
 * [2023-10-19, 06:45:58](https://news.ycombinator.com/item?id=37939369) - [Durable Coroutines for Go](https://github.com/stealthrocket/coroutine)
-* [2023-10-19, 05:54:56](https://news.ycombinator.com/item?id=37939011) - [Ruvy: creating Wasm modules from Ruby code](https://shopify.engineering/introducing-ruvy)
 
 ## [Archives](archives/index.md)
 

@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
+* [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 20:09:51](https://news.ycombinator.com/item?id=37960928) - [Twenty-Four Hours in An Invisible Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
 * [2023-10-20, 19:53:28](https://news.ycombinator.com/item?id=37960735) - [Amazon's bestselling bitter lemon energy drink was bottled delivery driver piss](https://pluralistic.net/2023/10/20/release-energy/)
+* [2023-10-20, 19:38:04](https://news.ycombinator.com/item?id=37960557) - [Amazon to managers: You can now sack employees who won't come 3 times a week](https://timesofindia.indiatimes.com/gadgets-news/amazon-to-managers-you-can-now-sack-employees-who-wont-come-into-the-office-3-times-a-week/articleshow/104576430.cms)
 * [2023-10-20, 19:21:24](https://news.ycombinator.com/item?id=37960330) - [Windows 11 Pro's On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [SBF Made $9B Disappear. This Forensic Accountant Found It](https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819)
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [Accounting prof testifies about FTX's misuse of customers' money](https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/)
