@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
+* [2023-10-20, 13:16:09](https://news.ycombinator.com/item?id=37955563) - [Ford Mustang Mach-E Recalled Because Battery Can't Handle Owners Flooring It](https://www.thedrive.com/news/ford-mustang-mach-e-recalled-because-battery-cant-handle-owners-flooring-it)
+* [2023-10-20, 13:04:30](https://news.ycombinator.com/item?id=37955468) - [Jon Stewart's Show on Apple Is Ending](https://www.nytimes.com/2023/10/19/business/media/jon-stewart-the-problem-ends.html)
+* [2023-10-20, 13:03:08](https://news.ycombinator.com/item?id=37955454) - [It's easy to screw up on breaking news. But you have to admit when you do](https://www.natesilver.net/p/its-easy-to-screw-up-on-breaking)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
+* [2023-10-20, 12:50:06](https://news.ycombinator.com/item?id=37955351) - [We caught technicians snooping on our personal devices](https://www.cbc.ca/news/business/marketplace-tech-repair-snooping-1.7000775)
 * [2023-10-20, 12:43:50](https://news.ycombinator.com/item?id=37955289) - [Qualcomm will try to have its Apple Silicon moment in PCs with \"Snapdragon X\"](https://arstechnica.com/gadgets/2023/10/qualcomm-will-try-to-have-its-apple-silicon-moment-in-pcs-with-snapdragon-x/)
 * [2023-10-20, 12:24:00](https://news.ycombinator.com/item?id=37955137) - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
 * [2023-10-20, 12:22:51](https://news.ycombinator.com/item?id=37955130) - [RabbitOS](https://www.rabbit.tech/)
