@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
-* [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
-* [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
+* [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 20:09:51](https://news.ycombinator.com/item?id=37960928) - [Twenty-four hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
-* [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [Accounting prof testifies about FTX's misuse of customers' money](https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/)
+* [2023-10-20, 19:47:01](https://news.ycombinator.com/item?id=37960666) - [OpenSSL Adds Support for Raw Public Key (RFC7250)](https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 – Flyweight IDE](https://geany.org/)
+* [2023-10-20, 18:48:47](https://news.ycombinator.com/item?id=37959931) - [Leaving the Phone at Home](https://josem.co/leaving-the-phone-at-home/)
 * [2023-10-20, 18:46:28](https://news.ycombinator.com/item?id=37959904) - [Hackers stole access tokens from Okta's support unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
+* [2023-10-20, 17:57:35](https://news.ycombinator.com/item?id=37959376) - [PowerDNS Starts to Use Rust](https://mailman.powerdns.com/pipermail/pdns-announce/2023-October/001284.html)
 * [2023-10-20, 17:54:28](https://news.ycombinator.com/item?id=37959340) - [Implication for C++ [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf)
 * [2023-10-20, 16:54:04](https://news.ycombinator.com/item?id=37958555) - [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)
 * [2023-10-20, 16:46:47](https://news.ycombinator.com/item?id=37958473) - [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
@@ -29,7 +30,6 @@
 * [2023-10-19, 23:54:02](https://news.ycombinator.com/item?id=37950399) - [Bumble bees drop to shake off Asian hornets](https://phys.org/news/2023-10-bumble-bees-asian-hornets.html)
 * [2023-10-19, 12:52:17](https://news.ycombinator.com/item?id=37942181) - [Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
 * [2023-10-19, 06:45:58](https://news.ycombinator.com/item?id=37939369) - [Durable Coroutines for Go](https://github.com/stealthrocket/coroutine)
-* [2023-10-19, 05:54:56](https://news.ycombinator.com/item?id=37939011) - [Ruvy: creating Wasm modules from Ruby code](https://shopify.engineering/introducing-ruvy)
 
 ## [Archives](archives/index.md)
 
