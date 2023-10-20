@@ -3,6 +3,7 @@
 * [2023-10-20, 21:23:10](https://news.ycombinator.com/item?id=37961710) - [The unexplainable growing wage gap](https://www.bls.gov/opub/mlr/2017/beyond-bls/the-unexplainable-growing-black-white-wage-gap.htm)
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
+* [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:17:37](https://news.ycombinator.com/item?id=37961007) - [DMCA Excemptions to \"Copyright Protection Systems\" Being Reconsidered](https://www.copyright.gov/1201/2024/)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 19:47:01](https://news.ycombinator.com/item?id=37960666) - [OpenSSL Adds Support for Raw Public Key (RFC7250)](https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/)
@@ -12,6 +13,7 @@
 * [2023-10-20, 17:54:28](https://news.ycombinator.com/item?id=37959340) - [Implication for C++ [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf)
 * [2023-10-20, 16:54:04](https://news.ycombinator.com/item?id=37958555) - [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)
 * [2023-10-20, 16:46:47](https://news.ycombinator.com/item?id=37958473) - [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
+* [2023-10-20, 16:13:13](https://news.ycombinator.com/item?id=37958060) - [A Digital Pornutopia, Part 1: The Seedy-ROM Revolution](https://www.filfre.net/2023/10/a-digital-pornutopia-part-1-the-seedy-rom-revolution/)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-20, 15:08:12](https://news.ycombinator.com/item?id=37957189) - [\"Useless Ruby sugar\": Pattern matching (Pt. 1)](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
 * [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
@@ -19,7 +21,6 @@
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:25:52](https://news.ycombinator.com/item?id=37955658) - [AI tidies up Wikipedia's references and boosts reliability](https://www.nature.com/articles/d41586-023-02894-x)
-* [2023-10-20, 13:22:25](https://news.ycombinator.com/item?id=37955620) - [Confidential computing and AI fit together](https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/)
 * [2023-10-20, 13:22:20](https://news.ycombinator.com/item?id=37955617) - [Versioning data in Postgres? Testing a Git like approach](https://www.specfy.io/blog/7-git-like-versioning-in-postgres)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
@@ -29,7 +30,6 @@
 * [2023-10-20, 06:51:32](https://news.ycombinator.com/item?id=37953094) - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 * [2023-10-19, 23:54:02](https://news.ycombinator.com/item?id=37950399) - [Bumble bees drop to shake off Asian hornets](https://phys.org/news/2023-10-bumble-bees-asian-hornets.html)
 * [2023-10-19, 12:52:17](https://news.ycombinator.com/item?id=37942181) - [Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
-* [2023-10-19, 06:45:58](https://news.ycombinator.com/item?id=37939369) - [Durable Coroutines for Go](https://github.com/stealthrocket/coroutine)
 
 ## [Archives](archives/index.md)
 
