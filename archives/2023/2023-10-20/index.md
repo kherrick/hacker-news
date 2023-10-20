@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 16:22:31](https://news.ycombinator.com/item?id=37958155) - [Big Banks Are Quietly Cutting Thousands of Employees](https://www.cnbc.com/2023/10/19/big-banks-cut-thousands-of-jobs-more-layoffs-coming.html)
 * [2023-10-20, 15:32:24](https://news.ycombinator.com/item?id=37957533) - [Intel Withdraws from Web Summit Following Israel Remarks](https://www.tomshardware.com/news/intel-withdraws-from-web-summit-following-israel-remarks)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird Implemented in TypeScript Types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
