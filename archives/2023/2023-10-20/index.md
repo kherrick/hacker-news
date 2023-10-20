@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 12:43:50](https://news.ycombinator.com/item?id=37955289) - [Qualcomm will try to have its Apple Silicon moment in PCs with \"Snapdragon X\"](https://arstechnica.com/gadgets/2023/10/qualcomm-will-try-to-have-its-apple-silicon-moment-in-pcs-with-snapdragon-x/)
+* [2023-10-20, 12:24:00](https://news.ycombinator.com/item?id=37955137) - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
+* [2023-10-20, 12:22:51](https://news.ycombinator.com/item?id=37955130) - [RabbitOS](https://www.rabbit.tech/)
+* [2023-10-20, 12:10:28](https://news.ycombinator.com/item?id=37955035) - [American Employees Reinvent the Sick Day](https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a)
 * [2023-10-20, 12:06:45](https://news.ycombinator.com/item?id=37955019) - [US single handedly blocks UN call for humanitarian pause and corridors into Gaza](https://www.theguardian.com/world/2023/oct/18/us-vetoes-un-call-for-humanitarian-pause-and-corridors-into-gaza)
 * [2023-10-20, 12:00:57](https://news.ycombinator.com/item?id=37954980) - [UpCodes (YC S17) is hiring remote engineers to help architects with compliance](https://up.codes/careers)
 * [2023-10-20, 11:42:44](https://news.ycombinator.com/item?id=37954854) - [Friday Factorio Facts #381 – Space Platforms](https://factorio.com/blog/post/fff-381)
+* [2023-10-20, 11:08:00](https://news.ycombinator.com/item?id=37954600) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2023-10-20, 09:58:44](https://news.ycombinator.com/item?id=37954180) - [300K Damage from Airbnb Guest](https://twitter.com/ErikaCoaches/status/1715053934585229806)
 * [2023-10-20, 09:57:31](https://news.ycombinator.com/item?id=37954171) - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
 * [2023-10-20, 09:17:40](https://news.ycombinator.com/item?id=37953920) - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
