@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-20, 19:21:24",
+      "https://news.ycombinator.com/item?id=37960330"
+    ],
+    [
+      "Windows 11 Pro's On-by-Default Encryption Slows SSDs Up to 45%",
+      "https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 19:18:13",
+      "https://news.ycombinator.com/item?id=37960289"
+    ],
+    [
+      "SBF Made $9B Disappear. This Forensic Accountant Found It",
+      "https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 18:53:09",
       "https://news.ycombinator.com/item?id=37959979"
     ],
@@ -37,16 +57,6 @@
     [
       "Implication for C++ [pdf]",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 17:54:27",
-      "https://news.ycombinator.com/item?id=37959339"
-    ],
-    [
-      "World Bank Helped Cover Up Sex Abuse at For-Profit School Chain",
-      "https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Introducing Ruvy",
       "https://shopify.engineering/introducing-ruvy"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 05:22:11",
-      "https://news.ycombinator.com/item?id=37938816"
-    ],
-    [
-      "Redis Insight: GUI App for Redis",
-      "https://redis.io/docs/ui/insight/"
     ]
   ]
 ]
