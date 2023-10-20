@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:50:17](https://news.ycombinator.com/item?id=37955974) - [The Tech Industry Has a New Plan to Stop Proliferation of Right to Repair Laws](https://www.404media.co/the-tech-industry-has-a-new-plan-to-stop-right-to-repair-laws/)

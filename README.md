@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:50:17](https://news.ycombinator.com/item?id=37955974) - [The Tech Industry Has a New Plan to Stop Proliferation of Right to Repair Laws](https://www.404media.co/the-tech-industry-has-a-new-plan-to-stop-right-to-repair-laws/)
@@ -28,7 +29,6 @@
 * [2023-10-20, 02:48:12](https://news.ycombinator.com/item?id=37951837) - [OS/2 Warp, PowerPC Edition](http://ps-2.kev009.com/michaln/history/os2ppc/index.html)
 * [2023-10-20, 01:47:06](https://news.ycombinator.com/item?id=37951343) - [Which Interpreters Are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
-* [2023-10-19, 10:39:30](https://news.ycombinator.com/item?id=37940973) - [Accounting for computer scientists (2011)](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 * [2023-10-18, 21:10:49](https://news.ycombinator.com/item?id=37934817) - [Webb detects quartz crystals in clouds of hot gas giant](https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html)
 
 ## [Archives](archives/index.md)
