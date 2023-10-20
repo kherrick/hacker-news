@@ -2,6 +2,7 @@
 
 * [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 * [2023-10-20, 07:37:16](https://news.ycombinator.com/item?id=37953336) - [Alexei Navalny's lawyers are arrested](https://www.economist.com/europe/2023/10/19/alexei-navalnys-lawyers-are-arrested)
+* [2023-10-20, 05:51:59](https://news.ycombinator.com/item?id=37952741) - [In Plane Sight: Drug agents searching passengers for cash at airport gates](https://www.atlantanewsfirst.com/2023/10/19/plane-sight-drug-agents-searching-passengers-cash-airport-gates/)
 * [2023-10-20, 05:48:47](https://news.ycombinator.com/item?id=37952719) - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
 * [2023-10-20, 05:21:20](https://news.ycombinator.com/item?id=37952597) - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
 * [2023-10-20, 03:26:24](https://news.ycombinator.com/item?id=37952079) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
@@ -29,7 +30,6 @@
 * [2023-10-19, 07:48:28](https://news.ycombinator.com/item?id=37939764) - [Libre Silicon – Free semiconductors for everyone](https://libresilicon.com/)
 * [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-18, 21:10:49](https://news.ycombinator.com/item?id=37934817) - [Webb detects quartz crystals in clouds of hot gas giant](https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html)
-* [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 
 ## [Archives](archives/index.md)
 
