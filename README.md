@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-20, 15:32:24](https://news.ycombinator.com/item?id=37957533) - [Intel Withdraws from Web Summit Following Israel Remarks](https://www.tomshardware.com/news/intel-withdraws-from-web-summit-following-israel-remarks)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird Implemented in TypeScript Types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
 * [2023-10-20, 14:23:37](https://news.ycombinator.com/item?id=37956480) - [Kyoto Statement on End-to-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
-* [2023-10-20, 14:18:52](https://news.ycombinator.com/item?id=37956406) - [10-year Treasury yield rises to 5%, highest level for the key rate in 16 years](https://www.cnbc.com/2023/10/19/us-treasurys-ahead-of-fed-chair-powell-speech.html)
+* [2023-10-20, 14:17:01](https://news.ycombinator.com/item?id=37956374) - [Mathematicians Found 12,000 Solutions to the Notoriously Hard Three-Body Problem](https://www.popularmechanics.com/science/math/a45074216/three-body-problem-solutions/)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:50:17](https://news.ycombinator.com/item?id=37955974) - [The Tech Industry Has a New Plan to Stop Proliferation of Right to Repair Laws](https://www.404media.co/the-tech-industry-has-a-new-plan-to-stop-right-to-repair-laws/)
 * [2023-10-20, 13:49:09](https://news.ycombinator.com/item?id=37955952) - [Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
@@ -14,7 +13,6 @@
 * [2023-10-20, 13:22:25](https://news.ycombinator.com/item?id=37955620) - [Confidential computing and AI fit together](https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/)
 * [2023-10-20, 13:22:20](https://news.ycombinator.com/item?id=37955617) - [Versioning data in Postgres? Testing a Git like approach](https://www.specfy.io/blog/7-git-like-versioning-in-postgres)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
-* [2023-10-20, 13:03:08](https://news.ycombinator.com/item?id=37955454) - [It's easy to screw up on breaking news. But you have to admit when you do](https://www.natesilver.net/p/its-easy-to-screw-up-on-breaking)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:50:06](https://news.ycombinator.com/item?id=37955351) - [We caught technicians snooping on our personal devices](https://www.cbc.ca/news/business/marketplace-tech-repair-snooping-1.7000775)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
@@ -30,6 +28,8 @@
 * [2023-10-20, 02:48:12](https://news.ycombinator.com/item?id=37951837) - [OS/2 Warp, PowerPC Edition](http://ps-2.kev009.com/michaln/history/os2ppc/index.html)
 * [2023-10-20, 01:47:06](https://news.ycombinator.com/item?id=37951343) - [Which Interpreters Are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
+* [2023-10-19, 05:22:11](https://news.ycombinator.com/item?id=37938816) - [Redis Insight: GUI App for Redis](https://redis.io/docs/ui/insight/)
+* [2023-10-18, 21:10:49](https://news.ycombinator.com/item?id=37934817) - [Webb detects quartz crystals in clouds of hot gas giant](https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html)
 
 ## [Archives](archives/index.md)
 
