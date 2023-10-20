@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 23:54:02](https://news.ycombinator.com/item?id=37950399) - [Bumble bees drop to shake off Asian hornets](https://phys.org/news/2023-10-bumble-bees-asian-hornets.html)
 * [2023-10-19, 23:20:31](https://news.ycombinator.com/item?id=37950126) - [Marines Test Fire Robot Dog Armed with Rocket Launcher](https://www.thedrive.com/the-war-zone/marines-test-fire-robot-dog-armed-with-rocket-launcher)
 * [2023-10-19, 23:05:32](https://news.ycombinator.com/item?id=37950014) - [Toyota Adopts the North American Charging Standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
 * [2023-10-19, 23:03:18](https://news.ycombinator.com/item?id=37949994) - [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
