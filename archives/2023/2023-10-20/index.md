@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:49:09](https://news.ycombinator.com/item?id=37955952) - [Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
 * [2023-10-20, 13:30:16](https://news.ycombinator.com/item?id=37955711) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
@@ -46,6 +47,7 @@
 * [2023-10-20, 04:05:24](https://news.ycombinator.com/item?id=37952279) - [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
 * [2023-10-20, 03:59:16](https://news.ycombinator.com/item?id=37952248) - [FBI says North Korea deployed thousands of IT workers to get remote jobs in US](https://www.businessinsider.com/north-korea-workers-remote-work-jobs-us-ballistic-missle-fbi-2023-10)
 * [2023-10-20, 03:26:24](https://news.ycombinator.com/item?id=37952079) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
+* [2023-10-20, 02:56:18](https://news.ycombinator.com/item?id=37951900) - [Everything Looks Like a Nail](https://wheresyoured.at/p/everything-looks-like-a-nail)
 * [2023-10-20, 02:48:12](https://news.ycombinator.com/item?id=37951837) - [OS/2 Warp, PowerPC Edition](http://ps-2.kev009.com/michaln/history/os2ppc/index.html)
 * [2023-10-20, 02:17:38](https://news.ycombinator.com/item?id=37951579) - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
 * [2023-10-20, 01:48:03](https://news.ycombinator.com/item?id=37951351) - [Marc Andreessen Is Wrong About Everything](https://gizmodo.com/marc-andreessen-is-wrong-about-everything-1850934367)
