@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 05:21:20](https://news.ycombinator.com/item?id=37952597) - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
 * [2023-10-20, 04:05:24](https://news.ycombinator.com/item?id=37952279) - [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
 * [2023-10-20, 03:26:24](https://news.ycombinator.com/item?id=37952079) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
@@ -29,7 +30,6 @@
 * [2023-10-19, 09:26:11](https://news.ycombinator.com/item?id=37940484) - [In-memory database Redis wants to dabble in disk](https://www.theregister.com/2023/10/19/redis_disk_support/)
 * [2023-10-19, 07:48:28](https://news.ycombinator.com/item?id=37939764) - [Libre Silicon – Free semiconductors for everyone](https://libresilicon.com/)
 * [2023-10-18, 21:10:49](https://news.ycombinator.com/item?id=37934817) - [Webb detects quartz crystals in clouds of hot gas giant](https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html)
-* [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 
 ## [Archives](archives/index.md)
 
