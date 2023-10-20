@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 18:10:50](https://news.ycombinator.com/item?id=37959540) - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
 * [2023-10-20, 17:46:24](https://news.ycombinator.com/item?id=37959231) - [OpenAI in Talks for Deal That Would Value Company at $80B](https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html)
 * [2023-10-20, 17:00:12](https://news.ycombinator.com/item?id=37958633) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-10-20, 16:54:04](https://news.ycombinator.com/item?id=37958555) - [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)
@@ -24,6 +25,7 @@
 * [2023-10-20, 14:39:34](https://news.ycombinator.com/item?id=37956747) - [Ray-Ban Meta smart glasses: a turning point](https://www.theverge.com/23922425/ray-ban-meta-smart-glasses-review)
 * [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
 * [2023-10-20, 14:23:37](https://news.ycombinator.com/item?id=37956480) - [Kyoto Statement on End-to-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
+* [2023-10-20, 14:22:42](https://news.ycombinator.com/item?id=37956463) - [Show HN: Monitor all exploits in wild easily for any CVE/EDB/GHSA or Technology](https://www.exploit.observer/)
 * [2023-10-20, 14:18:52](https://news.ycombinator.com/item?id=37956406) - [10-year Treasury yield rises to 5%, highest level for the key rate in 16 years](https://www.cnbc.com/2023/10/19/us-treasurys-ahead-of-fed-chair-powell-speech.html)
 * [2023-10-20, 14:17:01](https://news.ycombinator.com/item?id=37956374) - [Mathematicians Found 12,000 Solutions to the Notoriously Hard Three-Body Problem](https://www.popularmechanics.com/science/math/a45074216/three-body-problem-solutions/)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
