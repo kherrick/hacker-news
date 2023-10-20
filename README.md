@@ -3,7 +3,7 @@
 * [2023-10-20, 21:01:04](https://news.ycombinator.com/item?id=37961464) - [Hetzner does run a (MitM) proxy in front of my server](https://old.reddit.com/r/hetzner/comments/17ccp3i/hetzner_does_run_a_mitm_proxy_in_front_of_my/)
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
-* [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
+* [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:17:37](https://news.ycombinator.com/item?id=37961007) - [DMCA Excemptions to \"Copyright Protection Systems\" Being Reconsidered](https://www.copyright.gov/1201/2024/)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 19:47:01](https://news.ycombinator.com/item?id=37960666) - [OpenSSL Adds Support for Raw Public Key (RFC7250)](https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/)
