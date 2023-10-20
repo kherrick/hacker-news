@@ -19,7 +19,7 @@
 * [2023-10-19, 19:48:08](https://news.ycombinator.com/item?id=37947763) - [Banging errors in Go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
 * [2023-10-19, 17:43:46](https://news.ycombinator.com/item?id=37946017) - [Trucking startup Convoy closes operations with no buyer](https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer)
-* [2023-10-19, 17:08:28](https://news.ycombinator.com/item?id=37945543) - [Show HN: Generate Stable Diffusion scenes around 3D models](https://github.com/Dabble-Studio/3d-to-photo)
+* [2023-10-19, 17:40:25](https://news.ycombinator.com/item?id=37945961) - [The Geometry of Truth: Do LLM's Know True and False](https://saprmarks.github.io/geometry-of-truth/dataexplorer/)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:07:32](https://news.ycombinator.com/item?id=37943920) - [In ancient Egypt, soul houses and false doors connected the living and the dead](https://www.atlasobscura.com/articles/ancient-egypt-soul-houses-false-doors)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans ate seaweed for thousands of years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
