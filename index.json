@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 21:23:10",
+      "https://news.ycombinator.com/item?id=37961710"
+    ],
+    [
+      "The unexplainable growing wage gap",
+      "https://www.bls.gov/opub/mlr/2017/beyond-bls/the-unexplainable-growing-black-white-wage-gap.htm"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 21:00:12",
       "https://news.ycombinator.com/item?id=37961453"
     ],
@@ -17,6 +27,16 @@
     [
       "How the creator of Alone in the Dark came back to games",
       "https://news.play.date/news/skew/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 20:17:37",
+      "https://news.ycombinator.com/item?id=37961007"
+    ],
+    [
+      "DMCA Excemptions to \"Copyright Protection Systems\" Being Reconsidered",
+      "https://www.copyright.gov/1201/2024/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Hackers stole access tokens from Okta's support unit",
       "https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 17:57:35",
-      "https://news.ycombinator.com/item?id=37959376"
-    ],
-    [
-      "PowerDNS Starts to Use Rust",
-      "https://mailman.powerdns.com/pipermail/pdns-announce/2023-October/001284.html"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-10-20, 13:22:25",
+      "https://news.ycombinator.com/item?id=37955620"
+    ],
+    [
+      "Confidential computing and AI fit together",
+      "https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 13:22:20",
       "https://news.ycombinator.com/item?id=37955617"
     ],
@@ -217,16 +237,6 @@
     [
       "Encrypted traffic interception on Hetzner and Linode targeting Jabber service",
       "https://notes.valdikss.org.ru/jabber.ru-mitm/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 11:08:00",
-      "https://news.ycombinator.com/item?id=37954600"
-    ],
-    [
-      "Hexagonal Grids (2013)",
-      "https://www.redblobgames.com/grids/hexagons/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Durable Coroutines for Go",
       "https://github.com/stealthrocket/coroutine"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 05:54:56",
-      "https://news.ycombinator.com/item?id=37939011"
-    ],
-    [
-      "Ruvy: creating Wasm modules from Ruby code",
-      "https://shopify.engineering/introducing-ruvy"
     ]
   ]
 ]
