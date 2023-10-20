@@ -15,8 +15,8 @@
       "https://news.ycombinator.com/item?id=37960289"
     ],
     [
-      "SBF Made $9B Disappear. This Forensic Accountant Found It",
-      "https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819"
+      "Accounting prof testifies about FTX's misuse of customers' money",
+      "https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/"
     ]
   ],
   [
@@ -35,8 +35,8 @@
       "https://news.ycombinator.com/item?id=37959979"
     ],
     [
-      "Geany 2.0 Is Out",
-      "https://www.geany.org/news/geany-20-is-out/"
+      "Geany 2.0 – Flyweight IDE",
+      "https://geany.org/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37959904"
     ],
     [
-      "Hackers Stole Access Tokens from Okta's Support Unit",
+      "Hackers stole access tokens from Okta's support unit",
       "https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Implication for C++ [pdf]",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 17:54:27",
-      "https://news.ycombinator.com/item?id=37959339"
-    ],
-    [
-      "World Bank Helped Cover Up Sex Abuse at For-Profit School Chain",
-      "https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37956856"
     ],
     [
-      "Flappy Bird Implemented in TypeScript Types",
+      "Flappy Bird implemented in TypeScript types",
       "https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37955658"
     ],
     [
-      "AI tidies up Wikipedia's references – and boosts reliability",
+      "AI tidies up Wikipedia's references and boosts reliability",
       "https://www.nature.com/articles/d41586-023-02894-x"
     ]
   ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2023-10-19, 12:52:17",
+      "https://news.ycombinator.com/item?id=37942181"
+    ],
+    [
+      "Blaze: Fast query execution engine for Apache Spark",
+      "https://github.com/blaze-init/blaze"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 06:45:58",
       "https://news.ycombinator.com/item?id=37939369"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37939011"
     ],
     [
-      "Introducing Ruvy",
+      "Ruvy: creating Wasm modules from Ruby code",
       "https://shopify.engineering/introducing-ruvy"
     ]
   ]
