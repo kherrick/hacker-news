@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 21:23:10](https://news.ycombinator.com/item?id=37961710) - [The unexplainable growing wage gap](https://www.bls.gov/opub/mlr/2017/beyond-bls/the-unexplainable-growing-black-white-wage-gap.htm)
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
+* [2023-10-20, 20:17:37](https://news.ycombinator.com/item?id=37961007) - [DMCA Excemptions to \"Copyright Protection Systems\" Being Reconsidered](https://www.copyright.gov/1201/2024/)
 * [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 20:09:51](https://news.ycombinator.com/item?id=37960928) - [Twenty-Four Hours in An Invisible Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
