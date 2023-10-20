@@ -22,6 +22,7 @@
 * [2023-10-18, 21:54:09](https://news.ycombinator.com/item?id=37935288) - [Ask HN: Why did the number of new GitHub repos crash in late 2022](https://news.ycombinator.com/item?id=37935288)
 * [2023-10-18, 21:49:14](https://news.ycombinator.com/item?id=37935232) - [The Enhanced Game – Sports, without drug testing](https://enhanced.org/)
 * [2023-10-18, 21:31:00](https://news.ycombinator.com/item?id=37935053) - [How to Scale Nuclear Power](https://a16z.com/how-to-scale-nuclear-power/)
+* [2023-10-18, 21:10:49](https://news.ycombinator.com/item?id=37934817) - [Webb detects quartz crystals in clouds of hot gas giant](https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html)
 * [2023-10-18, 21:07:27](https://news.ycombinator.com/item?id=37934781) - [Yanis Varoufakis: 'Capitalism is dead. The new order is a techno-feudal economy'](https://english.elpais.com/economy-and-business/2023-10-11/yanis-varoufakis-capitalism-is-dead-the-new-order-is-a-techno-feudal-economy.html)
 * [2023-10-18, 21:01:28](https://news.ycombinator.com/item?id=37934705) - [ArgoCon – Vendor-neutral Argo-focused Event](https://akuity.io/argocon/)
 * [2023-10-18, 21:00:19](https://news.ycombinator.com/item?id=37934688) - [Prequel.co (Enterprise Data Sharing) Is Hiring a Founding Marketer](https://prequelco.notion.site/Founding-Marketer-Prequel-prequel-co-1d7c0fe411fa4989a50729c014611f1c)
