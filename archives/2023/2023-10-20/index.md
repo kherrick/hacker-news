@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 21:41:02](https://news.ycombinator.com/item?id=37961873) - [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
 * [2023-10-20, 21:39:58](https://news.ycombinator.com/item?id=37961860) - [Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
 * [2023-10-20, 21:23:10](https://news.ycombinator.com/item?id=37961710) - [The unexplainable growing wage gap](https://www.bls.gov/opub/mlr/2017/beyond-bls/the-unexplainable-growing-black-white-wage-gap.htm)
 * [2023-10-20, 21:01:04](https://news.ycombinator.com/item?id=37961464) - [Hetzner does run a (MitM) proxy in front of my server](https://old.reddit.com/r/hetzner/comments/17ccp3i/hetzner_does_run_a_mitm_proxy_in_front_of_my/)
