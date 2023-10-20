@@ -18,9 +18,8 @@
 * [2023-10-19, 20:59:52](https://news.ycombinator.com/item?id=37948648) - [Improving image generation with better captions [pdf]](https://cdn.openai.com/papers/dall-e-3.pdf)
 * [2023-10-19, 19:48:49](https://news.ycombinator.com/item?id=37947772) - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-19, 19:48:08](https://news.ycombinator.com/item?id=37947763) - [Banging errors in Go](https://flak.tedunangst.com/post/bango)
-* [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
 * [2023-10-19, 17:43:46](https://news.ycombinator.com/item?id=37946017) - [Trucking startup Convoy closes operations with no buyer](https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer)
-* [2023-10-19, 17:40:25](https://news.ycombinator.com/item?id=37945961) - [The Geometry of Truth: Do LLM's Know True and False](https://saprmarks.github.io/geometry-of-truth/dataexplorer/)
+* [2023-10-19, 16:28:47](https://news.ycombinator.com/item?id=37945006) - [Eric 'Winkle\" Brown – His Best and Worst Aircraft [video]](https://www.youtube.com/watch?v=37cG_LcrNhI)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:07:32](https://news.ycombinator.com/item?id=37943920) - [In ancient Egypt, soul houses and false doors connected the living and the dead](https://www.atlasobscura.com/articles/ancient-egypt-soul-houses-false-doors)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans ate seaweed for thousands of years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
@@ -28,6 +27,7 @@
 * [2023-10-19, 10:22:01](https://news.ycombinator.com/item?id=37940842) - [AtomVM: Erlang virtual machine for IoT devices](https://www.atomvm.net//)
 * [2023-10-19, 09:44:57](https://news.ycombinator.com/item?id=37940601) - [Delphic Hymns](https://en.wikipedia.org/wiki/Delphic_Hymns)
 * [2023-10-19, 07:48:28](https://news.ycombinator.com/item?id=37939764) - [Libre Silicon – Free semiconductors for everyone](https://libresilicon.com/)
+* [2023-10-19, 03:56:45](https://news.ycombinator.com/item?id=37938183) - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 * [2023-10-18, 21:10:49](https://news.ycombinator.com/item?id=37934817) - [Webb detects quartz crystals in clouds of hot gas giant](https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html)
 * [2023-10-18, 16:39:17](https://news.ycombinator.com/item?id=37931180) - [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 
