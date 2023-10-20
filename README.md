@@ -2,7 +2,6 @@
 
 * [2023-10-20, 19:21:24](https://news.ycombinator.com/item?id=37960330) - [Windows 11 Pro's On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [SBF Made $9B Disappear. This Forensic Accountant Found It](https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819)
-* [2023-10-20, 19:14:12](https://news.ycombinator.com/item?id=37960239) - [Why America Is Out of Ammunition](https://www.thebignewsletter.com/p/why-america-is-out-of-ammunition)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
 * [2023-10-20, 18:46:28](https://news.ycombinator.com/item?id=37959904) - [Hackers Stole Access Tokens from Okta's Support Unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
 * [2023-10-20, 18:10:50](https://news.ycombinator.com/item?id=37959540) - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
@@ -19,6 +18,7 @@
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:25:52](https://news.ycombinator.com/item?id=37955658) - [AI tidies up Wikipedia's references – and boosts reliability](https://www.nature.com/articles/d41586-023-02894-x)
+* [2023-10-20, 13:22:25](https://news.ycombinator.com/item?id=37955620) - [Confidential computing and AI fit together](https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/)
 * [2023-10-20, 13:22:20](https://news.ycombinator.com/item?id=37955617) - [Versioning data in Postgres? Testing a Git like approach](https://www.specfy.io/blog/7-git-like-versioning-in-postgres)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
