@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 12:06:45](https://news.ycombinator.com/item?id=37955019) - [US single handedly blocks UN call for humanitarian pause and corridors into Gaza](https://www.theguardian.com/world/2023/oct/18/us-vetoes-un-call-for-humanitarian-pause-and-corridors-into-gaza)
+* [2023-10-20, 12:00:57](https://news.ycombinator.com/item?id=37954980) - [UpCodes (YC S17) is hiring remote engineers to help architects with compliance](https://up.codes/careers)
+* [2023-10-20, 11:42:44](https://news.ycombinator.com/item?id=37954854) - [Friday Factorio Facts #381 – Space Platforms](https://factorio.com/blog/post/fff-381)
 * [2023-10-20, 09:58:44](https://news.ycombinator.com/item?id=37954180) - [300K Damage from Airbnb Guest](https://twitter.com/ErikaCoaches/status/1715053934585229806)
 * [2023-10-20, 09:57:31](https://news.ycombinator.com/item?id=37954171) - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
 * [2023-10-20, 09:17:40](https://news.ycombinator.com/item?id=37953920) - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
