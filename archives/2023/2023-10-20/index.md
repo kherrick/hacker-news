@@ -9,6 +9,7 @@
 * [2023-10-20, 13:30:16](https://news.ycombinator.com/item?id=37955711) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
 * [2023-10-20, 13:25:52](https://news.ycombinator.com/item?id=37955658) - [AI tidies up Wikipedia's references – and boosts reliability](https://www.nature.com/articles/d41586-023-02894-x)
 * [2023-10-20, 13:24:01](https://news.ycombinator.com/item?id=37955633) - [Some advice I would give to a junior DevOps Engineer](https://oschvr.com/posts/advice-for-junior-devops/)
+* [2023-10-20, 13:22:25](https://news.ycombinator.com/item?id=37955620) - [Confidential computing and AI fit together](https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/)
 * [2023-10-20, 13:22:20](https://news.ycombinator.com/item?id=37955617) - [Versioning data in Postgres? Testing a Git like approach](https://www.specfy.io/blog/7-git-like-versioning-in-postgres)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 13:16:09](https://news.ycombinator.com/item?id=37955563) - [Ford Mustang Mach-E Recalled Because Battery Can't Handle Owners Flooring It](https://www.thedrive.com/news/ford-mustang-mach-e-recalled-because-battery-cant-handle-owners-flooring-it)
