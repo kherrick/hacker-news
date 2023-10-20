@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 08:23:10",
+      "https://news.ycombinator.com/item?id=37953569"
+    ],
+    [
+      "A tutorial for the sam command language (1986) [pdf]",
+      "http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 07:37:16",
       "https://news.ycombinator.com/item?id=37953336"
     ],
@@ -257,16 +267,6 @@
     [
       "Delphic Hymns",
       "https://en.wikipedia.org/wiki/Delphic_Hymns"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 09:26:11",
-      "https://news.ycombinator.com/item?id=37940484"
-    ],
-    [
-      "In-memory database Redis wants to dabble in disk",
-      "https://www.theregister.com/2023/10/19/redis_disk_support/"
     ]
   ],
   [
