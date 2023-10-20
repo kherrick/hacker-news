@@ -21,6 +21,7 @@
 * [2023-10-20, 11:42:44](https://news.ycombinator.com/item?id=37954854) - [Friday Factorio Facts #381 – Space Platforms](https://factorio.com/blog/post/fff-381)
 * [2023-10-20, 11:08:00](https://news.ycombinator.com/item?id=37954600) - [Hexagonal Grids (2013)](https://www.redblobgames.com/grids/hexagons/)
 * [2023-10-20, 08:50:42](https://news.ycombinator.com/item?id=37953741) - [The Unix Game](https://unixgame.io/unix50)
+* [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 * [2023-10-20, 07:21:36](https://news.ycombinator.com/item?id=37953267) - [Instagram apologises for adding 'terrorist' to some Palestinian user profiles](https://www.theguardian.com/technology/2023/oct/20/instagram-palestinian-user-profile-bios-terrorist-added-translation-meta-apology)
 * [2023-10-20, 06:51:32](https://news.ycombinator.com/item?id=37953094) - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 * [2023-10-20, 05:48:47](https://news.ycombinator.com/item?id=37952719) - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
@@ -29,7 +30,6 @@
 * [2023-10-20, 01:47:06](https://news.ycombinator.com/item?id=37951343) - [Which Interpreters Are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 * [2023-10-19, 05:22:11](https://news.ycombinator.com/item?id=37938816) - [Redis Insight: GUI App for Redis](https://redis.io/docs/ui/insight/)
-* [2023-10-18, 21:10:49](https://news.ycombinator.com/item?id=37934817) - [Webb detects quartz crystals in clouds of hot gas giant](https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html)
 
 ## [Archives](archives/index.md)
 
