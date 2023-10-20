@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-20, 04:31:42](https://news.ycombinator.com/item?id=37952410) - [Mentally Ill Man with AI Girlfriend Tried to Kill Queen](https://www.loweringthebar.net/2023/10/sith-lord-gets-nine-years-treason.html)
+* [2023-10-20, 04:05:24](https://news.ycombinator.com/item?id=37952279) - [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 * [2023-10-19, 23:03:18](https://news.ycombinator.com/item?id=37949994) - [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
 * [2023-10-19, 22:57:30](https://news.ycombinator.com/item?id=37949950) - [Anna's Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
@@ -18,7 +19,6 @@
 * [2023-10-19, 17:08:28](https://news.ycombinator.com/item?id=37945543) - [Show HN: Generate Stable Diffusion scenes around 3D models](https://github.com/Dabble-Studio/3d-to-photo)
 * [2023-10-19, 16:28:47](https://news.ycombinator.com/item?id=37945006) - [Eric 'Winkle\" Brown – His Best and Worst Aircraft [video]](https://www.youtube.com/watch?v=37cG_LcrNhI)
 * [2023-10-19, 15:30:18](https://news.ycombinator.com/item?id=37944269) - [Researchers identify largest ever solar storm in 14k-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
-* [2023-10-19, 15:25:56](https://news.ycombinator.com/item?id=37944198) - [The 1924 Mikiphone: The first pocket record player](https://rarehistoricalphotos.com/mikiphone/)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:07:32](https://news.ycombinator.com/item?id=37943920) - [In ancient Egypt, soul houses and false doors connected the living and the dead](https://www.atlasobscura.com/articles/ancient-egypt-soul-houses-false-doors)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans ate seaweed for thousands of years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
