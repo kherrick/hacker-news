@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 07:37:16](https://news.ycombinator.com/item?id=37953336) - [Alexei Navalny's lawyers are arrested](https://www.economist.com/europe/2023/10/19/alexei-navalnys-lawyers-are-arrested)
 * [2023-10-20, 05:48:47](https://news.ycombinator.com/item?id=37952719) - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
 * [2023-10-20, 05:21:20](https://news.ycombinator.com/item?id=37952597) - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
 * [2023-10-20, 03:26:24](https://news.ycombinator.com/item?id=37952079) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
@@ -18,7 +19,6 @@
 * [2023-10-19, 19:48:08](https://news.ycombinator.com/item?id=37947763) - [Banging errors in Go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 17:50:21](https://news.ycombinator.com/item?id=37946109) - [Joining CSV Data Without SQL: An IP Geolocation Use Case](https://www.brimdata.io/blog/join-geolocation-csv-data/)
 * [2023-10-19, 17:43:46](https://news.ycombinator.com/item?id=37946017) - [Trucking startup Convoy closes operations with no buyer](https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer)
-* [2023-10-19, 17:40:25](https://news.ycombinator.com/item?id=37945961) - [The Geometry of Truth: Do LLM's Know True and False](https://saprmarks.github.io/geometry-of-truth/dataexplorer/)
 * [2023-10-19, 17:08:28](https://news.ycombinator.com/item?id=37945543) - [Show HN: Generate Stable Diffusion scenes around 3D models](https://github.com/Dabble-Studio/3d-to-photo)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:07:32](https://news.ycombinator.com/item?id=37943920) - [In ancient Egypt, soul houses and false doors connected the living and the dead](https://www.atlasobscura.com/articles/ancient-egypt-soul-houses-false-doors)
