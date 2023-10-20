@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-20, 15:32:24",
-      "https://news.ycombinator.com/item?id=37957533"
-    ],
-    [
-      "Intel Withdraws from Web Summit Following Israel Remarks",
-      "https://www.tomshardware.com/news/intel-withdraws-from-web-summit-following-israel-remarks"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 15:22:52",
       "https://news.ycombinator.com/item?id=37957397"
     ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2023-10-20, 14:18:52",
-      "https://news.ycombinator.com/item?id=37956406"
+      "2023-10-20, 14:17:01",
+      "https://news.ycombinator.com/item?id=37956374"
     ],
     [
-      "10-year Treasury yield rises to 5%, highest level for the key rate in 16 years",
-      "https://www.cnbc.com/2023/10/19/us-treasurys-ahead-of-fed-chair-powell-speech.html"
+      "Mathematicians Found 12,000 Solutions to the Notoriously Hard Three-Body Problem",
+      "https://www.popularmechanics.com/science/math/a45074216/three-body-problem-solutions/"
     ]
   ],
   [
@@ -137,16 +127,6 @@
     [
       "In search of the least viewed article on Wikipedia (2022)",
       "http://colinmorris.github.io/blog/unpopular-wiki-articles"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 13:03:08",
-      "https://news.ycombinator.com/item?id=37955454"
-    ],
-    [
-      "It's easy to screw up on breaking news. But you have to admit when you do",
-      "https://www.natesilver.net/p/its-easy-to-screw-up-on-breaking"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Nota is a language for writing documents, like academic papers and blog posts",
       "https://nota-lang.org/#def-nota"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 05:22:11",
+      "https://news.ycombinator.com/item?id=37938816"
+    ],
+    [
+      "Redis Insight: GUI App for Redis",
+      "https://redis.io/docs/ui/insight/"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 21:10:49",
+      "https://news.ycombinator.com/item?id=37934817"
+    ],
+    [
+      "Webb detects quartz crystals in clouds of hot gas giant",
+      "https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html"
     ]
   ]
 ]
