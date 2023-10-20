@@ -6,7 +6,7 @@
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
-* [2023-10-20, 19:47:01](https://news.ycombinator.com/item?id=37960666) - [OpenSSL Adds Support for Raw Public Key (RFC7250)](https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/)
+* [2023-10-20, 19:46:47](https://news.ycombinator.com/item?id=37960663) - [Blade Runner: The Unofficial White Dragon Cut](https://whitedragoncut.com/?page_id=1589&lang=en)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 – Flyweight IDE](https://geany.org/)
 * [2023-10-20, 18:46:28](https://news.ycombinator.com/item?id=37959904) - [Hackers stole access tokens from Okta's support unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
 * [2023-10-20, 17:57:35](https://news.ycombinator.com/item?id=37959376) - [PowerDNS Starts to Use Rust](https://mailman.powerdns.com/pipermail/pdns-announce/2023-October/001284.html)
