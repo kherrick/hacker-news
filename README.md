@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 09:58:44](https://news.ycombinator.com/item?id=37954180) - [300K Damage from Airbnb Guest](https://twitter.com/ErikaCoaches/status/1715053934585229806)
+* [2023-10-20, 09:57:31](https://news.ycombinator.com/item?id=37954171) - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
 * [2023-10-20, 09:17:40](https://news.ycombinator.com/item?id=37953920) - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
 * [2023-10-20, 08:50:42](https://news.ycombinator.com/item?id=37953741) - [The Unix Game](https://unixgame.io/unix50)
 * [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
@@ -14,7 +16,6 @@
 * [2023-10-19, 23:03:18](https://news.ycombinator.com/item?id=37949994) - [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
 * [2023-10-19, 22:57:30](https://news.ycombinator.com/item?id=37949950) - [Anna's Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
 * [2023-10-19, 22:32:30](https://news.ycombinator.com/item?id=37949688) - [Vectorpea: Online Tool for Vector Graphics](https://www.vectorpea.com/)
-* [2023-10-19, 22:28:19](https://news.ycombinator.com/item?id=37949656) - [ArXiv receives $10M for upgrades](https://news.cornell.edu/stories/2023/10/research-repository-arxiv-receives-10m-upgrades)
 * [2023-10-19, 22:16:20](https://news.ycombinator.com/item?id=37949504) - [Text-to-CAD: Risks and Opportunities](https://thegradient.pub/text-to-cad/)
 * [2023-10-19, 21:25:55](https://news.ycombinator.com/item?id=37948938) - [Ketamine's effect on depression may hinge on hope](https://med.stanford.edu/news/all-news/2023/10/ketamine.html)
 * [2023-10-19, 21:00:47](https://news.ycombinator.com/item?id=37948658) - [Laylo (YC S20) is hiring a lead growth engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
@@ -22,7 +23,6 @@
 * [2023-10-19, 19:48:49](https://news.ycombinator.com/item?id=37947772) - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-19, 19:48:08](https://news.ycombinator.com/item?id=37947763) - [Banging errors in Go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 17:43:46](https://news.ycombinator.com/item?id=37946017) - [Trucking startup Convoy closes operations with no buyer](https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer)
-* [2023-10-19, 16:28:47](https://news.ycombinator.com/item?id=37945006) - [Eric 'Winkle\" Brown – His Best and Worst Aircraft [video]](https://www.youtube.com/watch?v=37cG_LcrNhI)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:07:32](https://news.ycombinator.com/item?id=37943920) - [In ancient Egypt, soul houses and false doors connected the living and the dead](https://www.atlasobscura.com/articles/ancient-egypt-soul-houses-false-doors)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans ate seaweed for thousands of years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
