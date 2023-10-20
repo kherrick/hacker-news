@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-10-20, 20:31:29",
+      "https://news.ycombinator.com/item?id=37961166"
+    ],
+    [
+      "How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident",
+      "https://www.devever.net/~hl/xmpp-incident"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 20:17:37",
       "https://news.ycombinator.com/item?id=37961007"
     ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2023-10-20, 16:13:13",
+      "https://news.ycombinator.com/item?id=37958060"
+    ],
+    [
+      "A Digital Pornutopia, Part 1: The Seedy-ROM Revolution",
+      "https://www.filfre.net/2023/10/a-digital-pornutopia-part-1-the-seedy-rom-revolution/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 15:22:52",
       "https://news.ycombinator.com/item?id=37957397"
     ],
@@ -187,16 +207,6 @@
     [
       "AI tidies up Wikipedia's references and boosts reliability",
       "https://www.nature.com/articles/d41586-023-02894-x"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 13:22:25",
-      "https://news.ycombinator.com/item?id=37955620"
-    ],
-    [
-      "Confidential computing and AI fit together",
-      "https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Blaze: Fast query execution engine for Apache Spark",
       "https://github.com/blaze-init/blaze"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 06:45:58",
-      "https://news.ycombinator.com/item?id=37939369"
-    ],
-    [
-      "Durable Coroutines for Go",
-      "https://github.com/stealthrocket/coroutine"
     ]
   ]
 ]
