@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 13:49:09](https://news.ycombinator.com/item?id=37955952) - [Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
+* [2023-10-20, 13:30:16](https://news.ycombinator.com/item?id=37955711) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
+* [2023-10-20, 13:25:52](https://news.ycombinator.com/item?id=37955658) - [AI tidies up Wikipedia's references – and boosts reliability](https://www.nature.com/articles/d41586-023-02894-x)
 * [2023-10-20, 13:24:01](https://news.ycombinator.com/item?id=37955633) - [Some advice I would give to a junior DevOps Engineer](https://oschvr.com/posts/advice-for-junior-devops/)
 * [2023-10-20, 13:22:20](https://news.ycombinator.com/item?id=37955617) - [Versioning data in Postgres? Testing a Git like approach](https://www.specfy.io/blog/7-git-like-versioning-in-postgres)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
