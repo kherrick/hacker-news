@@ -108,4 +108,5 @@
 * [2023-10-20, 01:47:06](https://news.ycombinator.com/item?id=37951343) - [Which Interpreters Are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 * [2023-10-20, 00:59:40](https://news.ycombinator.com/item?id=37950944) - [Nearly half of non-Tesla EV owners want to go back to ICE](https://www.spglobal.com/mobility/en/research-analysis/does-the-auto-industry-have-an-ev-loyalty-problem.html)
+* [2023-10-20, 00:45:23](https://news.ycombinator.com/item?id=37950811) - [International team develops novel DNA nano engine](https://phys.org/news/2023-10-international-team-dna-nano.html)
 * [2023-10-20, 00:13:51](https://news.ycombinator.com/item?id=37950534) - [Replit permanently moves to paid hosting after 7 years of free service](https://noreplit.com/)
