@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 17:46:24",
+      "https://news.ycombinator.com/item?id=37959231"
+    ],
+    [
+      "OpenAI in Talks for Deal That Would Value Company at $80B",
+      "https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 17:00:12",
       "https://news.ycombinator.com/item?id=37958633"
     ],
@@ -47,6 +57,16 @@
     [
       "Top Crypto Firms Named in $1B Fraud Lawsuit",
       "https://www.bbc.com/news/business-67161638"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 15:44:35",
+      "https://news.ycombinator.com/item?id=37957733"
+    ],
+    [
+      "Brazil police arrest two intel agents for alleged illegal surveillance",
+      "https://www.reuters.com/world/americas/brazil-police-arrest-two-intel-agents-alleged-illegal-surveillance-2023-10-20/"
     ]
   ],
   [
@@ -107,26 +127,6 @@
     [
       "Eclipse October 2023",
       "https://www.gridstatus.io/dashboards/eclipse-oct-2023"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 14:39:34",
-      "https://news.ycombinator.com/item?id=37956747"
-    ],
-    [
-      "Ray-Ban Meta smart glasses: a turning point",
-      "https://www.theverge.com/23922425/ray-ban-meta-smart-glasses-review"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 14:37:25",
-      "https://news.ycombinator.com/item?id=37956714"
-    ],
-    [
-      "Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral",
-      "https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-10-20, 02:48:12",
-      "https://news.ycombinator.com/item?id=37951837"
-    ],
-    [
-      "OS/2 Warp, PowerPC Edition",
-      "http://ps-2.kev009.com/michaln/history/os2ppc/index.html"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 01:00:51",
       "https://news.ycombinator.com/item?id=37950952"
     ],
     [
       "Nota is a language for writing documents, like academic papers and blog posts",
       "https://nota-lang.org/#def-nota"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 06:45:58",
+      "https://news.ycombinator.com/item?id=37939369"
+    ],
+    [
+      "Durable Coroutines for Go",
+      "https://github.com/stealthrocket/coroutine"
     ]
   ],
   [
