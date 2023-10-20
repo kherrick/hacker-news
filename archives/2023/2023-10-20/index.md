@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
@@ -79,6 +80,7 @@
 * [2023-10-20, 08:50:42](https://news.ycombinator.com/item?id=37953741) - [The Unix Game](https://unixgame.io/unix50)
 * [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 * [2023-10-20, 07:37:16](https://news.ycombinator.com/item?id=37953336) - [Alexei Navalny's lawyers are arrested](https://www.economist.com/europe/2023/10/19/alexei-navalnys-lawyers-are-arrested)
+* [2023-10-20, 07:36:18](https://news.ycombinator.com/item?id=37953331) - [Mysterious rock depicted in 15th century painting is likely a Stone Age tool](https://arstechnica.com/science/2023/10/mysterious-rock-depicted-in-15th-century-painting-is-most-likely-a-stone-age-tool/)
 * [2023-10-20, 07:21:36](https://news.ycombinator.com/item?id=37953267) - [Instagram apologises for adding 'terrorist' to some Palestinian user profiles](https://www.theguardian.com/technology/2023/oct/20/instagram-palestinian-user-profile-bios-terrorist-added-translation-meta-apology)
 * [2023-10-20, 06:51:32](https://news.ycombinator.com/item?id=37953094) - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 * [2023-10-20, 05:51:59](https://news.ycombinator.com/item?id=37952741) - [In Plane Sight: Drug agents searching passengers for cash at airport gates](https://www.atlantanewsfirst.com/2023/10/19/plane-sight-drug-agents-searching-passengers-cash-airport-gates/)
