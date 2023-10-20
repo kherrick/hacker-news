@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 16:31:02](https://news.ycombinator.com/item?id=37958263) - [RIP to my 8-port Unifi switch after years and years of Texas outdoor temps](https://arstechnica.com/gadgets/2023/10/saying-goodbye-to-great-hardware-my-8-port-unifi-switch-finally-buys-the-farm/)
 * [2023-10-20, 16:22:31](https://news.ycombinator.com/item?id=37958155) - [Big Banks Are Quietly Cutting Thousands of Employees](https://www.cnbc.com/2023/10/19/big-banks-cut-thousands-of-jobs-more-layoffs-coming.html)
+* [2023-10-20, 16:21:20](https://news.ycombinator.com/item?id=37958143) - [Top Crypto Firms Named in $1B Fraud Lawsuit](https://www.bbc.com/news/business-67161638)
+* [2023-10-20, 15:49:59](https://news.ycombinator.com/item?id=37957793) - [Telegram Is Leaking User IP Addresses to Contacts](https://techcrunch.com/2023/10/19/telegram-is-still-leaking-user-ip-addresses-to-contacts/)
 * [2023-10-20, 15:32:24](https://news.ycombinator.com/item?id=37957533) - [Intel Withdraws from Web Summit Following Israel Remarks](https://www.tomshardware.com/news/intel-withdraws-from-web-summit-following-israel-remarks)
+* [2023-10-20, 15:29:41](https://news.ycombinator.com/item?id=37957495) - [Critical RCE flaws found in SolarWinds access audit solution](https://www.bleepingcomputer.com/news/security/critical-rce-flaws-found-in-solarwinds-access-audit-solution/)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
+* [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird Implemented in TypeScript Types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
