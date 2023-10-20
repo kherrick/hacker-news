@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 05:48:47](https://news.ycombinator.com/item?id=37952719) - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
 * [2023-10-20, 05:21:20](https://news.ycombinator.com/item?id=37952597) - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
 * [2023-10-20, 04:05:24](https://news.ycombinator.com/item?id=37952279) - [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
 * [2023-10-20, 03:26:24](https://news.ycombinator.com/item?id=37952079) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
@@ -19,7 +20,6 @@
 * [2023-10-19, 17:08:28](https://news.ycombinator.com/item?id=37945543) - [Show HN: Generate Stable Diffusion scenes around 3D models](https://github.com/Dabble-Studio/3d-to-photo)
 * [2023-10-19, 16:28:47](https://news.ycombinator.com/item?id=37945006) - [Eric 'Winkle\" Brown – His Best and Worst Aircraft [video]](https://www.youtube.com/watch?v=37cG_LcrNhI)
 * [2023-10-19, 15:30:18](https://news.ycombinator.com/item?id=37944269) - [Researchers identify largest ever solar storm in 14k-year-old tree rings](https://phys.org/news/2023-10-largest-solar-storm-ancient-year-old.html)
-* [2023-10-19, 15:25:56](https://news.ycombinator.com/item?id=37944198) - [The 1924 Mikiphone: The first pocket record player](https://rarehistoricalphotos.com/mikiphone/)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)
 * [2023-10-19, 15:07:32](https://news.ycombinator.com/item?id=37943920) - [In ancient Egypt, soul houses and false doors connected the living and the dead](https://www.atlasobscura.com/articles/ancient-egypt-soul-houses-false-doors)
 * [2023-10-19, 15:01:21](https://news.ycombinator.com/item?id=37943843) - [Early Europeans ate seaweed for thousands of years](https://www.smithsonianmag.com/smart-news/early-europeans-ate-seaweed-and-aquatic-plants-180983102/)
