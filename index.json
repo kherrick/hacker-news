@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-20, 00:13:51",
-      "https://news.ycombinator.com/item?id=37950534"
-    ],
-    [
-      "Replit permanently moves to paid hosting after 7 years of free service",
-      "https://noreplit.com/"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 23:05:32",
       "https://news.ycombinator.com/item?id=37950014"
     ],
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2023-10-19, 14:22:04",
-      "https://news.ycombinator.com/item?id=37943308"
-    ],
-    [
-      "Rip – Rust crate to resolve and install Python packages",
-      "https://prefix.dev/blog/introducing_rip"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 13:42:59",
       "https://news.ycombinator.com/item?id=37942791"
     ],
     [
       "Linux runtime security agent powered by eBPF",
       "https://github.com/Exein-io/pulsar"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 10:59:28",
+      "https://news.ycombinator.com/item?id=37941119"
+    ],
+    [
+      "Requiem for a stringref",
+      "https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Libre Silicon – Free semiconductors for everyone",
       "https://libresilicon.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 21:10:49",
+      "https://news.ycombinator.com/item?id=37934817"
+    ],
+    [
+      "Webb detects quartz crystals in clouds of hot gas giant",
+      "https://phys.org/news/2023-10-webb-quartz-crystals-clouds-hot.html"
     ]
   ]
 ]
