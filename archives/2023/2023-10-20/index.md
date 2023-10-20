@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 20:09:51](https://news.ycombinator.com/item?id=37960928) - [Twenty-Four Hours in An Invisible Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
