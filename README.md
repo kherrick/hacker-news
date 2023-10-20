@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:43:50](https://news.ycombinator.com/item?id=37955289) - [Qualcomm will try to have its Apple Silicon moment in PCs with \"Snapdragon X\"](https://arstechnica.com/gadgets/2023/10/qualcomm-will-try-to-have-its-apple-silicon-moment-in-pcs-with-snapdragon-x/)
 * [2023-10-20, 12:24:00](https://news.ycombinator.com/item?id=37955137) - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
 * [2023-10-20, 12:22:51](https://news.ycombinator.com/item?id=37955130) - [RabbitOS](https://www.rabbit.tech/)
@@ -22,7 +23,6 @@
 * [2023-10-19, 22:57:30](https://news.ycombinator.com/item?id=37949950) - [Anna's Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
 * [2023-10-19, 22:32:30](https://news.ycombinator.com/item?id=37949688) - [Vectorpea: Online Tool for Vector Graphics](https://www.vectorpea.com/)
 * [2023-10-19, 22:16:20](https://news.ycombinator.com/item?id=37949504) - [Text-to-CAD: Risks and Opportunities](https://thegradient.pub/text-to-cad/)
-* [2023-10-19, 21:25:55](https://news.ycombinator.com/item?id=37948938) - [Ketamine's effect on depression may hinge on hope](https://med.stanford.edu/news/all-news/2023/10/ketamine.html)
 * [2023-10-19, 19:48:49](https://news.ycombinator.com/item?id=37947772) - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-19, 17:43:46](https://news.ycombinator.com/item?id=37946017) - [Trucking startup Convoy closes operations with no buyer](https://www.bloomberg.com/news/articles/2023-10-19/bezos-backed-startup-convoy-closes-operations-with-no-buyer)
 * [2023-10-19, 15:08:40](https://news.ycombinator.com/item?id=37943931) - [Show HN: Autotab – An AI-powered Chrome extension to create Selenium scripts](https://www.autotab.com/)

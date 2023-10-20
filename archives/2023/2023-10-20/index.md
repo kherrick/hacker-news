@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:43:50](https://news.ycombinator.com/item?id=37955289) - [Qualcomm will try to have its Apple Silicon moment in PCs with \"Snapdragon X\"](https://arstechnica.com/gadgets/2023/10/qualcomm-will-try-to-have-its-apple-silicon-moment-in-pcs-with-snapdragon-x/)
 * [2023-10-20, 12:24:00](https://news.ycombinator.com/item?id=37955137) - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
 * [2023-10-20, 12:22:51](https://news.ycombinator.com/item?id=37955130) - [RabbitOS](https://www.rabbit.tech/)
