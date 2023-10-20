@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 13:24:01](https://news.ycombinator.com/item?id=37955633) - [Some advice I would give to a junior DevOps Engineer](https://oschvr.com/posts/advice-for-junior-devops/)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 13:16:09](https://news.ycombinator.com/item?id=37955563) - [Ford Mustang Mach-E Recalled Because Battery Can't Handle Owners Flooring It](https://www.thedrive.com/news/ford-mustang-mach-e-recalled-because-battery-cant-handle-owners-flooring-it)
 * [2023-10-20, 13:04:30](https://news.ycombinator.com/item?id=37955468) - [Jon Stewart's Show on Apple Is Ending](https://www.nytimes.com/2023/10/19/business/media/jon-stewart-the-problem-ends.html)
@@ -16,6 +17,7 @@
 * [2023-10-20, 12:10:28](https://news.ycombinator.com/item?id=37955035) - [American Employees Reinvent the Sick Day](https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a)
 * [2023-10-20, 12:06:45](https://news.ycombinator.com/item?id=37955019) - [US single handedly blocks UN call for humanitarian pause and corridors into Gaza](https://www.theguardian.com/world/2023/oct/18/us-vetoes-un-call-for-humanitarian-pause-and-corridors-into-gaza)
 * [2023-10-20, 12:00:57](https://news.ycombinator.com/item?id=37954980) - [UpCodes (YC S17) is hiring remote engineers to help architects with compliance](https://up.codes/careers)
+* [2023-10-20, 11:56:35](https://news.ycombinator.com/item?id=37954951) - [A Nasty Tropical Skin Disease Is Now Endemic in the U.S.](https://www.scientificamerican.com/article/a-nasty-tropical-skin-disease-is-now-endemic-in-the-u-s/)
 * [2023-10-20, 11:42:44](https://news.ycombinator.com/item?id=37954854) - [Friday Factorio Facts #381 – Space Platforms](https://factorio.com/blog/post/fff-381)
 * [2023-10-20, 11:08:00](https://news.ycombinator.com/item?id=37954600) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2023-10-20, 09:58:44](https://news.ycombinator.com/item?id=37954180) - [300K Damage from Airbnb Guest](https://twitter.com/ErikaCoaches/status/1715053934585229806)
