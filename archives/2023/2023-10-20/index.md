@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
 * [2023-10-20, 21:23:10](https://news.ycombinator.com/item?id=37961710) - [The unexplainable growing wage gap](https://www.bls.gov/opub/mlr/2017/beyond-bls/the-unexplainable-growing-black-white-wage-gap.htm)
+* [2023-10-20, 21:01:04](https://news.ycombinator.com/item?id=37961464) - [Hetzner does run a (MitM) proxy in front of my server](https://old.reddit.com/r/hetzner/comments/17ccp3i/hetzner_does_run_a_mitm_proxy_in_front_of_my/)
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
@@ -73,6 +74,7 @@
 * [2023-10-20, 12:42:56](https://news.ycombinator.com/item?id=37955278) - [Rattled U.S. government fears wars could spread](https://www.axios.com/2023/10/20/biden-government-war-fears-israel-hamas)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 * [2023-10-20, 12:38:41](https://news.ycombinator.com/item?id=37955244) - [Solreader: E-Ink Smart Glasses for Reading](https://solreader.com/)
+* [2023-10-20, 12:34:58](https://news.ycombinator.com/item?id=37955218) - [The Loch Ness Monster: If It's Real, Could It Be an Eel?](https://xbio.jmir.org/2023/1/e49063/)
 * [2023-10-20, 12:24:00](https://news.ycombinator.com/item?id=37955137) - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
 * [2023-10-20, 12:22:51](https://news.ycombinator.com/item?id=37955130) - [RabbitOS](https://www.rabbit.tech/)
 * [2023-10-20, 12:10:28](https://news.ycombinator.com/item?id=37955035) - [American Employees Reinvent the Sick Day](https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a)

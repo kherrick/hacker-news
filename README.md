@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-20, 21:23:10](https://news.ycombinator.com/item?id=37961710) - [The unexplainable growing wage gap](https://www.bls.gov/opub/mlr/2017/beyond-bls/the-unexplainable-growing-black-white-wage-gap.htm)
+* [2023-10-20, 21:01:04](https://news.ycombinator.com/item?id=37961464) - [Hetzner does run a (MitM) proxy in front of my server](https://old.reddit.com/r/hetzner/comments/17ccp3i/hetzner_does_run_a_mitm_proxy_in_front_of_my/)
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
@@ -25,9 +25,9 @@
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
+* [2023-10-20, 12:34:58](https://news.ycombinator.com/item?id=37955218) - [The Loch Ness Monster: If It's Real, Could It Be an Eel?](https://xbio.jmir.org/2023/1/e49063/)
 * [2023-10-20, 08:50:42](https://news.ycombinator.com/item?id=37953741) - [The Unix Game](https://unixgame.io/unix50)
 * [2023-10-20, 07:36:18](https://news.ycombinator.com/item?id=37953331) - [Mysterious rock depicted in 15th century painting is likely a Stone Age tool](https://arstechnica.com/science/2023/10/mysterious-rock-depicted-in-15th-century-painting-is-most-likely-a-stone-age-tool/)
-* [2023-10-20, 06:51:32](https://news.ycombinator.com/item?id=37953094) - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 * [2023-10-19, 23:54:02](https://news.ycombinator.com/item?id=37950399) - [Bumble bees drop to shake off Asian hornets](https://phys.org/news/2023-10-bumble-bees-asian-hornets.html)
 * [2023-10-19, 12:52:17](https://news.ycombinator.com/item?id=37942181) - [Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
 
