@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-20, 17:00:12",
+      "https://news.ycombinator.com/item?id=37958633"
+    ],
+    [
+      "EasyPost (YC S13) Is Hiring",
+      "https://www.easypost.com/careers"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 16:46:47",
+      "https://news.ycombinator.com/item?id=37958473"
+    ],
+    [
+      "EU Commissioner as double agent of foreign interference",
+      "https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 16:31:02",
       "https://news.ycombinator.com/item?id=37958263"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2023-10-20, 15:49:59",
-      "https://news.ycombinator.com/item?id=37957793"
-    ],
-    [
-      "Telegram Is Leaking User IP Addresses to Contacts",
-      "https://techcrunch.com/2023/10/19/telegram-is-still-leaking-user-ip-addresses-to-contacts/"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 15:44:35",
       "https://news.ycombinator.com/item?id=37957733"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2023-10-20, 15:29:41",
-      "https://news.ycombinator.com/item?id=37957495"
-    ],
-    [
-      "Critical RCE flaws found in SolarWinds access audit solution",
-      "https://www.bleepingcomputer.com/news/security/critical-rce-flaws-found-in-solarwinds-access-audit-solution/"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 15:22:52",
       "https://news.ycombinator.com/item?id=37957397"
     ],
     [
       "\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs",
       "https://dgl.cx/2023/09/ansi-terminal-security"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 15:08:12",
+      "https://news.ycombinator.com/item?id=37957189"
+    ],
+    [
+      "\"Useless Ruby sugar\": Pattern matching (Pt. 1)",
+      "https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html"
     ]
   ],
   [
@@ -171,22 +181,22 @@
   ],
   [
     [
+      "2023-10-20, 12:59:01",
+      "https://news.ycombinator.com/item?id=37955421"
+    ],
+    [
+      "'Mind-blowing' IBM chip speeds up AI",
+      "https://www.nature.com/articles/d41586-023-03267-0"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 12:56:48",
       "https://news.ycombinator.com/item?id=37955402"
     ],
     [
       "Nakatomi Space",
       "https://www.bldgblog.com/2010/01/nakatomi-space/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 12:50:06",
-      "https://news.ycombinator.com/item?id=37955351"
-    ],
-    [
-      "We caught technicians snooping on our personal devices",
-      "https://www.cbc.ca/news/business/marketplace-tech-repair-snooping-1.7000775"
     ]
   ],
   [
@@ -207,26 +217,6 @@
     [
       "Find the date of your birthday in the number pi",
       "https://www.mypiday.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 12:00:57",
-      "https://news.ycombinator.com/item?id=37954980"
-    ],
-    [
-      "UpCodes (YC S17) is hiring remote engineers to help architects with compliance",
-      "https://up.codes/careers"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 11:56:35",
-      "https://news.ycombinator.com/item?id=37954951"
-    ],
-    [
-      "A Nasty Tropical Skin Disease Is Now Endemic in the U.S.",
-      "https://www.scientificamerican.com/article/a-nasty-tropical-skin-disease-is-now-endemic-in-the-u-s/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Nota is a language for writing documents, like academic papers and blog posts",
       "https://nota-lang.org/#def-nota"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 05:54:56",
+      "https://news.ycombinator.com/item?id=37939011"
+    ],
+    [
+      "Introducing Ruvy",
+      "https://shopify.engineering/introducing-ruvy"
     ]
   ],
   [
