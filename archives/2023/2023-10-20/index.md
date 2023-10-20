@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 15:32:24](https://news.ycombinator.com/item?id=37957533) - [Intel Withdraws from Web Summit Following Israel Remarks](https://www.tomshardware.com/news/intel-withdraws-from-web-summit-following-israel-remarks)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
+* [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird Implemented in TypeScript Types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
 * [2023-10-20, 14:37:25](https://news.ycombinator.com/item?id=37956714) - [Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral](https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest)
 * [2023-10-20, 14:23:37](https://news.ycombinator.com/item?id=37956480) - [Kyoto Statement on End-to-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
@@ -44,6 +46,7 @@
 * [2023-10-20, 08:50:42](https://news.ycombinator.com/item?id=37953741) - [The Unix Game](https://unixgame.io/unix50)
 * [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 * [2023-10-20, 07:37:16](https://news.ycombinator.com/item?id=37953336) - [Alexei Navalny's lawyers are arrested](https://www.economist.com/europe/2023/10/19/alexei-navalnys-lawyers-are-arrested)
+* [2023-10-20, 07:21:36](https://news.ycombinator.com/item?id=37953267) - [Instagram apologises for adding 'terrorist' to some Palestinian user profiles](https://www.theguardian.com/technology/2023/oct/20/instagram-palestinian-user-profile-bios-terrorist-added-translation-meta-apology)
 * [2023-10-20, 06:51:32](https://news.ycombinator.com/item?id=37953094) - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 * [2023-10-20, 05:51:59](https://news.ycombinator.com/item?id=37952741) - [In Plane Sight: Drug agents searching passengers for cash at airport gates](https://www.atlantanewsfirst.com/2023/10/19/plane-sight-drug-agents-searching-passengers-cash-airport-gates/)
 * [2023-10-20, 05:48:47](https://news.ycombinator.com/item?id=37952719) - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
