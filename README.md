@@ -2,9 +2,9 @@
 
 * [2023-10-20, 19:21:24](https://news.ycombinator.com/item?id=37960330) - [Windows 11 Pro's On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [SBF Made $9B Disappear. This Forensic Accountant Found It](https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819)
+* [2023-10-20, 19:14:12](https://news.ycombinator.com/item?id=37960239) - [Why America Is Out of Ammunition](https://www.thebignewsletter.com/p/why-america-is-out-of-ammunition)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
 * [2023-10-20, 18:46:28](https://news.ycombinator.com/item?id=37959904) - [Hackers Stole Access Tokens from Okta's Support Unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
-* [2023-10-20, 18:10:50](https://news.ycombinator.com/item?id=37959540) - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
 * [2023-10-20, 17:54:28](https://news.ycombinator.com/item?id=37959340) - [Implication for C++ [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf)
 * [2023-10-20, 17:54:27](https://news.ycombinator.com/item?id=37959339) - [World Bank Helped Cover Up Sex Abuse at For-Profit School Chain](https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/)
 * [2023-10-20, 17:25:16](https://news.ycombinator.com/item?id=37958952) - [DHS to Propose Amending H-1B, F-1 Regulations](https://www.natlawreview.com/article/dhs-propose-amending-h-1b-f-1-regulations)
