@@ -111,6 +111,7 @@
 * [2023-10-19, 07:22:43](https://news.ycombinator.com/item?id=37939576) - [Show HN: Modern Moodle learning platform open-source alternative](https://www.learnhouse.app/)
 * [2023-10-19, 06:32:18](https://news.ycombinator.com/item?id=37939269) - [I'm banned for life from advertising on Meta. Because I teach Python.](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 * [2023-10-19, 06:31:33](https://news.ycombinator.com/item?id=37939263) - [Advice from \"pracademics\" of how to apply ecological dynamics theory to practice](https://www.frontiersin.org/articles/10.3389/fspor.2023.1192332/full)
+* [2023-10-19, 05:54:56](https://news.ycombinator.com/item?id=37939011) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 * [2023-10-19, 05:33:24](https://news.ycombinator.com/item?id=37938866) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
 * [2023-10-19, 05:22:11](https://news.ycombinator.com/item?id=37938816) - [Redis Insight: GUI App for Redis](https://redis.io/docs/ui/insight/)
 * [2023-10-19, 04:57:23](https://news.ycombinator.com/item?id=37938636) - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
