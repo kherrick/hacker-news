@@ -91,6 +91,7 @@
 * [2023-10-19, 10:59:28](https://news.ycombinator.com/item?id=37941119) - [Requiem for a Stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
 * [2023-10-19, 10:53:56](https://news.ycombinator.com/item?id=37941075) - [Build Your Own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 * [2023-10-19, 10:43:13](https://news.ycombinator.com/item?id=37941002) - [The Origins of the Idle Scan](http://antirez.com/news/139)
+* [2023-10-19, 10:39:30](https://news.ycombinator.com/item?id=37940973) - [Accounting for computer scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 * [2023-10-19, 10:22:01](https://news.ycombinator.com/item?id=37940842) - [AtomVM: Erlang virtual machine for IoT devices](https://www.atomvm.net//)
 * [2023-10-19, 10:21:55](https://news.ycombinator.com/item?id=37940840) - [Ask HN: Did any of you first encounter programming through Scratch?](https://news.ycombinator.com/item?id=37940840)
 * [2023-10-19, 10:01:36](https://news.ycombinator.com/item?id=37940713) - [How not to hire a North Korean plant posing as a techie](https://www.theregister.com/2023/10/19/north_korea_fake_freelance_avoidance/)
