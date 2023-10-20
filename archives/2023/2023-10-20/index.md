@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 09:17:40](https://news.ycombinator.com/item?id=37953920) - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
 * [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 * [2023-10-20, 07:37:16](https://news.ycombinator.com/item?id=37953336) - [Alexei Navalny's lawyers are arrested](https://www.economist.com/europe/2023/10/19/alexei-navalnys-lawyers-are-arrested)
 * [2023-10-20, 05:51:59](https://news.ycombinator.com/item?id=37952741) - [In Plane Sight: Drug agents searching passengers for cash at airport gates](https://www.atlantanewsfirst.com/2023/10/19/plane-sight-drug-agents-searching-passengers-cash-airport-gates/)
