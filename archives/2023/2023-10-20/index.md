@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
 * [2023-10-20, 18:10:50](https://news.ycombinator.com/item?id=37959540) - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
+* [2023-10-20, 17:54:27](https://news.ycombinator.com/item?id=37959339) - [World Bank Helped Cover Up Sex Abuse at For-Profit School Chain](https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/)
 * [2023-10-20, 17:46:24](https://news.ycombinator.com/item?id=37959231) - [OpenAI in Talks for Deal That Would Value Company at $80B](https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html)
 * [2023-10-20, 17:00:12](https://news.ycombinator.com/item?id=37958633) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-10-20, 16:54:04](https://news.ycombinator.com/item?id=37958555) - [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)

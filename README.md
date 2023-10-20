@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-20, 18:10:50](https://news.ycombinator.com/item?id=37959540) - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
+* [2023-10-20, 17:54:27](https://news.ycombinator.com/item?id=37959339) - [World Bank Helped Cover Up Sex Abuse at For-Profit School Chain](https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/)
 * [2023-10-20, 17:46:24](https://news.ycombinator.com/item?id=37959231) - [OpenAI in Talks for Deal That Would Value Company at $80B](https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html)
 * [2023-10-20, 17:00:12](https://news.ycombinator.com/item?id=37958633) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-10-20, 16:54:04](https://news.ycombinator.com/item?id=37958555) - [Show HN: No Feed? Unlimited Productivity](https://github.com/kwkr/feed-remover)
@@ -24,7 +25,6 @@
 * [2023-10-20, 12:24:00](https://news.ycombinator.com/item?id=37955137) - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
 * [2023-10-20, 11:08:00](https://news.ycombinator.com/item?id=37954600) - [Hexagonal Grids (2013)](https://www.redblobgames.com/grids/hexagons/)
 * [2023-10-20, 08:50:42](https://news.ycombinator.com/item?id=37953741) - [The Unix Game](https://unixgame.io/unix50)
-* [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
 * [2023-10-20, 06:51:32](https://news.ycombinator.com/item?id=37953094) - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 * [2023-10-19, 06:45:58](https://news.ycombinator.com/item?id=37939369) - [Durable Coroutines for Go](https://github.com/stealthrocket/coroutine)
