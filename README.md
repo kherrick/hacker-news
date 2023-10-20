@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 04:31:42](https://news.ycombinator.com/item?id=37952410) - [Mentally Ill Man with AI Girlfriend Tried to Kill Queen](https://www.loweringthebar.net/2023/10/sith-lord-gets-nine-years-treason.html)
 * [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
-* [2023-10-19, 23:05:32](https://news.ycombinator.com/item?id=37950014) - [Toyota adopts the North American charging standard](https://pressroom.toyota.com/toyota-adopts-the-north-american-charging-standard-to-expand-customer-charging-options/)
 * [2023-10-19, 23:03:18](https://news.ycombinator.com/item?id=37949994) - [Ozone hole goes large again](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again)
 * [2023-10-19, 22:57:30](https://news.ycombinator.com/item?id=37949950) - [Anna's Archive – LLM Training Data from Shadow Libraries](https://annas-archive.org/llm)
 * [2023-10-19, 22:40:29](https://news.ycombinator.com/item?id=37949789) - [Clearview doesn't let Europeans delete themselves anymore](https://twitter.com/kashhill/status/1715048994223567281)
