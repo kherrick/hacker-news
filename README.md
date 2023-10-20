@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
 * [2023-10-20, 18:10:50](https://news.ycombinator.com/item?id=37959540) - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
 * [2023-10-20, 17:54:27](https://news.ycombinator.com/item?id=37959339) - [World Bank Helped Cover Up Sex Abuse at For-Profit School Chain](https://theintercept.com/2023/10/17/world-bank-whistleblower-bridge-international/)
 * [2023-10-20, 17:46:24](https://news.ycombinator.com/item?id=37959231) - [OpenAI in Talks for Deal That Would Value Company at $80B](https://www.nytimes.com/2023/10/20/technology/openai-artifical-intelligence-value.html)
@@ -13,7 +14,6 @@
 * [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird Implemented in TypeScript Types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
 * [2023-10-20, 14:44:17](https://news.ycombinator.com/item?id=37956816) - [Eclipse October 2023](https://www.gridstatus.io/dashboards/eclipse-oct-2023)
-* [2023-10-20, 14:22:42](https://news.ycombinator.com/item?id=37956463) - [Show HN: Monitor all exploits in wild easily for any CVE/EDB/GHSA or Technology](https://www.exploit.observer/)
 * [2023-10-20, 14:17:01](https://news.ycombinator.com/item?id=37956374) - [Mathematicians Found 12,000 Solutions to the Notoriously Hard Three-Body Problem](https://www.popularmechanics.com/science/math/a45074216/three-body-problem-solutions/)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
 * [2023-10-20, 13:25:52](https://news.ycombinator.com/item?id=37955658) - [AI tidies up Wikipedia's references – and boosts reliability](https://www.nature.com/articles/d41586-023-02894-x)
