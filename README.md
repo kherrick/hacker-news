@@ -3,7 +3,6 @@
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
-* [2023-10-20, 20:09:51](https://news.ycombinator.com/item?id=37960928) - [Twenty-four hours in an invisible epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
 * [2023-10-20, 19:47:01](https://news.ycombinator.com/item?id=37960666) - [OpenSSL Adds Support for Raw Public Key (RFC7250)](https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 – Flyweight IDE](https://geany.org/)
 * [2023-10-20, 18:48:47](https://news.ycombinator.com/item?id=37959931) - [Leaving the Phone at Home](https://josem.co/leaving-the-phone-at-home/)
@@ -30,6 +29,7 @@
 * [2023-10-19, 23:54:02](https://news.ycombinator.com/item?id=37950399) - [Bumble bees drop to shake off Asian hornets](https://phys.org/news/2023-10-bumble-bees-asian-hornets.html)
 * [2023-10-19, 12:52:17](https://news.ycombinator.com/item?id=37942181) - [Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
 * [2023-10-19, 06:45:58](https://news.ycombinator.com/item?id=37939369) - [Durable Coroutines for Go](https://github.com/stealthrocket/coroutine)
+* [2023-10-19, 05:54:56](https://news.ycombinator.com/item?id=37939011) - [Ruvy: creating Wasm modules from Ruby code](https://shopify.engineering/introducing-ruvy)
 
 ## [Archives](archives/index.md)
 
