@@ -10,6 +10,7 @@
 * [2023-10-21, 18:32:18](https://news.ycombinator.com/item?id=37969325) - [What It's Like to Grow Up in an Israeli Settlement – Op-Docs [video]](https://www.youtube.com/watch?v=Eac1l1ozfLc)
 * [2023-10-21, 18:22:32](https://news.ycombinator.com/item?id=37969248) - [Adtech Surveillance and Government Surveillance Are Often the Same Surveillance](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
 * [2023-10-21, 17:37:34](https://news.ycombinator.com/item?id=37968900) - [How plants communicate with each other when in danger](https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/)
+* [2023-10-21, 17:13:59](https://news.ycombinator.com/item?id=37968652) - [Hacker News Enhancement Suite is best thing since sliced bread](https://github.com/etcet/HNES)
 * [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
 * [2023-10-21, 16:50:35](https://news.ycombinator.com/item?id=37968436) - [Strange Ways AI Disrupts Business Models](https://www.implications.com/p/strange-ways-ai-disrupts-business)
