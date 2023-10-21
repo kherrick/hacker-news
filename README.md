@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
 * [2023-10-21, 09:19:55](https://news.ycombinator.com/item?id=37965297) - [Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
 * [2023-10-21, 08:42:52](https://news.ycombinator.com/item?id=37965142) - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
@@ -21,15 +22,14 @@
 * [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The shortest papers ever published (2016)](https://paperpile.com/blog/shortest-papers/)
 * [2023-10-20, 23:09:04](https://news.ycombinator.com/item?id=37962499) - [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
 * [2023-10-20, 22:52:17](https://news.ycombinator.com/item?id=37962370) - [Don't use DISTINCT as a \"join-fixer\"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
-* [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
-* [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
+* [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 
 ## [Archives](archives/index.md)
 
