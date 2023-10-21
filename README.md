@@ -9,7 +9,6 @@
 * [2023-10-21, 15:15:38](https://news.ycombinator.com/item?id=37967493) - [Fish skin can heal other animals' eye injuries](https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/)
 * [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What every developer should know about GPU computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-21, 14:24:30](https://news.ycombinator.com/item?id=37967010) - [Show HN: Hackreels – Animate your code in HD](https://www.hackreels.com/)
-* [2023-10-21, 13:48:56](https://news.ycombinator.com/item?id=37966767) - [Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
 * [2023-10-21, 13:40:02](https://news.ycombinator.com/item?id=37966712) - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
 * [2023-10-21, 13:38:18](https://news.ycombinator.com/item?id=37966698) - [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
 * [2023-10-21, 13:14:15](https://news.ycombinator.com/item?id=37966569) - [The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud](https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html)
@@ -28,6 +27,7 @@
 * [2023-10-21, 04:31:01](https://news.ycombinator.com/item?id=37964095) - [Pigging](https://en.wikipedia.org/wiki/Pigging)
 * [2023-10-21, 04:03:44](https://news.ycombinator.com/item?id=37963974) - [MMO Architecture: clients, sockets, threads and connection-oriented servers](https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/)
 * [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up (2013)](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
+* [2023-10-21, 03:03:15](https://news.ycombinator.com/item?id=37963731) - [Perilous Joy: George Eliot and the marriage question](https://thepointmag.com/criticism/perilous-joy/)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 17:10:17](https://news.ycombinator.com/item?id=37958765) - [Ask HN: How to do transactional SMS as a bootstrapped or startup company?](https://news.ycombinator.com/item?id=37958765)
 
