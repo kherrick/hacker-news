@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-10-21, 04:03:44",
+      "https://news.ycombinator.com/item?id=37963974"
+    ],
+    [
+      "MMO Architecture: clients, sockets, threads and connection-oriented servers",
+      "https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 03:54:19",
       "https://news.ycombinator.com/item?id=37963941"
     ],
@@ -227,16 +237,6 @@
     [
       "\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs",
       "https://dgl.cx/2023/09/ansi-terminal-security"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 15:08:12",
-      "https://news.ycombinator.com/item?id=37957189"
-    ],
-    [
-      "Useless Ruby sugar: Pattern matching",
-      "https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html"
     ]
   ],
   [
