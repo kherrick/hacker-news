@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=37964161"
     ],
     [
-      "Analyzing Data 180,000x Faster with Rust",
+      "Recent adventures in performance optimization with Rust",
       "https://willcrichton.net/notes/k-corrset/"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 04:31:01",
+      "https://news.ycombinator.com/item?id=37964095"
+    ],
+    [
+      "Pigging",
+      "https://en.wikipedia.org/wiki/Pigging"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "AI Reduces the World to Stereotypes",
       "https://restofworld.org/2023/ai-image-stereotypes/"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 03:34:32",
-      "https://news.ycombinator.com/item?id=37963854"
-    ],
-    [
-      "Dropbox handing over 25% of San Francisco HQ back to landlord",
-      "https://www.cnbc.com/2023/10/20/dropbox-hands-over-25percent-of-san-francisco-headquarters-back-to-landlord-.html"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-10-20, 21:41:02",
-      "https://news.ycombinator.com/item?id=37961873"
-    ],
-    [
-      "Energy, WiFi and RAM use by Android messaging apps",
-      "https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 21:00:12",
       "https://news.ycombinator.com/item?id=37961453"
     ],
@@ -187,6 +177,16 @@
     [
       "Progress on No-GIL CPython",
       "https://lwn.net/Articles/947138/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 19:45:56",
+      "https://news.ycombinator.com/item?id=37960651"
+    ],
+    [
+      "Some Miscellaneous Git Facts",
+      "https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/"
     ]
   ],
   [
