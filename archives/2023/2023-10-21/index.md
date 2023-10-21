@@ -6,6 +6,7 @@
 
 * [2023-10-21, 18:40:44](https://news.ycombinator.com/item?id=37969409) - [Fewer Californians are moving to Texas, but more are going to FL and AZ](https://www.pressdemocrat.com/article/news/fewer-californians-are-moving-to-texas-but-more-are-going-to-florida-and-a/)
 * [2023-10-21, 18:38:45](https://news.ycombinator.com/item?id=37969387) - [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
+* [2023-10-21, 18:32:18](https://news.ycombinator.com/item?id=37969325) - [What It's Like to Grow Up in an Israeli Settlement – Op-Docs [video]](https://www.youtube.com/watch?v=Eac1l1ozfLc)
 * [2023-10-21, 18:22:32](https://news.ycombinator.com/item?id=37969248) - [Adtech Surveillance and Government Surveillance Are Often the Same Surveillance](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
 * [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
@@ -15,6 +16,7 @@
 * [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [The Worlds First FPGA N64](http://www.ultrafp64.com/)
 * [2023-10-21, 15:50:44](https://news.ycombinator.com/item?id=37967800) - [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
 * [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [The exam that broke society](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
+* [2023-10-21, 15:46:09](https://news.ycombinator.com/item?id=37967748) - [Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
 * [2023-10-21, 15:42:41](https://news.ycombinator.com/item?id=37967721) - [From the Galilee to Gaza: A Voice from Palestine](https://crimethinc.com/2023/10/17/from-the-galilee-to-gaza-a-voice-from-palestine-1)
 * [2023-10-21, 15:15:38](https://news.ycombinator.com/item?id=37967493) - [Fish Skin Can Heal Other Animals' Eye Injuries](https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/)
 * [2023-10-21, 14:51:44](https://news.ycombinator.com/item?id=37967257) - [Undefined Behavior, and the Sledgehammer Principle](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline)
