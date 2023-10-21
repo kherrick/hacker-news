@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-21, 09:19:55](https://news.ycombinator.com/item?id=37965297) - [Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
-* [2023-10-21, 08:50:34](https://news.ycombinator.com/item?id=37965177) - [U.S. Deficit, Pegged at $1.7T, Effectively Doubled in 2023](https://www.nytimes.com/2023/10/20/business/treasury-report-shows-1-7-trillion-deficit.html)
 * [2023-10-21, 08:42:52](https://news.ycombinator.com/item?id=37965142) - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 * [2023-10-21, 08:09:05](https://news.ycombinator.com/item?id=37964999) - [O3DE](https://o3de.org/)
 * [2023-10-21, 07:40:42](https://news.ycombinator.com/item?id=37964878) - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
@@ -27,6 +26,7 @@
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 20:01:19](https://news.ycombinator.com/item?id=37960827) - [Show HN: sbctl – Secure Boot key manager](https://github.com/Foxboron/sbctl)
+* [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
