@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-20, 23:57:07",
-      "https://news.ycombinator.com/item?id=37962795"
-    ],
-    [
-      "AGI's impact on Tech, SaaS valuations",
-      "https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 23:35:32",
       "https://news.ycombinator.com/item?id=37962682"
     ],
@@ -31,6 +21,16 @@
   ],
   [
     [
+      "2023-10-20, 22:22:10",
+      "https://news.ycombinator.com/item?id=37962152"
+    ],
+    [
+      "F-Droid: Android FOSS app store",
+      "https://f-droid.org/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 22:15:58",
       "https://news.ycombinator.com/item?id=37962102"
     ],
@@ -47,16 +47,6 @@
     [
       "Energy, WiFi and RAM use by Android messaging apps",
       "https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 21:39:58",
-      "https://news.ycombinator.com/item?id=37961860"
-    ],
-    [
-      "Cloudflare mitigated yet another Okta compromise",
-      "https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/"
     ]
   ],
   [
@@ -131,22 +121,12 @@
   ],
   [
     [
-      "2023-10-20, 17:57:35",
-      "https://news.ycombinator.com/item?id=37959376"
+      "2023-10-20, 16:54:04",
+      "https://news.ycombinator.com/item?id=37958555"
     ],
     [
-      "PowerDNS Starts to Use Rust",
-      "https://mailman.powerdns.com/pipermail/pdns-announce/2023-October/001284.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 17:54:28",
-      "https://news.ycombinator.com/item?id=37959340"
-    ],
-    [
-      "Implication for C++ [pdf]",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf"
+      "Show HN: No Feed? Unlimited Productivity",
+      "https://github.com/kwkr/feed-remover"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-10-20, 13:22:25",
+      "https://news.ycombinator.com/item?id=37955620"
+    ],
+    [
+      "Confidential computing and AI fit together",
+      "https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 13:22:20",
       "https://news.ycombinator.com/item?id=37955617"
     ],
@@ -257,6 +247,16 @@
     [
       "Encrypted traffic interception on Hetzner and Linode targeting Jabber service",
       "https://notes.valdikss.org.ru/jabber.ru-mitm/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 11:08:00",
+      "https://news.ycombinator.com/item?id=37954600"
+    ],
+    [
+      "Hexagonal Grids (2013)",
+      "https://www.redblobgames.com/grids/hexagons/"
     ]
   ],
   [
