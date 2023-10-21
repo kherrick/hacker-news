@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-10-21, 02:08:17",
-      "https://news.ycombinator.com/item?id=37963460"
-    ],
-    [
-      "AMD Wants to Know If You'd Like Ryzen AI Support on Linux",
-      "https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 02:05:54",
       "https://news.ycombinator.com/item?id=37963453"
     ],
     [
       "How to self study pure math – a step-by-step guide [video]",
       "https://www.youtube.com/watch?v=byNaO_zn2fI"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 01:53:17",
-      "https://news.ycombinator.com/item?id=37963403"
-    ],
-    [
-      "Disc Brakes Took over the Cycling World. Here's Why That Was a Mistake",
-      "https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/"
     ]
   ],
   [
@@ -71,22 +51,22 @@
   ],
   [
     [
+      "2023-10-20, 22:52:17",
+      "https://news.ycombinator.com/item?id=37962370"
+    ],
+    [
+      "Don't use DISTINCT as a \"join-fixer\"",
+      "https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 22:22:10",
       "https://news.ycombinator.com/item?id=37962152"
     ],
     [
       "F-Droid: Android FOSS app store",
       "https://f-droid.org/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 22:15:58",
-      "https://news.ycombinator.com/item?id=37962102"
-    ],
-    [
-      "Solving the 100GB Game Download",
-      "http://venusoft.net/"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2023-10-20, 19:46:47",
+      "https://news.ycombinator.com/item?id=37960663"
+    ],
+    [
+      "Blade Runner: The Unofficial White Dragon Cut",
+      "https://whitedragoncut.com/?page_id=1589&lang=en"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 18:53:09",
       "https://news.ycombinator.com/item?id=37959979"
     ],
@@ -157,6 +147,16 @@
     [
       "Hackers stole access tokens from Okta's support unit",
       "https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 16:54:04",
+      "https://news.ycombinator.com/item?id=37958555"
+    ],
+    [
+      "Show HN: No Feed? Unlimited Productivity",
+      "https://github.com/kwkr/feed-remover"
     ]
   ],
   [
