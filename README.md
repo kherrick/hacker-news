@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-21, 13:40:02](https://news.ycombinator.com/item?id=37966712) - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
+* [2023-10-21, 13:38:18](https://news.ycombinator.com/item?id=37966698) - [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
 * [2023-10-21, 13:28:28](https://news.ycombinator.com/item?id=37966643) - [The Problem with Jon Stewart cancellation highlights a problem for Apple content](https://arstechnica.com/gadgets/2023/10/report-apple-cancels-the-problem-with-jon-stewart-over-china-ai-topics/)
 * [2023-10-21, 13:09:19](https://news.ycombinator.com/item?id=37966534) - [Texas employment tops 14M as state job growth tops U.S.](https://www.expressnews.com/business/article/texas-employment-tops-14-million-state-job-growth-18437689.php)
+* [2023-10-21, 13:02:14](https://news.ycombinator.com/item?id=37966485) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
 * [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
@@ -27,8 +29,6 @@
 * [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The shortest papers ever published (2016)](https://paperpile.com/blog/shortest-papers/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
-* [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
-* [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 
 ## [Archives](archives/index.md)
