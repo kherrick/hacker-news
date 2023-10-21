@@ -10,6 +10,7 @@
 * [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
+* [2023-10-21, 09:44:53](https://news.ycombinator.com/item?id=37965402) - [In 1980s Los Angeles, a bank was robbed every hour](https://crimereads.com/the-rise-and-fall-of-the-bank-robbery-capital-of-the-world/)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 * [2023-10-21, 09:19:55](https://news.ycombinator.com/item?id=37965297) - [Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
 * [2023-10-21, 08:59:33](https://news.ycombinator.com/item?id=37965217) - [Go Package for Building Progressive Web Apps](https://go-app.dev)
