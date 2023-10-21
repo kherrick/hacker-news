@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
 * [2023-10-20, 23:57:07](https://news.ycombinator.com/item?id=37962795) - [AGI's impact on Tech, SaaS valuations](https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations)
+* [2023-10-20, 23:37:13](https://news.ycombinator.com/item?id=37962688) - [Astronauts and Area 51: the Skylab Incident (2006)](https://www.thespacereview.com/article/531/1)
 * [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
 * [2023-10-20, 23:09:04](https://news.ycombinator.com/item?id=37962499) - [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
 * [2023-10-20, 22:22:10](https://news.ycombinator.com/item?id=37962152) - [F-Droid: Android FOSS app store](https://f-droid.org/)
