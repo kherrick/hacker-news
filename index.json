@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-10-21, 04:44:42",
+      "https://news.ycombinator.com/item?id=37964161"
+    ],
+    [
+      "Analyzing Data 180,000x Faster with Rust",
+      "https://willcrichton.net/notes/k-corrset/"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 03:54:19",
       "https://news.ycombinator.com/item?id=37963941"
     ],
     [
       "The next Raptor OpenPOWER systems are coming, but they won't be Power10",
       "https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 03:51:30",
+      "https://news.ycombinator.com/item?id=37963921"
+    ],
+    [
+      "Reimplementing git clone in Haskell from the bottom up",
+      "https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "Hackers stole access tokens from Okta's support unit",
       "https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 16:54:04",
-      "https://news.ycombinator.com/item?id=37958555"
-    ],
-    [
-      "Show HN: No Feed? Unlimited Productivity",
-      "https://github.com/kwkr/feed-remover"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 16:46:47",
-      "https://news.ycombinator.com/item?id=37958473"
-    ],
-    [
-      "EU Commissioner as double agent of foreign interference",
-      "https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/"
     ]
   ],
   [
