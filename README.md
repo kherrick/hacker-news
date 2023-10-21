@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-21, 03:54:19](https://news.ycombinator.com/item?id=37963941) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
+* [2023-10-21, 03:47:29](https://news.ycombinator.com/item?id=37963898) - [2024 College Free Speech Rankings](https://rankings.thefire.org/rank)
 * [2023-10-21, 03:34:32](https://news.ycombinator.com/item?id=37963854) - [Dropbox handing over 25% of San Francisco HQ back to landlord](https://www.cnbc.com/2023/10/20/dropbox-hands-over-25percent-of-san-francisco-headquarters-back-to-landlord-.html)
 * [2023-10-21, 03:24:11](https://news.ycombinator.com/item?id=37963826) - [NASA's Voyager Team Focuses on Software Patch, Thrusters](https://www.jpl.nasa.gov/news/nasas-voyager-team-focuses-on-software-patch-thrusters)
 * [2023-10-21, 02:05:54](https://news.ycombinator.com/item?id=37963453) - [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
@@ -18,7 +19,6 @@
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 – Flyweight IDE](https://geany.org/)
 * [2023-10-20, 18:46:28](https://news.ycombinator.com/item?id=37959904) - [Hackers stole access tokens from Okta's support unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
-* [2023-10-20, 16:46:47](https://news.ycombinator.com/item?id=37958473) - [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird implemented in TypeScript types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
