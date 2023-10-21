@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 08:09:05](https://news.ycombinator.com/item?id=37964999) - [O3DE](https://o3de.org/)
 * [2023-10-21, 07:45:16](https://news.ycombinator.com/item?id=37964895) - [Restoration Magic](https://www.tiktok.com/@restorationmagic)
 * [2023-10-21, 07:40:42](https://news.ycombinator.com/item?id=37964878) - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
 * [2023-10-21, 07:07:25](https://news.ycombinator.com/item?id=37964743) - [Mystery Shopper: I Got Paid to Spy on People While They Worked](https://www.esquire.com/news-politics/a45484671/mystery-shopper/)
+* [2023-10-21, 06:28:53](https://news.ycombinator.com/item?id=37964575) - [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
 * [2023-10-21, 04:55:51](https://news.ycombinator.com/item?id=37964204) - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
 * [2023-10-21, 04:44:42](https://news.ycombinator.com/item?id=37964161) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
+* [2023-10-21, 04:43:25](https://news.ycombinator.com/item?id=37964153) - [Pushing devs for lower estimates is like asking a meteorologist for sunshine](https://smartguess.is/blog/your-estimate-is-less-than-that/)
 * [2023-10-21, 04:31:01](https://news.ycombinator.com/item?id=37964095) - [Pigging](https://en.wikipedia.org/wiki/Pigging)
 * [2023-10-21, 04:03:44](https://news.ycombinator.com/item?id=37963974) - [MMO Architecture: clients, sockets, threads and connection-oriented servers](https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/)
 * [2023-10-21, 03:54:19](https://news.ycombinator.com/item?id=37963941) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
