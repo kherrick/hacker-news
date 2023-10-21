@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 16:19:37](https://news.ycombinator.com/item?id=37968115) - [Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
 * [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [The Worlds First FPGA N64](http://www.ultrafp64.com/)
 * [2023-10-21, 15:50:44](https://news.ycombinator.com/item?id=37967800) - [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
 * [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [The exam that broke society](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
