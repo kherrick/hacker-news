@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 21:10:07](https://news.ycombinator.com/item?id=37970458) - [How the 'sex act' has become a potent weapon for book banners in Iowa](https://www.washingtonpost.com/opinions/2023/10/19/book-bans-iowa-kim-reynolds-gop-censorship/)
 * [2023-10-21, 21:00:40](https://news.ycombinator.com/item?id=37970379) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-10-21, 20:26:32](https://news.ycombinator.com/item?id=37970161) - [Stop Using Plastic Cutting Boards](https://www.outsideonline.com/outdoor-adventure/environment/cutting-board-microplastics/)
 * [2023-10-21, 20:18:32](https://news.ycombinator.com/item?id=37970110) - [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn't Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)

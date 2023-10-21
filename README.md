@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 21:10:07](https://news.ycombinator.com/item?id=37970458) - [How the 'sex act' has become a potent weapon for book banners in Iowa](https://www.washingtonpost.com/opinions/2023/10/19/book-bans-iowa-kim-reynolds-gop-censorship/)
 * [2023-10-21, 21:00:40](https://news.ycombinator.com/item?id=37970379) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-10-21, 20:26:32](https://news.ycombinator.com/item?id=37970161) - [Stop Using Plastic Cutting Boards](https://www.outsideonline.com/outdoor-adventure/environment/cutting-board-microplastics/)
 * [2023-10-21, 20:18:32](https://news.ycombinator.com/item?id=37970110) - [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn't Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)
@@ -18,7 +19,6 @@
 * [2023-10-21, 14:24:30](https://news.ycombinator.com/item?id=37967010) - [Show HN: Hackreels – Animate your code in HD](https://www.hackreels.com/)
 * [2023-10-21, 13:14:15](https://news.ycombinator.com/item?id=37966569) - [The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud](https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html)
 * [2023-10-21, 13:02:14](https://news.ycombinator.com/item?id=37966485) - [Refactoring has a price, not refactoring has a cost](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
-* [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It takes 12 people to use the 18k Sphere camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 * [2023-10-21, 08:59:33](https://news.ycombinator.com/item?id=37965217) - [Go Package for Building Progressive Web Apps](https://go-app.dev)
 * [2023-10-21, 08:09:05](https://news.ycombinator.com/item?id=37964999) - [O3DE](https://o3de.org/)
