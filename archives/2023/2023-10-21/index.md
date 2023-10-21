@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 04:44:42](https://news.ycombinator.com/item?id=37964161) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-21, 03:54:19](https://news.ycombinator.com/item?id=37963941) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
+* [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [2023-10-21, 03:47:29](https://news.ycombinator.com/item?id=37963898) - [2024 College Free Speech Rankings](https://rankings.thefire.org/rank)
 * [2023-10-21, 03:34:32](https://news.ycombinator.com/item?id=37963854) - [Dropbox handing over 25% of San Francisco HQ back to landlord](https://www.cnbc.com/2023/10/20/dropbox-hands-over-25percent-of-san-francisco-headquarters-back-to-landlord-.html)
 * [2023-10-21, 03:24:11](https://news.ycombinator.com/item?id=37963826) - [NASA's Voyager Team Focuses on Software Patch, Thrusters](https://www.jpl.nasa.gov/news/nasas-voyager-team-focuses-on-software-patch-thrusters)
