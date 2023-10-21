@@ -6,6 +6,7 @@
 
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
+* [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 * [2023-10-21, 09:19:55](https://news.ycombinator.com/item?id=37965297) - [Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
 * [2023-10-21, 08:50:34](https://news.ycombinator.com/item?id=37965177) - [U.S. Deficit, Pegged at $1.7T, Effectively Doubled in 2023](https://www.nytimes.com/2023/10/20/business/treasury-report-shows-1-7-trillion-deficit.html)
 * [2023-10-21, 08:42:52](https://news.ycombinator.com/item?id=37965142) - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)

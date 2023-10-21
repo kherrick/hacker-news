@@ -2,6 +2,7 @@
 
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
+* [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 * [2023-10-21, 09:19:55](https://news.ycombinator.com/item?id=37965297) - [Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant](https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/)
 * [2023-10-21, 08:42:52](https://news.ycombinator.com/item?id=37965142) - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 * [2023-10-21, 08:09:05](https://news.ycombinator.com/item?id=37964999) - [O3DE](https://o3de.org/)
@@ -29,7 +30,6 @@
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
-* [2023-10-20, 01:00:51](https://news.ycombinator.com/item?id=37950952) - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 
 ## [Archives](archives/index.md)
 
