@@ -27,9 +27,9 @@
 * [2023-10-21, 06:28:53](https://news.ycombinator.com/item?id=37964575) - [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
 * [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 * [2023-10-21, 03:03:15](https://news.ycombinator.com/item?id=37963731) - [Perilous Joy: George Eliot and the marriage question](https://thepointmag.com/criticism/perilous-joy/)
-* [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 17:10:17](https://news.ycombinator.com/item?id=37958765) - [Ask HN: How to do transactional SMS as a bootstrapped or startup company?](https://news.ycombinator.com/item?id=37958765)
 * [2023-10-20, 13:56:48](https://news.ycombinator.com/item?id=37956065) - [Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
+* [2023-10-20, 09:22:34](https://news.ycombinator.com/item?id=37953943) - [Impertinent Questions with Kristine Harper (2008)](https://www.neh.gov/humanities/2008/septemberoctober/iq/impertinent-questions-kristine-harper)
 
 ## [Archives](archives/index.md)
 

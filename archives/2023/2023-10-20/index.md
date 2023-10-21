@@ -101,6 +101,7 @@
 * [2023-10-20, 11:08:00](https://news.ycombinator.com/item?id=37954600) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2023-10-20, 09:58:44](https://news.ycombinator.com/item?id=37954180) - [300K Damage from Airbnb Guest](https://twitter.com/ErikaCoaches/status/1715053934585229806)
 * [2023-10-20, 09:57:31](https://news.ycombinator.com/item?id=37954171) - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
+* [2023-10-20, 09:22:34](https://news.ycombinator.com/item?id=37953943) - [Impertinent Questions with Kristine Harper (2008)](https://www.neh.gov/humanities/2008/septemberoctober/iq/impertinent-questions-kristine-harper)
 * [2023-10-20, 09:17:40](https://news.ycombinator.com/item?id=37953920) - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)
 * [2023-10-20, 08:50:42](https://news.ycombinator.com/item?id=37953741) - [The Unix Game](https://unixgame.io/unix50)
 * [2023-10-20, 08:23:10](https://news.ycombinator.com/item?id=37953569) - [A tutorial for the sam command language (1986) [pdf]](http://doc.cat-v.org/bell_labs/sam_lang_tutorial/sam_tut.pdf)
