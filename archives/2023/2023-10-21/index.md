@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [The Worlds First FPGA N64](http://www.ultrafp64.com/)
+* [2023-10-21, 15:50:44](https://news.ycombinator.com/item?id=37967800) - [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
+* [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [The exam that broke society](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
 * [2023-10-21, 15:42:41](https://news.ycombinator.com/item?id=37967721) - [From the Galilee to Gaza: A Voice from Palestine](https://crimethinc.com/2023/10/17/from-the-galilee-to-gaza-a-voice-from-palestine-1)
 * [2023-10-21, 15:15:38](https://news.ycombinator.com/item?id=37967493) - [Fish Skin Can Heal Other Animals' Eye Injuries](https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/)
 * [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
