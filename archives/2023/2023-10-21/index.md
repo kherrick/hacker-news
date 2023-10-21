@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 21:00:40](https://news.ycombinator.com/item?id=37970379) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-10-21, 20:18:32](https://news.ycombinator.com/item?id=37970110) - [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn't Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)
+* [2023-10-21, 20:15:20](https://news.ycombinator.com/item?id=37970089) - [Ask HN: Where Do You Sit?](https://news.ycombinator.com/item?id=37970089)
 * [2023-10-21, 19:06:58](https://news.ycombinator.com/item?id=37969623) - [The \"snipers' massacre\" on the Maidan in Ukraine](https://www.tandfonline.com/doi/full/10.1080/23311886.2023.2269685)
 * [2023-10-21, 18:40:44](https://news.ycombinator.com/item?id=37969409) - [Fewer Californians are moving to Texas, but more are going to FL and AZ](https://www.pressdemocrat.com/article/news/fewer-californians-are-moving-to-texas-but-more-are-going-to-florida-and-a/)
 * [2023-10-21, 18:38:45](https://news.ycombinator.com/item?id=37969387) - [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
@@ -35,6 +38,7 @@
 * [2023-10-21, 13:02:14](https://news.ycombinator.com/item?id=37966485) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
 * [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-10-21, 11:38:03](https://news.ycombinator.com/item?id=37965966) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
 * [2023-10-21, 09:44:53](https://news.ycombinator.com/item?id=37965402) - [In 1980s Los Angeles, a bank was robbed every hour](https://crimereads.com/the-rise-and-fall-of-the-bank-robbery-capital-of-the-world/)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
