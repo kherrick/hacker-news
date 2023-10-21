@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 04:55:51](https://news.ycombinator.com/item?id=37964204) - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
 * [2023-10-21, 04:44:42](https://news.ycombinator.com/item?id=37964161) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-21, 03:54:19](https://news.ycombinator.com/item?id=37963941) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)

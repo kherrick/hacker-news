@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 04:55:51](https://news.ycombinator.com/item?id=37964204) - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
 * [2023-10-21, 04:44:42](https://news.ycombinator.com/item?id=37964161) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-21, 03:54:19](https://news.ycombinator.com/item?id=37963941) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
@@ -24,7 +25,6 @@
 * [2023-10-20, 16:46:47](https://news.ycombinator.com/item?id=37958473) - [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
 * [2023-10-20, 15:22:52](https://news.ycombinator.com/item?id=37957397) - [\"<ESC>[31M\"? ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-20, 15:06:21](https://news.ycombinator.com/item?id=37957152) - [The ten year anniversary of the Healthcare.gov rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
-* [2023-10-20, 14:47:52](https://news.ycombinator.com/item?id=37956856) - [Flappy Bird implemented in TypeScript types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/)
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
