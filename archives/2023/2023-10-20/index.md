@@ -8,6 +8,7 @@
 * [2023-10-20, 23:37:13](https://news.ycombinator.com/item?id=37962688) - [Astronauts and Area 51: the Skylab Incident (2006)](https://www.thespacereview.com/article/531/1)
 * [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
 * [2023-10-20, 23:09:04](https://news.ycombinator.com/item?id=37962499) - [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
+* [2023-10-20, 22:52:17](https://news.ycombinator.com/item?id=37962370) - [Don't use DISTINCT as a \"join-fixer\"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
 * [2023-10-20, 22:22:10](https://news.ycombinator.com/item?id=37962152) - [F-Droid: Android FOSS app store](https://f-droid.org/)
 * [2023-10-20, 22:15:58](https://news.ycombinator.com/item?id=37962102) - [Solving the 100GB Game Download](http://venusoft.net/)
 * [2023-10-20, 21:41:02](https://news.ycombinator.com/item?id=37961873) - [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
