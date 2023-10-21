@@ -23,6 +23,7 @@
 * [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 20:09:51](https://news.ycombinator.com/item?id=37960928) - [Twenty-Four Hours in An Invisible Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
+* [2023-10-20, 20:01:19](https://news.ycombinator.com/item?id=37960827) - [Show HN: sbctl – Secure Boot key manager](https://github.com/Foxboron/sbctl)
 * [2023-10-20, 19:53:28](https://news.ycombinator.com/item?id=37960735) - [Amazon's bestselling bitter lemon energy drink was bottled delivery driver piss](https://pluralistic.net/2023/10/20/release-energy/)
 * [2023-10-20, 19:47:01](https://news.ycombinator.com/item?id=37960666) - [OpenSSL Adds Support for Raw Public Key (RFC7250)](https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/)
 * [2023-10-20, 19:46:47](https://news.ycombinator.com/item?id=37960663) - [Blade Runner: The Unofficial White Dragon Cut](https://whitedragoncut.com/?page_id=1589&lang=en)
