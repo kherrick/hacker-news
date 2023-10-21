@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-21, 21:00:40",
+      "https://news.ycombinator.com/item?id=37970379"
+    ],
+    [
+      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+      "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 20:18:32",
+      "https://news.ycombinator.com/item?id=37970110"
+    ],
+    [
+      "Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn't Go Well",
+      "https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 20:15:20",
+      "https://news.ycombinator.com/item?id=37970089"
+    ],
+    [
+      "Ask HN: Where Do You Sit?",
+      "https://news.ycombinator.com/item?id=37970089"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 18:38:45",
       "https://news.ycombinator.com/item?id=37969387"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2023-10-21, 17:00:39",
-      "https://news.ycombinator.com/item?id=37968534"
-    ],
-    [
-      "GoGoGrandparent (YC S16) Is Hiring",
-      "https://news.ycombinator.com/item?id=37968534"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 16:19:37",
       "https://news.ycombinator.com/item?id=37968115"
     ],
@@ -77,16 +97,6 @@
     [
       "FPGA N64",
       "http://www.ultrafp64.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 15:50:44",
-      "https://news.ycombinator.com/item?id=37967800"
-    ],
-    [
-      "Oberon System 3",
-      "https://github.com/rochus-keller/OberonSystem3"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-10-21, 11:38:03",
+      "https://news.ycombinator.com/item?id=37965966"
+    ],
+    [
+      "Zig is now also a Windows resource compiler",
+      "https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 09:26:39",
       "https://news.ycombinator.com/item?id=37965319"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-10-21, 07:28:56",
-      "https://news.ycombinator.com/item?id=37964829"
-    ],
-    [
-      "CFR[] is a very minimal drawing language with 5 simple commands: C, F, R, [, ]",
-      "https://github.com/susam/cfr"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 06:51:42",
       "https://news.ycombinator.com/item?id=37964682"
     ],
@@ -267,16 +277,6 @@
     [
       "Perilous Joy: George Eliot and the marriage question",
       "https://thepointmag.com/criticism/perilous-joy/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 20:10:52",
-      "https://news.ycombinator.com/item?id=37960941"
-    ],
-    [
-      "Progress on No-GIL CPython",
-      "https://lwn.net/Articles/947138/"
     ]
   ],
   [
