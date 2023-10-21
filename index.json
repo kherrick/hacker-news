@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-10-21, 13:14:15",
+      "https://news.ycombinator.com/item?id=37966569"
+    ],
+    [
+      "The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud",
+      "https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 13:09:19",
       "https://news.ycombinator.com/item?id=37966534"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-10-21, 09:19:55",
-      "https://news.ycombinator.com/item?id=37965297"
-    ],
-    [
-      "Town Repeatedly Surveilled Man's Yard with Drone Without a Warrant",
-      "https://www.404media.co/town-surveilled-mans-yard-without-a-warrant/"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 08:59:33",
       "https://news.ycombinator.com/item?id=37965217"
     ],
@@ -167,6 +167,16 @@
     [
       "With Firefox on X11, any page can pastejack you anytime (middle button paste)",
       "https://www.openwall.com/lists/oss-security/2023/10/17/1"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 06:51:42",
+      "https://news.ycombinator.com/item?id=37964682"
+    ],
+    [
+      "Common-knowledge effect: A harmful bias in team decision making",
+      "https://www.nngroup.com/articles/common-knowledge-effect/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Progress on No-GIL CPython",
       "https://lwn.net/Articles/947138/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 12:40:53",
-      "https://news.ycombinator.com/item?id=37955264"
-    ],
-    [
-      "Encrypted traffic interception on Hetzner and Linode targeting Jabber service",
-      "https://notes.valdikss.org.ru/jabber.ru-mitm/"
     ]
   ]
 ]
