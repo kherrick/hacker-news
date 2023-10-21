@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-10-21, 09:26:39",
+      "https://news.ycombinator.com/item?id=37965319"
+    ],
+    [
+      "We Built a Streaming SQL Engine",
+      "https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 09:19:55",
       "https://news.ycombinator.com/item?id=37965297"
     ],
@@ -287,16 +297,6 @@
     [
       "Encrypted traffic interception on Hetzner and Linode targeting Jabber service",
       "https://notes.valdikss.org.ru/jabber.ru-mitm/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 01:00:51",
-      "https://news.ycombinator.com/item?id=37950952"
-    ],
-    [
-      "Nota is a language for writing documents, like academic papers and blog posts",
-      "https://nota-lang.org/#def-nota"
     ]
   ]
 ]
