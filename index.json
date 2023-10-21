@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-10-21, 17:08:17",
-      "https://news.ycombinator.com/item?id=37968598"
-    ],
-    [
-      "Nakatomi Space",
-      "https://bldgblog.com/2010/01/nakatomi-space/"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 17:00:39",
       "https://news.ycombinator.com/item?id=37968534"
     ],
@@ -227,6 +217,16 @@
     [
       "Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008",
       "https://github.com/antonblanchard/microwatt"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 07:28:56",
+      "https://news.ycombinator.com/item?id=37964829"
+    ],
+    [
+      "CFR[] is a very minimal drawing language with 5 simple commands: C, F, R, [, ]",
+      "https://github.com/susam/cfr"
     ]
   ],
   [
