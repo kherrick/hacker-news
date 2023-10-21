@@ -11,7 +11,7 @@
 * [2023-10-21, 01:17:43](https://news.ycombinator.com/item?id=37963252) - [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
 * [2023-10-21, 01:02:53](https://news.ycombinator.com/item?id=37963182) - [The Polaroid SX70's unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
 * [2023-10-20, 23:37:13](https://news.ycombinator.com/item?id=37962688) - [Astronauts and Area 51: the Skylab Incident (2006)](https://www.thespacereview.com/article/531/1)
-* [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
+* [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The shortest papers ever published (2016)](https://paperpile.com/blog/shortest-papers/)
 * [2023-10-20, 22:52:17](https://news.ycombinator.com/item?id=37962370) - [Don't use DISTINCT as a \"join-fixer\"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
 * [2023-10-20, 22:22:10](https://news.ycombinator.com/item?id=37962152) - [F-Droid: Android FOSS app store](https://f-droid.org/)
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
