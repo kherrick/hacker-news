@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)

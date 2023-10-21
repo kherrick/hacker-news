@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
@@ -16,7 +17,6 @@
 * [2023-10-21, 03:54:19](https://news.ycombinator.com/item?id=37963941) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up (2013)](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [2023-10-21, 03:49:16](https://news.ycombinator.com/item?id=37963909) - [AI Reduces the World to Stereotypes](https://restofworld.org/2023/ai-image-stereotypes/)
-* [2023-10-21, 03:24:11](https://news.ycombinator.com/item?id=37963826) - [NASA's Voyager Team Focuses on Software Patch, Thrusters](https://www.jpl.nasa.gov/news/nasas-voyager-team-focuses-on-software-patch-thrusters)
 * [2023-10-21, 02:05:54](https://news.ycombinator.com/item?id=37963453) - [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
 * [2023-10-21, 01:17:43](https://news.ycombinator.com/item?id=37963252) - [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
 * [2023-10-21, 01:02:53](https://news.ycombinator.com/item?id=37963182) - [The Polaroid SX70's unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
