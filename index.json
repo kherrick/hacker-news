@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-21, 16:19:37",
+      "https://news.ycombinator.com/item?id=37968115"
+    ],
+    [
+      "Solvable statistical physics models for large neuronal populations",
+      "https://arxiv.org/abs/2310.10860"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 16:01:45",
       "https://news.ycombinator.com/item?id=37967936"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37967751"
     ],
     [
-      "The exam that broke society",
+      "Keju, China’s difficult civil service test",
       "https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37967493"
     ],
     [
-      "Fish Skin Can Heal Other Animals' Eye Injuries",
+      "Fish skin can heal other animals' eye injuries",
       "https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/"
     ]
   ],
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=37967126"
     ],
     [
-      "What Every Developer Should Know About GPU Computing",
+      "What every developer should know about GPU computing",
       "https://codeconfessions.substack.com/p/gpu-computing"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 13:48:56",
-      "https://news.ycombinator.com/item?id=37966767"
-    ],
-    [
-      "Cratering motor fuel sales in Norway show the death spiral that can end oil",
-      "https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-10-21, 10:21:28",
-      "https://news.ycombinator.com/item?id=37965564"
-    ],
-    [
-      "Google cuts dozens of jobs in news division",
-      "https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 09:44:53",
       "https://news.ycombinator.com/item?id=37965402"
     ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=37965142"
     ],
     [
-      "We have used too many levels of abstractions and now the future looks bleak",
+      "We have used too many levels of abstractions",
       "https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html"
     ]
   ],
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2023-10-21, 03:54:19",
-      "https://news.ycombinator.com/item?id=37963941"
-    ],
-    [
-      "The next Raptor OpenPOWER systems are coming, but they won't be Power10",
-      "https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 03:51:30",
       "https://news.ycombinator.com/item?id=37963921"
     ],
     [
       "Reimplementing git clone in Haskell from the bottom up (2013)",
       "https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 23:35:32",
+      "https://news.ycombinator.com/item?id=37962682"
+    ],
+    [
+      "The shortest papers ever published (2016)",
+      "https://paperpile.com/blog/shortest-papers/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Progress on No-GIL CPython",
       "https://lwn.net/Articles/947138/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 17:10:17",
+      "https://news.ycombinator.com/item?id=37958765"
+    ],
+    [
+      "Ask HN: How to do transactional SMS as a bootstrapped or startup company?",
+      "https://news.ycombinator.com/item?id=37958765"
     ]
   ]
 ]
