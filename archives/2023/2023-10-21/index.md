@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 03:34:32](https://news.ycombinator.com/item?id=37963854) - [Dropbox handing over 25% of San Francisco HQ back to landlord](https://www.cnbc.com/2023/10/20/dropbox-hands-over-25percent-of-san-francisco-headquarters-back-to-landlord-.html)
 * [2023-10-21, 02:08:17](https://news.ycombinator.com/item?id=37963460) - [AMD Wants to Know If You'd Like Ryzen AI Support on Linux](https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests)
 * [2023-10-21, 02:05:54](https://news.ycombinator.com/item?id=37963453) - [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
 * [2023-10-21, 01:53:17](https://news.ycombinator.com/item?id=37963403) - [Disc Brakes Took over the Cycling World. Here's Why That Was a Mistake](https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/)
