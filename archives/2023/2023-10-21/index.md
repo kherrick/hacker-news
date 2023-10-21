@@ -9,4 +9,5 @@
 * [2023-10-21, 01:53:17](https://news.ycombinator.com/item?id=37963403) - [Disc Brakes Took over the Cycling World. Here's Why That Was a Mistake](https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/)
 * [2023-10-21, 01:40:55](https://news.ycombinator.com/item?id=37963344) - [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
 * [2023-10-21, 01:31:20](https://news.ycombinator.com/item?id=37963302) - [Instagram sorry for translation error that put \"terrorist\" in Palestinian bios](https://arstechnica.com/tech-policy/2023/10/instagram-sorry-for-erroneously-labeling-palestinian-users-as-terrorists/)
+* [2023-10-21, 01:17:43](https://news.ycombinator.com/item?id=37963252) - [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
 * [2023-10-21, 01:02:53](https://news.ycombinator.com/item?id=37963182) - [The Polaroid SX70's unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)

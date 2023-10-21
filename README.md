@@ -3,7 +3,7 @@
 * [2023-10-21, 02:08:17](https://news.ycombinator.com/item?id=37963460) - [AMD Wants to Know If You'd Like Ryzen AI Support on Linux](https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests)
 * [2023-10-21, 02:05:54](https://news.ycombinator.com/item?id=37963453) - [How to self study pure math – a step-by-step guide [video]](https://www.youtube.com/watch?v=byNaO_zn2fI)
 * [2023-10-21, 01:53:17](https://news.ycombinator.com/item?id=37963403) - [Disc Brakes Took over the Cycling World. Here's Why That Was a Mistake](https://www.outsideonline.com/culture/opinion/disc-brakes-took-over-the-cycling-world-heres-why-that-was-a-mistake/)
-* [2023-10-21, 01:40:55](https://news.ycombinator.com/item?id=37963344) - [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
+* [2023-10-21, 01:17:43](https://news.ycombinator.com/item?id=37963252) - [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
 * [2023-10-21, 01:02:53](https://news.ycombinator.com/item?id=37963182) - [The Polaroid SX70's unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
 * [2023-10-20, 23:37:13](https://news.ycombinator.com/item?id=37962688) - [Astronauts and Area 51: the Skylab Incident (2006)](https://www.thespacereview.com/article/531/1)
 * [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
@@ -27,7 +27,7 @@
 * [2023-10-20, 13:20:35](https://news.ycombinator.com/item?id=37955600) - [In search of the least viewed article on Wikipedia (2022)](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 * [2023-10-20, 12:56:48](https://news.ycombinator.com/item?id=37955402) - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-20, 12:40:53](https://news.ycombinator.com/item?id=37955264) - [Encrypted traffic interception on Hetzner and Linode targeting Jabber service](https://notes.valdikss.org.ru/jabber.ru-mitm/)
-* [2023-10-20, 00:45:23](https://news.ycombinator.com/item?id=37950811) - [International team develops novel DNA nano engine](https://phys.org/news/2023-10-international-team-dna-nano.html)
+* [2023-10-20, 07:36:18](https://news.ycombinator.com/item?id=37953331) - [Mysterious rock depicted in 15th century painting is likely a Stone Age tool](https://arstechnica.com/science/2023/10/mysterious-rock-depicted-in-15th-century-painting-is-most-likely-a-stone-age-tool/)
 * [2023-10-19, 23:54:02](https://news.ycombinator.com/item?id=37950399) - [Bumble bees drop to shake off Asian hornets](https://phys.org/news/2023-10-bumble-bees-asian-hornets.html)
 * [2023-10-19, 12:52:17](https://news.ycombinator.com/item?id=37942181) - [Blaze: Fast query execution engine for Apache Spark](https://github.com/blaze-init/blaze)
 
