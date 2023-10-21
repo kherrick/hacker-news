@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-10-21, 16:06:34",
-      "https://news.ycombinator.com/item?id=37967990"
-    ],
-    [
-      "Ogre 14.1 Released",
-      "https://www.ogre3d.org/2023/09/12/ogre-14-1-released"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 16:01:45",
       "https://news.ycombinator.com/item?id=37967936"
     ],
@@ -217,6 +207,16 @@
     [
       "Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008",
       "https://github.com/antonblanchard/microwatt"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 07:28:56",
+      "https://news.ycombinator.com/item?id=37964829"
+    ],
+    [
+      "CFR[] is a very minimal drawing language with 5 simple commands: C, F, R, [, ]",
+      "https://github.com/susam/cfr"
     ]
   ],
   [
