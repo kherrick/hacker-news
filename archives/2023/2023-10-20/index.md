@@ -68,6 +68,7 @@
 * [2023-10-20, 14:18:52](https://news.ycombinator.com/item?id=37956406) - [10-year Treasury yield rises to 5%, highest level for the key rate in 16 years](https://www.cnbc.com/2023/10/19/us-treasurys-ahead-of-fed-chair-powell-speech.html)
 * [2023-10-20, 14:17:01](https://news.ycombinator.com/item?id=37956374) - [Mathematicians Found 12,000 Solutions to the Notoriously Hard Three-Body Problem](https://www.popularmechanics.com/science/math/a45074216/three-body-problem-solutions/)
 * [2023-10-20, 13:58:21](https://news.ycombinator.com/item?id=37956089) - [Humming-Birds](https://www.c82.net/work/?id=395)
+* [2023-10-20, 13:56:48](https://news.ycombinator.com/item?id=37956065) - [Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
 * [2023-10-20, 13:50:17](https://news.ycombinator.com/item?id=37955974) - [The Tech Industry Has a New Plan to Stop Proliferation of Right to Repair Laws](https://www.404media.co/the-tech-industry-has-a-new-plan-to-stop-right-to-repair-laws/)
 * [2023-10-20, 13:49:09](https://news.ycombinator.com/item?id=37955952) - [Nonprofit hospitals skimp on charity while CEOs reap millions, report finds](https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/)
 * [2023-10-20, 13:30:16](https://news.ycombinator.com/item?id=37955711) - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)

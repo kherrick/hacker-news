@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
 * [2023-10-21, 16:50:35](https://news.ycombinator.com/item?id=37968436) - [Strange Ways AI Disrupts Business Models](https://www.implications.com/p/strange-ways-ai-disrupts-business)
 * [2023-10-21, 16:35:49](https://news.ycombinator.com/item?id=37968288) - [Ask HN: Would you stop eating meat after AI unlocks communication with animals?](https://news.ycombinator.com/item?id=37968288)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
-* [2023-10-21, 16:35:49](https://news.ycombinator.com/item?id=37968288) - [Ask HN: Would you stop eating meat after AI unlocks communication with animals?](https://news.ycombinator.com/item?id=37968288)
 * [2023-10-21, 16:19:37](https://news.ycombinator.com/item?id=37968115) - [Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
 * [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [The Worlds First FPGA N64](http://www.ultrafp64.com/)
 * [2023-10-21, 15:50:44](https://news.ycombinator.com/item?id=37967800) - [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
@@ -28,8 +28,8 @@
 * [2023-10-21, 04:03:44](https://news.ycombinator.com/item?id=37963974) - [MMO Architecture: clients, sockets, threads and connection-oriented servers](https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/)
 * [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up (2013)](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [2023-10-21, 03:03:15](https://news.ycombinator.com/item?id=37963731) - [Perilous Joy: George Eliot and the marriage question](https://thepointmag.com/criticism/perilous-joy/)
-* [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 * [2023-10-20, 17:10:17](https://news.ycombinator.com/item?id=37958765) - [Ask HN: How to do transactional SMS as a bootstrapped or startup company?](https://news.ycombinator.com/item?id=37958765)
+* [2023-10-20, 13:56:48](https://news.ycombinator.com/item?id=37956065) - [Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
 
 ## [Archives](archives/index.md)
 
