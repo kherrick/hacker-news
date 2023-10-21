@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-21, 13:48:56](https://news.ycombinator.com/item?id=37966767) - [Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
 * [2023-10-21, 13:40:02](https://news.ycombinator.com/item?id=37966712) - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
 * [2023-10-21, 13:38:18](https://news.ycombinator.com/item?id=37966698) - [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
@@ -27,7 +28,6 @@
 * [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up (2013)](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [2023-10-21, 01:17:43](https://news.ycombinator.com/item?id=37963252) - [Trojitá, a fast Qt IMAP email client](http://trojita.flaska.net/)
 * [2023-10-21, 01:02:53](https://news.ycombinator.com/item?id=37963182) - [The Polaroid SX70's unusual shutter](https://opensx70.com/posts/2018/11/sx70-shutter)
-* [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The shortest papers ever published (2016)](https://paperpile.com/blog/shortest-papers/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
 
