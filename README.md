@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-21, 19:06:58](https://news.ycombinator.com/item?id=37969623) - [The \"snipers' massacre\" on the Maidan in Ukraine](https://www.tandfonline.com/doi/full/10.1080/23311886.2023.2269685)
 * [2023-10-21, 18:38:45](https://news.ycombinator.com/item?id=37969387) - [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
 * [2023-10-21, 18:22:32](https://news.ycombinator.com/item?id=37969248) - [Adtech surveillance and government surveillance are often the same](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
 * [2023-10-21, 17:37:34](https://news.ycombinator.com/item?id=37968900) - [How plants communicate with each other when in danger](https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/)
 * [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
 * [2023-10-21, 16:19:37](https://news.ycombinator.com/item?id=37968115) - [Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
+* [2023-10-21, 16:06:34](https://news.ycombinator.com/item?id=37967990) - [Ogre 14.1 Released](https://www.ogre3d.org/2023/09/12/ogre-14-1-released)
 * [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [FPGA N64](http://www.ultrafp64.com/)
 * [2023-10-21, 15:50:44](https://news.ycombinator.com/item?id=37967800) - [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
 * [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [Keju, China’s difficult civil service test](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
