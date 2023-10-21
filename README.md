@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 18:22:32](https://news.ycombinator.com/item?id=37969248) - [Adtech Surveillance and Government Surveillance Are Often the Same Surveillance](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
 * [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
 * [2023-10-21, 16:19:37](https://news.ycombinator.com/item?id=37968115) - [Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
@@ -16,7 +17,6 @@
 * [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 * [2023-10-21, 08:59:33](https://news.ycombinator.com/item?id=37965217) - [Go Package for Building Progressive Web Apps](https://go-app.dev)
-* [2023-10-21, 08:42:52](https://news.ycombinator.com/item?id=37965142) - [We have used too many levels of abstractions](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 * [2023-10-21, 08:09:05](https://news.ycombinator.com/item?id=37964999) - [O3DE](https://o3de.org/)
 * [2023-10-21, 07:40:42](https://news.ycombinator.com/item?id=37964878) - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
 * [2023-10-21, 07:30:39](https://news.ycombinator.com/item?id=37964835) - [With Firefox on X11, any page can pastejack you anytime (middle button paste)](https://www.openwall.com/lists/oss-security/2023/10/17/1)
