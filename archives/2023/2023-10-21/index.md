@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 18:40:44](https://news.ycombinator.com/item?id=37969409) - [Fewer Californians are moving to Texas, but more are going to FL and AZ](https://www.pressdemocrat.com/article/news/fewer-californians-are-moving-to-texas-but-more-are-going-to-florida-and-a/)
+* [2023-10-21, 18:38:45](https://news.ycombinator.com/item?id=37969387) - [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
 * [2023-10-21, 18:22:32](https://news.ycombinator.com/item?id=37969248) - [Adtech Surveillance and Government Surveillance Are Often the Same Surveillance](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
 * [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)

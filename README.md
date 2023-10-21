@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 18:40:44](https://news.ycombinator.com/item?id=37969409) - [Fewer Californians are moving to Texas, but more are going to FL and AZ](https://www.pressdemocrat.com/article/news/fewer-californians-are-moving-to-texas-but-more-are-going-to-florida-and-a/)
+* [2023-10-21, 18:38:45](https://news.ycombinator.com/item?id=37969387) - [Reddit mods dumped tokens hours before blockchain program termination](https://cointelegraph.com/news/reddit-mods-dumped-tokens-hours-before-blockchain-program-termination)
 * [2023-10-21, 18:22:32](https://news.ycombinator.com/item?id=37969248) - [Adtech Surveillance and Government Surveillance Are Often the Same Surveillance](https://www.eff.org/deeplinks/2023/10/adtech-surveillance-and-government-surveillance-are-often-same-surveillance)
 * [2023-10-21, 17:08:17](https://news.ycombinator.com/item?id=37968598) - [Nakatomi Space](https://bldgblog.com/2010/01/nakatomi-space/)
 * [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
@@ -11,7 +13,6 @@
 * [2023-10-21, 14:51:44](https://news.ycombinator.com/item?id=37967257) - [Undefined Behavior, and the Sledgehammer Principle](https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline)
 * [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What every developer should know about GPU computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-21, 14:24:30](https://news.ycombinator.com/item?id=37967010) - [Show HN: Hackreels – Animate your code in HD](https://www.hackreels.com/)
-* [2023-10-21, 13:40:02](https://news.ycombinator.com/item?id=37966712) - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
 * [2023-10-21, 13:38:18](https://news.ycombinator.com/item?id=37966698) - [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
 * [2023-10-21, 13:14:15](https://news.ycombinator.com/item?id=37966569) - [The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud](https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html)
 * [2023-10-21, 12:45:12](https://news.ycombinator.com/item?id=37966367) - [It Takes 12 People to Use the 18K Sphere Camera](https://petapixel.com/2023/10/20/darren-aronofsky-says-it-takes-12-people-to-use-the-18k-sphere-camera/)
@@ -26,7 +27,6 @@
 * [2023-10-21, 04:43:25](https://news.ycombinator.com/item?id=37964153) - [Pushing devs for lower estimates is like asking a meteorologist for sunshine](https://smartguess.is/blog/your-estimate-is-less-than-that/)
 * [2023-10-21, 04:31:01](https://news.ycombinator.com/item?id=37964095) - [Pigging](https://en.wikipedia.org/wiki/Pigging)
 * [2023-10-21, 04:03:44](https://news.ycombinator.com/item?id=37963974) - [MMO Architecture: clients, sockets, threads and connection-oriented servers](https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/)
-* [2023-10-21, 03:51:30](https://news.ycombinator.com/item?id=37963921) - [Reimplementing git clone in Haskell from the bottom up (2013)](https://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [2023-10-21, 03:03:15](https://news.ycombinator.com/item?id=37963731) - [Perilous Joy: George Eliot and the marriage question](https://thepointmag.com/criticism/perilous-joy/)
 * [2023-10-20, 17:10:17](https://news.ycombinator.com/item?id=37958765) - [Ask HN: How to do transactional SMS as a bootstrapped or startup company?](https://news.ycombinator.com/item?id=37958765)
 * [2023-10-20, 13:56:48](https://news.ycombinator.com/item?id=37956065) - [Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
