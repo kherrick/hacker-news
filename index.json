@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-10-21, 07:30:39",
+      "https://news.ycombinator.com/item?id=37964835"
+    ],
+    [
+      "With Firefox on X11, any page can pastejack you anytime (middle button paste)",
+      "https://www.openwall.com/lists/oss-security/2023/10/17/1"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 06:28:53",
       "https://news.ycombinator.com/item?id=37964575"
     ],
@@ -237,16 +247,6 @@
     [
       "Don't use DISTINCT as a \"join-fixer\"",
       "https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 20:40:00",
-      "https://news.ycombinator.com/item?id=37961232"
-    ],
-    [
-      "How the creator of Alone in the Dark came back to games",
-      "https://news.play.date/news/skew/"
     ]
   ],
   [
