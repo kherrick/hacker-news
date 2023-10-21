@@ -19,7 +19,6 @@
 * [2023-10-21, 14:24:30](https://news.ycombinator.com/item?id=37967010) - [Show HN: Hackreels – Animate your code in HD](https://www.hackreels.com/)
 * [2023-10-21, 13:14:15](https://news.ycombinator.com/item?id=37966569) - [The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud](https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html)
 * [2023-10-21, 13:02:14](https://news.ycombinator.com/item?id=37966485) - [Refactoring has a price, not refactoring has a cost](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
-* [2023-10-21, 11:38:03](https://news.ycombinator.com/item?id=37965966) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
 * [2023-10-21, 08:59:33](https://news.ycombinator.com/item?id=37965217) - [Go Package for Building Progressive Web Apps](https://go-app.dev)
 * [2023-10-21, 08:09:05](https://news.ycombinator.com/item?id=37964999) - [O3DE](https://o3de.org/)
@@ -30,6 +29,7 @@
 * [2023-10-20, 13:56:48](https://news.ycombinator.com/item?id=37956065) - [Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
 * [2023-10-20, 09:31:17](https://news.ycombinator.com/item?id=37953994) - [Scaling to 15000 Functions and Beyond](https://www.openfaas.com/blog/large-scale-functions/)
 * [2023-10-20, 09:22:34](https://news.ycombinator.com/item?id=37953943) - [Impertinent Questions with Kristine Harper (2008)](https://www.neh.gov/humanities/2008/septemberoctober/iq/impertinent-questions-kristine-harper)
+* [2023-10-20, 09:03:29](https://news.ycombinator.com/item?id=37953833) - [Using AsciiDoc and Asciidoctor for Blogging](https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/)
 
 ## [Archives](archives/index.md)
 
