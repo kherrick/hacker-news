@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-21, 20:26:32",
+      "https://news.ycombinator.com/item?id=37970161"
+    ],
+    [
+      "Stop Using Plastic Cutting Boards",
+      "https://www.outsideonline.com/outdoor-adventure/environment/cutting-board-microplastics/"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 20:18:32",
       "https://news.ycombinator.com/item?id=37970110"
     ],
@@ -57,16 +67,6 @@
     [
       "How plants communicate with each other when in danger",
       "https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 17:13:59",
-      "https://news.ycombinator.com/item?id=37968652"
-    ],
-    [
-      "Hacker News Enhancement Suite is best thing since sliced bread",
-      "https://github.com/etcet/HNES"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-10-21, 11:38:03",
-      "https://news.ycombinator.com/item?id=37965966"
-    ],
-    [
-      "Zig is now also a Windows resource compiler",
-      "https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 09:26:39",
       "https://news.ycombinator.com/item?id=37965319"
     ],
@@ -287,6 +277,16 @@
     [
       "Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]",
       "https://susam.net/cfr.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 09:31:17",
+      "https://news.ycombinator.com/item?id=37953994"
+    ],
+    [
+      "Scaling to 15000 Functions and Beyond",
+      "https://www.openfaas.com/blog/large-scale-functions/"
     ]
   ],
   [
