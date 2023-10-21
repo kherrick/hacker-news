@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-21, 21:28:06](https://news.ycombinator.com/item?id=37970594) - [Locked and Loaded with New Cosmic DE Updates](https://blog.system76.com/post/locked-and-loaded-with-new-cosmic-de-updates/)
-* [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler: The Secret History of Microsoft Windows [video]](https://www.youtube.com/watch?v=mLk7SFu-4Z8)
+* [2023-10-21, 21:12:35](https://news.ycombinator.com/item?id=37970484) - [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
 * [2023-10-21, 21:00:40](https://news.ycombinator.com/item?id=37970379) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-10-21, 20:43:03](https://news.ycombinator.com/item?id=37970267) - [30% of Americans have faced health data breaches this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235)
 * [2023-10-21, 20:18:32](https://news.ycombinator.com/item?id=37970110) - [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn't Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)
