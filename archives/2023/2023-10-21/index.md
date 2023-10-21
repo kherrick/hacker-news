@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 17:00:39](https://news.ycombinator.com/item?id=37968534) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=37968534)
+* [2023-10-21, 16:50:35](https://news.ycombinator.com/item?id=37968436) - [Strange Ways AI Disrupts Business Models](https://www.implications.com/p/strange-ways-ai-disrupts-business)
 * [2023-10-21, 16:19:37](https://news.ycombinator.com/item?id=37968115) - [Solvable statistical physics models for large neuronal populations](https://arxiv.org/abs/2310.10860)
 * [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [The Worlds First FPGA N64](http://www.ultrafp64.com/)
 * [2023-10-21, 15:50:44](https://news.ycombinator.com/item?id=37967800) - [Oberon System 3](https://github.com/rochus-keller/OberonSystem3)
@@ -11,6 +13,7 @@
 * [2023-10-21, 15:42:41](https://news.ycombinator.com/item?id=37967721) - [From the Galilee to Gaza: A Voice from Palestine](https://crimethinc.com/2023/10/17/from-the-galilee-to-gaza-a-voice-from-palestine-1)
 * [2023-10-21, 15:15:38](https://news.ycombinator.com/item?id=37967493) - [Fish Skin Can Heal Other Animals' Eye Injuries](https://www.scientificamerican.com/article/fish-skin-can-heal-other-animals-eye-injuries/)
 * [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
+* [2023-10-21, 14:24:30](https://news.ycombinator.com/item?id=37967010) - [Show HN: Hackreels – Animate your code in HD](https://www.hackreels.com/)
 * [2023-10-21, 13:48:56](https://news.ycombinator.com/item?id=37966767) - [Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
 * [2023-10-21, 13:40:02](https://news.ycombinator.com/item?id=37966712) - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
 * [2023-10-21, 13:38:18](https://news.ycombinator.com/item?id=37966698) - [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
