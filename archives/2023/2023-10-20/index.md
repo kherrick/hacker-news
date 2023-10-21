@@ -26,6 +26,7 @@
 * [2023-10-20, 19:53:28](https://news.ycombinator.com/item?id=37960735) - [Amazon's bestselling bitter lemon energy drink was bottled delivery driver piss](https://pluralistic.net/2023/10/20/release-energy/)
 * [2023-10-20, 19:47:01](https://news.ycombinator.com/item?id=37960666) - [OpenSSL Adds Support for Raw Public Key (RFC7250)](https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/)
 * [2023-10-20, 19:46:47](https://news.ycombinator.com/item?id=37960663) - [Blade Runner: The Unofficial White Dragon Cut](https://whitedragoncut.com/?page_id=1589&lang=en)
+* [2023-10-20, 19:45:56](https://news.ycombinator.com/item?id=37960651) - [Some Miscellaneous Git Facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 19:38:04](https://news.ycombinator.com/item?id=37960557) - [Amazon to managers: You can now sack employees who won't come 3 times a week](https://timesofindia.indiatimes.com/gadgets-news/amazon-to-managers-you-can-now-sack-employees-who-wont-come-into-the-office-3-times-a-week/articleshow/104576430.cms)
 * [2023-10-20, 19:21:24](https://news.ycombinator.com/item?id=37960330) - [Windows 11 Pro's On-by-Default Encryption Slows SSDs Up to 45%](https://www.tomshardware.com/news/windows-software-bitlocker-slows-performance)
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [SBF Made $9B Disappear. This Forensic Accountant Found It](https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819)
