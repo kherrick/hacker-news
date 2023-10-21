@@ -94,6 +94,7 @@
 * [2023-10-20, 12:22:51](https://news.ycombinator.com/item?id=37955130) - [RabbitOS](https://www.rabbit.tech/)
 * [2023-10-20, 12:10:28](https://news.ycombinator.com/item?id=37955035) - [American Employees Reinvent the Sick Day](https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a)
 * [2023-10-20, 12:06:45](https://news.ycombinator.com/item?id=37955019) - [US single handedly blocks UN call for humanitarian pause and corridors into Gaza](https://www.theguardian.com/world/2023/oct/18/us-vetoes-un-call-for-humanitarian-pause-and-corridors-into-gaza)
+* [2023-10-20, 12:01:25](https://news.ycombinator.com/item?id=37954985) - [History of Tcl](https://www.tcl.tk/about/history.html)
 * [2023-10-20, 12:01:09](https://news.ycombinator.com/item?id=37954982) - [Anomaly Detection for Time Series Data: An Introduction](https://victoriametrics.com/blog/victoriametrics-anomaly-detection-handbook-chapter-1/)
 * [2023-10-20, 12:00:57](https://news.ycombinator.com/item?id=37954980) - [UpCodes (YC S17) is hiring remote engineers to help architects with compliance](https://up.codes/careers)
 * [2023-10-20, 11:56:35](https://news.ycombinator.com/item?id=37954951) - [A Nasty Tropical Skin Disease Is Now Endemic in the U.S.](https://www.scientificamerican.com/article/a-nasty-tropical-skin-disease-is-now-endemic-in-the-u-s/)
