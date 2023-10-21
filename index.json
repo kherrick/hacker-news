@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-10-20, 23:57:07",
+      "https://news.ycombinator.com/item?id=37962795"
+    ],
+    [
+      "AGI's impact on Tech, SaaS valuations",
+      "https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 23:35:32",
+      "https://news.ycombinator.com/item?id=37962682"
+    ],
+    [
+      "The Shortest Papers Ever Published",
+      "https://paperpile.com/blog/shortest-papers/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 23:09:04",
+      "https://news.ycombinator.com/item?id=37962499"
+    ],
+    [
+      "Ask HN: Why has no one replaced Ticketmaster?",
+      "https://news.ycombinator.com/item?id=37962499"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 22:15:58",
+      "https://news.ycombinator.com/item?id=37962102"
+    ],
+    [
+      "Solving the 100GB Game Download",
+      "http://venusoft.net/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 21:41:02",
       "https://news.ycombinator.com/item?id=37961873"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2023-10-20, 16:54:04",
-      "https://news.ycombinator.com/item?id=37958555"
-    ],
-    [
-      "Show HN: No Feed? Unlimited Productivity",
-      "https://github.com/kwkr/feed-remover"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 16:46:47",
       "https://news.ycombinator.com/item?id=37958473"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-10-20, 13:22:25",
-      "https://news.ycombinator.com/item?id=37955620"
-    ],
-    [
-      "Confidential computing and AI fit together",
-      "https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 13:22:20",
       "https://news.ycombinator.com/item?id=37955617"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-10-20, 08:50:42",
-      "https://news.ycombinator.com/item?id=37953741"
-    ],
-    [
-      "The Unix Game",
-      "https://unixgame.io/unix50"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 07:36:18",
       "https://news.ycombinator.com/item?id=37953331"
     ],
@@ -287,16 +297,6 @@
     [
       "Blaze: Fast query execution engine for Apache Spark",
       "https://github.com/blaze-init/blaze"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 05:54:56",
-      "https://news.ycombinator.com/item?id=37939011"
-    ],
-    [
-      "Ruvy: creating Wasm modules from Ruby code",
-      "https://shopify.engineering/introducing-ruvy"
     ]
   ]
 ]
