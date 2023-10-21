@@ -9,6 +9,7 @@
 * [2023-10-21, 21:10:07](https://news.ycombinator.com/item?id=37970458) - [How the 'sex act' has become a potent weapon for book banners in Iowa](https://www.washingtonpost.com/opinions/2023/10/19/book-bans-iowa-kim-reynolds-gop-censorship/)
 * [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler: The Secret History of Microsoft Windows [video]](https://www.youtube.com/watch?v=mLk7SFu-4Z8)
 * [2023-10-21, 21:00:40](https://news.ycombinator.com/item?id=37970379) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-10-21, 20:51:47](https://news.ycombinator.com/item?id=37970325) - [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
 * [2023-10-21, 20:48:59](https://news.ycombinator.com/item?id=37970308) - [Transactions Are Not Locks (2022)](https://www.benburwell.com/posts/transactions-are-not-locks/)
 * [2023-10-21, 20:43:03](https://news.ycombinator.com/item?id=37970267) - [30% of Americans have faced health data breaches this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235)
 * [2023-10-21, 20:26:32](https://news.ycombinator.com/item?id=37970161) - [Stop Using Plastic Cutting Boards](https://www.outsideonline.com/outdoor-adventure/environment/cutting-board-microplastics/)
