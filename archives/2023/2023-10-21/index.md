@@ -34,6 +34,7 @@
 * [2023-10-21, 07:45:16](https://news.ycombinator.com/item?id=37964895) - [Restoration Magic](https://www.tiktok.com/@restorationmagic)
 * [2023-10-21, 07:40:42](https://news.ycombinator.com/item?id=37964878) - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
 * [2023-10-21, 07:30:39](https://news.ycombinator.com/item?id=37964835) - [With Firefox on X11, any page can pastejack you anytime (middle button paste)](https://www.openwall.com/lists/oss-security/2023/10/17/1)
+* [2023-10-21, 07:28:56](https://news.ycombinator.com/item?id=37964829) - [CFR[] is a very minimal drawing language with 5 simple commands: C, F, R, [, ]](https://github.com/susam/cfr)
 * [2023-10-21, 07:07:25](https://news.ycombinator.com/item?id=37964743) - [Mystery Shopper: I Got Paid to Spy on People While They Worked](https://www.esquire.com/news-politics/a45484671/mystery-shopper/)
 * [2023-10-21, 06:51:42](https://news.ycombinator.com/item?id=37964682) - [Common-knowledge effect: A harmful bias in team decision making](https://www.nngroup.com/articles/common-knowledge-effect/)
 * [2023-10-21, 06:28:53](https://news.ycombinator.com/item?id=37964575) - [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
