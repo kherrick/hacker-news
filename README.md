@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 01:31:20](https://news.ycombinator.com/item?id=37963302) - [Instagram sorry for translation error that put \"terrorist\" in Palestinian bios](https://arstechnica.com/tech-policy/2023/10/instagram-sorry-for-erroneously-labeling-palestinian-users-as-terrorists/)
 * [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
-* [2023-10-20, 23:09:04](https://news.ycombinator.com/item?id=37962499) - [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
 * [2023-10-20, 22:22:10](https://news.ycombinator.com/item?id=37962152) - [F-Droid: Android FOSS app store](https://f-droid.org/)
 * [2023-10-20, 22:15:58](https://news.ycombinator.com/item?id=37962102) - [Solving the 100GB Game Download](http://venusoft.net/)
 * [2023-10-20, 21:41:02](https://news.ycombinator.com/item?id=37961873) - [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
