@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-21, 07:40:42](https://news.ycombinator.com/item?id=37964878) - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
 * [2023-10-21, 04:55:51](https://news.ycombinator.com/item?id=37964204) - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
 * [2023-10-21, 04:44:42](https://news.ycombinator.com/item?id=37964161) - [Recent adventures in performance optimization with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-21, 04:31:01](https://news.ycombinator.com/item?id=37964095) - [Pigging](https://en.wikipedia.org/wiki/Pigging)
@@ -18,7 +19,6 @@
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the creator of Alone in the Dark came back to games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
-* [2023-10-20, 19:45:56](https://news.ycombinator.com/item?id=37960651) - [Some Miscellaneous Git Facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 – Flyweight IDE](https://geany.org/)
 * [2023-10-20, 18:46:28](https://news.ycombinator.com/item?id=37959904) - [Hackers stole access tokens from Okta's support unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
 * [2023-10-20, 16:46:47](https://news.ycombinator.com/item?id=37958473) - [EU Commissioner as double agent of foreign interference](https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/)
