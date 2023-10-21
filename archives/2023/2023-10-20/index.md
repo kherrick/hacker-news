@@ -7,6 +7,7 @@
 * [2023-10-20, 23:57:07](https://news.ycombinator.com/item?id=37962795) - [AGI's impact on Tech, SaaS valuations](https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations)
 * [2023-10-20, 23:35:32](https://news.ycombinator.com/item?id=37962682) - [The Shortest Papers Ever Published](https://paperpile.com/blog/shortest-papers/)
 * [2023-10-20, 23:09:04](https://news.ycombinator.com/item?id=37962499) - [Ask HN: Why has no one replaced Ticketmaster?](https://news.ycombinator.com/item?id=37962499)
+* [2023-10-20, 22:22:10](https://news.ycombinator.com/item?id=37962152) - [F-Droid: Android FOSS app store](https://f-droid.org/)
 * [2023-10-20, 22:15:58](https://news.ycombinator.com/item?id=37962102) - [Solving the 100GB Game Download](http://venusoft.net/)
 * [2023-10-20, 21:41:02](https://news.ycombinator.com/item?id=37961873) - [Energy, WiFi and RAM use by Android messaging apps](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
 * [2023-10-20, 21:39:58](https://news.ycombinator.com/item?id=37961860) - [Cloudflare mitigated yet another Okta compromise](https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/)
