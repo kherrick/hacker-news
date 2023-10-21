@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-21, 16:01:45",
+      "https://news.ycombinator.com/item?id=37967936"
+    ],
+    [
+      "The Worlds First FPGA N64",
+      "http://www.ultrafp64.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 15:50:44",
+      "https://news.ycombinator.com/item?id=37967800"
+    ],
+    [
+      "Oberon System 3",
+      "https://github.com/rochus-keller/OberonSystem3"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 15:46:40",
+      "https://news.ycombinator.com/item?id=37967751"
+    ],
+    [
+      "The exam that broke society",
+      "https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 15:15:38",
       "https://news.ycombinator.com/item?id=37967493"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-10-21, 04:55:51",
-      "https://news.ycombinator.com/item?id=37964204"
-    ],
-    [
-      "Twitch will now let streamers simultaneously stream on any service they want",
-      "https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 04:43:25",
       "https://news.ycombinator.com/item?id=37964153"
     ],
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2023-10-21, 01:17:43",
-      "https://news.ycombinator.com/item?id=37963252"
-    ],
-    [
-      "Trojitá, a fast Qt IMAP email client",
-      "http://trojita.flaska.net/"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 01:02:53",
-      "https://news.ycombinator.com/item?id=37963182"
-    ],
-    [
-      "The Polaroid SX70's unusual shutter",
-      "https://opensx70.com/posts/2018/11/sx70-shutter"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 20:31:29",
-      "https://news.ycombinator.com/item?id=37961166"
-    ],
-    [
-      "Mitigating the Hetzner/Linode XMPP.ru MitM interception incident",
-      "https://www.devever.net/~hl/xmpp-incident"
-    ]
-  ],
-  [
-    [
       "2023-10-20, 20:10:52",
       "https://news.ycombinator.com/item?id=37960941"
     ],
     [
       "Progress on No-GIL CPython",
       "https://lwn.net/Articles/947138/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 12:01:09",
+      "https://news.ycombinator.com/item?id=37954982"
+    ],
+    [
+      "Anomaly Detection for Time Series Data: An Introduction",
+      "https://victoriametrics.com/blog/victoriametrics-anomaly-detection-handbook-chapter-1/"
     ]
   ]
 ]
