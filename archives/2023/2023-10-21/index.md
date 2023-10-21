@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 13:48:56](https://news.ycombinator.com/item?id=37966767) - [Cratering motor fuel sales in Norway show the death spiral that can end oil](https://electrek.co/2023/10/20/cratering-motor-fuel-sales-in-norway-show-the-death-spiral-that-can-end-oil/)
 * [2023-10-21, 13:40:02](https://news.ycombinator.com/item?id=37966712) - [Carbon capture pipeline nixed after widespread opposition](https://arstechnica.com/tech-policy/2023/10/carbon-capture-pipeline-nixed-after-widespread-opposition/)
 * [2023-10-21, 13:38:18](https://news.ycombinator.com/item?id=37966698) - [Charted: 50 Years of Music Industry Revenues, by Format](https://www.visualcapitalist.com/music-industry-revenues-by-format/)
 * [2023-10-21, 13:28:28](https://news.ycombinator.com/item?id=37966643) - [The Problem with Jon Stewart cancellation highlights a problem for Apple content](https://arstechnica.com/gadgets/2023/10/report-apple-cancels-the-problem-with-jon-stewart-over-china-ai-topics/)
