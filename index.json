@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-10-20, 20:31:29",
+      "https://news.ycombinator.com/item?id=37961166"
+    ],
+    [
+      "Mitigating the Hetzner/Linode XMPP.ru MitM interception incident",
+      "https://www.devever.net/~hl/xmpp-incident"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 20:10:52",
       "https://news.ycombinator.com/item?id=37960941"
     ],
     [
       "Progress on No-GIL CPython",
       "https://lwn.net/Articles/947138/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 12:01:09",
-      "https://news.ycombinator.com/item?id=37954982"
-    ],
-    [
-      "Anomaly Detection for Time Series Data: An Introduction",
-      "https://victoriametrics.com/blog/victoriametrics-anomaly-detection-handbook-chapter-1/"
     ]
   ]
 ]
