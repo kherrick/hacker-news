@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-10-21, 20:51:47",
-      "https://news.ycombinator.com/item?id=37970325"
-    ],
-    [
-      "Google owes executive $1M after losing gender bias lawsuit",
-      "https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 20:48:59",
       "https://news.ycombinator.com/item?id=37970308"
     ],
@@ -287,6 +277,16 @@
     [
       "Using AsciiDoc and Asciidoctor for Blogging",
       "https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 12:00:52",
+      "https://news.ycombinator.com/item?id=37941680"
+    ],
+    [
+      "Using Prolog as the AST",
+      "https://marcellerusu.com/using_prolog_as_the_ast.html"
     ]
   ],
   [
