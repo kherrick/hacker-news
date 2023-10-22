@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 09:49:31](https://news.ycombinator.com/item?id=37974071) - [Cloudflare Claims Migration to Their Services Can Reduce Network CO2 by 78-96%](https://www.infoq.com/news/2023/10/cloudflare-carbon-emissions/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 05:58:27](https://news.ycombinator.com/item?id=37973151) - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 * [2023-10-22, 05:53:54](https://news.ycombinator.com/item?id=37973131) - [Britsh Museum Collection Search](https://www.britishmuseum.org/collection)
