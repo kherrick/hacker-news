@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
 * [2023-10-22, 19:05:13](https://news.ycombinator.com/item?id=37978118) - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
+* [2023-10-22, 18:48:06](https://news.ycombinator.com/item?id=37977965) - [Web Summit CEO Paddy Cosgrave resigns over Israel 'war crimes' post](https://www.aljazeera.com/news/2023/10/22/web-summit-ceo-paddy-cosgrave-resigns-over-israel-war-crimes-post)
+* [2023-10-22, 18:47:07](https://news.ycombinator.com/item?id=37977954) - [Web Summit CEO Paddy Cosgrave resigns amid Israel-Hamas war comment backlash](https://abcnews.go.com/US/wireStory/ceo-prominent-tech-conference-resigns-amid-backlash-public-104197636)
 * [2023-10-22, 18:37:28](https://news.ycombinator.com/item?id=37977905) - [Facebook web desktop can not access messenger in widely experienced bug](https://old.reddit.com/r/facebook/comments/17dxw9o/anyone_know_how_to_get_rid_of_this_i_cant_see_my/)
 * [2023-10-22, 18:22:01](https://news.ycombinator.com/item?id=37977768) - [Western Digital and Kioxia to Announce Merge This Month](https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
