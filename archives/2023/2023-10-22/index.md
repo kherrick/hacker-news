@@ -6,6 +6,7 @@
 
 * [2023-10-22, 20:18:46](https://news.ycombinator.com/item?id=37978707) - [Cruise autonomous vehicles outperform humans in a comparable driving environment](https://twitter.com/kvogt/status/1707103740879405440)
 * [2023-10-22, 19:22:24](https://news.ycombinator.com/item?id=37978263) - [Alan Kay shows the Rand tablet [video]](https://www.youtube.com/watch?v=LLRy4Ao62ls)
+* [2023-10-22, 19:14:21](https://news.ycombinator.com/item?id=37978195) - [Bitwarden developer survey: Secrets, security and the future of passkeys](https://bitwarden.com/resources/security-survey-developer-secrets-and-the-future-of-passkeys/)
 * [2023-10-22, 19:11:10](https://news.ycombinator.com/item?id=37978169) - [Ubuntu Linux snuck into high-end Dell laptops](https://www.zdnet.com/article/how-ubuntu-linux-snuck-into-high-end-dell-laptops-and-why-its-called-project-sputnik/)
 * [2023-10-22, 19:05:13](https://news.ycombinator.com/item?id=37978118) - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
 * [2023-10-22, 19:01:49](https://news.ycombinator.com/item?id=37978089) - [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act)
@@ -15,6 +16,7 @@
 * [2023-10-22, 18:37:28](https://news.ycombinator.com/item?id=37977905) - [Facebook web desktop can not access messenger in widely experienced bug](https://old.reddit.com/r/facebook/comments/17dxw9o/anyone_know_how_to_get_rid_of_this_i_cant_see_my/)
 * [2023-10-22, 18:22:01](https://news.ycombinator.com/item?id=37977768) - [Western Digital and Kioxia to Announce Merge This Month](https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
+* [2023-10-22, 17:51:53](https://news.ycombinator.com/item?id=37977530) - [Global Encryption Day: Encryption's Critical Role in Safeguarding Human Rights](https://blog.torproject.org/global-encryption-day-2023/)
 * [2023-10-22, 17:48:18](https://news.ycombinator.com/item?id=37977509) - [Apple may be planning a surprise October iMac announcement](https://www.theverge.com/2023/10/22/23927184/apple-m3-imac-13-inch-macbook-pro-rumored-october-announcement)
 * [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
 * [2023-10-22, 15:39:42](https://news.ycombinator.com/item?id=37976309) - [Who profits most from America's baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
