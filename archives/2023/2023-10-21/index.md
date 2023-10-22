@@ -16,6 +16,7 @@
 * [2023-10-21, 21:12:35](https://news.ycombinator.com/item?id=37970484) - [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
 * [2023-10-21, 21:10:07](https://news.ycombinator.com/item?id=37970458) - [How the 'sex act' has become a potent weapon for book banners in Iowa](https://www.washingtonpost.com/opinions/2023/10/19/book-bans-iowa-kim-reynolds-gop-censorship/)
 * [2023-10-21, 21:09:42](https://news.ycombinator.com/item?id=37970455) - [Google, other search engines' use of generative AI threatens $68B SEO industry](https://theconversation.com/why-google-bing-and-other-search-engines-embrace-of-generative-ai-threatens-68-billion-seo-industry-210243)
+* [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler: The Secret History of Microsoft Windows [video]](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler: The Secret History of Microsoft Windows [video]](https://www.youtube.com/watch?v=mLk7SFu-4Z8)
 * [2023-10-21, 21:00:40](https://news.ycombinator.com/item?id=37970379) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-10-21, 20:51:47](https://news.ycombinator.com/item?id=37970325) - [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
