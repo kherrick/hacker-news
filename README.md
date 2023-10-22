@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 01:47:23](https://news.ycombinator.com/item?id=37972140) - [Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 * [2023-10-22, 01:13:56](https://news.ycombinator.com/item?id=37971994) - [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
 * [2023-10-22, 00:29:47](https://news.ycombinator.com/item?id=37971795) - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 * [2023-10-22, 00:00:38](https://news.ycombinator.com/item?id=37971633) - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
@@ -20,7 +21,6 @@
 * [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [Keju, China’s difficult civil service test](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
 * [2023-10-21, 15:46:09](https://news.ycombinator.com/item?id=37967748) - [Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
 * [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What every developer should know about GPU computing](https://codeconfessions.substack.com/p/gpu-computing)
-* [2023-10-21, 13:14:15](https://news.ycombinator.com/item?id=37966569) - [The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud](https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html)
 * [2023-10-21, 06:51:42](https://news.ycombinator.com/item?id=37964682) - [Common-knowledge effect: A bias in team decision making](https://www.nngroup.com/articles/common-knowledge-effect/)
 * [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
