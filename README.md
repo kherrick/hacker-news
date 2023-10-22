@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
 * [2023-10-22, 19:11:10](https://news.ycombinator.com/item?id=37978169) - [Ubuntu Linux snuck into high-end Dell laptops](https://www.zdnet.com/article/how-ubuntu-linux-snuck-into-high-end-dell-laptops-and-why-its-called-project-sputnik/)
 * [2023-10-22, 19:05:13](https://news.ycombinator.com/item?id=37978118) - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
@@ -7,7 +8,6 @@
 * [2023-10-22, 18:58:28](https://news.ycombinator.com/item?id=37978060) - [OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
 * [2023-10-22, 18:47:17](https://news.ycombinator.com/item?id=37977957) - [LX Studio: Tools for 3D Lighting](https://lx.studio/)
 * [2023-10-22, 18:43:30](https://news.ycombinator.com/item?id=37977938) - [How to Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/)
-* [2023-10-22, 18:22:01](https://news.ycombinator.com/item?id=37977768) - [Western Digital and Kioxia to Announce Merge This Month](https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 17:51:53](https://news.ycombinator.com/item?id=37977530) - [Global Encryption Day: Encryption's Critical Role in Safeguarding Human Rights](https://blog.torproject.org/global-encryption-day-2023/)
 * [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [Beginners guide to building a hardware hacking lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)

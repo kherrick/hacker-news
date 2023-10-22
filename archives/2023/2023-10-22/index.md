@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
 * [2023-10-22, 20:18:46](https://news.ycombinator.com/item?id=37978707) - [Cruise autonomous vehicles outperform humans in a comparable driving environment](https://twitter.com/kvogt/status/1707103740879405440)
+* [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
 * [2023-10-22, 19:22:24](https://news.ycombinator.com/item?id=37978263) - [Alan Kay shows the Rand tablet [video]](https://www.youtube.com/watch?v=LLRy4Ao62ls)
 * [2023-10-22, 19:14:21](https://news.ycombinator.com/item?id=37978195) - [Bitwarden developer survey: Secrets, security and the future of passkeys](https://bitwarden.com/resources/security-survey-developer-secrets-and-the-future-of-passkeys/)
