@@ -11,7 +11,6 @@
 * [2023-10-21, 21:51:58](https://news.ycombinator.com/item?id=37970800) - [OpenRefine](https://openrefine.org/)
 * [2023-10-21, 21:24:07](https://news.ycombinator.com/item?id=37970572) - [The decline of computers as a general-purpose technology (2021)](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
 * [2023-10-21, 21:12:35](https://news.ycombinator.com/item?id=37970484) - [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
-* [2023-10-21, 20:51:47](https://news.ycombinator.com/item?id=37970325) - [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
 * [2023-10-21, 20:48:59](https://news.ycombinator.com/item?id=37970308) - [Transactions Are Not Locks (2022)](https://www.benburwell.com/posts/transactions-are-not-locks/)
 * [2023-10-21, 20:43:19](https://news.ycombinator.com/item?id=37970268) - [Tracing Memory Access with an LLVM Pass](https://www.bitsand.cloud/posts/llvm-pass/)
 * [2023-10-21, 17:37:34](https://news.ycombinator.com/item?id=37968900) - [How plants communicate with each other when in danger](https://www.washingtonpost.com/climate-environment/2023/10/21/plants-talk-warning-danger/)
@@ -29,6 +28,7 @@
 * [2023-10-20, 09:34:54](https://news.ycombinator.com/item?id=37954017) - [22-year-old builds chips in his parents' garage (2022)](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
 * [2023-10-20, 09:31:17](https://news.ycombinator.com/item?id=37953994) - [Scaling to 15000 Functions and Beyond](https://www.openfaas.com/blog/large-scale-functions/)
 * [2023-10-20, 09:03:29](https://news.ycombinator.com/item?id=37953833) - [Using AsciiDoc and Asciidoctor for Blogging](https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/)
+* [2023-10-19, 12:00:52](https://news.ycombinator.com/item?id=37941680) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 * [2023-10-19, 11:43:10](https://news.ycombinator.com/item?id=37941509) - [Open-Source Software Planetarium](https://www.ivoyager.dev/)
 
 ## [Archives](archives/index.md)

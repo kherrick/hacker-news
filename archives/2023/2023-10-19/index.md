@@ -88,6 +88,7 @@
 * [2023-10-19, 12:15:59](https://news.ycombinator.com/item?id=37941807) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.bloomberg.com/opinion/articles/2023-10-19/thiel-s-unicorn-success-is-awkward-for-colleges)
 * [2023-10-19, 12:09:21](https://news.ycombinator.com/item?id=37941751) - [Nvidia and Foxconn to build 'AI factories'](https://www.bbc.com/news/business-67153669)
 * [2023-10-19, 12:07:19](https://news.ycombinator.com/item?id=37941727) - [Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
+* [2023-10-19, 12:00:52](https://news.ycombinator.com/item?id=37941680) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 * [2023-10-19, 12:00:24](https://news.ycombinator.com/item?id=37941675) - [Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
 * [2023-10-19, 11:43:10](https://news.ycombinator.com/item?id=37941509) - [Open-Source Software Planetarium](https://www.ivoyager.dev/)
 * [2023-10-19, 11:38:30](https://news.ycombinator.com/item?id=37941459) - [AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations](https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/)
