@@ -39,6 +39,7 @@
 * [2023-10-19, 19:06:08](https://news.ycombinator.com/item?id=37947205) - [Ask HN: Do tools like Copilot or ChatGPT4 help you code?](https://news.ycombinator.com/item?id=37947205)
 * [2023-10-19, 19:06:07](https://news.ycombinator.com/item?id=37947204) - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)
 * [2023-10-19, 18:30:22](https://news.ycombinator.com/item?id=37946659) - [The elixir-tools Update Vol. 4](https://www.elixir-tools.dev/news/the-elixir-tools-update-vol-4/)
+* [2023-10-19, 18:25:07](https://news.ycombinator.com/item?id=37946585) - [Engineering Management Checklist](http://pnewman.org/engineering_mgmt_checklist.txt)
 * [2023-10-19, 18:06:06](https://news.ycombinator.com/item?id=37946306) - [Signal commit Username Integration Test](https://github.com/signalapp/Signal-Server/commit/0100f0fcc982c937751446aa8228eb9756c72e81)
 * [2023-10-19, 18:03:00](https://news.ycombinator.com/item?id=37946266) - [Show HN: ChatAPI – PWA to Use ChatGPT by API](https://github.com/david-haerer/chatapi)
 * [2023-10-19, 17:58:01](https://news.ycombinator.com/item?id=37946203) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
