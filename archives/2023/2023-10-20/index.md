@@ -19,6 +19,7 @@
 * [2023-10-20, 21:00:12](https://news.ycombinator.com/item?id=37961453) - [Emerge (YC W21) is hiring a senior front end engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-10-20, 20:40:00](https://news.ycombinator.com/item?id=37961232) - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/)
 * [2023-10-20, 20:31:29](https://news.ycombinator.com/item?id=37961166) - [How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
+* [2023-10-20, 20:18:28](https://news.ycombinator.com/item?id=37961029) - [Flannelette Cure: Fire Tests with Textiles (1910)](https://publicdomainreview.org/collection/fire-tests-with-textiles/)
 * [2023-10-20, 20:17:37](https://news.ycombinator.com/item?id=37961007) - [DMCA Excemptions to \"Copyright Protection Systems\" Being Reconsidered](https://www.copyright.gov/1201/2024/)
 * [2023-10-20, 20:14:00](https://news.ycombinator.com/item?id=37960969) - [Okta's stock plunges after security breach](https://www.marketwatch.com/story/oktas-stock-plunges-after-security-breach-4b47494b)
 * [2023-10-20, 20:10:52](https://news.ycombinator.com/item?id=37960941) - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
