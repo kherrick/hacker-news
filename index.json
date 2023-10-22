@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-10-22, 05:10:14",
-      "https://news.ycombinator.com/item?id=37972991"
-    ],
-    [
-      "NVMe SSD boot with the Raspberry Pi 5",
-      "https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5"
-    ]
-  ],
-  [
-    [
       "2023-10-22, 04:21:47",
       "https://news.ycombinator.com/item?id=37972793"
     ],
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37964320"
     ],
     [
-      "George Carlin's \"Soft Language\"",
+      "George Carlin's \"Soft Language\" (2019)",
       "https://www.thoughtco.com/soft-language-euphemism-1692111"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Inkscape Cloud Architect",
       "https://github.com/mipmip/inkscape-cloud-architect"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 05:10:54",
+      "https://news.ycombinator.com/item?id=37952568"
+    ],
+    [
+      "Cubic Spline Interpolation",
+      "https://eli.thegreenplace.net/2023/cubic-spline-interpolation/"
     ]
   ],
   [
