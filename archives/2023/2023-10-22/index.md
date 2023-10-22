@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 15:16:56](https://news.ycombinator.com/item?id=37976091) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
 * [2023-10-22, 14:32:58](https://news.ycombinator.com/item?id=37975716) - [I live in my car: Parking lots open for those who can afford a car but not rent](https://www.nytimes.com/2023/10/17/realestate/car-homeless-rent-debt-mortgage.html)
 * [2023-10-22, 14:29:35](https://news.ycombinator.com/item?id=37975694) - [$9.5B of key metals in overlooked electronic waste: UN](https://techxplore.com/news/2023-10-bn-key-metals-overlooked-electronic.html)
 * [2023-10-22, 14:17:44](https://news.ycombinator.com/item?id=37975601) - [Tell HN: DuckDuckGo Search Results have jumped the shark](https://news.ycombinator.com/item?id=37975601)
