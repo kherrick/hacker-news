@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 15:39:42](https://news.ycombinator.com/item?id=37976309) - [Who profits most from America's baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
 * [2023-10-22, 15:23:32](https://news.ycombinator.com/item?id=37976161) - [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
 * [2023-10-22, 15:16:56](https://news.ycombinator.com/item?id=37976091) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
 * [2023-10-22, 15:09:30](https://news.ycombinator.com/item?id=37976025) - [Calculated misery: why airlines want you to be uncomfortable](https://wgntv.com/news/calculated-misery-heres-why-airlines-want-you-to-be-uncomfortable/)
