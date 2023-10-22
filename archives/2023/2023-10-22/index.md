@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 20:18:46](https://news.ycombinator.com/item?id=37978707) - [Cruise autonomous vehicles outperform humans in a comparable driving environment](https://twitter.com/kvogt/status/1707103740879405440)
+* [2023-10-22, 19:22:24](https://news.ycombinator.com/item?id=37978263) - [Alan Kay shows the Rand tablet [video]](https://www.youtube.com/watch?v=LLRy4Ao62ls)
 * [2023-10-22, 19:11:10](https://news.ycombinator.com/item?id=37978169) - [Ubuntu Linux snuck into high-end Dell laptops](https://www.zdnet.com/article/how-ubuntu-linux-snuck-into-high-end-dell-laptops-and-why-its-called-project-sputnik/)
 * [2023-10-22, 19:05:13](https://news.ycombinator.com/item?id=37978118) - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
 * [2023-10-22, 19:01:49](https://news.ycombinator.com/item?id=37978089) - [Onion Futures Act](https://en.wikipedia.org/wiki/Onion_Futures_Act)
