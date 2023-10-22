@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 05:58:27](https://news.ycombinator.com/item?id=37973151) - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 * [2023-10-22, 05:28:22](https://news.ycombinator.com/item?id=37973053) - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
 * [2023-10-22, 05:10:14](https://news.ycombinator.com/item?id=37972991) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-22, 04:53:06](https://news.ycombinator.com/item?id=37972915) - [Bruce Schneier: On the Cybersecurity Jobs Shortage](https://www.schneier.com/blog/archives/2023/09/on-the-cybersecurity-jobs-shortage.html)

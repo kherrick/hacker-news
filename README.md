@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 05:58:27](https://news.ycombinator.com/item?id=37973151) - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 * [2023-10-22, 05:28:22](https://news.ycombinator.com/item?id=37973053) - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
 * [2023-10-22, 05:10:14](https://news.ycombinator.com/item?id=37972991) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-22, 04:21:47](https://news.ycombinator.com/item?id=37972793) - [Open Source Firmware Conference](https://www.osfc.io/)
@@ -21,7 +22,6 @@
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
-* [2023-10-20, 19:00:00](https://news.ycombinator.com/item?id=37960068) - [14 Groups issue joint statement on EMS use of lights, sirens (2022)](https://www.ems1.com/ambulance-safety/articles/14-groups-issue-joint-statement-on-ems-use-of-lights-sirens-AAfswfKx2gaog3dy/)
 * [2023-10-20, 12:17:15](https://news.ycombinator.com/item?id=37955080) - [Proteomic Analysis of Vlad III the Impaler's Documents](https://pubs.acs.org/doi/10.1021/acs.analchem.3c01461)
 * [2023-10-20, 12:01:25](https://news.ycombinator.com/item?id=37954985) - [History of Tcl](https://www.tcl.tk/about/history.html)
 * [2023-10-20, 09:34:54](https://news.ycombinator.com/item?id=37954017) - [22-year-old builds chips in his parents' garage (2022)](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
