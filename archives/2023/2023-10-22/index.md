@@ -23,6 +23,8 @@
 * [2023-10-22, 17:51:53](https://news.ycombinator.com/item?id=37977530) - [Global Encryption Day: Encryption's Critical Role in Safeguarding Human Rights](https://blog.torproject.org/global-encryption-day-2023/)
 * [2023-10-22, 17:48:18](https://news.ycombinator.com/item?id=37977509) - [Apple may be planning a surprise October iMac announcement](https://www.theverge.com/2023/10/22/23927184/apple-m3-imac-13-inch-macbook-pro-rumored-october-announcement)
 * [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
+* [2023-10-22, 17:14:57](https://news.ycombinator.com/item?id=37977174) - [\"Build your own X\" projects](https://github.com/codecrafters-io/build-your-own-x)
+* [2023-10-22, 16:41:25](https://news.ycombinator.com/item?id=37976894) - [How to Make a CPU – A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
 * [2023-10-22, 15:39:42](https://news.ycombinator.com/item?id=37976309) - [Who profits most from America's baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
 * [2023-10-22, 15:23:32](https://news.ycombinator.com/item?id=37976161) - [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
 * [2023-10-22, 15:16:56](https://news.ycombinator.com/item?id=37976091) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
