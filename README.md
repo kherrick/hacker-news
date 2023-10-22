@@ -20,7 +20,6 @@
 * [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [Keju, China’s difficult civil service test](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
 * [2023-10-21, 15:46:09](https://news.ycombinator.com/item?id=37967748) - [Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
-* [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
 * [2023-10-20, 19:00:00](https://news.ycombinator.com/item?id=37960068) - [14 Groups issue joint statement on EMS use of lights, sirens (2022)](https://www.ems1.com/ambulance-safety/articles/14-groups-issue-joint-statement-on-ems-use-of-lights-sirens-AAfswfKx2gaog3dy/)
 * [2023-10-20, 13:56:48](https://news.ycombinator.com/item?id=37956065) - [Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
@@ -28,6 +27,7 @@
 * [2023-10-20, 09:34:54](https://news.ycombinator.com/item?id=37954017) - [22-year-old builds chips in his parents' garage (2022)](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
 * [2023-10-20, 09:31:17](https://news.ycombinator.com/item?id=37953994) - [Scaling to 15000 Functions and Beyond](https://www.openfaas.com/blog/large-scale-functions/)
 * [2023-10-20, 09:03:29](https://news.ycombinator.com/item?id=37953833) - [Using AsciiDoc and Asciidoctor for Blogging](https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/)
+* [2023-10-20, 06:18:53](https://news.ycombinator.com/item?id=37952885) - [Inkscape Cloud Architect](https://github.com/mipmip/inkscape-cloud-architect)
 * [2023-10-19, 12:00:52](https://news.ycombinator.com/item?id=37941680) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 * [2023-10-19, 11:43:10](https://news.ycombinator.com/item?id=37941509) - [I, Voyager: Open-Source Software Planetarium](https://www.ivoyager.dev/)
 
