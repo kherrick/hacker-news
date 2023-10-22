@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 10:22:25](https://news.ycombinator.com/item?id=37974187) - [Adblock Plus and (A Little) More](https://blog.adblockplus.org/blog/whats-happening-with-youtube-ads)
 * [2023-10-22, 09:49:31](https://news.ycombinator.com/item?id=37974071) - [Cloudflare Claims Migration to Their Services Can Reduce Network CO2 by 78-96%](https://www.infoq.com/news/2023/10/cloudflare-carbon-emissions/)
 * [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture](https://c4model.com/)
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Microsoft Account's OAuth tokens leaking via open redirect in Harvest](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
