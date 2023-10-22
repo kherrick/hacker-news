@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture](https://c4model.com/)
+* [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Microsoft Account's OAuth tokens leaking via open redirect in Harvest](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 05:58:27](https://news.ycombinator.com/item?id=37973151) - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 * [2023-10-22, 05:53:54](https://news.ycombinator.com/item?id=37973131) - [Britsh Museum Collection Search](https://www.britishmuseum.org/collection)
@@ -11,9 +13,7 @@
 * [2023-10-22, 02:17:55](https://news.ycombinator.com/item?id=37972271) - [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
 * [2023-10-22, 00:29:47](https://news.ycombinator.com/item?id=37971795) - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 * [2023-10-22, 00:00:38](https://news.ycombinator.com/item?id=37971633) - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
-* [2023-10-21, 23:42:39](https://news.ycombinator.com/item?id=37971534) - [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
 * [2023-10-21, 23:25:15](https://news.ycombinator.com/item?id=37971423) - [Clohe: Moving toys in the classroom (automata construction toolkit)](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
-* [2023-10-21, 22:25:15](https://news.ycombinator.com/item?id=37971038) - [Tell HN: 3G sunsetting is remotely killing every Subaru Outback battery](https://news.ycombinator.com/item?id=37971038)
 * [2023-10-21, 21:51:58](https://news.ycombinator.com/item?id=37970800) - [OpenRefine](https://openrefine.org/)
 * [2023-10-21, 21:24:07](https://news.ycombinator.com/item?id=37970572) - [The decline of computers as a general-purpose technology (2021)](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
 * [2023-10-21, 21:12:35](https://news.ycombinator.com/item?id=37970484) - [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
