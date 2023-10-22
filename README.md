@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-22, 13:16:50](https://news.ycombinator.com/item?id=37975090) - [Why children of married parents do better, but America is moving the other way](https://text.npr.org/1207322878)
+* [2023-10-22, 12:44:57](https://news.ycombinator.com/item?id=37974879) - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
 * [2023-10-22, 12:34:53](https://news.ycombinator.com/item?id=37974804) - [Astrophysicists Put All Objects in Universe into One Pedagogical Plot](https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html)
 * [2023-10-22, 12:14:27](https://news.ycombinator.com/item?id=37974688) - [Canada is considering a guaranteed universal basic income program](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
 * [2023-10-22, 10:52:03](https://news.ycombinator.com/item?id=37974321) - [Ask HN: What is your favorite FOSS WYSIWYG editor?](https://news.ycombinator.com/item?id=37974321)
@@ -18,7 +19,6 @@
 * [2023-10-22, 00:29:47](https://news.ycombinator.com/item?id=37971795) - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 * [2023-10-22, 00:00:38](https://news.ycombinator.com/item?id=37971633) - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
 * [2023-10-21, 21:51:58](https://news.ycombinator.com/item?id=37970800) - [OpenRefine](https://openrefine.org/)
-* [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [FPGA N64](http://www.ultrafp64.com/)
 * [2023-10-21, 13:06:20](https://news.ycombinator.com/item?id=37966510) - [How to rewrite classes using closures in JavaScript](https://gaurangtandon.com/blog/javascript-class-closure)
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
