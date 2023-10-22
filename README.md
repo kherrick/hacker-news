@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 19:05:13](https://news.ycombinator.com/item?id=37978118) - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
 * [2023-10-22, 18:37:28](https://news.ycombinator.com/item?id=37977905) - [Facebook web desktop can not access messenger in widely experienced bug](https://old.reddit.com/r/facebook/comments/17dxw9o/anyone_know_how_to_get_rid_of_this_i_cant_see_my/)
+* [2023-10-22, 18:22:01](https://news.ycombinator.com/item?id=37977768) - [Western Digital and Kioxia to Announce Merge This Month](https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
 * [2023-10-22, 15:39:42](https://news.ycombinator.com/item?id=37976309) - [Who profits most from America's baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
@@ -24,12 +26,10 @@
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary (2022)](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 06:42:19](https://news.ycombinator.com/item?id=37964634) - [C++ Attribute: Likely, Unlikely](https://en.cppreference.com/w/cpp/language/attributes/likely)
 * [2023-10-21, 05:25:52](https://news.ycombinator.com/item?id=37964320) - [George Carlin's \"Soft Language\" (2019)](https://www.thoughtco.com/soft-language-euphemism-1692111)
-* [2023-10-20, 12:17:15](https://news.ycombinator.com/item?id=37955080) - [Proteomic Analysis of Vlad III the Impaler's Documents](https://pubs.acs.org/doi/10.1021/acs.analchem.3c01461)
 * [2023-10-20, 08:32:42](https://news.ycombinator.com/item?id=37953626) - [A physics milestone: Miniature particle accelerator works](https://phys.org/news/2023-10-physics-milestone-miniature-particle.html)
 * [2023-10-20, 06:18:53](https://news.ycombinator.com/item?id=37952885) - [Inkscape Cloud Architect](https://github.com/mipmip/inkscape-cloud-architect)
 * [2023-10-20, 05:10:54](https://news.ycombinator.com/item?id=37952568) - [Cubic spline interpolation](https://eli.thegreenplace.net/2023/cubic-spline-interpolation/)
 * [2023-10-19, 18:25:07](https://news.ycombinator.com/item?id=37946585) - [Engineering Management Checklist](http://pnewman.org/engineering_mgmt_checklist.txt)
-* [2023-10-19, 11:43:10](https://news.ycombinator.com/item?id=37941509) - [I, Voyager: Open-Source Software Planetarium](https://www.ivoyager.dev/)
 
 ## [Archives](archives/index.md)
 

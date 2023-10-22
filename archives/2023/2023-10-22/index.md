@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 19:05:13](https://news.ycombinator.com/item?id=37978118) - [Great Male Renunciation](https://en.wikipedia.org/wiki/Great_Male_Renunciation)
 * [2023-10-22, 18:37:28](https://news.ycombinator.com/item?id=37977905) - [Facebook web desktop can not access messenger in widely experienced bug](https://old.reddit.com/r/facebook/comments/17dxw9o/anyone_know_how_to_get_rid_of_this_i_cant_see_my/)
+* [2023-10-22, 18:22:01](https://news.ycombinator.com/item?id=37977768) - [Western Digital and Kioxia to Announce Merge This Month](https://www.tomshardware.com/news/western-digital-and-kioxia-to-announce-merge-this-month-report)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
 * [2023-10-22, 15:39:42](https://news.ycombinator.com/item?id=37976309) - [Who profits most from America's baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
