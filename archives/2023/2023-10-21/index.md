@@ -73,6 +73,7 @@
 * [2023-10-21, 07:07:25](https://news.ycombinator.com/item?id=37964743) - [Mystery Shopper: I Got Paid to Spy on People While They Worked](https://www.esquire.com/news-politics/a45484671/mystery-shopper/)
 * [2023-10-21, 06:51:42](https://news.ycombinator.com/item?id=37964682) - [Common-knowledge effect: A harmful bias in team decision making](https://www.nngroup.com/articles/common-knowledge-effect/)
 * [2023-10-21, 06:28:53](https://news.ycombinator.com/item?id=37964575) - [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
+* [2023-10-21, 05:25:52](https://news.ycombinator.com/item?id=37964320) - [George Carlin's \"Soft Language\"](https://www.thoughtco.com/soft-language-euphemism-1692111)
 * [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded in the world](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 * [2023-10-21, 04:55:51](https://news.ycombinator.com/item?id=37964204) - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
 * [2023-10-21, 04:44:42](https://news.ycombinator.com/item?id=37964161) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
