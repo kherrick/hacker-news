@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
 * [2023-10-22, 05:28:22](https://news.ycombinator.com/item?id=37973053) - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
+* [2023-10-22, 04:53:06](https://news.ycombinator.com/item?id=37972915) - [Bruce Schneier: On the Cybersecurity Jobs Shortage](https://www.schneier.com/blog/archives/2023/09/on-the-cybersecurity-jobs-shortage.html)
 * [2023-10-22, 04:21:47](https://news.ycombinator.com/item?id=37972793) - [Open Source Firmware Conference](https://www.osfc.io/)
 * [2023-10-22, 04:07:58](https://news.ycombinator.com/item?id=37972749) - [Team Behind NextGen ATSC 3.0 OTA TV Explains Why DRM Is Needed for Free OTA TV](https://cordcuttersnews.com/the-team-behind-nextgen-atsc-3-0-ota-tv-explains-why-drm-is-needed-for-free-ota-tv/)
 * [2023-10-22, 02:59:39](https://news.ycombinator.com/item?id=37972452) - [Ask HN: Local Mac Wysiwyg HTML Editor? (for “Lo-fi” website)](https://news.ycombinator.com/item?id=37972452)

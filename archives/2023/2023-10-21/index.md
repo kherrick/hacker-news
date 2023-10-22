@@ -9,6 +9,7 @@
 * [2023-10-21, 23:25:15](https://news.ycombinator.com/item?id=37971423) - [Clohe: Moving toys in the classroom (automata construction toolkit)](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
 * [2023-10-21, 22:54:36](https://news.ycombinator.com/item?id=37971236) - [Be an Engineer, Not a Frameworker](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88)
 * [2023-10-21, 22:27:47](https://news.ycombinator.com/item?id=37971057) - [Tunnelling Companies in the Great War](https://www.tunnellersmemorial.com/tunnelling-companies/)
+* [2023-10-21, 22:25:15](https://news.ycombinator.com/item?id=37971038) - [Tell HN: 3G sunsetting is remotely killing every Subaru Outback battery](https://news.ycombinator.com/item?id=37971038)
 * [2023-10-21, 21:51:58](https://news.ycombinator.com/item?id=37970800) - [OpenRefine](https://openrefine.org/)
 * [2023-10-21, 21:28:06](https://news.ycombinator.com/item?id=37970594) - [Locked and Loaded with New Cosmic DE Updates](https://blog.system76.com/post/locked-and-loaded-with-new-cosmic-de-updates/)
 * [2023-10-21, 21:24:07](https://news.ycombinator.com/item?id=37970572) - [The Decline of Computers as a General Purpose Technology (2021)](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
