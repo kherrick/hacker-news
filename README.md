@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
 * [2023-10-22, 19:11:10](https://news.ycombinator.com/item?id=37978169) - [Ubuntu Linux snuck into high-end Dell laptops](https://www.zdnet.com/article/how-ubuntu-linux-snuck-into-high-end-dell-laptops-and-why-its-called-project-sputnik/)
@@ -20,7 +21,6 @@
 * [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture (2017)](https://c4model.com/)
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Stealing OAuth tokens of Microsoft accounts via open redirect in Harvest App](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
-* [2023-10-22, 05:58:27](https://news.ycombinator.com/item?id=37973151) - [Engineering Statistics Handbook (2012)](https://www.itl.nist.gov/div898/handbook/index.htm)
 * [2023-10-22, 05:13:50](https://news.ycombinator.com/item?id=37973002) - [The Darién Gap](https://en.wikipedia.org/wiki/Dari%C3%A9n_Gap)
 * [2023-10-21, 22:50:05](https://news.ycombinator.com/item?id=37971198) - [Please be dying, but not too quickly, part 2: The patient's perspective](https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-199)
 * [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler on Windows [video]](https://www.youtube.com/watch?v=xi1Lq79mLeE)
