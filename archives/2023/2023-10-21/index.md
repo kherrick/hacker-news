@@ -64,6 +64,7 @@
 * [2023-10-21, 08:50:34](https://news.ycombinator.com/item?id=37965177) - [U.S. Deficit, Pegged at $1.7T, Effectively Doubled in 2023](https://www.nytimes.com/2023/10/20/business/treasury-report-shows-1-7-trillion-deficit.html)
 * [2023-10-21, 08:42:52](https://news.ycombinator.com/item?id=37965142) - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 * [2023-10-21, 08:09:05](https://news.ycombinator.com/item?id=37964999) - [O3DE](https://o3de.org/)
+* [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 07:45:16](https://news.ycombinator.com/item?id=37964895) - [Restoration Magic](https://www.tiktok.com/@restorationmagic)
 * [2023-10-21, 07:40:42](https://news.ycombinator.com/item?id=37964878) - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
 * [2023-10-21, 07:30:39](https://news.ycombinator.com/item?id=37964835) - [With Firefox on X11, any page can pastejack you anytime (middle button paste)](https://www.openwall.com/lists/oss-security/2023/10/17/1)
