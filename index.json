@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-22, 20:18:46",
+      "https://news.ycombinator.com/item?id=37978707"
+    ],
+    [
+      "Cruise autonomous vehicles outperform humans in a comparable driving environment",
+      "https://twitter.com/kvogt/status/1707103740879405440"
+    ]
+  ],
+  [
+    [
+      "2023-10-22, 19:22:24",
+      "https://news.ycombinator.com/item?id=37978263"
+    ],
+    [
+      "Alan Kay shows the Rand tablet [video]",
+      "https://www.youtube.com/watch?v=LLRy4Ao62ls"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 19:11:10",
       "https://news.ycombinator.com/item?id=37978169"
     ],
@@ -17,16 +37,6 @@
     [
       "Great Male Renunciation",
       "https://en.wikipedia.org/wiki/Great_Male_Renunciation"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 19:01:49",
-      "https://news.ycombinator.com/item?id=37978089"
-    ],
-    [
-      "Onion Futures Act",
-      "https://en.wikipedia.org/wiki/Onion_Futures_Act"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "The Lessons of Lucasfilm's Habitat (1990)",
       "https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 17:48:18",
-      "https://news.ycombinator.com/item?id=37977509"
-    ],
-    [
-      "Apple may be planning a surprise October iMac announcement",
-      "https://www.theverge.com/2023/10/22/23927184/apple-m3-imac-13-inch-macbook-pro-rumored-october-announcement"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-10-22, 04:21:47",
-      "https://news.ycombinator.com/item?id=37972793"
-    ],
-    [
-      "Open Source Firmware Conference",
-      "https://www.osfc.io/"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 22:50:05",
       "https://news.ycombinator.com/item?id=37971198"
     ],
@@ -247,6 +237,16 @@
     [
       "Dave Cutler on Windows [video]",
       "https://www.youtube.com/watch?v=xi1Lq79mLeE"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 06:42:19",
+      "https://news.ycombinator.com/item?id=37964634"
+    ],
+    [
+      "C++ Attribute: Likely, Unlikely",
+      "https://en.cppreference.com/w/cpp/language/attributes/likely"
     ]
   ],
   [
