@@ -102,6 +102,7 @@
 * [2023-10-20, 11:08:00](https://news.ycombinator.com/item?id=37954600) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2023-10-20, 09:58:44](https://news.ycombinator.com/item?id=37954180) - [300K Damage from Airbnb Guest](https://twitter.com/ErikaCoaches/status/1715053934585229806)
 * [2023-10-20, 09:57:31](https://news.ycombinator.com/item?id=37954171) - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
+* [2023-10-20, 09:34:54](https://news.ycombinator.com/item?id=37954017) - [22-year-old builds chips in his parents' garage (2022)](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
 * [2023-10-20, 09:31:17](https://news.ycombinator.com/item?id=37953994) - [Scaling to 15000 Functions and Beyond](https://www.openfaas.com/blog/large-scale-functions/)
 * [2023-10-20, 09:22:34](https://news.ycombinator.com/item?id=37953943) - [Impertinent Questions with Kristine Harper (2008)](https://www.neh.gov/humanities/2008/septemberoctober/iq/impertinent-questions-kristine-harper)
 * [2023-10-20, 09:17:40](https://news.ycombinator.com/item?id=37953920) - [Royal College considers no confidence move after Excel recruitment debacle](https://www.theregister.com/2023/10/20/royal_college_excel_blunder/)

@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-21](index.md)
 
+* [2023-10-21, 23:47:53](https://news.ycombinator.com/item?id=37971562) - [Man captures 'weird anomaly' of Storm Babet lifting forest floor in Scotland](https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland)
+* [2023-10-21, 23:42:39](https://news.ycombinator.com/item?id=37971534) - [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
+* [2023-10-21, 23:25:15](https://news.ycombinator.com/item?id=37971423) - [Clohe: Moving toys in the classroom (automata construction toolkit)](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
+* [2023-10-21, 22:54:36](https://news.ycombinator.com/item?id=37971236) - [Be an Engineer, Not a Frameworker](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88)
 * [2023-10-21, 21:51:58](https://news.ycombinator.com/item?id=37970800) - [OpenRefine](https://openrefine.org/)
 * [2023-10-21, 21:28:06](https://news.ycombinator.com/item?id=37970594) - [Locked and Loaded with New Cosmic DE Updates](https://blog.system76.com/post/locked-and-loaded-with-new-cosmic-de-updates/)
+* [2023-10-21, 21:24:07](https://news.ycombinator.com/item?id=37970572) - [The Decline of Computers as a General Purpose Technology (2021)](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
 * [2023-10-21, 21:12:35](https://news.ycombinator.com/item?id=37970484) - [Canada has fewer entrepreneurs today than it did 20 years ago](https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171)
 * [2023-10-21, 21:10:07](https://news.ycombinator.com/item?id=37970458) - [How the 'sex act' has become a potent weapon for book banners in Iowa](https://www.washingtonpost.com/opinions/2023/10/19/book-bans-iowa-kim-reynolds-gop-censorship/)
 * [2023-10-21, 21:09:42](https://news.ycombinator.com/item?id=37970455) - [Google, other search engines' use of generative AI threatens $68B SEO industry](https://theconversation.com/why-google-bing-and-other-search-engines-embrace-of-generative-ai-threatens-68-billion-seo-industry-210243)
@@ -13,6 +18,7 @@
 * [2023-10-21, 21:00:40](https://news.ycombinator.com/item?id=37970379) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-10-21, 20:51:47](https://news.ycombinator.com/item?id=37970325) - [Google owes executive $1M after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
 * [2023-10-21, 20:48:59](https://news.ycombinator.com/item?id=37970308) - [Transactions Are Not Locks (2022)](https://www.benburwell.com/posts/transactions-are-not-locks/)
+* [2023-10-21, 20:43:19](https://news.ycombinator.com/item?id=37970268) - [Tracing Memory Access with an LLVM Pass](https://www.bitsand.cloud/posts/llvm-pass/)
 * [2023-10-21, 20:43:03](https://news.ycombinator.com/item?id=37970267) - [30% of Americans have faced health data breaches this year](https://qz.com/hackers-heath-data-hospitals-california-ransom-breach-1850942235)
 * [2023-10-21, 20:26:32](https://news.ycombinator.com/item?id=37970161) - [Stop Using Plastic Cutting Boards](https://www.outsideonline.com/outdoor-adventure/environment/cutting-board-microplastics/)
 * [2023-10-21, 20:18:32](https://news.ycombinator.com/item?id=37970110) - [Ferrari Sued a Used Car Dealer for $2.2M over a Replica. It Didn't Go Well](https://www.carscoops.com/2023/10/ferrari-sued-a-used-car-dealer-for-2-2m-over-a-ford-cougar-based-replica-it-didnt-go-well/)
