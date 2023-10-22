@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 02:27:37](https://news.ycombinator.com/item?id=37972321) - [How Will States Pay for Roads When Gas Taxes Evaporate?](https://www.wsj.com/politics/policy/how-will-states-pay-for-roads-when-gas-taxes-evaporate-bec312e0)
 * [2023-10-22, 01:47:23](https://news.ycombinator.com/item?id=37972140) - [Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 * [2023-10-22, 01:13:56](https://news.ycombinator.com/item?id=37971994) - [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
 * [2023-10-22, 00:29:47](https://news.ycombinator.com/item?id=37971795) - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 * [2023-10-22, 00:00:38](https://news.ycombinator.com/item?id=37971633) - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
-* [2023-10-21, 23:47:53](https://news.ycombinator.com/item?id=37971562) - [Man captures 'weird anomaly' of Storm Babet lifting forest floor in Scotland](https://www.theguardian.com/uk-news/2023/oct/21/storm-babet-forest-floor-video-mugdock-stirlingshire-scotland)
 * [2023-10-21, 23:42:39](https://news.ycombinator.com/item?id=37971534) - [HN RSS feeds per user no longer available](https://news.ycombinator.com/item?id=37971534)
 * [2023-10-21, 23:25:15](https://news.ycombinator.com/item?id=37971423) - [Clohe: Moving toys in the classroom (automata construction toolkit)](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
 * [2023-10-21, 22:27:47](https://news.ycombinator.com/item?id=37971057) - [Tunnelling Companies in the Great War](https://www.tunnellersmemorial.com/tunnelling-companies/)
