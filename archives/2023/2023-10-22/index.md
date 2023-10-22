@@ -15,6 +15,7 @@
 * [2023-10-22, 12:44:57](https://news.ycombinator.com/item?id=37974879) - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
 * [2023-10-22, 12:34:53](https://news.ycombinator.com/item?id=37974804) - [Astrophysicists Put All Objects in Universe into One Pedagogical Plot](https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html)
 * [2023-10-22, 12:14:27](https://news.ycombinator.com/item?id=37974688) - [Canada is considering a guaranteed universal basic income program](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
+* [2023-10-22, 11:43:47](https://news.ycombinator.com/item?id=37974525) - [A 15 pound computer to inspire young programmers (2011)](https://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young.html)
 * [2023-10-22, 10:52:03](https://news.ycombinator.com/item?id=37974321) - [Ask HN: What is your favorite FOSS WYSIWYG editor?](https://news.ycombinator.com/item?id=37974321)
 * [2023-10-22, 10:22:25](https://news.ycombinator.com/item?id=37974187) - [Adblock Plus and (A Little) More](https://blog.adblockplus.org/blog/whats-happening-with-youtube-ads)
 * [2023-10-22, 10:15:31](https://news.ycombinator.com/item?id=37974155) - [Hal Finney Was Not Satoshi Nakamoto](https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/)
