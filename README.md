@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
+* [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
 * [2023-10-22, 15:39:42](https://news.ycombinator.com/item?id=37976309) - [Who profits most from America's baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
 * [2023-10-22, 15:23:32](https://news.ycombinator.com/item?id=37976161) - [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
 * [2023-10-22, 15:16:56](https://news.ycombinator.com/item?id=37976091) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
@@ -16,10 +18,8 @@
 * [2023-10-22, 05:45:37](https://news.ycombinator.com/item?id=37973105) - [Amiga ASCII Art](https://blog.glyphdrawing.club/amiga-ascii-art/)
 * [2023-10-22, 05:28:22](https://news.ycombinator.com/item?id=37973053) - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
 * [2023-10-22, 05:13:50](https://news.ycombinator.com/item?id=37973002) - [The Darién Gap](https://en.wikipedia.org/wiki/Dari%C3%A9n_Gap)
-* [2023-10-22, 05:12:19](https://news.ycombinator.com/item?id=37972997) - [Chaotic gravitational systems and their irreversibility to the Planck length](https://academic.oup.com/mnras/article/493/3/3932/5736044)
 * [2023-10-22, 04:21:47](https://news.ycombinator.com/item?id=37972793) - [Open Source Firmware Conference](https://www.osfc.io/)
 * [2023-10-21, 22:50:05](https://news.ycombinator.com/item?id=37971198) - [Please be dying, but not too quickly, part 2: The patient's perspective](https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-199)
-* [2023-10-21, 21:24:07](https://news.ycombinator.com/item?id=37970572) - [The decline of computers as a general-purpose technology (2021)](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
 * [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler on Windows [video]](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary (2022)](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 06:42:19](https://news.ycombinator.com/item?id=37964634) - [C++ Attribute: Likely, Unlikely](https://en.cppreference.com/w/cpp/language/attributes/likely)

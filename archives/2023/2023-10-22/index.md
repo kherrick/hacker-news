@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
+* [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [How to Build Your First Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
 * [2023-10-22, 15:39:42](https://news.ycombinator.com/item?id=37976309) - [Who profits most from America's baffling health-care system?](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system)
 * [2023-10-22, 15:23:32](https://news.ycombinator.com/item?id=37976161) - [New Advances in Organ Transplants Are Saving Lives](https://www.scientificamerican.com/article/no-one-should-die-waiting-for-an-organ-transplant-these-doctors-want-to-ensure-that-doesnt-happen/)
 * [2023-10-22, 15:16:56](https://news.ycombinator.com/item?id=37976091) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
