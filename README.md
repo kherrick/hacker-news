@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 02:59:39](https://news.ycombinator.com/item?id=37972452) - [Ask HN: Local Mac Wysiwyg HTML Editor? (for “Lo-fi” website)](https://news.ycombinator.com/item?id=37972452)
 * [2023-10-22, 02:17:55](https://news.ycombinator.com/item?id=37972271) - [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
 * [2023-10-22, 01:47:23](https://news.ycombinator.com/item?id=37972140) - [Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 * [2023-10-22, 01:13:56](https://news.ycombinator.com/item?id=37971994) - [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
@@ -19,7 +20,6 @@
 * [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [FPGA N64](http://www.ultrafp64.com/)
 * [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [Keju, China’s difficult civil service test](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
 * [2023-10-21, 15:46:09](https://news.ycombinator.com/item?id=37967748) - [Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
-* [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What every developer should know about GPU computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
 * [2023-10-20, 19:00:00](https://news.ycombinator.com/item?id=37960068) - [14 Groups issue joint statement on EMS use of lights, sirens (2022)](https://www.ems1.com/ambulance-safety/articles/14-groups-issue-joint-statement-on-ems-use-of-lights-sirens-AAfswfKx2gaog3dy/)
