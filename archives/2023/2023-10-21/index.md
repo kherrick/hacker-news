@@ -73,6 +73,7 @@
 * [2023-10-21, 07:28:56](https://news.ycombinator.com/item?id=37964829) - [CFR[] is a very minimal drawing language with 5 simple commands: C, F, R, [, ]](https://github.com/susam/cfr)
 * [2023-10-21, 07:07:25](https://news.ycombinator.com/item?id=37964743) - [Mystery Shopper: I Got Paid to Spy on People While They Worked](https://www.esquire.com/news-politics/a45484671/mystery-shopper/)
 * [2023-10-21, 06:51:42](https://news.ycombinator.com/item?id=37964682) - [Common-knowledge effect: A harmful bias in team decision making](https://www.nngroup.com/articles/common-knowledge-effect/)
+* [2023-10-21, 06:42:19](https://news.ycombinator.com/item?id=37964634) - [C++ Attribute: Likely, Unlikely](https://en.cppreference.com/w/cpp/language/attributes/likely)
 * [2023-10-21, 06:28:53](https://news.ycombinator.com/item?id=37964575) - [The 7th Guest gets VR remake using volumetric video](https://www.the7thguest-vr.com/)
 * [2023-10-21, 05:25:52](https://news.ycombinator.com/item?id=37964320) - [George Carlin's \"Soft Language\"](https://www.thoughtco.com/soft-language-euphemism-1692111)
 * [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded in the world](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)

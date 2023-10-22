@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 14:32:58](https://news.ycombinator.com/item?id=37975716) - [I live in my car: Parking lots open for those who can afford a car but not rent](https://www.nytimes.com/2023/10/17/realestate/car-homeless-rent-debt-mortgage.html)
 * [2023-10-22, 13:42:56](https://news.ycombinator.com/item?id=37975276) - [Uber Migrates 4000 Microservices to a New Multi-Cloud Platform](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
 * [2023-10-22, 13:16:50](https://news.ycombinator.com/item?id=37975090) - [Why children of married parents do better, but America is moving the other way](https://text.npr.org/1207322878)
 * [2023-10-22, 12:44:57](https://news.ycombinator.com/item?id=37974879) - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
