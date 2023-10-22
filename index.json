@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-10-22, 09:58:17",
-      "https://news.ycombinator.com/item?id=37974106"
-    ],
-    [
-      "Recover lost text by coredumping Firefox",
-      "https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html"
-    ]
-  ],
-  [
-    [
       "2023-10-22, 09:36:47",
       "https://news.ycombinator.com/item?id=37974021"
     ],
@@ -257,6 +247,16 @@
     [
       "Dave Cutler on Windows [video]",
       "https://www.youtube.com/watch?v=xi1Lq79mLeE"
+    ]
+  ],
+  [
+    [
+      "2023-10-21, 06:42:19",
+      "https://news.ycombinator.com/item?id=37964634"
+    ],
+    [
+      "C++ Attribute: Likely, Unlikely",
+      "https://en.cppreference.com/w/cpp/language/attributes/likely"
     ]
   ],
   [
