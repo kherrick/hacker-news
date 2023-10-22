@@ -93,6 +93,7 @@
 * [2023-10-20, 12:34:58](https://news.ycombinator.com/item?id=37955218) - [The Loch Ness Monster: If It's Real, Could It Be an Eel?](https://xbio.jmir.org/2023/1/e49063/)
 * [2023-10-20, 12:24:00](https://news.ycombinator.com/item?id=37955137) - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
 * [2023-10-20, 12:22:51](https://news.ycombinator.com/item?id=37955130) - [RabbitOS](https://www.rabbit.tech/)
+* [2023-10-20, 12:17:15](https://news.ycombinator.com/item?id=37955080) - [Proteomic Analysis of Vlad III the Impaler's Documents](https://pubs.acs.org/doi/10.1021/acs.analchem.3c01461)
 * [2023-10-20, 12:10:28](https://news.ycombinator.com/item?id=37955035) - [American Employees Reinvent the Sick Day](https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a)
 * [2023-10-20, 12:06:45](https://news.ycombinator.com/item?id=37955019) - [US single handedly blocks UN call for humanitarian pause and corridors into Gaza](https://www.theguardian.com/world/2023/oct/18/us-vetoes-un-call-for-humanitarian-pause-and-corridors-into-gaza)
 * [2023-10-20, 12:01:25](https://news.ycombinator.com/item?id=37954985) - [History of Tcl](https://www.tcl.tk/about/history.html)
