@@ -33,6 +33,7 @@
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [SBF Made $9B Disappear. This Forensic Accountant Found It](https://gizmodo.com/sbf-made-billions-disappear-forensic-accountant-found-1850942819)
 * [2023-10-20, 19:18:13](https://news.ycombinator.com/item?id=37960289) - [Accounting prof testifies about FTX's misuse of customers' money](https://www.coindesk.com/policy/2023/10/18/sbf-trial-a-witness-contrasts-sam-bankman-frieds-house-testimony-with-ftxs-dangerous-secrets/)
 * [2023-10-20, 19:14:12](https://news.ycombinator.com/item?id=37960239) - [Why America Is Out of Ammunition](https://www.thebignewsletter.com/p/why-america-is-out-of-ammunition)
+* [2023-10-20, 19:00:00](https://news.ycombinator.com/item?id=37960068) - [14 Groups issue joint statement on EMS use of lights, sirens (2022)](https://www.ems1.com/ambulance-safety/articles/14-groups-issue-joint-statement-on-ems-use-of-lights-sirens-AAfswfKx2gaog3dy/)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 – Flyweight IDE](https://geany.org/)
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
 * [2023-10-20, 18:48:47](https://news.ycombinator.com/item?id=37959931) - [Leaving the Phone at Home](https://josem.co/leaving-the-phone-at-home/)

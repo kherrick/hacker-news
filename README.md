@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-22, 02:59:39](https://news.ycombinator.com/item?id=37972452) - [Ask HN: Local Mac Wysiwyg HTML Editor? (for “Lo-fi” website)](https://news.ycombinator.com/item?id=37972452)
+* [2023-10-22, 02:17:55](https://news.ycombinator.com/item?id=37972271) - [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
 * [2023-10-22, 01:47:23](https://news.ycombinator.com/item?id=37972140) - [Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
 * [2023-10-22, 01:13:56](https://news.ycombinator.com/item?id=37971994) - [An antiquated law rules mining in the West](https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west)
 * [2023-10-22, 00:29:47](https://news.ycombinator.com/item?id=37971795) - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
@@ -20,9 +20,9 @@
 * [2023-10-21, 15:46:40](https://news.ycombinator.com/item?id=37967751) - [Keju, China’s difficult civil service test](https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju)
 * [2023-10-21, 15:46:09](https://news.ycombinator.com/item?id=37967748) - [Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
 * [2023-10-21, 14:36:47](https://news.ycombinator.com/item?id=37967126) - [What every developer should know about GPU computing](https://codeconfessions.substack.com/p/gpu-computing)
-* [2023-10-21, 13:14:15](https://news.ycombinator.com/item?id=37966569) - [The Pixel 8 Pro's Tensor G3 off-loads all generative AI tasks to the cloud](https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html)
 * [2023-10-21, 05:19:10](https://news.ycombinator.com/item?id=37964292) - [Stories told by Aboriginal Tasmanians could be oldest recorded](https://www.australiangeographic.com.au/topics/history-culture/2023/10/stories-told-by-aboriginal-tasmanians-could-be-oldest-recorded-in-the-world/)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
+* [2023-10-20, 19:00:00](https://news.ycombinator.com/item?id=37960068) - [14 Groups issue joint statement on EMS use of lights, sirens (2022)](https://www.ems1.com/ambulance-safety/articles/14-groups-issue-joint-statement-on-ems-use-of-lights-sirens-AAfswfKx2gaog3dy/)
 * [2023-10-20, 13:56:48](https://news.ycombinator.com/item?id=37956065) - [Show HN: CFR[]: Very minimal drawing language with 5 commands: C, F, R, [, ]](https://susam.net/cfr.html)
 * [2023-10-20, 12:01:25](https://news.ycombinator.com/item?id=37954985) - [History of Tcl](https://www.tcl.tk/about/history.html)
 * [2023-10-20, 09:34:54](https://news.ycombinator.com/item?id=37954017) - [22-year-old builds chips in his parents' garage (2022)](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
