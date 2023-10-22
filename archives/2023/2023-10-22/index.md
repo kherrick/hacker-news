@@ -9,6 +9,7 @@
 * [2023-10-22, 05:53:54](https://news.ycombinator.com/item?id=37973131) - [Britsh Museum Collection Search](https://www.britishmuseum.org/collection)
 * [2023-10-22, 05:45:37](https://news.ycombinator.com/item?id=37973105) - [Amiga ASCII Art](https://blog.glyphdrawing.club/amiga-ascii-art/)
 * [2023-10-22, 05:28:22](https://news.ycombinator.com/item?id=37973053) - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
+* [2023-10-22, 05:12:19](https://news.ycombinator.com/item?id=37972997) - [Chaotic gravitational systems and their irreversibility to the Planck length](https://academic.oup.com/mnras/article/493/3/3932/5736044)
 * [2023-10-22, 05:10:14](https://news.ycombinator.com/item?id=37972991) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-22, 04:53:06](https://news.ycombinator.com/item?id=37972915) - [Bruce Schneier: On the Cybersecurity Jobs Shortage](https://www.schneier.com/blog/archives/2023/09/on-the-cybersecurity-jobs-shortage.html)
 * [2023-10-22, 04:37:25](https://news.ycombinator.com/item?id=37972859) - [U.S. Marshals Searching for Fugitive Wanted for the Murder of a State Judge](https://www.usmarshals.gov/news/press-release/us-marshals-searching-fugitive-wanted-murder-of-state-judge)
