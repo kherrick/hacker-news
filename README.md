@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 12:34:53](https://news.ycombinator.com/item?id=37974804) - [Astrophysicists Put All Objects in Universe into One Pedagogical Plot](https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html)
 * [2023-10-22, 12:14:27](https://news.ycombinator.com/item?id=37974688) - [Canada is considering a guaranteed universal basic income program](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
 * [2023-10-22, 10:52:03](https://news.ycombinator.com/item?id=37974321) - [Ask HN: What is your favorite FOSS WYSIWYG editor?](https://news.ycombinator.com/item?id=37974321)
 * [2023-10-22, 10:22:25](https://news.ycombinator.com/item?id=37974187) - [Adblock Plus and (A Little) More](https://blog.adblockplus.org/blog/whats-happening-with-youtube-ads)
@@ -12,7 +13,6 @@
 * [2023-10-22, 05:45:37](https://news.ycombinator.com/item?id=37973105) - [Amiga ASCII Art](https://blog.glyphdrawing.club/amiga-ascii-art/)
 * [2023-10-22, 05:28:22](https://news.ycombinator.com/item?id=37973053) - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
 * [2023-10-22, 05:12:19](https://news.ycombinator.com/item?id=37972997) - [Chaotic gravitational systems and their irreversibility to the Planck length](https://academic.oup.com/mnras/article/493/3/3932/5736044)
-* [2023-10-22, 05:10:14](https://news.ycombinator.com/item?id=37972991) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-22, 04:21:47](https://news.ycombinator.com/item?id=37972793) - [Open Source Firmware Conference](https://www.osfc.io/)
 * [2023-10-22, 00:29:47](https://news.ycombinator.com/item?id=37971795) - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 * [2023-10-22, 00:00:38](https://news.ycombinator.com/item?id=37971633) - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
