@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-22, 09:49:31](https://news.ycombinator.com/item?id=37974071) - [Cloudflare Claims Migration to Their Services Can Reduce Network CO2 by 78-96%](https://www.infoq.com/news/2023/10/cloudflare-carbon-emissions/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 05:58:27](https://news.ycombinator.com/item?id=37973151) - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 * [2023-10-22, 05:53:54](https://news.ycombinator.com/item?id=37973131) - [Britsh Museum Collection Search](https://www.britishmuseum.org/collection)
@@ -22,6 +21,7 @@
 * [2023-10-21, 15:46:09](https://news.ycombinator.com/item?id=37967748) - [Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
+* [2023-10-20, 20:19:48](https://news.ycombinator.com/item?id=37961045) - [Collection Cost: Eighteenth-century British naturalists in west Africa](https://www.laphamsquarterly.org/roundtable/collection-cost)
 * [2023-10-20, 20:18:28](https://news.ycombinator.com/item?id=37961029) - [Flannelette Cure: Fire Tests with Textiles (1910)](https://publicdomainreview.org/collection/fire-tests-with-textiles/)
 * [2023-10-20, 12:17:15](https://news.ycombinator.com/item?id=37955080) - [Proteomic Analysis of Vlad III the Impaler's Documents](https://pubs.acs.org/doi/10.1021/acs.analchem.3c01461)
 * [2023-10-20, 12:01:25](https://news.ycombinator.com/item?id=37954985) - [History of Tcl](https://www.tcl.tk/about/history.html)
