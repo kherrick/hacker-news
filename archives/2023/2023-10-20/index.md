@@ -123,6 +123,7 @@
 * [2023-10-20, 05:48:47](https://news.ycombinator.com/item?id=37952719) - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
 * [2023-10-20, 05:45:22](https://news.ycombinator.com/item?id=37952703) - [Threads 'temporarily' blocks Covid search terms to focus on larger concerns](https://fortune.com/2023/10/19/threads-blocks-covid-search-terms-israel-gaza-misinformation-mark-zuckerberg/)
 * [2023-10-20, 05:21:20](https://news.ycombinator.com/item?id=37952597) - [Pepper X](https://en.wikipedia.org/wiki/Pepper_X)
+* [2023-10-20, 05:10:54](https://news.ycombinator.com/item?id=37952568) - [Cubic Spline Interpolation](https://eli.thegreenplace.net/2023/cubic-spline-interpolation/)
 * [2023-10-20, 04:31:42](https://news.ycombinator.com/item?id=37952410) - [Mentally Ill Man with AI Girlfriend Tried to Kill Queen](https://www.loweringthebar.net/2023/10/sith-lord-gets-nine-years-treason.html)
 * [2023-10-20, 04:05:24](https://news.ycombinator.com/item?id=37952279) - [Irish privacy group files complaint against YouTube adblock detection system](https://twitter.com/alexanderhanff/status/1714944718205755483)
 * [2023-10-20, 03:59:16](https://news.ycombinator.com/item?id=37952248) - [FBI says North Korea deployed thousands of IT workers to get remote jobs in US](https://www.businessinsider.com/north-korea-workers-remote-work-jobs-us-ballistic-missle-fbi-2023-10)
