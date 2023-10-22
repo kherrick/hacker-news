@@ -40,6 +40,7 @@
 * [2023-10-22, 14:17:44](https://news.ycombinator.com/item?id=37975601) - [Tell HN: DuckDuckGo Search Results have jumped the shark](https://news.ycombinator.com/item?id=37975601)
 * [2023-10-22, 13:42:56](https://news.ycombinator.com/item?id=37975276) - [Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/)
 * [2023-10-22, 13:42:56](https://news.ycombinator.com/item?id=37975276) - [Uber Migrates 4000 Microservices to a New Multi-Cloud Platform](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
+* [2023-10-22, 13:38:37](https://news.ycombinator.com/item?id=37975248) - [Four Historians Tell Us a Ghost Story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
 * [2023-10-22, 13:26:39](https://news.ycombinator.com/item?id=37975166) - [Taking on SpaceX: Why Germany is building its own spaceport](https://www.dw.com/en/taking-on-spacex-why-germany-is-building-its-own-spaceport/a-67166692)
 * [2023-10-22, 13:16:50](https://news.ycombinator.com/item?id=37975090) - [Why children of married parents do better, but America is moving the other way](https://text.npr.org/1207322878)
 * [2023-10-22, 13:16:50](https://news.ycombinator.com/item?id=37975090) - [Children of married parents do better, but America is moving the other way](https://www.npr.org/2023/10/22/1207322878/single-parent-married-good-for-children-inequality)
