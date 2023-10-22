@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 22:53:16](https://news.ycombinator.com/item?id=37979793) - [Dismantle the Censorship-Industrial Complex: The Westminster Declaration](https://www.racket.news/p/dismantle-the-censorship-industrial)
 * [2023-10-22, 22:25:17](https://news.ycombinator.com/item?id=37979635) - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
 * [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
@@ -22,7 +23,6 @@
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 05:13:50](https://news.ycombinator.com/item?id=37973002) - [The Darién Gap](https://en.wikipedia.org/wiki/Dari%C3%A9n_Gap)
 * [2023-10-22, 04:21:29](https://news.ycombinator.com/item?id=37972792) - [USS Recruit (1917): The Wooden Dreadnought in Manhattan's Union Square](https://www.warhistoryonline.com/ships/uss-recruit-1917.html)
-* [2023-10-21, 22:50:05](https://news.ycombinator.com/item?id=37971198) - [Please be dying, but not too quickly, part 2: The patient's perspective](https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-199)
 * [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler on Windows [video]](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-21, 11:55:15](https://news.ycombinator.com/item?id=37966053) - [Why the hospital pager withstood the test of time](https://healthtechmagazine.net/article/2019/06/why-hospital-pager-withstood-test-time)
 * [2023-10-21, 05:25:52](https://news.ycombinator.com/item?id=37964320) - [George Carlin's \"Soft Language\" (2019)](https://www.thoughtco.com/soft-language-euphemism-1692111)
