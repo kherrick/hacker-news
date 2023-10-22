@@ -105,6 +105,7 @@
 * [2023-10-20, 11:56:35](https://news.ycombinator.com/item?id=37954951) - [A Nasty Tropical Skin Disease Is Now Endemic in the U.S.](https://www.scientificamerican.com/article/a-nasty-tropical-skin-disease-is-now-endemic-in-the-u-s/)
 * [2023-10-20, 11:42:44](https://news.ycombinator.com/item?id=37954854) - [Friday Factorio Facts #381 – Space Platforms](https://factorio.com/blog/post/fff-381)
 * [2023-10-20, 11:08:00](https://news.ycombinator.com/item?id=37954600) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
+* [2023-10-20, 10:24:44](https://news.ycombinator.com/item?id=37954347) - [A Brief Introduction to Military Pillboxes](https://heritagecalling.com/2023/10/19/a-brief-introduction-to-military-pillboxes/)
 * [2023-10-20, 09:58:44](https://news.ycombinator.com/item?id=37954180) - [300K Damage from Airbnb Guest](https://twitter.com/ErikaCoaches/status/1715053934585229806)
 * [2023-10-20, 09:57:31](https://news.ycombinator.com/item?id=37954171) - [What's new in C# 12: overview](https://pvs-studio.com/en/blog/posts/csharp/1074/)
 * [2023-10-20, 09:34:54](https://news.ycombinator.com/item?id=37954017) - [22-year-old builds chips in his parents' garage (2022)](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
