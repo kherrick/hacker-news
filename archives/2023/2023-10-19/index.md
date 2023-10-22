@@ -89,6 +89,7 @@
 * [2023-10-19, 12:09:21](https://news.ycombinator.com/item?id=37941751) - [Nvidia and Foxconn to build 'AI factories'](https://www.bbc.com/news/business-67153669)
 * [2023-10-19, 12:07:19](https://news.ycombinator.com/item?id=37941727) - [Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
 * [2023-10-19, 12:00:24](https://news.ycombinator.com/item?id=37941675) - [Bright (YC W15) hiring a VP of eng and product](https://www.ycombinator.com/companies/bright/jobs/4WczUz5-vp-of-engineering-and-products)
+* [2023-10-19, 11:43:10](https://news.ycombinator.com/item?id=37941509) - [Open-Source Software Planetarium](https://www.ivoyager.dev/)
 * [2023-10-19, 11:38:30](https://news.ycombinator.com/item?id=37941459) - [AMD Ryzen Threadripper Pro 7000 CPUs: Up to 96 Zen 4 Cores for Workstations](https://wccftech.com/amd-ryzen-threadripper-pro-7000-storm-peak-cpus-unveil-19th-october/)
 * [2023-10-19, 11:34:35](https://news.ycombinator.com/item?id=37941413) - [Show HN: One makefile to rule them all](https://gist.github.com/LiquidityC/c832cd3d8394f267299d43b1f1719e90)
 * [2023-10-19, 11:15:52](https://news.ycombinator.com/item?id=37941235) - [What Caroline Ellison's Testimony in SBF Trial Says on Loneliness and Workplace](https://www.forbes.com/sites/lisaconn/2023/10/16/what-caroline-ellisons-testimony-in-sam-bankman-fried-trial-says-about-loneliness-and-the-workplace/)
