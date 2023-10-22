@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 20:54:17](https://news.ycombinator.com/item?id=37978999) - [Cory Doctorow's Vision for a Just Tech Revolution](https://jacobin.com/2023/10/cory-doctorow-seize-the-means-of-computation-big-tech-democratization-infrastructure)
 * [2023-10-22, 20:18:46](https://news.ycombinator.com/item?id=37978707) - [Cruise autonomous vehicles outperform humans in a comparable driving environment](https://twitter.com/kvogt/status/1707103740879405440)
 * [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
