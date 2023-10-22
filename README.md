@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-22, 14:32:58](https://news.ycombinator.com/item?id=37975716) - [I live in my car: Parking lots open for those who can afford a car but not rent](https://www.nytimes.com/2023/10/17/realestate/car-homeless-rent-debt-mortgage.html)
+* [2023-10-22, 14:29:35](https://news.ycombinator.com/item?id=37975694) - [$9.5B of key metals in overlooked electronic waste: UN](https://techxplore.com/news/2023-10-bn-key-metals-overlooked-electronic.html)
 * [2023-10-22, 13:42:56](https://news.ycombinator.com/item?id=37975276) - [Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/)
 * [2023-10-22, 12:44:57](https://news.ycombinator.com/item?id=37974879) - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
 * [2023-10-22, 12:34:53](https://news.ycombinator.com/item?id=37974804) - [Astrophysicists Put All Objects in Universe into One Pedagogical Plot](https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html)
@@ -17,7 +18,6 @@
 * [2023-10-22, 02:17:55](https://news.ycombinator.com/item?id=37972271) - [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
 * [2023-10-22, 00:29:47](https://news.ycombinator.com/item?id=37971795) - [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 * [2023-10-22, 00:00:38](https://news.ycombinator.com/item?id=37971633) - [Nghttp3 1.0.0 – HTTP/3 library written in C](https://nghttp2.org/nghttp3/)
-* [2023-10-21, 23:25:15](https://news.ycombinator.com/item?id=37971423) - [Clohe: Moving toys in the classroom (automata construction toolkit)](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
 * [2023-10-21, 13:06:20](https://news.ycombinator.com/item?id=37966510) - [How to rewrite classes using closures in JavaScript](https://gaurangtandon.com/blog/javascript-class-closure)
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary (2022)](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 06:42:19](https://news.ycombinator.com/item?id=37964634) - [C++ Attribute: Likely, Unlikely](https://en.cppreference.com/w/cpp/language/attributes/likely)
