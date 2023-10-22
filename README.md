@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-22, 12:14:27](https://news.ycombinator.com/item?id=37974688) - [Canada is considering a guaranteed universal basic income program](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
 * [2023-10-22, 10:52:03](https://news.ycombinator.com/item?id=37974321) - [Ask HN: What is your favorite FOSS WYSIWYG editor?](https://news.ycombinator.com/item?id=37974321)
 * [2023-10-22, 10:22:25](https://news.ycombinator.com/item?id=37974187) - [Adblock Plus and (A Little) More](https://blog.adblockplus.org/blog/whats-happening-with-youtube-ads)
 * [2023-10-22, 10:15:31](https://news.ycombinator.com/item?id=37974155) - [Hal Finney Was Not Satoshi Nakamoto](https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/)
@@ -19,7 +20,6 @@
 * [2023-10-21, 21:51:58](https://news.ycombinator.com/item?id=37970800) - [OpenRefine](https://openrefine.org/)
 * [2023-10-21, 21:24:07](https://news.ycombinator.com/item?id=37970572) - [The decline of computers as a general-purpose technology (2021)](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext)
 * [2023-10-21, 16:01:45](https://news.ycombinator.com/item?id=37967936) - [FPGA N64](http://www.ultrafp64.com/)
-* [2023-10-21, 15:46:09](https://news.ycombinator.com/item?id=37967748) - [Human microbiome myths and misconceptions](https://www.nature.com/articles/s41564-023-01426-7)
 * [2023-10-21, 07:49:06](https://news.ycombinator.com/item?id=37964917) - [My website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2023-10-21, 05:25:52](https://news.ycombinator.com/item?id=37964320) - [George Carlin's \"Soft Language\"](https://www.thoughtco.com/soft-language-euphemism-1692111)
 * [2023-10-21, 03:04:49](https://news.ycombinator.com/item?id=37963741) - [The Trap of Fairytale Victory Endings in Historical Fiction](https://lithub.com/the-past-is-messy-and-repeats-itself-the-trap-of-fairytale-victory-endings-in-historical-fiction/)
