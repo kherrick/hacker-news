@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 04:21:47](https://news.ycombinator.com/item?id=37972793) - [Open Source Firmware Conference](https://www.osfc.io/)
 * [2023-10-22, 04:07:58](https://news.ycombinator.com/item?id=37972749) - [Team Behind NextGen ATSC 3.0 OTA TV Explains Why DRM Is Needed for Free OTA TV](https://cordcuttersnews.com/the-team-behind-nextgen-atsc-3-0-ota-tv-explains-why-drm-is-needed-for-free-ota-tv/)
 * [2023-10-22, 02:59:39](https://news.ycombinator.com/item?id=37972452) - [Ask HN: Local Mac Wysiwyg HTML Editor? (for “Lo-fi” website)](https://news.ycombinator.com/item?id=37972452)
 * [2023-10-22, 02:27:37](https://news.ycombinator.com/item?id=37972321) - [How Will States Pay for Roads When Gas Taxes Evaporate?](https://www.wsj.com/politics/policy/how-will-states-pay-for-roads-when-gas-taxes-evaporate-bec312e0)

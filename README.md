@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-22, 04:07:58](https://news.ycombinator.com/item?id=37972749) - [Team Behind NextGen ATSC 3.0 OTA TV Explains Why DRM Is Needed for Free OTA TV](https://cordcuttersnews.com/the-team-behind-nextgen-atsc-3-0-ota-tv-explains-why-drm-is-needed-for-free-ota-tv/)
+* [2023-10-22, 04:21:47](https://news.ycombinator.com/item?id=37972793) - [Open Source Firmware Conference](https://www.osfc.io/)
 * [2023-10-22, 02:17:55](https://news.ycombinator.com/item?id=37972271) - [What happened to the dream of the Pan-American highway?](https://daily.jstor.org/the-pan-american-highway-and-the-darien-gap/)
 * [2023-10-22, 02:10:03](https://news.ycombinator.com/item?id=37972242) - [British Airways B789 smoke in cabin, phone stuck in seat](http://avherald.com/h?article=51002408)
 * [2023-10-22, 01:47:23](https://news.ycombinator.com/item?id=37972140) - [Nvidia Wouldn't Exist If CEO Could Turn the Clock Back 30 Years](https://www.tomshardware.com/news/nvidia-wouldnt-exist-if-ceo-could-turn-the-clock-back-30-years)
