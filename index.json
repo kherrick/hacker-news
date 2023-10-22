@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-22, 01:13:56",
+      "https://news.ycombinator.com/item?id=37971994"
+    ],
+    [
+      "An antiquated law rules mining in the West",
+      "https://www.hcn.org/issues/55.8/infographic-mining-an-antiquated-law-rules-mining-in-the-west"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 00:00:38",
       "https://news.ycombinator.com/item?id=37971633"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-10-21, 22:54:36",
-      "https://news.ycombinator.com/item?id=37971236"
-    ],
-    [
-      "Be an Engineer, Not a Frameworker",
-      "https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 21:51:58",
       "https://news.ycombinator.com/item?id=37970800"
     ],
@@ -67,16 +67,6 @@
     [
       "The Decline of Computers as a General Purpose Technology (2021)",
       "https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 21:12:35",
-      "https://news.ycombinator.com/item?id=37970484"
-    ],
-    [
-      "Canada has fewer entrepreneurs today than it did 20 years ago",
-      "https://www.cbc.ca/news/business/canada-entrepreneurs-shortage-solutions-1.7002171"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2023-10-21, 09:26:39",
-      "https://news.ycombinator.com/item?id=37965319"
+      "2023-10-21, 13:02:14",
+      "https://news.ycombinator.com/item?id=37966485"
     ],
     [
-      "We Built a Streaming SQL Engine",
-      "https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine"
+      "Refactoring has a price, not refactoring has a cost",
+      "https://www.germanvelasco.com/blog/refactoring-is-a-habit"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Using AsciiDoc and Asciidoctor for Blogging",
       "https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 11:43:10",
+      "https://news.ycombinator.com/item?id=37941509"
+    ],
+    [
+      "Open-Source Software Planetarium",
+      "https://www.ivoyager.dev/"
     ]
   ]
 ]
