@@ -38,6 +38,7 @@
 * [2023-10-20, 18:53:09](https://news.ycombinator.com/item?id=37959979) - [Geany 2.0 Is Out](https://www.geany.org/news/geany-20-is-out/)
 * [2023-10-20, 18:48:47](https://news.ycombinator.com/item?id=37959931) - [Leaving the Phone at Home](https://josem.co/leaving-the-phone-at-home/)
 * [2023-10-20, 18:46:28](https://news.ycombinator.com/item?id=37959904) - [Hackers Stole Access Tokens from Okta's Support Unit](https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/)
+* [2023-10-20, 18:15:01](https://news.ycombinator.com/item?id=37959581) - [Location of Forrest Fenn's Treasure](https://www.themeateater.com/conservation/public-lands-and-waters/location-of-forrest-fenns-treasure-finally-revealed)
 * [2023-10-20, 18:10:50](https://news.ycombinator.com/item?id=37959540) - [They can and will ruin everything you love](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/)
 * [2023-10-20, 17:57:35](https://news.ycombinator.com/item?id=37959376) - [PowerDNS Starts to Use Rust](https://mailman.powerdns.com/pipermail/pdns-announce/2023-October/001284.html)
 * [2023-10-20, 17:54:28](https://news.ycombinator.com/item?id=37959340) - [Implication for C++ [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2971r1.pdf)
