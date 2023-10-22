@@ -29,7 +29,7 @@
 * [2023-10-20, 09:31:17](https://news.ycombinator.com/item?id=37953994) - [Scaling to 15000 Functions and Beyond](https://www.openfaas.com/blog/large-scale-functions/)
 * [2023-10-20, 09:03:29](https://news.ycombinator.com/item?id=37953833) - [Using AsciiDoc and Asciidoctor for Blogging](https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/)
 * [2023-10-19, 12:00:52](https://news.ycombinator.com/item?id=37941680) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
-* [2023-10-19, 11:43:10](https://news.ycombinator.com/item?id=37941509) - [Open-Source Software Planetarium](https://www.ivoyager.dev/)
+* [2023-10-19, 11:43:10](https://news.ycombinator.com/item?id=37941509) - [I, Voyager: Open-Source Software Planetarium](https://www.ivoyager.dev/)
 
 ## [Archives](archives/index.md)
 
