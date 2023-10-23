@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland Launches Ambitious Plan to Provide Citywide Dirt Cheap Broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
+* [2023-10-23, 17:03:04](https://news.ycombinator.com/item?id=37988451) - [It's Time to Tax Billionaires](https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDR's to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 16:31:26](https://news.ycombinator.com/item?id=37988021) - [Teens Want Parents to Track Their Phones and Monitor Their Every Move](https://www.wsj.com/tech/personal-tech/track-my-phone-teens-feel-safer-when-parents-monitor-7ad437ff)
 * [2023-10-23, 16:28:14](https://news.ycombinator.com/item?id=37987973) - [There's Never Been a Worse Time to Buy Instead of Rent](https://www.wsj.com/economy/housing/theres-never-been-a-worse-time-to-buy-instead-of-rent-bd3e80d9)
