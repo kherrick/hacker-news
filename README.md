@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-23, 01:24:07](https://news.ycombinator.com/item?id=37980585) - [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
-* [2023-10-23, 00:47:35](https://news.ycombinator.com/item?id=37980384) - [Why Are So Many Dogs on Prozac?](https://www.theatlantic.com/ideas/archive/2023/10/dog-anti-anxiety-meds-treatment/675715/)
 * [2023-10-23, 00:33:39](https://news.ycombinator.com/item?id=37980323) - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
 * [2023-10-22, 22:51:44](https://news.ycombinator.com/item?id=37979787) - [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
 * [2023-10-22, 22:25:17](https://news.ycombinator.com/item?id=37979635) - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
@@ -21,6 +20,7 @@
 * [2023-10-22, 13:42:56](https://news.ycombinator.com/item?id=37975276) - [Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/)
 * [2023-10-22, 12:44:57](https://news.ycombinator.com/item?id=37974879) - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
 * [2023-10-22, 11:43:47](https://news.ycombinator.com/item?id=37974525) - [A 15 pound computer to inspire young programmers (2011)](https://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young.html)
+* [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture (2017)](https://c4model.com/)
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Stealing OAuth tokens of Microsoft accounts via open redirect in Harvest App](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 04:21:29](https://news.ycombinator.com/item?id=37972792) - [USS Recruit (1917): The Wooden Dreadnought in Manhattan's Union Square](https://www.warhistoryonline.com/ships/uss-recruit-1917.html)
