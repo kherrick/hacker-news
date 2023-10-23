@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
+* [2023-10-23, 06:11:13](https://news.ycombinator.com/item?id=37982149) - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
 * [2023-10-23, 06:08:43](https://news.ycombinator.com/item?id=37982137) - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
 * [2023-10-23, 05:51:54](https://news.ycombinator.com/item?id=37982049) - [Excel will allow certain auto data conversions to be turned off](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 * [2023-10-23, 05:48:55](https://news.ycombinator.com/item?id=37982030) - [Project Euler](https://projecteuler.net/)
 * [2023-10-23, 05:28:41](https://news.ycombinator.com/item?id=37981939) - [Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
+* [2023-10-23, 05:12:29](https://news.ycombinator.com/item?id=37981863) - [Geolocating WSJ's \"Failed Rocket\"](https://github.com/sam158209/al-ahli-hospital-blast)
 * [2023-10-23, 05:03:03](https://news.ycombinator.com/item?id=37981813) - [Meta reveals serverless platform processing trillions of function calls a day](https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained)
+* [2023-10-23, 05:01:15](https://news.ycombinator.com/item?id=37981804) - [China is becoming a data black hole, says short seller Aandahl](https://theedgemalaysia.com/node/686676)
 * [2023-10-23, 03:46:04](https://news.ycombinator.com/item?id=37981391) - [More Than 400k Student Loan Borrowers Had Wrong Monthly Payments](https://www.nytimes.com/2023/10/16/your-money/student-loans-save-mistakes.html)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
 * [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
