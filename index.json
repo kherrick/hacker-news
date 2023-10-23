@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-10-23, 06:08:43",
+      "https://news.ycombinator.com/item?id=37982137"
+    ],
+    [
+      "Building a unikernel that runs WebAssembly – part 1",
+      "https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 05:51:54",
       "https://news.ycombinator.com/item?id=37982049"
     ],
     [
       "Excel will allow certain auto data conversions to be turned off",
       "https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 05:48:55",
+      "https://news.ycombinator.com/item?id=37982030"
+    ],
+    [
+      "Project Euler",
+      "https://projecteuler.net/"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 05:28:41",
+      "https://news.ycombinator.com/item?id=37981939"
+    ],
+    [
+      "Base64 Encoding, Explained",
+      "https://www.akshaykhot.com/base64-encoding-explained/"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Thousands of programmable DNA-cutters found in algae, snails and other organisms",
       "https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 01:33:04",
+      "https://news.ycombinator.com/item?id=37980626"
+    ],
+    [
+      "National Center for Home Food Preservation",
+      "https://nchfp.uga.edu/"
     ]
   ],
   [
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2023-10-22, 17:47:43",
-      "https://news.ycombinator.com/item?id=37977502"
-    ],
-    [
-      "Beginners guide to building a hardware hacking lab",
-      "https://voidstarsec.com/hw-hacking-lab/vss-lab-guide"
-    ]
-  ],
-  [
-    [
       "2023-10-22, 16:41:25",
       "https://news.ycombinator.com/item?id=37976894"
     ],
     [
       "How to Make a CPU – A Simple Picture Based Explanation",
       "https://blog.robertelder.org/how-to-make-a-cpu/"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 15:01:57",
-      "https://news.ycombinator.com/item?id=37975944"
-    ],
-    [
-      "Europe's largest copper producer is the victim of metal swindle worth $198M",
-      "https://fortune.com/2023/09/20/europe-largest-copper-producer-aurubis-victim-metal-heist-worth-198-million-insiders-involved/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Origins of the 3.5in Floppy Disk [video]",
       "https://www.youtube.com/watch?v=djsyVgTGaRk"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 22:50:05",
-      "https://news.ycombinator.com/item?id=37971198"
-    ],
-    [
-      "Please be dying, but not too quickly, part 2: The patient's perspective",
-      "https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-199"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 21:01:51",
-      "https://news.ycombinator.com/item?id=37970391"
-    ],
-    [
-      "Dave Cutler on Windows [video]",
-      "https://www.youtube.com/watch?v=xi1Lq79mLeE"
     ]
   ],
   [
