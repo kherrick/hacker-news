@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 14:48:28](https://news.ycombinator.com/item?id=37986424) - [1,200-km range, 10-min charge: Toyota near solid-state battery breakthrough](https://www.business-standard.com/industry/auto/1-200-km-range-10-min-charge-toyota-near-solid-state-battery-breakthrough-123102300252_1.html)
+* [2023-10-23, 14:25:43](https://news.ycombinator.com/item?id=37986083) - [Driver's failure to laugh at odd question during stop not Reasonable Suspicion](http://fourthamendment.com/?p=56109)
+* [2023-10-23, 14:23:24](https://news.ycombinator.com/item?id=37986055) - [Windows 11: The number you have dialed has been disconnected](https://www.theregister.com/2023/10/23/column/)
 * [2023-10-23, 14:16:48](https://news.ycombinator.com/item?id=37985972) - [Martin Goetz, recipient of the first software patent, logs off at 93](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
 * [2023-10-23, 14:12:49](https://news.ycombinator.com/item?id=37985921) - [Riley Reid on AI: 'I Don't Want Porn to Get Left Behind'](https://www.404media.co/riley-reid-clona-ai-chatbot-virtual-companion/)
 * [2023-10-23, 13:59:11](https://news.ycombinator.com/item?id=37985743) - [Former Google CEO Launched a Company with His Girlfriend. It's Not Going Well](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
@@ -14,6 +17,7 @@
 * [2023-10-23, 12:30:15](https://news.ycombinator.com/item?id=37984719) - [The Sociopaths Among Us–and How to Avoid Them](https://www.theatlantic.com/ideas/archive/2023/10/dark-triads-toxic-personalities/675683/)
 * [2023-10-23, 12:26:33](https://news.ycombinator.com/item?id=37984684) - [Pro-Palestinian creators use secret spellings, words to evade social algorithms](https://www.washingtonpost.com/technology/2023/10/20/palestinian-tiktok-instagram-algospeak-israel-hamas/)
 * [2023-10-23, 12:13:53](https://news.ycombinator.com/item?id=37984566) - [Microsoft fixes the Excel feature that was wrecking scientific data](https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed)
+* [2023-10-23, 12:00:48](https://news.ycombinator.com/item?id=37984461) - [Dutch Cycling Lifestyle](https://dutchcyclinglifestyle.com/)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 11:52:23](https://news.ycombinator.com/item?id=37984382) - [Earth Stopped Getting Greener 20 Years Ago](https://www.scientificamerican.com/article/earth-stopped-getting-greener-20-years-ago/)
 * [2023-10-23, 11:50:14](https://news.ycombinator.com/item?id=37984362) - [Orcas are learning terrifying new behaviors. Are they getting smarter?](https://www.livescience.com/animals/orcas/orcas-are-learning-terrifying-new-behaviors-are-they-getting-smarter)
