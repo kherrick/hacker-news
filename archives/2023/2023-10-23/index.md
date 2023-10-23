@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 11:20:08](https://news.ycombinator.com/item?id=37984102) - [New Requirements to Travel to Europe](https://travel-europe.europa.eu/etias_en)
 * [2023-10-23, 11:00:58](https://news.ycombinator.com/item?id=37983978) - [Millions of smart meters will brick it when 2G and 3G turns off](https://www.theregister.com/2023/10/23/millions_of_smart_meters_will/)
 * [2023-10-23, 10:50:10](https://news.ycombinator.com/item?id=37983903) - [Woman wins 12-year legal battle against Google](https://www.abc.net.au/news/2023-10-23/janice-duffy-wins-12-year-legal-battle-against-google/103008954)
 * [2023-10-23, 10:39:09](https://news.ycombinator.com/item?id=37983821) - [AMD wants to know if you would like Ryzen AI support for Linux](https://github.com/amd/RyzenAI-SW/issues/2)
