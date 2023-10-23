@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-23, 20:42:19",
+      "https://news.ycombinator.com/item?id=37991295"
+    ],
+    [
+      "How does macOS manage virtual cores on Apple Silicon?",
+      "https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 20:18:46",
+      "https://news.ycombinator.com/item?id=37990990"
+    ],
+    [
+      "Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration",
+      "https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 19:59:33",
       "https://news.ycombinator.com/item?id=37990750"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2023-10-23, 19:59:17",
+      "https://news.ycombinator.com/item?id=37990745"
+    ],
+    [
+      "NASA tweaks Voyager software to protect thrusters against gunge",
+      "https://newatlas.com/space/nasa-tweaks-voyager-software-protect-thrusters-against-gunge/"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 19:22:44",
       "https://news.ycombinator.com/item?id=37990338"
     ],
     [
       "The GitHub Black Market That Helps Coders Cheat the Popularity Contest",
       "https://www.wired.com/story/github-stars-black-market-coders-cheat/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 19:10:08",
-      "https://news.ycombinator.com/item?id=37990180"
-    ],
-    [
-      "Generators are dead, long live coroutines, generators are back",
-      "https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-10-23, 17:51:27",
-      "https://news.ycombinator.com/item?id=37989132"
-    ],
-    [
-      "Google faces antitrust probe in Japan for pushing search default",
-      "https://english.kyodonews.net/news/2023/10/d2b4990f6c0f-japans-antitrust-watchdog-probes-google-for-pushing-search-default.html"
-    ]
-  ],
-  [
-    [
       "2023-10-23, 17:11:33",
       "https://news.ycombinator.com/item?id=37988585"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37987573"
     ],
     [
-      "UK Government Caught Surveilling Social Media of Teaching Assistants",
+      "UK government surveilling social media of teaching assistants",
       "https://reclaimthenet.org/uk-government-caught-surveilling-social-media-of-teaching-assistants-and-librarians"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Building a unikernel that runs WebAssembly – part 1",
       "https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 05:28:41",
-      "https://news.ycombinator.com/item?id=37981939"
-    ],
-    [
-      "Base64 Encoding, Explained",
-      "https://www.akshaykhot.com/base64-encoding-explained/"
     ]
   ],
   [
