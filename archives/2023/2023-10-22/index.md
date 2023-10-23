@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 23:14:25](https://news.ycombinator.com/item?id=37979930) - [The heaviness of maintaining systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
 * [2023-10-22, 22:53:16](https://news.ycombinator.com/item?id=37979793) - [Dismantle the Censorship-Industrial Complex: The Westminster Declaration](https://www.racket.news/p/dismantle-the-censorship-industrial)
 * [2023-10-22, 22:51:44](https://news.ycombinator.com/item?id=37979787) - [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
 * [2023-10-22, 22:46:04](https://news.ycombinator.com/item?id=37979758) - [Dune 3D – an open source parametric 3D CAD app bassed on OCCT](https://dune3d.org/)
