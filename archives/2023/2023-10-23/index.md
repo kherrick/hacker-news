@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 07:21:55](https://news.ycombinator.com/item?id=37982495) - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
+* [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
 * [2023-10-23, 06:11:13](https://news.ycombinator.com/item?id=37982149) - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
 * [2023-10-23, 06:08:43](https://news.ycombinator.com/item?id=37982137) - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
