@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-23, 19:32:33",
-      "https://news.ycombinator.com/item?id=37990441"
+      "2023-10-23, 19:59:33",
+      "https://news.ycombinator.com/item?id=37990750"
     ],
     [
-      "Leaving Twitter",
-      "https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter"
+      "New data poisoning tool lets artists fight back against generative AI",
+      "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Generators are dead, long live coroutines, generators are back",
       "https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 19:09:03",
-      "https://news.ycombinator.com/item?id=37990168"
-    ],
-    [
-      "Growing AI presence is re-energizing parts of San Francisco",
-      "https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "ChDB: Embedded OLAP SQL Engine Powered by ClickHouse",
       "https://github.com/chdb-io/chdb"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 12:13:55",
+      "https://news.ycombinator.com/item?id=37984567"
+    ],
+    [
+      "Object SHell",
+      "http://geophile.com/osh/"
     ]
   ],
   [
