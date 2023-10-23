@@ -9,6 +9,8 @@
 * [2023-10-23, 14:23:24](https://news.ycombinator.com/item?id=37986055) - [Windows 11: The number you have dialed has been disconnected](https://www.theregister.com/2023/10/23/column/)
 * [2023-10-23, 14:16:48](https://news.ycombinator.com/item?id=37985972) - [Martin Goetz, recipient of the first software patent, logs off at 93](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
 * [2023-10-23, 14:12:49](https://news.ycombinator.com/item?id=37985921) - [Riley Reid on AI: 'I Don't Want Porn to Get Left Behind'](https://www.404media.co/riley-reid-clona-ai-chatbot-virtual-companion/)
+* [2023-10-23, 14:01:50](https://news.ycombinator.com/item?id=37985779) - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
+* [2023-10-23, 14:01:47](https://news.ycombinator.com/item?id=37985777) - [Mock Service Worker(msw) releases v2.0](https://mswjs.io/blog/introducing-msw-2.0/)
 * [2023-10-23, 13:59:11](https://news.ycombinator.com/item?id=37985743) - [Former Google CEO Launched a Company with His Girlfriend. It's Not Going Well](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
 * [2023-10-23, 13:39:47](https://news.ycombinator.com/item?id=37985450) - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
 * [2023-10-23, 13:17:23](https://news.ycombinator.com/item?id=37985176) - [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
