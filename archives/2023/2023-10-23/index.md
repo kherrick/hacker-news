@@ -6,6 +6,7 @@
 
 * [2023-10-23, 21:31:48](https://news.ycombinator.com/item?id=37991863) - [1Password detects \"suspicious activity\" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 * [2023-10-23, 21:31:28](https://news.ycombinator.com/item?id=37991859) - [Twitter Files journalist tried to censor a Wikipedia editor](https://jaredkukura.substack.com/p/twitter-files-journalist-michael)
+* [2023-10-23, 21:27:16](https://news.ycombinator.com/item?id=37991826) - [Okta Support System Incident and 1Password](https://blog.1password.com/okta-incident/)
 * [2023-10-23, 21:19:45](https://news.ycombinator.com/item?id=37991746) - [Marcel the Shell](https://www.marceltheshell.org)
 * [2023-10-23, 21:00:05](https://news.ycombinator.com/item?id=37991517) - [End of an Era: Windows CE's final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
