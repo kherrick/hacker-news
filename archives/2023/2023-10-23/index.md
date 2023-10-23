@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 19:32:33](https://news.ycombinator.com/item?id=37990441) - [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
 * [2023-10-23, 19:24:29](https://news.ycombinator.com/item?id=37990354) - [Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
 * [2023-10-23, 19:22:44](https://news.ycombinator.com/item?id=37990338) - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 * [2023-10-23, 19:10:08](https://news.ycombinator.com/item?id=37990180) - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
@@ -15,9 +16,11 @@
 * [2023-10-23, 18:32:07](https://news.ycombinator.com/item?id=37989682) - [YouTube now blocking ad block](https://old.reddit.com/r/youtube/comments/17ac0ht/megathread_ad_blockers_are_now_blocked_on_youtube/)
 * [2023-10-23, 18:27:48](https://news.ycombinator.com/item?id=37989614) - [Embarrassingly Simple Text Watermarks](https://arxiv.org/abs/2310.08920)
 * [2023-10-23, 18:21:24](https://news.ycombinator.com/item?id=37989527) - [Prepare for a wave of US politicians to use AI in their campaigns](https://www.bloomberg.com/news/articles/2023-10-19/prepare-for-a-wave-of-us-politicians-to-use-ai-in-their-campaigns)
+* [2023-10-23, 18:12:05](https://news.ycombinator.com/item?id=37989413) - [Sandstorm, Tempest, and the Future](https://sandstorm.org/news/2023-10-23-sandstorm-tempest-and-the-future)
 * [2023-10-23, 18:01:36](https://news.ycombinator.com/item?id=37989269) - [Do You Need to Shower Every Day?](https://www.nytimes.com/2023/10/23/well/live/shower-every-day.html)
 * [2023-10-23, 17:53:47](https://news.ycombinator.com/item?id=37989160) - [Off-duty pilot tried to crash Alaska Airlines SFO flight, officials say](https://sfstandard.com/2023/10/23/sfo-alaska-airlines-pilot-crash-plane/)
 * [2023-10-23, 17:51:27](https://news.ycombinator.com/item?id=37989132) - [Google faces antitrust probe in Japan for pushing search default](https://english.kyodonews.net/news/2023/10/d2b4990f6c0f-japans-antitrust-watchdog-probes-google-for-pushing-search-default.html)
+* [2023-10-23, 17:51:20](https://news.ycombinator.com/item?id=37989130) - [Roblox Ryanair](https://www.robloxryanair.com)
 * [2023-10-23, 17:48:19](https://news.ycombinator.com/item?id=37989098) - [Melting in W. Antarctica 'unavoidable,' potentially disastrous sea level rise](https://www.cnn.com/2023/10/23/world/west-antarctic-ice-melt-climate/index.html)
 * [2023-10-23, 17:11:33](https://news.ycombinator.com/item?id=37988585) - [Casidoo on TinaCMS](https://blog.cassidoo.co/post/trying-tinacms/)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland Launches Ambitious Plan to Provide Citywide Dirt Cheap Broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
