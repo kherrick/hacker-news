@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 19:10:08](https://news.ycombinator.com/item?id=37990180) - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
+* [2023-10-23, 19:09:03](https://news.ycombinator.com/item?id=37990168) - [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
 * [2023-10-23, 18:46:07](https://news.ycombinator.com/item?id=37989875) - [How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 18:34:44](https://news.ycombinator.com/item?id=37989712) - [Reducing \"gate\" counts for Kyber-512 contradicting NIST's calculation](https://blog.cr.yp.to/20231023-clumping.html)
