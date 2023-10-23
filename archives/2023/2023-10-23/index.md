@@ -36,6 +36,7 @@
 * [2023-10-23, 12:41:46](https://news.ycombinator.com/item?id=37984838) - [Toyota nears mass production of solid-state batteries](https://www.ft.com/content/6224f235-568c-4e2f-8247-e7dacf0ef20c)
 * [2023-10-23, 12:30:15](https://news.ycombinator.com/item?id=37984719) - [The Sociopaths Among Us–and How to Avoid Them](https://www.theatlantic.com/ideas/archive/2023/10/dark-triads-toxic-personalities/675683/)
 * [2023-10-23, 12:26:33](https://news.ycombinator.com/item?id=37984684) - [Pro-Palestinian creators use secret spellings, words to evade social algorithms](https://www.washingtonpost.com/technology/2023/10/20/palestinian-tiktok-instagram-algospeak-israel-hamas/)
+* [2023-10-23, 12:13:55](https://news.ycombinator.com/item?id=37984567) - [Object SHell](http://geophile.com/osh/)
 * [2023-10-23, 12:13:53](https://news.ycombinator.com/item?id=37984566) - [Microsoft fixes the Excel feature that was wrecking scientific data](https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed)
 * [2023-10-23, 12:02:07](https://news.ycombinator.com/item?id=37984474) - [Regular Expression Laptop Stickers](https://store.robertelder.org/regular-expression-stickers-20220121/)
 * [2023-10-23, 12:00:48](https://news.ycombinator.com/item?id=37984461) - [Dutch Cycling Lifestyle](https://dutchcyclinglifestyle.com/)
