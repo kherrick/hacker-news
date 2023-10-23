@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
 * [2023-10-23, 19:24:29](https://news.ycombinator.com/item?id=37990354) - [Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
+* [2023-10-23, 19:22:44](https://news.ycombinator.com/item?id=37990338) - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 * [2023-10-23, 19:10:08](https://news.ycombinator.com/item?id=37990180) - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
 * [2023-10-23, 19:09:03](https://news.ycombinator.com/item?id=37990168) - [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
 * [2023-10-23, 18:58:15](https://news.ycombinator.com/item?id=37990031) - [Google pulls up the ladder on open internet, pushes unconstitutional regulation](https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/)
@@ -12,6 +13,7 @@
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 18:34:44](https://news.ycombinator.com/item?id=37989712) - [Reducing \"gate\" counts for Kyber-512 contradicting NIST's calculation](https://blog.cr.yp.to/20231023-clumping.html)
 * [2023-10-23, 18:32:07](https://news.ycombinator.com/item?id=37989682) - [YouTube now blocking ad block](https://old.reddit.com/r/youtube/comments/17ac0ht/megathread_ad_blockers_are_now_blocked_on_youtube/)
+* [2023-10-23, 18:27:48](https://news.ycombinator.com/item?id=37989614) - [Embarrassingly Simple Text Watermarks](https://arxiv.org/abs/2310.08920)
 * [2023-10-23, 18:21:24](https://news.ycombinator.com/item?id=37989527) - [Prepare for a wave of US politicians to use AI in their campaigns](https://www.bloomberg.com/news/articles/2023-10-19/prepare-for-a-wave-of-us-politicians-to-use-ai-in-their-campaigns)
 * [2023-10-23, 18:01:36](https://news.ycombinator.com/item?id=37989269) - [Do You Need to Shower Every Day?](https://www.nytimes.com/2023/10/23/well/live/shower-every-day.html)
 * [2023-10-23, 17:53:47](https://news.ycombinator.com/item?id=37989160) - [Off-duty pilot tried to crash Alaska Airlines SFO flight, officials say](https://sfstandard.com/2023/10/23/sfo-alaska-airlines-pilot-crash-plane/)
