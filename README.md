@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-23, 07:49:51](https://news.ycombinator.com/item?id=37982664) - [EU-funded report calls for wealth of super-rich to be taxed, not income](https://www.theguardian.com/business/2023/oct/22/eu-funded-report-calls-for-wealth-of-super-rich-to-be-taxed-not-income)
 * [2023-10-23, 07:21:55](https://news.ycombinator.com/item?id=37982495) - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
 * [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
@@ -13,6 +12,7 @@
 * [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
 * [2023-10-23, 01:33:04](https://news.ycombinator.com/item?id=37980626) - [National Center for Home Food Preservation](https://nchfp.uga.edu/)
 * [2023-10-23, 00:33:39](https://news.ycombinator.com/item?id=37980323) - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
+* [2023-10-22, 22:46:04](https://news.ycombinator.com/item?id=37979758) - [Dune 3D – an open source parametric 3D CAD app bassed on OCCT](https://dune3d.org/)
 * [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
