@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 21:31:48](https://news.ycombinator.com/item?id=37991863) - [1Password detects \"suspicious activity\" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
+* [2023-10-23, 21:19:45](https://news.ycombinator.com/item?id=37991746) - [Marcel the Shell](https://www.marceltheshell.org)
 * [2023-10-23, 21:00:05](https://news.ycombinator.com/item?id=37991517) - [End of an Era: Windows CE's final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 20:18:46](https://news.ycombinator.com/item?id=37990990) - [Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
@@ -23,12 +25,10 @@
 * [2023-10-23, 13:00:13](https://news.ycombinator.com/item?id=37985005) - [ChDB: Embedded OLAP SQL Engine Powered by ClickHouse](https://github.com/chdb-io/chdb)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 10:44:35](https://news.ycombinator.com/item?id=37983864) - [William and Mary by Roald Dahl (1959)](https://user.ceng.metu.edu.tr/~ucoluk/yazin/William_and_Mary.html)
-* [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 08:05:02](https://news.ycombinator.com/item?id=37982776) - [Lets Have Three Abstraction Layers](https://minimal.app/Z0ndOgmj)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
 * [2023-10-23, 07:26:14](https://news.ycombinator.com/item?id=37982524) - [How to Fetch a Turbo Stream](https://www.ducktypelabs.com/how-to-fetch-a-turbo-stream/)
 * [2023-10-23, 07:13:18](https://news.ycombinator.com/item?id=37982447) - [Abusing GDB Features for Data Ingress and Egress](https://www.archcloudlabs.com/projects/debuginfod/)
-* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 13:38:37](https://news.ycombinator.com/item?id=37975248) - [Four historians tell us a ghost story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
 
 ## [Archives](archives/index.md)
