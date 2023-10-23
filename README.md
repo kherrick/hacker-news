@@ -2,6 +2,7 @@
 
 * [2023-10-23, 02:06:42](https://news.ycombinator.com/item?id=37980822) - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
 * [2023-10-23, 02:01:17](https://news.ycombinator.com/item?id=37980791) - [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
+* [2023-10-23, 01:35:45](https://news.ycombinator.com/item?id=37980649) - [Testosterone parties: the latest Silicon Valley fad](https://english.elpais.com/lifestyle/2023-10-10/testosterone-parties-the-latest-silicon-valley-fad.html)
 * [2023-10-23, 01:30:05](https://news.ycombinator.com/item?id=37980609) - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
 * [2023-10-23, 01:24:07](https://news.ycombinator.com/item?id=37980585) - [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
 * [2023-10-23, 00:54:00](https://news.ycombinator.com/item?id=37980416) - [The Long, Sad History of American Attempts to Build High-Speed Rail, Part II](https://www.construction-physics.com/p/the-long-sad-history-of-american-971)
@@ -10,7 +11,6 @@
 * [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
-* [2023-10-22, 19:01:18](https://news.ycombinator.com/item?id=37978084) - [EPA fast-tracking of gene-altering pesticide sparks concerns](https://www.thenewlede.org/2023/10/epa-fast-tracking-of-gene-altering-pesticide-sparks-concerns/)
 * [2023-10-22, 18:58:28](https://news.ycombinator.com/item?id=37978060) - [OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
 * [2023-10-22, 18:47:17](https://news.ycombinator.com/item?id=37977957) - [LX Studio: Tools for 3D Lighting](https://lx.studio/)
 * [2023-10-22, 18:43:30](https://news.ycombinator.com/item?id=37977938) - [How to Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/)
