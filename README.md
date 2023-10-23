@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 21:00:05](https://news.ycombinator.com/item?id=37991517) - [End of an Era: Windows CE's final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 20:18:46](https://news.ycombinator.com/item?id=37990990) - [Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
 * [2023-10-23, 19:59:33](https://news.ycombinator.com/item?id=37990750) - [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
@@ -12,7 +13,6 @@
 * [2023-10-23, 18:21:24](https://news.ycombinator.com/item?id=37989527) - [Prepare for a wave of US politicians to use AI in their campaigns](https://www.bloomberg.com/news/articles/2023-10-19/prepare-for-a-wave-of-us-politicians-to-use-ai-in-their-campaigns)
 * [2023-10-23, 18:12:05](https://news.ycombinator.com/item?id=37989413) - [Sandstorm, Tempest, and the Future](https://sandstorm.org/news/2023-10-23-sandstorm-tempest-and-the-future)
 * [2023-10-23, 17:11:33](https://news.ycombinator.com/item?id=37988585) - [Casidoo on TinaCMS](https://blog.cassidoo.co/post/trying-tinacms/)
-* [2023-10-23, 17:09:48](https://news.ycombinator.com/item?id=37988560) - [Unavoidable future increase in West Antarctic ice-shelf melting over 21 century](https://www.nature.com/articles/s41558-023-01818-x)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 16:21:09](https://news.ycombinator.com/item?id=37987877) - [Show HN: Autolicious – AI-powered bookmark cataloging Chrome extension](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
