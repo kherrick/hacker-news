@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 03:46:04](https://news.ycombinator.com/item?id=37981391) - [More Than 400k Student Loan Borrowers Had Wrong Monthly Payments](https://www.nytimes.com/2023/10/16/your-money/student-loans-save-mistakes.html)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
+* [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
 * [2023-10-23, 03:06:43](https://news.ycombinator.com/item?id=37981149) - [Ask HN: How's your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
 * [2023-10-23, 03:01:44](https://news.ycombinator.com/item?id=37981125) - [Police raid mosque in Moscow, forcibly take worshippers to enlistment office](https://meduza.io/en/news/2023/10/22/riot-police-raid-mosque-in-moscow-region-forcibly-taking-worshippers-to-military-enlistment-office)
 * [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)

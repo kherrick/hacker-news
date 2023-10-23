@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 03:46:04](https://news.ycombinator.com/item?id=37981391) - [More Than 400k Student Loan Borrowers Had Wrong Monthly Payments](https://www.nytimes.com/2023/10/16/your-money/student-loans-save-mistakes.html)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
+* [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
 * [2023-10-23, 03:06:43](https://news.ycombinator.com/item?id=37981149) - [Ask HN: How's your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
 * [2023-10-23, 02:06:42](https://news.ycombinator.com/item?id=37980822) - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
 * [2023-10-23, 01:30:05](https://news.ycombinator.com/item?id=37980609) - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
@@ -10,7 +12,6 @@
 * [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
-* [2023-10-22, 19:01:18](https://news.ycombinator.com/item?id=37978084) - [EPA fast-tracking of gene-altering pesticide sparks concerns](https://www.thenewlede.org/2023/10/epa-fast-tracking-of-gene-altering-pesticide-sparks-concerns/)
 * [2023-10-22, 18:58:28](https://news.ycombinator.com/item?id=37978060) - [OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
 * [2023-10-22, 18:47:17](https://news.ycombinator.com/item?id=37977957) - [LX Studio: Tools for 3D Lighting](https://lx.studio/)
 * [2023-10-22, 18:43:30](https://news.ycombinator.com/item?id=37977938) - [How to Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/)
@@ -29,7 +30,6 @@
 * [2023-10-21, 11:33:28](https://news.ycombinator.com/item?id=37965947) - [Ruffle: Flash Player Emulator](https://ruffle.rs/)
 * [2023-10-20, 10:24:44](https://news.ycombinator.com/item?id=37954347) - [A Brief Introduction to Military Pillboxes](https://heritagecalling.com/2023/10/19/a-brief-introduction-to-military-pillboxes/)
 * [2023-10-20, 10:20:04](https://news.ycombinator.com/item?id=37954321) - [Maps.fm: listen a podcast episode about that place on the map](https://maps.fm/dl/783bbb)
-* [2023-10-19, 18:25:07](https://news.ycombinator.com/item?id=37946585) - [Engineering Management Checklist (2021)](http://pnewman.org/engineering_mgmt_checklist.txt)
 
 ## [Archives](archives/index.md)
 
