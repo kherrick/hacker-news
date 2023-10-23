@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-10-23, 13:06:02",
-      "https://news.ycombinator.com/item?id=37985062"
+      "2023-10-23, 13:17:23",
+      "https://news.ycombinator.com/item?id=37985176"
     ],
     [
-      "Billionaires should face a minimum tax rate, report says",
-      "https://www.bbc.com/news/business-67191791"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 12:41:46",
-      "https://news.ycombinator.com/item?id=37984838"
-    ],
-    [
-      "Toyota nears mass production of solid-state batteries",
-      "https://www.ft.com/content/6224f235-568c-4e2f-8247-e7dacf0ef20c"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 12:13:53",
-      "https://news.ycombinator.com/item?id=37984566"
-    ],
-    [
-      "Microsoft fixes the Excel feature that was wrecking scientific data",
-      "https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed"
+      "Software Disenchantment",
+      "https://tonsky.me/blog/disenchantment/"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2023-10-23, 07:21:55",
+      "https://news.ycombinator.com/item?id=37982495"
+    ],
+    [
+      "Why Japan Has Blue Traffic Lights Instead of Green",
+      "https://www.rd.com/article/heres-japan-blue-traffic-lights/"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 06:11:13",
       "https://news.ycombinator.com/item?id=37982149"
     ],
@@ -211,12 +201,22 @@
   ],
   [
     [
-      "2023-10-22, 22:46:04",
-      "https://news.ycombinator.com/item?id=37979758"
+      "2023-10-22, 20:15:08",
+      "https://news.ycombinator.com/item?id=37978687"
     ],
     [
-      "Dune 3D – an open source parametric 3D CAD app bassed on OCCT",
-      "https://dune3d.org/"
+      "Atomic Rocket",
+      "https://projectrho.com/public_html/rocket/index.php"
+    ]
+  ],
+  [
+    [
+      "2023-10-22, 18:58:28",
+      "https://news.ycombinator.com/item?id=37978060"
+    ],
+    [
+      "OpenTelemetry at Scale: Using Kafka to handle bursty traffic",
+      "https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/"
     ]
   ],
   [
