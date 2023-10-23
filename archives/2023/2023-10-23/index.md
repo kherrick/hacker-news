@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 18:46:07](https://news.ycombinator.com/item?id=37989875) - [How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
+* [2023-10-23, 18:34:44](https://news.ycombinator.com/item?id=37989712) - [Reducing \"gate\" counts for Kyber-512 contradicting NIST's calculation](https://blog.cr.yp.to/20231023-clumping.html)
+* [2023-10-23, 18:32:07](https://news.ycombinator.com/item?id=37989682) - [YouTube now blocking ad block](https://old.reddit.com/r/youtube/comments/17ac0ht/megathread_ad_blockers_are_now_blocked_on_youtube/)
 * [2023-10-23, 18:21:24](https://news.ycombinator.com/item?id=37989527) - [Prepare for a wave of US politicians to use AI in their campaigns](https://www.bloomberg.com/news/articles/2023-10-19/prepare-for-a-wave-of-us-politicians-to-use-ai-in-their-campaigns)
 * [2023-10-23, 18:01:36](https://news.ycombinator.com/item?id=37989269) - [Do You Need to Shower Every Day?](https://www.nytimes.com/2023/10/23/well/live/shower-every-day.html)
 * [2023-10-23, 17:53:47](https://news.ycombinator.com/item?id=37989160) - [Off-duty pilot tried to crash Alaska Airlines SFO flight, officials say](https://sfstandard.com/2023/10/23/sfo-alaska-airlines-pilot-crash-plane/)
