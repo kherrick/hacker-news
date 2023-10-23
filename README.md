@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 09:49:47](https://news.ycombinator.com/item?id=37983511) - [The Heart is not a Pump](https://rsarchive.org/OtherAuthors/MarinelliRalph/marinelli1.html)
 * [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 09:24:08](https://news.ycombinator.com/item?id=37983349) - [Orcas that hunted alongside humans might be extinct](https://www.livescience.com/animals/orcas-that-hunted-alongside-humans-might-be-extinct)
 * [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
@@ -17,7 +18,6 @@
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
 * [2023-10-22, 18:58:28](https://news.ycombinator.com/item?id=37978060) - [OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
-* [2023-10-22, 18:47:17](https://news.ycombinator.com/item?id=37977957) - [LX Studio: Tools for 3D Lighting](https://lx.studio/)
 * [2023-10-22, 18:43:30](https://news.ycombinator.com/item?id=37977938) - [How to Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 16:41:25](https://news.ycombinator.com/item?id=37976894) - [How to Make a CPU – A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
