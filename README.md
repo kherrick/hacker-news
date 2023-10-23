@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 05:51:54](https://news.ycombinator.com/item?id=37982049) - [Excel will allow certain auto data conversions to be turned off](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 * [2023-10-23, 05:03:03](https://news.ycombinator.com/item?id=37981813) - [Meta reveals serverless platform processing trillions of function calls a day](https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
 * [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
@@ -20,7 +21,6 @@
 * [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture (2017)](https://c4model.com/)
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Stealing OAuth tokens of Microsoft accounts via open redirect in Harvest App](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
-* [2023-10-22, 04:21:47](https://news.ycombinator.com/item?id=37972793) - [Open Source Firmware Conference](https://www.osfc.io/)
 * [2023-10-22, 04:21:29](https://news.ycombinator.com/item?id=37972792) - [USS Recruit (1917): The Wooden Dreadnought in Manhattan's Union Square](https://www.warhistoryonline.com/ships/uss-recruit-1917.html)
 * [2023-10-22, 00:04:48](https://news.ycombinator.com/item?id=37971648) - [Origins of the 3.5in Floppy Disk [video]](https://www.youtube.com/watch?v=djsyVgTGaRk)
 * [2023-10-21, 22:50:05](https://news.ycombinator.com/item?id=37971198) - [Please be dying, but not too quickly, part 2: The patient's perspective](https://bessstillman.substack.com/p/please-be-dying-but-not-too-quickly-199)
