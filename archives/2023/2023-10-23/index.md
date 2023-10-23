@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 14:16:48](https://news.ycombinator.com/item?id=37985972) - [Martin Goetz, recipient of the first software patent, logs off at 93](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
 * [2023-10-23, 14:12:49](https://news.ycombinator.com/item?id=37985921) - [Riley Reid on AI: 'I Don't Want Porn to Get Left Behind'](https://www.404media.co/riley-reid-clona-ai-chatbot-virtual-companion/)
 * [2023-10-23, 13:59:11](https://news.ycombinator.com/item?id=37985743) - [Former Google CEO Launched a Company with His Girlfriend. It's Not Going Well](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
 * [2023-10-23, 13:39:47](https://news.ycombinator.com/item?id=37985450) - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
@@ -17,6 +18,7 @@
 * [2023-10-23, 11:52:23](https://news.ycombinator.com/item?id=37984382) - [Earth Stopped Getting Greener 20 Years Ago](https://www.scientificamerican.com/article/earth-stopped-getting-greener-20-years-ago/)
 * [2023-10-23, 11:50:14](https://news.ycombinator.com/item?id=37984362) - [Orcas are learning terrifying new behaviors. Are they getting smarter?](https://www.livescience.com/animals/orcas/orcas-are-learning-terrifying-new-behaviors-are-they-getting-smarter)
 * [2023-10-23, 11:35:58](https://news.ycombinator.com/item?id=37984224) - [Minimum 15% global corporate tax has too many loopholes](https://fortune.com/2023/10/23/minimum-15-global-corporate-tax-loopholes-generate-half-revenue-expected-eu-tax-observatory/)
+* [2023-10-23, 11:21:17](https://news.ycombinator.com/item?id=37984108) - [Thousands of drivers have sensitive data exposed to hackers in major IT breach](https://www.independent.ie/irish-news/thousands-of-drivers-have-sensitive-data-exposed-to-hackers-in-major-it-breach/a1379036136.html)
 * [2023-10-23, 11:20:08](https://news.ycombinator.com/item?id=37984102) - [New Requirements to Travel to Europe](https://travel-europe.europa.eu/etias_en)
 * [2023-10-23, 11:00:58](https://news.ycombinator.com/item?id=37983978) - [Millions of smart meters will brick it when 2G and 3G turns off](https://www.theregister.com/2023/10/23/millions_of_smart_meters_will/)
 * [2023-10-23, 10:50:10](https://news.ycombinator.com/item?id=37983903) - [Woman wins 12-year legal battle against Google](https://www.abc.net.au/news/2023-10-23/janice-duffy-wins-12-year-legal-battle-against-google/103008954)
