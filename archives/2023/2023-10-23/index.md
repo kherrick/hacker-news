@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 16:28:14](https://news.ycombinator.com/item?id=37987973) - [There's Never Been a Worse Time to Buy Instead of Rent](https://www.wsj.com/economy/housing/theres-never-been-a-worse-time-to-buy-instead-of-rent-bd3e80d9)
 * [2023-10-23, 16:18:17](https://news.ycombinator.com/item?id=37987833) - [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
 * [2023-10-23, 15:26:30](https://news.ycombinator.com/item?id=37987061) - [Common fungus candida albicans might fuel Alzheimer's onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
 * [2023-10-23, 14:59:37](https://news.ycombinator.com/item?id=37986584) - [LinkedIn Issues Warning to Site Shaming Pro-Palestinian Sentiment](https://www.nytimes.com/2023/10/22/world/middleeast/anti-israel-workers-website-linkedin.html)

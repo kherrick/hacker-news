@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 16:28:14](https://news.ycombinator.com/item?id=37987973) - [There's Never Been a Worse Time to Buy Instead of Rent](https://www.wsj.com/economy/housing/theres-never-been-a-worse-time-to-buy-instead-of-rent-bd3e80d9)
 * [2023-10-23, 16:18:17](https://news.ycombinator.com/item?id=37987833) - [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
 * [2023-10-23, 15:26:30](https://news.ycombinator.com/item?id=37987061) - [Common fungus candida albicans might fuel Alzheimer's onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
 * [2023-10-23, 14:59:37](https://news.ycombinator.com/item?id=37986584) - [LinkedIn Issues Warning to Site Shaming Pro-Palestinian Sentiment](https://www.nytimes.com/2023/10/22/world/middleeast/anti-israel-workers-website-linkedin.html)
@@ -15,7 +16,6 @@
 * [2023-10-23, 11:52:23](https://news.ycombinator.com/item?id=37984382) - [Earth Stopped Getting Greener 20 Years Ago](https://www.scientificamerican.com/article/earth-stopped-getting-greener-20-years-ago/)
 * [2023-10-23, 10:50:10](https://news.ycombinator.com/item?id=37983903) - [Woman wins 12-year legal battle against Google](https://www.abc.net.au/news/2023-10-23/janice-duffy-wins-12-year-legal-battle-against-google/103008954)
 * [2023-10-23, 10:44:35](https://news.ycombinator.com/item?id=37983864) - [William and Mary by Roald Dahl (1959)](https://user.ceng.metu.edu.tr/~ucoluk/yazin/William_and_Mary.html)
-* [2023-10-23, 10:34:24](https://news.ycombinator.com/item?id=37983789) - [Show HN: A virtual office for remote work](https://ploito.com/en)
 * [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 08:29:13](https://news.ycombinator.com/item?id=37982948) - [Raspberry Pi 5: available now](https://www.raspberrypi.com/news/raspberry-pi-5-available-now/)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
@@ -23,13 +23,13 @@
 * [2023-10-23, 07:13:18](https://news.ycombinator.com/item?id=37982447) - [Abusing GDB Features for Data Ingress and Egress](https://www.archcloudlabs.com/projects/debuginfod/)
 * [2023-10-23, 06:11:13](https://news.ycombinator.com/item?id=37982149) - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
 * [2023-10-23, 06:08:43](https://news.ycombinator.com/item?id=37982137) - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
-* [2023-10-23, 05:51:54](https://news.ycombinator.com/item?id=37982049) - [Excel will allow certain auto data conversions to be turned off](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 * [2023-10-23, 05:28:41](https://news.ycombinator.com/item?id=37981939) - [Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
 * [2023-10-23, 04:35:25](https://news.ycombinator.com/item?id=37981683) - [Show HN: Pypipe – A Python command-line tool for pipeline processing](https://github.com/bugen/pypipe)
 * [2023-10-23, 01:33:04](https://news.ycombinator.com/item?id=37980626) - [National Center for Home Food Preservation](https://nchfp.uga.edu/)
 * [2023-10-22, 23:14:25](https://news.ycombinator.com/item?id=37979930) - [The heaviness of maintaining systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 13:38:37](https://news.ycombinator.com/item?id=37975248) - [Four historians tell us a ghost story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
+* [2023-10-22, 00:04:48](https://news.ycombinator.com/item?id=37971648) - [Origins of the 3.5in Floppy Disk [video]](https://www.youtube.com/watch?v=djsyVgTGaRk)
 
 ## [Archives](archives/index.md)
 
