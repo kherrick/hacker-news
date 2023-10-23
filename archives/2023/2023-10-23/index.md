@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 14:12:49](https://news.ycombinator.com/item?id=37985921) - [Riley Reid on AI: 'I Don't Want Porn to Get Left Behind'](https://www.404media.co/riley-reid-clona-ai-chatbot-virtual-companion/)
+* [2023-10-23, 13:59:11](https://news.ycombinator.com/item?id=37985743) - [Former Google CEO Launched a Company with His Girlfriend. It's Not Going Well](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
+* [2023-10-23, 13:39:47](https://news.ycombinator.com/item?id=37985450) - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
 * [2023-10-23, 13:17:23](https://news.ycombinator.com/item?id=37985176) - [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
 * [2023-10-23, 13:06:02](https://news.ycombinator.com/item?id=37985062) - [Billionaires should face a minimum tax rate, report says](https://www.bbc.com/news/business-67191791)
 * [2023-10-23, 12:41:46](https://news.ycombinator.com/item?id=37984838) - [Toyota nears mass production of solid-state batteries](https://www.ft.com/content/6224f235-568c-4e2f-8247-e7dacf0ef20c)
