@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
+* [2023-10-23, 20:18:46](https://news.ycombinator.com/item?id=37990990) - [Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
 * [2023-10-23, 20:10:28](https://news.ycombinator.com/item?id=37990885) - [Tell HN: use “then” to talk about time or order, use “than” to make comparisons](https://news.ycombinator.com/item?id=37990885)
 * [2023-10-23, 19:59:33](https://news.ycombinator.com/item?id=37990750) - [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
+* [2023-10-23, 19:59:17](https://news.ycombinator.com/item?id=37990745) - [NASA tweaks Voyager software to protect thrusters against gunge](https://newatlas.com/space/nasa-tweaks-voyager-software-protect-thrusters-against-gunge/)
 * [2023-10-23, 19:32:33](https://news.ycombinator.com/item?id=37990441) - [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
 * [2023-10-23, 19:24:29](https://news.ycombinator.com/item?id=37990354) - [Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
 * [2023-10-23, 19:22:44](https://news.ycombinator.com/item?id=37990338) - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
