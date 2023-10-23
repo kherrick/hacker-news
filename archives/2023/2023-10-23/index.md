@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
+* [2023-10-23, 18:21:24](https://news.ycombinator.com/item?id=37989527) - [Prepare for a wave of US politicians to use AI in their campaigns](https://www.bloomberg.com/news/articles/2023-10-19/prepare-for-a-wave-of-us-politicians-to-use-ai-in-their-campaigns)
+* [2023-10-23, 18:01:36](https://news.ycombinator.com/item?id=37989269) - [Do You Need to Shower Every Day?](https://www.nytimes.com/2023/10/23/well/live/shower-every-day.html)
 * [2023-10-23, 17:53:47](https://news.ycombinator.com/item?id=37989160) - [Off-duty pilot tried to crash Alaska Airlines SFO flight, officials say](https://sfstandard.com/2023/10/23/sfo-alaska-airlines-pilot-crash-plane/)
 * [2023-10-23, 17:51:27](https://news.ycombinator.com/item?id=37989132) - [Google faces antitrust probe in Japan for pushing search default](https://english.kyodonews.net/news/2023/10/d2b4990f6c0f-japans-antitrust-watchdog-probes-google-for-pushing-search-default.html)
 * [2023-10-23, 17:48:19](https://news.ycombinator.com/item?id=37989098) - [Melting in W. Antarctica 'unavoidable,' potentially disastrous sea level rise](https://www.cnn.com/2023/10/23/world/west-antarctic-ice-melt-climate/index.html)
@@ -13,6 +16,7 @@
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDR's to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 16:31:26](https://news.ycombinator.com/item?id=37988021) - [Teens Want Parents to Track Their Phones and Monitor Their Every Move](https://www.wsj.com/tech/personal-tech/track-my-phone-teens-feel-safer-when-parents-monitor-7ad437ff)
 * [2023-10-23, 16:28:14](https://news.ycombinator.com/item?id=37987973) - [There's Never Been a Worse Time to Buy Instead of Rent](https://www.wsj.com/economy/housing/theres-never-been-a-worse-time-to-buy-instead-of-rent-bd3e80d9)
+* [2023-10-23, 16:21:09](https://news.ycombinator.com/item?id=37987877) - [Show HN: Autolicious – AI-powered bookmark cataloging Chrome extension](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
 * [2023-10-23, 16:18:17](https://news.ycombinator.com/item?id=37987833) - [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
 * [2023-10-23, 16:16:47](https://news.ycombinator.com/item?id=37987812) - [Off-duty pilot charged with 83 counts of attempted murder after security threat](https://abcnews.go.com/US/alaska-airlines-flight-diverted-after-credible-security-threat/story?id=104223059)
 * [2023-10-23, 15:58:52](https://news.ycombinator.com/item?id=37987573) - [UK Government Caught Surveilling Social Media of Teaching Assistants](https://reclaimthenet.org/uk-government-caught-surveilling-social-media-of-teaching-assistants-and-librarians)
