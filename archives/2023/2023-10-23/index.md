@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 23:15:29](https://news.ycombinator.com/item?id=37992893) - [1Password discloses security incident linked to Okta breach](https://www.bleepingcomputer.com/news/security/1password-discloses-security-incident-linked-to-okta-breach/)
 * [2023-10-23, 22:46:04](https://news.ycombinator.com/item?id=37992647) - [AI will never threaten humans, says top Meta scientist](https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6)
 * [2023-10-23, 21:41:06](https://news.ycombinator.com/item?id=37991963) - [H-1B Visa Program Changes Aimed at Stopping Applicants from Gaming Lottery](https://www.wsj.com/politics/policy/h-1b-visa-program-changes-aimed-at-stopping-applicants-from-gaming-lottery-3b962fb3)
 * [2023-10-23, 21:31:48](https://news.ycombinator.com/item?id=37991863) - [1Password detects \"suspicious activity\" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)

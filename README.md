@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 23:15:29](https://news.ycombinator.com/item?id=37992893) - [1Password discloses security incident linked to Okta breach](https://www.bleepingcomputer.com/news/security/1password-discloses-security-incident-linked-to-okta-breach/)
 * [2023-10-23, 21:41:06](https://news.ycombinator.com/item?id=37991963) - [H-1B Visa Program Changes Aimed at Stopping Applicants from Gaming Lottery](https://www.wsj.com/politics/policy/h-1b-visa-program-changes-aimed-at-stopping-applicants-from-gaming-lottery-3b962fb3)
 * [2023-10-23, 21:19:45](https://news.ycombinator.com/item?id=37991746) - [Marcel the Shell](https://www.marceltheshell.org)
-* [2023-10-23, 21:00:05](https://news.ycombinator.com/item?id=37991517) - [Windows CE's final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 * [2023-10-23, 20:53:19](https://news.ycombinator.com/item?id=37991439) - [Tech: iCloud+ 6 and 12 Terabyte Plans and Apple One Premier Issues](https://adamchandler.me/blog/2023/09/18/tech-icloud-6-12-terabyte-plans-apple-one-premier-issues/)
 * [2023-10-23, 20:46:58](https://news.ycombinator.com/item?id=37991349) - [Tesla discloses DOJ probes over vehicle range, personal benefits and more](https://www.cnbc.com/2023/10/23/tesla-discloses-doj-probes-over-vehicle-range-personal-benefits-more.html)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
