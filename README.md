@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 21:31:28](https://news.ycombinator.com/item?id=37991859) - [Twitter Files journalist tried to censor a Wikipedia editor](https://jaredkukura.substack.com/p/twitter-files-journalist-michael)
 * [2023-10-23, 21:00:05](https://news.ycombinator.com/item?id=37991517) - [End of an Era: Windows CE's final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 20:18:46](https://news.ycombinator.com/item?id=37990990) - [Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
@@ -28,7 +29,6 @@
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
 * [2023-10-23, 07:26:14](https://news.ycombinator.com/item?id=37982524) - [How to Fetch a Turbo Stream](https://www.ducktypelabs.com/how-to-fetch-a-turbo-stream/)
 * [2023-10-23, 07:13:18](https://news.ycombinator.com/item?id=37982447) - [Abusing GDB Features for Data Ingress and Egress](https://www.archcloudlabs.com/projects/debuginfod/)
-* [2023-10-22, 23:14:25](https://news.ycombinator.com/item?id=37979930) - [The heaviness of maintaining systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
 * [2023-10-22, 13:38:37](https://news.ycombinator.com/item?id=37975248) - [Four historians tell us a ghost story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
 
 ## [Archives](archives/index.md)
