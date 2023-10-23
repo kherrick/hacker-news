@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 06:08:43](https://news.ycombinator.com/item?id=37982137) - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
 * [2023-10-23, 05:51:54](https://news.ycombinator.com/item?id=37982049) - [Excel will allow certain auto data conversions to be turned off](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
+* [2023-10-23, 05:48:55](https://news.ycombinator.com/item?id=37982030) - [Project Euler](https://projecteuler.net/)
+* [2023-10-23, 05:28:41](https://news.ycombinator.com/item?id=37981939) - [Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
 * [2023-10-23, 05:03:03](https://news.ycombinator.com/item?id=37981813) - [Meta reveals serverless platform processing trillions of function calls a day](https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained)
 * [2023-10-23, 03:46:04](https://news.ycombinator.com/item?id=37981391) - [More Than 400k Student Loan Borrowers Had Wrong Monthly Payments](https://www.nytimes.com/2023/10/16/your-money/student-loans-save-mistakes.html)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
@@ -15,6 +18,7 @@
 * [2023-10-23, 02:06:42](https://news.ycombinator.com/item?id=37980822) - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
 * [2023-10-23, 02:01:17](https://news.ycombinator.com/item?id=37980791) - [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
 * [2023-10-23, 01:35:45](https://news.ycombinator.com/item?id=37980649) - [Testosterone parties: the latest Silicon Valley fad](https://english.elpais.com/lifestyle/2023-10-10/testosterone-parties-the-latest-silicon-valley-fad.html)
+* [2023-10-23, 01:33:04](https://news.ycombinator.com/item?id=37980626) - [National Center for Home Food Preservation](https://nchfp.uga.edu/)
 * [2023-10-23, 01:30:05](https://news.ycombinator.com/item?id=37980609) - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
 * [2023-10-23, 01:24:07](https://news.ycombinator.com/item?id=37980585) - [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
 * [2023-10-23, 00:54:00](https://news.ycombinator.com/item?id=37980416) - [The Long, Sad History of American Attempts to Build High-Speed Rail, Part II](https://www.construction-physics.com/p/the-long-sad-history-of-american-971)
