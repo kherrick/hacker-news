@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 13:06:02](https://news.ycombinator.com/item?id=37985062) - [Billionaires should face a minimum tax rate, report says](https://www.bbc.com/news/business-67191791)
+* [2023-10-23, 12:41:46](https://news.ycombinator.com/item?id=37984838) - [Toyota nears mass production of solid-state batteries](https://www.ft.com/content/6224f235-568c-4e2f-8247-e7dacf0ef20c)
+* [2023-10-23, 12:30:15](https://news.ycombinator.com/item?id=37984719) - [The Sociopaths Among Us–and How to Avoid Them](https://www.theatlantic.com/ideas/archive/2023/10/dark-triads-toxic-personalities/675683/)
+* [2023-10-23, 12:26:33](https://news.ycombinator.com/item?id=37984684) - [Pro-Palestinian creators use secret spellings, words to evade social algorithms](https://www.washingtonpost.com/technology/2023/10/20/palestinian-tiktok-instagram-algospeak-israel-hamas/)
 * [2023-10-23, 12:13:53](https://news.ycombinator.com/item?id=37984566) - [Microsoft fixes the Excel feature that was wrecking scientific data](https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 11:50:14](https://news.ycombinator.com/item?id=37984362) - [Orcas are learning terrifying new behaviors. Are they getting smarter?](https://www.livescience.com/animals/orcas/orcas-are-learning-terrifying-new-behaviors-are-they-getting-smarter)
