@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 07:49:51](https://news.ycombinator.com/item?id=37982664) - [EU-funded report calls for wealth of super-rich to be taxed, not income](https://www.theguardian.com/business/2023/oct/22/eu-funded-report-calls-for-wealth-of-super-rich-to-be-taxed-not-income)
 * [2023-10-23, 07:21:55](https://news.ycombinator.com/item?id=37982495) - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
 * [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
@@ -15,6 +16,7 @@
 * [2023-10-23, 05:12:29](https://news.ycombinator.com/item?id=37981863) - [Geolocating WSJ's \"Failed Rocket\"](https://github.com/sam158209/al-ahli-hospital-blast)
 * [2023-10-23, 05:03:03](https://news.ycombinator.com/item?id=37981813) - [Meta reveals serverless platform processing trillions of function calls a day](https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained)
 * [2023-10-23, 05:01:15](https://news.ycombinator.com/item?id=37981804) - [China is becoming a data black hole, says short seller Aandahl](https://theedgemalaysia.com/node/686676)
+* [2023-10-23, 04:35:25](https://news.ycombinator.com/item?id=37981683) - [Show HN: Pypipe – A Python command-line tool for pipeline processing](https://github.com/bugen/pypipe)
 * [2023-10-23, 03:46:04](https://news.ycombinator.com/item?id=37981391) - [More Than 400k Student Loan Borrowers Had Wrong Monthly Payments](https://www.nytimes.com/2023/10/16/your-money/student-loans-save-mistakes.html)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
 * [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
