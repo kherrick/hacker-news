@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-23, 19:32:33](https://news.ycombinator.com/item?id=37990441) - [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
+* [2023-10-23, 19:59:33](https://news.ycombinator.com/item?id=37990750) - [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 * [2023-10-23, 19:22:44](https://news.ycombinator.com/item?id=37990338) - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 * [2023-10-23, 19:10:08](https://news.ycombinator.com/item?id=37990180) - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
-* [2023-10-23, 19:09:03](https://news.ycombinator.com/item?id=37990168) - [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
 * [2023-10-23, 18:58:15](https://news.ycombinator.com/item?id=37990031) - [Google pulls up the ladder on open internet, pushes unconstitutional regulation](https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/)
 * [2023-10-23, 18:46:07](https://news.ycombinator.com/item?id=37989875) - [How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
@@ -19,6 +18,7 @@
 * [2023-10-23, 15:58:52](https://news.ycombinator.com/item?id=37987573) - [UK Government Caught Surveilling Social Media of Teaching Assistants](https://reclaimthenet.org/uk-government-caught-surveilling-social-media-of-teaching-assistants-and-librarians)
 * [2023-10-23, 14:01:47](https://news.ycombinator.com/item?id=37985777) - [MSW 2.0 – Mock Service Worker](https://mswjs.io/blog/introducing-msw-2.0/)
 * [2023-10-23, 13:00:13](https://news.ycombinator.com/item?id=37985005) - [ChDB: Embedded OLAP SQL Engine Powered by ClickHouse](https://github.com/chdb-io/chdb)
+* [2023-10-23, 12:13:55](https://news.ycombinator.com/item?id=37984567) - [Object SHell](http://geophile.com/osh/)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 10:44:35](https://news.ycombinator.com/item?id=37983864) - [William and Mary by Roald Dahl (1959)](https://user.ceng.metu.edu.tr/~ucoluk/yazin/William_and_Mary.html)
 * [2023-10-23, 08:05:02](https://news.ycombinator.com/item?id=37982776) - [Lets Have Three Abstraction Layers](https://minimal.app/Z0ndOgmj)
