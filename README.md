@@ -2,7 +2,6 @@
 
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
 * [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
-* [2023-10-23, 03:01:44](https://news.ycombinator.com/item?id=37981125) - [Police raid mosque in Moscow, forcibly take worshippers to enlistment office](https://meduza.io/en/news/2023/10/22/riot-police-raid-mosque-in-moscow-region-forcibly-taking-worshippers-to-military-enlistment-office)
 * [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
 * [2023-10-23, 00:33:39](https://news.ycombinator.com/item?id=37980323) - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
 * [2023-10-22, 22:25:17](https://news.ycombinator.com/item?id=37979635) - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
@@ -17,6 +16,7 @@
 * [2023-10-22, 17:47:43](https://news.ycombinator.com/item?id=37977502) - [Beginners guide to building a hardware hacking lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
 * [2023-10-22, 16:41:25](https://news.ycombinator.com/item?id=37976894) - [How to Make a CPU – A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
 * [2023-10-22, 15:16:56](https://news.ycombinator.com/item?id=37976091) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
+* [2023-10-22, 15:01:57](https://news.ycombinator.com/item?id=37975944) - [Europe's largest copper producer is the victim of metal swindle worth $198M](https://fortune.com/2023/09/20/europe-largest-copper-producer-aurubis-victim-metal-heist-worth-198-million-insiders-involved/)
 * [2023-10-22, 11:43:47](https://news.ycombinator.com/item?id=37974525) - [A 15 pound computer to inspire young programmers (2011)](https://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young.html)
 * [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture (2017)](https://c4model.com/)
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Stealing OAuth tokens of Microsoft accounts via open redirect in Harvest App](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
