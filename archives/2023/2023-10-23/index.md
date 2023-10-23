@@ -17,6 +17,7 @@
 * [2023-10-23, 12:30:15](https://news.ycombinator.com/item?id=37984719) - [The Sociopaths Among Us–and How to Avoid Them](https://www.theatlantic.com/ideas/archive/2023/10/dark-triads-toxic-personalities/675683/)
 * [2023-10-23, 12:26:33](https://news.ycombinator.com/item?id=37984684) - [Pro-Palestinian creators use secret spellings, words to evade social algorithms](https://www.washingtonpost.com/technology/2023/10/20/palestinian-tiktok-instagram-algospeak-israel-hamas/)
 * [2023-10-23, 12:13:53](https://news.ycombinator.com/item?id=37984566) - [Microsoft fixes the Excel feature that was wrecking scientific data](https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed)
+* [2023-10-23, 12:02:07](https://news.ycombinator.com/item?id=37984474) - [Regular Expression Laptop Stickers](https://store.robertelder.org/regular-expression-stickers-20220121/)
 * [2023-10-23, 12:00:48](https://news.ycombinator.com/item?id=37984461) - [Dutch Cycling Lifestyle](https://dutchcyclinglifestyle.com/)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 11:52:23](https://news.ycombinator.com/item?id=37984382) - [Earth Stopped Getting Greener 20 Years Ago](https://www.scientificamerican.com/article/earth-stopped-getting-greener-20-years-ago/)
