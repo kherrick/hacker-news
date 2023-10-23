@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
 * [2023-10-23, 03:06:43](https://news.ycombinator.com/item?id=37981149) - [Ask HN: How's your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
-* [2023-10-23, 03:01:44](https://news.ycombinator.com/item?id=37981125) - [Police raid mosque in Moscow, forcibly take worshippers to enlistment office](https://meduza.io/en/news/2023/10/22/riot-police-raid-mosque-in-moscow-region-forcibly-taking-worshippers-to-military-enlistment-office)
-* [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
 * [2023-10-23, 02:06:42](https://news.ycombinator.com/item?id=37980822) - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
 * [2023-10-23, 01:30:05](https://news.ycombinator.com/item?id=37980609) - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
 * [2023-10-23, 00:54:00](https://news.ycombinator.com/item?id=37980416) - [The Long, Sad History of American Attempts to Build High-Speed Rail, Part II](https://www.construction-physics.com/p/the-long-sad-history-of-american-971)
@@ -24,6 +23,7 @@
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Stealing OAuth tokens of Microsoft accounts via open redirect in Harvest App](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 04:21:29](https://news.ycombinator.com/item?id=37972792) - [USS Recruit (1917): The Wooden Dreadnought in Manhattan's Union Square](https://www.warhistoryonline.com/ships/uss-recruit-1917.html)
+* [2023-10-22, 00:04:48](https://news.ycombinator.com/item?id=37971648) - [Origins of the 3.5in Floppy Disk [video]](https://www.youtube.com/watch?v=djsyVgTGaRk)
 * [2023-10-21, 21:01:51](https://news.ycombinator.com/item?id=37970391) - [Dave Cutler on Windows [video]](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-21, 17:03:12](https://news.ycombinator.com/item?id=37968559) - [Edgar Allan Poe's America](https://www.bunkhistory.org/resources/edgar-allan-poes-america)
 * [2023-10-21, 11:33:28](https://news.ycombinator.com/item?id=37965947) - [Ruffle: Flash Player Emulator](https://ruffle.rs/)
