@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
 * [2023-10-23, 03:06:43](https://news.ycombinator.com/item?id=37981149) - [Ask HN: How's your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
+* [2023-10-23, 03:01:44](https://news.ycombinator.com/item?id=37981125) - [Police raid mosque in Moscow, forcibly take worshippers to enlistment office](https://meduza.io/en/news/2023/10/22/riot-police-raid-mosque-in-moscow-region-forcibly-taking-worshippers-to-military-enlistment-office)
+* [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
 * [2023-10-23, 02:06:42](https://news.ycombinator.com/item?id=37980822) - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
 * [2023-10-23, 02:01:17](https://news.ycombinator.com/item?id=37980791) - [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
 * [2023-10-23, 01:35:45](https://news.ycombinator.com/item?id=37980649) - [Testosterone parties: the latest Silicon Valley fad](https://english.elpais.com/lifestyle/2023-10-10/testosterone-parties-the-latest-silicon-valley-fad.html)
