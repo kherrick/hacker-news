@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 05:03:03](https://news.ycombinator.com/item?id=37981813) - [Meta reveals serverless platform processing trillions of function calls a day](https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
-* [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
 * [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
 * [2023-10-23, 00:33:39](https://news.ycombinator.com/item?id=37980323) - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
 * [2023-10-22, 22:25:17](https://news.ycombinator.com/item?id=37979635) - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)

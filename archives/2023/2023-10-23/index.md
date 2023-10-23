@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 05:03:03](https://news.ycombinator.com/item?id=37981813) - [Meta reveals serverless platform processing trillions of function calls a day](https://engineercodex.substack.com/p/meta-xfaas-serverless-functions-explained)
 * [2023-10-23, 03:46:04](https://news.ycombinator.com/item?id=37981391) - [More Than 400k Student Loan Borrowers Had Wrong Monthly Payments](https://www.nytimes.com/2023/10/16/your-money/student-loans-save-mistakes.html)
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
 * [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
