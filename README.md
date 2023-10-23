@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 17:48:19](https://news.ycombinator.com/item?id=37989098) - [Melting in W. Antarctica 'unavoidable,' potentially disastrous sea level rise](https://www.cnn.com/2023/10/23/world/west-antarctic-ice-melt-climate/index.html)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 16:16:47](https://news.ycombinator.com/item?id=37987812) - [Off-duty pilot charged with 83 counts of attempted murder after security threat](https://abcnews.go.com/US/alaska-airlines-flight-diverted-after-credible-security-threat/story?id=104223059)
@@ -10,7 +11,6 @@
 * [2023-10-23, 14:01:50](https://news.ycombinator.com/item?id=37985779) - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
 * [2023-10-23, 14:01:47](https://news.ycombinator.com/item?id=37985777) - [MSW 2.0 – Mock Service Worker](https://mswjs.io/blog/introducing-msw-2.0/)
 * [2023-10-23, 13:39:47](https://news.ycombinator.com/item?id=37985450) - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
-* [2023-10-23, 13:17:23](https://news.ycombinator.com/item?id=37985176) - [Software disenchantment](https://tonsky.me/blog/disenchantment/)
 * [2023-10-23, 13:00:18](https://news.ycombinator.com/item?id=37985007) - [Matter 1.2 – New device types and improvements](https://csa-iot.org/newsroom/matter-1-2-arrives-with-nine-new-device-types-improvements-across-the-board/)
 * [2023-10-23, 13:00:13](https://news.ycombinator.com/item?id=37985005) - [ChDB: Embedded OLAP SQL Engine Powered by ClickHouse](https://github.com/chdb-io/chdb)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)

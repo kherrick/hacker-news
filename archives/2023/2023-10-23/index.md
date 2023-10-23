@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 17:48:19](https://news.ycombinator.com/item?id=37989098) - [Melting in W. Antarctica 'unavoidable,' potentially disastrous sea level rise](https://www.cnn.com/2023/10/23/world/west-antarctic-ice-melt-climate/index.html)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland Launches Ambitious Plan to Provide Citywide Dirt Cheap Broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:03:04](https://news.ycombinator.com/item?id=37988451) - [It's Time to Tax Billionaires](https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDR's to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
