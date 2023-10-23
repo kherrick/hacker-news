@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
 * [2023-10-23, 06:11:13](https://news.ycombinator.com/item?id=37982149) - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
@@ -15,7 +16,6 @@
 * [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
 * [2023-10-22, 19:42:37](https://news.ycombinator.com/item?id=37978413) - [Marvelous Arithmetics of Distance](https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/)
-* [2023-10-22, 19:01:18](https://news.ycombinator.com/item?id=37978084) - [EPA fast-tracking of gene-altering pesticide sparks concerns](https://www.thenewlede.org/2023/10/epa-fast-tracking-of-gene-altering-pesticide-sparks-concerns/)
 * [2023-10-22, 18:58:28](https://news.ycombinator.com/item?id=37978060) - [OpenTelemetry at Scale: Using Kafka to handle bursty traffic](https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry/)
 * [2023-10-22, 18:47:17](https://news.ycombinator.com/item?id=37977957) - [LX Studio: Tools for 3D Lighting](https://lx.studio/)
 * [2023-10-22, 18:43:30](https://news.ycombinator.com/item?id=37977938) - [How to Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/)

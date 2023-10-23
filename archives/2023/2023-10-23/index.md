@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 07:49:51](https://news.ycombinator.com/item?id=37982664) - [EU-funded report calls for wealth of super-rich to be taxed, not income](https://www.theguardian.com/business/2023/oct/22/eu-funded-report-calls-for-wealth-of-super-rich-to-be-taxed-not-income)
 * [2023-10-23, 07:21:55](https://news.ycombinator.com/item?id=37982495) - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
 * [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
