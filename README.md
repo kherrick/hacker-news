@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 01:30:05](https://news.ycombinator.com/item?id=37980609) - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
 * [2023-10-23, 01:24:07](https://news.ycombinator.com/item?id=37980585) - [A Few Laws of Getting Rich](https://collabfund.com/blog/a-few-laws-of-getting-rich/)
 * [2023-10-23, 00:33:39](https://news.ycombinator.com/item?id=37980323) - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
-* [2023-10-22, 22:51:44](https://news.ycombinator.com/item?id=37979787) - [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
 * [2023-10-22, 22:25:17](https://news.ycombinator.com/item?id=37979635) - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
 * [2023-10-22, 20:15:08](https://news.ycombinator.com/item?id=37978687) - [Atomic Rocket](https://projectrho.com/public_html/rocket/index.php)
 * [2023-10-22, 19:50:03](https://news.ycombinator.com/item?id=37978483) - [Nanofiche: Small Storage, for Forever](https://www.archmission.org/nanofiche)
