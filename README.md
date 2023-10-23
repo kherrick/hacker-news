@@ -4,7 +4,6 @@
 * [2023-10-23, 03:35:48](https://news.ycombinator.com/item?id=37981323) - [The Japanese city that dominates street food – and no, it's not Tokyo](https://www.cnn.com/travel/fukuoka-japan-street-food-yatai-intl-hnk/index.html)
 * [2023-10-23, 03:31:00](https://news.ycombinator.com/item?id=37981294) - [Ask HN: What Happened to Hackerspaces?](https://news.ycombinator.com/item?id=37981294)
 * [2023-10-23, 03:06:43](https://news.ycombinator.com/item?id=37981149) - [Ask HN: How's your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
-* [2023-10-23, 02:06:42](https://news.ycombinator.com/item?id=37980822) - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
 * [2023-10-23, 01:30:05](https://news.ycombinator.com/item?id=37980609) - [Killings in the U.S. are dropping at a historic rate](https://www.latimes.com/politics/newsletter/2023-10-20/killings-in-the-u-s-are-dropping-at-an-historic-rate-will-anyone-notice-essential-politics)
 * [2023-10-23, 00:54:00](https://news.ycombinator.com/item?id=37980416) - [The Long, Sad History of American Attempts to Build High-Speed Rail, Part II](https://www.construction-physics.com/p/the-long-sad-history-of-american-971)
 * [2023-10-23, 00:33:39](https://news.ycombinator.com/item?id=37980323) - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
@@ -30,6 +29,7 @@
 * [2023-10-21, 11:33:28](https://news.ycombinator.com/item?id=37965947) - [Ruffle: Flash Player Emulator](https://ruffle.rs/)
 * [2023-10-20, 10:24:44](https://news.ycombinator.com/item?id=37954347) - [A Brief Introduction to Military Pillboxes](https://heritagecalling.com/2023/10/19/a-brief-introduction-to-military-pillboxes/)
 * [2023-10-20, 10:20:04](https://news.ycombinator.com/item?id=37954321) - [Maps.fm: listen a podcast episode about that place on the map](https://maps.fm/dl/783bbb)
+* [2023-10-19, 18:25:07](https://news.ycombinator.com/item?id=37946585) - [Engineering Management Checklist (2021)](http://pnewman.org/engineering_mgmt_checklist.txt)
 
 ## [Archives](archives/index.md)
 
