@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 13:17:23](https://news.ycombinator.com/item?id=37985176) - [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
 * [2023-10-23, 13:06:02](https://news.ycombinator.com/item?id=37985062) - [Billionaires should face a minimum tax rate, report says](https://www.bbc.com/news/business-67191791)
 * [2023-10-23, 12:41:46](https://news.ycombinator.com/item?id=37984838) - [Toyota nears mass production of solid-state batteries](https://www.ft.com/content/6224f235-568c-4e2f-8247-e7dacf0ef20c)
 * [2023-10-23, 12:30:15](https://news.ycombinator.com/item?id=37984719) - [The Sociopaths Among Us–and How to Avoid Them](https://www.theatlantic.com/ideas/archive/2023/10/dark-triads-toxic-personalities/675683/)
