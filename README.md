@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
-* [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
 * [2023-10-23, 06:11:13](https://news.ycombinator.com/item?id=37982149) - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
 * [2023-10-23, 06:08:43](https://news.ycombinator.com/item?id=37982137) - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
 * [2023-10-23, 05:51:54](https://news.ycombinator.com/item?id=37982049) - [Excel will allow certain auto data conversions to be turned off](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 * [2023-10-23, 05:28:41](https://news.ycombinator.com/item?id=37981939) - [Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
+* [2023-10-23, 05:24:45](https://news.ycombinator.com/item?id=37981925) - [Agora Clock](https://www.tindie.com/products/dadantech/agora-clock-v2/)
 * [2023-10-23, 05:01:15](https://news.ycombinator.com/item?id=37981804) - [China is becoming a data black hole, says short seller Aandahl](https://theedgemalaysia.com/node/686676)
 * [2023-10-23, 04:35:25](https://news.ycombinator.com/item?id=37981683) - [Show HN: Pypipe – A Python command-line tool for pipeline processing](https://github.com/bugen/pypipe)
 * [2023-10-23, 02:58:14](https://news.ycombinator.com/item?id=37981109) - [Thousands of programmable DNA-cutters found in algae, snails and other organisms](https://phys.org/news/2023-10-thousands-programmable-dna-cutters-algae-snails.html)
