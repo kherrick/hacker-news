@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 03:06:43](https://news.ycombinator.com/item?id=37981149) - [Ask HN: How's your job search going in this current economy?](https://news.ycombinator.com/item?id=37981149)
 * [2023-10-23, 02:06:42](https://news.ycombinator.com/item?id=37980822) - [The Sun's Magnetic Poles Are Vanishing](https://www.scientificamerican.com/article/the-suns-magnetic-poles-are-vanishing/)
 * [2023-10-23, 02:01:17](https://news.ycombinator.com/item?id=37980791) - [Why Children of Married Parents Do Better](https://text.npr.org/1207322878)
 * [2023-10-23, 01:35:45](https://news.ycombinator.com/item?id=37980649) - [Testosterone parties: the latest Silicon Valley fad](https://english.elpais.com/lifestyle/2023-10-10/testosterone-parties-the-latest-silicon-valley-fad.html)
