@@ -53,6 +53,7 @@
 * [2023-10-23, 07:49:51](https://news.ycombinator.com/item?id=37982664) - [EU-funded report calls for wealth of super-rich to be taxed, not income](https://www.theguardian.com/business/2023/oct/22/eu-funded-report-calls-for-wealth-of-super-rich-to-be-taxed-not-income)
 * [2023-10-23, 07:48:21](https://news.ycombinator.com/item?id=37982655) - [EU Chat Control Bill Postponed](https://tutanota.com/blog/chat-control-criticism)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
+* [2023-10-23, 07:26:14](https://news.ycombinator.com/item?id=37982524) - [How to Fetch a Turbo Stream](https://www.ducktypelabs.com/how-to-fetch-a-turbo-stream/)
 * [2023-10-23, 07:21:55](https://news.ycombinator.com/item?id=37982495) - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
 * [2023-10-23, 07:13:18](https://news.ycombinator.com/item?id=37982447) - [Abusing GDB Features for Data Ingress and Egress](https://www.archcloudlabs.com/projects/debuginfod/)
 * [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)

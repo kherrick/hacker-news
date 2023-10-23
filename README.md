@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland Launches Ambitious Plan to Provide Citywide Dirt Cheap Broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
-* [2023-10-23, 17:03:04](https://news.ycombinator.com/item?id=37988451) - [It's Time to Tax Billionaires](https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report)
+* [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDR's to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 16:18:17](https://news.ycombinator.com/item?id=37987833) - [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
 * [2023-10-23, 16:16:47](https://news.ycombinator.com/item?id=37987812) - [Off-duty pilot charged with 83 counts of attempted murder after security threat](https://abcnews.go.com/US/alaska-airlines-flight-diverted-after-credible-security-threat/story?id=104223059)
@@ -9,7 +8,8 @@
 * [2023-10-23, 14:22:40](https://news.ycombinator.com/item?id=37986046) - [We're entering a pretty strong El Niño–here's what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/)
 * [2023-10-23, 14:16:48](https://news.ycombinator.com/item?id=37985972) - [Martin Goetz, recipient of the first software patent, has died](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
 * [2023-10-23, 14:01:50](https://news.ycombinator.com/item?id=37985779) - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
-* [2023-10-23, 14:01:47](https://news.ycombinator.com/item?id=37985777) - [Introducing MSW 2.0](https://mswjs.io/blog/introducing-msw-2.0/)
+* [2023-10-23, 14:01:47](https://news.ycombinator.com/item?id=37985777) - [MSW 2.0 – Mock Service Worker](https://mswjs.io/blog/introducing-msw-2.0/)
+* [2023-10-23, 13:39:47](https://news.ycombinator.com/item?id=37985450) - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
 * [2023-10-23, 13:17:23](https://news.ycombinator.com/item?id=37985176) - [Software disenchantment](https://tonsky.me/blog/disenchantment/)
 * [2023-10-23, 13:00:18](https://news.ycombinator.com/item?id=37985007) - [Matter 1.2 Arrives with Nine New Device Types and Improvements Across the Board](https://csa-iot.org/newsroom/matter-1-2-arrives-with-nine-new-device-types-improvements-across-the-board/)
 * [2023-10-23, 13:00:13](https://news.ycombinator.com/item?id=37985005) - [ChDB: Embedded OLAP SQL Engine Powered by ClickHouse](https://github.com/chdb-io/chdb)
@@ -20,6 +20,7 @@
 * [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 08:29:13](https://news.ycombinator.com/item?id=37982948) - [Raspberry Pi 5: available now](https://www.raspberrypi.com/news/raspberry-pi-5-available-now/)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
+* [2023-10-23, 07:26:14](https://news.ycombinator.com/item?id=37982524) - [How to Fetch a Turbo Stream](https://www.ducktypelabs.com/how-to-fetch-a-turbo-stream/)
 * [2023-10-23, 07:21:55](https://news.ycombinator.com/item?id=37982495) - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
 * [2023-10-23, 07:13:18](https://news.ycombinator.com/item?id=37982447) - [Abusing GDB Features for Data Ingress and Egress](https://www.archcloudlabs.com/projects/debuginfod/)
 * [2023-10-23, 06:11:13](https://news.ycombinator.com/item?id=37982149) - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
@@ -29,7 +30,6 @@
 * [2023-10-22, 23:14:25](https://news.ycombinator.com/item?id=37979930) - [The heaviness of maintaining systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 13:38:37](https://news.ycombinator.com/item?id=37975248) - [Four historians tell us a ghost story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
-* [2023-10-22, 00:04:48](https://news.ycombinator.com/item?id=37971648) - [Origins of the 3.5in Floppy Disk [video]](https://www.youtube.com/watch?v=djsyVgTGaRk)
 
 ## [Archives](archives/index.md)
 
