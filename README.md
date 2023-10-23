@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-23, 09:49:47](https://news.ycombinator.com/item?id=37983511) - [The Heart is not a Pump](https://rsarchive.org/OtherAuthors/MarinelliRalph/marinelli1.html)
+* [2023-10-23, 10:39:09](https://news.ycombinator.com/item?id=37983821) - [AMD wants to know if you would like Ryzen AI support for Linux](https://github.com/amd/RyzenAI-SW/issues/2)
 * [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 09:24:08](https://news.ycombinator.com/item?id=37983349) - [Orcas that hunted alongside humans might be extinct](https://www.livescience.com/animals/orcas-that-hunted-alongside-humans-might-be-extinct)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
