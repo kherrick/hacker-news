@@ -20,6 +20,8 @@
 * [2023-10-23, 19:59:33](https://news.ycombinator.com/item?id=37990750) - [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 * [2023-10-23, 19:59:17](https://news.ycombinator.com/item?id=37990745) - [NASA tweaks Voyager software to protect thrusters against gunge](https://newatlas.com/space/nasa-tweaks-voyager-software-protect-thrusters-against-gunge/)
 * [2023-10-23, 19:51:02](https://news.ycombinator.com/item?id=37990646) - [COBOL on Wheelchair: Micro web-framework for COBOL](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md)
+* [2023-10-23, 19:48:48](https://news.ycombinator.com/item?id=37990621) - [iOS Single App Mode Escape](https://labs.withsecure.com/advisories/single-app-mode-bypass)
+* [2023-10-23, 19:39:41](https://news.ycombinator.com/item?id=37990528) - [Samsung and other manufacturers disable phones bought on gray markets](https://nomadscrolls.net/2023/10/23/samsung-and-other-manufacturers-disable-phones-bought-on-gray-markets-a-consumer-nightmare/)
 * [2023-10-23, 19:32:33](https://news.ycombinator.com/item?id=37990441) - [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
 * [2023-10-23, 19:24:29](https://news.ycombinator.com/item?id=37990354) - [Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
 * [2023-10-23, 19:22:44](https://news.ycombinator.com/item?id=37990338) - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
