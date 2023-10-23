@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-23, 19:32:33](https://news.ycombinator.com/item?id=37990441) - [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
+* [2023-10-23, 20:10:28](https://news.ycombinator.com/item?id=37990885) - [Tell HN: use “then” to talk about time or order, use “than” to make comparisons](https://news.ycombinator.com/item?id=37990885)
+* [2023-10-23, 19:59:33](https://news.ycombinator.com/item?id=37990750) - [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 * [2023-10-23, 19:22:44](https://news.ycombinator.com/item?id=37990338) - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
 * [2023-10-23, 19:10:08](https://news.ycombinator.com/item?id=37990180) - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
 * [2023-10-23, 19:09:03](https://news.ycombinator.com/item?id=37990168) - [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
@@ -11,7 +12,6 @@
 * [2023-10-23, 18:21:24](https://news.ycombinator.com/item?id=37989527) - [Prepare for a wave of US politicians to use AI in their campaigns](https://www.bloomberg.com/news/articles/2023-10-19/prepare-for-a-wave-of-us-politicians-to-use-ai-in-their-campaigns)
 * [2023-10-23, 18:12:05](https://news.ycombinator.com/item?id=37989413) - [Sandstorm, Tempest, and the Future](https://sandstorm.org/news/2023-10-23-sandstorm-tempest-and-the-future)
 * [2023-10-23, 17:51:27](https://news.ycombinator.com/item?id=37989132) - [Google faces antitrust probe in Japan for pushing search default](https://english.kyodonews.net/news/2023/10/d2b4990f6c0f-japans-antitrust-watchdog-probes-google-for-pushing-search-default.html)
-* [2023-10-23, 17:51:20](https://news.ycombinator.com/item?id=37989130) - [Roblox Ryanair](https://www.robloxryanair.com)
 * [2023-10-23, 17:11:33](https://news.ycombinator.com/item?id=37988585) - [Casidoo on TinaCMS](https://blog.cassidoo.co/post/trying-tinacms/)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
