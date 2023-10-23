@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 15:26:30](https://news.ycombinator.com/item?id=37987061) - [Common fungus candida albicans might fuel Alzheimer's onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
 * [2023-10-23, 14:48:28](https://news.ycombinator.com/item?id=37986424) - [1,200-km range, 10-min charge: Toyota near solid-state battery breakthrough](https://www.business-standard.com/industry/auto/1-200-km-range-10-min-charge-toyota-near-solid-state-battery-breakthrough-123102300252_1.html)
 * [2023-10-23, 14:25:43](https://news.ycombinator.com/item?id=37986083) - [Driver's failure to laugh at odd question during stop not Reasonable Suspicion](http://fourthamendment.com/?p=56109)
 * [2023-10-23, 14:23:24](https://news.ycombinator.com/item?id=37986055) - [Windows 11: The number you have dialed has been disconnected](https://www.theregister.com/2023/10/23/column/)
