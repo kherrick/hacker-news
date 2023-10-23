@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDR's to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
+* [2023-10-23, 16:31:26](https://news.ycombinator.com/item?id=37988021) - [Teens Want Parents to Track Their Phones and Monitor Their Every Move](https://www.wsj.com/tech/personal-tech/track-my-phone-teens-feel-safer-when-parents-monitor-7ad437ff)
 * [2023-10-23, 16:28:14](https://news.ycombinator.com/item?id=37987973) - [There's Never Been a Worse Time to Buy Instead of Rent](https://www.wsj.com/economy/housing/theres-never-been-a-worse-time-to-buy-instead-of-rent-bd3e80d9)
-* [2023-10-23, 16:18:17](https://news.ycombinator.com/item?id=37987833) - [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
+* [2023-10-23, 16:16:47](https://news.ycombinator.com/item?id=37987812) - [Off-duty pilot charged with 83 counts of attempted murder after security threat](https://abcnews.go.com/US/alaska-airlines-flight-diverted-after-credible-security-threat/story?id=104223059)
 * [2023-10-23, 15:26:30](https://news.ycombinator.com/item?id=37987061) - [Common fungus candida albicans might fuel Alzheimer's onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
 * [2023-10-23, 14:59:37](https://news.ycombinator.com/item?id=37986584) - [LinkedIn Issues Warning to Site Shaming Pro-Palestinian Sentiment](https://www.nytimes.com/2023/10/22/world/middleeast/anti-israel-workers-website-linkedin.html)
 * [2023-10-23, 14:22:40](https://news.ycombinator.com/item?id=37986046) - [We're entering a pretty strong El Niño–here's what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/)
@@ -25,11 +27,9 @@
 * [2023-10-23, 06:08:43](https://news.ycombinator.com/item?id=37982137) - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
 * [2023-10-23, 05:28:41](https://news.ycombinator.com/item?id=37981939) - [Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
 * [2023-10-23, 04:35:25](https://news.ycombinator.com/item?id=37981683) - [Show HN: Pypipe – A Python command-line tool for pipeline processing](https://github.com/bugen/pypipe)
-* [2023-10-23, 01:33:04](https://news.ycombinator.com/item?id=37980626) - [National Center for Home Food Preservation](https://nchfp.uga.edu/)
 * [2023-10-22, 23:14:25](https://news.ycombinator.com/item?id=37979930) - [The heaviness of maintaining systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 13:38:37](https://news.ycombinator.com/item?id=37975248) - [Four historians tell us a ghost story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
-* [2023-10-22, 00:04:48](https://news.ycombinator.com/item?id=37971648) - [Origins of the 3.5in Floppy Disk [video]](https://www.youtube.com/watch?v=djsyVgTGaRk)
 
 ## [Archives](archives/index.md)
 
