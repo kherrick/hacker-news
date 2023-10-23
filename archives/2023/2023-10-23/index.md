@@ -16,6 +16,8 @@
 * [2023-10-23, 13:39:47](https://news.ycombinator.com/item?id=37985450) - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
 * [2023-10-23, 13:17:23](https://news.ycombinator.com/item?id=37985176) - [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
 * [2023-10-23, 13:06:02](https://news.ycombinator.com/item?id=37985062) - [Billionaires should face a minimum tax rate, report says](https://www.bbc.com/news/business-67191791)
+* [2023-10-23, 13:00:18](https://news.ycombinator.com/item?id=37985007) - [Matter 1.2 Arrives with Nine New Device Types and Improvements Across the Board](https://csa-iot.org/newsroom/matter-1-2-arrives-with-nine-new-device-types-improvements-across-the-board/)
+* [2023-10-23, 13:00:13](https://news.ycombinator.com/item?id=37985005) - [ChDB: Embedded OLAP SQL Engine Powered by ClickHouse](https://github.com/chdb-io/chdb)
 * [2023-10-23, 12:41:46](https://news.ycombinator.com/item?id=37984838) - [Toyota nears mass production of solid-state batteries](https://www.ft.com/content/6224f235-568c-4e2f-8247-e7dacf0ef20c)
 * [2023-10-23, 12:30:15](https://news.ycombinator.com/item?id=37984719) - [The Sociopaths Among Us–and How to Avoid Them](https://www.theatlantic.com/ideas/archive/2023/10/dark-triads-toxic-personalities/675683/)
 * [2023-10-23, 12:26:33](https://news.ycombinator.com/item?id=37984684) - [Pro-Palestinian creators use secret spellings, words to evade social algorithms](https://www.washingtonpost.com/technology/2023/10/20/palestinian-tiktok-instagram-algospeak-israel-hamas/)
