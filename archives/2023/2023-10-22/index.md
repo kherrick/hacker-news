@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
 * [2023-10-22, 22:53:16](https://news.ycombinator.com/item?id=37979793) - [Dismantle the Censorship-Industrial Complex: The Westminster Declaration](https://www.racket.news/p/dismantle-the-censorship-industrial)
+* [2023-10-22, 22:51:44](https://news.ycombinator.com/item?id=37979787) - [First 96-Core AMD Zen 4 Threadripper Tests Show Utter Domination over Intel](https://www.extremetech.com/computing/first-96-core-amd-zen-4-threadripper-tests-show-utter-domination-over-intel)
 * [2023-10-22, 22:25:17](https://news.ycombinator.com/item?id=37979635) - [Alan Kay: Doing with Images Makes Symbols [video]](https://www.youtube.com/watch?v=p2LZLYcu_JY)
 * [2023-10-22, 20:54:17](https://news.ycombinator.com/item?id=37978999) - [Cory Doctorow's Vision for a Just Tech Revolution](https://jacobin.com/2023/10/cory-doctorow-seize-the-means-of-computation-big-tech-democratization-infrastructure)
 * [2023-10-22, 20:18:46](https://news.ycombinator.com/item?id=37978707) - [Cruise autonomous vehicles outperform humans in a comparable driving environment](https://twitter.com/kvogt/status/1707103740879405440)

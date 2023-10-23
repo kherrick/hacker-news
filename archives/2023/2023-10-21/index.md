@@ -61,6 +61,7 @@
 * [2023-10-21, 12:00:17](https://news.ycombinator.com/item?id=37966077) - [Tesorio (YC S15) Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-10-21, 11:55:15](https://news.ycombinator.com/item?id=37966053) - [Why the hospital pager withstood the test of time](https://healthtechmagazine.net/article/2019/06/why-hospital-pager-withstood-test-time)
 * [2023-10-21, 11:38:03](https://news.ycombinator.com/item?id=37965966) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
+* [2023-10-21, 11:33:28](https://news.ycombinator.com/item?id=37965947) - [Ruffle: Flash Player Emulator](https://ruffle.rs/)
 * [2023-10-21, 10:21:28](https://news.ycombinator.com/item?id=37965564) - [Google cuts dozens of jobs in news division](https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html)
 * [2023-10-21, 09:44:53](https://news.ycombinator.com/item?id=37965402) - [In 1980s Los Angeles, a bank was robbed every hour](https://crimereads.com/the-rise-and-fall-of-the-bank-robbery-capital-of-the-world/)
 * [2023-10-21, 09:26:39](https://news.ycombinator.com/item?id=37965319) - [We Built a Streaming SQL Engine](https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine)
