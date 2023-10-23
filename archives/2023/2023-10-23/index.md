@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 19:24:29](https://news.ycombinator.com/item?id=37990354) - [Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
 * [2023-10-23, 19:10:08](https://news.ycombinator.com/item?id=37990180) - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
 * [2023-10-23, 19:09:03](https://news.ycombinator.com/item?id=37990168) - [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
+* [2023-10-23, 18:58:15](https://news.ycombinator.com/item?id=37990031) - [Google pulls up the ladder on open internet, pushes unconstitutional regulation](https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/)
 * [2023-10-23, 18:46:07](https://news.ycombinator.com/item?id=37989875) - [How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 18:34:44](https://news.ycombinator.com/item?id=37989712) - [Reducing \"gate\" counts for Kyber-512 contradicting NIST's calculation](https://blog.cr.yp.to/20231023-clumping.html)
@@ -65,6 +67,7 @@
 * [2023-10-23, 09:29:16](https://news.ycombinator.com/item?id=37983386) - [Shopify Files Lawsuit over Illegal DMCA Takedown Abuse](https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/)
 * [2023-10-23, 09:24:08](https://news.ycombinator.com/item?id=37983349) - [Orcas that hunted alongside humans might be extinct](https://www.livescience.com/animals/orcas-that-hunted-alongside-humans-might-be-extinct)
 * [2023-10-23, 08:29:13](https://news.ycombinator.com/item?id=37982948) - [Raspberry Pi 5: available now](https://www.raspberrypi.com/news/raspberry-pi-5-available-now/)
+* [2023-10-23, 08:05:02](https://news.ycombinator.com/item?id=37982776) - [Lets Have Three Abstraction Layers](https://minimal.app/Z0ndOgmj)
 * [2023-10-23, 07:49:51](https://news.ycombinator.com/item?id=37982664) - [EU-funded report calls for wealth of super-rich to be taxed, not income](https://www.theguardian.com/business/2023/oct/22/eu-funded-report-calls-for-wealth-of-super-rich-to-be-taxed-not-income)
 * [2023-10-23, 07:48:21](https://news.ycombinator.com/item?id=37982655) - [EU Chat Control Bill Postponed](https://tutanota.com/blog/chat-control-criticism)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
