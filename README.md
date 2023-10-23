@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-23, 12:13:53](https://news.ycombinator.com/item?id=37984566) - [Microsoft fixes the Excel feature that was wrecking scientific data](https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 11:50:14](https://news.ycombinator.com/item?id=37984362) - [Orcas are learning terrifying new behaviors. Are they getting smarter?](https://www.livescience.com/animals/orcas/orcas-are-learning-terrifying-new-behaviors-are-they-getting-smarter)
 * [2023-10-23, 11:00:58](https://news.ycombinator.com/item?id=37983978) - [Millions of smart meters will brick it when 2G and 3G turns off](https://www.theregister.com/2023/10/23/millions_of_smart_meters_will/)
@@ -29,7 +30,6 @@
 * [2023-10-22, 00:04:48](https://news.ycombinator.com/item?id=37971648) - [Origins of the 3.5in Floppy Disk [video]](https://www.youtube.com/watch?v=djsyVgTGaRk)
 * [2023-10-21, 17:03:12](https://news.ycombinator.com/item?id=37968559) - [Edgar Allan Poe's America](https://www.bunkhistory.org/resources/edgar-allan-poes-america)
 * [2023-10-21, 11:33:28](https://news.ycombinator.com/item?id=37965947) - [Ruffle: Flash Player Emulator](https://ruffle.rs/)
-* [2023-10-20, 10:20:04](https://news.ycombinator.com/item?id=37954321) - [Maps.fm: listen a podcast episode about that place on the map](https://maps.fm/dl/783bbb)
 
 ## [Archives](archives/index.md)
 
