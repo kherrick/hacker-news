@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 16:18:17](https://news.ycombinator.com/item?id=37987833) - [Could a $400k Australian court ruling silence Kiwi Farms?](https://www.theguardian.com/society/2023/oct/23/defamation-in-the-internet-age-could-a-400000-australian-court-ruling-silence-the-notorious-online-forum-kiwi-farms)
 * [2023-10-23, 15:26:30](https://news.ycombinator.com/item?id=37987061) - [Common fungus candida albicans might fuel Alzheimer's onset](https://neurosciencenews.com/alzheimers-fungus-24955/)
+* [2023-10-23, 14:59:37](https://news.ycombinator.com/item?id=37986584) - [LinkedIn Issues Warning to Site Shaming Pro-Palestinian Sentiment](https://www.nytimes.com/2023/10/22/world/middleeast/anti-israel-workers-website-linkedin.html)
 * [2023-10-23, 14:48:28](https://news.ycombinator.com/item?id=37986424) - [1,200-km range, 10-min charge: Toyota near solid-state battery breakthrough](https://www.business-standard.com/industry/auto/1-200-km-range-10-min-charge-toyota-near-solid-state-battery-breakthrough-123102300252_1.html)
 * [2023-10-23, 14:25:43](https://news.ycombinator.com/item?id=37986083) - [Driver's failure to laugh at odd question during stop not Reasonable Suspicion](http://fourthamendment.com/?p=56109)
 * [2023-10-23, 14:23:24](https://news.ycombinator.com/item?id=37986055) - [Windows 11: The number you have dialed has been disconnected](https://www.theregister.com/2023/10/23/column/)
+* [2023-10-23, 14:22:40](https://news.ycombinator.com/item?id=37986046) - [We're entering a pretty strong El Niño–here's what that means for a US winter](https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/)
 * [2023-10-23, 14:16:48](https://news.ycombinator.com/item?id=37985972) - [Martin Goetz, recipient of the first software patent, logs off at 93](https://www.theregister.com/2023/10/23/martin_goetz_obit/)
 * [2023-10-23, 14:12:49](https://news.ycombinator.com/item?id=37985921) - [Riley Reid on AI: 'I Don't Want Porn to Get Left Behind'](https://www.404media.co/riley-reid-clona-ai-chatbot-virtual-companion/)
 * [2023-10-23, 14:01:50](https://news.ycombinator.com/item?id=37985779) - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
@@ -45,6 +48,7 @@
 * [2023-10-23, 07:48:21](https://news.ycombinator.com/item?id=37982655) - [EU Chat Control Bill Postponed](https://tutanota.com/blog/chat-control-criticism)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
 * [2023-10-23, 07:21:55](https://news.ycombinator.com/item?id=37982495) - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
+* [2023-10-23, 07:13:18](https://news.ycombinator.com/item?id=37982447) - [Abusing GDB Features for Data Ingress and Egress](https://www.archcloudlabs.com/projects/debuginfod/)
 * [2023-10-23, 07:05:50](https://news.ycombinator.com/item?id=37982407) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 06:18:00](https://news.ycombinator.com/item?id=37982175) - [Cortical Labs: \"Human neural networks raised in a simulation\"](https://corticallabs.com/)
 * [2023-10-23, 06:11:13](https://news.ycombinator.com/item?id=37982149) - [Cooler Screens](https://computer.rip/2023-10-22-cooler-screens.html)
