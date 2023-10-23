@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-10-23, 19:51:02",
+      "https://news.ycombinator.com/item?id=37990646"
+    ],
+    [
+      "COBOL on Wheelchair: Micro web-framework for COBOL",
+      "https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 19:22:44",
       "https://news.ycombinator.com/item?id=37990338"
     ],
@@ -127,6 +137,16 @@
     [
       "Casidoo on TinaCMS",
       "https://blog.cassidoo.co/post/trying-tinacms/"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 17:09:48",
+      "https://news.ycombinator.com/item?id=37988560"
+    ],
+    [
+      "Unavoidable future increase in West Antarctic ice-shelf melting over 21 century",
+      "https://www.nature.com/articles/s41558-023-01818-x"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Abusing GDB Features for Data Ingress and Egress",
       "https://www.archcloudlabs.com/projects/debuginfod/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 06:11:13",
-      "https://news.ycombinator.com/item?id=37982149"
-    ],
-    [
-      "Cooler screens",
-      "https://computer.rip/2023-10-22-cooler-screens.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 06:08:43",
-      "https://news.ycombinator.com/item?id=37982137"
-    ],
-    [
-      "Building a unikernel that runs WebAssembly – part 1",
-      "https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/"
     ]
   ],
   [
