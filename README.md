@@ -12,7 +12,6 @@
 * [2023-10-23, 18:58:15](https://news.ycombinator.com/item?id=37990031) - [Google pulls up the ladder on open internet, pushes unconstitutional regulation](https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/)
 * [2023-10-23, 18:46:07](https://news.ycombinator.com/item?id=37989875) - [How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
-* [2023-10-23, 18:27:48](https://news.ycombinator.com/item?id=37989614) - [Embarrassingly Simple Text Watermarks](https://arxiv.org/abs/2310.08920)
 * [2023-10-23, 18:21:24](https://news.ycombinator.com/item?id=37989527) - [Prepare for a wave of US politicians to use AI in their campaigns](https://www.bloomberg.com/news/articles/2023-10-19/prepare-for-a-wave-of-us-politicians-to-use-ai-in-their-campaigns)
 * [2023-10-23, 18:12:05](https://news.ycombinator.com/item?id=37989413) - [Sandstorm, Tempest, and the Future](https://sandstorm.org/news/2023-10-23-sandstorm-tempest-and-the-future)
 * [2023-10-23, 17:51:20](https://news.ycombinator.com/item?id=37989130) - [Roblox Ryanair](https://www.robloxryanair.com)
@@ -29,6 +28,7 @@
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
 * [2023-10-23, 07:26:14](https://news.ycombinator.com/item?id=37982524) - [How to Fetch a Turbo Stream](https://www.ducktypelabs.com/how-to-fetch-a-turbo-stream/)
 * [2023-10-23, 07:13:18](https://news.ycombinator.com/item?id=37982447) - [Abusing GDB Features for Data Ingress and Egress](https://www.archcloudlabs.com/projects/debuginfod/)
+* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 13:38:37](https://news.ycombinator.com/item?id=37975248) - [Four historians tell us a ghost story](https://www.historytoday.com/archive/head-head/four-historians-tell-us-ghost-story)
 
 ## [Archives](archives/index.md)
