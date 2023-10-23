@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
+* [2023-10-23, 11:50:14](https://news.ycombinator.com/item?id=37984362) - [Orcas are learning terrifying new behaviors. Are they getting smarter?](https://www.livescience.com/animals/orcas/orcas-are-learning-terrifying-new-behaviors-are-they-getting-smarter)
 * [2023-10-23, 11:20:08](https://news.ycombinator.com/item?id=37984102) - [New Requirements to Travel to Europe](https://travel-europe.europa.eu/etias_en)
 * [2023-10-23, 11:00:58](https://news.ycombinator.com/item?id=37983978) - [Millions of smart meters will brick it when 2G and 3G turns off](https://www.theregister.com/2023/10/23/millions_of_smart_meters_will/)
 * [2023-10-23, 10:50:10](https://news.ycombinator.com/item?id=37983903) - [Woman wins 12-year legal battle against Google](https://www.abc.net.au/news/2023-10-23/janice-duffy-wins-12-year-legal-battle-against-google/103008954)
