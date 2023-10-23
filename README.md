@@ -21,6 +21,7 @@
 * [2023-10-22, 18:43:30](https://news.ycombinator.com/item?id=37977938) - [How to Make Your Own Spooky Magic Eye Pictures (Autostereograms)](https://blog.demofox.org/2023/10/22/how-to-make-your-own-spooky-magic-eye-pictures-autostereograms/)
 * [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 16:41:25](https://news.ycombinator.com/item?id=37976894) - [How to Make a CPU – A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
+* [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture (2017)](https://c4model.com/)
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Stealing OAuth tokens of Microsoft accounts via open redirect in Harvest App](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 04:21:29](https://news.ycombinator.com/item?id=37972792) - [USS Recruit (1917): The Wooden Dreadnought in Manhattan's Union Square](https://www.warhistoryonline.com/ships/uss-recruit-1917.html)
@@ -29,7 +30,6 @@
 * [2023-10-21, 11:33:28](https://news.ycombinator.com/item?id=37965947) - [Ruffle: Flash Player Emulator](https://ruffle.rs/)
 * [2023-10-20, 10:24:44](https://news.ycombinator.com/item?id=37954347) - [A Brief Introduction to Military Pillboxes](https://heritagecalling.com/2023/10/19/a-brief-introduction-to-military-pillboxes/)
 * [2023-10-20, 10:20:04](https://news.ycombinator.com/item?id=37954321) - [Maps.fm: listen a podcast episode about that place on the map](https://maps.fm/dl/783bbb)
-* [2023-10-19, 18:25:07](https://news.ycombinator.com/item?id=37946585) - [Engineering Management Checklist (2021)](http://pnewman.org/engineering_mgmt_checklist.txt)
 
 ## [Archives](archives/index.md)
 
