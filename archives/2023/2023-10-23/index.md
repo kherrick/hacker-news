@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 22:46:04](https://news.ycombinator.com/item?id=37992647) - [AI will never threaten humans, says top Meta scientist](https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6)
 * [2023-10-23, 21:31:48](https://news.ycombinator.com/item?id=37991863) - [1Password detects \"suspicious activity\" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 * [2023-10-23, 21:31:28](https://news.ycombinator.com/item?id=37991859) - [Twitter Files journalist tried to censor a Wikipedia editor](https://jaredkukura.substack.com/p/twitter-files-journalist-michael)
 * [2023-10-23, 21:27:16](https://news.ycombinator.com/item?id=37991826) - [Okta Support System Incident and 1Password](https://blog.1password.com/okta-incident/)
