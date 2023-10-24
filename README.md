@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 * [2023-10-24, 10:23:00](https://news.ycombinator.com/item?id=37996988) - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
-* [2023-10-24, 10:16:24](https://news.ycombinator.com/item?id=37996942) - [Mystery car spotted in old London photo](https://www.thesun.co.uk/motors/24490985/mystery-motor-london-unidentified-riddle-car-60s/)
 * [2023-10-24, 10:12:22](https://news.ycombinator.com/item?id=37996918) - [Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
 * [2023-10-24, 10:08:03](https://news.ycombinator.com/item?id=37996891) - [Automattic is acquiring Texts and betting big on the future of messaging](https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging)
 * [2023-10-24, 09:55:03](https://news.ycombinator.com/item?id=37996817) - [Sky Asked Govt. To Target Pirate IPTV Resellers via New Dedicated Police Unit](https://torrentfreak.com/sky-asked-govt-to-target-pirate-iptv-resellers-via-new-dedicated-police-unit-231023/)
@@ -10,6 +10,7 @@
 * [2023-10-24, 09:45:52](https://news.ycombinator.com/item?id=37996780) - [Retro Arcade Game Ads](https://buzzbloq.com/retro-arcade-game-ads-a-nostalgic-look-at-marketing-of-the-past/)
 * [2023-10-24, 09:36:10](https://news.ycombinator.com/item?id=37996721) - [Americans' confidence in technology firms has dropped](https://www.brookings.edu/articles/how-americans-confidence-in-technology-firms-has-dropped-evidence-from-the-second-wave-of-the-american-institutional-confidence-poll/)
 * [2023-10-24, 09:35:08](https://news.ycombinator.com/item?id=37996712) - [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
+* [2023-10-24, 09:33:21](https://news.ycombinator.com/item?id=37996702) - [Woman's Pockets Are Inferior](https://pudding.cool/2018/08/pockets/)
 * [2023-10-24, 09:25:20](https://news.ycombinator.com/item?id=37996642) - [Females less likely to heal from ACL injuries than males, finds study](https://medicalxpress.com/news/2023-10-females-acl-injuries-males.html)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 07:46:15](https://news.ycombinator.com/item?id=37995916) - [Amazon's Fallout TV series gets a 2024 release date](https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/)
@@ -27,7 +28,6 @@
 * [2023-10-23, 21:19:45](https://news.ycombinator.com/item?id=37991746) - [Marcel the Shell](https://www.marceltheshell.org)
 * [2023-10-23, 21:14:52](https://news.ycombinator.com/item?id=37991695) - [Show HN: WebSession, a Secure Replacement for Cookies](https://websession.dev/)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
-* [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU fuzzing via intricate program generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 * [2023-10-24, 10:23:00](https://news.ycombinator.com/item?id=37996988) - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
 * [2023-10-24, 10:16:24](https://news.ycombinator.com/item?id=37996942) - [Mystery car spotted in old London photo](https://www.thesun.co.uk/motors/24490985/mystery-motor-london-unidentified-riddle-car-60s/)
@@ -14,6 +15,7 @@
 * [2023-10-24, 09:45:52](https://news.ycombinator.com/item?id=37996780) - [Retro Arcade Game Ads](https://buzzbloq.com/retro-arcade-game-ads-a-nostalgic-look-at-marketing-of-the-past/)
 * [2023-10-24, 09:36:10](https://news.ycombinator.com/item?id=37996721) - [Americans' confidence in technology firms has dropped](https://www.brookings.edu/articles/how-americans-confidence-in-technology-firms-has-dropped-evidence-from-the-second-wave-of-the-american-institutional-confidence-poll/)
 * [2023-10-24, 09:35:08](https://news.ycombinator.com/item?id=37996712) - [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
+* [2023-10-24, 09:33:21](https://news.ycombinator.com/item?id=37996702) - [Woman's Pockets Are Inferior](https://pudding.cool/2018/08/pockets/)
 * [2023-10-24, 09:27:35](https://news.ycombinator.com/item?id=37996655) - [Email Address Regular Expression That 99.99% Works](https://emailregex.com/index.html)
 * [2023-10-24, 09:25:20](https://news.ycombinator.com/item?id=37996642) - [Females less likely to heal from ACL injuries than males, finds study](https://medicalxpress.com/news/2023-10-females-acl-injuries-males.html)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
