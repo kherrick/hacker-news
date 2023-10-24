@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-10-24, 15:47:24",
+      "https://news.ycombinator.com/item?id=38000824"
+    ],
+    [
+      "Server-side sandboxing: Containers and seccomp",
+      "https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 15:40:19",
+      "https://news.ycombinator.com/item?id=38000694"
+    ],
+    [
+      "Microsoft opens early access to AI assistant for infosec, Security Copilot",
+      "https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 15:30:45",
       "https://news.ycombinator.com/item?id=38000551"
     ],
@@ -91,26 +111,6 @@
   ],
   [
     [
-      "2023-10-24, 13:53:09",
-      "https://news.ycombinator.com/item?id=37999197"
-    ],
-    [
-      "Ask HN: Which DNS service do you use for your computer's network settings?",
-      "https://news.ycombinator.com/item?id=37999197"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 13:50:35",
-      "https://news.ycombinator.com/item?id=37999172"
-    ],
-    [
-      "OpenAI Finally Allows ChatGPT Complete Internet Access",
-      "https://gizmodo.com/chatgpt-receives-full-access-to-internet-1850936811"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 13:50:11",
       "https://news.ycombinator.com/item?id=37999164"
     ],
@@ -167,16 +167,6 @@
     [
       "Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation",
       "https://github.com/orangekame3/paclear"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 09:55:03",
-      "https://news.ycombinator.com/item?id=37996817"
-    ],
-    [
-      "Sky Asked Govt. To Target Pirate IPTV Resellers via New Dedicated Police Unit",
-      "https://torrentfreak.com/sky-asked-govt-to-target-pirate-iptv-resellers-via-new-dedicated-police-unit-231023/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "SumatraPDF Reader",
       "https://github.com/sumatrapdfreader/sumatrapdf"
+    ]
+  ],
+  [
+    [
+      "2023-10-22, 12:22:53",
+      "https://news.ycombinator.com/item?id=37974734"
+    ],
+    [
+      "Redis as a Database",
+      "https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0"
     ]
   ],
   [
