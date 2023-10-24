@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
+* [2023-10-24, 14:58:06](https://news.ycombinator.com/item?id=38000106) - [Car Owners Fall Behind on Payments at Highest Rate on Record](https://www.bloomberg.com/news/articles/2023-10-21/high-car-loan-interest-rate-payments-americans-struggle-with-monthly-bills)
 * [2023-10-24, 14:27:42](https://news.ycombinator.com/item?id=37999623) - [Cloud giants sound alarm on record-breaking DDoS attacks](https://www.cybersecuritydive.com/news/ddos-attacks-novel-zero-day/696136/)
 * [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
 * [2023-10-24, 14:06:10](https://news.ycombinator.com/item?id=37999349) - [Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
+* [2023-10-24, 14:58:06](https://news.ycombinator.com/item?id=38000106) - [Car Owners Fall Behind on Payments at Highest Rate on Record](https://www.bloomberg.com/news/articles/2023-10-21/high-car-loan-interest-rate-payments-americans-struggle-with-monthly-bills)
 * [2023-10-24, 14:27:42](https://news.ycombinator.com/item?id=37999623) - [Cloud giants sound alarm on record-breaking DDoS attacks](https://www.cybersecuritydive.com/news/ddos-attacks-novel-zero-day/696136/)
 * [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
 * [2023-10-24, 14:06:10](https://news.ycombinator.com/item?id=37999349) - [Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
@@ -10,7 +12,6 @@
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 13:13:40](https://news.ycombinator.com/item?id=37998739) - [BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
 * [2023-10-24, 13:12:44](https://news.ycombinator.com/item?id=37998730) - [Large Search Spaces Mean Magic (2005)](http://sl4.org/archive/0507/11676.html)
-* [2023-10-24, 13:03:52](https://news.ycombinator.com/item?id=37998619) - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 * [2023-10-24, 10:12:22](https://news.ycombinator.com/item?id=37996918) - [Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
@@ -25,11 +26,10 @@
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 05:33:52](https://news.ycombinator.com/item?id=37995119) - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
 * [2023-10-24, 03:57:12](https://news.ycombinator.com/item?id=37994725) - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
-* [2023-10-24, 02:54:44](https://news.ycombinator.com/item?id=37994387) - [Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
-* [2023-10-24, 00:55:56](https://news.ycombinator.com/item?id=37993702) - [1Password detects \"suspicious activity\" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 * [2023-10-24, 00:38:15](https://news.ycombinator.com/item?id=37993575) - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
 * [2023-10-22, 11:51:48](https://news.ycombinator.com/item?id=37974572) - [The Right Chemistry: The incendiary history of flammable fabrics (2022)](https://montrealgazette.com/opinion/columnists/the-right-chemistry-the-incendiary-history-of-flammable-fabrics)
+* [2023-10-22, 10:46:40](https://news.ycombinator.com/item?id=37974296) - [A Brief History of a Problematic Appetizer (it’s squid)](https://www.nytimes.com/2023/10/22/opinion/calamari-squid-restaurants-china.html)
 
 ## [Archives](archives/index.md)
 
