@@ -9,6 +9,7 @@
 * [2023-10-24, 09:45:52](https://news.ycombinator.com/item?id=37996780) - [Retro Arcade Game Ads](https://buzzbloq.com/retro-arcade-game-ads-a-nostalgic-look-at-marketing-of-the-past/)
 * [2023-10-24, 09:36:10](https://news.ycombinator.com/item?id=37996721) - [Americans' confidence in technology firms has dropped](https://www.brookings.edu/articles/how-americans-confidence-in-technology-firms-has-dropped-evidence-from-the-second-wave-of-the-american-institutional-confidence-poll/)
 * [2023-10-24, 09:35:08](https://news.ycombinator.com/item?id=37996712) - [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
+* [2023-10-24, 09:25:20](https://news.ycombinator.com/item?id=37996642) - [Females less likely to heal from ACL injuries than males, finds study](https://medicalxpress.com/news/2023-10-females-acl-injuries-males.html)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 08:15:20](https://news.ycombinator.com/item?id=37996123) - [World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
 * [2023-10-24, 07:46:15](https://news.ycombinator.com/item?id=37995916) - [Amazon's Fallout TV series gets a 2024 release date](https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/)
@@ -27,7 +28,6 @@
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 19:51:02](https://news.ycombinator.com/item?id=37990646) - [COBOL on Wheelchair: Micro web-framework for COBOL](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md)
 * [2023-10-23, 19:48:48](https://news.ycombinator.com/item?id=37990621) - [iOS Single App Mode Escape](https://labs.withsecure.com/advisories/single-app-mode-bypass)
-* [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU fuzzing via intricate program generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
 
