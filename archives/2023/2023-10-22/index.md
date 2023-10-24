@@ -59,6 +59,7 @@
 * [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [\"Write What You Don't Know\"](https://elifshafak.substack.com/p/write-what-you-dont-know)
 * [2023-10-22, 10:52:03](https://news.ycombinator.com/item?id=37974321) - [Ask HN: What is your favorite FOSS WYSIWYG editor?](https://news.ycombinator.com/item?id=37974321)
 * [2023-10-22, 10:46:40](https://news.ycombinator.com/item?id=37974296) - [A Brief History of a Problematic Appetizer (it’s squid)](https://www.nytimes.com/2023/10/22/opinion/calamari-squid-restaurants-china.html)
+* [2023-10-22, 10:38:41](https://news.ycombinator.com/item?id=37974260) - [DMD as a Library: Myth and Reality [pdf]](https://dconf.org/2023/slides/nitu.pdf)
 * [2023-10-22, 10:22:25](https://news.ycombinator.com/item?id=37974187) - [Adblock Plus and (A Little) More](https://blog.adblockplus.org/blog/whats-happening-with-youtube-ads)
 * [2023-10-22, 10:15:31](https://news.ycombinator.com/item?id=37974155) - [Hal Finney Was Not Satoshi Nakamoto](https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/)
 * [2023-10-22, 09:58:17](https://news.ycombinator.com/item?id=37974106) - [Recover lost text by coredumping Firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)

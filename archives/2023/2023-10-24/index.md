@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
+* [2023-10-24, 20:41:05](https://news.ycombinator.com/item?id=38005228) - [States sue Meta claiming its platforms are addictive and harm kids mental health](https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28)
 * [2023-10-24, 20:07:48](https://news.ycombinator.com/item?id=38004709) - [Windows 11's default mail client will show ads starting 2024](https://techcommunity.microsoft.com/t5/outlook/mail-amp-calendar-apps-will-be-replaced-with-new-outlook-for/td-p/3850309)
 * [2023-10-24, 20:06:10](https://news.ycombinator.com/item?id=38004684) - [Alphabet Earnings Release FY23 Q3 [pdf]](https://abc.xyz/assets/4a/3e/3e08902c4a45b5cf530e267cf818/2023q3-alphabet-earnings-release.pdf)
 * [2023-10-24, 20:05:40](https://news.ycombinator.com/item?id=38004674) - [Global Tax Evasion Report 2024 [pdf]](https://www.taxobservatory.eu/www-site/uploads/2023/10/global_tax_evasion_report_24.pdf)
@@ -16,6 +17,7 @@
 * [2023-10-24, 18:35:34](https://news.ycombinator.com/item?id=38003313) - [No federal privacy law? After the 23andMe hack, it's time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
 * [2023-10-24, 18:33:27](https://news.ycombinator.com/item?id=38003292) - [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
 * [2023-10-24, 18:28:40](https://news.ycombinator.com/item?id=38003233) - [Satya Nadella admits giving up on Windows Phone and mobile was a mistake](https://www.theverge.com/2023/10/24/23930478/microsoft-ceo-satya-nadella-mobile-windows-phone)
+* [2023-10-24, 18:27:15](https://news.ycombinator.com/item?id=38003211) - [Show HN: Where to Showcase Your Startup Project?](https://ybouane.com/where-to-showcase-your-startup-project)
 * [2023-10-24, 18:17:20](https://news.ycombinator.com/item?id=38003064) - [CA DMV suspends Cruise deployment and driverless testing permits](https://email.dmvonline.ca.gov/t/y-e-xnltyk-dythvudjl-m/)
 * [2023-10-24, 18:11:09](https://news.ycombinator.com/item?id=38002994) - [A11y Is Not Accessible](https://mobilea11y.com/blog/inaccessible-a11y/)
 * [2023-10-24, 18:10:25](https://news.ycombinator.com/item?id=38002979) - [InstallAware First and Only to Source Decentralized Setups on BitTorrent (2019)](https://www.installaware.com/download-torrent.htm)
