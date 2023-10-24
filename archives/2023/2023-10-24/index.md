@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 18:17:20](https://news.ycombinator.com/item?id=38003064) - [CA DMV suspends Cruise deployment and driverless testing permits](https://email.dmvonline.ca.gov/t/y-e-xnltyk-dythvudjl-m/)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends GM Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
+* [2023-10-24, 17:04:41](https://news.ycombinator.com/item?id=38002026) - [Europe's CSAM-scanning plan is tipping point for democratic rights, experts warn](https://techcrunch.com/2023/10/24/eu-csam-scanning-edps-seminar/)
 * [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
 * [2023-10-24, 16:59:48](https://news.ycombinator.com/item?id=38001964) - [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)
 * [2023-10-24, 16:56:49](https://news.ycombinator.com/item?id=38001924) - [We Just Gave $500k to Open Source Maintainers](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
