@@ -2,7 +2,6 @@
 
 * [2023-10-24, 18:35:34](https://news.ycombinator.com/item?id=38003313) - [No federal privacy law? After the 23andMe hack, it's time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
 * [2023-10-24, 18:33:27](https://news.ycombinator.com/item?id=38003292) - [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
-* [2023-10-24, 18:11:09](https://news.ycombinator.com/item?id=38002994) - [A11y Is Not Accessible](https://mobilea11y.com/blog/inaccessible-a11y/)
 * [2023-10-24, 18:10:25](https://news.ycombinator.com/item?id=38002979) - [InstallAware First and Only to Source Decentralized Setups on BitTorrent (2019)](https://www.installaware.com/download-torrent.htm)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends GM Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 17:49:31](https://news.ycombinator.com/item?id=38002665) - [Show HN: Togomak – declarative pipeline orchestrator based on HCL and Terraform](https://github.com/srevinsaju/togomak)
@@ -25,6 +24,7 @@
 * [2023-10-24, 09:45:52](https://news.ycombinator.com/item?id=37996780) - [Retro Arcade Game Ads](https://buzzbloq.com/retro-arcade-game-ads-a-nostalgic-look-at-marketing-of-the-past/)
 * [2023-10-24, 09:35:08](https://news.ycombinator.com/item?id=37996712) - [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+* [2023-10-24, 08:35:19](https://news.ycombinator.com/item?id=37996291) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
 * [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [Write what you don't know](https://elifshafak.substack.com/p/write-what-you-dont-know)
