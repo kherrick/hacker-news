@@ -65,6 +65,7 @@
 * [2023-10-22, 09:36:47](https://news.ycombinator.com/item?id=37974021) - [The C4 model for visualising software architecture](https://c4model.com/)
 * [2023-10-22, 09:15:15](https://news.ycombinator.com/item?id=37973937) - [Microsoft Account's OAuth tokens leaking via open redirect in Harvest](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 * [2023-10-22, 08:24:57](https://news.ycombinator.com/item?id=37973742) - ['A Neolithic feat of engineering': Orkney dig reveals ruins of tomb](https://www.theguardian.com/uk-news/2023/oct/21/a-neolithic-feat-of-engineering-orkney-dig-reveals-ruins-of-huge-tomb)
+* [2023-10-22, 08:23:01](https://news.ycombinator.com/item?id=37973731) - [On not noticing rather too many things](https://jacobbrazeal.wordpress.com/2023/10/22/on-not-noticing-rather-too-many-things/)
 * [2023-10-22, 07:45:31](https://news.ycombinator.com/item?id=37973603) - [The Humbling of the Maths Snobs](https://www.ft.com/content/fd0bf457-f20b-4121-bcae-145df24c8d1c)
 * [2023-10-22, 06:15:19](https://news.ycombinator.com/item?id=37973229) - [A Dutch graphic artist reconstructed Tenochtitlan in 3D](https://tenochtitlan.thomaskole.nl/index.html)
 * [2023-10-22, 05:58:27](https://news.ycombinator.com/item?id=37973151) - [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)

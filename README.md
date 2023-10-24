@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-24, 18:53:13](https://news.ycombinator.com/item?id=38003544) - [Twillio immediatly closes accounts with the word Palestine in them](https://news.ycombinator.com/item?id=38003544)
 * [2023-10-24, 18:49:55](https://news.ycombinator.com/item?id=38003497) - [California DMV suspends Cruise's driverless testing permit effective immediately](https://www.dmv.ca.gov/portal/news-and-media/dmv-statement-on-cruise-llc-suspension/)
 * [2023-10-24, 18:35:34](https://news.ycombinator.com/item?id=38003313) - [No federal privacy law? After the 23andMe hack, it's time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
 * [2023-10-24, 18:33:27](https://news.ycombinator.com/item?id=38003292) - [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
@@ -30,6 +29,7 @@
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
 * [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [Write what you don't know](https://elifshafak.substack.com/p/write-what-you-dont-know)
 * [2023-10-22, 08:24:57](https://news.ycombinator.com/item?id=37973742) - ['A Neolithic feat of engineering': Orkney dig reveals ruins of tomb](https://www.theguardian.com/uk-news/2023/oct/21/a-neolithic-feat-of-engineering-orkney-dig-reveals-ruins-of-huge-tomb)
+* [2023-10-22, 08:23:01](https://news.ycombinator.com/item?id=37973731) - [On not noticing rather too many things](https://jacobbrazeal.wordpress.com/2023/10/22/on-not-noticing-rather-too-many-things/)
 
 ## [Archives](archives/index.md)
 
