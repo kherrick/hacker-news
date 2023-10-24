@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-24, 11:18:46",
+      "https://news.ycombinator.com/item?id=37997423"
+    ],
+    [
+      "Good times create weak men",
+      "https://tonsky.me/blog/good-times-weak-men/"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 10:58:16",
       "https://news.ycombinator.com/item?id=37997246"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-10-24, 05:56:56",
-      "https://news.ycombinator.com/item?id=37995254"
-    ],
-    [
-      "The killer features of the Steam Deck",
-      "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 05:39:11",
       "https://news.ycombinator.com/item?id=37995155"
     ],
@@ -271,22 +271,12 @@
   ],
   [
     [
-      "2023-10-23, 20:42:19",
-      "https://news.ycombinator.com/item?id=37991295"
+      "2023-10-23, 18:39:05",
+      "https://news.ycombinator.com/item?id=37989773"
     ],
     [
-      "How does macOS manage virtual cores on Apple Silicon?",
-      "https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 17:01:11",
-      "https://news.ycombinator.com/item?id=37988423"
-    ],
-    [
-      "RankScience (YC W17) is Hiring SDRs to help startups grow SEO",
-      "https://remotejobs.org/companies/rankscience-remote-jobs"
+      "Cascade: CPU fuzzing via intricate program generation",
+      "https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Protomaps – A free and open source map of the world",
       "https://protomaps.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-22, 11:51:48",
+      "https://news.ycombinator.com/item?id=37974572"
+    ],
+    [
+      "The Right Chemistry: The incendiary history of flammable fabrics (2022)",
+      "https://montrealgazette.com/opinion/columnists/the-right-chemistry-the-incendiary-history-of-flammable-fabrics"
     ]
   ]
 ]
