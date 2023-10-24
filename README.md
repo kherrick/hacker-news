@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+* [2023-10-24, 08:15:20](https://news.ycombinator.com/item?id=37996123) - [World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
 * [2023-10-24, 07:52:05](https://news.ycombinator.com/item?id=37995950) - ['Failure to act' on suicide website linked to 50 UK deaths](https://www.bbc.co.uk/news/uk-67082224)
 * [2023-10-24, 07:46:15](https://news.ycombinator.com/item?id=37995916) - [Amazon's Fallout TV series gets a 2024 release date](https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/)
 * [2023-10-24, 07:22:59](https://news.ycombinator.com/item?id=37995761) - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
@@ -29,7 +30,6 @@
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
-* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 
 ## [Archives](archives/index.md)
 
