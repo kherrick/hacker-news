@@ -26,10 +26,10 @@
 * [2023-10-23, 17:11:33](https://news.ycombinator.com/item?id=37988585) - [Trying out TinaCMS](https://blog.cassidoo.co/post/trying-tinacms/)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
-* [2023-10-23, 16:21:09](https://news.ycombinator.com/item?id=37987877) - [Show HN: Autolicious – AI-powered bookmark cataloging Chrome extension](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 10:44:35](https://news.ycombinator.com/item?id=37983864) - [William and Mary by Roald Dahl (1959)](https://user.ceng.metu.edu.tr/~ucoluk/yazin/William_and_Mary.html)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
+* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 
 ## [Archives](archives/index.md)
 
