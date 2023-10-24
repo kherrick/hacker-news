@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-24, 06:22:13](https://news.ycombinator.com/item?id=37995384) - [GM delays $4B EV truck factory plan by another year](https://techcrunch.com/2023/10/17/gm-delays-4b-ev-truck-factory-plan-by-another-year/)
 * [2023-10-24, 06:11:10](https://news.ycombinator.com/item?id=37995319) - [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 05:33:52](https://news.ycombinator.com/item?id=37995119) - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
+* [2023-10-24, 05:22:03](https://news.ycombinator.com/item?id=37995067) - [Amazon selling $15k tiny house with two floors and ships in under two weeks](https://www.the-sun.com/money/9391646/amazon-unique-moon-dome-tiny-house-two-bathrooms/)
 * [2023-10-24, 04:01:30](https://news.ycombinator.com/item?id=37994740) - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 * [2023-10-24, 03:57:12](https://news.ycombinator.com/item?id=37994725) - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
 * [2023-10-24, 02:54:44](https://news.ycombinator.com/item?id=37994387) - [Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
