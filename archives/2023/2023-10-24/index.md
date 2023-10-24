@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
 * [2023-10-24, 22:08:36](https://news.ycombinator.com/item?id=38006369) - [Bitcoin miners running up Texans' electricity bills](https://www.houstonchronicle.com/business/columnists/tomlinson/article/texas-bictoin-eletric-grid-higher-bills-18420115.php)
+* [2023-10-24, 22:08:28](https://news.ycombinator.com/item?id=38006363) - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
 * [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:41:05](https://news.ycombinator.com/item?id=38005228) - [States sue Meta claiming its platforms are addictive and harm kids mental health](https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28)
@@ -30,6 +31,7 @@
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends GM Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 17:49:31](https://news.ycombinator.com/item?id=38002665) - [Show HN: Togomak – declarative pipeline orchestrator based on HCL and Terraform](https://github.com/srevinsaju/togomak)
 * [2023-10-24, 17:35:16](https://news.ycombinator.com/item?id=38002461) - [Apple authors release paper on a multi-resolution diffusion model](https://arxiv.org/abs/2310.15111)
+* [2023-10-24, 17:25:01](https://news.ycombinator.com/item?id=38002305) - [LIGO Surpasses the Quantum Limit](https://www.ligo.caltech.edu/news/ligo20231023)
 * [2023-10-24, 17:04:41](https://news.ycombinator.com/item?id=38002026) - [Europe's CSAM-scanning plan is tipping point for democratic rights, experts warn](https://techcrunch.com/2023/10/24/eu-csam-scanning-edps-seminar/)
 * [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
 * [2023-10-24, 16:59:48](https://news.ycombinator.com/item?id=38001964) - [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)
