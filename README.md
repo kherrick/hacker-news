@@ -17,7 +17,6 @@
 * [2023-10-24, 00:38:15](https://news.ycombinator.com/item?id=37993575) - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 * [2023-10-23, 23:52:52](https://news.ycombinator.com/item?id=37993202) - [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
 * [2023-10-23, 22:32:45](https://news.ycombinator.com/item?id=37992513) - [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
-* [2023-10-23, 21:54:53](https://news.ycombinator.com/item?id=37992104) - [Nvidia to Challenge Intel with Arm-Based Processors for PCs](https://www.bloomberg.com/news/articles/2023-10-23/nvidia-to-take-on-intel-with-arm-based-pc-chips-reuters-says)
 * [2023-10-23, 21:19:45](https://news.ycombinator.com/item?id=37991746) - [Marcel the Shell](https://www.marceltheshell.org)
 * [2023-10-23, 21:14:52](https://news.ycombinator.com/item?id=37991695) - [Show HN: WebSession, a Secure Replacement for Cookies](https://websession.dev/)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
@@ -30,6 +29,7 @@
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
+* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 
 ## [Archives](archives/index.md)
 
