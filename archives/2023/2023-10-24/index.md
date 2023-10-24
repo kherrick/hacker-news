@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 16:19:22](https://news.ycombinator.com/item?id=38001361) - [A Controversial Plan to Scan Private Messages for Child Abuse Meets Scandal](https://www.wired.com/story/csar-chat-scan-proposal-european-commission-ads/)
+* [2023-10-24, 16:03:18](https://news.ycombinator.com/item?id=38001099) - [Odorant diffuser improves memory and neural functioning in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405466/)
 * [2023-10-24, 15:48:22](https://news.ycombinator.com/item?id=38000843) - [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
 * [2023-10-24, 15:47:24](https://news.ycombinator.com/item?id=38000824) - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
 * [2023-10-24, 15:40:19](https://news.ycombinator.com/item?id=38000694) - [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
 * [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
+* [2023-10-24, 15:01:17](https://news.ycombinator.com/item?id=38000160) - [Thunderbird 115.4.0](https://www.thunderbird.net/en-US/thunderbird/115.4.0/releasenotes/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [We Don't Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 14:58:06](https://news.ycombinator.com/item?id=38000106) - [Car Owners Fall Behind on Payments at Highest Rate on Record](https://www.bloomberg.com/news/articles/2023-10-21/high-car-loan-interest-rate-payments-americans-struggle-with-monthly-bills)
 * [2023-10-24, 14:27:57](https://news.ycombinator.com/item?id=37999630) - [The Speed of the Librem 5](https://puri.sm/posts/the-real-speed-of-the-librem-5/)
