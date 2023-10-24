@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
 * [2023-10-24, 14:06:10](https://news.ycombinator.com/item?id=37999349) - [Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
+* [2023-10-24, 13:50:35](https://news.ycombinator.com/item?id=37999172) - [OpenAI Finally Allows ChatGPT Complete Internet Access](https://gizmodo.com/chatgpt-receives-full-access-to-internet-1850936811)
 * [2023-10-24, 13:50:11](https://news.ycombinator.com/item?id=37999164) - [The Ideation Flywheel (or how to get better startup ideas)](https://www.stackfix.com/blog/the-ideation-flywheel)
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 13:13:40](https://news.ycombinator.com/item?id=37998739) - [BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
