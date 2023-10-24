@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 15:48:22](https://news.ycombinator.com/item?id=38000843) - [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
 * [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [We Don't Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
