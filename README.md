@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-24, 22:22:24](https://news.ycombinator.com/item?id=38006495) - [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
 * [2023-10-24, 22:08:28](https://news.ycombinator.com/item?id=38006363) - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
 * [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
-* [2023-10-24, 19:48:02](https://news.ycombinator.com/item?id=38004404) - [Snapdragon Oryon, faster than Apple's M2 chip at 30% less power](https://twitter.com/IanCutress/status/1716902706621866487)
 * [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git](https://gittuf.github.io/)
 * [2023-10-24, 18:02:46](https://news.ycombinator.com/item?id=38002871) - [I wish people would do historical arguments better](https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
