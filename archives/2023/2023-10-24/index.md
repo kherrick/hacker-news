@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 13:03:52](https://news.ycombinator.com/item?id=37998619) - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
 * [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
 * [2023-10-24, 10:58:16](https://news.ycombinator.com/item?id=37997246) - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
@@ -22,6 +23,7 @@
 * [2023-10-24, 09:27:35](https://news.ycombinator.com/item?id=37996655) - [Email Address Regular Expression That 99.99% Works](https://emailregex.com/index.html)
 * [2023-10-24, 09:25:20](https://news.ycombinator.com/item?id=37996642) - [Females less likely to heal from ACL injuries than males, finds study](https://medicalxpress.com/news/2023-10-females-acl-injuries-males.html)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+* [2023-10-24, 08:17:36](https://news.ycombinator.com/item?id=37996143) - [When is privacy button not a privacy button? When Google runs it, claims lawsuit](https://www.theregister.com/2023/10/24/google_privacy_button/)
 * [2023-10-24, 08:15:20](https://news.ycombinator.com/item?id=37996123) - [World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
 * [2023-10-24, 07:52:05](https://news.ycombinator.com/item?id=37995950) - ['Failure to act' on suicide website linked to 50 UK deaths](https://www.bbc.co.uk/news/uk-67082224)
 * [2023-10-24, 07:46:15](https://news.ycombinator.com/item?id=37995916) - [Amazon's Fallout TV series gets a 2024 release date](https://arstechnica.com/gaming/2023/10/amazons-fallout-tv-series-gets-a-2024-release-date/)

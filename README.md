@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men (2019)](https://tonsky.me/blog/good-times-weak-men/)
-* [2023-10-24, 10:58:16](https://news.ycombinator.com/item?id=37997246) - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
+* [2023-10-24, 13:03:52](https://news.ycombinator.com/item?id=37998619) - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
+* [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men (2019) (2019)](https://tonsky.me/blog/good-times-weak-men/)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 * [2023-10-24, 10:23:00](https://news.ycombinator.com/item?id=37996988) - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
@@ -10,10 +10,10 @@
 * [2023-10-24, 09:55:03](https://news.ycombinator.com/item?id=37996817) - [Sky Asked Govt. To Target Pirate IPTV Resellers via New Dedicated Police Unit](https://torrentfreak.com/sky-asked-govt-to-target-pirate-iptv-resellers-via-new-dedicated-police-unit-231023/)
 * [2023-10-24, 09:51:35](https://news.ycombinator.com/item?id=37996802) - [Show HN: Fire UK Calculator and Visualiser](https://fire.picheta.me/uk)
 * [2023-10-24, 09:45:52](https://news.ycombinator.com/item?id=37996780) - [Retro Arcade Game Ads](https://buzzbloq.com/retro-arcade-game-ads-a-nostalgic-look-at-marketing-of-the-past/)
-* [2023-10-24, 09:36:10](https://news.ycombinator.com/item?id=37996721) - [Americans' confidence in technology firms has dropped](https://www.brookings.edu/articles/how-americans-confidence-in-technology-firms-has-dropped-evidence-from-the-second-wave-of-the-american-institutional-confidence-poll/)
 * [2023-10-24, 09:35:08](https://news.ycombinator.com/item?id=37996712) - [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
 * [2023-10-24, 09:25:20](https://news.ycombinator.com/item?id=37996642) - [Females less likely to heal from ACL injuries than males, finds study](https://medicalxpress.com/news/2023-10-females-acl-injuries-males.html)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+* [2023-10-24, 08:17:36](https://news.ycombinator.com/item?id=37996143) - [When is privacy button not a privacy button? When Google runs it, claims lawsuit](https://www.theregister.com/2023/10/24/google_privacy_button/)
 * [2023-10-24, 07:22:59](https://news.ycombinator.com/item?id=37995761) - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
 * [2023-10-24, 07:18:21](https://news.ycombinator.com/item?id=37995718) - [Writing games the blog dedicated to text-based gaming](https://writing-games.com/)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
@@ -28,8 +28,8 @@
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU fuzzing via intricate program generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
-* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 11:51:48](https://news.ycombinator.com/item?id=37974572) - [The Right Chemistry: The incendiary history of flammable fabrics (2022)](https://montrealgazette.com/opinion/columnists/the-right-chemistry-the-incendiary-history-of-flammable-fabrics)
+* [2023-10-22, 07:45:31](https://news.ycombinator.com/item?id=37973603) - [The Humbling of the Maths Snobs](https://www.ft.com/content/fd0bf457-f20b-4121-bcae-145df24c8d1c)
 
 ## [Archives](archives/index.md)
 
