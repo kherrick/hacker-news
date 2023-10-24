@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-24, 18:17:20](https://news.ycombinator.com/item?id=38003064) - [CA DMV suspends Cruise deployment and driverless testing permits](https://email.dmvonline.ca.gov/t/y-e-xnltyk-dythvudjl-m/)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends GM Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 17:04:41](https://news.ycombinator.com/item?id=38002026) - [Europe's CSAM-scanning plan is tipping point for democratic rights, experts warn](https://techcrunch.com/2023/10/24/eu-csam-scanning-edps-seminar/)
 * [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
@@ -26,6 +25,7 @@
 * [2023-10-24, 09:35:08](https://news.ycombinator.com/item?id=37996712) - [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 08:35:19](https://news.ycombinator.com/item?id=37996291) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
+* [2023-10-24, 07:18:21](https://news.ycombinator.com/item?id=37995718) - [Writing games: A blog dedicated to text-based gaming](https://writing-games.com/)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
 * [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [Write what you don't know](https://elifshafak.substack.com/p/write-what-you-dont-know)
