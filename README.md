@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
+* [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men (2019)](https://tonsky.me/blog/good-times-weak-men/)
 * [2023-10-24, 10:58:16](https://news.ycombinator.com/item?id=37997246) - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
@@ -26,9 +26,9 @@
 * [2023-10-23, 22:32:45](https://news.ycombinator.com/item?id=37992513) - [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
 * [2023-10-23, 22:29:38](https://news.ycombinator.com/item?id=37992481) - [Show HN: React-magic-motion, a package to automatically animate your components](https://www.react-magic-motion.com/)
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU fuzzing via intricate program generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
-* [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
+* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 * [2023-10-22, 11:51:48](https://news.ycombinator.com/item?id=37974572) - [The Right Chemistry: The incendiary history of flammable fabrics (2022)](https://montrealgazette.com/opinion/columnists/the-right-chemistry-the-incendiary-history-of-flammable-fabrics)
 
 ## [Archives](archives/index.md)
