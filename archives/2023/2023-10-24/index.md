@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:41:05](https://news.ycombinator.com/item?id=38005228) - [States sue Meta claiming its platforms are addictive and harm kids mental health](https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28)
 * [2023-10-24, 20:39:20](https://news.ycombinator.com/item?id=38005201) - [The Silent and Relentless Erosion of Corporate Soul](https://robertgreiner.com/the-race-to-the-bottom/)
@@ -24,6 +25,7 @@
 * [2023-10-24, 18:11:09](https://news.ycombinator.com/item?id=38002994) - [A11y Is Not Accessible](https://mobilea11y.com/blog/inaccessible-a11y/)
 * [2023-10-24, 18:10:25](https://news.ycombinator.com/item?id=38002979) - [InstallAware First and Only to Source Decentralized Setups on BitTorrent (2019)](https://www.installaware.com/download-torrent.htm)
 * [2023-10-24, 18:10:11](https://news.ycombinator.com/item?id=38002974) - [Women and non-binary people in a general strike for gender equality in Iceland](https://www.ruv.is/frettir/innlent/2023-10-24-tugir-thusunda-komu-saman-a-arnarholi-394829)
+* [2023-10-24, 18:02:46](https://news.ycombinator.com/item?id=38002871) - [I wish people would do historical arguments better](https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends GM Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 17:49:31](https://news.ycombinator.com/item?id=38002665) - [Show HN: Togomak – declarative pipeline orchestrator based on HCL and Terraform](https://github.com/srevinsaju/togomak)
 * [2023-10-24, 17:35:16](https://news.ycombinator.com/item?id=38002461) - [Apple authors release paper on a multi-resolution diffusion model](https://arxiv.org/abs/2310.15111)
@@ -60,6 +62,7 @@
 * [2023-10-24, 13:12:44](https://news.ycombinator.com/item?id=37998730) - [Large Search Spaces Mean Magic (2005)](http://sl4.org/archive/0507/11676.html)
 * [2023-10-24, 13:09:21](https://news.ycombinator.com/item?id=37998691) - [I Hate NestJS](https://ethang.dev/blog/i-hate-nest-js/)
 * [2023-10-24, 13:03:52](https://news.ycombinator.com/item?id=37998619) - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
+* [2023-10-24, 12:25:34](https://news.ycombinator.com/item?id=37998147) - [There should be more cash prizes for solving historical mysteries](https://resobscura.substack.com/p/there-should-be-more-cash-prizes)
 * [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
 * [2023-10-24, 10:58:16](https://news.ycombinator.com/item?id=37997246) - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
