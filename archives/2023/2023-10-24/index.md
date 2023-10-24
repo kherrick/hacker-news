@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 20:06:10](https://news.ycombinator.com/item?id=38004684) - [Alphabet Earnings Release FY23 Q3 [pdf]](https://abc.xyz/assets/4a/3e/3e08902c4a45b5cf530e267cf818/2023q3-alphabet-earnings-release.pdf)
 * [2023-10-24, 18:58:23](https://news.ycombinator.com/item?id=38003630) - [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
 * [2023-10-24, 18:53:13](https://news.ycombinator.com/item?id=38003544) - [Twillio immediatly closes accounts with the word Palestine in them](https://news.ycombinator.com/item?id=38003544)
 * [2023-10-24, 18:49:55](https://news.ycombinator.com/item?id=38003497) - [California DMV suspends Cruise's driverless testing permit effective immediately](https://www.dmv.ca.gov/portal/news-and-media/dmv-statement-on-cruise-llc-suspension/)
