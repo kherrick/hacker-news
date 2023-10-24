@@ -2,7 +2,6 @@
 
 * [2023-10-24, 23:02:31](https://news.ycombinator.com/item?id=38006890) - [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
 * [2023-10-24, 22:24:20](https://news.ycombinator.com/item?id=38006512) - [Bill Watterson's Life After \"Calvin and Hobbes\"](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
-* [2023-10-24, 22:22:24](https://news.ycombinator.com/item?id=38006495) - [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
 * [2023-10-24, 22:19:51](https://news.ycombinator.com/item?id=38006478) - [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
 * [2023-10-24, 22:08:28](https://news.ycombinator.com/item?id=38006363) - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
 * [2023-10-24, 21:54:16](https://news.ycombinator.com/item?id=38006204) - [Show HN: RustPython for FreeDOS with W2c2](https://github.com/coolcoder613eb/RustPython)
@@ -18,6 +17,7 @@
 * [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [Why we don’t generate elliptic curves every day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation is a knapsack problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
+* [2023-10-24, 13:50:11](https://news.ycombinator.com/item?id=37999164) - [The Ideation Flywheel: A mental model for deciding which startup ideas to pursue](https://www.stackfix.com/blog/the-ideation-flywheel)
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 12:25:34](https://news.ycombinator.com/item?id=37998147) - [There should be more cash prizes for solving historical mysteries](https://resobscura.substack.com/p/there-should-be-more-cash-prizes)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants are scared around bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
