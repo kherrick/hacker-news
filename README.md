@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-24, 07:22:59](https://news.ycombinator.com/item?id=37995761) - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
 * [2023-10-24, 06:11:10](https://news.ycombinator.com/item?id=37995319) - [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 05:33:52](https://news.ycombinator.com/item?id=37995119) - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
@@ -15,7 +16,6 @@
 * [2023-10-23, 21:54:53](https://news.ycombinator.com/item?id=37992104) - [Nvidia to Challenge Intel with Arm-Based Processors for PCs](https://www.bloomberg.com/news/articles/2023-10-23/nvidia-to-take-on-intel-with-arm-based-pc-chips-reuters-says)
 * [2023-10-23, 21:19:45](https://news.ycombinator.com/item?id=37991746) - [Marcel the Shell](https://www.marceltheshell.org)
 * [2023-10-23, 21:14:52](https://news.ycombinator.com/item?id=37991695) - [Show HN: WebSession, a Secure Replacement for Cookies](https://websession.dev/)
-* [2023-10-23, 20:50:15](https://news.ycombinator.com/item?id=37991401) - [Two Kinds of Techno-Optimism](https://garymarcus.substack.com/p/two-kinds-of-techno-optimism)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 19:51:02](https://news.ycombinator.com/item?id=37990646) - [COBOL on Wheelchair: Micro web-framework for COBOL](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md)
 * [2023-10-23, 19:48:48](https://news.ycombinator.com/item?id=37990621) - [iOS Single App Mode Escape](https://labs.withsecure.com/advisories/single-app-mode-bypass)
