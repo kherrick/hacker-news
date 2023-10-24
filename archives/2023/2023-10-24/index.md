@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 16:29:52](https://news.ycombinator.com/item?id=38001523) - [Scammers posing as customer service agents on X as companies leave platform](https://nltimes.nl/2023/10/24/scammers-posing-customer-service-agents-x-companies-leave-platform)
 * [2023-10-24, 16:19:22](https://news.ycombinator.com/item?id=38001361) - [A Controversial Plan to Scan Private Messages for Child Abuse Meets Scandal](https://www.wired.com/story/csar-chat-scan-proposal-european-commission-ads/)
+* [2023-10-24, 16:16:39](https://news.ycombinator.com/item?id=38001322) - [Apple Announces October Event for Macs: 'Scary Fast'](https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/)
 * [2023-10-24, 16:03:18](https://news.ycombinator.com/item?id=38001099) - [Odorant diffuser improves memory and neural functioning in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405466/)
 * [2023-10-24, 15:48:22](https://news.ycombinator.com/item?id=38000843) - [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
 * [2023-10-24, 15:47:24](https://news.ycombinator.com/item?id=38000824) - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
