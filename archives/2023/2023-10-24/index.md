@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
+* [2023-10-24, 16:48:59](https://news.ycombinator.com/item?id=38001801) - [Show HN: FollowDev, HH-like forum exclusively for software dev-related topics](https://www.followdev.com)
+* [2023-10-24, 16:47:57](https://news.ycombinator.com/item?id=38001784) - [The City of Seattle Accidentally Gave Me 32M Emails for 40 Dollars](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
 * [2023-10-24, 16:29:52](https://news.ycombinator.com/item?id=38001523) - [Scammers posing as customer service agents on X as companies leave platform](https://nltimes.nl/2023/10/24/scammers-posing-customer-service-agents-x-companies-leave-platform)
 * [2023-10-24, 16:19:22](https://news.ycombinator.com/item?id=38001361) - [A Controversial Plan to Scan Private Messages for Child Abuse Meets Scandal](https://www.wired.com/story/csar-chat-scan-proposal-european-commission-ads/)
 * [2023-10-24, 16:16:39](https://news.ycombinator.com/item?id=38001322) - [Apple Announces October Event for Macs: 'Scary Fast'](https://www.macrumors.com/2023/10/24/apple-october-mac-event-2023/)
