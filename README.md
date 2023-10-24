@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-24, 18:58:23](https://news.ycombinator.com/item?id=38003630) - [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
 * [2023-10-24, 18:35:34](https://news.ycombinator.com/item?id=38003313) - [No federal privacy law? After the 23andMe hack, it's time to take action](https://technical.ly/civic-news/federal-privacy-laws-23andme-hack-cybersecurity/)
 * [2023-10-24, 18:33:27](https://news.ycombinator.com/item?id=38003292) - [Apple to make tools and parts to fix phones, computers available nationwide](https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/)
 * [2023-10-24, 18:28:40](https://news.ycombinator.com/item?id=38003233) - [Satya Nadella admits giving up on Windows Phone and mobile was a mistake](https://www.theverge.com/2023/10/24/23930478/microsoft-ceo-satya-nadella-mobile-windows-phone)
@@ -17,7 +16,7 @@
 * [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:01:17](https://news.ycombinator.com/item?id=38000160) - [Thunderbird 115.4.0](https://www.thunderbird.net/en-US/thunderbird/115.4.0/releasenotes/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [We don't generate elliptic curves every day](https://words.filippo.io/dispatches/parameters/)
-* [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation is a Knapsack problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
+* [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation is a knapsack problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
 * [2023-10-24, 13:50:11](https://news.ycombinator.com/item?id=37999164) - [The Ideation Flywheel (or how to get better startup ideas)](https://www.stackfix.com/blog/the-ideation-flywheel)
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants are scared around bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
@@ -26,6 +25,7 @@
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 08:35:19](https://news.ycombinator.com/item?id=37996291) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
+* [2023-10-22, 12:47:08](https://news.ycombinator.com/item?id=37974897) - [Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
 * [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [Write what you don't know](https://elifshafak.substack.com/p/write-what-you-dont-know)
 * [2023-10-22, 08:24:57](https://news.ycombinator.com/item?id=37973742) - ['A Neolithic feat of engineering': Orkney dig reveals ruins of tomb](https://www.theguardian.com/uk-news/2023/oct/21/a-neolithic-feat-of-engineering-orkney-dig-reveals-ruins-of-huge-tomb)
