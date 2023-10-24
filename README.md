@@ -27,7 +27,7 @@
 * [2023-10-23, 23:52:52](https://news.ycombinator.com/item?id=37993202) - [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
 * [2023-10-23, 22:32:45](https://news.ycombinator.com/item?id=37992513) - [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
 * [2023-10-23, 22:29:38](https://news.ycombinator.com/item?id=37992481) - [Show HN: React-magic-motion, a package to automatically animate your components](https://www.react-magic-motion.com/)
-* [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU fuzzing via intricate program generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
+* [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
 * [2023-10-22, 11:51:48](https://news.ycombinator.com/item?id=37974572) - [The Right Chemistry: The incendiary history of flammable fabrics (2022)](https://montrealgazette.com/opinion/columnists/the-right-chemistry-the-incendiary-history-of-flammable-fabrics)
 
