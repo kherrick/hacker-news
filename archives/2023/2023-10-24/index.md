@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 09:36:10](https://news.ycombinator.com/item?id=37996721) - [Americans' confidence in technology firms has dropped](https://www.brookings.edu/articles/how-americans-confidence-in-technology-firms-has-dropped-evidence-from-the-second-wave-of-the-american-institutional-confidence-poll/)
+* [2023-10-24, 09:27:35](https://news.ycombinator.com/item?id=37996655) - [Email Address Regular Expression That 99.99% Works](https://emailregex.com/index.html)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 08:15:20](https://news.ycombinator.com/item?id=37996123) - [World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
 * [2023-10-24, 07:52:05](https://news.ycombinator.com/item?id=37995950) - ['Failure to act' on suicide website linked to 50 UK deaths](https://www.bbc.co.uk/news/uk-67082224)
