@@ -7,6 +7,7 @@
 * [2023-10-23, 23:52:52](https://news.ycombinator.com/item?id=37993202) - [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
 * [2023-10-23, 23:36:34](https://news.ycombinator.com/item?id=37993075) - [The housing market looks like a bubble, 2008 regulator says](https://www.cnn.com/2023/10/11/economy/housing-market-bubble-sheila-bair/index.html)
 * [2023-10-23, 23:15:29](https://news.ycombinator.com/item?id=37992893) - [1Password discloses security incident linked to Okta breach](https://www.bleepingcomputer.com/news/security/1password-discloses-security-incident-linked-to-okta-breach/)
+* [2023-10-23, 22:55:12](https://news.ycombinator.com/item?id=37992725) - [Port a Unity Game to Your Own Engine: Part 1](https://www.altdevarts.com/p/port-a-unity-game-to-your-own-engine)
 * [2023-10-23, 22:46:04](https://news.ycombinator.com/item?id=37992647) - [AI will never threaten humans, says top Meta scientist](https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6)
 * [2023-10-23, 22:32:45](https://news.ycombinator.com/item?id=37992513) - [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
 * [2023-10-23, 22:25:02](https://news.ycombinator.com/item?id=37992434) - [Population.io](https://population.io/)
