@@ -48,6 +48,7 @@
 * [2023-10-23, 17:51:27](https://news.ycombinator.com/item?id=37989132) - [Google faces antitrust probe in Japan for pushing search default](https://english.kyodonews.net/news/2023/10/d2b4990f6c0f-japans-antitrust-watchdog-probes-google-for-pushing-search-default.html)
 * [2023-10-23, 17:51:20](https://news.ycombinator.com/item?id=37989130) - [Roblox Ryanair](https://www.robloxryanair.com)
 * [2023-10-23, 17:48:19](https://news.ycombinator.com/item?id=37989098) - [Melting in W. Antarctica 'unavoidable,' potentially disastrous sea level rise](https://www.cnn.com/2023/10/23/world/west-antarctic-ice-melt-climate/index.html)
+* [2023-10-23, 17:15:09](https://news.ycombinator.com/item?id=37988638) - [Personal aviation is about to get interesting](https://www.elidourado.com/p/personal-aviation)
 * [2023-10-23, 17:11:33](https://news.ycombinator.com/item?id=37988585) - [Casidoo on TinaCMS](https://blog.cassidoo.co/post/trying-tinacms/)
 * [2023-10-23, 17:09:48](https://news.ycombinator.com/item?id=37988560) - [Unavoidable future increase in West Antarctic ice-shelf melting over 21 century](https://www.nature.com/articles/s41558-023-01818-x)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland Launches Ambitious Plan to Provide Citywide Dirt Cheap Broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
