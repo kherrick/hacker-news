@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 * [2023-10-24, 10:23:00](https://news.ycombinator.com/item?id=37996988) - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
 * [2023-10-24, 10:16:24](https://news.ycombinator.com/item?id=37996942) - [Mystery car spotted in old London photo](https://www.thesun.co.uk/motors/24490985/mystery-motor-london-unidentified-riddle-car-60s/)
 * [2023-10-24, 10:12:22](https://news.ycombinator.com/item?id=37996918) - [Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
@@ -23,6 +24,7 @@
 * [2023-10-24, 07:18:21](https://news.ycombinator.com/item?id=37995718) - [Writing games the blog dedicated to text-based gaming](https://writing-games.com/)
 * [2023-10-24, 06:22:13](https://news.ycombinator.com/item?id=37995384) - [GM delays $4B EV truck factory plan by another year](https://techcrunch.com/2023/10/17/gm-delays-4b-ev-truck-factory-plan-by-another-year/)
 * [2023-10-24, 06:11:10](https://news.ycombinator.com/item?id=37995319) - [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
+* [2023-10-24, 05:56:56](https://news.ycombinator.com/item?id=37995254) - [The killer features of the Steam Deck](https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 05:33:52](https://news.ycombinator.com/item?id=37995119) - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
 * [2023-10-24, 05:22:03](https://news.ycombinator.com/item?id=37995067) - [Amazon selling $15k tiny house with two floors and ships in under two weeks](https://www.the-sun.com/money/9391646/amazon-unique-moon-dome-tiny-house-two-bathrooms/)
