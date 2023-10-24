@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-24, 13:50:11",
+      "https://news.ycombinator.com/item?id=37999164"
+    ],
+    [
+      "The Ideation Flywheel (or how to get better startup ideas)",
+      "https://www.stackfix.com/blog/the-ideation-flywheel"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 13:39:54",
+      "https://news.ycombinator.com/item?id=37999035"
+    ],
+    [
+      "Animated AI",
+      "https://animatedai.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 13:13:40",
       "https://news.ycombinator.com/item?id=37998739"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-10-24, 10:08:03",
-      "https://news.ycombinator.com/item?id=37996891"
-    ],
-    [
-      "Automattic is acquiring Texts and betting big on the future of messaging",
-      "https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 09:55:03",
       "https://news.ycombinator.com/item?id=37996817"
     ],
@@ -147,6 +157,16 @@
     [
       "Major Changes at RISC-V Designer SiFive",
       "https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 08:35:19",
+      "https://news.ycombinator.com/item?id=37996291"
+    ],
+    [
+      "Goodbye, Node.js Buffer",
+      "https://sindresorhus.com/blog/goodbye-nodejs-buffer"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion",
       "https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 22:32:45",
-      "https://news.ycombinator.com/item?id=37992513"
-    ],
-    [
-      "Show HN: Roadmap – A Personal Growth Game for Social Anxiety",
-      "https://www.roadmaptogrow.com"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 22:29:38",
-      "https://news.ycombinator.com/item?id=37992481"
-    ],
-    [
-      "Show HN: React-magic-motion, a package to automatically animate your components",
-      "https://www.react-magic-motion.com/"
     ]
   ],
   [
