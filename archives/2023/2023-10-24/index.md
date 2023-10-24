@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:07:48](https://news.ycombinator.com/item?id=38004709) - [Windows 11's default mail client will show ads starting 2024](https://techcommunity.microsoft.com/t5/outlook/mail-amp-calendar-apps-will-be-replaced-with-new-outlook-for/td-p/3850309)
 * [2023-10-24, 20:06:10](https://news.ycombinator.com/item?id=38004684) - [Alphabet Earnings Release FY23 Q3 [pdf]](https://abc.xyz/assets/4a/3e/3e08902c4a45b5cf530e267cf818/2023q3-alphabet-earnings-release.pdf)
 * [2023-10-24, 20:05:40](https://news.ycombinator.com/item?id=38004674) - [Global Tax Evasion Report 2024 [pdf]](https://www.taxobservatory.eu/www-site/uploads/2023/10/global_tax_evasion_report_24.pdf)
+* [2023-10-24, 19:52:06](https://news.ycombinator.com/item?id=38004457) - [Are Microplastics Causing Upticks in Dementia?](https://www.earthday.org/are-microplastics-causing-upticks-in-dementia/)
+* [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git using some concepts introduced by TUF](https://gittuf.github.io/)
 * [2023-10-24, 18:58:23](https://news.ycombinator.com/item?id=38003630) - [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
 * [2023-10-24, 18:53:13](https://news.ycombinator.com/item?id=38003544) - [Twillio immediatly closes accounts with the word Palestine in them](https://news.ycombinator.com/item?id=38003544)
 * [2023-10-24, 18:49:55](https://news.ycombinator.com/item?id=38003497) - [California DMV suspends Cruise's driverless testing permit effective immediately](https://www.dmv.ca.gov/portal/news-and-media/dmv-statement-on-cruise-llc-suspension/)
