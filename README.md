@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-24, 06:11:10](https://news.ycombinator.com/item?id=37995319) - [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)
+* [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
+* [2023-10-24, 05:33:52](https://news.ycombinator.com/item?id=37995119) - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
 * [2023-10-24, 04:01:30](https://news.ycombinator.com/item?id=37994740) - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 * [2023-10-24, 03:57:12](https://news.ycombinator.com/item?id=37994725) - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
 * [2023-10-24, 02:54:44](https://news.ycombinator.com/item?id=37994387) - [Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
@@ -24,12 +27,9 @@
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland launches plan to provide cheap broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:01:11](https://news.ycombinator.com/item?id=37988423) - [RankScience (YC W17) is Hiring SDRs to help startups grow SEO](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2023-10-23, 16:21:09](https://news.ycombinator.com/item?id=37987877) - [Show HN: Autolicious – AI-powered bookmark cataloging Chrome extension](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
-* [2023-10-23, 15:13:55](https://news.ycombinator.com/item?id=37986821) - [Why Ten Billion Snow Crabs Disappeared Off the Coast of Alaska](https://www.smithsonianmag.com/smart-news/why-10-billion-snow-crabs-disappeared-off-the-coast-of-alaska-180983112/)
-* [2023-10-23, 14:01:47](https://news.ycombinator.com/item?id=37985777) - [MSW 2.0 – Mock Service Worker](https://mswjs.io/blog/introducing-msw-2.0/)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
 * [2023-10-23, 10:44:35](https://news.ycombinator.com/item?id=37983864) - [William and Mary by Roald Dahl (1959)](https://user.ceng.metu.edu.tr/~ucoluk/yazin/William_and_Mary.html)
 * [2023-10-23, 07:44:44](https://news.ycombinator.com/item?id=37982621) - [Protomaps – A free and open source map of the world](https://protomaps.com/)
-* [2023-10-22, 18:05:25](https://news.ycombinator.com/item?id=37977632) - [The Lessons of Lucasfilm's Habitat (1990)](https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html)
 
 ## [Archives](archives/index.md)
 
