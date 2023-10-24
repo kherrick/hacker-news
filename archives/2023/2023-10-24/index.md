@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 13:50:11](https://news.ycombinator.com/item?id=37999164) - [The Ideation Flywheel (or how to get better startup ideas)](https://www.stackfix.com/blog/the-ideation-flywheel)
+* [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 13:13:40](https://news.ycombinator.com/item?id=37998739) - [BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
 * [2023-10-24, 13:12:44](https://news.ycombinator.com/item?id=37998730) - [Large Search Spaces Mean Magic (2005)](http://sl4.org/archive/0507/11676.html)
 * [2023-10-24, 13:03:52](https://news.ycombinator.com/item?id=37998619) - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
@@ -25,6 +27,7 @@
 * [2023-10-24, 09:27:35](https://news.ycombinator.com/item?id=37996655) - [Email Address Regular Expression That 99.99% Works](https://emailregex.com/index.html)
 * [2023-10-24, 09:25:20](https://news.ycombinator.com/item?id=37996642) - [Females less likely to heal from ACL injuries than males, finds study](https://medicalxpress.com/news/2023-10-females-acl-injuries-males.html)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+* [2023-10-24, 08:35:19](https://news.ycombinator.com/item?id=37996291) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
 * [2023-10-24, 08:17:36](https://news.ycombinator.com/item?id=37996143) - [When is privacy button not a privacy button? When Google runs it, claims lawsuit](https://www.theregister.com/2023/10/24/google_privacy_button/)
 * [2023-10-24, 08:15:20](https://news.ycombinator.com/item?id=37996123) - [World shift to clean energy is unstoppable, IEA report says](https://www.bbc.com/news/science-environment-67198206)
 * [2023-10-24, 07:52:05](https://news.ycombinator.com/item?id=37995950) - ['Failure to act' on suicide website linked to 50 UK deaths](https://www.bbc.co.uk/news/uk-67082224)
