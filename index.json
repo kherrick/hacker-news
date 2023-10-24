@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-10-23, 23:15:29",
-      "https://news.ycombinator.com/item?id=37992893"
+      "2023-10-23, 23:36:34",
+      "https://news.ycombinator.com/item?id=37993075"
     ],
     [
-      "1Password discloses security incident linked to Okta breach",
-      "https://www.bleepingcomputer.com/news/security/1password-discloses-security-incident-linked-to-okta-breach/"
+      "The housing market looks like a bubble, 2008 regulator says",
+      "https://www.cnn.com/2023/10/11/economy/housing-market-bubble-sheila-bair/index.html"
     ]
   ],
   [
     [
-      "2023-10-23, 21:41:06",
-      "https://news.ycombinator.com/item?id=37991963"
+      "2023-10-23, 21:54:53",
+      "https://news.ycombinator.com/item?id=37992104"
     ],
     [
-      "H-1B Visa Program Changes Aimed at Stopping Applicants from Gaming Lottery",
-      "https://www.wsj.com/politics/policy/h-1b-visa-program-changes-aimed-at-stopping-applicants-from-gaming-lottery-3b962fb3"
+      "Nvidia to Challenge Intel with Arm-Based Processors for PCs",
+      "https://www.bloomberg.com/news/articles/2023-10-23/nvidia-to-take-on-intel-with-arm-based-pc-chips-reuters-says"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-10-23, 21:14:52",
+      "https://news.ycombinator.com/item?id=37991695"
+    ],
+    [
+      "Show HN: WebSession, a Secure Replacement for Cookies",
+      "https://websession.dev/"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 20:53:19",
       "https://news.ycombinator.com/item?id=37991439"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2023-10-23, 20:46:58",
-      "https://news.ycombinator.com/item?id=37991349"
+      "2023-10-23, 20:50:15",
+      "https://news.ycombinator.com/item?id=37991401"
     ],
     [
-      "Tesla discloses DOJ probes over vehicle range, personal benefits and more",
-      "https://www.cnbc.com/2023/10/23/tesla-discloses-doj-probes-over-vehicle-range-personal-benefits-more.html"
+      "Two Kinds of Techno-Optimism",
+      "https://garymarcus.substack.com/p/two-kinds-of-techno-optimism"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "How does macOS manage virtual cores on Apple Silicon?",
       "https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 20:18:46",
-      "https://news.ycombinator.com/item?id=37990990"
-    ],
-    [
-      "Mazda slaps developer with cease-and-desist for DIY smart home integration",
-      "https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37990338"
     ],
     [
-      "The GitHub Black Market That Helps Coders Cheat the Popularity Contest",
+      "The black market in GitHub stars",
       "https://www.wired.com/story/github-stars-black-market-coders-cheat/"
     ]
   ],
@@ -121,11 +121,21 @@
   ],
   [
     [
+      "2023-10-23, 18:42:12",
+      "https://news.ycombinator.com/item?id=37989815"
+    ],
+    [
+      "Chrome Removing Theora Support",
+      "https://groups.google.com/a/chromium.org/g/blink-dev/c/qqDdLkeyk7Y/m/ajHePzglAwAJ"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 18:39:05",
       "https://news.ycombinator.com/item?id=37989773"
     ],
     [
-      "Cascade: CPU Fuzzing via Intricate Program Generation",
+      "Cascade: CPU fuzzing via intricate program generation",
       "https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/"
     ]
   ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37988585"
     ],
     [
-      "Casidoo on TinaCMS",
+      "Trying out TinaCMS",
       "https://blog.cassidoo.co/post/trying-tinacms/"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "MSW 2.0 – Mock Service Worker",
       "https://mswjs.io/blog/introducing-msw-2.0/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 13:00:13",
-      "https://news.ycombinator.com/item?id=37985005"
-    ],
-    [
-      "ChDB: Embedded OLAP SQL Engine Powered by ClickHouse",
-      "https://github.com/chdb-io/chdb"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-10-23, 07:26:14",
-      "https://news.ycombinator.com/item?id=37982524"
-    ],
-    [
-      "How to Fetch a Turbo Stream",
-      "https://www.ducktypelabs.com/how-to-fetch-a-turbo-stream/"
-    ]
-  ],
-  [
-    [
       "2023-10-23, 07:13:18",
       "https://news.ycombinator.com/item?id=37982447"
     ],
     [
-      "Abusing GDB Features for Data Ingress and Egress",
+      "Abusing GDB features for data ingress and egress",
       "https://www.archcloudlabs.com/projects/debuginfod/"
+    ]
+  ],
+  [
+    [
+      "2023-10-22, 23:14:25",
+      "https://news.ycombinator.com/item?id=37979930"
+    ],
+    [
+      "The heaviness of maintaining systems",
+      "https://pcable.net/posts/2020-02-29-heaviness-of-systems/"
     ]
   ],
   [
