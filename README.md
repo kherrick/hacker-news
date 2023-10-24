@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-24, 00:59:03](https://news.ycombinator.com/item?id=37993725) - [Your mother can now recommend matches for you on Tinder](https://www.businessinsider.com/tinder-matchmaker-feature-lets-friends-family-recommend-potential-matches-dating-2023-10)
+* [2023-10-24, 00:55:56](https://news.ycombinator.com/item?id=37993702) - [1Password detects \"suspicious activity\" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 * [2023-10-24, 00:38:15](https://news.ycombinator.com/item?id=37993575) - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 * [2023-10-23, 23:52:52](https://news.ycombinator.com/item?id=37993202) - [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
 * [2023-10-23, 22:55:12](https://news.ycombinator.com/item?id=37992725) - [Port a Unity Game to Your Own Engine: Part 1](https://www.altdevarts.com/p/port-a-unity-game-to-your-own-engine)
