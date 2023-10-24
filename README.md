@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-24, 04:01:30](https://news.ycombinator.com/item?id=37994740) - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
+* [2023-10-24, 03:57:12](https://news.ycombinator.com/item?id=37994725) - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
 * [2023-10-24, 00:55:56](https://news.ycombinator.com/item?id=37993702) - [1Password detects \"suspicious activity\" in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/)
 * [2023-10-24, 00:38:15](https://news.ycombinator.com/item?id=37993575) - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
 * [2023-10-23, 23:52:52](https://news.ycombinator.com/item?id=37993202) - [How to Build Your Own AI-Generated Images with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
@@ -13,7 +14,6 @@
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 19:51:02](https://news.ycombinator.com/item?id=37990646) - [COBOL on Wheelchair: Micro web-framework for COBOL](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md)
 * [2023-10-23, 19:48:48](https://news.ycombinator.com/item?id=37990621) - [iOS Single App Mode Escape](https://labs.withsecure.com/advisories/single-app-mode-bypass)
-* [2023-10-23, 19:39:41](https://news.ycombinator.com/item?id=37990528) - [Samsung and other manufacturers disable phones bought on gray markets](https://nomadscrolls.net/2023/10/23/samsung-and-other-manufacturers-disable-phones-bought-on-gray-markets-a-consumer-nightmare/)
 * [2023-10-23, 18:46:07](https://news.ycombinator.com/item?id=37989875) - [How to run 50% faster without external energy (2020)](https://www.science.org/doi/10.1126/sciadv.aay1950)
 * [2023-10-23, 18:42:12](https://news.ycombinator.com/item?id=37989815) - [Chrome Removing Theora Support](https://groups.google.com/a/chromium.org/g/blink-dev/c/qqDdLkeyk7Y/m/ajHePzglAwAJ)
 * [2023-10-23, 18:39:05](https://news.ycombinator.com/item?id=37989773) - [Cascade: CPU fuzzing via intricate program generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
