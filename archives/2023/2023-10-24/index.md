@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 22:08:36](https://news.ycombinator.com/item?id=38006369) - [Bitcoin miners running up Texans' electricity bills](https://www.houstonchronicle.com/business/columnists/tomlinson/article/texas-bictoin-eletric-grid-higher-bills-18420115.php)
 * [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:41:05](https://news.ycombinator.com/item?id=38005228) - [States sue Meta claiming its platforms are addictive and harm kids mental health](https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28)
