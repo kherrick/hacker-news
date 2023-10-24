@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 23:02:31](https://news.ycombinator.com/item?id=38006890) - [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
+* [2023-10-24, 22:24:20](https://news.ycombinator.com/item?id=38006512) - [Bill Watterson's Life After \"Calvin and Hobbes\"](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
 * [2023-10-24, 22:22:24](https://news.ycombinator.com/item?id=38006495) - [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
 * [2023-10-24, 22:19:51](https://news.ycombinator.com/item?id=38006478) - [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
 * [2023-10-24, 22:08:36](https://news.ycombinator.com/item?id=38006369) - [Bitcoin miners running up Texans' electricity bills](https://www.houstonchronicle.com/business/columnists/tomlinson/article/texas-bictoin-eletric-grid-higher-bills-18420115.php)
 * [2023-10-24, 22:08:28](https://news.ycombinator.com/item?id=38006363) - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
+* [2023-10-24, 21:54:16](https://news.ycombinator.com/item?id=38006204) - [Show HN: RustPython for FreeDOS with W2c2](https://github.com/coolcoder613eb/RustPython)
 * [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:41:05](https://news.ycombinator.com/item?id=38005228) - [States sue Meta claiming its platforms are addictive and harm kids mental health](https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28)
@@ -18,6 +21,7 @@
 * [2023-10-24, 19:52:06](https://news.ycombinator.com/item?id=38004457) - [Are Microplastics Causing Upticks in Dementia?](https://www.earthday.org/are-microplastics-causing-upticks-in-dementia/)
 * [2023-10-24, 19:48:02](https://news.ycombinator.com/item?id=38004404) - [Snapdragon Oryon, faster than Apple's M2 chip at 30% less power](https://twitter.com/IanCutress/status/1716902706621866487)
 * [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git using some concepts introduced by TUF](https://gittuf.github.io/)
+* [2023-10-24, 19:27:26](https://news.ycombinator.com/item?id=38004099) - [What being filthy rich in China looked like in 1, 1000, and 2000 AD](https://bigthink.com/the-past/china-wealth/)
 * [2023-10-24, 18:58:23](https://news.ycombinator.com/item?id=38003630) - [The Great Train Robbery: Everything We Know So Far](https://www.flexport.com/blog/the-great-train-robbery-everything-we-know-so-far/)
 * [2023-10-24, 18:53:13](https://news.ycombinator.com/item?id=38003544) - [Twillio immediatly closes accounts with the word Palestine in them](https://news.ycombinator.com/item?id=38003544)
 * [2023-10-24, 18:49:55](https://news.ycombinator.com/item?id=38003497) - [California DMV suspends Cruise's driverless testing permit effective immediately](https://www.dmv.ca.gov/portal/news-and-media/dmv-statement-on-cruise-llc-suspension/)
