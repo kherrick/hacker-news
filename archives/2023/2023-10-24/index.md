@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
 * [2023-10-24, 22:22:24](https://news.ycombinator.com/item?id=38006495) - [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
+* [2023-10-24, 22:19:51](https://news.ycombinator.com/item?id=38006478) - [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
 * [2023-10-24, 22:08:36](https://news.ycombinator.com/item?id=38006369) - [Bitcoin miners running up Texans' electricity bills](https://www.houstonchronicle.com/business/columnists/tomlinson/article/texas-bictoin-eletric-grid-higher-bills-18420115.php)
 * [2023-10-24, 22:08:28](https://news.ycombinator.com/item?id=38006363) - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
 * [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)

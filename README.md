@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-24, 22:22:24](https://news.ycombinator.com/item?id=38006495) - [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
+* [2023-10-24, 22:19:51](https://news.ycombinator.com/item?id=38006478) - [41 states sue Meta, claiming Instagram, Facebook are addictive, harm kids](https://www.washingtonpost.com/technology/2023/10/24/meta-lawsuit-facebook-instagram-children-mental-health/)
 * [2023-10-24, 22:08:28](https://news.ycombinator.com/item?id=38006363) - [CVS ditches common cold meds after FDA advisers say they're useless](https://arstechnica.com/health/2023/10/cvs-ditches-useless-cold-meds-but-not-bogus-homeopathic-products/)
 * [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
 * [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git](https://gittuf.github.io/)
@@ -18,7 +19,6 @@
 * [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation is a knapsack problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
 * [2023-10-24, 13:50:11](https://news.ycombinator.com/item?id=37999164) - [The Ideation Flywheel: A mental model for deciding which startup ideas to pursue](https://www.stackfix.com/blog/the-ideation-flywheel)
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
-* [2023-10-24, 13:13:40](https://news.ycombinator.com/item?id=37998739) - [BioNTech presents positive phase 1/2 data for CAR-T cell therapy candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
 * [2023-10-24, 12:25:34](https://news.ycombinator.com/item?id=37998147) - [There should be more cash prizes for solving historical mysteries](https://resobscura.substack.com/p/there-should-be-more-cash-prizes)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants are scared around bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:12:22](https://news.ycombinator.com/item?id=37996918) - [Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
