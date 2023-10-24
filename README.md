@@ -2,6 +2,7 @@
 
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:07:48](https://news.ycombinator.com/item?id=38004709) - [Windows 11's default mail client will show ads starting 2024](https://techcommunity.microsoft.com/t5/outlook/mail-amp-calendar-apps-will-be-replaced-with-new-outlook-for/td-p/3850309)
+* [2023-10-24, 20:06:10](https://news.ycombinator.com/item?id=38004684) - [Alphabet Earnings Release FY23 Q3 [pdf]](https://abc.xyz/assets/4a/3e/3e08902c4a45b5cf530e267cf818/2023q3-alphabet-earnings-release.pdf)
 * [2023-10-24, 20:05:40](https://news.ycombinator.com/item?id=38004674) - [Global Tax Evasion Report 2024 [pdf]](https://www.taxobservatory.eu/www-site/uploads/2023/10/global_tax_evasion_report_24.pdf)
 * [2023-10-24, 19:52:06](https://news.ycombinator.com/item?id=38004457) - [Are Microplastics Causing Upticks in Dementia?](https://www.earthday.org/are-microplastics-causing-upticks-in-dementia/)
 * [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git using some concepts introduced by TUF](https://gittuf.github.io/)
@@ -26,7 +27,6 @@
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 08:35:19](https://news.ycombinator.com/item?id=37996291) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
 * [2023-10-22, 12:47:08](https://news.ycombinator.com/item?id=37974897) - [Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
-* [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
 * [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [Write what you don't know](https://elifshafak.substack.com/p/write-what-you-dont-know)
 * [2023-10-22, 08:24:57](https://news.ycombinator.com/item?id=37973742) - ['A Neolithic feat of engineering': Orkney dig reveals ruins of tomb](https://www.theguardian.com/uk-news/2023/oct/21/a-neolithic-feat-of-engineering-orkney-dig-reveals-ruins-of-huge-tomb)
 * [2023-10-22, 08:23:01](https://news.ycombinator.com/item?id=37973731) - [On not noticing rather too many things](https://jacobbrazeal.wordpress.com/2023/10/22/on-not-noticing-rather-too-many-things/)
