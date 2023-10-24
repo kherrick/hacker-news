@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 07:52:05](https://news.ycombinator.com/item?id=37995950) - ['Failure to act' on suicide website linked to 50 UK deaths](https://www.bbc.co.uk/news/uk-67082224)
 * [2023-10-24, 07:22:59](https://news.ycombinator.com/item?id=37995761) - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
 * [2023-10-24, 06:22:13](https://news.ycombinator.com/item?id=37995384) - [GM delays $4B EV truck factory plan by another year](https://techcrunch.com/2023/10/17/gm-delays-4b-ev-truck-factory-plan-by-another-year/)
 * [2023-10-24, 06:11:10](https://news.ycombinator.com/item?id=37995319) - [Australian Env Scientist – Gagged and grief-stricken, but not without hope](https://www.abc.net.au/news/2023-10-24/odyssey-climate-scientists-suppress-truth-or-risk-funds-careers/102968970)

@@ -10,6 +10,7 @@
 * [2023-10-23, 22:55:12](https://news.ycombinator.com/item?id=37992725) - [Port a Unity Game to Your Own Engine: Part 1](https://www.altdevarts.com/p/port-a-unity-game-to-your-own-engine)
 * [2023-10-23, 22:46:04](https://news.ycombinator.com/item?id=37992647) - [AI will never threaten humans, says top Meta scientist](https://www.ft.com/content/30fa44a1-7623-499f-93b0-81e26e22f2a6)
 * [2023-10-23, 22:32:45](https://news.ycombinator.com/item?id=37992513) - [Show HN: Roadmap – A Personal Growth Game for Social Anxiety](https://www.roadmaptogrow.com)
+* [2023-10-23, 22:29:38](https://news.ycombinator.com/item?id=37992481) - [Show HN: React-magic-motion, a package to automatically animate your components](https://www.react-magic-motion.com/)
 * [2023-10-23, 22:25:02](https://news.ycombinator.com/item?id=37992434) - [Population.io](https://population.io/)
 * [2023-10-23, 21:54:53](https://news.ycombinator.com/item?id=37992104) - [Nvidia to Challenge Intel with Arm-Based Processors for PCs](https://www.bloomberg.com/news/articles/2023-10-23/nvidia-to-take-on-intel-with-arm-based-pc-chips-reuters-says)
 * [2023-10-23, 21:41:06](https://news.ycombinator.com/item?id=37991963) - [H-1B Visa Program Changes Aimed at Stopping Applicants from Gaming Lottery](https://www.wsj.com/politics/policy/h-1b-visa-program-changes-aimed-at-stopping-applicants-from-gaming-lottery-3b962fb3)
