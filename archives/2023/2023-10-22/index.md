@@ -55,6 +55,7 @@
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
 * [2023-10-22, 11:51:48](https://news.ycombinator.com/item?id=37974572) - [The Right Chemistry: The incendiary history of flammable fabrics (2022)](https://montrealgazette.com/opinion/columnists/the-right-chemistry-the-incendiary-history-of-flammable-fabrics)
 * [2023-10-22, 11:43:47](https://news.ycombinator.com/item?id=37974525) - [A 15 pound computer to inspire young programmers (2011)](https://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young.html)
+* [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [\"Write What You Don't Know\"](https://elifshafak.substack.com/p/write-what-you-dont-know)
 * [2023-10-22, 10:52:03](https://news.ycombinator.com/item?id=37974321) - [Ask HN: What is your favorite FOSS WYSIWYG editor?](https://news.ycombinator.com/item?id=37974321)
 * [2023-10-22, 10:46:40](https://news.ycombinator.com/item?id=37974296) - [A Brief History of a Problematic Appetizer (it’s squid)](https://www.nytimes.com/2023/10/22/opinion/calamari-squid-restaurants-china.html)
 * [2023-10-22, 10:22:25](https://news.ycombinator.com/item?id=37974187) - [Adblock Plus and (A Little) More](https://blog.adblockplus.org/blog/whats-happening-with-youtube-ads)

@@ -1,16 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
+* [2023-10-24, 16:59:48](https://news.ycombinator.com/item?id=38001964) - [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)
 * [2023-10-24, 16:48:59](https://news.ycombinator.com/item?id=38001801) - [Show HN: FollowDev, HH-like forum exclusively for software dev-related topics](https://www.followdev.com)
 * [2023-10-24, 16:47:57](https://news.ycombinator.com/item?id=38001784) - [The City of Seattle Accidentally Gave Me 32M Emails for 40 Dollars](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
 * [2023-10-24, 16:29:52](https://news.ycombinator.com/item?id=38001523) - [Scammers posing as customer service agents on X as companies leave platform](https://nltimes.nl/2023/10/24/scammers-posing-customer-service-agents-x-companies-leave-platform)
 * [2023-10-24, 16:19:22](https://news.ycombinator.com/item?id=38001361) - [A Controversial Plan to Scan Private Messages for Child Abuse Meets Scandal](https://www.wired.com/story/csar-chat-scan-proposal-european-commission-ads/)
-* [2023-10-24, 16:03:18](https://news.ycombinator.com/item?id=38001099) - [Odorant diffuser improves memory and neural functioning in older adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405466/)
 * [2023-10-24, 15:48:22](https://news.ycombinator.com/item?id=38000843) - [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
 * [2023-10-24, 15:47:24](https://news.ycombinator.com/item?id=38000824) - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
 * [2023-10-24, 15:40:19](https://news.ycombinator.com/item?id=38000694) - [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
 * [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
-* [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
 * [2023-10-24, 15:01:17](https://news.ycombinator.com/item?id=38000160) - [Thunderbird 115.4.0](https://www.thunderbird.net/en-US/thunderbird/115.4.0/releasenotes/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [We Don't Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 14:27:57](https://news.ycombinator.com/item?id=37999630) - [The Speed of the Librem 5](https://puri.sm/posts/the-real-speed-of-the-librem-5/)
@@ -30,6 +29,7 @@
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-22, 12:22:53](https://news.ycombinator.com/item?id=37974734) - [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)
+* [2023-10-22, 11:43:16](https://news.ycombinator.com/item?id=37974524) - [\"Write What You Don't Know\"](https://elifshafak.substack.com/p/write-what-you-dont-know)
 
 ## [Archives](archives/index.md)
 
