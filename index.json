@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-24, 20:47:24",
-      "https://news.ycombinator.com/item?id=38005311"
-    ],
-    [
-      "Ask HN: What's the point of automated skill assessment tests in the age of AI?",
-      "https://news.ycombinator.com/item?id=38005311"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 20:41:05",
       "https://news.ycombinator.com/item?id=38005228"
     ],
@@ -21,12 +11,32 @@
   ],
   [
     [
-      "2023-10-24, 20:07:48",
-      "https://news.ycombinator.com/item?id=38004709"
+      "2023-10-24, 20:39:20",
+      "https://news.ycombinator.com/item?id=38005201"
     ],
     [
-      "Windows 11's default mail client will show ads starting 2024",
-      "https://techcommunity.microsoft.com/t5/outlook/mail-amp-calendar-apps-will-be-replaced-with-new-outlook-for/td-p/3850309"
+      "The Silent and Relentless Erosion of Corporate Soul",
+      "https://robertgreiner.com/the-race-to-the-bottom/"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 20:06:10",
+      "https://news.ycombinator.com/item?id=38004684"
+    ],
+    [
+      "Alphabet Earnings Release FY23 Q3 [pdf]",
+      "https://abc.xyz/assets/4a/3e/3e08902c4a45b5cf530e267cf818/2023q3-alphabet-earnings-release.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 19:48:02",
+      "https://news.ycombinator.com/item?id=38004404"
+    ],
+    [
+      "Snapdragon Oryon, faster than Apple's M2 chip at 30% less power",
+      "https://twitter.com/IanCutress/status/1716902706621866487"
     ]
   ],
   [
@@ -35,28 +45,8 @@
       "https://news.ycombinator.com/item?id=38004178"
     ],
     [
-      "Gittuf – a security layer for Git using some concepts introduced by TUF",
+      "Gittuf – a security layer for Git",
       "https://gittuf.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 18:33:27",
-      "https://news.ycombinator.com/item?id=38003292"
-    ],
-    [
-      "Apple to make tools and parts to fix phones, computers available nationwide",
-      "https://www.reuters.com/technology/apple-make-tools-parts-fix-phones-computers-available-nationwide-white-house-2023-10-24/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 18:27:15",
-      "https://news.ycombinator.com/item?id=38003211"
-    ],
-    [
-      "Show HN: Where to Showcase Your Startup Project?",
-      "https://ybouane.com/where-to-showcase-your-startup-project"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38002752"
     ],
     [
-      "California suspends GM Cruise's autonomous vehicle deployment",
+      "California suspends Cruise's autonomous vehicle deployment",
       "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38000154"
     ],
     [
-      "We don't generate elliptic curves every day",
+      "Why we don’t generate elliptic curves every day",
       "https://words.filippo.io/dispatches/parameters/"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37999164"
     ],
     [
-      "The Ideation Flywheel (or how to get better startup ideas)",
+      "The Ideation Flywheel: A mental model for deciding which startup ideas to pursue",
       "https://www.stackfix.com/blog/the-ideation-flywheel"
     ]
   ],
@@ -187,6 +177,16 @@
     [
       "Animated AI",
       "https://animatedai.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 13:13:40",
+      "https://news.ycombinator.com/item?id=37998739"
+    ],
+    [
+      "BioNTech presents positive phase 1/2 data for CAR-T cell therapy candidate",
+      "https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37996295"
     ],
     [
-      "Major Changes at RISC-V Designer SiFive",
+      "The risk of RISC-V: What's going on at SiFive?",
       "https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on"
     ]
   ],
