@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-10-24, 18:11:09",
-      "https://news.ycombinator.com/item?id=38002994"
-    ],
-    [
-      "A11y Is Not Accessible",
-      "https://mobilea11y.com/blog/inaccessible-a11y/"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 18:10:25",
       "https://news.ycombinator.com/item?id=38002979"
     ],
@@ -247,6 +237,16 @@
     [
       "Major Changes at RISC-V Designer SiFive",
       "https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 08:35:19",
+      "https://news.ycombinator.com/item?id=37996291"
+    ],
+    [
+      "Goodbye, Node.js Buffer",
+      "https://sindresorhus.com/blog/goodbye-nodejs-buffer"
     ]
   ],
   [
