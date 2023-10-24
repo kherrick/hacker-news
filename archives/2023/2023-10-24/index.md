@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 14:27:42](https://news.ycombinator.com/item?id=37999623) - [Cloud giants sound alarm on record-breaking DDoS attacks](https://www.cybersecuritydive.com/news/ddos-attacks-novel-zero-day/696136/)
 * [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
 * [2023-10-24, 14:06:10](https://news.ycombinator.com/item?id=37999349) - [Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
+* [2023-10-24, 13:57:42](https://news.ycombinator.com/item?id=37999249) - [What McKinsey got wrong about developer productivity](https://leaddev.com/process/what-mckinsey-got-wrong-about-developer-productivity)
+* [2023-10-24, 13:53:09](https://news.ycombinator.com/item?id=37999197) - [Ask HN: Which DNS service do you use for your computer's network settings?](https://news.ycombinator.com/item?id=37999197)
 * [2023-10-24, 13:50:35](https://news.ycombinator.com/item?id=37999172) - [OpenAI Finally Allows ChatGPT Complete Internet Access](https://gizmodo.com/chatgpt-receives-full-access-to-internet-1850936811)
 * [2023-10-24, 13:50:11](https://news.ycombinator.com/item?id=37999164) - [The Ideation Flywheel (or how to get better startup ideas)](https://www.stackfix.com/blog/the-ideation-flywheel)
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
