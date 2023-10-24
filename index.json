@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-24, 10:23:08",
+      "https://news.ycombinator.com/item?id=37996991"
+    ],
+    [
+      "The \"Just One More\" Paradox – Kelly Criterion [video]",
+      "https://www.youtube.com/watch?v=_FuuYSM7yOo"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 10:23:00",
       "https://news.ycombinator.com/item?id=37996988"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-10-24, 08:15:20",
-      "https://news.ycombinator.com/item?id=37996123"
-    ],
-    [
-      "World shift to clean energy is unstoppable, IEA report says",
-      "https://www.bbc.com/news/science-environment-67198206"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 07:46:15",
       "https://news.ycombinator.com/item?id=37995916"
     ],
@@ -147,6 +147,16 @@
     [
       "Writing games the blog dedicated to text-based gaming",
       "https://writing-games.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 05:56:56",
+      "https://news.ycombinator.com/item?id=37995254"
+    ],
+    [
+      "The killer features of the Steam Deck",
+      "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2023-10-23, 19:51:02",
-      "https://news.ycombinator.com/item?id=37990646"
+      "2023-10-23, 18:39:05",
+      "https://news.ycombinator.com/item?id=37989773"
     ],
     [
-      "COBOL on Wheelchair: Micro web-framework for COBOL",
-      "https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 19:48:48",
-      "https://news.ycombinator.com/item?id=37990621"
-    ],
-    [
-      "iOS Single App Mode Escape",
-      "https://labs.withsecure.com/advisories/single-app-mode-bypass"
+      "Cascade: CPU fuzzing via intricate program generation",
+      "https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/"
     ]
   ],
   [
