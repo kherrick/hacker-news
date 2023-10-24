@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
 * [2023-10-24, 15:48:22](https://news.ycombinator.com/item?id=38000843) - [Meta Sued by States over Harmful Youth Marketing on Facebook, Instagram](https://www.bloomberg.com/news/articles/2023-10-24/meta-sued-by-california-states-over-harmful-youth-marketing)
+* [2023-10-24, 15:47:24](https://news.ycombinator.com/item?id=38000824) - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
+* [2023-10-24, 15:40:19](https://news.ycombinator.com/item?id=38000694) - [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
 * [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [We Don't Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
