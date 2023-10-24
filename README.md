@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [We Don't Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 14:58:06](https://news.ycombinator.com/item?id=38000106) - [Car Owners Fall Behind on Payments at Highest Rate on Record](https://www.bloomberg.com/news/articles/2023-10-21/high-car-loan-interest-rate-payments-americans-struggle-with-monthly-bills)
@@ -21,7 +22,6 @@
 * [2023-10-24, 09:35:08](https://news.ycombinator.com/item?id=37996712) - [Sharp Color E-Paper Display EPoster 25.3in](https://www.yodobashi.com/product/100000001008041534/)
 * [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 08:35:19](https://news.ycombinator.com/item?id=37996291) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
-* [2023-10-24, 08:17:36](https://news.ycombinator.com/item?id=37996143) - [When is privacy button not a privacy button? When Google runs it, claims lawsuit](https://www.theregister.com/2023/10/24/google_privacy_button/)
 * [2023-10-24, 07:22:59](https://news.ycombinator.com/item?id=37995761) - [Show HN: Revert – open-source unified API for product integrations](https://github.com/revertinc/revert)
 * [2023-10-24, 07:18:21](https://news.ycombinator.com/item?id=37995718) - [Writing games the blog dedicated to text-based gaming](https://writing-games.com/)
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
 * [2023-10-24, 15:00:51](https://news.ycombinator.com/item?id=38000154) - [We Don't Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 14:58:06](https://news.ycombinator.com/item?id=38000106) - [Car Owners Fall Behind on Payments at Highest Rate on Record](https://www.bloomberg.com/news/articles/2023-10-21/high-car-loan-interest-rate-payments-americans-struggle-with-monthly-bills)
