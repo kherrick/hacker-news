@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 22:37:06](https://news.ycombinator.com/item?id=38019231) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
+* [2023-10-25, 21:58:02](https://news.ycombinator.com/item?id=38018917) - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
 * [2023-10-25, 20:52:10](https://news.ycombinator.com/item?id=38018217) - [I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 * [2023-10-25, 20:25:35](https://news.ycombinator.com/item?id=38017882) - [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
