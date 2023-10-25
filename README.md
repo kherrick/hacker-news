@@ -16,6 +16,7 @@
 * [2023-10-25, 04:35:54](https://news.ycombinator.com/item?id=38009172) - [Neskowin Ghost Forest](https://en.wikipedia.org/wiki/Neskowin_Ghost_Forest)
 * [2023-10-25, 02:31:12](https://news.ycombinator.com/item?id=38008461) - [MAME 0.260](https://www.mamedev.org/?p=530)
 * [2023-10-25, 01:07:56](https://news.ycombinator.com/item?id=38007906) - [Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
+* [2023-10-24, 23:18:49](https://news.ycombinator.com/item?id=38007028) - [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
 * [2023-10-24, 22:54:17](https://news.ycombinator.com/item?id=38006814) - [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
 * [2023-10-24, 22:24:20](https://news.ycombinator.com/item?id=38006512) - [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
@@ -28,7 +29,6 @@
 * [2023-10-22, 22:18:56](https://news.ycombinator.com/item?id=37979590) - [My Lost Gumby Essay](https://www.honest-broker.com/p/my-lost-gumby-essay)
 * [2023-10-22, 14:09:47](https://news.ycombinator.com/item?id=37975526) - [Chasing bugs in the electronic village (1992)](https://www.around.com/bugs/)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
-* [2023-10-22, 13:43:58](https://news.ycombinator.com/item?id=37975285) - [Before computers were logic diagrams and machines](https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/)
 * [2023-10-22, 12:24:51](https://news.ycombinator.com/item?id=37974743) - [V0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
 
 ## [Archives](archives/index.md)
