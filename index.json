@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-10-25, 20:25:35",
-      "https://news.ycombinator.com/item?id=38017882"
-    ],
-    [
-      "Meta Reports Third Quarter 2023 Results",
-      "https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 20:22:42",
       "https://news.ycombinator.com/item?id=38017831"
     ],
@@ -297,6 +287,16 @@
     [
       "Thokcha (Meteorite Amulets)",
       "https://en.wikipedia.org/wiki/Thokcha"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 11:52:40",
+      "https://news.ycombinator.com/item?id=37984387"
+    ],
+    [
+      "Debugging Compilers in Clojure",
+      "https://jpmonettas.github.io/my-blog/public/compilers-with-flow-storm.html"
     ]
   ]
 ]
