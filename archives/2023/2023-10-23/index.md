@@ -75,6 +75,7 @@
 * [2023-10-23, 14:01:47](https://news.ycombinator.com/item?id=37985777) - [Mock Service Worker(msw) releases v2.0](https://mswjs.io/blog/introducing-msw-2.0/)
 * [2023-10-23, 13:59:11](https://news.ycombinator.com/item?id=37985743) - [Former Google CEO Launched a Company with His Girlfriend. It's Not Going Well](https://www.forbes.com/sites/davidjeans/2023/10/23/eric-schmidt-michelle-ritter-steel-perlot/)
 * [2023-10-23, 13:43:37](https://news.ycombinator.com/item?id=37985510) - [Magnetic Fusion Plasma Drive](https://arxiv.org/abs/2309.11524)
+* [2023-10-23, 13:42:12](https://news.ycombinator.com/item?id=37985489) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-23, 13:39:47](https://news.ycombinator.com/item?id=37985450) - [Ask HN: Was any Starfighter postmortem ever published?](https://news.ycombinator.com/item?id=37985450)
 * [2023-10-23, 13:17:23](https://news.ycombinator.com/item?id=37985176) - [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
 * [2023-10-23, 13:06:02](https://news.ycombinator.com/item?id=37985062) - [Billionaires should face a minimum tax rate, report says](https://www.bbc.com/news/business-67191791)
