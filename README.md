@@ -15,7 +15,7 @@
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 17:25:01](https://news.ycombinator.com/item?id=38002305) - [LIGO Surpasses the Quantum Limit](https://www.ligo.caltech.edu/news/ligo20231023)
 * [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
-* [2023-10-24, 16:47:57](https://news.ycombinator.com/item?id=38001784) - [The City of Seattle accidentally gave me 32M emails for $40 (2018)](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
+* [2023-10-24, 15:41:50](https://news.ycombinator.com/item?id=38000723) - [Deconstructing the Mastodon Client](http://blog.khinsen.net/posts/2023/10/09/deconstructing-the-mastodon-client/)
 * [2023-10-24, 14:20:48](https://news.ycombinator.com/item?id=37999527) - [Show HN: Dlt – Python library to automate the creation of datasets](https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP)
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 13:29:54](https://news.ycombinator.com/item?id=37998923) - [Voronoi Diagram and Delaunay Triangulation in O(nlog(n)) (2020)](https://codeforces.com/blog/entry/85638)
