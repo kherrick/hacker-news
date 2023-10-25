@@ -42,6 +42,7 @@
 * [2023-10-22, 14:32:58](https://news.ycombinator.com/item?id=37975716) - [I live in my car: Parking lots open for those who can afford a car but not rent](https://www.nytimes.com/2023/10/17/realestate/car-homeless-rent-debt-mortgage.html)
 * [2023-10-22, 14:29:35](https://news.ycombinator.com/item?id=37975694) - [$9.5B of key metals in overlooked electronic waste: UN](https://techxplore.com/news/2023-10-bn-key-metals-overlooked-electronic.html)
 * [2023-10-22, 14:17:44](https://news.ycombinator.com/item?id=37975601) - [Tell HN: DuckDuckGo Search Results have jumped the shark](https://news.ycombinator.com/item?id=37975601)
+* [2023-10-22, 14:13:06](https://news.ycombinator.com/item?id=37975558) - [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 * [2023-10-22, 14:09:47](https://news.ycombinator.com/item?id=37975526) - [Chasing bugs in the electronic village (1992)](https://www.around.com/bugs/)
 * [2023-10-22, 13:56:36](https://news.ycombinator.com/item?id=37975413) - [One Line in the Oldest Math Text Hinted at Hidden Universes [video]](https://www.youtube.com/watch?v=lFlu60qs7_4)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
