@@ -9,6 +9,7 @@
 * [2023-10-25, 08:26:23](https://news.ycombinator.com/item?id=38010563) - [AI Worship](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
 * [2023-10-25, 08:07:11](https://news.ycombinator.com/item?id=38010429) - [50% smaller and 60% faster distilled Stable Diffusion XL](https://huggingface.co/segmind/SSD-1B)
 * [2023-10-25, 08:02:42](https://news.ycombinator.com/item?id=38010407) - [Puncia – Subdomain and Exploit Hunter Powered by AI](https://github.com/ARPSyndicate/puncia)
+* [2023-10-25, 08:00:55](https://news.ycombinator.com/item?id=38010391) - [Brisk 22-minute walk could offset harmful effects of sitting, study suggests](https://www.theguardian.com/society/2023/oct/24/brisk-minute-walk-offset-harmful-effects-sitting-study)
 * [2023-10-25, 07:59:29](https://news.ycombinator.com/item?id=38010384) - [Show HN: GitHub Organization Analytics](https://next.ossinsight.io/analyze/vercel)
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 * [2023-10-25, 07:35:42](https://news.ycombinator.com/item?id=38010244) - [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
