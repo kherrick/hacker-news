@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobiles](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:49:10](https://news.ycombinator.com/item?id=38013429) - [Critically Acclaimed Horror Film of the 2010s or Your PhD Program?](https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program)
 * [2023-10-25, 14:24:57](https://news.ycombinator.com/item?id=38013157) - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
