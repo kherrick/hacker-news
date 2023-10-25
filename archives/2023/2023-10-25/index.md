@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 14:49:10](https://news.ycombinator.com/item?id=38013429) - [Critically Acclaimed Horror Film of the 2010s or Your PhD Program?](https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program)
 * [2023-10-25, 14:24:57](https://news.ycombinator.com/item?id=38013157) - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
 * [2023-10-25, 14:24:36](https://news.ycombinator.com/item?id=38013151) - [Nightshade, the new tool allowing artists to 'poison' AI models](https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/)
 * [2023-10-25, 14:18:12](https://news.ycombinator.com/item?id=38013084) - ['Set It and Forget It' 401(k) Made You Rich. No More](https://www.wsj.com/finance/investing/your-set-it-and-forget-it-401-k-made-you-rich-no-more-c06552c)
+* [2023-10-25, 13:46:10](https://news.ycombinator.com/item?id=38012716) - [Desert Island Tourism](https://thehustle.co/the-wild-business-of-desert-island-tourism/)
 * [2023-10-25, 13:40:44](https://news.ycombinator.com/item?id=38012662) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:54:44](https://news.ycombinator.com/item?id=38012263) - [Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)
 * [2023-10-25, 12:47:37](https://news.ycombinator.com/item?id=38012207) - [Pope Francis encourages more children to code, especially in Catholic countries](https://www.bbc.com/news/technology-67209806)
+* [2023-10-25, 12:47:19](https://news.ycombinator.com/item?id=38012202) - [Show HN: Prompt-Engineering Tool: AI-to-AI Testing for LLM](https://github.com/artas728/spelltest)
 * [2023-10-25, 12:38:35](https://news.ycombinator.com/item?id=38012127) - [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)
 * [2023-10-25, 12:38:33](https://news.ycombinator.com/item?id=38012126) - [Show HN: Tonic Validate Metrics – an open-source RAG evaluation metrics package](https://github.com/TonicAI/tvalmetrics)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
