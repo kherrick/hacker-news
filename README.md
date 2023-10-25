@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 04:04:05](https://news.ycombinator.com/item?id=38009013) - [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
 * [2023-10-25, 03:59:49](https://news.ycombinator.com/item?id=38008987) - [Things I've learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-10-25, 02:31:12](https://news.ycombinator.com/item?id=38008461) - [MAME 0.260](https://www.mamedev.org/?p=530)
 * [2023-10-25, 02:19:27](https://news.ycombinator.com/item?id=38008395) - [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
@@ -28,7 +29,6 @@
 * [2023-10-22, 13:56:36](https://news.ycombinator.com/item?id=37975413) - [One Line in the Oldest Math Text Hinted at Hidden Universes [video]](https://www.youtube.com/watch?v=lFlu60qs7_4)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
 * [2023-10-22, 13:43:58](https://news.ycombinator.com/item?id=37975285) - [Before computers were logic diagrams and machines](https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/)
-* [2023-10-22, 12:47:08](https://news.ycombinator.com/item?id=37974897) - [Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
 * [2023-10-22, 12:42:44](https://news.ycombinator.com/item?id=37974865) - [The Wait Equation and AI Investment](https://javednissar.ca/wait-equation)
 
 ## [Archives](archives/index.md)
