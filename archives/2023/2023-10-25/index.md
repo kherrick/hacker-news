@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 14:18:12](https://news.ycombinator.com/item?id=38013084) - ['Set It and Forget It' 401(k) Made You Rich. No More](https://www.wsj.com/finance/investing/your-set-it-and-forget-it-401-k-made-you-rich-no-more-c06552c)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:54:44](https://news.ycombinator.com/item?id=38012263) - [Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)

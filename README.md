@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 14:18:12](https://news.ycombinator.com/item?id=38013084) - ['Set It and Forget It' 401(k) Made You Rich. No More](https://www.wsj.com/finance/investing/your-set-it-and-forget-it-401-k-made-you-rich-no-more-c06552c)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:54:44](https://news.ycombinator.com/item?id=38012263) - [Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)
@@ -28,7 +29,6 @@
 * [2023-10-24, 13:29:54](https://news.ycombinator.com/item?id=37998923) - [Voronoi Diagram and Delaunay Triangulation in O(nlog(n)) (2020)](https://codeforces.com/blog/entry/85638)
 * [2023-10-24, 03:07:05](https://news.ycombinator.com/item?id=37994460) - [A similarity between the CAP theorem and our heart](https://twitter.com/dvassallo/status/1716585205400756514)
 * [2023-10-23, 13:42:12](https://news.ycombinator.com/item?id=37985489) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
-* [2023-10-22, 22:18:56](https://news.ycombinator.com/item?id=37979590) - [My Lost Gumby Essay](https://www.honest-broker.com/p/my-lost-gumby-essay)
 * [2023-10-22, 12:24:51](https://news.ycombinator.com/item?id=37974743) - [V0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
 
 ## [Archives](archives/index.md)
