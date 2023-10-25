@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 20:25:35](https://news.ycombinator.com/item?id=38017882) - [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 * [2023-10-25, 20:02:07](https://news.ycombinator.com/item?id=38017541) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:37:26](https://news.ycombinator.com/item?id=38017239) - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
 * [2023-10-25, 19:28:45](https://news.ycombinator.com/item?id=38017146) - [AI 'breakthrough': neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
 * [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client(beta)](https://testflight.apple.com/join/LVj8KwAq)
 * [2023-10-25, 19:05:06](https://news.ycombinator.com/item?id=38016875) - [PyPI Security](https://talkpython.fm/episodes/show/435/pypi-security)
-* [2023-10-25, 19:01:54](https://news.ycombinator.com/item?id=38016849) - [I think GCP is better than AWS (2020)](https://nandovillalba.medium.com/why-i-think-gcp-is-better-than-aws-ea78f9975bda)
 * [2023-10-25, 18:03:42](https://news.ycombinator.com/item?id=38016013) - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
@@ -18,7 +18,6 @@
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobile data](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:54:33](https://news.ycombinator.com/item?id=38013477) - [Internet Artifact Museum](https://neal.fun/internet-artifacts/)
 * [2023-10-25, 13:49:24](https://news.ycombinator.com/item?id=38012742) - [Building a global deployment platform is hard – a tour of the trade-offs we took](https://www.koyeb.com/blog/building-a-global-deployment-platform-is-hard-here-is-why)
-* [2023-10-25, 13:46:10](https://news.ycombinator.com/item?id=38012716) - [Desert Island Tourism](https://thehustle.co/the-wild-business-of-desert-island-tourism/)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically unifying APIs and data with no glue code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
@@ -30,6 +29,7 @@
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
+* [2023-10-24, 19:59:21](https://news.ycombinator.com/item?id=38004574) - ['When I tried to play, my hand spasmed and shook': why musicians get the yips](https://www.theguardian.com/music/2023/oct/17/focal-dystonia-my-hand-spasmed-and-shook-why-musicians-get-the-yips)
 
 ## [Archives](archives/index.md)
 
