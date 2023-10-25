@@ -7,6 +7,7 @@
 * [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-10-25, 08:41:07](https://news.ycombinator.com/item?id=38010633) - [Sun's Magnetic Reversal is Underway [video]](https://www.youtube.com/watch?v=oSQ74zgUO44)
 * [2023-10-25, 08:26:23](https://news.ycombinator.com/item?id=38010563) - [AI Worship](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
+* [2023-10-25, 08:07:11](https://news.ycombinator.com/item?id=38010429) - [50% smaller and 60% faster distilled Stable Diffusion XL](https://huggingface.co/segmind/SSD-1B)
 * [2023-10-25, 08:02:42](https://news.ycombinator.com/item?id=38010407) - [Puncia – Subdomain and Exploit Hunter Powered by AI](https://github.com/ARPSyndicate/puncia)
 * [2023-10-25, 07:59:29](https://news.ycombinator.com/item?id=38010384) - [Show HN: GitHub Organization Analytics](https://next.ossinsight.io/analyze/vercel)
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)

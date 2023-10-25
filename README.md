@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+* [2023-10-25, 08:07:11](https://news.ycombinator.com/item?id=38010429) - [50% smaller and 60% faster distilled Stable Diffusion XL](https://huggingface.co/segmind/SSD-1B)
 * [2023-10-25, 08:02:42](https://news.ycombinator.com/item?id=38010407) - [Puncia – Subdomain and Exploit Hunter Powered by AI](https://github.com/ARPSyndicate/puncia)
 * [2023-10-25, 07:59:29](https://news.ycombinator.com/item?id=38010384) - [Show HN: GitHub Organization Analytics](https://next.ossinsight.io/analyze/vercel)
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
@@ -29,7 +30,6 @@
 * [2023-10-22, 22:18:56](https://news.ycombinator.com/item?id=37979590) - [My Lost Gumby Essay](https://www.honest-broker.com/p/my-lost-gumby-essay)
 * [2023-10-22, 14:09:47](https://news.ycombinator.com/item?id=37975526) - [Chasing bugs in the electronic village (1992)](https://www.around.com/bugs/)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
-* [2023-10-22, 13:43:58](https://news.ycombinator.com/item?id=37975285) - [Before computers were logic diagrams and machines](https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/)
 
 ## [Archives](archives/index.md)
 
