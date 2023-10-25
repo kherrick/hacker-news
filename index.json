@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-10-25, 16:00:42",
+      "https://news.ycombinator.com/item?id=38014168"
+    ],
+    [
+      "Microsoft now thirstily injects a poll when you download Google Chrome",
+      "https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 15:50:22",
+      "https://news.ycombinator.com/item?id=38014069"
+    ],
+    [
+      "Wait, What's a Bookmarklet?",
+      "https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 15:39:17",
       "https://news.ycombinator.com/item?id=38013955"
     ],
     [
       "SpaceX Starship Super Heavy Project at the Boca Chica Launch Site",
       "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 15:17:28",
+      "https://news.ycombinator.com/item?id=38013717"
+    ],
+    [
+      "Apple TV Plus is getting a price hike – and other Apple subscriptions are, too",
+      "https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 15:17:10",
+      "https://news.ycombinator.com/item?id=38013714"
+    ],
+    [
+      "Using the FDAP Architecture to Build InfluxDB 3.0: Flight, DataFusion, Arrow",
+      "https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Confessions of a Middle-Class Founder",
       "https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 14:24:36",
-      "https://news.ycombinator.com/item?id=38013151"
-    ],
-    [
-      "Nightshade, the new tool allowing artists to 'poison' AI models",
-      "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-10-25, 08:00:55",
-      "https://news.ycombinator.com/item?id=38010391"
-    ],
-    [
-      "Brisk 22-minute walk could offset harmful effects of sitting, study suggests",
-      "https://www.theguardian.com/society/2023/oct/24/brisk-minute-walk-offset-harmful-effects-sitting-study"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 07:39:11",
       "https://news.ycombinator.com/item?id=38010267"
     ],
@@ -221,32 +241,22 @@
   ],
   [
     [
+      "2023-10-25, 07:00:38",
+      "https://news.ycombinator.com/item?id=38010021"
+    ],
+    [
+      "An aborted experiment with server Swift",
+      "https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 05:13:48",
       "https://news.ycombinator.com/item?id=38009377"
     ],
     [
       "Object-oriented programming for kids [video]",
       "https://www.youtube.com/watch?v=X3cFiJnxUBY"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 05:13:11",
-      "https://news.ycombinator.com/item?id=38009372"
-    ],
-    [
-      "Not knowing the /proc file system",
-      "https://admccartney.mur.at/programming/idkproc/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 04:36:12",
-      "https://news.ycombinator.com/item?id=38009175"
-    ],
-    [
-      "Sunflower (Mathematics)",
-      "https://en.wikipedia.org/wiki/Sunflower_(mathematics)"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "California suspends Cruise's autonomous vehicle deployment",
       "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 14:20:48",
-      "https://news.ycombinator.com/item?id=37999527"
-    ],
-    [
-      "Show HN: Dlt – Python library to automate the creation of datasets",
-      "https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP"
     ]
   ],
   [
