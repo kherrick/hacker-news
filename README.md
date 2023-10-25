@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 07:04:35](https://news.ycombinator.com/item?id=38010044) - [The Snapdragon X Elite aims to make your Windows PC better than a Mac](https://www.xda-developers.com/snapdragon-x-elite-announcement/)
 * [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
 * [2023-10-25, 04:04:05](https://news.ycombinator.com/item?id=38009013) - [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
@@ -20,7 +21,6 @@
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 13:29:54](https://news.ycombinator.com/item?id=37998923) - [Voronoi Diagram and Delaunay Triangulation in O(nlog(n)) (2020)](https://codeforces.com/blog/entry/85638)
 * [2023-10-24, 12:25:34](https://news.ycombinator.com/item?id=37998147) - [There should be more cash prizes for solving historical mysteries](https://resobscura.substack.com/p/there-should-be-more-cash-prizes)
-* [2023-10-24, 08:35:45](https://news.ycombinator.com/item?id=37996295) - [The risk of RISC-V: What's going on at SiFive?](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 * [2023-10-24, 03:07:05](https://news.ycombinator.com/item?id=37994460) - [A similarity between the CAP theorem and our heart](https://twitter.com/dvassallo/status/1716585205400756514)
 * [2023-10-23, 13:42:12](https://news.ycombinator.com/item?id=37985489) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-22, 22:18:56](https://news.ycombinator.com/item?id=37979590) - [My Lost Gumby Essay](https://www.honest-broker.com/p/my-lost-gumby-essay)

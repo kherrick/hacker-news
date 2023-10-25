@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 07:04:35](https://news.ycombinator.com/item?id=38010044) - [The Snapdragon X Elite aims to make your Windows PC better than a Mac](https://www.xda-developers.com/snapdragon-x-elite-announcement/)
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
