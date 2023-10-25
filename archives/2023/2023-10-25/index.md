@@ -8,6 +8,7 @@
 * [2023-10-25, 20:25:35](https://news.ycombinator.com/item?id=38017882) - [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 * [2023-10-25, 20:02:07](https://news.ycombinator.com/item?id=38017541) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
+* [2023-10-25, 19:55:32](https://news.ycombinator.com/item?id=38017446) - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
 * [2023-10-25, 19:37:26](https://news.ycombinator.com/item?id=38017239) - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
 * [2023-10-25, 19:28:45](https://news.ycombinator.com/item?id=38017146) - [AI 'breakthrough': neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
 * [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)

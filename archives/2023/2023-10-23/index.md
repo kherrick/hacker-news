@@ -34,6 +34,7 @@
 * [2023-10-23, 19:32:33](https://news.ycombinator.com/item?id=37990441) - [Leaving Twitter](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
 * [2023-10-23, 19:24:29](https://news.ycombinator.com/item?id=37990354) - [Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/)
 * [2023-10-23, 19:22:44](https://news.ycombinator.com/item?id=37990338) - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
+* [2023-10-23, 19:14:10](https://news.ycombinator.com/item?id=37990238) - [Thokcha (Meteorite Amulets)](https://en.wikipedia.org/wiki/Thokcha)
 * [2023-10-23, 19:10:08](https://news.ycombinator.com/item?id=37990180) - [Generators are dead, long live coroutines, generators are back](https://blog.rust-lang.org/inside-rust/2023/10/23/coroutines.html)
 * [2023-10-23, 19:09:03](https://news.ycombinator.com/item?id=37990168) - [Growing AI presence is re-energizing parts of San Francisco](https://www.washingtonpost.com/technology/2023/10/23/artificial-intelligence-san-francisco/)
 * [2023-10-23, 18:58:15](https://news.ycombinator.com/item?id=37990031) - [Google pulls up the ladder on open internet, pushes unconstitutional regulation](https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/)
