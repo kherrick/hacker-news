@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
 * [2023-10-25, 04:04:05](https://news.ycombinator.com/item?id=38009013) - [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
@@ -15,7 +16,6 @@
 * [2023-10-24, 17:25:01](https://news.ycombinator.com/item?id=38002305) - [LIGO Surpasses the Quantum Limit](https://www.ligo.caltech.edu/news/ligo20231023)
 * [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
 * [2023-10-24, 16:47:57](https://news.ycombinator.com/item?id=38001784) - [The City of Seattle accidentally gave me 32M emails for $40 (2018)](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
-* [2023-10-24, 15:47:24](https://news.ycombinator.com/item?id=38000824) - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
 * [2023-10-24, 14:20:48](https://news.ycombinator.com/item?id=37999527) - [Show HN: Dlt – Python library to automate the creation of datasets](https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP)
 * [2023-10-24, 13:39:54](https://news.ycombinator.com/item?id=37999035) - [Animated AI](https://animatedai.github.io/)
 * [2023-10-24, 13:29:54](https://news.ycombinator.com/item?id=37998923) - [Voronoi Diagram and Delaunay Triangulation in O(nlog(n)) (2020)](https://codeforces.com/blog/entry/85638)
