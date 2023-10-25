@@ -112,6 +112,7 @@
 * [2023-10-24, 05:22:03](https://news.ycombinator.com/item?id=37995067) - [Amazon selling $15k tiny house with two floors and ships in under two weeks](https://www.the-sun.com/money/9391646/amazon-unique-moon-dome-tiny-house-two-bathrooms/)
 * [2023-10-24, 04:01:30](https://news.ycombinator.com/item?id=37994740) - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 * [2023-10-24, 03:57:12](https://news.ycombinator.com/item?id=37994725) - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
+* [2023-10-24, 03:07:05](https://news.ycombinator.com/item?id=37994460) - [A similarity between the CAP theorem and our heart](https://twitter.com/dvassallo/status/1716585205400756514)
 * [2023-10-24, 02:54:44](https://news.ycombinator.com/item?id=37994387) - [Psychedelic Mushrooms Hit the Market in Oregon](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
 * [2023-10-24, 01:38:56](https://news.ycombinator.com/item?id=37993969) - [NASA wants the Voyagers to age gracefully, so it's time for a software patch](https://arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch/)
 * [2023-10-24, 00:59:03](https://news.ycombinator.com/item?id=37993725) - [Mom can now recommend matches for you on Tinder](https://www.businessinsider.com/tinder-matchmaker-feature-lets-friends-family-recommend-potential-matches-dating-2023-10)
