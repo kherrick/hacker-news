@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38014638"
     ],
     [
-      "Zvi Mowshowitz's Book Review: Going Infinite [Long Read on Sam Bankman-Fried]",
+      "Book Review: Going Infinite",
       "https://thezvi.substack.com/p/book-review-going-infinite"
     ]
   ],
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-10-25, 16:17:51",
-      "https://news.ycombinator.com/item?id=38014376"
-    ],
-    [
-      "LAPD releases video of officers who ignored robbery to play Pokémon Go",
-      "https://www.latimes.com/california/story/2023-10-07/lapd-releases-video-of-officers-who-ignored-robbery-to-play-pokemon-go"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 16:10:44",
       "https://news.ycombinator.com/item?id=38014288"
     ],
@@ -91,21 +81,11 @@
   ],
   [
     [
-      "2023-10-25, 16:00:42",
-      "https://news.ycombinator.com/item?id=38014168"
-    ],
-    [
-      "Microsoft now thirstily injects a poll when you download Google Chrome",
-      "https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 15:50:22",
       "https://news.ycombinator.com/item?id=38014069"
     ],
     [
-      "Wait, What's a Bookmarklet?",
+      "Wait, what's a bookmarklet?",
       "https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/"
     ]
   ],
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38012662"
     ],
     [
-      "Web Components Will Outlive Your JavaScript Framework",
+      "Web components will outlive JavaScript frameworks",
       "https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/"
     ]
   ],
@@ -225,7 +205,7 @@
       "https://news.ycombinator.com/item?id=38012032"
     ],
     [
-      "Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse",
+      "Show HN: OpenAPI DevTools – Chrome extension that generates an API spec",
       "https://github.com/AndrewWalsh/openapi-devtools"
     ]
   ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2023-10-25, 08:53:21",
+      "https://news.ycombinator.com/item?id=38010718"
+    ],
+    [
+      "On Keeping a Logbook (2010)",
+      "https://austinkleon.com/2010/01/31/logbook/"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 07:39:11",
       "https://news.ycombinator.com/item?id=38010267"
     ],
@@ -297,6 +287,16 @@
     [
       "What are Functions? Coding for Kids [video]",
       "https://www.youtube.com/watch?v=3JIZ40yuZL0"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 13:42:12",
+      "https://news.ycombinator.com/item?id=37985489"
+    ],
+    [
+      "Embeddings: What they are and why they matter",
+      "https://simonwillison.net/2023/Oct/23/embeddings/"
     ]
   ]
 ]
