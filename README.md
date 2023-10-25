@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 12:38:35](https://news.ycombinator.com/item?id=38012127) - [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 11:40:39](https://news.ycombinator.com/item?id=38011728) - [Lichee Console 4A: Mini Laptop with a RISC-V Processor and 7 inch display](https://liliputing.com/lichee-console-4a-is-a-mini-laptop-with-a-risc-v-processor-and-7-inch-display/)
 * [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
@@ -20,7 +21,6 @@
 * [2023-10-25, 02:31:12](https://news.ycombinator.com/item?id=38008461) - [MAME 0.260](https://www.mamedev.org/?p=530)
 * [2023-10-25, 01:07:56](https://news.ycombinator.com/item?id=38007906) - [Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
 * [2023-10-24, 22:54:17](https://news.ycombinator.com/item?id=38006814) - [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
-* [2023-10-24, 22:24:20](https://news.ycombinator.com/item?id=38006512) - [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 15:41:50](https://news.ycombinator.com/item?id=38000723) - [Deconstructing the Mastodon Client](http://blog.khinsen.net/posts/2023/10/09/deconstructing-the-mastodon-client/)
 * [2023-10-24, 14:20:48](https://news.ycombinator.com/item?id=37999527) - [Show HN: Dlt – Python library to automate the creation of datasets](https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP)
