@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-24, 23:18:49](https://news.ycombinator.com/item?id=38007028) - [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
-* [2023-10-24, 23:02:31](https://news.ycombinator.com/item?id=38006890) - [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
+* [2023-10-24, 23:15:34](https://news.ycombinator.com/item?id=38007010) - [Star Citizen's Squadron 42 finally feature-complete 10 years post being revealed](https://www.xfire.com/star-citizens-squadron-42-finally-feature-complete-ten-years-after-being-announced/)
 * [2023-10-24, 22:54:17](https://news.ycombinator.com/item?id=38006814) - [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
 * [2023-10-24, 22:24:20](https://news.ycombinator.com/item?id=38006512) - [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
 * [2023-10-24, 20:57:38](https://news.ycombinator.com/item?id=38005461) - [Prototype poisoning (2019)](https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/)
@@ -26,10 +26,10 @@
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
 * [2023-10-22, 13:43:58](https://news.ycombinator.com/item?id=37975285) - [Before Computers Were Logic Diagrams and Machines](https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/)
 * [2023-10-22, 12:47:08](https://news.ycombinator.com/item?id=37974897) - [Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
+* [2023-10-22, 12:42:44](https://news.ycombinator.com/item?id=37974865) - [The Wait Equation and AI Investment](https://javednissar.ca/wait-equation)
 * [2023-10-22, 12:38:29](https://news.ycombinator.com/item?id=37974829) - [There are two sides to an interview](https://slepkin.substack.com/p/there-are-two-sides-to-an-interview)
 * [2023-10-22, 10:38:41](https://news.ycombinator.com/item?id=37974260) - [DMD as a Library: Myth and Reality [pdf]](https://dconf.org/2023/slides/nitu.pdf)
 * [2023-10-22, 08:24:57](https://news.ycombinator.com/item?id=37973742) - ['A Neolithic feat of engineering': Orkney dig reveals ruins of tomb](https://www.theguardian.com/uk-news/2023/oct/21/a-neolithic-feat-of-engineering-orkney-dig-reveals-ruins-of-huge-tomb)
-* [2023-10-22, 08:23:01](https://news.ycombinator.com/item?id=37973731) - [On not noticing rather too many things](https://jacobbrazeal.wordpress.com/2023/10/22/on-not-noticing-rather-too-many-things/)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
 * [2023-10-24, 23:18:49](https://news.ycombinator.com/item?id=38007028) - [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
+* [2023-10-24, 23:15:34](https://news.ycombinator.com/item?id=38007010) - [Star Citizen's Squadron 42 finally feature-complete 10 years post being revealed](https://www.xfire.com/star-citizens-squadron-42-finally-feature-complete-ten-years-after-being-announced/)
 * [2023-10-24, 23:02:31](https://news.ycombinator.com/item?id=38006890) - [Why 10B snow crabs starved to death in the Bering Sea](https://phys.org/news/2023-10-billion-crabs-starved-death-bering.html)
 * [2023-10-24, 22:54:17](https://news.ycombinator.com/item?id=38006814) - [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
 * [2023-10-24, 22:24:20](https://news.ycombinator.com/item?id=38006512) - [Bill Watterson's Life After \"Calvin and Hobbes\"](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
