@@ -16,7 +16,6 @@
 * [2023-10-24, 20:08:26](https://news.ycombinator.com/item?id=38004721) - [Waymo says insurance data shows its driverless cars are safer than humans](https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/)
 * [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git](https://gittuf.github.io/)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
-* [2023-10-24, 17:25:01](https://news.ycombinator.com/item?id=38002305) - [LIGO Surpasses the Quantum Limit](https://www.ligo.caltech.edu/news/ligo20231023)
 * [2023-10-24, 17:01:00](https://news.ycombinator.com/item?id=38001978) - [Livedocs (YC W22) Is Hiring](https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator)
 * [2023-10-24, 15:41:50](https://news.ycombinator.com/item?id=38000723) - [Deconstructing the Mastodon Client](http://blog.khinsen.net/posts/2023/10/09/deconstructing-the-mastodon-client/)
 * [2023-10-24, 14:20:48](https://news.ycombinator.com/item?id=37999527) - [Show HN: Dlt – Python library to automate the creation of datasets](https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP)
@@ -29,6 +28,7 @@
 * [2023-10-22, 14:09:47](https://news.ycombinator.com/item?id=37975526) - [Chasing bugs in the electronic village (1992)](https://www.around.com/bugs/)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
 * [2023-10-22, 13:43:58](https://news.ycombinator.com/item?id=37975285) - [Before computers were logic diagrams and machines](https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/)
+* [2023-10-22, 12:47:08](https://news.ycombinator.com/item?id=37974897) - [Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
 * [2023-10-22, 12:42:44](https://news.ycombinator.com/item?id=37974865) - [The Wait Equation and AI Investment](https://javednissar.ca/wait-equation)
 
 ## [Archives](archives/index.md)
