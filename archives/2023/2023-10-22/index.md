@@ -59,6 +59,7 @@
 * [2023-10-22, 12:42:44](https://news.ycombinator.com/item?id=37974865) - [The Wait Equation and AI Investment](https://javednissar.ca/wait-equation)
 * [2023-10-22, 12:38:29](https://news.ycombinator.com/item?id=37974829) - [There are two sides to an interview](https://slepkin.substack.com/p/there-are-two-sides-to-an-interview)
 * [2023-10-22, 12:34:53](https://news.ycombinator.com/item?id=37974804) - [Astrophysicists Put All Objects in Universe into One Pedagogical Plot](https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html)
+* [2023-10-22, 12:24:51](https://news.ycombinator.com/item?id=37974743) - [V0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
 * [2023-10-22, 12:22:53](https://news.ycombinator.com/item?id=37974734) - [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
 * [2023-10-22, 12:14:27](https://news.ycombinator.com/item?id=37974688) - [Canada is considering a guaranteed universal basic income program](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
 * [2023-10-22, 12:00:49](https://news.ycombinator.com/item?id=37974612) - [Snikket – On the Jabber.ru MitM Attack – Public Jabber/XMPP Service](https://snikket.org/blog/on-the-jabber-ru-mitm/)

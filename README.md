@@ -9,7 +9,6 @@
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2023-10-25, 05:29:25](https://news.ycombinator.com/item?id=38009458) - [Dup()'s shared file IO offset is a necessary part of Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/DupSharedOffsetNecessary)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
-* [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
 * [2023-10-25, 04:36:05](https://news.ycombinator.com/item?id=38009174) - [Finding Meaning in the Nature of Order](https://stefanlesser.substack.com/p/finding-meaning-in-the-nature-of)
 * [2023-10-25, 04:35:54](https://news.ycombinator.com/item?id=38009172) - [Neskowin Ghost Forest](https://en.wikipedia.org/wiki/Neskowin_Ghost_Forest)
@@ -30,6 +29,7 @@
 * [2023-10-22, 14:09:47](https://news.ycombinator.com/item?id=37975526) - [Chasing bugs in the electronic village (1992)](https://www.around.com/bugs/)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
 * [2023-10-22, 13:43:58](https://news.ycombinator.com/item?id=37975285) - [Before computers were logic diagrams and machines](https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/)
+* [2023-10-22, 12:24:51](https://news.ycombinator.com/item?id=37974743) - [V0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
 
 ## [Archives](archives/index.md)
 
