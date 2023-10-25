@@ -3,6 +3,7 @@
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobiles](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:49:10](https://news.ycombinator.com/item?id=38013429) - [Critically Acclaimed Horror Film of the 2010s or Your PhD Program?](https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program)
 * [2023-10-25, 14:24:57](https://news.ycombinator.com/item?id=38013157) - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
+* [2023-10-25, 14:13:50](https://news.ycombinator.com/item?id=38013039) - [Exchange Rate](https://www.lrb.co.uk/the-paper/v45/n21/eyal-weizman/exchange-rate)
 * [2023-10-25, 13:46:10](https://news.ycombinator.com/item?id=38012716) - [Desert Island Tourism](https://thehustle.co/the-wild-business-of-desert-island-tourism/)
 * [2023-10-25, 13:40:44](https://news.ycombinator.com/item?id=38012662) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
@@ -27,7 +28,6 @@
 * [2023-10-25, 02:31:12](https://news.ycombinator.com/item?id=38008461) - [MAME 0.260](https://www.mamedev.org/?p=530)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 14:20:48](https://news.ycombinator.com/item?id=37999527) - [Show HN: Dlt – Python library to automate the creation of datasets](https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP)
-* [2023-10-24, 03:07:05](https://news.ycombinator.com/item?id=37994460) - [A similarity between the CAP theorem and our heart](https://twitter.com/dvassallo/status/1716585205400756514)
 * [2023-10-23, 13:42:12](https://news.ycombinator.com/item?id=37985489) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-22, 12:24:51](https://news.ycombinator.com/item?id=37974743) - [V0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
 

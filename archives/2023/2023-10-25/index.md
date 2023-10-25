@@ -9,6 +9,7 @@
 * [2023-10-25, 14:24:57](https://news.ycombinator.com/item?id=38013157) - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
 * [2023-10-25, 14:24:36](https://news.ycombinator.com/item?id=38013151) - [Nightshade, the new tool allowing artists to 'poison' AI models](https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/)
 * [2023-10-25, 14:18:12](https://news.ycombinator.com/item?id=38013084) - ['Set It and Forget It' 401(k) Made You Rich. No More](https://www.wsj.com/finance/investing/your-set-it-and-forget-it-401-k-made-you-rich-no-more-c06552c)
+* [2023-10-25, 14:13:50](https://news.ycombinator.com/item?id=38013039) - [Exchange Rate](https://www.lrb.co.uk/the-paper/v45/n21/eyal-weizman/exchange-rate)
 * [2023-10-25, 13:46:10](https://news.ycombinator.com/item?id=38012716) - [Desert Island Tourism](https://thehustle.co/the-wild-business-of-desert-island-tourism/)
 * [2023-10-25, 13:40:44](https://news.ycombinator.com/item?id=38012662) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
