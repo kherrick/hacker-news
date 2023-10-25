@@ -23,7 +23,7 @@
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 12:20:15](https://news.ycombinator.com/item?id=38012008) - [First malaria vaccine reduces early childhood mortality](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
-* [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom (YC S20) Is Hiring a Senior Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+* [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – a web app to paint better with ease](https://artistassistapp.com/)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
