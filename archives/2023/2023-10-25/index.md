@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:54:44](https://news.ycombinator.com/item?id=38012263) - [Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)
 * [2023-10-25, 12:38:35](https://news.ycombinator.com/item?id=38012127) - [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)

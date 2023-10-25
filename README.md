@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:54:44](https://news.ycombinator.com/item?id=38012263) - [Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)
 * [2023-10-25, 12:38:35](https://news.ycombinator.com/item?id=38012127) - [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)
@@ -13,7 +14,6 @@
 * [2023-10-25, 08:07:11](https://news.ycombinator.com/item?id=38010429) - [Segmind Stable Diffusion – A smaller version of Stable Diffusion XL](https://huggingface.co/segmind/SSD-1B)
 * [2023-10-25, 08:02:42](https://news.ycombinator.com/item?id=38010407) - [Puncia – Subdomain and Exploit Hunter Powered by AI](https://github.com/ARPSyndicate/puncia)
 * [2023-10-25, 08:00:55](https://news.ycombinator.com/item?id=38010391) - [Brisk 22-minute walk could offset harmful effects of sitting, study suggests](https://www.theguardian.com/society/2023/oct/24/brisk-minute-walk-offset-harmful-effects-sitting-study)
-* [2023-10-25, 07:59:29](https://news.ycombinator.com/item?id=38010384) - [Show HN: GitHub Organization Analytics](https://next.ossinsight.io/analyze/vercel)
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 * [2023-10-25, 07:35:42](https://news.ycombinator.com/item?id=38010244) - [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
