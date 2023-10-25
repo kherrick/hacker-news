@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 19:18:53](https://news.ycombinator.com/item?id=38017029) - [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
 * [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client(beta)](https://testflight.apple.com/join/LVj8KwAq)
 * [2023-10-25, 18:03:42](https://news.ycombinator.com/item?id=38016013) - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 19:18:53](https://news.ycombinator.com/item?id=38017029) - [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
 * [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client(beta)](https://testflight.apple.com/join/LVj8KwAq)
 * [2023-10-25, 18:03:42](https://news.ycombinator.com/item?id=38016013) - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
@@ -8,7 +9,6 @@
 * [2023-10-25, 16:46:59](https://news.ycombinator.com/item?id=38014835) - [ReactAgent: LLM Agent for React Coding](https://reactagent.io/)
 * [2023-10-25, 16:45:55](https://news.ycombinator.com/item?id=38014812) - [Nile: Serverless Postgres for modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-25, 16:34:45](https://news.ycombinator.com/item?id=38014638) - [Book Review: Going Infinite](https://thezvi.substack.com/p/book-review-going-infinite)
-* [2023-10-25, 16:31:34](https://news.ycombinator.com/item?id=38014582) - [Cloudflare API, dashboard, tunnels down](https://www.cloudflarestatus.com/incidents/s1hkh315y9s9)
 * [2023-10-25, 15:50:22](https://news.ycombinator.com/item?id=38014069) - [Wait, what's a bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
 * [2023-10-25, 15:36:32](https://news.ycombinator.com/item?id=38013919) - [Sergey Brin's airship gets FAA clearance](https://spectrum.ieee.org/lta-airship-faa-clearance)
@@ -26,9 +26,9 @@
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' Manual Examples](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
-* [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [What are Functions? Coding for Kids [video]](https://www.youtube.com/watch?v=3JIZ40yuZL0)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
+* [2023-10-24, 11:44:06](https://news.ycombinator.com/item?id=37997705) - [Star Citizen's Squadron 42 campaign is \"feature complete\" after 11 years](https://arstechnica.com/gaming/2023/10/star-citizens-squadron-42-campaign-is-feature-complete-after-11-years/)
 * [2023-10-22, 14:13:06](https://news.ycombinator.com/item?id=37975558) - [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 
 ## [Archives](archives/index.md)

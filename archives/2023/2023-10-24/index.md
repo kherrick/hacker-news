@@ -82,6 +82,7 @@
 * [2023-10-24, 13:09:21](https://news.ycombinator.com/item?id=37998691) - [I Hate NestJS](https://ethang.dev/blog/i-hate-nest-js/)
 * [2023-10-24, 13:03:52](https://news.ycombinator.com/item?id=37998619) - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
 * [2023-10-24, 12:25:34](https://news.ycombinator.com/item?id=37998147) - [There should be more cash prizes for solving historical mysteries](https://resobscura.substack.com/p/there-should-be-more-cash-prizes)
+* [2023-10-24, 11:44:06](https://news.ycombinator.com/item?id=37997705) - [Star Citizen's Squadron 42 campaign is \"feature complete\" after 11 years](https://arstechnica.com/gaming/2023/10/star-citizens-squadron-42-campaign-is-feature-complete-after-11-years/)
 * [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
 * [2023-10-24, 10:58:16](https://news.ycombinator.com/item?id=37997246) - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
