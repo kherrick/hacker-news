@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 12:59:39",
+      "https://news.ycombinator.com/item?id=38012311"
+    ],
+    [
+      "Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code",
+      "https://github.com/orbitalapi/orbital"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 12:38:35",
       "https://news.ycombinator.com/item?id=38012127"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse",
       "https://github.com/AndrewWalsh/openapi-devtools"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 12:20:15",
+      "https://news.ycombinator.com/item?id=38012008"
+    ],
+    [
+      "First malaria vaccine slashes early childhood mortality – Science – AAAS",
+      "https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38010429"
     ],
     [
-      "50% smaller and 60% faster distilled Stable Diffusion XL",
+      "Segmind Stable Diffusion – A smaller version of Stable Diffusion XL",
       "https://huggingface.co/segmind/SSD-1B"
     ]
   ],
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2023-10-25, 05:13:48",
+      "https://news.ycombinator.com/item?id=38009377"
+    ],
+    [
+      "Object-oriented programming for kids [video]",
+      "https://www.youtube.com/watch?v=X3cFiJnxUBY"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 05:13:11",
       "https://news.ycombinator.com/item?id=38009372"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-10-25, 01:07:56",
-      "https://news.ycombinator.com/item?id=38007906"
-    ],
-    [
-      "Judas goat",
-      "https://en.wikipedia.org/wiki/Judas_goat"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 22:54:17",
       "https://news.ycombinator.com/item?id=38006814"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-10-24, 15:41:50",
-      "https://news.ycombinator.com/item?id=38000723"
-    ],
-    [
-      "Deconstructing the Mastodon Client",
-      "http://blog.khinsen.net/posts/2023/10/09/deconstructing-the-mastodon-client/"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 14:20:48",
       "https://news.ycombinator.com/item?id=37999527"
     ],
     [
       "Show HN: Dlt – Python library to automate the creation of datasets",
       "https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 13:39:54",
-      "https://news.ycombinator.com/item?id=37999035"
-    ],
-    [
-      "Animated AI",
-      "https://animatedai.github.io/"
     ]
   ],
   [
