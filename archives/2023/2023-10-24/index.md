@@ -115,6 +115,7 @@
 * [2023-10-24, 05:39:11](https://news.ycombinator.com/item?id=37995155) - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 05:33:52](https://news.ycombinator.com/item?id=37995119) - [NASA just sent a software update to a spacecraft 12B miles away](https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/)
 * [2023-10-24, 05:22:03](https://news.ycombinator.com/item?id=37995067) - [Amazon selling $15k tiny house with two floors and ships in under two weeks](https://www.the-sun.com/money/9391646/amazon-unique-moon-dome-tiny-house-two-bathrooms/)
+* [2023-10-24, 05:13:34](https://news.ycombinator.com/item?id=37995034) - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 * [2023-10-24, 04:01:30](https://news.ycombinator.com/item?id=37994740) - [Systematic Review of the Neurocognitive Effects of Cannabis Use in Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259587/)
 * [2023-10-24, 03:57:12](https://news.ycombinator.com/item?id=37994725) - [Writerside – a new technical writing environment from JetBrains](https://www.jetbrains.com/writerside/)
 * [2023-10-24, 03:07:05](https://news.ycombinator.com/item?id=37994460) - [A similarity between the CAP theorem and our heart](https://twitter.com/dvassallo/status/1716585205400756514)
