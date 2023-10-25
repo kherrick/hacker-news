@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 16:00:42](https://news.ycombinator.com/item?id=38014168) - [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
+* [2023-10-25, 15:50:22](https://news.ycombinator.com/item?id=38014069) - [Wait, What's a Bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
+* [2023-10-25, 15:17:28](https://news.ycombinator.com/item?id=38013717) - [Apple TV Plus is getting a price hike – and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)
+* [2023-10-25, 15:17:10](https://news.ycombinator.com/item?id=38013714) - [Using the FDAP Architecture to Build InfluxDB 3.0: Flight, DataFusion, Arrow](https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/)
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobiles](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:49:10](https://news.ycombinator.com/item?id=38013429) - [Critically Acclaimed Horror Film of the 2010s or Your PhD Program?](https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program)
 * [2023-10-25, 14:24:57](https://news.ycombinator.com/item?id=38013157) - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
@@ -38,6 +42,7 @@
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 * [2023-10-25, 07:35:42](https://news.ycombinator.com/item?id=38010244) - [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
 * [2023-10-25, 07:04:35](https://news.ycombinator.com/item?id=38010044) - [The Snapdragon X Elite aims to make your Windows PC better than a Mac](https://www.xda-developers.com/snapdragon-x-elite-announcement/)
+* [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2023-10-25, 05:29:25](https://news.ycombinator.com/item?id=38009458) - [Dup()'s shared file IO offset is a necessary part of Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/DupSharedOffsetNecessary)
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [Object-oriented programming for kids [video]](https://www.youtube.com/watch?v=X3cFiJnxUBY)
