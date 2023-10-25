@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-25, 02:09:29](https://news.ycombinator.com/item?id=38008323) - [Ask HN: What's the best way to become an independent software developer?](https://news.ycombinator.com/item?id=38008323)
 * [2023-10-25, 01:49:41](https://news.ycombinator.com/item?id=38008181) - [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
 * [2023-10-24, 23:18:49](https://news.ycombinator.com/item?id=38007028) - [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
 * [2023-10-24, 22:54:17](https://news.ycombinator.com/item?id=38006814) - [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
@@ -10,6 +9,7 @@
 * [2023-10-24, 20:07:08](https://news.ycombinator.com/item?id=38004699) - [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
 * [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git](https://gittuf.github.io/)
 * [2023-10-24, 19:27:26](https://news.ycombinator.com/item?id=38004099) - [What being rich in China looked like in 1, 1000, and 2000 AD](https://bigthink.com/the-past/china-wealth/)
+* [2023-10-24, 18:02:46](https://news.ycombinator.com/item?id=38002871) - [I wish people would do historical arguments better](https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 17:49:31](https://news.ycombinator.com/item?id=38002665) - [Show HN: Togomak – declarative pipeline orchestrator based on HCL and Terraform](https://github.com/srevinsaju/togomak)
 * [2023-10-24, 17:25:01](https://news.ycombinator.com/item?id=38002305) - [LIGO Surpasses the Quantum Limit](https://www.ligo.caltech.edu/news/ligo20231023)
