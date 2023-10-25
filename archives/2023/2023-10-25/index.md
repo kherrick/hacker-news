@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 16:17:51](https://news.ycombinator.com/item?id=38014376) - [LAPD releases video of officers who ignored robbery to play Pokémon Go](https://www.latimes.com/california/story/2023-10-07/lapd-releases-video-of-officers-who-ignored-robbery-to-play-pokemon-go)
+* [2023-10-25, 16:10:44](https://news.ycombinator.com/item?id=38014288) - [GFiber Labs announces first project: 20 Gig with Wi-Fi 7](https://fiber.googleblog.com/2023/10/gfiber-labs-announces-first-project-20.html)
 * [2023-10-25, 16:00:42](https://news.ycombinator.com/item?id=38014168) - [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
 * [2023-10-25, 15:50:22](https://news.ycombinator.com/item?id=38014069) - [Wait, What's a Bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
+* [2023-10-25, 15:36:32](https://news.ycombinator.com/item?id=38013919) - [Sergey Brin's Airship Gets FAA Clearance](https://spectrum.ieee.org/lta-airship-faa-clearance)
 * [2023-10-25, 15:25:05](https://news.ycombinator.com/item?id=38013796) - [We should promote more personal indexing, rather than algorhythmic indexing](https://news.ycombinator.com/item?id=38013796)
 * [2023-10-25, 15:17:28](https://news.ycombinator.com/item?id=38013717) - [Apple TV Plus is getting a price hike – and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)
 * [2023-10-25, 15:17:10](https://news.ycombinator.com/item?id=38013714) - [Using the FDAP Architecture to Build InfluxDB 3.0: Flight, DataFusion, Arrow](https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/)
@@ -47,6 +50,7 @@
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2023-10-25, 05:29:25](https://news.ycombinator.com/item?id=38009458) - [Dup()'s shared file IO offset is a necessary part of Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/DupSharedOffsetNecessary)
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [Object-oriented programming for kids [video]](https://www.youtube.com/watch?v=X3cFiJnxUBY)
+* [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [Kodable – Intro to programming for kids [video]](https://www.youtube.com/playlist?list=PL8HZ0pojM34Xkz7Yh7JxoSRytoa8FR7gV)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
