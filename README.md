@@ -2,9 +2,7 @@
 
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
-* [2023-10-25, 17:05:44](https://news.ycombinator.com/item?id=38015106) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 17:01:12](https://news.ycombinator.com/item?id=38015038) - [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
-* [2023-10-25, 16:50:29](https://news.ycombinator.com/item?id=38014879) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 16:46:59](https://news.ycombinator.com/item?id=38014835) - [ReactAgent: LLM Agent for React Coding](https://reactagent.io/)
 * [2023-10-25, 16:45:55](https://news.ycombinator.com/item?id=38014812) - [Nile: Serverless Postgres for modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-25, 16:34:45](https://news.ycombinator.com/item?id=38014638) - [Book Review: Going Infinite](https://thezvi.substack.com/p/book-review-going-infinite)
@@ -25,10 +23,12 @@
 * [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – a web app to paint better with ease](https://artistassistapp.com/)
 * [2023-10-25, 10:51:27](https://news.ycombinator.com/item?id=38011421) - [Show HN: A note-keeping system on top of Fossil SCM](https://github.com/rguiscard/fossil-notebook-demo)
 * [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom (YC S20) Is Hiring a Senior Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+* [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' Manual Examples](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [What are Functions? Coding for Kids [video]](https://www.youtube.com/watch?v=3JIZ40yuZL0)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
+* [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
 * [2023-10-22, 14:13:06](https://news.ycombinator.com/item?id=37975558) - [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 
 ## [Archives](archives/index.md)

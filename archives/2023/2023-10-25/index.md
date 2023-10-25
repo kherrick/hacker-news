@@ -48,6 +48,7 @@
 * [2023-10-25, 10:51:27](https://news.ycombinator.com/item?id=38011421) - [Show HN: A note-keeping system on top of Fossil SCM](https://github.com/rguiscard/fossil-notebook-demo)
 * [2023-10-25, 10:47:06](https://news.ycombinator.com/item?id=38011387) - [Mptcp: An overlooked new feature in Go 1.21](https://www.sobyte.net/post/2023-07/mptcp-go/)
 * [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
+* [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' Manual Examples](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 08:53:21](https://news.ycombinator.com/item?id=38010718) - [On Keeping a Logbook (2010)](https://austinkleon.com/2010/01/31/logbook/)
 * [2023-10-25, 08:41:07](https://news.ycombinator.com/item?id=38010633) - [Sun's Magnetic Reversal is Underway [video]](https://www.youtube.com/watch?v=oSQ74zgUO44)
 * [2023-10-25, 08:26:23](https://news.ycombinator.com/item?id=38010563) - [AI Worship](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
