@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
 * [2023-10-25, 03:40:54](https://news.ycombinator.com/item?id=38008898) - [Otis: Tropical storm to category 5 hurricane in 24h](https://www.nhc.noaa.gov/archive/2023/ep18/ep182023.discus.012.shtml)
+* [2023-10-25, 02:31:12](https://news.ycombinator.com/item?id=38008461) - [MAME 0.260](https://www.mamedev.org/?p=530)
 * [2023-10-25, 02:19:27](https://news.ycombinator.com/item?id=38008395) - [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
 * [2023-10-25, 02:09:29](https://news.ycombinator.com/item?id=38008323) - [Ask HN: What's the best way to become an independent software developer?](https://news.ycombinator.com/item?id=38008323)
 * [2023-10-25, 01:51:35](https://news.ycombinator.com/item?id=38008194) - [LIGO Surpasses the Quantum Limit](https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit)

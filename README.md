@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 02:31:12](https://news.ycombinator.com/item?id=38008461) - [MAME 0.260](https://www.mamedev.org/?p=530)
 * [2023-10-25, 02:19:27](https://news.ycombinator.com/item?id=38008395) - [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
 * [2023-10-25, 01:51:35](https://news.ycombinator.com/item?id=38008194) - [LIGO Surpasses the Quantum Limit](https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit)
 * [2023-10-25, 01:07:56](https://news.ycombinator.com/item?id=38007906) - [Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
 * [2023-10-24, 23:18:49](https://news.ycombinator.com/item?id=38007028) - [Show HN: Fediverser Portal – Bring your subreddits to Lemmy](https://portal.alien.top)
 * [2023-10-24, 22:54:17](https://news.ycombinator.com/item?id=38006814) - [Show HN: Restaurants in Peace – leave a remembrance for a closed restaurant](https://restaurants.rip/)
 * [2023-10-24, 22:24:20](https://news.ycombinator.com/item?id=38006512) - [Life After “Calvin and Hobbes”](https://www.newyorker.com/magazine/2023/10/30/the-mysteries-bill-watterson-book-review)
-* [2023-10-24, 20:57:38](https://news.ycombinator.com/item?id=38005461) - [Prototype poisoning (2019)](https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/)
 * [2023-10-24, 20:08:26](https://news.ycombinator.com/item?id=38004721) - [Waymo says insurance data shows its driverless cars are safer than humans](https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/)
 * [2023-10-24, 20:07:08](https://news.ycombinator.com/item?id=38004699) - [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
 * [2023-10-24, 19:31:59](https://news.ycombinator.com/item?id=38004178) - [Gittuf – a security layer for Git](https://gittuf.github.io/)
