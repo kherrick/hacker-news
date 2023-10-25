@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-10-24, 23:15:34",
-      "https://news.ycombinator.com/item?id=38007010"
-    ],
-    [
-      "Star Citizen's Squadron 42 finally feature-complete 10 years post being revealed",
-      "https://www.xfire.com/star-citizens-squadron-42-finally-feature-complete-ten-years-after-being-announced/"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 22:54:17",
       "https://news.ycombinator.com/item?id=38006814"
     ],
@@ -107,6 +97,16 @@
     [
       "California suspends Cruise's autonomous vehicle deployment",
       "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 17:49:31",
+      "https://news.ycombinator.com/item?id=38002665"
+    ],
+    [
+      "Show HN: Togomak – declarative pipeline orchestrator based on HCL and Terraform",
+      "https://github.com/srevinsaju/togomak"
     ]
   ],
   [
