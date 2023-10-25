@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-10-25, 08:26:23",
-      "https://news.ycombinator.com/item?id=38010563"
+      "2023-10-25, 09:53:49",
+      "https://news.ycombinator.com/item?id=38011085"
     ],
     [
-      "AI Worship",
-      "https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html"
+      "PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)",
+      "https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 08:02:42",
+      "https://news.ycombinator.com/item?id=38010407"
+    ],
+    [
+      "Puncia – Subdomain and Exploit Hunter Powered by AI",
+      "https://github.com/ARPSyndicate/puncia"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 07:59:29",
+      "https://news.ycombinator.com/item?id=38010384"
+    ],
+    [
+      "Show HN: GitHub Organization Analytics",
+      "https://next.ossinsight.io/analyze/vercel"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 07:39:11",
+      "https://news.ycombinator.com/item?id=38010267"
+    ],
+    [
+      "Flawless – Durable execution engine for Rust",
+      "https://flawless.dev/"
     ]
   ],
   [
@@ -41,6 +71,16 @@
   ],
   [
     [
+      "2023-10-25, 05:13:11",
+      "https://news.ycombinator.com/item?id=38009372"
+    ],
+    [
+      "Not knowing the /proc file system",
+      "https://admccartney.mur.at/programming/idkproc/"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 04:42:41",
       "https://news.ycombinator.com/item?id=38009202"
     ],
@@ -61,22 +101,22 @@
   ],
   [
     [
+      "2023-10-25, 04:36:05",
+      "https://news.ycombinator.com/item?id=38009174"
+    ],
+    [
+      "Finding Meaning in the Nature of Order",
+      "https://stefanlesser.substack.com/p/finding-meaning-in-the-nature-of"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 04:35:54",
       "https://news.ycombinator.com/item?id=38009172"
     ],
     [
       "Neskowin Ghost Forest",
       "https://en.wikipedia.org/wiki/Neskowin_Ghost_Forest"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 03:59:49",
-      "https://news.ycombinator.com/item?id=38008987"
-    ],
-    [
-      "Things I've learned about building CLI tools in Python",
-      "https://simonwillison.net/2023/Sep/30/cli-tools-python/"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Judas goat",
       "https://en.wikipedia.org/wiki/Judas_goat"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 23:18:49",
-      "https://news.ycombinator.com/item?id=38007028"
-    ],
-    [
-      "Show HN: Fediverser Portal – Bring your subreddits to Lemmy",
-      "https://portal.alien.top"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "California suspends Cruise's autonomous vehicle deployment",
       "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 17:01:00",
-      "https://news.ycombinator.com/item?id=38001978"
-    ],
-    [
-      "Livedocs (YC W22) Is Hiring",
-      "https://www.ycombinator.com/companies/livedocs/jobs/IqaU8e4-marketing-coordinator"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Before computers were logic diagrams and machines",
       "https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 12:47:08",
-      "https://news.ycombinator.com/item?id=37974897"
-    ],
-    [
-      "Development Secrets of the Original Kirby [video]",
-      "https://www.youtube.com/watch?v=ZUY2AtBD6Sk"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 12:42:44",
-      "https://news.ycombinator.com/item?id=37974865"
-    ],
-    [
-      "The Wait Equation and AI Investment",
-      "https://javednissar.ca/wait-equation"
     ]
   ]
 ]
