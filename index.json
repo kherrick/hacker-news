@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=38015169"
     ],
     [
-      "Adding Crushed Rock to Farmland Pulls Carbon Out of the Air",
+      "Adding crushed rock to farmland pulls carbon out of the air",
       "https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 17:05:44",
+      "https://news.ycombinator.com/item?id=38015106"
+    ],
+    [
+      "Nix Survival Mode: macOS upgrades won't break Nix anymore",
+      "https://determinate.systems/posts/nix-survival-mode-on-macos"
     ]
   ],
   [
@@ -35,8 +45,18 @@
       "https://news.ycombinator.com/item?id=38014879"
     ],
     [
-      "Advice to a Novice Programmer",
+      "Advice to a novice programmer",
       "https://blog.plover.com/prog/katara-advice.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 16:46:59",
+      "https://news.ycombinator.com/item?id=38014835"
+    ],
+    [
+      "ReactAgent: LLM Agent for React Coding",
+      "https://reactagent.io/"
     ]
   ],
   [
@@ -91,11 +111,21 @@
   ],
   [
     [
+      "2023-10-25, 15:39:17",
+      "https://news.ycombinator.com/item?id=38013955"
+    ],
+    [
+      "SpaceX Starship Super Heavy Project at the Boca Chica Launch Site",
+      "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 15:36:32",
       "https://news.ycombinator.com/item?id=38013919"
     ],
     [
-      "Sergey Brin's Airship Gets FAA Clearance",
+      "Sergey Brin's airship gets FAA clearance",
       "https://spectrum.ieee.org/lta-airship-faa-clearance"
     ]
   ],
@@ -111,31 +141,11 @@
   ],
   [
     [
-      "2023-10-25, 15:25:05",
-      "https://news.ycombinator.com/item?id=38013796"
-    ],
-    [
-      "We should promote more personal indexing, rather than algorhythmic indexing",
-      "https://news.ycombinator.com/item?id=38013796"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 15:17:10",
-      "https://news.ycombinator.com/item?id=38013714"
-    ],
-    [
-      "Using the FDAP Architecture to Build InfluxDB 3.0: Flight, DataFusion, Arrow",
-      "https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 15:13:47",
       "https://news.ycombinator.com/item?id=38013668"
     ],
     [
-      "What Transport for London can learn about us from our mobiles",
+      "What Transport for London can learn about us from our mobile data",
       "https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for"
     ]
   ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-10-25, 08:53:21",
-      "https://news.ycombinator.com/item?id=38010718"
-    ],
-    [
-      "On Keeping a Logbook (2010)",
-      "https://austinkleon.com/2010/01/31/logbook/"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 07:39:11",
       "https://news.ycombinator.com/item?id=38010267"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-10-23, 13:42:12",
-      "https://news.ycombinator.com/item?id=37985489"
+      "2023-10-25, 05:13:11",
+      "https://news.ycombinator.com/item?id=38009372"
     ],
     [
-      "Embeddings: What they are and why they matter",
-      "https://simonwillison.net/2023/Oct/23/embeddings/"
+      "Not knowing the /proc file system",
+      "https://admccartney.mur.at/programming/idkproc/"
     ]
   ]
 ]
