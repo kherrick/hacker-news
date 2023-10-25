@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-25, 20:25:35](https://news.ycombinator.com/item?id=38017882) - [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 * [2023-10-25, 20:02:07](https://news.ycombinator.com/item?id=38017541) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:37:26](https://news.ycombinator.com/item?id=38017239) - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
@@ -20,6 +19,7 @@
 * [2023-10-25, 14:54:33](https://news.ycombinator.com/item?id=38013477) - [Internet Artifact Museum](https://neal.fun/internet-artifacts/)
 * [2023-10-25, 13:49:24](https://news.ycombinator.com/item?id=38012742) - [Building a global deployment platform is hard – a tour of the trade-offs we took](https://www.koyeb.com/blog/building-a-global-deployment-platform-is-hard-here-is-why)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
+* [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically unifying APIs and data with no glue code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 12:20:15](https://news.ycombinator.com/item?id=38012008) - [First malaria vaccine reduces early childhood mortality](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
 * [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – a web app to paint better with ease](https://artistassistapp.com/)
