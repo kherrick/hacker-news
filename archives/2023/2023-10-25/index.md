@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 20:52:10](https://news.ycombinator.com/item?id=38018217) - [I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 * [2023-10-25, 20:25:35](https://news.ycombinator.com/item?id=38017882) - [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 * [2023-10-25, 20:02:07](https://news.ycombinator.com/item?id=38017541) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
