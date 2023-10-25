@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 08:41:07](https://news.ycombinator.com/item?id=38010633) - [Sun's Magnetic Reversal is Underway [video]](https://www.youtube.com/watch?v=oSQ74zgUO44)
+* [2023-10-25, 08:26:23](https://news.ycombinator.com/item?id=38010563) - [AI Worship](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
 * [2023-10-25, 07:35:42](https://news.ycombinator.com/item?id=38010244) - [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
 * [2023-10-25, 07:04:35](https://news.ycombinator.com/item?id=38010044) - [The Snapdragon X Elite aims to make your Windows PC better than a Mac](https://www.xda-developers.com/snapdragon-x-elite-announcement/)
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
+* [2023-10-25, 04:35:54](https://news.ycombinator.com/item?id=38009172) - [Neskowin Ghost Forest](https://en.wikipedia.org/wiki/Neskowin_Ghost_Forest)
 * [2023-10-25, 04:04:05](https://news.ycombinator.com/item?id=38009013) - [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
 * [2023-10-25, 03:59:49](https://news.ycombinator.com/item?id=38008987) - [Things I've learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-10-25, 03:40:54](https://news.ycombinator.com/item?id=38008898) - [Otis: Tropical storm to category 5 hurricane in 24h](https://www.nhc.noaa.gov/archive/2023/ep18/ep182023.discus.012.shtml)
