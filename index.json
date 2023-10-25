@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-10-25, 01:39:40",
-      "https://news.ycombinator.com/item?id=38008100"
+      "2023-10-25, 01:49:41",
+      "https://news.ycombinator.com/item?id=38008181"
     ],
     [
-      "Microsoft now demands to know why you won't use Edge when you download Chrome",
-      "https://www.techradar.com/computing/browsers/microsoft-now-demands-to-know-why-you-just-wont-use-edge-when-you-inevitably-download-chrome-using-it"
+      "Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range",
+      "https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Waymo says insurance data shows its driverless cars are safer than humans",
       "https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 20:07:08",
+      "https://news.ycombinator.com/item?id=38004699"
+    ],
+    [
+      "The OSI Deprogrammer",
+      "https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit"
     ]
   ],
   [
@@ -211,12 +221,32 @@
   ],
   [
     [
+      "2023-10-24, 13:29:54",
+      "https://news.ycombinator.com/item?id=37998923"
+    ],
+    [
+      "Voronoi Diagram and Delaunay Triangulation in O(nlog(n)) (2020)",
+      "https://codeforces.com/blog/entry/85638"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 12:25:34",
       "https://news.ycombinator.com/item?id=37998147"
     ],
     [
       "There should be more cash prizes for solving historical mysteries",
       "https://resobscura.substack.com/p/there-should-be-more-cash-prizes"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 13:42:12",
+      "https://news.ycombinator.com/item?id=37985489"
+    ],
+    [
+      "Embeddings: What they are and why they matter",
+      "https://simonwillison.net/2023/Oct/23/embeddings/"
     ]
   ],
   [
@@ -235,7 +265,7 @@
       "https://news.ycombinator.com/item?id=37975285"
     ],
     [
-      "Before Computers Were Logic Diagrams and Machines",
+      "Before computers were logic diagrams and machines",
       "https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/"
     ]
   ],
@@ -267,36 +297,6 @@
     [
       "There are two sides to an interview",
       "https://slepkin.substack.com/p/there-are-two-sides-to-an-interview"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 10:38:41",
-      "https://news.ycombinator.com/item?id=37974260"
-    ],
-    [
-      "DMD as a Library: Myth and Reality [pdf]",
-      "https://dconf.org/2023/slides/nitu.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 08:30:07",
-      "https://news.ycombinator.com/item?id=37973767"
-    ],
-    [
-      "Mars: Multi Arcade and Retro System",
-      "https://www.retrorgb.com/mars-multi-arcade-retro-system.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 08:24:57",
-      "https://news.ycombinator.com/item?id=37973742"
-    ],
-    [
-      "'A Neolithic feat of engineering': Orkney dig reveals ruins of tomb",
-      "https://www.theguardian.com/uk-news/2023/oct/21/a-neolithic-feat-of-engineering-orkney-dig-reveals-ruins-of-huge-tomb"
     ]
   ]
 ]
