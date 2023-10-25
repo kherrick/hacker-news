@@ -1,7 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 * [2023-10-25, 19:18:53](https://news.ycombinator.com/item?id=38017029) - [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
+* [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
+* [2023-10-25, 19:07:26](https://news.ycombinator.com/item?id=38016900) - [NIST Standard Peanut Butter – $1,107](https://shop.nist.gov/ccrz__ProductDetails?sku=2387&cclcl=en_US)
 * [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client(beta)](https://testflight.apple.com/join/LVj8KwAq)
+* [2023-10-25, 19:05:06](https://news.ycombinator.com/item?id=38016875) - [PyPI Security](https://talkpython.fm/episodes/show/435/pypi-security)
 * [2023-10-25, 18:03:42](https://news.ycombinator.com/item?id=38016013) - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
@@ -11,11 +15,8 @@
 * [2023-10-25, 16:34:45](https://news.ycombinator.com/item?id=38014638) - [Book Review: Going Infinite](https://thezvi.substack.com/p/book-review-going-infinite)
 * [2023-10-25, 15:50:22](https://news.ycombinator.com/item?id=38014069) - [Wait, what's a bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
-* [2023-10-25, 15:36:32](https://news.ycombinator.com/item?id=38013919) - [Sergey Brin's airship gets FAA clearance](https://spectrum.ieee.org/lta-airship-faa-clearance)
-* [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobile data](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:54:33](https://news.ycombinator.com/item?id=38013477) - [Internet Artifact Museum](https://neal.fun/internet-artifacts/)
 * [2023-10-25, 13:49:24](https://news.ycombinator.com/item?id=38012742) - [Building a global deployment platform is hard – a tour of the trade-offs we took](https://www.koyeb.com/blog/building-a-global-deployment-platform-is-hard-here-is-why)
-* [2023-10-25, 13:40:44](https://news.ycombinator.com/item?id=38012662) - [Web components will outlive JavaScript frameworks](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically unifying APIs and data with no glue code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
@@ -29,7 +30,6 @@
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
 * [2023-10-24, 11:44:06](https://news.ycombinator.com/item?id=37997705) - [Star Citizen's Squadron 42 campaign is \"feature complete\" after 11 years](https://arstechnica.com/gaming/2023/10/star-citizens-squadron-42-campaign-is-feature-complete-after-11-years/)
-* [2023-10-22, 14:13:06](https://news.ycombinator.com/item?id=37975558) - [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 
 ## [Archives](archives/index.md)
 

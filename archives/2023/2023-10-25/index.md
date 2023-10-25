@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 * [2023-10-25, 19:18:53](https://news.ycombinator.com/item?id=38017029) - [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
+* [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
+* [2023-10-25, 19:07:26](https://news.ycombinator.com/item?id=38016900) - [NIST Standard Peanut Butter – $1,107](https://shop.nist.gov/ccrz__ProductDetails?sku=2387&cclcl=en_US)
 * [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client(beta)](https://testflight.apple.com/join/LVj8KwAq)
+* [2023-10-25, 19:05:06](https://news.ycombinator.com/item?id=38016875) - [PyPI Security](https://talkpython.fm/episodes/show/435/pypi-security)
 * [2023-10-25, 18:03:42](https://news.ycombinator.com/item?id=38016013) - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding Crushed Rock to Farmland Pulls Carbon Out of the Air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
