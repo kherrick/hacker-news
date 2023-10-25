@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 12:59:39](https://news.ycombinator.com/item?id=38012311) - [Show HN: Orbital – Dynamically Unifying APIs and Data with No Glue Code](https://github.com/orbitalapi/orbital)
 * [2023-10-25, 12:38:35](https://news.ycombinator.com/item?id=38012127) - [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
+* [2023-10-25, 12:20:15](https://news.ycombinator.com/item?id=38012008) - [First malaria vaccine slashes early childhood mortality – Science – AAAS](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
 * [2023-10-25, 11:40:39](https://news.ycombinator.com/item?id=38011728) - [Lichee Console 4A: Mini Laptop with a RISC-V Processor and 7 inch display](https://liliputing.com/lichee-console-4a-is-a-mini-laptop-with-a-risc-v-processor-and-7-inch-display/)
 * [2023-10-25, 11:26:44](https://news.ycombinator.com/item?id=38011644) - [Anti-immigration policy is killing European tech](https://techcrunch.com/2023/10/17/anti-immigration-policy-is-killing-european-tech/)
 * [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
@@ -24,6 +26,7 @@
 * [2023-10-25, 07:04:35](https://news.ycombinator.com/item?id=38010044) - [The Snapdragon X Elite aims to make your Windows PC better than a Mac](https://www.xda-developers.com/snapdragon-x-elite-announcement/)
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
 * [2023-10-25, 05:29:25](https://news.ycombinator.com/item?id=38009458) - [Dup()'s shared file IO offset is a necessary part of Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/DupSharedOffsetNecessary)
+* [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [Object-oriented programming for kids [video]](https://www.youtube.com/watch?v=X3cFiJnxUBY)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
