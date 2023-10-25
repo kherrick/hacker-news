@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 14:24:57](https://news.ycombinator.com/item?id=38013157) - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
 * [2023-10-25, 14:24:36](https://news.ycombinator.com/item?id=38013151) - [Nightshade, the new tool allowing artists to 'poison' AI models](https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/)
 * [2023-10-25, 13:40:44](https://news.ycombinator.com/item?id=38012662) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
@@ -18,7 +19,6 @@
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 * [2023-10-25, 07:35:42](https://news.ycombinator.com/item?id=38010244) - [Tarsnap has given 2^18 dollars to open source](https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html)
 * [2023-10-25, 06:51:12](https://news.ycombinator.com/item?id=38009963) - [EBCDIC Is Incompatible with GDPR](https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/)
-* [2023-10-25, 05:29:25](https://news.ycombinator.com/item?id=38009458) - [Dup()'s shared file IO offset is a necessary part of Unix](https://utcc.utoronto.ca/~cks/space/blog/unix/DupSharedOffsetNecessary)
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [Object-oriented programming for kids [video]](https://www.youtube.com/watch?v=X3cFiJnxUBY)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
