@@ -2,7 +2,6 @@
 
 * [2023-10-25, 22:37:06](https://news.ycombinator.com/item?id=38019231) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 21:58:02](https://news.ycombinator.com/item?id=38018917) - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
-* [2023-10-25, 20:25:35](https://news.ycombinator.com/item?id=38017882) - [Meta Reports Third Quarter 2023 Results](https://investor.fb.com/investor-news/press-release-details/2023/Meta-Reports-Third-Quarter-2023-Results/default.aspx)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 * [2023-10-25, 19:55:32](https://news.ycombinator.com/item?id=38017446) - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
 * [2023-10-25, 19:37:26](https://news.ycombinator.com/item?id=38017239) - [The cost of cloud, a trillion dollar paradox (2021)](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
@@ -30,6 +29,7 @@
 * [2023-10-24, 19:59:21](https://news.ycombinator.com/item?id=38004574) - ['When I tried to play, my hand spasmed and shook': why musicians get the yips](https://www.theguardian.com/music/2023/oct/17/focal-dystonia-my-hand-spasmed-and-shook-why-musicians-get-the-yips)
 * [2023-10-24, 05:13:34](https://news.ycombinator.com/item?id=37995034) - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 * [2023-10-23, 19:14:10](https://news.ycombinator.com/item?id=37990238) - [Thokcha (Meteorite Amulets)](https://en.wikipedia.org/wiki/Thokcha)
+* [2023-10-23, 11:52:40](https://news.ycombinator.com/item?id=37984387) - [Debugging Compilers in Clojure](https://jpmonettas.github.io/my-blog/public/compilers-with-flow-storm.html)
 
 ## [Archives](archives/index.md)
 

@@ -90,6 +90,7 @@
 * [2023-10-23, 12:02:07](https://news.ycombinator.com/item?id=37984474) - [Regular Expression Laptop Stickers](https://store.robertelder.org/regular-expression-stickers-20220121/)
 * [2023-10-23, 12:00:48](https://news.ycombinator.com/item?id=37984461) - [Dutch Cycling Lifestyle](https://dutchcyclinglifestyle.com/)
 * [2023-10-23, 11:54:12](https://news.ycombinator.com/item?id=37984404) - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
+* [2023-10-23, 11:52:40](https://news.ycombinator.com/item?id=37984387) - [Debugging Compilers in Clojure](https://jpmonettas.github.io/my-blog/public/compilers-with-flow-storm.html)
 * [2023-10-23, 11:52:23](https://news.ycombinator.com/item?id=37984382) - [Earth Stopped Getting Greener 20 Years Ago](https://www.scientificamerican.com/article/earth-stopped-getting-greener-20-years-ago/)
 * [2023-10-23, 11:50:14](https://news.ycombinator.com/item?id=37984362) - [Orcas are learning terrifying new behaviors. Are they getting smarter?](https://www.livescience.com/animals/orcas/orcas-are-learning-terrifying-new-behaviors-are-they-getting-smarter)
 * [2023-10-23, 11:35:58](https://news.ycombinator.com/item?id=37984224) - [Minimum 15% global corporate tax has too many loopholes](https://fortune.com/2023/10/23/minimum-15-global-corporate-tax-loopholes-generate-half-revenue-expected-eu-tax-observatory/)
