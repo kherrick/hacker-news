@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-25, 16:50:29",
+      "https://news.ycombinator.com/item?id=38014879"
+    ],
+    [
+      "Advice to a Novice Programmer",
+      "https://blog.plover.com/prog/katara-advice.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 16:45:55",
+      "https://news.ycombinator.com/item?id=38014812"
+    ],
+    [
+      "Nile, Serverless Postgres for Modern SaaS",
+      "https://www.thenile.dev/blog/introducing-nile"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 16:34:45",
+      "https://news.ycombinator.com/item?id=38014638"
+    ],
+    [
+      "Zvi Mowshowitz's Book Review: Going Infinite [Long Read on Sam Bankman-Fried]",
+      "https://thezvi.substack.com/p/book-review-going-infinite"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 16:31:34",
       "https://news.ycombinator.com/item?id=38014582"
     ],
@@ -111,12 +141,32 @@
   ],
   [
     [
-      "2023-10-25, 14:24:57",
-      "https://news.ycombinator.com/item?id=38013157"
+      "2023-10-25, 14:54:33",
+      "https://news.ycombinator.com/item?id=38013477"
     ],
     [
-      "Confessions of a Middle-Class Founder",
-      "https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html"
+      "Internet Artifact Museum",
+      "https://neal.fun/internet-artifacts/"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 14:13:50",
+      "https://news.ycombinator.com/item?id=38013039"
+    ],
+    [
+      "Exchange Rate",
+      "https://www.lrb.co.uk/the-paper/v45/n21/eyal-weizman/exchange-rate"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 13:49:24",
+      "https://news.ycombinator.com/item?id=38012742"
+    ],
+    [
+      "Building a global deployment platform is hard – a tour of the trade-offs we took",
+      "https://www.koyeb.com/blog/building-a-global-deployment-platform-is-hard-here-is-why"
     ]
   ],
   [
@@ -161,26 +211,6 @@
   ],
   [
     [
-      "2023-10-25, 12:47:19",
-      "https://news.ycombinator.com/item?id=38012202"
-    ],
-    [
-      "Show HN: Prompt-Engineering Tool: AI-to-AI Testing for LLM",
-      "https://github.com/artas728/spelltest"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 12:38:33",
-      "https://news.ycombinator.com/item?id=38012126"
-    ],
-    [
-      "Show HN: Tonic Validate Metrics – an open-source RAG evaluation metrics package",
-      "https://github.com/TonicAI/tvalmetrics"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 12:24:19",
       "https://news.ycombinator.com/item?id=38012032"
     ],
@@ -195,7 +225,7 @@
       "https://news.ycombinator.com/item?id=38012008"
     ],
     [
-      "First malaria vaccine slashes early childhood mortality",
+      "First malaria vaccine reduces early childhood mortality",
       "https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths"
     ]
   ],
@@ -231,22 +261,22 @@
   ],
   [
     [
+      "2023-10-25, 08:53:21",
+      "https://news.ycombinator.com/item?id=38010718"
+    ],
+    [
+      "On Keeping a Logbook (2010)",
+      "https://austinkleon.com/2010/01/31/logbook/"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 07:39:11",
       "https://news.ycombinator.com/item?id=38010267"
     ],
     [
       "Flawless – Durable execution engine for Rust",
       "https://flawless.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 07:35:42",
-      "https://news.ycombinator.com/item?id=38010244"
-    ],
-    [
-      "Tarsnap has given 2^18 dollars to open source",
-      "https://www.daemonology.net/blog/2023-10-25-2%5E18-dollars-to-open-source.html"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "What are Functions? Coding for Kids [video]",
       "https://www.youtube.com/watch?v=3JIZ40yuZL0"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 17:55:33",
-      "https://news.ycombinator.com/item?id=38002752"
-    ],
-    [
-      "California suspends Cruise's autonomous vehicle deployment",
-      "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 13:42:12",
-      "https://news.ycombinator.com/item?id=37985489"
-    ],
-    [
-      "Embeddings: What they are and why they matter",
-      "https://simonwillison.net/2023/Oct/23/embeddings/"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 12:24:51",
-      "https://news.ycombinator.com/item?id=37974743"
-    ],
-    [
-      "V0: Generative UI",
-      "https://vercel.com/blog/announcing-v0-generative-ui"
     ]
   ]
 ]
