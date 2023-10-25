@@ -9,6 +9,7 @@
 * [2023-10-25, 12:54:44](https://news.ycombinator.com/item?id=38012263) - [Loyal workers are selectively and ironically targeted for exploitation](https://www.sciencedirect.com/science/article/abs/pii/S0022103122001615)
 * [2023-10-25, 12:47:37](https://news.ycombinator.com/item?id=38012207) - [Pope Francis encourages more children to code, especially in Catholic countries](https://www.bbc.com/news/technology-67209806)
 * [2023-10-25, 12:38:35](https://news.ycombinator.com/item?id=38012127) - [2023 Hugo Awards](https://www.thehugoawards.org/hugo-history/2023-hugo-awards/)
+* [2023-10-25, 12:38:33](https://news.ycombinator.com/item?id=38012126) - [Show HN: Tonic Validate Metrics – an open-source RAG evaluation metrics package](https://github.com/TonicAI/tvalmetrics)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 12:20:15](https://news.ycombinator.com/item?id=38012008) - [First malaria vaccine slashes early childhood mortality – Science – AAAS](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
 * [2023-10-25, 11:40:39](https://news.ycombinator.com/item?id=38011728) - [Lichee Console 4A: Mini Laptop with a RISC-V Processor and 7 inch display](https://liliputing.com/lichee-console-4a-is-a-mini-laptop-with-a-risc-v-processor-and-7-inch-display/)
