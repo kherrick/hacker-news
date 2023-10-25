@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 11:26:44](https://news.ycombinator.com/item?id=38011644) - [Anti-immigration policy is killing European tech](https://techcrunch.com/2023/10/17/anti-immigration-policy-is-killing-european-tech/)
 * [2023-10-25, 10:47:06](https://news.ycombinator.com/item?id=38011387) - [Mptcp: An overlooked new feature in Go 1.21](https://www.sobyte.net/post/2023-07/mptcp-go/)
 * [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-10-25, 08:53:21](https://news.ycombinator.com/item?id=38010718) - [On Keeping a Logbook (2010)](https://austinkleon.com/2010/01/31/logbook/)
@@ -27,7 +28,6 @@
 * [2023-10-24, 03:07:05](https://news.ycombinator.com/item?id=37994460) - [A similarity between the CAP theorem and our heart](https://twitter.com/dvassallo/status/1716585205400756514)
 * [2023-10-23, 13:42:12](https://news.ycombinator.com/item?id=37985489) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-22, 22:18:56](https://news.ycombinator.com/item?id=37979590) - [My Lost Gumby Essay](https://www.honest-broker.com/p/my-lost-gumby-essay)
-* [2023-10-22, 14:09:47](https://news.ycombinator.com/item?id=37975526) - [Chasing bugs in the electronic village (1992)](https://www.around.com/bugs/)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
 * [2023-10-22, 12:24:51](https://news.ycombinator.com/item?id=37974743) - [V0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
 
