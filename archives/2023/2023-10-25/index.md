@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
 * [2023-10-25, 04:04:05](https://news.ycombinator.com/item?id=38009013) - [Whirlwind I](https://en.wikipedia.org/wiki/Whirlwind_I)
 * [2023-10-25, 03:59:49](https://news.ycombinator.com/item?id=38008987) - [Things I've learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-10-25, 03:40:54](https://news.ycombinator.com/item?id=38008898) - [Otis: Tropical storm to category 5 hurricane in 24h](https://www.nhc.noaa.gov/archive/2023/ep18/ep182023.discus.012.shtml)
