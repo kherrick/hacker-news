@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding Crushed Rock to Farmland Pulls Carbon Out of the Air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
+* [2023-10-25, 17:01:12](https://news.ycombinator.com/item?id=38015038) - [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
 * [2023-10-25, 16:50:29](https://news.ycombinator.com/item?id=38014879) - [Advice to a Novice Programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 16:45:55](https://news.ycombinator.com/item?id=38014812) - [Nile, Serverless Postgres for Modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-25, 16:34:45](https://news.ycombinator.com/item?id=38014638) - [Zvi Mowshowitz's Book Review: Going Infinite [Long Read on Sam Bankman-Fried]](https://thezvi.substack.com/p/book-review-going-infinite)
@@ -25,11 +27,9 @@
 * [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
 * [2023-10-25, 10:51:27](https://news.ycombinator.com/item?id=38011421) - [Show HN: A note-keeping system on top of Fossil SCM](https://github.com/rguiscard/fossil-notebook-demo)
 * [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
-* [2023-10-25, 08:53:21](https://news.ycombinator.com/item?id=38010718) - [On Keeping a Logbook (2010)](https://austinkleon.com/2010/01/31/logbook/)
 * [2023-10-25, 07:39:11](https://news.ycombinator.com/item?id=38010267) - [Flawless – Durable execution engine for Rust](https://flawless.dev/)
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [What are Functions? Coding for Kids [video]](https://www.youtube.com/watch?v=3JIZ40yuZL0)
-* [2023-10-23, 13:42:12](https://news.ycombinator.com/item?id=37985489) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 
 ## [Archives](archives/index.md)
 
