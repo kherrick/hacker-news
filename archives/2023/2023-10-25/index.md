@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 18:03:42](https://news.ycombinator.com/item?id=38016013) - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding Crushed Rock to Farmland Pulls Carbon Out of the Air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
 * [2023-10-25, 17:05:44](https://news.ycombinator.com/item?id=38015106) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 17:01:12](https://news.ycombinator.com/item?id=38015038) - [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
+* [2023-10-25, 16:50:59](https://news.ycombinator.com/item?id=38014886) - [Toyota Prius on LA Craigslist Has a Catalytic Converter Cage Like a Prison](https://www.thedrive.com/news/toyota-prius-on-la-craigslist-has-a-catalytic-converter-cage-like-a-federal-prison)
 * [2023-10-25, 16:50:29](https://news.ycombinator.com/item?id=38014879) - [Advice to a Novice Programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 16:46:59](https://news.ycombinator.com/item?id=38014835) - [ReactAgent: LLM Agent for React Coding](https://reactagent.io/)
 * [2023-10-25, 16:45:55](https://news.ycombinator.com/item?id=38014812) - [Nile, Serverless Postgres for Modern SaaS](https://www.thenile.dev/blog/introducing-nile)
