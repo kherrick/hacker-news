@@ -52,6 +52,7 @@
 * [2023-10-22, 13:16:50](https://news.ycombinator.com/item?id=37975090) - [Children of married parents do better, but America is moving the other way](https://www.npr.org/2023/10/22/1207322878/single-parent-married-good-for-children-inequality)
 * [2023-10-22, 12:47:08](https://news.ycombinator.com/item?id=37974897) - [Development Secrets of the Original Kirby [video]](https://www.youtube.com/watch?v=ZUY2AtBD6Sk)
 * [2023-10-22, 12:44:57](https://news.ycombinator.com/item?id=37974879) - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
+* [2023-10-22, 12:38:29](https://news.ycombinator.com/item?id=37974829) - [There are two sides to an interview](https://slepkin.substack.com/p/there-are-two-sides-to-an-interview)
 * [2023-10-22, 12:34:53](https://news.ycombinator.com/item?id=37974804) - [Astrophysicists Put All Objects in Universe into One Pedagogical Plot](https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html)
 * [2023-10-22, 12:22:53](https://news.ycombinator.com/item?id=37974734) - [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
 * [2023-10-22, 12:14:27](https://news.ycombinator.com/item?id=37974688) - [Canada is considering a guaranteed universal basic income program](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
