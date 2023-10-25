@@ -66,6 +66,7 @@
 * [2023-10-24, 14:58:06](https://news.ycombinator.com/item?id=38000106) - [Car Owners Fall Behind on Payments at Highest Rate on Record](https://www.bloomberg.com/news/articles/2023-10-21/high-car-loan-interest-rate-payments-americans-struggle-with-monthly-bills)
 * [2023-10-24, 14:27:57](https://news.ycombinator.com/item?id=37999630) - [The Speed of the Librem 5](https://puri.sm/posts/the-real-speed-of-the-librem-5/)
 * [2023-10-24, 14:27:42](https://news.ycombinator.com/item?id=37999623) - [Cloud giants sound alarm on record-breaking DDoS attacks](https://www.cybersecuritydive.com/news/ddos-attacks-novel-zero-day/696136/)
+* [2023-10-24, 14:20:48](https://news.ycombinator.com/item?id=37999527) - [Show HN: Dlt – Python library to automate the creation of datasets](https://colab.research.google.com/drive/1DhaKW0tiSTHDCVmPjM-eoyL47BJ30xmP)
 * [2023-10-24, 14:09:10](https://news.ycombinator.com/item?id=37999380) - [Reconciliation Is a Knapsack Problem](https://www.moderntreasury.com/journal/reconciliation-is-a-knapsack-problem)
 * [2023-10-24, 14:06:10](https://news.ycombinator.com/item?id=37999349) - [Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
 * [2023-10-24, 13:57:42](https://news.ycombinator.com/item?id=37999249) - [What McKinsey got wrong about developer productivity](https://leaddev.com/process/what-mckinsey-got-wrong-about-developer-productivity)
