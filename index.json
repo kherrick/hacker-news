@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-10-25, 04:42:41",
-      "https://news.ycombinator.com/item?id=38009202"
-    ],
-    [
-      "Consistency Models (2018)",
-      "https://jepsen.io/consistency"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 04:36:12",
       "https://news.ycombinator.com/item?id=38009175"
     ],
@@ -297,6 +287,16 @@
     [
       "Before computers were logic diagrams and machines",
       "https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/"
+    ]
+  ],
+  [
+    [
+      "2023-10-22, 12:24:51",
+      "https://news.ycombinator.com/item?id=37974743"
+    ],
+    [
+      "V0: Generative UI",
+      "https://vercel.com/blog/announcing-v0-generative-ui"
     ]
   ]
 ]
