@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 14:24:57",
+      "https://news.ycombinator.com/item?id=38013157"
+    ],
+    [
+      "Confessions of a Middle-Class Founder",
+      "https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 14:24:36",
       "https://news.ycombinator.com/item?id=38013151"
     ],
@@ -177,16 +187,6 @@
     [
       "EBCDIC Is Incompatible with GDPR",
       "https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 05:29:25",
-      "https://news.ycombinator.com/item?id=38009458"
-    ],
-    [
-      "Dup()'s shared file IO offset is a necessary part of Unix",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/DupSharedOffsetNecessary"
     ]
   ],
   [
