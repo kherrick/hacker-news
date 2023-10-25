@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-10-25, 10:47:06",
+      "https://news.ycombinator.com/item?id=38011387"
+    ],
+    [
+      "Mptcp: An overlooked new feature in Go 1.21",
+      "https://www.sobyte.net/post/2023-07/mptcp-go/"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 09:53:49",
       "https://news.ycombinator.com/item?id=38011085"
     ],
     [
       "PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)",
       "https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 08:53:21",
+      "https://news.ycombinator.com/item?id=38010718"
+    ],
+    [
+      "On Keeping a Logbook (2010)",
+      "https://austinkleon.com/2010/01/31/logbook/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-10-25, 04:42:41",
-      "https://news.ycombinator.com/item?id=38009202"
-    ],
-    [
-      "Consistency Models (2018)",
-      "https://jepsen.io/consistency"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 04:36:12",
       "https://news.ycombinator.com/item?id=38009175"
     ],
@@ -157,16 +167,6 @@
     [
       "Judas goat",
       "https://en.wikipedia.org/wiki/Judas_goat"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 23:18:49",
-      "https://news.ycombinator.com/item?id=38007028"
-    ],
-    [
-      "Show HN: Fediverser Portal – Bring your subreddits to Lemmy",
-      "https://portal.alien.top"
     ]
   ],
   [
