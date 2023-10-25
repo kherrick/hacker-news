@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 04:42:41",
+      "https://news.ycombinator.com/item?id=38009202"
+    ],
+    [
+      "Consistency Models (2018)",
+      "https://jepsen.io/consistency"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 04:36:12",
       "https://news.ycombinator.com/item?id=38009175"
     ],
@@ -37,16 +47,6 @@
     [
       "MAME 0.260",
       "https://www.mamedev.org/?p=530"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 01:51:35",
-      "https://news.ycombinator.com/item?id=38008194"
-    ],
-    [
-      "LIGO Surpasses the Quantum Limit",
-      "https://www.caltech.edu/about/news/ligo-surpasses-the-quantum-limit"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-10-24, 15:30:45",
-      "https://news.ycombinator.com/item?id=38000551"
-    ],
-    [
-      "Halfsies",
-      "https://brilliant.org/challenges/halfsies/"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 14:20:48",
       "https://news.ycombinator.com/item?id=37999527"
     ],
@@ -251,11 +241,21 @@
   ],
   [
     [
+      "2023-10-22, 14:09:47",
+      "https://news.ycombinator.com/item?id=37975526"
+    ],
+    [
+      "Chasing bugs in the electronic village (1992)",
+      "https://www.around.com/bugs/"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 13:56:36",
       "https://news.ycombinator.com/item?id=37975413"
     ],
     [
-      "One Line in the Oldest Math Text Hinted at Hidden Universes [video]",
+      "One line in the oldest math text hinted at hidden universes [video]",
       "https://www.youtube.com/watch?v=lFlu60qs7_4"
     ]
   ],
