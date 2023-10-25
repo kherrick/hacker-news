@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-10-25, 17:15:49",
+      "https://news.ycombinator.com/item?id=38015277"
+    ],
+    [
+      "iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices",
+      "https://ileakage.com/"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 17:08:58",
       "https://news.ycombinator.com/item?id=38015169"
     ],
     [
       "Adding Crushed Rock to Farmland Pulls Carbon Out of the Air",
       "https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 17:01:12",
+      "https://news.ycombinator.com/item?id=38015038"
+    ],
+    [
+      "Unpacking Elixir: Observability",
+      "https://underjord.io/unpacking-elixir-observability.html"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-10-25, 08:53:21",
-      "https://news.ycombinator.com/item?id=38010718"
-    ],
-    [
-      "On Keeping a Logbook (2010)",
-      "https://austinkleon.com/2010/01/31/logbook/"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 07:39:11",
       "https://news.ycombinator.com/item?id=38010267"
     ],
@@ -287,16 +297,6 @@
     [
       "What are Functions? Coding for Kids [video]",
       "https://www.youtube.com/watch?v=3JIZ40yuZL0"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 13:42:12",
-      "https://news.ycombinator.com/item?id=37985489"
-    ],
-    [
-      "Embeddings: What they are and why they matter",
-      "https://simonwillison.net/2023/Oct/23/embeddings/"
     ]
   ]
 ]
