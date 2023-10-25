@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 20:02:07](https://news.ycombinator.com/item?id=38017541) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
+* [2023-10-25, 19:37:26](https://news.ycombinator.com/item?id=38017239) - [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/)
+* [2023-10-25, 19:28:45](https://news.ycombinator.com/item?id=38017146) - [AI 'breakthrough': neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
 * [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [What are roundabouts? The safety benefits of these circular intersections](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 * [2023-10-25, 19:18:53](https://news.ycombinator.com/item?id=38017029) - [Show HN: Mango Mail – The most affordable email host with unlimited addresses](https://mymangomail.com/)
 * [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
