@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding Crushed Rock to Farmland Pulls Carbon Out of the Air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
 * [2023-10-25, 16:50:29](https://news.ycombinator.com/item?id=38014879) - [Advice to a Novice Programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 16:45:55](https://news.ycombinator.com/item?id=38014812) - [Nile, Serverless Postgres for Modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-25, 16:34:45](https://news.ycombinator.com/item?id=38014638) - [Zvi Mowshowitz's Book Review: Going Infinite [Long Read on Sam Bankman-Fried]](https://thezvi.substack.com/p/book-review-going-infinite)
