@@ -10,6 +10,7 @@
 * [2023-10-25, 19:07:26](https://news.ycombinator.com/item?id=38016900) - [NIST Standard Peanut Butter – $1,107](https://shop.nist.gov/ccrz__ProductDetails?sku=2387&cclcl=en_US)
 * [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client(beta)](https://testflight.apple.com/join/LVj8KwAq)
 * [2023-10-25, 19:05:06](https://news.ycombinator.com/item?id=38016875) - [PyPI Security](https://talkpython.fm/episodes/show/435/pypi-security)
+* [2023-10-25, 19:01:54](https://news.ycombinator.com/item?id=38016849) - [I think GCP is better than AWS – by Fernando Villalba](https://nandovillalba.medium.com/why-i-think-gcp-is-better-than-aws-ea78f9975bda)
 * [2023-10-25, 18:03:42](https://news.ycombinator.com/item?id=38016013) - [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding Crushed Rock to Farmland Pulls Carbon Out of the Air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
