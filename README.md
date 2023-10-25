@@ -12,6 +12,7 @@
 * [2023-10-25, 15:50:22](https://news.ycombinator.com/item?id=38014069) - [Wait, what's a bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
 * [2023-10-25, 15:36:32](https://news.ycombinator.com/item?id=38013919) - [Sergey Brin's airship gets FAA clearance](https://spectrum.ieee.org/lta-airship-faa-clearance)
+* [2023-10-25, 15:26:24](https://news.ycombinator.com/item?id=38013810) - [Nishinomiya's 1.3 meters tall \"Manbow Tunnel\"](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/4026203/)
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobile data](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:54:33](https://news.ycombinator.com/item?id=38013477) - [Internet Artifact Museum](https://neal.fun/internet-artifacts/)
 * [2023-10-25, 13:49:24](https://news.ycombinator.com/item?id=38012742) - [Building a global deployment platform is hard – a tour of the trade-offs we took](https://www.koyeb.com/blog/building-a-global-deployment-platform-is-hard-here-is-why)
@@ -28,7 +29,6 @@
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [What are Functions? Coding for Kids [video]](https://www.youtube.com/watch?v=3JIZ40yuZL0)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
-* [2023-10-25, 01:07:56](https://news.ycombinator.com/item?id=38007906) - [Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
 * [2023-10-22, 14:13:06](https://news.ycombinator.com/item?id=37975558) - [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
 
 ## [Archives](archives/index.md)
