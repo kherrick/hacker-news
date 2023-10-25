@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 02:19:27](https://news.ycombinator.com/item?id=38008395) - [Heated yoga may reduce depression in adults](https://news.harvard.edu/gazette/story/2023/10/heated-yoga-may-reduce-depression-in-adults/)
 * [2023-10-25, 02:09:29](https://news.ycombinator.com/item?id=38008323) - [Ask HN: What's the best way to become an independent software developer?](https://news.ycombinator.com/item?id=38008323)
 * [2023-10-25, 01:49:41](https://news.ycombinator.com/item?id=38008181) - [Toyota Inks Deal to Mass Produce Solid State EV Batteries with 932-Mile Range](https://www.pcmag.com/news/toyota-inks-deal-to-mass-produce-solid-state-ev-batteries-with-932-mile)
 * [2023-10-25, 01:39:40](https://news.ycombinator.com/item?id=38008100) - [Microsoft now demands to know why you won't use Edge when you download Chrome](https://www.techradar.com/computing/browsers/microsoft-now-demands-to-know-why-you-just-wont-use-edge-when-you-inevitably-download-chrome-using-it)

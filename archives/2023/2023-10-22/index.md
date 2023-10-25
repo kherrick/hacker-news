@@ -42,6 +42,7 @@
 * [2023-10-22, 14:32:58](https://news.ycombinator.com/item?id=37975716) - [I live in my car: Parking lots open for those who can afford a car but not rent](https://www.nytimes.com/2023/10/17/realestate/car-homeless-rent-debt-mortgage.html)
 * [2023-10-22, 14:29:35](https://news.ycombinator.com/item?id=37975694) - [$9.5B of key metals in overlooked electronic waste: UN](https://techxplore.com/news/2023-10-bn-key-metals-overlooked-electronic.html)
 * [2023-10-22, 14:17:44](https://news.ycombinator.com/item?id=37975601) - [Tell HN: DuckDuckGo Search Results have jumped the shark](https://news.ycombinator.com/item?id=37975601)
+* [2023-10-22, 14:09:47](https://news.ycombinator.com/item?id=37975526) - [Chasing bugs in the electronic village (1992)](https://www.around.com/bugs/)
 * [2023-10-22, 13:45:51](https://news.ycombinator.com/item?id=37975306) - [IceCube – South Pole Neutrino Observatory](https://icecube.wisc.edu/science/icecube/)
 * [2023-10-22, 13:43:58](https://news.ycombinator.com/item?id=37975285) - [Before Computers Were Logic Diagrams and Machines](https://www.eejournal.com/article/before-computers-were-logic-diagrams-and-machines/)
 * [2023-10-22, 13:42:56](https://news.ycombinator.com/item?id=37975276) - [Uber migrates microservices to multi-cloud platform running Kubernetes and Mesos](https://www.uber.com/en-GB/blog/up-portable-microservices-ready-for-the-cloud/)
