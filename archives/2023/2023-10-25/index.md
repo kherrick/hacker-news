@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
 * [2023-10-25, 11:26:44](https://news.ycombinator.com/item?id=38011644) - [Anti-immigration policy is killing European tech](https://techcrunch.com/2023/10/17/anti-immigration-policy-is-killing-european-tech/)
+* [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – the web app to paint better with ease](https://artistassistapp.com/)
 * [2023-10-25, 10:47:06](https://news.ycombinator.com/item?id=38011387) - [Mptcp: An overlooked new feature in Go 1.21](https://www.sobyte.net/post/2023-07/mptcp-go/)
 * [2023-10-25, 09:53:49](https://news.ycombinator.com/item?id=38011085) - [PhotoRoom Is Hiring a Senior Developer in Paris (Cross-Platform, Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-10-25, 08:53:21](https://news.ycombinator.com/item?id=38010718) - [On Keeping a Logbook (2010)](https://austinkleon.com/2010/01/31/logbook/)
