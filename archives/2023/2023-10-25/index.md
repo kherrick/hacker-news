@@ -7,6 +7,7 @@
 * [2023-10-25, 16:00:42](https://news.ycombinator.com/item?id=38014168) - [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
 * [2023-10-25, 15:50:22](https://news.ycombinator.com/item?id=38014069) - [Wait, What's a Bookmarklet?](https://thehistoryoftheweb.com/postscript/wait-whats-a-bookmarklet/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
+* [2023-10-25, 15:25:05](https://news.ycombinator.com/item?id=38013796) - [We should promote more personal indexing, rather than algorhythmic indexing](https://news.ycombinator.com/item?id=38013796)
 * [2023-10-25, 15:17:28](https://news.ycombinator.com/item?id=38013717) - [Apple TV Plus is getting a price hike – and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)
 * [2023-10-25, 15:17:10](https://news.ycombinator.com/item?id=38013714) - [Using the FDAP Architecture to Build InfluxDB 3.0: Flight, DataFusion, Arrow](https://www.influxdata.com/blog/flight-datafusion-arrow-parquet-fdap-architecture-influxdb/)
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobiles](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
