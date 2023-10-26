@@ -62,6 +62,7 @@
 * [2023-10-24, 15:47:24](https://news.ycombinator.com/item?id=38000824) - [Server-side sandboxing: Containers and seccomp](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp/#j1WRe)
 * [2023-10-24, 15:41:50](https://news.ycombinator.com/item?id=38000723) - [Deconstructing the Mastodon Client](http://blog.khinsen.net/posts/2023/10/09/deconstructing-the-mastodon-client/)
 * [2023-10-24, 15:40:19](https://news.ycombinator.com/item?id=38000694) - [Microsoft opens early access to AI assistant for infosec, Security Copilot](https://www.theregister.com/2023/10/23/microsoft_security_copilots_early_access/)
+* [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
 * [2023-10-24, 15:30:45](https://news.ycombinator.com/item?id=38000551) - [Halfsies](https://brilliant.org/challenges/halfsies/)
 * [2023-10-24, 15:09:34](https://news.ycombinator.com/item?id=38000275) - [Nokia to cut up to 14,000 jobs as US demand shrinks, growth uncertain](https://www.reuters.com/business/media-telecom/nokia-sales-drop-slowing-5g-gear-demand-2023-10-19/)
 * [2023-10-24, 15:01:17](https://news.ycombinator.com/item?id=38000160) - [Thunderbird 115.4.0](https://www.thunderbird.net/en-US/thunderbird/115.4.0/releasenotes/)
