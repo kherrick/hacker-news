@@ -12,7 +12,6 @@
 * [2023-10-25, 19:28:45](https://news.ycombinator.com/item?id=38017146) - [AI 'breakthrough': neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
 * [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [Safety benefits of roundabouts](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 * [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
-* [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client](https://testflight.apple.com/join/LVj8KwAq)
 * [2023-10-25, 19:01:54](https://news.ycombinator.com/item?id=38016849) - [I think GCP is better than AWS (2020)](https://nandovillalba.medium.com/why-i-think-gcp-is-better-than-aws-ea78f9975bda)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
@@ -29,6 +28,7 @@
 * [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
 * [2023-10-23, 20:37:13](https://news.ycombinator.com/item?id=37991229) - [Thomas Stevens in Japan (1886)](https://www.japanbiking.com/tours-2/previous-tours/thomas-stevens-1884/)
+* [2023-10-23, 17:11:06](https://news.ycombinator.com/item?id=37988575) - [The First of a New Genus: Joseph Johnson in 18th century London](https://drb.ie/articles/the-first-of-a-new-genus/)
 * [2023-10-23, 11:52:40](https://news.ycombinator.com/item?id=37984387) - [Debugging compilers in Clojure](https://jpmonettas.github.io/my-blog/public/compilers-with-flow-storm.html)
 
 ## [Archives](archives/index.md)
