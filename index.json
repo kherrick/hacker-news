@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-26, 20:34:35",
+      "https://news.ycombinator.com/item?id=38031361"
+    ],
+    [
+      "Linux Mint Working on Wayland Support",
+      "https://blog.linuxmint.com/?p=4591"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 20:24:31",
+      "https://news.ycombinator.com/item?id=38031260"
+    ],
+    [
+      "An implementation of the NTFS filesystem in a Rust crate",
+      "https://github.com/ColinFinck/ntfs"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 19:56:38",
       "https://news.ycombinator.com/item?id=38030934"
     ],
@@ -27,6 +47,16 @@
     [
       "War Thunder game engine released under BSD license",
       "https://github.com/GaijinEntertainment/DagorEngine"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 18:37:24",
+      "https://news.ycombinator.com/item?id=38029893"
+    ],
+    [
+      "Roombas at the End of the World",
+      "https://spectrum.ieee.org/south-pole-roombas"
     ]
   ],
   [
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2023-10-26, 00:24:41",
-      "https://news.ycombinator.com/item?id=38020109"
-    ],
-    [
-      "Jina AI launches open-source 8k text embedding",
-      "https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 18:04:45",
       "https://news.ycombinator.com/item?id=38016028"
     ],
     [
       "Porting Linux Pledge to Go",
       "https://flak.tedunangst.com/post/porting-linux-pledge-to-go"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 14:40:06",
-      "https://news.ycombinator.com/item?id=38013299"
-    ],
-    [
-      "Heslington Brain",
-      "https://en.wikipedia.org/wiki/Heslington_Brain"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Toxicological analyses reveal the use of cannabis in Milan (Italy) in the 1600's",
       "https://www.sciencedirect.com/science/article/pii/S030544032300153X"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 15:25:43",
-      "https://news.ycombinator.com/item?id=38000479"
-    ],
-    [
-      "Reading in the Conglomerate Era",
-      "https://lareviewofbooks.org/article/reading-in-the-conglomerate-era-or-do-small-presses-even-exist/"
     ]
   ]
 ]
