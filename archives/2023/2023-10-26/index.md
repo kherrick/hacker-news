@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
+* [2023-10-26, 21:44:52](https://news.ycombinator.com/item?id=38032092) - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
 * [2023-10-26, 20:57:27](https://news.ycombinator.com/item?id=38031593) - [Atrocity Propaganda](https://en.wikipedia.org/wiki/Atrocity_propaganda)
 * [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 * [2023-10-26, 20:34:35](https://news.ycombinator.com/item?id=38031361) - [Linux Mint Working on Wayland Support](https://blog.linuxmint.com/?p=4591)

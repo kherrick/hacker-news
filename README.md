@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
+* [2023-10-26, 21:44:52](https://news.ycombinator.com/item?id=38032092) - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
 * [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 * [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [The Magical Japanese Art of Luggage Forwarding](https://craigmod.com/ridgeline/170/)
@@ -13,7 +15,6 @@
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Could a near-Earth asteroid be a piece of the moon?](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 14:47:40](https://news.ycombinator.com/item?id=38026308) - [AirportSim](https://airportsim.com/)
-* [2023-10-26, 14:32:02](https://news.ycombinator.com/item?id=38026119) - [Kidney stone procedure \"has the potential to be game changing\"](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
 * [2023-10-26, 14:23:54](https://news.ycombinator.com/item?id=38025998) - [Exclusive hardwood may be illegally harvested](https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/)
 * [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The negative impact of mobile-first web design on desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
@@ -23,11 +24,10 @@
 * [2023-10-26, 12:01:48](https://news.ycombinator.com/item?id=38024418) - [Hilbert curve: The space filling curve drawn with JavaScript](http://jsxgraph.uni-bayreuth.de/wiki/index.php/Hilbert_curve)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:40:31](https://news.ycombinator.com/item?id=38023874) - [Google's plan to stop Apple from getting serious about search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
-* [2023-10-26, 10:16:29](https://news.ycombinator.com/item?id=38023735) - [A Slower Urgency](https://www.bayoakomolafe.net/post/a-slower-urgency)
 * [2023-10-26, 09:36:42](https://news.ycombinator.com/item?id=38023544) - [MetaCLIP – Meta AI Research](https://github.com/facebookresearch/MetaCLIP)
 * [2023-10-26, 08:51:46](https://news.ycombinator.com/item?id=38023283) - [Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
 * [2023-10-25, 18:04:45](https://news.ycombinator.com/item?id=38016028) - [Porting Linux Pledge to Go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
-* [2023-10-25, 14:11:49](https://news.ycombinator.com/item?id=38013003) - [Very Slight Counterfactuals: Dick Whittington Has Children](https://www.thechatner.com/p/very-slight-counterfactuals-dick)
+* [2023-10-25, 14:46:45](https://news.ycombinator.com/item?id=38013399) - [How Expression Pedals Work](http://expressionpedals.com/how-expression-pedals-work)
 * [2023-10-25, 13:21:00](https://news.ycombinator.com/item?id=38012494) - [William Blake's Printing Process](https://www.youtube.com/watch?v=TGiVMj5Vm2g)
 * [2023-10-25, 00:14:02](https://news.ycombinator.com/item?id=38007547) - [Thurston Moore Revisits His Sonic Youth](https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html)
 

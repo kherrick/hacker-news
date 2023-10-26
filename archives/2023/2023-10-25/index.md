@@ -47,6 +47,7 @@
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobiles](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:54:33](https://news.ycombinator.com/item?id=38013477) - [Internet Artifact Museum](https://neal.fun/internet-artifacts/)
 * [2023-10-25, 14:49:10](https://news.ycombinator.com/item?id=38013429) - [Critically Acclaimed Horror Film of the 2010s or Your PhD Program?](https://www.mcsweeneys.net/articles/critically-acclaimed-horror-film-of-the-2010s-or-your-phd-program)
+* [2023-10-25, 14:46:45](https://news.ycombinator.com/item?id=38013399) - [How Expression Pedals Work](http://expressionpedals.com/how-expression-pedals-work)
 * [2023-10-25, 14:40:06](https://news.ycombinator.com/item?id=38013299) - [Heslington Brain](https://en.wikipedia.org/wiki/Heslington_Brain)
 * [2023-10-25, 14:24:57](https://news.ycombinator.com/item?id=38013157) - [Confessions of a Middle-Class Founder](https://nymag.com/intelligencer/article/venture-capital-backed-startup-founder-confessions.html)
 * [2023-10-25, 14:24:36](https://news.ycombinator.com/item?id=38013151) - [Nightshade, the new tool allowing artists to 'poison' AI models](https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/)
