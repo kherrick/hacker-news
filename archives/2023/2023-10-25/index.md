@@ -104,3 +104,4 @@
 * [2023-10-25, 01:36:17](https://news.ycombinator.com/item?id=38008079) - [Mean American household is now a millionaire, according to the Federal Reserve](https://finance.yahoo.com/news/standard-american-household-now-millionaire-104639340.html)
 * [2023-10-25, 01:07:56](https://news.ycombinator.com/item?id=38007906) - [Judas Goat](https://en.wikipedia.org/wiki/Judas_goat)
 * [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)
+* [2023-10-25, 00:14:02](https://news.ycombinator.com/item?id=38007547) - [Thurston Moore Revisits His Sonic Youth](https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html)

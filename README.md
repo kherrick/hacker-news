@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 14:32:02](https://news.ycombinator.com/item?id=38026119) - [Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
 * [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 * [2023-10-26, 13:25:29](https://news.ycombinator.com/item?id=38025200) - [UK government accused of 'vandalism' over abolishing biometrics safeguards](https://therecord.media/uk-government-criticized-over-abolishing-ai-biometric-safeguards)
@@ -23,12 +24,11 @@
 * [2023-10-26, 00:48:20](https://news.ycombinator.com/item?id=38020308) - [Chaucer's works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
 * [2023-10-26, 00:24:41](https://news.ycombinator.com/item?id=38020109) - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 * [2023-10-25, 21:58:02](https://news.ycombinator.com/item?id=38018917) - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
-* [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 14:40:06](https://news.ycombinator.com/item?id=38013299) - [Heslington Brain](https://en.wikipedia.org/wiki/Heslington_Brain)
 * [2023-10-25, 04:57:08](https://news.ycombinator.com/item?id=38009291) - [Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
+* [2023-10-25, 00:14:02](https://news.ycombinator.com/item?id=38007547) - [Thurston Moore Revisits His Sonic Youth](https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html)
 * [2023-10-24, 15:25:43](https://news.ycombinator.com/item?id=38000479) - [Reading in the Conglomerate Era](https://lareviewofbooks.org/article/reading-in-the-conglomerate-era-or-do-small-presses-even-exist/)
 * [2023-10-24, 07:18:34](https://news.ycombinator.com/item?id=37995721) - [The Academic Great Gatsby Curve](https://arxiv.org/abs/2310.08968)
-* [2023-10-24, 05:19:22](https://news.ycombinator.com/item?id=37995062) - [Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
 * [2023-10-24, 05:06:12](https://news.ycombinator.com/item?id=37994996) - [Randolph Bourne](https://en.wikipedia.org/wiki/Randolph_Bourne)
 
 ## [Archives](archives/index.md)
