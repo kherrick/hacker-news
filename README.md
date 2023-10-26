@@ -29,7 +29,7 @@
 * [2023-10-25, 14:11:49](https://news.ycombinator.com/item?id=38013003) - [Slight Counterfactuals: Dick Whittington Has Children](https://www.thechatner.com/p/very-slight-counterfactuals-dick)
 * [2023-10-25, 13:21:00](https://news.ycombinator.com/item?id=38012494) - [William Blake's Printing Process](https://www.youtube.com/watch?v=TGiVMj5Vm2g)
 * [2023-10-25, 00:14:02](https://news.ycombinator.com/item?id=38007547) - [Thurston Moore Revisits His Sonic Youth](https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html)
-* [2023-10-24, 20:52:11](https://news.ycombinator.com/item?id=38005379) - [Toxicological analyses reveal the use of cannabis in Milan (Italy) in the 1600's](https://www.sciencedirect.com/science/article/pii/S030544032300153X)
+* [2023-10-24, 20:52:11](https://news.ycombinator.com/item?id=38005379) - [Toxicological analyses reveal the use of cannabis in Milan in the 1600's](https://www.sciencedirect.com/science/article/pii/S030544032300153X)
 
 ## [Archives](archives/index.md)
 
