@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-26, 11:11:46",
+      "https://news.ycombinator.com/item?id=38024056"
+    ],
+    [
+      "Reality Labs has lost $11.4B during 2023 (there's still one quarter left)",
+      "https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 11:03:20",
       "https://news.ycombinator.com/item?id=38024002"
     ],
@@ -27,6 +37,26 @@
     [
       "Google's Plan to Stop Apple from Getting Serious About Search",
       "https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 10:36:43",
+      "https://news.ycombinator.com/item?id=38023852"
+    ],
+    [
+      "ASML DUV machines used to produce Huawei Mate 60 Pro chips",
+      "https://www.scmp.com/tech/tech-war/article/3239238/advanced-chip-huawei-mate-60-pro-smartphone-produced-asml-duv-machines-sources"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 09:45:17",
+      "https://news.ycombinator.com/item?id=38023580"
+    ],
+    [
+      "People who made the original Super Mario Bros shipped Wonder 38 years later",
+      "https://www.gamesradar.com/5-people-made-the-original-super-mario-bros-all-of-them-were-still-at-nintendo-to-ship-wonder-38-years-later/"
     ]
   ],
   [
@@ -91,6 +121,16 @@
   ],
   [
     [
+      "2023-10-25, 22:37:06",
+      "https://news.ycombinator.com/item?id=38019231"
+    ],
+    [
+      "Was Rust Worth It?",
+      "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 21:58:02",
       "https://news.ycombinator.com/item?id=38018917"
     ],
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2023-10-25, 19:20:59",
-      "https://news.ycombinator.com/item?id=38017049"
+      "2023-10-25, 19:55:32",
+      "https://news.ycombinator.com/item?id=38017446"
     ],
     [
-      "Safety benefits of roundabouts",
-      "https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 19:10:08",
-      "https://news.ycombinator.com/item?id=38016930"
-    ],
-    [
-      "The Case of a Curious SQL Query",
-      "https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 19:01:54",
-      "https://news.ycombinator.com/item?id=38016849"
-    ],
-    [
-      "I think GCP is better than AWS (2020)",
-      "https://nandovillalba.medium.com/why-i-think-gcp-is-better-than-aws-ea78f9975bda"
+      "Living Papers: A Language Toolkit for Augmented Scholarly Communication",
+      "https://idl.cs.washington.edu/papers/living-papers/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-10-25, 17:08:58",
-      "https://news.ycombinator.com/item?id=38015169"
+      "2023-10-25, 14:54:33",
+      "https://news.ycombinator.com/item?id=38013477"
     ],
     [
-      "Adding crushed rock to farmland pulls carbon out of the air",
-      "https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 17:01:12",
-      "https://news.ycombinator.com/item?id=38015038"
-    ],
-    [
-      "Unpacking Elixir: Observability",
-      "https://underjord.io/unpacking-elixir-observability.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 16:46:59",
-      "https://news.ycombinator.com/item?id=38014835"
-    ],
-    [
-      "ReactAgent: LLM Agent for React Coding",
-      "https://reactagent.io/"
+      "Internet Artifact Museum",
+      "https://neal.fun/internet-artifacts/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-10-24, 23:01:28",
-      "https://news.ycombinator.com/item?id=38006879"
+      "2023-10-25, 00:28:29",
+      "https://news.ycombinator.com/item?id=38007648"
     ],
     [
-      "Drought in Brazil's Amazon reveals ancient engravings",
-      "https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html"
+      "The First American Murder",
+      "http://strangeco.blogspot.com/2023/10/the-first-american-murder.html"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "A Melting Cauldron: The Book of Hallowe'en (1919)",
       "https://publicdomainreview.org/collection/the-book-of-halloween/"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 17:55:33",
+      "https://news.ycombinator.com/item?id=38002752"
+    ],
+    [
+      "California suspends Cruise's autonomous vehicle deployment",
+      "https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Samsung announces 'Shinebolt' HBM3E memory",
       "https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 11:47:05",
-      "https://news.ycombinator.com/item?id=37997744"
-    ],
-    [
-      "Mirror-Image Life",
-      "https://nautil.us/mirror-image-life-412729/"
     ]
   ],
   [
