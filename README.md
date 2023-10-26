@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
+* [2023-10-26, 00:48:20](https://news.ycombinator.com/item?id=38020308) - [Chaucer's Works Go Online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
 * [2023-10-26, 00:24:41](https://news.ycombinator.com/item?id=38020109) - [Jina AI Launches First Open-Source 8K Text Embedding, Rivaling OpenAI](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
-* [2023-10-25, 22:37:06](https://news.ycombinator.com/item?id=38019231) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 21:58:02](https://news.ycombinator.com/item?id=38018917) - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
 * [2023-10-25, 19:55:32](https://news.ycombinator.com/item?id=38017446) - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
@@ -21,7 +22,6 @@
 * [2023-10-25, 13:07:49](https://news.ycombinator.com/item?id=38012380) - [The human body has 1.8T cells dedicated to defending it](https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 12:20:15](https://news.ycombinator.com/item?id=38012008) - [First malaria vaccine reduces early childhood mortality](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
-* [2023-10-25, 10:53:18](https://news.ycombinator.com/item?id=38011432) - [Show HN: ArtistAssistApp – a web app to paint better with ease](https://artistassistapp.com/)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
