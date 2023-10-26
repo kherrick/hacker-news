@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 18:08:45](https://news.ycombinator.com/item?id=38029479) - [Cities Skylines 2 runs with 20fps on an Nvidia RTX4090](https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/)
 * [2023-10-26, 17:34:33](https://news.ycombinator.com/item?id=38028927) - [Tesla Model X Owner Has Had Enough of Minimalism, Adds Physical Buttons](https://insideevs.com/news/693231/tesla-model-x-owner-has-had-enough-minimalism-adds-physical-buttons/)
 * [2023-10-26, 17:02:09](https://news.ycombinator.com/item?id=38028480) - [Next.js 14](https://nextjs.org/blog/next-14)
 * [2023-10-26, 16:51:35](https://news.ycombinator.com/item?id=38028311) - [Sober-curious movement: Non-alcoholic drink options grow](https://www.ctvnews.ca/lifestyle/major-drink-brands-launch-more-non-alcoholic-drinks-as-sober-curious-trend-grows-1.6617761)
