@@ -26,7 +26,7 @@
 * [2023-10-25, 14:40:06](https://news.ycombinator.com/item?id=38013299) - [Heslington Brain](https://en.wikipedia.org/wiki/Heslington_Brain)
 * [2023-10-25, 04:57:08](https://news.ycombinator.com/item?id=38009291) - [Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
 * [2023-10-24, 15:25:43](https://news.ycombinator.com/item?id=38000479) - [Reading in the Conglomerate Era](https://lareviewofbooks.org/article/reading-in-the-conglomerate-era-or-do-small-presses-even-exist/)
-* [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
+* [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
 * [2023-10-24, 07:18:34](https://news.ycombinator.com/item?id=37995721) - [The Academic Great Gatsby Curve](https://arxiv.org/abs/2310.08968)
 * [2023-10-24, 05:19:22](https://news.ycombinator.com/item?id=37995062) - [Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
 * [2023-10-24, 05:06:12](https://news.ycombinator.com/item?id=37994996) - [Randolph Bourne](https://en.wikipedia.org/wiki/Randolph_Bourne)
