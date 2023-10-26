@@ -23,12 +23,12 @@
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 04:57:08](https://news.ycombinator.com/item?id=38009291) - [Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
-* [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)
 * [2023-10-24, 20:24:36](https://news.ycombinator.com/item?id=38004962) - [A Melting Cauldron: The Book of Hallowe'en (1919)](https://publicdomainreview.org/collection/the-book-of-halloween/)
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
 * [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
+* [2023-10-24, 07:18:34](https://news.ycombinator.com/item?id=37995721) - [The Academic Great Gatsby Curve](https://arxiv.org/abs/2310.08968)
 * [2023-10-24, 05:06:12](https://news.ycombinator.com/item?id=37994996) - [Randolph Bourne](https://en.wikipedia.org/wiki/Randolph_Bourne)
 
 ## [Archives](archives/index.md)
