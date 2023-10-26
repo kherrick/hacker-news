@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 16:20:10](https://news.ycombinator.com/item?id=38027791) - [Show HN: I am curating the best websites on the internet](https://www.internetisbeautiful.com)
+* [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 * [2023-10-26, 15:40:34](https://news.ycombinator.com/item?id=38027086) - [Ousted eLife editor on being fired in wake of Israel-Hamas remarks](https://www.nature.com/articles/d41586-023-03330-w)
 * [2023-10-26, 15:35:10](https://news.ycombinator.com/item?id=38026983) - [U.S. Economy Grew at 4.9% Rate This Summer, Powered by Fast-Spending Americans](https://www.wsj.com/economy/central-banking/us-gdp-economy-third-quarter-f247fa45)
 * [2023-10-26, 15:27:28](https://news.ycombinator.com/item?id=38026854) - [LA County's guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
