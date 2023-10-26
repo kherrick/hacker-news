@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
 * [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
 * [2023-10-26, 21:44:52](https://news.ycombinator.com/item?id=38032092) - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
 * [2023-10-26, 20:57:27](https://news.ycombinator.com/item?id=38031593) - [Atrocity Propaganda](https://en.wikipedia.org/wiki/Atrocity_propaganda)
