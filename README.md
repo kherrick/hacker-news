@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 16:51:35](https://news.ycombinator.com/item?id=38028311) - [Sober-curious movement: Non-alcoholic drink options grow](https://www.ctvnews.ca/lifestyle/major-drink-brands-launch-more-non-alcoholic-drinks-as-sober-curious-trend-grows-1.6617761)
 * [2023-10-26, 16:45:48](https://news.ycombinator.com/item?id=38028214) - [X Won't Demonetize Russell Brand, the Company Tells Pro-Censorship British MPs](https://reclaimthenet.org/x-wont-demonetize-russell-brand)
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
-* [2023-10-26, 15:35:10](https://news.ycombinator.com/item?id=38026983) - [U.S. Economy Grew at 4.9% Rate This Summer, Powered by Fast-Spending Americans](https://www.wsj.com/economy/central-banking/us-gdp-economy-third-quarter-f247fa45)
+* [2023-10-26, 15:55:28](https://news.ycombinator.com/item?id=38027346) - [EU parliament wants to remove chat control and safeguard secure encryption](https://www.patrick-breyer.de/en/historic-agreement-on-child-sexual-abuse-proposal-csar-european-parliament-wants-to-remove-chat-control-and-safeguard-secure-encryption/)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 15:12:07](https://news.ycombinator.com/item?id=38026637) - [Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
 * [2023-10-26, 14:32:02](https://news.ycombinator.com/item?id=38026119) - [Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
@@ -12,7 +13,6 @@
 * [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 * [2023-10-26, 13:25:29](https://news.ycombinator.com/item?id=38025200) - [UK government accused of 'vandalism' over abolishing biometrics safeguards](https://therecord.media/uk-government-criticized-over-abolishing-ai-biometric-safeguards)
-* [2023-10-26, 13:23:03](https://news.ycombinator.com/item?id=38025177) - [U.S. GDP grew at a 4.9% annual pace in the third quarter, better than expected](https://www.cnbc.com/2023/10/26/us-gdp-grew-at-a-4point9percent-annual-pace-in-the-third-quarter-better-than-expected.html)
 * [2023-10-26, 13:18:51](https://news.ycombinator.com/item?id=38025125) - [Synth Emulation in MAME (Arcade Machine Emulator). A New Trend?](https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1416192-synth-emulation-mame-arcade-machine-emulator-new-trend.html)
 * [2023-10-26, 13:14:48](https://news.ycombinator.com/item?id=38025086) - [Sodium batteries offer an alternative to tricky lithium](https://www.economist.com/leaders/2023/10/26/sodium-batteries-offer-an-alternative-to-tricky-lithium)
 * [2023-10-26, 12:57:25](https://news.ycombinator.com/item?id=38024899) - [Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
