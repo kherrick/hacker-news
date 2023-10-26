@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 12:57:25](https://news.ycombinator.com/item?id=38024899) - [Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
+* [2023-10-26, 12:31:58](https://news.ycombinator.com/item?id=38024665) - [Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 * [2023-10-26, 12:21:50](https://news.ycombinator.com/item?id=38024573) - [Apple backs national right-to-repair bill, offering parts, manuals, and tools](https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/)
 * [2023-10-26, 11:51:35](https://news.ycombinator.com/item?id=38024337) - [Pulpatronics tackles single-use electronics with paper RFID tags](https://www.dezeen.com/2023/10/25/pulpatronics-paper-rfid-tags/)
 * [2023-10-26, 11:49:44](https://news.ycombinator.com/item?id=38024327) - [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
