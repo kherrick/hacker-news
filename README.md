@@ -2,7 +2,6 @@
 
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
 * [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
-* [2023-10-26, 01:30:55](https://news.ycombinator.com/item?id=38020640) - [California Slams San Francisco for 'Egregious' Barriers to Housing Construction](https://www.nytimes.com/2023/10/25/us/san-francisco-housing.html)
 * [2023-10-26, 00:48:20](https://news.ycombinator.com/item?id=38020308) - [Chaucer's works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
 * [2023-10-26, 00:24:41](https://news.ycombinator.com/item?id=38020109) - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 * [2023-10-25, 22:37:06](https://news.ycombinator.com/item?id=38019231) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
@@ -28,6 +27,7 @@
 * [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
+* [2023-10-24, 11:47:05](https://news.ycombinator.com/item?id=37997744) - [Mirror-Image Life](https://nautil.us/mirror-image-life-412729/)
 * [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
 * [2023-10-24, 05:19:22](https://news.ycombinator.com/item?id=37995062) - [Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
 

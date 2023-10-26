@@ -86,6 +86,7 @@
 * [2023-10-24, 13:03:52](https://news.ycombinator.com/item?id=37998619) - [Germany to Pass Japan as Third-Largest Economy, Helped by Weak Yen](https://www.bloomberg.com/news/articles/2023-10-24/germany-to-pass-japan-as-3rd-largest-economy-helped-by-weak-yen)
 * [2023-10-24, 12:25:34](https://news.ycombinator.com/item?id=37998147) - [There should be more cash prizes for solving historical mysteries](https://resobscura.substack.com/p/there-should-be-more-cash-prizes)
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung Announces 'Shinebolt' HBM3E Memory: HBM Hits 36GB Stacks at 9.8 Gbps](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
+* [2023-10-24, 11:47:05](https://news.ycombinator.com/item?id=37997744) - [Mirror-Image Life](https://nautil.us/mirror-image-life-412729/)
 * [2023-10-24, 11:44:06](https://news.ycombinator.com/item?id=37997705) - [Star Citizen's Squadron 42 campaign is \"feature complete\" after 11 years](https://arstechnica.com/gaming/2023/10/star-citizens-squadron-42-campaign-is-feature-complete-after-11-years/)
 * [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
 * [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
