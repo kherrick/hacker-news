@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 06:14:39](https://news.ycombinator.com/item?id=38022277) - [ChatGPT cut off date now April 2023](https://chat.openai.com/share/3b088460-86f8-4fa6-afd1-802b7f9a5e9f)
+* [2023-10-26, 05:40:23](https://news.ycombinator.com/item?id=38022031) - [Without a Trace: How to Take Your Phone Off the Grid](https://themarkup.org/levelup/2023/10/25/without-a-trace-how-to-take-your-phone-off-the-grid)
 * [2023-10-26, 05:06:04](https://news.ycombinator.com/item?id=38021802) - [Someone is trying to rebuild Friendster](https://friendster.com)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
@@ -14,7 +16,6 @@
 * [2023-10-25, 19:26:24](https://news.ycombinator.com/item?id=38017111) - ['Log in with ' Feature Allows Full Online Account Takeover for Millions](https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions)
 * [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [Safety benefits of roundabouts](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 * [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
-* [2023-10-25, 19:07:03](https://news.ycombinator.com/item?id=38016895) - [Show HN: JellyBox – Jellyfin Desktop Client](https://testflight.apple.com/join/LVj8KwAq)
 * [2023-10-25, 19:01:54](https://news.ycombinator.com/item?id=38016849) - [I think GCP is better than AWS (2020)](https://nandovillalba.medium.com/why-i-think-gcp-is-better-than-aws-ea78f9975bda)
 * [2023-10-25, 17:15:49](https://news.ycombinator.com/item?id=38015277) - [iLeakage: Browser-Based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
@@ -22,7 +23,6 @@
 * [2023-10-25, 16:46:59](https://news.ycombinator.com/item?id=38014835) - [ReactAgent: LLM Agent for React Coding](https://reactagent.io/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
 * [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobile data](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
-* [2023-10-25, 14:54:33](https://news.ycombinator.com/item?id=38013477) - [Internet Artifact Museum](https://neal.fun/internet-artifacts/)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)
