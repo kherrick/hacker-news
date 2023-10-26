@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-26, 16:20:10](https://news.ycombinator.com/item?id=38027791) - [Show HN: I am curating the best websites on the internet](https://www.internetisbeautiful.com)
+* [2023-10-26, 16:44:47](https://news.ycombinator.com/item?id=38028196) - [Pro-Palestinian Instagram account locked by Meta for 'security reasons'](https://www.theguardian.com/technology/2023/oct/26/pro-palestinian-instagram-account-locked-by-meta-for-security-reasons)
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 * [2023-10-26, 15:35:10](https://news.ycombinator.com/item?id=38026983) - [U.S. Economy Grew at 4.9% Rate This Summer, Powered by Fast-Spending Americans](https://www.wsj.com/economy/central-banking/us-gdp-economy-third-quarter-f247fa45)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
@@ -23,9 +23,9 @@
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 09:45:17](https://news.ycombinator.com/item?id=38023580) - [People who made the original Super Mario Bros shipped Wonder 38 years later](https://www.gamesradar.com/5-people-made-the-original-super-mario-bros-all-of-them-were-still-at-nintendo-to-ship-wonder-38-years-later/)
 * [2023-10-26, 09:36:42](https://news.ycombinator.com/item?id=38023544) - [MetaCLIP – Meta AI Research](https://github.com/facebookresearch/MetaCLIP)
-* [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
 * [2023-10-25, 14:40:06](https://news.ycombinator.com/item?id=38013299) - [Heslington Brain](https://en.wikipedia.org/wiki/Heslington_Brain)
+* [2023-10-25, 14:11:49](https://news.ycombinator.com/item?id=38013003) - [Slight Counterfactuals: Dick Whittington Has Children](https://www.thechatner.com/p/very-slight-counterfactuals-dick)
 * [2023-10-25, 13:21:00](https://news.ycombinator.com/item?id=38012494) - [William Blake's Printing Process](https://www.youtube.com/watch?v=TGiVMj5Vm2g)
 * [2023-10-25, 04:57:08](https://news.ycombinator.com/item?id=38009291) - [Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
 * [2023-10-25, 00:14:02](https://news.ycombinator.com/item?id=38007547) - [Thurston Moore Revisits His Sonic Youth](https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html)
