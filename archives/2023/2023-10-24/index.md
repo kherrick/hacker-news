@@ -20,6 +20,7 @@
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:41:05](https://news.ycombinator.com/item?id=38005228) - [States sue Meta claiming its platforms are addictive and harm kids mental health](https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28)
 * [2023-10-24, 20:39:20](https://news.ycombinator.com/item?id=38005201) - [The Silent and Relentless Erosion of Corporate Soul](https://robertgreiner.com/the-race-to-the-bottom/)
+* [2023-10-24, 20:24:36](https://news.ycombinator.com/item?id=38004962) - [A Melting Cauldron: The Book of Hallowe'en (1919)](https://publicdomainreview.org/collection/the-book-of-halloween/)
 * [2023-10-24, 20:08:26](https://news.ycombinator.com/item?id=38004721) - [Waymo says insurance data shows its driverless cars are safer than humans](https://www.nbcbayarea.com/investigations/googles-waymo-safety-study-on-driverless-cars/3311188/)
 * [2023-10-24, 20:07:48](https://news.ycombinator.com/item?id=38004709) - [Windows 11's default mail client will show ads starting 2024](https://techcommunity.microsoft.com/t5/outlook/mail-amp-calendar-apps-will-be-replaced-with-new-outlook-for/td-p/3850309)
 * [2023-10-24, 20:07:08](https://news.ycombinator.com/item?id=38004699) - [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
