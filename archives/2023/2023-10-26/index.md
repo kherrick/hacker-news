@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
 * [2023-10-26, 17:34:33](https://news.ycombinator.com/item?id=38028927) - [Tesla Model X Owner Has Had Enough of Minimalism, Adds Physical Buttons](https://insideevs.com/news/693231/tesla-model-x-owner-has-had-enough-minimalism-adds-physical-buttons/)
+* [2023-10-26, 17:02:09](https://news.ycombinator.com/item?id=38028480) - [Next.js 14](https://nextjs.org/blog/next-14)
 * [2023-10-26, 16:51:35](https://news.ycombinator.com/item?id=38028311) - [Sober-curious movement: Non-alcoholic drink options grow](https://www.ctvnews.ca/lifestyle/major-drink-brands-launch-more-non-alcoholic-drinks-as-sober-curious-trend-grows-1.6617761)
 * [2023-10-26, 16:45:48](https://news.ycombinator.com/item?id=38028214) - [X Won't Demonetize Russell Brand, the Company Tells Pro-Censorship British MPs](https://reclaimthenet.org/x-wont-demonetize-russell-brand)
 * [2023-10-26, 16:44:47](https://news.ycombinator.com/item?id=38028196) - [Pro-Palestinian Instagram account locked by Meta for 'security reasons'](https://www.theguardian.com/technology/2023/oct/26/pro-palestinian-instagram-account-locked-by-meta-for-security-reasons)
@@ -19,6 +20,7 @@
 * [2023-10-26, 15:19:52](https://news.ycombinator.com/item?id=38026756) - [Hysteria is a powerful, fast and censorship resistant proxy](https://github.com/apernet/hysteria)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 15:12:07](https://news.ycombinator.com/item?id=38026637) - [Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
+* [2023-10-26, 14:47:40](https://news.ycombinator.com/item?id=38026308) - [AirportSim](https://airportsim.com/)
 * [2023-10-26, 14:32:02](https://news.ycombinator.com/item?id=38026119) - [Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
 * [2023-10-26, 14:26:25](https://news.ycombinator.com/item?id=38026037) - [Microsoft seeks EU Digital Market Acts exemption for underdog apps like Edge](https://www.theregister.com/2023/10/26/microsoft_dma_exemption/)
 * [2023-10-26, 14:23:54](https://news.ycombinator.com/item?id=38025998) - [75 percent of exclusive hardwood may be illegally harvested](https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/)
