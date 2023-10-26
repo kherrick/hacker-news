@@ -24,6 +24,7 @@
 * [2023-10-23, 20:50:15](https://news.ycombinator.com/item?id=37991401) - [Two Kinds of Techno-Optimism](https://garymarcus.substack.com/p/two-kinds-of-techno-optimism)
 * [2023-10-23, 20:46:58](https://news.ycombinator.com/item?id=37991349) - [Tesla discloses DOJ probes over vehicle range, personal benefits and more](https://www.cnbc.com/2023/10/23/tesla-discloses-doj-probes-over-vehicle-range-personal-benefits-more.html)
 * [2023-10-23, 20:42:19](https://news.ycombinator.com/item?id=37991295) - [How does macOS manage virtual cores on Apple Silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
+* [2023-10-23, 20:37:13](https://news.ycombinator.com/item?id=37991229) - [Thomas Stevens in Japan (1886)](https://www.japanbiking.com/tours-2/previous-tours/thomas-stevens-1884/)
 * [2023-10-23, 20:18:46](https://news.ycombinator.com/item?id=37990990) - [Mazda Slaps Developer with Cease-and-Desist for DIY Smart Home Integration](https://www.thedrive.com/news/mazda-slaps-developer-with-cease-and-desist-for-diy-smart-home-integration)
 * [2023-10-23, 20:10:28](https://news.ycombinator.com/item?id=37990885) - [Tell HN: use “then” to talk about time or order, use “than” to make comparisons](https://news.ycombinator.com/item?id=37990885)
 * [2023-10-23, 19:59:33](https://news.ycombinator.com/item?id=37990750) - [New data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
