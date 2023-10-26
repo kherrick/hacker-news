@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 10:06:42](https://news.ycombinator.com/item?id=38023694) - [The First Cyber Nation-State Recognized by a UN Member Nation](https://www.joseon.com/l/en-US/)
 * [2023-10-26, 09:09:21](https://news.ycombinator.com/item?id=38023392) - [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
@@ -21,7 +22,6 @@
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 04:57:08](https://news.ycombinator.com/item?id=38009291) - [Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
-* [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
 * [2023-10-24, 20:24:36](https://news.ycombinator.com/item?id=38004962) - [A Melting Cauldron: The Book of Hallowe'en (1919)](https://publicdomainreview.org/collection/the-book-of-halloween/)
 * [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
