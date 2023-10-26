@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 20:57:27](https://news.ycombinator.com/item?id=38031593) - [Atrocity Propaganda](https://en.wikipedia.org/wiki/Atrocity_propaganda)
 * [2023-10-26, 20:34:35](https://news.ycombinator.com/item?id=38031361) - [Linux Mint Working on Wayland Support](https://blog.linuxmint.com/?p=4591)
 * [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
 * [2023-10-26, 19:56:38](https://news.ycombinator.com/item?id=38030934) - [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
@@ -63,6 +64,7 @@
 * [2023-10-26, 09:45:17](https://news.ycombinator.com/item?id=38023580) - [People who made the original Super Mario Bros shipped Wonder 38 years later](https://www.gamesradar.com/5-people-made-the-original-super-mario-bros-all-of-them-were-still-at-nintendo-to-ship-wonder-38-years-later/)
 * [2023-10-26, 09:36:42](https://news.ycombinator.com/item?id=38023544) - [MetaCLIP – Meta AI Research](https://github.com/facebookresearch/MetaCLIP)
 * [2023-10-26, 09:09:21](https://news.ycombinator.com/item?id=38023392) - [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
+* [2023-10-26, 08:51:46](https://news.ycombinator.com/item?id=38023283) - [Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
 * [2023-10-26, 06:14:39](https://news.ycombinator.com/item?id=38022277) - [ChatGPT cut off date now April 2023](https://chat.openai.com/share/3b088460-86f8-4fa6-afd1-802b7f9a5e9f)
 * [2023-10-26, 05:40:23](https://news.ycombinator.com/item?id=38022031) - [Without a Trace: How to Take Your Phone Off the Grid](https://themarkup.org/levelup/2023/10/25/without-a-trace-how-to-take-your-phone-off-the-grid)
 * [2023-10-26, 05:06:55](https://news.ycombinator.com/item?id=38021811) - [Former Facebook Employees: \"We Were Jawboned. Repeatedly. Routinely.\"](https://knightcolumbia.org/blog/jawboned)
