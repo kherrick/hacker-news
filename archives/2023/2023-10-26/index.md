@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 * [2023-10-26, 13:29:27](https://news.ycombinator.com/item?id=38025243) - [Denmark Aims a Wrecking Ball at 'Non-Western' Neighborhoods](https://www.nytimes.com/2023/10/26/world/europe/denmark-housing.html)
 * [2023-10-26, 13:25:29](https://news.ycombinator.com/item?id=38025200) - [UK government accused of 'vandalism' over abolishing biometrics safeguards](https://therecord.media/uk-government-criticized-over-abolishing-ai-biometric-safeguards)
 * [2023-10-26, 13:23:03](https://news.ycombinator.com/item?id=38025177) - [U.S. GDP grew at a 4.9% annual pace in the third quarter, better than expected](https://www.cnbc.com/2023/10/26/us-gdp-grew-at-a-4point9percent-annual-pace-in-the-third-quarter-better-than-expected.html)
@@ -13,6 +14,7 @@
 * [2023-10-26, 12:53:28](https://news.ycombinator.com/item?id=38024858) - [Lua Criticism Is Unwarranted](https://news.ycombinator.com/item?id=38024858)
 * [2023-10-26, 12:31:58](https://news.ycombinator.com/item?id=38024665) - [Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 * [2023-10-26, 12:21:50](https://news.ycombinator.com/item?id=38024573) - [Apple backs national right-to-repair bill, offering parts, manuals, and tools](https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/)
+* [2023-10-26, 12:08:18](https://news.ycombinator.com/item?id=38024456) - [Verto.sh: A New Hub Connecting Beginners with Open-Source Projects](https://www.verto.sh/)
 * [2023-10-26, 12:01:48](https://news.ycombinator.com/item?id=38024418) - [Hilbert curve: The famous space filling curve drawn with JavaScript](http://jsxgraph.uni-bayreuth.de/wiki/index.php/Hilbert_curve)
 * [2023-10-26, 11:51:35](https://news.ycombinator.com/item?id=38024337) - [Pulpatronics tackles single-use electronics with paper RFID tags](https://www.dezeen.com/2023/10/25/pulpatronics-paper-rfid-tags/)
 * [2023-10-26, 11:49:44](https://news.ycombinator.com/item?id=38024327) - [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
