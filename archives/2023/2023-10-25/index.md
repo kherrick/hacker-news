@@ -100,3 +100,4 @@
 * [2023-10-25, 01:39:40](https://news.ycombinator.com/item?id=38008100) - [Microsoft now demands to know why you won't use Edge when you download Chrome](https://www.techradar.com/computing/browsers/microsoft-now-demands-to-know-why-you-just-wont-use-edge-when-you-inevitably-download-chrome-using-it)
 * [2023-10-25, 01:36:17](https://news.ycombinator.com/item?id=38008079) - [Mean American household is now a millionaire, according to the Federal Reserve](https://finance.yahoo.com/news/standard-american-household-now-millionaire-104639340.html)
 * [2023-10-25, 01:07:56](https://news.ycombinator.com/item?id=38007906) - [Judas Goat](https://en.wikipedia.org/wiki/Judas_goat)
+* [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)

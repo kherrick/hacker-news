@@ -23,13 +23,13 @@
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
 * [2023-10-25, 07:00:38](https://news.ycombinator.com/item?id=38010021) - [An aborted experiment with server Swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
+* [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
 * [2023-10-24, 19:59:21](https://news.ycombinator.com/item?id=38004574) - ['When I tried to play, my hand spasmed and shook': why musicians get the yips](https://www.theguardian.com/music/2023/oct/17/focal-dystonia-my-hand-spasmed-and-shook-why-musicians-get-the-yips)
 * [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
 * [2023-10-24, 05:19:22](https://news.ycombinator.com/item?id=37995062) - [Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
 * [2023-10-23, 20:37:13](https://news.ycombinator.com/item?id=37991229) - [Thomas Stevens in Japan (1886)](https://www.japanbiking.com/tours-2/previous-tours/thomas-stevens-1884/)
-* [2023-10-23, 11:52:40](https://news.ycombinator.com/item?id=37984387) - [Debugging compilers in Clojure](https://jpmonettas.github.io/my-blog/public/compilers-with-flow-storm.html)
 
 ## [Archives](archives/index.md)
 
