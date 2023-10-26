@@ -52,6 +52,7 @@
 * [2023-10-26, 10:36:43](https://news.ycombinator.com/item?id=38023852) - [ASML DUV machines used to produce Huawei Mate 60 Pro chips](https://www.scmp.com/tech/tech-war/article/3239238/advanced-chip-huawei-mate-60-pro-smartphone-produced-asml-duv-machines-sources)
 * [2023-10-26, 10:16:29](https://news.ycombinator.com/item?id=38023735) - [A Slower Urgency](https://www.bayoakomolafe.net/post/a-slower-urgency)
 * [2023-10-26, 10:06:42](https://news.ycombinator.com/item?id=38023694) - [The First Cyber Nation-State Recognized by a UN Member Nation](https://www.joseon.com/l/en-US/)
+* [2023-10-26, 09:45:17](https://news.ycombinator.com/item?id=38023580) - [People who made the original Super Mario Bros shipped Wonder 38 years later](https://www.nintendo.com.au/news-and-articles/ask-the-developer-vol-11-super-mario-bros-wonder-chapter-1)
 * [2023-10-26, 09:45:17](https://news.ycombinator.com/item?id=38023580) - [People who made the original Super Mario Bros shipped Wonder 38 years later](https://www.gamesradar.com/5-people-made-the-original-super-mario-bros-all-of-them-were-still-at-nintendo-to-ship-wonder-38-years-later/)
 * [2023-10-26, 09:36:42](https://news.ycombinator.com/item?id=38023544) - [MetaCLIP – Meta AI Research](https://github.com/facebookresearch/MetaCLIP)
 * [2023-10-26, 09:09:21](https://news.ycombinator.com/item?id=38023392) - [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
