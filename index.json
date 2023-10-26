@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38020308"
     ],
     [
-      "Chaucer's Works Go Online",
+      "Chaucer's works go online",
       "https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38020109"
     ],
     [
-      "Jina AI Launches First Open-Source 8K Text Embedding, Rivaling OpenAI",
+      "Jina AI launches open-source 8k text embedding",
       "https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/"
     ]
   ],
@@ -87,6 +87,16 @@
     [
       "Safety benefits of roundabouts",
       "https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 19:10:08",
+      "https://news.ycombinator.com/item?id=38016930"
+    ],
+    [
+      "The Case of a Curious SQL Query",
+      "https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Internet Artifact Museum",
       "https://neal.fun/internet-artifacts/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 13:07:49",
-      "https://news.ycombinator.com/item?id=38012380"
-    ],
-    [
-      "The human body has 1.8T cells dedicated to defending it",
-      "https://english.elpais.com/science-tech/2023-10-25/the-human-body-has-18-trillion-cells-dedicated-to-defending-it.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37984387"
     ],
     [
-      "Debugging Compilers in Clojure",
+      "Debugging compilers in Clojure",
       "https://jpmonettas.github.io/my-blog/public/compilers-with-flow-storm.html"
     ]
   ]
