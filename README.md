@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-26, 05:06:55](https://news.ycombinator.com/item?id=38021811) - [Former Facebook Employees: \"We Were Jawboned. Repeatedly. Routinely.\"](https://knightcolumbia.org/blog/jawboned)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
 * [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
@@ -26,6 +25,7 @@
 * [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
 * [2023-10-24, 20:24:36](https://news.ycombinator.com/item?id=38004962) - [A Melting Cauldron: The Book of Hallowe'en (1919)](https://publicdomainreview.org/collection/the-book-of-halloween/)
+* [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
 * [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
