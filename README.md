@@ -24,11 +24,11 @@
 * [2023-10-25, 00:28:29](https://news.ycombinator.com/item?id=38007648) - [The First American Murder](http://strangeco.blogspot.com/2023/10/the-first-american-murder.html)
 * [2023-10-24, 23:01:28](https://news.ycombinator.com/item?id=38006879) - [Drought in Brazil's Amazon reveals ancient engravings](https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html)
 * [2023-10-24, 20:24:36](https://news.ycombinator.com/item?id=38004962) - [A Melting Cauldron: The Book of Hallowe'en (1919)](https://publicdomainreview.org/collection/the-book-of-halloween/)
-* [2023-10-24, 17:55:33](https://news.ycombinator.com/item?id=38002752) - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 * [2023-10-24, 15:32:12](https://news.ycombinator.com/item?id=38000573) - [Simulating History with Multimodal AI: An Update](https://resobscura.substack.com/p/simulating-history-with-multimodal)
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung announces 'Shinebolt' HBM3E memory](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
 * [2023-10-24, 11:47:05](https://news.ycombinator.com/item?id=37997744) - [Mirror-Image Life](https://nautil.us/mirror-image-life-412729/)
 * [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
+* [2023-10-24, 10:18:53](https://news.ycombinator.com/item?id=37996958) - [Megatsunamis: Waves over 500M high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
 * [2023-10-24, 05:19:22](https://news.ycombinator.com/item?id=37995062) - [Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
 
 ## [Archives](archives/index.md)

@@ -94,6 +94,7 @@
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
 * [2023-10-24, 10:23:00](https://news.ycombinator.com/item?id=37996988) - [The HP Printer USB Sticker Trick Also Works for Thermaltake PSUs](https://full.pr0gramm.com/2023/10/24/fa4df047de2f8c6f.jpg)
+* [2023-10-24, 10:18:53](https://news.ycombinator.com/item?id=37996958) - [Megatsunamis: Waves over 500M high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
 * [2023-10-24, 10:16:24](https://news.ycombinator.com/item?id=37996942) - [Mystery car spotted in old London photo](https://www.thesun.co.uk/motors/24490985/mystery-motor-london-unidentified-riddle-car-60s/)
 * [2023-10-24, 10:12:22](https://news.ycombinator.com/item?id=37996918) - [Show HN: Paclear – A Fun Twist on the 'Clear' Command with Pac-Man Animation](https://github.com/orangekame3/paclear)
 * [2023-10-24, 10:08:03](https://news.ycombinator.com/item?id=37996891) - [Automattic is acquiring Texts and betting big on the future of messaging](https://www.theverge.com/2023/10/24/23928685/automattic-texts-acquisition-universal-messaging)
