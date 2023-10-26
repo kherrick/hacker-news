@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
 * [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
+* [2023-10-26, 01:30:55](https://news.ycombinator.com/item?id=38020640) - [California Slams San Francisco for 'Egregious' Barriers to Housing Construction](https://www.nytimes.com/2023/10/25/us/san-francisco-housing.html)
 * [2023-10-26, 00:48:20](https://news.ycombinator.com/item?id=38020308) - [Chaucer's works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
 * [2023-10-26, 00:24:41](https://news.ycombinator.com/item?id=38020109) - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 * [2023-10-25, 22:37:06](https://news.ycombinator.com/item?id=38019231) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
