@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-26, 20:34:35",
-      "https://news.ycombinator.com/item?id=38031361"
-    ],
-    [
-      "Linux Mint Working on Wayland Support",
-      "https://blog.linuxmint.com/?p=4591"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 20:24:31",
       "https://news.ycombinator.com/item?id=38031260"
     ],
@@ -41,21 +31,11 @@
   ],
   [
     [
-      "2023-10-26, 19:32:32",
-      "https://news.ycombinator.com/item?id=38030642"
-    ],
-    [
-      "Tell HN: 0.61 USD per week for daily sprouts of grains and pulses",
-      "https://news.ycombinator.com/item?id=38030642"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 18:47:42",
       "https://news.ycombinator.com/item?id=38030050"
     ],
     [
-      "War Thunder game engine released under BSD license",
+      "Dagor Engine and Tools source code from Gaijin Games KFT",
       "https://github.com/GaijinEntertainment/DagorEngine"
     ]
   ],
@@ -81,12 +61,32 @@
   ],
   [
     [
-      "2023-10-26, 17:58:05",
-      "https://news.ycombinator.com/item?id=38029307"
+      "2023-10-26, 18:08:45",
+      "https://news.ycombinator.com/item?id=38029479"
     ],
     [
-      "OpenAI Preparedness Challenge",
-      "https://openai.com/form/preparedness-challenge"
+      "Cities Skylines 2 runs with 20fps on an Nvidia RTX4090",
+      "https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 16:34:48",
+      "https://news.ycombinator.com/item?id=38028037"
+    ],
+    [
+      "Appending to an std:string character-by-character: how does the capacity grow?",
+      "https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 16:07:24",
+      "https://news.ycombinator.com/item?id=38027587"
+    ],
+    [
+      "How bioelectricity could regrow limbs and organs",
+      "https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Could a near-Earth asteroid be a piece of the moon?",
       "https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 15:19:52",
-      "https://news.ycombinator.com/item?id=38026756"
-    ],
-    [
-      "Hysteria: a powerful, fast and censorship resistant proxy",
-      "https://github.com/apernet/hysteria"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=38026119"
     ],
     [
-      "Kidney stone breakthrough procedure?",
+      "Kidney stone procedure \"has the potential to be game changing\"",
       "https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center"
     ]
   ],
@@ -171,12 +161,22 @@
   ],
   [
     [
-      "2023-10-26, 13:18:51",
-      "https://news.ycombinator.com/item?id=38025125"
+      "2023-10-26, 13:14:48",
+      "https://news.ycombinator.com/item?id=38025086"
     ],
     [
-      "Synth Emulation in MAME",
-      "https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1416192-synth-emulation-mame-arcade-machine-emulator-new-trend.html"
+      "Sodium batteries offer an alternative to tricky lithium",
+      "https://www.economist.com/leaders/2023/10/26/sodium-batteries-offer-an-alternative-to-tricky-lithium"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 12:57:25",
+      "https://news.ycombinator.com/item?id=38024899"
+    ],
+    [
+      "Mars has a layer of molten rock inside",
+      "https://www.nature.com/articles/d41586-023-03271-4"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "The Cloud Computer",
       "https://oxide.computer/blog/the-cloud-computer"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 10:40:31",
+      "https://news.ycombinator.com/item?id=38023874"
+    ],
+    [
+      "Google's plan to stop Apple from getting serious about search",
+      "https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38013003"
     ],
     [
-      "Slight Counterfactuals: Dick Whittington Has Children",
+      "Very Slight Counterfactuals: Dick Whittington Has Children",
       "https://www.thechatner.com/p/very-slight-counterfactuals-dick"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Thurston Moore Revisits His Sonic Youth",
       "https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 20:52:11",
-      "https://news.ycombinator.com/item?id=38005379"
-    ],
-    [
-      "Toxicological analyses reveal the use of cannabis in Milan in the 1600's",
-      "https://www.sciencedirect.com/science/article/pii/S030544032300153X"
     ]
   ]
 ]
