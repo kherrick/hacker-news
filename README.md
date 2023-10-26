@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 22:03:07](https://news.ycombinator.com/item?id=38032288) - [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
 * [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
 * [2023-10-26, 21:44:52](https://news.ycombinator.com/item?id=38032092) - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
@@ -29,7 +30,6 @@
 * [2023-10-25, 18:04:45](https://news.ycombinator.com/item?id=38016028) - [Porting Linux Pledge to Go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
 * [2023-10-25, 14:46:45](https://news.ycombinator.com/item?id=38013399) - [How Expression Pedals Work](http://expressionpedals.com/how-expression-pedals-work)
 * [2023-10-25, 13:21:00](https://news.ycombinator.com/item?id=38012494) - [William Blake's Printing Process](https://www.youtube.com/watch?v=TGiVMj5Vm2g)
-* [2023-10-25, 00:14:02](https://news.ycombinator.com/item?id=38007547) - [Thurston Moore Revisits His Sonic Youth](https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html)
 
 ## [Archives](archives/index.md)
 
