@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-26, 13:29:27",
-      "https://news.ycombinator.com/item?id=38025243"
+      "2023-10-26, 13:41:16",
+      "https://news.ycombinator.com/item?id=38025381"
     ],
     [
-      "Denmark Aims a Wrecking Ball at 'Non-Western' Neighborhoods",
-      "https://www.nytimes.com/2023/10/26/world/europe/denmark-housing.html"
+      "What happens when you vectorize wide PyTorch expressions?",
+      "https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Apple backs national right-to-repair bill, offering parts, manuals, and tools",
       "https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 12:08:18",
+      "https://news.ycombinator.com/item?id=38024456"
+    ],
+    [
+      "Verto.sh: A New Hub Connecting Beginners with Open-Source Projects",
+      "https://www.verto.sh/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-10-25, 12:24:19",
-      "https://news.ycombinator.com/item?id=38012032"
-    ],
-    [
-      "Show HN: OpenAPI DevTools – Chrome extension that generates an API spec",
-      "https://github.com/AndrewWalsh/openapi-devtools"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 09:37:24",
-      "https://news.ycombinator.com/item?id=38010992"
-    ],
-    [
-      "Ask HN: PG's 'Do Things That Don't Scale' manual examples?",
-      "https://news.ycombinator.com/item?id=38010992"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 04:57:08",
       "https://news.ycombinator.com/item?id=38009291"
     ],
@@ -287,6 +277,16 @@
     [
       "Ilograph Architecture Center",
       "https://www.ilograph.com/architecture-center/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 07:18:34",
+      "https://news.ycombinator.com/item?id=37995721"
+    ],
+    [
+      "The Academic Great Gatsby Curve",
+      "https://arxiv.org/abs/2310.08968"
     ]
   ],
   [
