@@ -8,6 +8,7 @@
 * [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
 * [2023-10-26, 19:56:38](https://news.ycombinator.com/item?id=38030934) - [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
 * [2023-10-26, 19:37:07](https://news.ycombinator.com/item?id=38030705) - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
+* [2023-10-26, 19:32:32](https://news.ycombinator.com/item?id=38030642) - [Tell HN: 0.61 USD per week for daily sprouts of grains and pulses](https://news.ycombinator.com/item?id=38030642)
 * [2023-10-26, 18:47:42](https://news.ycombinator.com/item?id=38030050) - [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
 * [2023-10-26, 18:37:24](https://news.ycombinator.com/item?id=38029893) - [Roombas at the End of the World](https://spectrum.ieee.org/south-pole-roombas)
 * [2023-10-26, 18:21:42](https://news.ycombinator.com/item?id=38029671) - [Making PostgreSQL tick: New features in pg_cron](https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/)
