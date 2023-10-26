@@ -88,6 +88,7 @@
 * [2023-10-24, 12:06:16](https://news.ycombinator.com/item?id=37997940) - [Samsung Announces 'Shinebolt' HBM3E Memory: HBM Hits 36GB Stacks at 9.8 Gbps](https://www.anandtech.com/show/21104/samsung-announces-shinebolt-hbm3e-memory-hbm-hits-36gb-stacks-at-98-gbps)
 * [2023-10-24, 11:44:06](https://news.ycombinator.com/item?id=37997705) - [Star Citizen's Squadron 42 campaign is \"feature complete\" after 11 years](https://arstechnica.com/gaming/2023/10/star-citizens-squadron-42-campaign-is-feature-complete-after-11-years/)
 * [2023-10-24, 11:18:46](https://news.ycombinator.com/item?id=37997423) - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/)
+* [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
 * [2023-10-24, 10:58:16](https://news.ycombinator.com/item?id=37997246) - [I Face Investigation for Terrorism](https://www.craigmurray.org.uk/archives/2023/10/incredibly-i-face-investigation-for-terrorism-defence-funds-appeal/)
 * [2023-10-24, 10:24:21](https://news.ycombinator.com/item?id=37996999) - [Elephants Are Total Scaredy-Cats Around Bees](https://nautil.us/elephants-are-total-scaredy-cats-around-bees-423763/)
 * [2023-10-24, 10:23:08](https://news.ycombinator.com/item?id=37996991) - [The \"Just One More\" Paradox – Kelly Criterion [video]](https://www.youtube.com/watch?v=_FuuYSM7yOo)
