@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
+* [2023-10-26, 10:40:31](https://news.ycombinator.com/item?id=38023874) - [Google's Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
 * [2023-10-26, 10:06:42](https://news.ycombinator.com/item?id=38023694) - [The First Cyber Nation-State Recognized by a UN Member Nation](https://www.joseon.com/l/en-US/)
 * [2023-10-26, 09:09:21](https://news.ycombinator.com/item?id=38023392) - [Dear Google Cloud: Your Deprecation Policy Is Killing You](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
@@ -9,7 +11,6 @@
 * [2023-10-26, 00:24:41](https://news.ycombinator.com/item?id=38020109) - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 * [2023-10-25, 21:58:02](https://news.ycombinator.com/item?id=38018917) - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
-* [2023-10-25, 19:28:45](https://news.ycombinator.com/item?id=38017146) - [AI 'breakthrough': neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
 * [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [Safety benefits of roundabouts](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 * [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-25, 19:01:54](https://news.ycombinator.com/item?id=38016849) - [I think GCP is better than AWS (2020)](https://nandovillalba.medium.com/why-i-think-gcp-is-better-than-aws-ea78f9975bda)
@@ -17,7 +18,6 @@
 * [2023-10-25, 17:08:58](https://news.ycombinator.com/item?id=38015169) - [Adding crushed rock to farmland pulls carbon out of the air](https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air)
 * [2023-10-25, 17:01:12](https://news.ycombinator.com/item?id=38015038) - [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
 * [2023-10-25, 16:46:59](https://news.ycombinator.com/item?id=38014835) - [ReactAgent: LLM Agent for React Coding](https://reactagent.io/)
-* [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
 * [2023-10-25, 14:40:06](https://news.ycombinator.com/item?id=38013299) - [Heslington Brain](https://en.wikipedia.org/wiki/Heslington_Brain)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
