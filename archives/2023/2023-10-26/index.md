@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 16:45:48](https://news.ycombinator.com/item?id=38028214) - [X Won't Demonetize Russell Brand, the Company Tells Pro-Censorship British MPs](https://reclaimthenet.org/x-wont-demonetize-russell-brand)
 * [2023-10-26, 16:44:47](https://news.ycombinator.com/item?id=38028196) - [Pro-Palestinian Instagram account locked by Meta for 'security reasons'](https://www.theguardian.com/technology/2023/oct/26/pro-palestinian-instagram-account-locked-by-meta-for-security-reasons)
 * [2023-10-26, 16:20:10](https://news.ycombinator.com/item?id=38027791) - [Show HN: I am curating the best websites on the internet](https://www.internetisbeautiful.com)
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
