@@ -11,6 +11,7 @@
 * [2023-10-26, 00:24:41](https://news.ycombinator.com/item?id=38020109) - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 * [2023-10-25, 21:58:02](https://news.ycombinator.com/item?id=38018917) - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
 * [2023-10-25, 20:22:42](https://news.ycombinator.com/item?id=38017831) - [Keyboard Maestro 11](https://www.stairways.com/press/2023-10-24)
+* [2023-10-25, 19:28:45](https://news.ycombinator.com/item?id=38017146) - [AI 'breakthrough': neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3)
 * [2023-10-25, 19:20:59](https://news.ycombinator.com/item?id=38017049) - [Safety benefits of roundabouts](https://theconversation.com/what-are-roundabouts-a-transportation-engineer-explains-the-safety-benefits-of-these-circular-intersections-215412)
 * [2023-10-25, 19:10:08](https://news.ycombinator.com/item?id=38016930) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-25, 19:01:54](https://news.ycombinator.com/item?id=38016849) - [I think GCP is better than AWS (2020)](https://nandovillalba.medium.com/why-i-think-gcp-is-better-than-aws-ea78f9975bda)
@@ -29,7 +30,6 @@
 * [2023-10-24, 11:47:05](https://news.ycombinator.com/item?id=37997744) - [Mirror-Image Life](https://nautil.us/mirror-image-life-412729/)
 * [2023-10-24, 11:02:35](https://news.ycombinator.com/item?id=37997282) - [Ilograph Architecture Center](https://www.ilograph.com/architecture-center/index.html)
 * [2023-10-24, 10:18:53](https://news.ycombinator.com/item?id=37996958) - [Megatsunamis: Waves over 500M high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
-* [2023-10-24, 05:19:22](https://news.ycombinator.com/item?id=37995062) - [Making TV Useful For My 94-yr-old Aunt](https://www.techenhancedlife.com/articles/making-tv-useful-my-94-yr-old-aunt)
 
 ## [Archives](archives/index.md)
 
