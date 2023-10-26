@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
 * [2023-10-26, 20:57:27](https://news.ycombinator.com/item?id=38031593) - [Atrocity Propaganda](https://en.wikipedia.org/wiki/Atrocity_propaganda)
+* [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 * [2023-10-26, 20:34:35](https://news.ycombinator.com/item?id=38031361) - [Linux Mint Working on Wayland Support](https://blog.linuxmint.com/?p=4591)
 * [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
 * [2023-10-26, 19:56:38](https://news.ycombinator.com/item?id=38030934) - [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)

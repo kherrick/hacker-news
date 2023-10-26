@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 * [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [The Magical Japanese Art of Luggage Forwarding](https://craigmod.com/ridgeline/170/)
 * [2023-10-26, 19:37:07](https://news.ycombinator.com/item?id=38030705) - [Bird with GPS flies into typhoon](https://newatlas.com/biology/bird-typhoon-ride/)
@@ -23,7 +24,6 @@
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:40:31](https://news.ycombinator.com/item?id=38023874) - [Google's plan to stop Apple from getting serious about search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
 * [2023-10-26, 10:16:29](https://news.ycombinator.com/item?id=38023735) - [A Slower Urgency](https://www.bayoakomolafe.net/post/a-slower-urgency)
-* [2023-10-26, 09:45:17](https://news.ycombinator.com/item?id=38023580) - [People who made the original Super Mario Bros shipped Wonder 38 years later](https://www.nintendo.com.au/news-and-articles/ask-the-developer-vol-11-super-mario-bros-wonder-chapter-1)
 * [2023-10-26, 09:36:42](https://news.ycombinator.com/item?id=38023544) - [MetaCLIP – Meta AI Research](https://github.com/facebookresearch/MetaCLIP)
 * [2023-10-26, 08:51:46](https://news.ycombinator.com/item?id=38023283) - [Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
 * [2023-10-25, 18:04:45](https://news.ycombinator.com/item?id=38016028) - [Porting Linux Pledge to Go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
