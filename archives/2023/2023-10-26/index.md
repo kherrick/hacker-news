@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 15:23:55](https://news.ycombinator.com/item?id=38026817) - [Gen Z wants less sex in TV and movies](https://www.npr.org/2023/10/25/1208435267/sex-teens-tv-movies)
+* [2023-10-26, 15:12:07](https://news.ycombinator.com/item?id=38026637) - [Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
 * [2023-10-26, 14:32:02](https://news.ycombinator.com/item?id=38026119) - [Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
 * [2023-10-26, 14:26:25](https://news.ycombinator.com/item?id=38026037) - [Microsoft seeks EU Digital Market Acts exemption for underdog apps like Edge](https://www.theregister.com/2023/10/26/microsoft_dma_exemption/)
+* [2023-10-26, 14:23:54](https://news.ycombinator.com/item?id=38025998) - [75 percent of exclusive hardwood may be illegally harvested](https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/)
 * [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 * [2023-10-26, 13:29:27](https://news.ycombinator.com/item?id=38025243) - [Denmark Aims a Wrecking Ball at 'Non-Western' Neighborhoods](https://www.nytimes.com/2023/10/26/world/europe/denmark-housing.html)
