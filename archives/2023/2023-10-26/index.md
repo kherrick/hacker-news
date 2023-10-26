@@ -6,6 +6,7 @@
 
 * [2023-10-26, 06:14:39](https://news.ycombinator.com/item?id=38022277) - [ChatGPT cut off date now April 2023](https://chat.openai.com/share/3b088460-86f8-4fa6-afd1-802b7f9a5e9f)
 * [2023-10-26, 05:40:23](https://news.ycombinator.com/item?id=38022031) - [Without a Trace: How to Take Your Phone Off the Grid](https://themarkup.org/levelup/2023/10/25/without-a-trace-how-to-take-your-phone-off-the-grid)
+* [2023-10-26, 05:06:55](https://news.ycombinator.com/item?id=38021811) - [Former Facebook Employees: \"We Were Jawboned. Repeatedly. Routinely.\"](https://knightcolumbia.org/blog/jawboned)
 * [2023-10-26, 05:06:04](https://news.ycombinator.com/item?id=38021802) - [Someone is trying to rebuild Friendster](https://friendster.com)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
