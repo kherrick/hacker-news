@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-26, 18:08:45](https://news.ycombinator.com/item?id=38029479) - [Cities Skylines 2 runs with 20fps on an Nvidia RTX4090](https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/)
-* [2023-10-26, 17:34:33](https://news.ycombinator.com/item?id=38028927) - [Tesla Model X Owner Has Had Enough of Minimalism, Adds Physical Buttons](https://insideevs.com/news/693231/tesla-model-x-owner-has-had-enough-minimalism-adds-physical-buttons/)
 * [2023-10-26, 17:02:09](https://news.ycombinator.com/item?id=38028480) - [Next.js 14](https://nextjs.org/blog/next-14)
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Near-Earth Asteroid Is a Chunk of the Moon](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 * [2023-10-26, 15:55:28](https://news.ycombinator.com/item?id=38027346) - [EU parliament wants to remove chat control and safeguard secure encryption](https://www.patrick-breyer.de/en/historic-agreement-on-child-sexual-abuse-proposal-csar-european-parliament-wants-to-remove-chat-control-and-safeguard-secure-encryption/)
@@ -22,6 +21,7 @@
 * [2023-10-26, 12:01:48](https://news.ycombinator.com/item?id=38024418) - [Hilbert curve: The famous space filling curve drawn with JavaScript](http://jsxgraph.uni-bayreuth.de/wiki/index.php/Hilbert_curve)
 * [2023-10-26, 11:03:20](https://news.ycombinator.com/item?id=38024002) - [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
+* [2023-10-26, 10:16:29](https://news.ycombinator.com/item?id=38023735) - [A Slower Urgency](https://www.bayoakomolafe.net/post/a-slower-urgency)
 * [2023-10-26, 09:45:17](https://news.ycombinator.com/item?id=38023580) - [People who made the original Super Mario Bros shipped Wonder 38 years later](https://www.gamesradar.com/5-people-made-the-original-super-mario-bros-all-of-them-were-still-at-nintendo-to-ship-wonder-38-years-later/)
 * [2023-10-26, 09:36:42](https://news.ycombinator.com/item?id=38023544) - [MetaCLIP – Meta AI Research](https://github.com/facebookresearch/MetaCLIP)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
