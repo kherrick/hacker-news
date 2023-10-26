@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 05:06:04](https://news.ycombinator.com/item?id=38021802) - [Someone is trying to rebuild Friendster](https://friendster.com)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
 * [2023-10-26, 01:30:55](https://news.ycombinator.com/item?id=38020640) - [California Slams San Francisco for 'Egregious' Barriers to Housing Construction](https://www.nytimes.com/2023/10/25/us/san-francisco-housing.html)

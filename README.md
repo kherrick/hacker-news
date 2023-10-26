@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-26, 05:06:04](https://news.ycombinator.com/item?id=38021802) - [Someone is trying to rebuild Friendster](https://friendster.com)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
 * [2023-10-26, 00:48:20](https://news.ycombinator.com/item?id=38020308) - [Chaucer's works go online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
@@ -18,7 +19,6 @@
 * [2023-10-25, 17:01:12](https://news.ycombinator.com/item?id=38015038) - [Unpacking Elixir: Observability](https://underjord.io/unpacking-elixir-observability.html)
 * [2023-10-25, 16:46:59](https://news.ycombinator.com/item?id=38014835) - [ReactAgent: LLM Agent for React Coding](https://reactagent.io/)
 * [2023-10-25, 15:39:17](https://news.ycombinator.com/item?id=38013955) - [SpaceX Starship Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
-* [2023-10-25, 15:13:47](https://news.ycombinator.com/item?id=38013668) - [What Transport for London can learn about us from our mobile data](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
 * [2023-10-25, 14:54:33](https://news.ycombinator.com/item?id=38013477) - [Internet Artifact Museum](https://neal.fun/internet-artifacts/)
 * [2023-10-25, 12:24:19](https://news.ycombinator.com/item?id=38012032) - [Show HN: OpenAPI DevTools – Chrome extension that generates an API spec](https://github.com/AndrewWalsh/openapi-devtools)
 * [2023-10-25, 09:37:24](https://news.ycombinator.com/item?id=38010992) - [Ask HN: PG's 'Do Things That Don't Scale' manual examples?](https://news.ycombinator.com/item?id=38010992)
