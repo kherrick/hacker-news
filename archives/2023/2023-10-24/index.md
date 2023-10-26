@@ -17,6 +17,7 @@
 * [2023-10-24, 21:54:16](https://news.ycombinator.com/item?id=38006204) - [Show HN: RustPython for FreeDOS with W2c2](https://github.com/coolcoder613eb/RustPython)
 * [2023-10-24, 21:24:18](https://news.ycombinator.com/item?id=38005846) - [Time to short Japan's 'bad governance' stocks, hedge fund says](https://www.japantimes.co.jp/business/2023/10/16/markets/japan-stock-corporate-governance/)
 * [2023-10-24, 20:57:38](https://news.ycombinator.com/item?id=38005461) - [Prototype poisoning (2019)](https://fastify.dev/docs/latest/Guides/Prototype-Poisoning/)
+* [2023-10-24, 20:52:11](https://news.ycombinator.com/item?id=38005379) - [Toxicological analyses reveal the use of cannabis in Milan (Italy) in the 1600's](https://www.sciencedirect.com/science/article/pii/S030544032300153X)
 * [2023-10-24, 20:47:24](https://news.ycombinator.com/item?id=38005311) - [Ask HN: What's the point of automated skill assessment tests in the age of AI?](https://news.ycombinator.com/item?id=38005311)
 * [2023-10-24, 20:41:05](https://news.ycombinator.com/item?id=38005228) - [States sue Meta claiming its platforms are addictive and harm kids mental health](https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28)
 * [2023-10-24, 20:39:20](https://news.ycombinator.com/item?id=38005201) - [The Silent and Relentless Erosion of Corporate Soul](https://robertgreiner.com/the-race-to-the-bottom/)
