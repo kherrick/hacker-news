@@ -86,6 +86,7 @@
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [Object-oriented programming for kids [video]](https://www.youtube.com/watch?v=X3cFiJnxUBY)
 * [2023-10-25, 05:13:48](https://news.ycombinator.com/item?id=38009377) - [Kodable – Intro to programming for kids [video]](https://www.youtube.com/playlist?list=PL8HZ0pojM34Xkz7Yh7JxoSRytoa8FR7gV)
 * [2023-10-25, 05:13:11](https://news.ycombinator.com/item?id=38009372) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
+* [2023-10-25, 04:57:08](https://news.ycombinator.com/item?id=38009291) - [Oh-Auth – Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
 * [2023-10-25, 04:42:41](https://news.ycombinator.com/item?id=38009202) - [Consistency Models (2018)](https://jepsen.io/consistency)
 * [2023-10-25, 04:36:12](https://news.ycombinator.com/item?id=38009175) - [Sunflower (Mathematics)](https://en.wikipedia.org/wiki/Sunflower_(mathematics))
 * [2023-10-25, 04:36:05](https://news.ycombinator.com/item?id=38009174) - [Finding Meaning in the Nature of Order](https://stefanlesser.substack.com/p/finding-meaning-in-the-nature-of)
