@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 20:34:35](https://news.ycombinator.com/item?id=38031361) - [Linux Mint Working on Wayland Support](https://blog.linuxmint.com/?p=4591)
+* [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
 * [2023-10-26, 19:56:38](https://news.ycombinator.com/item?id=38030934) - [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
 * [2023-10-26, 19:37:07](https://news.ycombinator.com/item?id=38030705) - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
 * [2023-10-26, 18:47:42](https://news.ycombinator.com/item?id=38030050) - [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
+* [2023-10-26, 18:37:24](https://news.ycombinator.com/item?id=38029893) - [Roombas at the End of the World](https://spectrum.ieee.org/south-pole-roombas)
 * [2023-10-26, 18:20:08](https://news.ycombinator.com/item?id=38029654) - [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
 * [2023-10-26, 18:08:45](https://news.ycombinator.com/item?id=38029479) - [Cities Skylines 2 runs with 20fps on an Nvidia RTX4090](https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/)
 * [2023-10-26, 17:58:05](https://news.ycombinator.com/item?id=38029307) - [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
