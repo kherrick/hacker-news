@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 19:56:38](https://news.ycombinator.com/item?id=38030934) - [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
 * [2023-10-26, 19:37:07](https://news.ycombinator.com/item?id=38030705) - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
 * [2023-10-26, 18:47:42](https://news.ycombinator.com/item?id=38030050) - [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
 * [2023-10-26, 18:20:08](https://news.ycombinator.com/item?id=38029654) - [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
