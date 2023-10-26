@@ -28,7 +28,7 @@
 * [2023-10-24, 19:59:21](https://news.ycombinator.com/item?id=38004574) - ['When I tried to play, my hand spasmed and shook': why musicians get the yips](https://www.theguardian.com/music/2023/oct/17/focal-dystonia-my-hand-spasmed-and-shook-why-musicians-get-the-yips)
 * [2023-10-24, 05:13:34](https://news.ycombinator.com/item?id=37995034) - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 * [2023-10-23, 20:37:13](https://news.ycombinator.com/item?id=37991229) - [Thomas Stevens in Japan (1886)](https://www.japanbiking.com/tours-2/previous-tours/thomas-stevens-1884/)
-* [2023-10-23, 19:14:10](https://news.ycombinator.com/item?id=37990238) - [Thokcha (Meteorite Amulets)](https://en.wikipedia.org/wiki/Thokcha)
+* [2023-10-23, 17:11:06](https://news.ycombinator.com/item?id=37988575) - [The First of a New Genus: Joseph Johnson in 18th century London](https://drb.ie/articles/the-first-of-a-new-genus/)
 * [2023-10-23, 11:52:40](https://news.ycombinator.com/item?id=37984387) - [Debugging Compilers in Clojure](https://jpmonettas.github.io/my-blog/public/compilers-with-flow-storm.html)
 
 ## [Archives](archives/index.md)

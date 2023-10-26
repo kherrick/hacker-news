@@ -54,6 +54,7 @@
 * [2023-10-23, 17:48:19](https://news.ycombinator.com/item?id=37989098) - [Melting in W. Antarctica 'unavoidable,' potentially disastrous sea level rise](https://www.cnn.com/2023/10/23/world/west-antarctic-ice-melt-climate/index.html)
 * [2023-10-23, 17:15:09](https://news.ycombinator.com/item?id=37988638) - [Personal aviation is about to get interesting](https://www.elidourado.com/p/personal-aviation)
 * [2023-10-23, 17:11:33](https://news.ycombinator.com/item?id=37988585) - [Casidoo on TinaCMS](https://blog.cassidoo.co/post/trying-tinacms/)
+* [2023-10-23, 17:11:06](https://news.ycombinator.com/item?id=37988575) - [The First of a New Genus: Joseph Johnson in 18th century London](https://drb.ie/articles/the-first-of-a-new-genus/)
 * [2023-10-23, 17:09:48](https://news.ycombinator.com/item?id=37988560) - [Unavoidable future increase in West Antarctic ice-shelf melting over 21 century](https://www.nature.com/articles/s41558-023-01818-x)
 * [2023-10-23, 17:05:23](https://news.ycombinator.com/item?id=37988483) - [Cleveland Launches Ambitious Plan to Provide Citywide Dirt Cheap Broadband](https://www.techdirt.com/2023/10/23/tired-of-being-ripped-off-by-monopolies-cleveland-launches-ambitious-plan-to-provide-citywide-dirt-cheap-broadband/)
 * [2023-10-23, 17:03:04](https://news.ycombinator.com/item?id=37988451) - [It's Time to Tax Billionaires](https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report)
