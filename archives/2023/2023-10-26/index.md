@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 15:40:34](https://news.ycombinator.com/item?id=38027086) - [Ousted eLife editor on being fired in wake of Israel-Hamas remarks](https://www.nature.com/articles/d41586-023-03330-w)
+* [2023-10-26, 15:27:28](https://news.ycombinator.com/item?id=38026854) - [LA County's guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
 * [2023-10-26, 15:23:55](https://news.ycombinator.com/item?id=38026817) - [Gen Z wants less sex in TV and movies](https://www.npr.org/2023/10/25/1208435267/sex-teens-tv-movies)
+* [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 15:12:07](https://news.ycombinator.com/item?id=38026637) - [Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
 * [2023-10-26, 14:32:02](https://news.ycombinator.com/item?id=38026119) - [Kidney stone breakthrough procedure at UW called 'game changer' for patients](https://komonews.com/news/local/uw-medicine-kidney-stone-breakthrough-procedure-treatment-nasa-mars-astronaut-research-patients-game-changer-seattle-clinical-trial-harborview-medical-center)
 * [2023-10-26, 14:26:25](https://news.ycombinator.com/item?id=38026037) - [Microsoft seeks EU Digital Market Acts exemption for underdog apps like Edge](https://www.theregister.com/2023/10/26/microsoft_dma_exemption/)
