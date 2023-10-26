@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 12:21:50](https://news.ycombinator.com/item?id=38024573) - [Apple backs national right-to-repair bill, offering parts, manuals, and tools](https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/)
+* [2023-10-26, 11:51:35](https://news.ycombinator.com/item?id=38024337) - [Pulpatronics tackles single-use electronics with paper RFID tags](https://www.dezeen.com/2023/10/25/pulpatronics-paper-rfid-tags/)
+* [2023-10-26, 11:49:44](https://news.ycombinator.com/item?id=38024327) - [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
 * [2023-10-26, 11:11:46](https://news.ycombinator.com/item?id=38024056) - [Reality Labs has lost $11.4B during 2023 (there's still one quarter left)](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
 * [2023-10-26, 11:03:20](https://news.ycombinator.com/item?id=38024002) - [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
