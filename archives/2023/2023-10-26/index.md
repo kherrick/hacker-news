@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 * [2023-10-26, 13:29:27](https://news.ycombinator.com/item?id=38025243) - [Denmark Aims a Wrecking Ball at 'Non-Western' Neighborhoods](https://www.nytimes.com/2023/10/26/world/europe/denmark-housing.html)
 * [2023-10-26, 13:25:29](https://news.ycombinator.com/item?id=38025200) - [UK government accused of 'vandalism' over abolishing biometrics safeguards](https://therecord.media/uk-government-criticized-over-abolishing-ai-biometric-safeguards)
