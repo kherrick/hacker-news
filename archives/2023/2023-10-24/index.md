@@ -27,6 +27,7 @@
 * [2023-10-24, 20:07:08](https://news.ycombinator.com/item?id=38004699) - [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
 * [2023-10-24, 20:06:10](https://news.ycombinator.com/item?id=38004684) - [Alphabet Earnings Release FY23 Q3 [pdf]](https://abc.xyz/assets/4a/3e/3e08902c4a45b5cf530e267cf818/2023q3-alphabet-earnings-release.pdf)
 * [2023-10-24, 20:05:40](https://news.ycombinator.com/item?id=38004674) - [Global Tax Evasion Report 2024 [pdf]](https://www.taxobservatory.eu/www-site/uploads/2023/10/global_tax_evasion_report_24.pdf)
+* [2023-10-24, 20:05:18](https://news.ycombinator.com/item?id=38004666) - [Monsters in the Middle Ages](https://www.medievalists.net/2023/10/how-to-make-a-monster/)
 * [2023-10-24, 19:59:21](https://news.ycombinator.com/item?id=38004574) - ['When I tried to play, my hand spasmed and shook': why musicians get the yips](https://www.theguardian.com/music/2023/oct/17/focal-dystonia-my-hand-spasmed-and-shook-why-musicians-get-the-yips)
 * [2023-10-24, 19:52:06](https://news.ycombinator.com/item?id=38004457) - [Are Microplastics Causing Upticks in Dementia?](https://www.earthday.org/are-microplastics-causing-upticks-in-dementia/)
 * [2023-10-24, 19:48:02](https://news.ycombinator.com/item?id=38004404) - [Snapdragon Oryon, faster than Apple's M2 chip at 30% less power](https://twitter.com/IanCutress/status/1716902706621866487)
