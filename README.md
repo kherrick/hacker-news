@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 16:31:22](https://news.ycombinator.com/item?id=38040625) - [A fast, lightweight, and undetectable YouTube Ads Blocker for Firefox](https://addons.mozilla.org/en-US/firefox/addon/fadblock/)
 * [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a better computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 15:31:33](https://news.ycombinator.com/item?id=38039831) - [Grammarly's OAuth Mistakes](https://fusionauth.io/blog/grammarly-proves-ciam-not-optional)
+* [2023-10-27, 15:23:10](https://news.ycombinator.com/item?id=38039689) - [OpenBSD: Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
 * [2023-10-27, 15:09:14](https://news.ycombinator.com/item?id=38039489) - [The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator](https://twitter.com/MishaalRahman/status/1717916987387469842)
 * [2023-10-27, 14:49:45](https://news.ycombinator.com/item?id=38039214) - [Unprecedented Cryptosporidium Outbreak in UK](https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/)
 * [2023-10-27, 14:44:57](https://news.ycombinator.com/item?id=38039133) - [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
@@ -25,11 +27,9 @@
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw beautiful software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 * [2023-10-27, 04:48:11](https://news.ycombinator.com/item?id=38034797) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
 * [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
-* [2023-10-27, 01:00:39](https://news.ycombinator.com/item?id=38033524) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [The Silent Treatment: Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
-* [2023-10-26, 02:09:23](https://news.ycombinator.com/item?id=38020862) - [The Moose Boulder Hoax](https://www.atlasobscura.com/articles/moose-boulder-debunked)
 
 ## [Archives](archives/index.md)
 

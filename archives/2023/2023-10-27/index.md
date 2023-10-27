@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 16:31:22](https://news.ycombinator.com/item?id=38040625) - [A fast, lightweight, and undetectable YouTube Ads Blocker for Firefox](https://addons.mozilla.org/en-US/firefox/addon/fadblock/)
 * [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a better computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 15:31:33](https://news.ycombinator.com/item?id=38039831) - [Grammarly's OAuth Mistakes](https://fusionauth.io/blog/grammarly-proves-ciam-not-optional)
+* [2023-10-27, 15:23:10](https://news.ycombinator.com/item?id=38039689) - [OpenBSD: Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
 * [2023-10-27, 15:11:34](https://news.ycombinator.com/item?id=38039516) - [Enhancer for YouTube for Firefox is gone](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
 * [2023-10-27, 15:09:14](https://news.ycombinator.com/item?id=38039489) - [The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator](https://twitter.com/MishaalRahman/status/1717916987387469842)
 * [2023-10-27, 14:49:45](https://news.ycombinator.com/item?id=38039214) - [Unprecedented Cryptosporidium Outbreak in UK](https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/)
