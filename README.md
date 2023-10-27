@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 02:31:35](https://news.ycombinator.com/item?id=38034023) - [It's 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
 * [2023-10-27, 01:39:55](https://news.ycombinator.com/item?id=38033736) - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
 * [2023-10-27, 01:00:39](https://news.ycombinator.com/item?id=38033524) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
 * [2023-10-27, 00:36:45](https://news.ycombinator.com/item?id=38033385) - [Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
@@ -23,7 +24,6 @@
 * [2023-10-26, 14:23:54](https://news.ycombinator.com/item?id=38025998) - [Exclusive hardwood may be illegally harvested](https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/)
 * [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The negative impact of mobile-first web design on desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
-* [2023-10-26, 13:14:48](https://news.ycombinator.com/item?id=38025086) - [Sodium batteries offer an alternative to tricky lithium](https://www.economist.com/leaders/2023/10/26/sodium-batteries-offer-an-alternative-to-tricky-lithium)
 * [2023-10-26, 12:57:25](https://news.ycombinator.com/item?id=38024899) - [Mars has a layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
 * [2023-10-26, 12:31:58](https://news.ycombinator.com/item?id=38024665) - [Cold war satellite images reveal unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
