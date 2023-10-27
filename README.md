@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 13:50:14](https://news.ycombinator.com/item?id=38038398) - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)
 * [2023-10-27, 13:19:37](https://news.ycombinator.com/item?id=38038066) - [Copying Is Not Theft [video]](https://www.youtube.com/watch?v=IeTybKL1pM4)
 * [2023-10-27, 13:00:54](https://news.ycombinator.com/item?id=38037851) - [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
 * [2023-10-27, 12:53:49](https://news.ycombinator.com/item?id=38037779) - [Patching the libwebp vulnerability across the Python ecosystem](https://sethmlarson.dev/security-developer-in-residence-weekly-report-16)
@@ -26,7 +27,6 @@
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [Takkyu-bin: Luggage forwarding in Japan](https://craigmod.com/ridgeline/170/)
 * [2023-10-26, 16:07:24](https://news.ycombinator.com/item?id=38027587) - [How bioelectricity could regrow limbs and organs](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
-* [2023-10-26, 12:31:58](https://news.ycombinator.com/item?id=38024665) - [Cold war satellite images reveal unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 06:04:39](https://news.ycombinator.com/item?id=38022185) - [How to Leave the House of Lords](https://www.historytoday.com/archive/behind-times/how-leave-house-lords)
 * [2023-10-26, 02:09:23](https://news.ycombinator.com/item?id=38020862) - [The Moose Boulder Hoax](https://www.atlasobscura.com/articles/moose-boulder-debunked)

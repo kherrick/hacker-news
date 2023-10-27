@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 13:50:14](https://news.ycombinator.com/item?id=38038398) - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)
 * [2023-10-27, 13:19:37](https://news.ycombinator.com/item?id=38038066) - [Copying Is Not Theft [video]](https://www.youtube.com/watch?v=IeTybKL1pM4)
 * [2023-10-27, 13:00:54](https://news.ycombinator.com/item?id=38037851) - [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
 * [2023-10-27, 12:53:49](https://news.ycombinator.com/item?id=38037779) - [Patching the libwebp vulnerability across the Python ecosystem](https://sethmlarson.dev/security-developer-in-residence-weekly-report-16)
