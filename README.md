@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 * [2023-10-27, 05:18:42](https://news.ycombinator.com/item?id=38034964) - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
 * [2023-10-27, 05:04:02](https://news.ycombinator.com/item?id=38034891) - [On Bus Arbitration on the Unibus and QBUS (2017)](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
 * [2023-10-27, 04:25:39](https://news.ycombinator.com/item?id=38034686) - [Microsoft: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
@@ -14,7 +15,6 @@
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – Internet-connected Software-Defined Radios](http://www.websdr.org/)
 * [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
 * [2023-10-26, 21:19:22](https://news.ycombinator.com/item?id=38031839) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
-* [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 * [2023-10-26, 20:32:35](https://news.ycombinator.com/item?id=38031342) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [Takkyu-bin: Luggage forwarding in Japan](https://craigmod.com/ridgeline/170/)
 * [2023-10-26, 19:37:07](https://news.ycombinator.com/item?id=38030705) - [Bird with GPS flies into typhoon](https://newatlas.com/biology/bird-typhoon-ride/)
