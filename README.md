@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-27, 21:44:55](https://news.ycombinator.com/item?id=38044410) - [X Engineering Year Retrospective](https://twitter.com/XEng/status/1717754398410240018)
-* [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
+* [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 * [2023-10-27, 20:56:48](https://news.ycombinator.com/item?id=38043809) - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
 * [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [Why Programming Languages Matter [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-27, 20:41:32](https://news.ycombinator.com/item?id=38043644) - [Visualizing quaternions (2018)](https://eater.net/quaternions)
@@ -12,7 +12,6 @@
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
 * [2023-10-27, 19:07:44](https://news.ycombinator.com/item?id=38042590) - [Quadcopters can now visually track targets more effectively](https://mosfet.net/quadcopters-can-now-visually-track-targets-more-effectively/)
-* [2023-10-27, 19:06:24](https://news.ycombinator.com/item?id=38042574) - [The downside of AI language translation](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/)
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:28:09](https://news.ycombinator.com/item?id=38040591) - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
@@ -26,10 +25,11 @@
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 11:21:45](https://news.ycombinator.com/item?id=38037110) - [Ways to Make Sand (2020) [video]](https://www.youtube.com/watch?v=BDyvjkAs5-Y&list=ULcxqQ59vzyTk&index=6)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
-* [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 * [2023-10-26, 21:59:53](https://news.ycombinator.com/item?id=38032253) - [iPhones have been exposing MAC addresses despite Apple’s promises otherwise](https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/)
+* [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
 * [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
+* [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
 

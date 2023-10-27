@@ -43,6 +43,7 @@
 * [2023-10-26, 15:35:10](https://news.ycombinator.com/item?id=38026983) - [U.S. Economy Grew at 4.9% Rate This Summer, Powered by Fast-Spending Americans](https://www.wsj.com/economy/central-banking/us-gdp-economy-third-quarter-f247fa45)
 * [2023-10-26, 15:27:28](https://news.ycombinator.com/item?id=38026854) - [LA County's guaranteed income program to give some foster youth $1k per month](https://abc7.com/guaranteed-income-la-county-dcfs-foster-youth/13960280/)
 * [2023-10-26, 15:23:55](https://news.ycombinator.com/item?id=38026817) - [Gen Z wants less sex in TV and movies](https://www.npr.org/2023/10/25/1208435267/sex-teens-tv-movies)
+* [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 15:19:52](https://news.ycombinator.com/item?id=38026756) - [Hysteria is a powerful, fast and censorship resistant proxy](https://github.com/apernet/hysteria)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-End encrypted and anonymous Internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 15:12:07](https://news.ycombinator.com/item?id=38026637) - [Rob 'CmdrTaco' Malda – Hacker History Podcast](https://hackerhistory.com/podcast/the-history-of-rob-cmdrtaco-malda/)
