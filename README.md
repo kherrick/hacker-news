@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-27, 19:06:24](https://news.ycombinator.com/item?id=38042574) - [Learn a Foreign Language Before It's Too Late (By Douglas Hofstadter)](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/)
-* [2023-10-27, 18:37:18](https://news.ycombinator.com/item?id=38042204) - [Many millennials are worse off than their parents](https://vocal.media/families/many-millennials-are-worse-off-than-their-parents-3pke0hir)
 * [2023-10-27, 18:30:20](https://news.ycombinator.com/item?id=38042114) - [Microsoft is failing to deliver emails that mention newclimate.org](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
+* [2023-10-27, 17:34:09](https://news.ycombinator.com/item?id=38041434) - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
 * [2023-10-27, 17:26:54](https://news.ycombinator.com/item?id=38041335) - [Google paid $26.3B in 2021 to be the default search engine](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:32:07](https://news.ycombinator.com/item?id=38040636) - [Why America Doesn't Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
