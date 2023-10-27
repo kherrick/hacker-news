@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 21:44:55](https://news.ycombinator.com/item?id=38044410) - [X Engineering Year Retrospective](https://twitter.com/XEng/status/1717754398410240018)
 * [2023-10-27, 21:15:55](https://news.ycombinator.com/item?id=38044062) - [US asks Qatar to 'turn down the volume' of Al Jazeera news coverage](https://www.theguardian.com/media/2023/oct/27/us-asks-qatar-to-turn-down-the-volume-of-al-jazeera-news-coverage)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 * [2023-10-27, 21:05:36](https://news.ycombinator.com/item?id=38043915) - [Apple's private Mac addresses didn't work until iOS 17.1](https://appleinsider.com/articles/23/10/27/apples-private-wi-fi-mac-addresses-were-security-theater-until-ios-171)
@@ -15,6 +16,7 @@
 * [2023-10-27, 20:39:49](https://news.ycombinator.com/item?id=38043619) - [Apple's Scary Fast event could spell the end of its Lightning port](https://www.techradar.com/computing/macs/apples-scary-fast-event-could-spell-the-end-of-its-lightning-port-and-im-ready-for-it)
 * [2023-10-27, 20:39:36](https://news.ycombinator.com/item?id=38043617) - [Walgreens, CVS pharmacy staff at breaking point: here's what their days are like](https://www.cnbc.com/2023/10/27/walgreens-cvs-pharmacy-staff-walkouts-what-their-work-days-look-like.html)
 * [2023-10-27, 20:35:35](https://news.ycombinator.com/item?id=38043574) - [Android 14's user-profile data bug seems indistinguishable from ransomware](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
+* [2023-10-27, 20:34:18](https://news.ycombinator.com/item?id=38043555) - [New devices could change the way we measure blood pressure](https://knowablemagazine.org/article/technology/2023/devices-could-change-how-we-measure-blood-pressure)
 * [2023-10-27, 20:34:08](https://news.ycombinator.com/item?id=38043552) - [It took seven years but over-40s fired by HP win $18M settlement](https://www.theregister.com/2023/10/27/hp_age_discrimination/)
 * [2023-10-27, 20:32:07](https://news.ycombinator.com/item?id=38043525) - [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
 * [2023-10-27, 20:15:00](https://news.ycombinator.com/item?id=38043341) - [Brev: Start fine-tuning and training models in < 10 minutes](https://brev.dev/)
