@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 04:25:39](https://news.ycombinator.com/item?id=38034686) - [Microsoft: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
 * [2023-10-27, 03:38:10](https://news.ycombinator.com/item?id=38034435) - [Yugoslavia's Digital Twin: when a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 * [2023-10-27, 03:23:13](https://news.ycombinator.com/item?id=38034368) - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
 * [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [Kaspersky: How to Catch a Wild Triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)

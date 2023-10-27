@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 04:25:39](https://news.ycombinator.com/item?id=38034686) - [Microsoft: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
 * [2023-10-27, 03:38:10](https://news.ycombinator.com/item?id=38034435) - [Yugoslavia's Digital Twin – When a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 * [2023-10-27, 03:23:13](https://news.ycombinator.com/item?id=38034368) - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
 * [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
@@ -11,6 +12,7 @@
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – Internet-connected Software-Defined Radios](http://www.websdr.org/)
 * [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
 * [2023-10-26, 21:19:22](https://news.ycombinator.com/item?id=38031839) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
+* [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 * [2023-10-26, 20:32:35](https://news.ycombinator.com/item?id=38031342) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 20:17:07](https://news.ycombinator.com/item?id=38031157) - [DaScript: Fast and Versatile Scripting Language](https://dascript.org/)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [Takkyu-bin: Luggage forwarding in Japan](https://craigmod.com/ridgeline/170/)
@@ -23,8 +25,6 @@
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Could a near-Earth asteroid be a piece of the moon?](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 14:47:40](https://news.ycombinator.com/item?id=38026308) - [AirportSim](https://airportsim.com/)
-* [2023-10-26, 14:23:54](https://news.ycombinator.com/item?id=38025998) - [Exclusive hardwood may be illegally harvested](https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/)
-* [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The negative impact of mobile-first web design on desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 12:31:58](https://news.ycombinator.com/item?id=38024665) - [Cold war satellite images reveal unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 08:51:46](https://news.ycombinator.com/item?id=38023283) - [Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
