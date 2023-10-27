@@ -16,6 +16,7 @@
 * [2023-10-27, 14:15:09](https://news.ycombinator.com/item?id=38038713) - [Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
 * [2023-10-27, 14:14:46](https://news.ycombinator.com/item?id=38038706) - [Food and Generative AI](https://engineering.hellofresh.com/recipes-and-generative-ai-6d74a107860c?gi=86e12b1a8c6d)
 * [2023-10-27, 14:13:03](https://news.ycombinator.com/item?id=38038682) - [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
+* [2023-10-27, 14:11:33](https://news.ycombinator.com/item?id=38038662) - [Show HN: Encrypt and upload files to IPFS from browser](https://www.thirdcloud.org/)
 * [2023-10-27, 14:04:59](https://news.ycombinator.com/item?id=38038565) - [How Rich Is Taylor Swift? [video]](https://www.bloomberg.com/news/videos/2023-10-26/just-how-rich-is-taylor-swift-we-did-the-math-video)
 * [2023-10-27, 14:00:13](https://news.ycombinator.com/item?id=38038512) - [US immigration enforcement used AI-powered tool to scan posts derogatory to US](https://www.techspot.com/news/100642-ice-used-ai-powered-tool-scan-social-media.html)
 * [2023-10-27, 13:58:46](https://news.ycombinator.com/item?id=38038493) - [Tesla owner who drove with 'arms folded' cleared of dangerous driving](https://www.irishtimes.com/crime-law/courts/2023/10/26/tesla-owner-who-drove-with-arms-folded-on-autopilot-on-m50-cleared-of-dangerous-driving/)

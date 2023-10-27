@@ -85,6 +85,7 @@
 * [2023-10-26, 05:06:55](https://news.ycombinator.com/item?id=38021811) - [Former Facebook Employees: \"We Were Jawboned. Repeatedly. Routinely.\"](https://knightcolumbia.org/blog/jawboned)
 * [2023-10-26, 05:06:04](https://news.ycombinator.com/item?id=38021802) - [Someone is trying to rebuild Friendster](https://friendster.com)
 * [2023-10-26, 04:25:10](https://news.ycombinator.com/item?id=38021582) - [How to Exclaim](https://themillions.com/2023/10/how-to-exclaim.html)
+* [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [The Silent Treatment: Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
 * [2023-10-26, 02:09:23](https://news.ycombinator.com/item?id=38020862) - [The Moose Boulder Hoax](https://www.atlasobscura.com/articles/moose-boulder-debunked)
