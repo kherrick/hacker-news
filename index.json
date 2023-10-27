@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 17:26:54",
+      "https://news.ycombinator.com/item?id=38041335"
+    ],
+    [
+      "Google paid $26.3B in 2021 to be the default search engine everywhere",
+      "https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 16:37:54",
       "https://news.ycombinator.com/item?id=38040702"
     ],
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2023-10-27, 14:00:13",
-      "https://news.ycombinator.com/item?id=38038512"
+      "2023-10-27, 14:11:33",
+      "https://news.ycombinator.com/item?id=38038662"
     ],
     [
-      "US immigration enforcement used AI-powered tool to scan posts derogatory to US",
-      "https://www.techspot.com/news/100642-ice-used-ai-powered-tool-scan-social-media.html"
+      "Show HN: Encrypt and upload files to IPFS from browser",
+      "https://www.thirdcloud.org/"
     ]
   ],
   [
@@ -167,26 +177,6 @@
     [
       "The slow death of authenticity in an attention economy",
       "https://www.coryzue.com/writing/authenticity-and-engagement/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 12:53:49",
-      "https://news.ycombinator.com/item?id=38037779"
-    ],
-    [
-      "Patching the libwebp vulnerability across the Python ecosystem",
-      "https://sethmlarson.dev/security-developer-in-residence-weekly-report-16"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 12:32:53",
-      "https://news.ycombinator.com/item?id=38037596"
-    ],
-    [
-      "Why Is the Django Admin \"Ugly\"?",
-      "https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2023-10-27, 04:48:11",
-      "https://news.ycombinator.com/item?id=38034797"
-    ],
-    [
-      "My 2023 all-flash ZFS NAS (Network Storage) build",
-      "https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 03:05:37",
       "https://news.ycombinator.com/item?id=38034269"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-10-26, 10:43:59",
+      "https://news.ycombinator.com/item?id=38023891"
+    ],
+    [
+      "The Cloud Computer",
+      "https://oxide.computer/blog/the-cloud-computer"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 04:00:41",
       "https://news.ycombinator.com/item?id=38021463"
     ],
     [
       "The Silent Treatment: Solitary Confinement's Unlikely Origins",
       "https://publicdomainreview.org/essay/silent-treatment/"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 21:10:15",
+      "https://news.ycombinator.com/item?id=38018429"
+    ],
+    [
+      "DM1 by Colin Skelton [pdf]",
+      "http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf"
     ]
   ]
 ]
