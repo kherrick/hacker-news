@@ -85,6 +85,7 @@
 * [2023-10-26, 04:25:10](https://news.ycombinator.com/item?id=38021582) - [How to Exclaim](https://themillions.com/2023/10/how-to-exclaim.html)
 * [2023-10-26, 04:00:22](https://news.ycombinator.com/item?id=38021461) - [Show HN: Instant API – Build type-safe web APIs with JavaScript](https://github.com/instant-dev/api)
 * [2023-10-26, 03:36:43](https://news.ycombinator.com/item?id=38021347) - [Addressing Changes to PfSense Plus Home+Lab](https://www.netgate.com/blog/addressing-changes-to-pfsense-plus-homelab)
+* [2023-10-26, 02:09:23](https://news.ycombinator.com/item?id=38020862) - [The Moose Boulder Hoax](https://www.atlasobscura.com/articles/moose-boulder-debunked)
 * [2023-10-26, 01:57:14](https://news.ycombinator.com/item?id=38020792) - [Running the \"Reflections on Trusting Trust\" Compiler](https://research.swtch.com/nih)
 * [2023-10-26, 01:30:55](https://news.ycombinator.com/item?id=38020640) - [California Slams San Francisco for 'Egregious' Barriers to Housing Construction](https://www.nytimes.com/2023/10/25/us/san-francisco-housing.html)
 * [2023-10-26, 00:48:20](https://news.ycombinator.com/item?id=38020308) - [Chaucer's Works Go Online](https://blogs.bl.uk/digitisedmanuscripts/2023/10/chaucers-works-go-online.html)
