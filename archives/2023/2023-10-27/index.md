@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
 * [2023-10-27, 10:30:53](https://news.ycombinator.com/item?id=38036801) - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
+* [2023-10-27, 09:17:18](https://news.ycombinator.com/item?id=38036286) - [ECB holds key interest rate at 4%](https://www.ft.com/content/56477a7a-ac0a-454c-b690-1fb5738a7f69)
 * [2023-10-27, 09:10:48](https://news.ycombinator.com/item?id=38036236) - [Public Statement: Scholars Warn of Potential Genocide in Gaza](https://twailr.com/public-statement-scholars-warn-of-potential-genocide-in-gaza/)
 * [2023-10-27, 09:04:33](https://news.ycombinator.com/item?id=38036203) - [Self-Signed locally trusted certificates with cert-manager](https://skarlso.github.io/2023/10/25/self-signed-locally-trusted-certificates-with-cert-manager/)
 * [2023-10-27, 08:54:25](https://news.ycombinator.com/item?id=38036143) - [Tesla threatens to bring in strikebreakers as Swedish workers strike](https://www.thelocal.se/20231027/tesla-threatens-to-bring-in-strikebreakers-as-swedish-workers-strike)
@@ -15,6 +16,7 @@
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw beautiful software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 * [2023-10-27, 05:18:42](https://news.ycombinator.com/item?id=38034964) - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
 * [2023-10-27, 05:04:02](https://news.ycombinator.com/item?id=38034891) - [On Bus Arbitration on the Unibus and QBUS (2017)](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
+* [2023-10-27, 04:48:11](https://news.ycombinator.com/item?id=38034797) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
 * [2023-10-27, 04:25:39](https://news.ycombinator.com/item?id=38034686) - [Microsoft: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
 * [2023-10-27, 04:23:27](https://news.ycombinator.com/item?id=38034668) - [Generating Well-Typed Terms that are not \"Useless\" [pdf]](https://lemonidas.github.io/pdf/NotUseless.pdf)
 * [2023-10-27, 03:38:10](https://news.ycombinator.com/item?id=38034435) - [Yugoslavia's Digital Twin: when a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
