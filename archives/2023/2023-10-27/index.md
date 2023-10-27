@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 19:22:23](https://news.ycombinator.com/item?id=38042732) - [California population drain: State is hemorrhaging residents to other states](https://www.cbsnews.com/sanfrancisco/news/california-population-drain-state-is-hemorrhaging-residents-texas-arizona/)
 * [2023-10-27, 19:06:24](https://news.ycombinator.com/item?id=38042574) - [Learn a Foreign Language Before It's Too Late (By Douglas Hofstadter)](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/)
 * [2023-10-27, 18:37:18](https://news.ycombinator.com/item?id=38042204) - [Many millennials are worse off than their parents](https://vocal.media/families/many-millennials-are-worse-off-than-their-parents-3pke0hir)
 * [2023-10-27, 18:30:20](https://news.ycombinator.com/item?id=38042114) - [Microsoft disrupts email communication across climate change community](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
@@ -76,6 +77,7 @@
 * [2023-10-27, 02:55:34](https://news.ycombinator.com/item?id=38034184) - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
 * [2023-10-27, 02:31:35](https://news.ycombinator.com/item?id=38034023) - [It's 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
 * [2023-10-27, 02:29:22](https://news.ycombinator.com/item?id=38034011) - [While there are 54 countries in Africa, none of them begin with the letter \"K\"](https://www.google.com/search?q=african+country+that+begins+with+k)
+* [2023-10-27, 01:59:23](https://news.ycombinator.com/item?id=38033836) - [OpenAI closes big lease deal at Uber's San Francisco headquarters](https://www.sfchronicle.com/realestate/article/openai-s-f-uber-lease-18451102.php)
 * [2023-10-27, 01:39:55](https://news.ycombinator.com/item?id=38033736) - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
 * [2023-10-27, 01:00:39](https://news.ycombinator.com/item?id=38033524) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
 * [2023-10-27, 00:36:45](https://news.ycombinator.com/item?id=38033385) - [Ceasing Print Publication of ACM Journals and Transactions](https://www.acm.org/publications/ceasing-print)
