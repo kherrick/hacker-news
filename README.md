@@ -2,7 +2,6 @@
 
 * [2023-10-27, 23:03:49](https://news.ycombinator.com/item?id=38045112) - [Scientists Simulate Backward Time Travel Using Quantum Entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
 * [2023-10-27, 22:45:54](https://news.ycombinator.com/item?id=38044973) - [King Charles III signs off on Online Safety Act with unenforceable spying clause](https://www.theregister.com/2023/10/27/online_safety_act_charles/)
-* [2023-10-27, 22:44:48](https://news.ycombinator.com/item?id=38044962) - [F5 hurriedly squashes BIG-IP remote code execution bug](https://www.theregister.com/2023/10/27/f5_hurriedly_fixes_bigip_remote/)
 * [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 * [2023-10-27, 20:56:48](https://news.ycombinator.com/item?id=38043809) - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
@@ -13,6 +12,7 @@
 * [2023-10-27, 19:54:25](https://news.ycombinator.com/item?id=38043127) - [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
+* [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:28:09](https://news.ycombinator.com/item?id=38040591) - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
 * [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
