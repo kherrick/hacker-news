@@ -19,6 +19,7 @@
 * [2023-10-27, 20:34:18](https://news.ycombinator.com/item?id=38043555) - [New devices could change the way we measure blood pressure](https://knowablemagazine.org/article/technology/2023/devices-could-change-how-we-measure-blood-pressure)
 * [2023-10-27, 20:34:08](https://news.ycombinator.com/item?id=38043552) - [It took seven years but over-40s fired by HP win $18M settlement](https://www.theregister.com/2023/10/27/hp_age_discrimination/)
 * [2023-10-27, 20:32:07](https://news.ycombinator.com/item?id=38043525) - [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
+* [2023-10-27, 20:15:25](https://news.ycombinator.com/item?id=38043345) - [SBF testifies he knew 'basically nothing' about crypto before starting company](https://www.cnn.com/business/live-news/sbf-testimony-before-jurors-ftx-fraud-trial/index.html)
 * [2023-10-27, 20:15:00](https://news.ycombinator.com/item?id=38043341) - [Brev: Start fine-tuning and training models in < 10 minutes](https://brev.dev/)
 * [2023-10-27, 19:59:09](https://news.ycombinator.com/item?id=38043181) - [Bitcoin and carbon dioxide emissions: Evidence from daily production decisions](https://www.sciencedirect.com/science/article/abs/pii/S0047272723001858)
 * [2023-10-27, 19:58:47](https://news.ycombinator.com/item?id=38043177) - [Gaza Strip internet cut off following Israeli airstrikes](https://www.theverge.com/2023/10/27/23935229/gaza-israel-internet-outage-connectivity-telecom-blackout)
