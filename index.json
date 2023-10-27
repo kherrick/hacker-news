@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-27, 18:30:20",
-      "https://news.ycombinator.com/item?id=38042114"
+      "2023-10-27, 18:37:18",
+      "https://news.ycombinator.com/item?id=38042204"
     ],
     [
-      "Microsoft disrupts email communication across climate change community",
-      "https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the"
+      "Many millennials are worse off than their parents",
+      "https://vocal.media/families/many-millennials-are-worse-off-than-their-parents-3pke0hir"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Every trick Microsoft pulled to make you browse Edge instead of Chrome",
       "https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 17:26:54",
+      "https://news.ycombinator.com/item?id=38041335"
+    ],
+    [
+      "Google paid $26.3B in 2021 to be the default search engine",
+      "https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion"
     ]
   ],
   [
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2023-10-27, 12:30:12",
-      "https://news.ycombinator.com/item?id=38037574"
+      "2023-10-27, 12:32:53",
+      "https://news.ycombinator.com/item?id=38037596"
     ],
     [
-      "\"Useless Ruby sugar\": Pattern matching (Pt. 2)",
-      "https://zverok.space/blog/2023-10-27-syntax-sugar2-pattern-matching-cont.html"
+      "Why Is the Django Admin \"Ugly\"?",
+      "https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/"
     ]
   ],
   [
@@ -191,22 +201,12 @@
   ],
   [
     [
-      "2023-10-27, 12:02:50",
-      "https://news.ycombinator.com/item?id=38037385"
+      "2023-10-27, 11:56:00",
+      "https://news.ycombinator.com/item?id=38037338"
     ],
     [
-      "Sam Bankman-Fried testifies, says he \"skimmed over\" FTX terms of service",
-      "https://arstechnica.com/tech-policy/2023/10/sam-bankman-fried-begins-testifying-in-risky-bid-to-beat-ftx-fraud-charges/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 11:42:17",
-      "https://news.ycombinator.com/item?id=38037245"
-    ],
-    [
-      "Study shows antibodies against PEG in 83% of the German population",
-      "https://www.mpip-mainz.mpg.de/en/press/pr-2022-22"
+      "Prompt Engineering Made Easy",
+      "https://news.ycombinator.com/item?id=38037338"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38035505"
     ],
     [
-      "How to draw beautiful software architecture diagrams (2022)",
+      "How to draw software architecture diagrams (2022)",
       "https://terrastruct.com/blog/post/draw-software-architecture-diagrams/"
     ]
   ],
