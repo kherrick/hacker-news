@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-27, 09:04:33](https://news.ycombinator.com/item?id=38036203) - [Self-Signed locally trusted certificates with cert-manager](https://skarlso.github.io/2023/10/25/self-signed-locally-trusted-certificates-with-cert-manager/)
-* [2023-10-27, 08:54:25](https://news.ycombinator.com/item?id=38036143) - [Tesla threatens to bring in strikebreakers as Swedish workers strike](https://www.thelocal.se/20231027/tesla-threatens-to-bring-in-strikebreakers-as-swedish-workers-strike)
+* [2023-10-27, 08:11:22](https://news.ycombinator.com/item?id=38035936) - [Upgradable Read Write Lock for Go](https://upstash.com/blog/upgradable-rwlock-for-go)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw beautiful software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
