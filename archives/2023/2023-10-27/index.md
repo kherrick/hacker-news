@@ -42,6 +42,7 @@
 * [2023-10-27, 12:11:40](https://news.ycombinator.com/item?id=38037449) - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://mrtornado24.github.io/DreamCraft3D/)
 * [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
+* [2023-10-27, 11:21:45](https://news.ycombinator.com/item?id=38037110) - [Ways to Make Sand (2020) [video]](https://www.youtube.com/watch?v=BDyvjkAs5-Y&list=ULcxqQ59vzyTk&index=6)
 * [2023-10-27, 11:12:20](https://news.ycombinator.com/item?id=38037049) - [Robert E Lee statue that sparked Charlottesville riot is melted down](https://www.theguardian.com/us-news/2023/oct/26/charlottesville-robert-e-lee-melted-confederate-statue)
 * [2023-10-27, 10:51:52](https://news.ycombinator.com/item?id=38036921) - [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
 * [2023-10-27, 10:30:53](https://news.ycombinator.com/item?id=38036801) - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
