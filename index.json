@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-10-27, 19:22:23",
-      "https://news.ycombinator.com/item?id=38042732"
+      "2023-10-27, 19:46:23",
+      "https://news.ycombinator.com/item?id=38043033"
     ],
     [
-      "California population drain: State is hemorrhaging residents to other states",
-      "https://www.cbsnews.com/sanfrancisco/news/california-population-drain-state-is-hemorrhaging-residents-texas-arizona/"
+      "Shadow: New browser engine made almost entirely in JavaScript",
+      "https://goose.icu/introducing-shadow/"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 19:07:44",
+      "https://news.ycombinator.com/item?id=38042590"
+    ],
+    [
+      "Quadcopters Can Now Visually Track Targets More Effectively",
+      "https://mosfet.net/quadcopters-can-now-visually-track-targets-more-effectively/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "The downside of AI language translation",
       "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 18:30:20",
-      "https://news.ycombinator.com/item?id=38042114"
-    ],
-    [
-      "Microsoft is failing to deliver emails that mention newclimate.org",
-      "https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-10-27, 12:53:49",
+      "https://news.ycombinator.com/item?id=38037779"
+    ],
+    [
+      "Patching the libwebp vulnerability across the Python ecosystem",
+      "https://sethmlarson.dev/security-developer-in-residence-weekly-report-16"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 12:11:40",
       "https://news.ycombinator.com/item?id=38037449"
     ],
@@ -247,16 +257,6 @@
     [
       "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff",
       "https://news.ycombinator.com/item?id=38033524"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 22:03:07",
-      "https://news.ycombinator.com/item?id=38032288"
-    ],
-    [
-      "Interactive intro to shaders",
-      "https://www.mayerowitz.io/blog/a-journey-into-shaders"
     ]
   ],
   [
