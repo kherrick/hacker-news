@@ -41,6 +41,7 @@
 * [2023-10-27, 12:32:53](https://news.ycombinator.com/item?id=38037596) - [Why Is the Django Admin \"Ugly\"?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
 * [2023-10-27, 12:30:12](https://news.ycombinator.com/item?id=38037574) - [\"Useless Ruby sugar\": Pattern matching (Pt. 2)](https://zverok.space/blog/2023-10-27-syntax-sugar2-pattern-matching-cont.html)
 * [2023-10-27, 12:11:40](https://news.ycombinator.com/item?id=38037449) - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://mrtornado24.github.io/DreamCraft3D/)
+* [2023-10-27, 12:02:50](https://news.ycombinator.com/item?id=38037385) - [Sam Bankman-Fried testifies, says he \"skimmed over\" FTX terms of service](https://arstechnica.com/tech-policy/2023/10/sam-bankman-fried-begins-testifying-in-risky-bid-to-beat-ftx-fraud-charges/)
 * [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 11:21:45](https://news.ycombinator.com/item?id=38037110) - [Ways to Make Sand (2020) [video]](https://www.youtube.com/watch?v=BDyvjkAs5-Y&list=ULcxqQ59vzyTk&index=6)
