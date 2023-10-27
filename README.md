@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 09:10:48](https://news.ycombinator.com/item?id=38036236) - [Public Statement: Scholars Warn of Potential Genocide in Gaza](https://twailr.com/public-statement-scholars-warn-of-potential-genocide-in-gaza/)
 * [2023-10-27, 08:10:28](https://news.ycombinator.com/item?id=38035930) - [Threads has \"just under\" 100M monthly active users](https://9to5mac.com/2023/10/25/threads-twitter-monthly-active-users/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
@@ -24,7 +25,6 @@
 * [2023-10-26, 18:21:42](https://news.ycombinator.com/item?id=38029671) - [Making PostgreSQL tick: New features in pg_cron](https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/)
 * [2023-10-26, 16:07:24](https://news.ycombinator.com/item?id=38027587) - [How bioelectricity could regrow limbs and organs](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Could a near-Earth asteroid be a piece of the moon?](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
-* [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 06:04:39](https://news.ycombinator.com/item?id=38022185) - [How to Leave the House of Lords](https://www.historytoday.com/archive/behind-times/how-leave-house-lords)
 * [2023-10-26, 04:25:10](https://news.ycombinator.com/item?id=38021582) - [How to Exclaim](https://themillions.com/2023/10/how-to-exclaim.html)
