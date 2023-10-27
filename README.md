@@ -25,9 +25,9 @@
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 * [2023-10-26, 12:57:25](https://news.ycombinator.com/item?id=38024899) - [Mars has a layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
 * [2023-10-26, 12:31:58](https://news.ycombinator.com/item?id=38024665) - [Cold war satellite images reveal unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
-* [2023-10-26, 12:01:48](https://news.ycombinator.com/item?id=38024418) - [Hilbert curve: The space filling curve drawn with JavaScript](http://jsxgraph.uni-bayreuth.de/wiki/index.php/Hilbert_curve)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 08:51:46](https://news.ycombinator.com/item?id=38023283) - [Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
+* [2023-10-25, 18:04:45](https://news.ycombinator.com/item?id=38016028) - [Porting Linux Pledge to Go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
 * [2023-10-25, 13:21:00](https://news.ycombinator.com/item?id=38012494) - [William Blake's Printing Process](https://www.youtube.com/watch?v=TGiVMj5Vm2g)
 * [2023-10-24, 20:05:18](https://news.ycombinator.com/item?id=38004666) - [Monsters in the Middle Ages](https://www.medievalists.net/2023/10/how-to-make-a-monster/)
 
