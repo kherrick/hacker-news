@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 14:44:57](https://news.ycombinator.com/item?id=38039133) - [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
+* [2023-10-27, 14:25:42](https://news.ycombinator.com/item?id=38038868) - [US needs much more than the IRA to get to net zero by 2050](https://arstechnica.com/science/2023/10/national-academies-the-ira-is-nice-but-we-need-climate-policy-beyond-2030/)
 * [2023-10-27, 14:15:09](https://news.ycombinator.com/item?id=38038713) - [Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
 * [2023-10-27, 14:14:46](https://news.ycombinator.com/item?id=38038706) - [Food and Generative AI](https://engineering.hellofresh.com/recipes-and-generative-ai-6d74a107860c?gi=86e12b1a8c6d)
 * [2023-10-27, 14:04:59](https://news.ycombinator.com/item?id=38038565) - [How Rich Is Taylor Swift? [video]](https://www.bloomberg.com/news/videos/2023-10-26/just-how-rich-is-taylor-swift-we-did-the-math-video)
