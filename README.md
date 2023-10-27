@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 22:45:54](https://news.ycombinator.com/item?id=38044973) - [King Charles III signs off on Online Safety Act with unenforceable spying clause](https://www.theregister.com/2023/10/27/online_safety_act_charles/)
 * [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 * [2023-10-27, 20:56:48](https://news.ycombinator.com/item?id=38043809) - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
@@ -16,7 +17,6 @@
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
 * [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
-* [2023-10-27, 14:44:57](https://news.ycombinator.com/item?id=38039133) - [Finding that lead emissions from aircraft engines contribute to air pollution](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
 * [2023-10-27, 14:34:35](https://news.ycombinator.com/item?id=38038986) - [Show HN: A local Python prototyping tool for Jupyter and Streamlit](https://github.com/galenmarchetti/jupyter-notebook-package)
 * [2023-10-27, 14:15:09](https://news.ycombinator.com/item?id=38038713) - [Tell HN: Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
 * [2023-10-27, 14:11:33](https://news.ycombinator.com/item?id=38038662) - [Show HN: Encrypt and upload files to IPFS from browser](https://www.thirdcloud.org/)
