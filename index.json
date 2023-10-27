@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38043955"
     ],
     [
-      "NASA Tech Breathes Life into Potentially Game-Changing Antenna Design",
+      "Large Balloon Reflector: a potentially game-changing antenna design",
       "https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Quadcopters can now visually track targets more effectively",
       "https://mosfet.net/quadcopters-can-now-visually-track-targets-more-effectively/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 19:06:24",
-      "https://news.ycombinator.com/item?id=38042574"
-    ],
-    [
-      "The downside of AI language translation",
-      "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/"
     ]
   ],
   [
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2023-10-27, 06:57:37",
-      "https://news.ycombinator.com/item?id=38035505"
-    ],
-    [
-      "How to draw software architecture diagrams (2022)",
-      "https://terrastruct.com/blog/post/draw-software-architecture-diagrams/"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 21:59:53",
       "https://news.ycombinator.com/item?id=38032253"
     ],
     [
       "iPhones have been exposing MAC addresses despite Apple’s promises otherwise",
       "https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 15:22:44",
+      "https://news.ycombinator.com/item?id=38026797"
+    ],
+    [
+      "After 28 years, SSLv2 is still not gone from the internet",
+      "https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Solitary Confinement's Unlikely Origins",
       "https://publicdomainreview.org/essay/silent-treatment/"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 21:10:15",
+      "https://news.ycombinator.com/item?id=38018429"
+    ],
+    [
+      "DM1 by Colin Skelton (2015) [pdf]",
+      "http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf"
     ]
   ]
 ]
