@@ -21,7 +21,6 @@
 * [2023-10-26, 18:37:24](https://news.ycombinator.com/item?id=38029893) - [Roombas at the end of the world](https://spectrum.ieee.org/south-pole-roombas)
 * [2023-10-26, 18:21:42](https://news.ycombinator.com/item?id=38029671) - [Making PostgreSQL tick: New features in pg_cron](https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/)
 * [2023-10-26, 16:58:23](https://news.ycombinator.com/item?id=38028418) - [BP to purchase $100M in Tesla Superchargers](https://spectrumnews1.com/ca/la-west/transportation/2023/10/26/bp-will-purchase--100-million-tesla-superchargers)
-* [2023-10-26, 16:34:48](https://news.ycombinator.com/item?id=38028037) - [Appending to an std:string character-by-character: how does the capacity grow?](https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/)
 * [2023-10-26, 16:07:24](https://news.ycombinator.com/item?id=38027587) - [How bioelectricity could regrow limbs and organs](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Could a near-Earth asteroid be a piece of the moon?](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
@@ -29,6 +28,7 @@
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 08:51:46](https://news.ycombinator.com/item?id=38023283) - [Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
 * [2023-10-26, 04:25:10](https://news.ycombinator.com/item?id=38021582) - [How to Exclaim](https://themillions.com/2023/10/how-to-exclaim.html)
+* [2023-10-25, 18:04:45](https://news.ycombinator.com/item?id=38016028) - [Porting Linux Pledge to Go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
 * [2023-10-24, 20:05:18](https://news.ycombinator.com/item?id=38004666) - [Monsters in the Middle Ages](https://www.medievalists.net/2023/10/how-to-make-a-monster/)
 
 ## [Archives](archives/index.md)
