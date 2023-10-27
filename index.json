@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-10-26, 16:34:48",
-      "https://news.ycombinator.com/item?id=38028037"
-    ],
-    [
-      "Appending to an std:string character-by-character: how does the capacity grow?",
-      "https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 16:07:24",
       "https://news.ycombinator.com/item?id=38027587"
     ],
@@ -287,6 +277,16 @@
     [
       "How to Exclaim",
       "https://themillions.com/2023/10/how-to-exclaim.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 18:04:45",
+      "https://news.ycombinator.com/item?id=38016028"
+    ],
+    [
+      "Porting Linux Pledge to Go",
+      "https://flak.tedunangst.com/post/porting-linux-pledge-to-go"
     ]
   ],
   [
