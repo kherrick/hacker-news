@@ -8,6 +8,7 @@
 * [2023-10-27, 05:18:42](https://news.ycombinator.com/item?id=38034964) - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
 * [2023-10-27, 05:04:02](https://news.ycombinator.com/item?id=38034891) - [On Bus Arbitration on the Unibus and QBUS (2017)](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
 * [2023-10-27, 04:25:39](https://news.ycombinator.com/item?id=38034686) - [Microsoft: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
+* [2023-10-27, 04:23:27](https://news.ycombinator.com/item?id=38034668) - [Generating Well-Typed Terms that are not \"Useless\" [pdf]](https://lemonidas.github.io/pdf/NotUseless.pdf)
 * [2023-10-27, 03:38:10](https://news.ycombinator.com/item?id=38034435) - [Yugoslavia's Digital Twin: when a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 * [2023-10-27, 03:23:13](https://news.ycombinator.com/item?id=38034368) - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
 * [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [Kaspersky: How to Catch a Wild Triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
