@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 19:58:47](https://news.ycombinator.com/item?id=38043177) - [Gaza Strip internet cut off following Israeli airstrikes](https://www.theverge.com/2023/10/27/23935229/gaza-israel-internet-outage-connectivity-telecom-blackout)
+* [2023-10-27, 19:58:26](https://news.ycombinator.com/item?id=38043173) - [iPods now considered vintage tech–so of course sold out at Urban Outfitters](https://www.fastcompany.com/90974412/apple-ipods-vintage-tech-urban-outfitters-selling)
+* [2023-10-27, 19:54:25](https://news.ycombinator.com/item?id=38043127) - [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
+* [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
+* [2023-10-27, 19:29:15](https://news.ycombinator.com/item?id=38042814) - [Ask HN: Recommendations for Visiting the Japanese Countryside](https://news.ycombinator.com/item?id=38042814)
 * [2023-10-27, 19:22:23](https://news.ycombinator.com/item?id=38042732) - [California population drain: State is hemorrhaging residents to other states](https://www.cbsnews.com/sanfrancisco/news/california-population-drain-state-is-hemorrhaging-residents-texas-arizona/)
 * [2023-10-27, 19:07:44](https://news.ycombinator.com/item?id=38042590) - [Quadcopters Can Now Visually Track Targets More Effectively](https://mosfet.net/quadcopters-can-now-visually-track-targets-more-effectively/)
 * [2023-10-27, 19:06:24](https://news.ycombinator.com/item?id=38042574) - [Learn a Foreign Language Before It's Too Late (By Douglas Hofstadter)](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/)
