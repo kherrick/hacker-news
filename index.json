@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 21:45:22",
+      "https://news.ycombinator.com/item?id=38044420"
+    ],
+    [
+      "Can the language of proof assistants be used for general purpose programming?",
+      "https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 21:08:00",
       "https://news.ycombinator.com/item?id=38043955"
     ],
@@ -147,16 +157,6 @@
     [
       "Show HN: Pākiki Proxy – An intercepting proxy for penetration testing",
       "https://pakikiproxy.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 15:23:10",
-      "https://news.ycombinator.com/item?id=38039689"
-    ],
-    [
-      "OpenBSD: Removing syscall(2) from libc and kernel",
-      "https://marc.info/?l=openbsd-tech&m=169841790407370&w=2"
     ]
   ],
   [
