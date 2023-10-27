@@ -31,6 +31,7 @@
 * [2023-10-27, 13:57:00](https://news.ycombinator.com/item?id=38038465) - [A third of chocolate products are high in heavy metals](https://www.consumerreports.org/health/food-safety/a-third-of-chocolate-products-are-high-in-heavy-metals-a4844566398/)
 * [2023-10-27, 13:56:07](https://news.ycombinator.com/item?id=38038458) - [Restaurant in Georgia charging customers a fee for 'bad parenting'](https://abc7.com/bad-parenting-fee-restaurant-toccoa-riverside/13969708/)
 * [2023-10-27, 13:50:14](https://news.ycombinator.com/item?id=38038398) - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)
+* [2023-10-27, 13:34:06](https://news.ycombinator.com/item?id=38038239) - [Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)
 * [2023-10-27, 13:28:35](https://news.ycombinator.com/item?id=38038174) - [How Soap Works: The Science Behind Handwashing](https://www.pfizer.com/news/articles/how_soap_works_the_science_behind_handwashing)
 * [2023-10-27, 13:19:37](https://news.ycombinator.com/item?id=38038066) - [Copying Is Not Theft [video]](https://www.youtube.com/watch?v=IeTybKL1pM4)
 * [2023-10-27, 13:00:54](https://news.ycombinator.com/item?id=38037851) - [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
