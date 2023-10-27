@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 19:06:24](https://news.ycombinator.com/item?id=38042574) - [Learn a Foreign Language Before It's Too Late (By Douglas Hofstadter)](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/)
 * [2023-10-27, 18:37:18](https://news.ycombinator.com/item?id=38042204) - [Many millennials are worse off than their parents](https://vocal.media/families/many-millennials-are-worse-off-than-their-parents-3pke0hir)
-* [2023-10-27, 17:34:09](https://news.ycombinator.com/item?id=38041434) - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
+* [2023-10-27, 18:30:20](https://news.ycombinator.com/item?id=38042114) - [Microsoft is failing to deliver emails that mention newclimate.org](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
 * [2023-10-27, 17:26:54](https://news.ycombinator.com/item?id=38041335) - [Google paid $26.3B in 2021 to be the default search engine](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:32:07](https://news.ycombinator.com/item?id=38040636) - [Why America Doesn't Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
@@ -18,7 +19,6 @@
 * [2023-10-27, 13:34:06](https://news.ycombinator.com/item?id=38038239) - [Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)
 * [2023-10-27, 13:28:35](https://news.ycombinator.com/item?id=38038174) - [How Soap Works: The Science Behind Handwashing](https://www.pfizer.com/news/articles/how_soap_works_the_science_behind_handwashing)
 * [2023-10-27, 13:00:54](https://news.ycombinator.com/item?id=38037851) - [The slow death of authenticity in an attention economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
-* [2023-10-27, 12:32:53](https://news.ycombinator.com/item?id=38037596) - [Why Is the Django Admin \"Ugly\"?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
 * [2023-10-27, 12:11:40](https://news.ycombinator.com/item?id=38037449) - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://mrtornado24.github.io/DreamCraft3D/)
 * [2023-10-27, 11:56:00](https://news.ycombinator.com/item?id=38037338) - [Prompt Engineering Made Easy](https://news.ycombinator.com/item?id=38037338)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)

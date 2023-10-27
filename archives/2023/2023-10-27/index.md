@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 19:06:24](https://news.ycombinator.com/item?id=38042574) - [Learn a Foreign Language Before It's Too Late (By Douglas Hofstadter)](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/)
 * [2023-10-27, 18:37:18](https://news.ycombinator.com/item?id=38042204) - [Many millennials are worse off than their parents](https://vocal.media/families/many-millennials-are-worse-off-than-their-parents-3pke0hir)
 * [2023-10-27, 18:30:20](https://news.ycombinator.com/item?id=38042114) - [Microsoft disrupts email communication across climate change community](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
 * [2023-10-27, 18:03:39](https://news.ycombinator.com/item?id=38041817) - [T-Mobile employee pulled nude photos from customers' phones](https://lawandcrime.com/crime/t-mobile-employee-pulled-hundreds-of-nude-photos-from-customers-phones-and-posted-them-to-the-dark-web-lawsuit/)
