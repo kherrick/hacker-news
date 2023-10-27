@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-10-27, 13:50:14",
-      "https://news.ycombinator.com/item?id=38038398"
-    ],
-    [
-      "Sam Bankman-Fried is going to talk himself right into jail",
-      "https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 13:28:35",
       "https://news.ycombinator.com/item?id=38038174"
     ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38037851"
     ],
     [
-      "The Slow Death of Authenticity in an Attention Economy",
+      "The slow death of authenticity in an attention economy",
       "https://www.coryzue.com/writing/authenticity-and-engagement/"
     ]
   ],
@@ -117,6 +107,16 @@
     [
       "Why Is the Django Admin \"Ugly\"?",
       "https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 12:11:40",
+      "https://news.ycombinator.com/item?id=38037449"
+    ],
+    [
+      "DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
+      "https://mrtornado24.github.io/DreamCraft3D/"
     ]
   ],
   [
