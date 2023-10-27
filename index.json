@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-27, 15:11:34",
-      "https://news.ycombinator.com/item?id=38039516"
-    ],
-    [
-      "Enhancer for YouTube for Firefox is gone",
-      "https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 15:09:14",
       "https://news.ycombinator.com/item?id=38039489"
     ],
@@ -41,12 +31,12 @@
   ],
   [
     [
-      "2023-10-27, 14:15:09",
-      "https://news.ycombinator.com/item?id=38038713"
+      "2023-10-27, 14:16:26",
+      "https://news.ycombinator.com/item?id=38038727"
     ],
     [
-      "Automatic fraud detection is making my life hell",
-      "https://news.ycombinator.com/item?id=38038713"
+      "Leica camera has built-in defense against misleading AI, costs $9,125",
+      "https://arstechnica.com/gadgets/2023/10/leicas-9125-camera-automatically-stores-authenticity-proving-metadata/"
     ]
   ],
   [
@@ -77,16 +67,6 @@
     [
       "US immigration enforcement used AI-powered tool to scan posts derogatory to US",
       "https://www.techspot.com/news/100642-ice-used-ai-powered-tool-scan-social-media.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 13:58:46",
-      "https://news.ycombinator.com/item?id=38038493"
-    ],
-    [
-      "Tesla owner who drove with 'arms folded' cleared of dangerous driving",
-      "https://www.irishtimes.com/crime-law/courts/2023/10/26/tesla-owner-who-drove-with-arms-folded-on-autopilot-on-m50-cleared-of-dangerous-driving/"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2023-10-27, 10:30:53",
+      "https://news.ycombinator.com/item?id=38036801"
+    ],
+    [
+      "0 To 100 kph in 1 second [video]",
+      "https://www.youtube.com/watch?v=XQIu5tZ0vbQ"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 07:25:32",
       "https://news.ycombinator.com/item?id=38035672"
     ],
@@ -207,6 +197,16 @@
     [
       "My 2023 all-flash ZFS NAS (Network Storage) build",
       "https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 04:23:27",
+      "https://news.ycombinator.com/item?id=38034668"
+    ],
+    [
+      "Generating Well-Typed Terms that are not \"Useless\" [pdf]",
+      "https://lemonidas.github.io/pdf/NotUseless.pdf"
     ]
   ],
   [
