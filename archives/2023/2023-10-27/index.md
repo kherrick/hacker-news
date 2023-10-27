@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:44:55](https://news.ycombinator.com/item?id=38044410) - [X Engineering Year Retrospective](https://twitter.com/XEng/status/1717754398410240018)
 * [2023-10-27, 21:15:55](https://news.ycombinator.com/item?id=38044062) - [US asks Qatar to 'turn down the volume' of Al Jazeera news coverage](https://www.theguardian.com/media/2023/oct/27/us-asks-qatar-to-turn-down-the-volume-of-al-jazeera-news-coverage)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
