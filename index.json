@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 16:31:22",
+      "https://news.ycombinator.com/item?id=38040625"
+    ],
+    [
+      "A fast, lightweight, and undetectable YouTube Ads Blocker for Firefox",
+      "https://addons.mozilla.org/en-US/firefox/addon/fadblock/"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 15:54:46",
       "https://news.ycombinator.com/item?id=38040164"
     ],
@@ -27,6 +37,16 @@
     [
       "Grammarly's OAuth Mistakes",
       "https://fusionauth.io/blog/grammarly-proves-ciam-not-optional"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 15:23:10",
+      "https://news.ycombinator.com/item?id=38039689"
+    ],
+    [
+      "OpenBSD: Removing syscall(2) from libc and kernel",
+      "https://marc.info/?l=openbsd-tech&m=169841790407370&w=2"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-10-27, 01:00:39",
-      "https://news.ycombinator.com/item?id=38033524"
-    ],
-    [
-      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff",
-      "https://news.ycombinator.com/item?id=38033524"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 13:14:11",
       "https://news.ycombinator.com/item?id=38025073"
     ],
@@ -287,16 +297,6 @@
     [
       "The Silent Treatment: Solitary Confinement's Unlikely Origins",
       "https://publicdomainreview.org/essay/silent-treatment/"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 02:09:23",
-      "https://news.ycombinator.com/item?id=38020862"
-    ],
-    [
-      "The Moose Boulder Hoax",
-      "https://www.atlasobscura.com/articles/moose-boulder-debunked"
     ]
   ]
 ]
