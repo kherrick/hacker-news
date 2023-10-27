@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-27, 08:54:25](https://news.ycombinator.com/item?id=38036143) - [Tesla threatens to bring in strikebreakers as Swedish workers strike](https://www.thelocal.se/20231027/tesla-threatens-to-bring-in-strikebreakers-as-swedish-workers-strike)
-* [2023-10-27, 08:10:28](https://news.ycombinator.com/item?id=38035930) - [Threads has \"just under\" 100M monthly active users](https://9to5mac.com/2023/10/25/threads-twitter-monthly-active-users/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw beautiful software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
@@ -9,6 +8,7 @@
 * [2023-10-27, 05:04:02](https://news.ycombinator.com/item?id=38034891) - [On Bus Arbitration on the Unibus and QBUS (2017)](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
 * [2023-10-27, 04:23:27](https://news.ycombinator.com/item?id=38034668) - [Generating Well-Typed Terms that are not \"Useless\" [pdf]](https://lemonidas.github.io/pdf/NotUseless.pdf)
 * [2023-10-27, 03:38:10](https://news.ycombinator.com/item?id=38034435) - [Yugoslavia's Digital Twin – When a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
+* [2023-10-27, 03:23:13](https://news.ycombinator.com/item?id=38034368) - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
 * [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
 * [2023-10-27, 02:55:34](https://news.ycombinator.com/item?id=38034184) - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
 * [2023-10-27, 01:00:39](https://news.ycombinator.com/item?id=38033524) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
