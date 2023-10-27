@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 14:00:13](https://news.ycombinator.com/item?id=38038512) - [US immigration enforcement used AI-powered tool to scan posts derogatory to US](https://www.techspot.com/news/100642-ice-used-ai-powered-tool-scan-social-media.html)
+* [2023-10-27, 13:58:46](https://news.ycombinator.com/item?id=38038493) - [Tesla owner who drove with 'arms folded' cleared of dangerous driving](https://www.irishtimes.com/crime-law/courts/2023/10/26/tesla-owner-who-drove-with-arms-folded-on-autopilot-on-m50-cleared-of-dangerous-driving/)
+* [2023-10-27, 13:57:00](https://news.ycombinator.com/item?id=38038465) - [A third of chocolate products are high in heavy metals](https://www.consumerreports.org/health/food-safety/a-third-of-chocolate-products-are-high-in-heavy-metals-a4844566398/)
+* [2023-10-27, 13:56:07](https://news.ycombinator.com/item?id=38038458) - [Restaurant in Georgia charging customers a fee for 'bad parenting'](https://abc7.com/bad-parenting-fee-restaurant-toccoa-riverside/13969708/)
 * [2023-10-27, 13:50:14](https://news.ycombinator.com/item?id=38038398) - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)
 * [2023-10-27, 13:28:35](https://news.ycombinator.com/item?id=38038174) - [How Soap Works: The Science Behind Handwashing](https://www.pfizer.com/news/articles/how_soap_works_the_science_behind_handwashing)
 * [2023-10-27, 13:19:37](https://news.ycombinator.com/item?id=38038066) - [Copying Is Not Theft [video]](https://www.youtube.com/watch?v=IeTybKL1pM4)
@@ -12,6 +16,7 @@
 * [2023-10-27, 12:49:32](https://news.ycombinator.com/item?id=38037739) - [Robotaxis 'do not belong in the city of Los Angeles,' lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
 * [2023-10-27, 12:32:53](https://news.ycombinator.com/item?id=38037596) - [Why Is the Django Admin \"Ugly\"?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
 * [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
+* [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 11:12:20](https://news.ycombinator.com/item?id=38037049) - [Robert E Lee statue that sparked Charlottesville riot is melted down](https://www.theguardian.com/us-news/2023/oct/26/charlottesville-robert-e-lee-melted-confederate-statue)
 * [2023-10-27, 10:51:52](https://news.ycombinator.com/item?id=38036921) - [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
 * [2023-10-27, 10:30:53](https://news.ycombinator.com/item?id=38036801) - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
