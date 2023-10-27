@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 20:56:48](https://news.ycombinator.com/item?id=38043809) - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
+* [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [\"Why Programming Languages Matter\" by Andrew Black [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-27, 20:39:49](https://news.ycombinator.com/item?id=38043619) - [Apple's Scary Fast event could spell the end of its Lightning port](https://www.techradar.com/computing/macs/apples-scary-fast-event-could-spell-the-end-of-its-lightning-port-and-im-ready-for-it)
 * [2023-10-27, 20:35:35](https://news.ycombinator.com/item?id=38043574) - [Android 14's user-profile data bug seems indistinguishable from ransomware](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
 * [2023-10-27, 20:32:07](https://news.ycombinator.com/item?id=38043525) - [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
@@ -21,6 +23,7 @@
 * [2023-10-27, 18:37:18](https://news.ycombinator.com/item?id=38042204) - [Many millennials are worse off than their parents](https://vocal.media/families/many-millennials-are-worse-off-than-their-parents-3pke0hir)
 * [2023-10-27, 18:30:20](https://news.ycombinator.com/item?id=38042114) - [Microsoft disrupts email communication across climate change community](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
 * [2023-10-27, 18:03:39](https://news.ycombinator.com/item?id=38041817) - [T-Mobile employee pulled nude photos from customers' phones](https://lawandcrime.com/crime/t-mobile-employee-pulled-hundreds-of-nude-photos-from-customers-phones-and-posted-them-to-the-dark-web-lawsuit/)
+* [2023-10-27, 17:44:07](https://news.ycombinator.com/item?id=38041551) - [Krita is now available on the macOS store](https://krita.org/en/item/krita-in-stores-update/)
 * [2023-10-27, 17:34:09](https://news.ycombinator.com/item?id=38041434) - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
 * [2023-10-27, 17:26:54](https://news.ycombinator.com/item?id=38041335) - [Google paid $26.3B in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)

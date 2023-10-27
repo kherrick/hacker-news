@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 20:56:48](https://news.ycombinator.com/item?id=38043809) - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
+* [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [\"Why Programming Languages Matter\" by Andrew Black [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-27, 20:39:49](https://news.ycombinator.com/item?id=38043619) - [Apple's Scary Fast event could spell the end of its Lightning port](https://www.techradar.com/computing/macs/apples-scary-fast-event-could-spell-the-end-of-its-lightning-port-and-im-ready-for-it)
 * [2023-10-27, 20:35:35](https://news.ycombinator.com/item?id=38043574) - [Android 14's user-profile data bug seems indistinguishable from ransomware](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
 * [2023-10-27, 20:32:07](https://news.ycombinator.com/item?id=38043525) - [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
@@ -11,11 +13,10 @@
 * [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
 * [2023-10-27, 19:07:44](https://news.ycombinator.com/item?id=38042590) - [Quadcopters Can Now Visually Track Targets More Effectively](https://mosfet.net/quadcopters-can-now-visually-track-targets-more-effectively/)
 * [2023-10-27, 19:06:24](https://news.ycombinator.com/item?id=38042574) - [The downside of AI language translation](https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/)
+* [2023-10-27, 17:44:07](https://news.ycombinator.com/item?id=38041551) - [Krita is now available on the macOS store](https://krita.org/en/item/krita-in-stores-update/)
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:28:09](https://news.ycombinator.com/item?id=38040591) - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
-* [2023-10-27, 16:11:10](https://news.ycombinator.com/item?id=38040391) - [Good LLM Validation Is Just Good Validation](https://jxnl.github.io/instructor/blog/2023/10/23/good-llm-validation-is-just-good-validation/)
-* [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 15:23:10](https://news.ycombinator.com/item?id=38039689) - [OpenBSD: Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
 * [2023-10-27, 14:44:57](https://news.ycombinator.com/item?id=38039133) - [Finding that lead emissions from aircraft engines contribute to air pollution](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
@@ -28,7 +29,6 @@
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 * [2023-10-27, 01:59:23](https://news.ycombinator.com/item?id=38033836) - [OpenAI closes big lease deal at Uber's San Francisco headquarters](https://www.sfchronicle.com/realestate/article/openai-s-f-uber-lease-18451102.php)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
-* [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [The Silent Treatment: Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
 * [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
