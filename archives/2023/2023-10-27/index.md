@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 21:15:55](https://news.ycombinator.com/item?id=38044062) - [US asks Qatar to 'turn down the volume' of Al Jazeera news coverage](https://www.theguardian.com/media/2023/oct/27/us-asks-qatar-to-turn-down-the-volume-of-al-jazeera-news-coverage)
 * [2023-10-27, 20:59:27](https://news.ycombinator.com/item?id=38043842) - [Urban Outfitters is selling 'vintage retro' iPods](https://www.inquirer.com/news/nation-world/urban-outfitters-ipod-apple-selling-mp3-retro-vintage-20231023.html)
 * [2023-10-27, 20:56:48](https://news.ycombinator.com/item?id=38043809) - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
 * [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [\"Why Programming Languages Matter\" by Andrew Black [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-27, 20:41:32](https://news.ycombinator.com/item?id=38043644) - [Exploring Quaternions (2018)](https://eater.net/quaternions)
 * [2023-10-27, 20:39:49](https://news.ycombinator.com/item?id=38043619) - [Apple's Scary Fast event could spell the end of its Lightning port](https://www.techradar.com/computing/macs/apples-scary-fast-event-could-spell-the-end-of-its-lightning-port-and-im-ready-for-it)
 * [2023-10-27, 20:35:35](https://news.ycombinator.com/item?id=38043574) - [Android 14's user-profile data bug seems indistinguishable from ransomware](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
+* [2023-10-27, 20:34:08](https://news.ycombinator.com/item?id=38043552) - [It took seven years but over-40s fired by HP win $18M settlement](https://www.theregister.com/2023/10/27/hp_age_discrimination/)
 * [2023-10-27, 20:32:07](https://news.ycombinator.com/item?id=38043525) - [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
 * [2023-10-27, 20:15:00](https://news.ycombinator.com/item?id=38043341) - [Brev: Start fine-tuning and training models in < 10 minutes](https://brev.dev/)
 * [2023-10-27, 19:59:09](https://news.ycombinator.com/item?id=38043181) - [Bitcoin and carbon dioxide emissions: Evidence from daily production decisions](https://www.sciencedirect.com/science/article/abs/pii/S0047272723001858)
