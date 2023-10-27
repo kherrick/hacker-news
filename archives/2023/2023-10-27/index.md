@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 03:23:13](https://news.ycombinator.com/item?id=38034368) - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
+* [2023-10-27, 02:55:34](https://news.ycombinator.com/item?id=38034184) - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
 * [2023-10-27, 02:31:35](https://news.ycombinator.com/item?id=38034023) - [It's 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
 * [2023-10-27, 02:29:22](https://news.ycombinator.com/item?id=38034011) - [While there are 54 countries in Africa, none of them begin with the letter \"K\"](https://www.google.com/search?q=african+country+that+begins+with+k)
 * [2023-10-27, 01:39:55](https://news.ycombinator.com/item?id=38033736) - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
