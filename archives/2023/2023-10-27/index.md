@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 15:11:34](https://news.ycombinator.com/item?id=38039516) - [Enhancer for YouTube for Firefox is gone](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
+* [2023-10-27, 15:09:14](https://news.ycombinator.com/item?id=38039489) - [The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator](https://twitter.com/MishaalRahman/status/1717916987387469842)
 * [2023-10-27, 14:44:57](https://news.ycombinator.com/item?id=38039133) - [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
 * [2023-10-27, 14:25:42](https://news.ycombinator.com/item?id=38038868) - [US needs much more than the IRA to get to net zero by 2050](https://arstechnica.com/science/2023/10/national-academies-the-ira-is-nice-but-we-need-climate-policy-beyond-2030/)
 * [2023-10-27, 14:15:09](https://news.ycombinator.com/item?id=38038713) - [Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
