@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 13:00:54](https://news.ycombinator.com/item?id=38037851) - [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
 * [2023-10-27, 12:49:32](https://news.ycombinator.com/item?id=38037739) - [Robotaxis 'do not belong in the city of Los Angeles,' lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
 * [2023-10-27, 12:32:53](https://news.ycombinator.com/item?id=38037596) - [Why Is the Django Admin \"Ugly\"?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
 * [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
@@ -26,7 +27,6 @@
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 12:31:58](https://news.ycombinator.com/item?id=38024665) - [Cold war satellite images reveal unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
-* [2023-10-26, 08:51:46](https://news.ycombinator.com/item?id=38023283) - [Temporal Databases (1986) [pdf]](https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf)
 * [2023-10-26, 06:04:39](https://news.ycombinator.com/item?id=38022185) - [How to Leave the House of Lords](https://www.historytoday.com/archive/behind-times/how-leave-house-lords)
 * [2023-10-26, 02:09:23](https://news.ycombinator.com/item?id=38020862) - [The Moose Boulder Hoax](https://www.atlasobscura.com/articles/moose-boulder-debunked)
 * [2023-10-24, 20:05:18](https://news.ycombinator.com/item?id=38004666) - [Monsters in the Middle Ages](https://www.medievalists.net/2023/10/how-to-make-a-monster/)

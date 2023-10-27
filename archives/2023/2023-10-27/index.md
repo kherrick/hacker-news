@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 13:00:54](https://news.ycombinator.com/item?id=38037851) - [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
 * [2023-10-27, 12:49:32](https://news.ycombinator.com/item?id=38037739) - [Robotaxis 'do not belong in the city of Los Angeles,' lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
 * [2023-10-27, 12:32:53](https://news.ycombinator.com/item?id=38037596) - [Why Is the Django Admin \"Ugly\"?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
 * [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
