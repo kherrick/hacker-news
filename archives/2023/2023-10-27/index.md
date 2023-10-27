@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
 * [2023-10-27, 10:30:53](https://news.ycombinator.com/item?id=38036801) - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
+* [2023-10-27, 10:21:50](https://news.ycombinator.com/item?id=38036740) - [Some Pirate Sites Received More Visitors After Being Blocked](https://torrentfreak.com/some-pirate-sites-received-more-visitors-after-being-blocked-231027/)
 * [2023-10-27, 09:17:18](https://news.ycombinator.com/item?id=38036286) - [ECB holds key interest rate at 4%](https://www.ft.com/content/56477a7a-ac0a-454c-b690-1fb5738a7f69)
 * [2023-10-27, 09:10:48](https://news.ycombinator.com/item?id=38036236) - [Public Statement: Scholars Warn of Potential Genocide in Gaza](https://twailr.com/public-statement-scholars-warn-of-potential-genocide-in-gaza/)
 * [2023-10-27, 09:04:33](https://news.ycombinator.com/item?id=38036203) - [Self-Signed locally trusted certificates with cert-manager](https://skarlso.github.io/2023/10/25/self-signed-locally-trusted-certificates-with-cert-manager/)

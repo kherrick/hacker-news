@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-27, 10:30:53](https://news.ycombinator.com/item?id=38036801) - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
+* [2023-10-27, 10:21:50](https://news.ycombinator.com/item?id=38036740) - [Some Pirate Sites Received More Visitors After Being Blocked](https://torrentfreak.com/some-pirate-sites-received-more-visitors-after-being-blocked-231027/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw beautiful software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
@@ -19,7 +20,6 @@
 * [2023-10-26, 21:19:22](https://news.ycombinator.com/item?id=38031839) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 20:32:35](https://news.ycombinator.com/item?id=38031342) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [Takkyu-bin: Luggage forwarding in Japan](https://craigmod.com/ridgeline/170/)
-* [2023-10-26, 18:37:24](https://news.ycombinator.com/item?id=38029893) - [Roombas at the end of the world](https://spectrum.ieee.org/south-pole-roombas)
 * [2023-10-26, 18:21:42](https://news.ycombinator.com/item?id=38029671) - [Making PostgreSQL tick: New features in pg_cron](https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/)
 * [2023-10-26, 16:07:24](https://news.ycombinator.com/item?id=38027587) - [How bioelectricity could regrow limbs and organs](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
