@@ -11,6 +11,7 @@
 * [2023-10-26, 21:19:22](https://news.ycombinator.com/item?id=38031839) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 20:57:27](https://news.ycombinator.com/item?id=38031593) - [Atrocity Propaganda](https://en.wikipedia.org/wiki/Atrocity_propaganda)
 * [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
+* [2023-10-26, 20:34:48](https://news.ycombinator.com/item?id=38031363) - [Poll: What are the gender demographics of HN?](https://news.ycombinator.com/item?id=38031363)
 * [2023-10-26, 20:34:35](https://news.ycombinator.com/item?id=38031361) - [Linux Mint Working on Wayland Support](https://blog.linuxmint.com/?p=4591)
 * [2023-10-26, 20:32:35](https://news.ycombinator.com/item?id=38031342) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
