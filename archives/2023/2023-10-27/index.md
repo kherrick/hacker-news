@@ -20,6 +20,7 @@
 * [2023-10-27, 12:53:49](https://news.ycombinator.com/item?id=38037779) - [Patching the libwebp vulnerability across the Python ecosystem](https://sethmlarson.dev/security-developer-in-residence-weekly-report-16)
 * [2023-10-27, 12:49:32](https://news.ycombinator.com/item?id=38037739) - [Robotaxis 'do not belong in the city of Los Angeles,' lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
 * [2023-10-27, 12:32:53](https://news.ycombinator.com/item?id=38037596) - [Why Is the Django Admin \"Ugly\"?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
+* [2023-10-27, 12:11:40](https://news.ycombinator.com/item?id=38037449) - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://mrtornado24.github.io/DreamCraft3D/)
 * [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 11:12:20](https://news.ycombinator.com/item?id=38037049) - [Robert E Lee statue that sparked Charlottesville riot is melted down](https://www.theguardian.com/us-news/2023/oct/26/charlottesville-robert-e-lee-melted-confederate-statue)
