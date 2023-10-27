@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 19:59:09](https://news.ycombinator.com/item?id=38043181) - [Bitcoin and carbon dioxide emissions: Evidence from daily production decisions](https://www.sciencedirect.com/science/article/abs/pii/S0047272723001858)
 * [2023-10-27, 19:58:47](https://news.ycombinator.com/item?id=38043177) - [Gaza Strip internet cut off following Israeli airstrikes](https://www.theverge.com/2023/10/27/23935229/gaza-israel-internet-outage-connectivity-telecom-blackout)
 * [2023-10-27, 19:58:26](https://news.ycombinator.com/item?id=38043173) - [iPods now considered vintage tech–so of course sold out at Urban Outfitters](https://www.fastcompany.com/90974412/apple-ipods-vintage-tech-urban-outfitters-selling)
 * [2023-10-27, 19:54:25](https://news.ycombinator.com/item?id=38043127) - [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
