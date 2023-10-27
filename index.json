@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 21:44:55",
+      "https://news.ycombinator.com/item?id=38044410"
+    ],
+    [
+      "X Engineering Year Retrospective",
+      "https://twitter.com/XEng/status/1717754398410240018"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 21:08:00",
       "https://news.ycombinator.com/item?id=38043955"
     ],
@@ -11,42 +21,12 @@
   ],
   [
     [
-      "2023-10-27, 21:05:36",
-      "https://news.ycombinator.com/item?id=38043915"
-    ],
-    [
-      "Apple's private Mac addresses didn't work until iOS 17.1",
-      "https://appleinsider.com/articles/23/10/27/apples-private-wi-fi-mac-addresses-were-security-theater-until-ios-171"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 20:59:27",
-      "https://news.ycombinator.com/item?id=38043842"
-    ],
-    [
-      "Urban Outfitters is selling 'vintage retro' iPods",
-      "https://www.inquirer.com/news/nation-world/urban-outfitters-ipod-apple-selling-mp3-retro-vintage-20231023.html"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 20:56:48",
       "https://news.ycombinator.com/item?id=38043809"
     ],
     [
       "SDRangel: Explore the electromagnetic spectrum with open source SDR software",
       "https://github.com/f4exb/sdrangel"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 20:56:37",
-      "https://news.ycombinator.com/item?id=38043807"
-    ],
-    [
-      "X launches two new subscriptions to boost your replies",
-      "https://www.theverge.com/2023/10/27/23935317/x-premium-basic-subscriptions-reply-boost-no-ads"
     ]
   ],
   [
@@ -71,22 +51,22 @@
   ],
   [
     [
-      "2023-10-27, 20:39:36",
-      "https://news.ycombinator.com/item?id=38043617"
-    ],
-    [
-      "Walgreens, CVS pharmacy staff at breaking point: here's what their days are like",
-      "https://www.cnbc.com/2023/10/27/walgreens-cvs-pharmacy-staff-walkouts-what-their-work-days-look-like.html"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 20:35:35",
       "https://news.ycombinator.com/item?id=38043574"
     ],
     [
       "Android 14's user-profile data bug seems indistinguishable from ransomware",
       "https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 20:34:18",
+      "https://news.ycombinator.com/item?id=38043555"
+    ],
+    [
+      "New devices could change the way we measure blood pressure",
+      "https://knowablemagazine.org/article/technology/2023/devices-could-change-how-we-measure-blood-pressure"
     ]
   ],
   [
@@ -141,12 +121,12 @@
   ],
   [
     [
-      "2023-10-27, 17:44:07",
-      "https://news.ycombinator.com/item?id=38041551"
+      "2023-10-27, 19:06:24",
+      "https://news.ycombinator.com/item?id=38042574"
     ],
     [
-      "Krita is now available on the macOS store",
-      "https://krita.org/en/item/krita-in-stores-update/"
+      "The downside of AI language translation",
+      "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "'Not of faculty quality': How Penn mistreated Katalin Karikó",
       "https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 15:54:46",
+      "https://news.ycombinator.com/item?id=38040164"
+    ],
+    [
+      "18-year-old built a computer monitor that doesn't strain your eyes",
+      "https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2023-10-26, 21:59:53",
+      "https://news.ycombinator.com/item?id=38032253"
+    ],
+    [
+      "iPhones have been exposing MAC addresses despite Apple’s promises otherwise",
+      "https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 13:14:11",
       "https://news.ycombinator.com/item?id=38025073"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-10-25, 21:10:15",
-      "https://news.ycombinator.com/item?id=38018429"
+      "2023-10-26, 04:00:41",
+      "https://news.ycombinator.com/item?id=38021463"
     ],
     [
-      "DM1 by Colin Skelton [pdf]",
-      "http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf"
+      "Solitary Confinement's Unlikely Origins",
+      "https://publicdomainreview.org/essay/silent-treatment/"
     ]
   ]
 ]
