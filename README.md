@@ -4,7 +4,7 @@
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:32:07](https://news.ycombinator.com/item?id=38040636) - [Why America Doesn't Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
 * [2023-10-27, 16:28:09](https://news.ycombinator.com/item?id=38040591) - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
-* [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Nobel Prize-winning researcher](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
+* [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
 * [2023-10-27, 16:11:10](https://news.ycombinator.com/item?id=38040391) - [Good LLM Validation Is Just Good Validation](https://jxnl.github.io/instructor/blog/2023/10/23/good-llm-validation-is-just-good-validation/)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 15:31:33](https://news.ycombinator.com/item?id=38039831) - [Grammarly's OAuth Mistakes](https://fusionauth.io/blog/grammarly-proves-ciam-not-optional)
@@ -26,8 +26,8 @@
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw beautiful software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 * [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
+* [2023-10-27, 01:00:39](https://news.ycombinator.com/item?id=38033524) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
-* [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [The Silent Treatment: Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
 * [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
