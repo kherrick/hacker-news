@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-10-27, 15:54:46",
+      "https://news.ycombinator.com/item?id=38040164"
+    ],
+    [
+      "18-year-old built a better computer monitor that doesn't strain your eyes",
+      "https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 15:35:49",
+      "https://news.ycombinator.com/item?id=38039905"
+    ],
+    [
+      "Show HN: Pākiki Proxy – An intercepting proxy for penetration testing",
+      "https://pakikiproxy.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 15:31:33",
+      "https://news.ycombinator.com/item?id=38039831"
+    ],
+    [
+      "Grammarly's OAuth Mistakes",
+      "https://fusionauth.io/blog/grammarly-proves-ciam-not-optional"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 15:09:14",
       "https://news.ycombinator.com/item?id=38039489"
     ],
     [
       "The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator",
       "https://twitter.com/MishaalRahman/status/1717916987387469842"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 14:49:45",
+      "https://news.ycombinator.com/item?id=38039214"
+    ],
+    [
+      "Unprecedented Cryptosporidium Outbreak in UK",
+      "https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/"
     ]
   ],
   [
@@ -111,6 +151,16 @@
   ],
   [
     [
+      "2023-10-27, 12:30:12",
+      "https://news.ycombinator.com/item?id=38037574"
+    ],
+    [
+      "\"Useless Ruby sugar\": Pattern matching (Pt. 2)",
+      "https://zverok.space/blog/2023-10-27-syntax-sugar2-pattern-matching-cont.html"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 12:11:40",
       "https://news.ycombinator.com/item?id=38037449"
     ],
@@ -151,12 +201,12 @@
   ],
   [
     [
-      "2023-10-27, 10:30:53",
-      "https://news.ycombinator.com/item?id=38036801"
+      "2023-10-27, 10:03:01",
+      "https://news.ycombinator.com/item?id=38036599"
     ],
     [
-      "0 To 100 kph in 1 second [video]",
-      "https://www.youtube.com/watch?v=XQIu5tZ0vbQ"
+      "Intro to Semantic Kernel – Part Five",
+      "https://blog.brakmic.com/intro-to-semantic-kernel-part-five/"
     ]
   ],
   [
@@ -181,26 +231,6 @@
   ],
   [
     [
-      "2023-10-27, 05:04:02",
-      "https://news.ycombinator.com/item?id=38034891"
-    ],
-    [
-      "On Bus Arbitration on the Unibus and QBUS (2017)",
-      "http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 04:48:11",
-      "https://news.ycombinator.com/item?id=38034797"
-    ],
-    [
-      "My 2023 all-flash ZFS NAS (Network Storage) build",
-      "https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 04:23:27",
       "https://news.ycombinator.com/item?id=38034668"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2023-10-27, 02:55:34",
-      "https://news.ycombinator.com/item?id=38034184"
-    ],
-    [
-      "My Left Kidney",
-      "https://www.astralcodexten.com/p/my-left-kidney"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 01:00:39",
       "https://news.ycombinator.com/item?id=38033524"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-10-27, 00:36:45",
-      "https://news.ycombinator.com/item?id=38033385"
-    ],
-    [
-      "Ceasing print publication of ACM journals and transactions",
-      "https://www.acm.org/publications/ceasing-print"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 22:03:07",
       "https://news.ycombinator.com/item?id=38032288"
     ],
     [
       "Interactive intro to shaders",
       "https://www.mayerowitz.io/blog/a-journey-into-shaders"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 22:00:16",
-      "https://news.ycombinator.com/item?id=38032257"
-    ],
-    [
-      "WebSDR – Internet-connected Software-Defined Radios",
-      "http://www.websdr.org/"
     ]
   ],
   [
