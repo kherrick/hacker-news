@@ -28,6 +28,7 @@
 * [2023-10-26, 17:58:05](https://news.ycombinator.com/item?id=38029307) - [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
 * [2023-10-26, 17:34:33](https://news.ycombinator.com/item?id=38028927) - [Tesla Model X Owner Has Had Enough of Minimalism, Adds Physical Buttons](https://insideevs.com/news/693231/tesla-model-x-owner-has-had-enough-minimalism-adds-physical-buttons/)
 * [2023-10-26, 17:02:09](https://news.ycombinator.com/item?id=38028480) - [Next.js 14](https://nextjs.org/blog/next-14)
+* [2023-10-26, 16:58:23](https://news.ycombinator.com/item?id=38028418) - [BP to purchase $100M in Tesla Superchargers](https://spectrumnews1.com/ca/la-west/transportation/2023/10/26/bp-will-purchase--100-million-tesla-superchargers)
 * [2023-10-26, 16:51:35](https://news.ycombinator.com/item?id=38028311) - [Sober-curious movement: Non-alcoholic drink options grow](https://www.ctvnews.ca/lifestyle/major-drink-brands-launch-more-non-alcoholic-drinks-as-sober-curious-trend-grows-1.6617761)
 * [2023-10-26, 16:45:48](https://news.ycombinator.com/item?id=38028214) - [X Won't Demonetize Russell Brand, the Company Tells Pro-Censorship British MPs](https://reclaimthenet.org/x-wont-demonetize-russell-brand)
 * [2023-10-26, 16:44:47](https://news.ycombinator.com/item?id=38028196) - [Pro-Palestinian Instagram account locked by Meta for 'security reasons'](https://www.theguardian.com/technology/2023/oct/26/pro-palestinian-instagram-account-locked-by-meta-for-security-reasons)
