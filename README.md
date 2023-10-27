@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 14:04:59](https://news.ycombinator.com/item?id=38038565) - [How Rich Is Taylor Swift? [video]](https://www.bloomberg.com/news/videos/2023-10-26/just-how-rich-is-taylor-swift-we-did-the-math-video)
 * [2023-10-27, 14:00:13](https://news.ycombinator.com/item?id=38038512) - [US immigration enforcement used AI-powered tool to scan posts derogatory to US](https://www.techspot.com/news/100642-ice-used-ai-powered-tool-scan-social-media.html)
 * [2023-10-27, 13:58:46](https://news.ycombinator.com/item?id=38038493) - [Tesla owner who drove with 'arms folded' cleared of dangerous driving](https://www.irishtimes.com/crime-law/courts/2023/10/26/tesla-owner-who-drove-with-arms-folded-on-autopilot-on-m50-cleared-of-dangerous-driving/)
 * [2023-10-27, 13:57:00](https://news.ycombinator.com/item?id=38038465) - [A third of chocolate products are high in heavy metals](https://www.consumerreports.org/health/food-safety/a-third-of-chocolate-products-are-high-in-heavy-metals-a4844566398/)
@@ -26,7 +27,6 @@
 * [2023-10-27, 00:36:45](https://news.ycombinator.com/item?id=38033385) - [Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
 * [2023-10-26, 22:03:07](https://news.ycombinator.com/item?id=38032288) - [Interactive intro to shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – Internet-connected Software-Defined Radios](http://www.websdr.org/)
-* [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [Takkyu-bin: Luggage forwarding in Japan](https://craigmod.com/ridgeline/170/)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 06:04:39](https://news.ycombinator.com/item?id=38022185) - [How to Leave the House of Lords](https://www.historytoday.com/archive/behind-times/how-leave-house-lords)
 * [2023-10-26, 02:09:23](https://news.ycombinator.com/item?id=38020862) - [The Moose Boulder Hoax](https://www.atlasobscura.com/articles/moose-boulder-debunked)
