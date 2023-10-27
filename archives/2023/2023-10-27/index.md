@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 08:10:28](https://news.ycombinator.com/item?id=38035930) - [Threads has \"just under\" 100M monthly active users](https://9to5mac.com/2023/10/25/threads-twitter-monthly-active-users/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 * [2023-10-27, 05:18:42](https://news.ycombinator.com/item?id=38034964) - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
