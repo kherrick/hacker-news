@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
+* [2023-10-27, 10:51:52](https://news.ycombinator.com/item?id=38036921) - [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
 * [2023-10-27, 10:30:53](https://news.ycombinator.com/item?id=38036801) - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
 * [2023-10-27, 10:21:50](https://news.ycombinator.com/item?id=38036740) - [Some Pirate Sites Received More Visitors After Being Blocked](https://torrentfreak.com/some-pirate-sites-received-more-visitors-after-being-blocked-231027/)
 * [2023-10-27, 09:17:18](https://news.ycombinator.com/item?id=38036286) - [ECB holds key interest rate at 4%](https://www.ft.com/content/56477a7a-ac0a-454c-b690-1fb5738a7f69)
@@ -9,7 +11,6 @@
 * [2023-10-27, 05:04:02](https://news.ycombinator.com/item?id=38034891) - [On Bus Arbitration on the Unibus and QBUS (2017)](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
 * [2023-10-27, 04:48:11](https://news.ycombinator.com/item?id=38034797) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
 * [2023-10-27, 04:23:27](https://news.ycombinator.com/item?id=38034668) - [Generating Well-Typed Terms that are not \"Useless\" [pdf]](https://lemonidas.github.io/pdf/NotUseless.pdf)
-* [2023-10-27, 03:38:10](https://news.ycombinator.com/item?id=38034435) - [Yugoslavia's Digital Twin – When a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 * [2023-10-27, 03:23:13](https://news.ycombinator.com/item?id=38034368) - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
 * [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
 * [2023-10-27, 02:55:34](https://news.ycombinator.com/item?id=38034184) - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
@@ -18,7 +19,6 @@
 * [2023-10-26, 22:03:07](https://news.ycombinator.com/item?id=38032288) - [Interactive intro to shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – Internet-connected Software-Defined Radios](http://www.websdr.org/)
 * [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
-* [2023-10-26, 21:19:22](https://news.ycombinator.com/item?id=38031839) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [Takkyu-bin: Luggage forwarding in Japan](https://craigmod.com/ridgeline/170/)
 * [2023-10-26, 18:21:42](https://news.ycombinator.com/item?id=38029671) - [Making PostgreSQL tick: New features in pg_cron](https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/)
 * [2023-10-26, 16:07:24](https://news.ycombinator.com/item?id=38027587) - [How bioelectricity could regrow limbs and organs](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)

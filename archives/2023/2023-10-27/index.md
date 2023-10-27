@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
+* [2023-10-27, 10:51:52](https://news.ycombinator.com/item?id=38036921) - [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
 * [2023-10-27, 10:30:53](https://news.ycombinator.com/item?id=38036801) - [0 To 100 kph in 1 second](https://www.youtube.com/watch?v=XQIu5tZ0vbQ)
 * [2023-10-27, 10:21:50](https://news.ycombinator.com/item?id=38036740) - [Some Pirate Sites Received More Visitors After Being Blocked](https://torrentfreak.com/some-pirate-sites-received-more-visitors-after-being-blocked-231027/)
 * [2023-10-27, 09:17:18](https://news.ycombinator.com/item?id=38036286) - [ECB holds key interest rate at 4%](https://www.ft.com/content/56477a7a-ac0a-454c-b690-1fb5738a7f69)
