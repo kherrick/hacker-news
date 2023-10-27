@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 18:30:20](https://news.ycombinator.com/item?id=38042114) - [Microsoft disrupts email communication across climate change community](https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the)
 * [2023-10-27, 18:03:39](https://news.ycombinator.com/item?id=38041817) - [T-Mobile employee pulled nude photos from customers' phones](https://lawandcrime.com/crime/t-mobile-employee-pulled-hundreds-of-nude-photos-from-customers-phones-and-posted-them-to-the-dark-web-lawsuit/)
+* [2023-10-27, 17:34:09](https://news.ycombinator.com/item?id=38041434) - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
 * [2023-10-27, 17:26:54](https://news.ycombinator.com/item?id=38041335) - [Google paid $26.3B in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:32:07](https://news.ycombinator.com/item?id=38040636) - [Why America Doesn't Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
@@ -20,6 +22,7 @@
 * [2023-10-27, 15:09:14](https://news.ycombinator.com/item?id=38039489) - [The Xiaomi 14 with the new Snapdragon 8 Gen 3 has a 32 to 64-bit translator](https://twitter.com/MishaalRahman/status/1717916987387469842)
 * [2023-10-27, 14:49:45](https://news.ycombinator.com/item?id=38039214) - [Unprecedented Cryptosporidium Outbreak in UK](https://arstechnica.com/health/2023/10/the-uk-is-bursting-with-diarrheal-disease-cases-3x-higher-than-usual/)
 * [2023-10-27, 14:44:57](https://news.ycombinator.com/item?id=38039133) - [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
+* [2023-10-27, 14:34:35](https://news.ycombinator.com/item?id=38038986) - [Show HN: A local Python prototyping tool for Jupyter and Streamlit](https://github.com/galenmarchetti/jupyter-notebook-package)
 * [2023-10-27, 14:25:42](https://news.ycombinator.com/item?id=38038868) - [US needs much more than the IRA to get to net zero by 2050](https://arstechnica.com/science/2023/10/national-academies-the-ira-is-nice-but-we-need-climate-policy-beyond-2030/)
 * [2023-10-27, 14:16:26](https://news.ycombinator.com/item?id=38038727) - [Leica camera has built-in defense against misleading AI, costs $9,125](https://arstechnica.com/gadgets/2023/10/leicas-9125-camera-automatically-stores-authenticity-proving-metadata/)
 * [2023-10-27, 14:15:09](https://news.ycombinator.com/item?id=38038713) - [Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
