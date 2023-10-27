@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 03:38:10](https://news.ycombinator.com/item?id=38034435) - [Yugoslavia's Digital Twin: when a country's internet domain outlives the nation](https://www.thedial.world/issue-9/yugolsav-wars-yu-domain-history-icann)
 * [2023-10-27, 03:23:13](https://news.ycombinator.com/item?id=38034368) - [Limewash (2005) [pdf]](https://www.lime.org/documents/lime_basics/limewash.pdf)
+* [2023-10-27, 03:05:37](https://news.ycombinator.com/item?id=38034269) - [Kaspersky: How to Catch a Wild Triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
 * [2023-10-27, 02:55:34](https://news.ycombinator.com/item?id=38034184) - [My Left Kidney](https://www.astralcodexten.com/p/my-left-kidney)
-* [2023-10-27, 01:39:55](https://news.ycombinator.com/item?id=38033736) - [Cruise pauses driverless operations across all cities](https://twitter.com/Cruise/status/1717707807460393022)
 * [2023-10-27, 01:00:39](https://news.ycombinator.com/item?id=38033524) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38033524)
 * [2023-10-27, 00:36:45](https://news.ycombinator.com/item?id=38033385) - [Ceasing print publication of ACM journals and transactions](https://www.acm.org/publications/ceasing-print)
 * [2023-10-26, 22:03:07](https://news.ycombinator.com/item?id=38032288) - [Interactive intro to shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
@@ -21,7 +22,6 @@
 * [2023-10-26, 16:04:24](https://news.ycombinator.com/item?id=38027533) - [Could a near-Earth asteroid be a piece of the moon?](https://www.spacechatter.com/2023/10/25/moon-fragment-near-earth-asteroid-kamooalewa/)
 * [2023-10-26, 15:18:24](https://news.ycombinator.com/item?id=38026736) - [I2P: End-to-end encrypted and anonymous internet](https://github.com/PurpleI2P/i2pd)
 * [2023-10-26, 14:47:40](https://news.ycombinator.com/item?id=38026308) - [AirportSim](https://airportsim.com/)
-* [2023-10-26, 14:23:54](https://news.ycombinator.com/item?id=38025998) - [Exclusive hardwood may be illegally harvested](https://www.chalmers.se/en/current/news/75-percent-of-exclusive-hardwood-may-be-illegally-harvested,c3863187/)
 * [2023-10-26, 14:06:45](https://news.ycombinator.com/item?id=38025767) - [The negative impact of mobile-first web design on desktop](https://www.nngroup.com/articles/content-dispersion/)
 * [2023-10-26, 13:41:16](https://news.ycombinator.com/item?id=38025381) - [What happens when you vectorize wide PyTorch expressions?](https://probablymarcus.com/blocks/2023/10/19/vectorizing-wide-pytorch-expressions.html)
 * [2023-10-26, 12:57:25](https://news.ycombinator.com/item?id=38024899) - [Mars has a layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
