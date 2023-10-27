@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
+* [2023-10-27, 16:32:07](https://news.ycombinator.com/item?id=38040636) - [Why America Doesn't Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
 * [2023-10-27, 16:31:22](https://news.ycombinator.com/item?id=38040625) - [A fast, lightweight, and undetectable YouTube Ads Blocker for Firefox](https://addons.mozilla.org/en-US/firefox/addon/fadblock/)
 * [2023-10-27, 16:28:09](https://news.ycombinator.com/item?id=38040591) - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Nobel Prize-winning researcher](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
+* [2023-10-27, 16:11:10](https://news.ycombinator.com/item?id=38040391) - [Good LLM Validation Is Just Good Validation](https://jxnl.github.io/instructor/blog/2023/10/23/good-llm-validation-is-just-good-validation/)
 * [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a better computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 15:31:33](https://news.ycombinator.com/item?id=38039831) - [Grammarly's OAuth Mistakes](https://fusionauth.io/blog/grammarly-proves-ciam-not-optional)
