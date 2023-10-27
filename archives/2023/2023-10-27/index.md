@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 * [2023-10-27, 05:18:42](https://news.ycombinator.com/item?id=38034964) - [Apple Faces Potential Watch Import Ban After Federal Trade Ruling](https://www.wsj.com/tech/apple-faces-potential-watch-import-ban-after-federal-trade-ruling-09cdfccd)
 * [2023-10-27, 05:04:02](https://news.ycombinator.com/item?id=38034891) - [On Bus Arbitration on the Unibus and QBUS (2017)](http://www.froghouse.org/~dab/papers/bus-arbitration/bus-arbitration.html)
