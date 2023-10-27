@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 23:03:49](https://news.ycombinator.com/item?id=38045112) - [Scientists Simulate Backward Time Travel Using Quantum Entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
 * [2023-10-27, 22:45:54](https://news.ycombinator.com/item?id=38044973) - [King Charles III signs off on Online Safety Act with unenforceable spying clause](https://www.theregister.com/2023/10/27/online_safety_act_charles/)
+* [2023-10-27, 22:36:25](https://news.ycombinator.com/item?id=38044892) - [Pissed of AA customer writes pull request against all their operations](https://blog.phor.net/2023/10/19/American-Airlines-also-known-as-policy)
 * [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:44:55](https://news.ycombinator.com/item?id=38044410) - [X Engineering Year Retrospective](https://twitter.com/XEng/status/1717754398410240018)
 * [2023-10-27, 21:15:55](https://news.ycombinator.com/item?id=38044062) - [US asks Qatar to 'turn down the volume' of Al Jazeera news coverage](https://www.theguardian.com/media/2023/oct/27/us-asks-qatar-to-turn-down-the-volume-of-al-jazeera-news-coverage)
