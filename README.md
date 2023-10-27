@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-27, 20:59:27](https://news.ycombinator.com/item?id=38043842) - [Urban Outfitters is selling 'vintage retro' iPods](https://www.inquirer.com/news/nation-world/urban-outfitters-ipod-apple-selling-mp3-retro-vintage-20231023.html)
 * [2023-10-27, 20:56:48](https://news.ycombinator.com/item?id=38043809) - [SDRangel: Explore the electromagnetic spectrum with open source SDR software](https://github.com/f4exb/sdrangel)
 * [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [\"Why Programming Languages Matter\" by Andrew Black [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
+* [2023-10-27, 20:41:32](https://news.ycombinator.com/item?id=38043644) - [Exploring Quaternions (2018)](https://eater.net/quaternions)
 * [2023-10-27, 20:39:49](https://news.ycombinator.com/item?id=38043619) - [Apple's Scary Fast event could spell the end of its Lightning port](https://www.techradar.com/computing/macs/apples-scary-fast-event-could-spell-the-end-of-its-lightning-port-and-im-ready-for-it)
 * [2023-10-27, 20:35:35](https://news.ycombinator.com/item?id=38043574) - [Android 14's user-profile data bug seems indistinguishable from ransomware](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
-* [2023-10-27, 20:32:07](https://news.ycombinator.com/item?id=38043525) - [YouTube Begins Blocking Users Who Use Adblock](https://support.google.com/youtube/answer/14129599?hl=en)
 * [2023-10-27, 20:15:00](https://news.ycombinator.com/item?id=38043341) - [Brev: Start fine-tuning and training models in < 10 minutes](https://brev.dev/)
 * [2023-10-27, 19:59:09](https://news.ycombinator.com/item?id=38043181) - [Bitcoin and carbon dioxide emissions: Evidence from daily production decisions](https://www.sciencedirect.com/science/article/abs/pii/S0047272723001858)
-* [2023-10-27, 19:58:26](https://news.ycombinator.com/item?id=38043173) - [iPods now considered vintage tech–so of course sold out at Urban Outfitters](https://www.fastcompany.com/90974412/apple-ipods-vintage-tech-urban-outfitters-selling)
+* [2023-10-27, 19:58:26](https://news.ycombinator.com/item?id=38043173) - [iPods now considered vintage tech– so of course sold out at Urban Outfitters](https://www.fastcompany.com/90974412/apple-ipods-vintage-tech-urban-outfitters-selling)
 * [2023-10-27, 19:54:25](https://news.ycombinator.com/item?id=38043127) - [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
@@ -29,7 +30,6 @@
 * [2023-10-27, 06:57:37](https://news.ycombinator.com/item?id=38035505) - [How to draw software architecture diagrams (2022)](https://terrastruct.com/blog/post/draw-software-architecture-diagrams/)
 * [2023-10-27, 01:59:23](https://news.ycombinator.com/item?id=38033836) - [OpenAI closes big lease deal at Uber's San Francisco headquarters](https://www.sfchronicle.com/realestate/article/openai-s-f-uber-lease-18451102.php)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
-* [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
 
