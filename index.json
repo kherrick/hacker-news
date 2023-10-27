@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-10-26, 12:01:48",
-      "https://news.ycombinator.com/item?id=38024418"
-    ],
-    [
-      "Hilbert curve: The space filling curve drawn with JavaScript",
-      "http://jsxgraph.uni-bayreuth.de/wiki/index.php/Hilbert_curve"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 10:43:59",
       "https://news.ycombinator.com/item?id=38023891"
     ],
@@ -277,6 +267,16 @@
     [
       "Temporal Databases (1986) [pdf]",
       "https://www2.cs.arizona.edu/~rts/pubs/Computer.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 18:04:45",
+      "https://news.ycombinator.com/item?id=38016028"
+    ],
+    [
+      "Porting Linux Pledge to Go",
+      "https://flak.tedunangst.com/post/porting-linux-pledge-to-go"
     ]
   ],
   [
