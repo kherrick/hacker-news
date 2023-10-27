@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-27, 09:10:48](https://news.ycombinator.com/item?id=38036236) - [Public Statement: Scholars Warn of Potential Genocide in Gaza](https://twailr.com/public-statement-scholars-warn-of-potential-genocide-in-gaza/)
+* [2023-10-27, 08:54:25](https://news.ycombinator.com/item?id=38036143) - [Tesla threatens to bring in strikebreakers as Swedish workers strike](https://www.thelocal.se/20231027/tesla-threatens-to-bring-in-strikebreakers-as-swedish-workers-strike)
 * [2023-10-27, 08:10:28](https://news.ycombinator.com/item?id=38035930) - [Threads has \"just under\" 100M monthly active users](https://9to5mac.com/2023/10/25/threads-twitter-monthly-active-users/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-27, 07:00:04](https://news.ycombinator.com/item?id=38035516) - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
