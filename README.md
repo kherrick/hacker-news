@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-28, 13:30:16](https://news.ycombinator.com/item?id=38049631) - [US halts exports of most civilian firearms for 90 days](https://www.reuters.com/world/us/us-halts-exports-most-civilian-firearms-90-days-2023-10-27/)
-* [2023-10-28, 10:56:39](https://news.ycombinator.com/item?id=38048811) - [The UK's Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
+* [2023-10-28, 12:26:26](https://news.ycombinator.com/item?id=38049287) - [Where is my file's metadata?](https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 * [2023-10-28, 08:22:46](https://news.ycombinator.com/item?id=38048148) - [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
@@ -21,15 +20,16 @@
 * [2023-10-27, 23:03:49](https://news.ycombinator.com/item?id=38045112) - [Scientists simulate backward time travel using quantum entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
 * [2023-10-27, 22:48:25](https://news.ycombinator.com/item?id=38044997) - [Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)
 * [2023-10-27, 22:20:28](https://news.ycombinator.com/item?id=38044757) - [The Mystic Art of Gardening](https://aeon.co/essays/a-rebel-spirit-and-an-artists-eye-russell-pages-landscape-design)
-* [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 * [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [Why programming languages matter [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-27, 20:41:32](https://news.ycombinator.com/item?id=38043644) - [Visualizing quaternions (2018)](https://eater.net/quaternions)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
+* [2023-10-27, 19:36:48](https://news.ycombinator.com/item?id=38042918) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
+* [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
 

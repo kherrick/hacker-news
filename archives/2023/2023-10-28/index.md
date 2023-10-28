@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
 * [2023-10-28, 13:30:16](https://news.ycombinator.com/item?id=38049631) - [US halts exports of most civilian firearms for 90 days](https://www.reuters.com/world/us/us-halts-exports-most-civilian-firearms-90-days-2023-10-27/)
+* [2023-10-28, 12:26:26](https://news.ycombinator.com/item?id=38049287) - [Where is my file's metadata?](https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/)
 * [2023-10-28, 10:56:39](https://news.ycombinator.com/item?id=38048811) - [The UK's Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 * [2023-10-28, 09:18:05](https://news.ycombinator.com/item?id=38048372) - [Israel Helped to Spawn Hamas (2009)](https://www.wsj.com/articles/SB123275572295011847)

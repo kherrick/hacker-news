@@ -41,6 +41,7 @@
 * [2023-10-27, 19:54:25](https://news.ycombinator.com/item?id=38043127) - [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
+* [2023-10-27, 19:36:48](https://news.ycombinator.com/item?id=38042918) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94)
 * [2023-10-27, 19:29:15](https://news.ycombinator.com/item?id=38042814) - [Ask HN: Recommendations for Visiting the Japanese Countryside](https://news.ycombinator.com/item?id=38042814)
 * [2023-10-27, 19:22:23](https://news.ycombinator.com/item?id=38042732) - [California population drain: State is hemorrhaging residents to other states](https://www.cbsnews.com/sanfrancisco/news/california-population-drain-state-is-hemorrhaging-residents-texas-arizona/)
 * [2023-10-27, 19:07:44](https://news.ycombinator.com/item?id=38042590) - [Quadcopters Can Now Visually Track Targets More Effectively](https://mosfet.net/quadcopters-can-now-visually-track-targets-more-effectively/)
