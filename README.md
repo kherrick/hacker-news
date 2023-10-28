@@ -23,13 +23,13 @@
 * [2023-10-27, 20:34:18](https://news.ycombinator.com/item?id=38043555) - [New devices could change the way we measure blood pressure](https://knowablemagazine.org/article/technology/2023/devices-could-change-how-we-measure-blood-pressure)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
-* [2023-10-27, 17:58:19](https://news.ycombinator.com/item?id=38041736) - [Ashby's book \"Introduction to Cybernetics\" (2003)](http://pespmc1.vub.ac.be/ASHBBOOK.html)
-* [2023-10-27, 14:34:35](https://news.ycombinator.com/item?id=38038986) - [Show HN: A local Python prototyping tool for Jupyter and Streamlit](https://github.com/galenmarchetti/jupyter-notebook-package)
 * [2023-10-27, 13:34:06](https://news.ycombinator.com/item?id=38038239) - [Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
+* [2023-10-26, 21:59:53](https://news.ycombinator.com/item?id=38032253) - [iPhones have been exposing MAC addresses despite Apple’s promises otherwise](https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/)
 * [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
+* [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 
 ## [Archives](archives/index.md)
 
