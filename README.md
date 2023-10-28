@@ -29,7 +29,7 @@
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
-* [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
+* [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 
 ## [Archives](archives/index.md)
 
