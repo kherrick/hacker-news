@@ -16,6 +16,7 @@
 * [2023-10-27, 22:45:54](https://news.ycombinator.com/item?id=38044973) - [King Charles III signs off on Online Safety Act with unenforceable spying clause](https://www.theregister.com/2023/10/27/online_safety_act_charles/)
 * [2023-10-27, 22:44:48](https://news.ycombinator.com/item?id=38044962) - [F5 hurriedly squashes BIG-IP remote code execution bug](https://www.theregister.com/2023/10/27/f5_hurriedly_fixes_bigip_remote/)
 * [2023-10-27, 22:36:25](https://news.ycombinator.com/item?id=38044892) - [Pissed of AA customer writes pull request against all their operations](https://blog.phor.net/2023/10/19/American-Airlines-also-known-as-policy)
+* [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole's New UI Makes Managing WireGuard Clients Easy](https://github.com/IAmStoxe/wirehole)
 * [2023-10-27, 22:20:28](https://news.ycombinator.com/item?id=38044757) - [The Mystic Art of Gardening](https://aeon.co/essays/a-rebel-spirit-and-an-artists-eye-russell-pages-landscape-design)
 * [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:44:55](https://news.ycombinator.com/item?id=38044410) - [X Engineering Year Retrospective](https://twitter.com/XEng/status/1717754398410240018)

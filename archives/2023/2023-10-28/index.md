@@ -6,6 +6,7 @@
 
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
 * [2023-10-28, 17:10:35](https://news.ycombinator.com/item?id=38051515) - [One Year into Musk, X Monthly Users Are Down 15% and Ad Revenue Has Slumped 54%](https://variety.com/2023/digital/news/musk-twitter-x-acquisition-one-year-user-revenue-decline-1235770297/)
+* [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the Volume on My Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 16:55:53](https://news.ycombinator.com/item?id=38051380) - [ESP32 Wemos D1 Mini – Sprinkler Controller Open Source](https://github.com/fellowgeek/esp32-relay-board)
 * [2023-10-28, 16:43:08](https://news.ycombinator.com/item?id=38051236) - [Sulfur Selenium Solid-State Battery from NASA Breaks Energy Storage Boundaries](https://cleantechnica.com/2023/07/14/sulfur-selenium-solid-state-battery-from-nasa-breaks-energy-storage-boundaries/)
 * [2023-10-28, 16:24:04](https://news.ycombinator.com/item?id=38051016) - [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
