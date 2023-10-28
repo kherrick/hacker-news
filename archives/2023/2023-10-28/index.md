@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 07:00:17](https://news.ycombinator.com/item?id=38047790) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
+* [2023-10-28, 06:51:54](https://news.ycombinator.com/item?id=38047743) - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
 * [2023-10-28, 05:01:38](https://news.ycombinator.com/item?id=38047282) - [Mark Zuckerberg Is Coming for Sam Altman and OpenAI](https://www.bigtechnology.com/p/mark-zuckerberg-is-coming-for-sam)
 * [2023-10-28, 03:40:06](https://news.ycombinator.com/item?id=38046910) - [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
 * [2023-10-28, 03:18:18](https://news.ycombinator.com/item?id=38046795) - [BP buys $100M worth of Tesla chargers](https://www.cnn.com/2023/10/26/business/bp-buys-usd100-million-worth-of-tesla-chargers/index.html)
