@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
 * [2023-10-28, 13:52:11](https://news.ycombinator.com/item?id=38049790) - [A.I. Muddies Israel-Hamas War in Unexpected Way](https://www.nytimes.com/2023/10/28/business/media/ai-muddies-israel-hamas-war-in-unexpected-way.html)
 * [2023-10-28, 12:26:26](https://news.ycombinator.com/item?id=38049287) - [Where is my file's metadata?](https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
@@ -19,7 +20,6 @@
 * [2023-10-27, 23:26:15](https://news.ycombinator.com/item?id=38045262) - [Writing for Professional and Technical Audiences](https://pnewman.org/writing.html)
 * [2023-10-27, 22:48:25](https://news.ycombinator.com/item?id=38044997) - [Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)
 * [2023-10-27, 22:20:28](https://news.ycombinator.com/item?id=38044757) - [The Mystic Art of Gardening](https://aeon.co/essays/a-rebel-spirit-and-an-artists-eye-russell-pages-landscape-design)
-* [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 * [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [Why programming languages matter [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-27, 20:41:32](https://news.ycombinator.com/item?id=38043644) - [Visualizing quaternions (2018)](https://eater.net/quaternions)
