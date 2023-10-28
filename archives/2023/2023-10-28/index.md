@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
 * [2023-10-28, 17:10:35](https://news.ycombinator.com/item?id=38051515) - [One Year into Musk, X Monthly Users Are Down 15% and Ad Revenue Has Slumped 54%](https://variety.com/2023/digital/news/musk-twitter-x-acquisition-one-year-user-revenue-decline-1235770297/)
 * [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the Volume on My Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
@@ -37,6 +38,7 @@
 * [2023-10-28, 09:18:05](https://news.ycombinator.com/item?id=38048372) - [Israel Helped to Spawn Hamas (2009)](https://www.wsj.com/articles/SB123275572295011847)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 * [2023-10-28, 08:22:46](https://news.ycombinator.com/item?id=38048148) - [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
+* [2023-10-28, 07:59:42](https://news.ycombinator.com/item?id=38048054) - [Revisiting Textpattern](https://rubenerd.com/revisiting-textpattern/)
 * [2023-10-28, 07:19:16](https://news.ycombinator.com/item?id=38047872) - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 * [2023-10-28, 07:11:13](https://news.ycombinator.com/item?id=38047838) - [Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
