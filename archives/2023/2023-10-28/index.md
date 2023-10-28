@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-10-28, 20:48:38](https://news.ycombinator.com/item?id=38053227) - [Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
 * [2023-10-28, 19:57:16](https://news.ycombinator.com/item?id=38052864) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
+* [2023-10-28, 19:50:39](https://news.ycombinator.com/item?id=38052819) - [Microsoft's CFO FIRE journey to retire at 44](https://www.rydoo.com/cfo-corner/rita-picarra-retire-44/)
 * [2023-10-28, 19:32:54](https://news.ycombinator.com/item?id=38052693) - [New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
 * [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
