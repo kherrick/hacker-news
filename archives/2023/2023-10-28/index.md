@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 23:11:25](https://news.ycombinator.com/item?id=38054340) - [How to fix the disastrous new Xcode 15 console](https://lapcatsoftware.com/articles/2023/10/5.html)
 * [2023-10-28, 22:46:00](https://news.ycombinator.com/item?id=38054124) - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
+* [2023-10-28, 22:28:32](https://news.ycombinator.com/item?id=38053982) - [Actual is going open-source](https://actualbudget.com/open-source)
 * [2023-10-28, 22:14:54](https://news.ycombinator.com/item?id=38053907) - [Against a Dystopian Farm-Free Future](https://www.theamericanconservative.com/against-a-dystopian-farm-free-future/)
 * [2023-10-28, 21:48:51](https://news.ycombinator.com/item?id=38053711) - [Ask HN: Are there valid Google Search alternatives?](https://news.ycombinator.com/item?id=38053711)
 * [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
