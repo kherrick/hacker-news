@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 22:14:54](https://news.ycombinator.com/item?id=38053907) - [Against a Dystopian Farm-Free Future](https://www.theamericanconservative.com/against-a-dystopian-farm-free-future/)
 * [2023-10-28, 21:19:16](https://news.ycombinator.com/item?id=38053469) - [Tierra (Computer Simulation)](https://en.wikipedia.org/wiki/Tierra_(computer_simulation))
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
 * [2023-10-28, 20:48:38](https://news.ycombinator.com/item?id=38053227) - [Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
@@ -10,7 +11,6 @@
 * [2023-10-28, 19:03:24](https://news.ycombinator.com/item?id=38052476) - [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
 * [2023-10-28, 18:57:50](https://news.ycombinator.com/item?id=38052416) - [React Use C](https://github.com/elnardu/react-use-c)
 * [2023-10-28, 18:47:25](https://news.ycombinator.com/item?id=38052344) - [Show HN: OpenSign – The open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
-* [2023-10-28, 18:44:29](https://news.ycombinator.com/item?id=38052319) - [As Digital Nomads Flock to Lisbon, Portugal's Youth Are Leaving in Droves](https://www.bloomberg.com/news/features/2023-10-28/companies-wanting-numeracy-tech-hires-struggle-to-fill-jobs-in-lisbon-portugal)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the volume on my Bluetooth earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 16:55:53](https://news.ycombinator.com/item?id=38051380) - [ESP32 Wemos D1 Mini – Sprinkler Controller Open Source](https://github.com/fellowgeek/esp32-relay-board)
