@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-10-28, 14:47:29",
-      "https://news.ycombinator.com/item?id=38050214"
-    ],
-    [
-      "Ask HN: Why aren't Django Admin style dashboards popular in other frameworks?",
-      "https://news.ycombinator.com/item?id=38050214"
-    ]
-  ],
-  [
-    [
       "2023-10-28, 14:32:59",
       "https://news.ycombinator.com/item?id=38050106"
     ],
@@ -277,6 +267,16 @@
     [
       "Kubernetes and Kernel Panics",
       "https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 11:25:28",
+      "https://news.ycombinator.com/item?id=38037141"
+    ],
+    [
+      "Lessons Learned from Twenty Years of Site Reliability Engineering",
+      "https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/"
     ]
   ],
   [
