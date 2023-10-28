@@ -7,7 +7,6 @@
 * [2023-10-28, 15:01:34](https://news.ycombinator.com/item?id=38050326) - [Show HN: Demystifying Advanced RAG Pipelines](https://github.com/pchunduri6/rag-demystified)
 * [2023-10-28, 15:00:14](https://news.ycombinator.com/item?id=38050315) - [Dev sets up \"goatse\" trap for sites that steal his free web game](https://arstechnica.com/gaming/2023/10/dev-sets-up-goatse-trap-for-sites-that-steal-his-free-web-game/)
 * [2023-10-28, 14:50:11](https://news.ycombinator.com/item?id=38050236) - [The Cruel Fantasies of Well-Fed People](https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/)
-* [2023-10-28, 14:47:29](https://news.ycombinator.com/item?id=38050214) - [Ask HN: Why aren't Django Admin style dashboards popular in other frameworks?](https://news.ycombinator.com/item?id=38050214)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
 * [2023-10-28, 13:42:51](https://news.ycombinator.com/item?id=38049727) - [Six Great Features with the Upcoming Linux 6.6 Kernel](https://www.phoronix.com/news/Linux-6.6-Great-Features)
@@ -28,6 +27,7 @@
 * [2023-10-27, 22:20:28](https://news.ycombinator.com/item?id=38044757) - [The Mystic Art of Gardening](https://aeon.co/essays/a-rebel-spirit-and-an-artists-eye-russell-pages-landscape-design)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
 * [2023-10-27, 19:36:48](https://news.ycombinator.com/item?id=38042918) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94)
+* [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 10:56:43](https://news.ycombinator.com/item?id=38036947) - [Share Bristol – A Library of Things](https://www.sharebristol.org.uk/)
 * [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
