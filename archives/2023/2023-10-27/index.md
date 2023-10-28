@@ -8,6 +8,7 @@
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
 * [2023-10-27, 23:38:47](https://news.ycombinator.com/item?id=38045358) - [The Emptiness of Literature Written for the Market](https://www.noemamag.com/the-emptiness-of-literature-written-for-the-market/)
 * [2023-10-27, 23:36:45](https://news.ycombinator.com/item?id=38045342) - [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
+* [2023-10-27, 23:26:15](https://news.ycombinator.com/item?id=38045262) - [Writing for Professional and Technical Audiences](https://pnewman.org/writing.html)
 * [2023-10-27, 23:03:49](https://news.ycombinator.com/item?id=38045112) - [Scientists Simulate Backward Time Travel Using Quantum Entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
 * [2023-10-27, 22:50:48](https://news.ycombinator.com/item?id=38045012) - [Project Bluefin Linux](https://projectbluefin.io/)
 * [2023-10-27, 22:48:25](https://news.ycombinator.com/item?id=38044997) - [Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)

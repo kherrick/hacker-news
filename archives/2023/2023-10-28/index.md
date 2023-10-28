@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 09:18:05](https://news.ycombinator.com/item?id=38048372) - [Israel Helped to Spawn Hamas (2009)](https://www.wsj.com/articles/SB123275572295011847)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 * [2023-10-28, 07:19:16](https://news.ycombinator.com/item?id=38047872) - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
