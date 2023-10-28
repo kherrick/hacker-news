@@ -16,6 +16,7 @@
 * [2023-10-28, 19:57:16](https://news.ycombinator.com/item?id=38052864) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-28, 19:50:39](https://news.ycombinator.com/item?id=38052819) - [Microsoft's CFO FIRE journey to retire at 44](https://www.rydoo.com/cfo-corner/rita-picarra-retire-44/)
 * [2023-10-28, 19:32:54](https://news.ycombinator.com/item?id=38052693) - [New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
+* [2023-10-28, 19:25:57](https://news.ycombinator.com/item?id=38052643) - [Is the Intel N100 a better option than high-end ARM RK3588 boards at the moment?](https://bret.dk/intel-n100-a-challenge-to-arm/)
 * [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
 * [2023-10-28, 19:03:24](https://news.ycombinator.com/item?id=38052476) - [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)

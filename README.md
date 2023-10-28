@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-28, 22:46:00](https://news.ycombinator.com/item?id=38054124) - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
-* [2023-10-28, 21:48:51](https://news.ycombinator.com/item?id=38053711) - [Ask HN: Are there valid Google Search alternatives?](https://news.ycombinator.com/item?id=38053711)
 * [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
 * [2023-10-28, 20:31:03](https://news.ycombinator.com/item?id=38053108) - [Shoes maketh man](https://www.wits.ac.za/news/latest-news/research-news/2023/2023-10/shoes-maketh-man.html)
 * [2023-10-28, 19:57:16](https://news.ycombinator.com/item?id=38052864) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
+* [2023-10-28, 19:25:57](https://news.ycombinator.com/item?id=38052643) - [Is the Intel N100 a better option than high-end ARM RK3588 boards at the moment?](https://bret.dk/intel-n100-a-challenge-to-arm/)
 * [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC wants to bolster amateur radio](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
 * [2023-10-28, 19:03:24](https://news.ycombinator.com/item?id=38052476) - [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
