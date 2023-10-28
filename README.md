@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 17:10:35](https://news.ycombinator.com/item?id=38051515) - [One Year into Musk, X Monthly Users Are Down 15% and Ad Revenue Has Slumped 54%](https://variety.com/2023/digital/news/musk-twitter-x-acquisition-one-year-user-revenue-decline-1235770297/)
 * [2023-10-28, 16:24:04](https://news.ycombinator.com/item?id=38051016) - [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
 * [2023-10-28, 16:18:58](https://news.ycombinator.com/item?id=38050983) - [XRDP with H.264 codec brings immense performance boost](https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/)
 * [2023-10-28, 16:11:18](https://news.ycombinator.com/item?id=38050920) - [Craig Murray seeks UN protection in Switzerland against British persecution](https://www.wsws.org/en/articles/2023/10/27/taez-o27.html)
@@ -14,8 +15,6 @@
 * [2023-10-28, 14:50:11](https://news.ycombinator.com/item?id=38050236) - [The Cruel Fantasies of Well-Fed People](https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
-* [2023-10-28, 13:42:51](https://news.ycombinator.com/item?id=38049727) - [Six Great Features with the Upcoming Linux 6.6 Kernel](https://www.phoronix.com/news/Linux-6.6-Great-Features)
-* [2023-10-28, 12:26:26](https://news.ycombinator.com/item?id=38049287) - [Where is my file's metadata?](https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 * [2023-10-28, 08:22:46](https://news.ycombinator.com/item?id=38048148) - [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
@@ -29,6 +28,7 @@
 * [2023-10-27, 22:48:25](https://news.ycombinator.com/item?id=38044997) - [Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)
 * [2023-10-27, 19:36:48](https://news.ycombinator.com/item?id=38042918) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94)
 * [2023-10-27, 10:56:43](https://news.ycombinator.com/item?id=38036947) - [Share Bristol – A Library of Things](https://www.sharebristol.org.uk/)
+* [2023-10-26, 11:11:52](https://news.ycombinator.com/item?id=38024057) - [Window Maker Live: When less is more, but more is also more?](https://www.theregister.com/2023/10/25/window_maker_096_live/)
 * [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
