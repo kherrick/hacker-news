@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 16:12:50](https://news.ycombinator.com/item?id=38050937) - [Did the Entire Media Industry Misquote a Hamas Spokesperson?](https://www.silentlunch.net/p/did-the-entire-media-industry-misquote)
+* [2023-10-28, 16:01:27](https://news.ycombinator.com/item?id=38050838) - [Privacy advocate challenges YouTube's ad blocking detection scripts under EU law](https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/)
+* [2023-10-28, 15:50:22](https://news.ycombinator.com/item?id=38050752) - [Killing Windows 10 in 2025 could turn PCs into eWaste](https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-ewaste-or-at-least-compromise-their-security/)
 * [2023-10-28, 15:08:42](https://news.ycombinator.com/item?id=38050381) - [Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
 * [2023-10-28, 15:07:48](https://news.ycombinator.com/item?id=38050372) - [Why teachers in South Korea are scared of their pupils, and their parents](https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html)
 * [2023-10-28, 15:07:19](https://news.ycombinator.com/item?id=38050368) - [The copyright fight over authors and OpenAI's ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
