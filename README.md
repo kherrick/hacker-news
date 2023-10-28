@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
 * [2023-10-28, 13:52:11](https://news.ycombinator.com/item?id=38049790) - [A.I. Muddies Israel-Hamas War in Unexpected Way](https://www.nytimes.com/2023/10/28/business/media/ai-muddies-israel-hamas-war-in-unexpected-way.html)
 * [2023-10-28, 12:26:26](https://news.ycombinator.com/item?id=38049287) - [Where is my file's metadata?](https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/)
@@ -28,7 +29,6 @@
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
-* [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
