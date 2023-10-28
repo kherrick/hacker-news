@@ -71,6 +71,7 @@
 * [2023-10-26, 11:49:44](https://news.ycombinator.com/item?id=38024327) - [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
 * [2023-10-26, 11:11:52](https://news.ycombinator.com/item?id=38024057) - [Window Maker Live: When less is more, but more is also more?](https://www.theregister.com/2023/10/25/window_maker_096_live/)
 * [2023-10-26, 11:11:46](https://news.ycombinator.com/item?id=38024056) - [Reality Labs has lost $11.4B during 2023 (there's still one quarter left)](https://www.gamedeveloper.com/business/reality-labs-has-lost-11-4-billion-during-2023-and-there-s-still-one-quarter-left-)
+* [2023-10-26, 11:10:49](https://news.ycombinator.com/item?id=38024047) - [How to make almost any computer a modern-day Plato terminal](https://arstechnica.com/gadgets/2023/10/how-to-make-almost-any-computer-a-modern-day-plato-terminal/)
 * [2023-10-26, 11:03:20](https://news.ycombinator.com/item?id=38024002) - [Static Analysis Tools for C](https://github.com/analysis-tools-dev/static-analysis)
 * [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:40:31](https://news.ycombinator.com/item?id=38023874) - [Google's Plan to Stop Apple from Getting Serious About Search](https://www.nytimes.com/2023/10/26/technology/google-apple-search-spotlight.html)
