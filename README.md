@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 16:55:53](https://news.ycombinator.com/item?id=38051380) - [ESP32 Wemos D1 Mini – Sprinkler Controller Open Source](https://github.com/fellowgeek/esp32-relay-board)
 * [2023-10-28, 16:43:08](https://news.ycombinator.com/item?id=38051236) - [Sulfur Selenium Solid-State Battery from NASA Breaks Energy Storage Boundaries](https://cleantechnica.com/2023/07/14/sulfur-selenium-solid-state-battery-from-nasa-breaks-energy-storage-boundaries/)
 * [2023-10-28, 16:24:04](https://news.ycombinator.com/item?id=38051016) - [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
 * [2023-10-28, 16:18:58](https://news.ycombinator.com/item?id=38050983) - [XRDP with H.264 codec brings immense performance boost](https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/)
@@ -10,7 +11,6 @@
 * [2023-10-28, 15:07:19](https://news.ycombinator.com/item?id=38050368) - [The copyright fight over authors and OpenAI's ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
 * [2023-10-28, 15:05:37](https://news.ycombinator.com/item?id=38050354) - [Rydberg Field Measurement System](https://www.rydbergtechnologies.com/products)
 * [2023-10-28, 15:01:34](https://news.ycombinator.com/item?id=38050326) - [Show HN: Demystifying Advanced RAG Pipelines](https://github.com/pchunduri6/rag-demystified)
-* [2023-10-28, 15:00:14](https://news.ycombinator.com/item?id=38050315) - [Dev sets up \"goatse\" trap for sites that steal his free web game](https://arstechnica.com/gaming/2023/10/dev-sets-up-goatse-trap-for-sites-that-steal-his-free-web-game/)
 * [2023-10-28, 14:50:11](https://news.ycombinator.com/item?id=38050236) - [The Cruel Fantasies of Well-Fed People](https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
