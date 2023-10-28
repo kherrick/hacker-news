@@ -12,6 +12,7 @@
 * [2023-10-28, 16:01:27](https://news.ycombinator.com/item?id=38050838) - [Privacy advocate challenges YouTube's ad blocking detection scripts under EU law](https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/)
 * [2023-10-28, 16:00:55](https://news.ycombinator.com/item?id=38050832) - [Quindar Tones](https://en.wikipedia.org/wiki/Quindar_tones)
 * [2023-10-28, 15:50:22](https://news.ycombinator.com/item?id=38050752) - [Killing Windows 10 in 2025 could turn PCs into eWaste](https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-ewaste-or-at-least-compromise-their-security/)
+* [2023-10-28, 15:26:23](https://news.ycombinator.com/item?id=38050535) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-10-28, 15:08:42](https://news.ycombinator.com/item?id=38050381) - [Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
 * [2023-10-28, 15:07:48](https://news.ycombinator.com/item?id=38050372) - [Why teachers in South Korea are scared of their pupils, and their parents](https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html)
 * [2023-10-28, 15:07:19](https://news.ycombinator.com/item?id=38050368) - [The copyright fight over authors and OpenAI's ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
