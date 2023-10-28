@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-28, 03:18:18",
-      "https://news.ycombinator.com/item?id=38046795"
-    ],
-    [
-      "BP buys $100M worth of Tesla chargers",
-      "https://www.cnn.com/2023/10/26/business/bp-buys-usd100-million-worth-of-tesla-chargers/index.html"
-    ]
-  ],
-  [
-    [
       "2023-10-28, 02:13:31",
       "https://news.ycombinator.com/item?id=38046448"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38045665"
     ],
     [
-      "When Gradient Descent Is a Kernel Method",
+      "When gradient descent is a kernel method",
       "https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Tell HN: Automatic fraud detection is making my life hell",
       "https://news.ycombinator.com/item?id=38038713"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 14:11:33",
+      "https://news.ycombinator.com/item?id=38038662"
+    ],
+    [
+      "Show HN: Encrypt and upload files to IPFS from browser",
+      "https://www.thirdcloud.org/"
     ]
   ],
   [
