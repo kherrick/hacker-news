@@ -2,6 +2,7 @@
 
 * [2023-10-28, 07:19:16](https://news.ycombinator.com/item?id=38047872) - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
+* [2023-10-28, 07:11:13](https://news.ycombinator.com/item?id=38047838) - [Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
 * [2023-10-28, 07:00:17](https://news.ycombinator.com/item?id=38047790) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
 * [2023-10-28, 06:51:54](https://news.ycombinator.com/item?id=38047743) - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
 * [2023-10-28, 03:40:06](https://news.ycombinator.com/item?id=38046910) - [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
@@ -29,7 +30,6 @@
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
-* [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 
 ## [Archives](archives/index.md)
 
