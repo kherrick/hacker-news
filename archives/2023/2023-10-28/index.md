@@ -10,6 +10,8 @@
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
 * [2023-10-28, 19:03:24](https://news.ycombinator.com/item?id=38052476) - [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
 * [2023-10-28, 18:58:43](https://news.ycombinator.com/item?id=38052425) - [UK bans virginity testing but refuses to apologize to immigrants for past abuses](https://www.cnn.com/2022/02/03/uk/virginity-testing-hymenoplasty-ban-uk-asequals-intl-cmd/index.html)
+* [2023-10-28, 18:47:25](https://news.ycombinator.com/item?id=38052344) - [Show HN: OpenSign – The open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
+* [2023-10-28, 18:44:29](https://news.ycombinator.com/item?id=38052319) - [As Digital Nomads Flock to Lisbon, Portugal's Youth Are Leaving in Droves](https://www.bloomberg.com/news/features/2023-10-28/companies-wanting-numeracy-tech-hires-struggle-to-fill-jobs-in-lisbon-portugal)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
