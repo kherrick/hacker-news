@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-28, 16:12:50",
+      "https://news.ycombinator.com/item?id=38050937"
+    ],
+    [
+      "Did the Entire Media Industry Misquote a Hamas Spokesperson?",
+      "https://www.silentlunch.net/p/did-the-entire-media-industry-misquote"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 16:01:27",
+      "https://news.ycombinator.com/item?id=38050838"
+    ],
+    [
+      "Privacy advocate challenges YouTube's ad blocking detection scripts under EU law",
+      "https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 15:50:22",
+      "https://news.ycombinator.com/item?id=38050752"
+    ],
+    [
+      "Killing Windows 10 in 2025 could turn PCs into eWaste",
+      "https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-ewaste-or-at-least-compromise-their-security/"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 15:08:42",
       "https://news.ycombinator.com/item?id=38050381"
     ],
@@ -111,6 +141,16 @@
   ],
   [
     [
+      "2023-10-28, 12:26:26",
+      "https://news.ycombinator.com/item?id=38049287"
+    ],
+    [
+      "Where is my file's metadata?",
+      "https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 09:25:11",
       "https://news.ycombinator.com/item?id=38048401"
     ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2023-10-28, 03:51:38",
-      "https://news.ycombinator.com/item?id=38046970"
-    ],
-    [
-      "Pretraining on the Test Set Is All You Need",
-      "https://arxiv.org/abs/2309.08632"
-    ]
-  ],
-  [
-    [
       "2023-10-28, 02:44:07",
       "https://news.ycombinator.com/item?id=38046598"
     ],
@@ -207,16 +237,6 @@
     [
       "A small warning about UDP based protocols",
       "https://boston.conman.org/2023/10/25.1"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 00:23:24",
-      "https://news.ycombinator.com/item?id=38045665"
-    ],
-    [
-      "When gradient descent is a kernel method",
-      "https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-10-27, 21:08:00",
-      "https://news.ycombinator.com/item?id=38043955"
-    ],
-    [
-      "Large Balloon Reflector: a potentially game-changing antenna design",
-      "https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 19:36:48",
       "https://news.ycombinator.com/item?id=38042918"
     ],
     [
       "Kubernetes and Kernel Panics",
       "https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 11:25:28",
-      "https://news.ycombinator.com/item?id=38037141"
-    ],
-    [
-      "Lessons Learned from Twenty Years of Site Reliability Engineering",
-      "https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/"
     ]
   ],
   [
