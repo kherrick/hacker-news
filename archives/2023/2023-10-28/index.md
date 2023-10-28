@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 21:19:16](https://news.ycombinator.com/item?id=38053469) - [Tierra (Computer Simulation)](https://en.wikipedia.org/wiki/Tierra_(computer_simulation))
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-10-28, 20:48:38](https://news.ycombinator.com/item?id=38053227) - [Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
 * [2023-10-28, 20:12:21](https://news.ycombinator.com/item?id=38052988) - ['The early adopters have adopted': US carmakers slow their EV growth plans](https://www.ft.com/content/80d79220-612f-4c01-93b7-1d1a846e4b6d)

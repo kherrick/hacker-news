@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 21:19:16](https://news.ycombinator.com/item?id=38053469) - [Tierra (Computer Simulation)](https://en.wikipedia.org/wiki/Tierra_(computer_simulation))
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
 * [2023-10-28, 20:48:38](https://news.ycombinator.com/item?id=38053227) - [Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
 * [2023-10-28, 20:12:21](https://news.ycombinator.com/item?id=38052988) - ['The early adopters have adopted': US carmakers slow their EV growth plans](https://www.ft.com/content/80d79220-612f-4c01-93b7-1d1a846e4b6d)
@@ -29,7 +30,6 @@
 * [2023-10-27, 12:55:24](https://news.ycombinator.com/item?id=38037794) - [Biggest image in the smallest space (2011)](https://www.bamsoftware.com/hacks/deflate.html)
 * [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
 * [2023-10-27, 10:56:43](https://news.ycombinator.com/item?id=38036947) - [Share Bristol – A Library of Things](https://www.sharebristol.org.uk/)
-* [2023-10-26, 11:11:52](https://news.ycombinator.com/item?id=38024057) - [Window Maker Live: When less is more, but more is also more?](https://www.theregister.com/2023/10/25/window_maker_096_live/)
 
 ## [Archives](archives/index.md)
 
