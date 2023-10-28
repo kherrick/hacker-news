@@ -2,6 +2,7 @@
 
 * [2023-10-28, 03:18:18](https://news.ycombinator.com/item?id=38046795) - [BP buys $100M worth of Tesla chargers](https://www.cnn.com/2023/10/26/business/bp-buys-usd100-million-worth-of-tesla-chargers/index.html)
 * [2023-10-28, 02:13:31](https://news.ycombinator.com/item?id=38046448) - [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
+* [2023-10-28, 01:46:25](https://news.ycombinator.com/item?id=38046293) - [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
 * [2023-10-28, 01:43:31](https://news.ycombinator.com/item?id=38046268) - [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
 * [2023-10-28, 00:23:24](https://news.ycombinator.com/item?id=38045665) - [When Gradient Descent Is a Kernel Method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
 * [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
@@ -22,7 +23,6 @@
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 14:34:35](https://news.ycombinator.com/item?id=38038986) - [Show HN: A local Python prototyping tool for Jupyter and Streamlit](https://github.com/galenmarchetti/jupyter-notebook-package)
-* [2023-10-27, 14:11:33](https://news.ycombinator.com/item?id=38038662) - [Show HN: Encrypt and upload files to IPFS from browser](https://www.thirdcloud.org/)
 * [2023-10-27, 13:34:06](https://news.ycombinator.com/item?id=38038239) - [Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 11:21:45](https://news.ycombinator.com/item?id=38037110) - [Ways to Make Sand (2020) [video]](https://www.youtube.com/watch?v=BDyvjkAs5-Y&list=ULcxqQ59vzyTk&index=6)
