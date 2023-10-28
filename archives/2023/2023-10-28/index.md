@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
 * [2023-10-28, 22:14:54](https://news.ycombinator.com/item?id=38053907) - [Against a Dystopian Farm-Free Future](https://www.theamericanconservative.com/against-a-dystopian-farm-free-future/)
+* [2023-10-28, 21:48:51](https://news.ycombinator.com/item?id=38053711) - [Ask HN: Are there valid Google Search alternatives?](https://news.ycombinator.com/item?id=38053711)
+* [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
 * [2023-10-28, 21:19:16](https://news.ycombinator.com/item?id=38053469) - [Tierra (Computer Simulation)](https://en.wikipedia.org/wiki/Tierra_(computer_simulation))
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-10-28, 20:48:38](https://news.ycombinator.com/item?id=38053227) - [Anti-ChatGPT](https://github.com/devxpy/anti-chatgpt)
