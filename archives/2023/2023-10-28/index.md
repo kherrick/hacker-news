@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
 * [2023-10-28, 17:10:35](https://news.ycombinator.com/item?id=38051515) - [One Year into Musk, X Monthly Users Are Down 15% and Ad Revenue Has Slumped 54%](https://variety.com/2023/digital/news/musk-twitter-x-acquisition-one-year-user-revenue-decline-1235770297/)
+* [2023-10-28, 16:43:08](https://news.ycombinator.com/item?id=38051236) - [Sulfur Selenium Solid-State Battery from NASA Breaks Energy Storage Boundaries](https://cleantechnica.com/2023/07/14/sulfur-selenium-solid-state-battery-from-nasa-breaks-energy-storage-boundaries/)
 * [2023-10-28, 16:24:04](https://news.ycombinator.com/item?id=38051016) - [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
 * [2023-10-28, 16:18:58](https://news.ycombinator.com/item?id=38050983) - [XRDP with H.264 codec brings immense performance boost](https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/)
 * [2023-10-28, 16:12:50](https://news.ycombinator.com/item?id=38050937) - [Did the Entire Media Industry Misquote a Hamas Spokesperson?](https://www.silentlunch.net/p/did-the-entire-media-industry-misquote)
