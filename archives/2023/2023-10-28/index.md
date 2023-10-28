@@ -29,6 +29,7 @@
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
 * [2023-10-28, 13:52:11](https://news.ycombinator.com/item?id=38049790) - [A.I. Muddies Israel-Hamas War in Unexpected Way](https://www.nytimes.com/2023/10/28/business/media/ai-muddies-israel-hamas-war-in-unexpected-way.html)
+* [2023-10-28, 13:48:56](https://news.ycombinator.com/item?id=38049774) - [How to Think Computationally about AI, the Universe and Everything](https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/)
 * [2023-10-28, 13:42:51](https://news.ycombinator.com/item?id=38049727) - [Six Great Features with the Upcoming Linux 6.6 Kernel](https://www.phoronix.com/news/Linux-6.6-Great-Features)
 * [2023-10-28, 13:30:16](https://news.ycombinator.com/item?id=38049631) - [US halts exports of most civilian firearms for 90 days](https://www.reuters.com/world/us/us-halts-exports-most-civilian-firearms-90-days-2023-10-27/)
 * [2023-10-28, 13:13:21](https://news.ycombinator.com/item?id=38049525) - [Is supervised learning dead for computer vision?](https://news.ycombinator.com/item?id=38049525)
