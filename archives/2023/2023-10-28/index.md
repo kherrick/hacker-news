@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 * [2023-10-28, 07:00:17](https://news.ycombinator.com/item?id=38047790) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
 * [2023-10-28, 06:51:54](https://news.ycombinator.com/item?id=38047743) - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
 * [2023-10-28, 05:01:38](https://news.ycombinator.com/item?id=38047282) - [Mark Zuckerberg Is Coming for Sam Altman and OpenAI](https://www.bigtechnology.com/p/mark-zuckerberg-is-coming-for-sam)

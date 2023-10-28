@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 * [2023-10-28, 07:00:17](https://news.ycombinator.com/item?id=38047790) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
 * [2023-10-28, 06:51:54](https://news.ycombinator.com/item?id=38047743) - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
 * [2023-10-28, 03:40:06](https://news.ycombinator.com/item?id=38046910) - [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
 * [2023-10-28, 02:13:31](https://news.ycombinator.com/item?id=38046448) - [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
 * [2023-10-28, 02:11:42](https://news.ycombinator.com/item?id=38046433) - [15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
 * [2023-10-28, 02:05:59](https://news.ycombinator.com/item?id=38046396) - [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
-* [2023-10-28, 01:46:25](https://news.ycombinator.com/item?id=38046293) - [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
 * [2023-10-28, 00:23:24](https://news.ycombinator.com/item?id=38045665) - [When gradient descent is a kernel method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
 * [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
