@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-28, 13:30:16",
+      "https://news.ycombinator.com/item?id=38049631"
+    ],
+    [
+      "US halts exports of most civilian firearms for 90 days",
+      "https://www.reuters.com/world/us/us-halts-exports-most-civilian-firearms-90-days-2023-10-27/"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 10:56:39",
       "https://news.ycombinator.com/item?id=38048811"
     ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=38043781"
     ],
     [
-      "Why Programming Languages Matter [video]",
+      "Why programming languages matter [video]",
       "https://www.youtube.com/watch?v=JqYCt9rTG8g"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Shadow: New browser engine made almost entirely in JavaScript",
       "https://goose.icu/introducing-shadow/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 13:34:06",
-      "https://news.ycombinator.com/item?id=38038239"
-    ],
-    [
-      "Show HN: ScratchDB – Open-Source Snowflake on ClickHouse",
-      "https://github.com/scratchdata/ScratchDB"
     ]
   ],
   [
