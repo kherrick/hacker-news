@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-10-28, 19:57:16](https://news.ycombinator.com/item?id=38052864) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-28, 19:32:54](https://news.ycombinator.com/item?id=38052693) - [New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
 * [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
@@ -14,6 +15,7 @@
 * [2023-10-28, 18:44:29](https://news.ycombinator.com/item?id=38052319) - [As Digital Nomads Flock to Lisbon, Portugal's Youth Are Leaving in Droves](https://www.bloomberg.com/news/features/2023-10-28/companies-wanting-numeracy-tech-hires-struggle-to-fill-jobs-in-lisbon-portugal)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
+* [2023-10-28, 17:26:02](https://news.ycombinator.com/item?id=38051689) - [Ask HN: How hackable are the Meta smart glasses?](https://news.ycombinator.com/item?id=38051689)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
 * [2023-10-28, 17:10:35](https://news.ycombinator.com/item?id=38051515) - [One Year into Musk, X Monthly Users Are Down 15% and Ad Revenue Has Slumped 54%](https://variety.com/2023/digital/news/musk-twitter-x-acquisition-one-year-user-revenue-decline-1235770297/)
 * [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the Volume on My Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
