@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 01:43:31](https://news.ycombinator.com/item?id=38046268) - [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
 * [2023-10-28, 00:23:24](https://news.ycombinator.com/item?id=38045665) - [When Gradient Descent Is a Kernel Method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
 * [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
@@ -17,7 +18,6 @@
 * [2023-10-27, 17:07:55](https://news.ycombinator.com/item?id=38041073) - [The bacterial horror of hot-air hand dryers (2018)](https://www.health.harvard.edu/blog/the-bacterial-horror-of-the-hot-air-hand-dryer-2018051113823)
 * [2023-10-27, 16:28:09](https://news.ycombinator.com/item?id=38040591) - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
-* [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 14:34:35](https://news.ycombinator.com/item?id=38038986) - [Show HN: A local Python prototyping tool for Jupyter and Streamlit](https://github.com/galenmarchetti/jupyter-notebook-package)
 * [2023-10-27, 14:15:09](https://news.ycombinator.com/item?id=38038713) - [Tell HN: Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
