@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-10-28, 03:51:38",
+      "https://news.ycombinator.com/item?id=38046970"
+    ],
+    [
+      "Pretraining on the Test Set Is All You Need",
+      "https://arxiv.org/abs/2309.08632"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 02:44:07",
       "https://news.ycombinator.com/item?id=38046598"
     ],
@@ -151,36 +161,6 @@
   ],
   [
     [
-      "2023-10-27, 23:53:03",
-      "https://news.ycombinator.com/item?id=38045456"
-    ],
-    [
-      "Audioflare: An all-in-one AI audio playground using Cloudflare AI Workers",
-      "https://github.com/seanoliver/audioflare"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 23:47:58",
-      "https://news.ycombinator.com/item?id=38045429"
-    ],
-    [
-      "Bacteria enhances host insect's fertility with implications for disease control",
-      "https://news.ucsc.edu/2023/10/russell-plos-23.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 23:36:45",
-      "https://news.ycombinator.com/item?id=38045342"
-    ],
-    [
-      "Google can turn ANC earbuds into a heart rate monitor with no extra hardware",
-      "https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 23:26:15",
       "https://news.ycombinator.com/item?id=38045262"
     ],
@@ -207,6 +187,16 @@
     [
       "The Mystic Art of Gardening",
       "https://aeon.co/essays/a-rebel-spirit-and-an-artists-eye-russell-pages-landscape-design"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 21:45:22",
+      "https://news.ycombinator.com/item?id=38044420"
+    ],
+    [
+      "Can the language of proof assistants be used for general purpose programming?",
+      "https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Ensō: write now, edit later",
       "https://enso.sonnet.io/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 10:43:59",
+      "https://news.ycombinator.com/item?id=38023891"
+    ],
+    [
+      "The Cloud Computer",
+      "https://oxide.computer/blog/the-cloud-computer"
     ]
   ],
   [
