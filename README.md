@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
 * [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the Volume on My Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
@@ -13,7 +14,6 @@
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
 * [2023-10-28, 13:48:56](https://news.ycombinator.com/item?id=38049774) - [How to Think Computationally about AI, the Universe and Everything](https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/)
-* [2023-10-28, 13:42:51](https://news.ycombinator.com/item?id=38049727) - [Six Great Features with the Upcoming Linux 6.6 Kernel](https://www.phoronix.com/news/Linux-6.6-Great-Features)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 * [2023-10-28, 08:22:46](https://news.ycombinator.com/item?id=38048148) - [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
