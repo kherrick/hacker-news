@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 13:30:16](https://news.ycombinator.com/item?id=38049631) - [US halts exports of most civilian firearms for 90 days](https://www.reuters.com/world/us/us-halts-exports-most-civilian-firearms-90-days-2023-10-27/)
 * [2023-10-28, 10:56:39](https://news.ycombinator.com/item?id=38048811) - [The UK's Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
@@ -22,10 +23,9 @@
 * [2023-10-27, 22:20:28](https://news.ycombinator.com/item?id=38044757) - [The Mystic Art of Gardening](https://aeon.co/essays/a-rebel-spirit-and-an-artists-eye-russell-pages-landscape-design)
 * [2023-10-27, 21:45:22](https://news.ycombinator.com/item?id=38044420) - [Can the language of proof assistants be used for general purpose programming?](https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming)
 * [2023-10-27, 21:08:00](https://news.ycombinator.com/item?id=38043955) - [Large Balloon Reflector: a potentially game-changing antenna design](https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/)
-* [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [Why Programming Languages Matter [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
+* [2023-10-27, 20:53:28](https://news.ycombinator.com/item?id=38043781) - [Why programming languages matter [video]](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-27, 20:41:32](https://news.ycombinator.com/item?id=38043644) - [Visualizing quaternions (2018)](https://eater.net/quaternions)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
-* [2023-10-27, 13:34:06](https://news.ycombinator.com/item?id=38038239) - [Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
