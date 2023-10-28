@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
 * [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
+* [2023-10-27, 23:53:03](https://news.ycombinator.com/item?id=38045456) - [Audioflare: An all-in-one AI audio playground using Cloudflare AI Workers](https://github.com/seanoliver/audioflare)
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
 * [2023-10-27, 23:38:47](https://news.ycombinator.com/item?id=38045358) - [The Emptiness of Literature Written for the Market](https://www.noemamag.com/the-emptiness-of-literature-written-for-the-market/)
 * [2023-10-27, 23:36:45](https://news.ycombinator.com/item?id=38045342) - [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
