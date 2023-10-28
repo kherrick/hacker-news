@@ -10,6 +10,7 @@
 * [2023-10-27, 23:36:45](https://news.ycombinator.com/item?id=38045342) - [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
 * [2023-10-27, 23:03:49](https://news.ycombinator.com/item?id=38045112) - [Scientists Simulate Backward Time Travel Using Quantum Entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
 * [2023-10-27, 22:50:48](https://news.ycombinator.com/item?id=38045012) - [Project Bluefin Linux](https://projectbluefin.io/)
+* [2023-10-27, 22:48:25](https://news.ycombinator.com/item?id=38044997) - [Algebra](https://www.feynmanlectures.caltech.edu/I_22.html)
 * [2023-10-27, 22:45:54](https://news.ycombinator.com/item?id=38044973) - [King Charles III signs off on Online Safety Act with unenforceable spying clause](https://www.theregister.com/2023/10/27/online_safety_act_charles/)
 * [2023-10-27, 22:44:48](https://news.ycombinator.com/item?id=38044962) - [F5 hurriedly squashes BIG-IP remote code execution bug](https://www.theregister.com/2023/10/27/f5_hurriedly_fixes_bigip_remote/)
 * [2023-10-27, 22:36:25](https://news.ycombinator.com/item?id=38044892) - [Pissed of AA customer writes pull request against all their operations](https://blog.phor.net/2023/10/19/American-Airlines-also-known-as-policy)
