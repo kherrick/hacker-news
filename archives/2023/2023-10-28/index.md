@@ -37,6 +37,7 @@
 * [2023-10-28, 07:19:16](https://news.ycombinator.com/item?id=38047872) - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 * [2023-10-28, 07:11:13](https://news.ycombinator.com/item?id=38047838) - [Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
+* [2023-10-28, 07:07:30](https://news.ycombinator.com/item?id=38047821) - [Have You Seen Me?: Missing Works of Nineteenth-Century American Literature](https://commonplace.online/article/have-you-seen-me/)
 * [2023-10-28, 07:00:17](https://news.ycombinator.com/item?id=38047790) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)
 * [2023-10-28, 06:56:51](https://news.ycombinator.com/item?id=38047772) - [\"Is Zero a Number?\": Interviews with a Whole Class of Kindergartners](https://jennalaib.wordpress.com/2023/09/19/is-zero-a-number-interviews-with-a-whole-class-of-kindergartners/)
 * [2023-10-28, 06:51:54](https://news.ycombinator.com/item?id=38047743) - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
