@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 03:40:06](https://news.ycombinator.com/item?id=38046910) - [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
 * [2023-10-28, 02:13:31](https://news.ycombinator.com/item?id=38046448) - [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
 * [2023-10-28, 02:11:42](https://news.ycombinator.com/item?id=38046433) - [15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
 * [2023-10-28, 02:05:59](https://news.ycombinator.com/item?id=38046396) - [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/)
@@ -28,7 +29,6 @@
 * [2023-10-27, 07:25:32](https://news.ycombinator.com/item?id=38035672) - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 * [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
-* [2023-10-26, 10:43:59](https://news.ycombinator.com/item?id=38023891) - [The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
 
 ## [Archives](archives/index.md)
