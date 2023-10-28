@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-28, 19:32:54",
+      "https://news.ycombinator.com/item?id=38052693"
+    ],
+    [
+      "New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]",
+      "https://www.youtube.com/watch?v=8zYBmsP6fes"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 19:15:58",
+      "https://news.ycombinator.com/item?id=38052577"
+    ],
+    [
+      "FCC will vote on plan to remove outdated amateur radio technical restrictions",
+      "https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 19:14:54",
+      "https://news.ycombinator.com/item?id=38052564"
+    ],
+    [
+      "Arena Allocation in SBCL",
+      "https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 18:58:43",
       "https://news.ycombinator.com/item?id=38052425"
     ],
@@ -81,12 +111,12 @@
   ],
   [
     [
-      "2023-10-28, 15:07:19",
-      "https://news.ycombinator.com/item?id=38050368"
+      "2023-10-28, 15:09:36",
+      "https://news.ycombinator.com/item?id=38050392"
     ],
     [
-      "The copyright fight over authors and OpenAI's ChatGPT",
-      "https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot"
+      "Watch This Guy Work, and You'll Finally Understand the TikTok Era",
+      "https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Show HN: Demystifying Advanced RAG Pipelines",
       "https://github.com/pchunduri6/rag-demystified"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 14:50:11",
-      "https://news.ycombinator.com/item?id=38050236"
-    ],
-    [
-      "The Cruel Fantasies of Well-Fed People",
-      "https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/"
     ]
   ],
   [
@@ -157,26 +177,6 @@
     [
       "Magnetically Modelling MagSafe",
       "https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 08:24:33",
-      "https://news.ycombinator.com/item?id=38048155"
-    ],
-    [
-      "Google to invest up to $2B in Anthropic",
-      "https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 08:22:46",
-      "https://news.ycombinator.com/item?id=38048148"
-    ],
-    [
-      "Kurtosis: A composable build system for reproducible environments",
-      "https://www.kurtosis.com/"
     ]
   ],
   [
