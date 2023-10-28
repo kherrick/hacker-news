@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-28, 02:13:31](https://news.ycombinator.com/item?id=38046448) - [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
-* [2023-10-28, 01:43:31](https://news.ycombinator.com/item?id=38046268) - [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
+* [2023-10-28, 01:46:25](https://news.ycombinator.com/item?id=38046293) - [Wise is deactivating Business cards in the US on Oct. 31st](https://wise.com/help/articles/1Rygn0gaetjmjGcOvyjRZm/were-temporarily-deactivating-wise-business-cards-in-the-us)
 * [2023-10-28, 00:23:24](https://news.ycombinator.com/item?id=38045665) - [When gradient descent is a kernel method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
 * [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
