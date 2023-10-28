@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-28, 01:43:31](https://news.ycombinator.com/item?id=38046268) - [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
 * [2023-10-28, 00:23:24](https://news.ycombinator.com/item?id=38045665) - [When Gradient Descent Is a Kernel Method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
 * [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
@@ -30,6 +29,7 @@
 * [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
 * [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
+* [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
 
