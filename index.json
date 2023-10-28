@@ -1,6 +1,86 @@
 [
   [
     [
+      "2023-10-28, 15:08:42",
+      "https://news.ycombinator.com/item?id=38050381"
+    ],
+    [
+      "Samsung disables customer phones remotely, holds data hostage [video]",
+      "https://www.youtube.com/watch?v=Ln4rsxWq3WM"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 15:07:48",
+      "https://news.ycombinator.com/item?id=38050372"
+    ],
+    [
+      "Why teachers in South Korea are scared of their pupils, and their parents",
+      "https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 15:07:19",
+      "https://news.ycombinator.com/item?id=38050368"
+    ],
+    [
+      "The copyright fight over authors and OpenAI's ChatGPT",
+      "https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 15:05:37",
+      "https://news.ycombinator.com/item?id=38050354"
+    ],
+    [
+      "Rydberg Field Measurement System",
+      "https://www.rydbergtechnologies.com/products"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 15:01:34",
+      "https://news.ycombinator.com/item?id=38050326"
+    ],
+    [
+      "Show HN: Demystifying Advanced RAG Pipelines",
+      "https://github.com/pchunduri6/rag-demystified"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 15:00:14",
+      "https://news.ycombinator.com/item?id=38050315"
+    ],
+    [
+      "Dev sets up \"goatse\" trap for sites that steal his free web game",
+      "https://arstechnica.com/gaming/2023/10/dev-sets-up-goatse-trap-for-sites-that-steal-his-free-web-game/"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 14:50:11",
+      "https://news.ycombinator.com/item?id=38050236"
+    ],
+    [
+      "The Cruel Fantasies of Well-Fed People",
+      "https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 14:47:29",
+      "https://news.ycombinator.com/item?id=38050214"
+    ],
+    [
+      "Ask HN: Why aren't Django Admin style dashboards popular in other frameworks?",
+      "https://news.ycombinator.com/item?id=38050214"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 14:32:59",
       "https://news.ycombinator.com/item?id=38050106"
     ],
@@ -27,6 +107,16 @@
     [
       "A.I. Muddies Israel-Hamas War in Unexpected Way",
       "https://www.nytimes.com/2023/10/28/business/media/ai-muddies-israel-hamas-war-in-unexpected-way.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 13:13:21",
+      "https://news.ycombinator.com/item?id=38049525"
+    ],
+    [
+      "Is supervised learning dead for computer vision?",
+      "https://news.ycombinator.com/item?id=38049525"
     ]
   ],
   [
@@ -141,26 +231,6 @@
   ],
   [
     [
-      "2023-10-28, 02:05:59",
-      "https://news.ycombinator.com/item?id=38046396"
-    ],
-    [
-      "Staring at a Wall: Embracing Deliberate Boredom",
-      "https://www.ch3ngl0rd.com/staring-at-a-wall/"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 00:23:24",
-      "https://news.ycombinator.com/item?id=38045665"
-    ],
-    [
-      "When gradient descent is a kernel method",
-      "https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 23:26:15",
       "https://news.ycombinator.com/item?id=38045262"
     ],
@@ -191,52 +261,12 @@
   ],
   [
     [
-      "2023-10-27, 21:45:22",
-      "https://news.ycombinator.com/item?id=38044420"
-    ],
-    [
-      "Can the language of proof assistants be used for general purpose programming?",
-      "https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 21:08:00",
       "https://news.ycombinator.com/item?id=38043955"
     ],
     [
       "Large Balloon Reflector: a potentially game-changing antenna design",
       "https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 20:53:28",
-      "https://news.ycombinator.com/item?id=38043781"
-    ],
-    [
-      "Why programming languages matter [video]",
-      "https://www.youtube.com/watch?v=JqYCt9rTG8g"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 20:41:32",
-      "https://news.ycombinator.com/item?id=38043644"
-    ],
-    [
-      "Visualizing quaternions (2018)",
-      "https://eater.net/quaternions"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 19:46:23",
-      "https://news.ycombinator.com/item?id=38043033"
-    ],
-    [
-      "Shadow: New browser engine made almost entirely in JavaScript",
-      "https://goose.icu/introducing-shadow/"
     ]
   ],
   [
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2023-10-27, 11:25:28",
-      "https://news.ycombinator.com/item?id=38037141"
+      "2023-10-27, 10:56:43",
+      "https://news.ycombinator.com/item?id=38036947"
     ],
     [
-      "Lessons Learned from Twenty Years of Site Reliability Engineering",
-      "https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 07:25:32",
-      "https://news.ycombinator.com/item?id=38035672"
-    ],
-    [
-      "Lean4 helped Terence Tao discover a small bug in his recent paper",
-      "https://mathstodon.xyz/@tao/111287749336059662"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 13:14:11",
-      "https://news.ycombinator.com/item?id=38025073"
-    ],
-    [
-      "Ensō: write now, edit later",
-      "https://enso.sonnet.io/"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 10:43:59",
-      "https://news.ycombinator.com/item?id=38023891"
-    ],
-    [
-      "The Cloud Computer",
-      "https://oxide.computer/blog/the-cloud-computer"
+      "Share Bristol – A Library of Things",
+      "https://www.sharebristol.org.uk/"
     ]
   ],
   [
