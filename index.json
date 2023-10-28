@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-10-28, 22:14:54",
-      "https://news.ycombinator.com/item?id=38053907"
+      "2023-10-28, 21:48:51",
+      "https://news.ycombinator.com/item?id=38053711"
     ],
     [
-      "Against a Dystopian Farm-Free Future",
-      "https://www.theamericanconservative.com/against-a-dystopian-farm-free-future/"
+      "Ask HN: Are there valid Google Search alternatives?",
+      "https://news.ycombinator.com/item?id=38053711"
     ]
   ],
   [
     [
-      "2023-10-28, 21:19:16",
-      "https://news.ycombinator.com/item?id=38053469"
+      "2023-10-28, 21:34:15",
+      "https://news.ycombinator.com/item?id=38053586"
     ],
     [
-      "Tierra (Computer Simulation)",
-      "https://en.wikipedia.org/wiki/Tierra_(computer_simulation)"
+      "Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency",
+      "https://www.nature.com/articles/s41586-022-05108-y"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-10-28, 15:01:34",
-      "https://news.ycombinator.com/item?id=38050326"
-    ],
-    [
-      "Show HN: Demystifying Advanced RAG Pipelines",
-      "https://github.com/pchunduri6/rag-demystified"
-    ]
-  ],
-  [
-    [
       "2023-10-28, 14:32:59",
       "https://news.ycombinator.com/item?id=38050106"
     ],
@@ -297,6 +287,16 @@
     [
       "How to make almost any computer a modern-day Plato terminal",
       "https://arstechnica.com/gadgets/2023/10/how-to-make-almost-any-computer-a-modern-day-plato-terminal/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 10:40:08",
+      "https://news.ycombinator.com/item?id=38023870"
+    ],
+    [
+      "COBOL bridge for Node.js which allows you to run COBOL code from Node.js",
+      "https://github.com/IonicaBizau/node-cobol"
     ]
   ]
 ]
