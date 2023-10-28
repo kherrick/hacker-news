@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 16:24:04](https://news.ycombinator.com/item?id=38051016) - [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
 * [2023-10-28, 16:18:58](https://news.ycombinator.com/item?id=38050983) - [XRDP with H.264 codec brings immense performance boost](https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/)
-* [2023-10-28, 16:12:50](https://news.ycombinator.com/item?id=38050937) - [Did the Entire Media Industry Misquote a Hamas Spokesperson?](https://www.silentlunch.net/p/did-the-entire-media-industry-misquote)
 * [2023-10-28, 16:11:18](https://news.ycombinator.com/item?id=38050920) - [Craig Murray seeks UN protection in Switzerland against British persecution](https://www.wsws.org/en/articles/2023/10/27/taez-o27.html)
 * [2023-10-28, 16:01:27](https://news.ycombinator.com/item?id=38050838) - [Privacy advocate challenges YouTube's ad blocking detection scripts under EU law](https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/)
 * [2023-10-28, 16:00:55](https://news.ycombinator.com/item?id=38050832) - [Quindar Tones](https://en.wikipedia.org/wiki/Quindar_tones)

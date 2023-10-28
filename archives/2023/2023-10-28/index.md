@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 16:24:04](https://news.ycombinator.com/item?id=38051016) - [WireHole is a combination of WireGuard, Pi-hole, and Unbound](https://github.com/IAmStoxe/wirehole)
 * [2023-10-28, 16:18:58](https://news.ycombinator.com/item?id=38050983) - [XRDP with H.264 codec brings immense performance boost](https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/)
 * [2023-10-28, 16:12:50](https://news.ycombinator.com/item?id=38050937) - [Did the Entire Media Industry Misquote a Hamas Spokesperson?](https://www.silentlunch.net/p/did-the-entire-media-industry-misquote)
 * [2023-10-28, 16:11:18](https://news.ycombinator.com/item?id=38050920) - [Craig Murray seeks UN protection in Switzerland against British persecution](https://www.wsws.org/en/articles/2023/10/27/taez-o27.html)
