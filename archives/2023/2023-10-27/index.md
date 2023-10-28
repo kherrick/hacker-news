@@ -90,6 +90,7 @@
 * [2023-10-27, 12:49:32](https://news.ycombinator.com/item?id=38037739) - [Robotaxis 'do not belong in the city of Los Angeles,' lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
 * [2023-10-27, 12:32:53](https://news.ycombinator.com/item?id=38037596) - [Why Is the Django Admin \"Ugly\"?](https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/)
 * [2023-10-27, 12:30:12](https://news.ycombinator.com/item?id=38037574) - [\"Useless Ruby sugar\": Pattern matching (Pt. 2)](https://zverok.space/blog/2023-10-27-syntax-sugar2-pattern-matching-cont.html)
+* [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
 * [2023-10-27, 12:11:40](https://news.ycombinator.com/item?id=38037449) - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://mrtornado24.github.io/DreamCraft3D/)
 * [2023-10-27, 12:02:50](https://news.ycombinator.com/item?id=38037385) - [Sam Bankman-Fried testifies, says he \"skimmed over\" FTX terms of service](https://arstechnica.com/tech-policy/2023/10/sam-bankman-fried-begins-testifying-in-risky-bid-to-beat-ftx-fraud-charges/)
 * [2023-10-27, 11:56:00](https://news.ycombinator.com/item?id=38037338) - [Prompt Engineering Made Easy](https://news.ycombinator.com/item?id=38037338)
