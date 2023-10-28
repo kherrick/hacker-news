@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 23:28:18](https://news.ycombinator.com/item?id=38054460) - [Panopticon](https://en.wikipedia.org/wiki/Panopticon)
 * [2023-10-28, 23:11:25](https://news.ycombinator.com/item?id=38054340) - [How to fix the disastrous new Xcode 15 console](https://lapcatsoftware.com/articles/2023/10/5.html)
 * [2023-10-28, 22:46:00](https://news.ycombinator.com/item?id=38054124) - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
 * [2023-10-28, 22:28:32](https://news.ycombinator.com/item?id=38053982) - [Actual is going open-source](https://actualbudget.com/open-source)
