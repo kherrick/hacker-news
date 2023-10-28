@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 10:56:39](https://news.ycombinator.com/item?id=38048811) - [The UK's Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 * [2023-10-28, 09:18:05](https://news.ycombinator.com/item?id=38048372) - [Israel Helped to Spawn Hamas (2009)](https://www.wsj.com/articles/SB123275572295011847)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
