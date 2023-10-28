@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 01:43:31](https://news.ycombinator.com/item?id=38046268) - [Yup, that was an earthquake outside SF](https://earthquake.usgs.gov/earthquakes/eventpage/nc73952475/executive)
 * [2023-10-28, 00:23:24](https://news.ycombinator.com/item?id=38045665) - [When Gradient Descent Is a Kernel Method](https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html)
+* [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
 * [2023-10-27, 23:36:45](https://news.ycombinator.com/item?id=38045342) - [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
 * [2023-10-27, 23:03:49](https://news.ycombinator.com/item?id=38045112) - [Scientists simulate backward time travel using quantum entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
@@ -11,12 +13,11 @@
 * [2023-10-27, 20:41:32](https://news.ycombinator.com/item?id=38043644) - [Visualizing quaternions (2018)](https://eater.net/quaternions)
 * [2023-10-27, 20:35:35](https://news.ycombinator.com/item?id=38043574) - [Android 14's user-profile data bug](https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/)
 * [2023-10-27, 20:34:18](https://news.ycombinator.com/item?id=38043555) - [New devices could change the way we measure blood pressure](https://knowablemagazine.org/article/technology/2023/devices-could-change-how-we-measure-blood-pressure)
-* [2023-10-27, 19:54:25](https://news.ycombinator.com/item?id=38043127) - [Images from the 2023 Nikon Small World Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2023-photomicrography-competition)
 * [2023-10-27, 19:46:23](https://news.ycombinator.com/item?id=38043033) - [Shadow: New browser engine made almost entirely in JavaScript](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:39:31](https://news.ycombinator.com/item?id=38042954) - [The convolution empire strikes back](https://gonzoml.substack.com/p/the-convolution-empire-strikes-back)
+* [2023-10-27, 17:07:55](https://news.ycombinator.com/item?id=38041073) - [The bacterial horror of hot-air hand dryers (2018)](https://www.health.harvard.edu/blog/the-bacterial-horror-of-the-hot-air-hand-dryer-2018051113823)
 * [2023-10-27, 16:28:09](https://news.ycombinator.com/item?id=38040591) - [Show HN: Biblos – Semantic Bible Embedded Vector Search and Claude LLM](https://github.com/dssjon/biblos)
 * [2023-10-27, 16:16:23](https://news.ycombinator.com/item?id=38040468) - ['Not of faculty quality': How Penn mistreated Katalin Karikó](https://www.thedp.com/article/2023/10/penn-katalin-kariko-university-relationship-mistreatment)
-* [2023-10-27, 15:54:46](https://news.ycombinator.com/item?id=38040164) - [18-year-old built a computer monitor that doesn't strain your eyes](https://www.fastcompany.com/90971739/this-18-year-old-built-a-better-computer-monitor-that-doesnt-strain-your-eyes)
 * [2023-10-27, 15:35:49](https://news.ycombinator.com/item?id=38039905) - [Show HN: Pākiki Proxy – An intercepting proxy for penetration testing](https://pakikiproxy.com/)
 * [2023-10-27, 14:34:35](https://news.ycombinator.com/item?id=38038986) - [Show HN: A local Python prototyping tool for Jupyter and Streamlit](https://github.com/galenmarchetti/jupyter-notebook-package)
 * [2023-10-27, 14:15:09](https://news.ycombinator.com/item?id=38038713) - [Tell HN: Automatic fraud detection is making my life hell](https://news.ycombinator.com/item?id=38038713)
@@ -29,7 +30,6 @@
 * [2023-10-26, 15:22:44](https://news.ycombinator.com/item?id=38026797) - [After 28 years, SSLv2 is still not gone from the internet](https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908)
 * [2023-10-26, 13:14:11](https://news.ycombinator.com/item?id=38025073) - [Ensō: write now, edit later](https://enso.sonnet.io/)
 * [2023-10-26, 04:00:41](https://news.ycombinator.com/item?id=38021463) - [Solitary Confinement's Unlikely Origins](https://publicdomainreview.org/essay/silent-treatment/)
-* [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
 

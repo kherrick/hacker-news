@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 23:57:41](https://news.ycombinator.com/item?id=38045478) - [Kotlin Coroutines vs. Threads Performance Benchmark](https://www.techyourchance.com/kotlin-coroutines-vs-threads-performance-benchmark/)
 * [2023-10-27, 23:47:58](https://news.ycombinator.com/item?id=38045429) - [Bacteria enhances host insect's fertility with implications for disease control](https://news.ucsc.edu/2023/10/russell-plos-23.html)
 * [2023-10-27, 23:36:45](https://news.ycombinator.com/item?id=38045342) - [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/)
 * [2023-10-27, 23:03:49](https://news.ycombinator.com/item?id=38045112) - [Scientists Simulate Backward Time Travel Using Quantum Entanglement](https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/)
@@ -45,6 +46,7 @@
 * [2023-10-27, 17:44:07](https://news.ycombinator.com/item?id=38041551) - [Krita is now available on the macOS store](https://krita.org/en/item/krita-in-stores-update/)
 * [2023-10-27, 17:34:09](https://news.ycombinator.com/item?id=38041434) - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
 * [2023-10-27, 17:26:54](https://news.ycombinator.com/item?id=38041335) - [Google paid $26.3B in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
+* [2023-10-27, 17:07:55](https://news.ycombinator.com/item?id=38041073) - [The bacterial horror of hot-air hand dryers (2018)](https://www.health.harvard.edu/blog/the-bacterial-horror-of-the-hot-air-hand-dryer-2018051113823)
 * [2023-10-27, 16:37:54](https://news.ycombinator.com/item?id=38040702) - [Generate images in one second on your Mac using a latent consistency model](https://replicate.com/blog/run-latent-consistency-model-on-mac)
 * [2023-10-27, 16:32:07](https://news.ycombinator.com/item?id=38040636) - [Why America Doesn't Build](https://www.theatlantic.com/ideas/archive/2023/10/wind-farms-community-opposition/675791/)
 * [2023-10-27, 16:31:22](https://news.ycombinator.com/item?id=38040625) - [A fast, lightweight, and undetectable YouTube Ads Blocker for Firefox](https://addons.mozilla.org/en-US/firefox/addon/fadblock/)
