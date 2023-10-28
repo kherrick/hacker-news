@@ -3,7 +3,7 @@
 * [2023-10-28, 19:32:54](https://news.ycombinator.com/item?id=38052693) - [New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
 * [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
-* [2023-10-28, 18:58:43](https://news.ycombinator.com/item?id=38052425) - [UK bans virginity testing but refuses to apologize to immigrants for past abuses](https://www.cnn.com/2022/02/03/uk/virginity-testing-hymenoplasty-ban-uk-asequals-intl-cmd/index.html)
+* [2023-10-28, 19:03:24](https://news.ycombinator.com/item?id=38052476) - [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
@@ -18,6 +18,7 @@
 * [2023-10-28, 14:20:13](https://news.ycombinator.com/item?id=38050010) - [Webb discovers new feature in Jupiter's atmosphere](https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html)
 * [2023-10-28, 13:48:56](https://news.ycombinator.com/item?id=38049774) - [How to Think Computationally about AI, the Universe and Everything](https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
+* [2023-10-28, 08:22:46](https://news.ycombinator.com/item?id=38048148) - [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
 * [2023-10-28, 07:59:42](https://news.ycombinator.com/item?id=38048054) - [Revisiting Textpattern](https://rubenerd.com/revisiting-textpattern/)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 * [2023-10-28, 07:07:30](https://news.ycombinator.com/item?id=38047821) - [Have You Seen Me?: Missing Works of Nineteenth-Century American Literature](https://commonplace.online/article/have-you-seen-me/)
@@ -29,7 +30,6 @@
 * [2023-10-27, 19:36:48](https://news.ycombinator.com/item?id=38042918) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94)
 * [2023-10-27, 10:56:43](https://news.ycombinator.com/item?id=38036947) - [Share Bristol – A Library of Things](https://www.sharebristol.org.uk/)
 * [2023-10-26, 11:11:52](https://news.ycombinator.com/item?id=38024057) - [Window Maker Live: When less is more, but more is also more?](https://www.theregister.com/2023/10/25/window_maker_096_live/)
-* [2023-10-25, 21:10:15](https://news.ycombinator.com/item?id=38018429) - [DM1 by Colin Skelton (2015) [pdf]](http://www.bitsandbytes.shedlandz.co.uk/CS_DM1-1.pdf)
 
 ## [Archives](archives/index.md)
 

@@ -7,6 +7,7 @@
 * [2023-10-28, 19:32:54](https://news.ycombinator.com/item?id=38052693) - [New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
 * [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
+* [2023-10-28, 19:03:24](https://news.ycombinator.com/item?id=38052476) - [Pope tempted by Python. Signs off on coding scheme for kids](https://www.theregister.com/2023/10/28/pope_software_python/)
 * [2023-10-28, 18:58:43](https://news.ycombinator.com/item?id=38052425) - [UK bans virginity testing but refuses to apologize to immigrants for past abuses](https://www.cnn.com/2022/02/03/uk/virginity-testing-hymenoplasty-ban-uk-asequals-intl-cmd/index.html)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
