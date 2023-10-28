@@ -8,6 +8,7 @@
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
 * [2023-10-28, 09:18:05](https://news.ycombinator.com/item?id=38048372) - [Israel Helped to Spawn Hamas (2009)](https://www.wsj.com/articles/SB123275572295011847)
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google agrees to invest up to $2B in OpenAI rival Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
+* [2023-10-28, 08:22:46](https://news.ycombinator.com/item?id=38048148) - [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
 * [2023-10-28, 07:19:16](https://news.ycombinator.com/item?id=38047872) - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 * [2023-10-28, 07:11:13](https://news.ycombinator.com/item?id=38047838) - [Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
