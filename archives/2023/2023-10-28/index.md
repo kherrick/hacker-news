@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 19:32:54](https://news.ycombinator.com/item?id=38052693) - [New York State Prisons: How to Avoid Rape in Prison – Men's Orientation [video]](https://www.youtube.com/watch?v=8zYBmsP6fes)
+* [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC will vote on plan to remove outdated amateur radio technical restrictions](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
+* [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
 * [2023-10-28, 18:58:43](https://news.ycombinator.com/item?id=38052425) - [UK bans virginity testing but refuses to apologize to immigrants for past abuses](https://www.cnn.com/2022/02/03/uk/virginity-testing-hymenoplasty-ban-uk-asequals-intl-cmd/index.html)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
@@ -20,6 +23,7 @@
 * [2023-10-28, 16:00:55](https://news.ycombinator.com/item?id=38050832) - [Quindar Tones](https://en.wikipedia.org/wiki/Quindar_tones)
 * [2023-10-28, 15:50:22](https://news.ycombinator.com/item?id=38050752) - [Killing Windows 10 in 2025 could turn PCs into eWaste](https://liliputing.com/lilbits-killing-windows-10-in-2025-could-turn-millions-of-pcs-into-ewaste-or-at-least-compromise-their-security/)
 * [2023-10-28, 15:26:23](https://news.ycombinator.com/item?id=38050535) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
+* [2023-10-28, 15:09:36](https://news.ycombinator.com/item?id=38050392) - [Watch This Guy Work, and You'll Finally Understand the TikTok Era](https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/)
 * [2023-10-28, 15:08:42](https://news.ycombinator.com/item?id=38050381) - [Samsung disables customer phones remotely, holds data hostage [video]](https://www.youtube.com/watch?v=Ln4rsxWq3WM)
 * [2023-10-28, 15:07:48](https://news.ycombinator.com/item?id=38050372) - [Why teachers in South Korea are scared of their pupils, and their parents](https://www.cnn.com/2023/10/27/asia/south-korea-teachers-strike-analysis-intl-hnk/index.html)
 * [2023-10-28, 15:07:19](https://news.ycombinator.com/item?id=38050368) - [The copyright fight over authors and OpenAI's ChatGPT](https://www.vox.com/future-perfect/2023/10/25/23930683/openai-chatgpt-george-rr-martin-john-grisham-ai-safety-artificial-intelligence-copyright-law-chatbot)
