@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-28, 18:58:43](https://news.ycombinator.com/item?id=38052425) - [UK bans virginity testing but refuses to apologize to immigrants for past abuses](https://www.cnn.com/2022/02/03/uk/virginity-testing-hymenoplasty-ban-uk-asequals-intl-cmd/index.html)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
@@ -18,7 +19,6 @@
 * [2023-10-28, 08:24:33](https://news.ycombinator.com/item?id=38048155) - [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 * [2023-10-28, 08:22:46](https://news.ycombinator.com/item?id=38048148) - [Kurtosis: A composable build system for reproducible environments](https://www.kurtosis.com/)
 * [2023-10-28, 07:59:42](https://news.ycombinator.com/item?id=38048054) - [Revisiting Textpattern](https://rubenerd.com/revisiting-textpattern/)
-* [2023-10-28, 07:19:16](https://news.ycombinator.com/item?id=38047872) - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 * [2023-10-28, 07:07:30](https://news.ycombinator.com/item?id=38047821) - [Have You Seen Me?: Missing Works of Nineteenth-Century American Literature](https://commonplace.online/article/have-you-seen-me/)
 * [2023-10-28, 07:00:17](https://news.ycombinator.com/item?id=38047790) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38047790)

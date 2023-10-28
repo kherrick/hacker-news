@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 18:58:43](https://news.ycombinator.com/item?id=38052425) - [UK bans virginity testing but refuses to apologize to immigrants for past abuses](https://www.cnn.com/2022/02/03/uk/virginity-testing-hymenoplasty-ban-uk-asequals-intl-cmd/index.html)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses – Once you get your first $10M](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:27:50](https://news.ycombinator.com/item?id=38052212) - [McDonalds is giving free French fries in return for waiving the right to sue](https://www.mashed.com/1432093/mcdonalds-new-app-terms-conditions-reactions/)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
