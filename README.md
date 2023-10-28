@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-28, 22:14:54](https://news.ycombinator.com/item?id=38053907) - [Against a Dystopian Farm-Free Future](https://www.theamericanconservative.com/against-a-dystopian-farm-free-future/)
+* [2023-10-28, 22:46:00](https://news.ycombinator.com/item?id=38054124) - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
 * [2023-10-28, 21:48:51](https://news.ycombinator.com/item?id=38053711) - [Ask HN: Are there valid Google Search alternatives?](https://news.ycombinator.com/item?id=38053711)
 * [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
@@ -21,7 +21,7 @@
 * [2023-10-28, 13:48:56](https://news.ycombinator.com/item?id=38049774) - [How to Think Computationally about AI, the Universe and Everything](https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/)
 * [2023-10-28, 07:59:42](https://news.ycombinator.com/item?id=38048054) - [Revisiting Textpattern](https://rubenerd.com/revisiting-textpattern/)
 * [2023-10-28, 07:16:32](https://news.ycombinator.com/item?id=38047861) - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
-* [2023-10-27, 23:26:15](https://news.ycombinator.com/item?id=38045262) - [Writing for Professional and Technical Audiences](https://pnewman.org/writing.html)
+* [2023-10-28, 07:07:30](https://news.ycombinator.com/item?id=38047821) - [Have You Seen Me?: Missing Works of Nineteenth-Century American Literature](https://commonplace.online/article/have-you-seen-me/)
 * [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
 * [2023-10-27, 19:36:48](https://news.ycombinator.com/item?id=38042918) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94)
 * [2023-10-27, 12:55:24](https://news.ycombinator.com/item?id=38037794) - [Biggest image in the smallest space (2011)](https://www.bamsoftware.com/hacks/deflate.html)
