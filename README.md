@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 21:42:52](https://news.ycombinator.com/item?id=38063112) - [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
 * [2023-10-29, 21:19:11](https://news.ycombinator.com/item?id=38062923) - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 * [2023-10-29, 21:10:52](https://news.ycombinator.com/item?id=38062843) - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
 * [2023-10-29, 20:50:26](https://news.ycombinator.com/item?id=38062649) - [We migrated our back end from Vercel to Fly.io and the challenges we faced](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly)
@@ -22,7 +23,6 @@
 * [2023-10-29, 09:37:21](https://news.ycombinator.com/item?id=38057011) - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
 * [2023-10-29, 08:59:04](https://news.ycombinator.com/item?id=38056854) - [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
 * [2023-10-29, 08:56:11](https://news.ycombinator.com/item?id=38056841) - [AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
-* [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-29, 03:31:12](https://news.ycombinator.com/item?id=38055621) - ['The Genius of Their Age' Review: Central Asia's Big Thinkers](https://www.wsj.com/arts-culture/books/the-genius-of-their-age-review-central-asias-big-thinkers-9c73dee6)
 * [2023-10-29, 03:12:42](https://news.ycombinator.com/item?id=38055558) - [Aftershock of the New: Woodblock Prints of Post-Disaster Tokyo (1928–32)](https://publicdomainreview.org/collection/aftershock-of-the-new/)
 * [2023-10-27, 13:11:10](https://news.ycombinator.com/item?id=38037963) - [South Pole Medevac (2016)](https://www.southpolestation.com/trivia/10s/medevac.html)

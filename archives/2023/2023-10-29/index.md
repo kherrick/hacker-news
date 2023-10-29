@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 21:42:52](https://news.ycombinator.com/item?id=38063112) - [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
 * [2023-10-29, 21:25:39](https://news.ycombinator.com/item?id=38062983) - [Robert Roberson Is on Texas Death Row for a Crime That Never Occurred](https://innocenceproject.org/what-to-know-about-robert-roberson-on-texas-death-row-for-a-crime-that-never-occurred/)
 * [2023-10-29, 21:19:11](https://news.ycombinator.com/item?id=38062923) - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 * [2023-10-29, 21:10:52](https://news.ycombinator.com/item?id=38062843) - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
