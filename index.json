@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-10-29, 20:50:26",
+      "https://news.ycombinator.com/item?id=38062649"
+    ],
+    [
+      "We migrated our back end from Vercel to Fly.io and the challenges we faced",
+      "https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 20:17:21",
       "https://news.ycombinator.com/item?id=38062297"
     ],
@@ -31,22 +41,32 @@
   ],
   [
     [
+      "2023-10-29, 20:14:34",
+      "https://news.ycombinator.com/item?id=38062269"
+    ],
+    [
+      "Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API",
+      "https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 19:40:44",
+      "https://news.ycombinator.com/item?id=38061910"
+    ],
+    [
+      "Dungeons and Dragons saved my life",
+      "https://www.hearsay.tech/2023-10-29-dungeons-and-dragons-saved-my-life.gmi"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 17:24:06",
       "https://news.ycombinator.com/item?id=38060698"
     ],
     [
       "Genode – Genode on seL4 – IPC and virtual memory",
       "https://genode.org/documentation/articles/sel4_part_2"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 17:09:37",
-      "https://news.ycombinator.com/item?id=38060566"
-    ],
-    [
-      "Zima Board – Hackable Single Board Server",
-      "https://www.zimaboard.com/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-29, 12:06:58",
-      "https://news.ycombinator.com/item?id=38057759"
-    ],
-    [
-      "Show HN: how I built the largest open database of Australian law",
-      "https://umarbutler.com/how-i-built-the-largest-open-database-of-australian-law/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 11:41:05",
       "https://news.ycombinator.com/item?id=38057591"
     ],
@@ -207,16 +217,6 @@
     [
       "AI can catalogue a forest's inhabitants simply by listening",
       "https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 08:00:01",
-      "https://news.ycombinator.com/item?id=38056637"
-    ],
-    [
-      "Giving a Shit as a Service (2022)",
-      "https://allenpike.com/2022/giving-a-shit"
     ]
   ],
   [
