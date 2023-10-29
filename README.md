@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-28, 23:43:33](https://news.ycombinator.com/item?id=38054531) - [LAPD YouTube Channel Suspended for Posting Violent Content](https://ktla.com/news/local-news/lapd-youtube-channel-suspended-for-posting-violent-content/)
+* [2023-10-29, 02:12:13](https://news.ycombinator.com/item?id=38055308) - [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
 * [2023-10-28, 22:57:30](https://news.ycombinator.com/item?id=38054232) - [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface)](https://lupyuen.codeberg.page/articles/sbi.html)
 * [2023-10-28, 22:46:00](https://news.ycombinator.com/item?id=38054124) - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
 * [2023-10-28, 22:28:32](https://news.ycombinator.com/item?id=38053982) - [Actual is going open-source (2022)](https://actualbudget.com/open-source)
@@ -10,7 +10,7 @@
 * [2023-10-28, 19:25:57](https://news.ycombinator.com/item?id=38052643) - [Is the Intel N100 a better option than high-end ARM RK3588 boards at the moment?](https://bret.dk/intel-n100-a-challenge-to-arm/)
 * [2023-10-28, 19:15:58](https://news.ycombinator.com/item?id=38052577) - [FCC wants to bolster amateur radio](https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
-* [2023-10-28, 18:57:50](https://news.ycombinator.com/item?id=38052416) - [React Use C](https://github.com/elnardu/react-use-c)
+* [2023-10-28, 18:57:50](https://news.ycombinator.com/item?id=38052416) - [React use C](https://github.com/elnardu/react-use-c)
 * [2023-10-28, 18:47:25](https://news.ycombinator.com/item?id=38052344) - [Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses (2022)](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 18:13:54](https://news.ycombinator.com/item?id=38052080) - [Why is a second equal to the duration of 9,192,631,770 of radiations?](https://physics.stackexchange.com/questions/243144/why-is-a-second-equal-to-the-duration-of-exactly-9-192-631-770-periods-of-radiat)
