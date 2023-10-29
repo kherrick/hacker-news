@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
+* [2023-10-29, 13:44:45](https://news.ycombinator.com/item?id=38058593) - [Google's Sundar Pichai testifies in landmark monopoly trial](https://www.npr.org/2023/10/29/1208928441/google-to-present-its-star-witness-the-companys-ceo-in-landmark-monopoly-trial)
 * [2023-10-29, 13:17:57](https://news.ycombinator.com/item?id=38058332) - [Android 14 review: There's always next year](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/)
 * [2023-10-29, 12:36:27](https://news.ycombinator.com/item?id=38057981) - [Where the heck did all those structures inside complex cells come from?](https://arstechnica.com/science/2023/10/where-the-heck-did-all-those-structures-inside-complex-cells-come-from/)
 * [2023-10-29, 12:00:42](https://news.ycombinator.com/item?id=38057712) - [Great Question (YC W21) Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
