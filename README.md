@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-29, 21:10:52](https://news.ycombinator.com/item?id=38062843) - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
-* [2023-10-29, 20:43:21](https://news.ycombinator.com/item?id=38062573) - [Laid-off masses have a message for Zuckerberg, Benioff: We'll never come back](https://fortune.com/2023/10/21/meta-salesforce-layoffs-boomerang-employees/)
 * [2023-10-29, 20:17:21](https://news.ycombinator.com/item?id=38062297) - [Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 17:24:06](https://news.ycombinator.com/item?id=38060698) - [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
@@ -27,9 +26,10 @@
 * [2023-10-29, 03:31:12](https://news.ycombinator.com/item?id=38055621) - ['The Genius of Their Age' Review: Central Asia's Big Thinkers](https://www.wsj.com/arts-culture/books/the-genius-of-their-age-review-central-asias-big-thinkers-9c73dee6)
 * [2023-10-29, 03:12:42](https://news.ycombinator.com/item?id=38055558) - [Aftershock of the New: Woodblock Prints of Post-Disaster Tokyo (1928–32)](https://publicdomainreview.org/collection/aftershock-of-the-new/)
 * [2023-10-27, 13:11:10](https://news.ycombinator.com/item?id=38037963) - [South Pole Medevac (2016)](https://www.southpolestation.com/trivia/10s/medevac.html)
+* [2023-10-27, 07:43:01](https://news.ycombinator.com/item?id=38035769) - [Navigating through the complexities of semiconductor design and development](https://pcb-design.semiconductorreview.com/cxoinsight/navigating-through-the-complexities-of-semiconductor-design-and-development-nwid-632.html)
 * [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
 * [2023-10-26, 19:33:30](https://news.ycombinator.com/item?id=38030657) - [The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
-* [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle Accelerator on a Chip Hits Penny-Size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
+* [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle accelerator on a chip hits penny-size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
 
 ## [Archives](archives/index.md)
 
