@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-10-29, 09:21:18",
-      "https://news.ycombinator.com/item?id=38056949"
-    ],
-    [
-      "Nobody Understands C++: Intro (2007)",
-      "https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 08:59:04",
       "https://news.ycombinator.com/item?id=38056854"
     ],
@@ -207,6 +197,16 @@
     [
       "Nitrogen electroreduction with almost 100% current-to-ammonia efficiency (2022)",
       "https://www.nature.com/articles/s41586-022-05108-y"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 19:14:54",
+      "https://news.ycombinator.com/item?id=38052564"
+    ],
+    [
+      "Arena Allocation in SBCL",
+      "https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt"
     ]
   ],
   [
