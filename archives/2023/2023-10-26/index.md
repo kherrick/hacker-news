@@ -21,6 +21,7 @@
 * [2023-10-26, 19:56:38](https://news.ycombinator.com/item?id=38030934) - [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [The Magical Japanese Art of Luggage Forwarding](https://craigmod.com/ridgeline/170/)
 * [2023-10-26, 19:51:18](https://news.ycombinator.com/item?id=38030867) - [Dyalog APL Keyboard Layouts](https://dfns.dyalog.com/n_keyboards.htm)
+* [2023-10-26, 19:41:05](https://news.ycombinator.com/item?id=38030749) - [Pinball isn't as random as it seems (2018) [video]](https://www.youtube.com/watch?v=T1zzyGhA4-g)
 * [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)
 * [2023-10-26, 19:37:07](https://news.ycombinator.com/item?id=38030705) - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
 * [2023-10-26, 19:32:32](https://news.ycombinator.com/item?id=38030642) - [Tell HN: 0.61 USD per week for daily sprouts of grains and pulses](https://news.ycombinator.com/item?id=38030642)

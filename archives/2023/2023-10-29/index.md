@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 03:54:36](https://news.ycombinator.com/item?id=38055711) - [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
 * [2023-10-29, 03:50:19](https://news.ycombinator.com/item?id=38055697) - [Sedition Hunters: how ordinary Americans helped track down the Capitol rioters](https://www.theguardian.com/books/2023/oct/28/sedition-hunters-book-jan-6-rioters-fbi-trump)
 * [2023-10-29, 02:53:14](https://news.ycombinator.com/item?id=38055484) - [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
