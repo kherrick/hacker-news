@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 05:36:26](https://news.ycombinator.com/item?id=38056035) - [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/)
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 * [2023-10-29, 04:58:40](https://news.ycombinator.com/item?id=38055890) - [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
 * [2023-10-29, 04:48:13](https://news.ycombinator.com/item?id=38055864) - [Indians Are Entering the U.S. Illegally in Record Numbers](https://www.wsj.com/world/india/indians-are-entering-the-u-s-illegally-in-record-numbers-2cf19e38)
+* [2023-10-29, 04:43:26](https://news.ycombinator.com/item?id=38055845) - [PostgreSQL: Effective_io_concurrency Benchmarked](https://portavita.github.io/2019-07-19-PostgreSQL_effective_io_concurrency_benchmarked/)
 * [2023-10-29, 04:37:09](https://news.ycombinator.com/item?id=38055832) - [Redbean – Single-file distributable web server (with embedded Lua and SQLite)](https://justine.lol/redbean/index.html)
 * [2023-10-29, 04:31:34](https://news.ycombinator.com/item?id=38055816) - [The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
 * [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
