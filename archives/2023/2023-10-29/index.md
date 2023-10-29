@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 14:40:52](https://news.ycombinator.com/item?id=38059036) - [Ask HN: If you were to build a web app today what tech stack would you choose?](https://news.ycombinator.com/item?id=38059036)
 * [2023-10-29, 14:37:13](https://news.ycombinator.com/item?id=38059004) - [Ask HN: Is Express still \"de-facto\" for building Node back ends?](https://news.ycombinator.com/item?id=38059004)
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 14:24:20](https://news.ycombinator.com/item?id=38058916) - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
@@ -11,7 +12,9 @@
 * [2023-10-29, 13:44:45](https://news.ycombinator.com/item?id=38058593) - [Google's Sundar Pichai testifies in landmark monopoly trial](https://www.npr.org/2023/10/29/1208928441/google-to-present-its-star-witness-the-companys-ceo-in-landmark-monopoly-trial)
 * [2023-10-29, 13:17:57](https://news.ycombinator.com/item?id=38058332) - [Android 14 review: There's always next year](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/)
 * [2023-10-29, 13:07:42](https://news.ycombinator.com/item?id=38058238) - [When Police Raid a Newspaper for No Reason](https://www.youtube.com/watch?v=-CX1aJRUzPY)
+* [2023-10-29, 12:42:12](https://news.ycombinator.com/item?id=38058031) - [The murky math of the New York Times bestsellers list](https://thehustle.co/the-murky-math-of-the-new-york-times-bestsellers-list/)
 * [2023-10-29, 12:36:27](https://news.ycombinator.com/item?id=38057981) - [Where the heck did all those structures inside complex cells come from?](https://arstechnica.com/science/2023/10/where-the-heck-did-all-those-structures-inside-complex-cells-come-from/)
+* [2023-10-29, 12:27:34](https://news.ycombinator.com/item?id=38057924) - [World's Smallest Particle Accelerator](https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works)
 * [2023-10-29, 12:15:30](https://news.ycombinator.com/item?id=38057837) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 12:06:58](https://news.ycombinator.com/item?id=38057759) - [Show HN: how I built the largest open database of Australian law](https://umarbutler.com/how-i-built-the-largest-open-database-of-australian-law/)
 * [2023-10-29, 12:00:42](https://news.ycombinator.com/item?id=38057712) - [Great Question (YC W21) Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
