@@ -12,7 +12,6 @@
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [A theory that Mars lost its magnetic field and then its oceans (2022)](https://bigthink.com/hard-science/mars-lost-oceans-magnetic-field/)
 * [2023-10-29, 13:49:36](https://news.ycombinator.com/item?id=38058638) - [The product manager role is a mistake](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/)
 * [2023-10-29, 12:42:12](https://news.ycombinator.com/item?id=38058031) - [The murky math of the New York Times bestsellers list](https://thehustle.co/the-murky-math-of-the-new-york-times-bestsellers-list/)
-* [2023-10-29, 12:27:34](https://news.ycombinator.com/item?id=38057924) - [World's Smallest Particle Accelerator](https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works)
 * [2023-10-29, 12:15:30](https://news.ycombinator.com/item?id=38057837) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 12:06:58](https://news.ycombinator.com/item?id=38057759) - [Show HN: how I built the largest open database of Australian law](https://umarbutler.com/how-i-built-the-largest-open-database-of-australian-law/)
 * [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
@@ -30,6 +29,7 @@
 * [2023-10-28, 13:00:15](https://news.ycombinator.com/item?id=38049451) - [The Philosophy of Humor: What Makes Something Funny? (2022)](https://1000wordphilosophy.com/2022/11/20/the-philosophy-of-humor/)
 * [2023-10-27, 12:55:46](https://news.ycombinator.com/item?id=38037799) - [Using Suffix Trees to Detect Homology at Scale](https://benchling.engineering/using-suffix-trees-to-detect-homology-at-scale-e877dbd6f620?gi=12932060e233)
 * [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
+* [2023-10-26, 19:48:42](https://news.ycombinator.com/item?id=38030824) - [Bayesian Regression Markets](https://arxiv.org/abs/2310.14992)
 
 ## [Archives](archives/index.md)
 
