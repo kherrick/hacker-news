@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 09:19:57](https://news.ycombinator.com/item?id=38056941) - [\"Advanced Tracking and Fingerprinting Protection\" Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
 * [2023-10-29, 08:59:04](https://news.ycombinator.com/item?id=38056854) - [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
 * [2023-10-29, 08:17:53](https://news.ycombinator.com/item?id=38056707) - [Work only 3 hours a day, but everyday (2016)](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
