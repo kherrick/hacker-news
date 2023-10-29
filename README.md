@@ -7,7 +7,7 @@
 * [2023-10-29, 04:58:40](https://news.ycombinator.com/item?id=38055890) - [The Concept of the Ruliad (2021)](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
 * [2023-10-29, 04:43:26](https://news.ycombinator.com/item?id=38055845) - [PostgreSQL: Effective_io_concurrency benchmarked (2019)](https://portavita.github.io/2019-07-19-PostgreSQL_effective_io_concurrency_benchmarked/)
 * [2023-10-29, 04:31:34](https://news.ycombinator.com/item?id=38055816) - [The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
-* [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
+* [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/s without FLOPS – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 03:54:36](https://news.ycombinator.com/item?id=38055711) - [Are colonoscopies worth it?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
 * [2023-10-29, 02:53:14](https://news.ycombinator.com/item?id=38055484) - [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
 * [2023-10-28, 23:01:19](https://news.ycombinator.com/item?id=38054267) - [A literate Org doc on building Emacs from source](https://gitlab.com/spudlyo/orgdemo2)
