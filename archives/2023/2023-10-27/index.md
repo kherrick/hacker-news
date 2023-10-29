@@ -85,6 +85,7 @@
 * [2023-10-27, 13:34:06](https://news.ycombinator.com/item?id=38038239) - [Show HN: ScratchDB – Open-Source Snowflake on ClickHouse](https://github.com/scratchdata/ScratchDB)
 * [2023-10-27, 13:28:35](https://news.ycombinator.com/item?id=38038174) - [How Soap Works: The Science Behind Handwashing](https://www.pfizer.com/news/articles/how_soap_works_the_science_behind_handwashing)
 * [2023-10-27, 13:19:37](https://news.ycombinator.com/item?id=38038066) - [Copying Is Not Theft [video]](https://www.youtube.com/watch?v=IeTybKL1pM4)
+* [2023-10-27, 13:11:10](https://news.ycombinator.com/item?id=38037963) - [South Pole Medevac (2016)](https://www.southpolestation.com/trivia/10s/medevac.html)
 * [2023-10-27, 13:00:54](https://news.ycombinator.com/item?id=38037851) - [The Slow Death of Authenticity in an Attention Economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
 * [2023-10-27, 12:55:46](https://news.ycombinator.com/item?id=38037799) - [Using Suffix Trees to Detect Homology at Scale](https://benchling.engineering/using-suffix-trees-to-detect-homology-at-scale-e877dbd6f620?gi=12932060e233)
 * [2023-10-27, 12:55:24](https://news.ycombinator.com/item?id=38037794) - [Biggest image in the smallest space (2011)](https://www.bamsoftware.com/hacks/deflate.html)
