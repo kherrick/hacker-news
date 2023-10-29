@@ -2,7 +2,6 @@
 
 * [2023-10-29, 00:47:20](https://news.ycombinator.com/item?id=38054860) - [Friend's Chandler, Matthew Perry, died at 54](https://www.latimes.com/california/story/2023-10-28/freinds-star-matthew-perry-dead-at-56)
 * [2023-10-28, 23:43:33](https://news.ycombinator.com/item?id=38054531) - [LAPD YouTube Channel Suspended for Posting Violent Content](https://ktla.com/news/local-news/lapd-youtube-channel-suspended-for-posting-violent-content/)
-* [2023-10-28, 23:11:25](https://news.ycombinator.com/item?id=38054340) - [How to fix the disastrous new Xcode 15 console](https://lapcatsoftware.com/articles/2023/10/5.html)
 * [2023-10-28, 22:57:30](https://news.ycombinator.com/item?id=38054232) - [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface)](https://lupyuen.codeberg.page/articles/sbi.html)
 * [2023-10-28, 22:46:00](https://news.ycombinator.com/item?id=38054124) - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
 * [2023-10-28, 22:28:32](https://news.ycombinator.com/item?id=38053982) - [Actual is going open-source (2022)](https://actualbudget.com/open-source)
@@ -21,6 +20,7 @@
 * [2023-10-28, 15:26:23](https://news.ycombinator.com/item?id=38050535) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 13:48:56](https://news.ycombinator.com/item?id=38049774) - [How to Think Computationally about AI, the Universe and Everything](https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/)
+* [2023-10-28, 07:59:42](https://news.ycombinator.com/item?id=38048054) - [Revisiting Textpattern](https://rubenerd.com/revisiting-textpattern/)
 * [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
 * [2023-10-27, 12:55:24](https://news.ycombinator.com/item?id=38037794) - [Biggest image in the smallest space (2011)](https://www.bamsoftware.com/hacks/deflate.html)
 * [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
