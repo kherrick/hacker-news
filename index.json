@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-29, 13:17:57",
+      "https://news.ycombinator.com/item?id=38058332"
+    ],
+    [
+      "Android 14 review: There's always next year",
+      "https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 12:36:27",
       "https://news.ycombinator.com/item?id=38057981"
     ],
@@ -97,16 +107,6 @@
     [
       "Exploiting DNS response parsing on the Wii U",
       "https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 07:47:19",
-      "https://news.ycombinator.com/item?id=38056579"
-    ],
-    [
-      "Argo Workflows – Proven Patterns from Production",
-      "https://hodgkins.io/argo-workflow-proven-patterns-from-production"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-10-28, 19:14:54",
-      "https://news.ycombinator.com/item?id=38052564"
-    ],
-    [
-      "Arena Allocation in SBCL",
-      "https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt"
-    ]
-  ],
-  [
-    [
       "2023-10-28, 18:47:25",
       "https://news.ycombinator.com/item?id=38052344"
     ],
@@ -277,6 +267,16 @@
     [
       "Bayesian Regression Markets",
       "https://arxiv.org/abs/2310.14992"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 18:19:40",
+      "https://news.ycombinator.com/item?id=38029648"
+    ],
+    [
+      "The History of Laravel's dd() [video]",
+      "https://www.youtube.com/watch?v=EI0nTQle4vw"
     ]
   ],
   [
