@@ -19,7 +19,7 @@
 * [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Nitrogen electroreduction with almost 100% current-to-ammonia efficiency (2022)](https://www.nature.com/articles/s41586-022-05108-y)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
 * [2023-10-28, 18:47:25](https://news.ycombinator.com/item?id=38052344) - [Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
-* [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the volume on my Bluetooth earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
+* [2023-10-28, 15:26:23](https://news.ycombinator.com/item?id=38050535) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
 * [2023-10-26, 22:03:50](https://news.ycombinator.com/item?id=38032296) - [Why is it so hard to make digital fire look good?](https://www.vulture.com/article/movies-fire-computer-generated-flames.html)
