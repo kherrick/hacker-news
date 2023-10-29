@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 19:29:15](https://news.ycombinator.com/item?id=38061779) - [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
 * [2023-10-29, 18:57:23](https://news.ycombinator.com/item?id=38061498) - [The Compiler Is Just Ignoring All My Comments](https://twitter.com/ESYudkowsky/status/1718654143110512741)
 * [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)

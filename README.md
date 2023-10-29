@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 19:29:15](https://news.ycombinator.com/item?id=38061779) - [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
 * [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 17:47:20](https://news.ycombinator.com/item?id=38060912) - [Carl Sagan's Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
@@ -9,7 +10,6 @@
 * [2023-10-29, 15:21:34](https://news.ycombinator.com/item?id=38059396) - [Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary](https://kimchi-reader.app)
 * [2023-10-29, 15:09:08](https://news.ycombinator.com/item?id=38059276) - [Announcing SurrealDB 1.0](https://surrealdb.com/blog/announcing-surrealdb-1-0)
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(learn 'scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
-* [2023-10-29, 14:24:20](https://news.ycombinator.com/item?id=38058916) - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
 * [2023-10-29, 14:22:05](https://news.ycombinator.com/item?id=38058902) - [A fourth of U.S. health visits now delivered by non-physicians](https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [A theory that Mars lost its magnetic field and then its oceans (2022)](https://bigthink.com/hard-science/mars-lost-oceans-magnetic-field/)
 * [2023-10-29, 13:49:36](https://news.ycombinator.com/item?id=38058638) - [The product manager role is a mistake](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/)
