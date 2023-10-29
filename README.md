@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 23:01:12](https://news.ycombinator.com/item?id=38063716) - [My dream job wasn't worth it: Former employees (Meta, McKinsey, JP Morgan) share](https://www.msn.com/en-in/money/topstories/my-dream-job-wasn-t-worth-it-former-employees-at-meta-mckinsey-and-jp-morgan-share-how-they-burned-out-and-left/ar-AA1j2kLG)
 * [2023-10-29, 21:42:52](https://news.ycombinator.com/item?id=38063112) - [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
 * [2023-10-29, 21:19:11](https://news.ycombinator.com/item?id=38062923) - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 * [2023-10-29, 21:10:52](https://news.ycombinator.com/item?id=38062843) - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
@@ -15,7 +16,6 @@
 * [2023-10-29, 15:25:29](https://news.ycombinator.com/item?id=38059431) - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
 * [2023-10-29, 15:21:34](https://news.ycombinator.com/item?id=38059396) - [Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary](https://kimchi-reader.app)
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(learn 'scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
-* [2023-10-29, 14:22:05](https://news.ycombinator.com/item?id=38058902) - [A fourth of U.S. health visits now delivered by non-physicians](https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [A theory that Mars lost its magnetic field and then its oceans (2022)](https://bigthink.com/hard-science/mars-lost-oceans-magnetic-field/)
 * [2023-10-29, 12:15:30](https://news.ycombinator.com/item?id=38057837) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
