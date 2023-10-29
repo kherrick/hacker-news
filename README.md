@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-29, 10:01:30](https://news.ycombinator.com/item?id=38057110) - [Toyota’s Ammonia Engine](https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091)
 * [2023-10-29, 09:21:18](https://news.ycombinator.com/item?id=38056949) - [Nobody Understands C++: Intro (2007)](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
 * [2023-10-29, 09:19:57](https://news.ycombinator.com/item?id=38056941) - [\"Advanced Tracking and Fingerprinting Protection\" Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
 * [2023-10-29, 08:59:04](https://news.ycombinator.com/item?id=38056854) - [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
@@ -20,6 +19,7 @@
 * [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Nitrogen electroreduction with almost 100% current-to-ammonia efficiency (2022)](https://www.nature.com/articles/s41586-022-05108-y)
 * [2023-10-28, 19:14:54](https://news.ycombinator.com/item?id=38052564) - [Arena Allocation in SBCL](https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt)
 * [2023-10-28, 18:47:25](https://news.ycombinator.com/item?id=38052344) - [Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
+* [2023-10-28, 18:13:54](https://news.ycombinator.com/item?id=38052080) - [Why is a second equal to the duration of 9,192,631,770 of radiations? (2016)](https://physics.stackexchange.com/questions/243144/why-is-a-second-equal-to-the-duration-of-exactly-9-192-631-770-periods-of-radiat)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-26, 22:03:50](https://news.ycombinator.com/item?id=38032296) - [Why is it so hard to make digital fire look good?](https://www.vulture.com/article/movies-fire-computer-generated-flames.html)
 * [2023-10-26, 21:52:16](https://news.ycombinator.com/item?id=38032169) - [USB Power Delivery for Hobby Projects](https://flameeyes.blog/2023/08/13/usb-power-delivery-for-hobby-projects/)
