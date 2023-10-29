@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-10-29, 12:00:42",
+      "https://news.ycombinator.com/item?id=38057712"
+    ],
+    [
+      "Great Question (YC W21) Is Hiring",
+      "https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 11:41:05",
+      "https://news.ycombinator.com/item?id=38057591"
+    ],
+    [
+      "NixOS Reproducible Builds: minimal ISO successfully independently rebuilt",
+      "https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 11:32:38",
+      "https://news.ycombinator.com/item?id=38057543"
+    ],
+    [
+      "Show HN: YCombinato – A domain-hacked \"Hacker News\" client",
+      "https://news.ycombinato.com/"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 10:07:32",
       "https://news.ycombinator.com/item?id=38057142"
     ],
     [
       "The Pirates Are Back",
       "https://www.pandasecurity.com/en/mediacenter/online-piracy-back/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 09:37:21",
+      "https://news.ycombinator.com/item?id=38057011"
+    ],
+    [
+      "Linux running on RISC-V emulated in Scratch",
+      "https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2023-10-29, 08:17:53",
-      "https://news.ycombinator.com/item?id=38056707"
-    ],
-    [
-      "Work only 3 hours a day, but everyday (2016)",
-      "http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 08:00:01",
       "https://news.ycombinator.com/item?id=38056637"
     ],
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2023-10-29, 07:01:40",
-      "https://news.ycombinator.com/item?id=38056395"
-    ],
-    [
-      "Supabase (YC S20) is hiring a technical product marketer (fully remote)",
-      "https://boards.greenhouse.io/supabase/jobs/5005843004"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 06:22:57",
       "https://news.ycombinator.com/item?id=38056227"
     ],
     [
       "Running Speeds",
       "https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 05:36:26",
-      "https://news.ycombinator.com/item?id=38056035"
-    ],
-    [
-      "Project Silica",
-      "https://www.microsoft.com/en-us/research/project/project-silica/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-10-26, 17:50:24",
-      "https://news.ycombinator.com/item?id=38029171"
+      "2023-10-26, 16:49:15",
+      "https://news.ycombinator.com/item?id=38028268"
     ],
     [
-      "Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation",
-      "https://arxiv.org/abs/2310.10959"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 17:48:07",
-      "https://news.ycombinator.com/item?id=38029136"
-    ],
-    [
-      "Abstract Interpretation in a Nutshell",
-      "https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html"
+      "Hidden in Plain Sight (2006)",
+      "https://queue.acm.org/detail.cfm?id=1117401"
     ]
   ]
 ]
