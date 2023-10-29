@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-29, 21:25:39",
+      "https://news.ycombinator.com/item?id=38062983"
+    ],
+    [
+      "Robert Roberson Is on Texas Death Row for a Crime That Never Occurred",
+      "https://innocenceproject.org/what-to-know-about-robert-roberson-on-texas-death-row-for-a-crime-that-never-occurred/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 21:10:52",
+      "https://news.ycombinator.com/item?id=38062843"
+    ],
+    [
+      "Linux 6.7 Reworks PE Header Generation to Reduce Attack Area",
+      "https://www.phoronix.com/news/Linux-6.7-x86-boot"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 20:43:21",
       "https://news.ycombinator.com/item?id=38062573"
     ],
@@ -25,18 +45,8 @@
       "https://news.ycombinator.com/item?id=38061096"
     ],
     [
-      "How many billions of transistors in your iPhone processor?",
+      "How many billions of transistors in an iPhone processor?",
       "https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 17:47:20",
-      "https://news.ycombinator.com/item?id=38060912"
-    ],
-    [
-      "Carl Sagan's Rules for Bullshit-Busting and Critical Thinking",
-      "https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary",
       "https://kimchi-reader.app"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 15:09:08",
-      "https://news.ycombinator.com/item?id=38059276"
-    ],
-    [
-      "Announcing SurrealDB 1.0",
-      "https://surrealdb.com/blog/announcing-surrealdb-1-0"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-10-29, 08:00:01",
-      "https://news.ycombinator.com/item?id=38056637"
-    ],
-    [
-      "Giving a Shit as a Service (2022)",
-      "https://allenpike.com/2022/giving-a-shit"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 07:51:42",
       "https://news.ycombinator.com/item?id=38056599"
     ],
@@ -267,6 +257,16 @@
     [
       "South Pole Medevac (2016)",
       "https://www.southpolestation.com/trivia/10s/medevac.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 12:55:46",
+      "https://news.ycombinator.com/item?id=38037799"
+    ],
+    [
+      "Using Suffix Trees to Detect Homology at Scale",
+      "https://benchling.engineering/using-suffix-trees-to-detect-homology-at-scale-e877dbd6f620?gi=12932060e233"
     ]
   ],
   [
