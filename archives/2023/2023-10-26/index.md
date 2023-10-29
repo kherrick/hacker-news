@@ -34,6 +34,7 @@
 * [2023-10-26, 18:37:24](https://news.ycombinator.com/item?id=38029893) - [Roombas at the End of the World](https://spectrum.ieee.org/south-pole-roombas)
 * [2023-10-26, 18:21:42](https://news.ycombinator.com/item?id=38029671) - [Making PostgreSQL tick: New features in pg_cron](https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/)
 * [2023-10-26, 18:20:08](https://news.ycombinator.com/item?id=38029654) - [Synology MFA Fails if Internet is down](https://community.synology.com/enu/forum/2/post/145666)
+* [2023-10-26, 18:19:40](https://news.ycombinator.com/item?id=38029648) - [The History of Laravel's dd() [video]](https://www.youtube.com/watch?v=EI0nTQle4vw)
 * [2023-10-26, 18:08:45](https://news.ycombinator.com/item?id=38029479) - [Cities Skylines 2 runs with 20fps on an Nvidia RTX4090](https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/)
 * [2023-10-26, 17:58:05](https://news.ycombinator.com/item?id=38029307) - [OpenAI Preparedness Challenge](https://openai.com/form/preparedness-challenge)
 * [2023-10-26, 17:51:00](https://news.ycombinator.com/item?id=38029182) - [A New Generation of Mathematicians Pushes Prime Number Barriers](https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/)
