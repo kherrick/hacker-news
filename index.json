@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-29, 09:21:18",
+      "https://news.ycombinator.com/item?id=38056949"
+    ],
+    [
+      "Emptycrate.com: Nobody Understands C++: Intro",
+      "https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 09:19:57",
       "https://news.ycombinator.com/item?id=38056941"
     ],
@@ -17,6 +27,16 @@
     [
       "Ken Burns chronicles the sad fate of the American buffalo",
       "https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 08:50:03",
+      "https://news.ycombinator.com/item?id=38056822"
+    ],
+    [
+      "What Demonic Possession Is Like from a Vatican-Trained Exorcist",
+      "https://www.insider.com/what-demonic-possession-exorcisms-are-like-from-vatican-exorcist-2023-10"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-10-29, 04:31:34",
-      "https://news.ycombinator.com/item?id=38055816"
-    ],
-    [
-      "The Windows installer of ImageMagick will no longer be signed",
-      "https://github.com/ImageMagick/ImageMagick/discussions/6826"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 04:30:13",
       "https://news.ycombinator.com/item?id=38055814"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2023-10-28, 14:32:59",
-      "https://news.ycombinator.com/item?id=38050106"
-    ],
-    [
-      "MagicaVoxel – A free voxel art editor and interactive path tracing renderer",
-      "https://ephtracy.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 22:23:36",
       "https://news.ycombinator.com/item?id=38044782"
     ],
     [
       "Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI",
       "https://github.com/IAmStoxe/wirehole"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 22:03:50",
+      "https://news.ycombinator.com/item?id=38032296"
+    ],
+    [
+      "Why is it so hard to make digital fire look good?",
+      "https://www.vulture.com/article/movies-fire-computer-generated-flames.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Abstract Interpretation in a Nutshell",
       "https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 10:40:08",
-      "https://news.ycombinator.com/item?id=38023870"
-    ],
-    [
-      "COBOL bridge for Node.js",
-      "https://github.com/IonicaBizau/node-cobol"
     ]
   ]
 ]
