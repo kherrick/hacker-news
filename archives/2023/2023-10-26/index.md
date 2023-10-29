@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 22:03:50](https://news.ycombinator.com/item?id=38032296) - [Why is it so hard to make digital fire look good?](https://www.vulture.com/article/movies-fire-computer-generated-flames.html)
 * [2023-10-26, 22:03:07](https://news.ycombinator.com/item?id=38032288) - [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
 * [2023-10-26, 21:59:53](https://news.ycombinator.com/item?id=38032253) - [iPhones have been exposing MAC addresses despite Apple’s promises otherwise](https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/)
