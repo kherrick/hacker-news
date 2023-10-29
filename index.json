@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-29, 21:25:39",
-      "https://news.ycombinator.com/item?id=38062983"
-    ],
-    [
-      "Robert Roberson Is on Texas Death Row for a Crime That Never Occurred",
-      "https://innocenceproject.org/what-to-know-about-robert-roberson-on-texas-death-row-for-a-crime-that-never-occurred/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 21:10:52",
       "https://news.ycombinator.com/item?id=38062843"
     ],
@@ -221,12 +211,32 @@
   ],
   [
     [
+      "2023-10-29, 08:00:01",
+      "https://news.ycombinator.com/item?id=38056637"
+    ],
+    [
+      "Giving a Shit as a Service (2022)",
+      "https://allenpike.com/2022/giving-a-shit"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 07:51:42",
       "https://news.ycombinator.com/item?id=38056599"
     ],
     [
       "Exploiting DNS response parsing on the Wii U",
       "https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 07:25:33",
+      "https://news.ycombinator.com/item?id=38056476"
+    ],
+    [
+      "Research Unix Sixth Edition (WASM)",
+      "https://research.swtch.com/v6/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "South Pole Medevac (2016)",
       "https://www.southpolestation.com/trivia/10s/medevac.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 12:55:46",
-      "https://news.ycombinator.com/item?id=38037799"
-    ],
-    [
-      "Using Suffix Trees to Detect Homology at Scale",
-      "https://benchling.engineering/using-suffix-trees-to-detect-homology-at-scale-e877dbd6f620?gi=12932060e233"
     ]
   ],
   [
