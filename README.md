@@ -22,7 +22,6 @@
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses (2022)](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
-* [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
 * [2023-10-26, 21:52:16](https://news.ycombinator.com/item?id=38032169) - [USB Power Delivery for Hobby Projects](https://flameeyes.blog/2023/08/13/usb-power-delivery-for-hobby-projects/)
 * [2023-10-26, 21:04:34](https://news.ycombinator.com/item?id=38031688) - [The Language of Lava Lamps](https://www.theparisreview.org/blog/2023/09/29/the-language-of-lava-lamps/)
 * [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)
@@ -30,6 +29,7 @@
 * [2023-10-26, 17:51:00](https://news.ycombinator.com/item?id=38029182) - [A New Generation of Mathematicians Pushes Prime Number Barriers](https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/)
 * [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
 * [2023-10-26, 17:48:07](https://news.ycombinator.com/item?id=38029136) - [Abstract Interpretation in a Nutshell](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html)
+* [2023-10-26, 10:40:08](https://news.ycombinator.com/item?id=38023870) - [COBOL bridge for Node.js](https://github.com/IonicaBizau/node-cobol)
 
 ## [Archives](archives/index.md)
 
