@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-10-29, 07:25:33",
-      "https://news.ycombinator.com/item?id=38056476"
-    ],
-    [
-      "Research Unix Sixth Edition (WASM)",
-      "https://research.swtch.com/v6/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 06:22:57",
       "https://news.ycombinator.com/item?id=38056227"
     ],
@@ -297,6 +287,16 @@
     [
       "The IBM 5153's True CGA Palette and Color Output (2022)",
       "https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 17:11:07",
+      "https://news.ycombinator.com/item?id=38028610"
+    ],
+    [
+      "Particle Accelerator on a Chip Hits Penny-Size",
+      "https://spectrum.ieee.org/particle-accelerator-chip-sized"
     ]
   ]
 ]
