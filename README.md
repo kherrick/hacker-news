@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-29, 02:12:13](https://news.ycombinator.com/item?id=38055308) - [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
+* [2023-10-28, 23:01:19](https://news.ycombinator.com/item?id=38054267) - [A literate Org doc on building Emacs from source](https://gitlab.com/spudlyo/orgdemo2)
 * [2023-10-28, 22:57:30](https://news.ycombinator.com/item?id=38054232) - [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface)](https://lupyuen.codeberg.page/articles/sbi.html)
 * [2023-10-28, 22:28:32](https://news.ycombinator.com/item?id=38053982) - [Actual is going open-source (2022)](https://actualbudget.com/open-source)
 * [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
@@ -22,7 +23,6 @@
 * [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
 * [2023-10-27, 12:55:24](https://news.ycombinator.com/item?id=38037794) - [Biggest image in the smallest space (2011)](https://www.bamsoftware.com/hacks/deflate.html)
 * [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
-* [2023-10-26, 20:15:08](https://news.ycombinator.com/item?id=38031136) - [Dizzy Dunker Mousetrap [video]](https://www.youtube.com/watch?v=yoUNYVO6WIY)
 * [2023-10-26, 19:51:18](https://news.ycombinator.com/item?id=38030867) - [Dyalog APL Keyboard Layouts](https://dfns.dyalog.com/n_keyboards.htm)
 * [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)
 * [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
