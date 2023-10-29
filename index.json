@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38056949"
     ],
     [
-      "Emptycrate.com: Nobody Understands C++: Intro",
+      "Nobody Understands C++: Intro (2007)",
       "https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38056395"
     ],
     [
-      "Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)",
+      "Supabase (YC S20) is hiring a technical product marketer (fully remote)",
       "https://boards.greenhouse.io/supabase/jobs/5005843004"
     ]
   ],
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-10-29, 04:43:26",
-      "https://news.ycombinator.com/item?id=38055845"
-    ],
-    [
-      "PostgreSQL: Effective_io_concurrency benchmarked (2019)",
-      "https://portavita.github.io/2019-07-19-PostgreSQL_effective_io_concurrency_benchmarked/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 04:30:13",
       "https://news.ycombinator.com/item?id=38055814"
     ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=38054267"
     ],
     [
-      "A literate Org doc on building Emacs from source",
+      "Literate Documentation with Emacs and Org Mode",
       "https://gitlab.com/spudlyo/orgdemo2"
     ]
   ],
@@ -177,16 +167,6 @@
     [
       "Nitrogen electroreduction with almost 100% current-to-ammonia efficiency (2022)",
       "https://www.nature.com/articles/s41586-022-05108-y"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 19:15:58",
-      "https://news.ycombinator.com/item?id=38052577"
-    ],
-    [
-      "FCC wants to bolster amateur radio",
-      "https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio"
     ]
   ],
   [
@@ -207,6 +187,26 @@
     [
       "Show HN: OpenSign – Open source alternative to DocuSign",
       "https://github.com/OpenSignLabs/OpenSign"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 17:06:46",
+      "https://news.ycombinator.com/item?id=38051488"
+    ],
+    [
+      "Fixing the volume on my Bluetooth earbuds",
+      "https://blog.ornx.net/post/bluetooth-volume-fix/"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 14:32:59",
+      "https://news.ycombinator.com/item?id=38050106"
+    ],
+    [
+      "MagicaVoxel – A free voxel art editor and interactive path tracing renderer",
+      "https://ephtracy.github.io/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=38029182"
     ],
     [
-      "A New Generation of Mathematicians Pushes Prime Number Barriers",
+      "A new generation of mathematicians pushes prime number barriers",
       "https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/"
     ]
   ],
