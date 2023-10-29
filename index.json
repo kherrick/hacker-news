@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-29, 00:47:20",
+      "https://news.ycombinator.com/item?id=38054860"
+    ],
+    [
+      "Friend's Chandler, Matthew Perry, died at 54",
+      "https://www.latimes.com/california/story/2023-10-28/freinds-star-matthew-perry-dead-at-56"
+    ]
+  ],
+  [
+    [
+      "2023-10-28, 23:43:33",
+      "https://news.ycombinator.com/item?id=38054531"
+    ],
+    [
+      "LAPD YouTube Channel Suspended for Posting Violent Content",
+      "https://ktla.com/news/local-news/lapd-youtube-channel-suspended-for-posting-violent-content/"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 23:28:18",
       "https://news.ycombinator.com/item?id=38054460"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2023-10-28, 22:57:30",
+      "https://news.ycombinator.com/item?id=38054232"
+    ],
+    [
+      "Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface)",
+      "https://lupyuen.codeberg.page/articles/sbi.html"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 22:46:00",
       "https://news.ycombinator.com/item?id=38054124"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38053982"
     ],
     [
-      "Actual is going open-source",
+      "Actual is going open-source (2022)",
       "https://actualbudget.com/open-source"
     ]
   ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-10-28, 18:13:54",
-      "https://news.ycombinator.com/item?id=38052080"
-    ],
-    [
-      "Why is a second equal to the duration of 9,192,631,770 of radiations?",
-      "https://physics.stackexchange.com/questions/243144/why-is-a-second-equal-to-the-duration-of-exactly-9-192-631-770-periods-of-radiat"
-    ]
-  ],
-  [
-    [
       "2023-10-28, 17:06:46",
       "https://news.ycombinator.com/item?id=38051488"
     ],
@@ -167,16 +187,6 @@
     [
       "Getting my library cards onto my phone the hard way",
       "https://iliana.fyi/blog/ios-wallet-library-card/"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 15:05:37",
-      "https://news.ycombinator.com/item?id=38050354"
-    ],
-    [
-      "Rydberg Field Measurement System",
-      "https://www.rydbergtechnologies.com/products"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2023-10-28, 07:07:30",
-      "https://news.ycombinator.com/item?id=38047821"
-    ],
-    [
-      "Have You Seen Me?: Missing Works of Nineteenth-Century American Literature",
-      "https://commonplace.online/article/have-you-seen-me/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 22:23:36",
       "https://news.ycombinator.com/item?id=38044782"
     ],
     [
       "Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI",
       "https://github.com/IAmStoxe/wirehole"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 19:36:48",
-      "https://news.ycombinator.com/item?id=38042918"
-    ],
-    [
-      "Kubernetes and Kernel Panics",
-      "https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Making and Playing Music with Google Sheets and Web MIDI API",
       "https://www.asepbagja.com/programming/making-music-with-google-sheets/"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 20:15:08",
+      "https://news.ycombinator.com/item?id=38031136"
+    ],
+    [
+      "Dizzy Dunker Mousetrap [video]",
+      "https://www.youtube.com/watch?v=yoUNYVO6WIY"
     ]
   ],
   [
