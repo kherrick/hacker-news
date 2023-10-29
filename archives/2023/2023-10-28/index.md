@@ -63,6 +63,7 @@
 * [2023-10-28, 13:42:51](https://news.ycombinator.com/item?id=38049727) - [Six Great Features with the Upcoming Linux 6.6 Kernel](https://www.phoronix.com/news/Linux-6.6-Great-Features)
 * [2023-10-28, 13:30:16](https://news.ycombinator.com/item?id=38049631) - [US halts exports of most civilian firearms for 90 days](https://www.reuters.com/world/us/us-halts-exports-most-civilian-firearms-90-days-2023-10-27/)
 * [2023-10-28, 13:13:21](https://news.ycombinator.com/item?id=38049525) - [Is supervised learning dead for computer vision?](https://news.ycombinator.com/item?id=38049525)
+* [2023-10-28, 13:00:15](https://news.ycombinator.com/item?id=38049451) - [The Philosophy of Humor: What Makes Something Funny? (2022)](https://1000wordphilosophy.com/2022/11/20/the-philosophy-of-humor/)
 * [2023-10-28, 12:26:26](https://news.ycombinator.com/item?id=38049287) - [Where is my file's metadata?](https://eclecticlight.co/2023/10/28/where-is-my-files-metadata/)
 * [2023-10-28, 10:56:39](https://news.ycombinator.com/item?id=38048811) - [The UK's Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
 * [2023-10-28, 09:25:11](https://news.ycombinator.com/item?id=38048401) - [Magnetically Modelling MagSafe](https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/)
