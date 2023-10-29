@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-29, 23:01:12](https://news.ycombinator.com/item?id=38063716) - [My dream job wasn't worth it: Former employees (Meta, McKinsey, JP Morgan) share](https://www.msn.com/en-in/money/topstories/my-dream-job-wasn-t-worth-it-former-employees-at-meta-mckinsey-and-jp-morgan-share-how-they-burned-out-and-left/ar-AA1j2kLG)
+* [2023-10-29, 22:35:24](https://news.ycombinator.com/item?id=38063536) - [Pi in Other Universes: How the value of pi depends on the definition of distance](https://azeemba.com/posts/pi-in-other-universes.html)
 * [2023-10-29, 21:42:52](https://news.ycombinator.com/item?id=38063112) - [Alan Wake 2 Is an Unexpected Visual Marvel Even on Older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
 * [2023-10-29, 21:19:11](https://news.ycombinator.com/item?id=38062923) - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 * [2023-10-29, 21:10:52](https://news.ycombinator.com/item?id=38062843) - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
@@ -17,6 +17,7 @@
 * [2023-10-29, 15:21:34](https://news.ycombinator.com/item?id=38059396) - [Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary](https://kimchi-reader.app)
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(learn 'scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [A theory that Mars lost its magnetic field and then its oceans (2022)](https://bigthink.com/hard-science/mars-lost-oceans-magnetic-field/)
+* [2023-10-29, 12:42:12](https://news.ycombinator.com/item?id=38058031) - [The murky math of the New York Times bestsellers list](https://thehustle.co/the-murky-math-of-the-new-york-times-bestsellers-list/)
 * [2023-10-29, 12:15:30](https://news.ycombinator.com/item?id=38057837) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 * [2023-10-29, 09:37:21](https://news.ycombinator.com/item?id=38057011) - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
@@ -29,7 +30,6 @@
 * [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
 * [2023-10-26, 19:33:30](https://news.ycombinator.com/item?id=38030657) - [The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
 * [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle accelerator on a chip hits penny-size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
-* [2023-10-26, 16:14:22](https://news.ycombinator.com/item?id=38027687) - [Pottery becomes water treatment device for Navajo nation](https://techxplore.com/news/2023-10-pottery-treatment-device-navajo-nation.html)
 
 ## [Archives](archives/index.md)
 
