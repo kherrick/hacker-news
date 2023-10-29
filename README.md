@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 16:29:14](https://news.ycombinator.com/item?id=38060133) - [jQuery 4.0 99% Complete](https://github.com/jquery/jquery/milestone/7)
 * [2023-10-29, 15:47:09](https://news.ycombinator.com/item?id=38059668) - [Apple Watch violates patents held by Orange Co. tech company, ITC finds](https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds)
 * [2023-10-29, 15:47:05](https://news.ycombinator.com/item?id=38059667) - [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
 * [2023-10-29, 15:25:29](https://news.ycombinator.com/item?id=38059431) - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
@@ -8,7 +9,6 @@
 * [2023-10-29, 14:24:20](https://news.ycombinator.com/item?id=38058916) - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
 * [2023-10-29, 13:49:36](https://news.ycombinator.com/item?id=38058638) - [The product manager role is a mistake](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/)
-* [2023-10-29, 13:17:57](https://news.ycombinator.com/item?id=38058332) - [Android 14 review: There's always next year](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/)
 * [2023-10-29, 12:42:12](https://news.ycombinator.com/item?id=38058031) - [The murky math of the New York Times bestsellers list](https://thehustle.co/the-murky-math-of-the-new-york-times-bestsellers-list/)
 * [2023-10-29, 12:27:34](https://news.ycombinator.com/item?id=38057924) - [World's Smallest Particle Accelerator](https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works)
 * [2023-10-29, 12:15:30](https://news.ycombinator.com/item?id=38057837) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)

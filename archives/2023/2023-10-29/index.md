@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 16:29:14](https://news.ycombinator.com/item?id=38060133) - [jQuery 4.0 99% Complete](https://github.com/jquery/jquery/milestone/7)
 * [2023-10-29, 15:47:09](https://news.ycombinator.com/item?id=38059668) - [Apple Watch violates patents held by Orange Co. tech company, ITC finds](https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds)
 * [2023-10-29, 15:47:05](https://news.ycombinator.com/item?id=38059667) - [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
 * [2023-10-29, 15:25:29](https://news.ycombinator.com/item?id=38059431) - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
