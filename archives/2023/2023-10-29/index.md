@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 20:43:21](https://news.ycombinator.com/item?id=38062573) - [Laid-off masses have a message for Zuckerberg, Benioff: We'll never come back](https://fortune.com/2023/10/21/meta-salesforce-layoffs-boomerang-employees/)
 * [2023-10-29, 20:17:21](https://news.ycombinator.com/item?id=38062297) - [Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
 * [2023-10-29, 19:29:15](https://news.ycombinator.com/item?id=38061779) - [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
 * [2023-10-29, 18:57:23](https://news.ycombinator.com/item?id=38061498) - [The Compiler Is Just Ignoring All My Comments](https://twitter.com/ESYudkowsky/status/1718654143110512741)
@@ -14,6 +15,7 @@
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
 * [2023-10-29, 16:29:14](https://news.ycombinator.com/item?id=38060133) - [jQuery 4.0 99% Complete](https://github.com/jquery/jquery/milestone/7)
+* [2023-10-29, 16:15:00](https://news.ycombinator.com/item?id=38059961) - [MenuetOS: An entire operating system in x86_64 assembly](http://www.menuetos.net/)
 * [2023-10-29, 15:47:09](https://news.ycombinator.com/item?id=38059668) - [Apple Watch violates patents held by Orange Co. tech company, ITC finds](https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds)
 * [2023-10-29, 15:47:05](https://news.ycombinator.com/item?id=38059667) - [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
 * [2023-10-29, 15:25:29](https://news.ycombinator.com/item?id=38059431) - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
