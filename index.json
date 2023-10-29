@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=38057110"
     ],
     [
-      "Toyota CEO: \"Our Ammonia Engine Is the End of EV's\"",
+      "Toyota’s Ammonia Engine",
       "https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "\"Advanced Tracking and Fingerprinting Protection\" Leaks DNS Queries to Apple",
       "https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 09:16:59",
-      "https://news.ycombinator.com/item?id=38056919"
-    ],
-    [
-      "Putting ads in hardware through HDMI",
-      "https://patents.google.com/patent/US11785300B2/en"
     ]
   ],
   [
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38056227"
     ],
     [
-      "Why are you so slow?",
+      "Running Speeds",
       "https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Abstract Interpretation in a Nutshell",
       "https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 10:40:08",
+      "https://news.ycombinator.com/item?id=38023870"
+    ],
+    [
+      "COBOL bridge for Node.js",
+      "https://github.com/IonicaBizau/node-cobol"
     ]
   ]
 ]
