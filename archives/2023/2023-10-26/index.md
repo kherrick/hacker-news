@@ -39,6 +39,7 @@
 * [2023-10-26, 16:45:48](https://news.ycombinator.com/item?id=38028214) - [X Won't Demonetize Russell Brand, the Company Tells Pro-Censorship British MPs](https://reclaimthenet.org/x-wont-demonetize-russell-brand)
 * [2023-10-26, 16:44:47](https://news.ycombinator.com/item?id=38028196) - [Pro-Palestinian Instagram account locked by Meta for 'security reasons'](https://www.theguardian.com/technology/2023/oct/26/pro-palestinian-instagram-account-locked-by-meta-for-security-reasons)
 * [2023-10-26, 16:34:48](https://news.ycombinator.com/item?id=38028037) - [Appending to an std:string character-by-character: how does the capacity grow?](https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/)
+* [2023-10-26, 16:33:02](https://news.ycombinator.com/item?id=38028007) - [Designing a Movie for Sound (1999)](http://filmsound.org/articles/designing_for_sound.htm)
 * [2023-10-26, 16:20:10](https://news.ycombinator.com/item?id=38027791) - [Show HN: I am curating the best websites on the internet](https://www.internetisbeautiful.com)
 * [2023-10-26, 16:07:24](https://news.ycombinator.com/item?id=38027587) - [How bioelectricity could regrow limbs and organs](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)
 * [2023-10-26, 16:05:00](https://news.ycombinator.com/item?id=38027543) - [The UK's controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
