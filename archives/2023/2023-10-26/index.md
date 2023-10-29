@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
 * [2023-10-26, 22:03:50](https://news.ycombinator.com/item?id=38032296) - [Why is it so hard to make digital fire look good?](https://www.vulture.com/article/movies-fire-computer-generated-flames.html)
 * [2023-10-26, 22:03:07](https://news.ycombinator.com/item?id=38032288) - [Interactive Intro to Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
