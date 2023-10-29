@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 21:25:39](https://news.ycombinator.com/item?id=38062983) - [Robert Roberson Is on Texas Death Row for a Crime That Never Occurred](https://innocenceproject.org/what-to-know-about-robert-roberson-on-texas-death-row-for-a-crime-that-never-occurred/)
+* [2023-10-29, 21:10:52](https://news.ycombinator.com/item?id=38062843) - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
 * [2023-10-29, 20:43:21](https://news.ycombinator.com/item?id=38062573) - [Laid-off masses have a message for Zuckerberg, Benioff: We'll never come back](https://fortune.com/2023/10/21/meta-salesforce-layoffs-boomerang-employees/)
 * [2023-10-29, 20:17:21](https://news.ycombinator.com/item?id=38062297) - [Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
 * [2023-10-29, 19:29:15](https://news.ycombinator.com/item?id=38061779) - [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
