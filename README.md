@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-29, 03:54:36](https://news.ycombinator.com/item?id=38055711) - [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
-* [2023-10-29, 03:50:19](https://news.ycombinator.com/item?id=38055697) - [Sedition Hunters: how ordinary Americans helped track down the Capitol rioters](https://www.theguardian.com/books/2023/oct/28/sedition-hunters-book-jan-6-rioters-fbi-trump)
 * [2023-10-29, 02:53:14](https://news.ycombinator.com/item?id=38055484) - [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
 * [2023-10-29, 02:12:13](https://news.ycombinator.com/item?id=38055308) - [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
 * [2023-10-28, 23:01:19](https://news.ycombinator.com/item?id=38054267) - [A literate Org doc on building Emacs from source](https://gitlab.com/spudlyo/orgdemo2)
@@ -20,6 +19,7 @@
 * [2023-10-28, 15:26:23](https://news.ycombinator.com/item?id=38050535) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-28, 13:48:56](https://news.ycombinator.com/item?id=38049774) - [How to Think Computationally about AI, the Universe and Everything](https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/)
+* [2023-10-28, 07:59:42](https://news.ycombinator.com/item?id=38048054) - [Revisiting Textpattern](https://rubenerd.com/revisiting-textpattern/)
 * [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
 * [2023-10-27, 12:55:24](https://news.ycombinator.com/item?id=38037794) - [Biggest image in the smallest space (2011)](https://www.bamsoftware.com/hacks/deflate.html)
 * [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
