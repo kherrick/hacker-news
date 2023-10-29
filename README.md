@@ -7,7 +7,6 @@
 * [2023-10-29, 09:37:21](https://news.ycombinator.com/item?id=38057011) - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
 * [2023-10-29, 09:21:18](https://news.ycombinator.com/item?id=38056949) - [Nobody Understands C++: Intro (2007)](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
 * [2023-10-29, 09:19:57](https://news.ycombinator.com/item?id=38056941) - [\"Advanced Tracking and Fingerprinting Protection\" Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
-* [2023-10-29, 09:18:41](https://news.ycombinator.com/item?id=38056933) - [Latvia to start conscripting men for mandatory military service, starting 2024](https://www.loc.gov/item/global-legal-monitor/2023-10-04/latvia-new-law-introduces-compulsory-military-service-starting-in-january-2024/)
 * [2023-10-29, 08:59:04](https://news.ycombinator.com/item?id=38056854) - [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
 * [2023-10-29, 08:56:11](https://news.ycombinator.com/item?id=38056841) - [AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
 * [2023-10-29, 08:00:01](https://news.ycombinator.com/item?id=38056637) - [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
@@ -29,6 +28,7 @@
 * [2023-10-26, 19:48:42](https://news.ycombinator.com/item?id=38030824) - [Bayesian Regression Markets](https://arxiv.org/abs/2310.14992)
 * [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)
 * [2023-10-26, 17:51:00](https://news.ycombinator.com/item?id=38029182) - [A new generation of mathematicians pushes prime number barriers](https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/)
+* [2023-10-26, 17:48:07](https://news.ycombinator.com/item?id=38029136) - [Abstract Interpretation in a Nutshell](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html)
 * [2023-10-26, 16:49:15](https://news.ycombinator.com/item?id=38028268) - [Hidden in Plain Sight (2006)](https://queue.acm.org/detail.cfm?id=1117401)
 
 ## [Archives](archives/index.md)
