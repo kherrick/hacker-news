@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-29, 04:37:09](https://news.ycombinator.com/item?id=38055832) - [Redbean – Single-file distributable web server (with embedded Lua and SQLite)](https://justine.lol/redbean/index.html)
 * [2023-10-29, 04:31:34](https://news.ycombinator.com/item?id=38055816) - [The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
 * [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 03:54:36](https://news.ycombinator.com/item?id=38055711) - [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
@@ -25,6 +24,7 @@
 * [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
 * [2023-10-26, 19:51:18](https://news.ycombinator.com/item?id=38030867) - [Dyalog APL Keyboard Layouts](https://dfns.dyalog.com/n_keyboards.htm)
 * [2023-10-26, 19:41:05](https://news.ycombinator.com/item?id=38030749) - [Pinball isn't as random as it seems (2018) [video]](https://www.youtube.com/watch?v=T1zzyGhA4-g)
+* [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)
 * [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
 * [2023-10-26, 17:48:07](https://news.ycombinator.com/item?id=38029136) - [Abstract Interpretation in a Nutshell](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html)
 * [2023-10-26, 16:33:02](https://news.ycombinator.com/item?id=38028007) - [Designing a Movie for Sound (1999)](http://filmsound.org/articles/designing_for_sound.htm)
