@@ -22,7 +22,6 @@
 * [2023-10-29, 08:56:11](https://news.ycombinator.com/item?id=38056841) - [AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
 * [2023-10-29, 08:00:01](https://news.ycombinator.com/item?id=38056637) - [Giving a Shit as a Service (2022)](https://allenpike.com/2022/giving-a-shit)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
-* [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 * [2023-10-29, 03:31:12](https://news.ycombinator.com/item?id=38055621) - ['The Genius of Their Age' Review: Central Asia's Big Thinkers](https://www.wsj.com/arts-culture/books/the-genius-of-their-age-review-central-asias-big-thinkers-9c73dee6)
@@ -30,6 +29,7 @@
 * [2023-10-27, 12:55:46](https://news.ycombinator.com/item?id=38037799) - [Using Suffix Trees to Detect Homology at Scale](https://benchling.engineering/using-suffix-trees-to-detect-homology-at-scale-e877dbd6f620?gi=12932060e233)
 * [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
 * [2023-10-26, 19:33:30](https://news.ycombinator.com/item?id=38030657) - [The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
+* [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle Accelerator on a Chip Hits Penny-Size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
 
 ## [Archives](archives/index.md)
 

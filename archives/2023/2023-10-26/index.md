@@ -43,6 +43,7 @@
 * [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
 * [2023-10-26, 17:48:07](https://news.ycombinator.com/item?id=38029136) - [Abstract Interpretation in a Nutshell](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html)
 * [2023-10-26, 17:34:33](https://news.ycombinator.com/item?id=38028927) - [Tesla Model X Owner Has Had Enough of Minimalism, Adds Physical Buttons](https://insideevs.com/news/693231/tesla-model-x-owner-has-had-enough-minimalism-adds-physical-buttons/)
+* [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle Accelerator on a Chip Hits Penny-Size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
 * [2023-10-26, 17:02:09](https://news.ycombinator.com/item?id=38028480) - [Next.js 14](https://nextjs.org/blog/next-14)
 * [2023-10-26, 16:58:23](https://news.ycombinator.com/item?id=38028418) - [BP to purchase $100M in Tesla Superchargers](https://spectrumnews1.com/ca/la-west/transportation/2023/10/26/bp-will-purchase--100-million-tesla-superchargers)
 * [2023-10-26, 16:51:35](https://news.ycombinator.com/item?id=38028311) - [Sober-curious movement: Non-alcoholic drink options grow](https://www.ctvnews.ca/lifestyle/major-drink-brands-launch-more-non-alcoholic-drinks-as-sober-curious-trend-grows-1.6617761)
