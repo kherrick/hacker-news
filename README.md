@@ -10,6 +10,7 @@
 * [2023-10-29, 08:10:59](https://news.ycombinator.com/item?id=38056684) - [IPv6 Ready Logo Program](https://www.ipv6ready.org/)
 * [2023-10-29, 08:00:01](https://news.ycombinator.com/item?id=38056637) - [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
+* [2023-10-29, 07:47:19](https://news.ycombinator.com/item?id=38056579) - [Argo Workflows – Proven Patterns from Production](https://hodgkins.io/argo-workflow-proven-patterns-from-production)
 * [2023-10-29, 07:41:20](https://news.ycombinator.com/item?id=38056547) - [GitHub – system-design-primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
@@ -28,7 +29,6 @@
 * [2023-10-26, 21:04:34](https://news.ycombinator.com/item?id=38031688) - [The Language of Lava Lamps](https://www.theparisreview.org/blog/2023/09/29/the-language-of-lava-lamps/)
 * [2023-10-26, 19:48:42](https://news.ycombinator.com/item?id=38030824) - [Bayesian Regression Markets](https://arxiv.org/abs/2310.14992)
 * [2023-10-26, 17:51:00](https://news.ycombinator.com/item?id=38029182) - [A new generation of mathematicians pushes prime number barriers](https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/)
-* [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
 * [2023-10-26, 16:49:15](https://news.ycombinator.com/item?id=38028268) - [Hidden in Plain Sight (2006)](https://queue.acm.org/detail.cfm?id=1117401)
 
 ## [Archives](archives/index.md)

@@ -23,6 +23,7 @@
 * [2023-10-29, 08:10:59](https://news.ycombinator.com/item?id=38056684) - [IPv6 Ready Logo Program](https://www.ipv6ready.org/)
 * [2023-10-29, 08:00:01](https://news.ycombinator.com/item?id=38056637) - [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
+* [2023-10-29, 07:47:19](https://news.ycombinator.com/item?id=38056579) - [Argo Workflows – Proven Patterns from Production](https://hodgkins.io/argo-workflow-proven-patterns-from-production)
 * [2023-10-29, 07:41:20](https://news.ycombinator.com/item?id=38056547) - [GitHub – system-design-primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 07:01:40](https://news.ycombinator.com/item?id=38056395) - [Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
