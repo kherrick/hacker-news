@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 08:17:53](https://news.ycombinator.com/item?id=38056707) - [Work only 3 hours a day, but everyday (2016)](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 07:01:40](https://news.ycombinator.com/item?id=38056395) - [Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)

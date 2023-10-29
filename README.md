@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 08:17:53](https://news.ycombinator.com/item?id=38056707) - [Work only 3 hours a day, but everyday (2016)](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 07:01:40](https://news.ycombinator.com/item?id=38056395) - [Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
@@ -24,7 +25,6 @@
 * [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
 * [2023-10-26, 21:52:16](https://news.ycombinator.com/item?id=38032169) - [USB Power Delivery for Hobby Projects](https://flameeyes.blog/2023/08/13/usb-power-delivery-for-hobby-projects/)
 * [2023-10-26, 21:04:34](https://news.ycombinator.com/item?id=38031688) - [The Language of Lava Lamps](https://www.theparisreview.org/blog/2023/09/29/the-language-of-lava-lamps/)
-* [2023-10-26, 19:51:18](https://news.ycombinator.com/item?id=38030867) - [Dyalog APL Keyboard Layouts](https://dfns.dyalog.com/n_keyboards.htm)
 * [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)
 * [2023-10-26, 19:34:37](https://news.ycombinator.com/item?id=38030675) - [The Edison Disc Record](https://en.wikipedia.org/wiki/Edison_Disc_Record)
 * [2023-10-26, 17:51:00](https://news.ycombinator.com/item?id=38029182) - [A New Generation of Mathematicians Pushes Prime Number Barriers](https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/)
