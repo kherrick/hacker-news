@@ -30,6 +30,7 @@
 * [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)
 * [2023-10-26, 19:37:07](https://news.ycombinator.com/item?id=38030705) - [Bird with GPS flies into typhoon, carried 700 miles, reaching 15000 ft altitude](https://newatlas.com/biology/bird-typhoon-ride/)
 * [2023-10-26, 19:34:37](https://news.ycombinator.com/item?id=38030675) - [The Edison Disc Record](https://en.wikipedia.org/wiki/Edison_Disc_Record)
+* [2023-10-26, 19:33:30](https://news.ycombinator.com/item?id=38030657) - [The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
 * [2023-10-26, 19:32:32](https://news.ycombinator.com/item?id=38030642) - [Tell HN: 0.61 USD per week for daily sprouts of grains and pulses](https://news.ycombinator.com/item?id=38030642)
 * [2023-10-26, 18:47:42](https://news.ycombinator.com/item?id=38030050) - [War Thunder game engine released under BSD license](https://github.com/GaijinEntertainment/DagorEngine)
 * [2023-10-26, 18:37:24](https://news.ycombinator.com/item?id=38029893) - [Roombas at the End of the World](https://spectrum.ieee.org/south-pole-roombas)

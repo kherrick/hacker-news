@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
-* [2023-10-29, 15:47:09](https://news.ycombinator.com/item?id=38059668) - [Apple Watch violates patents held by Orange Co. tech company, ITC finds](https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds)
 * [2023-10-29, 15:47:05](https://news.ycombinator.com/item?id=38059667) - [A Visit to the Physical Internet Archive](https://thenewstack.io/a-visit-to-the-physical-internet-archive/)
 * [2023-10-29, 15:25:29](https://news.ycombinator.com/item?id=38059431) - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
 * [2023-10-29, 15:21:34](https://news.ycombinator.com/item?id=38059396) - [Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary](https://kimchi-reader.app)
@@ -27,9 +27,9 @@
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 * [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/s without FLOPS – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 03:31:12](https://news.ycombinator.com/item?id=38055621) - ['The Genius of Their Age' Review: Central Asia's Big Thinkers](https://www.wsj.com/arts-culture/books/the-genius-of-their-age-review-central-asias-big-thinkers-9c73dee6)
-* [2023-10-28, 13:00:15](https://news.ycombinator.com/item?id=38049451) - [The Philosophy of Humor: What Makes Something Funny? (2022)](https://1000wordphilosophy.com/2022/11/20/the-philosophy-of-humor/)
 * [2023-10-27, 12:55:46](https://news.ycombinator.com/item?id=38037799) - [Using Suffix Trees to Detect Homology at Scale](https://benchling.engineering/using-suffix-trees-to-detect-homology-at-scale-e877dbd6f620?gi=12932060e233)
 * [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
+* [2023-10-26, 19:33:30](https://news.ycombinator.com/item?id=38030657) - [The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
 
 ## [Archives](archives/index.md)
 
