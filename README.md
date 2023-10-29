@@ -18,7 +18,6 @@
 * [2023-10-28, 18:57:50](https://news.ycombinator.com/item?id=38052416) - [React use C](https://github.com/elnardu/react-use-c)
 * [2023-10-28, 18:47:25](https://news.ycombinator.com/item?id=38052344) - [Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses (2022)](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
-* [2023-10-28, 18:13:54](https://news.ycombinator.com/item?id=38052080) - [Why is a second equal to the duration of 9,192,631,770 of radiations?](https://physics.stackexchange.com/questions/243144/why-is-a-second-equal-to-the-duration-of-exactly-9-192-631-770-periods-of-radiat)
 * [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the volume on my Bluetooth earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 15:26:23](https://news.ycombinator.com/item?id=38050535) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
@@ -29,6 +28,7 @@
 * [2023-10-26, 19:41:05](https://news.ycombinator.com/item?id=38030749) - [Pinball isn't as random as it seems (2018) [video]](https://www.youtube.com/watch?v=T1zzyGhA4-g)
 * [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
 * [2023-10-26, 17:48:07](https://news.ycombinator.com/item?id=38029136) - [Abstract Interpretation in a Nutshell](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html)
+* [2023-10-26, 16:33:02](https://news.ycombinator.com/item?id=38028007) - [Designing a Movie for Sound (1999)](http://filmsound.org/articles/designing_for_sound.htm)
 * [2023-10-26, 10:40:08](https://news.ycombinator.com/item?id=38023870) - [COBOL bridge for Node.js](https://github.com/IonicaBizau/node-cobol)
 
 ## [Archives](archives/index.md)
