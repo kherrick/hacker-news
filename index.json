@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-10-27, 12:24:00",
-      "https://news.ycombinator.com/item?id=38037529"
-    ],
-    [
-      "Making and Playing Music with Google Sheets and Web MIDI API",
-      "https://www.asepbagja.com/programming/making-music-with-google-sheets/"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 21:52:16",
       "https://news.ycombinator.com/item?id=38032169"
     ],
@@ -297,6 +287,16 @@
     [
       "Abstract Interpretation in a Nutshell",
       "https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 10:40:08",
+      "https://news.ycombinator.com/item?id=38023870"
+    ],
+    [
+      "COBOL bridge for Node.js",
+      "https://github.com/IonicaBizau/node-cobol"
     ]
   ]
 ]
