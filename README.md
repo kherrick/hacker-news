@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
+* [2023-10-29, 04:58:40](https://news.ycombinator.com/item?id=38055890) - [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
 * [2023-10-29, 04:31:34](https://news.ycombinator.com/item?id=38055816) - [The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
 * [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/S Without Flops – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 03:54:36](https://news.ycombinator.com/item?id=38055711) - [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
@@ -7,7 +9,6 @@
 * [2023-10-29, 02:53:14](https://news.ycombinator.com/item?id=38055484) - [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
 * [2023-10-29, 02:12:13](https://news.ycombinator.com/item?id=38055308) - [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
 * [2023-10-28, 23:01:19](https://news.ycombinator.com/item?id=38054267) - [A literate Org doc on building Emacs from source](https://gitlab.com/spudlyo/orgdemo2)
-* [2023-10-28, 22:57:30](https://news.ycombinator.com/item?id=38054232) - [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface)](https://lupyuen.codeberg.page/articles/sbi.html)
 * [2023-10-28, 22:28:32](https://news.ycombinator.com/item?id=38053982) - [Actual is going open-source (2022)](https://actualbudget.com/open-source)
 * [2023-10-28, 21:34:15](https://news.ycombinator.com/item?id=38053586) - [Electroreduction of nitrogen with almost 100% current-to-ammonia efficiency](https://www.nature.com/articles/s41586-022-05108-y)
 * [2023-10-28, 21:01:21](https://news.ycombinator.com/item?id=38053327) - [Skio (YC S20) is hiring – Subscriptions for Shopify, recharge migrations](https://skio.com/careers/)
@@ -28,7 +29,6 @@
 * [2023-10-26, 19:41:05](https://news.ycombinator.com/item?id=38030749) - [Pinball isn't as random as it seems (2018) [video]](https://www.youtube.com/watch?v=T1zzyGhA4-g)
 * [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
 * [2023-10-26, 17:48:07](https://news.ycombinator.com/item?id=38029136) - [Abstract Interpretation in a Nutshell](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html)
-* [2023-10-26, 11:10:49](https://news.ycombinator.com/item?id=38024047) - [How to make almost any computer a modern-day Plato terminal](https://arstechnica.com/gadgets/2023/10/how-to-make-almost-any-computer-a-modern-day-plato-terminal/)
 * [2023-10-26, 10:40:08](https://news.ycombinator.com/item?id=38023870) - [COBOL bridge for Node.js](https://github.com/IonicaBizau/node-cobol)
 
 ## [Archives](archives/index.md)
