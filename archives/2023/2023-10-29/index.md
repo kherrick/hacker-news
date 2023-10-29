@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 18:57:23](https://news.ycombinator.com/item?id=38061498) - [The Compiler Is Just Ignoring All My Comments](https://twitter.com/ESYudkowsky/status/1718654143110512741)
+* [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 17:47:20](https://news.ycombinator.com/item?id=38060912) - [Carl Sagan's Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
@@ -19,6 +21,7 @@
 * [2023-10-29, 14:33:18](https://news.ycombinator.com/item?id=38058979) - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 14:24:20](https://news.ycombinator.com/item?id=38058916) - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
+* [2023-10-29, 14:22:05](https://news.ycombinator.com/item?id=38058902) - [A fourth of U.S. health visits now delivered by non-physicians](https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [A theory that Mars lost its magnetic field and then its oceans (2022)](https://bigthink.com/hard-science/mars-lost-oceans-magnetic-field/)
 * [2023-10-29, 13:49:36](https://news.ycombinator.com/item?id=38058638) - [The product manager role is a mistake](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/)
@@ -64,6 +67,7 @@
 * [2023-10-29, 03:54:36](https://news.ycombinator.com/item?id=38055711) - [Why has America settled on colonoscopies when most of the world has not?](https://asteriskmag.com/issues/04/you-re-invited-to-a-colonoscopy?ref=thebrowser.com)
 * [2023-10-29, 03:50:19](https://news.ycombinator.com/item?id=38055697) - [Sedition Hunters: how ordinary Americans helped track down the Capitol rioters](https://www.theguardian.com/books/2023/oct/28/sedition-hunters-book-jan-6-rioters-fbi-trump)
 * [2023-10-29, 03:31:12](https://news.ycombinator.com/item?id=38055621) - ['The Genius of Their Age' Review: Central Asia's Big Thinkers](https://www.wsj.com/arts-culture/books/the-genius-of-their-age-review-central-asias-big-thinkers-9c73dee6)
+* [2023-10-29, 03:12:42](https://news.ycombinator.com/item?id=38055558) - [Aftershock of the New: Woodblock Prints of Post-Disaster Tokyo (1928–32)](https://publicdomainreview.org/collection/aftershock-of-the-new/)
 * [2023-10-29, 03:03:00](https://news.ycombinator.com/item?id=38055527) - [A Video License Designed for Enhanced Content Protection and Viewer Control](https://github.com/LiamSwayne/FlexVideo-License)
 * [2023-10-29, 02:53:14](https://news.ycombinator.com/item?id=38055484) - [Rewrites Are Waterfall](https://shermanonsoftware.com/2023/10/28/rewrites-are-waterfall/)
 * [2023-10-29, 02:12:13](https://news.ycombinator.com/item?id=38055308) - [What the KIM-1 needs is an LCD screen](http://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
