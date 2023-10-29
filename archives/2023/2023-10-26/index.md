@@ -8,6 +8,7 @@
 * [2023-10-26, 22:00:16](https://news.ycombinator.com/item?id=38032257) - [WebSDR – internet connected Software-Defined Radios](http://www.websdr.org/)
 * [2023-10-26, 21:59:53](https://news.ycombinator.com/item?id=38032253) - [iPhones have been exposing MAC addresses despite Apple’s promises otherwise](https://arstechnica.com/security/2023/10/iphone-privacy-feature-hiding-wi-fi-macs-has-failed-to-work-for-3-years/)
 * [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
+* [2023-10-26, 21:52:16](https://news.ycombinator.com/item?id=38032169) - [USB Power Delivery for Hobby Projects](https://flameeyes.blog/2023/08/13/usb-power-delivery-for-hobby-projects/)
 * [2023-10-26, 21:44:52](https://news.ycombinator.com/item?id=38032092) - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
 * [2023-10-26, 21:19:22](https://news.ycombinator.com/item?id=38031839) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 21:04:34](https://news.ycombinator.com/item?id=38031688) - [The Language of Lava Lamps](https://www.theparisreview.org/blog/2023/09/29/the-language-of-lava-lamps/)
