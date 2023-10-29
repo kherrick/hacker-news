@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 10:01:30](https://news.ycombinator.com/item?id=38057110) - [Toyota CEO: \"Our Ammonia Engine Is the End of EV's\"](https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091)
 * [2023-10-29, 09:21:18](https://news.ycombinator.com/item?id=38056949) - [Emptycrate.com: Nobody Understands C++: Intro](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
 * [2023-10-29, 09:19:57](https://news.ycombinator.com/item?id=38056941) - [\"Advanced Tracking and Fingerprinting Protection\" Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
+* [2023-10-29, 09:16:59](https://news.ycombinator.com/item?id=38056919) - [Putting ads in hardware through HDMI](https://patents.google.com/patent/US11785300B2/en)
 * [2023-10-29, 08:59:04](https://news.ycombinator.com/item?id=38056854) - [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
+* [2023-10-29, 08:56:11](https://news.ycombinator.com/item?id=38056841) - [AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
 * [2023-10-29, 08:50:03](https://news.ycombinator.com/item?id=38056822) - [What Demonic Possession Is Like from a Vatican-Trained Exorcist](https://www.insider.com/what-demonic-possession-exorcisms-are-like-from-vatican-exorcist-2023-10)
 * [2023-10-29, 08:17:53](https://news.ycombinator.com/item?id=38056707) - [Work only 3 hours a day, but everyday (2016)](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
