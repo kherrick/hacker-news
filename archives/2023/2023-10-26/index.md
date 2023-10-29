@@ -17,6 +17,7 @@
 * [2023-10-26, 20:32:35](https://news.ycombinator.com/item?id=38031342) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 20:24:31](https://news.ycombinator.com/item?id=38031260) - [An implementation of the NTFS filesystem in a Rust crate](https://github.com/ColinFinck/ntfs)
 * [2023-10-26, 20:17:07](https://news.ycombinator.com/item?id=38031157) - [DaScript: Fast and Versatile Scripting Language](https://dascript.org/)
+* [2023-10-26, 20:15:08](https://news.ycombinator.com/item?id=38031136) - [Dizzy Dunker Mousetrap [video]](https://www.youtube.com/watch?v=yoUNYVO6WIY)
 * [2023-10-26, 19:56:38](https://news.ycombinator.com/item?id=38030934) - [Germany set to eclipse Japan as No. 3 economy in 2023, IMF says](https://www.japantimes.co.jp/business/2023/10/24/economy/japan-gdp-biggest-economies-imf/)
 * [2023-10-26, 19:56:19](https://news.ycombinator.com/item?id=38030932) - [The Magical Japanese Art of Luggage Forwarding](https://craigmod.com/ridgeline/170/)
 * [2023-10-26, 19:39:00](https://news.ycombinator.com/item?id=38030724) - [Trabant](https://en.wikipedia.org/wiki/Trabant)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 23:43:33](https://news.ycombinator.com/item?id=38054531) - [LAPD YouTube Channel Suspended for Posting Violent Content](https://ktla.com/news/local-news/lapd-youtube-channel-suspended-for-posting-violent-content/)
 * [2023-10-28, 23:28:18](https://news.ycombinator.com/item?id=38054460) - [Panopticon](https://en.wikipedia.org/wiki/Panopticon)
 * [2023-10-28, 23:11:25](https://news.ycombinator.com/item?id=38054340) - [How to fix the disastrous new Xcode 15 console](https://lapcatsoftware.com/articles/2023/10/5.html)
+* [2023-10-28, 22:57:30](https://news.ycombinator.com/item?id=38054232) - [Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface)](https://lupyuen.codeberg.page/articles/sbi.html)
 * [2023-10-28, 22:46:00](https://news.ycombinator.com/item?id=38054124) - [Arduino Builds a Bridge to the Raspberry Pi Ecosystem with Its New Portenta H](https://www.hackster.io/news/arduino-builds-a-bridge-to-the-raspberry-pi-ecosystem-with-its-new-portenta-hat-carrier-board-c992bd7928cd)
 * [2023-10-28, 22:28:32](https://news.ycombinator.com/item?id=38053982) - [Actual is going open-source](https://actualbudget.com/open-source)
 * [2023-10-28, 22:14:54](https://news.ycombinator.com/item?id=38053907) - [Against a Dystopian Farm-Free Future](https://www.theamericanconservative.com/against-a-dystopian-farm-free-future/)
