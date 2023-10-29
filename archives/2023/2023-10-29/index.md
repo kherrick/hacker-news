@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 12:00:42](https://news.ycombinator.com/item?id=38057712) - [Great Question (YC W21) Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
+* [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
+* [2023-10-29, 11:32:38](https://news.ycombinator.com/item?id=38057543) - [Show HN: YCombinato – A domain-hacked \"Hacker News\" client](https://news.ycombinato.com/)
 * [2023-10-29, 10:07:32](https://news.ycombinator.com/item?id=38057142) - [The Pirates Are Back](https://www.pandasecurity.com/en/mediacenter/online-piracy-back/)
 * [2023-10-29, 10:01:30](https://news.ycombinator.com/item?id=38057110) - [Toyota CEO: \"Our Ammonia Engine Is the End of EV's\"](https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091)
+* [2023-10-29, 09:37:21](https://news.ycombinator.com/item?id=38057011) - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
 * [2023-10-29, 09:21:18](https://news.ycombinator.com/item?id=38056949) - [Emptycrate.com: Nobody Understands C++: Intro](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
 * [2023-10-29, 09:19:57](https://news.ycombinator.com/item?id=38056941) - [\"Advanced Tracking and Fingerprinting Protection\" Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
 * [2023-10-29, 09:18:41](https://news.ycombinator.com/item?id=38056933) - [Latvia to start conscripting men for mandatory military service, starting 2024](https://www.loc.gov/item/global-legal-monitor/2023-10-04/latvia-new-law-introduces-compulsory-military-service-starting-in-january-2024/)
