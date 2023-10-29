@@ -10,6 +10,7 @@
 * [2023-10-26, 21:58:22](https://news.ycombinator.com/item?id=38032242) - [Trying to make sense of why Otis exploded en route to Acapulco this week](https://theeyewall.com/trying-to-make-sense-of-why-otis-exploded-en-route-to-acapulco-this-week/)
 * [2023-10-26, 21:44:52](https://news.ycombinator.com/item?id=38032092) - [Python Expertise Level – Self-Assessment](https://safjan.com/python-expertise-level-self-assessment/)
 * [2023-10-26, 21:19:22](https://news.ycombinator.com/item?id=38031839) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
+* [2023-10-26, 21:04:34](https://news.ycombinator.com/item?id=38031688) - [The Language of Lava Lamps](https://www.theparisreview.org/blog/2023/09/29/the-language-of-lava-lamps/)
 * [2023-10-26, 20:57:27](https://news.ycombinator.com/item?id=38031593) - [Atrocity Propaganda](https://en.wikipedia.org/wiki/Atrocity_propaganda)
 * [2023-10-26, 20:55:46](https://news.ycombinator.com/item?id=38031581) - [We need to talk about funding](https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/)
 * [2023-10-26, 20:34:48](https://news.ycombinator.com/item?id=38031363) - [Poll: What are the gender demographics of HN?](https://news.ycombinator.com/item?id=38031363)
