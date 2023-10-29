@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-29, 19:29:15](https://news.ycombinator.com/item?id=38061779) - [12ft.io has been banned by Vercel](https://twitter.com/thmsmlr/status/1718663563353755982)
-* [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 17:47:20](https://news.ycombinator.com/item?id=38060912) - [Carl Sagan's Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
@@ -22,6 +21,7 @@
 * [2023-10-29, 08:56:11](https://news.ycombinator.com/item?id=38056841) - [AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
 * [2023-10-29, 08:00:01](https://news.ycombinator.com/item?id=38056637) - [Giving a Shit as a Service (2022)](https://allenpike.com/2022/giving-a-shit)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
+* [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 * [2023-10-29, 03:31:12](https://news.ycombinator.com/item?id=38055621) - ['The Genius of Their Age' Review: Central Asia's Big Thinkers](https://www.wsj.com/arts-culture/books/the-genius-of-their-age-review-central-asias-big-thinkers-9c73dee6)
