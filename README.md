@@ -1,16 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-29, 10:01:30](https://news.ycombinator.com/item?id=38057110) - [Toyota CEO: \"Our Ammonia Engine Is the End of EV's\"](https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091)
+* [2023-10-29, 10:01:30](https://news.ycombinator.com/item?id=38057110) - [Toyota’s Ammonia Engine](https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091)
 * [2023-10-29, 09:21:18](https://news.ycombinator.com/item?id=38056949) - [Emptycrate.com: Nobody Understands C++: Intro](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
 * [2023-10-29, 09:19:57](https://news.ycombinator.com/item?id=38056941) - [\"Advanced Tracking and Fingerprinting Protection\" Leaks DNS Queries to Apple](https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6)
-* [2023-10-29, 09:16:59](https://news.ycombinator.com/item?id=38056919) - [Putting ads in hardware through HDMI](https://patents.google.com/patent/US11785300B2/en)
 * [2023-10-29, 08:59:04](https://news.ycombinator.com/item?id=38056854) - [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
 * [2023-10-29, 08:56:11](https://news.ycombinator.com/item?id=38056841) - [AI can catalogue a forest's inhabitants simply by listening](https://www.economist.com/science-and-technology/2023/10/25/ai-can-catalogue-a-forests-inhabitants-simply-by-listening)
 * [2023-10-29, 08:17:53](https://news.ycombinator.com/item?id=38056707) - [Work only 3 hours a day, but everyday (2016)](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 07:01:40](https://news.ycombinator.com/item?id=38056395) - [Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
-* [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
+* [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 * [2023-10-29, 05:36:26](https://news.ycombinator.com/item?id=38056035) - [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/)
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 * [2023-10-29, 04:58:40](https://news.ycombinator.com/item?id=38055890) - [The Concept of the Ruliad (2021)](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
@@ -30,6 +29,7 @@
 * [2023-10-26, 17:51:00](https://news.ycombinator.com/item?id=38029182) - [A New Generation of Mathematicians Pushes Prime Number Barriers](https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/)
 * [2023-10-26, 17:50:24](https://news.ycombinator.com/item?id=38029171) - [Origami-Inspired Bi-Directional Actuator with Orthogonal Actuation](https://arxiv.org/abs/2310.10959)
 * [2023-10-26, 17:48:07](https://news.ycombinator.com/item?id=38029136) - [Abstract Interpretation in a Nutshell](https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html)
+* [2023-10-26, 10:40:08](https://news.ycombinator.com/item?id=38023870) - [COBOL bridge for Node.js](https://github.com/IonicaBizau/node-cobol)
 
 ## [Archives](archives/index.md)
 
