@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
 * [2023-10-29, 21:25:39](https://news.ycombinator.com/item?id=38062983) - [Robert Roberson Is on Texas Death Row for a Crime That Never Occurred](https://innocenceproject.org/what-to-know-about-robert-roberson-on-texas-death-row-for-a-crime-that-never-occurred/)
+* [2023-10-29, 21:19:11](https://news.ycombinator.com/item?id=38062923) - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 * [2023-10-29, 21:10:52](https://news.ycombinator.com/item?id=38062843) - [Linux 6.7 Reworks PE Header Generation to Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
 * [2023-10-29, 20:43:21](https://news.ycombinator.com/item?id=38062573) - [Laid-off masses have a message for Zuckerberg, Benioff: We'll never come back](https://fortune.com/2023/10/21/meta-salesforce-layoffs-boomerang-employees/)
 * [2023-10-29, 20:17:21](https://news.ycombinator.com/item?id=38062297) - [Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
@@ -14,6 +15,7 @@
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in your iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 17:47:20](https://news.ycombinator.com/item?id=38060912) - [Carl Sagan's Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
 * [2023-10-29, 17:24:06](https://news.ycombinator.com/item?id=38060698) - [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
+* [2023-10-29, 17:09:37](https://news.ycombinator.com/item?id=38060566) - [Zima Board – Hackable Single Board Server](https://www.zimaboard.com/)
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
 * [2023-10-29, 16:29:14](https://news.ycombinator.com/item?id=38060133) - [jQuery 4.0 99% Complete](https://github.com/jquery/jquery/milestone/7)
