@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-29, 08:59:04](https://news.ycombinator.com/item?id=38056854) - [Ken Burns chronicles the sad fate of the American buffalo](https://www.economist.com/culture/2023/10/25/ken-burns-chronicles-the-sad-fate-of-the-american-buffalo)
 * [2023-10-29, 08:17:53](https://news.ycombinator.com/item?id=38056707) - [Work only 3 hours a day, but everyday (2016)](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/)
 * [2023-10-29, 07:51:42](https://news.ycombinator.com/item?id=38056599) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
@@ -19,7 +20,6 @@
 * [2023-10-28, 18:57:50](https://news.ycombinator.com/item?id=38052416) - [React use C](https://github.com/elnardu/react-use-c)
 * [2023-10-28, 18:47:25](https://news.ycombinator.com/item?id=38052344) - [Show HN: OpenSign – Open source alternative to DocuSign](https://github.com/OpenSignLabs/OpenSign)
 * [2023-10-28, 18:41:45](https://news.ycombinator.com/item?id=38052302) - [Charter Houses (2022)](https://slimemoldtimemold.com/2022/02/17/charter-houses/)
-* [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the volume on my Bluetooth earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 14:32:59](https://news.ycombinator.com/item?id=38050106) - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 * [2023-10-27, 22:23:36](https://news.ycombinator.com/item?id=38044782) - [Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI](https://github.com/IAmStoxe/wirehole)
 * [2023-10-27, 12:24:00](https://news.ycombinator.com/item?id=38037529) - [Making and Playing Music with Google Sheets and Web MIDI API](https://www.asepbagja.com/programming/making-music-with-google-sheets/)
