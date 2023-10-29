@@ -6,6 +6,7 @@
 
 * [2023-10-29, 14:40:52](https://news.ycombinator.com/item?id=38059036) - [Ask HN: If you were to build a web app today what tech stack would you choose?](https://news.ycombinator.com/item?id=38059036)
 * [2023-10-29, 14:37:13](https://news.ycombinator.com/item?id=38059004) - [Ask HN: Is Express still \"de-facto\" for building Node back ends?](https://news.ycombinator.com/item?id=38059004)
+* [2023-10-29, 14:33:18](https://news.ycombinator.com/item?id=38058979) - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 14:24:20](https://news.ycombinator.com/item?id=38058916) - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)

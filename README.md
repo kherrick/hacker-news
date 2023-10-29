@@ -2,6 +2,7 @@
 
 * [2023-10-29, 14:40:52](https://news.ycombinator.com/item?id=38059036) - [Ask HN: If you were to build a web app today what tech stack would you choose?](https://news.ycombinator.com/item?id=38059036)
 * [2023-10-29, 14:37:13](https://news.ycombinator.com/item?id=38059004) - [Ask HN: Is Express still \"de-facto\" for building Node back ends?](https://news.ycombinator.com/item?id=38059004)
+* [2023-10-29, 14:33:18](https://news.ycombinator.com/item?id=38058979) - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 14:24:20](https://news.ycombinator.com/item?id=38058916) - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
@@ -24,7 +25,6 @@
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Running Speeds](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
-* [2023-10-29, 04:31:34](https://news.ycombinator.com/item?id=38055816) - [The Windows installer of ImageMagick will no longer be signed](https://github.com/ImageMagick/ImageMagick/discussions/6826)
 * [2023-10-29, 04:30:13](https://news.ycombinator.com/item?id=38055814) - [All GB/s without FLOPS – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-28, 13:00:15](https://news.ycombinator.com/item?id=38049451) - [The Philosophy of Humor: What Makes Something Funny? (2022)](https://1000wordphilosophy.com/2022/11/20/the-philosophy-of-humor/)
 * [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
