@@ -111,6 +111,7 @@
 * [2023-10-27, 09:10:48](https://news.ycombinator.com/item?id=38036236) - [Public Statement: Scholars Warn of Potential Genocide in Gaza](https://twailr.com/public-statement-scholars-warn-of-potential-genocide-in-gaza/)
 * [2023-10-27, 09:04:33](https://news.ycombinator.com/item?id=38036203) - [Self-Signed locally trusted certificates with cert-manager](https://skarlso.github.io/2023/10/25/self-signed-locally-trusted-certificates-with-cert-manager/)
 * [2023-10-27, 08:54:25](https://news.ycombinator.com/item?id=38036143) - [Tesla threatens to bring in strikebreakers as Swedish workers strike](https://www.thelocal.se/20231027/tesla-threatens-to-bring-in-strikebreakers-as-swedish-workers-strike)
+* [2023-10-27, 08:41:10](https://news.ycombinator.com/item?id=38036063) - [Get All Your Sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
 * [2023-10-27, 08:11:22](https://news.ycombinator.com/item?id=38035936) - [Upgradable Read Write Lock for Go](https://upstash.com/blog/upgradable-rwlock-for-go)
 * [2023-10-27, 08:10:28](https://news.ycombinator.com/item?id=38035930) - [Threads has \"just under\" 100M monthly active users](https://9to5mac.com/2023/10/25/threads-twitter-monthly-active-users/)
 * [2023-10-27, 07:43:01](https://news.ycombinator.com/item?id=38035769) - [Navigating through the complexities of semiconductor design and development](https://pcb-design.semiconductorreview.com/cxoinsight/navigating-through-the-complexities-of-semiconductor-design-and-development-nwid-632.html)

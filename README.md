@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The Death of a Public Intellectual](https://thmsmlr.com/public-intellectuals)
-* [2023-10-30, 02:16:52](https://news.ycombinator.com/item?id=38065002) - [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
 * [2023-10-30, 00:51:57](https://news.ycombinator.com/item?id=38064441) - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
 * [2023-10-30, 00:48:07](https://news.ycombinator.com/item?id=38064412) - [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
@@ -27,6 +26,7 @@
 * [2023-10-28, 17:11:19](https://news.ycombinator.com/item?id=38051523) - [Assyrian Women of Letters](https://www.archaeology.org/issues/530-2311/features/11800-kanesh-assyrian-letters)
 * [2023-10-27, 13:11:10](https://news.ycombinator.com/item?id=38037963) - [South Pole Medevac (2016)](https://www.southpolestation.com/trivia/10s/medevac.html)
 * [2023-10-27, 11:16:18](https://news.ycombinator.com/item?id=38037075) - [Porting OpenBSD Pledge() to Linux (2022)](https://justine.lol/pledge/)
+* [2023-10-27, 08:41:10](https://news.ycombinator.com/item?id=38036063) - [Get All Your Sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
 * [2023-10-26, 22:14:58](https://news.ycombinator.com/item?id=38032386) - [Scientists discover why dozens of endangered elephants dropped dead](https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead)
 * [2023-10-26, 19:33:30](https://news.ycombinator.com/item?id=38030657) - [The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
 * [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle accelerator on a chip hits penny-size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
