@@ -84,6 +84,7 @@
 * [2023-10-28, 03:51:38](https://news.ycombinator.com/item?id=38046970) - [Pretraining on the Test Set Is All You Need](https://arxiv.org/abs/2309.08632)
 * [2023-10-28, 03:40:06](https://news.ycombinator.com/item?id=38046910) - [New Study Says Maybe Helicopter Parenting Is Making Kids Depressed](https://www.techdirt.com/2023/10/26/new-study-in-the-journal-of-pediatrics-says-maybe-its-not-social-media-but-helicopter-parenting-thats-making-kids-depressed/)
 * [2023-10-28, 03:18:18](https://news.ycombinator.com/item?id=38046795) - [BP buys $100M worth of Tesla chargers](https://www.cnn.com/2023/10/26/business/bp-buys-usd100-million-worth-of-tesla-chargers/index.html)
+* [2023-10-28, 03:00:37](https://news.ycombinator.com/item?id=38046674) - [Ertdfgcvb](https://ertdfgcvb.xyz/?mode=screensaver)
 * [2023-10-28, 02:44:07](https://news.ycombinator.com/item?id=38046598) - [Show HN: Is It Toxic To? – Check if a plant is toxic to your pets](https://iitt.chester.how/)
 * [2023-10-28, 02:13:31](https://news.ycombinator.com/item?id=38046448) - [A small warning about UDP based protocols](https://boston.conman.org/2023/10/25.1)
 * [2023-10-28, 02:11:42](https://news.ycombinator.com/item?id=38046433) - [15 Years of Android Memories](https://blog.google/products/android/android-15th-anniversary-googler-highlights/)
