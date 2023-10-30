@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-30, 21:39:55](https://news.ycombinator.com/item?id=38076303) - [Autoworkers Score Big Wins in New Contracts with Carmakers](https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html)
+* [2023-10-30, 21:38:22](https://news.ycombinator.com/item?id=38076284) - [Incus 0.2 adds NVMe, NixOS images and more](https://discuss.linuxcontainers.org/t/incus-0-2-has-been-released/18185)
 * [2023-10-30, 21:15:27](https://news.ycombinator.com/item?id=38075971) - [Apple's Safari browser is still vulnerable to Spectre attacks](https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks)
-* [2023-10-30, 20:19:48](https://news.ycombinator.com/item?id=38075198) - [X says it is worth $19B, down from $44B last year](https://www.nytimes.com/2023/10/30/technology/x-twitter-19-billion-dollars.html)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
 * [2023-10-30, 19:57:11](https://news.ycombinator.com/item?id=38074834) - [OpenBSD Webzine Special 2023](https://webzine.puffy.cafe/issue-16-special-octopenbsd-2023.html)
