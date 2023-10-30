@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
+* [2023-10-30, 11:43:36](https://news.ycombinator.com/item?id=38068180) - [Ask HN: To what extent have digital payments replaced cash in your country?](https://news.ycombinator.com/item?id=38068180)
 * [2023-10-30, 09:35:29](https://news.ycombinator.com/item?id=38067314) - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
 * [2023-10-30, 08:06:16](https://news.ycombinator.com/item?id=38066779) - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
