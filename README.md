@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
+* [2023-10-30, 09:35:29](https://news.ycombinator.com/item?id=38067314) - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
 * [2023-10-30, 08:06:16](https://news.ycombinator.com/item?id=38066779) - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
 * [2023-10-30, 05:52:26](https://news.ycombinator.com/item?id=38066135) - [Internal slides on the work of the Google \"Ads Quality\" team](https://twitter.com/jason_kint/status/1718830641016414657)
@@ -16,9 +18,7 @@
 * [2023-10-29, 21:19:11](https://news.ycombinator.com/item?id=38062923) - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
 * [2023-10-29, 20:17:21](https://news.ycombinator.com/item?id=38062297) - [Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
 * [2023-10-29, 20:14:34](https://news.ycombinator.com/item?id=38062269) - [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
-* [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
-* [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(learn 'scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 * [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich: A Forgotten Prophet Whose Time Has Come (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
 * [2023-10-29, 06:36:15](https://news.ycombinator.com/item?id=38056284) - [Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs)
@@ -27,7 +27,7 @@
 * [2023-10-27, 08:41:10](https://news.ycombinator.com/item?id=38036063) - [Get All Your Sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
 * [2023-10-27, 08:40:50](https://news.ycombinator.com/item?id=38036061) - [Notes on making a multiplayer \"doing nothing app\"](https://untested.sonnet.io/Sit.%2C+(together)+devlog+002+–+Space+Kalimba)
 * [2023-10-26, 22:14:58](https://news.ycombinator.com/item?id=38032386) - [Scientists discover why dozens of endangered elephants died](https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead)
-* [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle accelerator on a chip hits penny-size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
+* [2023-10-26, 11:59:48](https://news.ycombinator.com/item?id=38024405) - [Lindenmayer Systems](https://rue-a.github.io/L-Systems/)
 * [2023-10-26, 11:58:46](https://news.ycombinator.com/item?id=38024399) - [DigiSpark (ATTiny85) – Arduino, C, Rust, build systems](https://diziet.dreamwidth.org/16771.html)
 * [2023-10-26, 11:50:04](https://news.ycombinator.com/item?id=38024330) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 
