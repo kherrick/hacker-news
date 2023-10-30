@@ -87,6 +87,7 @@
 * [2023-10-26, 12:21:50](https://news.ycombinator.com/item?id=38024573) - [Apple backs national right-to-repair bill, offering parts, manuals, and tools](https://arstechnica.com/gadgets/2023/10/apple-backs-national-right-to-repair-bill-offering-parts-manuals-and-tools/)
 * [2023-10-26, 12:08:18](https://news.ycombinator.com/item?id=38024456) - [Verto.sh: A New Hub Connecting Beginners with Open-Source Projects](https://www.verto.sh/)
 * [2023-10-26, 12:01:48](https://news.ycombinator.com/item?id=38024418) - [Hilbert curve: The famous space filling curve drawn with JavaScript](http://jsxgraph.uni-bayreuth.de/wiki/index.php/Hilbert_curve)
+* [2023-10-26, 11:58:46](https://news.ycombinator.com/item?id=38024399) - [DigiSpark (ATTiny85) – Arduino, C, Rust, build systems](https://diziet.dreamwidth.org/16771.html)
 * [2023-10-26, 11:51:35](https://news.ycombinator.com/item?id=38024337) - [Pulpatronics tackles single-use electronics with paper RFID tags](https://www.dezeen.com/2023/10/25/pulpatronics-paper-rfid-tags/)
 * [2023-10-26, 11:50:04](https://news.ycombinator.com/item?id=38024330) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 * [2023-10-26, 11:49:44](https://news.ycombinator.com/item?id=38024327) - [Megatsunamis: Waves over 500 meters high and devastation beyond the ocean](https://english.elpais.com/science-tech/2023-10-23/the-secrets-of-megatsunamis-waves-over-500-meters-high-and-devastation-beyond-the-ocean.html)
