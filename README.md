@@ -2,7 +2,6 @@
 
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
 * [2023-10-30, 12:06:54](https://news.ycombinator.com/item?id=38068363) - [Bakhshali Manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
-* [2023-10-30, 10:35:57](https://news.ycombinator.com/item?id=38067702) - [The future of warfare: A $400 drone killing a $2M tank](https://www.politico.eu/article/future-warfare-400-army-strike-drone-unit-2m-tank/)
 * [2023-10-30, 08:45:33](https://news.ycombinator.com/item?id=38066992) - [Linux Man Pages in the \"Miscellaneous Information\" Section](https://www.man7.org/linux/man-pages/man7/)
 * [2023-10-30, 08:06:16](https://news.ycombinator.com/item?id=38066779) - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
@@ -12,6 +11,7 @@
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
 * [2023-10-30, 02:16:52](https://news.ycombinator.com/item?id=38065002) - [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+* [2023-10-30, 00:51:57](https://news.ycombinator.com/item?id=38064441) - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
 * [2023-10-30, 00:48:07](https://news.ycombinator.com/item?id=38064412) - [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
 * [2023-10-30, 00:28:38](https://news.ycombinator.com/item?id=38064287) - [How deep is the brain? The shallow brain hypothesis](https://www.nature.com/articles/s41583-023-00756-z)
 * [2023-10-29, 22:35:24](https://news.ycombinator.com/item?id=38063536) - [π in Other Universes](https://azeemba.com/posts/pi-in-other-universes.html)
