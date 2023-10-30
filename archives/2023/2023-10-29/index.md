@@ -72,6 +72,7 @@
 * [2023-10-29, 07:41:20](https://news.ycombinator.com/item?id=38056547) - [GitHub – system-design-primer: Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * [2023-10-29, 07:25:33](https://news.ycombinator.com/item?id=38056476) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-29, 07:01:40](https://news.ycombinator.com/item?id=38056395) - [Supabase (YC S20) Is Hiring a Technical Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
+* [2023-10-29, 06:36:15](https://news.ycombinator.com/item?id=38056284) - [Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs)
 * [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 * [2023-10-29, 05:36:26](https://news.ycombinator.com/item?id=38056035) - [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/)
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
