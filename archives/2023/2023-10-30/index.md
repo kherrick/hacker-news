@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 drops codec hardware acceleration except for HEVC decode](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
 * [2023-10-30, 12:06:54](https://news.ycombinator.com/item?id=38068363) - [Bakhshali Manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
 * [2023-10-30, 11:43:36](https://news.ycombinator.com/item?id=38068180) - [Ask HN: To what extent have digital payments replaced cash in your country?](https://news.ycombinator.com/item?id=38068180)
