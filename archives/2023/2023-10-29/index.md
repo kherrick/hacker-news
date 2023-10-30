@@ -54,6 +54,7 @@
 * [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 * [2023-10-29, 11:32:38](https://news.ycombinator.com/item?id=38057543) - [Show HN: YCombinato – A domain-hacked \"Hacker News\" client](https://news.ycombinato.com/)
 * [2023-10-29, 11:19:25](https://news.ycombinator.com/item?id=38057477) - [Sweden (Not Switzerland)](https://visitsweden.com/sweden-not-switzerland/)
+* [2023-10-29, 10:31:42](https://news.ycombinator.com/item?id=38057265) - [Thomas Edison's Concrete Houses in Montclair, New Jersey](https://www.atlasobscura.com/places/thomas-edisons-concrete-houses)
 * [2023-10-29, 10:07:32](https://news.ycombinator.com/item?id=38057142) - [The Pirates Are Back](https://www.pandasecurity.com/en/mediacenter/online-piracy-back/)
 * [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich: A Forgotten Prophet Whose Time Has Come (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
 * [2023-10-29, 10:01:30](https://news.ycombinator.com/item?id=38057110) - [Toyota CEO: \"Our Ammonia Engine Is the End of EV's\"](https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091)
