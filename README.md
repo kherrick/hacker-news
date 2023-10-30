@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-30, 08:20:51](https://news.ycombinator.com/item?id=38066858) - [Xbox's new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
 * [2023-10-30, 08:06:16](https://news.ycombinator.com/item?id=38066779) - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
 * [2023-10-30, 05:52:26](https://news.ycombinator.com/item?id=38066135) - [Internal slides on the work of the Google \"Ads Quality\" team](https://twitter.com/jason_kint/status/1718830641016414657)
@@ -19,6 +18,7 @@
 * [2023-10-29, 20:14:34](https://news.ycombinator.com/item?id=38062269) - [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
+* [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(learn 'scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 * [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich: A Forgotten Prophet Whose Time Has Come (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
 * [2023-10-29, 06:36:15](https://news.ycombinator.com/item?id=38056284) - [Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs)
