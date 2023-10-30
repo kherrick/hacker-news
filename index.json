@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-10-30, 14:33:41",
+      "https://news.ycombinator.com/item?id=38069915"
+    ],
+    [
+      "The costs of microservices (2020)",
+      "https://robertovitillo.com/costs-of-microservices/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 14:29:54",
+      "https://news.ycombinator.com/item?id=38069880"
+    ],
+    [
+      "Western Digital to spin off flash business",
+      "https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 14:22:44",
       "https://news.ycombinator.com/item?id=38069803"
     ],
     [
       "Why can't you multiply vectors? [video]",
       "https://www.youtube.com/watch?v=htYh-Tq7ZBI"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 14:15:07",
+      "https://news.ycombinator.com/item?id=38069710"
+    ],
+    [
+      "I Accidentally Saved My Company Half a Million Dollars",
+      "https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38069197"
     ],
     [
-      "Private Equity Is Devouring the U.S. Economy",
+      "Private equity is devouring the U.S. economy",
       "https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/"
     ]
   ],
@@ -55,18 +85,8 @@
       "https://news.ycombinator.com/item?id=38068363"
     ],
     [
-      "Bakhshali Manuscript",
+      "Bakhshali manuscript",
       "https://en.wikipedia.org/wiki/Bakhshali_manuscript"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 12:02:08",
-      "https://news.ycombinator.com/item?id=38068328"
-    ],
-    [
-      "Microsoft says GPT 3.5 has 20B parameters?",
-      "https://arxiv.org/abs/2310.17680"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "The History of Microsoft Encarta",
       "https://www.abortretry.fail/p/the-history-of-microsoft-encarta"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 05:52:26",
-      "https://news.ycombinator.com/item?id=38066135"
-    ],
-    [
-      "Internal slides on the work of the Google \"Ads Quality\" team",
-      "https://twitter.com/jason_kint/status/1718830641016414657"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Linear Algebra Done Right – 4th Edition",
       "https://linear.axler.net"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 11:41:05",
-      "https://news.ycombinator.com/item?id=38057591"
-    ],
-    [
-      "NixOS Reproducible Builds: minimal ISO successfully independently rebuilt",
-      "https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756"
     ]
   ],
   [
