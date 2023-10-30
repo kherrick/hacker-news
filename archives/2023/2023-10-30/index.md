@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
 * [2023-10-30, 19:08:55](https://news.ycombinator.com/item?id=38074226) - [SCOTUS to Decide If Public Officials Can Block Critics Online](https://www.thefire.org/news/does-first-amendment-allow-public-officials-block-their-critics-online-supreme-court-will-soon)

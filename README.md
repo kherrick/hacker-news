@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
 * [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 * [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
 * [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and responding to authority (2019)](https://neuroclastic.com/autism-and-responding-to-authority/)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072277) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
-* [2023-10-30, 17:03:37](https://news.ycombinator.com/item?id=38072218) - [Google Brain cofounder says Big Tech lying about risks of AI](https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10)
 * [2023-10-30, 16:54:09](https://news.ycombinator.com/item?id=38072074) - [Show HN: Web app to generate AI pictures with logos \"hidden\" in them](https://logopictureai.com/)
 * [2023-10-30, 16:49:30](https://news.ycombinator.com/item?id=38072012) - [DNA turbine powered by a transmembrane potential across a nanopore](https://www.nature.com/articles/s41565-023-01527-8)
 * [2023-10-30, 16:38:01](https://news.ycombinator.com/item?id=38071842) - [Bcachefs Pull Request Submitted for Linux 6.7](https://www.phoronix.com/news/Bcachefs-Tries-For-Linux-6.7)
