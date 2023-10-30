@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-30, 14:30:48",
+      "https://news.ycombinator.com/item?id=38069887"
+    ],
+    [
+      "Qualcomm Snapdragon X Elite Performance Preview: A First Look at What's to Come",
+      "https://www.anandtech.com/show/21112/qualcomm-snapdragon-x-elite-performance-preview-a-first-look-at-whats-to-come"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 14:29:54",
       "https://news.ycombinator.com/item?id=38069880"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38069710"
     ],
     [
-      "I Accidentally Saved My Company Half a Million Dollars",
+      "I accidentally saved my company half a million dollars",
       "https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/"
     ]
   ],
@@ -51,11 +61,21 @@
   ],
   [
     [
+      "2023-10-30, 14:08:17",
+      "https://news.ycombinator.com/item?id=38069640"
+    ],
+    [
+      "Toyota Reveals Maverick-Sized Electric Pickup Concept We've Been Waiting For",
+      "https://www.thedrive.com/news/toyota-reveals-maverick-sized-electric-pickup-concept-weve-been-waiting-for"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 13:34:03",
       "https://news.ycombinator.com/item?id=38069284"
     ],
     [
-      "Python⇒Speed: Speeding Up Cython with SIMD",
+      "Speeding up Cython with SIMD",
       "https://pythonspeed.com/articles/faster-cython-simd/"
     ]
   ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-10-30, 02:16:52",
-      "https://news.ycombinator.com/item?id=38065002"
-    ],
-    [
-      "How to Move Your Google Photos",
-      "https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 01:53:29",
       "https://news.ycombinator.com/item?id=38064856"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2023-10-30, 00:48:07",
-      "https://news.ycombinator.com/item?id=38064412"
+      "2023-10-30, 00:28:38",
+      "https://news.ycombinator.com/item?id=38064287"
     ],
     [
-      "Biomarkers to detect the heating of fatty acids in residues from pottery use",
-      "https://www.sciencedirect.com/science/article/pii/S0305440323001346"
+      "How deep is the brain? The shallow brain hypothesis",
+      "https://www.nature.com/articles/s41583-023-00756-z"
     ]
   ],
   [
@@ -181,21 +191,11 @@
   ],
   [
     [
-      "2023-10-29, 16:31:26",
-      "https://news.ycombinator.com/item?id=38060159"
-    ],
-    [
-      "Linear Algebra Done Right – 4th Edition",
-      "https://linear.axler.net"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 10:31:42",
       "https://news.ycombinator.com/item?id=38057265"
     ],
     [
-      "Thomas Edison's Concrete Houses in Montclair, New Jersey",
+      "Thomas Edison's Concrete Houses",
       "https://www.atlasobscura.com/places/thomas-edisons-concrete-houses"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38036063"
     ],
     [
-      "Get All Your Sources",
+      "Get all your sources",
       "https://linus.schreibt.jetzt/posts/include-build-dependencies.html"
     ]
   ],
