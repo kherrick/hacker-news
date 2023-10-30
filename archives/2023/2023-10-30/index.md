@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 21:39:55](https://news.ycombinator.com/item?id=38076303) - [Autoworkers Score Big Wins in New Contracts with Carmakers](https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html)
+* [2023-10-30, 21:15:27](https://news.ycombinator.com/item?id=38075971) - [Apple's Safari browser is still vulnerable to Spectre attacks](https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks)
 * [2023-10-30, 20:56:42](https://news.ycombinator.com/item?id=38075680) - [Instagram Is Hiding Palestinian Flag Emojis](https://theintercept.com/2023/10/28/instagram-palestinian-flag-emoji/)
 * [2023-10-30, 20:19:48](https://news.ycombinator.com/item?id=38075198) - [X says it is worth $19B, down from $44B last year](https://www.nytimes.com/2023/10/30/technology/x-twitter-19-billion-dollars.html)
 * [2023-10-30, 20:17:41](https://news.ycombinator.com/item?id=38075161) - [The Married Introvert](https://lukasrosenstock.net/2023/10/26/the-married-introvert.html)

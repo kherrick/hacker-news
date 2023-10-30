@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 21:39:55](https://news.ycombinator.com/item?id=38076303) - [Autoworkers Score Big Wins in New Contracts with Carmakers](https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html)
+* [2023-10-30, 21:15:27](https://news.ycombinator.com/item?id=38075971) - [Apple's Safari browser is still vulnerable to Spectre attacks](https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks)
 * [2023-10-30, 20:19:48](https://news.ycombinator.com/item?id=38075198) - [X says it is worth $19B, down from $44B last year](https://www.nytimes.com/2023/10/30/technology/x-twitter-19-billion-dollars.html)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
@@ -21,7 +23,6 @@
 * [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
-* [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
 * [2023-10-30, 12:06:54](https://news.ycombinator.com/item?id=38068363) - [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
 * [2023-10-30, 00:52:48](https://news.ycombinator.com/item?id=38064453) - [Patterns for personal web sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
@@ -29,7 +30,6 @@
 * [2023-10-29, 10:31:42](https://news.ycombinator.com/item?id=38057265) - [Thomas Edison's Concrete Houses](https://www.atlasobscura.com/places/thomas-edisons-concrete-houses)
 * [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich’s radical critique of modern certitudes (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
 * [2023-10-28, 03:00:37](https://news.ycombinator.com/item?id=38046674) - [Ertdfgcvb](https://ertdfgcvb.xyz/?mode=screensaver)
-* [2023-10-26, 11:59:48](https://news.ycombinator.com/item?id=38024405) - [Lindenmayer Systems](https://rue-a.github.io/L-Systems/)
 
 ## [Archives](archives/index.md)
 
