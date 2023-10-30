@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-10-30, 21:15:27",
-      "https://news.ycombinator.com/item?id=38075971"
-    ],
-    [
-      "Apple's Safari browser is still vulnerable to Spectre attacks",
-      "https://news.rub.de/english/press-releases/2023-10-26-security-gap-apples-safari-browser-still-vulnerable-spectre-attacks"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 21:12:55",
       "https://news.ycombinator.com/item?id=38075924"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2023-10-30, 18:51:14",
+      "https://news.ycombinator.com/item?id=38073956"
+    ],
+    [
+      "8BitDo Micro",
+      "https://www.8bitdo.com/micro/"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 18:22:18",
       "https://news.ycombinator.com/item?id=38073512"
     ],
@@ -121,12 +121,12 @@
   ],
   [
     [
-      "2023-10-30, 17:38:55",
-      "https://news.ycombinator.com/item?id=38072756"
+      "2023-10-30, 17:06:28",
+      "https://news.ycombinator.com/item?id=38072278"
     ],
     [
-      "Autism and responding to authority (2019)",
-      "https://neuroclastic.com/autism-and-responding-to-authority/"
+      "Recursive Drawing",
+      "http://recursivedrawing.com/"
     ]
   ],
   [
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2023-10-30, 16:54:09",
-      "https://news.ycombinator.com/item?id=38072074"
-    ],
-    [
-      "Show HN: Web app to generate AI pictures with logos \"hidden\" in them",
-      "https://logopictureai.com/"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 16:49:30",
       "https://news.ycombinator.com/item?id=38072012"
     ],
     [
       "DNA turbine powered by a transmembrane potential across a nanopore",
       "https://www.nature.com/articles/s41565-023-01527-8"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 16:34:42",
-      "https://news.ycombinator.com/item?id=38071796"
-    ],
-    [
-      "A tiny supercritical carbon dioxide turbine can power 10k homes",
-      "https://cleantechnica.com/2023/10/30/a-tiny-supercritical-carbon-dioxide-turbine-can-power-10000-homes/"
     ]
   ],
   [
@@ -191,22 +171,12 @@
   ],
   [
     [
-      "2023-10-30, 16:12:55",
-      "https://news.ycombinator.com/item?id=38071472"
+      "2023-10-30, 14:41:35",
+      "https://news.ycombinator.com/item?id=38070001"
     ],
     [
-      "Meta to charge for ad-free versions of Facebook and Instagram in Europe",
-      "https://www.nytimes.com/2023/10/30/technology/facebook-meta-subscription-europe.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 16:05:41",
-      "https://news.ycombinator.com/item?id=38071341"
-    ],
-    [
-      "Razor 1911",
-      "https://en.wikipedia.org/wiki/Razor_1911"
+      "Automating Dead Code Cleanup",
+      "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
     ]
   ],
   [
@@ -231,6 +201,26 @@
   ],
   [
     [
+      "2023-10-30, 14:22:44",
+      "https://news.ycombinator.com/item?id=38069803"
+    ],
+    [
+      "Why can't you multiply vectors? [video]",
+      "https://www.youtube.com/watch?v=htYh-Tq7ZBI"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 14:15:07",
+      "https://news.ycombinator.com/item?id=38069710"
+    ],
+    [
+      "I accidentally saved my company half a million dollars",
+      "https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 14:10:22",
       "https://news.ycombinator.com/item?id=38069659"
     ],
@@ -241,12 +231,32 @@
   ],
   [
     [
-      "2023-10-30, 12:06:54",
-      "https://news.ycombinator.com/item?id=38068363"
+      "2023-10-30, 13:25:47",
+      "https://news.ycombinator.com/item?id=38069197"
     ],
     [
-      "Bakhshali manuscript",
-      "https://en.wikipedia.org/wiki/Bakhshali_manuscript"
+      "Private equity is devouring the U.S. economy",
+      "https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 10:05:37",
+      "https://news.ycombinator.com/item?id=38067494"
+    ],
+    [
+      "People with autism less likely to succumb to bystander effect, research finds",
+      "https://www.sciencedaily.com/releases/2023/10/231026131628.htm"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 09:35:29",
+      "https://news.ycombinator.com/item?id=38067314"
+    ],
+    [
+      "Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence",
+      "https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Patterns for personal web sites (2003)",
       "http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 00:51:57",
-      "https://news.ycombinator.com/item?id=38064441"
-    ],
-    [
-      "Spy satellites reveal undiscovered Roman forts",
-      "https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html"
     ]
   ],
   [
