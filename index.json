@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-30, 13:34:03",
+      "https://news.ycombinator.com/item?id=38069284"
+    ],
+    [
+      "Python⇒Speed: Speeding Up Cython with SIMD",
+      "https://pythonspeed.com/articles/faster-cython-simd/"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 13:25:47",
       "https://news.ycombinator.com/item?id=38069197"
     ],
@@ -27,6 +37,26 @@
     [
       "Bakhshali Manuscript",
       "https://en.wikipedia.org/wiki/Bakhshali_manuscript"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 12:02:08",
+      "https://news.ycombinator.com/item?id=38068328"
+    ],
+    [
+      "Microsoft says GPT 3.5 has 20B parameters?",
+      "https://arxiv.org/abs/2310.17680"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 10:02:54",
+      "https://news.ycombinator.com/item?id=38067477"
+    ],
+    [
+      "Biden to issue first regulations on artificial intelligence systems",
+      "https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-10-29, 22:28:12",
-      "https://news.ycombinator.com/item?id=38063482"
-    ],
-    [
-      "Casio fx-CG50 calculator comes with Python built-in",
-      "https://www.casio.com/intl/scientific-calculators/product.FX-CG50/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 21:19:11",
       "https://news.ycombinator.com/item?id=38062923"
     ],
@@ -167,16 +187,6 @@
     [
       "Linear Algebra Done Right – 4th Edition",
       "https://linear.axler.net"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 14:30:48",
-      "https://news.ycombinator.com/item?id=38058959"
-    ],
-    [
-      "(learn 'scheme)",
-      "http://jaredkrinke.github.io/learn-scheme/toc.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Notes on making a multiplayer \"doing nothing app\"",
       "https://untested.sonnet.io/Sit.%2C+(together)+devlog+002+–+Space+Kalimba"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 22:14:58",
-      "https://news.ycombinator.com/item?id=38032386"
-    ],
-    [
-      "Scientists discover why dozens of endangered elephants died",
-      "https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead"
     ]
   ],
   [
