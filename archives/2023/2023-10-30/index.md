@@ -6,8 +6,10 @@
 
 * [2023-10-30, 08:23:38](https://news.ycombinator.com/item?id=38066872) - [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
 * [2023-10-30, 08:20:51](https://news.ycombinator.com/item?id=38066858) - [Xbox's new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
+* [2023-10-30, 08:06:16](https://news.ycombinator.com/item?id=38066779) - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
 * [2023-10-30, 06:56:15](https://news.ycombinator.com/item?id=38066447) - [GitHub Builds GitHub with GitHub [video]](https://www.youtube.com/watch?v=PMSoHPuD8G8)
+* [2023-10-30, 06:50:01](https://news.ycombinator.com/item?id=38066409) - [Show HN: I made a ChatGPT UI that looks like Slack](https://slickgpt.com/)
 * [2023-10-30, 05:45:10](https://news.ycombinator.com/item?id=38066093) - [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
 * [2023-10-30, 05:33:39](https://news.ycombinator.com/item?id=38066034) - [Finding services companies via their TXT records](https://www.abenezerbelachew.com/blog/services-companies-use-txt-records)
 * [2023-10-30, 05:06:09](https://news.ycombinator.com/item?id=38065889) - [Microsoft Azure CTO Headhunted for SDE II Position at Amazon](https://old.reddit.com/r/recruitinghell/comments/qr3ct1/aws_recruiter_hits_up_microsoft_azure_cto_about_a/)
