@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-30, 20:17:41",
-      "https://news.ycombinator.com/item?id=38075161"
-    ],
-    [
-      "The Married Introvert",
-      "https://lukasrosenstock.net/2023/10/26/the-married-introvert.html"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 20:07:07",
       "https://news.ycombinator.com/item?id=38074992"
     ],
@@ -207,6 +197,16 @@
     [
       "eBPF-based auto-instrumentation outperforms manual instrumentation",
       "https://odigos.io/blog/ebpf-instrumentation-faster-than-manual"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 13:34:03",
+      "https://news.ycombinator.com/item?id=38069284"
+    ],
+    [
+      "Speeding up Cython with SIMD",
+      "https://pythonspeed.com/articles/faster-cython-simd/"
     ]
   ],
   [
