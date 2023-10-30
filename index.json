@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-30, 21:39:55",
-      "https://news.ycombinator.com/item?id=38076303"
+      "2023-10-30, 21:59:45",
+      "https://news.ycombinator.com/item?id=38076530"
     ],
     [
-      "Autoworkers Score Big Wins in New Contracts with Carmakers",
-      "https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html"
+      "Drugmakers Are Set to Pay 23andMe Millions to Access Consumer DNA",
+      "https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data"
     ]
   ],
   [
@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-10-30, 20:20:41",
-      "https://news.ycombinator.com/item?id=38075210"
-    ],
-    [
-      "Ask HN: Is Oracle that much more evil than other big companies?",
-      "https://news.ycombinator.com/item?id=38075210"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 20:07:07",
       "https://news.ycombinator.com/item?id=38074992"
     ],
@@ -57,16 +47,6 @@
     [
       "Ask HN: Cloudflare Workers Are Down?",
       "https://news.ycombinator.com/item?id=38074906"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 19:57:11",
-      "https://news.ycombinator.com/item?id=38074834"
-    ],
-    [
-      "OpenBSD Webzine Special 2023",
-      "https://webzine.puffy.cafe/issue-16-special-octopenbsd-2023.html"
     ]
   ],
   [
@@ -91,22 +71,22 @@
   ],
   [
     [
-      "2023-10-30, 19:34:13",
-      "https://news.ycombinator.com/item?id=38074535"
-    ],
-    [
-      "Open source Datadog alternative SigNoz crosses 15K GitHub stars",
-      "https://twitter.com/pranay01/status/1719067058736955582"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 19:23:41",
       "https://news.ycombinator.com/item?id=38074406"
     ],
     [
       "Introduction to Curp Protocol",
       "https://datenlord.github.io/xline-home/#/blog/2023-08-18-Introduction-to-CURP-Protocol"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 19:08:55",
+      "https://news.ycombinator.com/item?id=38074226"
+    ],
+    [
+      "SCOTUS to decide if public officials can block critics online",
+      "https://www.thefire.org/news/does-first-amendment-allow-public-officials-block-their-critics-online-supreme-court-will-soon"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "Kart: DVC for geospatial and tabular data. Git for GIS",
       "https://kartproject.org/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 17:38:55",
+      "https://news.ycombinator.com/item?id=38072756"
+    ],
+    [
+      "Autism and responding to authority (2019)",
+      "https://neuroclastic.com/autism-and-responding-to-authority/"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2023-10-30, 12:47:08",
-      "https://news.ycombinator.com/item?id=38068801"
+      "2023-10-30, 13:34:03",
+      "https://news.ycombinator.com/item?id=38069284"
     ],
     [
-      "Raspberry Pi 5 has no hardware video encoding and only HEVC decoding",
-      "https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055"
+      "Speeding up Cython with SIMD",
+      "https://pythonspeed.com/articles/faster-cython-simd/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Bakhshali manuscript",
       "https://en.wikipedia.org/wiki/Bakhshali_manuscript"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 09:21:29",
+      "https://news.ycombinator.com/item?id=38067206"
+    ],
+    [
+      "AI.gov",
+      "https://ai.gov/"
     ]
   ],
   [
