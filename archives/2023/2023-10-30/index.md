@@ -7,6 +7,7 @@
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
+* [2023-10-30, 19:23:41](https://news.ycombinator.com/item?id=38074406) - [Introduction to Curp Protocol](https://datenlord.github.io/xline-home/#/blog/2023-08-18-Introduction-to-CURP-Protocol)
 * [2023-10-30, 19:08:55](https://news.ycombinator.com/item?id=38074226) - [SCOTUS to Decide If Public Officials Can Block Critics Online](https://www.thefire.org/news/does-first-amendment-allow-public-officials-block-their-critics-online-supreme-court-will-soon)
 * [2023-10-30, 18:47:23](https://news.ycombinator.com/item?id=38073907) - [Tell HN: Even after layoffs, Flexport continues posting weekly Hiring threads](https://news.ycombinator.com/item?id=38073907)
 * [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
