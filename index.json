@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-30, 08:23:38",
-      "https://news.ycombinator.com/item?id=38066872"
-    ],
-    [
-      "New signs appear to ban phones from Temple Quay",
-      "https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 08:20:51",
       "https://news.ycombinator.com/item?id=38066858"
     ],
@@ -57,6 +47,16 @@
     [
       "New Apple patents have Steve Jobs credited as an inventor",
       "https://www.greyb.com/blog/new-steve-jobs-patents/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 05:33:39",
+      "https://news.ycombinator.com/item?id=38066034"
+    ],
+    [
+      "Finding services companies via their TXT records",
+      "https://www.abenezerbelachew.com/blog/services-companies-use-txt-records"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-10-29, 18:20:59",
-      "https://news.ycombinator.com/item?id=38061187"
-    ],
-    [
-      "YouTube's Anti-Adblock and uBlock Origin",
-      "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 18:10:13",
       "https://news.ycombinator.com/item?id=38061096"
     ],
@@ -197,6 +187,16 @@
     [
       "Linear Algebra Done Right – 4th Edition",
       "https://linear.axler.net"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 11:41:05",
+      "https://news.ycombinator.com/item?id=38057591"
+    ],
+    [
+      "NixOS Reproducible Builds: minimal ISO successfully independently rebuilt",
+      "https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756"
     ]
   ],
   [
