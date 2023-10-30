@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
 * [2023-10-30, 16:50:59](https://news.ycombinator.com/item?id=38072031) - [Why many scientists are now saying climate change is an all-out 'emergency'](https://www.washingtonpost.com/climate-environment/2023/10/30/climate-emergency-scientists-declaration/)
+* [2023-10-30, 16:38:01](https://news.ycombinator.com/item?id=38071842) - [Bcachefs Pull Request Submitted for Linux 6.7](https://www.phoronix.com/news/Bcachefs-Tries-For-Linux-6.7)
 * [2023-10-30, 16:34:37](https://news.ycombinator.com/item?id=38071795) - [Far-right German politician arrested after 'Sieg Heil' salutes heard](https://www.theguardian.com/world/2023/oct/30/far-right-german-politician-arrested-after-sieg-heil-salutes-heard)
 * [2023-10-30, 16:31:11](https://news.ycombinator.com/item?id=38071749) - [Voices from Front Line Against Occupation: Interview with Palestinian Anarchists](https://libcom.org/article/voices-front-line-against-occupation-interview-palestinian-anarchists)
 * [2023-10-30, 16:29:23](https://news.ycombinator.com/item?id=38071725) - [Mob storms Dagestan airport looking for Israelis on jet from Tel Aviv](https://apnews.com/article/russia-dagestan-tel-aviv-flight-airport-makhachkala-fa06b16131ed41c0c789981cdcaac84f)
