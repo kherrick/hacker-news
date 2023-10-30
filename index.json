@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-30, 20:56:42",
-      "https://news.ycombinator.com/item?id=38075680"
-    ],
-    [
-      "Instagram Is Hiding Palestinian Flag Emojis",
-      "https://theintercept.com/2023/10/28/instagram-palestinian-flag-emoji/"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 20:17:41",
       "https://news.ycombinator.com/item?id=38075161"
     ],
@@ -37,6 +27,26 @@
     [
       "Ask HN: Cloudflare Workers Are Down?",
       "https://news.ycombinator.com/item?id=38074906"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 19:57:11",
+      "https://news.ycombinator.com/item?id=38074834"
+    ],
+    [
+      "OpenBSD Webzine Special 2023",
+      "https://webzine.puffy.cafe/issue-16-special-octopenbsd-2023.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 19:51:03",
+      "https://news.ycombinator.com/item?id=38074739"
+    ],
+    [
+      "Apple CPU Architecture Through the Ages",
+      "https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2023-10-30, 16:17:41",
+      "https://news.ycombinator.com/item?id=38071552"
+    ],
+    [
+      "Show HN: Unlogged – open-source record and replay for Java",
+      "https://news.ycombinator.com/item?id=38071552"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 16:12:55",
       "https://news.ycombinator.com/item?id=38071472"
     ],
@@ -157,16 +177,6 @@
     [
       "Razor 1911",
       "https://en.wikipedia.org/wiki/Razor_1911"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 15:13:07",
-      "https://news.ycombinator.com/item?id=38070449"
-    ],
-    [
-      "Snapdragon X Elite benchmarks: Impressive gains over M2 and desktop CPUs",
-      "https://www.notebookcheck.net/First-Snapdragon-X-Elite-benchmarks-Impressive-gains-over-M2-Max-Ryzen-9-7940HS-Intel-13th-gen-H-and-14th-gen-desktop-CPUs.763149.0.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "eBPF-based auto-instrumentation outperforms manual instrumentation",
       "https://odigos.io/blog/ebpf-instrumentation-faster-than-manual"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 13:34:03",
-      "https://news.ycombinator.com/item?id=38069284"
-    ],
-    [
-      "Speeding up Cython with SIMD",
-      "https://pythonspeed.com/articles/faster-cython-simd/"
     ]
   ],
   [
