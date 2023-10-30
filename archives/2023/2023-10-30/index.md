@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 15:42:49](https://news.ycombinator.com/item?id=38070906) - [GitLab Is Down](https://news.ycombinator.com/item?id=38070906)
 * [2023-10-30, 15:11:56](https://news.ycombinator.com/item?id=38070432) - [Tesla union strike fails in Sweden as workers refused to walk out](https://www.teslarati.com/tesla-union-strike-fails-sweden-workers-refuse-walkout/)
 * [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury Beliefs Are Status Symbols](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 * [2023-10-30, 14:48:15](https://news.ycombinator.com/item?id=38070098) - [New York Times Tech Workers to Strike This Afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
@@ -30,6 +31,7 @@
 * [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 * [2023-10-30, 10:02:54](https://news.ycombinator.com/item?id=38067477) - [Biden to issue first regulations on artificial intelligence systems](https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html)
 * [2023-10-30, 09:35:29](https://news.ycombinator.com/item?id=38067314) - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
+* [2023-10-30, 09:21:29](https://news.ycombinator.com/item?id=38067206) - [AI.gov](https://ai.gov/)
 * [2023-10-30, 08:45:33](https://news.ycombinator.com/item?id=38066992) - [Linux Man Pages in the \"Miscellaneous Information\" Section](https://www.man7.org/linux/man-pages/man7/)
 * [2023-10-30, 08:23:38](https://news.ycombinator.com/item?id=38066872) - [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
 * [2023-10-30, 08:20:51](https://news.ycombinator.com/item?id=38066858) - [Xbox's new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
