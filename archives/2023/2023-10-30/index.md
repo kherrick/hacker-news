@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 drops codec hardware acceleration except for HEVC decode](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
+* [2023-10-30, 12:06:54](https://news.ycombinator.com/item?id=38068363) - [Bakhshali Manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
 * [2023-10-30, 11:43:36](https://news.ycombinator.com/item?id=38068180) - [Ask HN: To what extent have digital payments replaced cash in your country?](https://news.ycombinator.com/item?id=38068180)
 * [2023-10-30, 10:42:20](https://news.ycombinator.com/item?id=38067759) - [Changing the way you sit could add years to your life](https://www.newscientist.com/article/mg24732913-000-how-changing-the-way-you-sit-could-add-years-to-your-life/)
 * [2023-10-30, 10:38:39](https://news.ycombinator.com/item?id=38067733) - [Camptown – HTML-based audio player](https://github.com/fluffy-critter/camptown)
