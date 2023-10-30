@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-10-29, 20:50:26",
-      "https://news.ycombinator.com/item?id=38062649"
-    ],
-    [
-      "Migrating our backend from Vercel to Fly.io",
-      "https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 20:17:21",
       "https://news.ycombinator.com/item?id=38062297"
     ],
@@ -227,6 +217,16 @@
     [
       "NixOS Reproducible Builds: minimal ISO successfully independently rebuilt",
       "https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 06:36:15",
+      "https://news.ycombinator.com/item?id=38056284"
+    ],
+    [
+      "Disappearing Polymorphs",
+      "https://en.wikipedia.org/wiki/Disappearing_polymorphs"
     ]
   ],
   [
