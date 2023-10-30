@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 18:12:42](https://news.ycombinator.com/item?id=38073368) - [Flexport is hiring sales people](https://flexport.com/careers)
 * [2023-10-30, 17:40:15](https://news.ycombinator.com/item?id=38072773) - [Reasons Our Civilization Will Soon Collapse](https://www.okdoomer.io/10-reasons-our-civilization-will-soon-collapse/)
 * [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)
 * [2023-10-30, 17:20:01](https://news.ycombinator.com/item?id=38072495) - [Threads Software Limited gives Meta 30 days to stop using the name Threads](https://www.businesswire.com/news/home/20231030082004/en/Threads-Software-Limited-Gives-Meta%E2%80%99s-Instagram-30-Days-to-Desist-from-Using-the-Service-Name-Threads)
@@ -11,6 +12,7 @@
 * [2023-10-30, 17:06:10](https://news.ycombinator.com/item?id=38072267) - [Global CO2 Levels](https://www.co2levels.org/)
 * [2023-10-30, 17:03:37](https://news.ycombinator.com/item?id=38072218) - [Google Brain cofounder says Big Tech lying about risks of AI wiping out humanity](https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10)
 * [2023-10-30, 16:50:59](https://news.ycombinator.com/item?id=38072031) - [Why many scientists are now saying climate change is an all-out 'emergency'](https://www.washingtonpost.com/climate-environment/2023/10/30/climate-emergency-scientists-declaration/)
+* [2023-10-30, 16:49:30](https://news.ycombinator.com/item?id=38072012) - [DNA turbine powered by a transmembrane potential across a nanopore](https://www.nature.com/articles/s41565-023-01527-8)
 * [2023-10-30, 16:38:01](https://news.ycombinator.com/item?id=38071842) - [Bcachefs Pull Request Submitted for Linux 6.7](https://www.phoronix.com/news/Bcachefs-Tries-For-Linux-6.7)
 * [2023-10-30, 16:34:42](https://news.ycombinator.com/item?id=38071796) - [A Tiny Supercritical Carbon Dioxide Turbine Can Power 10k Homes](https://cleantechnica.com/2023/10/30/a-tiny-supercritical-carbon-dioxide-turbine-can-power-10000-homes/)
 * [2023-10-30, 16:34:37](https://news.ycombinator.com/item?id=38071795) - [Far-right German politician arrested after 'Sieg Heil' salutes heard](https://www.theguardian.com/world/2023/oct/30/far-right-german-politician-arrested-after-sieg-heil-salutes-heard)
@@ -20,6 +22,7 @@
 * [2023-10-30, 16:12:55](https://news.ycombinator.com/item?id=38071472) - [Meta to Charge for Ad-Free Versions of Facebook and Instagram in Europe](https://www.nytimes.com/2023/10/30/technology/facebook-meta-subscription-europe.html)
 * [2023-10-30, 16:05:41](https://news.ycombinator.com/item?id=38071341) - [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
 * [2023-10-30, 15:42:49](https://news.ycombinator.com/item?id=38070906) - [GitLab Is Down](https://news.ycombinator.com/item?id=38070906)
+* [2023-10-30, 15:26:11](https://news.ycombinator.com/item?id=38070627) - [Show HN: Buka](https://buka.sh)
 * [2023-10-30, 15:13:07](https://news.ycombinator.com/item?id=38070449) - [Snapdragon X Elite benchmarks: Impressive gains over M2 and desktop CPUs](https://www.notebookcheck.net/First-Snapdragon-X-Elite-benchmarks-Impressive-gains-over-M2-Max-Ryzen-9-7940HS-Intel-13th-gen-H-and-14th-gen-desktop-CPUs.763149.0.html)
 * [2023-10-30, 15:11:56](https://news.ycombinator.com/item?id=38070432) - [Tesla union strike fails in Sweden as workers refused to walk out](https://www.teslarati.com/tesla-union-strike-fails-sweden-workers-refuse-walkout/)
 * [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury Beliefs Are Status Symbols](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
