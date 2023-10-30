@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-30, 20:17:41](https://news.ycombinator.com/item?id=38075161) - [The Married Introvert](https://lukasrosenstock.net/2023/10/26/the-married-introvert.html)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
 * [2023-10-30, 19:57:11](https://news.ycombinator.com/item?id=38074834) - [OpenBSD Webzine Special 2023](https://webzine.puffy.cafe/issue-16-special-octopenbsd-2023.html)
@@ -21,6 +20,7 @@
 * [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
+* [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
 * [2023-10-30, 12:06:54](https://news.ycombinator.com/item?id=38068363) - [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
 * [2023-10-30, 09:21:29](https://news.ycombinator.com/item?id=38067206) - [AI.gov](https://ai.gov/)
