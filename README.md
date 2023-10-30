@@ -24,11 +24,11 @@
 * [2023-10-30, 14:15:07](https://news.ycombinator.com/item?id=38069710) - [I accidentally saved my company half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
 * [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private equity is devouring the U.S. economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
+* [2023-10-30, 12:06:54](https://news.ycombinator.com/item?id=38068363) - [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
 * [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 * [2023-10-30, 09:35:29](https://news.ycombinator.com/item?id=38067314) - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
 * [2023-10-30, 00:52:48](https://news.ycombinator.com/item?id=38064453) - [Patterns for personal web sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 * [2023-10-29, 10:31:42](https://news.ycombinator.com/item?id=38057265) - [Thomas Edison's Concrete Houses](https://www.atlasobscura.com/places/thomas-edisons-concrete-houses)
-* [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich’s radical critique of modern certitudes (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
 * [2023-10-28, 03:00:37](https://news.ycombinator.com/item?id=38046674) - [Ertdfgcvb](https://ertdfgcvb.xyz/?mode=screensaver)
 
 ## [Archives](archives/index.md)
