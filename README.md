@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The Death of a Public Intellectual](https://thmsmlr.com/public-intellectuals)
+* [2023-10-30, 04:37:57](https://news.ycombinator.com/item?id=38065740) - [What's Missing with American CEO's? Skin in the Game](https://albertcory50.substack.com/p/whats-missing-with-american-ceos)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
 * [2023-10-30, 00:51:57](https://news.ycombinator.com/item?id=38064441) - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
 * [2023-10-30, 00:48:07](https://news.ycombinator.com/item?id=38064412) - [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
@@ -13,7 +14,6 @@
 * [2023-10-29, 20:14:34](https://news.ycombinator.com/item?id=38062269) - [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
 * [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
-* [2023-10-29, 17:24:06](https://news.ycombinator.com/item?id=38060698) - [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), a video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
 * [2023-10-29, 16:15:00](https://news.ycombinator.com/item?id=38059961) - [MenuetOS: An entire operating system in x86_64 assembly](http://www.menuetos.net/)

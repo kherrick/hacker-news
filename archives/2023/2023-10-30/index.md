@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The Death of a Public Intellectual](https://thmsmlr.com/public-intellectuals)
+* [2023-10-30, 04:37:57](https://news.ycombinator.com/item?id=38065740) - [What's Missing with American CEO's? Skin in the Game](https://albertcory50.substack.com/p/whats-missing-with-american-ceos)
 * [2023-10-30, 03:57:25](https://news.ycombinator.com/item?id=38065507) - [Hiroshima and the Myths of Military Targets and Unconditional Surrender (2020)](https://www.lawfaremedia.org/article/hiroshima-and-myths-military-targets-and-unconditional-surrender)
 * [2023-10-30, 02:37:16](https://news.ycombinator.com/item?id=38065102) - [Medically assisted deaths constituted 4.1 per cent of all deaths in Canada](https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704)
 * [2023-10-30, 02:16:52](https://news.ycombinator.com/item?id=38065002) - [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
