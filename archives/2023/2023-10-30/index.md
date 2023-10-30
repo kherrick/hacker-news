@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
+* [2023-10-30, 14:29:54](https://news.ycombinator.com/item?id=38069880) - [Western Digital to spin off flash business](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
 * [2023-10-30, 14:22:44](https://news.ycombinator.com/item?id=38069803) - [Why can't you multiply vectors? [video]](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
+* [2023-10-30, 14:15:07](https://news.ycombinator.com/item?id=38069710) - [I Accidentally Saved My Company Half a Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 14:11:21](https://news.ycombinator.com/item?id=38069669) - [Ask HN: How to survive indefinite DDoS attack?](https://news.ycombinator.com/item?id=38069669)
 * [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Python⇒Speed: Speeding Up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
