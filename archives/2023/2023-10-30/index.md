@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 20:56:42](https://news.ycombinator.com/item?id=38075680) - [Instagram Is Hiding Palestinian Flag Emojis](https://theintercept.com/2023/10/28/instagram-palestinian-flag-emoji/)
 * [2023-10-30, 20:17:41](https://news.ycombinator.com/item?id=38075161) - [The Married Introvert](https://lukasrosenstock.net/2023/10/26/the-married-introvert.html)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
