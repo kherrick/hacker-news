@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 * [2023-10-30, 18:12:42](https://news.ycombinator.com/item?id=38073368) - [Flexport is hiring sales people](https://flexport.com/careers)
 * [2023-10-30, 17:40:15](https://news.ycombinator.com/item?id=38072773) - [Reasons Our Civilization Will Soon Collapse](https://www.okdoomer.io/10-reasons-our-civilization-will-soon-collapse/)
 * [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)

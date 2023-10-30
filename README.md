@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 * [2023-10-30, 18:12:42](https://news.ycombinator.com/item?id=38073368) - [Flexport is hiring sales people](https://flexport.com/careers)
 * [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)
 * [2023-10-30, 17:20:01](https://news.ycombinator.com/item?id=38072495) - [Threads Software Limited gives Meta 30 days to stop using the name Threads](https://www.businesswire.com/news/home/20231030082004/en/Threads-Software-Limited-Gives-Meta%E2%80%99s-Instagram-30-Days-to-Desist-from-Using-the-Service-Name-Threads)
@@ -14,7 +15,6 @@
 * [2023-10-30, 14:48:15](https://news.ycombinator.com/item?id=38070098) - [New York Times tech workers to strike this afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
 * [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
-* [2023-10-30, 14:30:48](https://news.ycombinator.com/item?id=38069887) - [Qualcomm Snapdragon X Elite Performance Preview: A First Look at What's to Come](https://www.anandtech.com/show/21112/qualcomm-snapdragon-x-elite-performance-preview-a-first-look-at-whats-to-come)
 * [2023-10-30, 14:29:54](https://news.ycombinator.com/item?id=38069880) - [Western Digital to spin off flash business](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
 * [2023-10-30, 14:15:07](https://news.ycombinator.com/item?id=38069710) - [I accidentally saved my company half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
