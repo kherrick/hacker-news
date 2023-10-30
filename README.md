@@ -3,7 +3,9 @@
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 20:01:36](https://news.ycombinator.com/item?id=38074906) - [Ask HN: Cloudflare Workers Are Down?](https://news.ycombinator.com/item?id=38074906)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
+* [2023-10-30, 19:34:13](https://news.ycombinator.com/item?id=38074535) - [Open source Datadog alternative SigNoz crosses 15K GitHub stars](https://twitter.com/pranay01/status/1719067058736955582)
 * [2023-10-30, 19:23:41](https://news.ycombinator.com/item?id=38074406) - [Introduction to Curp Protocol](https://datenlord.github.io/xline-home/#/blog/2023-08-18-Introduction-to-CURP-Protocol)
+* [2023-10-30, 18:51:14](https://news.ycombinator.com/item?id=38073956) - [8BitDo Micro](https://www.8bitdo.com/micro/)
 * [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 * [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
 * [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and responding to authority (2019)](https://neuroclastic.com/autism-and-responding-to-authority/)
@@ -16,7 +18,6 @@
 * [2023-10-30, 16:05:41](https://news.ycombinator.com/item?id=38071341) - [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
 * [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
-* [2023-10-30, 14:15:07](https://news.ycombinator.com/item?id=38069710) - [I accidentally saved my company half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
 * [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
@@ -29,7 +30,6 @@
 * [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich’s radical critique of modern certitudes (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
 * [2023-10-28, 03:00:37](https://news.ycombinator.com/item?id=38046674) - [Ertdfgcvb](https://ertdfgcvb.xyz/?mode=screensaver)
 * [2023-10-26, 11:59:48](https://news.ycombinator.com/item?id=38024405) - [Lindenmayer Systems](https://rue-a.github.io/L-Systems/)
-* [2023-10-26, 11:50:04](https://news.ycombinator.com/item?id=38024330) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 
 ## [Archives](archives/index.md)
 
