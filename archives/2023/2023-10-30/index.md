@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 16:05:41](https://news.ycombinator.com/item?id=38071341) - [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
 * [2023-10-30, 15:42:49](https://news.ycombinator.com/item?id=38070906) - [GitLab Is Down](https://news.ycombinator.com/item?id=38070906)
 * [2023-10-30, 15:11:56](https://news.ycombinator.com/item?id=38070432) - [Tesla union strike fails in Sweden as workers refused to walk out](https://www.teslarati.com/tesla-union-strike-fails-sweden-workers-refuse-walkout/)
 * [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury Beliefs Are Status Symbols](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 * [2023-10-30, 14:48:15](https://news.ycombinator.com/item?id=38070098) - [New York Times Tech Workers to Strike This Afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
+* [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 14:30:48](https://news.ycombinator.com/item?id=38069887) - [Qualcomm Snapdragon X Elite Performance Preview: A First Look at What's to Come](https://www.anandtech.com/show/21112/qualcomm-snapdragon-x-elite-performance-preview-a-first-look-at-whats-to-come)
 * [2023-10-30, 14:29:54](https://news.ycombinator.com/item?id=38069880) - [Western Digital to spin off flash business](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
