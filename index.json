@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-30, 10:05:37",
+      "https://news.ycombinator.com/item?id=38067494"
+    ],
+    [
+      "People with autism less likely to succumb to bystander effect, research finds",
+      "https://www.sciencedaily.com/releases/2023/10/231026131628.htm"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 09:35:29",
+      "https://news.ycombinator.com/item?id=38067314"
+    ],
+    [
+      "Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence",
+      "https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 08:06:16",
       "https://news.ycombinator.com/item?id=38066779"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-10-29, 18:10:13",
-      "https://news.ycombinator.com/item?id=38061096"
-    ],
-    [
-      "How many billions of transistors in an iPhone processor?",
-      "https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 16:31:26",
       "https://news.ycombinator.com/item?id=38060159"
     ],
     [
       "Linear Algebra Done Right – 4th Edition",
       "https://linear.axler.net"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 14:30:48",
-      "https://news.ycombinator.com/item?id=38058959"
-    ],
-    [
-      "(learn 'scheme)",
-      "http://jaredkrinke.github.io/learn-scheme/toc.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-10-26, 17:11:07",
-      "https://news.ycombinator.com/item?id=38028610"
+      "2023-10-26, 11:59:48",
+      "https://news.ycombinator.com/item?id=38024405"
     ],
     [
-      "Particle accelerator on a chip hits penny-size",
-      "https://spectrum.ieee.org/particle-accelerator-chip-sized"
+      "Lindenmayer Systems",
+      "https://rue-a.github.io/L-Systems/"
     ]
   ],
   [
