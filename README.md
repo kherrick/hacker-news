@@ -8,7 +8,7 @@
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 19:51:03](https://news.ycombinator.com/item?id=38074739) - [Apple CPU Architecture Through the Ages](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
-* [2023-10-30, 19:23:41](https://news.ycombinator.com/item?id=38074406) - [Introduction to Curp Protocol](https://datenlord.github.io/xline-home/#/blog/2023-08-18-Introduction-to-CURP-Protocol)
+* [2023-10-30, 19:23:41](https://news.ycombinator.com/item?id=38074406) - [Introduction to CURP Protocol](https://datenlord.github.io/xline-home/#/blog/2023-08-18-Introduction-to-CURP-Protocol)
 * [2023-10-30, 19:08:55](https://news.ycombinator.com/item?id=38074226) - [SCOTUS to decide if public officials can block critics online](https://www.thefire.org/news/does-first-amendment-allow-public-officials-block-their-critics-online-supreme-court-will-soon)
 * [2023-10-30, 18:51:14](https://news.ycombinator.com/item?id=38073956) - [8BitDo Micro](https://www.8bitdo.com/micro/)
 * [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
