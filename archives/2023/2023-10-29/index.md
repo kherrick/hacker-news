@@ -55,6 +55,7 @@
 * [2023-10-29, 11:32:38](https://news.ycombinator.com/item?id=38057543) - [Show HN: YCombinato – A domain-hacked \"Hacker News\" client](https://news.ycombinato.com/)
 * [2023-10-29, 11:19:25](https://news.ycombinator.com/item?id=38057477) - [Sweden (Not Switzerland)](https://visitsweden.com/sweden-not-switzerland/)
 * [2023-10-29, 10:07:32](https://news.ycombinator.com/item?id=38057142) - [The Pirates Are Back](https://www.pandasecurity.com/en/mediacenter/online-piracy-back/)
+* [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich: A Forgotten Prophet Whose Time Has Come (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)
 * [2023-10-29, 10:01:30](https://news.ycombinator.com/item?id=38057110) - [Toyota CEO: \"Our Ammonia Engine Is the End of EV's\"](https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091)
 * [2023-10-29, 09:37:21](https://news.ycombinator.com/item?id=38057011) - [Linux running on RISC-V emulated in Scratch](https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/)
 * [2023-10-29, 09:21:18](https://news.ycombinator.com/item?id=38056949) - [Emptycrate.com: Nobody Understands C++: Intro](https://articles.emptycrate.com/2007/07/19/nobody_understands_c_intro.html)
