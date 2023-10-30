@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 19:08:55](https://news.ycombinator.com/item?id=38074226) - [SCOTUS to Decide If Public Officials Can Block Critics Online](https://www.thefire.org/news/does-first-amendment-allow-public-officials-block-their-critics-online-supreme-court-will-soon)
 * [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 * [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
 * [2023-10-30, 17:52:57](https://news.ycombinator.com/item?id=38073039) - [Show HN: Launch a private Ethereum Testnet with all clients and MEV infra](https://github.com/kurtosis-tech/ethereum-package)
@@ -15,7 +16,6 @@
 * [2023-10-30, 15:13:07](https://news.ycombinator.com/item?id=38070449) - [Snapdragon X Elite benchmarks: Impressive gains over M2 and desktop CPUs](https://www.notebookcheck.net/First-Snapdragon-X-Elite-benchmarks-Impressive-gains-over-M2-Max-Ryzen-9-7940HS-Intel-13th-gen-H-and-14th-gen-desktop-CPUs.763149.0.html)
 * [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
-* [2023-10-30, 14:29:54](https://news.ycombinator.com/item?id=38069880) - [Western Digital to spin off flash business](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
 * [2023-10-30, 14:15:07](https://news.ycombinator.com/item?id=38069710) - [I accidentally saved my company half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
 * [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
