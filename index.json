@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-30, 02:37:16",
+      "https://news.ycombinator.com/item?id=38065102"
+    ],
+    [
+      "Medically assisted deaths constituted 4.1 per cent of all deaths in Canada",
+      "https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 01:53:29",
       "https://news.ycombinator.com/item?id=38064856"
     ],
@@ -77,16 +87,6 @@
     [
       "DIY IP-KVM Based on Raspberry Pi",
       "https://github.com/pikvm/pikvm"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 20:50:26",
-      "https://news.ycombinator.com/item?id=38062649"
-    ],
-    [
-      "Migrating our backend from Vercel to Fly.io",
-      "https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly"
     ]
   ],
   [
