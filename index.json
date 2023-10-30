@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-30, 12:47:08",
+      "https://news.ycombinator.com/item?id=38068801"
+    ],
+    [
+      "Raspberry Pi 5 drops codec hardware acceleration except for HEVC decode",
+      "https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 10:35:57",
       "https://news.ycombinator.com/item?id=38067702"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-10-30, 09:35:29",
-      "https://news.ycombinator.com/item?id=38067314"
+      "2023-10-30, 08:45:33",
+      "https://news.ycombinator.com/item?id=38066992"
     ],
     [
-      "Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence",
-      "https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/"
+      "Linux Man Pages in the \"Miscellaneous Information\" Section",
+      "https://www.man7.org/linux/man-pages/man7/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Alan Wake 2 is an unexpected visual marvel even on older GPUs",
       "https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 21:19:11",
-      "https://news.ycombinator.com/item?id=38062923"
-    ],
-    [
-      "DIY IP-KVM Based on Raspberry Pi",
-      "https://github.com/pikvm/pikvm"
     ]
   ],
   [
