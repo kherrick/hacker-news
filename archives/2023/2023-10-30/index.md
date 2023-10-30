@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 14:22:44](https://news.ycombinator.com/item?id=38069803) - [Why can't you multiply vectors? [video]](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
 * [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Python⇒Speed: Speeding Up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 drops codec hardware acceleration except for HEVC decode](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)

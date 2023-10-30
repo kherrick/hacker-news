@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 14:22:44](https://news.ycombinator.com/item?id=38069803) - [Why can't you multiply vectors? [video]](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
 * [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Python⇒Speed: Speeding Up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 has no hardware video encoding and only HEVC decoding](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
@@ -7,7 +8,6 @@
 * [2023-10-30, 12:02:08](https://news.ycombinator.com/item?id=38068328) - [Microsoft says GPT 3.5 has 20B parameters?](https://arxiv.org/abs/2310.17680)
 * [2023-10-30, 10:02:54](https://news.ycombinator.com/item?id=38067477) - [Biden to issue first regulations on artificial intelligence systems](https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html)
 * [2023-10-30, 08:06:16](https://news.ycombinator.com/item?id=38066779) - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
-* [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
 * [2023-10-30, 05:52:26](https://news.ycombinator.com/item?id=38066135) - [Internal slides on the work of the Google \"Ads Quality\" team](https://twitter.com/jason_kint/status/1718830641016414657)
 * [2023-10-30, 05:33:39](https://news.ycombinator.com/item?id=38066034) - [Finding services companies via their TXT records](https://www.abenezerbelachew.com/blog/services-companies-use-txt-records)
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
