@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 17:40:15](https://news.ycombinator.com/item?id=38072773) - [Reasons Our Civilization Will Soon Collapse](https://www.okdoomer.io/10-reasons-our-civilization-will-soon-collapse/)
+* [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)
 * [2023-10-30, 17:20:01](https://news.ycombinator.com/item?id=38072495) - [Threads Software Limited gives Meta 30 days to stop using the name Threads](https://www.businesswire.com/news/home/20231030082004/en/Threads-Software-Limited-Gives-Meta%E2%80%99s-Instagram-30-Days-to-Desist-from-Using-the-Service-Name-Threads)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072277) - [Approximate Nearest Neighbors Oh Yeah](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
 * [2023-10-30, 17:06:10](https://news.ycombinator.com/item?id=38072267) - [Global CO2 Levels](https://www.co2levels.org/)
