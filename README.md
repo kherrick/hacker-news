@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The Death of a Public Intellectual](https://thmsmlr.com/public-intellectuals)
 * [2023-10-30, 03:57:25](https://news.ycombinator.com/item?id=38065507) - [Hiroshima and the Myths of Military Targets and Unconditional Surrender (2020)](https://www.lawfaremedia.org/article/hiroshima-and-myths-military-targets-and-unconditional-surrender)
 * [2023-10-30, 02:37:16](https://news.ycombinator.com/item?id=38065102) - [Medically assisted deaths constituted 4.1 per cent of all deaths in Canada](https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
@@ -24,7 +25,6 @@
 * [2023-10-29, 06:36:15](https://news.ycombinator.com/item?id=38056284) - [Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs)
 * [2023-10-29, 03:12:42](https://news.ycombinator.com/item?id=38055558) - [Aftershock of the New: Woodblock Prints of Post-Disaster Tokyo (1928–32)](https://publicdomainreview.org/collection/aftershock-of-the-new/)
 * [2023-10-28, 17:11:19](https://news.ycombinator.com/item?id=38051523) - [Assyrian Women of Letters](https://www.archaeology.org/issues/530-2311/features/11800-kanesh-assyrian-letters)
-* [2023-10-27, 13:11:10](https://news.ycombinator.com/item?id=38037963) - [South Pole Medevac (2016)](https://www.southpolestation.com/trivia/10s/medevac.html)
 * [2023-10-27, 11:16:18](https://news.ycombinator.com/item?id=38037075) - [Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
 * [2023-10-26, 22:14:58](https://news.ycombinator.com/item?id=38032386) - [Scientists discover why dozens of endangered elephants dropped dead](https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead)
 * [2023-10-26, 22:13:42](https://news.ycombinator.com/item?id=38032373) - [Ham Radios Crowdsourced Ionospheric Science During Eclipse](https://eos.org/articles/ham-radios-crowdsourced-ionospheric-science-during-eclipse)
