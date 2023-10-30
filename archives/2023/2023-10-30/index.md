@@ -6,7 +6,10 @@
 
 * [2023-10-30, 18:47:23](https://news.ycombinator.com/item?id=38073907) - [Tell HN: Even after layoffs, Flexport continues posting weekly Hiring threads](https://news.ycombinator.com/item?id=38073907)
 * [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
+* [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
+* [2023-10-30, 18:13:31](https://news.ycombinator.com/item?id=38073378) - [Child labor in chocolate industry: 'It is worse than you may realize'](https://www.theguardian.com/tv-and-radio/2023/oct/30/john-oliver-last-week-tonight-chocolate-industry-child-labor)
 * [2023-10-30, 18:12:42](https://news.ycombinator.com/item?id=38073368) - [Flexport is hiring sales people](https://flexport.com/careers)
+* [2023-10-30, 17:52:57](https://news.ycombinator.com/item?id=38073039) - [Show HN: Launch a private Ethereum Testnet with all clients and MEV infra](https://github.com/kurtosis-tech/ethereum-package)
 * [2023-10-30, 17:40:15](https://news.ycombinator.com/item?id=38072773) - [Reasons Our Civilization Will Soon Collapse](https://www.okdoomer.io/10-reasons-our-civilization-will-soon-collapse/)
 * [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)
 * [2023-10-30, 17:20:01](https://news.ycombinator.com/item?id=38072495) - [Threads Software Limited gives Meta 30 days to stop using the name Threads](https://www.businesswire.com/news/home/20231030082004/en/Threads-Software-Limited-Gives-Meta%E2%80%99s-Instagram-30-Days-to-Desist-from-Using-the-Service-Name-Threads)
