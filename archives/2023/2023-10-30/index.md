@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 18:47:23](https://news.ycombinator.com/item?id=38073907) - [Tell HN: Even after layoffs, Flexport continues posting weekly Hiring threads](https://news.ycombinator.com/item?id=38073907)
 * [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 * [2023-10-30, 18:12:42](https://news.ycombinator.com/item?id=38073368) - [Flexport is hiring sales people](https://flexport.com/careers)
 * [2023-10-30, 17:40:15](https://news.ycombinator.com/item?id=38072773) - [Reasons Our Civilization Will Soon Collapse](https://www.okdoomer.io/10-reasons-our-civilization-will-soon-collapse/)

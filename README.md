@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 18:47:23](https://news.ycombinator.com/item?id=38073907) - [Tell HN: Even after layoffs, Flexport continues posting weekly Hiring threads](https://news.ycombinator.com/item?id=38073907)
 * [2023-10-30, 18:36:27](https://news.ycombinator.com/item?id=38073734) - [Real-Time Latent Consistency Model](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model)
 * [2023-10-30, 18:12:42](https://news.ycombinator.com/item?id=38073368) - [Flexport is hiring sales people](https://flexport.com/careers)
 * [2023-10-30, 17:38:55](https://news.ycombinator.com/item?id=38072756) - [Autism and Responding to Authority](https://neuroclastic.com/autism-and-responding-to-authority/)
@@ -12,7 +13,6 @@
 * [2023-10-30, 16:34:42](https://news.ycombinator.com/item?id=38071796) - [A Tiny Supercritical Carbon Dioxide Turbine Can Power 10k Homes](https://cleantechnica.com/2023/10/30/a-tiny-supercritical-carbon-dioxide-turbine-can-power-10000-homes/)
 * [2023-10-30, 16:05:41](https://news.ycombinator.com/item?id=38071341) - [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
 * [2023-10-30, 15:13:07](https://news.ycombinator.com/item?id=38070449) - [Snapdragon X Elite benchmarks: Impressive gains over M2 and desktop CPUs](https://www.notebookcheck.net/First-Snapdragon-X-Elite-benchmarks-Impressive-gains-over-M2-Max-Ryzen-9-7940HS-Intel-13th-gen-H-and-14th-gen-desktop-CPUs.763149.0.html)
-* [2023-10-30, 14:48:15](https://news.ycombinator.com/item?id=38070098) - [New York Times tech workers to strike this afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
 * [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 14:29:54](https://news.ycombinator.com/item?id=38069880) - [Western Digital to spin off flash business](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
