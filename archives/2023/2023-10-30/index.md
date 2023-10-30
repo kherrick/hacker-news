@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
 * [2023-10-30, 22:35:49](https://news.ycombinator.com/item?id=38076903) - [Judge pares down artists' AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
+* [2023-10-30, 22:33:26](https://news.ycombinator.com/item?id=38076886) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
 * [2023-10-30, 22:08:52](https://news.ycombinator.com/item?id=38076636) - [SEC Charges SolarWinds and CISO with Fraud, Internal Control Failures](https://www.sec.gov/news/press-release/2023-227)
 * [2023-10-30, 21:59:45](https://news.ycombinator.com/item?id=38076530) - [Drugmakers Are Set to Pay 23andMe Millions to Access Consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
 * [2023-10-30, 21:39:55](https://news.ycombinator.com/item?id=38076303) - [Autoworkers Score Big Wins in New Contracts with Carmakers](https://www.nytimes.com/2023/10/30/business/economy/gm-uaw-contract-deal.html)
