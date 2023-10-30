@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-10-29, 17:01:02",
-      "https://news.ycombinator.com/item?id=38060468"
-    ],
-    [
-      "Sieve (YC W22), a video/audio AI cloud, is hiring AI engineers",
-      "https://sievedata.com/about/jobs"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 16:31:26",
       "https://news.ycombinator.com/item?id=38060159"
     ],
@@ -297,6 +287,16 @@
     [
       "Particle accelerator on a chip hits penny-size",
       "https://spectrum.ieee.org/particle-accelerator-chip-sized"
+    ]
+  ],
+  [
+    [
+      "2023-10-26, 11:50:04",
+      "https://news.ycombinator.com/item?id=38024330"
+    ],
+    [
+      "Old Unix programs running on modern computers",
+      "https://github.com/rsc/unix"
     ]
   ]
 ]
