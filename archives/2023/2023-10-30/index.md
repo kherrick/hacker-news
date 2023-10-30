@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 16:12:55](https://news.ycombinator.com/item?id=38071472) - [Meta to Charge for Ad-Free Versions of Facebook and Instagram in Europe](https://www.nytimes.com/2023/10/30/technology/facebook-meta-subscription-europe.html)
 * [2023-10-30, 16:05:41](https://news.ycombinator.com/item?id=38071341) - [Razor 1911](https://en.wikipedia.org/wiki/Razor_1911)
 * [2023-10-30, 15:42:49](https://news.ycombinator.com/item?id=38070906) - [GitLab Is Down](https://news.ycombinator.com/item?id=38070906)
 * [2023-10-30, 15:11:56](https://news.ycombinator.com/item?id=38070432) - [Tesla union strike fails in Sweden as workers refused to walk out](https://www.teslarati.com/tesla-union-strike-fails-sweden-workers-refuse-walkout/)
