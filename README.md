@@ -17,7 +17,6 @@
 * [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 17:24:06](https://news.ycombinator.com/item?id=38060698) - [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
-* [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), a video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
 * [2023-10-29, 16:15:00](https://news.ycombinator.com/item?id=38059961) - [MenuetOS: An entire operating system in x86_64 assembly](http://www.menuetos.net/)
 * [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
@@ -30,6 +29,7 @@
 * [2023-10-26, 22:14:58](https://news.ycombinator.com/item?id=38032386) - [Scientists discover why dozens of endangered elephants dropped dead](https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead)
 * [2023-10-26, 19:33:30](https://news.ycombinator.com/item?id=38030657) - [The IBM 5153's True CGA Palette and Color Output (2022)](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/)
 * [2023-10-26, 17:11:07](https://news.ycombinator.com/item?id=38028610) - [Particle accelerator on a chip hits penny-size](https://spectrum.ieee.org/particle-accelerator-chip-sized)
+* [2023-10-26, 11:50:04](https://news.ycombinator.com/item?id=38024330) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 
 ## [Archives](archives/index.md)
 
