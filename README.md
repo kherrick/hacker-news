@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 08:23:38](https://news.ycombinator.com/item?id=38066872) - [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
+* [2023-10-30, 08:20:51](https://news.ycombinator.com/item?id=38066858) - [Xbox's new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
-* [2023-10-30, 06:56:15](https://news.ycombinator.com/item?id=38066447) - [GitHub Builds GitHub with GitHub [video]](https://www.youtube.com/watch?v=PMSoHPuD8G8)
 * [2023-10-30, 05:45:10](https://news.ycombinator.com/item?id=38066093) - [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
 * [2023-10-30, 05:33:39](https://news.ycombinator.com/item?id=38066034) - [Finding services companies via their TXT records](https://www.abenezerbelachew.com/blog/services-companies-use-txt-records)
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
@@ -19,7 +20,6 @@
 * [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
-* [2023-10-29, 11:41:05](https://news.ycombinator.com/item?id=38057591) - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 * [2023-10-29, 06:36:15](https://news.ycombinator.com/item?id=38056284) - [Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs)
 * [2023-10-29, 03:12:42](https://news.ycombinator.com/item?id=38055558) - [Aftershock of the New: Woodblock Prints of Post-Disaster Tokyo (1928–32)](https://publicdomainreview.org/collection/aftershock-of-the-new/)
 * [2023-10-28, 17:11:19](https://news.ycombinator.com/item?id=38051523) - [Assyrian Women of Letters](https://www.archaeology.org/issues/530-2311/features/11800-kanesh-assyrian-letters)

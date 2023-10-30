@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 08:23:38](https://news.ycombinator.com/item?id=38066872) - [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
+* [2023-10-30, 08:20:51](https://news.ycombinator.com/item?id=38066858) - [Xbox's new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
 * [2023-10-30, 06:56:15](https://news.ycombinator.com/item?id=38066447) - [GitHub Builds GitHub with GitHub [video]](https://www.youtube.com/watch?v=PMSoHPuD8G8)
 * [2023-10-30, 05:45:10](https://news.ycombinator.com/item?id=38066093) - [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
