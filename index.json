@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-10-30, 01:53:29",
+      "https://news.ycombinator.com/item?id=38064856"
+    ],
+    [
+      "Web FM synthesizer made with HTML5",
+      "https://www.taktech.org/takm/WebFMSynth/"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 00:51:57",
       "https://news.ycombinator.com/item?id=38064441"
     ],
     [
       "Spy satellites reveal undiscovered Roman forts",
       "https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 00:48:07",
+      "https://news.ycombinator.com/item?id=38064412"
+    ],
+    [
+      "Biomarkers to detect the heating of fatty acids in residues from pottery use",
+      "https://www.sciencedirect.com/science/article/pii/S0305440323001346"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "π in Other Universes",
       "https://azeemba.com/posts/pi-in-other-universes.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 22:28:12",
+      "https://news.ycombinator.com/item?id=38063482"
+    ],
+    [
+      "Casio fx-CG50 calculator comes with Python built-in",
+      "https://www.casio.com/intl/scientific-calculators/product.FX-CG50/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-10-29, 17:09:37",
-      "https://news.ycombinator.com/item?id=38060566"
-    ],
-    [
-      "Zima Board – Hackable Single Board Server",
-      "https://www.zimaboard.com/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 17:01:02",
       "https://news.ycombinator.com/item?id=38060468"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-10-29, 15:21:34",
-      "https://news.ycombinator.com/item?id=38059396"
-    ],
-    [
-      "Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary",
-      "https://kimchi-reader.app"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 14:30:48",
       "https://news.ycombinator.com/item?id=38058959"
     ],
@@ -197,16 +207,6 @@
     [
       "A theory that Mars lost its magnetic field and then its oceans (2022)",
       "https://bigthink.com/hard-science/mars-lost-oceans-magnetic-field/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 12:42:12",
-      "https://news.ycombinator.com/item?id=38058031"
-    ],
-    [
-      "The murky math of the New York Times bestsellers list",
-      "https://thehustle.co/the-murky-math-of-the-new-york-times-bestsellers-list/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-10-29, 04:17:15",
-      "https://news.ycombinator.com/item?id=38055780"
-    ],
-    [
-      "Hilary Mantel's writing stretched beyond Wolf Hall",
-      "https://www.washingtonpost.com/books/2023/10/24/hilary-mantel-memoir-review/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 03:12:42",
       "https://news.ycombinator.com/item?id=38055558"
     ],
@@ -257,6 +247,16 @@
     [
       "South Pole Medevac (2016)",
       "https://www.southpolestation.com/trivia/10s/medevac.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 11:16:18",
+      "https://news.ycombinator.com/item?id=38037075"
+    ],
+    [
+      "Porting OpenBSD Pledge() to Linux",
+      "https://justine.lol/pledge/"
     ]
   ],
   [
