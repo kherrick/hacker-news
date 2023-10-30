@@ -35,6 +35,7 @@
 * [2023-10-28, 18:13:54](https://news.ycombinator.com/item?id=38052080) - [Why is a second equal to the duration of 9,192,631,770 of radiations?](https://physics.stackexchange.com/questions/243144/why-is-a-second-equal-to-the-duration-of-exactly-9-192-631-770-periods-of-radiat)
 * [2023-10-28, 17:26:02](https://news.ycombinator.com/item?id=38051689) - [Ask HN: How hackable are the Meta smart glasses?](https://news.ycombinator.com/item?id=38051689)
 * [2023-10-28, 17:21:40](https://news.ycombinator.com/item?id=38051640) - [PHP 8.1.25](https://www.php.net/archive/2023.php)
+* [2023-10-28, 17:11:19](https://news.ycombinator.com/item?id=38051523) - [Assyrian Women of Letters](https://www.archaeology.org/issues/530-2311/features/11800-kanesh-assyrian-letters)
 * [2023-10-28, 17:10:35](https://news.ycombinator.com/item?id=38051515) - [One Year into Musk, X Monthly Users Are Down 15% and Ad Revenue Has Slumped 54%](https://variety.com/2023/digital/news/musk-twitter-x-acquisition-one-year-user-revenue-decline-1235770297/)
 * [2023-10-28, 17:06:46](https://news.ycombinator.com/item?id=38051488) - [Fixing the Volume on My Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 16:55:53](https://news.ycombinator.com/item?id=38051380) - [ESP32 Wemos D1 Mini – Sprinkler Controller Open Source](https://github.com/fellowgeek/esp32-relay-board)
