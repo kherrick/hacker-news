@@ -3,7 +3,7 @@
 * [2023-10-30, 08:20:51](https://news.ycombinator.com/item?id=38066858) - [Xbox's new policy – say goodbye to unofficial accessories from November](https://www.windowscentral.com/gaming/xbox/xboxs-new-policy-say-goodbye-to-unofficial-accessories-after-november)
 * [2023-10-30, 08:06:16](https://news.ycombinator.com/item?id=38066779) - [The History of Microsoft Encarta](https://www.abortretry.fail/p/the-history-of-microsoft-encarta)
 * [2023-10-30, 07:31:10](https://news.ycombinator.com/item?id=38066588) - [SiFive: The road ahead (post layoffs)](https://www.sifive.com/blog/the-road-ahead--)
-* [2023-10-30, 06:50:01](https://news.ycombinator.com/item?id=38066409) - [Show HN: I made a ChatGPT UI that looks like Slack](https://slickgpt.com/)
+* [2023-10-30, 05:52:26](https://news.ycombinator.com/item?id=38066135) - [Internal slides on the work of the Google \"Ads Quality\" team](https://twitter.com/jason_kint/status/1718830641016414657)
 * [2023-10-30, 05:45:10](https://news.ycombinator.com/item?id=38066093) - [New Apple patents have Steve Jobs credited as an inventor](https://www.greyb.com/blog/new-steve-jobs-patents/)
 * [2023-10-30, 05:33:39](https://news.ycombinator.com/item?id=38066034) - [Finding services companies via their TXT records](https://www.abenezerbelachew.com/blog/services-companies-use-txt-records)
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
