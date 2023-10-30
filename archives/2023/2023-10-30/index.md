@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 05:45:10](https://news.ycombinator.com/item?id=38066093) - [Apple is still getting patents under Steven Jobs name](https://www.greyb.com/blog/new-steve-jobs-patents/)
 * [2023-10-30, 05:06:09](https://news.ycombinator.com/item?id=38065889) - [Microsoft Azure CTO Headhunted for SDE II Position at Amazon](https://old.reddit.com/r/recruitinghell/comments/qr3ct1/aws_recruiter_hits_up_microsoft_azure_cto_about_a/)
 * [2023-10-30, 04:44:41](https://news.ycombinator.com/item?id=38065779) - [The Death of a Public Intellectual](https://thmsmlr.com/public-intellectuals)
 * [2023-10-30, 04:37:57](https://news.ycombinator.com/item?id=38065740) - [What's Missing with American CEO's? Skin in the Game](https://albertcory50.substack.com/p/whats-missing-with-american-ceos)
