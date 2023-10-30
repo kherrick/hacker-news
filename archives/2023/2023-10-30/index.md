@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury Beliefs Are Status Symbols](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 * [2023-10-30, 14:48:15](https://news.ycombinator.com/item?id=38070098) - [New York Times Tech Workers to Strike This Afternoon](https://www.bloomberg.com/news/articles/2023-10-30/new-york-times-tech-union-to-strike-over-office-return-contract-delays)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 14:30:48](https://news.ycombinator.com/item?id=38069887) - [Qualcomm Snapdragon X Elite Performance Preview: A First Look at What's to Come](https://www.anandtech.com/show/21112/qualcomm-snapdragon-x-elite-performance-preview-a-first-look-at-whats-to-come)
@@ -46,6 +47,7 @@
 * [2023-10-30, 02:37:16](https://news.ycombinator.com/item?id=38065102) - [Medically assisted deaths constituted 4.1 per cent of all deaths in Canada](https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704)
 * [2023-10-30, 02:16:52](https://news.ycombinator.com/item?id=38065002) - [How to Move Your Google Photos](https://www.auckland.ac.nz/en/students/my-tools/googlechanges/Move-your-google-photos.html)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+* [2023-10-30, 00:52:48](https://news.ycombinator.com/item?id=38064453) - [Patterns for personal web sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 * [2023-10-30, 00:51:57](https://news.ycombinator.com/item?id=38064441) - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
 * [2023-10-30, 00:48:07](https://news.ycombinator.com/item?id=38064412) - [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
 * [2023-10-30, 00:28:38](https://news.ycombinator.com/item?id=38064287) - [How deep is the brain? The shallow brain hypothesis](https://www.nature.com/articles/s41583-023-00756-z)
