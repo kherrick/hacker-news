@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 03:57:25](https://news.ycombinator.com/item?id=38065507) - [Hiroshima and the Myths of Military Targets and Unconditional Surrender (2020)](https://www.lawfaremedia.org/article/hiroshima-and-myths-military-targets-and-unconditional-surrender)
 * [2023-10-30, 02:37:16](https://news.ycombinator.com/item?id=38065102) - [Medically assisted deaths constituted 4.1 per cent of all deaths in Canada](https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
 * [2023-10-30, 00:51:57](https://news.ycombinator.com/item?id=38064441) - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
@@ -13,7 +14,6 @@
 * [2023-10-29, 20:14:34](https://news.ycombinator.com/item?id=38062269) - [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
 * [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-29, 18:10:13](https://news.ycombinator.com/item?id=38061096) - [How many billions of transistors in an iPhone processor?](https://lemire.me/blog/2023/10/18/how-many-billions-of-transistors-in-your-iphone-processor/)
-* [2023-10-29, 17:24:06](https://news.ycombinator.com/item?id=38060698) - [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), a video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
 * [2023-10-29, 16:15:00](https://news.ycombinator.com/item?id=38059961) - [MenuetOS: An entire operating system in x86_64 assembly](http://www.menuetos.net/)
