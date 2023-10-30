@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 02:37:16](https://news.ycombinator.com/item?id=38065102) - [Medically assisted deaths constituted 4.1 per cent of all deaths in Canada](https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
 * [2023-10-30, 00:51:57](https://news.ycombinator.com/item?id=38064441) - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
 * [2023-10-30, 00:48:07](https://news.ycombinator.com/item?id=38064412) - [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)

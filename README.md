@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-30, 02:37:16](https://news.ycombinator.com/item?id=38065102) - [Medically assisted deaths constituted 4.1 per cent of all deaths in Canada](https://www.cbc.ca/news/politics/maid-canada-report-2022-1.7009704)
 * [2023-10-30, 01:53:29](https://news.ycombinator.com/item?id=38064856) - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
 * [2023-10-30, 00:51:57](https://news.ycombinator.com/item?id=38064441) - [Spy satellites reveal undiscovered Roman forts](https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html)
 * [2023-10-30, 00:48:07](https://news.ycombinator.com/item?id=38064412) - [Biomarkers to detect the heating of fatty acids in residues from pottery use](https://www.sciencedirect.com/science/article/pii/S0305440323001346)
@@ -8,7 +9,6 @@
 * [2023-10-29, 22:28:12](https://news.ycombinator.com/item?id=38063482) - [Casio fx-CG50 calculator comes with Python built-in](https://www.casio.com/intl/scientific-calculators/product.FX-CG50/)
 * [2023-10-29, 21:42:52](https://news.ycombinator.com/item?id=38063112) - [Alan Wake 2 is an unexpected visual marvel even on older GPUs](https://www.xfire.com/alan-wake-2-performing-well-low-end-pcs/)
 * [2023-10-29, 21:19:11](https://news.ycombinator.com/item?id=38062923) - [DIY IP-KVM Based on Raspberry Pi](https://github.com/pikvm/pikvm)
-* [2023-10-29, 20:50:26](https://news.ycombinator.com/item?id=38062649) - [Migrating our backend from Vercel to Fly.io](https://www.openstatus.dev/blog/migration-backend-from-vercel-to-fly)
 * [2023-10-29, 20:17:21](https://news.ycombinator.com/item?id=38062297) - [Apple's Blue Ocean](https://hypercritical.co/2023/10/29/apples-blue-ocean)
 * [2023-10-29, 20:14:34](https://news.ycombinator.com/item?id=38062269) - [Kubernetes releases ingress2gateway tool for upcoming GA of Gateway API](https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/)
 * [2023-10-29, 18:20:59](https://news.ycombinator.com/item?id=38061187) - [YouTube's Anti-Adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
