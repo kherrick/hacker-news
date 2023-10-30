@@ -6,6 +6,7 @@
 
 * [2023-10-30, 17:20:01](https://news.ycombinator.com/item?id=38072495) - [Threads Software Limited gives Meta 30 days to stop using the name Threads](https://www.businesswire.com/news/home/20231030082004/en/Threads-Software-Limited-Gives-Meta%E2%80%99s-Instagram-30-Days-to-Desist-from-Using-the-Service-Name-Threads)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072277) - [Approximate Nearest Neighbors Oh Yeah](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
+* [2023-10-30, 17:06:10](https://news.ycombinator.com/item?id=38072267) - [Global CO2 Levels](https://www.co2levels.org/)
 * [2023-10-30, 17:03:37](https://news.ycombinator.com/item?id=38072218) - [Google Brain cofounder says Big Tech lying about risks of AI wiping out humanity](https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10)
 * [2023-10-30, 16:50:59](https://news.ycombinator.com/item?id=38072031) - [Why many scientists are now saying climate change is an all-out 'emergency'](https://www.washingtonpost.com/climate-environment/2023/10/30/climate-emergency-scientists-declaration/)
 * [2023-10-30, 16:38:01](https://news.ycombinator.com/item?id=38071842) - [Bcachefs Pull Request Submitted for Linux 6.7](https://www.phoronix.com/news/Bcachefs-Tries-For-Linux-6.7)
