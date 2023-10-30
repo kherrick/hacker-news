@@ -100,6 +100,7 @@
 * [2023-10-27, 11:42:17](https://news.ycombinator.com/item?id=38037245) - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
 * [2023-10-27, 11:25:28](https://news.ycombinator.com/item?id=38037141) - [Lessons Learned from Twenty Years of Site Reliability Engineering](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 * [2023-10-27, 11:21:45](https://news.ycombinator.com/item?id=38037110) - [Ways to Make Sand (2020) [video]](https://www.youtube.com/watch?v=BDyvjkAs5-Y&list=ULcxqQ59vzyTk&index=6)
+* [2023-10-27, 11:16:18](https://news.ycombinator.com/item?id=38037075) - [Porting OpenBSD Pledge() to Linux](https://justine.lol/pledge/)
 * [2023-10-27, 11:12:20](https://news.ycombinator.com/item?id=38037049) - [Robert E Lee statue that sparked Charlottesville riot is melted down](https://www.theguardian.com/us-news/2023/oct/26/charlottesville-robert-e-lee-melted-confederate-statue)
 * [2023-10-27, 10:56:43](https://news.ycombinator.com/item?id=38036947) - [Share Bristol – A Library of Things](https://www.sharebristol.org.uk/)
 * [2023-10-27, 10:51:52](https://news.ycombinator.com/item?id=38036921) - [Why you should probably be using SQLite](https://www.epicweb.dev/why-you-should-probably-be-using-sqlite)
