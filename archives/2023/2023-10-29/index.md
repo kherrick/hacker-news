@@ -46,6 +46,7 @@
 * [2023-10-29, 13:17:57](https://news.ycombinator.com/item?id=38058332) - [Android 14 review: There's always next year](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/)
 * [2023-10-29, 13:07:42](https://news.ycombinator.com/item?id=38058238) - [When Police Raid a Newspaper for No Reason](https://www.youtube.com/watch?v=-CX1aJRUzPY)
 * [2023-10-29, 13:06:52](https://news.ycombinator.com/item?id=38058226) - [Lexically-Accelerated Dense Retrieval](https://arxiv.org/abs/2307.16779)
+* [2023-10-29, 12:53:20](https://news.ycombinator.com/item?id=38058115) - [A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
 * [2023-10-29, 12:42:12](https://news.ycombinator.com/item?id=38058031) - [The murky math of the New York Times bestsellers list](https://thehustle.co/the-murky-math-of-the-new-york-times-bestsellers-list/)
 * [2023-10-29, 12:36:27](https://news.ycombinator.com/item?id=38057981) - [Where the heck did all those structures inside complex cells come from?](https://arstechnica.com/science/2023/10/where-the-heck-did-all-those-structures-inside-complex-cells-come-from/)
 * [2023-10-29, 12:27:34](https://news.ycombinator.com/item?id=38057924) - [World's Smallest Particle Accelerator](https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works)
