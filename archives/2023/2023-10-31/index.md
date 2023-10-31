@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 16:22:03](https://news.ycombinator.com/item?id=38087256) - [Bologna seals off 'leaning tower' over fears it is tilting too far](https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far)
+* [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
+* [2023-10-31, 15:38:46](https://news.ycombinator.com/item?id=38086518) - [Mars Cyclers](https://planetocracy.substack.com/p/mars-cyclers)
 * [2023-10-31, 15:22:32](https://news.ycombinator.com/item?id=38086227) - [New wildlife GPS tracker uses kinetic energy for power](https://www.scientificamerican.com/article/new-wildlife-tracker-powers-itself-as-animals-walk-trot-and-run/)
 * [2023-10-31, 15:15:50](https://news.ycombinator.com/item?id=38086105) - [Comp Sci in 2027 (Short Story by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/gQyphPbaLHBMJoghD/comp-sci-in-2027-short-story-by-eliezer-yudkowsky)
+* [2023-10-31, 15:14:02](https://news.ycombinator.com/item?id=38086082) - [Vendor lock-in in the observability space](https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-details)
 * [2023-10-31, 15:01:35](https://news.ycombinator.com/item?id=38085909) - [Return To Office is all about power](https://werd.io/2023/return-to-office-is-all-about-power)
+* [2023-10-31, 15:01:12](https://news.ycombinator.com/item?id=38085903) - [Copy webpage text, convert to Markdown](https://chrome.google.com/webstore/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg)
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 14:22:22](https://news.ycombinator.com/item?id=38085289) - [CA employers must reimburse remote workers for all necessary expenses](https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html)
 * [2023-10-31, 14:18:04](https://news.ycombinator.com/item?id=38085231) - [Scabs/strikebreakers arrived by taxi to Tesla's workshops in Sweden](https://da.se/2023/10/strejkbrytare-anlande-i-taxi-till-tesla-verkstader-runt-om-i-landet/)

@@ -48,6 +48,7 @@
 * [2023-10-29, 12:42:12](https://news.ycombinator.com/item?id=38058031) - [The murky math of the New York Times bestsellers list](https://thehustle.co/the-murky-math-of-the-new-york-times-bestsellers-list/)
 * [2023-10-29, 12:36:27](https://news.ycombinator.com/item?id=38057981) - [Where the heck did all those structures inside complex cells come from?](https://arstechnica.com/science/2023/10/where-the-heck-did-all-those-structures-inside-complex-cells-come-from/)
 * [2023-10-29, 12:27:34](https://news.ycombinator.com/item?id=38057924) - [World's Smallest Particle Accelerator](https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works)
+* [2023-10-29, 12:22:35](https://news.ycombinator.com/item?id=38057888) - [Walk a Terminal File Manager](https://github.com/antonmedv/walk/releases/tag/v1.7.0)
 * [2023-10-29, 12:15:30](https://news.ycombinator.com/item?id=38057837) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 12:06:58](https://news.ycombinator.com/item?id=38057759) - [Show HN: how I built the largest open database of Australian law](https://umarbutler.com/how-i-built-the-largest-open-database-of-australian-law/)
 * [2023-10-29, 12:00:42](https://news.ycombinator.com/item?id=38057712) - [Great Question (YC W21) Is Hiring](https://www.ycombinator.com/companies/great-question/jobs/BxfP9Zt-account-executive)
