@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-31, 03:52:37](https://news.ycombinator.com/item?id=38080069) - [Show HN: I made a web app that tells you if your food is spicy?](https://dieornot.com/)
 * [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
+* [2023-10-31, 01:32:23](https://news.ycombinator.com/item?id=38078919) - [NASA can't open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 * [2023-10-31, 00:01:03](https://news.ycombinator.com/item?id=38077779) - [A Murderer in the Family (2014)](https://www.vice.com/en/article/kwkxke/my-gandma-the-poisoner-0000474-v21n10)
@@ -23,11 +23,11 @@
 * [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072278) - [Recursive Drawing](http://recursivedrawing.com/)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072277) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
+* [2023-10-30, 16:49:30](https://news.ycombinator.com/item?id=38072012) - [DNA turbine powered by a transmembrane potential across a nanopore](https://www.nature.com/articles/s41565-023-01527-8)
 * [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 * [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
-* [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private equity is devouring the U.S. economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 
