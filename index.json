@@ -81,11 +81,21 @@
   ],
   [
     [
+      "2023-10-31, 00:31:49",
+      "https://news.ycombinator.com/item?id=38078079"
+    ],
+    [
+      "MacBook Pro M3",
+      "https://www.apple.com/macbook-pro/"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 00:30:14",
       "https://news.ycombinator.com/item?id=38078063"
     ],
     [
-      "Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC",
+      "Apple unveils M3, M3 Pro, and M3 Max",
       "https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-10-30, 23:17:07",
-      "https://news.ycombinator.com/item?id=38077315"
-    ],
-    [
-      "I Began with Sound",
-      "https://www.publicbooks.org/i-began-with-sound/"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 23:12:19",
       "https://news.ycombinator.com/item?id=38077262"
     ],
@@ -167,6 +167,16 @@
     [
       "SEC Charges SolarWinds and CISO with Fraud, Internal Control Failures",
       "https://www.sec.gov/news/press-release/2023-227"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 21:59:45",
+      "https://news.ycombinator.com/item?id=38076530"
+    ],
+    [
+      "Drugmakers are set to pay 23andme millions to access consumer DNA",
+      "https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Automating Dead Code Cleanup",
       "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 14:33:41",
-      "https://news.ycombinator.com/item?id=38069915"
-    ],
-    [
-      "The costs of microservices (2020)",
-      "https://robertovitillo.com/costs-of-microservices/"
     ]
   ],
   [
