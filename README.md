@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
 * [2023-10-31, 16:39:13](https://news.ycombinator.com/item?id=38087573) - [Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 16:32:37](https://news.ycombinator.com/item?id=38087448) - [Behind the scenes: An Apple Event shot on iPhone](https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/)
 * [2023-10-31, 16:22:03](https://news.ycombinator.com/item?id=38087256) - [Bologna seals off 'leaning tower' over fears it is tilting too far](https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far)
@@ -16,7 +17,6 @@
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
 * [2023-10-31, 13:07:25](https://news.ycombinator.com/item?id=38084244) - [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
-* [2023-10-31, 12:49:56](https://news.ycombinator.com/item?id=38084007) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
 * [2023-10-31, 11:19:30](https://news.ycombinator.com/item?id=38083045) - [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
