@@ -19,6 +19,7 @@
 * [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072278) - [Recursive Drawing](http://recursivedrawing.com/)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072277) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
+* [2023-10-30, 17:03:37](https://news.ycombinator.com/item?id=38072218) - [Google Brain founder says big tech is lying about AI danger](https://www.afr.com/technology/google-brain-founder-says-big-tech-is-lying-about-ai-human-extinction-danger-20231027-p5efnz)
 * [2023-10-30, 16:49:30](https://news.ycombinator.com/item?id=38072012) - [DNA turbine powered by a transmembrane potential across a nanopore](https://www.nature.com/articles/s41565-023-01527-8)
 * [2023-10-30, 16:17:41](https://news.ycombinator.com/item?id=38071552) - [Show HN: Unlogged – open-source record and replay for Java](https://news.ycombinator.com/item?id=38071552)
 * [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
@@ -29,7 +30,6 @@
 * [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private equity is devouring the U.S. economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
-* [2023-10-30, 09:35:29](https://news.ycombinator.com/item?id=38067314) - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
 
 ## [Archives](archives/index.md)
 
