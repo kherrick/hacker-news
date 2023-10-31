@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:13:07](https://news.ycombinator.com/item?id=38083565) - [Gen Z is lonely. Going back to the office may be the cure for some](https://www.businessinsider.com/cure-for-gen-z-loneliness-heading-returning-to-office-2023-10)
+* [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've Overlayed Stays on a Light Pollution Satellite Map](https://darkhotels.co)
 * [2023-10-31, 11:25:01](https://news.ycombinator.com/item?id=38083105) - [Midjourney, Stability AI and DeviantArt win a victory in copyright case](https://venturebeat.com/ai/midjourney-stability-ai-and-deviantart-win-a-victory-in-copyright-case-by-artists-but-the-fight-continues/)
 * [2023-10-31, 11:23:58](https://news.ycombinator.com/item?id=38083101) - [Artists Lose First Round of AI Art Copyright Infringement Case](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
 * [2023-10-31, 11:19:30](https://news.ycombinator.com/item?id=38083045) - [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
 * [2023-10-31, 10:35:28](https://news.ycombinator.com/item?id=38082683) - [Israel was removed from Baidu Maps earlier today](https://twitter.com/shaunmmaguire/status/1719200628990525595)
+* [2023-10-31, 10:27:09](https://news.ycombinator.com/item?id=38082621) - [Show HN: Formbricks – open-source alternative to Typeform and Sprig](https://github.com/formbricks/formbricks)
 * [2023-10-31, 10:23:31](https://news.ycombinator.com/item?id=38082594) - [Ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
 * [2023-10-31, 09:29:41](https://news.ycombinator.com/item?id=38082171) - [Should you use a Lambda Monolith, a.k.a. Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
