@@ -21,6 +21,7 @@
 * [2023-10-31, 09:29:41](https://news.ycombinator.com/item?id=38082171) - [Should you use a Lambda Monolith, a.k.a. Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
 * [2023-10-31, 09:14:21](https://news.ycombinator.com/item?id=38082067) - [Contributing to Rust as a Novice](https://filtra.io/rust-ochagavia-oct-23)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
+* [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court bans LinkedIn from ignoring \"Do Not Track\" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/)
 * [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
 * [2023-10-31, 04:19:08](https://news.ycombinator.com/item?id=38080234) - [Cleopatra's Daughter (2018)](https://www.historytoday.com/miscellanies/cleopatras-daughter)
 * [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
