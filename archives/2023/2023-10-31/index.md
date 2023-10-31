@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 17:40:47](https://news.ycombinator.com/item?id=38088538) - [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://www.phind.com/phindmodelhn)
 * [2023-10-31, 17:17:04](https://news.ycombinator.com/item?id=38088183) - [In 1952, a group of three 'stars' vanished–astronomers still can't find them](https://phys.org/news/2023-10-group-stars-vanishedastronomers.html)
 * [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
 * [2023-10-31, 16:50:58](https://news.ycombinator.com/item?id=38087761) - [Sam Bankman-Fried doesn't recall](https://www.theverge.com/2023/10/30/23939639/sam-bankman-fried-cross-exam-fraud)
@@ -13,6 +14,7 @@
 * [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
 * [2023-10-31, 15:43:12](https://news.ycombinator.com/item?id=38086598) - [Show HN: MicroTCP, a minimal TCP/IP stack](https://github.com/cozis/microtcp)
 * [2023-10-31, 15:38:46](https://news.ycombinator.com/item?id=38086518) - [Mars Cyclers](https://planetocracy.substack.com/p/mars-cyclers)
+* [2023-10-31, 15:31:33](https://news.ycombinator.com/item?id=38086387) - [Show HN: Streamdal – an open-source tail -f for your data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 15:22:32](https://news.ycombinator.com/item?id=38086227) - [New wildlife GPS tracker uses kinetic energy for power](https://www.scientificamerican.com/article/new-wildlife-tracker-powers-itself-as-animals-walk-trot-and-run/)
 * [2023-10-31, 15:22:15](https://news.ycombinator.com/item?id=38086222) - [Real-time dreamy Cloudscapes with Volumetric Raymarching](https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/)
 * [2023-10-31, 15:15:50](https://news.ycombinator.com/item?id=38086105) - [Comp Sci in 2027 (Short Story by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/gQyphPbaLHBMJoghD/comp-sci-in-2027-short-story-by-eliezer-yudkowsky)
@@ -28,6 +30,7 @@
 * [2023-10-31, 13:35:04](https://news.ycombinator.com/item?id=38084572) - [.io Considered Harmful](https://www.beep.blog/io/)
 * [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
+* [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [Alliance of 40 countries to vow not to pay ransom to cybercriminals, US says](https://www.reuters.com/technology/alliance-40-countries-vow-not-pay-ransom-cybercriminals-us-says-2023-10-31/)
 * [2023-10-31, 13:13:12](https://news.ycombinator.com/item?id=38084314) - [Windows 11 adds native support for RAR, 7-Zip, Tar and other archive formats](https://www.techspot.com/news/100663-windows-11-extends-support-archive-formats-thanks-open.html)
 * [2023-10-31, 13:07:25](https://news.ycombinator.com/item?id=38084244) - [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
 * [2023-10-31, 13:03:25](https://news.ycombinator.com/item?id=38084187) - [Ask HN: How can we help Firefox not to dissapear?](https://news.ycombinator.com/item?id=38084187)
