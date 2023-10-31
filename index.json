@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-31, 13:15:16",
+      "https://news.ycombinator.com/item?id=38084337"
+    ],
+    [
+      "US-led coalition of nations agrees to end ransomware payments to hackers",
+      "https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 12:49:56",
       "https://news.ycombinator.com/item?id=38084007"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=38081633"
     ],
     [
-      "German court declares Do Not Track to be legally binding",
+      "German court bans LinkedIn from ignoring \"Do Not Track\" signals",
       "https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Cleopatra's Daughter (2018)",
       "https://www.historytoday.com/miscellanies/cleopatras-daughter"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 04:19:03",
-      "https://news.ycombinator.com/item?id=38080233"
-    ],
-    [
-      "$95 AMD CPU Becomes 16GB GPU to Run AI Software",
-      "https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "NASA can't open its asteroid capsule",
       "https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 00:55:15",
-      "https://news.ycombinator.com/item?id=38078460"
-    ],
-    [
-      "What Is Left Unsaid",
-      "https://lithub.com/what-is-left-unsaid-how-some-words-do-or-dont-make-it-into-print/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Nvidia Trains LLM on Chip Design",
       "https://www.eetimes.com/nvidia-trains-llm-on-chip-design/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 14:06:21",
+      "https://news.ycombinator.com/item?id=38069623"
+    ],
+    [
+      "Building and programming a 16-bit Intel x86 breadboard computer [video]",
+      "https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N"
     ]
   ]
 ]
