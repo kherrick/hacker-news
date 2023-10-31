@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-31, 20:52:09",
+      "https://news.ycombinator.com/item?id=38091216"
+    ],
+    [
+      "WeWork Plans to File for Bankruptcy as Early as Next Week",
+      "https://www.wsj.com/articles/wework-plans-to-file-for-bankruptcy-as-early-as-next-week-1fdcb6a5"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 20:35:14",
+      "https://news.ycombinator.com/item?id=38091000"
+    ],
+    [
+      "Engineers develop a 96% efficient process to make formate fuel from CO2",
+      "https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 19:53:00",
       "https://news.ycombinator.com/item?id=38090521"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-10-31, 13:55:35",
-      "https://news.ycombinator.com/item?id=38084864"
-    ],
-    [
-      "The Beauty of Chalk",
-      "https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk?ref=thebrowser.com"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 12:56:43",
       "https://news.ycombinator.com/item?id=38084098"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-10-31, 10:27:09",
-      "https://news.ycombinator.com/item?id=38082621"
-    ],
-    [
-      "Show HN: Formbricks – Open-source alternative to Typeform and Sprig",
-      "https://github.com/formbricks/formbricks"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 09:29:41",
       "https://news.ycombinator.com/item?id=38082171"
     ],
@@ -257,16 +257,6 @@
     [
       "German court prohibits LinkedIn from ignoring \"Do Not Track\" signals",
       "https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 05:29:09",
-      "https://news.ycombinator.com/item?id=38080688"
-    ],
-    [
-      "Unwrapit provides a way to handle errors in JS/TS",
-      "https://musicq.gitbook.io/unwrapit/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-10-29, 12:53:20",
-      "https://news.ycombinator.com/item?id=38058115"
+      "2023-10-29, 10:37:26",
+      "https://news.ycombinator.com/item?id=38057293"
     ],
     [
-      "A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing",
-      "https://dl.acm.org/doi/10.14778/3574245.3574253"
+      "The Pictorial C64 Fault Guide",
+      "https://www.pictorial64.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 05:23:57",
+      "https://news.ycombinator.com/item?id=38055991"
+    ],
+    [
+      "Raven – CI/CD Security Analyzer",
+      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
