@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 11:23:58](https://news.ycombinator.com/item?id=38083101) - [Artists Lose First Round of AI Art Copyright Infringement Case](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
 * [2023-10-31, 11:19:30](https://news.ycombinator.com/item?id=38083045) - [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
 * [2023-10-31, 10:35:28](https://news.ycombinator.com/item?id=38082683) - [Israel was removed from Baidu Maps earlier today](https://twitter.com/shaunmmaguire/status/1719200628990525595)
 * [2023-10-31, 10:23:31](https://news.ycombinator.com/item?id=38082594) - [Ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
@@ -20,14 +21,13 @@
 * [2023-10-30, 23:52:38](https://news.ycombinator.com/item?id=38077684) - [World's most popular painter sent his followers after me because of my review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
 * [2023-10-30, 23:38:01](https://news.ycombinator.com/item?id=38077521) - [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
 * [2023-10-30, 22:33:26](https://news.ycombinator.com/item?id=38076886) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
+* [2023-10-30, 22:08:52](https://news.ycombinator.com/item?id=38076636) - [SEC Charges SolarWinds and CISO with Fraud, Internal Control Failures](https://www.sec.gov/news/press-release/2023-227)
 * [2023-10-30, 21:59:45](https://news.ycombinator.com/item?id=38076530) - [Drugmakers are set to pay 23andMe to access consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
 * [2023-10-30, 21:15:36](https://news.ycombinator.com/item?id=38075973) - [A new view of the Manchester Computer](https://rylandscollections.com/2023/06/21/a-new-view-of-the-manchester-computer/)
 * [2023-10-30, 21:12:55](https://news.ycombinator.com/item?id=38075924) - [Can I remove my personal data from GenAI training datasets?](https://knowingmachines.org/knowing-legal-machines/legal-explainer/questions/can-i-remove-my-personal-data-from-genai-training-datasets)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
-* [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072278) - [Recursive Drawing](http://recursivedrawing.com/)
 * [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury beliefs are status symbols (2022)](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
-* [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 * [2023-10-30, 12:57:23](https://news.ycombinator.com/item?id=38068906) - [Earliest Eligible Virtual Deadline First: Flexible Resource Allocation (1995)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=805acf7726282721504c8f00575d91ebfd750564)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 
