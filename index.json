@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-31, 10:35:28",
+      "https://news.ycombinator.com/item?id=38082683"
+    ],
+    [
+      "Israel was removed from Baidu Maps earlier today",
+      "https://twitter.com/shaunmmaguire/status/1719200628990525595"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 10:23:31",
+      "https://news.ycombinator.com/item?id=38082594"
+    ],
+    [
+      "Ohm: A library and language for building parsers, interpreters, compilers, etc.",
+      "https://github.com/ohmjs/ohm"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 08:22:42",
       "https://news.ycombinator.com/item?id=38081633"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-10-30, 14:33:41",
-      "https://news.ycombinator.com/item?id=38069915"
-    ],
-    [
-      "The costs of microservices (2020)",
-      "https://robertovitillo.com/costs-of-microservices/"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 12:57:23",
       "https://news.ycombinator.com/item?id=38068906"
     ],
@@ -287,16 +297,6 @@
     [
       "My User Experience Porting Off Setup.py",
       "https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 10:05:37",
-      "https://news.ycombinator.com/item?id=38067494"
-    ],
-    [
-      "People with autism less likely to succumb to bystander effect, research finds",
-      "https://www.sciencedaily.com/releases/2023/10/231026131628.htm"
     ]
   ]
 ]
