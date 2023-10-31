@@ -80,6 +80,7 @@
 * [2023-10-29, 06:36:15](https://news.ycombinator.com/item?id=38056284) - [Disappearing Polymorphs](https://en.wikipedia.org/wiki/Disappearing_polymorphs)
 * [2023-10-29, 06:22:57](https://news.ycombinator.com/item?id=38056227) - [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 * [2023-10-29, 05:36:26](https://news.ycombinator.com/item?id=38056035) - [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/)
+* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 * [2023-10-29, 05:11:36](https://news.ycombinator.com/item?id=38055947) - ['It's quite soul-destroying': how we fell out of love with dating apps](https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps)
 * [2023-10-29, 04:58:40](https://news.ycombinator.com/item?id=38055890) - [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
 * [2023-10-29, 04:48:13](https://news.ycombinator.com/item?id=38055864) - [Indians Are Entering the U.S. Illegally in Record Numbers](https://www.wsj.com/world/india/indians-are-entering-the-u-s-illegally-in-record-numbers-2cf19e38)
