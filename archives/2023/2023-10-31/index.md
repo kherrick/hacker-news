@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 14:22:22](https://news.ycombinator.com/item?id=38085289) - [CA employers must reimburse remote workers for all necessary expenses](https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html)
 * [2023-10-31, 14:18:04](https://news.ycombinator.com/item?id=38085231) - [Scabs/strikebreakers arrived by taxi to Tesla's workshops in Sweden](https://da.se/2023/10/strejkbrytare-anlande-i-taxi-till-tesla-verkstader-runt-om-i-landet/)
 * [2023-10-31, 13:58:32](https://news.ycombinator.com/item?id=38084920) - [YouTube Temporarily Suspends the LAPD](https://reclaimthenet.org/youtube-temporarily-suspends-the-lapd)

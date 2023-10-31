@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 14:22:22](https://news.ycombinator.com/item?id=38085289) - [CA employers must reimburse remote workers for all necessary expenses](https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html)
-* [2023-10-31, 14:18:04](https://news.ycombinator.com/item?id=38085231) - [Scabs/strikebreakers arrived by taxi to Tesla's workshops in Sweden](https://da.se/2023/10/strejkbrytare-anlande-i-taxi-till-tesla-verkstader-runt-om-i-landet/)
 * [2023-10-31, 13:46:58](https://news.ycombinator.com/item?id=38084737) - [Penn and Teller's Lab Scam [video]](https://www.youtube.com/watch?v=fxMKuv0A6z4)
 * [2023-10-31, 13:35:04](https://news.ycombinator.com/item?id=38084572) - [.io considered harmful](https://www.beep.blog/io/)
 * [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.us harbors prolific malicious link shortening service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
@@ -21,13 +21,13 @@
 * [2023-10-31, 04:19:08](https://news.ycombinator.com/item?id=38080234) - [Cleopatra's Daughter (2018)](https://www.historytoday.com/miscellanies/cleopatras-daughter)
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 * [2023-10-31, 02:20:36](https://news.ycombinator.com/item?id=38079381) - [Bootstrapping GCC in RISC-V: Milestone: MesCC builds TinyCC and fun C errors](https://ekaitz.elenq.tech/bootstrapGcc8.html)
-* [2023-10-31, 00:55:15](https://news.ycombinator.com/item?id=38078460) - [What Is Left Unsaid](https://lithub.com/what-is-left-unsaid-how-some-words-do-or-dont-make-it-into-print/)
 * [2023-10-31, 00:35:15](https://news.ycombinator.com/item?id=38078143) - [Xbox will block third-party controllers to \"preserve the console experience\"](https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 * [2023-10-30, 21:59:45](https://news.ycombinator.com/item?id=38076530) - [Drugmakers are set to pay 23andMe to access consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
 * [2023-10-30, 21:15:36](https://news.ycombinator.com/item?id=38075973) - [A new view of the Manchester Computer](https://rylandscollections.com/2023/06/21/a-new-view-of-the-manchester-computer/)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
+* [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
 * [2023-10-30, 14:06:21](https://news.ycombinator.com/item?id=38069623) - [Building and programming a 16-bit Intel x86 breadboard computer [video]](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
 
