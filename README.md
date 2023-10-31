@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 16:39:13](https://news.ycombinator.com/item?id=38087573) - [Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 16:32:37](https://news.ycombinator.com/item?id=38087448) - [Behind the scenes: An Apple Event shot on iPhone](https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/)
 * [2023-10-31, 16:22:03](https://news.ycombinator.com/item?id=38087256) - [Bologna seals off 'leaning tower' over fears it is tilting too far](https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far)
 * [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
@@ -25,7 +26,6 @@
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
-* [2023-10-30, 21:15:36](https://news.ycombinator.com/item?id=38075973) - [A new view of the Manchester Computer](https://rylandscollections.com/2023/06/21/a-new-view-of-the-manchester-computer/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
 * [2023-10-30, 14:06:21](https://news.ycombinator.com/item?id=38069623) - [Building and programming a 16-bit Intel x86 breadboard computer [video]](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
 * [2023-10-29, 12:22:35](https://news.ycombinator.com/item?id=38057888) - [Walk a Terminal File Manager](https://github.com/antonmedv/walk/releases/tag/v1.7.0)

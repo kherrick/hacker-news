@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 16:39:13](https://news.ycombinator.com/item?id=38087573) - [Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 16:32:37](https://news.ycombinator.com/item?id=38087448) - [Behind the scenes: An Apple Event shot on iPhone](https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/)
 * [2023-10-31, 16:22:03](https://news.ycombinator.com/item?id=38087256) - [Bologna seals off 'leaning tower' over fears it is tilting too far](https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far)
 * [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
