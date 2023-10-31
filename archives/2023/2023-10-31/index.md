@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
+* [2023-10-31, 13:03:25](https://news.ycombinator.com/item?id=38084187) - [Ask HN: How can we help Firefox not to dissapear?](https://news.ycombinator.com/item?id=38084187)
+* [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:49:56](https://news.ycombinator.com/item?id=38084007) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:15:34](https://news.ycombinator.com/item?id=38083579) - [Virtual meetings tire people because we're doing them wrong, says new research](https://phys.org/news/2023-10-virtual-people-wrong.html)
