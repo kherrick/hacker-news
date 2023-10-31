@@ -22,14 +22,14 @@
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 19:51:03](https://news.ycombinator.com/item?id=38074739) - [Apple CPU Architecture Through the Ages](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
-* [2023-10-30, 19:23:41](https://news.ycombinator.com/item?id=38074406) - [Introduction to CURP Protocol](https://datenlord.github.io/xline-home/#/blog/2023-08-18-Introduction-to-CURP-Protocol)
 * [2023-10-30, 19:12:41](https://news.ycombinator.com/item?id=38074276) - [Mini-08 single-board computer based on the 8008 CPU [video]](https://www.youtube.com/watch?v=oFVjI7945CU)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072278) - [Recursive Drawing](http://recursivedrawing.com/)
 * [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury beliefs are status symbols (2022)](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 * [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
-* [2023-10-30, 12:57:23](https://news.ycombinator.com/item?id=38068906) - [Earliest Eligible Virtual Deadline First: Flexible Resource Allocation Mechanism](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=805acf7726282721504c8f00575d91ebfd750564)
+* [2023-10-30, 12:57:23](https://news.ycombinator.com/item?id=38068906) - [Earliest Eligible Virtual Deadline First: Flexible Resource Allocation (1995)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=805acf7726282721504c8f00575d91ebfd750564)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
+* [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 
 ## [Archives](archives/index.md)
 
