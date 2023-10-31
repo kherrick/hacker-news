@@ -7,6 +7,7 @@
 * [2023-10-30, 23:52:38](https://news.ycombinator.com/item?id=38077684) - [World's Most Popular Painter Sent His Followers After Me Because of My Review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
 * [2023-10-30, 23:38:01](https://news.ycombinator.com/item?id=38077521) - [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
 * [2023-10-30, 23:36:21](https://news.ycombinator.com/item?id=38077502) - [Web Scraping: Data for Everyone](https://omarkama.li/blog/web-scraping-data-for-everyone)
+* [2023-10-30, 23:19:41](https://news.ycombinator.com/item?id=38077341) - [The Education of Robert Putnam](https://www.nationalaffairs.com/publications/detail/the-education-of-robert-putnam)
 * [2023-10-30, 23:17:07](https://news.ycombinator.com/item?id=38077315) - [I Began with Sound](https://www.publicbooks.org/i-began-with-sound/)
 * [2023-10-30, 23:12:19](https://news.ycombinator.com/item?id=38077262) - [Ever-Enduring Dürer](https://newcriterion.com/blogs/dispatch/ever-enduring-durer)
 * [2023-10-30, 22:35:49](https://news.ycombinator.com/item?id=38076903) - [Judge pares down artists' AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
