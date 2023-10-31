@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-31, 05:29:09",
+      "https://news.ycombinator.com/item?id=38080688"
+    ],
+    [
+      "A better way to handle errors in JavaScript",
+      "https://musicq.gitbook.io/unwrapit/"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 04:19:03",
       "https://news.ycombinator.com/item?id=38080233"
     ],
@@ -257,16 +267,6 @@
     [
       "Automating Dead Code Cleanup",
       "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 14:38:36",
-      "https://news.ycombinator.com/item?id=38069974"
-    ],
-    [
-      "Replacing WebRTC: real-time latency with WebTransport and WebCodecs",
-      "https://quic.video/blog/replacing-webrtc/"
     ]
   ],
   [
