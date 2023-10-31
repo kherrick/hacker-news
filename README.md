@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 14:22:22](https://news.ycombinator.com/item?id=38085289) - [CA employers must reimburse remote workers for all necessary expenses](https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html)
+* [2023-10-31, 14:18:04](https://news.ycombinator.com/item?id=38085231) - [Scabs/strikebreakers arrived by taxi to Tesla's workshops in Sweden](https://da.se/2023/10/strejkbrytare-anlande-i-taxi-till-tesla-verkstader-runt-om-i-landet/)
 * [2023-10-31, 13:46:58](https://news.ycombinator.com/item?id=38084737) - [Penn and Teller's Lab Scam [video]](https://www.youtube.com/watch?v=fxMKuv0A6z4)
 * [2023-10-31, 13:35:04](https://news.ycombinator.com/item?id=38084572) - [.io considered harmful](https://www.beep.blog/io/)
 * [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.us harbors prolific malicious link shortening service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
@@ -16,7 +18,6 @@
 * [2023-10-31, 09:14:21](https://news.ycombinator.com/item?id=38082067) - [Contributing to Rust as a Novice](https://filtra.io/rust-ochagavia-oct-23)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court bans LinkedIn from ignoring \"Do Not Track\" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/)
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
-* [2023-10-31, 04:19:08](https://news.ycombinator.com/item?id=38080234) - [Cleopatra's Daughter (2018)](https://www.historytoday.com/miscellanies/cleopatras-daughter)
 * [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
@@ -25,7 +26,6 @@
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 * [2023-10-30, 23:38:01](https://news.ycombinator.com/item?id=38077521) - [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
-* [2023-10-30, 21:59:45](https://news.ycombinator.com/item?id=38076530) - [Drugmakers are set to pay 23andMe to access consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
 * [2023-10-30, 21:15:36](https://news.ycombinator.com/item?id=38075973) - [A new view of the Manchester Computer](https://rylandscollections.com/2023/06/21/a-new-view-of-the-manchester-computer/)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
