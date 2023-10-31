@@ -58,6 +58,7 @@
 * [2023-10-29, 11:32:38](https://news.ycombinator.com/item?id=38057543) - [Show HN: YCombinato – A domain-hacked \"Hacker News\" client](https://news.ycombinato.com/)
 * [2023-10-29, 11:19:25](https://news.ycombinator.com/item?id=38057477) - [Sweden (Not Switzerland)](https://visitsweden.com/sweden-not-switzerland/)
 * [2023-10-29, 10:48:43](https://news.ycombinator.com/item?id=38057338) - [A close look at the round-edged Wii U proprietary discs (2012)](https://web.archive.org/web/20121113003010/http://www.engadget.com/2012/11/12/nintendo-wii-u-proprietary-disc/)
+* [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
 * [2023-10-29, 10:31:42](https://news.ycombinator.com/item?id=38057265) - [Thomas Edison's Concrete Houses in Montclair, New Jersey](https://www.atlasobscura.com/places/thomas-edisons-concrete-houses)
 * [2023-10-29, 10:07:32](https://news.ycombinator.com/item?id=38057142) - [The Pirates Are Back](https://www.pandasecurity.com/en/mediacenter/online-piracy-back/)
 * [2023-10-29, 10:01:46](https://news.ycombinator.com/item?id=38057112) - [Ivan Illich: A Forgotten Prophet Whose Time Has Come (2021)](https://www.noemamag.com/a-forgotten-prophet-whose-time-has-come/)

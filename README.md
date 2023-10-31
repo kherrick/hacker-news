@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 20:52:09](https://news.ycombinator.com/item?id=38091216) - [WeWork Plans to File for Bankruptcy as Early as Next Week](https://www.wsj.com/articles/wework-plans-to-file-for-bankruptcy-as-early-as-next-week-1fdcb6a5)
+* [2023-10-31, 20:35:14](https://news.ycombinator.com/item?id=38091000) - [Engineers develop a 96% efficient process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
 * [2023-10-31, 19:53:00](https://news.ycombinator.com/item?id=38090521) - [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
 * [2023-10-31, 19:15:44](https://news.ycombinator.com/item?id=38089980) - [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 * [2023-10-31, 18:35:11](https://news.ycombinator.com/item?id=38089356) - [Jury Finds Realtors Conspired, Awards Nearly $1.8B in Damages](https://www.wsj.com/real-estate/jury-finds-realtors-conspired-to-keep-commissions-high-awards-nearly-1-8-billion-in-damages-b26f9c2f)
@@ -19,17 +21,15 @@
 * [2023-10-31, 15:22:15](https://news.ycombinator.com/item?id=38086222) - [Real-time dreamy Cloudscapes with Volumetric Raymarching](https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/)
 * [2023-10-31, 15:14:02](https://news.ycombinator.com/item?id=38086082) - [Vendor lock-in in the observability space](https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-details)
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
-* [2023-10-31, 13:55:35](https://news.ycombinator.com/item?id=38084864) - [The Beauty of Chalk](https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk?ref=thebrowser.com)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
-* [2023-10-31, 10:27:09](https://news.ycombinator.com/item?id=38082621) - [Show HN: Formbricks – Open-source alternative to Typeform and Sprig](https://github.com/formbricks/formbricks)
 * [2023-10-31, 09:29:41](https://news.ycombinator.com/item?id=38082171) - [Should you use a Lambda Monolith, a.k.a. Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court prohibits LinkedIn from ignoring \"Do Not Track\" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/)
-* [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [Unwrapit provides a way to handle errors in JS/TS](https://musicq.gitbook.io/unwrapit/)
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
-* [2023-10-29, 12:53:20](https://news.ycombinator.com/item?id=38058115) - [A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
+* [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
+* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 

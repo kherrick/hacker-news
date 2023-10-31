@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 20:52:09](https://news.ycombinator.com/item?id=38091216) - [WeWork Plans to File for Bankruptcy as Early as Next Week](https://www.wsj.com/articles/wework-plans-to-file-for-bankruptcy-as-early-as-next-week-1fdcb6a5)
+* [2023-10-31, 20:35:14](https://news.ycombinator.com/item?id=38091000) - [Engineers develop a 96% efficient process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
 * [2023-10-31, 19:53:00](https://news.ycombinator.com/item?id=38090521) - [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
 * [2023-10-31, 19:15:44](https://news.ycombinator.com/item?id=38089980) - [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 * [2023-10-31, 18:41:30](https://news.ycombinator.com/item?id=38089431) - [Scientists Find Link Between Inflammation and Aging](https://knowridge.com/2023/10/scientists-find-link-between-inflammation-and-aging/)
