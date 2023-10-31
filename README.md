@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
 * [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
 * [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 * [2023-10-31, 03:13:53](https://news.ycombinator.com/item?id=38079819) - [Mistral 7B,The complete Guide of the Best 7B model](https://mistral-7b.com/)
@@ -26,7 +27,6 @@
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072277) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
 * [2023-10-30, 16:49:30](https://news.ycombinator.com/item?id=38072012) - [DNA turbine powered by a transmembrane potential across a nanopore](https://www.nature.com/articles/s41565-023-01527-8)
 * [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
-* [2023-10-30, 14:38:36](https://news.ycombinator.com/item?id=38069974) - [Replacing WebRTC: real-time latency with WebTransport and WebCodecs](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)

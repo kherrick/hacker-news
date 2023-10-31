@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
 * [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
 * [2023-10-31, 03:52:37](https://news.ycombinator.com/item?id=38080069) - [Show HN: I made a web app that tells you if your food is spicy?](https://dieornot.com/)
 * [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
