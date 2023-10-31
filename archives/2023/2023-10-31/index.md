@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 16:32:37](https://news.ycombinator.com/item?id=38087448) - [Behind the scenes: An Apple Event shot on iPhone](https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/)
 * [2023-10-31, 16:22:03](https://news.ycombinator.com/item?id=38087256) - [Bologna seals off 'leaning tower' over fears it is tilting too far](https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far)
 * [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
 * [2023-10-31, 15:38:46](https://news.ycombinator.com/item?id=38086518) - [Mars Cyclers](https://planetocracy.substack.com/p/mars-cyclers)
 * [2023-10-31, 15:22:32](https://news.ycombinator.com/item?id=38086227) - [New wildlife GPS tracker uses kinetic energy for power](https://www.scientificamerican.com/article/new-wildlife-tracker-powers-itself-as-animals-walk-trot-and-run/)
+* [2023-10-31, 15:22:15](https://news.ycombinator.com/item?id=38086222) - [Real-time dreamy Cloudscapes with Volumetric Raymarching](https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/)
 * [2023-10-31, 15:15:50](https://news.ycombinator.com/item?id=38086105) - [Comp Sci in 2027 (Short Story by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/gQyphPbaLHBMJoghD/comp-sci-in-2027-short-story-by-eliezer-yudkowsky)
 * [2023-10-31, 15:14:02](https://news.ycombinator.com/item?id=38086082) - [Vendor lock-in in the observability space](https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-details)
 * [2023-10-31, 15:01:35](https://news.ycombinator.com/item?id=38085909) - [Return To Office is all about power](https://werd.io/2023/return-to-office-is-all-about-power)
