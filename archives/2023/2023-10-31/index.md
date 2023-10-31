@@ -8,6 +8,8 @@
 * [2023-10-31, 13:35:04](https://news.ycombinator.com/item?id=38084572) - [.io Considered Harmful](https://www.beep.blog/io/)
 * [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
+* [2023-10-31, 13:13:12](https://news.ycombinator.com/item?id=38084314) - [Windows 11 adds native support for RAR, 7-Zip, Tar and other archive formats](https://www.techspot.com/news/100663-windows-11-extends-support-archive-formats-thanks-open.html)
+* [2023-10-31, 13:07:25](https://news.ycombinator.com/item?id=38084244) - [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
 * [2023-10-31, 13:03:25](https://news.ycombinator.com/item?id=38084187) - [Ask HN: How can we help Firefox not to dissapear?](https://news.ycombinator.com/item?id=38084187)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:49:56](https://news.ycombinator.com/item?id=38084007) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
