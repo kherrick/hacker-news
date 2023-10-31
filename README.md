@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 13:58:32](https://news.ycombinator.com/item?id=38084920) - [YouTube Temporarily Suspends the LAPD](https://reclaimthenet.org/youtube-temporarily-suspends-the-lapd)
+* [2023-10-31, 13:35:04](https://news.ycombinator.com/item?id=38084572) - [.io Considered Harmful](https://www.beep.blog/io/)
 * [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
 * [2023-10-31, 13:03:25](https://news.ycombinator.com/item?id=38084187) - [Ask HN: How can we help Firefox not to dissapear?](https://news.ycombinator.com/item?id=38084187)
@@ -24,10 +26,8 @@
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 * [2023-10-30, 23:38:01](https://news.ycombinator.com/item?id=38077521) - [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
-* [2023-10-30, 21:59:45](https://news.ycombinator.com/item?id=38076530) - [Drugmakers are set to pay 23andMe to access consumer DNA](https://www.bloomberg.com/news/articles/2023-10-30/23andme-will-give-gsk-access-to-consumer-dna-data)
 * [2023-10-30, 21:15:36](https://news.ycombinator.com/item?id=38075973) - [A new view of the Manchester Computer](https://rylandscollections.com/2023/06/21/a-new-view-of-the-manchester-computer/)
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
-* [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
 * [2023-10-30, 14:06:21](https://news.ycombinator.com/item?id=38069623) - [Building and programming a 16-bit Intel x86 breadboard computer [video]](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
 

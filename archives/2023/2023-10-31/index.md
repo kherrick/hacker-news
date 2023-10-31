@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 13:58:32](https://news.ycombinator.com/item?id=38084920) - [YouTube Temporarily Suspends the LAPD](https://reclaimthenet.org/youtube-temporarily-suspends-the-lapd)
+* [2023-10-31, 13:35:04](https://news.ycombinator.com/item?id=38084572) - [.io Considered Harmful](https://www.beep.blog/io/)
 * [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
 * [2023-10-31, 13:03:25](https://news.ycombinator.com/item?id=38084187) - [Ask HN: How can we help Firefox not to dissapear?](https://news.ycombinator.com/item?id=38084187)
