@@ -25,11 +25,11 @@
 * [2023-10-31, 10:27:09](https://news.ycombinator.com/item?id=38082621) - [Show HN: Formbricks – Open-source alternative to Typeform and Sprig](https://github.com/formbricks/formbricks)
 * [2023-10-31, 09:29:41](https://news.ycombinator.com/item?id=38082171) - [Should you use a Lambda Monolith, a.k.a. Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court prohibits LinkedIn from ignoring \"Do Not Track\" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/)
+* [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [Unwrapit provides a way to handle errors in JS/TS](https://musicq.gitbook.io/unwrapit/)
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
 * [2023-10-29, 12:53:20](https://news.ycombinator.com/item?id=38058115) - [A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
-* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 
