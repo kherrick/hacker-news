@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 10:35:28](https://news.ycombinator.com/item?id=38082683) - [Israel was removed from Baidu Maps earlier today](https://twitter.com/shaunmmaguire/status/1719200628990525595)
+* [2023-10-31, 10:23:31](https://news.ycombinator.com/item?id=38082594) - [Ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
 * [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
 * [2023-10-31, 04:17:33](https://news.ycombinator.com/item?id=38080228) - [Behold the Nebulous Smear: al-Sūfī's Illustrated Book of Fixed Stars (ca. 1430)](https://publicdomainreview.org/collection/fixed-stars/)
@@ -26,10 +28,8 @@
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072278) - [Recursive Drawing](http://recursivedrawing.com/)
 * [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury beliefs are status symbols (2022)](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 * [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
-* [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 12:57:23](https://news.ycombinator.com/item?id=38068906) - [Earliest Eligible Virtual Deadline First: Flexible Resource Allocation (1995)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=805acf7726282721504c8f00575d91ebfd750564)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
-* [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 
 ## [Archives](archives/index.md)
 
