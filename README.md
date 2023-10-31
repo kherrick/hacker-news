@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
+* [2023-10-31, 17:52:44](https://news.ycombinator.com/item?id=38088734) - [Company with a 10% lifetime employee turnover shows their real secret is trust](https://fortune.com/2023/10/31/happiest-country-world-finnish-company-lifetime-employee-turnover-shows-real-secret-trust/)
 * [2023-10-31, 17:40:47](https://news.ycombinator.com/item?id=38088538) - [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://www.phind.com/phindmodelhn)
 * [2023-10-31, 17:17:04](https://news.ycombinator.com/item?id=38088183) - [In 1952, a group of three 'stars' vanished–astronomers still can't find them](https://phys.org/news/2023-10-group-stars-vanishedastronomers.html)
 * [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
@@ -13,7 +15,6 @@
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 13:55:35](https://news.ycombinator.com/item?id=38084864) - [The Beauty of Chalk](https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk?ref=thebrowser.com)
 * [2023-10-31, 13:46:58](https://news.ycombinator.com/item?id=38084737) - [Penn and Teller's Lab Scam [video] (1990)](https://www.youtube.com/watch?v=fxMKuv0A6z4)
-* [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.US harbors prolific malicious link shortening service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [Alliance of 40 countries to vow not to pay ransom to cybercriminals, US says](https://www.reuters.com/technology/alliance-40-countries-vow-not-pay-ransom-cybercriminals-us-says-2023-10-31/)
 * [2023-10-31, 13:07:25](https://news.ycombinator.com/item?id=38084244) - [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
@@ -26,7 +27,6 @@
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-31, 00:30:29](https://news.ycombinator.com/item?id=38078065) - [Apple unveils the new MacBook Pro featuring the M3 family of chips](https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/)
-* [2023-10-30, 22:35:49](https://news.ycombinator.com/item?id=38076903) - [Judge pares down artists' AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
 * [2023-10-30, 14:06:21](https://news.ycombinator.com/item?id=38069623) - [Building and programming a 16-bit Intel x86 breadboard computer [video]](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
 * [2023-10-29, 10:48:43](https://news.ycombinator.com/item?id=38057338) - [A close look at the round-edged Wii U proprietary discs (2012)](https://web.archive.org/web/20121113003010/http://www.engadget.com/2012/11/12/nintendo-wii-u-proprietary-disc/)

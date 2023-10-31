@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
+* [2023-10-31, 17:52:44](https://news.ycombinator.com/item?id=38088734) - [Company with a 10% lifetime employee turnover shows their real secret is trust](https://fortune.com/2023/10/31/happiest-country-world-finnish-company-lifetime-employee-turnover-shows-real-secret-trust/)
 * [2023-10-31, 17:40:47](https://news.ycombinator.com/item?id=38088538) - [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://www.phind.com/phindmodelhn)
 * [2023-10-31, 17:17:04](https://news.ycombinator.com/item?id=38088183) - [In 1952, a group of three 'stars' vanished–astronomers still can't find them](https://phys.org/news/2023-10-group-stars-vanishedastronomers.html)
 * [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
