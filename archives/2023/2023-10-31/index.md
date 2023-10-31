@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 17:17:04](https://news.ycombinator.com/item?id=38088183) - [In 1952, a group of three 'stars' vanished–astronomers still can't find them](https://phys.org/news/2023-10-group-stars-vanishedastronomers.html)
 * [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
 * [2023-10-31, 16:50:58](https://news.ycombinator.com/item?id=38087761) - [Sam Bankman-Fried doesn't recall](https://www.theverge.com/2023/10/30/23939639/sam-bankman-fried-cross-exam-fraud)
 * [2023-10-31, 16:39:13](https://news.ycombinator.com/item?id=38087573) - [Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
