@@ -39,6 +39,7 @@
 * [2023-10-29, 14:30:48](https://news.ycombinator.com/item?id=38058959) - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
 * [2023-10-29, 14:24:20](https://news.ycombinator.com/item?id=38058916) - [Which Writers Will We Remember?](https://biblioracle.substack.com/p/which-writers-will-we-remember)
 * [2023-10-29, 14:22:05](https://news.ycombinator.com/item?id=38058902) - [A fourth of U.S. health visits now delivered by non-physicians](https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians)
+* [2023-10-29, 14:12:19](https://news.ycombinator.com/item?id=38058826) - [Solution 26370: Removing a new Texas Instruments calculator from the package](https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/general-information/26370)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
 * [2023-10-29, 14:09:17](https://news.ycombinator.com/item?id=38058804) - [A theory that Mars lost its magnetic field and then its oceans (2022)](https://bigthink.com/hard-science/mars-lost-oceans-magnetic-field/)
 * [2023-10-29, 13:49:36](https://news.ycombinator.com/item?id=38058638) - [The product manager role is a mistake](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/)
