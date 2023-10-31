@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-10-31, 05:29:09",
+      "https://news.ycombinator.com/item?id=38080688"
+    ],
+    [
+      "Unwrapit provides a way to handle errors in JS/TS",
+      "https://musicq.gitbook.io/unwrapit/"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 04:35:14",
       "https://news.ycombinator.com/item?id=38080367"
     ],
@@ -287,16 +297,6 @@
     [
       "A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing",
       "https://dl.acm.org/doi/10.14778/3574245.3574253"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 05:23:57",
-      "https://news.ycombinator.com/item?id=38055991"
-    ],
-    [
-      "Raven – CI/CD Security Analyzer",
-      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
