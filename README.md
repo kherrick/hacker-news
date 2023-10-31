@@ -23,7 +23,7 @@
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
-* [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court prohibits LinkedIn from ignoring \"Do Not Track\" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/)
+* [2023-10-31, 10:27:09](https://news.ycombinator.com/item?id=38082621) - [Show HN: Formbricks – Open-source alternative to Typeform and Sprig](https://github.com/formbricks/formbricks)
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
 * [2023-10-29, 14:12:19](https://news.ycombinator.com/item?id=38058826) - [Solution 26370: Removing a new Texas Instruments calculator from the package](https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/general-information/26370)
