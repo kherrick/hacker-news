@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-31, 16:22:03",
+      "https://news.ycombinator.com/item?id=38087256"
+    ],
+    [
+      "Bologna seals off 'leaning tower' over fears it is tilting too far",
+      "https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 15:59:57",
+      "https://news.ycombinator.com/item?id=38086894"
+    ],
+    [
+      "Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die",
+      "http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 15:38:46",
+      "https://news.ycombinator.com/item?id=38086518"
+    ],
+    [
+      "Mars Cyclers",
+      "https://planetocracy.substack.com/p/mars-cyclers"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 15:22:32",
       "https://news.ycombinator.com/item?id=38086227"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2023-10-31, 15:15:50",
-      "https://news.ycombinator.com/item?id=38086105"
+      "2023-10-31, 15:14:02",
+      "https://news.ycombinator.com/item?id=38086082"
     ],
     [
-      "Comp Sci in 2027 (Short Story by Eliezer Yudkowsky)",
-      "https://www.lesswrong.com/posts/gQyphPbaLHBMJoghD/comp-sci-in-2027-short-story-by-eliezer-yudkowsky"
+      "Vendor lock-in in the observability space",
+      "https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-details"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Return To Office is all about power",
       "https://werd.io/2023/return-to-office-is-all-about-power"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 15:01:12",
+      "https://news.ycombinator.com/item?id=38085903"
+    ],
+    [
+      "Copy webpage text, convert to Markdown",
+      "https://chrome.google.com/webstore/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg"
     ]
   ],
   [
@@ -65,7 +105,7 @@
       "https://news.ycombinator.com/item?id=38084516"
     ],
     [
-      ".us harbors prolific malicious link shortening service",
+      ".US harbors prolific malicious link shortening service",
       "https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/"
     ]
   ],
@@ -171,21 +211,11 @@
   ],
   [
     [
-      "2023-10-31, 09:14:21",
-      "https://news.ycombinator.com/item?id=38082067"
-    ],
-    [
-      "Contributing to Rust as a Novice",
-      "https://filtra.io/rust-ochagavia-oct-23"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 08:22:42",
       "https://news.ycombinator.com/item?id=38081633"
     ],
     [
-      "German court bans LinkedIn from ignoring \"Do Not Track\" signals",
+      "German court prohibits LinkedIn from ignoring \"Do Not Track\" signals",
       "https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/"
     ]
   ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-10-31, 04:19:08",
-      "https://news.ycombinator.com/item?id=38080234"
-    ],
-    [
-      "Cleopatra's Daughter (2018)",
-      "https://www.historytoday.com/miscellanies/cleopatras-daughter"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 02:36:23",
       "https://news.ycombinator.com/item?id=38079512"
     ],
     [
       "Can you use your \"free will\"? Try your hand",
       "https://people.ischool.berkeley.edu/~nick/aaronson-oracle/"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 02:20:36",
-      "https://news.ycombinator.com/item?id=38079381"
-    ],
-    [
-      "Bootstrapping GCC in RISC-V: Milestone: MesCC builds TinyCC and fun C errors",
-      "https://ekaitz.elenq.tech/bootstrapGcc8.html"
     ]
   ],
   [
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2023-10-31, 00:12:08",
-      "https://news.ycombinator.com/item?id=38077889"
-    ],
-    [
-      "Android and RISC-V: What you need to know to be ready",
-      "https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 21:15:36",
       "https://news.ycombinator.com/item?id=38075973"
     ],
     [
       "A new view of the Manchester Computer",
       "https://rylandscollections.com/2023/06/21/a-new-view-of-the-manchester-computer/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 20:07:07",
-      "https://news.ycombinator.com/item?id=38074992"
-    ],
-    [
-      "Gmail, Yahoo announce new 2024 authentication requirements for bulk senders",
-      "https://blog.google/products/gmail/gmail-security-authentication-spam-protection/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Building and programming a 16-bit Intel x86 breadboard computer [video]",
       "https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 12:22:35",
+      "https://news.ycombinator.com/item?id=38057888"
+    ],
+    [
+      "Walk a Terminal File Manager",
+      "https://github.com/antonmedv/walk/releases/tag/v1.7.0"
     ]
   ],
   [
