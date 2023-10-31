@@ -83,6 +83,7 @@
 * [2023-10-30, 12:06:54](https://news.ycombinator.com/item?id=38068363) - [Bakhshali Manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
 * [2023-10-30, 12:02:08](https://news.ycombinator.com/item?id=38068328) - [Microsoft says GPT 3.5 has 20B parameters?](https://arxiv.org/abs/2310.17680)
 * [2023-10-30, 11:43:36](https://news.ycombinator.com/item?id=38068180) - [Ask HN: To what extent have digital payments replaced cash in your country?](https://news.ycombinator.com/item?id=38068180)
+* [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 10:42:20](https://news.ycombinator.com/item?id=38067759) - [Changing the way you sit could add years to your life](https://www.newscientist.com/article/mg24732913-000-how-changing-the-way-you-sit-could-add-years-to-your-life/)
 * [2023-10-30, 10:38:39](https://news.ycombinator.com/item?id=38067733) - [Camptown – HTML-based audio player](https://github.com/fluffy-critter/camptown)
 * [2023-10-30, 10:35:57](https://news.ycombinator.com/item?id=38067702) - [The future of warfare: A $400 drone killing a $2M tank](https://www.politico.eu/article/future-warfare-400-army-strike-drone-unit-2m-tank/)
