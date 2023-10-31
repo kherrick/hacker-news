@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 00:30:52](https://news.ycombinator.com/item?id=38078068) - [Apple supercharges 24‑inch iMac with new M3 chip](https://www.apple.com/newsroom/2023/10/apple-supercharges-24-inch-imac-with-new-m3-chip/)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 * [2023-10-30, 23:38:01](https://news.ycombinator.com/item?id=38077521) - [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
@@ -29,7 +30,6 @@
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 * [2023-10-30, 09:35:29](https://news.ycombinator.com/item?id=38067314) - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
-* [2023-10-29, 10:31:42](https://news.ycombinator.com/item?id=38057265) - [Thomas Edison's Concrete Houses](https://www.atlasobscura.com/places/thomas-edisons-concrete-houses)
 
 ## [Archives](archives/index.md)
 
