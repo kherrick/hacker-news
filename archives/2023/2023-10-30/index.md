@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 23:52:38](https://news.ycombinator.com/item?id=38077684) - [World's Most Popular Painter Sent His Followers After Me Because of My Review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
+* [2023-10-30, 23:17:07](https://news.ycombinator.com/item?id=38077315) - [I Began with Sound](https://www.publicbooks.org/i-began-with-sound/)
 * [2023-10-30, 22:35:49](https://news.ycombinator.com/item?id=38076903) - [Judge pares down artists' AI copyright lawsuit against Midjourney, Stability AI](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/)
 * [2023-10-30, 22:33:26](https://news.ycombinator.com/item?id=38076886) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
 * [2023-10-30, 22:08:52](https://news.ycombinator.com/item?id=38076636) - [SEC Charges SolarWinds and CISO with Fraud, Internal Control Failures](https://www.sec.gov/news/press-release/2023-227)
