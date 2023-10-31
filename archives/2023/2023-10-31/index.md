@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 12:13:07](https://news.ycombinator.com/item?id=38083565) - [Gen Z is lonely. Going back to the office may be the cure for some](https://www.businessinsider.com/cure-for-gen-z-loneliness-heading-returning-to-office-2023-10)
+* [2023-10-31, 11:25:01](https://news.ycombinator.com/item?id=38083105) - [Midjourney, Stability AI and DeviantArt win a victory in copyright case](https://venturebeat.com/ai/midjourney-stability-ai-and-deviantart-win-a-victory-in-copyright-case-by-artists-but-the-fight-continues/)
 * [2023-10-31, 11:23:58](https://news.ycombinator.com/item?id=38083101) - [Artists Lose First Round of AI Art Copyright Infringement Case](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
 * [2023-10-31, 11:19:30](https://news.ycombinator.com/item?id=38083045) - [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
 * [2023-10-31, 10:35:28](https://news.ycombinator.com/item?id=38082683) - [Israel was removed from Baidu Maps earlier today](https://twitter.com/shaunmmaguire/status/1719200628990525595)

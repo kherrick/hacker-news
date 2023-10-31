@@ -52,6 +52,7 @@
 * [2023-10-30, 16:54:09](https://news.ycombinator.com/item?id=38072074) - [Show HN: Web app to generate AI pictures with logos \"hidden\" in them](https://logopictureai.com/)
 * [2023-10-30, 16:50:59](https://news.ycombinator.com/item?id=38072031) - [Why many scientists are now saying climate change is an all-out 'emergency'](https://www.washingtonpost.com/climate-environment/2023/10/30/climate-emergency-scientists-declaration/)
 * [2023-10-30, 16:49:30](https://news.ycombinator.com/item?id=38072012) - [DNA turbine powered by a transmembrane potential across a nanopore](https://www.nature.com/articles/s41565-023-01527-8)
+* [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
 * [2023-10-30, 16:38:01](https://news.ycombinator.com/item?id=38071842) - [Bcachefs Pull Request Submitted for Linux 6.7](https://www.phoronix.com/news/Bcachefs-Tries-For-Linux-6.7)
 * [2023-10-30, 16:34:42](https://news.ycombinator.com/item?id=38071796) - [A Tiny Supercritical Carbon Dioxide Turbine Can Power 10k Homes](https://cleantechnica.com/2023/10/30/a-tiny-supercritical-carbon-dioxide-turbine-can-power-10000-homes/)
 * [2023-10-30, 16:34:37](https://news.ycombinator.com/item?id=38071795) - [Far-right German politician arrested after 'Sieg Heil' salutes heard](https://www.theguardian.com/world/2023/oct/30/far-right-german-politician-arrested-after-sieg-heil-salutes-heard)
