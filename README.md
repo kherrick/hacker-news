@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
 * [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
-* [2023-10-31, 04:17:33](https://news.ycombinator.com/item?id=38080228) - [Behold the Nebulous Smear: al-Sūfī's Illustrated Book of Fixed Stars (ca. 1430)](https://publicdomainreview.org/collection/fixed-stars/)
 * [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
@@ -12,7 +12,6 @@
 * [2023-10-31, 00:31:49](https://news.ycombinator.com/item?id=38078079) - [MacBook Pro M3](https://www.apple.com/macbook-pro/)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
-* [2023-10-31, 00:01:03](https://news.ycombinator.com/item?id=38077779) - [A Murderer in the Family (2014)](https://www.vice.com/en/article/kwkxke/my-gandma-the-poisoner-0000474-v21n10)
 * [2023-10-30, 23:52:38](https://news.ycombinator.com/item?id=38077684) - [World's most popular painter sent his followers after me because of my review](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
 * [2023-10-30, 23:38:01](https://news.ycombinator.com/item?id=38077521) - [RedPajama v2 Open Dataset with 30T Tokens for Training LLMs](https://together.ai/blog/redpajama-data-v2)
 * [2023-10-30, 22:33:26](https://news.ycombinator.com/item?id=38076886) - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
@@ -29,6 +28,7 @@
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072278) - [Recursive Drawing](http://recursivedrawing.com/)
 * [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury beliefs are status symbols (2022)](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 * [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
+* [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 
 ## [Archives](archives/index.md)
