@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 18:41:30](https://news.ycombinator.com/item?id=38089431) - [Scientists Find Link Between Inflammation and Aging](https://knowridge.com/2023/10/scientists-find-link-between-inflammation-and-aging/)
 * [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
 * [2023-10-31, 17:55:24](https://news.ycombinator.com/item?id=38088772) - [The Westminster Declaration](https://westminsterdeclaration.org)
 * [2023-10-31, 17:52:44](https://news.ycombinator.com/item?id=38088734) - [Company with a 10% lifetime employee turnover shows their real secret is trust](https://fortune.com/2023/10/31/happiest-country-world-finnish-company-lifetime-employee-turnover-shows-real-secret-trust/)

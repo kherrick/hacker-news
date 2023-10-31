@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 18:41:30](https://news.ycombinator.com/item?id=38089431) - [Scientists Find Link Between Inflammation and Aging](https://knowridge.com/2023/10/scientists-find-link-between-inflammation-and-aging/)
 * [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
 * [2023-10-31, 17:55:24](https://news.ycombinator.com/item?id=38088772) - [The Westminster Declaration](https://westminsterdeclaration.org)
 * [2023-10-31, 17:52:44](https://news.ycombinator.com/item?id=38088734) - [Company with a 10% lifetime employee turnover shows their real secret is trust](https://fortune.com/2023/10/31/happiest-country-world-finnish-company-lifetime-employee-turnover-shows-real-secret-trust/)
@@ -16,7 +17,6 @@
 * [2023-10-31, 13:55:35](https://news.ycombinator.com/item?id=38084864) - [The Beauty of Chalk](https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk?ref=thebrowser.com)
 * [2023-10-31, 13:46:58](https://news.ycombinator.com/item?id=38084737) - [Penn and Teller's Lab Scam [video] (1990)](https://www.youtube.com/watch?v=fxMKuv0A6z4)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [Alliance of 40 countries to vow not to pay ransom to cybercriminals, US says](https://www.reuters.com/technology/alliance-40-countries-vow-not-pay-ransom-cybercriminals-us-says-2023-10-31/)
-* [2023-10-31, 13:07:25](https://news.ycombinator.com/item?id=38084244) - [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
