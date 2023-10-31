@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-10-31, 13:29:56",
+      "https://news.ycombinator.com/item?id=38084516"
+    ],
+    [
+      ".US Harbors Prolific Malicious Link Shortening Service",
+      "https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 13:15:16",
       "https://news.ycombinator.com/item?id=38084337"
     ],
     [
       "US-led coalition of nations agrees to end ransomware payments to hackers",
       "https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 13:03:25",
+      "https://news.ycombinator.com/item?id=38084187"
+    ],
+    [
+      "Ask HN: How can we help Firefox not to dissapear?",
+      "https://news.ycombinator.com/item?id=38084187"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 12:56:43",
+      "https://news.ycombinator.com/item?id=38084098"
+    ],
+    [
+      "Show HN: Light implementation of Event Sourcing using PostgreSQL as event store",
+      "https://github.com/eugene-khyst/postgresql-event-sourcing"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-10-31, 04:19:03",
-      "https://news.ycombinator.com/item?id=38080233"
-    ],
-    [
-      "$95 AMD CPU Becomes 16GB GPU to Run AI Software",
-      "https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 04:04:34",
       "https://news.ycombinator.com/item?id=38080146"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-10-30, 22:33:26",
-      "https://news.ycombinator.com/item?id=38076886"
-    ],
-    [
-      "The Grug Brained Developer (2022)",
-      "https://grugbrain.dev/"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 21:59:45",
       "https://news.ycombinator.com/item?id=38076530"
     ],
@@ -277,16 +287,6 @@
     [
       "Nvidia Trains LLM on Chip Design",
       "https://www.eetimes.com/nvidia-trains-llm-on-chip-design/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 15:08:10",
-      "https://news.ycombinator.com/item?id=38070363"
-    ],
-    [
-      "Luxury beliefs are status symbols (2022)",
-      "https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for"
     ]
   ],
   [
