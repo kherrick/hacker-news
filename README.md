@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
 * [2023-10-31, 12:49:56](https://news.ycombinator.com/item?id=38084007) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've Overlayed Stays on a Light Pollution Satellite Map](https://darkhotels.co)
@@ -11,15 +12,13 @@
 * [2023-10-31, 10:23:31](https://news.ycombinator.com/item?id=38082594) - [Ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
 * [2023-10-31, 09:29:41](https://news.ycombinator.com/item?id=38082171) - [Should you use a Lambda Monolith, a.k.a. Lambdalith, for your API?](https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api)
 * [2023-10-31, 09:14:21](https://news.ycombinator.com/item?id=38082067) - [Contributing to Rust as a Novice](https://filtra.io/rust-ochagavia-oct-23)
-* [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
+* [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court bans LinkedIn from ignoring \"Do Not Track\" signals](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
 * [2023-10-31, 04:19:08](https://news.ycombinator.com/item?id=38080234) - [Cleopatra's Daughter (2018)](https://www.historytoday.com/miscellanies/cleopatras-daughter)
-* [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
 * [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 * [2023-10-31, 02:20:36](https://news.ycombinator.com/item?id=38079381) - [Bootstrapping GCC in RISC-V: Milestone: MesCC builds TinyCC and fun C errors](https://ekaitz.elenq.tech/bootstrapGcc8.html)
 * [2023-10-31, 01:32:23](https://news.ycombinator.com/item?id=38078919) - [NASA can't open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
-* [2023-10-31, 00:55:15](https://news.ycombinator.com/item?id=38078460) - [What Is Left Unsaid](https://lithub.com/what-is-left-unsaid-how-some-words-do-or-dont-make-it-into-print/)
 * [2023-10-31, 00:35:15](https://news.ycombinator.com/item?id=38078143) - [Xbox will block third-party controllers to \"preserve the console experience\"](https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
@@ -30,6 +29,7 @@
 * [2023-10-30, 20:07:07](https://news.ycombinator.com/item?id=38074992) - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
+* [2023-10-30, 14:06:21](https://news.ycombinator.com/item?id=38069623) - [Building and programming a 16-bit Intel x86 breadboard computer [video]](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
 
 ## [Archives](archives/index.md)
 

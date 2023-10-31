@@ -79,6 +79,7 @@
 * [2023-10-30, 14:11:21](https://news.ycombinator.com/item?id=38069669) - [Ask HN: How to survive indefinite DDoS attack?](https://news.ycombinator.com/item?id=38069669)
 * [2023-10-30, 14:10:22](https://news.ycombinator.com/item?id=38069659) - [eBPF-based auto-instrumentation outperforms manual instrumentation](https://odigos.io/blog/ebpf-instrumentation-faster-than-manual)
 * [2023-10-30, 14:08:17](https://news.ycombinator.com/item?id=38069640) - [Toyota Reveals Maverick-Sized Electric Pickup Concept We've Been Waiting For](https://www.thedrive.com/news/toyota-reveals-maverick-sized-electric-pickup-concept-weve-been-waiting-for)
+* [2023-10-30, 14:06:21](https://news.ycombinator.com/item?id=38069623) - [Building and programming a 16-bit Intel x86 breadboard computer [video]](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
 * [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Python⇒Speed: Speeding Up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-10-30, 13:04:31](https://news.ycombinator.com/item?id=38068990) - [Show HN: Cheap Flights finder bot with Python](https://replit.com/@Muhammad-Shamsh/FlightsFinder?embed=true)
