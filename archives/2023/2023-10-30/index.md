@@ -81,6 +81,7 @@
 * [2023-10-30, 13:34:03](https://news.ycombinator.com/item?id=38069284) - [Python⇒Speed: Speeding Up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-30, 13:25:47](https://news.ycombinator.com/item?id=38069197) - [Private Equity Is Devouring the U.S. Economy](https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-10-30, 13:04:31](https://news.ycombinator.com/item?id=38068990) - [Show HN: Cheap Flights finder bot with Python](https://replit.com/@Muhammad-Shamsh/FlightsFinder?embed=true)
+* [2023-10-30, 12:57:23](https://news.ycombinator.com/item?id=38068906) - [Earliest Eligible Virtual Deadline First: Flexible Resource Allocation Mechanism](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=805acf7726282721504c8f00575d91ebfd750564)
 * [2023-10-30, 12:47:08](https://news.ycombinator.com/item?id=38068801) - [Raspberry Pi 5 drops codec hardware acceleration except for HEVC decode](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/#comment-1594055)
 * [2023-10-30, 12:29:29](https://news.ycombinator.com/item?id=38068635) - [Facebook and Instagram to Offer Subscription for No Ads in Europe](https://about.fb.com/news/2023/10/facebook-and-instagram-to-offer-subscription-for-no-ads-in-europe/)
 * [2023-10-30, 12:07:51](https://news.ycombinator.com/item?id=38068370) - [Complete Whole Earth Catalogs Archive Available Online and Free](https://wholeearth.info/)
