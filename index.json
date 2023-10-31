@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-31, 17:40:47",
+      "https://news.ycombinator.com/item?id=38088538"
+    ],
+    [
+      "Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context",
+      "https://www.phind.com/phindmodelhn"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 17:17:04",
       "https://news.ycombinator.com/item?id=38088183"
     ],
@@ -21,42 +31,12 @@
   ],
   [
     [
-      "2023-10-31, 16:50:58",
-      "https://news.ycombinator.com/item?id=38087761"
-    ],
-    [
-      "Sam Bankman-Fried doesn't recall",
-      "https://www.theverge.com/2023/10/30/23939639/sam-bankman-fried-cross-exam-fraud"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 16:39:13",
       "https://news.ycombinator.com/item?id=38087573"
     ],
     [
       "Firefox got faster for real users in 2023",
       "https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 16:32:37",
-      "https://news.ycombinator.com/item?id=38087448"
-    ],
-    [
-      "Apple’s keynote event shot on iPhone and edited on Mac",
-      "https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 16:22:03",
-      "https://news.ycombinator.com/item?id=38087256"
-    ],
-    [
-      "Bologna seals off 'leaning tower' over fears it is tilting too far",
-      "https://www.theguardian.com/world/2023/oct/29/bologna-seals-off-leaning-tower-fears-tilting-too-far"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2023-10-31, 15:31:33",
+      "https://news.ycombinator.com/item?id=38086387"
+    ],
+    [
+      "Show HN: Streamdal – an open-source tail -f for your data",
+      "https://github.com/streamdal/streamdal"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 15:22:15",
       "https://news.ycombinator.com/item?id=38086222"
     ],
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2023-10-31, 14:22:22",
-      "https://news.ycombinator.com/item?id=38085289"
+      "2023-10-31, 14:29:51",
+      "https://news.ycombinator.com/item?id=38085417"
     ],
     [
-      "California employers must reimburse remote workers for all necessary expenses",
-      "https://www.nolo.com/legal-encyclopedia/working-from-home-in-california-does-my-employer-have-to-reimburse-me-for-utilities-or-other-expenses.html"
+      "Home schooling's rise from fringe to fastest-growing form of education",
+      "https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/"
     ]
   ],
   [
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2023-10-31, 13:35:04",
-      "https://news.ycombinator.com/item?id=38084572"
-    ],
-    [
-      ".io considered harmful",
-      "https://www.beep.blog/io/"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 13:29:56",
       "https://news.ycombinator.com/item?id=38084516"
     ],
@@ -165,8 +145,8 @@
       "https://news.ycombinator.com/item?id=38084337"
     ],
     [
-      "US-led coalition of nations agrees to end ransomware payments to hackers",
-      "https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers"
+      "Alliance of 40 countries to vow not to pay ransom to cybercriminals, US says",
+      "https://www.reuters.com/technology/alliance-40-countries-vow-not-pay-ransom-cybercriminals-us-says-2023-10-31/"
     ]
   ],
   [
@@ -211,22 +191,22 @@
   ],
   [
     [
-      "2023-10-31, 11:19:30",
-      "https://news.ycombinator.com/item?id=38083045"
-    ],
-    [
-      "Bcachefs Merged into the Linux 6.7 Kernel",
-      "https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 10:27:09",
       "https://news.ycombinator.com/item?id=38082621"
     ],
     [
       "Show HN: Formbricks – Open-source alternative to Typeform and Sprig",
       "https://github.com/formbricks/formbricks"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 09:29:41",
+      "https://news.ycombinator.com/item?id=38082171"
+    ],
+    [
+      "Should you use a Lambda Monolith, a.k.a. Lambdalith, for your API?",
+      "https://rehanvdm.com/blog/should-you-use-a-lambda-monolith-lambdalith-for-the-api"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-10-31, 05:29:09",
+      "https://news.ycombinator.com/item?id=38080688"
+    ],
+    [
+      "Unwrapit provides a way to handle errors in JS/TS",
+      "https://musicq.gitbook.io/unwrapit/"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 04:35:14",
       "https://news.ycombinator.com/item?id=38080367"
     ],
@@ -251,12 +241,32 @@
   ],
   [
     [
-      "2023-10-31, 00:30:14",
-      "https://news.ycombinator.com/item?id=38078063"
+      "2023-10-31, 04:04:34",
+      "https://news.ycombinator.com/item?id=38080146"
     ],
     [
-      "Apple unveils M3, M3 Pro, and M3 Max",
-      "https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/"
+      "Confessions of a Tableside Flambéur",
+      "https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 00:30:29",
+      "https://news.ycombinator.com/item?id=38078065"
+    ],
+    [
+      "Apple unveils the new MacBook Pro featuring the M3 family of chips",
+      "https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 22:35:49",
+      "https://news.ycombinator.com/item?id=38076903"
+    ],
+    [
+      "Judge pares down artists' AI copyright lawsuit against Midjourney, Stability AI",
+      "https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Building and programming a 16-bit Intel x86 breadboard computer [video]",
       "https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 12:22:35",
-      "https://news.ycombinator.com/item?id=38057888"
-    ],
-    [
-      "Walk a Terminal File Manager",
-      "https://github.com/antonmedv/walk/releases/tag/v1.7.0"
     ]
   ],
   [
