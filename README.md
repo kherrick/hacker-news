@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
+* [2023-10-31, 17:55:24](https://news.ycombinator.com/item?id=38088772) - [The Westminster Declaration](https://westminsterdeclaration.org)
 * [2023-10-31, 17:52:44](https://news.ycombinator.com/item?id=38088734) - [Company with a 10% lifetime employee turnover shows their real secret is trust](https://fortune.com/2023/10/31/happiest-country-world-finnish-company-lifetime-employee-turnover-shows-real-secret-trust/)
 * [2023-10-31, 17:40:47](https://news.ycombinator.com/item?id=38088538) - [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://www.phind.com/phindmodelhn)
-* [2023-10-31, 17:17:04](https://news.ycombinator.com/item?id=38088183) - [In 1952, a group of three 'stars' vanished–astronomers still can't find them](https://phys.org/news/2023-10-group-stars-vanishedastronomers.html)
 * [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
 * [2023-10-31, 16:39:13](https://news.ycombinator.com/item?id=38087573) - [Firefox got faster for real users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
@@ -28,7 +28,7 @@
 * [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-31, 00:30:29](https://news.ycombinator.com/item?id=38078065) - [Apple unveils the new MacBook Pro featuring the M3 family of chips](https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
-* [2023-10-30, 14:06:21](https://news.ycombinator.com/item?id=38069623) - [Building and programming a 16-bit Intel x86 breadboard computer [video]](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
+* [2023-10-29, 13:06:52](https://news.ycombinator.com/item?id=38058226) - [Lexically-Accelerated Dense Retrieval](https://arxiv.org/abs/2307.16779)
 * [2023-10-29, 10:48:43](https://news.ycombinator.com/item?id=38057338) - [A close look at the round-edged Wii U proprietary discs (2012)](https://web.archive.org/web/20121113003010/http://www.engadget.com/2012/11/12/nintendo-wii-u-proprietary-disc/)
 
 ## [Archives](archives/index.md)
