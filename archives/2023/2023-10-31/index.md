@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 03:52:37](https://news.ycombinator.com/item?id=38080069) - [Show HN: I made a web app that tells you if your food is spicy?](https://dieornot.com/)
+* [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
+* [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
+* [2023-10-31, 01:32:23](https://news.ycombinator.com/item?id=38078919) - [NASA can't open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
 * [2023-10-31, 00:35:15](https://news.ycombinator.com/item?id=38078143) - [Xbox will block third-party controllers to \"preserve the console experience\"](https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752)
 * [2023-10-31, 00:30:52](https://news.ycombinator.com/item?id=38078068) - [Apple supercharges 24‑inch iMac with new M3 chip](https://www.apple.com/newsroom/2023/10/apple-supercharges-24-inch-imac-with-new-m3-chip/)
 * [2023-10-31, 00:30:29](https://news.ycombinator.com/item?id=38078065) - [Apple unveils the new MacBook Pro featuring the M3 family of chips](https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
+* [2023-10-31, 00:01:03](https://news.ycombinator.com/item?id=38077779) - [A Murderer in the Family (2014)](https://www.vice.com/en/article/kwkxke/my-gandma-the-poisoner-0000474-v21n10)
