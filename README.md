@@ -7,7 +7,7 @@
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 * [2023-10-31, 02:20:36](https://news.ycombinator.com/item?id=38079381) - [Bootstrapping GCC in RISC-V: Milestone: MesCC builds TinyCC and fun C errors](https://ekaitz.elenq.tech/bootstrapGcc8.html)
 * [2023-10-31, 01:32:23](https://news.ycombinator.com/item?id=38078919) - [NASA can't open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
-* [2023-10-31, 00:31:49](https://news.ycombinator.com/item?id=38078079) - [MacBook Pro M3](https://www.apple.com/macbook-pro/)
+* [2023-10-31, 00:55:15](https://news.ycombinator.com/item?id=38078460) - [What Is Left Unsaid](https://lithub.com/what-is-left-unsaid-how-some-words-do-or-dont-make-it-into-print/)
 * [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max, the most advanced chips for a PC](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-31, 00:12:08](https://news.ycombinator.com/item?id=38077889) - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 * [2023-10-31, 00:01:03](https://news.ycombinator.com/item?id=38077779) - [A Murderer in the Family (2014)](https://www.vice.com/en/article/kwkxke/my-gandma-the-poisoner-0000474-v21n10)
@@ -26,10 +26,10 @@
 * [2023-10-30, 18:22:18](https://news.ycombinator.com/item?id=38073512) - [Kart: DVC for geospatial and tabular data. Git for GIS](https://kartproject.org/)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072278) - [Recursive Drawing](http://recursivedrawing.com/)
 * [2023-10-30, 17:06:28](https://news.ycombinator.com/item?id=38072277) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
+* [2023-10-30, 15:08:10](https://news.ycombinator.com/item?id=38070363) - [Luxury beliefs are status symbols (2022)](https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for)
 * [2023-10-30, 14:41:35](https://news.ycombinator.com/item?id=38070001) - [Automating Dead Code Cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 * [2023-10-30, 14:33:41](https://news.ycombinator.com/item?id=38069915) - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 * [2023-10-30, 10:51:56](https://news.ycombinator.com/item?id=38067822) - [My User Experience Porting Off Setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
-* [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 
 ## [Archives](archives/index.md)
 

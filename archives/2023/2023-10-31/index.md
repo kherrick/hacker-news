@@ -13,6 +13,7 @@
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 * [2023-10-31, 02:20:36](https://news.ycombinator.com/item?id=38079381) - [Bootstrapping GCC in RISC-V: Milestone: MesCC builds TinyCC and fun C errors](https://ekaitz.elenq.tech/bootstrapGcc8.html)
 * [2023-10-31, 01:32:23](https://news.ycombinator.com/item?id=38078919) - [NASA can't open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
+* [2023-10-31, 00:55:15](https://news.ycombinator.com/item?id=38078460) - [What Is Left Unsaid](https://lithub.com/what-is-left-unsaid-how-some-words-do-or-dont-make-it-into-print/)
 * [2023-10-31, 00:35:15](https://news.ycombinator.com/item?id=38078143) - [Xbox will block third-party controllers to \"preserve the console experience\"](https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752)
 * [2023-10-31, 00:31:49](https://news.ycombinator.com/item?id=38078079) - [MacBook Pro M3](https://www.apple.com/macbook-pro/)
 * [2023-10-31, 00:30:52](https://news.ycombinator.com/item?id=38078068) - [Apple supercharges 24‑inch iMac with new M3 chip](https://www.apple.com/newsroom/2023/10/apple-supercharges-24-inch-imac-with-new-m3-chip/)
