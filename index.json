@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-31, 17:00:15",
+      "https://news.ycombinator.com/item?id=38087917"
+    ],
+    [
+      "Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra",
+      "https://www.mux.com/jobs?j=srplatform"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 16:39:13",
       "https://news.ycombinator.com/item?id=38087573"
     ],
@@ -157,16 +167,6 @@
     [
       "Show HN: Light implementation of Event Sourcing using PostgreSQL as event store",
       "https://github.com/eugene-khyst/postgresql-event-sourcing"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 12:49:56",
-      "https://news.ycombinator.com/item?id=38084007"
-    ],
-    [
-      "Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC",
-      "https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer"
     ]
   ],
   [
