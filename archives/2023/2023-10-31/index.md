@@ -6,10 +6,12 @@
 
 * [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
 * [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
+* [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-31, 03:52:37](https://news.ycombinator.com/item?id=38080069) - [Show HN: I made a web app that tells you if your food is spicy?](https://dieornot.com/)
 * [2023-10-31, 03:27:28](https://news.ycombinator.com/item?id=38079919) - [Southern California Beyond the Freeway](https://www.nytimes.com/2023/10/30/travel/southern-california-driving-tour.html)
 * [2023-10-31, 03:13:53](https://news.ycombinator.com/item?id=38079819) - [Mistral 7B,The complete Guide of the Best 7B model](https://mistral-7b.com/)
 * [2023-10-31, 02:36:23](https://news.ycombinator.com/item?id=38079512) - [Can you use your \"free will\"? Try your hand](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
+* [2023-10-31, 02:20:36](https://news.ycombinator.com/item?id=38079381) - [Bootstrapping GCC in RISC-V: Milestone: MesCC builds TinyCC and fun C errors](https://ekaitz.elenq.tech/bootstrapGcc8.html)
 * [2023-10-31, 01:32:23](https://news.ycombinator.com/item?id=38078919) - [NASA can't open its asteroid capsule](https://www.tortoisemedia.com/2023/10/27/nasa-cant-open-its-asteroid-capsule/)
 * [2023-10-31, 00:35:15](https://news.ycombinator.com/item?id=38078143) - [Xbox will block third-party controllers to \"preserve the console experience\"](https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752)
 * [2023-10-31, 00:30:52](https://news.ycombinator.com/item?id=38078068) - [Apple supercharges 24‑inch iMac with new M3 chip](https://www.apple.com/newsroom/2023/10/apple-supercharges-24-inch-imac-with-new-m3-chip/)
