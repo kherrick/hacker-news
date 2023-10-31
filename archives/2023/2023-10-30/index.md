@@ -31,6 +31,7 @@
 * [2023-10-30, 19:47:10](https://news.ycombinator.com/item?id=38074701) - [Use YouTube to improve your English pronunciation](https://youglish.com/)
 * [2023-10-30, 19:34:13](https://news.ycombinator.com/item?id=38074535) - [Open source Datadog alternative SigNoz crosses 15K GitHub stars](https://twitter.com/pranay01/status/1719067058736955582)
 * [2023-10-30, 19:23:41](https://news.ycombinator.com/item?id=38074406) - [Introduction to Curp Protocol](https://datenlord.github.io/xline-home/#/blog/2023-08-18-Introduction-to-CURP-Protocol)
+* [2023-10-30, 19:12:41](https://news.ycombinator.com/item?id=38074276) - [Mini-08 single-board computer based on the 8008 CPU [video]](https://www.youtube.com/watch?v=oFVjI7945CU)
 * [2023-10-30, 19:08:55](https://news.ycombinator.com/item?id=38074226) - [SCOTUS to Decide If Public Officials Can Block Critics Online](https://www.thefire.org/news/does-first-amendment-allow-public-officials-block-their-critics-online-supreme-court-will-soon)
 * [2023-10-30, 19:06:23](https://news.ycombinator.com/item?id=38074187) - [Ask HN: Why is OpenAI still called OpenAI?](https://news.ycombinator.com/item?id=38074187)
 * [2023-10-30, 18:51:14](https://news.ycombinator.com/item?id=38073956) - [8BitDo Micro](https://www.8bitdo.com/micro/)
