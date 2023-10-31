@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-10-31, 08:22:42",
+      "https://news.ycombinator.com/item?id=38081633"
+    ],
+    [
+      "German court declares Do Not Track to be legally binding",
+      "https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 04:19:03",
       "https://news.ycombinator.com/item?id=38080233"
     ],
     [
       "$95 AMD CPU Becomes 16GB GPU to Run AI Software",
       "https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 04:17:33",
-      "https://news.ycombinator.com/item?id=38080228"
-    ],
-    [
-      "Behold the Nebulous Smear: al-Sūfī's Illustrated Book of Fixed Stars (ca. 1430)",
-      "https://publicdomainreview.org/collection/fixed-stars/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Android and RISC-V: What you need to know to be ready",
       "https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 00:01:03",
-      "https://news.ycombinator.com/item?id=38077779"
-    ],
-    [
-      "A Murderer in the Family (2014)",
-      "https://www.vice.com/en/article/kwkxke/my-gandma-the-poisoner-0000474-v21n10"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Automating Dead Code Cleanup",
       "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 14:33:41",
+      "https://news.ycombinator.com/item?id=38069915"
+    ],
+    [
+      "The costs of microservices (2020)",
+      "https://robertovitillo.com/costs-of-microservices/"
     ]
   ],
   [
