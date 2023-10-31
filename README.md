@@ -1,10 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-31, 18:41:30](https://news.ycombinator.com/item?id=38089431) - [Scientists Find Link Between Inflammation and Aging](https://knowridge.com/2023/10/scientists-find-link-between-inflammation-and-aging/)
+* [2023-10-31, 18:35:11](https://news.ycombinator.com/item?id=38089356) - [Jury Finds Realtors Conspired, Awards Nearly $1.8B in Damages](https://www.wsj.com/real-estate/jury-finds-realtors-conspired-to-keep-commissions-high-awards-nearly-1-8-billion-in-damages-b26f9c2f)
+* [2023-10-31, 18:33:52](https://news.ycombinator.com/item?id=38089342) - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
+* [2023-10-31, 18:27:15](https://news.ycombinator.com/item?id=38089247) - [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
 * [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
 * [2023-10-31, 17:55:24](https://news.ycombinator.com/item?id=38088772) - [The Westminster Declaration](https://westminsterdeclaration.org)
 * [2023-10-31, 17:52:44](https://news.ycombinator.com/item?id=38088734) - [Company with a 10% lifetime employee turnover shows their real secret is trust](https://fortune.com/2023/10/31/happiest-country-world-finnish-company-lifetime-employee-turnover-shows-real-secret-trust/)
 * [2023-10-31, 17:40:47](https://news.ycombinator.com/item?id=38088538) - [Show HN: Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://www.phind.com/phindmodelhn)
+* [2023-10-31, 17:30:12](https://news.ycombinator.com/item?id=38088369) - [Compare how GPT-2, 3, 3.5 and 4 answer the same questions](https://theaidigest.org/progress-and-dangers)
 * [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
 * [2023-10-31, 16:39:13](https://news.ycombinator.com/item?id=38087573) - [Firefox got faster for real users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
@@ -15,8 +19,6 @@
 * [2023-10-31, 15:14:02](https://news.ycombinator.com/item?id=38086082) - [Vendor lock-in in the observability space](https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-details)
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 13:55:35](https://news.ycombinator.com/item?id=38084864) - [The Beauty of Chalk](https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk?ref=thebrowser.com)
-* [2023-10-31, 13:46:58](https://news.ycombinator.com/item?id=38084737) - [Penn and Teller's Lab Scam [video] (1990)](https://www.youtube.com/watch?v=fxMKuv0A6z4)
-* [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [Alliance of 40 countries to vow not to pay ransom to cybercriminals, US says](https://www.reuters.com/technology/alliance-40-countries-vow-not-pay-ransom-cybercriminals-us-says-2023-10-31/)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
@@ -28,8 +30,6 @@
 * [2023-10-31, 04:04:34](https://news.ycombinator.com/item?id=38080146) - [Confessions of a Tableside Flambéur](https://www.eater.com/23893292/tableside-presentation-flambee-confessions-fine-dining)
 * [2023-10-31, 00:30:29](https://news.ycombinator.com/item?id=38078065) - [Apple unveils the new MacBook Pro featuring the M3 family of chips](https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/)
 * [2023-10-30, 16:43:13](https://news.ycombinator.com/item?id=38071920) - [Nvidia Trains LLM on Chip Design](https://www.eetimes.com/nvidia-trains-llm-on-chip-design/)
-* [2023-10-29, 13:06:52](https://news.ycombinator.com/item?id=38058226) - [Lexically-Accelerated Dense Retrieval](https://arxiv.org/abs/2307.16779)
-* [2023-10-29, 10:48:43](https://news.ycombinator.com/item?id=38057338) - [A close look at the round-edged Wii U proprietary discs (2012)](https://web.archive.org/web/20121113003010/http://www.engadget.com/2012/11/12/nintendo-wii-u-proprietary-disc/)
 
 ## [Archives](archives/index.md)
 
