@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
 * [2023-10-31, 13:58:32](https://news.ycombinator.com/item?id=38084920) - [YouTube Temporarily Suspends the LAPD](https://reclaimthenet.org/youtube-temporarily-suspends-the-lapd)
+* [2023-10-31, 13:46:58](https://news.ycombinator.com/item?id=38084737) - [Penn and Teller's Lab Scam [video]](https://www.youtube.com/watch?v=fxMKuv0A6z4)
 * [2023-10-31, 13:35:04](https://news.ycombinator.com/item?id=38084572) - [.io Considered Harmful](https://www.beep.blog/io/)
 * [2023-10-31, 13:29:56](https://news.ycombinator.com/item?id=38084516) - [.US Harbors Prolific Malicious Link Shortening Service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [US-led coalition of nations agrees to end ransomware payments to hackers](https://www.itpro.com/security/ransomware/coalition-of-nations-agree-to-end-ransomware-payments-to-hackers)
@@ -30,6 +31,7 @@
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court bans LinkedIn from ignoring \"Do Not Track\" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/)
 * [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
+* [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-31, 04:19:08](https://news.ycombinator.com/item?id=38080234) - [Cleopatra's Daughter (2018)](https://www.historytoday.com/miscellanies/cleopatras-daughter)
 * [2023-10-31, 04:19:03](https://news.ycombinator.com/item?id=38080233) - [$95 AMD CPU Becomes 16GB GPU to Run AI Software](https://www.tomshardware.com/news/dollar95-amd-cpu-becomes-16gb-gpu-to-run-ai-software)
 * [2023-10-31, 04:17:33](https://news.ycombinator.com/item?id=38080228) - [Behold the Nebulous Smear: al-Sūfī's Illustrated Book of Fixed Stars (ca. 1430)](https://publicdomainreview.org/collection/fixed-stars/)
