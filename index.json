@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-11-01, 19:06:15",
-      "https://news.ycombinator.com/item?id=38103310"
-    ],
-    [
-      "How to (and how not to) design REST APIs",
-      "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 19:01:41",
       "https://news.ycombinator.com/item?id=38103225"
     ],
@@ -207,6 +197,16 @@
     [
       "Attenuating Innovation (AI)",
       "https://stratechery.com/2023/attenuating-innovation-ai/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 14:17:14",
+      "https://news.ycombinator.com/item?id=38098490"
+    ],
+    [
+      "Show HN: Anchor – developer-friendly private CAs for internal TLS",
+      "https://anchor.dev/"
     ]
   ],
   [
