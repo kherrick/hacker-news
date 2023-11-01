@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 13:15:38](https://news.ycombinator.com/item?id=38097769) - [Splunk to Cut Workforce by 7% After Cisco Deal](https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal)
+* [2023-11-01, 12:36:53](https://news.ycombinator.com/item?id=38097395) - [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics)
 * [2023-11-01, 12:27:17](https://news.ycombinator.com/item?id=38097331) - [Lenovo ThinkPad T14s G4 review: Business laptop is better with AMD Zen4](https://www.notebookcheck.net/Lenovo-ThinkPad-T14s-G4-review-Business-laptop-is-better-with-AMD-Zen4.763581.0.html)
+* [2023-11-01, 12:07:32](https://news.ycombinator.com/item?id=38097184) - [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
 * [2023-11-01, 12:00:43](https://news.ycombinator.com/item?id=38097142) - [Govly (YC S21) Is Hiring Fullstack Engineers (Ruby/React)](https://www.govly.com/careers)
 * [2023-11-01, 11:55:25](https://news.ycombinator.com/item?id=38097097) - [A bold new look for the Gov.uk homepage](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/)
 * [2023-11-01, 11:35:31](https://news.ycombinator.com/item?id=38096955) - [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
