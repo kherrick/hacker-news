@@ -10,6 +10,7 @@
 * [2023-11-01, 05:00:39](https://news.ycombinator.com/item?id=38094745) - [Islam Saved the Jews](https://kavvanah.blog/2012/06/04/how-islam-saved-the-jews-david-wasserstein/)
 * [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock-Origin – 1.53.0](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 * [2023-11-01, 01:43:37](https://news.ycombinator.com/item?id=38093669) - [Reflections on Quitting My Job](https://mooseyanon.medium.com/reflections-on-quitting-my-job-fe7410e15a6a)
+* [2023-11-01, 01:18:44](https://news.ycombinator.com/item?id=38093493) - [Show HN: Clone someone and talk to them like in real life](https://gptclone.ai/)
 * [2023-11-01, 00:59:45](https://news.ycombinator.com/item?id=38093375) - [Louis Rossmann given three YouTube community guideline strikes](https://twitter.com/FUTO_Tech/status/1719468941582442871)
 * [2023-11-01, 00:55:41](https://news.ycombinator.com/item?id=38093353) - [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
 * [2023-11-01, 00:14:03](https://news.ycombinator.com/item?id=38093083) - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
