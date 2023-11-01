@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-01, 18:40:26](https://news.ycombinator.com/item?id=38102885) - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
+* [2023-11-01, 18:32:31](https://news.ycombinator.com/item?id=38102772) - [Crowd Funding the Release of OpenCV 5](https://www.indiegogo.com/projects/opencv-5-support-non-profit-open-source-cv-ai)
 * [2023-11-01, 18:24:01](https://news.ycombinator.com/item?id=38102636) - [Heat pumps can't take the cold? Nordics debunk the myth](https://techxplore.com/news/2023-10-cold-nordics-debunk-myth.html)
-* [2023-11-01, 17:59:44](https://news.ycombinator.com/item?id=38102208) - [State of emergency declared after lead and copper found in St. Croix tap water](https://apnews.com/article/st-croix-state-emergency-water-contaminated-lead-28a8e67a0069b08f6f7782bea6c77863)
 * [2023-11-01, 17:52:58](https://news.ycombinator.com/item?id=38102096) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:51:59](https://news.ycombinator.com/item?id=38102082) - [Bitwarden Adds Support for Passkeys](https://bitwarden.com/help/releasenotes/)
 * [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)

@@ -6,6 +6,7 @@
 
 * [2023-11-01, 18:40:26](https://news.ycombinator.com/item?id=38102885) - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 * [2023-11-01, 18:39:57](https://news.ycombinator.com/item?id=38102876) - [UN official in New York steps down citing 'genocide' in Palestine](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
+* [2023-11-01, 18:32:31](https://news.ycombinator.com/item?id=38102772) - [Crowd Funding the Release of OpenCV 5](https://www.indiegogo.com/projects/opencv-5-support-non-profit-open-source-cv-ai)
 * [2023-11-01, 18:31:54](https://news.ycombinator.com/item?id=38102760) - [28 governments signed a declaration agreeing to cooperate on risks of AI](https://www.nytimes.com/2023/11/01/world/europe/uk-ai-summit-sunak.html)
 * [2023-11-01, 18:24:01](https://news.ycombinator.com/item?id=38102636) - [Heat pumps can't take the cold? Nordics debunk the myth](https://techxplore.com/news/2023-10-cold-nordics-debunk-myth.html)
 * [2023-11-01, 18:15:38](https://news.ycombinator.com/item?id=38102458) - [M3 MacBook Pro: Base Model Has Only 8GB RAM](https://www.apple.com/macbook-pro/specs/)
