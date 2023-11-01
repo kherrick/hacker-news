@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-10-31, 12:56:43",
-      "https://news.ycombinator.com/item?id=38084098"
-    ],
-    [
-      "Show HN: Light implementation of Event Sourcing using PostgreSQL as event store",
-      "https://github.com/eugene-khyst/postgresql-event-sourcing"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 12:04:58",
       "https://news.ycombinator.com/item?id=38083484"
     ],
@@ -297,6 +287,16 @@
     [
       "The Pictorial C64 Fault Guide",
       "https://www.pictorial64.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 05:23:57",
+      "https://news.ycombinator.com/item?id=38055991"
+    ],
+    [
+      "Raven – CI/CD Security Analyzer",
+      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
