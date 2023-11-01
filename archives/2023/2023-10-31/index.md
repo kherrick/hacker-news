@@ -59,6 +59,7 @@
 * [2023-10-31, 13:03:25](https://news.ycombinator.com/item?id=38084187) - [Ask HN: How can we help Firefox not to dissapear?](https://news.ycombinator.com/item?id=38084187)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:49:56](https://news.ycombinator.com/item?id=38084007) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+* [2023-10-31, 12:35:48](https://news.ycombinator.com/item?id=38083825) - [History of the Enigma](https://cryptomuseum.com/crypto/enigma/hist.htm)
 * [2023-10-31, 12:16:35](https://news.ycombinator.com/item?id=38083588) - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 * [2023-10-31, 12:15:34](https://news.ycombinator.com/item?id=38083579) - [Virtual meetings tire people because we're doing them wrong, says new research](https://phys.org/news/2023-10-virtual-people-wrong.html)
 * [2023-10-31, 12:13:07](https://news.ycombinator.com/item?id=38083565) - [Gen Z is lonely. Going back to the office may be the cure for some](https://www.businessinsider.com/cure-for-gen-z-loneliness-heading-returning-to-office-2023-10)

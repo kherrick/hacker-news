@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 17:01:02](https://news.ycombinator.com/item?id=38101231) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions (Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+* [2023-11-01, 17:00:13](https://news.ycombinator.com/item?id=38101219) - [AI detectors are destroying innocent writers' livelihoods](https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods)
+* [2023-11-01, 16:53:32](https://news.ycombinator.com/item?id=38101108) - [Nile Templates – the quickest way to build modern SaaS](https://www.thenile.dev/blog/launching-templates)
 * [2023-11-01, 16:28:42](https://news.ycombinator.com/item?id=38100672) - [SQLite 3.44.0 Released](https://sqlite.org/releaselog/3_44_0.html)
+* [2023-11-01, 16:27:15](https://news.ycombinator.com/item?id=38100643) - [Cities Skylines II renders invividual teeth of all human models](https://twitter.com/tombomp/status/1717641500891238536)
 * [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [The hidden culprit driving America's apocalypse of boarded-up storefronts](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
 * [2023-11-01, 16:21:46](https://news.ycombinator.com/item?id=38100539) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 16:10:48](https://news.ycombinator.com/item?id=38100345) - [LPDDR5-9600 smartphone memory is coming](https://liliputing.com/lpddr5-9600-smartphone-memory-is-coming/)
