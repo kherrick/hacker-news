@@ -4,7 +4,6 @@
 * [2023-11-01, 06:46:09](https://news.ycombinator.com/item?id=38095276) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 06:39:04](https://news.ycombinator.com/item?id=38095239) - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
 * [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
-* [2023-11-01, 01:18:44](https://news.ycombinator.com/item?id=38093493) - [Show HN: Clone someone and talk to them like in real life](https://gptclone.ai/)
 * [2023-11-01, 00:55:41](https://news.ycombinator.com/item?id=38093353) - [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
 * [2023-11-01, 00:14:03](https://news.ycombinator.com/item?id=38093083) - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
 * [2023-10-31, 23:11:29](https://news.ycombinator.com/item?id=38092624) - [Black 4.0](https://www.culturehustleusa.com/products/black-4-0)
@@ -30,6 +29,7 @@
 * [2023-10-29, 14:14:07](https://news.ycombinator.com/item?id=38058843) - [Tao Te Ching – Gia-Fu Feng, Jane English Translation (1989)](https://terebess.hu/english/tao/gia.html)
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 * [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
+* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 
