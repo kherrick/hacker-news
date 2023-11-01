@@ -46,6 +46,7 @@
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 * [2023-10-29, 13:49:36](https://news.ycombinator.com/item?id=38058638) - [The product manager role is a mistake](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/)
 * [2023-10-29, 13:44:45](https://news.ycombinator.com/item?id=38058593) - [Google's Sundar Pichai testifies in landmark monopoly trial](https://www.npr.org/2023/10/29/1208928441/google-to-present-its-star-witness-the-companys-ceo-in-landmark-monopoly-trial)
+* [2023-10-29, 13:41:30](https://news.ycombinator.com/item?id=38058564) - [What China's slow-motion real estate crisis means for the global economy](https://www.cnbc.com/2023/10/27/what-chinas-slow-motion-property-crisis-means-for-the-global-economy.html)
 * [2023-10-29, 13:17:57](https://news.ycombinator.com/item?id=38058332) - [Android 14 review: There's always next year](https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/)
 * [2023-10-29, 13:07:42](https://news.ycombinator.com/item?id=38058238) - [When Police Raid a Newspaper for No Reason](https://www.youtube.com/watch?v=-CX1aJRUzPY)
 * [2023-10-29, 13:06:52](https://news.ycombinator.com/item?id=38058226) - [Lexically-Accelerated Dense Retrieval](https://arxiv.org/abs/2307.16779)

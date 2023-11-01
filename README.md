@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-01, 00:59:45](https://news.ycombinator.com/item?id=38093375) - [Louis Rossmann given three YouTube community guideline strikes](https://twitter.com/FUTO_Tech/status/1719468941582442871)
 * [2023-11-01, 00:14:03](https://news.ycombinator.com/item?id=38093083) - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
 * [2023-10-31, 23:10:11](https://news.ycombinator.com/item?id=38092612) - [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
 * [2023-10-31, 23:08:51](https://news.ycombinator.com/item?id=38092596) - [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
@@ -7,7 +8,6 @@
 * [2023-10-31, 21:32:02](https://news.ycombinator.com/item?id=38091679) - [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
 * [2023-10-31, 21:23:11](https://news.ycombinator.com/item?id=38091569) - [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
 * [2023-10-31, 20:39:29](https://news.ycombinator.com/item?id=38091046) - [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
-* [2023-10-31, 20:35:14](https://news.ycombinator.com/item?id=38091000) - [Engineers develop a process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
 * [2023-10-31, 19:53:00](https://news.ycombinator.com/item?id=38090521) - [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
 * [2023-10-31, 19:15:44](https://news.ycombinator.com/item?id=38089980) - [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 * [2023-10-31, 18:33:52](https://news.ycombinator.com/item?id=38089342) - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
@@ -20,7 +20,6 @@
 * [2023-10-31, 15:43:12](https://news.ycombinator.com/item?id=38086598) - [Show HN: MicroTCP, a minimal TCP/IP stack](https://github.com/cozis/microtcp)
 * [2023-10-31, 15:31:33](https://news.ycombinator.com/item?id=38086387) - [Show HN: Streamdal – an open-source tail -f for your data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 15:22:15](https://news.ycombinator.com/item?id=38086222) - [Real-time dreamy Cloudscapes with Volumetric Raymarching](https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/)
-* [2023-10-31, 15:14:02](https://news.ycombinator.com/item?id=38086082) - [Vendor lock-in in the observability space](https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-details)
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
@@ -28,6 +27,7 @@
 * [2023-10-29, 17:05:18](https://news.ycombinator.com/item?id=38060517) - [Atari Video Music](https://en.wikipedia.org/wiki/Atari_Video_Music)
 * [2023-10-29, 14:12:19](https://news.ycombinator.com/item?id=38058826) - [Solution 26370: Removing a new Texas Instruments calculator from the package](https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/general-information/26370)
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
+* [2023-10-29, 13:41:30](https://news.ycombinator.com/item?id=38058564) - [What China's slow-motion real estate crisis means for the global economy](https://www.cnbc.com/2023/10/27/what-chinas-slow-motion-property-crisis-means-for-the-global-economy.html)
 * [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
 * [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
