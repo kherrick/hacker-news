@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 19:31:58](https://news.ycombinator.com/item?id=38103638) - [Establishment of the U.S. Artificial Intelligence Safety Institute](https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial)
+* [2023-11-01, 19:01:41](https://news.ycombinator.com/item?id=38103225) - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 18:40:26](https://news.ycombinator.com/item?id=38102885) - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 * [2023-11-01, 18:39:57](https://news.ycombinator.com/item?id=38102876) - [UN official in New York steps down citing 'genocide' in Palestine](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
 * [2023-11-01, 18:32:31](https://news.ycombinator.com/item?id=38102772) - [Crowd Funding the Release of OpenCV 5](https://www.indiegogo.com/projects/opencv-5-support-non-profit-open-source-cv-ai)
@@ -12,6 +14,7 @@
 * [2023-11-01, 18:15:38](https://news.ycombinator.com/item?id=38102458) - [M3 MacBook Pro: Base Model Has Only 8GB RAM](https://www.apple.com/macbook-pro/specs/)
 * [2023-11-01, 17:59:44](https://news.ycombinator.com/item?id=38102208) - [State of emergency declared after lead and copper found in St. Croix tap water](https://apnews.com/article/st-croix-state-emergency-water-contaminated-lead-28a8e67a0069b08f6f7782bea6c77863)
 * [2023-11-01, 17:52:58](https://news.ycombinator.com/item?id=38102096) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
+* [2023-11-01, 17:52:05](https://news.ycombinator.com/item?id=38102083) - [My Rude-Ass Car](https://www.neverbeclever.org/blog/my-rude-ass-car/)
 * [2023-11-01, 17:51:59](https://news.ycombinator.com/item?id=38102082) - [Bitwarden Adds Support for Passkeys](https://bitwarden.com/help/releasenotes/)
 * [2023-11-01, 17:47:20](https://news.ycombinator.com/item?id=38101996) - [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
 * [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)
