@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 17:01:02](https://news.ycombinator.com/item?id=38101231) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions (Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+* [2023-11-01, 16:28:42](https://news.ycombinator.com/item?id=38100672) - [SQLite 3.44.0 Released](https://sqlite.org/releaselog/3_44_0.html)
+* [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [The hidden culprit driving America's apocalypse of boarded-up storefronts](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
 * [2023-11-01, 16:21:46](https://news.ycombinator.com/item?id=38100539) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 16:10:48](https://news.ycombinator.com/item?id=38100345) - [LPDDR5-9600 smartphone memory is coming](https://liliputing.com/lpddr5-9600-smartphone-memory-is-coming/)
 * [2023-11-01, 16:07:22](https://news.ycombinator.com/item?id=38100284) - [Introduc ing the .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
+* [2023-11-01, 15:55:23](https://news.ycombinator.com/item?id=38100050) - [Perspective Market Simulation](https://prospective.co/blog/market-simulation)
 * [2023-11-01, 15:43:58](https://news.ycombinator.com/item?id=38099823) - [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
 * [2023-11-01, 15:31:47](https://news.ycombinator.com/item?id=38099633) - [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
 * [2023-11-01, 15:24:54](https://news.ycombinator.com/item?id=38099506) - [Facing 110 years in prison, Sam Bankman-Fried \"can't recall\" what he did at FTX](https://arstechnica.com/tech-policy/2023/10/facing-110-years-in-prison-sam-bankman-fried-cant-recall-what-he-did-at-ftx/)
