@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 19:37:55](https://news.ycombinator.com/item?id=38103733) - [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
 * [2023-11-01, 19:31:58](https://news.ycombinator.com/item?id=38103638) - [Establishment of the U.S. Artificial Intelligence Safety Institute](https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial)
+* [2023-11-01, 19:06:15](https://news.ycombinator.com/item?id=38103310) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 19:01:41](https://news.ycombinator.com/item?id=38103225) - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 18:40:26](https://news.ycombinator.com/item?id=38102885) - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 * [2023-11-01, 18:39:57](https://news.ycombinator.com/item?id=38102876) - [UN official in New York steps down citing 'genocide' in Palestine](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
