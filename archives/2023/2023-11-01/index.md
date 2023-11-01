@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
+* [2023-11-01, 21:31:56](https://news.ycombinator.com/item?id=38105629) - [Starlink satellites are 'leaking' signals that interfere with radio telescopes](https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250)
 * [2023-11-01, 21:05:17](https://news.ycombinator.com/item?id=38105232) - [Help Wanted at LWN](https://lwn.net/Articles/949461/)
 * [2023-11-01, 20:16:37](https://news.ycombinator.com/item?id=38104407) - [Some thoughts about The Verge article on SEO](https://dannysullivan.com/thoughts-verge-article-seo-6558)
 * [2023-11-01, 20:13:22](https://news.ycombinator.com/item?id=38104352) - [Tell HN: Revolut suspended my account for no reason](https://news.ycombinator.com/item?id=38104352)
 * [2023-11-01, 19:37:55](https://news.ycombinator.com/item?id=38103733) - [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
 * [2023-11-01, 19:31:58](https://news.ycombinator.com/item?id=38103638) - [Establishment of the U.S. Artificial Intelligence Safety Institute](https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial)
+* [2023-11-01, 19:26:26](https://news.ycombinator.com/item?id=38103560) - [Open Data Is Dead](https://databaseengineering.substack.com/p/open-data-is-dead)
 * [2023-11-01, 19:06:15](https://news.ycombinator.com/item?id=38103310) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 19:01:41](https://news.ycombinator.com/item?id=38103225) - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 18:40:26](https://news.ycombinator.com/item?id=38102885) - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
