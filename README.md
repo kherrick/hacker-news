@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-01, 18:39:57](https://news.ycombinator.com/item?id=38102876) - [UN official in New York steps down citing 'genocide' in Palestine](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
 * [2023-11-01, 18:31:54](https://news.ycombinator.com/item?id=38102760) - [28 governments signed a declaration agreeing to cooperate on risks of AI](https://www.nytimes.com/2023/11/01/world/europe/uk-ai-summit-sunak.html)
 * [2023-11-01, 17:47:20](https://news.ycombinator.com/item?id=38101996) - [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
 * [2023-11-01, 17:26:44](https://news.ycombinator.com/item?id=38101629) - [YouTube's 'War' on Adblockers Shows How Google Controls the Internet](https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/)
@@ -12,7 +13,6 @@
 * [2023-11-01, 16:28:42](https://news.ycombinator.com/item?id=38100672) - [SQLite 3.44.0](https://sqlite.org/releaselog/3_44_0.html)
 * [2023-11-01, 16:21:46](https://news.ycombinator.com/item?id=38100539) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 15:55:23](https://news.ycombinator.com/item?id=38100050) - [Perspective Market Simulation](https://prospective.co/blog/market-simulation)
-* [2023-11-01, 15:31:47](https://news.ycombinator.com/item?id=38099633) - [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
 * [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 14:35:51](https://news.ycombinator.com/item?id=38098740) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)

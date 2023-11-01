@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 18:39:57](https://news.ycombinator.com/item?id=38102876) - [UN official in New York steps down citing 'genocide' in Palestine](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
 * [2023-11-01, 18:31:54](https://news.ycombinator.com/item?id=38102760) - [28 governments signed a declaration agreeing to cooperate on risks of AI](https://www.nytimes.com/2023/11/01/world/europe/uk-ai-summit-sunak.html)
 * [2023-11-01, 18:15:38](https://news.ycombinator.com/item?id=38102458) - [M3 MacBook Pro: Base Model Has Only 8GB RAM](https://www.apple.com/macbook-pro/specs/)
 * [2023-11-01, 17:47:20](https://news.ycombinator.com/item?id=38101996) - [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
