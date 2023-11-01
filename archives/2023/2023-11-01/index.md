@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 14:43:31](https://news.ycombinator.com/item?id=38098851) - [Tiny11 core, a Windows 11 mod that only requires 3GB of disk space](https://www.neowin.net/news/meet-tiny11-core-a-windows-11-mod-that-only-requires-3gb-of-disk-space/)
+* [2023-11-01, 14:38:33](https://news.ycombinator.com/item?id=38098779) - [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
 * [2023-11-01, 14:35:51](https://news.ycombinator.com/item?id=38098740) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)
+* [2023-11-01, 14:24:20](https://news.ycombinator.com/item?id=38098579) - [Architecture Considerations for platform engineering teams](https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/)
 * [2023-11-01, 14:17:14](https://news.ycombinator.com/item?id=38098490) - [Show HN: Anchor – developer-friendly private CAs for internal TLS](https://anchor.dev/)
+* [2023-11-01, 14:09:18](https://news.ycombinator.com/item?id=38098391) - [How America moves homeless people around the country](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
+* [2023-11-01, 13:53:01](https://news.ycombinator.com/item?id=38098185) - [A bank runs serverless with PHP and AWS Lambda](https://bref.sh/docs/case-studies/treezor)
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 13:24:11](https://news.ycombinator.com/item?id=38097858) - [Mozilla treats Debian devotees to the raw taste of Firefox Nightly](https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/)
 * [2023-11-01, 13:15:38](https://news.ycombinator.com/item?id=38097769) - [Splunk to Cut Workforce by 7% After Cisco Deal](https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal)
