@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-01, 19:31:58",
+      "https://news.ycombinator.com/item?id=38103638"
+    ],
+    [
+      "Establishment of the U.S. Artificial Intelligence Safety Institute",
+      "https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 19:01:41",
+      "https://news.ycombinator.com/item?id=38103225"
+    ],
+    [
+      "Wrangling Monotonic Systems in TLA+",
+      "https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 18:40:26",
       "https://news.ycombinator.com/item?id=38102885"
     ],
@@ -37,6 +57,16 @@
     [
       "What do we mean by \"the foundations of mathematics\"?",
       "https://lawrencecpaulson.github.io/2023/11/01/Foundations.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 17:52:05",
+      "https://news.ycombinator.com/item?id=38102083"
+    ],
+    [
+      "My Rude-Ass Car",
+      "https://www.neverbeclever.org/blog/my-rude-ass-car/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-11-01, 15:03:11",
-      "https://news.ycombinator.com/item?id=38099145"
-    ],
-    [
-      "Htmx, Rust and Shuttle: A New Rapid Prototyping Stack",
-      "https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 15:00:43",
       "https://news.ycombinator.com/item?id=38099086"
     ],
@@ -207,26 +227,6 @@
     [
       "Unveiling Ragna: An Open Source RAG-Based AI Orchestration Framework",
       "https://quansight.com/post/unveiling-ragna-an-open-source-rag-based-ai-orchestration-framework-designed-to-scale-from-research-to-production/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 13:35:09",
-      "https://news.ycombinator.com/item?id=38097984"
-    ],
-    [
-      "C++23: Removing garbage collection support",
-      "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 13:10:55",
-      "https://news.ycombinator.com/item?id=38097724"
-    ],
-    [
-      "HubSpot Acquires Clearbit",
-      "https://www.hubspot.com/company-news/welcoming-clearbit-to-hubspot"
     ]
   ],
   [
