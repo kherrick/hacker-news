@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 21:56:22](https://news.ycombinator.com/item?id=38105877) - [Shipwreck Is Everywhere (2017)](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 21:31:56](https://news.ycombinator.com/item?id=38105629) - [Starlink satellites are 'leaking' signals that interfere with radio telescopes](https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250)
 * [2023-11-01, 21:05:17](https://news.ycombinator.com/item?id=38105232) - [Help Wanted at LWN](https://lwn.net/Articles/949461/)

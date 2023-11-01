@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-01, 21:56:22](https://news.ycombinator.com/item?id=38105877) - [Shipwreck Is Everywhere (2017)](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 21:31:56](https://news.ycombinator.com/item?id=38105629) - [Starlink satellites are 'leaking' signals that interfere with radio telescopes](https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250)
 * [2023-11-01, 21:05:17](https://news.ycombinator.com/item?id=38105232) - [Help Wanted at LWN](https://lwn.net/Articles/949461/)
@@ -29,7 +30,6 @@
 * [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
-* [2023-10-30, 19:12:41](https://news.ycombinator.com/item?id=38074276) - [Mini-08 single-board computer based on the 8008 CPU [video]](https://www.youtube.com/watch?v=oFVjI7945CU)
 
 ## [Archives](archives/index.md)
 
