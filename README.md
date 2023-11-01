@@ -27,9 +27,9 @@
 * [2023-11-01, 11:58:20](https://news.ycombinator.com/item?id=38097121) - [3D desktop Game Engine scriptable in Python](https://unidaystudio.itch.io/cave-engine)
 * [2023-11-01, 11:47:53](https://news.ycombinator.com/item?id=38097031) - [Rob Pike’s Rules of Programming (1989)](https://users.ece.utexas.edu/~adnan/pike.html)
 * [2023-11-01, 11:36:00](https://news.ycombinator.com/item?id=38096958) - [New: LangChain templates – fastest way to build a production-ready LLM app](https://github.com/langchain-ai/langchain/tree/master/templates)
-* [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
+* [2023-10-30, 19:12:41](https://news.ycombinator.com/item?id=38074276) - [Mini-08 single-board computer based on the 8008 CPU [video]](https://www.youtube.com/watch?v=oFVjI7945CU)
 
 ## [Archives](archives/index.md)
 
