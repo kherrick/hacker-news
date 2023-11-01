@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-01, 14:43:31",
+      "https://news.ycombinator.com/item?id=38098851"
+    ],
+    [
+      "Tiny11 core, a Windows 11 mod that only requires 3GB of disk space",
+      "https://www.neowin.net/news/meet-tiny11-core-a-windows-11-mod-that-only-requires-3gb-of-disk-space/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 14:38:33",
+      "https://news.ycombinator.com/item?id=38098779"
+    ],
+    [
+      "Why doctors in America earn so much",
+      "https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 14:35:51",
       "https://news.ycombinator.com/item?id=38098740"
     ],
@@ -11,12 +31,42 @@
   ],
   [
     [
+      "2023-11-01, 14:24:20",
+      "https://news.ycombinator.com/item?id=38098579"
+    ],
+    [
+      "Architecture Considerations for platform engineering teams",
+      "https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 14:17:14",
       "https://news.ycombinator.com/item?id=38098490"
     ],
     [
       "Show HN: Anchor – developer-friendly private CAs for internal TLS",
       "https://anchor.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 14:09:18",
+      "https://news.ycombinator.com/item?id=38098391"
+    ],
+    [
+      "How America moves homeless people around the country",
+      "https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 13:53:01",
+      "https://news.ycombinator.com/item?id=38098185"
+    ],
+    [
+      "A bank runs serverless with PHP and AWS Lambda",
+      "https://bref.sh/docs/case-studies/treezor"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "HubSpot Acquires Clearbit",
       "https://www.hubspot.com/company-news/welcoming-clearbit-to-hubspot"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 12:27:17",
-      "https://news.ycombinator.com/item?id=38097331"
-    ],
-    [
-      "Lenovo ThinkPad T14s G4 review: Business laptop is better with AMD Zen4",
-      "https://www.notebookcheck.net/Lenovo-ThinkPad-T14s-G4-review-Business-laptop-is-better-with-AMD-Zen4.763581.0.html"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2023-11-01, 06:39:04",
-      "https://news.ycombinator.com/item?id=38095239"
-    ],
-    [
-      "SQLite 3.44: Interactive release notes",
-      "https://antonz.org/sqlite-3-44/"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 04:33:02",
       "https://news.ycombinator.com/item?id=38094620"
     ],
@@ -177,16 +207,6 @@
     [
       "Show HN: Halloween game to show off my new Terminal",
       "https://joel.tools/halloween/"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 23:11:29",
-      "https://news.ycombinator.com/item?id=38092624"
-    ],
-    [
-      "Black 4.0",
-      "https://www.culturehustleusa.com/products/black-4-0"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-10-31, 00:30:14",
-      "https://news.ycombinator.com/item?id=38078063"
-    ],
-    [
-      "Apple unveils M3, M3 Pro, and M3 Max",
-      "https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 22:56:38",
       "https://news.ycombinator.com/item?id=38063687"
     ],
     [
       "Life lessons from the death bed",
       "https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 17:05:18",
-      "https://news.ycombinator.com/item?id=38060517"
-    ],
-    [
-      "Atari Video Music",
-      "https://en.wikipedia.org/wiki/Atari_Video_Music"
     ]
   ],
   [
