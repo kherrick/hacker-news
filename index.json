@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-01, 21:52:59",
+      "https://news.ycombinator.com/item?id=38105839"
+    ],
+    [
+      "The business of extracting knowledge from academic publications",
+      "https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 21:31:56",
+      "https://news.ycombinator.com/item?id=38105629"
+    ],
+    [
+      "Starlink satellites are 'leaking' signals that interfere with radio telescopes",
+      "https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 21:05:17",
       "https://news.ycombinator.com/item?id=38105232"
     ],
@@ -17,6 +37,16 @@
     [
       "FCC launches inquiry to increase minimum broadband speed [pdf]",
       "https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 19:26:26",
+      "https://news.ycombinator.com/item?id=38103560"
+    ],
+    [
+      "Open Data Is Dead",
+      "https://databaseengineering.substack.com/p/open-data-is-dead"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Dot by New Computer",
       "https://new.computer/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 17:40:56",
-      "https://news.ycombinator.com/item?id=38101880"
-    ],
-    [
-      "Why Do Peephole Optimizations Work",
-      "https://blog.regehr.org/archives/2485"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2023-11-01, 14:17:14",
-      "https://news.ycombinator.com/item?id=38098490"
+      "2023-11-01, 14:19:21",
+      "https://news.ycombinator.com/item?id=38098513"
     ],
     [
-      "Show HN: Anchor – developer-friendly private CAs for internal TLS",
-      "https://anchor.dev/"
+      "Attenuating Innovation (AI)",
+      "https://stratechery.com/2023/attenuating-innovation-ai/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-11-01, 06:46:09",
-      "https://news.ycombinator.com/item?id=38095276"
-    ],
-    [
-      "Why ACPI?",
-      "https://mjg59.dreamwidth.org/68350.html"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 19:50:17",
       "https://news.ycombinator.com/item?id=38090489"
     ],
@@ -287,16 +297,6 @@
     [
       "Boot legacy PCs from NVMe storage",
       "https://github.com/Manawyrm/nvme-int13h-optionrom"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 19:12:41",
-      "https://news.ycombinator.com/item?id=38074276"
-    ],
-    [
-      "Mini-08 single-board computer based on the 8008 CPU [video]",
-      "https://www.youtube.com/watch?v=oFVjI7945CU"
     ]
   ]
 ]
