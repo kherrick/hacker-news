@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-11-01, 16:10:48",
-      "https://news.ycombinator.com/item?id=38100345"
+      "2023-11-01, 16:21:46",
+      "https://news.ycombinator.com/item?id=38100539"
     ],
     [
-      "LPDDR5-9600 smartphone memory is coming",
-      "https://liliputing.com/lpddr5-9600-smartphone-memory-is-coming/"
+      "Getting RISC-V (again): Milk-V's Mars CM",
+      "https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-11-01, 15:03:11",
-      "https://news.ycombinator.com/item?id=38099145"
-    ],
-    [
-      "Htmx, Rust and Shuttle: A New Rapid Prototyping Stack",
-      "https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 15:00:43",
       "https://news.ycombinator.com/item?id=38099086"
     ],
@@ -97,6 +87,16 @@
     [
       "Architecture Considerations for platform engineering teams",
       "https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 14:19:21",
+      "https://news.ycombinator.com/item?id=38098513"
+    ],
+    [
+      "Attenuating Innovation (AI)",
+      "https://stratechery.com/2023/attenuating-innovation-ai/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-11-01, 08:49:37",
+      "https://news.ycombinator.com/item?id=38095911"
+    ],
+    [
+      "Open-access reformers launch next bold publishing plan",
+      "https://www.nature.com/articles/d41586-023-03342-6"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 08:08:09",
       "https://news.ycombinator.com/item?id=38095699"
     ],
@@ -247,16 +257,6 @@
     [
       "Why ACPI?",
       "https://mjg59.dreamwidth.org/68350.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 00:55:41",
-      "https://news.ycombinator.com/item?id=38093353"
-    ],
-    [
-      "Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller",
-      "https://github.com/huggingface/distil-whisper"
     ]
   ],
   [
