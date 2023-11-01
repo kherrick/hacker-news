@@ -52,6 +52,7 @@
 * [2023-11-01, 15:21:31](https://news.ycombinator.com/item?id=38099448) - [First Benchmark Results Surface for M3 Chip in New Macs](https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/)
 * [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
+* [2023-11-01, 15:00:42](https://news.ycombinator.com/item?id=38099084) - [Ask HN: Who wants to be hired? (November 2023)](https://news.ycombinator.com/item?id=38099084)
 * [2023-11-01, 14:59:15](https://news.ycombinator.com/item?id=38099061) - [The Performance Impact of Session Replay: What We Found](https://www.highlight.io/blog/session-replay-performance)
 * [2023-11-01, 14:46:21](https://news.ycombinator.com/item?id=38098888) - [Top Best OpenWrt Routers for VPN in 2023](https://nixsanctuary.com/top-5-best-openwrt-routers-for-vpn-in-2023/)
 * [2023-11-01, 14:43:31](https://news.ycombinator.com/item?id=38098851) - [Tiny11 core, a Windows 11 mod that only requires 3GB of disk space](https://www.neowin.net/news/meet-tiny11-core-a-windows-11-mod-that-only-requires-3gb-of-disk-space/)
