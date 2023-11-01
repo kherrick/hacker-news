@@ -34,6 +34,7 @@
 * [2023-10-29, 15:25:29](https://news.ycombinator.com/item?id=38059431) - [Rare 2,100-year-old gold coin bears name of obscure ruler from pre-Roman Britain](https://www.livescience.com/archaeology/romans/rare-2100-year-old-gold-coin-bears-name-of-obscure-ruler-from-pre-roman-britain)
 * [2023-10-29, 15:21:34](https://news.ycombinator.com/item?id=38059396) - [Show HN: Kimchi Reader – Immersive Korean Learning with a Popup Dictionary](https://kimchi-reader.app)
 * [2023-10-29, 15:09:08](https://news.ycombinator.com/item?id=38059276) - [Announcing SurrealDB 1.0](https://surrealdb.com/blog/announcing-surrealdb-1-0)
+* [2023-10-29, 14:42:07](https://news.ycombinator.com/item?id=38059047) - [RattleCAD](https://archive.org/details/rattlecad)
 * [2023-10-29, 14:40:52](https://news.ycombinator.com/item?id=38059036) - [Ask HN: If you were to build a web app today what tech stack would you choose?](https://news.ycombinator.com/item?id=38059036)
 * [2023-10-29, 14:37:13](https://news.ycombinator.com/item?id=38059004) - [Ask HN: Is Express still \"de-facto\" for building Node back ends?](https://news.ycombinator.com/item?id=38059004)
 * [2023-10-29, 14:33:18](https://news.ycombinator.com/item?id=38058979) - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)

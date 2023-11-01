@@ -9,7 +9,7 @@
 * [2023-10-31, 21:23:11](https://news.ycombinator.com/item?id=38091569) - [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
 * [2023-10-31, 20:39:29](https://news.ycombinator.com/item?id=38091046) - [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
 * [2023-10-31, 19:53:00](https://news.ycombinator.com/item?id=38090521) - [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
-* [2023-10-31, 19:15:44](https://news.ycombinator.com/item?id=38089980) - [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
+* [2023-10-31, 19:15:44](https://news.ycombinator.com/item?id=38089980) - [Rules of schema growth (2017)](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 * [2023-10-31, 18:33:52](https://news.ycombinator.com/item?id=38089342) - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
 * [2023-10-31, 18:27:15](https://news.ycombinator.com/item?id=38089247) - [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
 * [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
@@ -24,12 +24,12 @@
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-29, 17:05:18](https://news.ycombinator.com/item?id=38060517) - [Atari Video Music](https://en.wikipedia.org/wiki/Atari_Video_Music)
+* [2023-10-29, 14:42:07](https://news.ycombinator.com/item?id=38059047) - [RattleCAD](https://archive.org/details/rattlecad)
 * [2023-10-29, 14:14:07](https://news.ycombinator.com/item?id=38058843) - [Tao Te Ching – Gia-Fu Feng, Jane English Translation (1989)](https://terebess.hu/english/tao/gia.html)
 * [2023-10-29, 14:12:19](https://news.ycombinator.com/item?id=38058826) - [Solution 26370: Removing a new Texas Instruments calculator from the package](https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/general-information/26370)
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 * [2023-10-29, 13:41:30](https://news.ycombinator.com/item?id=38058564) - [What China's slow-motion real estate crisis means for the global economy](https://www.cnbc.com/2023/10/27/what-chinas-slow-motion-property-crisis-means-for-the-global-economy.html)
 * [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
-* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 
