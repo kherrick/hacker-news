@@ -25,11 +25,11 @@
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-29, 17:05:18](https://news.ycombinator.com/item?id=38060517) - [Atari Video Music](https://en.wikipedia.org/wiki/Atari_Video_Music)
 * [2023-10-29, 14:42:07](https://news.ycombinator.com/item?id=38059047) - [RattleCAD](https://archive.org/details/rattlecad)
+* [2023-10-29, 14:39:03](https://news.ycombinator.com/item?id=38059018) - [Evaluating embedding based retrieval beyond historical search results [video]](https://www.youtube.com/watch?v=Hi1johHhYlY)
 * [2023-10-29, 14:14:07](https://news.ycombinator.com/item?id=38058843) - [Tao Te Ching – Gia-Fu Feng, Jane English Translation (1989)](https://terebess.hu/english/tao/gia.html)
 * [2023-10-29, 14:12:19](https://news.ycombinator.com/item?id=38058826) - [Solution 26370: Removing a new Texas Instruments calculator from the package](https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/general-information/26370)
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 * [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
-* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 
