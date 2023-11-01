@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
+* [2023-11-01, 13:24:11](https://news.ycombinator.com/item?id=38097858) - [Mozilla treats Debian devotees to the raw taste of Firefox Nightly](https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/)
 * [2023-11-01, 13:15:38](https://news.ycombinator.com/item?id=38097769) - [Splunk to Cut Workforce by 7% After Cisco Deal](https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal)
 * [2023-11-01, 13:07:57](https://news.ycombinator.com/item?id=38097681) - [Mazda files false DMCA takedown notice to intimidate open source programmer](https://news.ycombinator.com/item?id=38097681)
 * [2023-11-01, 12:36:53](https://news.ycombinator.com/item?id=38097395) - [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics)
@@ -14,6 +15,7 @@
 * [2023-11-01, 12:00:43](https://news.ycombinator.com/item?id=38097142) - [Govly (YC S21) Is Hiring Fullstack Engineers (Ruby/React)](https://www.govly.com/careers)
 * [2023-11-01, 11:55:25](https://news.ycombinator.com/item?id=38097097) - [A bold new look for the Gov.uk homepage](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/)
 * [2023-11-01, 11:35:31](https://news.ycombinator.com/item?id=38096955) - [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
+* [2023-11-01, 10:22:49](https://news.ycombinator.com/item?id=38096508) - [WeWork shares sink on reports of imminent plans for bankruptcy filing](https://www.reuters.com/business/wework-shares-sink-reports-imminent-plans-bankruptcy-filing-2023-11-01/)
 * [2023-11-01, 09:12:14](https://news.ycombinator.com/item?id=38096076) - [The Telegram app has been a key platform for Hamas. Now it's being restricted](https://www.npr.org/2023/10/31/1208800238/the-telegram-app-has-been-a-key-platform-for-hamas-now-its-being-restricted-ther)
 * [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 07:40:07](https://news.ycombinator.com/item?id=38095542) - [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
