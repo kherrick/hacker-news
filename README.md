@@ -7,7 +7,6 @@
 * [2023-11-01, 19:01:41](https://news.ycombinator.com/item?id=38103225) - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 18:40:26](https://news.ycombinator.com/item?id=38102885) - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 * [2023-11-01, 17:52:58](https://news.ycombinator.com/item?id=38102096) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
-* [2023-11-01, 17:52:05](https://news.ycombinator.com/item?id=38102083) - [My Rude-Ass Car](https://www.neverbeclever.org/blog/my-rude-ass-car/)
 * [2023-11-01, 17:51:59](https://news.ycombinator.com/item?id=38102082) - [Bitwarden adds support for passkeys](https://bitwarden.com/help/releasenotes/)
 * [2023-11-01, 17:48:51](https://news.ycombinator.com/item?id=38102023) - [A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
 * [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)
@@ -29,6 +28,7 @@
 * [2023-11-01, 11:36:00](https://news.ycombinator.com/item?id=38096958) - [New: LangChain templates – fastest way to build a production-ready LLM app](https://github.com/langchain-ai/langchain/tree/master/templates)
 * [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 06:46:09](https://news.ycombinator.com/item?id=38095276) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
+* [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
 * [2023-10-30, 19:12:41](https://news.ycombinator.com/item?id=38074276) - [Mini-08 single-board computer based on the 8008 CPU [video]](https://www.youtube.com/watch?v=oFVjI7945CU)
 
 ## [Archives](archives/index.md)

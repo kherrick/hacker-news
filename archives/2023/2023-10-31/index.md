@@ -69,6 +69,7 @@
 * [2023-10-31, 11:23:58](https://news.ycombinator.com/item?id=38083101) - [Artists Lose First Round of AI Art Copyright Infringement Case](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/)
 * [2023-10-31, 11:19:30](https://news.ycombinator.com/item?id=38083045) - [Bcachefs Merged into the Linux 6.7 Kernel](https://www.phoronix.com/news/Bcachefs-Merged-Linux-6.7)
 * [2023-10-31, 11:13:05](https://news.ycombinator.com/item?id=38082980) - [The genetic heritage of the Denisovans have left its mark on our mental health](https://www.sciencedaily.com/releases/2023/10/231030110005.htm)
+* [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
 * [2023-10-31, 10:35:28](https://news.ycombinator.com/item?id=38082683) - [Israel was removed from Baidu Maps earlier today](https://twitter.com/shaunmmaguire/status/1719200628990525595)
 * [2023-10-31, 10:27:09](https://news.ycombinator.com/item?id=38082621) - [Show HN: Formbricks – open-source alternative to Typeform and Sprig](https://github.com/formbricks/formbricks)
 * [2023-10-31, 10:23:31](https://news.ycombinator.com/item?id=38082594) - [Ohm: A library and language for building parsers, interpreters, compilers, etc.](https://github.com/ohmjs/ohm)
