@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
+* [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 14:43:31](https://news.ycombinator.com/item?id=38098851) - [Tiny11 core, a Windows 11 mod that only requires 3GB of disk space](https://www.neowin.net/news/meet-tiny11-core-a-windows-11-mod-that-only-requires-3gb-of-disk-space/)
 * [2023-11-01, 14:38:33](https://news.ycombinator.com/item?id=38098779) - [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
 * [2023-11-01, 14:35:51](https://news.ycombinator.com/item?id=38098740) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)
+* [2023-11-01, 14:31:29](https://news.ycombinator.com/item?id=38098671) - [10 Reasons to Fight Cashless Contagion](https://brettscott.substack.com/p/10-reasons-to-fight-cashless-society)
+* [2023-11-01, 14:30:05](https://news.ycombinator.com/item?id=38098647) - [How to Dockerize a React App and Deploy It Easily](https://mentorcruise.com/blog/how-to-dockerize-a-react-app-and-deploy-it-easily/)
 * [2023-11-01, 14:24:20](https://news.ycombinator.com/item?id=38098579) - [Architecture Considerations for platform engineering teams](https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/)
 * [2023-11-01, 14:17:14](https://news.ycombinator.com/item?id=38098490) - [Show HN: Anchor – developer-friendly private CAs for internal TLS](https://anchor.dev/)
 * [2023-11-01, 14:09:18](https://news.ycombinator.com/item?id=38098391) - [How America moves homeless people around the country](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
