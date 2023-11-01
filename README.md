@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-01, 01:43:37](https://news.ycombinator.com/item?id=38093669) - [Reflections on Quitting My Job](https://mooseyanon.medium.com/reflections-on-quitting-my-job-fe7410e15a6a)
+* [2023-11-01, 01:43:37](https://news.ycombinator.com/item?id=38093669) - [Reflections on quitting my job](https://mooseyanon.medium.com/reflections-on-quitting-my-job-fe7410e15a6a)
 * [2023-11-01, 00:14:03](https://news.ycombinator.com/item?id=38093083) - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
 * [2023-10-31, 23:10:11](https://news.ycombinator.com/item?id=38092612) - [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
 * [2023-10-31, 23:08:51](https://news.ycombinator.com/item?id=38092596) - [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
