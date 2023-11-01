@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
+* [2023-11-01, 07:40:07](https://news.ycombinator.com/item?id=38095542) - [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
 * [2023-11-01, 06:46:09](https://news.ycombinator.com/item?id=38095276) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 06:39:04](https://news.ycombinator.com/item?id=38095239) - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
 * [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
@@ -15,8 +16,7 @@
 * [2023-10-31, 18:33:52](https://news.ycombinator.com/item?id=38089342) - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
 * [2023-10-31, 18:27:15](https://news.ycombinator.com/item?id=38089247) - [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
 * [2023-10-31, 18:01:27](https://news.ycombinator.com/item?id=38088856) - [Upstream Linux support available for Qualcomm Snapdragon 8 Gen 3 Mobile Platform](https://www.linaro.org/blog/upstream-linux-support-now-available-for-the-the-qualcomm-snapdragon-8-gen-3-mobile-platform/)
-* [2023-10-31, 17:40:47](https://news.ycombinator.com/item?id=38088538) - [Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context](https://www.phind.com/phindmodelhn)
-* [2023-10-31, 17:33:47](https://news.ycombinator.com/item?id=38088435) - [Flies neglect food and endure shocks to seek a dopamine reward](https://www.dpag.ox.ac.uk/news/we-show-that-in-fruit-flies-a-subpopulation-of-reward-encoding-dopaminergic-neurons-antagonizes-punishment-encoding-neurons-and-can-override-punishment-or-hunger-cues-in-favour-of-reward-seeking-behaviour)
+* [2023-10-31, 17:00:15](https://news.ycombinator.com/item?id=38087917) - [Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra](https://www.mux.com/jobs?j=srplatform)
 * [2023-10-31, 15:38:46](https://news.ycombinator.com/item?id=38086518) - [Mars Cyclers](https://planetocracy.substack.com/p/mars-cyclers)
 * [2023-10-31, 15:31:33](https://news.ycombinator.com/item?id=38086387) - [Show HN: Streamdal – an open-source tail -f for your data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
