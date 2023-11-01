@@ -8,6 +8,7 @@
 * [2023-11-01, 07:40:07](https://news.ycombinator.com/item?id=38095542) - [What the Goddamn Hell Is Going on in the Tech Industry?](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
 * [2023-11-01, 06:46:09](https://news.ycombinator.com/item?id=38095276) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 06:39:04](https://news.ycombinator.com/item?id=38095239) - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
+* [2023-11-01, 05:28:41](https://news.ycombinator.com/item?id=38094895) - [M1 GPU on 2021 MacBook Pro is 137 times slower than 2017 Intel MacBook Pro](https://developer.apple.com/forums/thread/693678)
 * [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 * [2023-11-01, 01:43:37](https://news.ycombinator.com/item?id=38093669) - [Reflections on quitting my job](https://mooseyanon.medium.com/reflections-on-quitting-my-job-fe7410e15a6a)
 * [2023-11-01, 00:55:41](https://news.ycombinator.com/item?id=38093353) - [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
@@ -29,7 +30,6 @@
 * [2023-10-29, 17:05:18](https://news.ycombinator.com/item?id=38060517) - [Atari Video Music](https://en.wikipedia.org/wiki/Atari_Video_Music)
 * [2023-10-29, 14:42:07](https://news.ycombinator.com/item?id=38059047) - [RattleCAD](https://archive.org/details/rattlecad)
 * [2023-10-29, 14:14:07](https://news.ycombinator.com/item?id=38058843) - [Tao Te Ching – Gia-Fu Feng, Jane English Translation (1989)](https://terebess.hu/english/tao/gia.html)
-* [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 
 ## [Archives](archives/index.md)
 
