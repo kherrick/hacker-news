@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-01, 15:43:58](https://news.ycombinator.com/item?id=38099823) - [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
 * [2023-11-01, 15:31:47](https://news.ycombinator.com/item?id=38099633) - [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
 * [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
@@ -9,7 +10,6 @@
 * [2023-11-01, 14:30:05](https://news.ycombinator.com/item?id=38098647) - [How to Dockerize a React App and Deploy It Easily](https://mentorcruise.com/blog/how-to-dockerize-a-react-app-and-deploy-it-easily/)
 * [2023-11-01, 14:24:20](https://news.ycombinator.com/item?id=38098579) - [Architecture Considerations for platform engineering teams](https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/)
 * [2023-11-01, 14:17:14](https://news.ycombinator.com/item?id=38098490) - [Show HN: Anchor – developer-friendly private CAs for internal TLS](https://anchor.dev/)
-* [2023-11-01, 14:09:18](https://news.ycombinator.com/item?id=38098391) - [How America moves homeless people around the country](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
 * [2023-11-01, 13:53:01](https://news.ycombinator.com/item?id=38098185) - [A bank runs serverless with PHP and AWS Lambda](https://bref.sh/docs/case-studies/treezor)
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 13:24:11](https://news.ycombinator.com/item?id=38097858) - [Mozilla treats Debian devotees to the raw taste of Firefox Nightly](https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/)

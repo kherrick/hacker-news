@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 15:43:58](https://news.ycombinator.com/item?id=38099823) - [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
 * [2023-11-01, 15:31:47](https://news.ycombinator.com/item?id=38099633) - [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
 * [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
