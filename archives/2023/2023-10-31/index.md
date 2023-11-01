@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
 * [2023-10-31, 23:11:29](https://news.ycombinator.com/item?id=38092624) - [Black 4.0](https://www.culturehustleusa.com/products/black-4-0)
+* [2023-10-31, 23:10:59](https://news.ycombinator.com/item?id=38092617) - [AngleLock, improvement on T-slot aluminum framing system](https://anglelock.com/blog/aluminum-structural-framing-systems-t-slot)
 * [2023-10-31, 23:10:11](https://news.ycombinator.com/item?id=38092612) - [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
 * [2023-10-31, 23:08:51](https://news.ycombinator.com/item?id=38092596) - [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
 * [2023-10-31, 23:06:51](https://news.ycombinator.com/item?id=38092585) - [WeWork plans to file for bankruptcy as early as next week, source says](https://www.reuters.com/markets/deals/wework-plans-file-bankruptcy-early-next-week-wsj-2023-10-31/)
