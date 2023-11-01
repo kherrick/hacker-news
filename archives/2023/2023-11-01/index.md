@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 14:35:51](https://news.ycombinator.com/item?id=38098740) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)
 * [2023-11-01, 14:17:14](https://news.ycombinator.com/item?id=38098490) - [Show HN: Anchor – developer-friendly private CAs for internal TLS](https://anchor.dev/)
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 13:24:11](https://news.ycombinator.com/item?id=38097858) - [Mozilla treats Debian devotees to the raw taste of Firefox Nightly](https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/)
 * [2023-11-01, 13:15:38](https://news.ycombinator.com/item?id=38097769) - [Splunk to Cut Workforce by 7% After Cisco Deal](https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal)
+* [2023-11-01, 13:10:55](https://news.ycombinator.com/item?id=38097724) - [HubSpot Acquires Clearbit](https://www.hubspot.com/company-news/welcoming-clearbit-to-hubspot)
 * [2023-11-01, 13:07:57](https://news.ycombinator.com/item?id=38097681) - [Mazda files false DMCA takedown notice to intimidate open source programmer](https://news.ycombinator.com/item?id=38097681)
 * [2023-11-01, 12:36:53](https://news.ycombinator.com/item?id=38097395) - [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics)
 * [2023-11-01, 12:33:28](https://news.ycombinator.com/item?id=38097367) - [Europe eyes skies with aim to track space junk and boost orbital operations](https://www.theregister.com/2023/11/01/europe_space_tracking/)
