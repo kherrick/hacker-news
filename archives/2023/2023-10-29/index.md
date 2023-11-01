@@ -24,6 +24,7 @@
 * [2023-10-29, 17:47:20](https://news.ycombinator.com/item?id=38060912) - [Carl Sagan's Rules for Bullshit-Busting and Critical Thinking](https://www.themarginalian.org/2014/01/03/baloney-detection-kit-carl-sagan/)
 * [2023-10-29, 17:24:06](https://news.ycombinator.com/item?id=38060698) - [Genode – Genode on seL4 – IPC and virtual memory](https://genode.org/documentation/articles/sel4_part_2)
 * [2023-10-29, 17:09:37](https://news.ycombinator.com/item?id=38060566) - [Zima Board – Hackable Single Board Server](https://www.zimaboard.com/)
+* [2023-10-29, 17:05:18](https://news.ycombinator.com/item?id=38060517) - [Atari Video Music](https://en.wikipedia.org/wiki/Atari_Video_Music)
 * [2023-10-29, 17:01:02](https://news.ycombinator.com/item?id=38060468) - [Sieve (YC W22), the video/audio AI cloud, is hiring AI engineers](https://sievedata.com/about/jobs)
 * [2023-10-29, 16:31:26](https://news.ycombinator.com/item?id=38060159) - [Linear Algebra Done Right – 4th Edition](https://linear.axler.net)
 * [2023-10-29, 16:29:14](https://news.ycombinator.com/item?id=38060133) - [jQuery 4.0 99% Complete](https://github.com/jquery/jquery/milestone/7)
