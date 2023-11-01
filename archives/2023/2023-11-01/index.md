@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 17:26:44](https://news.ycombinator.com/item?id=38101629) - [YouTube's 'War' on Adblockers Shows How Google Controls the Internet](https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/)
+* [2023-11-01, 17:12:12](https://news.ycombinator.com/item?id=38101388) - [IBM cancels 401k matching, replaces with proprietary pension fund RBA](https://old.reddit.com/r/IBM/login/)
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 17:06:01](https://news.ycombinator.com/item?id=38101310) - [YouTube's ad blocker crackdown escalates, aggravating users](https://arstechnica.com/google/2023/11/youtube-tries-to-kill-ad-blockers-in-push-for-ad-dollars-premium-subs/)
 * [2023-11-01, 17:01:02](https://news.ycombinator.com/item?id=38101231) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions (Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
