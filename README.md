@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-01, 06:39:04](https://news.ycombinator.com/item?id=38095239) - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
 * [2023-11-01, 05:05:13](https://news.ycombinator.com/item?id=38094768) - [U.S. Sugar consumption trend from 1970-2021](https://www.ers.usda.gov/webdocs/charts/105375/Sweetener-availability.png?v=2156.8)
 * [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 * [2023-11-01, 00:14:03](https://news.ycombinator.com/item?id=38093083) - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
@@ -17,7 +18,6 @@
 * [2023-10-31, 17:33:47](https://news.ycombinator.com/item?id=38088435) - [Flies neglect food and endure shocks to seek a dopamine reward](https://www.dpag.ox.ac.uk/news/we-show-that-in-fruit-flies-a-subpopulation-of-reward-encoding-dopaminergic-neurons-antagonizes-punishment-encoding-neurons-and-can-override-punishment-or-hunger-cues-in-favour-of-reward-seeking-behaviour)
 * [2023-10-31, 15:59:57](https://news.ycombinator.com/item?id=38086894) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
 * [2023-10-31, 15:43:12](https://news.ycombinator.com/item?id=38086598) - [Show HN: MicroTCP, a minimal TCP/IP stack](https://github.com/cozis/microtcp)
-* [2023-10-31, 15:38:46](https://news.ycombinator.com/item?id=38086518) - [Mars Cyclers](https://planetocracy.substack.com/p/mars-cyclers)
 * [2023-10-31, 15:31:33](https://news.ycombinator.com/item?id=38086387) - [Show HN: Streamdal – an open-source tail -f for your data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)

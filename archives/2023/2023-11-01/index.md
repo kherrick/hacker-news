@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 06:39:04](https://news.ycombinator.com/item?id=38095239) - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
 * [2023-11-01, 05:05:13](https://news.ycombinator.com/item?id=38094768) - [U.S. Sugar consumption trend from 1970-2021](https://www.ers.usda.gov/webdocs/charts/105375/Sweetener-availability.png?v=2156.8)
 * [2023-11-01, 05:00:39](https://news.ycombinator.com/item?id=38094745) - [Islam Saved the Jews](https://kavvanah.blog/2012/06/04/how-islam-saved-the-jews-david-wasserstein/)
 * [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock-Origin – 1.53.0](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
