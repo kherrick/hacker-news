@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-10-31, 20:39:29",
-      "https://news.ycombinator.com/item?id=38091046"
-    ],
-    [
-      "ROScribe: An LLM-based robotic platform",
-      "https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 19:53:00",
       "https://news.ycombinator.com/item?id=38090521"
     ],
@@ -297,6 +287,16 @@
     [
       "The Pictorial C64 Fault Guide",
       "https://www.pictorial64.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 05:23:57",
+      "https://news.ycombinator.com/item?id=38055991"
+    ],
+    [
+      "Raven – CI/CD Security Analyzer",
+      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
