@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-10-31, 17:00:15",
+      "https://news.ycombinator.com/item?id=38087917"
+    ],
+    [
+      "Mux (YC W16) is hiring a Sr Platform Engineer for distributed, scaled video infra",
+      "https://www.mux.com/jobs?j=srplatform"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 15:59:57",
       "https://news.ycombinator.com/item?id=38086894"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-10-31, 00:30:14",
-      "https://news.ycombinator.com/item?id=38078063"
+      "2023-10-29, 22:56:38",
+      "https://news.ycombinator.com/item?id=38063687"
     ],
     [
-      "Apple unveils M3, M3 Pro, and M3 Max",
-      "https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/"
+      "Life Lessons from the Death Bed",
+      "https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Pictorial C64 Fault Guide",
       "https://www.pictorial64.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 05:23:57",
-      "https://news.ycombinator.com/item?id=38055991"
-    ],
-    [
-      "Raven – CI/CD Security Analyzer",
-      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
