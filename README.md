@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-01, 09:12:14](https://news.ycombinator.com/item?id=38096076) - [The Telegram app has been a key platform for Hamas. Now it's being restricted](https://www.npr.org/2023/10/31/1208800238/the-telegram-app-has-been-a-key-platform-for-hamas-now-its-being-restricted-ther)
 * [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
-* [2023-11-01, 07:40:07](https://news.ycombinator.com/item?id=38095542) - [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
+* [2023-11-01, 06:46:09](https://news.ycombinator.com/item?id=38095276) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 06:39:04](https://news.ycombinator.com/item?id=38095239) - [SQLite 3.44: Interactive release notes](https://antonz.org/sqlite-3-44/)
 * [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 * [2023-11-01, 00:55:41](https://news.ycombinator.com/item?id=38093353) - [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
@@ -23,6 +22,7 @@
 * [2023-10-31, 15:31:33](https://news.ycombinator.com/item?id=38086387) - [Show HN: Streamdal – an open-source tail -f for your data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
+* [2023-10-31, 00:30:14](https://news.ycombinator.com/item?id=38078063) - [Apple unveils M3, M3 Pro, and M3 Max](https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/)
 * [2023-10-29, 22:56:38](https://news.ycombinator.com/item?id=38063687) - [Life Lessons from the Death Bed](https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/)
 * [2023-10-29, 17:05:18](https://news.ycombinator.com/item?id=38060517) - [Atari Video Music](https://en.wikipedia.org/wiki/Atari_Video_Music)
 * [2023-10-29, 14:42:07](https://news.ycombinator.com/item?id=38059047) - [RattleCAD](https://archive.org/details/rattlecad)
