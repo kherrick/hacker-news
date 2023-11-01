@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-01, 18:31:54",
-      "https://news.ycombinator.com/item?id=38102760"
-    ],
-    [
-      "28 governments signed a declaration agreeing to cooperate on risks of AI",
-      "https://www.nytimes.com/2023/11/01/world/europe/uk-ai-summit-sunak.html"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 18:24:01",
       "https://news.ycombinator.com/item?id=38102636"
     ],
@@ -47,6 +37,16 @@
     [
       "WeWork nears bankruptcy",
       "https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 17:45:32",
+      "https://news.ycombinator.com/item?id=38101966"
+    ],
+    [
+      "Dot by New Computer",
+      "https://new.computer/"
     ]
   ],
   [
@@ -101,22 +101,12 @@
   ],
   [
     [
-      "2023-11-01, 16:43:28",
-      "https://news.ycombinator.com/item?id=38100932"
+      "2023-11-01, 16:07:22",
+      "https://news.ycombinator.com/item?id=38100284"
     ],
     [
-      "Cloudflare incident on October 30, 2023",
-      "https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 16:21:46",
-      "https://news.ycombinator.com/item?id=38100539"
-    ],
-    [
-      "Getting RISC-V (again): Milk-V's Mars CM",
-      "https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm"
+      "The .ing top-level domain",
+      "https://blog.google/products/registry/introducing-the-ing-top-level-domain/"
     ]
   ],
   [
@@ -127,16 +117,6 @@
     [
       "Perspective Market Simulation",
       "https://prospective.co/blog/market-simulation"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 15:31:47",
-      "https://news.ycombinator.com/item?id=38099633"
-    ],
-    [
-      "The Most Dangerous Codec in the World [pdf]",
-      "https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf"
     ]
   ],
   [
@@ -161,6 +141,26 @@
   ],
   [
     [
+      "2023-11-01, 14:59:15",
+      "https://news.ycombinator.com/item?id=38099061"
+    ],
+    [
+      "The Performance Impact of Session Replay: What We Found",
+      "https://www.highlight.io/blog/session-replay-performance"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 14:38:33",
+      "https://news.ycombinator.com/item?id=38098779"
+    ],
+    [
+      "Why doctors in America earn so much",
+      "https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 14:19:21",
       "https://news.ycombinator.com/item?id=38098513"
     ],
@@ -177,6 +177,16 @@
     [
       "Show HN: Anchor – developer-friendly private CAs for internal TLS",
       "https://anchor.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 13:53:01",
+      "https://news.ycombinator.com/item?id=38098185"
+    ],
+    [
+      "A bank runs serverless with PHP and AWS Lambda",
+      "https://bref.sh/docs/case-studies/treezor"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Why ACPI?",
       "https://mjg59.dreamwidth.org/68350.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 12:35:48",
-      "https://news.ycombinator.com/item?id=38083825"
-    ],
-    [
-      "History of the Enigma",
-      "https://cryptomuseum.com/crypto/enigma/hist.htm"
     ]
   ],
   [
