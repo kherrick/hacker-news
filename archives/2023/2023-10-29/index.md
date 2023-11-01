@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
 * [2023-10-29, 23:01:12](https://news.ycombinator.com/item?id=38063716) - [My dream job wasn't worth it: Former employees (Meta, McKinsey, JP Morgan) share](https://www.msn.com/en-in/money/topstories/my-dream-job-wasn-t-worth-it-former-employees-at-meta-mckinsey-and-jp-morgan-share-how-they-burned-out-and-left/ar-AA1j2kLG)
+* [2023-10-29, 22:56:38](https://news.ycombinator.com/item?id=38063687) - [Life Lessons from the Death Bed](https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/)
 * [2023-10-29, 22:37:50](https://news.ycombinator.com/item?id=38063555) - [The mortgage market is so bad lenders want ex-employees to give back bonuses](https://www.wsj.com/finance/banking/the-mortgage-market-is-so-bad-lenders-want-ex-employees-to-give-back-their-bonuses-52e96080)
 * [2023-10-29, 22:35:24](https://news.ycombinator.com/item?id=38063536) - [Pi in Other Universes: How the value of pi depends on the definition of distance](https://azeemba.com/posts/pi-in-other-universes.html)
 * [2023-10-29, 22:28:12](https://news.ycombinator.com/item?id=38063482) - [Casio fx-CG50 calculator comes with Python built-in](https://www.casio.com/intl/scientific-calculators/product.FX-CG50/)
