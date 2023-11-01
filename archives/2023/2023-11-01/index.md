@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 17:47:20](https://news.ycombinator.com/item?id=38101996) - [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
+* [2023-11-01, 17:34:15](https://news.ycombinator.com/item?id=38101760) - [YouTube's Ad Blocker Crackdown Is Getting Harder to Dodge](https://gizmodo.com/youtube-ad-blocker-crackdown-is-getting-harder-to-dodge-1850977548)
 * [2023-11-01, 17:26:44](https://news.ycombinator.com/item?id=38101629) - [YouTube's 'War' on Adblockers Shows How Google Controls the Internet](https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/)
+* [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 17:12:12](https://news.ycombinator.com/item?id=38101388) - [IBM cancels 401k matching, replaces with proprietary pension fund RBA](https://old.reddit.com/r/IBM/login/)
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 17:06:01](https://news.ycombinator.com/item?id=38101310) - [YouTube's ad blocker crackdown escalates, aggravating users](https://arstechnica.com/google/2023/11/youtube-tries-to-kill-ad-blockers-in-push-for-ad-dollars-premium-subs/)
