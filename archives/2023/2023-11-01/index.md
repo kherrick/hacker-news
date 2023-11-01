@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 16:10:48](https://news.ycombinator.com/item?id=38100345) - [LPDDR5-9600 smartphone memory is coming](https://liliputing.com/lpddr5-9600-smartphone-memory-is-coming/)
 * [2023-11-01, 16:07:22](https://news.ycombinator.com/item?id=38100284) - [Introduc ing the .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
 * [2023-11-01, 15:43:58](https://news.ycombinator.com/item?id=38099823) - [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
 * [2023-11-01, 15:31:47](https://news.ycombinator.com/item?id=38099633) - [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
 * [2023-11-01, 15:24:54](https://news.ycombinator.com/item?id=38099506) - [Facing 110 years in prison, Sam Bankman-Fried \"can't recall\" what he did at FTX](https://arstechnica.com/tech-policy/2023/10/facing-110-years-in-prison-sam-bankman-fried-cant-recall-what-he-did-at-ftx/)
+* [2023-11-01, 15:21:31](https://news.ycombinator.com/item?id=38099448) - [First Benchmark Results Surface for M3 Chip in New Macs](https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/)
 * [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 14:46:21](https://news.ycombinator.com/item?id=38098888) - [Top Best OpenWrt Routers for VPN in 2023](https://nixsanctuary.com/top-5-best-openwrt-routers-for-vpn-in-2023/)

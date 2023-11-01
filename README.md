@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-01, 16:07:22](https://news.ycombinator.com/item?id=38100284) - [Introduc ing the .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
+* [2023-11-01, 16:10:48](https://news.ycombinator.com/item?id=38100345) - [LPDDR5-9600 smartphone memory is coming](https://liliputing.com/lpddr5-9600-smartphone-memory-is-coming/)
 * [2023-11-01, 15:43:58](https://news.ycombinator.com/item?id=38099823) - [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
 * [2023-11-01, 15:31:47](https://news.ycombinator.com/item?id=38099633) - [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
 * [2023-11-01, 15:24:54](https://news.ycombinator.com/item?id=38099506) - [Facing 110 years in prison, Sam Bankman-Fried \"can't recall\" what he did at FTX](https://arstechnica.com/tech-policy/2023/10/facing-110-years-in-prison-sam-bankman-fried-cant-recall-what-he-did-at-ftx/)
+* [2023-11-01, 15:21:31](https://news.ycombinator.com/item?id=38099448) - [First Benchmark Results Surface for M3 Chip in New Macs](https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/)
 * [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 14:35:51](https://news.ycombinator.com/item?id=38098740) - [NASA Tech Breathes Life into Potentially Game-Changing Antenna Design](https://www.eenewseurope.com/en/from-chocolate-pudding-to-new-antenna-design/)
@@ -29,7 +30,6 @@
 * [2023-10-31, 18:27:15](https://news.ycombinator.com/item?id=38089247) - [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
 * [2023-10-29, 22:56:38](https://news.ycombinator.com/item?id=38063687) - [Life lessons from the death bed](https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/)
 * [2023-10-29, 14:42:07](https://news.ycombinator.com/item?id=38059047) - [RattleCAD](https://archive.org/details/rattlecad)
-* [2023-10-29, 14:14:07](https://news.ycombinator.com/item?id=38058843) - [Tao Te Ching – Gia-Fu Feng, Jane English Translation (1989)](https://terebess.hu/english/tao/gia.html)
 
 ## [Archives](archives/index.md)
 
