@@ -96,6 +96,7 @@
 * [2023-10-30, 10:35:57](https://news.ycombinator.com/item?id=38067702) - [The future of warfare: A $400 drone killing a $2M tank](https://www.politico.eu/article/future-warfare-400-army-strike-drone-unit-2m-tank/)
 * [2023-10-30, 10:05:37](https://news.ycombinator.com/item?id=38067494) - [People with autism less likely to succumb to bystander effect, research finds](https://www.sciencedaily.com/releases/2023/10/231026131628.htm)
 * [2023-10-30, 10:02:54](https://news.ycombinator.com/item?id=38067477) - [Biden to issue first regulations on artificial intelligence systems](https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html)
+* [2023-10-30, 10:00:06](https://news.ycombinator.com/item?id=38067457) - [EmbLua: Lua for Microcontrollers](https://github.com/szieke/embLua)
 * [2023-10-30, 09:35:29](https://news.ycombinator.com/item?id=38067314) - [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
 * [2023-10-30, 09:21:29](https://news.ycombinator.com/item?id=38067206) - [AI.gov](https://ai.gov/)
 * [2023-10-30, 08:45:33](https://news.ycombinator.com/item?id=38066992) - [Linux Man Pages in the \"Miscellaneous Information\" Section](https://www.man7.org/linux/man-pages/man7/)

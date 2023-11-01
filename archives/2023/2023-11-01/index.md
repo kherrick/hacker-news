@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 18:15:38](https://news.ycombinator.com/item?id=38102458) - [M3 MacBook Pro: Base Model Has Only 8GB RAM](https://www.apple.com/macbook-pro/specs/)
 * [2023-11-01, 17:47:20](https://news.ycombinator.com/item?id=38101996) - [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
 * [2023-11-01, 17:34:15](https://news.ycombinator.com/item?id=38101760) - [YouTube's Ad Blocker Crackdown Is Getting Harder to Dodge](https://gizmodo.com/youtube-ad-blocker-crackdown-is-getting-harder-to-dodge-1850977548)
 * [2023-11-01, 17:26:44](https://news.ycombinator.com/item?id=38101629) - [YouTube's 'War' on Adblockers Shows How Google Controls the Internet](https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/)
