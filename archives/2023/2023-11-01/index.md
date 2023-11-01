@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 18:40:26](https://news.ycombinator.com/item?id=38102885) - [US consumer spending dashboard built on data from 50M+ cards now on Snowflake](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/)
 * [2023-11-01, 18:39:57](https://news.ycombinator.com/item?id=38102876) - [UN official in New York steps down citing 'genocide' in Palestine](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
 * [2023-11-01, 18:31:54](https://news.ycombinator.com/item?id=38102760) - [28 governments signed a declaration agreeing to cooperate on risks of AI](https://www.nytimes.com/2023/11/01/world/europe/uk-ai-summit-sunak.html)
 * [2023-11-01, 18:24:01](https://news.ycombinator.com/item?id=38102636) - [Heat pumps can't take the cold? Nordics debunk the myth](https://techxplore.com/news/2023-10-cold-nordics-debunk-myth.html)
 * [2023-11-01, 18:15:38](https://news.ycombinator.com/item?id=38102458) - [M3 MacBook Pro: Base Model Has Only 8GB RAM](https://www.apple.com/macbook-pro/specs/)
 * [2023-11-01, 17:59:44](https://news.ycombinator.com/item?id=38102208) - [State of emergency declared after lead and copper found in St. Croix tap water](https://apnews.com/article/st-croix-state-emergency-water-contaminated-lead-28a8e67a0069b08f6f7782bea6c77863)
 * [2023-11-01, 17:52:58](https://news.ycombinator.com/item?id=38102096) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
+* [2023-11-01, 17:51:59](https://news.ycombinator.com/item?id=38102082) - [Bitwarden Adds Support for Passkeys](https://bitwarden.com/help/releasenotes/)
 * [2023-11-01, 17:47:20](https://news.ycombinator.com/item?id=38101996) - [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
 * [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)
 * [2023-11-01, 17:34:15](https://news.ycombinator.com/item?id=38101760) - [YouTube's Ad Blocker Crackdown Is Getting Harder to Dodge](https://gizmodo.com/youtube-ad-blocker-crackdown-is-getting-harder-to-dodge-1850977548)
