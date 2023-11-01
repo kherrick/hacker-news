@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-01, 21:05:17](https://news.ycombinator.com/item?id=38105232) - [Help Wanted at LWN](https://lwn.net/Articles/949461/)
 * [2023-11-01, 20:16:37](https://news.ycombinator.com/item?id=38104407) - [Some thoughts about The Verge article on SEO](https://dannysullivan.com/thoughts-verge-article-seo-6558)
 * [2023-11-01, 20:13:22](https://news.ycombinator.com/item?id=38104352) - [Tell HN: Revolut suspended my account for no reason](https://news.ycombinator.com/item?id=38104352)
 * [2023-11-01, 19:37:55](https://news.ycombinator.com/item?id=38103733) - [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
@@ -19,7 +20,6 @@
 * [2023-11-01, 16:07:22](https://news.ycombinator.com/item?id=38100284) - [The .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 14:38:33](https://news.ycombinator.com/item?id=38098779) - [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
-* [2023-11-01, 14:19:21](https://news.ycombinator.com/item?id=38098513) - [Attenuating Innovation (AI)](https://stratechery.com/2023/attenuating-innovation-ai/)
 * [2023-11-01, 14:17:14](https://news.ycombinator.com/item?id=38098490) - [Show HN: Anchor – developer-friendly private CAs for internal TLS](https://anchor.dev/)
 * [2023-11-01, 13:53:01](https://news.ycombinator.com/item?id=38098185) - [A bank runs serverless with PHP and AWS Lambda](https://bref.sh/docs/case-studies/treezor)
 * [2023-11-01, 12:07:32](https://news.ycombinator.com/item?id=38097184) - [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)

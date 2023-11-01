@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 21:05:17](https://news.ycombinator.com/item?id=38105232) - [Help Wanted at LWN](https://lwn.net/Articles/949461/)
 * [2023-11-01, 20:16:37](https://news.ycombinator.com/item?id=38104407) - [Some thoughts about The Verge article on SEO](https://dannysullivan.com/thoughts-verge-article-seo-6558)
 * [2023-11-01, 20:13:22](https://news.ycombinator.com/item?id=38104352) - [Tell HN: Revolut suspended my account for no reason](https://news.ycombinator.com/item?id=38104352)
 * [2023-11-01, 19:37:55](https://news.ycombinator.com/item?id=38103733) - [FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]](https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf)
