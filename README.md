@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-01, 01:43:37](https://news.ycombinator.com/item?id=38093669) - [Reflections on Quitting My Job](https://mooseyanon.medium.com/reflections-on-quitting-my-job-fe7410e15a6a)
+* [2023-11-01, 00:59:45](https://news.ycombinator.com/item?id=38093375) - [Louis Rossmann given three YouTube community guideline strikes](https://twitter.com/FUTO_Tech/status/1719468941582442871)
 * [2023-11-01, 00:14:03](https://news.ycombinator.com/item?id=38093083) - [Show HN: Halloween game to show off my new Terminal](https://joel.tools/halloween/)
 * [2023-10-31, 23:10:11](https://news.ycombinator.com/item?id=38092612) - [Norwegian ban on Meta behavioral advertising extended to entire EU](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2023/datatilsynets-vedtak-mot-meta-utvides-til-eueos-og-gjores-permanent/)
 * [2023-10-31, 23:08:51](https://news.ycombinator.com/item?id=38092596) - [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
@@ -29,7 +30,6 @@
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 * [2023-10-29, 13:41:30](https://news.ycombinator.com/item?id=38058564) - [What China's slow-motion real estate crisis means for the global economy](https://www.cnbc.com/2023/10/27/what-chinas-slow-motion-property-crisis-means-for-the-global-economy.html)
 * [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
-* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 
