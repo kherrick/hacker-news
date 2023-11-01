@@ -62,6 +62,7 @@
 * [2023-11-01, 13:53:01](https://news.ycombinator.com/item?id=38098185) - [A bank runs serverless with PHP and AWS Lambda](https://bref.sh/docs/case-studies/treezor)
 * [2023-11-01, 13:40:44](https://news.ycombinator.com/item?id=38098046) - [Unveiling Ragna: An Open Source RAG-Based AI Orchestration Framework](https://quansight.com/post/unveiling-ragna-an-open-source-rag-based-ai-orchestration-framework-designed-to-scale-from-research-to-production/)
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
+* [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
 * [2023-11-01, 13:24:11](https://news.ycombinator.com/item?id=38097858) - [Mozilla treats Debian devotees to the raw taste of Firefox Nightly](https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/)
 * [2023-11-01, 13:15:38](https://news.ycombinator.com/item?id=38097769) - [Splunk to Cut Workforce by 7% After Cisco Deal](https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal)
 * [2023-11-01, 13:10:55](https://news.ycombinator.com/item?id=38097724) - [HubSpot Acquires Clearbit](https://www.hubspot.com/company-news/welcoming-clearbit-to-hubspot)
