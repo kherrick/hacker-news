@@ -14,6 +14,7 @@
 * [2023-11-01, 12:07:32](https://news.ycombinator.com/item?id=38097184) - [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
 * [2023-11-01, 12:00:43](https://news.ycombinator.com/item?id=38097142) - [Govly (YC S21) Is Hiring Fullstack Engineers (Ruby/React)](https://www.govly.com/careers)
 * [2023-11-01, 11:55:25](https://news.ycombinator.com/item?id=38097097) - [A bold new look for the Gov.uk homepage](https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/)
+* [2023-11-01, 11:47:53](https://news.ycombinator.com/item?id=38097031) - [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
 * [2023-11-01, 11:35:31](https://news.ycombinator.com/item?id=38096955) - [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
 * [2023-11-01, 10:22:49](https://news.ycombinator.com/item?id=38096508) - [WeWork shares sink on reports of imminent plans for bankruptcy filing](https://www.reuters.com/business/wework-shares-sink-reports-imminent-plans-bankruptcy-filing-2023-11-01/)
 * [2023-11-01, 09:12:14](https://news.ycombinator.com/item?id=38096076) - [The Telegram app has been a key platform for Hamas. Now it's being restricted](https://www.npr.org/2023/10/31/1208800238/the-telegram-app-has-been-a-key-platform-for-hamas-now-its-being-restricted-ther)
