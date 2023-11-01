@@ -21,7 +21,6 @@
 * [2023-10-31, 14:29:51](https://news.ycombinator.com/item?id=38085417) - [Home schooling's rise from fringe to fastest-growing form of education](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/)
 * [2023-10-31, 13:46:58](https://news.ycombinator.com/item?id=38084737) - [Penn and Teller's Lab Scam [video] (1990)](https://www.youtube.com/watch?v=fxMKuv0A6z4)
 * [2023-10-31, 13:15:16](https://news.ycombinator.com/item?id=38084337) - [Alliance of 40 countries to vow not to pay ransom to cybercriminals, US says](https://www.reuters.com/technology/alliance-40-countries-vow-not-pay-ransom-cybercriminals-us-says-2023-10-31/)
-* [2023-10-31, 12:56:43](https://news.ycombinator.com/item?id=38084098) - [Show HN: Light implementation of Event Sourcing using PostgreSQL as event store](https://github.com/eugene-khyst/postgresql-event-sourcing)
 * [2023-10-31, 12:04:58](https://news.ycombinator.com/item?id=38083484) - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-29, 17:05:18](https://news.ycombinator.com/item?id=38060517) - [Atari Video Music](https://en.wikipedia.org/wiki/Atari_Video_Music)
@@ -30,6 +29,7 @@
 * [2023-10-29, 14:12:19](https://news.ycombinator.com/item?id=38058826) - [Solution 26370: Removing a new Texas Instruments calculator from the package](https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/general-information/26370)
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 * [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
+* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 
