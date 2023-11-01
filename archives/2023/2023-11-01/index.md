@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 16:21:46](https://news.ycombinator.com/item?id=38100539) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 16:10:48](https://news.ycombinator.com/item?id=38100345) - [LPDDR5-9600 smartphone memory is coming](https://liliputing.com/lpddr5-9600-smartphone-memory-is-coming/)
 * [2023-11-01, 16:07:22](https://news.ycombinator.com/item?id=38100284) - [Introduc ing the .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
 * [2023-11-01, 15:43:58](https://news.ycombinator.com/item?id=38099823) - [MistralLite by Amazon Web Services](https://huggingface.co/amazon/MistralLite)
@@ -19,6 +20,7 @@
 * [2023-11-01, 14:31:29](https://news.ycombinator.com/item?id=38098671) - [10 Reasons to Fight Cashless Contagion](https://brettscott.substack.com/p/10-reasons-to-fight-cashless-society)
 * [2023-11-01, 14:30:05](https://news.ycombinator.com/item?id=38098647) - [How to Dockerize a React App and Deploy It Easily](https://mentorcruise.com/blog/how-to-dockerize-a-react-app-and-deploy-it-easily/)
 * [2023-11-01, 14:24:20](https://news.ycombinator.com/item?id=38098579) - [Architecture Considerations for platform engineering teams](https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/)
+* [2023-11-01, 14:19:21](https://news.ycombinator.com/item?id=38098513) - [Attenuating Innovation (AI)](https://stratechery.com/2023/attenuating-innovation-ai/)
 * [2023-11-01, 14:17:14](https://news.ycombinator.com/item?id=38098490) - [Show HN: Anchor – developer-friendly private CAs for internal TLS](https://anchor.dev/)
 * [2023-11-01, 14:09:18](https://news.ycombinator.com/item?id=38098391) - [How America moves homeless people around the country](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
 * [2023-11-01, 13:53:01](https://news.ycombinator.com/item?id=38098185) - [A bank runs serverless with PHP and AWS Lambda](https://bref.sh/docs/case-studies/treezor)
@@ -40,6 +42,7 @@
 * [2023-11-01, 11:35:31](https://news.ycombinator.com/item?id=38096955) - [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
 * [2023-11-01, 10:22:49](https://news.ycombinator.com/item?id=38096508) - [WeWork shares sink on reports of imminent plans for bankruptcy filing](https://www.reuters.com/business/wework-shares-sink-reports-imminent-plans-bankruptcy-filing-2023-11-01/)
 * [2023-11-01, 09:12:14](https://news.ycombinator.com/item?id=38096076) - [The Telegram app has been a key platform for Hamas. Now it's being restricted](https://www.npr.org/2023/10/31/1208800238/the-telegram-app-has-been-a-key-platform-for-hamas-now-its-being-restricted-ther)
+* [2023-11-01, 08:49:37](https://news.ycombinator.com/item?id=38095911) - [Open-access reformers launch next bold publishing plan](https://www.nature.com/articles/d41586-023-03342-6)
 * [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 07:40:07](https://news.ycombinator.com/item?id=38095542) - [What the Goddamn Hell Is Going on in the Tech Industry? – Ludicity](https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/)
 * [2023-11-01, 06:46:09](https://news.ycombinator.com/item?id=38095276) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
