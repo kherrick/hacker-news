@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-10-31, 13:46:58",
-      "https://news.ycombinator.com/item?id=38084737"
-    ],
-    [
-      "Penn and Teller's Lab Scam [video] (1990)",
-      "https://www.youtube.com/watch?v=fxMKuv0A6z4"
-    ]
-  ],
-  [
-    [
       "2023-10-31, 13:15:16",
       "https://news.ycombinator.com/item?id=38084337"
     ],
@@ -297,6 +287,16 @@
     [
       "The Pictorial C64 Fault Guide",
       "https://www.pictorial64.com/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 05:23:57",
+      "https://news.ycombinator.com/item?id=38055991"
+    ],
+    [
+      "Raven – CI/CD Security Analyzer",
+      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
