@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38089980"
     ],
     [
-      "The Ten Rules of Schema Growth",
+      "Rules of schema growth (2017)",
       "https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-10-29, 14:42:07",
+      "https://news.ycombinator.com/item?id=38059047"
+    ],
+    [
+      "RattleCAD",
+      "https://archive.org/details/rattlecad"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 14:14:07",
       "https://news.ycombinator.com/item?id=38058843"
     ],
@@ -287,16 +297,6 @@
     [
       "The Pictorial C64 Fault Guide",
       "https://www.pictorial64.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 05:23:57",
-      "https://news.ycombinator.com/item?id=38055991"
-    ],
-    [
-      "Raven – CI/CD Security Analyzer",
-      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
