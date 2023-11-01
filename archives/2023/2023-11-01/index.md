@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 18:31:54](https://news.ycombinator.com/item?id=38102760) - [28 governments signed a declaration agreeing to cooperate on risks of AI](https://www.nytimes.com/2023/11/01/world/europe/uk-ai-summit-sunak.html)
 * [2023-11-01, 18:15:38](https://news.ycombinator.com/item?id=38102458) - [M3 MacBook Pro: Base Model Has Only 8GB RAM](https://www.apple.com/macbook-pro/specs/)
 * [2023-11-01, 17:47:20](https://news.ycombinator.com/item?id=38101996) - [Once valued at $47B, coworking-space provider WeWork nears bankruptcy](https://arstechnica.com/tech-policy/2023/11/once-valued-at-47-billion-coworking-space-provider-wework-nears-bankruptcy/)
 * [2023-11-01, 17:34:15](https://news.ycombinator.com/item?id=38101760) - [YouTube's Ad Blocker Crackdown Is Getting Harder to Dodge](https://gizmodo.com/youtube-ad-blocker-crackdown-is-getting-harder-to-dodge-1850977548)
@@ -15,6 +16,7 @@
 * [2023-11-01, 17:01:02](https://news.ycombinator.com/item?id=38101231) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions (Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-11-01, 17:00:13](https://news.ycombinator.com/item?id=38101219) - [AI detectors are destroying innocent writers' livelihoods](https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods)
 * [2023-11-01, 16:53:32](https://news.ycombinator.com/item?id=38101108) - [Nile Templates – the quickest way to build modern SaaS](https://www.thenile.dev/blog/launching-templates)
+* [2023-11-01, 16:43:28](https://news.ycombinator.com/item?id=38100932) - [Cloudflare incident on October 30, 2023](https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/)
 * [2023-11-01, 16:28:42](https://news.ycombinator.com/item?id=38100672) - [SQLite 3.44.0 Released](https://sqlite.org/releaselog/3_44_0.html)
 * [2023-11-01, 16:27:15](https://news.ycombinator.com/item?id=38100643) - [Cities Skylines II renders invividual teeth of all human models](https://twitter.com/tombomp/status/1717641500891238536)
 * [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [The hidden culprit driving America's apocalypse of boarded-up storefronts](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
