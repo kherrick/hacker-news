@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
+* [2023-11-01, 17:06:01](https://news.ycombinator.com/item?id=38101310) - [YouTube's ad blocker crackdown escalates, aggravating users](https://arstechnica.com/google/2023/11/youtube-tries-to-kill-ad-blockers-in-push-for-ad-dollars-premium-subs/)
 * [2023-11-01, 17:01:02](https://news.ycombinator.com/item?id=38101231) - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions (Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-11-01, 17:00:13](https://news.ycombinator.com/item?id=38101219) - [AI detectors are destroying innocent writers' livelihoods](https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods)
 * [2023-11-01, 16:53:32](https://news.ycombinator.com/item?id=38101108) - [Nile Templates – the quickest way to build modern SaaS](https://www.thenile.dev/blog/launching-templates)
