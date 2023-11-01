@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-01, 17:07:38",
+      "https://news.ycombinator.com/item?id=38101328"
+    ],
+    [
+      "Asahi Linux goes from Apple Silicon port project to macOS bug hunters",
+      "https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 17:01:02",
       "https://news.ycombinator.com/item?id=38101231"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2023-11-01, 17:00:13",
+      "https://news.ycombinator.com/item?id=38101219"
+    ],
+    [
+      "AI detectors are destroying innocent writers' livelihoods",
+      "https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 16:53:32",
+      "https://news.ycombinator.com/item?id=38101108"
+    ],
+    [
+      "Nile Templates – the quickest way to build modern SaaS",
+      "https://www.thenile.dev/blog/launching-templates"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 16:28:42",
       "https://news.ycombinator.com/item?id=38100672"
     ],
     [
-      "SQLite 3.44.0 Released",
+      "SQLite 3.44.0",
       "https://sqlite.org/releaselog/3_44_0.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 16:27:15",
+      "https://news.ycombinator.com/item?id=38100643"
+    ],
+    [
+      "Cities Skylines II renders invividual teeth of all human models",
+      "https://twitter.com/tombomp/status/1717641500891238536"
     ]
   ],
   [
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2023-11-01, 15:43:58",
-      "https://news.ycombinator.com/item?id=38099823"
-    ],
-    [
-      "MistralLite by Amazon Web Services",
-      "https://huggingface.co/amazon/MistralLite"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 15:31:47",
       "https://news.ycombinator.com/item?id=38099633"
     ],
@@ -77,6 +107,16 @@
     [
       "First Benchmark Results Surface for M3 Chip in New Macs",
       "https://www.macrumors.com/2023/11/01/m3-chip-benchmark-results/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 15:03:11",
+      "https://news.ycombinator.com/item?id=38099145"
+    ],
+    [
+      "Htmx, Rust and Shuttle: A New Rapid Prototyping Stack",
+      "https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust"
     ]
   ],
   [
@@ -107,26 +147,6 @@
     [
       "Dockerize a React app",
       "https://mentorcruise.com/blog/how-to-dockerize-a-react-app-and-deploy-it-easily/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 14:24:20",
-      "https://news.ycombinator.com/item?id=38098579"
-    ],
-    [
-      "Architecture Considerations for platform engineering teams",
-      "https://thenewstack.io/platform-engineering/architecture-and-design-considerations-for-platform-engineering-teams/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 14:19:21",
-      "https://news.ycombinator.com/item?id=38098513"
-    ],
-    [
-      "Attenuating Innovation (AI)",
-      "https://stratechery.com/2023/attenuating-innovation-ai/"
     ]
   ],
   [
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=38097769"
     ],
     [
-      "Splunk to Cut Workforce by 7% After Cisco Deal",
+      "Splunk to cut workforce by 7% after cisco deal",
       "https://www.bloomberg.com/news/articles/2023-11-01/splunk-to-cut-workforce-by-7-after-cisco-deal"
     ]
   ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-11-01, 10:22:49",
-      "https://news.ycombinator.com/item?id=38096508"
-    ],
-    [
-      "WeWork shares sink on reports of imminent plans for bankruptcy filing",
-      "https://www.reuters.com/business/wework-shares-sink-reports-imminent-plans-bankruptcy-filing-2023-11-01/"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 08:08:09",
       "https://news.ycombinator.com/item?id=38095699"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2023-10-31, 18:33:52",
-      "https://news.ycombinator.com/item?id=38089342"
+      "2023-10-31, 12:35:48",
+      "https://news.ycombinator.com/item?id=38083825"
     ],
     [
-      "macOS Sonoma Boot Failures",
-      "https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures"
+      "History of the Enigma",
+      "https://cryptomuseum.com/crypto/enigma/hist.htm"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Life lessons from the death bed",
       "https://isonomiaquarterly.com/archive/volume-1-issue-2/life-lessons-from-the-death-bed/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 14:42:07",
-      "https://news.ycombinator.com/item?id=38059047"
-    ],
-    [
-      "RattleCAD",
-      "https://archive.org/details/rattlecad"
     ]
   ]
 ]
