@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-11-01, 19:37:55",
-      "https://news.ycombinator.com/item?id=38103733"
-    ],
-    [
-      "FCC launches inquiry to increase minimum broadband speed [pdf]",
-      "https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 19:26:26",
       "https://news.ycombinator.com/item?id=38103560"
     ],
@@ -297,6 +287,16 @@
     [
       "Boot legacy PCs from NVMe storage",
       "https://github.com/Manawyrm/nvme-int13h-optionrom"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 19:12:41",
+      "https://news.ycombinator.com/item?id=38074276"
+    ],
+    [
+      "Mini-08 single-board computer based on the 8008 CPU [video]",
+      "https://www.youtube.com/watch?v=oFVjI7945CU"
     ]
   ]
 ]
