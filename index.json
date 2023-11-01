@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-01, 19:37:55",
+      "https://news.ycombinator.com/item?id=38103733"
+    ],
+    [
+      "FCC to propose a minimum 100mbps to qualify as broadband, future goal of 1gbps [pdf]",
+      "https://docs.fcc.gov/public/attachments/DOC-398168A1.pdf"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 19:31:58",
       "https://news.ycombinator.com/item?id=38103638"
     ],
     [
       "Establishment of the U.S. Artificial Intelligence Safety Institute",
       "https://www.commerce.gov/news/press-releases/2023/11/direction-president-biden-department-commerce-establish-us-artificial"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 19:06:15",
+      "https://news.ycombinator.com/item?id=38103310"
+    ],
+    [
+      "How to (and how not to) design REST APIs",
+      "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Crowd Funding the Release of OpenCV 5",
       "https://www.indiegogo.com/projects/opencv-5-support-non-profit-open-source-cv-ai"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 18:24:01",
-      "https://news.ycombinator.com/item?id=38102636"
-    ],
-    [
-      "Heat pumps can't take the cold? Nordics debunk the myth",
-      "https://techxplore.com/news/2023-10-cold-nordics-debunk-myth.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "A bank runs serverless with PHP and AWS Lambda",
       "https://bref.sh/docs/case-studies/treezor"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 13:40:44",
-      "https://news.ycombinator.com/item?id=38098046"
-    ],
-    [
-      "Unveiling Ragna: An Open Source RAG-Based AI Orchestration Framework",
-      "https://quansight.com/post/unveiling-ragna-an-open-source-rag-based-ai-orchestration-framework-designed-to-scale-from-research-to-production/"
     ]
   ],
   [
