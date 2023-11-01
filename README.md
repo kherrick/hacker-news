@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-01, 15:31:47](https://news.ycombinator.com/item?id=38099633) - [The Most Dangerous Codec in the World [pdf]](https://www.usenix.org/system/files/usenixsecurity23-vasquez_1.pdf)
 * [2023-11-01, 15:03:11](https://news.ycombinator.com/item?id=38099145) - [Htmx, Rust and Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 14:46:21](https://news.ycombinator.com/item?id=38098888) - [Top Best OpenWrt Routers for VPN in 2023](https://nixsanctuary.com/top-5-best-openwrt-routers-for-vpn-in-2023/)
@@ -23,7 +24,6 @@
 * [2023-11-01, 10:22:49](https://news.ycombinator.com/item?id=38096508) - [WeWork shares sink on reports of imminent plans for bankruptcy filing](https://www.reuters.com/business/wework-shares-sink-reports-imminent-plans-bankruptcy-filing-2023-11-01/)
 * [2023-11-01, 08:08:09](https://news.ycombinator.com/item?id=38095699) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 06:46:09](https://news.ycombinator.com/item?id=38095276) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
-* [2023-11-01, 04:33:02](https://news.ycombinator.com/item?id=38094620) - [uBlock Origin 1.53](https://github.com/gorhill/uBlock/releases/tag/1.53.0)
 * [2023-11-01, 00:55:41](https://news.ycombinator.com/item?id=38093353) - [Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
 * [2023-10-31, 18:33:52](https://news.ycombinator.com/item?id=38089342) - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
 * [2023-10-31, 18:27:15](https://news.ycombinator.com/item?id=38089247) - [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
