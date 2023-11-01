@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-01, 04:33:02",
+      "https://news.ycombinator.com/item?id=38094620"
+    ],
+    [
+      "uBlock-Origin – 1.53.0",
+      "https://github.com/gorhill/uBlock/releases/tag/1.53.0"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 01:43:37",
       "https://news.ycombinator.com/item?id=38093669"
     ],
@@ -287,16 +297,6 @@
     [
       "The Pictorial C64 Fault Guide",
       "https://www.pictorial64.com/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 05:23:57",
-      "https://news.ycombinator.com/item?id=38055991"
-    ],
-    [
-      "Raven – CI/CD Security Analyzer",
-      "https://github.com/CycodeLabs/raven"
     ]
   ]
 ]
