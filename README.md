@@ -6,7 +6,6 @@
 * [2023-10-31, 23:08:51](https://news.ycombinator.com/item?id=38092596) - [M51: A Feast for the Eyes](https://esawebb.org/images/potm2308a/)
 * [2023-10-31, 21:32:02](https://news.ycombinator.com/item?id=38091679) - [A giant European telescope rises as U.S. rivals await rescue](https://www.science.org/content/article/giant-european-telescope-rises-u-s-rivals-await-rescue)
 * [2023-10-31, 21:23:11](https://news.ycombinator.com/item?id=38091569) - [Moonbase Alpha Travel Tube Details](https://catacombs.space1999.net/main/cguide/umtravel.html)
-* [2023-10-31, 20:39:29](https://news.ycombinator.com/item?id=38091046) - [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
 * [2023-10-31, 19:53:00](https://news.ycombinator.com/item?id=38090521) - [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
 * [2023-10-31, 19:15:44](https://news.ycombinator.com/item?id=38089980) - [Rules of schema growth (2017)](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 * [2023-10-31, 18:33:52](https://news.ycombinator.com/item?id=38089342) - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
@@ -30,6 +29,7 @@
 * [2023-10-29, 14:12:19](https://news.ycombinator.com/item?id=38058826) - [Solution 26370: Removing a new Texas Instruments calculator from the package](https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/general-information/26370)
 * [2023-10-29, 14:04:15](https://news.ycombinator.com/item?id=38058765) - [Building a Digital Audio Mixer](https://blog.brixit.nl/building-a-digital-audio-mixer/)
 * [2023-10-29, 10:37:26](https://news.ycombinator.com/item?id=38057293) - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
+* [2023-10-29, 05:23:57](https://news.ycombinator.com/item?id=38055991) - [Raven – CI/CD Security Analyzer](https://github.com/CycodeLabs/raven)
 
 ## [Archives](archives/index.md)
 
