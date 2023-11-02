@@ -2,6 +2,7 @@
 
 * [2023-11-02, 10:34:26](https://news.ycombinator.com/item?id=38111483) - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
+* [2023-11-02, 08:14:50](https://news.ycombinator.com/item?id=38110392) - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-02, 07:43:28](https://news.ycombinator.com/item?id=38110144) - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
@@ -11,7 +12,6 @@
 * [2023-11-02, 06:13:21](https://news.ycombinator.com/item?id=38109575) - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
-* [2023-11-02, 04:05:21](https://news.ycombinator.com/item?id=38108873) - [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
 * [2023-11-02, 01:59:34](https://news.ycombinator.com/item?id=38108044) - [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
 * [2023-11-02, 01:16:22](https://news.ycombinator.com/item?id=38107711) - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 * [2023-11-02, 01:01:48](https://news.ycombinator.com/item?id=38107595) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
