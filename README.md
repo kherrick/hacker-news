@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 18:08:32](https://news.ycombinator.com/item?id=38117689) - [Microsoft is removing Maps and Movies and TV from Windows 11](https://gadgettendency.com/microsoft-is-removing-maps-and-movies-tv-from-windows-11/)
 * [2023-11-02, 17:41:37](https://news.ycombinator.com/item?id=38117289) - [Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
-* [2023-11-02, 17:34:53](https://news.ycombinator.com/item?id=38117167) - [The Beatles Release 'Now and Then'](https://www.goldradiouk.com/artists/the-beatles/now-and-then-listen-stream-video/)
 * [2023-11-02, 17:00:49](https://news.ycombinator.com/item?id=38116571) - [Ciro (YC S22) is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
 * [2023-11-02, 16:56:54](https://news.ycombinator.com/item?id=38116498) - [Martin Fowler – Current thoughts on social media](https://martinfowler.com/articles/2023-social-media.html)
 * [2023-11-02, 16:41:28](https://news.ycombinator.com/item?id=38116238) - [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
