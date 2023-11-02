@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
+* [2023-11-02, 12:14:44](https://news.ycombinator.com/item?id=38112421) - [Zephr plans to create a \"networked GPS\" using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
 * [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2023-11-02, 11:30:31](https://news.ycombinator.com/item?id=38111925) - [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
 * [2023-11-02, 10:34:26](https://news.ycombinator.com/item?id=38111483) - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
@@ -9,7 +11,6 @@
 * [2023-11-02, 07:43:28](https://news.ycombinator.com/item?id=38110144) - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 07:29:34](https://news.ycombinator.com/item?id=38110059) - [Silicon Valley doesn't understand the concept of fun](https://www.fastcompany.com/90965361/why-did-the-metaverse-die-silicon-valley-doesnt-understand-fun)
-* [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite (2020)](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [2023-11-02, 06:24:29](https://news.ycombinator.com/item?id=38109646) - [Show HN: Tailspin – A Log File Highlighter](https://github.com/bensadeh/tailspin)
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
@@ -25,7 +26,6 @@
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now You're Thinking with Relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
-* [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 04:06:18](https://news.ycombinator.com/item?id=38094500) - [Making Bulletproof Wood [video]](https://www.youtube.com/watch?v=CglNRNrMFGM)
 * [2023-10-31, 20:37:16](https://news.ycombinator.com/item?id=38091024) - [Now Showing, an Ancient Spell Book for the Dead](https://www.nytimes.com/2023/10/31/science/archaeology-egypt-book-dead.html)
 * [2023-10-31, 08:23:02](https://news.ycombinator.com/item?id=38081636) - [Optical or Digital: Minimum focusing distance on iPhone 15 Pro Max 5x camera](https://davidnelson.net/2023/10/minimum-focusing-distance-on-iphone-15-pro-max-5x-camera/)
