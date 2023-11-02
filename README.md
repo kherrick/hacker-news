@@ -25,7 +25,7 @@
 * [2023-11-02, 01:59:34](https://news.ycombinator.com/item?id=38108044) - [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
 * [2023-11-02, 01:16:22](https://news.ycombinator.com/item?id=38107711) - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 * [2023-11-02, 00:39:42](https://news.ycombinator.com/item?id=38107413) - [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
-* [2023-11-01, 22:19:20](https://news.ycombinator.com/item?id=38106153) - [The Youngest Daughter of the Sciences](https://www.laphamsquarterly.org/roundtable/youngest-daughter-sciences)
+* [2023-11-01, 23:53:54](https://news.ycombinator.com/item?id=38107078) - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-10-31, 20:37:16](https://news.ycombinator.com/item?id=38091024) - [Now Showing, an Ancient Spell Book for the Dead](https://www.nytimes.com/2023/10/31/science/archaeology-egypt-book-dead.html)
