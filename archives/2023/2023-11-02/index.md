@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 19:42:02](https://news.ycombinator.com/item?id=38118922) - [My side project reached $500 MRR :)](https://aditya8080.substack.com/p/my-side-project-reached-500-mrr)
 * [2023-11-02, 19:30:35](https://news.ycombinator.com/item?id=38118766) - [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
 * [2023-11-02, 19:19:44](https://news.ycombinator.com/item?id=38118627) - [Google apparently backs off on WEI](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
 * [2023-11-02, 19:19:21](https://news.ycombinator.com/item?id=38118620) - [Free Speech Is in Trouble](https://www.natesilver.net/p/free-speech-is-in-trouble)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 18:48:09](https://news.ycombinator.com/item?id=38118215) - [Justine Bateman's Fight Against Generative AI in Hollywood](https://spectrum.ieee.org/justine-bateman-hollywood-generative-ai)
 * [2023-11-02, 18:43:52](https://news.ycombinator.com/item?id=38118147) - [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
+* [2023-11-02, 18:27:26](https://news.ycombinator.com/item?id=38117930) - [Propaganda or Science: Open-Source AI and Bioterrorism Risk](https://1a3orn.com/sub/essays-propaganda-or-science.html)
 * [2023-11-02, 18:15:47](https://news.ycombinator.com/item?id=38117795) - [Google Adsense is Transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
 * [2023-11-02, 18:13:56](https://news.ycombinator.com/item?id=38117763) - [Uber, Lyft pay $328M for \"cheating drivers\" out of earnings, NY says](https://arstechnica.com/tech-policy/2023/11/uber-lyft-pay-328-million-for-cheating-drivers-out-of-earnings-ny-says/)
 * [2023-11-02, 18:08:32](https://news.ycombinator.com/item?id=38117689) - [Microsoft is removing Maps and Movies and TV from Windows 11](https://gadgettendency.com/microsoft-is-removing-maps-and-movies-tv-from-windows-11/)
