@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [2023-11-02, 06:13:21](https://news.ycombinator.com/item?id=38109575) - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
 * [2023-11-02, 04:19:47](https://news.ycombinator.com/item?id=38108947) - [Companies that use PHP and pay well](https://news.ycombinator.com/item?id=38108947)
@@ -24,7 +25,6 @@
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [Bank financing and bad urban planning make the retail apocalypse worse](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
 * [2023-11-01, 16:07:22](https://news.ycombinator.com/item?id=38100284) - [The .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
-* [2023-11-01, 15:09:00](https://news.ycombinator.com/item?id=38099251) - [Show HN: A Sign In Space – simulating a message from ET](https://asignin.space/)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
