@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-02, 11:30:31",
+      "https://news.ycombinator.com/item?id=38111925"
+    ],
+    [
+      "Electric mountain: the power station that shows the beauty of infrastructure",
+      "https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 10:34:26",
       "https://news.ycombinator.com/item?id=38111483"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-11-02, 06:13:21",
-      "https://news.ycombinator.com/item?id=38109575"
-    ],
-    [
-      "GitHub Engineering: When mTLS Is Done Wrong",
-      "https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 05:57:42",
       "https://news.ycombinator.com/item?id=38109494"
     ],
@@ -131,6 +131,26 @@
   ],
   [
     [
+      "2023-11-02, 04:23:34",
+      "https://news.ycombinator.com/item?id=38108970"
+    ],
+    [
+      "The Example of Seamus Heaney",
+      "https://hudsonreview.com/2023/11/the-example-of-seamus-heaney/"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 04:05:21",
+      "https://news.ycombinator.com/item?id=38108873"
+    ],
+    [
+      "Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario",
+      "https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 01:59:34",
       "https://news.ycombinator.com/item?id=38108044"
     ],
@@ -147,16 +167,6 @@
     [
       "Window-swap – open a new window somewhere in the world",
       "https://www.window-swap.com/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 00:55:32",
-      "https://news.ycombinator.com/item?id=38107537"
-    ],
-    [
-      "As child care costs soar, more parents may have to exit the workforce",
-      "https://www.cbsnews.com/news/child-care-costs-us-families-exit-workforce/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The business of extracting knowledge from academic publications",
       "https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 20:24:22",
-      "https://news.ycombinator.com/item?id=38104554"
-    ],
-    [
-      "macOS Sonoma Broke Grep",
-      "https://developer.apple.com/forums/thread/738862"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38080951"
     ],
     [
-      "A modern, open-source spreadsheet that goes beyond the grid",
+      "Grist is a modern, relational spreadsheet",
       "https://github.com/gristlabs/grist-core"
     ]
   ]
