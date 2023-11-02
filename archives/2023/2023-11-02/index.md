@@ -12,6 +12,7 @@
 * [2023-11-02, 07:07:07](https://news.ycombinator.com/item?id=38109935) - [CubeSigner, a refreshingly secure key manager](https://cubist.dev/)
 * [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [2023-11-02, 06:36:55](https://news.ycombinator.com/item?id=38109731) - [Experts criticise EU for certificate proposal that enables spying on HTTPS](https://alecmuffett.com/article/108139)
+* [2023-11-02, 06:24:29](https://news.ycombinator.com/item?id=38109646) - [Show HN: Tailspin – A Log File Highlighter](https://github.com/bensadeh/tailspin)
 * [2023-11-02, 06:14:54](https://news.ycombinator.com/item?id=38109581) - [EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
 * [2023-11-02, 06:13:21](https://news.ycombinator.com/item?id=38109575) - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to Fix eIDAS (Mozilla)](https://last-chance-for-eidas.org/)
