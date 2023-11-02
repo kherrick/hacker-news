@@ -6,7 +6,9 @@
 
 * [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
 * [2023-11-02, 13:28:21](https://news.ycombinator.com/item?id=38113226) - [Apple's called Android a \"massive tracking device\" in an internal presentation](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/)
+* [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
+* [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 12:14:44](https://news.ycombinator.com/item?id=38112421) - [Zephr plans to create a \"networked GPS\" using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
 * [2023-11-02, 12:09:12](https://news.ycombinator.com/item?id=38112374) - [Google AI chief says there's a 50% chance we'll hit AGI in just 5 years](https://futurism.com/google-deepmind-agi-5-years)
 * [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)

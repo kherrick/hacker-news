@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
+* [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
+* [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 12:14:44](https://news.ycombinator.com/item?id=38112421) - [Zephr plans to create a \"networked GPS\" using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
 * [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2023-11-02, 11:30:31](https://news.ycombinator.com/item?id=38111925) - [Electric mountain: Power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
 * [2023-11-02, 10:34:26](https://news.ycombinator.com/item?id=38111483) - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
-* [2023-11-02, 08:14:50](https://news.ycombinator.com/item?id=38110392) - [Kotlin multiplatform is stable and production-ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-02, 07:43:28](https://news.ycombinator.com/item?id=38110144) - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
@@ -27,7 +28,6 @@
 * [2023-11-01, 22:19:20](https://news.ycombinator.com/item?id=38106153) - [The Youngest Daughter of the Sciences](https://www.laphamsquarterly.org/roundtable/youngest-daughter-sciences)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
-* [2023-11-01, 04:06:18](https://news.ycombinator.com/item?id=38094500) - [Making Bulletproof Wood [video]](https://www.youtube.com/watch?v=CglNRNrMFGM)
 * [2023-10-31, 20:37:16](https://news.ycombinator.com/item?id=38091024) - [Now Showing, an Ancient Spell Book for the Dead](https://www.nytimes.com/2023/10/31/science/archaeology-egypt-book-dead.html)
 * [2023-10-31, 06:20:45](https://news.ycombinator.com/item?id=38080951) - [Grist is a modern, relational spreadsheet](https://github.com/gristlabs/grist-core)
 
