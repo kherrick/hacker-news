@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-02, 02:41:59",
+      "https://news.ycombinator.com/item?id=38108345"
+    ],
+    [
+      "From Gaza to Mars",
+      "https://www.bbc.co.uk/sounds/play/p09tr2ky"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 01:16:22",
       "https://news.ycombinator.com/item?id=38107711"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-11-01, 17:45:32",
-      "https://news.ycombinator.com/item?id=38101966"
-    ],
-    [
-      "Dot by New Computer",
-      "https://new.computer/"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 17:25:40",
       "https://news.ycombinator.com/item?id=38101613"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-11-01, 13:35:09",
+      "https://news.ycombinator.com/item?id=38097984"
+    ],
+    [
+      "C++23: Removing garbage collection support",
+      "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 13:32:03",
       "https://news.ycombinator.com/item?id=38097938"
     ],
@@ -257,16 +267,6 @@
     [
       "Improving deep sleep may prevent dementia, study finds",
       "https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 11:36:00",
-      "https://news.ycombinator.com/item?id=38096958"
-    ],
-    [
-      "New: LangChain templates – fastest way to build a production-ready LLM app",
-      "https://github.com/langchain-ai/langchain/tree/master/templates"
     ]
   ],
   [
