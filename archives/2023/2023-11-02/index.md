@@ -9,6 +9,8 @@
 * [2023-11-02, 18:15:47](https://news.ycombinator.com/item?id=38117795) - [Google Adsense is Transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
 * [2023-11-02, 18:13:56](https://news.ycombinator.com/item?id=38117763) - [Uber, Lyft pay $328M for \"cheating drivers\" out of earnings, NY says](https://arstechnica.com/tech-policy/2023/11/uber-lyft-pay-328-million-for-cheating-drivers-out-of-earnings-ny-says/)
 * [2023-11-02, 18:08:32](https://news.ycombinator.com/item?id=38117689) - [Microsoft is removing Maps and Movies and TV from Windows 11](https://gadgettendency.com/microsoft-is-removing-maps-and-movies-tv-from-windows-11/)
+* [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [In a surprising finding, light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
+* [2023-11-02, 17:53:17](https://news.ycombinator.com/item?id=38117464) - [Building a Distributed Data Warehouse Without Data Lakes](https://blog.bacalhau.org/p/tutorial-on-distributed-warehousing)
 * [2023-11-02, 17:41:37](https://news.ycombinator.com/item?id=38117289) - [Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
 * [2023-11-02, 17:34:53](https://news.ycombinator.com/item?id=38117167) - [The Beatles Release 'Now and Then'](https://www.goldradiouk.com/artists/the-beatles/now-and-then-listen-stream-video/)
 * [2023-11-02, 17:00:49](https://news.ycombinator.com/item?id=38116571) - [Ciro (YC S22) is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
