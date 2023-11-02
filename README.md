@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
 * [2023-11-02, 04:05:21](https://news.ycombinator.com/item?id=38108873) - [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
 * [2023-11-02, 02:26:28](https://news.ycombinator.com/item?id=38108235) - [M3 Max Geekbench](https://browser.geekbench.com/search?q=m3+max)
 * [2023-11-02, 01:59:34](https://news.ycombinator.com/item?id=38108044) - [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
@@ -16,7 +17,6 @@
 * [2023-11-01, 17:52:58](https://news.ycombinator.com/item?id=38102096) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:52:05](https://news.ycombinator.com/item?id=38102083) - [My rude-ass car](https://www.neverbeclever.org/blog/my-rude-ass-car/)
 * [2023-11-01, 17:48:51](https://news.ycombinator.com/item?id=38102023) - [A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
-* [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [Bank financing and bad urban planning make the retail apocalypse worse](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
