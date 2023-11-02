@@ -5,7 +5,6 @@
 * [2023-11-02, 16:41:28](https://news.ycombinator.com/item?id=38116238) - [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
 * [2023-11-02, 16:12:19](https://news.ycombinator.com/item?id=38115679) - [Grammarly editor writing services are malfunctioning](https://status.grammarly.com/incidents/52qjsq1fcrr3)
 * [2023-11-02, 15:46:32](https://news.ycombinator.com/item?id=38115181) - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
-* [2023-11-02, 15:28:48](https://news.ycombinator.com/item?id=38114884) - [The US Housing Market Has Become an Impossible Mess](https://www.bloomberg.com/news/articles/2023-11-02/housing-crisis-gets-worse-for-americans-on-mortgage-lock-in-effect)
 * [2023-11-02, 15:15:00](https://news.ycombinator.com/item?id=38114673) - [Earth's blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
 * [2023-11-02, 15:06:41](https://news.ycombinator.com/item?id=38114526) - [Nokia sues Amazon, HP over video compression technology](https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology)
 * [2023-11-02, 14:50:40](https://news.ycombinator.com/item?id=38114264) - [Big landlords used software to collude on rent prices, DC lawsuit says](https://arstechnica.com/tech-policy/2023/11/14-big-landlords-used-software-to-collude-on-rent-prices-dc-lawsuit-says/)
@@ -29,6 +28,7 @@
 * [2023-11-02, 04:05:21](https://news.ycombinator.com/item?id=38108873) - [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
 * [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
+* [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-10-31, 06:20:45](https://news.ycombinator.com/item?id=38080951) - [Grist is a modern, relational spreadsheet](https://github.com/gristlabs/grist-core)
 
 ## [Archives](archives/index.md)
