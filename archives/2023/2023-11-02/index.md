@@ -7,6 +7,7 @@
 * [2023-11-02, 15:25:22](https://news.ycombinator.com/item?id=38114826) - [Why Do Young Americans Support Hamas? Look at TikTok](https://www.thefp.com/p/tik-tok-young-americans-hamas-mike-gallag)
 * [2023-11-02, 15:23:36](https://news.ycombinator.com/item?id=38114798) - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
 * [2023-11-02, 15:22:04](https://news.ycombinator.com/item?id=38114774) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
+* [2023-11-02, 15:15:00](https://news.ycombinator.com/item?id=38114673) - [Earth's blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
 * [2023-11-02, 15:06:41](https://news.ycombinator.com/item?id=38114526) - [Nokia sues Amazon, HP over video compression technology](https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology)
 * [2023-11-02, 15:05:54](https://news.ycombinator.com/item?id=38114512) - [Mint is shutting down, and it's pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
 * [2023-11-02, 14:50:40](https://news.ycombinator.com/item?id=38114264) - [Big landlords used software to collude on rent prices, DC lawsuit says](https://arstechnica.com/tech-policy/2023/11/14-big-landlords-used-software-to-collude-on-rent-prices-dc-lawsuit-says/)

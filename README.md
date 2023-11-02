@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-02, 15:25:22](https://news.ycombinator.com/item?id=38114826) - [Why Do Young Americans Support Hamas? Look at TikTok](https://www.thefp.com/p/tik-tok-young-americans-hamas-mike-gallag)
 * [2023-11-02, 15:23:36](https://news.ycombinator.com/item?id=38114798) - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
+* [2023-11-02, 15:15:00](https://news.ycombinator.com/item?id=38114673) - [Earth's blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
+* [2023-11-02, 15:06:41](https://news.ycombinator.com/item?id=38114526) - [Nokia sues Amazon, HP over video compression technology](https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology)
 * [2023-11-02, 15:05:54](https://news.ycombinator.com/item?id=38114512) - [Mint is shutting down, and it's pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
 * [2023-11-02, 14:50:40](https://news.ycombinator.com/item?id=38114264) - [Big landlords used software to collude on rent prices, DC lawsuit says](https://arstechnica.com/tech-policy/2023/11/14-big-landlords-used-software-to-collude-on-rent-prices-dc-lawsuit-says/)
 * [2023-11-02, 14:39:33](https://news.ycombinator.com/item?id=38114107) - [Toyota recalls nearly 1.9M RAV4s to fix batteries that can cause a fire](https://www.cnbc.com/2023/11/02/toyota-recalls-nearly-1point9-million-rav4s-to-fix-batteries-that-can-move-during-hard-turns-and-cause-a-fire.html)
@@ -21,7 +22,6 @@
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 06:24:29](https://news.ycombinator.com/item?id=38109646) - [Show HN: Tailspin – A Log File Highlighter](https://github.com/bensadeh/tailspin)
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
-* [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App::Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
 * [2023-11-02, 04:32:49](https://news.ycombinator.com/item?id=38109020) - [WasmGC – Run GC languages such as Kotlin, Java in Chrome browser](https://developer.chrome.com/blog/wasmgc/)
 * [2023-11-02, 04:23:34](https://news.ycombinator.com/item?id=38108970) - [The Example of Seamus Heaney](https://hudsonreview.com/2023/11/the-example-of-seamus-heaney/)
 * [2023-11-02, 04:05:21](https://news.ycombinator.com/item?id=38108873) - [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
