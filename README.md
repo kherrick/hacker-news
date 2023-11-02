@@ -20,7 +20,6 @@
 * [2023-11-01, 17:52:05](https://news.ycombinator.com/item?id=38102083) - [My rude-ass car](https://www.neverbeclever.org/blog/my-rude-ass-car/)
 * [2023-11-01, 17:48:51](https://news.ycombinator.com/item?id=38102023) - [A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
 * [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)
-* [2023-11-01, 17:27:45](https://news.ycombinator.com/item?id=38101649) - [Show HN: EdgeDB Cloud and 4.0 with FTS and Auth](https://www.edgedb.com/blog/edgedb-cloud-and-edgedb-4-0)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [Bank financing and bad urban planning make the retail apocalypse worse](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
@@ -30,6 +29,7 @@
 * [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
+* [2023-10-31, 08:23:02](https://news.ycombinator.com/item?id=38081636) - [Optical or Digital: Minimum focusing distance on iPhone 15 Pro Max 5x camera](https://davidnelson.net/2023/10/minimum-focusing-distance-on-iphone-15-pro-max-5x-camera/)
 
 ## [Archives](archives/index.md)
 
