@@ -8,6 +8,7 @@
 * [2023-11-01, 23:17:34](https://news.ycombinator.com/item?id=38106757) - [A shortage of teachers for computer science classes in California](https://calmatters.org/education/k-12-education/2023/10/computer-science-classes/)
 * [2023-11-01, 22:47:58](https://news.ycombinator.com/item?id=38106461) - [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
 * [2023-11-01, 22:29:27](https://news.ycombinator.com/item?id=38106257) - [What causes fainting? Scientists finally have an answer](https://www.nature.com/articles/d41586-023-03450-3)
+* [2023-11-01, 22:19:20](https://news.ycombinator.com/item?id=38106153) - [The Youngest Daughter of the Sciences](https://www.laphamsquarterly.org/roundtable/youngest-daughter-sciences)
 * [2023-11-01, 21:56:22](https://news.ycombinator.com/item?id=38105877) - [Shipwreck Is Everywhere (2017)](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 21:31:56](https://news.ycombinator.com/item?id=38105629) - [Starlink satellites are 'leaking' signals that interfere with radio telescopes](https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250)

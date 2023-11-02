@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-02, 10:37:30](https://news.ycombinator.com/item?id=38111514) - [Could the UK's tides help wean us off fossil fuels?](https://www.bbc.com/news/science-environment-67170625)
 * [2023-11-02, 10:34:26](https://news.ycombinator.com/item?id=38111483) - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
@@ -21,6 +20,7 @@
 * [2023-11-01, 23:53:54](https://news.ycombinator.com/item?id=38107078) - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
 * [2023-11-01, 22:47:58](https://news.ycombinator.com/item?id=38106461) - [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
 * [2023-11-01, 22:29:27](https://news.ycombinator.com/item?id=38106257) - [Mouse experiments reveal the brain-heart connections that cause fainting](https://www.nature.com/articles/d41586-023-03450-3)
+* [2023-11-01, 22:19:20](https://news.ycombinator.com/item?id=38106153) - [The Youngest Daughter of the Sciences](https://www.laphamsquarterly.org/roundtable/youngest-daughter-sciences)
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 20:24:22](https://news.ycombinator.com/item?id=38104554) - [macOS Sonoma Broke Grep](https://developer.apple.com/forums/thread/738862)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now You're Thinking with Relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
