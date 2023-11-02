@@ -26,10 +26,10 @@
 * [2023-11-01, 14:38:33](https://news.ycombinator.com/item?id=38098779) - [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
-* [2023-11-01, 12:07:32](https://news.ycombinator.com/item?id=38097184) - [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
 * [2023-11-01, 11:36:00](https://news.ycombinator.com/item?id=38096958) - [New: LangChain templates – fastest way to build a production-ready LLM app](https://github.com/langchain-ai/langchain/tree/master/templates)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
+* [2023-10-31, 08:23:07](https://news.ycombinator.com/item?id=38081637) - [Neutral Monism](https://en.wikipedia.org/wiki/Neutral_monism)
 
 ## [Archives](archives/index.md)
 
