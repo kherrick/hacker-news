@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-02, 07:29:34](https://news.ycombinator.com/item?id=38110059) - [Silicon Valley doesn't understand the concept of fun](https://www.fastcompany.com/90965361/why-did-the-metaverse-die-silicon-valley-doesnt-understand-fun)
 * [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [2023-11-02, 06:36:55](https://news.ycombinator.com/item?id=38109731) - [Experts criticise EU for certificate proposal that enables spying on HTTPS](https://alecmuffett.com/article/108139)
@@ -19,7 +20,6 @@
 * [2023-11-01, 22:29:27](https://news.ycombinator.com/item?id=38106257) - [Mouse experiments reveal the brain-heart connections that cause fainting](https://www.nature.com/articles/d41586-023-03450-3)
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 20:24:22](https://news.ycombinator.com/item?id=38104554) - [macOS Sonoma Broke Grep](https://developer.apple.com/forums/thread/738862)
-* [2023-11-01, 19:01:41](https://news.ycombinator.com/item?id=38103225) - [Wrangling Monotonic Systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 17:52:58](https://news.ycombinator.com/item?id=38102096) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:52:05](https://news.ycombinator.com/item?id=38102083) - [My rude-ass car](https://www.neverbeclever.org/blog/my-rude-ass-car/)
 * [2023-11-01, 17:48:51](https://news.ycombinator.com/item?id=38102023) - [A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
