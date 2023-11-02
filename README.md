@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-02, 20:09:58](https://news.ycombinator.com/item?id=38119354) - [Adobe Caught Selling AI-Generated Images of Israel-Palestine Violence](https://futurism.com/adobe-caught-selling-ai-generated-images-israel-palestine-violence)
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
 * [2023-11-02, 19:48:44](https://news.ycombinator.com/item?id=38119010) - [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
 * [2023-11-02, 19:32:01](https://news.ycombinator.com/item?id=38118783) - [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
@@ -23,6 +22,7 @@
 * [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:32:18](https://news.ycombinator.com/item?id=38112596) - [I designed my own keyboard layout. Was it worth it?](https://www.jonashietala.se/blog/2023/11/02/i_designed_my_own_keyboard_layout_was_it_worth_it/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
+* [2023-11-02, 12:30:12](https://news.ycombinator.com/item?id=38112574) - [Photomolecular effect leading to water evaporation exceeding the thermal limit](https://www.pnas.org/doi/abs/10.1073/pnas.2312751120)
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 12:17:09](https://news.ycombinator.com/item?id=38112443) - [Styling with Classy CSS (2006)](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
