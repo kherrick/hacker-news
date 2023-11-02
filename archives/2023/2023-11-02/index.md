@@ -10,6 +10,7 @@
 * [2023-11-02, 14:03:35](https://news.ycombinator.com/item?id=38113647) - [Ask HN: What podcasts do you listen to?](https://news.ycombinator.com/item?id=38113647)
 * [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
 * [2023-11-02, 13:28:21](https://news.ycombinator.com/item?id=38113226) - [Apple's called Android a \"massive tracking device\" in an internal presentation](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/)
+* [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
 * [2023-11-02, 12:30:12](https://news.ycombinator.com/item?id=38112574) - [Photomolecular effect leading to water evaporation exceeding the thermal limit](https://www.pnas.org/doi/abs/10.1073/pnas.2312751120)
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)

@@ -5,7 +5,7 @@
 * [2023-11-02, 14:13:34](https://news.ycombinator.com/item?id=38113792) - [The 8000th Busy Beaver number eludes ZF set theory (2016)](https://scottaaronson.blog/?p=2725)
 * [2023-11-02, 14:03:35](https://news.ycombinator.com/item?id=38113647) - [Ask HN: What podcasts do you listen to?](https://news.ycombinator.com/item?id=38113647)
 * [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
-* [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
+* [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:30:12](https://news.ycombinator.com/item?id=38112574) - [Photomolecular effect leading to water evaporation exceeding the thermal limit](https://www.pnas.org/doi/abs/10.1073/pnas.2312751120)
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
