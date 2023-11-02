@@ -16,6 +16,7 @@
 * [2023-11-01, 17:51:59](https://news.ycombinator.com/item?id=38102082) - [Bitwarden adds support for passkeys](https://bitwarden.com/help/releasenotes/)
 * [2023-11-01, 17:48:51](https://news.ycombinator.com/item?id=38102023) - [A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
 * [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)
+* [2023-11-01, 17:27:45](https://news.ycombinator.com/item?id=38101649) - [Show HN: EdgeDB Cloud and 4.0 with FTS and Auth](https://www.edgedb.com/blog/edgedb-cloud-and-edgedb-4-0)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [Bank financing and bad urban planning make the retail apocalypse worse](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
@@ -27,7 +28,6 @@
 * [2023-11-01, 14:19:21](https://news.ycombinator.com/item?id=38098513) - [Attenuating Innovation (AI)](https://stratechery.com/2023/attenuating-innovation-ai/)
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
-* [2023-10-31, 20:15:07](https://news.ycombinator.com/item?id=38090715) - [Family recipes that live on in cemeteries](https://www.atlasobscura.com/articles/gravestone-recipes)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
 
