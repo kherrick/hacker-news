@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2023-11-02, 10:34:26](https://news.ycombinator.com/item?id=38111483) - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 08:14:50](https://news.ycombinator.com/item?id=38110392) - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
@@ -14,7 +15,6 @@
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
 * [2023-11-02, 01:59:34](https://news.ycombinator.com/item?id=38108044) - [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
 * [2023-11-02, 01:16:22](https://news.ycombinator.com/item?id=38107711) - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
-* [2023-11-02, 01:01:48](https://news.ycombinator.com/item?id=38107595) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-11-02, 00:55:32](https://news.ycombinator.com/item?id=38107537) - [As child care costs soar, more parents may have to exit the workforce](https://www.cbsnews.com/news/child-care-costs-us-families-exit-workforce/)
 * [2023-11-02, 00:39:42](https://news.ycombinator.com/item?id=38107413) - [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
 * [2023-11-01, 23:53:54](https://news.ycombinator.com/item?id=38107078) - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
