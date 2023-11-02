@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-02, 19:30:35",
+      "https://news.ycombinator.com/item?id=38118766"
+    ],
+    [
+      "The Morris Worm was released 35 years ago today",
+      "https://en.wikipedia.org/wiki/Morris_worm"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 19:19:44",
+      "https://news.ycombinator.com/item?id=38118627"
+    ],
+    [
+      "Google apparently backs off on WEI",
+      "https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 19:19:21",
+      "https://news.ycombinator.com/item?id=38118620"
+    ],
+    [
+      "Free Speech Is in Trouble",
+      "https://www.natesilver.net/p/free-speech-is-in-trouble"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 18:48:09",
       "https://news.ycombinator.com/item?id=38118215"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-11-02, 16:28:40",
-      "https://news.ycombinator.com/item?id=38115989"
-    ],
-    [
-      "Arch: Remove Itanium (IA-64) architecture",
-      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 16:12:19",
       "https://news.ycombinator.com/item?id=38115679"
     ],
@@ -127,16 +147,6 @@
     [
       "Earth's blobs are remnants of an ancient planetary collision",
       "https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 15:06:41",
-      "https://news.ycombinator.com/item?id=38114526"
-    ],
-    [
-      "Nokia sues Amazon, HP over video compression technology",
-      "https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Last Chance to fix eIDAS: Secret EU law threatens Internet security",
       "https://last-chance-for-eidas.org/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 04:32:49",
-      "https://news.ycombinator.com/item?id=38109020"
-    ],
-    [
-      "WasmGC – Run GC languages such as Kotlin, Java in Chrome browser",
-      "https://developer.chrome.com/blog/wasmgc/"
     ]
   ],
   [
