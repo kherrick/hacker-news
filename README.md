@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-02, 02:41:59](https://news.ycombinator.com/item?id=38108345) - [From Gaza to Mars](https://www.bbc.co.uk/sounds/play/p09tr2ky)
 * [2023-11-02, 01:16:22](https://news.ycombinator.com/item?id=38107711) - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 * [2023-11-02, 01:01:48](https://news.ycombinator.com/item?id=38107595) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-11-02, 00:39:42](https://news.ycombinator.com/item?id=38107413) - [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
@@ -21,6 +20,7 @@
 * [2023-11-01, 17:07:38](https://news.ycombinator.com/item?id=38101328) - [Asahi Linux goes from Apple Silicon port project to macOS bug hunters](https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/)
 * [2023-11-01, 16:21:52](https://news.ycombinator.com/item?id=38100541) - [Bank financing and bad urban planning make the retail apocalypse worse](https://www.businessinsider.com/bank-financing-urban-planning-pandemic-retail-apocalypse-vacant-storefront-2023-10)
 * [2023-11-01, 16:07:22](https://news.ycombinator.com/item?id=38100284) - [The .ing top-level domain](https://blog.google/products/registry/introducing-the-ing-top-level-domain/)
+* [2023-11-01, 15:09:00](https://news.ycombinator.com/item?id=38099251) - [Show HN: A Sign In Space – simulating a message from ET](https://asignin.space/)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 15:00:42](https://news.ycombinator.com/item?id=38099084) - [Ask HN: Who wants to be hired? (November 2023)](https://news.ycombinator.com/item?id=38099084)
 * [2023-11-01, 14:38:33](https://news.ycombinator.com/item?id=38098779) - [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
