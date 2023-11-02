@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 23:53:54](https://news.ycombinator.com/item?id=38107078) - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
+* [2023-11-01, 23:17:34](https://news.ycombinator.com/item?id=38106757) - [A shortage of teachers for computer science classes in California](https://calmatters.org/education/k-12-education/2023/10/computer-science-classes/)
+* [2023-11-01, 22:47:58](https://news.ycombinator.com/item?id=38106461) - [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
+* [2023-11-01, 22:29:27](https://news.ycombinator.com/item?id=38106257) - [What causes fainting? Scientists finally have an answer](https://www.nature.com/articles/d41586-023-03450-3)
 * [2023-11-01, 21:56:22](https://news.ycombinator.com/item?id=38105877) - [Shipwreck Is Everywhere (2017)](https://hudsonreview.com/2017/10/shipwreck-is-everywhere/)
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 21:31:56](https://news.ycombinator.com/item?id=38105629) - [Starlink satellites are 'leaking' signals that interfere with radio telescopes](https://theconversation.com/starlink-satellites-are-leaking-signals-that-interfere-with-our-most-sensitive-radio-telescopes-215250)
@@ -30,6 +34,7 @@
 * [2023-11-01, 17:45:32](https://news.ycombinator.com/item?id=38101966) - [Dot by New Computer](https://new.computer/)
 * [2023-11-01, 17:40:56](https://news.ycombinator.com/item?id=38101880) - [Why Do Peephole Optimizations Work](https://blog.regehr.org/archives/2485)
 * [2023-11-01, 17:34:15](https://news.ycombinator.com/item?id=38101760) - [YouTube's Ad Blocker Crackdown Is Getting Harder to Dodge](https://gizmodo.com/youtube-ad-blocker-crackdown-is-getting-harder-to-dodge-1850977548)
+* [2023-11-01, 17:27:45](https://news.ycombinator.com/item?id=38101649) - [Show HN: EdgeDB Cloud and 4.0 with FTS and Auth](https://www.edgedb.com/blog/edgedb-cloud-and-edgedb-4-0)
 * [2023-11-01, 17:26:44](https://news.ycombinator.com/item?id=38101629) - [YouTube's 'War' on Adblockers Shows How Google Controls the Internet](https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 17:12:12](https://news.ycombinator.com/item?id=38101388) - [IBM cancels 401k matching, replaces with proprietary pension fund RBA](https://old.reddit.com/r/IBM/login/)
