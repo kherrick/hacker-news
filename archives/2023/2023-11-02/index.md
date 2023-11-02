@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 15:46:32](https://news.ycombinator.com/item?id=38115181) - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
 * [2023-11-02, 15:25:22](https://news.ycombinator.com/item?id=38114826) - [Why Do Young Americans Support Hamas? Look at TikTok](https://www.thefp.com/p/tik-tok-young-americans-hamas-mike-gallag)
 * [2023-11-02, 15:23:36](https://news.ycombinator.com/item?id=38114798) - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
 * [2023-11-02, 15:22:04](https://news.ycombinator.com/item?id=38114774) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
@@ -16,6 +17,7 @@
 * [2023-11-02, 14:13:34](https://news.ycombinator.com/item?id=38113792) - [The 8000th Busy Beaver number eludes ZF set theory (2016)](https://scottaaronson.blog/?p=2725)
 * [2023-11-02, 14:03:35](https://news.ycombinator.com/item?id=38113647) - [Ask HN: What podcasts do you listen to?](https://news.ycombinator.com/item?id=38113647)
 * [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
+* [2023-11-02, 13:50:11](https://news.ycombinator.com/item?id=38113488) - [Slack: Our biggest redesign yet came to be](https://slack.design/articles/how-our-biggest-redesign-yet-came-to-be/)
 * [2023-11-02, 13:28:21](https://news.ycombinator.com/item?id=38113226) - [Apple's called Android a \"massive tracking device\" in an internal presentation](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/)
 * [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
