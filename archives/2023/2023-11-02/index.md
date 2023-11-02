@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 15:23:36](https://news.ycombinator.com/item?id=38114798) - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
+* [2023-11-02, 15:22:04](https://news.ycombinator.com/item?id=38114774) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
+* [2023-11-02, 15:05:54](https://news.ycombinator.com/item?id=38114512) - [Mint is shutting down, and it's pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
+* [2023-11-02, 14:50:40](https://news.ycombinator.com/item?id=38114264) - [Big landlords used software to collude on rent prices, DC lawsuit says](https://arstechnica.com/tech-policy/2023/11/14-big-landlords-used-software-to-collude-on-rent-prices-dc-lawsuit-says/)
 * [2023-11-02, 14:39:33](https://news.ycombinator.com/item?id=38114107) - [Toyota recalls nearly 1.9M RAV4s to fix batteries that can cause a fire](https://www.cnbc.com/2023/11/02/toyota-recalls-nearly-1point9-million-rav4s-to-fix-batteries-that-can-move-during-hard-turns-and-cause-a-fire.html)
 * [2023-11-02, 14:25:10](https://news.ycombinator.com/item?id=38113935) - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
 * [2023-11-02, 14:13:34](https://news.ycombinator.com/item?id=38113792) - [The 8000th Busy Beaver number eludes ZF set theory (2016)](https://scottaaronson.blog/?p=2725)
