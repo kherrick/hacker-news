@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 21:53:53](https://news.ycombinator.com/item?id=38120786) - [Mint is shutting down. Thoughts from Mint's first product manager](https://www.monarchmoney.com/blog/mint-shutting-down)
 * [2023-11-02, 21:33:58](https://news.ycombinator.com/item?id=38120501) - [Teen boys use AI to make fake nudes of classmates, sparking police probe](https://arstechnica.com/tech-policy/2023/11/deepfake-nudes-of-high-schoolers-spark-police-probe-in-nj/)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
