@@ -6,6 +6,7 @@
 
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
 * [2023-11-02, 12:14:44](https://news.ycombinator.com/item?id=38112421) - [Zephr plans to create a \"networked GPS\" using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
+* [2023-11-02, 12:09:12](https://news.ycombinator.com/item?id=38112374) - [Google AI chief says there's a 50% chance we'll hit AGI in just 5 years](https://futurism.com/google-deepmind-agi-5-years)
 * [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2023-11-02, 11:30:31](https://news.ycombinator.com/item?id=38111925) - [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
 * [2023-11-02, 10:37:30](https://news.ycombinator.com/item?id=38111514) - [Could the UK's tides help wean us off fossil fuels?](https://www.bbc.com/news/science-environment-67170625)
