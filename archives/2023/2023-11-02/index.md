@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 20:09:58](https://news.ycombinator.com/item?id=38119354) - [Adobe Caught Selling AI-Generated Images of Israel-Palestine Violence](https://futurism.com/adobe-caught-selling-ai-generated-images-israel-palestine-violence)
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
 * [2023-11-02, 19:48:44](https://news.ycombinator.com/item?id=38119010) - [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
@@ -88,6 +89,7 @@
 * [2023-11-02, 01:16:22](https://news.ycombinator.com/item?id=38107711) - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 * [2023-11-02, 01:15:25](https://news.ycombinator.com/item?id=38107707) - [Remember how Ethereum was supposed to be the 'World Computer'?](https://bramcohen.com/p/remember-how-ethereum-was-supposed)
 * [2023-11-02, 01:01:48](https://news.ycombinator.com/item?id=38107595) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
+* [2023-11-02, 00:59:21](https://news.ycombinator.com/item?id=38107572) - [Fruit flies are invading Los Angeles. the solution? More fruit flies](https://www.nytimes.com/2023/10/31/science/fruit-flies-los-angeles-invasive.html)
 * [2023-11-02, 00:55:32](https://news.ycombinator.com/item?id=38107537) - [As child care costs soar, more parents may have to exit the workforce](https://www.cbsnews.com/news/child-care-costs-us-families-exit-workforce/)
 * [2023-11-02, 00:39:42](https://news.ycombinator.com/item?id=38107413) - [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
 * [2023-11-02, 00:26:02](https://news.ycombinator.com/item?id=38107297) - [NASA+: Our New Streaming Service](https://www.nasa.gov/plus/)

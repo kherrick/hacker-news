@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
 * [2023-11-02, 19:48:44](https://news.ycombinator.com/item?id=38119010) - [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
-* [2023-11-02, 19:32:01](https://news.ycombinator.com/item?id=38118783) - [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
 * [2023-11-02, 19:30:35](https://news.ycombinator.com/item?id=38118766) - [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
 * [2023-11-02, 19:19:44](https://news.ycombinator.com/item?id=38118627) - [Google apparently backs off on WEI](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
@@ -11,7 +11,6 @@
 * [2023-11-02, 18:15:47](https://news.ycombinator.com/item?id=38117795) - [Google Adsense is Transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
 * [2023-11-02, 18:13:56](https://news.ycombinator.com/item?id=38117763) - [Uber, Lyft pay $328M for \"cheating drivers\" out of earnings, NY says](https://arstechnica.com/tech-policy/2023/11/uber-lyft-pay-328-million-for-cheating-drivers-out-of-earnings-ny-says/)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [In a surprising finding, light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
-* [2023-11-02, 17:53:17](https://news.ycombinator.com/item?id=38117464) - [Building a Distributed Data Warehouse Without Data Lakes](https://blog.bacalhau.org/p/tutorial-on-distributed-warehousing)
 * [2023-11-02, 17:41:37](https://news.ycombinator.com/item?id=38117289) - [Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
 * [2023-11-02, 17:01:35](https://news.ycombinator.com/item?id=38116581) - [NYC Subway Rat Detector](https://transitapp.com/rats)
 * [2023-11-02, 17:00:49](https://news.ycombinator.com/item?id=38116571) - [Ciro (YC S22) is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
@@ -25,11 +24,12 @@
 * [2023-11-02, 12:30:12](https://news.ycombinator.com/item?id=38112574) - [Photomolecular effect leading to water evaporation exceeding the thermal limit](https://www.pnas.org/doi/abs/10.1073/pnas.2312751120)
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 12:17:09](https://news.ycombinator.com/item?id=38112443) - [Styling with Classy CSS (2006)](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
+* [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
+* [2023-11-02, 00:59:21](https://news.ycombinator.com/item?id=38107572) - [Fruit flies are invading Los Angeles. the solution? More fruit flies](https://www.nytimes.com/2023/10/31/science/fruit-flies-los-angeles-invasive.html)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
-* [2023-10-31, 06:20:45](https://news.ycombinator.com/item?id=38080951) - [Grist is a modern, relational spreadsheet](https://github.com/gristlabs/grist-core)
 
 ## [Archives](archives/index.md)
 
