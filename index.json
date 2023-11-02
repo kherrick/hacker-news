@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-11-01, 17:27:45",
-      "https://news.ycombinator.com/item?id=38101649"
-    ],
-    [
-      "Show HN: EdgeDB Cloud and 4.0 with FTS and Auth",
-      "https://www.edgedb.com/blog/edgedb-cloud-and-edgedb-4-0"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 17:25:40",
       "https://news.ycombinator.com/item?id=38101613"
     ],
@@ -297,6 +287,16 @@
     [
       "Boot legacy PCs from NVMe storage",
       "https://github.com/Manawyrm/nvme-int13h-optionrom"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 08:23:02",
+      "https://news.ycombinator.com/item?id=38081636"
+    ],
+    [
+      "Optical or Digital: Minimum focusing distance on iPhone 15 Pro Max 5x camera",
+      "https://davidnelson.net/2023/10/minimum-focusing-distance-on-iphone-15-pro-max-5x-camera/"
     ]
   ]
 ]
