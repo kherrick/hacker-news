@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
 * [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+* [2023-11-02, 11:30:31](https://news.ycombinator.com/item?id=38111925) - [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
 * [2023-11-02, 10:37:30](https://news.ycombinator.com/item?id=38111514) - [Could the UK's tides help wean us off fossil fuels?](https://www.bbc.com/news/science-environment-67170625)
 * [2023-11-02, 10:34:26](https://news.ycombinator.com/item?id=38111483) - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
@@ -22,6 +23,7 @@
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to Fix eIDAS (Mozilla)](https://last-chance-for-eidas.org/)
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
+* [2023-11-02, 04:23:34](https://news.ycombinator.com/item?id=38108970) - [The Example of Seamus Heaney](https://hudsonreview.com/2023/11/the-example-of-seamus-heaney/)
 * [2023-11-02, 04:19:47](https://news.ycombinator.com/item?id=38108947) - [Companies that use PHP and pay well](https://news.ycombinator.com/item?id=38108947)
 * [2023-11-02, 04:11:02](https://news.ycombinator.com/item?id=38108897) - [Google lays off employees working on its voice assistant](https://www.businessinsider.com/google-lay-offs-voice-assistant-bard-roles-contractors-2023-11)
 * [2023-11-02, 04:09:21](https://news.ycombinator.com/item?id=38108891) - [Harry Potter: The Gen Z Edition](https://github.com/typoes/harry-potter-gen-z/blob/main/book_1/chapter_1.md)
