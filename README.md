@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
+* [2023-11-02, 04:11:02](https://news.ycombinator.com/item?id=38108897) - [Google lays off employees working on its voice assistant](https://www.businessinsider.com/google-lay-offs-voice-assistant-bard-roles-contractors-2023-11)
 * [2023-11-02, 04:05:21](https://news.ycombinator.com/item?id=38108873) - [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
 * [2023-11-02, 02:26:28](https://news.ycombinator.com/item?id=38108235) - [M3 Max Geekbench](https://browser.geekbench.com/search?q=m3+max)
 * [2023-11-02, 01:59:34](https://news.ycombinator.com/item?id=38108044) - [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
@@ -27,7 +28,6 @@
 * [2023-11-01, 14:38:33](https://news.ycombinator.com/item?id=38098779) - [Why doctors in America earn so much](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
 * [2023-11-01, 14:19:21](https://news.ycombinator.com/item?id=38098513) - [Attenuating Innovation (AI)](https://stratechery.com/2023/attenuating-innovation-ai/)
 * [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
-* [2023-10-31, 20:15:07](https://news.ycombinator.com/item?id=38090715) - [Family recipes that live on in cemeteries](https://www.atlasobscura.com/articles/gravestone-recipes)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
 

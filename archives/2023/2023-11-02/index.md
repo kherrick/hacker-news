@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
+* [2023-11-02, 04:11:02](https://news.ycombinator.com/item?id=38108897) - [Google lays off employees working on its voice assistant](https://www.businessinsider.com/google-lay-offs-voice-assistant-bard-roles-contractors-2023-11)
 * [2023-11-02, 04:09:21](https://news.ycombinator.com/item?id=38108891) - [Harry Potter: The Gen Z Edition](https://github.com/typoes/harry-potter-gen-z/blob/main/book_1/chapter_1.md)
 * [2023-11-02, 04:05:21](https://news.ycombinator.com/item?id=38108873) - [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
 * [2023-11-02, 02:41:59](https://news.ycombinator.com/item?id=38108345) - [From Gaza to Mars](https://www.bbc.co.uk/sounds/play/p09tr2ky)
