@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
+* [2023-11-02, 08:14:50](https://news.ycombinator.com/item?id=38110392) - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-02, 07:43:28](https://news.ycombinator.com/item?id=38110144) - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
@@ -23,7 +24,6 @@
 * [2023-11-01, 21:52:59](https://news.ycombinator.com/item?id=38105839) - [The business of extracting knowledge from academic publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
 * [2023-11-01, 20:24:22](https://news.ycombinator.com/item?id=38104554) - [macOS Sonoma Broke Grep](https://developer.apple.com/forums/thread/738862)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now You're Thinking with Relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
-* [2023-11-01, 17:48:51](https://news.ycombinator.com/item?id=38102023) - [A kernel update broke my stylus](https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
 * [2023-11-01, 04:06:18](https://news.ycombinator.com/item?id=38094500) - [Making Bulletproof Wood [video]](https://www.youtube.com/watch?v=CglNRNrMFGM)
