@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
 * [2023-11-02, 17:00:49](https://news.ycombinator.com/item?id=38116571) - [Ciro (YC S22) is hiring founding engineers to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs)
+* [2023-11-02, 16:56:54](https://news.ycombinator.com/item?id=38116498) - [Martin Fowler – Current thoughts on social media](https://martinfowler.com/articles/2023-social-media.html)
 * [2023-11-02, 16:41:28](https://news.ycombinator.com/item?id=38116238) - [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
 * [2023-11-02, 16:12:19](https://news.ycombinator.com/item?id=38115679) - [Grammarly editor writing services are malfunctioning](https://status.grammarly.com/incidents/52qjsq1fcrr3)
 * [2023-11-02, 15:46:32](https://news.ycombinator.com/item?id=38115181) - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
+* [2023-11-02, 15:28:48](https://news.ycombinator.com/item?id=38114884) - [The US Housing Market Has Become an Impossible Mess](https://www.bloomberg.com/news/articles/2023-11-02/housing-crisis-gets-worse-for-americans-on-mortgage-lock-in-effect)
 * [2023-11-02, 15:25:22](https://news.ycombinator.com/item?id=38114826) - [Why Do Young Americans Support Hamas? Look at TikTok](https://www.thefp.com/p/tik-tok-young-americans-hamas-mike-gallag)
 * [2023-11-02, 15:23:36](https://news.ycombinator.com/item?id=38114798) - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
 * [2023-11-02, 15:22:04](https://news.ycombinator.com/item?id=38114774) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
