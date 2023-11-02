@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-11-02, 13:28:21",
-      "https://news.ycombinator.com/item?id=38113226"
-    ],
-    [
-      "Apple's called Android a \"massive tracking device\" in an internal presentation",
-      "https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 12:23:58",
       "https://news.ycombinator.com/item?id=38112515"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38111925"
     ],
     [
-      "Electric mountain: the power station that shows the beauty of infrastructure",
+      "Electric mountain: Power station that shows the beauty of infrastructure",
       "https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38110392"
     ],
     [
-      "Kotlin Multiplatform Is Stable and Production-Ready",
+      "Kotlin multiplatform is stable and production-ready",
       "https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/"
     ]
   ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2023-11-02, 06:42:11",
+      "https://news.ycombinator.com/item?id=38109778"
+    ],
+    [
+      "Biohacking Lite (2020)",
+      "http://karpathy.github.io/2020/06/11/biohacking-lite/"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 06:24:29",
       "https://news.ycombinator.com/item?id=38109646"
     ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=38109386"
     ],
     [
-      "App: Rak – 21st century grep / find / ack / ag / rg on steroids",
+      "App::Rak – 21st century grep / find / ack / ag / rg on steroids",
       "https://github.com/lizmat/App-Rak"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38103616"
     ],
     [
-      "Now You're Thinking with Relays",
+      "Now you're thinking with relays",
       "https://lcamtuf.substack.com/p/now-youre-thinking-with-relays"
     ]
   ],
