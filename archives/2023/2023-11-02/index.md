@@ -6,6 +6,7 @@
 
 * [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [2023-11-02, 06:13:21](https://news.ycombinator.com/item?id=38109575) - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
+* [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
 * [2023-11-02, 04:19:47](https://news.ycombinator.com/item?id=38108947) - [Companies that use PHP and pay well](https://news.ycombinator.com/item?id=38108947)
 * [2023-11-02, 04:11:02](https://news.ycombinator.com/item?id=38108897) - [Google lays off employees working on its voice assistant](https://www.businessinsider.com/google-lay-offs-voice-assistant-bard-roles-contractors-2023-11)
