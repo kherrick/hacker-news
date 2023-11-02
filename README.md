@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
+* [2023-11-02, 22:30:08](https://news.ycombinator.com/item?id=38121250) - [In 1886, the US Commissioned 7,500 Watercolor Paintings of Every Known Fruit](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
 * [2023-11-02, 21:33:08](https://news.ycombinator.com/item?id=38120491) - [21 Firms that will convert your classic into an EV](https://driving.ca/car-culture/vintage-collectible/21-firms-that-will-convert-your-classic-into-an-ev)
@@ -10,6 +11,7 @@
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days in mice](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
+* [2023-11-02, 19:44:23](https://news.ycombinator.com/item?id=38118947) - [A Deep Dive into the Morris Worm (2019)](https://www.rapid7.com/blog/post/2019/01/02/the-ghost-of-exploits-past-a-deep-dive-into-the-morris-worm/)
 * [2023-11-02, 19:32:01](https://news.ycombinator.com/item?id=38118783) - [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
 * [2023-11-02, 19:19:44](https://news.ycombinator.com/item?id=38118627) - [An experimental Android WebView Media Integrity API early next year](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
@@ -25,10 +27,8 @@
 * [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:32:18](https://news.ycombinator.com/item?id=38112596) - [I designed my own keyboard layout. Was it worth it?](https://www.jonashietala.se/blog/2023/11/02/i_designed_my_own_keyboard_layout_was_it_worth_it/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
-* [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
-* [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
 
 ## [Archives](archives/index.md)
