@@ -60,6 +60,7 @@
 * [2023-11-02, 04:05:21](https://news.ycombinator.com/item?id=38108873) - [Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario](https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10)
 * [2023-11-02, 02:41:59](https://news.ycombinator.com/item?id=38108345) - [From Gaza to Mars](https://www.bbc.co.uk/sounds/play/p09tr2ky)
 * [2023-11-02, 02:26:28](https://news.ycombinator.com/item?id=38108235) - [M3 Max Geekbench](https://browser.geekbench.com/search?q=m3+max)
+* [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
 * [2023-11-02, 01:59:34](https://news.ycombinator.com/item?id=38108044) - [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
 * [2023-11-02, 01:16:22](https://news.ycombinator.com/item?id=38107711) - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 * [2023-11-02, 01:15:25](https://news.ycombinator.com/item?id=38107707) - [Remember how Ethereum was supposed to be the 'World Computer'?](https://bramcohen.com/p/remember-how-ethereum-was-supposed)
