@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 21:06:28](https://news.ycombinator.com/item?id=38120148) - [U.N. votes to end US embargo on Cuba; US and Israel oppose](https://www.reuters.com/world/americas/un-votes-end-us-embargo-cuba-us-israel-oppose-2023-11-02/)
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 20:09:58](https://news.ycombinator.com/item?id=38119354) - [Adobe Caught Selling AI-Generated Images of Israel-Palestine Violence](https://futurism.com/adobe-caught-selling-ai-generated-images-israel-palestine-violence)
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)

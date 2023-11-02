@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 21:06:28](https://news.ycombinator.com/item?id=38120148) - [U.N. votes to end US embargo on Cuba; US and Israel oppose](https://www.reuters.com/world/americas/un-votes-end-us-embargo-cuba-us-israel-oppose-2023-11-02/)
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
 * [2023-11-02, 19:48:44](https://news.ycombinator.com/item?id=38119010) - [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
@@ -26,7 +27,6 @@
 * [2023-11-02, 12:17:09](https://news.ycombinator.com/item?id=38112443) - [Styling with Classy CSS (2006)](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
-* [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
 * [2023-11-02, 00:59:21](https://news.ycombinator.com/item?id=38107572) - [Fruit flies are invading Los Angeles. the solution? More fruit flies](https://www.nytimes.com/2023/10/31/science/fruit-flies-los-angeles-invasive.html)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
