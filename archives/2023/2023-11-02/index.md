@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 21:53:53](https://news.ycombinator.com/item?id=38120786) - [Mint is shutting down. Thoughts from Mint's first product manager](https://www.monarchmoney.com/blog/mint-shutting-down)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
 * [2023-11-02, 21:29:45](https://news.ycombinator.com/item?id=38120434) - [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
 * [2023-11-02, 21:13:32](https://news.ycombinator.com/item?id=38120240) - [DoorDash manages high-availability CockroachDB clusters at scale](https://www.cockroachlabs.com/blog/doordash-cockroachdb-massive-scale/)
 * [2023-11-02, 21:06:28](https://news.ycombinator.com/item?id=38120148) - [U.N. votes to end US embargo on Cuba; US and Israel oppose](https://www.reuters.com/world/americas/un-votes-end-us-embargo-cuba-us-israel-oppose-2023-11-02/)
+* [2023-11-02, 21:05:55](https://news.ycombinator.com/item?id=38120139) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2023/11/apple-reports-fourth-quarter-results/)
 * [2023-11-02, 21:02:34](https://news.ycombinator.com/item?id=38120097) - [Little Bobby Tables Has a Baby Sister. Meet Sally Ignore Previous Instructions](https://www.haihai.ai/pen15/)
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 20:09:58](https://news.ycombinator.com/item?id=38119354) - [Adobe Caught Selling AI-Generated Images of Israel-Palestine Violence](https://futurism.com/adobe-caught-selling-ai-generated-images-israel-palestine-violence)
