@@ -27,9 +27,9 @@
 * [2023-11-01, 14:19:21](https://news.ycombinator.com/item?id=38098513) - [Attenuating Innovation (AI)](https://stratechery.com/2023/attenuating-innovation-ai/)
 * [2023-11-01, 13:35:09](https://news.ycombinator.com/item?id=38097984) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
+* [2023-10-31, 20:15:07](https://news.ycombinator.com/item?id=38090715) - [Family recipes that live on in cemeteries](https://www.atlasobscura.com/articles/gravestone-recipes)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
-* [2023-10-31, 08:23:07](https://news.ycombinator.com/item?id=38081637) - [Neutral Monism](https://en.wikipedia.org/wiki/Neutral_monism)
 
 ## [Archives](archives/index.md)
 

@@ -14,6 +14,7 @@
 * [2023-10-31, 20:52:09](https://news.ycombinator.com/item?id=38091216) - [WeWork Plans to File for Bankruptcy as Early as Next Week](https://www.wsj.com/articles/wework-plans-to-file-for-bankruptcy-as-early-as-next-week-1fdcb6a5)
 * [2023-10-31, 20:39:29](https://news.ycombinator.com/item?id=38091046) - [ROScribe: An LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
 * [2023-10-31, 20:35:14](https://news.ycombinator.com/item?id=38091000) - [Engineers develop a 96% efficient process to make formate fuel from CO2](https://news.mit.edu/2023/engineers-develop-efficient-fuel-process-carbon-dioxide-1030)
+* [2023-10-31, 20:15:07](https://news.ycombinator.com/item?id=38090715) - [Family recipes that live on in cemeteries](https://www.atlasobscura.com/articles/gravestone-recipes)
 * [2023-10-31, 19:53:00](https://news.ycombinator.com/item?id=38090521) - [A Grand Theft Auto III Re-Implementation](https://openrw.org/)
 * [2023-10-31, 19:50:17](https://news.ycombinator.com/item?id=38090489) - [Ikkyū in Hell: Skeletons (1692)](https://publicdomainreview.org/collection/ikkyu-in-hell/)
 * [2023-10-31, 19:15:44](https://news.ycombinator.com/item?id=38089980) - [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
