@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
 * [2023-11-02, 20:09:58](https://news.ycombinator.com/item?id=38119354) - [Adobe Caught Selling AI-Generated Images of Israel-Palestine Violence](https://futurism.com/adobe-caught-selling-ai-generated-images-israel-palestine-violence)
+* [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
+* [2023-11-02, 19:48:44](https://news.ycombinator.com/item?id=38119010) - [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
 * [2023-11-02, 19:42:02](https://news.ycombinator.com/item?id=38118922) - [My side project reached $500 MRR :)](https://aditya8080.substack.com/p/my-side-project-reached-500-mrr)
+* [2023-11-02, 19:32:01](https://news.ycombinator.com/item?id=38118783) - [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
 * [2023-11-02, 19:30:35](https://news.ycombinator.com/item?id=38118766) - [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
 * [2023-11-02, 19:19:44](https://news.ycombinator.com/item?id=38118627) - [Google apparently backs off on WEI](https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html)
 * [2023-11-02, 19:19:21](https://news.ycombinator.com/item?id=38118620) - [Free Speech Is in Trouble](https://www.natesilver.net/p/free-speech-is-in-trouble)
