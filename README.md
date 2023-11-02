@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
-* [2023-11-02, 21:33:58](https://news.ycombinator.com/item?id=38120501) - [Teen boys use AI to make fake nudes of classmates, sparking police probe](https://arstechnica.com/tech-policy/2023/11/deepfake-nudes-of-high-schoolers-spark-police-probe-in-nj/)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How Big Data Carried Graph Theory into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
 * [2023-11-02, 21:33:08](https://news.ycombinator.com/item?id=38120491) - [21 Firms that will convert your classic into an EV](https://driving.ca/car-culture/vintage-collectible/21-firms-that-will-convert-your-classic-into-an-ev)
@@ -29,6 +28,7 @@
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
+* [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
 
 ## [Archives](archives/index.md)
