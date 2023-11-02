@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
+* [2023-11-02, 13:28:21](https://news.ycombinator.com/item?id=38113226) - [Apple's called Android a \"massive tracking device\" in an internal presentation](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/)
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
 * [2023-11-02, 12:14:44](https://news.ycombinator.com/item?id=38112421) - [Zephr plans to create a \"networked GPS\" using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
 * [2023-11-02, 12:09:12](https://news.ycombinator.com/item?id=38112374) - [Google AI chief says there's a 50% chance we'll hit AGI in just 5 years](https://futurism.com/google-deepmind-agi-5-years)
@@ -26,6 +28,7 @@
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to Fix eIDAS (Mozilla)](https://last-chance-for-eidas.org/)
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
+* [2023-11-02, 04:32:49](https://news.ycombinator.com/item?id=38109020) - [WasmGC – Run GC languages such as Kotlin, Java in Chrome browser](https://developer.chrome.com/blog/wasmgc/)
 * [2023-11-02, 04:23:34](https://news.ycombinator.com/item?id=38108970) - [The Example of Seamus Heaney](https://hudsonreview.com/2023/11/the-example-of-seamus-heaney/)
 * [2023-11-02, 04:19:47](https://news.ycombinator.com/item?id=38108947) - [Companies that use PHP and pay well](https://news.ycombinator.com/item?id=38108947)
 * [2023-11-02, 04:11:02](https://news.ycombinator.com/item?id=38108897) - [Google lays off employees working on its voice assistant](https://www.businessinsider.com/google-lay-offs-voice-assistant-bard-roles-contractors-2023-11)
