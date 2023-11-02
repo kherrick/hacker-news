@@ -7,6 +7,7 @@
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-02, 07:43:28](https://news.ycombinator.com/item?id=38110144) - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 * [2023-11-02, 07:29:34](https://news.ycombinator.com/item?id=38110059) - [Silicon Valley doesn't understand the concept of fun](https://www.fastcompany.com/90965361/why-did-the-metaverse-die-silicon-valley-doesnt-understand-fun)
+* [2023-11-02, 07:07:07](https://news.ycombinator.com/item?id=38109935) - [CubeSigner, a refreshingly secure key manager](https://cubist.dev/)
 * [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 * [2023-11-02, 06:36:55](https://news.ycombinator.com/item?id=38109731) - [Experts criticise EU for certificate proposal that enables spying on HTTPS](https://alecmuffett.com/article/108139)
 * [2023-11-02, 06:14:54](https://news.ycombinator.com/item?id=38109581) - [EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
