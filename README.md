@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-02, 07:43:28](https://news.ycombinator.com/item?id=38110144) - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
@@ -24,7 +25,6 @@
 * [2023-11-01, 17:52:05](https://news.ycombinator.com/item?id=38102083) - [My rude-ass car](https://www.neverbeclever.org/blog/my-rude-ass-car/)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 15:00:43](https://news.ycombinator.com/item?id=38099086) - [Ask HN: Who is hiring? (November 2023)](https://news.ycombinator.com/item?id=38099086)
-* [2023-11-01, 13:32:03](https://news.ycombinator.com/item?id=38097938) - [As the public begins to believe Google isn’t as useful, what happens to SEO?](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
 * [2023-11-01, 04:06:18](https://news.ycombinator.com/item?id=38094500) - [Making Bulletproof Wood [video]](https://www.youtube.com/watch?v=CglNRNrMFGM)
 * [2023-10-31, 20:37:16](https://news.ycombinator.com/item?id=38091024) - [Now Showing, an Ancient Spell Book for the Dead](https://www.nytimes.com/2023/10/31/science/archaeology-egypt-book-dead.html)
 * [2023-10-31, 11:07:04](https://news.ycombinator.com/item?id=38082938) - [Boot legacy PCs from NVMe storage](https://github.com/Manawyrm/nvme-int13h-optionrom)
