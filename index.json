@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-02, 07:43:28",
+      "https://news.ycombinator.com/item?id=38110144"
+    ],
+    [
+      "Home Assistant 2023.11",
+      "https://www.home-assistant.io/blog/2023/11/01/release-202311/"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 07:29:34",
       "https://news.ycombinator.com/item?id=38110059"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38109778"
     ],
     [
-      "Biohacking Lite",
+      "Biohacking Lite (2020)",
       "http://karpathy.github.io/2020/06/11/biohacking-lite/"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "Experts criticise EU for certificate proposal that enables spying on HTTPS",
       "https://alecmuffett.com/article/108139"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 06:14:54",
-      "https://news.ycombinator.com/item?id=38109581"
-    ],
-    [
-      "EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad",
-      "https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38109494"
     ],
     [
-      "Last Chance to Fix eIDAS (Mozilla)",
+      "Last Chance to fix eIDAS: Secret EU law threatens Internet security",
       "https://last-chance-for-eidas.org/"
     ]
   ],
