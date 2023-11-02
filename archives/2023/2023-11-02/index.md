@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 18:48:09](https://news.ycombinator.com/item?id=38118215) - [Justine Bateman's Fight Against Generative AI in Hollywood](https://spectrum.ieee.org/justine-bateman-hollywood-generative-ai)
 * [2023-11-02, 18:43:52](https://news.ycombinator.com/item?id=38118147) - [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
+* [2023-11-02, 18:15:47](https://news.ycombinator.com/item?id=38117795) - [Google Adsense is Transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
 * [2023-11-02, 18:13:56](https://news.ycombinator.com/item?id=38117763) - [Uber, Lyft pay $328M for \"cheating drivers\" out of earnings, NY says](https://arstechnica.com/tech-policy/2023/11/uber-lyft-pay-328-million-for-cheating-drivers-out-of-earnings-ny-says/)
 * [2023-11-02, 18:08:32](https://news.ycombinator.com/item?id=38117689) - [Microsoft is removing Maps and Movies and TV from Windows 11](https://gadgettendency.com/microsoft-is-removing-maps-and-movies-tv-from-windows-11/)
 * [2023-11-02, 17:41:37](https://news.ycombinator.com/item?id=38117289) - [Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
