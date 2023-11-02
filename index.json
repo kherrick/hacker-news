@@ -51,22 +51,22 @@
   ],
   [
     [
-      "2023-11-02, 07:07:07",
-      "https://news.ycombinator.com/item?id=38109935"
-    ],
-    [
-      "CubeSigner, a refreshingly secure key manager",
-      "https://cubist.dev/"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 06:42:11",
       "https://news.ycombinator.com/item?id=38109778"
     ],
     [
       "Biohacking Lite (2020)",
       "http://karpathy.github.io/2020/06/11/biohacking-lite/"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 06:36:55",
+      "https://news.ycombinator.com/item?id=38109731"
+    ],
+    [
+      "Experts criticise EU for certificate proposal that enables spying on HTTPS",
+      "https://alecmuffett.com/article/108139"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-11-02, 04:05:21",
+      "https://news.ycombinator.com/item?id=38108873"
+    ],
+    [
+      "Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario",
+      "https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 01:59:34",
       "https://news.ycombinator.com/item?id=38108044"
     ],
@@ -137,6 +147,16 @@
     [
       "Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)",
       "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 00:55:32",
+      "https://news.ycombinator.com/item?id=38107537"
+    ],
+    [
+      "As child care costs soar, more parents may have to exit the workforce",
+      "https://www.cbsnews.com/news/child-care-costs-us-families-exit-workforce/"
     ]
   ],
   [
@@ -211,22 +231,12 @@
   ],
   [
     [
-      "2023-11-01, 17:52:58",
-      "https://news.ycombinator.com/item?id=38102096"
+      "2023-11-01, 17:48:51",
+      "https://news.ycombinator.com/item?id=38102023"
     ],
     [
-      "What do we mean by \"the foundations of mathematics\"?",
-      "https://lawrencecpaulson.github.io/2023/11/01/Foundations.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 17:52:05",
-      "https://news.ycombinator.com/item?id=38102083"
-    ],
-    [
-      "My rude-ass car",
-      "https://www.neverbeclever.org/blog/my-rude-ass-car/"
+      "A kernel update broke my stylus",
+      "https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Now Showing, an Ancient Spell Book for the Dead",
       "https://www.nytimes.com/2023/10/31/science/archaeology-egypt-book-dead.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 11:07:04",
-      "https://news.ycombinator.com/item?id=38082938"
-    ],
-    [
-      "Boot legacy PCs from NVMe storage",
-      "https://github.com/Manawyrm/nvme-int13h-optionrom"
     ]
   ],
   [
