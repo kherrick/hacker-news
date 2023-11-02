@@ -6,6 +6,7 @@
 
 * [2023-11-02, 15:23:36](https://news.ycombinator.com/item?id=38114798) - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
 * [2023-11-02, 15:22:04](https://news.ycombinator.com/item?id=38114774) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
+* [2023-11-02, 15:06:41](https://news.ycombinator.com/item?id=38114526) - [Nokia sues Amazon, HP over video compression technology](https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology)
 * [2023-11-02, 15:05:54](https://news.ycombinator.com/item?id=38114512) - [Mint is shutting down, and it's pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
 * [2023-11-02, 14:50:40](https://news.ycombinator.com/item?id=38114264) - [Big landlords used software to collude on rent prices, DC lawsuit says](https://arstechnica.com/tech-policy/2023/11/14-big-landlords-used-software-to-collude-on-rent-prices-dc-lawsuit-says/)
 * [2023-11-02, 14:39:33](https://news.ycombinator.com/item?id=38114107) - [Toyota recalls nearly 1.9M RAV4s to fix batteries that can cause a fire](https://www.cnbc.com/2023/11/02/toyota-recalls-nearly-1point9-million-rav4s-to-fix-batteries-that-can-move-during-hard-turns-and-cause-a-fire.html)
@@ -19,6 +20,7 @@
 * [2023-11-02, 12:30:12](https://news.ycombinator.com/item?id=38112574) - [Photomolecular effect leading to water evaporation exceeding the thermal limit](https://www.pnas.org/doi/abs/10.1073/pnas.2312751120)
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
+* [2023-11-02, 12:17:09](https://news.ycombinator.com/item?id=38112443) - [Styling with Classy CSS (2006)](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
 * [2023-11-02, 12:14:44](https://news.ycombinator.com/item?id=38112421) - [Zephr plans to create a \"networked GPS\" using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
 * [2023-11-02, 12:09:12](https://news.ycombinator.com/item?id=38112374) - [Google AI chief says there's a 50% chance we'll hit AGI in just 5 years](https://futurism.com/google-deepmind-agi-5-years)
 * [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
