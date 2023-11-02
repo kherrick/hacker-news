@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 14:25:10](https://news.ycombinator.com/item?id=38113935) - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
 * [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
+* [2023-11-02, 12:30:12](https://news.ycombinator.com/item?id=38112574) - [Photomolecular effect leading to water evaporation exceeding the thermal limit](https://www.pnas.org/doi/abs/10.1073/pnas.2312751120)
 * [2023-11-02, 12:23:58](https://news.ycombinator.com/item?id=38112515) - [Cloudflare API Down](https://www.cloudflarestatus.com/incidents/hm7491k53ppg)
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 12:14:44](https://news.ycombinator.com/item?id=38112421) - [Zephr plans to create a \"networked GPS\" using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
@@ -23,8 +25,6 @@
 * [2023-11-02, 01:59:34](https://news.ycombinator.com/item?id=38108044) - [Show HN: DoltgreSQL – Version-Controlled DB, Like Git and PostgreSQL had a baby](https://github.com/dolthub/doltgresql)
 * [2023-11-02, 01:16:22](https://news.ycombinator.com/item?id=38107711) - [Window-swap – open a new window somewhere in the world](https://www.window-swap.com/)
 * [2023-11-02, 00:39:42](https://news.ycombinator.com/item?id=38107413) - [High-level emulator for iPhone OS apps](https://github.com/hikari-no-yume/touchHLE)
-* [2023-11-01, 23:53:54](https://news.ycombinator.com/item?id=38107078) - [Moon-forming impactor as a source of Earth's basal mantle anomalies](https://www.nature.com/articles/s41586-023-06589-1)
-* [2023-11-01, 22:47:58](https://news.ycombinator.com/item?id=38106461) - [Lemming Suicide Myth: Disney Film Faked Bogus Behavior](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=56)
 * [2023-11-01, 22:19:20](https://news.ycombinator.com/item?id=38106153) - [The Youngest Daughter of the Sciences](https://www.laphamsquarterly.org/roundtable/youngest-daughter-sciences)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
 * [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
