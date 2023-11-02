@@ -2,10 +2,10 @@
 
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-02, 07:43:28](https://news.ycombinator.com/item?id=38110144) - [Home Assistant 2023.11](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
+* [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 07:29:34](https://news.ycombinator.com/item?id=38110059) - [Silicon Valley doesn't understand the concept of fun](https://www.fastcompany.com/90965361/why-did-the-metaverse-die-silicon-valley-doesnt-understand-fun)
 * [2023-11-02, 07:07:07](https://news.ycombinator.com/item?id=38109935) - [CubeSigner, a refreshingly secure key manager](https://cubist.dev/)
 * [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite (2020)](http://karpathy.github.io/2020/06/11/biohacking-lite/)
-* [2023-11-02, 06:36:55](https://news.ycombinator.com/item?id=38109731) - [Experts criticise EU for certificate proposal that enables spying on HTTPS](https://alecmuffett.com/article/108139)
 * [2023-11-02, 06:13:21](https://news.ycombinator.com/item?id=38109575) - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to fix eIDAS: Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
