@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-02, 23:51:06](https://news.ycombinator.com/item?id=38122076) - [SBF Guilty on All Charges](https://twitter.com/CoinDesk/status/1720226784866636113)
+* [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried found guilty on all charges](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 22:30:08](https://news.ycombinator.com/item?id=38121250) - [In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
 * [2023-11-02, 21:41:03](https://news.ycombinator.com/item?id=38120598) - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
@@ -24,12 +26,10 @@
 * [2023-11-02, 12:32:18](https://news.ycombinator.com/item?id=38112596) - [I designed my own keyboard layout. Was it worth it?](https://www.jonashietala.se/blog/2023/11/02/i_designed_my_own_keyboard_layout_was_it_worth_it/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
-* [2023-11-02, 12:17:09](https://news.ycombinator.com/item?id=38112443) - [Styling with Classy CSS (2006)](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
-* [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 
 ## [Archives](archives/index.md)
 
