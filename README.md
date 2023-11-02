@@ -2,6 +2,7 @@
 
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 22:30:08](https://news.ycombinator.com/item?id=38121250) - [In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
+* [2023-11-02, 21:41:03](https://news.ycombinator.com/item?id=38120598) - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
 * [2023-11-02, 21:33:08](https://news.ycombinator.com/item?id=38120491) - [21 Firms that will convert your classic into an EV](https://driving.ca/car-culture/vintage-collectible/21-firms-that-will-convert-your-classic-into-an-ev)
@@ -10,13 +11,11 @@
 * [2023-11-02, 21:02:34](https://news.ycombinator.com/item?id=38120097) - [Sally Ignore Previous Instructions](https://www.haihai.ai/pen15/)
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days in mice](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
-* [2023-11-02, 19:44:23](https://news.ycombinator.com/item?id=38118947) - [A Deep Dive into the Morris Worm (2019)](https://www.rapid7.com/blog/post/2019/01/02/the-ghost-of-exploits-past-a-deep-dive-into-the-morris-worm/)
 * [2023-11-02, 19:32:01](https://news.ycombinator.com/item?id=38118783) - [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 18:43:52](https://news.ycombinator.com/item?id=38118147) - [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
 * [2023-11-02, 18:15:47](https://news.ycombinator.com/item?id=38117795) - [Google Adsense is transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
-* [2023-11-02, 17:41:37](https://news.ycombinator.com/item?id=38117289) - [Joint Statement on AI Safety and Openness](https://open.mozilla.org/letter/)
 * [2023-11-02, 16:56:54](https://news.ycombinator.com/item?id=38116498) - [Current thoughts on social media](https://martinfowler.com/articles/2023-social-media.html)
 * [2023-11-02, 15:15:00](https://news.ycombinator.com/item?id=38114673) - [Earth's blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
 * [2023-11-02, 14:13:34](https://news.ycombinator.com/item?id=38113792) - [The 8000th Busy Beaver number eludes ZF set theory (2016)](https://scottaaronson.blog/?p=2725)
@@ -30,6 +29,7 @@
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
 * [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
+* [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 
 ## [Archives](archives/index.md)
 
