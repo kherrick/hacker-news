@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 21:29:45](https://news.ycombinator.com/item?id=38120434) - [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
+* [2023-11-02, 21:13:32](https://news.ycombinator.com/item?id=38120240) - [DoorDash manages high-availability CockroachDB clusters at scale](https://www.cockroachlabs.com/blog/doordash-cockroachdb-massive-scale/)
 * [2023-11-02, 21:06:28](https://news.ycombinator.com/item?id=38120148) - [U.N. votes to end US embargo on Cuba; US and Israel oppose](https://www.reuters.com/world/americas/un-votes-end-us-embargo-cuba-us-israel-oppose-2023-11-02/)
 * [2023-11-02, 21:02:34](https://news.ycombinator.com/item?id=38120097) - [Little Bobby Tables Has a Baby Sister. Meet Sally Ignore Previous Instructions](https://www.haihai.ai/pen15/)
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
@@ -11,6 +13,7 @@
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
 * [2023-11-02, 19:48:44](https://news.ycombinator.com/item?id=38119010) - [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
+* [2023-11-02, 19:44:23](https://news.ycombinator.com/item?id=38118947) - [A Deep Dive into the Morris Worm (2019)](https://www.rapid7.com/blog/post/2019/01/02/the-ghost-of-exploits-past-a-deep-dive-into-the-morris-worm/)
 * [2023-11-02, 19:42:02](https://news.ycombinator.com/item?id=38118922) - [My side project reached $500 MRR :)](https://aditya8080.substack.com/p/my-side-project-reached-500-mrr)
 * [2023-11-02, 19:32:01](https://news.ycombinator.com/item?id=38118783) - [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
 * [2023-11-02, 19:30:35](https://news.ycombinator.com/item?id=38118766) - [The Morris Worm was released 35 years ago today](https://en.wikipedia.org/wiki/Morris_worm)
