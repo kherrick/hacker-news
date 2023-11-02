@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
 * [2023-11-02, 06:42:11](https://news.ycombinator.com/item?id=38109778) - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
+* [2023-11-02, 06:14:54](https://news.ycombinator.com/item?id=38109581) - [EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
 * [2023-11-02, 06:13:21](https://news.ycombinator.com/item?id=38109575) - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)

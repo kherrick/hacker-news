@@ -81,6 +81,7 @@
 * [2023-10-31, 08:23:02](https://news.ycombinator.com/item?id=38081636) - [Optical or Digital: Minimum focusing distance on iPhone 15 Pro Max 5x camera](https://davidnelson.net/2023/10/minimum-focusing-distance-on-iphone-15-pro-max-5x-camera/)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
 * [2023-10-31, 08:22:42](https://news.ycombinator.com/item?id=38081633) - [German court bans LinkedIn from ignoring \"Do Not Track\" signals](https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/)
+* [2023-10-31, 06:20:45](https://news.ycombinator.com/item?id=38080951) - [A modern, open-source spreadsheet that goes beyond the grid](https://github.com/gristlabs/grist-core)
 * [2023-10-31, 05:29:09](https://news.ycombinator.com/item?id=38080688) - [A better way to handle errors in JavaScript](https://musicq.gitbook.io/unwrapit/)
 * [2023-10-31, 04:35:14](https://news.ycombinator.com/item?id=38080367) - [Two hackers one keyboard two ways](https://flak.tedunangst.com/post/two-hackers-one-keyboard-two-ways)
 * [2023-10-31, 04:19:08](https://news.ycombinator.com/item?id=38080234) - [Cleopatra's Daughter (2018)](https://www.historytoday.com/miscellanies/cleopatras-daughter)
