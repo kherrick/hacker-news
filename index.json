@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-02, 06:14:54",
+      "https://news.ycombinator.com/item?id=38109581"
+    ],
+    [
+      "EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad",
+      "https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 06:13:21",
       "https://news.ycombinator.com/item?id=38109575"
     ],
@@ -67,16 +77,6 @@
     [
       "Yann LeCun: AI one-percenters seizing power forever is real doomsday scenario",
       "https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 02:26:28",
-      "https://news.ycombinator.com/item?id=38108235"
-    ],
-    [
-      "M3 Max Geekbench",
-      "https://browser.geekbench.com/search?q=m3+max"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-11-01, 17:07:38",
-      "https://news.ycombinator.com/item?id=38101328"
-    ],
-    [
-      "Asahi Linux goes from Apple Silicon port project to macOS bug hunters",
-      "https://www.theregister.com/2023/11/01/asahi_linux_mac_black_screen/"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 16:21:52",
       "https://news.ycombinator.com/item?id=38100541"
     ],
@@ -297,6 +287,16 @@
     [
       "Optical or Digital: Minimum focusing distance on iPhone 15 Pro Max 5x camera",
       "https://davidnelson.net/2023/10/minimum-focusing-distance-on-iphone-15-pro-max-5x-camera/"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 06:20:45",
+      "https://news.ycombinator.com/item?id=38080951"
+    ],
+    [
+      "A modern, open-source spreadsheet that goes beyond the grid",
+      "https://github.com/gristlabs/grist-core"
     ]
   ]
 ]
