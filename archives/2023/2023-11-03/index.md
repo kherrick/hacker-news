@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 21:04:59](https://news.ycombinator.com/item?id=38134998) - [The use and misuse of evolutionary psychology in online manosphere communities](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/use-and-misuse-of-evolutionary-psychology-in-online-manosphere-communities-the-case-of-female-mating-strategies/19522B41CF67DFF9F66D919E1F843CCC)
 * [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
+* [2023-11-03, 21:00:48](https://news.ycombinator.com/item?id=38134947) - [BBC World Service Announces Emergency Radio Service for Gaza](https://www.bbc.com/mediacentre/2023/bbc-world-service-announces-emergency-radio-service-for-gaza)
 * [2023-11-03, 20:40:59](https://news.ycombinator.com/item?id=38134717) - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
 * [2023-11-03, 20:39:44](https://news.ycombinator.com/item?id=38134697) - [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
@@ -13,6 +15,7 @@
 * [2023-11-03, 19:58:30](https://news.ycombinator.com/item?id=38134181) - [Good genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 * [2023-11-03, 19:55:56](https://news.ycombinator.com/item?id=38134154) - [What we are doing today with CAR-T cell therapy against cancer seems like SciFi](https://english.elpais.com/health/2023-11-01/miguel-angel-perales-oncologist-what-we-are-doing-today-with-car-t-cell-therapy-against-cancer-seems-like-science-fiction.html)
 * [2023-11-03, 19:53:09](https://news.ycombinator.com/item?id=38134120) - [Accelerating digital block design with Google's open source Mid-Level Synthesis](https://antmicro.com/blog/2023/09/accelerating-digital-block-design-with-googles-xls/)
+* [2023-11-03, 19:47:43](https://news.ycombinator.com/item?id=38134044) - [The Tech Gold Rush Is Over. Where's the Next One?](https://www.bloomberg.com/opinion/articles/2023-11-03/the-tech-gold-rush-is-over-the-search-for-the-next-gold-rush-is-on)
 * [2023-11-03, 19:44:28](https://news.ycombinator.com/item?id=38134014) - [How Coffee and Sugar Powered the Industrial Revolution and Shaped Modern Work](https://www.getchestr.com/post/sweet-stimulants-how-coffee-and-sugar-powered-the-industrial-revolution-and-shaped-modern-work)
 * [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
 * [2023-11-03, 19:24:35](https://news.ycombinator.com/item?id=38133801) - [Wage suppression – not stagnation – is costing workers $10 an hour (2021)](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
