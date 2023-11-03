@@ -6,7 +6,6 @@
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable ARMv9 Memory Tagging Extension (MTE) on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 * [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
-* [2023-11-03, 06:39:05](https://news.ycombinator.com/item?id=38125280) - [AI cameras took over one small American town, now they’re everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
 * [2023-11-03, 06:34:27](https://news.ycombinator.com/item?id=38125244) - [Looks like Google just abandoned its \"Web Environment Integrity\" API plans](https://old.reddit.com/r/programming/comments/17me5dq/looks_like_google_has_just_abandoned_its_terrible/)
 * [2023-11-03, 05:48:38](https://news.ycombinator.com/item?id=38124998) - [Ken Mattingly, astronaut scrubbed from Apollo 13, has died](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
 * [2023-11-03, 05:35:36](https://news.ycombinator.com/item?id=38124937) - [Microsoft Security Bulletin MS98-010 – Critical (1998)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
@@ -28,6 +27,7 @@
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 * [2023-11-02, 11:37:05](https://news.ycombinator.com/item?id=38111997) - [Where do our atoms come from?](https://finmoorhouse.com/writing/future-people/)
+* [2023-11-02, 10:49:46](https://news.ycombinator.com/item?id=38111609) - [Born in a Bomb Shelter](https://callumbirch.com/grandad.html)
 * [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword (2013)](https://jimbly.github.io/regex-crossword/)
 * [2023-11-02, 05:27:47](https://news.ycombinator.com/item?id=38109327) - [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/)
 
