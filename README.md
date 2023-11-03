@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 06:39:05](https://news.ycombinator.com/item?id=38125280) - [AI Cameras Took over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
 * [2023-11-03, 05:48:38](https://news.ycombinator.com/item?id=38124998) - [Ken Mattingly, Astronaut Scrubbed from Apollo 13, Is Dead at 87](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
 * [2023-11-03, 05:35:36](https://news.ycombinator.com/item?id=38124937) - [Microsoft Security Bulletin MS98-010 – Critical (1998)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
 * [2023-11-03, 05:21:35](https://news.ycombinator.com/item?id=38124845) - [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows}](https://news.ycombinator.com/item?id=38124845)
@@ -24,7 +25,6 @@
 * [2023-11-02, 20:30:23](https://news.ycombinator.com/item?id=38119682) - [We've used showers for centuries. why can't hotels make them easier?](https://www.wsj.com/lifestyle/travel/hotel-showers-nate-bargatze-0dc51c81)
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
-* [2023-11-02, 18:43:52](https://news.ycombinator.com/item?id=38118147) - [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
