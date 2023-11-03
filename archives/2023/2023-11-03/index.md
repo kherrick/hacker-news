@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 09:22:39](https://news.ycombinator.com/item?id=38126298) - [Microsoft employees aren't happy that they're losing free Xbox Game Pass](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)
+* [2023-11-03, 08:59:38](https://news.ycombinator.com/item?id=38126150) - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
 * [2023-11-03, 08:50:32](https://news.ycombinator.com/item?id=38126088) - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)
 * [2023-11-03, 08:46:30](https://news.ycombinator.com/item?id=38126060) - [Go TUI library Charm raises $6M in funding](https://charm.sh/blog/the-next-generation/)
 * [2023-11-03, 07:04:17](https://news.ycombinator.com/item?id=38125426) - [Tiny device is sending updated iPhones into a never-ending DoS loop](https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/)
