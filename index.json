@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-03, 12:24:03",
+      "https://news.ycombinator.com/item?id=38127660"
+    ],
+    [
+      "Researcher Claims to Crack RSA-2048 with Quantum Computer",
+      "https://www.bankinfosecurity.com/blogs/researcher-claims-to-crack-rsa-2048-quantum-computer-p-3536"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 12:00:36",
       "https://news.ycombinator.com/item?id=38127422"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2023-11-03, 11:49:05",
+      "https://news.ycombinator.com/item?id=38127326"
+    ],
+    [
+      "Extinct Species in Audubon's Birds of North America",
+      "https://www.audubonart.com/extinct-species-in-audubons-birds-of-america/"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 11:41:38",
       "https://news.ycombinator.com/item?id=38127264"
     ],
     [
       "How do you get APILayer to stop billing you?",
       "https://news.ycombinator.com/item?id=38127264"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 11:33:47",
+      "https://news.ycombinator.com/item?id=38127203"
+    ],
+    [
+      "92% of young people would sacrifice other perks for a 4-day workweek",
+      "https://www.cnbc.com/2023/11/01/what-young-people-would-give-up-for-a-4-day-workweek.html"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Proxima Fusion looks to take stellarators commercial",
       "https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 11:08:42",
+      "https://news.ycombinator.com/item?id=38126997"
+    ],
+    [
+      "EU proposes to take control of web browser root certificates (open letter)",
+      "https://eidas-open-letter.org/"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2023-11-03, 08:46:30",
-      "https://news.ycombinator.com/item?id=38126060"
-    ],
-    [
-      "Charm has raised $6M in funding",
-      "https://charm.sh/blog/the-next-generation/"
-    ]
-  ],
-  [
-    [
       "2023-11-03, 06:55:22",
       "https://news.ycombinator.com/item?id=38125379"
     ],
@@ -117,16 +147,6 @@
     [
       "Bring garbage collected programming languages efficiently to WebAssembly",
       "https://v8.dev/blog/wasm-gc-porting"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 05:48:38",
-      "https://news.ycombinator.com/item?id=38124998"
-    ],
-    [
-      "Ken Mattingly, astronaut scrubbed from Apollo 13, has died",
-      "https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2023-11-02, 21:33:23",
-      "https://news.ycombinator.com/item?id=38120493"
-    ],
-    [
-      "ML Experiments Management with Git",
-      "https://github.com/iterative/dvc"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 20:16:35",
       "https://news.ycombinator.com/item?id=38119463"
     ],
     [
       "Louis Armstrong's Last Word",
       "https://www.thenation.com/article/culture/louis-armstrong-archive/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 17:59:57",
-      "https://news.ycombinator.com/item?id=38117556"
-    ],
-    [
-      "Light can make water evaporate without heat",
-      "https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031"
     ]
   ],
   [
