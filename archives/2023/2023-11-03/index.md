@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
 * [2023-11-03, 18:58:30](https://news.ycombinator.com/item?id=38133356) - [GitHub Giving 404's for Everything](https://news.ycombinator.com/item?id=38133356)
+* [2023-11-03, 18:55:57](https://news.ycombinator.com/item?id=38133300) - [Tell HN: GitHub Is Having Problems](https://news.ycombinator.com/item?id=38133300)
+* [2023-11-03, 18:55:50](https://news.ycombinator.com/item?id=38133297) - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
+* [2023-11-03, 18:54:56](https://news.ycombinator.com/item?id=38133287) - [GitHub was down](https://www.githubstatus.com/)
 * [2023-11-03, 18:54:56](https://news.ycombinator.com/item?id=38133287) - [GitHub Is Down](https://news.ycombinator.com/item?id=38133287)
+* [2023-11-03, 18:54:37](https://news.ycombinator.com/item?id=38133279) - [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
 * [2023-11-03, 18:02:49](https://news.ycombinator.com/item?id=38132550) - [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
 * [2023-11-03, 17:44:34](https://news.ycombinator.com/item?id=38132297) - [11% of the world’s billionaires have held or sought political office](https://news.northwestern.edu/stories/2023/10/11-of-the-worlds-billionaires-have-held-or-sought-political-office/)
 * [2023-11-03, 17:16:34](https://news.ycombinator.com/item?id=38131848) - [Federal Reserve is threatening to sue Bitcoin Mag over parody product](https://bitcoinmagazine.com/legal/federal-reserve-threatens-to-sue-bitcoin-magazine)
