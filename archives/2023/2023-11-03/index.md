@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 10:49:23](https://news.ycombinator.com/item?id=38126819) - [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
 * [2023-11-03, 10:07:23](https://news.ycombinator.com/item?id=38126571) - [Why people in Google hate Go?](https://news.ycombinator.com/item?id=38126571)
 * [2023-11-03, 09:22:39](https://news.ycombinator.com/item?id=38126298) - [Microsoft employees aren't happy that they're losing free Xbox Game Pass](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)
 * [2023-11-03, 09:10:37](https://news.ycombinator.com/item?id=38126212) - [Sam Bankman-Fried and other FTX staff allegedly had 'Wirefraud' chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
