@@ -3,6 +3,7 @@
 * [2023-11-03, 15:59:25](https://news.ycombinator.com/item?id=38130677) - [In Defense of RAM](https://www.404media.co/in-defense-of-ram-on-apple-silicon/)
 * [2023-11-03, 15:41:10](https://news.ycombinator.com/item?id=38130458) - [Sam Bankman-Fried and the effective altruism delusion](https://www.newstatesman.com/long-reads/2023/11/sam-bankman-fried-crypto-king-effective-altruism)
 * [2023-11-03, 15:39:38](https://news.ycombinator.com/item?id=38130433) - [Diffractive Solar Sail](https://en.wikipedia.org/wiki/Diffractive_solar_sail)
+* [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 15:30:30](https://news.ycombinator.com/item?id=38130309) - [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
 * [2023-11-03, 15:16:01](https://news.ycombinator.com/item?id=38130060) - [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
@@ -29,7 +30,6 @@
 * [2023-11-02, 20:16:35](https://news.ycombinator.com/item?id=38119463) - [Louis Armstrong's Last Word](https://www.thenation.com/article/culture/louis-armstrong-archive/)
 * [2023-11-02, 15:56:28](https://news.ycombinator.com/item?id=38115364) - [How to pronounce the trickiest English words](https://www.wsj.com/business/media/how-to-pronounce-english-words-julien-miquel-58581065)
 * [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword (2013)](https://jimbly.github.io/regex-crossword/)
-* [2023-11-02, 05:27:47](https://news.ycombinator.com/item?id=38109327) - [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/)
 
 ## [Archives](archives/index.md)
 

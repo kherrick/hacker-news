@@ -7,6 +7,7 @@
 * [2023-11-03, 15:59:25](https://news.ycombinator.com/item?id=38130677) - [In Defense of RAM](https://www.404media.co/in-defense-of-ram-on-apple-silicon/)
 * [2023-11-03, 15:41:10](https://news.ycombinator.com/item?id=38130458) - [Sam Bankman-Fried and the effective altruism delusion](https://www.newstatesman.com/long-reads/2023/11/sam-bankman-fried-crypto-king-effective-altruism)
 * [2023-11-03, 15:39:38](https://news.ycombinator.com/item?id=38130433) - [Diffractive Solar Sail](https://en.wikipedia.org/wiki/Diffractive_solar_sail)
+* [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 15:30:30](https://news.ycombinator.com/item?id=38130309) - [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
 * [2023-11-03, 15:21:05](https://news.ycombinator.com/item?id=38130146) - [Students ate less meat for 3 years after hearing talk on environmental impacts](https://phys.org/news/2023-03-students-ate-meat-years-negative.html)
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
