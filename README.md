@@ -13,7 +13,6 @@
 * [2023-11-03, 03:27:51](https://news.ycombinator.com/item?id=38124114) - [Translations of Russ Cox's Thompson NFA C Program to Rust](https://github.com/BurntSushi/rsc-regexp)
 * [2023-11-03, 02:10:55](https://news.ycombinator.com/item?id=38123526) - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
 * [2023-11-03, 00:21:08](https://news.ycombinator.com/item?id=38122465) - [If you plant milkweed, they will come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
-* [2023-11-03, 00:14:59](https://news.ycombinator.com/item?id=38122396) - [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
 * [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 23:41:32](https://news.ycombinator.com/item?id=38121994) - [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
 * [2023-11-02, 23:15:42](https://news.ycombinator.com/item?id=38121780) - [Hebrew prayer book fills gap in Italian earthquake history](https://phys.org/news/2023-11-hebrew-prayer-gap-italian-earthquake.html)
@@ -29,6 +28,7 @@
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
+* [2023-11-02, 11:37:05](https://news.ycombinator.com/item?id=38111997) - [Where do our atoms come from?](https://finmoorhouse.com/writing/future-people/)
 * [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword (2013)](https://jimbly.github.io/regex-crossword/)
 
 ## [Archives](archives/index.md)
