@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 13:52:32](https://news.ycombinator.com/item?id=38128765) - [YouTube's Ad Blocker Crackdown Spurs Record Uninstalls](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/)
 * [2023-11-03, 13:23:18](https://news.ycombinator.com/item?id=38128351) - [You can't have a functioning democracy when candidates aren't safe](https://twitter.com/RobertKennedyJr/status/1720156852305191388)
+* [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [UMBC team makes first-ever observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
 * [2023-11-03, 12:24:03](https://news.ycombinator.com/item?id=38127660) - [Researcher Claims to Crack RSA-2048 with Quantum Computer](https://www.bankinfosecurity.com/blogs/researcher-claims-to-crack-rsa-2048-quantum-computer-p-3536)
 * [2023-11-03, 12:21:20](https://news.ycombinator.com/item?id=38127629) - [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
 * [2023-11-03, 12:15:03](https://news.ycombinator.com/item?id=38127560) - [Rwanda joins Kenya to initiate visa-free travel for all Africans](https://africa.businessinsider.com/local/leaders/from-barriers-to-unity-rwanda-joins-kenya-to-initiate-visa-free-travel-for-all/hhqe29q)

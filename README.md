@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-03, 13:23:18](https://news.ycombinator.com/item?id=38128351) - [You can't have a functioning democracy when candidates aren't safe](https://twitter.com/RobertKennedyJr/status/1720156852305191388)
+* [2023-11-03, 13:52:32](https://news.ycombinator.com/item?id=38128765) - [YouTube's Ad Blocker Crackdown Spurs Record Uninstalls](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/)
+* [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [UMBC team makes first-ever observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
 * [2023-11-03, 12:21:20](https://news.ycombinator.com/item?id=38127629) - [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
 * [2023-11-03, 12:15:03](https://news.ycombinator.com/item?id=38127560) - [Rwanda joins Kenya to initiate visa-free travel for all Africans](https://africa.businessinsider.com/local/leaders/from-barriers-to-unity-rwanda-joins-kenya-to-initiate-visa-free-travel-for-all/hhqe29q)
 * [2023-11-03, 12:00:36](https://news.ycombinator.com/item?id=38127422) - [TrueVault (YC W14) Is Hiring Senior Software Engineers (US Remote)](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
@@ -16,7 +17,6 @@
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable ARMv9 Memory Tagging Extension (MTE) on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 * [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
-* [2023-11-03, 05:48:38](https://news.ycombinator.com/item?id=38124998) - [Ken Mattingly, astronaut scrubbed from Apollo 13, has died](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
 * [2023-11-03, 05:35:36](https://news.ycombinator.com/item?id=38124937) - [Microsoft Security Bulletin MS98-010 – Critical (1998)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
 * [2023-11-03, 02:10:55](https://news.ycombinator.com/item?id=38123526) - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
 * [2023-11-03, 00:21:08](https://news.ycombinator.com/item?id=38122465) - [If you plant milkweed, they will come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
