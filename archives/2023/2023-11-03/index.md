@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 15:21:05](https://news.ycombinator.com/item?id=38130146) - [Students ate less meat for 3 years after hearing talk on environmental impacts](https://phys.org/news/2023-03-students-ate-meat-years-negative.html)
+* [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
+* [2023-11-03, 15:16:01](https://news.ycombinator.com/item?id=38130060) - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 * [2023-11-03, 14:55:48](https://news.ycombinator.com/item?id=38129754) - [Daily Telescope: Lucy finds not one but two diamonds in the sky](https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/)
+* [2023-11-03, 14:52:14](https://news.ycombinator.com/item?id=38129696) - [Graphic pro-Israel ads appeared in kids' video games](https://www.youtube.com/watch?v=RZPQ5cYo9f8)
 * [2023-11-03, 14:30:48](https://news.ycombinator.com/item?id=38129353) - [America's shoplifting problem, explained by retail workers and thieves](https://www.vox.com/money/23938554/shoplifting-organized-retail-crime-walmart-target-theft-laws)
 * [2023-11-03, 14:10:17](https://news.ycombinator.com/item?id=38129002) - [Investigators are being sent to Antarctica to look into sexual violence concerns](https://www.wral.com/story/investigators-are-being-sent-to-us-research-base-on-antarctica-to-look-into-sexual-violence-concerns/21130131/)
 * [2023-11-03, 13:53:24](https://news.ycombinator.com/item?id=38128775) - [Research: Every 5min increase in CI equals 1hr longer time-to-merge](https://graphite.dev/blog/how-long-should-ci-take)
