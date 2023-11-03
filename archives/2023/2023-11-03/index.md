@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 22:16:36](https://news.ycombinator.com/item?id=38135752) - [It's almost showtime for SpaceX's Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/)
 * [2023-11-03, 22:03:38](https://news.ycombinator.com/item?id=38135619) - [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
 * [2023-11-03, 21:38:14](https://news.ycombinator.com/item?id=38135320) - [Fuchsia F14](https://fuchsia.dev/whats-new/release-notes/f14)
+* [2023-11-03, 21:32:40](https://news.ycombinator.com/item?id=38135265) - [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
 * [2023-11-03, 21:04:59](https://news.ycombinator.com/item?id=38134998) - [The use and misuse of evolutionary psychology in online manosphere communities](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/use-and-misuse-of-evolutionary-psychology-in-online-manosphere-communities-the-case-of-female-mating-strategies/19522B41CF67DFF9F66D919E1F843CCC)
 * [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 21:00:48](https://news.ycombinator.com/item?id=38134947) - [BBC World Service Announces Emergency Radio Service for Gaza](https://www.bbc.com/mediacentre/2023/bbc-world-service-announces-emergency-radio-service-for-gaza)
