@@ -11,6 +11,7 @@
 * [2023-11-02, 23:13:52](https://news.ycombinator.com/item?id=38121765) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 22:30:08](https://news.ycombinator.com/item?id=38121250) - [In 1886, the US Commissioned 7,500 Watercolor Paintings of Every Known Fruit](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
+* [2023-11-02, 22:26:49](https://news.ycombinator.com/item?id=38121199) - [Auto industry executives admin electric vehicle plans are in jeopardy](https://www.businessinsider.com/auto-executives-coming-clean-evs-arent-working-2023-10)
 * [2023-11-02, 21:53:53](https://news.ycombinator.com/item?id=38120786) - [Mint is shutting down. Thoughts from Mint's first product manager](https://www.monarchmoney.com/blog/mint-shutting-down)
 * [2023-11-02, 21:41:03](https://news.ycombinator.com/item?id=38120598) - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 * [2023-11-02, 21:33:58](https://news.ycombinator.com/item?id=38120501) - [Teen boys use AI to make fake nudes of classmates, sparking police probe](https://arstechnica.com/tech-policy/2023/11/deepfake-nudes-of-high-schoolers-spark-police-probe-in-nj/)
