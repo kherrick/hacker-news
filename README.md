@@ -5,7 +5,6 @@
 * [2023-11-03, 20:39:44](https://news.ycombinator.com/item?id=38134697) - [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
 * [2023-11-03, 20:14:05](https://news.ycombinator.com/item?id=38134381) - [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
-* [2023-11-03, 19:59:56](https://news.ycombinator.com/item?id=38134200) - [Show HN: Chat with Garry Tan using RAG on his YouTube channel](https://gtan-chat.arguflow.ai/)
 * [2023-11-03, 19:58:30](https://news.ycombinator.com/item?id=38134181) - [Good genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 * [2023-11-03, 19:55:56](https://news.ycombinator.com/item?id=38134154) - [What we are doing today with CAR-T cell therapy against cancer seems like SciFi](https://english.elpais.com/health/2023-11-01/miguel-angel-perales-oncologist-what-we-are-doing-today-with-car-t-cell-therapy-against-cancer-seems-like-science-fiction.html)
 * [2023-11-03, 19:53:09](https://news.ycombinator.com/item?id=38134120) - [Accelerating digital block design with Google's open source Mid-Level Synthesis](https://antmicro.com/blog/2023/09/accelerating-digital-block-design-with-googles-xls/)
@@ -28,6 +27,7 @@
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 06:36:53](https://news.ycombinator.com/item?id=38125256) - [Frink is a programming language designed to make physical calculations simple](https://frinklang.org/)
 * [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
+* [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 23:31:53](https://news.ycombinator.com/item?id=38121918) - [Enterprise-Fu](http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html)
 * [2023-11-02, 20:16:35](https://news.ycombinator.com/item?id=38119463) - [Louis Armstrong's Last Word](https://www.thenation.com/article/culture/louis-armstrong-archive/)
 
