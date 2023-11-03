@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-03, 02:36:18](https://news.ycombinator.com/item?id=38123744) - [Hearing 'bad grammar' results in physical signs of stress – new study reveals](https://www.birmingham.ac.uk/news/2023/hearing-bad-grammar-results-in-physical-signs-of-stress-new-study-reveals)
+* [2023-11-03, 02:36:08](https://news.ycombinator.com/item?id=38123739) - [Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
 * [2023-11-03, 02:20:07](https://news.ycombinator.com/item?id=38123595) - [Show HN: Internet Speed Test](https://www.internetspeed.my)
 * [2023-11-03, 02:10:55](https://news.ycombinator.com/item?id=38123526) - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
 * [2023-11-03, 00:14:59](https://news.ycombinator.com/item?id=38122396) - [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
@@ -13,7 +14,6 @@
 * [2023-11-02, 21:41:03](https://news.ycombinator.com/item?id=38120598) - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
-* [2023-11-02, 21:29:45](https://news.ycombinator.com/item?id=38120434) - [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
 * [2023-11-02, 21:02:34](https://news.ycombinator.com/item?id=38120097) - [Sally Ignore Previous Instructions](https://www.haihai.ai/pen15/)
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
