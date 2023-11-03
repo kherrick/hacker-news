@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 12:24:03](https://news.ycombinator.com/item?id=38127660) - [Researcher Claims to Crack RSA-2048 with Quantum Computer](https://www.bankinfosecurity.com/blogs/researcher-claims-to-crack-rsa-2048-quantum-computer-p-3536)
 * [2023-11-03, 12:00:36](https://news.ycombinator.com/item?id=38127422) - [TrueVault (YC W14) Is Hiring Senior Software Engineers (US Remote)](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
+* [2023-11-03, 11:49:05](https://news.ycombinator.com/item?id=38127326) - [Extinct Species in Audubon's Birds of North America](https://www.audubonart.com/extinct-species-in-audubons-birds-of-america/)
 * [2023-11-03, 11:41:38](https://news.ycombinator.com/item?id=38127264) - [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
+* [2023-11-03, 11:33:47](https://news.ycombinator.com/item?id=38127203) - [92% of young people would sacrifice other perks for a 4-day workweek](https://www.cnbc.com/2023/11/01/what-young-people-would-give-up-for-a-4-day-workweek.html)
 * [2023-11-03, 11:25:23](https://news.ycombinator.com/item?id=38127131) - [HTTP 999 – the unofficial status code](https://http.dev/999)
 * [2023-11-03, 11:14:48](https://news.ycombinator.com/item?id=38127053) - [Proxima Fusion looks to take stellarators commercial](https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/)
 * [2023-11-03, 11:09:49](https://news.ycombinator.com/item?id=38127004) - [Top UN official in New York steps down citing genocide of Palestinian civilians](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
+* [2023-11-03, 11:08:42](https://news.ycombinator.com/item?id=38126997) - [EU proposes to take control of web browser root certificates (open letter)](https://eidas-open-letter.org/)
 * [2023-11-03, 10:52:51](https://news.ycombinator.com/item?id=38126840) - [AMD Unveils Ryzen Mobile 7040U Series with Zen 4c Efficiency Cores](https://www.anandtech.com/show/21111/amd-unveils-ryzen-7040u-series-with-zen-4c-smaller-cores-bigger-efficiency)
 * [2023-11-03, 10:49:23](https://news.ycombinator.com/item?id=38126819) - [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
 * [2023-11-03, 10:17:03](https://news.ycombinator.com/item?id=38126623) - [Pix2tex: Using a ViT to convert images of equations into LaTeX code](https://github.com/lukas-blecher/LaTeX-OCR)
