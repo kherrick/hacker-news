@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 20:14:05](https://news.ycombinator.com/item?id=38134381) - [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
+* [2023-11-03, 19:59:56](https://news.ycombinator.com/item?id=38134200) - [Show HN: Chat with Garry Tan using RAG on his YouTube channel](https://gtan-chat.arguflow.ai/)
+* [2023-11-03, 19:58:30](https://news.ycombinator.com/item?id=38134181) - [Good genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
+* [2023-11-03, 19:44:28](https://news.ycombinator.com/item?id=38134014) - [How Coffee and Sugar Powered the Industrial Revolution and Shaped Modern Work](https://www.getchestr.com/post/sweet-stimulants-how-coffee-and-sugar-powered-the-industrial-revolution-and-shaped-modern-work)
+* [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
 * [2023-11-03, 19:24:35](https://news.ycombinator.com/item?id=38133801) - [Wage suppression – not stagnation – is costing workers $10 an hour (2021)](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
 * [2023-11-03, 18:58:30](https://news.ycombinator.com/item?id=38133356) - [GitHub Giving 404's for Everything](https://news.ycombinator.com/item?id=38133356)
 * [2023-11-03, 18:55:57](https://news.ycombinator.com/item?id=38133300) - [Tell HN: GitHub Is Having Problems](https://news.ycombinator.com/item?id=38133300)
