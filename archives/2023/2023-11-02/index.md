@@ -103,6 +103,7 @@
 * [2023-11-02, 06:13:21](https://news.ycombinator.com/item?id=38109575) - [GitHub Engineering: When mTLS Is Done Wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 * [2023-11-02, 05:57:42](https://news.ycombinator.com/item?id=38109494) - [Last Chance to Fix eIDAS (Mozilla)](https://last-chance-for-eidas.org/)
 * [2023-11-02, 05:38:00](https://news.ycombinator.com/item?id=38109386) - [App: Rak – 21st century grep / find / ack / ag / rg on steroids](https://github.com/lizmat/App-Rak)
+* [2023-11-02, 05:27:47](https://news.ycombinator.com/item?id=38109327) - [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/)
 * [2023-11-02, 05:17:27](https://news.ycombinator.com/item?id=38109278) - [M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results](https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/)
 * [2023-11-02, 04:32:49](https://news.ycombinator.com/item?id=38109020) - [WasmGC – Run GC languages such as Kotlin, Java in Chrome browser](https://developer.chrome.com/blog/wasmgc/)
 * [2023-11-02, 04:23:34](https://news.ycombinator.com/item?id=38108970) - [The Example of Seamus Heaney](https://hudsonreview.com/2023/11/the-example-of-seamus-heaney/)
