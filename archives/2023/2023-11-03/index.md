@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 15:41:10](https://news.ycombinator.com/item?id=38130458) - [Sam Bankman-Fried and the effective altruism delusion](https://www.newstatesman.com/long-reads/2023/11/sam-bankman-fried-crypto-king-effective-altruism)
 * [2023-11-03, 15:21:05](https://news.ycombinator.com/item?id=38130146) - [Students ate less meat for 3 years after hearing talk on environmental impacts](https://phys.org/news/2023-03-students-ate-meat-years-negative.html)
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
 * [2023-11-03, 15:16:01](https://news.ycombinator.com/item?id=38130060) - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
