@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 19:24:35](https://news.ycombinator.com/item?id=38133801) - [Wage suppression – not stagnation – is costing workers $10 an hour (2021)](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
 * [2023-11-03, 18:55:50](https://news.ycombinator.com/item?id=38133297) - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
 * [2023-11-03, 18:54:37](https://news.ycombinator.com/item?id=38133279) - [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
 * [2023-11-03, 18:02:49](https://news.ycombinator.com/item?id=38132550) - [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
@@ -9,7 +10,6 @@
 * [2023-11-03, 16:52:28](https://news.ycombinator.com/item?id=38131460) - [Nuclear Conversion for Starship](http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html)
 * [2023-11-03, 16:45:08](https://news.ycombinator.com/item?id=38131322) - [Little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
 * [2023-11-03, 16:15:13](https://news.ycombinator.com/item?id=38130870) - [Okta hit by another breach, stealing employee data from 3rd-party vendor](https://arstechnica.com/security/2023/11/okta-hit-by-another-breach-this-one-stealing-employee-data-from-3rd-party-vendor/)
-* [2023-11-03, 15:39:38](https://news.ycombinator.com/item?id=38130433) - [Diffractive Solar Sail](https://en.wikipedia.org/wiki/Diffractive_solar_sail)
 * [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 15:30:30](https://news.ycombinator.com/item?id=38130309) - [GPT-4 Update: 32K Context Window Now for All Users](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/all_tools.md)
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)

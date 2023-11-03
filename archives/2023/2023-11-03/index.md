@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 19:24:35](https://news.ycombinator.com/item?id=38133801) - [Wage suppression – not stagnation – is costing workers $10 an hour (2021)](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
 * [2023-11-03, 18:58:30](https://news.ycombinator.com/item?id=38133356) - [GitHub Giving 404's for Everything](https://news.ycombinator.com/item?id=38133356)
 * [2023-11-03, 18:55:57](https://news.ycombinator.com/item?id=38133300) - [Tell HN: GitHub Is Having Problems](https://news.ycombinator.com/item?id=38133300)
 * [2023-11-03, 18:55:50](https://news.ycombinator.com/item?id=38133297) - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
