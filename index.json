@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-11-03, 09:22:39",
+      "https://news.ycombinator.com/item?id=38126298"
+    ],
+    [
+      "Microsoft employees aren't happy that they're losing free Xbox Game Pass",
+      "https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 08:59:38",
+      "https://news.ycombinator.com/item?id=38126150"
+    ],
+    [
+      "Java JEP 461: Stream Gatherers",
+      "https://openjdk.org/jeps/461"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 08:46:30",
       "https://news.ycombinator.com/item?id=38126060"
     ],
     [
       "Charm has raised $6M in funding",
       "https://charm.sh/blog/the-next-generation/"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 07:04:17",
-      "https://news.ycombinator.com/item?id=38125426"
-    ],
-    [
-      "Tiny device is sending updated iPhones into a never-ending DoS loop",
-      "https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "ML Experiments Management with Git",
       "https://github.com/iterative/dvc"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 19:44:35",
-      "https://news.ycombinator.com/item?id=38118950"
-    ],
-    [
-      "W3C Invites Implementations of RDF Dataset Canonicalization",
-      "https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/"
     ]
   ],
   [
