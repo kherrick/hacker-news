@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-03, 00:14:59",
+      "https://news.ycombinator.com/item?id=38122396"
+    ],
+    [
+      "Audacity 3.4 – New Musical Features",
+      "https://www.audacityteam.org/blog/audacity-3-4/"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 23:49:17",
       "https://news.ycombinator.com/item?id=38122061"
     ],
     [
       "Sam Bankman-Fried found guilty on all charges",
       "https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 23:13:52",
+      "https://news.ycombinator.com/item?id=38121765"
+    ],
+    [
+      "Hyphens, minus, and dashes in Debian man pages",
+      "https://lwn.net/Articles/947941/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "ML Experiments Management with Git",
       "https://github.com/iterative/dvc"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 21:33:08",
-      "https://news.ycombinator.com/item?id=38120491"
-    ],
-    [
-      "21 Firms that will convert your classic into an EV",
-      "https://driving.ca/car-culture/vintage-collectible/21-firms-that-will-convert-your-classic-into-an-ev"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "AMD starts bringing its own tiny CPU cores to new Ryzen 7040 laptop chips",
       "https://arstechnica.com/gadgets/2023/11/amd-starts-bringing-its-own-tiny-cpu-cores-to-new-ryzen-7040-laptop-chips/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 19:32:01",
-      "https://news.ycombinator.com/item?id=38118783"
-    ],
-    [
-      "Genie: Text to 3D in Seconds",
-      "https://lumalabs.ai/genie"
     ]
   ],
   [
