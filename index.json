@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-03, 13:53:24",
+      "https://news.ycombinator.com/item?id=38128775"
+    ],
+    [
+      "Research: Every 5min increase in CI equals 1hr longer time-to-merge",
+      "https://graphite.dev/blog/how-long-should-ci-take"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 13:47:53",
       "https://news.ycombinator.com/item?id=38128699"
     ],
@@ -127,16 +137,6 @@
     [
       "Pix2tex: Using a ViT to convert images of equations into LaTeX code",
       "https://github.com/lukas-blecher/LaTeX-OCR"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 08:59:38",
-      "https://news.ycombinator.com/item?id=38126150"
-    ],
-    [
-      "Java JEP 461: Stream Gatherers",
-      "https://openjdk.org/jeps/461"
     ]
   ],
   [
