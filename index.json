@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-11-03, 23:05:57",
-      "https://news.ycombinator.com/item?id=38136235"
+      "2023-11-03, 22:43:38",
+      "https://news.ycombinator.com/item?id=38136041"
     ],
     [
-      "Aerogel Core Fission Fragment Rocket Engine",
-      "https://www.nasa.gov/general/aerogel-core-fission-fragment-rocket-engine/"
+      "The Sega Hitachi HiSaturn Navi Console",
+      "https://nfggames.com/games/hisaturn/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Surround sound test files for every audio format",
       "https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 22:16:36",
-      "https://news.ycombinator.com/item?id=38135752"
-    ],
-    [
-      "It's almost showtime for SpaceX's Starship rocket",
-      "https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/"
     ]
   ],
   [
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2023-11-03, 16:51:46",
-      "https://news.ycombinator.com/item?id=38131442"
+      "2023-11-03, 16:52:28",
+      "https://news.ycombinator.com/item?id=38131460"
     ],
     [
-      "Sudo-rs' first security audit",
-      "https://ferrous-systems.com/blog/sudo-rs-audit/"
+      "Nuclear Conversion for Starship",
+      "http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Pix2tex: Using a ViT to convert images of equations into LaTeX code",
       "https://github.com/lukas-blecher/LaTeX-OCR"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 09:10:33",
+      "https://news.ycombinator.com/item?id=38126210"
+    ],
+    [
+      "Why You Should Write Your Own Static Site Generator",
+      "https://arne.me/articles/write-your-own-ssg"
     ]
   ],
   [
