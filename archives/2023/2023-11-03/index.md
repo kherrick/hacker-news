@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 14:30:48](https://news.ycombinator.com/item?id=38129353) - [America's shoplifting problem, explained by retail workers and thieves](https://www.vox.com/money/23938554/shoplifting-organized-retail-crime-walmart-target-theft-laws)
 * [2023-11-03, 14:10:17](https://news.ycombinator.com/item?id=38129002) - [Investigators are being sent to Antarctica to look into sexual violence concerns](https://www.wral.com/story/investigators-are-being-sent-to-us-research-base-on-antarctica-to-look-into-sexual-violence-concerns/21130131/)
 * [2023-11-03, 13:52:32](https://news.ycombinator.com/item?id=38128765) - [YouTube's Ad Blocker Crackdown Spurs Record Uninstalls](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/)
+* [2023-11-03, 13:47:53](https://news.ycombinator.com/item?id=38128699) - [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
 * [2023-11-03, 13:23:18](https://news.ycombinator.com/item?id=38128351) - [You can't have a functioning democracy when candidates aren't safe](https://twitter.com/RobertKennedyJr/status/1720156852305191388)
 * [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [UMBC team makes first-ever observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
 * [2023-11-03, 12:24:03](https://news.ycombinator.com/item?id=38127660) - [Researcher Claims to Crack RSA-2048 with Quantum Computer](https://www.bankinfosecurity.com/blogs/researcher-claims-to-crack-rsa-2048-quantum-computer-p-3536)
