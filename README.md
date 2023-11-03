@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-03, 17:44:34](https://news.ycombinator.com/item?id=38132297) - [11% of the world’s billionaires have held or sought political office](https://news.northwestern.edu/stories/2023/10/11-of-the-worlds-billionaires-have-held-or-sought-political-office/)
+* [2023-11-03, 18:58:30](https://news.ycombinator.com/item?id=38133356) - [GitHub Giving 404's for Everything](https://news.ycombinator.com/item?id=38133356)
+* [2023-11-03, 18:54:56](https://news.ycombinator.com/item?id=38133287) - [GitHub Is Down](https://news.ycombinator.com/item?id=38133287)
+* [2023-11-03, 18:02:49](https://news.ycombinator.com/item?id=38132550) - [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
 * [2023-11-03, 17:16:34](https://news.ycombinator.com/item?id=38131848) - [Federal Reserve is threatening to sue Bitcoin Mag over parody product](https://bitcoinmagazine.com/legal/federal-reserve-threatens-to-sue-bitcoin-magazine)
-* [2023-11-03, 17:14:58](https://news.ycombinator.com/item?id=38131816) - [Oxide Hiring Process](https://rfd.shared.oxide.computer/rfd/0003)
-* [2023-11-03, 17:05:35](https://news.ycombinator.com/item?id=38131674) - [DALL-E 3 Is So Good It's Stoking an Artist Revolt Against AI Scraping](https://www.bloomberg.com/news/articles/2023-11-03/dall-e-3-is-so-good-it-s-stoking-an-artist-revolt-against-ai-scraping)
 * [2023-11-03, 17:00:55](https://news.ycombinator.com/item?id=38131597) - [Laylo (YC S20) Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-11-03, 16:52:28](https://news.ycombinator.com/item?id=38131460) - [Nuclear Conversion for Starship](http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html)
 * [2023-11-03, 16:45:08](https://news.ycombinator.com/item?id=38131322) - [Little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
