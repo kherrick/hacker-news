@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-02, 23:51:06",
-      "https://news.ycombinator.com/item?id=38122076"
-    ],
-    [
-      "SBF Guilty on All Charges",
-      "https://twitter.com/CoinDesk/status/1720226784866636113"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 23:49:17",
       "https://news.ycombinator.com/item?id=38122061"
     ],
@@ -91,12 +81,12 @@
   ],
   [
     [
-      "2023-11-02, 21:13:32",
-      "https://news.ycombinator.com/item?id=38120240"
+      "2023-11-02, 21:10:28",
+      "https://news.ycombinator.com/item?id=38120197"
     ],
     [
-      "DoorDash manages high-availability CockroachDB clusters at scale",
-      "https://www.cockroachlabs.com/blog/doordash-cockroachdb-massive-scale/"
+      "Amazon Execs Intentionally Made Site Shittier to Boost Profit, FTC Lawsuit Shows",
+      "https://www.vice.com/en/article/k7zxja/amazon-execs-intentionally-made-site-shittier-to-rake-in-more-profit-new-quotes-from-ftc-lawsuit-show"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "W3C Invites Implementations of RDF Dataset Canonicalization",
       "https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 19:39:00",
+      "https://news.ycombinator.com/item?id=38118891"
+    ],
+    [
+      "AMD starts bringing its own tiny CPU cores to new Ryzen 7040 laptop chips",
+      "https://arstechnica.com/gadgets/2023/11/amd-starts-bringing-its-own-tiny-cpu-cores-to-new-ryzen-7040-laptop-chips/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-11-02, 08:21:47",
-      "https://news.ycombinator.com/item?id=38110448"
+      "2023-11-02, 12:17:09",
+      "https://news.ycombinator.com/item?id=38112443"
     ],
     [
-      "4th edition of Physically Based Rendering is now freely available online",
-      "https://pbr-book.org/4ed/contents"
+      "Styling with Classy CSS (2006)",
+      "https://thedailywtf.com/articles/Styling_With_Classy_CSS"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-11-01, 19:30:36",
-      "https://news.ycombinator.com/item?id=38103616"
+      "2023-11-01, 17:25:40",
+      "https://news.ycombinator.com/item?id=38101613"
     ],
     [
-      "Now you're thinking with relays",
-      "https://lcamtuf.substack.com/p/now-youre-thinking-with-relays"
+      "Cosmopolitan Third Edition",
+      "https://justine.lol/cosmo3/"
     ]
   ]
 ]
