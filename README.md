@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 02:36:18](https://news.ycombinator.com/item?id=38123744) - [Hearing 'bad grammar' results in physical signs of stress – new study reveals](https://www.birmingham.ac.uk/news/2023/hearing-bad-grammar-results-in-physical-signs-of-stress-new-study-reveals)
 * [2023-11-03, 02:20:07](https://news.ycombinator.com/item?id=38123595) - [Show HN: Internet Speed Test](https://www.internetspeed.my)
 * [2023-11-03, 02:10:55](https://news.ycombinator.com/item?id=38123526) - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
 * [2023-11-03, 00:14:59](https://news.ycombinator.com/item?id=38122396) - [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
@@ -25,7 +26,6 @@
 * [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:32:18](https://news.ycombinator.com/item?id=38112596) - [I designed my own keyboard layout. Was it worth it?](https://www.jonashietala.se/blog/2023/11/02/i_designed_my_own_keyboard_layout_was_it_worth_it/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
-* [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
 * [2023-11-02, 12:17:09](https://news.ycombinator.com/item?id=38112443) - [Styling with Classy CSS (2006)](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
