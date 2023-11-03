@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-03, 21:00:57",
+      "https://news.ycombinator.com/item?id=38134949"
+    ],
+    [
+      "UpCodes (YC S17) Is Hiring SWEs Across the Americas",
+      "https://up.codes/careers"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 20:40:59",
       "https://news.ycombinator.com/item?id=38134717"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2023-11-03, 18:45:04",
+      "https://news.ycombinator.com/item?id=38133134"
+    ],
+    [
+      "Show HN: MicroLua – Lua for the RP2040 Microcontroller",
+      "https://github.com/MicroLua/MicroLua"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 17:26:16",
       "https://news.ycombinator.com/item?id=38132016"
     ],
@@ -111,22 +131,22 @@
   ],
   [
     [
-      "2023-11-03, 17:00:55",
-      "https://news.ycombinator.com/item?id=38131597"
-    ],
-    [
-      "Laylo (YC S20) Is Hiring a Fullstack Engineer",
-      "https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer"
-    ]
-  ],
-  [
-    [
       "2023-11-03, 16:52:28",
       "https://news.ycombinator.com/item?id=38131460"
     ],
     [
       "Nuclear Conversion for Starship",
       "http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 16:51:46",
+      "https://news.ycombinator.com/item?id=38131442"
+    ],
+    [
+      "Sudo-rs' first security audit",
+      "https://ferrous-systems.com/blog/sudo-rs-audit/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-11-02, 23:49:17",
-      "https://news.ycombinator.com/item?id=38122061"
-    ],
-    [
-      "Sam Bankman-Fried Convicted",
-      "https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 23:31:53",
       "https://news.ycombinator.com/item?id=38121918"
     ],
@@ -287,16 +297,6 @@
     [
       "Louis Armstrong's Last Word",
       "https://www.thenation.com/article/culture/louis-armstrong-archive/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 10:30:03",
-      "https://news.ycombinator.com/item?id=38111449"
-    ],
-    [
-      "RegEx Crossword (2013)",
-      "https://jimbly.github.io/regex-crossword/"
     ]
   ]
 ]
