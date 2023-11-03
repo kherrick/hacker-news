@@ -20,7 +20,7 @@
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 22:31:16](https://news.ycombinator.com/item?id=38121261) - [Everything We Know About 1970s Mainframe RPGs We Can No Longer Play](http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html)
 * [2023-11-02, 22:30:08](https://news.ycombinator.com/item?id=38121250) - [In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
-* [2023-11-02, 22:26:49](https://news.ycombinator.com/item?id=38121199) - [Auto industry executives admin electric vehicle plans are in jeopardy](https://www.businessinsider.com/auto-executives-coming-clean-evs-arent-working-2023-10)
+* [2023-11-02, 22:26:49](https://news.ycombinator.com/item?id=38121199) - [Auto industry executives admit electric vehicle plans are in jeopardy](https://www.businessinsider.com/auto-executives-coming-clean-evs-arent-working-2023-10)
 * [2023-11-02, 21:41:03](https://news.ycombinator.com/item?id=38120598) - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
