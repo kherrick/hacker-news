@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 11:09:49](https://news.ycombinator.com/item?id=38127004) - [Top UN official in New York steps down citing genocide of Palestinian civilians](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
 * [2023-11-03, 10:49:23](https://news.ycombinator.com/item?id=38126819) - [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
 * [2023-11-03, 10:07:23](https://news.ycombinator.com/item?id=38126571) - [Why people in Google hate Go?](https://news.ycombinator.com/item?id=38126571)
 * [2023-11-03, 09:22:39](https://news.ycombinator.com/item?id=38126298) - [Microsoft employees aren't happy that they're losing free Xbox Game Pass](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)

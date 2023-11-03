@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 11:09:49](https://news.ycombinator.com/item?id=38127004) - [Top UN official in New York steps down citing genocide of Palestinian civilians](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
 * [2023-11-03, 10:49:23](https://news.ycombinator.com/item?id=38126819) - [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
 * [2023-11-03, 09:10:37](https://news.ycombinator.com/item?id=38126212) - [Sam Bankman-Fried and other FTX staff allegedly had 'Wirefraud' chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
 * [2023-11-03, 08:59:38](https://news.ycombinator.com/item?id=38126150) - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
@@ -24,7 +25,6 @@
 * [2023-11-02, 21:41:03](https://news.ycombinator.com/item?id=38120598) - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
-* [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 * [2023-11-02, 11:37:05](https://news.ycombinator.com/item?id=38111997) - [Where do our atoms come from?](https://finmoorhouse.com/writing/future-people/)
 * [2023-11-02, 10:49:46](https://news.ycombinator.com/item?id=38111609) - [Born in a Bomb Shelter](https://callumbirch.com/grandad.html)
