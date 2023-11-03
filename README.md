@@ -29,7 +29,7 @@
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
-* [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
+* [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword](https://jimbly.github.io/regex-crossword/)
 
 ## [Archives](archives/index.md)
 

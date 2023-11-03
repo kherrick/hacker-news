@@ -87,6 +87,7 @@
 * [2023-11-02, 11:30:31](https://news.ycombinator.com/item?id=38111925) - [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
 * [2023-11-02, 10:37:30](https://news.ycombinator.com/item?id=38111514) - [Could the UK's tides help wean us off fossil fuels?](https://www.bbc.com/news/science-environment-67170625)
 * [2023-11-02, 10:34:26](https://news.ycombinator.com/item?id=38111483) - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
+* [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword](https://jimbly.github.io/regex-crossword/)
 * [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
 * [2023-11-02, 08:14:50](https://news.ycombinator.com/item?id=38110392) - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 * [2023-11-02, 08:01:42](https://news.ycombinator.com/item?id=38110286) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
