@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-03, 18:55:57](https://news.ycombinator.com/item?id=38133300) - [Tell HN: GitHub Is Having Problems](https://news.ycombinator.com/item?id=38133300)
 * [2023-11-03, 18:55:50](https://news.ycombinator.com/item?id=38133297) - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
-* [2023-11-03, 18:54:56](https://news.ycombinator.com/item?id=38133287) - [GitHub was down](https://www.githubstatus.com/)
 * [2023-11-03, 18:54:37](https://news.ycombinator.com/item?id=38133279) - [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
+* [2023-11-03, 18:02:49](https://news.ycombinator.com/item?id=38132550) - [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
+* [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [My \"retirement\" project: Release 40 years worth of my \"source code\"](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-03, 17:16:34](https://news.ycombinator.com/item?id=38131848) - [Federal Reserve is threatening to sue Bitcoin Mag over parody product](https://bitcoinmagazine.com/legal/federal-reserve-threatens-to-sue-bitcoin-magazine)
 * [2023-11-03, 17:00:55](https://news.ycombinator.com/item?id=38131597) - [Laylo (YC S20) Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-11-03, 16:52:28](https://news.ycombinator.com/item?id=38131460) - [Nuclear Conversion for Starship](http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html)
