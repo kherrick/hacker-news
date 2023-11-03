@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-02, 23:51:06](https://news.ycombinator.com/item?id=38122076) - [SBF Guilty on All Charges](https://twitter.com/CoinDesk/status/1720226784866636113)
 * [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried found guilty on all charges](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 22:30:08](https://news.ycombinator.com/item?id=38121250) - [In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
@@ -9,10 +8,11 @@
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
 * [2023-11-02, 21:33:08](https://news.ycombinator.com/item?id=38120491) - [21 Firms that will convert your classic into an EV](https://driving.ca/car-culture/vintage-collectible/21-firms-that-will-convert-your-classic-into-an-ev)
 * [2023-11-02, 21:29:45](https://news.ycombinator.com/item?id=38120434) - [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
-* [2023-11-02, 21:13:32](https://news.ycombinator.com/item?id=38120240) - [DoorDash manages high-availability CockroachDB clusters at scale](https://www.cockroachlabs.com/blog/doordash-cockroachdb-massive-scale/)
+* [2023-11-02, 21:10:28](https://news.ycombinator.com/item?id=38120197) - [Amazon Execs Intentionally Made Site Shittier to Boost Profit, FTC Lawsuit Shows](https://www.vice.com/en/article/k7zxja/amazon-execs-intentionally-made-site-shittier-to-rake-in-more-profit-new-quotes-from-ftc-lawsuit-show)
 * [2023-11-02, 21:02:34](https://news.ycombinator.com/item?id=38120097) - [Sally Ignore Previous Instructions](https://www.haihai.ai/pen15/)
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days in mice](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
+* [2023-11-02, 19:39:00](https://news.ycombinator.com/item?id=38118891) - [AMD starts bringing its own tiny CPU cores to new Ryzen 7040 laptop chips](https://arstechnica.com/gadgets/2023/11/amd-starts-bringing-its-own-tiny-cpu-cores-to-new-ryzen-7040-laptop-chips/)
 * [2023-11-02, 19:32:01](https://news.ycombinator.com/item?id=38118783) - [Genie: Text to 3D in Seconds](https://lumalabs.ai/genie)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 18:43:52](https://news.ycombinator.com/item?id=38118147) - [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
@@ -26,10 +26,10 @@
 * [2023-11-02, 12:32:18](https://news.ycombinator.com/item?id=38112596) - [I designed my own keyboard layout. Was it worth it?](https://www.jonashietala.se/blog/2023/11/02/i_designed_my_own_keyboard_layout_was_it_worth_it/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
 * [2023-11-02, 12:19:50](https://news.ycombinator.com/item?id=38112474) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/questions/27926/who-invented-file-extensions-in-file-names)
-* [2023-11-02, 08:21:47](https://news.ycombinator.com/item?id=38110448) - [4th edition of Physically Based Rendering is now freely available online](https://pbr-book.org/4ed/contents)
+* [2023-11-02, 12:17:09](https://news.ycombinator.com/item?id=38112443) - [Styling with Classy CSS (2006)](https://thedailywtf.com/articles/Styling_With_Classy_CSS)
 * [2023-11-02, 07:32:33](https://news.ycombinator.com/item?id=38110072) - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
 * [2023-11-02, 02:23:18](https://news.ycombinator.com/item?id=38108212) - [Climb aboard Brazil's hurricane truck of happiness](https://www.nytimes.com/interactive/2023/11/01/world/americas/brazil-dancing-trucks-fofao.html)
-* [2023-11-01, 19:30:36](https://news.ycombinator.com/item?id=38103616) - [Now you're thinking with relays](https://lcamtuf.substack.com/p/now-youre-thinking-with-relays)
+* [2023-11-01, 17:25:40](https://news.ycombinator.com/item?id=38101613) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 
 ## [Archives](archives/index.md)
 
