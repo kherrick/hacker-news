@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 20:40:59](https://news.ycombinator.com/item?id=38134717) - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
 * [2023-11-03, 20:14:05](https://news.ycombinator.com/item?id=38134381) - [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
@@ -10,9 +11,10 @@
 * [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
 * [2023-11-03, 18:55:50](https://news.ycombinator.com/item?id=38133297) - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
 * [2023-11-03, 18:54:37](https://news.ycombinator.com/item?id=38133279) - [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
+* [2023-11-03, 18:45:04](https://news.ycombinator.com/item?id=38133134) - [Show HN: MicroLua – Lua for the RP2040 Microcontroller](https://github.com/MicroLua/MicroLua)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [My \"retirement\" project: Release 40 years worth of my \"source code\"](https://dunfield.themindfactory.com/dnldsrc.htm)
-* [2023-11-03, 17:00:55](https://news.ycombinator.com/item?id=38131597) - [Laylo (YC S20) Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-11-03, 16:52:28](https://news.ycombinator.com/item?id=38131460) - [Nuclear Conversion for Starship](http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html)
+* [2023-11-03, 16:51:46](https://news.ycombinator.com/item?id=38131442) - [Sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 * [2023-11-03, 16:15:13](https://news.ycombinator.com/item?id=38130870) - [Okta hit by another breach, stealing employee data from 3rd-party vendor](https://arstechnica.com/security/2023/11/okta-hit-by-another-breach-this-one-stealing-employee-data-from-3rd-party-vendor/)
 * [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
@@ -26,10 +28,8 @@
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 06:36:53](https://news.ycombinator.com/item?id=38125256) - [Frink is a programming language designed to make physical calculations simple](https://frinklang.org/)
 * [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
-* [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 23:31:53](https://news.ycombinator.com/item?id=38121918) - [Enterprise-Fu](http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html)
 * [2023-11-02, 20:16:35](https://news.ycombinator.com/item?id=38119463) - [Louis Armstrong's Last Word](https://www.thenation.com/article/culture/louis-armstrong-archive/)
-* [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword (2013)](https://jimbly.github.io/regex-crossword/)
 
 ## [Archives](archives/index.md)
 

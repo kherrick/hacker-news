@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 20:40:59](https://news.ycombinator.com/item?id=38134717) - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
 * [2023-11-03, 20:14:05](https://news.ycombinator.com/item?id=38134381) - [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
@@ -20,6 +21,7 @@
 * [2023-11-03, 18:54:56](https://news.ycombinator.com/item?id=38133287) - [GitHub was down](https://www.githubstatus.com/)
 * [2023-11-03, 18:54:56](https://news.ycombinator.com/item?id=38133287) - [GitHub Is Down](https://news.ycombinator.com/item?id=38133287)
 * [2023-11-03, 18:54:37](https://news.ycombinator.com/item?id=38133279) - [Appeals Court Denies Judicial Immunity to Judge Who Personally Searched Home](https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/)
+* [2023-11-03, 18:45:04](https://news.ycombinator.com/item?id=38133134) - [Show HN: MicroLua – Lua for the RP2040 Microcontroller](https://github.com/MicroLua/MicroLua)
 * [2023-11-03, 18:02:49](https://news.ycombinator.com/item?id=38132550) - [Ploopy Adept is an open source, customizable trackball that sells for about $60](https://liliputing.com/ploopy-adept-is-an-open-source-customizable-trackball-that-sells-for-about-60/)
 * [2023-11-03, 17:44:34](https://news.ycombinator.com/item?id=38132297) - [11% of the world’s billionaires have held or sought political office](https://news.northwestern.edu/stories/2023/10/11-of-the-worlds-billionaires-have-held-or-sought-political-office/)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [My \"retirement\" project: Release 40 years worth of my \"source code\"](https://dunfield.themindfactory.com/dnldsrc.htm)
@@ -28,6 +30,7 @@
 * [2023-11-03, 17:05:35](https://news.ycombinator.com/item?id=38131674) - [DALL-E 3 Is So Good It's Stoking an Artist Revolt Against AI Scraping](https://www.bloomberg.com/news/articles/2023-11-03/dall-e-3-is-so-good-it-s-stoking-an-artist-revolt-against-ai-scraping)
 * [2023-11-03, 17:00:55](https://news.ycombinator.com/item?id=38131597) - [Laylo (YC S20) Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
 * [2023-11-03, 16:52:28](https://news.ycombinator.com/item?id=38131460) - [Nuclear Conversion for Starship](http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html)
+* [2023-11-03, 16:51:46](https://news.ycombinator.com/item?id=38131442) - [Sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 * [2023-11-03, 16:45:08](https://news.ycombinator.com/item?id=38131322) - [Little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
 * [2023-11-03, 16:25:12](https://news.ycombinator.com/item?id=38131007) - [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too (2022)](https://web.archive.org/web/20221027180943/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 * [2023-11-03, 16:15:13](https://news.ycombinator.com/item?id=38130870) - [Okta hit by another breach, stealing employee data from 3rd-party vendor](https://arstechnica.com/security/2023/11/okta-hit-by-another-breach-this-one-stealing-employee-data-from-3rd-party-vendor/)
