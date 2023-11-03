@@ -7,6 +7,7 @@
 * [2023-11-03, 12:24:03](https://news.ycombinator.com/item?id=38127660) - [Researcher Claims to Crack RSA-2048 with Quantum Computer](https://www.bankinfosecurity.com/blogs/researcher-claims-to-crack-rsa-2048-quantum-computer-p-3536)
 * [2023-11-03, 12:00:36](https://news.ycombinator.com/item?id=38127422) - [TrueVault (YC W14) Is Hiring Senior Software Engineers (US Remote)](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
 * [2023-11-03, 11:49:05](https://news.ycombinator.com/item?id=38127326) - [Extinct Species in Audubon's Birds of North America](https://www.audubonart.com/extinct-species-in-audubons-birds-of-america/)
+* [2023-11-03, 11:47:25](https://news.ycombinator.com/item?id=38127313) - [Cloudflare outage – 24 hours now](https://news.ycombinator.com/item?id=38112515)
 * [2023-11-03, 11:41:38](https://news.ycombinator.com/item?id=38127264) - [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
 * [2023-11-03, 11:33:47](https://news.ycombinator.com/item?id=38127203) - [92% of young people would sacrifice other perks for a 4-day workweek](https://www.cnbc.com/2023/11/01/what-young-people-would-give-up-for-a-4-day-workweek.html)
 * [2023-11-03, 11:25:23](https://news.ycombinator.com/item?id=38127131) - [HTTP 999 – the unofficial status code](https://http.dev/999)
