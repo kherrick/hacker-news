@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-03, 14:30:48](https://news.ycombinator.com/item?id=38129353) - [America's shoplifting problem, explained by retail workers and thieves](https://www.vox.com/money/23938554/shoplifting-organized-retail-crime-walmart-target-theft-laws)
+* [2023-11-03, 13:53:24](https://news.ycombinator.com/item?id=38128775) - [Research: Every 5min increase in CI equals 1hr longer time-to-merge](https://graphite.dev/blog/how-long-should-ci-take)
 * [2023-11-03, 13:47:53](https://news.ycombinator.com/item?id=38128699) - [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
 * [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [UMBC team makes first-ever observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
 * [2023-11-03, 12:21:20](https://news.ycombinator.com/item?id=38127629) - [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
@@ -13,7 +14,6 @@
 * [2023-11-03, 11:08:42](https://news.ycombinator.com/item?id=38126997) - [Joint statement of scientists and NGOs on the EU’s proposed eIDAS reform](https://eidas-open-letter.org/)
 * [2023-11-03, 10:52:51](https://news.ycombinator.com/item?id=38126840) - [AMD Unveils Ryzen Mobile 7040U Series with Zen 4c Efficiency Cores](https://www.anandtech.com/show/21111/amd-unveils-ryzen-7040u-series-with-zen-4c-smaller-cores-bigger-efficiency)
 * [2023-11-03, 10:17:03](https://news.ycombinator.com/item?id=38126623) - [Pix2tex: Using a ViT to convert images of equations into LaTeX code](https://github.com/lukas-blecher/LaTeX-OCR)
-* [2023-11-03, 08:59:38](https://news.ycombinator.com/item?id=38126150) - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable ARMv9 Memory Tagging Extension (MTE) on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 * [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
