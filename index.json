@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-03, 11:09:49",
-      "https://news.ycombinator.com/item?id=38127004"
+      "2023-11-03, 11:41:38",
+      "https://news.ycombinator.com/item?id=38127264"
     ],
     [
-      "Top UN official in New York steps down citing genocide of Palestinian civilians",
-      "https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york"
+      "How do you get APILayer to stop billing you?",
+      "https://news.ycombinator.com/item?id=38127264"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 11:14:48",
+      "https://news.ycombinator.com/item?id=38127053"
+    ],
+    [
+      "Proxima Fusion looks to take stellarators commercial",
+      "https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Apple: Android is a tracking device [pdf]",
       "https://www.justice.gov/d9/2023-11/417532.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 10:17:03",
+      "https://news.ycombinator.com/item?id=38126623"
+    ],
+    [
+      "Pix2tex: Using a ViT to convert images of equations into LaTeX code",
+      "https://github.com/lukas-blecher/LaTeX-OCR"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Java JEP 461: Stream Gatherers",
       "https://openjdk.org/jeps/461"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 08:46:30",
-      "https://news.ycombinator.com/item?id=38126060"
-    ],
-    [
-      "Charm has raised $6M in funding",
-      "https://charm.sh/blog/the-next-generation/"
     ]
   ],
   [
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2023-11-02, 23:41:32",
-      "https://news.ycombinator.com/item?id=38121994"
-    ],
-    [
-      "Google Abandons Web Environment Integrity API",
-      "https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 23:15:42",
-      "https://news.ycombinator.com/item?id=38121780"
-    ],
-    [
-      "Hebrew prayer book fills gap in Italian earthquake history",
-      "https://phys.org/news/2023-11-hebrew-prayer-gap-italian-earthquake.html"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 23:13:52",
       "https://news.ycombinator.com/item?id=38121765"
     ],
@@ -247,6 +237,16 @@
     [
       "ML Experiments Management with Git",
       "https://github.com/iterative/dvc"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 20:16:35",
+      "https://news.ycombinator.com/item?id=38119463"
+    ],
+    [
+      "Louis Armstrong's Last Word",
+      "https://www.thenation.com/article/culture/louis-armstrong-archive/"
     ]
   ],
   [
