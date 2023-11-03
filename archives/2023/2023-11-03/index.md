@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 11:41:38](https://news.ycombinator.com/item?id=38127264) - [How do you get APILayer to stop billing you?](https://news.ycombinator.com/item?id=38127264)
+* [2023-11-03, 11:14:48](https://news.ycombinator.com/item?id=38127053) - [Proxima Fusion looks to take stellarators commercial](https://www.theengineer.co.uk/content/news/proxima-fusion-looks-to-take-stellarators-commercial/)
 * [2023-11-03, 11:09:49](https://news.ycombinator.com/item?id=38127004) - [Top UN official in New York steps down citing genocide of Palestinian civilians](https://www.theguardian.com/world/2023/oct/31/un-official-resigns-israel-hamas-war-palestine-new-york)
 * [2023-11-03, 10:49:23](https://news.ycombinator.com/item?id=38126819) - [Apple: Android is a tracking device [pdf]](https://www.justice.gov/d9/2023-11/417532.pdf)
+* [2023-11-03, 10:17:03](https://news.ycombinator.com/item?id=38126623) - [Pix2tex: Using a ViT to convert images of equations into LaTeX code](https://github.com/lukas-blecher/LaTeX-OCR)
 * [2023-11-03, 10:07:23](https://news.ycombinator.com/item?id=38126571) - [Why people in Google hate Go?](https://news.ycombinator.com/item?id=38126571)
 * [2023-11-03, 09:22:39](https://news.ycombinator.com/item?id=38126298) - [Microsoft employees aren't happy that they're losing free Xbox Game Pass](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)
 * [2023-11-03, 09:10:37](https://news.ycombinator.com/item?id=38126212) - [Sam Bankman-Fried and other FTX staff allegedly had 'Wirefraud' chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
