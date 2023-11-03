@@ -6,6 +6,7 @@
 
 * [2023-11-03, 23:16:53](https://news.ycombinator.com/item?id=38136314) - [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
 * [2023-11-03, 23:05:57](https://news.ycombinator.com/item?id=38136235) - [Aerogel Core Fission Fragment Rocket Engine](https://www.nasa.gov/general/aerogel-core-fission-fragment-rocket-engine/)
+* [2023-11-03, 22:43:38](https://news.ycombinator.com/item?id=38136041) - [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 * [2023-11-03, 22:16:36](https://news.ycombinator.com/item?id=38135752) - [It's almost showtime for SpaceX's Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/)
 * [2023-11-03, 22:03:38](https://news.ycombinator.com/item?id=38135619) - [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
