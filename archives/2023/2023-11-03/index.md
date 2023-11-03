@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 14:55:48](https://news.ycombinator.com/item?id=38129754) - [Daily Telescope: Lucy finds not one but two diamonds in the sky](https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/)
 * [2023-11-03, 14:30:48](https://news.ycombinator.com/item?id=38129353) - [America's shoplifting problem, explained by retail workers and thieves](https://www.vox.com/money/23938554/shoplifting-organized-retail-crime-walmart-target-theft-laws)
 * [2023-11-03, 14:10:17](https://news.ycombinator.com/item?id=38129002) - [Investigators are being sent to Antarctica to look into sexual violence concerns](https://www.wral.com/story/investigators-are-being-sent-to-us-research-base-on-antarctica-to-look-into-sexual-violence-concerns/21130131/)
 * [2023-11-03, 13:53:24](https://news.ycombinator.com/item?id=38128775) - [Research: Every 5min increase in CI equals 1hr longer time-to-merge](https://graphite.dev/blog/how-long-should-ci-take)
@@ -29,6 +30,7 @@
 * [2023-11-03, 10:07:23](https://news.ycombinator.com/item?id=38126571) - [Why people in Google hate Go?](https://news.ycombinator.com/item?id=38126571)
 * [2023-11-03, 09:22:39](https://news.ycombinator.com/item?id=38126298) - [Microsoft employees aren't happy that they're losing free Xbox Game Pass](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)
 * [2023-11-03, 09:10:37](https://news.ycombinator.com/item?id=38126212) - [Sam Bankman-Fried and other FTX staff allegedly had 'Wirefraud' chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
+* [2023-11-03, 09:10:33](https://news.ycombinator.com/item?id=38126210) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 08:59:38](https://news.ycombinator.com/item?id=38126150) - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
 * [2023-11-03, 08:50:32](https://news.ycombinator.com/item?id=38126088) - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)
 * [2023-11-03, 08:46:30](https://news.ycombinator.com/item?id=38126060) - [Go TUI library Charm raises $6M in funding](https://charm.sh/blog/the-next-generation/)
@@ -38,6 +40,7 @@
 * [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 06:39:05](https://news.ycombinator.com/item?id=38125280) - [AI Cameras Took over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
+* [2023-11-03, 06:36:53](https://news.ycombinator.com/item?id=38125256) - [Frink is a programming language designed to make physical calculations simple](https://frinklang.org/#SampleCalculations)
 * [2023-11-03, 06:34:27](https://news.ycombinator.com/item?id=38125244) - [Looks like Google just abandoned its \"Web Environment Integrity\" API plans](https://old.reddit.com/r/programming/comments/17me5dq/looks_like_google_has_just_abandoned_its_terrible/)
 * [2023-11-03, 06:34:24](https://news.ycombinator.com/item?id=38125243) - [Is a Poe.com subscription better than ChatGPT Plus?](https://news.ycombinator.com/item?id=38125243)
 * [2023-11-03, 05:48:38](https://news.ycombinator.com/item?id=38124998) - [Ken Mattingly, Astronaut Scrubbed from Apollo 13, Is Dead at 87](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
