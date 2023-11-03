@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
+* [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
+* [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 06:39:05](https://news.ycombinator.com/item?id=38125280) - [AI Cameras Took over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/)
+* [2023-11-03, 06:34:27](https://news.ycombinator.com/item?id=38125244) - [Looks like Google just abandoned its \"Web Environment Integrity\" API plans](https://old.reddit.com/r/programming/comments/17me5dq/looks_like_google_has_just_abandoned_its_terrible/)
+* [2023-11-03, 06:34:24](https://news.ycombinator.com/item?id=38125243) - [Is a Poe.com subscription better than ChatGPT Plus?](https://news.ycombinator.com/item?id=38125243)
 * [2023-11-03, 05:48:38](https://news.ycombinator.com/item?id=38124998) - [Ken Mattingly, Astronaut Scrubbed from Apollo 13, Is Dead at 87](https://www.nytimes.com/2023/11/02/science/space/ken-mattingly-dead.html)
 * [2023-11-03, 05:35:36](https://news.ycombinator.com/item?id=38124937) - [Microsoft Security Bulletin MS98-010 – Critical (1998)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-010)
 * [2023-11-03, 05:21:35](https://news.ycombinator.com/item?id=38124845) - [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows}](https://news.ycombinator.com/item?id=38124845)
