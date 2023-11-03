@@ -23,6 +23,7 @@
 * [2023-11-03, 08:59:38](https://news.ycombinator.com/item?id=38126150) - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
 * [2023-11-03, 08:50:32](https://news.ycombinator.com/item?id=38126088) - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)
 * [2023-11-03, 08:46:30](https://news.ycombinator.com/item?id=38126060) - [Go TUI library Charm raises $6M in funding](https://charm.sh/blog/the-next-generation/)
+* [2023-11-03, 07:59:50](https://news.ycombinator.com/item?id=38125771) - [M3 Macs: there's more to performance than counting cores](https://eclecticlight.co/2023/11/03/m3-macs-theres-more-to-performance-than-counting-cores/)
 * [2023-11-03, 07:04:17](https://news.ycombinator.com/item?id=38125426) - [Tiny device is sending updated iPhones into a never-ending DoS loop](https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/)
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 * [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
