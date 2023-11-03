@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 13:23:18](https://news.ycombinator.com/item?id=38128351) - [You can't have a functioning democracy when candidates aren't safe](https://twitter.com/RobertKennedyJr/status/1720156852305191388)
 * [2023-11-03, 12:24:03](https://news.ycombinator.com/item?id=38127660) - [Researcher Claims to Crack RSA-2048 with Quantum Computer](https://www.bankinfosecurity.com/blogs/researcher-claims-to-crack-rsa-2048-quantum-computer-p-3536)
+* [2023-11-03, 12:21:20](https://news.ycombinator.com/item?id=38127629) - [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
 * [2023-11-03, 12:15:03](https://news.ycombinator.com/item?id=38127560) - [Rwanda joins Kenya to initiate visa-free travel for all Africans](https://africa.businessinsider.com/local/leaders/from-barriers-to-unity-rwanda-joins-kenya-to-initiate-visa-free-travel-for-all/hhqe29q)
 * [2023-11-03, 12:00:36](https://news.ycombinator.com/item?id=38127422) - [TrueVault (YC W14) Is Hiring Senior Software Engineers (US Remote)](https://careers.truevault.com/jobs/9007-senior-software-engineer?promotion=254-trackable-share-link-yc-jobs-post-nov-2023)
 * [2023-11-03, 11:49:05](https://news.ycombinator.com/item?id=38127326) - [Extinct Species in Audubon's Birds of North America](https://www.audubonart.com/extinct-species-in-audubons-birds-of-america/)
