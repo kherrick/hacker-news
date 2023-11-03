@@ -7,6 +7,7 @@
 * [2023-11-02, 23:51:06](https://news.ycombinator.com/item?id=38122076) - [SBF Guilty on All Charges](https://twitter.com/CoinDesk/status/1720226784866636113)
 * [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried found guilty on all charges](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 23:41:32](https://news.ycombinator.com/item?id=38121994) - [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
+* [2023-11-02, 23:15:42](https://news.ycombinator.com/item?id=38121780) - [Hebrew prayer book fills gap in Italian earthquake history](https://phys.org/news/2023-11-hebrew-prayer-gap-italian-earthquake.html)
 * [2023-11-02, 23:13:52](https://news.ycombinator.com/item?id=38121765) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 22:30:08](https://news.ycombinator.com/item?id=38121250) - [In 1886, the US Commissioned 7,500 Watercolor Paintings of Every Known Fruit](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
