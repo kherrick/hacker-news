@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 07:04:17](https://news.ycombinator.com/item?id=38125426) - [Tiny device is sending updated iPhones into a never-ending DoS loop](https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/)
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 * [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
@@ -11,9 +12,8 @@
 * [2023-11-03, 05:21:35](https://news.ycombinator.com/item?id=38124845) - [TIL: man {gittutorial,giteveryday,gitglossary,gitworkflows}](https://news.ycombinator.com/item?id=38124845)
 * [2023-11-03, 03:27:51](https://news.ycombinator.com/item?id=38124114) - [Translations of Russ Cox's Thompson NFA C Program to Rust](https://github.com/BurntSushi/rsc-regexp)
 * [2023-11-03, 02:10:55](https://news.ycombinator.com/item?id=38123526) - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
-* [2023-11-03, 00:21:08](https://news.ycombinator.com/item?id=38122465) - [If You Plant Milkweed, They Will Come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
+* [2023-11-03, 00:21:08](https://news.ycombinator.com/item?id=38122465) - [If you plant milkweed, they will come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
 * [2023-11-03, 00:14:59](https://news.ycombinator.com/item?id=38122396) - [Audacity 3.4](https://www.audacityteam.org/blog/audacity-3-4/)
-* [2023-11-03, 00:03:00](https://news.ycombinator.com/item?id=38122224) - [Curley vs. Electric Vehicle Co. (1902)](https://cite.case.law/set-cookie/?next=%2Fnys%2F74%2F35%2F)
 * [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 23:41:32](https://news.ycombinator.com/item?id=38121994) - [Google Abandons Web Environment Integrity API](https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/)
 * [2023-11-02, 23:15:42](https://news.ycombinator.com/item?id=38121780) - [Hebrew prayer book fills gap in Italian earthquake history](https://phys.org/news/2023-11-hebrew-prayer-gap-italian-earthquake.html)
@@ -25,11 +25,11 @@
 * [2023-11-02, 21:41:03](https://news.ycombinator.com/item?id=38120598) - [Course using F#: Write your own tiny programming system(s)](https://d3s.mff.cuni.cz/teaching/nprg077/)
 * [2023-11-02, 21:33:49](https://news.ycombinator.com/item?id=38120497) - [How big data carried graph theory into new dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
-* [2023-11-02, 20:30:23](https://news.ycombinator.com/item?id=38119682) - [We've used showers for centuries. why can't hotels make them easier?](https://www.wsj.com/lifestyle/travel/hotel-showers-nate-bargatze-0dc51c81)
+* [2023-11-02, 20:30:23](https://news.ycombinator.com/item?id=38119682) - [Why can't hotels make showers easier?](https://www.wsj.com/lifestyle/travel/hotel-showers-nate-bargatze-0dc51c81)
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
-* [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword](https://jimbly.github.io/regex-crossword/)
+* [2023-11-02, 10:30:03](https://news.ycombinator.com/item?id=38111449) - [RegEx Crossword (2013)](https://jimbly.github.io/regex-crossword/)
 
 ## [Archives](archives/index.md)
 

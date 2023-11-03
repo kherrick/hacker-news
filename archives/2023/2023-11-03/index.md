@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 07:04:17](https://news.ycombinator.com/item?id=38125426) - [Tiny device is sending updated iPhones into a never-ending DoS loop](https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/)
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 * [2023-11-03, 06:53:26](https://news.ycombinator.com/item?id=38125367) - [The Binder Linux driver is being rewritten in Rust](https://lore.kernel.org/rust-for-linux/20231101-rust-binder-v1-0-08ba9197f637@google.com/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
