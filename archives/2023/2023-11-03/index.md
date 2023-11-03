@@ -9,4 +9,6 @@
 * [2023-11-03, 02:36:08](https://news.ycombinator.com/item?id=38123739) - [Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
 * [2023-11-03, 02:20:07](https://news.ycombinator.com/item?id=38123595) - [Show HN: Internet Speed Test](https://www.internetspeed.my)
 * [2023-11-03, 02:10:55](https://news.ycombinator.com/item?id=38123526) - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
+* [2023-11-03, 00:21:08](https://news.ycombinator.com/item?id=38122465) - [If You Plant Milkweed, They Will Come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
 * [2023-11-03, 00:14:59](https://news.ycombinator.com/item?id=38122396) - [Audacity 3.4 – New Musical Features](https://www.audacityteam.org/blog/audacity-3-4/)
+* [2023-11-03, 00:03:00](https://news.ycombinator.com/item?id=38122224) - [Curley vs. Electric Vehicle Co. (1902)](https://cite.case.law/set-cookie/?next=%2Fnys%2F74%2F35%2F)
