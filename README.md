@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-03, 21:04:59](https://news.ycombinator.com/item?id=38134998) - [The use and misuse of evolutionary psychology in online manosphere communities](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/use-and-misuse-of-evolutionary-psychology-in-online-manosphere-communities-the-case-of-female-mating-strategies/19522B41CF67DFF9F66D919E1F843CCC)
 * [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 21:00:48](https://news.ycombinator.com/item?id=38134947) - [BBC World Service Announces Emergency Radio Service for Gaza](https://www.bbc.com/mediacentre/2023/bbc-world-service-announces-emergency-radio-service-for-gaza)
 * [2023-11-03, 20:40:59](https://news.ycombinator.com/item?id=38134717) - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
@@ -28,6 +27,7 @@
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 06:36:53](https://news.ycombinator.com/item?id=38125256) - [Frink is a programming language designed to make physical calculations simple](https://frinklang.org/)
 * [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
+* [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 * [2023-11-02, 23:31:53](https://news.ycombinator.com/item?id=38121918) - [Enterprise-Fu](http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html)
 * [2023-11-02, 20:16:35](https://news.ycombinator.com/item?id=38119463) - [Louis Armstrong's Last Word](https://www.thenation.com/article/culture/louis-armstrong-archive/)
 
