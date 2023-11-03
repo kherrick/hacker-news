@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 02:57:23](https://news.ycombinator.com/item?id=38123884) - [Toyota cuts 2023 EV sales forecast by nearly 40%](https://electrek.co/2023/11/01/toyota-drastically-cuts-ev-sales-forecast-amid-strategy-shift/)
 * [2023-11-03, 02:36:18](https://news.ycombinator.com/item?id=38123744) - [Hearing 'bad grammar' results in physical signs of stress – new study reveals](https://www.birmingham.ac.uk/news/2023/hearing-bad-grammar-results-in-physical-signs-of-stress-new-study-reveals)
 * [2023-11-03, 02:36:08](https://news.ycombinator.com/item?id=38123739) - [Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
 * [2023-11-03, 02:20:07](https://news.ycombinator.com/item?id=38123595) - [Show HN: Internet Speed Test](https://www.internetspeed.my)

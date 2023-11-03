@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 02:57:23](https://news.ycombinator.com/item?id=38123884) - [Toyota cuts 2023 EV sales forecast by nearly 40%](https://electrek.co/2023/11/01/toyota-drastically-cuts-ev-sales-forecast-amid-strategy-shift/)
 * [2023-11-03, 02:36:18](https://news.ycombinator.com/item?id=38123744) - [Hearing 'bad grammar' results in physical signs of stress – new study reveals](https://www.birmingham.ac.uk/news/2023/hearing-bad-grammar-results-in-physical-signs-of-stress-new-study-reveals)
 * [2023-11-03, 02:36:08](https://news.ycombinator.com/item?id=38123739) - [Sam Bankman-Fried: guilty on all charges](https://newsletter.mollywhite.net/p/sam-bankman-fried-guilty-on-all-charges)
 * [2023-11-03, 02:20:07](https://news.ycombinator.com/item?id=38123595) - [Show HN: Internet Speed Test](https://www.internetspeed.my)
@@ -18,7 +19,6 @@
 * [2023-11-02, 19:44:35](https://news.ycombinator.com/item?id=38118950) - [W3C Invites Implementations of RDF Dataset Canonicalization](https://www.w3.org/news/2023/w3c-invites-implementations-of-rdf-dataset-canonicalization/)
 * [2023-11-02, 19:15:45](https://news.ycombinator.com/item?id=38118577) - [From S3 to R2: An economic opportunity](https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity)
 * [2023-11-02, 18:43:52](https://news.ycombinator.com/item?id=38118147) - [Apple Patent Shows GPU Dynamic Caching Has Been in Development for Years](https://www.tomshardware.com/software/macos/apple-patent-shows-gpu-dynamic-caching-has-been-in-development-for-years)
-* [2023-11-02, 18:15:47](https://news.ycombinator.com/item?id=38117795) - [Google Adsense is transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 * [2023-11-02, 15:15:00](https://news.ycombinator.com/item?id=38114673) - [Earth's blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
 * [2023-11-02, 14:13:34](https://news.ycombinator.com/item?id=38113792) - [The 8000th Busy Beaver number eludes ZF set theory (2016)](https://scottaaronson.blog/?p=2725)
