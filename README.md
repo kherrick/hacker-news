@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-03, 04:26:51](https://news.ycombinator.com/item?id=38124523) - [An Open Letter to the FreeBSD Foundation, Core Team, Committers, and Community](https://docs.google.com/document/d/1h3UPx1MkMC-vg-kS7Di45xMG-UsEI7YU2MNVlRtYARM/edit)
 * [2023-11-03, 02:20:07](https://news.ycombinator.com/item?id=38123595) - [Show HN: Internet Speed Test](https://www.internetspeed.my)
 * [2023-11-03, 02:10:55](https://news.ycombinator.com/item?id=38123526) - [Email.radio – Free Email Domain for Licensed Ham Radio Operators](https://email.radio/)
 * [2023-11-03, 00:21:08](https://news.ycombinator.com/item?id=38122465) - [If You Plant Milkweed, They Will Come](https://www.nytimes.com/2023/10/25/realestate/gardening-milkweed-plants-butterflies.html)
@@ -22,7 +23,6 @@
 * [2023-11-02, 18:15:47](https://news.ycombinator.com/item?id=38117795) - [Google Adsense is transitioning to per-impression payments for publishers](https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/)
 * [2023-11-02, 17:59:57](https://news.ycombinator.com/item?id=38117556) - [Light can make water evaporate without heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 * [2023-11-02, 15:15:00](https://news.ycombinator.com/item?id=38114673) - [Earth's blobs are remnants of an ancient planetary collision](https://news.asu.edu/20231101-asu-researchers-discover-earths-blobs-are-remnants-ancient-planetary-collision)
-* [2023-11-02, 14:13:34](https://news.ycombinator.com/item?id=38113792) - [The 8000th Busy Beaver number eludes ZF set theory (2016)](https://scottaaronson.blog/?p=2725)
 * [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:32:18](https://news.ycombinator.com/item?id=38112596) - [I designed my own keyboard layout. Was it worth it?](https://www.jonashietala.se/blog/2023/11/02/i_designed_my_own_keyboard_layout_was_it_worth_it/)
 * [2023-11-02, 12:31:33](https://news.ycombinator.com/item?id=38112585) - [Engineering Icons Tube Map](https://londonblog.tfl.gov.uk/2023/11/01/engineering-icons-tube-map/)
