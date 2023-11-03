@@ -6,6 +6,7 @@
 
 * [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 20:40:59](https://news.ycombinator.com/item?id=38134717) - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
+* [2023-11-03, 20:39:44](https://news.ycombinator.com/item?id=38134697) - [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
 * [2023-11-03, 20:14:05](https://news.ycombinator.com/item?id=38134381) - [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
 * [2023-11-03, 19:59:56](https://news.ycombinator.com/item?id=38134200) - [Show HN: Chat with Garry Tan using RAG on his YouTube channel](https://gtan-chat.arguflow.ai/)

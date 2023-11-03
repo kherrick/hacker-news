@@ -2,6 +2,7 @@
 
 * [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 20:40:59](https://news.ycombinator.com/item?id=38134717) - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
+* [2023-11-03, 20:39:44](https://news.ycombinator.com/item?id=38134697) - [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
 * [2023-11-03, 20:14:05](https://news.ycombinator.com/item?id=38134381) - [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
 * [2023-11-03, 19:59:56](https://news.ycombinator.com/item?id=38134200) - [Show HN: Chat with Garry Tan using RAG on his YouTube channel](https://gtan-chat.arguflow.ai/)
@@ -22,7 +23,6 @@
 * [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [First observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
 * [2023-11-03, 12:21:20](https://news.ycombinator.com/item?id=38127629) - [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
 * [2023-11-03, 10:17:03](https://news.ycombinator.com/item?id=38126623) - [Pix2tex: Using a ViT to convert images of equations into LaTeX code](https://github.com/lukas-blecher/LaTeX-OCR)
-* [2023-11-03, 09:10:33](https://news.ycombinator.com/item?id=38126210) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 07:59:50](https://news.ycombinator.com/item?id=38125771) - [M3 Macs: there's more to performance than counting cores](https://eclecticlight.co/2023/11/03/m3-macs-theres-more-to-performance-than-counting-cores/)
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable ARMv9 Memory Tagging Extension (MTE) on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
