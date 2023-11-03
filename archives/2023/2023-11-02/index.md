@@ -25,6 +25,7 @@
 * [2023-11-02, 21:05:55](https://news.ycombinator.com/item?id=38120139) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2023/11/apple-reports-fourth-quarter-results/)
 * [2023-11-02, 21:02:34](https://news.ycombinator.com/item?id=38120097) - [Little Bobby Tables Has a Baby Sister. Meet Sally Ignore Previous Instructions](https://www.haihai.ai/pen15/)
 * [2023-11-02, 20:43:18](https://news.ycombinator.com/item?id=38119861) - [One sleepless night can rapidly reverse depression for several days](https://news.northwestern.edu/stories/2023/11/one-sleepless-night-can-rapidly-reverse-depression-for-several-days/)
+* [2023-11-02, 20:30:23](https://news.ycombinator.com/item?id=38119682) - [We've used showers for centuries. why can't hotels make them easier?](https://www.wsj.com/lifestyle/travel/hotel-showers-nate-bargatze-0dc51c81)
 * [2023-11-02, 20:09:58](https://news.ycombinator.com/item?id=38119354) - [Adobe Caught Selling AI-Generated Images of Israel-Palestine Violence](https://futurism.com/adobe-caught-selling-ai-generated-images-israel-palestine-violence)
 * [2023-11-02, 20:00:59](https://news.ycombinator.com/item?id=38119218) - [Russian Reshipping Service 'Swat USA Drop' Exposed](https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/)
 * [2023-11-02, 19:48:44](https://news.ycombinator.com/item?id=38119010) - [The AI Market Is Firming Up Fast](https://www.dbreunig.com/2023/10/02/the-ai-market-is-firming-up-fast.html)
