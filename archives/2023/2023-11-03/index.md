@@ -6,6 +6,8 @@
 
 * [2023-11-03, 17:16:34](https://news.ycombinator.com/item?id=38131848) - [Federal Reserve is threatening to sue Bitcoin Mag over parody product](https://bitcoinmagazine.com/legal/federal-reserve-threatens-to-sue-bitcoin-magazine)
 * [2023-11-03, 17:00:55](https://news.ycombinator.com/item?id=38131597) - [Laylo (YC S20) Is Hiring a Fullstack Engineer](https://www.ycombinator.com/companies/laylo/jobs/ZVMFWsc-fullstack-engineer)
+* [2023-11-03, 16:52:28](https://news.ycombinator.com/item?id=38131460) - [Nuclear Conversion for Starship](http://toughsf.blogspot.com/2021/10/nuclear-conversion-for-starship.html)
+* [2023-11-03, 16:45:08](https://news.ycombinator.com/item?id=38131322) - [Little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
 * [2023-11-03, 16:25:12](https://news.ycombinator.com/item?id=38131007) - [Sam Bankman-Fried Has a Savior Complex–and Maybe You Should Too (2022)](https://web.archive.org/web/20221027180943/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/)
 * [2023-11-03, 16:15:13](https://news.ycombinator.com/item?id=38130870) - [Okta hit by another breach, stealing employee data from 3rd-party vendor](https://arstechnica.com/security/2023/11/okta-hit-by-another-breach-this-one-stealing-employee-data-from-3rd-party-vendor/)
 * [2023-11-03, 15:59:25](https://news.ycombinator.com/item?id=38130677) - [In Defense of RAM](https://www.404media.co/in-defense-of-ram-on-apple-silicon/)
