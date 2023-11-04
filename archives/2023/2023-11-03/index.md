@@ -11,6 +11,8 @@
 * [2023-11-03, 23:05:57](https://news.ycombinator.com/item?id=38136235) - [Aerogel Core Fission Fragment Rocket Engine](https://www.nasa.gov/general/aerogel-core-fission-fragment-rocket-engine/)
 * [2023-11-03, 23:02:19](https://news.ycombinator.com/item?id=38136211) - [Running Mod_Perl with Mojolicious in Docker](https://rawley.xyz/docker-mod-perl.html)
 * [2023-11-03, 22:43:38](https://news.ycombinator.com/item?id=38136041) - [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
+* [2023-11-03, 22:39:59](https://news.ycombinator.com/item?id=38136004) - [\"I couldn't move for a postdoc. Fellowship reviewers penalized me for it.\"](https://www.science.org/content/article/i-didn-t-want-relocate-postdoc-fellowship-reviewers-penalized-me-it)
+* [2023-11-03, 22:37:26](https://news.ycombinator.com/item?id=38135979) - [The Car Navigation System / 1981](https://global.honda/en/heritage/episodes/1981navigationsystem.html)
 * [2023-11-03, 22:29:02](https://news.ycombinator.com/item?id=38135892) - [Edison Bulb Night Mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 * [2023-11-03, 22:16:36](https://news.ycombinator.com/item?id=38135752) - [It's almost showtime for SpaceX's Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/)

@@ -1,12 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
+* [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
 * [2023-11-04, 00:11:57](https://news.ycombinator.com/item?id=38136689) - [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
 * [2023-11-03, 23:59:54](https://news.ycombinator.com/item?id=38136607) - [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
 * [2023-11-03, 23:39:46](https://news.ycombinator.com/item?id=38136466) - [Apple claims to have three distinct web browsers in the EU complaint](https://twitter.com/OpenWebAdvocacy/status/1720238162310758466)
 * [2023-11-03, 23:29:11](https://news.ycombinator.com/item?id=38136404) - [BBS Still Exist](https://www.telnetbbsguide.com/)
 * [2023-11-03, 23:16:53](https://news.ycombinator.com/item?id=38136314) - [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
-* [2023-11-03, 23:02:19](https://news.ycombinator.com/item?id=38136211) - [Running Mod_Perl with Mojolicious in Docker](https://rawley.xyz/docker-mod-perl.html)
 * [2023-11-03, 22:43:38](https://news.ycombinator.com/item?id=38136041) - [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
+* [2023-11-03, 22:39:59](https://news.ycombinator.com/item?id=38136004) - [\"I couldn't move for a postdoc. Fellowship reviewers penalized me for it.\"](https://www.science.org/content/article/i-didn-t-want-relocate-postdoc-fellowship-reviewers-penalized-me-it)
+* [2023-11-03, 22:37:26](https://news.ycombinator.com/item?id=38135979) - [The Car Navigation System / 1981](https://global.honda/en/heritage/episodes/1981navigationsystem.html)
 * [2023-11-03, 22:29:02](https://news.ycombinator.com/item?id=38135892) - [Edison Bulb Night Mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 * [2023-11-03, 22:07:26](https://news.ycombinator.com/item?id=38135661) - [Tell HN: Marcus.com' automated fraud detection locked me out of life savings](https://news.ycombinator.com/item?id=38135661)
@@ -26,10 +29,7 @@
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
 * [2023-11-03, 13:47:53](https://news.ycombinator.com/item?id=38128699) - [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
 * [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [First observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
-* [2023-11-03, 12:21:20](https://news.ycombinator.com/item?id=38127629) - [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
-* [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
-* [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 
 ## [Archives](archives/index.md)
 
