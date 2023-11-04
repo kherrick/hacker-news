@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 19:11:04](https://news.ycombinator.com/item?id=38144158) - [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
+* [2023-11-04, 19:07:15](https://news.ycombinator.com/item?id=38144124) - [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
+* [2023-11-04, 18:33:36](https://news.ycombinator.com/item?id=38143844) - [Show HN: Cami.js – A No Build, Web Component Based Reactive Framework](https://github.com/kennyfrc/cami.js)
+* [2023-11-04, 18:30:31](https://news.ycombinator.com/item?id=38143818) - [Scrcpy 2.2 adds Android camera mirroring](https://github.com/Genymobile/scrcpy/releases/tag/v2.2)
 * [2023-11-04, 18:16:39](https://news.ycombinator.com/item?id=38143690) - [OpenELA releases redhat source code on github](https://github.com/orgs/openela-main/repositories)
 * [2023-11-04, 17:45:33](https://news.ycombinator.com/item?id=38143369) - [After decades of dreams, a commercial spaceplane is almost ready to fly](https://arstechnica.com/space/2023/11/after-decades-of-dreams-a-commercial-spaceplane-is-almost-ready-to-fly/)
 * [2023-11-04, 17:26:59](https://news.ycombinator.com/item?id=38143180) - [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
