@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 17:00:44](https://news.ycombinator.com/item?id=38142867) - [Offshore Wind Has a Cable Problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
+* [2023-11-04, 17:00:12](https://news.ycombinator.com/item?id=38142856) - [Hightouch (YC S19) Is Hiring](https://news.ycombinator.com/item?id=38142856)
+* [2023-11-04, 16:59:18](https://news.ycombinator.com/item?id=38142848) - [F*** Paywalls](https://1ft.io/)
+* [2023-11-04, 16:52:46](https://news.ycombinator.com/item?id=38142782) - [Ask HN: How would French police locate suspects by tapping their devices?](https://news.ycombinator.com/item?id=38142782)
 * [2023-11-04, 15:56:08](https://news.ycombinator.com/item?id=38142209) - [How a Carbohydrate Revolution Is Speeding Up Pro Cycling](https://velo.outsideonline.com/road/road-training/a-massive-change-how-a-carbohydrate-revolution-is-speeding-up-pro-cycling/)
 * [2023-11-04, 14:47:19](https://news.ycombinator.com/item?id=38141497) - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
 * [2023-11-04, 14:42:27](https://news.ycombinator.com/item?id=38141433) - [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)

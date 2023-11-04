@@ -22,6 +22,7 @@
 * [2023-11-02, 21:33:23](https://news.ycombinator.com/item?id=38120493) - [ML Experiments Management with Git](https://github.com/iterative/dvc)
 * [2023-11-02, 21:33:08](https://news.ycombinator.com/item?id=38120491) - [21 Firms that will convert your classic into an EV](https://driving.ca/car-culture/vintage-collectible/21-firms-that-will-convert-your-classic-into-an-ev)
 * [2023-11-02, 21:29:45](https://news.ycombinator.com/item?id=38120434) - [Write PHP Code Within Next.js Components](https://github.com/bufferhead-code/nextjs-use-php)
+* [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments on IRS guidance to SEC 174 expenses](https://news.ycombinator.com/item?id=38120388)
 * [2023-11-02, 21:13:32](https://news.ycombinator.com/item?id=38120240) - [DoorDash manages high-availability CockroachDB clusters at scale](https://www.cockroachlabs.com/blog/doordash-cockroachdb-massive-scale/)
 * [2023-11-02, 21:10:28](https://news.ycombinator.com/item?id=38120197) - [Amazon Execs Intentionally Made Site Shittier to Boost Profit, FTC Lawsuit Shows](https://www.vice.com/en/article/k7zxja/amazon-execs-intentionally-made-site-shittier-to-rake-in-more-profit-new-quotes-from-ftc-lawsuit-show)
 * [2023-11-02, 21:06:28](https://news.ycombinator.com/item?id=38120148) - [U.N. votes to end US embargo on Cuba; US and Israel oppose](https://www.reuters.com/world/americas/un-votes-end-us-embargo-cuba-us-israel-oppose-2023-11-02/)
