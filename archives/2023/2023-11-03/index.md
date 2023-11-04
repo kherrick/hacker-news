@@ -96,6 +96,7 @@
 * [2023-11-03, 09:10:33](https://news.ycombinator.com/item?id=38126210) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 08:59:38](https://news.ycombinator.com/item?id=38126150) - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
 * [2023-11-03, 08:50:32](https://news.ycombinator.com/item?id=38126088) - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)
+* [2023-11-03, 08:46:44](https://news.ycombinator.com/item?id=38126063) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2023-11-03, 08:46:30](https://news.ycombinator.com/item?id=38126060) - [Go TUI library Charm raises $6M in funding](https://charm.sh/blog/the-next-generation/)
 * [2023-11-03, 07:59:50](https://news.ycombinator.com/item?id=38125771) - [M3 Macs: there's more to performance than counting cores](https://eclecticlight.co/2023/11/03/m3-macs-theres-more-to-performance-than-counting-cores/)
 * [2023-11-03, 07:04:17](https://news.ycombinator.com/item?id=38125426) - [Tiny device is sending updated iPhones into a never-ending DoS loop](https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/)
