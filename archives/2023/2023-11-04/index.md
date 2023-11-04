@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 07:59:48](https://news.ycombinator.com/item?id=38139011) - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 05:34:10](https://news.ycombinator.com/item?id=38138464) - [Apple Spent $1B on the M3 Tape-Out, Says Analyst](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)
 * [2023-11-04, 05:33:24](https://news.ycombinator.com/item?id=38138459) - [Mozilla tells extension developers to get ready to finally go mobile](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
