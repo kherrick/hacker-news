@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 03:34:54](https://news.ycombinator.com/item?id=38137917) - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
 * [2023-11-04, 00:11:57](https://news.ycombinator.com/item?id=38136689) - [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
@@ -29,7 +30,6 @@
 * [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [First observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
-* [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 
 ## [Archives](archives/index.md)
 
