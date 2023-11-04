@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-04, 04:07:12](https://news.ycombinator.com/item?id=38138042) - [No, Okta, senior management, not an errant employee, caused you to get hacked](https://arstechnica.com/information-technology/2023/11/no-okta-senior-management-not-an-errant-employee-caused-you-to-get-hacked/)
+* [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube Declares War on Ad Blockers, Google Sponsors Ad Blocking Conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
 * [2023-11-04, 03:34:54](https://news.ycombinator.com/item?id=38137917) - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
@@ -23,7 +23,7 @@
 * [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
 * [2023-11-03, 18:45:04](https://news.ycombinator.com/item?id=38133134) - [Show HN: MicroLua – Lua for the RP2040 Microcontroller](https://github.com/MicroLua/MicroLua)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
-* [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [YouTuber Kitboga trapped 200 scammers in an Impossible Maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
+* [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [I trapped scammers in an impossible maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
 * [2023-11-03, 13:47:53](https://news.ycombinator.com/item?id=38128699) - [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
 * [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [First observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
