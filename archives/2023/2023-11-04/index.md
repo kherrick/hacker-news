@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 08:57:22](https://news.ycombinator.com/item?id=38139251) - [Is there anywhere in the world someone can just live for free?](https://old.reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
 * [2023-11-04, 07:59:48](https://news.ycombinator.com/item?id=38139011) - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 05:34:10](https://news.ycombinator.com/item?id=38138464) - [Apple Spent $1B on the M3 Tape-Out, Says Analyst](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 08:57:22](https://news.ycombinator.com/item?id=38139251) - [Is there anywhere in the world someone can just live for free?](https://old.reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
 * [2023-11-04, 07:59:48](https://news.ycombinator.com/item?id=38139011) - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 05:33:24](https://news.ycombinator.com/item?id=38138459) - [Mozilla tells extension developers to get ready to finally go mobile](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
@@ -18,7 +19,6 @@
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 * [2023-11-03, 22:03:38](https://news.ycombinator.com/item?id=38135619) - [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
 * [2023-11-03, 21:32:40](https://news.ycombinator.com/item?id=38135265) - [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
-* [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 21:00:01](https://news.ycombinator.com/item?id=38134935) - [Yorick is an interpreted programming language for scientific simulations](https://yorick.sourceforge.net/)
 * [2023-11-03, 20:53:30](https://news.ycombinator.com/item?id=38134861) - [Asciinema: Record and share your terminal sessions, the simple way](https://asciinema.org/)
 * [2023-11-03, 20:07:46](https://news.ycombinator.com/item?id=38134303) - [Why is RC Cola popular in Tajikistan?](https://www.snackstack.net/p/why-is-rc-cola-popular-in-tajikistan)
