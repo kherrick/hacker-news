@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 10:27:23](https://news.ycombinator.com/item?id=38139688) - [Council adopts new law for more recharging and refuelling stations across Europe](https://www.consilium.europa.eu/en/press/press-releases/2023/07/25/alternative-fuels-infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-europe/)
 * [2023-11-04, 08:57:22](https://news.ycombinator.com/item?id=38139251) - [Is there anywhere in the world someone can just live for free?](https://old.reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
 * [2023-11-04, 07:59:48](https://news.ycombinator.com/item?id=38139011) - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
