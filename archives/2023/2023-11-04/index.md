@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 23:05:27](https://news.ycombinator.com/item?id=38146146) - [Pessimists Archive](https://pessimistsarchive.org/)
 * [2023-11-04, 22:03:18](https://news.ycombinator.com/item?id=38145644) - [The Secretive Industry Devouring the U.S. Economy](https://www-stage.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-11-04, 21:43:19](https://news.ycombinator.com/item?id=38145461) - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
 * [2023-11-04, 21:38:00](https://news.ycombinator.com/item?id=38145402) - [Cats Make Nearly 300 Different Facial Expressions](https://www.smithsonianmag.com/smart-news/cats-make-nearly-300-different-facial-expressions-180983185/)
