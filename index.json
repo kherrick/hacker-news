@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-11-04, 03:46:11",
+      "https://news.ycombinator.com/item?id=38137975"
+    ],
+    [
+      "Sometimes it *is* a compiler bug: finding and fixing a bug in a C++ toolchain",
+      "https://quick-lint-js.com/blog/bug-journey/"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 02:56:28",
       "https://news.ycombinator.com/item?id=38137713"
     ],
@@ -227,16 +237,6 @@
     [
       "Accelerating digital block design with Google's open source Mid-Level Synthesis",
       "https://antmicro.com/blog/2023/09/accelerating-digital-block-design-with-googles-xls/"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 19:39:03",
-      "https://news.ycombinator.com/item?id=38133963"
-    ],
-    [
-      "Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data",
-      "https://podman-desktop.io/blog/podman-desktop-release-1.5"
     ]
   ],
   [
