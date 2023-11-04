@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2023-11-04, 11:57:44",
+      "https://news.ycombinator.com/item?id=38140212"
+    ],
+    [
+      "Eleven year old honor roll student put in solitary",
+      "https://www.texasobserver.org/why-was-this-11-year-old-honor-roll-student-put-in-solitary/"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 10:27:18",
       "https://news.ycombinator.com/item?id=38139687"
     ],
     [
-      "GPS Receiver Circuit Board Design",
+      "A 6 channel GPS receiver from 1993",
       "https://mastodon.sdf.org/@keelan/111349948124943603"
     ]
   ],
@@ -85,8 +95,18 @@
       "https://news.ycombinator.com/item?id=38137975"
     ],
     [
-      "Sometimes it *is* a compiler bug: finding and fixing a bug in a C++ toolchain",
+      "Sometimes, it is a compiler bug (2022)",
       "https://quick-lint-js.com/blog/bug-journey/"
+    ]
+  ],
+  [
+    [
+      "2023-11-04, 03:03:33",
+      "https://news.ycombinator.com/item?id=38137750"
+    ],
+    [
+      "Rāhui and the Art of Marine Conservation",
+      "https://hakaimagazine.com/features/rahui-and-the-art-of-marine-conservation/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-11-03, 19:53:09",
-      "https://news.ycombinator.com/item?id=38134120"
-    ],
-    [
-      "Accelerating digital block design with Google's open source Mid-Level Synthesis",
-      "https://antmicro.com/blog/2023/09/accelerating-digital-block-design-with-googles-xls/"
-    ]
-  ],
-  [
-    [
       "2023-11-03, 19:14:43",
       "https://news.ycombinator.com/item?id=38133699"
     ],
@@ -277,16 +287,6 @@
     [
       "How to help someone use a computer (1996)",
       "https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 06:50:31",
-      "https://news.ycombinator.com/item?id=38125348"
-    ],
-    [
-      "Bringing garbage collected programming languages efficiently to WebAssembly",
-      "https://v8.dev/blog/wasm-gc-porting"
     ]
   ],
   [
