@@ -13,6 +13,7 @@
 * [2023-11-04, 03:34:54](https://news.ycombinator.com/item?id=38137917) - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
 * [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
 * [2023-11-04, 02:28:06](https://news.ycombinator.com/item?id=38137549) - [Some VA. lawmakers say it's time to eliminate daylight saving time](https://www.virginiamercury.com/blog-va/some-va-lawmakers-say-its-time-to-eliminate-daylight-saving-time/)
+* [2023-11-04, 02:02:56](https://news.ycombinator.com/item?id=38137377) - [A blog post is a long and complex search query to find people](https://www.henrikkarlsson.xyz/p/search-query)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:40:50](https://news.ycombinator.com/item?id=38136863) - [Telling GPT-4 you're scared or under pressure improves performance](https://aimodels.substack.com/p/telling-gpt-4-youre-scared-or-under)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)

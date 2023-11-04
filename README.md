@@ -5,7 +5,7 @@
 * [2023-11-04, 05:33:24](https://news.ycombinator.com/item?id=38138459) - [Mozilla tells extension developers to get ready to finally go mobile](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
 * [2023-11-04, 04:39:46](https://news.ycombinator.com/item?id=38138187) - [Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
 * [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube declares war on ad blockers, Google sponsors ad blocking conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
-* [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
+* [2023-11-04, 02:02:56](https://news.ycombinator.com/item?id=38137377) - [A blog post is a long and complex search query to find people](https://www.henrikkarlsson.xyz/p/search-query)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:40:50](https://news.ycombinator.com/item?id=38136863) - [Telling GPT-4 you're scared or under pressure improves performance](https://aimodels.substack.com/p/telling-gpt-4-youre-scared-or-under)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
