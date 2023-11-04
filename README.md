@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 18:16:39](https://news.ycombinator.com/item?id=38143690) - [OpenELA releases redhat source code on github](https://github.com/orgs/openela-main/repositories)
 * [2023-11-04, 17:45:33](https://news.ycombinator.com/item?id=38143369) - [After decades of dreams, a commercial spaceplane is almost ready to fly](https://arstechnica.com/space/2023/11/after-decades-of-dreams-a-commercial-spaceplane-is-almost-ready-to-fly/)
 * [2023-11-04, 17:26:59](https://news.ycombinator.com/item?id=38143180) - [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
 * [2023-11-04, 17:00:44](https://news.ycombinator.com/item?id=38142867) - [Offshore wind has a cable problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
@@ -18,7 +19,6 @@
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 04:16:37](https://news.ycombinator.com/item?id=38138085) - [Making \"LCD, Please\"](https://dukope.com/devlogs/papers-please/lcdplease/)
-* [2023-11-04, 03:46:11](https://news.ycombinator.com/item?id=38137975) - [Sometimes, it is a compiler bug (2022)](https://quick-lint-js.com/blog/bug-journey/)
 * [2023-11-04, 03:28:51](https://news.ycombinator.com/item?id=38137879) - [Classes vs. structs in .NET: how not to teach about performance](https://sergeyteplyakov.github.io/Blog/benchmarking/2023/11/02/Performance_Comparison_For_Classes_vs_Structs.html)
 * [2023-11-04, 03:03:33](https://news.ycombinator.com/item?id=38137750) - [Rāhui and the Art of Marine Conservation](https://hakaimagazine.com/features/rahui-and-the-art-of-marine-conservation/)
 * [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
