@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 17:17:44](https://news.ycombinator.com/item?id=38143074) - [Turmeric can kill cancer cells and prevent their growth](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/turmeric)
 * [2023-11-04, 17:00:44](https://news.ycombinator.com/item?id=38142867) - [Offshore Wind Has a Cable Problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
 * [2023-11-04, 17:00:12](https://news.ycombinator.com/item?id=38142856) - [Hightouch (YC S19) Is Hiring](https://news.ycombinator.com/item?id=38142856)
 * [2023-11-04, 16:59:18](https://news.ycombinator.com/item?id=38142848) - [F*** Paywalls](https://1ft.io/)
