@@ -18,6 +18,7 @@
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 04:16:37](https://news.ycombinator.com/item?id=38138085) - [Making \"LCD, Please\"](https://dukope.com/devlogs/papers-please/lcdplease/)
+* [2023-11-04, 03:46:11](https://news.ycombinator.com/item?id=38137975) - [Sometimes, it is a compiler bug (2022)](https://quick-lint-js.com/blog/bug-journey/)
 * [2023-11-04, 03:28:51](https://news.ycombinator.com/item?id=38137879) - [Classes vs. structs in .NET: how not to teach about performance](https://sergeyteplyakov.github.io/Blog/benchmarking/2023/11/02/Performance_Comparison_For_Classes_vs_Structs.html)
 * [2023-11-04, 03:03:33](https://news.ycombinator.com/item?id=38137750) - [Rāhui and the Art of Marine Conservation](https://hakaimagazine.com/features/rahui-and-the-art-of-marine-conservation/)
 * [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
@@ -29,7 +30,6 @@
 * [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments to IRS re tax treatment of software dev expenses](https://news.ycombinator.com/item?id=38120388)
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)
 * [2023-11-02, 14:58:38](https://news.ycombinator.com/item?id=38114382) - [The Apple II Circuit Description (1983)](https://archive.org/details/taiicd)
-* [2023-11-02, 08:55:00](https://news.ycombinator.com/item?id=38110679) - [Bibi-binary](https://en.wikipedia.org/wiki/Bibi-binary)
 
 ## [Archives](archives/index.md)
 
