@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube Declares War on Ad Blockers, Google Sponsors Ad Blocking Conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
+* [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube declares war on ad blockers, Google sponsors ad blocking conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
 * [2023-11-04, 03:34:54](https://news.ycombinator.com/item?id=38137917) - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
@@ -18,7 +18,6 @@
 * [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 21:00:01](https://news.ycombinator.com/item?id=38134935) - [Yorick is an interpreted programming language for scientific simulations](https://yorick.sourceforge.net/)
 * [2023-11-03, 20:53:30](https://news.ycombinator.com/item?id=38134861) - [Asciinema: Record and share your terminal sessions, the simple way](https://asciinema.org/)
-* [2023-11-03, 19:55:56](https://news.ycombinator.com/item?id=38134154) - [What we are doing today with CAR-T cell therapy against cancer seems like SciFi](https://english.elpais.com/health/2023-11-01/miguel-angel-perales-oncologist-what-we-are-doing-today-with-car-t-cell-therapy-against-cancer-seems-like-science-fiction.html)
 * [2023-11-03, 19:53:09](https://news.ycombinator.com/item?id=38134120) - [Accelerating digital block design with Google's open source Mid-Level Synthesis](https://antmicro.com/blog/2023/09/accelerating-digital-block-design-with-googles-xls/)
 * [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
 * [2023-11-03, 18:45:04](https://news.ycombinator.com/item?id=38133134) - [Show HN: MicroLua – Lua for the RP2040 Microcontroller](https://github.com/MicroLua/MicroLua)
@@ -30,6 +29,7 @@
 * [2023-11-03, 08:46:44](https://news.ycombinator.com/item?id=38126063) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
+* [2023-11-02, 08:55:00](https://news.ycombinator.com/item?id=38110679) - [Bibi-Binary](https://en.wikipedia.org/wiki/Bibi-binary)
 
 ## [Archives](archives/index.md)
 
