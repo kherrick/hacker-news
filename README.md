@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 23:30:38](https://news.ycombinator.com/item?id=38146339) - [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
+* [2023-11-04, 23:29:32](https://news.ycombinator.com/item?id=38146327) - [Disturbed Lands (National Park Service)](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
 * [2023-11-04, 21:43:19](https://news.ycombinator.com/item?id=38145461) - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
-* [2023-11-04, 21:35:37](https://news.ycombinator.com/item?id=38145386) - [Stars have vanished without a trace. where did they go?](https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-where-did-they-go-71397)
 * [2023-11-04, 21:15:23](https://news.ycombinator.com/item?id=38145194) - [How to Do a TypeScript Conversion: an opinionated take on gradual conversions](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
 * [2023-11-04, 21:04:34](https://news.ycombinator.com/item?id=38145097) - [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
 * [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio (YC S15) is hiring a senior data engineer and back end engineer in Latam](https://www.tesorio.com/careers#job-openings)
@@ -10,7 +11,6 @@
 * [2023-11-04, 19:55:13](https://news.ycombinator.com/item?id=38144530) - [You're Gonna Need a Bigger Browser](https://berjon.com/bigger-browser/)
 * [2023-11-04, 19:39:45](https://news.ycombinator.com/item?id=38144417) - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
-* [2023-11-04, 19:24:34](https://news.ycombinator.com/item?id=38144266) - [FTC Chair Lina Khan looks for allies and leads in Silicon Valley charm offensive](https://www.reuters.com/business/ftc-chair-lina-khan-looks-allies-leads-silicon-valley-charm-offensive-2023-11-03/)
 * [2023-11-04, 19:07:15](https://news.ycombinator.com/item?id=38144124) - [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
 * [2023-11-04, 18:50:07](https://news.ycombinator.com/item?id=38143984) - [AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
 * [2023-11-04, 18:30:31](https://news.ycombinator.com/item?id=38143818) - [Scrcpy 2.2 adds Android camera mirroring](https://github.com/Genymobile/scrcpy/releases/tag/v2.2)

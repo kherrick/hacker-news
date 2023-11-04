@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 23:30:38](https://news.ycombinator.com/item?id=38146339) - [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
+* [2023-11-04, 23:29:32](https://news.ycombinator.com/item?id=38146327) - [Disturbed Lands (National Park Service)](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
 * [2023-11-04, 23:05:27](https://news.ycombinator.com/item?id=38146146) - [Pessimists Archive](https://pessimistsarchive.org/)
 * [2023-11-04, 22:03:18](https://news.ycombinator.com/item?id=38145644) - [The Secretive Industry Devouring the U.S. Economy](https://www-stage.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/)
 * [2023-11-04, 21:43:19](https://news.ycombinator.com/item?id=38145461) - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
