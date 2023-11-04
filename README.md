@@ -2,7 +2,6 @@
 
 * [2023-11-04, 05:34:10](https://news.ycombinator.com/item?id=38138464) - [Apple Spent $1B on the M3 Tape-Out, Says Analyst](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)
 * [2023-11-04, 04:39:46](https://news.ycombinator.com/item?id=38138187) - [Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
-* [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube declares war on ad blockers, Google sponsors ad blocking conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
 * [2023-11-04, 03:34:54](https://news.ycombinator.com/item?id=38137917) - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
@@ -27,8 +26,9 @@
 * [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [I trapped scammers in an impossible maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 15:17:45](https://news.ycombinator.com/item?id=38130089) - [Guide to Adopting AV1 Encoding](https://bitmovin.com/av1/av1-encoding-guide/)
 * [2023-11-03, 13:47:53](https://news.ycombinator.com/item?id=38128699) - [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
+* [2023-11-03, 12:47:42](https://news.ycombinator.com/item?id=38127906) - [First observation of a virus attaching to another virus](https://umbc.edu/stories/first-observed-virus-attaching-to-another/)
 * [2023-11-03, 08:46:44](https://news.ycombinator.com/item?id=38126063) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
-* [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
+* [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-02, 08:55:00](https://news.ycombinator.com/item?id=38110679) - [Bibi-Binary](https://en.wikipedia.org/wiki/Bibi-binary)
 
 ## [Archives](archives/index.md)
