@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
 * [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-11-04, 20:59:00](https://news.ycombinator.com/item?id=38145062) - [GM's Cruise alleged to rely on human operators to achieve \"autonomous\" driving](https://www.nytimes.com/2023/11/03/technology/cruise-general-motors-self-driving-cars.html)
 * [2023-11-04, 20:58:15](https://news.ycombinator.com/item?id=38145054) - [The cottage industry of YouTube obituary pirates](https://www.wired.com/story/youtube-obituary-pirates/)
 * [2023-11-04, 20:16:46](https://news.ycombinator.com/item?id=38144709) - [Ask HN: Making a better world, how important is that to you?](https://news.ycombinator.com/item?id=38144709)
 * [2023-11-04, 20:00:56](https://news.ycombinator.com/item?id=38144584) - [Lapham's Quarterly Is on Hiatus](https://www.laphamsquarterly.org/roundtable/hiatus)

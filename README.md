@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-11-04, 20:59:00](https://news.ycombinator.com/item?id=38145062) - [GM's Cruise alleged to rely on human operators to achieve \"autonomous\" driving](https://www.nytimes.com/2023/11/03/technology/cruise-general-motors-self-driving-cars.html)
 * [2023-11-04, 20:58:15](https://news.ycombinator.com/item?id=38145054) - [The cottage industry of YouTube obituary pirates](https://www.wired.com/story/youtube-obituary-pirates/)
 * [2023-11-04, 20:16:46](https://news.ycombinator.com/item?id=38144709) - [Ask HN: Making a better world, how important is that to you?](https://news.ycombinator.com/item?id=38144709)
 * [2023-11-04, 20:00:56](https://news.ycombinator.com/item?id=38144584) - [Lapham's Quarterly Is on Hiatus](https://www.laphamsquarterly.org/roundtable/hiatus)
@@ -17,7 +18,6 @@
 * [2023-11-04, 17:26:59](https://news.ycombinator.com/item?id=38143180) - [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
 * [2023-11-04, 16:36:26](https://news.ycombinator.com/item?id=38142606) - [I need more USB power](https://atomic14.substack.com/p/i-need-more-usb-power)
 * [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
-* [2023-11-04, 13:54:26](https://news.ycombinator.com/item?id=38141006) - [Starfish bodies aren’t bodies at all, study finds](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
 * [2023-11-04, 13:07:45](https://news.ycombinator.com/item?id=38140697) - [Shinzo Abe's Assassination](https://www.theatlantic.com/magazine/archive/2023/10/shinzo-abe-assassination-japan-unification-church-moonies/675114/)
 * [2023-11-04, 12:01:50](https://news.ycombinator.com/item?id=38140242) - [Spin 2.0 – open-source tool for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v2)
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
