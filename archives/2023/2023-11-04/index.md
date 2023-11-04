@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 15:56:08](https://news.ycombinator.com/item?id=38142209) - [How a Carbohydrate Revolution Is Speeding Up Pro Cycling](https://velo.outsideonline.com/road/road-training/a-massive-change-how-a-carbohydrate-revolution-is-speeding-up-pro-cycling/)
 * [2023-11-04, 14:47:19](https://news.ycombinator.com/item?id=38141497) - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
 * [2023-11-04, 14:42:27](https://news.ycombinator.com/item?id=38141433) - [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
 * [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
