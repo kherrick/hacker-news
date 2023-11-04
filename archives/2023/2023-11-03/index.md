@@ -14,6 +14,7 @@
 * [2023-11-03, 22:29:02](https://news.ycombinator.com/item?id=38135892) - [Edison Bulb Night Mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 * [2023-11-03, 22:16:36](https://news.ycombinator.com/item?id=38135752) - [It's almost showtime for SpaceX's Starship rocket](https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/)
+* [2023-11-03, 22:07:26](https://news.ycombinator.com/item?id=38135661) - [Tell HN: Marcus.com' automated fraud detection locked me out of life savings](https://news.ycombinator.com/item?id=38135661)
 * [2023-11-03, 22:03:38](https://news.ycombinator.com/item?id=38135619) - [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
 * [2023-11-03, 21:38:14](https://news.ycombinator.com/item?id=38135320) - [Fuchsia F14](https://fuchsia.dev/whats-new/release-notes/f14)
 * [2023-11-03, 21:32:40](https://news.ycombinator.com/item?id=38135265) - [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)

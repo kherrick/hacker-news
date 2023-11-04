@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-04, 00:21:56](https://news.ycombinator.com/item?id=38136748) - [The U.S. economy shrugged off the tech bust](https://www.noahpinion.blog/p/the-us-economy-shrugged-off-the-tech)
 * [2023-11-04, 00:11:57](https://news.ycombinator.com/item?id=38136689) - [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
 * [2023-11-03, 23:59:54](https://news.ycombinator.com/item?id=38136607) - [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
 * [2023-11-03, 23:39:46](https://news.ycombinator.com/item?id=38136466) - [Apple claims to have three distinct web browsers in the EU complaint](https://twitter.com/OpenWebAdvocacy/status/1720238162310758466)
@@ -10,6 +9,7 @@
 * [2023-11-03, 22:43:38](https://news.ycombinator.com/item?id=38136041) - [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
 * [2023-11-03, 22:29:02](https://news.ycombinator.com/item?id=38135892) - [Edison Bulb Night Mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
+* [2023-11-03, 22:07:26](https://news.ycombinator.com/item?id=38135661) - [Tell HN: Marcus.com' automated fraud detection locked me out of life savings](https://news.ycombinator.com/item?id=38135661)
 * [2023-11-03, 22:03:38](https://news.ycombinator.com/item?id=38135619) - [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
 * [2023-11-03, 21:32:40](https://news.ycombinator.com/item?id=38135265) - [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
 * [2023-11-03, 21:07:59](https://news.ycombinator.com/item?id=38135029) - [Codec Royalties on Content and the Jaws Moment](https://streaminglearningcenter.com/codecs/codec-royalties-on-content.html)
@@ -17,7 +17,6 @@
 * [2023-11-03, 21:00:01](https://news.ycombinator.com/item?id=38134935) - [Yorick is an interpreted programming language for scientific simulations](https://yorick.sourceforge.net/)
 * [2023-11-03, 20:53:30](https://news.ycombinator.com/item?id=38134861) - [Asciinema: Record and share your terminal sessions, the simple way](https://asciinema.org/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
-* [2023-11-03, 19:58:30](https://news.ycombinator.com/item?id=38134181) - [Embracing community helps us live longer, and be happier (2017)](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 * [2023-11-03, 19:55:56](https://news.ycombinator.com/item?id=38134154) - [What we are doing today with CAR-T cell therapy against cancer seems like SciFi](https://english.elpais.com/health/2023-11-01/miguel-angel-perales-oncologist-what-we-are-doing-today-with-car-t-cell-therapy-against-cancer-seems-like-science-fiction.html)
 * [2023-11-03, 19:53:09](https://news.ycombinator.com/item?id=38134120) - [Accelerating digital block design with Google's open source Mid-Level Synthesis](https://antmicro.com/blog/2023/09/accelerating-digital-block-design-with-googles-xls/)
 * [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
@@ -30,6 +29,7 @@
 * [2023-11-03, 12:21:20](https://news.ycombinator.com/item?id=38127629) - [The Anthropogenic Salt Cycle](https://www.nature.com/articles/s43017-023-00485-y)
 * [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 00:34:40](https://news.ycombinator.com/item?id=38122631) - [MetNet-3: A state-of-the-art neural weather model](https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1)
+* [2023-11-02, 23:49:17](https://news.ycombinator.com/item?id=38122061) - [Sam Bankman-Fried Convicted](https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial)
 
 ## [Archives](archives/index.md)
 
