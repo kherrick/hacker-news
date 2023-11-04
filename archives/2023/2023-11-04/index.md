@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
 * [2023-11-04, 19:39:45](https://news.ycombinator.com/item?id=38144417) - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
+* [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – The lightweight YouTube experience for Android](https://newpipe.net/)
 * [2023-11-04, 19:24:34](https://news.ycombinator.com/item?id=38144266) - [FTC Chair Lina Khan looks for allies and leads in Silicon Valley charm offensive](https://www.reuters.com/business/ftc-chair-lina-khan-looks-allies-leads-silicon-valley-charm-offensive-2023-11-03/)
 * [2023-11-04, 19:11:04](https://news.ycombinator.com/item?id=38144158) - [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
 * [2023-11-04, 19:07:15](https://news.ycombinator.com/item?id=38144124) - [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
