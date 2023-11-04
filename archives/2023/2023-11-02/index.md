@@ -66,6 +66,7 @@
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)
 * [2023-11-02, 15:48:52](https://news.ycombinator.com/item?id=38115221) - [Chemists, engineers craft adjustable arrays of microscopic lenses](https://phys.org/news/2023-10-chemists-craft-adjustable-arrays-microscopic.html)
 * [2023-11-02, 15:46:32](https://news.ycombinator.com/item?id=38115181) - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
+* [2023-11-02, 15:31:54](https://news.ycombinator.com/item?id=38114943) - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
 * [2023-11-02, 15:28:48](https://news.ycombinator.com/item?id=38114884) - [The US Housing Market Has Become an Impossible Mess](https://www.bloomberg.com/news/articles/2023-11-02/housing-crisis-gets-worse-for-americans-on-mortgage-lock-in-effect)
 * [2023-11-02, 15:27:57](https://news.ycombinator.com/item?id=38114871) - [Lahaina Noon](https://en.wikipedia.org/wiki/Lahaina_Noon)
 * [2023-11-02, 15:25:22](https://news.ycombinator.com/item?id=38114826) - [Why Do Young Americans Support Hamas? Look at TikTok](https://www.thefp.com/p/tik-tok-young-americans-hamas-mike-gallag)
