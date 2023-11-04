@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-04, 17:17:44](https://news.ycombinator.com/item?id=38143074) - [Turmeric can kill cancer cells and prevent their growth](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/turmeric)
 * [2023-11-04, 17:00:44](https://news.ycombinator.com/item?id=38142867) - [Offshore Wind Has a Cable Problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
 * [2023-11-04, 17:00:12](https://news.ycombinator.com/item?id=38142856) - [Hightouch (YC S19) Is Hiring](https://news.ycombinator.com/item?id=38142856)
 * [2023-11-04, 16:52:46](https://news.ycombinator.com/item?id=38142782) - [Ask HN: How would French police locate suspects by tapping their devices?](https://news.ycombinator.com/item?id=38142782)
@@ -20,6 +19,7 @@
 * [2023-11-04, 07:28:37](https://news.ycombinator.com/item?id=38138907) - [Revert Web Environment Integrity](https://github.com/chromium/chromium/commit/c54ada4120f3a046c1150d21534e2bc5e87186a0)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 04:16:37](https://news.ycombinator.com/item?id=38138085) - [Making \"LCD, Please\"](https://dukope.com/devlogs/papers-please/lcdplease/)
+* [2023-11-04, 03:46:11](https://news.ycombinator.com/item?id=38137975) - [Sometimes, it is a compiler bug (2022)](https://quick-lint-js.com/blog/bug-journey/)
 * [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
 * [2023-11-04, 02:02:56](https://news.ycombinator.com/item?id=38137377) - [A blog post is a long and complex search query to find people (2022)](https://www.henrikkarlsson.xyz/p/search-query)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
