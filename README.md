@@ -2,6 +2,7 @@
 
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 05:34:10](https://news.ycombinator.com/item?id=38138464) - [Apple Spent $1B on the M3 Tape-Out, Says Analyst](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)
+* [2023-11-04, 05:33:24](https://news.ycombinator.com/item?id=38138459) - [Mozilla tells extension developers to get ready to finally go mobile](https://www.theregister.com/2023/11/03/mozilla_android_extensions/)
 * [2023-11-04, 04:39:46](https://news.ycombinator.com/item?id=38138187) - [Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
 * [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube declares war on ad blockers, Google sponsors ad blocking conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
 * [2023-11-04, 03:34:54](https://news.ycombinator.com/item?id=38137917) - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
@@ -25,7 +26,6 @@
 * [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
 * [2023-11-03, 18:45:04](https://news.ycombinator.com/item?id=38133134) - [Show HN: MicroLua – Lua for the RP2040 Microcontroller](https://github.com/MicroLua/MicroLua)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
-* [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [I trapped scammers in an impossible maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 13:47:53](https://news.ycombinator.com/item?id=38128699) - [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
 * [2023-11-03, 08:46:44](https://news.ycombinator.com/item?id=38126063) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2023-11-03, 03:59:14](https://news.ycombinator.com/item?id=38124332) - [The Sawmill: A 17th Century Innovation That Built a Maritime Empire](https://newref.substack.com/p/sawmills-and-shipbuilding)
