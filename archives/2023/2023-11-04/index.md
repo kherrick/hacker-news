@@ -7,6 +7,7 @@
 * [2023-11-04, 19:39:45](https://news.ycombinator.com/item?id=38144417) - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – The lightweight YouTube experience for Android](https://newpipe.net/)
 * [2023-11-04, 19:24:34](https://news.ycombinator.com/item?id=38144266) - [FTC Chair Lina Khan looks for allies and leads in Silicon Valley charm offensive](https://www.reuters.com/business/ftc-chair-lina-khan-looks-allies-leads-silicon-valley-charm-offensive-2023-11-03/)
+* [2023-11-04, 19:24:22](https://news.ycombinator.com/item?id=38144262) - [Map: The states in favor of daylight saving time all year long](https://www.nbcnews.com/data-graphics/map-states-favor-yearlong-daylight-saving-time-rcna123051)
 * [2023-11-04, 19:11:04](https://news.ycombinator.com/item?id=38144158) - [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
 * [2023-11-04, 19:07:15](https://news.ycombinator.com/item?id=38144124) - [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
 * [2023-11-04, 19:07:02](https://news.ycombinator.com/item?id=38144122) - [AI Company Plans to Run Clusters of 10k Nvidia H100 GPUs in International Waters](https://www.extremetech.com/computing/ai-company-plans-to-run-clusters-of-10000-nvidia-h100-gpus-in-international)
