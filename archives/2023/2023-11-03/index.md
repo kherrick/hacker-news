@@ -30,6 +30,7 @@
 * [2023-11-03, 20:39:44](https://news.ycombinator.com/item?id=38134697) - [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
 * [2023-11-03, 20:14:05](https://news.ycombinator.com/item?id=38134381) - [Microsoft is retiring Visual Studio for Mac in 2024](https://visualstudio.microsoft.com/vs/mac/)
+* [2023-11-03, 20:07:46](https://news.ycombinator.com/item?id=38134303) - [Why is RC Cola popular in Tajikistan?](https://www.snackstack.net/p/why-is-rc-cola-popular-in-tajikistan)
 * [2023-11-03, 19:59:56](https://news.ycombinator.com/item?id=38134200) - [Show HN: Chat with Garry Tan using RAG on his YouTube channel](https://gtan-chat.arguflow.ai/)
 * [2023-11-03, 19:58:30](https://news.ycombinator.com/item?id=38134181) - [Good genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 * [2023-11-03, 19:55:56](https://news.ycombinator.com/item?id=38134154) - [What we are doing today with CAR-T cell therapy against cancer seems like SciFi](https://english.elpais.com/health/2023-11-01/miguel-angel-perales-oncologist-what-we-are-doing-today-with-car-t-cell-therapy-against-cancer-seems-like-science-fiction.html)
