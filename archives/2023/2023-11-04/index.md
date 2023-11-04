@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 14:47:19](https://news.ycombinator.com/item?id=38141497) - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
 * [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
+* [2023-11-04, 14:34:49](https://news.ycombinator.com/item?id=38141355) - [Monsanto hit with $175M verdict against Roundup](https://www.ehn.org/roundup-lawsuit-2666088361.html)
 * [2023-11-04, 14:13:51](https://news.ycombinator.com/item?id=38141173) - [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
 * [2023-11-04, 13:54:26](https://news.ycombinator.com/item?id=38141006) - [Starfish bodies are just heads, new research says – CNN](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
 * [2023-11-04, 13:30:40](https://news.ycombinator.com/item?id=38140833) - [Toward a TypeScript for C++\"](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
