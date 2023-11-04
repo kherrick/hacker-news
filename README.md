@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 13:54:26](https://news.ycombinator.com/item?id=38141006) - [Starfish bodies are just heads, new research says – CNN](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
+* [2023-11-04, 13:30:40](https://news.ycombinator.com/item?id=38140833) - [Toward a TypeScript for C++\"](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
+* [2023-11-04, 13:18:15](https://news.ycombinator.com/item?id=38140766) - [Model says her face was edited with AI to look white: 'It's dehumanizing'](https://www.theguardian.com/fashion/2023/nov/04/fashion-model-ai-image-tiktok)
 * [2023-11-04, 12:54:39](https://news.ycombinator.com/item?id=38140618) - [When the natural gas industry used the playbook from Big Tobacco](https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/)
 * [2023-11-04, 12:24:18](https://news.ycombinator.com/item?id=38140390) - [When to Shut Up: A Visual Guide (With Included Algorithm)](https://shaungallagher.pressbin.com/blog/shut-up.html)
 * [2023-11-04, 12:01:06](https://news.ycombinator.com/item?id=38140236) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
@@ -18,9 +21,6 @@
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
 * [2023-11-04, 00:11:57](https://news.ycombinator.com/item?id=38136689) - [Uranium demand hits decade high as nuclear renaissance gains traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
 * [2023-11-03, 23:59:54](https://news.ycombinator.com/item?id=38136607) - [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
-* [2023-11-03, 23:16:53](https://news.ycombinator.com/item?id=38136314) - [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
-* [2023-11-03, 22:43:38](https://news.ycombinator.com/item?id=38136041) - [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
-* [2023-11-03, 22:29:02](https://news.ycombinator.com/item?id=38135892) - [Edison Bulb Night Mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
 * [2023-11-03, 21:32:40](https://news.ycombinator.com/item?id=38135265) - [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
 * [2023-11-03, 20:53:30](https://news.ycombinator.com/item?id=38134861) - [Asciinema: Record and share your terminal sessions, the simple way](https://asciinema.org/)

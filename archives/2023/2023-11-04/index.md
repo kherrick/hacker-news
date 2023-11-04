@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 13:54:26](https://news.ycombinator.com/item?id=38141006) - [Starfish bodies are just heads, new research says – CNN](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
+* [2023-11-04, 13:30:40](https://news.ycombinator.com/item?id=38140833) - [Toward a TypeScript for C++\"](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
+* [2023-11-04, 13:18:15](https://news.ycombinator.com/item?id=38140766) - [Model says her face was edited with AI to look white: 'It's dehumanizing'](https://www.theguardian.com/fashion/2023/nov/04/fashion-model-ai-image-tiktok)
 * [2023-11-04, 12:54:39](https://news.ycombinator.com/item?id=38140618) - [When the natural gas industry used the playbook from Big Tobacco](https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/)
 * [2023-11-04, 12:24:18](https://news.ycombinator.com/item?id=38140390) - [When to Shut Up: A Visual Guide (With Included Algorithm)](https://shaungallagher.pressbin.com/blog/shut-up.html)
 * [2023-11-04, 12:01:06](https://news.ycombinator.com/item?id=38140236) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
