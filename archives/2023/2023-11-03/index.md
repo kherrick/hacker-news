@@ -39,6 +39,7 @@
 * [2023-11-03, 19:44:28](https://news.ycombinator.com/item?id=38134014) - [How Coffee and Sugar Powered the Industrial Revolution and Shaped Modern Work](https://www.getchestr.com/post/sweet-stimulants-how-coffee-and-sugar-powered-the-industrial-revolution-and-shaped-modern-work)
 * [2023-11-03, 19:39:03](https://news.ycombinator.com/item?id=38133963) - [Podman Desktop v1.5 with Compose onboarding and enhanced Kubernetes pod data](https://podman-desktop.io/blog/podman-desktop-release-1.5)
 * [2023-11-03, 19:24:35](https://news.ycombinator.com/item?id=38133801) - [Wage suppression – not stagnation – is costing workers $10 an hour (2021)](https://thehill.com/opinion/finance/557798-wage-suppression-not-stagnation-is-costing-workers-10-an-hour/)
+* [2023-11-03, 19:14:43](https://news.ycombinator.com/item?id=38133699) - [What Is a Teddy Roosevelt Presidential Library Doing in North Dakota?](https://www.nytimes.com/2023/10/27/arts/theodore-roosevelt-presidential-library.html)
 * [2023-11-03, 18:58:30](https://news.ycombinator.com/item?id=38133356) - [GitHub Giving 404's for Everything](https://news.ycombinator.com/item?id=38133356)
 * [2023-11-03, 18:55:57](https://news.ycombinator.com/item?id=38133300) - [Tell HN: GitHub Is Having Problems](https://news.ycombinator.com/item?id=38133300)
 * [2023-11-03, 18:55:50](https://news.ycombinator.com/item?id=38133297) - [We are investigating reports of degraded performance](https://www.githubstatus.com/incidents/xb30mby9fs5x)
