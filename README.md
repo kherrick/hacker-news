@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-04, 10:27:23](https://news.ycombinator.com/item?id=38139688) - [Council adopts new law for more recharging and refuelling stations across Europe](https://www.consilium.europa.eu/en/press/press-releases/2023/07/25/alternative-fuels-infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-europe/)
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [GPS Receiver Circuit Board Design](https://mastodon.sdf.org/@keelan/111349948124943603)
 * [2023-11-04, 07:59:48](https://news.ycombinator.com/item?id=38139011) - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
@@ -10,6 +9,7 @@
 * [2023-11-04, 04:16:37](https://news.ycombinator.com/item?id=38138085) - [Making \"LCD, Please\"](https://dukope.com/devlogs/papers-please/lcdplease/)
 * [2023-11-04, 03:46:11](https://news.ycombinator.com/item?id=38137975) - [Sometimes it *is* a compiler bug: finding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
 * [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
+* [2023-11-04, 02:02:56](https://news.ycombinator.com/item?id=38137377) - [A blog post is a long and complex search query to find people](https://www.henrikkarlsson.xyz/p/search-query)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:40:50](https://news.ycombinator.com/item?id=38136863) - [Telling GPT-4 you're scared or under pressure improves performance](https://aimodels.substack.com/p/telling-gpt-4-youre-scared-or-under)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
