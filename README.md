@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 19:39:45](https://news.ycombinator.com/item?id=38144417) - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
 * [2023-11-04, 19:11:04](https://news.ycombinator.com/item?id=38144158) - [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
-* [2023-11-04, 19:07:15](https://news.ycombinator.com/item?id=38144124) - [C++ Sudoku Solver by Singapore PM Lee Hsien Loong](https://twitter.com/adad8m/status/1720822885496049863)
 * [2023-11-04, 18:33:36](https://news.ycombinator.com/item?id=38143844) - [Show HN: Cami.js – A No Build, Web Component Based Reactive Framework](https://github.com/kennyfrc/cami.js)
 * [2023-11-04, 18:30:31](https://news.ycombinator.com/item?id=38143818) - [Scrcpy 2.2 adds Android camera mirroring](https://github.com/Genymobile/scrcpy/releases/tag/v2.2)
 * [2023-11-04, 18:16:39](https://news.ycombinator.com/item?id=38143690) - [OpenELA releases redhat source code on github](https://github.com/orgs/openela-main/repositories)
