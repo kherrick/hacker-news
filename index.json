@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-04, 17:17:44",
-      "https://news.ycombinator.com/item?id=38143074"
-    ],
-    [
-      "Turmeric can kill cancer cells and prevent their growth",
-      "https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/turmeric"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 17:00:44",
       "https://news.ycombinator.com/item?id=38142867"
     ],
@@ -197,6 +187,16 @@
     [
       "Making \"LCD, Please\"",
       "https://dukope.com/devlogs/papers-please/lcdplease/"
+    ]
+  ],
+  [
+    [
+      "2023-11-04, 03:46:11",
+      "https://news.ycombinator.com/item?id=38137975"
+    ],
+    [
+      "Sometimes, it is a compiler bug (2022)",
+      "https://quick-lint-js.com/blog/bug-journey/"
     ]
   ],
   [
