@@ -17,6 +17,7 @@
 * [2023-11-04, 13:07:45](https://news.ycombinator.com/item?id=38140697) - [Shinzo Abe's Assassination](https://www.theatlantic.com/magazine/archive/2023/10/shinzo-abe-assassination-japan-unification-church-moonies/675114/)
 * [2023-11-04, 12:54:39](https://news.ycombinator.com/item?id=38140618) - [When the natural gas industry used the playbook from Big Tobacco](https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/)
 * [2023-11-04, 12:24:18](https://news.ycombinator.com/item?id=38140390) - [When to Shut Up: A Visual Guide (With Included Algorithm)](https://shaungallagher.pressbin.com/blog/shut-up.html)
+* [2023-11-04, 12:01:50](https://news.ycombinator.com/item?id=38140242) - [Spin 2.0 – open-source tool for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v2)
 * [2023-11-04, 12:01:06](https://news.ycombinator.com/item?id=38140236) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-11-04, 11:58:57](https://news.ycombinator.com/item?id=38140222) - [The global fight against HIV is at risk](https://www.science.org/doi/10.1126/science.adm6975)
 * [2023-11-04, 11:57:44](https://news.ycombinator.com/item?id=38140212) - [Eleven year old honor roll student put in solitary](https://www.texasobserver.org/why-was-this-11-year-old-honor-roll-student-put-in-solitary/)
