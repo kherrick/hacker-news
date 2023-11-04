@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 05:34:10](https://news.ycombinator.com/item?id=38138464) - [Apple Spent $1B on the M3 Tape-Out, Says Analyst](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)
 * [2023-11-04, 04:39:46](https://news.ycombinator.com/item?id=38138187) - [Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
 * [2023-11-04, 04:07:12](https://news.ycombinator.com/item?id=38138042) - [No, Okta, senior management, not an errant employee, caused you to get hacked](https://arstechnica.com/information-technology/2023/11/no-okta-senior-management-not-an-errant-employee-caused-you-to-get-hacked/)

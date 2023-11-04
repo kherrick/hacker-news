@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 05:34:10](https://news.ycombinator.com/item?id=38138464) - [Apple Spent $1B on the M3 Tape-Out, Says Analyst](https://www.extremetech.com/computing/apple-spent-1-billion-on-the-m3-tape-out-says-analyst)
 * [2023-11-04, 04:39:46](https://news.ycombinator.com/item?id=38138187) - [Maersk to cut 10k jobs as shipping demand drops](https://www.reuters.com/business/shipping-giant-maersk-q3-above-expectation-sees-fy-lower-end-range-2023-11-03/)
 * [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube declares war on ad blockers, Google sponsors ad blocking conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
@@ -27,7 +28,6 @@
 * [2023-11-03, 15:38:51](https://news.ycombinator.com/item?id=38130418) - [I trapped scammers in an impossible maze [video]](https://www.youtube.com/watch?v=dWzz3NeDz3E)
 * [2023-11-03, 13:47:53](https://news.ycombinator.com/item?id=38128699) - [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
 * [2023-11-03, 08:46:44](https://news.ycombinator.com/item?id=38126063) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
-* [2023-11-03, 06:50:31](https://news.ycombinator.com/item?id=38125348) - [Bringing garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2023-11-03, 03:59:14](https://news.ycombinator.com/item?id=38124332) - [The Sawmill: A 17th Century Innovation That Built a Maritime Empire](https://newref.substack.com/p/sawmills-and-shipbuilding)
 * [2023-11-02, 08:55:00](https://news.ycombinator.com/item?id=38110679) - [Bibi-Binary](https://en.wikipedia.org/wiki/Bibi-binary)
 
