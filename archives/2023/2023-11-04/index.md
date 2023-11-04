@@ -10,6 +10,7 @@
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [GPS Receiver Circuit Board Design](https://mastodon.sdf.org/@keelan/111349948124943603)
 * [2023-11-04, 10:17:40](https://news.ycombinator.com/item?id=38139642) - [1985 Austrian diethylene glycol wine scandal](https://en.wikipedia.org/wiki/1985_Austrian_diethylene_glycol_wine_scandal)
 * [2023-11-04, 10:14:36](https://news.ycombinator.com/item?id=38139620) - [Hinterkaifeck Murders](https://en.wikipedia.org/wiki/Hinterkaifeck_murders)
+* [2023-11-04, 08:57:22](https://news.ycombinator.com/item?id=38139251) - [Is there anywhere in the world someone can just live for free?](https://reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
 * [2023-11-04, 08:57:22](https://news.ycombinator.com/item?id=38139251) - [Is there anywhere in the world someone can just live for free?](https://old.reddit.com/r/NoStupidQuestions/comments/17mvukd/is_there_anywhere_in_the_world_someone_can_just/)
 * [2023-11-04, 07:59:48](https://news.ycombinator.com/item?id=38139011) - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
