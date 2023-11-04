@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 20:16:46](https://news.ycombinator.com/item?id=38144709) - [Ask HN: Making a better world, how important is that to you?](https://news.ycombinator.com/item?id=38144709)
 * [2023-11-04, 19:39:45](https://news.ycombinator.com/item?id=38144417) - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – The lightweight YouTube experience for Android](https://newpipe.net/)
 * [2023-11-04, 19:24:34](https://news.ycombinator.com/item?id=38144266) - [FTC Chair Lina Khan looks for allies and leads in Silicon Valley charm offensive](https://www.reuters.com/business/ftc-chair-lina-khan-looks-allies-leads-silicon-valley-charm-offensive-2023-11-03/)
@@ -23,7 +24,6 @@
 * [2023-11-04, 03:28:51](https://news.ycombinator.com/item?id=38137879) - [Classes vs. structs in .NET: how not to teach about performance](https://sergeyteplyakov.github.io/Blog/benchmarking/2023/11/02/Performance_Comparison_For_Classes_vs_Structs.html)
 * [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
-* [2023-11-04, 01:18:49](https://news.ycombinator.com/item?id=38137119) - [The StahlDream](https://remexre.com/stahl/dream)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments to IRS re tax treatment of software dev expenses](https://news.ycombinator.com/item?id=38120388)
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)
