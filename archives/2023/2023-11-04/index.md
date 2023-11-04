@@ -1,0 +1,9 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-04](index.md)
+
+* [2023-11-04, 00:21:56](https://news.ycombinator.com/item?id=38136748) - [The U.S. economy shrugged off the tech bust](https://www.noahpinion.blog/p/the-us-economy-shrugged-off-the-tech)
+* [2023-11-04, 00:16:56](https://news.ycombinator.com/item?id=38136720) - [Has the U.S. economy reached a turning point?](https://www.fidelity.com/learning-center/trading-investing/markets-sectors/economy-outlook-turning-point)
+* [2023-11-04, 00:11:57](https://news.ycombinator.com/item?id=38136689) - [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)

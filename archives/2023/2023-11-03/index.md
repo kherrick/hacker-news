@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 23:29:11](https://news.ycombinator.com/item?id=38136404) - [BBS Still Exist](https://www.telnetbbsguide.com/)
 * [2023-11-03, 23:16:53](https://news.ycombinator.com/item?id=38136314) - [Bayer hit with $332M judgement in Roundup cancer trial](https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/)
 * [2023-11-03, 23:05:57](https://news.ycombinator.com/item?id=38136235) - [Aerogel Core Fission Fragment Rocket Engine](https://www.nasa.gov/general/aerogel-core-fission-fragment-rocket-engine/)
 * [2023-11-03, 22:43:38](https://news.ycombinator.com/item?id=38136041) - [The Sega Hitachi HiSaturn Navi Console](https://nfggames.com/games/hisaturn/)
@@ -15,6 +16,8 @@
 * [2023-11-03, 21:04:59](https://news.ycombinator.com/item?id=38134998) - [The use and misuse of evolutionary psychology in online manosphere communities](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/use-and-misuse-of-evolutionary-psychology-in-online-manosphere-communities-the-case-of-female-mating-strategies/19522B41CF67DFF9F66D919E1F843CCC)
 * [2023-11-03, 21:00:57](https://news.ycombinator.com/item?id=38134949) - [UpCodes (YC S17) Is Hiring SWEs Across the Americas](https://up.codes/careers)
 * [2023-11-03, 21:00:48](https://news.ycombinator.com/item?id=38134947) - [BBC World Service Announces Emergency Radio Service for Gaza](https://www.bbc.com/mediacentre/2023/bbc-world-service-announces-emergency-radio-service-for-gaza)
+* [2023-11-03, 21:00:01](https://news.ycombinator.com/item?id=38134935) - [Yorick is an interpreted programming language for scientific simulations](https://yorick.sourceforge.net/)
+* [2023-11-03, 20:53:30](https://news.ycombinator.com/item?id=38134861) - [Asciinema: Record and share your terminal sessions, the simple way](https://asciinema.org/)
 * [2023-11-03, 20:40:59](https://news.ycombinator.com/item?id=38134717) - [EU Tries to Slip in New Powers to Intercept Encrypted Web Traffic](https://www.techdirt.com/2023/11/03/eu-tries-to-slip-in-new-powers-to-intercept-encrypted-web-traffic-without-anyone-noticing/)
 * [2023-11-03, 20:39:44](https://news.ycombinator.com/item?id=38134697) - [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
 * [2023-11-03, 20:15:03](https://news.ycombinator.com/item?id=38134389) - [Show HN: GitInsights – a weekly summary email of your team's GitHub activity](https://gitinsights.io/)
