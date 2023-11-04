@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 12:24:18](https://news.ycombinator.com/item?id=38140390) - [When to Shut Up: A Visual Guide (With Included Algorithm)](https://shaungallagher.pressbin.com/blog/shut-up.html)
 * [2023-11-04, 12:01:06](https://news.ycombinator.com/item?id=38140236) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-11-04, 11:57:44](https://news.ycombinator.com/item?id=38140212) - [Eleven year old honor roll student put in solitary](https://www.texasobserver.org/why-was-this-11-year-old-honor-roll-student-put-in-solitary/)
 * [2023-11-04, 10:27:23](https://news.ycombinator.com/item?id=38139688) - [Council adopts new law for more recharging and refuelling stations across Europe](https://www.consilium.europa.eu/en/press/press-releases/2023/07/25/alternative-fuels-infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-europe/)
