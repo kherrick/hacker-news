@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 17:45:33](https://news.ycombinator.com/item?id=38143369) - [After decades of dreams, a commercial spaceplane is almost ready to fly](https://arstechnica.com/space/2023/11/after-decades-of-dreams-a-commercial-spaceplane-is-almost-ready-to-fly/)
+* [2023-11-04, 17:26:59](https://news.ycombinator.com/item?id=38143180) - [Software that supports your body should always respect your freedom](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom)
 * [2023-11-04, 17:17:44](https://news.ycombinator.com/item?id=38143074) - [Turmeric can kill cancer cells and prevent their growth](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/turmeric)
 * [2023-11-04, 17:00:44](https://news.ycombinator.com/item?id=38142867) - [Offshore Wind Has a Cable Problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
 * [2023-11-04, 17:00:12](https://news.ycombinator.com/item?id=38142856) - [Hightouch (YC S19) Is Hiring](https://news.ycombinator.com/item?id=38142856)
