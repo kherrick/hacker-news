@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
 * [2023-11-04, 14:13:51](https://news.ycombinator.com/item?id=38141173) - [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
 * [2023-11-04, 13:54:26](https://news.ycombinator.com/item?id=38141006) - [Starfish bodies are just heads, new research says – CNN](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
 * [2023-11-04, 13:30:40](https://news.ycombinator.com/item?id=38140833) - [Toward a TypeScript for C++\"](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
@@ -23,7 +24,6 @@
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
 * [2023-11-04, 00:11:57](https://news.ycombinator.com/item?id=38136689) - [Uranium demand hits decade high as nuclear renaissance gains traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
 * [2023-11-03, 23:59:54](https://news.ycombinator.com/item?id=38136607) - [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
-* [2023-11-03, 21:32:40](https://news.ycombinator.com/item?id=38135265) - [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
 * [2023-11-03, 20:53:30](https://news.ycombinator.com/item?id=38134861) - [Asciinema: Record and share your terminal sessions, the simple way](https://asciinema.org/)
 * [2023-11-03, 19:14:43](https://news.ycombinator.com/item?id=38133699) - [What Is a Teddy Roosevelt Presidential Library Doing in North Dakota?](https://www.nytimes.com/2023/10/27/arts/theodore-roosevelt-presidential-library.html)
 * [2023-11-03, 17:46:39](https://news.ycombinator.com/item?id=38132331) - [The Miracle of Photography](https://themillions.com/2023/11/the-miracle-of-photography.html)
