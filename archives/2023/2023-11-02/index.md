@@ -60,6 +60,7 @@
 * [2023-11-02, 16:41:28](https://news.ycombinator.com/item?id=38116238) - [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
 * [2023-11-02, 16:28:40](https://news.ycombinator.com/item?id=38115989) - [Arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 16:12:19](https://news.ycombinator.com/item?id=38115679) - [Grammarly editor writing services are malfunctioning](https://status.grammarly.com/incidents/52qjsq1fcrr3)
+* [2023-11-02, 16:07:40](https://news.ycombinator.com/item?id=38115592) - [How sunflowers see the sun](https://www.ucdavis.edu/curiosity/news/how-sunflowers-see-sun)
 * [2023-11-02, 15:56:28](https://news.ycombinator.com/item?id=38115364) - [How to Pronounce the Trickiest English Words: Ask This Frenchman](https://www.wsj.com/business/media/how-to-pronounce-english-words-julien-miquel-58581065)
 * [2023-11-02, 15:46:32](https://news.ycombinator.com/item?id=38115181) - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
 * [2023-11-02, 15:28:48](https://news.ycombinator.com/item?id=38114884) - [The US Housing Market Has Become an Impossible Mess](https://www.bloomberg.com/news/articles/2023-11-02/housing-crisis-gets-worse-for-americans-on-mortgage-lock-in-effect)

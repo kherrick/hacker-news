@@ -6,8 +6,7 @@
 * [2023-11-04, 14:31:17](https://news.ycombinator.com/item?id=38141320) - [Always paste without formatting on macOS](https://scottswezey.com/always-paste-without-formatting-macos/)
 * [2023-11-04, 14:13:51](https://news.ycombinator.com/item?id=38141173) - [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
 * [2023-11-04, 13:54:26](https://news.ycombinator.com/item?id=38141006) - [Starfish bodies aren’t bodies at all, study finds](https://www.cnn.com/2023/11/02/world/starfish-head-body-plan-scn/index.html)
-* [2023-11-04, 13:30:40](https://news.ycombinator.com/item?id=38140833) - [Toward a TypeScript for C++\"](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
-* [2023-11-04, 13:07:45](https://news.ycombinator.com/item?id=38140697) - [Shinzo Abe's Assassination](https://www.theatlantic.com/magazine/archive/2023/10/shinzo-abe-assassination-japan-unification-church-moonies/675114/)
+* [2023-11-04, 13:30:40](https://news.ycombinator.com/item?id=38140833) - [Cooperative C++ Evolution – Toward a TypeScript for C++](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
 * [2023-11-04, 12:54:39](https://news.ycombinator.com/item?id=38140618) - [When the natural gas industry used the playbook from Big Tobacco](https://arstechnica.com/health/2023/11/when-the-natural-gas-industry-used-the-playbook-from-big-tobacco/)
 * [2023-11-04, 12:24:18](https://news.ycombinator.com/item?id=38140390) - [When to Shut Up: A Visual Guide (With Included Algorithm)](https://shaungallagher.pressbin.com/blog/shut-up.html)
 * [2023-11-04, 12:01:50](https://news.ycombinator.com/item?id=38140242) - [Spin 2.0 – open-source tool for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v2)
@@ -29,6 +28,7 @@
 * [2023-11-03, 17:46:39](https://news.ycombinator.com/item?id=38132331) - [The Miracle of Photography](https://themillions.com/2023/11/the-miracle-of-photography.html)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-03, 08:46:44](https://news.ycombinator.com/item?id=38126063) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
+* [2023-11-02, 16:07:40](https://news.ycombinator.com/item?id=38115592) - [How sunflowers see the sun](https://www.ucdavis.edu/curiosity/news/how-sunflowers-see-sun)
 * [2023-11-02, 08:55:00](https://news.ycombinator.com/item?id=38110679) - [Bibi-Binary](https://en.wikipedia.org/wiki/Bibi-binary)
 
 ## [Archives](archives/index.md)
