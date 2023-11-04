@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-04, 02:28:06](https://news.ycombinator.com/item?id=38137549) - [Some VA. lawmakers say it's time to eliminate daylight saving time](https://www.virginiamercury.com/blog-va/some-va-lawmakers-say-its-time-to-eliminate-daylight-saving-time/)
 * [2023-11-04, 02:01:45](https://news.ycombinator.com/item?id=38137373) - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 * [2023-11-04, 00:27:49](https://news.ycombinator.com/item?id=38136783) - [CPU-Z's Inadequate Benchmark](https://chipsandcheese.com/2023/11/03/cpu-zs-inadequate-benchmark/)
 * [2023-11-04, 00:11:57](https://news.ycombinator.com/item?id=38136689) - [Uranium Demand Hits Decade High as Nuclear Renaissance Gains Traction](https://oilprice.com/The-Environment/Global-Warming/Uranium-Demand-Hits-Decade-High-As-Nuclear-Renaissance-Gains-Traction.html)
@@ -12,7 +13,6 @@
 * [2023-11-03, 22:37:26](https://news.ycombinator.com/item?id=38135979) - [The Car Navigation System / 1981](https://global.honda/en/heritage/episodes/1981navigationsystem.html)
 * [2023-11-03, 22:29:02](https://news.ycombinator.com/item?id=38135892) - [Edison Bulb Night Mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 22:21:31](https://news.ycombinator.com/item?id=38135810) - [Surround sound test files for every audio format](https://drive.google.com/drive/folders/1JxmeedtAtgmoafXv9rroiDOS2vEX7N4b)
-* [2023-11-03, 22:07:26](https://news.ycombinator.com/item?id=38135661) - [Tell HN: Marcus.com' automated fraud detection locked me out of life savings](https://news.ycombinator.com/item?id=38135661)
 * [2023-11-03, 22:03:38](https://news.ycombinator.com/item?id=38135619) - [First Handset with MTE on the Market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
 * [2023-11-03, 21:32:40](https://news.ycombinator.com/item?id=38135265) - [Wooden Game Boy](https://there.oughta.be/a/wooden-game-boy)
 * [2023-11-03, 21:07:59](https://news.ycombinator.com/item?id=38135029) - [Codec Royalties on Content and the Jaws Moment](https://streaminglearningcenter.com/codecs/codec-royalties-on-content.html)
