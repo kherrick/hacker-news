@@ -64,6 +64,7 @@
 * [2023-11-02, 16:07:40](https://news.ycombinator.com/item?id=38115592) - [How sunflowers see the sun](https://www.ucdavis.edu/curiosity/news/how-sunflowers-see-sun)
 * [2023-11-02, 15:56:28](https://news.ycombinator.com/item?id=38115364) - [How to Pronounce the Trickiest English Words: Ask This Frenchman](https://www.wsj.com/business/media/how-to-pronounce-english-words-julien-miquel-58581065)
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)
+* [2023-11-02, 15:48:52](https://news.ycombinator.com/item?id=38115221) - [Chemists, engineers craft adjustable arrays of microscopic lenses](https://phys.org/news/2023-10-chemists-craft-adjustable-arrays-microscopic.html)
 * [2023-11-02, 15:46:32](https://news.ycombinator.com/item?id=38115181) - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
 * [2023-11-02, 15:28:48](https://news.ycombinator.com/item?id=38114884) - [The US Housing Market Has Become an Impossible Mess](https://www.bloomberg.com/news/articles/2023-11-02/housing-crisis-gets-worse-for-americans-on-mortgage-lock-in-effect)
 * [2023-11-02, 15:27:57](https://news.ycombinator.com/item?id=38114871) - [Lahaina Noon](https://en.wikipedia.org/wiki/Lahaina_Noon)
