@@ -16,7 +16,6 @@
 * [2023-11-04, 13:07:45](https://news.ycombinator.com/item?id=38140697) - [Shinzo Abe's Assassination](https://www.theatlantic.com/magazine/archive/2023/10/shinzo-abe-assassination-japan-unification-church-moonies/675114/)
 * [2023-11-04, 12:01:50](https://news.ycombinator.com/item?id=38140242) - [Spin 2.0 – open-source tool for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v2)
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
-* [2023-11-04, 07:59:48](https://news.ycombinator.com/item?id=38139011) - [Lead chromate in turmeric spice causes high rates of lead poisoning South Asia](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 * [2023-11-04, 06:20:41](https://news.ycombinator.com/item?id=38138640) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 04:16:37](https://news.ycombinator.com/item?id=38138085) - [Making \"LCD, Please\"](https://dukope.com/devlogs/papers-please/lcdplease/)
 * [2023-11-04, 03:28:51](https://news.ycombinator.com/item?id=38137879) - [Classes vs. structs in .NET: how not to teach about performance](https://sergeyteplyakov.github.io/Blog/benchmarking/2023/11/02/Performance_Comparison_For_Classes_vs_Structs.html)
@@ -29,6 +28,7 @@
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments to IRS re tax treatment of software dev expenses](https://news.ycombinator.com/item?id=38120388)
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)
+* [2023-11-02, 15:27:57](https://news.ycombinator.com/item?id=38114871) - [Lahaina Noon](https://en.wikipedia.org/wiki/Lahaina_Noon)
 * [2023-11-02, 14:58:38](https://news.ycombinator.com/item?id=38114382) - [The Apple II Circuit Description (1983)](https://archive.org/details/taiicd)
 
 ## [Archives](archives/index.md)

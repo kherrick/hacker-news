@@ -66,6 +66,7 @@
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)
 * [2023-11-02, 15:46:32](https://news.ycombinator.com/item?id=38115181) - [Starlink plans to launch texting service in 2024, voice/data in 2025](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
 * [2023-11-02, 15:28:48](https://news.ycombinator.com/item?id=38114884) - [The US Housing Market Has Become an Impossible Mess](https://www.bloomberg.com/news/articles/2023-11-02/housing-crisis-gets-worse-for-americans-on-mortgage-lock-in-effect)
+* [2023-11-02, 15:27:57](https://news.ycombinator.com/item?id=38114871) - [Lahaina Noon](https://en.wikipedia.org/wiki/Lahaina_Noon)
 * [2023-11-02, 15:25:22](https://news.ycombinator.com/item?id=38114826) - [Why Do Young Americans Support Hamas? Look at TikTok](https://www.thefp.com/p/tik-tok-young-americans-hamas-mike-gallag)
 * [2023-11-02, 15:23:36](https://news.ycombinator.com/item?id=38114798) - [Starlink has achieved breakeven cash flow](https://twitter.com/elonmusk/status/1720098480037773658)
 * [2023-11-02, 15:22:04](https://news.ycombinator.com/item?id=38114774) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
