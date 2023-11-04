@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-11-04, 19:11:04",
+      "https://news.ycombinator.com/item?id=38144158"
+    ],
+    [
+      "Discord will switch to temporary file links to block malware delivery",
+      "https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/"
+    ]
+  ],
+  [
+    [
+      "2023-11-04, 19:07:15",
+      "https://news.ycombinator.com/item?id=38144124"
+    ],
+    [
+      "C++ Sudoku Solver by Singapore PM Lee Hsien Loong",
+      "https://twitter.com/adad8m/status/1720822885496049863"
+    ]
+  ],
+  [
+    [
+      "2023-11-04, 18:33:36",
+      "https://news.ycombinator.com/item?id=38143844"
+    ],
+    [
+      "Show HN: Cami.js – A No Build, Web Component Based Reactive Framework",
+      "https://github.com/kennyfrc/cami.js"
+    ]
+  ],
+  [
+    [
+      "2023-11-04, 18:30:31",
+      "https://news.ycombinator.com/item?id=38143818"
+    ],
+    [
+      "Scrcpy 2.2 adds Android camera mirroring",
+      "https://github.com/Genymobile/scrcpy/releases/tag/v2.2"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 18:16:39",
       "https://news.ycombinator.com/item?id=38143690"
     ],
@@ -47,16 +87,6 @@
     [
       "Hightouch (YC S19) Is Hiring",
       "https://news.ycombinator.com/item?id=38142856"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 16:52:46",
-      "https://news.ycombinator.com/item?id=38142782"
-    ],
-    [
-      "Ask HN: How would French police locate suspects by tapping their devices?",
-      "https://news.ycombinator.com/item?id=38142782"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-11-04, 13:30:40",
-      "https://news.ycombinator.com/item?id=38140833"
-    ],
-    [
-      "Cooperative C++ Evolution – Toward a TypeScript for C++",
-      "https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 13:07:45",
       "https://news.ycombinator.com/item?id=38140697"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-11-04, 07:59:48",
-      "https://news.ycombinator.com/item?id=38139011"
-    ],
-    [
-      "Lead chromate in turmeric spice causes high rates of lead poisoning South Asia",
-      "https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 06:20:41",
       "https://news.ycombinator.com/item?id=38138640"
     ],
     [
       "Post Mortem on Cloudflare Control Plane and Analytics Outage",
       "https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 04:16:37",
-      "https://news.ycombinator.com/item?id=38138085"
-    ],
-    [
-      "Making \"LCD, Please\"",
-      "https://dukope.com/devlogs/papers-please/lcdplease/"
     ]
   ],
   [
