@@ -2,11 +2,10 @@
 
 * [2023-11-04, 17:00:44](https://news.ycombinator.com/item?id=38142867) - [Offshore Wind Has a Cable Problem](https://www.semafor.com/article/11/03/2023/offshore-wind-has-a-cable-problem)
 * [2023-11-04, 17:00:12](https://news.ycombinator.com/item?id=38142856) - [Hightouch (YC S19) Is Hiring](https://news.ycombinator.com/item?id=38142856)
-* [2023-11-04, 16:59:18](https://news.ycombinator.com/item?id=38142848) - [F*** Paywalls](https://1ft.io/)
 * [2023-11-04, 16:52:46](https://news.ycombinator.com/item?id=38142782) - [Ask HN: How would French police locate suspects by tapping their devices?](https://news.ycombinator.com/item?id=38142782)
+* [2023-11-04, 16:48:46](https://news.ycombinator.com/item?id=38142734) - [Searching for hidden silicon art on a microchip](https://twitter.com/microscopicture/status/1720837951238636018)
 * [2023-11-04, 15:56:08](https://news.ycombinator.com/item?id=38142209) - [How a Carbohydrate Revolution Is Speeding Up Pro Cycling](https://velo.outsideonline.com/road/road-training/a-massive-change-how-a-carbohydrate-revolution-is-speeding-up-pro-cycling/)
 * [2023-11-04, 14:47:19](https://news.ycombinator.com/item?id=38141497) - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
-* [2023-11-04, 14:42:27](https://news.ycombinator.com/item?id=38141433) - [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
 * [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
 * [2023-11-04, 14:31:17](https://news.ycombinator.com/item?id=38141320) - [Always paste without formatting on macOS](https://scottswezey.com/always-paste-without-formatting-macos/)
 * [2023-11-04, 14:13:51](https://news.ycombinator.com/item?id=38141173) - [In KDE, the Desktop Cube is back](https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt)
@@ -28,7 +27,8 @@
 * [2023-11-03, 19:14:43](https://news.ycombinator.com/item?id=38133699) - [What Is a Teddy Roosevelt Presidential Library Doing in North Dakota?](https://www.nytimes.com/2023/10/27/arts/theodore-roosevelt-presidential-library.html)
 * [2023-11-03, 17:46:39](https://news.ycombinator.com/item?id=38132331) - [The Miracle of Photography](https://themillions.com/2023/11/the-miracle-of-photography.html)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
-* [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments on IRS guidance to SEC 174 expenses](https://news.ycombinator.com/item?id=38120388)
+* [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments to IRS re tax treatment of software dev expenses](https://news.ycombinator.com/item?id=38120388)
+* [2023-11-02, 14:58:38](https://news.ycombinator.com/item?id=38114382) - [The Apple II Circuit Description (1983)](https://archive.org/details/taiicd)
 * [2023-11-02, 08:55:00](https://news.ycombinator.com/item?id=38110679) - [Bibi-Binary](https://en.wikipedia.org/wiki/Bibi-binary)
 
 ## [Archives](archives/index.md)
