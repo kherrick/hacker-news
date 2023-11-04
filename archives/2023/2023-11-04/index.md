@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
 * [2023-11-04, 12:01:06](https://news.ycombinator.com/item?id=38140236) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2023-11-04, 11:57:44](https://news.ycombinator.com/item?id=38140212) - [Eleven year old honor roll student put in solitary](https://www.texasobserver.org/why-was-this-11-year-old-honor-roll-student-put-in-solitary/)
 * [2023-11-04, 10:27:23](https://news.ycombinator.com/item?id=38139688) - [Council adopts new law for more recharging and refuelling stations across Europe](https://www.consilium.europa.eu/en/press/press-releases/2023/07/25/alternative-fuels-infrastructure-council-adopts-new-law-for-more-recharging-and-refuelling-stations-across-europe/)
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [GPS Receiver Circuit Board Design](https://mastodon.sdf.org/@keelan/111349948124943603)
 * [2023-11-04, 10:17:40](https://news.ycombinator.com/item?id=38139642) - [1985 Austrian diethylene glycol wine scandal](https://en.wikipedia.org/wiki/1985_Austrian_diethylene_glycol_wine_scandal)
@@ -22,6 +23,7 @@
 * [2023-11-04, 03:46:11](https://news.ycombinator.com/item?id=38137975) - [Sometimes it *is* a compiler bug: finding and fixing a bug in a C++ toolchain](https://quick-lint-js.com/blog/bug-journey/)
 * [2023-11-04, 03:40:25](https://news.ycombinator.com/item?id=38137948) - [As YouTube Declares War on Ad Blockers, Google Sponsors Ad Blocking Conference](https://www.404media.co/as-youtube-declares-war-on-ad-blockers-google-sponsors-ad-blocking-conference/)
 * [2023-11-04, 03:34:54](https://news.ycombinator.com/item?id=38137917) - [YouTube's plan backfires, people are installing better ad blockers](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
+* [2023-11-04, 03:03:33](https://news.ycombinator.com/item?id=38137750) - [Rāhui and the Art of Marine Conservation](https://hakaimagazine.com/features/rahui-and-the-art-of-marine-conservation/)
 * [2023-11-04, 02:56:28](https://news.ycombinator.com/item?id=38137713) - [Large-scale violence in Late Neolithic Western Europe based on skeletal evidence](https://www.nature.com/articles/s41598-023-43026-9)
 * [2023-11-04, 02:28:06](https://news.ycombinator.com/item?id=38137549) - [Some VA. lawmakers say it's time to eliminate daylight saving time](https://www.virginiamercury.com/blog-va/some-va-lawmakers-say-its-time-to-eliminate-daylight-saving-time/)
 * [2023-11-04, 02:02:56](https://news.ycombinator.com/item?id=38137377) - [A blog post is a long and complex search query to find people](https://www.henrikkarlsson.xyz/p/search-query)
