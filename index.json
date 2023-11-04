@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-11-04, 12:01:50",
+      "https://news.ycombinator.com/item?id=38140242"
+    ],
+    [
+      "Spin 2.0 – open-source tool for building and running WASM apps",
+      "https://www.fermyon.com/blog/introducing-spin-v2"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 12:01:06",
       "https://news.ycombinator.com/item?id=38140236"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38138907"
     ],
     [
-      "WEI Has Been Reverted",
+      "Revert Web Environment Integrity",
       "https://github.com/chromium/chromium/commit/c54ada4120f3a046c1150d21534e2bc5e87186a0"
     ]
   ],
@@ -201,21 +211,11 @@
   ],
   [
     [
-      "2023-11-04, 03:03:33",
-      "https://news.ycombinator.com/item?id=38137750"
-    ],
-    [
-      "Rāhui and the Art of Marine Conservation",
-      "https://hakaimagazine.com/features/rahui-and-the-art-of-marine-conservation/"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 02:02:56",
       "https://news.ycombinator.com/item?id=38137377"
     ],
     [
-      "A blog post is a long and complex search query to find people",
+      "A blog post is a very long and complex search query to find people (2022)",
       "https://www.henrikkarlsson.xyz/p/search-query"
     ]
   ],
