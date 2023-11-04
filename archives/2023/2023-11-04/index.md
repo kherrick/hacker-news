@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-04, 20:16:46](https://news.ycombinator.com/item?id=38144709) - [Ask HN: Making a better world, how important is that to you?](https://news.ycombinator.com/item?id=38144709)
 * [2023-11-04, 19:39:45](https://news.ycombinator.com/item?id=38144417) - [Bevy 0.12](https://bevyengine.org/news/bevy-0-12/)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – The lightweight YouTube experience for Android](https://newpipe.net/)
