@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 21:34:43](https://news.ycombinator.com/item?id=38145376) - [Mortgage rates drop fast after a shock jobs report sets off a series of dominoes](https://finance.yahoo.com/news/mortgage-rates-dropping-fast-shock-220111915.html)
 * [2023-11-04, 21:04:34](https://news.ycombinator.com/item?id=38145097) - [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
 * [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-04, 20:59:00](https://news.ycombinator.com/item?id=38145062) - [GM's Cruise alleged to rely on human operators to achieve \"autonomous\" driving](https://www.nytimes.com/2023/11/03/technology/cruise-general-motors-self-driving-cars.html)
