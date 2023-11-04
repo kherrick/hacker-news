@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 21:43:19](https://news.ycombinator.com/item?id=38145461) - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
+* [2023-11-04, 21:38:00](https://news.ycombinator.com/item?id=38145402) - [Cats Make Nearly 300 Different Facial Expressions](https://www.smithsonianmag.com/smart-news/cats-make-nearly-300-different-facial-expressions-180983185/)
+* [2023-11-04, 21:35:37](https://news.ycombinator.com/item?id=38145386) - [Stars Have Vanished Without a Trace. Where Did They Go?](https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-where-did-they-go-71397)
 * [2023-11-04, 21:34:43](https://news.ycombinator.com/item?id=38145376) - [Mortgage rates drop fast after a shock jobs report sets off a series of dominoes](https://finance.yahoo.com/news/mortgage-rates-dropping-fast-shock-220111915.html)
 * [2023-11-04, 21:04:34](https://news.ycombinator.com/item?id=38145097) - [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
 * [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio Is Hiring a Sr Data Engineer and Sr Back End Engineer in Latam](https://www.tesorio.com/careers#job-openings)
