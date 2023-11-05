@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 02:26:22](https://news.ycombinator.com/item?id=38147459) - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 * [2023-11-05, 01:59:33](https://news.ycombinator.com/item?id=38147278) - [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
 * [2023-11-05, 01:58:39](https://news.ycombinator.com/item?id=38147271) - [Sam Bankman-Fried might not be the last crypto criminal](https://www.theverge.com/2023/11/4/23945602/sam-bankman-fried-guilty-verdict-ftx-crypto-industry-impact)
 * [2023-11-05, 00:47:48](https://news.ycombinator.com/item?id=38146837) - [Daylight saving time can seriously affect your health](https://apnews.com/article/daylight-saving-2023-fall-back-a3738d5c74301b8068825927c49fc6b4)
 * [2023-11-05, 00:26:25](https://news.ycombinator.com/item?id=38146696) - [Soda additive linked to thyroid toxicity may finally get banned by FDA](https://arstechnica.com/health/2023/11/50-years-later-fda-proposes-banning-a-food-additive-it-said-is-not-safe/)
 * [2023-11-05, 00:23:40](https://news.ycombinator.com/item?id=38146676) - [My experience taking Tesla to court about FSD](https://teslamotorsclub.com/tmc/threads/my-experience-taking-tesla-to-court-about-fsd.315086/)
-* [2023-11-04, 23:30:38](https://news.ycombinator.com/item?id=38146339) - [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
 * [2023-11-04, 23:29:32](https://news.ycombinator.com/item?id=38146327) - [Disturbed Lands (National Park Service)](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
 * [2023-11-04, 23:06:34](https://news.ycombinator.com/item?id=38146154) - [Show HN: Gogosseract, a Go Lib for CGo-Free Tesseract OCR via Wazero](https://github.com/Danlock/gogosseract)
 * [2023-11-04, 23:02:13](https://news.ycombinator.com/item?id=38146122) - [SARS-CoV-2 Infection Affects Energy Stores in the Body, Causing Organ Failure](https://news.unchealthcare.org/2023/10/researchers-show-sars-cov-2-infection-affects-energy-stores-in-the-body-causing-organ-failure/)
