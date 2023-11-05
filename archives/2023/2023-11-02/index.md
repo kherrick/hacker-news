@@ -10,6 +10,7 @@
 * [2023-11-02, 23:31:53](https://news.ycombinator.com/item?id=38121918) - [Enterprise-Fu](http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html)
 * [2023-11-02, 23:15:42](https://news.ycombinator.com/item?id=38121780) - [Hebrew prayer book fills gap in Italian earthquake history](https://phys.org/news/2023-11-hebrew-prayer-gap-italian-earthquake.html)
 * [2023-11-02, 23:13:52](https://news.ycombinator.com/item?id=38121765) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
+* [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
 * [2023-11-02, 22:51:02](https://news.ycombinator.com/item?id=38121508) - [Subtle ways Microsoft Word has changed how we use language](https://www.bbc.com/future/article/20231025-the-surprisingly-subtle-ways-microsoft-word-has-changed-the-way-we-use-language)
 * [2023-11-02, 22:37:13](https://news.ycombinator.com/item?id=38121337) - [BillionToOne (YC S17) is hiring scientists and engineers to advance DNA testing](https://boards.greenhouse.io/billiontoone)
 * [2023-11-02, 22:31:16](https://news.ycombinator.com/item?id=38121261) - [Everything We Know About 1970s Mainframe RPGs We Can No Longer Play](http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html)
