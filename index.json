@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-05, 18:41:48",
+      "https://news.ycombinator.com/item?id=38154161"
+    ],
+    [
+      "Apple hunter Tom Brown finds and saves rare Apple varieties",
+      "https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 18:31:24",
       "https://news.ycombinator.com/item?id=38154045"
     ],
@@ -57,16 +67,6 @@
     [
       "GoGoGrandparent (YC S16) Is Hiring",
       "https://news.ycombinator.com/item?id=38152963"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 16:57:33",
-      "https://news.ycombinator.com/item?id=38152924"
-    ],
-    [
-      "AI companies have all kinds of arguments against paying for copyrighted content",
-      "https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-11-02, 22:51:02",
-      "https://news.ycombinator.com/item?id=38121508"
-    ],
-    [
-      "Subtle ways Microsoft Word has changed how we use language",
-      "https://www.bbc.com/future/article/20231025-the-surprisingly-subtle-ways-microsoft-word-has-changed-the-way-we-use-language"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 16:11:03",
       "https://news.ycombinator.com/item?id=38115655"
     ],
@@ -287,6 +277,16 @@
     [
       "Fdupes: Identify or Delete Duplicate Files",
       "https://github.com/adrianlopezroche/fdupes"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 11:36:21",
+      "https://news.ycombinator.com/item?id=38111986"
+    ],
+    [
+      "For developers under pressure, it’s better for bugs to be found in production",
+      "https://www.amazingcto.com/tests-are-bad-for-developers/"
     ]
   ],
   [
