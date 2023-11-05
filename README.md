@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 21:29:03](https://news.ycombinator.com/item?id=38155840) - [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
+* [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: The Extraordinary \"Robots\" Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 * [2023-11-05, 20:31:06](https://news.ycombinator.com/item?id=38155345) - [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
@@ -20,16 +22,14 @@
 * [2023-11-05, 15:44:23](https://news.ycombinator.com/item?id=38152109) - [Show HN: Sshx, a web-based collaborative terminal](https://github.com/ekzhang/sshx)
 * [2023-11-05, 14:15:29](https://news.ycombinator.com/item?id=38151286) - [I like gentoo's package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+* [2023-11-05, 12:26:13](https://news.ycombinator.com/item?id=38150534) - [Psychedelics researcher approached his death with calm and curiosity](https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation)
+* [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
 * [2023-11-05, 09:32:01](https://news.ycombinator.com/item?id=38149595) - [StackStorm – IFTTT for Ops](https://stackstorm.com/)
 * [2023-11-04, 22:01:00](https://news.ycombinator.com/item?id=38145625) - [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
 * [2023-11-03, 06:51:15](https://news.ycombinator.com/item?id=38125352) - [Trusted third parties are security holes (2005)](http://web.archive.org/web/20160309161628/http://szabo.best.vwh.net/ttps.html)
 * [2023-11-03, 00:39:22](https://news.ycombinator.com/item?id=38122679) - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
-* [2023-11-02, 16:11:03](https://news.ycombinator.com/item?id=38115655) - [Shakespeare’s First Folio](https://www.firstthings.com/web-exclusives/2023/10/shakespeares-first-folio-turns-400)
-* [2023-11-02, 13:42:45](https://news.ycombinator.com/item?id=38113396) - [Fdupes: Identify or delete duplicate files](https://github.com/adrianlopezroche/fdupes)
-* [2023-11-02, 13:34:52](https://news.ycombinator.com/item?id=38113309) - [Lost area-measuring tool (2022) [video]](https://www.youtube.com/watch?v=xSgf_wxJIlk)
-* [2023-11-02, 11:29:26](https://news.ycombinator.com/item?id=38111918) - [Hexabyte – A modern, robust, and extensible commandline hex editor](https://github.com/thetacom/hexabyte)
 
 ## [Archives](archives/index.md)
 
