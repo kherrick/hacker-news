@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-05, 13:54:57",
+      "https://news.ycombinator.com/item?id=38151124"
+    ],
+    [
+      "ReactOS Newsletter 103 – Late 2023 News",
+      "https://reactos.org/blogs/newsletter-103/"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 13:34:31",
       "https://news.ycombinator.com/item?id=38150987"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2023-11-05, 11:12:58",
+      "https://news.ycombinator.com/item?id=38150101"
+    ],
+    [
+      "IMSI-Catcher Detector",
+      "https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 11:12:12",
       "https://news.ycombinator.com/item?id=38150096"
     ],
     [
       "Email obfuscation rendered almost ineffective against ChatGPT",
       "https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 09:57:14",
-      "https://news.ycombinator.com/item?id=38149712"
-    ],
-    [
-      "Six-hour time-restricted feeding inhibits lung cancer progression",
-      "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-11-05, 08:35:32",
-      "https://news.ycombinator.com/item?id=38149364"
-    ],
-    [
-      "Startup idea: Zapier for consumer apps",
-      "https://news.ycombinator.com/item?id=38149364"
-    ]
-  ],
-  [
-    [
       "2023-11-05, 07:30:00",
       "https://news.ycombinator.com/item?id=38149093"
     ],
@@ -157,16 +157,6 @@
     [
       "Kolmogorov Neural Networks can represent discontinuous functions",
       "https://arxiv.org/abs/2311.00049"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 01:24:13",
-      "https://news.ycombinator.com/item?id=38147052"
-    ],
-    [
-      "BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit",
-      "https://github.com/beeware/toga/releases/tag/v0.4.0"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "PCIe vs. CXL for Memory and Storage",
       "https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 03:16:46",
+      "https://news.ycombinator.com/item?id=38124022"
+    ],
+    [
+      "A Proposal Fix for C/C++ Relaxed Atomics in Practice",
+      "https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/"
     ]
   ],
   [
