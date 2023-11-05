@@ -28,8 +28,8 @@
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-03, 08:18:46](https://news.ycombinator.com/item?id=38125885) - [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
 * [2023-11-02, 22:51:02](https://news.ycombinator.com/item?id=38121508) - [Subtle ways Microsoft Word has changed how we use language](https://www.bbc.com/future/article/20231025-the-surprisingly-subtle-ways-microsoft-word-has-changed-the-way-we-use-language)
-* [2023-11-02, 15:43:37](https://news.ycombinator.com/item?id=38115128) - [Quadratic Reciprocity: The connection that changed number theory](https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/)
 * [2023-11-02, 15:31:54](https://news.ycombinator.com/item?id=38114943) - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
+* [2023-11-02, 13:42:45](https://news.ycombinator.com/item?id=38113396) - [fdupes: Identify or Delete Duplicate Files](https://github.com/adrianlopezroche/fdupes)
 
 ## [Archives](archives/index.md)
 

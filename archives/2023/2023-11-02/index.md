@@ -85,6 +85,7 @@
 * [2023-11-02, 14:03:35](https://news.ycombinator.com/item?id=38113647) - [Ask HN: What podcasts do you listen to?](https://news.ycombinator.com/item?id=38113647)
 * [2023-11-02, 13:52:44](https://news.ycombinator.com/item?id=38113525) - [Raspberry Pi receives strategic investment from Arm](https://newsroom.arm.com/news/raspberry-pi-investment)
 * [2023-11-02, 13:50:11](https://news.ycombinator.com/item?id=38113488) - [Slack: Our biggest redesign yet came to be](https://slack.design/articles/how-our-biggest-redesign-yet-came-to-be/)
+* [2023-11-02, 13:42:45](https://news.ycombinator.com/item?id=38113396) - [fdupes: Identify or Delete Duplicate Files](https://github.com/adrianlopezroche/fdupes)
 * [2023-11-02, 13:28:21](https://news.ycombinator.com/item?id=38113226) - [Apple's called Android a \"massive tracking device\" in an internal presentation](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/)
 * [2023-11-02, 13:05:33](https://news.ycombinator.com/item?id=38112951) - [Confusing Git Terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:53:47](https://news.ycombinator.com/item?id=38112827) - [How to Not Get Screwed over as a Software Engineer [video]](https://www.ycombinator.com/library/KF-how-to-not-get-screwed-over-as-a-software-engineer)
