@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-05, 11:12:12](https://news.ycombinator.com/item?id=38150096) - [Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
 * [2023-11-05, 09:57:14](https://news.ycombinator.com/item?id=38149712) - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
 * [2023-11-05, 09:41:53](https://news.ycombinator.com/item?id=38149643) - [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
@@ -7,12 +8,12 @@
 * [2023-11-05, 09:32:01](https://news.ycombinator.com/item?id=38149595) - [StackStorm – IFTTT for Ops](https://stackstorm.com/)
 * [2023-11-05, 08:54:49](https://news.ycombinator.com/item?id=38149441) - [Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 * [2023-11-05, 08:52:51](https://news.ycombinator.com/item?id=38149437) - [Leaders Are Tool Builders: Why I Wrote My Own JavaScript UI Framework](https://iteration.maiwriter.com/p/leaders-are-tool-builders-why-i-wrote)
+* [2023-11-05, 08:49:20](https://news.ycombinator.com/item?id=38149422) - [Show HN: Hyphen – an elegant custom element base class with good ergonomics](https://github.com/00000o1/-)
 * [2023-11-05, 08:37:45](https://news.ycombinator.com/item?id=38149375) - [Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings](https://store.kde.org/p/1350981)
 * [2023-11-05, 08:35:32](https://news.ycombinator.com/item?id=38149364) - [Startup idea: Zapier for consumer apps](https://news.ycombinator.com/item?id=38149364)
 * [2023-11-05, 08:19:07](https://news.ycombinator.com/item?id=38149303) - [Analyzing Tesla Network Traffic](https://www.youtube.com/watch?v=OdzCTEPkCvI)
 * [2023-11-05, 08:08:30](https://news.ycombinator.com/item?id=38149257) - [What Is Propaganda? (1944)](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/gi-roundtable-series/pamphlets/em-2-what-is-propaganda-(1944))
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [Exclusive access for LLM companies to largest Chinese nonfiction book collection](https://annas-blog.org/duxiu-exclusive.html)
-* [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, is hiring remote SREs](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1](http://dunfield.classiccmp.org/kim1/index.htm)
 * [2023-11-05, 05:13:38](https://news.ycombinator.com/item?id=38148470) - [Kolmogorov Neural Networks can represent discontinuous functions](https://arxiv.org/abs/2311.00049)
 * [2023-11-05, 01:24:13](https://news.ycombinator.com/item?id=38147052) - [BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit](https://github.com/beeware/toga/releases/tag/v0.4.0)
@@ -28,7 +29,6 @@
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-03, 08:18:46](https://news.ycombinator.com/item?id=38125885) - [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
 * [2023-11-02, 22:51:02](https://news.ycombinator.com/item?id=38121508) - [Subtle ways Microsoft Word has changed how we use language](https://www.bbc.com/future/article/20231025-the-surprisingly-subtle-ways-microsoft-word-has-changed-the-way-we-use-language)
-* [2023-11-02, 15:43:37](https://news.ycombinator.com/item?id=38115128) - [Quadratic Reciprocity: The connection that changed number theory](https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/)
 * [2023-11-02, 15:31:54](https://news.ycombinator.com/item?id=38114943) - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
 
 ## [Archives](archives/index.md)

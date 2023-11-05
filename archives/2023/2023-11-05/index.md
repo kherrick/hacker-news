@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-05, 11:12:12](https://news.ycombinator.com/item?id=38150096) - [Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
 * [2023-11-05, 09:57:14](https://news.ycombinator.com/item?id=38149712) - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
 * [2023-11-05, 09:42:28](https://news.ycombinator.com/item?id=38149644) - [You think you secured your Hetzner account with 2FA? Think again](https://old.reddit.com/r/hetzner/comments/17ntxhg/you_think_you_secured_your_hetzner_account_with/)
@@ -15,6 +16,7 @@
 * [2023-11-05, 09:02:47](https://news.ycombinator.com/item?id=38149472) - [The next frontier in IP parasites: codec royalties on content](https://rocknerd.co.uk/2023/11/04/the-next-frontier-in-ip-parasites-codec-royalties-on-content/)
 * [2023-11-05, 08:54:49](https://news.ycombinator.com/item?id=38149441) - [Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 * [2023-11-05, 08:52:51](https://news.ycombinator.com/item?id=38149437) - [Leaders Are Tool Builders: Why I Wrote My Own JavaScript UI Framework](https://iteration.maiwriter.com/p/leaders-are-tool-builders-why-i-wrote)
+* [2023-11-05, 08:49:20](https://news.ycombinator.com/item?id=38149422) - [Show HN: Hyphen – an elegant custom element base class with good ergonomics](https://github.com/00000o1/-)
 * [2023-11-05, 08:37:45](https://news.ycombinator.com/item?id=38149375) - [Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings](https://store.kde.org/p/1350981)
 * [2023-11-05, 08:35:44](https://news.ycombinator.com/item?id=38149366) - [What makes a great software developer](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/)
 * [2023-11-05, 08:35:32](https://news.ycombinator.com/item?id=38149364) - [Startup idea: Zapier for consumer apps](https://news.ycombinator.com/item?id=38149364)
