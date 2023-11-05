@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 22:47:29](https://news.ycombinator.com/item?id=38156481) - [Silicon Valley is piling in to the business of snooping](https://www.economist.com/business/2023/11/05/silicon-valley-is-piling-in-to-the-business-of-snooping)
 * [2023-11-05, 21:42:52](https://news.ycombinator.com/item?id=38155948) - [PayPal to offer crypto services in UK; Taiwan to make Bitcoin legal Tender](https://www.tekedia.com/paypal-to-offer-crypto-services-in-uk-taiwan-to-make-bitcoin-legal-tender/)
 * [2023-11-05, 21:29:03](https://news.ycombinator.com/item?id=38155840) - [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
