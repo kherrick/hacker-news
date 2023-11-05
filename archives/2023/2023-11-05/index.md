@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-11-05, 11:29:19](https://news.ycombinator.com/item?id=38150187) - [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
 * [2023-11-05, 11:12:12](https://news.ycombinator.com/item?id=38150096) - [Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
 * [2023-11-05, 09:57:14](https://news.ycombinator.com/item?id=38149712) - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
 * [2023-11-05, 09:42:28](https://news.ycombinator.com/item?id=38149644) - [You think you secured your Hetzner account with 2FA? Think again](https://old.reddit.com/r/hetzner/comments/17ntxhg/you_think_you_secured_your_hetzner_account_with/)
@@ -33,6 +35,7 @@
 * [2023-11-05, 02:54:49](https://news.ycombinator.com/item?id=38147606) - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
 * [2023-11-05, 02:26:22](https://news.ycombinator.com/item?id=38147459) - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 * [2023-11-05, 02:23:40](https://news.ycombinator.com/item?id=38147438) - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
+* [2023-11-05, 02:11:15](https://news.ycombinator.com/item?id=38147341) - [An open source cross-platform process management and supervision service](https://github.com/MelonCTech/Meproc)
 * [2023-11-05, 01:59:33](https://news.ycombinator.com/item?id=38147278) - [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
 * [2023-11-05, 01:58:39](https://news.ycombinator.com/item?id=38147271) - [Sam Bankman-Fried might not be the last crypto criminal](https://www.theverge.com/2023/11/4/23945602/sam-bankman-fried-guilty-verdict-ftx-crypto-industry-impact)
 * [2023-11-05, 01:24:13](https://news.ycombinator.com/item?id=38147052) - [BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit](https://github.com/beeware/toga/releases/tag/v0.4.0)
