@@ -62,6 +62,7 @@
 * [2023-11-02, 16:41:28](https://news.ycombinator.com/item?id=38116238) - [Millions of Fruit flies will be dropped on Los Angeles](https://ktla.com/news/local-news/millions-of-fruit-flies-will-be-dumped-on-los-angeles/)
 * [2023-11-02, 16:28:40](https://news.ycombinator.com/item?id=38115989) - [Arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 16:12:19](https://news.ycombinator.com/item?id=38115679) - [Grammarly editor writing services are malfunctioning](https://status.grammarly.com/incidents/52qjsq1fcrr3)
+* [2023-11-02, 16:11:03](https://news.ycombinator.com/item?id=38115655) - [Shakespeare’s First Folio](https://www.firstthings.com/web-exclusives/2023/10/shakespeares-first-folio-turns-400)
 * [2023-11-02, 16:07:40](https://news.ycombinator.com/item?id=38115592) - [How sunflowers see the sun](https://www.ucdavis.edu/curiosity/news/how-sunflowers-see-sun)
 * [2023-11-02, 15:56:28](https://news.ycombinator.com/item?id=38115364) - [How to Pronounce the Trickiest English Words: Ask This Frenchman](https://www.wsj.com/business/media/how-to-pronounce-english-words-julien-miquel-58581065)
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 17:00:51](https://news.ycombinator.com/item?id=38152963) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38152963)
+* [2023-11-05, 16:19:59](https://news.ycombinator.com/item?id=38152475) - [Montreal Built a Blueprint for Bargain Rapid Transit at C$119M per KM](https://www.bloomberg.com/news/articles/2023-10-30/how-montreal-s-new-rapid-transit-line-saved-millions-per-mile)
 * [2023-11-05, 16:01:07](https://news.ycombinator.com/item?id=38152272) - [Teflon is still toxic to birds](https://www.teflon.com/en/consumers/teflon-coatings-cookware-bakeware/safety/bird-safety)
 * [2023-11-05, 14:33:34](https://news.ycombinator.com/item?id=38151453) - [Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
 * [2023-11-05, 14:05:21](https://news.ycombinator.com/item?id=38151205) - [Berlin's famed nightclubs, losing customers, face an uncertain future](https://www.npr.org/2023/11/03/1209865472/berlin-clubs-tourism-nightlife-germany-economy)
