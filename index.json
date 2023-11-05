@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-05, 13:18:23",
+      "https://news.ycombinator.com/item?id=38150877"
+    ],
+    [
+      "Grok by XAI – Elon Musk",
+      "https://x.ai/model-card/"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 13:10:43",
       "https://news.ycombinator.com/item?id=38150833"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-11-05, 08:19:07",
-      "https://news.ycombinator.com/item?id=38149303"
-    ],
-    [
-      "Tesla Network Traffic [video]",
-      "https://www.youtube.com/watch?v=OdzCTEPkCvI"
-    ]
-  ],
-  [
-    [
       "2023-11-05, 08:08:30",
       "https://news.ycombinator.com/item?id=38149257"
     ],
@@ -157,16 +157,6 @@
     [
       "Kolmogorov Neural Networks can represent discontinuous functions",
       "https://arxiv.org/abs/2311.00049"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 05:02:33",
-      "https://news.ycombinator.com/item?id=38148396"
-    ],
-    [
-      "Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy",
-      "https://twitter.com/xai/status/1721027348970238035"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "PCIe vs. CXL for Memory and Storage",
       "https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 00:39:22",
+      "https://news.ycombinator.com/item?id=38122679"
+    ],
+    [
+      "A new F# compiler feature: graph-based type-checking",
+      "https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/"
     ]
   ],
   [
