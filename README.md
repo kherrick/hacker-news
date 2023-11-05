@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-05, 04:23:36](https://news.ycombinator.com/item?id=38148171) - [SpaceX poised for 'mid-November' launch of second Starship test flight](https://spaceflightnow.com/2023/11/04/spacex-poised-for-mid-november-of-second-starship-test-launch/)
+* [2023-11-05, 03:53:41](https://news.ycombinator.com/item?id=38147981) - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
 * [2023-11-05, 02:54:49](https://news.ycombinator.com/item?id=38147606) - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
 * [2023-11-05, 02:26:22](https://news.ycombinator.com/item?id=38147459) - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 * [2023-11-05, 02:23:40](https://news.ycombinator.com/item?id=38147438) - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
@@ -17,7 +18,6 @@
 * [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio (YC S15) is hiring a senior data engineer and back end engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-04, 20:58:15](https://news.ycombinator.com/item?id=38145054) - [The cottage industry of YouTube obituary pirates](https://www.wired.com/story/youtube-obituary-pirates/)
 * [2023-11-04, 20:24:55](https://news.ycombinator.com/item?id=38144772) - [Representations / strategies for noncooperative games with imperfect information [pdf]](https://www2.cs.sfu.ca/~bbart/personal/masters-thesis.pdf)
-* [2023-11-04, 19:55:13](https://news.ycombinator.com/item?id=38144530) - [You're Gonna Need a Bigger Browser](https://berjon.com/bigger-browser/)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
 * [2023-11-04, 19:24:34](https://news.ycombinator.com/item?id=38144266) - [FTC Chair Lina Khan looks for allies and leads in Silicon Valley charm offensive](https://www.reuters.com/business/ftc-chair-lina-khan-looks-allies-leads-silicon-valley-charm-offensive-2023-11-03/)
 * [2023-11-04, 18:50:07](https://news.ycombinator.com/item?id=38143984) - [AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
