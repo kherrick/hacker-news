@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
+* [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: The Extraordinary \"Robots\" Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 * [2023-11-05, 20:31:06](https://news.ycombinator.com/item?id=38155345) - [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
 * [2023-11-05, 20:20:29](https://news.ycombinator.com/item?id=38155231) - [Consumers are paying more than ever for streaming TV each month](https://finance.yahoo.com/news/consumers-paying-more-ever-streaming-181821039.html)
 * [2023-11-05, 20:12:54](https://news.ycombinator.com/item?id=38155158) - [What Happens When Your 11-Year-Old Says No to a Smartphone?](https://www.vogue.com/article/parentings-new-frontier-no-smartphones)
