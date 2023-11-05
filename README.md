@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 03:36:41](https://news.ycombinator.com/item?id=38147864) - [Right turn on red? With pedestrian deaths rising, US cities are considering bans](https://apnews.com/article/red-light-turn-pedestrian-bicyclist-deaths-7f5bdee9c7b3f4cbf005f1844f486123)
 * [2023-11-05, 02:54:49](https://news.ycombinator.com/item?id=38147606) - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
 * [2023-11-05, 02:26:22](https://news.ycombinator.com/item?id=38147459) - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 * [2023-11-05, 02:23:40](https://news.ycombinator.com/item?id=38147438) - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
@@ -11,7 +12,6 @@
 * [2023-11-04, 23:35:57](https://news.ycombinator.com/item?id=38146382) - [Planes, Spheres and Pseudospheres](https://www.gregegan.net/SCIENCE/PSP/PSP.html)
 * [2023-11-04, 23:29:32](https://news.ycombinator.com/item?id=38146327) - [Disturbed Lands (National Park Service)](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
 * [2023-11-04, 23:06:34](https://news.ycombinator.com/item?id=38146154) - [Show HN: Gogosseract, a Go Lib for CGo-Free Tesseract OCR via Wazero](https://github.com/Danlock/gogosseract)
-* [2023-11-04, 23:02:13](https://news.ycombinator.com/item?id=38146122) - [SARS-CoV-2 Infection Affects Energy Stores in the Body, Causing Organ Failure](https://news.unchealthcare.org/2023/10/researchers-show-sars-cov-2-infection-affects-energy-stores-in-the-body-causing-organ-failure/)
 * [2023-11-04, 21:43:19](https://news.ycombinator.com/item?id=38145461) - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
 * [2023-11-04, 21:15:23](https://news.ycombinator.com/item?id=38145194) - [How to Do a TypeScript Conversion: an opinionated take on gradual conversions](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
 * [2023-11-04, 21:00:14](https://news.ycombinator.com/item?id=38145067) - [Tesorio (YC S15) is hiring a senior data engineer and back end engineer in Latam](https://www.tesorio.com/careers#job-openings)
