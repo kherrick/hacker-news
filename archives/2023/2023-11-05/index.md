@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 09:09:20](https://news.ycombinator.com/item?id=38149506) - [Monsters of the Road: What Should the UK Do About SUVs?](https://www.theguardian.com/technology/2023/nov/05/monsters-of-the-road-what-should-the-uk-do-about-suvs)
+* [2023-11-05, 09:02:47](https://news.ycombinator.com/item?id=38149472) - [The next frontier in IP parasites: codec royalties on content](https://rocknerd.co.uk/2023/11/04/the-next-frontier-in-ip-parasites-codec-royalties-on-content/)
+* [2023-11-05, 08:54:49](https://news.ycombinator.com/item?id=38149441) - [Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
+* [2023-11-05, 08:37:45](https://news.ycombinator.com/item?id=38149375) - [Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings](https://store.kde.org/p/1350981)
+* [2023-11-05, 08:35:44](https://news.ycombinator.com/item?id=38149366) - [What makes a great software developer](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/)
+* [2023-11-05, 08:35:32](https://news.ycombinator.com/item?id=38149364) - [Startup idea: Zapier for consumer apps](https://news.ycombinator.com/item?id=38149364)
 * [2023-11-05, 08:19:07](https://news.ycombinator.com/item?id=38149303) - [Analyzing Tesla Network Traffic](https://www.youtube.com/watch?v=OdzCTEPkCvI)
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
