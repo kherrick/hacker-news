@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-05, 22:48:02](https://news.ycombinator.com/item?id=38156486) - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
-* [2023-11-05, 22:47:29](https://news.ycombinator.com/item?id=38156481) - [Silicon Valley is piling in to the business of snooping](https://www.economist.com/business/2023/11/05/silicon-valley-is-piling-in-to-the-business-of-snooping)
-* [2023-11-05, 21:29:03](https://news.ycombinator.com/item?id=38155840) - [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
+* [2023-11-05, 22:47:29](https://news.ycombinator.com/item?id=38156481) - [Tech startups selling to police](https://www.economist.com/business/2023/11/05/silicon-valley-is-piling-in-to-the-business-of-snooping)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 * [2023-11-05, 20:53:58](https://news.ycombinator.com/item?id=38155541) - [Beej's Quick Guide to GDB (2009)](https://beej.us/guide/bggdb/)
@@ -20,6 +19,7 @@
 * [2023-11-05, 15:44:23](https://news.ycombinator.com/item?id=38152109) - [Show HN: Sshx, a web-based collaborative terminal](https://github.com/ekzhang/sshx)
 * [2023-11-05, 14:33:34](https://news.ycombinator.com/item?id=38151453) - [Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
 * [2023-11-05, 14:15:29](https://news.ycombinator.com/item?id=38151286) - [I like gentoo's package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
+* [2023-11-05, 14:05:21](https://news.ycombinator.com/item?id=38151205) - [Berlin's famed nightclubs, losing customers, face an uncertain future](https://www.npr.org/2023/11/03/1209865472/berlin-clubs-tourism-nightlife-germany-economy)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
 * [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
