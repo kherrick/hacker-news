@@ -10,6 +10,7 @@
 * [2023-11-05, 21:29:03](https://news.ycombinator.com/item?id=38155840) - [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
+* [2023-11-05, 20:53:58](https://news.ycombinator.com/item?id=38155541) - [Beej's Quick Guide to GDB (2009)](https://beej.us/guide/bggdb/)
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: The Extraordinary \"Robots\" Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 * [2023-11-05, 20:31:06](https://news.ycombinator.com/item?id=38155345) - [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
 * [2023-11-05, 20:20:29](https://news.ycombinator.com/item?id=38155231) - [Consumers are paying more than ever for streaming TV each month](https://finance.yahoo.com/news/consumers-paying-more-ever-streaming-181821039.html)
