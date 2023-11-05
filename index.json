@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-05, 08:19:07",
+      "https://news.ycombinator.com/item?id=38149303"
+    ],
+    [
+      "Analyzing Tesla Network Traffic",
+      "https://www.youtube.com/watch?v=OdzCTEPkCvI"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 07:30:00",
       "https://news.ycombinator.com/item?id=38149093"
     ],
@@ -27,6 +37,16 @@
     [
       "Commodore/MOS KIM-1",
       "http://dunfield.classiccmp.org/kim1/index.htm"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 05:02:33",
+      "https://news.ycombinator.com/item?id=38148396"
+    ],
+    [
+      "Grok",
+      "https://twitter.com/xai/status/1721027348970238035"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-11-04, 21:34:00",
-      "https://news.ycombinator.com/item?id=38145368"
-    ],
-    [
-      "Show HN: A tiny and platform-agnostic true random number generator for FPGA/ASIC",
-      "https://github.com/stnolting/neoTRNG"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 21:15:23",
       "https://news.ycombinator.com/item?id=38145194"
     ],
@@ -217,16 +227,6 @@
     [
       "Othello Is Solved?",
       "https://arxiv.org/abs/2310.19387"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 12:01:50",
-      "https://news.ycombinator.com/item?id=38140242"
-    ],
-    [
-      "Spin 2.0 – open-source tool for building and running WASM apps",
-      "https://www.fermyon.com/blog/introducing-spin-v2"
     ]
   ],
   [
