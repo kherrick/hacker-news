@@ -17,6 +17,7 @@
 * [2023-11-04, 21:38:00](https://news.ycombinator.com/item?id=38145402) - [Cats Make Nearly 300 Different Facial Expressions](https://www.smithsonianmag.com/smart-news/cats-make-nearly-300-different-facial-expressions-180983185/)
 * [2023-11-04, 21:35:37](https://news.ycombinator.com/item?id=38145386) - [Stars Have Vanished Without a Trace. Where Did They Go?](https://www.iflscience.com/hundreds-of-stars-have-vanished-without-a-trace-where-did-they-go-71397)
 * [2023-11-04, 21:34:43](https://news.ycombinator.com/item?id=38145376) - [Mortgage rates drop fast after a shock jobs report sets off a series of dominoes](https://finance.yahoo.com/news/mortgage-rates-dropping-fast-shock-220111915.html)
+* [2023-11-04, 21:34:00](https://news.ycombinator.com/item?id=38145368) - [Show HN: A tiny and platform-agnostic true random number generator for FPGA/ASIC](https://github.com/stnolting/neoTRNG)
 * [2023-11-04, 21:16:11](https://news.ycombinator.com/item?id=38145205) - [Welcome to the New GamersNexus Website v5.0: A Message](https://gamersnexus.net/gn-extras/welcome-new-gamersnexus-website-v50-message)
 * [2023-11-04, 21:15:23](https://news.ycombinator.com/item?id=38145194) - [How to Do a TypeScript Conversion: an opinionated take on gradual conversions](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
 * [2023-11-04, 21:04:34](https://news.ycombinator.com/item?id=38145097) - [Interview with a Gladiatrix](https://antigonejournal.com/2023/10/modern-roman-gladiatrix/)
