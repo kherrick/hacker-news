@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 17:10:46](https://news.ycombinator.com/item?id=38153091) - [Brits make Amazon, Meta stop using third-party data to undercut rivals](https://www.theregister.com/2023/11/04/amazon_meta_cma/)
 * [2023-11-05, 17:04:46](https://news.ycombinator.com/item?id=38153003) - [Sam Bankman-Fried is a feature, not a bug](https://joanwestenberg.com/blog/sam-bankman-fried-is-a-feature-not-a-bug)
 * [2023-11-05, 17:00:51](https://news.ycombinator.com/item?id=38152963) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38152963)
 * [2023-11-05, 16:57:33](https://news.ycombinator.com/item?id=38152924) - [AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)
