@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-11-05, 09:09:20",
+      "https://news.ycombinator.com/item?id=38149506"
+    ],
+    [
+      "Monsters of the Road: What Should the UK Do About SUVs?",
+      "https://www.theguardian.com/technology/2023/nov/05/monsters-of-the-road-what-should-the-uk-do-about-suvs"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 09:02:47",
+      "https://news.ycombinator.com/item?id=38149472"
+    ],
+    [
+      "The next frontier in IP parasites: codec royalties on content",
+      "https://rocknerd.co.uk/2023/11/04/the-next-frontier-in-ip-parasites-codec-royalties-on-content/"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 08:54:49",
+      "https://news.ycombinator.com/item?id=38149441"
+    ],
+    [
+      "Linux and TPMs with systemd measured boot [video]",
+      "https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 08:37:45",
+      "https://news.ycombinator.com/item?id=38149375"
+    ],
+    [
+      "Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings",
+      "https://store.kde.org/p/1350981"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 08:35:44",
+      "https://news.ycombinator.com/item?id=38149366"
+    ],
+    [
+      "What makes a great software developer",
+      "https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 08:35:32",
+      "https://news.ycombinator.com/item?id=38149364"
+    ],
+    [
+      "Startup idea: Zapier for consumer apps",
+      "https://news.ycombinator.com/item?id=38149364"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 08:19:07",
       "https://news.ycombinator.com/item?id=38149303"
     ],
@@ -37,26 +97,6 @@
     [
       "Commodore/MOS KIM-1",
       "http://dunfield.classiccmp.org/kim1/index.htm"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 05:02:33",
-      "https://news.ycombinator.com/item?id=38148396"
-    ],
-    [
-      "Grok",
-      "https://twitter.com/xai/status/1721027348970238035"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 03:53:41",
-      "https://news.ycombinator.com/item?id=38147981"
-    ],
-    [
-      "The world nearly adopted a calendar with 13 months of 28 days",
-      "https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/"
     ]
   ],
   [
@@ -211,42 +251,12 @@
   ],
   [
     [
-      "2023-11-04, 18:50:07",
-      "https://news.ycombinator.com/item?id=38143984"
-    ],
-    [
-      "AI and Open Source in 2023",
-      "https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 14:35:56",
       "https://news.ycombinator.com/item?id=38141366"
     ],
     [
       "Othello Is Solved?",
       "https://arxiv.org/abs/2310.19387"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 10:27:18",
-      "https://news.ycombinator.com/item?id=38139687"
-    ],
-    [
-      "A 6 channel GPS receiver from 1993",
-      "https://mastodon.sdf.org/@keelan/111349948124943603"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 02:01:45",
-      "https://news.ycombinator.com/item?id=38137373"
-    ],
-    [
-      "AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor",
-      "https://www.xilinx.com/products/design-tools/microblaze-v.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel",
       "https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 15:27:57",
-      "https://news.ycombinator.com/item?id=38114871"
-    ],
-    [
-      "Lahaina Noon",
-      "https://en.wikipedia.org/wiki/Lahaina_Noon"
     ]
   ]
 ]
