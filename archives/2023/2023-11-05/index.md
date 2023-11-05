@@ -41,6 +41,7 @@
 * [2023-11-05, 13:31:22](https://news.ycombinator.com/item?id=38150965) - [Ecological Threat Report 2023: food insecurity, water stress, natural disasters](https://reliefweb.int/report/world/ecological-threat-report-2023)
 * [2023-11-05, 13:18:23](https://news.ycombinator.com/item?id=38150877) - [Grok by XAI – Elon Musk](https://x.ai/model-card/)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+* [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
 * [2023-11-05, 12:26:13](https://news.ycombinator.com/item?id=38150534) - [Psychedelics researcher approached his death with calm and curiosity](https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation)
 * [2023-11-05, 12:18:13](https://news.ycombinator.com/item?id=38150486) - [Effective Neovim: An Instant IDE [video]](https://www.youtube.com/watch?v=stqUbv-5u2s)
 * [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
