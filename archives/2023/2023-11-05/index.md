@@ -6,6 +6,7 @@
 
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
+* [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1](http://dunfield.classiccmp.org/kim1/index.htm)
 * [2023-11-05, 05:02:33](https://news.ycombinator.com/item?id=38148396) - [Grok](https://twitter.com/xai/status/1721027348970238035)
 * [2023-11-05, 04:23:36](https://news.ycombinator.com/item?id=38148171) - [SpaceX poised for 'mid-November' launch of second Starship test flight](https://spaceflightnow.com/2023/11/04/spacex-poised-for-mid-november-of-second-starship-test-launch/)
 * [2023-11-05, 03:53:41](https://news.ycombinator.com/item?id=38147981) - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
