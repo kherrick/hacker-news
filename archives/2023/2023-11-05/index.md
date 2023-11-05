@@ -8,6 +8,7 @@
 * [2023-11-05, 19:04:34](https://news.ycombinator.com/item?id=38154431) - [Hundreds demonstrate against high rents in Zurich](https://www.swissinfo.ch/eng/business/hundreds-demonstrate-against-high-rents-in-zurich/48953360)
 * [2023-11-05, 18:41:48](https://news.ycombinator.com/item?id=38154161) - [Apple hunter Tom Brown finds and saves rare Apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 * [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
+* [2023-11-05, 18:03:14](https://news.ycombinator.com/item?id=38153672) - [In a cameras-everywhere culture, science fiction becomes reality (2015)](https://www.latimes.com/business/la-fi-0411-cameras-everywhere-20150412-story.html)
 * [2023-11-05, 17:55:12](https://news.ycombinator.com/item?id=38153585) - [W3C Community Group Draft Report – WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 * [2023-11-05, 17:54:07](https://news.ycombinator.com/item?id=38153573) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:30:00](https://news.ycombinator.com/item?id=38153318) - [What is Glamorous Toolkit v1.0?](https://lepiter.io/feenk/what-exactly-is-glamorous-toolkit-v1-0--7sex44dze2dqlocqxwfz8ju0i/)
