@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-05, 17:10:46",
+      "https://news.ycombinator.com/item?id=38153091"
+    ],
+    [
+      "Brits make Amazon, Meta stop using third-party data to undercut rivals",
+      "https://www.theregister.com/2023/11/04/amazon_meta_cma/"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 17:04:46",
       "https://news.ycombinator.com/item?id=38153003"
     ],
@@ -61,22 +71,22 @@
   ],
   [
     [
-      "2023-11-05, 14:33:34",
-      "https://news.ycombinator.com/item?id=38151453"
-    ],
-    [
-      "Can solar and wind power Britain? An update of David MacKay's numbers",
-      "https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain"
-    ]
-  ],
-  [
-    [
       "2023-11-05, 14:15:29",
       "https://news.ycombinator.com/item?id=38151286"
     ],
     [
       "I like gentoo's package deprecation process",
       "https://artemis.sh/2023/11/05/gentoo-mask-process.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 13:54:57",
+      "https://news.ycombinator.com/item?id=38151124"
+    ],
+    [
+      "ReactOS Newsletter 103 – Late 2023 News",
+      "https://reactos.org/blogs/newsletter-103/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-11-04, 23:35:57",
-      "https://news.ycombinator.com/item?id=38146382"
-    ],
-    [
-      "Planes, Spheres and Pseudospheres",
-      "https://www.gregegan.net/SCIENCE/PSP/PSP.html"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 22:01:00",
       "https://news.ycombinator.com/item?id=38145625"
     ],
@@ -207,16 +207,6 @@
     [
       "NewPipe – Lightweight YouTube experience for Android",
       "https://newpipe.net/"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 16:33:40",
-      "https://news.ycombinator.com/item?id=38142586"
-    ],
-    [
-      "Mass producing the most expensive rice cooker [video]",
-      "https://www.youtube.com/watch?v=xLCwr8qG1p4"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Fdupes: Identify or Delete Duplicate Files",
       "https://github.com/adrianlopezroche/fdupes"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 11:29:26",
+      "https://news.ycombinator.com/item?id=38111918"
+    ],
+    [
+      "Hexabyte – A modern, robust, and extensible commandline hex editor",
+      "https://github.com/thetacom/hexabyte"
     ]
   ]
 ]
