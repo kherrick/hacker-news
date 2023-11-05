@@ -2,6 +2,7 @@
 
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
+* [2023-11-05, 05:02:33](https://news.ycombinator.com/item?id=38148396) - [Grok](https://twitter.com/xai/status/1721027348970238035)
 * [2023-11-05, 03:53:41](https://news.ycombinator.com/item?id=38147981) - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
 * [2023-11-05, 02:26:22](https://news.ycombinator.com/item?id=38147459) - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 * [2023-11-05, 02:23:40](https://news.ycombinator.com/item?id=38147438) - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
@@ -13,7 +14,6 @@
 * [2023-11-04, 23:06:34](https://news.ycombinator.com/item?id=38146154) - [Show HN: Gogosseract, a Go Lib for CGo-Free Tesseract OCR via Wazero](https://github.com/Danlock/gogosseract)
 * [2023-11-04, 23:02:13](https://news.ycombinator.com/item?id=38146122) - [SARS-CoV-2 Infection Affects Energy Stores in the Body, Causing Organ Failure](https://news.unchealthcare.org/2023/10/researchers-show-sars-cov-2-infection-affects-energy-stores-in-the-body-causing-organ-failure/)
 * [2023-11-04, 21:43:19](https://news.ycombinator.com/item?id=38145461) - [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
-* [2023-11-04, 21:34:00](https://news.ycombinator.com/item?id=38145368) - [Show HN: A tiny and platform-agnostic true random number generator for FPGA/ASIC](https://github.com/stnolting/neoTRNG)
 * [2023-11-04, 21:15:23](https://news.ycombinator.com/item?id=38145194) - [How to Do a TypeScript Conversion: an opinionated take on gradual conversions](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
 * [2023-11-04, 20:58:15](https://news.ycombinator.com/item?id=38145054) - [The cottage industry of YouTube obituary pirates](https://www.wired.com/story/youtube-obituary-pirates/)
 * [2023-11-04, 20:24:55](https://news.ycombinator.com/item?id=38144772) - [Representations / strategies for noncooperative games with imperfect information [pdf]](https://www2.cs.sfu.ca/~bbart/personal/masters-thesis.pdf)
