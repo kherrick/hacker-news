@@ -2,6 +2,7 @@
 
 * [2023-11-05, 13:34:31](https://news.ycombinator.com/item?id=38150987) - [UN chief warns Nepal's mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+* [2023-11-05, 12:18:13](https://news.ycombinator.com/item?id=38150486) - [Effective Neovim: An Instant IDE [video]](https://www.youtube.com/watch?v=stqUbv-5u2s)
 * [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-05, 11:12:12](https://news.ycombinator.com/item?id=38150096) - [Email obfuscation rendered almost ineffective against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
 * [2023-11-05, 09:57:14](https://news.ycombinator.com/item?id=38149712) - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
@@ -18,7 +19,6 @@
 * [2023-11-05, 01:24:13](https://news.ycombinator.com/item?id=38147052) - [BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit](https://github.com/beeware/toga/releases/tag/v0.4.0)
 * [2023-11-05, 00:52:36](https://news.ycombinator.com/item?id=38146856) - [The First App Store](https://one-from-nippon.ghost.io/worlds-first-app-store/)
 * [2023-11-04, 23:35:57](https://news.ycombinator.com/item?id=38146382) - [Planes, Spheres and Pseudospheres](https://www.gregegan.net/SCIENCE/PSP/PSP.html)
-* [2023-11-04, 23:06:34](https://news.ycombinator.com/item?id=38146154) - [Show HN: Gogosseract, a Go Lib for CGo-Free Tesseract OCR via Wazero](https://github.com/Danlock/gogosseract)
 * [2023-11-04, 22:01:00](https://news.ycombinator.com/item?id=38145625) - [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 * [2023-11-04, 20:24:55](https://news.ycombinator.com/item?id=38144772) - [Representations and srategies for games with imperfect information (1996) [pdf]](https://www2.cs.sfu.ca/~bbart/personal/masters-thesis.pdf)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
