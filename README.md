@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-05, 13:18:23](https://news.ycombinator.com/item?id=38150877) - [Grok by XAI – Elon Musk](https://x.ai/model-card/)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-05, 11:29:19](https://news.ycombinator.com/item?id=38150187) - [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
@@ -16,6 +15,7 @@
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [Exclusive access for LLM companies to largest Chinese nonfiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1 (2004)](http://dunfield.classiccmp.org/kim1/index.htm)
 * [2023-11-05, 05:13:38](https://news.ycombinator.com/item?id=38148470) - [Kolmogorov Neural Networks can represent discontinuous functions](https://arxiv.org/abs/2311.00049)
+* [2023-11-05, 01:24:13](https://news.ycombinator.com/item?id=38147052) - [BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit](https://github.com/beeware/toga/releases/tag/v0.4.0)
 * [2023-11-05, 00:52:36](https://news.ycombinator.com/item?id=38146856) - [The First App Store](https://one-from-nippon.ghost.io/worlds-first-app-store/)
 * [2023-11-04, 23:35:57](https://news.ycombinator.com/item?id=38146382) - [Planes, Spheres and Pseudospheres](https://www.gregegan.net/SCIENCE/PSP/PSP.html)
 * [2023-11-04, 23:06:34](https://news.ycombinator.com/item?id=38146154) - [Show HN: Gogosseract, a Go Lib for CGo-Free Tesseract OCR via Wazero](https://github.com/Danlock/gogosseract)
