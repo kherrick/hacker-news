@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 14:05:21](https://news.ycombinator.com/item?id=38151205) - [Berlin's famed nightclubs, losing customers, face an uncertain future](https://www.npr.org/2023/11/03/1209865472/berlin-clubs-tourism-nightlife-germany-economy)
 * [2023-11-05, 14:01:44](https://news.ycombinator.com/item?id=38151178) - [Leaf blowers are a scourge. Why is it hard to get rid of them?](https://thehustle.co/leaf-blowers-are-a-scourge-why-is-it-hard-to-get-rid-of-them/)
 * [2023-11-05, 13:54:57](https://news.ycombinator.com/item?id=38151124) - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-05, 13:34:31](https://news.ycombinator.com/item?id=38150987) - [UN chief warns Nepal's mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
@@ -28,7 +29,6 @@
 * [2023-11-03, 03:16:46](https://news.ycombinator.com/item?id=38124022) - [A Proposal Fix for C/C++ Relaxed Atomics in Practice](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
 * [2023-11-03, 00:39:22](https://news.ycombinator.com/item?id=38122679) - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
 * [2023-11-02, 22:51:02](https://news.ycombinator.com/item?id=38121508) - [Subtle ways Microsoft Word has changed how we use language](https://www.bbc.com/future/article/20231025-the-surprisingly-subtle-ways-microsoft-word-has-changed-the-way-we-use-language)
-* [2023-11-02, 15:31:54](https://news.ycombinator.com/item?id=38114943) - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
 * [2023-11-02, 13:42:45](https://news.ycombinator.com/item?id=38113396) - [Fdupes: Identify or Delete Duplicate Files](https://github.com/adrianlopezroche/fdupes)
 
 ## [Archives](archives/index.md)
