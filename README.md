@@ -23,13 +23,13 @@
 * [2023-11-04, 19:24:34](https://news.ycombinator.com/item?id=38144266) - [FTC Chair Lina Khan looks for allies and leads in Silicon Valley charm offensive](https://www.reuters.com/business/ftc-chair-lina-khan-looks-allies-leads-silicon-valley-charm-offensive-2023-11-03/)
 * [2023-11-04, 18:50:07](https://news.ycombinator.com/item?id=38143984) - [AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023)
 * [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved?](https://arxiv.org/abs/2310.19387)
+* [2023-11-04, 12:01:50](https://news.ycombinator.com/item?id=38140242) - [Spin 2.0 – open-source tool for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v2)
 * [2023-11-04, 10:27:18](https://news.ycombinator.com/item?id=38139687) - [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments to IRS re tax treatment of software dev expenses](https://news.ycombinator.com/item?id=38120388)
 * [2023-11-02, 15:48:52](https://news.ycombinator.com/item?id=38115221) - [Chemists, engineers craft adjustable arrays of microscopic lenses](https://phys.org/news/2023-10-chemists-craft-adjustable-arrays-microscopic.html)
 * [2023-11-02, 15:43:37](https://news.ycombinator.com/item?id=38115128) - [Quadratic Reciprocity: The connection that changed number theory](https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/)
 * [2023-11-02, 15:31:54](https://news.ycombinator.com/item?id=38114943) - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
-* [2023-11-02, 15:27:57](https://news.ycombinator.com/item?id=38114871) - [Lahaina Noon](https://en.wikipedia.org/wiki/Lahaina_Noon)
 
 ## [Archives](archives/index.md)
 
