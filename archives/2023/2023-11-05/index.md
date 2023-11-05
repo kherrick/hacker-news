@@ -28,6 +28,7 @@
 * [2023-11-05, 13:54:57](https://news.ycombinator.com/item?id=38151124) - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-05, 13:42:45](https://news.ycombinator.com/item?id=38151033) - [Windows 10 PC will soon be 'junk'](https://www.express.co.uk/life-style/science-technology/1831239/microsoft-windows-10-end-support-petition)
 * [2023-11-05, 13:34:31](https://news.ycombinator.com/item?id=38150987) - [UN chief warns Nepal's mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
+* [2023-11-05, 13:31:22](https://news.ycombinator.com/item?id=38150965) - [Ecological Threat Report 2023: food insecurity, water stress, natural disasters](https://reliefweb.int/report/world/ecological-threat-report-2023)
 * [2023-11-05, 13:18:23](https://news.ycombinator.com/item?id=38150877) - [Grok by XAI – Elon Musk](https://x.ai/model-card/)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:26:13](https://news.ycombinator.com/item?id=38150534) - [Psychedelics researcher approached his death with calm and curiosity](https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation)
