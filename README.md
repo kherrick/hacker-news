@@ -2,6 +2,7 @@
 
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 * [2023-11-05, 20:31:06](https://news.ycombinator.com/item?id=38155345) - [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
+* [2023-11-05, 20:20:29](https://news.ycombinator.com/item?id=38155231) - [Consumers are paying more than ever for streaming TV each month](https://finance.yahoo.com/news/consumers-paying-more-ever-streaming-181821039.html)
 * [2023-11-05, 19:45:45](https://news.ycombinator.com/item?id=38154869) - [Developing AI models or giant GPU clusters? Uncle Sam would like a word](https://www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/)
 * [2023-11-05, 18:41:48](https://news.ycombinator.com/item?id=38154161) - [Apple hunter Tom Brown finds and saves rare apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 * [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
@@ -22,7 +23,6 @@
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1 (2004)](http://dunfield.classiccmp.org/kim1/index.htm)
 * [2023-11-04, 22:01:00](https://news.ycombinator.com/item?id=38145625) - [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
-* [2023-11-03, 08:18:46](https://news.ycombinator.com/item?id=38125885) - [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
 * [2023-11-03, 06:51:15](https://news.ycombinator.com/item?id=38125352) - [Trusted third parties are security holes (2005)](http://web.archive.org/web/20160309161628/http://szabo.best.vwh.net/ttps.html)
 * [2023-11-03, 00:39:22](https://news.ycombinator.com/item?id=38122679) - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
