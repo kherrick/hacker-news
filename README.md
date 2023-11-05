@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 14:33:34](https://news.ycombinator.com/item?id=38151453) - [Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
 * [2023-11-05, 14:05:21](https://news.ycombinator.com/item?id=38151205) - [Berlin's famed nightclubs, losing customers, face an uncertain future](https://www.npr.org/2023/11/03/1209865472/berlin-clubs-tourism-nightlife-germany-economy)
-* [2023-11-05, 14:01:44](https://news.ycombinator.com/item?id=38151178) - [Leaf blowers are a scourge. Why is it hard to get rid of them?](https://thehustle.co/leaf-blowers-are-a-scourge-why-is-it-hard-to-get-rid-of-them/)
 * [2023-11-05, 13:54:57](https://news.ycombinator.com/item?id=38151124) - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-05, 13:34:31](https://news.ycombinator.com/item?id=38150987) - [UN chief warns Nepal's mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
