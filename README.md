@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-05, 17:00:51](https://news.ycombinator.com/item?id=38152963) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38152963)
+* [2023-11-05, 16:24:35](https://news.ycombinator.com/item?id=38152534) - [Dengue rates plunged after release of lab-altered mosquitoes](https://www.dw.com/en/dengue-rates-plummeted-in-colombia-after-lab-infected-mosquito-release/a-67268943)
 * [2023-11-05, 16:19:59](https://news.ycombinator.com/item?id=38152475) - [Montreal Built a Blueprint for Bargain Rapid Transit at C$119M per KM](https://www.bloomberg.com/news/articles/2023-10-30/how-montreal-s-new-rapid-transit-line-saved-millions-per-mile)
 * [2023-11-05, 16:01:07](https://news.ycombinator.com/item?id=38152272) - [Teflon is still toxic to birds](https://www.teflon.com/en/consumers/teflon-coatings-cookware-bakeware/safety/bird-safety)
 * [2023-11-05, 14:33:34](https://news.ycombinator.com/item?id=38151453) - [Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
-* [2023-11-05, 13:54:57](https://news.ycombinator.com/item?id=38151124) - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
-* [2023-11-05, 13:34:31](https://news.ycombinator.com/item?id=38150987) - [UN chief warns Nepal's mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
+* [2023-11-05, 14:15:29](https://news.ycombinator.com/item?id=38151286) - [I like gentoo's package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:26:13](https://news.ycombinator.com/item?id=38150534) - [Psychedelics researcher approached his death with calm and curiosity](https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation)
 * [2023-11-05, 12:18:13](https://news.ycombinator.com/item?id=38150486) - [Effective Neovim: An Instant IDE [video]](https://www.youtube.com/watch?v=stqUbv-5u2s)
