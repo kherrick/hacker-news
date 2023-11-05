@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 02:54:49](https://news.ycombinator.com/item?id=38147606) - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
 * [2023-11-05, 02:26:22](https://news.ycombinator.com/item?id=38147459) - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 * [2023-11-05, 02:23:40](https://news.ycombinator.com/item?id=38147438) - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
 * [2023-11-05, 01:59:33](https://news.ycombinator.com/item?id=38147278) - [SBF Is Headed to Prison but FTX Will Haunt the Crypto Community for Years](https://gizmodo.com/ftx-fbi-sam-bankman-fried-cryptocurrency-data-1850990825)
@@ -22,7 +23,6 @@
 * [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved?](https://arxiv.org/abs/2310.19387)
 * [2023-11-04, 12:01:50](https://news.ycombinator.com/item?id=38140242) - [Spin 2.0 – open-source tool for building and running WASM apps](https://www.fermyon.com/blog/introducing-spin-v2)
 * [2023-11-04, 03:28:51](https://news.ycombinator.com/item?id=38137879) - [Classes vs. structs in .NET: how not to teach about performance](https://sergeyteplyakov.github.io/Blog/benchmarking/2023/11/02/Performance_Comparison_For_Classes_vs_Structs.html)
-* [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-02, 21:26:02](https://news.ycombinator.com/item?id=38120388) - [Tell HN: Submit comments to IRS re tax treatment of software dev expenses](https://news.ycombinator.com/item?id=38120388)
 * [2023-11-02, 15:54:15](https://news.ycombinator.com/item?id=38115323) - [How “blue” and “green” appeared in a language that didn’t have words for them](https://news.mit.edu/2023/how-blue-and-green-appeared-language-1102)
 * [2023-11-02, 15:48:52](https://news.ycombinator.com/item?id=38115221) - [Chemists, engineers craft adjustable arrays of microscopic lenses](https://phys.org/news/2023-10-chemists-craft-adjustable-arrays-microscopic.html)
