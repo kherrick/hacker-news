@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 08:19:07](https://news.ycombinator.com/item?id=38149303) - [Analyzing Tesla Network Traffic](https://www.youtube.com/watch?v=OdzCTEPkCvI)
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1](http://dunfield.classiccmp.org/kim1/index.htm)
