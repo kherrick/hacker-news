@@ -6,6 +6,7 @@
 
 * [2023-11-05, 09:42:28](https://news.ycombinator.com/item?id=38149644) - [You think you secured your Hetzner account with 2FA? Think again](https://old.reddit.com/r/hetzner/comments/17ntxhg/you_think_you_secured_your_hetzner_account_with/)
 * [2023-11-05, 09:41:53](https://news.ycombinator.com/item?id=38149643) - [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
+* [2023-11-05, 09:29:37](https://news.ycombinator.com/item?id=38149585) - [Former Amazon engineer quits after stressful job](https://www.businessinsider.com/quit-amazon-job-anxiety-stress-2023-10)
 * [2023-11-05, 09:09:20](https://news.ycombinator.com/item?id=38149506) - [Monsters of the Road: What Should the UK Do About SUVs?](https://www.theguardian.com/technology/2023/nov/05/monsters-of-the-road-what-should-the-uk-do-about-suvs)
 * [2023-11-05, 09:02:47](https://news.ycombinator.com/item?id=38149472) - [The next frontier in IP parasites: codec royalties on content](https://rocknerd.co.uk/2023/11/04/the-next-frontier-in-ip-parasites-codec-royalties-on-content/)
 * [2023-11-05, 08:54:49](https://news.ycombinator.com/item?id=38149441) - [Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
@@ -13,6 +14,7 @@
 * [2023-11-05, 08:35:44](https://news.ycombinator.com/item?id=38149366) - [What makes a great software developer](https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/)
 * [2023-11-05, 08:35:32](https://news.ycombinator.com/item?id=38149364) - [Startup idea: Zapier for consumer apps](https://news.ycombinator.com/item?id=38149364)
 * [2023-11-05, 08:19:07](https://news.ycombinator.com/item?id=38149303) - [Analyzing Tesla Network Traffic](https://www.youtube.com/watch?v=OdzCTEPkCvI)
+* [2023-11-05, 08:08:30](https://news.ycombinator.com/item?id=38149257) - [What Is Propaganda? (1944)](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/gi-roundtable-series/pamphlets/em-2-what-is-propaganda-(1944))
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1](http://dunfield.classiccmp.org/kim1/index.htm)
