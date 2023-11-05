@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-05, 13:18:23",
-      "https://news.ycombinator.com/item?id=38150877"
-    ],
-    [
-      "Grok by XAI – Elon Musk",
-      "https://x.ai/model-card/"
-    ]
-  ],
-  [
-    [
       "2023-11-05, 13:10:43",
       "https://news.ycombinator.com/item?id=38150833"
     ],
@@ -157,6 +147,16 @@
     [
       "Kolmogorov Neural Networks can represent discontinuous functions",
       "https://arxiv.org/abs/2311.00049"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 01:24:13",
+      "https://news.ycombinator.com/item?id=38147052"
+    ],
+    [
+      "BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit",
+      "https://github.com/beeware/toga/releases/tag/v0.4.0"
     ]
   ],
   [
