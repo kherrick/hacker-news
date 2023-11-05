@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-11-02, 15:43:37",
-      "https://news.ycombinator.com/item?id=38115128"
-    ],
-    [
-      "Quadratic Reciprocity: The connection that changed number theory",
-      "https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 15:31:54",
       "https://news.ycombinator.com/item?id=38114943"
     ],
     [
       "Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel",
       "https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 13:42:45",
+      "https://news.ycombinator.com/item?id=38113396"
+    ],
+    [
+      "fdupes: Identify or Delete Duplicate Files",
+      "https://github.com/adrianlopezroche/fdupes"
     ]
   ]
 ]
