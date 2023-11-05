@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 18:41:48](https://news.ycombinator.com/item?id=38154161) - [Apple hunter Tom Brown finds and saves rare Apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 * [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
 * [2023-11-05, 17:54:07](https://news.ycombinator.com/item?id=38153573) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:28:47](https://news.ycombinator.com/item?id=38153309) - [See the History of a Method with Git log -L](https://calebhearth.com/git-method-history)

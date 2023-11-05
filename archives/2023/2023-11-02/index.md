@@ -100,6 +100,7 @@
 * [2023-11-02, 12:09:12](https://news.ycombinator.com/item?id=38112374) - [Google AI chief says there's a 50% chance we'll hit AGI in just 5 years](https://futurism.com/google-deepmind-agi-5-years)
 * [2023-11-02, 12:00:26](https://news.ycombinator.com/item?id=38112287) - [Activeloop (Database for AI – YC S18) Hiring Fullstack / ML Infrastructure Folks](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2023-11-02, 11:37:05](https://news.ycombinator.com/item?id=38111997) - [Where do our atoms come from?](https://finmoorhouse.com/writing/future-people/)
+* [2023-11-02, 11:36:21](https://news.ycombinator.com/item?id=38111986) - [For developers under pressure, it’s better for bugs to be found in production](https://www.amazingcto.com/tests-are-bad-for-developers/)
 * [2023-11-02, 11:30:31](https://news.ycombinator.com/item?id=38111925) - [Electric mountain: the power station that shows the beauty of infrastructure](https://www.theguardian.com/news/2023/nov/02/beauty-of-infrastructure-electric-mountain-dinorwig-power-station-north-wales)
 * [2023-11-02, 11:29:26](https://news.ycombinator.com/item?id=38111918) - [Hexabyte – A modern, robust, and extensible commandline hex editor](https://github.com/thetacom/hexabyte)
 * [2023-11-02, 10:49:46](https://news.ycombinator.com/item?id=38111609) - [Born in a Bomb Shelter](https://callumbirch.com/grandad.html)
