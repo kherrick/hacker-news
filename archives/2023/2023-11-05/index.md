@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 09:57:14](https://news.ycombinator.com/item?id=38149712) - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
 * [2023-11-05, 09:42:28](https://news.ycombinator.com/item?id=38149644) - [You think you secured your Hetzner account with 2FA? Think again](https://old.reddit.com/r/hetzner/comments/17ntxhg/you_think_you_secured_your_hetzner_account_with/)
 * [2023-11-05, 09:41:53](https://news.ycombinator.com/item?id=38149643) - [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
 * [2023-11-05, 09:29:37](https://news.ycombinator.com/item?id=38149585) - [Former Amazon engineer quits after stressful job](https://www.businessinsider.com/quit-amazon-job-anxiety-stress-2023-10)
