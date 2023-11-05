@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 05:02:33](https://news.ycombinator.com/item?id=38148396) - [Grok](https://twitter.com/xai/status/1721027348970238035)
 * [2023-11-05, 04:23:36](https://news.ycombinator.com/item?id=38148171) - [SpaceX poised for 'mid-November' launch of second Starship test flight](https://spaceflightnow.com/2023/11/04/spacex-poised-for-mid-november-of-second-starship-test-launch/)
 * [2023-11-05, 03:53:41](https://news.ycombinator.com/item?id=38147981) - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
 * [2023-11-05, 02:54:49](https://news.ycombinator.com/item?id=38147606) - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
@@ -29,7 +30,6 @@
 * [2023-11-02, 15:43:37](https://news.ycombinator.com/item?id=38115128) - [Quadratic Reciprocity: The connection that changed number theory](https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/)
 * [2023-11-02, 15:31:54](https://news.ycombinator.com/item?id=38114943) - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
 * [2023-11-02, 15:27:57](https://news.ycombinator.com/item?id=38114871) - [Lahaina Noon](https://en.wikipedia.org/wiki/Lahaina_Noon)
-* [2023-11-02, 14:58:38](https://news.ycombinator.com/item?id=38114382) - [The Apple II Circuit Description (1983)](https://archive.org/details/taiicd)
 
 ## [Archives](archives/index.md)
 
