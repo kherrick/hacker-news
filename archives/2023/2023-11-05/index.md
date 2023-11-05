@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 19:45:45](https://news.ycombinator.com/item?id=38154869) - [Developing AI models or giant GPU clusters? Uncle Sam would like a word](https://www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/)
 * [2023-11-05, 19:04:34](https://news.ycombinator.com/item?id=38154431) - [Hundreds demonstrate against high rents in Zurich](https://www.swissinfo.ch/eng/business/hundreds-demonstrate-against-high-rents-in-zurich/48953360)
 * [2023-11-05, 18:41:48](https://news.ycombinator.com/item?id=38154161) - [Apple hunter Tom Brown finds and saves rare Apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 * [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-05, 19:04:34](https://news.ycombinator.com/item?id=38154431) - [Hundreds demonstrate against high rents in Zurich](https://www.swissinfo.ch/eng/business/hundreds-demonstrate-against-high-rents-in-zurich/48953360)
+* [2023-11-05, 19:45:45](https://news.ycombinator.com/item?id=38154869) - [Developing AI models or giant GPU clusters? Uncle Sam would like a word](https://www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/)
+* [2023-11-05, 18:41:48](https://news.ycombinator.com/item?id=38154161) - [Apple hunter Tom Brown finds and saves rare apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 * [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
 * [2023-11-05, 17:55:12](https://news.ycombinator.com/item?id=38153585) - [W3C Community Group Draft Report – WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 * [2023-11-05, 17:54:07](https://news.ycombinator.com/item?id=38153573) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
@@ -20,7 +21,6 @@
 * [2023-11-05, 05:13:38](https://news.ycombinator.com/item?id=38148470) - [Kolmogorov Neural Networks can represent discontinuous functions](https://arxiv.org/abs/2311.00049)
 * [2023-11-04, 22:01:00](https://news.ycombinator.com/item?id=38145625) - [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
-* [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved?](https://arxiv.org/abs/2310.19387)
 * [2023-11-03, 08:18:46](https://news.ycombinator.com/item?id=38125885) - [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
 * [2023-11-03, 06:51:15](https://news.ycombinator.com/item?id=38125352) - [Trusted third parties are security holes (2005)](http://web.archive.org/web/20160309161628/http://szabo.best.vwh.net/ttps.html)
 * [2023-11-03, 03:16:46](https://news.ycombinator.com/item?id=38124022) - [A Proposal Fix for C/C++ Relaxed Atomics in Practice](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
