@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
 * [2023-11-04, 23:44:49](https://news.ycombinator.com/item?id=38146443) - [DEA Launches Crack Down on San Francisco Fentanyl Dealing](https://abc7news.com/sf-fentanyl-drug-dealers-all-hands-of-deck-operation-sfpd/14006658/)
+* [2023-11-04, 23:35:57](https://news.ycombinator.com/item?id=38146382) - [Planes, Spheres and Pseudospheres](https://www.gregegan.net/SCIENCE/PSP/PSP.html)
 * [2023-11-04, 23:30:38](https://news.ycombinator.com/item?id=38146339) - [Tesla strike widens as Swedish union expands blockade](https://www.thelocal.se/20231103/tesla-strike-widens-as-swedish-union-expands-blockade)
 * [2023-11-04, 23:29:32](https://news.ycombinator.com/item?id=38146327) - [Disturbed Lands (National Park Service)](https://www.nps.gov/shen/learn/nature/disturbedlands.htm)
 * [2023-11-04, 23:06:34](https://news.ycombinator.com/item?id=38146154) - [Show HN: Gogosseract, a Go Lib for CGo-Free Tesseract OCR via Wazero](https://github.com/Danlock/gogosseract)
@@ -45,6 +46,7 @@
 * [2023-11-04, 16:52:46](https://news.ycombinator.com/item?id=38142782) - [Ask HN: How would French police locate suspects by tapping their devices?](https://news.ycombinator.com/item?id=38142782)
 * [2023-11-04, 16:48:46](https://news.ycombinator.com/item?id=38142734) - [Searching for hidden silicon art on a microchip](https://twitter.com/microscopicture/status/1720837951238636018)
 * [2023-11-04, 16:36:26](https://news.ycombinator.com/item?id=38142606) - [I need more USB power](https://atomic14.substack.com/p/i-need-more-usb-power)
+* [2023-11-04, 16:33:40](https://news.ycombinator.com/item?id=38142586) - [Mass producing the most expensive rice cooker [video]](https://www.youtube.com/watch?v=xLCwr8qG1p4)
 * [2023-11-04, 15:56:08](https://news.ycombinator.com/item?id=38142209) - [How a Carbohydrate Revolution Is Speeding Up Pro Cycling](https://velo.outsideonline.com/road/road-training/a-massive-change-how-a-carbohydrate-revolution-is-speeding-up-pro-cycling/)
 * [2023-11-04, 14:47:19](https://news.ycombinator.com/item?id=38141497) - [Historic strike called off after Klarna agrees collective bargaining agreement](https://www.thelocal.se/20231104/historic-strike-called-off-after-klarna-signs-collective-bargaining-agreement)
 * [2023-11-04, 14:42:27](https://news.ycombinator.com/item?id=38141433) - [The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)
