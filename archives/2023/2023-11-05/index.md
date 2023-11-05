@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 13:18:23](https://news.ycombinator.com/item?id=38150877) - [Grok by XAI – Elon Musk](https://x.ai/model-card/)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-05, 11:29:19](https://news.ycombinator.com/item?id=38150187) - [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
