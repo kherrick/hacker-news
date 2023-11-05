@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 09:42:28](https://news.ycombinator.com/item?id=38149644) - [You think you secured your Hetzner account with 2FA? Think again](https://old.reddit.com/r/hetzner/comments/17ntxhg/you_think_you_secured_your_hetzner_account_with/)
 * [2023-11-05, 09:41:53](https://news.ycombinator.com/item?id=38149643) - [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
 * [2023-11-05, 09:09:20](https://news.ycombinator.com/item?id=38149506) - [Monsters of the Road: What Should the UK Do About SUVs?](https://www.theguardian.com/technology/2023/nov/05/monsters-of-the-road-what-should-the-uk-do-about-suvs)
 * [2023-11-05, 09:02:47](https://news.ycombinator.com/item?id=38149472) - [The next frontier in IP parasites: codec royalties on content](https://rocknerd.co.uk/2023/11/04/the-next-frontier-in-ip-parasites-codec-royalties-on-content/)
@@ -10,7 +11,6 @@
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1](http://dunfield.classiccmp.org/kim1/index.htm)
-* [2023-11-05, 02:26:22](https://news.ycombinator.com/item?id=38147459) - [Topic: Discord Stealer](https://github.com/topics/discord-stealer)
 * [2023-11-05, 02:23:40](https://news.ycombinator.com/item?id=38147438) - [Shadows Edge Software](https://www.shadowsedge.mil/What-We-Do/)
 * [2023-11-05, 01:24:13](https://news.ycombinator.com/item?id=38147052) - [BeeWare Toga v0.4.0 – A Python native, OS native GUI toolkit](https://github.com/beeware/toga/releases/tag/v0.4.0)
 * [2023-11-05, 00:52:36](https://news.ycombinator.com/item?id=38146856) - [The First App Store](https://one-from-nippon.ghost.io/worlds-first-app-store/)

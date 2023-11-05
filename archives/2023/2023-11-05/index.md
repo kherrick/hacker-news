@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 09:42:28](https://news.ycombinator.com/item?id=38149644) - [You think you secured your Hetzner account with 2FA? Think again](https://old.reddit.com/r/hetzner/comments/17ntxhg/you_think_you_secured_your_hetzner_account_with/)
 * [2023-11-05, 09:41:53](https://news.ycombinator.com/item?id=38149643) - [EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska](https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/)
 * [2023-11-05, 09:09:20](https://news.ycombinator.com/item?id=38149506) - [Monsters of the Road: What Should the UK Do About SUVs?](https://www.theguardian.com/technology/2023/nov/05/monsters-of-the-road-what-should-the-uk-do-about-suvs)
 * [2023-11-05, 09:02:47](https://news.ycombinator.com/item?id=38149472) - [The next frontier in IP parasites: codec royalties on content](https://rocknerd.co.uk/2023/11/04/the-next-frontier-in-ip-parasites-codec-royalties-on-content/)
