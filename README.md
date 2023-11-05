@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-05, 18:41:48](https://news.ycombinator.com/item?id=38154161) - [Apple hunter Tom Brown finds and saves rare Apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
+* [2023-11-05, 19:04:34](https://news.ycombinator.com/item?id=38154431) - [Hundreds demonstrate against high rents in Zurich](https://www.swissinfo.ch/eng/business/hundreds-demonstrate-against-high-rents-in-zurich/48953360)
+* [2023-11-05, 18:41:48](https://news.ycombinator.com/item?id=38154161) - [Apple hunter Tom Brown finds and saves rare apple varieties](https://www.washingtonpost.com/lifestyle/2023/11/04/apple-hunter-tom-brown/)
 * [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website is hosted on ESP32 ($3 chip)](https://esp.khalsalabs.com)
 * [2023-11-05, 17:54:07](https://news.ycombinator.com/item?id=38153573) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:28:47](https://news.ycombinator.com/item?id=38153309) - [See the History of a Method with Git log -L](https://calebhearth.com/git-method-history)
@@ -16,7 +17,6 @@
 * [2023-11-05, 11:12:12](https://news.ycombinator.com/item?id=38150096) - [Email obfuscation rendered almost ineffective against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
 * [2023-11-05, 09:32:01](https://news.ycombinator.com/item?id=38149595) - [StackStorm – IFTTT for Ops](https://stackstorm.com/)
 * [2023-11-05, 08:49:20](https://news.ycombinator.com/item?id=38149422) - [Show HN: Hyphen – an elegant custom element base class with good ergonomics](https://github.com/00000o1/-)
-* [2023-11-05, 08:37:45](https://news.ycombinator.com/item?id=38149375) - [Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings](https://store.kde.org/p/1350981)
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1 (2004)](http://dunfield.classiccmp.org/kim1/index.htm)
 * [2023-11-05, 05:13:38](https://news.ycombinator.com/item?id=38148470) - [Kolmogorov Neural Networks can represent discontinuous functions](https://arxiv.org/abs/2311.00049)
 * [2023-11-04, 22:01:00](https://news.ycombinator.com/item?id=38145625) - [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
