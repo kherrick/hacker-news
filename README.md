@@ -29,7 +29,7 @@
 * [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-03, 08:18:46](https://news.ycombinator.com/item?id=38125885) - [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
 * [2023-11-02, 15:31:54](https://news.ycombinator.com/item?id=38114943) - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
-* [2023-11-02, 13:42:45](https://news.ycombinator.com/item?id=38113396) - [fdupes: Identify or Delete Duplicate Files](https://github.com/adrianlopezroche/fdupes)
+* [2023-11-02, 13:42:45](https://news.ycombinator.com/item?id=38113396) - [Fdupes: Identify or Delete Duplicate Files](https://github.com/adrianlopezroche/fdupes)
 
 ## [Archives](archives/index.md)
 
