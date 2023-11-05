@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-05, 14:01:44](https://news.ycombinator.com/item?id=38151178) - [Leaf blowers are a scourge. Why is it hard to get rid of them?](https://thehustle.co/leaf-blowers-are-a-scourge-why-is-it-hard-to-get-rid-of-them/)
 * [2023-11-05, 13:54:57](https://news.ycombinator.com/item?id=38151124) - [ReactOS Newsletter 103 – Late 2023 News](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-05, 13:34:31](https://news.ycombinator.com/item?id=38150987) - [UN chief warns Nepal's mountains have lost one-third of their ice](https://www.euronews.com/green/2023/10/30/stop-the-madness-un-chief-warns-nepals-mountains-have-lost-one-third-of-their-ice)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
@@ -23,7 +24,6 @@
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
 * [2023-11-04, 16:33:40](https://news.ycombinator.com/item?id=38142586) - [Mass producing the most expensive rice cooker [video]](https://www.youtube.com/watch?v=xLCwr8qG1p4)
 * [2023-11-04, 14:35:56](https://news.ycombinator.com/item?id=38141366) - [Othello Is Solved?](https://arxiv.org/abs/2310.19387)
-* [2023-11-03, 17:26:16](https://news.ycombinator.com/item?id=38132016) - [As I retire, my goal now is to release 40+ years of source code](https://dunfield.themindfactory.com/dnldsrc.htm)
 * [2023-11-03, 08:18:46](https://news.ycombinator.com/item?id=38125885) - [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
 * [2023-11-03, 03:16:46](https://news.ycombinator.com/item?id=38124022) - [A Proposal Fix for C/C++ Relaxed Atomics in Practice](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
 * [2023-11-03, 00:39:22](https://news.ycombinator.com/item?id=38122679) - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
