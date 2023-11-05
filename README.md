@@ -6,7 +6,6 @@
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: The Extraordinary \"Robots\" Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
-* [2023-11-05, 20:31:06](https://news.ycombinator.com/item?id=38155345) - [Test browser for web tracking – EFF](https://coveryourtracks.eff.org/)
 * [2023-11-05, 19:45:45](https://news.ycombinator.com/item?id=38154869) - [Developing AI models or giant GPU clusters? Uncle Sam would like a word](https://www.theregister.com/2023/11/05/biden_ai_reporting_thresholds/)
 * [2023-11-05, 19:30:16](https://news.ycombinator.com/item?id=38154702) - [Intel vs. NEC: The Case of the V20's Microcode](https://thechipletter.substack.com/p/intel-vs-nec-the-case-of-the-v20s)
 * [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website hosted on ESP32](https://esp.khalsalabs.com)
@@ -30,6 +29,7 @@
 * [2023-11-03, 08:50:09](https://news.ycombinator.com/item?id=38126084) - [New BeagleV Single Board Computer Adopts Microchip's PolarFire SoC with FPGA](https://linuxgizmos.com/new-beaglev-single-board-computer-adopts-microchips-polarfire-soc/)
 * [2023-11-03, 00:39:22](https://news.ycombinator.com/item?id=38122679) - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
+* [2023-11-02, 20:29:15](https://news.ycombinator.com/item?id=38119663) - [Olivetti Programma 101 (2010) [video]](https://www.youtube.com/watch?v=lpkqdbz1R_s)
 
 ## [Archives](archives/index.md)
 
