@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 13:00:22](https://news.ycombinator.com/item?id=38161997) - [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 * [2023-11-06, 12:51:03](https://news.ycombinator.com/item?id=38161889) - [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
 * [2023-11-06, 12:24:43](https://news.ycombinator.com/item?id=38161617) - [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
 * [2023-11-06, 12:23:32](https://news.ycombinator.com/item?id=38161603) - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
+* [2023-11-06, 12:21:25](https://news.ycombinator.com/item?id=38161584) - [Israel shot down a ballistic missile in space for the first time](https://www.telegraph.co.uk/world-news/2023/11/04/how-israel-shot-down-ballistic-missile-in-space-houthis/)
 * [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
 * [2023-11-06, 11:44:18](https://news.ycombinator.com/item?id=38161286) - [Was Atlantis a Minoan Civilization on Santorini Island?](https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/)
 * [2023-11-06, 11:39:08](https://news.ycombinator.com/item?id=38161249) - [Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
