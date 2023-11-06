@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 09:53:47](https://news.ycombinator.com/item?id=38160566) - [Adding Roman Numeral Literals to Python](https://peps.python.org/pep-0313/)
 * [2023-11-06, 09:40:30](https://news.ycombinator.com/item?id=38160485) - [Tesla to build 25,000-euro car at German plant](https://www.reuters.com/business/autos-transportation/tesla-build-25000-euro-car-german-plant-source-2023-11-06/)
 * [2023-11-06, 08:50:04](https://news.ycombinator.com/item?id=38160161) - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
 * [2023-11-06, 08:36:45](https://news.ycombinator.com/item?id=38160085) - [Scientists Are Researching a Device That Can Induce Lucid Dreams on Demand](https://www.vice.com/en/article/m7bxdx/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand)
@@ -25,7 +26,6 @@
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
 * [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
-* [2023-11-05, 03:53:41](https://news.ycombinator.com/item?id=38147981) - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
 * [2023-11-04, 19:38:51](https://news.ycombinator.com/item?id=38144400) - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
 * [2023-11-03, 08:50:09](https://news.ycombinator.com/item?id=38126084) - [New BeagleV single board computer adopts Microchip's PolarFire SoC with FPGA](https://linuxgizmos.com/new-beaglev-single-board-computer-adopts-microchips-polarfire-soc/)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
