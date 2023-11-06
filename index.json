@@ -21,31 +21,11 @@
   ],
   [
     [
-      "2023-11-06, 18:53:44",
-      "https://news.ycombinator.com/item?id=38167001"
-    ],
-    [
-      "Stop Saying Best Practice",
-      "https://www.wking.dev/library/stop-saying-best-practice"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 18:50:46",
-      "https://news.ycombinator.com/item?id=38166965"
-    ],
-    [
-      "OpenAI releases Whisper v3, new generation open source ASR model",
-      "https://github.com/openai/whisper"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 18:18:44",
       "https://news.ycombinator.com/item?id=38166431"
     ],
     [
-      "Introducing GPTs",
+      "GPTs: Custom versions of ChatGPT",
       "https://openai.com/blog/introducing-gpts"
     ]
   ],
@@ -57,16 +37,6 @@
     [
       "New models and developer products",
       "https://openai.com/blog/new-models-and-developer-products-announced-at-devday"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 18:16:28",
-      "https://news.ycombinator.com/item?id=38166392"
-    ],
-    [
-      "Show HN: Open Source Heroes – Explore the world of Open Source",
-      "https://opensource-heroes.com"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2023-11-06, 10:12:34",
+      "https://news.ycombinator.com/item?id=38160703"
+    ],
+    [
+      "FFmpeg is getting better with multithreaded transcoding pipelines",
+      "https://twitter.com/FFmpeg/status/1721275669336707152"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 09:35:19",
       "https://news.ycombinator.com/item?id=38160454"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2023-11-06, 08:35:16",
+      "https://news.ycombinator.com/item?id=38160079"
+    ],
+    [
+      "Ask HN: How do you start a research based company?",
+      "https://news.ycombinator.com/item?id=38160079"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 08:03:57",
       "https://news.ycombinator.com/item?id=38159927"
     ],
     [
       "01-AI/Yi: A series of large language models trained from scratch",
       "https://github.com/01-ai/Yi"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 03:03:23",
+      "https://news.ycombinator.com/item?id=38158309"
+    ],
+    [
+      "milliForth",
+      "https://github.com/fuzzballcat/milliForth"
     ]
   ],
   [
