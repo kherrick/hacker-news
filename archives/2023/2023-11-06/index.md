@@ -11,6 +11,7 @@
 * [2023-11-06, 13:48:28](https://news.ycombinator.com/item?id=38162514) - [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:41:30](https://news.ycombinator.com/item?id=38162435) - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
 * [2023-11-06, 13:36:46](https://news.ycombinator.com/item?id=38162380) - [Learn Transformer models with this simple video](https://www.youtube.com/watch?v=qaWMOYf4ri8)
+* [2023-11-06, 13:25:17](https://news.ycombinator.com/item?id=38162275) - [A new home and license (AGPL) for Synapse and friends](https://element.io/blog/element-to-adopt-agplv3/)
 * [2023-11-06, 13:00:22](https://news.ycombinator.com/item?id=38161997) - [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 * [2023-11-06, 12:51:03](https://news.ycombinator.com/item?id=38161889) - [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
 * [2023-11-06, 12:27:27](https://news.ycombinator.com/item?id=38161637) - [Noam Chomsky: The five filters of the mass media](https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/)
