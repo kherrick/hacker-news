@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 08:50:04](https://news.ycombinator.com/item?id=38160161) - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
 * [2023-11-06, 07:36:45](https://news.ycombinator.com/item?id=38159795) - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
 * [2023-11-06, 07:23:39](https://news.ycombinator.com/item?id=38159735) - [Developers Guide to Moving to Denmark](https://matduggan.com/developers-guide-to-moving-to-denmark/)
 * [2023-11-06, 03:37:39](https://news.ycombinator.com/item?id=38158554) - [Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
@@ -7,7 +8,6 @@
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 00:55:08](https://news.ycombinator.com/item?id=38157524) - [Show HN: LLaVaVision: An AI \"Be My Eyes\"-like web app with a llama.cpp backend](https://github.com/lxe/llavavision)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
-* [2023-11-06, 00:04:25](https://news.ycombinator.com/item?id=38157145) - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
 * [2023-11-05, 22:50:32](https://news.ycombinator.com/item?id=38156519) - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 * [2023-11-05, 22:48:02](https://news.ycombinator.com/item?id=38156486) - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)

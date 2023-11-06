@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 08:50:04](https://news.ycombinator.com/item?id=38160161) - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
 * [2023-11-06, 07:36:45](https://news.ycombinator.com/item?id=38159795) - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
 * [2023-11-06, 07:23:39](https://news.ycombinator.com/item?id=38159735) - [Developers Guide to Moving to Denmark](https://matduggan.com/developers-guide-to-moving-to-denmark/)
 * [2023-11-06, 04:47:15](https://news.ycombinator.com/item?id=38158952) - [Gaza experienced its third total communications blackout](https://thehill.com/policy/international/4294864-gaza-loses-telecom-contact-again/)
