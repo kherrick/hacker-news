@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
 * [2023-11-06, 21:48:46](https://news.ycombinator.com/item?id=38169504) - [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
+* [2023-11-06, 21:29:45](https://news.ycombinator.com/item?id=38169290) - [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
 * [2023-11-06, 21:25:48](https://news.ycombinator.com/item?id=38169237) - [OpenAI offers to pay for ChatGPT customers' copyright lawsuits](https://www.theguardian.com/technology/2023/nov/06/openai-chatgpt-customers-copyright-lawsuits)
 * [2023-11-06, 21:23:09](https://news.ycombinator.com/item?id=38169202) - [English Wikipedia drove out fringe editors over two decades](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research)
 * [2023-11-06, 21:07:23](https://news.ycombinator.com/item?id=38169021) - [Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/)
