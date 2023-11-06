@@ -14,6 +14,7 @@
 * [2023-11-05, 21:29:03](https://news.ycombinator.com/item?id=38155840) - [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 * [2023-11-05, 21:09:57](https://news.ycombinator.com/item?id=38155676) - [X is reportedly selling inactive usernames for $50k](https://www.pcmag.com/news/x-is-reportedly-selling-inactive-usernames-for-50000)
+* [2023-11-05, 21:02:28](https://news.ycombinator.com/item?id=38155613) - [The Original Birders Gave Photography a Run for Its Money](https://www.nytimes.com/2023/11/03/books/the-original-birders-gave-photography-a-run-for-its-money.html)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 * [2023-11-05, 20:53:58](https://news.ycombinator.com/item?id=38155541) - [Beej's Quick Guide to GDB (2009)](https://beej.us/guide/bggdb/)
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: The Extraordinary \"Robots\" Designed Hundreds of Years Ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
