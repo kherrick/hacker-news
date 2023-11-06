@@ -27,9 +27,9 @@
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
 * [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
+* [2023-11-03, 08:54:10](https://news.ycombinator.com/item?id=38126116) - [Open source is struggling and it's not big tech that is to blame](https://medium.com/@jankammerath/open-source-is-struggling-and-its-not-big-tech-that-is-to-blame-cfba964219f8)
 * [2023-11-03, 08:50:09](https://news.ycombinator.com/item?id=38126084) - [New BeagleV Single Board Computer Adopts Microchip's PolarFire SoC with FPGA](https://linuxgizmos.com/new-beaglev-single-board-computer-adopts-microchips-polarfire-soc/)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
-* [2023-11-02, 20:29:15](https://news.ycombinator.com/item?id=38119663) - [Olivetti Programma 101 (2010) [video]](https://www.youtube.com/watch?v=lpkqdbz1R_s)
 
 ## [Archives](archives/index.md)
 

@@ -98,6 +98,7 @@
 * [2023-11-03, 09:10:37](https://news.ycombinator.com/item?id=38126212) - [Sam Bankman-Fried and other FTX staff allegedly had 'Wirefraud' chat group](https://www.theguardian.com/business/2022/dec/13/sam-bankman-fried-ftx-signal-wirefraud-chat-alameda)
 * [2023-11-03, 09:10:33](https://news.ycombinator.com/item?id=38126210) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 08:59:38](https://news.ycombinator.com/item?id=38126150) - [Java JEP 461: Stream Gatherers](https://openjdk.org/jeps/461)
+* [2023-11-03, 08:54:10](https://news.ycombinator.com/item?id=38126116) - [Open source is struggling and it's not big tech that is to blame](https://medium.com/@jankammerath/open-source-is-struggling-and-its-not-big-tech-that-is-to-blame-cfba964219f8)
 * [2023-11-03, 08:50:32](https://news.ycombinator.com/item?id=38126088) - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)
 * [2023-11-03, 08:50:09](https://news.ycombinator.com/item?id=38126084) - [New BeagleV Single Board Computer Adopts Microchip's PolarFire SoC with FPGA](https://linuxgizmos.com/new-beaglev-single-board-computer-adopts-microchips-polarfire-soc/)
 * [2023-11-03, 08:46:44](https://news.ycombinator.com/item?id=38126063) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
