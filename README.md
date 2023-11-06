@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 18:22:50](https://news.ycombinator.com/item?id=38166502) - [We Thought Marriage Made Us Healthier, and Why We Were Wrong](https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646)
 * [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
-* [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products announced at OpenAI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+* [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+* [2023-11-06, 18:16:28](https://news.ycombinator.com/item?id=38166392) - [Show HN: Open Source Heroes – Explore the world of Open Source](https://opensource-heroes.com)
+* [2023-11-06, 17:58:53](https://news.ycombinator.com/item?id=38166098) - [UHZ1: NASA Telescopes Discover Record-Breaking Black Hole](https://chandra.si.edu/photo/2023/uhz1/)
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
-* [2023-11-06, 16:55:21](https://news.ycombinator.com/item?id=38165090) - [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
 * [2023-11-06, 16:42:00](https://news.ycombinator.com/item?id=38164886) - [XAI PromptIDE](https://x.ai/prompt-ide/)
 * [2023-11-06, 16:30:43](https://news.ycombinator.com/item?id=38164735) - [Apple developer boycott of Feedback Assistant](https://lapcatsoftware.com/articles/2023/11/2.html)
-* [2023-11-06, 16:29:50](https://news.ycombinator.com/item?id=38164727) - [Epic targets Google app store after losing to Apple](https://www.washingtonpost.com/technology/2023/11/06/epic-google-antitrust-trial-play-store/)
 * [2023-11-06, 15:51:59](https://news.ycombinator.com/item?id=38164189) - [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
 * [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
 * [2023-11-06, 15:42:23](https://news.ycombinator.com/item?id=38164046) - [Git rebase, what can go wrong](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
@@ -27,9 +28,8 @@
 * [2023-11-06, 08:35:16](https://news.ycombinator.com/item?id=38160079) - [Ask HN: How do you start a research based company?](https://news.ycombinator.com/item?id=38160079)
 * [2023-11-06, 08:03:57](https://news.ycombinator.com/item?id=38159927) - [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
-* [2023-11-05, 15:11:42](https://news.ycombinator.com/item?id=38151776) - [Scientists create artificial protein that can degrade microplastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)
+* [2023-11-05, 15:11:42](https://news.ycombinator.com/item?id=38151776) - [Scientists create artificial protein that can degrade PET plastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)
 * [2023-11-03, 08:44:51](https://news.ycombinator.com/item?id=38126052) - [A standalone zero-dependency Lisp for Linux](https://github.com/lone-lang/lone)
-* [2023-11-03, 08:04:08](https://news.ycombinator.com/item?id=38125799) - [Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
 
 ## [Archives](archives/index.md)
 

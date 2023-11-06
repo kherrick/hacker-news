@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 18:22:50](https://news.ycombinator.com/item?id=38166502) - [We Thought Marriage Made Us Healthier, and Why We Were Wrong](https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646)
 * [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products announced at OpenAI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+* [2023-11-06, 18:16:28](https://news.ycombinator.com/item?id=38166392) - [Show HN: Open Source Heroes – Explore the world of Open Source](https://opensource-heroes.com)
 * [2023-11-06, 17:59:55](https://news.ycombinator.com/item?id=38166112) - [Ask HN: Can you take more than 2 consecutive weeks of vacation?](https://news.ycombinator.com/item?id=38166112)
+* [2023-11-06, 17:58:53](https://news.ycombinator.com/item?id=38166098) - [UHZ1: NASA Telescopes Discover Record-Breaking Black Hole](https://chandra.si.edu/photo/2023/uhz1/)
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
 * [2023-11-06, 16:55:21](https://news.ycombinator.com/item?id=38165090) - [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
 * [2023-11-06, 16:42:00](https://news.ycombinator.com/item?id=38164886) - [XAI PromptIDE](https://x.ai/prompt-ide/)
