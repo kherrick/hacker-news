@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-06, 11:30:49](https://news.ycombinator.com/item?id=38161198) - [Google Pays $21B for Search Monopoly: How \"Free\" Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
+* [2023-11-06, 11:28:02](https://news.ycombinator.com/item?id=38161174) - [Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
+* [2023-11-06, 10:58:24](https://news.ycombinator.com/item?id=38161016) - [The First Stable Release of a Rust-Rewrite Sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 * [2023-11-06, 10:12:34](https://news.ycombinator.com/item?id=38160703) - [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
 * [2023-11-06, 09:53:47](https://news.ycombinator.com/item?id=38160566) - [Adding Roman Numeral Literals to Python (2003)](https://peps.python.org/pep-0313/)
 * [2023-11-06, 09:29:36](https://news.ycombinator.com/item?id=38160425) - [Wikipedia admin unmasks self as sockpuppet of other admin banned in 2015](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Arbitration_report)
@@ -26,10 +28,8 @@
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
 * [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
-* [2023-11-03, 08:50:09](https://news.ycombinator.com/item?id=38126084) - [New BeagleV single board computer adopts Microchip's PolarFire SoC with FPGA](https://linuxgizmos.com/new-beaglev-single-board-computer-adopts-microchips-polarfire-soc/)
 * [2023-11-03, 08:04:08](https://news.ycombinator.com/item?id=38125799) - [Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
-* [2023-11-02, 20:29:15](https://news.ycombinator.com/item?id=38119663) - [Olivetti Programma 101 (2010) [video]](https://www.youtube.com/watch?v=lpkqdbz1R_s)
 
 ## [Archives](archives/index.md)
 
