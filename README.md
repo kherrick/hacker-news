@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: TCP congestion control algorithm operates on a fixed rate model](https://github.com/apernet/tcp-brutal)
+* [2023-11-06, 16:15:32](https://news.ycombinator.com/item?id=38164523) - [It shouldn't matter if people work multiple jobs. -Former VP of HR at Microsoft](https://www.businessinsider.com/double-dipping-work-multiple-remote-jobs-is-okay-2023-11)
 * [2023-11-06, 15:51:59](https://news.ycombinator.com/item?id=38164189) - [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
 * [2023-11-06, 15:48:51](https://news.ycombinator.com/item?id=38164136) - [Impossible-Sounding Fallout 4 Speedrun Took over 2k Hours](https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651)
 * [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
@@ -22,14 +24,12 @@
 * [2023-11-06, 10:12:34](https://news.ycombinator.com/item?id=38160703) - [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
 * [2023-11-06, 09:22:50](https://news.ycombinator.com/item?id=38160382) - [Debian discusses vendoring again (2021)](https://lwn.net/Articles/842319/)
 * [2023-11-06, 08:03:57](https://news.ycombinator.com/item?id=38159927) - [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
-* [2023-11-06, 03:37:39](https://news.ycombinator.com/item?id=38158554) - [Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
 * [2023-11-06, 03:35:00](https://news.ycombinator.com/item?id=38158529) - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-05, 15:11:42](https://news.ycombinator.com/item?id=38151776) - [Scientists create artificial protein that can degrade microplastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)
 * [2023-11-05, 14:16:50](https://news.ycombinator.com/item?id=38151299) - [In the bad old days we had Punchcards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
 * [2023-11-03, 09:46:02](https://news.ycombinator.com/item?id=38126442) - [Out-braking the ABS Myth [video]](https://www.youtube.com/watch?v=sDbWZiaUeDY)
 * [2023-11-03, 08:44:51](https://news.ycombinator.com/item?id=38126052) - [A standalone zero-dependency Lisp for Linux](https://github.com/lone-lang/lone)
-* [2023-11-03, 08:04:08](https://news.ycombinator.com/item?id=38125799) - [Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
 
 ## [Archives](archives/index.md)
 

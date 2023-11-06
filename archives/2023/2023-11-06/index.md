@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: TCP congestion control algorithm operates on a fixed rate model](https://github.com/apernet/tcp-brutal)
+* [2023-11-06, 16:15:32](https://news.ycombinator.com/item?id=38164523) - [It shouldn't matter if people work multiple jobs. -Former VP of HR at Microsoft](https://www.businessinsider.com/double-dipping-work-multiple-remote-jobs-is-okay-2023-11)
 * [2023-11-06, 15:51:59](https://news.ycombinator.com/item?id=38164189) - [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
 * [2023-11-06, 15:48:51](https://news.ycombinator.com/item?id=38164136) - [Impossible-Sounding Fallout 4 Speedrun Took over 2k Hours](https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651)
 * [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
