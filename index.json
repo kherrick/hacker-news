@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-06, 22:11:12",
-      "https://news.ycombinator.com/item?id=38169800"
-    ],
-    [
-      "Israel downing Houthi missile is first instance of space warfare",
-      "https://www.jpost.com/israel-news/defense-news/article-771910"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 21:48:46",
       "https://news.ycombinator.com/item?id=38169504"
     ],
@@ -37,6 +27,16 @@
     [
       "English Wikipedia drove out fringe editors over two decades",
       "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 20:50:25",
+      "https://news.ycombinator.com/item?id=38168807"
+    ],
+    [
+      "QUIK is a method for quantizing LLM post-training weights to 4 bit precision",
+      "https://github.com/IST-DASLab/QUIK"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2023-11-06, 10:58:24",
-      "https://news.ycombinator.com/item?id=38161016"
-    ],
-    [
-      "The first stable release of a memory safe sudo implementation",
-      "https://www.memorysafety.org/blog/sudo-first-stable-release/"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 03:03:23",
       "https://news.ycombinator.com/item?id=38158309"
     ],
     [
       "milliForth",
       "https://github.com/fuzzballcat/milliForth"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 21:02:28",
+      "https://news.ycombinator.com/item?id=38155613"
+    ],
+    [
+      "The Original Birders Gave Photography a Run for Its Money",
+      "https://www.nytimes.com/2023/11/03/books/the-original-birders-gave-photography-a-run-for-its-money.html"
     ]
   ],
   [
