@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 22:58:44](https://news.ycombinator.com/item?id=38170388) - [U.S. net saving as a percentage of gross national income](https://fred.stlouisfed.org/series/W207RC1Q156SBEA)
 * [2023-11-06, 22:12:39](https://news.ycombinator.com/item?id=38169816) - [Happy 20th Birthday to Inkscape](https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804)
 * [2023-11-06, 22:11:12](https://news.ycombinator.com/item?id=38169800) - [Israel downing Houthi missile is first instance of space warfare](https://www.jpost.com/israel-news/defense-news/article-771910)
 * [2023-11-06, 22:01:55](https://news.ycombinator.com/item?id=38169665) - [OpenChat surpass ChatGPT and Grok on various benchmarks](https://github.com/imoneoi/openchat)
