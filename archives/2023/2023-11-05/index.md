@@ -77,6 +77,7 @@
 * [2023-11-05, 08:35:32](https://news.ycombinator.com/item?id=38149364) - [Startup idea: Zapier for consumer apps](https://news.ycombinator.com/item?id=38149364)
 * [2023-11-05, 08:19:07](https://news.ycombinator.com/item?id=38149303) - [Analyzing Tesla Network Traffic](https://www.youtube.com/watch?v=OdzCTEPkCvI)
 * [2023-11-05, 08:08:30](https://news.ycombinator.com/item?id=38149257) - [What Is Propaganda? (1944)](https://www.historians.org/about-aha-and-membership/aha-history-and-archives/gi-roundtable-series/pamphlets/em-2-what-is-propaganda-(1944))
+* [2023-11-05, 07:47:29](https://news.ycombinator.com/item?id=38149167) - [The double representation of Goddess Nemesis](https://www.rciusa.info/post/the-shrine-of-goddess-nemesis---the-history-of-romania-in-one-object)
 * [2023-11-05, 07:30:00](https://news.ycombinator.com/item?id=38149093) - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 * [2023-11-05, 07:01:09](https://news.ycombinator.com/item?id=38148992) - [SigNoz (YC W21), open source observability platform, hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-11-05, 06:41:23](https://news.ycombinator.com/item?id=38148892) - [Commodore/MOS KIM-1](http://dunfield.classiccmp.org/kim1/index.htm)

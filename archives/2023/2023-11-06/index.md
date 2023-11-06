@@ -7,6 +7,7 @@
 * [2023-11-06, 19:15:32](https://news.ycombinator.com/item?id=38167363) - [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
 * [2023-11-06, 19:11:51](https://news.ycombinator.com/item?id=38167310) - [Show HN: Open-source model and scorecard for measuring hallucinations in LLMs](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 * [2023-11-06, 18:53:44](https://news.ycombinator.com/item?id=38167001) - [Stop Saying Best Practice](https://www.wking.dev/library/stop-saying-best-practice)
+* [2023-11-06, 18:50:46](https://news.ycombinator.com/item?id=38166965) - [OpenAI releases Whisper v3, new generation open source ASR model](https://github.com/openai/whisper)
 * [2023-11-06, 18:22:50](https://news.ycombinator.com/item?id=38166502) - [We Thought Marriage Made Us Healthier, and Why We Were Wrong](https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646)
 * [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products announced at OpenAI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
