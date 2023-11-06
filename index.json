@@ -11,32 +11,22 @@
   ],
   [
     [
+      "2023-11-06, 21:29:45",
+      "https://news.ycombinator.com/item?id=38169290"
+    ],
+    [
+      "DAK and the Golden Age of Gadget Catalogs",
+      "https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 21:23:09",
       "https://news.ycombinator.com/item?id=38169202"
     ],
     [
       "English Wikipedia drove out fringe editors over two decades",
       "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 19:54:38",
-      "https://news.ycombinator.com/item?id=38167969"
-    ],
-    [
-      "Rising pay transparency causing an employer compensation information 'arms race'",
-      "https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 19:46:15",
-      "https://news.ycombinator.com/item?id=38167863"
-    ],
-    [
-      "The SBF case was easy",
-      "https://www.bloomberg.com/opinion/articles/2023-11-06/the-sbf-case-was-easy"
     ]
   ],
   [
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2023-11-06, 18:43:33",
-      "https://news.ycombinator.com/item?id=38166852"
-    ],
-    [
-      "Marijuana use linked with increased risk of heart attack, heart failure",
-      "https://newsroom.heart.org/news/marijuana-use-linked-with-increased-risk-of-heart-attack-heart-failure"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 18:18:44",
       "https://news.ycombinator.com/item?id=38166431"
     ],
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2023-11-06, 16:19:02",
+      "https://news.ycombinator.com/item?id=38164574"
+    ],
+    [
+      "TCP-brutal: Congestion control algorithm that increase speed on packet lost",
+      "https://github.com/apernet/tcp-brutal"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 15:47:58",
       "https://news.ycombinator.com/item?id=38164127"
     ],
@@ -161,22 +151,22 @@
   ],
   [
     [
-      "2023-11-06, 13:55:55",
-      "https://news.ycombinator.com/item?id=38162597"
-    ],
-    [
-      "Who's behind the SWAT USA reshipping service?",
-      "https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 13:54:16",
       "https://news.ycombinator.com/item?id=38162573"
     ],
     [
       "A linear algebra trick for computing Fibonacci numbers fast",
       "https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 13:25:17",
+      "https://news.ycombinator.com/item?id=38162275"
+    ],
+    [
+      "A new home and license (AGPL) for Synapse and friends",
+      "https://element.io/blog/element-to-adopt-agplv3/"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
+      "2023-11-06, 11:54:39",
+      "https://news.ycombinator.com/item?id=38161369"
+    ],
+    [
+      "Ask HN: What are you passionate about at the moment?",
+      "https://news.ycombinator.com/item?id=38161369"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 10:58:24",
       "https://news.ycombinator.com/item?id=38161016"
     ],
     [
       "The first stable release of a memory safe sudo implementation",
       "https://www.memorysafety.org/blog/sudo-first-stable-release/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 10:12:34",
-      "https://news.ycombinator.com/item?id=38160703"
-    ],
-    [
-      "FFmpeg is getting multithreaded transcoding pipelines",
-      "https://twitter.com/FFmpeg/status/1721275669336707152"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Scientists create artificial protein that can degrade PET plastics in bottles",
       "https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 14:16:50",
+      "https://news.ycombinator.com/item?id=38151299"
+    ],
+    [
+      "In the bad old days we had punchcards – how did people deal with that?",
+      "https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-11-03, 09:46:02",
+      "https://news.ycombinator.com/item?id=38126442"
+    ],
+    [
+      "Out-braking the ABS myth [video]",
+      "https://www.youtube.com/watch?v=sDbWZiaUeDY"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 08:44:51",
       "https://news.ycombinator.com/item?id=38126052"
     ],
     [
       "A standalone zero-dependency Lisp for Linux",
       "https://github.com/lone-lang/lone"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 08:04:08",
-      "https://news.ycombinator.com/item?id=38125799"
-    ],
-    [
-      "Volute Shaped Blower [video]",
-      "https://www.youtube.com/watch?v=Csb-AFD58ww"
     ]
   ]
 ]
