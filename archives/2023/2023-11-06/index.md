@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 19:54:38](https://news.ycombinator.com/item?id=38167969) - [Rising pay transparency causing an employer compensation information 'arms race'](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
 * [2023-11-06, 19:15:32](https://news.ycombinator.com/item?id=38167363) - [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
 * [2023-11-06, 19:11:51](https://news.ycombinator.com/item?id=38167310) - [Show HN: Open-source model and scorecard for measuring hallucinations in LLMs](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 * [2023-11-06, 18:53:44](https://news.ycombinator.com/item?id=38167001) - [Stop Saying Best Practice](https://www.wking.dev/library/stop-saying-best-practice)
