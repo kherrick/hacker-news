@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products announced at OpenAI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 17:59:55](https://news.ycombinator.com/item?id=38166112) - [Ask HN: Can you take more than 2 consecutive weeks of vacation?](https://news.ycombinator.com/item?id=38166112)
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)

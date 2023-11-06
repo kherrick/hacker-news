@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products announced at OpenAI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
 * [2023-11-06, 16:55:21](https://news.ycombinator.com/item?id=38165090) - [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
 * [2023-11-06, 16:42:00](https://news.ycombinator.com/item?id=38164886) - [XAI PromptIDE](https://x.ai/prompt-ide/)
 * [2023-11-06, 16:30:43](https://news.ycombinator.com/item?id=38164735) - [Apple developer boycott of Feedback Assistant](https://lapcatsoftware.com/articles/2023/11/2.html)
 * [2023-11-06, 16:29:50](https://news.ycombinator.com/item?id=38164727) - [Epic targets Google app store after losing to Apple](https://www.washingtonpost.com/technology/2023/11/06/epic-google-antitrust-trial-play-store/)
-* [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
 * [2023-11-06, 15:51:59](https://news.ycombinator.com/item?id=38164189) - [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
 * [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
 * [2023-11-06, 15:42:23](https://news.ycombinator.com/item?id=38164046) - [Git rebase, what can go wrong](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
