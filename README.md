@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-06, 14:31:56](https://news.ycombinator.com/item?id=38163067) - [Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
+* [2023-11-06, 14:57:23](https://news.ycombinator.com/item?id=38163452) - [California wants to end Cupertino's tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple)
+* [2023-11-06, 14:31:56](https://news.ycombinator.com/item?id=38163067) - [Why the binding arbitration game is rigged against customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
 * [2023-11-06, 14:23:19](https://news.ycombinator.com/item?id=38162951) - [Berkshire Hathaway posts a 40% jump in operating earnings, cash pile of $157B](https://www.cnbc.com/2023/11/04/berkshire-hathaway-brk-earnings-q3-2023.html)
 * [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [USB-C cable with the bandwidth and USB type imprinted on the connector](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
 * [2023-11-06, 14:05:26](https://news.ycombinator.com/item?id=38162708) - [Oceans are hugely complex: modelling marine microbes is key to climate forecasts](https://www.nature.com/articles/d41586-023-03425-4)
@@ -25,9 +26,8 @@
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 00:55:08](https://news.ycombinator.com/item?id=38157524) - [Show HN: LLaVaVision: An AI \"Be My Eyes\"-like web app with a llama.cpp backend](https://github.com/lxe/llavavision)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
-* [2023-11-05, 20:29:08](https://news.ycombinator.com/item?id=38155324) - [Drunk grizzlies keep getting hit by trains in Montana](https://cowboystatedaily.com/2023/11/04/63-grizzlies-some-drunk-on-fermented-grain-killed-by-trains-in-montana/)
 * [2023-11-05, 15:11:42](https://news.ycombinator.com/item?id=38151776) - [Scientists create artificial protein that can degrade microplastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)
-* [2023-11-05, 10:26:35](https://news.ycombinator.com/item?id=38149861) - [Probe network – how we make sure our data is accurate](https://ipinfo.io/blog/probe-network-how-we-make-sure-our-data-is-accurate/)
+* [2023-11-03, 09:46:02](https://news.ycombinator.com/item?id=38126442) - [Out-braking the ABS Myth [video]](https://www.youtube.com/watch?v=sDbWZiaUeDY)
 * [2023-11-03, 08:44:51](https://news.ycombinator.com/item?id=38126052) - [A standalone zero-dependency Lisp for Linux](https://github.com/lone-lang/lone)
 * [2023-11-03, 08:04:08](https://news.ycombinator.com/item?id=38125799) - [Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
 
