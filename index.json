@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=38164574"
     ],
     [
-      "TCP-brutal: TCP congestion control algorithm operates on a fixed rate model",
+      "TCP-brutal: Congestion control algorithm that increase speed on packet lost",
       "https://github.com/apernet/tcp-brutal"
     ]
   ],
@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2023-11-06, 16:05:28",
+      "https://news.ycombinator.com/item?id=38164374"
+    ],
+    [
+      "A Zoomer explains her generation's malaise to older generations",
+      "https://jonathanhaidt.substack.com/p/where-are-your-kids-schlott"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 15:51:59",
       "https://news.ycombinator.com/item?id=38164189"
     ],
     [
       "DuckDB performance improvements with the latest release",
       "https://duckdb.org/2023/11/03/db-benchmark-update.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 15:48:51",
-      "https://news.ycombinator.com/item?id=38164136"
-    ],
-    [
-      "Impossible-Sounding Fallout 4 Speedrun Took over 2k Hours",
-      "https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Cicada – A FOSS, Cross-Platform Version of GitHub Actions and Gitlab CI",
       "https://github.com/Cicada-Software/cicada"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 14:57:23",
-      "https://news.ycombinator.com/item?id=38163452"
-    ],
-    [
-      "California wants to end Cupertino's tax deal with Apple",
-      "https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A standalone zero-dependency Lisp for Linux",
       "https://github.com/lone-lang/lone"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 08:04:08",
+      "https://news.ycombinator.com/item?id=38125799"
+    ],
+    [
+      "Volute Shaped Blower [video]",
+      "https://www.youtube.com/watch?v=Csb-AFD58ww"
     ]
   ]
 ]
