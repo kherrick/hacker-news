@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-06, 22:12:39](https://news.ycombinator.com/item?id=38169816) - [Happy 20th Birthday to Inkscape](https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804)
-* [2023-11-06, 22:11:12](https://news.ycombinator.com/item?id=38169800) - [Israel downing Houthi missile is first instance of space warfare](https://www.jpost.com/israel-news/defense-news/article-771910)
+* [2023-11-06, 22:01:55](https://news.ycombinator.com/item?id=38169665) - [OpenChat surpass ChatGPT and Grok on various benchmarks](https://github.com/imoneoi/openchat)
 * [2023-11-06, 21:48:46](https://news.ycombinator.com/item?id=38169504) - [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
 * [2023-11-06, 21:29:45](https://news.ycombinator.com/item?id=38169290) - [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
 * [2023-11-06, 21:23:09](https://news.ycombinator.com/item?id=38169202) - [English Wikipedia drove out fringe editors over two decades](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research)
@@ -21,7 +21,7 @@
 * [2023-11-06, 13:02:58](https://news.ycombinator.com/item?id=38162028) - [Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)](https://users.monash.edu/~damian/papers/HTML/Perligata.html)
 * [2023-11-06, 12:24:43](https://news.ycombinator.com/item?id=38161617) - [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
 * [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
-* [2023-11-06, 11:54:39](https://news.ycombinator.com/item?id=38161369) - [Ask HN: What are you passionate about at the moment?](https://news.ycombinator.com/item?id=38161369)
+* [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-05, 21:02:28](https://news.ycombinator.com/item?id=38155613) - [The Original Birders Gave Photography a Run for Its Money](https://www.nytimes.com/2023/11/03/books/the-original-birders-gave-photography-a-run-for-its-money.html)
 * [2023-11-05, 15:11:42](https://news.ycombinator.com/item?id=38151776) - [Scientists create artificial protein that can degrade PET plastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)
 * [2023-11-05, 14:16:50](https://news.ycombinator.com/item?id=38151299) - [In the bad old days we had punchcards – how did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
