@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-11-06, 21:25:48",
-      "https://news.ycombinator.com/item?id=38169237"
+      "2023-11-06, 21:48:46",
+      "https://news.ycombinator.com/item?id=38169504"
     ],
     [
-      "OpenAI offers to pay for ChatGPT customers' copyright lawsuits",
-      "https://www.theguardian.com/technology/2023/nov/06/openai-chatgpt-customers-copyright-lawsuits"
+      "Bored Ape conference attendees wake up with eye pain, vision loss",
+      "https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/"
     ]
   ],
   [
@@ -17,36 +17,6 @@
     [
       "English Wikipedia drove out fringe editors over two decades",
       "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 21:07:23",
-      "https://news.ycombinator.com/item?id=38169021"
-    ],
-    [
-      "Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible",
-      "https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 21:05:56",
-      "https://news.ycombinator.com/item?id=38169005"
-    ],
-    [
-      "Why is \"pineapple\" in English \"ananas\" in other languages? (2013)",
-      "https://english.stackexchange.com/questions/134659/why-is-pineapple-in-english-but-ananas-in-all-other-languages"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 19:55:45",
-      "https://news.ycombinator.com/item?id=38167988"
-    ],
-    [
-      "Ariane 6 cost and delays bring European launch industry to a breaking point",
-      "https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/"
     ]
   ],
   [
@@ -95,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38167373"
     ],
     [
-      "Nvidia L40S Is the Nvidia H100 AI Alternative with a Big Benefit",
+      "Nvidia L40S is a Nvidia H100 AI alternative",
       "https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/"
     ]
   ],
@@ -107,6 +77,16 @@
     [
       "Show HN: Inshellisense – IDE style shell autocomplete",
       "https://github.com/microsoft/inshellisense"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 18:43:33",
+      "https://news.ycombinator.com/item?id=38166852"
+    ],
+    [
+      "Marijuana use linked with increased risk of heart attack, heart failure",
+      "https://newsroom.heart.org/news/marijuana-use-linked-with-increased-risk-of-heart-attack-heart-failure"
     ]
   ],
   [
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2023-11-06, 13:55:55",
+      "https://news.ycombinator.com/item?id=38162597"
+    ],
+    [
+      "Who's behind the SWAT USA reshipping service?",
+      "https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 13:54:16",
       "https://news.ycombinator.com/item?id=38162573"
     ],
     [
       "A linear algebra trick for computing Fibonacci numbers fast",
       "https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 13:02:58",
+      "https://news.ycombinator.com/item?id=38162028"
+    ],
+    [
+      "Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)",
+      "https://users.monash.edu/~damian/papers/HTML/Perligata.html"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "FFmpeg is getting multithreaded transcoding pipelines",
       "https://twitter.com/FFmpeg/status/1721275669336707152"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 08:35:16",
-      "https://news.ycombinator.com/item?id=38160079"
-    ],
-    [
-      "Ask HN: How do you start a research based company?",
-      "https://news.ycombinator.com/item?id=38160079"
     ]
   ],
   [
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38138065"
     ],
     [
-      "What it takes to fan-translate a video game",
+      "What it takes to fan-translate a video game (2022) [video]",
       "https://www.youtube.com/watch?v=0tUxVSms4Q4"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "A standalone zero-dependency Lisp for Linux",
       "https://github.com/lone-lang/lone"
+    ]
+  ],
+  [
+    [
+      "2023-11-03, 08:04:08",
+      "https://news.ycombinator.com/item?id=38125799"
+    ],
+    [
+      "Volute Shaped Blower [video]",
+      "https://www.youtube.com/watch?v=Csb-AFD58ww"
     ]
   ]
 ]
