@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-06, 12:04:44",
+      "https://news.ycombinator.com/item?id=38161452"
+    ],
+    [
+      "Show HN: Ladder, open source alternative to 12ft.io and 1ft.io",
+      "https://github.com/kubero-dev/ladder"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 11:44:18",
+      "https://news.ycombinator.com/item?id=38161286"
+    ],
+    [
+      "Was Atlantis a Minoan Civilization on Santorini Island?",
+      "https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 11:39:08",
+      "https://news.ycombinator.com/item?id=38161249"
+    ],
+    [
+      "Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]",
+      "https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 11:30:49",
       "https://news.ycombinator.com/item?id=38161198"
     ],
@@ -77,16 +107,6 @@
     [
       "Firefox Development Is Moving from Mercurial to Git",
       "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 08:36:45",
-      "https://news.ycombinator.com/item?id=38160085"
-    ],
-    [
-      "Scientists Are Researching a Device That Can Induce Lucid Dreams on Demand",
-      "https://www.vice.com/en/article/m7bxdx/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-11-05, 13:10:43",
-      "https://news.ycombinator.com/item?id=38150833"
-    ],
-    [
-      "Building a high performance JSON parser",
-      "https://dave.cheney.net/paste/gophercon-sg-2023.html"
-    ]
-  ],
-  [
-    [
       "2023-11-05, 12:35:59",
       "https://news.ycombinator.com/item?id=38150606"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2023-11-05, 10:23:15",
-      "https://news.ycombinator.com/item?id=38149839"
+      "2023-11-05, 10:26:35",
+      "https://news.ycombinator.com/item?id=38149861"
     ],
     [
-      "Cortextual",
-      "https://cortextual.net/"
+      "Probe network – how we make sure our data is accurate",
+      "https://ipinfo.io/blog/probe-network-how-we-make-sure-our-data-is-accurate/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Immanuel Kant – What can we know?",
       "https://ralphammer.com/immanuel-kant-what-can-we-know/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 20:29:15",
-      "https://news.ycombinator.com/item?id=38119663"
-    ],
-    [
-      "Olivetti Programma 101 (2010) [video]",
-      "https://www.youtube.com/watch?v=lpkqdbz1R_s"
     ]
   ]
 ]
