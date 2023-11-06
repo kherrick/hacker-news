@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-11-06, 18:22:50",
-      "https://news.ycombinator.com/item?id=38166502"
+      "2023-11-06, 19:15:32",
+      "https://news.ycombinator.com/item?id=38167363"
     ],
     [
-      "We Thought Marriage Made Us Healthier, and Why We Were Wrong",
-      "https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646"
+      "Show HN: Inshellisense – IDE style shell autocomplete",
+      "https://github.com/microsoft/inshellisense"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 19:11:51",
+      "https://news.ycombinator.com/item?id=38167310"
+    ],
+    [
+      "Show HN: Open-source model and scorecard for measuring hallucinations in LLMs",
+      "https://vectara.com/measuring-hallucinations-in-rag-systems/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 18:53:44",
+      "https://news.ycombinator.com/item?id=38167001"
+    ],
+    [
+      "Stop Saying Best Practice",
+      "https://www.wking.dev/library/stop-saying-best-practice"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-11-06, 14:15:15",
-      "https://news.ycombinator.com/item?id=38162837"
-    ],
-    [
-      "USB-C cable with the bandwidth and USB type imprinted on the connector",
-      "https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 13:55:55",
       "https://news.ycombinator.com/item?id=38162597"
     ],
@@ -227,16 +237,6 @@
     [
       "The first stable release of a memory safe sudo implementation",
       "https://www.memorysafety.org/blog/sudo-first-stable-release/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 10:12:34",
-      "https://news.ycombinator.com/item?id=38160703"
-    ],
-    [
-      "FFmpeg is getting better with multithreaded transcoding pipelines",
-      "https://twitter.com/FFmpeg/status/1721275669336707152"
     ]
   ],
   [
