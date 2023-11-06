@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 21:07:23](https://news.ycombinator.com/item?id=38169021) - [Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/)
 * [2023-11-06, 21:05:56](https://news.ycombinator.com/item?id=38169005) - [Pineapple is called \"ananas\" in almost every language that is not English](https://english.stackexchange.com/questions/134659/why-is-pineapple-in-english-but-ananas-in-all-other-languages)
 * [2023-11-06, 19:55:45](https://news.ycombinator.com/item?id=38167988) - [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
 * [2023-11-06, 19:54:38](https://news.ycombinator.com/item?id=38167969) - [Rising pay transparency causing an employer compensation information 'arms race'](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
@@ -16,7 +17,6 @@
 * [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
 * [2023-11-06, 15:42:23](https://news.ycombinator.com/item?id=38164046) - [Git rebase, what can go wrong](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 * [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – A FOSS, Cross-Platform Version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
-* [2023-11-06, 13:55:55](https://news.ycombinator.com/item?id=38162597) - [Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
 * [2023-11-06, 13:54:16](https://news.ycombinator.com/item?id=38162573) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 13:00:22](https://news.ycombinator.com/item?id=38161997) - [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 * [2023-11-06, 12:24:43](https://news.ycombinator.com/item?id=38161617) - [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)

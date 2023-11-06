@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 21:07:23](https://news.ycombinator.com/item?id=38169021) - [Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/)
 * [2023-11-06, 21:05:56](https://news.ycombinator.com/item?id=38169005) - [Pineapple is called \"ananas\" in almost every language that is not English](https://english.stackexchange.com/questions/134659/why-is-pineapple-in-english-but-ananas-in-all-other-languages)
 * [2023-11-06, 19:55:45](https://news.ycombinator.com/item?id=38167988) - [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
 * [2023-11-06, 19:54:38](https://news.ycombinator.com/item?id=38167969) - [Rising pay transparency causing an employer compensation information 'arms race'](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
