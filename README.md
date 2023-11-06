@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-06, 10:12:34](https://news.ycombinator.com/item?id=38160703) - [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
-* [2023-11-06, 09:53:47](https://news.ycombinator.com/item?id=38160566) - [Adding Roman Numeral Literals to Python](https://peps.python.org/pep-0313/)
+* [2023-11-06, 09:53:47](https://news.ycombinator.com/item?id=38160566) - [Adding Roman Numeral Literals to Python (2003)](https://peps.python.org/pep-0313/)
 * [2023-11-06, 09:29:36](https://news.ycombinator.com/item?id=38160425) - [Wikipedia admin unmasks self as sockpuppet of other admin banned in 2015](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Arbitration_report)
 * [2023-11-06, 09:22:50](https://news.ycombinator.com/item?id=38160382) - [Debian Discusses Vendoring yet Again](https://lwn.net/Articles/842319/)
 * [2023-11-06, 08:50:04](https://news.ycombinator.com/item?id=38160161) - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
