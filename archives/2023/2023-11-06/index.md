@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [We need more USB-C cables with bandwidth and USB versions on them](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
+* [2023-11-06, 14:09:00](https://news.ycombinator.com/item?id=38162755) - [Gen Z wants to retire early. They're off to a good start](https://www.businessinsider.com/gen-z-most-financially-savvy-generation-retirement-saving-investing-2023-11)
+* [2023-11-06, 13:55:55](https://news.ycombinator.com/item?id=38162597) - [Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
 * [2023-11-06, 13:48:28](https://news.ycombinator.com/item?id=38162514) - [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:41:30](https://news.ycombinator.com/item?id=38162435) - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
 * [2023-11-06, 13:36:46](https://news.ycombinator.com/item?id=38162380) - [Learn Transformer models with this simple video](https://www.youtube.com/watch?v=qaWMOYf4ri8)
@@ -16,6 +19,7 @@
 * [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
 * [2023-11-06, 11:54:39](https://news.ycombinator.com/item?id=38161369) - [Ask HN: Comment here about whatever you're passionate about at the moment](https://news.ycombinator.com/item?id=38161369)
 * [2023-11-06, 11:44:18](https://news.ycombinator.com/item?id=38161286) - [Was Atlantis a Minoan Civilization on Santorini Island?](https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/)
+* [2023-11-06, 11:43:07](https://news.ycombinator.com/item?id=38161271) - [Scientists deeply concerned with upcoming EU digital identity regulations](https://nce.mpi-sp.org/index.php/s/cG88cptFdaDNyRr)
 * [2023-11-06, 11:39:08](https://news.ycombinator.com/item?id=38161249) - [Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
 * [2023-11-06, 11:33:20](https://news.ycombinator.com/item?id=38161215) - [FPGA Dev Boards for $150 or Less](https://www.fpgajobs.com/blog/fpga-boards-under-150-dollars/)
 * [2023-11-06, 11:30:49](https://news.ycombinator.com/item?id=38161198) - [Google Pays $21B for Search Monopoly: How \"Free\" Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
