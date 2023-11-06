@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-06, 01:05:31](https://news.ycombinator.com/item?id=38157593) - [AI fake nudes are booming. It's ruining real teens' lives](https://www.washingtonpost.com/technology/2023/11/05/ai-deepfake-porn-teens-women-impact/)
+* [2023-11-06, 03:20:14](https://news.ycombinator.com/item?id=38158436) - [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
 * [2023-11-06, 00:04:25](https://news.ycombinator.com/item?id=38157145) - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
