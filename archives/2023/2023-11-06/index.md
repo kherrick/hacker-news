@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 13:48:28](https://news.ycombinator.com/item?id=38162514) - [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:41:30](https://news.ycombinator.com/item?id=38162435) - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
 * [2023-11-06, 13:36:46](https://news.ycombinator.com/item?id=38162380) - [Learn Transformer models with this simple video](https://www.youtube.com/watch?v=qaWMOYf4ri8)
 * [2023-11-06, 13:00:22](https://news.ycombinator.com/item?id=38161997) - [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 * [2023-11-06, 12:51:03](https://news.ycombinator.com/item?id=38161889) - [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
+* [2023-11-06, 12:27:27](https://news.ycombinator.com/item?id=38161637) - [Noam Chomsky: The five filters of the mass media](https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/)
 * [2023-11-06, 12:24:43](https://news.ycombinator.com/item?id=38161617) - [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
 * [2023-11-06, 12:23:32](https://news.ycombinator.com/item?id=38161603) - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
 * [2023-11-06, 12:21:25](https://news.ycombinator.com/item?id=38161584) - [Israel shot down a ballistic missile in space for the first time](https://www.telegraph.co.uk/world-news/2023/11/04/how-israel-shot-down-ballistic-missile-in-space-houthis/)
