@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 03:43:48](https://news.ycombinator.com/item?id=38158604) - [Who falls for fake news? Psychological and clinical profiling evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/)
 * [2023-11-06, 03:20:14](https://news.ycombinator.com/item?id=38158436) - [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
 * [2023-11-06, 00:04:25](https://news.ycombinator.com/item?id=38157145) - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
@@ -13,7 +14,6 @@
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: \"Robots\" designed hundreds of years ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 * [2023-11-05, 20:29:08](https://news.ycombinator.com/item?id=38155324) - [Drunk Grizzlies Keep Getting Hit by Trains in Montana](https://cowboystatedaily.com/2023/11/04/63-grizzlies-some-drunk-on-fermented-grain-killed-by-trains-in-montana/)
 * [2023-11-05, 19:30:16](https://news.ycombinator.com/item?id=38154702) - [Intel vs. NEC: The Case of the V20's Microcode](https://thechipletter.substack.com/p/intel-vs-nec-the-case-of-the-v20s)
-* [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website hosted on ESP32](https://esp.khalsalabs.com)
 * [2023-11-05, 17:55:12](https://news.ycombinator.com/item?id=38153585) - [W3C Community Group Draft Report – WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 * [2023-11-05, 17:54:07](https://news.ycombinator.com/item?id=38153573) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:30:00](https://news.ycombinator.com/item?id=38153318) - [What is Glamorous Toolkit v1.0?](https://lepiter.io/feenk/what-exactly-is-glamorous-toolkit-v1-0--7sex44dze2dqlocqxwfz8ju0i/)
