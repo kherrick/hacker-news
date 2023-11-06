@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-06, 12:23:32",
-      "https://news.ycombinator.com/item?id=38161603"
+      "2023-11-06, 12:51:03",
+      "https://news.ycombinator.com/item?id=38161889"
     ],
     [
-      "Where the Hell Is X CEO Linda Yaccarino?",
-      "https://www.wired.com/story/linda-yaccarino-elon-musk-x/"
+      "Dating apps lose their luster with college students",
+      "https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 12:24:43",
+      "https://news.ycombinator.com/item?id=38161617"
+    ],
+    [
+      "My 1976 KIM-1",
+      "https://blog.jgc.org/2023/11/my-1976-kim-1.html"
     ]
   ],
   [
@@ -35,8 +45,18 @@
       "https://news.ycombinator.com/item?id=38161249"
     ],
     [
-      "Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]",
+      "How Rust can facilitate new contributors while decreasing vulnerabilities [pdf]",
       "https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 11:33:20",
+      "https://news.ycombinator.com/item?id=38161215"
+    ],
+    [
+      "FPGA Dev Boards for $150 or Less",
+      "https://www.fpgajobs.com/blog/fpga-boards-under-150-dollars/"
     ]
   ],
   [
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2023-11-06, 08:50:04",
-      "https://news.ycombinator.com/item?id=38160161"
-    ],
-    [
-      "Firefox Development Is Moving from Mercurial to Git",
-      "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 08:03:57",
       "https://news.ycombinator.com/item?id=38159927"
     ],
     [
       "01-AI/Yi: A series of large language models trained from scratch",
       "https://github.com/01-ai/Yi"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 07:36:45",
-      "https://news.ycombinator.com/item?id=38159795"
-    ],
-    [
-      "On Letting Go of Spite",
-      "https://ewanvalentine.io/blog/on-letting-go-of-spite"
     ]
   ],
   [
