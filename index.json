@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-06, 22:58:44",
+      "https://news.ycombinator.com/item?id=38170388"
+    ],
+    [
+      "U.S. net saving as a percentage of gross national income",
+      "https://fred.stlouisfed.org/series/W207RC1Q156SBEA"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 22:12:39",
       "https://news.ycombinator.com/item?id=38169816"
     ],
@@ -127,16 +137,6 @@
     [
       "TCP-brutal: Congestion control algorithm that increase speed on packet lost",
       "https://github.com/apernet/tcp-brutal"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 15:42:23",
-      "https://news.ycombinator.com/item?id=38164046"
-    ],
-    [
-      "Git rebase, what can go wrong",
-      "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/"
     ]
   ],
   [
