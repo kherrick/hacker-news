@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 15:51:59](https://news.ycombinator.com/item?id=38164189) - [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
+* [2023-11-06, 15:48:51](https://news.ycombinator.com/item?id=38164136) - [Impossible-Sounding Fallout 4 Speedrun Took over 2k Hours](https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651)
+* [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
+* [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – A FOSS, Cross-Platform Version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
 * [2023-11-06, 14:57:23](https://news.ycombinator.com/item?id=38163452) - [California wants to end Cupertino's tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple)
 * [2023-11-06, 14:31:56](https://news.ycombinator.com/item?id=38163067) - [Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
 * [2023-11-06, 14:23:19](https://news.ycombinator.com/item?id=38162951) - [Berkshire Hathaway posts a 40% jump in operating earnings, cash pile of $157B](https://www.cnbc.com/2023/11/04/berkshire-hathaway-brk-earnings-q3-2023.html)
