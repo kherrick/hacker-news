@@ -2,8 +2,8 @@
 
 * [2023-11-06, 03:43:48](https://news.ycombinator.com/item?id=38158604) - [Who falls for fake news? Psychological and clinical profiling evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/)
 * [2023-11-06, 03:20:14](https://news.ycombinator.com/item?id=38158436) - [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
+* [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
-* [2023-11-06, 00:04:25](https://news.ycombinator.com/item?id=38157145) - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
 * [2023-11-05, 22:50:32](https://news.ycombinator.com/item?id=38156519) - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 * [2023-11-05, 22:48:02](https://news.ycombinator.com/item?id=38156486) - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
