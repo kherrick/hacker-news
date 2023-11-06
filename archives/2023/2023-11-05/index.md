@@ -40,6 +40,7 @@
 * [2023-11-05, 16:13:10](https://news.ycombinator.com/item?id=38152380) - [Munich train departures CLI app written in Rust](https://github.com/FaisalBinAhmed/MVGFahrinfo)
 * [2023-11-05, 16:01:07](https://news.ycombinator.com/item?id=38152272) - [Teflon is still toxic to birds](https://www.teflon.com/en/consumers/teflon-coatings-cookware-bakeware/safety/bird-safety)
 * [2023-11-05, 15:44:23](https://news.ycombinator.com/item?id=38152109) - [Show HN: Sshx, a web-based collaborative terminal](https://github.com/ekzhang/sshx)
+* [2023-11-05, 15:11:42](https://news.ycombinator.com/item?id=38151776) - [Scientists create artificial protein that can degrade microplastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)
 * [2023-11-05, 14:33:34](https://news.ycombinator.com/item?id=38151453) - [Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
 * [2023-11-05, 14:15:29](https://news.ycombinator.com/item?id=38151286) - [I like gentoo's package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 14:05:21](https://news.ycombinator.com/item?id=38151205) - [Berlin's famed nightclubs, losing customers, face an uncertain future](https://www.npr.org/2023/11/03/1209865472/berlin-clubs-tourism-nightlife-germany-economy)
