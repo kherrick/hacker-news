@@ -57,6 +57,7 @@
 * [2023-11-05, 11:29:19](https://news.ycombinator.com/item?id=38150187) - [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
 * [2023-11-05, 11:12:58](https://news.ycombinator.com/item?id=38150101) - [IMSI-Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/)
 * [2023-11-05, 11:12:12](https://news.ycombinator.com/item?id=38150096) - [Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
+* [2023-11-05, 10:26:35](https://news.ycombinator.com/item?id=38149861) - [Probe network – how we make sure our data is accurate](https://ipinfo.io/blog/probe-network-how-we-make-sure-our-data-is-accurate/)
 * [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
 * [2023-11-05, 09:57:14](https://news.ycombinator.com/item?id=38149712) - [Six-hour time-restricted feeding inhibits lung cancer progression](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y)
 * [2023-11-05, 09:42:28](https://news.ycombinator.com/item?id=38149644) - [You think you secured your Hetzner account with 2FA? Think again](https://old.reddit.com/r/hetzner/comments/17ntxhg/you_think_you_secured_your_hetzner_account_with/)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
+* [2023-11-06, 11:44:18](https://news.ycombinator.com/item?id=38161286) - [Was Atlantis a Minoan Civilization on Santorini Island?](https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/)
+* [2023-11-06, 11:39:08](https://news.ycombinator.com/item?id=38161249) - [Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
 * [2023-11-06, 11:30:49](https://news.ycombinator.com/item?id=38161198) - [Google Pays $21B for Search Monopoly: How \"Free\" Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
 * [2023-11-06, 11:28:02](https://news.ycombinator.com/item?id=38161174) - [Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
 * [2023-11-06, 10:58:24](https://news.ycombinator.com/item?id=38161016) - [The First Stable Release of a Rust-Rewrite Sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)

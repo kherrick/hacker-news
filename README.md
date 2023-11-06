@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
+* [2023-11-06, 11:44:18](https://news.ycombinator.com/item?id=38161286) - [Was Atlantis a Minoan Civilization on Santorini Island?](https://greekreporter.com/2023/10/29/atlantis-minoan-civilisation-santorini/)
+* [2023-11-06, 11:39:08](https://news.ycombinator.com/item?id=38161249) - [Rust newcomers are 70x less likely to create vulnerabilities than C++ newcomers [pdf]](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
 * [2023-11-06, 11:30:49](https://news.ycombinator.com/item?id=38161198) - [Google Pays $21B for Search Monopoly: How \"Free\" Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
 * [2023-11-06, 11:28:02](https://news.ycombinator.com/item?id=38161174) - [Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
 * [2023-11-06, 10:58:24](https://news.ycombinator.com/item?id=38161016) - [The First Stable Release of a Rust-Rewrite Sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
@@ -8,7 +11,6 @@
 * [2023-11-06, 09:29:36](https://news.ycombinator.com/item?id=38160425) - [Wikipedia admin unmasks self as sockpuppet of other admin banned in 2015](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Arbitration_report)
 * [2023-11-06, 09:22:50](https://news.ycombinator.com/item?id=38160382) - [Debian Discusses Vendoring yet Again](https://lwn.net/Articles/842319/)
 * [2023-11-06, 08:50:04](https://news.ycombinator.com/item?id=38160161) - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
-* [2023-11-06, 08:36:45](https://news.ycombinator.com/item?id=38160085) - [Scientists Are Researching a Device That Can Induce Lucid Dreams on Demand](https://www.vice.com/en/article/m7bxdx/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand)
 * [2023-11-06, 08:03:57](https://news.ycombinator.com/item?id=38159927) - [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
 * [2023-11-06, 07:36:45](https://news.ycombinator.com/item?id=38159795) - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
 * [2023-11-06, 03:37:39](https://news.ycombinator.com/item?id=38158554) - [Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
@@ -24,12 +26,10 @@
 * [2023-11-05, 20:53:58](https://news.ycombinator.com/item?id=38155541) - [Beej's Quick Guide to GDB (2009)](https://beej.us/guide/bggdb/)
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: \"Robots\" designed hundreds of years ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 * [2023-11-05, 20:29:08](https://news.ycombinator.com/item?id=38155324) - [Drunk grizzlies keep getting hit by trains in Montana](https://cowboystatedaily.com/2023/11/04/63-grizzlies-some-drunk-on-fermented-grain-killed-by-trains-in-montana/)
-* [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
-* [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
+* [2023-11-05, 10:26:35](https://news.ycombinator.com/item?id=38149861) - [Probe network – how we make sure our data is accurate](https://ipinfo.io/blog/probe-network-how-we-make-sure-our-data-is-accurate/)
 * [2023-11-03, 08:04:08](https://news.ycombinator.com/item?id=38125799) - [Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
-* [2023-11-02, 20:29:15](https://news.ycombinator.com/item?id=38119663) - [Olivetti Programma 101 (2010) [video]](https://www.youtube.com/watch?v=lpkqdbz1R_s)
 
 ## [Archives](archives/index.md)
 
