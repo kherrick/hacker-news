@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [We need more USB-C cables with bandwidth and USB versions on them](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
+* [2023-11-06, 14:31:56](https://news.ycombinator.com/item?id=38163067) - [Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
+* [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [USB-C cable with the bandwidth and USB type imprinted on the connector](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
 * [2023-11-06, 14:09:00](https://news.ycombinator.com/item?id=38162755) - [Gen Z wants to retire early. They're off to a good start](https://www.businessinsider.com/gen-z-most-financially-savvy-generation-retirement-saving-investing-2023-11)
 * [2023-11-06, 13:55:55](https://news.ycombinator.com/item?id=38162597) - [Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
 * [2023-11-06, 13:48:28](https://news.ycombinator.com/item?id=38162514) - [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
@@ -17,8 +18,7 @@
 * [2023-11-06, 11:28:02](https://news.ycombinator.com/item?id=38161174) - [Passive SSH Key Compromise via Lattices [pdf]](https://eprint.iacr.org/2023/1711.pdf)
 * [2023-11-06, 10:58:24](https://news.ycombinator.com/item?id=38161016) - [The first stable release of a memory safe sudo implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 * [2023-11-06, 10:12:34](https://news.ycombinator.com/item?id=38160703) - [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
-* [2023-11-06, 09:53:47](https://news.ycombinator.com/item?id=38160566) - [Adding Roman Numeral Literals to Python (2003)](https://peps.python.org/pep-0313/)
-* [2023-11-06, 09:22:50](https://news.ycombinator.com/item?id=38160382) - [Debian Discusses Vendoring yet Again](https://lwn.net/Articles/842319/)
+* [2023-11-06, 09:22:50](https://news.ycombinator.com/item?id=38160382) - [Debian discusses vendoring again (2021)](https://lwn.net/Articles/842319/)
 * [2023-11-06, 08:03:57](https://news.ycombinator.com/item?id=38159927) - [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
 * [2023-11-06, 03:37:39](https://news.ycombinator.com/item?id=38158554) - [Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
 * [2023-11-06, 03:35:00](https://news.ycombinator.com/item?id=38158529) - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
