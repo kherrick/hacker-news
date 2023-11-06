@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 11:30:49](https://news.ycombinator.com/item?id=38161198) - [Google Pays $21B for Search Monopoly: How \"Free\" Tech Markets Repress](https://tutanota.com/blog/google-search-monopoly)
 * [2023-11-06, 10:12:34](https://news.ycombinator.com/item?id=38160703) - [FFmpeg is getting better with multithreaded transcoding pipelines](https://twitter.com/FFmpeg/status/1721275669336707152)
 * [2023-11-06, 09:53:47](https://news.ycombinator.com/item?id=38160566) - [Adding Roman Numeral Literals to Python](https://peps.python.org/pep-0313/)
 * [2023-11-06, 09:40:30](https://news.ycombinator.com/item?id=38160485) - [Tesla to build 25,000-euro car at German plant](https://www.reuters.com/business/autos-transportation/tesla-build-25000-euro-car-german-plant-source-2023-11-06/)
