@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-06, 04:47:15](https://news.ycombinator.com/item?id=38158952) - [Gaza experienced its third total communications blackout](https://thehill.com/policy/international/4294864-gaza-loses-telecom-contact-again/)
 * [2023-11-06, 03:35:00](https://news.ycombinator.com/item?id=38158529) - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
+* [2023-11-06, 03:20:14](https://news.ycombinator.com/item?id=38158436) - [Transmiting Power from Star to Star with Gravitational Lensing](https://www.universetoday.com/163994/civilizations-could-use-gravitational-lenses-to-transmit-power-from-star-to-star/)
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
 * [2023-11-05, 22:50:32](https://news.ycombinator.com/item?id=38156519) - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
