@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-11-06, 14:31:56",
+      "https://news.ycombinator.com/item?id=38163067"
+    ],
+    [
+      "Why the Binding Arbitration Game Is Rigged Against Customers (2019)",
+      "https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 14:15:15",
       "https://news.ycombinator.com/item?id=38162837"
     ],
     [
-      "We need more USB-C cables with bandwidth and USB versions on them",
+      "USB-C cable with the bandwidth and USB type imprinted on the connector",
       "https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato"
     ]
   ],
@@ -171,21 +181,11 @@
   ],
   [
     [
-      "2023-11-06, 09:53:47",
-      "https://news.ycombinator.com/item?id=38160566"
-    ],
-    [
-      "Adding Roman Numeral Literals to Python (2003)",
-      "https://peps.python.org/pep-0313/"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 09:22:50",
       "https://news.ycombinator.com/item?id=38160382"
     ],
     [
-      "Debian Discusses Vendoring yet Again",
+      "Debian discusses vendoring again (2021)",
       "https://lwn.net/Articles/842319/"
     ]
   ],
