@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-11-06, 19:55:45",
+      "https://news.ycombinator.com/item?id=38167988"
+    ],
+    [
+      "Ariane 6 cost and delays bring European launch industry to a breaking point",
+      "https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 19:54:38",
       "https://news.ycombinator.com/item?id=38167969"
     ],
     [
       "Rising pay transparency causing an employer compensation information 'arms race'",
       "https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 19:31:05",
+      "https://news.ycombinator.com/item?id=38167604"
+    ],
+    [
+      "Parkinson's patient able to walk 6km without problems after spinal implant",
+      "https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 19:16:19",
+      "https://news.ycombinator.com/item?id=38167373"
+    ],
+    [
+      "Nvidia L40S Is the Nvidia H100 AI Alternative with a Big Benefit",
+      "https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Show HN: Open-source model and scorecard for measuring hallucinations in LLMs",
       "https://vectara.com/measuring-hallucinations-in-rag-systems/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 18:27:01",
+      "https://news.ycombinator.com/item?id=38166585"
+    ],
+    [
+      "Being sold through the CeraVe Amazon store doesn't mean it's genuine",
+      "https://old.reddit.com/r/SkincareAddiction/comments/17ot0pl/psa_being_sold_through_the_cerave_amazon_store/"
     ]
   ],
   [
@@ -67,26 +107,6 @@
     [
       "Giga ML (YC S23) Is Hiring",
       "https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 16:42:00",
-      "https://news.ycombinator.com/item?id=38164886"
-    ],
-    [
-      "XAI PromptIDE",
-      "https://x.ai/prompt-ide/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 15:51:59",
-      "https://news.ycombinator.com/item?id=38164189"
-    ],
-    [
-      "DuckDB performance improvements with the latest release",
-      "https://duckdb.org/2023/11/03/db-benchmark-update.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-11-06, 11:33:20",
-      "https://news.ycombinator.com/item?id=38161215"
-    ],
-    [
-      "FPGA Dev Boards for $150 or Less",
-      "https://www.fpgajobs.com/blog/fpga-boards-under-150-dollars/"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 10:58:24",
       "https://news.ycombinator.com/item?id=38161016"
     ],
@@ -287,16 +297,6 @@
     [
       "A standalone zero-dependency Lisp for Linux",
       "https://github.com/lone-lang/lone"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 08:04:08",
-      "https://news.ycombinator.com/item?id=38125799"
-    ],
-    [
-      "Volute Shaped Blower [video]",
-      "https://www.youtube.com/watch?v=Csb-AFD58ww"
     ]
   ]
 ]
