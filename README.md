@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 03:37:39](https://news.ycombinator.com/item?id=38158554) - [Kai Fu Lee's New AI Company: Yi-Open Source](https://www.01.ai/en)
 * [2023-11-06, 03:35:00](https://news.ycombinator.com/item?id=38158529) - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
+* [2023-11-06, 00:55:08](https://news.ycombinator.com/item?id=38157524) - [Show HN: LLaVaVision: An AI \"Be My Eyes\"-like web app with a llama.cpp backend](https://github.com/lxe/llavavision)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
 * [2023-11-05, 22:50:32](https://news.ycombinator.com/item?id=38156519) - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
@@ -21,8 +23,6 @@
 * [2023-11-05, 16:24:35](https://news.ycombinator.com/item?id=38152534) - [Dengue rates plunged after release of lab-altered mosquitoes](https://www.dw.com/en/dengue-rates-plummeted-in-colombia-after-lab-infected-mosquito-release/a-67268943)
 * [2023-11-05, 16:19:59](https://news.ycombinator.com/item?id=38152475) - [Montreal’s new rapid transit line saved millions per mile](https://www.bloomberg.com/news/articles/2023-10-30/how-montreal-s-new-rapid-transit-line-saved-millions-per-mile)
 * [2023-11-05, 15:44:23](https://news.ycombinator.com/item?id=38152109) - [Show HN: Sshx, a web-based collaborative terminal](https://github.com/ekzhang/sshx)
-* [2023-11-05, 14:33:34](https://news.ycombinator.com/item?id=38151453) - [Can solar and wind power Britain? An update of David MacKay's numbers](https://www.sustainabilitybynumbers.com/p/can-solar-and-wind-power-britain)
-* [2023-11-05, 14:15:29](https://news.ycombinator.com/item?id=38151286) - [I like gentoo's package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 14:05:21](https://news.ycombinator.com/item?id=38151205) - [Berlin's famed nightclubs, losing customers, face an uncertain future](https://www.npr.org/2023/11/03/1209865472/berlin-clubs-tourism-nightlife-germany-economy)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
