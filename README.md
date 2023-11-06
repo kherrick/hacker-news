@@ -8,7 +8,7 @@
 * [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
 * [2023-11-06, 15:51:59](https://news.ycombinator.com/item?id=38164189) - [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
 * [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
-* [2023-11-06, 15:42:23](https://news.ycombinator.com/item?id=38164046) - [Julia Evans: Git rebase, what can go wrong](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
+* [2023-11-06, 15:42:23](https://news.ycombinator.com/item?id=38164046) - [Git rebase, what can go wrong](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 * [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – A FOSS, Cross-Platform Version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
 * [2023-11-06, 14:54:14](https://news.ycombinator.com/item?id=38163412) - [Regarding Proposed US Restrictions on RISC-V](https://www.bunniestudios.com/blog/?p=6862)
 * [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [USB-C cable with the bandwidth and USB type imprinted on the connector](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
