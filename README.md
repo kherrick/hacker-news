@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-05, 23:07:33](https://news.ycombinator.com/item?id=38156678) - [The Army Suddenly Told Hundreds Soldiers They Have to Be Recruiters Immediately](https://www.military.com/daily-news/2023/11/01/army-suddenly-and-chaotically-told-hundreds-of-soldiers-they-have-be-recruiters-immediately.html)
+* [2023-11-06, 01:29:21](https://news.ycombinator.com/item?id=38157742) - [Crypto Twitter Found SBF's Fraud](https://balajis.com/p/crypto-twitter-found-sbfs-fraud)
+* [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
+* [2023-11-06, 00:04:25](https://news.ycombinator.com/item?id=38157145) - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
+* [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
 * [2023-11-05, 22:48:02](https://news.ycombinator.com/item?id=38156486) - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
@@ -23,11 +26,8 @@
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
 * [2023-11-05, 10:23:15](https://news.ycombinator.com/item?id=38149839) - [Cortextual](https://cortextual.net/)
 * [2023-11-05, 03:53:41](https://news.ycombinator.com/item?id=38147981) - [The world nearly adopted a calendar with 13 months of 28 days](https://www.washingtonpost.com/history/2023/11/04/battle-sabbath-13-month-calendar/)
-* [2023-11-04, 22:01:00](https://news.ycombinator.com/item?id=38145625) - [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 * [2023-11-03, 08:50:09](https://news.ycombinator.com/item?id=38126084) - [New BeagleV Single Board Computer Adopts Microchip's PolarFire SoC with FPGA](https://linuxgizmos.com/new-beaglev-single-board-computer-adopts-microchips-polarfire-soc/)
-* [2023-11-03, 08:34:56](https://news.ycombinator.com/item?id=38125988) - [Why is the plural form of \"house\" not \"hice\"? (2016)](https://english.stackexchange.com/questions/338736/why-is-the-plural-form-of-house-not-hice)
 * [2023-11-03, 06:51:15](https://news.ycombinator.com/item?id=38125352) - [Trusted third parties are security holes (2005)](http://web.archive.org/web/20160309161628/http://szabo.best.vwh.net/ttps.html)
-* [2023-11-03, 00:39:22](https://news.ycombinator.com/item?id=38122679) - [A new F# compiler feature: graph-based type-checking](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/)
 * [2023-11-02, 22:56:41](https://news.ycombinator.com/item?id=38121566) - [Immanuel Kant – What can we know?](https://ralphammer.com/immanuel-kant-what-can-we-know/)
 * [2023-11-02, 20:29:15](https://news.ycombinator.com/item?id=38119663) - [Olivetti Programma 101 (2010) [video]](https://www.youtube.com/watch?v=lpkqdbz1R_s)
 
