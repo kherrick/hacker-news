@@ -2,7 +2,6 @@
 
 * [2023-11-06, 03:35:00](https://news.ycombinator.com/item?id=38158529) - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
-* [2023-11-06, 00:55:08](https://news.ycombinator.com/item?id=38157524) - [Show HN: LLaVaVision: An AI \"Be My Eyes\"-like web app with a llama.cpp backend](https://github.com/lxe/llavavision)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle](https://github.com/theori-io/nrsc5)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
 * [2023-11-05, 22:50:32](https://news.ycombinator.com/item?id=38156519) - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
@@ -14,6 +13,7 @@
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: \"Robots\" designed hundreds of years ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
 * [2023-11-05, 20:29:08](https://news.ycombinator.com/item?id=38155324) - [Drunk grizzlies keep getting hit by trains in Montana](https://cowboystatedaily.com/2023/11/04/63-grizzlies-some-drunk-on-fermented-grain-killed-by-trains-in-montana/)
 * [2023-11-05, 19:30:16](https://news.ycombinator.com/item?id=38154702) - [Intel vs. NEC: The Case of the V20's Microcode](https://thechipletter.substack.com/p/intel-vs-nec-the-case-of-the-v20s)
+* [2023-11-05, 18:31:24](https://news.ycombinator.com/item?id=38154045) - [Website hosted on ESP32](https://esp.khalsalabs.com)
 * [2023-11-05, 17:55:12](https://news.ycombinator.com/item?id=38153585) - [W3C Community Group Draft Report – WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 * [2023-11-05, 17:54:07](https://news.ycombinator.com/item?id=38153573) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:30:00](https://news.ycombinator.com/item?id=38153318) - [What is Glamorous Toolkit v1.0?](https://lepiter.io/feenk/what-exactly-is-glamorous-toolkit-v1-0--7sex44dze2dqlocqxwfz8ju0i/)
