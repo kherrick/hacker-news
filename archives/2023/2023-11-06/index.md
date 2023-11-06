@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 21:48:46](https://news.ycombinator.com/item?id=38169504) - [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
 * [2023-11-06, 21:25:48](https://news.ycombinator.com/item?id=38169237) - [OpenAI offers to pay for ChatGPT customers' copyright lawsuits](https://www.theguardian.com/technology/2023/nov/06/openai-chatgpt-customers-copyright-lawsuits)
 * [2023-11-06, 21:23:09](https://news.ycombinator.com/item?id=38169202) - [English Wikipedia drove out fringe editors over two decades](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research)
 * [2023-11-06, 21:07:23](https://news.ycombinator.com/item?id=38169021) - [Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/)
@@ -18,6 +19,7 @@
 * [2023-11-06, 19:11:51](https://news.ycombinator.com/item?id=38167310) - [Show HN: Open-source model and scorecard for measuring hallucinations in LLMs](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 * [2023-11-06, 18:53:44](https://news.ycombinator.com/item?id=38167001) - [Stop Saying Best Practice](https://www.wking.dev/library/stop-saying-best-practice)
 * [2023-11-06, 18:50:46](https://news.ycombinator.com/item?id=38166965) - [OpenAI releases Whisper v3, new generation open source ASR model](https://github.com/openai/whisper)
+* [2023-11-06, 18:43:33](https://news.ycombinator.com/item?id=38166852) - [Marijuana use linked with increased risk of heart attack, heart failure](https://newsroom.heart.org/news/marijuana-use-linked-with-increased-risk-of-heart-attack-heart-failure)
 * [2023-11-06, 18:27:01](https://news.ycombinator.com/item?id=38166585) - [Being sold through the CeraVe Amazon store doesn't mean it's genuine](https://old.reddit.com/r/SkincareAddiction/comments/17ot0pl/psa_being_sold_through_the_cerave_amazon_store/)
 * [2023-11-06, 18:22:50](https://news.ycombinator.com/item?id=38166502) - [We Thought Marriage Made Us Healthier, and Why We Were Wrong](https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646)
 * [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
@@ -51,6 +53,7 @@
 * [2023-11-06, 13:41:30](https://news.ycombinator.com/item?id=38162435) - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
 * [2023-11-06, 13:36:46](https://news.ycombinator.com/item?id=38162380) - [Learn Transformer models with this simple video](https://www.youtube.com/watch?v=qaWMOYf4ri8)
 * [2023-11-06, 13:25:17](https://news.ycombinator.com/item?id=38162275) - [A new home and license (AGPL) for Synapse and friends](https://element.io/blog/element-to-adopt-agplv3/)
+* [2023-11-06, 13:02:58](https://news.ycombinator.com/item?id=38162028) - [Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)](https://users.monash.edu/~damian/papers/HTML/Perligata.html)
 * [2023-11-06, 13:00:22](https://news.ycombinator.com/item?id=38161997) - [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 * [2023-11-06, 12:51:03](https://news.ycombinator.com/item?id=38161889) - [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
 * [2023-11-06, 12:27:27](https://news.ycombinator.com/item?id=38161637) - [Noam Chomsky: The five filters of the mass media](https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/)
