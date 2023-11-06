@@ -105,6 +105,7 @@
 * [2023-11-03, 08:46:30](https://news.ycombinator.com/item?id=38126060) - [Go TUI library Charm raises $6M in funding](https://charm.sh/blog/the-next-generation/)
 * [2023-11-03, 08:34:56](https://news.ycombinator.com/item?id=38125988) - [Why is the plural form of \"house\" not \"hice\"? (2016)](https://english.stackexchange.com/questions/338736/why-is-the-plural-form-of-house-not-hice)
 * [2023-11-03, 08:18:46](https://news.ycombinator.com/item?id=38125885) - [PCIe vs. CXL for Memory and Storage](https://www.synopsys.com/designware-ip/technical-bulletin/cxl2-3-storage-memory-applications.html)
+* [2023-11-03, 08:04:08](https://news.ycombinator.com/item?id=38125799) - [Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
 * [2023-11-03, 07:59:50](https://news.ycombinator.com/item?id=38125771) - [M3 Macs: there's more to performance than counting cores](https://eclecticlight.co/2023/11/03/m3-macs-theres-more-to-performance-than-counting-cores/)
 * [2023-11-03, 07:04:17](https://news.ycombinator.com/item?id=38125426) - [Tiny device is sending updated iPhones into a never-ending DoS loop](https://arstechnica.com/security/2023/11/flipper-zero-gadget-that-doses-iphones-takes-once-esoteric-attacks-mainstream/)
 * [2023-11-03, 06:55:22](https://news.ycombinator.com/item?id=38125379) - [Enable MTE on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
