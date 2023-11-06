@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-06, 01:29:21](https://news.ycombinator.com/item?id=38157742) - [Crypto Twitter Found SBF's Fraud](https://balajis.com/p/crypto-twitter-found-sbfs-fraud)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
 * [2023-11-06, 00:04:25](https://news.ycombinator.com/item?id=38157145) - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
+* [2023-11-05, 22:50:32](https://news.ycombinator.com/item?id=38156519) - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 * [2023-11-05, 22:48:02](https://news.ycombinator.com/item?id=38156486) - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)

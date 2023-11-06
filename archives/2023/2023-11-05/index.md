@@ -6,6 +6,7 @@
 
 * [2023-11-05, 23:07:33](https://news.ycombinator.com/item?id=38156678) - [The Army Suddenly Told Hundreds Soldiers They Have to Be Recruiters Immediately](https://www.military.com/daily-news/2023/11/01/army-suddenly-and-chaotically-told-hundreds-of-soldiers-they-have-be-recruiters-immediately.html)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
+* [2023-11-05, 22:50:32](https://news.ycombinator.com/item?id=38156519) - [Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript](https://github.com/joeycumines/ts-chan)
 * [2023-11-05, 22:48:02](https://news.ycombinator.com/item?id=38156486) - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-05, 22:47:29](https://news.ycombinator.com/item?id=38156481) - [Silicon Valley is piling in to the business of snooping](https://www.economist.com/business/2023/11/05/silicon-valley-is-piling-in-to-the-business-of-snooping)
 * [2023-11-05, 21:42:52](https://news.ycombinator.com/item?id=38155948) - [PayPal to offer crypto services in UK; Taiwan to make Bitcoin legal Tender](https://www.tekedia.com/paypal-to-offer-crypto-services-in-uk-taiwan-to-make-bitcoin-legal-tender/)
