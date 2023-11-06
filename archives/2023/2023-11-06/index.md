@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 22:12:39](https://news.ycombinator.com/item?id=38169816) - [Happy 20th Birthday to Inkscape](https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804)
 * [2023-11-06, 22:11:12](https://news.ycombinator.com/item?id=38169800) - [Israel downing Houthi missile is first instance of space warfare](https://www.jpost.com/israel-news/defense-news/article-771910)
 * [2023-11-06, 21:48:46](https://news.ycombinator.com/item?id=38169504) - [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
 * [2023-11-06, 21:29:45](https://news.ycombinator.com/item?id=38169290) - [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
