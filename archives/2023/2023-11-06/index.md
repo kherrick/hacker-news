@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
 * [2023-11-06, 14:31:56](https://news.ycombinator.com/item?id=38163067) - [Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
+* [2023-11-06, 14:23:19](https://news.ycombinator.com/item?id=38162951) - [Berkshire Hathaway posts a 40% jump in operating earnings, cash pile of $157B](https://www.cnbc.com/2023/11/04/berkshire-hathaway-brk-earnings-q3-2023.html)
 * [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [We need more USB-C cables with bandwidth and USB versions on them](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
 * [2023-11-06, 14:09:00](https://news.ycombinator.com/item?id=38162755) - [Gen Z wants to retire early. They're off to a good start](https://www.businessinsider.com/gen-z-most-financially-savvy-generation-retirement-saving-investing-2023-11)
+* [2023-11-06, 14:05:26](https://news.ycombinator.com/item?id=38162708) - [Oceans are hugely complex: modelling marine microbes is key to climate forecasts](https://www.nature.com/articles/d41586-023-03425-4)
 * [2023-11-06, 13:55:55](https://news.ycombinator.com/item?id=38162597) - [Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
 * [2023-11-06, 13:48:28](https://news.ycombinator.com/item?id=38162514) - [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:41:30](https://news.ycombinator.com/item?id=38162435) - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
