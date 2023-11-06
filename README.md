@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 01:05:31](https://news.ycombinator.com/item?id=38157593) - [AI fake nudes are booming. It's ruining real teens' lives](https://www.washingtonpost.com/technology/2023/11/05/ai-deepfake-porn-teens-women-impact/)
 * [2023-11-06, 00:47:48](https://news.ycombinator.com/item?id=38157466) - [Listen to HD radio with a $30 RTL SDR dongle](https://github.com/theori-io/nrsc5)
 * [2023-11-06, 00:04:25](https://news.ycombinator.com/item?id=38157145) - [Show HN: Jeeves – A Pythonic Alternative to GNU Make](https://jeeves.sh)
 * [2023-11-05, 23:03:28](https://news.ycombinator.com/item?id=38156639) - [18.S097 Applied Category Theory: Textbook (2019)](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
@@ -7,7 +8,6 @@
 * [2023-11-05, 22:48:02](https://news.ycombinator.com/item?id=38156486) - [Intel 80386, a Revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-05, 21:53:21](https://news.ycombinator.com/item?id=38156030) - [A brain injury removed my ability to perceive time](https://www.salon.com/2023/11/05/a-brain-injury-removed-my-ability-to-perceive-time-heres-what-its-like-in-a-world-without-it/)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
-* [2023-11-05, 21:09:57](https://news.ycombinator.com/item?id=38155676) - [X is reportedly selling inactive usernames for $50k](https://www.pcmag.com/news/x-is-reportedly-selling-inactive-usernames-for-50000)
 * [2023-11-05, 20:54:33](https://news.ycombinator.com/item?id=38155544) - [Show HN: WireHub – easily create and share WireGuard networks](https://www.wirehub.org/)
 * [2023-11-05, 20:53:58](https://news.ycombinator.com/item?id=38155541) - [Beej's Quick Guide to GDB (2009)](https://beej.us/guide/bggdb/)
 * [2023-11-05, 20:51:28](https://news.ycombinator.com/item?id=38155528) - [Automata: \"Robots\" designed hundreds of years ago [video]](https://www.youtube.com/watch?v=6Nt7xLAfEPs)
