@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-06, 22:11:12](https://news.ycombinator.com/item?id=38169800) - [Israel downing Houthi missile is first instance of space warfare](https://www.jpost.com/israel-news/defense-news/article-771910)
 * [2023-11-06, 21:48:46](https://news.ycombinator.com/item?id=38169504) - [Bored Ape conference attendees wake up with eye pain, vision loss](https://www.404media.co/bored-ape-yacht-club-conference-eye-pain-vision-loss-yuga-labs/)
 * [2023-11-06, 21:29:45](https://news.ycombinator.com/item?id=38169290) - [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
 * [2023-11-06, 21:23:09](https://news.ycombinator.com/item?id=38169202) - [English Wikipedia drove out fringe editors over two decades](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research)
@@ -12,7 +13,6 @@
 * [2023-11-06, 17:58:53](https://news.ycombinator.com/item?id=38166098) - [UHZ1: NASA telescopes discover record-breaking black hole](https://chandra.si.edu/photo/2023/uhz1/)
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
 * [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
-* [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
 * [2023-11-06, 15:42:23](https://news.ycombinator.com/item?id=38164046) - [Git rebase, what can go wrong](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 * [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
 * [2023-11-06, 13:54:16](https://news.ycombinator.com/item?id=38162573) - [A linear algebra trick for computing Fibonacci numbers fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
