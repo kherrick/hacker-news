@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-11-06, 11:28:02",
+      "https://news.ycombinator.com/item?id=38161174"
+    ],
+    [
+      "Passive SSH Key Compromise via Lattices [pdf]",
+      "https://eprint.iacr.org/2023/1711.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 10:58:24",
+      "https://news.ycombinator.com/item?id=38161016"
+    ],
+    [
+      "The First Stable Release of a Rust-Rewrite Sudo Implementation",
+      "https://www.memorysafety.org/blog/sudo-first-stable-release/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 10:12:34",
       "https://news.ycombinator.com/item?id=38160703"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-11-03, 08:50:09",
-      "https://news.ycombinator.com/item?id=38126084"
-    ],
-    [
-      "New BeagleV single board computer adopts Microchip's PolarFire SoC with FPGA",
-      "https://linuxgizmos.com/new-beaglev-single-board-computer-adopts-microchips-polarfire-soc/"
-    ]
-  ],
-  [
-    [
       "2023-11-03, 08:04:08",
       "https://news.ycombinator.com/item?id=38125799"
     ],
@@ -287,16 +297,6 @@
     [
       "Immanuel Kant – What can we know?",
       "https://ralphammer.com/immanuel-kant-what-can-we-know/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 20:29:15",
-      "https://news.ycombinator.com/item?id=38119663"
-    ],
-    [
-      "Olivetti Programma 101 (2010) [video]",
-      "https://www.youtube.com/watch?v=lpkqdbz1R_s"
     ]
   ]
 ]
