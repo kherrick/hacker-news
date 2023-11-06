@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-06, 01:29:21",
-      "https://news.ycombinator.com/item?id=38157742"
-    ],
-    [
-      "Crypto Twitter Found SBF's Fraud",
-      "https://balajis.com/p/crypto-twitter-found-sbfs-fraud"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 00:47:48",
       "https://news.ycombinator.com/item?id=38157466"
     ],
@@ -37,6 +27,16 @@
     [
       "18.S097 Applied Category Theory: Textbook (2019)",
       "https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 22:50:32",
+      "https://news.ycombinator.com/item?id=38156519"
+    ],
+    [
+      "Show HN: Ts-Chan – Go-Like Concurrency Primitives for TypeScript/JavaScript",
+      "https://github.com/joeycumines/ts-chan"
     ]
   ],
   [
