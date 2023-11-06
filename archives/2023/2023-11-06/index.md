@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
+* [2023-11-06, 16:55:21](https://news.ycombinator.com/item?id=38165090) - [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
 * [2023-11-06, 16:42:00](https://news.ycombinator.com/item?id=38164886) - [XAI PromptIDE](https://x.ai/prompt-ide/)
 * [2023-11-06, 16:30:43](https://news.ycombinator.com/item?id=38164735) - [Apple developer boycott of Feedback Assistant](https://lapcatsoftware.com/articles/2023/11/2.html)
+* [2023-11-06, 16:29:50](https://news.ycombinator.com/item?id=38164727) - [Epic targets Google app store after losing to Apple](https://www.washingtonpost.com/technology/2023/11/06/epic-google-antitrust-trial-play-store/)
 * [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: TCP congestion control algorithm operates on a fixed rate model](https://github.com/apernet/tcp-brutal)
 * [2023-11-06, 16:15:32](https://news.ycombinator.com/item?id=38164523) - [It shouldn't matter if people work multiple jobs. -Former VP of HR at Microsoft](https://www.businessinsider.com/double-dipping-work-multiple-remote-jobs-is-okay-2023-11)
 * [2023-11-06, 16:05:28](https://news.ycombinator.com/item?id=38164374) - [A Zoomer explains her generation's malaise to older generations](https://jonathanhaidt.substack.com/p/where-are-your-kids-schlott)
