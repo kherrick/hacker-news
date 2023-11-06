@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: TCP congestion control algorithm operates on a fixed rate model](https://github.com/apernet/tcp-brutal)
+* [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
 * [2023-11-06, 16:15:32](https://news.ycombinator.com/item?id=38164523) - [It shouldn't matter if people work multiple jobs. -Former VP of HR at Microsoft](https://www.businessinsider.com/double-dipping-work-multiple-remote-jobs-is-okay-2023-11)
+* [2023-11-06, 16:05:28](https://news.ycombinator.com/item?id=38164374) - [A Zoomer explains her generation's malaise to older generations](https://jonathanhaidt.substack.com/p/where-are-your-kids-schlott)
 * [2023-11-06, 15:51:59](https://news.ycombinator.com/item?id=38164189) - [DuckDB performance improvements with the latest release](https://duckdb.org/2023/11/03/db-benchmark-update.html)
-* [2023-11-06, 15:48:51](https://news.ycombinator.com/item?id=38164136) - [Impossible-Sounding Fallout 4 Speedrun Took over 2k Hours](https://kotaku.com/twitch-youtuber-streamer-vrexia-fallout-4-no-hit-run-1850966651)
 * [2023-11-06, 15:47:58](https://news.ycombinator.com/item?id=38164127) - [Create a shortcut for even lower phone brightness](https://practicalbetterments.com/create-a-shortcut-for-even-lower-phone-brightness/)
 * [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – A FOSS, Cross-Platform Version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
-* [2023-11-06, 14:57:23](https://news.ycombinator.com/item?id=38163452) - [California wants to end Cupertino's tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple)
 * [2023-11-06, 14:54:14](https://news.ycombinator.com/item?id=38163412) - [Regarding Proposed US Restrictions on RISC-V](https://www.bunniestudios.com/blog/?p=6862)
 * [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [USB-C cable with the bandwidth and USB type imprinted on the connector](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
 * [2023-11-06, 14:05:26](https://news.ycombinator.com/item?id=38162708) - [Oceans are hugely complex: modelling marine microbes is key to climate forecasts](https://www.nature.com/articles/d41586-023-03425-4)
@@ -30,6 +29,7 @@
 * [2023-11-05, 14:16:50](https://news.ycombinator.com/item?id=38151299) - [In the bad old days we had Punchcards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
 * [2023-11-03, 09:46:02](https://news.ycombinator.com/item?id=38126442) - [Out-braking the ABS Myth [video]](https://www.youtube.com/watch?v=sDbWZiaUeDY)
 * [2023-11-03, 08:44:51](https://news.ycombinator.com/item?id=38126052) - [A standalone zero-dependency Lisp for Linux](https://github.com/lone-lang/lone)
+* [2023-11-03, 08:04:08](https://news.ycombinator.com/item?id=38125799) - [Volute Shaped Blower [video]](https://www.youtube.com/watch?v=Csb-AFD58ww)
 
 ## [Archives](archives/index.md)
 
