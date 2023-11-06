@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 21:05:56](https://news.ycombinator.com/item?id=38169005) - [Pineapple is called \"ananas\" in almost every language that is not English](https://english.stackexchange.com/questions/134659/why-is-pineapple-in-english-but-ananas-in-all-other-languages)
 * [2023-11-06, 19:55:45](https://news.ycombinator.com/item?id=38167988) - [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
 * [2023-11-06, 19:54:38](https://news.ycombinator.com/item?id=38167969) - [Rising pay transparency causing an employer compensation information 'arms race'](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
+* [2023-11-06, 19:46:15](https://news.ycombinator.com/item?id=38167863) - [The SBF Case Was Easy](https://www.bloomberg.com/opinion/articles/2023-11-06/the-sbf-case-was-easy)
 * [2023-11-06, 19:31:05](https://news.ycombinator.com/item?id=38167604) - [Parkinson's patient able to walk 6km without problems after spinal implant](https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant)
 * [2023-11-06, 19:19:04](https://news.ycombinator.com/item?id=38167423) - [Building a Streaming Platform in Go for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
 * [2023-11-06, 19:16:19](https://news.ycombinator.com/item?id=38167373) - [Nvidia L40S Is the Nvidia H100 AI Alternative with a Big Benefit](https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/)
