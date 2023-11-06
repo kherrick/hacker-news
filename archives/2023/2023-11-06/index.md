@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 17:59:55](https://news.ycombinator.com/item?id=38166112) - [Ask HN: Can you take more than 2 consecutive weeks of vacation?](https://news.ycombinator.com/item?id=38166112)
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
 * [2023-11-06, 16:55:21](https://news.ycombinator.com/item?id=38165090) - [OpenAI DevDay, Opening Keynote Livestream [video]](https://www.youtube.com/watch?v=U9mJuUkhUzk)
 * [2023-11-06, 16:42:00](https://news.ycombinator.com/item?id=38164886) - [XAI PromptIDE](https://x.ai/prompt-ide/)
@@ -25,6 +26,7 @@
 * [2023-11-06, 14:09:00](https://news.ycombinator.com/item?id=38162755) - [Gen Z wants to retire early. They're off to a good start](https://www.businessinsider.com/gen-z-most-financially-savvy-generation-retirement-saving-investing-2023-11)
 * [2023-11-06, 14:05:26](https://news.ycombinator.com/item?id=38162708) - [Oceans are hugely complex: modelling marine microbes is key to climate forecasts](https://www.nature.com/articles/d41586-023-03425-4)
 * [2023-11-06, 13:55:55](https://news.ycombinator.com/item?id=38162597) - [Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
+* [2023-11-06, 13:54:16](https://news.ycombinator.com/item?id=38162573) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 13:48:28](https://news.ycombinator.com/item?id=38162514) - [The Future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:41:30](https://news.ycombinator.com/item?id=38162435) - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
 * [2023-11-06, 13:36:46](https://news.ycombinator.com/item?id=38162380) - [Learn Transformer models with this simple video](https://www.youtube.com/watch?v=qaWMOYf4ri8)
