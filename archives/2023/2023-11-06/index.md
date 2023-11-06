@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 21:25:48](https://news.ycombinator.com/item?id=38169237) - [OpenAI offers to pay for ChatGPT customers' copyright lawsuits](https://www.theguardian.com/technology/2023/nov/06/openai-chatgpt-customers-copyright-lawsuits)
+* [2023-11-06, 21:23:09](https://news.ycombinator.com/item?id=38169202) - [English Wikipedia drove out fringe editors over two decades](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Recent_research)
 * [2023-11-06, 21:07:23](https://news.ycombinator.com/item?id=38169021) - [Nvidia Grace Hopper GH200 and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/)
 * [2023-11-06, 21:05:56](https://news.ycombinator.com/item?id=38169005) - [Pineapple is called \"ananas\" in almost every language that is not English](https://english.stackexchange.com/questions/134659/why-is-pineapple-in-english-but-ananas-in-all-other-languages)
 * [2023-11-06, 19:55:45](https://news.ycombinator.com/item?id=38167988) - [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
