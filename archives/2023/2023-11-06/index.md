@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 19:55:45](https://news.ycombinator.com/item?id=38167988) - [Ariane 6 cost and delays bring European launch industry to a breaking point](https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/)
 * [2023-11-06, 19:54:38](https://news.ycombinator.com/item?id=38167969) - [Rising pay transparency causing an employer compensation information 'arms race'](https://www.cnbc.com/2023/11/06/rising-pay-transparency-is-causing-an-employer-information-arms-race.html)
+* [2023-11-06, 19:31:05](https://news.ycombinator.com/item?id=38167604) - [Parkinson's patient able to walk 6km without problems after spinal implant](https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant)
+* [2023-11-06, 19:16:19](https://news.ycombinator.com/item?id=38167373) - [Nvidia L40S Is the Nvidia H100 AI Alternative with a Big Benefit](https://www.servethehome.com/nvidia-l40s-is-the-nvidia-h100-ai-alternative-with-a-big-benefit-supermicro/)
 * [2023-11-06, 19:15:32](https://news.ycombinator.com/item?id=38167363) - [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
 * [2023-11-06, 19:11:51](https://news.ycombinator.com/item?id=38167310) - [Show HN: Open-source model and scorecard for measuring hallucinations in LLMs](https://vectara.com/measuring-hallucinations-in-rag-systems/)
 * [2023-11-06, 18:53:44](https://news.ycombinator.com/item?id=38167001) - [Stop Saying Best Practice](https://www.wking.dev/library/stop-saying-best-practice)
 * [2023-11-06, 18:50:46](https://news.ycombinator.com/item?id=38166965) - [OpenAI releases Whisper v3, new generation open source ASR model](https://github.com/openai/whisper)
+* [2023-11-06, 18:27:01](https://news.ycombinator.com/item?id=38166585) - [Being sold through the CeraVe Amazon store doesn't mean it's genuine](https://old.reddit.com/r/SkincareAddiction/comments/17ot0pl/psa_being_sold_through_the_cerave_amazon_store/)
 * [2023-11-06, 18:22:50](https://news.ycombinator.com/item?id=38166502) - [We Thought Marriage Made Us Healthier, and Why We Were Wrong](https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646)
 * [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products announced at OpenAI DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
