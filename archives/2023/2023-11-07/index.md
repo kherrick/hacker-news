@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 20:00:09](https://news.ycombinator.com/item?id=38181987) - [FDA Proposes to Ban Food Additive, brominated vegetable oil](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals)
 * [2023-11-07, 19:14:28](https://news.ycombinator.com/item?id=38181400) - [In Switzerland, Most People Rent for Life. Is That What They Want?](https://www.nytimes.com/2023/11/06/realestate/zurich-switzerland-renting-homes.html)
 * [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 19:09:53](https://news.ycombinator.com/item?id=38181342) - [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
 * [2023-11-07, 19:07:35](https://news.ycombinator.com/item?id=38181308) - [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
 * [2023-11-07, 19:04:39](https://news.ycombinator.com/item?id=38181280) - [I Got the Fed to Release Its 2011 \"Treasury Default\" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
 * [2023-11-07, 19:03:19](https://news.ycombinator.com/item?id=38181259) - [Core Web Vitals saved users 10k years of waiting for web pages to load](https://blog.chromium.org/2023/11/how-core-web-vitals-saved-users-10000.html)
+* [2023-11-07, 18:59:06](https://news.ycombinator.com/item?id=38181200) - [A Prehistoric Pyramid May Have Just Rewritten Human History, Scientists Claim](https://www.vice.com/en/article/dy35mx/a-prehistoric-pyramid-may-have-just-rewritten-human-history-scientists-claim)
 * [2023-11-07, 18:52:21](https://news.ycombinator.com/item?id=38181114) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
+* [2023-11-07, 18:51:04](https://news.ycombinator.com/item?id=38181095) - [Cruise confirms robotaxis rely on human assistance every 4 to 5 miles](https://www.cnbc.com/2023/11/06/cruise-confirms-robotaxis-rely-on-human-assistance-every-4-to-5-miles.html)
 * [2023-11-07, 18:42:33](https://news.ycombinator.com/item?id=38180981) - [After big drop in ISP competition, Canada mandates fiber-network sharing](https://arstechnica.com/tech-policy/2023/11/canada-forces-large-fiber-isps-to-share-networks-with-small-competitors/)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight makes Alan Wake 2 shine](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 18:17:18](https://news.ycombinator.com/item?id=38180618) - [Google researchers deal a major blow to the theory AI about to outsmart humans](https://www.businessinsider.com/google-researchers-have-turned-agi-race-upside-down-with-paper-2023-11)
