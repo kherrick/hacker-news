@@ -68,6 +68,7 @@
 * [2023-11-06, 13:02:58](https://news.ycombinator.com/item?id=38162028) - [Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)](https://users.monash.edu/~damian/papers/HTML/Perligata.html)
 * [2023-11-06, 13:00:22](https://news.ycombinator.com/item?id=38161997) - [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 * [2023-11-06, 12:51:03](https://news.ycombinator.com/item?id=38161889) - [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
+* [2023-11-06, 12:36:12](https://news.ycombinator.com/item?id=38161745) - [Silver Nanowire Networks to Overdrive AI Acceleration, Reservoir Computing](https://www.tomshardware.com/tech-industry/semiconductors/silver-nanowire-networks-to-overdrive-ai-acceleration-reservoir-computing)
 * [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology Holy Wars Are Coordination Problems (2020)](https://gwern.net/holy-war)
 * [2023-11-06, 12:27:27](https://news.ycombinator.com/item?id=38161637) - [Noam Chomsky: The five filters of the mass media](https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/)
 * [2023-11-06, 12:24:43](https://news.ycombinator.com/item?id=38161617) - [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
