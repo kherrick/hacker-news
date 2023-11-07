@@ -2,8 +2,8 @@
 
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
 * [2023-11-07, 07:25:26](https://news.ycombinator.com/item?id=38174128) - [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
+* [2023-11-07, 05:48:05](https://news.ycombinator.com/item?id=38173680) - [Italy to seize $835M from Airbnb in tax evasion inquiry](https://www.bbc.co.uk/news/business-67341051)
 * [2023-11-07, 05:03:04](https://news.ycombinator.com/item?id=38173457) - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
-* [2023-11-07, 04:41:10](https://news.ycombinator.com/item?id=38173326) - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 * [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 * [2023-11-07, 00:59:10](https://news.ycombinator.com/item?id=38171648) - [Apple's Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)

@@ -7,6 +7,7 @@
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
 * [2023-11-07, 07:25:26](https://news.ycombinator.com/item?id=38174128) - [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 * [2023-11-07, 06:14:22](https://news.ycombinator.com/item?id=38173787) - [Do deepfake videos undermine our epistemic trust?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)
+* [2023-11-07, 05:48:05](https://news.ycombinator.com/item?id=38173680) - [Italy to seize $835M from Airbnb in tax evasion inquiry](https://www.bbc.co.uk/news/business-67341051)
 * [2023-11-07, 05:03:04](https://news.ycombinator.com/item?id=38173457) - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
 * [2023-11-07, 04:41:10](https://news.ycombinator.com/item?id=38173326) - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
