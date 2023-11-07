@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 17:49:30](https://news.ycombinator.com/item?id=38180197) - [Why only 1% of the Snowden Archive will ever be published](https://www.computerweekly.com/news/366554957/Why-only-1-of-the-Snowden-Archive-will-ever-be-published)
+* [2023-11-07, 17:48:30](https://news.ycombinator.com/item?id=38180171) - [The Guardian digital design style guide](https://design.theguardian.com/)
+* [2023-11-07, 17:44:56](https://news.ycombinator.com/item?id=38180112) - [Buddhist office turns to Thai cyber police over AI-generated Facebook content](https://thethaiger.com/news/national/buddhist-office-turns-to-thai-cyber-police-over-ai-generated-facebook-content)
 * [2023-11-07, 17:39:16](https://news.ycombinator.com/item?id=38180014) - [U.S. military members' personal data being sold by online brokers](https://www.axios.com/2023/11/06/military-data-sold-for-cents-cheap-privacy)
 * [2023-11-07, 17:24:24](https://news.ycombinator.com/item?id=38179780) - [Apple Delays Work on Next Year's iPhone, Mac Software to Fix Bugs](https://www.bloomberg.com/news/articles/2023-11-07/apple-delays-work-on-ios-18-macos-15-watchos-11-due-to-problems-with-bugs)
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
