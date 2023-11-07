@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-07, 19:10:04",
+      "https://news.ycombinator.com/item?id=38181346"
+    ],
+    [
+      "Go, Containers, and the Linux Scheduler",
+      "https://www.riverphillips.dev/blog/go-cfs/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 19:09:53",
+      "https://news.ycombinator.com/item?id=38181342"
+    ],
+    [
+      "Why Golang instead of Rust to develop the Krater desktop app",
+      "https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 19:04:39",
+      "https://news.ycombinator.com/item?id=38181280"
+    ],
+    [
+      "I Got the Fed to Release Its 2011 \"Treasury Default\" Playbook",
+      "https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 19:03:19",
       "https://news.ycombinator.com/item?id=38181259"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2023-11-07, 15:48:58",
-      "https://news.ycombinator.com/item?id=38178207"
-    ],
-    [
-      "Doing a Job (1982)",
-      "https://govleaders.org/rickover.htm"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 15:31:50",
       "https://news.ycombinator.com/item?id=38177930"
     ],
     [
       "Verizon, AT&T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices",
       "https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 15:31:27",
-      "https://news.ycombinator.com/item?id=38177927"
-    ],
-    [
-      "Overheating datacenter stopped 2.5M bank transactions",
-      "https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Validating Data in Elixir: Using Ecto and NimbleOptions",
       "https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 04:08:18",
-      "https://news.ycombinator.com/item?id=38173141"
-    ],
-    [
-      "PostgreSQL Encryption: The Available Options",
-      "https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html"
     ]
   ],
   [
