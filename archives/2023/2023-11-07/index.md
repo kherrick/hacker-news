@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 12:25:10](https://news.ycombinator.com/item?id=38176006) - [Whole Earth Catalog 1968 [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
 * [2023-11-07, 12:08:16](https://news.ycombinator.com/item?id=38175909) - [Toxic toddler fruit pouches: \"high\" lead levels sicken 7 in 5 states](https://arstechnica.com/health/2023/11/toxic-toddler-fruit-pouches-extremely-high-lead-levels-sicken-7-in-5-states/)
 * [2023-11-07, 12:00:33](https://news.ycombinator.com/item?id=38175863) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-11-07, 11:59:34](https://news.ycombinator.com/item?id=38175854) - [A person who has had Parkinson's disease for 25 years can now walk again](https://english.elpais.com/science-tech/2023-11-06/a-person-who-has-had-parkinsons-disease-for-25-years-can-now-walk-again-thanks-to-a-neuroprosthesis.html)
@@ -13,6 +14,7 @@
 * [2023-11-07, 08:46:34](https://news.ycombinator.com/item?id=38174614) - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
 * [2023-11-07, 07:25:26](https://news.ycombinator.com/item?id=38174128) - [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
+* [2023-11-07, 06:25:31](https://news.ycombinator.com/item?id=38173835) - [\"I cannot wait to possess you\": Reading 18th century letters for the first time](https://arstechnica.com/science/2023/11/lost-letters-of-18th-century-french-sailors-have-been-read-for-the-first-time/)
 * [2023-11-07, 06:14:22](https://news.ycombinator.com/item?id=38173787) - [Do deepfake videos undermine our epistemic trust?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)
 * [2023-11-07, 05:48:05](https://news.ycombinator.com/item?id=38173680) - [Italy to seize $835M from Airbnb in tax evasion inquiry](https://www.bbc.co.uk/news/business-67341051)
 * [2023-11-07, 05:03:04](https://news.ycombinator.com/item?id=38173457) - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
