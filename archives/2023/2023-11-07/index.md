@@ -6,11 +6,13 @@
 
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
 * [2023-11-07, 16:51:41](https://news.ycombinator.com/item?id=38179200) - [Transformers struggle with generalizing tasks beyond pre-training data](https://arxiv.org/abs/2311.00871)
+* [2023-11-07, 16:39:40](https://news.ycombinator.com/item?id=38179003) - [Oracle Employee Helped Cocaine Dealers Hide $54M in Crypto, DOJ Says](https://www.forbes.com/sites/thomasbrewster/2023/11/07/oracle-staffer-helped-cocaine-dealers-hide-54-million-in-cryptocurrency-doj-says/)
 * [2023-11-07, 16:17:21](https://news.ycombinator.com/item?id=38178666) - [Fedora 39 Released](https://fedoramagazine.org/announcing-fedora-linux-39/)
 * [2023-11-07, 16:12:57](https://news.ycombinator.com/item?id=38178592) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 16:12:17](https://news.ycombinator.com/item?id=38178582) - [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
 * [2023-11-07, 16:11:29](https://news.ycombinator.com/item?id=38178570) - [Shein reportedly seeks $90B valuation in IPO](https://techcrunch.com/2023/11/06/shein-reportedly-seeks-90-billion-valuation-in-ipo/)
 * [2023-11-07, 16:06:52](https://news.ycombinator.com/item?id=38178492) - [Real vs. fake AirPods with industrial CT](https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger)
+* [2023-11-07, 15:55:33](https://news.ycombinator.com/item?id=38178305) - [Marissa Mayer admits Yahoo should have bought Netflix instead of Tumblr](https://www.businessinsider.com/ex-yahoo-ceo-mayer-admitted-company-should-have-bought-netflix-2023-5)
 * [2023-11-07, 15:54:55](https://news.ycombinator.com/item?id=38178297) - [ELTP: Extending ELT for Modern AI and Analytics](https://airbyte.com/blog/eltp-extending-elt-for-modern-ai-and-analytics)
 * [2023-11-07, 15:48:58](https://news.ycombinator.com/item?id=38178207) - [Doing a Job (1982)](https://govleaders.org/rickover.htm)
 * [2023-11-07, 15:43:53](https://news.ycombinator.com/item?id=38178123) - [Google ends deal to build 15,000 Bay Area homes due to \"market conditions\"](https://arstechnica.com/tech-policy/2023/11/google-cost-cutting-ends-deal-to-build-thousands-of-affordable-housing-units/)
