@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 14:19:00](https://news.ycombinator.com/item?id=38176984) - [Waze will now warn drivers about crash dangers using historical data](https://arstechnica.com/cars/2023/11/waze-will-now-warn-drivers-about-crash-dangers-using-historical-data/)
 * [2023-11-07, 14:11:47](https://news.ycombinator.com/item?id=38176891) - [How a 'Refund Fraud' Gang Stole $700k from Amazon](https://www.404media.co/artemis-refund-group-stole-700-000-from-amazon/)
+* [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-07, 13:43:12](https://news.ycombinator.com/item?id=38176592) - [Maine's Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
 * [2023-11-07, 13:20:13](https://news.ycombinator.com/item?id=38176385) - [New job has no way of coding locally?](https://old.reddit.com/r/webdev/comments/17pgbc4/new_job_has_no_way_of_coding_locally/)
 * [2023-11-07, 13:14:52](https://news.ycombinator.com/item?id=38176353) - [Judge Dismisses Copyright Claims Against AI Image Generators](https://petapixel.com/2023/10/31/judge-dismisses-copyright-claims-against-ai-image-generators/)
