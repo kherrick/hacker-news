@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
 * [2023-11-07, 22:31:30](https://news.ycombinator.com/item?id=38183960) - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
+* [2023-11-07, 22:30:19](https://news.ycombinator.com/item?id=38183942) - [Whisper v3](https://github.com/openai/whisper/discussions/1762)
+* [2023-11-07, 22:19:01](https://news.ycombinator.com/item?id=38183798) - [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html)
+* [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
 * [2023-11-07, 21:58:08](https://news.ycombinator.com/item?id=38183514) - [Giant Chopstick Robot Handle Boxes with Ease](https://spectrum.ieee.org/warehouse-robots)
 * [2023-11-07, 21:53:29](https://news.ycombinator.com/item?id=38183454) - [Gleam: a type safe language on the Erlang VM](https://gleam.run/)
 * [2023-11-07, 21:52:32](https://news.ycombinator.com/item?id=38183438) - [Microsoft wants to use AI to reshape your gaming experience](https://www.xfire.com/xbox-facing-backlash-recent-ai-partnership/)
