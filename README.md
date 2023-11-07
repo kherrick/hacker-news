@@ -3,6 +3,7 @@
 * [2023-11-07, 02:55:45](https://news.ycombinator.com/item?id=38172617) - [AI App Graveyard](https://dang.ai/ai-graveyard)
 * [2023-11-07, 02:49:43](https://news.ycombinator.com/item?id=38172578) - [WeWork, once valued at $47B, files for bankruptcy](https://www.cnbc.com/2023/11/07/wework-files-for-bankruptcy.html)
 * [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
+* [2023-11-07, 01:46:57](https://news.ycombinator.com/item?id=38172096) - [Mozilla will move Firefox development from Mercurial to Microsoft's GitHub](https://devclass.com/2023/11/07/mozilla-will-move-firefox-development-from-mercurial-to-microsofts-github/)
 * [2023-11-07, 01:37:39](https://news.ycombinator.com/item?id=38172016) - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
 * [2023-11-07, 00:59:10](https://news.ycombinator.com/item?id=38171648) - [Apple's Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
 * [2023-11-07, 00:38:41](https://news.ycombinator.com/item?id=38171475) - [Intel BE200 WiFi 7 cards locked to 14th gen CPU and Z790 chipset](https://twitter.com/ghost_motley/status/1721646985688601023)
@@ -21,6 +22,7 @@
 * [2023-11-06, 13:54:16](https://news.ycombinator.com/item?id=38162573) - [A linear algebra trick for computing Fibonacci numbers fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 13:25:17](https://news.ycombinator.com/item?id=38162275) - [A new home and license (AGPL) for Synapse and friends](https://element.io/blog/element-to-adopt-agplv3/)
 * [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology Holy Wars Are Coordination Problems (2020)](https://gwern.net/holy-war)
+* [2023-11-06, 12:18:26](https://news.ycombinator.com/item?id=38161560) - [Strong evidence for new light isotope of nitrogen](https://phys.org/news/2023-10-strong-evidence-isotope-nitrogen.html)
 * [2023-11-06, 09:18:26](https://news.ycombinator.com/item?id=38160357) - [IBM Rebus](https://www.ibm.com/design/language/ibm-logos/rebus/)
 * [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-05, 21:02:28](https://news.ycombinator.com/item?id=38155613) - [The original birders gave photography a run for its money](https://www.nytimes.com/2023/11/03/books/the-original-birders-gave-photography-a-run-for-its-money.html)
@@ -28,8 +30,6 @@
 * [2023-11-05, 11:51:03](https://news.ycombinator.com/item?id=38150333) - [Suzuki Omnichord Heaven](http://www.suzukimusic.co.uk/omnichord-heaven/index.html)
 * [2023-11-05, 11:50:51](https://news.ycombinator.com/item?id=38150331) - [University of Minnesota Gopher software licensing policy (1993)](https://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient)
 * [2023-11-04, 18:33:36](https://news.ycombinator.com/item?id=38143844) - [Show HN: Cami.js – A no build, web component based reactive framework](https://github.com/kennyfrc/cami.js)
-* [2023-11-03, 09:46:02](https://news.ycombinator.com/item?id=38126442) - [Out-braking the ABS myth [video]](https://www.youtube.com/watch?v=sDbWZiaUeDY)
-* [2023-11-03, 08:44:51](https://news.ycombinator.com/item?id=38126052) - [A standalone zero-dependency Lisp for Linux](https://github.com/lone-lang/lone)
 
 ## [Archives](archives/index.md)
 

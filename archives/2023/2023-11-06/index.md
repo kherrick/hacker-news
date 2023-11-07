@@ -73,6 +73,7 @@
 * [2023-11-06, 12:24:43](https://news.ycombinator.com/item?id=38161617) - [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
 * [2023-11-06, 12:23:32](https://news.ycombinator.com/item?id=38161603) - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
 * [2023-11-06, 12:21:25](https://news.ycombinator.com/item?id=38161584) - [Israel shot down a ballistic missile in space for the first time](https://www.telegraph.co.uk/world-news/2023/11/04/how-israel-shot-down-ballistic-missile-in-space-houthis/)
+* [2023-11-06, 12:18:26](https://news.ycombinator.com/item?id=38161560) - [Strong evidence for new light isotope of nitrogen](https://phys.org/news/2023-10-strong-evidence-isotope-nitrogen.html)
 * [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
 * [2023-11-06, 11:54:39](https://news.ycombinator.com/item?id=38161369) - [Ask HN: Comment here about whatever you're passionate about at the moment](https://news.ycombinator.com/item?id=38161369)
 * [2023-11-06, 11:44:24](https://news.ycombinator.com/item?id=38161287) - [The New Headache for Bosses: Employees Aren't Quitting](https://www.wsj.com/business/the-new-headache-for-bosses-employees-arent-quitting-edca96a3)
