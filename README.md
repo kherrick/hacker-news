@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 06:14:22](https://news.ycombinator.com/item?id=38173787) - [Do deepfake videos undermine our epistemic trust?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)
+* [2023-11-07, 05:03:04](https://news.ycombinator.com/item?id=38173457) - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
 * [2023-11-07, 04:41:10](https://news.ycombinator.com/item?id=38173326) - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 * [2023-11-07, 02:55:45](https://news.ycombinator.com/item?id=38172617) - [AI App Graveyard](https://dang.ai/ai-graveyard)
@@ -16,8 +18,6 @@
 * [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [GPTs: Custom versions of ChatGPT](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 17:58:53](https://news.ycombinator.com/item?id=38166098) - [UHZ1: NASA telescopes discover record-breaking black hole](https://chandra.si.edu/photo/2023/uhz1/)
-* [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
-* [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
 * [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
 * [2023-11-06, 12:36:12](https://news.ycombinator.com/item?id=38161745) - [Silver Nanowire Networks to Overdrive AI Acceleration, Reservoir Computing](https://www.tomshardware.com/tech-industry/semiconductors/silver-nanowire-networks-to-overdrive-ai-acceleration-reservoir-computing)
 * [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology holy wars are coordination problems (2020)](https://gwern.net/holy-war)
