@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 10:39:35](https://news.ycombinator.com/item?id=38175311) - [Iknowwhatyoudownload.com – Torrent Activity Checker](https://iknowwhatyoudownload.com/en/peer/)
 * [2023-11-07, 09:51:14](https://news.ycombinator.com/item?id=38175026) - [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
 * [2023-11-07, 08:46:34](https://news.ycombinator.com/item?id=38174614) - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)

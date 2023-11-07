@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 10:39:35](https://news.ycombinator.com/item?id=38175311) - [Iknowwhatyoudownload.com – Torrent Activity Checker](https://iknowwhatyoudownload.com/en/peer/)
 * [2023-11-07, 09:51:14](https://news.ycombinator.com/item?id=38175026) - [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
 * [2023-11-07, 08:46:34](https://news.ycombinator.com/item?id=38174614) - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
@@ -14,7 +15,6 @@
 * [2023-11-06, 23:46:43](https://news.ycombinator.com/item?id=38170980) - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
 * [2023-11-06, 21:29:45](https://news.ycombinator.com/item?id=38169290) - [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
 * [2023-11-06, 20:50:25](https://news.ycombinator.com/item?id=38168807) - [QUIK is a method for quantizing LLM post-training weights to 4 bit precision](https://github.com/IST-DASLab/QUIK)
-* [2023-11-06, 19:19:04](https://news.ycombinator.com/item?id=38167423) - [Building a Streaming Platform in Go for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
 * [2023-11-06, 19:15:32](https://news.ycombinator.com/item?id=38167363) - [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 17:58:53](https://news.ycombinator.com/item?id=38166098) - [UHZ1: NASA telescopes discover record-breaking black hole](https://chandra.si.edu/photo/2023/uhz1/)
