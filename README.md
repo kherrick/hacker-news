@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 02:49:43](https://news.ycombinator.com/item?id=38172578) - [WeWork, once valued at $47B, files for bankruptcy](https://www.cnbc.com/2023/11/07/wework-files-for-bankruptcy.html)
 * [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt, Capping Co-Working Company's Downfall](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 * [2023-11-07, 02:21:39](https://news.ycombinator.com/item?id=38172380) - [Epic vs. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
 * [2023-11-07, 01:37:39](https://news.ycombinator.com/item?id=38172016) - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
@@ -20,7 +21,6 @@
 * [2023-11-06, 13:54:16](https://news.ycombinator.com/item?id=38162573) - [A linear algebra trick for computing Fibonacci numbers fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 13:25:17](https://news.ycombinator.com/item?id=38162275) - [A new home and license (AGPL) for Synapse and friends](https://element.io/blog/element-to-adopt-agplv3/)
 * [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology Holy Wars Are Coordination Problems (2020)](https://gwern.net/holy-war)
-* [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
 * [2023-11-06, 11:54:39](https://news.ycombinator.com/item?id=38161369) - [Ask HN: What are you passionate about at the moment?](https://news.ycombinator.com/item?id=38161369)
 * [2023-11-06, 09:18:26](https://news.ycombinator.com/item?id=38160357) - [IBM Rebus](https://www.ibm.com/design/language/ibm-logos/rebus/)
 * [2023-11-05, 21:02:28](https://news.ycombinator.com/item?id=38155613) - [The original birders gave photography a run for its money](https://www.nytimes.com/2023/11/03/books/the-original-birders-gave-photography-a-run-for-its-money.html)
