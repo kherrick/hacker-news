@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-07, 00:39:43",
-      "https://news.ycombinator.com/item?id=38171483"
+      "2023-11-07, 01:37:39",
+      "https://news.ycombinator.com/item?id=38172016"
     ],
     [
-      "Playstation is cutting off X sharing options",
-      "https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4"
+      "Tesla drivers can now disable remote access in privacy win",
+      "https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 00:59:10",
+      "https://news.ycombinator.com/item?id=38171648"
+    ],
+    [
+      "Apple's Trademark Exploit",
+      "https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/"
     ]
   ],
   [
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=38171322"
     ],
     [
-      "Bluesky migrates from pg to single-tenant SQLite",
+      "Bluesky migrates to single-tenant SQLite",
       "https://github.com/bluesky-social/atproto/pull/1705"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 23:51:24",
-      "https://news.ycombinator.com/item?id=38171038"
-    ],
-    [
-      "Google's Web Integrity Android API could kill alternative media clients",
-      "https://arstechnica.com/google/2023/11/google-kills-web-integrity-drm-for-the-web-still-wants-an-android-version/"
     ]
   ],
   [
@@ -37,26 +37,6 @@
     [
       "Still no love for WPA3 on the Raspberry Pi 5",
       "https://rachelbythebay.com/w/2023/11/06/wpa3/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 23:35:27",
-      "https://news.ycombinator.com/item?id=38170848"
-    ],
-    [
-      "Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children",
-      "https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 22:58:44",
-      "https://news.ycombinator.com/item?id=38170388"
-    ],
-    [
-      "U.S. net saving as a percentage of gross national income",
-      "https://fred.stlouisfed.org/series/W207RC1Q156SBEA"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2023-11-06, 13:02:58",
+      "https://news.ycombinator.com/item?id=38162028"
+    ],
+    [
+      "Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)",
+      "https://users.monash.edu/~damian/papers/HTML/Perligata.html"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 12:35:55",
       "https://news.ycombinator.com/item?id=38161743"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2023-11-06, 03:03:23",
+      "https://news.ycombinator.com/item?id=38158309"
+    ],
+    [
+      "milliForth",
+      "https://github.com/fuzzballcat/milliForth"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 21:02:28",
       "https://news.ycombinator.com/item?id=38155613"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38151299"
     ],
     [
-      "In the bad old days we had punchcards – how did people deal with that?",
+      "How did people deal with punch cards?",
       "https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html"
     ]
   ],
