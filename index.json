@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-07, 21:49:53",
+      "https://news.ycombinator.com/item?id=38183394"
+    ],
+    [
+      "Asahi Linux folks are doing us a solid with WPA3 fixes",
+      "https://rachelbythebay.com/w/2023/11/07/wpa3/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 21:46:42",
       "https://news.ycombinator.com/item?id=38183338"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-11-07, 18:59:06",
-      "https://news.ycombinator.com/item?id=38181200"
-    ],
-    [
-      "The pyramid of Gunung Padang began construction in the deep past, study claims",
-      "https://www.vice.com/en/article/dy35mx/a-prehistoric-pyramid-may-have-just-rewritten-human-history-scientists-claim"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 18:52:21",
       "https://news.ycombinator.com/item?id=38181114"
     ],
@@ -127,16 +127,6 @@
     [
       "Seeing like a bank",
       "https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 18:01:47",
-      "https://news.ycombinator.com/item?id=38180402"
-    ],
-    [
-      "FTC Chair Lina Khan on AI regulation, startup acquisitions, and more [audio]",
-      "https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Linksys WRT54G and WRT54GS power supply (2005)",
       "http://kioan.users.uth.gr/wireless/wrt54g/supply.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 12:33:39",
+      "https://news.ycombinator.com/item?id=38150587"
+    ],
+    [
+      "M/o/Vfuscator: A single instruction C compiler",
+      "https://github.com/Battelle/movfuscator"
     ]
   ],
   [
