@@ -2,6 +2,7 @@
 
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
 * [2023-11-07, 18:01:47](https://news.ycombinator.com/item?id=38180402) - [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
+* [2023-11-07, 17:55:06](https://news.ycombinator.com/item?id=38180292) - [Vitess 18](https://planetscale.com/blog/announcing-vitess-18)
 * [2023-11-07, 17:49:30](https://news.ycombinator.com/item?id=38180197) - [Why only 1% of the Snowden Archive will ever be published](https://www.computerweekly.com/news/366554957/Why-only-1-of-the-Snowden-Archive-will-ever-be-published)
 * [2023-11-07, 17:48:30](https://news.ycombinator.com/item?id=38180171) - [The Guardian digital design style guide](https://design.theguardian.com/)
 * [2023-11-07, 17:44:56](https://news.ycombinator.com/item?id=38180112) - [Buddhist office turns to Thai cyber police over AI-generated Facebook content](https://thethaiger.com/news/national/buddhist-office-turns-to-thai-cyber-police-over-ai-generated-facebook-content)
@@ -15,7 +16,6 @@
 * [2023-11-07, 15:54:55](https://news.ycombinator.com/item?id=38178297) - [ELTP: Extending ELT for Modern AI and Analytics](https://airbyte.com/blog/eltp-extending-elt-for-modern-ai-and-analytics)
 * [2023-11-07, 15:48:58](https://news.ycombinator.com/item?id=38178207) - [Doing a Job (1982)](https://govleaders.org/rickover.htm)
 * [2023-11-07, 15:31:50](https://news.ycombinator.com/item?id=38177930) - [Verizon, AT&T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices](https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/)
-* [2023-11-07, 15:31:27](https://news.ycombinator.com/item?id=38177927) - [Overheating datacenter stopped 2.5M bank transactions](https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
 * [2023-11-07, 14:52:19](https://news.ycombinator.com/item?id=38177409) - [The OpenAI Keynote](https://stratechery.com/2023/the-openai-keynote/)
 * [2023-11-07, 14:40:25](https://news.ycombinator.com/item?id=38177250) - [The Escapist staff resign following termination of editor-in-chief Nick Calandra](https://www.gamesindustry.biz/the-escapist-staff-resign-following-termination-of-editor-in-chief-nick-calandra)
 * [2023-11-07, 14:33:53](https://news.ycombinator.com/item?id=38177178) - [Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games](https://scorecard.gg/)

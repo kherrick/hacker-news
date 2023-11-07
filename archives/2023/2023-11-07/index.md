@@ -6,6 +6,7 @@
 
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
 * [2023-11-07, 18:01:47](https://news.ycombinator.com/item?id=38180402) - [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
+* [2023-11-07, 17:55:06](https://news.ycombinator.com/item?id=38180292) - [Vitess 18](https://planetscale.com/blog/announcing-vitess-18)
 * [2023-11-07, 17:49:30](https://news.ycombinator.com/item?id=38180197) - [Why only 1% of the Snowden Archive will ever be published](https://www.computerweekly.com/news/366554957/Why-only-1-of-the-Snowden-Archive-will-ever-be-published)
 * [2023-11-07, 17:48:30](https://news.ycombinator.com/item?id=38180171) - [The Guardian digital design style guide](https://design.theguardian.com/)
 * [2023-11-07, 17:44:56](https://news.ycombinator.com/item?id=38180112) - [Buddhist office turns to Thai cyber police over AI-generated Facebook content](https://thethaiger.com/news/national/buddhist-office-turns-to-thai-cyber-police-over-ai-generated-facebook-content)
