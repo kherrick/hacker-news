@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
 * [2023-11-07, 20:00:09](https://news.ycombinator.com/item?id=38181987) - [FDA Proposes to Ban Food Additive, brominated vegetable oil](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals)
+* [2023-11-07, 19:46:54](https://news.ycombinator.com/item?id=38181826) - [The Trouble with Ingredients in Sunscreens](https://www.ewg.org/sunscreen/report/the-trouble-with-sunscreen-chemicals/)
 * [2023-11-07, 19:14:28](https://news.ycombinator.com/item?id=38181400) - [In Switzerland, Most People Rent for Life. Is That What They Want?](https://www.nytimes.com/2023/11/06/realestate/zurich-switzerland-renting-homes.html)
 * [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 19:09:53](https://news.ycombinator.com/item?id=38181342) - [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)

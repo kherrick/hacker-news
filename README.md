@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-07, 20:00:09](https://news.ycombinator.com/item?id=38181987) - [FDA Proposes to Ban Food Additive, brominated vegetable oil](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals)
+* [2023-11-07, 19:46:54](https://news.ycombinator.com/item?id=38181826) - [The Trouble with Ingredients in Sunscreens](https://www.ewg.org/sunscreen/report/the-trouble-with-sunscreen-chemicals/)
 * [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 19:09:53](https://news.ycombinator.com/item?id=38181342) - [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
 * [2023-11-07, 19:07:35](https://news.ycombinator.com/item?id=38181308) - [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
@@ -13,7 +14,6 @@
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
 * [2023-11-07, 18:01:47](https://news.ycombinator.com/item?id=38180402) - [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more [audio]](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
 * [2023-11-07, 17:55:06](https://news.ycombinator.com/item?id=38180292) - [Vitess 18](https://planetscale.com/blog/announcing-vitess-18)
-* [2023-11-07, 17:48:30](https://news.ycombinator.com/item?id=38180171) - [The Guardian digital design style guide](https://design.theguardian.com/)
 * [2023-11-07, 17:39:16](https://news.ycombinator.com/item?id=38180014) - [U.S. military members' personal data being sold by online brokers](https://www.axios.com/2023/11/06/military-data-sold-for-cents-cheap-privacy)
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
 * [2023-11-07, 16:06:52](https://news.ycombinator.com/item?id=38178492) - [Real vs. fake AirPods with industrial CT](https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger)
