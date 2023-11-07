@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-07, 04:07:05",
-      "https://news.ycombinator.com/item?id=38173131"
-    ],
-    [
-      "The James Webb Telescope is a giant leap in the history of stargazing",
-      "https://www.nytimes.com/interactive/2023/11/05/magazine/james-webb-space-telescope.html"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 02:55:45",
       "https://news.ycombinator.com/item?id=38172617"
     ],
@@ -197,6 +187,16 @@
     [
       "Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI",
       "https://github.com/Cicada-Software/cicada"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 13:54:16",
+      "https://news.ycombinator.com/item?id=38162573"
+    ],
+    [
+      "A linear algebra trick for computing Fibonacci numbers fast",
+      "https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers"
     ]
   ],
   [
