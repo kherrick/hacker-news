@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 13:20:13](https://news.ycombinator.com/item?id=38176385) - [New job has no way of coding locally?](https://old.reddit.com/r/webdev/comments/17pgbc4/new_job_has_no_way_of_coding_locally/)
+* [2023-11-07, 13:14:52](https://news.ycombinator.com/item?id=38176353) - [Judge Dismisses Copyright Claims Against AI Image Generators](https://petapixel.com/2023/10/31/judge-dismisses-copyright-claims-against-ai-image-generators/)
 * [2023-11-07, 12:51:53](https://news.ycombinator.com/item?id=38176177) - [Potato Diet Riff Trial: Sign Up Now, Lol](https://slimemoldtimemold.com/2023/11/03/potato-diet-riff-trial-sign-up-now-lol/)
 * [2023-11-07, 12:42:31](https://news.ycombinator.com/item?id=38176113) - [Videos of Godotcon 2023](https://media.ccc.de/c/godotcon2023)
+* [2023-11-07, 12:33:55](https://news.ycombinator.com/item?id=38176062) - [A C Compiler that fits in the 512 byte boot sector of an x86 machine](https://github.com/xorvoid/sectorc)
 * [2023-11-07, 12:33:03](https://news.ycombinator.com/item?id=38176053) - [Ex-Kotaku staff go independent and launch Aftermath](https://aftermath.site/welcome-to-aftermath)
 * [2023-11-07, 12:25:10](https://news.ycombinator.com/item?id=38176006) - [Whole Earth Catalog 1968 [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
 * [2023-11-07, 12:08:16](https://news.ycombinator.com/item?id=38175909) - [Toxic toddler fruit pouches: \"high\" lead levels sicken 7 in 5 states](https://arstechnica.com/health/2023/11/toxic-toddler-fruit-pouches-extremely-high-lead-levels-sicken-7-in-5-states/)
