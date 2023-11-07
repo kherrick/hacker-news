@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
+* [2023-11-07, 19:09:53](https://news.ycombinator.com/item?id=38181342) - [Why Golang instead of Rust to develop the Krater desktop app](https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app)
+* [2023-11-07, 19:04:39](https://news.ycombinator.com/item?id=38181280) - [I Got the Fed to Release Its 2011 \"Treasury Default\" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
 * [2023-11-07, 19:03:19](https://news.ycombinator.com/item?id=38181259) - [Core Web Vitals saved users 10k years of waiting for web pages to load](https://blog.chromium.org/2023/11/how-core-web-vitals-saved-users-10000.html)
 * [2023-11-07, 18:52:21](https://news.ycombinator.com/item?id=38181114) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight makes Alan Wake 2 shine](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
