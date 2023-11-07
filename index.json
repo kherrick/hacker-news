@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-11-07, 20:00:09",
-      "https://news.ycombinator.com/item?id=38181987"
+      "2023-11-07, 21:08:58",
+      "https://news.ycombinator.com/item?id=38182869"
     ],
     [
-      "FDA Proposes to Ban Food Additive, brominated vegetable oil",
-      "https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals"
+      "What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone",
+      "https://prolost.com/blog/scarybts"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 20:57:02",
+      "https://news.ycombinator.com/item?id=38182712"
+    ],
+    [
+      "Core to Core Latency Data on Large Systems",
+      "https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 20:36:43",
+      "https://news.ycombinator.com/item?id=38182461"
+    ],
+    [
+      "Writing a Compiler is Surprisingly Easy (part 1)",
+      "http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Go, Containers, and the Linux Scheduler",
       "https://www.riverphillips.dev/blog/go-cfs/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 19:09:53",
-      "https://news.ycombinator.com/item?id=38181342"
-    ],
-    [
-      "Why Golang instead of Rust to develop the Krater desktop app",
-      "https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)",
       "https://apply.workable.com/oven/j/A7A1388873/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 16:06:52",
-      "https://news.ycombinator.com/item?id=38178492"
-    ],
-    [
-      "Real vs. fake AirPods with industrial CT",
-      "https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger"
     ]
   ],
   [
