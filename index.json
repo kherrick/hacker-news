@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-07, 13:20:13",
+      "https://news.ycombinator.com/item?id=38176385"
+    ],
+    [
+      "New job has no way of coding locally?",
+      "https://old.reddit.com/r/webdev/comments/17pgbc4/new_job_has_no_way_of_coding_locally/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 13:14:52",
+      "https://news.ycombinator.com/item?id=38176353"
+    ],
+    [
+      "Judge Dismisses Copyright Claims Against AI Image Generators",
+      "https://petapixel.com/2023/10/31/judge-dismisses-copyright-claims-against-ai-image-generators/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 12:51:53",
       "https://news.ycombinator.com/item?id=38176177"
     ],
@@ -17,6 +37,16 @@
     [
       "Videos of Godotcon 2023",
       "https://media.ccc.de/c/godotcon2023"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 12:33:55",
+      "https://news.ycombinator.com/item?id=38176062"
+    ],
+    [
+      "A C Compiler that fits in the 512 byte boot sector of an x86 machine",
+      "https://github.com/xorvoid/sectorc"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "Validating Data in Elixir: Using Ecto and NimbleOptions",
       "https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 10:39:35",
-      "https://news.ycombinator.com/item?id=38175311"
-    ],
-    [
-      "I Know What You Download on BitTorrent",
-      "https://iknowwhatyoudownload.com/en/peer/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 09:51:14",
-      "https://news.ycombinator.com/item?id=38175026"
-    ],
-    [
-      "Best Night Vision vs. Darkest Room [video]",
-      "https://www.youtube.com/watch?v=UAeJHAFjwPM"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Bluesky migrates to single-tenant SQLite",
       "https://github.com/bluesky-social/atproto/pull/1705"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 19:15:32",
-      "https://news.ycombinator.com/item?id=38167363"
-    ],
-    [
-      "Show HN: Inshellisense – IDE style shell autocomplete",
-      "https://github.com/microsoft/inshellisense"
     ]
   ],
   [
