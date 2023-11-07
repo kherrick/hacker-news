@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 12:08:16](https://news.ycombinator.com/item?id=38175909) - [Toxic toddler fruit pouches: \"high\" lead levels sicken 7 in 5 states](https://arstechnica.com/health/2023/11/toxic-toddler-fruit-pouches-extremely-high-lead-levels-sicken-7-in-5-states/)
 * [2023-11-07, 12:00:33](https://news.ycombinator.com/item?id=38175863) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+* [2023-11-07, 11:59:34](https://news.ycombinator.com/item?id=38175854) - [A person who has had Parkinson's disease for 25 years can now walk again](https://english.elpais.com/science-tech/2023-11-06/a-person-who-has-had-parkinsons-disease-for-25-years-can-now-walk-again-thanks-to-a-neuroprosthesis.html)
 * [2023-11-07, 10:57:01](https://news.ycombinator.com/item?id=38175413) - [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
 * [2023-11-07, 10:39:35](https://news.ycombinator.com/item?id=38175311) - [Iknowwhatyoudownload.com – Torrent Activity Checker](https://iknowwhatyoudownload.com/en/peer/)
 * [2023-11-07, 09:51:14](https://news.ycombinator.com/item?id=38175026) - [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
