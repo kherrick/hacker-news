@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-07, 21:26:50](https://news.ycombinator.com/item?id=38183079) - [Biogen-Sage Therapeutics postpartum depression pill priced at $15900](https://www.reuters.com/business/healthcare-pharmaceuticals/biogen-sage-therapeutics-postpartum-depression-pill-priced-15900-2023-11-07/)
+* [2023-11-07, 21:46:42](https://news.ycombinator.com/item?id=38183338) - [Ex-Meta employee says his warnings of Instagram's harm to teens were ignored](https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media)
 * [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
 * [2023-11-07, 20:57:02](https://news.ycombinator.com/item?id=38182712) - [Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
 * [2023-11-07, 20:36:43](https://news.ycombinator.com/item?id=38182461) - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
