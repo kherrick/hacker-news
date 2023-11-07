@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 22:31:30](https://news.ycombinator.com/item?id=38183960) - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
 * [2023-11-07, 21:50:50](https://news.ycombinator.com/item?id=38183414) - [Are language models good at making predictions?](https://www.lesswrong.com/posts/CkhJAxHeyFCg2EcET/are-language-models-good-at-making-predictions)
 * [2023-11-07, 21:49:53](https://news.ycombinator.com/item?id=38183394) - [Asahi Linux folks are doing us a solid with WPA3 fixes](https://rachelbythebay.com/w/2023/11/07/wpa3/)
 * [2023-11-07, 21:46:42](https://news.ycombinator.com/item?id=38183338) - [Ex-Meta employee says his warnings of Instagram's harm to teens were ignored](https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media)
