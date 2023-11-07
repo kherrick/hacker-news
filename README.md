@@ -17,7 +17,7 @@
 * [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [GPTs: Custom versions of ChatGPT](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 17:58:53](https://news.ycombinator.com/item?id=38166098) - [UHZ1: NASA telescopes discover record-breaking black hole](https://chandra.si.edu/photo/2023/uhz1/)
-* [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
+* [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
 * [2023-11-06, 14:18:39](https://news.ycombinator.com/item?id=38162881) - [The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
 * [2023-11-06, 12:36:12](https://news.ycombinator.com/item?id=38161745) - [Silver Nanowire Networks to Overdrive AI Acceleration, Reservoir Computing](https://www.tomshardware.com/tech-industry/semiconductors/silver-nanowire-networks-to-overdrive-ai-acceleration-reservoir-computing)
 * [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology holy wars are coordination problems (2020)](https://gwern.net/holy-war)
