@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 23:44:13](https://news.ycombinator.com/item?id=38184750) - [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
+* [2023-11-07, 23:14:09](https://news.ycombinator.com/item?id=38184426) - [GPT-4-turbo preliminary benchmark results on code-editing](https://aider.chat/docs/benchmarks-1106.html)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 * [2023-11-07, 22:31:30](https://news.ycombinator.com/item?id=38183960) - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
 * [2023-11-07, 22:30:19](https://news.ycombinator.com/item?id=38183942) - [Whisper v3](https://github.com/openai/whisper/discussions/1762)
@@ -12,6 +14,7 @@
 * [2023-11-07, 22:19:01](https://news.ycombinator.com/item?id=38183798) - [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html)
 * [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
 * [2023-11-07, 21:58:08](https://news.ycombinator.com/item?id=38183514) - [Giant Chopstick Robot Handle Boxes with Ease](https://spectrum.ieee.org/warehouse-robots)
+* [2023-11-07, 21:54:14](https://news.ycombinator.com/item?id=38183470) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 21:53:29](https://news.ycombinator.com/item?id=38183454) - [Gleam: a type safe language on the Erlang VM](https://gleam.run/)
 * [2023-11-07, 21:52:32](https://news.ycombinator.com/item?id=38183438) - [Microsoft wants to use AI to reshape your gaming experience](https://www.xfire.com/xbox-facing-backlash-recent-ai-partnership/)
 * [2023-11-07, 21:50:50](https://news.ycombinator.com/item?id=38183414) - [Are language models good at making predictions?](https://www.lesswrong.com/posts/CkhJAxHeyFCg2EcET/are-language-models-good-at-making-predictions)
