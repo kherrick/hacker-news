@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 16:12:57](https://news.ycombinator.com/item?id=38178592) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 16:12:17](https://news.ycombinator.com/item?id=38178582) - [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
+* [2023-11-07, 16:11:29](https://news.ycombinator.com/item?id=38178570) - [Shein reportedly seeks $90B valuation in IPO](https://techcrunch.com/2023/11/06/shein-reportedly-seeks-90-billion-valuation-in-ipo/)
 * [2023-11-07, 16:06:52](https://news.ycombinator.com/item?id=38178492) - [Real vs. fake AirPods with industrial CT](https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger)
+* [2023-11-07, 15:54:55](https://news.ycombinator.com/item?id=38178297) - [ELTP: Extending ELT for Modern AI and Analytics](https://airbyte.com/blog/eltp-extending-elt-for-modern-ai-and-analytics)
+* [2023-11-07, 15:48:58](https://news.ycombinator.com/item?id=38178207) - [Doing a Job (1982)](https://govleaders.org/rickover.htm)
 * [2023-11-07, 15:43:53](https://news.ycombinator.com/item?id=38178123) - [Google ends deal to build 15,000 Bay Area homes due to \"market conditions\"](https://arstechnica.com/tech-policy/2023/11/google-cost-cutting-ends-deal-to-build-thousands-of-affordable-housing-units/)
 * [2023-11-07, 15:31:50](https://news.ycombinator.com/item?id=38177930) - [Verizon, AT&T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices](https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/)
 * [2023-11-07, 15:31:27](https://news.ycombinator.com/item?id=38177927) - [Overheating datacenter stopped 2.5M bank transactions](https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
