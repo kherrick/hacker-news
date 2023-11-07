@@ -54,6 +54,7 @@
 * [2023-11-06, 14:57:23](https://news.ycombinator.com/item?id=38163452) - [California wants to end Cupertino's tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple)
 * [2023-11-06, 14:54:14](https://news.ycombinator.com/item?id=38163412) - [Regarding Proposed US Restrictions on RISC-V](https://www.bunniestudios.com/blog/?p=6862)
 * [2023-11-06, 14:31:56](https://news.ycombinator.com/item?id=38163067) - [Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
+* [2023-11-06, 14:30:00](https://news.ycombinator.com/item?id=38163037) - [Exploring the Macintosh ROM (2019)](https://macgui.com/news/article.php?t=493)
 * [2023-11-06, 14:23:19](https://news.ycombinator.com/item?id=38162951) - [Berkshire Hathaway posts a 40% jump in operating earnings, cash pile of $157B](https://www.cnbc.com/2023/11/04/berkshire-hathaway-brk-earnings-q3-2023.html)
 * [2023-11-06, 14:18:39](https://news.ycombinator.com/item?id=38162881) - [The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
 * [2023-11-06, 14:15:15](https://news.ycombinator.com/item?id=38162837) - [We need more USB-C cables with bandwidth and USB versions on them](https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato)
