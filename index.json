@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-07, 04:41:10",
+      "https://news.ycombinator.com/item?id=38173326"
+    ],
+    [
+      "NASA's On-Demand Streaming Service, NASA+ (Official Trailer)",
+      "https://www.youtube.com/watch?v=TJRiuF8tQJU"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 02:55:45",
       "https://news.ycombinator.com/item?id=38172617"
     ],
@@ -37,16 +47,6 @@
     [
       "Apple's Trademark Exploit",
       "https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 00:52:02",
-      "https://news.ycombinator.com/item?id=38171589"
-    ],
-    [
-      "Collection of \"Today I Learned\" notes",
-      "https://github.com/jbranchaud/til"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
+      "2023-11-06, 16:19:02",
+      "https://news.ycombinator.com/item?id=38164574"
+    ],
+    [
+      "TCP-brutal: Congestion control algorithm that increase speed on packet lost",
+      "https://github.com/apernet/tcp-brutal"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 15:36:57",
       "https://news.ycombinator.com/item?id=38163973"
     ],
     [
       "Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI",
       "https://github.com/Cicada-Software/cicada"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 13:54:16",
-      "https://news.ycombinator.com/item?id=38162573"
-    ],
-    [
-      "A linear algebra trick for computing Fibonacci numbers fast",
-      "https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "IBM Rebus",
       "https://www.ibm.com/design/language/ibm-logos/rebus/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 07:29:56",
+      "https://news.ycombinator.com/item?id=38159762"
+    ],
+    [
+      "The Adventure Radio Protocol",
+      "https://qrper.com/2023/11/what-is-the-adventure-radio-protocol/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "University of Minnesota Gopher software licensing policy (1993)",
       "https://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 18:33:36",
-      "https://news.ycombinator.com/item?id=38143844"
-    ],
-    [
-      "Show HN: Cami.js – A no build, web component based reactive framework",
-      "https://github.com/kennyfrc/cami.js"
     ]
   ]
 ]
