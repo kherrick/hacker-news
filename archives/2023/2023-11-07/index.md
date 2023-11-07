@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 14:46:56](https://news.ycombinator.com/item?id=38177340) - [First Apple M3 Pro Benchmarks Show Surprisingly Low Multi-Core Gains over M2 Pro](https://www.extremetech.com/computing/first-apple-m3-pro-benchmarks-show-surprisingly-low-multi-core-gains-over)
 * [2023-11-07, 14:19:00](https://news.ycombinator.com/item?id=38176984) - [Waze will now warn drivers about crash dangers using historical data](https://arstechnica.com/cars/2023/11/waze-will-now-warn-drivers-about-crash-dangers-using-historical-data/)
 * [2023-11-07, 14:11:47](https://news.ycombinator.com/item?id=38176891) - [How a 'Refund Fraud' Gang Stole $700k from Amazon](https://www.404media.co/artemis-refund-group-stole-700-000-from-amazon/)
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
