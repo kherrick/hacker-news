@@ -103,6 +103,7 @@
 * [2023-11-06, 07:29:56](https://news.ycombinator.com/item?id=38159762) - [The Adventure Radio Protocol](https://qrper.com/2023/11/what-is-the-adventure-radio-protocol/)
 * [2023-11-06, 07:23:39](https://news.ycombinator.com/item?id=38159735) - [Developers Guide to Moving to Denmark](https://matduggan.com/developers-guide-to-moving-to-denmark/)
 * [2023-11-06, 05:28:49](https://news.ycombinator.com/item?id=38159199) - [MIT physicists turn pencil lead into electronic gold](https://physics.mit.edu/news/mit-physicists-turn-pencil-lead-into-gold/)
+* [2023-11-06, 04:54:39](https://news.ycombinator.com/item?id=38159004) - [MISRA C](https://en.wikipedia.org/wiki/MISRA_C)
 * [2023-11-06, 04:47:15](https://news.ycombinator.com/item?id=38158952) - [Gaza experienced its third total communications blackout](https://thehill.com/policy/international/4294864-gaza-loses-telecom-contact-again/)
 * [2023-11-06, 03:45:39](https://news.ycombinator.com/item?id=38158616) - [Men's Shed](https://en.wikipedia.org/wiki/Men%27s_shed)
 * [2023-11-06, 03:43:48](https://news.ycombinator.com/item?id=38158604) - [Who falls for fake news? Psychological and clinical profiling evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/)
