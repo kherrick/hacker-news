@@ -62,6 +62,7 @@
 * [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-05, 11:51:03](https://news.ycombinator.com/item?id=38150333) - [Suzuki Omnichord Heaven](http://www.suzukimusic.co.uk/omnichord-heaven/index.html)
 * [2023-11-05, 11:50:51](https://news.ycombinator.com/item?id=38150331) - [University of Minnesota Gopher software licensing policy (1993)](https://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient)
+* [2023-11-05, 11:42:35](https://news.ycombinator.com/item?id=38150275) - [Almost fifty thousand roman coins discovered in the waters of Sardinia](https://www.agenzianova.com/en/news/Almost-50-thousand-coins-from-the-XNUMXth-century-AD-have-been-discovered-in-the-waters-of-Sardinia/)
 * [2023-11-05, 11:29:19](https://news.ycombinator.com/item?id=38150187) - [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
 * [2023-11-05, 11:12:58](https://news.ycombinator.com/item?id=38150101) - [IMSI-Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/)
 * [2023-11-05, 11:12:12](https://news.ycombinator.com/item?id=38150096) - [Email Obfuscation Rendered Almost Ineffective Against ChatGPT](https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4)
