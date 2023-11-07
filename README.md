@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-07, 03:29:11](https://news.ycombinator.com/item?id=38172877) - [Valve officially releases SteamVR 2.0](https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0)
 * [2023-11-07, 02:55:45](https://news.ycombinator.com/item?id=38172617) - [AI App Graveyard](https://dang.ai/ai-graveyard)
 * [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 * [2023-11-07, 01:37:39](https://news.ycombinator.com/item?id=38172016) - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
 * [2023-11-07, 00:59:10](https://news.ycombinator.com/item?id=38171648) - [Apple's Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
+* [2023-11-07, 00:52:02](https://news.ycombinator.com/item?id=38171589) - [Collection of \"Today I Learned\" notes](https://github.com/jbranchaud/til)
 * [2023-11-07, 00:38:41](https://news.ycombinator.com/item?id=38171475) - [Intel BE200 WiFi 7 cards locked to 14th gen CPU and Z790 chipset](https://twitter.com/ghost_motley/status/1721646985688601023)
 * [2023-11-07, 00:22:39](https://news.ycombinator.com/item?id=38171322) - [Bluesky migrates to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
 * [2023-11-06, 23:46:43](https://news.ycombinator.com/item?id=38170980) - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
