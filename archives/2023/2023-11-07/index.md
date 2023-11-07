@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 17:24:24](https://news.ycombinator.com/item?id=38179780) - [Apple Delays Work on Next Year's iPhone, Mac Software to Fix Bugs](https://www.bloomberg.com/news/articles/2023-11-07/apple-delays-work-on-ios-18-macos-15-watchos-11-due-to-problems-with-bugs)
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
 * [2023-11-07, 16:51:41](https://news.ycombinator.com/item?id=38179200) - [Transformers struggle with generalizing tasks beyond pre-training data](https://arxiv.org/abs/2311.00871)
 * [2023-11-07, 16:39:40](https://news.ycombinator.com/item?id=38179003) - [Oracle Employee Helped Cocaine Dealers Hide $54M in Crypto, DOJ Says](https://www.forbes.com/sites/thomasbrewster/2023/11/07/oracle-staffer-helped-cocaine-dealers-hide-54-million-in-cryptocurrency-doj-says/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 17:24:24](https://news.ycombinator.com/item?id=38179780) - [Apple Delays Work on Next Year's iPhone, Mac Software to Fix Bugs](https://www.bloomberg.com/news/articles/2023-11-07/apple-delays-work-on-ios-18-macos-15-watchos-11-due-to-problems-with-bugs)
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
 * [2023-11-07, 16:51:41](https://news.ycombinator.com/item?id=38179200) - [Transformers struggle with generalizing tasks beyond pre-training data](https://arxiv.org/abs/2311.00871)
 * [2023-11-07, 16:39:40](https://news.ycombinator.com/item?id=38179003) - [Oracle Employee Helped Cocaine Dealers Hide $54M in Crypto, DOJ Says](https://www.forbes.com/sites/thomasbrewster/2023/11/07/oracle-staffer-helped-cocaine-dealers-hide-54-million-in-cryptocurrency-doj-says/)
@@ -23,7 +24,6 @@
 * [2023-11-07, 12:33:55](https://news.ycombinator.com/item?id=38176062) - [A C Compiler that fits in the 512 byte boot sector of an x86 machine](https://github.com/xorvoid/sectorc)
 * [2023-11-07, 12:25:10](https://news.ycombinator.com/item?id=38176006) - [Whole Earth Catalog (1968) [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
 * [2023-11-07, 10:57:01](https://news.ycombinator.com/item?id=38175413) - [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
-* [2023-11-07, 06:25:31](https://news.ycombinator.com/item?id=38173835) - [\"I cannot wait to possess you\": Reading 18th century letters for the first time](https://arstechnica.com/science/2023/11/lost-letters-of-18th-century-french-sailors-have-been-read-for-the-first-time/)
 * [2023-11-07, 04:30:01](https://news.ycombinator.com/item?id=38173266) - [Speeding up a program for a 50 year old processor](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 * [2023-11-06, 14:18:39](https://news.ycombinator.com/item?id=38162881) - [The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
