@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-11-07, 00:39:43",
+      "https://news.ycombinator.com/item?id=38171483"
+    ],
+    [
+      "Playstation is cutting off X sharing options",
+      "https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 00:22:39",
+      "https://news.ycombinator.com/item?id=38171322"
+    ],
+    [
+      "Bluesky migrates from pg to single-tenant SQLite",
+      "https://github.com/bluesky-social/atproto/pull/1705"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 23:51:24",
+      "https://news.ycombinator.com/item?id=38171038"
+    ],
+    [
+      "Google's Web Integrity Android API could kill alternative media clients",
+      "https://arstechnica.com/google/2023/11/google-kills-web-integrity-drm-for-the-web-still-wants-an-android-version/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 23:46:43",
+      "https://news.ycombinator.com/item?id=38170980"
+    ],
+    [
+      "Still no love for WPA3 on the Raspberry Pi 5",
+      "https://rachelbythebay.com/w/2023/11/06/wpa3/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 23:35:27",
+      "https://news.ycombinator.com/item?id=38170848"
+    ],
+    [
+      "Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children",
+      "https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 22:58:44",
       "https://news.ycombinator.com/item?id=38170388"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2023-11-06, 22:12:39",
-      "https://news.ycombinator.com/item?id=38169816"
+      "2023-11-06, 22:46:28",
+      "https://news.ycombinator.com/item?id=38170226"
     ],
     [
-      "Happy 20th Birthday to Inkscape",
-      "https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804"
+      "Online Order Has Been Delivered–and It's Teeny Tiny",
+      "https://www.wsj.com/business/retail/online-order-miniature-tiny-d9911da8"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "QUIK is a method for quantizing LLM post-training weights to 4 bit precision",
       "https://github.com/IST-DASLab/QUIK"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 20:35:09",
-      "https://news.ycombinator.com/item?id=38168585"
-    ],
-    [
-      "Airbnb is broken, CEO says – His plans to fix it",
-      "https://www.bloomberg.com/news/articles/2023-10-02/airbnb-is-broken-its-ceo-says-here-are-his-plans-to-fix-it"
     ]
   ],
   [
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2023-11-06, 16:19:02",
-      "https://news.ycombinator.com/item?id=38164574"
-    ],
-    [
-      "TCP-brutal: Congestion control algorithm that increase speed on packet lost",
-      "https://github.com/apernet/tcp-brutal"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 15:36:57",
       "https://news.ycombinator.com/item?id=38163973"
     ],
     [
       "Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI",
       "https://github.com/Cicada-Software/cicada"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 14:10:29",
-      "https://news.ycombinator.com/item?id=38162779"
-    ],
-    [
-      "Category Theory for Programming",
-      "https://arxiv.org/abs/2209.01259"
     ]
   ],
   [
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2023-11-06, 13:02:58",
-      "https://news.ycombinator.com/item?id=38162028"
+      "2023-11-06, 12:35:55",
+      "https://news.ycombinator.com/item?id=38161743"
     ],
     [
-      "Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)",
-      "https://users.monash.edu/~damian/papers/HTML/Perligata.html"
+      "Technology Holy Wars Are Coordination Problems (2020)",
+      "https://gwern.net/holy-war"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Show HN: Cami.js – A no build, web component based reactive framework",
       "https://github.com/kennyfrc/cami.js"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 04:12:31",
-      "https://news.ycombinator.com/item?id=38138065"
-    ],
-    [
-      "What it takes to fan-translate a video game (2022) [video]",
-      "https://www.youtube.com/watch?v=0tUxVSms4Q4"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 09:46:02",
-      "https://news.ycombinator.com/item?id=38126442"
-    ],
-    [
-      "Out-braking the ABS myth [video]",
-      "https://www.youtube.com/watch?v=sDbWZiaUeDY"
     ]
   ],
   [
