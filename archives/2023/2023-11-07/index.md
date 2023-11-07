@@ -15,6 +15,7 @@
 * [2023-11-07, 05:48:05](https://news.ycombinator.com/item?id=38173680) - [Italy to seize $835M from Airbnb in tax evasion inquiry](https://www.bbc.co.uk/news/business-67341051)
 * [2023-11-07, 05:03:04](https://news.ycombinator.com/item?id=38173457) - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
 * [2023-11-07, 04:41:10](https://news.ycombinator.com/item?id=38173326) - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
+* [2023-11-07, 04:30:01](https://news.ycombinator.com/item?id=38173266) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 * [2023-11-07, 04:07:05](https://news.ycombinator.com/item?id=38173131) - [The James Webb Telescope is a giant leap in the history of stargazing](https://www.nytimes.com/interactive/2023/11/05/magazine/james-webb-space-telescope.html)
 * [2023-11-07, 03:29:11](https://news.ycombinator.com/item?id=38172877) - [Valve officially releases SteamVR 2.0](https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0)
