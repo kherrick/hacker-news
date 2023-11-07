@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 15:43:53](https://news.ycombinator.com/item?id=38178123) - [Google ends deal to build 15,000 Bay Area homes due to \"market conditions\"](https://arstechnica.com/tech-policy/2023/11/google-cost-cutting-ends-deal-to-build-thousands-of-affordable-housing-units/)
 * [2023-11-07, 15:31:50](https://news.ycombinator.com/item?id=38177930) - [Verizon, AT&T Customers Sue to Undo T-Mobile Merger, Saying It Raised All Prices](https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/)
+* [2023-11-07, 15:31:27](https://news.ycombinator.com/item?id=38177927) - [Overheating datacenter stopped 2.5M bank transactions](https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
+* [2023-11-07, 15:27:22](https://news.ycombinator.com/item?id=38177875) - [Why the case for Rust is not particularly compelling](https://tednesday.wordpress.com/2023/11/07/why-the-case-for-rust-is-not-particularly-compelling/)
 * [2023-11-07, 15:15:44](https://news.ycombinator.com/item?id=38177712) - [LAPD considering stronger body camera policy in light of recent scandals](https://www.latimes.com/california/story/2023-10-26/lapd-considering-stronger-body-camera-policy)
 * [2023-11-07, 15:14:48](https://news.ycombinator.com/item?id=38177702) - [44% of US job postings have salary info in them](https://directlyapply.com/blog/an-update-on-salary-transparency-in-job-posts-november-2023)
 * [2023-11-07, 14:46:56](https://news.ycombinator.com/item?id=38177340) - [First Apple M3 Pro Benchmarks Show Surprisingly Low Multi-Core Gains over M2 Pro](https://www.extremetech.com/computing/first-apple-m3-pro-benchmarks-show-surprisingly-low-multi-core-gains-over)
