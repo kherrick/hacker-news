@@ -96,6 +96,7 @@
 * [2023-11-06, 08:35:16](https://news.ycombinator.com/item?id=38160079) - [Ask HN: How do you start a research based company?](https://news.ycombinator.com/item?id=38160079)
 * [2023-11-06, 08:03:57](https://news.ycombinator.com/item?id=38159927) - [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
 * [2023-11-06, 07:36:45](https://news.ycombinator.com/item?id=38159795) - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
+* [2023-11-06, 07:29:56](https://news.ycombinator.com/item?id=38159762) - [The Adventure Radio Protocol](https://qrper.com/2023/11/what-is-the-adventure-radio-protocol/)
 * [2023-11-06, 07:23:39](https://news.ycombinator.com/item?id=38159735) - [Developers Guide to Moving to Denmark](https://matduggan.com/developers-guide-to-moving-to-denmark/)
 * [2023-11-06, 04:47:15](https://news.ycombinator.com/item?id=38158952) - [Gaza experienced its third total communications blackout](https://thehill.com/policy/international/4294864-gaza-loses-telecom-contact-again/)
 * [2023-11-06, 03:45:39](https://news.ycombinator.com/item?id=38158616) - [Men's Shed](https://en.wikipedia.org/wiki/Men%27s_shed)

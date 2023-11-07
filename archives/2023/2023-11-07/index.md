@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 04:41:10](https://news.ycombinator.com/item?id=38173326) - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 * [2023-11-07, 03:29:11](https://news.ycombinator.com/item?id=38172877) - [Valve officially releases SteamVR 2.0](https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0)
 * [2023-11-07, 02:55:45](https://news.ycombinator.com/item?id=38172617) - [AI App Graveyard](https://dang.ai/ai-graveyard)
 * [2023-11-07, 02:49:43](https://news.ycombinator.com/item?id=38172578) - [WeWork, once valued at $47B, files for bankruptcy](https://www.cnbc.com/2023/11/07/wework-files-for-bankruptcy.html)
