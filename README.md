@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 09:51:14](https://news.ycombinator.com/item?id=38175026) - [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
 * [2023-11-07, 08:46:34](https://news.ycombinator.com/item?id=38174614) - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
 * [2023-11-07, 07:25:26](https://news.ycombinator.com/item?id=38174128) - [You don't need to work on hard problems (2020)](https://www.benkuhn.net/hard/)
@@ -29,7 +30,6 @@
 * [2023-11-05, 21:02:28](https://news.ycombinator.com/item?id=38155613) - [The original birders gave photography a run for its money](https://www.nytimes.com/2023/11/03/books/the-original-birders-gave-photography-a-run-for-its-money.html)
 * [2023-11-05, 14:16:50](https://news.ycombinator.com/item?id=38151299) - [How did people deal with punch cards?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
 * [2023-11-05, 11:51:03](https://news.ycombinator.com/item?id=38150333) - [Suzuki Omnichord Heaven](http://www.suzukimusic.co.uk/omnichord-heaven/index.html)
-* [2023-11-05, 11:50:51](https://news.ycombinator.com/item?id=38150331) - [University of Minnesota Gopher software licensing policy (1993)](https://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient)
 
 ## [Archives](archives/index.md)
 
