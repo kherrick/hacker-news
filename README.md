@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 08:46:34](https://news.ycombinator.com/item?id=38174614) - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
 * [2023-11-07, 07:25:26](https://news.ycombinator.com/item?id=38174128) - [You don't need to work on hard problems (2020)](https://www.benkuhn.net/hard/)
 * [2023-11-07, 05:48:05](https://news.ycombinator.com/item?id=38173680) - [Italy to seize $835M from Airbnb in tax evasion inquiry](https://www.bbc.co.uk/news/business-67341051)
@@ -12,7 +13,6 @@
 * [2023-11-06, 23:46:43](https://news.ycombinator.com/item?id=38170980) - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
 * [2023-11-06, 21:29:45](https://news.ycombinator.com/item?id=38169290) - [DAK and the Golden Age of Gadget Catalogs](https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/)
 * [2023-11-06, 20:50:25](https://news.ycombinator.com/item?id=38168807) - [QUIK is a method for quantizing LLM post-training weights to 4 bit precision](https://github.com/IST-DASLab/QUIK)
-* [2023-11-06, 19:31:05](https://news.ycombinator.com/item?id=38167604) - [Parkinson's patient able to walk 6km without problems after spinal implant](https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant)
 * [2023-11-06, 19:19:04](https://news.ycombinator.com/item?id=38167423) - [Building a Streaming Platform in Go for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
 * [2023-11-06, 19:15:32](https://news.ycombinator.com/item?id=38167363) - [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
