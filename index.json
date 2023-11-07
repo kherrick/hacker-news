@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-07, 16:12:17",
+      "https://news.ycombinator.com/item?id=38178582"
+    ],
+    [
+      "ICE faces heat after agents install apps, VPNs on official phones",
+      "https://www.theregister.com/2023/11/06/ice_device_security/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 16:06:52",
+      "https://news.ycombinator.com/item?id=38178492"
+    ],
+    [
+      "Real vs. fake AirPods with industrial CT",
+      "https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 15:43:53",
       "https://news.ycombinator.com/item?id=38178123"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2023-11-07, 15:27:22",
-      "https://news.ycombinator.com/item?id=38177875"
-    ],
-    [
-      "Why the case for Rust is not particularly compelling",
-      "https://tednesday.wordpress.com/2023/11/07/why-the-case-for-rust-is-not-particularly-compelling/"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 15:15:44",
       "https://news.ycombinator.com/item?id=38177712"
     ],
@@ -61,12 +71,42 @@
   ],
   [
     [
+      "2023-11-07, 14:52:19",
+      "https://news.ycombinator.com/item?id=38177409"
+    ],
+    [
+      "The OpenAI Keynote",
+      "https://stratechery.com/2023/the-openai-keynote/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 14:44:07",
+      "https://news.ycombinator.com/item?id=38177299"
+    ],
+    [
+      "Cock.li – Tor-friendly, free E-mail and XMPP provider",
+      "https://cock.li/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 14:40:25",
       "https://news.ycombinator.com/item?id=38177250"
     ],
     [
       "The Escapist staff resign following termination of editor-in-chief Nick Calandra",
       "https://www.gamesindustry.biz/the-escapist-staff-resign-following-termination-of-editor-in-chief-nick-calandra"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 14:33:53",
+      "https://news.ycombinator.com/item?id=38177178"
+    ],
+    [
+      "Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games",
+      "https://scorecard.gg/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2023-11-07, 13:05:51",
-      "https://news.ycombinator.com/item?id=38176280"
-    ],
-    [
-      "Red Hat Developer (Author of ProtonGE) Talks at the Ubuntu Summit about Proton",
-      "https://www.youtube.com/watch?v=4puxx4kJnaQ"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 12:51:53",
       "https://news.ycombinator.com/item?id=38176177"
     ],
@@ -137,16 +167,6 @@
     [
       "A C Compiler that fits in the 512 byte boot sector of an x86 machine",
       "https://github.com/xorvoid/sectorc"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 12:33:03",
-      "https://news.ycombinator.com/item?id=38176053"
-    ],
-    [
-      "Ex-Kotaku staff go independent and launch Aftermath",
-      "https://aftermath.site/welcome-to-aftermath"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-11-06, 12:36:12",
-      "https://news.ycombinator.com/item?id=38161745"
-    ],
-    [
-      "Silver Nanowire Networks to Overdrive AI Acceleration, Reservoir Computing",
-      "https://www.tomshardware.com/tech-industry/semiconductors/silver-nanowire-networks-to-overdrive-ai-acceleration-reservoir-computing"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 12:18:26",
       "https://news.ycombinator.com/item?id=38161560"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2023-11-06, 09:18:26",
-      "https://news.ycombinator.com/item?id=38160357"
+      "2023-11-06, 05:28:49",
+      "https://news.ycombinator.com/item?id=38159199"
     ],
     [
-      "IBM Rebus",
-      "https://www.ibm.com/design/language/ibm-logos/rebus/"
+      "MIT physicists turn pencil lead into electronic gold",
+      "https://physics.mit.edu/news/mit-physicists-turn-pencil-lead-into-gold/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Microdot",
       "https://microdot.readthedocs.io/en/latest/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 21:36:36",
-      "https://news.ycombinator.com/item?id=38155899"
-    ],
-    [
-      "Acid's First Convert, Cary Grant: On Edward J. Delaney's \"The Acrobat\"",
-      "https://lareviewofbooks.org/article/acids-first-convert-cary-grant-on-edward-j-delaneys-the-acrobat/"
     ]
   ],
   [
