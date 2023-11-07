@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 03:29:11](https://news.ycombinator.com/item?id=38172877) - [Valve officially releases SteamVR 2.0](https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0)
 * [2023-11-07, 02:55:45](https://news.ycombinator.com/item?id=38172617) - [AI App Graveyard](https://dang.ai/ai-graveyard)
 * [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 * [2023-11-07, 01:37:39](https://news.ycombinator.com/item?id=38172016) - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
@@ -18,7 +19,6 @@
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
 * [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
 * [2023-11-06, 13:54:16](https://news.ycombinator.com/item?id=38162573) - [A linear algebra trick for computing Fibonacci numbers fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
-* [2023-11-06, 13:25:17](https://news.ycombinator.com/item?id=38162275) - [A new home and license (AGPL) for Synapse and friends](https://element.io/blog/element-to-adopt-agplv3/)
 * [2023-11-06, 13:02:58](https://news.ycombinator.com/item?id=38162028) - [Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)](https://users.monash.edu/~damian/papers/HTML/Perligata.html)
 * [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology holy wars are coordination problems (2020)](https://gwern.net/holy-war)
 * [2023-11-06, 12:18:26](https://news.ycombinator.com/item?id=38161560) - [Strong evidence for new light isotope of nitrogen](https://phys.org/news/2023-10-strong-evidence-isotope-nitrogen.html)
