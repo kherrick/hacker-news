@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-11-07, 04:07:05",
+      "https://news.ycombinator.com/item?id=38173131"
+    ],
+    [
+      "The James Webb Telescope is a giant leap in the history of stargazing",
+      "https://www.nytimes.com/interactive/2023/11/05/magazine/james-webb-space-telescope.html"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 02:55:45",
       "https://news.ycombinator.com/item?id=38172617"
     ],
@@ -57,16 +67,6 @@
     [
       "Apple's Trademark Exploit",
       "https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 00:38:41",
-      "https://news.ycombinator.com/item?id=38171475"
-    ],
-    [
-      "Intel BE200 WiFi 7 cards locked to 14th gen CPU and Z790 chipset",
-      "https://twitter.com/ghost_motley/status/1721646985688601023"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
+      "2023-11-06, 16:19:02",
+      "https://news.ycombinator.com/item?id=38164574"
+    ],
+    [
+      "TCP-brutal: Congestion control algorithm that increase speed on packet lost",
+      "https://github.com/apernet/tcp-brutal"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 15:36:57",
       "https://news.ycombinator.com/item?id=38163973"
     ],
     [
       "Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI",
       "https://github.com/Cicada-Software/cicada"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 13:02:58",
-      "https://news.ycombinator.com/item?id=38162028"
-    ],
-    [
-      "Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)",
-      "https://users.monash.edu/~damian/papers/HTML/Perligata.html"
     ]
   ],
   [
