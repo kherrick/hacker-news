@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-11-07, 01:46:57",
+      "https://news.ycombinator.com/item?id=38172096"
+    ],
+    [
+      "Mozilla will move Firefox development from Mercurial to Microsoft's GitHub",
+      "https://devclass.com/2023/11/07/mozilla-will-move-firefox-development-from-mercurial-to-microsofts-github/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 01:37:39",
       "https://news.ycombinator.com/item?id=38172016"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2023-11-06, 12:18:26",
+      "https://news.ycombinator.com/item?id=38161560"
+    ],
+    [
+      "Strong evidence for new light isotope of nitrogen",
+      "https://phys.org/news/2023-10-strong-evidence-isotope-nitrogen.html"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 09:18:26",
       "https://news.ycombinator.com/item?id=38160357"
     ],
@@ -277,26 +297,6 @@
     [
       "Show HN: Cami.js – A no build, web component based reactive framework",
       "https://github.com/kennyfrc/cami.js"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 09:46:02",
-      "https://news.ycombinator.com/item?id=38126442"
-    ],
-    [
-      "Out-braking the ABS myth [video]",
-      "https://www.youtube.com/watch?v=sDbWZiaUeDY"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 08:44:51",
-      "https://news.ycombinator.com/item?id=38126052"
-    ],
-    [
-      "A standalone zero-dependency Lisp for Linux",
-      "https://github.com/lone-lang/lone"
     ]
   ]
 ]
