@@ -2,7 +2,6 @@
 
 * [2023-11-07, 04:41:10](https://news.ycombinator.com/item?id=38173326) - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
-* [2023-11-07, 04:07:05](https://news.ycombinator.com/item?id=38173131) - [The James Webb Telescope is a giant leap in the history of stargazing](https://www.nytimes.com/interactive/2023/11/05/magazine/james-webb-space-telescope.html)
 * [2023-11-07, 02:55:45](https://news.ycombinator.com/item?id=38172617) - [AI App Graveyard](https://dang.ai/ai-graveyard)
 * [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
 * [2023-11-07, 01:37:39](https://news.ycombinator.com/item?id=38172016) - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
@@ -20,6 +19,7 @@
 * [2023-11-06, 17:01:02](https://news.ycombinator.com/item?id=38165183) - [Giga ML (YC S23) Is Hiring](https://www.ycombinator.com/companies/giga-ml/jobs/d3zdZXn-founding-engineer)
 * [2023-11-06, 16:19:02](https://news.ycombinator.com/item?id=38164574) - [TCP-brutal: Congestion control algorithm that increase speed on packet lost](https://github.com/apernet/tcp-brutal)
 * [2023-11-06, 15:36:57](https://news.ycombinator.com/item?id=38163973) - [Cicada – Open-source cross-platform version of GitHub Actions and Gitlab CI](https://github.com/Cicada-Software/cicada)
+* [2023-11-06, 13:54:16](https://news.ycombinator.com/item?id=38162573) - [A linear algebra trick for computing Fibonacci numbers fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology holy wars are coordination problems (2020)](https://gwern.net/holy-war)
 * [2023-11-06, 12:18:26](https://news.ycombinator.com/item?id=38161560) - [Strong evidence for new light isotope of nitrogen](https://phys.org/news/2023-10-strong-evidence-isotope-nitrogen.html)
 * [2023-11-06, 09:18:26](https://news.ycombinator.com/item?id=38160357) - [IBM Rebus](https://www.ibm.com/design/language/ibm-logos/rebus/)
