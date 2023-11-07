@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-07, 14:46:56",
+      "https://news.ycombinator.com/item?id=38177340"
+    ],
+    [
+      "First Apple M3 Pro Benchmarks Show Surprisingly Low Multi-Core Gains over M2 Pro",
+      "https://www.extremetech.com/computing/first-apple-m3-pro-benchmarks-show-surprisingly-low-multi-core-gains-over"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 14:19:00",
       "https://news.ycombinator.com/item?id=38176984"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2023-11-07, 00:52:02",
-      "https://news.ycombinator.com/item?id=38171589"
+      "2023-11-07, 00:22:39",
+      "https://news.ycombinator.com/item?id=38171322"
     ],
     [
-      "Collection of \"Today I Learned\" notes",
-      "https://github.com/jbranchaud/til"
+      "Bluesky migrates to single-tenant SQLite",
+      "https://github.com/bluesky-social/atproto/pull/1705"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "IBM Rebus",
       "https://www.ibm.com/design/language/ibm-logos/rebus/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 07:29:56",
-      "https://news.ycombinator.com/item?id=38159762"
-    ],
-    [
-      "The Adventure Radio Protocol",
-      "https://qrper.com/2023/11/what-is-the-adventure-radio-protocol/"
     ]
   ],
   [
