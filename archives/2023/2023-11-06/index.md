@@ -89,6 +89,7 @@
 * [2023-11-06, 09:35:19](https://news.ycombinator.com/item?id=38160454) - [Cool Continuum: Make Your Mark in the Arts](https://medium.com/@coolcontinuum/the-composer-continuum-35396e5d09bc)
 * [2023-11-06, 09:29:36](https://news.ycombinator.com/item?id=38160425) - [Wikipedia admin unmasks self as sockpuppet of other admin banned in 2015](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Arbitration_report)
 * [2023-11-06, 09:22:50](https://news.ycombinator.com/item?id=38160382) - [Debian Discusses Vendoring yet Again](https://lwn.net/Articles/842319/)
+* [2023-11-06, 09:18:26](https://news.ycombinator.com/item?id=38160357) - [IBM Rebus](https://www.ibm.com/design/language/ibm-logos/rebus/)
 * [2023-11-06, 08:50:04](https://news.ycombinator.com/item?id=38160161) - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
 * [2023-11-06, 08:36:45](https://news.ycombinator.com/item?id=38160085) - [Scientists Are Researching a Device That Can Induce Lucid Dreams on Demand](https://www.vice.com/en/article/m7bxdx/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand)
 * [2023-11-06, 08:35:16](https://news.ycombinator.com/item?id=38160079) - [Ask HN: How do you start a research based company?](https://news.ycombinator.com/item?id=38160079)
