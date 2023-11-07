@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 14:11:47](https://news.ycombinator.com/item?id=38176891) - [How a 'Refund Fraud' Gang Stole $700k from Amazon](https://www.404media.co/artemis-refund-group-stole-700-000-from-amazon/)
 * [2023-11-07, 13:43:12](https://news.ycombinator.com/item?id=38176592) - [Maine's Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
-* [2023-11-07, 13:20:13](https://news.ycombinator.com/item?id=38176385) - [New job has no way of coding locally?](https://old.reddit.com/r/webdev/comments/17pgbc4/new_job_has_no_way_of_coding_locally/)
 * [2023-11-07, 13:14:52](https://news.ycombinator.com/item?id=38176353) - [Judge Dismisses Copyright Claims Against AI Image Generators](https://petapixel.com/2023/10/31/judge-dismisses-copyright-claims-against-ai-image-generators/)
 * [2023-11-07, 13:05:51](https://news.ycombinator.com/item?id=38176280) - [Red Hat Developer (Author of ProtonGE) Talks at the Ubuntu Summit about Proton](https://www.youtube.com/watch?v=4puxx4kJnaQ)
 * [2023-11-07, 12:51:53](https://news.ycombinator.com/item?id=38176177) - [Potato Diet Riff Trial: Sign Up Now, Lol](https://slimemoldtimemold.com/2023/11/03/potato-diet-riff-trial-sign-up-now-lol/)
