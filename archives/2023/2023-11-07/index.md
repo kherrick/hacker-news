@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
+* [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 * [2023-11-07, 22:31:30](https://news.ycombinator.com/item?id=38183960) - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
 * [2023-11-07, 22:30:19](https://news.ycombinator.com/item?id=38183942) - [Whisper v3](https://github.com/openai/whisper/discussions/1762)
 * [2023-11-07, 22:27:24](https://news.ycombinator.com/item?id=38183889) - [Lawmakers push 702 reauthorization requiring warrant to access info on Americans](https://thehill.com/policy/national-security/4298234-section-702-fisa-reauthorization-warrant-americans/)
