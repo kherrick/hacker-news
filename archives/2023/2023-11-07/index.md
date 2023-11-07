@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 12:51:53](https://news.ycombinator.com/item?id=38176177) - [Potato Diet Riff Trial: Sign Up Now, Lol](https://slimemoldtimemold.com/2023/11/03/potato-diet-riff-trial-sign-up-now-lol/)
+* [2023-11-07, 12:42:31](https://news.ycombinator.com/item?id=38176113) - [Videos of Godotcon 2023](https://media.ccc.de/c/godotcon2023)
+* [2023-11-07, 12:33:03](https://news.ycombinator.com/item?id=38176053) - [Ex-Kotaku staff go independent and launch Aftermath](https://aftermath.site/welcome-to-aftermath)
 * [2023-11-07, 12:25:10](https://news.ycombinator.com/item?id=38176006) - [Whole Earth Catalog 1968 [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
 * [2023-11-07, 12:08:16](https://news.ycombinator.com/item?id=38175909) - [Toxic toddler fruit pouches: \"high\" lead levels sicken 7 in 5 states](https://arstechnica.com/health/2023/11/toxic-toddler-fruit-pouches-extremely-high-lead-levels-sicken-7-in-5-states/)
 * [2023-11-07, 12:00:33](https://news.ycombinator.com/item?id=38175863) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-11-07, 11:59:34](https://news.ycombinator.com/item?id=38175854) - [A person who has had Parkinson's disease for 25 years can now walk again](https://english.elpais.com/science-tech/2023-11-06/a-person-who-has-had-parkinsons-disease-for-25-years-can-now-walk-again-thanks-to-a-neuroprosthesis.html)
+* [2023-11-07, 11:44:54](https://news.ycombinator.com/item?id=38175746) - [Contraceptive pills might impair fear-regulating regions in women's brains](https://blog.frontiersin.org/2023/11/07/contraceptive-pills-fear-regulating-womens-brains/)
 * [2023-11-07, 10:57:01](https://news.ycombinator.com/item?id=38175413) - [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
 * [2023-11-07, 10:39:35](https://news.ycombinator.com/item?id=38175311) - [Iknowwhatyoudownload.com – Torrent Activity Checker](https://iknowwhatyoudownload.com/en/peer/)
 * [2023-11-07, 09:51:14](https://news.ycombinator.com/item?id=38175026) - [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
