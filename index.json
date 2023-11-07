@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-07, 03:29:11",
+      "https://news.ycombinator.com/item?id=38172877"
+    ],
+    [
+      "Valve officially releases SteamVR 2.0",
+      "https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 02:55:45",
       "https://news.ycombinator.com/item?id=38172617"
     ],
@@ -177,16 +187,6 @@
     [
       "A linear algebra trick for computing Fibonacci numbers fast",
       "https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 13:25:17",
-      "https://news.ycombinator.com/item?id=38162275"
-    ],
-    [
-      "A new home and license (AGPL) for Synapse and friends",
-      "https://element.io/blog/element-to-adopt-agplv3/"
     ]
   ],
   [
