@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 21:26:50](https://news.ycombinator.com/item?id=38183079) - [Biogen-Sage Therapeutics postpartum depression pill priced at $15900](https://www.reuters.com/business/healthcare-pharmaceuticals/biogen-sage-therapeutics-postpartum-depression-pill-priced-15900-2023-11-07/)
 * [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
 * [2023-11-07, 20:57:02](https://news.ycombinator.com/item?id=38182712) - [Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
 * [2023-11-07, 20:36:43](https://news.ycombinator.com/item?id=38182461) - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
@@ -23,7 +24,6 @@
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-07, 12:25:10](https://news.ycombinator.com/item?id=38176006) - [Whole Earth Catalog (1968) [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
 * [2023-11-07, 10:57:01](https://news.ycombinator.com/item?id=38175413) - [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
-* [2023-11-06, 14:18:39](https://news.ycombinator.com/item?id=38162881) - [The coolest robot I've ever built [video]](https://www.youtube.com/watch?v=bO-DWWFolPw)
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 04:54:39](https://news.ycombinator.com/item?id=38159004) - [MISRA C](https://en.wikipedia.org/wiki/MISRA_C)
 * [2023-11-06, 01:19:10](https://news.ycombinator.com/item?id=38157684) - [The Uprising of Mesopunk Books](https://bookriot.com/mesopunk-books/)
