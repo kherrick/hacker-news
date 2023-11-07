@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-07, 22:31:30](https://news.ycombinator.com/item?id=38183960) - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
-* [2023-11-07, 22:30:19](https://news.ycombinator.com/item?id=38183942) - [Whisper v3](https://github.com/openai/whisper/discussions/1762)
 * [2023-11-07, 22:27:24](https://news.ycombinator.com/item?id=38183889) - [Lawmakers push 702 reauthorization requiring warrant to access info on Americans](https://thehill.com/policy/national-security/4298234-section-702-fisa-reauthorization-warrant-americans/)
 * [2023-11-07, 22:19:01](https://news.ycombinator.com/item?id=38183798) - [Device keeps brain alive, functioning separate from body](https://www.utsouthwestern.edu/newsroom/articles/year-2023/oct-device-keeps-brain-alive.html)
 * [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
@@ -27,6 +26,7 @@
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 01:27:45](https://news.ycombinator.com/item?id=38157730) - [The Trouble with Books](https://arnoldkling.substack.com/p/the-trouble-with-books)
+* [2023-11-06, 01:19:10](https://news.ycombinator.com/item?id=38157684) - [The Uprising of Mesopunk Books](https://bookriot.com/mesopunk-books/)
 * [2023-11-05, 20:49:51](https://news.ycombinator.com/item?id=38155517) - [Linksys WRT54G and WRT54GS power supply (2005)](http://kioan.users.uth.gr/wireless/wrt54g/supply.html)
 * [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 * [2023-11-05, 12:25:02](https://news.ycombinator.com/item?id=38150522) - [Formalising modern research mathematics in real time](https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/)
