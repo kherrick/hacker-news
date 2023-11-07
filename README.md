@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 19:03:19](https://news.ycombinator.com/item?id=38181259) - [Core Web Vitals saved users 10k years of waiting for web pages to load](https://blog.chromium.org/2023/11/how-core-web-vitals-saved-users-10000.html)
 * [2023-11-07, 18:52:21](https://news.ycombinator.com/item?id=38181114) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight makes Alan Wake 2 shine](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 18:17:18](https://news.ycombinator.com/item?id=38180618) - [Google researchers deal a major blow to the theory AI about to outsmart humans](https://www.businessinsider.com/google-researchers-have-turned-agi-race-upside-down-with-paper-2023-11)
@@ -12,7 +13,6 @@
 * [2023-11-07, 17:39:16](https://news.ycombinator.com/item?id=38180014) - [U.S. military members' personal data being sold by online brokers](https://www.axios.com/2023/11/06/military-data-sold-for-cents-cheap-privacy)
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
 * [2023-11-07, 16:39:40](https://news.ycombinator.com/item?id=38179003) - [Oracle Employee Helped Cocaine Dealers Hide $54M in Crypto, DOJ Says](https://www.forbes.com/sites/thomasbrewster/2023/11/07/oracle-staffer-helped-cocaine-dealers-hide-54-million-in-cryptocurrency-doj-says/)
-* [2023-11-07, 16:12:17](https://news.ycombinator.com/item?id=38178582) - [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
 * [2023-11-07, 16:06:52](https://news.ycombinator.com/item?id=38178492) - [Real vs. fake AirPods with industrial CT](https://www.lumafield.com/article/real-vs-fake-apple-products-through-industrial-ct-airpods-pro-macbook-magsafe-charger)
 * [2023-11-07, 15:54:55](https://news.ycombinator.com/item?id=38178297) - [ELTP: Extending ELT for Modern AI and Analytics](https://airbyte.com/blog/eltp-extending-elt-for-modern-ai-and-analytics)
 * [2023-11-07, 15:48:58](https://news.ycombinator.com/item?id=38178207) - [Doing a Job (1982)](https://govleaders.org/rickover.htm)
