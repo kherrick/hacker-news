@@ -28,8 +28,8 @@
 * [2023-11-06, 09:18:26](https://news.ycombinator.com/item?id=38160357) - [IBM Rebus](https://www.ibm.com/design/language/ibm-logos/rebus/)
 * [2023-11-05, 21:57:21](https://news.ycombinator.com/item?id=38156060) - [Microdot](https://microdot.readthedocs.io/en/latest/index.html)
 * [2023-11-05, 21:36:36](https://news.ycombinator.com/item?id=38155899) - [Acid's First Convert, Cary Grant: On Edward J. Delaney's \"The Acrobat\"](https://lareviewofbooks.org/article/acids-first-convert-cary-grant-on-edward-j-delaneys-the-acrobat/)
+* [2023-11-05, 14:16:50](https://news.ycombinator.com/item?id=38151299) - [How did people deal with punch cards?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
 * [2023-11-05, 12:25:02](https://news.ycombinator.com/item?id=38150522) - [Formalising modern research mathematics in real time](https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/)
-* [2023-11-05, 11:51:03](https://news.ycombinator.com/item?id=38150333) - [Suzuki Omnichord Heaven](http://www.suzukimusic.co.uk/omnichord-heaven/index.html)
 
 ## [Archives](archives/index.md)
 
