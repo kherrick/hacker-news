@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt, Capping Co-Working Company's Downfall](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
+* [2023-11-07, 02:21:39](https://news.ycombinator.com/item?id=38172380) - [Epic vs. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
 * [2023-11-07, 01:37:39](https://news.ycombinator.com/item?id=38172016) - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
 * [2023-11-07, 00:59:10](https://news.ycombinator.com/item?id=38171648) - [Apple's Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
 * [2023-11-07, 00:39:43](https://news.ycombinator.com/item?id=38171483) - [Playstation is cutting off X sharing options](https://www.theverge.com/2023/11/6/23949343/playstation-x-sharing-options-ps5-ps4)

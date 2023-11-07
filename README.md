@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 02:29:55](https://news.ycombinator.com/item?id=38172437) - [WeWork Goes Bankrupt, Capping Co-Working Company's Downfall](https://www.bloomberg.com/news/articles/2023-11-07/wework-goes-bankrupt-capping-co-working-company-s-downfall)
+* [2023-11-07, 02:21:39](https://news.ycombinator.com/item?id=38172380) - [Epic vs. Google: a battle over Fortnite fees goes to court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
 * [2023-11-07, 01:37:39](https://news.ycombinator.com/item?id=38172016) - [Tesla drivers can now disable remote access in privacy win](https://cleanenergyrevolution.co/2023/11/06/tesla-drivers-can-now-disable-remote-access-in-privacy-win/)
 * [2023-11-07, 00:59:10](https://news.ycombinator.com/item?id=38171648) - [Apple's Trademark Exploit](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/)
-* [2023-11-07, 00:38:41](https://news.ycombinator.com/item?id=38171475) - [Intel BE200 WiFi 7 cards locked to 14th gen CPU and Z790 chipset](https://twitter.com/ghost_motley/status/1721646985688601023)
 * [2023-11-07, 00:22:39](https://news.ycombinator.com/item?id=38171322) - [Bluesky migrates to single-tenant SQLite](https://github.com/bluesky-social/atproto/pull/1705)
 * [2023-11-06, 23:46:43](https://news.ycombinator.com/item?id=38170980) - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
 * [2023-11-06, 22:46:28](https://news.ycombinator.com/item?id=38170226) - [Online Order Has Been Delivered–and It's Teeny Tiny](https://www.wsj.com/business/retail/online-order-miniature-tiny-d9911da8)
@@ -22,7 +23,6 @@
 * [2023-11-06, 12:04:44](https://news.ycombinator.com/item?id=38161452) - [Show HN: Ladder, open source alternative to 12ft.io and 1ft.io](https://github.com/kubero-dev/ladder)
 * [2023-11-06, 11:54:39](https://news.ycombinator.com/item?id=38161369) - [Ask HN: What are you passionate about at the moment?](https://news.ycombinator.com/item?id=38161369)
 * [2023-11-06, 09:18:26](https://news.ycombinator.com/item?id=38160357) - [IBM Rebus](https://www.ibm.com/design/language/ibm-logos/rebus/)
-* [2023-11-06, 03:03:23](https://news.ycombinator.com/item?id=38158309) - [milliForth](https://github.com/fuzzballcat/milliForth)
 * [2023-11-05, 21:02:28](https://news.ycombinator.com/item?id=38155613) - [The original birders gave photography a run for its money](https://www.nytimes.com/2023/11/03/books/the-original-birders-gave-photography-a-run-for-its-money.html)
 * [2023-11-05, 15:11:42](https://news.ycombinator.com/item?id=38151776) - [Scientists create artificial protein that can degrade PET plastics in bottles](https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html)
 * [2023-11-05, 14:16:50](https://news.ycombinator.com/item?id=38151299) - [How did people deal with punch cards?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
