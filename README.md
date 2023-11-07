@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
+* [2023-11-07, 07:25:26](https://news.ycombinator.com/item?id=38174128) - [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
 * [2023-11-07, 05:03:04](https://news.ycombinator.com/item?id=38173457) - [Bhutan sterilised and vaccinated 100% of their street dog population](https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/)
 * [2023-11-07, 04:41:10](https://news.ycombinator.com/item?id=38173326) - [NASA's On-Demand Streaming Service, NASA+ (Official Trailer)](https://www.youtube.com/watch?v=TJRiuF8tQJU)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
@@ -14,7 +15,6 @@
 * [2023-11-06, 19:31:05](https://news.ycombinator.com/item?id=38167604) - [Parkinson's patient able to walk 6km without problems after spinal implant](https://www.theguardian.com/society/2023/nov/06/parkinsons-patient-able-to-walk-6km-without-problems-after-spinal-implant)
 * [2023-11-06, 19:19:04](https://news.ycombinator.com/item?id=38167423) - [Building a Streaming Platform in Go for Postgres](https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres)
 * [2023-11-06, 19:15:32](https://news.ycombinator.com/item?id=38167363) - [Show HN: Inshellisense – IDE style shell autocomplete](https://github.com/microsoft/inshellisense)
-* [2023-11-06, 18:18:44](https://news.ycombinator.com/item?id=38166431) - [GPTs: Custom versions of ChatGPT](https://openai.com/blog/introducing-gpts)
 * [2023-11-06, 18:17:58](https://news.ycombinator.com/item?id=38166420) - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 17:58:53](https://news.ycombinator.com/item?id=38166098) - [UHZ1: NASA telescopes discover record-breaking black hole](https://chandra.si.edu/photo/2023/uhz1/)
 * [2023-11-06, 14:30:00](https://news.ycombinator.com/item?id=38163037) - [Exploring the Macintosh ROM (2019)](https://macgui.com/news/article.php?t=493)
