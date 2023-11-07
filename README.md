@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 21:49:53](https://news.ycombinator.com/item?id=38183394) - [Asahi Linux folks are doing us a solid with WPA3 fixes](https://rachelbythebay.com/w/2023/11/07/wpa3/)
 * [2023-11-07, 21:46:42](https://news.ycombinator.com/item?id=38183338) - [Ex-Meta employee says his warnings of Instagram's harm to teens were ignored](https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media)
 * [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
 * [2023-11-07, 20:57:02](https://news.ycombinator.com/item?id=38182712) - [Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
@@ -9,11 +10,9 @@
 * [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 19:07:35](https://news.ycombinator.com/item?id=38181308) - [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
 * [2023-11-07, 19:04:39](https://news.ycombinator.com/item?id=38181280) - [I Got the Fed to Release Its 2011 \"Treasury Default\" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
-* [2023-11-07, 18:59:06](https://news.ycombinator.com/item?id=38181200) - [The pyramid of Gunung Padang began construction in the deep past, study claims](https://www.vice.com/en/article/dy35mx/a-prehistoric-pyramid-may-have-just-rewritten-human-history-scientists-claim)
 * [2023-11-07, 18:52:21](https://news.ycombinator.com/item?id=38181114) - [Article 45 of eIDAS 2.0 will roll back web security by 12 years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
-* [2023-11-07, 18:01:47](https://news.ycombinator.com/item?id=38180402) - [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more [audio]](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
 * [2023-11-07, 17:55:06](https://news.ycombinator.com/item?id=38180292) - [Vitess 18](https://planetscale.com/blog/announcing-vitess-18)
 * [2023-11-07, 17:39:16](https://news.ycombinator.com/item?id=38180014) - [U.S. military members' personal data being sold by online brokers](https://www.axios.com/2023/11/06/military-data-sold-for-cents-cheap-privacy)
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
@@ -29,6 +28,7 @@
 * [2023-11-06, 01:19:10](https://news.ycombinator.com/item?id=38157684) - [The Uprising of Mesopunk Books](https://bookriot.com/mesopunk-books/)
 * [2023-11-05, 21:57:21](https://news.ycombinator.com/item?id=38156060) - [Microdot](https://microdot.readthedocs.io/en/latest/index.html)
 * [2023-11-05, 20:49:51](https://news.ycombinator.com/item?id=38155517) - [Linksys WRT54G and WRT54GS power supply (2005)](http://kioan.users.uth.gr/wireless/wrt54g/supply.html)
+* [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 * [2023-11-05, 12:25:02](https://news.ycombinator.com/item?id=38150522) - [Formalising modern research mathematics in real time](https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/)
 
 ## [Archives](archives/index.md)

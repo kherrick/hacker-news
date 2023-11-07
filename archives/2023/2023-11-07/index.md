@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 21:49:53](https://news.ycombinator.com/item?id=38183394) - [Asahi Linux folks are doing us a solid with WPA3 fixes](https://rachelbythebay.com/w/2023/11/07/wpa3/)
 * [2023-11-07, 21:46:42](https://news.ycombinator.com/item?id=38183338) - [Ex-Meta employee says his warnings of Instagram's harm to teens were ignored](https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media)
 * [2023-11-07, 21:26:50](https://news.ycombinator.com/item?id=38183079) - [Biogen-Sage Therapeutics postpartum depression pill priced at $15900](https://www.reuters.com/business/healthcare-pharmaceuticals/biogen-sage-therapeutics-postpartum-depression-pill-priced-15900-2023-11-07/)
 * [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
