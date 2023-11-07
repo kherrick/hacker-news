@@ -11,6 +11,7 @@
 * [2023-11-07, 19:04:39](https://news.ycombinator.com/item?id=38181280) - [I Got the Fed to Release Its 2011 \"Treasury Default\" Playbook](https://www.crisesnotes.com/i-got-the-fed-to-release-its-2011-treasury-default-playbook-heres-what-it-says-and-why-it-matters/)
 * [2023-11-07, 19:03:19](https://news.ycombinator.com/item?id=38181259) - [Core Web Vitals saved users 10k years of waiting for web pages to load](https://blog.chromium.org/2023/11/how-core-web-vitals-saved-users-10000.html)
 * [2023-11-07, 18:52:21](https://news.ycombinator.com/item?id=38181114) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
+* [2023-11-07, 18:42:33](https://news.ycombinator.com/item?id=38180981) - [After big drop in ISP competition, Canada mandates fiber-network sharing](https://arstechnica.com/tech-policy/2023/11/canada-forces-large-fiber-isps-to-share-networks-with-small-competitors/)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight makes Alan Wake 2 shine](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 18:17:18](https://news.ycombinator.com/item?id=38180618) - [Google researchers deal a major blow to the theory AI about to outsmart humans](https://www.businessinsider.com/google-researchers-have-turned-agi-race-upside-down-with-paper-2023-11)
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
