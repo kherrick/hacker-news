@@ -57,6 +57,7 @@
 * [2023-11-05, 12:26:13](https://news.ycombinator.com/item?id=38150534) - [Psychedelics researcher approached his death with calm and curiosity](https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation)
 * [2023-11-05, 12:18:13](https://news.ycombinator.com/item?id=38150486) - [Effective Neovim: An Instant IDE [video]](https://www.youtube.com/watch?v=stqUbv-5u2s)
 * [2023-11-05, 12:00:18](https://news.ycombinator.com/item?id=38150387) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-11-05, 11:51:03](https://news.ycombinator.com/item?id=38150333) - [Suzuki Omnichord Heaven](http://www.suzukimusic.co.uk/omnichord-heaven/index.html)
 * [2023-11-05, 11:50:51](https://news.ycombinator.com/item?id=38150331) - [University of Minnesota Gopher software licensing policy (1993)](https://www.nic.funet.fi/pub/vms/networking/gopher/gopher-software-licensing-policy.ancient)
 * [2023-11-05, 11:29:19](https://news.ycombinator.com/item?id=38150187) - [Toyota to begin steer-by-wire production in 2024](https://www.autocar.co.uk/car-news/new-cars/toyota-begin-steer-wire-production-2024)
 * [2023-11-05, 11:12:58](https://news.ycombinator.com/item?id=38150101) - [IMSI-Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/)
