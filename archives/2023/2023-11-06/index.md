@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 23:51:24](https://news.ycombinator.com/item?id=38171038) - [Google's Web Integrity Android API could kill alternative media clients](https://arstechnica.com/google/2023/11/google-kills-web-integrity-drm-for-the-web-still-wants-an-android-version/)
+* [2023-11-06, 23:46:43](https://news.ycombinator.com/item?id=38170980) - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
+* [2023-11-06, 23:35:27](https://news.ycombinator.com/item?id=38170848) - [Cruise Knew Its Self-Driving Cars Had Problems Recognizing Children](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/)
 * [2023-11-06, 22:58:44](https://news.ycombinator.com/item?id=38170388) - [U.S. net saving as a percentage of gross national income](https://fred.stlouisfed.org/series/W207RC1Q156SBEA)
+* [2023-11-06, 22:46:28](https://news.ycombinator.com/item?id=38170226) - [Online Order Has Been Delivered–and It's Teeny Tiny](https://www.wsj.com/business/retail/online-order-miniature-tiny-d9911da8)
 * [2023-11-06, 22:12:39](https://news.ycombinator.com/item?id=38169816) - [Happy 20th Birthday to Inkscape](https://inkscape.gitlab.io/inkscape-docs/awesome-web-pages/20th_anniversary/#frame4804)
 * [2023-11-06, 22:11:12](https://news.ycombinator.com/item?id=38169800) - [Israel downing Houthi missile is first instance of space warfare](https://www.jpost.com/israel-news/defense-news/article-771910)
 * [2023-11-06, 22:01:55](https://news.ycombinator.com/item?id=38169665) - [OpenChat surpass ChatGPT and Grok on various benchmarks](https://github.com/imoneoi/openchat)
@@ -64,6 +68,7 @@
 * [2023-11-06, 13:02:58](https://news.ycombinator.com/item?id=38162028) - [Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)](https://users.monash.edu/~damian/papers/HTML/Perligata.html)
 * [2023-11-06, 13:00:22](https://news.ycombinator.com/item?id=38161997) - [A Video Game That Pays: Lessons Learned from Working Remotely](https://dtransposed.github.io/blog/2023/11/02/Remote-SWE/)
 * [2023-11-06, 12:51:03](https://news.ycombinator.com/item?id=38161889) - [Dating apps lose their luster with college students](https://www.axios.com/2023/11/05/dating-apps-college-students-tinder-bumble)
+* [2023-11-06, 12:35:55](https://news.ycombinator.com/item?id=38161743) - [Technology Holy Wars Are Coordination Problems (2020)](https://gwern.net/holy-war)
 * [2023-11-06, 12:27:27](https://news.ycombinator.com/item?id=38161637) - [Noam Chomsky: The five filters of the mass media](https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/)
 * [2023-11-06, 12:24:43](https://news.ycombinator.com/item?id=38161617) - [My 1976 KIM-1](https://blog.jgc.org/2023/11/my-1976-kim-1.html)
 * [2023-11-06, 12:23:32](https://news.ycombinator.com/item?id=38161603) - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
