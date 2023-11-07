@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 18:17:18](https://news.ycombinator.com/item?id=38180618) - [Google researchers deal a major blow to the theory AI about to outsmart humans](https://www.businessinsider.com/google-researchers-have-turned-agi-race-upside-down-with-paper-2023-11)
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
 * [2023-11-07, 18:01:47](https://news.ycombinator.com/item?id=38180402) - [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
 * [2023-11-07, 17:55:06](https://news.ycombinator.com/item?id=38180292) - [Vitess 18](https://planetscale.com/blog/announcing-vitess-18)
@@ -23,7 +24,6 @@
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-07, 12:25:10](https://news.ycombinator.com/item?id=38176006) - [Whole Earth Catalog (1968) [pdf]](https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf)
 * [2023-11-07, 10:57:01](https://news.ycombinator.com/item?id=38175413) - [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
-* [2023-11-07, 04:30:01](https://news.ycombinator.com/item?id=38173266) - [Speeding up a program for a 50 year old processor](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
 * [2023-11-06, 14:18:39](https://news.ycombinator.com/item?id=38162881) - [The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
 * [2023-11-05, 21:57:21](https://news.ycombinator.com/item?id=38156060) - [Microdot](https://microdot.readthedocs.io/en/latest/index.html)

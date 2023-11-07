@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 18:17:18](https://news.ycombinator.com/item?id=38180618) - [Google researchers deal a major blow to the theory AI about to outsmart humans](https://www.businessinsider.com/google-researchers-have-turned-agi-race-upside-down-with-paper-2023-11)
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing Like a Bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
 * [2023-11-07, 18:01:47](https://news.ycombinator.com/item?id=38180402) - [FTC Chair Lina Khan on AI regulation, startup acquisitions, and more](https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/)
 * [2023-11-07, 17:55:06](https://news.ycombinator.com/item?id=38180292) - [Vitess 18](https://planetscale.com/blog/announcing-vitess-18)
