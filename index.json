@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-07, 01:46:57",
-      "https://news.ycombinator.com/item?id=38172096"
-    ],
-    [
-      "Mozilla will move Firefox development from Mercurial to Microsoft's GitHub",
-      "https://devclass.com/2023/11/07/mozilla-will-move-firefox-development-from-mercurial-to-microsofts-github/"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 01:37:39",
       "https://news.ycombinator.com/item?id=38172016"
     ],
@@ -197,6 +187,16 @@
     [
       "A new home and license (AGPL) for Synapse and friends",
       "https://element.io/blog/element-to-adopt-agplv3/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 13:02:58",
+      "https://news.ycombinator.com/item?id=38162028"
+    ],
+    [
+      "Lingua::Romana::Perligata – Perl for the XXIimum Century (2017)",
+      "https://users.monash.edu/~damian/papers/HTML/Perligata.html"
     ]
   ],
   [
