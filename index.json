@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-07, 10:39:35",
+      "https://news.ycombinator.com/item?id=38175311"
+    ],
+    [
+      "Iknowwhatyoudownload.com – Torrent Activity Checker",
+      "https://iknowwhatyoudownload.com/en/peer/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 09:51:14",
       "https://news.ycombinator.com/item?id=38175026"
     ],
@@ -137,16 +147,6 @@
     [
       "QUIK is a method for quantizing LLM post-training weights to 4 bit precision",
       "https://github.com/IST-DASLab/QUIK"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 19:19:04",
-      "https://news.ycombinator.com/item?id=38167423"
-    ],
-    [
-      "Building a Streaming Platform in Go for Postgres",
-      "https://blog.peerdb.io/building-a-streaming-platform-in-go-for-postgres"
     ]
   ],
   [
