@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-07, 16:51:41](https://news.ycombinator.com/item?id=38179200) - [Transformers struggle with generalizing tasks beyond pre-training data](https://arxiv.org/abs/2311.00871)
 * [2023-11-07, 16:12:57](https://news.ycombinator.com/item?id=38178592) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 16:12:17](https://news.ycombinator.com/item?id=38178582) - [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
 * [2023-11-07, 16:11:29](https://news.ycombinator.com/item?id=38178570) - [Shein reportedly seeks $90B valuation in IPO](https://techcrunch.com/2023/11/06/shein-reportedly-seeks-90-billion-valuation-in-ipo/)
@@ -25,7 +26,6 @@
 * [2023-11-07, 06:25:31](https://news.ycombinator.com/item?id=38173835) - [\"I cannot wait to possess you\": Reading 18th century letters for the first time](https://arstechnica.com/science/2023/11/lost-letters-of-18th-century-french-sailors-have-been-read-for-the-first-time/)
 * [2023-11-07, 04:30:01](https://news.ycombinator.com/item?id=38173266) - [Speeding up a program for a 50 year old processor](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-07, 04:08:18](https://news.ycombinator.com/item?id=38173141) - [PostgreSQL Encryption: The Available Options](https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html)
-* [2023-11-06, 14:30:00](https://news.ycombinator.com/item?id=38163037) - [Exploring the Macintosh ROM (2019)](https://macgui.com/news/article.php?t=493)
 * [2023-11-06, 14:18:39](https://news.ycombinator.com/item?id=38162881) - [The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
 * [2023-11-06, 12:18:26](https://news.ycombinator.com/item?id=38161560) - [Strong evidence for new light isotope of nitrogen](https://phys.org/news/2023-10-strong-evidence-isotope-nitrogen.html)
 * [2023-11-05, 21:57:21](https://news.ycombinator.com/item?id=38156060) - [Microdot](https://microdot.readthedocs.io/en/latest/index.html)

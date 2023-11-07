@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 16:51:41](https://news.ycombinator.com/item?id=38179200) - [Transformers struggle with generalizing tasks beyond pre-training data](https://arxiv.org/abs/2311.00871)
 * [2023-11-07, 16:12:57](https://news.ycombinator.com/item?id=38178592) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 16:12:17](https://news.ycombinator.com/item?id=38178582) - [ICE faces heat after agents install apps, VPNs on official phones](https://www.theregister.com/2023/11/06/ice_device_security/)
 * [2023-11-07, 16:11:29](https://news.ycombinator.com/item?id=38178570) - [Shein reportedly seeks $90B valuation in IPO](https://techcrunch.com/2023/11/06/shein-reportedly-seeks-90-billion-valuation-in-ipo/)
