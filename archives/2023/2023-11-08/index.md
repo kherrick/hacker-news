@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 20:15:32](https://news.ycombinator.com/item?id=38196289) - [Guava: Google core libraries for Java](https://github.com/google/guava)
 * [2023-11-08, 20:07:59](https://news.ycombinator.com/item?id=38196188) - [Another Major Outage Across ChatGPT and API](https://status.openai.com/incidents/21vl32gvx3hb)
 * [2023-11-08, 20:05:36](https://news.ycombinator.com/item?id=38196163) - [Google argues iMessage should be regulated by the EU's Digital Markets Act](https://arstechnica.com/gadgets/2023/11/google-argues-imessage-should-be-regulated-by-the-eus-digital-markets-act/)
 * [2023-11-08, 19:59:05](https://news.ycombinator.com/item?id=38196065) - [A picture is worth a thousand permissions requests](https://sixcolors.com/post/2023/11/a-picture-is-worth-a-thousand-permissions-requests/)

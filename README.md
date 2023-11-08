@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 20:15:32](https://news.ycombinator.com/item?id=38196289) - [Guava: Google core libraries for Java](https://github.com/google/guava)
 * [2023-11-08, 20:07:59](https://news.ycombinator.com/item?id=38196188) - [Another Major Outage Across ChatGPT and API](https://status.openai.com/incidents/21vl32gvx3hb)
 * [2023-11-08, 20:05:36](https://news.ycombinator.com/item?id=38196163) - [Google argues iMessage should be regulated by the EU's Digital Markets Act](https://arstechnica.com/gadgets/2023/11/google-argues-imessage-should-be-regulated-by-the-eus-digital-markets-act/)
 * [2023-11-08, 19:59:05](https://news.ycombinator.com/item?id=38196065) - [A picture is worth a thousand permissions requests](https://sixcolors.com/post/2023/11/a-picture-is-worth-a-thousand-permissions-requests/)
@@ -28,7 +29,6 @@
 * [2023-11-08, 09:54:07](https://news.ycombinator.com/item?id=38188426) - [PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-11-08, 09:07:38](https://news.ycombinator.com/item?id=38188182) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
-* [2023-11-08, 08:10:54](https://news.ycombinator.com/item?id=38187879) - [Shift Left Software Development Process (2022)](https://devopedia.org/shift-left)
 * [2023-11-07, 07:09:27](https://news.ycombinator.com/item?id=38174037) - [And Alexander Wept (2020)](https://www.theparisreview.org/blog/2020/03/19/and-alexander-wept/)
 
 ## [Archives](archives/index.md)
