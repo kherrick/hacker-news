@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-11-08, 20:50:57",
+      "https://news.ycombinator.com/item?id=38196770"
+    ],
+    [
+      "How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb",
+      "https://blog.josephofiowa.com/airbnb-weekend/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 20:24:16",
       "https://news.ycombinator.com/item?id=38196412"
     ],
     [
       "Why SciPy builds for Python 3.12 on Windows are a minor miracle",
       "https://labs.quansight.org/blog/building-scipy-with-flang"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 20:07:59",
-      "https://news.ycombinator.com/item?id=38196188"
-    ],
-    [
-      "Another Major Outage Across ChatGPT and API",
-      "https://status.openai.com/incidents/21vl32gvx3hb"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-11-08, 14:02:39",
+      "https://news.ycombinator.com/item?id=38190401"
+    ],
+    [
+      "Major outages across ChatGPT and API",
+      "https://status.openai.com/incidents/00fpy0yxrx1q"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 13:08:03",
       "https://news.ycombinator.com/item?id=38189840"
     ],
@@ -257,16 +267,6 @@
     [
       "PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)",
       "https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 09:07:38",
-      "https://news.ycombinator.com/item?id=38188182"
-    ],
-    [
-      "Don't disable buttons",
-      "https://gomakethings.com/dont-disable-buttons/"
     ]
   ],
   [
