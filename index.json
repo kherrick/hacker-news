@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-08, 03:14:44",
-      "https://news.ycombinator.com/item?id=38186303"
-    ],
-    [
-      "Smart garage door controller is no longer smart",
-      "https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 02:53:20",
       "https://news.ycombinator.com/item?id=38186190"
     ],
@@ -297,6 +287,16 @@
     [
       "M/o/Vfuscator: A single instruction C compiler",
       "https://github.com/Battelle/movfuscator"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 12:25:02",
+      "https://news.ycombinator.com/item?id=38150522"
+    ],
+    [
+      "Formalising modern research mathematics in real time",
+      "https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/"
     ]
   ]
 ]
