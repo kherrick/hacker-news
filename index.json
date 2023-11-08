@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-11-08, 04:03:01",
+      "https://news.ycombinator.com/item?id=38186633"
+    ],
+    [
+      "Prompts – Lightweight, beautiful and user-friendly interactive prompts",
+      "https://github.com/terkelg/prompts"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 03:50:56",
       "https://news.ycombinator.com/item?id=38186554"
     ],
@@ -187,16 +197,6 @@
     [
       "Tumble Forth",
       "http://tumbleforth.hardcoded.net/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 23:04:21",
-      "https://news.ycombinator.com/item?id=38184339"
-    ],
-    [
-      "WasmFX: Effect Handlers for WebAssembly",
-      "https://wasmfx.dev/"
     ]
   ],
   [
