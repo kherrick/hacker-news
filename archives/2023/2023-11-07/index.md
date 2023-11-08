@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 23:52:14](https://news.ycombinator.com/item?id=38184833) - [Water-injected 2.0-liter hydrogen engine makes 410 horsepower](https://www.motor1.com/news/692276/tiny-race-engine-gas-diesel-hydrogen/)
+* [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 * [2023-11-07, 23:44:13](https://news.ycombinator.com/item?id=38184750) - [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:14:09](https://news.ycombinator.com/item?id=38184426) - [GPT-4-turbo preliminary benchmark results on code-editing](https://aider.chat/docs/benchmarks-1106.html)
