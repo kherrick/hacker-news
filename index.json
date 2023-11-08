@@ -1,11 +1,41 @@
 [
   [
     [
+      "2023-11-08, 16:54:58",
+      "https://news.ycombinator.com/item?id=38193196"
+    ],
+    [
+      "SoftBank paid $1.5B to WeWork lenders days before bankruptcy",
+      "https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 16:53:25",
+      "https://news.ycombinator.com/item?id=38193168"
+    ],
+    [
+      "An exonerated 'Central Park Five' member will win a New York City Council seat",
+      "https://www.npr.org/2023/11/07/1211319472/exonerated-central-park-five-member-is-set-to-win-seat-on-new-york-city-council"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 15:53:57",
+      "https://news.ycombinator.com/item?id=38192152"
+    ],
+    [
+      "Why Has Stoicism Gained Popularity in Modern Times?",
+      "https://www.thecollector.com/why-has-stoicism-gained-popularity-in-modern-times/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 15:43:14",
       "https://news.ycombinator.com/item?id=38191972"
     ],
     [
-      "You Can Now Film in NYPD Precincts, Thanks to YouTuber's Lawsuit",
+      "NYPD barred from telling people they can't film in precinct stations",
       "https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber"
     ]
   ],
@@ -27,16 +57,6 @@
     [
       "Quake Brutalist Jam II",
       "https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 15:00:04",
-      "https://news.ycombinator.com/item?id=38191285"
-    ],
-    [
-      "Ask HN: What's the most interesting (non-AI) advancement in tech in 2023?",
-      "https://news.ycombinator.com/item?id=38191285"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-11-08, 14:00:02",
-      "https://news.ycombinator.com/item?id=38190369"
-    ],
-    [
-      "US Smartphone Shipments Decline 19% in Q3 2023 as More Americans Delay Upgrade",
-      "https://www.counterpointresearch.com/insights/us-smartphone-shipments-decline-19-yoy-in-q3-2023-as-more-americans-delay-smartphone-upgrade/"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 13:13:41",
       "https://news.ycombinator.com/item?id=38189878"
     ],
@@ -137,6 +147,16 @@
     [
       "EU's concealment of secret 'expert list' on CSAM regulation is maladministration",
       "https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 12:52:58",
+      "https://news.ycombinator.com/item?id=38189720"
+    ],
+    [
+      "The open-stack library: a futuristic technology from the 18th century",
+      "https://resobscura.substack.com/p/the-open-stack-library-a-futuristic"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-11-08, 10:16:53",
-      "https://news.ycombinator.com/item?id=38188555"
-    ],
-    [
-      "Trouble Brewing for RISC-V as Issue of Technology Transfer Is Questioned",
-      "https://hackaday.com/2023/11/07/trouble-brewing-for-risc-v-as-issue-of-technology-transfer-is-questioned/"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 09:54:07",
       "https://news.ycombinator.com/item?id=38188426"
     ],
     [
       "PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)",
       "https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 09:52:48",
-      "https://news.ycombinator.com/item?id=38188421"
-    ],
-    [
-      "There's Math.random(), and then there's Math.random() (2015)",
-      "https://v8.dev/blog/math-random"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-11-08, 03:50:56",
-      "https://news.ycombinator.com/item?id=38186554"
-    ],
-    [
-      "Like Clippy but for the CLI",
-      "https://github.com/dave1010/clipea"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 02:49:03",
       "https://news.ycombinator.com/item?id=38186153"
     ],
     [
       "Interactive examples for learning jq",
       "https://ishan.page/blog/2023-11-06-jq-by-example/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 20:17:53",
+      "https://news.ycombinator.com/item?id=38182197"
+    ],
+    [
+      "Whither Philosophy?",
+      "https://aeon.co/essays/since-when-is-philosophy-a-branch-of-the-self-help-industry"
     ]
   ],
   [
