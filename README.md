@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-08, 15:09:46](https://news.ycombinator.com/item?id=38191439) - [Investigation disproves Israel claim of Hamas tunnel under Gaza hospital](https://www.aljazeera.com/news/2023/11/8/investigation-disproves-israel-claim-of-hamas-tunnel-under-gaza-hospital)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 14:52:17](https://news.ycombinator.com/item?id=38191151) - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
 * [2023-11-08, 14:28:00](https://news.ycombinator.com/item?id=38190730) - [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
@@ -25,6 +24,7 @@
 * [2023-11-08, 03:50:56](https://news.ycombinator.com/item?id=38186554) - [Like Clippy but for the CLI](https://github.com/dave1010/clipea)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
+* [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-06, 09:49:38](https://news.ycombinator.com/item?id=38160540) - [Minimalist Affordances: Making the Right Tradeoffs](https://lea.verou.me/blog/2023/minimalist-affordances/)
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
