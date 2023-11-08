@@ -4,7 +4,6 @@
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 01:48:11](https://news.ycombinator.com/item?id=38185720) - [Government Surveillance Reform Act of '23 Seeks to End Warrantless Police Spying](https://www.wired.com/story/government-surveillance-reform-act-2023/)
-* [2023-11-08, 00:31:59](https://news.ycombinator.com/item?id=38185188) - [ChatGPT for Dummies book available as free PDF download (until 11/15/2023)](https://newsbreaks.infotoday.com/Digest/A-Review-of-emChatGPT-for-Dummiesem-161297.asp)
 * [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
@@ -20,7 +19,6 @@
 * [2023-11-07, 19:07:35](https://news.ycombinator.com/item?id=38181308) - [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
-* [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
 * [2023-11-07, 15:48:58](https://news.ycombinator.com/item?id=38178207) - [Doing a Job (1982)](https://govleaders.org/rickover.htm)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
@@ -28,8 +26,10 @@
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 07:58:14](https://news.ycombinator.com/item?id=38159905) - [Perfect Dark: Recompiled](https://hackaday.com/2023/11/05/perfect-dark-recompiled/)
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
+* [2023-11-06, 01:19:10](https://news.ycombinator.com/item?id=38157684) - [The Uprising of Mesopunk Books](https://bookriot.com/mesopunk-books/)
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The quest for modularity (2022)](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The fight between cataphiles and police in the Paris catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
+* [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 
 ## [Archives](archives/index.md)
 
