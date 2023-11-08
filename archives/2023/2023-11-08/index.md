@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:14:14](https://news.ycombinator.com/item?id=38185925) - [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
 * [2023-11-08, 00:56:05](https://news.ycombinator.com/item?id=38185373) - [AGI Is Being Achieved Incrementally](https://www.latent.space/p/devday)
