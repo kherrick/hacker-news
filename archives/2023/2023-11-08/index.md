@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 15:43:14](https://news.ycombinator.com/item?id=38191972) - [You Can Now Film in NYPD Precincts, Thanks to YouTuber's Lawsuit](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
 * [2023-11-08, 15:09:46](https://news.ycombinator.com/item?id=38191439) - [Investigation disproves Israel claim of Hamas tunnel under Gaza hospital](https://www.aljazeera.com/news/2023/11/8/investigation-disproves-israel-claim-of-hamas-tunnel-under-gaza-hospital)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 15:00:04](https://news.ycombinator.com/item?id=38191285) - [Ask HN: What's the most interesting (non-AI) advancement in tech in 2023?](https://news.ycombinator.com/item?id=38191285)

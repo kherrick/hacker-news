@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 15:43:14](https://news.ycombinator.com/item?id=38191972) - [You Can Now Film in NYPD Precincts, Thanks to YouTuber's Lawsuit](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
-* [2023-11-08, 15:00:04](https://news.ycombinator.com/item?id=38191285) - [Ask HN: What's the most interesting (non-AI) advancement in tech in 2023?](https://news.ycombinator.com/item?id=38191285)
 * [2023-11-08, 14:52:17](https://news.ycombinator.com/item?id=38191151) - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
 * [2023-11-08, 14:28:00](https://news.ycombinator.com/item?id=38190730) - [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
 * [2023-11-08, 14:22:16](https://news.ycombinator.com/item?id=38190645) - [Swedish unions strike: Blocks mail and package deliveries for Tesla](https://www.seko.se/press-och-aktuellt/nyheter/2023/seko-stoppar-brev-och-paket-till-tesla/)
