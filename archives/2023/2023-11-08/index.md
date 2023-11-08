@@ -6,6 +6,7 @@
 
 * [2023-11-08, 19:27:10](https://news.ycombinator.com/item?id=38195629) - [Highly invasive backdoor snuck into open source packages targets developers](https://arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/)
 * [2023-11-08, 19:07:42](https://news.ycombinator.com/item?id=38195329) - [New Docs Reveal US DHS Conspiracy to Violate First Amendment](https://public.substack.com/p/new-documents-reveal-us-department)
+* [2023-11-08, 19:01:59](https://news.ycombinator.com/item?id=38195231) - [End DEI](https://www.tabletmag.com/sections/news/articles/end-dei-bari-weiss-jews)
 * [2023-11-08, 18:58:07](https://news.ycombinator.com/item?id=38195174) - [Humanity Just Witnessed Its First Space Battle](https://gizmodo.com/israel-houthi-missile-first-battle-in-space-1850999081)
 * [2023-11-08, 18:49:42](https://news.ycombinator.com/item?id=38195053) - [Operating systems with Rust – video lectures](https://rust-class.org/pages/classes.html)
 * [2023-11-08, 18:43:49](https://news.ycombinator.com/item?id=38194948) - [The housing market is starting to crack – Sellers are cutting prices](https://fortune.com/2023/11/06/housing-market-record-number-sellers-cut-asking-price-october-redfin/)
