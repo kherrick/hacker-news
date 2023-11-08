@@ -8,6 +8,7 @@
 * [2023-11-08, 02:55:32](https://news.ycombinator.com/item?id=38186203) - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:14:14](https://news.ycombinator.com/item?id=38185925) - [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
+* [2023-11-08, 01:20:05](https://news.ycombinator.com/item?id=38185530) - [Panama observes EST all year. Daylight Saving Time has never been used here](https://www.timeanddate.com/time/change/panama/panama)
 * [2023-11-08, 00:56:05](https://news.ycombinator.com/item?id=38185373) - [AGI Is Being Achieved Incrementally](https://www.latent.space/p/devday)
 * [2023-11-08, 00:46:17](https://news.ycombinator.com/item?id=38185306) - [The Software Engineer's Guidebook](https://www.engguidebook.com/)
 * [2023-11-08, 00:01:16](https://news.ycombinator.com/item?id=38184925) - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)

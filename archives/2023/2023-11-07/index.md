@@ -68,6 +68,7 @@
 * [2023-11-07, 15:31:27](https://news.ycombinator.com/item?id=38177927) - [Overheating datacenter stopped 2.5M bank transactions](https://www.theregister.com/2023/11/07/overheating_datacenter_singapore/)
 * [2023-11-07, 15:27:22](https://news.ycombinator.com/item?id=38177875) - [Why the case for Rust is not particularly compelling](https://tednesday.wordpress.com/2023/11/07/why-the-case-for-rust-is-not-particularly-compelling/)
 * [2023-11-07, 15:19:56](https://news.ycombinator.com/item?id=38177769) - [Ask HN: How do you keep up with advances in AI-assisted programming techniques?](https://news.ycombinator.com/item?id=38177769)
+* [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-07, 15:15:44](https://news.ycombinator.com/item?id=38177712) - [LAPD considering stronger body camera policy in light of recent scandals](https://www.latimes.com/california/story/2023-10-26/lapd-considering-stronger-body-camera-policy)
 * [2023-11-07, 15:14:48](https://news.ycombinator.com/item?id=38177702) - [44% of US job postings have salary info in them](https://directlyapply.com/blog/an-update-on-salary-transparency-in-job-posts-november-2023)
 * [2023-11-07, 14:52:19](https://news.ycombinator.com/item?id=38177409) - [The OpenAI Keynote](https://stratechery.com/2023/the-openai-keynote/)
