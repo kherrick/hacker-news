@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-11-08, 15:53:57",
-      "https://news.ycombinator.com/item?id=38192152"
-    ],
-    [
-      "Why has stoicism gained popularity in modern times?",
-      "https://www.thecollector.com/why-has-stoicism-gained-popularity-in-modern-times/"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 15:43:14",
       "https://news.ycombinator.com/item?id=38191972"
     ],
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2023-11-08, 15:00:04",
-      "https://news.ycombinator.com/item?id=38191285"
+      "2023-11-08, 14:52:17",
+      "https://news.ycombinator.com/item?id=38191151"
     ],
     [
-      "Ask HN: What's the most interesting (non-AI) advancement in tech in 2023?",
-      "https://news.ycombinator.com/item?id=38191285"
+      "Build a Lightweight Code Generator with TypeScript and JSON Imports",
+      "https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'",
       "https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 03:50:56",
+      "https://news.ycombinator.com/item?id=38186554"
+    ],
+    [
+      "Like Clippy but for the CLI",
+      "https://github.com/dave1010/clipea"
     ]
   ],
   [
