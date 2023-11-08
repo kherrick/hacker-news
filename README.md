@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 09:54:07](https://news.ycombinator.com/item?id=38188426) - [PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-11-08, 09:07:38](https://news.ycombinator.com/item?id=38188182) - [Don't Disable Buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 08:54:48](https://news.ycombinator.com/item?id=38188108) - [Legendary Semiconductor Physicist Simon Sze is no more](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
 * [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
-* [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
 * [2023-11-08, 06:39:00](https://news.ycombinator.com/item?id=38187430) - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 * [2023-11-08, 03:50:56](https://news.ycombinator.com/item?id=38186554) - [Like Clippy but for the CLI](https://github.com/dave1010/clipea)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 09:54:07](https://news.ycombinator.com/item?id=38188426) - [PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-11-08, 09:07:38](https://news.ycombinator.com/item?id=38188182) - [Don't Disable Buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 08:54:48](https://news.ycombinator.com/item?id=38188108) - [Legendary Semiconductor Physicist Simon Sze is no more](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
 * [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
