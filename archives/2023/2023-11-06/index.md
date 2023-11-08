@@ -92,6 +92,7 @@
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 09:54:22](https://news.ycombinator.com/item?id=38160570) - [The Elements of Dynamic Symmetry (1919) [pdf]](https://archive.org/details/bwb_O8-BPR-190)
 * [2023-11-06, 09:53:47](https://news.ycombinator.com/item?id=38160566) - [Adding Roman Numeral Literals to Python](https://peps.python.org/pep-0313/)
+* [2023-11-06, 09:49:38](https://news.ycombinator.com/item?id=38160540) - [Minimalist Affordances: Making the Right Tradeoffs](https://lea.verou.me/blog/2023/minimalist-affordances/)
 * [2023-11-06, 09:40:30](https://news.ycombinator.com/item?id=38160485) - [Tesla to build 25,000-euro car at German plant](https://www.reuters.com/business/autos-transportation/tesla-build-25000-euro-car-german-plant-source-2023-11-06/)
 * [2023-11-06, 09:35:19](https://news.ycombinator.com/item?id=38160454) - [Cool Continuum: Make Your Mark in the Arts](https://medium.com/@coolcontinuum/the-composer-continuum-35396e5d09bc)
 * [2023-11-06, 09:29:36](https://news.ycombinator.com/item?id=38160425) - [Wikipedia admin unmasks self as sockpuppet of other admin banned in 2015](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-11-06/Arbitration_report)
