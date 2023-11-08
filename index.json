@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 06:50:19",
+      "https://news.ycombinator.com/item?id=38187479"
+    ],
+    [
+      "EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation",
+      "https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 06:44:00",
       "https://news.ycombinator.com/item?id=38187450"
     ],
@@ -287,16 +297,6 @@
     [
       "The fight between cataphiles and police in the Paris catacombs",
       "https://www.atlasobscura.com/articles/strange-maps-paris-catacombs"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 12:33:39",
-      "https://news.ycombinator.com/item?id=38150587"
-    ],
-    [
-      "M/o/Vfuscator: A single instruction C compiler",
-      "https://github.com/Battelle/movfuscator"
     ]
   ]
 ]
