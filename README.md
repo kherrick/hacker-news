@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 11:41:27](https://news.ycombinator.com/item?id=38189084) - [Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections](https://www.theregister.com/2023/11/08/europe_eidas_browser/)
 * [2023-11-08, 11:24:19](https://news.ycombinator.com/item?id=38188938) - [Banning E2EE Is Stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:41:35](https://news.ycombinator.com/item?id=38188689) - [Hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
@@ -8,6 +9,7 @@
 * [2023-11-08, 09:54:07](https://news.ycombinator.com/item?id=38188426) - [PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 08:54:48](https://news.ycombinator.com/item?id=38188108) - [Legendary Semiconductor Physicist Simon Sze has died](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
+* [2023-11-08, 08:27:41](https://news.ycombinator.com/item?id=38187972) - [Most Video Game Artwork Will Never Be Seen](https://aftermath.site/most-video-game-artwork-will-never-be-seen)
 * [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
@@ -18,8 +20,6 @@
 * [2023-11-07, 21:54:14](https://news.ycombinator.com/item?id=38183470) - [Enough polynomials and linear algebra to implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 21:53:29](https://news.ycombinator.com/item?id=38183454) - [Gleam: a type safe language on the Erlang VM](https://gleam.run/)
 * [2023-11-07, 21:40:30](https://news.ycombinator.com/item?id=38183259) - [What the QWAC? an EV Certificate all over again](https://scotthelme.co.uk/what-the-qwac/)
-* [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What does and doesn't matter about Apple shooting their October event on iPhone](https://prolost.com/blog/scarybts)
-* [2023-11-07, 20:57:02](https://news.ycombinator.com/item?id=38182712) - [Core to core latency data on large systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
 * [2023-11-07, 20:36:43](https://news.ycombinator.com/item?id=38182461) - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
 * [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
