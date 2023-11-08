@@ -101,6 +101,7 @@
 * [2023-11-07, 08:46:34](https://news.ycombinator.com/item?id=38174614) - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
 * [2023-11-07, 07:25:26](https://news.ycombinator.com/item?id=38174128) - [You don't need to work on hard problems](https://www.benkuhn.net/hard/)
+* [2023-11-07, 07:09:27](https://news.ycombinator.com/item?id=38174037) - [And Alexander Wept (2020)](https://www.theparisreview.org/blog/2020/03/19/and-alexander-wept/)
 * [2023-11-07, 06:52:48](https://news.ycombinator.com/item?id=38173961) - [Camus on Tour](https://www.nybooks.com/articles/2023/11/23/camus-on-tour-travels-in-the-americas/)
 * [2023-11-07, 06:25:31](https://news.ycombinator.com/item?id=38173835) - [\"I cannot wait to possess you\": Reading 18th century letters for the first time](https://arstechnica.com/science/2023/11/lost-letters-of-18th-century-french-sailors-have-been-read-for-the-first-time/)
 * [2023-11-07, 06:14:22](https://news.ycombinator.com/item?id=38173787) - [Do deepfake videos undermine our epistemic trust?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668)

@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 18:58:07](https://news.ycombinator.com/item?id=38195174) - [Humanity Just Witnessed Its First Space Battle](https://gizmodo.com/israel-houthi-missile-first-battle-in-space-1850999081)
+* [2023-11-08, 18:49:42](https://news.ycombinator.com/item?id=38195053) - [Operating systems with Rust – video lectures](https://rust-class.org/pages/classes.html)
+* [2023-11-08, 18:43:49](https://news.ycombinator.com/item?id=38194948) - [The housing market is starting to crack – Sellers are cutting prices](https://fortune.com/2023/11/06/housing-market-record-number-sellers-cut-asking-price-october-redfin/)
 * [2023-11-08, 18:35:59](https://news.ycombinator.com/item?id=38194818) - [After luring customers with low prices, Amazon stuffs Fire TVs with ads](https://arstechnica.com/gadgets/2023/11/after-luring-customers-with-low-prices-amazon-stuffs-fire-tvs-with-ads/)
 * [2023-11-08, 18:31:51](https://news.ycombinator.com/item?id=38194756) - [Gunung Padang buried prehistoric pyramid in West Java, Indonesia](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912)
+* [2023-11-08, 18:30:10](https://news.ycombinator.com/item?id=38194733) - [Open Observatory of Network Interference](https://ooni.org/)
 * [2023-11-08, 18:11:01](https://news.ycombinator.com/item?id=38194433) - [FDA Approves Lilly's Zepbound (Tirzepatide) for Chronic Weight Management](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-zepboundtm-tirzepatide-chronic-weight)
 * [2023-11-08, 18:04:23](https://news.ycombinator.com/item?id=38194359) - [Texas produces twice as much methane as better regulated neighbor, study finds](https://www.theguardian.com/us-news/2023/nov/08/texas-methane-oil-and-gas-study-climate)
 * [2023-11-08, 17:54:27](https://news.ycombinator.com/item?id=38194206) - [Adobe Is Selling AI-Generated Images of Violence in Gaza and Israel](https://www.vice.com/en/article/3akj3k/adobe-is-selling-fake-ai-generated-images-of-violence-in-gaza-and-israel)
