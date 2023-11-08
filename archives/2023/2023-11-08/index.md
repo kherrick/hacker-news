@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 19:07:42](https://news.ycombinator.com/item?id=38195329) - [New Docs Reveal US DHS Conspiracy to Violate First Amendment](https://public.substack.com/p/new-documents-reveal-us-department)
 * [2023-11-08, 18:58:07](https://news.ycombinator.com/item?id=38195174) - [Humanity Just Witnessed Its First Space Battle](https://gizmodo.com/israel-houthi-missile-first-battle-in-space-1850999081)
 * [2023-11-08, 18:49:42](https://news.ycombinator.com/item?id=38195053) - [Operating systems with Rust – video lectures](https://rust-class.org/pages/classes.html)
 * [2023-11-08, 18:43:49](https://news.ycombinator.com/item?id=38194948) - [The housing market is starting to crack – Sellers are cutting prices](https://fortune.com/2023/11/06/housing-market-record-number-sellers-cut-asking-price-october-redfin/)

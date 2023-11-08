@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 19:07:42](https://news.ycombinator.com/item?id=38195329) - [New Docs Reveal US DHS Conspiracy to Violate First Amendment](https://public.substack.com/p/new-documents-reveal-us-department)
 * [2023-11-08, 18:58:07](https://news.ycombinator.com/item?id=38195174) - [Humanity Just Witnessed Its First Space Battle](https://gizmodo.com/israel-houthi-missile-first-battle-in-space-1850999081)
 * [2023-11-08, 18:49:42](https://news.ycombinator.com/item?id=38195053) - [Operating systems with Rust – video lectures (2014)](https://rust-class.org/pages/classes.html)
 * [2023-11-08, 18:43:49](https://news.ycombinator.com/item?id=38194948) - [The housing market is starting to crack – Sellers are cutting prices](https://fortune.com/2023/11/06/housing-market-record-number-sellers-cut-asking-price-october-redfin/)
@@ -12,7 +13,6 @@
 * [2023-11-08, 17:19:27](https://news.ycombinator.com/item?id=38193640) - [Automerge-Repo: A \"batteries-included\" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 17:04:02](https://news.ycombinator.com/item?id=38193354) - [Inside the weird and delightful origins of the jungle gym, which just turned 100](https://www.npr.org/2023/11/08/1209932614/jungle-gym-playground-monkey-bars-maths-hinton-fourth-dimension)
-* [2023-11-08, 15:43:14](https://news.ycombinator.com/item?id=38191972) - [NYPD barred from telling people they can't film in precinct stations](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Major Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
 * [2023-11-08, 13:08:03](https://news.ycombinator.com/item?id=38189840) - [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/)
