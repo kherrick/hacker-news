@@ -101,6 +101,7 @@
 * [2023-11-06, 08:36:45](https://news.ycombinator.com/item?id=38160085) - [Scientists Are Researching a Device That Can Induce Lucid Dreams on Demand](https://www.vice.com/en/article/m7bxdx/scientists-are-researching-a-device-that-can-induce-lucid-dreams-on-demand)
 * [2023-11-06, 08:35:16](https://news.ycombinator.com/item?id=38160079) - [Ask HN: How do you start a research based company?](https://news.ycombinator.com/item?id=38160079)
 * [2023-11-06, 08:03:57](https://news.ycombinator.com/item?id=38159927) - [01-AI/Yi: A series of large language models trained from scratch](https://github.com/01-ai/Yi)
+* [2023-11-06, 07:58:14](https://news.ycombinator.com/item?id=38159905) - [Perfect Dark: Recompiled](https://hackaday.com/2023/11/05/perfect-dark-recompiled/)
 * [2023-11-06, 07:36:45](https://news.ycombinator.com/item?id=38159795) - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
 * [2023-11-06, 07:29:56](https://news.ycombinator.com/item?id=38159762) - [The Adventure Radio Protocol](https://qrper.com/2023/11/what-is-the-adventure-radio-protocol/)
 * [2023-11-06, 07:23:39](https://news.ycombinator.com/item?id=38159735) - [Developers Guide to Moving to Denmark](https://matduggan.com/developers-guide-to-moving-to-denmark/)
