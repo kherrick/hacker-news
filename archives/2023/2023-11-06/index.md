@@ -104,6 +104,7 @@
 * [2023-11-06, 07:36:45](https://news.ycombinator.com/item?id=38159795) - [On Letting Go of Spite](https://ewanvalentine.io/blog/on-letting-go-of-spite)
 * [2023-11-06, 07:29:56](https://news.ycombinator.com/item?id=38159762) - [The Adventure Radio Protocol](https://qrper.com/2023/11/what-is-the-adventure-radio-protocol/)
 * [2023-11-06, 07:23:39](https://news.ycombinator.com/item?id=38159735) - [Developers Guide to Moving to Denmark](https://matduggan.com/developers-guide-to-moving-to-denmark/)
+* [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 * [2023-11-06, 05:28:49](https://news.ycombinator.com/item?id=38159199) - [MIT physicists turn pencil lead into electronic gold](https://physics.mit.edu/news/mit-physicists-turn-pencil-lead-into-gold/)
 * [2023-11-06, 04:54:39](https://news.ycombinator.com/item?id=38159004) - [MISRA C](https://en.wikipedia.org/wiki/MISRA_C)
 * [2023-11-06, 04:47:15](https://news.ycombinator.com/item?id=38158952) - [Gaza experienced its third total communications blackout](https://thehill.com/policy/international/4294864-gaza-loses-telecom-contact-again/)
