@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 20:15:32",
+      "https://news.ycombinator.com/item?id=38196289"
+    ],
+    [
+      "Guava: Google core libraries for Java",
+      "https://github.com/google/guava"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 20:07:59",
       "https://news.ycombinator.com/item?id=38196188"
     ],
@@ -277,16 +287,6 @@
     [
       "Home Assistant blocked from integrating with Garage Door opener API",
       "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 08:10:54",
-      "https://news.ycombinator.com/item?id=38187879"
-    ],
-    [
-      "Shift Left Software Development Process (2022)",
-      "https://devopedia.org/shift-left"
     ]
   ],
   [
