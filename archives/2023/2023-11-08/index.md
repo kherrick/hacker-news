@@ -11,6 +11,7 @@
 * [2023-11-08, 06:39:00](https://news.ycombinator.com/item?id=38187430) - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 * [2023-11-08, 06:12:21](https://news.ycombinator.com/item?id=38187301) - [\"I'm calling from Israeli intelligence\"](https://www.bbc.co.uk/news/world-middle-east-67327079)
 * [2023-11-08, 04:33:01](https://news.ycombinator.com/item?id=38186828) - [Google Bard introduces \"Human reviewers,\" sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
+* [2023-11-08, 03:50:56](https://news.ycombinator.com/item?id=38186554) - [Like Clippy but for the CLI](https://github.com/dave1010/clipea)
 * [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 * [2023-11-08, 02:55:32](https://news.ycombinator.com/item?id=38186203) - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
