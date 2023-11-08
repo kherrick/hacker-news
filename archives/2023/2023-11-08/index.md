@@ -17,6 +17,7 @@
 * [2023-11-08, 17:39:13](https://news.ycombinator.com/item?id=38193978) - [Is AI the Next Crypto? Insights from 2M HN Comments](https://openpipe.ai/blog/hn-ai-crypto)
 * [2023-11-08, 17:19:27](https://news.ycombinator.com/item?id=38193640) - [Automerge-Repo: A \"batteries-included\" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
+* [2023-11-08, 17:04:02](https://news.ycombinator.com/item?id=38193354) - [Inside the weird and delightful origins of the jungle gym, which just turned 100](https://www.npr.org/2023/11/08/1209932614/jungle-gym-playground-monkey-bars-maths-hinton-fourth-dimension)
 * [2023-11-08, 16:54:58](https://news.ycombinator.com/item?id=38193196) - [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
 * [2023-11-08, 16:53:25](https://news.ycombinator.com/item?id=38193168) - [An exonerated 'Central Park Five' member will win a New York City Council seat](https://www.npr.org/2023/11/07/1211319472/exonerated-central-park-five-member-is-set-to-win-seat-on-new-york-city-council)
 * [2023-11-08, 16:47:28](https://news.ycombinator.com/item?id=38193042) - [Vacuum in optical cavity can change material magnetic state wo laser excitation](https://phys.org/news/2023-11-vacuum-optical-cavity-material-magnetic.html)
