@@ -5,6 +5,7 @@
 * [2023-11-08, 20:15:32](https://news.ycombinator.com/item?id=38196289) - [Guava: Google core libraries for Java](https://github.com/google/guava)
 * [2023-11-08, 19:59:05](https://news.ycombinator.com/item?id=38196065) - [A picture is worth a thousand permissions requests](https://sixcolors.com/post/2023/11/a-picture-is-worth-a-thousand-permissions-requests/)
 * [2023-11-08, 19:56:01](https://news.ycombinator.com/item?id=38196008) - [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://github.com/widgetti/wanderlust)
+* [2023-11-08, 19:43:11](https://news.ycombinator.com/item?id=38195856) - [Microservices aren't the problem. Incompetent people are](https://nondv.wtf/blog/posts/microservices-arent-the-problem-incompetent-people-are.html)
 * [2023-11-08, 19:32:15](https://news.ycombinator.com/item?id=38195718) - [$200M Gift Propels Scientific Research in the Search for Life Beyond Earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
 * [2023-11-08, 19:20:02](https://news.ycombinator.com/item?id=38195509) - [Voters Overwhelmingly Pass Car Right to Repair Law in Maine](https://www.404media.co/voters-overwhelmingly-pass-car-right-to-repair-law-in-maine/)
 * [2023-11-08, 19:14:52](https://news.ycombinator.com/item?id=38195436) - [Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
@@ -29,7 +30,6 @@
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 08:10:54](https://news.ycombinator.com/item?id=38187879) - [Shift Left Software Development Process (2022)](https://devopedia.org/shift-left)
 * [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
-* [2023-11-07, 07:09:27](https://news.ycombinator.com/item?id=38174037) - [And Alexander Wept (2020)](https://www.theparisreview.org/blog/2020/03/19/and-alexander-wept/)
 
 ## [Archives](archives/index.md)
 

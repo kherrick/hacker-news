@@ -12,6 +12,7 @@
 * [2023-11-08, 19:59:05](https://news.ycombinator.com/item?id=38196065) - [A picture is worth a thousand permissions requests](https://sixcolors.com/post/2023/11/a-picture-is-worth-a-thousand-permissions-requests/)
 * [2023-11-08, 19:59:02](https://news.ycombinator.com/item?id=38196063) - [CIA: All Foreign Governments](https://www.cia.gov/resources/world-leaders/foreign-governments/)
 * [2023-11-08, 19:56:01](https://news.ycombinator.com/item?id=38196008) - [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://github.com/widgetti/wanderlust)
+* [2023-11-08, 19:43:11](https://news.ycombinator.com/item?id=38195856) - [Microservices aren't the problem. Incompetent people are](https://nondv.wtf/blog/posts/microservices-arent-the-problem-incompetent-people-are.html)
 * [2023-11-08, 19:32:15](https://news.ycombinator.com/item?id=38195718) - [$200M Gift Propels Scientific Research in the Search for Life Beyond Earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
 * [2023-11-08, 19:27:10](https://news.ycombinator.com/item?id=38195629) - [Highly invasive backdoor snuck into open source packages targets developers](https://arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/)
 * [2023-11-08, 19:20:02](https://news.ycombinator.com/item?id=38195509) - [Voters Overwhelmingly Pass Car Right to Repair Law in Maine](https://www.404media.co/voters-overwhelmingly-pass-car-right-to-repair-law-in-maine/)
