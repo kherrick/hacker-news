@@ -16,5 +16,6 @@
 * [2023-11-08, 01:20:05](https://news.ycombinator.com/item?id=38185530) - [Panama observes EST all year. Daylight Saving Time has never been used here](https://www.timeanddate.com/time/change/panama/panama)
 * [2023-11-08, 00:56:05](https://news.ycombinator.com/item?id=38185373) - [AGI Is Being Achieved Incrementally](https://www.latent.space/p/devday)
 * [2023-11-08, 00:46:17](https://news.ycombinator.com/item?id=38185306) - [The Software Engineer's Guidebook](https://www.engguidebook.com/)
+* [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
 * [2023-11-08, 00:31:59](https://news.ycombinator.com/item?id=38185188) - [ChatGPT for Dummies book available as free PDF download (until 11/15/2023)](https://newsbreaks.infotoday.com/Digest/A-Review-of-emChatGPT-for-Dummiesem-161297.asp)
 * [2023-11-08, 00:01:16](https://news.ycombinator.com/item?id=38184925) - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)

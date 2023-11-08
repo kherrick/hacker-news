@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
-* [2023-11-08, 06:12:21](https://news.ycombinator.com/item?id=38187301) - [\"I'm calling from Israeli intelligence\"](https://www.bbc.co.uk/news/world-middle-east-67327079)
 * [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
-* [2023-11-08, 01:48:11](https://news.ycombinator.com/item?id=38185720) - [Government Surveillance Reform Act of '23 Seeks to End Warrantless Police Spying](https://www.wired.com/story/government-surveillance-reform-act-2023/)
+* [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
 * [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
@@ -26,10 +25,11 @@
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-07, 06:52:48](https://news.ycombinator.com/item?id=38173961) - [Camus on Tour](https://www.nybooks.com/articles/2023/11/23/camus-on-tour-travels-in-the-americas/)
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
-* [2023-11-06, 07:58:14](https://news.ycombinator.com/item?id=38159905) - [Perfect Dark: Recompiled](https://hackaday.com/2023/11/05/perfect-dark-recompiled/)
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The quest for modularity (2022)](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
+* [2023-11-05, 20:50:44](https://news.ycombinator.com/item?id=38155524) - [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The fight between cataphiles and police in the Paris catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
+* [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 
 ## [Archives](archives/index.md)
 
