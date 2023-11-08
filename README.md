@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 06:50:19](https://news.ycombinator.com/item?id=38187479) - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
 * [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
 * [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
@@ -29,7 +30,6 @@
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The quest for modularity (2022)](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 20:50:44](https://news.ycombinator.com/item?id=38155524) - [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The fight between cataphiles and police in the Paris catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
-* [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 
 ## [Archives](archives/index.md)
 
