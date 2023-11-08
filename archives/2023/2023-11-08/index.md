@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Partial Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
+* [2023-11-08, 14:00:02](https://news.ycombinator.com/item?id=38190369) - [US Smartphone Shipments Decline 19% in Q3 2023 as More Americans Delay Upgrade](https://www.counterpointresearch.com/insights/us-smartphone-shipments-decline-19-yoy-in-q3-2023-as-more-americans-delay-smartphone-upgrade/)
 * [2023-11-08, 13:13:41](https://news.ycombinator.com/item?id=38189878) - [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
+* [2023-11-08, 13:08:03](https://news.ycombinator.com/item?id=38189840) - [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/)
 * [2023-11-08, 13:00:53](https://news.ycombinator.com/item?id=38189790) - [EU's concealment of secret 'expert list' on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
 * [2023-11-08, 12:45:09](https://news.ycombinator.com/item?id=38189638) - [Show HN: Modeling Berlin subway lines in graph database](https://memgraph.com/blog/ridding-the-berlin-subway-graph-database-adventure-with-memgraph-lab)
 * [2023-11-08, 11:41:27](https://news.ycombinator.com/item?id=38189084) - [Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections](https://www.theregister.com/2023/11/08/europe_eidas_browser/)
