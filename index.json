@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-11-08, 20:15:32",
-      "https://news.ycombinator.com/item?id=38196289"
-    ],
-    [
-      "Guava: Google core libraries for Java",
-      "https://github.com/google/guava"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 20:07:59",
       "https://news.ycombinator.com/item?id=38196188"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2023-11-08, 14:02:39",
-      "https://news.ycombinator.com/item?id=38190401"
-    ],
-    [
-      "Major Outage Across ChatGPT and API",
-      "https://status.openai.com/incidents/00fpy0yxrx1q"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 13:08:03",
       "https://news.ycombinator.com/item?id=38189840"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-11-08, 09:07:38",
+      "https://news.ycombinator.com/item?id=38188182"
+    ],
+    [
+      "Don't disable buttons",
+      "https://gomakethings.com/dont-disable-buttons/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 09:04:18",
       "https://news.ycombinator.com/item?id=38188162"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-11-07, 07:09:27",
-      "https://news.ycombinator.com/item?id=38174037"
+      "2023-11-08, 08:10:54",
+      "https://news.ycombinator.com/item?id=38187879"
     ],
     [
-      "And Alexander Wept (2020)",
-      "https://www.theparisreview.org/blog/2020/03/19/and-alexander-wept/"
+      "Shift Left Software Development Process (2022)",
+      "https://devopedia.org/shift-left"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 20:58:34",
+      "https://news.ycombinator.com/item?id=38182732"
+    ],
+    [
+      "TESS discovers Saturn-like planet orbiting an M-dwarf star",
+      "https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html"
     ]
   ]
 ]
