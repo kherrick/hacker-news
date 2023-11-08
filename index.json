@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-08, 04:33:01",
-      "https://news.ycombinator.com/item?id=38186828"
-    ],
-    [
-      "Google Bard introduces \"Human reviewers,\" sparking privacy concerns",
-      "https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 03:14:44",
       "https://news.ycombinator.com/item?id=38186303"
     ],
@@ -297,6 +287,16 @@
     [
       "The fight between cataphiles and police in the Paris catacombs",
       "https://www.atlasobscura.com/articles/strange-maps-paris-catacombs"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 12:33:39",
+      "https://news.ycombinator.com/item?id=38150587"
+    ],
+    [
+      "M/o/Vfuscator: A single instruction C compiler",
+      "https://github.com/Battelle/movfuscator"
     ]
   ]
 ]
