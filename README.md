@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-08, 15:43:14](https://news.ycombinator.com/item?id=38191972) - [You Can Now Film in NYPD Precincts, Thanks to YouTuber's Lawsuit](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
+* [2023-11-08, 15:23:17](https://news.ycombinator.com/item?id=38191673) - [The problem isn't inflation. It's prices. What goes up may not come down](https://www.vox.com/money/2023/11/8/23951098/economy-inflation-prices-job-market-sticker-shock)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 15:00:04](https://news.ycombinator.com/item?id=38191285) - [Ask HN: What's the most interesting (non-AI) advancement in tech in 2023?](https://news.ycombinator.com/item?id=38191285)
 * [2023-11-08, 14:52:17](https://news.ycombinator.com/item?id=38191151) - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
@@ -9,7 +10,7 @@
 * [2023-11-08, 14:19:20](https://news.ycombinator.com/item?id=38190600) - [Workers in Sweden Will Expand Strike Against Tesla](https://www.nytimes.com/2023/11/07/world/europe/sweden-tesla-strike.html)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Major Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
 * [2023-11-08, 14:00:02](https://news.ycombinator.com/item?id=38190369) - [US Smartphone Shipments Decline 19% in Q3 2023 as More Americans Delay Upgrade](https://www.counterpointresearch.com/insights/us-smartphone-shipments-decline-19-yoy-in-q3-2023-as-more-americans-delay-smartphone-upgrade/)
-* [2023-11-08, 13:13:41](https://news.ycombinator.com/item?id=38189878) - [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
+* [2023-11-08, 13:13:41](https://news.ycombinator.com/item?id=38189878) - [Wikipedia became the last good place on the internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
 * [2023-11-08, 13:08:03](https://news.ycombinator.com/item?id=38189840) - [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/)
 * [2023-11-08, 13:07:55](https://news.ycombinator.com/item?id=38189838) - [Intermittent fasting more effective than calorie restriction](https://pubmed.ncbi.nlm.nih.gov/37889487/)
 * [2023-11-08, 13:00:53](https://news.ycombinator.com/item?id=38189790) - [EU's concealment of secret 'expert list' on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
@@ -28,7 +29,6 @@
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-06, 09:49:38](https://news.ycombinator.com/item?id=38160540) - [Minimalist Affordances: Making the Right Tradeoffs](https://lea.verou.me/blog/2023/minimalist-affordances/)
-* [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 * [2023-11-05, 20:50:44](https://news.ycombinator.com/item?id=38155524) - [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
 
 ## [Archives](archives/index.md)
