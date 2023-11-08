@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-08, 21:59:36](https://news.ycombinator.com/item?id=38197715) - [Microsoft won't let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
-* [2023-11-08, 21:16:46](https://news.ycombinator.com/item?id=38197184) - [Understanding Dual Polarized Antenna](https://www.acceltex.com/understanding-the-awesomeness-of-dual-polarized-antennas-for-high-density/)
-* [2023-11-08, 21:12:30](https://news.ycombinator.com/item?id=38197117) - [Daryl Davis Befriends KKK Members and Gets Them to Quit](https://allthatsinteresting.com/daryl-davis)
 * [2023-11-08, 20:50:57](https://news.ycombinator.com/item?id=38196770) - [How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb](https://blog.josephofiowa.com/airbnb-weekend/)
+* [2023-11-08, 20:42:32](https://news.ycombinator.com/item?id=38196661) - [Punica: Serving multiple LoRA finetuned LLM as one](https://github.com/punica-ai/punica)
 * [2023-11-08, 20:41:34](https://news.ycombinator.com/item?id=38196644) - [Interesting Bugs Caught by ESLint's no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
 * [2023-11-08, 20:24:16](https://news.ycombinator.com/item?id=38196412) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 20:15:32](https://news.ycombinator.com/item?id=38196289) - [Guava: Google core libraries for Java](https://github.com/google/guava)
@@ -22,6 +21,7 @@
 * [2023-11-08, 17:04:02](https://news.ycombinator.com/item?id=38193354) - [Inside the weird and delightful origins of the jungle gym, which just turned 100](https://www.npr.org/2023/11/08/1209932614/jungle-gym-playground-monkey-bars-maths-hinton-fourth-dimension)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Major outages across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
+* [2023-11-08, 13:08:03](https://news.ycombinator.com/item?id=38189840) - [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/)
 * [2023-11-08, 12:52:58](https://news.ycombinator.com/item?id=38189720) - [The open-stack library: a futuristic technology from the 18th century](https://resobscura.substack.com/p/the-open-stack-library-a-futuristic)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:49:08](https://news.ycombinator.com/item?id=38188734) - [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
