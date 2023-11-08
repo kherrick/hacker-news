@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-08, 13:13:41](https://news.ycombinator.com/item?id=38189878) - [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
+* [2023-11-08, 13:00:53](https://news.ycombinator.com/item?id=38189790) - [EU's concealment of secret 'expert list' on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
 * [2023-11-08, 11:24:19](https://news.ycombinator.com/item?id=38188938) - [Banning E2EE is stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:49:08](https://news.ycombinator.com/item?id=38188734) - [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
@@ -19,7 +20,6 @@
 * [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
-* [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
 * [2023-11-07, 20:36:43](https://news.ycombinator.com/item?id=38182461) - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
 * [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)

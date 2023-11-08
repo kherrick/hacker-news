@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
 * [2023-11-08, 13:13:41](https://news.ycombinator.com/item?id=38189878) - [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
+* [2023-11-08, 13:00:53](https://news.ycombinator.com/item?id=38189790) - [EU's concealment of secret 'expert list' on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
 * [2023-11-08, 11:41:27](https://news.ycombinator.com/item?id=38189084) - [Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections](https://www.theregister.com/2023/11/08/europe_eidas_browser/)
 * [2023-11-08, 11:24:19](https://news.ycombinator.com/item?id=38188938) - [Banning E2EE Is Stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
