@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 10:41:35](https://news.ycombinator.com/item?id=38188689) - [Hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
 * [2023-11-08, 10:25:45](https://news.ycombinator.com/item?id=38188614) - [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
 * [2023-11-08, 09:54:07](https://news.ycombinator.com/item?id=38188426) - [PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-11-08, 09:07:38](https://news.ycombinator.com/item?id=38188182) - [Don't Disable Buttons](https://gomakethings.com/dont-disable-buttons/)
@@ -17,7 +18,6 @@
 * [2023-11-07, 21:54:14](https://news.ycombinator.com/item?id=38183470) - [Enough polynomials and linear algebra to implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 21:53:29](https://news.ycombinator.com/item?id=38183454) - [Gleam: a type safe language on the Erlang VM](https://gleam.run/)
 * [2023-11-07, 21:40:30](https://news.ycombinator.com/item?id=38183259) - [What the QWAC? an EV Certificate all over again](https://scotthelme.co.uk/what-the-qwac/)
-* [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What does and doesn't matter about Apple shooting their October event on iPhone](https://prolost.com/blog/scarybts)
 * [2023-11-07, 20:57:02](https://news.ycombinator.com/item?id=38182712) - [Core to core latency data on large systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
 * [2023-11-07, 20:36:43](https://news.ycombinator.com/item?id=38182461) - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
 * [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
