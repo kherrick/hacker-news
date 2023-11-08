@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 22:39:47](https://news.ycombinator.com/item?id=38198239) - [FBI and Austria's C4 Hit Z-Library with a New Wave of Domain Seizures](https://torrentfreak.com/fbi-austrias-c4-hit-z-library-with-a-massive-new-wave-of-domain-seizures-231108/)
 * [2023-11-08, 21:59:36](https://news.ycombinator.com/item?id=38197715) - [Microsoft won't let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
 * [2023-11-08, 20:50:57](https://news.ycombinator.com/item?id=38196770) - [How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb](https://blog.josephofiowa.com/airbnb-weekend/)
 * [2023-11-08, 20:42:32](https://news.ycombinator.com/item?id=38196661) - [Punica: Serving multiple LoRA finetuned LLM as one](https://github.com/punica-ai/punica)
@@ -7,7 +8,7 @@
 * [2023-11-08, 20:24:16](https://news.ycombinator.com/item?id=38196412) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:56:01](https://news.ycombinator.com/item?id=38196008) - [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://github.com/widgetti/wanderlust)
 * [2023-11-08, 19:43:11](https://news.ycombinator.com/item?id=38195856) - [Microservices aren't the problem. Incompetent people are](https://nondv.wtf/blog/posts/microservices-arent-the-problem-incompetent-people-are.html)
-* [2023-11-08, 19:32:15](https://news.ycombinator.com/item?id=38195718) - [$200M Gift Propels Scientific Research in the Search for Life Beyond Earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
+* [2023-11-08, 19:32:15](https://news.ycombinator.com/item?id=38195718) - [$200M gift propels scientific research in the search for life beyond earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
 * [2023-11-08, 19:20:02](https://news.ycombinator.com/item?id=38195509) - [Voters Overwhelmingly Pass Car Right to Repair Law in Maine](https://www.404media.co/voters-overwhelmingly-pass-car-right-to-repair-law-in-maine/)
 * [2023-11-08, 19:14:52](https://news.ycombinator.com/item?id=38195436) - [Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
 * [2023-11-08, 18:35:59](https://news.ycombinator.com/item?id=38194818) - [After luring customers with low prices, Amazon stuffs Fire TVs with ads](https://arstechnica.com/gadgets/2023/11/after-luring-customers-with-low-prices-amazon-stuffs-fire-tvs-with-ads/)
@@ -25,7 +26,6 @@
 * [2023-11-08, 12:52:58](https://news.ycombinator.com/item?id=38189720) - [The open-stack library: a futuristic technology from the 18th century](https://resobscura.substack.com/p/the-open-stack-library-a-futuristic)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:49:08](https://news.ycombinator.com/item?id=38188734) - [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
-* [2023-11-08, 09:54:07](https://news.ycombinator.com/item?id=38188426) - [PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 08:10:54](https://news.ycombinator.com/item?id=38187879) - [Shift Left Software Development Process (2022)](https://devopedia.org/shift-left)
 * [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
