@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 11:24:19](https://news.ycombinator.com/item?id=38188938) - [Banning E2EE Is Stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:41:35](https://news.ycombinator.com/item?id=38188689) - [Hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
 * [2023-11-08, 10:25:45](https://news.ycombinator.com/item?id=38188614) - [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
@@ -25,7 +26,6 @@
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-07, 06:52:48](https://news.ycombinator.com/item?id=38173961) - [Camus on Tour](https://www.nybooks.com/articles/2023/11/23/camus-on-tour-travels-in-the-americas/)
-* [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 09:49:38](https://news.ycombinator.com/item?id=38160540) - [Minimalist Affordances: Making the Right Tradeoffs](https://lea.verou.me/blog/2023/minimalist-affordances/)
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 * [2023-11-05, 20:50:44](https://news.ycombinator.com/item?id=38155524) - [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)

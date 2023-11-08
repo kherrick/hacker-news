@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 11:24:19](https://news.ycombinator.com/item?id=38188938) - [Banning E2EE Is Stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:41:35](https://news.ycombinator.com/item?id=38188689) - [Hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
 * [2023-11-08, 10:25:45](https://news.ycombinator.com/item?id=38188614) - [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
