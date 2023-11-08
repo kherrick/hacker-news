@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-08, 06:50:19](https://news.ycombinator.com/item?id=38187479) - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
-* [2023-11-08, 06:49:11](https://news.ycombinator.com/item?id=38187474) - [Apple Hits Pause on iOS 18, macOS 15 Development as Bugs Spread](https://www.tomshardware.com/software/apple-hits-pause-on-ios-18-macos-15-development-as-bugs-spread)
 * [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
 * [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
+* [2023-11-07, 23:36:48](https://news.ycombinator.com/item?id=38184664) - [Cory Doctorow: The Internet Con, or How to Seize the Means of Computation](https://twitter.com/copernicani/status/1721981602753085582)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 * [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
