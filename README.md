@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 00:46:17](https://news.ycombinator.com/item?id=38185306) - [The Software Engineer's Guidebook](https://www.engguidebook.com/)
 * [2023-11-08, 00:01:16](https://news.ycombinator.com/item?id=38184925) - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
 * [2023-11-07, 23:52:14](https://news.ycombinator.com/item?id=38184833) - [Water-injected 2.0-liter hydrogen engine makes 410 horsepower](https://www.motor1.com/news/692276/tiny-race-engine-gas-diesel-hydrogen/)
 * [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
@@ -26,7 +27,6 @@
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
-* [2023-11-05, 21:57:21](https://news.ycombinator.com/item?id=38156060) - [Microdot](https://microdot.readthedocs.io/en/latest/index.html)
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The Quest for Modularity](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 * [2023-11-05, 12:25:02](https://news.ycombinator.com/item?id=38150522) - [Formalising modern research mathematics in real time](https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/)
