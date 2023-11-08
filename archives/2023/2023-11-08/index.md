@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 04:33:01](https://news.ycombinator.com/item?id=38186828) - [Google Bard introduces \"Human reviewers,\" sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
 * [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 * [2023-11-08, 02:55:32](https://news.ycombinator.com/item?id=38186203) - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
+* [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive Examples for Learning Jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 02:14:14](https://news.ycombinator.com/item?id=38185925) - [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
 * [2023-11-08, 01:20:05](https://news.ycombinator.com/item?id=38185530) - [Panama observes EST all year. Daylight Saving Time has never been used here](https://www.timeanddate.com/time/change/panama/panama)
 * [2023-11-08, 00:56:05](https://news.ycombinator.com/item?id=38185373) - [AGI Is Being Achieved Incrementally](https://www.latent.space/p/devday)
