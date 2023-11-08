@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 10:57:11",
+      "https://news.ycombinator.com/item?id=38188788"
+    ],
+    [
+      "Opusmodus: Common Lisp Music Composition System",
+      "https://opusmodus.com/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 10:41:35",
       "https://news.ycombinator.com/item?id=38188689"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2023-11-08, 10:16:53",
+      "https://news.ycombinator.com/item?id=38188555"
+    ],
+    [
+      "Trouble Brewing for RISC-V as Issue of Technology Transfer Is Questioned",
+      "https://hackaday.com/2023/11/07/trouble-brewing-for-risc-v-as-issue-of-technology-transfer-is-questioned/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 09:54:07",
       "https://news.ycombinator.com/item?id=38188426"
     ],
@@ -37,6 +57,16 @@
     [
       "Don't Disable Buttons",
       "https://gomakethings.com/dont-disable-buttons/"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 09:04:18",
+      "https://news.ycombinator.com/item?id=38188162"
+    ],
+    [
+      "Home Assistant blocked from integrating with Garage Door opener API",
+      "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2023-11-08, 03:50:56",
-      "https://news.ycombinator.com/item?id=38186554"
-    ],
-    [
-      "Like Clippy but for the CLI",
-      "https://github.com/dave1010/clipea"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 02:49:03",
       "https://news.ycombinator.com/item?id=38186153"
     ],
@@ -97,16 +117,6 @@
     [
       "Ko: Easy Go Containers",
       "https://ko.build/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 23:44:23",
-      "https://news.ycombinator.com/item?id=38184753"
-    ],
-    [
-      "ChipNeMo: Domain-Adapted LLMs for Chip Design",
-      "https://arxiv.org/abs/2311.00176"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Show HN: Roboco-op, a computational blackboard for efficient human/AI collab",
       "https://observablehq.com/@tomlarkworthy/robocoop"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 21:58:08",
-      "https://news.ycombinator.com/item?id=38183514"
-    ],
-    [
-      "Chopstick robot handle boxes with ease",
-      "https://spectrum.ieee.org/warehouse-robots"
     ]
   ],
   [
