@@ -98,6 +98,7 @@
 * [2023-11-07, 11:44:54](https://news.ycombinator.com/item?id=38175746) - [Contraceptive pills might impair fear-regulating regions in women's brains](https://blog.frontiersin.org/2023/11/07/contraceptive-pills-fear-regulating-womens-brains/)
 * [2023-11-07, 10:57:01](https://news.ycombinator.com/item?id=38175413) - [Validating Data in Elixir: Using Ecto and NimbleOptions](https://blog.appsignal.com/2023/11/07/validating-data-in-elixir-using-ecto-and-nimbleoptions.html)
 * [2023-11-07, 10:39:35](https://news.ycombinator.com/item?id=38175311) - [Iknowwhatyoudownload.com – Torrent Activity Checker](https://iknowwhatyoudownload.com/en/peer/)
+* [2023-11-07, 10:23:35](https://news.ycombinator.com/item?id=38175213) - [Evolve Your Hierarchy (2007)](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
 * [2023-11-07, 09:51:14](https://news.ycombinator.com/item?id=38175026) - [Best Night Vision vs. Darkest Room [video]](https://www.youtube.com/watch?v=UAeJHAFjwPM)
 * [2023-11-07, 08:46:34](https://news.ycombinator.com/item?id=38174614) - [Show HN: Patterns – Habit Tracker App](https://apps.apple.com/ua/app/patterns-habit-tracker/id6469007119)
 * [2023-11-07, 08:21:57](https://news.ycombinator.com/item?id=38174452) - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
