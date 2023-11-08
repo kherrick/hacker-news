@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 16:54:58](https://news.ycombinator.com/item?id=38193196) - [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
 * [2023-11-08, 16:53:25](https://news.ycombinator.com/item?id=38193168) - [An exonerated 'Central Park Five' member will win a New York City Council seat](https://www.npr.org/2023/11/07/1211319472/exonerated-central-park-five-member-is-set-to-win-seat-on-new-york-city-council)
+* [2023-11-08, 16:47:28](https://news.ycombinator.com/item?id=38193042) - [Vacuum in optical cavity can change material magnetic state wo laser excitation](https://phys.org/news/2023-11-vacuum-optical-cavity-material-magnetic.html)
 * [2023-11-08, 15:53:57](https://news.ycombinator.com/item?id=38192152) - [Why Has Stoicism Gained Popularity in Modern Times?](https://www.thecollector.com/why-has-stoicism-gained-popularity-in-modern-times/)
 * [2023-11-08, 15:43:14](https://news.ycombinator.com/item?id=38191972) - [You Can Now Film in NYPD Precincts, Thanks to YouTuber's Lawsuit](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
 * [2023-11-08, 15:23:17](https://news.ycombinator.com/item?id=38191673) - [The problem isn't inflation. It's prices. What goes up may not come down](https://www.vox.com/money/2023/11/8/23951098/economy-inflation-prices-job-market-sticker-shock)
@@ -46,6 +48,7 @@
 * [2023-11-08, 06:12:21](https://news.ycombinator.com/item?id=38187301) - [\"I'm calling from Israeli intelligence\"](https://www.bbc.co.uk/news/world-middle-east-67327079)
 * [2023-11-08, 04:33:01](https://news.ycombinator.com/item?id=38186828) - [Google Bard introduces \"Human reviewers,\" sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
 * [2023-11-08, 04:03:01](https://news.ycombinator.com/item?id=38186633) - [Prompts – Lightweight, beautiful and user-friendly interactive prompts](https://github.com/terkelg/prompts)
+* [2023-11-08, 03:55:27](https://news.ycombinator.com/item?id=38186583) - [Cippi of Melqart](https://en.wikipedia.org/wiki/Cippi_of_Melqart)
 * [2023-11-08, 03:50:56](https://news.ycombinator.com/item?id=38186554) - [Like Clippy but for the CLI](https://github.com/dave1010/clipea)
 * [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 * [2023-11-08, 02:55:32](https://news.ycombinator.com/item?id=38186203) - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
