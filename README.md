@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-08, 22:39:47](https://news.ycombinator.com/item?id=38198239) - [FBI and Austria's C4 Hit Z-Library with a New Wave of Domain Seizures](https://torrentfreak.com/fbi-austrias-c4-hit-z-library-with-a-massive-new-wave-of-domain-seizures-231108/)
-* [2023-11-08, 22:33:41](https://news.ycombinator.com/item?id=38198156) - [Fifth-Generation Warfare](https://en.wikipedia.org/wiki/Fifth-generation_warfare)
 * [2023-11-08, 21:39:07](https://news.ycombinator.com/item?id=38197469) - [Signal Public Username Testing (Staging Environment)](https://community.signalusers.org/t/public-username-testing-staging-environment/56866)
 * [2023-11-08, 20:42:32](https://news.ycombinator.com/item?id=38196661) - [Punica: Serving multiple LoRA finetuned LLM as one](https://github.com/punica-ai/punica)
 * [2023-11-08, 20:41:34](https://news.ycombinator.com/item?id=38196644) - [Interesting Bugs Caught by ESLint's no-constant-binary-expression](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
@@ -25,6 +24,7 @@
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:49:08](https://news.ycombinator.com/item?id=38188734) - [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
 * [2023-11-08, 10:18:15](https://news.ycombinator.com/item?id=38188567) - [All About Cats, and What Ethernet Classifications Mean](https://hackaday.com/2023/11/07/all-about-cats-and-what-ethernet-classifications-mean-beyond-bigger-number-better/)
+* [2023-11-08, 09:07:38](https://news.ycombinator.com/item?id=38188182) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 08:10:54](https://news.ycombinator.com/item?id=38187879) - [Shift Left Software Development Process (2022)](https://devopedia.org/shift-left)
 * [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
