@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 14:52:17](https://news.ycombinator.com/item?id=38191151) - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
 * [2023-11-08, 14:28:00](https://news.ycombinator.com/item?id=38190730) - [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
 * [2023-11-08, 14:19:20](https://news.ycombinator.com/item?id=38190600) - [Workers in Sweden Will Expand Strike Against Tesla](https://www.nytimes.com/2023/11/07/world/europe/sweden-tesla-strike.html)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Partial Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)

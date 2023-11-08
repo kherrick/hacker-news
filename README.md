@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 14:52:17](https://news.ycombinator.com/item?id=38191151) - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
 * [2023-11-08, 14:28:00](https://news.ycombinator.com/item?id=38190730) - [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
 * [2023-11-08, 14:19:20](https://news.ycombinator.com/item?id=38190600) - [Workers in Sweden Will Expand Strike Against Tesla](https://www.nytimes.com/2023/11/07/world/europe/sweden-tesla-strike.html)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Major Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
@@ -23,7 +24,6 @@
 * [2023-11-08, 03:50:56](https://news.ycombinator.com/item?id=38186554) - [Like Clippy but for the CLI](https://github.com/dave1010/clipea)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
-* [2023-11-07, 19:10:04](https://news.ycombinator.com/item?id=38181346) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-06, 09:49:38](https://news.ycombinator.com/item?id=38160540) - [Minimalist Affordances: Making the Right Tradeoffs](https://lea.verou.me/blog/2023/minimalist-affordances/)
