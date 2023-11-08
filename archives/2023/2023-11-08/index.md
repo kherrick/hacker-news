@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 18:35:59](https://news.ycombinator.com/item?id=38194818) - [After luring customers with low prices, Amazon stuffs Fire TVs with ads](https://arstechnica.com/gadgets/2023/11/after-luring-customers-with-low-prices-amazon-stuffs-fire-tvs-with-ads/)
+* [2023-11-08, 18:31:51](https://news.ycombinator.com/item?id=38194756) - [Gunung Padang buried prehistoric pyramid in West Java, Indonesia](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912)
+* [2023-11-08, 18:11:01](https://news.ycombinator.com/item?id=38194433) - [FDA Approves Lilly's Zepbound (Tirzepatide) for Chronic Weight Management](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-zepboundtm-tirzepatide-chronic-weight)
 * [2023-11-08, 18:04:23](https://news.ycombinator.com/item?id=38194359) - [Texas produces twice as much methane as better regulated neighbor, study finds](https://www.theguardian.com/us-news/2023/nov/08/texas-methane-oil-and-gas-study-climate)
 * [2023-11-08, 17:54:27](https://news.ycombinator.com/item?id=38194206) - [Adobe Is Selling AI-Generated Images of Violence in Gaza and Israel](https://www.vice.com/en/article/3akj3k/adobe-is-selling-fake-ai-generated-images-of-violence-in-gaza-and-israel)
+* [2023-11-08, 17:54:05](https://news.ycombinator.com/item?id=38194204) - [Decentralized Patreon on Lightning Is Here](https://twitter.com/LNMarkets/status/1722301113855103263)
 * [2023-11-08, 17:39:13](https://news.ycombinator.com/item?id=38193978) - [Is AI the Next Crypto? Insights from 2M HN Comments](https://openpipe.ai/blog/hn-ai-crypto)
+* [2023-11-08, 17:19:27](https://news.ycombinator.com/item?id=38193640) - [Automerge-Repo: A \"batteries-included\" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 16:54:58](https://news.ycombinator.com/item?id=38193196) - [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
 * [2023-11-08, 16:53:25](https://news.ycombinator.com/item?id=38193168) - [An exonerated 'Central Park Five' member will win a New York City Council seat](https://www.npr.org/2023/11/07/1211319472/exonerated-central-park-five-member-is-set-to-win-seat-on-new-york-city-council)
