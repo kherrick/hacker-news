@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 20:50:57](https://news.ycombinator.com/item?id=38196770) - [How Bad Rails Conventions Got Me a Weekend Stay with the CEO of Airbnb](https://blog.josephofiowa.com/airbnb-weekend/)
 * [2023-11-08, 20:24:16](https://news.ycombinator.com/item?id=38196412) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 20:15:32](https://news.ycombinator.com/item?id=38196289) - [Guava: Google core libraries for Java](https://github.com/google/guava)
 * [2023-11-08, 20:07:59](https://news.ycombinator.com/item?id=38196188) - [Another Major Outage Across ChatGPT and API](https://status.openai.com/incidents/21vl32gvx3hb)
