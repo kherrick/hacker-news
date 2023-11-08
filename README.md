@@ -2,7 +2,6 @@
 
 * [2023-11-08, 16:54:58](https://news.ycombinator.com/item?id=38193196) - [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
 * [2023-11-08, 15:43:14](https://news.ycombinator.com/item?id=38191972) - [NYPD barred from telling people they can't film in precinct stations](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
-* [2023-11-08, 15:23:17](https://news.ycombinator.com/item?id=38191673) - [The problem isn't inflation. It's prices. What goes up may not come down](https://www.vox.com/money/2023/11/8/23951098/economy-inflation-prices-job-market-sticker-shock)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 14:52:17](https://news.ycombinator.com/item?id=38191151) - [Build a Lightweight Code Generator with TypeScript and JSON Imports](https://spin.atomicobject.com/2023/11/08/code-generator-typescript-json/)
 * [2023-11-08, 14:28:00](https://news.ycombinator.com/item?id=38190730) - [Heavy-seed origin of early supermassive black holes from a z ≈ 10 X-ray quasar](https://www.nature.com/articles/s41550-023-02111-9)
@@ -29,6 +28,7 @@
 * [2023-11-07, 20:17:53](https://news.ycombinator.com/item?id=38182197) - [Whither Philosophy?](https://aeon.co/essays/since-when-is-philosophy-a-branch-of-the-self-help-industry)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-06, 09:49:38](https://news.ycombinator.com/item?id=38160540) - [Minimalist Affordances: Making the Right Tradeoffs](https://lea.verou.me/blog/2023/minimalist-affordances/)
+* [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 * [2023-11-05, 20:50:44](https://news.ycombinator.com/item?id=38155524) - [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
 
 ## [Archives](archives/index.md)
