@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 00:56:05](https://news.ycombinator.com/item?id=38185373) - [AGI Is Being Achieved Incrementally](https://www.latent.space/p/devday)
 * [2023-11-08, 00:01:16](https://news.ycombinator.com/item?id=38184925) - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
 * [2023-11-07, 23:52:14](https://news.ycombinator.com/item?id=38184833) - [Water-injected 2.0-liter hydrogen engine makes 410 horsepower](https://www.motor1.com/news/692276/tiny-race-engine-gas-diesel-hydrogen/)
 * [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
@@ -7,7 +8,7 @@
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:14:09](https://news.ycombinator.com/item?id=38184426) - [GPT-4-turbo preliminary benchmark results on code-editing](https://aider.chat/docs/benchmarks-1106.html)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
-* [2023-11-07, 22:31:30](https://news.ycombinator.com/item?id=38183960) - [Dietary restriction of isoleucine increases healthspan and lifespan in mice](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1)
+* [2023-11-07, 22:30:07](https://news.ycombinator.com/item?id=38183932) - [Development of a Live-Action Film of the Legend of Zelda to Start](https://www.nintendo.co.jp/corporate/release/en/2023/231108.html)
 * [2023-11-07, 22:27:24](https://news.ycombinator.com/item?id=38183889) - [Lawmakers push 702 reauthorization requiring warrant to access info on Americans](https://thehill.com/policy/national-security/4298234-section-702-fisa-reauthorization-warrant-americans/)
 * [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
 * [2023-11-07, 21:58:08](https://news.ycombinator.com/item?id=38183514) - [Chopstick robot handle boxes with ease](https://spectrum.ieee.org/warehouse-robots)
@@ -26,8 +27,7 @@
 * [2023-11-07, 14:33:53](https://news.ycombinator.com/item?id=38177178) - [Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games](https://scorecard.gg/)
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
-* [2023-11-06, 09:54:22](https://news.ycombinator.com/item?id=38160570) - [The Elements of Dynamic Symmetry (1919) [pdf]](https://archive.org/details/bwb_O8-BPR-190)
-* [2023-11-05, 21:57:21](https://news.ycombinator.com/item?id=38156060) - [Microdot](https://microdot.readthedocs.io/en/latest/index.html)
+* [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The Quest for Modularity](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 * [2023-11-05, 12:25:02](https://news.ycombinator.com/item?id=38150522) - [Formalising modern research mathematics in real time](https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/)
 

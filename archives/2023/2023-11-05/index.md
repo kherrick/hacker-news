@@ -12,6 +12,7 @@
 * [2023-11-05, 21:57:21](https://news.ycombinator.com/item?id=38156060) - [Microdot](https://microdot.readthedocs.io/en/latest/index.html)
 * [2023-11-05, 21:53:21](https://news.ycombinator.com/item?id=38156030) - [A brain injury removed my ability to perceive time](https://www.salon.com/2023/11/05/a-brain-injury-removed-my-ability-to-perceive-time-heres-what-its-like-in-a-world-without-it/)
 * [2023-11-05, 21:42:52](https://news.ycombinator.com/item?id=38155948) - [PayPal to offer crypto services in UK; Taiwan to make Bitcoin legal Tender](https://www.tekedia.com/paypal-to-offer-crypto-services-in-uk-taiwan-to-make-bitcoin-legal-tender/)
+* [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The Quest for Modularity](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 21:36:36](https://news.ycombinator.com/item?id=38155899) - [Acid's First Convert, Cary Grant: On Edward J. Delaney's \"The Acrobat\"](https://lareviewofbooks.org/article/acids-first-convert-cary-grant-on-edward-j-delaneys-the-acrobat/)
 * [2023-11-05, 21:29:03](https://news.ycombinator.com/item?id=38155840) - [Big landlords are colluding to raise rents, D.C. lawsuit alleges](https://www.axios.com/2023/11/02/dc-housing-rent-antitrust-lawsuit)
 * [2023-11-05, 21:16:47](https://news.ycombinator.com/item?id=38155723) - [Solar energy storage breakthrough could make households self-sufficient](https://sifted.eu/articles/solar-energy-breakthrough-solid-hydrogen)
