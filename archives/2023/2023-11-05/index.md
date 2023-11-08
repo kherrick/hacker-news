@@ -57,6 +57,7 @@
 * [2023-11-05, 13:31:22](https://news.ycombinator.com/item?id=38150965) - [Ecological Threat Report 2023: food insecurity, water stress, natural disasters](https://reliefweb.int/report/world/ecological-threat-report-2023)
 * [2023-11-05, 13:18:23](https://news.ycombinator.com/item?id=38150877) - [Grok by XAI – Elon Musk](https://x.ai/model-card/)
 * [2023-11-05, 13:10:43](https://news.ycombinator.com/item?id=38150833) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+* [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The Fight Between Cataphiles and Underground Police in the Paris Catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
 * [2023-11-05, 12:35:59](https://news.ycombinator.com/item?id=38150606) - [Why banks are suddenly closing down customer accounts](https://www.nytimes.com/2023/11/05/business/banks-accounts-close-suddenly.html)
 * [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 * [2023-11-05, 12:26:13](https://news.ycombinator.com/item?id=38150534) - [Psychedelics researcher approached his death with calm and curiosity](https://www.npr.org/2023/11/05/1210327976/psychedelic-drugs-psilocybin-roland-griffiths-depression-cancer-meditation)
