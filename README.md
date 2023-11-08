@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 20:24:16](https://news.ycombinator.com/item?id=38196412) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 20:15:32](https://news.ycombinator.com/item?id=38196289) - [Guava: Google core libraries for Java](https://github.com/google/guava)
 * [2023-11-08, 20:07:59](https://news.ycombinator.com/item?id=38196188) - [Another Major Outage Across ChatGPT and API](https://status.openai.com/incidents/21vl32gvx3hb)
 * [2023-11-08, 20:05:36](https://news.ycombinator.com/item?id=38196163) - [Google argues iMessage should be regulated by the EU's Digital Markets Act](https://arstechnica.com/gadgets/2023/11/google-argues-imessage-should-be-regulated-by-the-eus-digital-markets-act/)
@@ -7,6 +8,7 @@
 * [2023-11-08, 19:59:02](https://news.ycombinator.com/item?id=38196063) - [CIA: All Foreign Governments](https://www.cia.gov/resources/world-leaders/foreign-governments/)
 * [2023-11-08, 19:56:01](https://news.ycombinator.com/item?id=38196008) - [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://github.com/widgetti/wanderlust)
 * [2023-11-08, 19:32:15](https://news.ycombinator.com/item?id=38195718) - [$200M Gift Propels Scientific Research in the Search for Life Beyond Earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
+* [2023-11-08, 19:20:02](https://news.ycombinator.com/item?id=38195509) - [Voters Overwhelmingly Pass Car Right to Repair Law in Maine](https://www.404media.co/voters-overwhelmingly-pass-car-right-to-repair-law-in-maine/)
 * [2023-11-08, 19:14:52](https://news.ycombinator.com/item?id=38195436) - [Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
 * [2023-11-08, 18:35:59](https://news.ycombinator.com/item?id=38194818) - [After luring customers with low prices, Amazon stuffs Fire TVs with ads](https://arstechnica.com/gadgets/2023/11/after-luring-customers-with-low-prices-amazon-stuffs-fire-tvs-with-ads/)
 * [2023-11-08, 18:31:51](https://news.ycombinator.com/item?id=38194756) - [Gunung Padang buried prehistoric pyramid in West Java, Indonesia](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912)
@@ -25,9 +27,7 @@
 * [2023-11-08, 12:52:58](https://news.ycombinator.com/item?id=38189720) - [The open-stack library: a futuristic technology from the 18th century](https://resobscura.substack.com/p/the-open-stack-library-a-futuristic)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:49:08](https://news.ycombinator.com/item?id=38188734) - [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
-* [2023-11-08, 10:25:45](https://news.ycombinator.com/item?id=38188614) - [Chamberlain blocks smart garage door opener from working with smart homes](https://arstechnica.com/gadgets/2023/11/chamberlain-blocks-smart-garage-door-opener-from-working-with-smart-homes/)
 * [2023-11-08, 09:54:07](https://news.ycombinator.com/item?id=38188426) - [PhotoRoom (YC S20) Is Hiring a Cross-Platform Developer in Paris (Rust, Wgpu)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
-* [2023-11-08, 09:07:38](https://news.ycombinator.com/item?id=38188182) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-07, 07:09:27](https://news.ycombinator.com/item?id=38174037) - [And Alexander Wept (2020)](https://www.theparisreview.org/blog/2020/03/19/and-alexander-wept/)
 
