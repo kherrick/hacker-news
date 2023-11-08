@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 18:04:23](https://news.ycombinator.com/item?id=38194359) - [Texas produces twice as much methane as better regulated neighbor, study finds](https://www.theguardian.com/us-news/2023/nov/08/texas-methane-oil-and-gas-study-climate)
 * [2023-11-08, 17:54:27](https://news.ycombinator.com/item?id=38194206) - [Adobe Is Selling AI-Generated Images of Violence in Gaza and Israel](https://www.vice.com/en/article/3akj3k/adobe-is-selling-fake-ai-generated-images-of-violence-in-gaza-and-israel)
+* [2023-11-08, 17:39:13](https://news.ycombinator.com/item?id=38193978) - [Is AI the Next Crypto? Insights from 2M HN Comments](https://openpipe.ai/blog/hn-ai-crypto)
 * [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 16:54:58](https://news.ycombinator.com/item?id=38193196) - [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
 * [2023-11-08, 16:53:25](https://news.ycombinator.com/item?id=38193168) - [An exonerated 'Central Park Five' member will win a New York City Council seat](https://www.npr.org/2023/11/07/1211319472/exonerated-central-park-five-member-is-set-to-win-seat-on-new-york-city-council)
