@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 04:33:01](https://news.ycombinator.com/item?id=38186828) - [Google Bard introduces \"Human reviewers,\" sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
 * [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
@@ -23,13 +24,12 @@
 * [2023-11-07, 15:31:50](https://news.ycombinator.com/item?id=38177930) - [Verizon, AT&T customers sue to undo T-Mobile merger](https://www.techdirt.com/2023/11/07/verizon-att-customers-sue-to-reverse-t-mobile-merger-saying-it-raised-everybodys-prices/)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
+* [2023-11-07, 06:52:48](https://news.ycombinator.com/item?id=38173961) - [Camus on Tour](https://www.nybooks.com/articles/2023/11/23/camus-on-tour-travels-in-the-americas/)
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 07:58:14](https://news.ycombinator.com/item?id=38159905) - [Perfect Dark: Recompiled](https://hackaday.com/2023/11/05/perfect-dark-recompiled/)
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
-* [2023-11-06, 01:19:10](https://news.ycombinator.com/item?id=38157684) - [The Uprising of Mesopunk Books](https://bookriot.com/mesopunk-books/)
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The quest for modularity (2022)](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The fight between cataphiles and police in the Paris catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
-* [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 
 ## [Archives](archives/index.md)
 
