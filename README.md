@@ -10,7 +10,6 @@
 * [2023-11-07, 23:44:13](https://news.ycombinator.com/item?id=38184750) - [Nature retracts controversial superconductivity paper by embattled physicist](https://www.nature.com/articles/d41586-023-03398-4)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
-* [2023-11-07, 22:30:07](https://news.ycombinator.com/item?id=38183932) - [Development of a Live-Action Film of the Legend of Zelda to Start](https://www.nintendo.co.jp/corporate/release/en/2023/231108.html)
 * [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
 * [2023-11-07, 21:58:08](https://news.ycombinator.com/item?id=38183514) - [Chopstick robot handle boxes with ease](https://spectrum.ieee.org/warehouse-robots)
 * [2023-11-07, 21:54:14](https://news.ycombinator.com/item?id=38183470) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
@@ -25,11 +24,12 @@
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
 * [2023-11-07, 17:00:54](https://news.ycombinator.com/item?id=38179361) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco (C/C++ or Zig)](https://apply.workable.com/oven/j/A7A1388873/)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
+* [2023-11-07, 14:33:53](https://news.ycombinator.com/item?id=38177178) - [Show HN: Scorecard.gg – minimalist scoring tool for your favorite board games](https://scorecard.gg/)
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-06, 10:08:36](https://news.ycombinator.com/item?id=38160675) - [Barcelona Supercomputing Center](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
+* [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The Quest for Modularity](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The Fight Between Cataphiles and Underground Police in the Paris Catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
-* [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
 
 ## [Archives](archives/index.md)
 
