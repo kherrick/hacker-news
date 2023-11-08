@@ -2,6 +2,7 @@
 
 * [2023-11-08, 13:13:41](https://news.ycombinator.com/item?id=38189878) - [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
 * [2023-11-08, 13:00:53](https://news.ycombinator.com/item?id=38189790) - [EU's concealment of secret 'expert list' on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
+* [2023-11-08, 12:45:09](https://news.ycombinator.com/item?id=38189638) - [Show HN: Modeling Berlin subway lines in graph database](https://memgraph.com/blog/ridding-the-berlin-subway-graph-database-adventure-with-memgraph-lab)
 * [2023-11-08, 11:24:19](https://news.ycombinator.com/item?id=38188938) - [Banning E2EE is stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
 * [2023-11-08, 10:49:08](https://news.ycombinator.com/item?id=38188734) - [Officially Qualified – Ferrocene](https://ferrous-systems.com/blog/officially-qualified-ferrocene/)
@@ -13,7 +14,6 @@
 * [2023-11-08, 08:54:48](https://news.ycombinator.com/item?id=38188108) - [Legendary Semiconductor Physicist Simon Sze has died](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
 * [2023-11-08, 08:27:41](https://news.ycombinator.com/item?id=38187972) - [Most Video Game Artwork Will Never Be Seen](https://aftermath.site/most-video-game-artwork-will-never-be-seen)
 * [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
-* [2023-11-08, 04:03:01](https://news.ycombinator.com/item?id=38186633) - [Prompts – Lightweight, beautiful and user-friendly interactive prompts](https://github.com/terkelg/prompts)
 * [2023-11-08, 03:50:56](https://news.ycombinator.com/item?id=38186554) - [Like Clippy but for the CLI](https://github.com/dave1010/clipea)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
