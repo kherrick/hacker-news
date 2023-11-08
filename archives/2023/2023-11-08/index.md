@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 16:54:58](https://news.ycombinator.com/item?id=38193196) - [SoftBank paid $1.5B to WeWork lenders days before bankruptcy](https://www.ft.com/content/020d78ab-c487-4586-a636-eced0368f531)
+* [2023-11-08, 16:53:25](https://news.ycombinator.com/item?id=38193168) - [An exonerated 'Central Park Five' member will win a New York City Council seat](https://www.npr.org/2023/11/07/1211319472/exonerated-central-park-five-member-is-set-to-win-seat-on-new-york-city-council)
+* [2023-11-08, 15:53:57](https://news.ycombinator.com/item?id=38192152) - [Why Has Stoicism Gained Popularity in Modern Times?](https://www.thecollector.com/why-has-stoicism-gained-popularity-in-modern-times/)
 * [2023-11-08, 15:43:14](https://news.ycombinator.com/item?id=38191972) - [You Can Now Film in NYPD Precincts, Thanks to YouTuber's Lawsuit](https://hellgatenyc.com/you-can-now-film-in-nypd-precincts-thanks-to-this-youtuber)
 * [2023-11-08, 15:23:17](https://news.ycombinator.com/item?id=38191673) - [The problem isn't inflation. It's prices. What goes up may not come down](https://www.vox.com/money/2023/11/8/23951098/economy-inflation-prices-job-market-sticker-shock)
 * [2023-11-08, 15:09:46](https://news.ycombinator.com/item?id=38191439) - [Investigation disproves Israel claim of Hamas tunnel under Gaza hospital](https://www.aljazeera.com/news/2023/11/8/investigation-disproves-israel-claim-of-hamas-tunnel-under-gaza-hospital)
@@ -19,6 +22,7 @@
 * [2023-11-08, 13:08:03](https://news.ycombinator.com/item?id=38189840) - [Spain lives in flats: why we have built our cities vertically](https://especiales.eldiario.es/spain-lives-in-flats/)
 * [2023-11-08, 13:07:55](https://news.ycombinator.com/item?id=38189838) - [Intermittent fasting more effective than calorie restriction](https://pubmed.ncbi.nlm.nih.gov/37889487/)
 * [2023-11-08, 13:00:53](https://news.ycombinator.com/item?id=38189790) - [EU's concealment of secret 'expert list' on CSAM regulation is maladministration](https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/)
+* [2023-11-08, 12:52:58](https://news.ycombinator.com/item?id=38189720) - [The open-stack library: a futuristic technology from the 18th century](https://resobscura.substack.com/p/the-open-stack-library-a-futuristic)
 * [2023-11-08, 12:45:09](https://news.ycombinator.com/item?id=38189638) - [Show HN: Modeling Berlin subway lines in graph database](https://memgraph.com/blog/ridding-the-berlin-subway-graph-database-adventure-with-memgraph-lab)
 * [2023-11-08, 12:33:43](https://news.ycombinator.com/item?id=38189545) - [The Third Wave (Experiment)](https://en.wikipedia.org/wiki/The_Third_Wave_(experiment))
 * [2023-11-08, 11:41:27](https://news.ycombinator.com/item?id=38189084) - [Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections](https://www.theregister.com/2023/11/08/europe_eidas_browser/)

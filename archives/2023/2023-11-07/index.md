@@ -29,6 +29,7 @@
 * [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
 * [2023-11-07, 20:57:02](https://news.ycombinator.com/item?id=38182712) - [Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
 * [2023-11-07, 20:36:43](https://news.ycombinator.com/item?id=38182461) - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
+* [2023-11-07, 20:17:53](https://news.ycombinator.com/item?id=38182197) - [Whither Philosophy?](https://aeon.co/essays/since-when-is-philosophy-a-branch-of-the-self-help-industry)
 * [2023-11-07, 20:00:09](https://news.ycombinator.com/item?id=38181987) - [FDA Proposes to Ban Food Additive, brominated vegetable oil](https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals)
 * [2023-11-07, 19:46:54](https://news.ycombinator.com/item?id=38181826) - [The Trouble with Ingredients in Sunscreens](https://www.ewg.org/sunscreen/report/the-trouble-with-sunscreen-chemicals/)
 * [2023-11-07, 19:15:00](https://news.ycombinator.com/item?id=38181408) - ['Ray, This Is a Religion' How the largest hedge fund lost two top hires](https://nymag.com/intelligencer/article/ray-dalio-rob-copeland-the-fund-book-excerpt.html)
