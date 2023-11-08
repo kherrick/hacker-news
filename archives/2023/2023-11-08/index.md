@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 19:32:15](https://news.ycombinator.com/item?id=38195718) - [$200M Gift Propels Scientific Research in the Search for Life Beyond Earth](https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth)
 * [2023-11-08, 19:27:10](https://news.ycombinator.com/item?id=38195629) - [Highly invasive backdoor snuck into open source packages targets developers](https://arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/)
 * [2023-11-08, 19:07:42](https://news.ycombinator.com/item?id=38195329) - [New Docs Reveal US DHS Conspiracy to Violate First Amendment](https://public.substack.com/p/new-documents-reveal-us-department)
 * [2023-11-08, 19:01:59](https://news.ycombinator.com/item?id=38195231) - [End DEI](https://www.tabletmag.com/sections/news/articles/end-dei-bari-weiss-jews)
@@ -13,6 +14,8 @@
 * [2023-11-08, 18:35:59](https://news.ycombinator.com/item?id=38194818) - [After luring customers with low prices, Amazon stuffs Fire TVs with ads](https://arstechnica.com/gadgets/2023/11/after-luring-customers-with-low-prices-amazon-stuffs-fire-tvs-with-ads/)
 * [2023-11-08, 18:31:51](https://news.ycombinator.com/item?id=38194756) - [Gunung Padang buried prehistoric pyramid in West Java, Indonesia](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912)
 * [2023-11-08, 18:30:10](https://news.ycombinator.com/item?id=38194733) - [Open Observatory of Network Interference](https://ooni.org/)
+* [2023-11-08, 18:21:01](https://news.ycombinator.com/item?id=38194603) - [When Glasses Land the Gig: Employers Still Choose Workers Who 'Look the Part'](https://hbswk.hbs.edu/item/when-glasses-land-the-gig-employers-still-choose-workers-who-look-the-part)
+* [2023-11-08, 18:20:11](https://news.ycombinator.com/item?id=38194586) - [Show HN: Bulletpapers – ArXiv AI paper summarizer, won Anthropic Hackathon](https://www.bulletpapers.ai)
 * [2023-11-08, 18:11:01](https://news.ycombinator.com/item?id=38194433) - [FDA Approves Lilly's Zepbound (Tirzepatide) for Chronic Weight Management](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-zepboundtm-tirzepatide-chronic-weight)
 * [2023-11-08, 18:04:23](https://news.ycombinator.com/item?id=38194359) - [Texas produces twice as much methane as better regulated neighbor, study finds](https://www.theguardian.com/us-news/2023/nov/08/texas-methane-oil-and-gas-study-climate)
 * [2023-11-08, 17:54:27](https://news.ycombinator.com/item?id=38194206) - [Adobe Is Selling AI-Generated Images of Violence in Gaza and Israel](https://www.vice.com/en/article/3akj3k/adobe-is-selling-fake-ai-generated-images-of-violence-in-gaza-and-israel)
@@ -56,6 +59,7 @@
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 08:54:48](https://news.ycombinator.com/item?id=38188108) - [Legendary Semiconductor Physicist Simon Sze is no more](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
 * [2023-11-08, 08:27:41](https://news.ycombinator.com/item?id=38187972) - [Most Video Game Artwork Will Never Be Seen](https://aftermath.site/most-video-game-artwork-will-never-be-seen)
+* [2023-11-08, 08:10:54](https://news.ycombinator.com/item?id=38187879) - [Shift Left Software Development Process (2022)](https://devopedia.org/shift-left)
 * [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
 * [2023-11-08, 06:50:19](https://news.ycombinator.com/item?id=38187479) - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
 * [2023-11-08, 06:49:11](https://news.ycombinator.com/item?id=38187474) - [Apple Hits Pause on iOS 18, macOS 15 Development as Bugs Spread](https://www.tomshardware.com/software/apple-hits-pause-on-ios-18-macos-15-development-as-bugs-spread)
