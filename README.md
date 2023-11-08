@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
 * [2023-11-08, 06:50:19](https://news.ycombinator.com/item?id=38187479) - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
 * [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
+* [2023-11-08, 06:39:00](https://news.ycombinator.com/item?id=38187430) - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive examples for learning jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 00:37:54](https://news.ycombinator.com/item?id=38185241) - [Ko: Easy Go Containers](https://ko.build/)
 * [2023-11-07, 23:44:23](https://news.ycombinator.com/item?id=38184753) - [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176)
-* [2023-11-07, 23:36:48](https://news.ycombinator.com/item?id=38184664) - [Cory Doctorow: The Internet Con, or How to Seize the Means of Computation](https://twitter.com/copernicani/status/1721981602753085582)
 * [2023-11-07, 23:23:22](https://news.ycombinator.com/item?id=38184539) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-07, 23:04:21](https://news.ycombinator.com/item?id=38184339) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 * [2023-11-07, 22:07:05](https://news.ycombinator.com/item?id=38183641) - [Show HN: Roboco-op, a computational blackboard for efficient human/AI collab](https://observablehq.com/@tomlarkworthy/robocoop)
@@ -28,7 +29,6 @@
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The quest for modularity (2022)](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 20:50:44](https://news.ycombinator.com/item?id=38155524) - [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
-* [2023-11-05, 20:49:51](https://news.ycombinator.com/item?id=38155517) - [Linksys WRT54G and WRT54GS power supply (2005)](http://kioan.users.uth.gr/wireless/wrt54g/supply.html)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The fight between cataphiles and police in the Paris catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
 
 ## [Archives](archives/index.md)

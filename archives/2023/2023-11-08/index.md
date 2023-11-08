@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
 * [2023-11-08, 06:50:19](https://news.ycombinator.com/item?id=38187479) - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
 * [2023-11-08, 06:49:11](https://news.ycombinator.com/item?id=38187474) - [Apple Hits Pause on iOS 18, macOS 15 Development as Bugs Spread](https://www.tomshardware.com/software/apple-hits-pause-on-ios-18-macos-15-development-as-bugs-spread)
 * [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
+* [2023-11-08, 06:39:00](https://news.ycombinator.com/item?id=38187430) - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 * [2023-11-08, 06:12:21](https://news.ycombinator.com/item?id=38187301) - [\"I'm calling from Israeli intelligence\"](https://www.bbc.co.uk/news/world-middle-east-67327079)
 * [2023-11-08, 04:33:01](https://news.ycombinator.com/item?id=38186828) - [Google Bard introduces \"Human reviewers,\" sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
 * [2023-11-08, 03:14:44](https://news.ycombinator.com/item?id=38186303) - [Smart garage door controller is no longer smart](https://www.theverge.com/23949612/chamberlain-myq-smart-garage-door-controller-homebridge-integrations)
