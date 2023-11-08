@@ -21,7 +21,6 @@
 * [2023-11-07, 19:07:35](https://news.ycombinator.com/item?id=38181308) - [Solar Splitting of CO2 with 3D-Printed Hierarchically Channeled Ceria Structures](https://onlinelibrary.wiley.com/doi/10.1002/admi.202300452)
 * [2023-11-07, 18:32:56](https://news.ycombinator.com/item?id=38180846) - [Northlight technology in Alan Wake 2](https://www.remedygames.com/article/how-northlight-makes-alan-wake-2-shine)
 * [2023-11-07, 18:07:55](https://news.ycombinator.com/item?id=38180477) - [Seeing like a bank](https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/)
-* [2023-11-07, 15:48:58](https://news.ycombinator.com/item?id=38178207) - [Doing a Job (1982)](https://govleaders.org/rickover.htm)
 * [2023-11-07, 15:19:31](https://news.ycombinator.com/item?id=38177765) - [The Stern-Gerlach Experiment (1967) [video]](https://www.youtube.com/watch?v=AcTqcyv-V1I)
 * [2023-11-07, 13:58:52](https://news.ycombinator.com/item?id=38176750) - [Euclid's First Images](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness)
 * [2023-11-07, 06:52:48](https://news.ycombinator.com/item?id=38173961) - [Camus on Tour](https://www.nybooks.com/articles/2023/11/23/camus-on-tour-travels-in-the-americas/)
@@ -29,6 +28,7 @@
 * [2023-11-06, 05:58:00](https://news.ycombinator.com/item?id=38159363) - [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The quest for modularity (2022)](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 20:50:44](https://news.ycombinator.com/item?id=38155524) - [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
+* [2023-11-05, 20:49:51](https://news.ycombinator.com/item?id=38155517) - [Linksys WRT54G and WRT54GS power supply (2005)](http://kioan.users.uth.gr/wireless/wrt54g/supply.html)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The fight between cataphiles and police in the Paris catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
 
 ## [Archives](archives/index.md)
