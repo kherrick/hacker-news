@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-08, 02:55:32](https://news.ycombinator.com/item?id=38186203) - [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.theregister.com/2023/11/07/hitman_for_hire_jail/)
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 00:46:17](https://news.ycombinator.com/item?id=38185306) - [The Software Engineer's Guidebook](https://www.engguidebook.com/)
 * [2023-11-08, 00:01:16](https://news.ycombinator.com/item?id=38184925) - [Bing Chat is so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/)
@@ -29,7 +30,6 @@
 * [2023-11-05, 21:39:54](https://news.ycombinator.com/item?id=38155926) - [The Quest for Modularity](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/)
 * [2023-11-05, 12:51:06](https://news.ycombinator.com/item?id=38150699) - [The Fight Between Cataphiles and Underground Police in the Paris Catacombs](https://www.atlasobscura.com/articles/strange-maps-paris-catacombs)
 * [2023-11-05, 12:33:39](https://news.ycombinator.com/item?id=38150587) - [M/o/Vfuscator: A single instruction C compiler](https://github.com/Battelle/movfuscator)
-* [2023-11-05, 12:25:02](https://news.ycombinator.com/item?id=38150522) - [Formalising modern research mathematics in real time](https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/)
 
 ## [Archives](archives/index.md)
 
