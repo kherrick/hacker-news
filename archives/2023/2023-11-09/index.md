@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 23:31:42](https://news.ycombinator.com/item?id=38212904) - [Wyoming discovery could be America's first new source of rare-earths since 1952](https://www.wsj.com/business/energy-oil/the-2-million-coal-mine-that-might-hold-a-37-billion-treasure-181dbdcf)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 * [2023-11-09, 23:03:34](https://news.ycombinator.com/item?id=38212653) - [No Man's Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
 * [2023-11-09, 22:53:24](https://news.ycombinator.com/item?id=38212538) - [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
