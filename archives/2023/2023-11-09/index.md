@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 20:09:46](https://news.ycombinator.com/item?id=38210464) - [You shouldn't tell a woman to smile](https://www.usatoday.com/story/news/nation-now/2017/03/08/dont-tell-women-to-smile/98906528/)
+* [2023-11-09, 19:59:04](https://news.ycombinator.com/item?id=38210297) - [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
 * [2023-11-09, 19:54:31](https://news.ycombinator.com/item?id=38210226) - [YouTube's Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
 * [2023-11-09, 19:30:44](https://news.ycombinator.com/item?id=38209788) - [Thomas Massie Failed to Stop \"Kill Switch\" Mandate That Could Disable Vehicles](https://reclaimthenet.org/thomas-massie-tried-but-failed-to-stop-kill-switch-mandate-that-could-disable-vehicles)
 * [2023-11-09, 18:59:05](https://news.ycombinator.com/item?id=38209297) - [AI is about to change how you use computers](https://www.gatesnotes.com/AI-agents)
