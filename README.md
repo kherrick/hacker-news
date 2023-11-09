@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 10:45:12](https://news.ycombinator.com/item?id=38203349) - [Hitler-Mannerheim Recording](https://yle.fi/aihe/artikkeli/2018/06/04/hitlers-secretly-recorded-conversation-in-finland)
 * [2023-11-09, 10:10:08](https://news.ycombinator.com/item?id=38203128) - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
 * [2023-11-09, 10:08:56](https://news.ycombinator.com/item?id=38203117) - [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
 * [2023-11-09, 10:00:12](https://news.ycombinator.com/item?id=38203052) - [Unemployed Man Uses AI to Apply for 5k Jobs, Gets 20 Interviews](https://futurism.com/the-byte/unemployed-man-ai-apply-5000-jobs-gets-20-interviews)
@@ -26,7 +27,6 @@
 * [2023-11-08, 11:51:47](https://news.ycombinator.com/item?id=38189160) - [Aggregation and Tiling as Multicomputational Processes](https://writings.stephenwolfram.com/2023/11/aggregation-and-tiling-as-multicomputational-processes/)
 * [2023-11-08, 10:52:53](https://news.ycombinator.com/item?id=38188759) - [A Brief History of Tricky Mathematical Tiling](https://www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
-* [2023-11-08, 06:42:53](https://news.ycombinator.com/item?id=38187445) - [Koch Snowflake](http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake)
 * [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 * [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
 * [2023-11-07, 01:08:59](https://news.ycombinator.com/item?id=38171749) - [Why does unsafe multithreaded std:unordered_map crash more than std:map?](https://devblogs.microsoft.com/oldnewthing/20231103-00/?p=108966)

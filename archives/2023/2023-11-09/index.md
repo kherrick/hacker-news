@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 10:45:12](https://news.ycombinator.com/item?id=38203349) - [Hitler-Mannerheim Recording](https://yle.fi/aihe/artikkeli/2018/06/04/hitlers-secretly-recorded-conversation-in-finland)
 * [2023-11-09, 10:10:08](https://news.ycombinator.com/item?id=38203128) - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
 * [2023-11-09, 10:09:09](https://news.ycombinator.com/item?id=38203118) - [Show HN: Hacker News GPT](https://chat.openai.com/g/g-BIfVX3cVX-hackernews-gpt)
 * [2023-11-09, 10:08:56](https://news.ycombinator.com/item?id=38203117) - [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
