@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 09:44:40](https://news.ycombinator.com/item?id=38202959) - [EU Council and Parliament reach agreement for approving controversial eIDAS law](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
 * [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
 * [2023-11-09, 08:21:22](https://news.ycombinator.com/item?id=38202403) - [Are we doing this again? Yes, we're doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
 * [2023-11-09, 07:04:04](https://news.ycombinator.com/item?id=38201995) - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
@@ -19,7 +20,6 @@
 * [2023-11-08, 19:56:01](https://news.ycombinator.com/item?id=38196008) - [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://github.com/widgetti/wanderlust)
 * [2023-11-08, 19:20:02](https://news.ycombinator.com/item?id=38195509) - [Voters Overwhelmingly Pass Car Right to Repair Law in Maine](https://www.404media.co/voters-overwhelmingly-pass-car-right-to-repair-law-in-maine/)
 * [2023-11-08, 19:14:52](https://news.ycombinator.com/item?id=38195436) - [Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
-* [2023-11-08, 17:19:27](https://news.ycombinator.com/item?id=38193640) - [Automerge-Repo: A \"batteries-included\" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Major outages across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
 * [2023-11-08, 11:51:47](https://news.ycombinator.com/item?id=38189160) - [Aggregation and Tiling as Multicomputational Processes](https://writings.stephenwolfram.com/2023/11/aggregation-and-tiling-as-multicomputational-processes/)
