@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
 * [2023-11-09, 08:39:40](https://news.ycombinator.com/item?id=38202529) - [I'm calling from Israeli intelligence. We have orders to bomb. You have 2 hours](https://www.bbc.com/news/world-middle-east-67327079)
+* [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
 * [2023-11-09, 08:21:22](https://news.ycombinator.com/item?id=38202403) - [Are we doing this again? Yes, we're doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
 * [2023-11-09, 07:04:04](https://news.ycombinator.com/item?id=38201995) - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
 * [2023-11-09, 06:47:25](https://news.ycombinator.com/item?id=38201914) - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
