@@ -8,6 +8,7 @@
 * [2023-11-09, 17:25:43](https://news.ycombinator.com/item?id=38207956) - [Peter Thiel is taking a Break from Democracy](https://www.theatlantic.com/politics/archive/2023/11/peter-thiel-2024-election-politics-investing-life-views/675946/)
 * [2023-11-09, 17:20:47](https://news.ycombinator.com/item?id=38207892) - [Show HN: GPT-4V audit for your landing page](https://uxaudit.vercel.app)
 * [2023-11-09, 17:19:25](https://news.ycombinator.com/item?id=38207866) - [You Have a Right to Know Why a Health Insurer Denied Your Claim](https://www.propublica.org/article/your-right-to-know-why-health-insurer-denied-claim)
+* [2023-11-09, 17:11:59](https://news.ycombinator.com/item?id=38207744) - [It's perfectly legal for cars to harvest your texts, call logs](https://www.theregister.com/2023/11/09/car_text_harvesting/)
 * [2023-11-09, 17:11:56](https://news.ycombinator.com/item?id=38207743) - [Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 17:09:35](https://news.ycombinator.com/item?id=38207700) - [Humane launches $699 Ai Pin](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/)
 * [2023-11-09, 17:06:31](https://news.ycombinator.com/item?id=38207656) - [The Humane AI Pin Launches Its Campaign to Replace Phones](https://www.bloomberg.com/news/articles/2023-11-09/the-humane-ai-pin-launches-its-campaign-to-replaces-phones)
