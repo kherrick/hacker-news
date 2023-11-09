@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 06:47:25](https://news.ycombinator.com/item?id=38201914) - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
 * [2023-11-09, 06:08:11](https://news.ycombinator.com/item?id=38201728) - [Lobbyist says Right to Repair is bad for black people [video]](https://www.youtube.com/watch?v=W6DB0Oo81OE)
 * [2023-11-09, 05:53:15](https://news.ycombinator.com/item?id=38201646) - [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
+* [2023-11-09, 05:48:46](https://news.ycombinator.com/item?id=38201624) - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
+* [2023-11-09, 05:21:31](https://news.ycombinator.com/item?id=38201471) - [Tested: Black 4.0, the \"blackest black\" is a lot blacker. 0f1012 vs. 272928](https://i.imgur.com/3njfTJP.jpg)
 * [2023-11-09, 04:53:52](https://news.ycombinator.com/item?id=38201318) - [S-LoRA: Serving Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
 * [2023-11-09, 04:50:42](https://news.ycombinator.com/item?id=38201302) - [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
 * [2023-11-09, 04:48:22](https://news.ycombinator.com/item?id=38201289) - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
