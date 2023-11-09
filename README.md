@@ -2,7 +2,6 @@
 
 * [2023-11-09, 06:08:11](https://news.ycombinator.com/item?id=38201728) - [Lobbyist says Right to Repair is bad for black people [video]](https://www.youtube.com/watch?v=W6DB0Oo81OE)
 * [2023-11-09, 05:53:15](https://news.ycombinator.com/item?id=38201646) - [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
-* [2023-11-09, 04:53:52](https://news.ycombinator.com/item?id=38201318) - [S-LoRA: Serving Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
 * [2023-11-09, 04:50:42](https://news.ycombinator.com/item?id=38201302) - [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
 * [2023-11-09, 02:37:17](https://news.ycombinator.com/item?id=38200390) - [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 * [2023-11-09, 02:28:08](https://news.ycombinator.com/item?id=38200308) - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
@@ -16,6 +15,7 @@
 * [2023-11-08, 19:20:02](https://news.ycombinator.com/item?id=38195509) - [Voters Overwhelmingly Pass Car Right to Repair Law in Maine](https://www.404media.co/voters-overwhelmingly-pass-car-right-to-repair-law-in-maine/)
 * [2023-11-08, 19:14:52](https://news.ycombinator.com/item?id=38195436) - [Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
 * [2023-11-08, 18:20:11](https://news.ycombinator.com/item?id=38194586) - [Show HN: Bulletpapers – ArXiv AI paper summarizer, won Anthropic Hackathon](https://www.bulletpapers.ai)
+* [2023-11-08, 18:04:23](https://news.ycombinator.com/item?id=38194359) - [Oil and gas production in Texas produces twice as much methane as in New Mexico](https://www.theguardian.com/us-news/2023/nov/08/texas-methane-oil-and-gas-study-climate)
 * [2023-11-08, 17:19:27](https://news.ycombinator.com/item?id=38193640) - [Automerge-Repo: A \"batteries-included\" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 17:04:02](https://news.ycombinator.com/item?id=38193354) - [Inside the weird and delightful origins of the jungle gym, which just turned 100](https://www.npr.org/2023/11/08/1209932614/jungle-gym-playground-monkey-bars-maths-hinton-fourth-dimension)
