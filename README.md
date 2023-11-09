@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 08:39:40](https://news.ycombinator.com/item?id=38202529) - [I'm calling from Israeli intelligence. We have orders to bomb. You have 2 hours](https://www.bbc.com/news/world-middle-east-67327079)
+* [2023-11-09, 08:21:22](https://news.ycombinator.com/item?id=38202403) - [Are we doing this again? Yes, we're doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
 * [2023-11-09, 07:04:04](https://news.ycombinator.com/item?id=38201995) - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
 * [2023-11-09, 06:47:25](https://news.ycombinator.com/item?id=38201914) - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
 * [2023-11-09, 06:07:17](https://news.ycombinator.com/item?id=38201724) - [Actors Strike Ends with a Deal That Will Impact AI and Streaming for Decades](https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/)
@@ -26,9 +28,7 @@
 * [2023-11-08, 10:52:53](https://news.ycombinator.com/item?id=38188759) - [A Brief History of Tricky Mathematical Tiling](https://www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/)
 * [2023-11-08, 10:18:15](https://news.ycombinator.com/item?id=38188567) - [All About Cats, and What Ethernet Classifications Mean](https://hackaday.com/2023/11/07/all-about-cats-and-what-ethernet-classifications-mean-beyond-bigger-number-better/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
-* [2023-11-08, 06:42:53](https://news.ycombinator.com/item?id=38187445) - [Koch Snowflake](http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake)
 * [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
-* [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
 * [2023-11-07, 01:08:59](https://news.ycombinator.com/item?id=38171749) - [Why does unsafe multithreaded std:unordered_map crash more than std:map?](https://devblogs.microsoft.com/oldnewthing/20231103-00/?p=108966)
 
 ## [Archives](archives/index.md)
