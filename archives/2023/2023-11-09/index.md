@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 16:19:07](https://news.ycombinator.com/item?id=38207002) - [Python errors as values: Comparing useful patterns from Rust and Go](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 * [2023-11-09, 15:53:18](https://news.ycombinator.com/item?id=38206564) - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
+* [2023-11-09, 15:45:19](https://news.ycombinator.com/item?id=38206454) - [Ask HN: Should we plan for a life after HN?](https://news.ycombinator.com/item?id=38206454)
 * [2023-11-09, 15:36:20](https://news.ycombinator.com/item?id=38206333) - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
 * [2023-11-09, 15:23:40](https://news.ycombinator.com/item?id=38206143) - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 * [2023-11-09, 14:43:23](https://news.ycombinator.com/item?id=38205595) - [Streaming TV Prices Double, Likely Driving Users Back to Piracy](https://www.techdirt.com/2023/11/09/streaming-tv-prices-double-as-enshittification-takes-root-likely-driving-users-back-to-piracy/)
@@ -61,6 +63,7 @@
 * [2023-11-09, 02:37:17](https://news.ycombinator.com/item?id=38200390) - [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 * [2023-11-09, 02:28:08](https://news.ycombinator.com/item?id=38200308) - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 * [2023-11-09, 02:05:51](https://news.ycombinator.com/item?id=38200117) - [After a $1.8B verdict, the clock is ticking on the 6% realtor commission](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html)
+* [2023-11-09, 01:39:06](https://news.ycombinator.com/item?id=38199869) - [Early computer art by Barbara Nessim (1984)](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 * [2023-11-09, 01:38:59](https://news.ycombinator.com/item?id=38199866) - [Striking Actors and Hollywood Studios Agree to a Deal](https://www.nytimes.com/2023/11/08/business/media/actors-strike-deal.html)
 * [2023-11-09, 01:17:02](https://news.ycombinator.com/item?id=38199670) - [Zuckerberg personally rejected Meta's proposals to improve teen mental health](https://www.cnn.com/2023/11/08/tech/meta-facebook-instagram-teen-safety/index.html)
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle founder shuts down site forever?](https://www.omegle.com/)
