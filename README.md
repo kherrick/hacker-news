@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 23:45:05](https://news.ycombinator.com/item?id=38212992) - [Apple co-founder Steve Wozniak suffers minor stroke](https://www.bbc.co.uk/news/technology-67366306)
 * [2023-11-09, 23:31:42](https://news.ycombinator.com/item?id=38212904) - [Wyoming discovery could be America's first new source of rare-earths since 1952](https://www.wsj.com/business/energy-oil/the-2-million-coal-mine-that-might-hold-a-37-billion-treasure-181dbdcf)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 * [2023-11-09, 23:03:34](https://news.ycombinator.com/item?id=38212653) - [No Man's Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
@@ -17,7 +18,6 @@
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 16:17:35](https://news.ycombinator.com/item?id=38206973) - [Show HN: Nango – Open unified API for product integrations](https://www.nango.dev?source=hn-nov-2023)
-* [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 * [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
 * [2023-11-09, 13:24:15](https://news.ycombinator.com/item?id=38204679) - [Reducing patch postings to Linux-kernel](https://lwn.net/SubscriberLink/950567/fd65339fb45197f6/)
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
