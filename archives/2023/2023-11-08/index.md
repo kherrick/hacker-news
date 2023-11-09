@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
 * [2023-11-08, 23:16:23](https://news.ycombinator.com/item?id=38198638) - [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
+* [2023-11-08, 22:53:30](https://news.ycombinator.com/item?id=38198417) - [Sad clown paradox](https://en.wikipedia.org/wiki/Sad_clown_paradox)
 * [2023-11-08, 22:39:47](https://news.ycombinator.com/item?id=38198239) - [FBI and Austria's C4 Hit Z-Library with a New Wave of Domain Seizures](https://torrentfreak.com/fbi-austrias-c4-hit-z-library-with-a-massive-new-wave-of-domain-seizures-231108/)
 * [2023-11-08, 22:33:41](https://news.ycombinator.com/item?id=38198156) - [Fifth-Generation Warfare](https://en.wikipedia.org/wiki/Fifth-generation_warfare)
 * [2023-11-08, 21:59:36](https://news.ycombinator.com/item?id=38197715) - [Microsoft won't let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
