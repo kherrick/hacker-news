@@ -84,6 +84,7 @@
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 08:54:48](https://news.ycombinator.com/item?id=38188108) - [Legendary Semiconductor Physicist Simon Sze is no more](https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445)
 * [2023-11-08, 08:27:41](https://news.ycombinator.com/item?id=38187972) - [Most Video Game Artwork Will Never Be Seen](https://aftermath.site/most-video-game-artwork-will-never-be-seen)
+* [2023-11-08, 08:12:16](https://news.ycombinator.com/item?id=38187891) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.co.uk/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 08:10:54](https://news.ycombinator.com/item?id=38187879) - [Shift Left Software Development Process (2022)](https://devopedia.org/shift-left)
 * [2023-11-08, 07:23:15](https://news.ycombinator.com/item?id=38187614) - [When Linux Spooked Microsoft: Remembering 1998's Leaked 'Halloween Documents'](https://linux.slashdot.org/story/23/11/05/046247/when-linux-spooked-microsoft-remembering-1998s-leaked-halloween-documents)
 * [2023-11-08, 06:50:19](https://news.ycombinator.com/item?id=38187479) - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
