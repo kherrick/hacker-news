@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-09, 16:19:07",
+      "https://news.ycombinator.com/item?id=38207002"
+    ],
+    [
+      "Python errors as values: Comparing useful patterns from Rust and Go",
+      "https://www.inngest.com/blog/python-errors-as-values"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 16:00:58",
       "https://news.ycombinator.com/item?id=38206678"
     ],
@@ -17,6 +27,16 @@
     [
       "Commercial Plant Starts Pulling Carbon from the Air",
       "https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 15:45:19",
+      "https://news.ycombinator.com/item?id=38206454"
+    ],
+    [
+      "Ask HN: Should we plan for a life after HN?",
+      "https://news.ycombinator.com/item?id=38206454"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-11-09, 10:08:56",
-      "https://news.ycombinator.com/item?id=38203117"
-    ],
-    [
-      "Hoppscotch desktop application",
-      "https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application"
-    ]
-  ],
-  [
-    [
       "2023-11-09, 10:07:46",
       "https://news.ycombinator.com/item?id=38203104"
     ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38203046"
     ],
     [
-      "Show HN: Sipgo (SIP in GO) new relase added dialog support",
+      "Show HN: SIPGO – A library for writing fast SIP services in Go",
       "https://github.com/emiago/sipgo"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=38200390"
     ],
     [
-      "Design Guidelines for Domain Specific Languages",
+      "Design Guidelines for Domain Specific Languages (2014)",
       "https://arxiv.org/abs/1409.2378"
     ]
   ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2023-11-09, 01:39:06",
+      "https://news.ycombinator.com/item?id=38199869"
+    ],
+    [
+      "Early computer art by Barbara Nessim (1984)",
+      "https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 00:40:25",
       "https://news.ycombinator.com/item?id=38199355"
     ],
     [
       "Omegle 2009-2023",
       "https://www.omegle.com/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 20:24:16",
-      "https://news.ycombinator.com/item?id=38196412"
-    ],
-    [
-      "SciPy builds for Python 3.12 on Windows are a minor miracle",
-      "https://labs.quansight.org/blog/building-scipy-with-flang"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Home Assistant blocked from integrating with Garage Door opener API",
       "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 06:24:09",
-      "https://news.ycombinator.com/item?id=38187355"
-    ],
-    [
-      "Curves and L-Systems",
-      "https://apieceofthepi.substack.com/p/curves-and-l-systems"
     ]
   ]
 ]
