@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 18:09:22](https://news.ycombinator.com/item?id=38208502) - [OpenAI Data Partnerships](https://openai.com/blog/data-partnerships)
+* [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
+* [2023-11-09, 17:52:18](https://news.ycombinator.com/item?id=38208296) - [Ask HN: Ways to make side income as a SWE?](https://news.ycombinator.com/item?id=38208296)
+* [2023-11-09, 17:30:18](https://news.ycombinator.com/item?id=38208016) - [Humane AI Pin](https://hu.ma.ne/aipin)
 * [2023-11-09, 17:25:52](https://news.ycombinator.com/item?id=38207959) - [Why Rust in Production?](https://corrode.dev/why-rust/)
 * [2023-11-09, 17:25:43](https://news.ycombinator.com/item?id=38207956) - [Peter Thiel is taking a Break from Democracy](https://www.theatlantic.com/politics/archive/2023/11/peter-thiel-2024-election-politics-investing-life-views/675946/)
 * [2023-11-09, 17:20:47](https://news.ycombinator.com/item?id=38207892) - [Show HN: GPT-4V audit for your landing page](https://uxaudit.vercel.app)
