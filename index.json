@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-09, 04:08:18",
+      "https://news.ycombinator.com/item?id=38201073"
+    ],
+    [
+      "Steve Wozniak Hospitalized in Mexico City",
+      "https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 02:37:17",
+      "https://news.ycombinator.com/item?id=38200390"
+    ],
+    [
+      "Design Guidelines for Domain Specific Languages",
+      "https://arxiv.org/abs/1409.2378"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 02:28:08",
       "https://news.ycombinator.com/item?id=38200308"
     ],
@@ -47,16 +67,6 @@
     [
       "Sad clown paradox",
       "https://en.wikipedia.org/wiki/Sad_clown_paradox"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 21:39:07",
-      "https://news.ycombinator.com/item?id=38197469"
-    ],
-    [
-      "Signal Public Username Testing (Staging Environment)",
-      "https://community.signalusers.org/t/public-username-testing-staging-environment/56866"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-11-08, 16:36:04",
-      "https://news.ycombinator.com/item?id=38192845"
-    ],
-    [
-      "Researchers design a neuroprosthetic for Parkinson's-related walking disorders",
-      "https://www.chuv.ch/fr/chuv-home/espace-pro/journalistes/communiques-de-presse/detail/major-breakthrough-in-the-treatment-of-parkinsons-disease-a-neuroprosthetic-to-help-you-walk-again"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 15:02:29",
       "https://news.ycombinator.com/item?id=38191319"
     ],
@@ -197,16 +197,6 @@
     [
       "Major outages across ChatGPT and API",
       "https://status.openai.com/incidents/00fpy0yxrx1q"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 13:00:53",
-      "https://news.ycombinator.com/item?id=38189790"
-    ],
-    [
-      "EU's concealment of secret 'expert list' on CSAM regulation is maladministration",
-      "https://www.iccl.ie/news/ombudsman-european-commissions-concealment-of-secret-expert-list-on-csam-regulation-constitutes-maladministration/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Home Assistant blocked from integrating with Garage Door opener API",
       "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 08:12:16",
+      "https://news.ycombinator.com/item?id=38187891"
+    ],
+    [
+      "Original photo from Led Zeppelin IV album cover discovered",
+      "https://www.bbc.co.uk/news/uk-england-wiltshire-67336495"
     ]
   ],
   [
