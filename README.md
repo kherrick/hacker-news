@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 17:06:31](https://news.ycombinator.com/item?id=38207656) - [The Humane AI Pin Launches Its Campaign to Replace Phones](https://www.bloomberg.com/news/articles/2023-11-09/the-humane-ai-pin-launches-its-campaign-to-replaces-phones)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 16:19:07](https://news.ycombinator.com/item?id=38207002) - [Python errors as values: Comparing useful patterns from Rust and Go](https://www.inngest.com/blog/python-errors-as-values)
@@ -19,7 +20,6 @@
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:11:08](https://news.ycombinator.com/item?id=38203553) - [The Netwide Assembler (NASM)](https://www.nasm.us/)
 * [2023-11-09, 10:07:46](https://news.ycombinator.com/item?id=38203104) - [Sharing Screen with GPT 4 vision](https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b)
-* [2023-11-09, 09:59:30](https://news.ycombinator.com/item?id=38203046) - [Show HN: SIPGO – A library for writing fast SIP services in Go](https://github.com/emiago/sipgo)
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 06:47:25](https://news.ycombinator.com/item?id=38201914) - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
