@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 20:24:18](https://news.ycombinator.com/item?id=38210703) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://quillette.com/2023/11/07/forget-about-overpopulation-soon-there-will-be-too-few-humans/)
+* [2023-11-09, 20:23:57](https://news.ycombinator.com/item?id=38210694) - [Boycott Wayland. It breaks everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [2023-11-09, 20:09:46](https://news.ycombinator.com/item?id=38210464) - [You shouldn't tell a woman to smile](https://www.usatoday.com/story/news/nation-now/2017/03/08/dont-tell-women-to-smile/98906528/)
 * [2023-11-09, 19:59:04](https://news.ycombinator.com/item?id=38210297) - [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
 * [2023-11-09, 19:54:31](https://news.ycombinator.com/item?id=38210226) - [YouTube's Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
