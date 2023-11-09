@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-09, 02:05:51](https://news.ycombinator.com/item?id=38200117) - [After a $1.8B verdict, the clock is ticking on the 6% realtor commission](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html)
+* [2023-11-09, 01:38:59](https://news.ycombinator.com/item?id=38199866) - [Striking Actors and Hollywood Studios Agree to a Deal](https://www.nytimes.com/2023/11/08/business/media/actors-strike-deal.html)
 * [2023-11-09, 01:17:02](https://news.ycombinator.com/item?id=38199670) - [Zuckerberg personally rejected Meta's proposals to improve teen mental health](https://www.cnn.com/2023/11/08/tech/meta-facebook-instagram-teen-safety/index.html)
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle founder shuts down site forever?](https://www.omegle.com/)
 * [2023-11-09, 00:02:28](https://news.ycombinator.com/item?id=38199061) - [First planned small nuclear reactor plant in the US has been canceled](https://arstechnica.com/science/2023/11/first-planned-small-nuclear-reactor-plant-in-the-us-has-been-canceled/)
@@ -15,7 +16,6 @@
 * [2023-11-08, 19:14:52](https://news.ycombinator.com/item?id=38195436) - [Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
 * [2023-11-08, 18:20:11](https://news.ycombinator.com/item?id=38194586) - [Show HN: Bulletpapers – ArXiv AI paper summarizer, won Anthropic Hackathon](https://www.bulletpapers.ai)
 * [2023-11-08, 18:04:23](https://news.ycombinator.com/item?id=38194359) - [Oil and gas production in Texas produces twice as much methane as in New Mexico](https://www.theguardian.com/us-news/2023/nov/08/texas-methane-oil-and-gas-study-climate)
-* [2023-11-08, 17:39:13](https://news.ycombinator.com/item?id=38193978) - [Is AI the next crypto? Insights from HN comments](https://openpipe.ai/blog/hn-ai-crypto)
 * [2023-11-08, 17:19:27](https://news.ycombinator.com/item?id=38193640) - [Automerge-Repo: A \"batteries-included\" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 17:04:02](https://news.ycombinator.com/item?id=38193354) - [Inside the weird and delightful origins of the jungle gym, which just turned 100](https://www.npr.org/2023/11/08/1209932614/jungle-gym-playground-monkey-bars-maths-hinton-fourth-dimension)
