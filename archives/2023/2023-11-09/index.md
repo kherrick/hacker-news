@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 17:25:43](https://news.ycombinator.com/item?id=38207956) - [Peter Thiel is taking a Break from Democracy](https://www.theatlantic.com/politics/archive/2023/11/peter-thiel-2024-election-politics-investing-life-views/675946/)
 * [2023-11-09, 17:11:56](https://news.ycombinator.com/item?id=38207743) - [Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 17:09:35](https://news.ycombinator.com/item?id=38207700) - [Humane launches $699 Ai Pin](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/)
 * [2023-11-09, 17:06:31](https://news.ycombinator.com/item?id=38207656) - [The Humane AI Pin Launches Its Campaign to Replace Phones](https://www.bloomberg.com/news/articles/2023-11-09/the-humane-ai-pin-launches-its-campaign-to-replaces-phones)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 16:19:07](https://news.ycombinator.com/item?id=38207002) - [Python errors as values: Comparing useful patterns from Rust and Go](https://www.inngest.com/blog/python-errors-as-values)
+* [2023-11-09, 16:17:35](https://news.ycombinator.com/item?id=38206973) - [Show HN: Nango – Open unified API for product integrations](https://www.nango.dev?source=hn-nov-2023)
 * [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 * [2023-11-09, 15:53:18](https://news.ycombinator.com/item?id=38206564) - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
 * [2023-11-09, 15:45:19](https://news.ycombinator.com/item?id=38206454) - [Ask HN: Should we plan for a life after HN?](https://news.ycombinator.com/item?id=38206454)
@@ -50,6 +52,7 @@
 * [2023-11-09, 09:44:40](https://news.ycombinator.com/item?id=38202959) - [EU Council and Parliament reach agreement for approving controversial eIDAS law](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
 * [2023-11-09, 09:35:15](https://news.ycombinator.com/item?id=38202885) - [How one patient found errors in the algorithm making transplant decisions](https://www.ft.com/content/5125c83a-b82b-40c5-8b35-99579e087951)
 * [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
+* [2023-11-09, 09:04:31](https://news.ycombinator.com/item?id=38202668) - [Common Core Sheets](https://www.commoncoresheets.com/)
 * [2023-11-09, 08:39:40](https://news.ycombinator.com/item?id=38202529) - [I'm calling from Israeli intelligence. We have orders to bomb. You have 2 hours](https://www.bbc.com/news/world-middle-east-67327079)
 * [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
 * [2023-11-09, 08:21:22](https://news.ycombinator.com/item?id=38202403) - [Are we doing this again? Yes, we're doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
