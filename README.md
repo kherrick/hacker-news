@@ -6,6 +6,7 @@
 * [2023-11-09, 10:00:12](https://news.ycombinator.com/item?id=38203052) - [Unemployed Man Uses AI to Apply for 5k Jobs, Gets 20 Interviews](https://futurism.com/the-byte/unemployed-man-ai-apply-5000-jobs-gets-20-interviews)
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:50:22](https://news.ycombinator.com/item?id=38202985) - [Traffic collisions including cyclists in London 2022](https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2023/Day9-cyclist-accidents/london-accidents.ipynb)
+* [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
 * [2023-11-09, 08:21:22](https://news.ycombinator.com/item?id=38202403) - [Are we doing this again? Yes, we're doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
 * [2023-11-09, 07:04:04](https://news.ycombinator.com/item?id=38201995) - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
@@ -28,7 +29,6 @@
 * [2023-11-08, 10:52:53](https://news.ycombinator.com/item?id=38188759) - [A Brief History of Tricky Mathematical Tiling](https://www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
-* [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
 * [2023-11-07, 01:08:59](https://news.ycombinator.com/item?id=38171749) - [Why does unsafe multithreaded std:unordered_map crash more than std:map?](https://devblogs.microsoft.com/oldnewthing/20231103-00/?p=108966)
 
 ## [Archives](archives/index.md)

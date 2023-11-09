@@ -12,6 +12,7 @@
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:50:22](https://news.ycombinator.com/item?id=38202985) - [Traffic collisions including cyclists in London 2022](https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2023/Day9-cyclist-accidents/london-accidents.ipynb)
 * [2023-11-09, 09:44:40](https://news.ycombinator.com/item?id=38202959) - [EU Council and Parliament reach agreement for approving controversial eIDAS law](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
+* [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 08:39:40](https://news.ycombinator.com/item?id=38202529) - [I'm calling from Israeli intelligence. We have orders to bomb. You have 2 hours](https://www.bbc.com/news/world-middle-east-67327079)
 * [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
 * [2023-11-09, 08:21:22](https://news.ycombinator.com/item?id=38202403) - [Are we doing this again? Yes, we're doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
