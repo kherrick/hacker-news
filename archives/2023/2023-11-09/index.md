@@ -6,6 +6,8 @@
 
 * [2023-11-09, 10:10:08](https://news.ycombinator.com/item?id=38203128) - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
 * [2023-11-09, 10:09:09](https://news.ycombinator.com/item?id=38203118) - [Show HN: Hacker News GPT](https://chat.openai.com/g/g-BIfVX3cVX-hackernews-gpt)
+* [2023-11-09, 10:08:56](https://news.ycombinator.com/item?id=38203117) - [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
+* [2023-11-09, 10:00:12](https://news.ycombinator.com/item?id=38203052) - [Unemployed Man Uses AI to Apply for 5k Jobs, Gets 20 Interviews](https://futurism.com/the-byte/unemployed-man-ai-apply-5000-jobs-gets-20-interviews)
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:50:22](https://news.ycombinator.com/item?id=38202985) - [Traffic collisions including cyclists in London 2022](https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2023/Day9-cyclist-accidents/london-accidents.ipynb)
 * [2023-11-09, 09:44:40](https://news.ycombinator.com/item?id=38202959) - [EU Council and Parliament reach agreement for approving controversial eIDAS law](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
