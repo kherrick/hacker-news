@@ -1,11 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 17:11:56](https://news.ycombinator.com/item?id=38207743) - [Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
+* [2023-11-09, 17:09:35](https://news.ycombinator.com/item?id=38207700) - [Humane launches $699 Ai Pin](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/)
 * [2023-11-09, 17:06:31](https://news.ycombinator.com/item?id=38207656) - [The Humane AI Pin Launches Its Campaign to Replace Phones](https://www.bloomberg.com/news/articles/2023-11-09/the-humane-ai-pin-launches-its-campaign-to-replaces-phones)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 16:19:07](https://news.ycombinator.com/item?id=38207002) - [Python errors as values: Comparing useful patterns from Rust and Go](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 * [2023-11-09, 15:53:18](https://news.ycombinator.com/item?id=38206564) - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
+* [2023-11-09, 15:43:40](https://news.ycombinator.com/item?id=38206425) - [Ask HN: Meta/FB layoffs a year later – where are you now?](https://news.ycombinator.com/item?id=38206425)
 * [2023-11-09, 15:36:20](https://news.ycombinator.com/item?id=38206333) - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
 * [2023-11-09, 15:23:40](https://news.ycombinator.com/item?id=38206143) - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 * [2023-11-09, 14:41:38](https://news.ycombinator.com/item?id=38205571) - [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
@@ -16,7 +19,6 @@
 * [2023-11-09, 13:23:23](https://news.ycombinator.com/item?id=38204673) - [Researchers analysed novels to reveal six story types](https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots)
 * [2023-11-09, 13:08:26](https://news.ycombinator.com/item?id=38204511) - [Microservices – State of Developer Ecosystem 2022 (JetBrains)](https://www.jetbrains.com/lp/devecosystem-2022/microservices/)
 * [2023-11-09, 13:00:53](https://news.ycombinator.com/item?id=38204430) - [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
-* [2023-11-09, 12:53:19](https://news.ycombinator.com/item?id=38204368) - [Nuclear Energy Project in Idaho Is Canceled](https://www.nytimes.com/2023/11/08/business/energy-environment/nuclear-energy-idaho-nuscale.html)
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:11:08](https://news.ycombinator.com/item?id=38203553) - [The Netwide Assembler (NASM)](https://www.nasm.us/)
 * [2023-11-09, 10:07:46](https://news.ycombinator.com/item?id=38203104) - [Sharing Screen with GPT 4 vision](https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b)
@@ -28,8 +30,6 @@
 * [2023-11-09, 02:28:08](https://news.ycombinator.com/item?id=38200308) - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 * [2023-11-09, 01:39:06](https://news.ycombinator.com/item?id=38199869) - [Early computer art by Barbara Nessim (1984)](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle 2009-2023](https://www.omegle.com/)
-* [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
-* [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 
 ## [Archives](archives/index.md)
 

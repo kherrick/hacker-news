@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 17:11:56](https://news.ycombinator.com/item?id=38207743) - [Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
+* [2023-11-09, 17:09:35](https://news.ycombinator.com/item?id=38207700) - [Humane launches $699 Ai Pin](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/)
 * [2023-11-09, 17:06:31](https://news.ycombinator.com/item?id=38207656) - [The Humane AI Pin Launches Its Campaign to Replace Phones](https://www.bloomberg.com/news/articles/2023-11-09/the-humane-ai-pin-launches-its-campaign-to-replaces-phones)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
@@ -11,6 +13,7 @@
 * [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 * [2023-11-09, 15:53:18](https://news.ycombinator.com/item?id=38206564) - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
 * [2023-11-09, 15:45:19](https://news.ycombinator.com/item?id=38206454) - [Ask HN: Should we plan for a life after HN?](https://news.ycombinator.com/item?id=38206454)
+* [2023-11-09, 15:43:40](https://news.ycombinator.com/item?id=38206425) - [Ask HN: Meta/FB layoffs a year later – where are you now?](https://news.ycombinator.com/item?id=38206425)
 * [2023-11-09, 15:36:20](https://news.ycombinator.com/item?id=38206333) - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
 * [2023-11-09, 15:23:40](https://news.ycombinator.com/item?id=38206143) - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 * [2023-11-09, 14:43:23](https://news.ycombinator.com/item?id=38205595) - [Streaming TV Prices Double, Likely Driving Users Back to Piracy](https://www.techdirt.com/2023/11/09/streaming-tv-prices-double-as-enshittification-takes-root-likely-driving-users-back-to-piracy/)
