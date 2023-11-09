@@ -8,3 +8,4 @@
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle founder shuts down site forever?](https://www.omegle.com/)
 * [2023-11-09, 00:32:08](https://news.ycombinator.com/item?id=38199304) - [Fossil Fuel Use Increasing, Not Decreasing](https://www.nytimes.com/2023/11/08/climate/fossil-fuels-expanding.html)
 * [2023-11-09, 00:21:14](https://news.ycombinator.com/item?id=38199233) - [Man crushed to death by robot that mistook him for a box of vegetables](https://www.telegraph.co.uk/world-news/2023/11/08/man-crushed-to-death-south-korea-industrial-robot/)
+* [2023-11-09, 00:02:28](https://news.ycombinator.com/item?id=38199061) - [First planned small nuclear reactor plant in the US has been canceled](https://arstechnica.com/science/2023/11/first-planned-small-nuclear-reactor-plant-in-the-us-has-been-canceled/)
