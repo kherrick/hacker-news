@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-09, 12:13:01](https://news.ycombinator.com/item?id=38204010) - [YouTube's ban leads to a record number of users uninstalling their ad-blockers](https://www.zdnet.com/article/youtubes-ban-leads-to-a-record-number-of-users-uninstalling-their-ad-blockers/)
+* [2023-11-09, 13:00:53](https://news.ycombinator.com/item?id=38204430) - [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:50:56](https://news.ycombinator.com/item?id=38203861) - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
 * [2023-11-09, 11:45:40](https://news.ycombinator.com/item?id=38203821) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html)
@@ -13,7 +13,6 @@
 * [2023-11-09, 09:59:30](https://news.ycombinator.com/item?id=38203046) - [Show HN: Sipgo (SIP in GO) new relase added dialog support](https://github.com/emiago/sipgo)
 * [2023-11-09, 09:56:39](https://news.ycombinator.com/item?id=38203032) - [HN: I built a tool to create interactive demo in seconds for SaaS](https://www.guideflow.com/)
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
-* [2023-11-09, 09:35:15](https://news.ycombinator.com/item?id=38202885) - [How one patient found errors in the algorithm making transplant decisions](https://www.ft.com/content/5125c83a-b82b-40c5-8b35-99579e087951)
 * [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
 * [2023-11-09, 08:21:22](https://news.ycombinator.com/item?id=38202403) - [Are we doing this again? Yes, we're doing this again](https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/)
@@ -28,6 +27,7 @@
 * [2023-11-08, 22:53:30](https://news.ycombinator.com/item?id=38198417) - [Sad clown paradox](https://en.wikipedia.org/wiki/Sad_clown_paradox)
 * [2023-11-08, 20:41:34](https://news.ycombinator.com/item?id=38196644) - [Interesting Bugs Caught by ESLint's no-constant-binary-expression (2022)](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
 * [2023-11-08, 20:24:16](https://news.ycombinator.com/item?id=38196412) - [SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
+* [2023-11-08, 10:52:53](https://news.ycombinator.com/item?id=38188759) - [A Brief History of Tricky Mathematical Tiling](https://www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 

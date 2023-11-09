@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 13:00:53](https://news.ycombinator.com/item?id=38204430) - [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
 * [2023-11-09, 12:13:01](https://news.ycombinator.com/item?id=38204010) - [YouTube's ban leads to a record number of users uninstalling their ad-blockers](https://www.zdnet.com/article/youtubes-ban-leads-to-a-record-number-of-users-uninstalling-their-ad-blockers/)
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:50:56](https://news.ycombinator.com/item?id=38203861) - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
