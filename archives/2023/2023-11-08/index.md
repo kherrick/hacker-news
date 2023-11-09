@@ -68,6 +68,7 @@
 * [2023-11-08, 12:52:58](https://news.ycombinator.com/item?id=38189720) - [The open-stack library: a futuristic technology from the 18th century](https://resobscura.substack.com/p/the-open-stack-library-a-futuristic)
 * [2023-11-08, 12:45:09](https://news.ycombinator.com/item?id=38189638) - [Show HN: Modeling Berlin subway lines in graph database](https://memgraph.com/blog/ridding-the-berlin-subway-graph-database-adventure-with-memgraph-lab)
 * [2023-11-08, 12:33:43](https://news.ycombinator.com/item?id=38189545) - [The Third Wave (Experiment)](https://en.wikipedia.org/wiki/The_Third_Wave_(experiment))
+* [2023-11-08, 11:51:47](https://news.ycombinator.com/item?id=38189160) - [Aggregation and Tiling as Multicomputational Processes](https://writings.stephenwolfram.com/2023/11/aggregation-and-tiling-as-multicomputational-processes/)
 * [2023-11-08, 11:41:27](https://news.ycombinator.com/item?id=38189084) - [Bad eIDAS: Europe ready to intercept, spy on your encrypted HTTPS connections](https://www.theregister.com/2023/11/08/europe_eidas_browser/)
 * [2023-11-08, 11:24:19](https://news.ycombinator.com/item?id=38188938) - [Banning E2EE Is Stupid](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-08, 10:57:11](https://news.ycombinator.com/item?id=38188788) - [Opusmodus: Common Lisp Music Composition System](https://opusmodus.com/)
