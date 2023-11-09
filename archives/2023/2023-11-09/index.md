@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
+* [2023-11-09, 15:53:18](https://news.ycombinator.com/item?id=38206564) - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
 * [2023-11-09, 15:36:20](https://news.ycombinator.com/item?id=38206333) - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
 * [2023-11-09, 15:23:40](https://news.ycombinator.com/item?id=38206143) - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 * [2023-11-09, 14:43:23](https://news.ycombinator.com/item?id=38205595) - [Streaming TV Prices Double, Likely Driving Users Back to Piracy](https://www.techdirt.com/2023/11/09/streaming-tv-prices-double-as-enshittification-takes-root-likely-driving-users-back-to-piracy/)

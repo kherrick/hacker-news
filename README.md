@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
+* [2023-11-09, 15:53:18](https://news.ycombinator.com/item?id=38206564) - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
 * [2023-11-09, 15:36:20](https://news.ycombinator.com/item?id=38206333) - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
 * [2023-11-09, 15:23:40](https://news.ycombinator.com/item?id=38206143) - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 * [2023-11-09, 14:41:38](https://news.ycombinator.com/item?id=38205571) - [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
@@ -12,7 +14,6 @@
 * [2023-11-09, 12:53:19](https://news.ycombinator.com/item?id=38204368) - [Nuclear Energy Project in Idaho Is Canceled](https://www.nytimes.com/2023/11/08/business/energy-environment/nuclear-energy-idaho-nuscale.html)
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:11:08](https://news.ycombinator.com/item?id=38203553) - [The Netwide Assembler (NASM)](https://www.nasm.us/)
-* [2023-11-09, 10:10:08](https://news.ycombinator.com/item?id=38203128) - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
 * [2023-11-09, 10:08:56](https://news.ycombinator.com/item?id=38203117) - [Hoppscotch desktop application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
 * [2023-11-09, 10:07:46](https://news.ycombinator.com/item?id=38203104) - [Sharing Screen with GPT 4 vision](https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b)
 * [2023-11-09, 09:59:30](https://news.ycombinator.com/item?id=38203046) - [Show HN: Sipgo (SIP in GO) new relase added dialog support](https://github.com/emiago/sipgo)
@@ -25,7 +26,6 @@
 * [2023-11-09, 02:37:17](https://news.ycombinator.com/item?id=38200390) - [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 * [2023-11-09, 02:28:08](https://news.ycombinator.com/item?id=38200308) - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle 2009-2023](https://www.omegle.com/)
-* [2023-11-08, 20:41:34](https://news.ycombinator.com/item?id=38196644) - [Interesting Bugs Caught by ESLint's no-constant-binary-expression (2022)](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
 * [2023-11-08, 20:24:16](https://news.ycombinator.com/item?id=38196412) - [SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 11:55:44](https://news.ycombinator.com/item?id=38189196) - [Zelda the Movie Shows Nintendo Has Learned Its Lessons](https://www.bloomberg.com/opinion/articles/2023-11-08/zelda-the-movie-shows-nintendo-has-learned-its-lesson)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
