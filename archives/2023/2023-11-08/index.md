@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 23:16:23](https://news.ycombinator.com/item?id=38198638) - [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
 * [2023-11-08, 22:39:47](https://news.ycombinator.com/item?id=38198239) - [FBI and Austria's C4 Hit Z-Library with a New Wave of Domain Seizures](https://torrentfreak.com/fbi-austrias-c4-hit-z-library-with-a-massive-new-wave-of-domain-seizures-231108/)
 * [2023-11-08, 22:33:41](https://news.ycombinator.com/item?id=38198156) - [Fifth-Generation Warfare](https://en.wikipedia.org/wiki/Fifth-generation_warfare)
 * [2023-11-08, 21:59:36](https://news.ycombinator.com/item?id=38197715) - [Microsoft won't let you close OneDrive on Windows until you explain yourself](https://www.theverge.com/2023/11/8/23952878/microsoft-onedrive-windows-close-app-notification)
@@ -84,6 +85,7 @@
 * [2023-11-08, 06:50:19](https://news.ycombinator.com/item?id=38187479) - [EU Digital Identity Reform: The Good, Bad and Ugly in the EIDAS Regulation](https://epicenter.works/en/content/eu-digital-identity-reform-the-good-bad-ugly-in-the-eidas-regulation)
 * [2023-11-08, 06:49:11](https://news.ycombinator.com/item?id=38187474) - [Apple Hits Pause on iOS 18, macOS 15 Development as Bugs Spread](https://www.tomshardware.com/software/apple-hits-pause-on-ios-18-macos-15-development-as-bugs-spread)
 * [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
+* [2023-11-08, 06:42:53](https://news.ycombinator.com/item?id=38187445) - [Koch Snowflake](http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake)
 * [2023-11-08, 06:39:00](https://news.ycombinator.com/item?id=38187430) - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
 * [2023-11-08, 06:12:21](https://news.ycombinator.com/item?id=38187301) - [\"I'm calling from Israeli intelligence\"](https://www.bbc.co.uk/news/world-middle-east-67327079)
 * [2023-11-08, 04:33:01](https://news.ycombinator.com/item?id=38186828) - [Google Bard introduces \"Human reviewers,\" sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
