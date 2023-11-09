@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-09, 06:47:25](https://news.ycombinator.com/item?id=38201914) - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
-* [2023-11-09, 06:08:11](https://news.ycombinator.com/item?id=38201728) - [Lobbyist says Right to Repair is bad for black people [video]](https://www.youtube.com/watch?v=W6DB0Oo81OE)
 * [2023-11-09, 05:53:15](https://news.ycombinator.com/item?id=38201646) - [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
 * [2023-11-09, 05:48:46](https://news.ycombinator.com/item?id=38201624) - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
 * [2023-11-09, 05:21:31](https://news.ycombinator.com/item?id=38201471) - [Tested: Black 4.0, the \"blackest black\" is a lot blacker. 0f1012 vs. 272928](https://i.imgur.com/3njfTJP.jpg)
@@ -23,6 +22,7 @@
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Major outages across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
 * [2023-11-08, 11:51:47](https://news.ycombinator.com/item?id=38189160) - [Aggregation and Tiling as Multicomputational Processes](https://writings.stephenwolfram.com/2023/11/aggregation-and-tiling-as-multicomputational-processes/)
+* [2023-11-08, 10:52:53](https://news.ycombinator.com/item?id=38188759) - [A Brief History of Tricky Mathematical Tiling](https://www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/)
 * [2023-11-08, 10:18:15](https://news.ycombinator.com/item?id=38188567) - [All About Cats, and What Ethernet Classifications Mean](https://hackaday.com/2023/11/07/all-about-cats-and-what-ethernet-classifications-mean-beyond-bigger-number-better/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 06:42:53](https://news.ycombinator.com/item?id=38187445) - [Koch Snowflake](http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake)
