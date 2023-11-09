@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 14:43:23](https://news.ycombinator.com/item?id=38205595) - [Streaming TV Prices Double, Likely Driving Users Back to Piracy](https://www.techdirt.com/2023/11/09/streaming-tv-prices-double-as-enshittification-takes-root-likely-driving-users-back-to-piracy/)
+* [2023-11-09, 14:41:38](https://news.ycombinator.com/item?id=38205571) - [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
 * [2023-11-09, 14:08:12](https://news.ycombinator.com/item?id=38205155) - [Apple and Irish Government suffer major setback in €13B EU case](https://www.irishtimes.com/business/2023/11/09/apple-and-irish-government-suffer-major-setback-in-13bn-eu-tax-case/)
 * [2023-11-09, 13:57:56](https://news.ycombinator.com/item?id=38205022) - [Sex, Age, and Smartphone Addiction Across 41 Countries](https://link.springer.com/article/10.1007/s11469-023-01146-3)
 * [2023-11-09, 13:48:29](https://news.ycombinator.com/item?id=38204907) - [NYC's new rat-killing weapon is wildly successful – for now](https://www.businessinsider.com/nyc-successful-rat-killing-method-wont-solve-rat-problem-expert-2023-11)
