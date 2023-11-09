@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
 * [2023-11-09, 21:11:48](https://news.ycombinator.com/item?id=38211383) - [On Medieval Cats](https://going-medieval.com/2023/05/16/on-cats/)
+* [2023-11-09, 21:03:30](https://news.ycombinator.com/item?id=38211266) - [Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
 * [2023-11-09, 20:24:18](https://news.ycombinator.com/item?id=38210703) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://quillette.com/2023/11/07/forget-about-overpopulation-soon-there-will-be-too-few-humans/)
 * [2023-11-09, 20:23:57](https://news.ycombinator.com/item?id=38210694) - [Boycott Wayland. It breaks everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [2023-11-09, 20:16:34](https://news.ycombinator.com/item?id=38210574) - [Monaspace](https://monaspace.githubnext.com/)

@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-09, 21:11:48](https://news.ycombinator.com/item?id=38211383) - [On Medieval Cats](https://going-medieval.com/2023/05/16/on-cats/)
+* [2023-11-09, 21:03:30](https://news.ycombinator.com/item?id=38211266) - [Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
 * [2023-11-09, 20:16:34](https://news.ycombinator.com/item?id=38210574) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 20:15:18](https://news.ycombinator.com/item?id=38210550) - [Illinois Senate approves plan to allow new nuclear reactors](https://apnews.com/article/illinois-nuclear-small-modular-reactors-moratorium-a56a90a09185e864cdd7f5d6d24b9d48)
 * [2023-11-09, 19:59:04](https://news.ycombinator.com/item?id=38210297) - [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
 * [2023-11-09, 19:25:15](https://news.ycombinator.com/item?id=38209680) - [Doctors Complete First Successful Face and Whole-Eye Transplant](https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/)
 * [2023-11-09, 19:00:06](https://news.ycombinator.com/item?id=38209312) - [Tumblr is reportedly on life support as its latest owner reassigns staff](https://arstechnica.com/gadgets/2023/11/tumblr-is-reportedly-on-life-support-as-its-latest-owner-reassigns-staff/)
-* [2023-11-09, 18:23:15](https://news.ycombinator.com/item?id=38208726) - [No bar exam required to practice law in Oregon starting next year](https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
 * [2023-11-09, 17:53:59](https://news.ycombinator.com/item?id=38208321) - [Introducing Adept Experiments – use AI workflows to delegate repetitive tasks](https://www.adept.ai/blog/experiments)
 * [2023-11-09, 17:30:18](https://news.ycombinator.com/item?id=38208016) - [Humane AI Pin](https://hu.ma.ne/aipin)
