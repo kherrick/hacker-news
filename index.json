@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38204673"
     ],
     [
-      "Every story in the world has one of these six basic plots",
+      "Every story has one of these six basic plots",
       "https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Ploomber (YC W22) Is Hiring Software Engineers",
       "https://www.ycombinator.com/companies/ploomber"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 11:45:40",
-      "https://news.ycombinator.com/item?id=38203821"
-    ],
-    [
-      "Thiel's Unicorn Success Is Awkward for Colleges",
-      "https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html"
     ]
   ],
   [
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2023-11-09, 09:56:39",
-      "https://news.ycombinator.com/item?id=38203032"
-    ],
-    [
-      "HN: I built a tool to create interactive demo in seconds for SaaS",
-      "https://www.guideflow.com/"
-    ]
-  ],
-  [
-    [
       "2023-11-09, 09:51:26",
       "https://news.ycombinator.com/item?id=38202993"
     ],
@@ -187,6 +167,16 @@
     [
       "Are we doing this again? Yes, we're doing this again",
       "https://webdevlaw.uk/2023/11/08/investigatory-powers-act-amendment-kings-speech/"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 07:04:04",
+      "https://news.ycombinator.com/item?id=38201995"
+    ],
+    [
+      "Copilot for Docs",
+      "https://githubnext.com/projects/copilot-for-docs/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Sad clown paradox",
       "https://en.wikipedia.org/wiki/Sad_clown_paradox"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 20:41:34",
+      "https://news.ycombinator.com/item?id=38196644"
+    ],
+    [
+      "Interesting Bugs Caught by ESLint's no-constant-binary-expression (2022)",
+      "https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/"
     ]
   ],
   [
