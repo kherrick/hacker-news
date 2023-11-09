@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 16:19:07](https://news.ycombinator.com/item?id=38207002) - [Python errors as values: Comparing useful patterns from Rust and Go](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 16:00:58](https://news.ycombinator.com/item?id=38206678) - [World's largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 * [2023-11-09, 15:53:18](https://news.ycombinator.com/item?id=38206564) - [Commercial Plant Starts Pulling Carbon from the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html)
@@ -20,6 +21,7 @@
 * [2023-11-09, 13:33:51](https://news.ycombinator.com/item?id=38204762) - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram)
 * [2023-11-09, 13:32:40](https://news.ycombinator.com/item?id=38204756) - [We Need a Revolution](https://www.fairphone.com/en/2023/11/09/we-need-a-revolution/)
 * [2023-11-09, 13:30:13](https://news.ycombinator.com/item?id=38204733) - [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
+* [2023-11-09, 13:24:15](https://news.ycombinator.com/item?id=38204679) - [Reducing patch postings to Linux-kernel](https://lwn.net/SubscriberLink/950567/fd65339fb45197f6/)
 * [2023-11-09, 13:23:23](https://news.ycombinator.com/item?id=38204673) - [Every story in the world has one of these six basic plots](https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots)
 * [2023-11-09, 13:08:26](https://news.ycombinator.com/item?id=38204511) - [Microservices – State of Developer Ecosystem 2022 (JetBrains)](https://www.jetbrains.com/lp/devecosystem-2022/microservices/)
 * [2023-11-09, 13:00:53](https://news.ycombinator.com/item?id=38204430) - [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
