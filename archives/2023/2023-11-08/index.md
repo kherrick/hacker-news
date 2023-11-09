@@ -92,6 +92,7 @@
 * [2023-11-08, 06:44:00](https://news.ycombinator.com/item?id=38187450) - [The bash book to rule them all](https://fabiensanglard.net/bash/index.html)
 * [2023-11-08, 06:42:53](https://news.ycombinator.com/item?id=38187445) - [Koch Snowflake](http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake)
 * [2023-11-08, 06:39:00](https://news.ycombinator.com/item?id=38187430) - [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
+* [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 * [2023-11-08, 06:12:21](https://news.ycombinator.com/item?id=38187301) - [\"I'm calling from Israeli intelligence\"](https://www.bbc.co.uk/news/world-middle-east-67327079)
 * [2023-11-08, 04:33:01](https://news.ycombinator.com/item?id=38186828) - [Google Bard introduces \"Human reviewers,\" sparking privacy concerns](https://techstartups.com/2023/10/23/google-bard-now-includes-human-reviewers-who-may-read-your-conversations-dont-enter-sensitive-info-google-says/)
 * [2023-11-08, 04:03:01](https://news.ycombinator.com/item?id=38186633) - [Prompts – Lightweight, beautiful and user-friendly interactive prompts](https://github.com/terkelg/prompts)

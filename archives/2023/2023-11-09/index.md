@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 04:53:52](https://news.ycombinator.com/item?id=38201318) - [S-LoRA: Serving Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
+* [2023-11-09, 04:50:42](https://news.ycombinator.com/item?id=38201302) - [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
+* [2023-11-09, 04:48:22](https://news.ycombinator.com/item?id=38201289) - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
 * [2023-11-09, 04:08:18](https://news.ycombinator.com/item?id=38201073) - [Steve Wozniak Hospitalized in Mexico City](https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/)
 * [2023-11-09, 03:47:08](https://news.ycombinator.com/item?id=38200931) - [A Hiker Is Lucky to Be Alive After Following a Fake Trail on Google Maps](https://www.backpacker.com/news-and-events/news/a-hiker-is-lucky-to-be-alive-after-following-a-fake-trail-on-google-maps/)
 * [2023-11-09, 02:37:17](https://news.ycombinator.com/item?id=38200390) - [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
