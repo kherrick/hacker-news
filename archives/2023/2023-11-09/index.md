@@ -47,6 +47,7 @@
 * [2023-11-09, 11:50:56](https://news.ycombinator.com/item?id=38203861) - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
 * [2023-11-09, 11:45:40](https://news.ycombinator.com/item?id=38203821) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html)
 * [2023-11-09, 11:42:15](https://news.ycombinator.com/item?id=38203795) - [List of experts advising the EU in support of CSAM has been published](https://digitalcourage.social/@echo_pbreyer/111364497308411817#.)
+* [2023-11-09, 11:26:35](https://news.ycombinator.com/item?id=38203668) - [Calculator Construction Set](https://www.folklore.org/StoryView.py?story=Calculator_Construction_Set.txt)
 * [2023-11-09, 11:11:08](https://news.ycombinator.com/item?id=38203553) - [The Netwide Assembler (NASM)](https://www.nasm.us/)
 * [2023-11-09, 10:45:12](https://news.ycombinator.com/item?id=38203349) - [Hitler-Mannerheim Recording](https://yle.fi/aihe/artikkeli/2018/06/04/hitlers-secretly-recorded-conversation-in-finland)
 * [2023-11-09, 10:10:08](https://news.ycombinator.com/item?id=38203128) - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
