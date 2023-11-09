@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 15:36:20](https://news.ycombinator.com/item?id=38206333) - [Las Vegas Sphere reports $98.4M loss; CFO quits](https://lasvegassun.com/news/2023/nov/08/las-vegas-sphere-reports-984-million-loss-cfo-quit/)
+* [2023-11-09, 15:23:40](https://news.ycombinator.com/item?id=38206143) - [CLion Nova Explodes onto the C and C++ Development Scene](https://blog.jetbrains.com/clion/2023/11/clion-nova/)
 * [2023-11-09, 14:41:38](https://news.ycombinator.com/item?id=38205571) - [Olive oil soars, and thieves go after century-old trees in the Mediterranean](https://www.latimes.com/world-nation/story/2023-11-08/olive-oil-price-soars-thieves-target-old-trees)
+* [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
 * [2023-11-09, 13:44:58](https://news.ycombinator.com/item?id=38204872) - [System76's Lemur Pro Laptop Is Just a Nice Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
 * [2023-11-09, 13:30:13](https://news.ycombinator.com/item?id=38204733) - [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
 * [2023-11-09, 13:23:23](https://news.ycombinator.com/item?id=38204673) - [Researchers analysed novels to reveal six story types](https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots)
@@ -16,7 +19,6 @@
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Scandinavian spy drama: An intelligence chief who came under state surveillance](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
-* [2023-11-09, 07:04:04](https://news.ycombinator.com/item?id=38201995) - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
 * [2023-11-09, 06:47:25](https://news.ycombinator.com/item?id=38201914) - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
 * [2023-11-09, 05:48:46](https://news.ycombinator.com/item?id=38201624) - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
 * [2023-11-09, 04:50:42](https://news.ycombinator.com/item?id=38201302) - [Sony announces a9 III: first full-frame global shutter camera](https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera)
@@ -25,9 +27,7 @@
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle 2009-2023](https://www.omegle.com/)
 * [2023-11-08, 20:41:34](https://news.ycombinator.com/item?id=38196644) - [Interesting Bugs Caught by ESLint's no-constant-binary-expression (2022)](https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/)
 * [2023-11-08, 20:24:16](https://news.ycombinator.com/item?id=38196412) - [SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
-* [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 11:55:44](https://news.ycombinator.com/item?id=38189196) - [Zelda the Movie Shows Nintendo Has Learned Its Lessons](https://www.bloomberg.com/opinion/articles/2023-11-08/zelda-the-movie-shows-nintendo-has-learned-its-lesson)
-* [2023-11-08, 10:52:53](https://news.ycombinator.com/item?id=38188759) - [A Brief History of Tricky Mathematical Tiling](https://www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 
