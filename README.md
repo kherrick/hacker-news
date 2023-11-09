@@ -18,6 +18,7 @@
 * [2023-11-08, 19:14:52](https://news.ycombinator.com/item?id=38195436) - [Kurdish Parentheses on OpenStreetMap, Three Ways](https://blog.georeactor.com/osm-1)
 * [2023-11-08, 18:20:11](https://news.ycombinator.com/item?id=38194586) - [Show HN: Bulletpapers – ArXiv AI paper summarizer, won Anthropic Hackathon](https://www.bulletpapers.ai)
 * [2023-11-08, 17:19:27](https://news.ycombinator.com/item?id=38193640) - [Automerge-Repo: A \"batteries-included\" toolkit for local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
+* [2023-11-08, 17:11:31](https://news.ycombinator.com/item?id=38193494) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.com/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 17:04:02](https://news.ycombinator.com/item?id=38193354) - [Inside the weird and delightful origins of the jungle gym, which just turned 100](https://www.npr.org/2023/11/08/1209932614/jungle-gym-playground-monkey-bars-maths-hinton-fourth-dimension)
 * [2023-11-08, 15:02:29](https://news.ycombinator.com/item?id=38191319) - [Quake Brutalist Jam II](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/)
 * [2023-11-08, 14:02:39](https://news.ycombinator.com/item?id=38190401) - [Major outages across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
@@ -28,7 +29,6 @@
 * [2023-11-08, 06:42:53](https://news.ycombinator.com/item?id=38187445) - [Koch Snowflake](http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake)
 * [2023-11-08, 06:24:09](https://news.ycombinator.com/item?id=38187355) - [Curves and L-Systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 * [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
-* [2023-11-07, 20:17:53](https://news.ycombinator.com/item?id=38182197) - [Whither philosophy?](https://aeon.co/essays/since-when-is-philosophy-a-branch-of-the-self-help-industry)
 * [2023-11-07, 01:08:59](https://news.ycombinator.com/item?id=38171749) - [Why does unsafe multithreaded std:unordered_map crash more than std:map?](https://devblogs.microsoft.com/oldnewthing/20231103-00/?p=108966)
 
 ## [Archives](archives/index.md)
