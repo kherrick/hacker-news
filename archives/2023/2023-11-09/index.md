@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
+* [2023-11-09, 11:50:56](https://news.ycombinator.com/item?id=38203861) - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
+* [2023-11-09, 11:45:40](https://news.ycombinator.com/item?id=38203821) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html)
 * [2023-11-09, 10:45:12](https://news.ycombinator.com/item?id=38203349) - [Hitler-Mannerheim Recording](https://yle.fi/aihe/artikkeli/2018/06/04/hitlers-secretly-recorded-conversation-in-finland)
 * [2023-11-09, 10:10:08](https://news.ycombinator.com/item?id=38203128) - [Ask HN: As a first-time solopreneur how would you go about hiring the first team](https://news.ycombinator.com/item?id=38203128)
 * [2023-11-09, 10:09:09](https://news.ycombinator.com/item?id=38203118) - [Show HN: Hacker News GPT](https://chat.openai.com/g/g-BIfVX3cVX-hackernews-gpt)
 * [2023-11-09, 10:08:56](https://news.ycombinator.com/item?id=38203117) - [Hoppscotch Desktop Application](https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application)
+* [2023-11-09, 10:07:46](https://news.ycombinator.com/item?id=38203104) - [Sharing Screen with GPT 4 vision](https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b)
 * [2023-11-09, 10:00:12](https://news.ycombinator.com/item?id=38203052) - [Unemployed Man Uses AI to Apply for 5k Jobs, Gets 20 Interviews](https://futurism.com/the-byte/unemployed-man-ai-apply-5000-jobs-gets-20-interviews)
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:50:22](https://news.ycombinator.com/item?id=38202985) - [Traffic collisions including cyclists in London 2022](https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2023/Day9-cyclist-accidents/london-accidents.ipynb)
