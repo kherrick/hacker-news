@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 18:59:05](https://news.ycombinator.com/item?id=38209297) - [AI is about to change how you use computers](https://www.gatesnotes.com/AI-agents)
+* [2023-11-09, 18:27:45](https://news.ycombinator.com/item?id=38208797) - [Microsoft steals access data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
 * [2023-11-09, 18:24:21](https://news.ycombinator.com/item?id=38208742) - [Jezebel to shut down after 16 years as parent company lays off staff](https://www.theguardian.com/media/2023/nov/09/jezebel-news-shut-down-layoffs-go-media)
 * [2023-11-09, 18:09:22](https://news.ycombinator.com/item?id=38208502) - [OpenAI Data Partnerships](https://openai.com/blog/data-partnerships)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
