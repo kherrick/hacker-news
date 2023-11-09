@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2023-11-09, 10:09:09",
-      "https://news.ycombinator.com/item?id=38203118"
+      "2023-11-09, 10:08:56",
+      "https://news.ycombinator.com/item?id=38203117"
     ],
     [
-      "Show HN: Hacker News GPT",
-      "https://chat.openai.com/g/g-BIfVX3cVX-hackernews-gpt"
+      "Hoppscotch Desktop Application",
+      "https://hoppscotch.com/blog/introducing-hoppscotch-desktop-application"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 10:00:12",
+      "https://news.ycombinator.com/item?id=38203052"
+    ],
+    [
+      "Unemployed Man Uses AI to Apply for 5k Jobs, Gets 20 Interviews",
+      "https://futurism.com/the-byte/unemployed-man-ai-apply-5000-jobs-gets-20-interviews"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-11-08, 19:56:01",
-      "https://news.ycombinator.com/item?id=38196008"
-    ],
-    [
-      "We wrote the OpenAI Wanderlust app in pure Python using Solara",
-      "https://github.com/widgetti/wanderlust"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 15:02:29",
       "https://news.ycombinator.com/item?id=38191319"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-11-08, 10:18:15",
-      "https://news.ycombinator.com/item?id=38188567"
-    ],
-    [
-      "All About Cats, and What Ethernet Classifications Mean",
-      "https://hackaday.com/2023/11/07/all-about-cats-and-what-ethernet-classifications-mean-beyond-bigger-number-better/"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 09:04:18",
       "https://news.ycombinator.com/item?id=38188162"
     ],
     [
       "Home Assistant blocked from integrating with Garage Door opener API",
       "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 06:42:53",
+      "https://news.ycombinator.com/item?id=38187445"
+    ],
+    [
+      "Koch Snowflake",
+      "http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake"
     ]
   ],
   [
