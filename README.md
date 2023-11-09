@@ -21,7 +21,7 @@
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:26:35](https://news.ycombinator.com/item?id=38203668) - [Calculator Construction Set (1982)](https://www.folklore.org/StoryView.py?story=Calculator_Construction_Set.txt)
 * [2023-11-09, 11:11:08](https://news.ycombinator.com/item?id=38203553) - [The Netwide Assembler (NASM)](https://www.nasm.us/)
-* [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
+* [2023-11-09, 09:12:47](https://news.ycombinator.com/item?id=38202729) - [An interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
 * [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 09:04:31](https://news.ycombinator.com/item?id=38202668) - [Common Core Sheets](https://www.commoncoresheets.com/)
 * [2023-11-09, 02:54:10](https://news.ycombinator.com/item?id=38200532) - [The Father-Son Struggle That Helped Ensure IBM's Success](https://www.nytimes.com/2023/10/25/books/review/the-greatest-capitalist-who-ever-lived-ralph-watson-mcelvenny-marc-wortman.html)
