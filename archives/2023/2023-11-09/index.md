@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
 * [2023-11-09, 04:08:18](https://news.ycombinator.com/item?id=38201073) - [Steve Wozniak Hospitalized in Mexico City](https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/)
+* [2023-11-09, 03:47:08](https://news.ycombinator.com/item?id=38200931) - [A Hiker Is Lucky to Be Alive After Following a Fake Trail on Google Maps](https://www.backpacker.com/news-and-events/news/a-hiker-is-lucky-to-be-alive-after-following-a-fake-trail-on-google-maps/)
 * [2023-11-09, 02:37:17](https://news.ycombinator.com/item?id=38200390) - [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 * [2023-11-09, 02:28:08](https://news.ycombinator.com/item?id=38200308) - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 * [2023-11-09, 02:05:51](https://news.ycombinator.com/item?id=38200117) - [After a $1.8B verdict, the clock is ticking on the 6% realtor commission](https://www.cnn.com/2023/11/05/homes/nar-verdict-real-estate-commission-fee/index.html)

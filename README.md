@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-09, 04:08:18](https://news.ycombinator.com/item?id=38201073) - [Steve Wozniak Hospitalized in Mexico City](https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/)
+* [2023-11-09, 03:47:08](https://news.ycombinator.com/item?id=38200931) - [A Hiker Is Lucky to Be Alive After Following a Fake Trail on Google Maps](https://www.backpacker.com/news-and-events/news/a-hiker-is-lucky-to-be-alive-after-following-a-fake-trail-on-google-maps/)
 * [2023-11-09, 02:37:17](https://news.ycombinator.com/item?id=38200390) - [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378)
 * [2023-11-09, 02:28:08](https://news.ycombinator.com/item?id=38200308) - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle founder shuts down site forever?](https://www.omegle.com/)
@@ -24,7 +25,6 @@
 * [2023-11-08, 10:52:53](https://news.ycombinator.com/item?id=38188759) - [A Brief History of Tricky Mathematical Tiling](https://www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/)
 * [2023-11-08, 10:18:15](https://news.ycombinator.com/item?id=38188567) - [All About Cats, and What Ethernet Classifications Mean](https://hackaday.com/2023/11/07/all-about-cats-and-what-ethernet-classifications-mean-beyond-bigger-number-better/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
-* [2023-11-08, 08:12:16](https://news.ycombinator.com/item?id=38187891) - [Original photo from Led Zeppelin IV album cover discovered](https://www.bbc.co.uk/news/uk-england-wiltshire-67336495)
 * [2023-11-08, 06:42:53](https://news.ycombinator.com/item?id=38187445) - [Koch Snowflake](http://www.tikalon.com/blog/blog.php?article=2023/Koch_snowflake)
 * [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
 * [2023-11-07, 20:17:53](https://news.ycombinator.com/item?id=38182197) - [Whither philosophy?](https://aeon.co/essays/since-when-is-philosophy-a-branch-of-the-self-help-industry)
