@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 12:13:01](https://news.ycombinator.com/item?id=38204010) - [YouTube's ban leads to a record number of users uninstalling their ad-blockers](https://www.zdnet.com/article/youtubes-ban-leads-to-a-record-number-of-users-uninstalling-their-ad-blockers/)
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:50:56](https://news.ycombinator.com/item?id=38203861) - [Steve Wozniak hospitalized after fainting at an event in Mexico City](https://www.cnn.com/2023/11/09/tech/apple-cofounder-steve-wozniak-hospitalized-intl-hnk/index.html)
 * [2023-11-09, 11:45:40](https://news.ycombinator.com/item?id=38203821) - [Thiel's Unicorn Success Is Awkward for Colleges](https://www.washingtonpost.com/business/2023/10/19/thiel-s-unicorn-success-is-awkward-for-colleges/93db4230-6e6a-11ee-b01a-f593caa04363_story.html)
@@ -20,6 +21,7 @@
 * [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:50:22](https://news.ycombinator.com/item?id=38202985) - [Traffic collisions including cyclists in London 2022](https://github.com/Lisa-Ho/30-day-map-challenge/blob/main/2023/Day9-cyclist-accidents/london-accidents.ipynb)
 * [2023-11-09, 09:44:40](https://news.ycombinator.com/item?id=38202959) - [EU Council and Parliament reach agreement for approving controversial eIDAS law](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
+* [2023-11-09, 09:35:15](https://news.ycombinator.com/item?id=38202885) - [How one patient found errors in the algorithm making transplant decisions](https://www.ft.com/content/5125c83a-b82b-40c5-8b35-99579e087951)
 * [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 08:39:40](https://news.ycombinator.com/item?id=38202529) - [I'm calling from Israeli intelligence. We have orders to bomb. You have 2 hours](https://www.bbc.com/news/world-middle-east-67327079)
 * [2023-11-09, 08:35:15](https://news.ycombinator.com/item?id=38202507) - [Largest scandal in Danish Intelligence reached a new turn](https://www.theguardian.com/world/2023/oct/02/scandinavian-spy-drama-the-intelligence-chief-who-came-under-state-surveillance)
