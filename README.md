@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-09, 22:43:12](https://news.ycombinator.com/item?id=38212442) - [Jezebel: Feminist media site shuts down after 16 years](https://www.bbc.com/news/business-67372543)
-* [2023-11-09, 22:22:39](https://news.ycombinator.com/item?id=38212223) - [The 20 Farming Families Who Use More Water from Colorado River Than Some States](https://projects.propublica.org/california-farmers-colorado-river/)
+* [2023-11-09, 22:53:24](https://news.ycombinator.com/item?id=38212538) - [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
 * [2023-11-09, 21:11:48](https://news.ycombinator.com/item?id=38211383) - [On medieval cats](https://going-medieval.com/2023/05/16/on-cats/)
 * [2023-11-09, 21:03:30](https://news.ycombinator.com/item?id=38211266) - [Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
 * [2023-11-09, 20:16:34](https://news.ycombinator.com/item?id=38210574) - [Monaspace](https://monaspace.githubnext.com/)
@@ -22,6 +21,7 @@
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
 * [2023-11-09, 11:26:35](https://news.ycombinator.com/item?id=38203668) - [Calculator Construction Set](https://www.folklore.org/StoryView.py?story=Calculator_Construction_Set.txt)
 * [2023-11-09, 11:11:08](https://news.ycombinator.com/item?id=38203553) - [The Netwide Assembler (NASM)](https://www.nasm.us/)
+* [2023-11-09, 09:51:26](https://news.ycombinator.com/item?id=38202993) - [Show HN: I built a tool to get \"Your app was approved/rejected \" alerts on Slack](https://statused.com)
 * [2023-11-09, 09:12:47](https://news.ycombinator.com/item?id=38202729) - [An interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
 * [2023-11-09, 09:10:18](https://news.ycombinator.com/item?id=38202703) - [Show HN: QBasic 4.5 on Android](https://github.com/ianatha/bababasic)
 * [2023-11-09, 09:04:31](https://news.ycombinator.com/item?id=38202668) - [Common Core Sheets](https://www.commoncoresheets.com/)
