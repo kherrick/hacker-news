@@ -7,6 +7,7 @@
 * [2023-11-09, 07:04:04](https://news.ycombinator.com/item?id=38201995) - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs/)
 * [2023-11-09, 06:47:25](https://news.ycombinator.com/item?id=38201914) - [i386 Assembly Language trick for storing data in .text](https://ratfactor.com/cards/asm-data-in-text)
 * [2023-11-09, 06:08:11](https://news.ycombinator.com/item?id=38201728) - [Lobbyist says Right to Repair is bad for black people [video]](https://www.youtube.com/watch?v=W6DB0Oo81OE)
+* [2023-11-09, 06:07:17](https://news.ycombinator.com/item?id=38201724) - [Actors Strike Ends with a Deal That Will Impact AI and Streaming for Decades](https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/)
 * [2023-11-09, 05:53:15](https://news.ycombinator.com/item?id=38201646) - [A door at a Swedish library was accidentally left open](https://www.zmescience.com/science/news-science/a-door-at-a-swedish-library-was-accidentally-left-open-446-people-came-in-borrowed-245-books-every-single-one-was-returned/)
 * [2023-11-09, 05:48:46](https://news.ycombinator.com/item?id=38201624) - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
 * [2023-11-09, 05:47:30](https://news.ycombinator.com/item?id=38201619) - [The Sokal Hoax](https://en.wikipedia.org/wiki/Sokal_affair)
