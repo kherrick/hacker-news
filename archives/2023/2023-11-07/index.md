@@ -27,6 +27,7 @@
 * [2023-11-07, 21:40:30](https://news.ycombinator.com/item?id=38183259) - [What the QWAC? an EV Certificate all over again](https://scotthelme.co.uk/what-the-qwac/)
 * [2023-11-07, 21:26:50](https://news.ycombinator.com/item?id=38183079) - [Biogen-Sage Therapeutics postpartum depression pill priced at $15900](https://www.reuters.com/business/healthcare-pharmaceuticals/biogen-sage-therapeutics-postpartum-depression-pill-priced-15900-2023-11-07/)
 * [2023-11-07, 21:08:58](https://news.ycombinator.com/item?id=38182869) - [What Does and Doesn't Matter about Apple Shooting Their October Event on iPhone](https://prolost.com/blog/scarybts)
+* [2023-11-07, 21:04:07](https://news.ycombinator.com/item?id=38182807) - [New research shows quasars can be buried in their host galaxies](https://phys.org/news/2023-11-quasars-host-galaxies.html)
 * [2023-11-07, 20:58:34](https://news.ycombinator.com/item?id=38182732) - [TESS discovers Saturn-like planet orbiting an M-dwarf star](https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html)
 * [2023-11-07, 20:57:02](https://news.ycombinator.com/item?id=38182712) - [Core to Core Latency Data on Large Systems](https://chipsandcheese.com/2023/11/07/core-to-core-latency-data-on-large-systems/)
 * [2023-11-07, 20:36:43](https://news.ycombinator.com/item?id=38182461) - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)

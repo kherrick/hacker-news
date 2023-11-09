@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 18:24:21](https://news.ycombinator.com/item?id=38208742) - [Jezebel to shut down after 16 years as parent company lays off staff](https://www.theguardian.com/media/2023/nov/09/jezebel-news-shut-down-layoffs-go-media)
 * [2023-11-09, 18:09:22](https://news.ycombinator.com/item?id=38208502) - [OpenAI Data Partnerships](https://openai.com/blog/data-partnerships)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
 * [2023-11-09, 17:52:18](https://news.ycombinator.com/item?id=38208296) - [Ask HN: Ways to make side income as a SWE?](https://news.ycombinator.com/item?id=38208296)
