@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 13:33:51](https://news.ycombinator.com/item?id=38204762) - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram)
+* [2023-11-09, 13:23:23](https://news.ycombinator.com/item?id=38204673) - [Every story in the world has one of these six basic plots](https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots)
+* [2023-11-09, 13:08:26](https://news.ycombinator.com/item?id=38204511) - [Microservices – State of Developer Ecosystem 2022 (JetBrains)](https://www.jetbrains.com/lp/devecosystem-2022/microservices/)
 * [2023-11-09, 13:00:53](https://news.ycombinator.com/item?id=38204430) - [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
 * [2023-11-09, 12:13:01](https://news.ycombinator.com/item?id=38204010) - [YouTube's ban leads to a record number of users uninstalling their ad-blockers](https://www.zdnet.com/article/youtubes-ban-leads-to-a-record-number-of-users-uninstalling-their-ad-blockers/)
 * [2023-11-09, 12:01:00](https://news.ycombinator.com/item?id=38203923) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber)
