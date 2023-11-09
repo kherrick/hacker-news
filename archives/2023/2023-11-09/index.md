@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 14:08:12](https://news.ycombinator.com/item?id=38205155) - [Apple and Irish Government suffer major setback in €13B EU case](https://www.irishtimes.com/business/2023/11/09/apple-and-irish-government-suffer-major-setback-in-13bn-eu-tax-case/)
+* [2023-11-09, 13:57:56](https://news.ycombinator.com/item?id=38205022) - [Sex, Age, and Smartphone Addiction Across 41 Countries](https://link.springer.com/article/10.1007/s11469-023-01146-3)
+* [2023-11-09, 13:48:29](https://news.ycombinator.com/item?id=38204907) - [NYC's new rat-killing weapon is wildly successful – for now](https://www.businessinsider.com/nyc-successful-rat-killing-method-wont-solve-rat-problem-expert-2023-11)
 * [2023-11-09, 13:33:51](https://news.ycombinator.com/item?id=38204762) - [Apple insists 8GB unified memory equals 16GB regular RAM](https://appleinsider.com/articles/23/11/08/apple-insists-8gb-unified-memory-equals-16gb-regular-ram)
 * [2023-11-09, 13:32:40](https://news.ycombinator.com/item?id=38204756) - [We Need a Revolution](https://www.fairphone.com/en/2023/11/09/we-need-a-revolution/)
 * [2023-11-09, 13:30:13](https://news.ycombinator.com/item?id=38204733) - [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
