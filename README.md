@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-09, 20:24:18](https://news.ycombinator.com/item?id=38210703) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://quillette.com/2023/11/07/forget-about-overpopulation-soon-there-will-be-too-few-humans/)
-* [2023-11-09, 20:23:57](https://news.ycombinator.com/item?id=38210694) - [Boycott Wayland. It breaks everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* [2023-11-09, 20:15:18](https://news.ycombinator.com/item?id=38210550) - [Illinois Senate approves plan to allow new nuclear reactors](https://apnews.com/article/illinois-nuclear-small-modular-reactors-moratorium-a56a90a09185e864cdd7f5d6d24b9d48)
 * [2023-11-09, 19:59:04](https://news.ycombinator.com/item?id=38210297) - [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
 * [2023-11-09, 19:54:31](https://news.ycombinator.com/item?id=38210226) - [YouTube's Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
+* [2023-11-09, 19:00:06](https://news.ycombinator.com/item?id=38209312) - [Tumblr is reportedly on life support as its latest owner reassigns staff](https://arstechnica.com/gadgets/2023/11/tumblr-is-reportedly-on-life-support-as-its-latest-owner-reassigns-staff/)
 * [2023-11-09, 18:58:23](https://news.ycombinator.com/item?id=38209282) - [A robot in South Korea mistook a man for a box of vegetables and killed him](https://www.bbc.com/news/world-asia-67354709)
 * [2023-11-09, 18:23:15](https://news.ycombinator.com/item?id=38208726) - [No bar exam required to practice law in Oregon starting next year](https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/)
 * [2023-11-09, 18:14:19](https://news.ycombinator.com/item?id=38208568) - [Microsoft won't let you close OneDrive in Windows without you explaining it](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)

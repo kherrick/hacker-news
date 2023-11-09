@@ -6,10 +6,12 @@
 
 * [2023-11-09, 20:24:18](https://news.ycombinator.com/item?id=38210703) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://quillette.com/2023/11/07/forget-about-overpopulation-soon-there-will-be-too-few-humans/)
 * [2023-11-09, 20:23:57](https://news.ycombinator.com/item?id=38210694) - [Boycott Wayland. It breaks everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* [2023-11-09, 20:15:18](https://news.ycombinator.com/item?id=38210550) - [Illinois Senate approves plan to allow new nuclear reactors](https://apnews.com/article/illinois-nuclear-small-modular-reactors-moratorium-a56a90a09185e864cdd7f5d6d24b9d48)
 * [2023-11-09, 20:09:46](https://news.ycombinator.com/item?id=38210464) - [You shouldn't tell a woman to smile](https://www.usatoday.com/story/news/nation-now/2017/03/08/dont-tell-women-to-smile/98906528/)
 * [2023-11-09, 19:59:04](https://news.ycombinator.com/item?id=38210297) - [Blue Lagoon geothermal spa in Iceland closes after series of earthquakes](https://www.theguardian.com/world/2023/nov/09/iceland-blue-lagoon-geothermal-resort-closes-seismic-storm-volcanic-eruption-fears)
 * [2023-11-09, 19:54:31](https://news.ycombinator.com/item?id=38210226) - [YouTube's Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
 * [2023-11-09, 19:30:44](https://news.ycombinator.com/item?id=38209788) - [Thomas Massie Failed to Stop \"Kill Switch\" Mandate That Could Disable Vehicles](https://reclaimthenet.org/thomas-massie-tried-but-failed-to-stop-kill-switch-mandate-that-could-disable-vehicles)
+* [2023-11-09, 19:00:06](https://news.ycombinator.com/item?id=38209312) - [Tumblr is reportedly on life support as its latest owner reassigns staff](https://arstechnica.com/gadgets/2023/11/tumblr-is-reportedly-on-life-support-as-its-latest-owner-reassigns-staff/)
 * [2023-11-09, 18:59:05](https://news.ycombinator.com/item?id=38209297) - [AI is about to change how you use computers](https://www.gatesnotes.com/AI-agents)
 * [2023-11-09, 18:58:23](https://news.ycombinator.com/item?id=38209282) - [A robot in South Korea mistook a man for a box of vegetables and killed him](https://www.bbc.com/news/world-asia-67354709)
 * [2023-11-09, 18:27:45](https://news.ycombinator.com/item?id=38208797) - [Microsoft steals access data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
