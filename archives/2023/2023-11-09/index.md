@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
+* [2023-11-09, 23:03:34](https://news.ycombinator.com/item?id=38212653) - [No Man's Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
 * [2023-11-09, 22:53:24](https://news.ycombinator.com/item?id=38212538) - [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
 * [2023-11-09, 22:43:12](https://news.ycombinator.com/item?id=38212442) - [Jezebel: Feminist media site shuts down after 16 years](https://www.bbc.com/news/business-67372543)
 * [2023-11-09, 22:22:39](https://news.ycombinator.com/item?id=38212223) - [The 20 Farming Families Who Use More Water from Colorado River Than Some States](https://projects.propublica.org/california-farmers-colorado-river/)
+* [2023-11-09, 21:45:32](https://news.ycombinator.com/item?id=38211798) - [Restoring the Everglades to ensure South Florida's freshwater supply](https://news.fiu.edu/2023/let-it-flow)
 * [2023-11-09, 21:11:48](https://news.ycombinator.com/item?id=38211383) - [On Medieval Cats](https://going-medieval.com/2023/05/16/on-cats/)
 * [2023-11-09, 21:03:30](https://news.ycombinator.com/item?id=38211266) - [Implementing TCP in Rust](https://github.com/Ghvstcode/Rust-Tcp)
 * [2023-11-09, 20:24:18](https://news.ycombinator.com/item?id=38210703) - [Forget About Overpopulation, Soon There Will Be Too Few Humans](https://quillette.com/2023/11/07/forget-about-overpopulation-soon-there-will-be-too-few-humans/)
