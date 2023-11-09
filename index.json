@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-11-09, 17:25:52",
+      "https://news.ycombinator.com/item?id=38207959"
+    ],
+    [
+      "Why Rust in Production?",
+      "https://corrode.dev/why-rust/"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 17:25:43",
       "https://news.ycombinator.com/item?id=38207956"
     ],
     [
       "Peter Thiel is taking a Break from Democracy",
       "https://www.theatlantic.com/politics/archive/2023/11/peter-thiel-2024-election-politics-investing-life-views/675946/"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 17:20:47",
+      "https://news.ycombinator.com/item?id=38207892"
+    ],
+    [
+      "Show HN: GPT-4V audit for your landing page",
+      "https://uxaudit.vercel.app"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 17:19:25",
+      "https://news.ycombinator.com/item?id=38207866"
+    ],
+    [
+      "You Have a Right to Know Why a Health Insurer Denied Your Claim",
+      "https://www.propublica.org/article/your-right-to-know-why-health-insurer-denied-claim"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "World's largest aircraft breaks cover in Silicon Valley",
       "https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 15:53:18",
-      "https://news.ycombinator.com/item?id=38206564"
-    ],
-    [
-      "Commercial Plant Starts Pulling Carbon from the Air",
-      "https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Reducing patch postings to Linux-kernel",
       "https://lwn.net/SubscriberLink/950567/fd65339fb45197f6/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 13:23:23",
-      "https://news.ycombinator.com/item?id=38204673"
-    ],
-    [
-      "Researchers analysed novels to reveal six story types",
-      "https://www.bbc.com/culture/article/20180525-every-story-in-the-world-has-one-of-these-six-basic-plots"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Design Guidelines for Domain Specific Languages (2014)",
       "https://arxiv.org/abs/1409.2378"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 02:28:08",
-      "https://news.ycombinator.com/item?id=38200308"
-    ],
-    [
-      "Using GPT-4 Vision with Vimium to browse the web",
-      "https://github.com/ishan0102/vimGPT"
     ]
   ],
   [
