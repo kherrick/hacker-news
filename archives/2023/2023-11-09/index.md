@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 * [2023-11-09, 22:53:24](https://news.ycombinator.com/item?id=38212538) - [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
 * [2023-11-09, 22:43:12](https://news.ycombinator.com/item?id=38212442) - [Jezebel: Feminist media site shuts down after 16 years](https://www.bbc.com/news/business-67372543)
 * [2023-11-09, 22:22:39](https://news.ycombinator.com/item?id=38212223) - [The 20 Farming Families Who Use More Water from Colorado River Than Some States](https://projects.propublica.org/california-farmers-colorado-river/)
