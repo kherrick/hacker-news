@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-09, 19:54:31](https://news.ycombinator.com/item?id=38210226) - [YouTube's Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
 * [2023-11-09, 19:30:44](https://news.ycombinator.com/item?id=38209788) - [Thomas Massie Failed to Stop \"Kill Switch\" Mandate That Could Disable Vehicles](https://reclaimthenet.org/thomas-massie-tried-but-failed-to-stop-kill-switch-mandate-that-could-disable-vehicles)
-* [2023-11-09, 18:59:05](https://news.ycombinator.com/item?id=38209297) - [AI is about to change how you use computers](https://www.gatesnotes.com/AI-agents)
 * [2023-11-09, 18:58:23](https://news.ycombinator.com/item?id=38209282) - [A robot in South Korea mistook a man for a box of vegetables and killed him](https://www.bbc.com/news/world-asia-67354709)
-* [2023-11-09, 18:24:21](https://news.ycombinator.com/item?id=38208742) - [Jezebel to shut down after 16 years as parent company lays off staff](https://www.theguardian.com/media/2023/nov/09/jezebel-news-shut-down-layoffs-go-media)
+* [2023-11-09, 18:23:15](https://news.ycombinator.com/item?id=38208726) - [No bar exam required to practice law in Oregon starting next year](https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/)
 * [2023-11-09, 18:14:19](https://news.ycombinator.com/item?id=38208568) - [Microsoft won't let you close OneDrive in Windows without you explaining it](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
 * [2023-11-09, 17:53:59](https://news.ycombinator.com/item?id=38208321) - [Introducing Adept Experiments – use AI workflows to delegate repetitive tasks](https://www.adept.ai/blog/experiments)
@@ -15,7 +15,6 @@
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 16:17:35](https://news.ycombinator.com/item?id=38206973) - [Show HN: Nango – Open unified API for product integrations](https://www.nango.dev?source=hn-nov-2023)
 * [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
-* [2023-11-09, 13:44:58](https://news.ycombinator.com/item?id=38204872) - [System76's Lemur Pro Laptop Is Just a Nice Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
 * [2023-11-09, 13:30:13](https://news.ycombinator.com/item?id=38204733) - [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
 * [2023-11-09, 13:24:15](https://news.ycombinator.com/item?id=38204679) - [Reducing patch postings to Linux-kernel](https://lwn.net/SubscriberLink/950567/fd65339fb45197f6/)
 * [2023-11-09, 13:00:53](https://news.ycombinator.com/item?id=38204430) - [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
@@ -29,6 +28,7 @@
 * [2023-11-09, 05:48:46](https://news.ycombinator.com/item?id=38201624) - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
 * [2023-11-09, 01:39:06](https://news.ycombinator.com/item?id=38199869) - [Early computer art by Barbara Nessim (1984)](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 * [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle 2009-2023](https://www.omegle.com/)
+* [2023-11-08, 01:48:47](https://news.ycombinator.com/item?id=38185726) - [The Bruneri-Canella Case](https://www.historytoday.com/archive/missing-pieces/bruneri-canella-case)
 * [2023-11-07, 21:04:07](https://news.ycombinator.com/item?id=38182807) - [New research shows quasars can be buried in their host galaxies](https://phys.org/news/2023-11-quasars-host-galaxies.html)
 
 ## [Archives](archives/index.md)

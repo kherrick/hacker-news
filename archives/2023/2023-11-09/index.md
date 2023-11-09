@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 19:54:31](https://news.ycombinator.com/item?id=38210226) - [YouTube's Adblock detection might break the law in the EU](https://www.youtube.com/watch?v=fqhPUmyrfGI)
 * [2023-11-09, 19:30:44](https://news.ycombinator.com/item?id=38209788) - [Thomas Massie Failed to Stop \"Kill Switch\" Mandate That Could Disable Vehicles](https://reclaimthenet.org/thomas-massie-tried-but-failed-to-stop-kill-switch-mandate-that-could-disable-vehicles)
 * [2023-11-09, 18:59:05](https://news.ycombinator.com/item?id=38209297) - [AI is about to change how you use computers](https://www.gatesnotes.com/AI-agents)
 * [2023-11-09, 18:58:23](https://news.ycombinator.com/item?id=38209282) - [A robot in South Korea mistook a man for a box of vegetables and killed him](https://www.bbc.com/news/world-asia-67354709)
 * [2023-11-09, 18:27:45](https://news.ycombinator.com/item?id=38208797) - [Microsoft steals access data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
 * [2023-11-09, 18:24:21](https://news.ycombinator.com/item?id=38208742) - [Jezebel to shut down after 16 years as parent company lays off staff](https://www.theguardian.com/media/2023/nov/09/jezebel-news-shut-down-layoffs-go-media)
+* [2023-11-09, 18:23:15](https://news.ycombinator.com/item?id=38208726) - [No bar exam required to practice law in Oregon starting next year](https://www.reuters.com/legal/government/no-bar-exam-required-practice-law-oregon-starting-next-year-2023-11-07/)
 * [2023-11-09, 18:14:19](https://news.ycombinator.com/item?id=38208568) - [Microsoft won't let you close OneDrive in Windows without you explaining it](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
 * [2023-11-09, 18:09:22](https://news.ycombinator.com/item?id=38208502) - [OpenAI Data Partnerships](https://openai.com/blog/data-partnerships)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
