@@ -104,6 +104,7 @@
 * [2023-11-08, 02:53:20](https://news.ycombinator.com/item?id=38186190) - [Antidepressants or Tolkien](https://antidepressantsortolkien.vercel.app/)
 * [2023-11-08, 02:49:03](https://news.ycombinator.com/item?id=38186153) - [Interactive Examples for Learning Jq](https://ishan.page/blog/2023-11-06-jq-by-example/)
 * [2023-11-08, 02:14:14](https://news.ycombinator.com/item?id=38185925) - [Ask HN: What is your standard for judging when AGI exists?](https://news.ycombinator.com/item?id=38185925)
+* [2023-11-08, 02:12:52](https://news.ycombinator.com/item?id=38185911) - [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
 * [2023-11-08, 01:48:47](https://news.ycombinator.com/item?id=38185726) - [The Bruneri-Canella Case](https://www.historytoday.com/archive/missing-pieces/bruneri-canella-case)
 * [2023-11-08, 01:48:11](https://news.ycombinator.com/item?id=38185720) - [Government Surveillance Reform Act of '23 Seeks to End Warrantless Police Spying](https://www.wired.com/story/government-surveillance-reform-act-2023/)
 * [2023-11-08, 01:20:05](https://news.ycombinator.com/item?id=38185530) - [Panama observes EST all year. Daylight Saving Time has never been used here](https://www.timeanddate.com/time/change/panama/panama)
