@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 21:45:38](https://news.ycombinator.com/item?id=38224950) - [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 21:26:34](https://news.ycombinator.com/item?id=38224765) - [iOS 17.2 hints at Apple moving towards letting users sideload apps](https://9to5mac.com/2023/11/10/ios-17-2-sideload-apps/)
 * [2023-11-10, 20:58:56](https://news.ycombinator.com/item?id=38224435) - [Microsoft pulls OneDrive update that would quiz you before letting you quit](https://arstechnica.com/gadgets/2023/11/microsoft-pulls-onedrive-update-that-would-quiz-you-before-letting-you-quit/)
@@ -11,6 +12,7 @@
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:17](https://news.ycombinator.com/item?id=38223823) - [Generating Code Without Generating Technical Debt?](https://sourcery.ai/blog/chatgpt-maintainable-code/)
+* [2023-11-10, 20:06:08](https://news.ycombinator.com/item?id=38223822) - [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
 * [2023-11-10, 19:53:28](https://news.ycombinator.com/item?id=38223660) - [Rare egg-laying mammal (echidna) rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
 * [2023-11-10, 19:21:25](https://news.ycombinator.com/item?id=38223263) - [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
 * [2023-11-10, 18:59:32](https://news.ycombinator.com/item?id=38222973) - [The FCC voted to reimplement net neutrality. Now comes the hard part](https://www.nationaljournal.com/s/723252/the-fcc-voted-to-reimplement-net-neutrality-now-comes-the-hard-part/)
