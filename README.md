@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future – Xe Iaso](https://xeiaso.net/notes/cursorless-alien-magic/)
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-10, 02:56:00](https://news.ycombinator.com/item?id=38214553) - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
 * [2023-11-10, 01:01:31](https://news.ycombinator.com/item?id=38213590) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
@@ -23,7 +24,6 @@
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 16:17:35](https://news.ycombinator.com/item?id=38206973) - [Show HN: Nango – Open unified API for product integrations](https://www.nango.dev?source=hn-nov-2023)
 * [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
-* [2023-11-09, 13:24:15](https://news.ycombinator.com/item?id=38204679) - [Reducing patch postings to Linux-kernel](https://lwn.net/SubscriberLink/950567/fd65339fb45197f6/)
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:26:35](https://news.ycombinator.com/item?id=38203668) - [Calculator Construction Set](https://www.folklore.org/StoryView.py?story=Calculator_Construction_Set.txt)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
