@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future – Xe Iaso](https://xeiaso.net/notes/cursorless-alien-magic/)
+* [2023-11-10, 03:59:05](https://news.ycombinator.com/item?id=38214878) - [Deferred scheduling for user-space critical sections](https://lwn.net/Articles/948870/)
 * [2023-11-10, 03:42:51](https://news.ycombinator.com/item?id=38214806) - [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-10, 02:56:00](https://news.ycombinator.com/item?id=38214553) - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
