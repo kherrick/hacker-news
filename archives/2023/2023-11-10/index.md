@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 21:51:15](https://news.ycombinator.com/item?id=38225019) - [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
 * [2023-11-10, 21:45:38](https://news.ycombinator.com/item?id=38224950) - [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 21:26:34](https://news.ycombinator.com/item?id=38224765) - [iOS 17.2 hints at Apple moving towards letting users sideload apps](https://9to5mac.com/2023/11/10/ios-17-2-sideload-apps/)

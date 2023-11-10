@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 21:51:15](https://news.ycombinator.com/item?id=38225019) - [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
 * [2023-11-10, 21:45:38](https://news.ycombinator.com/item?id=38224950) - [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 21:26:34](https://news.ycombinator.com/item?id=38224765) - [iOS 17.2 hints at Apple moving towards letting users sideload apps](https://9to5mac.com/2023/11/10/ios-17-2-sideload-apps/)
@@ -20,10 +21,9 @@
 * [2023-11-10, 16:33:39](https://news.ycombinator.com/item?id=38220892) - [New York restaurants fight back against reservations by bots](https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots)
 * [2023-11-10, 15:46:38](https://news.ycombinator.com/item?id=38220288) - [Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
 * [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
-* [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
+* [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic is getting involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:05:40](https://news.ycombinator.com/item?id=38218329) - [Automa – Automate the browser by connecting blocks](https://www.automa.site/)
-* [2023-11-10, 11:46:02](https://news.ycombinator.com/item?id=38217721) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
 * [2023-11-10, 10:51:48](https://news.ycombinator.com/item?id=38217355) - [Moving our Encrypted DNS servers to run in RAM](https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram)
 * [2023-11-10, 08:40:25](https://news.ycombinator.com/item?id=38216556) - [Let's create a Python Debugger together](https://mostlynerdless.de/blog/tag/lets-create-a-debugger-together/)
 * [2023-11-10, 08:15:26](https://news.ycombinator.com/item?id=38216400) - [Write Your Own Terminal](https://flak.tedunangst.com/post/write-your-own-terminal)
