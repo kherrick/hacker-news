@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
 * [2023-11-10, 11:17:29](https://news.ycombinator.com/item?id=38217545) - [At SpaceX, worker injuries soar in Elon Musk's rush to Mars](https://www.reuters.com/investigates/special-report/spacex-musk-safety/)
 * [2023-11-10, 11:03:09](https://news.ycombinator.com/item?id=38217457) - [Microsoft steals access data: Beware of the new Outlook (German)](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
 * [2023-11-10, 09:49:33](https://news.ycombinator.com/item?id=38216956) - [Canonical shows how to use Snaps without the Snap Store](https://www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
