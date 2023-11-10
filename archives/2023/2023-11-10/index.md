@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 11:17:29](https://news.ycombinator.com/item?id=38217545) - [At SpaceX, worker injuries soar in Elon Musk's rush to Mars](https://www.reuters.com/investigates/special-report/spacex-musk-safety/)
+* [2023-11-10, 11:03:09](https://news.ycombinator.com/item?id=38217457) - [Microsoft steals access data: Beware of the new Outlook (German)](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
 * [2023-11-10, 09:49:33](https://news.ycombinator.com/item?id=38216956) - [Canonical shows how to use Snaps without the Snap Store](https://www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
 * [2023-11-10, 09:39:43](https://news.ycombinator.com/item?id=38216901) - [Facebook Is Ending Support for PGP Encrypted Emails](https://joltmailer.com/facebook-ends-pgp-encrypted-emails-support/)
 * [2023-11-10, 09:35:08](https://news.ycombinator.com/item?id=38216872) - [Sweden's schools minister declares free school 'system failure'](https://www.theguardian.com/world/2023/nov/10/swedens-schools-minister-declares-free-school-system-failure)
