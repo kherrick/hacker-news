@@ -2,7 +2,7 @@
 
 * [2023-11-10, 21:51:15](https://news.ycombinator.com/item?id=38225019) - [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
 * [2023-11-10, 21:45:38](https://news.ycombinator.com/item?id=38224950) - [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
-* [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of $339k worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
+* [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 20:58:56](https://news.ycombinator.com/item?id=38224435) - [Microsoft pulls OneDrive update that would quiz you before letting you quit](https://arstechnica.com/gadgets/2023/11/microsoft-pulls-onedrive-update-that-would-quiz-you-before-letting-you-quit/)
 * [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
@@ -13,7 +13,7 @@
 * [2023-11-10, 18:54:54](https://news.ycombinator.com/item?id=38222909) - [The Unix timestamp will begin with 17 this Tuesday](https://www.unixtimestamp.com/)
 * [2023-11-10, 18:08:34](https://news.ycombinator.com/item?id=38222277) - [Google Cloud TPU Multislice Training](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
 * [2023-11-10, 17:29:05](https://news.ycombinator.com/item?id=38221709) - [Protégé: A free, open-source ontology editor for building intelligent systems](https://protege.stanford.edu/)
-* [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
+* [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't build AI products the way everyone else is doing it](https://www.builder.io/blog/build-ai)
 * [2023-11-10, 17:07:31](https://news.ycombinator.com/item?id=38221379) - [Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
 * [2023-11-10, 17:06:43](https://news.ycombinator.com/item?id=38221370) - [Understanding Git: The History and Internals](https://graphite.dev/blog/understanding-git)
 * [2023-11-10, 16:52:24](https://news.ycombinator.com/item?id=38221157) - [How Steve Jobs Saved Apple with the Online Apple Store](https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store)
