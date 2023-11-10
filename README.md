@@ -2,11 +2,11 @@
 
 * [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
 * [2023-11-10, 15:20:33](https://news.ycombinator.com/item?id=38219926) - [Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
+* [2023-11-10, 15:17:29](https://news.ycombinator.com/item?id=38219882) - [AWS to start charging for IPv4 usage, but critical services don't support IPv6](https://old.reddit.com/r/aws/comments/17rxig8/aws_wants_to_start_charging_for_all_allocated/)
 * [2023-11-10, 14:59:16](https://news.ycombinator.com/item?id=38219644) - [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
 * [2023-11-10, 14:54:54](https://news.ycombinator.com/item?id=38219578) - [FreeBSD 14.0 has reached – RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
 * [2023-11-10, 14:54:04](https://news.ycombinator.com/item?id=38219568) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html)
 * [2023-11-10, 14:42:39](https://news.ycombinator.com/item?id=38219421) - [Braid, Anniversary Edition trailer [video]](https://www.youtube.com/watch?v=E1repvdGU9I)
-* [2023-11-10, 13:52:30](https://news.ycombinator.com/item?id=38218785) - [AOMedia Announces Royalty-Free IAMF Audio Container Specification](https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec)
 * [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 * [2023-11-10, 13:37:11](https://news.ycombinator.com/item?id=38218609) - [What if we replace guns and bullets with bows and arrows? (2022)](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
 * [2023-11-10, 13:34:15](https://news.ycombinator.com/item?id=38218580) - [We're sorry we created the Torment Nexus](http://www.antipope.org/charlie/blog-static/2023/11/dont-create-the-torment-nexus.html)
@@ -20,6 +20,7 @@
 * [2023-11-10, 08:08:16](https://news.ycombinator.com/item?id=38216353) - [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
 * [2023-11-10, 07:39:37](https://news.ycombinator.com/item?id=38216196) - [I skipped to the ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 * [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
+* [2023-11-10, 07:25:18](https://news.ycombinator.com/item?id=38216116) - [How can I implement a simple asynchronous DRAM controller? (2018)](https://electronics.stackexchange.com/questions/356201/how-can-i-implement-a-very-simple-asynchronous-dram-controller)
 * [2023-11-10, 05:57:58](https://news.ycombinator.com/item?id=38215545) - [What process created this X11 window?](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
 * [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-10, 05:32:35](https://news.ycombinator.com/item?id=38215413) - [Apple has a memory problem and we're all paying for it](https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html)
@@ -29,7 +30,6 @@
 * [2023-11-10, 03:42:51](https://news.ycombinator.com/item?id=38214806) - [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
-* [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 
 ## [Archives](archives/index.md)
 
