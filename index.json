@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-10, 15:26:11",
+      "https://news.ycombinator.com/item?id=38219998"
+    ],
+    [
+      "The Svalbard fibre optic cable connection",
+      "https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 15:20:33",
       "https://news.ycombinator.com/item?id=38219926"
     ],
@@ -47,6 +57,16 @@
     [
       "Braid, Anniversary Edition trailer [video]",
       "https://www.youtube.com/watch?v=E1repvdGU9I"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 13:52:30",
+      "https://news.ycombinator.com/item?id=38218785"
+    ],
+    [
+      "AOMedia Announces Royalty-Free IAMF Audio Container Specification",
+      "https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)",
       "https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 11:01:21",
-      "https://news.ycombinator.com/item?id=38217439"
-    ],
-    [
-      "Hash matching proposals for the Online Safety Act's implementation are dangerous",
-      "https://proton.me/blog/online-safety-act-hash-scanning"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What I learned getting acquired by Google",
       "https://shreyans.org/google"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 11:13:20",
-      "https://news.ycombinator.com/item?id=38203574"
-    ],
-    [
-      "Everything vs. Anything",
-      "https://startupceo.com/2023/11/everything-vs-anything"
     ]
   ]
 ]
