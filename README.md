@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 20:58:56](https://news.ycombinator.com/item?id=38224435) - [Microsoft pulls OneDrive update that would quiz you before letting you quit](https://arstechnica.com/gadgets/2023/11/microsoft-pulls-onedrive-update-that-would-quiz-you-before-letting-you-quit/)
 * [2023-11-10, 20:48:10](https://news.ycombinator.com/item?id=38224311) - [Five researchers fared after their 'great resignation' from academia](https://www.nature.com/articles/d41586-023-03484-7)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
@@ -10,6 +11,7 @@
 * [2023-11-10, 18:30:45](https://news.ycombinator.com/item?id=38222596) - [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
 * [2023-11-10, 18:22:56](https://news.ycombinator.com/item?id=38222490) - [Prominent S.F. developers charged with bribery in widening corruption scandal](https://www.sfchronicle.com/crime/article/sf-corruption-scandal-sia-tahbazof-18334456.php)
 * [2023-11-10, 18:08:34](https://news.ycombinator.com/item?id=38222277) - [Google Cloud TPU Multislice Training](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
+* [2023-11-10, 17:29:05](https://news.ycombinator.com/item?id=38221709) - [Protégé: A free, open-source ontology editor for building intelligent systems](https://protege.stanford.edu/)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 * [2023-11-10, 17:07:31](https://news.ycombinator.com/item?id=38221379) - [Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
 * [2023-11-10, 16:49:31](https://news.ycombinator.com/item?id=38221121) - [Missing windows discovered on U.S.-bound plane after departing London](https://www.npr.org/2023/11/10/1212144515/plane-missing-window-london-us)
@@ -28,8 +30,6 @@
 * [2023-11-10, 08:08:16](https://news.ycombinator.com/item?id=38216353) - [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
 * [2023-11-10, 07:39:37](https://news.ycombinator.com/item?id=38216196) - [I skipped to the ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 * [2023-11-10, 07:25:18](https://news.ycombinator.com/item?id=38216116) - [How can I implement a simple asynchronous DRAM controller? (2018)](https://electronics.stackexchange.com/questions/356201/how-can-i-implement-a-very-simple-asynchronous-dram-controller)
-* [2023-11-10, 05:57:58](https://news.ycombinator.com/item?id=38215545) - [What process created this X11 window?](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
-* [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 
 ## [Archives](archives/index.md)
 

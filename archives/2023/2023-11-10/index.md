@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 20:58:56](https://news.ycombinator.com/item?id=38224435) - [Microsoft pulls OneDrive update that would quiz you before letting you quit](https://arstechnica.com/gadgets/2023/11/microsoft-pulls-onedrive-update-that-would-quiz-you-before-letting-you-quit/)
 * [2023-11-10, 20:48:10](https://news.ycombinator.com/item?id=38224311) - [Five researchers fared after their 'great resignation' from academia](https://www.nature.com/articles/d41586-023-03484-7)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
@@ -22,6 +23,7 @@
 * [2023-11-10, 18:01:03](https://news.ycombinator.com/item?id=38222163) - [Microsoft briefly blocked employees from using ChatGPT over security concerns](https://www.engadget.com/microsoft-briefly-blocked-employees-from-using-chatgpt-over-security-concerns-080403177.html)
 * [2023-11-10, 17:58:25](https://news.ycombinator.com/item?id=38222136) - [Congress mandates new car technology to stop drunken driving (2021)](https://apnews.com/article/coronavirus-pandemic-joe-biden-technology-business-health-068ee87392b0cca1444053b854a514dd)
 * [2023-11-10, 17:46:08](https://news.ycombinator.com/item?id=38221954) - [Zuckerberg 'vetoed,' 'ignored' plans to boost teen well-being on Meta platforms](https://thehill.com/policy/technology/4302145-zuckerberg-vetoed-teen-mental-health-facebook-instagram/)
+* [2023-11-10, 17:29:05](https://news.ycombinator.com/item?id=38221709) - [Protégé: A free, open-source ontology editor for building intelligent systems](https://protege.stanford.edu/)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 * [2023-11-10, 17:07:31](https://news.ycombinator.com/item?id=38221379) - [Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
 * [2023-11-10, 16:49:31](https://news.ycombinator.com/item?id=38221121) - [Crew aboard a U.S.-bound plane discovered a missing window pane at 13,000 feet](https://www.npr.org/2023/11/10/1212144515/plane-missing-window-london-us)
