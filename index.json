@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-10, 20:08:32",
+      "https://news.ycombinator.com/item?id=38223857"
+    ],
+    [
+      "Ottoman-Era Bird Palaces",
+      "https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 20:06:17",
+      "https://news.ycombinator.com/item?id=38223823"
+    ],
+    [
+      "Generating Code Without Generating Technical Debt?",
+      "https://sourcery.ai/blog/chatgpt-maintainable-code/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 19:53:28",
+      "https://news.ycombinator.com/item?id=38223660"
+    ],
+    [
+      "Rare egg-laying mammal (echidna) rediscovered in Indonesia",
+      "https://www.cbc.ca/news/science/echidna-video-1.7024966"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 18:59:32",
       "https://news.ycombinator.com/item?id=38222973"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2023-11-10, 18:08:30",
-      "https://news.ycombinator.com/item?id=38222273"
-    ],
-    [
-      "US Air Force's new B-21 Raider \"flying wing\" bomber takes first flight",
-      "https://www.reuters.com/business/aerospace-defense/us-air-forces-new-b-21-raider-flying-wing-bomber-takes-first-flight-reuters-2023-11-10/"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 17:20:08",
       "https://news.ycombinator.com/item?id=38221552"
     ],
@@ -107,6 +127,16 @@
     [
       "Dungeon KeeperFX 1.0",
       "https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 16:33:39",
+      "https://news.ycombinator.com/item?id=38220892"
+    ],
+    [
+      "New York restaurants fight back against reservations by bots",
+      "https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-11-10, 14:54:54",
-      "https://news.ycombinator.com/item?id=38219578"
-    ],
-    [
-      "FreeBSD 14.0 has reached – RELEASE",
-      "https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 13:42:21",
       "https://news.ycombinator.com/item?id=38218667"
     ],
@@ -197,16 +217,6 @@
     [
       "Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)",
       "https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 11:27:16",
-      "https://news.ycombinator.com/item?id=38217602"
-    ],
-    [
-      "World Population Estimated at 8 Billion",
-      "https://www.census.gov/library/stories/2023/11/world-population-estimated-eight-billion.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Link-Time Optimisation (LTO)",
       "https://convolv.es/guides/lto/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 04:04:10",
-      "https://news.ycombinator.com/item?id=38214915"
-    ],
-    [
-      "Cursorless is alien magic from the future",
-      "https://xeiaso.net/notes/cursorless-alien-magic/"
     ]
   ]
 ]
