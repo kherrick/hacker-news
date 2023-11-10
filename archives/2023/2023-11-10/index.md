@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 18:41:10](https://news.ycombinator.com/item?id=38222735) - [BitTorrent Pirates Won't Receive ISP Warnings (It Will Be Something Worse)](https://torrentfreak.com/bittorrent-pirates-wont-receive-isp-warnings-it-will-be-something-worse-231110/)
 * [2023-11-10, 18:32:17](https://news.ycombinator.com/item?id=38222616) - [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
 * [2023-11-10, 18:30:45](https://news.ycombinator.com/item?id=38222596) - [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
 * [2023-11-10, 18:22:56](https://news.ycombinator.com/item?id=38222490) - [Prominent S.F. developers charged with bribery in widening corruption scandal](https://www.sfchronicle.com/crime/article/sf-corruption-scandal-sia-tahbazof-18334456.php)

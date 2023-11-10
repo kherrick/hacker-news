@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 18:41:10](https://news.ycombinator.com/item?id=38222735) - [BitTorrent Pirates Won't Receive ISP Warnings (It Will Be Something Worse)](https://torrentfreak.com/bittorrent-pirates-wont-receive-isp-warnings-it-will-be-something-worse-231110/)
 * [2023-11-10, 18:32:17](https://news.ycombinator.com/item?id=38222616) - [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
 * [2023-11-10, 18:30:45](https://news.ycombinator.com/item?id=38222596) - [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
 * [2023-11-10, 18:22:56](https://news.ycombinator.com/item?id=38222490) - [Prominent S.F. developers charged with bribery in widening corruption scandal](https://www.sfchronicle.com/crime/article/sf-corruption-scandal-sia-tahbazof-18334456.php)
 * [2023-11-10, 18:08:34](https://news.ycombinator.com/item?id=38222277) - [Google Cloud TPU Multislice Training](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
-* [2023-11-10, 17:58:25](https://news.ycombinator.com/item?id=38222136) - [Congress mandates new car technology to stop drunken driving (2021)](https://apnews.com/article/coronavirus-pandemic-joe-biden-technology-business-health-068ee87392b0cca1444053b854a514dd)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 * [2023-11-10, 17:07:31](https://news.ycombinator.com/item?id=38221379) - [Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
 * [2023-11-10, 16:39:22](https://news.ycombinator.com/item?id=38220982) - [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
