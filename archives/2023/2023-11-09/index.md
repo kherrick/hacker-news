@@ -8,6 +8,7 @@
 * [2023-11-09, 23:46:40](https://news.ycombinator.com/item?id=38213004) - [Bayesian Structural Equation Modeling using blavaan](https://mc-stan.org/users/documentation/case-studies/sem.html)
 * [2023-11-09, 23:45:05](https://news.ycombinator.com/item?id=38212992) - [Apple co-founder Steve Wozniak suffers minor stroke](https://www.bbc.co.uk/news/technology-67366306)
 * [2023-11-09, 23:43:16](https://news.ycombinator.com/item?id=38212985) - [Omegle Was Forced to Shut Down by a Lawsuit from a Sexual Abuse Survivor](https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/)
+* [2023-11-09, 23:35:23](https://news.ycombinator.com/item?id=38212927) - [Why American manufacturing is becoming less efficient](https://www.economist.com/finance-and-economics/2023/11/09/why-american-manufacturing-is-increasingly-inefficient)
 * [2023-11-09, 23:31:42](https://news.ycombinator.com/item?id=38212904) - [Wyoming discovery could be America's first new source of rare-earths since 1952](https://www.wsj.com/business/energy-oil/the-2-million-coal-mine-that-might-hold-a-37-billion-treasure-181dbdcf)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 * [2023-11-09, 23:09:38](https://news.ycombinator.com/item?id=38212712) - [Play the first ever text adventure game in your Linux terminal](https://linuximpact.com/play-the-first-ever-text-adventure-game-in-your-linux-terminal/)
