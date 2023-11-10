@@ -2,6 +2,7 @@
 
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
+* [2023-11-10, 11:46:02](https://news.ycombinator.com/item?id=38217721) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
 * [2023-11-10, 11:17:29](https://news.ycombinator.com/item?id=38217545) - [At SpaceX, worker injuries soar in Elon Musk's rush to Mars](https://www.reuters.com/investigates/special-report/spacex-musk-safety/)
 * [2023-11-10, 11:03:09](https://news.ycombinator.com/item?id=38217457) - [Microsoft steals access data: Beware of the new Outlook (German)](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
 * [2023-11-10, 09:16:17](https://news.ycombinator.com/item?id=38216764) - [YJIT enabled by default, Active Model improvements and much more](https://rubyonrails.org/2023/11/10/this-week-in-rails-TODO)
@@ -28,7 +29,6 @@
 * [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
-* [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle 2009-2023](https://www.omegle.com/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 
 ## [Archives](archives/index.md)
