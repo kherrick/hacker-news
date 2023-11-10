@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-11-10, 20:06:17",
-      "https://news.ycombinator.com/item?id=38223823"
-    ],
-    [
-      "Generating Code Without Generating Technical Debt?",
-      "https://sourcery.ai/blog/chatgpt-maintainable-code/"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 20:06:08",
       "https://news.ycombinator.com/item?id=38223822"
     ],
@@ -237,6 +227,16 @@
     [
       "Automa – Automate the browser by connecting blocks",
       "https://www.automa.site/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 11:46:02",
+      "https://news.ycombinator.com/item?id=38217721"
+    ],
+    [
+      "Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)",
+      "https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/"
     ]
   ],
   [
