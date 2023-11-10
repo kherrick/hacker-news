@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-10, 02:56:00](https://news.ycombinator.com/item?id=38214553) - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
 * [2023-11-10, 01:11:23](https://news.ycombinator.com/item?id=38213707) - [Why Is Coed Cherry Shutting Down?](https://coedcherry.com/fuck-banks.html)
 * [2023-11-10, 01:01:31](https://news.ycombinator.com/item?id=38213590) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
