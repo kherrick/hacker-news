@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 14:54:54](https://news.ycombinator.com/item?id=38219578) - [FreeBSD 14.0 has reached – RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
 * [2023-11-10, 14:42:39](https://news.ycombinator.com/item?id=38219421) - [Braid, Anniversary Edition trailer [video]](https://www.youtube.com/watch?v=E1repvdGU9I)
+* [2023-11-10, 13:52:30](https://news.ycombinator.com/item?id=38218785) - [AOMedia Announces Royalty-Free IAMF Audio Container Specification](https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec)
 * [2023-11-10, 13:50:29](https://news.ycombinator.com/item?id=38218757) - [A blacklist of banks that block movements to or from Bitcoin related services](https://github.com/theDavidCoen/BanksAgainstBitcoin)
 * [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Why Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 * [2023-11-10, 13:37:11](https://news.ycombinator.com/item?id=38218609) - [What If We Replace Guns and Bullets with Bows and Arrows?](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
+* [2023-11-10, 13:05:40](https://news.ycombinator.com/item?id=38218329) - [Automa – Automate the browser by connecting blocks](https://www.automa.site/)
 * [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 11:58:09](https://news.ycombinator.com/item?id=38217820) - [World’s Biggest Bank Forced to Trade Via USB Stick After Hack](https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack)
 * [2023-11-10, 11:46:02](https://news.ycombinator.com/item?id=38217721) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
