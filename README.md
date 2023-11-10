@@ -20,7 +20,6 @@
 * [2023-11-09, 22:53:24](https://news.ycombinator.com/item?id=38212538) - [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
 * [2023-11-09, 22:45:00](https://news.ycombinator.com/item?id=38212453) - [Windows 11 Update 23H2 is stealing users' IMAP credentials](https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de)
 * [2023-11-09, 21:45:32](https://news.ycombinator.com/item?id=38211798) - [Restoring the Everglades to ensure South Florida's freshwater supply](https://news.fiu.edu/2023/let-it-flow)
-* [2023-11-09, 21:11:48](https://news.ycombinator.com/item?id=38211383) - [On medieval cats](https://going-medieval.com/2023/05/16/on-cats/)
 * [2023-11-09, 20:16:34](https://news.ycombinator.com/item?id=38210574) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 19:25:15](https://news.ycombinator.com/item?id=38209680) - [Doctors complete first successful face and whole-eye transplant](https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
@@ -29,6 +28,7 @@
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
 * [2023-11-09, 09:12:47](https://news.ycombinator.com/item?id=38202729) - [An interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
+* [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 02:12:52](https://news.ycombinator.com/item?id=38185911) - [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
 
 ## [Archives](archives/index.md)
