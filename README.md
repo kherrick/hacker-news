@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-10, 01:11:23](https://news.ycombinator.com/item?id=38213707) - [Why Is Coed Cherry Shutting Down?](https://coedcherry.com/fuck-banks.html)
 * [2023-11-10, 01:01:31](https://news.ycombinator.com/item?id=38213590) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
 * [2023-11-10, 00:30:03](https://news.ycombinator.com/item?id=38213343) - [Widespread drastic reduction of brain myelin upon prolonged endurance exercise](https://www.biorxiv.org/content/10.1101/2023.10.10.561303v1)
 * [2023-11-10, 00:27:38](https://news.ycombinator.com/item?id=38213325) - [Lemmings](https://www.leemeichin.com/posts/lemmings.html)
@@ -18,6 +17,7 @@
 * [2023-11-09, 20:16:34](https://news.ycombinator.com/item?id=38210574) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 19:25:15](https://news.ycombinator.com/item?id=38209680) - [Doctors complete first successful face and whole-eye transplant](https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
+* [2023-11-09, 17:30:18](https://news.ycombinator.com/item?id=38208016) - [Humane AI Pin](https://hu.ma.ne/aipin)
 * [2023-11-09, 17:11:56](https://news.ycombinator.com/item?id=38207743) - [Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
