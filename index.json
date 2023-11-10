@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-10, 07:35:08",
+      "https://news.ycombinator.com/item?id=38216176"
+    ],
+    [
+      "Rust – Faster compilation with the parallel front-end in nightly",
+      "https://blog.rust-lang.org/2023/11/09/parallel-rustc.html"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 05:56:23",
       "https://news.ycombinator.com/item?id=38215535"
     ],
@@ -227,16 +237,6 @@
     [
       "What I learned getting acquired by Google",
       "https://shreyans.org/google"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 16:17:35",
-      "https://news.ycombinator.com/item?id=38206973"
-    ],
-    [
-      "Show HN: Nango – Open unified API for product integrations",
-      "https://www.nango.dev?source=hn-nov-2023"
     ]
   ],
   [
