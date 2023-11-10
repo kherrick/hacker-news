@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
-* [2023-11-10, 05:32:35](https://news.ycombinator.com/item?id=38215413) - [Apple has a memory problem and we're all paying for it](https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html)
 * [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
 * [2023-11-10, 03:59:05](https://news.ycombinator.com/item?id=38214878) - [Deferred scheduling for user-space critical sections](https://lwn.net/Articles/948870/)
@@ -28,6 +27,7 @@
 * [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:26:35](https://news.ycombinator.com/item?id=38203668) - [Calculator Construction Set](https://www.folklore.org/StoryView.py?story=Calculator_Construction_Set.txt)
+* [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
 * [2023-11-09, 09:12:47](https://news.ycombinator.com/item?id=38202729) - [An interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
 * [2023-11-08, 02:12:52](https://news.ycombinator.com/item?id=38185911) - [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
 
