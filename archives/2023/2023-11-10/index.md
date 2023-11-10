@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
+* [2023-11-10, 21:26:34](https://news.ycombinator.com/item?id=38224765) - [iOS 17.2 hints at Apple moving towards letting users sideload apps](https://9to5mac.com/2023/11/10/ios-17-2-sideload-apps/)
 * [2023-11-10, 20:58:56](https://news.ycombinator.com/item?id=38224435) - [Microsoft pulls OneDrive update that would quiz you before letting you quit](https://arstechnica.com/gadgets/2023/11/microsoft-pulls-onedrive-update-that-would-quiz-you-before-letting-you-quit/)
 * [2023-11-10, 20:48:10](https://news.ycombinator.com/item?id=38224311) - [Five researchers fared after their 'great resignation' from academia](https://www.nature.com/articles/d41586-023-03484-7)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
