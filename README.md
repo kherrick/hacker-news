@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
 * [2023-11-10, 15:20:33](https://news.ycombinator.com/item?id=38219926) - [Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
 * [2023-11-10, 14:59:16](https://news.ycombinator.com/item?id=38219644) - [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
 * [2023-11-10, 14:54:54](https://news.ycombinator.com/item?id=38219578) - [FreeBSD 14.0 has reached – RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
 * [2023-11-10, 14:54:04](https://news.ycombinator.com/item?id=38219568) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html)
 * [2023-11-10, 14:42:39](https://news.ycombinator.com/item?id=38219421) - [Braid, Anniversary Edition trailer [video]](https://www.youtube.com/watch?v=E1repvdGU9I)
+* [2023-11-10, 13:52:30](https://news.ycombinator.com/item?id=38218785) - [AOMedia Announces Royalty-Free IAMF Audio Container Specification](https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec)
 * [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 * [2023-11-10, 13:37:11](https://news.ycombinator.com/item?id=38218609) - [What if we replace guns and bullets with bows and arrows? (2022)](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
 * [2023-11-10, 13:34:15](https://news.ycombinator.com/item?id=38218580) - [We're sorry we created the Torment Nexus](http://www.antipope.org/charlie/blog-static/2023/11/dont-create-the-torment-nexus.html)
@@ -13,7 +15,6 @@
 * [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 11:58:09](https://news.ycombinator.com/item?id=38217820) - [World’s Biggest Bank Forced to Trade Via USB Stick After Hack](https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack)
 * [2023-11-10, 11:46:02](https://news.ycombinator.com/item?id=38217721) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
-* [2023-11-10, 11:01:21](https://news.ycombinator.com/item?id=38217439) - [Hash matching proposals for the Online Safety Act's implementation are dangerous](https://proton.me/blog/online-safety-act-hash-scanning)
 * [2023-11-10, 10:51:48](https://news.ycombinator.com/item?id=38217355) - [Moving our Encrypted DNS servers to run in RAM](https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram)
 * [2023-11-10, 09:16:17](https://news.ycombinator.com/item?id=38216764) - [YJIT enabled by default, Active Model improvements and much more](https://rubyonrails.org/2023/11/10/this-week-in-rails-TODO)
 * [2023-11-10, 08:08:16](https://news.ycombinator.com/item?id=38216353) - [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
@@ -29,7 +30,6 @@
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
-* [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
 
 ## [Archives](archives/index.md)
 

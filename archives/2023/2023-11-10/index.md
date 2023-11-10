@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
 * [2023-11-10, 15:20:33](https://news.ycombinator.com/item?id=38219926) - [Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
 * [2023-11-10, 14:59:16](https://news.ycombinator.com/item?id=38219644) - [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
 * [2023-11-10, 14:54:54](https://news.ycombinator.com/item?id=38219578) - [FreeBSD 14.0 has reached – RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
