@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 05:52:02](https://news.ycombinator.com/item?id=38215513) - [New York Times Defends Rehiring Pro-Hitler, Pro-Terror Freelancer in Gaza](https://honestreporting.com/outrage-new-york-times-rehires-pro-hitler-freelancer-soliman-hijjy-in-gaza/)
 * [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future – Xe Iaso](https://xeiaso.net/notes/cursorless-alien-magic/)
 * [2023-11-10, 03:59:05](https://news.ycombinator.com/item?id=38214878) - [Deferred scheduling for user-space critical sections](https://lwn.net/Articles/948870/)
