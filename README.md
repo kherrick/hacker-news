@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 20:48:10](https://news.ycombinator.com/item?id=38224311) - [Five researchers fared after their 'great resignation' from academia](https://www.nature.com/articles/d41586-023-03484-7)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:17](https://news.ycombinator.com/item?id=38223823) - [Generating Code Without Generating Technical Debt?](https://sourcery.ai/blog/chatgpt-maintainable-code/)
@@ -17,7 +18,6 @@
 * [2023-11-10, 15:46:38](https://news.ycombinator.com/item?id=38220288) - [Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
 * [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
 * [2023-11-10, 15:20:33](https://news.ycombinator.com/item?id=38219926) - [Interview with Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
-* [2023-11-10, 14:59:16](https://news.ycombinator.com/item?id=38219644) - [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
 * [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:05:40](https://news.ycombinator.com/item?id=38218329) - [Automa – Automate the browser by connecting blocks](https://www.automa.site/)
