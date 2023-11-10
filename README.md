@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 09:49:33](https://news.ycombinator.com/item?id=38216956) - [Canonical shows how to use Snaps without the Snap Store](https://www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
+* [2023-11-10, 09:39:43](https://news.ycombinator.com/item?id=38216901) - [Facebook Is Ending Support for PGP Encrypted Emails](https://joltmailer.com/facebook-ends-pgp-encrypted-emails-support/)
+* [2023-11-10, 09:35:08](https://news.ycombinator.com/item?id=38216872) - [Sweden's schools minister declares free school 'system failure'](https://www.theguardian.com/world/2023/nov/10/swedens-schools-minister-declares-free-school-system-failure)
 * [2023-11-10, 07:39:37](https://news.ycombinator.com/item?id=38216196) - [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 * [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-10, 07:21:23](https://news.ycombinator.com/item?id=38216096) - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
@@ -12,7 +15,6 @@
 * [2023-11-10, 01:01:31](https://news.ycombinator.com/item?id=38213590) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
 * [2023-11-10, 00:06:00](https://news.ycombinator.com/item?id=38213158) - [Typing fast is about latency, not throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 23:46:40](https://news.ycombinator.com/item?id=38213004) - [Bayesian Structural Equation Modeling using blavaan](https://mc-stan.org/users/documentation/case-studies/sem.html)
-* [2023-11-09, 23:45:05](https://news.ycombinator.com/item?id=38212992) - [Steve Wozniak suffers minor stroke](https://www.bbc.co.uk/news/technology-67366306)
 * [2023-11-09, 23:35:23](https://news.ycombinator.com/item?id=38212927) - [Why American manufacturing is becoming less efficient](https://www.economist.com/finance-and-economics/2023/11/09/why-american-manufacturing-is-increasingly-inefficient)
 * [2023-11-09, 23:31:42](https://news.ycombinator.com/item?id=38212904) - [Wyoming discovery could be America's first new source of rare-earths since 1952](https://www.wsj.com/business/energy-oil/the-2-million-coal-mine-that-might-hold-a-37-billion-treasure-181dbdcf)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
@@ -24,11 +26,9 @@
 * [2023-11-09, 19:25:15](https://news.ycombinator.com/item?id=38209680) - [Doctors complete first successful face and whole-eye transplant](https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
-* [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
 * [2023-11-09, 09:12:47](https://news.ycombinator.com/item?id=38202729) - [An interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
-* [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 02:12:52](https://news.ycombinator.com/item?id=38185911) - [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
 
 ## [Archives](archives/index.md)
