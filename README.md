@@ -26,8 +26,8 @@
 * [2023-11-10, 03:59:05](https://news.ycombinator.com/item?id=38214878) - [Deferred scheduling for user-space critical sections](https://lwn.net/Articles/948870/)
 * [2023-11-10, 03:42:51](https://news.ycombinator.com/item?id=38214806) - [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
-* [2023-11-10, 00:06:00](https://news.ycombinator.com/item?id=38213158) - [Typing fast is about latency, not throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
+* [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
 
