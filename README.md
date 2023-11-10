@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 08:08:16](https://news.ycombinator.com/item?id=38216353) - [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
 * [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-10, 07:28:08](https://news.ycombinator.com/item?id=38216135) - [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
 * [2023-11-10, 07:21:23](https://news.ycombinator.com/item?id=38216096) - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
@@ -22,7 +23,6 @@
 * [2023-11-09, 19:25:15](https://news.ycombinator.com/item?id=38209680) - [Doctors complete first successful face and whole-eye transplant](https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)
 * [2023-11-09, 17:30:18](https://news.ycombinator.com/item?id=38208016) - [Humane AI Pin](https://hu.ma.ne/aipin)
-* [2023-11-09, 17:11:56](https://news.ycombinator.com/item?id=38207743) - [Reverse engineering the Intel 386 processor's register cell](https://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
