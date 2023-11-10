@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-10, 04:19:14",
+      "https://news.ycombinator.com/item?id=38214995"
+    ],
+    [
+      "EuclideanSpace",
+      "https://euclideanspace.com/"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 04:04:10",
       "https://news.ycombinator.com/item?id=38214915"
     ],
     [
-      "Cursorless is alien magic from the future – Xe Iaso",
+      "Cursorless is alien magic from the future",
       "https://xeiaso.net/notes/cursorless-alien-magic/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 03:59:05",
+      "https://news.ycombinator.com/item?id=38214878"
+    ],
+    [
+      "Deferred scheduling for user-space critical sections",
+      "https://lwn.net/Articles/948870/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-11-09, 17:30:18",
-      "https://news.ycombinator.com/item?id=38208016"
-    ],
-    [
-      "Humane AI Pin",
-      "https://hu.ma.ne/aipin"
-    ]
-  ],
-  [
-    [
       "2023-11-09, 17:11:56",
       "https://news.ycombinator.com/item?id=38207743"
     ],
@@ -257,16 +267,6 @@
     [
       "Calculator Construction Set",
       "https://www.folklore.org/StoryView.py?story=Calculator_Construction_Set.txt"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 11:13:20",
-      "https://news.ycombinator.com/item?id=38203574"
-    ],
-    [
-      "Everything vs. Anything",
-      "https://startupceo.com/2023/11/everything-vs-anything"
     ]
   ],
   [
