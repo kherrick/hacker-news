@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-10, 21:51:15",
+      "https://news.ycombinator.com/item?id=38225019"
+    ],
+    [
+      "Iceland declares state of emergency over volcanic eruption threat",
+      "https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 21:45:38",
       "https://news.ycombinator.com/item?id=38224950"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38218667"
     ],
     [
-      "Nordic Is Getting Involved in RISC-V",
+      "Nordic is getting involved in RISC-V",
       "https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Automa – Automate the browser by connecting blocks",
       "https://www.automa.site/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 11:46:02",
-      "https://news.ycombinator.com/item?id=38217721"
-    ],
-    [
-      "Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)",
-      "https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/"
     ]
   ],
   [
