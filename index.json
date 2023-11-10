@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-10, 13:50:29",
-      "https://news.ycombinator.com/item?id=38218757"
-    ],
-    [
-      "A blacklist of banks that block movements to or from Bitcoin related services",
-      "https://github.com/theDavidCoen/BanksAgainstBitcoin"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 13:42:21",
       "https://news.ycombinator.com/item?id=38218667"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38218609"
     ],
     [
-      "What If We Replace Guns and Bullets with Bows and Arrows?",
+      "What if we replace guns and bullets with bows and arrows? (2022)",
       "https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/"
     ]
   ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2023-11-10, 11:03:09",
-      "https://news.ycombinator.com/item?id=38217457"
+      "2023-11-10, 11:17:29",
+      "https://news.ycombinator.com/item?id=38217545"
     ],
     [
-      "Microsoft steals access data: Beware of the new Outlook (German)",
-      "https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html"
+      "At SpaceX, worker injuries soar in Elon Musk's rush to Mars",
+      "https://www.reuters.com/investigates/special-report/spacex-musk-safety/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38217355"
     ],
     [
-      "Mullvad: Moving our Encrypted DNS servers to run in RAM",
+      "Moving our Encrypted DNS servers to run in RAM",
       "https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram"
     ]
   ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2023-11-09, 23:45:05",
+      "https://news.ycombinator.com/item?id=38212992"
+    ],
+    [
+      "Steve Wozniak suffers minor stroke",
+      "https://www.bbc.co.uk/news/technology-67366306"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 23:31:42",
       "https://news.ycombinator.com/item?id=38212904"
     ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2023-11-09, 23:09:38",
-      "https://news.ycombinator.com/item?id=38212712"
+      "2023-11-09, 22:45:00",
+      "https://news.ycombinator.com/item?id=38212453"
     ],
     [
-      "Play the first ever text adventure game in your Linux terminal",
-      "https://linuximpact.com/play-the-first-ever-text-adventure-game-in-your-linux-terminal/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 22:53:24",
-      "https://news.ycombinator.com/item?id=38212538"
-    ],
-    [
-      "Room Temperature Superconductor Paper Retracted by Journal Nature",
-      "https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e"
+      "Windows 11 Update 23H2 is stealing users' IMAP credentials",
+      "https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Everything vs. Anything",
       "https://startupceo.com/2023/11/everything-vs-anything"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 00:40:25",
+      "https://news.ycombinator.com/item?id=38199355"
+    ],
+    [
+      "Omegle 2009-2023",
+      "https://www.omegle.com/"
     ]
   ],
   [
