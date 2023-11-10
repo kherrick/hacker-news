@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 19:21:25](https://news.ycombinator.com/item?id=38223263) - [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
 * [2023-11-10, 18:59:32](https://news.ycombinator.com/item?id=38222973) - [The FCC voted to reimplement net neutrality. Now comes the hard part](https://www.nationaljournal.com/s/723252/the-fcc-voted-to-reimplement-net-neutrality-now-comes-the-hard-part/)
 * [2023-11-10, 18:41:10](https://news.ycombinator.com/item?id=38222735) - [BitTorrent Pirates Won't Receive ISP Warnings (It Will Be Something Worse)](https://torrentfreak.com/bittorrent-pirates-wont-receive-isp-warnings-it-will-be-something-worse-231110/)
 * [2023-11-10, 18:32:17](https://news.ycombinator.com/item?id=38222616) - [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
