@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 13:50:29](https://news.ycombinator.com/item?id=38218757) - [A blacklist of banks that block movements to or from Bitcoin related services](https://github.com/theDavidCoen/BanksAgainstBitcoin)
+* [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Why Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
+* [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 11:46:02](https://news.ycombinator.com/item?id=38217721) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
 * [2023-11-10, 11:17:29](https://news.ycombinator.com/item?id=38217545) - [At SpaceX, worker injuries soar in Elon Musk's rush to Mars](https://www.reuters.com/investigates/special-report/spacex-musk-safety/)
 * [2023-11-10, 11:03:09](https://news.ycombinator.com/item?id=38217457) - [Microsoft steals access data: Beware of the new Outlook (German)](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
+* [2023-11-10, 10:51:48](https://news.ycombinator.com/item?id=38217355) - [Mullvad: Moving our Encrypted DNS servers to run in RAM](https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram)
 * [2023-11-10, 09:49:33](https://news.ycombinator.com/item?id=38216956) - [Canonical shows how to use Snaps without the Snap Store](https://www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
 * [2023-11-10, 09:39:43](https://news.ycombinator.com/item?id=38216901) - [Facebook Is Ending Support for PGP Encrypted Emails](https://joltmailer.com/facebook-ends-pgp-encrypted-emails-support/)
 * [2023-11-10, 09:35:08](https://news.ycombinator.com/item?id=38216872) - [Sweden's schools minister declares free school 'system failure'](https://www.theguardian.com/world/2023/nov/10/swedens-schools-minister-declares-free-school-system-failure)
