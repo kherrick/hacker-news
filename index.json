@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-11-09, 21:11:48",
-      "https://news.ycombinator.com/item?id=38211383"
-    ],
-    [
-      "On medieval cats",
-      "https://going-medieval.com/2023/05/16/on-cats/"
-    ]
-  ],
-  [
-    [
       "2023-11-09, 20:16:34",
       "https://news.ycombinator.com/item?id=38210574"
     ],
@@ -287,6 +277,16 @@
     [
       "An interactive exploration of Boston's subway system",
       "http://mbtaviz.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 09:04:18",
+      "https://news.ycombinator.com/item?id=38188162"
+    ],
+    [
+      "Home Assistant blocked from integrating with Garage Door opener API",
+      "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/"
     ]
   ],
   [
