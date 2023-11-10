@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-10, 05:32:35](https://news.ycombinator.com/item?id=38215413) - [Apple has a memory problem and we're all paying for it](https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html)
 * [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
@@ -7,7 +8,6 @@
 * [2023-11-10, 03:42:51](https://news.ycombinator.com/item?id=38214806) - [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-10, 01:01:31](https://news.ycombinator.com/item?id=38213590) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
-* [2023-11-10, 00:39:31](https://news.ycombinator.com/item?id=38213424) - [Terminating an employee with a bus factor of 1](https://workplace.stackexchange.com/questions/194162/terminating-an-employee-with-a-bus-factor-of-1)
 * [2023-11-10, 00:06:00](https://news.ycombinator.com/item?id=38213158) - [Typing fast is about latency, not throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 23:46:40](https://news.ycombinator.com/item?id=38213004) - [Bayesian Structural Equation Modeling using blavaan](https://mc-stan.org/users/documentation/case-studies/sem.html)
 * [2023-11-09, 23:45:05](https://news.ycombinator.com/item?id=38212992) - [Steve Wozniak suffers minor stroke](https://www.bbc.co.uk/news/technology-67366306)

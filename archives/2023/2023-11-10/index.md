@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-10, 05:52:02](https://news.ycombinator.com/item?id=38215513) - [New York Times Defends Rehiring Pro-Hitler, Pro-Terror Freelancer in Gaza](https://honestreporting.com/outrage-new-york-times-rehires-pro-hitler-freelancer-soliman-hijjy-in-gaza/)
 * [2023-11-10, 05:32:35](https://news.ycombinator.com/item?id=38215413) - [Apple has a memory problem and we're all paying for it](https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html)
 * [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
