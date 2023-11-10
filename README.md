@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-10, 13:50:29](https://news.ycombinator.com/item?id=38218757) - [A blacklist of banks that block movements to or from Bitcoin related services](https://github.com/theDavidCoen/BanksAgainstBitcoin)
-* [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Why Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
-* [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
-* [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
+* [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
+* [2023-11-10, 13:37:11](https://news.ycombinator.com/item?id=38218609) - [What If We Replace Guns and Bullets with Bows and Arrows?](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
+* [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 11:46:02](https://news.ycombinator.com/item?id=38217721) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
 * [2023-11-10, 11:03:09](https://news.ycombinator.com/item?id=38217457) - [Microsoft steals access data: Beware of the new Outlook (German)](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
@@ -11,7 +11,6 @@
 * [2023-11-10, 09:16:17](https://news.ycombinator.com/item?id=38216764) - [YJIT enabled by default, Active Model improvements and much more](https://rubyonrails.org/2023/11/10/this-week-in-rails-TODO)
 * [2023-11-10, 07:39:37](https://news.ycombinator.com/item?id=38216196) - [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 * [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
-* [2023-11-10, 07:21:23](https://news.ycombinator.com/item?id=38216096) - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
 * [2023-11-10, 05:57:58](https://news.ycombinator.com/item?id=38215545) - [What process created this X11 window?](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
 * [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
@@ -30,6 +29,7 @@
 * [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
+* [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 
 ## [Archives](archives/index.md)
 

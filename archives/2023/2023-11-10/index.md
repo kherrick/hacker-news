@@ -6,6 +6,7 @@
 
 * [2023-11-10, 13:50:29](https://news.ycombinator.com/item?id=38218757) - [A blacklist of banks that block movements to or from Bitcoin related services](https://github.com/theDavidCoen/BanksAgainstBitcoin)
 * [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Why Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
+* [2023-11-10, 13:37:11](https://news.ycombinator.com/item?id=38218609) - [What If We Replace Guns and Bullets with Bows and Arrows?](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
 * [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
