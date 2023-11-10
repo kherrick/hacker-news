@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 02:56:00](https://news.ycombinator.com/item?id=38214553) - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
 * [2023-11-10, 01:01:31](https://news.ycombinator.com/item?id=38213590) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
 * [2023-11-10, 00:39:31](https://news.ycombinator.com/item?id=38213424) - [Terminating an employee with a bus factor of 1](https://workplace.stackexchange.com/questions/194162/terminating-an-employee-with-a-bus-factor-of-1)
 * [2023-11-10, 00:27:38](https://news.ycombinator.com/item?id=38213325) - [Lemmings](https://www.leemeichin.com/posts/lemmings.html)
@@ -27,7 +28,6 @@
 * [2023-11-09, 11:26:35](https://news.ycombinator.com/item?id=38203668) - [Calculator Construction Set](https://www.folklore.org/StoryView.py?story=Calculator_Construction_Set.txt)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
 * [2023-11-09, 09:12:47](https://news.ycombinator.com/item?id=38202729) - [An interactive exploration of Boston's subway system](http://mbtaviz.github.io/)
-* [2023-11-09, 02:54:10](https://news.ycombinator.com/item?id=38200532) - [The father-son struggle that helped ensure IBM's success](https://www.nytimes.com/2023/10/25/books/review/the-greatest-capitalist-who-ever-lived-ralph-watson-mcelvenny-marc-wortman.html)
 * [2023-11-09, 01:39:06](https://news.ycombinator.com/item?id=38199869) - [Early computer art by Barbara Nessim (1984)](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 * [2023-11-08, 02:12:52](https://news.ycombinator.com/item?id=38185911) - [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
 
