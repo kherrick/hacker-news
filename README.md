@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 17:46:08](https://news.ycombinator.com/item?id=38221954) - [Zuckerberg 'vetoed,' 'ignored' plans to boost teen well-being on Meta platforms](https://thehill.com/policy/technology/4302145-zuckerberg-vetoed-teen-mental-health-facebook-instagram/)
+* [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 * [2023-11-10, 16:49:31](https://news.ycombinator.com/item?id=38221121) - [Crew aboard a U.S.-bound plane discovered a missing window pane at 13,000 feet](https://www.npr.org/2023/11/10/1212144515/plane-missing-window-london-us)
 * [2023-11-10, 16:39:22](https://news.ycombinator.com/item?id=38220982) - [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
-* [2023-11-10, 16:36:48](https://news.ycombinator.com/item?id=38220942) - [8GB vs. 16GB M3 Mac](https://www.macrumors.com/2023/11/10/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck/)
 * [2023-11-10, 16:04:00](https://news.ycombinator.com/item?id=38220508) - [Binance to terminate Russian ruble deposits](https://cointelegraph.com/news/binance-halt-russian-ruble-deposits)
 * [2023-11-10, 15:46:38](https://news.ycombinator.com/item?id=38220288) - [Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
 * [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
@@ -27,7 +28,6 @@
 * [2023-11-10, 07:25:18](https://news.ycombinator.com/item?id=38216116) - [How can I implement a simple asynchronous DRAM controller? (2018)](https://electronics.stackexchange.com/questions/356201/how-can-i-implement-a-very-simple-asynchronous-dram-controller)
 * [2023-11-10, 05:57:58](https://news.ycombinator.com/item?id=38215545) - [What process created this X11 window?](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
 * [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
-* [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 
