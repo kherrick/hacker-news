@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 18:32:17](https://news.ycombinator.com/item?id=38222616) - [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
+* [2023-11-10, 18:30:45](https://news.ycombinator.com/item?id=38222596) - [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
+* [2023-11-10, 18:22:56](https://news.ycombinator.com/item?id=38222490) - [Prominent S.F. developers charged with bribery in widening corruption scandal](https://www.sfchronicle.com/crime/article/sf-corruption-scandal-sia-tahbazof-18334456.php)
+* [2023-11-10, 18:08:34](https://news.ycombinator.com/item?id=38222277) - [Google Cloud TPU Multislice Training](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
 * [2023-11-10, 18:01:03](https://news.ycombinator.com/item?id=38222163) - [Microsoft briefly blocked employees from using ChatGPT over security concerns](https://www.engadget.com/microsoft-briefly-blocked-employees-from-using-chatgpt-over-security-concerns-080403177.html)
 * [2023-11-10, 17:58:25](https://news.ycombinator.com/item?id=38222136) - [Congress mandates new car technology to stop drunken driving (2021)](https://apnews.com/article/coronavirus-pandemic-joe-biden-technology-business-health-068ee87392b0cca1444053b854a514dd)
 * [2023-11-10, 17:46:08](https://news.ycombinator.com/item?id=38221954) - [Zuckerberg 'vetoed,' 'ignored' plans to boost teen well-being on Meta platforms](https://thehill.com/policy/technology/4302145-zuckerberg-vetoed-teen-mental-health-facebook-instagram/)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
+* [2023-11-10, 17:07:31](https://news.ycombinator.com/item?id=38221379) - [Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
 * [2023-11-10, 16:49:31](https://news.ycombinator.com/item?id=38221121) - [Crew aboard a U.S.-bound plane discovered a missing window pane at 13,000 feet](https://www.npr.org/2023/11/10/1212144515/plane-missing-window-london-us)
 * [2023-11-10, 16:39:22](https://news.ycombinator.com/item?id=38220982) - [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
 * [2023-11-10, 16:36:48](https://news.ycombinator.com/item?id=38220942) - [8GB vs. 16GB M3 Mac](https://www.macrumors.com/2023/11/10/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck/)

@@ -1,8 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 18:32:17](https://news.ycombinator.com/item?id=38222616) - [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
+* [2023-11-10, 18:30:45](https://news.ycombinator.com/item?id=38222596) - [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
+* [2023-11-10, 18:22:56](https://news.ycombinator.com/item?id=38222490) - [Prominent S.F. developers charged with bribery in widening corruption scandal](https://www.sfchronicle.com/crime/article/sf-corruption-scandal-sia-tahbazof-18334456.php)
+* [2023-11-10, 18:08:34](https://news.ycombinator.com/item?id=38222277) - [Google Cloud TPU Multislice Training](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
 * [2023-11-10, 17:58:25](https://news.ycombinator.com/item?id=38222136) - [Congress mandates new car technology to stop drunken driving (2021)](https://apnews.com/article/coronavirus-pandemic-joe-biden-technology-business-health-068ee87392b0cca1444053b854a514dd)
-* [2023-11-10, 17:46:08](https://news.ycombinator.com/item?id=38221954) - [Zuckerberg 'vetoed,' 'ignored' plans to boost teen well-being on Meta platforms](https://thehill.com/policy/technology/4302145-zuckerberg-vetoed-teen-mental-health-facebook-instagram/)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
+* [2023-11-10, 17:07:31](https://news.ycombinator.com/item?id=38221379) - [Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
 * [2023-11-10, 16:39:22](https://news.ycombinator.com/item?id=38220982) - [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
 * [2023-11-10, 16:33:39](https://news.ycombinator.com/item?id=38220892) - [New York Restaurants Fight Back Against Reservations by Bots](https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots)
 * [2023-11-10, 16:04:00](https://news.ycombinator.com/item?id=38220508) - [Binance to terminate Russian ruble deposits](https://cointelegraph.com/news/binance-halt-russian-ruble-deposits)
@@ -24,12 +28,8 @@
 * [2023-11-10, 08:15:26](https://news.ycombinator.com/item?id=38216400) - [Write Your Own Terminal](https://flak.tedunangst.com/post/write-your-own-terminal)
 * [2023-11-10, 08:08:16](https://news.ycombinator.com/item?id=38216353) - [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
 * [2023-11-10, 07:39:37](https://news.ycombinator.com/item?id=38216196) - [I skipped to the ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
-* [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-10, 07:25:18](https://news.ycombinator.com/item?id=38216116) - [How can I implement a simple asynchronous DRAM controller? (2018)](https://electronics.stackexchange.com/questions/356201/how-can-i-implement-a-very-simple-asynchronous-dram-controller)
-* [2023-11-10, 05:57:58](https://news.ycombinator.com/item?id=38215545) - [What process created this X11 window?](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window)
-* [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
-* [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
 
 ## [Archives](archives/index.md)
 
