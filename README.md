@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:17](https://news.ycombinator.com/item?id=38223823) - [Generating Code Without Generating Technical Debt?](https://sourcery.ai/blog/chatgpt-maintainable-code/)
 * [2023-11-10, 19:53:28](https://news.ycombinator.com/item?id=38223660) - [Rare egg-laying mammal (echidna) rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
 * [2023-11-10, 18:59:32](https://news.ycombinator.com/item?id=38222973) - [The FCC voted to reimplement net neutrality. Now comes the hard part](https://www.nationaljournal.com/s/723252/the-fcc-voted-to-reimplement-net-neutrality-now-comes-the-hard-part/)
 * [2023-11-10, 18:54:54](https://news.ycombinator.com/item?id=38222909) - [The Unix timestamp will begin with 17 this Tuesday](https://www.unixtimestamp.com/)
-* [2023-11-10, 18:32:17](https://news.ycombinator.com/item?id=38222616) - [Cell Reprogramming for Regeneration and Repair of the Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/)
 * [2023-11-10, 18:30:45](https://news.ycombinator.com/item?id=38222596) - [Git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
 * [2023-11-10, 18:22:56](https://news.ycombinator.com/item?id=38222490) - [Prominent S.F. developers charged with bribery in widening corruption scandal](https://www.sfchronicle.com/crime/article/sf-corruption-scandal-sia-tahbazof-18334456.php)
 * [2023-11-10, 18:08:34](https://news.ycombinator.com/item?id=38222277) - [Google Cloud TPU Multislice Training](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
