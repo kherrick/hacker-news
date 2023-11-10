@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 14:59:16](https://news.ycombinator.com/item?id=38219644) - [EU lawmakers scolded for concealing identities of content-scanning experts](https://www.theregister.com/2023/11/09/eu_casm_expert_identities/)
 * [2023-11-10, 14:54:54](https://news.ycombinator.com/item?id=38219578) - [FreeBSD 14.0 has reached – RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
+* [2023-11-10, 14:54:04](https://news.ycombinator.com/item?id=38219568) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html)
 * [2023-11-10, 14:42:39](https://news.ycombinator.com/item?id=38219421) - [Braid, Anniversary Edition trailer [video]](https://www.youtube.com/watch?v=E1repvdGU9I)
-* [2023-11-10, 13:52:30](https://news.ycombinator.com/item?id=38218785) - [AOMedia Announces Royalty-Free IAMF Audio Container Specification](https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec)
 * [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 * [2023-11-10, 13:37:11](https://news.ycombinator.com/item?id=38218609) - [What if we replace guns and bullets with bows and arrows? (2022)](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
+* [2023-11-10, 13:34:15](https://news.ycombinator.com/item?id=38218580) - [We're sorry we created the Torment Nexus](http://www.antipope.org/charlie/blog-static/2023/11/dont-create-the-torment-nexus.html)
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:05:40](https://news.ycombinator.com/item?id=38218329) - [Automa – Automate the browser by connecting blocks](https://www.automa.site/)
 * [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
@@ -26,9 +28,7 @@
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-10, 00:06:00](https://news.ycombinator.com/item?id=38213158) - [Typing fast is about latency, not throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 23:14:17](https://news.ycombinator.com/item?id=38212749) - [Apollo astronaut Frank Borman has died](https://www.washingtonpost.com/obituaries/2023/11/09/frank-borman-astronaut-eastern-dead/)
-* [2023-11-09, 16:43:00](https://news.ycombinator.com/item?id=38207307) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=38207307)
 * [2023-11-09, 16:20:56](https://news.ycombinator.com/item?id=38207024) - [What I learned getting acquired by Google](https://shreyans.org/google)
-* [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
 
 ## [Archives](archives/index.md)
