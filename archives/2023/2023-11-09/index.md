@@ -14,6 +14,7 @@
 * [2023-11-09, 23:03:34](https://news.ycombinator.com/item?id=38212653) - [No Man's Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
 * [2023-11-09, 22:53:24](https://news.ycombinator.com/item?id=38212538) - [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
 * [2023-11-09, 22:46:07](https://news.ycombinator.com/item?id=38212467) - [Paw-Sitive Beginnings: Important Tips for a First-Time Dog Owner](https://furbes.com/first-time-dog-owner-training-tips/)
+* [2023-11-09, 22:45:00](https://news.ycombinator.com/item?id=38212453) - [Windows 11 Update 23H2 is stealing users' IMAP credentials](https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de)
 * [2023-11-09, 22:43:12](https://news.ycombinator.com/item?id=38212442) - [Jezebel: Feminist media site shuts down after 16 years](https://www.bbc.com/news/business-67372543)
 * [2023-11-09, 22:22:39](https://news.ycombinator.com/item?id=38212223) - [The 20 Farming Families Who Use More Water from Colorado River Than Some States](https://projects.propublica.org/california-farmers-colorado-river/)
 * [2023-11-09, 21:45:32](https://news.ycombinator.com/item?id=38211798) - [Restoring the Everglades to ensure South Florida's freshwater supply](https://news.fiu.edu/2023/let-it-flow)
