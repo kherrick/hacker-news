@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-10, 16:04:00](https://news.ycombinator.com/item?id=38220508) - [Binance to terminate Russian ruble deposits](https://cointelegraph.com/news/binance-halt-russian-ruble-deposits)
 * [2023-11-10, 15:46:38](https://news.ycombinator.com/item?id=38220288) - [Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
 * [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
 * [2023-11-10, 15:20:33](https://news.ycombinator.com/item?id=38219926) - [Jeff Geerling](https://www.raspberrypi.com/news/meet-jeff-geerling/)
@@ -9,7 +10,6 @@
 * [2023-11-10, 14:54:04](https://news.ycombinator.com/item?id=38219568) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html)
 * [2023-11-10, 14:42:39](https://news.ycombinator.com/item?id=38219421) - [Braid, Anniversary Edition trailer [video]](https://www.youtube.com/watch?v=E1repvdGU9I)
 * [2023-11-10, 13:42:21](https://news.ycombinator.com/item?id=38218667) - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
-* [2023-11-10, 13:37:11](https://news.ycombinator.com/item?id=38218609) - [What if we replace guns and bullets with bows and arrows? (2022)](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows/)
 * [2023-11-10, 13:34:15](https://news.ycombinator.com/item?id=38218580) - [We're sorry we created the Torment Nexus](http://www.antipope.org/charlie/blog-static/2023/11/dont-create-the-torment-nexus.html)
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:05:40](https://news.ycombinator.com/item?id=38218329) - [Automa – Automate the browser by connecting blocks](https://www.automa.site/)
