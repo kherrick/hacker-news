@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-10, 08:08:16](https://news.ycombinator.com/item?id=38216353) - [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
+* [2023-11-10, 07:39:37](https://news.ycombinator.com/item?id=38216196) - [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 * [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
-* [2023-11-10, 07:28:08](https://news.ycombinator.com/item?id=38216135) - [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
 * [2023-11-10, 07:21:23](https://news.ycombinator.com/item?id=38216096) - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
 * [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-10, 04:19:14](https://news.ycombinator.com/item?id=38214995) - [EuclideanSpace](https://euclideanspace.com/)
