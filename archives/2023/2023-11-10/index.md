@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
 * [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
+* [2023-11-10, 07:28:08](https://news.ycombinator.com/item?id=38216135) - [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
+* [2023-11-10, 07:21:23](https://news.ycombinator.com/item?id=38216096) - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
 * [2023-11-10, 05:56:23](https://news.ycombinator.com/item?id=38215535) - [Link-Time Optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-10, 05:52:02](https://news.ycombinator.com/item?id=38215513) - [New York Times Defends Rehiring Pro-Hitler, Pro-Terror Freelancer in Gaza](https://honestreporting.com/outrage-new-york-times-rehires-pro-hitler-freelancer-soliman-hijjy-in-gaza/)
 * [2023-11-10, 05:32:35](https://news.ycombinator.com/item?id=38215413) - [Apple has a memory problem and we're all paying for it](https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html)
