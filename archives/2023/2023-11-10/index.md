@@ -31,6 +31,7 @@
 * [2023-11-10, 17:29:05](https://news.ycombinator.com/item?id=38221709) - [Protégé: A free, open-source ontology editor for building intelligent systems](https://protege.stanford.edu/)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 * [2023-11-10, 17:07:31](https://news.ycombinator.com/item?id=38221379) - [Texture Healing for Monospace Fonts](https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md)
+* [2023-11-10, 17:06:43](https://news.ycombinator.com/item?id=38221370) - [Understanding Git: The History and Internals](https://graphite.dev/blog/understanding-git)
 * [2023-11-10, 16:52:24](https://news.ycombinator.com/item?id=38221157) - [How Steve Jobs Saved Apple with the Online Apple Store](https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store)
 * [2023-11-10, 16:49:31](https://news.ycombinator.com/item?id=38221121) - [Crew aboard a U.S.-bound plane discovered a missing window pane at 13,000 feet](https://www.npr.org/2023/11/10/1212144515/plane-missing-window-london-us)
 * [2023-11-10, 16:39:22](https://news.ycombinator.com/item?id=38220982) - [Dungeon KeeperFX 1.0.0 has been released](https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released)
