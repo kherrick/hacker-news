@@ -2,7 +2,6 @@
 
 * [2023-11-10, 09:49:33](https://news.ycombinator.com/item?id=38216956) - [Canonical shows how to use Snaps without the Snap Store](https://www.theregister.com/2023/11/10/snap_without_ubuntu_tools/)
 * [2023-11-10, 09:39:43](https://news.ycombinator.com/item?id=38216901) - [Facebook Is Ending Support for PGP Encrypted Emails](https://joltmailer.com/facebook-ends-pgp-encrypted-emails-support/)
-* [2023-11-10, 09:35:08](https://news.ycombinator.com/item?id=38216872) - [Sweden's schools minister declares charter school 'system failure'](https://www.theguardian.com/world/2023/nov/10/swedens-schools-minister-declares-free-school-system-failure)
 * [2023-11-10, 07:39:37](https://news.ycombinator.com/item?id=38216196) - [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 * [2023-11-10, 07:35:08](https://news.ycombinator.com/item?id=38216176) - [Rust – Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-10, 07:21:23](https://news.ycombinator.com/item?id=38216096) - [Amazon props Vega to replace Android-based Fire OS on future smart devices](https://goodereader.com/blog/amazon-news/amazon-props-vega-to-replace-android-based-fire-os-on-future-smart-devices)
@@ -28,6 +27,7 @@
 * [2023-11-09, 14:25:27](https://news.ycombinator.com/item?id=38205357) - [You Win or You Learn](https://www.threads.net/@waxpancake/post/CzbS-cVuGgn)
 * [2023-11-09, 12:54:39](https://news.ycombinator.com/item?id=38204378) - [An implementation of Common Lisp targeting Lua](https://codeberg.org/gsou/LCL)
 * [2023-11-09, 11:13:20](https://news.ycombinator.com/item?id=38203574) - [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything)
+* [2023-11-09, 00:40:25](https://news.ycombinator.com/item?id=38199355) - [Omegle 2009-2023](https://www.omegle.com/)
 * [2023-11-08, 09:04:18](https://news.ycombinator.com/item?id=38188162) - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
 * [2023-11-08, 02:12:52](https://news.ycombinator.com/item?id=38185911) - [Rainbow Net Wi-Fi protocol for connecting old consoles to the Internet](https://github.com/BrokeStudio/rainbow-net)
 
