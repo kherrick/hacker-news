@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future – Xe Iaso](https://xeiaso.net/notes/cursorless-alien-magic/)
+* [2023-11-10, 03:42:51](https://news.ycombinator.com/item?id=38214806) - [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-10, 02:56:00](https://news.ycombinator.com/item?id=38214553) - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
 * [2023-11-10, 01:01:31](https://news.ycombinator.com/item?id=38213590) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=38213590)
@@ -14,7 +15,6 @@
 * [2023-11-09, 23:09:38](https://news.ycombinator.com/item?id=38212712) - [Play the first ever text adventure game in your Linux terminal](https://linuximpact.com/play-the-first-ever-text-adventure-game-in-your-linux-terminal/)
 * [2023-11-09, 22:53:24](https://news.ycombinator.com/item?id=38212538) - [Room Temperature Superconductor Paper Retracted by Journal Nature](https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e)
 * [2023-11-09, 21:45:32](https://news.ycombinator.com/item?id=38211798) - [Restoring the Everglades to ensure South Florida's freshwater supply](https://news.fiu.edu/2023/let-it-flow)
-* [2023-11-09, 21:11:48](https://news.ycombinator.com/item?id=38211383) - [On medieval cats](https://going-medieval.com/2023/05/16/on-cats/)
 * [2023-11-09, 20:16:34](https://news.ycombinator.com/item?id=38210574) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 19:25:15](https://news.ycombinator.com/item?id=38209680) - [Doctors complete first successful face and whole-eye transplant](https://www.scientificamerican.com/article/doctors-complete-first-successful-face-and-whole-eye-transplant/)
 * [2023-11-09, 17:55:02](https://news.ycombinator.com/item?id=38208334) - [Steam Deck OLED](https://store.steampowered.com/sale/steamdeck_2023)

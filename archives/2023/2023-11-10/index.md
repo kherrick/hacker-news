@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
 * [2023-11-10, 04:04:10](https://news.ycombinator.com/item?id=38214915) - [Cursorless is alien magic from the future – Xe Iaso](https://xeiaso.net/notes/cursorless-alien-magic/)
+* [2023-11-10, 03:42:51](https://news.ycombinator.com/item?id=38214806) - [GPU advancements in M3 and A17 Pro [video]](https://developer.apple.com/videos/play/tech-talks/111375)
 * [2023-11-10, 03:11:11](https://news.ycombinator.com/item?id=38214644) - [Switching to Elixir](https://www.leemeichin.com/posts/switching-to-elixir.html)
 * [2023-11-10, 02:56:00](https://news.ycombinator.com/item?id=38214553) - [Why does so much government tech investment deliver so little?](https://www.airstreet.com/blog/government-tech-investment)
 * [2023-11-10, 01:11:23](https://news.ycombinator.com/item?id=38213707) - [Why Is Coed Cherry Shutting Down?](https://coedcherry.com/fuck-banks.html)
