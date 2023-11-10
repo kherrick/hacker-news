@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-10, 13:50:29",
+      "https://news.ycombinator.com/item?id=38218757"
+    ],
+    [
+      "A blacklist of banks that block movements to or from Bitcoin related services",
+      "https://github.com/theDavidCoen/BanksAgainstBitcoin"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 13:42:21",
+      "https://news.ycombinator.com/item?id=38218667"
+    ],
+    [
+      "Why Nordic Is Getting Involved in RISC-V",
+      "https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 13:28:46",
       "https://news.ycombinator.com/item?id=38218520"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2023-11-10, 12:37:39",
+      "https://news.ycombinator.com/item?id=38218114"
+    ],
+    [
+      "We used to build steel mills near cheap power. Now we build datacenters",
+      "https://danluu.com/datacenter-power/"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 11:46:02",
       "https://news.ycombinator.com/item?id=38217721"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2023-11-10, 11:17:29",
-      "https://news.ycombinator.com/item?id=38217545"
-    ],
-    [
-      "At SpaceX, worker injuries soar in Elon Musk's rush to Mars",
-      "https://www.reuters.com/investigates/special-report/spacex-musk-safety/"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 11:03:09",
       "https://news.ycombinator.com/item?id=38217457"
     ],
     [
       "Microsoft steals access data: Beware of the new Outlook (German)",
       "https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 10:51:48",
+      "https://news.ycombinator.com/item?id=38217355"
+    ],
+    [
+      "Mullvad: Moving our Encrypted DNS servers to run in RAM",
+      "https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-11-09, 23:45:05",
-      "https://news.ycombinator.com/item?id=38212992"
-    ],
-    [
-      "Steve Wozniak suffers minor stroke",
-      "https://www.bbc.co.uk/news/technology-67366306"
-    ]
-  ],
-  [
-    [
       "2023-11-09, 23:31:42",
       "https://news.ycombinator.com/item?id=38212904"
     ],
@@ -227,16 +247,6 @@
     [
       "Room Temperature Superconductor Paper Retracted by Journal Nature",
       "https://www.wsj.com/science/superconductor-paper-retracted-journal-nature-ranga-dias-c437ce6e"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 22:45:00",
-      "https://news.ycombinator.com/item?id=38212453"
-    ],
-    [
-      "Windows 11 Update 23H2 is stealing users' IMAP credentials",
-      "https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Everything vs. Anything",
       "https://startupceo.com/2023/11/everything-vs-anything"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 09:04:18",
-      "https://news.ycombinator.com/item?id=38188162"
-    ],
-    [
-      "Home Assistant blocked from integrating with Garage Door opener API",
-      "https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/"
     ]
   ]
 ]
