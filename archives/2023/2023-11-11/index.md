@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 16:18:14](https://news.ycombinator.com/item?id=38231601) - [LockBit says it's leaked 50GB of stolen Boeing files after ransom fails to land](https://www.theregister.com/2023/11/10/lockbit_leaks_boeing_files/)
 * [2023-11-11, 16:16:53](https://news.ycombinator.com/item?id=38231584) - [If You Bought a Tesla One Year Ago It Has Lost as Much as $40k in Value](https://jalopnik.com/if-you-bought-a-tesla-one-year-ago-it-has-lost-as-much-1851011677)
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Top 15 Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
 * [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
@@ -37,6 +38,7 @@
 * [2023-11-11, 07:25:54](https://news.ycombinator.com/item?id=38228265) - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 * [2023-11-11, 07:00:53](https://news.ycombinator.com/item?id=38228159) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2023-11-11, 06:47:31](https://news.ycombinator.com/item?id=38228114) - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
+* [2023-11-11, 06:23:46](https://news.ycombinator.com/item?id=38228039) - [Low-intensity fires reduce wildfire risk by 60%](https://news.stanford.edu/press-releases/2023/11/10/valuing-prescribed-fire/)
 * [2023-11-11, 06:11:56](https://news.ycombinator.com/item?id=38228007) - [Neighborle: List Neighboring Countries](https://neighborle.com/)
 * [2023-11-11, 05:27:00](https://news.ycombinator.com/item?id=38227886) - [uBlock-Origin 1.53.4 – 1.53.0 plus fix for Microsoft Edge](https://github.com/gorhill/uBlock/releases/tag/1.53.4)
 * [2023-11-11, 05:06:42](https://news.ycombinator.com/item?id=38227789) - [Advertisers Don't Want Sites Like Jezebel to Exist](https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/)

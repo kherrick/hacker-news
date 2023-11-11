@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-11, 16:16:53](https://news.ycombinator.com/item?id=38231584) - [If You Bought a Tesla One Year Ago It Has Lost as Much as $40k in Value](https://jalopnik.com/if-you-bought-a-tesla-one-year-ago-it-has-lost-as-much-1851011677)
+* [2023-11-11, 16:18:14](https://news.ycombinator.com/item?id=38231601) - [LockBit says it's leaked 50GB of stolen Boeing files after ransom fails to land](https://www.theregister.com/2023/11/10/lockbit_leaks_boeing_files/)
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
-* [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
 * [2023-11-11, 14:39:24](https://news.ycombinator.com/item?id=38230642) - [\"Never, ever, no matter what, go to a timeshare presentation\"](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
 * [2023-11-11, 14:21:03](https://news.ycombinator.com/item?id=38230495) - [Nicotine](https://gwern.net/nicotine)
 * [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
@@ -21,6 +20,7 @@
 * [2023-11-11, 08:48:37](https://news.ycombinator.com/item?id=38228592) - [Suits ignored IT's warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
 * [2023-11-11, 08:20:40](https://news.ycombinator.com/item?id=38228481) - [Archived YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)
 * [2023-11-11, 06:47:31](https://news.ycombinator.com/item?id=38228114) - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
+* [2023-11-11, 06:23:46](https://news.ycombinator.com/item?id=38228039) - [Low-intensity fires reduce wildfire risk by 60%](https://news.stanford.edu/press-releases/2023/11/10/valuing-prescribed-fire/)
 * [2023-11-11, 06:11:56](https://news.ycombinator.com/item?id=38228007) - [Neighborle: List Neighboring Countries](https://neighborle.com/)
 * [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
