@@ -8,7 +8,7 @@
 * [2023-11-10, 21:45:38](https://news.ycombinator.com/item?id=38224950) - [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
-* [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11)
+* [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Apple asked Amazon to block rival ads](https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11)
 * [2023-11-10, 20:31:47](https://news.ycombinator.com/item?id=38224117) - [Discover plants, swap seeds, plan gardens, share knowledge](https://permapeople.org/)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
