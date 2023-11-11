@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's Still Easy for Anyone to Become You at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:49:21](https://news.ycombinator.com/item?id=38232572) - [Twitter's onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
 * [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:27:09](https://news.ycombinator.com/item?id=38232334) - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
@@ -15,7 +16,6 @@
 * [2023-11-11, 16:18:14](https://news.ycombinator.com/item?id=38231601) - [LockBit says it's leaked 50GB of stolen Boeing files after ransom fails to land](https://www.theregister.com/2023/11/10/lockbit_leaks_boeing_files/)
 * [2023-11-11, 16:14:41](https://news.ycombinator.com/item?id=38231564) - [Wisconsin couple has old phones and nobody to buy them](https://madison.com/news/local/phoneco-wisconsin-telephones-knappen-business/article_90116a8a-734c-11ee-a555-f74104c683cf.html)
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
-* [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
 * [2023-11-11, 14:21:03](https://news.ycombinator.com/item?id=38230495) - [Nicotine (2016)](https://gwern.net/nicotine)
 * [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
 * [2023-11-11, 14:16:17](https://news.ycombinator.com/item?id=38230453) - [Show HN: Generate pdf with gitbook or mdbook url](https://github.com/lufengd3/htmlbook2pdf)
