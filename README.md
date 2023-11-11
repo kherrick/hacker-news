@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 23:11:45](https://news.ycombinator.com/item?id=38235552) - [Google's New \"Help Me Script\" Automation](https://techthreedots.com/googles-new-help-me-script)
 * [2023-11-11, 22:24:16](https://news.ycombinator.com/item?id=38235192) - [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
 * [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 * [2023-11-11, 21:20:47](https://news.ycombinator.com/item?id=38234653) - [It's OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
@@ -7,7 +8,6 @@
 * [2023-11-11, 20:44:16](https://news.ycombinator.com/item?id=38234319) - [Spitbol 360: an implementation of SNOBOL4 for IBM 360 compatible computers](https://github.com/spitbol/360)
 * [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
 * [2023-11-11, 19:58:59](https://news.ycombinator.com/item?id=38233934) - [John von Neumann Interview [video]](https://www.youtube.com/watch?v=vLbllFHBQM4)
-* [2023-11-11, 19:46:16](https://news.ycombinator.com/item?id=38233812) - [Yarn-Mistral-7B-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:27:09](https://news.ycombinator.com/item?id=38232334) - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)

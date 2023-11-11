@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 23:11:45](https://news.ycombinator.com/item?id=38235552) - [Google's New \"Help Me Script\" Automation](https://techthreedots.com/googles-new-help-me-script)
 * [2023-11-11, 22:24:16](https://news.ycombinator.com/item?id=38235192) - [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
 * [2023-11-11, 22:15:52](https://news.ycombinator.com/item?id=38235133) - [Only 15% of Californians can afford a home, new data shows](https://ktla.com/news/california/only-15-of-californians-can-afford-a-home-new-data-shows/)
 * [2023-11-11, 21:27:14](https://news.ycombinator.com/item?id=38234716) - [Now that cars are like smartphones, we don't really own them](https://www.washingtonpost.com/technology/2023/11/10/car-right-to-repair/)
