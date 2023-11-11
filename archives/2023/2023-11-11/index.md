@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 19:55:15](https://news.ycombinator.com/item?id=38233905) - [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
+* [2023-11-11, 19:55:03](https://news.ycombinator.com/item?id=38233902) - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable)
+* [2023-11-11, 19:46:14](https://news.ycombinator.com/item?id=38233810) - [The UBI should be inadequate](https://arnoldkling.substack.com/p/the-ubi-should-be-inadequate)
 * [2023-11-11, 19:35:27](https://news.ycombinator.com/item?id=38233694) - [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft?nl=e)
 * [2023-11-11, 19:00:16](https://news.ycombinator.com/item?id=38233349) - [Men less likely than women to share negative information, says study](https://phys.org/news/2023-11-men-women-negative.html)
 * [2023-11-11, 18:44:31](https://news.ycombinator.com/item?id=38233193) - [To get off fossil fuels, America is going to need a lot more electricians](https://grist.org/energy/electrician-shortage-electrify-everything-climate-infrastructure-labor/)
@@ -42,6 +45,7 @@
 * [2023-11-11, 14:16:08](https://news.ycombinator.com/item?id=38230449) - [What I Know About Community Building (2020)](https://medium.com/swlh/what-i-know-about-community-building-939aeac0aa7)
 * [2023-11-11, 14:12:23](https://news.ycombinator.com/item?id=38230417) - [The Benefits of Walking Backwards](https://www.bbc.com/future/article/20231110-why-walking-backwards-can-be-good-for-your-health-and-brain)
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a new C debugger as a 17-year-old](https://github.com/d4ckard/spray)
+* [2023-11-11, 13:58:02](https://news.ycombinator.com/item?id=38230316) - [Proteomics with OMSSA](https://sivome.github.io/proteomics/2019/03/02/Proteomics-with-OMSSA.html)
 * [2023-11-11, 13:08:59](https://news.ycombinator.com/item?id=38230002) - [BMW, Subaru and Porsche drivers 'more likely to cause a crash', study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
 * [2023-11-11, 13:01:32](https://news.ycombinator.com/item?id=38229948) - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
 * [2023-11-11, 12:58:57](https://news.ycombinator.com/item?id=38229928) - [Google uses int8 for LLM training](https://old.reddit.com/r/LocalLLaMA/comments/17sbjsv/google_blog_posts_suggests_that_google_using_int8/)
