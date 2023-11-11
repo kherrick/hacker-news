@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-11, 17:27:09",
+      "https://news.ycombinator.com/item?id=38232334"
+    ],
+    [
+      "Is this radical redesign of GIMP possible now?",
+      "https://librearts.org/2023/11/radical-redesign-of-gimp/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 17:08:16",
+      "https://news.ycombinator.com/item?id=38232131"
+    ],
+    [
+      "Borrowers Got $127B in Student Loans Canceled",
+      "https://www.nytimes.com/2023/11/11/business/student-loans-debt-cancellation.html"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 17:00:21",
       "https://news.ycombinator.com/item?id=38232044"
     ],
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2023-11-11, 16:21:36",
+      "https://news.ycombinator.com/item?id=38231626"
+    ],
+    [
+      "Why Is It So Difficult to Map the Ocean?",
+      "https://nautil.us/why-is-it-so-difficult-to-map-the-ocean-436109/"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 16:18:14",
       "https://news.ycombinator.com/item?id=38231601"
     ],
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=38230495"
     ],
     [
-      "Nicotine",
+      "Nicotine (2016)",
       "https://gwern.net/nicotine"
     ]
   ],
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=38229231"
     ],
     [
-      "How I got here (Preston Thorpe, incarcerated developer)",
+      "How I got here",
       "https://pthorpe92.github.io/intro/my-story/"
     ]
   ],
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2023-11-11, 03:41:06",
-      "https://news.ycombinator.com/item?id=38227437"
-    ],
-    [
-      "Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420",
-      "https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 01:35:17",
       "https://news.ycombinator.com/item?id=38226743"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-11-10, 20:42:09",
-      "https://news.ycombinator.com/item?id=38224245"
-    ],
-    [
-      "How to boss without being bossy",
-      "https://www.jeffwofford.com/?p=2089"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 20:29:10",
       "https://news.ycombinator.com/item?id=38224085"
     ],
@@ -287,16 +297,6 @@
     [
       "Writing code for both computers and humans",
       "https://www.tonymottaz.com/code-for-computers-and-humans/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 12:22:54",
-      "https://news.ycombinator.com/item?id=38217998"
-    ],
-    [
-      "Conway and Doyle can divide by three, but I can't",
-      "https://arxiv.org/abs/2309.11634"
     ]
   ]
 ]
