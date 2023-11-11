@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 18:44:31](https://news.ycombinator.com/item?id=38233193) - [To get off fossil fuels, America is going to need a lot more electricians](https://grist.org/energy/electrician-shortage-electrify-everything-climate-infrastructure-labor/)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:49:21](https://news.ycombinator.com/item?id=38232572) - [Twitter's onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
 * [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
@@ -18,7 +19,6 @@
 * [2023-11-11, 14:21:03](https://news.ycombinator.com/item?id=38230495) - [Nicotine (2016)](https://gwern.net/nicotine)
 * [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
 * [2023-11-11, 14:16:17](https://news.ycombinator.com/item?id=38230453) - [Show HN: Generate pdf with gitbook or mdbook url](https://github.com/lufengd3/htmlbook2pdf)
-* [2023-11-11, 14:16:08](https://news.ycombinator.com/item?id=38230449) - [What I Know About Community Building (2020)](https://medium.com/swlh/what-i-know-about-community-building-939aeac0aa7)
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 12:02:56](https://news.ycombinator.com/item?id=38229576) - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 * [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
