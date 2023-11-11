@@ -9,6 +9,7 @@
 * [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:27:09](https://news.ycombinator.com/item?id=38232334) - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
+* [2023-11-11, 17:09:34](https://news.ycombinator.com/item?id=38232142) - [Capturing the WebGPU Ecosystem](https://developer.chrome.com/blog/webgpu-ecosystem/)
 * [2023-11-11, 17:08:24](https://news.ycombinator.com/item?id=38232132) - [Ask HN: What framework/tools to use to build front end in 2023?](https://news.ycombinator.com/item?id=38232132)
 * [2023-11-11, 17:08:16](https://news.ycombinator.com/item?id=38232131) - [Borrowers Got $127B in Student Loans Canceled](https://www.nytimes.com/2023/11/11/business/student-loans-debt-cancellation.html)
 * [2023-11-11, 17:00:21](https://news.ycombinator.com/item?id=38232044) - [Spine AI (YC S23) Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
