@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Top 15 Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
+* [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
 * [2023-11-11, 14:37:22](https://news.ycombinator.com/item?id=38230623) - [What If Psychedelics' Hallucinations Are Just a Side Effect?](https://www.theatlantic.com/health/archive/2023/11/non-hallucinogenic-psychedelic-clinical-therapy/675942/)
 * [2023-11-11, 14:21:03](https://news.ycombinator.com/item?id=38230495) - [Nicotine: On the benefits and lack of demerits of nicotine](https://gwern.net/nicotine)
 * [2023-11-11, 14:20:41](https://news.ycombinator.com/item?id=38230494) - [Master Foo and the Unix Zealot](http://catb.org/esr/writings/unix-koans/zealot.html)
