@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 07:25:54](https://news.ycombinator.com/item?id=38228265) - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 * [2023-11-11, 07:00:53](https://news.ycombinator.com/item?id=38228159) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2023-11-11, 06:47:31](https://news.ycombinator.com/item?id=38228114) - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
 * [2023-11-11, 05:06:42](https://news.ycombinator.com/item?id=38227789) - [Advertisers Don't Want Sites Like Jezebel to Exist](https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/)
