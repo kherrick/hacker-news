@@ -11,7 +11,7 @@
 * [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Apple asked Amazon to block rival ads](https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
-* [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
+* [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [The Ornate Bird Palaces of Ottoman-Era Turkey (2017)](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:08](https://news.ycombinator.com/item?id=38223822) - [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
 * [2023-11-10, 19:53:28](https://news.ycombinator.com/item?id=38223660) - [Attenborough’s long-beaked echidna rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
 * [2023-11-10, 19:43:23](https://news.ycombinator.com/item?id=38223555) - [Rare Ovarian Tumor Discovered in Egyptian New Kingdom Burial](https://www.archaeology.org/news/11887-231108-amarna-burial-teratoma)
