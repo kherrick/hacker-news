@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-11, 07:00:53](https://news.ycombinator.com/item?id=38228159) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-* [2023-11-11, 04:14:36](https://news.ycombinator.com/item?id=38227565) - [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
+* [2023-11-11, 06:47:31](https://news.ycombinator.com/item?id=38228114) - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
