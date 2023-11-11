@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
 * [2023-11-11, 19:55:15](https://news.ycombinator.com/item?id=38233905) - [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
 * [2023-11-11, 19:55:03](https://news.ycombinator.com/item?id=38233902) - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable)
 * [2023-11-11, 19:46:14](https://news.ycombinator.com/item?id=38233810) - [The UBI should be inadequate](https://arnoldkling.substack.com/p/the-ubi-should-be-inadequate)
@@ -27,7 +28,6 @@
 * [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 * [2023-11-11, 08:20:40](https://news.ycombinator.com/item?id=38228481) - [Archived YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)
 * [2023-11-11, 06:47:31](https://news.ycombinator.com/item?id=38228114) - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
-* [2023-11-11, 06:23:46](https://news.ycombinator.com/item?id=38228039) - [Low-intensity fires reduce wildfire risk by 60%](https://news.stanford.edu/press-releases/2023/11/10/valuing-prescribed-fire/)
 * [2023-11-11, 02:32:20](https://news.ycombinator.com/item?id=38227112) - [The Mediterranean Iron Omni-Spear](https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/)
 * [2023-11-11, 01:13:56](https://news.ycombinator.com/item?id=38226589) - [Codex documenting Aztec culture now digitized](https://hyperallergic.com/855683/stunning-florentine-codex-documenting-aztec-culture-now-fully-digitized/)
 
