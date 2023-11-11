@@ -69,6 +69,7 @@
 * [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
 * [2023-11-10, 13:05:40](https://news.ycombinator.com/item?id=38218329) - [Automa – Automate the browser by connecting blocks](https://www.automa.site/)
 * [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
+* [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
 * [2023-11-10, 11:58:09](https://news.ycombinator.com/item?id=38217820) - [World’s Biggest Bank Forced to Trade Via USB Stick After Hack](https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack)
 * [2023-11-10, 11:46:02](https://news.ycombinator.com/item?id=38217721) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks)](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
 * [2023-11-10, 11:27:16](https://news.ycombinator.com/item?id=38217602) - [World Population Estimated at 8 Billion](https://www.census.gov/library/stories/2023/11/world-population-estimated-eight-billion.html)

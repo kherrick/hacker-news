@@ -26,8 +26,8 @@
 * [2023-11-10, 16:52:24](https://news.ycombinator.com/item?id=38221157) - [Apple’s first online store played a crucial role in the company’s resurgence](https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store)
 * [2023-11-10, 16:33:39](https://news.ycombinator.com/item?id=38220892) - [New York restaurants fight back against reservations by bots](https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots)
 * [2023-11-10, 16:12:18](https://news.ycombinator.com/item?id=38220607) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
-* [2023-11-10, 15:46:38](https://news.ycombinator.com/item?id=38220288) - [Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
-* [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection (2022)](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
+* [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
+* [2023-11-10, 08:40:25](https://news.ycombinator.com/item?id=38216556) - [Let's create a Python Debugger together](https://mostlynerdless.de/blog/tag/lets-create-a-debugger-together/)
 * [2023-11-10, 08:30:18](https://news.ycombinator.com/item?id=38216503) - [Lessons learned by a software guy venturing into hardware](https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/)
 * [2023-11-10, 01:02:43](https://news.ycombinator.com/item?id=38213600) - [‘Father of cell phone’ reflects on making first call and history 50 years ago](https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/)
 
