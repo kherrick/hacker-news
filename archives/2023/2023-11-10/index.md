@@ -36,6 +36,7 @@
 * [2023-11-10, 18:01:03](https://news.ycombinator.com/item?id=38222163) - [Microsoft briefly blocked employees from using ChatGPT over security concerns](https://www.engadget.com/microsoft-briefly-blocked-employees-from-using-chatgpt-over-security-concerns-080403177.html)
 * [2023-11-10, 17:58:25](https://news.ycombinator.com/item?id=38222136) - [Congress mandates new car technology to stop drunken driving (2021)](https://apnews.com/article/coronavirus-pandemic-joe-biden-technology-business-health-068ee87392b0cca1444053b854a514dd)
 * [2023-11-10, 17:50:29](https://news.ycombinator.com/item?id=38222014) - [NASA's Webb, Hubble Combine to Create Most Colorful View of Universe](https://webbtelescope.org/contents/news-releases/2023/news-2023-146.html)
+* [2023-11-10, 17:48:59](https://news.ycombinator.com/item?id=38221996) - [Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables](https://dl.acm.org/doi/10.1145/3586183.3606779)
 * [2023-11-10, 17:46:08](https://news.ycombinator.com/item?id=38221954) - [Zuckerberg 'vetoed,' 'ignored' plans to boost teen well-being on Meta platforms](https://thehill.com/policy/technology/4302145-zuckerberg-vetoed-teen-mental-health-facebook-instagram/)
 * [2023-11-10, 17:29:05](https://news.ycombinator.com/item?id=38221709) - [Protégé: A free, open-source ontology editor for building intelligent systems](https://protege.stanford.edu/)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
