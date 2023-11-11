@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 * [2023-11-11, 09:02:28](https://news.ycombinator.com/item?id=38228649) - [Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
 * [2023-11-11, 09:01:08](https://news.ycombinator.com/item?id=38228644) - [Warner Bros Shelves Finished Coyote vs. Acme Film as Tax Write-Off](https://deadline.com/2023/11/coyote-vs-acme-shelved-warner-bros-discovery-writeoff-david-zaslav-1235598676/)
 * [2023-11-11, 08:53:11](https://news.ycombinator.com/item?id=38228606) - [DrinkedIn – Your Personal Wine Connoisseur](https://chat.openai.com/g/g-bJKm0Xi2F-drinkedin-the-wine-connoisseur)
@@ -14,7 +15,6 @@
 * [2023-11-10, 21:51:15](https://news.ycombinator.com/item?id=38225019) - [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
-* [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Apple asked Amazon to block rival ads](https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11)
 * [2023-11-10, 20:31:47](https://news.ycombinator.com/item?id=38224117) - [Discover plants, swap seeds, plan gardens, share knowledge](https://permapeople.org/)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [The Ornate Bird Palaces of Ottoman-Era Turkey (2017)](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
