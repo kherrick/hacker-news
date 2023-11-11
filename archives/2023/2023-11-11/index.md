@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 17:49:21](https://news.ycombinator.com/item?id=38232572) - [Twitter's onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
 * [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:27:09](https://news.ycombinator.com/item?id=38232334) - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
 * [2023-11-11, 17:08:24](https://news.ycombinator.com/item?id=38232132) - [Ask HN: What framework/tools to use to build front end in 2023?](https://news.ycombinator.com/item?id=38232132)
 * [2023-11-11, 17:08:16](https://news.ycombinator.com/item?id=38232131) - [Borrowers Got $127B in Student Loans Canceled](https://www.nytimes.com/2023/11/11/business/student-loans-debt-cancellation.html)
 * [2023-11-11, 17:00:21](https://news.ycombinator.com/item?id=38232044) - [Spine AI (YC S23) Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
+* [2023-11-11, 16:57:48](https://news.ycombinator.com/item?id=38232014) - [Is Something Going on with Archive.ph?](https://news.ycombinator.com/item?id=38232014)
 * [2023-11-11, 16:57:11](https://news.ycombinator.com/item?id=38232006) - [There's something going on with AI startups in France](https://techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/)
 * [2023-11-11, 16:47:46](https://news.ycombinator.com/item?id=38231901) - [Getting the Lorentz transformations without requiring an invariant speed](https://arxiv.org/abs/1504.02423)
 * [2023-11-11, 16:40:30](https://news.ycombinator.com/item?id=38231805) - [Germany approves global minimum corporate tax](https://www.reuters.com/world/europe/germany-approves-global-minimum-corporate-tax-2023-11-10/)

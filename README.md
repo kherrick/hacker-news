@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 17:49:21](https://news.ycombinator.com/item?id=38232572) - [Twitter's onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
 * [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:27:09](https://news.ycombinator.com/item?id=38232334) - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
 * [2023-11-11, 17:00:21](https://news.ycombinator.com/item?id=38232044) - [Spine AI (YC S23) Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
+* [2023-11-11, 16:57:48](https://news.ycombinator.com/item?id=38232014) - [Is Something Going on with Archive.ph?](https://news.ycombinator.com/item?id=38232014)
 * [2023-11-11, 16:57:11](https://news.ycombinator.com/item?id=38232006) - [There's something going on with AI startups in France](https://techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/)
 * [2023-11-11, 16:47:46](https://news.ycombinator.com/item?id=38231901) - [Getting the Lorentz transformations without requiring an invariant speed](https://arxiv.org/abs/1504.02423)
 * [2023-11-11, 16:36:36](https://news.ycombinator.com/item?id=38231771) - [Song stuck in your head? Just hum to search (2020)](https://blog.google/products/search/hum-to-search/)
@@ -17,7 +19,6 @@
 * [2023-11-11, 14:21:03](https://news.ycombinator.com/item?id=38230495) - [Nicotine (2016)](https://gwern.net/nicotine)
 * [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
 * [2023-11-11, 14:16:17](https://news.ycombinator.com/item?id=38230453) - [Show HN: Generate pdf with gitbook or mdbook url](https://github.com/lufengd3/htmlbook2pdf)
-* [2023-11-11, 14:16:08](https://news.ycombinator.com/item?id=38230449) - [What I Know About Community Building (2020)](https://medium.com/swlh/what-i-know-about-community-building-939aeac0aa7)
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 12:02:56](https://news.ycombinator.com/item?id=38229576) - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 * [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
@@ -27,7 +28,6 @@
 * [2023-11-11, 06:23:46](https://news.ycombinator.com/item?id=38228039) - [Low-intensity fires reduce wildfire risk by 60%](https://news.stanford.edu/press-releases/2023/11/10/valuing-prescribed-fire/)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:13:56](https://news.ycombinator.com/item?id=38226589) - [Codex documenting Aztec culture now digitized](https://hyperallergic.com/855683/stunning-florentine-codex-documenting-aztec-culture-now-fully-digitized/)
-* [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 * [2023-11-10, 20:29:10](https://news.ycombinator.com/item?id=38224085) - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
 * [2023-11-10, 20:02:06](https://news.ycombinator.com/item?id=38223771) - [Writing code for both computers and humans](https://www.tonymottaz.com/code-for-computers-and-humans/)
 
