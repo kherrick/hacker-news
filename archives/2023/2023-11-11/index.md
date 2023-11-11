@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-11](index.md)
+
+* [2023-11-11, 00:18:15](https://news.ycombinator.com/item?id=38226291) - [Entire population of Maine's just had its data stolen in a ransomware attack](https://mashable.com/article/maine-moveit-ransomware-attack)
