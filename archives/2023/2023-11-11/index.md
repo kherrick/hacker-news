@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
 * [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
+* [2023-11-11, 19:58:59](https://news.ycombinator.com/item?id=38233934) - [John von Neumann Interview [video]](https://www.youtube.com/watch?v=vLbllFHBQM4)
 * [2023-11-11, 19:55:15](https://news.ycombinator.com/item?id=38233905) - [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
 * [2023-11-11, 19:55:03](https://news.ycombinator.com/item?id=38233902) - [Apple admits third-party App Stores in Europe are inevitable](https://appleinsider.com/articles/23/11/08/apple-admits-third-party-app-stores-in-europe-are-inevitable)
 * [2023-11-11, 19:46:14](https://news.ycombinator.com/item?id=38233810) - [The UBI should be inadequate](https://arnoldkling.substack.com/p/the-ubi-should-be-inadequate)
