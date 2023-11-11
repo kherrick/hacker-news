@@ -26,8 +26,8 @@
 * [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:13:56](https://news.ycombinator.com/item?id=38226589) - [Codex documenting Aztec culture now digitized](https://hyperallergic.com/855683/stunning-florentine-codex-documenting-aztec-culture-now-fully-digitized/)
+* [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 * [2023-11-10, 20:29:10](https://news.ycombinator.com/item?id=38224085) - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
-* [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 * [2023-11-10, 20:02:06](https://news.ycombinator.com/item?id=38223771) - [Writing code for both computers and humans](https://www.tonymottaz.com/code-for-computers-and-humans/)
 * [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
 
