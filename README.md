@@ -26,10 +26,10 @@
 * [2023-11-10, 17:48:59](https://news.ycombinator.com/item?id=38221996) - [Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables](https://dl.acm.org/doi/10.1145/3586183.3606779)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't build AI products the way everyone else is doing it](https://www.builder.io/blog/build-ai)
 * [2023-11-10, 16:52:24](https://news.ycombinator.com/item?id=38221157) - [Apple’s first online store played a crucial role in the company’s resurgence](https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store)
-* [2023-11-10, 16:12:18](https://news.ycombinator.com/item?id=38220607) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-10, 12:48:32](https://news.ycombinator.com/item?id=38218187) - [How to Make a Tesla Turbine](https://www.instructables.com/How-To-Make-A-Tesla-Turbine-Greenest-Turbine/)
 * [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
 * [2023-11-10, 08:30:18](https://news.ycombinator.com/item?id=38216503) - [Lessons learned by a software guy venturing into hardware](https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/)
+* [2023-11-10, 01:02:43](https://news.ycombinator.com/item?id=38213600) - [‘Father of cell phone’ reflects on making first call and history 50 years ago](https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/)
 
 ## [Archives](archives/index.md)
 
