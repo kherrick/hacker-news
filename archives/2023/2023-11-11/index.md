@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 17:27:09](https://news.ycombinator.com/item?id=38232334) - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
+* [2023-11-11, 17:08:16](https://news.ycombinator.com/item?id=38232131) - [Borrowers Got $127B in Student Loans Canceled](https://www.nytimes.com/2023/11/11/business/student-loans-debt-cancellation.html)
 * [2023-11-11, 17:00:21](https://news.ycombinator.com/item?id=38232044) - [Spine AI (YC S23) Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
 * [2023-11-11, 16:57:11](https://news.ycombinator.com/item?id=38232006) - [There's something going on with AI startups in France](https://techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/)
 * [2023-11-11, 16:40:30](https://news.ycombinator.com/item?id=38231805) - [Germany approves global minimum corporate tax](https://www.reuters.com/world/europe/germany-approves-global-minimum-corporate-tax-2023-11-10/)
 * [2023-11-11, 16:36:36](https://news.ycombinator.com/item?id=38231771) - [Song stuck in your head? Just hum to search (2020)](https://blog.google/products/search/hum-to-search/)
 * [2023-11-11, 16:30:12](https://news.ycombinator.com/item?id=38231704) - [Find Bilingual Baby Names](https://mixedname.com/)
 * [2023-11-11, 16:26:23](https://news.ycombinator.com/item?id=38231670) - [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html)
+* [2023-11-11, 16:21:36](https://news.ycombinator.com/item?id=38231626) - [Why Is It So Difficult to Map the Ocean?](https://nautil.us/why-is-it-so-difficult-to-map-the-ocean-436109/)
 * [2023-11-11, 16:18:14](https://news.ycombinator.com/item?id=38231601) - [LockBit says it's leaked 50GB of stolen Boeing files after ransom fails to land](https://www.theregister.com/2023/11/10/lockbit_leaks_boeing_files/)
 * [2023-11-11, 16:16:53](https://news.ycombinator.com/item?id=38231584) - [If You Bought a Tesla One Year Ago It Has Lost as Much as $40k in Value](https://jalopnik.com/if-you-bought-a-tesla-one-year-ago-it-has-lost-as-much-1851011677)
 * [2023-11-11, 16:14:41](https://news.ycombinator.com/item?id=38231564) - [Wisconsin couple has tens of old phones – and nobody to buy them](https://madison.com/news/local/phoneco-wisconsin-telephones-knappen-business/article_90116a8a-734c-11ee-a555-f74104c683cf.html)
