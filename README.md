@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 16:16:53](https://news.ycombinator.com/item?id=38231584) - [If You Bought a Tesla One Year Ago It Has Lost as Much as $40k in Value](https://jalopnik.com/if-you-bought-a-tesla-one-year-ago-it-has-lost-as-much-1851011677)
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
 * [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
 * [2023-11-11, 14:39:24](https://news.ycombinator.com/item?id=38230642) - [\"Never, ever, no matter what, go to a timeshare presentation\"](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
@@ -28,7 +29,6 @@
 * [2023-11-10, 20:29:10](https://news.ycombinator.com/item?id=38224085) - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 * [2023-11-10, 20:02:06](https://news.ycombinator.com/item?id=38223771) - [Writing code for both computers and humans](https://www.tonymottaz.com/code-for-computers-and-humans/)
-* [2023-11-10, 18:18:40](https://news.ycombinator.com/item?id=38222424) - [One of a Kind (2014)](https://www.newyorker.com/magazine/2014/07/21/one-of-a-kind-2)
 * [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
 
 ## [Archives](archives/index.md)
