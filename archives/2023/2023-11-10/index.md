@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
 * [2023-11-10, 23:39:58](https://news.ycombinator.com/item?id=38226030) - [Ask HN: Is anyone else bearish on OpenAI?](https://news.ycombinator.com/item?id=38226030)
+* [2023-11-10, 22:01:52](https://news.ycombinator.com/item?id=38225121) - [The Normal Blog – A First Demonstration of Thermodynamic Matrix Inversion](https://blog.normalcomputing.ai/posts/2023-11-09-thermodynamic-inversion/thermo-inversion.html)
 * [2023-11-10, 21:51:15](https://news.ycombinator.com/item?id=38225019) - [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
 * [2023-11-10, 21:45:38](https://news.ycombinator.com/item?id=38224950) - [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
@@ -20,6 +21,7 @@
 * [2023-11-10, 20:06:08](https://news.ycombinator.com/item?id=38223822) - [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
 * [2023-11-10, 20:02:06](https://news.ycombinator.com/item?id=38223771) - [Writing code for both computers and humans](https://www.tonymottaz.com/code-for-computers-and-humans/)
 * [2023-11-10, 19:53:28](https://news.ycombinator.com/item?id=38223660) - [Rare egg-laying mammal (echidna) rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
+* [2023-11-10, 19:43:23](https://news.ycombinator.com/item?id=38223555) - [Rare Ovarian Tumor Discovered in Egyptian New Kingdom Burial](https://www.archaeology.org/news/11887-231108-amarna-burial-teratoma)
 * [2023-11-10, 19:21:25](https://news.ycombinator.com/item?id=38223263) - [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
 * [2023-11-10, 18:59:32](https://news.ycombinator.com/item?id=38222973) - [The FCC voted to reimplement net neutrality. Now comes the hard part](https://www.nationaljournal.com/s/723252/the-fcc-voted-to-reimplement-net-neutrality-now-comes-the-hard-part/)
 * [2023-11-10, 18:54:54](https://news.ycombinator.com/item?id=38222909) - [The Unix timestamp will begin with 17 this Tuesday](https://www.unixtimestamp.com/)
