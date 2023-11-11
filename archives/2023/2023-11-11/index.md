@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
 * [2023-11-11, 13:08:59](https://news.ycombinator.com/item?id=38230002) - [BMW, Subaru and Porsche drivers 'more likely to cause a crash', study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
+* [2023-11-11, 13:01:32](https://news.ycombinator.com/item?id=38229948) - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
 * [2023-11-11, 12:56:56](https://news.ycombinator.com/item?id=38229913) - [Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
 * [2023-11-11, 12:02:56](https://news.ycombinator.com/item?id=38229576) - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 * [2023-11-11, 12:01:15](https://news.ycombinator.com/item?id=38229560) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38229560)
