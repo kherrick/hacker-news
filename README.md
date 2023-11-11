@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-11, 05:06:42](https://news.ycombinator.com/item?id=38227789) - [Advertisers Don't Want Sites Like Jezebel to Exist](https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/)
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)
@@ -10,6 +9,7 @@
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Apple asked Amazon to block rival ads](https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11)
+* [2023-11-10, 20:31:47](https://news.ycombinator.com/item?id=38224117) - [Discover plants, swap seeds, plan gardens, share knowledge](https://permapeople.org/)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [The Ornate Bird Palaces of Ottoman-Era Turkey (2017)](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:08](https://news.ycombinator.com/item?id=38223822) - [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
