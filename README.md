@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+* [2023-11-11, 02:47:32](https://news.ycombinator.com/item?id=38227188) - [Angus Deaton on inequality: ‘The war on poverty has become a war on the poor’](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)
 * [2023-11-11, 01:05:22](https://news.ycombinator.com/item?id=38226548) - [Firezone (YC W22) is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
@@ -28,7 +29,6 @@
 * [2023-11-10, 15:46:38](https://news.ycombinator.com/item?id=38220288) - [Gigantic heat caverns in Mustikkamaa have now been filled with water (2021)](https://www.helen.fi/en/news/2021/gigantic-heat-caverns-in-mustikkamaa-filled)
 * [2023-11-10, 15:26:11](https://news.ycombinator.com/item?id=38219998) - [The Svalbard fibre optic cable connection (2022)](https://spacenorway.no/en/what-we-do/operational-infrastructure/the-svalbard-fibre-optic-cable-connection/)
 * [2023-11-10, 08:30:18](https://news.ycombinator.com/item?id=38216503) - [Lessons learned by a software guy venturing into hardware](https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/)
-* [2023-11-10, 08:15:26](https://news.ycombinator.com/item?id=38216400) - [Write your own terminal](https://flak.tedunangst.com/post/write-your-own-terminal)
 * [2023-11-10, 01:02:43](https://news.ycombinator.com/item?id=38213600) - [‘Father of cell phone’ reflects on making first call and history 50 years ago](https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/)
 
 ## [Archives](archives/index.md)
