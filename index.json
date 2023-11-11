@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-11-11, 01:08:22",
+      "https://news.ycombinator.com/item?id=38226567"
+    ],
+    [
+      "Computation of the n'th digit of pi in any base in O(n^2) (1997)",
+      "https://bellard.org/pi/pi_n2/pi_n2.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 01:05:22",
+      "https://news.ycombinator.com/item?id=38226548"
+    ],
+    [
+      "Firezone (YC W22) is hiring a Rust contractor to build a Windows client",
+      "https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 00:38:18",
+      "https://news.ycombinator.com/item?id=38226404"
+    ],
+    [
+      "Trading bot that buys stocks bought by politicians is up 20% since May 2022",
+      "https://www.threads.net/@quiverquantitative/post/CzcB-Gsgqow"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 00:18:15",
       "https://news.ycombinator.com/item?id=38226291"
     ],
     [
       "Entire population of Maine's just had its data stolen in a ransomware attack",
       "https://mashable.com/article/maine-moveit-ransomware-attack"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 22:01:52",
+      "https://news.ycombinator.com/item?id=38225121"
+    ],
+    [
+      "The Normal Blog – A First Demonstration of Thermodynamic Matrix Inversion",
+      "https://blog.normalcomputing.ai/posts/2023-11-09-thermodynamic-inversion/thermo-inversion.html"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "The hijacking of rare Japanese KitKats",
       "https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 20:58:54",
-      "https://news.ycombinator.com/item?id=38224434"
-    ],
-    [
-      "Prediction markets can tell the future. Why is the US so afraid of them?",
-      "https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e"
     ]
   ],
   [
@@ -107,6 +137,16 @@
     [
       "Rare egg-laying mammal (echidna) rediscovered in Indonesia",
       "https://www.cbc.ca/news/science/echidna-video-1.7024966"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 19:43:23",
+      "https://news.ycombinator.com/item?id=38223555"
+    ],
+    [
+      "Rare Ovarian Tumor Discovered in Egyptian New Kingdom Burial",
+      "https://www.archaeology.org/news/11887-231108-amarna-burial-teratoma"
     ]
   ],
   [
@@ -227,46 +267,6 @@
     [
       "Nordic is getting involved in RISC-V",
       "https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 13:28:46",
-      "https://news.ycombinator.com/item?id=38218520"
-    ],
-    [
-      "Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist",
-      "https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 13:05:40",
-      "https://news.ycombinator.com/item?id=38218329"
-    ],
-    [
-      "Automa – Automate the browser by connecting blocks",
-      "https://www.automa.site/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 10:51:48",
-      "https://news.ycombinator.com/item?id=38217355"
-    ],
-    [
-      "Moving our Encrypted DNS servers to run in RAM",
-      "https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 08:40:25",
-      "https://news.ycombinator.com/item?id=38216556"
-    ],
-    [
-      "Let's create a Python Debugger together",
-      "https://mostlynerdless.de/blog/tag/lets-create-a-debugger-together/"
     ]
   ],
   [
