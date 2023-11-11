@@ -69,6 +69,7 @@
 * [2023-11-10, 13:28:46](https://news.ycombinator.com/item?id=38218520) - [Lago – open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-10, 13:08:05](https://news.ycombinator.com/item?id=38218346) - [Swedish painters trade union to stop all work with Tesla brand cars](https://www.malarna.nu/om-oss/nyheter/20232/pressmeddelande-malarna-stoppar-lackering-av-tesla-bilar/)
 * [2023-11-10, 13:05:40](https://news.ycombinator.com/item?id=38218329) - [Automa – Automate the browser by connecting blocks](https://www.automa.site/)
+* [2023-11-10, 12:48:32](https://news.ycombinator.com/item?id=38218187) - [How to Make a Tesla Turbine](https://www.instructables.com/How-To-Make-A-Tesla-Turbine-Greenest-Turbine/)
 * [2023-11-10, 12:37:39](https://news.ycombinator.com/item?id=38218114) - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
 * [2023-11-10, 11:58:09](https://news.ycombinator.com/item?id=38217820) - [World’s Biggest Bank Forced to Trade Via USB Stick After Hack](https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack)
