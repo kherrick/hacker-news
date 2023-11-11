@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 21:27:14](https://news.ycombinator.com/item?id=38234716) - [Now that cars are like smartphones, we don't really own them](https://www.washingtonpost.com/technology/2023/11/10/car-right-to-repair/)
 * [2023-11-11, 21:20:47](https://news.ycombinator.com/item?id=38234653) - [It's OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
 * [2023-11-11, 21:02:18](https://news.ycombinator.com/item?id=38234476) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-11-11, 20:10:01](https://news.ycombinator.com/item?id=38234016) - [In praise of America's car addiction](https://www.economist.com/finance-and-economics/2023/11/09/in-praise-of-americas-car-addiction)
