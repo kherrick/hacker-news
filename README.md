@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a new C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 13:01:32](https://news.ycombinator.com/item?id=38229948) - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
 * [2023-11-11, 12:56:56](https://news.ycombinator.com/item?id=38229913) - [Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
 * [2023-11-11, 12:02:56](https://news.ycombinator.com/item?id=38229576) - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 * [2023-11-11, 12:01:15](https://news.ycombinator.com/item?id=38229560) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38229560)
+* [2023-11-11, 11:48:16](https://news.ycombinator.com/item?id=38229479) - [Japan is experiencing nationwide credit card payments issues](https://www3.nhk.or.jp/news/html/20231111/k10014255371000.html)
 * [2023-11-11, 10:34:41](https://news.ycombinator.com/item?id=38229102) - [RISC-V Vector benchmark results](https://camel-cdr.github.io/rvv-bench-results/index.html)
 * [2023-11-11, 10:26:30](https://news.ycombinator.com/item?id=38229041) - [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
 * [2023-11-11, 10:20:11](https://news.ycombinator.com/item?id=38229001) - [Fourteen Years of Go](https://go.dev/blog/14years)
-* [2023-11-11, 09:48:18](https://news.ycombinator.com/item?id=38228850) - [Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?](https://news.ycombinator.com/item?id=38228850)
 * [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 * [2023-11-11, 09:02:28](https://news.ycombinator.com/item?id=38228649) - [Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
 * [2023-11-11, 08:48:37](https://news.ycombinator.com/item?id=38228592) - [Suits ignored IT's warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
@@ -27,7 +28,6 @@
 * [2023-11-10, 18:18:40](https://news.ycombinator.com/item?id=38222424) - [One of a Kind (2014)](https://www.newyorker.com/magazine/2014/07/21/one-of-a-kind-2)
 * [2023-11-10, 17:48:59](https://news.ycombinator.com/item?id=38221996) - [Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables](https://dl.acm.org/doi/10.1145/3586183.3606779)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't build AI products the way everyone else is doing it](https://www.builder.io/blog/build-ai)
-* [2023-11-10, 16:12:18](https://news.ycombinator.com/item?id=38220607) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-10, 12:48:32](https://news.ycombinator.com/item?id=38218187) - [How to Make a Tesla Turbine](https://www.instructables.com/How-To-Make-A-Tesla-Turbine-Greenest-Turbine/)
 * [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
 

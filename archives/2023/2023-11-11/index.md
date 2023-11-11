@@ -10,6 +10,7 @@
 * [2023-11-11, 12:56:56](https://news.ycombinator.com/item?id=38229913) - [Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
 * [2023-11-11, 12:02:56](https://news.ycombinator.com/item?id=38229576) - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 * [2023-11-11, 12:01:15](https://news.ycombinator.com/item?id=38229560) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38229560)
+* [2023-11-11, 11:48:16](https://news.ycombinator.com/item?id=38229479) - [Japan is experiencing nationwide credit card payments issues](https://www3.nhk.or.jp/news/html/20231111/k10014255371000.html)
 * [2023-11-11, 11:45:13](https://news.ycombinator.com/item?id=38229464) - [If you could only have one programming book on bookshelf what would it be?](https://softwareengineering.stackexchange.com/questions/870/if-you-could-only-have-one-programming-related-book-on-your-bookshelf-what-would)
 * [2023-11-11, 10:34:41](https://news.ycombinator.com/item?id=38229102) - [RISC-V Vector benchmark results](https://camel-cdr.github.io/rvv-bench-results/index.html)
 * [2023-11-11, 10:26:30](https://news.ycombinator.com/item?id=38229041) - [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
