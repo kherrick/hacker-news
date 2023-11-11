@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 17:00:21](https://news.ycombinator.com/item?id=38232044) - [Spine AI (YC S23) Is Hiring a Founding ML Engineer](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
 * [2023-11-11, 16:18:14](https://news.ycombinator.com/item?id=38231601) - [LockBit says it's leaked 50GB of stolen Boeing files after ransom fails to land](https://www.theregister.com/2023/11/10/lockbit_leaks_boeing_files/)
 * [2023-11-11, 16:16:53](https://news.ycombinator.com/item?id=38231584) - [If You Bought a Tesla One Year Ago It Has Lost as Much as $40k in Value](https://jalopnik.com/if-you-bought-a-tesla-one-year-ago-it-has-lost-as-much-1851011677)
+* [2023-11-11, 16:14:41](https://news.ycombinator.com/item?id=38231564) - [Wisconsin couple has tens of old phones – and nobody to buy them](https://madison.com/news/local/phoneco-wisconsin-telephones-knappen-business/article_90116a8a-734c-11ee-a555-f74104c683cf.html)
+* [2023-11-11, 16:01:23](https://news.ycombinator.com/item?id=38231452) - [Nudist Resort in Los Gatos for Sale $32Mill](https://www.ktvu.com/news/nudist-resort-in-los-gatos-mountains-on-market-for-32m)
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Top 15 Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
 * [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
 * [2023-11-11, 14:39:24](https://news.ycombinator.com/item?id=38230642) - [\"Never, ever, no matter what, go to a timeshare presentation\"](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
