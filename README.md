@@ -10,7 +10,6 @@
 * [2023-11-11, 09:01:08](https://news.ycombinator.com/item?id=38228644) - [Warner Bros Shelves Finished Coyote vs. Acme Film as Tax Write-Off](https://deadline.com/2023/11/coyote-vs-acme-shelved-warner-bros-discovery-writeoff-david-zaslav-1235598676/)
 * [2023-11-11, 08:53:11](https://news.ycombinator.com/item?id=38228606) - [DrinkedIn – Your Personal Wine Connoisseur](https://chat.openai.com/g/g-bJKm0Xi2F-drinkedin-the-wine-connoisseur)
 * [2023-11-11, 08:48:37](https://news.ycombinator.com/item?id=38228592) - [Suits ignored IT's warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
-* [2023-11-11, 07:25:54](https://news.ycombinator.com/item?id=38228265) - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 * [2023-11-11, 06:47:31](https://news.ycombinator.com/item?id=38228114) - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
 * [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
@@ -18,7 +17,6 @@
 * [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)
 * [2023-11-10, 21:30:33](https://news.ycombinator.com/item?id=38224810) - [The hijacking of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats)
 * [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
-* [2023-11-10, 20:31:47](https://news.ycombinator.com/item?id=38224117) - [Discover plants, swap seeds, plan gardens, share knowledge](https://permapeople.org/)
 * [2023-11-10, 20:29:10](https://news.ycombinator.com/item?id=38224085) - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 * [2023-11-10, 20:06:08](https://news.ycombinator.com/item?id=38223822) - [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
@@ -27,9 +25,11 @@
 * [2023-11-10, 18:18:40](https://news.ycombinator.com/item?id=38222424) - [One of a Kind (2014)](https://www.newyorker.com/magazine/2014/07/21/one-of-a-kind-2)
 * [2023-11-10, 17:48:59](https://news.ycombinator.com/item?id=38221996) - [Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables](https://dl.acm.org/doi/10.1145/3586183.3606779)
 * [2023-11-10, 17:20:08](https://news.ycombinator.com/item?id=38221552) - [Don't build AI products the way everyone else is doing it](https://www.builder.io/blog/build-ai)
+* [2023-11-10, 16:12:18](https://news.ycombinator.com/item?id=38220607) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-10, 12:48:32](https://news.ycombinator.com/item?id=38218187) - [How to Make a Tesla Turbine](https://www.instructables.com/How-To-Make-A-Tesla-Turbine-Greenest-Turbine/)
 * [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
 * [2023-11-10, 08:30:18](https://news.ycombinator.com/item?id=38216503) - [Lessons learned by a software guy venturing into hardware](https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/)
+* [2023-11-10, 01:02:43](https://news.ycombinator.com/item?id=38213600) - [‘Father of cell phone’ reflects on making first call and history 50 years ago](https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/)
 
 ## [Archives](archives/index.md)
 
