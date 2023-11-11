@@ -2,7 +2,6 @@
 
 * [2023-11-11, 10:26:30](https://news.ycombinator.com/item?id=38229041) - [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
 * [2023-11-11, 10:20:11](https://news.ycombinator.com/item?id=38229001) - [Fourteen Years of Go](https://go.dev/blog/14years)
-* [2023-11-11, 09:48:18](https://news.ycombinator.com/item?id=38228850) - [Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?](https://news.ycombinator.com/item?id=38228850)
 * [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 * [2023-11-11, 09:02:28](https://news.ycombinator.com/item?id=38228649) - [Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
 * [2023-11-11, 09:01:08](https://news.ycombinator.com/item?id=38228644) - [Warner Bros Shelves Finished Coyote vs. Acme Film as Tax Write-Off](https://deadline.com/2023/11/coyote-vs-acme-shelved-warner-bros-discovery-writeoff-david-zaslav-1235598676/)
@@ -20,6 +19,7 @@
 * [2023-11-10, 20:31:47](https://news.ycombinator.com/item?id=38224117) - [Discover plants, swap seeds, plan gardens, share knowledge](https://permapeople.org/)
 * [2023-11-10, 20:29:10](https://news.ycombinator.com/item?id=38224085) - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
+* [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [The Ornate Bird Palaces of Ottoman-Era Turkey (2017)](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:08](https://news.ycombinator.com/item?id=38223822) - [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
 * [2023-11-10, 19:53:28](https://news.ycombinator.com/item?id=38223660) - [Attenborough’s long-beaked echidna rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
 * [2023-11-10, 18:54:33](https://news.ycombinator.com/item?id=38222900) - [Eltanin Antenna](https://en.wikipedia.org/wiki/Eltanin_Antenna)
