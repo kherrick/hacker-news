@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 04:16:49](https://news.ycombinator.com/item?id=38227580) - [GNOME Recognized as Public Interest Infrastructure](https://foundation.gnome.org/2023/11/09/gnome-recognized-as-public-interest-infrastructure/)
 * [2023-11-11, 04:14:36](https://news.ycombinator.com/item?id=38227565) - [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [11/17/23 starship test 2](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-11, 02:47:32](https://news.ycombinator.com/item?id=38227188) - [Angus Deaton on inequality: 'The war on poverty has become a war on the poor'](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
