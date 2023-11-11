@@ -9,6 +9,7 @@
 * [2023-11-11, 04:16:49](https://news.ycombinator.com/item?id=38227580) - [GNOME Recognized as Public Interest Infrastructure](https://foundation.gnome.org/2023/11/09/gnome-recognized-as-public-interest-infrastructure/)
 * [2023-11-11, 04:14:36](https://news.ycombinator.com/item?id=38227565) - [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [11/17/23 starship test 2](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+* [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 02:47:32](https://news.ycombinator.com/item?id=38227188) - [Angus Deaton on inequality: 'The war on poverty has become a war on the poor'](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Weird Debugging Tricks the Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)

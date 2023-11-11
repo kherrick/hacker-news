@@ -3,6 +3,7 @@
 * [2023-11-11, 07:00:53](https://news.ycombinator.com/item?id=38228159) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2023-11-11, 04:14:36](https://news.ycombinator.com/item?id=38227565) - [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [Starship’s second flight test](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+* [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)
 * [2023-11-11, 00:18:15](https://news.ycombinator.com/item?id=38226291) - [MOVEit global security incident](https://www.maine.gov/moveit-global-data-security-incident/)
@@ -27,7 +28,6 @@
 * [2023-11-10, 16:33:39](https://news.ycombinator.com/item?id=38220892) - [New York restaurants fight back against reservations by bots](https://www.bloomberg.com/news/articles/2023-10-25/new-york-restaurants-bars-fight-back-against-reservations-by-bots)
 * [2023-11-10, 16:12:18](https://news.ycombinator.com/item?id=38220607) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-10, 12:22:54](https://news.ycombinator.com/item?id=38217998) - [Conway and Doyle can divide by three, but I can't](https://arxiv.org/abs/2309.11634)
-* [2023-11-10, 10:51:48](https://news.ycombinator.com/item?id=38217355) - [Moving our Encrypted DNS servers to run in RAM](https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram)
 * [2023-11-10, 08:30:18](https://news.ycombinator.com/item?id=38216503) - [Lessons learned by a software guy venturing into hardware](https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/)
 * [2023-11-10, 01:02:43](https://news.ycombinator.com/item?id=38213600) - [‘Father of cell phone’ reflects on making first call and history 50 years ago](https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/)
 
