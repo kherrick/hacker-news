@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [11/17/23 starship test 2](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+* [2023-11-11, 02:47:32](https://news.ycombinator.com/item?id=38227188) - [Angus Deaton on inequality: 'The war on poverty has become a war on the poor'](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Weird Debugging Tricks the Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)
 * [2023-11-11, 01:05:22](https://news.ycombinator.com/item?id=38226548) - [Firezone (YC W22) is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
