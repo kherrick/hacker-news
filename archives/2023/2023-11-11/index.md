@@ -11,6 +11,7 @@
 * [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 * [2023-11-11, 21:20:47](https://news.ycombinator.com/item?id=38234653) - [It's OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
 * [2023-11-11, 21:02:18](https://news.ycombinator.com/item?id=38234476) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-11-11, 20:52:12](https://news.ycombinator.com/item?id=38234383) - [Show HN: Koelsynth – a simple FM synthesis library](https://github.com/charstorm/koelsynth)
 * [2023-11-11, 20:44:16](https://news.ycombinator.com/item?id=38234319) - [Spitbol 360: an implementation of SNOBOL4 for IBM 360 compatible computers](https://github.com/spitbol/360)
 * [2023-11-11, 20:10:01](https://news.ycombinator.com/item?id=38234016) - [In praise of America's car addiction](https://www.economist.com/finance-and-economics/2023/11/09/in-praise-of-americas-car-addiction)
 * [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
