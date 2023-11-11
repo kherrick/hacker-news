@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 12:01:15](https://news.ycombinator.com/item?id=38229560) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38229560)
+* [2023-11-11, 11:45:13](https://news.ycombinator.com/item?id=38229464) - [If you could only have one programming book on bookshelf what would it be?](https://softwareengineering.stackexchange.com/questions/870/if-you-could-only-have-one-programming-related-book-on-your-bookshelf-what-would)
 * [2023-11-11, 10:26:30](https://news.ycombinator.com/item?id=38229041) - [Meta, YouTube face criminal spying complaints in Ireland](https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/)
 * [2023-11-11, 10:20:11](https://news.ycombinator.com/item?id=38229001) - [Fourteen Years of Go](https://go.dev/blog/14years)
 * [2023-11-11, 09:48:18](https://news.ycombinator.com/item?id=38228850) - [Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?](https://news.ycombinator.com/item?id=38228850)
