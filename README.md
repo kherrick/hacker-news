@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-11, 09:02:28](https://news.ycombinator.com/item?id=38228649) - [Gnome Receives €1M from German Government](https://www.omgubuntu.co.uk/2023/11/gnome-sovereign-tech-fund)
 * [2023-11-11, 09:01:08](https://news.ycombinator.com/item?id=38228644) - [Warner Bros Shelves Finished Coyote vs. Acme Film as Tax Write-Off](https://deadline.com/2023/11/coyote-vs-acme-shelved-warner-bros-discovery-writeoff-david-zaslav-1235598676/)
 * [2023-11-11, 08:48:37](https://news.ycombinator.com/item?id=38228592) - [Suits ignored IT's warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
 * [2023-11-11, 07:25:54](https://news.ycombinator.com/item?id=38228265) - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
@@ -18,7 +19,6 @@
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [The Ornate Bird Palaces of Ottoman-Era Turkey (2017)](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:08](https://news.ycombinator.com/item?id=38223822) - [Real-time image editing using latent consistency models](https://twitter.com/krea_ai/status/1723067313392320607)
 * [2023-11-10, 19:53:28](https://news.ycombinator.com/item?id=38223660) - [Attenborough’s long-beaked echidna rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
-* [2023-11-10, 19:43:23](https://news.ycombinator.com/item?id=38223555) - [Rare Ovarian Tumor Discovered in Egyptian New Kingdom Burial](https://www.archaeology.org/news/11887-231108-amarna-burial-teratoma)
 * [2023-11-10, 18:54:54](https://news.ycombinator.com/item?id=38222909) - [The Unix timestamp will begin with 17 this Tuesday](https://www.unixtimestamp.com/)
 * [2023-11-10, 18:54:33](https://news.ycombinator.com/item?id=38222900) - [Eltanin Antenna](https://en.wikipedia.org/wiki/Eltanin_Antenna)
 * [2023-11-10, 18:18:40](https://news.ycombinator.com/item?id=38222424) - [One of a Kind (2014)](https://www.newyorker.com/magazine/2014/07/21/one-of-a-kind-2)
