@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-11, 10:26:30",
+      "https://news.ycombinator.com/item?id=38229041"
+    ],
+    [
+      "Meta, YouTube face criminal spying complaints in Ireland",
+      "https://www.theregister.com/2023/11/11/meta_youtube_criminal_charges/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 10:20:11",
+      "https://news.ycombinator.com/item?id=38229001"
+    ],
+    [
+      "Fourteen Years of Go",
+      "https://go.dev/blog/14years"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 09:48:18",
+      "https://news.ycombinator.com/item?id=38228850"
+    ],
+    [
+      "Ask HN: Top 10 Timeless Software Books That ChangedLife as Software Engineer?",
+      "https://news.ycombinator.com/item?id=38228850"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 09:36:04",
       "https://news.ycombinator.com/item?id=38228788"
     ],
@@ -117,16 +147,6 @@
     [
       "Computation of the n'th digit of pi in any base in O(n^2) (1997)",
       "https://bellard.org/pi/pi_n2/pi_n2.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 21:51:15",
-      "https://news.ycombinator.com/item?id=38225019"
-    ],
-    [
-      "Iceland declares state of emergency over volcanic eruption threat",
-      "https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-11-10, 16:12:18",
-      "https://news.ycombinator.com/item?id=38220607"
-    ],
-    [
-      "A quick look at destination-driven code generation",
-      "https://bernsteinbear.com/blog/ddcg/"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 12:48:32",
       "https://news.ycombinator.com/item?id=38218187"
     ],
@@ -287,16 +297,6 @@
     [
       "Lessons learned by a software guy venturing into hardware",
       "https://sidecart.xyz/blog/2023/11/01/lessons-learned-by-software-guy-venturing-into-hardware/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 01:02:43",
-      "https://news.ycombinator.com/item?id=38213600"
-    ],
-    [
-      "‘Father of cell phone’ reflects on making first call and history 50 years ago",
-      "https://whyy.org/segments/father-of-cell-phone-reflects-on-making-first-call-and-history-50-years-ago/"
     ]
   ]
 ]
