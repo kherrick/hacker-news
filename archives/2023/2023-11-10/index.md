@@ -17,6 +17,7 @@
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://www.businessinsider.com/amazon-gives-apple-special-treatment-while-others-suffer-junk-ads-2023-11)
 * [2023-11-10, 20:39:33](https://news.ycombinator.com/item?id=38224217) - [Amazon gives Apple 'massive preferential treatment' in secret deal report claims](https://9to5mac.com/2023/11/10/amazon-apple-special-deal-online-storefront/)
 * [2023-11-10, 20:31:47](https://news.ycombinator.com/item?id=38224117) - [Discover plants, swap seeds, plan gardens, share knowledge](https://permapeople.org/)
+* [2023-11-10, 20:29:10](https://news.ycombinator.com/item?id=38224085) - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
 * [2023-11-10, 20:25:03](https://news.ycombinator.com/item?id=38224033) - [Hashmaps in Factor are faster than in Zig](https://re.factorcode.org/2023/11/factor-is-faster-than-zig.html)
 * [2023-11-10, 20:08:32](https://news.ycombinator.com/item?id=38223857) - [Ottoman-Era Bird Palaces](https://www.thisiscolossal.com/2017/07/the-ornate-bird-palaces-of-ottoman-era-turkey/)
 * [2023-11-10, 20:06:17](https://news.ycombinator.com/item?id=38223823) - [Generating Code Without Generating Technical Debt?](https://sourcery.ai/blog/chatgpt-maintainable-code/)
