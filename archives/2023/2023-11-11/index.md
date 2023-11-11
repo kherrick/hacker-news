@@ -6,6 +6,7 @@
 
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Top 15 Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
 * [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
+* [2023-11-11, 14:39:24](https://news.ycombinator.com/item?id=38230642) - [\"Never, ever, no matter what, go to a timeshare presentation\"](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
 * [2023-11-11, 14:37:22](https://news.ycombinator.com/item?id=38230623) - [What If Psychedelics' Hallucinations Are Just a Side Effect?](https://www.theatlantic.com/health/archive/2023/11/non-hallucinogenic-psychedelic-clinical-therapy/675942/)
 * [2023-11-11, 14:21:03](https://news.ycombinator.com/item?id=38230495) - [Nicotine: On the benefits and lack of demerits of nicotine](https://gwern.net/nicotine)
 * [2023-11-11, 14:20:41](https://news.ycombinator.com/item?id=38230494) - [Master Foo and the Unix Zealot](http://catb.org/esr/writings/unix-koans/zealot.html)
@@ -15,6 +16,7 @@
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a new C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 13:08:59](https://news.ycombinator.com/item?id=38230002) - [BMW, Subaru and Porsche drivers 'more likely to cause a crash', study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
 * [2023-11-11, 13:01:32](https://news.ycombinator.com/item?id=38229948) - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
+* [2023-11-11, 12:58:57](https://news.ycombinator.com/item?id=38229928) - [Google uses int8 for LLM training](https://old.reddit.com/r/LocalLLaMA/comments/17sbjsv/google_blog_posts_suggests_that_google_using_int8/)
 * [2023-11-11, 12:56:56](https://news.ycombinator.com/item?id=38229913) - [Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
 * [2023-11-11, 12:02:56](https://news.ycombinator.com/item?id=38229576) - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
 * [2023-11-11, 12:01:15](https://news.ycombinator.com/item?id=38229560) - [Meticulous (YC S21) Is Hiring to Build AI for UI Testing](https://news.ycombinator.com/item?id=38229560)
