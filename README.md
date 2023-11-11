@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-11, 21:02:18](https://news.ycombinator.com/item?id=38234476) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-11-11, 20:10:01](https://news.ycombinator.com/item?id=38234016) - [In praise of America's car addiction](https://www.economist.com/finance-and-economics/2023/11/09/in-praise-of-americas-car-addiction)
 * [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
 * [2023-11-11, 19:58:59](https://news.ycombinator.com/item?id=38233934) - [John von Neumann Interview [video]](https://www.youtube.com/watch?v=vLbllFHBQM4)
 * [2023-11-11, 19:55:15](https://news.ycombinator.com/item?id=38233905) - [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
-* [2023-11-11, 19:46:16](https://news.ycombinator.com/item?id=38233812) - [Yarn-Mistral-7B-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
 * [2023-11-11, 18:52:10](https://news.ycombinator.com/item?id=38233281) - [Apple agrees to $25M settlement with US over hiring of immigrants](https://www.reuters.com/technology/apple-agrees-25-million-settlement-with-us-over-hiring-immigrants-2023-11-09/)
 * [2023-11-11, 18:44:31](https://news.ycombinator.com/item?id=38233193) - [To get off fossil fuels, America is going to need a lot more electricians](https://grist.org/energy/electrician-shortage-electrify-everything-climate-infrastructure-labor/)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)

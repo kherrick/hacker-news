@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
 * [2023-11-11, 21:02:18](https://news.ycombinator.com/item?id=38234476) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-11-11, 20:10:01](https://news.ycombinator.com/item?id=38234016) - [In praise of America's car addiction](https://www.economist.com/finance-and-economics/2023/11/09/in-praise-of-americas-car-addiction)
 * [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
 * [2023-11-11, 19:58:59](https://news.ycombinator.com/item?id=38233934) - [John von Neumann Interview [video]](https://www.youtube.com/watch?v=vLbllFHBQM4)
 * [2023-11-11, 19:55:15](https://news.ycombinator.com/item?id=38233905) - [Live volcano and earthquake stream on Iceland [video]](https://www.youtube.com/watch?v=804nPrAUAxg)
