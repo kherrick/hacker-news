@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a new C debugger as a 17-year-old](https://github.com/d4ckard/spray)
-* [2023-11-11, 13:08:59](https://news.ycombinator.com/item?id=38230002) - [BMW, Subaru and Porsche drivers 'more likely to cause a crash', study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
 * [2023-11-11, 13:01:32](https://news.ycombinator.com/item?id=38229948) - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
 * [2023-11-11, 12:56:56](https://news.ycombinator.com/item?id=38229913) - [Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
 * [2023-11-11, 12:02:56](https://news.ycombinator.com/item?id=38229576) - [KDE Plasma 6.0 Is Enabling Wayland by Default](https://www.phoronix.com/news/Plasma-6.0-Wayland-Default)
@@ -20,6 +19,7 @@
 * [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:13:56](https://news.ycombinator.com/item?id=38226589) - [Codex documenting Aztec culture now digitized](https://hyperallergic.com/855683/stunning-florentine-codex-documenting-aztec-culture-now-fully-digitized/)
+* [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)
 * [2023-11-11, 00:26:57](https://news.ycombinator.com/item?id=38226340) - [A Man Who Invented Fifteen Hundred Necktie Knots](https://www.newyorker.com/culture/annals-of-inquiry/the-man-who-invented-fifteen-hundred-necktie-knots)
 * [2023-11-10, 20:42:09](https://news.ycombinator.com/item?id=38224245) - [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
 * [2023-11-10, 20:29:10](https://news.ycombinator.com/item?id=38224085) - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
