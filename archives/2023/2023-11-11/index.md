@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 19:35:27](https://news.ycombinator.com/item?id=38233694) - [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft?nl=e)
 * [2023-11-11, 18:44:31](https://news.ycombinator.com/item?id=38233193) - [To get off fossil fuels, America is going to need a lot more electricians](https://grist.org/energy/electrician-shortage-electrify-everything-climate-infrastructure-labor/)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's Still Easy for Anyone to Become You at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:49:21](https://news.ycombinator.com/item?id=38232572) - [Twitter's onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
@@ -26,6 +27,7 @@
 * [2023-11-11, 16:16:53](https://news.ycombinator.com/item?id=38231584) - [If You Bought a Tesla One Year Ago It Has Lost as Much as $40k in Value](https://jalopnik.com/if-you-bought-a-tesla-one-year-ago-it-has-lost-as-much-1851011677)
 * [2023-11-11, 16:14:41](https://news.ycombinator.com/item?id=38231564) - [Wisconsin couple has tens of old phones – and nobody to buy them](https://madison.com/news/local/phoneco-wisconsin-telephones-knappen-business/article_90116a8a-734c-11ee-a555-f74104c683cf.html)
 * [2023-11-11, 16:01:23](https://news.ycombinator.com/item?id=38231452) - [Nudist Resort in Los Gatos for Sale $32Mill](https://www.ktvu.com/news/nudist-resort-in-los-gatos-mountains-on-market-for-32m)
+* [2023-11-11, 15:46:11](https://news.ycombinator.com/item?id=38231320) - [1000s of veterans face foreclosure and it's not their fault. The VA could help](https://text.npr.org/1211855956)
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Top 15 Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
 * [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
 * [2023-11-11, 14:39:24](https://news.ycombinator.com/item?id=38230642) - [\"Never, ever, no matter what, go to a timeshare presentation\"](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
