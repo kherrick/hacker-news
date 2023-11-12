@@ -27,9 +27,9 @@
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from Computing's Past](https://lewiscampbell.tech/blog/231112.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:34:00](https://news.ycombinator.com/item?id=38232397) - [Stargazers intersections for most popular GitHub projects in Venn diagrams](https://twitter.com/ashvardanian/status/1723393012728758565?s=20)
+* [2023-11-11, 03:55:47](https://news.ycombinator.com/item?id=38227487) - [Using Webb data to measure rapid increase in oxygen in the early universe](https://phys.org/news/2023-11-astronomers-webb-rapid-oxygen-early.html)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security](https://www.mattblaze.org/photos/locks.html)
 * [2023-11-10, 22:04:28](https://news.ycombinator.com/item?id=38225150) - [In the 'Wild West' of Geometry, Mathematicians Redefine the Sphere](https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/)
-* [2023-11-10, 21:41:40](https://news.ycombinator.com/item?id=38224920) - [Leonard vs. Pepsico, Inc](https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc.)
 
 ## [Archives](archives/index.md)
 

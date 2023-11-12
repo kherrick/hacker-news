@@ -104,6 +104,7 @@
 * [2023-11-11, 04:16:49](https://news.ycombinator.com/item?id=38227580) - [GNOME Recognized as Public Interest Infrastructure](https://foundation.gnome.org/2023/11/09/gnome-recognized-as-public-interest-infrastructure/)
 * [2023-11-11, 04:14:36](https://news.ycombinator.com/item?id=38227565) - [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
 * [2023-11-11, 04:09:37](https://news.ycombinator.com/item?id=38227544) - [The First Commercial Carbon-Sucking Facility in the US Opens in California](https://www.bloomberg.com/news/articles/2023-11-09/california-home-to-first-direct-air-capture-carbon-removal-facility-in-the-us)
+* [2023-11-11, 03:55:47](https://news.ycombinator.com/item?id=38227487) - [Using Webb data to measure rapid increase in oxygen in the early universe](https://phys.org/news/2023-11-astronomers-webb-rapid-oxygen-early.html)
 * [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [11/17/23 starship test 2](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-11, 03:44:47](https://news.ycombinator.com/item?id=38227451) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
