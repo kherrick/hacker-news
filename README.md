@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 * [2023-11-12, 20:18:50](https://news.ycombinator.com/item?id=38243722) - [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
 * [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
 * [2023-11-12, 18:45:48](https://news.ycombinator.com/item?id=38242946) - [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
@@ -19,7 +20,6 @@
 * [2023-11-12, 09:43:15](https://news.ycombinator.com/item?id=38238796) - [RIP Google Groups Dejanews.com Archive](http://dejanews.com/)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 07:38:25](https://news.ycombinator.com/item?id=38238180) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
-* [2023-11-12, 05:54:06](https://news.ycombinator.com/item?id=38237696) - [An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from computing's past](https://lewiscampbell.tech/blog/231112.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:34:00](https://news.ycombinator.com/item?id=38232397) - [Stargazers intersections for most popular GitHub projects in Venn diagrams](https://twitter.com/ashvardanian/status/1723393012728758565?s=20)

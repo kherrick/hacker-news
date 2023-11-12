@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 * [2023-11-12, 20:18:50](https://news.ycombinator.com/item?id=38243722) - [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
 * [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
 * [2023-11-12, 18:45:48](https://news.ycombinator.com/item?id=38242946) - [A truly incredible fact about the number 37](https://grossack.site/2023/11/08/37-median.html)
