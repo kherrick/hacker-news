@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 15:06:55](https://news.ycombinator.com/item?id=38240691) - [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
 * [2023-11-12, 15:06:29](https://news.ycombinator.com/item?id=38240689) - [Matplotlib](https://matplotlib.org/)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
 * [2023-11-12, 14:35:17](https://news.ycombinator.com/item?id=38240402) - [Microsoft Temporarily Blocked Internal Access to ChatGPT, Citing Data Concerns](https://www.wsj.com/tech/microsoft-temporarily-blocked-internal-access-to-chatgpt-citing-data-concerns-c1ca475d)
