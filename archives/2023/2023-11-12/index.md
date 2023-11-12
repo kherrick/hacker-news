@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
 * [2023-11-12, 13:14:16](https://news.ycombinator.com/item?id=38239781) - [Platforms Must Stop Unjustified Takedowns of Posts by and About Palestinians](https://www.eff.org/deeplinks/2023/11/platforms-must-stop-unjustified-takedowns-posts-and-about-palestinians)
+* [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Stanford Data Science Handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook)
 * [2023-11-12, 12:45:22](https://news.ycombinator.com/item?id=38239640) - [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
 * [2023-11-12, 12:35:37](https://news.ycombinator.com/item?id=38239585) - [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
 * [2023-11-12, 12:27:34](https://news.ycombinator.com/item?id=38239542) - [Upcoming changes to Rust's borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
@@ -12,6 +13,7 @@
 * [2023-11-12, 12:05:18](https://news.ycombinator.com/item?id=38239453) - [Sam Altman: New version of GPT-4 Turbo now live in ChatGPT](https://twitter.com/sama/status/1723480961177010597)
 * [2023-11-12, 11:40:22](https://news.ycombinator.com/item?id=38239358) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 * [2023-11-12, 11:39:07](https://news.ycombinator.com/item?id=38239348) - [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home)
+* [2023-11-12, 11:24:10](https://news.ycombinator.com/item?id=38239286) - [Just use cash! The importance of cash in a technological society](https://steelrods.hashnode.dev/the-importance-of-cash-in-a-technological-society)
 * [2023-11-12, 11:20:20](https://news.ycombinator.com/item?id=38239266) - [Australia locks down ports after ‘nationally significant’ cyberattack](https://www.independent.co.uk/news/world/australasia/australia-ports-cyber-attack-dp-world-b2445634.html)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny smd components](https://old.reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
