@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 01:56:58](https://news.ycombinator.com/item?id=38236519) - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
 * [2023-11-12, 00:32:01](https://news.ycombinator.com/item?id=38236039) - [Formula 1 didn't realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
-* [2023-11-11, 23:34:16](https://news.ycombinator.com/item?id=38235686) - [Is Threads winning the war with X?](https://www.cjr.org/the_media_today/threads_four_months_later.php)
-* [2023-11-11, 23:11:45](https://news.ycombinator.com/item?id=38235552) - [Google's New \"Help Me Script\" Automation](https://techthreedots.com/googles-new-help-me-script)
 * [2023-11-11, 22:13:51](https://news.ycombinator.com/item?id=38235116) - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
 * [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
-* [2023-11-11, 21:20:47](https://news.ycombinator.com/item?id=38234653) - [It's OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
 * [2023-11-11, 21:12:23](https://news.ycombinator.com/item?id=38234580) - [OCaml: a Rust developer's first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
 * [2023-11-11, 21:02:18](https://news.ycombinator.com/item?id=38234476) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-11-11, 20:52:12](https://news.ycombinator.com/item?id=38234383) - [Show HN: Koelsynth – a simple FM synthesis library](https://github.com/charstorm/koelsynth)
@@ -29,7 +27,9 @@
 * [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
 * [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 * [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
+* [2023-11-11, 03:44:47](https://news.ycombinator.com/item?id=38227451) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
 * [2023-11-11, 02:32:20](https://news.ycombinator.com/item?id=38227112) - [The Mediterranean Iron Omni-Spear](https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/)
+* [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web Design Is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)
 
 ## [Archives](archives/index.md)
 
