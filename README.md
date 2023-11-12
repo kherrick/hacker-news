@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
+* [2023-11-12, 18:45:48](https://news.ycombinator.com/item?id=38242946) - [A truly incredible fact about the number 37](https://grossack.site/2023/11/08/37-median.html)
 * [2023-11-12, 17:50:37](https://news.ycombinator.com/item?id=38242445) - [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
 * [2023-11-12, 17:29:30](https://news.ycombinator.com/item?id=38242233) - [Cars downloading text messages from phones doesn't violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
 * [2023-11-12, 17:02:09](https://news.ycombinator.com/item?id=38241951) - [Sieve (YC W22), a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
@@ -11,7 +12,6 @@
 * [2023-11-12, 15:20:41](https://news.ycombinator.com/item?id=38240861) - [The Steam Deck OLED spot ad was made with Steam Deck OLEDs](https://idlethumbs.social/@ja2ke/111396017651485944)
 * [2023-11-12, 15:06:29](https://news.ycombinator.com/item?id=38240689) - [Matplotlib](https://matplotlib.org/)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
-* [2023-11-12, 14:31:39](https://news.ycombinator.com/item?id=38240363) - [Apple might have to pay that €13B EU tax bill after all](https://www.theregister.com/2023/11/11/apple_tax_bill_hiring/)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [FreeOberon cross-platform Oberon language IDE](https://free.oberon.org/en/)
 * [2023-11-12, 14:13:35](https://news.ycombinator.com/item?id=38240212) - [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 * [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)

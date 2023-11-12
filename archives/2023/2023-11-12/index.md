@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
 * [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
+* [2023-11-12, 18:45:48](https://news.ycombinator.com/item?id=38242946) - [A truly incredible fact about the number 37](https://grossack.site/2023/11/08/37-median.html)
 * [2023-11-12, 18:25:00](https://news.ycombinator.com/item?id=38242758) - [U.S. service members' data is easy and cheap to purchase online, study finds](https://www.nbcnews.com/tech/security/us-service-members-data-easy-cheap-purchase-online-study-finds-rcna123064)
 * [2023-11-12, 17:59:10](https://news.ycombinator.com/item?id=38242510) - [Ask HN: Which sources cover AI developments without falling for the hype?](https://news.ycombinator.com/item?id=38242510)
 * [2023-11-12, 17:50:37](https://news.ycombinator.com/item?id=38242445) - [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
