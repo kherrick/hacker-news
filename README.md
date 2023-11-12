@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 09:23:28](https://news.ycombinator.com/item?id=38238707) - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 08:02:22](https://news.ycombinator.com/item?id=38238301) - [NetBSD 10.0 RC1 (Nov 5, 2023)](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2023-11-12, 07:43:47](https://news.ycombinator.com/item?id=38238204) - [How Apple Made the Space Black MacBook Pro Darker Than](https://www.ifixit.com/News/86128/how-apple-made-the-space-black-macbook-pro-darker-than-ever)
@@ -18,10 +19,8 @@
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
 * [2023-11-11, 15:29:46](https://news.ycombinator.com/item?id=38231151) - [Designing the longest range Electric Aircraft: The Solar Aircraft [video]](https://www.youtube.com/watch?v=1q2wpZrq888)
-* [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
 * [2023-11-11, 11:33:42](https://news.ycombinator.com/item?id=38229398) - [Horrible edge cases to consider when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
 * [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
-* [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 * [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
 * [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
 * [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web designers should get good training in typography (2006)](https://ia.net/topics/the-web-is-all-about-typography-period)
@@ -29,6 +28,7 @@
 * [2023-11-10, 22:59:54](https://news.ycombinator.com/item?id=38225724) - [System Transparency: a security architecture for bare-metal servers](https://www.system-transparency.org/)
 * [2023-11-10, 22:06:17](https://news.ycombinator.com/item?id=38225172) - [Study finds lunar swirls linked to topography](https://phys.org/news/2023-11-lunar-swirls-linked-topography.html)
 * [2023-11-10, 22:03:04](https://news.ycombinator.com/item?id=38225132) - [Unearthing Gems in an Archive of Rock Star Interviews](https://www.atlasobscura.com/articles/katz-collection-rock-star-interviews)
+* [2023-11-10, 19:02:38](https://news.ycombinator.com/item?id=38223019) - [Business questions worth asking](https://gmays.com/business-questions-worth-asking/)
 * [2023-11-10, 18:58:46](https://news.ycombinator.com/item?id=38222959) - [Recoil – Retro Computer Image Library](https://recoil.sourceforge.net/)
 
 ## [Archives](archives/index.md)

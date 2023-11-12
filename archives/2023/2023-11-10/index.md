@@ -29,6 +29,7 @@
 * [2023-11-10, 19:53:28](https://news.ycombinator.com/item?id=38223660) - [Rare egg-laying mammal (echidna) rediscovered in Indonesia](https://www.cbc.ca/news/science/echidna-video-1.7024966)
 * [2023-11-10, 19:43:23](https://news.ycombinator.com/item?id=38223555) - [Rare Ovarian Tumor Discovered in Egyptian New Kingdom Burial](https://www.archaeology.org/news/11887-231108-amarna-burial-teratoma)
 * [2023-11-10, 19:21:25](https://news.ycombinator.com/item?id=38223263) - [New Outlook sends passwords, mails and other data to Microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
+* [2023-11-10, 19:02:38](https://news.ycombinator.com/item?id=38223019) - [Business questions worth asking](https://gmays.com/business-questions-worth-asking/)
 * [2023-11-10, 18:59:32](https://news.ycombinator.com/item?id=38222973) - [The FCC voted to reimplement net neutrality. Now comes the hard part](https://www.nationaljournal.com/s/723252/the-fcc-voted-to-reimplement-net-neutrality-now-comes-the-hard-part/)
 * [2023-11-10, 18:58:46](https://news.ycombinator.com/item?id=38222959) - [Recoil – Retro Computer Image Library](https://recoil.sourceforge.net/)
 * [2023-11-10, 18:54:54](https://news.ycombinator.com/item?id=38222909) - [The Unix timestamp will begin with 17 this Tuesday](https://www.unixtimestamp.com/)
