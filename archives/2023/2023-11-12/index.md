@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
 * [2023-11-12, 07:02:36](https://news.ycombinator.com/item?id=38238025) - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
+* [2023-11-12, 06:23:12](https://news.ycombinator.com/item?id=38237827) - [Ask HN: How many of you still have a Facebook account?](https://news.ycombinator.com/item?id=38237827)
 * [2023-11-12, 06:02:08](https://news.ycombinator.com/item?id=38237730) - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
 * [2023-11-12, 05:03:03](https://news.ycombinator.com/item?id=38237472) - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
 * [2023-11-12, 04:24:00](https://news.ycombinator.com/item?id=38237287) - [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
