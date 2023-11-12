@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 08:02:22](https://news.ycombinator.com/item?id=38238301) - [NetBSD 10.0 RC1 (Nov 5, 2023)](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
+* [2023-11-12, 07:43:47](https://news.ycombinator.com/item?id=38238204) - [How Apple Made the Space Black MacBook Pro Darker Than](https://www.ifixit.com/News/86128/how-apple-made-the-space-black-macbook-pro-darker-than-ever)
 * [2023-11-12, 07:02:36](https://news.ycombinator.com/item?id=38238025) - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
 * [2023-11-12, 06:23:12](https://news.ycombinator.com/item?id=38237827) - [Ask HN: How many of you still have a Facebook account?](https://news.ycombinator.com/item?id=38237827)
 * [2023-11-12, 06:02:08](https://news.ycombinator.com/item?id=38237730) - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
