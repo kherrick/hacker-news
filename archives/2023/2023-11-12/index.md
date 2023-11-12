@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
+* [2023-11-12, 14:31:46](https://news.ycombinator.com/item?id=38240365) - [Show HN: Executo.rs – Meet other founders weekly to talk strategy and ideas](https://executo.rs)
+* [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [FreeOberon cross-platform Oberon language IDE](https://free.oberon.org/en/)
+* [2023-11-12, 14:22:19](https://news.ycombinator.com/item?id=38240278) - [GitHub Actions Are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 * [2023-11-12, 14:13:35](https://news.ycombinator.com/item?id=38240212) - [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 * [2023-11-12, 14:07:51](https://news.ycombinator.com/item?id=38240175) - [Brian Chesky's Framework for Product Management, Inspired by Steve Jobs](https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach)
 * [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
