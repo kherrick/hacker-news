@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 04:24:00](https://news.ycombinator.com/item?id=38237287) - [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
 * [2023-11-12, 03:58:52](https://news.ycombinator.com/item?id=38237166) - [Oregon Decriminalized Hard Drugs. It Isn't Working](https://www.wsj.com/us-news/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
-* [2023-11-12, 01:56:58](https://news.ycombinator.com/item?id=38236519) - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid (2022)](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 * [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 * [2023-11-11, 21:12:23](https://news.ycombinator.com/item?id=38234580) - [OCaml: a Rust developer's first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
@@ -26,8 +26,8 @@
 * [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
 * [2023-11-11, 04:09:37](https://news.ycombinator.com/item?id=38227544) - [The first commercial carbon-sucking facility in the US opens in California](https://www.bloomberg.com/news/articles/2023-11-09/california-home-to-first-direct-air-capture-carbon-removal-facility-in-the-us)
 * [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
+* [2023-11-11, 03:44:47](https://news.ycombinator.com/item?id=38227451) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
 * [2023-11-11, 03:14:53](https://news.ycombinator.com/item?id=38227324) - [The best place to shop is other people's lost luggage](https://www.washingtonpost.com/travel/2023/11/10/unclaimed-baggage-alabama-thrift-store/)
-* [2023-11-11, 02:32:20](https://news.ycombinator.com/item?id=38227112) - [The Mediterranean Iron Omni-Spear](https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/)
 * [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web designers should get good training in typography (2006)](https://ia.net/topics/the-web-is-all-about-typography-period)
 * [2023-11-11, 01:00:24](https://news.ycombinator.com/item?id=38226526) - [6502 back end for LLVM [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
 
