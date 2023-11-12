@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 14:13:35](https://news.ycombinator.com/item?id=38240212) - [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 * [2023-11-12, 14:07:51](https://news.ycombinator.com/item?id=38240175) - [Brian Chesky's Framework for Product Management, Inspired by Steve Jobs](https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach)
 * [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
 * [2023-11-12, 13:30:32](https://news.ycombinator.com/item?id=38239896) - [Globalisation is a far, far bigger deal than you think](https://edconway.substack.com/p/globalisation-is-a-far-far-bigger)

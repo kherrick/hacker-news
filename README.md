@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 14:13:35](https://news.ycombinator.com/item?id=38240212) - [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 * [2023-11-12, 14:07:51](https://news.ycombinator.com/item?id=38240175) - [Brian Chesky's Framework for Product Management, Inspired by Steve Jobs](https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach)
 * [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
 * [2023-11-12, 13:30:32](https://news.ycombinator.com/item?id=38239896) - [Globalisation is a far, far bigger deal than you think](https://edconway.substack.com/p/globalisation-is-a-far-far-bigger)
@@ -14,7 +15,6 @@
 * [2023-11-12, 11:20:20](https://news.ycombinator.com/item?id=38239266) - [Australia locks down ports after ‘nationally significant’ cyberattack](https://www.independent.co.uk/news/world/australasia/australia-ports-cyber-attack-dp-world-b2445634.html)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 09:43:15](https://news.ycombinator.com/item?id=38238796) - [RIP Google Groups Dejanews.com Archive](http://dejanews.com/)
-* [2023-11-12, 09:23:28](https://news.ycombinator.com/item?id=38238707) - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 07:38:25](https://news.ycombinator.com/item?id=38238180) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 07:02:36](https://news.ycombinator.com/item?id=38238025) - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
