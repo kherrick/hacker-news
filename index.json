@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-12, 22:19:12",
-      "https://news.ycombinator.com/item?id=38244680"
-    ],
-    [
-      "Classical liberals are increasingly religious",
-      "https://marginalrevolution.com/marginalrevolution/2023/11/religious-classical-liberals.html"
-    ]
-  ],
-  [
-    [
       "2023-11-12, 21:57:58",
       "https://news.ycombinator.com/item?id=38244512"
     ],
@@ -67,6 +57,16 @@
     [
       "37, the median value for the second prime factor of an integer",
       "https://grossack.site/2023/11/08/37-median.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 17:41:03",
+      "https://news.ycombinator.com/item?id=38242343"
+    ],
+    [
+      "Open-interpreter: OpenAI's Code Interpreter in your terminal, running locally",
+      "https://github.com/KillianLucas/open-interpreter"
     ]
   ],
   [
@@ -131,22 +131,22 @@
   ],
   [
     [
-      "2023-11-12, 14:47:05",
-      "https://news.ycombinator.com/item?id=38240494"
-    ],
-    [
-      "Show HN: I made an in-depth beginner's guide to AI",
-      "https://guides.ai/how-to-get-into-ai/"
-    ]
-  ],
-  [
-    [
       "2023-11-12, 14:28:22",
       "https://news.ycombinator.com/item?id=38240333"
     ],
     [
       "Free Oberon: Cross-platform Oberon IDE",
       "https://free.oberon.org/en/"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 13:56:16",
+      "https://news.ycombinator.com/item?id=38240089"
+    ],
+    [
+      "Ruby 3.3.0-Preview3 Released",
+      "https://www.ruby-lang.org/en/news/2023/11/12/ruby-3-3-0-preview3-released/"
     ]
   ],
   [
@@ -167,6 +167,16 @@
     [
       "Open, rigorous and reproducible research: A practitioner’s handbook (2021)",
       "https://stanforddatascience.github.io/best-practices/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 12:27:34",
+      "https://news.ycombinator.com/item?id=38239542"
+    ],
+    [
+      "Upcoming changes to Rust's borrow checker",
+      "https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38238796"
     ],
     [
-      "RIP Google Groups Dejanews.com Archive",
+      "RIP Google Groups Dejanews.com Archive?",
       "http://dejanews.com/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "In the 'Wild West' of geometry, mathematicians redefine the sphere",
       "https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 19:02:38",
-      "https://news.ycombinator.com/item?id=38223019"
-    ],
-    [
-      "Business questions worth asking",
-      "https://gmays.com/business-questions-worth-asking/"
     ]
   ]
 ]
