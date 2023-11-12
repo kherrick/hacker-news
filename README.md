@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-12, 02:35:04](https://news.ycombinator.com/item?id=38236701) - [Cybertruck buyers forbidden from selling for the first year](https://www.threads.net/@emperorswithoutclothes/post/CzhwpeNrIJy)
 * [2023-11-12, 01:56:58](https://news.ycombinator.com/item?id=38236519) - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid (2022)](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
 * [2023-11-12, 01:12:03](https://news.ycombinator.com/item?id=38236285) - [CodeCrafters CEO adds his paid service as a next step after finishing Rustlings](https://github.com/rust-lang/rustlings/pull/1760)
-* [2023-11-12, 00:32:01](https://news.ycombinator.com/item?id=38236039) - [Formula 1 didn't realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 * [2023-11-11, 22:13:51](https://news.ycombinator.com/item?id=38235116) - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
 * [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
@@ -26,9 +24,11 @@
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 13:58:02](https://news.ycombinator.com/item?id=38230316) - [Proteomics with OMSSA](https://sivome.github.io/proteomics/2019/03/02/Proteomics-with-OMSSA.html)
 * [2023-11-11, 11:33:42](https://news.ycombinator.com/item?id=38229398) - [Horrible edge cases to consider when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
+* [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 * [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
 * [2023-11-11, 03:44:47](https://news.ycombinator.com/item?id=38227451) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
 * [2023-11-11, 03:14:53](https://news.ycombinator.com/item?id=38227324) - [The best place to shop is other people's lost luggage](https://www.washingtonpost.com/travel/2023/11/10/unclaimed-baggage-alabama-thrift-store/)
+* [2023-11-11, 02:32:20](https://news.ycombinator.com/item?id=38227112) - [The Mediterranean Iron Omni-Spear](https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/)
 * [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web designers should get good training in typography (2006)](https://ia.net/topics/the-web-is-all-about-typography-period)
 
 ## [Archives](archives/index.md)
