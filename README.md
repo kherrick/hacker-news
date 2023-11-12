@@ -24,10 +24,10 @@
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim key binder for Windows](https://pit-ray.github.io/win-vind/)
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from Computing's Past](https://lewiscampbell.tech/blog/231112.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
-* [2023-11-11, 05:18:28](https://news.ycombinator.com/item?id=38227852) - [Oldest Pyramid Found Not in Egypt or Americas, but in Indonesia](https://www.atlasobscura.com/articles/oldest-pyramid-indonesia)
 * [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security](https://www.mattblaze.org/photos/locks.html)
 * [2023-11-11, 01:00:24](https://news.ycombinator.com/item?id=38226526) - [6502 back end for LLVM (2022) [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
+* [2023-11-11, 00:38:02](https://news.ycombinator.com/item?id=38226402) - [Lovecraft and Me – How cosmic horror gave me hope (2020)](https://yalereview.org/article/lovecraft-and-me)
 * [2023-11-10, 21:41:40](https://news.ycombinator.com/item?id=38224920) - [Leonard vs. Pepsico, Inc](https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc.)
 * [2023-11-10, 19:02:38](https://news.ycombinator.com/item?id=38223019) - [Business questions worth asking](https://gmays.com/business-questions-worth-asking/)
 
