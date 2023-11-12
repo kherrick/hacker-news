@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 12:35:37](https://news.ycombinator.com/item?id=38239585) - [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
+* [2023-11-12, 12:27:34](https://news.ycombinator.com/item?id=38239542) - [Upcoming changes to Rust's borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
 * [2023-11-12, 12:05:18](https://news.ycombinator.com/item?id=38239453) - [Sam Altman: New version of GPT-4 Turbo now live in ChatGPT](https://twitter.com/sama/status/1723480961177010597)
+* [2023-11-12, 11:39:07](https://news.ycombinator.com/item?id=38239348) - [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home)
+* [2023-11-12, 11:20:20](https://news.ycombinator.com/item?id=38239266) - [Australia locks down ports after ‘nationally significant’ cyberattack](https://www.independent.co.uk/news/world/australasia/australia-ports-cyber-attack-dp-world-b2445634.html)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny smd components](https://old.reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 10:32:36](https://news.ycombinator.com/item?id=38239046) - [Happy Diwali HN](https://news.ycombinator.com/item?id=38239046)
 * [2023-11-12, 09:47:41](https://news.ycombinator.com/item?id=38238824) - [Bankman-Fried's parents could face their own legal perils, experts say](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/)
+* [2023-11-12, 09:43:15](https://news.ycombinator.com/item?id=38238796) - [RIP Google Groups Dejanews.com Archive](http://dejanews.com/)
 * [2023-11-12, 09:23:28](https://news.ycombinator.com/item?id=38238707) - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 08:02:22](https://news.ycombinator.com/item?id=38238301) - [NetBSD 10.0 RC1 (Nov 5, 2023)](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
