@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
+* [2023-11-11, 23:34:16](https://news.ycombinator.com/item?id=38235686) - [Is Threads winning the war with X?](https://www.cjr.org/the_media_today/threads_four_months_later.php)
 * [2023-11-11, 23:11:45](https://news.ycombinator.com/item?id=38235552) - [Google's New \"Help Me Script\" Automation](https://techthreedots.com/googles-new-help-me-script)
 * [2023-11-11, 22:24:16](https://news.ycombinator.com/item?id=38235192) - [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
 * [2023-11-11, 22:15:52](https://news.ycombinator.com/item?id=38235133) - [Only 15% of Californians can afford a home, new data shows](https://ktla.com/news/california/only-15-of-californians-can-afford-a-home-new-data-shows/)
@@ -95,6 +97,7 @@
 * [2023-11-11, 05:06:42](https://news.ycombinator.com/item?id=38227789) - [Advertisers Don't Want Sites Like Jezebel to Exist](https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/)
 * [2023-11-11, 04:16:49](https://news.ycombinator.com/item?id=38227580) - [GNOME Recognized as Public Interest Infrastructure](https://foundation.gnome.org/2023/11/09/gnome-recognized-as-public-interest-infrastructure/)
 * [2023-11-11, 04:14:36](https://news.ycombinator.com/item?id=38227565) - [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)
+* [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
 * [2023-11-11, 03:47:31](https://news.ycombinator.com/item?id=38227463) - [11/17/23 starship test 2](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-11, 03:41:06](https://news.ycombinator.com/item?id=38227437) - [Google to Implement IETF's Message Layer Security (MLS) Specification RFC 9420](https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html)
 * [2023-11-11, 02:47:32](https://news.ycombinator.com/item?id=38227188) - [Angus Deaton on inequality: 'The war on poverty has become a war on the poor'](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
