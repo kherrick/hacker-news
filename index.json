@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 02:35:04",
+      "https://news.ycombinator.com/item?id=38236701"
+    ],
+    [
+      "Cybertruck buyers forbidden from selling for the first year",
+      "https://www.threads.net/@emperorswithoutclothes/post/CzhwpeNrIJy"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 01:56:58",
       "https://news.ycombinator.com/item?id=38236519"
     ],
@@ -47,6 +57,16 @@
     [
       "A Rusty CHERI – The path to hardware capabilities in Rust [video]",
       "https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 21:20:47",
+      "https://news.ycombinator.com/item?id=38234653"
+    ],
+    [
+      "It's OK If Your Code Is Just Good Enough",
+      "https://shiftmag.dev/code-quality-good-enough-2034/"
     ]
   ],
   [
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2023-11-11, 11:04:51",
-      "https://news.ycombinator.com/item?id=38229231"
-    ],
-    [
-      "How I got here",
-      "https://pthorpe92.github.io/intro/my-story/"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 09:36:04",
-      "https://news.ycombinator.com/item?id=38228788"
-    ],
-    [
-      "Show HN: DataSheetGrid, an Airtable-like React component",
-      "https://react-datasheet-grid.netlify.app/"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 03:55:35",
       "https://news.ycombinator.com/item?id=38227486"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38226833"
     ],
     [
-      "Web Design Is 95% Typography",
+      "Web designers should get good training in typography (2006)",
       "https://ia.net/topics/the-web-is-all-about-typography-period"
     ]
   ]
