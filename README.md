@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-12, 10:32:36](https://news.ycombinator.com/item?id=38239046) - [Happy Diwali HN](https://news.ycombinator.com/item?id=38239046)
 * [2023-11-12, 09:47:41](https://news.ycombinator.com/item?id=38238824) - [Bankman-Fried's parents could face their own legal perils, experts say](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/)
 * [2023-11-12, 09:23:28](https://news.ycombinator.com/item?id=38238707) - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
@@ -10,6 +9,7 @@
 * [2023-11-12, 05:54:06](https://news.ycombinator.com/item?id=38237696) - [An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 05:03:03](https://news.ycombinator.com/item?id=38237472) - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
+* [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 * [2023-11-11, 22:59:56](https://news.ycombinator.com/item?id=38235465) - [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
 * [2023-11-11, 22:52:21](https://news.ycombinator.com/item?id=38235407) - [Show HN: LLM Verified with Monte Carlo Tree Search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
 * [2023-11-11, 21:12:23](https://news.ycombinator.com/item?id=38234580) - [OCaml: a Rust developer's first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
