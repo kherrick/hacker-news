@@ -6,7 +6,6 @@
 * [2023-11-12, 16:27:25](https://news.ycombinator.com/item?id=38241583) - [SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw)
 * [2023-11-12, 16:00:36](https://news.ycombinator.com/item?id=38241304) - [HTML First – Six principles for building simple, maintainable, web software](https://html-first.com/)
 * [2023-11-12, 15:54:49](https://news.ycombinator.com/item?id=38241237) - [Google dragged to UK watchdog over Chrome's upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
-* [2023-11-12, 15:06:55](https://news.ycombinator.com/item?id=38240691) - [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
 * [2023-11-12, 14:31:39](https://news.ycombinator.com/item?id=38240363) - [Apple might have to pay that €13B EU tax bill after all](https://www.theregister.com/2023/11/11/apple_tax_bill_hiring/)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [FreeOberon cross-platform Oberon language IDE](https://free.oberon.org/en/)
@@ -28,6 +27,7 @@
 * [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security](https://www.mattblaze.org/photos/locks.html)
 * [2023-11-11, 01:00:24](https://news.ycombinator.com/item?id=38226526) - [6502 back end for LLVM (2022) [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
+* [2023-11-10, 22:03:04](https://news.ycombinator.com/item?id=38225132) - [Unearthing Gems in an Archive of Rock Star Interviews](https://www.atlasobscura.com/articles/katz-collection-rock-star-interviews)
 * [2023-11-10, 21:41:40](https://news.ycombinator.com/item?id=38224920) - [Leonard vs. Pepsico, Inc](https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc.)
 * [2023-11-10, 19:02:38](https://news.ycombinator.com/item?id=38223019) - [Business questions worth asking](https://gmays.com/business-questions-worth-asking/)
 
