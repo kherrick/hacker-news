@@ -13,7 +13,6 @@
 * [2023-11-11, 20:34:10](https://news.ycombinator.com/item?id=38234230) - [The Newline Cat Mystery](https://www.petefreitag.com/item/1005.cfm)
 * [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
-* [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
 * [2023-11-11, 16:47:46](https://news.ycombinator.com/item?id=38231901) - [Getting the Lorentz transformations without requiring an invariant speed (2015)](https://arxiv.org/abs/1504.02423)
 * [2023-11-11, 16:36:36](https://news.ycombinator.com/item?id=38231771) - [Song stuck in your head? Just hum to search (2020)](https://blog.google/products/search/hum-to-search/)
@@ -30,6 +29,7 @@
 * [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web designers should get good training in typography (2006)](https://ia.net/topics/the-web-is-all-about-typography-period)
 * [2023-11-11, 01:00:24](https://news.ycombinator.com/item?id=38226526) - [6502 back end for LLVM [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
 * [2023-11-10, 22:59:54](https://news.ycombinator.com/item?id=38225724) - [System Transparency: a security architecture for bare-metal servers](https://www.system-transparency.org/)
+* [2023-11-10, 18:58:46](https://news.ycombinator.com/item?id=38222959) - [Recoil – Retro Computer Image Library](https://recoil.sourceforge.net/)
 
 ## [Archives](archives/index.md)
 
