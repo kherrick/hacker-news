@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-11-11, 17:32:18",
-      "https://news.ycombinator.com/item?id=38232378"
-    ],
-    [
-      "Debunking the Myth of \"Anonymous\" Data",
-      "https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 17:18:16",
       "https://news.ycombinator.com/item?id=38232243"
     ],
@@ -297,6 +287,16 @@
     [
       "System Transparency: a security architecture for bare-metal servers",
       "https://www.system-transparency.org/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 18:58:46",
+      "https://news.ycombinator.com/item?id=38222959"
+    ],
+    [
+      "Recoil – Retro Computer Image Library",
+      "https://recoil.sourceforge.net/"
     ]
   ]
 ]
