@@ -111,6 +111,7 @@
 * [2023-11-11, 01:13:56](https://news.ycombinator.com/item?id=38226589) - [Codex documenting Aztec culture now digitized](https://hyperallergic.com/855683/stunning-florentine-codex-documenting-aztec-culture-now-fully-digitized/)
 * [2023-11-11, 01:08:22](https://news.ycombinator.com/item?id=38226567) - [Computation of the n'th digit of pi in any base in O(n^2) (1997)](https://bellard.org/pi/pi_n2/pi_n2.html)
 * [2023-11-11, 01:05:22](https://news.ycombinator.com/item?id=38226548) - [Firezone (YC W22) is hiring a Rust contractor to build a Windows client](https://www.ycombinator.com/companies/firezone/jobs/8mVSALy-rust-engineer-contract)
+* [2023-11-11, 01:00:24](https://news.ycombinator.com/item?id=38226526) - [6502 back end for LLVM [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
 * [2023-11-11, 00:38:18](https://news.ycombinator.com/item?id=38226404) - [Trading bot that buys stocks bought by politicians is up 20% since May 2022](https://www.threads.net/@quiverquantitative/post/CzcB-Gsgqow)
 * [2023-11-11, 00:26:57](https://news.ycombinator.com/item?id=38226340) - [A Man Who Invented Fifteen Hundred Necktie Knots](https://www.newyorker.com/culture/annals-of-inquiry/the-man-who-invented-fifteen-hundred-necktie-knots)
 * [2023-11-11, 00:18:15](https://news.ycombinator.com/item?id=38226291) - [MOVEit global security incident](https://www.maine.gov/moveit-global-data-security-incident/)
