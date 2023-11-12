@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 06:02:08](https://news.ycombinator.com/item?id=38237730) - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
 * [2023-11-12, 04:24:00](https://news.ycombinator.com/item?id=38237287) - [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
 * [2023-11-12, 00:52:01](https://news.ycombinator.com/item?id=38236168) - [Amazon Making Its Own Linux-Based OS to Replace Android](https://www.omgubuntu.co.uk/2023/11/amazon-vega-linux-based-os)
@@ -19,7 +20,6 @@
 * [2023-11-11, 16:30:12](https://news.ycombinator.com/item?id=38231704) - [Find bilingual baby names](https://mixedname.com/)
 * [2023-11-11, 16:26:23](https://news.ycombinator.com/item?id=38231670) - [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html)
 * [2023-11-11, 15:29:46](https://news.ycombinator.com/item?id=38231151) - [Designing the longest range Electric Aircraft: The Solar Aircraft [video]](https://www.youtube.com/watch?v=1q2wpZrq888)
-* [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
 * [2023-11-11, 14:16:08](https://news.ycombinator.com/item?id=38230449) - [What I Know About Community Building (2020)](https://medium.com/swlh/what-i-know-about-community-building-939aeac0aa7)
 * [2023-11-11, 13:58:02](https://news.ycombinator.com/item?id=38230316) - [Proteomics with OMSSA](https://sivome.github.io/proteomics/2019/03/02/Proteomics-with-OMSSA.html)
 * [2023-11-11, 11:33:42](https://news.ycombinator.com/item?id=38229398) - [Horrible edge cases to consider when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
