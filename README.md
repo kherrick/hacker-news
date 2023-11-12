@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-12, 13:14:16](https://news.ycombinator.com/item?id=38239781) - [Platforms Must Stop Unjustified Takedowns of Posts by and About Palestinians](https://www.eff.org/deeplinks/2023/11/platforms-must-stop-unjustified-takedowns-posts-and-about-palestinians)
 * [2023-11-12, 12:45:22](https://news.ycombinator.com/item?id=38239640) - [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
 * [2023-11-12, 12:35:37](https://news.ycombinator.com/item?id=38239585) - [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
 * [2023-11-12, 12:27:34](https://news.ycombinator.com/item?id=38239542) - [Upcoming changes to Rust's borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
@@ -20,6 +19,7 @@
 * [2023-11-11, 22:52:21](https://news.ycombinator.com/item?id=38235407) - [Show HN: LLM Verified with Monte Carlo Tree Search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
+* [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
 * [2023-11-11, 04:09:37](https://news.ycombinator.com/item?id=38227544) - [The first commercial carbon-sucking facility in the US opens in California](https://www.bloomberg.com/news/articles/2023-11-09/california-home-to-first-direct-air-capture-carbon-removal-facility-in-the-us)
 * [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
 * [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
