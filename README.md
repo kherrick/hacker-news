@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 21:57:58](https://news.ycombinator.com/item?id=38244512) - [Effective Altruism Is a Welter of Lies, Hypocrisy, and Eugenic Fantasies](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/)
 * [2023-11-12, 21:17:02](https://news.ycombinator.com/item?id=38244149) - [Porsche Open Source Platform](https://opensource.porsche.com/)
 * [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 * [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
@@ -13,7 +14,6 @@
 * [2023-11-12, 15:20:41](https://news.ycombinator.com/item?id=38240861) - [The Steam Deck OLED spot ad was made with Steam Deck OLEDs](https://idlethumbs.social/@ja2ke/111396017651485944)
 * [2023-11-12, 15:03:10](https://news.ycombinator.com/item?id=38240658) - [TorrentFreak Turns 18 Today](https://torrentfreak.com/torrentfreak-turns-18-today-hospital-edition-231112/)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [Free Oberon: Cross-platform Oberon IDE](https://free.oberon.org/en/)
-* [2023-11-12, 13:56:16](https://news.ycombinator.com/item?id=38240089) - [Ruby 3.3.0-Preview3 Released](https://www.ruby-lang.org/en/news/2023/11/12/ruby-3-3-0-preview3-released/)
 * [2023-11-12, 13:06:01](https://news.ycombinator.com/item?id=38239735) - [The attack against Danish, critical infrastructure [pdf]](https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Open, rigorous and reproducible research: A practitioner’s handbook (2021)](https://stanforddatascience.github.io/best-practices/index.html)
 * [2023-11-12, 12:27:34](https://news.ycombinator.com/item?id=38239542) - [Upcoming changes to Rust's borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
@@ -27,8 +27,8 @@
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from computing's past](https://lewiscampbell.tech/blog/231112.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 13:08:33](https://news.ycombinator.com/item?id=38229998) - [Lost \"Doctor Who\" episodes found but owner is reluctant to hand them to BBC](https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc)
+* [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security (2005)](https://www.mattblaze.org/photos/locks.html)
-* [2023-11-11, 00:38:02](https://news.ycombinator.com/item?id=38226402) - [Lovecraft and Me – How cosmic horror gave me hope (2020)](https://yalereview.org/article/lovecraft-and-me)
 * [2023-11-10, 22:04:28](https://news.ycombinator.com/item?id=38225150) - [In the 'Wild West' of geometry, mathematicians redefine the sphere](https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/)
 
 ## [Archives](archives/index.md)
