@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 03:58:52](https://news.ycombinator.com/item?id=38237166) - [Oregon Decriminalized Hard Drugs. It Isn't Working](https://www.wsj.com/us-news/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476)
 * [2023-11-12, 02:35:04](https://news.ycombinator.com/item?id=38236701) - [Cybertruck buyers forbidden from selling for the first year](https://www.threads.net/@emperorswithoutclothes/post/CzhwpeNrIJy)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
 * [2023-11-12, 01:56:58](https://news.ycombinator.com/item?id=38236519) - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
+* [2023-11-12, 01:45:19](https://news.ycombinator.com/item?id=38236464) - [Show HN: TopGPTs.ai – The Largest Directory of GPTs](https://www.topgpts.ai)
 * [2023-11-12, 01:12:03](https://news.ycombinator.com/item?id=38236285) - [CodeCrafters CEO adds his paid service as a next step after finishing Rustlings](https://github.com/rust-lang/rustlings/pull/1760)
 * [2023-11-12, 00:32:01](https://news.ycombinator.com/item?id=38236039) - [Formula 1 didn't realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
