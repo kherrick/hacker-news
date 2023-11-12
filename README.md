@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-12, 06:02:08](https://news.ycombinator.com/item?id=38237730) - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
 * [2023-11-12, 04:24:00](https://news.ycombinator.com/item?id=38237287) - [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
+* [2023-11-12, 00:52:01](https://news.ycombinator.com/item?id=38236168) - [Amazon Making Its Own Linux-Based OS to Replace Android](https://www.omgubuntu.co.uk/2023/11/amazon-vega-linux-based-os)
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 * [2023-11-11, 22:59:56](https://news.ycombinator.com/item?id=38235465) - [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
 * [2023-11-11, 22:52:21](https://news.ycombinator.com/item?id=38235407) - [Show HN: LLM Verified with Monte Carlo Tree Search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
