@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 21:57:58](https://news.ycombinator.com/item?id=38244512) - [Effective Altruism Is a Welter of Lies, Hypocrisy, and Eugenic Fantasies](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/)
 * [2023-11-12, 21:17:02](https://news.ycombinator.com/item?id=38244149) - [Porsche Open Source Platform](https://opensource.porsche.com/)
 * [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 * [2023-11-12, 20:18:50](https://news.ycombinator.com/item?id=38243722) - [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
@@ -16,7 +17,6 @@
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [Free Oberon: Cross-platform Oberon IDE](https://free.oberon.org/en/)
 * [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Open, rigorous and reproducible research: A practitioner’s handbook (2021)](https://stanforddatascience.github.io/best-practices/index.html)
-* [2023-11-12, 12:27:34](https://news.ycombinator.com/item?id=38239542) - [Upcoming changes to Rust's borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
 * [2023-11-12, 12:20:01](https://news.ycombinator.com/item?id=38239503) - [Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 11:40:22](https://news.ycombinator.com/item?id=38239358) - [Archive your old projects](https://arne.me/articles/archive-your-old-projects)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 21:57:58](https://news.ycombinator.com/item?id=38244512) - [Effective Altruism Is a Welter of Lies, Hypocrisy, and Eugenic Fantasies](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/)
 * [2023-11-12, 21:17:02](https://news.ycombinator.com/item?id=38244149) - [Porsche Open Source Platform](https://opensource.porsche.com/)
 * [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 * [2023-11-12, 20:18:50](https://news.ycombinator.com/item?id=38243722) - [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
