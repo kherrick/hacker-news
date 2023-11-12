@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 20:18:50](https://news.ycombinator.com/item?id=38243722) - [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
 * [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
 * [2023-11-12, 18:45:48](https://news.ycombinator.com/item?id=38242946) - [A truly incredible fact about the number 37](https://grossack.site/2023/11/08/37-median.html)
 * [2023-11-12, 18:25:00](https://news.ycombinator.com/item?id=38242758) - [U.S. service members' data is easy and cheap to purchase online, study finds](https://www.nbcnews.com/tech/security/us-service-members-data-easy-cheap-purchase-online-study-finds-rcna123064)
@@ -34,6 +35,7 @@
 * [2023-11-12, 13:14:16](https://news.ycombinator.com/item?id=38239781) - [Platforms Must Stop Unjustified Takedowns of Posts by and About Palestinians](https://www.eff.org/deeplinks/2023/11/platforms-must-stop-unjustified-takedowns-posts-and-about-palestinians)
 * [2023-11-12, 13:06:01](https://news.ycombinator.com/item?id=38239735) - [The attack against Danish, critical infrastructure [pdf]](https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Stanford Data Science Handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook)
+* [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Open, rigorous and reproducible research: A practitioner’s handbook (2021)](https://stanforddatascience.github.io/best-practices/index.html)
 * [2023-11-12, 12:45:22](https://news.ycombinator.com/item?id=38239640) - [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
 * [2023-11-12, 12:35:37](https://news.ycombinator.com/item?id=38239585) - [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
 * [2023-11-12, 12:27:34](https://news.ycombinator.com/item?id=38239542) - [Upcoming changes to Rust's borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
