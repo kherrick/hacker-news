@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny smd components](https://old.reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 10:32:36](https://news.ycombinator.com/item?id=38239046) - [Happy Diwali HN](https://news.ycombinator.com/item?id=38239046)
 * [2023-11-12, 09:47:41](https://news.ycombinator.com/item?id=38238824) - [Bankman-Fried's parents could face their own legal perils, experts say](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/)
 * [2023-11-12, 09:23:28](https://news.ycombinator.com/item?id=38238707) - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
