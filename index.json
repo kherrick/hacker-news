@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 12:45:22",
+      "https://news.ycombinator.com/item?id=38239640"
+    ],
+    [
+      "You Paid $1k for an iPhone, but Apple Still Controls It",
+      "https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 12:35:37",
       "https://news.ycombinator.com/item?id=38239585"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-11-12, 12:05:18",
-      "https://news.ycombinator.com/item?id=38239453"
+      "2023-11-12, 12:20:01",
+      "https://news.ycombinator.com/item?id=38239503"
     ],
     [
-      "There is a new version of GPT-4 Turbo now live in ChatGPT",
-      "https://twitter.com/sama/status/1723480961177010597"
+      "Speaker Support in Asahi Linux",
+      "https://github.com/AsahiLinux/docs/wiki/SW:Speakers"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-11-11, 22:59:56",
-      "https://news.ycombinator.com/item?id=38235465"
-    ],
-    [
-      "RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System",
-      "https://lupyuen.codeberg.page/articles/ox2.html"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 22:52:21",
       "https://news.ycombinator.com/item?id=38235407"
     ],
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2023-11-11, 20:34:10",
-      "https://news.ycombinator.com/item?id=38234230"
+      "2023-11-11, 21:20:47",
+      "https://news.ycombinator.com/item?id=38234653"
     ],
     [
-      "The newline cat mystery",
-      "https://www.petefreitag.com/item/1005.cfm"
+      "It's OK if your code is just good enough",
+      "https://shiftmag.dev/code-quality-good-enough-2034/"
     ]
   ],
   [
@@ -191,12 +191,22 @@
   ],
   [
     [
-      "2023-11-11, 11:04:51",
-      "https://news.ycombinator.com/item?id=38229231"
+      "2023-11-11, 04:09:37",
+      "https://news.ycombinator.com/item?id=38227544"
     ],
     [
-      "How I got here",
-      "https://pthorpe92.github.io/intro/my-story/"
+      "The first commercial carbon-sucking facility in the US opens in California",
+      "https://www.bloomberg.com/news/articles/2023-11-09/california-home-to-first-direct-air-capture-carbon-removal-facility-in-the-us"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 03:55:35",
+      "https://news.ycombinator.com/item?id=38227486"
+    ],
+    [
+      "Passive radiative cooling ceramic with high solar reflectivity",
+      "https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Business questions worth asking",
       "https://gmays.com/business-questions-worth-asking/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 18:58:46",
-      "https://news.ycombinator.com/item?id=38222959"
-    ],
-    [
-      "Recoil – Retro Computer Image Library",
-      "https://recoil.sourceforge.net/"
     ]
   ]
 ]
