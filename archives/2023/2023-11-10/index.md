@@ -6,6 +6,7 @@
 
 * [2023-11-10, 23:39:58](https://news.ycombinator.com/item?id=38226030) - [Ask HN: Is anyone else bearish on OpenAI?](https://news.ycombinator.com/item?id=38226030)
 * [2023-11-10, 22:59:54](https://news.ycombinator.com/item?id=38225724) - [System Transparency: a security architecture for bare-metal servers](https://www.system-transparency.org/)
+* [2023-11-10, 22:03:04](https://news.ycombinator.com/item?id=38225132) - [Unearthing Gems in an Archive of Rock Star Interviews](https://www.atlasobscura.com/articles/katz-collection-rock-star-interviews)
 * [2023-11-10, 22:01:52](https://news.ycombinator.com/item?id=38225121) - [The Normal Blog – A First Demonstration of Thermodynamic Matrix Inversion](https://blog.normalcomputing.ai/posts/2023-11-09-thermodynamic-inversion/thermo-inversion.html)
 * [2023-11-10, 21:51:15](https://news.ycombinator.com/item?id=38225019) - [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)
 * [2023-11-10, 21:45:38](https://news.ycombinator.com/item?id=38224950) - [Apple discriminated against US citizens in hiring, DOJ says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/)
