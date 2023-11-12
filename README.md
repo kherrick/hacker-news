@@ -25,11 +25,11 @@
 * [2023-11-12, 07:38:25](https://news.ycombinator.com/item?id=38238180) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 05:54:06](https://news.ycombinator.com/item?id=38237696) - [An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from Computing's Past](https://lewiscampbell.tech/blog/231112.html)
-* [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:34:00](https://news.ycombinator.com/item?id=38232397) - [Stargazers intersections for most popular GitHub projects in Venn diagrams](https://twitter.com/ashvardanian/status/1723393012728758565?s=20)
+* [2023-11-11, 13:08:33](https://news.ycombinator.com/item?id=38229998) - [Lost \"Doctor Who\" episodes found but owner is reluctant to hand them to BBC](https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security](https://www.mattblaze.org/photos/locks.html)
+* [2023-11-10, 22:04:28](https://news.ycombinator.com/item?id=38225150) - [In the 'Wild West' of Geometry, Mathematicians Redefine the Sphere](https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/)
 * [2023-11-10, 21:41:40](https://news.ycombinator.com/item?id=38224920) - [Leonard vs. Pepsico, Inc](https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc.)
-* [2023-11-10, 19:02:38](https://news.ycombinator.com/item?id=38223019) - [Business questions worth asking](https://gmays.com/business-questions-worth-asking/)
 
 ## [Archives](archives/index.md)
 

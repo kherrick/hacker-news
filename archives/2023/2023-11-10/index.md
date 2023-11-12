@@ -7,6 +7,7 @@
 * [2023-11-10, 23:39:58](https://news.ycombinator.com/item?id=38226030) - [Ask HN: Is anyone else bearish on OpenAI?](https://news.ycombinator.com/item?id=38226030)
 * [2023-11-10, 22:59:54](https://news.ycombinator.com/item?id=38225724) - [System Transparency: a security architecture for bare-metal servers](https://www.system-transparency.org/)
 * [2023-11-10, 22:06:17](https://news.ycombinator.com/item?id=38225172) - [Study finds lunar swirls linked to topography](https://phys.org/news/2023-11-lunar-swirls-linked-topography.html)
+* [2023-11-10, 22:04:28](https://news.ycombinator.com/item?id=38225150) - [In the 'Wild West' of Geometry, Mathematicians Redefine the Sphere](https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/)
 * [2023-11-10, 22:03:04](https://news.ycombinator.com/item?id=38225132) - [Unearthing Gems in an Archive of Rock Star Interviews](https://www.atlasobscura.com/articles/katz-collection-rock-star-interviews)
 * [2023-11-10, 22:01:52](https://news.ycombinator.com/item?id=38225121) - [The Normal Blog – A First Demonstration of Thermodynamic Matrix Inversion](https://blog.normalcomputing.ai/posts/2023-11-09-thermodynamic-inversion/thermo-inversion.html)
 * [2023-11-10, 21:51:15](https://news.ycombinator.com/item?id=38225019) - [Iceland declares state of emergency over volcanic eruption threat](https://www.theguardian.com/world/2023/nov/10/iceland-declares-state-of-emergency-over-volcanic-eruption-threat)

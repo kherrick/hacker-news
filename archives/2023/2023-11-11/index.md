@@ -73,6 +73,7 @@
 * [2023-11-11, 13:58:02](https://news.ycombinator.com/item?id=38230316) - [Proteomics with OMSSA](https://sivome.github.io/proteomics/2019/03/02/Proteomics-with-OMSSA.html)
 * [2023-11-11, 13:28:04](https://news.ycombinator.com/item?id=38230120) - [Are Sunk Costs Fallacies? (2012)](https://gwern.net/sunk-cost)
 * [2023-11-11, 13:08:59](https://news.ycombinator.com/item?id=38230002) - [BMW, Subaru and Porsche drivers 'more likely to cause a crash', study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
+* [2023-11-11, 13:08:33](https://news.ycombinator.com/item?id=38229998) - [Lost \"Doctor Who\" episodes found but owner is reluctant to hand them to BBC](https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc)
 * [2023-11-11, 13:01:32](https://news.ycombinator.com/item?id=38229948) - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
 * [2023-11-11, 12:58:57](https://news.ycombinator.com/item?id=38229928) - [Google uses int8 for LLM training](https://old.reddit.com/r/LocalLLaMA/comments/17sbjsv/google_blog_posts_suggests_that_google_using_int8/)
 * [2023-11-11, 12:56:56](https://news.ycombinator.com/item?id=38229913) - [Ripple CEO says SEC has lost sight of mission to protect investors](https://www.cnbc.com/2023/11/11/ripple-ceo-says-sec-has-lost-sight-of-mission-to-protect-investors.html)
