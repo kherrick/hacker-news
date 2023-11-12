@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
+* [2023-11-12, 13:30:32](https://news.ycombinator.com/item?id=38239896) - [Globalisation is a far, far bigger deal than you think](https://edconway.substack.com/p/globalisation-is-a-far-far-bigger)
 * [2023-11-12, 13:14:16](https://news.ycombinator.com/item?id=38239781) - [Platforms Must Stop Unjustified Takedowns of Posts by and About Palestinians](https://www.eff.org/deeplinks/2023/11/platforms-must-stop-unjustified-takedowns-posts-and-about-palestinians)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Stanford Data Science Handbook](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook)
 * [2023-11-12, 12:45:22](https://news.ycombinator.com/item?id=38239640) - [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
