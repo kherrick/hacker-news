@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 07:02:36](https://news.ycombinator.com/item?id=38238025) - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
 * [2023-11-12, 06:02:08](https://news.ycombinator.com/item?id=38237730) - [Ask HN: What are you reading these days?](https://news.ycombinator.com/item?id=38237730)
 * [2023-11-12, 04:24:00](https://news.ycombinator.com/item?id=38237287) - [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
 * [2023-11-12, 03:58:52](https://news.ycombinator.com/item?id=38237166) - [Oregon Decriminalized Hard Drugs. It Isn't Working](https://www.wsj.com/us-news/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476)
