@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=38242946"
     ],
     [
-      "A truly incredible fact about the number 37",
+      "37, the median value for the second prime factor of an integer",
       "https://grossack.site/2023/11/08/37-median.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 17:50:37",
-      "https://news.ycombinator.com/item?id=38242445"
-    ],
-    [
-      "The Conference for High Performance Computing, Networking, Storage, Analysis",
-      "https://sc23.supercomputing.org/"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38241304"
     ],
     [
-      "HTML First – Six principles for building simple, maintainable, web software",
+      "HTML First",
       "https://html-first.com/"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=38240421"
     ],
     [
-      "GPU Survival Toolkit for the AI age: The bare minimum every developer must know",
+      "GPU Survival Toolkit for the AI age",
       "https://journal.hexmos.com/gpu-survival-toolkit/"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=38240333"
     ],
     [
-      "FreeOberon cross-platform Oberon language IDE",
+      "Free Oberon: Cross-platform Oberon IDE",
       "https://free.oberon.org/en/"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=38225150"
     ],
     [
-      "In the 'Wild West' of Geometry, Mathematicians Redefine the Sphere",
+      "In the 'Wild West' of geometry, mathematicians redefine the sphere",
       "https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 21:41:40",
+      "https://news.ycombinator.com/item?id=38224920"
+    ],
+    [
+      "Leonard vs. Pepsico, Inc",
+      "https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc."
     ]
   ]
 ]
