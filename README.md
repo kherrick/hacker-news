@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 22:19:12](https://news.ycombinator.com/item?id=38244680) - [Classical liberals are increasingly religious](https://marginalrevolution.com/marginalrevolution/2023/11/religious-classical-liberals.html)
 * [2023-11-12, 21:57:58](https://news.ycombinator.com/item?id=38244512) - [Effective Altruism Is a Welter of Lies, Hypocrisy, and Eugenic Fantasies](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/)
 * [2023-11-12, 21:17:02](https://news.ycombinator.com/item?id=38244149) - [Porsche Open Source Platform](https://opensource.porsche.com/)
 * [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
@@ -13,9 +14,8 @@
 * [2023-11-12, 15:54:46](https://news.ycombinator.com/item?id=38241235) - [Generate images fast with SD 1.5 while typing on Gradio](https://twitter.com/abidlabs/status/1723074108739706959)
 * [2023-11-12, 15:20:41](https://news.ycombinator.com/item?id=38240861) - [The Steam Deck OLED spot ad was made with Steam Deck OLEDs](https://idlethumbs.social/@ja2ke/111396017651485944)
 * [2023-11-12, 14:47:05](https://news.ycombinator.com/item?id=38240494) - [Show HN: I made an in-depth beginner's guide to AI](https://guides.ai/how-to-get-into-ai/)
-* [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age](https://journal.hexmos.com/gpu-survival-toolkit/)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [Free Oberon: Cross-platform Oberon IDE](https://free.oberon.org/en/)
-* [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
+* [2023-11-12, 13:06:01](https://news.ycombinator.com/item?id=38239735) - [The attack against Danish, critical infrastructure [pdf]](https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Open, rigorous and reproducible research: A practitioner’s handbook (2021)](https://stanforddatascience.github.io/best-practices/index.html)
 * [2023-11-12, 12:20:01](https://news.ycombinator.com/item?id=38239503) - [Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 11:40:22](https://news.ycombinator.com/item?id=38239358) - [Archive your old projects](https://arne.me/articles/archive-your-old-projects)
