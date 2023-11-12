@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 12:45:22](https://news.ycombinator.com/item?id=38239640) - [You Paid $1k for an iPhone, but Apple Still Controls It](https://www.nytimes.com/2023/11/12/technology/iphone-repair-apple-control.html)
 * [2023-11-12, 12:35:37](https://news.ycombinator.com/item?id=38239585) - [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
 * [2023-11-12, 12:27:34](https://news.ycombinator.com/item?id=38239542) - [Upcoming changes to Rust's borrow checker](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
+* [2023-11-12, 12:20:01](https://news.ycombinator.com/item?id=38239503) - [Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 12:05:18](https://news.ycombinator.com/item?id=38239453) - [Sam Altman: New version of GPT-4 Turbo now live in ChatGPT](https://twitter.com/sama/status/1723480961177010597)
 * [2023-11-12, 11:39:07](https://news.ycombinator.com/item?id=38239348) - [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home)
 * [2023-11-12, 11:20:20](https://news.ycombinator.com/item?id=38239266) - [Australia locks down ports after ‘nationally significant’ cyberattack](https://www.independent.co.uk/news/world/australasia/australia-ports-cyber-attack-dp-world-b2445634.html)
