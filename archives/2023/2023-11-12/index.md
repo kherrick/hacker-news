@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 17:02:09](https://news.ycombinator.com/item?id=38241951) - [Sieve (YC W22), a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
 * [2023-11-12, 16:00:36](https://news.ycombinator.com/item?id=38241304) - [HTML First – Six principles for building simple, maintainable, web software](https://html-first.com/)
 * [2023-11-12, 15:54:49](https://news.ycombinator.com/item?id=38241237) - [Google dragged to UK watchdog over Chrome's upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
 * [2023-11-12, 15:21:53](https://news.ycombinator.com/item?id=38240874) - [Ask HN: Why do we walk away from Single Page Applications?](https://news.ycombinator.com/item?id=38240874)
