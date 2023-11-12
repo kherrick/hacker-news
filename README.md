@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny smd components](https://old.reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
+* [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 09:47:41](https://news.ycombinator.com/item?id=38238824) - [Bankman-Fried's parents could face their own legal perils, experts say](https://www.washingtonpost.com/business/2023/11/11/sam-bankman-fried-parents-ftx/)
 * [2023-11-12, 09:23:28](https://news.ycombinator.com/item?id=38238707) - [Downfall fallout lawsuit: Intel knew AVX chips were insecure and did nothing](https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
-* [2023-11-12, 08:02:22](https://news.ycombinator.com/item?id=38238301) - [NetBSD 10.0 RC1 (Nov 5, 2023)](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
+* [2023-11-12, 08:02:22](https://news.ycombinator.com/item?id=38238301) - [NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2023-11-12, 07:38:25](https://news.ycombinator.com/item?id=38238180) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 07:02:36](https://news.ycombinator.com/item?id=38238025) - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
 * [2023-11-12, 05:54:06](https://news.ycombinator.com/item?id=38237696) - [An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
