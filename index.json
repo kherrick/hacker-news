@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-12, 09:11:07",
+      "https://news.ycombinator.com/item?id=38238658"
+    ],
+    [
+      "Map of Space Invader Mosaics in Paris",
+      "https://pnote.eu/projects/invaders/map.html"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 08:02:22",
       "https://news.ycombinator.com/item?id=38238301"
     ],
     [
       "NetBSD 10.0 RC1 (Nov 5, 2023)",
       "https://netbsd.org/releases/formal-10/NetBSD-10.0.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 07:43:47",
+      "https://news.ycombinator.com/item?id=38238204"
+    ],
+    [
+      "How Apple Made the Space Black MacBook Pro Darker Than",
+      "https://www.ifixit.com/News/86128/how-apple-made-the-space-black-macbook-pro-darker-than-ever"
     ]
   ],
   [
@@ -141,26 +161,6 @@
   ],
   [
     [
-      "2023-11-11, 16:30:12",
-      "https://news.ycombinator.com/item?id=38231704"
-    ],
-    [
-      "Find bilingual baby names",
-      "https://mixedname.com/"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 16:26:23",
-      "https://news.ycombinator.com/item?id=38231670"
-    ],
-    [
-      "Introduction to Univalent Foundations of Mathematics with Agda",
-      "https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 15:29:46",
       "https://news.ycombinator.com/item?id=38231151"
     ],
@@ -207,16 +207,6 @@
     [
       "How I got here",
       "https://pthorpe92.github.io/intro/my-story/"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 09:36:04",
-      "https://news.ycombinator.com/item?id=38228788"
-    ],
-    [
-      "Show HN: DataSheetGrid, an Airtable-like React component",
-      "https://react-datasheet-grid.netlify.app/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "System Transparency: a security architecture for bare-metal servers",
       "https://www.system-transparency.org/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 22:06:17",
+      "https://news.ycombinator.com/item?id=38225172"
+    ],
+    [
+      "Study finds lunar swirls linked to topography",
+      "https://phys.org/news/2023-11-lunar-swirls-linked-topography.html"
     ]
   ],
   [
