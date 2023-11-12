@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
 * [2023-11-12, 01:56:58](https://news.ycombinator.com/item?id=38236519) - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid (2022)](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
 * [2023-11-12, 01:12:03](https://news.ycombinator.com/item?id=38236285) - [CodeCrafters CEO adds his paid service as a next step after finishing Rustlings](https://github.com/rust-lang/rustlings/pull/1760)
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
@@ -11,7 +12,6 @@
 * [2023-11-11, 20:34:10](https://news.ycombinator.com/item?id=38234230) - [The Newline Cat Mystery](https://www.petefreitag.com/item/1005.cfm)
 * [2023-11-11, 19:59:39](https://news.ycombinator.com/item?id=38233938) - [CTF Writeup: Abusing select() to factor RSA](https://threadreaderapp.com/thread/1723398619313603068.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
-* [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
 * [2023-11-11, 16:47:46](https://news.ycombinator.com/item?id=38231901) - [Getting the Lorentz transformations without requiring an invariant speed](https://arxiv.org/abs/1504.02423)
 * [2023-11-11, 16:36:36](https://news.ycombinator.com/item?id=38231771) - [Song stuck in your head? Just hum to search (2020)](https://blog.google/products/search/hum-to-search/)
@@ -24,7 +24,7 @@
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 13:58:02](https://news.ycombinator.com/item?id=38230316) - [Proteomics with OMSSA](https://sivome.github.io/proteomics/2019/03/02/Proteomics-with-OMSSA.html)
 * [2023-11-11, 11:33:42](https://news.ycombinator.com/item?id=38229398) - [Horrible edge cases to consider when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
-* [2023-11-11, 09:36:04](https://news.ycombinator.com/item?id=38228788) - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
+* [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
 * [2023-11-11, 03:55:35](https://news.ycombinator.com/item?id=38227486) - [Passive radiative cooling ceramic with high solar reflectivity](https://www.cityu.edu.hk/research/stories/2023/11/10/new-cooling-ceramic-can-enhance-energy-efficiency-construction-sector-and-help-combat-global-warming-cityu-research)
 * [2023-11-11, 03:44:47](https://news.ycombinator.com/item?id=38227451) - ['Super melanin' heals skin injuries from sunburn, chemical burns](https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html)
 * [2023-11-11, 03:14:53](https://news.ycombinator.com/item?id=38227324) - [The best place to shop is other people's lost luggage](https://www.washingtonpost.com/travel/2023/11/10/unclaimed-baggage-alabama-thrift-store/)
