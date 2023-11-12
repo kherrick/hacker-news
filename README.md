@@ -4,6 +4,7 @@
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 * [2023-11-11, 22:59:56](https://news.ycombinator.com/item?id=38235465) - [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
+* [2023-11-11, 22:52:21](https://news.ycombinator.com/item?id=38235407) - [Show HN: LLM Verified with Monte Carlo Tree Search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
 * [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 * [2023-11-11, 21:12:23](https://news.ycombinator.com/item?id=38234580) - [OCaml: a Rust developer's first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
 * [2023-11-11, 21:02:18](https://news.ycombinator.com/item?id=38234476) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -19,9 +20,7 @@
 * [2023-11-11, 16:26:23](https://news.ycombinator.com/item?id=38231670) - [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html)
 * [2023-11-11, 15:29:46](https://news.ycombinator.com/item?id=38231151) - [Designing the longest range Electric Aircraft: The Solar Aircraft [video]](https://www.youtube.com/watch?v=1q2wpZrq888)
 * [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)
-* [2023-11-11, 14:16:17](https://news.ycombinator.com/item?id=38230453) - [Show HN: Generate pdf with gitbook or mdbook url](https://github.com/lufengd3/htmlbook2pdf)
 * [2023-11-11, 14:16:08](https://news.ycombinator.com/item?id=38230449) - [What I Know About Community Building (2020)](https://medium.com/swlh/what-i-know-about-community-building-939aeac0aa7)
-* [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 13:58:02](https://news.ycombinator.com/item?id=38230316) - [Proteomics with OMSSA](https://sivome.github.io/proteomics/2019/03/02/Proteomics-with-OMSSA.html)
 * [2023-11-11, 11:33:42](https://news.ycombinator.com/item?id=38229398) - [Horrible edge cases to consider when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
 * [2023-11-11, 11:04:51](https://news.ycombinator.com/item?id=38229231) - [How I got here](https://pthorpe92.github.io/intro/my-story/)
@@ -30,6 +29,7 @@
 * [2023-11-11, 03:14:53](https://news.ycombinator.com/item?id=38227324) - [The best place to shop is other people's lost luggage](https://www.washingtonpost.com/travel/2023/11/10/unclaimed-baggage-alabama-thrift-store/)
 * [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web designers should get good training in typography (2006)](https://ia.net/topics/the-web-is-all-about-typography-period)
 * [2023-11-11, 01:00:24](https://news.ycombinator.com/item?id=38226526) - [6502 back end for LLVM [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
+* [2023-11-10, 22:59:54](https://news.ycombinator.com/item?id=38225724) - [System Transparency: a security architecture for bare-metal servers](https://www.system-transparency.org/)
 
 ## [Archives](archives/index.md)
 
