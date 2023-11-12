@@ -36,6 +36,7 @@
 * [2023-11-11, 18:19:38](https://news.ycombinator.com/item?id=38232930) - [Ask HN: What are good books on SW architecture that don't sell microservices?](https://news.ycombinator.com/item?id=38232930)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's Still Easy for Anyone to Become You at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:49:21](https://news.ycombinator.com/item?id=38232572) - [Twitter's onion service is serving an invalid TLS certificate since 3/6/2023](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
+* [2023-11-11, 17:34:00](https://news.ycombinator.com/item?id=38232397) - [Stargazers intersections for most popular GitHub projects in Venn diagrams](https://twitter.com/ashvardanian/status/1723393012728758565?s=20)
 * [2023-11-11, 17:32:18](https://news.ycombinator.com/item?id=38232378) - [Debunking the Myth of \"Anonymous\" Data](https://www.eff.org/deeplinks/2023/11/debunking-myth-anonymous-data)
 * [2023-11-11, 17:27:09](https://news.ycombinator.com/item?id=38232334) - [Is this radical redesign of GIMP possible now?](https://librearts.org/2023/11/radical-redesign-of-gimp/)
 * [2023-11-11, 17:18:16](https://news.ycombinator.com/item?id=38232243) - [Qanat](https://en.wikipedia.org/wiki/Qanat)
