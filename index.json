@@ -151,26 +151,6 @@
   ],
   [
     [
-      "2023-11-11, 16:47:46",
-      "https://news.ycombinator.com/item?id=38231901"
-    ],
-    [
-      "Getting the Lorentz transformations without requiring an invariant speed (2015)",
-      "https://arxiv.org/abs/1504.02423"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 16:36:36",
-      "https://news.ycombinator.com/item?id=38231771"
-    ],
-    [
-      "Song stuck in your head? Just hum to search (2020)",
-      "https://blog.google/products/search/hum-to-search/"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 16:30:12",
       "https://news.ycombinator.com/item?id=38231704"
     ],
@@ -187,6 +167,16 @@
     [
       "Introduction to Univalent Foundations of Mathematics with Agda",
       "https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 14:18:19",
+      "https://news.ycombinator.com/item?id=38230476"
+    ],
+    [
+      "Show HN: Flyscrape – A standalone and scriptable web scraper in Go",
+      "https://github.com/philippta/flyscrape"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "How I got here",
       "https://pthorpe92.github.io/intro/my-story/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 09:36:04",
+      "https://news.ycombinator.com/item?id=38228788"
+    ],
+    [
+      "Show HN: DataSheetGrid, an Airtable-like React component",
+      "https://react-datasheet-grid.netlify.app/"
     ]
   ],
   [
