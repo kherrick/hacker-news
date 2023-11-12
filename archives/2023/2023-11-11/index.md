@@ -97,6 +97,7 @@
 * [2023-11-11, 06:23:46](https://news.ycombinator.com/item?id=38228039) - [Low-intensity fires reduce wildfire risk by 60%](https://news.stanford.edu/press-releases/2023/11/10/valuing-prescribed-fire/)
 * [2023-11-11, 06:11:56](https://news.ycombinator.com/item?id=38228007) - [Neighborle: List Neighboring Countries](https://neighborle.com/)
 * [2023-11-11, 05:27:00](https://news.ycombinator.com/item?id=38227886) - [uBlock-Origin 1.53.4 – 1.53.0 plus fix for Microsoft Edge](https://github.com/gorhill/uBlock/releases/tag/1.53.4)
+* [2023-11-11, 05:18:28](https://news.ycombinator.com/item?id=38227852) - [Oldest Pyramid Found Not in Egypt or Americas, but in Indonesia](https://www.atlasobscura.com/articles/oldest-pyramid-indonesia)
 * [2023-11-11, 05:06:42](https://news.ycombinator.com/item?id=38227789) - [Advertisers Don't Want Sites Like Jezebel to Exist](https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/)
 * [2023-11-11, 04:16:49](https://news.ycombinator.com/item?id=38227580) - [GNOME Recognized as Public Interest Infrastructure](https://foundation.gnome.org/2023/11/09/gnome-recognized-as-public-interest-infrastructure/)
 * [2023-11-11, 04:14:36](https://news.ycombinator.com/item?id=38227565) - [FFmpeg 6.1 released](http://www.ffmpeg.org/index.html#pr6.1)

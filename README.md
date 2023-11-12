@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
 * [2023-11-12, 14:13:35](https://news.ycombinator.com/item?id=38240212) - [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 * [2023-11-12, 14:07:51](https://news.ycombinator.com/item?id=38240175) - [Brian Chesky's Framework for Product Management, Inspired by Steve Jobs](https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach)
 * [2023-11-12, 14:03:33](https://news.ycombinator.com/item?id=38240147) - [Before-and-after images show how Greenland's glaciers have rapidly retreated](https://www.cnn.com/2023/11/12/climate/greenland-glaciers-before-after-climate/index.html)
@@ -21,13 +22,12 @@
 * [2023-11-12, 05:54:06](https://news.ycombinator.com/item?id=38237696) - [An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim key binder for Windows](https://pit-ray.github.io/win-vind/)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
+* [2023-11-11, 05:18:28](https://news.ycombinator.com/item?id=38227852) - [Oldest Pyramid Found Not in Egypt or Americas, but in Indonesia](https://www.atlasobscura.com/articles/oldest-pyramid-indonesia)
 * [2023-11-11, 03:39:59](https://news.ycombinator.com/item?id=38227428) - [Serverless at Scale: Lessons from 200M Lambda Invocations](https://insights.adadot.com/2023/11/10/serverless-at-scale-lessons-from-200-million-lambda-invocations/)
-* [2023-11-11, 03:14:53](https://news.ycombinator.com/item?id=38227324) - [The thrill of the bargain hunt at unclaimed baggage](https://www.washingtonpost.com/travel/2023/11/10/unclaimed-baggage-alabama-thrift-store/)
 * [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
 * [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web designers should get good training in typography (2006)](https://ia.net/topics/the-web-is-all-about-typography-period)
 * [2023-11-11, 01:00:24](https://news.ycombinator.com/item?id=38226526) - [6502 back end for LLVM (2022) [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
 * [2023-11-11, 00:38:02](https://news.ycombinator.com/item?id=38226402) - [Lovecraft and Me – How cosmic horror gave me hope (2020)](https://yalereview.org/article/lovecraft-and-me)
-* [2023-11-10, 22:03:04](https://news.ycombinator.com/item?id=38225132) - [Unearthing Gems in an Archive of Rock Star Interviews](https://www.atlasobscura.com/articles/katz-collection-rock-star-interviews)
 * [2023-11-10, 21:41:40](https://news.ycombinator.com/item?id=38224920) - [Leonard vs. Pepsico, Inc](https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc.)
 * [2023-11-10, 19:02:38](https://news.ycombinator.com/item?id=38223019) - [Business questions worth asking](https://gmays.com/business-questions-worth-asking/)
 
