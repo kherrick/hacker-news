@@ -21,12 +21,42 @@
   ],
   [
     [
+      "2023-11-11, 22:13:51",
+      "https://news.ycombinator.com/item?id=38235116"
+    ],
+    [
+      "Fedora Workstation 39",
+      "https://fedoraproject.org/workstation/download/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 21:30:48",
+      "https://news.ycombinator.com/item?id=38234746"
+    ],
+    [
+      "Show HN: Send me an IRL message and watch it arrive",
+      "https://hi.benren.au/"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 21:24:37",
       "https://news.ycombinator.com/item?id=38234689"
     ],
     [
       "A Rusty CHERI – The path to hardware capabilities in Rust [video]",
       "https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 21:12:23",
+      "https://news.ycombinator.com/item?id=38234580"
+    ],
+    [
+      "OCaml: a Rust developer's first impressions",
+      "https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/"
     ]
   ],
   [
@@ -61,42 +91,22 @@
   ],
   [
     [
+      "2023-11-11, 20:34:10",
+      "https://news.ycombinator.com/item?id=38234230"
+    ],
+    [
+      "The Newline Cat Mystery",
+      "https://www.petefreitag.com/item/1005.cfm"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 19:59:39",
       "https://news.ycombinator.com/item?id=38233938"
     ],
     [
       "CTF Writeup: Abusing select() to factor RSA",
       "https://threadreaderapp.com/thread/1723398619313603068.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 19:58:59",
-      "https://news.ycombinator.com/item?id=38233934"
-    ],
-    [
-      "John von Neumann Interview [video]",
-      "https://www.youtube.com/watch?v=vLbllFHBQM4"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 19:46:16",
-      "https://news.ycombinator.com/item?id=38233812"
-    ],
-    [
-      "Yarn-Mistral-7B-128k",
-      "https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 18:52:10",
-      "https://news.ycombinator.com/item?id=38233281"
-    ],
-    [
-      "Apple agrees to $25M settlement with US over hiring of immigrants",
-      "https://www.reuters.com/technology/apple-agrees-25-million-settlement-with-us-over-hiring-immigrants-2023-11-09/"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2023-11-11, 15:29:46",
+      "https://news.ycombinator.com/item?id=38231151"
+    ],
+    [
+      "Designing the longest range Electric Aircraft: The Solar Aircraft [video]",
+      "https://www.youtube.com/watch?v=1q2wpZrq888"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 14:18:19",
       "https://news.ycombinator.com/item?id=38230476"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-11-11, 13:28:04",
-      "https://news.ycombinator.com/item?id=38230120"
-    ],
-    [
-      "Are Sunk Costs Fallacies? (2012)",
-      "https://gwern.net/sunk-cost"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 11:33:42",
       "https://news.ycombinator.com/item?id=38229398"
     ],
     [
       "Horrible edge cases to consider when dealing with music (2022)",
       "https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 11:04:51",
-      "https://news.ycombinator.com/item?id=38229231"
-    ],
-    [
-      "How I got here",
-      "https://pthorpe92.github.io/intro/my-story/"
     ]
   ],
   [
