@@ -107,6 +107,7 @@
 * [2023-11-11, 03:14:53](https://news.ycombinator.com/item?id=38227324) - [The best place to shop is other people's lost luggage](https://www.washingtonpost.com/travel/2023/11/10/unclaimed-baggage-alabama-thrift-store/)
 * [2023-11-11, 02:47:32](https://news.ycombinator.com/item?id=38227188) - [Angus Deaton on inequality: 'The war on poverty has become a war on the poor'](https://www.theguardian.com/inequality/2023/oct/07/angus-deaton-interview-book-economics-in-america)
 * [2023-11-11, 02:32:20](https://news.ycombinator.com/item?id=38227112) - [The Mediterranean Iron Omni-Spear](https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/)
+* [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
 * [2023-11-11, 01:49:08](https://news.ycombinator.com/item?id=38226833) - [Web Design Is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period)
 * [2023-11-11, 01:35:17](https://news.ycombinator.com/item?id=38226743) - [Weird Debugging Tricks the Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 01:13:56](https://news.ycombinator.com/item?id=38226589) - [Codex documenting Aztec culture now digitized](https://hyperallergic.com/855683/stunning-florentine-codex-documenting-aztec-culture-now-fully-digitized/)
