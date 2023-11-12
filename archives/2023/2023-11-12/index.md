@@ -15,6 +15,7 @@
 * [2023-11-12, 15:54:49](https://news.ycombinator.com/item?id=38241237) - [Google dragged to UK watchdog over Chrome's upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
 * [2023-11-12, 15:54:46](https://news.ycombinator.com/item?id=38241235) - [Generate images fast with SD 1.5 while typing on Gradio](https://twitter.com/abidlabs/status/1723074108739706959)
 * [2023-11-12, 15:21:53](https://news.ycombinator.com/item?id=38240874) - [Ask HN: Why do we walk away from Single Page Applications?](https://news.ycombinator.com/item?id=38240874)
+* [2023-11-12, 15:20:41](https://news.ycombinator.com/item?id=38240861) - [The Steam Deck OLED spot ad was made with Steam Deck OLEDs](https://idlethumbs.social/@ja2ke/111396017651485944)
 * [2023-11-12, 15:06:55](https://news.ycombinator.com/item?id=38240691) - [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
 * [2023-11-12, 15:06:29](https://news.ycombinator.com/item?id=38240689) - [Matplotlib](https://matplotlib.org/)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)

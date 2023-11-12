@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-12, 18:25:00](https://news.ycombinator.com/item?id=38242758) - [U.S. service members' data is easy and cheap to purchase online, study finds](https://www.nbcnews.com/tech/security/us-service-members-data-easy-cheap-purchase-online-study-finds-rcna123064)
 * [2023-11-12, 17:59:10](https://news.ycombinator.com/item?id=38242510) - [Ask HN: Which sources cover AI developments without falling for the hype?](https://news.ycombinator.com/item?id=38242510)
 * [2023-11-12, 17:48:19](https://news.ycombinator.com/item?id=38242420) - [European digital identity: provisional agreement reached on eID](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
 * [2023-11-12, 17:30:06](https://news.ycombinator.com/item?id=38242244) - [Lockheed Martin Jets into Nuclear Electrical Spacecraft Power](https://www.lockheedmartin.com/en-us/news/features/2023/lockheed-martin-jets-into-nuclear-electrical-spacecraft-power.html)
@@ -10,6 +9,7 @@
 * [2023-11-12, 16:00:36](https://news.ycombinator.com/item?id=38241304) - [HTML First – Six principles for building simple, maintainable, web software](https://html-first.com/)
 * [2023-11-12, 15:54:49](https://news.ycombinator.com/item?id=38241237) - [Google dragged to UK watchdog over Chrome's upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
 * [2023-11-12, 15:54:46](https://news.ycombinator.com/item?id=38241235) - [Generate images fast with SD 1.5 while typing on Gradio](https://twitter.com/abidlabs/status/1723074108739706959)
+* [2023-11-12, 15:20:41](https://news.ycombinator.com/item?id=38240861) - [The Steam Deck OLED spot ad was made with Steam Deck OLEDs](https://idlethumbs.social/@ja2ke/111396017651485944)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
 * [2023-11-12, 14:31:39](https://news.ycombinator.com/item?id=38240363) - [Apple might have to pay that €13B EU tax bill after all](https://www.theregister.com/2023/11/11/apple_tax_bill_hiring/)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [FreeOberon cross-platform Oberon language IDE](https://free.oberon.org/en/)
