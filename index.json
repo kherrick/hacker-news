@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-11-11, 21:20:47",
-      "https://news.ycombinator.com/item?id=38234653"
-    ],
-    [
-      "It's OK If Your Code Is Just Good Enough",
-      "https://shiftmag.dev/code-quality-good-enough-2034/"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 21:12:23",
       "https://news.ycombinator.com/item?id=38234580"
     ],
@@ -257,6 +247,16 @@
     [
       "Horrible edge cases to consider when dealing with music (2022)",
       "https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 09:36:04",
+      "https://news.ycombinator.com/item?id=38228788"
+    ],
+    [
+      "Show HN: DataSheetGrid, an Airtable-like React component",
+      "https://react-datasheet-grid.netlify.app/"
     ]
   ],
   [
