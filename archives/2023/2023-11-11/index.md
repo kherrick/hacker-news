@@ -14,6 +14,7 @@
 * [2023-11-11, 22:13:51](https://news.ycombinator.com/item?id=38235116) - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
 * [2023-11-11, 21:30:48](https://news.ycombinator.com/item?id=38234746) - [Show HN: Send me an IRL message and watch it arrive](https://hi.benren.au/)
 * [2023-11-11, 21:27:14](https://news.ycombinator.com/item?id=38234716) - [Now that cars are like smartphones, we don't really own them](https://www.washingtonpost.com/technology/2023/11/10/car-right-to-repair/)
+* [2023-11-11, 21:26:18](https://news.ycombinator.com/item?id=38234705) - [Websurf: GNUStep web browser based on Netsurf](https://vcs.vera-visions.com/eukara/WebSurf)
 * [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 * [2023-11-11, 21:20:47](https://news.ycombinator.com/item?id=38234653) - [It's OK If Your Code Is Just Good Enough](https://shiftmag.dev/code-quality-good-enough-2034/)
 * [2023-11-11, 21:12:23](https://news.ycombinator.com/item?id=38234580) - [OCaml: a Rust developer's first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)

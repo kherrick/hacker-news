@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 12:05:18](https://news.ycombinator.com/item?id=38239453) - [Sam Altman: New version of GPT-4 Turbo now live in ChatGPT](https://twitter.com/sama/status/1723480961177010597)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny smd components](https://old.reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 11:08:00](https://news.ycombinator.com/item?id=38239211) - [How to attach logic probes to tiny SMD components (2021)](https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/)
 * [2023-11-12, 10:32:36](https://news.ycombinator.com/item?id=38239046) - [Happy Diwali HN](https://news.ycombinator.com/item?id=38239046)
