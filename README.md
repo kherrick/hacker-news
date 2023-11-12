@@ -2,10 +2,10 @@
 
 * [2023-11-12, 04:24:00](https://news.ycombinator.com/item?id=38237287) - [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
+* [2023-11-12, 00:52:01](https://news.ycombinator.com/item?id=38236168) - [Amazon Making Its Own Linux-Based OS to Replace Android](https://www.omgubuntu.co.uk/2023/11/amazon-vega-linux-based-os)
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 * [2023-11-11, 22:59:56](https://news.ycombinator.com/item?id=38235465) - [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
 * [2023-11-11, 22:52:21](https://news.ycombinator.com/item?id=38235407) - [Show HN: LLM Verified with Monte Carlo Tree Search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
-* [2023-11-11, 21:24:37](https://news.ycombinator.com/item?id=38234689) - [A Rusty CHERI – The path to hardware capabilities in Rust [video]](https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/)
 * [2023-11-11, 21:12:23](https://news.ycombinator.com/item?id=38234580) - [OCaml: a Rust developer's first impressions](https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/)
 * [2023-11-11, 21:02:18](https://news.ycombinator.com/item?id=38234476) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-11-11, 20:52:12](https://news.ycombinator.com/item?id=38234383) - [Show HN: Koelsynth – a simple FM synthesis library](https://github.com/charstorm/koelsynth)
