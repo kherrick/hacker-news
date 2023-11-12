@@ -2,7 +2,6 @@
 
 * [2023-11-12, 17:59:10](https://news.ycombinator.com/item?id=38242510) - [Ask HN: Which sources cover AI developments without falling for the hype?](https://news.ycombinator.com/item?id=38242510)
 * [2023-11-12, 17:50:37](https://news.ycombinator.com/item?id=38242445) - [The Conference for High Performance Computing, Networking, Storage, Analysis](https://sc23.supercomputing.org/)
-* [2023-11-12, 17:48:19](https://news.ycombinator.com/item?id=38242420) - [European digital identity: provisional agreement reached on eID](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
 * [2023-11-12, 17:29:30](https://news.ycombinator.com/item?id=38242233) - [Cars downloading text messages from phones doesn't violate state privacy law](https://arstechnica.com/tech-policy/2023/11/five-big-carmakers-beat-lawsuits-alleging-infotainment-systems-invade-privacy/)
 * [2023-11-12, 17:02:09](https://news.ycombinator.com/item?id=38241951) - [Sieve (YC W22), a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
 * [2023-11-12, 16:27:25](https://news.ycombinator.com/item?id=38241583) - [SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw)
@@ -27,6 +26,7 @@
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from Computing's Past](https://lewiscampbell.tech/blog/231112.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 17:34:00](https://news.ycombinator.com/item?id=38232397) - [Stargazers intersections for most popular GitHub projects in Venn diagrams](https://twitter.com/ashvardanian/status/1723393012728758565?s=20)
+* [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security](https://www.mattblaze.org/photos/locks.html)
 * [2023-11-10, 22:04:28](https://news.ycombinator.com/item?id=38225150) - [In the 'Wild West' of Geometry, Mathematicians Redefine the Sphere](https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/)
 * [2023-11-10, 21:41:40](https://news.ycombinator.com/item?id=38224920) - [Leonard vs. Pepsico, Inc](https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc.)
