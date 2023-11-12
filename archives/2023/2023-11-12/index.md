@@ -28,6 +28,7 @@
 * [2023-11-12, 15:20:41](https://news.ycombinator.com/item?id=38240861) - [The Steam Deck OLED spot ad was made with Steam Deck OLEDs](https://idlethumbs.social/@ja2ke/111396017651485944)
 * [2023-11-12, 15:06:55](https://news.ycombinator.com/item?id=38240691) - [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
 * [2023-11-12, 15:06:29](https://news.ycombinator.com/item?id=38240689) - [Matplotlib](https://matplotlib.org/)
+* [2023-11-12, 15:03:10](https://news.ycombinator.com/item?id=38240658) - [TorrentFreak Turns 18 Today](https://torrentfreak.com/torrentfreak-turns-18-today-hospital-edition-231112/)
 * [2023-11-12, 14:47:05](https://news.ycombinator.com/item?id=38240494) - [Show HN: I made an in-depth beginner's guide to AI](https://guides.ai/how-to-get-into-ai/)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
 * [2023-11-12, 14:35:17](https://news.ycombinator.com/item?id=38240402) - [Microsoft Temporarily Blocked Internal Access to ChatGPT, Citing Data Concerns](https://www.wsj.com/tech/microsoft-temporarily-blocked-internal-access-to-chatgpt-citing-data-concerns-c1ca475d)
