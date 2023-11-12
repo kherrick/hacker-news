@@ -7,6 +7,7 @@
 * [2023-11-11, 23:43:38](https://news.ycombinator.com/item?id=38235745) - [Rats have an imagination, new research suggests](https://www.sciencedaily.com/releases/2023/11/231102162557.htm)
 * [2023-11-11, 23:34:16](https://news.ycombinator.com/item?id=38235686) - [Is Threads winning the war with X?](https://www.cjr.org/the_media_today/threads_four_months_later.php)
 * [2023-11-11, 23:11:45](https://news.ycombinator.com/item?id=38235552) - [Google's New \"Help Me Script\" Automation](https://techthreedots.com/googles-new-help-me-script)
+* [2023-11-11, 22:59:56](https://news.ycombinator.com/item?id=38235465) - [RISC-V Ox64 BL808 SBC: Starting Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/ox2.html)
 * [2023-11-11, 22:24:16](https://news.ycombinator.com/item?id=38235192) - [SpaceX will launch the X-37B on a Falcon Heavy rocket Dec. 7](https://www.space.com/space-force-x-37b-spacex-falcon-heavy-1st-launch-dec-2023)
 * [2023-11-11, 22:15:52](https://news.ycombinator.com/item?id=38235133) - [Only 15% of Californians can afford a home, new data shows](https://ktla.com/news/california/only-15-of-californians-can-afford-a-home-new-data-shows/)
 * [2023-11-11, 22:13:51](https://news.ycombinator.com/item?id=38235116) - [Fedora Workstation 39](https://fedoraproject.org/workstation/download/)
