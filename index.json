@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-11-11, 22:52:21",
+      "https://news.ycombinator.com/item?id=38235407"
+    ],
+    [
+      "Show HN: LLM Verified with Monte Carlo Tree Search",
+      "https://github.com/namin/llm-verified-with-monte-carlo-tree-search"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 21:24:37",
       "https://news.ycombinator.com/item?id=38234689"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2023-11-11, 14:16:17",
-      "https://news.ycombinator.com/item?id=38230453"
-    ],
-    [
-      "Show HN: Generate pdf with gitbook or mdbook url",
-      "https://github.com/lufengd3/htmlbook2pdf"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 14:16:08",
       "https://news.ycombinator.com/item?id=38230449"
     ],
     [
       "What I Know About Community Building (2020)",
       "https://medium.com/swlh/what-i-know-about-community-building-939aeac0aa7"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 13:59:16",
-      "https://news.ycombinator.com/item?id=38230325"
-    ],
-    [
-      "Show HN: I spent 6 months building a C debugger as a 17-year-old",
-      "https://github.com/d4ckard/spray"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "6502 back end for LLVM [video]",
       "https://www.youtube.com/watch?v=2lW3WHPtmKo"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 22:59:54",
+      "https://news.ycombinator.com/item?id=38225724"
+    ],
+    [
+      "System Transparency: a security architecture for bare-metal servers",
+      "https://www.system-transparency.org/"
     ]
   ]
 ]
