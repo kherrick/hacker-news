@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-11-12, 12:35:37",
+      "https://news.ycombinator.com/item?id=38239585"
+    ],
+    [
+      "Scary Hasty",
+      "https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 12:27:34",
+      "https://news.ycombinator.com/item?id=38239542"
+    ],
+    [
+      "Upcoming changes to Rust's borrow checker",
+      "https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 12:05:18",
       "https://news.ycombinator.com/item?id=38239453"
     ],
     [
-      "Sam Altman: New version of GPT-4 Turbo now live in ChatGPT",
+      "There is a new version of GPT-4 Turbo now live in ChatGPT",
       "https://twitter.com/sama/status/1723480961177010597"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 11:39:07",
+      "https://news.ycombinator.com/item?id=38239348"
+    ],
+    [
+      "FBI Crime Data Explorer",
+      "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 11:20:20",
+      "https://news.ycombinator.com/item?id=38239266"
+    ],
+    [
+      "Australia locks down ports after ‘nationally significant’ cyberattack",
+      "https://www.independent.co.uk/news/world/australasia/australia-ports-cyber-attack-dp-world-b2445634.html"
     ]
   ],
   [
@@ -17,6 +57,16 @@
     [
       "How to attach logic probes to tiny SMD components (2021)",
       "https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 09:43:15",
+      "https://news.ycombinator.com/item?id=38238796"
+    ],
+    [
+      "RIP Google Groups Dejanews.com Archive",
+      "http://dejanews.com/"
     ]
   ],
   [
@@ -37,16 +87,6 @@
     [
       "Map of Space Invader Mosaics in Paris",
       "https://pnote.eu/projects/invaders/map.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 08:02:22",
-      "https://news.ycombinator.com/item?id=38238301"
-    ],
-    [
-      "NetBSD 10.0 RC1",
-      "https://netbsd.org/releases/formal-10/NetBSD-10.0.html"
     ]
   ],
   [
@@ -121,42 +161,12 @@
   ],
   [
     [
-      "2023-11-11, 21:26:18",
-      "https://news.ycombinator.com/item?id=38234705"
-    ],
-    [
-      "Websurf: GNUStep web browser based on Netsurf",
-      "https://vcs.vera-visions.com/eukara/WebSurf"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 21:12:23",
-      "https://news.ycombinator.com/item?id=38234580"
-    ],
-    [
-      "OCaml: a Rust developer's first impressions",
-      "https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 20:34:10",
       "https://news.ycombinator.com/item?id=38234230"
     ],
     [
-      "The Newline Cat Mystery",
+      "The newline cat mystery",
       "https://www.petefreitag.com/item/1005.cfm"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 19:59:39",
-      "https://news.ycombinator.com/item?id=38233938"
-    ],
-    [
-      "CTF Writeup: Abusing select() to factor RSA",
-      "https://threadreaderapp.com/thread/1723398619313603068.html"
     ]
   ],
   [
@@ -177,26 +187,6 @@
     [
       "Qanat",
       "https://en.wikipedia.org/wiki/Qanat"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 15:29:46",
-      "https://news.ycombinator.com/item?id=38231151"
-    ],
-    [
-      "Designing the longest range Electric Aircraft: The Solar Aircraft [video]",
-      "https://www.youtube.com/watch?v=1q2wpZrq888"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 11:33:42",
-      "https://news.ycombinator.com/item?id=38229398"
-    ],
-    [
-      "Horrible edge cases to consider when dealing with music (2022)",
-      "https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Unearthing Gems in an Archive of Rock Star Interviews",
       "https://www.atlasobscura.com/articles/katz-collection-rock-star-interviews"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 21:41:40",
+      "https://news.ycombinator.com/item?id=38224920"
+    ],
+    [
+      "Leonard vs. Pepsico, Inc",
+      "https://en.wikipedia.org/wiki/Leonard_v._Pepsico,_Inc."
     ]
   ],
   [
