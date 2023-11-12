@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 18:25:00](https://news.ycombinator.com/item?id=38242758) - [U.S. service members' data is easy and cheap to purchase online, study finds](https://www.nbcnews.com/tech/security/us-service-members-data-easy-cheap-purchase-online-study-finds-rcna123064)
 * [2023-11-12, 17:59:10](https://news.ycombinator.com/item?id=38242510) - [Ask HN: Which sources cover AI developments without falling for the hype?](https://news.ycombinator.com/item?id=38242510)
 * [2023-11-12, 17:48:19](https://news.ycombinator.com/item?id=38242420) - [European digital identity: provisional agreement reached on eID](https://www.consilium.europa.eu/en/press/press-releases/2023/11/08/european-digital-identity-council-and-parliament-reach-a-provisional-agreement-on-eid/)
 * [2023-11-12, 17:30:06](https://news.ycombinator.com/item?id=38242244) - [Lockheed Martin Jets into Nuclear Electrical Spacecraft Power](https://www.lockheedmartin.com/en-us/news/features/2023/lockheed-martin-jets-into-nuclear-electrical-spacecraft-power.html)
