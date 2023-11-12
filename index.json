@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 01:56:58",
+      "https://news.ycombinator.com/item?id=38236519"
+    ],
+    [
+      "Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid",
+      "https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 00:32:01",
       "https://news.ycombinator.com/item?id=38236039"
     ],
@@ -21,26 +31,6 @@
   ],
   [
     [
-      "2023-11-11, 23:34:16",
-      "https://news.ycombinator.com/item?id=38235686"
-    ],
-    [
-      "Is Threads winning the war with X?",
-      "https://www.cjr.org/the_media_today/threads_four_months_later.php"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 23:11:45",
-      "https://news.ycombinator.com/item?id=38235552"
-    ],
-    [
-      "Google's New \"Help Me Script\" Automation",
-      "https://techthreedots.com/googles-new-help-me-script"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 22:13:51",
       "https://news.ycombinator.com/item?id=38235116"
     ],
@@ -57,16 +47,6 @@
     [
       "A Rusty CHERI – The path to hardware capabilities in Rust [video]",
       "https://archive.fosdem.org/2023/schedule/event/rust_a_rusty_cheri_the_path_to_hardware_capabilities_in_rust/"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 21:20:47",
-      "https://news.ycombinator.com/item?id=38234653"
-    ],
-    [
-      "It's OK If Your Code Is Just Good Enough",
-      "https://shiftmag.dev/code-quality-good-enough-2034/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-11-11, 03:44:47",
+      "https://news.ycombinator.com/item?id=38227451"
+    ],
+    [
+      "'Super melanin' heals skin injuries from sunburn, chemical burns",
+      "https://medicalxpress.com/news/2023-11-super-melanin-skin-injuries-sunburn.html"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 02:32:20",
       "https://news.ycombinator.com/item?id=38227112"
     ],
     [
       "The Mediterranean Iron Omni-Spear",
       "https://acoup.blog/2023/11/10/collections-the-mediterranean-iron-omni-spear/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 01:49:08",
+      "https://news.ycombinator.com/item?id=38226833"
+    ],
+    [
+      "Web Design Is 95% Typography",
+      "https://ia.net/topics/the-web-is-all-about-typography-period"
     ]
   ]
 ]
