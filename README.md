@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-12, 15:21:53](https://news.ycombinator.com/item?id=38240874) - [Ask HN: Why do we walk away from Single Page Applications?](https://news.ycombinator.com/item?id=38240874)
+* [2023-11-12, 16:00:36](https://news.ycombinator.com/item?id=38241304) - [HTML First – Six principles for building simple, maintainable, web software](https://html-first.com/)
+* [2023-11-12, 15:54:49](https://news.ycombinator.com/item?id=38241237) - [Google dragged to UK watchdog over Chrome's upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
 * [2023-11-12, 15:06:55](https://news.ycombinator.com/item?id=38240691) - [Yadea unveils 99 MPH electric motorcycle that charges in 10 minutes](https://electrek.co/2023/11/11/yadea-unveils-99-mph-electric-motorcycle-that-charges-in-10-minutes/)
 * [2023-11-12, 15:06:29](https://news.ycombinator.com/item?id=38240689) - [Matplotlib](https://matplotlib.org/)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
@@ -22,7 +23,6 @@
 * [2023-11-12, 07:02:36](https://news.ycombinator.com/item?id=38238025) - [Supabase (YC S20) Is Hiring a RevOps Lead (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5006313004)
 * [2023-11-12, 05:54:06](https://news.ycombinator.com/item?id=38237696) - [An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim key binder for Windows](https://pit-ray.github.io/win-vind/)
-* [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 05:18:28](https://news.ycombinator.com/item?id=38227852) - [Oldest Pyramid Found Not in Egypt or Americas, but in Indonesia](https://www.atlasobscura.com/articles/oldest-pyramid-indonesia)
 * [2023-11-11, 01:56:57](https://news.ycombinator.com/item?id=38226891) - [Why the Human Brain Perceives Small Numbers Better](https://www.quantamagazine.org/why-the-human-brain-perceives-small-numbers-better-20231109/)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security](https://www.mattblaze.org/photos/locks.html)
