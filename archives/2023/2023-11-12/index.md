@@ -6,4 +6,5 @@
 
 * [2023-11-12, 02:35:04](https://news.ycombinator.com/item?id=38236701) - [Cybertruck buyers forbidden from selling for the first year](https://www.threads.net/@emperorswithoutclothes/post/CzhwpeNrIJy)
 * [2023-11-12, 01:56:58](https://news.ycombinator.com/item?id=38236519) - [Tesla's Supercharger cost revealed to be just 1/5th of the competition in bid](https://electrek.co/2022/04/15/tesla-cost-deploy-superchargers-revealed-one-fifth-competition/)
+* [2023-11-12, 01:12:03](https://news.ycombinator.com/item?id=38236285) - [CodeCrafters CEO adds his paid service as a next step after finishing Rustlings](https://github.com/rust-lang/rustlings/pull/1760)
 * [2023-11-12, 00:32:01](https://news.ycombinator.com/item?id=38236039) - [Formula 1 didn't realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
