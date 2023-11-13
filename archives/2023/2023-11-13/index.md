@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 20:32:38](https://news.ycombinator.com/item?id=38255004) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-13, 20:22:16](https://news.ycombinator.com/item?id=38254866) - [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
 * [2023-11-13, 20:20:00](https://news.ycombinator.com/item?id=38254835) - [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
 * [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner just paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
