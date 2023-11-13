@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-* [2023-11-13, 19:22:51](https://news.ycombinator.com/item?id=38254086) - [The Supreme Court is adopting a code of ethics for the first time](https://apnews.com/article/supreme-court-ethics-code-conflicts-clarence-thomas-64d393ceb6f05402d762dca06f0f4187)
+* [2023-11-13, 19:22:51](https://news.ycombinator.com/item?id=38254086) - [The US Supreme Court says it is adopting a code of ethics for the first time](https://apnews.com/article/supreme-court-ethics-code-conflicts-clarence-thomas-64d393ceb6f05402d762dca06f0f4187)
 * [2023-11-13, 19:19:16](https://news.ycombinator.com/item?id=38254040) - [Ubuntu Pro Shenanigans](https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/)
 * [2023-11-13, 18:26:03](https://news.ycombinator.com/item?id=38253384) - [Google pays Apple 36% of the revenue it earns from searches in Safari](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
 * [2023-11-13, 18:06:56](https://news.ycombinator.com/item?id=38253130) - [Forests with multiple tree species are more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
@@ -10,7 +10,7 @@
 * [2023-11-13, 17:08:21](https://news.ycombinator.com/item?id=38252449) - [Cosmological galaxy formation simulation software](https://www.tng-project.org/about/)
 * [2023-11-13, 16:22:06](https://news.ycombinator.com/item?id=38251957) - [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
-* [2023-11-13, 16:12:44](https://news.ycombinator.com/item?id=38251842) - [Smarter Summaries with Finetuning GPT-3.5 and Chain of Density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
+* [2023-11-13, 16:12:44](https://news.ycombinator.com/item?id=38251842) - [Smarter summaries with finetuning GPT-3.5 and chain of density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:07:42](https://news.ycombinator.com/item?id=38251002) - [Show HN: Twogether AI – Multi-Person Photo Generation API](https://twogether.ai/?source=hn)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
