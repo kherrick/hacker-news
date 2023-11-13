@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 14:22:00](https://news.ycombinator.com/item?id=38250382) - [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
@@ -21,7 +22,6 @@
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties (2021)](https://www.troyhunt.com/beg-bounties/)
 * [2023-11-13, 00:19:47](https://news.ycombinator.com/item?id=38245542) - [The Life Sentence](https://isonomiaquarterly.com/archive/volume-1-issue-1/the-life-sentence/)
-* [2023-11-12, 23:26:31](https://news.ycombinator.com/item?id=38245198) - [A kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
 * [2023-11-12, 04:13:55](https://news.ycombinator.com/item?id=38237230) - [A Design History of L.A.'S Dingbat Apartment Buildings (2021)](https://www.bloomberg.com/news/features/2021-09-24/a-design-history-of-l-a-s-dingbat-apartment-buildings)
 * [2023-11-12, 00:57:16](https://news.ycombinator.com/item?id=38236198) - [Show HN: Bulk Creation of Transcripts from YouTube Playlists with Whisper](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist)
 * [2023-11-12, 00:45:29](https://news.ycombinator.com/item?id=38236128) - [Hacking a 25 Year Old Game to Make It Work [video]](https://www.youtube.com/watch?v=eQOOx4mmY6I)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 14:29:27](https://news.ycombinator.com/item?id=38250470) - [Ask HN: Does \"trust\" eliminate the need for code reviews?](https://news.ycombinator.com/item?id=38250470)
