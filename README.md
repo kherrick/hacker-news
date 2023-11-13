@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 16:43:03](https://news.ycombinator.com/item?id=38252172) - [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
 * [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD Is Using Drones 3X More Than It Used To](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
-* [2023-11-13, 13:36:23](https://news.ycombinator.com/item?id=38249938) - [Tragedy of return to hostile offices](https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/)
 * [2023-11-13, 13:14:17](https://news.ycombinator.com/item?id=38249742) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 13:04:53](https://news.ycombinator.com/item?id=38249664) - [Micron Introduces 128 GB DDR5-8000 RDIMMs with Monolithic 32 GB Die](https://www.anandtech.com/show/21129/micron-introduces-128-gb-ddr58000-rdimms-with-monolithic-32-gb-dice)
 * [2023-11-13, 12:57:51](https://news.ycombinator.com/item?id=38249616) - [Compressing Codebase Collocates](https://taylor.town/code-collocates)
