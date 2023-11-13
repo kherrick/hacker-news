@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 23:08:35](https://news.ycombinator.com/item?id=38256608) - [Czech news crew in SF covering APEC robbed at gunpoint while filming](https://www.sfchronicle.com/sf/article/apec-news-crew-czech-robbery-city-lights-18488613.php)
 * [2023-11-13, 22:51:45](https://news.ycombinator.com/item?id=38256478) - [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
 * [2023-11-13, 22:32:12](https://news.ycombinator.com/item?id=38256283) - [What if climate change meant not doom – but abundance?](https://www.washingtonpost.com/opinions/2023/03/15/rebecca-solnit-climate-change-wealth-abundance/)
 * [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
