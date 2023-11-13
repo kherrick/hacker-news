@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 18:13:15](https://news.ycombinator.com/item?id=38253212) - [Flexport Is Hiring SDRs](https://flexport.com/careers)
+* [2023-11-13, 18:08:32](https://news.ycombinator.com/item?id=38253146) - [You need a mental model of LLMs to build or use a LLM-based product](https://about.sourcegraph.com/blog/llm-mental-models)
+* [2023-11-13, 18:06:56](https://news.ycombinator.com/item?id=38253130) - [Forests with multiple tree species are 70% more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
 * [2023-11-13, 17:20:32](https://news.ycombinator.com/item?id=38252625) - [How to Fathom Climate Change's Unfathomable Numbers](https://www.bloomberg.com/news/articles/2023-11-11/how-to-fathom-climate-change-s-unfathomable-numbers)
+* [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-13, 17:01:10](https://news.ycombinator.com/item?id=38252360) - [A Revolution in Computer Graphics Is Bringing 3D Reality Capture to the Masses](https://singularityhub.com/2023/11/06/a-revolution-in-computer-graphics-is-bringing-3d-reality-capture-to-the-masses/)
 * [2023-11-13, 16:48:05](https://news.ycombinator.com/item?id=38252215) - [Adulthood Is a Mirage](https://www.thecut.com/2023/11/adulthood-is-a-mirage.html)
 * [2023-11-13, 16:46:40](https://news.ycombinator.com/item?id=38252203) - [EU Official Hopes X Will Face \"Peer Pressure\" to Hire More Censors](https://reclaimthenet.org/eu-official-hopes-x-will-face-peer-pressure-to-hire-more-censors)
@@ -27,6 +31,7 @@
 * [2023-11-13, 12:57:51](https://news.ycombinator.com/item?id=38249616) - [Compressing Codebase Collocates](https://taylor.town/code-collocates)
 * [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Netflix Loses Patent Dispute to Broadcom in Germany, Ordered to Stop Using HEVC](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
+* [2023-11-13, 12:23:42](https://news.ycombinator.com/item?id=38249404) - [URL Explained – The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
 * [2023-11-13, 12:17:25](https://news.ycombinator.com/item?id=38249366) - [Self-service: Booths supermarket puts staff back behind its tills](https://www.bbc.co.uk/news/uk-england-lancashire-67373472)
 * [2023-11-13, 12:10:07](https://news.ycombinator.com/item?id=38249316) - [Pistachio Billionaires Accused of Artwashing California's Water Crisis](https://hyperallergic.com/855658/pistachio-billionaires-lynda-stewart-resnick-accused-of-artwashing-california-water-crisis/)
 * [2023-11-13, 12:08:03](https://news.ycombinator.com/item?id=38249300) - [TikTok banned in tiny Asian nation – Nepal](https://thehimalayantimes.com/kathmandu/govt-bans-tiktok-in-nepal)
