@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 23:24:12](https://news.ycombinator.com/item?id=38245187) - [Geohash](https://en.wikipedia.org/wiki/Geohash)
+* [2023-11-12, 22:21:48](https://news.ycombinator.com/item?id=38244703) - [GM Backed \"Open Source Protocol\" for Connecting Vehicle Apps and Services](https://projects.eclipse.org/projects/automotive.uprotocol)
 * [2023-11-12, 22:19:12](https://news.ycombinator.com/item?id=38244680) - [Classical liberals are increasingly religious](https://marginalrevolution.com/marginalrevolution/2023/11/religious-classical-liberals.html)
 * [2023-11-12, 21:57:58](https://news.ycombinator.com/item?id=38244512) - [Effective Altruism Is a Welter of Lies, Hypocrisy, and Eugenic Fantasies](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/)
 * [2023-11-12, 21:17:02](https://news.ycombinator.com/item?id=38244149) - [Porsche Open Source Platform](https://opensource.porsche.com/)
 * [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
 * [2023-11-12, 20:18:50](https://news.ycombinator.com/item?id=38243722) - [Are compostable coffee cups any better for the environment?](https://www.abc.net.au/news/2023-11-10/compostable-packaging-explained/102951718)
 * [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
+* [2023-11-12, 18:50:43](https://news.ycombinator.com/item?id=38242992) - [Days of The Jackal: how Andrew Wylie turned serious literature into big business](https://www.theguardian.com/books/2023/nov/09/andrew-wylie-agency-days-of-the-jackal-serious-literature-big-business)
 * [2023-11-12, 18:45:48](https://news.ycombinator.com/item?id=38242946) - [A truly incredible fact about the number 37](https://grossack.site/2023/11/08/37-median.html)
 * [2023-11-12, 18:25:00](https://news.ycombinator.com/item?id=38242758) - [U.S. service members' data is easy and cheap to purchase online, study finds](https://www.nbcnews.com/tech/security/us-service-members-data-easy-cheap-purchase-online-study-finds-rcna123064)
 * [2023-11-12, 17:59:10](https://news.ycombinator.com/item?id=38242510) - [Ask HN: Which sources cover AI developments without falling for the hype?](https://news.ycombinator.com/item?id=38242510)
@@ -23,6 +26,7 @@
 * [2023-11-12, 17:04:05](https://news.ycombinator.com/item?id=38241974) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 17:02:09](https://news.ycombinator.com/item?id=38241951) - [Sieve (YC W22), a video/audio AI cloud, is hiring AI / product engineers](https://sievedata.com/about/jobs)
 * [2023-11-12, 16:38:32](https://news.ycombinator.com/item?id=38241697) - [Iceland declares state of emergency, braces for volcanic eruption [28 min ago]](https://www.ft.com/content/71f3e333-850a-478d-9f17-4664813443de)
+* [2023-11-12, 16:36:00](https://news.ycombinator.com/item?id=38241674) - [The evolution of expert communities](https://lcamtuf.substack.com/p/the-evolution-of-expert-communities)
 * [2023-11-12, 16:27:25](https://news.ycombinator.com/item?id=38241583) - [SanDisk Extreme Pro Failures Result from Design Flaw, Says Researcher](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw)
 * [2023-11-12, 16:00:36](https://news.ycombinator.com/item?id=38241304) - [HTML First – Six principles for building simple, maintainable, web software](https://html-first.com/)
 * [2023-11-12, 15:54:49](https://news.ycombinator.com/item?id=38241237) - [Google dragged to UK watchdog over Chrome's upcoming IP address cloaking](https://www.theregister.com/2023/11/11/google_proxy_plan_cma/)
