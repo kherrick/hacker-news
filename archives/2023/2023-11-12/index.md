@@ -93,4 +93,5 @@
 * [2023-11-12, 00:57:16](https://news.ycombinator.com/item?id=38236198) - [Show HN: Bulk Creation of Transcripts from YouTube Playlists with Whisper](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist)
 * [2023-11-12, 00:52:01](https://news.ycombinator.com/item?id=38236168) - [Amazon Making Its Own Linux-Based OS to Replace Android](https://www.omgubuntu.co.uk/2023/11/amazon-vega-linux-based-os)
 * [2023-11-12, 00:50:02](https://news.ycombinator.com/item?id=38236155) - [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
+* [2023-11-12, 00:45:29](https://news.ycombinator.com/item?id=38236128) - [Hacking a 25 Year Old Game to Make It Work [video]](https://www.youtube.com/watch?v=eQOOx4mmY6I)
 * [2023-11-12, 00:32:01](https://news.ycombinator.com/item?id=38236039) - [Formula 1 didn't realize Las Vegas would be cold in November](https://jalopnik.com/formula-1-didnt-realize-las-vegas-would-be-cold-in-nove-1851011607)
