@@ -129,21 +129,6 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="38253212">
-          <h3>
-            <a class="item" href="https://flexport.com/careers"
-              >Flexport Is Hiring SDRs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-13 @ 18:13:15</span
-              ><span class="points-container"
-                >Points: <span class="points">0</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="38253146">
           <h3>
             <a
@@ -157,11 +142,11 @@
             <h4>
               <span>2023-11-13 @ 18:08:32</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38253146"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -171,21 +156,137 @@
             <a
               class="item"
               href="https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html"
-              >Forests with multiple tree species are 70% more effective as
-              carbon sinks</a
+              >Forests with multiple tree species are more effective as carbon
+              sinks</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-11-13 @ 18:06:56</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38253130"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="38252963">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=38252963"
+              >Show HN: Bitemporal, Binary JSON Database System and Event
+              Store</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-13 @ 17:51:42</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38252963"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>So, what is it all about?</p>
+              <p>
+                The system uses ideas from ZFS (a keyed index trie, storing
+                checksums in parent pages...) and Git (a persistent index
+                structure that shares unchanged pages between revisions) but
+                appends new tree roots on each commit [1][2].
+              </p>
+              <p>
+                It is a JSON DBS. The system stores fine granular JSON nodes.
+                Thus, there's almost no limit to the structure and size of an
+                object. Objects can be arbitrarily nested, and updates are
+                cheap.
+              </p>
+              <p>
+                On a high level, it supports space-efficient snapshots, tracking
+                changes by an author / optional commit messages, time travel
+                queries, reverting to previous revisions (while all revisions
+                in-between still exist for audits...), or retrieving the changes
+                of whole (sub)trees.
+              </p>
+              <p>
+                On the one hand, it's, thus, a bitemporal DBS, but on the other
+                hand, it can be used as a simple event store. It stores the
+                state after an event or a change occurs and tracks the changes.
+              </p>
+              <p>
+                Thus, an entity, a node in the JSON structure, can be updated to
+                new values and eventually be removed while the history is easily
+                retrievable, or we can easily revert to a previous state. The
+                system assigns a unique ID to each new node, which never changes
+                and is never reused (even after the deletion of the node). Thus,
+                the system stores the state after the change/event and the event
+                itself (the change event).
+              </p>
+              <p>
+                The leaf pages of the index structures are not simply copied
+                during a write, but a sliding window algorithm is applied, such
+                that only modified nodes and nodes that fall out of the sliding
+                window have to be written. A predefined window length is
+                configurable. The system avoids write-peaks, which would occur
+                due to full snapshots and having to read a long chain of
+                incremental changes in between.
+              </p>
+              <p>
+                Thus, it's best suited for fast flash drives with fast random
+                reads and sequential writes. Data is never overwritten thus,
+                audit trails are given for free.
+              </p>
+              <p>
+                Another aspect is that the system does not need a WAL (that is
+                basically a second data store) due to atomic switches of a root
+                index page and a single permitted read/write transaction (txn)
+                concurrently and in parallel to N read-only txns, which are
+                bound to specific revisions during the start. Reads do not
+                involve any locks.[2]
+              </p>
+              <p>
+                A path summary, an unordered set of all paths to leaf nodes in
+                the tree, is built and enables various optimizations.
+                Furthermore, a rolling hash is optionally built, whereas all
+                ancestor node hashes are adapted during inserts.
+              </p>
+              <p>
+                A dated Jupyter notebook with some examples can be found in [3],
+                and overall documentation in [4].
+              </p>
+              <p>
+                The query engine[5] Brackit is retargetable (a couple of
+                interfaces and rewrite rules have to be implemented for DB
+                systems) and especially finds implicit joins and applies known
+                algorithms from the relational DB systems world to optimize
+                joins and aggregate functions due to set-oriented processing of
+                the operators.[6]
+              </p>
+              <p>
+                I've given an interview in [7], but I'm usually very nervous, so
+                don't judge too harshly.
+              </p>
+              <p>Give it a try, and happy coding!</p>
+              <p>Kind regards</p>
+              <p>Johannes</p>
+              <p>[1] https://sirix.io | https://github.com/sirixdb/sirix</p>
+              <p>[2] https://sirix.io/docs/concepts.html</p>
+              <p>
+                [3]
+                https://colab.research.google.com/drive/1NNn1nwSbK6hAekzo1YbED52RI3NMqqbG#scrollTo=CBWQIvc0Ov3P
+              </p>
+              <p>[4] https://sirix.io/docs/</p>
+              <p>[5] http://brackit.io</p>
+              <p>
+                [6]
+                https://colab.research.google.com/drive/19eC-UfJVm_gCjY--koOWN50sgiFa5hSC
+              </p>
+              <p>[7] https://youtu.be/Ee-5ruydgqo?si=Ift73d49w84RJWb2</p>
+            </div>
           </section>
         </section>
         <section id="38252625">
@@ -200,11 +301,11 @@
             <h4>
               <span>2023-11-13 @ 17:20:32</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38252625"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -220,7 +321,7 @@
             <h4>
               <span>2023-11-13 @ 17:17:14</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38252566"
                   >Comments</a
@@ -265,7 +366,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38252360"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -283,11 +384,11 @@
             <h4>
               <span>2023-11-13 @ 16:22:06</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38251957"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -304,7 +405,7 @@
             <h4>
               <span>2023-11-13 @ 16:20:09</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38251935"
                   >Comments</a
@@ -325,11 +426,11 @@
             <h4>
               <span>2023-11-13 @ 16:12:44</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38251842"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -346,11 +447,11 @@
             <h4>
               <span>2023-11-13 @ 16:12:39</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38251841"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -367,11 +468,11 @@
             <h4>
               <span>2023-11-13 @ 15:31:43</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38251330"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -389,11 +490,32 @@
             <h4>
               <span>2023-11-13 @ 15:01:11</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38250913"
                   >Comments</a
                 ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38250114">
+          <h3>
+            <a
+              class="item"
+              href="https://depts.washington.edu/acelab/proj/dollar/index.html"
+              >$1 Unistroke Recognizer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-13 @ 13:53:30</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38250114"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -408,7 +530,7 @@
             <h4>
               <span>2023-11-13 @ 13:42:37</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38250001"
                   >Comments</a
@@ -430,33 +552,11 @@
             <h4>
               <span>2023-11-13 @ 13:14:17</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38249742"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38249664">
-          <h3>
-            <a
-              class="item"
-              href="https://www.anandtech.com/show/21129/micron-introduces-128-gb-ddr58000-rdimms-with-monolithic-32-gb-dice"
-              >Micron Introduces 128 GB DDR5-8000 RDIMMs with Monolithic 32 GB
-              Die</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-13 @ 13:04:53</span
-              ><span class="points-container"
-                >Points: <span class="points">62</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38249664"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -490,11 +590,11 @@
             <h4>
               <span>2023-11-13 @ 12:34:54</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38249473"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -532,7 +632,7 @@
             <h4>
               <span>2023-11-13 @ 10:51:20</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38248900"
                   >Comments</a
@@ -554,11 +654,11 @@
             <h4>
               <span>2023-11-13 @ 09:36:16</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38248532"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
           </section>
@@ -615,7 +715,7 @@
             <h4>
               <span>2023-11-13 @ 07:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38247964"
                   >Comments</a
@@ -636,7 +736,7 @@
             <h4>
               <span>2023-11-13 @ 05:20:51</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38247234"
                   >Comments</a
@@ -661,7 +761,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38237230"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -676,7 +776,7 @@
             <h4>
               <span>2023-11-12 @ 00:45:29</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38236128"
                   >Comments</a
@@ -697,11 +797,11 @@
             <h4>
               <span>2023-11-11 @ 15:30:16</span
               ><span class="points-container"
-                >Points: <span class="points">313</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38231160"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 201</span></span
               >
             </h4>
           </section>
@@ -718,11 +818,11 @@
             <h4>
               <span>2023-11-11 @ 07:37:03</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38228320"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -739,7 +839,7 @@
             <h4>
               <span>2023-11-11 @ 07:34:13</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38228310"
                   >Comments</a
