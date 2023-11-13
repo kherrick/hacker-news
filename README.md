@@ -2,7 +2,6 @@
 
 * [2023-11-13, 03:48:44](https://news.ycombinator.com/item?id=38246668) - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
 * [2023-11-13, 03:42:47](https://news.ycombinator.com/item?id=38246624) - [Google pulls Fitbit from almost 30 markets](https://mobilesyrup.com/2023/11/10/google-pulls-fitbit-29-markets-canada-safe/)
-* [2023-11-13, 03:23:27](https://news.ycombinator.com/item?id=38246521) - [Is capitalism dead? Yanis Varoufakis thinks it is – and he knows who killed it](https://theconversation.com/is-capitalism-dead-yanis-varoufakis-thinks-it-is-and-he-knows-who-killed-it-213992)
 * [2023-11-13, 03:05:05](https://news.ycombinator.com/item?id=38246413) - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
 * [2023-11-13, 02:33:35](https://news.ycombinator.com/item?id=38246226) - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
@@ -21,6 +20,7 @@
 * [2023-11-12, 15:54:46](https://news.ycombinator.com/item?id=38241235) - [Generate images fast with SD 1.5 while typing on Gradio](https://twitter.com/abidlabs/status/1723074108739706959)
 * [2023-11-12, 14:32:13](https://news.ycombinator.com/item?id=38240370) - [How to Share a Secret (Shamir Secret Sharing)](https://www.vicyyn.com/blog/shamir-secret-sharing)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [Free Oberon: Cross-platform Oberon IDE](https://free.oberon.org/en/)
+* [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from computing's past](https://lewiscampbell.tech/blog/231112.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 13:33:59](https://news.ycombinator.com/item?id=38230161) - [RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
