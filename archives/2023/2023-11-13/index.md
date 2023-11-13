@@ -8,6 +8,7 @@
 * [2023-11-13, 03:42:47](https://news.ycombinator.com/item?id=38246624) - [Google pulls Fitbit from almost 30 markets](https://mobilesyrup.com/2023/11/10/google-pulls-fitbit-29-markets-canada-safe/)
 * [2023-11-13, 03:23:27](https://news.ycombinator.com/item?id=38246521) - [Is capitalism dead? Yanis Varoufakis thinks it is – and he knows who killed it](https://theconversation.com/is-capitalism-dead-yanis-varoufakis-thinks-it-is-and-he-knows-who-killed-it-213992)
 * [2023-11-13, 03:05:05](https://news.ycombinator.com/item?id=38246413) - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
+* [2023-11-13, 03:01:28](https://news.ycombinator.com/item?id=38246395) - [String theory lied to us and now science communication is hard [video]](https://www.youtube.com/watch?v=kya_LXa_y1E)
 * [2023-11-13, 02:33:35](https://news.ycombinator.com/item?id=38246226) - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
