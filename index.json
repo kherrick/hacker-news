@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-13, 01:04:36",
+      "https://news.ycombinator.com/item?id=38245762"
+    ],
+    [
+      "The Diamond World Takes Radical Steps to Stop a Pricing Plunge",
+      "https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 23:39:21",
+      "https://news.ycombinator.com/item?id=38245295"
+    ],
+    [
+      "I-10 closure in California prompts state of emergency",
+      "https://www.sfgate.com/bayarea/article/i-10-closure-california-state-of-emergency-18486449.php"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 23:24:12",
       "https://news.ycombinator.com/item?id=38245187"
     ],
@@ -11,12 +31,22 @@
   ],
   [
     [
-      "2023-11-12, 22:21:48",
-      "https://news.ycombinator.com/item?id=38244703"
+      "2023-11-12, 22:49:33",
+      "https://news.ycombinator.com/item?id=38244927"
     ],
     [
-      "GM Backed \"Open Source Protocol\" for Connecting Vehicle Apps and Services",
-      "https://projects.eclipse.org/projects/automotive.uprotocol"
+      "The Apollo Guidance Computer",
+      "https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 22:30:35",
+      "https://news.ycombinator.com/item?id=38244769"
+    ],
+    [
+      "Ask HN: What are your most used Chat GPT prompts",
+      "https://news.ycombinator.com/item?id=38244769"
     ]
   ],
   [
@@ -67,26 +97,6 @@
     [
       "Open-interpreter: OpenAI's Code Interpreter in your terminal, running locally",
       "https://github.com/KillianLucas/open-interpreter"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 17:16:16",
-      "https://news.ycombinator.com/item?id=38242105"
-    ],
-    [
-      "Passive Salt Water Cooling Boosts CPU Performance by Almost 33%",
-      "https://www.tomshardware.com/pc-components/cooling/passive-salt-water-cooling-boosts-cpu-performance-by-almost-33"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 17:14:15",
-      "https://news.ycombinator.com/item?id=38242086"
-    ],
-    [
-      "California's third largest city is mostly empty roads",
-      "https://www.sfgate.com/travel/article/california-city-planned-community-explained-18476273.php"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2023-11-12, 14:32:13",
+      "https://news.ycombinator.com/item?id=38240370"
+    ],
+    [
+      "How to Share a Secret (Shamir Secret Sharing)",
+      "https://www.vicyyn.com/blog/shamir-secret-sharing"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 14:28:22",
       "https://news.ycombinator.com/item?id=38240333"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-11-12, 11:20:20",
-      "https://news.ycombinator.com/item?id=38239266"
-    ],
-    [
-      "Australia locks down ports after ‘nationally significant’ cyberattack",
-      "https://www.independent.co.uk/news/world/australasia/australia-ports-cyber-attack-dp-world-b2445634.html"
-    ]
-  ],
-  [
-    [
       "2023-11-12, 11:08:00",
       "https://news.ycombinator.com/item?id=38239211"
     ],
     [
       "How to attach logic probes to tiny SMD components (2021)",
       "https://reddit.com/r/AskElectronics/comments/qxpfxl/how_to_attach_logic_probes_to_tiny_smd_components/"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 09:43:15",
-      "https://news.ycombinator.com/item?id=38238796"
-    ],
-    [
-      "RIP Google Groups Dejanews.com Archive?",
-      "http://dejanews.com/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-11-11, 11:04:51",
-      "https://news.ycombinator.com/item?id=38229231"
+      "2023-11-11, 06:49:50",
+      "https://news.ycombinator.com/item?id=38228122"
     ],
     [
-      "How I got here",
-      "https://pthorpe92.github.io/intro/my-story/"
+      "Variadic generics, again",
+      "https://poignardazur.github.io//2023/11/08/time-for-variadic-generics/"
     ]
   ],
   [
