@@ -65,6 +65,7 @@
 * [2023-11-11, 14:39:24](https://news.ycombinator.com/item?id=38230642) - [\"Never, ever, no matter what, go to a timeshare presentation\"](https://www.theatlantic.com/ideas/archive/2023/11/hawaii-timeshare/675974/)
 * [2023-11-11, 14:37:22](https://news.ycombinator.com/item?id=38230623) - [What If Psychedelics' Hallucinations Are Just a Side Effect?](https://www.theatlantic.com/health/archive/2023/11/non-hallucinogenic-psychedelic-clinical-therapy/675942/)
 * [2023-11-11, 14:26:58](https://news.ycombinator.com/item?id=38230532) - [Terry Pratchett and the Maggi Soup Adverts (2011)](https://gmkeros.wordpress.com/2011/09/02/terry-pratchett-and-the-maggi-soup-adverts/)
+* [2023-11-11, 14:23:35](https://news.ycombinator.com/item?id=38230516) - [How we know what we know](https://critinq.wordpress.com/2023/09/19/how-we-know-what-we-know/)
 * [2023-11-11, 14:21:03](https://news.ycombinator.com/item?id=38230495) - [Nicotine: On the benefits and lack of demerits of nicotine](https://gwern.net/nicotine)
 * [2023-11-11, 14:20:41](https://news.ycombinator.com/item?id=38230494) - [Master Foo and the Unix Zealot](http://catb.org/esr/writings/unix-koans/zealot.html)
 * [2023-11-11, 14:18:19](https://news.ycombinator.com/item?id=38230476) - [Show HN: Flyscrape – A standalone and scriptable web scraper in Go](https://github.com/philippta/flyscrape)

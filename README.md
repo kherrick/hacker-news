@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 20:22:16](https://news.ycombinator.com/item?id=38254866) - [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
+* [2023-11-13, 20:20:00](https://news.ycombinator.com/item?id=38254835) - [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
 * [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner just paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2023-11-13, 19:19:16](https://news.ycombinator.com/item?id=38254040) - [Ubuntu Pro Shenanigans](https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/)
@@ -15,7 +17,6 @@
 * [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD is using drones 3 times more than it did last year](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
 * [2023-11-13, 15:07:42](https://news.ycombinator.com/item?id=38251002) - [Show HN: Twogether AI – Multi-Person Photo Generation API](https://twogether.ai/?source=hn)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
-* [2023-11-13, 13:53:30](https://news.ycombinator.com/item?id=38250114) - [$1 Unistroke Recognizer](https://depts.washington.edu/acelab/proj/dollar/index.html)
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 * [2023-11-13, 13:14:17](https://news.ycombinator.com/item?id=38249742) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
@@ -27,9 +28,8 @@
 * [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus (2011)](https://www.mwasoftware.co.uk/why-ibx)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
-* [2023-11-13, 05:20:51](https://news.ycombinator.com/item?id=38247234) - [Cuttlefish and Their Technicolor Dreamcoats](https://hakaimagazine.com/news/cuttlefish-and-their-amazing-technicolor-dreamcoats/)
-* [2023-11-12, 04:13:55](https://news.ycombinator.com/item?id=38237230) - [A Design History of L.A.'S Dingbat Apartment Buildings (2021)](https://www.bloomberg.com/news/features/2021-09-24/a-design-history-of-l-a-s-dingbat-apartment-buildings)
 * [2023-11-11, 15:30:16](https://news.ycombinator.com/item?id=38231160) - [Your small imprecise ask is a big waste of their time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
+* [2023-11-11, 14:23:35](https://news.ycombinator.com/item?id=38230516) - [How we know what we know](https://critinq.wordpress.com/2023/09/19/how-we-know-what-we-know/)
 
 ## [Archives](archives/index.md)
 
