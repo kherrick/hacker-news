@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said;](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 05:54:01](https://news.ycombinator.com/item?id=38247423) - [From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
 * [2023-11-13, 05:41:01](https://news.ycombinator.com/item?id=38247339) - [Trip Autumn ISO C++ standards meeting](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
 * [2023-11-13, 05:34:09](https://news.ycombinator.com/item?id=38247305) - [10k Bounty for Rewriting Prettier in Rust](https://twitter.com/Vjeux/status/1722733472522142022)
+* [2023-11-13, 05:32:47](https://news.ycombinator.com/item?id=38247300) - [Diamonds Suck](https://diamondssuck.com/)
 * [2023-11-13, 03:48:44](https://news.ycombinator.com/item?id=38246668) - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
 * [2023-11-13, 03:42:47](https://news.ycombinator.com/item?id=38246624) - [Google pulls Fitbit from almost 30 markets](https://mobilesyrup.com/2023/11/10/google-pulls-fitbit-29-markets-canada-safe/)
 * [2023-11-13, 03:23:27](https://news.ycombinator.com/item?id=38246521) - [Is capitalism dead? Yanis Varoufakis thinks it is – and he knows who killed it](https://theconversation.com/is-capitalism-dead-yanis-varoufakis-thinks-it-is-and-he-knows-who-killed-it-213992)
