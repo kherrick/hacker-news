@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
 * [2023-11-12, 23:39:21](https://news.ycombinator.com/item?id=38245295) - [I-10 closure in California prompts state of emergency](https://www.sfgate.com/bayarea/article/i-10-closure-california-state-of-emergency-18486449.php)
+* [2023-11-12, 23:33:31](https://news.ycombinator.com/item?id=38245240) - [0XReasons to Write and Publish](https://fabiensanglard.net/blog/)
 * [2023-11-12, 23:24:12](https://news.ycombinator.com/item?id=38245187) - [Geohash](https://en.wikipedia.org/wiki/Geohash)
 * [2023-11-12, 22:49:33](https://news.ycombinator.com/item?id=38244927) - [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
 * [2023-11-12, 22:30:35](https://news.ycombinator.com/item?id=38244769) - [Ask HN: What are your most used Chat GPT prompts](https://news.ycombinator.com/item?id=38244769)
