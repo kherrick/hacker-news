@@ -10,7 +10,6 @@
 * [2023-11-13, 05:32:47](https://news.ycombinator.com/item?id=38247300) - [Diamonds Suck](https://diamondssuck.com/)
 * [2023-11-13, 03:48:44](https://news.ycombinator.com/item?id=38246668) - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
 * [2023-11-13, 03:05:05](https://news.ycombinator.com/item?id=38246413) - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
-* [2023-11-13, 02:33:35](https://news.ycombinator.com/item?id=38246226) - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
 * [2023-11-13, 02:30:48](https://news.ycombinator.com/item?id=38246209) - [Bangladesh removed lead from turmeric spice](https://www.vox.com/future-perfect/2023/9/20/23881981/bangladesh-tumeric-lead-poisoning-contamination-public-health)
 * [2023-11-13, 02:04:12](https://news.ycombinator.com/item?id=38246082) - [Learn PostScript by Doing (2005) [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
@@ -29,6 +28,7 @@
 * [2023-11-11, 13:31:43](https://news.ycombinator.com/item?id=38230141) - [You Can Load Up on Cheap Cores with Updated Milan Epycs](https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/)
 * [2023-11-11, 07:37:03](https://news.ycombinator.com/item?id=38228320) - [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8)
 * [2023-11-11, 07:34:13](https://news.ycombinator.com/item?id=38228310) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
+* [2023-11-11, 06:49:50](https://news.ycombinator.com/item?id=38228122) - [Variadic generics, again](https://poignardazur.github.io//2023/11/08/time-for-variadic-generics/)
 * [2023-11-10, 23:43:09](https://news.ycombinator.com/item?id=38226057) - [How to Copy Uncopyable Texts on Windows](https://www.howtogeek.com/how-to-copy-uncopyable-texts-on-windows/)
 
 ## [Archives](archives/index.md)
