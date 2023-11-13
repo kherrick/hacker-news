@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [\"I'm on the edge of revolt\" – Internal Tech Emails](https://www.techemails.com/p/barry-diller-emails-google-exec)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
