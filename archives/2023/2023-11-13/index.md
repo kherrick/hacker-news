@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 19:22:51](https://news.ycombinator.com/item?id=38254086) - [The Supreme Court is adopting a code of ethics for the first time](https://apnews.com/article/supreme-court-ethics-code-conflicts-clarence-thomas-64d393ceb6f05402d762dca06f0f4187)
+* [2023-11-13, 19:19:16](https://news.ycombinator.com/item?id=38254040) - [Ubuntu Pro Shenanigans](https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/)
 * [2023-11-13, 19:03:12](https://news.ycombinator.com/item?id=38253825) - [Amazon Lays Off 180 Employees in Its Games Division](https://aftermath.site/amazon-lays-off-180-employees-in-its-games-division)
 * [2023-11-13, 19:00:15](https://news.ycombinator.com/item?id=38253787) - [Apple Gets 36% of Google's Safari Search Revenue](https://www.macrumors.com/2023/11/13/apple-google-safari-search-revenue/)
 * [2023-11-13, 18:53:24](https://news.ycombinator.com/item?id=38253699) - [AI Is a Terrifying Purveyor of Bullshit. Next Up: Fake Science](https://www.lastwordonnothing.com/2023/11/10/ai-is-a-terrifying-purveyor-of-bullshit-next-up-fake-science/)
+* [2023-11-13, 18:26:03](https://news.ycombinator.com/item?id=38253384) - [Apple Gets 36% of Google Revenue in Search Deal, Expert Says](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
 * [2023-11-13, 18:13:15](https://news.ycombinator.com/item?id=38253212) - [Flexport Is Hiring SDRs](https://flexport.com/careers)
 * [2023-11-13, 18:08:32](https://news.ycombinator.com/item?id=38253146) - [You need a mental model of LLMs to build or use a LLM-based product](https://about.sourcegraph.com/blog/llm-mental-models)
 * [2023-11-13, 18:06:56](https://news.ycombinator.com/item?id=38253130) - [Forests with multiple tree species are 70% more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
@@ -26,6 +29,7 @@
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
 * [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD Is Using Drones 3X More Than It Used To](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
+* [2023-11-13, 15:07:42](https://news.ycombinator.com/item?id=38251002) - [Show HN: Twogether AI – Multi-Person Photo Generation API](https://twogether.ai/?source=hn)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 14:49:07](https://news.ycombinator.com/item?id=38250731) - [Technofeudalism](https://www.penguin.com.au/books/technofeudalism-9781847927286)
 * [2023-11-13, 14:29:27](https://news.ycombinator.com/item?id=38250470) - [Ask HN: Does \"trust\" eliminate the need for code reviews?](https://news.ycombinator.com/item?id=38250470)
@@ -46,6 +50,7 @@
 * [2023-11-13, 11:49:17](https://news.ycombinator.com/item?id=38249202) - [YouTube May Face Criminal Complaints in EU for Using Ad-Block Detection Scripts](https://www.tomshardware.com/news/youtube-may-face-criminal-complaint-for-adblock-detecting)
 * [2023-11-13, 11:22:52](https://news.ycombinator.com/item?id=38249069) - [Vela incident (1979)](https://en.wikipedia.org/wiki/Vela_incident)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
+* [2023-11-13, 10:06:03](https://news.ycombinator.com/item?id=38248681) - [Convert standard Geiger counter to RNG](https://github.com/gbonacini/nuclear_rng_generation2)
 * [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [\"I'm on the edge of revolt\" – Internal Tech Emails](https://www.techemails.com/p/barry-diller-emails-google-exec)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 * [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus](https://www.mwasoftware.co.uk/why-ibx)
