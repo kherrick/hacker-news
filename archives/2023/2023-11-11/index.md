@@ -94,6 +94,7 @@
 * [2023-11-11, 09:01:08](https://news.ycombinator.com/item?id=38228644) - [Warner Bros Shelves Finished Coyote vs. Acme Film as Tax Write-Off](https://deadline.com/2023/11/coyote-vs-acme-shelved-warner-bros-discovery-writeoff-david-zaslav-1235598676/)
 * [2023-11-11, 08:53:11](https://news.ycombinator.com/item?id=38228606) - [DrinkedIn – Your Personal Wine Connoisseur](https://chat.openai.com/g/g-bJKm0Xi2F-drinkedin-the-wine-connoisseur)
 * [2023-11-11, 08:48:37](https://news.ycombinator.com/item?id=38228592) - [Suits ignored IT's warnings, so the tech team went for the neck](https://www.theregister.com/2023/11/10/on_call/)
+* [2023-11-11, 08:41:20](https://news.ycombinator.com/item?id=38228558) - [Wisconsin snubs bourbon by elevating the brandy Old Fashioned to state cocktail](https://apnews.com/article/wisconsin-old-fashioned-state-cocktail-493498c018a66a121551c54fa7e8ad76)
 * [2023-11-11, 08:20:40](https://news.ycombinator.com/item?id=38228481) - [Archived YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)
 * [2023-11-11, 07:25:54](https://news.ycombinator.com/item?id=38228265) - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 * [2023-11-11, 07:00:53](https://news.ycombinator.com/item?id=38228159) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
