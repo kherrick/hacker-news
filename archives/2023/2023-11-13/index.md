@@ -6,10 +6,12 @@
 
 * [2023-11-13, 16:43:03](https://news.ycombinator.com/item?id=38252172) - [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
+* [2023-11-13, 16:12:44](https://news.ycombinator.com/item?id=38251842) - [Smarter Summaries with Finetuning GPT-3.5 and Chain of Density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
 * [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD Is Using Drones 3X More Than It Used To](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
+* [2023-11-13, 14:49:07](https://news.ycombinator.com/item?id=38250731) - [Technofeudalism](https://www.penguin.com.au/books/technofeudalism-9781847927286)
 * [2023-11-13, 14:29:27](https://news.ycombinator.com/item?id=38250470) - [Ask HN: Does \"trust\" eliminate the need for code reviews?](https://news.ycombinator.com/item?id=38250470)
 * [2023-11-13, 14:22:00](https://news.ycombinator.com/item?id=38250382) - [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
