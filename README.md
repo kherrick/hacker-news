@@ -17,6 +17,7 @@
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 05:54:01](https://news.ycombinator.com/item?id=38247423) - [From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
 * [2023-11-13, 05:41:01](https://news.ycombinator.com/item?id=38247339) - [Trip Autumn ISO C++ standards meeting](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
+* [2023-11-13, 02:04:12](https://news.ycombinator.com/item?id=38246082) - [Learn PostScript by Doing (2005) [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties (2021)](https://www.troyhunt.com/beg-bounties/)
 * [2023-11-12, 23:26:31](https://news.ycombinator.com/item?id=38245198) - [A kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
@@ -27,7 +28,6 @@
 * [2023-11-11, 15:30:16](https://news.ycombinator.com/item?id=38231160) - [Your small imprecise ask is a big waste of their time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
 * [2023-11-11, 14:26:58](https://news.ycombinator.com/item?id=38230532) - [Terry Pratchett and the Maggi Soup Adverts (2011)](https://gmkeros.wordpress.com/2011/09/02/terry-pratchett-and-the-maggi-soup-adverts/)
 * [2023-11-11, 13:33:59](https://news.ycombinator.com/item?id=38230161) - [RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
-* [2023-11-11, 13:09:56](https://news.ycombinator.com/item?id=38230008) - [Get Offended More (2020)](https://ammarmian.substack.com/p/122820-get-offended-more)
 * [2023-11-11, 07:37:03](https://news.ycombinator.com/item?id=38228320) - [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8)
 * [2023-11-11, 07:34:13](https://news.ycombinator.com/item?id=38228310) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 
