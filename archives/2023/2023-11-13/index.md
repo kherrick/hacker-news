@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 14:29:27](https://news.ycombinator.com/item?id=38250470) - [Ask HN: Does \"trust\" eliminate the need for code reviews?](https://news.ycombinator.com/item?id=38250470)
 * [2023-11-13, 14:22:00](https://news.ycombinator.com/item?id=38250382) - [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 * [2023-11-13, 13:36:23](https://news.ycombinator.com/item?id=38249938) - [Tragedy of Return to Hostile Offices](https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/)
 * [2023-11-13, 13:14:17](https://news.ycombinator.com/item?id=38249742) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
+* [2023-11-13, 13:04:53](https://news.ycombinator.com/item?id=38249664) - [Micron Introduces 128 GB DDR5-8000 RDIMMs with Monolithic 32 GB Die](https://www.anandtech.com/show/21129/micron-introduces-128-gb-ddr58000-rdimms-with-monolithic-32-gb-dice)
+* [2023-11-13, 12:57:51](https://news.ycombinator.com/item?id=38249616) - [Compressing Codebase Collocates](https://taylor.town/code-collocates)
 * [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Netflix Loses Patent Dispute to Broadcom in Germany, Ordered to Stop Using HEVC](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
 * [2023-11-13, 12:17:25](https://news.ycombinator.com/item?id=38249366) - [Self-service: Booths supermarket puts staff back behind its tills](https://www.bbc.co.uk/news/uk-england-lancashire-67373472)
