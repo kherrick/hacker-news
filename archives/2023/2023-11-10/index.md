@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 23:43:09](https://news.ycombinator.com/item?id=38226057) - [How to Copy Uncopyable Texts on Windows](https://www.howtogeek.com/how-to-copy-uncopyable-texts-on-windows/)
 * [2023-11-10, 23:39:58](https://news.ycombinator.com/item?id=38226030) - [Ask HN: Is anyone else bearish on OpenAI?](https://news.ycombinator.com/item?id=38226030)
 * [2023-11-10, 22:59:54](https://news.ycombinator.com/item?id=38225724) - [System Transparency: a security architecture for bare-metal servers](https://www.system-transparency.org/)
 * [2023-11-10, 22:06:17](https://news.ycombinator.com/item?id=38225172) - [Study finds lunar swirls linked to topography](https://phys.org/news/2023-11-lunar-swirls-linked-topography.html)
