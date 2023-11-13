@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
+* [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
 * [2023-11-13, 01:04:36](https://news.ycombinator.com/item?id=38245762) - [The Diamond World Takes Radical Steps to Stop a Pricing Plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
 * [2023-11-13, 00:44:29](https://news.ycombinator.com/item?id=38245665) - [Show HN: Interactive AI Resume/LinkedIn for better networking/job hunting](https://www.protoconstruct.com/chat/652af6c4238991f5e5f2eb57)
 * [2023-11-12, 23:39:21](https://news.ycombinator.com/item?id=38245295) - [I-10 closure in California prompts state of emergency](https://www.sfgate.com/bayarea/article/i-10-closure-california-state-of-emergency-18486449.php)
@@ -7,7 +9,6 @@
 * [2023-11-12, 22:49:33](https://news.ycombinator.com/item?id=38244927) - [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
 * [2023-11-12, 22:30:35](https://news.ycombinator.com/item?id=38244769) - [Ask HN: What are your most used Chat GPT prompts](https://news.ycombinator.com/item?id=38244769)
 * [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
-* [2023-11-12, 18:58:08](https://news.ycombinator.com/item?id=38243060) - [Lightweight Linux Distributions for Older PCs](https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/)
 * [2023-11-12, 18:50:43](https://news.ycombinator.com/item?id=38242992) - [Days of The Jackal: how Andrew Wylie turned serious literature into big business](https://www.theguardian.com/books/2023/nov/09/andrew-wylie-agency-days-of-the-jackal-serious-literature-big-business)
 * [2023-11-12, 18:45:48](https://news.ycombinator.com/item?id=38242946) - [37, the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
 * [2023-11-12, 17:41:03](https://news.ycombinator.com/item?id=38242343) - [Open-interpreter: OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter)
@@ -18,7 +19,6 @@
 * [2023-11-12, 15:54:46](https://news.ycombinator.com/item?id=38241235) - [Generate images fast with SD 1.5 while typing on Gradio](https://twitter.com/abidlabs/status/1723074108739706959)
 * [2023-11-12, 14:32:13](https://news.ycombinator.com/item?id=38240370) - [How to Share a Secret (Shamir Secret Sharing)](https://www.vicyyn.com/blog/shamir-secret-sharing)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [Free Oberon: Cross-platform Oberon IDE](https://free.oberon.org/en/)
-* [2023-11-12, 13:06:01](https://news.ycombinator.com/item?id=38239735) - [The attack against Danish, critical infrastructure [pdf]](https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Open, rigorous and reproducible research: A practitioner’s handbook (2021)](https://stanforddatascience.github.io/best-practices/index.html)
 * [2023-11-12, 12:20:01](https://news.ycombinator.com/item?id=38239503) - [Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 11:40:22](https://news.ycombinator.com/item?id=38239358) - [Archive your old projects](https://arne.me/articles/archive-your-old-projects)
