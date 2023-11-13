@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 22:51:45](https://news.ycombinator.com/item?id=38256478) - [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
 * [2023-11-13, 22:32:12](https://news.ycombinator.com/item?id=38256283) - [What if climate change meant not doom – but abundance?](https://www.washingtonpost.com/opinions/2023/03/15/rebecca-solnit-climate-change-wealth-abundance/)
+* [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 * [2023-11-13, 21:56:51](https://news.ycombinator.com/item?id=38255923) - [We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
 * [2023-11-13, 21:53:35](https://news.ycombinator.com/item?id=38255884) - [Zelle finally caves after years of refusing to refund scam victims](https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/)
 * [2023-11-13, 21:10:12](https://news.ycombinator.com/item?id=38255425) - [It's true. Your devices are listening to you](https://www.cmglocalsolutions.com/cmg-active-listening)
