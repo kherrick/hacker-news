@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 23:39:21](https://news.ycombinator.com/item?id=38245295) - [I-10 closure in California prompts state of emergency](https://www.sfgate.com/bayarea/article/i-10-closure-california-state-of-emergency-18486449.php)
 * [2023-11-12, 23:24:12](https://news.ycombinator.com/item?id=38245187) - [Geohash](https://en.wikipedia.org/wiki/Geohash)
+* [2023-11-12, 22:49:33](https://news.ycombinator.com/item?id=38244927) - [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
+* [2023-11-12, 22:30:35](https://news.ycombinator.com/item?id=38244769) - [Ask HN: What are your most used Chat GPT prompts](https://news.ycombinator.com/item?id=38244769)
 * [2023-11-12, 22:21:48](https://news.ycombinator.com/item?id=38244703) - [GM Backed \"Open Source Protocol\" for Connecting Vehicle Apps and Services](https://projects.eclipse.org/projects/automotive.uprotocol)
 * [2023-11-12, 22:19:12](https://news.ycombinator.com/item?id=38244680) - [Classical liberals are increasingly religious](https://marginalrevolution.com/marginalrevolution/2023/11/religious-classical-liberals.html)
 * [2023-11-12, 21:57:58](https://news.ycombinator.com/item?id=38244512) - [Effective Altruism Is a Welter of Lies, Hypocrisy, and Eugenic Fantasies](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/)
@@ -39,6 +42,7 @@
 * [2023-11-12, 14:47:05](https://news.ycombinator.com/item?id=38240494) - [Show HN: I made an in-depth beginner's guide to AI](https://guides.ai/how-to-get-into-ai/)
 * [2023-11-12, 14:37:25](https://news.ycombinator.com/item?id=38240421) - [GPU Survival Toolkit for the AI age: The bare minimum every developer must know](https://journal.hexmos.com/gpu-survival-toolkit/)
 * [2023-11-12, 14:35:17](https://news.ycombinator.com/item?id=38240402) - [Microsoft Temporarily Blocked Internal Access to ChatGPT, Citing Data Concerns](https://www.wsj.com/tech/microsoft-temporarily-blocked-internal-access-to-chatgpt-citing-data-concerns-c1ca475d)
+* [2023-11-12, 14:32:13](https://news.ycombinator.com/item?id=38240370) - [How to Share a Secret (Shamir Secret Sharing)](https://www.vicyyn.com/blog/shamir-secret-sharing)
 * [2023-11-12, 14:31:46](https://news.ycombinator.com/item?id=38240365) - [Show HN: Executo.rs – Meet other founders weekly to talk strategy and ideas](https://executo.rs)
 * [2023-11-12, 14:31:39](https://news.ycombinator.com/item?id=38240363) - [Apple might have to pay that €13B EU tax bill after all](https://www.theregister.com/2023/11/11/apple_tax_bill_hiring/)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [FreeOberon cross-platform Oberon language IDE](https://free.oberon.org/en/)

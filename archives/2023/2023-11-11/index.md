@@ -95,6 +95,7 @@
 * [2023-11-11, 08:20:40](https://news.ycombinator.com/item?id=38228481) - [Archived YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)
 * [2023-11-11, 07:25:54](https://news.ycombinator.com/item?id=38228265) - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 * [2023-11-11, 07:00:53](https://news.ycombinator.com/item?id=38228159) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2023-11-11, 06:49:50](https://news.ycombinator.com/item?id=38228122) - [Variadic generics, again](https://poignardazur.github.io//2023/11/08/time-for-variadic-generics/)
 * [2023-11-11, 06:47:31](https://news.ycombinator.com/item?id=38228114) - [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
 * [2023-11-11, 06:23:46](https://news.ycombinator.com/item?id=38228039) - [Low-intensity fires reduce wildfire risk by 60%](https://news.stanford.edu/press-releases/2023/11/10/valuing-prescribed-fire/)
 * [2023-11-11, 06:11:56](https://news.ycombinator.com/item?id=38228007) - [Neighborle: List Neighboring Countries](https://neighborle.com/)
