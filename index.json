@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-13, 13:36:23",
+      "https://news.ycombinator.com/item?id=38249938"
+    ],
+    [
+      "Tragedy of Return to Hostile Offices",
+      "https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 12:44:40",
       "https://news.ycombinator.com/item?id=38249527"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-11-13, 12:10:07",
-      "https://news.ycombinator.com/item?id=38249316"
+      "2023-11-13, 12:34:54",
+      "https://news.ycombinator.com/item?id=38249473"
     ],
     [
-      "Pistachio billionaires accused of artwashing California's water crisis",
-      "https://hyperallergic.com/855658/pistachio-billionaires-lynda-stewart-resnick-accused-of-artwashing-california-water-crisis/"
+      "Reasons to Prefer Blake3 over Sha256",
+      "https://peergos.org/posts/blake3"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Loro: Reimagine state management with CRDTs",
       "https://www.loro.dev/blog/loro-now-open-source"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 09:51:51",
+      "https://news.ycombinator.com/item?id=38248617"
+    ],
+    [
+      "Google/IAC/Expedia (2019)",
+      "https://www.techemails.com/p/barry-diller-emails-google-exec"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2023-11-13, 05:54:01",
+      "https://news.ycombinator.com/item?id=38247423"
+    ],
+    [
+      "From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)",
+      "https://journals.sagepub.com/doi/full/10.1177/0003122420912941"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 05:41:01",
       "https://news.ycombinator.com/item?id=38247339"
     ],
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2023-11-13, 03:48:44",
-      "https://news.ycombinator.com/item?id=38246668"
+      "2023-11-13, 02:33:35",
+      "https://news.ycombinator.com/item?id=38246226"
     ],
     [
-      "Fast and Portable Llama2 Inference on the Heterogeneous Edge",
-      "https://www.secondstate.io/articles/fast-llm-inference/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 03:05:05",
-      "https://news.ycombinator.com/item?id=38246413"
-    ],
-    [
-      "More Dakka in Medicine",
-      "https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 02:30:48",
-      "https://news.ycombinator.com/item?id=38246209"
-    ],
-    [
-      "Bangladesh removed lead from turmeric spice",
-      "https://www.vox.com/future-perfect/2023/9/20/23881981/bangladesh-tumeric-lead-poisoning-contamination-public-health"
+      "Tuxedo Pulse Gen 3",
+      "https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-11-12, 23:33:31",
-      "https://news.ycombinator.com/item?id=38245240"
-    ],
-    [
-      "0XReasons to Write and Publish",
-      "https://fabiensanglard.net/blog/"
-    ]
-  ],
-  [
-    [
       "2023-11-12, 23:26:31",
       "https://news.ycombinator.com/item?id=38245198"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38244927"
     ],
     [
-      "The Apollo Guidance Computer",
+      "The Apollo Guidance Computer (2021)",
       "https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=38230141"
     ],
     [
-      "You Can Load Up on Cheap Cores with Updated Milan Epycs",
+      "Loading up on cheap cores with updated Milan Epycs",
       "https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/"
     ]
   ],
