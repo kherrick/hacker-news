@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Netflix Loses Patent Dispute to Broadcom in Germany, Ordered to Stop Using HEVC](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
+* [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Munich court tells Netflix to stop using H.265 video coding to stream UHD](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
 * [2023-11-13, 12:10:07](https://news.ycombinator.com/item?id=38249316) - [Pistachio Billionaires Accused of Artwashing California's Water Crisis](https://hyperallergic.com/855658/pistachio-billionaires-lynda-stewart-resnick-accused-of-artwashing-california-water-crisis/)
-* [2023-11-13, 12:08:03](https://news.ycombinator.com/item?id=38249300) - [TikTok banned in tiny Asian nation – Nepal](https://thehimalayantimes.com/kathmandu/govt-bans-tiktok-in-nepal)
 * [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 11:49:17](https://news.ycombinator.com/item?id=38249202) - [YouTube May Face Criminal Complaints in EU for Using Ad-Block Detection Scripts](https://www.tomshardware.com/news/youtube-may-face-criminal-complaint-for-adblock-detecting)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
@@ -17,6 +16,7 @@
 * [2023-11-13, 02:04:12](https://news.ycombinator.com/item?id=38246082) - [Learn PostScript by Doing (2005) [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties (2021)](https://www.troyhunt.com/beg-bounties/)
+* [2023-11-12, 23:33:31](https://news.ycombinator.com/item?id=38245240) - [0XReasons to Write and Publish](https://fabiensanglard.net/blog/)
 * [2023-11-12, 23:26:31](https://news.ycombinator.com/item?id=38245198) - [A kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
 * [2023-11-12, 22:49:33](https://news.ycombinator.com/item?id=38244927) - [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
 * [2023-11-12, 20:48:30](https://news.ycombinator.com/item?id=38243949) - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
