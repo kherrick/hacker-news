@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-13, 23:08:35](https://news.ycombinator.com/item?id=38256608) - [Czech news crew in SF covering APEC robbed at gunpoint while filming](https://www.sfchronicle.com/sf/article/apec-news-crew-czech-robbery-city-lights-18488613.php)
 * [2023-11-13, 22:51:45](https://news.ycombinator.com/item?id=38256478) - [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
 * [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 * [2023-11-13, 21:56:51](https://news.ycombinator.com/item?id=38255923) - [We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
@@ -8,6 +7,7 @@
 * [2023-11-13, 20:32:38](https://news.ycombinator.com/item?id=38255004) - [Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-13, 20:20:00](https://news.ycombinator.com/item?id=38254835) - [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
 * [2023-11-13, 20:04:56](https://news.ycombinator.com/item?id=38254656) - [Reauthorizing Mass Surveillance Shouldn't Be Tied to Funding the Government](https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government)
+* [2023-11-13, 19:45:46](https://news.ycombinator.com/item?id=38254386) - [PixArt-α:A New Open-Source Text-to-Image Model Challenging SDXL and Dalle·3](https://stablediffusionweb.com/PixArt-alpha#ai-art-generator)
 * [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms (2019)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: Bitemporal – Binary JSON database system and event store](https://news.ycombinator.com/item?id=38252963)
