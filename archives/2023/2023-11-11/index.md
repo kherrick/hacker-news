@@ -58,6 +58,7 @@
 * [2023-11-11, 16:01:23](https://news.ycombinator.com/item?id=38231452) - [Nudist Resort in Los Gatos for Sale $32Mill](https://www.ktvu.com/news/nudist-resort-in-los-gatos-mountains-on-market-for-32m)
 * [2023-11-11, 15:54:10](https://news.ycombinator.com/item?id=38231390) - [How the 'Queen of Thieves' Conned French Riviera Wealthy](https://www.atlasobscura.com/articles/burglar-countess-riviera-crime)
 * [2023-11-11, 15:46:11](https://news.ycombinator.com/item?id=38231320) - [1000s of veterans face foreclosure and it's not their fault. The VA could help](https://text.npr.org/1211855956)
+* [2023-11-11, 15:30:16](https://news.ycombinator.com/item?id=38231160) - [Your small imprecise ask is a big waste of their time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
 * [2023-11-11, 15:29:46](https://news.ycombinator.com/item?id=38231151) - [Designing the longest range Electric Aircraft: The Solar Aircraft [video]](https://www.youtube.com/watch?v=1q2wpZrq888)
 * [2023-11-11, 14:51:13](https://news.ycombinator.com/item?id=38230750) - [Top 15 Websites That Changed the World (2006)](https://www.theguardian.com/technology/2006/aug/13/observerreview.onlinesupplement)
 * [2023-11-11, 14:47:58](https://news.ycombinator.com/item?id=38230730) - [Show HN: I built a Hacker News inspired newsboard for AI and robotics](https://www.gptroad.com/)
