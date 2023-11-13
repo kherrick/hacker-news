@@ -71,6 +71,7 @@
 * [2023-11-11, 14:12:23](https://news.ycombinator.com/item?id=38230417) - [The Benefits of Walking Backwards](https://www.bbc.com/future/article/20231110-why-walking-backwards-can-be-good-for-your-health-and-brain)
 * [2023-11-11, 13:59:16](https://news.ycombinator.com/item?id=38230325) - [Show HN: I spent 6 months building a new C debugger as a 17-year-old](https://github.com/d4ckard/spray)
 * [2023-11-11, 13:58:02](https://news.ycombinator.com/item?id=38230316) - [Proteomics with OMSSA](https://sivome.github.io/proteomics/2019/03/02/Proteomics-with-OMSSA.html)
+* [2023-11-11, 13:31:43](https://news.ycombinator.com/item?id=38230141) - [You Can Load Up on Cheap Cores with Updated Milan Epycs](https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/)
 * [2023-11-11, 13:28:04](https://news.ycombinator.com/item?id=38230120) - [Are Sunk Costs Fallacies? (2012)](https://gwern.net/sunk-cost)
 * [2023-11-11, 13:08:59](https://news.ycombinator.com/item?id=38230002) - [BMW, Subaru and Porsche drivers 'more likely to cause a crash', study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
 * [2023-11-11, 13:08:33](https://news.ycombinator.com/item?id=38229998) - [Lost \"Doctor Who\" episodes found but owner is reluctant to hand them to BBC](https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc)
