@@ -76,6 +76,7 @@
 * [2023-11-11, 13:33:59](https://news.ycombinator.com/item?id=38230161) - [RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
 * [2023-11-11, 13:31:43](https://news.ycombinator.com/item?id=38230141) - [You Can Load Up on Cheap Cores with Updated Milan Epycs](https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/)
 * [2023-11-11, 13:28:04](https://news.ycombinator.com/item?id=38230120) - [Are Sunk Costs Fallacies? (2012)](https://gwern.net/sunk-cost)
+* [2023-11-11, 13:09:56](https://news.ycombinator.com/item?id=38230008) - [Get Offended More (2020)](https://ammarmian.substack.com/p/122820-get-offended-more)
 * [2023-11-11, 13:08:59](https://news.ycombinator.com/item?id=38230002) - [BMW, Subaru and Porsche drivers 'more likely to cause a crash', study finds](https://www.theguardian.com/business/2023/nov/11/bmw-subaru-and-porsche-drivers-more-likely-to-cause-a-crash-study-finds)
 * [2023-11-11, 13:08:33](https://news.ycombinator.com/item?id=38229998) - [Lost \"Doctor Who\" episodes found but owner is reluctant to hand them to BBC](https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc)
 * [2023-11-11, 13:01:32](https://news.ycombinator.com/item?id=38229948) - [Google offered Netflix a sweetheart deal to pay just 10 percent on Google Play](https://www.theverge.com/23954852/google-netflix-app-store-deal-play-10-percent-revshare)
