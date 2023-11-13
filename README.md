@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 02:33:35](https://news.ycombinator.com/item?id=38246226) - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
-* [2023-11-13, 01:04:36](https://news.ycombinator.com/item?id=38245762) - [The Diamond World Takes Radical Steps to Stop a Pricing Plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
+* [2023-11-13, 01:04:36](https://news.ycombinator.com/item?id=38245762) - [The diamond world takes radical steps to stop a pricing plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
 * [2023-11-13, 00:44:29](https://news.ycombinator.com/item?id=38245665) - [Show HN: Interactive AI Resume/LinkedIn for better networking/job hunting](https://www.protoconstruct.com/chat/652af6c4238991f5e5f2eb57)
 * [2023-11-12, 23:39:21](https://news.ycombinator.com/item?id=38245295) - [I-10 closure in California prompts state of emergency](https://www.sfgate.com/bayarea/article/i-10-closure-california-state-of-emergency-18486449.php)
 * [2023-11-12, 23:24:12](https://news.ycombinator.com/item?id=38245187) - [Geohash](https://en.wikipedia.org/wiki/Geohash)
@@ -21,7 +22,6 @@
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [Free Oberon: Cross-platform Oberon IDE](https://free.oberon.org/en/)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Open, rigorous and reproducible research: A practitioner’s handbook (2021)](https://stanforddatascience.github.io/best-practices/index.html)
 * [2023-11-12, 12:20:01](https://news.ycombinator.com/item?id=38239503) - [Speaker Support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
-* [2023-11-12, 11:40:22](https://news.ycombinator.com/item?id=38239358) - [Archive your old projects](https://arne.me/articles/archive-your-old-projects)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from computing's past](https://lewiscampbell.tech/blog/231112.html)
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
