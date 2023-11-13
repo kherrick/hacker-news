@@ -8,6 +8,7 @@
 * [2023-11-13, 18:08:32](https://news.ycombinator.com/item?id=38253146) - [You need a mental model of LLMs to build or use a LLM-based product](https://about.sourcegraph.com/blog/llm-mental-models)
 * [2023-11-13, 18:06:56](https://news.ycombinator.com/item?id=38253130) - [Forests with multiple tree species are 70% more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: Bitemporal, Binary JSON Database System and Event Store](https://news.ycombinator.com/item?id=38252963)
+* [2023-11-13, 17:20:44](https://news.ycombinator.com/item?id=38252628) - [Tell HN: LinkedIn has one of the worst dark patterns I have seen on the web](https://news.ycombinator.com/item?id=38252628)
 * [2023-11-13, 17:20:32](https://news.ycombinator.com/item?id=38252625) - [How to Fathom Climate Change's Unfathomable Numbers](https://www.bloomberg.com/news/articles/2023-11-11/how-to-fathom-climate-change-s-unfathomable-numbers)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-13, 17:08:21](https://news.ycombinator.com/item?id=38252449) - [Cosmological galaxy formation simulation software](https://www.tng-project.org/about/)
