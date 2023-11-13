@@ -6,6 +6,7 @@
 
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
+* [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD Is Using Drones 3X More Than It Used To](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 14:29:27](https://news.ycombinator.com/item?id=38250470) - [Ask HN: Does \"trust\" eliminate the need for code reviews?](https://news.ycombinator.com/item?id=38250470)
 * [2023-11-13, 14:22:00](https://news.ycombinator.com/item?id=38250382) - [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
@@ -32,6 +33,7 @@
 * [2023-11-13, 05:41:01](https://news.ycombinator.com/item?id=38247339) - [Trip Autumn ISO C++ standards meeting](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
 * [2023-11-13, 05:34:09](https://news.ycombinator.com/item?id=38247305) - [10k Bounty for Rewriting Prettier in Rust](https://twitter.com/Vjeux/status/1722733472522142022)
 * [2023-11-13, 05:32:47](https://news.ycombinator.com/item?id=38247300) - [Diamonds Suck](https://diamondssuck.com/)
+* [2023-11-13, 05:20:51](https://news.ycombinator.com/item?id=38247234) - [Cuttlefish and Their Technicolor Dreamcoats](https://hakaimagazine.com/news/cuttlefish-and-their-amazing-technicolor-dreamcoats/)
 * [2023-11-13, 03:48:44](https://news.ycombinator.com/item?id=38246668) - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
 * [2023-11-13, 03:42:47](https://news.ycombinator.com/item?id=38246624) - [Google pulls Fitbit from almost 30 markets](https://mobilesyrup.com/2023/11/10/google-pulls-fitbit-29-markets-canada-safe/)
 * [2023-11-13, 03:23:27](https://news.ycombinator.com/item?id=38246521) - [Is capitalism dead? Yanis Varoufakis thinks it is – and he knows who killed it](https://theconversation.com/is-capitalism-dead-yanis-varoufakis-thinks-it-is-and-he-knows-who-killed-it-213992)
