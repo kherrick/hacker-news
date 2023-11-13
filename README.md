@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-13, 21:10:12](https://news.ycombinator.com/item?id=38255425) - [It's true. Your devices are listening to you](https://www.cmglocalsolutions.com/cmg-active-listening)
-* [2023-11-13, 21:03:51](https://news.ycombinator.com/item?id=38255354) - [Shopify Storefronts Are Down](https://www.shopifystatus.com/incidents)
+* [2023-11-13, 21:56:51](https://news.ycombinator.com/item?id=38255923) - [We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
 * [2023-11-13, 20:32:38](https://news.ycombinator.com/item?id=38255004) - [Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-13, 20:22:16](https://news.ycombinator.com/item?id=38254866) - [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
 * [2023-11-13, 20:20:00](https://news.ycombinator.com/item?id=38254835) - [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
@@ -10,6 +9,7 @@
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms (2019)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: Bitemporal – Binary JSON database system and event store](https://news.ycombinator.com/item?id=38252963)
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
+* [2023-11-13, 17:18:45](https://news.ycombinator.com/item?id=38252597) - [AlmaLinux 9.3 Stable](https://almalinux.org/blog/2023-11-13-announcing-93-stable/)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-13, 17:08:21](https://news.ycombinator.com/item?id=38252449) - [Cosmological galaxy formation simulation software](https://www.tng-project.org/about/)
 * [2023-11-13, 16:22:06](https://news.ycombinator.com/item?id=38251957) - [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)

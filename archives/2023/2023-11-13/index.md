@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 21:56:51](https://news.ycombinator.com/item?id=38255923) - [We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
 * [2023-11-13, 21:10:12](https://news.ycombinator.com/item?id=38255425) - [It's true. Your devices are listening to you](https://www.cmglocalsolutions.com/cmg-active-listening)
 * [2023-11-13, 21:03:51](https://news.ycombinator.com/item?id=38255354) - [Shopify Storefronts Are Down](https://www.shopifystatus.com/incidents)
 * [2023-11-13, 20:32:38](https://news.ycombinator.com/item?id=38255004) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
@@ -25,6 +26,7 @@
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
 * [2023-11-13, 17:20:44](https://news.ycombinator.com/item?id=38252628) - [Tell HN: LinkedIn has one of the worst dark patterns I have seen on the web](https://news.ycombinator.com/item?id=38252628)
 * [2023-11-13, 17:20:32](https://news.ycombinator.com/item?id=38252625) - [How to Fathom Climate Change's Unfathomable Numbers](https://www.bloomberg.com/news/articles/2023-11-11/how-to-fathom-climate-change-s-unfathomable-numbers)
+* [2023-11-13, 17:18:45](https://news.ycombinator.com/item?id=38252597) - [AlmaLinux 9.3 Stable](https://almalinux.org/blog/2023-11-13-announcing-93-stable/)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-13, 17:08:21](https://news.ycombinator.com/item?id=38252449) - [Cosmological galaxy formation simulation software](https://www.tng-project.org/about/)
 * [2023-11-13, 17:01:10](https://news.ycombinator.com/item?id=38252360) - [A Revolution in Computer Graphics Is Bringing 3D Reality Capture to the Masses](https://singularityhub.com/2023/11/06/a-revolution-in-computer-graphics-is-bringing-3d-reality-capture-to-the-masses/)
