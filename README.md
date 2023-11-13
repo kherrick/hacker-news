@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-13, 14:29:27](https://news.ycombinator.com/item?id=38250470) - [Ask HN: Does \"trust\" eliminate the need for code reviews?](https://news.ycombinator.com/item?id=38250470)
 * [2023-11-13, 14:22:00](https://news.ycombinator.com/item?id=38250382) - [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 * [2023-11-13, 13:36:23](https://news.ycombinator.com/item?id=38249938) - [Tragedy of return to hostile offices](https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/)
@@ -15,6 +14,7 @@
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Lessons I wish I had learned before teaching differential equations [pdf] (1997)](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
+* [2023-11-13, 07:11:55](https://news.ycombinator.com/item?id=38247767) - [SRAM in AI: The Future of Memory](https://semiengineering.com/sram-in-ai-the-future-of-memory/)
 * [2023-11-13, 05:54:01](https://news.ycombinator.com/item?id=38247423) - [From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
 * [2023-11-13, 05:41:01](https://news.ycombinator.com/item?id=38247339) - [Trip Autumn ISO C++ standards meeting](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
 * [2023-11-13, 02:04:12](https://news.ycombinator.com/item?id=38246082) - [Learn PostScript by Doing (2005) [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
