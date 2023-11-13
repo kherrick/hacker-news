@@ -97,6 +97,7 @@
 * [2023-11-11, 08:41:20](https://news.ycombinator.com/item?id=38228558) - [Wisconsin snubs bourbon by elevating the brandy Old Fashioned to state cocktail](https://apnews.com/article/wisconsin-old-fashioned-state-cocktail-493498c018a66a121551c54fa7e8ad76)
 * [2023-11-11, 08:20:40](https://news.ycombinator.com/item?id=38228481) - [Archived YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/)
 * [2023-11-11, 07:37:03](https://news.ycombinator.com/item?id=38228320) - [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8)
+* [2023-11-11, 07:34:13](https://news.ycombinator.com/item?id=38228310) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 * [2023-11-11, 07:25:54](https://news.ycombinator.com/item?id=38228265) - [.NET 8 Standalone 50% Smaller On Linux](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
 * [2023-11-11, 07:00:53](https://news.ycombinator.com/item?id=38228159) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2023-11-11, 06:49:50](https://news.ycombinator.com/item?id=38228122) - [Variadic generics, again](https://poignardazur.github.io//2023/11/08/time-for-variadic-generics/)
