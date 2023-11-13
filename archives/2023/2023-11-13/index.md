@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner just paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2023-11-13, 19:22:51](https://news.ycombinator.com/item?id=38254086) - [The Supreme Court is adopting a code of ethics for the first time](https://apnews.com/article/supreme-court-ethics-code-conflicts-clarence-thomas-64d393ceb6f05402d762dca06f0f4187)
 * [2023-11-13, 19:19:16](https://news.ycombinator.com/item?id=38254040) - [Ubuntu Pro Shenanigans](https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/)

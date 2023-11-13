@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner just paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-* [2023-11-13, 19:22:51](https://news.ycombinator.com/item?id=38254086) - [The US Supreme Court says it is adopting a code of ethics for the first time](https://apnews.com/article/supreme-court-ethics-code-conflicts-clarence-thomas-64d393ceb6f05402d762dca06f0f4187)
 * [2023-11-13, 19:19:16](https://news.ycombinator.com/item?id=38254040) - [Ubuntu Pro Shenanigans](https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/)
-* [2023-11-13, 18:26:03](https://news.ycombinator.com/item?id=38253384) - [Google pays Apple 36% of the revenue it earns from searches in Safari](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
 * [2023-11-13, 18:06:56](https://news.ycombinator.com/item?id=38253130) - [Forests with multiple tree species are more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: Bitemporal, Binary JSON Database System and Event Store](https://news.ycombinator.com/item?id=38252963)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
@@ -12,6 +11,7 @@
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 * [2023-11-13, 16:12:44](https://news.ycombinator.com/item?id=38251842) - [Smarter summaries with finetuning GPT-3.5 and chain of density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
+* [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD is using drones 3 times more than it did last year](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
 * [2023-11-13, 15:07:42](https://news.ycombinator.com/item?id=38251002) - [Show HN: Twogether AI – Multi-Person Photo Generation API](https://twogether.ai/?source=hn)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 13:53:30](https://news.ycombinator.com/item?id=38250114) - [$1 Unistroke Recognizer](https://depts.washington.edu/acelab/proj/dollar/index.html)
@@ -24,12 +24,12 @@
 * [2023-11-13, 10:06:03](https://news.ycombinator.com/item?id=38248681) - [Convert standard Geiger counter to RNG](https://github.com/gbonacini/nuclear_rng_generation2)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Lessons I wish I had learned before teaching differential equations [pdf] (1997)](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 * [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus (2011)](https://www.mwasoftware.co.uk/why-ibx)
+* [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 08:51:07](https://news.ycombinator.com/item?id=38248292) - [Sunday Malaise (2015)](https://francisdiclemente.com/2015/05/15/sunday-malaise/)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 05:20:51](https://news.ycombinator.com/item?id=38247234) - [Cuttlefish and Their Technicolor Dreamcoats](https://hakaimagazine.com/news/cuttlefish-and-their-amazing-technicolor-dreamcoats/)
 * [2023-11-12, 04:13:55](https://news.ycombinator.com/item?id=38237230) - [A Design History of L.A.'S Dingbat Apartment Buildings (2021)](https://www.bloomberg.com/news/features/2021-09-24/a-design-history-of-l-a-s-dingbat-apartment-buildings)
 * [2023-11-11, 15:30:16](https://news.ycombinator.com/item?id=38231160) - [Your small imprecise ask is a big waste of their time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
-* [2023-11-11, 07:34:13](https://news.ycombinator.com/item?id=38228310) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 
 ## [Archives](archives/index.md)
 
