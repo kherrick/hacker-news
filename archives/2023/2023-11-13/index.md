@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 19:03:12](https://news.ycombinator.com/item?id=38253825) - [Amazon Lays Off 180 Employees in Its Games Division](https://aftermath.site/amazon-lays-off-180-employees-in-its-games-division)
+* [2023-11-13, 19:00:15](https://news.ycombinator.com/item?id=38253787) - [Apple Gets 36% of Google's Safari Search Revenue](https://www.macrumors.com/2023/11/13/apple-google-safari-search-revenue/)
+* [2023-11-13, 18:53:24](https://news.ycombinator.com/item?id=38253699) - [AI Is a Terrifying Purveyor of Bullshit. Next Up: Fake Science](https://www.lastwordonnothing.com/2023/11/10/ai-is-a-terrifying-purveyor-of-bullshit-next-up-fake-science/)
 * [2023-11-13, 18:13:15](https://news.ycombinator.com/item?id=38253212) - [Flexport Is Hiring SDRs](https://flexport.com/careers)
 * [2023-11-13, 18:08:32](https://news.ycombinator.com/item?id=38253146) - [You need a mental model of LLMs to build or use a LLM-based product](https://about.sourcegraph.com/blog/llm-mental-models)
 * [2023-11-13, 18:06:56](https://news.ycombinator.com/item?id=38253130) - [Forests with multiple tree species are 70% more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)
