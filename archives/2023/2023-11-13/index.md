@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 21:10:12](https://news.ycombinator.com/item?id=38255425) - [It's true. Your devices are listening to you](https://www.cmglocalsolutions.com/cmg-active-listening)
 * [2023-11-13, 21:03:51](https://news.ycombinator.com/item?id=38255354) - [Shopify Storefronts Are Down](https://www.shopifystatus.com/incidents)
 * [2023-11-13, 20:32:38](https://news.ycombinator.com/item?id=38255004) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-13, 20:22:16](https://news.ycombinator.com/item?id=38254866) - [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
@@ -58,6 +59,7 @@
 * [2023-11-13, 11:49:17](https://news.ycombinator.com/item?id=38249202) - [YouTube May Face Criminal Complaints in EU for Using Ad-Block Detection Scripts](https://www.tomshardware.com/news/youtube-may-face-criminal-complaint-for-adblock-detecting)
 * [2023-11-13, 11:22:52](https://news.ycombinator.com/item?id=38249069) - [Vela incident (1979)](https://en.wikipedia.org/wiki/Vela_incident)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
+* [2023-11-13, 10:12:02](https://news.ycombinator.com/item?id=38248705) - [Why companies are racing to build the biggest bug farm](https://www.washingtonpost.com/climate-solutions/2023/11/12/biggest-insect-farm-record/)
 * [2023-11-13, 10:06:03](https://news.ycombinator.com/item?id=38248681) - [Convert standard Geiger counter to RNG](https://github.com/gbonacini/nuclear_rng_generation2)
 * [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [\"I'm on the edge of revolt\" – Internal Tech Emails](https://www.techemails.com/p/barry-diller-emails-google-exec)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)

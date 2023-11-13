@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 21:10:12](https://news.ycombinator.com/item?id=38255425) - [It's true. Your devices are listening to you](https://www.cmglocalsolutions.com/cmg-active-listening)
 * [2023-11-13, 21:03:51](https://news.ycombinator.com/item?id=38255354) - [Shopify Storefronts Are Down](https://www.shopifystatus.com/incidents)
 * [2023-11-13, 20:32:38](https://news.ycombinator.com/item?id=38255004) - [Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-13, 20:22:16](https://news.ycombinator.com/item?id=38254866) - [Future is quantum: universities look to train engineers for an emerging industry](https://www.nature.com/articles/d41586-023-03511-7)
@@ -24,12 +25,11 @@
 * [2023-11-13, 12:23:42](https://news.ycombinator.com/item?id=38249404) - [URL Explained – The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
 * [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
+* [2023-11-13, 10:12:02](https://news.ycombinator.com/item?id=38248705) - [Why companies are racing to build the biggest bug farm](https://www.washingtonpost.com/climate-solutions/2023/11/12/biggest-insect-farm-record/)
 * [2023-11-13, 10:06:03](https://news.ycombinator.com/item?id=38248681) - [Convert standard Geiger counter to RNG](https://github.com/gbonacini/nuclear_rng_generation2)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Lessons I wish I had learned before teaching differential equations [pdf] (1997)](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
-* [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus (2011)](https://www.mwasoftware.co.uk/why-ibx)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
-* [2023-11-11, 14:23:35](https://news.ycombinator.com/item?id=38230516) - [How we know what we know](https://critinq.wordpress.com/2023/09/19/how-we-know-what-we-know/)
 
 ## [Archives](archives/index.md)
 
