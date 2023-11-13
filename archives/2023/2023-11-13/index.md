@@ -71,6 +71,7 @@
 * [2023-11-13, 10:06:03](https://news.ycombinator.com/item?id=38248681) - [Convert standard Geiger counter to RNG](https://github.com/gbonacini/nuclear_rng_generation2)
 * [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [\"I'm on the edge of revolt\" – Internal Tech Emails](https://www.techemails.com/p/barry-diller-emails-google-exec)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+* [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
 * [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus](https://www.mwasoftware.co.uk/why-ibx)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 08:51:07](https://news.ycombinator.com/item?id=38248292) - [Sunday Malaise (2015)](https://francisdiclemente.com/2015/05/15/sunday-malaise/)

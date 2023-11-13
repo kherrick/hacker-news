@@ -12,7 +12,6 @@
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms (2019)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: Bitemporal – Binary JSON database system and event store](https://news.ycombinator.com/item?id=38252963)
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
-* [2023-11-13, 17:18:45](https://news.ycombinator.com/item?id=38252597) - [AlmaLinux 9.3 Stable](https://almalinux.org/blog/2023-11-13-announcing-93-stable/)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-13, 17:08:21](https://news.ycombinator.com/item?id=38252449) - [Cosmological galaxy formation simulation software](https://www.tng-project.org/about/)
 * [2023-11-13, 16:22:06](https://news.ycombinator.com/item?id=38251957) - [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
@@ -27,8 +26,9 @@
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
 * [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
-* [2023-11-13, 10:06:03](https://news.ycombinator.com/item?id=38248681) - [Convert standard Geiger counter to RNG](https://github.com/gbonacini/nuclear_rng_generation2)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Lessons I wish I had learned before teaching differential equations [pdf] (1997)](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+* [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
+* [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus (2011)](https://www.mwasoftware.co.uk/why-ibx)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 
 ## [Archives](archives/index.md)
