@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 22:32:12](https://news.ycombinator.com/item?id=38256283) - [What if climate change meant not doom – but abundance?](https://www.washingtonpost.com/opinions/2023/03/15/rebecca-solnit-climate-change-wealth-abundance/)
 * [2023-11-13, 21:56:51](https://news.ycombinator.com/item?id=38255923) - [We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
 * [2023-11-13, 21:10:12](https://news.ycombinator.com/item?id=38255425) - [It's true. Your devices are listening to you](https://www.cmglocalsolutions.com/cmg-active-listening)
 * [2023-11-13, 21:03:51](https://news.ycombinator.com/item?id=38255354) - [Shopify Storefronts Are Down](https://www.shopifystatus.com/incidents)

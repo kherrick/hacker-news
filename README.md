@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 22:32:12](https://news.ycombinator.com/item?id=38256283) - [What if climate change meant not doom – but abundance?](https://www.washingtonpost.com/opinions/2023/03/15/rebecca-solnit-climate-change-wealth-abundance/)
 * [2023-11-13, 21:56:51](https://news.ycombinator.com/item?id=38255923) - [We've learned nothing from the SolarWinds hack](https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/)
 * [2023-11-13, 20:32:38](https://news.ycombinator.com/item?id=38255004) - [Discouraging the use of web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-13, 20:20:00](https://news.ycombinator.com/item?id=38254835) - [Principles are products of practice, not the reverse](https://alsado.ca/posts/principles-are-products-of-practice/)
@@ -17,6 +18,7 @@
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD is using drones 3 times more than it did last year](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
+* [2023-11-13, 13:53:30](https://news.ycombinator.com/item?id=38250114) - [$1 Unistroke Recognizer](https://depts.washington.edu/acelab/proj/dollar/index.html)
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 * [2023-11-13, 13:14:17](https://news.ycombinator.com/item?id=38249742) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
@@ -28,8 +30,6 @@
 * [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus (2011)](https://www.mwasoftware.co.uk/why-ibx)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
-* [2023-11-12, 04:13:55](https://news.ycombinator.com/item?id=38237230) - [A Design History of L.A.'S Dingbat Apartment Buildings (2021)](https://www.bloomberg.com/news/features/2021-09-24/a-design-history-of-l-a-s-dingbat-apartment-buildings)
-* [2023-11-11, 15:30:16](https://news.ycombinator.com/item?id=38231160) - [Your small imprecise ask is a big waste of their time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
 
 ## [Archives](archives/index.md)
 
