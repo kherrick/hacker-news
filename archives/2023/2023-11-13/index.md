@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 17:01:10](https://news.ycombinator.com/item?id=38252360) - [A Revolution in Computer Graphics Is Bringing 3D Reality Capture to the Masses](https://singularityhub.com/2023/11/06/a-revolution-in-computer-graphics-is-bringing-3d-reality-capture-to-the-masses/)
 * [2023-11-13, 16:48:05](https://news.ycombinator.com/item?id=38252215) - [Adulthood Is a Mirage](https://www.thecut.com/2023/11/adulthood-is-a-mirage.html)
 * [2023-11-13, 16:46:40](https://news.ycombinator.com/item?id=38252203) - [EU Official Hopes X Will Face \"Peer Pressure\" to Hire More Censors](https://reclaimthenet.org/eu-official-hopes-x-will-face-peer-pressure-to-hire-more-censors)
 * [2023-11-13, 16:43:03](https://news.ycombinator.com/item?id=38252172) - [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
