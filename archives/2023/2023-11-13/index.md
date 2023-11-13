@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 13:36:23](https://news.ycombinator.com/item?id=38249938) - [Tragedy of Return to Hostile Offices](https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/)
 * [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Netflix Loses Patent Dispute to Broadcom in Germany, Ordered to Stop Using HEVC](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
+* [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
 * [2023-11-13, 12:17:25](https://news.ycombinator.com/item?id=38249366) - [Self-service: Booths supermarket puts staff back behind its tills](https://www.bbc.co.uk/news/uk-england-lancashire-67373472)
 * [2023-11-13, 12:10:07](https://news.ycombinator.com/item?id=38249316) - [Pistachio Billionaires Accused of Artwashing California's Water Crisis](https://hyperallergic.com/855658/pistachio-billionaires-lynda-stewart-resnick-accused-of-artwashing-california-water-crisis/)
 * [2023-11-13, 12:08:03](https://news.ycombinator.com/item?id=38249300) - [TikTok banned in tiny Asian nation – Nepal](https://thehimalayantimes.com/kathmandu/govt-bans-tiktok-in-nepal)
