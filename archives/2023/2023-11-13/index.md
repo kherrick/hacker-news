@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Netflix Loses Patent Dispute to Broadcom in Germany, Ordered to Stop Using HEVC](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
 * [2023-11-13, 12:17:25](https://news.ycombinator.com/item?id=38249366) - [Self-service: Booths supermarket puts staff back behind its tills](https://www.bbc.co.uk/news/uk-england-lancashire-67373472)
 * [2023-11-13, 12:10:07](https://news.ycombinator.com/item?id=38249316) - [Pistachio Billionaires Accused of Artwashing California's Water Crisis](https://hyperallergic.com/855658/pistachio-billionaires-lynda-stewart-resnick-accused-of-artwashing-california-water-crisis/)
+* [2023-11-13, 12:08:03](https://news.ycombinator.com/item?id=38249300) - [TikTok banned in tiny Asian nation – Nepal](https://thehimalayantimes.com/kathmandu/govt-bans-tiktok-in-nepal)
 * [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 11:49:17](https://news.ycombinator.com/item?id=38249202) - [YouTube May Face Criminal Complaints in EU for Using Ad-Block Detection Scripts](https://www.tomshardware.com/news/youtube-may-face-criminal-complaint-for-adblock-detecting)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
