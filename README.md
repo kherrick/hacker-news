@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [\"I'm on the edge of revolt\" – Internal Tech Emails](https://www.techemails.com/p/barry-diller-emails-google-exec)
+* [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [Google/IAC/Expedia (2019)](https://www.techemails.com/p/barry-diller-emails-google-exec)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
@@ -14,6 +14,7 @@
 * [2023-11-13, 02:04:12](https://news.ycombinator.com/item?id=38246082) - [Learn PostScript by Doing (2005) [pdf]](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties (2021)](https://www.troyhunt.com/beg-bounties/)
+* [2023-11-13, 01:04:36](https://news.ycombinator.com/item?id=38245762) - [The diamond world takes radical steps to stop a pricing plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
 * [2023-11-12, 23:33:31](https://news.ycombinator.com/item?id=38245240) - [0XReasons to Write and Publish](https://fabiensanglard.net/blog/)
 * [2023-11-12, 23:26:31](https://news.ycombinator.com/item?id=38245198) - [A kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
 * [2023-11-12, 22:49:33](https://news.ycombinator.com/item?id=38244927) - [The Apollo Guidance Computer](https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg)
@@ -29,7 +30,6 @@
 * [2023-11-11, 07:37:03](https://news.ycombinator.com/item?id=38228320) - [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8)
 * [2023-11-11, 07:34:13](https://news.ycombinator.com/item?id=38228310) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 * [2023-11-11, 06:49:50](https://news.ycombinator.com/item?id=38228122) - [Variadic generics, again](https://poignardazur.github.io//2023/11/08/time-for-variadic-generics/)
-* [2023-11-10, 23:43:09](https://news.ycombinator.com/item?id=38226057) - [How to Copy Uncopyable Texts on Windows](https://www.howtogeek.com/how-to-copy-uncopyable-texts-on-windows/)
 
 ## [Archives](archives/index.md)
 
