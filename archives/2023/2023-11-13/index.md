@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 05:34:09](https://news.ycombinator.com/item?id=38247305) - [10k Bounty for Rewriting Prettier in Rust](https://twitter.com/Vjeux/status/1722733472522142022)
 * [2023-11-13, 03:48:44](https://news.ycombinator.com/item?id=38246668) - [Run LLMs on my own Mac fast and efficient Only 2 MBs](https://www.secondstate.io/articles/fast-llm-inference/)
 * [2023-11-13, 03:42:47](https://news.ycombinator.com/item?id=38246624) - [Google pulls Fitbit from almost 30 markets](https://mobilesyrup.com/2023/11/10/google-pulls-fitbit-29-markets-canada-safe/)
 * [2023-11-13, 03:23:27](https://news.ycombinator.com/item?id=38246521) - [Is capitalism dead? Yanis Varoufakis thinks it is – and he knows who killed it](https://theconversation.com/is-capitalism-dead-yanis-varoufakis-thinks-it-is-and-he-knows-who-killed-it-213992)
