@@ -26,7 +26,7 @@
 * [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 13:33:59](https://news.ycombinator.com/item?id=38230161) - [RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
 * [2023-11-11, 13:31:43](https://news.ycombinator.com/item?id=38230141) - [You Can Load Up on Cheap Cores with Updated Milan Epycs](https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/)
-* [2023-11-11, 08:41:20](https://news.ycombinator.com/item?id=38228558) - [Wisconsin snubs bourbon by elevating the brandy Old Fashioned to state cocktail](https://apnews.com/article/wisconsin-old-fashioned-state-cocktail-493498c018a66a121551c54fa7e8ad76)
+* [2023-11-11, 13:08:33](https://news.ycombinator.com/item?id=38229998) - [Lost \"Doctor Who\" episodes found but owner is reluctant to hand them to BBC](https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc)
 * [2023-11-11, 01:44:27](https://news.ycombinator.com/item?id=38226799) - [Locks and Security (2005)](https://www.mattblaze.org/photos/locks.html)
 * [2023-11-10, 23:43:09](https://news.ycombinator.com/item?id=38226057) - [How to Copy Uncopyable Texts on Windows](https://www.howtogeek.com/how-to-copy-uncopyable-texts-on-windows/)
 * [2023-11-10, 22:04:28](https://news.ycombinator.com/item?id=38225150) - [In the 'Wild West' of geometry, mathematicians redefine the sphere](https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/)
