@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-13, 12:17:25",
-      "https://news.ycombinator.com/item?id=38249366"
-    ],
-    [
-      "Self-service: Booths supermarket puts staff back behind its tills",
-      "https://www.bbc.co.uk/news/uk-england-lancashire-67373472"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 12:10:07",
       "https://news.ycombinator.com/item?id=38249316"
     ],
@@ -47,16 +37,6 @@
     [
       "Loro: Reimagine state management with CRDTs",
       "https://www.loro.dev/blog/loro-now-open-source"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 09:51:51",
-      "https://news.ycombinator.com/item?id=38248617"
-    ],
-    [
-      "Google/IAC/Expedia (2019)",
-      "https://www.techemails.com/p/barry-diller-emails-google-exec"
     ]
   ],
   [
@@ -101,16 +81,6 @@
   ],
   [
     [
-      "2023-11-13, 05:54:01",
-      "https://news.ycombinator.com/item?id=38247423"
-    ],
-    [
-      "From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)",
-      "https://journals.sagepub.com/doi/full/10.1177/0003122420912941"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 05:41:01",
       "https://news.ycombinator.com/item?id=38247339"
     ],
@@ -127,6 +97,26 @@
     [
       "Run LLMs on my own Mac fast and efficient Only 2 MBs",
       "https://www.secondstate.io/articles/fast-llm-inference/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 03:05:05",
+      "https://news.ycombinator.com/item?id=38246413"
+    ],
+    [
+      "More Dakka in Medicine",
+      "https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 02:30:48",
+      "https://news.ycombinator.com/item?id=38246209"
+    ],
+    [
+      "Bangladesh removed lead from turmeric spice",
+      "https://www.vox.com/future-perfect/2023/9/20/23881981/bangladesh-tumeric-lead-poisoning-contamination-public-health"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Beg Bounties (2021)",
       "https://www.troyhunt.com/beg-bounties/"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 23:33:31",
+      "https://news.ycombinator.com/item?id=38245240"
+    ],
+    [
+      "0XReasons to Write and Publish",
+      "https://fabiensanglard.net/blog/"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "37, the median value for the second prime factor of an integer",
       "https://grossack.site/2023/11/08/37-median.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 16:36:00",
-      "https://news.ycombinator.com/item?id=38241674"
-    ],
-    [
-      "The evolution of expert communities",
-      "https://lcamtuf.substack.com/p/the-evolution-of-expert-communities"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks",
       "https://www.phoronix.com/news/Linux-6.7-RISC-V"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 13:31:43",
+      "https://news.ycombinator.com/item?id=38230141"
+    ],
+    [
+      "You Can Load Up on Cheap Cores with Updated Milan Epycs",
+      "https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/"
     ]
   ],
   [
