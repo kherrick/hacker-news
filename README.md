@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 16:48:05](https://news.ycombinator.com/item?id=38252215) - [Adulthood Is a Mirage](https://www.thecut.com/2023/11/adulthood-is-a-mirage.html)
 * [2023-11-13, 16:43:03](https://news.ycombinator.com/item?id=38252172) - [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
+* [2023-11-13, 16:22:06](https://news.ycombinator.com/item?id=38251957) - [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 * [2023-11-13, 16:12:44](https://news.ycombinator.com/item?id=38251842) - [Smarter Summaries with Finetuning GPT-3.5 and Chain of Density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
@@ -19,9 +21,7 @@
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Lessons I wish I had learned before teaching differential equations [pdf] (1997)](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
-* [2023-11-13, 05:54:01](https://news.ycombinator.com/item?id=38247423) - [From Aristocratic to Ordinary: Shifting Modes of Elite Distinction (2020)](https://journals.sagepub.com/doi/full/10.1177/0003122420912941)
 * [2023-11-13, 05:20:51](https://news.ycombinator.com/item?id=38247234) - [Cuttlefish and Their Technicolor Dreamcoats](https://hakaimagazine.com/news/cuttlefish-and-their-amazing-technicolor-dreamcoats/)
-* [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-12, 04:13:55](https://news.ycombinator.com/item?id=38237230) - [A Design History of L.A.'S Dingbat Apartment Buildings (2021)](https://www.bloomberg.com/news/features/2021-09-24/a-design-history-of-l-a-s-dingbat-apartment-buildings)
 * [2023-11-12, 00:57:16](https://news.ycombinator.com/item?id=38236198) - [Show HN: Bulk Creation of Transcripts from YouTube Playlists with Whisper](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist)
 * [2023-11-12, 00:45:29](https://news.ycombinator.com/item?id=38236128) - [Hacking a 25 Year Old Game to Make It Work [video]](https://www.youtube.com/watch?v=eQOOx4mmY6I)
