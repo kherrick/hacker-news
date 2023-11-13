@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-13, 16:48:05](https://news.ycombinator.com/item?id=38252215) - [Adulthood Is a Mirage](https://www.thecut.com/2023/11/adulthood-is-a-mirage.html)
+* [2023-11-13, 16:46:40](https://news.ycombinator.com/item?id=38252203) - [EU Official Hopes X Will Face \"Peer Pressure\" to Hire More Censors](https://reclaimthenet.org/eu-official-hopes-x-will-face-peer-pressure-to-hire-more-censors)
 * [2023-11-13, 16:43:03](https://news.ycombinator.com/item?id=38252172) - [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
 * [2023-11-13, 16:22:06](https://news.ycombinator.com/item?id=38251957) - [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
@@ -19,6 +19,7 @@
 * [2023-11-13, 11:22:52](https://news.ycombinator.com/item?id=38249069) - [Vela incident (1979)](https://en.wikipedia.org/wiki/Vela_incident)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Lessons I wish I had learned before teaching differential equations [pdf] (1997)](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+* [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus](https://www.mwasoftware.co.uk/why-ibx)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 05:20:51](https://news.ycombinator.com/item?id=38247234) - [Cuttlefish and Their Technicolor Dreamcoats](https://hakaimagazine.com/news/cuttlefish-and-their-amazing-technicolor-dreamcoats/)
@@ -26,7 +27,6 @@
 * [2023-11-12, 00:57:16](https://news.ycombinator.com/item?id=38236198) - [Show HN: Bulk Creation of Transcripts from YouTube Playlists with Whisper](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist)
 * [2023-11-12, 00:45:29](https://news.ycombinator.com/item?id=38236128) - [Hacking a 25 Year Old Game to Make It Work [video]](https://www.youtube.com/watch?v=eQOOx4mmY6I)
 * [2023-11-11, 15:30:16](https://news.ycombinator.com/item?id=38231160) - [Your small imprecise ask is a big waste of their time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
-* [2023-11-11, 14:26:58](https://news.ycombinator.com/item?id=38230532) - [Terry Pratchett and the Maggi Soup Adverts (2011)](https://gmkeros.wordpress.com/2011/09/02/terry-pratchett-and-the-maggi-soup-adverts/)
 * [2023-11-11, 13:33:59](https://news.ycombinator.com/item?id=38230161) - [RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
 * [2023-11-11, 07:37:03](https://news.ycombinator.com/item?id=38228320) - [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8)
 * [2023-11-11, 07:34:13](https://news.ycombinator.com/item?id=38228310) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)

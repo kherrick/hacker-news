@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
 * [2023-11-13, 16:48:05](https://news.ycombinator.com/item?id=38252215) - [Adulthood Is a Mirage](https://www.thecut.com/2023/11/adulthood-is-a-mirage.html)
+* [2023-11-13, 16:46:40](https://news.ycombinator.com/item?id=38252203) - [EU Official Hopes X Will Face \"Peer Pressure\" to Hire More Censors](https://reclaimthenet.org/eu-official-hopes-x-will-face-peer-pressure-to-hire-more-censors)
 * [2023-11-13, 16:43:03](https://news.ycombinator.com/item?id=38252172) - [Ray Dalio ran Bridgewater like the global strongmen he admired](https://www.semafor.com/article/11/06/2023/ray-dalio-ran-bridgewater-like-the-global-strongmen-he-admired)
 * [2023-11-13, 16:22:06](https://news.ycombinator.com/item?id=38251957) - [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
@@ -32,6 +33,7 @@
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
 * [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [\"I'm on the edge of revolt\" – Internal Tech Emails](https://www.techemails.com/p/barry-diller-emails-google-exec)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+* [2023-11-13, 09:18:23](https://news.ycombinator.com/item?id=38248422) - [Why IBX and Why Lazarus](https://www.mwasoftware.co.uk/why-ibx)
 * [2023-11-13, 09:18:21](https://news.ycombinator.com/item?id=38248421) - [Ruby on Rails: The Documentary [video]](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said;](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 07:11:55](https://news.ycombinator.com/item?id=38247767) - [SRAM in AI: The Future of Memory](https://semiengineering.com/sram-in-ai-the-future-of-memory/)
