@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-11-13, 02:33:35",
-      "https://news.ycombinator.com/item?id=38246226"
-    ],
-    [
-      "Tuxedo Pulse Gen 3",
-      "https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 02:30:48",
       "https://news.ycombinator.com/item?id=38246209"
     ],
@@ -287,6 +277,16 @@
     [
       "RFC 9420 – A Messaging Layer Security Overview",
       "https://www.thestack.technology/rfc9420-ietf-mls-standard/"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 06:49:50",
+      "https://news.ycombinator.com/item?id=38228122"
+    ],
+    [
+      "Variadic generics, again",
+      "https://poignardazur.github.io//2023/11/08/time-for-variadic-generics/"
     ]
   ],
   [
