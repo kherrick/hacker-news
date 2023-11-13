@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 14:29:27](https://news.ycombinator.com/item?id=38250470) - [Ask HN: Does \"trust\" eliminate the need for code reviews?](https://news.ycombinator.com/item?id=38250470)
 * [2023-11-13, 14:22:00](https://news.ycombinator.com/item?id=38250382) - [Unity announces layoffs despite increased revenue and reduced losses](https://www.gamesindustry.biz/unity-announces-layoffs-despite-increased-revenue-and-reduced-losses)
@@ -42,3 +43,4 @@
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
 * [2023-11-13, 01:04:36](https://news.ycombinator.com/item?id=38245762) - [The Diamond World Takes Radical Steps to Stop a Pricing Plunge](https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market)
 * [2023-11-13, 00:44:29](https://news.ycombinator.com/item?id=38245665) - [Show HN: Interactive AI Resume/LinkedIn for better networking/job hunting](https://www.protoconstruct.com/chat/652af6c4238991f5e5f2eb57)
+* [2023-11-13, 00:19:47](https://news.ycombinator.com/item?id=38245542) - [The Life Sentence](https://isonomiaquarterly.com/archive/volume-1-issue-1/the-life-sentence/)
