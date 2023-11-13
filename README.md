@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 03:05:05](https://news.ycombinator.com/item?id=38246413) - [More Dakka in Medicine](https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/)
 * [2023-11-13, 02:33:35](https://news.ycombinator.com/item?id=38246226) - [Tuxedo Pulse Gen 3](https://www.tuxedocomputers.com/en/TUXEDO-Pulse-14-Gen3.tuxedo)
 * [2023-11-13, 01:57:35](https://news.ycombinator.com/item?id=38246032) - [MLPerf training tests put Nvidia ahead, Intel close, and Google well behind](https://spectrum.ieee.org/generative-ai-training)
 * [2023-11-13, 01:39:37](https://news.ycombinator.com/item?id=38245935) - [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
@@ -19,7 +20,6 @@
 * [2023-11-12, 15:54:46](https://news.ycombinator.com/item?id=38241235) - [Generate images fast with SD 1.5 while typing on Gradio](https://twitter.com/abidlabs/status/1723074108739706959)
 * [2023-11-12, 14:32:13](https://news.ycombinator.com/item?id=38240370) - [How to Share a Secret (Shamir Secret Sharing)](https://www.vicyyn.com/blog/shamir-secret-sharing)
 * [2023-11-12, 14:28:22](https://news.ycombinator.com/item?id=38240333) - [Free Oberon: Cross-platform Oberon IDE](https://free.oberon.org/en/)
-* [2023-11-12, 13:06:01](https://news.ycombinator.com/item?id=38239735) - [The attack against Danish, critical infrastructure [pdf]](https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf)
 * [2023-11-12, 13:04:19](https://news.ycombinator.com/item?id=38239728) - [Open, rigorous and reproducible research: A practitioner’s handbook (2021)](https://stanforddatascience.github.io/best-practices/index.html)
 * [2023-11-12, 09:11:07](https://news.ycombinator.com/item?id=38238658) - [Map of Space Invader Mosaics in Paris](https://pnote.eu/projects/invaders/map.html)
 * [2023-11-12, 02:15:28](https://news.ycombinator.com/item?id=38236607) - [Wisdom from computing's past](https://lewiscampbell.tech/blog/231112.html)
