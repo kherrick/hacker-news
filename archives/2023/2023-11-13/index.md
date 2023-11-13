@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 17:20:32](https://news.ycombinator.com/item?id=38252625) - [How to Fathom Climate Change's Unfathomable Numbers](https://www.bloomberg.com/news/articles/2023-11-11/how-to-fathom-climate-change-s-unfathomable-numbers)
 * [2023-11-13, 17:01:10](https://news.ycombinator.com/item?id=38252360) - [A Revolution in Computer Graphics Is Bringing 3D Reality Capture to the Masses](https://singularityhub.com/2023/11/06/a-revolution-in-computer-graphics-is-bringing-3d-reality-capture-to-the-masses/)
 * [2023-11-13, 16:48:05](https://news.ycombinator.com/item?id=38252215) - [Adulthood Is a Mirage](https://www.thecut.com/2023/11/adulthood-is-a-mirage.html)
 * [2023-11-13, 16:46:40](https://news.ycombinator.com/item?id=38252203) - [EU Official Hopes X Will Face \"Peer Pressure\" to Hire More Censors](https://reclaimthenet.org/eu-official-hopes-x-will-face-peer-pressure-to-hire-more-censors)
@@ -11,6 +12,7 @@
 * [2023-11-13, 16:22:06](https://news.ycombinator.com/item?id=38251957) - [Hacking Google Bard – From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 * [2023-11-13, 16:12:44](https://news.ycombinator.com/item?id=38251842) - [Smarter Summaries with Finetuning GPT-3.5 and Chain of Density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
+* [2023-11-13, 16:12:39](https://news.ycombinator.com/item?id=38251841) - [BlackRock and housing: Setting the record straight](https://www.blackrock.com/corporate/newsroom/setting-the-record-straight/buying-houses-facts)
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
 * [2023-11-13, 15:19:39](https://news.ycombinator.com/item?id=38251154) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-gb/data-center/h200/)
 * [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD Is Using Drones 3X More Than It Used To](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
