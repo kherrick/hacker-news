@@ -7,7 +7,7 @@
 * [2023-11-13, 20:04:56](https://news.ycombinator.com/item?id=38254656) - [Reauthorizing Mass Surveillance Shouldn't Be Tied to Funding the Government](https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government)
 * [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 * [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-* [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: Bitemporal, Binary JSON Database System and Event Store](https://news.ycombinator.com/item?id=38252963)
+* [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: Bitemporal – Binary JSON database system and event store](https://news.ycombinator.com/item?id=38252963)
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-13, 17:08:21](https://news.ycombinator.com/item?id=38252449) - [Cosmological galaxy formation simulation software](https://www.tng-project.org/about/)
