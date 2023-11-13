@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-13, 13:42:37",
+      "https://news.ycombinator.com/item?id=38250001"
+    ],
+    [
+      "To free the Baltic grid, old technology is new again",
+      "https://spectrum.ieee.org/baltic-power-grid"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 13:36:23",
       "https://news.ycombinator.com/item?id=38249938"
     ],
     [
-      "Tragedy of Return to Hostile Offices",
+      "Tragedy of return to hostile offices",
       "https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 13:14:17",
+      "https://news.ycombinator.com/item?id=38249742"
+    ],
+    [
+      "Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal",
+      "https://github.com/DeadlyRedCube/Cathode-Retro"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Ship Shape",
       "https://www.canva.dev/blog/engineering/ship-shape/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 11:22:52",
+      "https://news.ycombinator.com/item?id=38249069"
+    ],
+    [
+      "Vela incident (1979)",
+      "https://en.wikipedia.org/wiki/Vela_incident"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-11-12, 22:49:33",
-      "https://news.ycombinator.com/item?id=38244927"
-    ],
-    [
-      "The Apollo Guidance Computer (2021)",
-      "https://www.computer.org/csdl/magazine/mi/2021/06/09623432/1yJTxgRWQgg"
-    ]
-  ],
-  [
-    [
       "2023-11-12, 20:48:30",
       "https://news.ycombinator.com/item?id=38243949"
     ],
     [
       "Show HN: Open-source digital stylus with six degrees of freedom",
       "https://github.com/Jcparkyn/dpoint"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 18:45:48",
-      "https://news.ycombinator.com/item?id=38242946"
-    ],
-    [
-      "37, the median value for the second prime factor of an integer",
-      "https://grossack.site/2023/11/08/37-median.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks",
       "https://www.phoronix.com/news/Linux-6.7-RISC-V"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 13:31:43",
-      "https://news.ycombinator.com/item?id=38230141"
-    ],
-    [
-      "Loading up on cheap cores with updated Milan Epycs",
-      "https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/"
     ]
   ],
   [
