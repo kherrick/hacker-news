@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-13, 09:51:51](https://news.ycombinator.com/item?id=38248617) - [\"I'm on the edge of revolt\" – Internal Tech Emails](https://www.techemails.com/p/barry-diller-emails-google-exec)
 * [2023-11-13, 09:36:16](https://news.ycombinator.com/item?id=38248532) - [Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 * [2023-11-13, 07:51:00](https://news.ycombinator.com/item?id=38247964) - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 07:11:55](https://news.ycombinator.com/item?id=38247767) - [SRAM in AI: The Future of Memory](https://semiengineering.com/sram-in-ai-the-future-of-memory/)
@@ -22,7 +23,6 @@
 * [2023-11-12, 16:36:00](https://news.ycombinator.com/item?id=38241674) - [The evolution of expert communities](https://lcamtuf.substack.com/p/the-evolution-of-expert-communities)
 * [2023-11-12, 00:57:16](https://news.ycombinator.com/item?id=38236198) - [Show HN: Bulk Creation of Transcripts from YouTube Playlists with Whisper](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist)
 * [2023-11-12, 00:45:29](https://news.ycombinator.com/item?id=38236128) - [Hacking a 25 Year Old Game to Make It Work [video]](https://www.youtube.com/watch?v=eQOOx4mmY6I)
-* [2023-11-11, 18:05:58](https://news.ycombinator.com/item?id=38232767) - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 * [2023-11-11, 13:36:00](https://news.ycombinator.com/item?id=38230176) - [Small Group Dynamics](https://cod.pressbooks.pub/communication/chapter/13-3-small-group-dynamics/)
 * [2023-11-11, 13:33:59](https://news.ycombinator.com/item?id=38230161) - [RISC-V with Linux 6.7 Gains Optimized TLB Flushing, Software Shadow Call Stacks](https://www.phoronix.com/news/Linux-6.7-RISC-V)
 * [2023-11-11, 13:31:43](https://news.ycombinator.com/item?id=38230141) - [You Can Load Up on Cheap Cores with Updated Milan Epycs](https://www.nextplatform.com/2023/11/08/you-can-load-up-on-cheap-cores-with-updated-milan-epycs/)
