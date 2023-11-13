@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-12, 21:17:02",
-      "https://news.ycombinator.com/item?id=38244149"
+      "2023-11-12, 23:24:12",
+      "https://news.ycombinator.com/item?id=38245187"
     ],
     [
-      "Porsche Open Source Platform",
-      "https://opensource.porsche.com/"
+      "Geohash",
+      "https://en.wikipedia.org/wiki/Geohash"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 22:21:48",
+      "https://news.ycombinator.com/item?id=38244703"
+    ],
+    [
+      "GM Backed \"Open Source Protocol\" for Connecting Vehicle Apps and Services",
+      "https://projects.eclipse.org/projects/automotive.uprotocol"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Lightweight Linux Distributions for Older PCs",
       "https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 18:50:43",
+      "https://news.ycombinator.com/item?id=38242992"
+    ],
+    [
+      "Days of The Jackal: how Andrew Wylie turned serious literature into big business",
+      "https://www.theguardian.com/books/2023/nov/09/andrew-wylie-agency-days-of-the-jackal-serious-literature-big-business"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2023-11-12, 16:36:00",
+      "https://news.ycombinator.com/item?id=38241674"
+    ],
+    [
+      "The evolution of expert communities",
+      "https://lcamtuf.substack.com/p/the-evolution-of-expert-communities"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 16:27:25",
       "https://news.ycombinator.com/item?id=38241583"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-11-12, 15:06:29",
-      "https://news.ycombinator.com/item?id=38240689"
-    ],
-    [
-      "Matplotlib",
-      "https://matplotlib.org/"
-    ]
-  ],
-  [
-    [
       "2023-11-12, 14:28:22",
       "https://news.ycombinator.com/item?id=38240333"
     ],
@@ -157,16 +177,6 @@
     [
       "Open, rigorous and reproducible research: A practitioner’s handbook (2021)",
       "https://stanforddatascience.github.io/best-practices/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 12:27:34",
-      "https://news.ycombinator.com/item?id=38239542"
-    ],
-    [
-      "Upcoming changes to Rust's borrow checker",
-      "https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Map of Space Invader Mosaics in Paris",
       "https://pnote.eu/projects/invaders/map.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 07:38:25",
-      "https://news.ycombinator.com/item?id=38238180"
-    ],
-    [
-      "The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)",
-      "http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html"
     ]
   ],
   [
