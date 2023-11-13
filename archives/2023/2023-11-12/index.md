@@ -84,6 +84,7 @@
 * [2023-11-12, 05:54:06](https://news.ycombinator.com/item?id=38237696) - [An Overview of Nix in Practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 05:03:03](https://news.ycombinator.com/item?id=38237472) - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
 * [2023-11-12, 04:24:00](https://news.ycombinator.com/item?id=38237287) - [Tesla will sue you if you try to flip your low-VIN Cybertruck](https://electrek.co/2023/11/11/tesla-will-sue-you-if-you-try-to-flip-your-low-vin-cybertruck/)
+* [2023-11-12, 04:13:55](https://news.ycombinator.com/item?id=38237230) - [A Design History of L.A.'S Dingbat Apartment Buildings (2021)](https://www.bloomberg.com/news/features/2021-09-24/a-design-history-of-l-a-s-dingbat-apartment-buildings)
 * [2023-11-12, 03:58:52](https://news.ycombinator.com/item?id=38237166) - [Oregon Decriminalized Hard Drugs. It Isn't Working](https://www.wsj.com/us-news/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476)
 * [2023-11-12, 02:35:04](https://news.ycombinator.com/item?id=38236701) - [Cybertruck buyers forbidden from selling for the first year](https://www.threads.net/@emperorswithoutclothes/post/CzhwpeNrIJy)
 * [2023-11-12, 02:32:25](https://news.ycombinator.com/item?id=38236684) - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
