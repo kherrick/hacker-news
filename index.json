@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-13, 11:51:00",
+      "https://news.ycombinator.com/item?id=38249214"
+    ],
+    [
+      "Ship Shape",
+      "https://www.canva.dev/blog/engineering/ship-shape/"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 09:51:51",
       "https://news.ycombinator.com/item?id=38248617"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38248532"
     ],
     [
-      "Ten Lessons I Wish I Had Learned Before Teaching Differential Equations [pdf]",
+      "Lessons I wish I had learned before teaching differential equations [pdf] (1997)",
       "https://web.williams.edu/Mathematics/lg5/Rota.pdf"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "RFC 9420 – A Messaging Layer Security Overview",
       "https://www.thestack.technology/rfc9420-ietf-mls-standard/"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 06:49:50",
-      "https://news.ycombinator.com/item?id=38228122"
-    ],
-    [
-      "Variadic generics, again",
-      "https://poignardazur.github.io//2023/11/08/time-for-variadic-generics/"
     ]
   ]
 ]
