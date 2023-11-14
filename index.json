@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-14, 10:34:08",
+      "https://news.ycombinator.com/item?id=38261539"
+    ],
+    [
+      "Rust Without Crates.io",
+      "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 10:17:35",
+      "https://news.ycombinator.com/item?id=38261415"
+    ],
+    [
+      "EU Parliament Decides That Your Private Messages Must Not Be Scanned",
+      "https://tuta.com/blog/chat-control"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 09:54:44",
+      "https://news.ycombinator.com/item?id=38261232"
+    ],
+    [
+      "Implementing Tic Tac Toe with 170mb of HTML – No JavaScript or CSS",
+      "https://portswigger.net/blog/tic-tac-toe-in-html"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 09:26:42",
       "https://news.ycombinator.com/item?id=38260982"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-11-13, 17:51:42",
-      "https://news.ycombinator.com/item?id=38252963"
-    ],
-    [
-      "Show HN: SirixDB  – Bitemporal binary JSON database system and event store",
-      "https://github.com/sirixdb/sirix"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 17:50:27",
       "https://news.ycombinator.com/item?id=38252947"
     ],
@@ -167,16 +187,6 @@
     [
       "Building an occupancy sensor with a $5 ESP32 and a serverless DB",
       "https://matthew.science/posts/occupancy/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 17:08:21",
-      "https://news.ycombinator.com/item?id=38252449"
-    ],
-    [
-      "Cosmological galaxy formation simulation software",
-      "https://www.tng-project.org/about/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Jorge Luis Borges and the Labyrinths of Copyright",
       "https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 11:51:00",
-      "https://news.ycombinator.com/item?id=38249214"
-    ],
-    [
-      "Ship Shape",
-      "https://www.canva.dev/blog/engineering/ship-shape/"
     ]
   ],
   [
