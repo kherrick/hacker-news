@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-14, 02:51:06",
-      "https://news.ycombinator.com/item?id=38258406"
-    ],
-    [
-      "OpenAI offers $10M pay packages to poach Google researchers",
-      "https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 02:13:10",
       "https://news.ycombinator.com/item?id=38258101"
     ],
@@ -277,6 +267,16 @@
     [
       "Samba smb2/3 server in go",
       "https://github.com/macos-fuse-t/go-smb2"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 11:51:00",
+      "https://news.ycombinator.com/item?id=38249214"
+    ],
+    [
+      "Ship Shape",
+      "https://www.canva.dev/blog/engineering/ship-shape/"
     ]
   ],
   [
