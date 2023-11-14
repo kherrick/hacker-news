@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-14, 17:36:02",
+      "https://news.ycombinator.com/item?id=38266569"
+    ],
+    [
+      "Ubuntu 24.04 LTS Committing to Netplan for Network Configuration",
+      "https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 17:29:54",
       "https://news.ycombinator.com/item?id=38266467"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38266216"
     ],
     [
-      "Miyazaki's 'The Boy and the Heron's makes clear the world is a fragile place",
+      "Miyazaki's 'The Boy and the Heron' makes clear the world is a fragile place",
       "https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-11-14, 14:24:05",
-      "https://news.ycombinator.com/item?id=38263621"
-    ],
-    [
-      "Tuta (formerly Tutanota) denies claim it has intelligence ties",
-      "https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 14:07:19",
       "https://news.ycombinator.com/item?id=38263435"
     ],
@@ -137,6 +137,16 @@
     [
       "A Lot of Damage in Grindavík",
       "https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 13:20:26",
+      "https://news.ycombinator.com/item?id=38262949"
+    ],
+    [
+      "48-nation bloc to crack down on using crypto assets to avoid tax",
+      "https://www.theregister.com/2023/11/13/carf_2027_adoption_set/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Placemark is going open source and shutting down",
       "https://macwright.com/2023/11/13/placemark"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 13:13:18",
-      "https://news.ycombinator.com/item?id=38249730"
-    ],
-    [
-      "Show HN: Easily Visualize Your SQLAlchemy Data Models in a Nice SVG Diagram",
-      "https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer"
     ]
   ],
   [
