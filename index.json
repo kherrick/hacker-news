@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-14, 02:02:33",
+      "https://news.ycombinator.com/item?id=38258015"
+    ],
+    [
+      "Kai-Fu Li's Yi-34B uses exactly Llama's architecture except for 2 tensor renamed",
+      "https://huggingface.co/01-ai/Yi-34B/discussions/11"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 01:32:58",
       "https://news.ycombinator.com/item?id=38257794"
     ],
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=38257284"
     ],
     [
-      "The Laptop That Won't Die?",
+      "The laptop that won't die",
       "https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 00:19:36",
-      "https://news.ycombinator.com/item?id=38257187"
-    ],
-    [
-      "What Is Agent AI and Why All the Excitement?",
-      "https://agent.ai/p/agent-ai-excitement"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Panama Canal is so congested that one ship owner paid $4M to skip the line",
       "https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 19:28:01",
-      "https://news.ycombinator.com/item?id=38254153"
-    ],
-    [
-      "Algorithms (2019)",
-      "http://jeffe.cs.illinois.edu/teaching/algorithms/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Guidance on implementing cryptography as a developer",
       "https://github.com/samuel-lucas6/Cryptography-Guidelines"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 12:42:35",
+      "https://news.ycombinator.com/item?id=38249515"
+    ],
+    [
+      "Samba smb2/3 server in go",
+      "https://github.com/macos-fuse-t/go-smb2"
     ]
   ],
   [
