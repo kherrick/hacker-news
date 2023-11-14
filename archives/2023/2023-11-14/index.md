@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 19:56:52](https://news.ycombinator.com/item?id=38268737) - [CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
 * [2023-11-14, 19:40:16](https://news.ycombinator.com/item?id=38268470) - [LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]](https://www.youtube.com/watch?v=JhCl-GeT4jw)
 * [2023-11-14, 19:14:47](https://news.ycombinator.com/item?id=38268043) - [Google researchers discover 'Reptar', a new CPU vulnerability](https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability)
 * [2023-11-14, 19:03:14](https://news.ycombinator.com/item?id=38267891) - [Ask HN: How did you get people to visit your personal blog?](https://news.ycombinator.com/item?id=38267891)
@@ -61,6 +62,7 @@
 * [2023-11-14, 11:55:57](https://news.ycombinator.com/item?id=38262182) - [US Healthcare Scam Illustrated in Impossibility of Getting Bill for 5 Stitches](https://www.techdirt.com/2023/11/13/the-us-healthcare-scam-illustrated-in-the-impossibility-of-getting-a-bill-for-five-stitches/)
 * [2023-11-14, 11:48:37](https://news.ycombinator.com/item?id=38262124) - [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
 * [2023-11-14, 11:47:06](https://news.ycombinator.com/item?id=38262115) - [If you buy a Cybertruck, Tesla says you can't sell it for a year](https://www.theverge.com/2023/11/13/23959481/if-you-buy-a-cybertruck-tesla-says-you-cant-sell-it-for-a-year)
+* [2023-11-14, 11:31:40](https://news.ycombinator.com/item?id=38261982) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
 * [2023-11-14, 11:11:22](https://news.ycombinator.com/item?id=38261797) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h200/)
 * [2023-11-14, 10:53:05](https://news.ycombinator.com/item?id=38261673) - [What's driving social justice ideology? The US and UK compared](https://www.thepathnottaken.net/p/whats-driving-social-justice-ideology)

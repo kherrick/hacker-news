@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 19:56:52](https://news.ycombinator.com/item?id=38268737) - [CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
 * [2023-11-14, 19:40:16](https://news.ycombinator.com/item?id=38268470) - [LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]](https://www.youtube.com/watch?v=JhCl-GeT4jw)
 * [2023-11-14, 19:14:47](https://news.ycombinator.com/item?id=38268043) - ['Reptar', a new CPU vulnerability](https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability)
 * [2023-11-14, 18:53:10](https://news.ycombinator.com/item?id=38267739) - [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
@@ -8,7 +9,6 @@
 * [2023-11-14, 17:55:39](https://news.ycombinator.com/item?id=38266867) - [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
 * [2023-11-14, 17:51:05](https://news.ycombinator.com/item?id=38266792) - [Mechanism behind aspirin protective effect against colorectal cancer identified](https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
-* [2023-11-14, 17:36:02](https://news.ycombinator.com/item?id=38266569) - [Ubuntu 24.04 LTS Committing to Netplan for Network Configuration](https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan)
 * [2023-11-14, 17:14:28](https://news.ycombinator.com/item?id=38266216) - [Miyazaki's 'The Boy and the Heron' makes clear the world is a fragile place](https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron)
 * [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
 * [2023-11-14, 16:46:32](https://news.ycombinator.com/item?id=38265773) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
@@ -23,7 +23,7 @@
 * [2023-11-14, 12:11:50](https://news.ycombinator.com/item?id=38262320) - [Announcing the MonoGame Foundation](https://community.monogame.net/t/announcing-the-monogame-foundation/19809)
 * [2023-11-14, 12:11:30](https://news.ycombinator.com/item?id=38262315) - [Blender 4.0 release notes](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
 * [2023-11-14, 11:57:34](https://news.ycombinator.com/item?id=38262196) - [Footsteps of pi](https://axleos.com/footsteps-of-pi/)
-* [2023-11-14, 11:48:37](https://news.ycombinator.com/item?id=38262124) - [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
+* [2023-11-14, 11:31:40](https://news.ycombinator.com/item?id=38261982) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
 * [2023-11-14, 07:14:07](https://news.ycombinator.com/item?id=38260069) - [Astronauts drop tool bag into orbit that you can see with binoculars](https://www.usatoday.com/story/news/nation/2023/11/10/nasa-tool-bag-dropped-by-astronauts-international-space-station/71536725007/)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
