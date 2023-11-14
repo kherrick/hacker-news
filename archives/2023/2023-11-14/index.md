@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 09:20:07](https://news.ycombinator.com/item?id=38260935) - [The Linux kernel has been accidentally hardcoded to a maximum of 8 cores](https://thehftguy.com/2023/11/14/the-linux-kernel-has-been-accidentally-hardcoded-to-a-maximum-of-8-cores-for-nearly-20-years/)
 * [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
 * [2023-11-14, 07:07:49](https://news.ycombinator.com/item?id=38260030) - [YouTube Premium doesn't guarantee an ad-free experience](https://www.androidauthority.com/remove-youtube-premium-ads-3384953/)
 * [2023-11-14, 05:14:30](https://news.ycombinator.com/item?id=38259436) - [They Want to Be Gatekeepers: Car Dealers Are Stopping Customers from Buying EVs](https://jalopnik.com/car-dealers-are-stopping-customers-from-buying-evs-1851017999)

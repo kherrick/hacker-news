@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 09:20:07](https://news.ycombinator.com/item?id=38260935) - [The Linux kernel has been accidentally hardcoded to a maximum of 8 cores](https://thehftguy.com/2023/11/14/the-linux-kernel-has-been-accidentally-hardcoded-to-a-maximum-of-8-cores-for-nearly-20-years/)
 * [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
@@ -12,7 +13,6 @@
 * [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 * [2023-11-13, 21:45:55](https://news.ycombinator.com/item?id=38255808) - [Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-11-13, 21:12:22](https://news.ycombinator.com/item?id=38255455) - [Inequalities, convergence, and continuity as \"special deals\"](https://terrytao.wordpress.com/2023/06/04/inequalities-convergence-and-continuity-as-special-deals/)
-* [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 * [2023-11-13, 18:26:03](https://news.ycombinator.com/item?id=38253384) - [Google pays Apple 36% of the revenue it earns from searches in Safari](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: SirixDB  – Bitemporal binary JSON database system and event store](https://github.com/sirixdb/sirix)
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
