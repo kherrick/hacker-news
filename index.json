@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-11-14, 13:06:16",
-      "https://news.ycombinator.com/item?id=38262827"
+      "2023-11-14, 13:00:55",
+      "https://news.ycombinator.com/item?id=38262775"
     ],
     [
-      "Coinbase Steals Money",
-      "https://news.ycombinator.com/item?id=38262827"
+      "Lapce Editor v0.3 Released",
+      "https://github.com/lapce/lapce/releases/tag/v0.3.0"
     ]
   ],
   [
@@ -77,6 +77,26 @@
     [
       "EU Parliament Decides That Your Private Messages Must Not Be Scanned",
       "https://tuta.com/blog/chat-control"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 09:58:47",
+      "https://news.ycombinator.com/item?id=38261271"
+    ],
+    [
+      "Hikvision Wins Project Requiring Ramadan Alerts Against Minorities",
+      "https://ipvm.com/reports/hikvision-fasting"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 09:54:44",
+      "https://news.ycombinator.com/item?id=38261232"
+    ],
+    [
+      "Implementing Tic Tac Toe with 170mb of HTML – No JavaScript or CSS",
+      "https://portswigger.net/blog/tic-tac-toe-in-html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-11-13, 17:50:27",
-      "https://news.ycombinator.com/item?id=38252947"
-    ],
-    [
-      "Researchers identify 'switch' to activate cancer cell death",
-      "https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 17:17:14",
       "https://news.ycombinator.com/item?id=38252566"
     ],
@@ -207,26 +217,6 @@
     [
       "Hacking Google Bard – From Prompt Injection to Data Exfiltration",
       "https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 16:12:44",
-      "https://news.ycombinator.com/item?id=38251842"
-    ],
-    [
-      "Smarter summaries with finetuning GPT-3.5 and chain of density",
-      "https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 15:31:43",
-      "https://news.ycombinator.com/item?id=38251330"
-    ],
-    [
-      "HTML Web Components",
-      "https://blog.jim-nielsen.com/2023/html-web-components/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Popcount walks: next, previous, toward and nearest",
       "http://marc-b-reynolds.github.io/math/2023/11/09/PopNextPrev.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 11:51:00",
+      "https://news.ycombinator.com/item?id=38249214"
+    ],
+    [
+      "Ship Shape",
+      "https://www.canva.dev/blog/engineering/ship-shape/"
     ]
   ],
   [
