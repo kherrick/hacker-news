@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-11-14, 19:55:18",
+      "https://news.ycombinator.com/item?id=38268706"
+    ],
+    [
+      "We Need to Bring Back Webrings",
+      "https://arne.me/articles/we-need-to-bring-back-webrings"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 19:27:07",
       "https://news.ycombinator.com/item?id=38268271"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2023-11-14, 17:55:39",
+      "https://news.ycombinator.com/item?id=38266867"
+    ],
+    [
+      "AI chemist could make oxygen on Mars",
+      "https://www.nature.com/articles/d41586-023-03522-4"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 17:51:05",
       "https://news.ycombinator.com/item?id=38266792"
     ],
@@ -121,22 +141,22 @@
   ],
   [
     [
+      "2023-11-14, 17:22:50",
+      "https://news.ycombinator.com/item?id=38266340"
+    ],
+    [
+      "Rivian software update bricks infotainment system, fix not obvious",
+      "https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 16:46:32",
       "https://news.ycombinator.com/item?id=38265773"
     ],
     [
       "YJIT is the most memory-efficient Ruby JIT",
       "https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 16:42:33",
-      "https://news.ycombinator.com/item?id=38265714"
-    ],
-    [
-      "Photos of Roger Penrose’s journal",
-      "https://abakcus.com/directory/roger-penroses-beautiful-journal/"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2023-11-14, 14:38:57",
-      "https://news.ycombinator.com/item?id=38263786"
-    ],
-    [
-      "PyPI has completed its first security audit",
-      "https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 14:07:19",
-      "https://news.ycombinator.com/item?id=38263435"
-    ],
-    [
-      "Backblaze Drive Stats for Q3 2023",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 13:54:41",
       "https://news.ycombinator.com/item?id=38263294"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2023-11-14, 13:00:55",
-      "https://news.ycombinator.com/item?id=38262775"
+      "2023-11-14, 13:36:58",
+      "https://news.ycombinator.com/item?id=38263118"
     ],
     [
-      "Lapce Editor 0.3",
-      "https://github.com/lapce/lapce/releases/tag/v0.3.0"
+      "Hello, stranger – Talking to random people",
+      "https://willem.com/blog/2023-10-13_hello-stranger/"
     ]
   ],
   [
     [
-      "2023-11-14, 12:11:30",
-      "https://news.ycombinator.com/item?id=38262315"
+      "2023-11-14, 12:04:10",
+      "https://news.ycombinator.com/item?id=38262251"
     ],
     [
-      "Blender 4.0 release notes",
-      "https://wiki.blender.org/wiki/Reference/Release_Notes/4.0"
+      "Four Kinds of Optimisation",
+      "https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-11-14, 10:34:08",
+      "https://news.ycombinator.com/item?id=38261539"
+    ],
+    [
+      "Rust without crates.io",
+      "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 07:14:07",
       "https://news.ycombinator.com/item?id=38260069"
     ],
@@ -261,32 +271,22 @@
   ],
   [
     [
-      "2023-11-14, 07:00:33",
-      "https://news.ycombinator.com/item?id=38259991"
-    ],
-    [
-      "Thermal transistors handle heat with no moving parts",
-      "https://spectrum.ieee.org/thermal-transistor"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 01:32:58",
-      "https://news.ycombinator.com/item?id=38257794"
-    ],
-    [
-      "Starship will attempt a launch this Friday",
-      "https://www.fly.faa.gov/adv/adv_spt.jsp"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 14:28:53",
       "https://news.ycombinator.com/item?id=38250459"
     ],
     [
       "Placemark is going open source and shutting down",
       "https://macwright.com/2023/11/13/placemark"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 13:03:12",
+      "https://news.ycombinator.com/item?id=38249649"
+    ],
+    [
+      "Popcount walks: next, previous, toward and nearest",
+      "http://marc-b-reynolds.github.io/math/2023/11/09/PopNextPrev.html"
     ]
   ],
   [
