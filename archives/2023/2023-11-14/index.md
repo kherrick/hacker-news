@@ -69,6 +69,7 @@
 * [2023-11-14, 12:11:50](https://news.ycombinator.com/item?id=38262320) - [Announcing the MonoGame Foundation](https://community.monogame.net/t/announcing-the-monogame-foundation/19809)
 * [2023-11-14, 12:11:30](https://news.ycombinator.com/item?id=38262315) - [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
 * [2023-11-14, 12:04:10](https://news.ycombinator.com/item?id=38262251) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
+* [2023-11-14, 11:59:21](https://news.ycombinator.com/item?id=38262211) - [Maryland Fried chicken: A storied dish with Titanic history](https://www.bbc.com/travel/article/20231112-maryland-fried-chicken-a-storied-dish-with-titanic-history)
 * [2023-11-14, 11:57:34](https://news.ycombinator.com/item?id=38262196) - [Footsteps of pi](https://axleos.com/footsteps-of-pi/)
 * [2023-11-14, 11:55:57](https://news.ycombinator.com/item?id=38262182) - [US Healthcare Scam Illustrated in Impossibility of Getting Bill for 5 Stitches](https://www.techdirt.com/2023/11/13/the-us-healthcare-scam-illustrated-in-the-impossibility-of-getting-a-bill-for-five-stitches/)
 * [2023-11-14, 11:48:37](https://news.ycombinator.com/item?id=38262124) - [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
