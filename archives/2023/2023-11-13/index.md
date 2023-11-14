@@ -64,6 +64,7 @@
 * [2023-11-13, 13:04:53](https://news.ycombinator.com/item?id=38249664) - [Micron Introduces 128 GB DDR5-8000 RDIMMs with Monolithic 32 GB Die](https://www.anandtech.com/show/21129/micron-introduces-128-gb-ddr58000-rdimms-with-monolithic-32-gb-dice)
 * [2023-11-13, 12:57:51](https://news.ycombinator.com/item?id=38249616) - [Compressing Codebase Collocates](https://taylor.town/code-collocates)
 * [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Netflix Loses Patent Dispute to Broadcom in Germany, Ordered to Stop Using HEVC](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
+* [2023-11-13, 12:42:35](https://news.ycombinator.com/item?id=38249515) - [Samba smb2/3 server in go](https://github.com/macos-fuse-t/go-smb2)
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
 * [2023-11-13, 12:23:42](https://news.ycombinator.com/item?id=38249404) - [URL Explained – The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
 * [2023-11-13, 12:17:25](https://news.ycombinator.com/item?id=38249366) - [Self-service: Booths supermarket puts staff back behind its tills](https://www.bbc.co.uk/news/uk-england-lancashire-67373472)
