@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 10:34:08](https://news.ycombinator.com/item?id=38261539) - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
+* [2023-11-14, 10:17:35](https://news.ycombinator.com/item?id=38261415) - [EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
+* [2023-11-14, 09:54:44](https://news.ycombinator.com/item?id=38261232) - [Implementing Tic Tac Toe with 170mb of HTML – No JavaScript or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
 * [2023-11-14, 09:26:42](https://news.ycombinator.com/item?id=38260982) - [Children working as riders for food delivery apps – BBC investigation](https://www.bbc.co.uk/news/uk-67371473)
 * [2023-11-14, 09:20:07](https://news.ycombinator.com/item?id=38260935) - [The Linux kernel has been accidentally hardcoded to a maximum of 8 cores](https://thehftguy.com/2023/11/14/the-linux-kernel-has-been-accidentally-hardcoded-to-a-maximum-of-8-cores-for-nearly-20-years/)
 * [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
