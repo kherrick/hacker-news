@@ -15,3 +15,4 @@
 * [2023-11-14, 00:33:59](https://news.ycombinator.com/item?id=38257284) - [The Laptop That Won't Die?](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
 * [2023-11-14, 00:19:36](https://news.ycombinator.com/item?id=38257187) - [What Is Agent AI and Why All the Excitement?](https://agent.ai/p/agent-ai-excitement)
 * [2023-11-14, 00:08:45](https://news.ycombinator.com/item?id=38257094) - [A Coder Considers the Waning Days of the Craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
+* [2023-11-14, 00:01:49](https://news.ycombinator.com/item?id=38257049) - [Show HN: The World's Cheapest Supercomputer](https://sfcompute.com/blog/worlds-cheapest-supercomputer)
