@@ -63,6 +63,7 @@
 * [2023-11-13, 13:10:32](https://news.ycombinator.com/item?id=38249708) - [Guidance on implementing cryptography as a developer](https://github.com/samuel-lucas6/Cryptography-Guidelines)
 * [2023-11-13, 13:04:53](https://news.ycombinator.com/item?id=38249664) - [Micron Introduces 128 GB DDR5-8000 RDIMMs with Monolithic 32 GB Die](https://www.anandtech.com/show/21129/micron-introduces-128-gb-ddr58000-rdimms-with-monolithic-32-gb-dice)
 * [2023-11-13, 12:57:51](https://news.ycombinator.com/item?id=38249616) - [Compressing Codebase Collocates](https://taylor.town/code-collocates)
+* [2023-11-13, 12:52:46](https://news.ycombinator.com/item?id=38249587) - [Jorge Luis Borges and the Labyrinths of Copyright](https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html)
 * [2023-11-13, 12:44:40](https://news.ycombinator.com/item?id=38249527) - [Netflix Loses Patent Dispute to Broadcom in Germany, Ordered to Stop Using HEVC](https://www.nexttv.com/news/achtung-baby-netflix-loses-patent-dispute-to-broadcom-in-germany-told-to-stop-using-hevc-to-stream-4k)
 * [2023-11-13, 12:42:35](https://news.ycombinator.com/item?id=38249515) - [Samba smb2/3 server in go](https://github.com/macos-fuse-t/go-smb2)
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)

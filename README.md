@@ -2,12 +2,12 @@
 
 * [2023-11-14, 02:51:06](https://news.ycombinator.com/item?id=38258406) - [OpenAI offers $10M pay packages to poach Google researchers](https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
+* [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many Popular Houses in L.A. Were Part of a Scam by a Con Artist Who Disappeared](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-14, 01:01:06](https://news.ycombinator.com/item?id=38257499) - [Unlogged (YC S22) Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
 * [2023-11-14, 00:33:59](https://news.ycombinator.com/item?id=38257284) - [The laptop that won't die](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
 * [2023-11-14, 00:08:45](https://news.ycombinator.com/item?id=38257094) - [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
 * [2023-11-14, 00:01:49](https://news.ycombinator.com/item?id=38257049) - [Show HN: The World's Cheapest Supercomputer](https://sfcompute.com/blog/worlds-cheapest-supercomputer)
-* [2023-11-13, 23:58:59](https://news.ycombinator.com/item?id=38257024) - [My favorite coding question to give candidates](https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c)
 * [2023-11-13, 23:32:54](https://news.ycombinator.com/item?id=38256810) - [Nepal bans TikTok and says it disrupts social harmony](https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447)
 * [2023-11-13, 22:51:45](https://news.ycombinator.com/item?id=38256478) - [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
 * [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
@@ -26,8 +26,8 @@
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 * [2023-11-13, 13:14:17](https://news.ycombinator.com/item?id=38249742) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 13:10:32](https://news.ycombinator.com/item?id=38249708) - [Guidance on implementing cryptography as a developer](https://github.com/samuel-lucas6/Cryptography-Guidelines)
+* [2023-11-13, 12:52:46](https://news.ycombinator.com/item?id=38249587) - [Jorge Luis Borges and the Labyrinths of Copyright](https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html)
 * [2023-11-13, 12:42:35](https://news.ycombinator.com/item?id=38249515) - [Samba smb2/3 server in go](https://github.com/macos-fuse-t/go-smb2)
-* [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 10:21:40](https://news.ycombinator.com/item?id=38248752) - [C++ Lambda Idioms (2022) [video]](https://www.youtube.com/watch?v=xBAduq0RGes)
 * [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
 

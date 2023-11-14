@@ -7,6 +7,7 @@
 * [2023-11-14, 02:51:06](https://news.ycombinator.com/item?id=38258406) - [OpenAI offers $10M pay packages to poach Google researchers](https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 02:02:33](https://news.ycombinator.com/item?id=38258015) - [Kai-Fu Li's Yi-34B uses exactly Llama's architecture except for 2 tensor renamed](https://huggingface.co/01-ai/Yi-34B/discussions/11)
+* [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many Popular Houses in L.A. Were Part of a Scam by a Con Artist Who Disappeared](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-14, 01:32:52](https://news.ycombinator.com/item?id=38257793) - [Why do I sign and add a thank you card for every air quality monitor we sell?](https://www.airgradient.com/blog/thank-you-card/)
 * [2023-11-14, 01:30:07](https://news.ycombinator.com/item?id=38257769) - [Ask HN: How to manage autistic developer?](https://news.ycombinator.com/item?id=38257769)
