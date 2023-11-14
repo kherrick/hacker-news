@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-11-14, 02:13:10",
+      "https://news.ycombinator.com/item?id=38258101"
+    ],
+    [
+      "Android App Devs now require 20 people to test before publishing to Play Store",
+      "https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 01:32:58",
       "https://news.ycombinator.com/item?id=38257794"
     ],
     [
       "Starship will attempt a launch this weekend",
       "https://www.fly.faa.gov/adv/adv_spt.jsp"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 01:30:07",
-      "https://news.ycombinator.com/item?id=38257769"
-    ],
-    [
-      "Ask HN: How to manage autistic developer?",
-      "https://news.ycombinator.com/item?id=38257769"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-11-14, 00:19:36",
+      "https://news.ycombinator.com/item?id=38257187"
+    ],
+    [
+      "What Is Agent AI and Why All the Excitement?",
+      "https://agent.ai/p/agent-ai-excitement"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 23:58:59",
       "https://news.ycombinator.com/item?id=38257024"
     ],
@@ -67,16 +77,6 @@
     [
       "Nepal bans TikTok and says it disrupts social harmony",
       "https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 23:24:35",
-      "https://news.ycombinator.com/item?id=38256746"
-    ],
-    [
-      "Google witness accidentally blurts out that Apple gets 36% cut of Safari deal",
-      "https://arstechnica.com/tech-policy/2023/11/google-witness-accidentally-blurts-out-that-apple-gets-36-cut-of-safari-deal/"
     ]
   ],
   [
@@ -101,52 +101,32 @@
   ],
   [
     [
-      "2023-11-13, 21:56:51",
-      "https://news.ycombinator.com/item?id=38255923"
-    ],
-    [
-      "We've learned nothing from the SolarWinds hack",
-      "https://www.macchaffee.com/blog/2023/solarwinds-hack-lessons-learned/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 21:53:35",
-      "https://news.ycombinator.com/item?id=38255884"
-    ],
-    [
-      "Zelle finally caves after years of refusing to refund scam victims",
-      "https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 20:20:00",
-      "https://news.ycombinator.com/item?id=38254835"
-    ],
-    [
-      "Principles are products of practice, not the reverse",
-      "https://alsado.ca/posts/principles-are-products-of-practice/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 20:04:56",
-      "https://news.ycombinator.com/item?id=38254656"
-    ],
-    [
-      "Reauthorizing Mass Surveillance Shouldn't Be Tied to Funding the Government",
-      "https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 19:43:14",
       "https://news.ycombinator.com/item?id=38254353"
     ],
     [
       "Panama Canal is so congested that one ship owner paid $4M to skip the line",
       "https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 19:28:01",
+      "https://news.ycombinator.com/item?id=38254153"
+    ],
+    [
+      "Algorithms (2019)",
+      "http://jeffe.cs.illinois.edu/teaching/algorithms/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 17:51:42",
+      "https://news.ycombinator.com/item?id=38252963"
+    ],
+    [
+      "Show HN: SirixDB  – Bitemporal binary JSON database system and event store",
+      "https://github.com/sirixdb/sirix"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2023-11-13, 16:20:09",
+      "https://news.ycombinator.com/item?id=38251935"
+    ],
+    [
+      "Slow-Scan Television",
+      "https://en.wikipedia.org/wiki/Slow-scan_television"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 16:12:44",
       "https://news.ycombinator.com/item?id=38251842"
     ],
@@ -207,6 +197,16 @@
     [
       "HTML Web Components",
       "https://blog.jim-nielsen.com/2023/html-web-components/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 15:10:18",
+      "https://news.ycombinator.com/item?id=38251032"
+    ],
+    [
+      "The NYPD is using drones 3 times more than it did last year",
+      "https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year"
     ]
   ],
   [
