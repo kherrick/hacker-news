@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 22:14:55](https://news.ycombinator.com/item?id=38270582) - [Happy 1700M Epoch Second](https://www.epochconverter.com/)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) is hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:58:08](https://news.ycombinator.com/item?id=38269656) - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
 * [2023-11-14, 20:42:49](https://news.ycombinator.com/item?id=38269445) - [Show HN: Soccer video analysis from your match videos](https://futvis.com/)
@@ -16,7 +17,6 @@
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 15:10:03](https://news.ycombinator.com/item?id=38264174) - [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
 * [2023-11-14, 14:45:50](https://news.ycombinator.com/item?id=38263869) - [Opal Tadpole – A webcam for laptops](https://opalcamera.com/opal-tadpole)
-* [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
 * [2023-11-14, 13:36:58](https://news.ycombinator.com/item?id=38263118) - [Hello, stranger – Talking to random people](https://willem.com/blog/2023-10-13_hello-stranger/)
 * [2023-11-14, 12:04:10](https://news.ycombinator.com/item?id=38262251) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)

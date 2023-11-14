@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 22:14:55](https://news.ycombinator.com/item?id=38270582) - [Happy 1700M Epoch Second](https://www.epochconverter.com/)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:58:08](https://news.ycombinator.com/item?id=38269656) - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
 * [2023-11-14, 20:44:13](https://news.ycombinator.com/item?id=38269460) - [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
