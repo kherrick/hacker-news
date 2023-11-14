@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 16:02:13](https://news.ycombinator.com/item?id=38264964) - [School Choice Dies in Illinois, as 35% Read at Grade Level](https://mishtalk.com/economics/school-choice-dies-in-illinois-congratulations-teachers-as-35-read-at-grade-level/)
 * [2023-11-14, 16:00:31](https://news.ycombinator.com/item?id=38264937) - [.NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 * [2023-11-14, 15:56:54](https://news.ycombinator.com/item?id=38264876) - [Fast-acting cyber gangs increasingly disabling telemetry logs](https://www.computerweekly.com/news/366559416/Fast-acting-cyber-gangs-increasingly-disabling-telemetry-logs)
-* [2023-11-14, 15:51:22](https://news.ycombinator.com/item?id=38264778) - [Electric heat to cost 77 percent more than natural gas, federal agency says](https://denvergazette.com/news/business/federal-agency-predicts-a-77-jump-in-electric-heating-costs/article_3a39bdae-803c-11ee-9763-6babdd47599f.html)
-* [2023-11-14, 15:38:10](https://news.ycombinator.com/item?id=38264580) - [US Confidence in Higher Education Institutions Continues Long Decline](https://news.gallup.com/poll/508352/americans-confidence-higher-education-down-sharply.aspx)
+* [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 15:10:03](https://news.ycombinator.com/item?id=38264174) - [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
 * [2023-11-14, 14:51:30](https://news.ycombinator.com/item?id=38263934) - [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
 * [2023-11-14, 14:45:50](https://news.ycombinator.com/item?id=38263869) - [Opal Tadpole – A Webcam for Laptops](https://opalcamera.com/opal-tadpole)
@@ -13,6 +11,7 @@
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
 * [2023-11-14, 13:36:58](https://news.ycombinator.com/item?id=38263118) - [I Talk to Strangers](https://willem.com/blog/2023-10-13_hello-stranger/)
+* [2023-11-14, 13:33:49](https://news.ycombinator.com/item?id=38263077) - [Show HN: SvelteKit SaaS Boilerplate to help launch your product fast](https://launchleopard.com/)
 * [2023-11-14, 13:20:26](https://news.ycombinator.com/item?id=38262949) - [48-nation bloc to crack down on using crypto assets to avoid tax](https://www.theregister.com/2023/11/13/carf_2027_adoption_set/)
 * [2023-11-14, 13:00:55](https://news.ycombinator.com/item?id=38262775) - [Lapce Editor 0.3](https://github.com/lapce/lapce/releases/tag/v0.3.0)
 * [2023-11-14, 12:50:47](https://news.ycombinator.com/item?id=38262673) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Product Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
@@ -28,6 +27,7 @@
 * [2023-11-13, 21:12:22](https://news.ycombinator.com/item?id=38255455) - [Inequalities, convergence, and continuity as \"special deals\"](https://terrytao.wordpress.com/2023/06/04/inequalities-convergence-and-continuity-as-special-deals/)
 * [2023-11-13, 18:17:22](https://news.ycombinator.com/item?id=38253263) - [NaNoWriMo: National Novel Writing Month](https://nanowrimo.org/)
 * [2023-11-13, 14:28:53](https://news.ycombinator.com/item?id=38250459) - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
+* [2023-11-13, 13:13:18](https://news.ycombinator.com/item?id=38249730) - [Show HN: Easily Visualize Your SQLAlchemy Data Models in a Nice SVG Diagram](https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer)
 * [2023-11-13, 09:59:01](https://news.ycombinator.com/item?id=38248653) - [Lets build an Amiga Network Adapter [video]](https://www.youtube.com/watch?v=sx9X0bjj6_8)
 * [2023-11-13, 06:23:43](https://news.ycombinator.com/item?id=38247543) - [The Best Timed Shot in TV History (Probably)](https://greekreporter.com/2023/11/09/best-timed-shot-tv-history/)
 
