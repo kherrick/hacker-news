@@ -32,6 +32,7 @@
 * [2023-11-13, 19:00:15](https://news.ycombinator.com/item?id=38253787) - [Apple Gets 36% of Google's Safari Search Revenue](https://www.macrumors.com/2023/11/13/apple-google-safari-search-revenue/)
 * [2023-11-13, 18:53:24](https://news.ycombinator.com/item?id=38253699) - [AI Is a Terrifying Purveyor of Bullshit. Next Up: Fake Science](https://www.lastwordonnothing.com/2023/11/10/ai-is-a-terrifying-purveyor-of-bullshit-next-up-fake-science/)
 * [2023-11-13, 18:26:03](https://news.ycombinator.com/item?id=38253384) - [Apple Gets 36% of Google Revenue in Search Deal, Expert Says](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
+* [2023-11-13, 18:17:22](https://news.ycombinator.com/item?id=38253263) - [NaNoWriMo: National Novel Writing Month](https://nanowrimo.org/)
 * [2023-11-13, 18:13:15](https://news.ycombinator.com/item?id=38253212) - [Flexport Is Hiring SDRs](https://flexport.com/careers)
 * [2023-11-13, 18:08:32](https://news.ycombinator.com/item?id=38253146) - [You need a mental model of LLMs to build or use a LLM-based product](https://about.sourcegraph.com/blog/llm-mental-models)
 * [2023-11-13, 18:06:56](https://news.ycombinator.com/item?id=38253130) - [Forests with multiple tree species are 70% more effective as carbon sinks](https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html)

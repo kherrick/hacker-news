@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 13:06:16](https://news.ycombinator.com/item?id=38262827) - [Coinbase Steals Money](https://news.ycombinator.com/item?id=38262827)
 * [2023-11-14, 12:50:47](https://news.ycombinator.com/item?id=38262673) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Product Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-11-14, 12:11:30](https://news.ycombinator.com/item?id=38262315) - [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
+* [2023-11-14, 11:55:57](https://news.ycombinator.com/item?id=38262182) - [US Healthcare Scam Illustrated in Impossibility of Getting Bill for 5 Stitches](https://www.techdirt.com/2023/11/13/the-us-healthcare-scam-illustrated-in-the-impossibility-of-getting-a-bill-for-five-stitches/)
 * [2023-11-14, 11:48:37](https://news.ycombinator.com/item?id=38262124) - [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
 * [2023-11-14, 11:47:06](https://news.ycombinator.com/item?id=38262115) - [If you buy a Cybertruck, Tesla says you can't sell it for a year](https://www.theverge.com/2023/11/13/23959481/if-you-buy-a-cybertruck-tesla-says-you-cant-sell-it-for-a-year)
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
