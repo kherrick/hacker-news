@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-14, 03:50:05",
+      "https://news.ycombinator.com/item?id=38258880"
+    ],
+    [
+      "Yes, Ubuntu is withholding security patches for some software",
+      "https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 02:13:10",
       "https://news.ycombinator.com/item?id=38258101"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-11-13, 13:42:37",
-      "https://news.ycombinator.com/item?id=38250001"
+      "2023-11-13, 13:14:17",
+      "https://news.ycombinator.com/item?id=38249742"
     ],
     [
-      "To free the Baltic grid, old technology is new again",
-      "https://spectrum.ieee.org/baltic-power-grid"
+      "Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal",
+      "https://github.com/DeadlyRedCube/Cathode-Retro"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Jorge Luis Borges and the Labyrinths of Copyright",
       "https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 12:42:35",
-      "https://news.ycombinator.com/item?id=38249515"
-    ],
-    [
-      "Samba smb2/3 server in go",
-      "https://github.com/macos-fuse-t/go-smb2"
     ]
   ],
   [
