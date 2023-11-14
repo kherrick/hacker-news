@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
 * [2023-11-14, 14:24:05](https://news.ycombinator.com/item?id=38263621) - [Tuta (formerly Tutanota) denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
+* [2023-11-14, 14:20:30](https://news.ycombinator.com/item?id=38263578) - [OpenAI confirms it's working on GPT-5](https://twitter.com/rowancheung/status/1724079608054812684)
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
 * [2023-11-14, 14:03:28](https://news.ycombinator.com/item?id=38263386) - [Just because you're paranoid, doesn't mean AI's not after you](https://www.theregister.com/2023/11/14/bt_horse_and_ai_are_the_same/)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
+* [2023-11-14, 13:31:48](https://news.ycombinator.com/item?id=38263051) - [He was working three full-time jobs at Meta, IBM, and Tinder. Bosses didn't know](https://www.businessinsider.com/overemployed-workers-secret-two-multiple-jobs-salaries-tech-tips-2023-11)
 * [2023-11-14, 13:20:26](https://news.ycombinator.com/item?id=38262949) - [48-nation bloc to crack down on using crypto assets to avoid tax](https://www.theregister.com/2023/11/13/carf_2027_adoption_set/)
 * [2023-11-14, 13:07:00](https://news.ycombinator.com/item?id=38262837) - [Ask HN: Is ChatGPT4 broken since last weekend?](https://news.ycombinator.com/item?id=38262837)
 * [2023-11-14, 13:06:16](https://news.ycombinator.com/item?id=38262827) - [Coinbase Steals Money](https://news.ycombinator.com/item?id=38262827)
