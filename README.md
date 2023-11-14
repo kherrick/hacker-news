@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
+* [2023-11-14, 11:11:22](https://news.ycombinator.com/item?id=38261797) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h200/)
 * [2023-11-14, 10:53:05](https://news.ycombinator.com/item?id=38261673) - [What's driving social justice ideology? The US and UK compared](https://www.thepathnottaken.net/p/whats-driving-social-justice-ideology)
 * [2023-11-14, 10:51:59](https://news.ycombinator.com/item?id=38261666) - [X is changing its algorithm to highlight smaller accounts](https://techcrunch.com/2023/11/13/elon-musk-says-x-is-changing-its-algorithm-to-highlight-smaller-accounts/)
 * [2023-11-14, 10:34:08](https://news.ycombinator.com/item?id=38261539) - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
@@ -25,7 +26,6 @@
 * [2023-11-13, 14:28:53](https://news.ycombinator.com/item?id=38250459) - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
 * [2023-11-13, 13:13:18](https://news.ycombinator.com/item?id=38249730) - [Show HN: Easily Visualize Your SQLAlchemy Data Models in a Nice SVG Diagram](https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer)
 * [2023-11-13, 13:03:12](https://news.ycombinator.com/item?id=38249649) - [Popcount walks: next, previous, toward and nearest](http://marc-b-reynolds.github.io/math/2023/11/09/PopNextPrev.html)
-* [2023-11-13, 12:52:46](https://news.ycombinator.com/item?id=38249587) - [Jorge Luis Borges and the Labyrinths of Copyright](https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html)
 * [2023-11-13, 10:21:40](https://news.ycombinator.com/item?id=38248752) - [C++ Lambda Idioms (2022) [video]](https://www.youtube.com/watch?v=xBAduq0RGes)
 * [2023-11-13, 09:59:01](https://news.ycombinator.com/item?id=38248653) - [Lets build an Amiga Network Adapter [video]](https://www.youtube.com/watch?v=sx9X0bjj6_8)
 * [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
