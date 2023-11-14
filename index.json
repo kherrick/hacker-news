@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-11-14, 01:01:06",
+      "https://news.ycombinator.com/item?id=38257499"
+    ],
+    [
+      "Unlogged (YC S22) Is Hiring a founding back end engineer",
+      "https://news.ycombinator.com/item?id=38257499"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 00:08:45",
+      "https://news.ycombinator.com/item?id=38257094"
+    ],
+    [
+      "A Coder Considers the Waning Days of the Craft",
+      "https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 23:56:19",
+      "https://news.ycombinator.com/item?id=38257000"
+    ],
+    [
+      "20% of Millennials and 68% of Gen Z-ers still live with other family members",
+      "https://www.rentcafe.com/blog/rental-market/market-snapshots/multigenerational-households/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 23:32:54",
+      "https://news.ycombinator.com/item?id=38256810"
+    ],
+    [
+      "Nepal bans TikTok and says it disrupts social harmony",
+      "https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 23:24:35",
+      "https://news.ycombinator.com/item?id=38256746"
+    ],
+    [
+      "Google witness accidentally blurts out that Apple gets 36% cut of Safari deal",
+      "https://arstechnica.com/tech-policy/2023/11/google-witness-accidentally-blurts-out-that-apple-gets-36-cut-of-safari-deal/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 23:08:35",
+      "https://news.ycombinator.com/item?id=38256608"
+    ],
+    [
+      "Czech news crew in SF covering APEC robbed at gunpoint while filming",
+      "https://www.sfchronicle.com/sf/article/apec-news-crew-czech-robbery-city-lights-18488613.php"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 22:51:45",
       "https://news.ycombinator.com/item?id=38256478"
     ],
@@ -37,16 +97,6 @@
     [
       "Zelle finally caves after years of refusing to refund scam victims",
       "https://arstechnica.com/tech-policy/2023/11/zelle-finally-caves-after-years-of-refusing-to-refund-scam-victims/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 20:32:38",
-      "https://news.ycombinator.com/item?id=38255004"
-    ],
-    [
-      "Discouraging the use of web application firewalls",
-      "https://www.macchaffee.com/blog/2023/wafs/"
     ]
   ],
   [
@@ -91,22 +141,12 @@
   ],
   [
     [
-      "2023-11-13, 19:28:01",
-      "https://news.ycombinator.com/item?id=38254153"
-    ],
-    [
-      "Algorithms (2019)",
-      "http://jeffe.cs.illinois.edu/teaching/algorithms/"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 17:51:42",
       "https://news.ycombinator.com/item?id=38252963"
     ],
     [
-      "Show HN: Bitemporal – Binary JSON database system and event store",
-      "https://news.ycombinator.com/item?id=38252963"
+      "Show HN: SirixDB  – Bitemporal binary JSON database system and event store",
+      "https://github.com/sirixdb/sirix"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2023-11-13, 16:20:09",
-      "https://news.ycombinator.com/item?id=38251935"
-    ],
-    [
-      "Slow-Scan Television",
-      "https://en.wikipedia.org/wiki/Slow-scan_television"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 16:12:44",
       "https://news.ycombinator.com/item?id=38251842"
     ],
@@ -177,16 +207,6 @@
     [
       "HTML Web Components",
       "https://blog.jim-nielsen.com/2023/html-web-components/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 15:10:18",
-      "https://news.ycombinator.com/item?id=38251032"
-    ],
-    [
-      "The NYPD is using drones 3 times more than it did last year",
-      "https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year"
     ]
   ],
   [
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2023-11-13, 13:10:32",
+      "https://news.ycombinator.com/item?id=38249708"
+    ],
+    [
+      "Guidance on implementing cryptography as a developer",
+      "https://github.com/samuel-lucas6/Cryptography-Guidelines"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 12:34:54",
       "https://news.ycombinator.com/item?id=38249473"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-11-13, 09:36:16",
-      "https://news.ycombinator.com/item?id=38248532"
-    ],
-    [
-      "Lessons I wish I had learned before teaching differential equations [pdf] (1997)",
-      "https://web.williams.edu/Mathematics/lg5/Rota.pdf"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 09:29:45",
       "https://news.ycombinator.com/item?id=38248497"
     ],
     [
       "Maxar's Open Satellite Feed",
       "https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 09:18:23",
-      "https://news.ycombinator.com/item?id=38248422"
-    ],
-    [
-      "Why IBX and Why Lazarus (2011)",
-      "https://www.mwasoftware.co.uk/why-ibx"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 09:18:21",
-      "https://news.ycombinator.com/item?id=38248421"
-    ],
-    [
-      "Ruby on Rails: The Documentary [video]",
-      "https://www.youtube.com/watch?v=HDKUEXBF3B4"
     ]
   ]
 ]
