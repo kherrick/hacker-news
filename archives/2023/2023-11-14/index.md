@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:44:13](https://news.ycombinator.com/item?id=38269460) - [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
+* [2023-11-14, 20:29:17](https://news.ycombinator.com/item?id=38269265) - [Monty Python and the Holy Grail in Cinemas](https://holygrailincinemas.com/)
+* [2023-11-14, 20:22:04](https://news.ycombinator.com/item?id=38269144) - [319 Leona](https://en.wikipedia.org/wiki/319_Leona)
 * [2023-11-14, 19:56:52](https://news.ycombinator.com/item?id=38268737) - [CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
 * [2023-11-14, 19:40:16](https://news.ycombinator.com/item?id=38268470) - [LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]](https://www.youtube.com/watch?v=JhCl-GeT4jw)
 * [2023-11-14, 19:39:36](https://news.ycombinator.com/item?id=38268462) - [Ask HN: How to get back to programming Python?](https://news.ycombinator.com/item?id=38268462)
@@ -80,6 +83,7 @@
 * [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
 * [2023-11-14, 07:14:07](https://news.ycombinator.com/item?id=38260069) - [Astronauts drop tool bag into orbit that you can see with binoculars](https://www.usatoday.com/story/news/nation/2023/11/10/nasa-tool-bag-dropped-by-astronauts-international-space-station/71536725007/)
 * [2023-11-14, 07:07:49](https://news.ycombinator.com/item?id=38260030) - [YouTube Premium doesn't guarantee an ad-free experience](https://www.androidauthority.com/remove-youtube-premium-ads-3384953/)
+* [2023-11-14, 07:00:33](https://news.ycombinator.com/item?id=38259991) - [Thermal Transistors Handle Heat with No Moving Parts](https://spectrum.ieee.org/thermal-transistor)
 * [2023-11-14, 05:14:30](https://news.ycombinator.com/item?id=38259436) - [They Want to Be Gatekeepers: Car Dealers Are Stopping Customers from Buying EVs](https://jalopnik.com/car-dealers-are-stopping-customers-from-buying-evs-1851017999)
 * [2023-11-14, 04:35:45](https://news.ycombinator.com/item?id=38259220) - [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)
 * [2023-11-14, 04:25:20](https://news.ycombinator.com/item?id=38259146) - [Demoscene: Interview with Demosceners (#1~15) + What I learned from it](https://6octaves.com/demoscene)
