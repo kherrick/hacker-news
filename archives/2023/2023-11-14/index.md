@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
 * [2023-11-14, 22:46:29](https://news.ycombinator.com/item?id=38270905) - [Amazon Is the Hospital Now](https://clinic.amazon.com/)
+* [2023-11-14, 22:36:22](https://news.ycombinator.com/item?id=38270817) - [Bertrand Russell: Why I Am Not a Christian (1927)](https://users.drew.edu/~jlenz/whynot.html)
 * [2023-11-14, 22:14:55](https://news.ycombinator.com/item?id=38270582) - [Happy 1700M Epoch Second](https://www.epochconverter.com/)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)

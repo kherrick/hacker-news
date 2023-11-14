@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 22:46:29](https://news.ycombinator.com/item?id=38270905) - [Amazon Is the Hospital Now](https://clinic.amazon.com/)
+* [2023-11-14, 22:36:22](https://news.ycombinator.com/item?id=38270817) - [Bertrand Russell: Why I Am Not a Christian (1927)](https://users.drew.edu/~jlenz/whynot.html)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) is hiring in Vancouver, Canada](https://icepanel.io/careers)
@@ -19,7 +19,7 @@
 * [2023-11-14, 14:45:50](https://news.ycombinator.com/item?id=38263869) - [Opal Tadpole – A webcam for laptops](https://opalcamera.com/opal-tadpole)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
 * [2023-11-14, 13:36:58](https://news.ycombinator.com/item?id=38263118) - [Hello, stranger – Talking to random people](https://willem.com/blog/2023-10-13_hello-stranger/)
-* [2023-11-14, 12:23:41](https://news.ycombinator.com/item?id=38262425) - [Quitting Full Time Poker](https://www.team-bhp.com/forum/shifting-gears/273208-farewell-felt-quitting-full-time-poker-scene.html)
+* [2023-11-14, 12:23:41](https://news.ycombinator.com/item?id=38262425) - [Quitting the full-time Poker scene](https://www.team-bhp.com/forum/shifting-gears/273208-farewell-felt-quitting-full-time-poker-scene.html)
 * [2023-11-14, 12:04:10](https://news.ycombinator.com/item?id=38262251) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2023-11-14, 11:59:21](https://news.ycombinator.com/item?id=38262211) - [Maryland Fried chicken: A storied dish with Titanic history](https://www.bbc.com/travel/article/20231112-maryland-fried-chicken-a-storied-dish-with-titanic-history)
 * [2023-11-14, 11:57:34](https://news.ycombinator.com/item?id=38262196) - [Footsteps of pi](https://axleos.com/footsteps-of-pi/)
