@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
+* [2023-11-14, 17:56:24](https://news.ycombinator.com/item?id=38266883) - [Prices aren't just about supply and demand, but control over supply and demand](https://dougaldlamont.substack.com/p/prices-arent-just-about-supply-and)
+* [2023-11-14, 17:55:39](https://news.ycombinator.com/item?id=38266867) - [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
 * [2023-11-14, 17:53:34](https://news.ycombinator.com/item?id=38266833) - [Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds](https://github.com/chenxwh/insanely-fast-whisper)
+* [2023-11-14, 17:51:05](https://news.ycombinator.com/item?id=38266792) - [Mechanism Behind Aspirin Protective Effect Against Colorectal Cancer Identified](https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646)
 * [2023-11-14, 17:36:02](https://news.ycombinator.com/item?id=38266569) - [Ubuntu 24.04 LTS Committing to Netplan for Network Configuration](https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan)
 * [2023-11-14, 17:29:54](https://news.ycombinator.com/item?id=38266467) - [Rivian Pushes Broken Software Update That Will Require Physical Repair](https://www.404media.co/rivian-pushes-broken-software-update-that-will-require-physical-repair/)
 * [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
