@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 22:46:29](https://news.ycombinator.com/item?id=38270905) - [Amazon Is the Hospital Now](https://clinic.amazon.com/)
 * [2023-11-14, 22:14:55](https://news.ycombinator.com/item?id=38270582) - [Happy 1700M Epoch Second](https://www.epochconverter.com/)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
@@ -29,6 +30,7 @@
 * [2023-11-14, 18:10:25](https://news.ycombinator.com/item?id=38267084) - [Review: 'JFK: What the Doctors Saw' eyewitnesses contradict Warren Commission](https://datebook.sfchronicle.com/movies-tv/kennedy-assassination-conspiracy-theories-18483272)
 * [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
 * [2023-11-14, 18:00:23](https://news.ycombinator.com/item?id=38266934) - [ShadowTraffic: Rapidly simulate production traffic to your backend](https://shadowtraffic.io/)
+* [2023-11-14, 17:59:22](https://news.ycombinator.com/item?id=38266923) - [Unix Time reaches 1.7 billion today](https://www.epochconverter.com/countdown?q=1700000000)
 * [2023-11-14, 17:56:24](https://news.ycombinator.com/item?id=38266883) - [Prices aren't just about supply and demand, but control over supply and demand](https://dougaldlamont.substack.com/p/prices-arent-just-about-supply-and)
 * [2023-11-14, 17:55:39](https://news.ycombinator.com/item?id=38266867) - [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
 * [2023-11-14, 17:53:34](https://news.ycombinator.com/item?id=38266833) - [Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds](https://github.com/chenxwh/insanely-fast-whisper)
