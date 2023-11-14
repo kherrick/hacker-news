@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 01:32:52](https://news.ycombinator.com/item?id=38257793) - [Why do I sign and add a thank you card for every air quality monitor we sell?](https://www.airgradient.com/blog/thank-you-card/)
+* [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
+* [2023-11-14, 01:30:07](https://news.ycombinator.com/item?id=38257769) - [Ask HN: How to manage autistic developer?](https://news.ycombinator.com/item?id=38257769)
 * [2023-11-14, 01:15:44](https://news.ycombinator.com/item?id=38257637) - [America Is Getting Lonelier and More Indoorsy. That's Not a Coincidence](https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/)
 * [2023-11-14, 01:01:06](https://news.ycombinator.com/item?id=38257499) - [Unlogged (YC S22) Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
 * [2023-11-14, 00:33:59](https://news.ycombinator.com/item?id=38257284) - [The Laptop That Won't Die?](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
@@ -27,7 +28,6 @@
 * [2023-11-13, 13:10:32](https://news.ycombinator.com/item?id=38249708) - [Guidance on implementing cryptography as a developer](https://github.com/samuel-lucas6/Cryptography-Guidelines)
 * [2023-11-13, 12:34:54](https://news.ycombinator.com/item?id=38249473) - [Reasons to Prefer Blake3 over Sha256](https://peergos.org/posts/blake3)
 * [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
-* [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
 * [2023-11-13, 10:21:40](https://news.ycombinator.com/item?id=38248752) - [C++ Lambda Idioms (2022) [video]](https://www.youtube.com/watch?v=xBAduq0RGes)
 * [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
 
