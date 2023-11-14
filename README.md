@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 04:35:45](https://news.ycombinator.com/item?id=38259220) - [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
-* [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
+* [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-14, 01:01:06](https://news.ycombinator.com/item?id=38257499) - [Unlogged (YC S22) Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)
 * [2023-11-14, 00:33:59](https://news.ycombinator.com/item?id=38257284) - [The laptop that won't die](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
 * [2023-11-14, 00:08:45](https://news.ycombinator.com/item?id=38257094) - [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
@@ -10,7 +11,6 @@
 * [2023-11-13, 22:51:45](https://news.ycombinator.com/item?id=38256478) - [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
 * [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 * [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
-* [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms (2019)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: SirixDB  – Bitemporal binary JSON database system and event store](https://github.com/sirixdb/sirix)
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
@@ -23,13 +23,13 @@
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 13:53:30](https://news.ycombinator.com/item?id=38250114) - [$1 Unistroke Recognizer](https://depts.washington.edu/acelab/proj/dollar/index.html)
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
-* [2023-11-13, 13:14:17](https://news.ycombinator.com/item?id=38249742) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 13:10:32](https://news.ycombinator.com/item?id=38249708) - [Guidance on implementing cryptography as a developer](https://github.com/samuel-lucas6/Cryptography-Guidelines)
 * [2023-11-13, 12:52:46](https://news.ycombinator.com/item?id=38249587) - [Jorge Luis Borges and the Labyrinths of Copyright](https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html)
 * [2023-11-13, 12:42:35](https://news.ycombinator.com/item?id=38249515) - [Samba smb2/3 server in go](https://github.com/macos-fuse-t/go-smb2)
 * [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 10:21:40](https://news.ycombinator.com/item?id=38248752) - [C++ Lambda Idioms (2022) [video]](https://www.youtube.com/watch?v=xBAduq0RGes)
 * [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
+* [2023-11-12, 18:50:43](https://news.ycombinator.com/item?id=38242992) - [Days of The Jackal: how Andrew Wylie turned serious literature into big business](https://www.theguardian.com/books/2023/nov/09/andrew-wylie-agency-days-of-the-jackal-serious-literature-big-business)
 
 ## [Archives](archives/index.md)
 

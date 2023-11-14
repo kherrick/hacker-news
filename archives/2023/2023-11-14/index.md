@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 04:35:45](https://news.ycombinator.com/item?id=38259220) - [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)
 * [2023-11-14, 02:51:06](https://news.ycombinator.com/item?id=38258406) - [OpenAI offers $10M pay packages to poach Google researchers](https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 02:02:33](https://news.ycombinator.com/item?id=38258015) - [Kai-Fu Li's Yi-34B uses exactly Llama's architecture except for 2 tensor renamed](https://huggingface.co/01-ai/Yi-34B/discussions/11)
