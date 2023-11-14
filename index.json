@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-14, 17:22:50",
+      "https://news.ycombinator.com/item?id=38266340"
+    ],
+    [
+      "Rivian software update bricks infotainment system, fix not obvious",
+      "https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 17:14:28",
+      "https://news.ycombinator.com/item?id=38266216"
+    ],
+    [
+      "Miyazaki's 'The Boy and the Heron's makes clear the world is a fragile place",
+      "https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 17:01:05",
       "https://news.ycombinator.com/item?id=38266029"
     ],
@@ -17,16 +37,6 @@
     [
       "Mathematician Roger Penrose's Beautiful Journal",
       "https://abakcus.com/directory/roger-penroses-beautiful-journal/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 16:14:28",
-      "https://news.ycombinator.com/item?id=38265196"
-    ],
-    [
-      "Andreessen Horowitz Invests in Civitai, Which Profits from Nonconsensual AI Porn",
-      "https://www.404media.co/andreessen-horowitz-invests-in-civitai-key-platform-for-deepfake-porn/"
     ]
   ],
   [
@@ -81,22 +91,12 @@
   ],
   [
     [
-      "2023-11-14, 14:45:50",
-      "https://news.ycombinator.com/item?id=38263869"
+      "2023-11-14, 14:38:57",
+      "https://news.ycombinator.com/item?id=38263786"
     ],
     [
-      "Opal Tadpole – A Webcam for Laptops",
-      "https://opalcamera.com/opal-tadpole"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 14:43:01",
-      "https://news.ycombinator.com/item?id=38263833"
-    ],
-    [
-      "Energy Firms Hacked in Largest Coordinated Attack on Denmark's Infrastructure",
-      "https://www.securityweek.com/22-energy-firms-hacked-in-largest-coordinated-attack-on-denmarks-critical-infrastructure/"
+      "PyPI has completed its first security audit",
+      "https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-11-14, 04:18:32",
-      "https://news.ycombinator.com/item?id=38259100"
-    ],
-    [
-      "Julia Child's Culinary Notes",
-      "https://jillianhess.substack.com/p/julia-childs-culinary-notes"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 01:32:58",
       "https://news.ycombinator.com/item?id=38257794"
     ],
@@ -277,6 +267,16 @@
     [
       "Placemark is going open source and shutting down",
       "https://macwright.com/2023/11/13/placemark"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 13:13:18",
+      "https://news.ycombinator.com/item?id=38249730"
+    ],
+    [
+      "Show HN: Easily Visualize Your SQLAlchemy Data Models in a Nice SVG Diagram",
+      "https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer"
     ]
   ],
   [
