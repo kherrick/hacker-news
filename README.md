@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
+* [2023-11-14, 14:03:28](https://news.ycombinator.com/item?id=38263386) - [Just because you're paranoid, doesn't mean AI's not after you](https://www.theregister.com/2023/11/14/bt_horse_and_ai_are_the_same/)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
 * [2023-11-14, 13:20:26](https://news.ycombinator.com/item?id=38262949) - [48-nation bloc to crack down on using crypto assets to avoid tax](https://www.theregister.com/2023/11/13/carf_2027_adoption_set/)
 * [2023-11-14, 13:07:00](https://news.ycombinator.com/item?id=38262837) - [Ask HN: Is ChatGPT4 broken since last weekend?](https://news.ycombinator.com/item?id=38262837)
@@ -10,8 +12,6 @@
 * [2023-11-14, 11:48:37](https://news.ycombinator.com/item?id=38262124) - [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
 * [2023-11-14, 10:34:08](https://news.ycombinator.com/item?id=38261539) - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
-* [2023-11-14, 10:17:35](https://news.ycombinator.com/item?id=38261415) - [EU Parliament Civil Liberties Committee adopts position on CSAR](https://www.europarl.europa.eu/news/en/press-room/20231110IPR10118/child-sexual-abuse-online-effective-measures-no-mass-surveillance)
-* [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-14, 00:33:59](https://news.ycombinator.com/item?id=38257284) - [The laptop that won't die](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
@@ -27,8 +27,8 @@
 * [2023-11-13, 14:28:53](https://news.ycombinator.com/item?id=38250459) - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
 * [2023-11-13, 13:13:18](https://news.ycombinator.com/item?id=38249730) - [Show HN: Easily Visualize Your SQLAlchemy Data Models in a Nice SVG Diagram](https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer)
 * [2023-11-13, 13:03:12](https://news.ycombinator.com/item?id=38249649) - [Popcount walks: next, previous, toward and nearest](http://marc-b-reynolds.github.io/math/2023/11/09/PopNextPrev.html)
+* [2023-11-13, 12:52:46](https://news.ycombinator.com/item?id=38249587) - [Jorge Luis Borges and the Labyrinths of Copyright](https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html)
 * [2023-11-13, 09:59:01](https://news.ycombinator.com/item?id=38248653) - [Lets build an Amiga Network Adapter [video]](https://www.youtube.com/watch?v=sx9X0bjj6_8)
-* [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
 * [2023-11-13, 06:23:43](https://news.ycombinator.com/item?id=38247543) - [The Best Timed Shot in TV History (Probably)](https://greekreporter.com/2023/11/09/best-timed-shot-tv-history/)
 
 ## [Archives](archives/index.md)
