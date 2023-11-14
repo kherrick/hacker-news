@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-14, 07:07:49",
-      "https://news.ycombinator.com/item?id=38260030"
-    ],
-    [
-      "YouTube Premium doesn't guarantee an ad-free experience",
-      "https://www.androidauthority.com/remove-youtube-premium-ads-3384953/"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 02:13:10",
       "https://news.ycombinator.com/item?id=38258101"
     ],
@@ -237,6 +227,16 @@
     [
       "Black goo is the new oscilloscope: Love Hultén's ferrofluid synths",
       "https://cdm.link/2023/11/black-goo-ferrofluid-synths/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 13:14:17",
+      "https://news.ycombinator.com/item?id=38249742"
+    ],
+    [
+      "Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal",
+      "https://github.com/DeadlyRedCube/Cathode-Retro"
     ]
   ],
   [
