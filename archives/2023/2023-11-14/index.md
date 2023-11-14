@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
 * [2023-11-14, 22:14:55](https://news.ycombinator.com/item?id=38270582) - [Happy 1700M Epoch Second](https://www.epochconverter.com/)
+* [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
+* [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:58:08](https://news.ycombinator.com/item?id=38269656) - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
 * [2023-11-14, 20:44:13](https://news.ycombinator.com/item?id=38269460) - [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
@@ -67,6 +69,7 @@
 * [2023-11-14, 13:00:55](https://news.ycombinator.com/item?id=38262775) - [Lapce Editor v0.3 Released](https://github.com/lapce/lapce/releases/tag/v0.3.0)
 * [2023-11-14, 12:50:47](https://news.ycombinator.com/item?id=38262673) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Product Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-11-14, 12:43:11](https://news.ycombinator.com/item?id=38262610) - [Tesla Will Sue for $50K If You Try to Resell Your Cybertruck in the First Year](https://www.businessinsider.com/tesla-sue-cybertruck-buyers-they-resell-in-first-year-2023-11)
+* [2023-11-14, 12:23:41](https://news.ycombinator.com/item?id=38262425) - [Quitting Full Time Poker](https://www.team-bhp.com/forum/shifting-gears/273208-farewell-felt-quitting-full-time-poker-scene.html)
 * [2023-11-14, 12:11:50](https://news.ycombinator.com/item?id=38262320) - [Announcing the MonoGame Foundation](https://community.monogame.net/t/announcing-the-monogame-foundation/19809)
 * [2023-11-14, 12:11:30](https://news.ycombinator.com/item?id=38262315) - [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
 * [2023-11-14, 12:04:10](https://news.ycombinator.com/item?id=38262251) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
