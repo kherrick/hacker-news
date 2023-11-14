@@ -13,6 +13,7 @@
 * [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 * [2023-11-13, 21:45:55](https://news.ycombinator.com/item?id=38255808) - [Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-11-13, 21:12:22](https://news.ycombinator.com/item?id=38255455) - [Inequalities, convergence, and continuity as \"special deals\"](https://terrytao.wordpress.com/2023/06/04/inequalities-convergence-and-continuity-as-special-deals/)
+* [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
 * [2023-11-13, 18:26:03](https://news.ycombinator.com/item?id=38253384) - [Google pays Apple 36% of the revenue it earns from searches in Safari](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: SirixDB  – Bitemporal binary JSON database system and event store](https://github.com/sirixdb/sirix)
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
@@ -29,7 +30,6 @@
 * [2023-11-13, 09:59:01](https://news.ycombinator.com/item?id=38248653) - [Lets build an Amiga Network Adapter [video]](https://www.youtube.com/watch?v=sx9X0bjj6_8)
 * [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
 * [2023-11-13, 06:23:43](https://news.ycombinator.com/item?id=38247543) - [The Best Timed Shot in TV History (Probably)](https://greekreporter.com/2023/11/09/best-timed-shot-tv-history/)
-* [2023-11-12, 18:50:43](https://news.ycombinator.com/item?id=38242992) - [Days of The Jackal: how Andrew Wylie turned serious literature into big business](https://www.theguardian.com/books/2023/nov/09/andrew-wylie-agency-days-of-the-jackal-serious-literature-big-business)
 
 ## [Archives](archives/index.md)
 
