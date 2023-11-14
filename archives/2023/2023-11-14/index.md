@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 14:24:05](https://news.ycombinator.com/item?id=38263621) - [Tuta (formerly Tutanota) denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
 * [2023-11-14, 14:03:28](https://news.ycombinator.com/item?id=38263386) - [Just because you're paranoid, doesn't mean AI's not after you](https://www.theregister.com/2023/11/14/bt_horse_and_ai_are_the_same/)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
@@ -32,6 +33,7 @@
 * [2023-11-14, 07:07:49](https://news.ycombinator.com/item?id=38260030) - [YouTube Premium doesn't guarantee an ad-free experience](https://www.androidauthority.com/remove-youtube-premium-ads-3384953/)
 * [2023-11-14, 05:14:30](https://news.ycombinator.com/item?id=38259436) - [They Want to Be Gatekeepers: Car Dealers Are Stopping Customers from Buying EVs](https://jalopnik.com/car-dealers-are-stopping-customers-from-buying-evs-1851017999)
 * [2023-11-14, 04:35:45](https://news.ycombinator.com/item?id=38259220) - [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)
+* [2023-11-14, 04:25:20](https://news.ycombinator.com/item?id=38259146) - [Demoscene: Interview with Demosceners (#1~15) + What I learned from it](https://6octaves.com/demoscene)
 * [2023-11-14, 03:50:05](https://news.ycombinator.com/item?id=38258880) - [Yes, Ubuntu is withholding security patches for some software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 * [2023-11-14, 02:51:06](https://news.ycombinator.com/item?id=38258406) - [OpenAI offers $10M pay packages to poach Google researchers](https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)

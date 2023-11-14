@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 14:24:05](https://news.ycombinator.com/item?id=38263621) - [Tuta (formerly Tutanota) denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
 * [2023-11-14, 14:03:28](https://news.ycombinator.com/item?id=38263386) - [Just because you're paranoid, doesn't mean AI's not after you](https://www.theregister.com/2023/11/14/bt_horse_and_ai_are_the_same/)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
@@ -11,8 +12,7 @@
 * [2023-11-14, 11:48:37](https://news.ycombinator.com/item?id=38262124) - [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
 * [2023-11-14, 10:34:08](https://news.ycombinator.com/item?id=38261539) - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
-* [2023-11-14, 10:17:35](https://news.ycombinator.com/item?id=38261415) - [EU Parliament Civil Liberties Committee adopts position on CSAR](https://www.europarl.europa.eu/news/en/press-room/20231110IPR10118/child-sexual-abuse-online-effective-measures-no-mass-surveillance)
-* [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
+* [2023-11-14, 04:25:20](https://news.ycombinator.com/item?id=38259146) - [Demoscene: Interview with Demosceners (#1~15) + What I learned from it](https://6octaves.com/demoscene)
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-14, 00:33:59](https://news.ycombinator.com/item?id=38257284) - [The laptop that won't die](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
