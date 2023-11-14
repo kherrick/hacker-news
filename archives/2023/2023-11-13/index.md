@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 23:58:59](https://news.ycombinator.com/item?id=38257024) - [My favorite coding question to give candidates](https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c)
 * [2023-11-13, 23:56:19](https://news.ycombinator.com/item?id=38257000) - [20% of Millennials and 68% of Gen Z-ers still live with other family members](https://www.rentcafe.com/blog/rental-market/market-snapshots/multigenerational-households/)
 * [2023-11-13, 23:32:54](https://news.ycombinator.com/item?id=38256810) - [Nepal bans TikTok and says it disrupts social harmony](https://apnews.com/article/nepal-tiktok-ban-social-media-854846a42ef566fa296ddaacd0099447)
 * [2023-11-13, 23:24:35](https://news.ycombinator.com/item?id=38256746) - [Google witness accidentally blurts out that Apple gets 36% cut of Safari deal](https://arstechnica.com/tech-policy/2023/11/google-witness-accidentally-blurts-out-that-apple-gets-36-cut-of-safari-deal/)
