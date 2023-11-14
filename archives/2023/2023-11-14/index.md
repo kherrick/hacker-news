@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
 * [2023-11-14, 13:06:16](https://news.ycombinator.com/item?id=38262827) - [Coinbase Steals Money](https://news.ycombinator.com/item?id=38262827)
+* [2023-11-14, 13:00:55](https://news.ycombinator.com/item?id=38262775) - [Lapce Editor v0.3 Released](https://github.com/lapce/lapce/releases/tag/v0.3.0)
 * [2023-11-14, 12:50:47](https://news.ycombinator.com/item?id=38262673) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Product Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-11-14, 12:11:30](https://news.ycombinator.com/item?id=38262315) - [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
 * [2023-11-14, 11:55:57](https://news.ycombinator.com/item?id=38262182) - [US Healthcare Scam Illustrated in Impossibility of Getting Bill for 5 Stitches](https://www.techdirt.com/2023/11/13/the-us-healthcare-scam-illustrated-in-the-impossibility-of-getting-a-bill-for-five-stitches/)
@@ -16,6 +17,7 @@
 * [2023-11-14, 10:51:59](https://news.ycombinator.com/item?id=38261666) - [X is changing its algorithm to highlight smaller accounts](https://techcrunch.com/2023/11/13/elon-musk-says-x-is-changing-its-algorithm-to-highlight-smaller-accounts/)
 * [2023-11-14, 10:34:08](https://news.ycombinator.com/item?id=38261539) - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 * [2023-11-14, 10:17:35](https://news.ycombinator.com/item?id=38261415) - [EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
+* [2023-11-14, 09:58:47](https://news.ycombinator.com/item?id=38261271) - [Hikvision Wins Project Requiring Ramadan Alerts Against Minorities](https://ipvm.com/reports/hikvision-fasting)
 * [2023-11-14, 09:54:44](https://news.ycombinator.com/item?id=38261232) - [Implementing Tic Tac Toe with 170mb of HTML – No JavaScript or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
 * [2023-11-14, 09:26:42](https://news.ycombinator.com/item?id=38260982) - [Children working as riders for food delivery apps – BBC investigation](https://www.bbc.co.uk/news/uk-67371473)
 * [2023-11-14, 09:20:07](https://news.ycombinator.com/item?id=38260935) - [The Linux kernel has been accidentally hardcoded to a maximum of 8 cores](https://thehftguy.com/2023/11/14/the-linux-kernel-has-been-accidentally-hardcoded-to-a-maximum-of-8-cores-for-nearly-20-years/)
