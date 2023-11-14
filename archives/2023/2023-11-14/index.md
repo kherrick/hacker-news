@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 11:47:06](https://news.ycombinator.com/item?id=38262115) - [If you buy a Cybertruck, Tesla says you can't sell it for a year](https://www.theverge.com/2023/11/13/23959481/if-you-buy-a-cybertruck-tesla-says-you-cant-sell-it-for-a-year)
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
 * [2023-11-14, 11:11:22](https://news.ycombinator.com/item?id=38261797) - [Nvidia H200 Tensor Core GPU](https://www.nvidia.com/en-us/data-center/h200/)
 * [2023-11-14, 10:53:05](https://news.ycombinator.com/item?id=38261673) - [What's driving social justice ideology? The US and UK compared](https://www.thepathnottaken.net/p/whats-driving-social-justice-ideology)
