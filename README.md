@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 17:29:54](https://news.ycombinator.com/item?id=38266467) - [Rivian Pushes Broken Software Update That Will Require Physical Repair](https://www.404media.co/rivian-pushes-broken-software-update-that-will-require-physical-repair/)
 * [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
 * [2023-11-14, 17:14:28](https://news.ycombinator.com/item?id=38266216) - [Miyazaki's 'The Boy and the Heron's makes clear the world is a fragile place](https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron)
 * [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
@@ -13,7 +14,6 @@
 * [2023-11-14, 14:24:05](https://news.ycombinator.com/item?id=38263621) - [Tuta (formerly Tutanota) denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
 * [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
-* [2023-11-14, 13:20:26](https://news.ycombinator.com/item?id=38262949) - [48-nation bloc to crack down on using crypto assets to avoid tax](https://www.theregister.com/2023/11/13/carf_2027_adoption_set/)
 * [2023-11-14, 13:00:55](https://news.ycombinator.com/item?id=38262775) - [Lapce Editor 0.3](https://github.com/lapce/lapce/releases/tag/v0.3.0)
 * [2023-11-14, 12:11:50](https://news.ycombinator.com/item?id=38262320) - [Announcing the MonoGame Foundation](https://community.monogame.net/t/announcing-the-monogame-foundation/19809)
 * [2023-11-14, 12:11:30](https://news.ycombinator.com/item?id=38262315) - [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
