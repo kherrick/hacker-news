@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 05:14:30](https://news.ycombinator.com/item?id=38259436) - [They Want to Be Gatekeepers: Car Dealers Are Stopping Customers from Buying EVs](https://jalopnik.com/car-dealers-are-stopping-customers-from-buying-evs-1851017999)
-* [2023-11-14, 04:35:45](https://news.ycombinator.com/item?id=38259220) - [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
@@ -12,6 +10,8 @@
 * [2023-11-13, 22:51:45](https://news.ycombinator.com/item?id=38256478) - [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)
 * [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 * [2023-11-13, 19:43:14](https://news.ycombinator.com/item?id=38254353) - [Panama Canal is so congested that one ship owner paid $4M to skip the line](https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/)
+* [2023-11-13, 19:28:01](https://news.ycombinator.com/item?id=38254153) - [Algorithms (2019)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+* [2023-11-13, 18:26:03](https://news.ycombinator.com/item?id=38253384) - [Google pays Apple 36% of the revenue it earns from searches in Safari](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says)
 * [2023-11-13, 17:51:42](https://news.ycombinator.com/item?id=38252963) - [Show HN: SirixDB  – Bitemporal binary JSON database system and event store](https://github.com/sirixdb/sirix)
 * [2023-11-13, 17:50:27](https://news.ycombinator.com/item?id=38252947) - [Researchers identify 'switch' to activate cancer cell death](https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10)
 * [2023-11-13, 17:17:14](https://news.ycombinator.com/item?id=38252566) - [Building an occupancy sensor with a $5 ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
