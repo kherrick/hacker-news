@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
+* [2023-11-14, 16:42:33](https://news.ycombinator.com/item?id=38265714) - [Mathematician Roger Penrose's Beautiful Journal](https://abakcus.com/directory/roger-penroses-beautiful-journal/)
+* [2023-11-14, 16:14:28](https://news.ycombinator.com/item?id=38265196) - [Andreessen Horowitz Invests in Civitai, Which Profits from Nonconsensual AI Porn](https://www.404media.co/andreessen-horowitz-invests-in-civitai-key-platform-for-deepfake-porn/)
 * [2023-11-14, 16:02:13](https://news.ycombinator.com/item?id=38264964) - [School Choice Dies in Illinois, as 35% Read at Grade Level](https://mishtalk.com/economics/school-choice-dies-in-illinois-congratulations-teachers-as-35-read-at-grade-level/)
 * [2023-11-14, 16:00:31](https://news.ycombinator.com/item?id=38264937) - [.NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 * [2023-11-14, 15:56:54](https://news.ycombinator.com/item?id=38264876) - [Fast-acting cyber gangs increasingly disabling telemetry logs](https://www.computerweekly.com/news/366559416/Fast-acting-cyber-gangs-increasingly-disabling-telemetry-logs)
