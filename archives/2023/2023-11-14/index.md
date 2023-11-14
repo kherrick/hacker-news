@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 18:42:50](https://news.ycombinator.com/item?id=38267588) - [Vehicles with higher, more vertical front ends pose greater risk to pedestrians](https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians)
+* [2023-11-14, 18:39:05](https://news.ycombinator.com/item?id=38267526) - [Homage to Strong Bad](https://verydistantlands.substack.com/p/homage-to-strong-bad)
 * [2023-11-14, 18:10:25](https://news.ycombinator.com/item?id=38267084) - [Review: 'JFK: What the Doctors Saw' eyewitnesses contradict Warren Commission](https://datebook.sfchronicle.com/movies-tv/kennedy-assassination-conspiracy-theories-18483272)
 * [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
 * [2023-11-14, 18:00:23](https://news.ycombinator.com/item?id=38266934) - [ShadowTraffic: Rapidly simulate production traffic to your backend](https://shadowtraffic.io/)
