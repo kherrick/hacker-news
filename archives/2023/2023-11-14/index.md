@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
+* [2023-11-14, 17:14:28](https://news.ycombinator.com/item?id=38266216) - [Miyazaki's 'The Boy and the Heron's makes clear the world is a fragile place](https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron)
 * [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
 * [2023-11-14, 16:42:33](https://news.ycombinator.com/item?id=38265714) - [Mathematician Roger Penrose's Beautiful Journal](https://abakcus.com/directory/roger-penroses-beautiful-journal/)
 * [2023-11-14, 16:14:28](https://news.ycombinator.com/item?id=38265196) - [Andreessen Horowitz Invests in Civitai, Which Profits from Nonconsensual AI Porn](https://www.404media.co/andreessen-horowitz-invests-in-civitai-key-platform-for-deepfake-porn/)
@@ -19,6 +21,7 @@
 * [2023-11-14, 14:51:30](https://news.ycombinator.com/item?id=38263934) - [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
 * [2023-11-14, 14:45:50](https://news.ycombinator.com/item?id=38263869) - [Opal Tadpole – A Webcam for Laptops](https://opalcamera.com/opal-tadpole)
 * [2023-11-14, 14:43:01](https://news.ycombinator.com/item?id=38263833) - [Energy Firms Hacked in Largest Coordinated Attack on Denmark's Infrastructure](https://www.securityweek.com/22-energy-firms-hacked-in-largest-coordinated-attack-on-denmarks-critical-infrastructure/)
+* [2023-11-14, 14:38:57](https://news.ycombinator.com/item?id=38263786) - [PyPI has completed its first security audit](https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/)
 * [2023-11-14, 14:24:05](https://news.ycombinator.com/item?id=38263621) - [Tuta (formerly Tutanota) denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
 * [2023-11-14, 14:20:30](https://news.ycombinator.com/item?id=38263578) - [OpenAI confirms it's working on GPT-5](https://twitter.com/rowancheung/status/1724079608054812684)
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
