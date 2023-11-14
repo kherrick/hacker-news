@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
 * [2023-11-14, 07:07:49](https://news.ycombinator.com/item?id=38260030) - [YouTube Premium doesn't guarantee an ad-free experience](https://www.androidauthority.com/remove-youtube-premium-ads-3384953/)
 * [2023-11-14, 05:14:30](https://news.ycombinator.com/item?id=38259436) - [They Want to Be Gatekeepers: Car Dealers Are Stopping Customers from Buying EVs](https://jalopnik.com/car-dealers-are-stopping-customers-from-buying-evs-1851017999)
 * [2023-11-14, 04:35:45](https://news.ycombinator.com/item?id=38259220) - [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many popular houses in 1920s L.A. were part of a scam](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
@@ -21,7 +22,6 @@
 * [2023-11-13, 16:20:09](https://news.ycombinator.com/item?id=38251935) - [Slow-Scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 * [2023-11-13, 16:12:44](https://news.ycombinator.com/item?id=38251842) - [Smarter summaries with finetuning GPT-3.5 and chain of density](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/)
 * [2023-11-13, 15:31:43](https://news.ycombinator.com/item?id=38251330) - [HTML Web Components](https://blog.jim-nielsen.com/2023/html-web-components/)
-* [2023-11-13, 15:10:18](https://news.ycombinator.com/item?id=38251032) - [The NYPD is using drones 3 times more than it did last year](https://gothamist.com/news/the-nypd-is-using-drones-3-times-more-than-it-did-last-year)
 * [2023-11-13, 15:01:11](https://news.ycombinator.com/item?id=38250913) - [Black goo is the new oscilloscope: Love Hultén's ferrofluid synths](https://cdm.link/2023/11/black-goo-ferrofluid-synths/)
 * [2023-11-13, 12:52:46](https://news.ycombinator.com/item?id=38249587) - [Jorge Luis Borges and the Labyrinths of Copyright](https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html)
 * [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
