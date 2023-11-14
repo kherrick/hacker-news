@@ -82,6 +82,7 @@
 * [2023-11-13, 11:49:17](https://news.ycombinator.com/item?id=38249202) - [YouTube May Face Criminal Complaints in EU for Using Ad-Block Detection Scripts](https://www.tomshardware.com/news/youtube-may-face-criminal-complaint-for-adblock-detecting)
 * [2023-11-13, 11:22:52](https://news.ycombinator.com/item?id=38249069) - [Vela incident (1979)](https://en.wikipedia.org/wiki/Vela_incident)
 * [2023-11-13, 10:51:20](https://news.ycombinator.com/item?id=38248900) - [Loro: Reimagine state management with CRDTs](https://www.loro.dev/blog/loro-now-open-source)
+* [2023-11-13, 10:23:28](https://news.ycombinator.com/item?id=38248758) - [UEFI Software Bill of Materials Proposal](https://uefi.org/blog/firmware-sbom-proposal)
 * [2023-11-13, 10:21:40](https://news.ycombinator.com/item?id=38248752) - [C++ Lambda Idioms (2022) [video]](https://www.youtube.com/watch?v=xBAduq0RGes)
 * [2023-11-13, 10:12:02](https://news.ycombinator.com/item?id=38248705) - [Why companies are racing to build the biggest bug farm](https://www.washingtonpost.com/climate-solutions/2023/11/12/biggest-insect-farm-record/)
 * [2023-11-13, 10:06:03](https://news.ycombinator.com/item?id=38248681) - [Convert standard Geiger counter to RNG](https://github.com/gbonacini/nuclear_rng_generation2)

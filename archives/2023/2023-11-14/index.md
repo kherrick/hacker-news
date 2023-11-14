@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 17:53:34](https://news.ycombinator.com/item?id=38266833) - [Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds](https://github.com/chenxwh/insanely-fast-whisper)
 * [2023-11-14, 17:36:02](https://news.ycombinator.com/item?id=38266569) - [Ubuntu 24.04 LTS Committing to Netplan for Network Configuration](https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan)
 * [2023-11-14, 17:29:54](https://news.ycombinator.com/item?id=38266467) - [Rivian Pushes Broken Software Update That Will Require Physical Repair](https://www.404media.co/rivian-pushes-broken-software-update-that-will-require-physical-repair/)
 * [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
