@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-14, 18:42:50",
+      "https://news.ycombinator.com/item?id=38267588"
+    ],
+    [
+      "Vehicles with higher, more vertical front ends pose greater risk to pedestrians",
+      "https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 18:39:05",
+      "https://news.ycombinator.com/item?id=38267526"
+    ],
+    [
+      "Homage to Strong Bad",
+      "https://verydistantlands.substack.com/p/homage-to-strong-bad"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 18:05:27",
       "https://news.ycombinator.com/item?id=38267020"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-11-14, 17:53:34",
-      "https://news.ycombinator.com/item?id=38266833"
-    ],
-    [
-      "Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds",
-      "https://github.com/chenxwh/insanely-fast-whisper"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 17:51:05",
       "https://news.ycombinator.com/item?id=38266792"
     ],
@@ -77,16 +87,6 @@
     [
       "Ubuntu 24.04 LTS Committing to Netplan for Network Configuration",
       "https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 17:29:54",
-      "https://news.ycombinator.com/item?id=38266467"
-    ],
-    [
-      "Rivian Pushes Broken Software Update That Will Require Physical Repair",
-      "https://www.404media.co/rivian-pushes-broken-software-update-that-will-require-physical-repair/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=38262315"
     ],
     [
-      "Blender 4.0",
+      "Blender 4.0 release notes",
       "https://wiki.blender.org/wiki/Reference/Release_Notes/4.0"
     ]
   ],
@@ -237,16 +237,6 @@
     [
       "Constraints On Physical Computers In Holographic Spacetimes",
       "https://arxiv.org/abs/2304.09900"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 01:32:58",
-      "https://news.ycombinator.com/item?id=38257794"
-    ],
-    [
-      "Starship will attempt a launch this Friday",
-      "https://www.fly.faa.gov/adv/adv_spt.jsp"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Best Timed Shot in TV History (Probably)",
       "https://greekreporter.com/2023/11/09/best-timed-shot-tv-history/"
+    ]
+  ],
+  [
+    [
+      "2023-11-12, 03:58:52",
+      "https://news.ycombinator.com/item?id=38237166"
+    ],
+    [
+      "Oregon decriminalized hard drugs – it isn't working",
+      "https://www.wsj.com/us-news/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476"
     ]
   ]
 ]
