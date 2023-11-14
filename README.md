@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 02:51:06](https://news.ycombinator.com/item?id=38258406) - [OpenAI offers $10M pay packages to poach Google researchers](https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump)
 * [2023-11-14, 02:13:10](https://news.ycombinator.com/item?id=38258101) - [Android App Devs now require 20 people to test before publishing to Play Store](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many Popular Houses in L.A. Were Part of a Scam by a Con Artist Who Disappeared](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
@@ -28,6 +27,7 @@
 * [2023-11-13, 13:10:32](https://news.ycombinator.com/item?id=38249708) - [Guidance on implementing cryptography as a developer](https://github.com/samuel-lucas6/Cryptography-Guidelines)
 * [2023-11-13, 12:52:46](https://news.ycombinator.com/item?id=38249587) - [Jorge Luis Borges and the Labyrinths of Copyright](https://www.washingtonpost.com/business/2023/07/04/jorge-luis-borges-estate-overcomes-copyright-qualms-with-recognized-heirs/8f8d679e-1a23-11ee-be41-a036f4b098ec_story.html)
 * [2023-11-13, 12:42:35](https://news.ycombinator.com/item?id=38249515) - [Samba smb2/3 server in go](https://github.com/macos-fuse-t/go-smb2)
+* [2023-11-13, 11:51:00](https://news.ycombinator.com/item?id=38249214) - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 * [2023-11-13, 10:21:40](https://news.ycombinator.com/item?id=38248752) - [C++ Lambda Idioms (2022) [video]](https://www.youtube.com/watch?v=xBAduq0RGes)
 * [2023-11-13, 09:29:45](https://news.ycombinator.com/item?id=38248497) - [Maxar's Open Satellite Feed](https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html)
 
