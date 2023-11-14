@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 19:14:47](https://news.ycombinator.com/item?id=38268043) - [Google researchers discover 'Reptar', a new CPU vulnerability](https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability)
-* [2023-11-14, 18:53:13](https://news.ycombinator.com/item?id=38267740) - [Tangram Vision's AI-powered 3D sensor could transform robotic computer vision](https://venturebeat.com/ai/tangram-visions-ai-powered-3d-sensor-could-transform-computer-vision-in-robotics/)
+* [2023-11-14, 19:40:16](https://news.ycombinator.com/item?id=38268470) - [LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]](https://www.youtube.com/watch?v=JhCl-GeT4jw)
+* [2023-11-14, 19:14:47](https://news.ycombinator.com/item?id=38268043) - ['Reptar', a new CPU vulnerability](https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability)
 * [2023-11-14, 18:53:10](https://news.ycombinator.com/item?id=38267739) - [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
 * [2023-11-14, 18:42:50](https://news.ycombinator.com/item?id=38267588) - [Vehicles with higher, more vertical front ends pose greater risk to pedestrians](https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians)
 * [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)

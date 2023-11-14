@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 19:40:16](https://news.ycombinator.com/item?id=38268470) - [LLMs and the End of Programming – CS50 Tech Talk with Dr. Matt Welsh [video]](https://www.youtube.com/watch?v=JhCl-GeT4jw)
 * [2023-11-14, 19:14:47](https://news.ycombinator.com/item?id=38268043) - [Google researchers discover 'Reptar', a new CPU vulnerability](https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability)
 * [2023-11-14, 19:03:14](https://news.ycombinator.com/item?id=38267891) - [Ask HN: How did you get people to visit your personal blog?](https://news.ycombinator.com/item?id=38267891)
 * [2023-11-14, 18:53:13](https://news.ycombinator.com/item?id=38267740) - [Tangram Vision's AI-powered 3D sensor could transform robotic computer vision](https://venturebeat.com/ai/tangram-visions-ai-powered-3d-sensor-could-transform-computer-vision-in-robotics/)
