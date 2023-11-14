@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-14, 19:03:14](https://news.ycombinator.com/item?id=38267891) - [Ask HN: How did you get people to visit your personal blog?](https://news.ycombinator.com/item?id=38267891)
+* [2023-11-14, 18:53:13](https://news.ycombinator.com/item?id=38267740) - [Tangram Vision's AI-powered 3D sensor could transform robotic computer vision](https://venturebeat.com/ai/tangram-visions-ai-powered-3d-sensor-could-transform-computer-vision-in-robotics/)
+* [2023-11-14, 18:53:10](https://news.ycombinator.com/item?id=38267739) - [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
 * [2023-11-14, 18:42:50](https://news.ycombinator.com/item?id=38267588) - [Vehicles with higher, more vertical front ends pose greater risk to pedestrians](https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians)
-* [2023-11-14, 18:39:05](https://news.ycombinator.com/item?id=38267526) - [Homage to Strong Bad](https://verydistantlands.substack.com/p/homage-to-strong-bad)
 * [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
 * [2023-11-14, 17:55:39](https://news.ycombinator.com/item?id=38266867) - [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
 * [2023-11-14, 17:51:05](https://news.ycombinator.com/item?id=38266792) - [Mechanism behind aspirin protective effect against colorectal cancer identified](https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646)
@@ -9,6 +11,7 @@
 * [2023-11-14, 17:36:02](https://news.ycombinator.com/item?id=38266569) - [Ubuntu 24.04 LTS Committing to Netplan for Network Configuration](https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan)
 * [2023-11-14, 17:14:28](https://news.ycombinator.com/item?id=38266216) - [Miyazaki's 'The Boy and the Heron' makes clear the world is a fragile place](https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron)
 * [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
+* [2023-11-14, 16:46:32](https://news.ycombinator.com/item?id=38265773) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 16:42:33](https://news.ycombinator.com/item?id=38265714) - [Photos of Roger Penrose’s journal](https://abakcus.com/directory/roger-penroses-beautiful-journal/)
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 15:10:03](https://news.ycombinator.com/item?id=38264174) - [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
@@ -24,12 +27,9 @@
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
 * [2023-11-14, 07:14:07](https://news.ycombinator.com/item?id=38260069) - [Astronauts drop tool bag into orbit that you can see with binoculars](https://www.usatoday.com/story/news/nation/2023/11/10/nasa-tool-bag-dropped-by-astronauts-international-space-station/71536725007/)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
-* [2023-11-14, 00:08:45](https://news.ycombinator.com/item?id=38257094) - [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
 * [2023-11-13, 21:45:55](https://news.ycombinator.com/item?id=38255808) - [Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-11-13, 14:28:53](https://news.ycombinator.com/item?id=38250459) - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
 * [2023-11-13, 10:23:28](https://news.ycombinator.com/item?id=38248758) - [Firmware Software Bill of Materials (SBoM) Proposal](https://uefi.org/blog/firmware-sbom-proposal)
-* [2023-11-13, 06:23:43](https://news.ycombinator.com/item?id=38247543) - [The Best Timed Shot in TV History (Probably)](https://greekreporter.com/2023/11/09/best-timed-shot-tv-history/)
-* [2023-11-12, 03:58:52](https://news.ycombinator.com/item?id=38237166) - [Oregon decriminalized hard drugs – it isn't working](https://www.wsj.com/us-news/oregon-decriminalized-hard-drugs-it-isnt-working-78ee7476)
 
 ## [Archives](archives/index.md)
 

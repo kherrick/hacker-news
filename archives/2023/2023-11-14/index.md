@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 19:03:14](https://news.ycombinator.com/item?id=38267891) - [Ask HN: How did you get people to visit your personal blog?](https://news.ycombinator.com/item?id=38267891)
+* [2023-11-14, 18:53:13](https://news.ycombinator.com/item?id=38267740) - [Tangram Vision's AI-powered 3D sensor could transform robotic computer vision](https://venturebeat.com/ai/tangram-visions-ai-powered-3d-sensor-could-transform-computer-vision-in-robotics/)
+* [2023-11-14, 18:53:10](https://news.ycombinator.com/item?id=38267739) - [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
 * [2023-11-14, 18:42:50](https://news.ycombinator.com/item?id=38267588) - [Vehicles with higher, more vertical front ends pose greater risk to pedestrians](https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians)
 * [2023-11-14, 18:39:05](https://news.ycombinator.com/item?id=38267526) - [Homage to Strong Bad](https://verydistantlands.substack.com/p/homage-to-strong-bad)
 * [2023-11-14, 18:18:06](https://news.ycombinator.com/item?id=38267207) - [Nobody knows what the point of homework is](https://www.vox.com/the-highlight/23584497/remote-school-homework-elimination-movement)
@@ -20,6 +23,7 @@
 * [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
 * [2023-11-14, 17:14:28](https://news.ycombinator.com/item?id=38266216) - [Miyazaki's 'The Boy and the Heron's makes clear the world is a fragile place](https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron)
 * [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
+* [2023-11-14, 16:46:32](https://news.ycombinator.com/item?id=38265773) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 16:42:33](https://news.ycombinator.com/item?id=38265714) - [Mathematician Roger Penrose's Beautiful Journal](https://abakcus.com/directory/roger-penroses-beautiful-journal/)
 * [2023-11-14, 16:14:28](https://news.ycombinator.com/item?id=38265196) - [Andreessen Horowitz Invests in Civitai, Which Profits from Nonconsensual AI Porn](https://www.404media.co/andreessen-horowitz-invests-in-civitai-key-platform-for-deepfake-porn/)
 * [2023-11-14, 16:02:13](https://news.ycombinator.com/item?id=38264964) - [School Choice Dies in Illinois, as 35% Read at Grade Level](https://mishtalk.com/economics/school-choice-dies-in-illinois-congratulations-teachers-as-35-read-at-grade-level/)
