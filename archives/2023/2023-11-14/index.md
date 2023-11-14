@@ -6,6 +6,7 @@
 
 * [2023-11-14, 18:42:50](https://news.ycombinator.com/item?id=38267588) - [Vehicles with higher, more vertical front ends pose greater risk to pedestrians](https://www.iihs.org/news/detail/vehicles-with-higher-more-vertical-front-ends-pose-greater-risk-to-pedestrians)
 * [2023-11-14, 18:39:05](https://news.ycombinator.com/item?id=38267526) - [Homage to Strong Bad](https://verydistantlands.substack.com/p/homage-to-strong-bad)
+* [2023-11-14, 18:18:06](https://news.ycombinator.com/item?id=38267207) - [Nobody knows what the point of homework is](https://www.vox.com/the-highlight/23584497/remote-school-homework-elimination-movement)
 * [2023-11-14, 18:10:25](https://news.ycombinator.com/item?id=38267084) - [Review: 'JFK: What the Doctors Saw' eyewitnesses contradict Warren Commission](https://datebook.sfchronicle.com/movies-tv/kennedy-assassination-conspiracy-theories-18483272)
 * [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
 * [2023-11-14, 18:00:23](https://news.ycombinator.com/item?id=38266934) - [ShadowTraffic: Rapidly simulate production traffic to your backend](https://shadowtraffic.io/)
@@ -66,6 +67,7 @@
 * [2023-11-14, 09:26:42](https://news.ycombinator.com/item?id=38260982) - [Children working as riders for food delivery apps – BBC investigation](https://www.bbc.co.uk/news/uk-67371473)
 * [2023-11-14, 09:20:07](https://news.ycombinator.com/item?id=38260935) - [The Linux kernel has been accidentally hardcoded to a maximum of 8 cores](https://thehftguy.com/2023/11/14/the-linux-kernel-has-been-accidentally-hardcoded-to-a-maximum-of-8-cores-for-nearly-20-years/)
 * [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
+* [2023-11-14, 07:14:07](https://news.ycombinator.com/item?id=38260069) - [Astronauts drop tool bag into orbit that you can see with binoculars](https://www.usatoday.com/story/news/nation/2023/11/10/nasa-tool-bag-dropped-by-astronauts-international-space-station/71536725007/)
 * [2023-11-14, 07:07:49](https://news.ycombinator.com/item?id=38260030) - [YouTube Premium doesn't guarantee an ad-free experience](https://www.androidauthority.com/remove-youtube-premium-ads-3384953/)
 * [2023-11-14, 05:14:30](https://news.ycombinator.com/item?id=38259436) - [They Want to Be Gatekeepers: Car Dealers Are Stopping Customers from Buying EVs](https://jalopnik.com/car-dealers-are-stopping-customers-from-buying-evs-1851017999)
 * [2023-11-14, 04:35:45](https://news.ycombinator.com/item?id=38259220) - [Czech news crew robbed while filming in San Francisco for Apec summit](https://www.straitstimes.com/world/united-states/czech-news-crew-robbed-while-filming-in-san-francisco-for-apec-summit)
