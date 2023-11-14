@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-11-13, 22:51:45",
-      "https://news.ycombinator.com/item?id=38256478"
-    ],
-    [
-      "Levels of AGI: Operationalizing Progress on the Path to AGI",
-      "https://arxiv.org/abs/2311.02462"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 22:16:53",
       "https://news.ycombinator.com/item?id=38256137"
     ],
@@ -237,6 +227,16 @@
     [
       "Black goo is the new oscilloscope: Love Hultén's ferrofluid synths",
       "https://cdm.link/2023/11/black-goo-ferrofluid-synths/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 13:14:17",
+      "https://news.ycombinator.com/item?id=38249742"
+    ],
+    [
+      "Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal",
+      "https://github.com/DeadlyRedCube/Cathode-Retro"
     ]
   ],
   [
