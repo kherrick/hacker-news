@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 15:38:10](https://news.ycombinator.com/item?id=38264580) - [US Confidence in Higher Education Institutions Continues Long Decline](https://news.gallup.com/poll/508352/americans-confidence-higher-education-down-sharply.aspx)
 * [2023-11-14, 15:18:52](https://news.ycombinator.com/item?id=38264301) - [What researchers found when they tested Fiji Water against tap water](https://www.upworthy.com/see-what-researchers-found-when-they-tested-a-bottle-of-fiji-water-against-a-glass-of-tap-water-rp)
+* [2023-11-14, 15:16:49](https://news.ycombinator.com/item?id=38264269) - [Google wants governments to form a 'global AI corps'](https://www.washingtonpost.com/politics/2023/11/14/google-wants-governments-form-global-ai-corps/)
 * [2023-11-14, 15:10:03](https://news.ycombinator.com/item?id=38264174) - [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
 * [2023-11-14, 14:51:30](https://news.ycombinator.com/item?id=38263934) - [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
 * [2023-11-14, 14:43:01](https://news.ycombinator.com/item?id=38263833) - [Energy Firms Hacked in Largest Coordinated Attack on Denmark's Infrastructure](https://www.securityweek.com/22-energy-firms-hacked-in-largest-coordinated-attack-on-denmarks-critical-infrastructure/)

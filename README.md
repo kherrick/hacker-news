@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 15:18:52](https://news.ycombinator.com/item?id=38264301) - [What researchers found when they tested Fiji Water against tap water](https://www.upworthy.com/see-what-researchers-found-when-they-tested-a-bottle-of-fiji-water-against-a-glass-of-tap-water-rp)
+* [2023-11-14, 15:38:10](https://news.ycombinator.com/item?id=38264580) - [US Confidence in Higher Education Institutions Continues Long Decline](https://news.gallup.com/poll/508352/americans-confidence-higher-education-down-sharply.aspx)
+* [2023-11-14, 15:16:49](https://news.ycombinator.com/item?id=38264269) - [Google wants governments to form a 'global AI corps'](https://www.washingtonpost.com/politics/2023/11/14/google-wants-governments-form-global-ai-corps/)
 * [2023-11-14, 15:10:03](https://news.ycombinator.com/item?id=38264174) - [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
 * [2023-11-14, 14:51:30](https://news.ycombinator.com/item?id=38263934) - [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
 * [2023-11-14, 14:43:01](https://news.ycombinator.com/item?id=38263833) - [Energy Firms Hacked in Largest Coordinated Attack on Denmark's Infrastructure](https://www.securityweek.com/22-energy-firms-hacked-in-largest-coordinated-attack-on-denmarks-critical-infrastructure/)
@@ -20,7 +21,6 @@
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-14, 00:33:59](https://news.ycombinator.com/item?id=38257284) - [The laptop that won't die](https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c)
 * [2023-11-14, 00:08:45](https://news.ycombinator.com/item?id=38257094) - [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
-* [2023-11-13, 22:16:53](https://news.ycombinator.com/item?id=38256137) - [Low current around roots boosts plant growth](https://www.nature.com/articles/d44151-023-00162-5)
 * [2023-11-13, 21:45:55](https://news.ycombinator.com/item?id=38255808) - [Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-11-13, 21:12:22](https://news.ycombinator.com/item?id=38255455) - [Inequalities, convergence, and continuity as \"special deals\"](https://terrytao.wordpress.com/2023/06/04/inequalities-convergence-and-continuity-as-special-deals/)
 * [2023-11-13, 18:17:22](https://news.ycombinator.com/item?id=38253263) - [NaNoWriMo: National Novel Writing Month](https://nanowrimo.org/)
