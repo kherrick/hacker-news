@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 13:54:41](https://news.ycombinator.com/item?id=38263294) - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
 * [2023-11-14, 13:20:26](https://news.ycombinator.com/item?id=38262949) - [48-nation bloc to crack down on using crypto assets to avoid tax](https://www.theregister.com/2023/11/13/carf_2027_adoption_set/)
 * [2023-11-14, 13:07:00](https://news.ycombinator.com/item?id=38262837) - [Ask HN: Is ChatGPT4 broken since last weekend?](https://news.ycombinator.com/item?id=38262837)
 * [2023-11-14, 13:06:16](https://news.ycombinator.com/item?id=38262827) - [Coinbase Steals Money](https://news.ycombinator.com/item?id=38262827)
