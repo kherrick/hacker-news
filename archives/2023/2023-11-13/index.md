@@ -64,6 +64,7 @@
 * [2023-11-13, 13:42:37](https://news.ycombinator.com/item?id=38250001) - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 * [2023-11-13, 13:36:23](https://news.ycombinator.com/item?id=38249938) - [Tragedy of Return to Hostile Offices](https://benjiweber.co.uk/blog/2023/11/12/tragedy-of-return-to-hostile-offices/)
 * [2023-11-13, 13:14:17](https://news.ycombinator.com/item?id=38249742) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
+* [2023-11-13, 13:13:18](https://news.ycombinator.com/item?id=38249730) - [Show HN: Easily Visualize Your SQLAlchemy Data Models in a Nice SVG Diagram](https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer)
 * [2023-11-13, 13:10:32](https://news.ycombinator.com/item?id=38249708) - [Guidance on implementing cryptography as a developer](https://github.com/samuel-lucas6/Cryptography-Guidelines)
 * [2023-11-13, 13:04:53](https://news.ycombinator.com/item?id=38249664) - [Micron Introduces 128 GB DDR5-8000 RDIMMs with Monolithic 32 GB Die](https://www.anandtech.com/show/21129/micron-introduces-128-gb-ddr58000-rdimms-with-monolithic-32-gb-dice)
 * [2023-11-13, 13:03:12](https://news.ycombinator.com/item?id=38249649) - [Popcount walks: next, previous, toward and nearest](http://marc-b-reynolds.github.io/math/2023/11/09/PopNextPrev.html)

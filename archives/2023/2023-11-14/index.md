@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)
+* [2023-11-14, 10:53:05](https://news.ycombinator.com/item?id=38261673) - [What's driving social justice ideology? The US and UK compared](https://www.thepathnottaken.net/p/whats-driving-social-justice-ideology)
+* [2023-11-14, 10:51:59](https://news.ycombinator.com/item?id=38261666) - [X is changing its algorithm to highlight smaller accounts](https://techcrunch.com/2023/11/13/elon-musk-says-x-is-changing-its-algorithm-to-highlight-smaller-accounts/)
 * [2023-11-14, 10:34:08](https://news.ycombinator.com/item?id=38261539) - [Rust Without Crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 * [2023-11-14, 10:17:35](https://news.ycombinator.com/item?id=38261415) - [EU Parliament Decides That Your Private Messages Must Not Be Scanned](https://tuta.com/blog/chat-control)
 * [2023-11-14, 09:54:44](https://news.ycombinator.com/item?id=38261232) - [Implementing Tic Tac Toe with 170mb of HTML – No JavaScript or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
