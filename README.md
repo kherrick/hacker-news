@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-14, 18:10:25](https://news.ycombinator.com/item?id=38267084) - [Review: 'JFK: What the Doctors Saw' eyewitnesses contradict Warren Commission](https://datebook.sfchronicle.com/movies-tv/kennedy-assassination-conspiracy-theories-18483272)
+* [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
+* [2023-11-14, 18:00:23](https://news.ycombinator.com/item?id=38266934) - [ShadowTraffic: Rapidly simulate production traffic to your backend](https://shadowtraffic.io/)
 * [2023-11-14, 17:56:24](https://news.ycombinator.com/item?id=38266883) - [Prices aren't just about supply and demand, but control over supply and demand](https://dougaldlamont.substack.com/p/prices-arent-just-about-supply-and)
 * [2023-11-14, 17:55:39](https://news.ycombinator.com/item?id=38266867) - [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
 * [2023-11-14, 17:53:34](https://news.ycombinator.com/item?id=38266833) - [Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds](https://github.com/chenxwh/insanely-fast-whisper)
@@ -8,7 +9,6 @@
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 17:36:02](https://news.ycombinator.com/item?id=38266569) - [Ubuntu 24.04 LTS Committing to Netplan for Network Configuration](https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan)
 * [2023-11-14, 17:29:54](https://news.ycombinator.com/item?id=38266467) - [Rivian Pushes Broken Software Update That Will Require Physical Repair](https://www.404media.co/rivian-pushes-broken-software-update-that-will-require-physical-repair/)
-* [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
 * [2023-11-14, 17:14:28](https://news.ycombinator.com/item?id=38266216) - [Miyazaki's 'The Boy and the Heron' makes clear the world is a fragile place](https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron)
 * [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
 * [2023-11-14, 16:42:33](https://news.ycombinator.com/item?id=38265714) - [Mathematician Roger Penrose's Beautiful Journal](https://abakcus.com/directory/roger-penroses-beautiful-journal/)

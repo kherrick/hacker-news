@@ -6,6 +6,7 @@
 
 * [2023-11-14, 18:10:25](https://news.ycombinator.com/item?id=38267084) - [Review: 'JFK: What the Doctors Saw' eyewitnesses contradict Warren Commission](https://datebook.sfchronicle.com/movies-tv/kennedy-assassination-conspiracy-theories-18483272)
 * [2023-11-14, 18:05:27](https://news.ycombinator.com/item?id=38267020) - [Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/)
+* [2023-11-14, 18:00:23](https://news.ycombinator.com/item?id=38266934) - [ShadowTraffic: Rapidly simulate production traffic to your backend](https://shadowtraffic.io/)
 * [2023-11-14, 17:56:24](https://news.ycombinator.com/item?id=38266883) - [Prices aren't just about supply and demand, but control over supply and demand](https://dougaldlamont.substack.com/p/prices-arent-just-about-supply-and)
 * [2023-11-14, 17:55:39](https://news.ycombinator.com/item?id=38266867) - [AI robot chemist could make oxygen on Mars](https://www.nature.com/articles/d41586-023-03522-4)
 * [2023-11-14, 17:53:34](https://news.ycombinator.com/item?id=38266833) - [Insanely Fast Whisper: Transcribe 300 minutes of audio in less than 98 seconds](https://github.com/chenxwh/insanely-fast-whisper)
