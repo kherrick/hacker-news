@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 15:18:52](https://news.ycombinator.com/item?id=38264301) - [What researchers found when they tested Fiji Water against tap water](https://www.upworthy.com/see-what-researchers-found-when-they-tested-a-bottle-of-fiji-water-against-a-glass-of-tap-water-rp)
+* [2023-11-14, 15:10:03](https://news.ycombinator.com/item?id=38264174) - [Replacing HLS/Dash – Live Mass Fanout with Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
+* [2023-11-14, 14:51:30](https://news.ycombinator.com/item?id=38263934) - [Ultra-white ceramic cools buildings with record-high 99.6% reflectivity](https://newatlas.com/materials/ultra-white-ceramic-cools-buildings-record-high-reflectivity/)
+* [2023-11-14, 14:43:01](https://news.ycombinator.com/item?id=38263833) - [Energy Firms Hacked in Largest Coordinated Attack on Denmark's Infrastructure](https://www.securityweek.com/22-energy-firms-hacked-in-largest-coordinated-attack-on-denmarks-critical-infrastructure/)
 * [2023-11-14, 14:24:05](https://news.ycombinator.com/item?id=38263621) - [Tuta (formerly Tutanota) denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
 * [2023-11-14, 14:20:30](https://news.ycombinator.com/item?id=38263578) - [OpenAI confirms it's working on GPT-5](https://twitter.com/rowancheung/status/1724079608054812684)
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
