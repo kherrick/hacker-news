@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-11-14, 02:51:06",
+      "https://news.ycombinator.com/item?id=38258406"
+    ],
+    [
+      "OpenAI offers $10M pay packages to poach Google researchers",
+      "https://www.theinformation.com/articles/openais-new-tack-in-talent-war-with-google-promising-recruits-a-quick-stock-bump"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 02:13:10",
       "https://news.ycombinator.com/item?id=38258101"
     ],
     [
       "Android App Devs now require 20 people to test before publishing to Play Store",
       "https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 02:02:33",
-      "https://news.ycombinator.com/item?id=38258015"
-    ],
-    [
-      "Kai-Fu Li's Yi-34B uses exactly Llama's architecture except for 2 tensor renamed",
-      "https://huggingface.co/01-ai/Yi-34B/discussions/11"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Unlogged (YC S22) Is Hiring a founding back end engineer",
       "https://news.ycombinator.com/item?id=38257499"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 00:33:59",
-      "https://news.ycombinator.com/item?id=38257284"
-    ],
-    [
-      "The laptop that won't die",
-      "https://clivethompson.medium.com/the-laptop-that-wont-die-0c478c3fe46c"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Panama Canal is so congested that one ship owner paid $4M to skip the line",
       "https://fortune.com/2023/11/08/panama-canal-congestion-record-4-million-skip-line/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 19:28:01",
+      "https://news.ycombinator.com/item?id=38254153"
+    ],
+    [
+      "Algorithms (2019)",
+      "http://jeffe.cs.illinois.edu/teaching/algorithms/"
     ]
   ],
   [
