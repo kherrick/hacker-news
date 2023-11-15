@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-15, 01:15:27",
+      "https://news.ycombinator.com/item?id=38272162"
+    ],
+    [
+      "The Architecture of Serverless Data Systems",
+      "https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 01:12:15",
       "https://news.ycombinator.com/item?id=38272132"
     ],
     [
-      "U.S. Reenters the Nuclear Fuel Game",
+      "U.S. reenters the nuclear fuel game",
       "https://spectrum.ieee.org/nuclear-power-plant-2666199640"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 00:28:12",
+      "https://news.ycombinator.com/item?id=38271795"
+    ],
+    [
+      "The O-Ring Theory of Economic Development (1993)",
+      "https://www.jstor.org/stable/2118400"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38271702"
     ],
     [
-      "ARRL Hails FCC Action to Remove Symbol Rate Restrictions",
+      "ARRL hails FCC action to remove symbol rate restrictions",
       "https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions"
     ]
   ],
@@ -27,6 +47,16 @@
     [
       "Detexify LaTeX Handwriting Symbol Recognition",
       "https://detexify.kirelabs.org/classify.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 23:12:00",
+      "https://news.ycombinator.com/item?id=38271155"
+    ],
+    [
+      "Why do people still use VBA?",
+      "https://sancarn.github.io/vba-articles/why-do-people-use-vba.html"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38270714"
     ],
     [
-      "Effective GPT-4 Programming",
+      "Writing a GPT-4 script to check Wikipedia for the first unused acronym",
       "https://gwern.net/tla"
     ]
   ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2023-11-14, 21:35:26",
-      "https://news.ycombinator.com/item?id=38270129"
-    ],
-    [
-      "Galactica: A Year Later – Lessons from a Controversial Launch",
-      "https://twitter.com/rosstaylor90/status/1724537769316520318"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 21:01:07",
       "https://news.ycombinator.com/item?id=38269680"
     ],
     [
       "IcePanel (YC W23) is hiring in Vancouver, Canada",
       "https://icepanel.io/careers"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 20:22:04",
-      "https://news.ycombinator.com/item?id=38269144"
-    ],
-    [
-      "319 Leona",
-      "https://en.wikipedia.org/wiki/319_Leona"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-11-14, 19:27:07",
-      "https://news.ycombinator.com/item?id=38268271"
-    ],
-    [
-      "Music ControlNet: Multiple Time-Varying Controls for Music Generation",
-      "https://musiccontrolnet.github.io/web/"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 18:53:10",
       "https://news.ycombinator.com/item?id=38267739"
     ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=38266923"
     ],
     [
-      "Unix Time reaches 1.7 billion today",
+      "Unix Time reaches 1.7 billion",
       "https://www.epochconverter.com/countdown?q=1700000000"
     ]
   ],
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2023-11-14, 17:22:50",
-      "https://news.ycombinator.com/item?id=38266340"
+      "2023-11-14, 16:52:43",
+      "https://news.ycombinator.com/item?id=38265884"
     ],
     [
-      "Rivian software update bricks infotainment system, fix not obvious",
-      "https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/"
+      "Please Don't Ask If an Open Source Project Is Dead",
+      "https://minimaxir.com/2023/11/open-source-dead-github/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2023-11-14, 15:10:03",
-      "https://news.ycombinator.com/item?id=38264174"
+      "2023-11-14, 12:45:42",
+      "https://news.ycombinator.com/item?id=38262628"
     ],
     [
-      "Replacing HLS/Dash – Live Mass Fanout with Media over QUIC",
-      "https://quic.video/blog/replacing-hls-dash/"
+      "Scientist: A Ruby library for carefully refactoring critical paths",
+      "https://github.com/github/scientist"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-11-14, 10:34:08",
-      "https://news.ycombinator.com/item?id=38261539"
-    ],
-    [
-      "Rust without crates.io",
-      "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
-    ]
-  ],
-  [
-    [
       "2023-11-14, 07:14:27",
       "https://news.ycombinator.com/item?id=38260070"
     ],
@@ -277,6 +267,16 @@
     [
       "Thermal transistors handle heat with no moving parts",
       "https://spectrum.ieee.org/thermal-transistor"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 04:25:28",
+      "https://news.ycombinator.com/item?id=38259148"
+    ],
+    [
+      "I accidentally a scheme",
+      "https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme"
     ]
   ],
   [
