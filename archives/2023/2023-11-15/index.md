@@ -8,6 +8,7 @@
 * [2023-11-15, 07:32:40](https://news.ycombinator.com/item?id=38274212) - [What If Google Wasn't the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 * [2023-11-15, 07:32:31](https://news.ycombinator.com/item?id=38274210) - [13 days before the first eIDAS vote, still no public text](https://last-chance-for-eidas.org/update-151123)
 * [2023-11-15, 07:00:30](https://news.ycombinator.com/item?id=38274056) - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
+* [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 * [2023-11-15, 05:23:52](https://news.ycombinator.com/item?id=38273608) - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 04:03:47](https://news.ycombinator.com/item?id=38273223) - [New Toyota Camry to Be Sold Only as Hybrid](https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155)
 * [2023-11-15, 03:08:43](https://news.ycombinator.com/item?id=38272845) - [Life expectancy for men in US falls to 73 – six years less than women, study](https://www.statnews.com/2023/11/13/life-expectancy-men-women/)
