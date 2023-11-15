@@ -12,6 +12,7 @@
 * [2023-11-14, 22:27:15](https://news.ycombinator.com/item?id=38270714) - [Effective GPT-4 Programming](https://gwern.net/tla)
 * [2023-11-14, 22:14:55](https://news.ycombinator.com/item?id=38270582) - [Happy 1700M Epoch Second](https://www.epochconverter.com/)
 * [2023-11-14, 22:12:13](https://news.ycombinator.com/item?id=38270552) - [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
+* [2023-11-14, 22:03:44](https://news.ycombinator.com/item?id=38270473) - [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
 * [2023-11-14, 21:35:26](https://news.ycombinator.com/item?id=38270129) - [Galactica: A Year Later – Lessons from a Controversial Launch](https://twitter.com/rosstaylor90/status/1724537769316520318)
