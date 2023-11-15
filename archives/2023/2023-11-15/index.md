@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
+* [2023-11-15, 11:58:57](https://news.ycombinator.com/item?id=38275782) - [The Missiles on Our Land](https://missilesonourland.org/)
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
