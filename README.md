@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-15, 07:32:31](https://news.ycombinator.com/item?id=38274210) - [13 days before the first eIDAS vote, still no public text](https://last-chance-for-eidas.org/update-151123)
+* [2023-11-15, 08:12:35](https://news.ycombinator.com/item?id=38274427) - [Sam Altman on X: \"we are pausing new ChatGPT Plus sign-ups for a bit\"](https://twitter.com/sama/status/1724626002595471740)
+* [2023-11-15, 07:32:40](https://news.ycombinator.com/item?id=38274212) - [What If Google Wasn't the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 * [2023-11-15, 07:00:30](https://news.ycombinator.com/item?id=38274056) - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-11-15, 05:23:52](https://news.ycombinator.com/item?id=38273608) - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
@@ -18,7 +19,7 @@
 * [2023-11-14, 17:59:22](https://news.ycombinator.com/item?id=38266923) - [Unix Time reaches 1.7 billion](https://www.epochconverter.com/countdown?q=1700000000)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 17:25:19](https://news.ycombinator.com/item?id=38266387) - [Kathleen Sully, the Vanished Novelist (2022)](https://neglectedbooks.com/?p=8838)
-* [2023-11-14, 16:46:32](https://news.ycombinator.com/item?id=38265773) - [YJIT is the most memory-efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
+* [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 14:38:30](https://news.ycombinator.com/item?id=38263779) - [How to use generative AI for historical research: Four real-world case studies](https://resobscura.substack.com/p/generative-ai-for-historical-research)
 * [2023-11-14, 13:14:17](https://news.ycombinator.com/item?id=38262900) - [Around The World, Part 1: Continents](https://frozenfractal.com/blog/2023/11/2/around-the-world-1-continents/)
@@ -29,7 +30,6 @@
 * [2023-11-14, 07:00:33](https://news.ycombinator.com/item?id=38259991) - [Thermal transistors handle heat with no moving parts](https://spectrum.ieee.org/thermal-transistor)
 * [2023-11-14, 04:25:28](https://news.ycombinator.com/item?id=38259148) - [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-14, 04:18:32](https://news.ycombinator.com/item?id=38259100) - [Julia Child's Culinary Notes](https://jillianhess.substack.com/p/julia-childs-culinary-notes)
-* [2023-11-13, 10:23:28](https://news.ycombinator.com/item?id=38248758) - [Firmware Software Bill of Materials (SBoM) Proposal](https://uefi.org/blog/firmware-sbom-proposal)
 
 ## [Archives](archives/index.md)
 
