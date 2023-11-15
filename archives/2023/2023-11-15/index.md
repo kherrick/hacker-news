@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 17:58:51](https://news.ycombinator.com/item?id=38279959) - [Silicon Valley's worldview is not just an ideology; it's a personality disorder](https://crookedtimber.org/2023/11/15/silicon-valleys-worldview-is-not-just-an-ideology-its-a-personality-disorder/)
+* [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In Illinois, a Warden Tried to Fix an Abusive Prison. He Faced Death Threats](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
 * [2023-11-15, 17:20:40](https://news.ycombinator.com/item?id=38279375) - [Microsoft producing custom \"Azure Cobalt\" chips for cloud AI workloads](https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom)
 * [2023-11-15, 17:11:04](https://news.ycombinator.com/item?id=38279217) - [Framework 13 with AMD Ryzen 7040 Series Makes for a Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd)
 * [2023-11-15, 17:03:11](https://news.ycombinator.com/item?id=38279073) - [Iowa teen grew 7k pounds of veggies, then gave them all away](https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/)
@@ -31,6 +33,7 @@
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by Example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:26:24](https://news.ycombinator.com/item?id=38275925) - [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
+* [2023-11-15, 12:09:31](https://news.ycombinator.com/item?id=38275841) - [We don't do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
 * [2023-11-15, 11:58:57](https://news.ycombinator.com/item?id=38275782) - [The Missiles on Our Land](https://missilesonourland.org/)
 * [2023-11-15, 11:33:44](https://news.ycombinator.com/item?id=38275614) - [Ask HN: Which co-location providers would you recommend in the US?](https://news.ycombinator.com/item?id=38275614)
