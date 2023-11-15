@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 * [2023-11-15, 20:15:14](https://news.ycombinator.com/item?id=38281814) - [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 * [2023-11-15, 19:31:34](https://news.ycombinator.com/item?id=38281264) - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
@@ -9,7 +10,6 @@
 * [2023-11-15, 19:08:10](https://news.ycombinator.com/item?id=38280937) - [Demoscene (2004)](https://www.demoscene.info/)
 * [2023-11-15, 18:36:48](https://news.ycombinator.com/item?id=38280490) - [Show HN: Multi-Object Tracking in Python](https://github.com/kharitonov-ivan/multi-object-tracking-in-python)
 * [2023-11-15, 18:35:42](https://news.ycombinator.com/item?id=38280472) - [Diskomator – NVMe-TCP at your fingertips](https://github.com/poettering/diskomator)
-* [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In illinois, a warden tried to fix an abusive prison](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 * [2023-11-15, 17:03:11](https://news.ycombinator.com/item?id=38279073) - [Iowa teen grew 7k pounds of veggies, then gave them all away](https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/)
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 * [2023-11-15, 20:15:14](https://news.ycombinator.com/item?id=38281814) - [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 * [2023-11-15, 19:53:56](https://news.ycombinator.com/item?id=38281510) - [Inside-out design solves most of the rotary engine's problems](https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/)
