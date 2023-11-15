@@ -75,6 +75,7 @@
 * [2023-11-14, 13:33:49](https://news.ycombinator.com/item?id=38263077) - [Show HN: SvelteKit SaaS Boilerplate to help launch your product fast](https://launchleopard.com/)
 * [2023-11-14, 13:31:48](https://news.ycombinator.com/item?id=38263051) - [He was working three full-time jobs at Meta, IBM, and Tinder. Bosses didn't know](https://www.businessinsider.com/overemployed-workers-secret-two-multiple-jobs-salaries-tech-tips-2023-11)
 * [2023-11-14, 13:20:26](https://news.ycombinator.com/item?id=38262949) - [48-nation bloc to crack down on using crypto assets to avoid tax](https://www.theregister.com/2023/11/13/carf_2027_adoption_set/)
+* [2023-11-14, 13:14:17](https://news.ycombinator.com/item?id=38262900) - [Around The World, Part 1: Continents](https://frozenfractal.com/blog/2023/11/2/around-the-world-1-continents/)
 * [2023-11-14, 13:07:00](https://news.ycombinator.com/item?id=38262837) - [Ask HN: Is ChatGPT4 broken since last weekend?](https://news.ycombinator.com/item?id=38262837)
 * [2023-11-14, 13:06:16](https://news.ycombinator.com/item?id=38262827) - [Coinbase Steals Money](https://news.ycombinator.com/item?id=38262827)
 * [2023-11-14, 13:00:55](https://news.ycombinator.com/item?id=38262775) - [Lapce Editor v0.3 Released](https://github.com/lapce/lapce/releases/tag/v0.3.0)
