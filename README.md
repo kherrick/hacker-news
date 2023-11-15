@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
-* [2023-11-15, 19:53:56](https://news.ycombinator.com/item?id=38281510) - [Inside-out design solves most of the rotary engine's problems](https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/)
+* [2023-11-15, 20:15:14](https://news.ycombinator.com/item?id=38281814) - [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 * [2023-11-15, 19:31:34](https://news.ycombinator.com/item?id=38281264) - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
 * [2023-11-15, 19:21:54](https://news.ycombinator.com/item?id=38281137) - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
 * [2023-11-15, 19:19:04](https://news.ycombinator.com/item?id=38281079) - [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
+* [2023-11-15, 20:15:14](https://news.ycombinator.com/item?id=38281814) - [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 * [2023-11-15, 19:53:56](https://news.ycombinator.com/item?id=38281510) - [Inside-out design solves most of the rotary engine's problems](https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/)
 * [2023-11-15, 19:52:55](https://news.ycombinator.com/item?id=38281492) - [Give up 70% of the way through the hyperstitious slur cascade](https://www.astralcodexten.com/p/give-up-seventy-percent-of-the-way)
 * [2023-11-15, 19:36:13](https://news.ycombinator.com/item?id=38281316) - [Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians](https://www.404media.co/feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians/)
