@@ -21,7 +21,6 @@
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by Example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 11:33:44](https://news.ycombinator.com/item?id=38275614) - [Ask HN: Which co-location providers would you recommend in the US?](https://news.ycombinator.com/item?id=38275614)
-* [2023-11-15, 11:22:24](https://news.ycombinator.com/item?id=38275542) - [Why Mushroom Suits Won't Work and How to Apply Cemetery Studies](https://memorialecosystemswordpress.wordpress.com/2016/05/20/part-3-why-mushroom-suits-wont-work-and-how-to-apply-forensic-taphonomy-and-cemetery-studies-to-make-green-graves-one-use-composting-machines-part-1/)
 * [2023-11-15, 10:56:22](https://news.ycombinator.com/item?id=38275384) - [She lived in a New York hotel for more than 40 years. But her life was a mystery](https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
@@ -30,6 +29,7 @@
 * [2023-11-14, 23:12:00](https://news.ycombinator.com/item?id=38271155) - [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 11:48:09](https://news.ycombinator.com/item?id=38262120) - [You have to be educated to be educated (1997)](https://www.lrb.co.uk/the-paper/v19/n07/adam-phillips/you-have-to-be-educated-to-be-educated)
+* [2023-11-14, 04:25:28](https://news.ycombinator.com/item?id=38259148) - [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 
 ## [Archives](archives/index.md)
 
