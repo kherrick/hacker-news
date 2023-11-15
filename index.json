@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-11-15, 17:45:44",
+      "https://news.ycombinator.com/item?id=38279759"
+    ],
+    [
+      "Is the US's Vaccine Adverse Event Reporting System broken?",
+      "https://www.bmj.com/content/383/bmj.p2582"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 17:43:52",
       "https://news.ycombinator.com/item?id=38279732"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38276075"
     ],
     [
-      "WASM by Example",
+      "WASM by example",
       "https://wasmbyexample.dev/home.en-us.html"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Curl on 100 Operating Systems",
       "https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 17:49:43",
-      "https://news.ycombinator.com/item?id=38266773"
-    ],
-    [
-      "Reptar",
-      "https://lock.cmpxchg8b.com/reptar.html"
     ]
   ],
   [
