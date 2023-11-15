@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
+* [2023-11-15, 20:24:23](https://news.ycombinator.com/item?id=38281944) - [NTSB Calls for Technology to Reduce Speeding in All New Cars](https://www.ntsb.gov:443/news/press-releases/Pages/NR20231114.aspx)
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 * [2023-11-15, 20:15:14](https://news.ycombinator.com/item?id=38281814) - [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 * [2023-11-15, 19:53:56](https://news.ycombinator.com/item?id=38281510) - [Inside-out design solves most of the rotary engine's problems](https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/)
@@ -73,6 +74,7 @@
 * [2023-11-15, 07:32:31](https://news.ycombinator.com/item?id=38274210) - [13 days before the first eIDAS vote, still no public text](https://last-chance-for-eidas.org/update-151123)
 * [2023-11-15, 07:00:30](https://news.ycombinator.com/item?id=38274056) - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
+* [2023-11-15, 06:37:01](https://news.ycombinator.com/item?id=38273947) - [Baddeley's Body Temperature and Time Perception Is One of Science's Rare Singles](https://brainworldmagazine.com/baddeleys-rendition-of-body-temperature-and-time-perception-is-one-of-sciences-rare-singles/)
 * [2023-11-15, 05:23:52](https://news.ycombinator.com/item?id=38273608) - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://www.youtube.com/watch?v=53wHr415LPU)
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://accentual.com/bmc64/)
