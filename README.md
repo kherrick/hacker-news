@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 21:42:36](https://news.ycombinator.com/item?id=38282969) - [Meta allows ads saying 2020 election was rigged on Facebook and Instagram](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy)
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
+* [2023-11-15, 20:20:26](https://news.ycombinator.com/item?id=38281898) - [Plane forced to turn back to JFK after horse breaks loose onboard](https://www.independent.co.uk/travel/news-and-advice/horse-loose-plane-flight-divert-b2447854.html)
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 * [2023-11-15, 20:15:14](https://news.ycombinator.com/item?id=38281814) - [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 * [2023-11-15, 19:31:34](https://news.ycombinator.com/item?id=38281264) - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
@@ -15,7 +17,6 @@
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)
 * [2023-11-15, 16:02:51](https://news.ycombinator.com/item?id=38278171) - [The first two custom silicon chips designed by Microsoft for its cloud](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
 * [2023-11-15, 15:44:23](https://news.ycombinator.com/item?id=38277926) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
-* [2023-11-15, 15:40:06](https://news.ycombinator.com/item?id=38277863) - [James Webb Space Telescope finds 2 of the most distant galaxies ever seen](https://www.space.com/james-webb-space-telescope-distant-galaxies)
 * [2023-11-15, 15:22:46](https://news.ycombinator.com/item?id=38277598) - [M1076 Analog Matrix Processor](https://mythic.ai/products/m1076-analog-matrix-processor/)
 * [2023-11-15, 15:10:20](https://news.ycombinator.com/item?id=38277430) - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
 * [2023-11-15, 15:09:02](https://news.ycombinator.com/item?id=38277412) - [US surgeons perform first whole eye transplant](https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html)
@@ -29,7 +30,6 @@
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
 * [2023-11-15, 06:37:01](https://news.ycombinator.com/item?id=38273947) - [Baddeley's Body Temperature and Time Perception Is One of Science's Rare Singles](https://brainworldmagazine.com/baddeleys-rendition-of-body-temperature-and-time-perception-is-one-of-sciences-rare-singles/)
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://accentual.com/bmc64/)
-* [2023-11-14, 07:44:03](https://news.ycombinator.com/item?id=38260248) - [The \"computers are social actors\" theory no longer applies to desktop computers](https://www.nature.com/articles/s41598-023-46527-9)
 
 ## [Archives](archives/index.md)
 
