@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 17:01:10](https://news.ycombinator.com/item?id=38279045) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-11-15, 16:56:52](https://news.ycombinator.com/item?id=38278966) - [Amazon is blocking promotions of employees who don't comply with RTO policy](https://www.businessinsider.com/amazon-suspends-promotions-employees-not-meeting-rto-mandate-2023-11)
 * [2023-11-15, 16:45:26](https://news.ycombinator.com/item?id=38278786) - [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)
 * [2023-11-15, 15:57:26](https://news.ycombinator.com/item?id=38278083) - [The Principle of Least Power (2007)](https://blog.codinghorror.com/the-principle-of-least-power/)
@@ -33,6 +35,7 @@
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
+* [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
 * [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Paul Graham – Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 08:12:35](https://news.ycombinator.com/item?id=38274427) - [Sam Altman on X: \"we are pausing new ChatGPT Plus sign-ups for a bit\"](https://twitter.com/sama/status/1724626002595471740)
 * [2023-11-15, 07:32:40](https://news.ycombinator.com/item?id=38274212) - [What If Google Wasn't the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
