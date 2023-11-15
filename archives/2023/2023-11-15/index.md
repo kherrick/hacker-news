@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with Flexible Remote Work Policies Outperform on Revenue Growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
 * [2023-11-15, 17:58:51](https://news.ycombinator.com/item?id=38279959) - [Silicon Valley's worldview is not just an ideology; it's a personality disorder](https://crookedtimber.org/2023/11/15/silicon-valleys-worldview-is-not-just-an-ideology-its-a-personality-disorder/)
 * [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In Illinois, a Warden Tried to Fix an Abusive Prison. He Faced Death Threats](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
+* [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [Learning about b-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 * [2023-11-15, 17:20:40](https://news.ycombinator.com/item?id=38279375) - [Microsoft producing custom \"Azure Cobalt\" chips for cloud AI workloads](https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom)
 * [2023-11-15, 17:11:04](https://news.ycombinator.com/item?id=38279217) - [Framework 13 with AMD Ryzen 7040 Series Makes for a Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd)
 * [2023-11-15, 17:03:11](https://news.ycombinator.com/item?id=38279073) - [Iowa teen grew 7k pounds of veggies, then gave them all away](https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/)
