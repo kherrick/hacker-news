@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-15, 04:03:47](https://news.ycombinator.com/item?id=38273223) - [New Toyota Camry to Be Sold Only as Hybrid](https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155)
-* [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [LLM can invade privacy through benign questions depite usual protections](https://arxiv.org/abs/2310.07298)
+* [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
 * [2023-11-15, 01:15:27](https://news.ycombinator.com/item?id=38272162) - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
 * [2023-11-15, 01:12:15](https://news.ycombinator.com/item?id=38272132) - [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
 * [2023-11-15, 00:49:42](https://news.ycombinator.com/item?id=38271959) - [ML for Beginners GitHub](https://github.com/microsoft/ML-For-Beginners)
@@ -13,6 +12,7 @@
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) is hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:10:36](https://news.ycombinator.com/item?id=38268958) - [Bpftime: Userspace eBPF runtime for fast Uprobe and Syscall hook and Plugins](https://github.com/eunomia-bpf/bpftime)
+* [2023-11-14, 19:56:52](https://news.ycombinator.com/item?id=38268737) - [CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP](https://cachewarpattack.com/)
 * [2023-11-14, 18:53:10](https://news.ycombinator.com/item?id=38267739) - [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
 * [2023-11-14, 17:59:22](https://news.ycombinator.com/item?id=38266923) - [Unix Time reaches 1.7 billion](https://www.epochconverter.com/countdown?q=1700000000)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
