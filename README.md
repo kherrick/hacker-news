@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-15, 18:36:08](https://news.ycombinator.com/item?id=38280479) - [Android isn't cool with teenagers, and that's a big problem](https://www.androidpolice.com/android-teens-problem/)
-* [2023-11-15, 18:29:00](https://news.ycombinator.com/item?id=38280382) - [Tangram Vision packs AI skills onto HiFi 3D sensor](https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/)
 * [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with flexible remote work policies outperform on revenue growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
 * [2023-11-15, 17:45:44](https://news.ycombinator.com/item?id=38279759) - [Is the US's Vaccine Adverse Event Reporting System broken?](https://www.bmj.com/content/383/bmj.p2582)
 * [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In illinois, a warden tried to fix an abusive prison](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
@@ -18,6 +17,7 @@
 * [2023-11-15, 15:09:02](https://news.ycombinator.com/item?id=38277412) - [US surgeons perform first whole eye transplant](https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html)
 * [2023-11-15, 14:45:27](https://news.ycombinator.com/item?id=38277105) - [FBI Director: FISA Section 702 warrant requirement a 'de facto ban'](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
 * [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis (2021)](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
+* [2023-11-15, 14:00:21](https://news.ycombinator.com/item?id=38276657) - [A defined process for project post mortem review (1996)](https://ieeexplore.ieee.org/document/526833)
 * [2023-11-15, 13:44:21](https://news.ycombinator.com/item?id=38276518) - [COBOL for GCC Development](https://cobolworx.com/pages/cobforgcc.html)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:09:31](https://news.ycombinator.com/item?id=38275841) - [We don't do DST at this company](https://blog.backslasher.net/no-dst.html)

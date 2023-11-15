@@ -35,6 +35,7 @@
 * [2023-11-15, 14:41:31](https://news.ycombinator.com/item?id=38277058) - [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
 * [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
 * [2023-11-15, 14:23:43](https://news.ycombinator.com/item?id=38276883) - [The 'Georgists' Are Out and they want to tax your land](https://www.nytimes.com/2023/11/12/business/georgism-land-tax-housing.html)
+* [2023-11-15, 14:00:21](https://news.ycombinator.com/item?id=38276657) - [A defined process for project post mortem review (1996)](https://ieeexplore.ieee.org/document/526833)
 * [2023-11-15, 13:44:21](https://news.ycombinator.com/item?id=38276518) - [COBOL for GCC Development](https://cobolworx.com/pages/cobforgcc.html)
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by Example](https://wasmbyexample.dev/home.en-us.html)
