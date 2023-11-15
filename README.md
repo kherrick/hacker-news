@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-15, 04:03:47](https://news.ycombinator.com/item?id=38273223) - [New Toyota Camry to Be Sold Only as Hybrid](https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155)
-* [2023-11-15, 03:06:41](https://news.ycombinator.com/item?id=38272835) - [Kodak sues Tesla for using stolen technology for Autopilot](https://cleanenergyrevolution.co/2023/11/13/kodak-sues-tesla-for-using-stolen-technology-for-autopilot/)
 * [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [LLM can invade privacy through benign questions depite usual protections](https://arxiv.org/abs/2310.07298)
 * [2023-11-15, 01:15:27](https://news.ycombinator.com/item?id=38272162) - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
 * [2023-11-15, 01:12:15](https://news.ycombinator.com/item?id=38272132) - [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
@@ -19,6 +18,7 @@
 * [2023-11-14, 17:59:22](https://news.ycombinator.com/item?id=38266923) - [Unix Time reaches 1.7 billion](https://www.epochconverter.com/countdown?q=1700000000)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 17:25:19](https://news.ycombinator.com/item?id=38266387) - [Kathleen Sully, the Vanished Novelist (2022)](https://neglectedbooks.com/?p=8838)
+* [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
 * [2023-11-14, 16:46:32](https://news.ycombinator.com/item?id=38265773) - [YJIT is the most memory-efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 14:38:30](https://news.ycombinator.com/item?id=38263779) - [How to use generative AI for historical research: Four real-world case studies](https://resobscura.substack.com/p/generative-ai-for-historical-research)
