@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 18:36:08](https://news.ycombinator.com/item?id=38280479) - [Android isn't cool with teenagers, and that's a big problem](https://www.androidpolice.com/android-teens-problem/)
 * [2023-11-15, 18:29:00](https://news.ycombinator.com/item?id=38280382) - [Tangram Vision packs AI skills onto HiFi 3D sensor](https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/)
 * [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with Flexible Remote Work Policies Outperform on Revenue Growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
 * [2023-11-15, 17:58:51](https://news.ycombinator.com/item?id=38279959) - [Silicon Valley's worldview is not just an ideology; it's a personality disorder](https://crookedtimber.org/2023/11/15/silicon-valleys-worldview-is-not-just-an-ideology-its-a-personality-disorder/)
@@ -18,6 +19,7 @@
 * [2023-11-15, 16:45:26](https://news.ycombinator.com/item?id=38278786) - [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
 * [2023-11-15, 16:37:42](https://news.ycombinator.com/item?id=38278657) - [The battle over right to repair is a fight over your car's data](https://theconversation.com/the-battle-over-right-to-repair-is-a-fight-over-your-cars-data-213052)
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)
+* [2023-11-15, 16:02:51](https://news.ycombinator.com/item?id=38278171) - [The first two custom silicon chips designed by Microsoft for its cloud](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
 * [2023-11-15, 15:57:26](https://news.ycombinator.com/item?id=38278083) - [The Principle of Least Power (2007)](https://blog.codinghorror.com/the-principle-of-least-power/)
 * [2023-11-15, 15:53:30](https://news.ycombinator.com/item?id=38278037) - [Show HN: Watermelon – open-source copilot for code review](https://github.com/marketplace/watermelon-context)
 * [2023-11-15, 15:44:23](https://news.ycombinator.com/item?id=38277926) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
