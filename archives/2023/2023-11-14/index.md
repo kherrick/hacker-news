@@ -93,6 +93,7 @@
 * [2023-11-14, 11:57:34](https://news.ycombinator.com/item?id=38262196) - [Footsteps of pi](https://axleos.com/footsteps-of-pi/)
 * [2023-11-14, 11:55:57](https://news.ycombinator.com/item?id=38262182) - [US Healthcare Scam Illustrated in Impossibility of Getting Bill for 5 Stitches](https://www.techdirt.com/2023/11/13/the-us-healthcare-scam-illustrated-in-the-impossibility-of-getting-a-bill-for-five-stitches/)
 * [2023-11-14, 11:48:37](https://news.ycombinator.com/item?id=38262124) - [Google Sues Men Who Weaponized DMCA Notices to Crush Competition](https://torrentfreak.com/google-sues-men-who-weaponized-dmca-notices-to-crush-competition-231114/)
+* [2023-11-14, 11:48:09](https://news.ycombinator.com/item?id=38262120) - [You have to be educated to be educated (1997)](https://www.lrb.co.uk/the-paper/v19/n07/adam-phillips/you-have-to-be-educated-to-be-educated)
 * [2023-11-14, 11:47:06](https://news.ycombinator.com/item?id=38262115) - [If you buy a Cybertruck, Tesla says you can't sell it for a year](https://www.theverge.com/2023/11/13/23959481/if-you-buy-a-cybertruck-tesla-says-you-cant-sell-it-for-a-year)
 * [2023-11-14, 11:31:40](https://news.ycombinator.com/item?id=38261982) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 * [2023-11-14, 11:24:42](https://news.ycombinator.com/item?id=38261913) - [Constraints On Physical Computers In Holographic Spacetimes](https://arxiv.org/abs/2304.09900)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 15:57:26](https://news.ycombinator.com/item?id=38278083) - [The Principle of Least Power (2007)](https://blog.codinghorror.com/the-principle-of-least-power/)
+* [2023-11-15, 15:40:06](https://news.ycombinator.com/item?id=38277863) - [James Webb Space Telescope finds 2 of the most distant galaxies ever seen](https://www.space.com/james-webb-space-telescope-distant-galaxies)
+* [2023-11-15, 15:29:43](https://news.ycombinator.com/item?id=38277701) - [I Visited over 120 EV Chargers: Why So Many Were Broken](https://www.wsj.com/tech/i-visited-over-120-ev-chargers-three-reasons-why-so-many-were-broken-7a5d3e45)
 * [2023-11-15, 15:10:20](https://news.ycombinator.com/item?id=38277430) - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
 * [2023-11-15, 14:54:17](https://news.ycombinator.com/item?id=38277220) - [ChatGPT has entered the classroom: how LLMs could transform education](https://www.nature.com/articles/d41586-023-03507-3)
 * [2023-11-15, 14:48:27](https://news.ycombinator.com/item?id=38277138) - [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
