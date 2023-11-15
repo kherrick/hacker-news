@@ -2,6 +2,7 @@
 
 * [2023-11-15, 18:29:00](https://news.ycombinator.com/item?id=38280382) - [Tangram Vision packs AI skills onto HiFi 3D sensor](https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/)
 * [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with Flexible Remote Work Policies Outperform on Revenue Growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
+* [2023-11-15, 17:45:44](https://news.ycombinator.com/item?id=38279759) - [Is the US's Vaccine Adverse Event Reporting System broken?](https://www.bmj.com/content/383/bmj.p2582)
 * [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In Illinois, a Warden Tried to Fix an Abusive Prison. He Faced Death Threats](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [Learning about b-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 * [2023-11-15, 17:20:40](https://news.ycombinator.com/item?id=38279375) - [Microsoft producing custom \"Azure Cobalt\" chips for cloud AI workloads](https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom)
@@ -20,14 +21,13 @@
 * [2023-11-15, 14:41:31](https://news.ycombinator.com/item?id=38277058) - [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
 * [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis (2021)](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
 * [2023-11-15, 13:44:21](https://news.ycombinator.com/item?id=38276518) - [COBOL for GCC Development](https://cobolworx.com/pages/cobforgcc.html)
-* [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by Example](https://wasmbyexample.dev/home.en-us.html)
+* [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:09:31](https://news.ycombinator.com/item?id=38275841) - [We don't do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 10:56:22](https://news.ycombinator.com/item?id=38275384) - [She lived in a New York hotel for more than 40 years. But her life was a mystery](https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery)
 * [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
-* [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 11:48:09](https://news.ycombinator.com/item?id=38262120) - [You have to be educated to be educated (1997)](https://www.lrb.co.uk/the-paper/v19/n07/adam-phillips/you-have-to-be-educated-to-be-educated)
 * [2023-11-14, 07:44:03](https://news.ycombinator.com/item?id=38260248) - [The CASA theory no longer applies to desktop computers](https://www.nature.com/articles/s41598-023-46527-9)
 
