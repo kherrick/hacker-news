@@ -19,6 +19,7 @@
 * [2023-11-15, 18:43:28](https://news.ycombinator.com/item?id=38280594) - [Godot Engine GPT](https://chat.openai.com/g/g-0e9nkbuRV-godot-assistant)
 * [2023-11-15, 18:36:48](https://news.ycombinator.com/item?id=38280490) - [Intro to Multi-Object Tracking](https://github.com/kharitonov-ivan/multi-object-tracking-in-python)
 * [2023-11-15, 18:36:08](https://news.ycombinator.com/item?id=38280479) - [Android isn't cool with teenagers, and that's a big problem](https://www.androidpolice.com/android-teens-problem/)
+* [2023-11-15, 18:35:42](https://news.ycombinator.com/item?id=38280472) - [Diskomator – NVMe-TCP at your fingertips](https://github.com/poettering/diskomator)
 * [2023-11-15, 18:29:00](https://news.ycombinator.com/item?id=38280382) - [Tangram Vision packs AI skills onto HiFi 3D sensor](https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/)
 * [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with Flexible Remote Work Policies Outperform on Revenue Growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
 * [2023-11-15, 17:58:51](https://news.ycombinator.com/item?id=38279959) - [Silicon Valley's worldview is not just an ideology; it's a personality disorder](https://crookedtimber.org/2023/11/15/silicon-valleys-worldview-is-not-just-an-ideology-its-a-personality-disorder/)
