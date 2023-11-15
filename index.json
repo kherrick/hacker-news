@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-15, 18:36:08",
+      "https://news.ycombinator.com/item?id=38280479"
+    ],
+    [
+      "Android isn't cool with teenagers, and that's a big problem",
+      "https://www.androidpolice.com/android-teens-problem/"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 18:29:00",
       "https://news.ycombinator.com/item?id=38280382"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38280100"
     ],
     [
-      "Companies with Flexible Remote Work Policies Outperform on Revenue Growth",
+      "Companies with flexible remote work policies outperform on revenue growth",
       "https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38279732"
     ],
     [
-      "In Illinois, a Warden Tried to Fix an Abusive Prison. He Faced Death Threats",
+      "In illinois, a warden tried to fix an abusive prison",
       "https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami"
     ]
   ],
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=38279459"
     ],
     [
-      "Learning about b-trees in Factorio",
+      "B-trees in Factorio",
       "https://razberry.substack.com/p/btree-factorio"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 17:20:40",
-      "https://news.ycombinator.com/item?id=38279375"
-    ],
-    [
-      "Microsoft producing custom \"Azure Cobalt\" chips for cloud AI workloads",
-      "https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom"
     ]
   ],
   [
@@ -71,32 +71,12 @@
   ],
   [
     [
-      "2023-11-15, 17:01:10",
-      "https://news.ycombinator.com/item?id=38279045"
+      "2023-11-15, 17:03:11",
+      "https://news.ycombinator.com/item?id=38279073"
     ],
     [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 16:45:26",
-      "https://news.ycombinator.com/item?id=38278786"
-    ],
-    [
-      "Microsoft introduces its own chips for AI, with eye on cost",
-      "https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 16:37:42",
-      "https://news.ycombinator.com/item?id=38278657"
-    ],
-    [
-      "The battle over right to repair is a fight over your car's data",
-      "https://theconversation.com/the-battle-over-right-to-repair-is-a-fight-over-your-cars-data-213052"
+      "Iowa teen grew 7k pounds of veggies, then gave them all away",
+      "https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "On Cultures That Build (2020)",
       "https://scholars-stage.org/on-cultures-that-build/"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 16:02:51",
+      "https://news.ycombinator.com/item?id=38278171"
+    ],
+    [
+      "The first two custom silicon chips designed by Microsoft for its cloud",
+      "https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2023-11-15, 14:41:31",
-      "https://news.ycombinator.com/item?id=38277058"
-    ],
-    [
-      "Google paid $8B to make its apps default on Samsung phones",
-      "https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 14:31:36",
       "https://news.ycombinator.com/item?id=38276951"
     ],
@@ -231,11 +211,21 @@
   ],
   [
     [
+      "2023-11-15, 12:00:49",
+      "https://news.ycombinator.com/item?id=38275791"
+    ],
+    [
+      "Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer",
+      "https://mux.com/jobs?j=dse"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 10:56:22",
       "https://news.ycombinator.com/item?id=38275384"
     ],
     [
-      "She lived in a New York hotel for more than 40 years. But her life was a mystery",
+      "She lived in a New York hotel for more than 40 years, but her life was a mystery",
       "https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Curl on 100 Operating Systems",
       "https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 17:49:43",
+      "https://news.ycombinator.com/item?id=38266773"
+    ],
+    [
+      "Reptar",
+      "https://lock.cmpxchg8b.com/reptar.html"
     ]
   ],
   [
