@@ -17,7 +17,6 @@
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
-* [2023-11-15, 05:23:52](https://news.ycombinator.com/item?id=38273608) - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
 * [2023-11-15, 01:15:27](https://news.ycombinator.com/item?id=38272162) - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
 * [2023-11-15, 01:12:15](https://news.ycombinator.com/item?id=38272132) - [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
@@ -29,6 +28,7 @@
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 13:14:17](https://news.ycombinator.com/item?id=38262900) - [Around The World, Part 1: Continents](https://frozenfractal.com/blog/2023/11/2/around-the-world-1-continents/)
 * [2023-11-14, 12:45:42](https://news.ycombinator.com/item?id=38262628) - [Scientist: A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist)
+* [2023-11-14, 11:31:40](https://news.ycombinator.com/item?id=38261982) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 * [2023-11-14, 04:25:28](https://news.ycombinator.com/item?id=38259148) - [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 
 ## [Archives](archives/index.md)
