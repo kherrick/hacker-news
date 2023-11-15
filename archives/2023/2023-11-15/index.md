@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 14:48:27](https://news.ycombinator.com/item?id=38277138) - [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
+* [2023-11-15, 14:41:31](https://news.ycombinator.com/item?id=38277058) - [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
+* [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
+* [2023-11-15, 14:23:43](https://news.ycombinator.com/item?id=38276883) - [The 'Georgists' Are Out and they want to tax your land](https://www.nytimes.com/2023/11/12/business/georgism-land-tax-housing.html)
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:26:24](https://news.ycombinator.com/item?id=38275925) - [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
 * [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
