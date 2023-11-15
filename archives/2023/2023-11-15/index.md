@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
 * [2023-11-15, 21:42:36](https://news.ycombinator.com/item?id=38282969) - [Meta allows ads saying 2020 election was rigged on Facebook and Instagram](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy)
+* [2023-11-15, 21:41:20](https://news.ycombinator.com/item?id=38282950) - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:25:35](https://news.ycombinator.com/item?id=38282728) - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 20:24:23](https://news.ycombinator.com/item?id=38281944) - [NTSB Calls for Technology to Reduce Speeding in All New Cars](https://www.ntsb.gov:443/news/press-releases/Pages/NR20231114.aspx)
@@ -21,6 +22,7 @@
 * [2023-11-15, 19:11:47](https://news.ycombinator.com/item?id=38280974) - [Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770)
 * [2023-11-15, 19:08:10](https://news.ycombinator.com/item?id=38280937) - [Demoscene](https://www.demoscene.info/)
 * [2023-11-15, 19:01:50](https://news.ycombinator.com/item?id=38280862) - [Inflation Appears to Be Over](https://politicalwire.com/2023/11/15/inflation-appears-to-be-over/)
+* [2023-11-15, 18:48:10](https://news.ycombinator.com/item?id=38280664) - [Running Redshift at Scale](https://blog.artie.so/best-practices-on-running-redshift-at-scale)
 * [2023-11-15, 18:43:28](https://news.ycombinator.com/item?id=38280594) - [Godot Engine GPT](https://chat.openai.com/g/g-0e9nkbuRV-godot-assistant)
 * [2023-11-15, 18:36:48](https://news.ycombinator.com/item?id=38280490) - [Intro to Multi-Object Tracking](https://github.com/kharitonov-ivan/multi-object-tracking-in-python)
 * [2023-11-15, 18:36:08](https://news.ycombinator.com/item?id=38280479) - [Android isn't cool with teenagers, and that's a big problem](https://www.androidpolice.com/android-teens-problem/)
@@ -71,6 +73,7 @@
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
+* [2023-11-15, 08:51:45](https://news.ycombinator.com/item?id=38274642) - [My primality testing code is 6x faster than Sir Roger Penrose's](https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html)
 * [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Paul Graham – Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 08:12:35](https://news.ycombinator.com/item?id=38274427) - [Sam Altman on X: \"we are pausing new ChatGPT Plus sign-ups for a bit\"](https://twitter.com/sama/status/1724626002595471740)
 * [2023-11-15, 07:32:40](https://news.ycombinator.com/item?id=38274212) - [What If Google Wasn't the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
