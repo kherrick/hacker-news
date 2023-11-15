@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 15:10:20](https://news.ycombinator.com/item?id=38277430) - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
 * [2023-11-15, 14:48:27](https://news.ycombinator.com/item?id=38277138) - [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
 * [2023-11-15, 14:45:27](https://news.ycombinator.com/item?id=38277105) - [FBI Director: FISA Section 702 warrant requirement a 'de facto ban'](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
 * [2023-11-15, 14:41:31](https://news.ycombinator.com/item?id=38277058) - [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
@@ -16,7 +17,6 @@
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
-* [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
 * [2023-11-15, 01:15:27](https://news.ycombinator.com/item?id=38272162) - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
 * [2023-11-15, 01:12:15](https://news.ycombinator.com/item?id=38272132) - [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
 * [2023-11-15, 00:16:40](https://news.ycombinator.com/item?id=38271702) - [ARRL hails FCC action to remove symbol rate restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)

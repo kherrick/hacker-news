@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 15:10:20](https://news.ycombinator.com/item?id=38277430) - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
 * [2023-11-15, 14:48:27](https://news.ycombinator.com/item?id=38277138) - [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
 * [2023-11-15, 14:45:27](https://news.ycombinator.com/item?id=38277105) - [FBI Director: FISA Section 702 warrant requirement a 'de facto ban'](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
 * [2023-11-15, 14:41:31](https://news.ycombinator.com/item?id=38277058) - [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
