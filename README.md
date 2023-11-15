@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 17:11:04](https://news.ycombinator.com/item?id=38279217) - [Framework 13 with AMD Ryzen 7040 Series Makes for a Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd)
+* [2023-11-15, 17:03:11](https://news.ycombinator.com/item?id=38279073) - [Iowa teen grew 7k pounds of veggies, then gave them all away](https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/)
 * [2023-11-15, 17:01:10](https://news.ycombinator.com/item?id=38279045) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-11-15, 16:56:52](https://news.ycombinator.com/item?id=38278966) - [Amazon is blocking promotions of employees who don't comply with RTO policy](https://www.businessinsider.com/amazon-suspends-promotions-employees-not-meeting-rto-mandate-2023-11)
 * [2023-11-15, 16:45:26](https://news.ycombinator.com/item?id=38278786) - [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
@@ -25,11 +27,9 @@
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
 * [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
-* [2023-11-15, 00:16:40](https://news.ycombinator.com/item?id=38271702) - [ARRL hails FCC action to remove symbol rate restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
 * [2023-11-14, 23:12:00](https://news.ycombinator.com/item?id=38271155) - [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 11:48:09](https://news.ycombinator.com/item?id=38262120) - [You have to be educated to be educated (1997)](https://www.lrb.co.uk/the-paper/v19/n07/adam-phillips/you-have-to-be-educated-to-be-educated)
-* [2023-11-14, 04:25:28](https://news.ycombinator.com/item?id=38259148) - [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 
 ## [Archives](archives/index.md)
 

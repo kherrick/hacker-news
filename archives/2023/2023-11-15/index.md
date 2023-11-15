@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 17:11:04](https://news.ycombinator.com/item?id=38279217) - [Framework 13 with AMD Ryzen 7040 Series Makes for a Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd)
+* [2023-11-15, 17:03:11](https://news.ycombinator.com/item?id=38279073) - [Iowa teen grew 7k pounds of veggies, then gave them all away](https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/)
 * [2023-11-15, 17:01:10](https://news.ycombinator.com/item?id=38279045) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-11-15, 16:56:52](https://news.ycombinator.com/item?id=38278966) - [Amazon is blocking promotions of employees who don't comply with RTO policy](https://www.businessinsider.com/amazon-suspends-promotions-employees-not-meeting-rto-mandate-2023-11)
 * [2023-11-15, 16:45:26](https://news.ycombinator.com/item?id=38278786) - [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
