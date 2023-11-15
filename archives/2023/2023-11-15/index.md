@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 17:20:40](https://news.ycombinator.com/item?id=38279375) - [Microsoft producing custom \"Azure Cobalt\" chips for cloud AI workloads](https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom)
 * [2023-11-15, 17:11:04](https://news.ycombinator.com/item?id=38279217) - [Framework 13 with AMD Ryzen 7040 Series Makes for a Great Linux Laptop](https://www.phoronix.com/review/framework-13-amd)
 * [2023-11-15, 17:03:11](https://news.ycombinator.com/item?id=38279073) - [Iowa teen grew 7k pounds of veggies, then gave them all away](https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/)
 * [2023-11-15, 17:01:10](https://news.ycombinator.com/item?id=38279045) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-11-15, 16:56:52](https://news.ycombinator.com/item?id=38278966) - [Amazon is blocking promotions of employees who don't comply with RTO policy](https://www.businessinsider.com/amazon-suspends-promotions-employees-not-meeting-rto-mandate-2023-11)
 * [2023-11-15, 16:45:26](https://news.ycombinator.com/item?id=38278786) - [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
+* [2023-11-15, 16:37:42](https://news.ycombinator.com/item?id=38278657) - [The battle over right to repair is a fight over your car's data](https://theconversation.com/the-battle-over-right-to-repair-is-a-fight-over-your-cars-data-213052)
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)
 * [2023-11-15, 15:57:26](https://news.ycombinator.com/item?id=38278083) - [The Principle of Least Power (2007)](https://blog.codinghorror.com/the-principle-of-least-power/)
 * [2023-11-15, 15:53:30](https://news.ycombinator.com/item?id=38278037) - [Show HN: Watermelon – open-source copilot for code review](https://github.com/marketplace/watermelon-context)
