@@ -2,7 +2,7 @@
 
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
-* [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Paul Graham – Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
+* [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 07:00:30](https://news.ycombinator.com/item?id=38274056) - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 * [2023-11-15, 05:23:52](https://news.ycombinator.com/item?id=38273608) - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
