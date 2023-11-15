@@ -124,6 +124,7 @@
 * [2023-11-14, 01:35:21](https://news.ycombinator.com/item?id=38257813) - [Many Popular Houses in L.A. Were Part of a Scam by a Con Artist Who Disappeared](https://www.atlasobscura.com/articles/los-angeles-home-scam)
 * [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this weekend](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-14, 01:32:52](https://news.ycombinator.com/item?id=38257793) - [Why do I sign and add a thank you card for every air quality monitor we sell?](https://www.airgradient.com/blog/thank-you-card/)
+* [2023-11-14, 01:30:51](https://news.ycombinator.com/item?id=38257776) - [Mary Beard traces the profile of the Roman emperor](https://www.washingtonpost.com/books/2023/11/10/mary-beard-emperor-rome-book/)
 * [2023-11-14, 01:30:07](https://news.ycombinator.com/item?id=38257769) - [Ask HN: How to manage autistic developer?](https://news.ycombinator.com/item?id=38257769)
 * [2023-11-14, 01:15:44](https://news.ycombinator.com/item?id=38257637) - [America Is Getting Lonelier and More Indoorsy. That's Not a Coincidence](https://www.theatlantic.com/health/archive/2023/11/nature-avoidance-social-isolation-loneliness/675984/)
 * [2023-11-14, 01:01:06](https://news.ycombinator.com/item?id=38257499) - [Unlogged (YC S22) Is Hiring a founding back end engineer](https://news.ycombinator.com/item?id=38257499)

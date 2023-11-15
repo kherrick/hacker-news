@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
+* [2023-11-15, 12:26:24](https://news.ycombinator.com/item?id=38275925) - [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
 * [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
@@ -20,7 +21,6 @@
 * [2023-11-14, 22:12:13](https://news.ycombinator.com/item?id=38270552) - [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
-* [2023-11-14, 17:25:19](https://news.ycombinator.com/item?id=38266387) - [Kathleen Sully, the Vanished Novelist (2022)](https://neglectedbooks.com/?p=8838)
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 13:14:17](https://news.ycombinator.com/item?id=38262900) - [Around The World, Part 1: Continents](https://frozenfractal.com/blog/2023/11/2/around-the-world-1-continents/)
 * [2023-11-14, 12:45:42](https://news.ycombinator.com/item?id=38262628) - [Scientist: A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist)
@@ -28,7 +28,7 @@
 * [2023-11-14, 07:00:33](https://news.ycombinator.com/item?id=38259991) - [Thermal transistors handle heat with no moving parts](https://spectrum.ieee.org/thermal-transistor)
 * [2023-11-14, 04:25:28](https://news.ycombinator.com/item?id=38259148) - [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-14, 04:18:32](https://news.ycombinator.com/item?id=38259100) - [Julia Child's Culinary Notes](https://jillianhess.substack.com/p/julia-childs-culinary-notes)
-* [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
+* [2023-11-14, 01:30:51](https://news.ycombinator.com/item?id=38257776) - [Mary Beard traces the profile of the Roman emperor](https://www.washingtonpost.com/books/2023/11/10/mary-beard-emperor-rome-book/)
 * [2023-11-13, 14:28:53](https://news.ycombinator.com/item?id=38250459) - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
 
 ## [Archives](archives/index.md)
