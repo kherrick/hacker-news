@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-15, 08:12:35](https://news.ycombinator.com/item?id=38274427) - [Sam Altman on X: \"we are pausing new ChatGPT Plus sign-ups for a bit\"](https://twitter.com/sama/status/1724626002595471740)
+* [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Paul Graham – Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 07:32:40](https://news.ycombinator.com/item?id=38274212) - [What If Google Wasn't the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 * [2023-11-15, 07:00:30](https://news.ycombinator.com/item?id=38274056) - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
