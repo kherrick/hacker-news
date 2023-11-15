@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
@@ -20,7 +21,6 @@
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 17:25:19](https://news.ycombinator.com/item?id=38266387) - [Kathleen Sully, the Vanished Novelist (2022)](https://neglectedbooks.com/?p=8838)
-* [2023-11-14, 16:46:32](https://news.ycombinator.com/item?id=38265773) - [YJIT is the most memory-efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 13:14:17](https://news.ycombinator.com/item?id=38262900) - [Around The World, Part 1: Continents](https://frozenfractal.com/blog/2023/11/2/around-the-world-1-continents/)
 * [2023-11-14, 12:45:42](https://news.ycombinator.com/item?id=38262628) - [Scientist: A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist)
