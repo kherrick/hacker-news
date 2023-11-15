@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-15, 15:10:20](https://news.ycombinator.com/item?id=38277430) - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
+* [2023-11-15, 14:54:17](https://news.ycombinator.com/item?id=38277220) - [ChatGPT has entered the classroom: how LLMs could transform education](https://www.nature.com/articles/d41586-023-03507-3)
 * [2023-11-15, 14:48:27](https://news.ycombinator.com/item?id=38277138) - [Eyes on the Solar System/JPL](https://eyes.nasa.gov/apps/solar-system/)
 * [2023-11-15, 14:45:27](https://news.ycombinator.com/item?id=38277105) - [FBI Director: FISA Section 702 warrant requirement a 'de facto ban'](https://www.theregister.com/2023/11/15/fbi_director_fisa_section_702/)
 * [2023-11-15, 14:41:31](https://news.ycombinator.com/item?id=38277058) - [Google paid $8B to make its apps default on Samsung phones](https://thehill.com/policy/technology/4309219-google-paid-8-billion-to-make-its-apps-default-on-samsung-phones/)
@@ -24,7 +25,6 @@
 * [2023-11-14, 23:12:00](https://news.ycombinator.com/item?id=38271155) - [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
 * [2023-11-14, 22:48:49](https://news.ycombinator.com/item?id=38270936) - [How Caterpillars Gruesomely Transform into Butterflies](https://www.zmescience.com/feature-post/natural-sciences/animals/invertebrates/how-caterpillar-turn-butterfly-0534534/)
 * [2023-11-14, 22:27:15](https://news.ycombinator.com/item?id=38270714) - [Writing a GPT-4 script to check Wikipedia for the first unused acronym](https://gwern.net/tla)
-* [2023-11-14, 22:12:13](https://news.ycombinator.com/item?id=38270552) - [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 15:42:23](https://news.ycombinator.com/item?id=38264641) - [GraphCast: AI model for weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-14, 13:14:17](https://news.ycombinator.com/item?id=38262900) - [Around The World, Part 1: Continents](https://frozenfractal.com/blog/2023/11/2/around-the-world-1-continents/)
