@@ -66,6 +66,7 @@
 * [2023-11-14, 14:45:50](https://news.ycombinator.com/item?id=38263869) - [Opal Tadpole – A Webcam for Laptops](https://opalcamera.com/opal-tadpole)
 * [2023-11-14, 14:43:01](https://news.ycombinator.com/item?id=38263833) - [Energy Firms Hacked in Largest Coordinated Attack on Denmark's Infrastructure](https://www.securityweek.com/22-energy-firms-hacked-in-largest-coordinated-attack-on-denmarks-critical-infrastructure/)
 * [2023-11-14, 14:38:57](https://news.ycombinator.com/item?id=38263786) - [PyPI has completed its first security audit](https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/)
+* [2023-11-14, 14:38:30](https://news.ycombinator.com/item?id=38263779) - [How to use generative AI for historical research: Four real-world case studies](https://resobscura.substack.com/p/generative-ai-for-historical-research)
 * [2023-11-14, 14:24:05](https://news.ycombinator.com/item?id=38263621) - [Tuta (formerly Tutanota) denies claim it has intelligence ties](https://www.cp24.com/news/encrypted-email-service-denies-accused-rcmp-leaker-s-claim-it-has-intelligence-ties-1.6643794)
 * [2023-11-14, 14:20:30](https://news.ycombinator.com/item?id=38263578) - [OpenAI confirms it's working on GPT-5](https://twitter.com/rowancheung/status/1724079608054812684)
 * [2023-11-14, 14:07:19](https://news.ycombinator.com/item?id=38263435) - [Backblaze Drive Stats for Q3 2023](https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/)
