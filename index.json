@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-11-15, 07:32:40",
-      "https://news.ycombinator.com/item?id=38274212"
-    ],
-    [
-      "What If Google Wasn't the Default?",
-      "https://matt-rickard.com/what-if-google-wasnt-the-default"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 07:00:30",
       "https://news.ycombinator.com/item?id=38274056"
     ],
@@ -177,6 +167,16 @@
     [
       "Bpftime: Userspace eBPF runtime for fast Uprobe and Syscall hook and Plugins",
       "https://github.com/eunomia-bpf/bpftime"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 19:56:52",
+      "https://news.ycombinator.com/item?id=38268737"
+    ],
+    [
+      "CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP",
+      "https://cachewarpattack.com/"
     ]
   ],
   [
