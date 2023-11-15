@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 19:21:54](https://news.ycombinator.com/item?id=38281137) - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
+* [2023-11-15, 19:19:04](https://news.ycombinator.com/item?id=38281079) - [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
 * [2023-11-15, 19:08:10](https://news.ycombinator.com/item?id=38280937) - [Demoscene](https://www.demoscene.info/)
+* [2023-11-15, 19:01:50](https://news.ycombinator.com/item?id=38280862) - [Inflation Appears to Be Over](https://politicalwire.com/2023/11/15/inflation-appears-to-be-over/)
 * [2023-11-15, 18:36:08](https://news.ycombinator.com/item?id=38280479) - [Android isn't cool with teenagers, and that's a big problem](https://www.androidpolice.com/android-teens-problem/)
 * [2023-11-15, 18:29:00](https://news.ycombinator.com/item?id=38280382) - [Tangram Vision packs AI skills onto HiFi 3D sensor](https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/)
 * [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with Flexible Remote Work Policies Outperform on Revenue Growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
