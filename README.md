@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-15, 21:42:36](https://news.ycombinator.com/item?id=38282969) - [Meta allows ads saying 2020 election was rigged on Facebook and Instagram](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy)
+* [2023-11-15, 21:25:35](https://news.ycombinator.com/item?id=38282728) - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 20:20:26](https://news.ycombinator.com/item?id=38281898) - [Plane forced to turn back to JFK after horse breaks loose onboard](https://www.independent.co.uk/travel/news-and-advice/horse-loose-plane-flight-divert-b2447854.html)
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
@@ -13,7 +14,6 @@
 * [2023-11-15, 18:36:48](https://news.ycombinator.com/item?id=38280490) - [Show HN: Multi-Object Tracking in Python](https://github.com/kharitonov-ivan/multi-object-tracking-in-python)
 * [2023-11-15, 18:35:42](https://news.ycombinator.com/item?id=38280472) - [Diskomator – NVMe-TCP at your fingertips](https://github.com/poettering/diskomator)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
-* [2023-11-15, 17:03:11](https://news.ycombinator.com/item?id=38279073) - [Iowa teen grew 7k pounds of veggies, then gave them all away](https://www.washingtonpost.com/lifestyle/2023/11/14/iowa-teen-farmer-donate-garden/)
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)
 * [2023-11-15, 16:02:51](https://news.ycombinator.com/item?id=38278171) - [The first two custom silicon chips designed by Microsoft for its cloud](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
 * [2023-11-15, 15:44:23](https://news.ycombinator.com/item?id=38277926) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)

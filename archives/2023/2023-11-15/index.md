@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
 * [2023-11-15, 21:42:36](https://news.ycombinator.com/item?id=38282969) - [Meta allows ads saying 2020 election was rigged on Facebook and Instagram](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy)
+* [2023-11-15, 21:25:35](https://news.ycombinator.com/item?id=38282728) - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 20:24:23](https://news.ycombinator.com/item?id=38281944) - [NTSB Calls for Technology to Reduce Speeding in All New Cars](https://www.ntsb.gov:443/news/press-releases/Pages/NR20231114.aspx)
 * [2023-11-15, 20:20:26](https://news.ycombinator.com/item?id=38281898) - [Plane forced to turn back to JFK after horse breaks loose onboard](https://www.independent.co.uk/travel/news-and-advice/horse-loose-plane-flight-divert-b2447854.html)
