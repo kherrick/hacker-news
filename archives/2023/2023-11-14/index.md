@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
 * [2023-11-14, 23:56:20](https://news.ycombinator.com/item?id=38271534) - [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
+* [2023-11-14, 22:48:49](https://news.ycombinator.com/item?id=38270936) - [How Caterpillars Gruesomely Transform into Butterflies](https://www.zmescience.com/feature-post/natural-sciences/animals/invertebrates/how-caterpillar-turn-butterfly-0534534/)
 * [2023-11-14, 22:46:29](https://news.ycombinator.com/item?id=38270905) - [Amazon Is the Hospital Now](https://clinic.amazon.com/)
 * [2023-11-14, 22:36:22](https://news.ycombinator.com/item?id=38270817) - [Bertrand Russell: Why I Am Not a Christian (1927)](https://users.drew.edu/~jlenz/whynot.html)
 * [2023-11-14, 22:27:15](https://news.ycombinator.com/item?id=38270714) - [Effective GPT-4 Programming](https://gwern.net/tla)
@@ -99,6 +100,7 @@
 * [2023-11-14, 09:26:42](https://news.ycombinator.com/item?id=38260982) - [Children working as riders for food delivery apps – BBC investigation](https://www.bbc.co.uk/news/uk-67371473)
 * [2023-11-14, 09:20:07](https://news.ycombinator.com/item?id=38260935) - [The Linux kernel has been accidentally hardcoded to a maximum of 8 cores](https://thehftguy.com/2023/11/14/the-linux-kernel-has-been-accidentally-hardcoded-to-a-maximum-of-8-cores-for-nearly-20-years/)
 * [2023-11-14, 09:04:20](https://news.ycombinator.com/item?id=38260815) - [Truth Social reports $73M net loss since launch](https://www.reuters.com/technology/trumps-truth-social-reports-73-mln-net-loss-since-launch-2023-11-14/)
+* [2023-11-14, 07:14:27](https://news.ycombinator.com/item?id=38260070) - [The Mushrooms That Ate Luke Perry](https://orionmagazine.org/article/luke-perry-mushroom-shroud-90210-riverdale/)
 * [2023-11-14, 07:14:07](https://news.ycombinator.com/item?id=38260069) - [Astronauts drop tool bag into orbit that you can see with binoculars](https://www.usatoday.com/story/news/nation/2023/11/10/nasa-tool-bag-dropped-by-astronauts-international-space-station/71536725007/)
 * [2023-11-14, 07:07:49](https://news.ycombinator.com/item?id=38260030) - [YouTube Premium doesn't guarantee an ad-free experience](https://www.androidauthority.com/remove-youtube-premium-ads-3384953/)
 * [2023-11-14, 07:00:33](https://news.ycombinator.com/item?id=38259991) - [Thermal Transistors Handle Heat with No Moving Parts](https://spectrum.ieee.org/thermal-transistor)
