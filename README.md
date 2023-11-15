@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 07:00:30](https://news.ycombinator.com/item?id=38274056) - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-11-15, 05:23:52](https://news.ycombinator.com/item?id=38273608) - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [Beyond Memorization: Violating privacy via inference with LLMs](https://arxiv.org/abs/2310.07298)
 * [2023-11-15, 01:15:27](https://news.ycombinator.com/item?id=38272162) - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
@@ -11,7 +12,6 @@
 * [2023-11-14, 22:12:13](https://news.ycombinator.com/item?id=38270552) - [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
-* [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) is hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:10:36](https://news.ycombinator.com/item?id=38268958) - [Bpftime: Userspace eBPF runtime for fast Uprobe and Syscall hook and Plugins](https://github.com/eunomia-bpf/bpftime)
 * [2023-11-14, 18:53:10](https://news.ycombinator.com/item?id=38267739) - [Music painted on wall of a Venetian orphanage will be heard 250 years later](https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995)
 * [2023-11-14, 17:59:22](https://news.ycombinator.com/item?id=38266923) - [Unix Time reaches 1.7 billion](https://www.epochconverter.com/countdown?q=1700000000)
