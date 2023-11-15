@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 23:56:20](https://news.ycombinator.com/item?id=38271534) - [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
 * [2023-11-14, 22:46:29](https://news.ycombinator.com/item?id=38270905) - [Amazon Is the Hospital Now](https://clinic.amazon.com/)
 * [2023-11-14, 22:36:22](https://news.ycombinator.com/item?id=38270817) - [Bertrand Russell: Why I Am Not a Christian (1927)](https://users.drew.edu/~jlenz/whynot.html)
+* [2023-11-14, 22:27:15](https://news.ycombinator.com/item?id=38270714) - [Effective GPT-4 Programming](https://gwern.net/tla)
 * [2023-11-14, 22:14:55](https://news.ycombinator.com/item?id=38270582) - [Happy 1700M Epoch Second](https://www.epochconverter.com/)
+* [2023-11-14, 22:12:13](https://news.ycombinator.com/item?id=38270552) - [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
+* [2023-11-14, 21:35:26](https://news.ycombinator.com/item?id=38270129) - [Galactica: A Year Later – Lessons from a Controversial Launch](https://twitter.com/rosstaylor90/status/1724537769316520318)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:58:08](https://news.ycombinator.com/item?id=38269656) - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
 * [2023-11-14, 20:44:13](https://news.ycombinator.com/item?id=38269460) - [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
@@ -39,6 +43,7 @@
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 17:36:02](https://news.ycombinator.com/item?id=38266569) - [Ubuntu 24.04 LTS Committing to Netplan for Network Configuration](https://www.phoronix.com/news/Ubuntu-24.04-LTS-Fully-Netplan)
 * [2023-11-14, 17:29:54](https://news.ycombinator.com/item?id=38266467) - [Rivian Pushes Broken Software Update That Will Require Physical Repair](https://www.404media.co/rivian-pushes-broken-software-update-that-will-require-physical-repair/)
+* [2023-11-14, 17:25:19](https://news.ycombinator.com/item?id=38266387) - [Kathleen Sully, the Vanished Novelist (2022)](https://neglectedbooks.com/?p=8838)
 * [2023-11-14, 17:22:50](https://news.ycombinator.com/item?id=38266340) - [Rivian software update bricks infotainment system, fix not obvious](https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/)
 * [2023-11-14, 17:14:28](https://news.ycombinator.com/item?id=38266216) - [Miyazaki's 'The Boy and the Heron's makes clear the world is a fragile place](https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron)
 * [2023-11-14, 17:01:05](https://news.ycombinator.com/item?id=38266029) - [Prequel (YC W21) Is Hiring a Sr Engineer to Build B2B Data Sharing](https://www.workatastartup.com/jobs/43482)
