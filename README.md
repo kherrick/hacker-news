@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 19:08:10](https://news.ycombinator.com/item?id=38280937) - [Demoscene](https://www.demoscene.info/)
 * [2023-11-15, 18:36:08](https://news.ycombinator.com/item?id=38280479) - [Android isn't cool with teenagers, and that's a big problem](https://www.androidpolice.com/android-teens-problem/)
-* [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with flexible remote work policies outperform on revenue growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
 * [2023-11-15, 17:45:44](https://news.ycombinator.com/item?id=38279759) - [Is the US's Vaccine Adverse Event Reporting System broken?](https://www.bmj.com/content/383/bmj.p2582)
 * [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In illinois, a warden tried to fix an abusive prison](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
@@ -27,8 +27,8 @@
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
+* [2023-11-14, 23:12:00](https://news.ycombinator.com/item?id=38271155) - [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
 * [2023-11-14, 17:49:43](https://news.ycombinator.com/item?id=38266773) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
-* [2023-11-14, 11:48:09](https://news.ycombinator.com/item?id=38262120) - [You have to be educated to be educated (1997)](https://www.lrb.co.uk/the-paper/v19/n07/adam-phillips/you-have-to-be-educated-to-be-educated)
 * [2023-11-14, 07:44:03](https://news.ycombinator.com/item?id=38260248) - [The CASA theory no longer applies to desktop computers](https://www.nature.com/articles/s41598-023-46527-9)
 
 ## [Archives](archives/index.md)
