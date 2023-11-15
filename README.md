@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 04:03:47](https://news.ycombinator.com/item?id=38273223) - [New Toyota Camry to Be Sold Only as Hybrid](https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155)
 * [2023-11-15, 03:06:41](https://news.ycombinator.com/item?id=38272835) - [Kodak sues Tesla for using stolen technology for Autopilot](https://cleanenergyrevolution.co/2023/11/13/kodak-sues-tesla-for-using-stolen-technology-for-autopilot/)
 * [2023-11-15, 02:07:32](https://news.ycombinator.com/item?id=38272495) - [LLM can invade privacy through benign questions depite usual protections](https://arxiv.org/abs/2310.07298)
 * [2023-11-15, 01:15:27](https://news.ycombinator.com/item?id=38272162) - [The Architecture of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
@@ -7,7 +8,6 @@
 * [2023-11-15, 00:49:42](https://news.ycombinator.com/item?id=38271959) - [ML for Beginners GitHub](https://github.com/microsoft/ML-For-Beginners)
 * [2023-11-15, 00:16:40](https://news.ycombinator.com/item?id=38271702) - [ARRL hails FCC action to remove symbol rate restrictions](https://www.arrl.org/news/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions)
 * [2023-11-14, 23:56:20](https://news.ycombinator.com/item?id=38271534) - [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
-* [2023-11-14, 23:12:00](https://news.ycombinator.com/item?id=38271155) - [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
 * [2023-11-14, 22:27:15](https://news.ycombinator.com/item?id=38270714) - [Writing a GPT-4 script to check Wikipedia for the first unused acronym](https://gwern.net/tla)
 * [2023-11-14, 22:12:13](https://news.ycombinator.com/item?id=38270552) - [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
