@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 18:29:00](https://news.ycombinator.com/item?id=38280382) - [Tangram Vision packs AI skills onto HiFi 3D sensor](https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/)
 * [2023-11-15, 18:09:28](https://news.ycombinator.com/item?id=38280100) - [Companies with Flexible Remote Work Policies Outperform on Revenue Growth](https://www.forbes.com/sites/jenamcgregor/2023/11/14/companies-with-flexible-remote-work-policies-outperform-on-revenue-growth-report/)
 * [2023-11-15, 17:58:51](https://news.ycombinator.com/item?id=38279959) - [Silicon Valley's worldview is not just an ideology; it's a personality disorder](https://crookedtimber.org/2023/11/15/silicon-valleys-worldview-is-not-just-an-ideology-its-a-personality-disorder/)
 * [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In Illinois, a Warden Tried to Fix an Abusive Prison. He Faced Death Threats](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
@@ -42,6 +43,7 @@
 * [2023-11-15, 11:22:24](https://news.ycombinator.com/item?id=38275542) - [Why Mushroom Suits Won't Work and How to Apply Cemetery Studies](https://memorialecosystemswordpress.wordpress.com/2016/05/20/part-3-why-mushroom-suits-wont-work-and-how-to-apply-forensic-taphonomy-and-cemetery-studies-to-make-green-graves-one-use-composting-machines-part-1/)
 * [2023-11-15, 10:56:22](https://news.ycombinator.com/item?id=38275384) - [She lived in a New York hotel for more than 40 years. But her life was a mystery](https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery)
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
+* [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
