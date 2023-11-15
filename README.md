@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-15, 19:52:55](https://news.ycombinator.com/item?id=38281492) - [Give up 70% of the way through the hyperstitious slur cascade](https://www.astralcodexten.com/p/give-up-seventy-percent-of-the-way)
 * [2023-11-15, 19:36:13](https://news.ycombinator.com/item?id=38281316) - [Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians](https://www.404media.co/feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians/)
+* [2023-11-15, 19:31:34](https://news.ycombinator.com/item?id=38281264) - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
 * [2023-11-15, 19:21:54](https://news.ycombinator.com/item?id=38281137) - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
 * [2023-11-15, 19:19:04](https://news.ycombinator.com/item?id=38281079) - [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
-* [2023-11-15, 19:14:03](https://news.ycombinator.com/item?id=38281004) - [The Religion of Science and Its Consequences](https://unfashionable.blog/p/science)
 * [2023-11-15, 19:11:47](https://news.ycombinator.com/item?id=38280974) - [Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770)
 * [2023-11-15, 19:08:10](https://news.ycombinator.com/item?id=38280937) - [Demoscene](https://www.demoscene.info/)
-* [2023-11-15, 19:01:50](https://news.ycombinator.com/item?id=38280862) - [Inflation Appears to Be Over](https://politicalwire.com/2023/11/15/inflation-appears-to-be-over/)
-* [2023-11-15, 18:43:28](https://news.ycombinator.com/item?id=38280594) - [Godot Engine GPT](https://chat.openai.com/g/g-0e9nkbuRV-godot-assistant)
 * [2023-11-15, 18:36:48](https://news.ycombinator.com/item?id=38280490) - [Intro to Multi-Object Tracking](https://github.com/kharitonov-ivan/multi-object-tracking-in-python)
 * [2023-11-15, 17:43:52](https://news.ycombinator.com/item?id=38279732) - [In illinois, a warden tried to fix an abusive prison](https://www.themarshallproject.org/2023/11/15/illinois-federal-prison-thomson-abuse-thomas-bergami)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
@@ -29,6 +28,7 @@
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
+* [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://www.youtube.com/watch?v=53wHr415LPU)
 * [2023-11-14, 07:44:03](https://news.ycombinator.com/item?id=38260248) - [The CASA theory no longer applies to desktop computers](https://www.nature.com/articles/s41598-023-46527-9)
 
 ## [Archives](archives/index.md)

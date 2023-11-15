@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 19:52:55](https://news.ycombinator.com/item?id=38281492) - [Give up 70% of the way through the hyperstitious slur cascade](https://www.astralcodexten.com/p/give-up-seventy-percent-of-the-way)
 * [2023-11-15, 19:36:13](https://news.ycombinator.com/item?id=38281316) - [Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians](https://www.404media.co/feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians/)
+* [2023-11-15, 19:31:34](https://news.ycombinator.com/item?id=38281264) - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
 * [2023-11-15, 19:21:54](https://news.ycombinator.com/item?id=38281137) - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
 * [2023-11-15, 19:19:04](https://news.ycombinator.com/item?id=38281079) - [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
 * [2023-11-15, 19:14:03](https://news.ycombinator.com/item?id=38281004) - [The Religion of Science and Its Consequences](https://unfashionable.blog/p/science)
@@ -67,6 +69,7 @@
 * [2023-11-15, 07:00:30](https://news.ycombinator.com/item?id=38274056) - [Gym Class VR (YC W22 – Top Sports VR Game) Hiring Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-lead-backend-engineering)
 * [2023-11-15, 06:48:53](https://news.ycombinator.com/item?id=38273999) - [Curl on 100 Operating Systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 * [2023-11-15, 05:23:52](https://news.ycombinator.com/item?id=38273608) - [Haiku Activity and Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
+* [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://www.youtube.com/watch?v=53wHr415LPU)
 * [2023-11-15, 04:03:47](https://news.ycombinator.com/item?id=38273223) - [New Toyota Camry to Be Sold Only as Hybrid](https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155)
 * [2023-11-15, 03:08:43](https://news.ycombinator.com/item?id=38272845) - [Life expectancy for men in US falls to 73 – six years less than women, study](https://www.statnews.com/2023/11/13/life-expectancy-men-women/)
 * [2023-11-15, 03:06:41](https://news.ycombinator.com/item?id=38272835) - [Kodak sues Tesla for using stolen technology for Autopilot](https://cleanenergyrevolution.co/2023/11/13/kodak-sues-tesla-for-using-stolen-technology-for-autopilot/)
