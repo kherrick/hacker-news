@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-15, 17:01:10",
+      "https://news.ycombinator.com/item?id=38279045"
+    ],
+    [
+      "EasyPost (YC S13) Is Hiring",
+      "https://www.easypost.com/careers"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 16:56:52",
+      "https://news.ycombinator.com/item?id=38278966"
+    ],
+    [
+      "Amazon is blocking promotions of employees who don't comply with RTO policy",
+      "https://www.businessinsider.com/amazon-suspends-promotions-employees-not-meeting-rto-mandate-2023-11"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 16:45:26",
       "https://news.ycombinator.com/item?id=38278786"
     ],
@@ -17,16 +37,6 @@
     [
       "On Cultures That Build (2020)",
       "https://scholars-stage.org/on-cultures-that-build/"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 15:57:26",
-      "https://news.ycombinator.com/item?id=38278083"
-    ],
-    [
-      "The Principle of Least Power (2007)",
-      "https://blog.codinghorror.com/the-principle-of-least-power/"
     ]
   ],
   [
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2023-11-15, 15:29:43",
-      "https://news.ycombinator.com/item?id=38277701"
+      "2023-11-15, 15:34:02",
+      "https://news.ycombinator.com/item?id=38277774"
     ],
     [
-      "I Visited over 120 EV Chargers: Why So Many Were Broken",
-      "https://www.wsj.com/tech/i-visited-over-120-ev-chargers-three-reasons-why-so-many-were-broken-7a5d3e45"
+      "Confessions of a Startup Founder's Wife",
+      "https://www.businessinsider.com/confessions-of-a-startup-founder-wife-marriage-tiktok-games-2023-11"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "US surgeons perform first whole eye transplant",
       "https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 14:48:27",
-      "https://news.ycombinator.com/item?id=38277138"
-    ],
-    [
-      "Eyes on the Solar System/JPL",
-      "https://eyes.nasa.gov/apps/solar-system/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-11-15, 12:00:49",
-      "https://news.ycombinator.com/item?id=38275791"
-    ],
-    [
-      "Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer",
-      "https://mux.com/jobs?j=dse"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 11:33:44",
       "https://news.ycombinator.com/item?id=38275614"
     ],
@@ -227,6 +217,16 @@
     [
       "Hacking ADHD: Strategies for the modern developer",
       "https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 09:04:05",
+      "https://news.ycombinator.com/item?id=38274714"
+    ],
+    [
+      "Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence",
+      "http://haroldbot.nl/"
     ]
   ],
   [
