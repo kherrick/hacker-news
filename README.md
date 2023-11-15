@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
-* [2023-11-15, 20:24:23](https://news.ycombinator.com/item?id=38281944) - [NTSB Calls for Technology to Reduce Speeding in All New Cars](https://www.ntsb.gov:443/news/press-releases/Pages/NR20231114.aspx)
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 * [2023-11-15, 20:15:14](https://news.ycombinator.com/item?id=38281814) - [Price paid for offshore power to rise by 50%](https://www.bbc.co.uk/news/business-67430888)
 * [2023-11-15, 19:31:34](https://news.ycombinator.com/item?id=38281264) - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
@@ -16,6 +15,7 @@
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)
 * [2023-11-15, 16:02:51](https://news.ycombinator.com/item?id=38278171) - [The first two custom silicon chips designed by Microsoft for its cloud](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
 * [2023-11-15, 15:44:23](https://news.ycombinator.com/item?id=38277926) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
+* [2023-11-15, 15:40:06](https://news.ycombinator.com/item?id=38277863) - [James Webb Space Telescope finds 2 of the most distant galaxies ever seen](https://www.space.com/james-webb-space-telescope-distant-galaxies)
 * [2023-11-15, 15:22:46](https://news.ycombinator.com/item?id=38277598) - [M1076 Analog Matrix Processor](https://mythic.ai/products/m1076-analog-matrix-processor/)
 * [2023-11-15, 15:10:20](https://news.ycombinator.com/item?id=38277430) - [AI outperforms conventional weather forecasting for the first time: Google study](https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/)
 * [2023-11-15, 15:09:02](https://news.ycombinator.com/item?id=38277412) - [US surgeons perform first whole eye transplant](https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html)
