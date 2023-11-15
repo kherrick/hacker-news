@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-11-15, 04:03:47",
-      "https://news.ycombinator.com/item?id=38273223"
-    ],
-    [
-      "New Toyota Camry to Be Sold Only as Hybrid",
-      "https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 02:07:32",
       "https://news.ycombinator.com/item?id=38272495"
     ],
     [
-      "LLM can invade privacy through benign questions depite usual protections",
+      "Beyond Memorization: Violating privacy via inference with LLMs",
       "https://arxiv.org/abs/2310.07298"
     ]
   ],
@@ -127,6 +117,16 @@
     [
       "Bpftime: Userspace eBPF runtime for fast Uprobe and Syscall hook and Plugins",
       "https://github.com/eunomia-bpf/bpftime"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 19:56:52",
+      "https://news.ycombinator.com/item?id=38268737"
+    ],
+    [
+      "CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP",
+      "https://cachewarpattack.com/"
     ]
   ],
   [
