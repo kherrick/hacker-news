@@ -3,7 +3,8 @@
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:26:24](https://news.ycombinator.com/item?id=38275925) - [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
 * [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
-* [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
+* [2023-11-15, 11:33:44](https://news.ycombinator.com/item?id=38275614) - [Ask HN: Which co-location providers would you recommend in the US?](https://news.ycombinator.com/item?id=38275614)
+* [2023-11-15, 11:22:24](https://news.ycombinator.com/item?id=38275542) - [Why Mushroom Suits Won't Work and How to Apply Cemetery Studies](https://memorialecosystemswordpress.wordpress.com/2016/05/20/part-3-why-mushroom-suits-wont-work-and-how-to-apply-forensic-taphonomy-and-cemetery-studies-to-make-green-graves-one-use-composting-machines-part-1/)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
@@ -28,7 +29,6 @@
 * [2023-11-14, 07:00:33](https://news.ycombinator.com/item?id=38259991) - [Thermal transistors handle heat with no moving parts](https://spectrum.ieee.org/thermal-transistor)
 * [2023-11-14, 04:25:28](https://news.ycombinator.com/item?id=38259148) - [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-14, 04:18:32](https://news.ycombinator.com/item?id=38259100) - [Julia Child's Culinary Notes](https://jillianhess.substack.com/p/julia-childs-culinary-notes)
-* [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-13, 14:28:53](https://news.ycombinator.com/item?id=38250459) - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
 
 ## [Archives](archives/index.md)

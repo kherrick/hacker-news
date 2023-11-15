@@ -8,6 +8,8 @@
 * [2023-11-15, 12:26:24](https://news.ycombinator.com/item?id=38275925) - [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
 * [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
 * [2023-11-15, 11:58:57](https://news.ycombinator.com/item?id=38275782) - [The Missiles on Our Land](https://missilesonourland.org/)
+* [2023-11-15, 11:33:44](https://news.ycombinator.com/item?id=38275614) - [Ask HN: Which co-location providers would you recommend in the US?](https://news.ycombinator.com/item?id=38275614)
+* [2023-11-15, 11:22:24](https://news.ycombinator.com/item?id=38275542) - [Why Mushroom Suits Won't Work and How to Apply Cemetery Studies](https://memorialecosystemswordpress.wordpress.com/2016/05/20/part-3-why-mushroom-suits-wont-work-and-how-to-apply-forensic-taphonomy-and-cemetery-studies-to-make-green-graves-one-use-composting-machines-part-1/)
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 * [2023-11-15, 09:15:20](https://news.ycombinator.com/item?id=38274782) - [Hacking ADHD: Strategies for the modern developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
