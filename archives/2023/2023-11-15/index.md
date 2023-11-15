@@ -7,6 +7,7 @@
 * [2023-11-15, 19:36:13](https://news.ycombinator.com/item?id=38281316) - [Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians](https://www.404media.co/feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians/)
 * [2023-11-15, 19:21:54](https://news.ycombinator.com/item?id=38281137) - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
 * [2023-11-15, 19:19:04](https://news.ycombinator.com/item?id=38281079) - [David Attenborough is now narrating my life](https://twitter.com/charliebholtz/status/1724815159590293764)
+* [2023-11-15, 19:14:03](https://news.ycombinator.com/item?id=38281004) - [The Religion of Science and Its Consequences](https://unfashionable.blog/p/science)
 * [2023-11-15, 19:11:47](https://news.ycombinator.com/item?id=38280974) - [Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770)
 * [2023-11-15, 19:08:10](https://news.ycombinator.com/item?id=38280937) - [Demoscene](https://www.demoscene.info/)
 * [2023-11-15, 19:01:50](https://news.ycombinator.com/item?id=38280862) - [Inflation Appears to Be Over](https://politicalwire.com/2023/11/15/inflation-appears-to-be-over/)
