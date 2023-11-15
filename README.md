@@ -28,7 +28,7 @@
 * [2023-11-14, 07:00:33](https://news.ycombinator.com/item?id=38259991) - [Thermal transistors handle heat with no moving parts](https://spectrum.ieee.org/thermal-transistor)
 * [2023-11-14, 04:25:28](https://news.ycombinator.com/item?id=38259148) - [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-14, 04:18:32](https://news.ycombinator.com/item?id=38259100) - [Julia Child's Culinary Notes](https://jillianhess.substack.com/p/julia-childs-culinary-notes)
-* [2023-11-14, 01:30:51](https://news.ycombinator.com/item?id=38257776) - [Mary Beard traces the profile of the Roman emperor](https://www.washingtonpost.com/books/2023/11/10/mary-beard-emperor-rome-book/)
+* [2023-11-14, 01:32:58](https://news.ycombinator.com/item?id=38257794) - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 * [2023-11-13, 14:28:53](https://news.ycombinator.com/item?id=38250459) - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
 
 ## [Archives](archives/index.md)
