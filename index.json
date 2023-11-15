@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-11-15, 00:49:42",
-      "https://news.ycombinator.com/item?id=38271959"
-    ],
-    [
-      "ML for Beginners GitHub",
-      "https://github.com/microsoft/ML-For-Beginners"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 00:16:40",
       "https://news.ycombinator.com/item?id=38271702"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38271534"
     ],
     [
-      "Detexify LaTeX Handwriting Symbol Recognition",
+      "Detexify: LaTeX Handwriting Symbol Recognition",
       "https://detexify.kirelabs.org/classify.html"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Is the reversal curse in LLMs real?",
       "https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 22:01:36",
+      "https://news.ycombinator.com/item?id=38270446"
+    ],
+    [
+      "Ara2: RVV 1.0 Compliant Open-Source Processor",
+      "https://arxiv.org/abs/2311.07493"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
+      "2023-11-14, 17:22:50",
+      "https://news.ycombinator.com/item?id=38266340"
+    ],
+    [
+      "Rivian software update bricks infotainment system, fix not obvious",
+      "https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 16:46:32",
       "https://news.ycombinator.com/item?id=38265773"
     ],
     [
       "YJIT is the most memory-efficient Ruby JIT",
       "https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 16:13:49",
-      "https://news.ycombinator.com/item?id=38265183"
-    ],
-    [
-      "New Breed of Supercomputer Aims for the Two Quintillion Mark",
-      "https://www.wsj.com/tech/new-breed-of-supercomputer-aims-for-the-two-quintillion-mark-8caee447"
     ]
   ],
   [
