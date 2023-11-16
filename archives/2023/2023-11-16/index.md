@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
 * [2023-11-16, 16:55:06](https://news.ycombinator.com/item?id=38291969) - [U.S. states sue Instagram owner for making social media addictive to kids](https://www.cbc.ca/news/business/meta-lawsuit-children-addictive-1.7006259)
 * [2023-11-16, 16:53:39](https://news.ycombinator.com/item?id=38291949) - [The impossibility of rationally analyzing partisan news](https://www.lesswrong.com/posts/uPGoNN3w2JhmrC6DE/the-impossibility-of-rationally-analyzing-partisan-news)
 * [2023-11-16, 16:48:44](https://news.ycombinator.com/item?id=38291880) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
@@ -14,6 +15,7 @@
 * [2023-11-16, 16:18:10](https://news.ycombinator.com/item?id=38291427) - [Privacy is Priceless, but Signal is Expensive](https://signal.org/blog/signal-is-expensive/)
 * [2023-11-16, 16:16:56](https://news.ycombinator.com/item?id=38291406) - [Bad Bots Account for 73% of Internet Traffic: Analysis](https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/)
 * [2023-11-16, 16:16:31](https://news.ycombinator.com/item?id=38291399) - [Ransomware Group Files SEC Complaint over Victim's Failure Disclose Data Breach](https://www.securityweek.com/ransomware-group-files-sec-complaint-over-victims-failure-to-disclose-data-breach/)
+* [2023-11-16, 16:04:42](https://news.ycombinator.com/item?id=38291199) - [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/)
 * [2023-11-16, 16:04:42](https://news.ycombinator.com/item?id=38291199) - [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-steal-email-data-from-government-organizations/)
 * [2023-11-16, 15:59:51](https://news.ycombinator.com/item?id=38291139) - [Emu Video and Emu Edit, our latest generative AI research milestones](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
 * [2023-11-16, 15:53:58](https://news.ycombinator.com/item?id=38291069) - [Could be bigger than Cambridge Analytica (5B people)](https://www.iccl.ie/digital-data/europes-hidden-security-crisis/)
