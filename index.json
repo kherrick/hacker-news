@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 17:29:07",
+      "https://news.ycombinator.com/item?id=38292553"
+    ],
+    [
+      "Migrating to OpenTelemetry",
+      "https://www.airplane.dev/blog/migrating-to-opentelemetry"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 16:55:06",
       "https://news.ycombinator.com/item?id=38291969"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2023-11-16, 16:20:48",
-      "https://news.ycombinator.com/item?id=38291452"
-    ],
-    [
-      "Tell HN: How you changed my life trajectory",
-      "https://news.ycombinator.com/item?id=38291452"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 16:18:10",
       "https://news.ycombinator.com/item?id=38291427"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38291406"
     ],
     [
-      "Bad Bots Account for 73% of Internet Traffic: Analysis",
+      "Bad bots account for most internet traffic? Analysis",
       "https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/"
     ]
   ],
@@ -96,7 +96,7 @@
     ],
     [
       "Zimbra 0-day used to steal email data from government organizations",
-      "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-steal-email-data-from-government-organizations/"
+      "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Emu Video and Emu Edit, our latest generative AI research milestones",
       "https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 15:22:55",
-      "https://news.ycombinator.com/item?id=38290646"
-    ],
-    [
-      "Show HN: Beak.js – Custom conversational assistants for your React app",
-      "https://github.com/mme/beakjs"
     ]
   ],
   [
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2023-11-16, 14:01:16",
-      "https://news.ycombinator.com/item?id=38289582"
-    ],
-    [
-      "OpenSubtitles is not open anymore",
-      "https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 13:40:51",
       "https://news.ycombinator.com/item?id=38289376"
     ],
@@ -187,6 +167,16 @@
     [
       "Printed robots with bones, ligaments, and tendons",
       "https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 12:32:38",
+      "https://news.ycombinator.com/item?id=38288770"
+    ],
+    [
+      "Kotlin Coroutines runtime in 400 lines",
+      "https://github.com/dokar3/mini-coroutines"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-11-15, 17:25:12",
+      "https://news.ycombinator.com/item?id=38279459"
+    ],
+    [
+      "B-trees in Factorio",
+      "https://razberry.substack.com/p/btree-factorio"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 14:09:17",
       "https://news.ycombinator.com/item?id=38276743"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38276727"
     ],
     [
-      "Operating an Entire Company on a Minimal Two-Core PostgreSQL Instance, Part 1",
+      "Operating on a minimal two-core Postgres instance: Query optimization insights",
       "https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html"
     ]
   ],
