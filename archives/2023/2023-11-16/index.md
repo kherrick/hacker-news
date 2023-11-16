@@ -6,6 +6,7 @@
 
 * [2023-11-16, 21:29:49](https://news.ycombinator.com/item?id=38295819) - [Microsoft support 'cracks' Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
+* [2023-11-16, 21:06:19](https://news.ycombinator.com/item?id=38295535) - [Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
 * [2023-11-16, 21:05:45](https://news.ycombinator.com/item?id=38295524) - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
 * [2023-11-16, 20:50:35](https://news.ycombinator.com/item?id=38295285) - [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39)
 * [2023-11-16, 20:43:34](https://news.ycombinator.com/item?id=38295179) - [Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
