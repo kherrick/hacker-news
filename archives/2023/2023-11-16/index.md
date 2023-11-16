@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 12:58:43](https://news.ycombinator.com/item?id=38289002) - [St. Petersburg artist Sasha Skochilenko sentenced to seven years in prison](https://meduza.io/en/news/2023/11/16/st-petersburg-artist-sasha-skochilenko-sentenced-to-seven-years-in-prison)
+* [2023-11-16, 12:56:45](https://news.ycombinator.com/item?id=38288980) - [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 * [2023-11-16, 12:56:39](https://news.ycombinator.com/item?id=38288977) - [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
 * [2023-11-16, 11:53:31](https://news.ycombinator.com/item?id=38288444) - [OiNK's Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
 * [2023-11-16, 11:07:23](https://news.ycombinator.com/item?id=38288130) - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
@@ -14,6 +16,7 @@
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 09:34:20](https://news.ycombinator.com/item?id=38287435) - [The Six Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/)
 * [2023-11-16, 09:17:34](https://news.ycombinator.com/item?id=38287299) - [A Failed AI Girlfriend Product, and My Lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
+* [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
 * [2023-11-16, 08:46:36](https://news.ycombinator.com/item?id=38287095) - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 08:39:29](https://news.ycombinator.com/item?id=38287043) - [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 * [2023-11-16, 08:16:59](https://news.ycombinator.com/item?id=38286941) - [HHKB Studio: The New Happy Hacking Keyboard with TrackPoint](https://hhkeyboard.us/hhkb-studio/product)
