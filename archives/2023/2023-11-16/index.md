@@ -7,6 +7,7 @@
 * [2023-11-16, 18:23:03](https://news.ycombinator.com/item?id=38293348) - [Apple to support RCS messaging standard next year](https://www.techradar.com/phones/iphone/breaking-apple-will-support-rcs-in-2024)
 * [2023-11-16, 18:04:54](https://news.ycombinator.com/item?id=38293082) - [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
 * [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
+* [2023-11-16, 17:20:55](https://news.ycombinator.com/item?id=38292409) - [Google resumes transition to Manifest V3 for Chrome extensions](https://developer.chrome.com/blog/resuming-the-transition-to-mv3/)
 * [2023-11-16, 17:03:49](https://news.ycombinator.com/item?id=38292102) - [std::source_location Is Broken](https://www.elbeno.com/blog/?p=1738)
 * [2023-11-16, 16:55:06](https://news.ycombinator.com/item?id=38291969) - [U.S. states sue Instagram owner for making social media addictive to kids](https://www.cbc.ca/news/business/meta-lawsuit-children-addictive-1.7006259)
 * [2023-11-16, 16:53:39](https://news.ycombinator.com/item?id=38291949) - [The impossibility of rationally analyzing partisan news](https://www.lesswrong.com/posts/uPGoNN3w2JhmrC6DE/the-impossibility-of-rationally-analyzing-partisan-news)
