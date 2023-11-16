@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 19:01:54](https://news.ycombinator.com/item?id=38293817) - [Hackers Know Everything Is Securities Fraud](https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud)
+* [2023-11-16, 18:54:17](https://news.ycombinator.com/item?id=38293714) - [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
 * [2023-11-16, 18:23:03](https://news.ycombinator.com/item?id=38293348) - [Apple to support RCS messaging standard next year](https://www.techradar.com/phones/iphone/breaking-apple-will-support-rcs-in-2024)
 * [2023-11-16, 18:04:54](https://news.ycombinator.com/item?id=38293082) - [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
 * [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
@@ -20,9 +22,7 @@
 * [2023-11-16, 12:56:45](https://news.ycombinator.com/item?id=38288980) - [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 * [2023-11-16, 12:29:32](https://news.ycombinator.com/item?id=38288743) - [Serverless development experience for embedded computer vision](https://github.com/pipeless-ai/pipeless)
 * [2023-11-16, 11:07:23](https://news.ycombinator.com/item?id=38288130) - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
-* [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 09:34:20](https://news.ycombinator.com/item?id=38287435) - [Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/)
-* [2023-11-16, 09:17:34](https://news.ycombinator.com/item?id=38287299) - [A failed AI girlfriend product, and my lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
 * [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating on a minimal two-core Postgres instance: Query optimization insights](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 13:44:12](https://news.ycombinator.com/item?id=38276515) - [Is Delaware the Cheapest Place to Incorporate?](https://news.ycombinator.com/item?id=38276515)
