@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-16, 04:11:48](https://news.ycombinator.com/item?id=38285730) - [Nolan Says Buy Oppenheimer on Blu-ray So No Evil Streaming Service Can Steal It](https://variety.com/2023/film/news/christopher-nolan-buy-oppenheimer-blu-ray-evil-streamers-1235790376/)
-* [2023-11-16, 04:11:35](https://news.ycombinator.com/item?id=38285729) - [Removed Document](https://www.theguardian.com/info/2023/nov/15/removed-document)
 * [2023-11-16, 02:29:30](https://news.ycombinator.com/item?id=38285251) - [How to build trust as a new engineering manager](https://becomingaleader.substack.com/p/how-to-build-trust)
 * [2023-11-16, 00:06:12](https://news.ycombinator.com/item?id=38284196) - [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
 * [2023-11-15, 23:34:48](https://news.ycombinator.com/item?id=38283936) - [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
@@ -19,6 +18,7 @@
 * [2023-11-15, 16:02:51](https://news.ycombinator.com/item?id=38278171) - [The first two custom silicon chips designed by Microsoft for its cloud](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
 * [2023-11-15, 15:44:23](https://news.ycombinator.com/item?id=38277926) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 * [2023-11-15, 15:29:43](https://news.ycombinator.com/item?id=38277701) - [I visited over 120 EV chargers: why so many were broken](https://www.msn.com/en-us/money/companies/i-visited-over-120-ev-chargers-three-reasons-why-so-many-were-broken/ar-AA1jXDcA)
+* [2023-11-15, 15:22:46](https://news.ycombinator.com/item?id=38277598) - [M1076 Analog Matrix Processor](https://mythic.ai/products/m1076-analog-matrix-processor/)
 * [2023-11-15, 15:06:19](https://news.ycombinator.com/item?id=38277361) - [Canned food went from military rations to fancy appetizers](https://www.atlasobscura.com/articles/canned-food-history)
 * [2023-11-15, 14:56:51](https://news.ycombinator.com/item?id=38277248) - [Show HN: MonkeyPatch – Cheap, fast and predictable LLM functions in Python](https://github.com/monkeypatch/monkeypatch.py)
 * [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis (2021)](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
