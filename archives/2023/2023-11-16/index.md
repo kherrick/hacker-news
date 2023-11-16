@@ -12,6 +12,7 @@
 * [2023-11-16, 12:58:43](https://news.ycombinator.com/item?id=38289002) - [St. Petersburg artist Sasha Skochilenko sentenced to seven years in prison](https://meduza.io/en/news/2023/11/16/st-petersburg-artist-sasha-skochilenko-sentenced-to-seven-years-in-prison)
 * [2023-11-16, 12:56:45](https://news.ycombinator.com/item?id=38288980) - [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 * [2023-11-16, 12:56:39](https://news.ycombinator.com/item?id=38288977) - [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
+* [2023-11-16, 12:55:52](https://news.ycombinator.com/item?id=38288972) - [Microsoft launches Windows App for accessing PCs in the cloud from any device](https://learn.microsoft.com/en-us/windows-app/overview)
 * [2023-11-16, 12:29:32](https://news.ycombinator.com/item?id=38288743) - [Serverless development experience for embedded computer vision](https://github.com/pipeless-ai/pipeless)
 * [2023-11-16, 12:26:14](https://news.ycombinator.com/item?id=38288711) - [Made an app that summarizes recent popular stories from Hacker News](https://hackerdigest.upstash.app)
 * [2023-11-16, 11:53:31](https://news.ycombinator.com/item?id=38288444) - [OiNK's Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
