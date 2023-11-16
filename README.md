@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-16, 04:11:48](https://news.ycombinator.com/item?id=38285730) - [Nolan Says Buy Oppenheimer on Blu-ray So No Evil Streaming Service Can Steal It](https://variety.com/2023/film/news/christopher-nolan-buy-oppenheimer-blu-ray-evil-streamers-1235790376/)
 * [2023-11-16, 03:13:00](https://news.ycombinator.com/item?id=38285482) - [Show HN: OpenAI dev assistant GUI with local code interpreter](https://github.com/agentcasa/doda)
 * [2023-11-16, 02:29:30](https://news.ycombinator.com/item?id=38285251) - [How to build trust as a new engineering manager](https://becomingaleader.substack.com/p/how-to-build-trust)
+* [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
 * [2023-11-16, 00:06:12](https://news.ycombinator.com/item?id=38284196) - [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
 * [2023-11-15, 23:34:48](https://news.ycombinator.com/item?id=38283936) - [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
 * [2023-11-15, 23:23:01](https://news.ycombinator.com/item?id=38283860) - [\"Grand Ball Given by the Whales,\" Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
