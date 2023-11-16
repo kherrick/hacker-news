@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 14:30:40](https://news.ycombinator.com/item?id=38289935) - [ChatGPT Plus subscriptions are being listed on eBay after OpenAI blocked signups](https://www.businessinsider.com/chatgpt-plus-subscriptions-listed-on-ebay-after-openai-blocked-signups-2023-11)
 * [2023-11-16, 14:21:00](https://news.ycombinator.com/item?id=38289786) - [Dutch gov't wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
 * [2023-11-16, 14:15:13](https://news.ycombinator.com/item?id=38289726) - [ChatGPT has 190 citations on Google Scholar](https://scholar.google.com/citations?user=ZMKC6MUAAAAJ&hl=en)
 * [2023-11-16, 14:01:16](https://news.ycombinator.com/item?id=38289582) - [OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
@@ -13,6 +14,7 @@
 * [2023-11-16, 12:56:45](https://news.ycombinator.com/item?id=38288980) - [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 * [2023-11-16, 12:56:39](https://news.ycombinator.com/item?id=38288977) - [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
 * [2023-11-16, 12:55:52](https://news.ycombinator.com/item?id=38288972) - [Microsoft launches Windows App for accessing PCs in the cloud from any device](https://learn.microsoft.com/en-us/windows-app/overview)
+* [2023-11-16, 12:32:38](https://news.ycombinator.com/item?id=38288770) - [Kotlin Coroutines runtime in 400 lines](https://github.com/dokar3/mini-coroutines)
 * [2023-11-16, 12:29:32](https://news.ycombinator.com/item?id=38288743) - [Serverless development experience for embedded computer vision](https://github.com/pipeless-ai/pipeless)
 * [2023-11-16, 12:26:14](https://news.ycombinator.com/item?id=38288711) - [Made an app that summarizes recent popular stories from Hacker News](https://hackerdigest.upstash.app)
 * [2023-11-16, 11:53:31](https://news.ycombinator.com/item?id=38288444) - [OiNK's Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
