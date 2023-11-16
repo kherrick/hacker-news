@@ -87,6 +87,7 @@
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)
 * [2023-11-15, 12:00:49](https://news.ycombinator.com/item?id=38275791) - [Mux (YC W16) Is Hiring a Senior Distributed Systems Engineer](https://mux.com/jobs?j=dse)
 * [2023-11-15, 11:58:57](https://news.ycombinator.com/item?id=38275782) - [The Missiles on Our Land](https://missilesonourland.org/)
+* [2023-11-15, 11:47:00](https://news.ycombinator.com/item?id=38275698) - [Hello World on the GPU (2019)](https://acko.net/blog/hello-world-on-the-gpu/)
 * [2023-11-15, 11:33:44](https://news.ycombinator.com/item?id=38275614) - [Ask HN: Which co-location providers would you recommend in the US?](https://news.ycombinator.com/item?id=38275614)
 * [2023-11-15, 11:22:24](https://news.ycombinator.com/item?id=38275542) - [Why Mushroom Suits Won't Work and How to Apply Cemetery Studies](https://memorialecosystemswordpress.wordpress.com/2016/05/20/part-3-why-mushroom-suits-wont-work-and-how-to-apply-forensic-taphonomy-and-cemetery-studies-to-make-green-graves-one-use-composting-machines-part-1/)
 * [2023-11-15, 11:13:34](https://news.ycombinator.com/item?id=38275487) - [Alan Kay: Doing with Images Makes Symbols (1987) [video]](https://archive.org/details/AlanKeyD1987)

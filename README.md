@@ -11,7 +11,6 @@
 * [2023-11-16, 15:20:52](https://news.ycombinator.com/item?id=38290613) - [From email to phone number, a new OSINT approach](https://www.martinvigo.com/email2phonenumber/)
 * [2023-11-16, 15:15:06](https://news.ycombinator.com/item?id=38290547) - [Never Event](https://en.wikipedia.org/wiki/Never_event)
 * [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The Linux realtime preemption endgame is near](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
-* [2023-11-16, 14:30:40](https://news.ycombinator.com/item?id=38289935) - [ChatGPT Plus subscriptions are being listed on eBay after OpenAI blocked signups](https://www.businessinsider.com/chatgpt-plus-subscriptions-listed-on-ebay-after-openai-blocked-signups-2023-11)
 * [2023-11-16, 14:21:00](https://news.ycombinator.com/item?id=38289786) - [Dutch gov't wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
 * [2023-11-16, 14:01:16](https://news.ycombinator.com/item?id=38289582) - [OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
 * [2023-11-16, 13:40:51](https://news.ycombinator.com/item?id=38289376) - [Show HN: Near-realtime cloud maps for weather visualisation, 3D models and more](https://github.com/matteason/live-cloud-maps)
@@ -29,6 +28,7 @@
 * [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The truth is always made of details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating an Entire Company on a Minimal Two-Core PostgreSQL Instance, Part 1](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 13:34:57](https://news.ycombinator.com/item?id=38276430) - [Show HN: Numbat – A programming language with physical dimensions as types](https://numbat.dev/articles/intro.html)
+* [2023-11-15, 11:47:00](https://news.ycombinator.com/item?id=38275698) - [Hello World on the GPU (2019)](https://acko.net/blog/hello-world-on-the-gpu/)
 * [2023-11-15, 07:23:56](https://news.ycombinator.com/item?id=38274160) - [Escaping the Edge sandbox: A bug that speaks for itself](https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/)
 
 ## [Archives](archives/index.md)
