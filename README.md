@@ -3,7 +3,6 @@
 * [2023-11-16, 22:35:52](https://news.ycombinator.com/item?id=38296615) - [Google News removing magazines, including the ones you paid for, in December](https://9to5google.com/2023/11/15/google-news-magazine/)
 * [2023-11-16, 21:29:49](https://news.ycombinator.com/item?id=38295819) - [Microsoft support 'cracks' Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
-* [2023-11-16, 21:06:19](https://news.ycombinator.com/item?id=38295535) - [Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
 * [2023-11-16, 21:05:45](https://news.ycombinator.com/item?id=38295524) - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
 * [2023-11-16, 20:43:34](https://news.ycombinator.com/item?id=38295179) - [Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
 * [2023-11-16, 20:05:25](https://news.ycombinator.com/item?id=38294723) - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
@@ -28,6 +27,7 @@
 * [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating on a minimal two-core Postgres instance: Query optimization insights](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 13:33:13](https://news.ycombinator.com/item?id=38276418) - [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
+* [2023-11-15, 11:47:00](https://news.ycombinator.com/item?id=38275698) - [Hello World on the GPU (2019)](https://acko.net/blog/hello-world-on-the-gpu/)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 * [2023-11-14, 20:44:11](https://news.ycombinator.com/item?id=38269458) - [Roger Penrose – Interview – Is Mathematics Invented or Discovered?](https://abakcus.com/video/roger-penrose-is-mathematics-invented-or-discovered/)
 
