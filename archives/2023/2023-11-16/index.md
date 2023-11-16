@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 22:35:52](https://news.ycombinator.com/item?id=38296615) - [Google News removing magazines, including the ones you paid for, in December](https://9to5google.com/2023/11/15/google-news-magazine/)
 * [2023-11-16, 21:29:49](https://news.ycombinator.com/item?id=38295819) - [Microsoft support 'cracks' Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 * [2023-11-16, 21:06:19](https://news.ycombinator.com/item?id=38295535) - [Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
