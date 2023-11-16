@@ -80,6 +80,7 @@
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by Example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:26:24](https://news.ycombinator.com/item?id=38275925) - [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)
+* [2023-11-15, 12:22:54](https://news.ycombinator.com/item?id=38275905) - [Don't Run into the Woods](https://onwriting.games/daily/20231115-1056-dont-run-into-the-woods/)
 * [2023-11-15, 12:16:51](https://news.ycombinator.com/item?id=38275874) - ['David Holmes: The Boy Who Lived' Review: Harry Potter's Stuntman Perseveres](https://www.wsj.com/arts-culture/television/david-holmes-the-boy-who-lived-review-harry-potter-stuntman-hbo-documentary-jk-rowling-ad2ae914)
 * [2023-11-15, 12:09:31](https://news.ycombinator.com/item?id=38275841) - [We don't do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)

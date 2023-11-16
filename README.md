@@ -15,7 +15,6 @@
 * [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
 * [2023-11-16, 03:13:00](https://news.ycombinator.com/item?id=38285482) - [Show HN: OpenAI dev assistant GUI with local code interpreter](https://github.com/agentcasa/doda)
 * [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
-* [2023-11-16, 00:06:12](https://news.ycombinator.com/item?id=38284196) - [Investigating the impact of cold plunges on brain activity](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
 * [2023-11-16, 00:00:35](https://news.ycombinator.com/item?id=38284150) - [SpaceX Starship/Super Heavy OFT-2 Launch Authorized](https://www.faa.gov/media/69476)
 * [2023-11-15, 23:34:48](https://news.ycombinator.com/item?id=38283936) - [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
 * [2023-11-15, 23:23:01](https://news.ycombinator.com/item?id=38283860) - [\"Grand Ball Given by the Whales,\" Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
@@ -30,6 +29,7 @@
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating an Entire Company on a Minimal Two-Core PostgreSQL Instance, Part 1](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 14:02:50](https://news.ycombinator.com/item?id=38276680) - [The Great Sphinx of Giza may have have started out as a natural formation](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by example](https://wasmbyexample.dev/home.en-us.html)
+* [2023-11-15, 12:22:54](https://news.ycombinator.com/item?id=38275905) - [Don't Run into the Woods](https://onwriting.games/daily/20231115-1056-dont-run-into-the-woods/)
 
 ## [Archives](archives/index.md)
 
