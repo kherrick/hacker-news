@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-16, 06:18:13](https://news.ycombinator.com/item?id=38286299) - [TIL — SQLite doesn't use Git, they wrote their own VCS](https://sqlite.org/whynotgit.html)
 * [2023-11-16, 05:51:37](https://news.ycombinator.com/item?id=38286202) - [Solitude as the antidote to misanthropy](https://www.christopherketcham.com/?p=441)
 * [2023-11-16, 05:45:09](https://news.ycombinator.com/item?id=38286170) - [WordPress plugins are a little sad?](https://chriscoyier.net/2023/11/13/the-top-wordpress-plugins-are-a-little-sad/)
 * [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
@@ -10,6 +9,7 @@
 * [2023-11-16, 02:29:30](https://news.ycombinator.com/item?id=38285251) - [How to build trust as a new engineering manager](https://becomingaleader.substack.com/p/how-to-build-trust)
 * [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
 * [2023-11-16, 00:06:12](https://news.ycombinator.com/item?id=38284196) - [Investigating the impact of cold plunges on brain activity](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
+* [2023-11-16, 00:00:35](https://news.ycombinator.com/item?id=38284150) - [SpaceX Starship/Super Heavy OFT-2 Launch Authorized](https://www.faa.gov/media/69476)
 * [2023-11-15, 23:34:48](https://news.ycombinator.com/item?id=38283936) - [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
 * [2023-11-15, 23:23:01](https://news.ycombinator.com/item?id=38283860) - [\"Grand Ball Given by the Whales,\" Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
 * [2023-11-15, 21:41:20](https://news.ycombinator.com/item?id=38282950) - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)

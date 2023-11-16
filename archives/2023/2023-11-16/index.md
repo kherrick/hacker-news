@@ -18,3 +18,4 @@
 * [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
 * [2023-11-16, 01:31:07](https://news.ycombinator.com/item?id=38284862) - [SQLite4: The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
 * [2023-11-16, 00:06:12](https://news.ycombinator.com/item?id=38284196) - [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
+* [2023-11-16, 00:00:35](https://news.ycombinator.com/item?id=38284150) - [SpaceX Starship/Super Heavy OFT-2 Launch Authorized](https://www.faa.gov/media/69476)
