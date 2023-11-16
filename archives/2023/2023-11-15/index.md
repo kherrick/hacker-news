@@ -6,6 +6,7 @@
 
 * [2023-11-15, 23:59:28](https://news.ycombinator.com/item?id=38284141) - [Common pesticides in food reducing sperm count worldwide, study says](https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html)
 * [2023-11-15, 23:45:54](https://news.ycombinator.com/item?id=38284020) - [The Guardian Deletes Osama Bin Laden's 'Letter to America'](https://www.404media.co/guardian-deletes-osama-bin-ladens-letter-to-america-after-it-goes-viral-on-tiktok/)
+* [2023-11-15, 23:34:48](https://news.ycombinator.com/item?id=38283936) - [Scintillocartography](https://ivan.sanchezortega.es/development/2023/11/13/scintillocartography.html)
 * [2023-11-15, 23:23:01](https://news.ycombinator.com/item?id=38283860) - [\"Grand Ball Given by the Whales,\" Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
 * [2023-11-15, 23:16:57](https://news.ycombinator.com/item?id=38283833) - [We No Longer Need a Big Carrier's Wireless Plan. Discount Ones Are the Way](https://www.nytimes.com/2023/11/15/technology/personaltech/we-no-longer-need-a-big-carriers-wireless-plan-discount-ones-are-the-way.html)
 * [2023-11-15, 23:02:54](https://news.ycombinator.com/item?id=38283788) - [Double-Checking Dawkins](https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1)
