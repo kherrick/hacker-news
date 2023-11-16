@@ -9,7 +9,7 @@
 * [2023-11-16, 16:04:42](https://news.ycombinator.com/item?id=38291199) - [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-steal-email-data-from-government-organizations/)
 * [2023-11-16, 15:59:51](https://news.ycombinator.com/item?id=38291139) - [Emu Video and Emu Edit, our latest generative AI research milestones](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
 * [2023-11-16, 15:53:58](https://news.ycombinator.com/item?id=38291069) - [Could be bigger than Cambridge Analytica (5B people)](https://www.iccl.ie/digital-data/europes-hidden-security-crisis/)
-* [2023-11-16, 15:46:12](https://news.ycombinator.com/item?id=38290975) - [Mom and pop shops are cutting software spending, creating jitters on Wall Street](https://www.cnbc.com/2023/11/16/mom-and-pop-shops-cut-software-spending-creating-wall-street-jitters.html)
+* [2023-11-16, 15:38:36](https://news.ycombinator.com/item?id=38290858) - [Volkswagen tracking firm sued for refusing to find stolen SUV with kidnapped boy](https://wgntv.com/news/north-suburbs/parents-sue-volkswagen-following-carjacking-kidnapping-of-toddler-in-libertyville/)
 * [2023-11-16, 15:22:55](https://news.ycombinator.com/item?id=38290646) - [Show HN: Beak.js – Custom conversational assistants for your React app](https://github.com/mme/beakjs)
 * [2023-11-16, 15:20:52](https://news.ycombinator.com/item?id=38290613) - [From email to phone number, a new OSINT approach (2019)](https://www.martinvigo.com/email2phonenumber/)
 * [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The Linux realtime preemption endgame is near](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
