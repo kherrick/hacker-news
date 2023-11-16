@@ -24,7 +24,7 @@
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 09:34:20](https://news.ycombinator.com/item?id=38287435) - [Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/)
 * [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
-* [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The truth is always made of details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
+* [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating on a minimal two-core Postgres instance: Query optimization insights](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 13:44:12](https://news.ycombinator.com/item?id=38276515) - [Is Delaware the Cheapest Place to Incorporate?](https://news.ycombinator.com/item?id=38276515)
 * [2023-11-15, 13:34:57](https://news.ycombinator.com/item?id=38276430) - [Show HN: Numbat – A programming language with physical dimensions as types](https://numbat.dev/articles/intro.html)
