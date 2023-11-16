@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 18:23:03](https://news.ycombinator.com/item?id=38293348) - [Apple to support RCS messaging standard next year](https://www.techradar.com/phones/iphone/breaking-apple-will-support-rcs-in-2024)
 * [2023-11-16, 18:04:54](https://news.ycombinator.com/item?id=38293082) - [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
 * [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
 * [2023-11-16, 17:03:49](https://news.ycombinator.com/item?id=38292102) - [std::source_location Is Broken](https://www.elbeno.com/blog/?p=1738)
