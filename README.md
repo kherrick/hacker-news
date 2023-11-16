@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 11:02:41](https://news.ycombinator.com/item?id=38288102) - [Show HN: GPT-4 Turbo with integrated DALL-E 3](https://flowch.ai/shared/840bff3d-0e55-4793-8397-b9fcd81bc3ed)
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 08:46:36](https://news.ycombinator.com/item?id=38287095) - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 08:39:29](https://news.ycombinator.com/item?id=38287043) - [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
-* [2023-11-16, 08:16:59](https://news.ycombinator.com/item?id=38286941) - [HHKB Studio: The New Happy Hacking Keyboard with TrackPoint](https://hhkeyboard.us/hhkb-studio/product)
 * [2023-11-16, 07:44:25](https://news.ycombinator.com/item?id=38286761) - [LLMs by Hallucination Rate](https://github.com/vectara/hallucination-leaderboard)
 * [2023-11-16, 05:51:37](https://news.ycombinator.com/item?id=38286202) - [Solitude as the antidote to misanthropy](https://www.christopherketcham.com/?p=441)
 * [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
