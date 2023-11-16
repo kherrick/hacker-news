@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 08:46:36](https://news.ycombinator.com/item?id=38287095) - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
+* [2023-11-16, 08:39:29](https://news.ycombinator.com/item?id=38287043) - [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
+* [2023-11-16, 08:16:59](https://news.ycombinator.com/item?id=38286941) - [HHKB Studio: The New Happy Hacking Keyboard with TrackPoint](https://hhkeyboard.us/hhkb-studio/product)
 * [2023-11-16, 07:44:25](https://news.ycombinator.com/item?id=38286761) - [LLMs by Hallucination Rate](https://github.com/vectara/hallucination-leaderboard)
 * [2023-11-16, 06:18:13](https://news.ycombinator.com/item?id=38286299) - [TIL — SQLite doesn't use Git, they wrote their own VCS](https://sqlite.org/whynotgit.html)
 * [2023-11-16, 06:12:12](https://news.ycombinator.com/item?id=38286283) - [We Need Taiwan](https://alethios.substack.com/p/why-we-need-taiwan)
