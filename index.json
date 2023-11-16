@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 11:53:31",
+      "https://news.ycombinator.com/item?id=38288444"
+    ],
+    [
+      "OiNK's Pink Palace was shut down 16 years ago",
+      "https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 11:07:23",
       "https://news.ycombinator.com/item?id=38288130"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-11-16, 11:02:41",
-      "https://news.ycombinator.com/item?id=38288102"
+      "2023-11-16, 11:02:18",
+      "https://news.ycombinator.com/item?id=38288098"
     ],
     [
-      "Show HN: GPT-4 Turbo with integrated DALL-E 3",
-      "https://flowch.ai/shared/840bff3d-0e55-4793-8397-b9fcd81bc3ed"
+      "The Extreme Ambitions of West Bank Settlers",
+      "https://www.newyorker.com/news/q-and-a/the-extreme-ambitions-of-west-bank-settlers"
     ]
   ],
   [
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2023-11-16, 07:44:25",
-      "https://news.ycombinator.com/item?id=38286761"
+      "2023-11-16, 07:42:16",
+      "https://news.ycombinator.com/item?id=38286750"
     ],
     [
-      "LLMs by Hallucination Rate",
-      "https://github.com/vectara/hallucination-leaderboard"
+      "Bertrand Russell: A Free Man's Worship",
+      "http://www.positiveatheism.org/hist/russell1.htm"
     ]
   ],
   [
@@ -147,6 +157,16 @@
     [
       "\"Grand Ball Given by the Whales,\" Vanity Fair, April 20, 1861",
       "https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 22:27:17",
+      "https://news.ycombinator.com/item?id=38283504"
+    ],
+    [
+      "Fixing bug 109595 makes MySQL almost 4X faster on the Insert Benchmark",
+      "http://smalldatum.blogspot.com/2023/11/fixing-bug-109595-makes-mysql-almost-4x.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Pseudoprose",
       "https://taylor.town/pseudoprose"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 09:39:08",
-      "https://news.ycombinator.com/item?id=38274923"
-    ],
-    [
-      "Obfuscating Lua (2019)",
-      "https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 08:51:45",
-      "https://news.ycombinator.com/item?id=38274642"
-    ],
-    [
-      "My primality testing code is faster than Sir Roger Penrose's",
-      "https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html"
     ]
   ]
 ]
