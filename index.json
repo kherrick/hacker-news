@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-16, 12:58:43",
-      "https://news.ycombinator.com/item?id=38289002"
-    ],
-    [
-      "St. Petersburg artist Sasha Skochilenko sentenced to seven years in prison",
-      "https://meduza.io/en/news/2023/11/16/st-petersburg-artist-sasha-skochilenko-sentenced-to-seven-years-in-prison"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 12:56:45",
       "https://news.ycombinator.com/item?id=38288980"
     ],
@@ -31,6 +21,16 @@
   ],
   [
     [
+      "2023-11-16, 12:29:32",
+      "https://news.ycombinator.com/item?id=38288743"
+    ],
+    [
+      "Serverless development experience for embedded computer vision",
+      "https://github.com/pipeless-ai/pipeless"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 11:53:31",
       "https://news.ycombinator.com/item?id=38288444"
     ],
@@ -47,16 +47,6 @@
     [
       "I think I need to go lie down",
       "https://twitter.com/multikev/status/1724908185361011108"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 10:57:00",
-      "https://news.ycombinator.com/item?id=38288061"
-    ],
-    [
-      "Removed: Document",
-      "https://www.theguardian.com/info/2023/nov/15/removed-document"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2023-11-16, 00:06:12",
+      "https://news.ycombinator.com/item?id=38284196"
+    ],
+    [
+      "Investigating the impact of cold plunges on brain activity",
+      "https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 00:00:35",
       "https://news.ycombinator.com/item?id=38284150"
     ],
@@ -187,16 +187,6 @@
     [
       "\"Grand Ball Given by the Whales,\" Vanity Fair, April 20, 1861",
       "https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 22:27:17",
-      "https://news.ycombinator.com/item?id=38283504"
-    ],
-    [
-      "Fixing bug 109595 makes MySQL almost 4X faster on the Insert Benchmark",
-      "http://smalldatum.blogspot.com/2023/11/fixing-bug-109595-makes-mysql-almost-4x.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Great Sphinx of Giza may have have started out as a natural formation",
       "https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 12:46:58",
+      "https://news.ycombinator.com/item?id=38276075"
+    ],
+    [
+      "WASM by example",
+      "https://wasmbyexample.dev/home.en-us.html"
     ]
   ]
 ]
