@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-16, 01:31:07",
+      "https://news.ycombinator.com/item?id=38284862"
+    ],
+    [
+      "SQLite4: The Design of SQLite4",
+      "https://sqlite.org/src4/doc/trunk/www/design.wiki"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 23:59:28",
       "https://news.ycombinator.com/item?id=38284141"
     ],
     [
       "Common pesticides in food reducing sperm count worldwide, study says",
       "https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 23:45:54",
+      "https://news.ycombinator.com/item?id=38284020"
+    ],
+    [
+      "The Guardian Deletes Osama Bin Laden's 'Letter to America'",
+      "https://www.404media.co/guardian-deletes-osama-bin-ladens-letter-to-america-after-it-goes-viral-on-tiktok/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38283788"
     ],
     [
-      "Double-Checking Dawkins",
+      "Double-Checking Dawkins (2007)",
       "https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Australia's overuse of antibiotics driving rate of drug-resistant infections",
       "https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 19:11:47",
-      "https://news.ycombinator.com/item?id=38280974"
-    ],
-    [
-      "Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU",
-      "https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Obfuscating Lua (2019)",
       "https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 09:04:05",
-      "https://news.ycombinator.com/item?id=38274714"
-    ],
-    [
-      "Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence",
-      "http://haroldbot.nl/"
     ]
   ],
   [
