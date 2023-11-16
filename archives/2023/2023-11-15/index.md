@@ -77,6 +77,7 @@
 * [2023-11-15, 14:02:50](https://news.ycombinator.com/item?id=38276680) - [Nature may have helped sculpt the Great Sphinx of Giza](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
 * [2023-11-15, 14:00:21](https://news.ycombinator.com/item?id=38276657) - [A defined process for project post mortem review (1996)](https://ieeexplore.ieee.org/document/526833)
 * [2023-11-15, 13:44:21](https://news.ycombinator.com/item?id=38276518) - [COBOL for GCC Development](https://cobolworx.com/pages/cobforgcc.html)
+* [2023-11-15, 13:34:57](https://news.ycombinator.com/item?id=38276430) - [Show HN: Numbat – A programming language with physical dimensions as types](https://numbat.dev/articles/intro.html)
 * [2023-11-15, 13:03:17](https://news.ycombinator.com/item?id=38276209) - [Don't Spy EU](https://dontspy.eu/)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by Example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:26:24](https://news.ycombinator.com/item?id=38275925) - [The Python Sofware Foundation Receives Wonderfully Welcoming Award from GitHub](https://pyfound.blogspot.com/2023/11/psf-wonderfully-welcoming-award-github.html)

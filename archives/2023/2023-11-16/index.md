@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 15:46:12](https://news.ycombinator.com/item?id=38290975) - [Mom and pop shops are cutting software spending, creating jitters on Wall Street](https://www.cnbc.com/2023/11/16/mom-and-pop-shops-cut-software-spending-creating-wall-street-jitters.html)
+* [2023-11-16, 15:37:14](https://news.ycombinator.com/item?id=38290841) - [Melatonin use soars among children, with unknown risks](https://www.colorado.edu/today/2023/11/13/melatonin-use-soars-among-children-unknown-risks)
 * [2023-11-16, 15:22:55](https://news.ycombinator.com/item?id=38290646) - [Show HN: Beak.js – Custom conversational assistants for your React app](https://github.com/mme/beakjs)
+* [2023-11-16, 15:20:52](https://news.ycombinator.com/item?id=38290613) - [From email to phone number, a new OSINT approach](https://www.martinvigo.com/email2phonenumber/)
 * [2023-11-16, 15:15:06](https://news.ycombinator.com/item?id=38290547) - [Never Event](https://en.wikipedia.org/wiki/Never_event)
 * [2023-11-16, 15:13:52](https://news.ycombinator.com/item?id=38290526) - [Walking has plummeted across America](https://www.axios.com/2023/11/16/walking-americans-declines-map)
 * [2023-11-16, 15:01:02](https://news.ycombinator.com/item?id=38290358) - [You Can Make Your Own Luck](https://www.wsj.com/lifestyle/workplace/some-people-are-just-lucky-you-can-make-yourself-one-of-them-5f7c7329)
