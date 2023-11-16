@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 23:35:27](https://news.ycombinator.com/item?id=38297203) - [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 * [2023-11-16, 21:05:45](https://news.ycombinator.com/item?id=38295524) - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
 * [2023-11-16, 20:43:34](https://news.ycombinator.com/item?id=38295179) - [Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
-* [2023-11-16, 20:05:25](https://news.ycombinator.com/item?id=38294723) - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
 * [2023-11-16, 19:58:29](https://news.ycombinator.com/item?id=38294623) - [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
 * [2023-11-16, 19:54:59](https://news.ycombinator.com/item?id=38294569) - [Moving from AWS to Bare-Metal saved us $230k per year](https://blog.oneuptime.com/moving-from-aws-to-bare-metal/)
 * [2023-11-16, 19:30:41](https://news.ycombinator.com/item?id=38294203) - [Federated finetuning of Whisper on Raspberry Pi 5](https://flower.dev/blog/2023-11-15-federated-finetuning-of-openai-whisper-with-flower/)
