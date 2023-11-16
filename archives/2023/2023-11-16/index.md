@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
+* [2023-11-16, 09:17:34](https://news.ycombinator.com/item?id=38287299) - [A Failed AI Girlfriend Product, and My Lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
 * [2023-11-16, 08:46:36](https://news.ycombinator.com/item?id=38287095) - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 08:39:29](https://news.ycombinator.com/item?id=38287043) - [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 * [2023-11-16, 08:16:59](https://news.ycombinator.com/item?id=38286941) - [HHKB Studio: The New Happy Hacking Keyboard with TrackPoint](https://hhkeyboard.us/hhkb-studio/product)
