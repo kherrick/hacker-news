@@ -26,10 +26,10 @@
 * [2023-11-16, 09:17:34](https://news.ycombinator.com/item?id=38287299) - [A failed AI girlfriend product, and my lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
 * [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating on a minimal two-core Postgres instance: Query optimization insights](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
+* [2023-11-15, 13:44:12](https://news.ycombinator.com/item?id=38276515) - [Is Delaware the cheapest place to incorporate?](https://news.ycombinator.com/item?id=38276515)
 * [2023-11-15, 13:33:13](https://news.ycombinator.com/item?id=38276418) - [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 * [2023-11-15, 07:48:27](https://news.ycombinator.com/item?id=38274289) - [Magicians less prone to mental disorders than other artists, finds research](https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
-* [2023-11-14, 20:44:11](https://news.ycombinator.com/item?id=38269458) - [Is Mathematics Invented or Discovered? (2020) [video]](https://www.youtube.com/watch?v=ujvS2K06dg4)
 
 ## [Archives](archives/index.md)
 
