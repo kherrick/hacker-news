@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 14:21:00](https://news.ycombinator.com/item?id=38289786) - [Dutch gov't wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
 * [2023-11-16, 14:15:13](https://news.ycombinator.com/item?id=38289726) - [ChatGPT has 190 citations on Google Scholar](https://scholar.google.com/citations?user=ZMKC6MUAAAAJ&hl=en)
 * [2023-11-16, 14:01:16](https://news.ycombinator.com/item?id=38289582) - [OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
 * [2023-11-16, 13:40:51](https://news.ycombinator.com/item?id=38289376) - [Show HN: Near-realtime cloud maps for visualisations, 3D modelling and more](https://github.com/matteason/live-cloud-maps)
@@ -11,6 +12,7 @@
 * [2023-11-16, 12:56:45](https://news.ycombinator.com/item?id=38288980) - [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 * [2023-11-16, 12:56:39](https://news.ycombinator.com/item?id=38288977) - [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
 * [2023-11-16, 12:29:32](https://news.ycombinator.com/item?id=38288743) - [Serverless development experience for embedded computer vision](https://github.com/pipeless-ai/pipeless)
+* [2023-11-16, 12:26:14](https://news.ycombinator.com/item?id=38288711) - [Made an app that summarizes recent popular stories from Hacker News](https://hackerdigest.upstash.app)
 * [2023-11-16, 11:53:31](https://news.ycombinator.com/item?id=38288444) - [OiNK's Pink Palace was shut down 16 years ago](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace)
 * [2023-11-16, 11:07:23](https://news.ycombinator.com/item?id=38288130) - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
 * [2023-11-16, 11:02:41](https://news.ycombinator.com/item?id=38288102) - [Show HN: GPT-4 Turbo with integrated DALL-E 3](https://flowch.ai/shared/840bff3d-0e55-4793-8397-b9fcd81bc3ed)
