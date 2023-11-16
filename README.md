@@ -28,8 +28,8 @@
 * [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating on a minimal two-core Postgres instance: Query optimization insights](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 13:33:13](https://news.ycombinator.com/item?id=38276418) - [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
-* [2023-11-15, 11:47:00](https://news.ycombinator.com/item?id=38275698) - [Hello World on the GPU (2019)](https://acko.net/blog/hello-world-on-the-gpu/)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
+* [2023-11-14, 20:44:11](https://news.ycombinator.com/item?id=38269458) - [Roger Penrose – Interview – Is Mathematics Invented or Discovered?](https://abakcus.com/video/roger-penrose-is-mathematics-invented-or-discovered/)
 
 ## [Archives](archives/index.md)
 
