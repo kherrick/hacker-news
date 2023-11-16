@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 07:44:25](https://news.ycombinator.com/item?id=38286761) - [LLMs by Hallucination Rate](https://github.com/vectara/hallucination-leaderboard)
 * [2023-11-16, 06:18:13](https://news.ycombinator.com/item?id=38286299) - [TIL — SQLite doesn't use Git, they wrote their own VCS](https://sqlite.org/whynotgit.html)
+* [2023-11-16, 06:12:12](https://news.ycombinator.com/item?id=38286283) - [We Need Taiwan](https://alethios.substack.com/p/why-we-need-taiwan)
 * [2023-11-16, 05:51:37](https://news.ycombinator.com/item?id=38286202) - [Solitude as the Antidote to Misanthropy](https://www.christopherketcham.com/?p=441)
 * [2023-11-16, 05:45:09](https://news.ycombinator.com/item?id=38286170) - [WordPress plugins are a little sad?](https://chriscoyier.net/2023/11/13/the-top-wordpress-plugins-are-a-little-sad/)
 * [2023-11-16, 05:44:17](https://news.ycombinator.com/item?id=38286163) - [iMessage for Android](https://nothing.community/d/2968-introducing-nothing-chats)
