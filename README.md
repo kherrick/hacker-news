@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 16:22:52](https://news.ycombinator.com/item?id=38291490) - [Running Signal Will Soon Cost $50 Million a Year](https://www.wired.com/story/signal-operating-costs/)
+* [2023-11-16, 16:18:10](https://news.ycombinator.com/item?id=38291427) - [Privacy is Priceless, but Signal is Expensive](https://signal.org/blog/signal-is-expensive/)
 * [2023-11-16, 16:16:56](https://news.ycombinator.com/item?id=38291406) - [Bad Bots Account for 73% of Internet Traffic: Analysis](https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/)
 * [2023-11-16, 16:16:31](https://news.ycombinator.com/item?id=38291399) - [Ransomware Group Files SEC Complaint over Victim's Failure Disclose Data Breach](https://www.securityweek.com/ransomware-group-files-sec-complaint-over-victims-failure-to-disclose-data-breach/)
 * [2023-11-16, 16:04:42](https://news.ycombinator.com/item?id=38291199) - [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-steal-email-data-from-government-organizations/)
@@ -21,9 +23,7 @@
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 09:34:20](https://news.ycombinator.com/item?id=38287435) - [Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/)
 * [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
-* [2023-11-16, 03:33:38](https://news.ycombinator.com/item?id=38285589) - [Rolls-royce confirms all of its current engines can run on 100 percent SAF](https://www.flyingmag.com/rolls-royce-confirms-all-of-its-current-engines-can-run-on-100-percent-saf/)
 * [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
-* [2023-11-15, 21:41:20](https://news.ycombinator.com/item?id=38282950) - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 * [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The truth is always made of details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)

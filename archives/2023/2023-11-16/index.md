@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 16:22:52](https://news.ycombinator.com/item?id=38291490) - [Running Signal Will Soon Cost $50 Million a Year](https://www.wired.com/story/signal-operating-costs/)
+* [2023-11-16, 16:18:10](https://news.ycombinator.com/item?id=38291427) - [Privacy is Priceless, but Signal is Expensive](https://signal.org/blog/signal-is-expensive/)
 * [2023-11-16, 16:16:56](https://news.ycombinator.com/item?id=38291406) - [Bad Bots Account for 73% of Internet Traffic: Analysis](https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/)
 * [2023-11-16, 16:16:31](https://news.ycombinator.com/item?id=38291399) - [Ransomware Group Files SEC Complaint over Victim's Failure Disclose Data Breach](https://www.securityweek.com/ransomware-group-files-sec-complaint-over-victims-failure-to-disclose-data-breach/)
 * [2023-11-16, 16:04:42](https://news.ycombinator.com/item?id=38291199) - [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-steal-email-data-from-government-organizations/)
