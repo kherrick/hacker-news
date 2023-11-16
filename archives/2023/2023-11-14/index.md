@@ -21,6 +21,7 @@
 * [2023-11-14, 20:58:08](https://news.ycombinator.com/item?id=38269656) - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
 * [2023-11-14, 20:44:13](https://news.ycombinator.com/item?id=38269460) - [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
 * [2023-11-14, 20:44:11](https://news.ycombinator.com/item?id=38269458) - [Roger Penrose – Interview – Is Mathematics Invented or Discovered?](https://abakcus.com/video/roger-penrose-is-mathematics-invented-or-discovered/)
+* [2023-11-14, 20:44:11](https://news.ycombinator.com/item?id=38269458) - [Is Mathematics Invented or Discovered? (2020) [video]](https://www.youtube.com/watch?v=ujvS2K06dg4)
 * [2023-11-14, 20:42:49](https://news.ycombinator.com/item?id=38269445) - [Show HN: Soccer video analysis from your match videos](https://futvis.com/)
 * [2023-11-14, 20:29:17](https://news.ycombinator.com/item?id=38269265) - [Monty Python and the Holy Grail in Cinemas](https://holygrailincinemas.com/)
 * [2023-11-14, 20:22:04](https://news.ycombinator.com/item?id=38269144) - [319 Leona](https://en.wikipedia.org/wiki/319_Leona)
