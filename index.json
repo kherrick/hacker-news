@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-11-16, 16:53:39",
+      "https://news.ycombinator.com/item?id=38291949"
+    ],
+    [
+      "The impossibility of rationally analyzing partisan news",
+      "https://www.lesswrong.com/posts/uPGoNN3w2JhmrC6DE/the-impossibility-of-rationally-analyzing-partisan-news"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 16:48:44",
+      "https://news.ycombinator.com/item?id=38291880"
+    ],
+    [
+      "AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools",
+      "https://github.com/protectai/ai-exploits"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 16:35:17",
       "https://news.ycombinator.com/item?id=38291673"
     ],
@@ -81,26 +101,6 @@
   ],
   [
     [
-      "2023-11-16, 15:53:58",
-      "https://news.ycombinator.com/item?id=38291069"
-    ],
-    [
-      "Could be bigger than Cambridge Analytica (5B people)",
-      "https://www.iccl.ie/digital-data/europes-hidden-security-crisis/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 15:38:36",
-      "https://news.ycombinator.com/item?id=38290858"
-    ],
-    [
-      "Volkswagen tracking firm sued for refusing to find stolen SUV with kidnapped boy",
-      "https://wgntv.com/news/north-suburbs/parents-sue-volkswagen-following-carjacking-kidnapping-of-toddler-in-libertyville/"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 15:22:55",
       "https://news.ycombinator.com/item?id=38290646"
     ],
@@ -147,6 +147,16 @@
     [
       "OpenSubtitles is not open anymore",
       "https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 13:40:51",
+      "https://news.ycombinator.com/item?id=38289376"
+    ],
+    [
+      "Show HN: Near-realtime cloud maps for weather visualisation, 3D models and more",
+      "https://github.com/matteason/live-cloud-maps"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Smart drugs reduce quality of effort, and slow decision-making",
       "https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 02:27:40",
-      "https://news.ycombinator.com/item?id=38285228"
-    ],
-    [
-      "Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)",
-      "https://github.com/abi/screenshot-to-code"
     ]
   ],
   [
