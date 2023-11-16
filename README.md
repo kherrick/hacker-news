@@ -11,7 +11,6 @@
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 * [2023-11-15, 19:21:54](https://news.ycombinator.com/item?id=38281137) - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
-* [2023-11-15, 18:48:10](https://news.ycombinator.com/item?id=38280664) - [Running Redshift at Scale](https://blog.artie.so/best-practices-on-running-redshift-at-scale)
 * [2023-11-15, 18:35:42](https://news.ycombinator.com/item?id=38280472) - [Diskomator – NVMe-TCP at your fingertips](https://github.com/poettering/diskomator)
 * [2023-11-15, 18:15:46](https://news.ycombinator.com/item?id=38280201) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
@@ -28,6 +27,7 @@
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)
 * [2023-11-15, 11:13:34](https://news.ycombinator.com/item?id=38275487) - [Alan Kay: Doing with Images Makes Symbols (1987) [video]](https://archive.org/details/AlanKeyD1987)
 * [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
+* [2023-11-15, 09:21:26](https://news.ycombinator.com/item?id=38274810) - [Rebooting an Abandoned Car Wash in the Ozarks](https://typefully.com/NeoYokel/9HHtfFn)
 * [2023-11-15, 08:51:45](https://news.ycombinator.com/item?id=38274642) - [My primality testing code is 6x faster than Sir Roger Penrose's](https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html)
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://accentual.com/bmc64/)
 
