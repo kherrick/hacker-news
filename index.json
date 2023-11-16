@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-11-16, 22:35:52",
-      "https://news.ycombinator.com/item?id=38296615"
-    ],
-    [
-      "Google News removing magazines, including the ones you paid for, in December",
-      "https://9to5google.com/2023/11/15/google-news-magazine/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 21:29:49",
-      "https://news.ycombinator.com/item?id=38295819"
-    ],
-    [
-      "Microsoft support 'cracks' Windows for customer after activation fails",
-      "https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 21:15:07",
       "https://news.ycombinator.com/item?id=38295638"
     ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38294569"
     ],
     [
-      "Moving from AWS to Bare-Metal saved us 230k$ /yr",
+      "Moving from AWS to Bare-Metal saved us $230k per year",
       "https://blog.oneuptime.com/moving-from-aws-to-bare-metal/"
     ]
   ],
@@ -97,6 +77,26 @@
     [
       "Hackers know everything is securities fraud",
       "https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 18:54:17",
+      "https://news.ycombinator.com/item?id=38293714"
+    ],
+    [
+      "Air Accident Investigation Branch: film lights caused window damage on A321neo",
+      "https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 18:04:54",
+      "https://news.ycombinator.com/item?id=38293082"
+    ],
+    [
+      "Apple announces that RCS support is coming to iPhone next year",
+      "https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/"
     ]
   ],
   [
@@ -175,8 +175,8 @@
       "https://news.ycombinator.com/item?id=38291015"
     ],
     [
-      "Sweden Gov Announces 'Massive Expansion' of Nuclear Energy",
-      "https://greeninvesting.co/2023/11/sweden-gov-announces-massive-expansion-of-nuclear-energy/"
+      "Sweden plans new nuclear reactors by 2035, will share costs",
+      "https://www.reuters.com/business/energy/sweden-plans-new-nuclear-reactors-by-2035-can-take-costs-2023-11-16/"
     ]
   ],
   [
@@ -295,8 +295,8 @@
       "https://news.ycombinator.com/item?id=38269458"
     ],
     [
-      "Roger Penrose – Interview – Is Mathematics Invented or Discovered?",
-      "https://abakcus.com/video/roger-penrose-is-mathematics-invented-or-discovered/"
+      "Is Mathematics Invented or Discovered? (2020) [video]",
+      "https://www.youtube.com/watch?v=ujvS2K06dg4"
     ]
   ]
 ]
