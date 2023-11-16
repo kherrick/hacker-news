@@ -6,6 +6,7 @@
 
 * [2023-11-16, 06:18:13](https://news.ycombinator.com/item?id=38286299) - [TIL — SQLite doesn't use Git, they wrote their own VCS](https://sqlite.org/whynotgit.html)
 * [2023-11-16, 05:51:37](https://news.ycombinator.com/item?id=38286202) - [Solitude as the Antidote to Misanthropy](https://www.christopherketcham.com/?p=441)
+* [2023-11-16, 05:45:09](https://news.ycombinator.com/item?id=38286170) - [WordPress plugins are a little sad?](https://chriscoyier.net/2023/11/13/the-top-wordpress-plugins-are-a-little-sad/)
 * [2023-11-16, 05:44:17](https://news.ycombinator.com/item?id=38286163) - [iMessage for Android](https://nothing.community/d/2968-introducing-nothing-chats)
 * [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
 * [2023-11-16, 04:11:48](https://news.ycombinator.com/item?id=38285730) - [Nolan Says Buy Oppenheimer on Blu-ray So No Evil Streaming Service Can Steal It](https://variety.com/2023/film/news/christopher-nolan-buy-oppenheimer-blu-ray-evil-streamers-1235790376/)
