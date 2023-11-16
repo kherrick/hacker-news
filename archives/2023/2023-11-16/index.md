@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 19:30:41](https://news.ycombinator.com/item?id=38294203) - [Federated Finetuning of OpenAI's Whisper on Raspberry Pi 5](https://flower.dev/blog/2023-11-15-federated-finetuning-of-openai-whisper-with-flower/)
 * [2023-11-16, 19:01:54](https://news.ycombinator.com/item?id=38293817) - [Hackers Know Everything Is Securities Fraud](https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud)
 * [2023-11-16, 18:58:40](https://news.ycombinator.com/item?id=38293777) - [Amazon announces online car sales for the first time, starting with Hyundai](https://www.theverge.com/2023/11/16/23964233/amazon-car-online-sale-hyundai-dealer-alexa)
 * [2023-11-16, 18:54:17](https://news.ycombinator.com/item?id=38293714) - [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)

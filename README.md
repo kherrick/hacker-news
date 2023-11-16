@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 19:30:41](https://news.ycombinator.com/item?id=38294203) - [Federated Finetuning of OpenAI's Whisper on Raspberry Pi 5](https://flower.dev/blog/2023-11-15-federated-finetuning-of-openai-whisper-with-flower/)
+* [2023-11-16, 19:01:54](https://news.ycombinator.com/item?id=38293817) - [Hackers Know Everything Is Securities Fraud](https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud)
 * [2023-11-16, 18:58:40](https://news.ycombinator.com/item?id=38293777) - [Amazon announces online car sales for the first time, starting with Hyundai](https://www.theverge.com/2023/11/16/23964233/amazon-car-online-sale-hyundai-dealer-alexa)
 * [2023-11-16, 18:54:17](https://news.ycombinator.com/item?id=38293714) - [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
 * [2023-11-16, 18:23:03](https://news.ycombinator.com/item?id=38293348) - [Apple to support RCS messaging standard next year](https://www.techradar.com/phones/iphone/breaking-apple-will-support-rcs-in-2024)
@@ -11,7 +13,6 @@
 * [2023-11-16, 16:39:42](https://news.ycombinator.com/item?id=38291735) - [The CWEB System of Structured Documentation](https://www-cs-faculty.stanford.edu/~knuth/cweb.html)
 * [2023-11-16, 16:35:17](https://news.ycombinator.com/item?id=38291673) - [Ohio commission approves fracking in state parks and wildlife areas](https://apnews.com/article/ohio-fracking-state-parks-8b8e73c6918e97e588d44855dc8b47eb)
 * [2023-11-16, 16:18:10](https://news.ycombinator.com/item?id=38291427) - [Privacy is priceless, but Signal is expensive](https://signal.org/blog/signal-is-expensive/)
-* [2023-11-16, 16:16:56](https://news.ycombinator.com/item?id=38291406) - [Bad bots account for most internet traffic? Analysis](https://www.securityweek.com/bad-bots-account-for-73-of-internet-traffic-analysis/)
 * [2023-11-16, 16:16:31](https://news.ycombinator.com/item?id=38291399) - [Ransomware Group Files SEC Complaint over Victim's Failure Disclose Data Breach](https://www.securityweek.com/ransomware-group-files-sec-complaint-over-victims-failure-to-disclose-data-breach/)
 * [2023-11-16, 16:04:42](https://news.ycombinator.com/item?id=38291199) - [Zimbra 0-day used to steal email data from government organizations](https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/)
 * [2023-11-16, 15:59:51](https://news.ycombinator.com/item?id=38291139) - [Emu Video and Emu Edit, our latest generative AI research milestones](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
@@ -23,7 +24,6 @@
 * [2023-11-16, 11:07:23](https://news.ycombinator.com/item?id=38288130) - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 09:34:20](https://news.ycombinator.com/item?id=38287435) - [Types of Conversations with Generative AI](https://www.nngroup.com/articles/AI-conversation-types/)
-* [2023-11-16, 09:17:34](https://news.ycombinator.com/item?id=38287299) - [A failed AI girlfriend product, and my lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
 * [2023-11-16, 09:12:15](https://news.ycombinator.com/item?id=38287257) - [Smart drugs reduce quality of effort, and slow decision-making](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating on a minimal two-core Postgres instance: Query optimization insights](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 13:34:57](https://news.ycombinator.com/item?id=38276430) - [Show HN: Numbat – A programming language with physical dimensions as types](https://numbat.dev/articles/intro.html)
