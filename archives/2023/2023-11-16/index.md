@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 15:22:55](https://news.ycombinator.com/item?id=38290646) - [Show HN: Beak.js – Custom conversational assistants for your React app](https://github.com/mme/beakjs)
 * [2023-11-16, 15:15:06](https://news.ycombinator.com/item?id=38290547) - [Never Event](https://en.wikipedia.org/wiki/Never_event)
 * [2023-11-16, 15:13:52](https://news.ycombinator.com/item?id=38290526) - [Walking has plummeted across America](https://www.axios.com/2023/11/16/walking-americans-declines-map)
 * [2023-11-16, 15:01:02](https://news.ycombinator.com/item?id=38290358) - [You Can Make Your Own Luck](https://www.wsj.com/lifestyle/workplace/some-people-are-just-lucky-you-can-make-yourself-one-of-them-5f7c7329)
