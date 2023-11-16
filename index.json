@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-11-16, 11:02:18",
-      "https://news.ycombinator.com/item?id=38288098"
+      "2023-11-16, 10:57:00",
+      "https://news.ycombinator.com/item?id=38288061"
     ],
     [
-      "The Extreme Ambitions of West Bank Settlers",
-      "https://www.newyorker.com/news/q-and-a/the-extreme-ambitions-of-west-bank-settlers"
+      "Removed: Document",
+      "https://www.theguardian.com/info/2023/nov/15/removed-document"
     ]
   ],
   [
@@ -71,22 +71,22 @@
   ],
   [
     [
+      "2023-11-16, 07:44:25",
+      "https://news.ycombinator.com/item?id=38286761"
+    ],
+    [
+      "LLMs by Hallucination Rate",
+      "https://github.com/vectara/hallucination-leaderboard"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 07:42:16",
       "https://news.ycombinator.com/item?id=38286750"
     ],
     [
       "Bertrand Russell: A Free Man's Worship",
       "http://www.positiveatheism.org/hist/russell1.htm"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 05:51:37",
-      "https://news.ycombinator.com/item?id=38286202"
-    ],
-    [
-      "Solitude as the antidote to misanthropy",
-      "https://www.christopherketcham.com/?p=441"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Show HN: OpenAI dev assistant GUI with local code interpreter",
       "https://github.com/agentcasa/doda"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 02:29:30",
+      "https://news.ycombinator.com/item?id=38285251"
+    ],
+    [
+      "How to build trust as a new engineering manager",
+      "https://becomingaleader.substack.com/p/how-to-build-trust"
     ]
   ],
   [
@@ -177,26 +187,6 @@
     [
       "Push ifs up and fors down",
       "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 21:25:35",
-      "https://news.ycombinator.com/item?id=38282728"
-    ],
-    [
-      "Language models and linguistic theories beyond words",
-      "https://www.nature.com/articles/s42256-023-00703-8"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 21:13:01",
-      "https://news.ycombinator.com/item?id=38282563"
-    ],
-    [
-      "Porting Stunt Car Racer to the Apple II",
-      "https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-11-15, 12:00:52",
-      "https://news.ycombinator.com/item?id=38275792"
+      "2023-11-15, 08:51:45",
+      "https://news.ycombinator.com/item?id=38274642"
     ],
     [
-      "Pseudoprose",
-      "https://taylor.town/pseudoprose"
+      "My primality testing code is faster than Sir Roger Penrose's",
+      "https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 04:56:18",
+      "https://news.ycombinator.com/item?id=38273488"
+    ],
+    [
+      "Bare Metal Emulation on the Raspberry Pi – Commodore 64",
+      "https://accentual.com/bmc64/"
     ]
   ]
 ]
