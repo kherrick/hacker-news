@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 15:15:06](https://news.ycombinator.com/item?id=38290547) - [Never Event](https://en.wikipedia.org/wiki/Never_event)
+* [2023-11-16, 15:13:52](https://news.ycombinator.com/item?id=38290526) - [Walking has plummeted across America](https://www.axios.com/2023/11/16/walking-americans-declines-map)
+* [2023-11-16, 15:01:02](https://news.ycombinator.com/item?id=38290358) - [You Can Make Your Own Luck](https://www.wsj.com/lifestyle/workplace/some-people-are-just-lucky-you-can-make-yourself-one-of-them-5f7c7329)
+* [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The Linux realtime preemption endgame is near](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
 * [2023-11-16, 14:30:40](https://news.ycombinator.com/item?id=38289935) - [ChatGPT Plus subscriptions are being listed on eBay after OpenAI blocked signups](https://www.businessinsider.com/chatgpt-plus-subscriptions-listed-on-ebay-after-openai-blocked-signups-2023-11)
 * [2023-11-16, 14:21:00](https://news.ycombinator.com/item?id=38289786) - [Dutch gov't wants to ban officials from using AI software](https://nltimes.nl/2023/11/16/dutch-govt-wants-ban-officials-using-ai-software)
 * [2023-11-16, 14:15:13](https://news.ycombinator.com/item?id=38289726) - [ChatGPT has 190 citations on Google Scholar](https://scholar.google.com/citations?user=ZMKC6MUAAAAJ&hl=en)
