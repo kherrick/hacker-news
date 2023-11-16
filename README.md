@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 01:31:07](https://news.ycombinator.com/item?id=38284862) - [SQLite4: The Design of SQLite4](https://sqlite.org/src4/doc/trunk/www/design.wiki)
 * [2023-11-15, 23:59:28](https://news.ycombinator.com/item?id=38284141) - [Common pesticides in food reducing sperm count worldwide, study says](https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html)
+* [2023-11-15, 23:45:54](https://news.ycombinator.com/item?id=38284020) - [The Guardian Deletes Osama Bin Laden's 'Letter to America'](https://www.404media.co/guardian-deletes-osama-bin-ladens-letter-to-america-after-it-goes-viral-on-tiktok/)
 * [2023-11-15, 23:23:01](https://news.ycombinator.com/item?id=38283860) - [\"Grand Ball Given by the Whales,\" Vanity Fair, April 20, 1861](https://energyhistory.yale.edu/grand-ball-given-by-the-whales-vanity-fair-april-20-1861/)
-* [2023-11-15, 23:02:54](https://news.ycombinator.com/item?id=38283788) - [Double-Checking Dawkins](https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1)
+* [2023-11-15, 23:02:54](https://news.ycombinator.com/item?id=38283788) - [Double-Checking Dawkins (2007)](https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1)
 * [2023-11-15, 21:41:20](https://news.ycombinator.com/item?id=38282950) - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:25:35](https://news.ycombinator.com/item?id=38282728) - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
 * [2023-11-15, 21:13:01](https://news.ycombinator.com/item?id=38282563) - [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
@@ -10,7 +12,6 @@
 * [2023-11-15, 20:17:27](https://news.ycombinator.com/item?id=38281848) - [Is my toddler a stochastic parrot?](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot)
 * [2023-11-15, 19:31:34](https://news.ycombinator.com/item?id=38281264) - [Firefox Is Going to Try and Ship with Wayland Enabled by Default](https://www.phoronix.com/news/Firefox-Change-Wayland-Release)
 * [2023-11-15, 19:21:54](https://news.ycombinator.com/item?id=38281137) - [Australia's overuse of antibiotics driving rate of drug-resistant infections](https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections)
-* [2023-11-15, 19:11:47](https://news.ycombinator.com/item?id=38280974) - [Azure announces new AI optimized VM series featuring AMD's flagship MI300X GPU](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/azure-announces-new-ai-optimized-vm-series-featuring-amd-s/ba-p/3980770)
 * [2023-11-15, 18:48:10](https://news.ycombinator.com/item?id=38280664) - [Running Redshift at Scale](https://blog.artie.so/best-practices-on-running-redshift-at-scale)
 * [2023-11-15, 18:35:42](https://news.ycombinator.com/item?id=38280472) - [Diskomator – NVMe-TCP at your fingertips](https://github.com/poettering/diskomator)
 * [2023-11-15, 18:15:46](https://news.ycombinator.com/item?id=38280201) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
@@ -27,7 +28,6 @@
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)
 * [2023-11-15, 11:13:34](https://news.ycombinator.com/item?id=38275487) - [Alan Kay: Doing with Images Makes Symbols (1987) [video]](https://archive.org/details/AlanKeyD1987)
 * [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
-* [2023-11-15, 09:04:05](https://news.ycombinator.com/item?id=38274714) - [Haroldbot, client-side tool that checks 32-bit bitvector arithmetic equivalence](http://haroldbot.nl/)
 * [2023-11-15, 08:51:45](https://news.ycombinator.com/item?id=38274642) - [My primality testing code is 6x faster than Sir Roger Penrose's](https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html)
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://accentual.com/bmc64/)
 
