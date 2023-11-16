@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 23:16:57](https://news.ycombinator.com/item?id=38283833) - [We No Longer Need a Big Carrier's Wireless Plan. Discount Ones Are the Way](https://www.nytimes.com/2023/11/15/technology/personaltech/we-no-longer-need-a-big-carriers-wireless-plan-discount-ones-are-the-way.html)
 * [2023-11-15, 22:33:08](https://news.ycombinator.com/item?id=38283562) - [Ford F-150 Lightning Breezes Up Obstacle Where Tesla Cybertruck Struggled](https://www.thedrive.com/news/ford-f-150-lightning-breezes-up-obstacle-where-tesla-cybertruck-struggled)
 * [2023-11-15, 21:42:36](https://news.ycombinator.com/item?id=38282969) - [Meta allows ads saying 2020 election was rigged on Facebook and Instagram](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy)
 * [2023-11-15, 21:41:20](https://news.ycombinator.com/item?id=38282950) - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:25:35](https://news.ycombinator.com/item?id=38282728) - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
+* [2023-11-15, 21:13:01](https://news.ycombinator.com/item?id=38282563) - [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
 * [2023-11-15, 20:42:30](https://news.ycombinator.com/item?id=38282166) - [Blender 16yo winner of UK younganimator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 * [2023-11-15, 20:24:23](https://news.ycombinator.com/item?id=38281944) - [NTSB Calls for Technology to Reduce Speeding in All New Cars](https://www.ntsb.gov:443/news/press-releases/Pages/NR20231114.aspx)
 * [2023-11-15, 20:20:26](https://news.ycombinator.com/item?id=38281898) - [Plane forced to turn back to JFK after horse breaks loose onboard](https://www.independent.co.uk/travel/news-and-advice/horse-loose-plane-flight-divert-b2447854.html)
@@ -43,6 +45,7 @@
 * [2023-11-15, 16:45:26](https://news.ycombinator.com/item?id=38278786) - [Microsoft introduces its own chips for AI, with eye on cost](https://www.reuters.com/technology/microsoft-introduces-its-own-chips-ai-with-eye-cost-2023-11-15/)
 * [2023-11-15, 16:37:42](https://news.ycombinator.com/item?id=38278657) - [The battle over right to repair is a fight over your car's data](https://theconversation.com/the-battle-over-right-to-repair-is-a-fight-over-your-cars-data-213052)
 * [2023-11-15, 16:18:28](https://news.ycombinator.com/item?id=38278380) - [On Cultures That Build (2020)](https://scholars-stage.org/on-cultures-that-build/)
+* [2023-11-15, 16:09:19](https://news.ycombinator.com/item?id=38278246) - [AI tool helps ecologists monitor rare birds through their songs](https://www.britishecologicalsociety.org/new-deep-learning-ai-tool-helps-ecologists-monitor-rare-birds-through-their-songs/)
 * [2023-11-15, 16:09:10](https://news.ycombinator.com/item?id=38278245) - [Comets that 'bounce' from planet to planet could spread life across the universe](https://www.space.com/comets-bouncing-seed-life-on-exoplanets)
 * [2023-11-15, 16:02:51](https://news.ycombinator.com/item?id=38278171) - [The first two custom silicon chips designed by Microsoft for its cloud](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
 * [2023-11-15, 15:57:26](https://news.ycombinator.com/item?id=38278083) - [The Principle of Least Power (2007)](https://blog.codinghorror.com/the-principle-of-least-power/)
