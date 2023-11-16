@@ -24,10 +24,10 @@
 * [2023-11-15, 16:02:51](https://news.ycombinator.com/item?id=38278171) - [The first two custom silicon chips designed by Microsoft for its cloud](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure)
 * [2023-11-15, 15:44:23](https://news.ycombinator.com/item?id=38277926) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 * [2023-11-15, 15:06:19](https://news.ycombinator.com/item?id=38277361) - [Canned food went from military rations to fancy appetizers](https://www.atlasobscura.com/articles/canned-food-history)
-* [2023-11-15, 14:56:51](https://news.ycombinator.com/item?id=38277248) - [Show HN: MonkeyPatch – Cheap, fast and predictable LLM functions in Python](https://github.com/monkeypatch/monkeypatch.py)
 * [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The truth is always made of details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
 * [2023-11-15, 14:02:50](https://news.ycombinator.com/item?id=38276680) - [The Great Sphinx of Giza may have have started out as a natural formation](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)
+* [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
 * [2023-11-15, 08:51:45](https://news.ycombinator.com/item?id=38274642) - [My primality testing code is faster than Sir Roger Penrose's](https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html)
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://accentual.com/bmc64/)
 
