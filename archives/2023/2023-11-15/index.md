@@ -73,6 +73,7 @@
 * [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
 * [2023-11-15, 14:23:43](https://news.ycombinator.com/item?id=38276883) - [The 'Georgists' Are Out and they want to tax your land](https://www.nytimes.com/2023/11/12/business/georgism-land-tax-housing.html)
 * [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The Truth Is Always Made of Details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
+* [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating an Entire Company on a Minimal Two-Core PostgreSQL Instance, Part 1](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 14:02:50](https://news.ycombinator.com/item?id=38276680) - [Nature may have helped sculpt the Great Sphinx of Giza](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
 * [2023-11-15, 14:00:21](https://news.ycombinator.com/item?id=38276657) - [A defined process for project post mortem review (1996)](https://ieeexplore.ieee.org/document/526833)
 * [2023-11-15, 13:44:21](https://news.ycombinator.com/item?id=38276518) - [COBOL for GCC Development](https://cobolworx.com/pages/cobforgcc.html)
