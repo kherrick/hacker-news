@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
+* [2023-11-16, 20:50:35](https://news.ycombinator.com/item?id=38295285) - [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39)
 * [2023-11-16, 20:13:31](https://news.ycombinator.com/item?id=38294822) - [Microsoft wants to move Windows to the cloud](https://www.theverge.com/2023/6/27/23775117/microsoft-windows-11-cloud-consumer-strategy)
 * [2023-11-16, 20:05:25](https://news.ycombinator.com/item?id=38294723) - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
 * [2023-11-16, 19:58:29](https://news.ycombinator.com/item?id=38294623) - [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
+* [2023-11-16, 20:50:35](https://news.ycombinator.com/item?id=38295285) - [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39)
 * [2023-11-16, 20:05:25](https://news.ycombinator.com/item?id=38294723) - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)
 * [2023-11-16, 19:58:29](https://news.ycombinator.com/item?id=38294623) - [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
 * [2023-11-16, 19:54:59](https://news.ycombinator.com/item?id=38294569) - [Moving from AWS to Bare-Metal saved us 230k$ /yr](https://blog.oneuptime.com/moving-from-aws-to-bare-metal/)
@@ -28,7 +29,6 @@
 * [2023-11-15, 14:08:03](https://news.ycombinator.com/item?id=38276727) - [Operating on a minimal two-core Postgres instance: Query optimization insights](https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html)
 * [2023-11-15, 13:33:13](https://news.ycombinator.com/item?id=38276418) - [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 * [2023-11-15, 11:47:00](https://news.ycombinator.com/item?id=38275698) - [Hello World on the GPU (2019)](https://acko.net/blog/hello-world-on-the-gpu/)
-* [2023-11-15, 07:23:56](https://news.ycombinator.com/item?id=38274160) - [Escaping the Edge sandbox: A bug that speaks for itself](https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 
 ## [Archives](archives/index.md)
