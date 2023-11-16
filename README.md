@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 04:11:48](https://news.ycombinator.com/item?id=38285730) - [Nolan Says Buy Oppenheimer on Blu-ray So No Evil Streaming Service Can Steal It](https://variety.com/2023/film/news/christopher-nolan-buy-oppenheimer-blu-ray-evil-streamers-1235790376/)
 * [2023-11-16, 04:11:35](https://news.ycombinator.com/item?id=38285729) - [Removed Document](https://www.theguardian.com/info/2023/nov/15/removed-document)
 * [2023-11-16, 02:29:30](https://news.ycombinator.com/item?id=38285251) - [How to build trust as a new engineering manager](https://becomingaleader.substack.com/p/how-to-build-trust)
 * [2023-11-16, 00:06:12](https://news.ycombinator.com/item?id=38284196) - [Investigating the Impact of Cold Plunges on Brain Activity Using EEG](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
@@ -21,13 +22,12 @@
 * [2023-11-15, 15:06:19](https://news.ycombinator.com/item?id=38277361) - [Canned food went from military rations to fancy appetizers](https://www.atlasobscura.com/articles/canned-food-history)
 * [2023-11-15, 14:56:51](https://news.ycombinator.com/item?id=38277248) - [Show HN: MonkeyPatch – Cheap, fast and predictable LLM functions in Python](https://github.com/monkeypatch/monkeypatch.py)
 * [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis (2021)](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
+* [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The Truth Is Always Made of Details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
 * [2023-11-15, 14:02:50](https://news.ycombinator.com/item?id=38276680) - [The Great Sphinx of Giza may have have started out as a natural formation](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
-* [2023-11-15, 13:44:21](https://news.ycombinator.com/item?id=38276518) - [COBOL for GCC Development](https://cobolworx.com/pages/cobforgcc.html)
 * [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)
 * [2023-11-15, 11:13:34](https://news.ycombinator.com/item?id=38275487) - [Alan Kay: Doing with Images Makes Symbols (1987) [video]](https://archive.org/details/AlanKeyD1987)
 * [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
-* [2023-11-15, 09:21:26](https://news.ycombinator.com/item?id=38274810) - [Rebooting an Abandoned Car Wash in the Ozarks](https://typefully.com/NeoYokel/9HHtfFn)
 * [2023-11-15, 08:51:45](https://news.ycombinator.com/item?id=38274642) - [My primality testing code is 6x faster than Sir Roger Penrose's](https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html)
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://accentual.com/bmc64/)
 
