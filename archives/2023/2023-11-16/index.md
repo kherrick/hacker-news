@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
 * [2023-11-16, 04:11:48](https://news.ycombinator.com/item?id=38285730) - [Nolan Says Buy Oppenheimer on Blu-ray So No Evil Streaming Service Can Steal It](https://variety.com/2023/film/news/christopher-nolan-buy-oppenheimer-blu-ray-evil-streamers-1235790376/)
 * [2023-11-16, 04:11:35](https://news.ycombinator.com/item?id=38285729) - [Removed Document](https://www.theguardian.com/info/2023/nov/15/removed-document)
+* [2023-11-16, 04:10:28](https://news.ycombinator.com/item?id=38285724) - [C++: The Most Important Complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
 * [2023-11-16, 03:13:00](https://news.ycombinator.com/item?id=38285482) - [Show HN: OpenAI dev assistant GUI with local code interpreter](https://github.com/agentcasa/doda)
 * [2023-11-16, 02:29:30](https://news.ycombinator.com/item?id=38285251) - [How to Build Trust as a New Engineering Manager](https://becomingaleader.substack.com/p/how-to-build-trust)
 * [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)

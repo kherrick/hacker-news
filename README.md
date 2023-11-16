@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
+* [2023-11-16, 04:10:28](https://news.ycombinator.com/item?id=38285724) - [C++: The Most Important Complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
 * [2023-11-16, 03:13:00](https://news.ycombinator.com/item?id=38285482) - [Show HN: OpenAI dev assistant GUI with local code interpreter](https://github.com/agentcasa/doda)
 * [2023-11-16, 02:29:30](https://news.ycombinator.com/item?id=38285251) - [How to build trust as a new engineering manager](https://becomingaleader.substack.com/p/how-to-build-trust)
 * [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
@@ -21,10 +23,8 @@
 * [2023-11-15, 15:29:43](https://news.ycombinator.com/item?id=38277701) - [I visited over 120 EV chargers: why so many were broken](https://www.msn.com/en-us/money/companies/i-visited-over-120-ev-chargers-three-reasons-why-so-many-were-broken/ar-AA1jXDcA)
 * [2023-11-15, 15:06:19](https://news.ycombinator.com/item?id=38277361) - [Canned food went from military rations to fancy appetizers](https://www.atlasobscura.com/articles/canned-food-history)
 * [2023-11-15, 14:56:51](https://news.ycombinator.com/item?id=38277248) - [Show HN: MonkeyPatch – Cheap, fast and predictable LLM functions in Python](https://github.com/monkeypatch/monkeypatch.py)
-* [2023-11-15, 14:31:36](https://news.ycombinator.com/item?id=38276951) - [The Small Website Discoverability Crisis (2021)](https://www.marginalia.nu/log/19-website-discoverability-crisis/)
 * [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The Truth Is Always Made of Details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
 * [2023-11-15, 14:02:50](https://news.ycombinator.com/item?id=38276680) - [The Great Sphinx of Giza may have have started out as a natural formation](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
-* [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)
 * [2023-11-15, 11:13:34](https://news.ycombinator.com/item?id=38275487) - [Alan Kay: Doing with Images Makes Symbols (1987) [video]](https://archive.org/details/AlanKeyD1987)
 * [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
