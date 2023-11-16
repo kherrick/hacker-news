@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 18:04:54](https://news.ycombinator.com/item?id=38293082) - [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
 * [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
+* [2023-11-16, 17:03:49](https://news.ycombinator.com/item?id=38292102) - [std::source_location Is Broken](https://www.elbeno.com/blog/?p=1738)
 * [2023-11-16, 16:55:06](https://news.ycombinator.com/item?id=38291969) - [U.S. states sue Instagram owner for making social media addictive to kids](https://www.cbc.ca/news/business/meta-lawsuit-children-addictive-1.7006259)
 * [2023-11-16, 16:53:39](https://news.ycombinator.com/item?id=38291949) - [The impossibility of rationally analyzing partisan news](https://www.lesswrong.com/posts/uPGoNN3w2JhmrC6DE/the-impossibility-of-rationally-analyzing-partisan-news)
 * [2023-11-16, 16:48:44](https://news.ycombinator.com/item?id=38291880) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
