@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
-* [2023-11-16, 09:17:34](https://news.ycombinator.com/item?id=38287299) - [A Failed AI Girlfriend Product, and My Lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
 * [2023-11-16, 08:46:36](https://news.ycombinator.com/item?id=38287095) - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 08:39:29](https://news.ycombinator.com/item?id=38287043) - [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 * [2023-11-16, 08:16:59](https://news.ycombinator.com/item?id=38286941) - [HHKB Studio: The New Happy Hacking Keyboard with TrackPoint](https://hhkeyboard.us/hhkb-studio/product)
@@ -27,6 +26,7 @@
 * [2023-11-15, 15:06:19](https://news.ycombinator.com/item?id=38277361) - [Canned food went from military rations to fancy appetizers](https://www.atlasobscura.com/articles/canned-food-history)
 * [2023-11-15, 14:09:17](https://news.ycombinator.com/item?id=38276743) - [The truth is always made of details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/)
 * [2023-11-15, 14:02:50](https://news.ycombinator.com/item?id=38276680) - [The Great Sphinx of Giza may have have started out as a natural formation](https://arstechnica.com/science/2023/11/study-reveals-how-natural-processes-helped-sculpt-the-great-sphinx-of-giza/)
+* [2023-11-15, 12:46:58](https://news.ycombinator.com/item?id=38276075) - [WASM by example](https://wasmbyexample.dev/home.en-us.html)
 * [2023-11-15, 12:00:52](https://news.ycombinator.com/item?id=38275792) - [Pseudoprose](https://taylor.town/pseudoprose)
 * [2023-11-15, 11:13:34](https://news.ycombinator.com/item?id=38275487) - [Alan Kay: Doing with Images Makes Symbols (1987) [video]](https://archive.org/details/AlanKeyD1987)
 * [2023-11-15, 08:51:45](https://news.ycombinator.com/item?id=38274642) - [My primality testing code is faster than Sir Roger Penrose's](https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html)
