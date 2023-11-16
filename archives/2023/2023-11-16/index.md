@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 13:40:51](https://news.ycombinator.com/item?id=38289376) - [Show HN: Near-realtime cloud maps for visualisations, 3D modelling and more](https://github.com/matteason/live-cloud-maps)
 * [2023-11-16, 12:58:43](https://news.ycombinator.com/item?id=38289002) - [St. Petersburg artist Sasha Skochilenko sentenced to seven years in prison](https://meduza.io/en/news/2023/11/16/st-petersburg-artist-sasha-skochilenko-sentenced-to-seven-years-in-prison)
 * [2023-11-16, 12:56:45](https://news.ycombinator.com/item?id=38288980) - [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 * [2023-11-16, 12:56:39](https://news.ycombinator.com/item?id=38288977) - [YouTube cracks down on synthetic media with AI disclosure requirement](https://arstechnica.com/information-technology/2023/11/youtube-will-require-creators-to-disclose-realistic-ai-generated-or-altered-content/)
