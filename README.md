@@ -2,6 +2,7 @@
 
 * [2023-11-16, 11:07:23](https://news.ycombinator.com/item?id=38288130) - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
 * [2023-11-16, 11:02:41](https://news.ycombinator.com/item?id=38288102) - [Show HN: GPT-4 Turbo with integrated DALL-E 3](https://flowch.ai/shared/840bff3d-0e55-4793-8397-b9fcd81bc3ed)
+* [2023-11-16, 10:52:11](https://news.ycombinator.com/item?id=38288020) - ['No one else is saving it': the fight to protect a historic music collection](https://www.theguardian.com/music/2023/nov/16/archive-of-contemporary-music-new-york)
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 08:46:36](https://news.ycombinator.com/item?id=38287095) - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 08:39:29](https://news.ycombinator.com/item?id=38287043) - [Google: Transforming the Future of Music Creation](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
@@ -9,7 +10,6 @@
 * [2023-11-16, 05:51:37](https://news.ycombinator.com/item?id=38286202) - [Solitude as the antidote to misanthropy](https://www.christopherketcham.com/?p=441)
 * [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
 * [2023-11-16, 03:13:00](https://news.ycombinator.com/item?id=38285482) - [Show HN: OpenAI dev assistant GUI with local code interpreter](https://github.com/agentcasa/doda)
-* [2023-11-16, 02:29:30](https://news.ycombinator.com/item?id=38285251) - [How to build trust as a new engineering manager](https://becomingaleader.substack.com/p/how-to-build-trust)
 * [2023-11-16, 02:27:40](https://news.ycombinator.com/item?id=38285228) - [Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)](https://github.com/abi/screenshot-to-code)
 * [2023-11-16, 00:06:12](https://news.ycombinator.com/item?id=38284196) - [Investigating the impact of cold plunges on brain activity](https://neurofusionresearchinc.notion.site/Investigating-the-Impact-of-Cold-Plunges-on-Brain-Activity-99cdaa69889542fc8ef123ee9fe5130c?pvs=4)
 * [2023-11-16, 00:00:35](https://news.ycombinator.com/item?id=38284150) - [SpaceX Starship/Super Heavy OFT-2 Launch Authorized](https://www.faa.gov/media/69476)

@@ -6,6 +6,7 @@
 
 * [2023-11-16, 11:07:23](https://news.ycombinator.com/item?id=38288130) - [I think I need to go lie down](https://twitter.com/multikev/status/1724908185361011108)
 * [2023-11-16, 11:02:41](https://news.ycombinator.com/item?id=38288102) - [Show HN: GPT-4 Turbo with integrated DALL-E 3](https://flowch.ai/shared/840bff3d-0e55-4793-8397-b9fcd81bc3ed)
+* [2023-11-16, 10:52:11](https://news.ycombinator.com/item?id=38288020) - ['No one else is saving it': the fight to protect a historic music collection](https://www.theguardian.com/music/2023/nov/16/archive-of-contemporary-music-new-york)
 * [2023-11-16, 09:52:40](https://news.ycombinator.com/item?id=38287554) - [DOS_deck: Play DOS games in the browser with full controller support](https://dosdeck.com/)
 * [2023-11-16, 09:17:34](https://news.ycombinator.com/item?id=38287299) - [A Failed AI Girlfriend Product, and My Lessons](https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/)
 * [2023-11-16, 08:46:36](https://news.ycombinator.com/item?id=38287095) - [The push to save the Itanium architecture in Linux](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
