@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-16, 16:22:52",
+      "https://news.ycombinator.com/item?id=38291490"
+    ],
+    [
+      "Running Signal Will Soon Cost $50 Million a Year",
+      "https://www.wired.com/story/signal-operating-costs/"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 16:18:10",
+      "https://news.ycombinator.com/item?id=38291427"
+    ],
+    [
+      "Privacy is Priceless, but Signal is Expensive",
+      "https://signal.org/blog/signal-is-expensive/"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 16:16:56",
       "https://news.ycombinator.com/item?id=38291406"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-11-16, 03:33:38",
-      "https://news.ycombinator.com/item?id=38285589"
-    ],
-    [
-      "Rolls-royce confirms all of its current engines can run on 100 percent SAF",
-      "https://www.flyingmag.com/rolls-royce-confirms-all-of-its-current-engines-can-run-on-100-percent-saf/"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 02:27:40",
       "https://news.ycombinator.com/item?id=38285228"
     ],
     [
       "Show HN: Convert any screenshot into clean HTML code using GPT Vision (OSS tool)",
       "https://github.com/abi/screenshot-to-code"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 21:41:20",
-      "https://news.ycombinator.com/item?id=38282950"
-    ],
-    [
-      "Push ifs up and fors down",
-      "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
     ]
   ],
   [
