@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
 * [2023-11-16, 16:55:06](https://news.ycombinator.com/item?id=38291969) - [U.S. states sue Instagram owner for making social media addictive to kids](https://www.cbc.ca/news/business/meta-lawsuit-children-addictive-1.7006259)
+* [2023-11-16, 16:53:39](https://news.ycombinator.com/item?id=38291949) - [The impossibility of rationally analyzing partisan news](https://www.lesswrong.com/posts/uPGoNN3w2JhmrC6DE/the-impossibility-of-rationally-analyzing-partisan-news)
+* [2023-11-16, 16:48:44](https://news.ycombinator.com/item?id=38291880) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 * [2023-11-16, 16:35:17](https://news.ycombinator.com/item?id=38291673) - [Ohio commission approves fracking in state parks and wildlife areas](https://apnews.com/article/ohio-fracking-state-parks-8b8e73c6918e97e588d44855dc8b47eb)
 * [2023-11-16, 16:22:52](https://news.ycombinator.com/item?id=38291490) - [Running Signal Will Soon Cost $50 Million a Year](https://www.wired.com/story/signal-operating-costs/)
 * [2023-11-16, 16:18:10](https://news.ycombinator.com/item?id=38291427) - [Privacy is Priceless, but Signal is Expensive](https://signal.org/blog/signal-is-expensive/)
