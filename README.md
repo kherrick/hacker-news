@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-17, 10:20:33](https://news.ycombinator.com/item?id=38301644) - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
 * [2023-11-17, 06:55:28](https://news.ycombinator.com/item?id=38300403) - [How I optimized Portal to run on the Nintendo 64 [video]](https://www.youtube.com/watch?v=r4KGm7ixcqI)
 * [2023-11-17, 05:18:56](https://news.ycombinator.com/item?id=38299888) - [I Analyzed StackOverflow for Secrets](https://matan-h.com/analyze-stackoverflow)
 * [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
-* [2023-11-17, 02:40:26](https://news.ycombinator.com/item?id=38298694) - [HTML Web Components: An Example](https://blog.jim-nielsen.com/2023/html-web-components-an-example/)
 * [2023-11-17, 00:49:31](https://news.ycombinator.com/item?id=38297805) - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
 * [2023-11-16, 22:40:18](https://news.ycombinator.com/item?id=38296667) - [Pointer Pointer](https://pointerpointer.com/)
 * [2023-11-16, 22:16:01](https://news.ycombinator.com/item?id=38296377) - [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
