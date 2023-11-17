@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 17:01:07](https://news.ycombinator.com/item?id=38306317) - [Ashby (YC W19) Is Hiring a Remote SRE to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=443ded5b-4baf-4bdc-8081-1666b4cb7ee3)
+* [2023-11-17, 16:52:28](https://news.ycombinator.com/item?id=38306174) - [With trillions at play, Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
 * [2023-11-17, 16:45:43](https://news.ycombinator.com/item?id=38306061) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
+* [2023-11-17, 16:45:34](https://news.ycombinator.com/item?id=38306057) - [Putting the \"J\" in the RPG, Part 1: Dorakue](https://www.filfre.net/2023/11/putting-the-j-in-the-rpg-part-1-dorakue/)
 * [2023-11-17, 16:34:15](https://news.ycombinator.com/item?id=38305860) - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
+* [2023-11-17, 16:30:07](https://news.ycombinator.com/item?id=38305787) - [A game about staring into the eyes of a stranger](https://stranger.video/)
 * [2023-11-17, 15:52:41](https://news.ycombinator.com/item?id=38305234) - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:49:16](https://news.ycombinator.com/item?id=38305187) - [Apple files legal challenge to EU's Digital Markets Act](https://www.reuters.com/legal/transactional/apple-files-legal-challenge-eus-digital-markets-act-2023-11-17/)
 * [2023-11-17, 15:44:21](https://news.ycombinator.com/item?id=38305111) - [Amazon will cut 'several hundred' Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
@@ -14,6 +18,7 @@
 * [2023-11-17, 15:28:01](https://news.ycombinator.com/item?id=38304872) - [Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
 * [2023-11-17, 15:02:26](https://news.ycombinator.com/item?id=38304485) - [280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
 * [2023-11-17, 14:44:58](https://news.ycombinator.com/item?id=38304290) - [Wikidata, with 12B facts, can ground LLMs to improve their factuality](https://twitter.com/WikiResearch/status/1723966761962520824)
+* [2023-11-17, 14:34:34](https://news.ycombinator.com/item?id=38304148) - [Show HN: less than 650 LOC trainable GPT only using NumPy (no framework)](https://github.com/joennlae/tensorli)
 * [2023-11-17, 14:32:14](https://news.ycombinator.com/item?id=38304109) - [FCC Is Trying to Stop Discrimination in Broadband Deployment. Telecoms Are Mad](https://www.techdirt.com/2023/11/17/the-fcc-is-trying-to-stop-discrimination-in-broadband-deployment-telecoms-and-republicans-are-big-mad-about-it/)
 * [2023-11-17, 14:18:07](https://news.ycombinator.com/item?id=38303898) - [US business elite welcomes Xi Jinping with standing ovation](https://www.ft.com/content/a8633d7f-f785-4195-b0b2-0ea9506968c9)
 * [2023-11-17, 14:15:37](https://news.ycombinator.com/item?id=38303848) - [The $1.5T Nuclear Weapons Program You've Never Heard Of](https://www.scientificamerican.com/article/inside-the-1-5-trillion-nuclear-weapons-program-youve-never-heard-of/)
