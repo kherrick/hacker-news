@@ -95,6 +95,7 @@
 * [2023-11-15, 11:13:34](https://news.ycombinator.com/item?id=38275487) - [Alan Kay: Doing with Images Makes Symbols (1987) [video]](https://archive.org/details/AlanKeyD1987)
 * [2023-11-15, 10:56:22](https://news.ycombinator.com/item?id=38275384) - [She lived in a New York hotel for more than 40 years. But her life was a mystery](https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery)
 * [2023-11-15, 10:01:07](https://news.ycombinator.com/item?id=38275060) - [Gut epithelial barrier damage caused by dishwasher detergents and rinse aids](https://www.sciencedirect.com/science/article/pii/S0091674922014774)
+* [2023-11-15, 09:50:05](https://news.ycombinator.com/item?id=38274992) - [Parcplace: Making a Business out of Objects [video]](https://www.youtube.com/watch?v=cL1aNpijtOM)
 * [2023-11-15, 09:39:08](https://news.ycombinator.com/item?id=38274923) - [Obfuscating Lua (2019)](https://gist.github.com/shakna-israel/7cd4251d1a6b7b9ebd3a9b2a26cbbfb8)
 * [2023-11-15, 09:32:33](https://news.ycombinator.com/item?id=38274872) - [Use Timestamps](https://jankremer.eu/micro/timestamps/)
 * [2023-11-15, 09:21:26](https://news.ycombinator.com/item?id=38274810) - [Rebooting an Abandoned Car Wash in the Ozarks](https://typefully.com/NeoYokel/9HHtfFn)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 14:15:37](https://news.ycombinator.com/item?id=38303848) - [The $1.5T Nuclear Weapons Program You've Never Heard Of](https://www.scientificamerican.com/article/inside-the-1-5-trillion-nuclear-weapons-program-youve-never-heard-of/)
 * [2023-11-17, 13:24:21](https://news.ycombinator.com/item?id=38303159) - [The night train revolution has been hailed as an alternative to airplanes](https://www.cnn.com/travel/night-train-revolution-alternative-to-planes/index.html)
 * [2023-11-17, 13:10:27](https://news.ycombinator.com/item?id=38302975) - [Ivy League Backlash Draws Money, Students to Upstart University in Texas](https://www.bloomberg.com/news/articles/2023-11-17/university-of-austin-uatx-draws-donors-as-israel-backlash-hits-harvard-upenn)
 * [2023-11-17, 13:03:06](https://news.ycombinator.com/item?id=38302903) - [The Changing \"Guarantees\" Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
