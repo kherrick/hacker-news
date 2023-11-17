@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-17, 18:35:36",
+      "https://news.ycombinator.com/item?id=38307889"
+    ],
+    [
+      "Half-Life 25th Anniversary Update",
+      "https://www.half-life.com/en/halflife25/"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 18:12:57",
       "https://news.ycombinator.com/item?id=38307538"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-11-17, 17:39:44",
-      "https://news.ycombinator.com/item?id=38307008"
+      "2023-11-17, 18:02:28",
+      "https://news.ycombinator.com/item?id=38307367"
     ],
     [
-      "It's true – your devices are listening to you",
-      "https://mastodon.social/@Privacymatters/111422828004357808"
+      "Starship lunar lander missions to require nearly 20 launches, NASA says",
+      "https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/"
     ]
   ],
   [
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2023-11-17, 16:54:42",
-      "https://news.ycombinator.com/item?id=38306221"
+      "2023-11-17, 16:54:31",
+      "https://news.ycombinator.com/item?id=38306215"
     ],
     [
-      "Red flag questions to ask in a Linux interview",
-      "https://blog.abctaylor.com/five-red-flag-questions-to-ask-in-a-linux-job-interview/"
+      "IBM pauses advertising on X after ads show up next to antisemitic content",
+      "https://www.theregister.com/2023/11/17/ibm_pauses_advertising_on_x/"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2023-11-17, 09:52:26",
-      "https://news.ycombinator.com/item?id=38301480"
-    ],
-    [
-      "'Energy independent' Uruguay runs on 100% renewables for four straight months",
-      "https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 05:18:56",
       "https://news.ycombinator.com/item?id=38299888"
     ],
     [
       "I analyzed Stack Overflow for secrets",
       "https://matan-h.com/analyze-stackoverflow"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 02:40:31",
-      "https://news.ycombinator.com/item?id=38298695"
-    ],
-    [
-      "Arithmetic in Computer Hardware",
-      "https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Canonical Launches MicroCloud to Deploy Your Own \"Fully Functional Cloud\"",
       "https://www.phoronix.com/news/Canonical-Ubuntu-MicroCloud"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 06:50:26",
+      "https://news.ycombinator.com/item?id=38274003"
+    ],
+    [
+      "Exploring the OpenTelemetry Collector",
+      "https://blog.frankel.ch/opentelemetry-collector/"
     ]
   ]
 ]
