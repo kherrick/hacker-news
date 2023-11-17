@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-17, 13:24:21](https://news.ycombinator.com/item?id=38303159) - [The night train revolution has been hailed as an alternative to airplanes](https://www.cnn.com/travel/night-train-revolution-alternative-to-planes/index.html)
-* [2023-11-17, 13:10:27](https://news.ycombinator.com/item?id=38302975) - [Ivy League Backlash Draws Money, Students to Upstart University in Texas](https://www.bloomberg.com/news/articles/2023-11-17/university-of-austin-uatx-draws-donors-as-israel-backlash-hits-harvard-upenn)
 * [2023-11-17, 12:48:36](https://news.ycombinator.com/item?id=38302780) - [Almost No One Pays a 6% Real-Estate Commission–Except Americans](https://www.wsj.com/personal-finance/real-estate-buying-home-charts-6dc40caa)
 * [2023-11-17, 12:34:43](https://news.ycombinator.com/item?id=38302635) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 12:34:37](https://news.ycombinator.com/item?id=38302634) - [YouTube Copyright ID Scammers Must Pay Artists $3.3M Restitution](https://torrentfreak.com/youtube-copyright-id-scammers-must-pay-artists-3-3m-restitution-231116/)
@@ -29,6 +28,7 @@
 * [2023-11-14, 21:58:12](https://news.ycombinator.com/item?id=38270415) - [Towards a Logical Definition of Emergence [video]](https://www.youtube.com/watch?v=6kMB7lRoEw4)
 * [2023-11-14, 21:54:22](https://news.ycombinator.com/item?id=38270360) - [How to write a cold email (2020)](https://sriramk.com/coldemail)
 * [2023-11-14, 21:53:13](https://news.ycombinator.com/item?id=38270342) - [All-electric organic laser is a first](https://physicsworld.com/a/all-electric-organic-laser-is-a-first/)
+* [2023-11-14, 21:50:31](https://news.ycombinator.com/item?id=38270306) - [A prototype for a new, quiet, thermoacoustic Stirling generator](https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper)
 * [2023-11-14, 20:49:10](https://news.ycombinator.com/item?id=38269531) - [How Stone Walls Became a Signature Landform of New England](https://www.smithsonianmag.com/travel/how-stone-walls-became-a-signature-landform-of-new-england-180983250/)
 
 ## [Archives](archives/index.md)
