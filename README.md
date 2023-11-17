@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-17, 16:45:43](https://news.ycombinator.com/item?id=38306061) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 * [2023-11-17, 16:34:15](https://news.ycombinator.com/item?id=38305860) - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
 * [2023-11-17, 15:52:41](https://news.ycombinator.com/item?id=38305234) - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:49:16](https://news.ycombinator.com/item?id=38305187) - [Apple files legal challenge to EU's Digital Markets Act](https://www.reuters.com/legal/transactional/apple-files-legal-challenge-eus-digital-markets-act-2023-11-17/)
 * [2023-11-17, 15:44:21](https://news.ycombinator.com/item?id=38305111) - [Amazon will cut 'several hundred' Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
 * [2023-11-17, 15:43:20](https://news.ycombinator.com/item?id=38305097) - [Amazon cuts 'several hundred' jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
-* [2023-11-17, 15:41:36](https://news.ycombinator.com/item?id=38305073) - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
 * [2023-11-17, 15:02:26](https://news.ycombinator.com/item?id=38304485) - [280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
 * [2023-11-17, 14:44:58](https://news.ycombinator.com/item?id=38304290) - [Wikidata, with 12B facts, can ground LLMs to improve their factuality](https://twitter.com/WikiResearch/status/1723966761962520824)
 * [2023-11-17, 14:32:14](https://news.ycombinator.com/item?id=38304109) - [FCC Is Trying to Stop Discrimination in Broadband Deployment. Telecoms Are Mad](https://www.techdirt.com/2023/11/17/the-fcc-is-trying-to-stop-discrimination-in-broadband-deployment-telecoms-and-republicans-are-big-mad-about-it/)

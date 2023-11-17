@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 16:45:43](https://news.ycombinator.com/item?id=38306061) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 * [2023-11-17, 16:34:15](https://news.ycombinator.com/item?id=38305860) - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
 * [2023-11-17, 15:52:41](https://news.ycombinator.com/item?id=38305234) - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:49:16](https://news.ycombinator.com/item?id=38305187) - [Apple files legal challenge to EU's Digital Markets Act](https://www.reuters.com/legal/transactional/apple-files-legal-challenge-eus-digital-markets-act-2023-11-17/)
