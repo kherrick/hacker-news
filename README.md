@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-17, 22:36:55](https://news.ycombinator.com/item?id=38311509) - [Sam Altman's sister, Annie Altman, claims Sam has severely abused her](https://www.lesswrong.com/posts/QDczBduZorG4dxZiW/sam-altman-s-sister-annie-altman-claims-sam-has-severely)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
 * [2023-11-17, 22:00:02](https://news.ycombinator.com/item?id=38311076) - [I wrote in June 2021 how Sam Altman's departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
+* [2023-11-17, 21:53:53](https://news.ycombinator.com/item?id=38311001) - [Sam Altman tweet after being fired](https://twitter.com/sama/status/1725631621511184771)
 * [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
 * [2023-11-17, 20:44:33](https://news.ycombinator.com/item?id=38309970) - [Xash3D: An open-source reimplementation of Half-Life](https://github.com/FWGS/xash3d-fwgs)
