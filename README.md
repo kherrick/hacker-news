@@ -2,7 +2,6 @@
 
 * [2023-11-17, 06:55:28](https://news.ycombinator.com/item?id=38300403) - [How I optimized Portal to run on the Nintendo 64 [video]](https://www.youtube.com/watch?v=r4KGm7ixcqI)
 * [2023-11-17, 05:18:56](https://news.ycombinator.com/item?id=38299888) - [I Analyzed StackOverflow for Secrets](https://matan-h.com/analyze-stackoverflow)
-* [2023-11-17, 03:03:10](https://news.ycombinator.com/item?id=38298918) - [De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 * [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 * [2023-11-17, 00:49:31](https://news.ycombinator.com/item?id=38297805) - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
 * [2023-11-16, 23:51:31](https://news.ycombinator.com/item?id=38297349) - [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
@@ -20,6 +19,7 @@
 * [2023-11-16, 15:20:52](https://news.ycombinator.com/item?id=38290613) - [From email to phone number, a new OSINT approach (2019)](https://www.martinvigo.com/email2phonenumber/)
 * [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The real realtime preemption end game](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
 * [2023-11-16, 13:36:19](https://news.ycombinator.com/item?id=38289327) - [You don't need a CRDT to build a collaborative experience](https://zknill.io/posts/collaboration-no-crdts/)
+* [2023-11-15, 21:41:20](https://news.ycombinator.com/item?id=38282950) - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 * [2023-11-15, 03:40:40](https://news.ycombinator.com/item?id=38273043) - [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 * [2023-11-15, 00:54:24](https://news.ycombinator.com/item?id=38271998) - [Small scale data migrations (2012)](https://www.mooreds.com/wordpress/archives/876)
