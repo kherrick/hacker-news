@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-17, 03:03:10",
-      "https://news.ycombinator.com/item?id=38298918"
-    ],
-    [
-      "De-crufted Windows 11 coming to Europe soon",
-      "https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 02:40:31",
       "https://news.ycombinator.com/item?id=38298695"
     ],
@@ -197,6 +187,16 @@
     [
       "You don't need a CRDT to build a collaborative experience",
       "https://zknill.io/posts/collaboration-no-crdts/"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 21:41:20",
+      "https://news.ycombinator.com/item?id=38282950"
+    ],
+    [
+      "Push ifs up and fors down",
+      "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
     ]
   ],
   [
