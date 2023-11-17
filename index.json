@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-11-17, 00:49:31",
-      "https://news.ycombinator.com/item?id=38297805"
-    ],
-    [
-      "Portugal just ran on 100% renewables for six days in a row",
-      "https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 23:51:31",
       "https://news.ycombinator.com/item?id=38297349"
     ],
@@ -277,6 +267,16 @@
     [
       "Summing columns in remote Parquet files using DuckDB",
       "https://til.simonwillison.net/duckdb/remote-parquet"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 22:48:29",
+      "https://news.ycombinator.com/item?id=38270926"
+    ],
+    [
+      "Disks lie. And the controllers that run them are partners in crime (2012)",
+      "https://dl.acm.org/doi/10.1145/2367376.2367378"
     ]
   ],
   [
