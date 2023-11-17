@@ -14,7 +14,6 @@
 * [2023-11-16, 17:52:55](https://news.ycombinator.com/item?id=38292915) - [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
 * [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
 * [2023-11-16, 17:03:49](https://news.ycombinator.com/item?id=38292102) - [std::source_location Is Broken](https://www.elbeno.com/blog/?p=1738)
-* [2023-11-16, 16:48:44](https://news.ycombinator.com/item?id=38291880) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 * [2023-11-16, 16:39:42](https://news.ycombinator.com/item?id=38291735) - [The CWEB System of Structured Documentation](https://www-cs-faculty.stanford.edu/~knuth/cweb.html)
 * [2023-11-16, 16:20:48](https://news.ycombinator.com/item?id=38291452) - [Tell HN: How you changed my life trajectory](https://news.ycombinator.com/item?id=38291452)
 * [2023-11-16, 16:18:10](https://news.ycombinator.com/item?id=38291427) - [Privacy is priceless, but Signal is expensive](https://signal.org/blog/signal-is-expensive/)
@@ -29,6 +28,7 @@
 * [2023-11-15, 03:40:40](https://news.ycombinator.com/item?id=38273043) - [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 * [2023-11-15, 00:54:24](https://news.ycombinator.com/item?id=38271998) - [Small scale data migrations (2012)](https://www.mooreds.com/wordpress/archives/876)
 * [2023-11-14, 23:03:08](https://news.ycombinator.com/item?id=38271082) - [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet)
+* [2023-11-14, 21:50:31](https://news.ycombinator.com/item?id=38270306) - [Chinese scientists bring record-breaking Stirling generator to life](https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 
 ## [Archives](archives/index.md)
