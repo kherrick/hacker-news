@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 15:41:36](https://news.ycombinator.com/item?id=38305073) - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
+* [2023-11-17, 15:28:01](https://news.ycombinator.com/item?id=38304872) - [Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
+* [2023-11-17, 15:02:26](https://news.ycombinator.com/item?id=38304485) - [280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
 * [2023-11-17, 14:44:58](https://news.ycombinator.com/item?id=38304290) - [Wikidata, with 12B facts, can ground LLMs to improve their factuality](https://twitter.com/WikiResearch/status/1723966761962520824)
 * [2023-11-17, 14:32:14](https://news.ycombinator.com/item?id=38304109) - [FCC Is Trying to Stop Discrimination in Broadband Deployment. Telecoms Are Mad](https://www.techdirt.com/2023/11/17/the-fcc-is-trying-to-stop-discrimination-in-broadband-deployment-telecoms-and-republicans-are-big-mad-about-it/)
 * [2023-11-17, 14:18:07](https://news.ycombinator.com/item?id=38303898) - [US business elite welcomes Xi Jinping with standing ovation](https://www.ft.com/content/a8633d7f-f785-4195-b0b2-0ea9506968c9)
