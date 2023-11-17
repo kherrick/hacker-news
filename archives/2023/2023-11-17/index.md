@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 06:13:02](https://news.ycombinator.com/item?id=38300167) - [Moving Away from Substack](https://prakgupta.com/blog/moving_away_from_substack)
 * [2023-11-17, 05:39:55](https://news.ycombinator.com/item?id=38300002) - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 * [2023-11-17, 05:25:45](https://news.ycombinator.com/item?id=38299921) - [UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
 * [2023-11-17, 03:45:57](https://news.ycombinator.com/item?id=38299260) - [Fact check: Earth is not flat or surrounded by an ice wall](https://www.reuters.com/fact-check/earth-is-not-flat-or-surrounded-by-an-ice-wall-2023-09-29/)
