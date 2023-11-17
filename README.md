@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-17, 16:34:15](https://news.ycombinator.com/item?id=38305860) - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
 * [2023-11-17, 15:52:41](https://news.ycombinator.com/item?id=38305234) - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:49:16](https://news.ycombinator.com/item?id=38305187) - [Apple files legal challenge to EU's Digital Markets Act](https://www.reuters.com/legal/transactional/apple-files-legal-challenge-eus-digital-markets-act-2023-11-17/)
 * [2023-11-17, 15:44:21](https://news.ycombinator.com/item?id=38305111) - [Amazon will cut 'several hundred' Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
@@ -23,9 +24,8 @@
 * [2023-11-17, 05:18:56](https://news.ycombinator.com/item?id=38299888) - [I analyzed Stack Overflow for secrets](https://matan-h.com/analyze-stackoverflow)
 * [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 * [2023-11-17, 02:40:26](https://news.ycombinator.com/item?id=38298694) - [HTML Web Components: An Example](https://blog.jim-nielsen.com/2023/html-web-components-an-example/)
+* [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 * [2023-11-16, 17:52:55](https://news.ycombinator.com/item?id=38292915) - [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
-* [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The real realtime preemption end game](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
-* [2023-11-15, 09:50:05](https://news.ycombinator.com/item?id=38274992) - [Parcplace: Making a Business out of Objects [video]](https://www.youtube.com/watch?v=cL1aNpijtOM)
 * [2023-11-15, 08:03:02](https://news.ycombinator.com/item?id=38274380) - [Whiffle: A Purpose-Built Scheme](https://wingolog.org/archives/2023/11/14/whiffle-a-purpose-built-scheme)
 * [2023-11-15, 07:49:30](https://news.ycombinator.com/item?id=38274301) - [Communities of Practice: The Organizational Frontier (2000)](https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier)
 * [2023-11-15, 06:58:35](https://news.ycombinator.com/item?id=38274049) - [Canonical Launches MicroCloud to Deploy Your Own \"Fully Functional Cloud\"](https://www.phoronix.com/news/Canonical-Ubuntu-MicroCloud)
