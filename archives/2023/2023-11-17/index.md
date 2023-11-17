@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
 * [2023-11-17, 18:12:57](https://news.ycombinator.com/item?id=38307538) - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
+* [2023-11-17, 18:10:40](https://news.ycombinator.com/item?id=38307504) - [Google's ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
 * [2023-11-17, 18:02:28](https://news.ycombinator.com/item?id=38307367) - [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
 * [2023-11-17, 17:39:44](https://news.ycombinator.com/item?id=38307008) - [It's true – your devices are listening to you](https://mastodon.social/@Privacymatters/111422828004357808)
 * [2023-11-17, 17:21:53](https://news.ycombinator.com/item?id=38306680) - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
