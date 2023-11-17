@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 06:29:10](https://news.ycombinator.com/item?id=38300241) - [Gmail using too much RAM: 1-2GB per tab in Safari](https://discussions.apple.com/thread/253901216)
 * [2023-11-17, 06:13:02](https://news.ycombinator.com/item?id=38300167) - [Moving Away from Substack](https://prakgupta.com/blog/moving_away_from_substack)
 * [2023-11-17, 05:39:55](https://news.ycombinator.com/item?id=38300002) - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 * [2023-11-17, 05:25:45](https://news.ycombinator.com/item?id=38299921) - [UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
+* [2023-11-17, 05:18:56](https://news.ycombinator.com/item?id=38299888) - [I Analyzed StackOverflow for Secrets](https://matan-h.com/analyze-stackoverflow)
 * [2023-11-17, 03:45:57](https://news.ycombinator.com/item?id=38299260) - [Fact check: Earth is not flat or surrounded by an ice wall](https://www.reuters.com/fact-check/earth-is-not-flat-or-surrounded-by-an-ice-wall-2023-09-29/)
 * [2023-11-17, 03:15:56](https://news.ycombinator.com/item?id=38299024) - [I used AI to make an app to help me with my ADHD](https://github.com/timsayshey/cringe-clock/blob/main/README.md)
 * [2023-11-17, 03:03:10](https://news.ycombinator.com/item?id=38298918) - [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
