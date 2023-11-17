@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
 * [2023-11-17, 19:19:29](https://news.ycombinator.com/item?id=38308619) - [Amazon lays off hundreds in Alexa division](https://www.seattletimes.com/business/amazon/amazon-cuts-several-hundred-jobs-in-its-alexa-division/)
+* [2023-11-17, 19:16:01](https://news.ycombinator.com/item?id=38308552) - [A PCIe Coral TPU Finally Works on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5)
+* [2023-11-17, 19:14:40](https://news.ycombinator.com/item?id=38308528) - [Stanford Blacklist](https://stanfordreview.org/the-2020-stanford-blacklist/)
 * [2023-11-17, 18:35:36](https://news.ycombinator.com/item?id=38307889) - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
 * [2023-11-17, 18:25:12](https://news.ycombinator.com/item?id=38307711) - [Ask HN: What are the most interesting takes on Generative AI you've come across?](https://news.ycombinator.com/item?id=38307711)
 * [2023-11-17, 18:12:57](https://news.ycombinator.com/item?id=38307538) - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
@@ -49,6 +51,7 @@
 * [2023-11-17, 11:54:23](https://news.ycombinator.com/item?id=38302288) - [The Astonishing Behavior of Recursive Sequences](https://www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/)
 * [2023-11-17, 11:53:51](https://news.ycombinator.com/item?id=38302283) - [Ethernet Is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
 * [2023-11-17, 11:52:18](https://news.ycombinator.com/item?id=38302275) - [Ask HN: What do you use to replace incandescent lights?](https://news.ycombinator.com/item?id=38302275)
+* [2023-11-17, 11:23:26](https://news.ycombinator.com/item?id=38302033) - [Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation/)
 * [2023-11-17, 10:46:20](https://news.ycombinator.com/item?id=38301801) - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
 * [2023-11-17, 10:33:23](https://news.ycombinator.com/item?id=38301710) - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
 * [2023-11-17, 10:20:33](https://news.ycombinator.com/item?id=38301644) - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
