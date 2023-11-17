@@ -16,6 +16,7 @@
 * [2023-11-14, 22:12:13](https://news.ycombinator.com/item?id=38270552) - [Is the reversal curse in LLMs real?](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 * [2023-11-14, 22:03:44](https://news.ycombinator.com/item?id=38270473) - [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
 * [2023-11-14, 22:01:36](https://news.ycombinator.com/item?id=38270446) - [Ara2: RVV 1.0 Compliant Open-Source Processor](https://arxiv.org/abs/2311.07493)
+* [2023-11-14, 21:54:22](https://news.ycombinator.com/item?id=38270360) - [How to Write a Cold Email](https://sriramk.com/coldemail)
 * [2023-11-14, 21:50:31](https://news.ycombinator.com/item?id=38270306) - [Chinese scientists bring record-breaking Stirling generator to life](https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
 * [2023-11-14, 21:35:26](https://news.ycombinator.com/item?id=38270129) - [Galactica: A Year Later – Lessons from a Controversial Launch](https://twitter.com/rosstaylor90/status/1724537769316520318)
