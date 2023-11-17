@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 19:19:29](https://news.ycombinator.com/item?id=38308619) - [Amazon lays off hundreds in Alexa division](https://www.seattletimes.com/business/amazon/amazon-cuts-several-hundred-jobs-in-its-alexa-division/)
 * [2023-11-17, 18:35:36](https://news.ycombinator.com/item?id=38307889) - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
 * [2023-11-17, 18:25:12](https://news.ycombinator.com/item?id=38307711) - [Ask HN: What are the most interesting takes on Generative AI you've come across?](https://news.ycombinator.com/item?id=38307711)
 * [2023-11-17, 18:12:57](https://news.ycombinator.com/item?id=38307538) - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
