@@ -6,7 +6,6 @@
 * [2023-11-17, 03:03:10](https://news.ycombinator.com/item?id=38298918) - [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 * [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 * [2023-11-17, 02:38:04](https://news.ycombinator.com/item?id=38298670) - [YouTube Dream Track AI Music Experiment (clones pop stars voices)](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
-* [2023-11-17, 00:49:31](https://news.ycombinator.com/item?id=38297805) - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
 * [2023-11-16, 23:51:31](https://news.ycombinator.com/item?id=38297349) - [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
 * [2023-11-16, 22:16:01](https://news.ycombinator.com/item?id=38296377) - [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
@@ -28,6 +27,7 @@
 * [2023-11-15, 03:40:40](https://news.ycombinator.com/item?id=38273043) - [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 * [2023-11-15, 00:54:24](https://news.ycombinator.com/item?id=38271998) - [Small scale data migrations (2012)](https://www.mooreds.com/wordpress/archives/876)
 * [2023-11-14, 23:03:08](https://news.ycombinator.com/item?id=38271082) - [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet)
+* [2023-11-14, 22:48:29](https://news.ycombinator.com/item?id=38270926) - [Disks lie. And the controllers that run them are partners in crime (2012)](https://dl.acm.org/doi/10.1145/2367376.2367378)
 * [2023-11-14, 21:50:31](https://news.ycombinator.com/item?id=38270306) - [Chinese scientists bring record-breaking Stirling generator to life](https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 
