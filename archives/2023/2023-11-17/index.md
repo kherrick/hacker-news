@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 20:36:58](https://news.ycombinator.com/item?id=38309770) - [Sam Altman Sacked](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired)
+* [2023-11-17, 20:33:58](https://news.ycombinator.com/item?id=38309696) - [Sam Altmen to Depart OpenAI, Mira Murati Interim CEO](https://news.ycombinator.com/item?id=38309696)
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI Announces Leadership Transition](https://openai.com/blog/openai-announces-leadership-transition)
 * [2023-11-17, 20:12:35](https://news.ycombinator.com/item?id=38309350) - [The Share of Americans Who Are Mortgage-Free Is at an All-Time High](https://www.bloomberg.com/news/articles/2023-11-17/amid-high-mortgage-rates-higher-share-of-americans-outright-own-homes)
 * [2023-11-17, 20:05:45](https://news.ycombinator.com/item?id=38309263) - [Sunday Service Suspended at All NYPL Locations](https://www.nypl.org/about/service-impacts)
@@ -16,6 +18,7 @@
 * [2023-11-17, 19:07:36](https://news.ycombinator.com/item?id=38308408) - [Bitwarden Broken in Linux](https://community.bitwarden.com/t/bitwarden-is-down-with-blank-screen-under-linux-opensuse/58751)
 * [2023-11-17, 18:35:36](https://news.ycombinator.com/item?id=38307889) - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
 * [2023-11-17, 18:25:12](https://news.ycombinator.com/item?id=38307711) - [Ask HN: What are the most interesting takes on Generative AI you've come across?](https://news.ycombinator.com/item?id=38307711)
+* [2023-11-17, 18:17:30](https://news.ycombinator.com/item?id=38307596) - [How the Gas Turbine Conquered the Electric Power Industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
 * [2023-11-17, 18:12:57](https://news.ycombinator.com/item?id=38307538) - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
 * [2023-11-17, 18:10:40](https://news.ycombinator.com/item?id=38307504) - [Google's ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
 * [2023-11-17, 18:02:28](https://news.ycombinator.com/item?id=38307367) - [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
