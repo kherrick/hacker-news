@@ -24,12 +24,12 @@
 * [2023-11-17, 10:20:33](https://news.ycombinator.com/item?id=38301644) - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
 * [2023-11-17, 09:52:26](https://news.ycombinator.com/item?id=38301480) - ['Energy independent' Uruguay runs on 100% renewables for four straight months](https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/)
 * [2023-11-17, 05:18:56](https://news.ycombinator.com/item?id=38299888) - [I analyzed Stack Overflow for secrets](https://matan-h.com/analyze-stackoverflow)
+* [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 * [2023-11-16, 21:21:26](https://news.ycombinator.com/item?id=38295705) - [Show HN: Beta test Execute Program's interactive \"Python for Programmers\" course](https://www.executeprogram.com/courses/python-for-programmers)
 * [2023-11-16, 17:52:55](https://news.ycombinator.com/item?id=38292915) - [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
 * [2023-11-15, 08:03:02](https://news.ycombinator.com/item?id=38274380) - [Whiffle: A Purpose-Built Scheme](https://wingolog.org/archives/2023/11/14/whiffle-a-purpose-built-scheme)
 * [2023-11-15, 07:49:30](https://news.ycombinator.com/item?id=38274301) - [Communities of Practice: The Organizational Frontier (2000)](https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier)
 * [2023-11-15, 06:58:35](https://news.ycombinator.com/item?id=38274049) - [Canonical Launches MicroCloud to Deploy Your Own \"Fully Functional Cloud\"](https://www.phoronix.com/news/Canonical-Ubuntu-MicroCloud)
-* [2023-11-15, 03:40:40](https://news.ycombinator.com/item?id=38273043) - [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 
 ## [Archives](archives/index.md)
 
