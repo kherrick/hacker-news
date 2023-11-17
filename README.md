@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-17, 22:36:55](https://news.ycombinator.com/item?id=38311509) - [Sam Altman's sister, Annie Altman, claims Sam has severely abused her](https://www.lesswrong.com/posts/QDczBduZorG4dxZiW/sam-altman-s-sister-annie-altman-claims-sam-has-severely)
+* [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
 * [2023-11-17, 22:00:02](https://news.ycombinator.com/item?id=38311076) - [I wrote in June 2021 how Sam Altman's departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
 * [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
@@ -12,7 +13,6 @@
 * [2023-11-17, 19:07:36](https://news.ycombinator.com/item?id=38308408) - [Bitwarden is down with blank screen under Linux OpenSuse](https://community.bitwarden.com/t/bitwarden-is-down-with-blank-screen-under-linux-opensuse/58751)
 * [2023-11-17, 18:35:36](https://news.ycombinator.com/item?id=38307889) - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
 * [2023-11-17, 18:17:30](https://news.ycombinator.com/item?id=38307596) - [How the gas turbine conquered the electric power industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
-* [2023-11-17, 17:21:53](https://news.ycombinator.com/item?id=38306680) - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
 * [2023-11-17, 17:14:22](https://news.ycombinator.com/item?id=38306540) - [Rocket v0.5: Stable, Async](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-17, 17:06:37](https://news.ycombinator.com/item?id=38306410) - [AIConfig – source control format for gen AI prompts, models and settings](https://github.com/lastmile-ai/aiconfig)
 * [2023-11-17, 17:01:12](https://news.ycombinator.com/item?id=38306320) - [Sentry Relicense Again (FSL)](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
