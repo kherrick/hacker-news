@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-17, 23:18:34](https://news.ycombinator.com/item?id=38312045) - [The floating desalination machines powered by the waves](https://www.bbc.co.uk/news/business-67237006)
 * [2023-11-17, 22:57:41](https://news.ycombinator.com/item?id=38311803) - [Advertisers Flee X as Outcry Grows Over Musk’s Endorsement of Antisemitic Post](https://www.nytimes.com/2023/11/17/technology/elon-musk-twitter-x-advertisers.html)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
 * [2023-11-17, 22:00:02](https://news.ycombinator.com/item?id=38311076) - [I wrote in June 2021 how Sam Altman's departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
@@ -17,7 +18,6 @@
 * [2023-11-17, 17:06:37](https://news.ycombinator.com/item?id=38306410) - [AIConfig – source control format for gen AI prompts, models and settings](https://github.com/lastmile-ai/aiconfig)
 * [2023-11-17, 17:01:12](https://news.ycombinator.com/item?id=38306320) - [Sentry Relicense Again (FSL)](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 16:52:28](https://news.ycombinator.com/item?id=38306174) - [Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
-* [2023-11-17, 16:45:43](https://news.ycombinator.com/item?id=38306061) - [In two moves, AlphaGo and Lee Sedol redefined the future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 * [2023-11-17, 16:30:07](https://news.ycombinator.com/item?id=38305787) - [A game about staring into the eyes of a stranger](https://stranger.video/)
 * [2023-11-17, 15:13:40](https://news.ycombinator.com/item?id=38304661) - [Pinball implemented using Squint, a ClojureScript dialect](https://squint-cljs.github.io/squint/?src=https://gist.githubusercontent.com/borkdude/ca3af924dc2526f00361f28dcf5d0bfb/raw/09cd9e17bf0d6fa3655d0e7cbf2c878e19cb894f/pinball.cljs)
 * [2023-11-17, 15:02:26](https://news.ycombinator.com/item?id=38304485) - [280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
