@@ -1,22 +1,52 @@
 [
   [
     [
+      "2023-11-17, 20:05:45",
+      "https://news.ycombinator.com/item?id=38309263"
+    ],
+    [
+      "Sunday Service Suspended at All NYPL Locations",
+      "https://www.nypl.org/about/service-impacts"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 19:44:03",
+      "https://news.ycombinator.com/item?id=38309041"
+    ],
+    [
+      "Apple to pause advertising on X after Musk backs antisemitic post",
+      "https://www.axios.com/2023/11/17/apple-twitter-x-advertising-elon-musk-antisemitism-ads"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 19:41:53",
+      "https://news.ycombinator.com/item?id=38309014"
+    ],
+    [
+      "The State of Silicon and the GPU Poors",
+      "https://www.latent.space/p/semianalysis"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 19:27:14",
+      "https://news.ycombinator.com/item?id=38308765"
+    ],
+    [
+      "Google Photos Replacement",
+      "https://selfhosted.show/110?t=1198"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 19:16:01",
       "https://news.ycombinator.com/item?id=38308552"
     ],
     [
       "A PCIe Coral TPU Finally Works on Raspberry Pi 5",
       "https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 19:14:40",
-      "https://news.ycombinator.com/item?id=38308528"
-    ],
-    [
-      "Stanford Blacklist",
-      "https://stanfordreview.org/the-2020-stanford-blacklist/"
     ]
   ],
   [
@@ -41,22 +71,22 @@
   ],
   [
     [
-      "2023-11-17, 18:10:40",
-      "https://news.ycombinator.com/item?id=38307504"
-    ],
-    [
-      "Google's ChatGPT Competitor Will Have to Wait",
-      "https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 18:02:28",
       "https://news.ycombinator.com/item?id=38307367"
     ],
     [
       "Starship lunar lander missions to require nearly 20 launches, NASA says",
       "https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 17:50:32",
+      "https://news.ycombinator.com/item?id=38307180"
+    ],
+    [
+      "Paris to hold referendum on higher parking fees for heavy SUVs",
+      "https://www.brusselstimes.com/796298/paris-to-hold-referendum-on-higher-parking-fees-for-heavy-suvs"
     ]
   ],
   [
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=38306174"
     ],
     [
-      "With trillions at play, Pentagon fails audit for sixth year in a row",
+      "Pentagon fails audit for sixth year in a row",
       "https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/"
     ]
   ],
@@ -127,16 +157,6 @@
     [
       "Putting the \"J\" in the RPG, Part 1: Dorakue",
       "https://www.filfre.net/2023/11/putting-the-j-in-the-rpg-part-1-dorakue/"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 16:34:15",
-      "https://news.ycombinator.com/item?id=38305860"
-    ],
-    [
-      "Amazon Time Sync Service now supports microsecond-accurate time",
-      "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-11-17, 09:52:26",
-      "https://news.ycombinator.com/item?id=38301480"
-    ],
-    [
-      "'Energy independent' Uruguay runs on 100% renewables for four straight months",
-      "https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 05:18:56",
       "https://news.ycombinator.com/item?id=38299888"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Beta test Execute Program's interactive \"Python for Programmers\" course",
       "https://www.executeprogram.com/courses/python-for-programmers"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 17:52:55",
-      "https://news.ycombinator.com/item?id=38292915"
-    ],
-    [
-      "I spent 3 years working on a coat hanger [video]",
-      "https://www.youtube.com/watch?v=vREokZa4dNU"
     ]
   ]
 ]
