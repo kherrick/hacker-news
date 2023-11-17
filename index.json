@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-17, 06:29:10",
+      "https://news.ycombinator.com/item?id=38300241"
+    ],
+    [
+      "Gmail using too much RAM: 1-2GB per tab in Safari",
+      "https://discussions.apple.com/thread/253901216"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 05:18:56",
+      "https://news.ycombinator.com/item?id=38299888"
+    ],
+    [
+      "I Analyzed StackOverflow for Secrets",
+      "https://matan-h.com/analyze-stackoverflow"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 03:03:10",
       "https://news.ycombinator.com/item?id=38298918"
     ],
@@ -37,16 +57,6 @@
     [
       "Anomalous propagation and the sinking of the Russian warship Moskva",
       "https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 22:40:18",
-      "https://news.ycombinator.com/item?id=38296667"
-    ],
-    [
-      "Pointer Pointer",
-      "https://pointerpointer.com/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-11-16, 16:18:10",
-      "https://news.ycombinator.com/item?id=38291427"
-    ],
-    [
-      "Privacy is priceless, but Signal is expensive",
-      "https://signal.org/blog/signal-is-expensive/"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 15:20:52",
       "https://news.ycombinator.com/item?id=38290613"
     ],
@@ -197,16 +197,6 @@
     [
       "The real realtime preemption end game",
       "https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 17:25:12",
-      "https://news.ycombinator.com/item?id=38279459"
-    ],
-    [
-      "B-trees in Factorio",
-      "https://razberry.substack.com/p/btree-factorio"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Disks lie. And the controllers that run them are partners in crime (2012)",
       "https://dl.acm.org/doi/10.1145/2367376.2367378"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 21:58:12",
+      "https://news.ycombinator.com/item?id=38270415"
+    ],
+    [
+      "Towards a Logical Definition of Emergence [video]",
+      "https://www.youtube.com/watch?v=6kMB7lRoEw4"
     ]
   ],
   [
