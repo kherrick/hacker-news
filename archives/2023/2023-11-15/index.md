@@ -116,6 +116,7 @@
 * [2023-11-15, 04:56:18](https://news.ycombinator.com/item?id=38273488) - [Bare Metal Emulation on the Raspberry Pi – Commodore 64](https://accentual.com/bmc64/)
 * [2023-11-15, 04:30:49](https://news.ycombinator.com/item?id=38273368) - [Fire Chicken Webring](https://firechicken.club/)
 * [2023-11-15, 04:03:47](https://news.ycombinator.com/item?id=38273223) - [New Toyota Camry to Be Sold Only as Hybrid](https://www.wsj.com/business/autos/new-toyota-camry-to-be-sold-only-as-hybrid-71e6c155)
+* [2023-11-15, 03:40:40](https://news.ycombinator.com/item?id=38273043) - [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 * [2023-11-15, 03:08:43](https://news.ycombinator.com/item?id=38272845) - [Life expectancy for men in US falls to 73 – six years less than women, study](https://www.statnews.com/2023/11/13/life-expectancy-men-women/)
 * [2023-11-15, 03:06:41](https://news.ycombinator.com/item?id=38272835) - [Kodak sues Tesla for using stolen technology for Autopilot](https://cleanenergyrevolution.co/2023/11/13/kodak-sues-tesla-for-using-stolen-technology-for-autopilot/)
 * [2023-11-15, 02:17:43](https://news.ycombinator.com/item?id=38272561) - [Trail Magic: Unveiling Life Lessons from the Appalachian Trail and Podcasting](https://www.joincolossus.com/editorials/posts/trail-magic)
