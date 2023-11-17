@@ -9,6 +9,7 @@
 * [2023-11-16, 22:40:18](https://news.ycombinator.com/item?id=38296667) - [Pointer Pointer](https://pointerpointer.com/)
 * [2023-11-16, 22:35:52](https://news.ycombinator.com/item?id=38296615) - [Google News removing magazines, including the ones you paid for, in December](https://9to5google.com/2023/11/15/google-news-magazine/)
 * [2023-11-16, 22:16:01](https://news.ycombinator.com/item?id=38296377) - [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
+* [2023-11-16, 21:40:13](https://news.ycombinator.com/item?id=38295943) - [Flathub – The Linux App Store](https://flathub.org/)
 * [2023-11-16, 21:29:49](https://news.ycombinator.com/item?id=38295819) - [Microsoft support 'cracks' Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 * [2023-11-16, 21:06:19](https://news.ycombinator.com/item?id=38295535) - [Show HN: I made a really silly personal landing page](https://davidadler.pages.dev/)
