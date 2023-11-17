@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
 * [2023-11-17, 15:52:41](https://news.ycombinator.com/item?id=38305234) - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
+* [2023-11-17, 15:49:16](https://news.ycombinator.com/item?id=38305187) - [Apple files legal challenge to EU's Digital Markets Act](https://www.reuters.com/legal/transactional/apple-files-legal-challenge-eus-digital-markets-act-2023-11-17/)
 * [2023-11-17, 15:44:21](https://news.ycombinator.com/item?id=38305111) - [Amazon will cut 'several hundred' Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
 * [2023-11-17, 15:43:20](https://news.ycombinator.com/item?id=38305097) - [Amazon cuts 'several hundred' jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
 * [2023-11-17, 15:41:36](https://news.ycombinator.com/item?id=38305073) - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
