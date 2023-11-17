@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 22:57:41](https://news.ycombinator.com/item?id=38311803) - [Advertisers Flee X as Outcry Grows Over Musk’s Endorsement of Antisemitic Post](https://www.nytimes.com/2023/11/17/technology/elon-musk-twitter-x-advertisers.html)
 * [2023-11-17, 22:36:55](https://news.ycombinator.com/item?id=38311509) - [Sam Altman's sister, Annie Altman, claims Sam has severely abused her](https://www.lesswrong.com/posts/QDczBduZorG4dxZiW/sam-altman-s-sister-annie-altman-claims-sam-has-severely)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
 * [2023-11-17, 22:00:02](https://news.ycombinator.com/item?id=38311076) - [I wrote in June 2021 how Sam Altman's departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
