@@ -1,31 +1,11 @@
 [
   [
     [
-      "2023-11-17, 20:36:58",
-      "https://news.ycombinator.com/item?id=38309770"
-    ],
-    [
-      "Sam Altman Sacked",
-      "https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 20:33:58",
-      "https://news.ycombinator.com/item?id=38309696"
-    ],
-    [
-      "Sam Altmen to Depart OpenAI, Mira Murati Interim CEO",
-      "https://news.ycombinator.com/item?id=38309696"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 20:28:50",
       "https://news.ycombinator.com/item?id=38309611"
     ],
     [
-      "OpenAI announces leadership transition",
+      "OpenAI board fires Sam Altman",
       "https://openai.com/blog/openai-announces-leadership-transition"
     ]
   ],
@@ -47,6 +27,16 @@
     [
       "Sunday service suspended at all NYPL locations",
       "https://www.nypl.org/about/service-impacts"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 19:55:42",
+      "https://news.ycombinator.com/item?id=38309113"
+    ],
+    [
+      "Okta Security Breach: 134 Clients Impacted, Including Cloudflare and 1Password",
+      "https://www.cpomagazine.com/cyber-security/okta-security-breach-report-134-clients-impacted-including-cloudflare-and-1password/"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "How the Gas Turbine Conquered the Electric Power Industry",
       "https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 17:50:32",
-      "https://news.ycombinator.com/item?id=38307180"
-    ],
-    [
-      "Paris to hold referendum on higher parking fees for heavy SUVs",
-      "https://www.brusselstimes.com/796298/paris-to-hold-referendum-on-higher-parking-fees-for-heavy-suvs"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-11-17, 14:34:34",
+      "https://news.ycombinator.com/item?id=38304148"
+    ],
+    [
+      "Show HN: less than 650 LOC trainable GPT only using NumPy",
+      "https://github.com/joennlae/tensorli"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 12:55:41",
       "https://news.ycombinator.com/item?id=38302844"
     ],
@@ -287,6 +277,16 @@
     [
       "Emacs-ng: A project to integrate Deno and WebRender into Emacs",
       "https://github.com/emacs-ng/emacs-ng"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 09:52:26",
+      "https://news.ycombinator.com/item?id=38301480"
+    ],
+    [
+      "'Energy independent' Uruguay runs on 100% renewables for four straight months",
+      "https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/"
     ]
   ],
   [
