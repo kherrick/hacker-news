@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 23:51:31](https://news.ycombinator.com/item?id=38297349) - [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
 * [2023-11-16, 23:35:27](https://news.ycombinator.com/item?id=38297203) - [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
 * [2023-11-16, 22:35:52](https://news.ycombinator.com/item?id=38296615) - [Google News removing magazines, including the ones you paid for, in December](https://9to5google.com/2023/11/15/google-news-magazine/)
 * [2023-11-16, 21:29:49](https://news.ycombinator.com/item?id=38295819) - [Microsoft support 'cracks' Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)

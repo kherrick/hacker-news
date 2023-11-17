@@ -6,6 +6,7 @@
 
 * [2023-11-14, 23:56:20](https://news.ycombinator.com/item?id=38271534) - [Detexify LaTeX Handwriting Symbol Recognition](https://detexify.kirelabs.org/classify.html)
 * [2023-11-14, 23:12:00](https://news.ycombinator.com/item?id=38271155) - [Why do people still use VBA?](https://sancarn.github.io/vba-articles/why-do-people-use-vba.html)
+* [2023-11-14, 23:03:08](https://news.ycombinator.com/item?id=38271082) - [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet)
 * [2023-11-14, 22:48:49](https://news.ycombinator.com/item?id=38270936) - [How Caterpillars Gruesomely Transform into Butterflies](https://www.zmescience.com/feature-post/natural-sciences/animals/invertebrates/how-caterpillar-turn-butterfly-0534534/)
 * [2023-11-14, 22:46:29](https://news.ycombinator.com/item?id=38270905) - [Amazon Is the Hospital Now](https://clinic.amazon.com/)
 * [2023-11-14, 22:36:22](https://news.ycombinator.com/item?id=38270817) - [Bertrand Russell: Why I Am Not a Christian (1927)](https://users.drew.edu/~jlenz/whynot.html)
