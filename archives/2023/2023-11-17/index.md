@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 18:35:36](https://news.ycombinator.com/item?id=38307889) - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
 * [2023-11-17, 18:12:57](https://news.ycombinator.com/item?id=38307538) - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
 * [2023-11-17, 18:10:40](https://news.ycombinator.com/item?id=38307504) - [Google's ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
 * [2023-11-17, 18:02:28](https://news.ycombinator.com/item?id=38307367) - [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
@@ -13,6 +14,7 @@
 * [2023-11-17, 17:06:37](https://news.ycombinator.com/item?id=38306410) - [AIConfig – source control format for gen AI prompts, models and settings](https://github.com/lastmile-ai/aiconfig)
 * [2023-11-17, 17:01:07](https://news.ycombinator.com/item?id=38306317) - [Ashby (YC W19) Is Hiring a Remote SRE to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=443ded5b-4baf-4bdc-8081-1666b4cb7ee3)
 * [2023-11-17, 16:54:42](https://news.ycombinator.com/item?id=38306221) - [Red flag questions to ask in a Linux interview](https://blog.abctaylor.com/five-red-flag-questions-to-ask-in-a-linux-job-interview/)
+* [2023-11-17, 16:54:31](https://news.ycombinator.com/item?id=38306215) - [IBM pauses advertising on X after ads show up next to antisemitic content](https://www.theregister.com/2023/11/17/ibm_pauses_advertising_on_x/)
 * [2023-11-17, 16:52:28](https://news.ycombinator.com/item?id=38306174) - [With trillions at play, Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
 * [2023-11-17, 16:45:43](https://news.ycombinator.com/item?id=38306061) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 * [2023-11-17, 16:45:34](https://news.ycombinator.com/item?id=38306057) - [Putting the \"J\" in the RPG, Part 1: Dorakue](https://www.filfre.net/2023/11/putting-the-j-in-the-rpg-part-1-dorakue/)
