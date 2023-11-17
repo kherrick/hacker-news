@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
 * [2023-11-17, 18:35:36](https://news.ycombinator.com/item?id=38307889) - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
+* [2023-11-17, 18:25:12](https://news.ycombinator.com/item?id=38307711) - [Ask HN: What are the most interesting takes on Generative AI you've come across?](https://news.ycombinator.com/item?id=38307711)
 * [2023-11-17, 18:12:57](https://news.ycombinator.com/item?id=38307538) - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
 * [2023-11-17, 18:10:40](https://news.ycombinator.com/item?id=38307504) - [Google's ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
 * [2023-11-17, 18:02:28](https://news.ycombinator.com/item?id=38307367) - [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
@@ -27,6 +28,7 @@
 * [2023-11-17, 15:41:36](https://news.ycombinator.com/item?id=38305073) - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
 * [2023-11-17, 15:28:01](https://news.ycombinator.com/item?id=38304872) - [Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
 * [2023-11-17, 15:02:26](https://news.ycombinator.com/item?id=38304485) - [280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
+* [2023-11-17, 14:57:16](https://news.ycombinator.com/item?id=38304405) - [Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
 * [2023-11-17, 14:44:58](https://news.ycombinator.com/item?id=38304290) - [Wikidata, with 12B facts, can ground LLMs to improve their factuality](https://twitter.com/WikiResearch/status/1723966761962520824)
 * [2023-11-17, 14:34:34](https://news.ycombinator.com/item?id=38304148) - [Show HN: less than 650 LOC trainable GPT only using NumPy (no framework)](https://github.com/joennlae/tensorli)
 * [2023-11-17, 14:32:14](https://news.ycombinator.com/item?id=38304109) - [FCC Is Trying to Stop Discrimination in Broadband Deployment. Telecoms Are Mad](https://www.techdirt.com/2023/11/17/the-fcc-is-trying-to-stop-discrimination-in-broadband-deployment-telecoms-and-republicans-are-big-mad-about-it/)
