@@ -20,6 +20,7 @@
 * [2023-11-14, 21:54:22](https://news.ycombinator.com/item?id=38270360) - [How to Write a Cold Email](https://sriramk.com/coldemail)
 * [2023-11-14, 21:50:31](https://news.ycombinator.com/item?id=38270306) - [Chinese scientists bring record-breaking Stirling generator to life](https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper)
 * [2023-11-14, 21:47:13](https://news.ycombinator.com/item?id=38270265) - [Inko Programming Language](https://inko-lang.org)
+* [2023-11-14, 21:44:22](https://news.ycombinator.com/item?id=38270232) - [Text Embeddings Visually Explained (2022)](https://txt.cohere.com/text-embeddings/)
 * [2023-11-14, 21:35:26](https://news.ycombinator.com/item?id=38270129) - [Galactica: A Year Later – Lessons from a Controversial Launch](https://twitter.com/rosstaylor90/status/1724537769316520318)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
