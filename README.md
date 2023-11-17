@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-17, 10:46:20](https://news.ycombinator.com/item?id=38301801) - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+* [2023-11-17, 10:33:23](https://news.ycombinator.com/item?id=38301710) - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
 * [2023-11-17, 10:20:33](https://news.ycombinator.com/item?id=38301644) - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
 * [2023-11-17, 09:52:26](https://news.ycombinator.com/item?id=38301480) - ['Energy independent' Uruguay runs on 100% renewables for four straight months](https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/)
 * [2023-11-17, 08:38:37](https://news.ycombinator.com/item?id=38300990) - [Google's Gemini model is delayed](https://www.theverge.com/2023/11/16/23964937/googles-next-generation-gemini-ai-model-is-reportedly-delayed)
@@ -19,7 +20,6 @@
 * [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
 * [2023-11-16, 15:20:52](https://news.ycombinator.com/item?id=38290613) - [From email to phone number, a new OSINT approach (2019)](https://www.martinvigo.com/email2phonenumber/)
 * [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The real realtime preemption end game](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
-* [2023-11-15, 17:25:12](https://news.ycombinator.com/item?id=38279459) - [B-trees in Factorio](https://razberry.substack.com/p/btree-factorio)
 * [2023-11-15, 08:03:02](https://news.ycombinator.com/item?id=38274380) - [Whiffle: A Purpose-Built Scheme](https://wingolog.org/archives/2023/11/14/whiffle-a-purpose-built-scheme)
 * [2023-11-15, 03:40:40](https://news.ycombinator.com/item?id=38273043) - [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 * [2023-11-15, 00:54:24](https://news.ycombinator.com/item?id=38271998) - [Small scale data migrations (2012)](https://www.mooreds.com/wordpress/archives/876)
