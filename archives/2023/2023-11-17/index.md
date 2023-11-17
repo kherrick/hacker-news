@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 22:36:55](https://news.ycombinator.com/item?id=38311509) - [Sam Altman's sister, Annie Altman, claims Sam has severely abused her](https://www.lesswrong.com/posts/QDczBduZorG4dxZiW/sam-altman-s-sister-annie-altman-claims-sam-has-severely)
 * [2023-11-17, 22:00:02](https://news.ycombinator.com/item?id=38311076) - [I wrote in June 2021 how Sam Altman's departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
 * [2023-11-17, 21:53:53](https://news.ycombinator.com/item?id=38311001) - [Sam Altman tweet after being fired](https://twitter.com/sama/status/1725631621511184771)
 * [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
@@ -53,6 +54,7 @@
 * [2023-11-17, 15:43:20](https://news.ycombinator.com/item?id=38305097) - [Amazon cuts 'several hundred' jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
 * [2023-11-17, 15:41:36](https://news.ycombinator.com/item?id=38305073) - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
 * [2023-11-17, 15:28:01](https://news.ycombinator.com/item?id=38304872) - [Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
+* [2023-11-17, 15:13:40](https://news.ycombinator.com/item?id=38304661) - [Pinball implemented using Squint, a ClojureScript dialect](https://squint-cljs.github.io/squint/?src=https://gist.githubusercontent.com/borkdude/ca3af924dc2526f00361f28dcf5d0bfb/raw/09cd9e17bf0d6fa3655d0e7cbf2c878e19cb894f/pinball.cljs)
 * [2023-11-17, 15:02:26](https://news.ycombinator.com/item?id=38304485) - [280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
 * [2023-11-17, 14:57:16](https://news.ycombinator.com/item?id=38304405) - [Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
 * [2023-11-17, 14:44:58](https://news.ycombinator.com/item?id=38304290) - [Wikidata, with 12B facts, can ground LLMs to improve their factuality](https://twitter.com/WikiResearch/status/1723966761962520824)
