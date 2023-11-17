@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-17, 13:03:06",
+      "https://news.ycombinator.com/item?id=38302903"
+    ],
+    [
+      "The Changing \"Guarantees\" Given by Python's Global Interpreter Lock",
+      "https://stefan-marr.de/2023/11/python-global-interpreter-lock/"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 12:48:36",
       "https://news.ycombinator.com/item?id=38302780"
     ],
@@ -37,16 +47,6 @@
     [
       "YouTube Copyright ID Scammers Must Pay Artists $3.3M Restitution",
       "https://torrentfreak.com/youtube-copyright-id-scammers-must-pay-artists-3-3m-restitution-231116/"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 12:02:41",
-      "https://news.ycombinator.com/item?id=38302366"
-    ],
-    [
-      "Show HN: I made free resume enhancer with ChatGPT",
-      "https://chat.openai.com/g/g-iPOQIlHpk-resume-writer-enhance-your-resume-with-ai"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Ethernet Is Still Going Strong After 50 Years",
       "https://spectrum.ieee.org/ethernet-ieee-milestone"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 11:52:18",
+      "https://news.ycombinator.com/item?id=38302275"
+    ],
+    [
+      "Ask HN: What do you use to replace incandescent lights?",
+      "https://news.ycombinator.com/item?id=38302275"
     ]
   ],
   [
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2023-11-16, 22:40:18",
-      "https://news.ycombinator.com/item?id=38296667"
-    ],
-    [
-      "Pointer Pointer",
-      "https://pointerpointer.com/"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 22:16:01",
       "https://news.ycombinator.com/item?id=38296377"
     ],
     [
       "Stable Fiddusion: Frequency-domain blue noise generator",
       "https://acko.net/blog/stable-fiddusion/"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 18:54:17",
+      "https://news.ycombinator.com/item?id=38293714"
+    ],
+    [
+      "Air Accident Investigation Branch: film lights caused window damage on A321neo",
+      "https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "What Meta learned from Galactica, the doomed model",
       "https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 23:03:08",
-      "https://news.ycombinator.com/item?id=38271082"
-    ],
-    [
-      "Summing columns in remote Parquet files using DuckDB",
-      "https://til.simonwillison.net/duckdb/remote-parquet"
     ]
   ],
   [
