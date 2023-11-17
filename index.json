@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-17, 06:55:28",
+      "https://news.ycombinator.com/item?id=38300403"
+    ],
+    [
+      "How I optimized Portal to run on the Nintendo 64 [video]",
+      "https://www.youtube.com/watch?v=r4KGm7ixcqI"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 06:29:10",
       "https://news.ycombinator.com/item?id=38300241"
     ],
@@ -57,6 +67,16 @@
     [
       "Anomalous propagation and the sinking of the Russian warship Moskva",
       "https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 22:40:18",
+      "https://news.ycombinator.com/item?id=38296667"
+    ],
+    [
+      "Pointer Pointer",
+      "https://pointerpointer.com/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-11-16, 17:03:49",
-      "https://news.ycombinator.com/item?id=38292102"
+      "2023-11-16, 16:18:10",
+      "https://news.ycombinator.com/item?id=38291427"
     ],
     [
-      "std::source_location doesn't work if you need strings to be types",
-      "https://www.elbeno.com/blog/?p=1738"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 16:48:44",
-      "https://news.ycombinator.com/item?id=38291880"
-    ],
-    [
-      "AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools",
-      "https://github.com/protectai/ai-exploits"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 16:39:42",
-      "https://news.ycombinator.com/item?id=38291735"
-    ],
-    [
-      "The CWEB System of Structured Documentation",
-      "https://www-cs-faculty.stanford.edu/~knuth/cweb.html"
+      "Privacy is priceless, but Signal is expensive",
+      "https://signal.org/blog/signal-is-expensive/"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2023-11-15, 13:44:12",
-      "https://news.ycombinator.com/item?id=38276515"
+      "2023-11-16, 13:36:19",
+      "https://news.ycombinator.com/item?id=38289327"
     ],
     [
-      "Is Delaware the cheapest place to incorporate?",
-      "https://news.ycombinator.com/item?id=38276515"
+      "You don't need a CRDT to build a collaborative experience",
+      "https://zknill.io/posts/collaboration-no-crdts/"
     ]
   ],
   [
     [
-      "2023-11-15, 13:33:13",
-      "https://news.ycombinator.com/item?id=38276418"
+      "2023-11-15, 17:25:12",
+      "https://news.ycombinator.com/item?id=38279459"
     ],
     [
-      "Frutiger Aero",
-      "https://aesthetics.fandom.com/wiki/Frutiger_Aero"
+      "B-trees in Factorio",
+      "https://razberry.substack.com/p/btree-factorio"
     ]
   ],
   [
