@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 15:52:41](https://news.ycombinator.com/item?id=38305234) - [Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
+* [2023-11-17, 15:44:21](https://news.ycombinator.com/item?id=38305111) - [Amazon will cut 'several hundred' Alexa jobs as it ends unspecified initiatives](https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/)
+* [2023-11-17, 15:43:20](https://news.ycombinator.com/item?id=38305097) - [Amazon cuts 'several hundred' jobs in Alexa division](https://www.cnbc.com/2023/11/17/amazon-cuts-several-hundred-jobs-in-alexa-division.html)
 * [2023-11-17, 15:41:36](https://news.ycombinator.com/item?id=38305073) - [Made in China 2025](https://en.wikipedia.org/wiki/Made_in_China_2025)
 * [2023-11-17, 15:28:01](https://news.ycombinator.com/item?id=38304872) - [Show HN: Build and deploy a managed Postgres database from ChatGPT](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
 * [2023-11-17, 15:02:26](https://news.ycombinator.com/item?id=38304485) - [280M e-bikes and mopeds are cutting demand for oil far more than electric cars](https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870)
