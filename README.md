@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-17, 03:45:57](https://news.ycombinator.com/item?id=38299260) - [Fact check: Earth is not flat or surrounded by an ice wall](https://www.reuters.com/fact-check/earth-is-not-flat-or-surrounded-by-an-ice-wall-2023-09-29/)
 * [2023-11-17, 03:03:10](https://news.ycombinator.com/item?id=38298918) - [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 * [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 * [2023-11-17, 02:38:04](https://news.ycombinator.com/item?id=38298670) - [YouTube Dream Track AI Music Experiment (clones pop stars voices)](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
@@ -10,6 +9,7 @@
 * [2023-11-16, 22:16:01](https://news.ycombinator.com/item?id=38296377) - [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 * [2023-11-16, 21:05:45](https://news.ycombinator.com/item?id=38295524) - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
+* [2023-11-16, 19:58:29](https://news.ycombinator.com/item?id=38294623) - [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
 * [2023-11-16, 18:54:17](https://news.ycombinator.com/item?id=38293714) - [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
 * [2023-11-16, 18:04:54](https://news.ycombinator.com/item?id=38293082) - [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
 * [2023-11-16, 17:52:55](https://news.ycombinator.com/item?id=38292915) - [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
