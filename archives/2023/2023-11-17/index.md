@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 12:48:36](https://news.ycombinator.com/item?id=38302780) - [Almost No One Pays a 6% Real-Estate Commission–Except Americans](https://www.wsj.com/personal-finance/real-estate-buying-home-charts-6dc40caa)
+* [2023-11-17, 12:34:43](https://news.ycombinator.com/item?id=38302635) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 11:57:18](https://news.ycombinator.com/item?id=38302319) - [Unauthorized \"David Attenborough\" AI clone narrates developer's life, goes viral](https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/)
 * [2023-11-17, 11:56:13](https://news.ycombinator.com/item?id=38302306) - [Google News is shutting down purchased magazine content, offering refunds](https://arstechnica.com/gadgets/2023/11/google-news-will-stop-hosting-already-purchased-magazines-next-month/)
 * [2023-11-17, 11:56:13](https://news.ycombinator.com/item?id=38302306) - [Google News drops magazines, will delete all purchased content in a month](https://news.ycombinator.com/item?id=38302306)

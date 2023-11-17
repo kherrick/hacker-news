@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-17, 12:48:36](https://news.ycombinator.com/item?id=38302780) - [Almost No One Pays a 6% Real-Estate Commission–Except Americans](https://www.wsj.com/personal-finance/real-estate-buying-home-charts-6dc40caa)
+* [2023-11-17, 12:34:43](https://news.ycombinator.com/item?id=38302635) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 11:57:18](https://news.ycombinator.com/item?id=38302319) - [Unauthorized \"David Attenborough\" AI clone narrates developer's life, goes viral](https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/)
 * [2023-11-17, 11:56:13](https://news.ycombinator.com/item?id=38302306) - [Google News is shutting down purchased magazine content, offering refunds](https://arstechnica.com/gadgets/2023/11/google-news-will-stop-hosting-already-purchased-magazines-next-month/)
 * [2023-11-17, 10:46:20](https://news.ycombinator.com/item?id=38301801) - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
@@ -15,9 +17,7 @@
 * [2023-11-16, 22:40:18](https://news.ycombinator.com/item?id=38296667) - [Pointer Pointer](https://pointerpointer.com/)
 * [2023-11-16, 22:16:01](https://news.ycombinator.com/item?id=38296377) - [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
 * [2023-11-16, 21:40:13](https://news.ycombinator.com/item?id=38295943) - [Flathub – The Linux App Store](https://flathub.org/)
-* [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 * [2023-11-16, 18:54:17](https://news.ycombinator.com/item?id=38293714) - [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
-* [2023-11-16, 18:04:54](https://news.ycombinator.com/item?id=38293082) - [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
 * [2023-11-16, 17:52:55](https://news.ycombinator.com/item?id=38292915) - [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
 * [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The real realtime preemption end game](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
 * [2023-11-15, 08:03:02](https://news.ycombinator.com/item?id=38274380) - [Whiffle: A Purpose-Built Scheme](https://wingolog.org/archives/2023/11/14/whiffle-a-purpose-built-scheme)
