@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-11-17, 23:42:38",
+      "https://news.ycombinator.com/item?id=38312372"
+    ],
+    [
+      "Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman",
+      "https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 23:18:34",
       "https://news.ycombinator.com/item?id=38312045"
     ],
     [
       "The floating desalination machines powered by the waves",
       "https://www.bbc.co.uk/news/business-67237006"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 22:57:41",
-      "https://news.ycombinator.com/item?id=38311803"
-    ],
-    [
-      "Advertisers Flee X as Outcry Grows Over Musk’s Endorsement of Antisemitic Post",
-      "https://www.nytimes.com/2023/11/17/technology/elon-musk-twitter-x-advertisers.html"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-11-17, 17:21:53",
+      "https://news.ycombinator.com/item?id=38306680"
+    ],
+    [
+      "Apostrophe Protection Society",
+      "https://www.apostrophe.org.uk"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 17:14:22",
       "https://news.ycombinator.com/item?id=38306540"
     ],
@@ -227,16 +237,6 @@
     [
       "Wikidata, with 12B facts, can ground LLMs to improve their factuality",
       "https://twitter.com/WikiResearch/status/1723966761962520824"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 14:34:34",
-      "https://news.ycombinator.com/item?id=38304148"
-    ],
-    [
-      "Show HN: less than 650 LOC trainable GPT only using NumPy",
-      "https://github.com/joennlae/tensorli"
     ]
   ],
   [
