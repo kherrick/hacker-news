@@ -13,6 +13,7 @@
 * [2023-11-16, 19:58:29](https://news.ycombinator.com/item?id=38294623) - [Planning for Unplanned Work in Linear](https://linear.app/blog/planning-for-unplanned-work)
 * [2023-11-16, 18:54:17](https://news.ycombinator.com/item?id=38293714) - [Air Accident Investigation Branch: film lights caused window damage on A321neo](https://www.flightradar24.com/blog/aaib-says-film-lights-caused-window-damage-on-titan-a321neo/)
 * [2023-11-16, 18:04:54](https://news.ycombinator.com/item?id=38293082) - [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/)
+* [2023-11-16, 17:52:55](https://news.ycombinator.com/item?id=38292915) - [Why Simone Giertz spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
 * [2023-11-16, 17:29:07](https://news.ycombinator.com/item?id=38292553) - [Migrating to OpenTelemetry](https://www.airplane.dev/blog/migrating-to-opentelemetry)
 * [2023-11-16, 17:03:49](https://news.ycombinator.com/item?id=38292102) - [std::source_location Is Broken](https://www.elbeno.com/blog/?p=1738)
 * [2023-11-16, 16:48:44](https://news.ycombinator.com/item?id=38291880) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
@@ -27,7 +28,6 @@
 * [2023-11-15, 13:33:13](https://news.ycombinator.com/item?id=38276418) - [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 * [2023-11-15, 07:48:27](https://news.ycombinator.com/item?id=38274289) - [Magicians less prone to mental disorders than other artists, finds research](https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research)
 * [2023-11-15, 04:30:49](https://news.ycombinator.com/item?id=38273368) - [Fire Chicken Webring](https://firechicken.club/)
-* [2023-11-15, 02:17:43](https://news.ycombinator.com/item?id=38272561) - [Trail Magic: Unveiling Life Lessons from the Appalachian Trail and Podcasting](https://www.joincolossus.com/editorials/posts/trail-magic)
 * [2023-11-14, 23:03:08](https://news.ycombinator.com/item?id=38271082) - [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 
