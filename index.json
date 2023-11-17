@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38292102"
     ],
     [
-      "std::source_location doesn't work with static string types",
+      "std::source_location doesn't work if you need strings to be types",
       "https://www.elbeno.com/blog/?p=1738"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-11-15, 17:25:12",
+      "https://news.ycombinator.com/item?id=38279459"
+    ],
+    [
+      "B-trees in Factorio",
+      "https://razberry.substack.com/p/btree-factorio"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 13:44:12",
       "https://news.ycombinator.com/item?id=38276515"
     ],
@@ -217,16 +227,6 @@
     [
       "Frutiger Aero",
       "https://aesthetics.fandom.com/wiki/Frutiger_Aero"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 07:48:27",
-      "https://news.ycombinator.com/item?id=38274289"
-    ],
-    [
-      "Magicians less prone to mental disorders than other artists, finds research",
-      "https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research"
     ]
   ],
   [
