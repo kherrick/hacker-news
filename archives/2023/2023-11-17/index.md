@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 17:21:53](https://news.ycombinator.com/item?id=38306680) - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
 * [2023-11-17, 17:01:07](https://news.ycombinator.com/item?id=38306317) - [Ashby (YC W19) Is Hiring a Remote SRE to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=443ded5b-4baf-4bdc-8081-1666b4cb7ee3)
 * [2023-11-17, 16:52:28](https://news.ycombinator.com/item?id=38306174) - [With trillions at play, Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
 * [2023-11-17, 16:45:43](https://news.ycombinator.com/item?id=38306061) - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
