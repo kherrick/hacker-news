@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-11-16, 16:48:44",
-      "https://news.ycombinator.com/item?id=38291880"
-    ],
-    [
-      "AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools",
-      "https://github.com/protectai/ai-exploits"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 16:39:42",
       "https://news.ycombinator.com/item?id=38291735"
     ],
@@ -287,6 +277,16 @@
     [
       "Summing columns in remote Parquet files using DuckDB",
       "https://til.simonwillison.net/duckdb/remote-parquet"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 21:50:31",
+      "https://news.ycombinator.com/item?id=38270306"
+    ],
+    [
+      "Chinese scientists bring record-breaking Stirling generator to life",
+      "https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper"
     ]
   ],
   [
