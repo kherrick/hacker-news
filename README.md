@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-17, 03:15:56](https://news.ycombinator.com/item?id=38299024) - [I used AI to make an app to help me with my ADHD](https://github.com/timsayshey/cringe-clock/blob/main/README.md)
 * [2023-11-17, 03:03:10](https://news.ycombinator.com/item?id=38298918) - [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 * [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 * [2023-11-17, 02:38:04](https://news.ycombinator.com/item?id=38298670) - [YouTube Dream Track AI Music Experiment (clones pop stars voices)](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
@@ -21,7 +22,6 @@
 * [2023-11-16, 15:59:51](https://news.ycombinator.com/item?id=38291139) - [Emu Video and Emu Edit, our latest generative AI research milestones](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
 * [2023-11-16, 15:20:52](https://news.ycombinator.com/item?id=38290613) - [From email to phone number, a new OSINT approach (2019)](https://www.martinvigo.com/email2phonenumber/)
 * [2023-11-16, 14:47:02](https://news.ycombinator.com/item?id=38290145) - [The real realtime preemption end game](https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/)
-* [2023-11-16, 13:36:19](https://news.ycombinator.com/item?id=38289327) - [You don't need a CRDT to build a collaborative experience](https://zknill.io/posts/collaboration-no-crdts/)
 * [2023-11-15, 13:44:12](https://news.ycombinator.com/item?id=38276515) - [Is Delaware the cheapest place to incorporate?](https://news.ycombinator.com/item?id=38276515)
 * [2023-11-15, 13:33:13](https://news.ycombinator.com/item?id=38276418) - [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 * [2023-11-15, 07:48:27](https://news.ycombinator.com/item?id=38274289) - [Magicians less prone to mental disorders than other artists, finds research](https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research)
