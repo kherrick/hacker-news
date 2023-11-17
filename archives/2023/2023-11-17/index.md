@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
 * [2023-11-17, 20:36:58](https://news.ycombinator.com/item?id=38309770) - [Sam Altman Sacked](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired)
 * [2023-11-17, 20:33:58](https://news.ycombinator.com/item?id=38309696) - [Sam Altmen to Depart OpenAI, Mira Murati Interim CEO](https://news.ycombinator.com/item?id=38309696)
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI Announces Leadership Transition](https://openai.com/blog/openai-announces-leadership-transition)

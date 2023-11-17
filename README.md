@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI board fires Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
+* [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
+* [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
 * [2023-11-17, 20:12:35](https://news.ycombinator.com/item?id=38309350) - [The share of Americans who are mortgage-free is at an all-time high](https://www.bloomberg.com/news/articles/2023-11-17/amid-high-mortgage-rates-higher-share-of-americans-outright-own-homes)
 * [2023-11-17, 20:05:45](https://news.ycombinator.com/item?id=38309263) - [Sunday service suspended at all NYPL locations](https://www.nypl.org/about/service-impacts)
 * [2023-11-17, 19:55:42](https://news.ycombinator.com/item?id=38309113) - [Okta Security Breach: 134 Clients Impacted, Including Cloudflare and 1Password](https://www.cpomagazine.com/cyber-security/okta-security-breach-report-134-clients-impacted-including-cloudflare-and-1password/)
@@ -13,7 +14,6 @@
 * [2023-11-17, 17:21:53](https://news.ycombinator.com/item?id=38306680) - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
 * [2023-11-17, 17:14:22](https://news.ycombinator.com/item?id=38306540) - [Rocket v0.5: Stable, Async](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-17, 17:06:37](https://news.ycombinator.com/item?id=38306410) - [AIConfig – source control format for gen AI prompts, models and settings](https://github.com/lastmile-ai/aiconfig)
-* [2023-11-17, 17:01:07](https://news.ycombinator.com/item?id=38306317) - [Ashby (YC W19) is hiring a remote SRE to help us scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=443ded5b-4baf-4bdc-8081-1666b4cb7ee3)
 * [2023-11-17, 16:52:28](https://news.ycombinator.com/item?id=38306174) - [Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
 * [2023-11-17, 16:45:43](https://news.ycombinator.com/item?id=38306061) - [In two moves, AlphaGo and Lee Sedol redefined the future (2016)](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 * [2023-11-17, 16:45:34](https://news.ycombinator.com/item?id=38306057) - [Putting the \"J\" in the RPG, Part 1: Dorakue](https://www.filfre.net/2023/11/putting-the-j-in-the-rpg-part-1-dorakue/)
