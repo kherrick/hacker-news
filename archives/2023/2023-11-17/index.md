@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
+* [2023-11-17, 21:00:40](https://news.ycombinator.com/item?id=38310248) - [OpenAI's Sam Altman to depart as company's CEO](https://www.reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17/)
 * [2023-11-17, 20:36:58](https://news.ycombinator.com/item?id=38309770) - [Sam Altman Sacked](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired)
 * [2023-11-17, 20:33:58](https://news.ycombinator.com/item?id=38309696) - [Sam Altmen to Depart OpenAI, Mira Murati Interim CEO](https://news.ycombinator.com/item?id=38309696)
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI Announces Leadership Transition](https://openai.com/blog/openai-announces-leadership-transition)
@@ -23,6 +24,7 @@
 * [2023-11-17, 18:17:30](https://news.ycombinator.com/item?id=38307596) - [How the Gas Turbine Conquered the Electric Power Industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
 * [2023-11-17, 18:12:57](https://news.ycombinator.com/item?id=38307538) - [Swedish dockworkers are refusing to unload Teslas at ports in broad boycott move](https://text.npr.org/1213157550)
 * [2023-11-17, 18:10:40](https://news.ycombinator.com/item?id=38307504) - [Google's ChatGPT Competitor Will Have to Wait](https://gizmodo.com/google-s-chatgpt-competitor-will-have-to-wait-1851030761)
+* [2023-11-17, 18:03:20](https://news.ycombinator.com/item?id=38307384) - [Why superconductor research is in a 'golden age' – despite controversy](https://www.nature.com/articles/d41586-023-03551-z)
 * [2023-11-17, 18:02:28](https://news.ycombinator.com/item?id=38307367) - [Starship lunar lander missions to require nearly 20 launches, NASA says](https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/)
 * [2023-11-17, 17:50:32](https://news.ycombinator.com/item?id=38307180) - [Paris to hold referendum on higher parking fees for heavy SUVs](https://www.brusselstimes.com/796298/paris-to-hold-referendum-on-higher-parking-fees-for-heavy-suvs)
 * [2023-11-17, 17:39:44](https://news.ycombinator.com/item?id=38307008) - [It's true – your devices are listening to you](https://mastodon.social/@Privacymatters/111422828004357808)

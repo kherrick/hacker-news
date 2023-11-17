@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
+* [2023-11-17, 21:00:40](https://news.ycombinator.com/item?id=38310248) - [OpenAI's Sam Altman to depart as company's CEO](https://www.reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17/)
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
-* [2023-11-17, 20:12:35](https://news.ycombinator.com/item?id=38309350) - [The share of Americans who are mortgage-free is at an all-time high](https://www.bloomberg.com/news/articles/2023-11-17/amid-high-mortgage-rates-higher-share-of-americans-outright-own-homes)
-* [2023-11-17, 20:05:45](https://news.ycombinator.com/item?id=38309263) - [Sunday service suspended at all NYPL locations](https://www.nypl.org/about/service-impacts)
 * [2023-11-17, 19:55:42](https://news.ycombinator.com/item?id=38309113) - [Okta Security Breach: 134 Clients Impacted, Including Cloudflare and 1Password](https://www.cpomagazine.com/cyber-security/okta-security-breach-report-134-clients-impacted-including-cloudflare-and-1password/)
 * [2023-11-17, 19:41:53](https://news.ycombinator.com/item?id=38309014) - [The state of silicon and the GPU poors](https://www.latent.space/p/semianalysis)
 * [2023-11-17, 19:16:01](https://news.ycombinator.com/item?id=38308552) - [A PCIe Coral TPU Finally Works on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5)
@@ -11,6 +10,7 @@
 * [2023-11-17, 18:35:36](https://news.ycombinator.com/item?id=38307889) - [Half-Life 25th Anniversary Update](https://www.half-life.com/en/halflife25/)
 * [2023-11-17, 18:25:12](https://news.ycombinator.com/item?id=38307711) - [Ask HN: What are the most interesting takes on Generative AI you've come across?](https://news.ycombinator.com/item?id=38307711)
 * [2023-11-17, 18:17:30](https://news.ycombinator.com/item?id=38307596) - [How the Gas Turbine Conquered the Electric Power Industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
+* [2023-11-17, 18:03:20](https://news.ycombinator.com/item?id=38307384) - [Why superconductor research is in a 'golden age' – despite controversy](https://www.nature.com/articles/d41586-023-03551-z)
 * [2023-11-17, 17:21:53](https://news.ycombinator.com/item?id=38306680) - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
 * [2023-11-17, 17:14:22](https://news.ycombinator.com/item?id=38306540) - [Rocket v0.5: Stable, Async](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-17, 17:06:37](https://news.ycombinator.com/item?id=38306410) - [AIConfig – source control format for gen AI prompts, models and settings](https://github.com/lastmile-ai/aiconfig)
