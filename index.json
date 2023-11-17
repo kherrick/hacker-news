@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-17, 00:49:31",
+      "https://news.ycombinator.com/item?id=38297805"
+    ],
+    [
+      "Portugal just ran on 100% renewables for six days in a row",
+      "https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 23:51:31",
+      "https://news.ycombinator.com/item?id=38297349"
+    ],
+    [
+      "Anomalous propagation and the sinking of the Russian warship Moskva",
+      "https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 23:35:27",
       "https://news.ycombinator.com/item?id=38297203"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2023-11-16, 20:43:34",
-      "https://news.ycombinator.com/item?id=38295179"
-    ],
-    [
-      "Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks",
-      "https://tinyllms.vercel.app/dashboard"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 19:58:29",
       "https://news.ycombinator.com/item?id=38294623"
     ],
     [
       "Planning for Unplanned Work in Linear",
       "https://linear.app/blog/planning-for-unplanned-work"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 19:54:59",
-      "https://news.ycombinator.com/item?id=38294569"
-    ],
-    [
-      "Moving from AWS to Bare-Metal saved us $230k per year",
-      "https://blog.oneuptime.com/moving-from-aws-to-bare-metal/"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "The CWEB System of Structured Documentation",
       "https://www-cs-faculty.stanford.edu/~knuth/cweb.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 16:20:48",
+      "https://news.ycombinator.com/item?id=38291452"
+    ],
+    [
+      "Tell HN: How you changed my life trajectory",
+      "https://news.ycombinator.com/item?id=38291452"
     ]
   ],
   [
@@ -231,36 +241,6 @@
   ],
   [
     [
-      "2023-11-16, 09:17:34",
-      "https://news.ycombinator.com/item?id=38287299"
-    ],
-    [
-      "A failed AI girlfriend product, and my lessons",
-      "https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 09:12:15",
-      "https://news.ycombinator.com/item?id=38287257"
-    ],
-    [
-      "Smart drugs reduce quality of effort, and slow decision-making",
-      "https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 14:08:03",
-      "https://news.ycombinator.com/item?id=38276727"
-    ],
-    [
-      "Operating on a minimal two-core Postgres instance: Query optimization insights",
-      "https://robertrode.com/2023/11/15/operating-an-entire-company-on-a-minimal-two-core-postgresql-instance-query-optimization-insights-part-1.html"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 13:44:12",
       "https://news.ycombinator.com/item?id=38276515"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2023-11-15, 11:47:00",
+      "https://news.ycombinator.com/item?id=38275698"
+    ],
+    [
+      "Hello World on the GPU (2019)",
+      "https://acko.net/blog/hello-world-on-the-gpu/"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 07:48:27",
       "https://news.ycombinator.com/item?id=38274289"
     ],
     [
       "Magicians less prone to mental disorders than other artists, finds research",
       "https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 23:03:08",
+      "https://news.ycombinator.com/item?id=38271082"
+    ],
+    [
+      "Summing columns in remote Parquet files using DuckDB",
+      "https://til.simonwillison.net/duckdb/remote-parquet"
     ]
   ],
   [
