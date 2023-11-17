@@ -9,6 +9,7 @@
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI Announces Leadership Transition](https://openai.com/blog/openai-announces-leadership-transition)
 * [2023-11-17, 20:12:35](https://news.ycombinator.com/item?id=38309350) - [The Share of Americans Who Are Mortgage-Free Is at an All-Time High](https://www.bloomberg.com/news/articles/2023-11-17/amid-high-mortgage-rates-higher-share-of-americans-outright-own-homes)
 * [2023-11-17, 20:05:45](https://news.ycombinator.com/item?id=38309263) - [Sunday Service Suspended at All NYPL Locations](https://www.nypl.org/about/service-impacts)
+* [2023-11-17, 19:55:42](https://news.ycombinator.com/item?id=38309113) - [Okta Security Breach: 134 Clients Impacted, Including Cloudflare and 1Password](https://www.cpomagazine.com/cyber-security/okta-security-breach-report-134-clients-impacted-including-cloudflare-and-1password/)
 * [2023-11-17, 19:44:03](https://news.ycombinator.com/item?id=38309041) - [Apple to pause advertising on X after Musk backs antisemitic post](https://www.axios.com/2023/11/17/apple-twitter-x-advertising-elon-musk-antisemitism-ads)
 * [2023-11-17, 19:41:53](https://news.ycombinator.com/item?id=38309014) - [The State of Silicon and the GPU Poors](https://www.latent.space/p/semianalysis)
 * [2023-11-17, 19:27:14](https://news.ycombinator.com/item?id=38308765) - [Google Photos Replacement](https://selfhosted.show/110?t=1198)
