@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
 * [2023-11-17, 11:57:18](https://news.ycombinator.com/item?id=38302319) - [Unauthorized \"David Attenborough\" AI clone narrates developer's life, goes viral](https://arstechnica.com/information-technology/2023/11/unauthorized-david-attenborough-ai-clone-narrates-developers-life-goes-viral/)
+* [2023-11-17, 11:56:13](https://news.ycombinator.com/item?id=38302306) - [Google News is shutting down purchased magazine content, offering refunds](https://arstechnica.com/gadgets/2023/11/google-news-will-stop-hosting-already-purchased-magazines-next-month/)
 * [2023-11-17, 11:56:13](https://news.ycombinator.com/item?id=38302306) - [Google News drops magazines, will delete all purchased content in a month](https://news.ycombinator.com/item?id=38302306)
 * [2023-11-17, 10:46:20](https://news.ycombinator.com/item?id=38301801) - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
 * [2023-11-17, 10:33:23](https://news.ycombinator.com/item?id=38301710) - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
