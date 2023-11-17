@@ -104,6 +104,7 @@
 * [2023-11-15, 08:51:45](https://news.ycombinator.com/item?id=38274642) - [My primality testing code is 6x faster than Sir Roger Penrose's](https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html)
 * [2023-11-15, 08:40:09](https://news.ycombinator.com/item?id=38274568) - [Paul Graham – Orthodox Privilege (2020)](http://www.paulgraham.com/orth.html)
 * [2023-11-15, 08:12:35](https://news.ycombinator.com/item?id=38274427) - [Sam Altman on X: \"we are pausing new ChatGPT Plus sign-ups for a bit\"](https://twitter.com/sama/status/1724626002595471740)
+* [2023-11-15, 08:03:02](https://news.ycombinator.com/item?id=38274380) - [Whiffle: A Purpose-Built Scheme](https://wingolog.org/archives/2023/11/14/whiffle-a-purpose-built-scheme)
 * [2023-11-15, 07:48:27](https://news.ycombinator.com/item?id=38274289) - [Magicians less prone to mental disorders than other artists, finds research](https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research)
 * [2023-11-15, 07:32:40](https://news.ycombinator.com/item?id=38274212) - [What If Google Wasn't the Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 * [2023-11-15, 07:32:31](https://news.ycombinator.com/item?id=38274210) - [13 days before the first eIDAS vote, still no public text](https://last-chance-for-eidas.org/update-151123)
