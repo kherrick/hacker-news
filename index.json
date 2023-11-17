@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-11-17, 03:15:56",
-      "https://news.ycombinator.com/item?id=38299024"
-    ],
-    [
-      "I used AI to make an app to help me with my ADHD",
-      "https://github.com/timsayshey/cringe-clock/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 03:03:10",
       "https://news.ycombinator.com/item?id=38298918"
     ],
     [
-      "No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon",
+      "De-crufted Windows 11 coming to Europe soon",
       "https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/"
     ]
   ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-11-16, 22:40:18",
+      "https://news.ycombinator.com/item?id=38296667"
+    ],
+    [
+      "Pointer Pointer",
+      "https://pointerpointer.com/"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 22:16:01",
       "https://news.ycombinator.com/item?id=38296377"
     ],
@@ -61,12 +61,42 @@
   ],
   [
     [
+      "2023-11-16, 21:40:13",
+      "https://news.ycombinator.com/item?id=38295943"
+    ],
+    [
+      "Flathub – The Linux App Store",
+      "https://flathub.org/"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 21:15:07",
       "https://news.ycombinator.com/item?id=38295638"
     ],
     [
       "In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF",
       "https://news.ycombinator.com/item?id=38295638"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 21:05:45",
+      "https://news.ycombinator.com/item?id=38295524"
+    ],
+    [
+      "OCapN, Interoperable Capabilities over the Network",
+      "https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 19:58:29",
+      "https://news.ycombinator.com/item?id=38294623"
+    ],
+    [
+      "Planning for Unplanned Work in Linear",
+      "https://linear.app/blog/planning-for-unplanned-work"
     ]
   ],
   [
@@ -115,8 +145,18 @@
       "https://news.ycombinator.com/item?id=38292102"
     ],
     [
-      "std::source_location Is Broken",
+      "std::source_location doesn't work with static string types",
       "https://www.elbeno.com/blog/?p=1738"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 16:48:44",
+      "https://news.ycombinator.com/item?id=38291880"
+    ],
+    [
+      "AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools",
+      "https://github.com/protectai/ai-exploits"
     ]
   ],
   [
@@ -131,42 +171,12 @@
   ],
   [
     [
-      "2023-11-16, 16:20:48",
-      "https://news.ycombinator.com/item?id=38291452"
-    ],
-    [
-      "Tell HN: How you changed my life trajectory",
-      "https://news.ycombinator.com/item?id=38291452"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 16:18:10",
       "https://news.ycombinator.com/item?id=38291427"
     ],
     [
       "Privacy is priceless, but Signal is expensive",
       "https://signal.org/blog/signal-is-expensive/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 16:04:42",
-      "https://news.ycombinator.com/item?id=38291199"
-    ],
-    [
-      "Zimbra 0-day used to steal email data from government organizations",
-      "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 15:59:51",
-      "https://news.ycombinator.com/item?id=38291139"
-    ],
-    [
-      "Emu Video and Emu Edit, our latest generative AI research milestones",
-      "https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "The real realtime preemption end game",
       "https://lwn.net/SubscriberLink/951337/e9139cdb65a9cb93/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 08:39:29",
-      "https://news.ycombinator.com/item?id=38287043"
-    ],
-    [
-      "Google's advanced music generation model and two new AI experiments",
-      "https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38270360"
     ],
     [
-      "How to Write a Cold Email",
+      "How to write a cold email (2020)",
       "https://sriramk.com/coldemail"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38270306"
     ],
     [
-      "Chinese scientists bring record-breaking Stirling generator to life",
+      "A prototype for a new, quiet, thermoacoustic Stirling generator",
       "https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper"
     ]
   ],
