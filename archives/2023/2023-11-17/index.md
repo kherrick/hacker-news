@@ -6,6 +6,7 @@
 
 * [2023-11-17, 13:24:21](https://news.ycombinator.com/item?id=38303159) - [The night train revolution has been hailed as an alternative to airplanes](https://www.cnn.com/travel/night-train-revolution-alternative-to-planes/index.html)
 * [2023-11-17, 13:10:27](https://news.ycombinator.com/item?id=38302975) - [Ivy League Backlash Draws Money, Students to Upstart University in Texas](https://www.bloomberg.com/news/articles/2023-11-17/university-of-austin-uatx-draws-donors-as-israel-backlash-hits-harvard-upenn)
+* [2023-11-17, 13:03:06](https://news.ycombinator.com/item?id=38302903) - [The Changing \"Guarantees\" Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 * [2023-11-17, 12:48:36](https://news.ycombinator.com/item?id=38302780) - [Almost No One Pays a 6% Real-Estate Commission–Except Americans](https://www.wsj.com/personal-finance/real-estate-buying-home-charts-6dc40caa)
 * [2023-11-17, 12:34:43](https://news.ycombinator.com/item?id=38302635) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 12:34:37](https://news.ycombinator.com/item?id=38302634) - [YouTube Copyright ID Scammers Must Pay Artists $3.3M Restitution](https://torrentfreak.com/youtube-copyright-id-scammers-must-pay-artists-3-3m-restitution-231116/)
@@ -15,6 +16,7 @@
 * [2023-11-17, 11:56:13](https://news.ycombinator.com/item?id=38302306) - [Google News drops magazines, will delete all purchased content in a month](https://news.ycombinator.com/item?id=38302306)
 * [2023-11-17, 11:54:23](https://news.ycombinator.com/item?id=38302288) - [The Astonishing Behavior of Recursive Sequences](https://www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/)
 * [2023-11-17, 11:53:51](https://news.ycombinator.com/item?id=38302283) - [Ethernet Is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
+* [2023-11-17, 11:52:18](https://news.ycombinator.com/item?id=38302275) - [Ask HN: What do you use to replace incandescent lights?](https://news.ycombinator.com/item?id=38302275)
 * [2023-11-17, 10:46:20](https://news.ycombinator.com/item?id=38301801) - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
 * [2023-11-17, 10:33:23](https://news.ycombinator.com/item?id=38301710) - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
 * [2023-11-17, 10:20:33](https://news.ycombinator.com/item?id=38301644) - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
