@@ -4,7 +4,6 @@
 * [2023-11-17, 02:17:13](https://news.ycombinator.com/item?id=38298502) - [Google confirms they will disable uBlock Origin in Chrome in 2024](https://sh.reddit.com/r/uBlockOrigin/comments/17wu2gz/google_confirms_they_will_disable_ublock_origin/)
 * [2023-11-17, 01:56:38](https://news.ycombinator.com/item?id=38298314) - [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
 * [2023-11-17, 00:49:31](https://news.ycombinator.com/item?id=38297805) - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
-* [2023-11-17, 00:44:33](https://news.ycombinator.com/item?id=38297765) - [The Tesla Semi from an Insider's View After One Year: \"Hot Mess\"](https://bradmunchen.substack.com/p/scoop-the-tesla-semi-from-an-insiders)
 * [2023-11-16, 23:51:31](https://news.ycombinator.com/item?id=38297349) - [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
 * [2023-11-16, 23:35:27](https://news.ycombinator.com/item?id=38297203) - [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
 * [2023-11-16, 22:16:01](https://news.ycombinator.com/item?id=38296377) - [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
@@ -28,6 +27,7 @@
 * [2023-11-15, 13:33:13](https://news.ycombinator.com/item?id=38276418) - [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 * [2023-11-15, 07:48:27](https://news.ycombinator.com/item?id=38274289) - [Magicians less prone to mental disorders than other artists, finds research](https://www.theguardian.com/science/2023/nov/15/magicians-less-prone-to-mental-disorders-than-other-artists-finds-research)
 * [2023-11-15, 04:30:49](https://news.ycombinator.com/item?id=38273368) - [Fire Chicken Webring](https://firechicken.club/)
+* [2023-11-15, 00:54:24](https://news.ycombinator.com/item?id=38271998) - [Small scale data migrations (2012)](https://www.mooreds.com/wordpress/archives/876)
 * [2023-11-14, 23:03:08](https://news.ycombinator.com/item?id=38271082) - [Summing columns in remote Parquet files using DuckDB](https://til.simonwillison.net/duckdb/remote-parquet)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 
