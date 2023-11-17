@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-17, 06:55:28](https://news.ycombinator.com/item?id=38300403) - [How I optimized Portal to run on the Nintendo 64 [video]](https://www.youtube.com/watch?v=r4KGm7ixcqI)
-* [2023-11-17, 06:29:10](https://news.ycombinator.com/item?id=38300241) - [Gmail using too much RAM: 1-2GB per tab in Safari](https://discussions.apple.com/thread/253901216)
 * [2023-11-17, 05:18:56](https://news.ycombinator.com/item?id=38299888) - [I Analyzed StackOverflow for Secrets](https://matan-h.com/analyze-stackoverflow)
 * [2023-11-17, 03:03:10](https://news.ycombinator.com/item?id=38298918) - [De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 * [2023-11-17, 02:40:31](https://news.ycombinator.com/item?id=38298695) - [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
@@ -30,6 +29,7 @@
 * [2023-11-14, 21:54:22](https://news.ycombinator.com/item?id=38270360) - [How to write a cold email (2020)](https://sriramk.com/coldemail)
 * [2023-11-14, 21:50:31](https://news.ycombinator.com/item?id=38270306) - [A prototype for a new, quiet, thermoacoustic Stirling generator](https://www.scmp.com/news/china/science/article/3240924/chinese-scientists-bring-record-breaking-stirling-generator-life-while-nasas-patent-stays-paper)
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
+* [2023-11-14, 20:49:10](https://news.ycombinator.com/item?id=38269531) - [How Stone Walls Became a Signature Landform of New England](https://www.smithsonianmag.com/travel/how-stone-walls-became-a-signature-landform-of-new-england-180983250/)
 
 ## [Archives](archives/index.md)
 

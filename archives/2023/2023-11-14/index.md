@@ -24,6 +24,7 @@
 * [2023-11-14, 21:12:57](https://news.ycombinator.com/item?id=38269866) - [A floating solar-powered device produces clean water and clean fuel](https://www.cam.ac.uk/research/news/solar-powered-device-produces-clean-water-and-clean-fuel-at-the-same-time)
 * [2023-11-14, 21:01:07](https://news.ycombinator.com/item?id=38269680) - [IcePanel (YC W23) Is Hiring in Vancouver, Canada](https://icepanel.io/careers)
 * [2023-11-14, 20:58:08](https://news.ycombinator.com/item?id=38269656) - [YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/)
+* [2023-11-14, 20:49:10](https://news.ycombinator.com/item?id=38269531) - [How Stone Walls Became a Signature Landform of New England](https://www.smithsonianmag.com/travel/how-stone-walls-became-a-signature-landform-of-new-england-180983250/)
 * [2023-11-14, 20:44:13](https://news.ycombinator.com/item?id=38269460) - [But What Do We Do If Google Is Legitimately Just a Better Search Engine?](https://www.techdirt.com/2023/11/14/but-what-do-we-do-if-google-is-legitimately-just-a-better-search-engine/)
 * [2023-11-14, 20:44:11](https://news.ycombinator.com/item?id=38269458) - [Roger Penrose – Interview – Is Mathematics Invented or Discovered?](https://abakcus.com/video/roger-penrose-is-mathematics-invented-or-discovered/)
 * [2023-11-14, 20:44:11](https://news.ycombinator.com/item?id=38269458) - [Is Mathematics Invented or Discovered? (2020) [video]](https://www.youtube.com/watch?v=ujvS2K06dg4)
