@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-17, 03:03:10](https://news.ycombinator.com/item?id=38298918) - [No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon](https://arstechnica.com/gadgets/2023/11/europeans-can-soon-strip-bing-edge-other-microsoft-cruft-from-windows-11/)
 * [2023-11-17, 02:17:13](https://news.ycombinator.com/item?id=38298502) - [Google confirms they will disable uBlock Origin in Chrome in 2024](https://sh.reddit.com/r/uBlockOrigin/comments/17wu2gz/google_confirms_they_will_disable_ublock_origin/)
 * [2023-11-17, 01:56:38](https://news.ycombinator.com/item?id=38298314) - [Old Manifest V2 Chrome extensions will be disabled in 2024](https://9to5google.com/2023/11/16/chrome-extensions-disabled/)
 * [2023-11-17, 00:49:31](https://news.ycombinator.com/item?id=38297805) - [Portugal just ran on 100% renewables for six days in a row](https://www.canarymedia.com/articles/clean-energy/portugal-just-ran-on-100-renewables-for-six-days-in-a-row)
 * [2023-11-17, 00:44:33](https://news.ycombinator.com/item?id=38297765) - [The Tesla Semi from an Insider's View After One Year: \"Hot Mess\"](https://bradmunchen.substack.com/p/scoop-the-tesla-semi-from-an-insiders)
 * [2023-11-16, 23:51:31](https://news.ycombinator.com/item?id=38297349) - [Anomalous propagation and the sinking of the Russian warship Moskva](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0113.1/BAMS-D-23-0113.1.xml)
 * [2023-11-16, 23:35:27](https://news.ycombinator.com/item?id=38297203) - [Justice Dept Says Collusion Suit Against Apartment Owners Should Move Forward](https://www.wsj.com/us-news/law/justice-department-clears-the-way-for-collusion-suit-against-apartment-owners-e545f260)
-* [2023-11-16, 22:40:18](https://news.ycombinator.com/item?id=38296667) - [Pointer Pointer](https://pointerpointer.com/)
 * [2023-11-16, 22:16:01](https://news.ycombinator.com/item?id=38296377) - [Stable Fiddusion: Frequency-domain blue noise generator](https://acko.net/blog/stable-fiddusion/)
 * [2023-11-16, 21:15:07](https://news.ycombinator.com/item?id=38295638) - [In-person YC Startup Tech Talk and hiring mixer on 12/4 in SF](https://news.ycombinator.com/item?id=38295638)
 * [2023-11-16, 21:05:45](https://news.ycombinator.com/item?id=38295524) - [OCapN, Interoperable Capabilities over the Network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
