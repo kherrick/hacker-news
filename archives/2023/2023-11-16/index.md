@@ -18,6 +18,7 @@
 * [2023-11-16, 20:50:35](https://news.ycombinator.com/item?id=38295285) - [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39)
 * [2023-11-16, 20:43:34](https://news.ycombinator.com/item?id=38295179) - [Show HN: Tiny LLMs – Browser-based private AI models for a wide array of tasks](https://tinyllms.vercel.app/dashboard)
 * [2023-11-16, 20:28:52](https://news.ycombinator.com/item?id=38295006) - [The Great Cajun Turtle Heist](https://www.texasmonthly.com/true-crime/alligator-snapping-turtle-poaching/)
+* [2023-11-16, 20:22:52](https://news.ycombinator.com/item?id=38294941) - [The Patterns of Reality](https://aeon.co/essays/more-than-argument-logic-is-the-very-structure-of-reality)
 * [2023-11-16, 20:19:55](https://news.ycombinator.com/item?id=38294903) - [Not Everyone Agreed with Einstein](https://lithub.com/not-everyone-agreed-with-albert-einstein-including-children-schrodinger-and-heisenberg/)
 * [2023-11-16, 20:13:31](https://news.ycombinator.com/item?id=38294822) - [Microsoft wants to move Windows to the cloud](https://www.theverge.com/2023/6/27/23775117/microsoft-windows-11-cloud-consumer-strategy)
 * [2023-11-16, 20:05:25](https://news.ycombinator.com/item?id=38294723) - [Why thinking hard makes us feel tired](https://www.nature.com/articles/d41586-022-02161-5)

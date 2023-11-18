@@ -22,7 +22,7 @@
 * [2023-11-17, 06:59:28](https://news.ycombinator.com/item?id=38300425) - [Practical nil panic detection for Go](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
 * [2023-11-16, 20:28:52](https://news.ycombinator.com/item?id=38295006) - [The Great Cajun Turtle Heist](https://www.texasmonthly.com/true-crime/alligator-snapping-turtle-poaching/)
-* [2023-11-16, 20:19:55](https://news.ycombinator.com/item?id=38294903) - [Not Everyone Agreed with Einstein](https://lithub.com/not-everyone-agreed-with-albert-einstein-including-children-schrodinger-and-heisenberg/)
+* [2023-11-16, 20:22:52](https://news.ycombinator.com/item?id=38294941) - [The Patterns of Reality](https://aeon.co/essays/more-than-argument-logic-is-the-very-structure-of-reality)
 * [2023-11-16, 19:34:48](https://news.ycombinator.com/item?id=38294275) - [What if money expired?](https://www.noemamag.com/what-if-money-expired/)
 * [2023-11-16, 16:54:56](https://news.ycombinator.com/item?id=38291966) - [Humanity 101: The Syllabus of Frankenstein's Monster](https://publicdomainreview.org/collection/frankenstein-monster-reading-list/)
 * [2023-11-16, 05:44:53](https://news.ycombinator.com/item?id=38286168) - [Emily Wilson Reimagined Homer](https://yalereview.org/article/emily-greenwood-emily-wilson-the-iliad)
