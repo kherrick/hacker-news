@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 08:29:37](https://news.ycombinator.com/item?id=38316946) - [A homeless man built a life underground Hampstead Heath](https://www.theguardian.com/news/2020/mar/05/invisible-city-how-homeless-man-built-life-underground-bunker-hampstead-heath)
 * [2023-11-18, 08:28:27](https://news.ycombinator.com/item?id=38316936) - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
 * [2023-11-18, 08:26:44](https://news.ycombinator.com/item?id=38316921) - [Sam Altman's personal investments overlap with the charities](https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/)
+* [2023-11-18, 08:25:38](https://news.ycombinator.com/item?id=38316915) - [Eoops: An object-oriented programming system for Emacs-Lisp](https://dl.acm.org/doi/10.1145/147135.147248)
 * [2023-11-18, 08:21:53](https://news.ycombinator.com/item?id=38316893) - [North Korea making billions from stolen cryptocurrency](https://www.abc.net.au/news/2023-11-18/how-north-korea-makes-a-fortune-stealing-crypto/103107824)
 * [2023-11-18, 08:17:45](https://news.ycombinator.com/item?id=38316870) - [New York may ban noncompete employment agreements and Wall Street is not happy](https://fortune.com/2023/11/16/new-york-may-ban-noncompete-employment-agreements-wall-street-not-happy-kathy-hochul/)
 * [2023-11-18, 08:06:42](https://news.ycombinator.com/item?id=38316790) - [Ask HN: Is paid ChatGPT Plus worth it?](https://news.ycombinator.com/item?id=38316790)
