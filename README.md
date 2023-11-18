@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 06:28:09](https://news.ycombinator.com/item?id=38316167) - [The Religion of the Engineers; and Hayek Its True Prophet](https://crookedtimber.org/2023/11/13/the-religion-of-the-engineers-and-hayek-its-true-prophet/)
 * [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
@@ -13,7 +14,6 @@
 * [2023-11-18, 00:06:28](https://news.ycombinator.com/item?id=38312649) - [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 * [2023-11-17, 23:42:38](https://news.ycombinator.com/item?id=38312372) - [Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
 * [2023-11-17, 23:14:10](https://news.ycombinator.com/item?id=38311999) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
-* [2023-11-17, 23:10:58](https://news.ycombinator.com/item?id=38311951) - [Heightened pain sensitivity is linked to sympathy for opposing political views](https://www.rotman.utoronto.ca/Connect/MediaCentre/NewsReleases/20231109)
 * [2023-11-17, 22:32:55](https://news.ycombinator.com/item?id=38311453) - [Old engineering simulation games, now open source [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
 * [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
