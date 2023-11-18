@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-11-18, 00:40:01",
+      "https://news.ycombinator.com/item?id=38313129"
+    ],
+    [
+      "Sam Altman was raising a VC fund when OpenAI fired him",
+      "https://www.semafor.com/article/11/17/2023/openai-board-fires-sam-altman"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 00:28:59",
+      "https://news.ycombinator.com/item?id=38312974"
+    ],
+    [
+      "Yuzu Progress Report October 2023",
+      "https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 00:10:21",
+      "https://news.ycombinator.com/item?id=38312704"
+    ],
+    [
+      "Greg Brockman quits OpenAI",
+      "https://twitter.com/gdb/status/1725667410387378559?s=20"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 00:06:28",
+      "https://news.ycombinator.com/item?id=38312649"
+    ],
+    [
+      "I Hacked the Magic Mouse",
+      "https://uplab.pro/2023/11/i-hacked-the-magic-mouse/"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 23:42:38",
       "https://news.ycombinator.com/item?id=38312372"
     ],
@@ -31,16 +71,6 @@
   ],
   [
     [
-      "2023-11-17, 22:00:02",
-      "https://news.ycombinator.com/item?id=38311076"
-    ],
-    [
-      "I wrote in June 2021 how Sam Altman's departure from YC had been under explored",
-      "https://twitter.com/EricNewcomer/status/1725633569056506282"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 21:18:32",
       "https://news.ycombinator.com/item?id=38310502"
     ],
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38310270"
     ],
     [
-      "UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team",
+      "Upcodes (YC S17) is hiring a recruiter to help build out remote team",
       "https://up.codes/careers?utm_source=HN"
     ]
   ],
@@ -107,16 +137,6 @@
     [
       "A PCIe Coral TPU Finally Works on Raspberry Pi 5",
       "https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 19:07:36",
-      "https://news.ycombinator.com/item?id=38308408"
-    ],
-    [
-      "Bitwarden is down with blank screen under Linux OpenSuse",
-      "https://community.bitwarden.com/t/bitwarden-is-down-with-blank-screen-under-linux-opensuse/58751"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-11-17, 14:44:58",
-      "https://news.ycombinator.com/item?id=38304290"
-    ],
-    [
-      "Wikidata, with 12B facts, can ground LLMs to improve their factuality",
-      "https://twitter.com/WikiResearch/status/1723966761962520824"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 12:55:41",
       "https://news.ycombinator.com/item?id=38302844"
     ],
@@ -277,16 +287,6 @@
     [
       "Deobfuscating World of Warships' Python Scripts",
       "https://landaire.net/world-of-warships-deobfuscation/"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 10:20:33",
-      "https://news.ycombinator.com/item?id=38301644"
-    ],
-    [
-      "Emacs-ng: A project to integrate Deno and WebRender into Emacs",
-      "https://github.com/emacs-ng/emacs-ng"
     ]
   ],
   [
