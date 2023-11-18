@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 09:11:32](https://news.ycombinator.com/item?id=38317245) - [These Are the People That Fired OpenAI CEO Sam Altman](https://www.forbes.com/sites/alexkonrad/2023/11/17/these-are-the-people-that-fired-openai-ceo-sam-altman/)
 * [2023-11-18, 08:31:21](https://news.ycombinator.com/item?id=38316953) - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 * [2023-11-18, 08:29:37](https://news.ycombinator.com/item?id=38316946) - [A homeless man built a life underground Hampstead Heath](https://www.theguardian.com/news/2020/mar/05/invisible-city-how-homeless-man-built-life-underground-bunker-hampstead-heath)
 * [2023-11-18, 08:28:27](https://news.ycombinator.com/item?id=38316936) - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
@@ -14,7 +15,6 @@
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
 * [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
-* [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing?](https://twitter.com/karaswisher/status/1725702501435941294)
 * [2023-11-18, 01:08:39](https://news.ycombinator.com/item?id=38313457) - [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
 * [2023-11-18, 00:28:59](https://news.ycombinator.com/item?id=38312974) - [Yuzu Progress Report October 2023](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
 * [2023-11-18, 00:10:21](https://news.ycombinator.com/item?id=38312704) - [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
