@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 21:08:13](https://news.ycombinator.com/item?id=38324453) - [Ousted OpenAI CEO Altman planning new AI venture](https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-18, 20:19:23](https://news.ycombinator.com/item?id=38323939) - [Altman was raising billions from Middle East sovereign funds for AI chip startup](https://twitter.com/unusual_whales/status/1725945364140986796?s=20)
 * [2023-11-18, 18:48:07](https://news.ycombinator.com/item?id=38322966) - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
@@ -23,11 +24,10 @@
 * [2023-11-18, 08:31:21](https://news.ycombinator.com/item?id=38316953) - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 * [2023-11-18, 08:28:27](https://news.ycombinator.com/item?id=38316936) - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
 * [2023-11-18, 08:17:45](https://news.ycombinator.com/item?id=38316870) - [New York may ban noncompete employment agreements and Wall Street is not happy](https://fortune.com/2023/11/16/new-york-may-ban-noncompete-employment-agreements-wall-street-not-happy-kathy-hochul/)
-* [2023-11-17, 06:59:28](https://news.ycombinator.com/item?id=38300425) - [Practical nil panic detection for Go](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
 * [2023-11-16, 20:28:52](https://news.ycombinator.com/item?id=38295006) - [The Great Cajun Turtle Heist](https://www.texasmonthly.com/true-crime/alligator-snapping-turtle-poaching/)
 * [2023-11-16, 20:22:52](https://news.ycombinator.com/item?id=38294941) - [The Patterns of Reality](https://aeon.co/essays/more-than-argument-logic-is-the-very-structure-of-reality)
-* [2023-11-16, 19:34:48](https://news.ycombinator.com/item?id=38294275) - [What if money expired?](https://www.noemamag.com/what-if-money-expired/)
+* [2023-11-16, 16:54:56](https://news.ycombinator.com/item?id=38291966) - [Humanity 101: The Syllabus of Frankenstein's Monster](https://publicdomainreview.org/collection/frankenstein-monster-reading-list/)
 * [2023-11-16, 01:30:01](https://news.ycombinator.com/item?id=38284852) - [More people should write (2012)](https://jsomers.net/blog/more-people-should-write)
 * [2023-11-15, 22:15:53](https://news.ycombinator.com/item?id=38283359) - [Second Reality for Apple II](http://deater.net/weave/vmwprod/second/)
 
