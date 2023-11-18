@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 02:01:58](https://news.ycombinator.com/item?id=38314009) - [Jeremy Howard: \"OpenAI is not going to make it\"](https://twitter.com/HamelHusain/status/1725655686913392933)
 * [2023-11-18, 01:22:34](https://news.ycombinator.com/item?id=38313609) - [What Ilya Sutskever Wants](https://www.aipanic.news/p/what-ilya-sutskever-really-wants)
 * [2023-11-18, 01:08:39](https://news.ycombinator.com/item?id=38313457) - [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
 * [2023-11-18, 00:59:34](https://news.ycombinator.com/item?id=38313359) - [Kara Swisher: there will be more departures of top folks at OpenAI tonight](https://twitter.com/karaswisher/status/1725678074333635028)

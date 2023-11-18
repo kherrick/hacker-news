@@ -87,6 +87,7 @@
 * [2023-11-17, 09:52:26](https://news.ycombinator.com/item?id=38301480) - ['Energy independent' Uruguay runs on 100% renewables for four straight months](https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/)
 * [2023-11-17, 09:43:42](https://news.ycombinator.com/item?id=38301414) - [Show HN: I made a 30-day social anxiety challenge](https://www.socialanxietychallenge.com/)
 * [2023-11-17, 08:38:37](https://news.ycombinator.com/item?id=38300990) - [Google's Gemini model is delayed](https://www.theverge.com/2023/11/16/23964937/googles-next-generation-gemini-ai-model-is-reportedly-delayed)
+* [2023-11-17, 08:19:16](https://news.ycombinator.com/item?id=38300902) - [Copernicus, Galileo and Kepler all lacked proof](https://www.cricetuscricetus.co.uk/post/copernicus-galileo-kepler-they-all-lacked-proof)
 * [2023-11-17, 06:55:28](https://news.ycombinator.com/item?id=38300403) - [How I optimized Portal to run on the Nintendo 64 [video]](https://www.youtube.com/watch?v=r4KGm7ixcqI)
 * [2023-11-17, 06:29:10](https://news.ycombinator.com/item?id=38300241) - [Gmail using too much RAM: 1-2GB per tab in Safari](https://discussions.apple.com/thread/253901216)
 * [2023-11-17, 06:13:02](https://news.ycombinator.com/item?id=38300167) - [Moving Away from Substack](https://prakgupta.com/blog/moving_away_from_substack)
