@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-18, 18:48:07](https://news.ycombinator.com/item?id=38322966) - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
 * [2023-11-18, 18:46:44](https://news.ycombinator.com/item?id=38322952) - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
@@ -13,7 +14,6 @@
 * [2023-11-18, 18:09:47](https://news.ycombinator.com/item?id=38322485) - [Inverted perovskite solar cell breaks 25% efficiency record](https://news.northwestern.edu/stories/2023/11/perovskite-solar-cell-efficiency-record/)
 * [2023-11-18, 17:48:21](https://news.ycombinator.com/item?id=38322208) - [Surveillance Tech Write Press Releases for Cops; News Agencies Are Publishing It](https://www.techdirt.com/2023/11/17/surveillance-tech-companies-are-writing-press-releases-for-cops-worse-news-agencies-are-publishing-them/)
 * [2023-11-18, 16:57:18](https://news.ycombinator.com/item?id=38321577) - [Motorized Ox Carts](https://thelampmagazine.com/blog/old-fashioned-modern)
-* [2023-11-18, 16:56:36](https://news.ycombinator.com/item?id=38321566) - [At Sea: On the defunct language of nautical flags (2016)](https://www.theparisreview.org/blog/2016/11/18/at-sea/)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
 * [2023-11-18, 16:07:04](https://news.ycombinator.com/item?id=38321003) - [Details emerge of surprise board coup that ousted CEO Sam Altman at OpenAI](https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/)
