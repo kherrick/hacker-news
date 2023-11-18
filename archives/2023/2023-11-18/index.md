@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 08:28:27](https://news.ycombinator.com/item?id=38316936) - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
+* [2023-11-18, 08:26:44](https://news.ycombinator.com/item?id=38316921) - [Sam Altman's personal investments overlap with the charities](https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/)
+* [2023-11-18, 08:21:53](https://news.ycombinator.com/item?id=38316893) - [North Korea making billions from stolen cryptocurrency](https://www.abc.net.au/news/2023-11-18/how-north-korea-makes-a-fortune-stealing-crypto/103107824)
+* [2023-11-18, 08:17:45](https://news.ycombinator.com/item?id=38316870) - [New York may ban noncompete employment agreements and Wall Street is not happy](https://fortune.com/2023/11/16/new-york-may-ban-noncompete-employment-agreements-wall-street-not-happy-kathy-hochul/)
+* [2023-11-18, 08:06:42](https://news.ycombinator.com/item?id=38316790) - [Ask HN: Is paid ChatGPT Plus worth it?](https://news.ycombinator.com/item?id=38316790)
+* [2023-11-18, 07:57:50](https://news.ycombinator.com/item?id=38316730) - [Most Americans are oblivious to 'forever chemicals' and risks, research finds](https://phys.org/news/2023-11-americans-oblivious-chemicals.html)
 * [2023-11-18, 07:25:31](https://news.ycombinator.com/item?id=38316521) - [Rogue superintelligence: Inside the mind of OpenAI's chief scientist](https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai/)
 * [2023-11-18, 07:17:36](https://news.ycombinator.com/item?id=38316467) - [X to Sue Media Matters](https://twitter.com/elonmusk/status/1725771191644758037)
 * [2023-11-18, 07:04:20](https://news.ycombinator.com/item?id=38316378) - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
