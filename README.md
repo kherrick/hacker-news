@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 07:17:36](https://news.ycombinator.com/item?id=38316467) - [X to Sue Media Matters](https://twitter.com/elonmusk/status/1725771191644758037)
 * [2023-11-18, 07:04:20](https://news.ycombinator.com/item?id=38316378) - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
-* [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
 * [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
