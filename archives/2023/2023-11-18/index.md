@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 07:04:20](https://news.ycombinator.com/item?id=38316378) - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
 * [2023-11-18, 06:28:09](https://news.ycombinator.com/item?id=38316167) - [The Religion of the Engineers; and Hayek Its True Prophet](https://crookedtimber.org/2023/11/13/the-religion-of-the-engineers-and-hayek-its-true-prophet/)
 * [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:34:30](https://news.ycombinator.com/item?id=38315757) - [Sam Altman: if I start going off, board should go after me for my shares](https://twitter.com/sama/status/1725748751367852439?s=20)
@@ -17,6 +18,7 @@
 * [2023-11-18, 04:09:55](https://news.ycombinator.com/item?id=38315034) - [The growing list of companies pulling ads from X](https://www.msn.com/en-us/money/companies/this-is-the-growing-list-of-companies-pulling-ads-from-x/ar-AA1k7rki)
 * [2023-11-18, 02:59:19](https://news.ycombinator.com/item?id=38314445) - [Why Sam Altman was fired](https://whywassamfired.com)
 * [2023-11-18, 02:54:24](https://news.ycombinator.com/item?id=38314407) - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
+* [2023-11-18, 02:46:56](https://news.ycombinator.com/item?id=38314343) - [My rants about TP-Link Omada networking products](http://rachelbythebay.com/w/2023/11/17/omada/)
 * [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
 * [2023-11-18, 02:31:34](https://news.ycombinator.com/item?id=38314224) - [\"Parental controls? What parental controls?\"](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
 * [2023-11-18, 02:01:58](https://news.ycombinator.com/item?id=38314009) - [Jeremy Howard: \"OpenAI is not going to make it\"](https://twitter.com/HamelHusain/status/1725655686913392933)

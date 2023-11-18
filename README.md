@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 07:04:20](https://news.ycombinator.com/item?id=38316378) - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
 * [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
 * [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
+* [2023-11-18, 02:46:56](https://news.ycombinator.com/item?id=38314343) - [My rants about TP-Link Omada networking products](http://rachelbythebay.com/w/2023/11/17/omada/)
 * [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing?](https://twitter.com/karaswisher/status/1725702501435941294)
 * [2023-11-18, 02:31:34](https://news.ycombinator.com/item?id=38314224) - [Parental controls? What parental controls?](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
 * [2023-11-18, 01:08:39](https://news.ycombinator.com/item?id=38313457) - [LMAX Disruptor – High Performance Inter-Thread Messaging Library](https://lmax-exchange.github.io/disruptor/)
@@ -27,8 +29,6 @@
 * [2023-11-17, 14:57:16](https://news.ycombinator.com/item?id=38304405) - [Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
 * [2023-11-17, 11:23:26](https://news.ycombinator.com/item?id=38302033) - [Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation/)
 * [2023-11-17, 09:51:57](https://news.ycombinator.com/item?id=38301473) - [Is distributed computing dying, or just fading into the background?](https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/)
-* [2023-11-17, 08:19:16](https://news.ycombinator.com/item?id=38300902) - [Copernicus, Galileo and Kepler all lacked proof](https://www.cricetuscricetus.co.uk/post/copernicus-galileo-kepler-they-all-lacked-proof)
-* [2023-11-16, 04:38:20](https://news.ycombinator.com/item?id=38285834) - [The Reluctant Levitator: Teresa of Avila's Humble Raptures](https://publicdomainreview.org/essay/the-reluctant-levitator/)
 * [2023-11-15, 20:43:14](https://news.ycombinator.com/item?id=38282173) - [Magic Carpet Ride](http://vestoj.com/magic-carpet-ride/)
 
 ## [Archives](archives/index.md)
