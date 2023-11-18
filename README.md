@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-18, 15:51:02](https://news.ycombinator.com/item?id=38320832) - [Adobe gave away it's Creative Suite 2 software 11 years ago](https://archive.org/details/Adobe-CS2)
+* [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
+* [2023-11-18, 16:36:53](https://news.ycombinator.com/item?id=38321324) - [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
 * [2023-11-18, 15:39:55](https://news.ycombinator.com/item?id=38320707) - [Show HN: Etcha – Infinite scale, serverless config management](https://etcha.dev)
 * [2023-11-18, 15:39:08](https://news.ycombinator.com/item?id=38320698) - [I disagree with Geoff Hinton regarding \"glorified autocomplete\"](https://statmodeling.stat.columbia.edu/2023/11/18/i-disagree-with-geoff-hinton-regarding-glorified-autocomplete/)
 * [2023-11-18, 15:38:13](https://news.ycombinator.com/item?id=38320686) - [Masterpiece was hanging above an elderly French woman's hot plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
@@ -17,7 +18,6 @@
 * [2023-11-18, 08:25:38](https://news.ycombinator.com/item?id=38316915) - [Eoops: An object-oriented programming system for Emacs-Lisp (1992)](https://dl.acm.org/doi/10.1145/147135.147248)
 * [2023-11-18, 08:17:45](https://news.ycombinator.com/item?id=38316870) - [New York may ban noncompete employment agreements and Wall Street is not happy](https://fortune.com/2023/11/16/new-york-may-ban-noncompete-employment-agreements-wall-street-not-happy-kathy-hochul/)
 * [2023-11-18, 08:14:59](https://news.ycombinator.com/item?id=38316846) - [Calibre – New in Calibre 7.0](https://calibre-ebook.com/new-in/sixteen)
-* [2023-11-18, 07:22:20](https://news.ycombinator.com/item?id=38316497) - [Microsoft is a minority owner of OpenAI Global LLC](https://openai.com/our-structure)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
 * [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
 * [2023-11-18, 00:06:28](https://news.ycombinator.com/item?id=38312649) - [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)

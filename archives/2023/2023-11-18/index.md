@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
+* [2023-11-18, 16:36:53](https://news.ycombinator.com/item?id=38321324) - [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
 * [2023-11-18, 15:51:02](https://news.ycombinator.com/item?id=38320832) - [Adobe gave away it's Creative Suite 2 software 11 years ago](https://archive.org/details/Adobe-CS2)
 * [2023-11-18, 15:39:55](https://news.ycombinator.com/item?id=38320707) - [Show HN: Etcha – Infinite scale, serverless config management](https://etcha.dev)
 * [2023-11-18, 15:39:08](https://news.ycombinator.com/item?id=38320698) - [I disagree with Geoff Hinton regarding \"glorified autocomplete\"](https://statmodeling.stat.columbia.edu/2023/11/18/i-disagree-with-geoff-hinton-regarding-glorified-autocomplete/)
