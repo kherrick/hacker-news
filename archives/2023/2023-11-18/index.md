@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 07:25:31](https://news.ycombinator.com/item?id=38316521) - [Rogue superintelligence: Inside the mind of OpenAI's chief scientist](https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai/)
 * [2023-11-18, 07:17:36](https://news.ycombinator.com/item?id=38316467) - [X to Sue Media Matters](https://twitter.com/elonmusk/status/1725771191644758037)
 * [2023-11-18, 07:04:20](https://news.ycombinator.com/item?id=38316378) - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
 * [2023-11-18, 06:28:09](https://news.ycombinator.com/item?id=38316167) - [The Religion of the Engineers; and Hayek Its True Prophet](https://crookedtimber.org/2023/11/13/the-religion-of-the-engineers-and-hayek-its-true-prophet/)

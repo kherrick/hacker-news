@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 07:25:31](https://news.ycombinator.com/item?id=38316521) - [Rogue superintelligence: Inside the mind of OpenAI's chief scientist](https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai/)
 * [2023-11-18, 07:04:20](https://news.ycombinator.com/item?id=38316378) - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
 * [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
@@ -26,7 +27,6 @@
 * [2023-11-17, 16:30:07](https://news.ycombinator.com/item?id=38305787) - [A game about staring into the eyes of a stranger](https://stranger.video/)
 * [2023-11-17, 15:13:40](https://news.ycombinator.com/item?id=38304661) - [Pinball implemented using Squint, a ClojureScript dialect](https://squint-cljs.github.io/squint/?src=https://gist.githubusercontent.com/borkdude/ca3af924dc2526f00361f28dcf5d0bfb/raw/09cd9e17bf0d6fa3655d0e7cbf2c878e19cb894f/pinball.cljs)
 * [2023-11-17, 14:57:16](https://news.ycombinator.com/item?id=38304405) - [Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
-* [2023-11-17, 12:55:41](https://news.ycombinator.com/item?id=38302844) - [Volvo delivers 74-tonne electric truck](https://www.volvotrucks.com/en-en/news-stories/press-releases/2023/jun/volvo-delivers-74-tonne-electric-truck.html)
 * [2023-11-17, 11:23:26](https://news.ycombinator.com/item?id=38302033) - [Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation/)
 * [2023-11-17, 09:51:57](https://news.ycombinator.com/item?id=38301473) - [Is distributed computing dying, or just fading into the background?](https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/)
 * [2023-11-15, 20:43:14](https://news.ycombinator.com/item?id=38282173) - [Magic Carpet Ride](http://vestoj.com/magic-carpet-ride/)
