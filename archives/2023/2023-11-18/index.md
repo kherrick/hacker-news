@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
 * [2023-11-18, 10:39:30](https://news.ycombinator.com/item?id=38317890) - [Live Feed: SpaceX Starship Rocket 2nd Launch Integrated Test Flight](https://www.youtube.com/watch?v=0gCBCPgU5FA)
