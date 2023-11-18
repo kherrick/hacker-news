@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:34:30](https://news.ycombinator.com/item?id=38315757) - [Sam Altman: if I start going off, board should go after me for my shares](https://twitter.com/sama/status/1725748751367852439?s=20)
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 * [2023-11-18, 04:50:58](https://news.ycombinator.com/item?id=38315396) - [The OpenAI Board Members Who Fired CEO Sam Altman](https://sfstandard.com/2023/11/17/openai-sam-altman-firing-board-members/)
