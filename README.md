@@ -2,7 +2,6 @@
 
 * [2023-11-18, 13:47:38](https://news.ycombinator.com/item?id=38319543) - [Ask HN: Why is OpenAI firing Sam Altman such a big deal?](https://news.ycombinator.com/item?id=38319543)
 * [2023-11-18, 13:34:21](https://news.ycombinator.com/item?id=38319408) - [SpaceX Loses Starship Spaceraft During Test Flight](https://www.bloomberg.com/news/articles/2023-11-18/spacex-loses-starship-spaceraft-during-test-flight)
-* [2023-11-18, 13:16:34](https://news.ycombinator.com/item?id=38319185) - [What Happened at OpenAI?](https://twitter.com/8teAPi/status/1725724907722752008)
 * [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
 * [2023-11-18, 12:23:27](https://news.ycombinator.com/item?id=38318735) - [Ask HN: Should websites on desktop have a default font larger than 16px/1rem?](https://news.ycombinator.com/item?id=38318735)
 * [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
@@ -26,6 +25,7 @@
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
 * [2023-11-17, 15:13:40](https://news.ycombinator.com/item?id=38304661) - [Pinball implemented using Squint, a ClojureScript dialect](https://squint-cljs.github.io/squint/?src=https://gist.githubusercontent.com/borkdude/ca3af924dc2526f00361f28dcf5d0bfb/raw/09cd9e17bf0d6fa3655d0e7cbf2c878e19cb894f/pinball.cljs)
 * [2023-11-17, 14:57:16](https://news.ycombinator.com/item?id=38304405) - [Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
+* [2023-11-16, 05:44:53](https://news.ycombinator.com/item?id=38286168) - [Emily Wilson Reimagined Homer](https://yalereview.org/article/emily-greenwood-emily-wilson-the-iliad)
 * [2023-11-16, 01:30:01](https://news.ycombinator.com/item?id=38284852) - [More people should write (2012)](https://jsomers.net/blog/more-people-should-write)
 * [2023-11-15, 22:19:08](https://news.ycombinator.com/item?id=38283398) - [API-Driven Program Synthesis for Testing Static Typing Implementations](https://arxiv.org/abs/2311.04527)
 * [2023-11-15, 22:15:53](https://news.ycombinator.com/item?id=38283359) - [Second Reality for Apple II](http://deater.net/weave/vmwprod/second/)

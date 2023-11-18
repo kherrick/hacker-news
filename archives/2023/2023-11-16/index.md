@@ -89,6 +89,7 @@
 * [2023-11-16, 06:12:12](https://news.ycombinator.com/item?id=38286283) - [We Need Taiwan](https://alethios.substack.com/p/why-we-need-taiwan)
 * [2023-11-16, 05:51:37](https://news.ycombinator.com/item?id=38286202) - [Solitude as the Antidote to Misanthropy](https://www.christopherketcham.com/?p=441)
 * [2023-11-16, 05:45:09](https://news.ycombinator.com/item?id=38286170) - [WordPress plugins are a little sad?](https://chriscoyier.net/2023/11/13/the-top-wordpress-plugins-are-a-little-sad/)
+* [2023-11-16, 05:44:53](https://news.ycombinator.com/item?id=38286168) - [Emily Wilson Reimagined Homer](https://yalereview.org/article/emily-greenwood-emily-wilson-the-iliad)
 * [2023-11-16, 05:44:17](https://news.ycombinator.com/item?id=38286163) - [iMessage for Android](https://nothing.community/d/2968-introducing-nothing-chats)
 * [2023-11-16, 05:38:42](https://news.ycombinator.com/item?id=38286130) - [Last Post, Please Read](http://zandarvts.blogspot.com/2023/11/last-post-please-read.html)
 * [2023-11-16, 04:38:20](https://news.ycombinator.com/item?id=38285834) - [The Reluctant Levitator: Teresa of Avila's Humble Raptures](https://publicdomainreview.org/essay/the-reluctant-levitator/)
