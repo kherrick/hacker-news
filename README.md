@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 22:57:35](https://news.ycombinator.com/item?id=38325611) - [OpenAI Investors Scramble to Reinstate Sam Altman as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
 * [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
 * [2023-11-18, 21:10:51](https://news.ycombinator.com/item?id=38324486) - [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
@@ -10,7 +11,6 @@
 * [2023-11-18, 18:24:05](https://news.ycombinator.com/item?id=38322688) - [No \"malfeasance\" behind Sam Altman's firing, OpenAI memo says](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown?stream=technology&utm_source=alert&utm_medium=email&utm_campaign=alerts_technology)
 * [2023-11-18, 18:22:09](https://news.ycombinator.com/item?id=38322660) - [Greg (2017)](https://blog.samaltman.com/greg)
 * [2023-11-18, 18:16:24](https://news.ycombinator.com/item?id=38322586) - [Pig brain function under extracorporeal pulsatile circulatory control](https://www.nature.com/articles/s41598-023-39344-7)
-* [2023-11-18, 18:15:37](https://news.ycombinator.com/item?id=38322573) - [Coding Is Hard](https://duttakapil.com/posts/coding-is-hard)
 * [2023-11-18, 18:09:47](https://news.ycombinator.com/item?id=38322485) - [Inverted perovskite solar cell breaks 25% efficiency record](https://news.northwestern.edu/stories/2023/11/perovskite-solar-cell-efficiency-record/)
 * [2023-11-18, 17:48:21](https://news.ycombinator.com/item?id=38322208) - [Surveillance Tech Write Press Releases for Cops; News Agencies Are Publishing It](https://www.techdirt.com/2023/11/17/surveillance-tech-companies-are-writing-press-releases-for-cops-worse-news-agencies-are-publishing-them/)
 * [2023-11-18, 16:57:18](https://news.ycombinator.com/item?id=38321577) - [Motorized Ox Carts](https://thelampmagazine.com/blog/old-fashioned-modern)
