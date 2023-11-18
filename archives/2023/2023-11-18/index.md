@@ -7,6 +7,7 @@
 * [2023-11-18, 17:48:21](https://news.ycombinator.com/item?id=38322208) - [Surveillance Tech Write Press Releases for Cops; News Agencies Are Publishing It](https://www.techdirt.com/2023/11/17/surveillance-tech-companies-are-writing-press-releases-for-cops-worse-news-agencies-are-publishing-them/)
 * [2023-11-18, 17:26:55](https://news.ycombinator.com/item?id=38321947) - [TikTok Says It's Not the Algorithm, Teens Are Just Pro-Palestine](https://www.vice.com/en/article/wxjb8b/tiktok-its-not-the-algorithm-teens-are-just-pro-palestine)
 * [2023-11-18, 17:00:54](https://news.ycombinator.com/item?id=38321630) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
+* [2023-11-18, 16:54:36](https://news.ycombinator.com/item?id=38321543) - [The Past and Future of Genomics](https://www.palladiummag.com/2023/11/17/genomics-has-revealed-an-age-undreamed-of/)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
 * [2023-11-18, 16:36:53](https://news.ycombinator.com/item?id=38321324) - [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
