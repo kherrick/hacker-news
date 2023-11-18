@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-18, 21:10:51](https://news.ycombinator.com/item?id=38324486) - [Suddenly I Understand Software](https://johnwhiles.com/posts/programming-as-theory)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-18, 18:48:07](https://news.ycombinator.com/item?id=38322966) - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
 * [2023-11-18, 18:46:44](https://news.ycombinator.com/item?id=38322952) - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
@@ -17,6 +16,7 @@
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
 * [2023-11-18, 16:07:04](https://news.ycombinator.com/item?id=38321003) - [Details emerge of surprise board coup that ousted CEO Sam Altman at OpenAI](https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/)
+* [2023-11-18, 15:39:55](https://news.ycombinator.com/item?id=38320707) - [Show HN: Etcha – Infinite scale, serverless config management](https://etcha.dev)
 * [2023-11-18, 15:39:08](https://news.ycombinator.com/item?id=38320698) - [I disagree with Geoff Hinton regarding \"glorified autocomplete\"](https://statmodeling.stat.columbia.edu/2023/11/18/i-disagree-with-geoff-hinton-regarding-glorified-autocomplete/)
 * [2023-11-18, 15:38:13](https://news.ycombinator.com/item?id=38320686) - [Masterpiece was hanging above an elderly French woman's hot plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
 * [2023-11-18, 15:37:12](https://news.ycombinator.com/item?id=38320675) - [Cryptographers solve decades-old privacy problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
