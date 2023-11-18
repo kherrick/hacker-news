@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 15:06:56](https://news.ycombinator.com/item?id=38320396) - [Simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
+* [2023-11-18, 14:36:51](https://news.ycombinator.com/item?id=38320084) - [Screens Are Good, Actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)
 * [2023-11-18, 14:25:07](https://news.ycombinator.com/item?id=38319944) - [What Happened to Sam Altman?](https://www.theverge.com/2023/11/17/23966446/what-happened-to-sam-altman-open-ai)
 * [2023-11-18, 13:58:01](https://news.ycombinator.com/item?id=38319646) - [Google plans to disable legacy V2 browser extensions next June](https://www.theregister.com/2023/11/18/google_kills_legacy_extensions/)
 * [2023-11-18, 13:47:38](https://news.ycombinator.com/item?id=38319543) - [Ask HN: Why is OpenAI firing Sam Altman such a big deal?](https://news.ycombinator.com/item?id=38319543)
