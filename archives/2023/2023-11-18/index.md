@@ -11,6 +11,7 @@
 * [2023-11-18, 18:46:44](https://news.ycombinator.com/item?id=38322952) - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
 * [2023-11-18, 18:45:41](https://news.ycombinator.com/item?id=38322944) - [Nanoplastics Promote Conditions for Parkinson](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
 * [2023-11-18, 18:40:02](https://news.ycombinator.com/item?id=38322880) - [BC Looks to Standardize a New ''Vancouver Special'' Housing Design](https://www.todayinbc.com/news/b-c-looks-to-standardize-multiplex-designs-as-latest-fix-to-housing-crisis/)
+* [2023-11-18, 18:37:45](https://news.ycombinator.com/item?id=38322854) - [No \"malfeasance\" behind Sam Altman's firing, OpenAI memo says](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown)
 * [2023-11-18, 18:32:03](https://news.ycombinator.com/item?id=38322793) - [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 * [2023-11-18, 18:24:05](https://news.ycombinator.com/item?id=38322688) - [No \"malfeasance\" behind Sam Altman's firing, OpenAI memo says](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown?stream=technology&utm_source=alert&utm_medium=email&utm_campaign=alerts_technology)
 * [2023-11-18, 18:22:09](https://news.ycombinator.com/item?id=38322660) - [Greg (2017)](https://blog.samaltman.com/greg)
