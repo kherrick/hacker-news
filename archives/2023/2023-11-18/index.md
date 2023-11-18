@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
 * [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-11-18, 11:33:27](https://news.ycombinator.com/item?id=38318292) - [Why OpenAI Fired Sam Altman – and What Happens Next in the AI World](https://thealgorithmicbridge.substack.com/p/why-openai-fired-sam-altman-and-what)
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)

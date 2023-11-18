@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
 * [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-11-18, 11:33:27](https://news.ycombinator.com/item?id=38318292) - [Why OpenAI Fired Sam Altman – and What Happens Next in the AI World](https://thealgorithmicbridge.substack.com/p/why-openai-fired-sam-altman-and-what)
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
@@ -19,7 +20,6 @@
 * [2023-11-18, 00:28:59](https://news.ycombinator.com/item?id=38312974) - [Yuzu Progress Report October 2023](https://yuzu-emu.org/entry/yuzu-progress-report-oct-2023/)
 * [2023-11-18, 00:10:21](https://news.ycombinator.com/item?id=38312704) - [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
 * [2023-11-18, 00:06:28](https://news.ycombinator.com/item?id=38312649) - [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
-* [2023-11-17, 23:42:38](https://news.ycombinator.com/item?id=38312372) - [Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
 * [2023-11-17, 23:14:10](https://news.ycombinator.com/item?id=38311999) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
 * [2023-11-17, 22:32:55](https://news.ycombinator.com/item?id=38311453) - [Old engineering simulation games, now open source [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
