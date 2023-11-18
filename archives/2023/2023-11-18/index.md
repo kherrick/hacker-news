@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
 * [2023-11-18, 05:34:30](https://news.ycombinator.com/item?id=38315757) - [Sam Altman: if I start going off, board should go after me for my shares](https://twitter.com/sama/status/1725748751367852439?s=20)
+* [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 * [2023-11-18, 04:50:58](https://news.ycombinator.com/item?id=38315396) - [The OpenAI Board Members Who Fired CEO Sam Altman](https://sfstandard.com/2023/11/17/openai-sam-altman-firing-board-members/)
 * [2023-11-18, 04:42:51](https://news.ycombinator.com/item?id=38315309) - [Sam Altman and Greg Brockman Joint Statement](https://twitter.com/gdb/status/1725736242137182594)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
