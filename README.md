@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-18, 05:34:30](https://news.ycombinator.com/item?id=38315757) - [Sam Altman: if I start going off, board should go after me for my shares](https://twitter.com/sama/status/1725748751367852439?s=20)
 * [2023-11-18, 04:50:58](https://news.ycombinator.com/item?id=38315396) - [The OpenAI Board Members Who Fired CEO Sam Altman](https://sfstandard.com/2023/11/17/openai-sam-altman-firing-board-members/)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
 * [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
@@ -30,6 +29,7 @@
 * [2023-11-17, 09:51:57](https://news.ycombinator.com/item?id=38301473) - [Is distributed computing dying, or just fading into the background?](https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/)
 * [2023-11-17, 08:19:16](https://news.ycombinator.com/item?id=38300902) - [Copernicus, Galileo and Kepler all lacked proof](https://www.cricetuscricetus.co.uk/post/copernicus-galileo-kepler-they-all-lacked-proof)
 * [2023-11-16, 21:21:26](https://news.ycombinator.com/item?id=38295705) - [Show HN: Beta test Execute Program's interactive \"Python for Programmers\" course](https://www.executeprogram.com/courses/python-for-programmers)
+* [2023-11-15, 20:43:14](https://news.ycombinator.com/item?id=38282173) - [Magic Carpet Ride](http://vestoj.com/magic-carpet-ride/)
 
 ## [Archives](archives/index.md)
 
