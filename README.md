@@ -13,7 +13,7 @@
 * [2023-11-18, 00:06:28](https://news.ycombinator.com/item?id=38312649) - [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 * [2023-11-17, 23:42:38](https://news.ycombinator.com/item?id=38312372) - [Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
 * [2023-11-17, 23:14:10](https://news.ycombinator.com/item?id=38311999) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
-* [2023-11-17, 23:10:58](https://news.ycombinator.com/item?id=38311951) - [Heightened pain sensitivity is linked to sympathy for opposing political views](https://www.rotman.utoronto.ca/Connect/MediaCentre/NewsReleases/20231109)
+* [2023-11-17, 22:32:55](https://news.ycombinator.com/item?id=38311453) - [Old engineering simulation games, now open source [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
 * [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [Upcodes (YC S17) is hiring a recruiter to help build out remote team](https://up.codes/careers?utm_source=HN)
