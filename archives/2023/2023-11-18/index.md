@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
 * [2023-11-18, 09:11:32](https://news.ycombinator.com/item?id=38317245) - [These Are the People That Fired OpenAI CEO Sam Altman](https://www.forbes.com/sites/alexkonrad/2023/11/17/these-are-the-people-that-fired-openai-ceo-sam-altman/)
 * [2023-11-18, 08:31:21](https://news.ycombinator.com/item?id=38316953) - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
