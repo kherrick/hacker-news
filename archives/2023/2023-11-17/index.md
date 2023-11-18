@@ -85,6 +85,7 @@
 * [2023-11-17, 10:33:23](https://news.ycombinator.com/item?id=38301710) - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
 * [2023-11-17, 10:20:33](https://news.ycombinator.com/item?id=38301644) - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
 * [2023-11-17, 09:52:26](https://news.ycombinator.com/item?id=38301480) - ['Energy independent' Uruguay runs on 100% renewables for four straight months](https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/)
+* [2023-11-17, 09:51:57](https://news.ycombinator.com/item?id=38301473) - [Is distributed computing dying, or just fading into the background?](https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/)
 * [2023-11-17, 09:43:42](https://news.ycombinator.com/item?id=38301414) - [Show HN: I made a 30-day social anxiety challenge](https://www.socialanxietychallenge.com/)
 * [2023-11-17, 08:38:37](https://news.ycombinator.com/item?id=38300990) - [Google's Gemini model is delayed](https://www.theverge.com/2023/11/16/23964937/googles-next-generation-gemini-ai-model-is-reportedly-delayed)
 * [2023-11-17, 08:19:16](https://news.ycombinator.com/item?id=38300902) - [Copernicus, Galileo and Kepler all lacked proof](https://www.cricetuscricetus.co.uk/post/copernicus-galileo-kepler-they-all-lacked-proof)

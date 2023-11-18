@@ -13,3 +13,4 @@
 * [2023-11-18, 00:10:21](https://news.ycombinator.com/item?id=38312704) - [Greg Brockman quits OpenAI](https://twitter.com/gdb/status/1725667410387378559?s=20)
 * [2023-11-18, 00:09:07](https://news.ycombinator.com/item?id=38312690) - [Your Board of Directors Is Probably Going to Fire You (2021)](https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html)
 * [2023-11-18, 00:06:28](https://news.ycombinator.com/item?id=38312649) - [I Hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
+* [2023-11-18, 00:03:59](https://news.ycombinator.com/item?id=38312617) - [Who Is Mira Murati, OpenAI's New CEO?](https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/)
