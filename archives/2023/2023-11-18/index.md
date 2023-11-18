@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 15:51:02](https://news.ycombinator.com/item?id=38320832) - [Adobe gave away it's Creative Suite 2 software 11 years ago](https://archive.org/details/Adobe-CS2)
+* [2023-11-18, 15:38:13](https://news.ycombinator.com/item?id=38320686) - [Masterpiece was hanging above an elderly French woman's hot plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
+* [2023-11-18, 15:37:12](https://news.ycombinator.com/item?id=38320675) - [Cryptographers Solve Decades-Old Privacy Problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
 * [2023-11-18, 15:06:56](https://news.ycombinator.com/item?id=38320396) - [Simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
 * [2023-11-18, 14:36:51](https://news.ycombinator.com/item?id=38320084) - [Screens Are Good, Actually](https://www.theverge.com/23965540/humane-ai-pin-screen-phone-ambient-computing)
 * [2023-11-18, 14:25:07](https://news.ycombinator.com/item?id=38319944) - [What Happened to Sam Altman?](https://www.theverge.com/2023/11/17/23966446/what-happened-to-sam-altman-open-ai)
