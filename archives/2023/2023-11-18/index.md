@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 23:37:55](https://news.ycombinator.com/item?id=38326146) - [Ousted OpenAI CEO Makes Plans for New Artificial Intelligence Company](https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html)
 * [2023-11-18, 22:57:35](https://news.ycombinator.com/item?id=38325611) - [OpenAI Investors Scramble to Reinstate Sam Altman as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
 * [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+* [2023-11-18, 21:51:37](https://news.ycombinator.com/item?id=38324925) - [An Asteroid Will Occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 * [2023-11-18, 21:10:51](https://news.ycombinator.com/item?id=38324486) - [Suddenly I Understand Software](https://johnwhiles.com/posts/programming-as-theory)
 * [2023-11-18, 21:08:13](https://news.ycombinator.com/item?id=38324453) - [Ousted OpenAI CEO Altman planning new AI venture](https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)

@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 23:37:55](https://news.ycombinator.com/item?id=38326146) - [Ousted OpenAI CEO Makes Plans for New Artificial Intelligence Company](https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html)
 * [2023-11-18, 22:57:35](https://news.ycombinator.com/item?id=38325611) - [OpenAI Investors Scramble to Reinstate Sam Altman as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
 * [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+* [2023-11-18, 21:51:37](https://news.ycombinator.com/item?id=38324925) - [An Asteroid Will Occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 * [2023-11-18, 21:10:51](https://news.ycombinator.com/item?id=38324486) - [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-18, 18:48:07](https://news.ycombinator.com/item?id=38322966) - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
@@ -11,7 +13,6 @@
 * [2023-11-18, 18:24:05](https://news.ycombinator.com/item?id=38322688) - [No \"malfeasance\" behind Sam Altman's firing, OpenAI memo says](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown?stream=technology&utm_source=alert&utm_medium=email&utm_campaign=alerts_technology)
 * [2023-11-18, 18:22:09](https://news.ycombinator.com/item?id=38322660) - [Greg (2017)](https://blog.samaltman.com/greg)
 * [2023-11-18, 18:16:24](https://news.ycombinator.com/item?id=38322586) - [Pig brain function under extracorporeal pulsatile circulatory control](https://www.nature.com/articles/s41598-023-39344-7)
-* [2023-11-18, 18:09:47](https://news.ycombinator.com/item?id=38322485) - [Inverted perovskite solar cell breaks 25% efficiency record](https://news.northwestern.edu/stories/2023/11/perovskite-solar-cell-efficiency-record/)
 * [2023-11-18, 17:48:21](https://news.ycombinator.com/item?id=38322208) - [Surveillance Tech Write Press Releases for Cops; News Agencies Are Publishing It](https://www.techdirt.com/2023/11/17/surveillance-tech-companies-are-writing-press-releases-for-cops-worse-news-agencies-are-publishing-them/)
 * [2023-11-18, 16:57:18](https://news.ycombinator.com/item?id=38321577) - [Motorized Ox Carts](https://thelampmagazine.com/blog/old-fashioned-modern)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
@@ -27,7 +28,6 @@
 * [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and Populism in Ancient Greek Courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
 * [2023-11-17, 06:59:28](https://news.ycombinator.com/item?id=38300425) - [NilAway: Practical nil panic detection for Go](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
-* [2023-11-16, 16:54:56](https://news.ycombinator.com/item?id=38291966) - [Humanity 101: The Syllabus of Frankenstein's Monster](https://publicdomainreview.org/collection/frankenstein-monster-reading-list/)
 * [2023-11-16, 01:30:01](https://news.ycombinator.com/item?id=38284852) - [More people should write (2012)](https://jsomers.net/blog/more-people-should-write)
 * [2023-11-15, 22:15:53](https://news.ycombinator.com/item?id=38283359) - [Second Reality for Apple II](http://deater.net/weave/vmwprod/second/)
 
