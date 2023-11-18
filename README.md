@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-18, 06:28:09](https://news.ycombinator.com/item?id=38316167) - [The Religion of the Engineers; and Hayek Its True Prophet](https://crookedtimber.org/2023/11/13/the-religion-of-the-engineers-and-hayek-its-true-prophet/)
 * [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
@@ -28,6 +27,7 @@
 * [2023-11-17, 14:57:16](https://news.ycombinator.com/item?id=38304405) - [Electric vehicle battery prices are falling faster than expected](https://www.goldmansachs.com/intelligence/pages/electric-vehicle-battery-prices-falling.html)
 * [2023-11-17, 11:23:26](https://news.ycombinator.com/item?id=38302033) - [Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation/)
 * [2023-11-17, 09:51:57](https://news.ycombinator.com/item?id=38301473) - [Is distributed computing dying, or just fading into the background?](https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/)
+* [2023-11-17, 08:19:16](https://news.ycombinator.com/item?id=38300902) - [Copernicus, Galileo and Kepler all lacked proof](https://www.cricetuscricetus.co.uk/post/copernicus-galileo-kepler-they-all-lacked-proof)
 * [2023-11-16, 04:38:20](https://news.ycombinator.com/item?id=38285834) - [The Reluctant Levitator: Teresa of Avila's Humble Raptures](https://publicdomainreview.org/essay/the-reluctant-levitator/)
 * [2023-11-15, 20:43:14](https://news.ycombinator.com/item?id=38282173) - [Magic Carpet Ride](http://vestoj.com/magic-carpet-ride/)
 
