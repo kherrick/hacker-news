@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 02:59:19](https://news.ycombinator.com/item?id=38314445) - [Why Sam Altman was fired](https://whywassamfired.com)
 * [2023-11-18, 02:54:24](https://news.ycombinator.com/item?id=38314407) - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
 * [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
 * [2023-11-18, 02:31:34](https://news.ycombinator.com/item?id=38314224) - [\"Parental controls? What parental controls?\"](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
@@ -18,7 +19,6 @@
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
 * [2023-11-17, 18:17:30](https://news.ycombinator.com/item?id=38307596) - [How the gas turbine conquered the electric power industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
 * [2023-11-17, 17:21:53](https://news.ycombinator.com/item?id=38306680) - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
-* [2023-11-17, 17:14:22](https://news.ycombinator.com/item?id=38306540) - [Rocket v0.5: Stable, Async](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-17, 17:01:12](https://news.ycombinator.com/item?id=38306320) - [Sentry Relicense Again (FSL)](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 16:52:28](https://news.ycombinator.com/item?id=38306174) - [Pentagon fails audit for sixth year in a row](https://breakingdefense.com/2023/11/with-trillions-at-play-pentagon-fails-audit-for-sixth-year-in-a-row/)
 * [2023-11-17, 16:30:07](https://news.ycombinator.com/item?id=38305787) - [A game about staring into the eyes of a stranger](https://stranger.video/)
