@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 18:48:07](https://news.ycombinator.com/item?id=38322966) - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
 * [2023-11-18, 18:24:05](https://news.ycombinator.com/item?id=38322688) - [No \"malfeasance\" behind Sam Altman's firing, OpenAI memo says](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown?stream=technology&utm_source=alert&utm_medium=email&utm_campaign=alerts_technology)
 * [2023-11-18, 17:48:21](https://news.ycombinator.com/item?id=38322208) - [Surveillance Tech Write Press Releases for Cops; News Agencies Are Publishing It](https://www.techdirt.com/2023/11/17/surveillance-tech-companies-are-writing-press-releases-for-cops-worse-news-agencies-are-publishing-them/)
+* [2023-11-18, 17:45:10](https://news.ycombinator.com/item?id=38322167) - [A Tale of Two Sams](https://goodteacher.substack.com/p/a-tale-of-two-sams)
 * [2023-11-18, 17:26:55](https://news.ycombinator.com/item?id=38321947) - [TikTok Says It's Not the Algorithm, Teens Are Just Pro-Palestine](https://www.vice.com/en/article/wxjb8b/tiktok-its-not-the-algorithm-teens-are-just-pro-palestine)
 * [2023-11-18, 17:00:54](https://news.ycombinator.com/item?id=38321630) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
 * [2023-11-18, 16:54:36](https://news.ycombinator.com/item?id=38321543) - [The Past and Future of Genomics](https://www.palladiummag.com/2023/11/17/genomics-has-revealed-an-age-undreamed-of/)
