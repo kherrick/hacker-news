@@ -12,6 +12,7 @@
 * [2023-11-15, 23:02:54](https://news.ycombinator.com/item?id=38283788) - [Double-Checking Dawkins](https://blog.jgc.org/2007/12/double-checking-dawkins.html?m=1)
 * [2023-11-15, 22:33:08](https://news.ycombinator.com/item?id=38283562) - [Ford F-150 Lightning Breezes Up Obstacle Where Tesla Cybertruck Struggled](https://www.thedrive.com/news/ford-f-150-lightning-breezes-up-obstacle-where-tesla-cybertruck-struggled)
 * [2023-11-15, 22:27:17](https://news.ycombinator.com/item?id=38283504) - [Fixing bug 109595 makes MySQL almost 4X faster on the Insert Benchmark](http://smalldatum.blogspot.com/2023/11/fixing-bug-109595-makes-mysql-almost-4x.html)
+* [2023-11-15, 22:19:08](https://news.ycombinator.com/item?id=38283398) - [API-Driven Program Synthesis for Testing Static Typing Implementations](https://arxiv.org/abs/2311.04527)
 * [2023-11-15, 21:42:36](https://news.ycombinator.com/item?id=38282969) - [Meta allows ads saying 2020 election was rigged on Facebook and Instagram](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy)
 * [2023-11-15, 21:41:20](https://news.ycombinator.com/item?id=38282950) - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:25:35](https://news.ycombinator.com/item?id=38282728) - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
