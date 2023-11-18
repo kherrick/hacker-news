@@ -29,6 +29,7 @@
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
 * [2023-11-18, 10:39:30](https://news.ycombinator.com/item?id=38317890) - [Live Feed: SpaceX Starship Rocket 2nd Launch Integrated Test Flight](https://www.youtube.com/watch?v=0gCBCPgU5FA)
+* [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fbroadcasts%2F1dRKZEWQvrXxB)
 * [2023-11-18, 09:11:32](https://news.ycombinator.com/item?id=38317245) - [These Are the People That Fired OpenAI CEO Sam Altman](https://www.forbes.com/sites/alexkonrad/2023/11/17/these-are-the-people-that-fired-openai-ceo-sam-altman/)
 * [2023-11-18, 08:31:21](https://news.ycombinator.com/item?id=38316953) - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
