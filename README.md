@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 17:00:54](https://news.ycombinator.com/item?id=38321630) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
 * [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
 * [2023-11-18, 16:36:53](https://news.ycombinator.com/item?id=38321324) - [Google is embedding inaudible watermarks right into its AI generated music](https://www.theverge.com/2023/11/16/23963607/google-deepmind-synthid-audio-watermarks)
+* [2023-11-18, 16:07:04](https://news.ycombinator.com/item?id=38321003) - [Details emerge of surprise board coup that ousted CEO Sam Altman at OpenAI](https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/)
 * [2023-11-18, 15:39:55](https://news.ycombinator.com/item?id=38320707) - [Show HN: Etcha – Infinite scale, serverless config management](https://etcha.dev)
 * [2023-11-18, 15:39:08](https://news.ycombinator.com/item?id=38320698) - [I disagree with Geoff Hinton regarding \"glorified autocomplete\"](https://statmodeling.stat.columbia.edu/2023/11/18/i-disagree-with-geoff-hinton-regarding-glorified-autocomplete/)
 * [2023-11-18, 15:38:13](https://news.ycombinator.com/item?id=38320686) - [Masterpiece was hanging above an elderly French woman's hot plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
 * [2023-11-18, 15:37:12](https://news.ycombinator.com/item?id=38320675) - [Cryptographers Solve Decades-Old Privacy Problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
 * [2023-11-18, 15:06:56](https://news.ycombinator.com/item?id=38320396) - [Simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
 * [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
-* [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fbroadcasts%2F1dRKZEWQvrXxB)
@@ -29,7 +30,6 @@
 * [2023-11-16, 01:30:01](https://news.ycombinator.com/item?id=38284852) - [More people should write (2012)](https://jsomers.net/blog/more-people-should-write)
 * [2023-11-15, 22:19:08](https://news.ycombinator.com/item?id=38283398) - [API-Driven Program Synthesis for Testing Static Typing Implementations](https://arxiv.org/abs/2311.04527)
 * [2023-11-15, 22:15:53](https://news.ycombinator.com/item?id=38283359) - [Second Reality for Apple II](http://deater.net/weave/vmwprod/second/)
-* [2023-11-15, 20:43:14](https://news.ycombinator.com/item?id=38282173) - [Magic Carpet Ride](http://vestoj.com/magic-carpet-ride/)
 
 ## [Archives](archives/index.md)
 
