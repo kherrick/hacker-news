@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2023-11-18, 11:33:27](https://news.ycombinator.com/item?id=38318292) - [Why OpenAI Fired Sam Altman – and What Happens Next in the AI World](https://thealgorithmicbridge.substack.com/p/why-openai-fired-sam-altman-and-what)
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fbroadcasts%2F1dRKZEWQvrXxB)
@@ -22,7 +23,6 @@
 * [2023-11-17, 23:14:10](https://news.ycombinator.com/item?id=38311999) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
 * [2023-11-17, 22:32:55](https://news.ycombinator.com/item?id=38311453) - [Old engineering simulation games, now open source [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
-* [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 * [2023-11-17, 20:44:33](https://news.ycombinator.com/item?id=38309970) - [Xash3D: An open-source reimplementation of Half-Life](https://github.com/FWGS/xash3d-fwgs)
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
 * [2023-11-17, 15:13:40](https://news.ycombinator.com/item?id=38304661) - [Pinball implemented using Squint, a ClojureScript dialect](https://squint-cljs.github.io/squint/?src=https://gist.githubusercontent.com/borkdude/ca3af924dc2526f00361f28dcf5d0bfb/raw/09cd9e17bf0d6fa3655d0e7cbf2c878e19cb894f/pinball.cljs)
