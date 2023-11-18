@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-18, 09:11:32](https://news.ycombinator.com/item?id=38317245) - [These Are the People That Fired OpenAI CEO Sam Altman](https://www.forbes.com/sites/alexkonrad/2023/11/17/these-are-the-people-that-fired-openai-ceo-sam-altman/)
 * [2023-11-18, 08:31:21](https://news.ycombinator.com/item?id=38316953) - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 * [2023-11-18, 08:29:37](https://news.ycombinator.com/item?id=38316946) - [A homeless man built a life underground Hampstead Heath](https://www.theguardian.com/news/2020/mar/05/invisible-city-how-homeless-man-built-life-underground-bunker-hampstead-heath)
 * [2023-11-18, 08:28:27](https://news.ycombinator.com/item?id=38316936) - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
@@ -22,6 +21,7 @@
 * [2023-11-17, 23:42:38](https://news.ycombinator.com/item?id=38312372) - [Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
 * [2023-11-17, 23:14:10](https://news.ycombinator.com/item?id=38311999) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
 * [2023-11-17, 22:32:55](https://news.ycombinator.com/item?id=38311453) - [Old engineering simulation games, now open source [pdf]](https://github.com/sim-museum/esports-for-engineers/blob/master/files/syllabusFor_eSportsForEngineers.pdf)
+* [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
 * [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [Upcodes (YC S17) is hiring a recruiter to help build out remote team](https://up.codes/careers?utm_source=HN)
 * [2023-11-17, 20:44:33](https://news.ycombinator.com/item?id=38309970) - [Xash3D: An open-source reimplementation of Half-Life](https://github.com/FWGS/xash3d-fwgs)
