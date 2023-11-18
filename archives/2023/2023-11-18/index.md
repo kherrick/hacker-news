@@ -5,6 +5,10 @@
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
 * [2023-11-18, 04:42:51](https://news.ycombinator.com/item?id=38315309) - [Sam Altman and Greg Brockman Joint Statement](https://twitter.com/gdb/status/1725736242137182594)
+* [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
+* [2023-11-18, 04:33:58](https://news.ycombinator.com/item?id=38315230) - [The Sudden Fall of Sam Altman](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-fallout/676046/)
+* [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
+* [2023-11-18, 04:19:19](https://news.ycombinator.com/item?id=38315104) - [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
 * [2023-11-18, 02:59:19](https://news.ycombinator.com/item?id=38314445) - [Why Sam Altman was fired](https://whywassamfired.com)
 * [2023-11-18, 02:54:24](https://news.ycombinator.com/item?id=38314407) - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
 * [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
