@@ -15,6 +15,7 @@
 * [2023-11-17, 22:00:02](https://news.ycombinator.com/item?id=38311076) - [I wrote in June 2021 how Sam Altman's departure from YC had been under explored](https://twitter.com/EricNewcomer/status/1725633569056506282)
 * [2023-11-17, 21:53:53](https://news.ycombinator.com/item?id=38311001) - [Sam Altman tweet after being fired](https://twitter.com/sama/status/1725631621511184771)
 * [2023-11-17, 21:18:32](https://news.ycombinator.com/item?id=38310502) - [Show HN: nbi.ai – Generative Business Intelligence](https://www.narrative.bi/ai)
+* [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and Populism in Ancient Greek Courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [UpCodes (YC S17) Is Hiring a Recruiter to Help Build Out Remote Team](https://up.codes/careers?utm_source=HN)
 * [2023-11-17, 21:00:40](https://news.ycombinator.com/item?id=38310248) - [OpenAI's Sam Altman to depart as company's CEO](https://www.reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17/)
 * [2023-11-17, 20:44:33](https://news.ycombinator.com/item?id=38309970) - [Xash3D: An open-source reimplementation of Half-Life](https://github.com/FWGS/xash3d-fwgs)
