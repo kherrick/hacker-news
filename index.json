@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-18, 01:22:34",
+      "https://news.ycombinator.com/item?id=38313609"
+    ],
+    [
+      "What Ilya Sutskever Wants",
+      "https://www.aipanic.news/p/what-ilya-sutskever-really-wants"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 01:08:39",
+      "https://news.ycombinator.com/item?id=38313457"
+    ],
+    [
+      "LMAX Disruptor – High Performance Inter-Thread Messaging Library",
+      "https://lmax-exchange.github.io/disruptor/"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 00:59:34",
+      "https://news.ycombinator.com/item?id=38313359"
+    ],
+    [
+      "Kara Swisher: there will be more departures of top folks at OpenAI tonight",
+      "https://twitter.com/karaswisher/status/1725678074333635028"
+    ]
+  ],
+  [
+    [
       "2023-11-18, 00:40:01",
       "https://news.ycombinator.com/item?id=38313129"
     ],
@@ -27,6 +57,16 @@
     [
       "Greg Brockman quits OpenAI",
       "https://twitter.com/gdb/status/1725667410387378559?s=20"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 00:09:07",
+      "https://news.ycombinator.com/item?id=38312690"
+    ],
+    [
+      "Your Board of Directors Is Probably Going to Fire You (2021)",
+      "https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2023-11-17, 20:16:48",
-      "https://news.ycombinator.com/item?id=38309424"
-    ],
-    [
-      "The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster",
-      "https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/"
-    ]
-  ],
-  [
-    [
       "2023-11-17, 19:41:53",
       "https://news.ycombinator.com/item?id=38309014"
     ],
@@ -137,16 +167,6 @@
     [
       "A PCIe Coral TPU Finally Works on Raspberry Pi 5",
       "https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 18:35:36",
-      "https://news.ycombinator.com/item?id=38307889"
-    ],
-    [
-      "Half-Life 25th Anniversary Update",
-      "https://www.half-life.com/en/halflife25/"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Rocket v0.5: Stable, Async",
       "https://rocket.rs/v0.5/news/2023-11-17-version-0.5/"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 17:06:37",
-      "https://news.ycombinator.com/item?id=38306410"
-    ],
-    [
-      "AIConfig – source control format for gen AI prompts, models and settings",
-      "https://github.com/lastmile-ai/aiconfig"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Volvo delivers 74-tonne electric truck",
       "https://www.volvotrucks.com/en-en/news-stories/press-releases/2023/jun/volvo-delivers-74-tonne-electric-truck.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 11:54:23",
-      "https://news.ycombinator.com/item?id=38302288"
-    ],
-    [
-      "The astonishing behavior of recursive sequences",
-      "https://www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/"
     ]
   ],
   [
