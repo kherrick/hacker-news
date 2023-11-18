@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-18, 02:01:58",
-      "https://news.ycombinator.com/item?id=38314009"
-    ],
-    [
-      "Jeremy Howard: \"OpenAI is not going to make it\"",
-      "https://twitter.com/HamelHusain/status/1725655686913392933"
-    ]
-  ],
-  [
-    [
       "2023-11-18, 01:08:39",
       "https://news.ycombinator.com/item?id=38313457"
     ],
@@ -47,6 +37,16 @@
     [
       "I Hacked the Magic Mouse",
       "https://uplab.pro/2023/11/i-hacked-the-magic-mouse/"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 00:03:59",
+      "https://news.ycombinator.com/item?id=38312617"
+    ],
+    [
+      "Who Is Mira Murati, OpenAI's New CEO?",
+      "https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "A PCIe Coral TPU Finally Works on Raspberry Pi 5",
       "https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 18:35:36",
-      "https://news.ycombinator.com/item?id=38307889"
-    ],
-    [
-      "Half-Life 25th Anniversary Update",
-      "https://www.half-life.com/en/halflife25/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Deobfuscating World of Warships' Python Scripts",
       "https://landaire.net/world-of-warships-deobfuscation/"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 09:51:57",
+      "https://news.ycombinator.com/item?id=38301473"
+    ],
+    [
+      "Is distributed computing dying, or just fading into the background?",
+      "https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/"
     ]
   ],
   [
