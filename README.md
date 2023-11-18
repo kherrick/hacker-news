@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 13:58:01](https://news.ycombinator.com/item?id=38319646) - [Google plans to disable legacy V2 browser extensions next June](https://www.theregister.com/2023/11/18/google_kills_legacy_extensions/)
 * [2023-11-18, 13:47:38](https://news.ycombinator.com/item?id=38319543) - [Ask HN: Why is OpenAI firing Sam Altman such a big deal?](https://news.ycombinator.com/item?id=38319543)
 * [2023-11-18, 13:34:21](https://news.ycombinator.com/item?id=38319408) - [SpaceX Loses Starship Spaceraft During Test Flight](https://www.bloomberg.com/news/articles/2023-11-18/spacex-loses-starship-spaceraft-during-test-flight)
 * [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
-* [2023-11-18, 12:23:27](https://news.ycombinator.com/item?id=38318735) - [Ask HN: Should websites on desktop have a default font larger than 16px/1rem?](https://news.ycombinator.com/item?id=38318735)
 * [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
