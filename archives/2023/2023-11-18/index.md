@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 14:25:07](https://news.ycombinator.com/item?id=38319944) - [What Happened to Sam Altman?](https://www.theverge.com/2023/11/17/23966446/what-happened-to-sam-altman-open-ai)
 * [2023-11-18, 13:58:01](https://news.ycombinator.com/item?id=38319646) - [Google plans to disable legacy V2 browser extensions next June](https://www.theregister.com/2023/11/18/google_kills_legacy_extensions/)
 * [2023-11-18, 13:47:38](https://news.ycombinator.com/item?id=38319543) - [Ask HN: Why is OpenAI firing Sam Altman such a big deal?](https://news.ycombinator.com/item?id=38319543)
 * [2023-11-18, 13:34:21](https://news.ycombinator.com/item?id=38319408) - [SpaceX Loses Starship Spaceraft During Test Flight](https://www.bloomberg.com/news/articles/2023-11-18/spacex-loses-starship-spaceraft-during-test-flight)
