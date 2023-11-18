@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 02:54:24](https://news.ycombinator.com/item?id=38314407) - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
 * [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
 * [2023-11-18, 02:31:34](https://news.ycombinator.com/item?id=38314224) - [\"Parental controls? What parental controls?\"](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
 * [2023-11-18, 02:01:58](https://news.ycombinator.com/item?id=38314009) - [Jeremy Howard: \"OpenAI is not going to make it\"](https://twitter.com/HamelHusain/status/1725655686913392933)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 02:54:24](https://news.ycombinator.com/item?id=38314407) - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
 * [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
 * [2023-11-18, 02:31:34](https://news.ycombinator.com/item?id=38314224) - [\"Parental controls? What parental controls?\"](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
 * [2023-11-18, 01:37:08](https://news.ycombinator.com/item?id=38313747) - [Ask HN: Are job referrals worthless now?](https://news.ycombinator.com/item?id=38313747)
@@ -15,7 +16,6 @@
 * [2023-11-17, 21:02:10](https://news.ycombinator.com/item?id=38310270) - [Upcodes (YC S17) is hiring a recruiter to help build out remote team](https://up.codes/careers?utm_source=HN)
 * [2023-11-17, 20:44:33](https://news.ycombinator.com/item?id=38309970) - [Xash3D: An open-source reimplementation of Half-Life](https://github.com/FWGS/xash3d-fwgs)
 * [2023-11-17, 20:28:50](https://news.ycombinator.com/item?id=38309611) - [OpenAI's board has fired Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
-* [2023-11-17, 19:16:01](https://news.ycombinator.com/item?id=38308552) - [A PCIe Coral TPU Finally Works on Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5)
 * [2023-11-17, 18:17:30](https://news.ycombinator.com/item?id=38307596) - [How the gas turbine conquered the electric power industry](https://www.construction-physics.com/p/how-the-gas-turbine-conquered-the)
 * [2023-11-17, 17:21:53](https://news.ycombinator.com/item?id=38306680) - [Apostrophe Protection Society](https://www.apostrophe.org.uk)
 * [2023-11-17, 17:14:22](https://news.ycombinator.com/item?id=38306540) - [Rocket v0.5: Stable, Async](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
