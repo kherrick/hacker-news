@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
 * [2023-11-18, 15:51:02](https://news.ycombinator.com/item?id=38320832) - [Adobe gave away it's Creative Suite 2 software 11 years ago](https://archive.org/details/Adobe-CS2)
+* [2023-11-18, 15:39:55](https://news.ycombinator.com/item?id=38320707) - [Show HN: Etcha – Infinite scale, serverless config management](https://etcha.dev)
+* [2023-11-18, 15:39:08](https://news.ycombinator.com/item?id=38320698) - [I disagree with Geoff Hinton regarding \"glorified autocomplete\"](https://statmodeling.stat.columbia.edu/2023/11/18/i-disagree-with-geoff-hinton-regarding-glorified-autocomplete/)
 * [2023-11-18, 15:38:13](https://news.ycombinator.com/item?id=38320686) - [Masterpiece was hanging above an elderly French woman's hot plate](https://www.smithsonianmag.com/smart-news/forgotten-268-million-cimabue-painting-found-in-an-elderly-womans-home-heads-to-the-louvre-180983280/)
 * [2023-11-18, 15:37:12](https://news.ycombinator.com/item?id=38320675) - [Cryptographers Solve Decades-Old Privacy Problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
 * [2023-11-18, 15:06:56](https://news.ycombinator.com/item?id=38320396) - [Simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
