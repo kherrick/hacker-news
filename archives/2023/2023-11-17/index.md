@@ -7,6 +7,7 @@
 * [2023-11-17, 23:42:38](https://news.ycombinator.com/item?id=38312372) - [Microsoft was blindsided by OpenAI's ouster of CEO Sam Altman](https://www.axios.com/2023/11/17/microsoft-openai-sam-altman-ouster)
 * [2023-11-17, 23:18:34](https://news.ycombinator.com/item?id=38312045) - [The floating desalination machines powered by the waves](https://www.bbc.co.uk/news/business-67237006)
 * [2023-11-17, 23:14:10](https://news.ycombinator.com/item?id=38311999) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
+* [2023-11-17, 23:10:58](https://news.ycombinator.com/item?id=38311951) - [Heightened pain sensitivity is linked to sympathy for opposing political views](https://www.rotman.utoronto.ca/Connect/MediaCentre/NewsReleases/20231109)
 * [2023-11-17, 22:57:41](https://news.ycombinator.com/item?id=38311803) - [Advertisers Flee X as Outcry Grows Over Musk’s Endorsement of Antisemitic Post](https://www.nytimes.com/2023/11/17/technology/elon-musk-twitter-x-advertisers.html)
 * [2023-11-17, 22:36:55](https://news.ycombinator.com/item?id=38311509) - [Sam Altman's sister, Annie Altman, claims Sam has severely abused her](https://www.lesswrong.com/posts/QDczBduZorG4dxZiW/sam-altman-s-sister-annie-altman-claims-sam-has-severely)
 * [2023-11-17, 22:07:34](https://news.ycombinator.com/item?id=38311144) - [Meta's head of augmented reality software stepping down](https://www.reuters.com/technology/metas-head-augmented-reality-software-stepping-down-2023-11-17/)
