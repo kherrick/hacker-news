@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-18, 18:24:05](https://news.ycombinator.com/item?id=38322688) - [No \"malfeasance\" behind Sam Altman's firing, OpenAI memo says](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown?stream=technology&utm_source=alert&utm_medium=email&utm_campaign=alerts_technology)
 * [2023-11-18, 17:48:21](https://news.ycombinator.com/item?id=38322208) - [Surveillance Tech Write Press Releases for Cops; News Agencies Are Publishing It](https://www.techdirt.com/2023/11/17/surveillance-tech-companies-are-writing-press-releases-for-cops-worse-news-agencies-are-publishing-them/)
 * [2023-11-18, 17:00:54](https://news.ycombinator.com/item?id=38321630) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
 * [2023-11-18, 16:54:36](https://news.ycombinator.com/item?id=38321543) - [The Past and Future of Genomics](https://www.palladiummag.com/2023/11/17/genomics-has-revealed-an-age-undreamed-of/)
@@ -28,7 +29,6 @@
 * [2023-11-16, 05:44:53](https://news.ycombinator.com/item?id=38286168) - [Emily Wilson Reimagined Homer](https://yalereview.org/article/emily-greenwood-emily-wilson-the-iliad)
 * [2023-11-16, 05:39:22](https://news.ycombinator.com/item?id=38286135) - [Listening Anew to an American Nomad](https://theamericanscholar.org/listening-anew-to-an-american-nomad/)
 * [2023-11-16, 01:30:01](https://news.ycombinator.com/item?id=38284852) - [More people should write (2012)](https://jsomers.net/blog/more-people-should-write)
-* [2023-11-15, 22:19:08](https://news.ycombinator.com/item?id=38283398) - [API-Driven Program Synthesis for Testing Static Typing Implementations](https://arxiv.org/abs/2311.04527)
 * [2023-11-15, 22:15:53](https://news.ycombinator.com/item?id=38283359) - [Second Reality for Apple II](http://deater.net/weave/vmwprod/second/)
 
 ## [Archives](archives/index.md)
