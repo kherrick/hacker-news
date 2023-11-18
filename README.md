@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-18, 04:37:49](https://news.ycombinator.com/item?id=38315265) - [Board Members (2014)](https://blog.samaltman.com/board-members)
-* [2023-11-18, 04:33:58](https://news.ycombinator.com/item?id=38315230) - [The Sudden Fall of Sam Altman](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-fallout/676046/)
 * [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
 * [2023-11-18, 04:19:19](https://news.ycombinator.com/item?id=38315104) - [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
+* [2023-11-18, 04:09:55](https://news.ycombinator.com/item?id=38315034) - [The growing list of companies pulling ads from X](https://www.msn.com/en-us/money/companies/this-is-the-growing-list-of-companies-pulling-ads-from-x/ar-AA1k7rki)
 * [2023-11-18, 02:54:24](https://news.ycombinator.com/item?id=38314407) - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
 * [2023-11-18, 02:31:34](https://news.ycombinator.com/item?id=38314224) - [Parental controls? What parental controls?](https://gabrielsieben.tech/2023/11/15/parental-controls-are-unusable-and-its-why-congress-is-stepping-in/)
 * [2023-11-18, 01:37:08](https://news.ycombinator.com/item?id=38313747) - [Ask HN: Are job referrals worthless now?](https://news.ycombinator.com/item?id=38313747)

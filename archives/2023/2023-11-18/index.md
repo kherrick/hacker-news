@@ -9,6 +9,7 @@
 * [2023-11-18, 04:33:58](https://news.ycombinator.com/item?id=38315230) - [The Sudden Fall of Sam Altman](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-fallout/676046/)
 * [2023-11-18, 04:22:14](https://news.ycombinator.com/item?id=38315128) - [Text adventure ported to social media](https://www.threads.net/@80snostalgia/post/CzpPPuxNgDj)
 * [2023-11-18, 04:19:19](https://news.ycombinator.com/item?id=38315104) - [Traitorous eight](https://en.wikipedia.org/wiki/Traitorous_eight)
+* [2023-11-18, 04:09:55](https://news.ycombinator.com/item?id=38315034) - [The growing list of companies pulling ads from X](https://www.msn.com/en-us/money/companies/this-is-the-growing-list-of-companies-pulling-ads-from-x/ar-AA1k7rki)
 * [2023-11-18, 02:59:19](https://news.ycombinator.com/item?id=38314445) - [Why Sam Altman was fired](https://whywassamfired.com)
 * [2023-11-18, 02:54:24](https://news.ycombinator.com/item?id=38314407) - [Sutskever: OpenAI board doing its mission to build AGI that benefits all](https://twitter.com/GaryMarcus/status/1725707548106580255)
 * [2023-11-18, 02:40:37](https://news.ycombinator.com/item?id=38314299) - [Ilya Sutskever \"at the center\" of Altman firing](https://twitter.com/karaswisher/status/1725702501435941294)
