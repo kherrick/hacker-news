@@ -18,6 +18,7 @@
 * [2023-11-18, 17:45:10](https://news.ycombinator.com/item?id=38322167) - [A Tale of Two Sams](https://goodteacher.substack.com/p/a-tale-of-two-sams)
 * [2023-11-18, 17:26:55](https://news.ycombinator.com/item?id=38321947) - [TikTok Says It's Not the Algorithm, Teens Are Just Pro-Palestine](https://www.vice.com/en/article/wxjb8b/tiktok-its-not-the-algorithm-teens-are-just-pro-palestine)
 * [2023-11-18, 17:00:54](https://news.ycombinator.com/item?id=38321630) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
+* [2023-11-18, 16:57:18](https://news.ycombinator.com/item?id=38321577) - [Motorized Ox Carts](https://thelampmagazine.com/blog/old-fashioned-modern)
 * [2023-11-18, 16:54:36](https://news.ycombinator.com/item?id=38321543) - [The Past and Future of Genomics](https://www.palladiummag.com/2023/11/17/genomics-has-revealed-an-age-undreamed-of/)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
