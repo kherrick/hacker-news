@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+* [2023-11-18, 21:10:51](https://news.ycombinator.com/item?id=38324486) - [A software epiphany](https://johnwhiles.com/posts/programming-as-theory)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-18, 18:48:07](https://news.ycombinator.com/item?id=38322966) - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
 * [2023-11-18, 18:46:44](https://news.ycombinator.com/item?id=38322952) - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
 * [2023-11-18, 18:45:41](https://news.ycombinator.com/item?id=38322944) - [Nanoplastics promote conditions for Parkinson's across various lab models](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
 * [2023-11-18, 18:40:02](https://news.ycombinator.com/item?id=38322880) - [B.C. looks to standardize multiplex designs as latest fix to housing crisis](https://www.todayinbc.com/news/b-c-looks-to-standardize-multiplex-designs-as-latest-fix-to-housing-crisis/)
-* [2023-11-18, 18:32:03](https://news.ycombinator.com/item?id=38322793) - [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 * [2023-11-18, 18:24:05](https://news.ycombinator.com/item?id=38322688) - [No \"malfeasance\" behind Sam Altman's firing, OpenAI memo says](https://www.axios.com/2023/11/18/openai-memo-altman-firing-malfeasance-communications-breakdown?stream=technology&utm_source=alert&utm_medium=email&utm_campaign=alerts_technology)
 * [2023-11-18, 18:22:09](https://news.ycombinator.com/item?id=38322660) - [Greg (2017)](https://blog.samaltman.com/greg)
 * [2023-11-18, 18:16:24](https://news.ycombinator.com/item?id=38322586) - [Pig brain function under extracorporeal pulsatile circulatory control](https://www.nature.com/articles/s41598-023-39344-7)
