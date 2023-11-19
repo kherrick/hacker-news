@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-19, 06:26:53",
+      "https://news.ycombinator.com/item?id=38329736"
+    ],
+    [
+      "ASCII-Gen, a Rust CLI tool that converts images to ASCII art",
+      "https://github.com/thed24/ascii-gen"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 06:12:36",
       "https://news.ycombinator.com/item?id=38329657"
     ],
     [
       "Ask HN: How do you keep going without burning out?",
       "https://news.ycombinator.com/item?id=38329657"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 05:40:56",
+      "https://news.ycombinator.com/item?id=38329482"
+    ],
+    [
+      "Redlining",
+      "https://selectfromwhereand.com/posts/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-11-18, 15:39:08",
-      "https://news.ycombinator.com/item?id=38320698"
-    ],
-    [
-      "I disagree with Geoff Hinton regarding \"glorified autocomplete\"",
-      "https://statmodeling.stat.columbia.edu/2023/11/18/i-disagree-with-geoff-hinton-regarding-glorified-autocomplete/"
-    ]
-  ],
-  [
-    [
       "2023-11-18, 15:37:12",
       "https://news.ycombinator.com/item?id=38320675"
     ],
@@ -277,16 +287,6 @@
     [
       "Starship Integrated Flight Test 2 at 7 Am Central Time",
       "https://www.spacex.com/launches/mission/?missionId=starship-flight-2"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 06:59:28",
-      "https://news.ycombinator.com/item?id=38300425"
-    ],
-    [
-      "NilAway: Practical nil panic detection for Go",
-      "https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/"
     ]
   ],
   [
