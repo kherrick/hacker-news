@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
 * [2023-11-19, 13:24:46](https://news.ycombinator.com/item?id=38332430) - [Chaos in Spain after payment card network crash](https://news.ycombinator.com/item?id=38332430)
+* [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
 * [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 * [2023-11-19, 12:01:03](https://news.ycombinator.com/item?id=38331836) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-19, 11:48:18](https://news.ycombinator.com/item?id=38331751) - [Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
