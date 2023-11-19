@@ -5,5 +5,6 @@
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
 * [2023-11-19, 02:00:04](https://news.ycombinator.com/item?id=38327563) - [Update on the OpenAI drama: Altman and the board had till 5pm to reach a truce](https://twitter.com/alexeheath/status/1726055095341875545)
+* [2023-11-19, 01:09:08](https://news.ycombinator.com/item?id=38327139) - [More advertisers halt spending on X in growing backlash against Musk](https://www.spokesman.com/stories/2023/nov/18/more-advertisers-halt-spending-on-x-in-growing-bac/)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Source code to infocom's text adventure engines released (zcode interpreters)](https://github.com/erkyrath/infocom-zcode-terps)
