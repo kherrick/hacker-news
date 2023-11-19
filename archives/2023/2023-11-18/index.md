@@ -51,6 +51,7 @@
 * [2023-11-18, 13:34:21](https://news.ycombinator.com/item?id=38319408) - [SpaceX Loses Starship Spaceraft During Test Flight](https://www.bloomberg.com/news/articles/2023-11-18/spacex-loses-starship-spaceraft-during-test-flight)
 * [2023-11-18, 13:16:34](https://news.ycombinator.com/item?id=38319185) - [What Happened at OpenAI?](https://twitter.com/8teAPi/status/1725724907722752008)
 * [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
+* [2023-11-18, 12:33:51](https://news.ycombinator.com/item?id=38318835) - [Teddy Roosevelt pursues the boat thieves](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm)
 * [2023-11-18, 12:23:27](https://news.ycombinator.com/item?id=38318735) - [Ask HN: Should websites on desktop have a default font larger than 16px/1rem?](https://news.ycombinator.com/item?id=38318735)
 * [2023-11-18, 12:01:51](https://news.ycombinator.com/item?id=38318528) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-11-18, 11:33:27](https://news.ycombinator.com/item?id=38318292) - [Why OpenAI Fired Sam Altman – and What Happens Next in the AI World](https://thealgorithmicbridge.substack.com/p/why-openai-fired-sam-altman-and-what)
