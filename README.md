@@ -20,7 +20,6 @@
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-18, 20:05:10](https://news.ycombinator.com/item?id=38323778) - [Julia as a unifying end-to-end workflow language on the Frontier exascale system](https://arxiv.org/abs/2309.10292)
 * [2023-11-18, 18:46:44](https://news.ycombinator.com/item?id=38322952) - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
-* [2023-11-18, 18:22:09](https://news.ycombinator.com/item?id=38322660) - [Greg (2017)](https://blog.samaltman.com/greg)
 * [2023-11-18, 16:57:18](https://news.ycombinator.com/item?id=38321577) - [Motorized Ox Carts](https://thelampmagazine.com/blog/old-fashioned-modern)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 15:37:12](https://news.ycombinator.com/item?id=38320675) - [Cryptographers solve decades-old privacy problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
@@ -30,6 +29,7 @@
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A writer's technique for examining organization (2019)](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and populism in ancient Greek courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
+* [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
 
 ## [Archives](archives/index.md)
 
