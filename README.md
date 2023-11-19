@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
+* [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
-* [2023-11-19, 20:37:58](https://news.ycombinator.com/item?id=38337604) - [Greg Brockman: How I became a machine learning practitioner (2019)](https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner)
 * [2023-11-19, 20:30:21](https://news.ycombinator.com/item?id=38337501) - [No One Wants to Pay Anymore](https://medium.com/@johnmoyle/no-one-wants-to-pay-any-more-cd96c58010b3)
 * [2023-11-19, 20:20:09](https://news.ycombinator.com/item?id=38337395) - [Rosalynn Carter has died](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
 * [2023-11-19, 20:10:43](https://news.ycombinator.com/item?id=38337292) - [Why doesn't Windows have an \"expert mode\"? (2003)](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
