@@ -2,7 +2,6 @@
 
 * [2023-11-19, 17:06:12](https://news.ycombinator.com/item?id=38334703) - [WHO – Physical Activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)
 * [2023-11-19, 17:02:09](https://news.ycombinator.com/item?id=38334647) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38334647)
-* [2023-11-19, 16:54:59](https://news.ycombinator.com/item?id=38334560) - [Ask HN: Is Unlimited PTO a Scam](https://news.ycombinator.com/item?id=38334560)
 * [2023-11-19, 16:25:23](https://news.ycombinator.com/item?id=38334130) - [French authorities label Vitamin D as endocrine disruptor](https://www.nutraingredients.com/Article/2023/11/17/french-authorities-label-vitamin-d-as-endocrine-disruptor)
 * [2023-11-19, 16:25:06](https://news.ycombinator.com/item?id=38334126) - [From airlines to ticket sellers, companies fight U.S. to keep junk fees](https://www.washingtonpost.com/business/2023/11/19/companies-lobbyists-fight-junk-fees/)
 * [2023-11-19, 16:23:27](https://news.ycombinator.com/item?id=38334102) - [Terraform Cloud Pricing Changes Sticker Shock](https://shavingtheyak.com/2023/10/28/hashicorps-terraform-cloud-rum-pricing-sticker-shock/)
@@ -25,10 +24,11 @@
 * [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-18, 21:51:37](https://news.ycombinator.com/item?id=38324925) - [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
+* [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 13:24:46](https://news.ycombinator.com/item?id=38319283) - [Deep-Fried Data (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 09:50:52](https://news.ycombinator.com/item?id=38317509) - [Volunteer.gov: Discover volunteer opportunities around the country](https://www.volunteer.gov/s/)
-* [2023-11-17, 10:35:03](https://news.ycombinator.com/item?id=38301721) - [Colm on Constant Work](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
+* [2023-11-17, 10:35:03](https://news.ycombinator.com/item?id=38301721) - [Colm on Constant Work (2019)](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 * [2023-11-17, 06:18:19](https://news.ycombinator.com/item?id=38300189) - [AnimateArchive (old versions of Adobe Flash)](https://animatearchive.neocities.org/?home)
 
 ## [Archives](archives/index.md)
