@@ -30,6 +30,7 @@
 * [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [It's Time for a Change: Datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-19, 14:44:16](https://news.ycombinator.com/item?id=38333054) - [Cats Are No Match for New York City's Rats](https://www.theatlantic.com/science/archive/2018/09/cats-vs-rats-new-york/571414/)
 * [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem?](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
+* [2023-11-19, 13:56:21](https://news.ycombinator.com/item?id=38332655) - [Vertical Tabs in Visual Studio Code](https://weberdominik.com/blog/vscode-vertical-tabs/)
 * [2023-11-19, 13:53:52](https://news.ycombinator.com/item?id=38332635) - [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:24:46](https://news.ycombinator.com/item?id=38332430) - [Chaos in Spain after payment card network crash](https://news.ycombinator.com/item?id=38332430)
 * [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
