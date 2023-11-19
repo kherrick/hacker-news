@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 16:21:48](https://news.ycombinator.com/item?id=38334084) - [Why I will always prefer to work from home](https://shavingtheyak.com/2023/10/25/wfh-part1/)
 * [2023-11-19, 15:43:38](https://news.ycombinator.com/item?id=38333665) - [Ask HN: I can't find a job. What do I do?](https://news.ycombinator.com/item?id=38333665)
 * [2023-11-19, 15:24:46](https://news.ycombinator.com/item?id=38333474) - [Cities: Skylines 2's troubled launch, and why simulation games are freaking hard](https://arstechnica.com/gaming/2023/11/the-sad-story-of-cities-skylines-2s-launch-and-how-the-game-hopes-to-get-better/)
 * [2023-11-19, 15:06:21](https://news.ycombinator.com/item?id=38333271) - [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
@@ -26,7 +27,6 @@
 * [2023-11-18, 21:51:37](https://news.ycombinator.com/item?id=38324925) - [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 13:24:46](https://news.ycombinator.com/item?id=38319283) - [Deep-Fried Data (2016)](https://idlewords.com/talks/deep_fried_data.htm)
-* [2023-11-18, 12:33:51](https://news.ycombinator.com/item?id=38318835) - [Teddy Roosevelt pursues the boat thieves (2015)](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm)
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-17, 10:35:03](https://news.ycombinator.com/item?id=38301721) - [Colm on Constant Work](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 * [2023-11-17, 06:18:19](https://news.ycombinator.com/item?id=38300189) - [AnimateArchive (old versions of Adobe Flash)](https://animatearchive.neocities.org/?home)
