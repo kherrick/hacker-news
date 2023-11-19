@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:36](https://news.ycombinator.com/item?id=38337988) - [Sam Altman is at OpenAI (with a guest pass)](https://twitter.com/sama/status/1726345564059832609)
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 * [2023-11-19, 20:48:29](https://news.ycombinator.com/item?id=38337756) - [Rosalynn Carter, first lady who championed mental health, dies at 96](https://www.washingtonpost.com/obituaries/2023/11/19/rosalynn-carter-first-lady-jimmy-carter-dies/)
+* [2023-11-19, 20:37:58](https://news.ycombinator.com/item?id=38337604) - [Greg Brockman: How I became a machine learning practitioner (2019)](https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner)
 * [2023-11-19, 20:35:09](https://news.ycombinator.com/item?id=38337568) - [OpenAI Negotiations to Reinstate Altman Hit Snag over Board Role](https://www.bloomberg.com/news/articles/2023-11-19/openai-negotiations-to-reinstate-altman-hit-snag-over-board-role)
+* [2023-11-19, 20:30:21](https://news.ycombinator.com/item?id=38337501) - [No One Wants to Pay Anymore](https://medium.com/@johnmoyle/no-one-wants-to-pay-any-more-cd96c58010b3)
 * [2023-11-19, 20:26:56](https://news.ycombinator.com/item?id=38337460) - [OpenAI Execs Invite Altman, Brockman to Headquarters in Push to Reinstate Them](https://www.theinformation.com/articles/openai-execs-invite-altman-brockman-to-headquarters-in-push-to-reinstate-them)
 * [2023-11-19, 20:20:09](https://news.ycombinator.com/item?id=38337395) - [Rosalynn Carter … Dies at 96](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
 * [2023-11-19, 20:10:43](https://news.ycombinator.com/item?id=38337292) - [Why doesn't Windows have an \"expert mode\"? (2003)](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
@@ -17,6 +20,7 @@
 * [2023-11-19, 19:02:18](https://news.ycombinator.com/item?id=38336432) - [Dorothy Bishop on the prevalence of scientific fraud](https://statmodeling.stat.columbia.edu/2023/11/19/dorothy-bishop-on-the-prevalence-of-scientific-fraud/)
 * [2023-11-19, 18:50:29](https://news.ycombinator.com/item?id=38336260) - [Steven Spielberg Predicts 'Implosion' of Film Industry (2013)](https://www.hollywoodreporter.com/news/general-news/steven-spielberg-predicts-implosion-film-567604/)
 * [2023-11-19, 18:37:45](https://news.ycombinator.com/item?id=38336065) - [The violent gang crisis shaking Sweden](https://www.ft.com/content/79f0d181-bdae-4c81-a971-861ccd8d512c)
+* [2023-11-19, 18:36:02](https://news.ycombinator.com/item?id=38336048) - [Defence against scientific fraud: a proposal for a new MSc course](http://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html)
 * [2023-11-19, 18:23:43](https://news.ycombinator.com/item?id=38335864) - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
 * [2023-11-19, 18:22:39](https://news.ycombinator.com/item?id=38335850) - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
 * [2023-11-19, 17:59:09](https://news.ycombinator.com/item?id=38335525) - [Altman Sought Billions for AI Chip Venture Before OpenAI Ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
