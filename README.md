@@ -1,19 +1,18 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 21:38:51](https://news.ycombinator.com/item?id=38338425) - [Bootstrapping Self Awareness in GPT-4: Towards Recursive Self Inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
 * [2023-11-19, 21:15:42](https://news.ycombinator.com/item?id=38338127) - [US ex-President Jimmy Carter's wife Rosalynn dies aged 96](https://www.bbc.com/news/world-us-canada-67467831)
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 * [2023-11-19, 20:35:09](https://news.ycombinator.com/item?id=38337568) - [OpenAI negotiations to reinstate Altman hit snag over board role](https://www.bloomberg.com/news/articles/2023-11-19/openai-negotiations-to-reinstate-altman-hit-snag-over-board-role)
 * [2023-11-19, 20:30:21](https://news.ycombinator.com/item?id=38337501) - [No One Wants to Pay Anymore](https://medium.com/@johnmoyle/no-one-wants-to-pay-any-more-cd96c58010b3)
-* [2023-11-19, 20:20:09](https://news.ycombinator.com/item?id=38337395) - [Rosalynn Carter has died](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
 * [2023-11-19, 20:10:43](https://news.ycombinator.com/item?id=38337292) - [Why doesn't Windows have an \"expert mode\"? (2003)](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
 * [2023-11-19, 19:44:13](https://news.ycombinator.com/item?id=38337001) - [The Cassette-Tape Revolution](https://www.newyorker.com/culture/cultural-comment/the-cassette-tape-revolution)
 * [2023-11-19, 19:26:35](https://news.ycombinator.com/item?id=38336736) - [Non-profit Matrix.org Foundation seems to be moving funds to for-profit Element](https://github.com/matrix-org/matrix-spec/issues/571)
 * [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Show HN: \"Awesome\" Engineering Games (List)](https://github.com/arcataroger/awesome-engineering-games)
 * [2023-11-19, 18:37:45](https://news.ycombinator.com/item?id=38336065) - [Gang crisis shaking Sweden](https://www.ft.com/content/79f0d181-bdae-4c81-a971-861ccd8d512c)
 * [2023-11-19, 18:36:02](https://news.ycombinator.com/item?id=38336048) - [Defence against scientific fraud: a proposal for a new MSc course](http://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html)
-* [2023-11-19, 17:41:40](https://news.ycombinator.com/item?id=38335276) - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 17:02:09](https://news.ycombinator.com/item?id=38334647) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38334647)
 * [2023-11-19, 16:25:06](https://news.ycombinator.com/item?id=38334126) - [From airlines to ticket sellers, companies fight U.S. to keep junk fees](https://www.washingtonpost.com/business/2023/11/19/companies-lobbyists-fight-junk-fees/)
@@ -30,6 +29,7 @@
 * [2023-11-18, 06:13:44](https://news.ycombinator.com/item?id=38316069) - [Asilomar Principles (2017)](https://futureoflife.org/open-letter/ai-principles/)
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-11-17, 13:35:42](https://news.ycombinator.com/item?id=38303306) - [SheepIt Render Farm](https://www.sheepit-renderfarm.com/home)
+* [2023-11-17, 05:06:48](https://news.ycombinator.com/item?id=38299813) - [The Naturalist and the Jay](https://hakaimagazine.com/features/the-naturalist-and-the-wonderful-loveable-so-good-very-bold-jay/)
 
 ## [Archives](archives/index.md)
 
