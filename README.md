@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 * [2023-11-19, 12:01:03](https://news.ycombinator.com/item?id=38331836) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-19, 11:48:18](https://news.ycombinator.com/item?id=38331751) - [Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
@@ -15,7 +16,6 @@
 * [2023-11-19, 09:48:17](https://news.ycombinator.com/item?id=38330989) - [The Big TDD Misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 * [2023-11-19, 07:39:23](https://news.ycombinator.com/item?id=38330158) - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
-* [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/redlining/)
 * [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
 * [2023-11-19, 02:29:29](https://news.ycombinator.com/item?id=38327882) - [Governments turn to Open Source for sovereignty](https://opensource.net/governments-adopt-open-source-sovereignty/)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
