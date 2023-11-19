@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-11-19, 22:29:21",
+      "https://news.ycombinator.com/item?id=38339092"
+    ],
+    [
+      "A Tour of the Tektronix Ceramic CRT \"Catacombs\"",
+      "https://vintagetek.org/tour-crt-catacombs/"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 22:16:30",
       "https://news.ycombinator.com/item?id=38338928"
     ],
     [
       "Windows Refund Day – When Linux users demanded their money back (2019) [video]",
       "https://www.youtube.com/watch?v=1j9j-Ywjmbk"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 22:00:59",
-      "https://news.ycombinator.com/item?id=38338724"
-    ],
-    [
-      "OpenAI Boardroom Battle: Safety First",
-      "https://www.fabricatedknowledge.com/p/openai-boardroom-battle-safety-first"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "The Myth of RAM (2014)",
       "https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 20:58:30",
-      "https://news.ycombinator.com/item?id=38337898"
-    ],
-    [
-      "Colleges face gambling addiction among students as sports betting spreads",
-      "https://theconversation.com/colleges-face-gambling-addiction-among-students-as-sports-betting-spreads-204434"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "StyleTTS2 – open-source Eleven-Labs-quality Text To Speech",
       "https://github.com/yl4579/StyleTTS2"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 17:13:36",
+      "https://news.ycombinator.com/item?id=38334784"
+    ],
+    [
+      "CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot",
+      "https://github.com/AndreaFavero71/CUBOTino_base_version"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-11-19, 11:36:34",
-      "https://news.ycombinator.com/item?id=38331669"
-    ],
-    [
-      "Comparing humans, GPT-4, and GPT-4V on abstraction and reasoning tasks",
-      "https://arxiv.org/abs/2311.09247"
-    ]
-  ],
-  [
-    [
       "2023-11-19, 11:05:45",
       "https://news.ycombinator.com/item?id=38331493"
     ],
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2023-11-19, 09:48:17",
-      "https://news.ycombinator.com/item?id=38330989"
+      "2023-11-19, 00:36:00",
+      "https://news.ycombinator.com/item?id=38326834"
     ],
     [
-      "The big TDD misunderstanding (2022)",
-      "https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8"
+      "OpenAI investors try to get Sam Altman back as CEO after sudden firing",
+      "https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 10:18:49",
+      "https://news.ycombinator.com/item?id=38317722"
+    ],
+    [
+      "Programming on Parallel Machines; GPU, Multicore, Clusters and More",
+      "https://heather.cs.ucdavis.edu/parprocbook"
     ]
   ],
   [
