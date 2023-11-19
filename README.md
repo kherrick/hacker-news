@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem?](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
 * [2023-11-19, 13:53:52](https://news.ycombinator.com/item?id=38332635) - [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
 * [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
@@ -29,7 +30,6 @@
 * [2023-11-18, 12:33:51](https://news.ycombinator.com/item?id=38318835) - [Teddy Roosevelt pursues the boat thieves (2015)](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm)
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A writer's technique for examining organization (2019)](https://writing.wisc.edu/handbook/process/reverseoutlines/)
-* [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 
 ## [Archives](archives/index.md)
 
