@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 07:39:23](https://news.ycombinator.com/item?id=38330158) - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
 * [2023-11-19, 06:26:53](https://news.ycombinator.com/item?id=38329736) - [ASCII-Gen, a Rust CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 * [2023-11-19, 06:12:36](https://news.ycombinator.com/item?id=38329657) - [Ask HN: How do you keep going without burning out?](https://news.ycombinator.com/item?id=38329657)
