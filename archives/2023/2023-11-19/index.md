@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 13:53:52](https://news.ycombinator.com/item?id=38332635) - [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:24:46](https://news.ycombinator.com/item?id=38332430) - [Chaos in Spain after payment card network crash](https://news.ycombinator.com/item?id=38332430)
 * [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
 * [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
