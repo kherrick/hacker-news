@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 05:20:13](https://news.ycombinator.com/item?id=38329338) - [You shouldn't be driving over 100 MPH-and your car shouldn't let you](https://www.fastcompany.com/90985257/you-shouldnt-be-driving-over-100-mph-and-your-car-shouldnt-let-you)
 * [2023-11-19, 04:29:13](https://news.ycombinator.com/item?id=38328965) - [Facebook-parent Meta breaks up its Responsible AI team](https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html)
 * [2023-11-19, 04:21:49](https://news.ycombinator.com/item?id=38328907) - [HoneyPot – I Made a Text Field Only Bots Use – Heres What Happened](https://github.com/lee101/hidden-form-on-the-internet)
 * [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
-* [2023-11-19, 02:29:29](https://news.ycombinator.com/item?id=38327882) - [Governments turn to Open Source for sovereignty](https://opensource.net/governments-adopt-open-source-sovereignty/)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
 * [2023-11-19, 00:19:49](https://news.ycombinator.com/item?id=38326673) - [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
