@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 22:16:30](https://news.ycombinator.com/item?id=38338928) - [Windows Refund Day – When Linux users demanded their money back (2019) [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
 * [2023-11-19, 22:00:59](https://news.ycombinator.com/item?id=38338724) - [OpenAI Boardroom Battle: Safety First](https://www.fabricatedknowledge.com/p/openai-boardroom-battle-safety-first)
 * [2023-11-19, 21:54:14](https://news.ycombinator.com/item?id=38338635) - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
 * [2023-11-19, 21:38:51](https://news.ycombinator.com/item?id=38338425) - [Bootstrapping Self Awareness in GPT-4: Towards Recursive Self Inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
@@ -11,6 +12,7 @@
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 21:04:36](https://news.ycombinator.com/item?id=38337988) - [Sam Altman is at OpenAI (with a guest pass)](https://twitter.com/sama/status/1726345564059832609)
+* [2023-11-19, 20:58:30](https://news.ycombinator.com/item?id=38337898) - [Colleges face gambling addiction among students as sports betting spreads](https://theconversation.com/colleges-face-gambling-addiction-among-students-as-sports-betting-spreads-204434)
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 * [2023-11-19, 20:48:29](https://news.ycombinator.com/item?id=38337756) - [Rosalynn Carter, first lady who championed mental health, dies at 96](https://www.washingtonpost.com/obituaries/2023/11/19/rosalynn-carter-first-lady-jimmy-carter-dies/)
 * [2023-11-19, 20:37:58](https://news.ycombinator.com/item?id=38337604) - [Greg Brockman: How I became a machine learning practitioner (2019)](https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner)
