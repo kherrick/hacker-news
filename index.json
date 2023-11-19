@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-11-18, 18:22:09",
-      "https://news.ycombinator.com/item?id=38322660"
-    ],
-    [
-      "Greg (2017)",
-      "https://blog.samaltman.com/greg"
-    ]
-  ],
-  [
-    [
       "2023-11-18, 16:57:18",
       "https://news.ycombinator.com/item?id=38321577"
     ],
@@ -297,6 +287,16 @@
     [
       "Power and populism in ancient Greek courts",
       "https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 06:38:18",
+      "https://news.ycombinator.com/item?id=38300297"
+    ],
+    [
+      "An automatic indexing system for Postgres",
+      "https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine"
     ]
   ]
 ]
