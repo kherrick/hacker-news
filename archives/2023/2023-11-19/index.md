@@ -6,6 +6,7 @@
 
 * [2023-11-19, 07:39:23](https://news.ycombinator.com/item?id=38330158) - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
+* [2023-11-19, 06:57:43](https://news.ycombinator.com/item?id=38329931) - [Ousted OpenAI CEO Sam Altman reportedly planning new AI venture](https://www.sfchronicle.com/tech/article/openai-sam-altman-18501168.php)
 * [2023-11-19, 06:26:53](https://news.ycombinator.com/item?id=38329736) - [ASCII-Gen, a Rust CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 * [2023-11-19, 06:12:36](https://news.ycombinator.com/item?id=38329657) - [Ask HN: How do you keep going without burning out?](https://news.ycombinator.com/item?id=38329657)
 * [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/redlining/)
