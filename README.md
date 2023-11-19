@@ -1,15 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-19, 11:06:21](https://news.ycombinator.com/item?id=38331501) - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
+* [2023-11-19, 11:05:45](https://news.ycombinator.com/item?id=38331493) - [Why Dumb Ideas Capture Smart and Successful People](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
 * [2023-11-19, 10:53:56](https://news.ycombinator.com/item?id=38331427) - [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
+* [2023-11-19, 10:46:25](https://news.ycombinator.com/item?id=38331368) - [Rational Ritual: Why Everyone Needs to Know What Everyone Knows](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
 * [2023-11-19, 10:45:49](https://news.ycombinator.com/item?id=38331363) - [Songs of Syx: A city-builder with complex mechanics](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
+* [2023-11-19, 10:43:09](https://news.ycombinator.com/item?id=38331349) - [Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy](https://zero-k.info/)
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 10:14:19](https://news.ycombinator.com/item?id=38331173) - [FSL: A License for the Bazaar, Not the Cathedral](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)
 * [2023-11-19, 09:48:17](https://news.ycombinator.com/item?id=38330989) - [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 * [2023-11-19, 07:39:23](https://news.ycombinator.com/item?id=38330158) - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
 * [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/redlining/)
-* [2023-11-19, 05:14:55](https://news.ycombinator.com/item?id=38329301) - [Boeing 787 capable of carrying 300 passengers lands in Antarctica in world first](https://news.sky.com/story/boeing-787-plane-capable-of-carrying-300-passengers-lands-in-antarctica-in-world-first-13010950)
 * [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
 * [2023-11-19, 02:29:29](https://news.ycombinator.com/item?id=38327882) - [Governments turn to Open Source for sovereignty](https://opensource.net/governments-adopt-open-source-sovereignty/)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
@@ -28,8 +30,6 @@
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A writer's technique for examining organization (2019)](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
-* [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and populism in ancient Greek courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
-* [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
 
 ## [Archives](archives/index.md)
 
