@@ -6,6 +6,7 @@
 
 * [2023-11-19, 06:26:53](https://news.ycombinator.com/item?id=38329736) - [ASCII-Gen, a Rust CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 * [2023-11-19, 06:12:36](https://news.ycombinator.com/item?id=38329657) - [Ask HN: How do you keep going without burning out?](https://news.ycombinator.com/item?id=38329657)
+* [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/redlining/)
 * [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/)
 * [2023-11-19, 05:31:14](https://news.ycombinator.com/item?id=38329418) - [Americans' Trust in Scientists, Positive Views of Science Continue to Decline](https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/)
 * [2023-11-19, 05:20:13](https://news.ycombinator.com/item?id=38329338) - [You shouldn't be driving over 100 MPH-and your car shouldn't let you](https://www.fastcompany.com/90985257/you-shouldnt-be-driving-over-100-mph-and-your-car-shouldnt-let-you)
