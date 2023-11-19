@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 09:48:17](https://news.ycombinator.com/item?id=38330989) - [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 * [2023-11-19, 08:37:38](https://news.ycombinator.com/item?id=38330512) - [Sam Altman 'was working on new venture' before sacking from OpenAI](https://www.theguardian.com/technology/2023/nov/18/earthquake-at-chatgpt-developer-as-senior-staff-quit-after-sacking-of-boss-sam-altman)
 * [2023-11-19, 07:39:23](https://news.ycombinator.com/item?id=38330158) - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
