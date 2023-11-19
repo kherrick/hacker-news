@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-19, 12:01:03",
+      "https://news.ycombinator.com/item?id=38331836"
+    ],
+    [
+      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+      "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 11:48:18",
+      "https://news.ycombinator.com/item?id=38331751"
+    ],
+    [
+      "Kyutai AI research lab with a $330M budget that will make everything open source",
+      "https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 11:06:21",
       "https://news.ycombinator.com/item?id=38331501"
     ],
@@ -191,46 +211,6 @@
   ],
   [
     [
-      "2023-11-18, 21:00:54",
-      "https://news.ycombinator.com/item?id=38324378"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam",
-      "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 20:05:10",
-      "https://news.ycombinator.com/item?id=38323778"
-    ],
-    [
-      "Julia as a unifying end-to-end workflow language on the Frontier exascale system",
-      "https://arxiv.org/abs/2309.10292"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 18:46:44",
-      "https://news.ycombinator.com/item?id=38322952"
-    ],
-    [
-      "Mysterious 'Tasmanian devil' space explosion baffles astronomers",
-      "https://www.nature.com/articles/d41586-023-03569-3"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 16:57:18",
-      "https://news.ycombinator.com/item?id=38321577"
-    ],
-    [
-      "Motorized Ox Carts",
-      "https://thelampmagazine.com/blog/old-fashioned-modern"
-    ]
-  ],
-  [
-    [
       "2023-11-18, 16:44:44",
       "https://news.ycombinator.com/item?id=38321413"
     ],
@@ -297,6 +277,26 @@
     [
       "Starship Integrated Flight Test 2 at 7 Am Central Time",
       "https://www.spacex.com/launches/mission/?missionId=starship-flight-2"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 21:07:54",
+      "https://news.ycombinator.com/item?id=38310345"
+    ],
+    [
+      "Power and populism in ancient Greek courts",
+      "https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 06:38:18",
+      "https://news.ycombinator.com/item?id=38300297"
+    ],
+    [
+      "An automatic indexing system for Postgres",
+      "https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine"
     ]
   ]
 ]
