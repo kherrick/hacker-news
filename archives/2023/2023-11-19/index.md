@@ -7,6 +7,7 @@
 * [2023-11-19, 12:01:03](https://news.ycombinator.com/item?id=38331836) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-19, 11:48:18](https://news.ycombinator.com/item?id=38331751) - [Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
+* [2023-11-19, 11:36:34](https://news.ycombinator.com/item?id=38331669) - [Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 * [2023-11-19, 11:06:21](https://news.ycombinator.com/item?id=38331501) - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
 * [2023-11-19, 11:05:45](https://news.ycombinator.com/item?id=38331493) - [Why Dumb Ideas Capture Smart and Successful People](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
 * [2023-11-19, 10:53:56](https://news.ycombinator.com/item?id=38331427) - [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
