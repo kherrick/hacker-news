@@ -2,6 +2,7 @@
 
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Source code to infocom's text adventure engines released (zcode interpreters)](https://github.com/erkyrath/infocom-zcode-terps)
+* [2023-11-19, 00:19:49](https://news.ycombinator.com/item?id=38326673) - [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
 * [2023-11-18, 23:47:21](https://news.ycombinator.com/item?id=38326242) - [Why aren't motherboards mostly USB-C by now? (2021)](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
 * [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
 * [2023-11-18, 21:51:37](https://news.ycombinator.com/item?id=38324925) - [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
@@ -29,7 +30,6 @@
 * [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and Populism in Ancient Greek Courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
 * [2023-11-17, 06:59:28](https://news.ycombinator.com/item?id=38300425) - [NilAway: Practical nil panic detection for Go](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
-* [2023-11-16, 20:19:55](https://news.ycombinator.com/item?id=38294903) - [Not Everyone Agreed with Einstein](https://lithub.com/not-everyone-agreed-with-albert-einstein-including-children-schrodinger-and-heisenberg/)
 
 ## [Archives](archives/index.md)
 

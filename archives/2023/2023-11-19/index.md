@@ -8,3 +8,4 @@
 * [2023-11-19, 01:09:08](https://news.ycombinator.com/item?id=38327139) - [More advertisers halt spending on X in growing backlash against Musk](https://www.spokesman.com/stories/2023/nov/18/more-advertisers-halt-spending-on-x-in-growing-bac/)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Source code to infocom's text adventure engines released (zcode interpreters)](https://github.com/erkyrath/infocom-zcode-terps)
+* [2023-11-19, 00:19:49](https://news.ycombinator.com/item?id=38326673) - [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
