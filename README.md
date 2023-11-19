@@ -24,12 +24,12 @@
 * [2023-11-18, 21:51:37](https://news.ycombinator.com/item?id=38324925) - [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 15:37:12](https://news.ycombinator.com/item?id=38320675) - [Cryptographers solve decades-old privacy problem](https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/)
+* [2023-11-18, 13:24:46](https://news.ycombinator.com/item?id=38319283) - [Deep-Fried Data (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 * [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
 * [2023-11-18, 12:33:51](https://news.ycombinator.com/item?id=38318835) - [Teddy Roosevelt pursues the boat thieves (2015)](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm)
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A writer's technique for examining organization (2019)](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
-* [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and populism in ancient Greek courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
 
 ## [Archives](archives/index.md)
 

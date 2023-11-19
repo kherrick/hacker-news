@@ -49,6 +49,7 @@
 * [2023-11-18, 13:58:01](https://news.ycombinator.com/item?id=38319646) - [Google plans to disable legacy V2 browser extensions next June](https://www.theregister.com/2023/11/18/google_kills_legacy_extensions/)
 * [2023-11-18, 13:47:38](https://news.ycombinator.com/item?id=38319543) - [Ask HN: Why is OpenAI firing Sam Altman such a big deal?](https://news.ycombinator.com/item?id=38319543)
 * [2023-11-18, 13:34:21](https://news.ycombinator.com/item?id=38319408) - [SpaceX Loses Starship Spaceraft During Test Flight](https://www.bloomberg.com/news/articles/2023-11-18/spacex-loses-starship-spaceraft-during-test-flight)
+* [2023-11-18, 13:24:46](https://news.ycombinator.com/item?id=38319283) - [Deep-Fried Data (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 * [2023-11-18, 13:16:34](https://news.ycombinator.com/item?id=38319185) - [What Happened at OpenAI?](https://twitter.com/8teAPi/status/1725724907722752008)
 * [2023-11-18, 12:40:19](https://news.ycombinator.com/item?id=38318889) - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
 * [2023-11-18, 12:33:51](https://news.ycombinator.com/item?id=38318835) - [Teddy Roosevelt pursues the boat thieves](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm)
