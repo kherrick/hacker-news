@@ -12,6 +12,7 @@
 * [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/)
 * [2023-11-19, 05:31:14](https://news.ycombinator.com/item?id=38329418) - [Americans' Trust in Scientists, Positive Views of Science Continue to Decline](https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/)
 * [2023-11-19, 05:20:13](https://news.ycombinator.com/item?id=38329338) - [You shouldn't be driving over 100 MPH-and your car shouldn't let you](https://www.fastcompany.com/90985257/you-shouldnt-be-driving-over-100-mph-and-your-car-shouldnt-let-you)
+* [2023-11-19, 05:14:55](https://news.ycombinator.com/item?id=38329301) - [Boeing 787 capable of carrying 300 passengers lands in Antarctica in world first](https://news.sky.com/story/boeing-787-plane-capable-of-carrying-300-passengers-lands-in-antarctica-in-world-first-13010950)
 * [2023-11-19, 04:47:56](https://news.ycombinator.com/item?id=38329101) - [Sama: I love the OpenAI team so much](https://twitter.com/sama/status/1726099792600903681?s=20)
 * [2023-11-19, 04:29:13](https://news.ycombinator.com/item?id=38328965) - [Facebook-parent Meta breaks up its Responsible AI team](https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html)
 * [2023-11-19, 04:21:49](https://news.ycombinator.com/item?id=38328907) - [HoneyPot – I Made a Text Field Only Bots Use – Heres What Happened](https://github.com/lee101/hidden-form-on-the-internet)
