@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 18:23:43](https://news.ycombinator.com/item?id=38335864) - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
 * [2023-11-19, 18:22:39](https://news.ycombinator.com/item?id=38335850) - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
 * [2023-11-19, 17:59:09](https://news.ycombinator.com/item?id=38335525) - [Altman Sought Billions for AI Chip Venture Before OpenAI Ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
 * [2023-11-19, 17:41:40](https://news.ycombinator.com/item?id=38335276) - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
@@ -24,7 +25,6 @@
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
-* [2023-11-18, 13:24:46](https://news.ycombinator.com/item?id=38319283) - [Deep-Fried Data (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 09:50:52](https://news.ycombinator.com/item?id=38317509) - [Volunteer.gov: Discover volunteer opportunities around the country](https://www.volunteer.gov/s/)
 * [2023-11-17, 13:35:42](https://news.ycombinator.com/item?id=38303306) - [SheepIt Render Farm](https://www.sheepit-renderfarm.com/home)

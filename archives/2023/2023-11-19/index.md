@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 18:23:43](https://news.ycombinator.com/item?id=38335864) - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
 * [2023-11-19, 18:22:39](https://news.ycombinator.com/item?id=38335850) - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
 * [2023-11-19, 17:59:09](https://news.ycombinator.com/item?id=38335525) - [Altman Sought Billions for AI Chip Venture Before OpenAI Ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
 * [2023-11-19, 17:41:40](https://news.ycombinator.com/item?id=38335276) - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
