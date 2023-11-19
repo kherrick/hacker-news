@@ -6,6 +6,7 @@
 * [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/redlining/)
 * [2023-11-19, 05:31:14](https://news.ycombinator.com/item?id=38329418) - [Americans' Trust in Scientists, Positive Views of Science Continue to Decline](https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/)
 * [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
+* [2023-11-19, 02:29:29](https://news.ycombinator.com/item?id=38327882) - [Governments turn to Open Source for sovereignty](https://opensource.net/governments-adopt-open-source-sovereignty/)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
 * [2023-11-18, 23:47:21](https://news.ycombinator.com/item?id=38326242) - [Why aren't motherboards mostly USB-C by now? (2021)](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
@@ -27,7 +28,6 @@
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A writer's technique for examining organization (2019)](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
-* [2023-11-18, 08:28:27](https://news.ycombinator.com/item?id=38316936) - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
 * [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and populism in ancient Greek courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
 * [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
 
