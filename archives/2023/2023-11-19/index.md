@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 06:26:53](https://news.ycombinator.com/item?id=38329736) - [ASCII-Gen, a Rust CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 * [2023-11-19, 06:12:36](https://news.ycombinator.com/item?id=38329657) - [Ask HN: How do you keep going without burning out?](https://news.ycombinator.com/item?id=38329657)
+* [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/)
 * [2023-11-19, 05:20:13](https://news.ycombinator.com/item?id=38329338) - [You shouldn't be driving over 100 MPH-and your car shouldn't let you](https://www.fastcompany.com/90985257/you-shouldnt-be-driving-over-100-mph-and-your-car-shouldnt-let-you)
 * [2023-11-19, 04:47:56](https://news.ycombinator.com/item?id=38329101) - [Sama: I love the OpenAI team so much](https://twitter.com/sama/status/1726099792600903681?s=20)
 * [2023-11-19, 04:29:13](https://news.ycombinator.com/item?id=38328965) - [Facebook-parent Meta breaks up its Responsible AI team](https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html)
