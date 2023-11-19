@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-19, 22:16:30",
+      "https://news.ycombinator.com/item?id=38338928"
+    ],
+    [
+      "Windows Refund Day – When Linux users demanded their money back (2019) [video]",
+      "https://www.youtube.com/watch?v=1j9j-Ywjmbk"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 22:00:59",
+      "https://news.ycombinator.com/item?id=38338724"
+    ],
+    [
+      "OpenAI Boardroom Battle: Safety First",
+      "https://www.fabricatedknowledge.com/p/openai-boardroom-battle-safety-first"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 21:54:14",
       "https://news.ycombinator.com/item?id=38338635"
     ],
@@ -21,21 +41,11 @@
   ],
   [
     [
-      "2023-11-19, 21:15:42",
-      "https://news.ycombinator.com/item?id=38338127"
-    ],
-    [
-      "US ex-President Jimmy Carter's wife Rosalynn dies aged 96",
-      "https://www.bbc.com/news/world-us-canada-67467831"
-    ]
-  ],
-  [
-    [
       "2023-11-19, 21:07:33",
       "https://news.ycombinator.com/item?id=38338033"
     ],
     [
-      "Why I Tend Not to Use Content Negotiation",
+      "Why I tend not to use content negotiation",
       "https://htmx.org/essays/why-tend-not-to-use-content-negotiation/"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "The Myth of RAM (2014)",
       "https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 20:58:30",
+      "https://news.ycombinator.com/item?id=38337898"
+    ],
+    [
+      "Colleges face gambling addiction among students as sports betting spreads",
+      "https://theconversation.com/colleges-face-gambling-addiction-among-students-as-sports-betting-spreads-204434"
     ]
   ],
   [
@@ -81,21 +101,11 @@
   ],
   [
     [
-      "2023-11-19, 19:26:35",
-      "https://news.ycombinator.com/item?id=38336736"
-    ],
-    [
-      "Non-profit Matrix.org Foundation seems to be moving funds to for-profit Element",
-      "https://github.com/matrix-org/matrix-spec/issues/571"
-    ]
-  ],
-  [
-    [
       "2023-11-19, 19:22:22",
       "https://news.ycombinator.com/item?id=38336688"
     ],
     [
-      "Show HN: \"Awesome\" Engineering Games (List)",
+      "Awesome Engineering Games",
       "https://github.com/arcataroger/awesome-engineering-games"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Defence against scientific fraud: a proposal for a new MSc course",
       "http://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 17:41:40",
-      "https://news.ycombinator.com/item?id=38335276"
-    ],
-    [
-      "Ex-IBM sales veteran sues for access to health benefits",
-      "https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=38333790"
     ],
     [
-      "U.S. Agency Declares 21 Species Now Extinct L",
+      "U.S. agency declares 21 species now extinct",
       "https://www.pbsnc.org/blogs/science/us-agency-declares-21-species-now-extinct/"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-11-19, 13:16:03",
+      "https://news.ycombinator.com/item?id=38332364"
+    ],
+    [
+      "Revenge bedtime procrastination",
+      "https://solvingprocrastination.com/revenge-bedtime-procrastination/"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 12:24:42",
       "https://news.ycombinator.com/item?id=38332014"
     ],
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=38331750"
     ],
     [
-      "Lindenmayer Systems",
+      "Lindenmayer systems",
       "https://vsekar.me/blog/log_coffee/chapter_0.html"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy",
       "https://zero-k.info/"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 10:19:21",
-      "https://news.ycombinator.com/item?id=38331200"
-    ],
-    [
-      "Deep Learning Course",
-      "https://fleuret.org/dlc/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38301087"
     ],
     [
-      "Ultorg, user interface for relational data, is released",
+      "Ultorg: A User Interface for Relational Data",
       "https://www.ultorg.com"
     ]
   ],
