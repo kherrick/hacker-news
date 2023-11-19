@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 17:59:09](https://news.ycombinator.com/item?id=38335525) - [Altman Sought Billions for AI Chip Venture Before OpenAI Ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
 * [2023-11-19, 17:41:40](https://news.ycombinator.com/item?id=38335276) - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven Labs quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 17:30:45](https://news.ycombinator.com/item?id=38335055) - [Fireside Chat with Ilya Sutskever and Jensen Huang](https://www.youtube.com/watch?v=GI4Tpi48DlA)
@@ -23,7 +24,6 @@
 * [2023-11-19, 10:43:09](https://news.ycombinator.com/item?id=38331349) - [Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy](https://zero-k.info/)
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
-* [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 09:50:52](https://news.ycombinator.com/item?id=38317509) - [Volunteer.gov: Discover volunteer opportunities around the country](https://www.volunteer.gov/s/)
