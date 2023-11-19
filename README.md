@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 09:48:17](https://news.ycombinator.com/item?id=38330989) - [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 * [2023-11-19, 07:39:23](https://news.ycombinator.com/item?id=38330158) - [A Timeline of the OpenAI Board](https://loeber.substack.com/p/a-timeline-of-the-openai-board)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
 * [2023-11-19, 06:57:43](https://news.ycombinator.com/item?id=38329931) - [Ousted OpenAI CEO Sam Altman reportedly planning new AI venture](https://www.sfchronicle.com/tech/article/openai-sam-altman-18501168.php)
-* [2023-11-19, 06:26:53](https://news.ycombinator.com/item?id=38329736) - [ASCII-Gen, a CLI tool that converts images to ASCII art](https://github.com/thed24/ascii-gen)
 * [2023-11-19, 05:40:56](https://news.ycombinator.com/item?id=38329482) - [Redlining](https://selectfromwhereand.com/posts/redlining/)
 * [2023-11-19, 05:14:55](https://news.ycombinator.com/item?id=38329301) - [Boeing 787 capable of carrying 300 passengers lands in Antarctica in world first](https://news.sky.com/story/boeing-787-plane-capable-of-carrying-300-passengers-lands-in-antarctica-in-world-first-13010950)
 * [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
