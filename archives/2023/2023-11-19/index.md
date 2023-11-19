@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 23:18:01](https://news.ycombinator.com/item?id=38339660) - [Backlash as Netflix cancels five shows at once including its 'best series'](https://www.independent.co.uk/arts-entertainment/tv/news/shadow-and-bone-cancelled-season-3-netflix-b2449902.html)
+* [2023-11-19, 23:10:16](https://news.ycombinator.com/item?id=38339567) - [What the Hell Happened to Effective Altruism](https://www.fromthenew.world/p/what-the-hell-happened-to-effective)
 * [2023-11-19, 22:29:21](https://news.ycombinator.com/item?id=38339092) - [A Tour of the Tektronix Ceramic CRT \"Catacombs\"](https://vintagetek.org/tour-crt-catacombs/)
 * [2023-11-19, 22:16:30](https://news.ycombinator.com/item?id=38338928) - [Windows Refund Day – When Linux users demanded their money back (2019) [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
 * [2023-11-19, 22:00:59](https://news.ycombinator.com/item?id=38338724) - [OpenAI Boardroom Battle: Safety First](https://www.fabricatedknowledge.com/p/openai-boardroom-battle-safety-first)
