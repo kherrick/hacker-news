@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 18:50:29](https://news.ycombinator.com/item?id=38336260) - [Steven Spielberg Predicts 'Implosion' of Film Industry (2013)](https://www.hollywoodreporter.com/news/general-news/steven-spielberg-predicts-implosion-film-567604/)
 * [2023-11-19, 18:37:45](https://news.ycombinator.com/item?id=38336065) - [The violent gang crisis shaking Sweden](https://www.ft.com/content/79f0d181-bdae-4c81-a971-861ccd8d512c)
 * [2023-11-19, 18:23:43](https://news.ycombinator.com/item?id=38335864) - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
 * [2023-11-19, 18:22:39](https://news.ycombinator.com/item?id=38335850) - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
