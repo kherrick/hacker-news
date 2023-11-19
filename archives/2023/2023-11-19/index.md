@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 21:04:36](https://news.ycombinator.com/item?id=38337988) - [Sam Altman is at OpenAI (with a guest pass)](https://twitter.com/sama/status/1726345564059832609)
+* [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
+* [2023-11-19, 20:48:29](https://news.ycombinator.com/item?id=38337756) - [Rosalynn Carter, first lady who championed mental health, dies at 96](https://www.washingtonpost.com/obituaries/2023/11/19/rosalynn-carter-first-lady-jimmy-carter-dies/)
 * [2023-11-19, 20:35:09](https://news.ycombinator.com/item?id=38337568) - [OpenAI Negotiations to Reinstate Altman Hit Snag over Board Role](https://www.bloomberg.com/news/articles/2023-11-19/openai-negotiations-to-reinstate-altman-hit-snag-over-board-role)
 * [2023-11-19, 20:26:56](https://news.ycombinator.com/item?id=38337460) - [OpenAI Execs Invite Altman, Brockman to Headquarters in Push to Reinstate Them](https://www.theinformation.com/articles/openai-execs-invite-altman-brockman-to-headquarters-in-push-to-reinstate-them)
 * [2023-11-19, 20:20:09](https://news.ycombinator.com/item?id=38337395) - [Rosalynn Carter … Dies at 96](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
@@ -44,6 +47,7 @@
 * [2023-11-19, 13:24:46](https://news.ycombinator.com/item?id=38332430) - [Chaos in Spain after payment card network crash](https://news.ycombinator.com/item?id=38332430)
 * [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
 * [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
+* [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 12:01:03](https://news.ycombinator.com/item?id=38331836) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-19, 11:48:18](https://news.ycombinator.com/item?id=38331751) - [Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
