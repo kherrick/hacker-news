@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-11-19, 05:31:14",
+      "https://news.ycombinator.com/item?id=38329418"
+    ],
+    [
+      "Americans' Trust in Scientists, Positive Views of Science Continue to Decline",
+      "https://www.pewresearch.org/science/2023/11/14/americans-trust-in-scientists-positive-views-of-science-continue-to-decline/"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 04:29:13",
       "https://news.ycombinator.com/item?id=38328965"
     ],
@@ -287,16 +297,6 @@
     [
       "Starship Integrated Flight Test 2 at 7 Am Central Time",
       "https://www.spacex.com/launches/mission/?missionId=starship-flight-2"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 06:38:18",
-      "https://news.ycombinator.com/item?id=38300297"
-    ],
-    [
-      "An automatic indexing system for Postgres",
-      "https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine"
     ]
   ]
 ]
