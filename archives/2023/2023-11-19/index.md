@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 16:25:23](https://news.ycombinator.com/item?id=38334130) - [French authorities label Vitamin D as endocrine disruptor](https://www.nutraingredients.com/Article/2023/11/17/french-authorities-label-vitamin-d-as-endocrine-disruptor)
 * [2023-11-19, 16:21:48](https://news.ycombinator.com/item?id=38334084) - [Why I will always prefer to work from home](https://shavingtheyak.com/2023/10/25/wfh-part1/)
+* [2023-11-19, 16:21:13](https://news.ycombinator.com/item?id=38334081) - [The IMF is slowly pushing for digital currencies to replace cash](https://www.imf.org/en/News/Articles/2023/11/15/sp-111423-the-digital-finance-voyage-a-case-for-public-sector-involvement)
 * [2023-11-19, 15:43:38](https://news.ycombinator.com/item?id=38333665) - [Ask HN: I can't find a job. What do I do?](https://news.ycombinator.com/item?id=38333665)
 * [2023-11-19, 15:24:46](https://news.ycombinator.com/item?id=38333474) - [Cities: Skylines 2's troubled launch, and why simulation games are freaking hard](https://arstechnica.com/gaming/2023/11/the-sad-story-of-cities-skylines-2s-launch-and-how-the-game-hopes-to-get-better/)
 * [2023-11-19, 15:06:21](https://news.ycombinator.com/item?id=38333271) - [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)

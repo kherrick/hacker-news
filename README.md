@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 16:25:23](https://news.ycombinator.com/item?id=38334130) - [French authorities label Vitamin D as endocrine disruptor](https://www.nutraingredients.com/Article/2023/11/17/french-authorities-label-vitamin-d-as-endocrine-disruptor)
 * [2023-11-19, 16:21:48](https://news.ycombinator.com/item?id=38334084) - [Why I will always prefer to work from home](https://shavingtheyak.com/2023/10/25/wfh-part1/)
+* [2023-11-19, 16:21:13](https://news.ycombinator.com/item?id=38334081) - [The IMF is slowly pushing for digital currencies to replace cash](https://www.imf.org/en/News/Articles/2023/11/15/sp-111423-the-digital-finance-voyage-a-case-for-public-sector-involvement)
 * [2023-11-19, 15:43:38](https://news.ycombinator.com/item?id=38333665) - [Ask HN: I can't find a job. What do I do?](https://news.ycombinator.com/item?id=38333665)
 * [2023-11-19, 15:24:46](https://news.ycombinator.com/item?id=38333474) - [Cities: Skylines 2's troubled launch, and why simulation games are freaking hard](https://arstechnica.com/gaming/2023/11/the-sad-story-of-cities-skylines-2s-launch-and-how-the-game-hopes-to-get-better/)
 * [2023-11-19, 15:06:21](https://news.ycombinator.com/item?id=38333271) - [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
@@ -16,9 +18,7 @@
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
 * [2023-11-19, 11:36:34](https://news.ycombinator.com/item?id=38331669) - [Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 * [2023-11-19, 11:06:21](https://news.ycombinator.com/item?id=38331501) - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
-* [2023-11-19, 10:53:56](https://news.ycombinator.com/item?id=38331427) - [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
 * [2023-11-19, 10:46:25](https://news.ycombinator.com/item?id=38331368) - [Rational Ritual: Why everyone needs to know what everyone knows (2020)](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
-* [2023-11-19, 10:45:49](https://news.ycombinator.com/item?id=38331363) - [Songs of Syx: A city-builder with complex mechanics (2020)](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
 * [2023-11-19, 10:43:09](https://news.ycombinator.com/item?id=38331349) - [Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy](https://zero-k.info/)
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 07:03:26](https://news.ycombinator.com/item?id=38329969) - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
