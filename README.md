@@ -7,7 +7,6 @@
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 * [2023-11-19, 20:35:09](https://news.ycombinator.com/item?id=38337568) - [OpenAI negotiations to reinstate Altman hit snag over board role](https://www.bloomberg.com/news/articles/2023-11-19/openai-negotiations-to-reinstate-altman-hit-snag-over-board-role)
 * [2023-11-19, 20:30:21](https://news.ycombinator.com/item?id=38337501) - [No One Wants to Pay Anymore](https://medium.com/@johnmoyle/no-one-wants-to-pay-any-more-cd96c58010b3)
-* [2023-11-19, 20:10:43](https://news.ycombinator.com/item?id=38337292) - [Why doesn't Windows have an \"expert mode\"? (2003)](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
 * [2023-11-19, 19:44:13](https://news.ycombinator.com/item?id=38337001) - [The Cassette-Tape Revolution](https://www.newyorker.com/culture/cultural-comment/the-cassette-tape-revolution)
 * [2023-11-19, 19:26:35](https://news.ycombinator.com/item?id=38336736) - [Non-profit Matrix.org Foundation seems to be moving funds to for-profit Element](https://github.com/matrix-org/matrix-spec/issues/571)
 * [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Show HN: \"Awesome\" Engineering Games (List)](https://github.com/arcataroger/awesome-engineering-games)
@@ -29,6 +28,7 @@
 * [2023-11-18, 06:13:44](https://news.ycombinator.com/item?id=38316069) - [Asilomar Principles (2017)](https://futureoflife.org/open-letter/ai-principles/)
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-11-17, 13:35:42](https://news.ycombinator.com/item?id=38303306) - [SheepIt Render Farm](https://www.sheepit-renderfarm.com/home)
+* [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg, user interface for relational data, is released](https://www.ultorg.com)
 * [2023-11-17, 05:06:48](https://news.ycombinator.com/item?id=38299813) - [The Naturalist and the Jay](https://hakaimagazine.com/features/the-naturalist-and-the-wonderful-loveable-so-good-very-bold-jay/)
 
 ## [Archives](archives/index.md)

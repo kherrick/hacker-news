@@ -94,6 +94,7 @@
 * [2023-11-17, 09:52:18](https://news.ycombinator.com/item?id=38301478) - [How to Write a Parser](https://prettydiff.com/2/guide/unrelated_dom.xhtml)
 * [2023-11-17, 09:51:57](https://news.ycombinator.com/item?id=38301473) - [Is distributed computing dying, or just fading into the background?](https://arstechnica.com/science/2023/07/is-distributed-computing-dying-or-just-fading-into-the-backdrop/)
 * [2023-11-17, 09:43:42](https://news.ycombinator.com/item?id=38301414) - [Show HN: I made a 30-day social anxiety challenge](https://www.socialanxietychallenge.com/)
+* [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg, user interface for relational data, is released](https://www.ultorg.com)
 * [2023-11-17, 08:38:37](https://news.ycombinator.com/item?id=38300990) - [Google's Gemini model is delayed](https://www.theverge.com/2023/11/16/23964937/googles-next-generation-gemini-ai-model-is-reportedly-delayed)
 * [2023-11-17, 08:19:16](https://news.ycombinator.com/item?id=38300902) - [Copernicus, Galileo and Kepler all lacked proof](https://www.cricetuscricetus.co.uk/post/copernicus-galileo-kepler-they-all-lacked-proof)
 * [2023-11-17, 06:59:28](https://news.ycombinator.com/item?id=38300425) - [Practical nil panic detection for Go](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/)
