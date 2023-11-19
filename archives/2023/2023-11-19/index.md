@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 19:26:35](https://news.ycombinator.com/item?id=38336736) - [Non-profit Matrix.org Foundation seems to be moving funds to for-profit Element](https://github.com/matrix-org/matrix-spec/issues/571)
+* [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Show HN: \"Awesome\" Engineering Games (List)](https://github.com/arcataroger/awesome-engineering-games)
+* [2023-11-19, 19:02:18](https://news.ycombinator.com/item?id=38336432) - [Dorothy Bishop on the prevalence of scientific fraud](https://statmodeling.stat.columbia.edu/2023/11/19/dorothy-bishop-on-the-prevalence-of-scientific-fraud/)
 * [2023-11-19, 18:50:29](https://news.ycombinator.com/item?id=38336260) - [Steven Spielberg Predicts 'Implosion' of Film Industry (2013)](https://www.hollywoodreporter.com/news/general-news/steven-spielberg-predicts-implosion-film-567604/)
 * [2023-11-19, 18:37:45](https://news.ycombinator.com/item?id=38336065) - [The violent gang crisis shaking Sweden](https://www.ft.com/content/79f0d181-bdae-4c81-a971-861ccd8d512c)
 * [2023-11-19, 18:23:43](https://news.ycombinator.com/item?id=38335864) - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
@@ -70,4 +73,5 @@
 * [2023-11-19, 01:09:08](https://news.ycombinator.com/item?id=38327139) - [More advertisers halt spending on X in growing backlash against Musk](https://www.spokesman.com/stories/2023/nov/18/more-advertisers-halt-spending-on-x-in-growing-bac/)
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Source code to infocom's text adventure engines released (zcode interpreters)](https://github.com/erkyrath/infocom-zcode-terps)
+* [2023-11-19, 00:36:00](https://news.ycombinator.com/item?id=38326834) - [OpenAI investors try to get Sam Altman back as CEO after sudden firing](https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049)
 * [2023-11-19, 00:19:49](https://news.ycombinator.com/item?id=38326673) - [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
