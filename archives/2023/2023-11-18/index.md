@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 23:47:21](https://news.ycombinator.com/item?id=38326242) - [Why aren't motherboards mostly USB-C by now? (2021)](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
 * [2023-11-18, 23:37:55](https://news.ycombinator.com/item?id=38326146) - [Ousted OpenAI CEO Makes Plans for New Artificial Intelligence Company](https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html)
 * [2023-11-18, 22:57:35](https://news.ycombinator.com/item?id=38325611) - [OpenAI Investors Scramble to Reinstate Sam Altman as CEO](https://www.forbes.com/sites/alexkonrad/2023/11/18/openai-investors-scramble-to-reinstate-sam-altman-as-ceo/)
 * [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
@@ -30,6 +31,7 @@
 * [2023-11-18, 17:00:54](https://news.ycombinator.com/item?id=38321630) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38321630)
 * [2023-11-18, 16:57:18](https://news.ycombinator.com/item?id=38321577) - [Motorized Ox Carts](https://thelampmagazine.com/blog/old-fashioned-modern)
 * [2023-11-18, 16:56:36](https://news.ycombinator.com/item?id=38321566) - [At Sea: On the defunct language of nautical flags (2016)](https://www.theparisreview.org/blog/2016/11/18/at-sea/)
+* [2023-11-18, 16:54:56](https://news.ycombinator.com/item?id=38321545) - [Daoist History](https://www.noemamag.com/the-modern-wisdom-of-daoist-history/)
 * [2023-11-18, 16:54:36](https://news.ycombinator.com/item?id=38321543) - [The Past and Future of Genomics](https://www.palladiummag.com/2023/11/17/genomics-has-revealed-an-age-undreamed-of/)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 16:41:22](https://news.ycombinator.com/item?id=38321371) - [TV: Now What?](https://commonsware.com/blog/2023/11/18/tv-now-what.html)
