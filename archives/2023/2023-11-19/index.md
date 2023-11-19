@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 11:06:21](https://news.ycombinator.com/item?id=38331501) - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
 * [2023-11-19, 10:45:49](https://news.ycombinator.com/item?id=38331363) - [Songs of Syx: A city-builder with complex mechanics](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 10:14:19](https://news.ycombinator.com/item?id=38331173) - [FSL: A License for the Bazaar, Not the Cathedral](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 11:06:21](https://news.ycombinator.com/item?id=38331501) - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
 * [2023-11-19, 10:45:49](https://news.ycombinator.com/item?id=38331363) - [Songs of Syx: A city-builder with complex mechanics](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 10:14:19](https://news.ycombinator.com/item?id=38331173) - [FSL: A License for the Bazaar, Not the Cathedral](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)
@@ -29,7 +30,6 @@
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A writer's technique for examining organization (2019)](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-17, 21:07:54](https://news.ycombinator.com/item?id=38310345) - [Power and populism in ancient Greek courts](https://www.historytoday.com/archive/history-matters/power-and-populism-ancient-greek-courts)
-* [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
 
 ## [Archives](archives/index.md)
 
