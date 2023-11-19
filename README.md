@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 18:37:45](https://news.ycombinator.com/item?id=38336065) - [The violent gang crisis shaking Sweden](https://www.ft.com/content/79f0d181-bdae-4c81-a971-861ccd8d512c)
 * [2023-11-19, 18:23:43](https://news.ycombinator.com/item?id=38335864) - [How to identify ugly mass tourism places before you visit them?](https://twitter.com/faborio/status/1725631676309463137)
 * [2023-11-19, 18:22:39](https://news.ycombinator.com/item?id=38335850) - [Underage Workers Are Training AI](https://www.wired.com/story/artificial-intelligence-data-labeling-children/)
 * [2023-11-19, 17:59:09](https://news.ycombinator.com/item?id=38335525) - [Altman Sought Billions for AI Chip Venture Before OpenAI Ouster](https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster)
@@ -9,7 +10,6 @@
 * [2023-11-19, 17:06:12](https://news.ycombinator.com/item?id=38334703) - [WHO – Physical Activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)
 * [2023-11-19, 17:02:09](https://news.ycombinator.com/item?id=38334647) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38334647)
 * [2023-11-19, 16:23:27](https://news.ycombinator.com/item?id=38334102) - [Terraform Cloud Pricing Changes Sticker Shock](https://shavingtheyak.com/2023/10/28/hashicorps-terraform-cloud-rum-pricing-sticker-shock/)
-* [2023-11-19, 16:21:48](https://news.ycombinator.com/item?id=38334084) - [I will always prefer to work from home](https://shavingtheyak.com/2023/10/25/wfh-part1/)
 * [2023-11-19, 15:56:41](https://news.ycombinator.com/item?id=38333790) - [U.S. Agency Declares 21 Species Now Extinct L](https://www.pbsnc.org/blogs/science/us-agency-declares-21-species-now-extinct/)
 * [2023-11-19, 15:06:21](https://news.ycombinator.com/item?id=38333271) - [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
 * [2023-11-19, 13:53:52](https://news.ycombinator.com/item?id=38332635) - [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
