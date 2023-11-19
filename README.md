@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem?](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
+* [2023-11-19, 14:50:20](https://news.ycombinator.com/item?id=38333127) - [Help HN: Google has blocked our entire domain for harmful programs](https://news.ycombinator.com/item?id=38333127)
+* [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
 * [2023-11-19, 13:53:52](https://news.ycombinator.com/item?id=38332635) - [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
 * [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
@@ -9,7 +10,6 @@
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
 * [2023-11-19, 11:36:34](https://news.ycombinator.com/item?id=38331669) - [Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 * [2023-11-19, 11:06:21](https://news.ycombinator.com/item?id=38331501) - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
-* [2023-11-19, 11:05:45](https://news.ycombinator.com/item?id=38331493) - [Why dumb ideas capture smart and successful people](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
 * [2023-11-19, 10:53:56](https://news.ycombinator.com/item?id=38331427) - [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
 * [2023-11-19, 10:46:25](https://news.ycombinator.com/item?id=38331368) - [Rational Ritual: Why everyone needs to know what everyone knows (2020)](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
 * [2023-11-19, 10:45:49](https://news.ycombinator.com/item?id=38331363) - [Songs of Syx: A city-builder with complex mechanics (2020)](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
@@ -23,13 +23,13 @@
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
 * [2023-11-18, 23:47:21](https://news.ycombinator.com/item?id=38326242) - [Why aren't motherboards mostly USB-C by now? (2021)](https://philip.greenspun.com/blog/2021/03/22/why-arent-motherboards-mostly-usb-c-by-now/)
-* [2023-11-18, 22:51:39](https://news.ycombinator.com/item?id=38325552) - [OpenAI board in discussions with Sam Altman to return as CEO](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
 * [2023-11-18, 21:51:37](https://news.ycombinator.com/item?id=38324925) - [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 * [2023-11-18, 16:44:44](https://news.ycombinator.com/item?id=38321413) - [Frigate: Open-source network video recorder with real-time AI object detection](https://frigate.video/)
 * [2023-11-18, 13:24:46](https://news.ycombinator.com/item?id=38319283) - [Deep-Fried Data (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 * [2023-11-18, 12:33:51](https://news.ycombinator.com/item?id=38318835) - [Teddy Roosevelt pursues the boat thieves (2015)](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm)
 * [2023-11-18, 11:50:30](https://news.ycombinator.com/item?id=38318434) - [Berlin's indoor pools](https://www.bbc.com/travel/article/20231116-the-hidden-beauty-of-berlins-indoor-pools)
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A writer's technique for examining organization (2019)](https://writing.wisc.edu/handbook/process/reverseoutlines/)
+* [2023-11-17, 10:35:03](https://news.ycombinator.com/item?id=38301721) - [Colm on Constant Work](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 
 ## [Archives](archives/index.md)
 

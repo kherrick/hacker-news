@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 14:50:20](https://news.ycombinator.com/item?id=38333127) - [Help HN: Google has blocked our entire domain for harmful programs](https://news.ycombinator.com/item?id=38333127)
 * [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem?](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
 * [2023-11-19, 13:53:52](https://news.ycombinator.com/item?id=38332635) - [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:24:46](https://news.ycombinator.com/item?id=38332430) - [Chaos in Spain after payment card network crash](https://news.ycombinator.com/item?id=38332430)

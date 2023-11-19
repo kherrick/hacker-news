@@ -86,6 +86,7 @@
 * [2023-11-17, 11:52:18](https://news.ycombinator.com/item?id=38302275) - [Ask HN: What do you use to replace incandescent lights?](https://news.ycombinator.com/item?id=38302275)
 * [2023-11-17, 11:23:26](https://news.ycombinator.com/item?id=38302033) - [Deobfuscating World of Warships' Python Scripts](https://landaire.net/world-of-warships-deobfuscation/)
 * [2023-11-17, 10:46:20](https://news.ycombinator.com/item?id=38301801) - [Chrome Users Beware: Manifest V3 Is Deceitful and Threatening – EFF](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+* [2023-11-17, 10:35:03](https://news.ycombinator.com/item?id=38301721) - [Colm on Constant Work](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 * [2023-11-17, 10:33:23](https://news.ycombinator.com/item?id=38301710) - [The Lack of Compensation in Open Source Software Is Unsustainable](https://trstringer.com/oss-compensation-broken/)
 * [2023-11-17, 10:20:33](https://news.ycombinator.com/item?id=38301644) - [Emacs-ng: A project to integrate Deno and WebRender into Emacs](https://github.com/emacs-ng/emacs-ng)
 * [2023-11-17, 09:52:26](https://news.ycombinator.com/item?id=38301480) - ['Energy independent' Uruguay runs on 100% renewables for four straight months](https://theprogressplaybook.com/2023/10/19/energy-independent-uruguay-runs-on-100-renewables-for-four-straight-months/)
