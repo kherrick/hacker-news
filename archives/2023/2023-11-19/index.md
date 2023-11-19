@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 17:02:09](https://news.ycombinator.com/item?id=38334647) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38334647)
 * [2023-11-19, 16:40:03](https://news.ycombinator.com/item?id=38334331) - [Fear that AI could one day destroy humanity may have led to Sam Altman's ouster](https://www.businessinsider.com/ai-dangers-effective-altruism-sam-altman-openai-2023-11)
 * [2023-11-19, 16:25:48](https://news.ycombinator.com/item?id=38334133) - [Israel's Controversial Treatment of Ethiopian Immigrants: Forced Sterilization](https://medium.com/@chrisjeffrieshomelessromantic/israels-controversial-treatment-of-ethiopian-immigrants-forced-sterilization-and-contraceptive-3e1941a25784)
 * [2023-11-19, 16:25:23](https://news.ycombinator.com/item?id=38334130) - [French authorities label Vitamin D as endocrine disruptor](https://www.nutraingredients.com/Article/2023/11/17/french-authorities-label-vitamin-d-as-endocrine-disruptor)
