@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 17:41:40](https://news.ycombinator.com/item?id=38335276) - [Ex-IBM sales veteran sues for access to health benefits](https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/)
+* [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven Labs quality Text To Speech](https://github.com/yl4579/StyleTTS2)
+* [2023-11-19, 17:30:45](https://news.ycombinator.com/item?id=38335055) - [Fireside Chat with Ilya Sutskever and Jensen Huang](https://www.youtube.com/watch?v=GI4Tpi48DlA)
 * [2023-11-19, 17:06:12](https://news.ycombinator.com/item?id=38334703) - [WHO – Physical Activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)
 * [2023-11-19, 17:02:09](https://news.ycombinator.com/item?id=38334647) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38334647)
 * [2023-11-19, 16:54:59](https://news.ycombinator.com/item?id=38334560) - [Ask HN: Is Unlimited PTO a Scam](https://news.ycombinator.com/item?id=38334560)
