@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 22:29:21](https://news.ycombinator.com/item?id=38339092) - [A Tour of the Tektronix Ceramic CRT \"Catacombs\"](https://vintagetek.org/tour-crt-catacombs/)
 * [2023-11-19, 22:16:30](https://news.ycombinator.com/item?id=38338928) - [Windows Refund Day – When Linux users demanded their money back (2019) [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
 * [2023-11-19, 22:00:59](https://news.ycombinator.com/item?id=38338724) - [OpenAI Boardroom Battle: Safety First](https://www.fabricatedknowledge.com/p/openai-boardroom-battle-safety-first)
 * [2023-11-19, 21:54:14](https://news.ycombinator.com/item?id=38338635) - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)

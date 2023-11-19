@@ -61,6 +61,7 @@
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A Writer's Technique for Examining Organization](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
 * [2023-11-18, 10:39:30](https://news.ycombinator.com/item?id=38317890) - [Live Feed: SpaceX Starship Rocket 2nd Launch Integrated Test Flight](https://www.youtube.com/watch?v=0gCBCPgU5FA)
+* [2023-11-18, 10:18:49](https://news.ycombinator.com/item?id=38317722) - [Programming on Parallel Machines; GPU, Multicore, Clusters and More](https://heather.cs.ucdavis.edu/parprocbook)
 * [2023-11-18, 09:50:52](https://news.ycombinator.com/item?id=38317509) - [Volunteer.gov: Discover volunteer opportunities around the country](https://www.volunteer.gov/s/)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 * [2023-11-18, 09:11:58](https://news.ycombinator.com/item?id=38317247) - [Starship Integrated Flight Test 2 at 7 Am Central Time](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fbroadcasts%2F1dRKZEWQvrXxB)
