@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 23:37:35](https://news.ycombinator.com/item?id=38339845) - [Argentina elects 'shock therapy' libertarian Javier Milei as president](https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/)
 * [2023-11-19, 23:18:01](https://news.ycombinator.com/item?id=38339660) - [Backlash as Netflix cancels five shows at once including its 'best series'](https://www.independent.co.uk/arts-entertainment/tv/news/shadow-and-bone-cancelled-season-3-netflix-b2449902.html)
-* [2023-11-19, 23:10:16](https://news.ycombinator.com/item?id=38339567) - [What the Hell Happened to Effective Altruism](https://www.fromthenew.world/p/what-the-hell-happened-to-effective)
 * [2023-11-19, 22:29:21](https://news.ycombinator.com/item?id=38339092) - [A Tour of the Tektronix Ceramic CRT \"Catacombs\"](https://vintagetek.org/tour-crt-catacombs/)
 * [2023-11-19, 22:16:30](https://news.ycombinator.com/item?id=38338928) - [Windows Refund Day – When Linux users demanded their money back (2019) [video]](https://www.youtube.com/watch?v=1j9j-Ywjmbk)
 * [2023-11-19, 21:54:14](https://news.ycombinator.com/item?id=38338635) - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
@@ -20,6 +20,7 @@
 * [2023-11-19, 15:56:41](https://news.ycombinator.com/item?id=38333790) - [U.S. agency declares 21 species now extinct](https://www.pbsnc.org/blogs/science/us-agency-declares-21-species-now-extinct/)
 * [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
+* [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge bedtime procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
 * [2023-11-19, 11:05:45](https://news.ycombinator.com/item?id=38331493) - [Persuasion through status rather than argument](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
@@ -27,7 +28,6 @@
 * [2023-11-18, 10:18:49](https://news.ycombinator.com/item?id=38317722) - [Programming on Parallel Machines; GPU, Multicore, Clusters and More](https://heather.cs.ucdavis.edu/parprocbook)
 * [2023-11-18, 06:13:44](https://news.ycombinator.com/item?id=38316069) - [Asilomar Principles (2017)](https://futureoflife.org/open-letter/ai-principles/)
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
-* [2023-11-17, 13:35:42](https://news.ycombinator.com/item?id=38303306) - [SheepIt Render Farm](https://www.sheepit-renderfarm.com/home)
 * [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg: A User Interface for Relational Data](https://www.ultorg.com)
 * [2023-11-17, 05:06:48](https://news.ycombinator.com/item?id=38299813) - [The Naturalist and the Jay](https://hakaimagazine.com/features/the-naturalist-and-the-wonderful-loveable-so-good-very-bold-jay/)
 
