@@ -14,6 +14,7 @@
 * [2023-11-18, 21:08:13](https://news.ycombinator.com/item?id=38324453) - [Ousted OpenAI CEO Altman planning new AI venture](https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/)
 * [2023-11-18, 21:00:54](https://news.ycombinator.com/item?id=38324378) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-11-18, 20:19:23](https://news.ycombinator.com/item?id=38323939) - [Altman was raising billions from Middle East sovereign funds for AI chip startup](https://twitter.com/unusual_whales/status/1725945364140986796?s=20)
+* [2023-11-18, 20:05:10](https://news.ycombinator.com/item?id=38323778) - [Julia as a unifying end-to-end workflow language on the Frontier exascale system](https://arxiv.org/abs/2309.10292)
 * [2023-11-18, 18:48:07](https://news.ycombinator.com/item?id=38322966) - [Lockheed is now tracking phones and walkie-talkies from space](https://jackpoulson.substack.com/p/lockheed-is-now-tracking-phones-and)
 * [2023-11-18, 18:46:44](https://news.ycombinator.com/item?id=38322952) - [Mysterious 'Tasmanian devil' space explosion baffles astronomers](https://www.nature.com/articles/d41586-023-03569-3)
 * [2023-11-18, 18:45:41](https://news.ycombinator.com/item?id=38322944) - [Nanoplastics Promote Conditions for Parkinson](https://corporate.dukehealth.org/news/nanoplastics-promote-conditions-parkinsons-across-various-lab-models)
