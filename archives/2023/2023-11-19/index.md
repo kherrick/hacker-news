@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 21:15:42](https://news.ycombinator.com/item?id=38338127) - [US ex-President Jimmy Carter's wife Rosalynn dies aged 96](https://www.bbc.com/news/world-us-canada-67467831)
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 21:04:36](https://news.ycombinator.com/item?id=38337988) - [Sam Altman is at OpenAI (with a guest pass)](https://twitter.com/sama/status/1726345564059832609)

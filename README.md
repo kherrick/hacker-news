@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-19, 21:15:42](https://news.ycombinator.com/item?id=38338127) - [US ex-President Jimmy Carter's wife Rosalynn dies aged 96](https://www.bbc.com/news/world-us-canada-67467831)
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
+* [2023-11-19, 20:35:09](https://news.ycombinator.com/item?id=38337568) - [OpenAI negotiations to reinstate Altman hit snag over board role](https://www.bloomberg.com/news/articles/2023-11-19/openai-negotiations-to-reinstate-altman-hit-snag-over-board-role)
 * [2023-11-19, 20:30:21](https://news.ycombinator.com/item?id=38337501) - [No One Wants to Pay Anymore](https://medium.com/@johnmoyle/no-one-wants-to-pay-any-more-cd96c58010b3)
 * [2023-11-19, 20:20:09](https://news.ycombinator.com/item?id=38337395) - [Rosalynn Carter has died](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
 * [2023-11-19, 20:10:43](https://news.ycombinator.com/item?id=38337292) - [Why doesn't Windows have an \"expert mode\"? (2003)](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
@@ -22,14 +24,12 @@
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
 * [2023-11-19, 11:36:34](https://news.ycombinator.com/item?id=38331669) - [Comparing humans, GPT-4, and GPT-4V on abstraction and reasoning tasks](https://arxiv.org/abs/2311.09247)
 * [2023-11-19, 11:05:45](https://news.ycombinator.com/item?id=38331493) - [Persuasion through status rather than argument](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
-* [2023-11-19, 10:46:25](https://news.ycombinator.com/item?id=38331368) - [Rational Ritual: Why everyone needs to know what everyone knows (2020)](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
 * [2023-11-19, 10:43:09](https://news.ycombinator.com/item?id=38331349) - [Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy](https://zero-k.info/)
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 09:48:17](https://news.ycombinator.com/item?id=38330989) - [The big TDD misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 * [2023-11-18, 06:13:44](https://news.ycombinator.com/item?id=38316069) - [Asilomar Principles (2017)](https://futureoflife.org/open-letter/ai-principles/)
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-11-17, 13:35:42](https://news.ycombinator.com/item?id=38303306) - [SheepIt Render Farm](https://www.sheepit-renderfarm.com/home)
-* [2023-11-17, 05:06:48](https://news.ycombinator.com/item?id=38299813) - [The Naturalist and the Jay](https://hakaimagazine.com/features/the-naturalist-and-the-wonderful-loveable-so-good-very-bold-jay/)
 
 ## [Archives](archives/index.md)
 
