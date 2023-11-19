@@ -99,6 +99,7 @@
 * [2023-11-17, 06:55:28](https://news.ycombinator.com/item?id=38300403) - [How I optimized Portal to run on the Nintendo 64 [video]](https://www.youtube.com/watch?v=r4KGm7ixcqI)
 * [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
 * [2023-11-17, 06:29:10](https://news.ycombinator.com/item?id=38300241) - [Gmail using too much RAM: 1-2GB per tab in Safari](https://discussions.apple.com/thread/253901216)
+* [2023-11-17, 06:18:19](https://news.ycombinator.com/item?id=38300189) - [AnimateArchive (old versions of Adobe Flash)](https://animatearchive.neocities.org/?home)
 * [2023-11-17, 06:13:02](https://news.ycombinator.com/item?id=38300167) - [Moving Away from Substack](https://prakgupta.com/blog/moving_away_from_substack)
 * [2023-11-17, 05:39:55](https://news.ycombinator.com/item?id=38300002) - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 * [2023-11-17, 05:25:45](https://news.ycombinator.com/item?id=38299921) - [UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)

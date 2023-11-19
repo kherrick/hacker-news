@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 15:43:38](https://news.ycombinator.com/item?id=38333665) - [Ask HN: I can't find a job. What do I do?](https://news.ycombinator.com/item?id=38333665)
+* [2023-11-19, 15:24:46](https://news.ycombinator.com/item?id=38333474) - [Cities: Skylines 2's troubled launch, and why simulation games are freaking hard](https://arstechnica.com/gaming/2023/11/the-sad-story-of-cities-skylines-2s-launch-and-how-the-game-hopes-to-get-better/)
 * [2023-11-19, 15:06:21](https://news.ycombinator.com/item?id=38333271) - [I cancelled my Replit subscription](https://journal.paoloamoroso.com/why-i-cancelled-my-replit-subscription)
 * [2023-11-19, 14:50:20](https://news.ycombinator.com/item?id=38333127) - [Help HN: Google has blocked our entire domain for harmful programs](https://news.ycombinator.com/item?id=38333127)
 * [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [It's Time for a Change: Datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
