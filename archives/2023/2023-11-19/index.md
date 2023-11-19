@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
 * [2023-11-19, 04:47:56](https://news.ycombinator.com/item?id=38329101) - [Sama: I love the OpenAI team so much](https://twitter.com/sama/status/1726099792600903681?s=20)
+* [2023-11-19, 04:29:13](https://news.ycombinator.com/item?id=38328965) - [Facebook-parent Meta breaks up its Responsible AI team](https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html)
+* [2023-11-19, 04:21:49](https://news.ycombinator.com/item?id=38328907) - [HoneyPot – I Made a Text Field Only Bots Use – Heres What Happened](https://github.com/lee101/hidden-form-on-the-internet)
 * [2023-11-19, 03:43:02](https://news.ycombinator.com/item?id=38328569) - [I cannot believe that my father's MD did not swab for staph before surgery](https://now.uiowa.edu/news/2013/06/be-gone-bacteria)
 * [2023-11-19, 03:18:17](https://news.ycombinator.com/item?id=38328355) - [Meta disbanded its Responsible AI team](https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence)
 * [2023-11-19, 02:00:04](https://news.ycombinator.com/item?id=38327563) - [Update on the OpenAI drama: Altman and the board had till 5pm to reach a truce](https://twitter.com/alexeheath/status/1726055095341875545)
