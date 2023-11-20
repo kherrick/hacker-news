@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-20, 10:41:11",
-      "https://news.ycombinator.com/item?id=38346058"
-    ],
-    [
-      "Mira Murati: OpenAI is nothing without its people",
-      "https://twitter.com/miramurati/status/1726542556203483392"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 10:16:14",
       "https://news.ycombinator.com/item?id=38345858"
     ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2023-11-20, 00:32:07",
+      "https://news.ycombinator.com/item?id=38340431"
+    ],
+    [
+      "Cosmopolitan v3.1",
+      "https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 00:13:24",
       "https://news.ycombinator.com/item?id=38340226"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-11-19, 19:44:13",
-      "https://news.ycombinator.com/item?id=38337001"
-    ],
-    [
-      "The Cassette-Tape Revolution",
-      "https://www.newyorker.com/culture/cultural-comment/the-cassette-tape-revolution"
-    ]
-  ],
-  [
-    [
       "2023-11-19, 19:37:44",
       "https://news.ycombinator.com/item?id=38336912"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2023-11-19, 12:24:42",
-      "https://news.ycombinator.com/item?id=38332014"
+      "2023-11-19, 14:49:32",
+      "https://news.ycombinator.com/item?id=38333116"
     ],
     [
-      "The position of a watch influences accuracy (2020)",
-      "https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html"
+      "datetime.utcnow() is now deprecated",
+      "https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ultorg: A User Interface for Relational Data",
       "https://www.ultorg.com"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 08:06:55",
+      "https://news.ycombinator.com/item?id=38300827"
+    ],
+    [
+      "Inversion Art is trying to become the YC of the arts world",
+      "https://techcrunch.com/2023/11/12/inversion-art/"
     ]
   ]
 ]
