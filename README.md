@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-20, 08:27:23](https://news.ycombinator.com/item?id=38344644) - [Sam Altman is the CEO of a new AI group under Microsoft](https://twitter.com/satyanadella/status/1726516824597258569)
-* [2023-11-20, 08:15:08](https://news.ycombinator.com/item?id=38344477) - [Microsoft just hired Sam and Greg to lead a new advanced AI research team](https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit)
-* [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
+* [2023-11-20, 08:54:16](https://news.ycombinator.com/item?id=38345017) - [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
+* [2023-11-20, 08:50:53](https://news.ycombinator.com/item?id=38344973) - [The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
 * [2023-11-20, 07:56:13](https://news.ycombinator.com/item?id=38344196) - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 * [2023-11-20, 05:22:12](https://news.ycombinator.com/item?id=38342670) - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
@@ -21,6 +20,7 @@
 * [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 17:13:36](https://news.ycombinator.com/item?id=38334784) - [CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot](https://github.com/AndreaFavero71/CUBOTino_base_version)
+* [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 00:29:07](https://news.ycombinator.com/item?id=38326758) - [Scotland's Oldest Tartan Rose](https://www.atlasobscura.com/articles/oldest-tartan-plaid-in-scotland)
 * [2023-11-18, 23:50:15](https://news.ycombinator.com/item?id=38326279) - [Remembering the Crystal Radio (2020)](https://www.nutsvolts.com/magazine/article/remembering-the-crystal-radio)

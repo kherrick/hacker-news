@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 08:54:16](https://news.ycombinator.com/item?id=38345017) - [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
+* [2023-11-20, 08:50:53](https://news.ycombinator.com/item?id=38344973) - [The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
 * [2023-11-20, 08:27:23](https://news.ycombinator.com/item?id=38344644) - [Sam Altman is the CEO of a new AI group under Microsoft](https://twitter.com/satyanadella/status/1726516824597258569)
 * [2023-11-20, 08:15:08](https://news.ycombinator.com/item?id=38344477) - [Microsoft just hired Sam and Greg to lead a new advanced AI research team](https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit)
 * [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
