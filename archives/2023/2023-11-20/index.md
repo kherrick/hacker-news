@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 05:11:38](https://news.ycombinator.com/item?id=38342554) - [Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down](https://www.theinformation.com/articles/breaking-sam-altman-will-not-return-as-ceo-of-openai)
+* [2023-11-20, 04:46:30](https://news.ycombinator.com/item?id=38342361) - [Crypto Crashed and Everyone's in Jail. Investors Think It's Coming Back Anyway](https://www.vice.com/en/article/7kxmpg/crypto-crashed-and-everyones-in-jail-investors-think-its-coming-back-anyway)
 * [2023-11-20, 04:30:28](https://news.ycombinator.com/item?id=38342266) - [OpenAI's Murati Aims to Re-Hire Altman, Brockman After Exits](https://www.bloomberg.com/news/articles/2023-11-20/openai-s-murati-aims-to-re-hire-altman-brockman-after-exits)
 * [2023-11-20, 03:45:07](https://news.ycombinator.com/item?id=38342026) - [Australian Telco Optus CEO Kelly Bayer Rosmarin resigns after network outage](https://www.theguardian.com/business/2023/nov/20/optus-ceo-kelly-bayer-rosmarin-resigns-network-outage-australia)
 * [2023-11-20, 02:36:33](https://news.ycombinator.com/item?id=38341524) - [Today I resigned from my position as CEO of Cruise](https://twitter.com/kvogt/status/1726428099217400178)

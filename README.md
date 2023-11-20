@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-20, 04:30:28](https://news.ycombinator.com/item?id=38342266) - [OpenAI's Murati Aims to Re-Hire Altman, Brockman After Exits](https://www.bloomberg.com/news/articles/2023-11-20/openai-s-murati-aims-to-re-hire-altman-brockman-after-exits)
+* [2023-11-20, 05:11:38](https://news.ycombinator.com/item?id=38342554) - [Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down](https://www.theinformation.com/articles/breaking-sam-altman-will-not-return-as-ceo-of-openai)
+* [2023-11-20, 04:46:30](https://news.ycombinator.com/item?id=38342361) - [Crypto Crashed and Everyone's in Jail. Investors Think It's Coming Back Anyway](https://www.vice.com/en/article/7kxmpg/crypto-crashed-and-everyones-in-jail-investors-think-its-coming-back-anyway)
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Kyle Vogt resigns from Cruise](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
@@ -29,7 +30,6 @@
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg: A User Interface for Relational Data](https://www.ultorg.com)
 * [2023-11-17, 08:06:55](https://news.ycombinator.com/item?id=38300827) - [Inversion Art is trying to become the YC of the arts world](https://techcrunch.com/2023/11/12/inversion-art/)
-* [2023-11-17, 05:06:48](https://news.ycombinator.com/item?id=38299813) - [The Naturalist and the Jay](https://hakaimagazine.com/features/the-naturalist-and-the-wonderful-loveable-so-good-very-bold-jay/)
 
 ## [Archives](archives/index.md)
 
