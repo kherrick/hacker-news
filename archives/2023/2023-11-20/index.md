@@ -14,6 +14,7 @@
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 * [2023-11-20, 02:23:28](https://news.ycombinator.com/item?id=38341399) - [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
 * [2023-11-20, 01:45:21](https://news.ycombinator.com/item?id=38341103) - [The growing energy footprint of artificial intelligence (\"AI\") [pdf]](https://www.cell.com/joule/pdf/S2542-4351%2823%2900365-3.pdf)
+* [2023-11-20, 01:38:46](https://news.ycombinator.com/item?id=38341035) - [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
 * [2023-11-20, 01:14:09](https://news.ycombinator.com/item?id=38340832) - [For Altman to come back, board must issue statement absolving him of wrongdoing](https://twitter.com/emilychangtv/status/1726389177879818566)
 * [2023-11-20, 01:04:47](https://news.ycombinator.com/item?id=38340742) - [The Inter font family version 4.0](https://github.com/rsms/inter/releases/tag/v4.0)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)

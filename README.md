@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-20, 05:19:57](https://news.ycombinator.com/item?id=38342643) - [Emmett Shear becomes interim OpenAI CEO as Altman talks break down](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
-* [2023-11-20, 04:46:30](https://news.ycombinator.com/item?id=38342361) - [Crypto Crashed and Everyone's in Jail. Investors Think It's Coming Back Anyway](https://www.vice.com/en/article/7kxmpg/crypto-crashed-and-everyones-in-jail-investors-think-its-coming-back-anyway)
 * [2023-11-20, 03:47:51](https://news.ycombinator.com/item?id=38342039) - [New college grads are more likely to be unemployed in today's job market](https://www.washingtonpost.com/business/2023/11/19/college-grads-unemployed-jobs/)
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Kyle Vogt resigns from Cruise](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
+* [2023-11-20, 01:38:46](https://news.ycombinator.com/item?id=38341035) - [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-20, 00:10:16](https://news.ycombinator.com/item?id=38340188) - [A trip to see Chicagoland Sears houses](https://www.searshouseseeker.com/?m=0)
