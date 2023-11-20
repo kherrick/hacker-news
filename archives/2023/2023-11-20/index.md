@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 21:02:11](https://news.ycombinator.com/item?id=38354700) - [Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
 * [2023-11-20, 20:44:03](https://news.ycombinator.com/item?id=38354422) - [Typst – Compose Papers Faster](https://typst.app/)
 * [2023-11-20, 20:40:45](https://news.ycombinator.com/item?id=38354368) - [Salesforce will match comp of any OpenAI researcher who resigns](https://twitter.com/Benioff/status/1726695914105090498)
 * [2023-11-20, 20:33:16](https://news.ycombinator.com/item?id=38354254) - [A guide to open-source LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
 * [2023-11-20, 20:13:28](https://news.ycombinator.com/item?id=38353940) - [European Telecom Body to Open-Source Radio Encryption System](https://www.bankinfosecurity.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599)
 * [2023-11-20, 20:13:17](https://news.ycombinator.com/item?id=38353937) - [YouTube is reportedly slowing down videos for Firefox users](https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/)
 * [2023-11-20, 20:11:02](https://news.ycombinator.com/item?id=38353880) - [Misalignment and Deception by an autonomous stock trading LLM agent](https://arxiv.org/abs/2311.07590)
+* [2023-11-20, 20:10:19](https://news.ycombinator.com/item?id=38353865) - [Taking my e-bike as an undercover food delivery rider](https://electrek.co/2023/11/17/food-delivery-e-bike-rider-what-i-learned/)
 * [2023-11-20, 20:05:26](https://news.ycombinator.com/item?id=38353784) - [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
