@@ -24,7 +24,7 @@
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
 * [2023-11-20, 15:02:53](https://news.ycombinator.com/item?id=38349234) - [75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing](https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing)
 * [2023-11-20, 13:41:27](https://news.ycombinator.com/item?id=38347868) - [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
-* [2023-11-20, 13:20:34](https://news.ycombinator.com/item?id=38347555) - [Animals Whose Blood Isn't Red](https://animals.howstuffworks.com/animal-facts/5-animals-whose-blood-isnt-red.htm)
+* [2023-11-20, 08:54:16](https://news.ycombinator.com/item?id=38345017) - [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
 * [2023-11-20, 08:50:53](https://news.ycombinator.com/item?id=38344973) - [The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
 * [2023-11-20, 06:43:05](https://news.ycombinator.com/item?id=38343510) - [Divide and Concur: A Radical Plan for Peace in Europe (1920)](https://publicdomainreview.org/collection/unionization-of-central-europe/)
 * [2023-11-20, 01:19:38](https://news.ycombinator.com/item?id=38340875) - ['How to Expect the Unexpected' Review: Stop Thinking Straight](https://www.wsj.com/arts-culture/books/how-to-expect-the-unexpected-review-stop-thinking-straight-58db8846)
