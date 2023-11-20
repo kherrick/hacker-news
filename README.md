@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 02:36:33](https://news.ycombinator.com/item?id=38341524) - [Today I resigned from my position as CEO of Cruise](https://twitter.com/kvogt/status/1726428099217400178)
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 * [2023-11-20, 02:23:28](https://news.ycombinator.com/item?id=38341399) - [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
-* [2023-11-20, 01:04:47](https://news.ycombinator.com/item?id=38340742) - [The Inter font family version 4.0](https://github.com/rsms/inter/releases/tag/v4.0)
+* [2023-11-20, 01:45:21](https://news.ycombinator.com/item?id=38341103) - [The growing energy footprint of artificial intelligence (\"AI\") [pdf]](https://www.cell.com/joule/pdf/S2542-4351%2823%2900365-3.pdf)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-19, 23:23:41](https://news.ycombinator.com/item?id=38339715) - [The Domesday Duplicator](https://github.com/simoninns/DomesdayDuplicator/wiki)
@@ -23,7 +24,6 @@
 * [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
-* [2023-11-19, 00:27:04](https://news.ycombinator.com/item?id=38326746) - [Modernity in the Rainforest: Man and his Desire (1917)](https://publicdomainreview.org/collection/man-and-his-desire/)
 * [2023-11-18, 23:50:15](https://news.ycombinator.com/item?id=38326279) - [Remembering the Crystal Radio](https://www.nutsvolts.com/magazine/article/remembering-the-crystal-radio)
 * [2023-11-18, 10:18:49](https://news.ycombinator.com/item?id=38317722) - [Programming on Parallel Machines; GPU, Multicore, Clusters and More](https://heather.cs.ucdavis.edu/parprocbook)
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
