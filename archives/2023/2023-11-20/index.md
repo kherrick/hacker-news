@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 21:58:33](https://news.ycombinator.com/item?id=38355502) - [Finley (YC W21) Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2023-11-20, 21:32:53](https://news.ycombinator.com/item?id=38355144) - [FreeBSD 14.0-Release Now Available](https://lists.freebsd.org/archives/freebsd-announce/2023-November/000101.html)
 * [2023-11-20, 21:16:35](https://news.ycombinator.com/item?id=38354918) - [FreeBSD 14.0-Release Announcement](https://www.freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:07:55](https://news.ycombinator.com/item?id=38354788) - [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
