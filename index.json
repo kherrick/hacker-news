@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=38349357"
     ],
     [
-      "Former Mozilla exec: Google has sabotaged Firefox for years",
+      "Former Mozilla exec: Google has sabotaged Firefox for years (2019)",
       "https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 15:13:22",
+      "https://news.ycombinator.com/item?id=38349334"
+    ],
+    [
+      "\"Et Tu, Ilya?\"",
+      "https://techarena.substack.com/p/et-tu-ilya"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "RustGPT: ChatGPT UI Built with Rust, Htmx, SQLite",
       "https://github.com/bitswired/rustgpt"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 01:38:46",
-      "https://news.ycombinator.com/item?id=38341035"
-    ],
-    [
-      "Trap and test AWS SES emails locally",
-      "https://github.com/kamranahmedse/local-ses"
     ]
   ],
   [
