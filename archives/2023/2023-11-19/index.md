@@ -16,6 +16,7 @@
 * [2023-11-19, 21:54:14](https://news.ycombinator.com/item?id=38338635) - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
 * [2023-11-19, 21:38:51](https://news.ycombinator.com/item?id=38338425) - [Bootstrapping Self Awareness in GPT-4: Towards Recursive Self Inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
 * [2023-11-19, 21:15:42](https://news.ycombinator.com/item?id=38338127) - [US ex-President Jimmy Carter's wife Rosalynn dies aged 96](https://www.bbc.com/news/world-us-canada-67467831)
+* [2023-11-19, 21:07:56](https://news.ycombinator.com/item?id=38338037) - ['The Revolutionary Temper' by Robert Darnton Review](https://www.historytoday.com/archive/review/revolutionary-temper-robert-darnton-review)
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I Tend Not to Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 21:04:36](https://news.ycombinator.com/item?id=38337988) - [Sam Altman is at OpenAI (with a guest pass)](https://twitter.com/sama/status/1726345564059832609)

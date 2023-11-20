@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 20:05:26](https://news.ycombinator.com/item?id=38353784) - [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
+* [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
+* [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
 * [2023-11-20, 19:30:40](https://news.ycombinator.com/item?id=38353201) - [Nearly All of OpenAI Staff Threaten to Go to Microsoft If Board Doesn't Quit](https://www.bloomberg.com/news/articles/2023-11-20/openai-staff-threaten-to-go-to-microsoft-if-board-doesn-t-quit)
 * [2023-11-20, 19:27:06](https://news.ycombinator.com/item?id=38353146) - [Venmo, Cash App users sue Apple over peer-to-peer payment fees](https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/)
 * [2023-11-20, 19:11:21](https://news.ycombinator.com/item?id=38352891) - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
@@ -16,6 +19,7 @@
 * [2023-11-20, 17:44:51](https://news.ycombinator.com/item?id=38351370) - [Ask HN: What's the state of the art for drawing math diagrams online?](https://news.ycombinator.com/item?id=38351370)
 * [2023-11-20, 17:44:21](https://news.ycombinator.com/item?id=38351356) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-11-20, 17:34:50](https://news.ycombinator.com/item?id=38351195) - [Carnegie Mellon's intro functional programming lectures are now online for free](https://brandonspark.github.io/150/)
+* [2023-11-20, 17:34:39](https://news.ycombinator.com/item?id=38351194) - [NVK reaches Vulkan 1.0 conformance](https://www.collabora.com/news-and-blog/news-and-events/nvk-reaches-vulkan-conformance.html)
 * [2023-11-20, 17:27:03](https://news.ycombinator.com/item?id=38351048) - [Apple Plans to Equip MacBooks with In-House Cellular Modems](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/)
 * [2023-11-20, 17:12:17](https://news.ycombinator.com/item?id=38350746) - [Who Controls OpenAI?](https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai)
 * [2023-11-20, 16:55:15](https://news.ycombinator.com/item?id=38350435) - [GM's big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
