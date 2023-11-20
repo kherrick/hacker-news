@@ -97,6 +97,7 @@
 * [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg, user interface for relational data, is released](https://www.ultorg.com)
 * [2023-11-17, 08:38:37](https://news.ycombinator.com/item?id=38300990) - [Google's Gemini model is delayed](https://www.theverge.com/2023/11/16/23964937/googles-next-generation-gemini-ai-model-is-reportedly-delayed)
 * [2023-11-17, 08:19:16](https://news.ycombinator.com/item?id=38300902) - [Copernicus, Galileo and Kepler all lacked proof](https://www.cricetuscricetus.co.uk/post/copernicus-galileo-kepler-they-all-lacked-proof)
+* [2023-11-17, 08:06:55](https://news.ycombinator.com/item?id=38300827) - [Inversion Art is trying to become the YC of the arts world](https://techcrunch.com/2023/11/12/inversion-art/)
 * [2023-11-17, 06:59:28](https://news.ycombinator.com/item?id=38300425) - [Practical nil panic detection for Go](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-17, 06:55:28](https://news.ycombinator.com/item?id=38300403) - [How I optimized Portal to run on the Nintendo 64 [video]](https://www.youtube.com/watch?v=r4KGm7ixcqI)
 * [2023-11-17, 06:38:18](https://news.ycombinator.com/item?id=38300297) - [An automatic indexing system for Postgres](https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine)
