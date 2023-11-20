@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 14:05:41](https://news.ycombinator.com/item?id=38348287) - [Ilya Sutskever tweet: I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028?s=20)
 * [2023-11-20, 13:52:13](https://news.ycombinator.com/item?id=38348042) - [Employees of OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775?s=46)
+* [2023-11-20, 13:51:59](https://news.ycombinator.com/item?id=38348036) - [Argentina's New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
 * [2023-11-20, 13:50:17](https://news.ycombinator.com/item?id=38348010) - [550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
 * [2023-11-20, 13:41:27](https://news.ycombinator.com/item?id=38347868) - [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
 * [2023-11-20, 13:16:22](https://news.ycombinator.com/item?id=38347501) - [Ilya Sutskever: I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028)
@@ -12,6 +14,7 @@
 * [2023-11-20, 12:40:15](https://news.ycombinator.com/item?id=38347131) - [Key OpenAI employees posting \"OpenAI is nothing without its people.\"](https://twitter.com/tomwarren/status/1726546605502046630)
 * [2023-11-20, 12:19:56](https://news.ycombinator.com/item?id=38346943) - [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
 * [2023-11-20, 12:10:25](https://news.ycombinator.com/item?id=38346869) - [OpenAI's Misalignment and Microsoft's Gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
+* [2023-11-20, 12:09:30](https://news.ycombinator.com/item?id=38346862) - [Roc – A fast, friendly, functional language](https://www.roc-lang.org/)
 * [2023-11-20, 11:35:42](https://news.ycombinator.com/item?id=38346555) - [How can you define a 'drug'? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
 * [2023-11-20, 10:53:45](https://news.ycombinator.com/item?id=38346157) - [Dear Mira and Ilya – congratulations on your coup at OpenAI](https://twitter.com/varun_mathur/status/1725971418238849154)
 * [2023-11-20, 10:41:11](https://news.ycombinator.com/item?id=38346058) - [Mira Murati: OpenAI is nothing without its people](https://twitter.com/miramurati/status/1726542556203483392)
