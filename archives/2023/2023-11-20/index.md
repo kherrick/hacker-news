@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 13:52:13](https://news.ycombinator.com/item?id=38348042) - [Employees of OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775?s=46)
+* [2023-11-20, 13:50:17](https://news.ycombinator.com/item?id=38348010) - [550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
+* [2023-11-20, 13:41:27](https://news.ycombinator.com/item?id=38347868) - [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
 * [2023-11-20, 13:16:22](https://news.ycombinator.com/item?id=38347501) - [Ilya Sutskever: I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028)
 * [2023-11-20, 13:05:47](https://news.ycombinator.com/item?id=38347402) - [Meta’s approach of ‘pay for your privacy’ is wrong](https://tuta.com/blog/meta-pay-for-privacy-illegal)
 * [2023-11-20, 12:40:15](https://news.ycombinator.com/item?id=38347131) - [Key OpenAI employees posting \"OpenAI is nothing without its people.\"](https://twitter.com/tomwarren/status/1726546605502046630)
