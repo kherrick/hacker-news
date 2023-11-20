@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 03:45:07](https://news.ycombinator.com/item?id=38342026) - [Australian Telco Optus CEO Kelly Bayer Rosmarin resigns after network outage](https://www.theguardian.com/business/2023/nov/20/optus-ceo-kelly-bayer-rosmarin-resigns-network-outage-australia)
 * [2023-11-20, 02:36:33](https://news.ycombinator.com/item?id=38341524) - [Today I resigned from my position as CEO of Cruise](https://twitter.com/kvogt/status/1726428099217400178)
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 * [2023-11-20, 01:45:21](https://news.ycombinator.com/item?id=38341103) - [The growing energy footprint of artificial intelligence (\"AI\") [pdf]](https://www.cell.com/joule/pdf/S2542-4351%2823%2900365-3.pdf)
@@ -29,7 +30,6 @@
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg: A User Interface for Relational Data](https://www.ultorg.com)
 * [2023-11-17, 08:06:55](https://news.ycombinator.com/item?id=38300827) - [Inversion Art is trying to become the YC of the arts world](https://techcrunch.com/2023/11/12/inversion-art/)
-* [2023-11-17, 05:06:48](https://news.ycombinator.com/item?id=38299813) - [The Naturalist and the Jay](https://hakaimagazine.com/features/the-naturalist-and-the-wonderful-loveable-so-good-very-bold-jay/)
 
 ## [Archives](archives/index.md)
 
