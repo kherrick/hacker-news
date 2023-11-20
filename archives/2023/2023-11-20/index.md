@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 23:41:31](https://news.ycombinator.com/item?id=38356631) - [Nvidia introduces the H200 an AI-crunching monster GPU that may speed up ChatGPT](https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/)
 * [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC Charges Kraken for Operating as an Unregistered Securities Exchange](https://www.sec.gov/news/press-release/2023-237)
 * [2023-11-20, 22:39:19](https://news.ycombinator.com/item?id=38355934) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
 * [2023-11-20, 22:23:53](https://news.ycombinator.com/item?id=38355762) - [Changing User-Agent to Google Chrome drastically improves YouTube load times](https://twitter.com/uwukko/status/1726625892620009501)
