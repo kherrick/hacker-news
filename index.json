@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38346869"
     ],
     [
-      "OpenAI's Misalignment and Microsoft's Gain",
+      "OpenAI's misalignment and Microsoft's gain",
       "https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "YouTube artificially slows down video load times when using Firefox",
       "https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 10:14:03",
+      "https://news.ycombinator.com/item?id=38345843"
+    ],
+    [
+      "Data-Driven Development Is a Lie",
+      "https://grishaev.me/en/ddd-lie"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2023-11-20, 02:59:00",
+      "https://news.ycombinator.com/item?id=38341708"
+    ],
+    [
+      "RustGPT: ChatGPT UI Built with Rust, Htmx, SQLite",
+      "https://github.com/bitswired/rustgpt"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 01:38:46",
       "https://news.ycombinator.com/item?id=38341035"
     ],
@@ -177,16 +197,6 @@
     [
       "The Domesday Duplicator (2022)",
       "https://github.com/simoninns/DomesdayDuplicator/wiki"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 22:29:21",
-      "https://news.ycombinator.com/item?id=38339092"
-    ],
-    [
-      "A Tour of the Tektronix Ceramic CRT \"Catacombs\"",
-      "https://vintagetek.org/tour-crt-catacombs/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ancient Tree Inventory",
       "https://ati.woodlandtrust.org.uk/"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 10:18:49",
-      "https://news.ycombinator.com/item?id=38317722"
-    ],
-    [
-      "Programming on Parallel Machines; GPU, Multicore, Clusters and More",
-      "https://heather.cs.ucdavis.edu/parprocbook"
     ]
   ]
 ]
