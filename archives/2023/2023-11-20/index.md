@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 20:44:03](https://news.ycombinator.com/item?id=38354422) - [Typst – Compose Papers Faster](https://typst.app/)
 * [2023-11-20, 20:40:45](https://news.ycombinator.com/item?id=38354368) - [Salesforce will match comp of any OpenAI researcher who resigns](https://twitter.com/Benioff/status/1726695914105090498)
 * [2023-11-20, 20:33:16](https://news.ycombinator.com/item?id=38354254) - [A guide to open-source LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
+* [2023-11-20, 20:13:28](https://news.ycombinator.com/item?id=38353940) - [European Telecom Body to Open-Source Radio Encryption System](https://www.bankinfosecurity.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599)
 * [2023-11-20, 20:13:17](https://news.ycombinator.com/item?id=38353937) - [YouTube is reportedly slowing down videos for Firefox users](https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/)
 * [2023-11-20, 20:11:02](https://news.ycombinator.com/item?id=38353880) - [Misalignment and Deception by an autonomous stock trading LLM agent](https://arxiv.org/abs/2311.07590)
 * [2023-11-20, 20:05:26](https://news.ycombinator.com/item?id=38353784) - [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
@@ -87,6 +89,7 @@
 * [2023-11-20, 02:23:28](https://news.ycombinator.com/item?id=38341399) - [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
 * [2023-11-20, 01:45:21](https://news.ycombinator.com/item?id=38341103) - [The growing energy footprint of artificial intelligence (\"AI\") [pdf]](https://www.cell.com/joule/pdf/S2542-4351%2823%2900365-3.pdf)
 * [2023-11-20, 01:38:46](https://news.ycombinator.com/item?id=38341035) - [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
+* [2023-11-20, 01:19:38](https://news.ycombinator.com/item?id=38340875) - ['How to Expect the Unexpected' Review: Stop Thinking Straight](https://www.wsj.com/arts-culture/books/how-to-expect-the-unexpected-review-stop-thinking-straight-58db8846)
 * [2023-11-20, 01:14:09](https://news.ycombinator.com/item?id=38340832) - [For Altman to come back, board must issue statement absolving him of wrongdoing](https://twitter.com/emilychangtv/status/1726389177879818566)
 * [2023-11-20, 01:04:47](https://news.ycombinator.com/item?id=38340742) - [The Inter font family version 4.0](https://github.com/rsms/inter/releases/tag/v4.0)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
