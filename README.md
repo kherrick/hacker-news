@@ -2,12 +2,12 @@
 
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 * [2023-11-20, 02:23:28](https://news.ycombinator.com/item?id=38341399) - [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
+* [2023-11-20, 01:04:47](https://news.ycombinator.com/item?id=38340742) - [The Inter font family version 4.0](https://github.com/rsms/inter/releases/tag/v4.0)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-19, 23:23:41](https://news.ycombinator.com/item?id=38339715) - [The Domesday Duplicator](https://github.com/simoninns/DomesdayDuplicator/wiki)
 * [2023-11-19, 22:29:21](https://news.ycombinator.com/item?id=38339092) - [A Tour of the Tektronix Ceramic CRT \"Catacombs\"](https://vintagetek.org/tour-crt-catacombs/)
 * [2023-11-19, 21:54:14](https://news.ycombinator.com/item?id=38338635) - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
-* [2023-11-19, 21:38:51](https://news.ycombinator.com/item?id=38338425) - [Bootstrapping self awareness in GPT-4: Towards recursive self inquiry](https://thewaltersfile.substack.com/p/bootstrapping-self-awareness-in-gpt)
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
