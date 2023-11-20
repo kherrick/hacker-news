@@ -6,6 +6,7 @@
 
 * [2023-11-20, 18:21:45](https://news.ycombinator.com/item?id=38352028) - [OpenAI: Facts from a Weekend – A Timeline of Events](https://thezvi.wordpress.com/2023/11/20/openai-facts-from-a-weekend/)
 * [2023-11-20, 18:20:01](https://news.ycombinator.com/item?id=38352004) - [YouTube has started to artificially slow down video load times for Firefox](https://twitter.com/endermanch/status/1726602144097395150)
+* [2023-11-20, 17:52:30](https://news.ycombinator.com/item?id=38351497) - [US Seeks More Than $4B from Binance to End Criminal Case](https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case)
 * [2023-11-20, 17:44:51](https://news.ycombinator.com/item?id=38351370) - [Ask HN: What's the state of the art for drawing math diagrams online?](https://news.ycombinator.com/item?id=38351370)
 * [2023-11-20, 17:44:21](https://news.ycombinator.com/item?id=38351356) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-11-20, 17:27:03](https://news.ycombinator.com/item?id=38351048) - [Apple Plans to Equip MacBooks with In-House Cellular Modems](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/)
@@ -27,6 +28,7 @@
 * [2023-11-20, 13:51:59](https://news.ycombinator.com/item?id=38348036) - [Argentina's New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
 * [2023-11-20, 13:50:17](https://news.ycombinator.com/item?id=38348010) - [550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
 * [2023-11-20, 13:41:27](https://news.ycombinator.com/item?id=38347868) - [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
+* [2023-11-20, 13:20:34](https://news.ycombinator.com/item?id=38347555) - [Animals Whose Blood Isn't Red](https://animals.howstuffworks.com/animal-facts/5-animals-whose-blood-isnt-red.htm)
 * [2023-11-20, 13:16:22](https://news.ycombinator.com/item?id=38347501) - [Ilya Sutskever: I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028)
 * [2023-11-20, 13:05:47](https://news.ycombinator.com/item?id=38347402) - [Meta’s approach of ‘pay for your privacy’ is wrong](https://tuta.com/blog/meta-pay-for-privacy-illegal)
 * [2023-11-20, 12:40:15](https://news.ycombinator.com/item?id=38347131) - [Key OpenAI employees posting \"OpenAI is nothing without its people.\"](https://twitter.com/tomwarren/status/1726546605502046630)
