@@ -77,6 +77,7 @@
 * [2023-11-20, 08:15:08](https://news.ycombinator.com/item?id=38344477) - [Microsoft just hired Sam and Greg to lead a new advanced AI research team](https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit)
 * [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
 * [2023-11-20, 07:56:13](https://news.ycombinator.com/item?id=38344196) - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
+* [2023-11-20, 06:43:05](https://news.ycombinator.com/item?id=38343510) - [Divide and Concur: A Radical Plan for Peace in Europe (1920)](https://publicdomainreview.org/collection/unionization-of-central-europe/)
 * [2023-11-20, 06:40:27](https://news.ycombinator.com/item?id=38343484) - [Kurt Vonnegut's House Is Not Haunted](https://www.theparisreview.org/blog/2023/11/15/kurt-vonneguts-house-is-not-haunted/)
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 * [2023-11-20, 06:26:14](https://news.ycombinator.com/item?id=38343359) - [Edmund of Abingdon's Dream Job](https://www.historytoday.com/archive/out-margins/edmund-abingdons-dream-job)
