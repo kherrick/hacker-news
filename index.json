@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-11-20, 19:06:08",
-      "https://news.ycombinator.com/item?id=38352794"
-    ],
-    [
-      "Google quietly open sourced a 1.6T parameter MOE model",
-      "https://old.reddit.com/r/LocalLLaMA/comments/17zo2ml/google_quietly_open_sourced_a_16_trillion/"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 18:47:18",
       "https://news.ycombinator.com/item?id=38352484"
     ],
@@ -157,6 +147,16 @@
     [
       "River: A fast, robust job queue for Go and Postgres",
       "https://brandur.org/river"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 14:25:00",
+      "https://news.ycombinator.com/item?id=38348671"
+    ],
+    [
+      "Google releases Switch Transformers C – 2048 experts (1.6T params for 3.1 TB)",
+      "https://huggingface.co/google/switch-c-2048"
     ]
   ],
   [
