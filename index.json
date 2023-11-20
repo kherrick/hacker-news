@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-20, 18:21:45",
+      "https://news.ycombinator.com/item?id=38352028"
+    ],
+    [
+      "OpenAI: Facts from a Weekend – A Timeline of Events",
+      "https://thezvi.wordpress.com/2023/11/20/openai-facts-from-a-weekend/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 18:20:01",
+      "https://news.ycombinator.com/item?id=38352004"
+    ],
+    [
+      "YouTube has started to artificially slow down video load times for Firefox",
+      "https://twitter.com/endermanch/status/1726602144097395150"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 17:44:51",
+      "https://news.ycombinator.com/item?id=38351370"
+    ],
+    [
+      "Ask HN: What's the state of the art for drawing math diagrams online?",
+      "https://news.ycombinator.com/item?id=38351370"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 17:44:21",
       "https://news.ycombinator.com/item?id=38351356"
     ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2023-11-20, 14:18:51",
-      "https://news.ycombinator.com/item?id=38348556"
-    ],
-    [
-      "Canada Inches Closer to 'Right to Repair' Reform",
-      "https://www.techdirt.com/2023/11/20/canada-inches-closer-to-right-to-repair-reform/"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 13:41:27",
       "https://news.ycombinator.com/item?id=38347868"
     ],
     [
       "OpenAI staff threaten to quit unless board resigns",
       "https://www.wired.com/story/openai-staff-walk-protest-sam-altman/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 13:16:22",
-      "https://news.ycombinator.com/item?id=38347501"
-    ],
-    [
-      "I deeply regret my participation in the board's actions",
-      "https://twitter.com/ilyasut/status/1726590052392956028"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Setenv Is Not Thread Safe and C Doesn't Want to Fix It",
       "https://www.evanjones.ca/setenv-is-not-thread-safe.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 02:59:00",
-      "https://news.ycombinator.com/item?id=38341708"
-    ],
-    [
-      "RustGPT: ChatGPT UI Built with Rust, Htmx, SQLite",
-      "https://github.com/bitswired/rustgpt"
     ]
   ],
   [
