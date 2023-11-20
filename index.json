@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-20, 21:02:11",
+      "https://news.ycombinator.com/item?id=38354700"
+    ],
+    [
+      "Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think",
+      "https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 20:44:03",
       "https://news.ycombinator.com/item?id=38354422"
     ],
@@ -37,6 +47,16 @@
     [
       "Misalignment and Deception by an autonomous stock trading LLM agent",
       "https://arxiv.org/abs/2311.07590"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 20:10:19",
+      "https://news.ycombinator.com/item?id=38353865"
+    ],
+    [
+      "Taking my e-bike as an undercover food delivery rider",
+      "https://electrek.co/2023/11/17/food-delivery-e-bike-rider-what-i-learned/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-11-20, 07:56:13",
-      "https://news.ycombinator.com/item?id=38344196"
-    ],
-    [
-      "Sam Altman, Greg Brockman and others to join Microsoft",
-      "https://twitter.com/satyanadella/status/1726509045803336122"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 06:29:01",
       "https://news.ycombinator.com/item?id=38343385"
     ],
@@ -287,16 +297,6 @@
     [
       "The microtype package: Subliminal refinements towards typographical perfection [pdf]",
       "https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 06:03:01",
-      "https://news.ycombinator.com/item?id=38316002"
-    ],
-    [
-      "Tigerbeetle's Storage Fault Model",
-      "https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/DESIGN.md"
     ]
   ]
 ]
