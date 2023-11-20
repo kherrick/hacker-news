@@ -7,6 +7,7 @@
 * [2023-11-19, 23:51:45](https://news.ycombinator.com/item?id=38339991) - [Uber paid 58 Australians $1350 to have One Less Car](https://www.forbes.com.au/news/lifestyle/uber-paid-58-australians-to-have-one-less-car/)
 * [2023-11-19, 23:37:35](https://news.ycombinator.com/item?id=38339845) - [Argentina elects 'shock therapy' libertarian Javier Milei as president](https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/)
 * [2023-11-19, 23:28:27](https://news.ycombinator.com/item?id=38339760) - [Milei wins elections and dollarization of Argentinian economy is on the way](https://www.lanacion.com.ar/politica/balotaje-2023-cerraron-los-comicios-y-se-esperan-los-primeros-resultados-para-las-21-nid19112023/)
+* [2023-11-19, 23:23:41](https://news.ycombinator.com/item?id=38339715) - [The Domesday Duplicator](https://github.com/simoninns/DomesdayDuplicator/wiki)
 * [2023-11-19, 23:18:01](https://news.ycombinator.com/item?id=38339660) - [Backlash as Netflix cancels five shows at once including its 'best series'](https://www.independent.co.uk/arts-entertainment/tv/news/shadow-and-bone-cancelled-season-3-netflix-b2449902.html)
 * [2023-11-19, 23:10:16](https://news.ycombinator.com/item?id=38339567) - [What the Hell Happened to Effective Altruism](https://www.fromthenew.world/p/what-the-hell-happened-to-effective)
 * [2023-11-19, 22:29:21](https://news.ycombinator.com/item?id=38339092) - [A Tour of the Tektronix Ceramic CRT \"Catacombs\"](https://vintagetek.org/tour-crt-catacombs/)
@@ -100,4 +101,5 @@
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Source code to infocom's text adventure engines released (zcode interpreters)](https://github.com/erkyrath/infocom-zcode-terps)
 * [2023-11-19, 00:36:00](https://news.ycombinator.com/item?id=38326834) - [OpenAI investors try to get Sam Altman back as CEO after sudden firing](https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049)
+* [2023-11-19, 00:27:04](https://news.ycombinator.com/item?id=38326746) - [Modernity in the Rainforest: Man and his Desire (1917)](https://publicdomainreview.org/collection/man-and-his-desire/)
 * [2023-11-19, 00:19:49](https://news.ycombinator.com/item?id=38326673) - [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)
