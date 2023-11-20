@@ -12,3 +12,4 @@
 * [2023-11-20, 01:04:47](https://news.ycombinator.com/item?id=38340742) - [The Inter font family version 4.0](https://github.com/rsms/inter/releases/tag/v4.0)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
+* [2023-11-20, 00:10:16](https://news.ycombinator.com/item?id=38340188) - [Finding Still-Standing Sears Kit Houses](https://www.searshouseseeker.com/?m=0)
