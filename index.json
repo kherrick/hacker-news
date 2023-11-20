@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-11-20, 04:46:30",
-      "https://news.ycombinator.com/item?id=38342361"
-    ],
-    [
-      "Crypto Crashed and Everyone's in Jail. Investors Think It's Coming Back Anyway",
-      "https://www.vice.com/en/article/7kxmpg/crypto-crashed-and-everyones-in-jail-investors-think-its-coming-back-anyway"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 03:47:51",
       "https://news.ycombinator.com/item?id=38342039"
     ],
@@ -37,6 +27,16 @@
     [
       "Kyle Vogt resigns from Cruise",
       "https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 01:38:46",
+      "https://news.ycombinator.com/item?id=38341035"
+    ],
+    [
+      "Trap and test AWS SES emails locally",
+      "https://github.com/kamranahmedse/local-ses"
     ]
   ],
   [
