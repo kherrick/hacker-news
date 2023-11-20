@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC Charges Kraken for Operating as an Unregistered Securities Exchange](https://www.sec.gov/news/press-release/2023-237)
 * [2023-11-20, 22:39:19](https://news.ycombinator.com/item?id=38355934) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
 * [2023-11-20, 22:23:53](https://news.ycombinator.com/item?id=38355762) - [Changing User-Agent to Google Chrome drastically improves YouTube load times](https://twitter.com/uwukko/status/1726625892620009501)
 * [2023-11-20, 21:58:36](https://news.ycombinator.com/item?id=38355503) - [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
@@ -45,6 +46,7 @@
 * [2023-11-20, 15:49:02](https://news.ycombinator.com/item?id=38349653) - [OpenAI's chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)
 * [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
 * [2023-11-20, 15:13:22](https://news.ycombinator.com/item?id=38349334) - [\"Et Tu, Ilya?\"](https://techarena.substack.com/p/et-tu-ilya)
+* [2023-11-20, 15:02:53](https://news.ycombinator.com/item?id=38349234) - [75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing](https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing)
 * [2023-11-20, 14:59:14](https://news.ycombinator.com/item?id=38349191) - [All love – Sam Altman responds to Ilya Sutskever regret for firing him](https://twitter.com/sama/status/1726594398098780570)
 * [2023-11-20, 14:52:21](https://news.ycombinator.com/item?id=38349101) - [We've been fighting poverty all wrong](https://www.vox.com/future-perfect/23965898/child-poverty-expanded-child-tax-credit-economy-welfare-phase-ins)
 * [2023-11-20, 14:43:53](https://news.ycombinator.com/item?id=38348995) - [OpenAI board member's Poe let users make chatbots using prompts in April 2023](https://twitter.com/adamdangelo/status/1644435126343077888)
