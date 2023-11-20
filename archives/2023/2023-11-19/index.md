@@ -66,6 +66,7 @@
 * [2023-11-19, 13:47:34](https://news.ycombinator.com/item?id=38332585) - [Object-Oriented Programming in Oberon-2 [pdf]](https://ssw.jku.at/Research/Books/Oberon2.pdf)
 * [2023-11-19, 13:24:46](https://news.ycombinator.com/item?id=38332430) - [Chaos in Spain after payment card network crash](https://news.ycombinator.com/item?id=38332430)
 * [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
+* [2023-11-19, 12:54:59](https://news.ycombinator.com/item?id=38332226) - [The microtype package: Subliminal refinements towards typographical perfection [pdf]](https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf)
 * [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 12:21:55](https://news.ycombinator.com/item?id=38332000) - [Hilbert's 6TH Problem [pdf]](https://www.leocorry.com/_files/ugd/e6fef7_4586674091a145e4a154f2395f76a7aa.pdf)
