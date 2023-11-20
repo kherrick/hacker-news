@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-11-20, 21:32:53",
-      "https://news.ycombinator.com/item?id=38355144"
-    ],
-    [
-      "FreeBSD 14.0-Release Now Available",
-      "https://lists.freebsd.org/archives/freebsd-announce/2023-November/000101.html"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 21:16:35",
       "https://news.ycombinator.com/item?id=38354918"
     ],
     [
-      "FreeBSD 14.0-Release Announcement",
+      "FreeBSD 14.0-Release",
       "https://www.freebsd.org/releases/14.0R/announce/"
     ]
   ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2023-11-20, 14:25:00",
-      "https://news.ycombinator.com/item?id=38348671"
-    ],
-    [
-      "Switch Transformers C – 2048 experts (1.6T params for 3.1 TB)",
-      "https://huggingface.co/google/switch-c-2048"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 13:41:27",
       "https://news.ycombinator.com/item?id=38347868"
     ],
     [
       "OpenAI staff threaten to quit unless board resigns",
       "https://www.wired.com/story/openai-staff-walk-protest-sam-altman/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 12:09:30",
+      "https://news.ycombinator.com/item?id=38346862"
+    ],
+    [
+      "Roc – A fast, friendly, functional language",
+      "https://www.roc-lang.org/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2023-11-20, 06:43:05",
+      "https://news.ycombinator.com/item?id=38343510"
+    ],
+    [
+      "Divide and Concur: A Radical Plan for Peace in Europe (1920)",
+      "https://publicdomainreview.org/collection/unionization-of-central-europe/"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 01:19:38",
       "https://news.ycombinator.com/item?id=38340875"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38332585"
     ],
     [
-      "Object-Oriented Programming in Oberon-2 [pdf]",
+      "Object-Oriented Programming in Oberon-2 [pdf] (1994)",
       "https://ssw.jku.at/Research/Books/Oberon2.pdf"
     ]
   ],
