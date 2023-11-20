@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
 * [2023-11-20, 09:07:27](https://news.ycombinator.com/item?id=38345162) - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
 * [2023-11-20, 09:02:31](https://news.ycombinator.com/item?id=38345115) - [Microsoft: We remain committed to our partnership with OpenAI](https://twitter.com/satyanadella/status/1726509045803336122?s=41)
 * [2023-11-20, 08:56:58](https://news.ycombinator.com/item?id=38345053) - [Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
@@ -19,7 +20,6 @@
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
 * [2023-11-19, 19:44:13](https://news.ycombinator.com/item?id=38337001) - [The Cassette-Tape Revolution](https://www.newyorker.com/culture/cultural-comment/the-cassette-tape-revolution)
 * [2023-11-19, 19:37:44](https://news.ycombinator.com/item?id=38336912) - [A space station fell to Earth. An Australian boy brought it to San Francisco](https://www.sfgate.com/sfhistory/article/the-skylab-race-to-san-francisco-18074888.php)
-* [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 17:13:36](https://news.ycombinator.com/item?id=38334784) - [CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot](https://github.com/AndreaFavero71/CUBOTino_base_version)
 * [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
