@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 19:30:40](https://news.ycombinator.com/item?id=38353201) - [Nearly All of OpenAI Staff Threaten to Go to Microsoft If Board Doesn't Quit](https://www.bloomberg.com/news/articles/2023-11-20/openai-staff-threaten-to-go-to-microsoft-if-board-doesn-t-quit)
+* [2023-11-20, 19:27:06](https://news.ycombinator.com/item?id=38353146) - [Venmo, Cash App users sue Apple over peer-to-peer payment fees](https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/)
 * [2023-11-20, 19:11:21](https://news.ycombinator.com/item?id=38352891) - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
 * [2023-11-20, 19:06:08](https://news.ycombinator.com/item?id=38352794) - [Google quietly open sourced a 1.6T parameter MOE model](https://old.reddit.com/r/LocalLLaMA/comments/17zo2ml/google_quietly_open_sourced_a_16_trillion/)
 * [2023-11-20, 18:55:34](https://news.ycombinator.com/item?id=38352634) - [Tuning the Linux kernel with AI, according to ByteDance](https://www.zdnet.com/article/tuning-the-linux-kernel-with-ai-according-to-bytedance/)
+* [2023-11-20, 18:47:18](https://news.ycombinator.com/item?id=38352484) - [After Boeing declines to pay up, ransomware group leaks 45 GB of data](https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data)
 * [2023-11-20, 18:21:45](https://news.ycombinator.com/item?id=38352028) - [OpenAI: Facts from a Weekend – A Timeline of Events](https://thezvi.wordpress.com/2023/11/20/openai-facts-from-a-weekend/)
 * [2023-11-20, 18:20:01](https://news.ycombinator.com/item?id=38352004) - [YouTube has started to artificially slow down video load times for Firefox](https://twitter.com/endermanch/status/1726602144097395150)
 * [2023-11-20, 17:52:30](https://news.ycombinator.com/item?id=38351497) - [US Seeks More Than $4B from Binance to End Criminal Case](https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case)
