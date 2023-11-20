@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-20, 19:11:21",
+      "https://news.ycombinator.com/item?id=38352891"
+    ],
+    [
+      "Sam Altman is still trying to return as OpenAI CEO",
+      "https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 19:06:08",
+      "https://news.ycombinator.com/item?id=38352794"
+    ],
+    [
+      "Google quietly open sourced a 1.6T parameter MOE model",
+      "https://old.reddit.com/r/LocalLLaMA/comments/17zo2ml/google_quietly_open_sourced_a_16_trillion/"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 18:55:34",
       "https://news.ycombinator.com/item?id=38352634"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38351195"
     ],
     [
-      "Carnegie Mellon's intro functional programming lectures are now online for free",
+      "15-150: Principles of Functional Programming",
       "https://brandonspark.github.io/150/"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "River: A fast, robust job queue for Go and Postgres",
       "https://brandur.org/river"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 14:42:01",
-      "https://news.ycombinator.com/item?id=38348968"
-    ],
-    [
-      "Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP",
-      "https://www.semianalysis.com/p/microsoft-swallows-openais-core-team"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-11-20, 08:56:58",
+      "https://news.ycombinator.com/item?id=38345053"
+    ],
+    [
+      "Z80 vs. 8088 Speed",
+      "https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 08:54:16",
       "https://news.ycombinator.com/item?id=38345017"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-11-20, 06:40:27",
-      "https://news.ycombinator.com/item?id=38343484"
-    ],
-    [
-      "Kurt Vonnegut's House Is Not Haunted",
-      "https://www.theparisreview.org/blog/2023/11/15/kurt-vonneguts-house-is-not-haunted/"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 06:29:01",
       "https://news.ycombinator.com/item?id=38343385"
     ],
@@ -227,16 +237,6 @@
     [
       "Setenv Is Not Thread Safe and C Doesn't Want to Fix It",
       "https://www.evanjones.ca/setenv-is-not-thread-safe.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 19:37:44",
-      "https://news.ycombinator.com/item?id=38336912"
-    ],
-    [
-      "A space station fell to Earth. An Australian boy brought it to San Francisco",
-      "https://www.sfgate.com/sfhistory/article/the-skylab-race-to-san-francisco-18074888.php"
     ]
   ],
   [
