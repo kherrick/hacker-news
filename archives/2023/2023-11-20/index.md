@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 15:49:02](https://news.ycombinator.com/item?id=38349653) - [OpenAI's chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)
 * [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
 * [2023-11-20, 15:13:22](https://news.ycombinator.com/item?id=38349334) - [\"Et Tu, Ilya?\"](https://techarena.substack.com/p/et-tu-ilya)
 * [2023-11-20, 14:59:14](https://news.ycombinator.com/item?id=38349191) - [All love – Sam Altman responds to Ilya Sutskever regret for firing him](https://twitter.com/sama/status/1726594398098780570)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 15:49:02](https://news.ycombinator.com/item?id=38349653) - [OpenAI's chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)
 * [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years (2019)](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
 * [2023-11-20, 15:13:22](https://news.ycombinator.com/item?id=38349334) - [\"Et Tu, Ilya?\"](https://techarena.substack.com/p/et-tu-ilya)
 * [2023-11-20, 14:42:01](https://news.ycombinator.com/item?id=38348968) - [Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
@@ -26,7 +27,6 @@
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 13:47:34](https://news.ycombinator.com/item?id=38332585) - [Object-Oriented Programming in Oberon-2 [pdf]](https://ssw.jku.at/Research/Books/Oberon2.pdf)
 * [2023-11-19, 12:21:55](https://news.ycombinator.com/item?id=38332000) - [Hilbert's 6th problem [pdf]](https://www.leocorry.com/_files/ugd/e6fef7_4586674091a145e4a154f2395f76a7aa.pdf)
-* [2023-11-19, 00:29:07](https://news.ycombinator.com/item?id=38326758) - [Scotland's Oldest Tartan Rose](https://www.atlasobscura.com/articles/oldest-tartan-plaid-in-scotland)
 * [2023-11-18, 22:51:38](https://news.ycombinator.com/item?id=38325551) - [A.S. Byatt has died](https://www.nytimes.com/2023/11/17/books/as-byatt-dead.html)
 * [2023-11-18, 11:14:57](https://news.ycombinator.com/item?id=38318132) - [Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
 * [2023-11-18, 06:03:01](https://news.ycombinator.com/item?id=38316002) - [Tigerbeetle's Storage Fault Model](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/DESIGN.md)
