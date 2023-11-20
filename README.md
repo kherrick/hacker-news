@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
+* [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years (2019)](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
+* [2023-11-20, 15:13:22](https://news.ycombinator.com/item?id=38349334) - [\"Et Tu, Ilya?\"](https://techarena.substack.com/p/et-tu-ilya)
 * [2023-11-20, 14:42:01](https://news.ycombinator.com/item?id=38348968) - [Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
 * [2023-11-20, 14:38:59](https://news.ycombinator.com/item?id=38348909) - [Microsoft Is Eating the World](https://aisupremacy.substack.com/p/microsoft-is-eating-the-world)
 * [2023-11-20, 14:18:51](https://news.ycombinator.com/item?id=38348556) - [Canada Inches Closer to 'Right to Repair' Reform](https://www.techdirt.com/2023/11/20/canada-inches-closer-to-right-to-repair-reform/)
@@ -20,7 +21,6 @@
 * [2023-11-20, 05:22:12](https://news.ycombinator.com/item?id=38342670) - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
 * [2023-11-20, 05:19:56](https://news.ycombinator.com/item?id=38342642) - [Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-20, 02:59:00](https://news.ycombinator.com/item?id=38341708) - [RustGPT: ChatGPT UI Built with Rust, Htmx, SQLite](https://github.com/bitswired/rustgpt)
-* [2023-11-20, 01:38:46](https://news.ycombinator.com/item?id=38341035) - [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
 * [2023-11-19, 21:54:14](https://news.ycombinator.com/item?id=38338635) - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
 * [2023-11-19, 19:37:44](https://news.ycombinator.com/item?id=38336912) - [A space station fell to Earth. An Australian boy brought it to San Francisco](https://www.sfgate.com/sfhistory/article/the-skylab-race-to-san-francisco-18074888.php)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)

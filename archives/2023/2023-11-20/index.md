@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
 * [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
+* [2023-11-20, 15:13:22](https://news.ycombinator.com/item?id=38349334) - [\"Et Tu, Ilya?\"](https://techarena.substack.com/p/et-tu-ilya)
 * [2023-11-20, 14:59:14](https://news.ycombinator.com/item?id=38349191) - [All love – Sam Altman responds to Ilya Sutskever regret for firing him](https://twitter.com/sama/status/1726594398098780570)
 * [2023-11-20, 14:52:21](https://news.ycombinator.com/item?id=38349101) - [We've been fighting poverty all wrong](https://www.vox.com/future-perfect/23965898/child-poverty-expanded-child-tax-credit-economy-welfare-phase-ins)
 * [2023-11-20, 14:43:53](https://news.ycombinator.com/item?id=38348995) - [OpenAI board member's Poe let users make chatbots using prompts in April 2023](https://twitter.com/adamdangelo/status/1644435126343077888)
