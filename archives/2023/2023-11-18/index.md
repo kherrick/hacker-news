@@ -85,6 +85,7 @@
 * [2023-11-18, 07:04:20](https://news.ycombinator.com/item?id=38316378) - [Three senior researchers have resigned from OpenAI](https://news.ycombinator.com/item?id=38316378)
 * [2023-11-18, 06:28:09](https://news.ycombinator.com/item?id=38316167) - [The Religion of the Engineers; and Hayek Its True Prophet](https://crookedtimber.org/2023/11/13/the-religion-of-the-engineers-and-hayek-its-true-prophet/)
 * [2023-11-18, 06:13:44](https://news.ycombinator.com/item?id=38316069) - [Asilomar Principles (2017)](https://futureoflife.org/open-letter/ai-principles/)
+* [2023-11-18, 06:03:01](https://news.ycombinator.com/item?id=38316002) - [Tigerbeetle's Storage Fault Model](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/DESIGN.md)
 * [2023-11-18, 05:39:21](https://news.ycombinator.com/item?id=38315795) - [Show HN: Grigora.co – A Blogger's Answer to Secure, Simple Web Building](https://grigora.co)
 * [2023-11-18, 05:34:30](https://news.ycombinator.com/item?id=38315757) - [Sam Altman: if I start going off, board should go after me for my shares](https://twitter.com/sama/status/1725748751367852439?s=20)
 * [2023-11-18, 05:17:18](https://news.ycombinator.com/item?id=38315627) - [TrasHTTPandas – Trash Panda HTTP Responses](https://httpraccoons.com/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 14:18:51](https://news.ycombinator.com/item?id=38348556) - [Canada Inches Closer to 'Right to Repair' Reform](https://www.techdirt.com/2023/11/20/canada-inches-closer-to-right-to-repair-reform/)
 * [2023-11-20, 14:05:41](https://news.ycombinator.com/item?id=38348287) - [Ilya Sutskever tweet: I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028?s=20)
 * [2023-11-20, 13:51:59](https://news.ycombinator.com/item?id=38348036) - [Argentina's New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
 * [2023-11-20, 13:50:17](https://news.ycombinator.com/item?id=38348010) - [550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
@@ -18,18 +19,17 @@
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 * [2023-11-20, 05:22:12](https://news.ycombinator.com/item?id=38342670) - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
 * [2023-11-20, 05:19:56](https://news.ycombinator.com/item?id=38342642) - [Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
-* [2023-11-20, 02:59:00](https://news.ycombinator.com/item?id=38341708) - [RustGPT: ChatGPT UI Built with Rust, Htmx, SQLite](https://github.com/bitswired/rustgpt)
 * [2023-11-20, 01:38:46](https://news.ycombinator.com/item?id=38341035) - [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-20, 00:10:16](https://news.ycombinator.com/item?id=38340188) - [A trip to see Chicagoland Sears houses](https://www.searshouseseeker.com/?m=0)
 * [2023-11-19, 21:54:14](https://news.ycombinator.com/item?id=38338635) - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
-* [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 19:37:44](https://news.ycombinator.com/item?id=38336912) - [A space station fell to Earth. An Australian boy brought it to San Francisco](https://www.sfgate.com/sfhistory/article/the-skylab-race-to-san-francisco-18074888.php)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 12:21:55](https://news.ycombinator.com/item?id=38332000) - [Hilbert's 6th problem [pdf]](https://www.leocorry.com/_files/ugd/e6fef7_4586674091a145e4a154f2395f76a7aa.pdf)
 * [2023-11-19, 00:29:07](https://news.ycombinator.com/item?id=38326758) - [Scotland's Oldest Tartan Rose](https://www.atlasobscura.com/articles/oldest-tartan-plaid-in-scotland)
 * [2023-11-18, 22:51:38](https://news.ycombinator.com/item?id=38325551) - [A.S. Byatt has died](https://www.nytimes.com/2023/11/17/books/as-byatt-dead.html)
 * [2023-11-18, 11:14:57](https://news.ycombinator.com/item?id=38318132) - [Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
+* [2023-11-18, 06:03:01](https://news.ycombinator.com/item?id=38316002) - [Tigerbeetle's Storage Fault Model](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/DESIGN.md)
 
 ## [Archives](archives/index.md)
 
