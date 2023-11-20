@@ -101,5 +101,6 @@
 * [2023-11-19, 00:54:46](https://news.ycombinator.com/item?id=38327017) - [Show HN: YouTube banned adblockers so I built an extension to skip their ads](https://news.ycombinator.com/item?id=38327017)
 * [2023-11-19, 00:40:39](https://news.ycombinator.com/item?id=38326878) - [Source code to infocom's text adventure engines released (zcode interpreters)](https://github.com/erkyrath/infocom-zcode-terps)
 * [2023-11-19, 00:36:00](https://news.ycombinator.com/item?id=38326834) - [OpenAI investors try to get Sam Altman back as CEO after sudden firing](https://www.wsj.com/tech/openai-trying-to-get-sam-altman-back-4b728049)
+* [2023-11-19, 00:29:07](https://news.ycombinator.com/item?id=38326758) - [Scotland's Oldest Tartan Rose from a Peat Bog](https://www.atlasobscura.com/articles/oldest-tartan-plaid-in-scotland)
 * [2023-11-19, 00:27:04](https://news.ycombinator.com/item?id=38326746) - [Modernity in the Rainforest: Man and his Desire (1917)](https://publicdomainreview.org/collection/man-and-his-desire/)
 * [2023-11-19, 00:19:49](https://news.ycombinator.com/item?id=38326673) - [AI Girlfriend Went Down After CEO Jailed for Setting His Apartment on Fire](https://themessenger.com/news/people-cant-access-their-ai-girlfriend-because-the-service-went-down-after-ceo-jailed-for-setting-his-apartment-on-fire)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 06:10:46](https://news.ycombinator.com/item?id=38343203) - [TIL you could make xkcd-like plots with matplotlib](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
 * [2023-11-20, 05:43:07](https://news.ycombinator.com/item?id=38342913) - [Sam Altman not coming back as CEO of OpenAI](https://twitter.com/amir/status/1726465076843176224)
 * [2023-11-20, 05:19:57](https://news.ycombinator.com/item?id=38342643) - [The deal to bring Sam Altman back to OpenAI has fallen apart](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
 * [2023-11-20, 05:11:38](https://news.ycombinator.com/item?id=38342554) - [Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down](https://www.theinformation.com/articles/breaking-sam-altman-will-not-return-as-ceo-of-openai)
