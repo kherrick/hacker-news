@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-11-20, 14:59:14",
-      "https://news.ycombinator.com/item?id=38349191"
+      "2023-11-20, 14:43:53",
+      "https://news.ycombinator.com/item?id=38348995"
     ],
     [
-      "All love – Sam Altman responds to Ilya Sutskever regret for firing him",
-      "https://twitter.com/sama/status/1726594398098780570"
+      "OpenAI board member's Poe let users make chatbots using prompts in April 2023",
+      "https://twitter.com/adamdangelo/status/1644435126343077888"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 14:42:01",
+      "https://news.ycombinator.com/item?id=38348968"
+    ],
+    [
+      "Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP",
+      "https://www.semianalysis.com/p/microsoft-swallows-openais-core-team"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 14:38:59",
+      "https://news.ycombinator.com/item?id=38348909"
+    ],
+    [
+      "Microsoft Is Eating the World",
+      "https://aisupremacy.substack.com/p/microsoft-is-eating-the-world"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Roc – A fast, friendly, functional language",
       "https://www.roc-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 11:35:42",
-      "https://news.ycombinator.com/item?id=38346555"
-    ],
-    [
-      "How can you define a 'drug'? Nobody knows",
-      "https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Trap and test AWS SES emails locally",
       "https://github.com/kamranahmedse/local-ses"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 00:13:24",
-      "https://news.ycombinator.com/item?id=38340226"
-    ],
-    [
-      "Friends don't let friends make bad graphs",
-      "https://github.com/cxli233/FriendsDontLetFriends"
     ]
   ],
   [
