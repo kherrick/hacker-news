@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-20, 09:19:31](https://news.ycombinator.com/item?id=38345273) - [Greg Tweeted:We are going to build something new and it will be incredible](https://twitter.com/gdb/status/1726530200484372688)
 * [2023-11-20, 09:07:27](https://news.ycombinator.com/item?id=38345162) - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
 * [2023-11-20, 09:02:31](https://news.ycombinator.com/item?id=38345115) - [Microsoft: We remain committed to our partnership with OpenAI](https://twitter.com/satyanadella/status/1726509045803336122?s=41)
 * [2023-11-20, 08:56:58](https://news.ycombinator.com/item?id=38345053) - [Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
@@ -23,6 +22,7 @@
 * [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 17:13:36](https://news.ycombinator.com/item?id=38334784) - [CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot](https://github.com/AndreaFavero71/CUBOTino_base_version)
+* [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 00:29:07](https://news.ycombinator.com/item?id=38326758) - [Scotland's Oldest Tartan Rose](https://www.atlasobscura.com/articles/oldest-tartan-plaid-in-scotland)
 * [2023-11-18, 23:50:15](https://news.ycombinator.com/item?id=38326279) - [Remembering the Crystal Radio (2020)](https://www.nutsvolts.com/magazine/article/remembering-the-crystal-radio)
