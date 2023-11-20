@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 16:55:15](https://news.ycombinator.com/item?id=38350435) - [GM's big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A Fast, Robust Job Queue for Go and Postgres](https://brandur.org/river)
 * [2023-11-20, 15:49:02](https://news.ycombinator.com/item?id=38349653) - [OpenAI's chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)
 * [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
@@ -28,6 +29,7 @@
 * [2023-11-20, 11:35:42](https://news.ycombinator.com/item?id=38346555) - [How can you define a 'drug'? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
 * [2023-11-20, 10:53:45](https://news.ycombinator.com/item?id=38346157) - [Dear Mira and Ilya – congratulations on your coup at OpenAI](https://twitter.com/varun_mathur/status/1725971418238849154)
 * [2023-11-20, 10:41:11](https://news.ycombinator.com/item?id=38346058) - [Mira Murati: OpenAI is nothing without its people](https://twitter.com/miramurati/status/1726542556203483392)
+* [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube slows down video load times when using Firefox](https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
 * [2023-11-20, 10:14:03](https://news.ycombinator.com/item?id=38345843) - [Data-Driven Development Is a Lie](https://grishaev.me/en/ddd-lie)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 16:55:15](https://news.ycombinator.com/item?id=38350435) - [GM's big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
-* [2023-11-20, 15:15:39](https://news.ycombinator.com/item?id=38349357) - [Former Mozilla exec: Google has sabotaged Firefox for years (2019)](https://www.zdnet.com/article/former-mozilla-exec-google-has-sabotaged-firefox-for-years/)
 * [2023-11-20, 15:13:22](https://news.ycombinator.com/item?id=38349334) - [\"Et Tu, Ilya?\"](https://techarena.substack.com/p/et-tu-ilya)
 * [2023-11-20, 14:52:21](https://news.ycombinator.com/item?id=38349101) - [We've been fighting poverty all wrong](https://www.vox.com/future-perfect/23965898/child-poverty-expanded-child-tax-credit-economy-welfare-phase-ins)
 * [2023-11-20, 14:42:01](https://news.ycombinator.com/item?id=38348968) - [Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
@@ -11,7 +11,7 @@
 * [2023-11-20, 13:16:22](https://news.ycombinator.com/item?id=38347501) - [I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028)
 * [2023-11-20, 12:10:25](https://news.ycombinator.com/item?id=38346869) - [OpenAI's misalignment and Microsoft's gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
 * [2023-11-20, 12:09:30](https://news.ycombinator.com/item?id=38346862) - [Roc – A fast, friendly, functional language](https://www.roc-lang.org/)
-* [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
+* [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube slows down video load times when using Firefox](https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
 * [2023-11-20, 10:14:03](https://news.ycombinator.com/item?id=38345843) - [Data-Driven Development Is a Lie](https://grishaev.me/en/ddd-lie)
 * [2023-11-20, 08:56:58](https://news.ycombinator.com/item?id=38345053) - [Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
 * [2023-11-20, 08:54:16](https://news.ycombinator.com/item?id=38345017) - [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
