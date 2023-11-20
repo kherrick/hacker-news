@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 14:59:14](https://news.ycombinator.com/item?id=38349191) - [All love – Sam Altman responds to Ilya Sutskever regret for firing him](https://twitter.com/sama/status/1726594398098780570)
 * [2023-11-20, 14:18:51](https://news.ycombinator.com/item?id=38348556) - [Canada Inches Closer to 'Right to Repair' Reform](https://www.techdirt.com/2023/11/20/canada-inches-closer-to-right-to-repair-reform/)
 * [2023-11-20, 14:05:41](https://news.ycombinator.com/item?id=38348287) - [Ilya Sutskever tweet: I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028?s=20)
 * [2023-11-20, 13:52:13](https://news.ycombinator.com/item?id=38348042) - [Employees of OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775?s=46)
