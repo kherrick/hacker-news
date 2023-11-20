@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 22:39:19](https://news.ycombinator.com/item?id=38355934) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
 * [2023-11-20, 22:23:53](https://news.ycombinator.com/item?id=38355762) - [Changing User-Agent to Google Chrome drastically improves YouTube load times](https://twitter.com/uwukko/status/1726625892620009501)
 * [2023-11-20, 21:58:36](https://news.ycombinator.com/item?id=38355503) - [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
 * [2023-11-20, 21:58:33](https://news.ycombinator.com/item?id=38355502) - [Finley (YC W21) Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2023-11-20, 21:32:53](https://news.ycombinator.com/item?id=38355144) - [FreeBSD 14.0-Release Now Available](https://lists.freebsd.org/archives/freebsd-announce/2023-November/000101.html)
+* [2023-11-20, 21:18:00](https://news.ycombinator.com/item?id=38354939) - [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
 * [2023-11-20, 21:16:35](https://news.ycombinator.com/item?id=38354918) - [FreeBSD 14.0-Release Announcement](https://www.freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:07:55](https://news.ycombinator.com/item?id=38354788) - [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 * [2023-11-20, 21:02:11](https://news.ycombinator.com/item?id=38354700) - [Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
