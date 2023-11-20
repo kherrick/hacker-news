@@ -41,6 +41,7 @@
 * [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
 * [2023-11-20, 07:56:13](https://news.ycombinator.com/item?id=38344196) - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
+* [2023-11-20, 06:26:14](https://news.ycombinator.com/item?id=38343359) - [Edmund of Abingdon's Dream Job](https://www.historytoday.com/archive/out-margins/edmund-abingdons-dream-job)
 * [2023-11-20, 06:10:46](https://news.ycombinator.com/item?id=38343203) - [TIL you could make xkcd-like plots with matplotlib](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
 * [2023-11-20, 05:43:07](https://news.ycombinator.com/item?id=38342913) - [Sam Altman not coming back as CEO of OpenAI](https://twitter.com/amir/status/1726465076843176224)
 * [2023-11-20, 05:22:12](https://news.ycombinator.com/item?id=38342670) - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
