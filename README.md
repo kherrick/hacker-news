@@ -11,7 +11,6 @@
 * [2023-11-19, 21:07:33](https://news.ycombinator.com/item?id=38338033) - [Why I tend not to use content negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 21:04:41](https://news.ycombinator.com/item?id=38337989) - [The Myth of RAM (2014)](https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html)
 * [2023-11-19, 20:50:36](https://news.ycombinator.com/item?id=38337784) - [Ninth Dedekind number found by two independent groups](https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/)
-* [2023-11-19, 20:35:09](https://news.ycombinator.com/item?id=38337568) - [OpenAI negotiations to reinstate Altman hit snag over board role](https://www.bloomberg.com/news/articles/2023-11-19/openai-negotiations-to-reinstate-altman-hit-snag-over-board-role)
 * [2023-11-19, 19:44:13](https://news.ycombinator.com/item?id=38337001) - [The Cassette-Tape Revolution](https://www.newyorker.com/culture/cultural-comment/the-cassette-tape-revolution)
 * [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Awesome Engineering Games](https://github.com/arcataroger/awesome-engineering-games)
 * [2023-11-19, 18:36:02](https://news.ycombinator.com/item?id=38336048) - [Defence against scientific fraud: a proposal for a new MSc course](http://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html)
@@ -30,6 +29,7 @@
 * [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg: A User Interface for Relational Data](https://www.ultorg.com)
 * [2023-11-17, 08:06:55](https://news.ycombinator.com/item?id=38300827) - [Inversion Art is trying to become the YC of the arts world](https://techcrunch.com/2023/11/12/inversion-art/)
+* [2023-11-17, 05:06:48](https://news.ycombinator.com/item?id=38299813) - [The Naturalist and the Jay](https://hakaimagazine.com/features/the-naturalist-and-the-wonderful-loveable-so-good-very-bold-jay/)
 
 ## [Archives](archives/index.md)
 
