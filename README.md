@@ -2,7 +2,7 @@
 
 * [2023-11-20, 13:16:22](https://news.ycombinator.com/item?id=38347501) - [I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028)
 * [2023-11-20, 13:05:47](https://news.ycombinator.com/item?id=38347402) - [Meta’s approach of ‘pay for your privacy’ is wrong](https://tuta.com/blog/meta-pay-for-privacy-illegal)
-* [2023-11-20, 12:40:15](https://news.ycombinator.com/item?id=38347131) - [Key OpenAI employees posting \"OpenAI is nothing without its people.\"](https://twitter.com/tomwarren/status/1726546605502046630)
+* [2023-11-20, 12:19:56](https://news.ycombinator.com/item?id=38346943) - [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
 * [2023-11-20, 12:10:25](https://news.ycombinator.com/item?id=38346869) - [OpenAI's Misalignment and Microsoft's Gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
 * [2023-11-20, 11:35:42](https://news.ycombinator.com/item?id=38346555) - [How can you define a 'drug'? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
@@ -24,7 +24,7 @@
 * [2023-11-19, 19:37:44](https://news.ycombinator.com/item?id=38336912) - [A space station fell to Earth. An Australian boy brought it to San Francisco](https://www.sfgate.com/sfhistory/article/the-skylab-race-to-san-francisco-18074888.php)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 17:13:36](https://news.ycombinator.com/item?id=38334784) - [CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot](https://github.com/AndreaFavero71/CUBOTino_base_version)
-* [2023-11-19, 12:21:55](https://news.ycombinator.com/item?id=38332000) - [Hilbert's 6TH Problem [pdf]](https://www.leocorry.com/_files/ugd/e6fef7_4586674091a145e4a154f2395f76a7aa.pdf)
+* [2023-11-19, 12:21:55](https://news.ycombinator.com/item?id=38332000) - [Hilbert's 6th problem [pdf]](https://www.leocorry.com/_files/ugd/e6fef7_4586674091a145e4a154f2395f76a7aa.pdf)
 * [2023-11-19, 00:29:07](https://news.ycombinator.com/item?id=38326758) - [Scotland's Oldest Tartan Rose](https://www.atlasobscura.com/articles/oldest-tartan-plaid-in-scotland)
 * [2023-11-18, 23:50:15](https://news.ycombinator.com/item?id=38326279) - [Remembering the Crystal Radio (2020)](https://www.nutsvolts.com/magazine/article/remembering-the-crystal-radio)
 * [2023-11-18, 22:51:38](https://news.ycombinator.com/item?id=38325551) - [A.S. Byatt has died](https://www.nytimes.com/2023/11/17/books/as-byatt-dead.html)
