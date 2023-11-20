@@ -2,7 +2,6 @@
 
 * [2023-11-20, 19:11:21](https://news.ycombinator.com/item?id=38352891) - [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft)
 * [2023-11-20, 19:06:08](https://news.ycombinator.com/item?id=38352794) - [Google quietly open sourced a 1.6T parameter MOE model](https://old.reddit.com/r/LocalLLaMA/comments/17zo2ml/google_quietly_open_sourced_a_16_trillion/)
-* [2023-11-20, 18:55:34](https://news.ycombinator.com/item?id=38352634) - [Tuning the Linux kernel with AI, according to ByteDance](https://www.zdnet.com/article/tuning-the-linux-kernel-with-ai-according-to-bytedance/)
 * [2023-11-20, 18:21:45](https://news.ycombinator.com/item?id=38352028) - [OpenAI: Facts from a Weekend](https://thezvi.wordpress.com/2023/11/20/openai-facts-from-a-weekend/)
 * [2023-11-20, 17:52:30](https://news.ycombinator.com/item?id=38351497) - [US Seeks More Than $4B from Binance to End Criminal Case](https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case)
 * [2023-11-20, 17:44:51](https://news.ycombinator.com/item?id=38351370) - [Ask HN: What's the state of the art for drawing math diagrams online?](https://news.ycombinator.com/item?id=38351370)
@@ -11,6 +10,7 @@
 * [2023-11-20, 17:12:17](https://news.ycombinator.com/item?id=38350746) - [Who Controls OpenAI?](https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai)
 * [2023-11-20, 16:47:08](https://news.ycombinator.com/item?id=38350341) - [Airlines will make record $118B in extra fees with website dark patterns](https://www.fastcompany.com/90981005/airlines-fees-118-billion-dark-patterns)
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
+* [2023-11-20, 14:42:01](https://news.ycombinator.com/item?id=38348968) - [Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
 * [2023-11-20, 13:41:27](https://news.ycombinator.com/item?id=38347868) - [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
 * [2023-11-20, 13:20:34](https://news.ycombinator.com/item?id=38347555) - [Animals Whose Blood Isn't Red](https://animals.howstuffworks.com/animal-facts/5-animals-whose-blood-isnt-red.htm)
 * [2023-11-20, 12:10:25](https://news.ycombinator.com/item?id=38346869) - [OpenAI's misalignment and Microsoft's gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
