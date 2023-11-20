@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC Charges Kraken for Operating as an Unregistered Securities Exchange](https://www.sec.gov/news/press-release/2023-237)
+* [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC charges Kraken for operating as an unregistered securities exchange](https://www.sec.gov/news/press-release/2023-237)
 * [2023-11-20, 22:39:19](https://news.ycombinator.com/item?id=38355934) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
 * [2023-11-20, 22:23:53](https://news.ycombinator.com/item?id=38355762) - [Changing User-Agent to Google Chrome drastically improves YouTube load times](https://twitter.com/uwukko/status/1726625892620009501)
 * [2023-11-20, 21:58:36](https://news.ycombinator.com/item?id=38355503) - [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
