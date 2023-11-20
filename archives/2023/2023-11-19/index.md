@@ -67,6 +67,7 @@
 * [2023-11-19, 13:16:03](https://news.ycombinator.com/item?id=38332364) - [Revenge Bedtime Procrastination](https://solvingprocrastination.com/revenge-bedtime-procrastination/)
 * [2023-11-19, 12:41:37](https://news.ycombinator.com/item?id=38332137) - [The architecture of today's LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
+* [2023-11-19, 12:21:55](https://news.ycombinator.com/item?id=38332000) - [Hilbert's 6TH Problem [pdf]](https://www.leocorry.com/_files/ugd/e6fef7_4586674091a145e4a154f2395f76a7aa.pdf)
 * [2023-11-19, 12:01:03](https://news.ycombinator.com/item?id=38331836) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-11-19, 11:48:18](https://news.ycombinator.com/item?id=38331751) - [Kyutai AI research lab with a $330M budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
 * [2023-11-19, 11:47:55](https://news.ycombinator.com/item?id=38331750) - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)

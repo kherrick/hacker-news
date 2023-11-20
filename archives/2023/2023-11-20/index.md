@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 13:16:22](https://news.ycombinator.com/item?id=38347501) - [Ilya Sutskever: I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028)
+* [2023-11-20, 13:05:47](https://news.ycombinator.com/item?id=38347402) - [Meta’s approach of ‘pay for your privacy’ is wrong](https://tuta.com/blog/meta-pay-for-privacy-illegal)
 * [2023-11-20, 12:19:56](https://news.ycombinator.com/item?id=38346943) - [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
 * [2023-11-20, 12:10:25](https://news.ycombinator.com/item?id=38346869) - [OpenAI's Misalignment and Microsoft's Gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
 * [2023-11-20, 11:35:42](https://news.ycombinator.com/item?id=38346555) - [How can you define a 'drug'? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
 * [2023-11-20, 10:53:45](https://news.ycombinator.com/item?id=38346157) - [Dear Mira and Ilya – congratulations on your coup at OpenAI](https://twitter.com/varun_mathur/status/1725971418238849154)
 * [2023-11-20, 10:41:11](https://news.ycombinator.com/item?id=38346058) - [Mira Murati: OpenAI is nothing without its people](https://twitter.com/miramurati/status/1726542556203483392)
+* [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
 * [2023-11-20, 09:19:31](https://news.ycombinator.com/item?id=38345273) - [Greg Tweeted:We are going to build something new and it will be incredible](https://twitter.com/gdb/status/1726530200484372688)
 * [2023-11-20, 09:07:27](https://news.ycombinator.com/item?id=38345162) - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
