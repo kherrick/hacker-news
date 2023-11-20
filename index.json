@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-20, 08:27:23",
+      "https://news.ycombinator.com/item?id=38344644"
+    ],
+    [
+      "Sam Altman is the CEO of a new AI group under Microsoft",
+      "https://twitter.com/satyanadella/status/1726516824597258569"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 08:15:08",
       "https://news.ycombinator.com/item?id=38344477"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2023-11-20, 05:22:12",
+      "https://news.ycombinator.com/item?id=38342670"
+    ],
+    [
+      "Krita AI Diffusion",
+      "https://github.com/Acly/krita-ai-diffusion"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 05:19:57",
       "https://news.ycombinator.com/item?id=38342643"
     ],
@@ -67,16 +87,6 @@
     [
       "Trap and test AWS SES emails locally",
       "https://github.com/kamranahmedse/local-ses"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 00:32:07",
-      "https://news.ycombinator.com/item?id=38340431"
-    ],
-    [
-      "Cosmopolitan v3.1",
-      "https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot",
       "https://github.com/AndreaFavero71/CUBOTino_base_version"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 14:49:32",
-      "https://news.ycombinator.com/item?id=38333116"
-    ],
-    [
-      "datetime.utcnow() is now deprecated",
-      "https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated"
     ]
   ],
   [
