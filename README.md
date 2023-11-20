@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 20:13:17](https://news.ycombinator.com/item?id=38353937) - [YouTube is reportedly slowing down videos for Firefox users](https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/)
 * [2023-11-20, 20:05:26](https://news.ycombinator.com/item?id=38353784) - [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
@@ -12,7 +13,6 @@
 * [2023-11-20, 17:44:21](https://news.ycombinator.com/item?id=38351356) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-11-20, 17:34:50](https://news.ycombinator.com/item?id=38351195) - [15-150: Principles of Functional Programming](https://brandonspark.github.io/150/)
 * [2023-11-20, 17:34:39](https://news.ycombinator.com/item?id=38351194) - [NVK reaches Vulkan 1.0 conformance](https://www.collabora.com/news-and-blog/news-and-events/nvk-reaches-vulkan-conformance.html)
-* [2023-11-20, 17:12:17](https://news.ycombinator.com/item?id=38350746) - [Who Controls OpenAI?](https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai)
 * [2023-11-20, 16:47:08](https://news.ycombinator.com/item?id=38350341) - [Airlines will make record $118B in extra fees with website dark patterns](https://www.fastcompany.com/90981005/airlines-fees-118-billion-dark-patterns)
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
 * [2023-11-20, 14:25:00](https://news.ycombinator.com/item?id=38348671) - [Google releases Switch Transformers C – 2048 experts (1.6T params for 3.1 TB)](https://huggingface.co/google/switch-c-2048)
