@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 17:27:03](https://news.ycombinator.com/item?id=38351048) - [Apple Plans to Equip MacBooks with In-House Cellular Modems](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/)
 * [2023-11-20, 16:55:15](https://news.ycombinator.com/item?id=38350435) - [GM's big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A Fast, Robust Job Queue for Go and Postgres](https://brandur.org/river)
 * [2023-11-20, 15:49:02](https://news.ycombinator.com/item?id=38349653) - [OpenAI's chaos does not add up](https://builtnotfound.proseful.com/openais-chaos-does-not-add-up)

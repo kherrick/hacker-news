@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 17:27:03](https://news.ycombinator.com/item?id=38351048) - [Apple Plans to Equip MacBooks with In-House Cellular Modems](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/)
 * [2023-11-20, 16:55:15](https://news.ycombinator.com/item?id=38350435) - [GM's big bet on driverless cars turns sour](https://www.theverge.com/2023/11/20/23969039/gm-cruise-kyle-vogt-ceo-resign-driverless-bet)
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
 * [2023-11-20, 15:13:22](https://news.ycombinator.com/item?id=38349334) - [\"Et Tu, Ilya?\"](https://techarena.substack.com/p/et-tu-ilya)
 * [2023-11-20, 14:52:21](https://news.ycombinator.com/item?id=38349101) - [We've been fighting poverty all wrong](https://www.vox.com/future-perfect/23965898/child-poverty-expanded-child-tax-credit-economy-welfare-phase-ins)
 * [2023-11-20, 14:42:01](https://news.ycombinator.com/item?id=38348968) - [Microsoft Swallows OpenAI's Core Team – GPU Capacity, Incentives, IP](https://www.semianalysis.com/p/microsoft-swallows-openais-core-team)
 * [2023-11-20, 14:18:51](https://news.ycombinator.com/item?id=38348556) - [Canada Inches Closer to 'Right to Repair' Reform](https://www.techdirt.com/2023/11/20/canada-inches-closer-to-right-to-repair-reform/)
-* [2023-11-20, 13:51:59](https://news.ycombinator.com/item?id=38348036) - [Argentina's New President Wants to Adopt the Dollar as the National Currency](https://www.wsj.com/world/americas/argentinas-new-president-wants-to-adopt-the-u-s-dollar-as-national-currency-86da3444)
 * [2023-11-20, 13:41:27](https://news.ycombinator.com/item?id=38347868) - [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
 * [2023-11-20, 13:16:22](https://news.ycombinator.com/item?id=38347501) - [I deeply regret my participation in the board's actions](https://twitter.com/ilyasut/status/1726590052392956028)
 * [2023-11-20, 12:10:25](https://news.ycombinator.com/item?id=38346869) - [OpenAI's misalignment and Microsoft's gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
