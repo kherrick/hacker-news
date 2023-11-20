@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 04:30:28](https://news.ycombinator.com/item?id=38342266) - [OpenAI's Murati Aims to Re-Hire Altman, Brockman After Exits](https://www.bloomberg.com/news/articles/2023-11-20/openai-s-murati-aims-to-re-hire-altman-brockman-after-exits)
 * [2023-11-20, 03:45:07](https://news.ycombinator.com/item?id=38342026) - [Australian Telco Optus CEO Kelly Bayer Rosmarin resigns after network outage](https://www.theguardian.com/business/2023/nov/20/optus-ceo-kelly-bayer-rosmarin-resigns-network-outage-australia)
 * [2023-11-20, 02:36:33](https://news.ycombinator.com/item?id=38341524) - [Today I resigned from my position as CEO of Cruise](https://twitter.com/kvogt/status/1726428099217400178)
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
