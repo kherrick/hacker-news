@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 12:19:56](https://news.ycombinator.com/item?id=38346943) - [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
+* [2023-11-20, 11:35:42](https://news.ycombinator.com/item?id=38346555) - [How can you define a 'drug'? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
 * [2023-11-20, 10:53:45](https://news.ycombinator.com/item?id=38346157) - [Dear Mira and Ilya – congratulations on your coup at OpenAI](https://twitter.com/varun_mathur/status/1725971418238849154)
 * [2023-11-20, 10:41:11](https://news.ycombinator.com/item?id=38346058) - [Mira Murati: OpenAI is nothing without its people](https://twitter.com/miramurati/status/1726542556203483392)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
