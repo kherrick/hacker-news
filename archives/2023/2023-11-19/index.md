@@ -29,6 +29,7 @@
 * [2023-11-19, 20:20:09](https://news.ycombinator.com/item?id=38337395) - [Rosalynn Carter … Dies at 96](https://www.nbcnews.com/news/obituaries/rosalynn-carter-former-first-lady-dies-rcna62862)
 * [2023-11-19, 20:10:43](https://news.ycombinator.com/item?id=38337292) - [Why doesn't Windows have an \"expert mode\"? (2003)](https://devblogs.microsoft.com/oldnewthing/20030728-00/?p=43043)
 * [2023-11-19, 19:44:13](https://news.ycombinator.com/item?id=38337001) - [The Cassette-Tape Revolution](https://www.newyorker.com/culture/cultural-comment/the-cassette-tape-revolution)
+* [2023-11-19, 19:37:44](https://news.ycombinator.com/item?id=38336912) - [A space station fell to Earth. An Australian boy brought it to San Francisco](https://www.sfgate.com/sfhistory/article/the-skylab-race-to-san-francisco-18074888.php)
 * [2023-11-19, 19:26:35](https://news.ycombinator.com/item?id=38336736) - [Non-profit Matrix.org Foundation seems to be moving funds to for-profit Element](https://github.com/matrix-org/matrix-spec/issues/571)
 * [2023-11-19, 19:22:22](https://news.ycombinator.com/item?id=38336688) - [Show HN: \"Awesome\" Engineering Games (List)](https://github.com/arcataroger/awesome-engineering-games)
 * [2023-11-19, 19:02:18](https://news.ycombinator.com/item?id=38336432) - [Dorothy Bishop on the prevalence of scientific fraud](https://statmodeling.stat.columbia.edu/2023/11/19/dorothy-bishop-on-the-prevalence-of-scientific-fraud/)
