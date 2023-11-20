@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 18:21:45](https://news.ycombinator.com/item?id=38352028) - [OpenAI: Facts from a Weekend – A Timeline of Events](https://thezvi.wordpress.com/2023/11/20/openai-facts-from-a-weekend/)
+* [2023-11-20, 18:20:01](https://news.ycombinator.com/item?id=38352004) - [YouTube has started to artificially slow down video load times for Firefox](https://twitter.com/endermanch/status/1726602144097395150)
+* [2023-11-20, 17:44:51](https://news.ycombinator.com/item?id=38351370) - [Ask HN: What's the state of the art for drawing math diagrams online?](https://news.ycombinator.com/item?id=38351370)
 * [2023-11-20, 17:44:21](https://news.ycombinator.com/item?id=38351356) - [Freshpaint (YC S19) Is Hiring Software Engineers to Protect Patient Privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-11-20, 17:27:03](https://news.ycombinator.com/item?id=38351048) - [Apple Plans to Equip MacBooks with In-House Cellular Modems](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/)
 * [2023-11-20, 17:12:17](https://news.ycombinator.com/item?id=38350746) - [Who Controls OpenAI?](https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai)
