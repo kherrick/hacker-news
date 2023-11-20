@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 08:27:23](https://news.ycombinator.com/item?id=38344644) - [Sam Altman is the CEO of a new AI group under Microsoft](https://twitter.com/satyanadella/status/1726516824597258569)
 * [2023-11-20, 08:15:08](https://news.ycombinator.com/item?id=38344477) - [Microsoft just hired Sam and Greg to lead a new advanced AI research team](https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit)
 * [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
 * [2023-11-20, 07:56:13](https://news.ycombinator.com/item?id=38344196) - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 * [2023-11-20, 06:10:46](https://news.ycombinator.com/item?id=38343203) - [TIL you could make xkcd-like plots with matplotlib](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
 * [2023-11-20, 05:43:07](https://news.ycombinator.com/item?id=38342913) - [Sam Altman not coming back as CEO of OpenAI](https://twitter.com/amir/status/1726465076843176224)
+* [2023-11-20, 05:22:12](https://news.ycombinator.com/item?id=38342670) - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
 * [2023-11-20, 05:19:57](https://news.ycombinator.com/item?id=38342643) - [The deal to bring Sam Altman back to OpenAI has fallen apart](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
 * [2023-11-20, 05:19:56](https://news.ycombinator.com/item?id=38342642) - [Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-20, 05:11:38](https://news.ycombinator.com/item?id=38342554) - [Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down](https://www.theinformation.com/articles/breaking-sam-altman-will-not-return-as-ceo-of-openai)
