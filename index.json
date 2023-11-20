@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-11-20, 11:35:42",
-      "https://news.ycombinator.com/item?id=38346555"
-    ],
-    [
-      "How can you define a 'drug'? Nobody knows",
-      "https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 10:16:14",
       "https://news.ycombinator.com/item?id=38345858"
     ],
@@ -187,6 +177,16 @@
     [
       "Setenv Is Not Thread Safe and C Doesn't Want to Fix It",
       "https://www.evanjones.ca/setenv-is-not-thread-safe.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 02:59:00",
+      "https://news.ycombinator.com/item?id=38341708"
+    ],
+    [
+      "RustGPT: ChatGPT UI Built with Rust, Htmx, SQLite",
+      "https://github.com/bitswired/rustgpt"
     ]
   ],
   [
