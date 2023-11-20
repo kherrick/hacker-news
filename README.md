@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 09:19:31](https://news.ycombinator.com/item?id=38345273) - [Greg Tweeted:We are going to build something new and it will be incredible](https://twitter.com/gdb/status/1726530200484372688)
 * [2023-11-20, 09:07:27](https://news.ycombinator.com/item?id=38345162) - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
 * [2023-11-20, 09:02:31](https://news.ycombinator.com/item?id=38345115) - [Microsoft: We remain committed to our partnership with OpenAI](https://twitter.com/satyanadella/status/1726509045803336122?s=41)
+* [2023-11-20, 08:56:58](https://news.ycombinator.com/item?id=38345053) - [Z80 vs. 8088 Speed](https://groups.google.com/g/comp.os.cpm/c/OG4tTERPtto/m/yC5iUh79CQAJ)
 * [2023-11-20, 08:54:16](https://news.ycombinator.com/item?id=38345017) - [The Bluffers Guide to the Mythical Man Month](https://codemanship.wordpress.com/2023/11/20/the-bluffers-guide-to-the-mythical-man-month/)
 * [2023-11-20, 08:50:53](https://news.ycombinator.com/item?id=38344973) - [The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
 * [2023-11-20, 07:56:13](https://news.ycombinator.com/item?id=38344196) - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 * [2023-11-20, 05:22:12](https://news.ycombinator.com/item?id=38342670) - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
-* [2023-11-20, 05:19:57](https://news.ycombinator.com/item?id=38342643) - [Emmett Shear becomes interim OpenAI CEO as Altman talks break down](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
 * [2023-11-20, 05:19:56](https://news.ycombinator.com/item?id=38342642) - [Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-20, 01:38:46](https://news.ycombinator.com/item?id=38341035) - [Trap and test AWS SES emails locally](https://github.com/kamranahmedse/local-ses)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
@@ -28,7 +29,6 @@
 * [2023-11-18, 22:51:38](https://news.ycombinator.com/item?id=38325551) - [A.S. Byatt has died](https://www.nytimes.com/2023/11/17/books/as-byatt-dead.html)
 * [2023-11-18, 11:14:57](https://news.ycombinator.com/item?id=38318132) - [Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
 * [2023-11-18, 10:18:49](https://news.ycombinator.com/item?id=38317722) - [Programming on Parallel Machines; GPU, Multicore, Clusters and More](https://heather.cs.ucdavis.edu/parprocbook)
-* [2023-11-18, 05:12:35](https://news.ycombinator.com/item?id=38315575) - [Optimism vs. Pessimism in Distributed Systems](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-11-17, 08:51:53](https://news.ycombinator.com/item?id=38301087) - [Ultorg: A User Interface for Relational Data](https://www.ultorg.com)
 
 ## [Archives](archives/index.md)
