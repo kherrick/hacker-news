@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-20, 09:19:31",
-      "https://news.ycombinator.com/item?id=38345273"
-    ],
-    [
-      "Greg Tweeted:We are going to build something new and it will be incredible",
-      "https://twitter.com/gdb/status/1726530200484372688"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 09:07:27",
       "https://news.ycombinator.com/item?id=38345162"
     ],
@@ -227,6 +217,16 @@
     [
       "CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot",
       "https://github.com/AndreaFavero71/CUBOTino_base_version"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 14:49:32",
+      "https://news.ycombinator.com/item?id=38333116"
+    ],
+    [
+      "datetime.utcnow() is now deprecated",
+      "https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated"
     ]
   ],
   [
