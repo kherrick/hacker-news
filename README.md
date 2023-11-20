@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 05:19:57](https://news.ycombinator.com/item?id=38342643) - [The deal to bring Sam Altman back to OpenAI has fallen apart](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)
 * [2023-11-20, 05:11:38](https://news.ycombinator.com/item?id=38342554) - [Emmett Shear Becomes Interim OpenAI CEO as Altman Talks Break Down](https://www.theinformation.com/articles/breaking-sam-altman-will-not-return-as-ceo-of-openai)
-* [2023-11-20, 04:46:30](https://news.ycombinator.com/item?id=38342361) - [Crypto Crashed and Everyone's in Jail. Investors Think It's Coming Back Anyway](https://www.vice.com/en/article/7kxmpg/crypto-crashed-and-everyones-in-jail-investors-think-its-coming-back-anyway)
+* [2023-11-20, 03:47:51](https://news.ycombinator.com/item?id=38342039) - [New college grads are more likely to be unemployed in today's job market](https://www.washingtonpost.com/business/2023/11/19/college-grads-unemployed-jobs/)
 * [2023-11-20, 02:30:15](https://news.ycombinator.com/item?id=38341466) - [Kyle Vogt resigns from Cruise](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 * [2023-11-20, 00:32:07](https://news.ycombinator.com/item?id=38340431) - [Cosmopolitan v3.1](https://twitter.com/justinetunney/status/1726141024597324189?s=46&t=K1nIh-2Y7JjaoOc9Y6bUzA)
 * [2023-11-20, 00:13:24](https://news.ycombinator.com/item?id=38340226) - [Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends)
@@ -20,7 +21,6 @@
 * [2023-11-19, 17:02:09](https://news.ycombinator.com/item?id=38334647) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38334647)
 * [2023-11-19, 15:56:41](https://news.ycombinator.com/item?id=38333790) - [U.S. agency declares 21 species now extinct](https://www.pbsnc.org/blogs/science/us-agency-declares-21-species-now-extinct/)
 * [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
-* [2023-11-19, 14:13:01](https://news.ycombinator.com/item?id=38332788) - [Should I replace my 56k modem with a 28.8K Modem? (2001)](https://forums.anandtech.com/threads/should-i-replace-my-56k-modem-with-a-28-8k-modem.437516/)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 00:27:04](https://news.ycombinator.com/item?id=38326746) - [Modernity in the Rainforest: Man and his Desire (1917)](https://publicdomainreview.org/collection/man-and-his-desire/)
 * [2023-11-18, 23:50:15](https://news.ycombinator.com/item?id=38326279) - [Remembering the Crystal Radio (2020)](https://www.nutsvolts.com/magazine/article/remembering-the-crystal-radio)
