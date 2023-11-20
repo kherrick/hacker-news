@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 10:41:11](https://news.ycombinator.com/item?id=38346058) - [Mira Murati: OpenAI is nothing without its people](https://twitter.com/miramurati/status/1726542556203483392)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
 * [2023-11-20, 09:19:31](https://news.ycombinator.com/item?id=38345273) - [Greg Tweeted:We are going to build something new and it will be incredible](https://twitter.com/gdb/status/1726530200484372688)
 * [2023-11-20, 09:07:27](https://news.ycombinator.com/item?id=38345162) - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)

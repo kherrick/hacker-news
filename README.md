@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-20, 10:41:11](https://news.ycombinator.com/item?id=38346058) - [Mira Murati: OpenAI is nothing without its people](https://twitter.com/miramurati/status/1726542556203483392)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube artificially slows down video load times when using Firefox](https://old.reddit.com/r/youtube/login/)
 * [2023-11-20, 09:07:27](https://news.ycombinator.com/item?id=38345162) - [Emmet Shear statement as Interim CEO of OpenAI](https://twitter.com/eshear/status/1726526112019382275?s=46&t=a8Pjw_2Gzth_zpOPBTHQaw)
 * [2023-11-20, 09:02:31](https://news.ycombinator.com/item?id=38345115) - [Microsoft: We remain committed to our partnership with OpenAI](https://twitter.com/satyanadella/status/1726509045803336122?s=41)
@@ -22,7 +23,6 @@
 * [2023-11-19, 19:37:44](https://news.ycombinator.com/item?id=38336912) - [A space station fell to Earth. An Australian boy brought it to San Francisco](https://www.sfgate.com/sfhistory/article/the-skylab-race-to-san-francisco-18074888.php)
 * [2023-11-19, 17:40:33](https://news.ycombinator.com/item?id=38335255) - [StyleTTS2 – open-source Eleven-Labs-quality Text To Speech](https://github.com/yl4579/StyleTTS2)
 * [2023-11-19, 17:13:36](https://news.ycombinator.com/item?id=38334784) - [CUBOTino: A small, simple, 3D printed, inexpensive Rubik's Cube solver robot](https://github.com/AndreaFavero71/CUBOTino_base_version)
-* [2023-11-19, 14:49:32](https://news.ycombinator.com/item?id=38333116) - [datetime.utcnow() is now deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-19, 12:24:42](https://news.ycombinator.com/item?id=38332014) - [The position of a watch influences accuracy (2020)](https://watchesbysjx.com/2020/02/positional-error-and-accuracy.html)
 * [2023-11-19, 00:29:07](https://news.ycombinator.com/item?id=38326758) - [Scotland's Oldest Tartan Rose](https://www.atlasobscura.com/articles/oldest-tartan-plaid-in-scotland)
 * [2023-11-18, 23:50:15](https://news.ycombinator.com/item?id=38326279) - [Remembering the Crystal Radio (2020)](https://www.nutsvolts.com/magazine/article/remembering-the-crystal-radio)
