@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 02:52:59](https://news.ycombinator.com/item?id=38358413) - [Microsoft was not a winner of the events of the last few days around OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
 * [2023-11-21, 02:28:37](https://news.ycombinator.com/item?id=38358191) - [Homeowners Refuse to Accept the Awkward Truth: They're Rich](https://thewalrus.ca/homeowners-refuse-to-accept-the-awkward-truth-theyre-rich/)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many Jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:42:51](https://news.ycombinator.com/item?id=38357719) - [OpenAI's board approached Anthropic about a potential merger](https://twitter.com/steph_palazzolo/status/1726775263051038849)
@@ -11,6 +12,7 @@
 * [2023-11-21, 01:32:38](https://news.ycombinator.com/item?id=38357629) - [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
 * [2023-11-21, 01:30:27](https://news.ycombinator.com/item?id=38357608) - [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)
 * [2023-11-21, 01:29:49](https://news.ycombinator.com/item?id=38357602) - [Google AI and Former OpenAI researcher: Sam Altman lied and was manipulative](https://twitter.com/geoffreyirving/status/1726754277618491416)
+* [2023-11-21, 01:20:48](https://news.ycombinator.com/item?id=38357513) - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 * [2023-11-21, 01:07:06](https://news.ycombinator.com/item?id=38357389) - [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
 * [2023-11-21, 00:47:00](https://news.ycombinator.com/item?id=38357206) - [X Corp. vs. Media Matters for America et al.](https://www.plainsite.org/dockets/52oouzfga/texas-northern-district-court/x-corp-v-media-matters-for-america-et-al/)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
