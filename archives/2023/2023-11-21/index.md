@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 13:29:12](https://news.ycombinator.com/item?id=38363333) - [Inside Ohio State’s DEI Factory](https://www.wsj.com/articles/inside-ohio-states-dei-factory-faculty-report-diversity-hiring-cefd804d)
+* [2023-11-21, 13:03:56](https://news.ycombinator.com/item?id=38363114) - [YouTube blames ad blockers for slow load times, not the browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
 * [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 * [2023-11-21, 12:28:27](https://news.ycombinator.com/item?id=38362719) - [Meta disbands Responsible AI team](https://www.computing.co.uk/news/4148616/meta-disbands-responsible-ai-team)
 * [2023-11-21, 12:20:20](https://news.ycombinator.com/item?id=38362652) - [OpenAI's board approached Anthropic CEO about top job and merger](https://www.reuters.com/technology/openais-board-approached-anthropic-ceo-about-top-job-merger-sources-2023-11-21/)
