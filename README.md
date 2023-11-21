@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 23:44:49](https://news.ycombinator.com/item?id=38372295) - [Is it legal to mix cash in a jar?](http://jpkoning.blogspot.com/2023/11/is-it-legal-to-mix-cash-in-jar.html)
 * [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the Gut's 'Second Brain,' Key Agents of Health Emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 22:19:32](https://news.ycombinator.com/item?id=38371213) - [OpenAI API and ChatGTP Outage](https://status.openai.com/incidents/n254wyd7nml7)
@@ -13,7 +14,6 @@
 * [2023-11-21, 19:20:29](https://news.ycombinator.com/item?id=38368570) - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
 * [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 * [2023-11-21, 18:54:53](https://news.ycombinator.com/item?id=38368272) - [An attempted taxonomy of web components](https://www.zachleat.com/web/a-taxonomy-of-web-component-types/)
-* [2023-11-21, 18:41:31](https://news.ycombinator.com/item?id=38368073) - [Streamlining CI/CD Pipelines with Code](https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/)
 * [2023-11-21, 17:31:11](https://news.ycombinator.com/item?id=38366830) - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 * [2023-11-21, 17:20:43](https://news.ycombinator.com/item?id=38366729) - [Binance founder Changpeng Zhao agrees to step down, plead guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
 * [2023-11-21, 17:10:44](https://news.ycombinator.com/item?id=38366536) - [Code Search at Google: Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)

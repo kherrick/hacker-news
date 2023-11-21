@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 23:44:49](https://news.ycombinator.com/item?id=38372295) - [Is it legal to mix cash in a jar?](http://jpkoning.blogspot.com/2023/11/is-it-legal-to-mix-cash-in-jar.html)
 * [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the Gut's 'Second Brain,' Key Agents of Health Emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 22:19:32](https://news.ycombinator.com/item?id=38371213) - [OpenAI API and ChatGTP Outage](https://status.openai.com/incidents/n254wyd7nml7)
