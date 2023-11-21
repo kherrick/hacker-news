@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-11-21, 20:45:37",
-      "https://news.ycombinator.com/item?id=38369820"
-    ],
-    [
-      "Google Chrome will limit ad blockers starting June 2024",
-      "https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 20:16:01",
       "https://news.ycombinator.com/item?id=38369433"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2023-11-21, 07:41:16",
-      "https://news.ycombinator.com/item?id=38360582"
-    ],
-    [
-      ".NET Blazor",
-      "https://dusted.codes/dotnet-blazor"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 06:32:32",
       "https://news.ycombinator.com/item?id=38360128"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2023-11-20, 18:08:34",
+      "https://news.ycombinator.com/item?id=38351797"
+    ],
+    [
+      "Solving duplicate data with performant deduplication",
+      "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 12:15:15",
       "https://news.ycombinator.com/item?id=38346903"
     ],
     [
       "Knuth Airgaps and Knuth Buffers",
       "https://taylor.town/knuth-airgap"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 08:39:48",
+      "https://news.ycombinator.com/item?id=38344822"
+    ],
+    [
+      "Improving the efficiency of your regular expressions",
+      "https://abseil.io/fast/21"
     ]
   ],
   [
