@@ -25,9 +25,9 @@
 * [2023-11-21, 02:12:44](https://news.ycombinator.com/item?id=38358032) - [Getting Started with Mistral-7b-Instruct-v0.1](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
 * [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-21, 00:40:57](https://news.ycombinator.com/item?id=38357167) - [Scientists uncover aurora-like radio emission above a sunspot](https://phys.org/news/2023-11-scientists-uncover-aurora-like-radio-emission.html)
+* [2023-11-20, 20:04:17](https://news.ycombinator.com/item?id=38353763) - [The Low Down on the Greatest Dictionary Collection in the World](https://www.atlasobscura.com/articles/biggest-dictionary-collection)
 * [2023-11-20, 07:30:51](https://news.ycombinator.com/item?id=38343957) - [Architecture Patterns: The Circuit-Breaker](https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1)
 * [2023-11-20, 07:27:42](https://news.ycombinator.com/item?id=38343933) - [Interactive Common Lisp Development](https://www.n16f.net/blog/interactive-common-lisp-development/)
-* [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [2023-11-20, 06:30:45](https://news.ycombinator.com/item?id=38343398) - [A very subtle bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 
