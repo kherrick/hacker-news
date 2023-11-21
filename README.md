@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 07:12:37](https://news.ycombinator.com/item?id=38360403) - [Linda Yaccarino: no single authentic user saw this content alongside IBM's ads](https://twitter.com/lindayaX/status/1726747531843915965)
 * [2023-11-21, 06:58:09](https://news.ycombinator.com/item?id=38360304) - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
 * [2023-11-21, 05:03:09](https://news.ycombinator.com/item?id=38359523) - [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
 * [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
@@ -18,7 +19,6 @@
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
 * [2023-11-20, 18:47:18](https://news.ycombinator.com/item?id=38352484) - [After Boeing declines to pay up, ransomware group leaks 45 GB of data](https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data)
-* [2023-11-20, 17:44:51](https://news.ycombinator.com/item?id=38351370) - [Ask HN: What's the state of the art for drawing math diagrams online?](https://news.ycombinator.com/item?id=38351370)
 * [2023-11-20, 17:34:50](https://news.ycombinator.com/item?id=38351195) - [15-150: Principles of Functional Programming](https://brandonspark.github.io/150/)
 * [2023-11-20, 17:34:39](https://news.ycombinator.com/item?id=38351194) - [NVK reaches Vulkan 1.0 conformance](https://www.collabora.com/news-and-blog/news-and-events/nvk-reaches-vulkan-conformance.html)
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
