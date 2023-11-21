@@ -2,6 +2,7 @@
 
 * [2023-11-21, 07:12:37](https://news.ycombinator.com/item?id=38360403) - [Linda Yaccarino: no single authentic user saw this content alongside IBM's ads](https://twitter.com/lindayaX/status/1726747531843915965)
 * [2023-11-21, 06:58:09](https://news.ycombinator.com/item?id=38360304) - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
+* [2023-11-21, 06:29:45](https://news.ycombinator.com/item?id=38360111) - [How to Escape North Korea](https://unherd.com/2023/11/how-to-escape-north-korea/)
 * [2023-11-21, 05:03:09](https://news.ycombinator.com/item?id=38359523) - [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
 * [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 * [2023-11-21, 02:12:44](https://news.ycombinator.com/item?id=38358032) - [Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
@@ -9,7 +10,6 @@
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
 * [2023-11-20, 23:31:57](https://news.ycombinator.com/item?id=38356534) - [OpenAI's employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
 * [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC charges Kraken for operating as an unregistered securities exchange](https://www.sec.gov/news/press-release/2023-237)
-* [2023-11-20, 21:58:36](https://news.ycombinator.com/item?id=38355503) - [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
 * [2023-11-20, 21:58:33](https://news.ycombinator.com/item?id=38355502) - [Finley (YC W21) Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2023-11-20, 21:18:00](https://news.ycombinator.com/item?id=38354939) - [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
 * [2023-11-20, 21:16:35](https://news.ycombinator.com/item?id=38354918) - [FreeBSD 14.0-Release](https://www.freebsd.org/releases/14.0R/announce/)
