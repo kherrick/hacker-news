@@ -2,7 +2,7 @@
 
 * [2023-11-21, 22:16:43](https://news.ycombinator.com/item?id=38371169) - [ChatGPT Experiencing 'Elevated Errors'](https://status.openai.com)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
-* [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [OpenAI's CEO Shear left in the dark, planning to leave if evidence not provided](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
+* [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [Sam Altman, OpenAI Board Open Talks to Negotiate His Possible Return](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
 * [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT Voice for All Free Users Announced (By Greg Brockman)](https://twitter.com/gdb/status/1727067288740970877)
 * [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
@@ -26,7 +26,7 @@
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
-* [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
+* [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury in rats](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-20, 18:08:34](https://news.ycombinator.com/item?id=38351797) - [Solving duplicate data with performant deduplication](https://questdb.io/blog/solving-duplicate-data-performant-deduplication/)
 * [2023-11-20, 08:39:48](https://news.ycombinator.com/item?id=38344822) - [Improving the efficiency of your regular expressions](https://abseil.io/fast/21)
 * [2023-11-20, 07:58:08](https://news.ycombinator.com/item?id=38344213) - [Mansion Blocks Filled London with Stacks of Flats](https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings)
