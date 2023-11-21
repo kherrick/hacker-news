@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 03:33:14](https://news.ycombinator.com/item?id=38358761) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:20:48](https://news.ycombinator.com/item?id=38357513) - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
@@ -13,7 +14,6 @@
 * [2023-11-20, 21:07:55](https://news.ycombinator.com/item?id=38354788) - [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 * [2023-11-20, 21:02:11](https://news.ycombinator.com/item?id=38354700) - [Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
 * [2023-11-20, 20:44:03](https://news.ycombinator.com/item?id=38354422) - [Typst – Compose Papers Faster](https://typst.app/)
-* [2023-11-20, 20:33:16](https://news.ycombinator.com/item?id=38354254) - [A guide to open-source LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
 * [2023-11-20, 18:47:18](https://news.ycombinator.com/item?id=38352484) - [After Boeing declines to pay up, ransomware group leaks 45 GB of data](https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data)
