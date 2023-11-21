@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 08:13:42](https://news.ycombinator.com/item?id=38360827) - [Find Legal Moves in Brass Birmingham with Datalog](https://blog.pzakrzewski.com/find-legal-moves-in-brass-birmingham-with-logic-programming)
+* [2023-11-21, 08:06:23](https://news.ycombinator.com/item?id=38360776) - [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
 * [2023-11-21, 07:18:48](https://news.ycombinator.com/item?id=38360434) - [OpenAI board stands firm in face of staff revolt over Sam Altman's ouster](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e)
 * [2023-11-21, 07:12:37](https://news.ycombinator.com/item?id=38360403) - [Linda Yaccarino: no single authentic user saw this content alongside IBM's ads](https://twitter.com/lindayaX/status/1726747531843915965)
 * [2023-11-21, 06:58:09](https://news.ycombinator.com/item?id=38360304) - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
+* [2023-11-21, 06:35:48](https://news.ycombinator.com/item?id=38360148) - [When do \"brains beat brawn\" in Chess? An experiment](https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment)
 * [2023-11-21, 06:33:21](https://news.ycombinator.com/item?id=38360135) - [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
 * [2023-11-21, 06:29:45](https://news.ycombinator.com/item?id=38360111) - [How to Escape North Korea](https://unherd.com/2023/11/how-to-escape-north-korea/)
 * [2023-11-21, 06:10:49](https://news.ycombinator.com/item?id=38360005) - [OpenAI's Board Approached Anthropic CEO About Top Job and Merger](https://slashdot.org/story/23/11/21/0458214/openais-board-approached-anthropic-ceo-about-top-job-and-merger)
