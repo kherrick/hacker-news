@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-20, 23:41:31",
-      "https://news.ycombinator.com/item?id=38356631"
+      "2023-11-20, 23:58:14",
+      "https://news.ycombinator.com/item?id=38356791"
     ],
     [
-      "Nvidia introduces the H200 an AI-crunching monster GPU that may speed up ChatGPT",
-      "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/"
+      "Satya Nadella says OpenAI governance needs to change",
+      "https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 23:56:00",
+      "https://news.ycombinator.com/item?id=38356768"
+    ],
+    [
+      "Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight",
+      "https://twitter.com/britishlibrary/status/1726618361398722754"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "\"Object Success\" now available",
       "https://bertrandmeyer.com/2023/03/24/object-success-now-available/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 22:23:53",
-      "https://news.ycombinator.com/item?id=38355762"
-    ],
-    [
-      "Changing User-Agent to Google Chrome drastically improves YouTube load times",
-      "https://twitter.com/uwukko/status/1726625892620009501"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-11-20, 20:12:06",
-      "https://news.ycombinator.com/item?id=38353903"
-    ],
-    [
-      "Building a starter pack for an API-as-a-Service",
-      "https://www.resteasyapi.com/"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 19:47:49",
       "https://news.ycombinator.com/item?id=38353473"
     ],
@@ -147,16 +137,6 @@
     [
       "LLMs cannot find reasoning errors, but can correct them",
       "https://arxiv.org/abs/2311.08516"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 19:27:06",
-      "https://news.ycombinator.com/item?id=38353146"
-    ],
-    [
-      "Venmo, Cash App users sue Apple over peer-to-peer payment fees",
-      "https://www.reuters.com/legal/transactional/venmo-cash-app-users-sue-apple-over-peer-to-peer-payment-fees-2023-11-20/"
     ]
   ],
   [
@@ -251,22 +231,32 @@
   ],
   [
     [
-      "2023-11-20, 08:50:53",
-      "https://news.ycombinator.com/item?id=38344973"
-    ],
-    [
-      "The Death Star and the Final Trench Run (2017)",
-      "http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 06:43:05",
       "https://news.ycombinator.com/item?id=38343510"
     ],
     [
       "Divide and Concur: A Radical Plan for Peace in Europe (1920)",
       "https://publicdomainreview.org/collection/unionization-of-central-europe/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 06:40:27",
+      "https://news.ycombinator.com/item?id=38343484"
+    ],
+    [
+      "Kurt Vonnegut's House Is Not Haunted",
+      "https://www.theparisreview.org/blog/2023/11/15/kurt-vonneguts-house-is-not-haunted/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 02:23:28",
+      "https://news.ycombinator.com/item?id=38341399"
+    ],
+    [
+      "Inside The Chaos at OpenAI",
+      "https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The microtype package: Subliminal refinements towards typographical perfection [pdf]",
       "https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 10:03:47",
+      "https://news.ycombinator.com/item?id=38331097"
+    ],
+    [
+      "Xa: Open-source 6502 cross assembler",
+      "http://www.floodgap.com/retrotech/xa/"
     ]
   ]
 ]
