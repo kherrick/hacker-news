@@ -17,6 +17,7 @@
 * [2023-11-20, 21:18:00](https://news.ycombinator.com/item?id=38354939) - [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
 * [2023-11-20, 21:16:35](https://news.ycombinator.com/item?id=38354918) - [FreeBSD 14.0-Release Announcement](https://www.freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:07:55](https://news.ycombinator.com/item?id=38354788) - [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
+* [2023-11-20, 21:05:01](https://news.ycombinator.com/item?id=38354753) - [A secret deal let Spotify bypass Android's app store fees](https://www.theverge.com/2023/11/20/23969690/google-spotify-android-billing-commission-secret-deal)
 * [2023-11-20, 21:02:11](https://news.ycombinator.com/item?id=38354700) - [Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
 * [2023-11-20, 20:44:03](https://news.ycombinator.com/item?id=38354422) - [Typst – Compose Papers Faster](https://typst.app/)
 * [2023-11-20, 20:40:45](https://news.ycombinator.com/item?id=38354368) - [Salesforce will match comp of any OpenAI researcher who resigns](https://twitter.com/Benioff/status/1726695914105090498)
