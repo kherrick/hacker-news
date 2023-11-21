@@ -5,7 +5,6 @@
 * [2023-11-21, 10:10:25](https://news.ycombinator.com/item?id=38361699) - [Sam Altman Exposes the Charade of AI Accountability](https://www.bloomberg.com/opinion/articles/2023-11-20/openai-sam-altman-exposes-the-charade-of-ai-accountability)
 * [2023-11-21, 09:12:50](https://news.ycombinator.com/item?id=38361259) - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
 * [2023-11-21, 09:08:01](https://news.ycombinator.com/item?id=38361218) - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
-* [2023-11-21, 08:56:26](https://news.ycombinator.com/item?id=38361135) - [My keyboard wasn't mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 08:48:46](https://news.ycombinator.com/item?id=38361082) - [Kubernetes-Native Retro Game Streaming Written in Go](https://github.com/pod-arcade/pod-arcade)
 * [2023-11-21, 08:44:36](https://news.ycombinator.com/item?id=38361053) - [Finally, a guide for Node.js and TypeScript and ESM that works](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
@@ -28,6 +27,7 @@
 * [2023-11-20, 07:27:42](https://news.ycombinator.com/item?id=38343933) - [Interactive Common Lisp Development](https://www.n16f.net/blog/interactive-common-lisp-development/)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [2023-11-20, 06:30:45](https://news.ycombinator.com/item?id=38343398) - [A Subtle Bug](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
+* [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
 * [2023-11-19, 09:33:47](https://news.ycombinator.com/item?id=38330877) - [How to Shuffle Songs? (2014)](https://engineering.atspotify.com/2014/02/how-to-shuffle-songs/)
 * [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 
