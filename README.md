@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the Gut's 'Second Brain,' Key Agents of Health Emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 22:19:32](https://news.ycombinator.com/item?id=38371213) - [OpenAI API and ChatGTP Outage](https://status.openai.com/incidents/n254wyd7nml7)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
@@ -28,7 +29,6 @@
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-20, 18:08:34](https://news.ycombinator.com/item?id=38351797) - [Solving duplicate data with performant deduplication](https://questdb.io/blog/solving-duplicate-data-performant-deduplication/)
-* [2023-11-20, 07:58:08](https://news.ycombinator.com/item?id=38344213) - [Mansion Blocks Filled London with Stacks of Flats](https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings)
 * [2023-11-19, 09:48:26](https://news.ycombinator.com/item?id=38330992) - [You Rarely Get Greenfield Projects (Or Do You?)](https://tommcfarlin.com/greenfield-projects/)
 
 ## [Archives](archives/index.md)
