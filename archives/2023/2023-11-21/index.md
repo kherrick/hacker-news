@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
+* [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
 * [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
 * [2023-11-21, 20:27:05](https://news.ycombinator.com/item?id=38369570) - [To the Board of Directors of OpenAI from former employees](https://board.net/p/r.e6a8f6578787a4cc67d4dc438c6d236e)
 * [2023-11-21, 20:16:01](https://news.ycombinator.com/item?id=38369433) - [I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)

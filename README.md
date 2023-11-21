@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
+* [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
 * [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
 * [2023-11-21, 20:16:01](https://news.ycombinator.com/item?id=38369433) - [I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 * [2023-11-21, 20:15:19](https://news.ycombinator.com/item?id=38369419) - [OpenAI investors keep pushing for Sam Altman’s return](https://www.wsj.com/tech/openai-employees-threaten-to-quit-unless-board-resigns-bbd5cc86)
@@ -17,7 +18,6 @@
 * [2023-11-21, 16:16:38](https://news.ycombinator.com/item?id=38365638) - [Show HN: New visual language for teaching kids to code](https://pickcode.io)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
-* [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
