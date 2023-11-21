@@ -27,6 +27,7 @@
 * [2023-11-20, 20:11:02](https://news.ycombinator.com/item?id=38353880) - [Misalignment and Deception by an autonomous stock trading LLM agent](https://arxiv.org/abs/2311.07590)
 * [2023-11-20, 20:10:19](https://news.ycombinator.com/item?id=38353865) - [Taking my e-bike as an undercover food delivery rider](https://electrek.co/2023/11/17/food-delivery-e-bike-rider-what-i-learned/)
 * [2023-11-20, 20:05:26](https://news.ycombinator.com/item?id=38353784) - [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
+* [2023-11-20, 20:04:17](https://news.ycombinator.com/item?id=38353763) - [The Low Down on the Greatest Dictionary Collection in the World](https://www.atlasobscura.com/articles/biggest-dictionary-collection)
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
 * [2023-11-20, 19:30:40](https://news.ycombinator.com/item?id=38353201) - [Nearly All of OpenAI Staff Threaten to Go to Microsoft If Board Doesn't Quit](https://www.bloomberg.com/news/articles/2023-11-20/openai-staff-threaten-to-go-to-microsoft-if-board-doesn-t-quit)
