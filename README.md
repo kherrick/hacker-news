@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 02:28:37](https://news.ycombinator.com/item?id=38358191) - [Homeowners Refuse to Accept the Awkward Truth: They're Rich](https://thewalrus.ca/homeowners-refuse-to-accept-the-awkward-truth-theyre-rich/)
+* [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many Jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:42:51](https://news.ycombinator.com/item?id=38357719) - [OpenAI's board approached Anthropic about a potential merger](https://twitter.com/steph_palazzolo/status/1726775263051038849)
 * [2023-11-21, 01:39:26](https://news.ycombinator.com/item?id=38357691) - [OpenAI board faces growing revolt over Sam Altman's ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
 * [2023-11-21, 01:32:38](https://news.ycombinator.com/item?id=38357629) - [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
@@ -24,9 +26,7 @@
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
 * [2023-11-20, 15:02:53](https://news.ycombinator.com/item?id=38349234) - [75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing](https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
-* [2023-11-20, 06:43:05](https://news.ycombinator.com/item?id=38343510) - [Divide and Concur: A Radical Plan for Peace in Europe (1920)](https://publicdomainreview.org/collection/unionization-of-central-europe/)
 * [2023-11-20, 02:23:28](https://news.ycombinator.com/item?id=38341399) - [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
-* [2023-11-19, 13:47:34](https://news.ycombinator.com/item?id=38332585) - [Object-Oriented Programming in Oberon-2 [pdf] (1994)](https://ssw.jku.at/Research/Books/Oberon2.pdf)
 * [2023-11-19, 12:54:59](https://news.ycombinator.com/item?id=38332226) - [The microtype package: Subliminal refinements towards typographical perfection [pdf]](https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf)
 * [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
 * [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
