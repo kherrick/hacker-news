@@ -78,6 +78,7 @@
 * [2023-11-19, 11:36:34](https://news.ycombinator.com/item?id=38331669) - [Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 * [2023-11-19, 11:06:21](https://news.ycombinator.com/item?id=38331501) - [Ask HN: Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
 * [2023-11-19, 11:05:45](https://news.ycombinator.com/item?id=38331493) - [Why Dumb Ideas Capture Smart and Successful People](https://www.robkhenderson.com/p/how-dumb-ideas-capture-smart-and)
+* [2023-11-19, 11:02:30](https://news.ycombinator.com/item?id=38331480) - [U.S. FCC says new rules will curb SIM swapping](https://arstechnica.com/security/2023/11/the-fcc-says-new-rules-will-curb-sim-swapping-im-pessimistic/)
 * [2023-11-19, 10:53:56](https://news.ycombinator.com/item?id=38331427) - [Using YouTube as Unlimited Cloud Storage? [video]](https://www.youtube.com/watch?v=_w6PCHutmb4)
 * [2023-11-19, 10:46:25](https://news.ycombinator.com/item?id=38331368) - [Rational Ritual: Why Everyone Needs to Know What Everyone Knows](https://www.ian-leslie.com/p/the-ruffian-special-edition-book)
 * [2023-11-19, 10:45:49](https://news.ycombinator.com/item?id=38331363) - [Songs of Syx: A city-builder with complex mechanics](https://store.steampowered.com/app/1162750/Songs_of_Syx/)
