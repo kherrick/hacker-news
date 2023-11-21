@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
 * [2023-11-21, 03:33:14](https://news.ycombinator.com/item?id=38358761) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
+* [2023-11-21, 03:33:06](https://news.ycombinator.com/item?id=38358760) - [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
 * [2023-11-21, 03:08:44](https://news.ycombinator.com/item?id=38358541) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
 * [2023-11-21, 02:52:59](https://news.ycombinator.com/item?id=38358413) - [Microsoft was not a winner of the events of the last few days around OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
 * [2023-11-21, 02:28:37](https://news.ycombinator.com/item?id=38358191) - [Homeowners Refuse to Accept the Awkward Truth: They're Rich](https://thewalrus.ca/homeowners-refuse-to-accept-the-awkward-truth-theyre-rich/)

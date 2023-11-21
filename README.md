@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-21, 03:33:14](https://news.ycombinator.com/item?id=38358761) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
+* [2023-11-21, 03:33:06](https://news.ycombinator.com/item?id=38358760) - [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:20:48](https://news.ycombinator.com/item?id=38357513) - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
