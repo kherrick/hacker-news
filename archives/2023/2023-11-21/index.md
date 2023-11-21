@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
 * [2023-11-21, 08:56:26](https://news.ycombinator.com/item?id=38361135) - [My keyboard wasn't mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
+* [2023-11-21, 08:44:02](https://news.ycombinator.com/item?id=38361049) - [The IDP Knowledge Base System](https://www.idp-z3.be/)
 * [2023-11-21, 08:13:42](https://news.ycombinator.com/item?id=38360827) - [Find Legal Moves in Brass Birmingham with Datalog](https://blog.pzakrzewski.com/find-legal-moves-in-brass-birmingham-with-logic-programming)
 * [2023-11-21, 08:06:23](https://news.ycombinator.com/item?id=38360776) - [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
 * [2023-11-21, 07:56:33](https://news.ycombinator.com/item?id=38360709) - [RFC 9498: The GNU Name System](https://www.gnunet.org/de/news/2023-11-RFC9498.html)
