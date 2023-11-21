@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-11-21, 22:16:43",
-      "https://news.ycombinator.com/item?id=38371169"
+      "2023-11-21, 22:30:50",
+      "https://news.ycombinator.com/item?id=38371361"
     ],
     [
-      "ChatGPT Experiencing 'Elevated Errors'",
-      "https://status.openai.com"
+      "Why does the moon change size when you snipe it in GTA?",
+      "https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html"
     ]
   ],
   [
@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2023-11-21, 22:12:38",
+      "https://news.ycombinator.com/item?id=38371115"
+    ],
+    [
+      "Claude 2.1 Refuses to kill a Python process",
+      "https://old.reddit.com/r/LocalLLaMA/comments/180p17f/new_claude_21_refuses_to_kill_a_python_process/"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 21:29:18",
       "https://news.ycombinator.com/item?id=38370480"
     ],
     [
-      "Sam Altman, OpenAI Board Open Talks to Negotiate His Possible Return",
+      "Sam Altman, OpenAI board open talks to negotiate his possible return",
       "https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return"
     ]
   ],
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=38370252"
     ],
     [
-      "ChatGPT Voice for All Free Users Announced (By Greg Brockman)",
-      "https://twitter.com/gdb/status/1727067288740970877"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 21:11:23",
-      "https://news.ycombinator.com/item?id=38370203"
-    ],
-    [
-      "Children, left behind by suburbia, need better community design",
-      "https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design"
+      "ChatGPT with voice is now available to all free users",
+      "https://twitter.com/OpenAI/status/1727065166188274145"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=38368272"
     ],
     [
-      "An Attempted Taxonomy of Web Components",
+      "An attempted taxonomy of web components",
       "https://www.zachleat.com/web/a-taxonomy-of-web-component-types/"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=38362762"
     ],
     [
-      "Can electricity pylons ever be beautiful?",
+      "Can electricity pylons be beautiful?",
       "https://www.bbc.com/news/uk-politics-66404487"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-11-21, 07:41:16",
-      "https://news.ycombinator.com/item?id=38360582"
-    ],
-    [
-      ".NET Blazor",
-      "https://dusted.codes/dotnet-blazor"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 00:44:39",
       "https://news.ycombinator.com/item?id=38357191"
     ],
@@ -297,6 +287,16 @@
     [
       "Mansion Blocks Filled London with Stacks of Flats",
       "https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 09:48:26",
+      "https://news.ycombinator.com/item?id=38330992"
+    ],
+    [
+      "You Rarely Get Greenfield Projects (Or Do You?)",
+      "https://tommcfarlin.com/greenfield-projects/"
     ]
   ]
 ]
