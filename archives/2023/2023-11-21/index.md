@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
 * [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
 * [2023-11-21, 20:27:05](https://news.ycombinator.com/item?id=38369570) - [To the Board of Directors of OpenAI from former employees](https://board.net/p/r.e6a8f6578787a4cc67d4dc438c6d236e)
 * [2023-11-21, 20:16:01](https://news.ycombinator.com/item?id=38369433) - [I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
@@ -50,6 +51,7 @@
 * [2023-11-21, 10:38:57](https://news.ycombinator.com/item?id=38361888) - [How blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
 * [2023-11-21, 10:19:53](https://news.ycombinator.com/item?id=38361758) - [In June 2024, ad blockers such as uBlock Origin will be disabled in Chrome 127](https://infosec.exchange/@catsalad/111426154930652642)
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
+* [2023-11-21, 10:14:53](https://news.ycombinator.com/item?id=38361722) - [The decentralization of the real world: an Unruly thesis](https://mirror.xyz/stefanobernardi.eth/MT9Ymy3vPuIpIoZ7qp17SbaTaoMuHUBXpq3bCFuyNmk)
 * [2023-11-21, 10:10:25](https://news.ycombinator.com/item?id=38361699) - [Sam Altman Exposes the Charade of AI Accountability](https://www.bloomberg.com/opinion/articles/2023-11-20/openai-sam-altman-exposes-the-charade-of-ai-accountability)
 * [2023-11-21, 09:12:50](https://news.ycombinator.com/item?id=38361259) - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
 * [2023-11-21, 09:11:17](https://news.ycombinator.com/item?id=38361247) - [Zork Zcode Interpreters Appear Out of Nowhere](https://hackaday.com/2023/11/21/zork-zcode-interpreters-appear-out-of-nowhere/)
