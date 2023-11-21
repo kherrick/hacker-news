@@ -6,6 +6,7 @@
 * [2023-11-21, 03:41:05](https://news.ycombinator.com/item?id=38358821) - [The Next Power Plant Is on the Roof and in the Basement](https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement)
 * [2023-11-21, 03:39:23](https://news.ycombinator.com/item?id=38358808) - [Sorry doubters, Starship had a remarkably successful flight](https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/)
 * [2023-11-21, 03:33:06](https://news.ycombinator.com/item?id=38358760) - [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
+* [2023-11-21, 01:56:51](https://news.ycombinator.com/item?id=38357870) - [TX AG Pax­ton Opens Inves­ti­ga­tion into Media Mat­ters](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-media-matters-potential-fraudulent-activity)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:20:48](https://news.ycombinator.com/item?id=38357513) - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
@@ -27,7 +28,6 @@
 * [2023-11-20, 08:08:08](https://news.ycombinator.com/item?id=38344358) - [Anti Tank Vespa](https://en.wikipedia.org/wiki/Vespa_150_TAP)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [2023-11-20, 06:03:55](https://news.ycombinator.com/item?id=38343116) - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)
-* [2023-11-19, 12:54:59](https://news.ycombinator.com/item?id=38332226) - [The microtype package: Subliminal refinements towards typographical perfection [pdf]](https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf)
 * [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
 * [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 
