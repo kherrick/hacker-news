@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 05:19:11](https://news.ycombinator.com/item?id=38359655) - [Irving on Helen, Ilya, and Sam](https://twitter.com/geoffreyirving/status/1726754270224023971)
 * [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 * [2023-11-21, 04:11:50](https://news.ycombinator.com/item?id=38359097) - [OpenAI Employees Say Firm's Chief Scientist Has Been Making Spiritual Claims](https://futurism.com/openai-employees-say-firms-chief-scientist-has-been-making-strange-spiritual-claims)
 * [2023-11-21, 04:09:07](https://news.ycombinator.com/item?id=38359070) - [NYT interviews Sam Altman (11/20/23)](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
@@ -15,6 +16,7 @@
 * [2023-11-21, 03:08:44](https://news.ycombinator.com/item?id=38358541) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
 * [2023-11-21, 02:52:59](https://news.ycombinator.com/item?id=38358413) - [Microsoft was not a winner of the events of the last few days around OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
 * [2023-11-21, 02:28:37](https://news.ycombinator.com/item?id=38358191) - [Homeowners Refuse to Accept the Awkward Truth: They're Rich](https://thewalrus.ca/homeowners-refuse-to-accept-the-awkward-truth-theyre-rich/)
+* [2023-11-21, 02:12:44](https://news.ycombinator.com/item?id=38358032) - [Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
 * [2023-11-21, 01:56:51](https://news.ycombinator.com/item?id=38357870) - [TX AG Pax­ton Opens Inves­ti­ga­tion into Media Mat­ters](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-media-matters-potential-fraudulent-activity)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many Jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:42:51](https://news.ycombinator.com/item?id=38357719) - [OpenAI's board approached Anthropic about a potential merger](https://twitter.com/steph_palazzolo/status/1726775263051038849)
