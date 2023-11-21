@@ -129,23 +129,112 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="38368570">
+          <h3>
+            <a class="item" href="https://github.com/NeumTry/NeumAI"
+              >Show HN: Neum AI – Open-source large-scale RAG framework</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-21 @ 19:20:29</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38368570"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We documented our approach in an HN post (<a
+                  href="https://news.ycombinator.com/item?id=37824547"
+                  >https://news.ycombinator.com/item?id=37824547</a
+                >) a couple weeks ago. Today, we are open sourcing the framework
+                we have developed.
+              </p>
+              <p>
+                The framework focuses on RAG data pipelines and provides scale,
+                reliability, and data synchronization capabilities out of the
+                box.
+              </p>
+              <p>
+                For those newer to RAG, it is a technique to provide context to
+                Large Language Models. It consists of grabbing pieces of
+                information (i.e. pieces of news articles, papers, descriptions,
+                etc.) and incorporating them into prompts to help contextualize
+                the responses. The technique goes one level deeper in finding
+                the right pieces of information to incorporate. The search for
+                relevant information is done through the use of vector
+                embeddings and vector databases.
+              </p>
+              <p>
+                Those pieces of news articles, papers, etc. are transformed into
+                a vector embedding that represents the semantic meaning of the
+                information. These vector representations are organized into
+                indexes where we can quickly search for the pieces of
+                information that most closely resembles (from a semantic
+                perspective) a given question or query. For example, if I take
+                news articles from this year, vectorize them, and add them to an
+                index, I can quickly search for pieces of information about the
+                US elections.
+              </p>
+              <p>To help achieve this, the Neum AI framework features:</p>
+              <p>
+                Starting with built-in data connectors for common data sources,
+                embedding services and vector stores, the framework provides
+                modularity to build data pipelines to your specification.
+              </p>
+              <p>
+                The connectors support pre-processing capabilities to define
+                loading, chunking and selecting strategies to optimize content
+                to be embedded. This also includes extracting metadata that is
+                going to be associated to a given vector.
+              </p>
+              <p>
+                The generated pipelines support large scale jobs through a high
+                throughput distributed architecture. The connectors allow you to
+                parallelize tasks like downloading documents, processing them,
+                generating embedding and ingesting data into the vector DB.
+              </p>
+              <p>
+                For data sources that might be continuously changing, the
+                framework supports data scheduling and synchronization. This
+                includes delta syncs where only new data is pulled.
+              </p>
+              <p>
+                Once data is transformed into a vector database, the framework
+                supports querying of the data including hybrid search using the
+                available metadata added during pre-processing. As part of the
+                querying process, the framework provides capabilities to capture
+                feedback on retrieved data as well as run evaluations against
+                different pipeline configurations.
+              </p>
+              <p>
+                Try it out and if interested in chatting more about this shoot
+                us an email founders@tryneum.com
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="38368459">
           <h3>
             <a
               class="item"
               href="https://statescoop.com/maryland-will-hand-out-133000-chromebooks-to-the-public/"
-              >Maryland will hand out 133,000 Chromebooks to the public</a
+              >Maryland will hand out 133k Chromebooks to the public</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-11-21 @ 19:13:57</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38368459"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -162,11 +251,11 @@
             <h4>
               <span>2023-11-21 @ 19:01:29</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38368287"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -183,7 +272,7 @@
             <h4>
               <span>2023-11-21 @ 18:54:53</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38368272"
                   >Comments</a
@@ -204,31 +293,11 @@
             <h4>
               <span>2023-11-21 @ 18:41:31</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38368073"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38368063">
-          <h3>
-            <a class="item" href="https://www.blender.org"
-              >The blender.org servers are experiencing a DDoS attack since last
-              weekend</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-21 @ 18:40:51</span
-              ><span class="points-container"
-                >Points: <span class="points">23</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38368063"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -243,7 +312,7 @@
             <h4>
               <span>2023-11-21 @ 17:31:11</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38366830"
                   >Comments</a
@@ -257,19 +326,19 @@
             <a
               class="item"
               href="https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40"
-              >Binance Founder Changpeng Zhao Agrees to Step Down, Plead
-              Guilty</a
+              >Binance founder Changpeng Zhao agrees to step down, plead
+              guilty</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-11-21 @ 17:20:43</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">276</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38366729"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -279,18 +348,18 @@
             <a
               class="item"
               href="https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google"
-              >Code Search at Google: The Story of Han-Wen and Zoekt</a
+              >Code Search at Google: Han-Wen and Zoekt</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-11-21 @ 17:10:44</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38366536"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -315,18 +384,18 @@
             <a
               class="item"
               href="https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse/"
-              >Seven Signs of Ethical Collapse (2012)</a
+              >Seven signs of ethical collapse (2012)</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-11-21 @ 16:55:50</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38366295"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -341,11 +410,11 @@
             <h4>
               <span>2023-11-21 @ 16:35:02</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38365934"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -363,11 +432,11 @@
             <h4>
               <span>2023-11-21 @ 16:21:26</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38365714"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -382,11 +451,11 @@
             <h4>
               <span>2023-11-21 @ 16:16:38</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38365638"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
             <div class="text">
@@ -409,28 +478,6 @@
             </div>
           </section>
         </section>
-        <section id="38365002">
-          <h3>
-            <a
-              class="item"
-              href="https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/"
-              >Google admits Spotify pays no Play Store fees because of a secret
-              deal</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-21 @ 15:34:03</span
-              ><span class="points-container"
-                >Points: <span class="points">455</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38365002"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="38364824">
           <h3>
             <a
@@ -444,11 +491,11 @@
             <h4>
               <span>2023-11-21 @ 15:24:11</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38364824"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -464,11 +511,11 @@
             <h4>
               <span>2023-11-21 @ 15:00:29</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38364489"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -483,7 +530,7 @@
             <h4>
               <span>2023-11-21 @ 12:42:20</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38362874"
                   >Comments</a
@@ -504,11 +551,11 @@
             <h4>
               <span>2023-11-21 @ 12:07:46</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38362541"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -523,7 +570,7 @@
             <h4>
               <span>2023-11-21 @ 11:32:18</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38362271"
                   >Comments</a
@@ -542,11 +589,11 @@
             <h4>
               <span>2023-11-21 @ 10:16:35</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38361735"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -564,11 +611,11 @@
             <h4>
               <span>2023-11-21 @ 08:50:05</span
               ><span class="points-container"
-                >Points: <span class="points">437</span></span
+                >Points: <span class="points">441</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38361094"
                   >Comments</a
-                ><span class="descendants">: 243</span></span
+                ><span class="descendants">: 245</span></span
               >
             </h4>
           </section>
@@ -585,11 +632,11 @@
             <h4>
               <span>2023-11-21 @ 08:44:36</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38361053"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
           </section>
@@ -606,7 +653,7 @@
             <h4>
               <span>2023-11-21 @ 08:25:41</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38360927"
                   >Comments</a
@@ -625,11 +672,11 @@
             <h4>
               <span>2023-11-21 @ 07:41:16</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38360582"
                   >Comments</a
-                ><span class="descendants">: 226</span></span
+                ><span class="descendants">: 229</span></span
               >
             </h4>
           </section>
@@ -646,7 +693,7 @@
             <h4>
               <span>2023-11-21 @ 06:38:19</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38360162"
                   >Comments</a
@@ -667,11 +714,11 @@
             <h4>
               <span>2023-11-21 @ 06:32:32</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38360128"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -689,11 +736,32 @@
             <h4>
               <span>2023-11-21 @ 00:44:39</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38357191"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 79</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38354753">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/2023/11/20/23969690/google-spotify-android-billing-commission-secret-deal"
+              >A secret deal let Spotify bypass Android's app store fees</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-20 @ 21:05:01</span
+              ><span class="points-container"
+                >Points: <span class="points">226</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38354753"
+                  >Comments</a
+                ><span class="descendants">: 265</span></span
               >
             </h4>
           </section>
@@ -710,11 +778,11 @@
             <h4>
               <span>2023-11-20 @ 13:35:31</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38347771"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -729,11 +797,11 @@
             <h4>
               <span>2023-11-20 @ 12:15:15</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38346903"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -750,7 +818,7 @@
             <h4>
               <span>2023-11-20 @ 07:58:08</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38344213"
                   >Comments</a
