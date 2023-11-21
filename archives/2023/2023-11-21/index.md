@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+* [2023-11-21, 22:19:32](https://news.ycombinator.com/item?id=38371213) - [OpenAI API and ChatGTP Outage](https://status.openai.com/incidents/n254wyd7nml7)
 * [2023-11-21, 22:16:43](https://news.ycombinator.com/item?id=38371169) - [ChatGPT Experiencing 'Elevated Errors'](https://status.openai.com)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
 * [2023-11-21, 22:12:38](https://news.ycombinator.com/item?id=38371115) - [Claude 2.1 Refuses to kill a Python process](https://old.reddit.com/r/LocalLLaMA/comments/180p17f/new_claude_21_refuses_to_kill_a_python_process/)
