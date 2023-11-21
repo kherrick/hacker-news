@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 01:42:51](https://news.ycombinator.com/item?id=38357719) - [OpenAI's board approached Anthropic about a potential merger](https://twitter.com/steph_palazzolo/status/1726775263051038849)
 * [2023-11-21, 01:39:26](https://news.ycombinator.com/item?id=38357691) - [OpenAI board faces growing revolt over Sam Altman's ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
 * [2023-11-21, 01:32:38](https://news.ycombinator.com/item?id=38357629) - [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
 * [2023-11-21, 01:30:27](https://news.ycombinator.com/item?id=38357608) - [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)
@@ -15,7 +16,6 @@
 * [2023-11-20, 21:07:55](https://news.ycombinator.com/item?id=38354788) - [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 * [2023-11-20, 21:02:11](https://news.ycombinator.com/item?id=38354700) - [Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
 * [2023-11-20, 20:44:03](https://news.ycombinator.com/item?id=38354422) - [Typst – Compose Papers Faster](https://typst.app/)
-* [2023-11-20, 20:33:16](https://news.ycombinator.com/item?id=38354254) - [A guide to open-source LLM inference and performance](https://www.baseten.co/blog/llm-transformer-inference-guide/)
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
 * [2023-11-20, 18:47:18](https://news.ycombinator.com/item?id=38352484) - [After Boeing declines to pay up, ransomware group leaks 45 GB of data](https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data)
@@ -25,11 +25,11 @@
 * [2023-11-20, 15:02:53](https://news.ycombinator.com/item?id=38349234) - [75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing](https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [2023-11-20, 06:43:05](https://news.ycombinator.com/item?id=38343510) - [Divide and Concur: A Radical Plan for Peace in Europe (1920)](https://publicdomainreview.org/collection/unionization-of-central-europe/)
-* [2023-11-20, 06:40:27](https://news.ycombinator.com/item?id=38343484) - [Kurt Vonnegut's House Is Not Haunted](https://www.theparisreview.org/blog/2023/11/15/kurt-vonneguts-house-is-not-haunted/)
 * [2023-11-20, 02:23:28](https://news.ycombinator.com/item?id=38341399) - [Inside The Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/)
 * [2023-11-19, 13:47:34](https://news.ycombinator.com/item?id=38332585) - [Object-Oriented Programming in Oberon-2 [pdf] (1994)](https://ssw.jku.at/Research/Books/Oberon2.pdf)
 * [2023-11-19, 12:54:59](https://news.ycombinator.com/item?id=38332226) - [The microtype package: Subliminal refinements towards typographical perfection [pdf]](https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf)
 * [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
+* [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 
 ## [Archives](archives/index.md)
 

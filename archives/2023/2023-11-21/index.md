@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 01:42:51](https://news.ycombinator.com/item?id=38357719) - [OpenAI's board approached Anthropic about a potential merger](https://twitter.com/steph_palazzolo/status/1726775263051038849)
 * [2023-11-21, 01:39:26](https://news.ycombinator.com/item?id=38357691) - [OpenAI board faces growing revolt over Sam Altman's ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
 * [2023-11-21, 01:32:38](https://news.ycombinator.com/item?id=38357629) - [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
 * [2023-11-21, 01:30:27](https://news.ycombinator.com/item?id=38357608) - [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)

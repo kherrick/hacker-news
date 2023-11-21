@@ -63,6 +63,7 @@
 * [2023-11-18, 11:14:41](https://news.ycombinator.com/item?id=38318127) - [Show HN: ColBERT Build from Sentence Transformers](https://github.com/raphaelsty/neural-cherche)
 * [2023-11-18, 10:52:12](https://news.ycombinator.com/item?id=38317973) - [Reverse Outlines: A Writer's Technique for Examining Organization](https://writing.wisc.edu/handbook/process/reverseoutlines/)
 * [2023-11-18, 10:44:51](https://news.ycombinator.com/item?id=38317924) - [OpenVMS Account at DECUServe](https://eisner.decus.org/online/)
+* [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 * [2023-11-18, 10:39:30](https://news.ycombinator.com/item?id=38317890) - [Live Feed: SpaceX Starship Rocket 2nd Launch Integrated Test Flight](https://www.youtube.com/watch?v=0gCBCPgU5FA)
 * [2023-11-18, 10:18:49](https://news.ycombinator.com/item?id=38317722) - [Programming on Parallel Machines; GPU, Multicore, Clusters and More](https://heather.cs.ucdavis.edu/parprocbook)
 * [2023-11-18, 09:50:52](https://news.ycombinator.com/item?id=38317509) - [Volunteer.gov: Discover volunteer opportunities around the country](https://www.volunteer.gov/s/)
