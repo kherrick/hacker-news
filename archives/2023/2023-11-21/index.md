@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 15:34:03](https://news.ycombinator.com/item?id=38365002) - [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
+* [2023-11-21, 15:24:11](https://news.ycombinator.com/item?id=38364824) - [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – 100% electric hydrofoiling passenger vessel (YouTube) [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
 * [2023-11-21, 14:55:36](https://news.ycombinator.com/item?id=38364409) - [What questions can tech CEOs be asked, to guage their moral trustworthiness?](https://news.ycombinator.com/item?id=38364409)
 * [2023-11-21, 14:48:06](https://news.ycombinator.com/item?id=38364315) - [Kevin Scott (MSFT CTO) inviting all Open AI employees to join MSFT](https://twitter.com/kevin_scott/status/1726971608706031670)
