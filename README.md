@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 20:15:19](https://news.ycombinator.com/item?id=38369419) - [OpenAI investors keep pushing for Sam Altman’s return](https://www.wsj.com/tech/openai-employees-threaten-to-quit-unless-board-resigns-bbd5cc86)
 * [2023-11-21, 19:34:22](https://news.ycombinator.com/item?id=38368791) - [Tyk AI Gateway – Robust AI Governance](https://tyk.io/blog/robust-ai-governance-is-critical-to-enterprise-adoption-and-implementation/)
 * [2023-11-21, 19:32:11](https://news.ycombinator.com/item?id=38368760) - [FBI director admits they rarely have Probable Cause for using NSA Collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)
 * [2023-11-21, 19:20:29](https://news.ycombinator.com/item?id=38368570) - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
@@ -14,8 +15,8 @@
 * [2023-11-21, 16:35:02](https://news.ycombinator.com/item?id=38365934) - [Claude 2.1](https://www.anthropic.com/index/claude-2-1)
 * [2023-11-21, 16:21:26](https://news.ycombinator.com/item?id=38365714) - [OpenAI investors considering suing the board after CEO's abrupt firing](https://www.reuters.com/technology/openai-investors-considering-suing-board-after-ceos-abrupt-firing-sources-2023-11-20/)
 * [2023-11-21, 16:16:38](https://news.ycombinator.com/item?id=38365638) - [Show HN: New visual language for teaching kids to code](https://pickcode.io)
-* [2023-11-21, 15:24:11](https://news.ycombinator.com/item?id=38364824) - [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
+* [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
 * [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
@@ -27,7 +28,6 @@
 * [2023-11-21, 06:38:19](https://news.ycombinator.com/item?id=38360162) - [Joyce Carol Oates's Relentless, Prolific Search for a Self](https://www.newyorker.com/magazine/2023/11/27/joyce-carol-oates-profile)
 * [2023-11-21, 06:32:32](https://news.ycombinator.com/item?id=38360128) - [Vector Packet Processing](https://www.netgate.com/resources/articles-vector-packet-processing)
 * [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
-* [2023-11-20, 13:35:31](https://news.ycombinator.com/item?id=38347771) - [Stadium card stunts and the art of programming a crowd](https://www.engadget.com/hitting-the-books-code-to-joy-michael-l-littman-mit-press-153036241.html)
 * [2023-11-20, 12:15:15](https://news.ycombinator.com/item?id=38346903) - [Knuth Airgaps and Knuth Buffers](https://taylor.town/knuth-airgap)
 * [2023-11-20, 07:58:08](https://news.ycombinator.com/item?id=38344213) - [Mansion Blocks Filled London with Stacks of Flats](https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings)
 
