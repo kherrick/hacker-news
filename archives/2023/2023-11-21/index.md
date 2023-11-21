@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 13:41:15](https://news.ycombinator.com/item?id=38363449) - [Giant batteries drain economics of gas power plants](https://www.reuters.com/business/energy/giant-batteries-drain-economics-gas-power-plants-2023-11-21/)
 * [2023-11-21, 13:29:12](https://news.ycombinator.com/item?id=38363333) - [Inside Ohio State’s DEI Factory](https://www.wsj.com/articles/inside-ohio-states-dei-factory-faculty-report-diversity-hiring-cefd804d)
+* [2023-11-21, 13:06:02](https://news.ycombinator.com/item?id=38363133) - [NY Federal Court: There's a Right to Record Police, Also Inside Station Lobbies](https://www.techdirt.com/2023/11/20/ny-federal-court-theres-a-right-to-record-police-officers-and-state-law-says-that-includes-inside-station-lobbies/)
 * [2023-11-21, 13:03:56](https://news.ycombinator.com/item?id=38363114) - [YouTube blames ad blockers for slow load times, not the browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
 * [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 * [2023-11-21, 12:28:27](https://news.ycombinator.com/item?id=38362719) - [Meta disbands Responsible AI team](https://www.computing.co.uk/news/4148616/meta-disbands-responsible-ai-team)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-21, 13:29:12](https://news.ycombinator.com/item?id=38363333) - [Inside Ohio State’s DEI Factory](https://www.wsj.com/articles/inside-ohio-states-dei-factory-faculty-report-diversity-hiring-cefd804d)
+* [2023-11-21, 13:41:15](https://news.ycombinator.com/item?id=38363449) - [Giant batteries drain economics of gas power plants](https://www.reuters.com/business/energy/giant-batteries-drain-economics-gas-power-plants-2023-11-21/)
+* [2023-11-21, 13:06:02](https://news.ycombinator.com/item?id=38363133) - [NY Federal Court: There's a Right to Record Police, Also Inside Station Lobbies](https://www.techdirt.com/2023/11/20/ny-federal-court-theres-a-right-to-record-police-officers-and-state-law-says-that-includes-inside-station-lobbies/)
 * [2023-11-21, 13:03:56](https://news.ycombinator.com/item?id=38363114) - [YouTube blames ad blockers for slow load times, not the browser](https://www.androidauthority.com/youtube-blames-ad-blockers-slow-load-times-3387523/)
 * [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
-* [2023-11-21, 12:20:20](https://news.ycombinator.com/item?id=38362652) - [OpenAI's board approached Anthropic CEO about top job and merger](https://www.reuters.com/technology/openais-board-approached-anthropic-ceo-about-top-job-merger-sources-2023-11-21/)
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
 * [2023-11-21, 10:38:57](https://news.ycombinator.com/item?id=38361888) - [Blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
