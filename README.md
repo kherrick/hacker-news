@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 05:19:11](https://news.ycombinator.com/item?id=38359655) - [Irving on Helen, Ilya, and Sam](https://twitter.com/geoffreyirving/status/1726754270224023971)
 * [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 * [2023-11-21, 04:09:07](https://news.ycombinator.com/item?id=38359070) - [NYT interviews former OpenAI CEO Sam Altman (11/20/23)](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
 * [2023-11-21, 03:41:05](https://news.ycombinator.com/item?id=38358821) - [The Next Power Plant Is on the Roof and in the Basement](https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement)
@@ -24,7 +25,6 @@
 * [2023-11-20, 15:54:03](https://news.ycombinator.com/item?id=38349716) - [River: A fast, robust job queue for Go and Postgres](https://brandur.org/river)
 * [2023-11-20, 08:08:08](https://news.ycombinator.com/item?id=38344358) - [Anti Tank Vespa](https://en.wikipedia.org/wiki/Vespa_150_TAP)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
-* [2023-11-20, 06:40:27](https://news.ycombinator.com/item?id=38343484) - [Kurt Vonnegut's House Is Not Haunted](https://www.theparisreview.org/blog/2023/11/15/kurt-vonneguts-house-is-not-haunted/)
 * [2023-11-20, 06:03:55](https://news.ycombinator.com/item?id=38343116) - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)
 * [2023-11-19, 12:54:59](https://news.ycombinator.com/item?id=38332226) - [The microtype package: Subliminal refinements towards typographical perfection [pdf]](https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf)
 * [2023-11-19, 11:02:30](https://news.ycombinator.com/item?id=38331480) - [U.S. FCC says new rules will curb SIM swapping](https://arstechnica.com/security/2023/11/the-fcc-says-new-rules-will-curb-sim-swapping-im-pessimistic/)
