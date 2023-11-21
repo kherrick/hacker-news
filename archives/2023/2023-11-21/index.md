@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – 100% electric hydrofoiling passenger vessel (YouTube) [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
+* [2023-11-21, 14:55:36](https://news.ycombinator.com/item?id=38364409) - [What questions can tech CEOs be asked, to guage their moral trustworthiness?](https://news.ycombinator.com/item?id=38364409)
 * [2023-11-21, 14:48:06](https://news.ycombinator.com/item?id=38364315) - [Kevin Scott (MSFT CTO) inviting all Open AI employees to join MSFT](https://twitter.com/kevin_scott/status/1726971608706031670)
+* [2023-11-21, 14:43:25](https://news.ycombinator.com/item?id=38364262) - [GameMaker to be free for non-commercial purposes and have one-time fee license](https://gamemaker.io/en/blog/gamemaker-free-platforms)
 * [2023-11-21, 14:02:15](https://news.ycombinator.com/item?id=38363698) - [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2023-11-21, 14:01:36](https://news.ycombinator.com/item?id=38363687) - ['AI' Is Supercharging Our Broken Healthcare System's Worst Tendencies](https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/)
 * [2023-11-21, 13:41:15](https://news.ycombinator.com/item?id=38363449) - [Giant batteries drain economics of gas power plants](https://www.reuters.com/business/energy/giant-batteries-drain-economics-gas-power-plants-2023-11-21/)
@@ -62,5 +65,6 @@
 * [2023-11-21, 01:20:48](https://news.ycombinator.com/item?id=38357513) - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 * [2023-11-21, 01:07:06](https://news.ycombinator.com/item?id=38357389) - [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
 * [2023-11-21, 00:47:00](https://news.ycombinator.com/item?id=38357206) - [X Corp. vs. Media Matters for America et al.](https://www.plainsite.org/dockets/52oouzfga/texas-northern-district-court/x-corp-v-media-matters-for-america-et-al/)
+* [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-21, 00:40:57](https://news.ycombinator.com/item?id=38357167) - [Scientists uncover aurora-like radio emission above a sunspot](https://phys.org/news/2023-11-scientists-uncover-aurora-like-radio-emission.html)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
