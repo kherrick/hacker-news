@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 09:12:50](https://news.ycombinator.com/item?id=38361259) - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
 * [2023-11-21, 08:56:26](https://news.ycombinator.com/item?id=38361135) - [My keyboard wasn't mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 08:44:02](https://news.ycombinator.com/item?id=38361049) - [The IDP Knowledge Base System](https://www.idp-z3.be/)
@@ -9,7 +10,6 @@
 * [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
 * [2023-11-21, 06:35:48](https://news.ycombinator.com/item?id=38360148) - [When do \"brains beat brawn\" in Chess? An experiment](https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment)
 * [2023-11-21, 06:33:21](https://news.ycombinator.com/item?id=38360135) - [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
-* [2023-11-21, 05:03:09](https://news.ycombinator.com/item?id=38359523) - [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
 * [2023-11-21, 02:12:44](https://news.ycombinator.com/item?id=38358032) - [Self-Hosting Open Source LLMs: Cross Devices and Local Deployment of Mistral 7B](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
