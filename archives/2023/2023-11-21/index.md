@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
 * [2023-11-21, 21:35:25](https://news.ycombinator.com/item?id=38370580) - [Flipboard Steps Back from Tweeting](https://flipboard.medium.com/flipboard-steps-back-from-tweeting-b0f4af1f4ffc)
+* [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [OpenAI's CEO Shear left in the dark, planning to leave if evidence not provided](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
+* [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT Voice for All Free Users Announced (By Greg Brockman)](https://twitter.com/gdb/status/1727067288740970877)
 * [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
 * [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
 * [2023-11-21, 20:27:05](https://news.ycombinator.com/item?id=38369570) - [To the Board of Directors of OpenAI from former employees](https://board.net/p/r.e6a8f6578787a4cc67d4dc438c6d236e)

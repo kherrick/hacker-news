@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-21, 21:35:25](https://news.ycombinator.com/item?id=38370580) - [Flipboard Steps Back from Tweeting](https://flipboard.medium.com/flipboard-steps-back-from-tweeting-b0f4af1f4ffc)
+* [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [OpenAI's CEO Shear left in the dark, planning to leave if evidence not provided](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
+* [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT Voice for All Free Users Announced (By Greg Brockman)](https://twitter.com/gdb/status/1727067288740970877)
 * [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
 * [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
 * [2023-11-21, 20:16:01](https://news.ycombinator.com/item?id=38369433) - [I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
@@ -25,7 +26,6 @@
 * [2023-11-21, 09:11:17](https://news.ycombinator.com/item?id=38361247) - [Zork Zcode Interpreters Appear Out of Nowhere](https://hackaday.com/2023/11/21/zork-zcode-interpreters-appear-out-of-nowhere/)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
-* [2023-11-21, 06:38:19](https://news.ycombinator.com/item?id=38360162) - [Joyce Carol Oates's Relentless, Prolific Search for a Self](https://www.newyorker.com/magazine/2023/11/27/joyce-carol-oates-profile)
 * [2023-11-21, 06:32:32](https://news.ycombinator.com/item?id=38360128) - [Vector Packet Processing](https://www.netgate.com/resources/articles-vector-packet-processing)
 * [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-20, 12:15:15](https://news.ycombinator.com/item?id=38346903) - [Knuth Airgaps and Knuth Buffers](https://taylor.town/knuth-airgap)
