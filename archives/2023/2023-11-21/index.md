@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
 * [2023-11-21, 05:19:11](https://news.ycombinator.com/item?id=38359655) - [Irving on Helen, Ilya, and Sam](https://twitter.com/geoffreyirving/status/1726754270224023971)
+* [2023-11-21, 05:03:09](https://news.ycombinator.com/item?id=38359523) - [Earth likely briefly passed critical warming threshold on Friday and Saturday](https://www.axios.com/2023/11/20/earth-2c-warming-threshold-passed-report)
 * [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 * [2023-11-21, 04:11:50](https://news.ycombinator.com/item?id=38359097) - [OpenAI Employees Say Firm's Chief Scientist Has Been Making Spiritual Claims](https://futurism.com/openai-employees-say-firms-chief-scientist-has-been-making-strange-spiritual-claims)
 * [2023-11-21, 04:09:07](https://news.ycombinator.com/item?id=38359070) - [NYT interviews Sam Altman (11/20/23)](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
