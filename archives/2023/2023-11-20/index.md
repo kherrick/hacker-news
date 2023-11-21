@@ -94,6 +94,7 @@
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [2023-11-20, 06:43:05](https://news.ycombinator.com/item?id=38343510) - [Divide and Concur: A Radical Plan for Peace in Europe (1920)](https://publicdomainreview.org/collection/unionization-of-central-europe/)
 * [2023-11-20, 06:40:27](https://news.ycombinator.com/item?id=38343484) - [Kurt Vonnegut's House Is Not Haunted](https://www.theparisreview.org/blog/2023/11/15/kurt-vonneguts-house-is-not-haunted/)
+* [2023-11-20, 06:30:45](https://news.ycombinator.com/item?id=38343398) - [A Subtle Bug](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 * [2023-11-20, 06:26:14](https://news.ycombinator.com/item?id=38343359) - [Edmund of Abingdon's Dream Job](https://www.historytoday.com/archive/out-margins/edmund-abingdons-dream-job)
 * [2023-11-20, 06:10:46](https://news.ycombinator.com/item?id=38343203) - [TIL you could make xkcd-like plots with matplotlib](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
