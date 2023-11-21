@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 23:58:14](https://news.ycombinator.com/item?id=38356791) - [Satya Nadella says OpenAI governance needs to change](https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html)
+* [2023-11-20, 23:56:00](https://news.ycombinator.com/item?id=38356768) - [Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight](https://twitter.com/britishlibrary/status/1726618361398722754)
 * [2023-11-20, 23:41:31](https://news.ycombinator.com/item?id=38356631) - [Nvidia introduces the H200 an AI-crunching monster GPU that may speed up ChatGPT](https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/)
 * [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC Charges Kraken for Operating as an Unregistered Securities Exchange](https://www.sec.gov/news/press-release/2023-237)
 * [2023-11-20, 22:39:19](https://news.ycombinator.com/item?id=38355934) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
