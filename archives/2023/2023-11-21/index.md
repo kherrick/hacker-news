@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 03:57:26](https://news.ycombinator.com/item?id=38358971) - [Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds](https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/)
+* [2023-11-21, 03:39:23](https://news.ycombinator.com/item?id=38358808) - [Sorry doubters, Starship had a remarkably successful flight](https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/)
 * [2023-11-21, 03:33:14](https://news.ycombinator.com/item?id=38358761) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
 * [2023-11-21, 03:33:06](https://news.ycombinator.com/item?id=38358760) - [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
 * [2023-11-21, 03:08:44](https://news.ycombinator.com/item?id=38358541) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
