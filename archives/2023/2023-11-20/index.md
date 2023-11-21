@@ -71,6 +71,7 @@
 * [2023-11-20, 13:05:47](https://news.ycombinator.com/item?id=38347402) - [Meta’s approach of ‘pay for your privacy’ is wrong](https://tuta.com/blog/meta-pay-for-privacy-illegal)
 * [2023-11-20, 12:40:15](https://news.ycombinator.com/item?id=38347131) - [Key OpenAI employees posting \"OpenAI is nothing without its people.\"](https://twitter.com/tomwarren/status/1726546605502046630)
 * [2023-11-20, 12:19:56](https://news.ycombinator.com/item?id=38346943) - [London Is Building Its Own Vegas Sphere](https://www.theb1m.com/video/london-is-building-its-own-vegas-sphere)
+* [2023-11-20, 12:15:15](https://news.ycombinator.com/item?id=38346903) - [Knuth Airgaps and Knuth Buffers](https://taylor.town/knuth-airgap)
 * [2023-11-20, 12:10:25](https://news.ycombinator.com/item?id=38346869) - [OpenAI's Misalignment and Microsoft's Gain](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
 * [2023-11-20, 12:09:30](https://news.ycombinator.com/item?id=38346862) - [Roc – A fast, friendly, functional language](https://www.roc-lang.org/)
 * [2023-11-20, 11:35:42](https://news.ycombinator.com/item?id=38346555) - [How can you define a 'drug'? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)

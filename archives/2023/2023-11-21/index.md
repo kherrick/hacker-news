@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 16:16:38](https://news.ycombinator.com/item?id=38365638) - [Show HN: New visual language for teaching kids to code](https://pickcode.io)
+* [2023-11-21, 16:12:04](https://news.ycombinator.com/item?id=38365582) - [Aerobic exercise is good for the brain; easy wins for behaviour change](https://brainpizza.substack.com/p/why-aerobic-exercise-is-good-for)
+* [2023-11-21, 15:35:20](https://news.ycombinator.com/item?id=38365023) - [No evidence screen time is negative for child cognitive development, well-being](https://www.oii.ox.ac.uk/news-events/no-evidence-screen-time-is-negative-for-childrens-cognitive-development-and-well-being-oxford-study/)
 * [2023-11-21, 15:34:03](https://news.ycombinator.com/item?id=38365002) - [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
 * [2023-11-21, 15:24:11](https://news.ycombinator.com/item?id=38364824) - [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – 100% electric hydrofoiling passenger vessel (YouTube) [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
