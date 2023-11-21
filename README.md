@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+* [2023-11-21, 18:41:31](https://news.ycombinator.com/item?id=38368073) - [Streamlining CI/CD Pipelines with Code: A Developer's Guide](https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/)
 * [2023-11-21, 17:31:11](https://news.ycombinator.com/item?id=38366830) - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 * [2023-11-21, 17:24:16](https://news.ycombinator.com/item?id=38366801) - [Satya Nadella: \"We have all the rights and all the capability.\"](https://stackdiary.com/satya-nadella-we-have-all-the-rights-and-all-the-capability/)
 * [2023-11-21, 17:20:43](https://news.ycombinator.com/item?id=38366729) - [Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
@@ -14,13 +16,10 @@
 * [2023-11-21, 15:24:11](https://news.ycombinator.com/item?id=38364824) - [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
 * [2023-11-21, 14:43:25](https://news.ycombinator.com/item?id=38364262) - [GameMaker to be free for non-commercial purposes and have one-time fee license](https://gamemaker.io/en/blog/gamemaker-free-platforms)
-* [2023-11-21, 14:01:36](https://news.ycombinator.com/item?id=38363687) - ['AI' Is Supercharging Our Broken Healthcare System's Worst Tendencies](https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/)
-* [2023-11-21, 13:53:41](https://news.ycombinator.com/item?id=38363602) - [Super Mario RPG is an endearing, perplexing relic](https://www.polygon.com/reviews/23960636/super-mario-rpg-2023-switch-remake-review)
 * [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
-* [2023-11-21, 09:08:01](https://news.ycombinator.com/item?id=38361218) - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 08:44:36](https://news.ycombinator.com/item?id=38361053) - [A Node, TypeScript, TS-Node and ESM experience that works](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
 * [2023-11-21, 08:25:41](https://news.ycombinator.com/item?id=38360927) - [Realtime Planet Shader: Interactive 3D planet animation](https://jsulpis.github.io/realtime-planet-shader/earth/)
@@ -30,6 +29,7 @@
 * [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-20, 13:35:31](https://news.ycombinator.com/item?id=38347771) - [Stadium card stunts and the art of programming a crowd](https://www.engadget.com/hitting-the-books-code-to-joy-michael-l-littman-mit-press-153036241.html)
 * [2023-11-20, 12:15:15](https://news.ycombinator.com/item?id=38346903) - [Knuth Airgaps and Knuth Buffers](https://taylor.town/knuth-airgap)
+* [2023-11-20, 07:58:08](https://news.ycombinator.com/item?id=38344213) - [Mansion Blocks Filled London with Stacks of Flats](https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings)
 
 ## [Archives](archives/index.md)
 

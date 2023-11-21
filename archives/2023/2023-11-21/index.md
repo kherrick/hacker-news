@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+* [2023-11-21, 18:41:31](https://news.ycombinator.com/item?id=38368073) - [Streamlining CI/CD Pipelines with Code: A Developer's Guide](https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/)
 * [2023-11-21, 17:31:11](https://news.ycombinator.com/item?id=38366830) - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 * [2023-11-21, 17:24:16](https://news.ycombinator.com/item?id=38366801) - [Satya Nadella: \"We have all the rights and all the capability.\"](https://stackdiary.com/satya-nadella-we-have-all-the-rights-and-all-the-capability/)
 * [2023-11-21, 17:20:43](https://news.ycombinator.com/item?id=38366729) - [Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)

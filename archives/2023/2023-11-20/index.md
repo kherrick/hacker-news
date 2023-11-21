@@ -91,6 +91,7 @@
 * [2023-11-20, 08:15:08](https://news.ycombinator.com/item?id=38344477) - [Microsoft just hired Sam and Greg to lead a new advanced AI research team](https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit)
 * [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
 * [2023-11-20, 08:08:08](https://news.ycombinator.com/item?id=38344358) - [Anti Tank Vespa](https://en.wikipedia.org/wiki/Vespa_150_TAP)
+* [2023-11-20, 07:58:08](https://news.ycombinator.com/item?id=38344213) - [Mansion Blocks Filled London with Stacks of Flats](https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings)
 * [2023-11-20, 07:56:13](https://news.ycombinator.com/item?id=38344196) - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
 * [2023-11-20, 07:30:51](https://news.ycombinator.com/item?id=38343957) - [Architecture Patterns: The Circuit-Breaker](https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1)
 * [2023-11-20, 07:27:42](https://news.ycombinator.com/item?id=38343933) - [Interactive Common Lisp Development](https://www.n16f.net/blog/interactive-common-lisp-development/)
