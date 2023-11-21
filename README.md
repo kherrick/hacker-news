@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 16:35:02](https://news.ycombinator.com/item?id=38365934) - [Anthropic announces Claude 2.1 – 200k context, less refusals](https://www.anthropic.com/index/claude-2-1)
 * [2023-11-21, 16:16:38](https://news.ycombinator.com/item?id=38365638) - [Show HN: New visual language for teaching kids to code](https://pickcode.io)
 * [2023-11-21, 16:12:04](https://news.ycombinator.com/item?id=38365582) - [Aerobic exercise is good for the brain; easy wins for behaviour change](https://brainpizza.substack.com/p/why-aerobic-exercise-is-good-for)
 * [2023-11-21, 15:35:20](https://news.ycombinator.com/item?id=38365023) - [No evidence screen time is negative for child cognitive development, well-being](https://www.oii.ox.ac.uk/news-events/no-evidence-screen-time-is-negative-for-childrens-cognitive-development-and-well-being-oxford-study/)
@@ -22,7 +23,6 @@
 * [2023-11-21, 08:25:41](https://news.ycombinator.com/item?id=38360927) - [Realtime Planet Shader: Interactive 3D planet animation](https://jsulpis.github.io/realtime-planet-shader/earth/)
 * [2023-11-21, 08:06:23](https://news.ycombinator.com/item?id=38360776) - [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
 * [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
-* [2023-11-21, 06:33:21](https://news.ycombinator.com/item?id=38360135) - [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
 * [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-21, 00:40:57](https://news.ycombinator.com/item?id=38357167) - [Scientists uncover aurora-like radio emission above a sunspot](https://phys.org/news/2023-11-scientists-uncover-aurora-like-radio-emission.html)
 * [2023-11-20, 13:35:31](https://news.ycombinator.com/item?id=38347771) - [Stadium card stunts and the art of programming a crowd](https://www.engadget.com/hitting-the-books-code-to-joy-michael-l-littman-mit-press-153036241.html)

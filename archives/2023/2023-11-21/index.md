@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 16:35:02](https://news.ycombinator.com/item?id=38365934) - [Anthropic announces Claude 2.1 – 200k context, less refusals](https://www.anthropic.com/index/claude-2-1)
 * [2023-11-21, 16:16:38](https://news.ycombinator.com/item?id=38365638) - [Show HN: New visual language for teaching kids to code](https://pickcode.io)
 * [2023-11-21, 16:12:04](https://news.ycombinator.com/item?id=38365582) - [Aerobic exercise is good for the brain; easy wins for behaviour change](https://brainpizza.substack.com/p/why-aerobic-exercise-is-good-for)
 * [2023-11-21, 15:35:20](https://news.ycombinator.com/item?id=38365023) - [No evidence screen time is negative for child cognitive development, well-being](https://www.oii.ox.ac.uk/news-events/no-evidence-screen-time-is-negative-for-childrens-cognitive-development-and-well-being-oxford-study/)
