@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2023-11-21, 22:19:32",
+      "https://news.ycombinator.com/item?id=38371213"
+    ],
+    [
+      "OpenAI API and ChatGTP Outage",
+      "https://status.openai.com/incidents/n254wyd7nml7"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 22:13:51",
       "https://news.ycombinator.com/item?id=38371126"
     ],
     [
       "Genetic Algorithms for Evolution of QWOP Gaits",
       "https://arxiv.org/abs/2311.09234"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 22:12:38",
-      "https://news.ycombinator.com/item?id=38371115"
-    ],
-    [
-      "Claude 2.1 Refuses to kill a Python process",
-      "https://old.reddit.com/r/LocalLLaMA/comments/180p17f/new_claude_21_refuses_to_kill_a_python_process/"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "ChatGPT with voice is now available to all free users",
       "https://twitter.com/OpenAI/status/1727065166188274145"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 21:11:23",
+      "https://news.ycombinator.com/item?id=38370203"
+    ],
+    [
+      "Children, left behind by suburbia, need better community design",
+      "https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2023-11-21, 14:02:15",
+      "https://news.ycombinator.com/item?id=38363698"
+    ],
+    [
+      "Mistakes in the Design of CSS (2013)",
+      "https://wiki.csswg.org/ideas/mistakes"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 12:32:26",
       "https://news.ycombinator.com/item?id=38362762"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-11-21, 00:44:39",
-      "https://news.ycombinator.com/item?id=38357191"
-    ],
-    [
-      "Early-life stress changes more genes in the brain than a head injury in rats",
-      "https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 18:08:34",
       "https://news.ycombinator.com/item?id=38351797"
     ],
     [
       "Solving duplicate data with performant deduplication",
       "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 08:39:48",
-      "https://news.ycombinator.com/item?id=38344822"
-    ],
-    [
-      "Improving the efficiency of your regular expressions",
-      "https://abseil.io/fast/21"
     ]
   ],
   [
