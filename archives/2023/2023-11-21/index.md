@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 01:39:26](https://news.ycombinator.com/item?id=38357691) - [OpenAI board faces growing revolt over Sam Altman's ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
+* [2023-11-21, 01:32:38](https://news.ycombinator.com/item?id=38357629) - [OpenAI approached Anthropic about merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger)
+* [2023-11-21, 01:30:27](https://news.ycombinator.com/item?id=38357608) - [TinaCMS Is Now Open-Source](https://tina.io/blog/Tinacms-is-now-fully-open-source/)
 * [2023-11-21, 01:29:49](https://news.ycombinator.com/item?id=38357602) - [Google AI and Former OpenAI researcher: Sam Altman lied and was manipulative](https://twitter.com/geoffreyirving/status/1726754277618491416)
+* [2023-11-21, 01:07:06](https://news.ycombinator.com/item?id=38357389) - [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
 * [2023-11-21, 00:47:00](https://news.ycombinator.com/item?id=38357206) - [X Corp. vs. Media Matters for America et al.](https://www.plainsite.org/dockets/52oouzfga/texas-northern-district-court/x-corp-v-media-matters-for-america-et-al/)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
