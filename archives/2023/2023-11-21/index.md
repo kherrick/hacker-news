@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 22:16:43](https://news.ycombinator.com/item?id=38371169) - [ChatGPT Experiencing 'Elevated Errors'](https://status.openai.com)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
+* [2023-11-21, 22:12:38](https://news.ycombinator.com/item?id=38371115) - [Claude 2.1 Refuses to kill a Python process](https://old.reddit.com/r/LocalLLaMA/comments/180p17f/new_claude_21_refuses_to_kill_a_python_process/)
 * [2023-11-21, 21:35:25](https://news.ycombinator.com/item?id=38370580) - [Flipboard Steps Back from Tweeting](https://flipboard.medium.com/flipboard-steps-back-from-tweeting-b0f4af1f4ffc)
 * [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [OpenAI's CEO Shear left in the dark, planning to leave if evidence not provided](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
+* [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT with voice is now available to all free users](https://twitter.com/OpenAI/status/1727065166188274145)
 * [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT Voice for All Free Users Announced (By Greg Brockman)](https://twitter.com/gdb/status/1727067288740970877)
 * [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
 * [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)

@@ -87,6 +87,7 @@
 * [2023-11-19, 10:19:21](https://news.ycombinator.com/item?id=38331200) - [Deep Learning Course](https://fleuret.org/dlc/)
 * [2023-11-19, 10:14:19](https://news.ycombinator.com/item?id=38331173) - [FSL: A License for the Bazaar, Not the Cathedral](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)
 * [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
+* [2023-11-19, 09:48:26](https://news.ycombinator.com/item?id=38330992) - [You Rarely Get Greenfield Projects (Or Do You?)](https://tommcfarlin.com/greenfield-projects/)
 * [2023-11-19, 09:48:17](https://news.ycombinator.com/item?id=38330989) - [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21?gi=61ce87d573e8)
 * [2023-11-19, 09:33:47](https://news.ycombinator.com/item?id=38330877) - [How to Shuffle Songs? (2014)](https://engineering.atspotify.com/2014/02/how-to-shuffle-songs/)
 * [2023-11-19, 08:37:38](https://news.ycombinator.com/item?id=38330512) - [Sam Altman 'was working on new venture' before sacking from OpenAI](https://www.theguardian.com/technology/2023/nov/18/earthquake-at-chatgpt-developer-as-senior-staff-quit-after-sacking-of-boss-sam-altman)
