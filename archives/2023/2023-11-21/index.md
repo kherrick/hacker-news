@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 * [2023-11-21, 04:11:50](https://news.ycombinator.com/item?id=38359097) - [OpenAI Employees Say Firm's Chief Scientist Has Been Making Spiritual Claims](https://futurism.com/openai-employees-say-firms-chief-scientist-has-been-making-strange-spiritual-claims)
 * [2023-11-21, 04:09:07](https://news.ycombinator.com/item?id=38359070) - [NYT interviews Sam Altman (11/20/23)](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
 * [2023-11-21, 03:57:26](https://news.ycombinator.com/item?id=38358971) - [Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds](https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/)

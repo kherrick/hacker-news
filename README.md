@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-21, 04:11:50](https://news.ycombinator.com/item?id=38359097) - [OpenAI Employees Say Firm's Chief Scientist Has Been Making Spiritual Claims](https://futurism.com/openai-employees-say-firms-chief-scientist-has-been-making-strange-spiritual-claims)
+* [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 * [2023-11-21, 04:09:07](https://news.ycombinator.com/item?id=38359070) - [NYT interviews former OpenAI CEO Sam Altman (11/20/23)](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
-* [2023-11-21, 03:57:26](https://news.ycombinator.com/item?id=38358971) - [Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds](https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/)
 * [2023-11-21, 03:41:05](https://news.ycombinator.com/item?id=38358821) - [The Next Power Plant Is on the Roof and in the Basement](https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement)
 * [2023-11-21, 03:39:23](https://news.ycombinator.com/item?id=38358808) - [Sorry doubters, Starship had a remarkably successful flight](https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/)
-* [2023-11-21, 03:33:06](https://news.ycombinator.com/item?id=38358760) - [Tesla Model 3 fault rate is the highest of any car: report](https://cleanenergyrevolution.co/2023/11/20/tesla-model-3-fault-rate-is-the-highest-of-any-car-report/)
 * [2023-11-21, 01:56:51](https://news.ycombinator.com/item?id=38357870) - [TX AG Pax­ton Opens Inves­ti­ga­tion into Media Mat­ters](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-media-matters-potential-fraudulent-activity)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:20:48](https://news.ycombinator.com/item?id=38357513) - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
@@ -13,6 +11,7 @@
 * [2023-11-20, 23:56:00](https://news.ycombinator.com/item?id=38356768) - [British Library has been offline for three weeks](https://twitter.com/britishlibrary/status/1726618361398722754)
 * [2023-11-20, 23:31:57](https://news.ycombinator.com/item?id=38356534) - [OpenAI's employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
 * [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC charges Kraken for operating as an unregistered securities exchange](https://www.sec.gov/news/press-release/2023-237)
+* [2023-11-20, 21:58:36](https://news.ycombinator.com/item?id=38355503) - [Inhibition of ALDH2 by quercetin glucuronide to explain red wine headaches](https://www.nature.com/articles/s41598-023-46203-y)
 * [2023-11-20, 21:58:33](https://news.ycombinator.com/item?id=38355502) - [Finley (YC W21) Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2023-11-20, 21:18:00](https://news.ycombinator.com/item?id=38354939) - [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
 * [2023-11-20, 21:16:35](https://news.ycombinator.com/item?id=38354918) - [FreeBSD 14.0-Release](https://www.freebsd.org/releases/14.0R/announce/)
@@ -28,6 +27,7 @@
 * [2023-11-20, 08:08:08](https://news.ycombinator.com/item?id=38344358) - [Anti Tank Vespa](https://en.wikipedia.org/wiki/Vespa_150_TAP)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [2023-11-20, 06:03:55](https://news.ycombinator.com/item?id=38343116) - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)
+* [2023-11-19, 12:54:59](https://news.ycombinator.com/item?id=38332226) - [The microtype package: Subliminal refinements towards typographical perfection [pdf]](https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf)
 * [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
 * [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 
