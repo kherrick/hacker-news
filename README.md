@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 17:31:11](https://news.ycombinator.com/item?id=38366830) - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 * [2023-11-21, 17:20:43](https://news.ycombinator.com/item?id=38366729) - [Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
 * [2023-11-21, 17:10:44](https://news.ycombinator.com/item?id=38366536) - [Code Search at Google: The Story of Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
 * [2023-11-21, 17:00:29](https://news.ycombinator.com/item?id=38366369) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
@@ -10,7 +11,6 @@
 * [2023-11-21, 15:34:03](https://news.ycombinator.com/item?id=38365002) - [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
 * [2023-11-21, 15:24:11](https://news.ycombinator.com/item?id=38364824) - [YouTube punishes ad-blocker users with slower videos on non-Chrome browsers](https://www.androidcentral.com/apps-software/youtube-loads-slower-on-firefox)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
-* [2023-11-21, 14:48:06](https://news.ycombinator.com/item?id=38364315) - [If needed, you have a role at Microsoft that matches your compensation](https://twitter.com/kevin_scott/status/1726971608706031670)
 * [2023-11-21, 14:43:25](https://news.ycombinator.com/item?id=38364262) - [GameMaker to be free for non-commercial purposes and have one-time fee license](https://gamemaker.io/en/blog/gamemaker-free-platforms)
 * [2023-11-21, 14:01:36](https://news.ycombinator.com/item?id=38363687) - ['AI' Is Supercharging Our Broken Healthcare System's Worst Tendencies](https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/)
 * [2023-11-21, 13:53:41](https://news.ycombinator.com/item?id=38363602) - [Super Mario RPG is an endearing, perplexing relic](https://www.polygon.com/reviews/23960636/super-mario-rpg-2023-switch-remake-review)

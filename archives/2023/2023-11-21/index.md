@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 17:31:11](https://news.ycombinator.com/item?id=38366830) - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 * [2023-11-21, 17:20:43](https://news.ycombinator.com/item?id=38366729) - [Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
 * [2023-11-21, 17:10:44](https://news.ycombinator.com/item?id=38366536) - [Code Search at Google: The Story of Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
 * [2023-11-21, 17:00:29](https://news.ycombinator.com/item?id=38366369) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
