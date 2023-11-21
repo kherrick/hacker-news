@@ -94,6 +94,7 @@
 * [2023-11-20, 06:29:01](https://news.ycombinator.com/item?id=38343385) - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 * [2023-11-20, 06:26:14](https://news.ycombinator.com/item?id=38343359) - [Edmund of Abingdon's Dream Job](https://www.historytoday.com/archive/out-margins/edmund-abingdons-dream-job)
 * [2023-11-20, 06:10:46](https://news.ycombinator.com/item?id=38343203) - [TIL you could make xkcd-like plots with matplotlib](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
+* [2023-11-20, 06:03:55](https://news.ycombinator.com/item?id=38343116) - [Windows is now an app for iPhones, iPads, Macs, and PCs](https://www.theverge.com/2023/11/16/23963568/microsoft-windows-app-ios-ipados-macos-web)
 * [2023-11-20, 05:43:07](https://news.ycombinator.com/item?id=38342913) - [Sam Altman not coming back as CEO of OpenAI](https://twitter.com/amir/status/1726465076843176224)
 * [2023-11-20, 05:22:12](https://news.ycombinator.com/item?id=38342670) - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion)
 * [2023-11-20, 05:19:57](https://news.ycombinator.com/item?id=38342643) - [The deal to bring Sam Altman back to OpenAI has fallen apart](https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo)

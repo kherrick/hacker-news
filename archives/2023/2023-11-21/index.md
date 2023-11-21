@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 04:09:07](https://news.ycombinator.com/item?id=38359070) - [NYT interviews Sam Altman (11/20/23)](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
 * [2023-11-21, 03:57:26](https://news.ycombinator.com/item?id=38358971) - [Framework Laptop prices go as low as $639 thanks to refurbs and factory seconds](https://arstechnica.com/gadgets/2023/11/framework-laptop-prices-go-as-low-as-639-thanks-to-refurbs-and-factory-seconds/)
 * [2023-11-21, 03:39:23](https://news.ycombinator.com/item?id=38358808) - [Sorry doubters, Starship had a remarkably successful flight](https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/)
 * [2023-11-21, 03:33:14](https://news.ycombinator.com/item?id=38358761) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
@@ -11,6 +12,7 @@
 * [2023-11-21, 03:08:44](https://news.ycombinator.com/item?id=38358541) - [X sues Media Matters to silence moderation criticism](https://www.theverge.com/2023/11/20/23970274/x-elon-musk-media-matters-lawsuit-nazi-ads-filed)
 * [2023-11-21, 02:52:59](https://news.ycombinator.com/item?id=38358413) - [Microsoft was not a winner of the events of the last few days around OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
 * [2023-11-21, 02:28:37](https://news.ycombinator.com/item?id=38358191) - [Homeowners Refuse to Accept the Awkward Truth: They're Rich](https://thewalrus.ca/homeowners-refuse-to-accept-the-awkward-truth-theyre-rich/)
+* [2023-11-21, 01:56:51](https://news.ycombinator.com/item?id=38357870) - [TX AG Pax­ton Opens Inves­ti­ga­tion into Media Mat­ters](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-opens-investigation-media-matters-potential-fraudulent-activity)
 * [2023-11-21, 01:44:47](https://news.ycombinator.com/item?id=38357736) - [How many Jacaranda trees are there in Sydney?](https://observablehq.com/@ldgrp/sydney-trees-jacaranda)
 * [2023-11-21, 01:42:51](https://news.ycombinator.com/item?id=38357719) - [OpenAI's board approached Anthropic about a potential merger](https://twitter.com/steph_palazzolo/status/1726775263051038849)
 * [2023-11-21, 01:39:26](https://news.ycombinator.com/item?id=38357691) - [OpenAI board faces growing revolt over Sam Altman's ousting](https://www.ft.com/content/54e36c93-08e5-4a9e-bda6-af673c3e9bb5)
