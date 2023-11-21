@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 19:34:22](https://news.ycombinator.com/item?id=38368791) - [Tyk AI Gateway – Robust AI Governance](https://tyk.io/blog/robust-ai-governance-is-critical-to-enterprise-adoption-and-implementation/)
+* [2023-11-21, 19:32:11](https://news.ycombinator.com/item?id=38368760) - [FBI director admits they rarely have Probable Cause for using NSA Collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)
 * [2023-11-21, 19:20:29](https://news.ycombinator.com/item?id=38368570) - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
 * [2023-11-21, 19:13:57](https://news.ycombinator.com/item?id=38368459) - [Maryland will hand out 133,000 Chromebooks to the public](https://statescoop.com/maryland-will-hand-out-133000-chromebooks-to-the-public/)
 * [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
@@ -45,6 +47,7 @@
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 * [2023-11-21, 10:10:25](https://news.ycombinator.com/item?id=38361699) - [Sam Altman Exposes the Charade of AI Accountability](https://www.bloomberg.com/opinion/articles/2023-11-20/openai-sam-altman-exposes-the-charade-of-ai-accountability)
 * [2023-11-21, 09:12:50](https://news.ycombinator.com/item?id=38361259) - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
+* [2023-11-21, 09:11:17](https://news.ycombinator.com/item?id=38361247) - [Zork Zcode Interpreters Appear Out of Nowhere](https://hackaday.com/2023/11/21/zork-zcode-interpreters-appear-out-of-nowhere/)
 * [2023-11-21, 09:08:01](https://news.ycombinator.com/item?id=38361218) - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
 * [2023-11-21, 08:56:26](https://news.ycombinator.com/item?id=38361135) - [My keyboard wasn't mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
