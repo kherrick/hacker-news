@@ -88,6 +88,7 @@
 * [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
 * [2023-11-20, 08:08:08](https://news.ycombinator.com/item?id=38344358) - [Anti Tank Vespa](https://en.wikipedia.org/wiki/Vespa_150_TAP)
 * [2023-11-20, 07:56:13](https://news.ycombinator.com/item?id=38344196) - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
+* [2023-11-20, 07:27:42](https://news.ycombinator.com/item?id=38343933) - [Interactive Common Lisp Development](https://www.n16f.net/blog/interactive-common-lisp-development/)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [2023-11-20, 06:43:05](https://news.ycombinator.com/item?id=38343510) - [Divide and Concur: A Radical Plan for Peace in Europe (1920)](https://publicdomainreview.org/collection/unionization-of-central-europe/)
 * [2023-11-20, 06:40:27](https://news.ycombinator.com/item?id=38343484) - [Kurt Vonnegut's House Is Not Haunted](https://www.theparisreview.org/blog/2023/11/15/kurt-vonneguts-house-is-not-haunted/)
