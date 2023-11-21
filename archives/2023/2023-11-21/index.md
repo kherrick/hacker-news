@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
 * [2023-11-21, 20:27:05](https://news.ycombinator.com/item?id=38369570) - [To the Board of Directors of OpenAI from former employees](https://board.net/p/r.e6a8f6578787a4cc67d4dc438c6d236e)
+* [2023-11-21, 20:16:01](https://news.ycombinator.com/item?id=38369433) - [I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 * [2023-11-21, 20:15:19](https://news.ycombinator.com/item?id=38369419) - [OpenAI investors keep pushing for Sam Altman’s return](https://www.wsj.com/tech/openai-employees-threaten-to-quit-unless-board-resigns-bbd5cc86)
 * [2023-11-21, 19:34:22](https://news.ycombinator.com/item?id=38368791) - [Tyk AI Gateway – Robust AI Governance](https://tyk.io/blog/robust-ai-governance-is-critical-to-enterprise-adoption-and-implementation/)
 * [2023-11-21, 19:32:11](https://news.ycombinator.com/item?id=38368760) - [FBI director admits they rarely have Probable Cause for using NSA Collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)

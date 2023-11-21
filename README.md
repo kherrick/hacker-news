@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-21, 20:27:05](https://news.ycombinator.com/item?id=38369570) - [To the Board of Directors of OpenAI from former employees](https://board.net/p/r.e6a8f6578787a4cc67d4dc438c6d236e)
+* [2023-11-21, 20:45:37](https://news.ycombinator.com/item?id=38369820) - [Google Chrome will limit ad blockers starting June 2024](https://arstechnica.com/gadgets/2023/11/google-chrome-will-limit-ad-blockers-starting-june-2024/)
+* [2023-11-21, 20:16:01](https://news.ycombinator.com/item?id=38369433) - [I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 * [2023-11-21, 20:15:19](https://news.ycombinator.com/item?id=38369419) - [OpenAI investors keep pushing for Sam Altman’s return](https://www.wsj.com/tech/openai-employees-threaten-to-quit-unless-board-resigns-bbd5cc86)
 * [2023-11-21, 19:32:11](https://news.ycombinator.com/item?id=38368760) - [FBI director admits they rarely have probable cause for using NSA collections](https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/)
 * [2023-11-21, 19:20:29](https://news.ycombinator.com/item?id=38368570) - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
@@ -23,7 +24,6 @@
 * [2023-11-21, 09:11:17](https://news.ycombinator.com/item?id=38361247) - [Zork Zcode Interpreters Appear Out of Nowhere](https://hackaday.com/2023/11/21/zork-zcode-interpreters-appear-out-of-nowhere/)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 08:44:36](https://news.ycombinator.com/item?id=38361053) - [A Node, TypeScript, TS-Node and ESM experience that works](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
-* [2023-11-21, 08:25:41](https://news.ycombinator.com/item?id=38360927) - [Realtime Planet Shader: Interactive 3D planet animation](https://jsulpis.github.io/realtime-planet-shader/earth/)
 * [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
 * [2023-11-21, 06:38:19](https://news.ycombinator.com/item?id=38360162) - [Joyce Carol Oates's Relentless, Prolific Search for a Self](https://www.newyorker.com/magazine/2023/11/27/joyce-carol-oates-profile)
 * [2023-11-21, 06:32:32](https://news.ycombinator.com/item?id=38360128) - [Vector Packet Processing](https://www.netgate.com/resources/articles-vector-packet-processing)
