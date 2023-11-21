@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-21, 08:56:26",
+      "https://news.ycombinator.com/item?id=38361135"
+    ],
+    [
+      "My keyboard wasn't mechanical enough, so I upgraded to a rotary phone",
+      "https://twitter.com/aschmelyun/status/1726584677799272515"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 08:13:42",
       "https://news.ycombinator.com/item?id=38360827"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-11-21, 06:58:09",
-      "https://news.ycombinator.com/item?id=38360304"
-    ],
-    [
-      "China's New(ish) SW26010-Pro Supercomputer at SC23",
-      "https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 06:35:48",
       "https://news.ycombinator.com/item?id=38360148"
     ],
@@ -67,6 +67,16 @@
     [
       "RFC 9498 on the GNU Name System",
       "https://www.rfc-editor.org/info/rfc9498"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 06:10:49",
+      "https://news.ycombinator.com/item?id=38360005"
+    ],
+    [
+      "OpenAI's Board Approached Anthropic CEO About Top Job and Merger",
+      "https://slashdot.org/story/23/11/21/0458214/openais-board-approached-anthropic-ceo-about-top-job-and-merger"
     ]
   ],
   [
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2023-11-20, 17:34:50",
-      "https://news.ycombinator.com/item?id=38351195"
-    ],
-    [
-      "15-150: Principles of Functional Programming",
-      "https://brandonspark.github.io/150/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 17:34:39",
-      "https://news.ycombinator.com/item?id=38351194"
-    ],
-    [
-      "NVK reaches Vulkan 1.0 conformance",
-      "https://www.collabora.com/news-and-blog/news-and-events/nvk-reaches-vulkan-conformance.html"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 08:08:08",
       "https://news.ycombinator.com/item?id=38344358"
     ],
     [
       "Anti Tank Vespa",
       "https://en.wikipedia.org/wiki/Vespa_150_TAP"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 07:30:51",
+      "https://news.ycombinator.com/item?id=38343957"
+    ],
+    [
+      "Architecture Patterns: The Circuit-Breaker",
+      "https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1"
     ]
   ],
   [
