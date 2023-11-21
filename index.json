@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38368760"
     ],
     [
-      "FBI director admits they rarely have Probable Cause for using NSA Collections",
+      "FBI director admits they rarely have probable cause for using NSA collections",
       "https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38368073"
     ],
     [
-      "Streamlining CI/CD Pipelines with Code: A Developer's Guide",
+      "Streamlining CI/CD Pipelines with Code",
       "https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Claude 2.1",
       "https://www.anthropic.com/index/claude-2-1"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 16:21:26",
-      "https://news.ycombinator.com/item?id=38365714"
-    ],
-    [
-      "OpenAI investors considering suing the board after CEO's abrupt firing",
-      "https://www.reuters.com/technology/openai-investors-considering-suing-board-after-ceos-abrupt-firing-sources-2023-11-20/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg",
       "https://northvolt.com/articles/northvolt-sodium-ion/"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 08:44:36",
+      "https://news.ycombinator.com/item?id=38361053"
+    ],
+    [
+      "A Node, TypeScript, TS-Node and ESM experience that works",
+      "https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc"
     ]
   ],
   [
