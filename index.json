@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-21, 17:10:44",
+      "https://news.ycombinator.com/item?id=38366536"
+    ],
+    [
+      "Code Search at Google: The Story of Han-Wen and Zoekt",
+      "https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 17:00:29",
       "https://news.ycombinator.com/item?id=38366369"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2023-11-21, 06:32:32",
+      "https://news.ycombinator.com/item?id=38360128"
+    ],
+    [
+      "Vector Packet Processing",
+      "https://www.netgate.com/resources/articles-vector-packet-processing"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 00:44:39",
       "https://news.ycombinator.com/item?id=38357191"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-11-20, 07:27:42",
-      "https://news.ycombinator.com/item?id=38343933"
-    ],
-    [
-      "Interactive Common Lisp Development",
-      "https://www.n16f.net/blog/interactive-common-lisp-development/"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 06:30:45",
       "https://news.ycombinator.com/item?id=38343398"
     ],
     [
       "A very subtle bug (2010)",
       "https://blog.nelhage.com/2010/02/a-very-subtle-bug/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 06:26:14",
-      "https://news.ycombinator.com/item?id=38343359"
-    ],
-    [
-      "Edmund of Abingdon's Dream Job",
-      "https://www.historytoday.com/archive/out-margins/edmund-abingdons-dream-job"
     ]
   ]
 ]
