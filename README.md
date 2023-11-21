@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 17:10:44](https://news.ycombinator.com/item?id=38366536) - [Code Search at Google: The Story of Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
 * [2023-11-21, 17:00:29](https://news.ycombinator.com/item?id=38366369) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2023-11-21, 16:55:50](https://news.ycombinator.com/item?id=38366295) - [Seven Signs of Ethical Collapse](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse/)
 * [2023-11-21, 16:35:02](https://news.ycombinator.com/item?id=38365934) - [Anthropic announces Claude 2.1 – 200k context, less refusals](https://www.anthropic.com/index/claude-2-1)
@@ -23,13 +24,12 @@
 * [2023-11-21, 08:25:41](https://news.ycombinator.com/item?id=38360927) - [Realtime Planet Shader: Interactive 3D planet animation](https://jsulpis.github.io/realtime-planet-shader/earth/)
 * [2023-11-21, 08:06:23](https://news.ycombinator.com/item?id=38360776) - [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
 * [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
+* [2023-11-21, 06:32:32](https://news.ycombinator.com/item?id=38360128) - [Vector Packet Processing](https://www.netgate.com/resources/articles-vector-packet-processing)
 * [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-21, 00:40:57](https://news.ycombinator.com/item?id=38357167) - [Scientists uncover aurora-like radio emission above a sunspot](https://phys.org/news/2023-11-scientists-uncover-aurora-like-radio-emission.html)
 * [2023-11-20, 13:35:31](https://news.ycombinator.com/item?id=38347771) - [Stadium card stunts and the art of programming a crowd](https://www.engadget.com/hitting-the-books-code-to-joy-michael-l-littman-mit-press-153036241.html)
 * [2023-11-20, 12:15:15](https://news.ycombinator.com/item?id=38346903) - [Knuth Airgaps and Knuth Buffers](https://taylor.town/knuth-airgap)
-* [2023-11-20, 07:27:42](https://news.ycombinator.com/item?id=38343933) - [Interactive Common Lisp Development](https://www.n16f.net/blog/interactive-common-lisp-development/)
 * [2023-11-20, 06:30:45](https://news.ycombinator.com/item?id=38343398) - [A very subtle bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
-* [2023-11-20, 06:26:14](https://news.ycombinator.com/item?id=38343359) - [Edmund of Abingdon's Dream Job](https://www.historytoday.com/archive/out-margins/edmund-abingdons-dream-job)
 
 ## [Archives](archives/index.md)
 

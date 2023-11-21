@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 17:10:44](https://news.ycombinator.com/item?id=38366536) - [Code Search at Google: The Story of Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
 * [2023-11-21, 17:00:29](https://news.ycombinator.com/item?id=38366369) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2023-11-21, 16:55:50](https://news.ycombinator.com/item?id=38366295) - [Seven Signs of Ethical Collapse](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse/)
 * [2023-11-21, 16:35:02](https://news.ycombinator.com/item?id=38365934) - [Anthropic announces Claude 2.1 – 200k context, less refusals](https://www.anthropic.com/index/claude-2-1)
@@ -49,6 +50,7 @@
 * [2023-11-21, 06:58:09](https://news.ycombinator.com/item?id=38360304) - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
 * [2023-11-21, 06:35:48](https://news.ycombinator.com/item?id=38360148) - [When do \"brains beat brawn\" in Chess? An experiment](https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment)
 * [2023-11-21, 06:33:21](https://news.ycombinator.com/item?id=38360135) - [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
+* [2023-11-21, 06:32:32](https://news.ycombinator.com/item?id=38360128) - [Vector Packet Processing](https://www.netgate.com/resources/articles-vector-packet-processing)
 * [2023-11-21, 06:29:45](https://news.ycombinator.com/item?id=38360111) - [How to Escape North Korea](https://unherd.com/2023/11/how-to-escape-north-korea/)
 * [2023-11-21, 06:10:49](https://news.ycombinator.com/item?id=38360005) - [OpenAI's Board Approached Anthropic CEO About Top Job and Merger](https://slashdot.org/story/23/11/21/0458214/openais-board-approached-anthropic-ceo-about-top-job-and-merger)
 * [2023-11-21, 05:19:11](https://news.ycombinator.com/item?id=38359655) - [Irving on Helen, Ilya, and Sam](https://twitter.com/geoffreyirving/status/1726754270224023971)
