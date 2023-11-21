@@ -2,6 +2,8 @@
 
 * [2023-11-21, 08:13:42](https://news.ycombinator.com/item?id=38360827) - [Find Legal Moves in Brass Birmingham with Datalog](https://blog.pzakrzewski.com/find-legal-moves-in-brass-birmingham-with-logic-programming)
 * [2023-11-21, 08:06:23](https://news.ycombinator.com/item?id=38360776) - [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
+* [2023-11-21, 07:56:33](https://news.ycombinator.com/item?id=38360709) - [RFC 9498: The GNU Name System](https://www.gnunet.org/de/news/2023-11-RFC9498.html)
+* [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
 * [2023-11-21, 06:58:09](https://news.ycombinator.com/item?id=38360304) - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
 * [2023-11-21, 06:35:48](https://news.ycombinator.com/item?id=38360148) - [When do \"brains beat brawn\" in Chess? An experiment](https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment)
 * [2023-11-21, 06:33:21](https://news.ycombinator.com/item?id=38360135) - [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
@@ -14,9 +16,7 @@
 * [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC charges Kraken for operating as an unregistered securities exchange](https://www.sec.gov/news/press-release/2023-237)
 * [2023-11-20, 21:58:33](https://news.ycombinator.com/item?id=38355502) - [Finley (YC W21) Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2023-11-20, 21:18:00](https://news.ycombinator.com/item?id=38354939) - [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
-* [2023-11-20, 21:16:35](https://news.ycombinator.com/item?id=38354918) - [FreeBSD 14.0-Release](https://www.freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:07:55](https://news.ycombinator.com/item?id=38354788) - [Increasing QUIC and UDP Throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
-* [2023-11-20, 21:02:11](https://news.ycombinator.com/item?id=38354700) - [Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think](https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/)
 * [2023-11-20, 20:44:03](https://news.ycombinator.com/item?id=38354422) - [Typst – Compose Papers Faster](https://typst.app/)
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)

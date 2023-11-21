@@ -6,6 +6,8 @@
 
 * [2023-11-21, 08:13:42](https://news.ycombinator.com/item?id=38360827) - [Find Legal Moves in Brass Birmingham with Datalog](https://blog.pzakrzewski.com/find-legal-moves-in-brass-birmingham-with-logic-programming)
 * [2023-11-21, 08:06:23](https://news.ycombinator.com/item?id=38360776) - [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
+* [2023-11-21, 07:56:33](https://news.ycombinator.com/item?id=38360709) - [RFC 9498: The GNU Name System](https://www.gnunet.org/de/news/2023-11-RFC9498.html)
+* [2023-11-21, 07:41:16](https://news.ycombinator.com/item?id=38360582) - [.NET Blazor](https://dusted.codes/dotnet-blazor)
 * [2023-11-21, 07:18:48](https://news.ycombinator.com/item?id=38360434) - [OpenAI board stands firm in face of staff revolt over Sam Altman's ouster](https://www.ft.com/content/7215167b-b3dc-4a09-b8db-b6b20b79239e)
 * [2023-11-21, 07:12:37](https://news.ycombinator.com/item?id=38360403) - [Linda Yaccarino: no single authentic user saw this content alongside IBM's ads](https://twitter.com/lindayaX/status/1726747531843915965)
 * [2023-11-21, 06:58:09](https://news.ycombinator.com/item?id=38360304) - [China's New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
