@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-21, 05:19:11](https://news.ycombinator.com/item?id=38359655) - [Irving on Helen, Ilya, and Sam](https://twitter.com/geoffreyirving/status/1726754270224023971)
 * [2023-11-21, 04:32:56](https://news.ycombinator.com/item?id=38359269) - [New Amazon AI initiative includes scholarships, free AI courses](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 * [2023-11-21, 04:09:07](https://news.ycombinator.com/item?id=38359070) - [NYT interviews former OpenAI CEO Sam Altman (11/20/23)](https://www.nytimes.com/2023/11/20/podcasts/mayhem-at-openai-our-interview-with-sam-altman.html)
 * [2023-11-21, 03:41:05](https://news.ycombinator.com/item?id=38358821) - [The Next Power Plant Is on the Roof and in the Basement](https://www.newyorker.com/news/daily-comment/the-next-power-plant-is-on-the-roof-and-in-the-basement)
@@ -29,6 +28,7 @@
 * [2023-11-19, 12:54:59](https://news.ycombinator.com/item?id=38332226) - [The microtype package: Subliminal refinements towards typographical perfection [pdf]](https://mirror.clientvps.com/CTAN/macros/latex/contrib/microtype/microtype.pdf)
 * [2023-11-19, 11:02:30](https://news.ycombinator.com/item?id=38331480) - [U.S. FCC says new rules will curb SIM swapping](https://arstechnica.com/security/2023/11/the-fcc-says-new-rules-will-curb-sim-swapping-im-pessimistic/)
 * [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
+* [2023-11-19, 09:33:47](https://news.ycombinator.com/item?id=38330877) - [How to Shuffle Songs? (2014)](https://engineering.atspotify.com/2014/02/how-to-shuffle-songs/)
 * [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 
 ## [Archives](archives/index.md)
