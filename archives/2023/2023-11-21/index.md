@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 * [2023-11-21, 12:28:27](https://news.ycombinator.com/item?id=38362719) - [Meta disbands Responsible AI team](https://www.computing.co.uk/news/4148616/meta-disbands-responsible-ai-team)
 * [2023-11-21, 12:20:20](https://news.ycombinator.com/item?id=38362652) - [OpenAI's board approached Anthropic CEO about top job and merger](https://www.reuters.com/technology/openais-board-approached-anthropic-ceo-about-top-job-merger-sources-2023-11-21/)
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)

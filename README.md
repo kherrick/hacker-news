@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 12:42:20](https://news.ycombinator.com/item?id=38362874) - [Easylkb: Easy Linux Kernel Builder](https://tmpout.sh/3/20.html)
 * [2023-11-21, 12:20:20](https://news.ycombinator.com/item?id=38362652) - [OpenAI's board approached Anthropic CEO about top job and merger](https://www.reuters.com/technology/openais-board-approached-anthropic-ceo-about-top-job-merger-sources-2023-11-21/)
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
 * [2023-11-21, 10:38:57](https://news.ycombinator.com/item?id=38361888) - [Blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
@@ -8,7 +9,7 @@
 * [2023-11-21, 09:08:01](https://news.ycombinator.com/item?id=38361218) - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 08:48:46](https://news.ycombinator.com/item?id=38361082) - [Kubernetes-Native Retro Game Streaming Written in Go](https://github.com/pod-arcade/pod-arcade)
-* [2023-11-21, 08:44:36](https://news.ycombinator.com/item?id=38361053) - [Finally, a guide for Node.js and TypeScript and ESM that works](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
+* [2023-11-21, 08:44:36](https://news.ycombinator.com/item?id=38361053) - [A Node, TypeScript, TS-Node and ESM experience that works](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
 * [2023-11-21, 08:44:02](https://news.ycombinator.com/item?id=38361049) - [The IDP Knowledge Base System](https://www.idp-z3.be/)
 * [2023-11-21, 08:25:41](https://news.ycombinator.com/item?id=38360927) - [Realtime Planet Shader: Interactive 3D planet animation](https://jsulpis.github.io/realtime-planet-shader/earth/)
 * [2023-11-21, 08:13:42](https://news.ycombinator.com/item?id=38360827) - [Find Legal Moves in Brass Birmingham with Datalog](https://blog.pzakrzewski.com/find-legal-moves-in-brass-birmingham-with-logic-programming)
@@ -18,7 +19,6 @@
 * [2023-11-21, 06:33:21](https://news.ycombinator.com/item?id=38360135) - [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
 * [2023-11-21, 02:12:44](https://news.ycombinator.com/item?id=38358032) - [Getting Started with Mistral-7b-Instruct-v0.1](https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/)
 * [2023-11-20, 23:31:57](https://news.ycombinator.com/item?id=38356534) - [OpenAI's employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
-* [2023-11-20, 21:58:33](https://news.ycombinator.com/item?id=38355502) - [Finley (YC W21) Is Hiring Capital Markets Team Members](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2023-11-20, 21:18:00](https://news.ycombinator.com/item?id=38354939) - [FDA considers first CRISPR gene editing treatment that may cure sickle cell](https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html)
 * [2023-11-20, 20:04:17](https://news.ycombinator.com/item?id=38353763) - [The Low Down on the Greatest Dictionary Collection in the World](https://www.atlasobscura.com/articles/biggest-dictionary-collection)
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
