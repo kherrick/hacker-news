@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-21, 10:19:53](https://news.ycombinator.com/item?id=38361758) - [In June 2024, ad blockers such as uBlock Origin will be disabled in Chrome 127](https://infosec.exchange/@catsalad/111426154930652642)
+* [2023-11-21, 10:10:25](https://news.ycombinator.com/item?id=38361699) - [Sam Altman Exposes the Charade of AI Accountability](https://www.bloomberg.com/opinion/articles/2023-11-20/openai-sam-altman-exposes-the-charade-of-ai-accountability)
 * [2023-11-21, 09:12:50](https://news.ycombinator.com/item?id=38361259) - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
 * [2023-11-21, 09:08:01](https://news.ycombinator.com/item?id=38361218) - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
 * [2023-11-21, 08:56:26](https://news.ycombinator.com/item?id=38361135) - [My keyboard wasn't mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
@@ -22,12 +24,10 @@
 * [2023-11-20, 19:47:49](https://news.ycombinator.com/item?id=38353473) - [Launch HN: Stralis (YC W23) – Hydrogen electric aircraft for medium-haul travel](https://news.ycombinator.com/item?id=38353473)
 * [2023-11-20, 19:35:27](https://news.ycombinator.com/item?id=38353285) - [LLMs cannot find reasoning errors, but can correct them](https://arxiv.org/abs/2311.08516)
 * [2023-11-20, 18:47:18](https://news.ycombinator.com/item?id=38352484) - [After Boeing declines to pay up, ransomware group leaks 45 GB of data](https://www.itbrew.com/stories/2023/11/17/after-boeing-declines-to-pay-up-ransomware-group-leaks-45-gb-of-data)
-* [2023-11-20, 13:35:31](https://news.ycombinator.com/item?id=38347771) - [Stadium card stunts and the art of programming a crowd](https://www.engadget.com/hitting-the-books-code-to-joy-michael-l-littman-mit-press-153036241.html)
 * [2023-11-20, 08:08:08](https://news.ycombinator.com/item?id=38344358) - [Anti Tank Vespa](https://en.wikipedia.org/wiki/Vespa_150_TAP)
 * [2023-11-20, 07:30:51](https://news.ycombinator.com/item?id=38343957) - [Architecture Patterns: The Circuit-Breaker](https://lab.scub.net/architecture-patterns-the-circuit-breaker-8f79280771f1)
 * [2023-11-20, 07:27:42](https://news.ycombinator.com/item?id=38343933) - [Interactive Common Lisp Development](https://www.n16f.net/blog/interactive-common-lisp-development/)
 * [2023-11-20, 07:08:53](https://news.ycombinator.com/item?id=38343748) - [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
-* [2023-11-19, 10:03:47](https://news.ycombinator.com/item?id=38331097) - [Xa: Open-source 6502 cross assembler](http://www.floodgap.com/retrotech/xa/)
 * [2023-11-19, 09:33:47](https://news.ycombinator.com/item?id=38330877) - [How to Shuffle Songs? (2014)](https://engineering.atspotify.com/2014/02/how-to-shuffle-songs/)
 * [2023-11-18, 10:40:23](https://news.ycombinator.com/item?id=38317893) - [Charging a lithium battery to 80% only?](https://electronics.stackexchange.com/questions/623358/wouldnt-charging-a-lithium-battery-to-80-only-defeat-the-purpose-of-putting-th)
 
