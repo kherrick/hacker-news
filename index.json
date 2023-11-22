@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-22, 15:07:49",
+      "https://news.ycombinator.com/item?id=38380240"
+    ],
+    [
+      "ZFS 2.2.1: Block Cloning disabled due to data corruption",
+      "https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 14:47:46",
       "https://news.ycombinator.com/item?id=38379916"
     ],
@@ -27,6 +37,36 @@
     [
       "EP–133",
       "https://teenage.engineering/products/ep-133"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 14:17:09",
+      "https://news.ycombinator.com/item?id=38379463"
+    ],
+    [
+      "US thwarted plot to kill Sikh separatist on American soil",
+      "https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 14:12:53",
+      "https://news.ycombinator.com/item?id=38379397"
+    ],
+    [
+      "Email obfuscation: What still works in 2023?",
+      "https://spencermortensen.com/articles/email-obfuscation/"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 13:52:13",
+      "https://news.ycombinator.com/item?id=38379108"
+    ],
+    [
+      "Microsoft's Windows Hello fingerprint authentication has been bypassed",
+      "https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability"
     ]
   ],
   [
@@ -111,6 +151,16 @@
   ],
   [
     [
+      "2023-11-22, 10:06:06",
+      "https://news.ycombinator.com/item?id=38377263"
+    ],
+    [
+      "The Hardware Lottery (2020)",
+      "https://hardwarelottery.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 09:38:46",
       "https://news.ycombinator.com/item?id=38377072"
     ],
@@ -147,16 +197,6 @@
     [
       "Running Windows 98 on the Browser",
       "https://copy.sh/v86/?profile=windows98"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 08:34:33",
-      "https://news.ycombinator.com/item?id=38376589"
-    ],
-    [
-      "Machine intelligence (2015)",
-      "https://blog.samaltman.com/machine-intelligence-part-1"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2023-11-21, 23:48:16",
-      "https://news.ycombinator.com/item?id=38372344"
-    ],
-    [
-      "Bypass Paywalls Clean combines all soft paywall hacks into one neat package",
-      "https://linuximpact.com/bypass-paywalls-clean-combines-all-soft-paywall-hacks-into-one-neat-package/"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 23:03:10",
       "https://news.ycombinator.com/item?id=38371808"
     ],
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2023-11-21, 14:37:04",
-      "https://news.ycombinator.com/item?id=38364179"
-    ],
-    [
-      "Margaret Mead, technocracy, and the origins of AI's ideological divide",
-      "https://resobscura.substack.com/p/margaret-mead-technocracy-and-the"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 11:45:11",
       "https://news.ycombinator.com/item?id=38362363"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-11-21, 09:17:00",
-      "https://news.ycombinator.com/item?id=38361290"
-    ],
-    [
-      "Skunk Works is all about getting to the prototype stage (2018)",
-      "https://www.thedrive.com/the-war-zone/21791/for-lockheed-martins-skunk-works-its-all-about-getting-to-the-prototype-stage"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 08:57:09",
       "https://news.ycombinator.com/item?id=38361139"
     ],
     [
       "Linux Kernel Documentation: NAND Error-Correction Code",
       "https://docs.kernel.org/driver-api/mtd/nand_ecc.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 00:46:58",
-      "https://news.ycombinator.com/item?id=38357205"
-    ],
-    [
-      "Brightest flash ever disturbed Earth's atmosphere last year",
-      "https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html"
     ]
   ]
 ]
