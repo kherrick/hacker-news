@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 15:29:20](https://news.ycombinator.com/item?id=38380544) - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
 * [2023-11-22, 15:07:49](https://news.ycombinator.com/item?id=38380240) - [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
 * [2023-11-22, 14:47:46](https://news.ycombinator.com/item?id=38379916) - [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
 * [2023-11-22, 14:35:14](https://news.ycombinator.com/item?id=38379731) - [Minification Is Evil](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/minification/)
