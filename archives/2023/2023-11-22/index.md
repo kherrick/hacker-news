@@ -6,6 +6,7 @@
 
 * [2023-11-22, 06:05:38](https://news.ycombinator.com/item?id=38375267) - [Sam Altman to Return to OpenAI as CEO](https://twitter.com/OpenAI/status/1727206187077370115)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI](https://twitter.com/OpenAI/status/1727205556136579362)
+* [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 * [2023-11-22, 04:05:14](https://news.ycombinator.com/item?id=38374624) - [GPT4V Watches a Basketball Game](https://old.reddit.com/r/ChatGPT/comments/17ywjsv/have_a_live_conversation_about_a_basketball_game/)
 * [2023-11-22, 01:50:41](https://news.ycombinator.com/item?id=38373586) - [How Does a Cave Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
 * [2023-11-22, 01:13:44](https://news.ycombinator.com/item?id=38373247) - [Bard Extensions](https://bard.google.com/extensions?hl=en)
