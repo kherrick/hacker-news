@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 20:16:00](https://news.ycombinator.com/item?id=38384528) - [Turns out, Meta's Threads is good for breaking news](https://www.businessinsider.com/sam-altman-fired-openai-test-meta-threads-breaking-news-2023-11)
 * [2023-11-22, 19:07:49](https://news.ycombinator.com/item?id=38383646) - [For RoR, see in production every method call, parameter and return value](https://callstacking.com/)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 18:31:01](https://news.ycombinator.com/item?id=38383099) - [All design and engineering of the original Tesla Roadster is now open source](https://twitter.com/elonmusk/status/1727392569238159491)
@@ -8,7 +9,6 @@
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 15:52:46](https://news.ycombinator.com/item?id=38380857) - [Sam Altman's Manifest Destiny (2016)](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
-* [2023-11-22, 15:17:36](https://news.ycombinator.com/item?id=38380377) - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
 * [2023-11-22, 15:15:43](https://news.ycombinator.com/item?id=38380344) - [GitHub Renamed Me (2014)](http://russbishop.net/github-renamed-me)
 * [2023-11-22, 15:01:38](https://news.ycombinator.com/item?id=38380137) - [VMware is now part of Broadcom](https://www.broadcom.com/info/vmware)
 * [2023-11-22, 14:47:46](https://news.ycombinator.com/item?id=38379916) - [MOVEit Hack at AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
