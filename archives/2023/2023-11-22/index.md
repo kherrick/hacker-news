@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 14:47:46](https://news.ycombinator.com/item?id=38379916) - [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
+* [2023-11-22, 14:35:14](https://news.ycombinator.com/item?id=38379731) - [Minification Is Evil](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/minification/)
 * [2023-11-22, 14:22:25](https://news.ycombinator.com/item?id=38379543) - [EP–133](https://teenage.engineering/products/ep-133)
 * [2023-11-22, 14:17:09](https://news.ycombinator.com/item?id=38379463) - [US thwarted plot to kill Sikh separatist on American soil](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
@@ -12,6 +14,7 @@
 * [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
 * [2023-11-22, 13:02:26](https://news.ycombinator.com/item?id=38378595) - [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 * [2023-11-22, 12:50:24](https://news.ycombinator.com/item?id=38378483) - [.NET 8's Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
+* [2023-11-22, 12:49:51](https://news.ycombinator.com/item?id=38378481) - [Rocket – Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/)
 * [2023-11-22, 12:46:33](https://news.ycombinator.com/item?id=38378455) - [Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper](https://www.phoronix.com/review/threadripper-7995wx-windows-linux)
 * [2023-11-22, 12:22:04](https://news.ycombinator.com/item?id=38378261) - [U.S. Naval Institute Fleet Tracker](https://news.usni.org/category/fleet-tracker)
 * [2023-11-22, 12:20:05](https://news.ycombinator.com/item?id=38378242) - [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
