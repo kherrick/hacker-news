@@ -64,6 +64,7 @@
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
 * [2023-11-21, 11:43:10](https://news.ycombinator.com/item?id=38362348) - ['People dance on tables': welcome to Belgrade's kafana pub culture](https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
+* [2023-11-21, 11:28:40](https://news.ycombinator.com/item?id=38362242) - [Fei-Fei Li wants AI reimagined from the ground up as a human-centered practice](https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/)
 * [2023-11-21, 10:38:57](https://news.ycombinator.com/item?id=38361888) - [How blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
 * [2023-11-21, 10:19:53](https://news.ycombinator.com/item?id=38361758) - [In June 2024, ad blockers such as uBlock Origin will be disabled in Chrome 127](https://infosec.exchange/@catsalad/111426154930652642)
 * [2023-11-21, 10:16:35](https://news.ycombinator.com/item?id=38361735) - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
