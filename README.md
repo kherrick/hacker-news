@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 17:10:44](https://news.ycombinator.com/item?id=38381918) - [It's never been a better time to switch to Firefox](https://www.androidpolice.com/never-been-better-time-switch-firefox-browser/)
 * [2023-11-22, 17:09:04](https://news.ycombinator.com/item?id=38381901) - [Robocar tech biz sues Nvidia, claims stolen code shared in Teams meeting blunder](https://www.theregister.com/2023/11/22/nvidia_sued_after_teams_meeting/)
 * [2023-11-22, 17:08:27](https://news.ycombinator.com/item?id=38381894) - [Self-proclaimed 'gay furry hackers' breach nuclear lab](https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
@@ -13,7 +14,6 @@
 * [2023-11-22, 14:16:49](https://news.ycombinator.com/item?id=38379456) - [Can we deter tech monopolies through reformed open source software development?](https://mastersofmedia.hum.uva.nl/blog/2019/03/26/can-we-deter-tech-monopolies-and-combat-income-inequality-through-a-reformed-open-source-software/)
 * [2023-11-22, 14:12:53](https://news.ycombinator.com/item?id=38379397) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2023-11-22, 13:52:13](https://news.ycombinator.com/item?id=38379108) - [Microsoft's Windows Hello fingerprint authentication has been bypassed](https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability)
-* [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
 * [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
 * [2023-11-22, 13:02:26](https://news.ycombinator.com/item?id=38378595) - [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 * [2023-11-22, 12:49:51](https://news.ycombinator.com/item?id=38378481) - [Rocket – Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/)
