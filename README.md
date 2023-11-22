@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-22, 14:17:09](https://news.ycombinator.com/item?id=38379463) - [US thwarted plot to kill Sikh separatist on American soil](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
 * [2023-11-22, 13:34:28](https://news.ycombinator.com/item?id=38378891) - [Sony facing $7.9B mass lawsuit over Playstation Store prices](https://www.reuters.com/technology/sony-facing-79-bln-mass-lawsuit-over-playstation-store-prices-2023-11-21/)
 * [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
@@ -28,6 +27,7 @@
 * [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
 * [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
+* [2023-11-21, 09:17:00](https://news.ycombinator.com/item?id=38361290) - [Skunk Works is all about getting to the prototype stage (2018)](https://www.thedrive.com/the-war-zone/21791/for-lockheed-martins-skunk-works-its-all-about-getting-to-the-prototype-stage)
 * [2023-11-21, 00:48:34](https://news.ycombinator.com/item?id=38357226) - [Phosphorous discovered in outskirts of the Milky Way](https://phys.org/news/2023-11-phosphorous-outskirts-milky.html)
 * [2023-11-21, 00:46:58](https://news.ycombinator.com/item?id=38357205) - [Brightest flash ever disturbed Earth's atmosphere last year](https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html)
 
