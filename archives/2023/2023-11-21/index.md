@@ -117,6 +117,7 @@
 * [2023-11-21, 01:20:48](https://news.ycombinator.com/item?id=38357513) - [My Free Speech Means You Have to Shut Up](https://popehat.substack.com/p/my-free-speech-means-you-have-to)
 * [2023-11-21, 01:07:06](https://news.ycombinator.com/item?id=38357389) - [Tech-Company Is Building Photorealistic Models of Cities Around the World](https://www.theb1m.com/video/this-tech-company-is-building-photorealistic-models-of-cities-around-the-world)
 * [2023-11-21, 00:47:00](https://news.ycombinator.com/item?id=38357206) - [X Corp. vs. Media Matters for America et al.](https://www.plainsite.org/dockets/52oouzfga/texas-northern-district-court/x-corp-v-media-matters-for-america-et-al/)
+* [2023-11-21, 00:46:58](https://news.ycombinator.com/item?id=38357205) - [Brightest flash ever disturbed Earth's atmosphere last year](https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html)
 * [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-21, 00:40:57](https://news.ycombinator.com/item?id=38357167) - [Scientists uncover aurora-like radio emission above a sunspot](https://phys.org/news/2023-11-scientists-uncover-aurora-like-radio-emission.html)
 * [2023-11-21, 00:36:26](https://news.ycombinator.com/item?id=38357137) - [Former GitHub CEO Friedman and Scale AI CEO Wang Declined OpenAI CEO Role](https://twitter.com/KateClarkTweets/status/1726732841730326862)
