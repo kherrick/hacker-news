@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 22:32:52](https://news.ycombinator.com/item?id=38386118) - [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
 * [2023-11-22, 21:30:56](https://news.ycombinator.com/item?id=38385419) - [Rogue, and Other Roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
 * [2023-11-22, 20:54:03](https://news.ycombinator.com/item?id=38384952) - [How do I become a graphics programmer? – A guide from AMD Game Engineering team](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 * [2023-11-22, 20:53:57](https://news.ycombinator.com/item?id=38384950) - [McKinsey and its consulting industry peers face headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
