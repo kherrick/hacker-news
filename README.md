@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [2023-11-22, 08:58:22](https://news.ycombinator.com/item?id=38376784) - [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
-* [2023-11-22, 08:34:33](https://news.ycombinator.com/item?id=38376589) - [Sam Altman: Why You Should Fear Machine Intelligence (2015)](https://blog.samaltman.com/machine-intelligence-part-1)
+* [2023-11-22, 08:34:33](https://news.ycombinator.com/item?id=38376589) - [Machine intelligence, part 1 (2015)](https://blog.samaltman.com/machine-intelligence-part-1)
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 * [2023-11-22, 01:50:41](https://news.ycombinator.com/item?id=38373586) - [How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
@@ -24,7 +25,6 @@
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
 * [2023-11-21, 14:02:15](https://news.ycombinator.com/item?id=38363698) - [Mistakes in the Design of CSS (2013)](https://wiki.csswg.org/ideas/mistakes)
 * [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
-* [2023-11-21, 11:43:10](https://news.ycombinator.com/item?id=38362348) - [Belgrade's kafana pub culture](https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture)
 * [2023-11-21, 09:17:00](https://news.ycombinator.com/item?id=38361290) - [Skunk Works Is All About Getting to the Prototype Stage](https://www.thedrive.com/the-war-zone/21791/for-lockheed-martins-skunk-works-its-all-about-getting-to-the-prototype-stage)
 * [2023-11-21, 06:52:32](https://news.ycombinator.com/item?id=38360260) - [Fluent Search](https://www.fluentsearch.net/)
 * [2023-11-21, 00:48:34](https://news.ycombinator.com/item?id=38357226) - [Phosphorous discovered in outskirts of the Milky Way](https://phys.org/news/2023-11-phosphorous-outskirts-milky.html)
