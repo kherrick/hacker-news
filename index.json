@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=38383138"
     ],
     [
-      "Show HN: Windmill – fastest open-source workflow engine – the how",
+      "Fastest self-hostable open-source workflow engine",
       "https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 18:17:12",
+      "https://news.ycombinator.com/item?id=38382910"
+    ],
+    [
+      "Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them",
+      "https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243"
     ]
   ],
   [
@@ -15,18 +25,18 @@
       "https://news.ycombinator.com/item?id=38382892"
     ],
     [
-      "Winklevoss twins' crypto firm Gemini sued over $689M in customer withdrawals",
+      "Gemini sued over $689M in customer withdrawals",
       "https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/"
     ]
   ],
   [
     [
-      "2023-11-22, 17:52:50",
-      "https://news.ycombinator.com/item?id=38382520"
+      "2023-11-22, 17:50:24",
+      "https://news.ycombinator.com/item?id=38382485"
     ],
     [
-      "If 95% doesn't count as a vote of no confidence, what number would?",
-      "https://twitter.com/paulg/status/1726936672875753952"
+      "Big Pharma gave $9M to dark money groups to fight drug pricing reform",
+      "https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/"
     ]
   ],
   [
@@ -156,7 +166,7 @@
     ],
     [
       "Writing and linting Python at scale",
-      "https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/"
+      "https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Are analytics good?",
       "https://www.todepond.com/wikiblogarden/social-media/analytics/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 12:46:33",
-      "https://news.ycombinator.com/item?id=38378455"
-    ],
-    [
-      "Ubuntu squeezes more performance than Windows 11 on new AMD Zen 4 Threadripper",
-      "https://www.phoronix.com/review/threadripper-7995wx-windows-linux"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Project managers, ducks, and dogs marking territory (2013)",
       "https://rachelbythebay.com/w/2013/06/05/duck/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 08:51:13",
-      "https://news.ycombinator.com/item?id=38376731"
-    ],
-    [
-      "Running Windows 98 in the Browser",
-      "https://copy.sh/v86/?profile=windows98"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Modular Hardware Design with Timeline Types [pdf]",
       "https://rachit.pl/files/pubs/filament.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 23:47:05",
+      "https://news.ycombinator.com/item?id=38356702"
+    ],
+    [
+      "Stack buffer overflow attack: 211BSD on the PDP-11",
+      "https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html"
     ]
   ],
   [
