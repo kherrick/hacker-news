@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-22, 19:04:29](https://news.ycombinator.com/item?id=38383604) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://www.bloomberg.com/news/articles/2023-11-22/openai-staff-mutiny-for-sam-altman-shows-rare-skills-equal-leverage)
 * [2023-11-22, 18:37:56](https://news.ycombinator.com/item?id=38383209) - [If you get cited in someone else's anti-trust Apple deactivate developer account](https://twitter.com/evankaloudis/status/1727336468920864844)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Fastest self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
@@ -24,6 +23,7 @@
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [2023-11-22, 09:13:46](https://news.ycombinator.com/item?id=38376885) - [Project managers, ducks, and dogs marking territory (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
+* [2023-11-22, 00:44:39](https://news.ycombinator.com/item?id=38372936) - [Yoyozo (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 * [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-21, 13:39:00](https://news.ycombinator.com/item?id=38363428) - [Insta360's Ace Pro combines Leica engineering with computational photography](https://petapixel.com/2023/11/21/insta360s-new-ace-pro-combines-leica-engineering-with-computational-photography/)
 * [2023-11-21, 08:57:09](https://news.ycombinator.com/item?id=38361139) - [NAND Error-correction Code](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
