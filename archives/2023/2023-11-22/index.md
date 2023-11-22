@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 14:17:09](https://news.ycombinator.com/item?id=38379463) - [US thwarted plot to kill Sikh separatist on American soil](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
 * [2023-11-22, 13:34:28](https://news.ycombinator.com/item?id=38378891) - [Sony facing $7.9B mass lawsuit over Playstation Store prices](https://www.reuters.com/technology/sony-facing-79-bln-mass-lawsuit-over-playstation-store-prices-2023-11-21/)
 * [2023-11-22, 13:32:45](https://news.ycombinator.com/item?id=38378874) - [I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
