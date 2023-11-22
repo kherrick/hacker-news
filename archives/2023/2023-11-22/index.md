@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 23:07:38](https://news.ycombinator.com/item?id=38386487) - [Sam Altman's ouster was precipitated by letter to board about AI breakthrough](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
 * [2023-11-22, 22:32:52](https://news.ycombinator.com/item?id=38386118) - [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
+* [2023-11-22, 22:23:23](https://news.ycombinator.com/item?id=38386013) - [SpaceX plans to sell shares next month at $150B valuation](https://nypost.com/2023/11/22/business/spacex-plans-to-sell-shares-next-month-at-150b-valuation-sources/)
 * [2023-11-22, 21:30:56](https://news.ycombinator.com/item?id=38385419) - [Rogue, and Other Roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
 * [2023-11-22, 20:54:03](https://news.ycombinator.com/item?id=38384952) - [How do I become a graphics programmer? – A guide from AMD Game Engineering team](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 * [2023-11-22, 20:53:57](https://news.ycombinator.com/item?id=38384950) - [McKinsey and its consulting industry peers face headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
@@ -69,6 +71,7 @@
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Sam Altman's been fired before. The polarizing past of OpenAI's reinstated CEO](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
 * [2023-11-22, 11:28:20](https://news.ycombinator.com/item?id=38377829) - [Is it too late to keep global warming below 1.5 °C?](https://www.nature.com/immersive/d41586-023-03601-6/index.html)
 * [2023-11-22, 11:27:55](https://news.ycombinator.com/item?id=38377826) - [Ridley Scott: Our Anglo-Saxon Maximus](https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/)
+* [2023-11-22, 11:22:27](https://news.ycombinator.com/item?id=38377779) - [Lectron (Raytheon electronic block kits)](http://www.decodesystems.com/lectron.html)
 * [2023-11-22, 10:55:42](https://news.ycombinator.com/item?id=38377608) - [Ridley Scott: Our Anglo-Saxon Maximus](https://americanaffairsjournal.org/2023/11/greening-the-void-climate-change-and-political-legitimacy/)
 * [2023-11-22, 10:06:06](https://news.ycombinator.com/item?id=38377263) - [The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
