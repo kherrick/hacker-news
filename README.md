@@ -22,7 +22,7 @@
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
 * [2023-11-21, 14:02:15](https://news.ycombinator.com/item?id=38363698) - [Mistakes in the Design of CSS (2013)](https://wiki.csswg.org/ideas/mistakes)
-* [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA Engineer Who Made the James Webb Space Telescope Work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
+* [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
 * [2023-11-21, 11:43:10](https://news.ycombinator.com/item?id=38362348) - [Belgrade's kafana pub culture](https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
 * [2023-11-21, 11:28:40](https://news.ycombinator.com/item?id=38362242) - [My north star for the future of AI](https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/)
