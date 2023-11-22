@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-11-22, 01:13:44",
+      "https://news.ycombinator.com/item?id=38373247"
+    ],
+    [
+      "Bard Extensions",
+      "https://bard.google.com/extensions?hl=en"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 01:06:17",
+      "https://news.ycombinator.com/item?id=38373191"
+    ],
+    [
+      "FTC authorizes compulsory process for AI-related products and services",
+      "https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 00:47:22",
       "https://news.ycombinator.com/item?id=38372972"
     ],
     [
       "Large pull requests slow down development",
       "https://graphite.dev/blog/how-large-prs-slow-down-development"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 00:20:40",
+      "https://news.ycombinator.com/item?id=38372687"
+    ],
+    [
+      "Bacteria store memories and pass them on for generations",
+      "https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-11-21, 18:54:53",
-      "https://news.ycombinator.com/item?id=38368272"
-    ],
-    [
-      "An attempted taxonomy of web components",
-      "https://www.zachleat.com/web/a-taxonomy-of-web-component-types/"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 17:31:11",
       "https://news.ycombinator.com/item?id=38366830"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-11-21, 12:32:26",
-      "https://news.ycombinator.com/item?id=38362762"
-    ],
-    [
-      "Can electricity pylons be beautiful?",
-      "https://www.bbc.com/news/uk-politics-66404487"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 12:07:46",
       "https://news.ycombinator.com/item?id=38362541"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38362348"
     ],
     [
-      "'People dance on tables': welcome to Belgrade's kafana pub culture",
+      "Belgrade's kafana pub culture",
       "https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture"
     ]
   ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2023-11-21, 10:16:35",
-      "https://news.ycombinator.com/item?id=38361735"
+      "2023-11-21, 06:35:48",
+      "https://news.ycombinator.com/item?id=38360148"
     ],
     [
-      "Orca 2: Teaching Small Language Models How to Reason",
-      "https://arxiv.org/abs/2311.11045"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 06:38:19",
-      "https://news.ycombinator.com/item?id=38360162"
-    ],
-    [
-      "Joyce Carol Oates's relentless, prolific search for a self",
-      "https://www.newyorker.com/magazine/2023/11/27/joyce-carol-oates-profile"
+      "When do \"brains beat brawn\" in chess? An experiment",
+      "https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment"
     ]
   ],
   [
