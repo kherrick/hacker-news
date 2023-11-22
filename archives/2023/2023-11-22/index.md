@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
 * [2023-11-22, 20:16:00](https://news.ycombinator.com/item?id=38384528) - [Turns out, Meta's Threads is good for breaking news](https://www.businessinsider.com/sam-altman-fired-openai-test-meta-threads-breaking-news-2023-11)
+* [2023-11-22, 20:07:49](https://news.ycombinator.com/item?id=38384434) - [Western Digital Releases 24TB Ultrastar and Gold Hard Drives, 28TB SMR Ramping](https://www.anandtech.com/show/21146/western-digital-ships-24tb-hdds-ramps-28tb-hard-drives)
 * [2023-11-22, 19:07:49](https://news.ycombinator.com/item?id=38383646) - [For RoR, see in production every method call, parameter and return value](https://callstacking.com/)
 * [2023-11-22, 19:04:29](https://news.ycombinator.com/item?id=38383604) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://www.bloomberg.com/news/articles/2023-11-22/openai-staff-mutiny-for-sam-altman-shows-rare-skills-equal-leverage)
 * [2023-11-22, 18:52:33](https://news.ycombinator.com/item?id=38383454) - [No females on the new OpenAI board, no scientists, no ethicists](https://twitter.com/Martina_Crane/status/1727358309014081617)
@@ -12,6 +13,7 @@
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Show HN: Windmill – fastest open-source workflow engine – the how](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 18:31:01](https://news.ycombinator.com/item?id=38383099) - [All design and engineering of the original Tesla Roadster is now open source](https://twitter.com/elonmusk/status/1727392569238159491)
 * [2023-11-22, 18:17:12](https://news.ycombinator.com/item?id=38382910) - [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
+* [2023-11-22, 18:17:06](https://news.ycombinator.com/item?id=38382907) - [Microsoft's internal memo about the chaos at OpenAI](https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai)
 * [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Winklevoss twins' crypto firm Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
 * [2023-11-22, 18:11:40](https://news.ycombinator.com/item?id=38382811) - [Bay Area nonprofit Signal shows how bloated tech companies have become](https://www.sfgate.com/tech/article/signal-meta-google-too-big-18496594.php)
 * [2023-11-22, 18:06:30](https://news.ycombinator.com/item?id=38382737) - [OpenAI: The Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board)

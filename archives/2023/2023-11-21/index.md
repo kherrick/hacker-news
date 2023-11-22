@@ -14,6 +14,7 @@
 * [2023-11-21, 22:16:43](https://news.ycombinator.com/item?id=38371169) - [ChatGPT Experiencing 'Elevated Errors'](https://status.openai.com)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
 * [2023-11-21, 22:12:38](https://news.ycombinator.com/item?id=38371115) - [Claude 2.1 Refuses to kill a Python process](https://old.reddit.com/r/LocalLLaMA/comments/180p17f/new_claude_21_refuses_to_kill_a_python_process/)
+* [2023-11-21, 21:50:25](https://news.ycombinator.com/item?id=38370799) - [Cliché-Verre and Friendship in 19th-Century France](https://publicdomainreview.org/essay/cliche-verre-and-friendship-in-19th-century-france/)
 * [2023-11-21, 21:35:25](https://news.ycombinator.com/item?id=38370580) - [Flipboard Steps Back from Tweeting](https://flipboard.medium.com/flipboard-steps-back-from-tweeting-b0f4af1f4ffc)
 * [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [OpenAI's CEO Shear left in the dark, planning to leave if evidence not provided](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
