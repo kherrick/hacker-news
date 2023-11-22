@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 20:43:33](https://news.ycombinator.com/item?id=38384828) - [Ask HN: Best Alternatives to OpenAI ChatGPT?](https://news.ycombinator.com/item?id=38384828)
+* [2023-11-22, 20:21:02](https://news.ycombinator.com/item?id=38384587) - [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
 * [2023-11-22, 20:16:00](https://news.ycombinator.com/item?id=38384528) - [Turns out, Meta's Threads is good for breaking news](https://www.businessinsider.com/sam-altman-fired-openai-test-meta-threads-breaking-news-2023-11)
 * [2023-11-22, 20:07:49](https://news.ycombinator.com/item?id=38384434) - [Western Digital Releases 24TB Ultrastar and Gold Hard Drives, 28TB SMR Ramping](https://www.anandtech.com/show/21146/western-digital-ships-24tb-hdds-ramps-28tb-hard-drives)
+* [2023-11-22, 20:00:23](https://news.ycombinator.com/item?id=38384334) - [Is primary OS a dealbreaker for you (when taking a new job)?](https://news.ycombinator.com/item?id=38384334)
 * [2023-11-22, 19:07:49](https://news.ycombinator.com/item?id=38383646) - [For RoR, see in production every method call, parameter and return value](https://callstacking.com/)
 * [2023-11-22, 19:04:29](https://news.ycombinator.com/item?id=38383604) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://www.bloomberg.com/news/articles/2023-11-22/openai-staff-mutiny-for-sam-altman-shows-rare-skills-equal-leverage)
 * [2023-11-22, 18:52:33](https://news.ycombinator.com/item?id=38383454) - [No females on the new OpenAI board, no scientists, no ethicists](https://twitter.com/Martina_Crane/status/1727358309014081617)
