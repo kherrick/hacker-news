@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-22, 21:30:56](https://news.ycombinator.com/item?id=38385419) - [Rogue, and Other Roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
+* [2023-11-22, 20:54:03](https://news.ycombinator.com/item?id=38384952) - [How do I become a graphics programmer? – A guide from AMD Game Engineering team](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 * [2023-11-22, 20:53:57](https://news.ycombinator.com/item?id=38384950) - [McKinsey and its consulting industry peers face headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
 * [2023-11-22, 20:21:02](https://news.ycombinator.com/item?id=38384587) - [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
 * [2023-11-22, 19:11:59](https://news.ycombinator.com/item?id=38383696) - [Army ants use collective intelligence to build bridges](https://www.npr.org/2023/11/21/1214246291/army-ants-architecture-science-robots-research)
@@ -15,7 +16,6 @@
 * [2023-11-22, 15:01:38](https://news.ycombinator.com/item?id=38380137) - [VMware is now part of Broadcom](https://www.broadcom.com/info/vmware)
 * [2023-11-22, 14:46:30](https://news.ycombinator.com/item?id=38379893) - [Fortran 2023](https://www.iso.org/standard/82170.html)
 * [2023-11-22, 14:12:53](https://news.ycombinator.com/item?id=38379397) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
-* [2023-11-22, 13:56:34](https://news.ycombinator.com/item?id=38379168) - [A Touch of Pwn – an investigation into fingerprint sensors for Windows Hello](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
 * [2023-11-22, 12:53:17](https://news.ycombinator.com/item?id=38378498) - [Launched Playtoob, a simple YouTube companion, because my 5yo daughter loves it](https://playtoob.com/)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Before OpenAI, Sam Altman was fired from Y Combinator by his mentor](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
