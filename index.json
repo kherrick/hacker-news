@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-11-21, 14:37:04",
-      "https://news.ycombinator.com/item?id=38364179"
-    ],
-    [
-      "Margaret Mead, technocracy, and the origins of AI's ideological divide",
-      "https://resobscura.substack.com/p/margaret-mead-technocracy-and-the"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 11:45:11",
       "https://news.ycombinator.com/item?id=38362363"
     ],
@@ -297,6 +287,16 @@
     [
       "Linux Kernel Documentation: NAND Error-Correction Code",
       "https://docs.kernel.org/driver-api/mtd/nand_ecc.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 05:48:23",
+      "https://news.ycombinator.com/item?id=38359863"
+    ],
+    [
+      "Modular Hardware Design with Timeline Types [pdf]",
+      "https://rachit.pl/files/pubs/filament.pdf"
     ]
   ]
 ]
