@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
+* [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
 * [2023-11-22, 15:54:45](https://news.ycombinator.com/item?id=38380887) - [An inordinate amount of our attention is afforded to rich children](https://gkeenan.co/avgb/an-inordinate-amount-of-our-attention-is-afforded-to-absurdly-rich-children)
 * [2023-11-22, 15:29:20](https://news.ycombinator.com/item?id=38380544) - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
 * [2023-11-22, 15:17:36](https://news.ycombinator.com/item?id=38380377) - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
+* [2023-11-22, 15:15:43](https://news.ycombinator.com/item?id=38380344) - [GitHub Renamed Me (2014)](http://russbishop.net/github-renamed-me)
 * [2023-11-22, 15:07:49](https://news.ycombinator.com/item?id=38380240) - [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
 * [2023-11-22, 14:47:46](https://news.ycombinator.com/item?id=38379916) - [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
 * [2023-11-22, 14:46:30](https://news.ycombinator.com/item?id=38379893) - [Fortran 2023 has been published](https://www.iso.org/standard/82170.html)
