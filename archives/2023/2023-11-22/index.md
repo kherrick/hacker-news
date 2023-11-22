@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 13:02:26](https://news.ycombinator.com/item?id=38378595) - [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 * [2023-11-22, 12:50:24](https://news.ycombinator.com/item?id=38378483) - [.NET 8's Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
 * [2023-11-22, 12:46:33](https://news.ycombinator.com/item?id=38378455) - [Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper](https://www.phoronix.com/review/threadripper-7995wx-windows-linux)
 * [2023-11-22, 12:22:04](https://news.ycombinator.com/item?id=38378261) - [U.S. Naval Institute Fleet Tracker](https://news.usni.org/category/fleet-tracker)
 * [2023-11-22, 12:20:05](https://news.ycombinator.com/item?id=38378242) - [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Sam Altman's been fired before. The polarizing past of OpenAI's reinstated CEO](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
+* [2023-11-22, 11:28:20](https://news.ycombinator.com/item?id=38377829) - [Is it too late to keep global warming below 1.5 °C?](https://www.nature.com/immersive/d41586-023-03601-6/index.html)
 * [2023-11-22, 11:27:55](https://news.ycombinator.com/item?id=38377826) - [Ridley Scott: Our Anglo-Saxon Maximus](https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/)
 * [2023-11-22, 10:55:42](https://news.ycombinator.com/item?id=38377608) - [Ridley Scott: Our Anglo-Saxon Maximus](https://americanaffairsjournal.org/2023/11/greening-the-void-climate-change-and-political-legitimacy/)
 * [2023-11-22, 10:06:06](https://news.ycombinator.com/item?id=38377263) - [The Hardware Lottery](https://hardwarelottery.github.io/)
