@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
 * [2023-11-22, 18:52:33](https://news.ycombinator.com/item?id=38383454) - [No females on the new OpenAI board, no scientists, no ethicists](https://twitter.com/Martina_Crane/status/1727358309014081617)
+* [2023-11-22, 18:37:56](https://news.ycombinator.com/item?id=38383209) - [If you get cited in someone else's anti-trust Apple deactivate developer account](https://twitter.com/evankaloudis/status/1727336468920864844)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Show HN: Windmill – fastest open-source workflow engine – the how](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 18:17:12](https://news.ycombinator.com/item?id=38382910) - [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
 * [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Winklevoss twins' crypto firm Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
@@ -15,6 +16,7 @@
 * [2023-11-22, 17:50:24](https://news.ycombinator.com/item?id=38382485) - [Big Pharma gave $9M to dark money groups to fight drug pricing reform](https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/)
 * [2023-11-22, 17:50:03](https://news.ycombinator.com/item?id=38382481) - [Researchers Develop a Flat Metalens That Can Change Its Focal Length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
 * [2023-11-22, 17:40:56](https://news.ycombinator.com/item?id=38382344) - [Hell is other people – Why individualism shrinks the next generation](https://woodfromeden.substack.com/p/hell-is-other-people-why-individualism)
+* [2023-11-22, 17:22:17](https://news.ycombinator.com/item?id=38382067) - [A writer's experience creating human-sounding articles using Claude AI](https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai)
 * [2023-11-22, 17:10:44](https://news.ycombinator.com/item?id=38381918) - [It's never been a better time to switch to Firefox](https://www.androidpolice.com/never-been-better-time-switch-firefox-browser/)
 * [2023-11-22, 17:09:04](https://news.ycombinator.com/item?id=38381901) - [Robocar tech biz sues Nvidia, claims stolen code shared in Teams meeting blunder](https://www.theregister.com/2023/11/22/nvidia_sued_after_teams_meeting/)
 * [2023-11-22, 17:08:27](https://news.ycombinator.com/item?id=38381894) - [Self-proclaimed 'gay furry hackers' breach nuclear lab](https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html)
@@ -22,6 +24,7 @@
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
 * [2023-11-22, 15:54:45](https://news.ycombinator.com/item?id=38380887) - [An inordinate amount of our attention is afforded to rich children](https://gkeenan.co/avgb/an-inordinate-amount-of-our-attention-is-afforded-to-absurdly-rich-children)
+* [2023-11-22, 15:52:46](https://news.ycombinator.com/item?id=38380857) - [Sam Altman's Manifest Destiny (2016)](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
 * [2023-11-22, 15:29:20](https://news.ycombinator.com/item?id=38380544) - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
 * [2023-11-22, 15:17:36](https://news.ycombinator.com/item?id=38380377) - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
 * [2023-11-22, 15:15:43](https://news.ycombinator.com/item?id=38380344) - [GitHub Renamed Me (2014)](http://russbishop.net/github-renamed-me)
