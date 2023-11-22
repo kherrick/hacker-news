@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38383138"
     ],
     [
-      "Fastest self-hostable open-source workflow engine",
+      "Fast self-hostable open-source workflow engine",
       "https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "Gemini sued over $689M in customer withdrawals",
       "https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 17:50:24",
-      "https://news.ycombinator.com/item?id=38382485"
-    ],
-    [
-      "Big Pharma gave $9M to dark money groups to fight drug pricing reform",
-      "https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/"
     ]
   ],
   [
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38382067"
     ],
     [
-      "A writer's experience creating human-sounding articles using Claude AI",
+      "My experience trying to write human-sounding articles using Claude AI",
       "https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Inflection-2: the next step up",
       "https://inflection.ai/inflection-2"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 15:15:43",
+      "https://news.ycombinator.com/item?id=38380344"
+    ],
+    [
+      "GitHub Renamed Me (2014)",
+      "http://russbishop.net/github-renamed-me"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=38372936"
     ],
     [
-      "Yoyozo (or, how I made a Playdate game in 39KB)",
+      "Yoyozo: How I made a Playdate game in 39k",
       "https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/"
     ]
   ],
