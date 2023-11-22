@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 17:08:27](https://news.ycombinator.com/item?id=38381894) - [Self-proclaimed 'gay furry hackers' breach nuclear lab](https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
 * [2023-11-22, 15:54:45](https://news.ycombinator.com/item?id=38380887) - [An inordinate amount of our attention is afforded to rich children](https://gkeenan.co/avgb/an-inordinate-amount-of-our-attention-is-afforded-to-absurdly-rich-children)

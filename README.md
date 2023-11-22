@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 17:08:27](https://news.ycombinator.com/item?id=38381894) - [Self-proclaimed 'gay furry hackers' breach nuclear lab](https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
 * [2023-11-22, 15:17:36](https://news.ycombinator.com/item?id=38380377) - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
@@ -24,7 +25,6 @@
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
-* [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 * [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
 * [2023-11-21, 08:57:09](https://news.ycombinator.com/item?id=38361139) - [Linux Kernel Documentation: NAND Error-Correction Code](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
