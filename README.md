@@ -2,7 +2,6 @@
 
 * [2023-11-22, 01:13:44](https://news.ycombinator.com/item?id=38373247) - [Bard Extensions](https://bard.google.com/extensions?hl=en)
 * [2023-11-22, 01:06:17](https://news.ycombinator.com/item?id=38373191) - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
-* [2023-11-22, 00:47:22](https://news.ycombinator.com/item?id=38372972) - [Large pull requests slow down development](https://graphite.dev/blog/how-large-prs-slow-down-development)
 * [2023-11-22, 00:20:40](https://news.ycombinator.com/item?id=38372687) - [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
 * [2023-11-21, 23:59:12](https://news.ycombinator.com/item?id=38372451) - [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
 * [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the gut's 'second brain,' key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
@@ -20,6 +19,7 @@
 * [2023-11-21, 17:20:43](https://news.ycombinator.com/item?id=38366729) - [Binance founder Changpeng Zhao agrees to step down, plead guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
 * [2023-11-21, 17:10:44](https://news.ycombinator.com/item?id=38366536) - [Code Search at Google: Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
 * [2023-11-21, 16:55:50](https://news.ycombinator.com/item?id=38366295) - [Seven signs of ethical collapse (2012)](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse/)
+* [2023-11-21, 16:35:02](https://news.ycombinator.com/item?id=38365934) - [Claude 2.1](https://www.anthropic.com/index/claude-2-1)
 * [2023-11-21, 16:16:38](https://news.ycombinator.com/item?id=38365638) - [Show HN: New visual language for teaching kids to code](https://pickcode.io)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
