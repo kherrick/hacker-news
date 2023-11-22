@@ -10,7 +10,6 @@
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 22:26:09](https://news.ycombinator.com/item?id=38371307) - [I tested four NVMe SSDs from four vendors – half lose FLUSH'd data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
-* [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [Sam Altman, OpenAI board open talks to negotiate his possible return](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
 * [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT with voice is now available to all free users](https://twitter.com/OpenAI/status/1727065166188274145)
 * [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
@@ -30,6 +29,7 @@
 * [2023-11-21, 06:52:32](https://news.ycombinator.com/item?id=38360260) - [Fluent Search](https://www.fluentsearch.net/)
 * [2023-11-21, 06:35:48](https://news.ycombinator.com/item?id=38360148) - [When do \"brains beat brawn\" in chess? An experiment](https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment)
 * [2023-11-21, 00:46:58](https://news.ycombinator.com/item?id=38357205) - [Brightest flash ever disturbed Earth's atmosphere last year](https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html)
+* [2023-11-20, 18:08:34](https://news.ycombinator.com/item?id=38351797) - [Solving duplicate data with performant deduplication](https://questdb.io/blog/solving-duplicate-data-performant-deduplication/)
 
 ## [Archives](archives/index.md)
 
