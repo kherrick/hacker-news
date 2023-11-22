@@ -27,9 +27,9 @@
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
 * [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
-* [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
 * [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
 * [2023-11-21, 08:57:09](https://news.ycombinator.com/item?id=38361139) - [Linux Kernel Documentation: NAND Error-Correction Code](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
+* [2023-11-21, 05:48:23](https://news.ycombinator.com/item?id=38359863) - [Modular Hardware Design with Timeline Types [pdf]](https://rachit.pl/files/pubs/filament.pdf)
 
 ## [Archives](archives/index.md)
 
