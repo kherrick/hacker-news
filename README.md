@@ -2,6 +2,7 @@
 
 * [2023-11-22, 13:34:28](https://news.ycombinator.com/item?id=38378891) - [Sony facing $7.9B mass lawsuit over Playstation Store prices](https://www.reuters.com/technology/sony-facing-79-bln-mass-lawsuit-over-playstation-store-prices-2023-11-21/)
 * [2023-11-22, 13:32:45](https://news.ycombinator.com/item?id=38378874) - [I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
+* [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
 * [2023-11-22, 13:02:26](https://news.ycombinator.com/item?id=38378595) - [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 * [2023-11-22, 12:50:24](https://news.ycombinator.com/item?id=38378483) - [.NET 8's Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
 * [2023-11-22, 12:46:33](https://news.ycombinator.com/item?id=38378455) - [Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper](https://www.phoronix.com/review/threadripper-7995wx-windows-linux)
@@ -19,7 +20,6 @@
 * [2023-11-22, 01:50:41](https://news.ycombinator.com/item?id=38373586) - [How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
 * [2023-11-22, 01:06:17](https://news.ycombinator.com/item?id=38373191) - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
 * [2023-11-22, 00:20:40](https://news.ycombinator.com/item?id=38372687) - [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
-* [2023-11-21, 23:48:16](https://news.ycombinator.com/item?id=38372344) - [Bypass Paywalls Clean combines all soft paywall hacks into one neat package](https://linuximpact.com/bypass-paywalls-clean-combines-all-soft-paywall-hacks-into-one-neat-package/)
 * [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the gut's 'second brain,' key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
