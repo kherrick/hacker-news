@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 12:50:24](https://news.ycombinator.com/item?id=38378483) - [.NET 8's Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
 * [2023-11-22, 12:46:33](https://news.ycombinator.com/item?id=38378455) - [Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper](https://www.phoronix.com/review/threadripper-7995wx-windows-linux)
+* [2023-11-22, 12:22:04](https://news.ycombinator.com/item?id=38378261) - [U.S. Naval Institute Fleet Tracker](https://news.usni.org/category/fleet-tracker)
 * [2023-11-22, 12:20:05](https://news.ycombinator.com/item?id=38378242) - [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Sam Altman's been fired before. The polarizing past of OpenAI's reinstated CEO](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
 * [2023-11-22, 11:27:55](https://news.ycombinator.com/item?id=38377826) - [Ridley Scott: Our Anglo-Saxon Maximus](https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/)
 * [2023-11-22, 10:06:06](https://news.ycombinator.com/item?id=38377263) - [The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
-* [2023-11-22, 09:13:46](https://news.ycombinator.com/item?id=38376885) - [Just remove the Duck (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
+* [2023-11-22, 09:13:46](https://news.ycombinator.com/item?id=38376885) - [Project managers, ducks, and dogs marking territory (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
 * [2023-11-22, 09:07:13](https://news.ycombinator.com/item?id=38376844) - [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
@@ -20,9 +22,6 @@
 * [2023-11-21, 22:26:09](https://news.ycombinator.com/item?id=38371307) - [I tested four NVMe SSDs from four vendors – half lose FLUSH'd data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
-* [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT with voice is now available to all free users](https://twitter.com/OpenAI/status/1727065166188274145)
-* [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
-* [2023-11-21, 19:20:29](https://news.ycombinator.com/item?id=38368570) - [Show HN: Neum AI – Open-source large-scale RAG framework](https://github.com/NeumTry/NeumAI)
 * [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
 * [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
@@ -30,6 +29,7 @@
 * [2023-11-21, 06:52:32](https://news.ycombinator.com/item?id=38360260) - [Fluent Search](https://www.fluentsearch.net/)
 * [2023-11-21, 00:48:34](https://news.ycombinator.com/item?id=38357226) - [Phosphorous discovered in outskirts of the Milky Way](https://phys.org/news/2023-11-phosphorous-outskirts-milky.html)
 * [2023-11-21, 00:46:58](https://news.ycombinator.com/item?id=38357205) - [Brightest flash ever disturbed Earth's atmosphere last year](https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html)
+* [2023-11-20, 18:08:34](https://news.ycombinator.com/item?id=38351797) - [Solving duplicate data with performant deduplication](https://questdb.io/blog/solving-duplicate-data-performant-deduplication/)
 
 ## [Archives](archives/index.md)
 
