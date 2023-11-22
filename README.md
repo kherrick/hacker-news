@@ -19,7 +19,6 @@
 * [2023-11-21, 17:20:43](https://news.ycombinator.com/item?id=38366729) - [Binance founder Changpeng Zhao agrees to step down, plead guilty](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
 * [2023-11-21, 17:10:44](https://news.ycombinator.com/item?id=38366536) - [Code Search at Google: Han-Wen and Zoekt](https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google)
 * [2023-11-21, 16:55:50](https://news.ycombinator.com/item?id=38366295) - [Seven signs of ethical collapse (2012)](https://www.scu.edu/ethics/focus-areas/business-ethics/resources/seven-signs-of-ethical-collapse/)
-* [2023-11-21, 16:35:02](https://news.ycombinator.com/item?id=38365934) - [Claude 2.1](https://www.anthropic.com/index/claude-2-1)
 * [2023-11-21, 16:16:38](https://news.ycombinator.com/item?id=38365638) - [Show HN: New visual language for teaching kids to code](https://pickcode.io)
 * [2023-11-21, 15:00:29](https://news.ycombinator.com/item?id=38364489) - [Candela P-12 taking off – Electric hydrofoiling passenger vessel [video]](https://www.youtube.com/watch?v=XSkjdfaHxhw)
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
@@ -28,6 +27,7 @@
 * [2023-11-21, 11:43:10](https://news.ycombinator.com/item?id=38362348) - [Belgrade's kafana pub culture](https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
 * [2023-11-21, 11:28:40](https://news.ycombinator.com/item?id=38362242) - [Fei-Fei Li wants AI reimagined from the ground up as a human-centered practice](https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/)
+* [2023-11-21, 06:52:32](https://news.ycombinator.com/item?id=38360260) - [Fluent Search](https://www.fluentsearch.net/)
 * [2023-11-21, 06:35:48](https://news.ycombinator.com/item?id=38360148) - [When do \"brains beat brawn\" in chess? An experiment](https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment)
 * [2023-11-20, 06:30:45](https://news.ycombinator.com/item?id=38343398) - [A very subtle bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 
