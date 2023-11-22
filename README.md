@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 17:09:04](https://news.ycombinator.com/item?id=38381901) - [Robocar tech biz sues Nvidia, claims stolen code shared in Teams meeting blunder](https://www.theregister.com/2023/11/22/nvidia_sued_after_teams_meeting/)
 * [2023-11-22, 17:08:27](https://news.ycombinator.com/item?id=38381894) - [Self-proclaimed 'gay furry hackers' breach nuclear lab](https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
@@ -21,7 +22,6 @@
 * [2023-11-22, 12:20:05](https://news.ycombinator.com/item?id=38378242) - [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [2023-11-22, 09:13:46](https://news.ycombinator.com/item?id=38376885) - [Project managers, ducks, and dogs marking territory (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
-* [2023-11-22, 09:07:13](https://news.ycombinator.com/item?id=38376844) - [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
