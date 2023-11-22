@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-11-22, 12:46:33",
+      "https://news.ycombinator.com/item?id=38378455"
+    ],
+    [
+      "Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper",
+      "https://www.phoronix.com/review/threadripper-7995wx-windows-linux"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 12:20:05",
+      "https://news.ycombinator.com/item?id=38378242"
+    ],
+    [
+      "Ultra Fast Bert",
+      "https://arxiv.org/abs/2311.10770"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 12:17:10",
+      "https://news.ycombinator.com/item?id=38378216"
+    ],
+    [
+      "Sam Altman's been fired before. The polarizing past of OpenAI's reinstated CEO",
+      "https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 11:27:55",
       "https://news.ycombinator.com/item?id=38377826"
     ],
     [
       "Ridley Scott: Our Anglo-Saxon Maximus",
       "https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 10:06:06",
+      "https://news.ycombinator.com/item?id=38377263"
+    ],
+    [
+      "The Hardware Lottery",
+      "https://hardwarelottery.github.io/"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2023-11-21, 20:16:01",
-      "https://news.ycombinator.com/item?id=38369433"
-    ],
-    [
-      "I kind of killed Mercurial at Mozilla",
-      "https://glandium.org/blog/?p=4346"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 19:20:29",
       "https://news.ycombinator.com/item?id=38368570"
     ],
@@ -207,36 +237,6 @@
     [
       "Stable Video Diffusion",
       "https://stability.ai/news/stable-video-diffusion-open-ai-video-model"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 17:31:11",
-      "https://news.ycombinator.com/item?id=38366830"
-    ],
-    [
-      "Video-LLaVA",
-      "https://github.com/PKU-YuanGroup/Video-LLaVA"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 17:20:43",
-      "https://news.ycombinator.com/item?id=38366729"
-    ],
-    [
-      "Binance founder Changpeng Zhao agrees to step down, plead guilty",
-      "https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 17:10:44",
-      "https://news.ycombinator.com/item?id=38366536"
-    ],
-    [
-      "Code Search at Google: Han-Wen and Zoekt",
-      "https://sourcegraph.com/blog/zoekt-creating-internal-tools-at-google"
     ]
   ],
   [
