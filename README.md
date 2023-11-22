@@ -24,7 +24,7 @@
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 * [2023-11-22, 01:50:41](https://news.ycombinator.com/item?id=38373586) - [How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
-* [2023-11-22, 01:06:17](https://news.ycombinator.com/item?id=38373191) - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
+* [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the gut's 'second brain,' key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 19:01:29](https://news.ycombinator.com/item?id=38368287) - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 * [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
