@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 23:59:12](https://news.ycombinator.com/item?id=38372451) - [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
 * [2023-11-21, 23:44:49](https://news.ycombinator.com/item?id=38372295) - [Is it legal to mix cash in a jar?](http://jpkoning.blogspot.com/2023/11/is-it-legal-to-mix-cash-in-jar.html)
 * [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the Gut's 'Second Brain,' Key Agents of Health Emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+* [2023-11-21, 22:26:09](https://news.ycombinator.com/item?id=38371307) - [I tested four NVMe SSDs from four vendors – half lose FLUSH'd data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
 * [2023-11-21, 22:19:32](https://news.ycombinator.com/item?id=38371213) - [OpenAI API and ChatGTP Outage](https://status.openai.com/incidents/n254wyd7nml7)
 * [2023-11-21, 22:16:43](https://news.ycombinator.com/item?id=38371169) - [ChatGPT Experiencing 'Elevated Errors'](https://status.openai.com)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
@@ -60,6 +62,7 @@
 * [2023-11-21, 12:28:27](https://news.ycombinator.com/item?id=38362719) - [Meta disbands Responsible AI team](https://www.computing.co.uk/news/4148616/meta-disbands-responsible-ai-team)
 * [2023-11-21, 12:20:20](https://news.ycombinator.com/item?id=38362652) - [OpenAI's board approached Anthropic CEO about top job and merger](https://www.reuters.com/technology/openais-board-approached-anthropic-ceo-about-top-job-merger-sources-2023-11-21/)
 * [2023-11-21, 12:07:46](https://news.ycombinator.com/item?id=38362541) - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
+* [2023-11-21, 11:43:10](https://news.ycombinator.com/item?id=38362348) - ['People dance on tables': welcome to Belgrade's kafana pub culture](https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
 * [2023-11-21, 10:38:57](https://news.ycombinator.com/item?id=38361888) - [How blogging is different from tweeting](https://markcarrigan.net/2023/05/22/how-blogging-is-different-from-tweeting/)
 * [2023-11-21, 10:19:53](https://news.ycombinator.com/item?id=38361758) - [In June 2024, ad blockers such as uBlock Origin will be disabled in Chrome 127](https://infosec.exchange/@catsalad/111426154930652642)
