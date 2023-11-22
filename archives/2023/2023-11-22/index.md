@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Show HN: Windmill – fastest open-source workflow engine – the how](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 18:17:12](https://news.ycombinator.com/item?id=38382910) - [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
 * [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Winklevoss twins' crypto firm Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
 * [2023-11-22, 18:11:40](https://news.ycombinator.com/item?id=38382811) - [Bay Area nonprofit Signal shows how bloated tech companies have become](https://www.sfgate.com/tech/article/signal-meta-google-too-big-18496594.php)

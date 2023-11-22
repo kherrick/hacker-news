@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-22, 18:11:40](https://news.ycombinator.com/item?id=38382811) - [Bay Area nonprofit Signal shows how bloated tech companies have become](https://www.sfgate.com/tech/article/signal-meta-google-too-big-18496594.php)
-* [2023-11-22, 18:06:30](https://news.ycombinator.com/item?id=38382737) - [OpenAI: The Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board)
-* [2023-11-22, 18:02:47](https://news.ycombinator.com/item?id=38382676) - [Altman's pattern of self-dealing behavior, led to PG firing him from YC in 2019](https://twitter.com/itsurboyevan/status/1727313113664332216)
+* [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Show HN: Windmill – fastest open-source workflow engine – the how](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
+* [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Winklevoss twins' crypto firm Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
 * [2023-11-22, 17:52:50](https://news.ycombinator.com/item?id=38382520) - [If 95% doesn't count as a vote of no confidence, what number would?](https://twitter.com/paulg/status/1726936672875753952)
 * [2023-11-22, 17:40:56](https://news.ycombinator.com/item?id=38382344) - [Hell is other people – Why individualism shrinks the next generation](https://woodfromeden.substack.com/p/hell-is-other-people-why-individualism)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
@@ -27,6 +26,7 @@
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 * [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-21, 13:39:00](https://news.ycombinator.com/item?id=38363428) - [Insta360's Ace Pro combines Leica engineering with computational photography](https://petapixel.com/2023/11/21/insta360s-new-ace-pro-combines-leica-engineering-with-computational-photography/)
+* [2023-11-21, 11:45:11](https://news.ycombinator.com/item?id=38362363) - [The NASA engineer who made the James Webb Space Telescope work (2022)](https://www.wsj.com/articles/nasa-james-webb-space-telescope-greg-robinson-images-11657137487)
 * [2023-11-21, 08:57:09](https://news.ycombinator.com/item?id=38361139) - [NAND Error-correction Code](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
 * [2023-11-21, 05:48:23](https://news.ycombinator.com/item?id=38359863) - [Modular Hardware Design with Timeline Types [pdf]](https://rachit.pl/files/pubs/filament.pdf)
 * [2023-11-20, 12:01:27](https://news.ycombinator.com/item?id=38346794) - [Best Practices for Time Travelers (2003)](https://idlewords.com/2003/09/best_practices_for_time_travelers.htm)
