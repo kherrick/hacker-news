@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
 * [2023-11-22, 06:19:44](https://news.ycombinator.com/item?id=38375406) - [OpenAI brings Sam Altman back as CEO](https://www.cnbc.com/2023/11/22/openai-brings-sam-altman-back-as-ceo-days-after-ouster.html)
 * [2023-11-22, 06:06:54](https://news.ycombinator.com/item?id=38375283) - [Sam Back at OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
 * [2023-11-22, 06:05:38](https://news.ycombinator.com/item?id=38375267) - [Sam Altman to Return to OpenAI as CEO](https://twitter.com/OpenAI/status/1727206187077370115)
