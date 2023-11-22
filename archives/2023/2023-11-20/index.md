@@ -6,6 +6,7 @@
 
 * [2023-11-20, 23:58:14](https://news.ycombinator.com/item?id=38356791) - [Satya Nadella says OpenAI governance needs to change](https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html)
 * [2023-11-20, 23:56:00](https://news.ycombinator.com/item?id=38356768) - [Cyberattack: British Library Has Been Offline for Three Weeks, No End in Sight](https://twitter.com/britishlibrary/status/1726618361398722754)
+* [2023-11-20, 23:47:05](https://news.ycombinator.com/item?id=38356702) - [Stack buffer overflow attack: 211BSD on the PDP-11](https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html)
 * [2023-11-20, 23:41:31](https://news.ycombinator.com/item?id=38356631) - [Nvidia introduces the H200 an AI-crunching monster GPU that may speed up ChatGPT](https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/)
 * [2023-11-20, 23:31:57](https://news.ycombinator.com/item?id=38356534) - [OpenAI's employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
 * [2023-11-20, 23:16:19](https://news.ycombinator.com/item?id=38356361) - [SEC Charges Kraken for Operating as an Unregistered Securities Exchange](https://www.sec.gov/news/press-release/2023-237)
