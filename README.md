@@ -6,11 +6,12 @@
 * [2023-11-22, 12:20:05](https://news.ycombinator.com/item?id=38378242) - [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Sam Altman's been fired before. The polarizing past of OpenAI's reinstated CEO](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
 * [2023-11-22, 11:27:55](https://news.ycombinator.com/item?id=38377826) - [Ridley Scott: Our Anglo-Saxon Maximus](https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/)
-* [2023-11-22, 10:06:06](https://news.ycombinator.com/item?id=38377263) - [The Hardware Lottery](https://hardwarelottery.github.io/)
+* [2023-11-22, 10:06:06](https://news.ycombinator.com/item?id=38377263) - [The Hardware Lottery (2020)](https://hardwarelottery.github.io/)
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [2023-11-22, 09:13:46](https://news.ycombinator.com/item?id=38376885) - [Project managers, ducks, and dogs marking territory (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
 * [2023-11-22, 09:07:13](https://news.ycombinator.com/item?id=38376844) - [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
+* [2023-11-22, 08:34:33](https://news.ycombinator.com/item?id=38376589) - [Machine intelligence (2015)](https://blog.samaltman.com/machine-intelligence-part-1)
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 * [2023-11-22, 01:50:41](https://news.ycombinator.com/item?id=38373586) - [How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
@@ -29,7 +30,6 @@
 * [2023-11-21, 06:52:32](https://news.ycombinator.com/item?id=38360260) - [Fluent Search](https://www.fluentsearch.net/)
 * [2023-11-21, 00:48:34](https://news.ycombinator.com/item?id=38357226) - [Phosphorous discovered in outskirts of the Milky Way](https://phys.org/news/2023-11-phosphorous-outskirts-milky.html)
 * [2023-11-21, 00:46:58](https://news.ycombinator.com/item?id=38357205) - [Brightest flash ever disturbed Earth's atmosphere last year](https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html)
-* [2023-11-20, 18:08:34](https://news.ycombinator.com/item?id=38351797) - [Solving duplicate data with performant deduplication](https://questdb.io/blog/solving-duplicate-data-performant-deduplication/)
 
 ## [Archives](archives/index.md)
 
