@@ -6,6 +6,7 @@
 * [2023-11-21, 23:59:12](https://news.ycombinator.com/item?id=38372451) - [Before Altman’s ouster, OpenAI’s board was divided and feuding](https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html)
 * [2023-11-21, 23:03:10](https://news.ycombinator.com/item?id=38371808) - [In the gut's 'second brain,' key agents of health emerge](https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121)
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+* [2023-11-21, 22:26:09](https://news.ycombinator.com/item?id=38371307) - [I tested four NVMe SSDs from four vendors – half lose FLUSH'd data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
 * [2023-11-21, 21:29:18](https://news.ycombinator.com/item?id=38370480) - [Sam Altman, OpenAI board open talks to negotiate his possible return](https://bloomberg.com/news/articles/2023-11-21/altman-openai-board-open-talks-to-negotiate-his-possible-return)
 * [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
@@ -28,7 +29,6 @@
 * [2023-11-21, 11:28:40](https://news.ycombinator.com/item?id=38362242) - [Fei-Fei Li wants AI reimagined from the ground up as a human-centered practice](https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/)
 * [2023-11-21, 06:52:32](https://news.ycombinator.com/item?id=38360260) - [Fluent Search](https://www.fluentsearch.net/)
 * [2023-11-21, 06:35:48](https://news.ycombinator.com/item?id=38360148) - [When do \"brains beat brawn\" in chess? An experiment](https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment)
-* [2023-11-21, 00:44:39](https://news.ycombinator.com/item?id=38357191) - [Early-life stress changes more genes in the brain than a head injury in rats](https://medicalxpress.com/news/2023-11-early-life-stress-genes-brain-injury.html)
 * [2023-11-20, 06:30:45](https://news.ycombinator.com/item?id=38343398) - [A very subtle bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 
 ## [Archives](archives/index.md)
