@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 15:54:45](https://news.ycombinator.com/item?id=38380887) - [An inordinate amount of our attention is afforded to rich children](https://gkeenan.co/avgb/an-inordinate-amount-of-our-attention-is-afforded-to-absurdly-rich-children)
 * [2023-11-22, 15:29:20](https://news.ycombinator.com/item?id=38380544) - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
+* [2023-11-22, 15:17:36](https://news.ycombinator.com/item?id=38380377) - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
 * [2023-11-22, 15:07:49](https://news.ycombinator.com/item?id=38380240) - [ZFS 2.2.1: Block Cloning disabled due to data corruption](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.1)
 * [2023-11-22, 14:47:46](https://news.ycombinator.com/item?id=38379916) - [185,000 Individuals Impacted by MOVEit Hack at Car Parts Giant AutoZone](https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/)
+* [2023-11-22, 14:46:30](https://news.ycombinator.com/item?id=38379893) - [Fortran 2023 has been published](https://www.iso.org/standard/82170.html)
 * [2023-11-22, 14:35:14](https://news.ycombinator.com/item?id=38379731) - [Minification Is Evil](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/minification/)
 * [2023-11-22, 14:22:25](https://news.ycombinator.com/item?id=38379543) - [EP–133](https://teenage.engineering/products/ep-133)
 * [2023-11-22, 14:17:09](https://news.ycombinator.com/item?id=38379463) - [US thwarted plot to kill Sikh separatist on American soil](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d)
+* [2023-11-22, 14:16:49](https://news.ycombinator.com/item?id=38379456) - [Can we deter tech monopolies through reformed open source software development?](https://mastersofmedia.hum.uva.nl/blog/2019/03/26/can-we-deter-tech-monopolies-and-combat-income-inequality-through-a-reformed-open-source-software/)
 * [2023-11-22, 14:12:53](https://news.ycombinator.com/item?id=38379397) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2023-11-22, 13:52:13](https://news.ycombinator.com/item?id=38379108) - [Microsoft's Windows Hello fingerprint authentication has been bypassed](https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
