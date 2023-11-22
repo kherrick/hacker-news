@@ -8,6 +8,7 @@
 * [2023-11-22, 10:55:42](https://news.ycombinator.com/item?id=38377608) - [Ridley Scott: Our Anglo-Saxon Maximus](https://americanaffairsjournal.org/2023/11/greening-the-void-climate-change-and-political-legitimacy/)
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [2023-11-22, 09:13:46](https://news.ycombinator.com/item?id=38376885) - [Just remove the Duck (2013)](https://rachelbythebay.com/w/2013/06/05/duck/)
+* [2023-11-22, 09:07:13](https://news.ycombinator.com/item?id=38376844) - [Ruby Tip – Interactive debugging without the need for gems](https://a-chacon.com/en/ruby/irb/tip/2023/11/20/ruby-tip-binding-irb.html)
 * [2023-11-22, 08:58:22](https://news.ycombinator.com/item?id=38376784) - [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
 * [2023-11-22, 08:34:33](https://news.ycombinator.com/item?id=38376589) - [Sam Altman: Why You Should Fear Machine Intelligence (2015)](https://blog.samaltman.com/machine-intelligence-part-1)
