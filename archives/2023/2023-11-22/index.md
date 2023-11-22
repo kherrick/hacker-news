@@ -78,6 +78,7 @@
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 * [2023-11-22, 06:19:44](https://news.ycombinator.com/item?id=38375406) - [OpenAI brings Sam Altman back as CEO](https://www.cnbc.com/2023/11/22/openai-brings-sam-altman-back-as-ceo-days-after-ouster.html)
 * [2023-11-22, 06:06:54](https://news.ycombinator.com/item?id=38375283) - [Sam Back at OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)
+* [2023-11-22, 06:06:10](https://news.ycombinator.com/item?id=38375273) - [Show HN: Sonic Garbage](https://sonicgarbage.greg.technology/)
 * [2023-11-22, 06:05:38](https://news.ycombinator.com/item?id=38375267) - [Sam Altman to Return to OpenAI as CEO](https://twitter.com/OpenAI/status/1727206187077370115)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI](https://twitter.com/OpenAI/status/1727205556136579362)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
