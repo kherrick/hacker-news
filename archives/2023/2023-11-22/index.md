@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 23:11:34](https://news.ycombinator.com/item?id=38386547) - [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
 * [2023-11-22, 23:07:38](https://news.ycombinator.com/item?id=38386487) - [Sam Altman's ouster was precipitated by letter to board about AI breakthrough](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
 * [2023-11-22, 22:32:52](https://news.ycombinator.com/item?id=38386118) - [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
 * [2023-11-22, 22:23:23](https://news.ycombinator.com/item?id=38386013) - [SpaceX plans to sell shares next month at $150B valuation](https://nypost.com/2023/11/22/business/spacex-plans-to-sell-shares-next-month-at-150b-valuation-sources/)
