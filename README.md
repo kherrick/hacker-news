@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 19:04:29](https://news.ycombinator.com/item?id=38383604) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://www.bloomberg.com/news/articles/2023-11-22/openai-staff-mutiny-for-sam-altman-shows-rare-skills-equal-leverage)
 * [2023-11-22, 18:37:56](https://news.ycombinator.com/item?id=38383209) - [If you get cited in someone else's anti-trust Apple deactivate developer account](https://twitter.com/evankaloudis/status/1727336468920864844)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Fastest self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
-* [2023-11-22, 18:17:12](https://news.ycombinator.com/item?id=38382910) - [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
 * [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
 * [2023-11-22, 17:50:24](https://news.ycombinator.com/item?id=38382485) - [Big Pharma gave $9M to dark money groups to fight drug pricing reform](https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/)
 * [2023-11-22, 17:50:03](https://news.ycombinator.com/item?id=38382481) - [Researchers Develop a Flat Metalens That Can Change Its Focal Length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
