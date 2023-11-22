@@ -17,7 +17,6 @@
 * [2023-11-22, 14:46:30](https://news.ycombinator.com/item?id=38379893) - [Fortran 2023](https://www.iso.org/standard/82170.html)
 * [2023-11-22, 14:12:53](https://news.ycombinator.com/item?id=38379397) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
-* [2023-11-22, 13:02:26](https://news.ycombinator.com/item?id=38378595) - [Are analytics good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 * [2023-11-22, 12:53:17](https://news.ycombinator.com/item?id=38378498) - [Launched Playtoob, a simple YouTube companion, because my 5yo daughter loves it](https://playtoob.com/)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Before OpenAI, Sam Altman was fired from Y Combinator by his mentor](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
 * [2023-11-22, 10:06:06](https://news.ycombinator.com/item?id=38377263) - [The Hardware Lottery (2020)](https://hardwarelottery.github.io/)
@@ -28,6 +27,7 @@
 * [2023-11-21, 21:50:25](https://news.ycombinator.com/item?id=38370799) - [Cliché-Verre and Friendship in 19th-Century France](https://publicdomainreview.org/essay/cliche-verre-and-friendship-in-19th-century-france/)
 * [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially faster language modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-21, 08:57:09](https://news.ycombinator.com/item?id=38361139) - [NAND Error-correction Code](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
+* [2023-11-21, 05:48:23](https://news.ycombinator.com/item?id=38359863) - [Modular Hardware Design with Timeline Types [pdf]](https://rachit.pl/files/pubs/filament.pdf)
 * [2023-11-20, 23:47:05](https://news.ycombinator.com/item?id=38356702) - [Stack buffer overflow attack: 211BSD on the PDP-11](https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html)
 * [2023-11-20, 12:01:27](https://news.ycombinator.com/item?id=38346794) - [Best Practices for Time Travelers (2003)](https://idlewords.com/2003/09/best_practices_for_time_travelers.htm)
 
