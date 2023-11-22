@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 18:06:30](https://news.ycombinator.com/item?id=38382737) - [OpenAI: The Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board)
 * [2023-11-22, 17:10:44](https://news.ycombinator.com/item?id=38381918) - [It's never been a better time to switch to Firefox](https://www.androidpolice.com/never-been-better-time-switch-firefox-browser/)
 * [2023-11-22, 17:09:04](https://news.ycombinator.com/item?id=38381901) - [Robocar tech biz sues Nvidia, claims stolen code shared in Teams meeting blunder](https://www.theregister.com/2023/11/22/nvidia_sued_after_teams_meeting/)
 * [2023-11-22, 17:08:27](https://news.ycombinator.com/item?id=38381894) - [Self-proclaimed 'gay furry hackers' breach nuclear lab](https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
+* [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
 * [2023-11-22, 15:54:45](https://news.ycombinator.com/item?id=38380887) - [An inordinate amount of our attention is afforded to rich children](https://gkeenan.co/avgb/an-inordinate-amount-of-our-attention-is-afforded-to-absurdly-rich-children)
 * [2023-11-22, 15:29:20](https://news.ycombinator.com/item?id=38380544) - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
@@ -21,6 +23,7 @@
 * [2023-11-22, 14:17:09](https://news.ycombinator.com/item?id=38379463) - [US thwarted plot to kill Sikh separatist on American soil](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d)
 * [2023-11-22, 14:16:49](https://news.ycombinator.com/item?id=38379456) - [Can we deter tech monopolies through reformed open source software development?](https://mastersofmedia.hum.uva.nl/blog/2019/03/26/can-we-deter-tech-monopolies-and-combat-income-inequality-through-a-reformed-open-source-software/)
 * [2023-11-22, 14:12:53](https://news.ycombinator.com/item?id=38379397) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
+* [2023-11-22, 13:56:34](https://news.ycombinator.com/item?id=38379168) - [A Touch of Pwn – an investigation into fingerprint sensors for Windows Hello](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/)
 * [2023-11-22, 13:52:13](https://news.ycombinator.com/item?id=38379108) - [Microsoft's Windows Hello fingerprint authentication has been bypassed](https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
 * [2023-11-22, 13:34:28](https://news.ycombinator.com/item?id=38378891) - [Sony facing $7.9B mass lawsuit over Playstation Store prices](https://www.reuters.com/technology/sony-facing-79-bln-mass-lawsuit-over-playstation-store-prices-2023-11-21/)

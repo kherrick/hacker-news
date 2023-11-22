@@ -51,6 +51,7 @@
 * [2023-11-21, 14:48:06](https://news.ycombinator.com/item?id=38364315) - [Kevin Scott (MSFT CTO) inviting all Open AI employees to join MSFT](https://twitter.com/kevin_scott/status/1726971608706031670)
 * [2023-11-21, 14:43:25](https://news.ycombinator.com/item?id=38364262) - [GameMaker to be free for non-commercial purposes and have one-time fee license](https://gamemaker.io/en/blog/gamemaker-free-platforms)
 * [2023-11-21, 14:37:04](https://news.ycombinator.com/item?id=38364179) - [Margaret Mead, technocracy, and the origins of AI's ideological divide](https://resobscura.substack.com/p/margaret-mead-technocracy-and-the)
+* [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-21, 14:02:15](https://news.ycombinator.com/item?id=38363698) - [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
 * [2023-11-21, 14:01:36](https://news.ycombinator.com/item?id=38363687) - ['AI' Is Supercharging Our Broken Healthcare System's Worst Tendencies](https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/)
 * [2023-11-21, 13:53:41](https://news.ycombinator.com/item?id=38363602) - [Super Mario RPG is an endearing, perplexing relic](https://www.polygon.com/reviews/23960636/super-mario-rpg-2023-switch-remake-review)
