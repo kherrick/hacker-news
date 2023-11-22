@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-22, 20:53:57",
+      "https://news.ycombinator.com/item?id=38384950"
+    ],
+    [
+      "McKinsey and its consulting industry peers face headwinds",
+      "https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 20:43:33",
       "https://news.ycombinator.com/item?id=38384828"
     ],
@@ -21,22 +31,12 @@
   ],
   [
     [
-      "2023-11-22, 20:16:00",
-      "https://news.ycombinator.com/item?id=38384528"
+      "2023-11-22, 20:07:49",
+      "https://news.ycombinator.com/item?id=38384434"
     ],
     [
-      "Turns out, Meta's Threads is good for breaking news",
-      "https://www.businessinsider.com/sam-altman-fired-openai-test-meta-threads-breaking-news-2023-11"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 20:00:23",
-      "https://news.ycombinator.com/item?id=38384334"
-    ],
-    [
-      "Is primary OS a dealbreaker for you (when taking a new job)?",
-      "https://news.ycombinator.com/item?id=38384334"
+      "Western Digital Releases 24TB Ultrastar and Gold Hard Drives, 28TB SMR Ramping",
+      "https://www.anandtech.com/show/21146/western-digital-ships-24tb-hdds-ramps-28tb-hard-drives"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "All design and engineering of the original Tesla Roadster is now open source",
       "https://twitter.com/elonmusk/status/1727392569238159491"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 18:17:06",
-      "https://news.ycombinator.com/item?id=38382907"
-    ],
-    [
-      "Microsoft's internal memo about the chaos at OpenAI",
-      "https://www.theverge.com/2023/11/22/23972572/microsoft-internal-memo-kevin-scott-openai"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2023-11-22, 13:43:20",
+      "https://news.ycombinator.com/item?id=38378992"
+    ],
+    [
+      "What has changed in CPU cores in M3 chips?",
+      "https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 13:22:06",
       "https://news.ycombinator.com/item?id=38378776"
     ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-11-22, 12:53:17",
+      "https://news.ycombinator.com/item?id=38378498"
+    ],
+    [
+      "Launched Playtoob, a simple YouTube companion, because my 5yo daughter loves it",
+      "https://playtoob.com/"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 12:17:10",
       "https://news.ycombinator.com/item?id=38378216"
     ],
@@ -197,16 +207,6 @@
     [
       "LM Studio – Discover, download, and run local LLMs",
       "https://lmstudio.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 09:13:46",
-      "https://news.ycombinator.com/item?id=38376885"
-    ],
-    [
-      "Project managers, ducks, and dogs marking territory (2013)",
-      "https://rachelbythebay.com/w/2013/06/05/duck/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=38364084"
     ],
     [
-      "Exponentially Faster Language Modelling",
+      "Exponentially faster language modelling",
       "https://arxiv.org/abs/2311.10770"
     ]
   ],
