@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-22, 12:50:24",
+      "https://news.ycombinator.com/item?id=38378483"
+    ],
+    [
+      ".NET 8's Best Blazor is not Blazor as we know it",
+      "https://servicestack.net/posts/net8-best-blazor"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 12:46:33",
       "https://news.ycombinator.com/item?id=38378455"
     ],
     [
       "Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper",
       "https://www.phoronix.com/review/threadripper-7995wx-windows-linux"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 12:22:04",
+      "https://news.ycombinator.com/item?id=38378261"
+    ],
+    [
+      "U.S. Naval Institute Fleet Tracker",
+      "https://news.usni.org/category/fleet-tracker"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38376885"
     ],
     [
-      "Just remove the Duck (2013)",
+      "Project managers, ducks, and dogs marking territory (2013)",
       "https://rachelbythebay.com/w/2013/06/05/duck/"
     ]
   ],
@@ -201,36 +221,6 @@
   ],
   [
     [
-      "2023-11-21, 21:14:03",
-      "https://news.ycombinator.com/item?id=38370252"
-    ],
-    [
-      "ChatGPT with voice is now available to all free users",
-      "https://twitter.com/OpenAI/status/1727065166188274145"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 21:11:23",
-      "https://news.ycombinator.com/item?id=38370203"
-    ],
-    [
-      "Children, left behind by suburbia, need better community design",
-      "https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 19:20:29",
-      "https://news.ycombinator.com/item?id=38368570"
-    ],
-    [
-      "Show HN: Neum AI – Open-source large-scale RAG framework",
-      "https://github.com/NeumTry/NeumAI"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 19:01:29",
       "https://news.ycombinator.com/item?id=38368287"
     ],
@@ -297,6 +287,16 @@
     [
       "Brightest flash ever disturbed Earth's atmosphere last year",
       "https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 18:08:34",
+      "https://news.ycombinator.com/item?id=38351797"
+    ],
+    [
+      "Solving duplicate data with performant deduplication",
+      "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
     ]
   ]
 ]
