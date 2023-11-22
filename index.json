@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-22, 18:06:30",
+      "https://news.ycombinator.com/item?id=38382737"
+    ],
+    [
+      "OpenAI: The Battle of the Board",
+      "https://thezvi.substack.com/p/openai-the-battle-of-the-board"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 17:10:44",
       "https://news.ycombinator.com/item?id=38381918"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2023-11-22, 17:08:27",
-      "https://news.ycombinator.com/item?id=38381894"
-    ],
-    [
-      "Self-proclaimed 'gay furry hackers' breach nuclear lab",
-      "https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html"
-    ]
-  ],
-  [
-    [
       "2023-11-22, 17:00:29",
       "https://news.ycombinator.com/item?id=38381795"
     ],
@@ -46,7 +46,7 @@
     ],
     [
       "Reflecting on 18 Years at Google",
-      "https://ln.hixie.ch/"
+      "https://ln.hixie.ch/?start=1700627373&count=1"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38379893"
     ],
     [
-      "Fortran 2023 has been published",
+      "Fortran 2023",
       "https://www.iso.org/standard/82170.html"
     ]
   ],
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2023-11-22, 13:52:13",
-      "https://news.ycombinator.com/item?id=38379108"
+      "2023-11-22, 13:56:34",
+      "https://news.ycombinator.com/item?id=38379168"
     ],
     [
-      "Microsoft's Windows Hello fingerprint authentication has been bypassed",
-      "https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability"
+      "A Touch of Pwn – an investigation into fingerprint sensors for Windows Hello",
+      "https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38378776"
     ],
     [
-      "Writing and Linting Python at Scale",
+      "Writing and linting Python at scale",
       "https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/"
     ]
   ],
@@ -155,18 +155,8 @@
       "https://news.ycombinator.com/item?id=38378595"
     ],
     [
-      "Are Analytics Good?",
+      "Are analytics good?",
       "https://www.todepond.com/wikiblogarden/social-media/analytics/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 12:49:51",
-      "https://news.ycombinator.com/item?id=38378481"
-    ],
-    [
-      "Rocket – Simple, Fast, Type-Safe Web Framework for Rust",
-      "https://rocket.rs/"
     ]
   ],
   [
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38378455"
     ],
     [
-      "Ubuntu: ~20% More Performance Than Windows 11 on New AMD Zen 4 Threadripper",
+      "Ubuntu squeezes more performance than Windows 11 on new AMD Zen 4 Threadripper",
       "https://www.phoronix.com/review/threadripper-7995wx-windows-linux"
     ]
   ],
@@ -187,16 +177,6 @@
     [
       "U.S. Naval Institute Fleet Tracker",
       "https://news.usni.org/category/fleet-tracker"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 12:20:05",
-      "https://news.ycombinator.com/item?id=38378242"
-    ],
-    [
-      "Ultra Fast Bert",
-      "https://arxiv.org/abs/2311.10770"
     ]
   ],
   [
@@ -225,8 +205,18 @@
       "https://news.ycombinator.com/item?id=38376731"
     ],
     [
-      "Running Windows 98 on the Browser",
+      "Running Windows 98 in the Browser",
       "https://copy.sh/v86/?profile=windows98"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 06:52:56",
+      "https://news.ycombinator.com/item?id=38375728"
+    ],
+    [
+      "TigerLab – Adversarial Testing for LLMs and Chatbots",
+      "https://www.tigerlab.ai"
     ]
   ],
   [
@@ -251,11 +241,21 @@
   ],
   [
     [
+      "2023-11-21, 14:31:08",
+      "https://news.ycombinator.com/item?id=38364084"
+    ],
+    [
+      "Exponentially Faster Language Modelling",
+      "https://arxiv.org/abs/2311.10770"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 13:39:00",
       "https://news.ycombinator.com/item?id=38363428"
     ],
     [
-      "Insta360's New Ace Pro Combines Leica Engineering with Computational Photography",
+      "Insta360's Ace Pro combines Leica engineering with computational photography",
       "https://petapixel.com/2023/11/21/insta360s-new-ace-pro-combines-leica-engineering-with-computational-photography/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38361139"
     ],
     [
-      "Linux Kernel Documentation: NAND Error-Correction Code",
+      "NAND Error-correction Code",
       "https://docs.kernel.org/driver-api/mtd/nand_ecc.html"
     ]
   ],
