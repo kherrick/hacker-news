@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-21, 23:44:49",
-      "https://news.ycombinator.com/item?id=38372295"
+      "2023-11-22, 00:47:22",
+      "https://news.ycombinator.com/item?id=38372972"
     ],
     [
-      "Is it legal to mix cash in a jar?",
-      "http://jpkoning.blogspot.com/2023/11/is-it-legal-to-mix-cash-in-jar.html"
+      "Large pull requests slow down development",
+      "https://graphite.dev/blog/how-large-prs-slow-down-development"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 23:59:12",
+      "https://news.ycombinator.com/item?id=38372451"
+    ],
+    [
+      "Before Altman’s ouster, OpenAI’s board was divided and feuding",
+      "https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38371808"
     ],
     [
-      "In the Gut's 'Second Brain,' Key Agents of Health Emerge",
+      "In the gut's 'second brain,' key agents of health emerge",
       "https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121"
     ]
   ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2023-11-21, 22:19:32",
-      "https://news.ycombinator.com/item?id=38371213"
+      "2023-11-21, 22:26:09",
+      "https://news.ycombinator.com/item?id=38371307"
     ],
     [
-      "OpenAI API and ChatGTP Outage",
-      "https://status.openai.com/incidents/n254wyd7nml7"
+      "I tested four NVMe SSDs from four vendors – half lose FLUSH'd data on power loss",
+      "https://twitter.com/xenadu02/status/1495693475584557056"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "I kind of killed Mercurial at Mozilla",
       "https://glandium.org/blog/?p=4346"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 19:32:11",
-      "https://news.ycombinator.com/item?id=38368760"
-    ],
-    [
-      "FBI director admits they rarely have probable cause for using NSA collections",
-      "https://www.techdirt.com/2023/11/21/fbi-director-admits-agency-rarely-has-probable-cause-when-it-performs-backdoor-searches-of-nsa-collections/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-11-21, 16:35:02",
-      "https://news.ycombinator.com/item?id=38365934"
-    ],
-    [
-      "Claude 2.1",
-      "https://www.anthropic.com/index/claude-2-1"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 16:16:38",
       "https://news.ycombinator.com/item?id=38365638"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2023-11-21, 11:43:10",
+      "https://news.ycombinator.com/item?id=38362348"
+    ],
+    [
+      "'People dance on tables': welcome to Belgrade's kafana pub culture",
+      "https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 11:32:18",
       "https://news.ycombinator.com/item?id=38362271"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-11-21, 08:50:05",
-      "https://news.ycombinator.com/item?id=38361094"
+      "2023-11-21, 06:38:19",
+      "https://news.ycombinator.com/item?id=38360162"
     ],
     [
-      "Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg",
-      "https://northvolt.com/articles/northvolt-sodium-ion/"
+      "Joyce Carol Oates's relentless, prolific search for a self",
+      "https://www.newyorker.com/magazine/2023/11/27/joyce-carol-oates-profile"
     ]
   ],
   [
     [
-      "2023-11-20, 18:08:34",
-      "https://news.ycombinator.com/item?id=38351797"
+      "2023-11-20, 06:30:45",
+      "https://news.ycombinator.com/item?id=38343398"
     ],
     [
-      "Solving duplicate data with performant deduplication",
-      "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/"
+      "A very subtle bug (2010)",
+      "https://blog.nelhage.com/2010/02/a-very-subtle-bug/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38330992"
     ],
     [
-      "You Rarely Get Greenfield Projects (Or Do You?)",
+      "You rarely get greenfield projects",
       "https://tommcfarlin.com/greenfield-projects/"
     ]
   ]
