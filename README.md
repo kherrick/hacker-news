@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-22, 18:17:12](https://news.ycombinator.com/item?id=38382910) - [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
-* [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Winklevoss twins' crypto firm Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
+* [2023-11-22, 18:11:40](https://news.ycombinator.com/item?id=38382811) - [Bay Area nonprofit Signal shows how bloated tech companies have become](https://www.sfgate.com/tech/article/signal-meta-google-too-big-18496594.php)
 * [2023-11-22, 18:06:30](https://news.ycombinator.com/item?id=38382737) - [OpenAI: The Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board)
 * [2023-11-22, 18:02:47](https://news.ycombinator.com/item?id=38382676) - [Altman's pattern of self-dealing behavior, led to PG firing him from YC in 2019](https://twitter.com/itsurboyevan/status/1727313113664332216)
-* [2023-11-22, 17:10:44](https://news.ycombinator.com/item?id=38381918) - [It's never been a better time to switch to Firefox](https://www.androidpolice.com/never-been-better-time-switch-firefox-browser/)
+* [2023-11-22, 17:52:50](https://news.ycombinator.com/item?id=38382520) - [If 95% doesn't count as a vote of no confidence, what number would?](https://twitter.com/paulg/status/1726936672875753952)
+* [2023-11-22, 17:40:56](https://news.ycombinator.com/item?id=38382344) - [Hell is other people – Why individualism shrinks the next generation](https://woodfromeden.substack.com/p/hell-is-other-people-why-individualism)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 15:17:36](https://news.ycombinator.com/item?id=38380377) - [Inflection-2: the next step up](https://inflection.ai/inflection-2)
