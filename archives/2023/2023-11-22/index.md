@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 18:52:33](https://news.ycombinator.com/item?id=38383454) - [No females on the new OpenAI board, no scientists, no ethicists](https://twitter.com/Martina_Crane/status/1727358309014081617)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Show HN: Windmill – fastest open-source workflow engine – the how](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 18:17:12](https://news.ycombinator.com/item?id=38382910) - [Ford Is Killing the Explorer Hybrid Because Cops Are Buying All of Them](https://jalopnik.com/ford-is-killing-the-explorer-hybrid-because-cops-are-bu-1851039243)
 * [2023-11-22, 18:16:31](https://news.ycombinator.com/item?id=38382892) - [Winklevoss twins' crypto firm Gemini sued over $689M in customer withdrawals](https://nypost.com/2023/11/22/business/winklevoss-twins-crypto-firm-gemini-sued-over-689m-in-customer-withdrawals/)
@@ -12,6 +13,7 @@
 * [2023-11-22, 18:02:47](https://news.ycombinator.com/item?id=38382676) - [Altman's pattern of self-dealing behavior, led to PG firing him from YC in 2019](https://twitter.com/itsurboyevan/status/1727313113664332216)
 * [2023-11-22, 17:52:50](https://news.ycombinator.com/item?id=38382520) - [If 95% doesn't count as a vote of no confidence, what number would?](https://twitter.com/paulg/status/1726936672875753952)
 * [2023-11-22, 17:50:24](https://news.ycombinator.com/item?id=38382485) - [Big Pharma gave $9M to dark money groups to fight drug pricing reform](https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/)
+* [2023-11-22, 17:50:03](https://news.ycombinator.com/item?id=38382481) - [Researchers Develop a Flat Metalens That Can Change Its Focal Length](https://petapixel.com/2023/11/21/researchers-develop-a-flat-metalens-that-can-change-its-focal-length/)
 * [2023-11-22, 17:40:56](https://news.ycombinator.com/item?id=38382344) - [Hell is other people – Why individualism shrinks the next generation](https://woodfromeden.substack.com/p/hell-is-other-people-why-individualism)
 * [2023-11-22, 17:10:44](https://news.ycombinator.com/item?id=38381918) - [It's never been a better time to switch to Firefox](https://www.androidpolice.com/never-been-better-time-switch-firefox-browser/)
 * [2023-11-22, 17:09:04](https://news.ycombinator.com/item?id=38381901) - [Robocar tech biz sues Nvidia, claims stolen code shared in Teams meeting blunder](https://www.theregister.com/2023/11/22/nvidia_sued_after_teams_meeting/)
