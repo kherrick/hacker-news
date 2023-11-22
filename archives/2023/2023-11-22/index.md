@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 04:05:14](https://news.ycombinator.com/item?id=38374624) - [GPT4V Watches a Basketball Game](https://old.reddit.com/r/ChatGPT/comments/17ywjsv/have_a_live_conversation_about_a_basketball_game/)
+* [2023-11-22, 01:50:41](https://news.ycombinator.com/item?id=38373586) - [How Does a Cave Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
 * [2023-11-22, 01:13:44](https://news.ycombinator.com/item?id=38373247) - [Bard Extensions](https://bard.google.com/extensions?hl=en)
 * [2023-11-22, 01:06:17](https://news.ycombinator.com/item?id=38373191) - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
 * [2023-11-22, 00:47:22](https://news.ycombinator.com/item?id=38372972) - [Large pull requests slow down development](https://graphite.dev/blog/how-large-prs-slow-down-development)
