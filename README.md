@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-22, 10:55:42](https://news.ycombinator.com/item?id=38377608) - [Ridley Scott: Our Anglo-Saxon Maximus](https://americanaffairsjournal.org/2023/11/greening-the-void-climate-change-and-political-legitimacy/)
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [2023-11-22, 08:58:22](https://news.ycombinator.com/item?id=38376784) - [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
@@ -15,6 +14,7 @@
 * [2023-11-21, 22:30:50](https://news.ycombinator.com/item?id=38371361) - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 * [2023-11-21, 22:26:09](https://news.ycombinator.com/item?id=38371307) - [I tested four NVMe SSDs from four vendors – half lose FLUSH'd data on power loss](https://twitter.com/xenadu02/status/1495693475584557056)
 * [2023-11-21, 22:13:51](https://news.ycombinator.com/item?id=38371126) - [Genetic Algorithms for Evolution of QWOP Gaits](https://arxiv.org/abs/2311.09234)
+* [2023-11-21, 21:17:43](https://news.ycombinator.com/item?id=38370308) - [Hadrius (YC W23) is hiring a founding engineer to automate SEC compliance](https://www.ycombinator.com/companies/hadrius/jobs/oNDf5nM-founding-engineer)
 * [2023-11-21, 21:14:03](https://news.ycombinator.com/item?id=38370252) - [ChatGPT with voice is now available to all free users](https://twitter.com/OpenAI/status/1727065166188274145)
 * [2023-11-21, 21:11:23](https://news.ycombinator.com/item?id=38370203) - [Children, left behind by suburbia, need better community design](https://www.cnu.org/publicsquare/2023/11/13/children-left-behind-suburbia-need-better-community-design)
 * [2023-11-21, 20:16:01](https://news.ycombinator.com/item?id=38369433) - [I kind of killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
