@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-22, 14:22:25",
+      "https://news.ycombinator.com/item?id=38379543"
+    ],
+    [
+      "EP–133",
+      "https://teenage.engineering/products/ep-133"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 13:43:20",
       "https://news.ycombinator.com/item?id=38378992"
     ],
@@ -37,16 +47,6 @@
     [
       "Are Analytics Good?",
       "https://www.todepond.com/wikiblogarden/social-media/analytics/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 12:50:24",
-      "https://news.ycombinator.com/item?id=38378483"
-    ],
-    [
-      ".NET 8's Best Blazor is not Blazor as we know it",
-      "https://servicestack.net/posts/net8-best-blazor"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-11-21, 00:48:34",
-      "https://news.ycombinator.com/item?id=38357226"
+      "2023-11-21, 08:57:09",
+      "https://news.ycombinator.com/item?id=38361139"
     ],
     [
-      "Phosphorous discovered in outskirts of the Milky Way",
-      "https://phys.org/news/2023-11-phosphorous-outskirts-milky.html"
+      "Linux Kernel Documentation: NAND Error-Correction Code",
+      "https://docs.kernel.org/driver-api/mtd/nand_ecc.html"
     ]
   ],
   [
