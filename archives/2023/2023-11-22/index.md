@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 21:30:56](https://news.ycombinator.com/item?id=38385419) - [Rogue, and Other Roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
 * [2023-11-22, 20:53:57](https://news.ycombinator.com/item?id=38384950) - [McKinsey and its consulting industry peers face headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
 * [2023-11-22, 20:43:33](https://news.ycombinator.com/item?id=38384828) - [Ask HN: Best Alternatives to OpenAI ChatGPT?](https://news.ycombinator.com/item?id=38384828)
 * [2023-11-22, 20:21:02](https://news.ycombinator.com/item?id=38384587) - [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
