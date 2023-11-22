@@ -76,6 +76,7 @@
 * [2023-11-21, 09:12:50](https://news.ycombinator.com/item?id=38361259) - [Nothing's iMessage app was a security catastrophe, taken down in 24 hours](https://arstechnica.com/gadgets/2023/11/nothings-imessage-app-was-a-security-catastrophe-taken-down-in-24-hours/)
 * [2023-11-21, 09:11:17](https://news.ycombinator.com/item?id=38361247) - [Zork Zcode Interpreters Appear Out of Nowhere](https://hackaday.com/2023/11/21/zork-zcode-interpreters-appear-out-of-nowhere/)
 * [2023-11-21, 09:08:01](https://news.ycombinator.com/item?id=38361218) - [11.8M CHF for clinical trials of novel arthritis repair](https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html)
+* [2023-11-21, 08:57:09](https://news.ycombinator.com/item?id=38361139) - [Linux Kernel Documentation: NAND Error-Correction Code](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
 * [2023-11-21, 08:56:26](https://news.ycombinator.com/item?id=38361135) - [My keyboard wasn't mechanical enough, so I upgraded to a rotary phone](https://twitter.com/aschmelyun/status/1726584677799272515)
 * [2023-11-21, 08:50:05](https://news.ycombinator.com/item?id=38361094) - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 * [2023-11-21, 08:48:46](https://news.ycombinator.com/item?id=38361082) - [Kubernetes-Native Retro Game Streaming Written in Go](https://github.com/pod-arcade/pod-arcade)
