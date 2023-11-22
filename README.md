@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-22, 06:19:44](https://news.ycombinator.com/item?id=38375406) - [OpenAI brings Sam Altman back as CEO](https://www.cnbc.com/2023/11/22/openai-brings-sam-altman-back-as-ceo-days-after-ouster.html)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
-* [2023-11-22, 05:21:06](https://news.ycombinator.com/item?id=38375024) - [OpenAI Drama Casts a Shadow on Tech Industry](https://omny.fm/shows/bloomberg-businessweek/openai-drama-casts-a-shadow-on-tech-industry)
 * [2023-11-22, 01:50:41](https://news.ycombinator.com/item?id=38373586) - [How does Cave/Glade Generator Work](https://www.boristhebrave.com/2023/11/19/how-does-cave-glade-generator-work/)
 * [2023-11-22, 01:06:17](https://news.ycombinator.com/item?id=38373191) - [FTC authorizes compulsory process for AI-related products and services](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-authorizes-compulsory-process-ai-related-products-services)
 * [2023-11-22, 00:20:40](https://news.ycombinator.com/item?id=38372687) - [Bacteria store memories and pass them on for generations](https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/)
@@ -26,7 +26,7 @@
 * [2023-11-21, 11:43:10](https://news.ycombinator.com/item?id=38362348) - [Belgrade's kafana pub culture](https://www.theguardian.com/travel/2023/nov/21/people-dance-on-tables-welcome-to-belgrades-kafana-pub-culture)
 * [2023-11-21, 11:32:18](https://news.ycombinator.com/item?id=38362271) - [Make Pixels Dance: High-Dynamic Video Generation](https://makepixelsdance.github.io/)
 * [2023-11-21, 06:52:32](https://news.ycombinator.com/item?id=38360260) - [Fluent Search](https://www.fluentsearch.net/)
-* [2023-11-21, 00:48:34](https://news.ycombinator.com/item?id=38357226) - [Phosphorous discovered in outskirts of the Milky Way for the first time](https://phys.org/news/2023-11-phosphorous-outskirts-milky.html)
+* [2023-11-21, 00:48:34](https://news.ycombinator.com/item?id=38357226) - [Phosphorous discovered in outskirts of the Milky Way](https://phys.org/news/2023-11-phosphorous-outskirts-milky.html)
 * [2023-11-21, 00:46:58](https://news.ycombinator.com/item?id=38357205) - [Brightest flash ever disturbed Earth's atmosphere last year](https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html)
 * [2023-11-20, 18:08:34](https://news.ycombinator.com/item?id=38351797) - [Solving duplicate data with performant deduplication](https://questdb.io/blog/solving-duplicate-data-performant-deduplication/)
 * [2023-11-20, 06:30:45](https://news.ycombinator.com/item?id=38343398) - [A very subtle bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
