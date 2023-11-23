@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 15:58:19](https://news.ycombinator.com/item?id=38394156) - [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
+* [2023-11-23, 15:58:05](https://news.ycombinator.com/item?id=38394149) - [Some loser in his basement thinks he's defeated Adobe's C2PA](https://www.hackerfactor.com/blog/)
 * [2023-11-23, 15:22:46](https://news.ycombinator.com/item?id=38393691) - [OpenAI was working on advanced model so powerful it alarmed staff](https://www.theguardian.com/business/2023/nov/23/openai-was-working-on-advanced-model-so-powerful-it-alarmed-staff)
 * [2023-11-23, 15:20:05](https://news.ycombinator.com/item?id=38393660) - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
 * [2023-11-23, 15:11:31](https://news.ycombinator.com/item?id=38393549) - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
