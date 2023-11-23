@@ -17,6 +17,7 @@
 * [2023-11-23, 15:20:05](https://news.ycombinator.com/item?id=38393660) - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
 * [2023-11-23, 15:11:31](https://news.ycombinator.com/item?id=38393549) - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
 * [2023-11-23, 14:57:20](https://news.ycombinator.com/item?id=38393390) - [Pierre de Fermat's Link to a High School Student's Prime Math Proof](https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/)
+* [2023-11-23, 14:56:50](https://news.ycombinator.com/item?id=38393384) - [Digging for Our Origins in the Bone Beds of an African Park](https://nautil.us/digging-for-our-origins-in-the-bone-beds-of-an-african-park-449572/)
 * [2023-11-23, 14:46:05](https://news.ycombinator.com/item?id=38393264) - [Binance and CEO admit financial crimes, billions coughed up to US govt](https://www.theregister.com/2023/11/22/binance_ceo_settlement/)
 * [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 14:43:13](https://news.ycombinator.com/item?id=38393237) - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
