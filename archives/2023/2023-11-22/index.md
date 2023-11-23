@@ -6,6 +6,7 @@
 
 * [2023-11-22, 23:21:25](https://news.ycombinator.com/item?id=38386646) - [Zoom Fatigue Is Real, According to Brain Scans](https://spectrum.ieee.org/zoom-fatigue)
 * [2023-11-22, 23:11:34](https://news.ycombinator.com/item?id=38386547) - [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
+* [2023-11-22, 23:10:53](https://news.ycombinator.com/item?id=38386535) - [OpenAI Shoves a Data Journalist and Violates Federal Law](https://aarongreenspan.substack.com/p/openai-gets-pushy)
 * [2023-11-22, 23:07:38](https://news.ycombinator.com/item?id=38386487) - [Sam Altman's ouster was precipitated by letter to board about AI breakthrough](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
 * [2023-11-22, 22:32:52](https://news.ycombinator.com/item?id=38386118) - [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
 * [2023-11-22, 22:31:01](https://news.ycombinator.com/item?id=38386098) - [Gabe Newell forced to testify in person in Steam antitrust case [pdf]](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2021cv00563/298754/170/0.pdf)
