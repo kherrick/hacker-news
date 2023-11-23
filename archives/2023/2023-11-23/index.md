@@ -13,6 +13,7 @@
 * [2023-11-23, 16:56:24](https://news.ycombinator.com/item?id=38394787) - [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
 * [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 * [2023-11-23, 16:40:50](https://news.ycombinator.com/item?id=38394613) - [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
+* [2023-11-23, 16:19:02](https://news.ycombinator.com/item?id=38394391) - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [2023-11-23, 16:18:45](https://news.ycombinator.com/item?id=38394383) - [Guinea worm disease is close to being eradicated](https://ourworldindata.org/guinea-worm-path-eradication)
 * [2023-11-23, 16:16:22](https://news.ycombinator.com/item?id=38394364) - [Developer account removed by Apple – $108,878 frozen](https://seraleev.notion.site/Our-developer-account-was-removed-by-Apple-and-they-haven-t-paid-out-108-878-b61192711c74487480373badc70d42c0)
 * [2023-11-23, 16:15:53](https://news.ycombinator.com/item?id=38394357) - [Dbrand Is Suing Casetify](https://twitter.com/dbrand/status/1727721586856222893)
