@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-23, 04:19:52](https://news.ycombinator.com/item?id=38389223) - [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
 * [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-* [2023-11-23, 02:54:26](https://news.ycombinator.com/item?id=38388669) - [Andrej Karpathy: Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-11-23, 01:03:36](https://news.ycombinator.com/item?id=38387775) - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 * [2023-11-23, 00:47:35](https://news.ycombinator.com/item?id=38387620) - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
 * [2023-11-23, 00:40:59](https://news.ycombinator.com/item?id=38387554) - [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 04:19:52](https://news.ycombinator.com/item?id=38389223) - [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
 * [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-23, 03:12:37](https://news.ycombinator.com/item?id=38388773) - [Show HN: UpNow News – Best unbiased news source](https://goupvote.com/news)
 * [2023-11-23, 02:54:26](https://news.ycombinator.com/item?id=38388669) - [Andrej Karpathy: Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
