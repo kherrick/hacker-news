@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 21:33:26](https://news.ycombinator.com/item?id=38397817) - [YouTube is now blocking Ad Blockers – So I just make ads run 16x faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
 * [2023-11-23, 21:25:54](https://news.ycombinator.com/item?id=38397752) - [Programming as a Career Isn't Right for Me](https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82)
+* [2023-11-23, 20:52:21](https://news.ycombinator.com/item?id=38397404) - [The first Spanish AI model earning up to €10k per month](https://www.euronews.com/next/2023/11/22/meet-the-first-spanish-ai-model-earning-up-to-10000-per-month)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
 * [2023-11-23, 19:41:23](https://news.ycombinator.com/item?id=38396653) - [Possibility That an SEC Investigation of Altman and Nadella May Soon Be Filed](https://michigan-post.com/redditors-from-r-wallstreetbets-call-attention-to-possibility-that-an-sec-investigation-of-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella-may-soon-be-filed/)
 * [2023-11-23, 19:16:08](https://news.ycombinator.com/item?id=38396345) - [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
@@ -34,6 +36,7 @@
 * [2023-11-23, 14:11:40](https://news.ycombinator.com/item?id=38392931) - [Despite just 5.8% sales, over 38% of bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
 * [2023-11-23, 14:08:07](https://news.ycombinator.com/item?id=38392887) - [OpenSSL Announces Final Release of OpenSSL 3.2.0](https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/)
 * [2023-11-23, 14:01:34](https://news.ycombinator.com/item?id=38392824) - [Workers AI Update: Stable Diffusion, Code Llama and Workers AI in 100 Cities](https://blog.cloudflare.com/workers-ai-update-stable-diffusion-code-llama-workers-ai-in-100-cities/)
+* [2023-11-23, 13:44:06](https://news.ycombinator.com/item?id=38392653) - [Eardrum Suck: The Mystery Solved (2019)](https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved)
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – an interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:25:51](https://news.ycombinator.com/item?id=38392484) - [The Fallout from the Weirdness at OpenAI](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai)
 * [2023-11-23, 13:13:37](https://news.ycombinator.com/item?id=38392388) - [Max Headroom Signal Hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
