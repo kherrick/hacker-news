@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-23, 05:20:15](https://news.ycombinator.com/item?id=38389618) - [Don't Kill My App](https://dontkillmyapp.com/)
-* [2023-11-23, 03:43:15](https://news.ycombinator.com/item?id=38388990) - [Meta: Gaia - A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 * [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-23, 02:54:26](https://news.ycombinator.com/item?id=38388669) - [Andrej Karpathy: Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-11-23, 01:03:36](https://news.ycombinator.com/item?id=38387775) - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
@@ -23,6 +22,7 @@
 * [2023-11-22, 15:01:38](https://news.ycombinator.com/item?id=38380137) - [VMware is now part of Broadcom](https://www.broadcom.com/info/vmware)
 * [2023-11-22, 12:53:17](https://news.ycombinator.com/item?id=38378498) - [Launched Playtoob, a simple YouTube companion, because my 5yo daughter loves it](https://playtoob.com/)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Before OpenAI, Sam Altman was fired from Y Combinator by his mentor](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
+* [2023-11-22, 11:24:00](https://news.ycombinator.com/item?id=38377789) - [Development of San Andreas (2003-2004)](https://insiderockstarnorth.blogspot.com/2023/11/development-of-san-andreas-2003-2004.html)
 * [2023-11-22, 06:06:10](https://news.ycombinator.com/item?id=38375273) - [Show HN: Sonic Garbage](https://sonicgarbage.greg.technology/)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 * [2023-11-22, 00:44:39](https://news.ycombinator.com/item?id=38372936) - [Yoyozo: How I made a Playdate game in 39k](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
