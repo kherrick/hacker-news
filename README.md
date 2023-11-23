@@ -2,6 +2,7 @@
 
 * [2023-11-23, 21:49:23](https://news.ycombinator.com/item?id=38397947) - [Community Contributions at GitLab](https://community.inc/deep-dives/contribution-gitlab)
 * [2023-11-23, 21:33:26](https://news.ycombinator.com/item?id=38397817) - [YouTube is now blocking Ad Blockers – So I just make ads run 16x faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
+* [2023-11-23, 21:25:54](https://news.ycombinator.com/item?id=38397752) - [Programming as a Career Isn't Right for Me](https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82)
 * [2023-11-23, 21:24:10](https://news.ycombinator.com/item?id=38397742) - [The Eyes Have It, by Philip K. Dick (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 * [2023-11-23, 20:52:21](https://news.ycombinator.com/item?id=38397404) - [The first Spanish AI model earning up to €10k per month](https://www.euronews.com/next/2023/11/22/meet-the-first-spanish-ai-model-earning-up-to-10000-per-month)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
@@ -24,7 +25,6 @@
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
-* [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 13:51:44](https://news.ycombinator.com/item?id=38379104) - [Show HN: UI Library Creator](https://shuffle.dev/library-creator)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
