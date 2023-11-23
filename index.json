@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-23, 19:16:08",
+      "https://news.ycombinator.com/item?id=38396345"
+    ],
+    [
+      "Shellcheck finds bugs in your shell scripts",
+      "https://www.shellcheck.net/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 18:10:39",
       "https://news.ycombinator.com/item?id=38395655"
     ],
@@ -217,16 +227,6 @@
     [
       "Luiz André Barroso has died",
       "https://spectrum.ieee.org/in-memoriam-nov-2023"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 06:42:08",
-      "https://news.ycombinator.com/item?id=38390052"
-    ],
-    [
-      "Writing a Debugger from Scratch: Stacks",
-      "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/"
     ]
   ],
   [
