@@ -74,6 +74,7 @@
 * [2023-11-22, 12:22:04](https://news.ycombinator.com/item?id=38378261) - [U.S. Naval Institute Fleet Tracker](https://news.usni.org/category/fleet-tracker)
 * [2023-11-22, 12:20:05](https://news.ycombinator.com/item?id=38378242) - [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Sam Altman's been fired before. The polarizing past of OpenAI's reinstated CEO](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
+* [2023-11-22, 11:59:18](https://news.ycombinator.com/item?id=38378062) - [Will anybody save Linux on Itanium? not](https://www.theregister.com/2023/11/21/saving_linux_on_itanium/)
 * [2023-11-22, 11:28:20](https://news.ycombinator.com/item?id=38377829) - [Is it too late to keep global warming below 1.5 °C?](https://www.nature.com/immersive/d41586-023-03601-6/index.html)
 * [2023-11-22, 11:27:55](https://news.ycombinator.com/item?id=38377826) - [Ridley Scott: Our Anglo-Saxon Maximus](https://unherd.com/2023/11/ridley-scott-our-anglo-saxon-maximus/)
 * [2023-11-22, 11:24:00](https://news.ycombinator.com/item?id=38377789) - [Development of San Andreas (2003-2004)](https://insiderockstarnorth.blogspot.com/2023/11/development-of-san-andreas-2003-2004.html)
