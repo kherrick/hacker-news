@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-23, 01:24:26](https://news.ycombinator.com/item?id=38387963) - [Threat to humanity: The mystery letter that may have sparked the OpenAI chaos](https://www.smh.com.au/business/companies/threat-to-humanity-the-mystery-letter-that-may-have-sparked-the-openai-chaos-20231123-p5em8z.html)
 * [2023-11-23, 01:03:36](https://news.ycombinator.com/item?id=38387775) - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 * [2023-11-23, 00:47:35](https://news.ycombinator.com/item?id=38387620) - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
 * [2023-11-23, 00:40:59](https://news.ycombinator.com/item?id=38387554) - [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
@@ -29,6 +28,7 @@
 * [2023-11-22, 00:44:39](https://news.ycombinator.com/item?id=38372936) - [Yoyozo: How I made a Playdate game in 39k](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 * [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially faster language modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-20, 23:47:05](https://news.ycombinator.com/item?id=38356702) - [Stack buffer overflow attack: 211BSD on the PDP-11](https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html)
+* [2023-11-20, 12:01:27](https://news.ycombinator.com/item?id=38346794) - [Best Practices for Time Travelers (2003)](https://idlewords.com/2003/09/best_practices_for_time_travelers.htm)
 * [2023-11-20, 08:13:13](https://news.ycombinator.com/item?id=38344444) - [Three chips in and Google Tensor is on life support](https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html)
 
 ## [Archives](archives/index.md)
