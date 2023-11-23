@@ -60,6 +60,7 @@
 * [2023-11-22, 14:12:53](https://news.ycombinator.com/item?id=38379397) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2023-11-22, 13:56:34](https://news.ycombinator.com/item?id=38379168) - [A Touch of Pwn – an investigation into fingerprint sensors for Windows Hello](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/)
 * [2023-11-22, 13:52:13](https://news.ycombinator.com/item?id=38379108) - [Microsoft's Windows Hello fingerprint authentication has been bypassed](https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability)
+* [2023-11-22, 13:51:44](https://news.ycombinator.com/item?id=38379104) - [Show HN: UI Library Creator](https://shuffle.dev/library-creator)
 * [2023-11-22, 13:43:20](https://news.ycombinator.com/item?id=38378992) - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
 * [2023-11-22, 13:34:28](https://news.ycombinator.com/item?id=38378891) - [Sony facing $7.9B mass lawsuit over Playstation Store prices](https://www.reuters.com/technology/sony-facing-79-bln-mass-lawsuit-over-playstation-store-prices-2023-11-21/)
 * [2023-11-22, 13:32:45](https://news.ycombinator.com/item?id=38378874) - [I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)

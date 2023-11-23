@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 18:10:39](https://news.ycombinator.com/item?id=38395655) - [After OpenAI's Blowup, It Seems Pretty Clear That 'AI Safety' Isn't a Real Thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
 * [2023-11-23, 17:00:06](https://news.ycombinator.com/item?id=38394828) - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
 * [2023-11-23, 16:56:24](https://news.ycombinator.com/item?id=38394787) - [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
 * [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
