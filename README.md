@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-23, 19:16:08](https://news.ycombinator.com/item?id=38396345) - [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
 * [2023-11-23, 18:10:39](https://news.ycombinator.com/item?id=38395655) - [After OpenAI's Blowup, It Seems Pretty Clear That 'AI Safety' Isn't a Real Thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
 * [2023-11-23, 17:00:06](https://news.ycombinator.com/item?id=38394828) - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
 * [2023-11-23, 16:56:24](https://news.ycombinator.com/item?id=38394787) - [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
@@ -22,7 +23,6 @@
 * [2023-11-23, 11:52:57](https://news.ycombinator.com/item?id=38391787) - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2023-11-23, 10:42:25](https://news.ycombinator.com/item?id=38391403) - [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
-* [2023-11-23, 06:42:08](https://news.ycombinator.com/item?id=38390052) - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
 * [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
