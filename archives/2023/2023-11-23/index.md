@@ -11,6 +11,7 @@
 * [2023-11-23, 12:15:09](https://news.ycombinator.com/item?id=38391934) - [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
 * [2023-11-23, 12:09:19](https://news.ycombinator.com/item?id=38391898) - [The Great Enshittening](https://pluralistic.net/2023/11/22/who-wins-the-argument/)
 * [2023-11-23, 11:52:57](https://news.ycombinator.com/item?id=38391787) - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+* [2023-11-23, 11:49:19](https://news.ycombinator.com/item?id=38391768) - [The complete guide to iOS and macOS development in Neovim](https://wojciechkulik.pl/ios/the-complete-guide-to-ios-macos-development-in-neovim)
 * [2023-11-23, 11:40:30](https://news.ycombinator.com/item?id=38391728) - [Large amounts of carbon capture as a solution is an 'illusion'](https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/)
 * [2023-11-23, 11:26:58](https://news.ycombinator.com/item?id=38391655) - [Rumours of SR-71 Blackbird Successor from Lockheed's Skunkworks](https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/)
 * [2023-11-23, 10:42:25](https://news.ycombinator.com/item?id=38391403) - [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
