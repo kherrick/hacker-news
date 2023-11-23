@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-11-23, 14:08:07",
+      "https://news.ycombinator.com/item?id=38392887"
+    ],
+    [
+      "OpenSSL Announces Final Release of OpenSSL 3.2.0",
+      "https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 13:32:16",
       "https://news.ycombinator.com/item?id=38392540"
     ],
@@ -167,16 +177,6 @@
     [
       "Polio Is on the Brink of Eradication",
       "https://www.nature.com/articles/d41586-023-03602-5"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 12:15:09",
-      "https://news.ycombinator.com/item?id=38391934"
-    ],
-    [
-      "I discovered caching CDNs were throttling my everyday browsing",
-      "https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/"
     ]
   ],
   [
