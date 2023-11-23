@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-23, 10:12:53](https://news.ycombinator.com/item?id=38391252) - [UK government blocks MP questions about Gaza-related activity at its Cyprus base](https://www.declassifieduk.org/uk-government-blocks-mp-questions-about-gaza-related-activity-at-its-cyprus-base/)
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Pioneer of Google's Data Centers Dies at 58](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 06:42:08](https://news.ycombinator.com/item?id=38390052) - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
 * [2023-11-23, 06:35:09](https://news.ycombinator.com/item?id=38390018) - [Exploding Head Syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
 * [2023-11-23, 06:24:43](https://news.ycombinator.com/item?id=38389958) - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
+* [2023-11-23, 05:05:18](https://news.ycombinator.com/item?id=38389508) - [Pierre de Fermat's Link to a High School Student's Prime Math Proof](https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/)
 * [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 * [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-23, 02:54:26](https://news.ycombinator.com/item?id=38388669) - [Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)

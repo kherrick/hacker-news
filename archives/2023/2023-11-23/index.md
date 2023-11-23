@@ -10,6 +10,7 @@
 * [2023-11-23, 06:35:09](https://news.ycombinator.com/item?id=38390018) - [Exploding Head Syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
 * [2023-11-23, 06:24:43](https://news.ycombinator.com/item?id=38389958) - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
 * [2023-11-23, 05:20:15](https://news.ycombinator.com/item?id=38389618) - [Don't Kill My App](https://dontkillmyapp.com/)
+* [2023-11-23, 05:05:18](https://news.ycombinator.com/item?id=38389508) - [Pierre de Fermat's Link to a High School Student's Prime Math Proof](https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/)
 * [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 * [2023-11-23, 04:19:52](https://news.ycombinator.com/item?id=38389223) - [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
 * [2023-11-23, 03:43:15](https://news.ycombinator.com/item?id=38388990) - [Meta: Gaia - A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
