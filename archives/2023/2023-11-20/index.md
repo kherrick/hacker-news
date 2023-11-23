@@ -95,6 +95,7 @@
 * [2023-11-20, 08:39:48](https://news.ycombinator.com/item?id=38344822) - [Improving the efficiency of your regular expressions](https://abseil.io/fast/21)
 * [2023-11-20, 08:27:23](https://news.ycombinator.com/item?id=38344644) - [Sam Altman is the CEO of a new AI group under Microsoft](https://twitter.com/satyanadella/status/1726516824597258569)
 * [2023-11-20, 08:15:08](https://news.ycombinator.com/item?id=38344477) - [Microsoft just hired Sam and Greg to lead a new advanced AI research team](https://www.axios.com/2023/11/20/microsoft-hires-sam-altman-and-greg-brockman-to-lead-new-ai-research-unit)
+* [2023-11-20, 08:13:13](https://news.ycombinator.com/item?id=38344444) - [Three chips in and Google Tensor is on life support](https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html)
 * [2023-11-20, 08:08:52](https://news.ycombinator.com/item?id=38344385) - [Microsoft Hires Former OpenAI CEO Sam Altman](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)
 * [2023-11-20, 08:08:08](https://news.ycombinator.com/item?id=38344358) - [Anti Tank Vespa](https://en.wikipedia.org/wiki/Vespa_150_TAP)
 * [2023-11-20, 07:58:08](https://news.ycombinator.com/item?id=38344213) - [Mansion Blocks Filled London with Stacks of Flats](https://www.bloomberg.com/news/features/2023-11-20/the-design-history-of-london-s-mansion-block-apartment-buildings)
