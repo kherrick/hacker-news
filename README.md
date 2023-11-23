@@ -2,7 +2,6 @@
 
 * [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 * [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-* [2023-11-23, 03:09:50](https://news.ycombinator.com/item?id=38388754) - [Why viXra?](https://vixra.org/why)
 * [2023-11-23, 02:54:26](https://news.ycombinator.com/item?id=38388669) - [Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-11-23, 01:03:36](https://news.ycombinator.com/item?id=38387775) - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 * [2023-11-23, 00:47:35](https://news.ycombinator.com/item?id=38387620) - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
@@ -10,6 +9,7 @@
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-23, 00:13:25](https://news.ycombinator.com/item?id=38387249) - [The power of bidiagonal matrices](https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/)
 * [2023-11-23, 00:10:31](https://news.ycombinator.com/item?id=38387217) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
+* [2023-11-22, 23:11:34](https://news.ycombinator.com/item?id=38386547) - [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
 * [2023-11-22, 23:07:38](https://news.ycombinator.com/item?id=38386487) - [OpenAI researchers warned board of AI breakthrough ahead of CEO ouster](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
 * [2023-11-22, 21:30:56](https://news.ycombinator.com/item?id=38385419) - [Rogue, and other roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
 * [2023-11-22, 20:54:03](https://news.ycombinator.com/item?id=38384952) - [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
