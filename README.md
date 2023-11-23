@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-23, 17:00:06](https://news.ycombinator.com/item?id=38394828) - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
+* [2023-11-23, 16:56:24](https://news.ycombinator.com/item?id=38394787) - [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
 * [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 * [2023-11-23, 16:40:50](https://news.ycombinator.com/item?id=38394613) - [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
+* [2023-11-23, 16:16:22](https://news.ycombinator.com/item?id=38394364) - [Developer account removed by Apple – $108,878 frozen](https://seraleev.notion.site/Our-developer-account-was-removed-by-Apple-and-they-haven-t-paid-out-108-878-b61192711c74487480373badc70d42c0)
 * [2023-11-23, 16:15:53](https://news.ycombinator.com/item?id=38394357) - [Dbrand Is Suing Casetify](https://twitter.com/dbrand/status/1727721586856222893)
 * [2023-11-23, 15:58:19](https://news.ycombinator.com/item?id=38394156) - [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
 * [2023-11-23, 15:20:05](https://news.ycombinator.com/item?id=38393660) - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
-* [2023-11-23, 15:11:31](https://news.ycombinator.com/item?id=38393549) - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
 * [2023-11-23, 14:46:05](https://news.ycombinator.com/item?id=38393264) - [Binance and CEO admit financial crimes, billions coughed up to US govt](https://www.theregister.com/2023/11/22/binance_ceo_settlement/)
 * [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 14:43:13](https://news.ycombinator.com/item?id=38393237) - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
@@ -29,7 +30,6 @@
 * [2023-11-22, 12:18:16](https://news.ycombinator.com/item?id=38378227) - [Silicon Valley's Laundry-App Race (2014)](https://nymag.com/news/features/laundry-apps-2014-5/)
 * [2023-11-22, 10:10:49](https://news.ycombinator.com/item?id=38377307) - [Vtracer: Next-Gen Raster-to-Vector Conversion](https://github.com/visioncortex/vtracer)
 * [2023-11-22, 09:19:42](https://news.ycombinator.com/item?id=38376919) - [The curious case of the abominable shower](https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/)
-* [2023-11-22, 06:58:48](https://news.ycombinator.com/item?id=38375786) - [The Three Projections of Doctor Futamura (2009)](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 
 ## [Archives](archives/index.md)
 
