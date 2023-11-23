@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 16:40:50](https://news.ycombinator.com/item?id=38394613) - [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
 * [2023-11-23, 16:15:53](https://news.ycombinator.com/item?id=38394357) - [Dbrand Is Suing Casetify](https://twitter.com/dbrand/status/1727721586856222893)
 * [2023-11-23, 15:58:19](https://news.ycombinator.com/item?id=38394156) - [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
 * [2023-11-23, 15:58:05](https://news.ycombinator.com/item?id=38394149) - [Some loser in his basement thinks he's defeated Adobe's C2PA](https://www.hackerfactor.com/blog/)
