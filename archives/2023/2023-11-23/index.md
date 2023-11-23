@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-23, 03:12:37](https://news.ycombinator.com/item?id=38388773) - [Show HN: UpNow News – Best unbiased news source](https://goupvote.com/news)
+* [2023-11-23, 02:54:26](https://news.ycombinator.com/item?id=38388669) - [Andrej Karpathy: Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-11-23, 02:18:34](https://news.ycombinator.com/item?id=38388400) - [Ask HN: Is AI safety simply the thought police?](https://news.ycombinator.com/item?id=38388400)
 * [2023-11-23, 01:24:26](https://news.ycombinator.com/item?id=38387963) - [Threat to humanity: The mystery letter that may have sparked the OpenAI chaos](https://www.smh.com.au/business/companies/threat-to-humanity-the-mystery-letter-that-may-have-sparked-the-openai-chaos-20231123-p5em8z.html)
 * [2023-11-23, 01:20:47](https://news.ycombinator.com/item?id=38387932) - [A.I. Belongs to the Capitalists Now](https://www.nytimes.com/2023/11/22/technology/openai-board-capitalists.html)
