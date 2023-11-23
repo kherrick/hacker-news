@@ -79,6 +79,7 @@
 * [2023-11-20, 12:09:30](https://news.ycombinator.com/item?id=38346862) - [Roc – A fast, friendly, functional language](https://www.roc-lang.org/)
 * [2023-11-20, 12:01:27](https://news.ycombinator.com/item?id=38346794) - [Best Practices for Time Travelers (2003)](https://idlewords.com/2003/09/best_practices_for_time_travelers.htm)
 * [2023-11-20, 11:35:42](https://news.ycombinator.com/item?id=38346555) - [How can you define a 'drug'? Nobody knows](https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540)
+* [2023-11-20, 11:32:55](https://news.ycombinator.com/item?id=38346527) - [The Bitter Reality of Ebooks and the Kindle Model](https://diessi.ca/blog/the-bitter-reality-of-ebooks/)
 * [2023-11-20, 10:53:45](https://news.ycombinator.com/item?id=38346157) - [Dear Mira and Ilya – congratulations on your coup at OpenAI](https://twitter.com/varun_mathur/status/1725971418238849154)
 * [2023-11-20, 10:41:11](https://news.ycombinator.com/item?id=38346058) - [Mira Murati: OpenAI is nothing without its people](https://twitter.com/miramurati/status/1726542556203483392)
 * [2023-11-20, 10:16:14](https://news.ycombinator.com/item?id=38345858) - [YouTube slows down video load times when using Firefox](https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/)
