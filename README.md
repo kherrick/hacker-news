@@ -18,7 +18,6 @@
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:13:37](https://news.ycombinator.com/item?id=38392388) - [Max Headroom Signal Hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio Is on the Brink of Eradication](https://www.nature.com/articles/d41586-023-03602-5)
-* [2023-11-23, 12:15:09](https://news.ycombinator.com/item?id=38391934) - [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
 * [2023-11-23, 12:13:37](https://news.ycombinator.com/item?id=38391923) - [Training of 1T Parameter Scientific AI Begins](https://www.hpcwire.com/2023/11/13/training-of-1-trillion-parameter-scientific-ai-begins/)
 * [2023-11-23, 11:52:57](https://news.ycombinator.com/item?id=38391787) - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2023-11-23, 10:42:25](https://news.ycombinator.com/item?id=38391403) - [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
@@ -30,6 +29,7 @@
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The Secret Language of Ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 * [2023-11-22, 12:18:16](https://news.ycombinator.com/item?id=38378227) - [Silicon Valley's Laundry-App Race (2014)](https://nymag.com/news/features/laundry-apps-2014-5/)
 * [2023-11-22, 10:10:49](https://news.ycombinator.com/item?id=38377307) - [Vtracer: Next-Gen Raster-to-Vector Conversion](https://github.com/visioncortex/vtracer)
+* [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 
 ## [Archives](archives/index.md)
 
