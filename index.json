@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-11-23, 12:15:09",
-      "https://news.ycombinator.com/item?id=38391934"
-    ],
-    [
-      "I discovered caching CDNs were throttling my everyday browsing",
-      "https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 12:13:37",
       "https://news.ycombinator.com/item?id=38391923"
     ],
@@ -297,6 +287,16 @@
     [
       "Vtracer: Next-Gen Raster-to-Vector Conversion",
       "https://github.com/visioncortex/vtracer"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 06:01:45",
+      "https://news.ycombinator.com/item?id=38375239"
+    ],
+    [
+      "We have reached an agreement in principle for Sam to return to OpenAI as CEO",
+      "https://twitter.com/openai/status/1727206187077370115"
     ]
   ]
 ]
