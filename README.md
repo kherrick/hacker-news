@@ -2,7 +2,6 @@
 
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Pioneer of Google's Data Centers Dies at 58](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 06:42:08](https://news.ycombinator.com/item?id=38390052) - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
-* [2023-11-23, 06:35:09](https://news.ycombinator.com/item?id=38390018) - [Exploding Head Syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
 * [2023-11-23, 06:24:43](https://news.ycombinator.com/item?id=38389958) - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
 * [2023-11-23, 05:05:18](https://news.ycombinator.com/item?id=38389508) - [Pierre de Fermat's Link to a High School Student's Prime Math Proof](https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/)
 * [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
@@ -28,6 +27,7 @@
 * [2023-11-22, 06:09:39](https://news.ycombinator.com/item?id=38375310) - [Zork for the PDP-11 / RT-11 recreated](https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/)
 * [2023-11-22, 06:06:10](https://news.ycombinator.com/item?id=38375273) - [Show HN: Sonic Garbage](https://sonicgarbage.greg.technology/)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
+* [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially faster language modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-21, 13:35:26](https://news.ycombinator.com/item?id=38363394) - [Oculi Mundi collection of rare and ancient maps](https://oculi-mundi.com/)
 * [2023-11-20, 08:13:13](https://news.ycombinator.com/item?id=38344444) - [Three chips in and Google Tensor is on life support](https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html)
 
