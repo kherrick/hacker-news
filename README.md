@@ -5,7 +5,7 @@
 * [2023-11-23, 22:23:51](https://news.ycombinator.com/item?id=38398305) - [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
 * [2023-11-23, 22:21:50](https://news.ycombinator.com/item?id=38398285) - [ESA’s new Ariane 6 rocket passed a major full-scale rehearsal](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
 * [2023-11-23, 21:49:23](https://news.ycombinator.com/item?id=38397947) - [Community Contribution at GitLab](https://community.inc/deep-dives/contribution-gitlab)
-* [2023-11-23, 21:33:26](https://news.ycombinator.com/item?id=38397817) - [YouTube is now blocking Ad Blockers – So I just make ads run faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
+* [2023-11-23, 21:33:26](https://news.ycombinator.com/item?id=38397817) - [YouTube is now blocking ad blockers so I make ads run faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
 * [2023-11-23, 21:25:54](https://news.ycombinator.com/item?id=38397752) - [Programming as a Career Isn't Right for Me](https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82)
 * [2023-11-23, 21:24:10](https://news.ycombinator.com/item?id=38397742) - [The Eyes Have It, by Philip K. Dick (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
@@ -28,8 +28,8 @@
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
-* [2023-11-22, 12:18:16](https://news.ycombinator.com/item?id=38378227) - [Silicon Valley's Laundry-App Race (2014)](https://nymag.com/news/features/laundry-apps-2014-5/)
 * [2023-11-22, 10:10:49](https://news.ycombinator.com/item?id=38377307) - [Vtracer: Next-Gen Raster-to-Vector Conversion](https://github.com/visioncortex/vtracer)
+* [2023-11-20, 12:36:20](https://news.ycombinator.com/item?id=38347090) - [The Radiating Programmer](https://dev.37signals.com/the-radiating-programmer/)
 
 ## [Archives](archives/index.md)
 
