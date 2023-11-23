@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-23, 16:15:53](https://news.ycombinator.com/item?id=38394357) - [Dbrand Is Suing Casetify](https://twitter.com/dbrand/status/1727721586856222893)
 * [2023-11-23, 15:58:19](https://news.ycombinator.com/item?id=38394156) - [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
-* [2023-11-23, 15:38:25](https://news.ycombinator.com/item?id=38393892) - [Give Us Back Liberal](https://johnhcochrane.blogspot.com/2023/11/sunstein-redefines-liberal.html)
 * [2023-11-23, 15:20:05](https://news.ycombinator.com/item?id=38393660) - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
 * [2023-11-23, 15:11:31](https://news.ycombinator.com/item?id=38393549) - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
+* [2023-11-23, 14:46:05](https://news.ycombinator.com/item?id=38393264) - [Binance and CEO admit financial crimes, billions coughed up to US govt](https://www.theregister.com/2023/11/22/binance_ceo_settlement/)
 * [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 14:43:13](https://news.ycombinator.com/item?id=38393237) - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
 * [2023-11-23, 14:21:15](https://news.ycombinator.com/item?id=38393032) - [Write libraries instead of services, where possible](https://catern.com/services.html)
@@ -29,7 +30,6 @@
 * [2023-11-22, 06:58:48](https://news.ycombinator.com/item?id=38375786) - [The Three Projections of Doctor Futamura (2009)](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 * [2023-11-22, 06:09:39](https://news.ycombinator.com/item?id=38375310) - [Zork for the PDP-11 / RT-11 recreated](https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
-* [2023-11-21, 13:35:26](https://news.ycombinator.com/item?id=38363394) - [Oculi Mundi collection of rare and ancient maps](https://oculi-mundi.com/)
 
 ## [Archives](archives/index.md)
 
