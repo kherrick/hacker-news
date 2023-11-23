@@ -18,6 +18,7 @@
 * [2023-11-23, 15:20:05](https://news.ycombinator.com/item?id=38393660) - [C diff spores resist bleach and remain viable on surgical scrubs, fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
 * [2023-11-23, 14:56:50](https://news.ycombinator.com/item?id=38393384) - [Digging for Our Origins in the Bone Beds of an African Park](https://nautil.us/digging-for-our-origins-in-the-bone-beds-of-an-african-park-449572/)
 * [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+* [2023-11-23, 13:44:06](https://news.ycombinator.com/item?id=38392653) - [Eardrum Suck: The Mystery Solved (2019)](https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved)
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
 * [2023-11-23, 11:52:57](https://news.ycombinator.com/item?id=38391787) - [How Gödel's proof works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
@@ -28,7 +29,6 @@
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
-* [2023-11-22, 12:18:16](https://news.ycombinator.com/item?id=38378227) - [Silicon Valley's Laundry-App Race (2014)](https://nymag.com/news/features/laundry-apps-2014-5/)
 * [2023-11-22, 10:10:49](https://news.ycombinator.com/item?id=38377307) - [Vtracer: Next-Gen Raster-to-Vector Conversion](https://github.com/visioncortex/vtracer)
 
 ## [Archives](archives/index.md)
