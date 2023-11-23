@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-23, 10:12:53](https://news.ycombinator.com/item?id=38391252) - [UK government blocks MP questions about Gaza-related activity at its Cyprus base](https://www.declassifieduk.org/uk-government-blocks-mp-questions-about-gaza-related-activity-at-its-cyprus-base/)
+* [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Pioneer of Google's Data Centers Dies at 58](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 06:42:08](https://news.ycombinator.com/item?id=38390052) - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
 * [2023-11-23, 06:35:09](https://news.ycombinator.com/item?id=38390018) - [Exploding Head Syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
 * [2023-11-23, 06:24:43](https://news.ycombinator.com/item?id=38389958) - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
@@ -15,8 +17,6 @@
 * [2023-11-22, 23:07:38](https://news.ycombinator.com/item?id=38386487) - [OpenAI researchers warned board of AI breakthrough ahead of CEO ouster](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
 * [2023-11-22, 21:30:56](https://news.ycombinator.com/item?id=38385419) - [Rogue, and other roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
 * [2023-11-22, 20:54:03](https://news.ycombinator.com/item?id=38384952) - [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
-* [2023-11-22, 19:11:59](https://news.ycombinator.com/item?id=38383696) - [Army ants use collective intelligence to build bridges](https://www.npr.org/2023/11/21/1214246291/army-ants-architecture-science-robots-research)
-* [2023-11-22, 19:07:49](https://news.ycombinator.com/item?id=38383646) - [For RoR, see every method call, parameter and return value in production](https://callstacking.com/)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 17:32:35](https://news.ycombinator.com/item?id=38382225) - [Welding and the automation frontier](https://www.construction-physics.com/p/welding-and-the-automation-frontier)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
