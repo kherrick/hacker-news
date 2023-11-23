@@ -20,6 +20,7 @@
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 17:32:35](https://news.ycombinator.com/item?id=38382225) - [Welding and the automation frontier](https://www.construction-physics.com/p/welding-and-the-automation-frontier)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
+* [2023-11-22, 15:01:38](https://news.ycombinator.com/item?id=38380137) - [VMware is now part of Broadcom](https://www.broadcom.com/info/vmware)
 * [2023-11-22, 12:53:17](https://news.ycombinator.com/item?id=38378498) - [Launched Playtoob, a simple YouTube companion, because my 5yo daughter loves it](https://playtoob.com/)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Before OpenAI, Sam Altman was fired from Y Combinator by his mentor](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
 * [2023-11-22, 09:19:42](https://news.ycombinator.com/item?id=38376919) - [The curious case of the abominable shower](https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/)
@@ -27,7 +28,6 @@
 * [2023-11-22, 06:09:39](https://news.ycombinator.com/item?id=38375310) - [Zork for the PDP-11 / RT-11 recreated](https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/)
 * [2023-11-22, 06:06:10](https://news.ycombinator.com/item?id=38375273) - [Show HN: Sonic Garbage](https://sonicgarbage.greg.technology/)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
-* [2023-11-22, 00:44:39](https://news.ycombinator.com/item?id=38372936) - [Yoyozo: How I made a Playdate game in 39k](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 * [2023-11-21, 13:35:26](https://news.ycombinator.com/item?id=38363394) - [Oculi Mundi collection of rare and ancient maps](https://oculi-mundi.com/)
 * [2023-11-20, 08:13:13](https://news.ycombinator.com/item?id=38344444) - [Three chips in and Google Tensor is on life support](https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html)
 
