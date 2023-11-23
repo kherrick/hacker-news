@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 21:49:23](https://news.ycombinator.com/item?id=38397947) - [Community Contributions at GitLab](https://community.inc/deep-dives/contribution-gitlab)
 * [2023-11-23, 21:33:26](https://news.ycombinator.com/item?id=38397817) - [YouTube is now blocking Ad Blockers – So I just make ads run 16x faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
 * [2023-11-23, 21:25:54](https://news.ycombinator.com/item?id=38397752) - [Programming as a Career Isn't Right for Me](https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82)
+* [2023-11-23, 21:24:10](https://news.ycombinator.com/item?id=38397742) - [The Eyes Have It, by Philip K. Dick (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 * [2023-11-23, 20:52:21](https://news.ycombinator.com/item?id=38397404) - [The first Spanish AI model earning up to €10k per month](https://www.euronews.com/next/2023/11/22/meet-the-first-spanish-ai-model-earning-up-to-10000-per-month)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
 * [2023-11-23, 19:41:23](https://news.ycombinator.com/item?id=38396653) - [Possibility That an SEC Investigation of Altman and Nadella May Soon Be Filed](https://michigan-post.com/redditors-from-r-wallstreetbets-call-attention-to-possibility-that-an-sec-investigation-of-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella-may-soon-be-filed/)
