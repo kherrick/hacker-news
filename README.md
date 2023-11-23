@@ -6,6 +6,7 @@
 * [2023-11-23, 01:03:36](https://news.ycombinator.com/item?id=38387775) - [Auroratone, a Psychedelic 1940s Film, That Helped WWII Vets Overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 * [2023-11-23, 00:47:35](https://news.ycombinator.com/item?id=38387620) - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [Test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
+* [2023-11-23, 00:13:25](https://news.ycombinator.com/item?id=38387249) - [The Power of Bidiagonal Matrices](https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/)
 * [2023-11-22, 23:11:34](https://news.ycombinator.com/item?id=38386547) - [ChatGPT generates fake data set to support scientific hypothesis](https://www.nature.com/articles/d41586-023-03635-w)
 * [2023-11-22, 22:32:52](https://news.ycombinator.com/item?id=38386118) - [Tesla workers report explosions, concussions and robot injuries at Texas factory](https://www.theverge.com/2023/11/21/23971138/tesla-gigafactory-austin-texas-injury-reports-robot-claw-explosion)
 * [2023-11-22, 21:30:56](https://news.ycombinator.com/item?id=38385419) - [Rogue, and other roguelikes for Amiga](https://www.amigalove.com/viewtopic.php?t=2639)
@@ -29,7 +30,6 @@
 * [2023-11-22, 00:44:39](https://news.ycombinator.com/item?id=38372936) - [Yoyozo: How I made a Playdate game in 39k](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 * [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially faster language modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-20, 23:47:05](https://news.ycombinator.com/item?id=38356702) - [Stack buffer overflow attack: 211BSD on the PDP-11](https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html)
-* [2023-11-20, 12:01:27](https://news.ycombinator.com/item?id=38346794) - [Best Practices for Time Travelers (2003)](https://idlewords.com/2003/09/best_practices_for_time_travelers.htm)
 
 ## [Archives](archives/index.md)
 
