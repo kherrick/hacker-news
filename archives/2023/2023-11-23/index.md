@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 15:20:05](https://news.ycombinator.com/item?id=38393660) - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
+* [2023-11-23, 15:11:31](https://news.ycombinator.com/item?id=38393549) - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
 * [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 14:43:13](https://news.ycombinator.com/item?id=38393237) - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
 * [2023-11-23, 14:21:15](https://news.ycombinator.com/item?id=38393032) - [Write libraries instead of services, where possible](https://catern.com/services.html)

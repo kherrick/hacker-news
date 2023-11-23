@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-23, 15:20:05](https://news.ycombinator.com/item?id=38393660) - [C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418)
+* [2023-11-23, 15:11:31](https://news.ycombinator.com/item?id=38393549) - [Enums in Rust – and why they feel better](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
 * [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 14:43:13](https://news.ycombinator.com/item?id=38393237) - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
 * [2023-11-23, 14:21:15](https://news.ycombinator.com/item?id=38393032) - [Write libraries instead of services, where possible](https://catern.com/services.html)
@@ -17,9 +19,7 @@
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 06:42:08](https://news.ycombinator.com/item?id=38390052) - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
 * [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
-* [2023-11-23, 02:25:36](https://news.ycombinator.com/item?id=38388456) - [Sorry You Missed It – Inside Rockstar North Blog Shut Down](https://insiderockstarnorth.blogspot.com/2023/11/sorry-you-missed-it.html)
 * [2023-11-23, 01:03:36](https://news.ycombinator.com/item?id=38387775) - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
-* [2023-11-23, 00:40:59](https://news.ycombinator.com/item?id=38387554) - [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-23, 00:10:31](https://news.ycombinator.com/item?id=38387217) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
