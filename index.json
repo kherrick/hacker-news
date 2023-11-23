@@ -65,18 +65,8 @@
       "https://news.ycombinator.com/item?id=38394635"
     ],
     [
-      "The Story of Titanium",
+      "The story of titanium",
       "https://www.construction-physics.com/p/the-story-of-titanium"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 16:40:50",
-      "https://news.ycombinator.com/item?id=38394613"
-    ],
-    [
-      "Chrome pushes forward with plans to limit ad blockers in the future",
-      "https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future"
     ]
   ],
   [
@@ -101,11 +91,31 @@
   ],
   [
     [
+      "2023-11-23, 16:15:53",
+      "https://news.ycombinator.com/item?id=38394357"
+    ],
+    [
+      "Dbrand Is Suing Casetify",
+      "https://twitter.com/dbrand/status/1727721586856222893"
+    ]
+  ],
+  [
+    [
+      "2023-11-23, 15:58:19",
+      "https://news.ycombinator.com/item?id=38394156"
+    ],
+    [
+      "Qt Creator 12 Released",
+      "https://www.qt.io/blog/qt-creator-12-released"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 15:20:05",
       "https://news.ycombinator.com/item?id=38393660"
     ],
     [
-      "C diff spores resist bleach and remain viable on surgical scrubs andgown fabrics",
+      "C diff spores resist bleach and remain viable on surgical scrubs, fabrics",
       "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=38393390"
     ],
     [
-      "Pierre de Fermat's Link to a High School Student's Prime Math Proof",
+      "Fermat's link to a high school student's prime math proof",
       "https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-11-23, 14:46:05",
-      "https://news.ycombinator.com/item?id=38393264"
-    ],
-    [
-      "Binance and CEO admit financial crimes, billions coughed up to US govt",
-      "https://www.theregister.com/2023/11/22/binance_ceo_settlement/"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 14:43:16",
       "https://news.ycombinator.com/item?id=38393238"
     ],
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2023-11-23, 14:43:13",
-      "https://news.ycombinator.com/item?id=38393237"
-    ],
-    [
-      "US govt pays AT&T to let cops search Americans' phone records without warrant",
-      "https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 14:21:15",
       "https://news.ycombinator.com/item?id=38393032"
     ],
     [
       "Write libraries instead of services, where possible",
       "https://catern.com/services.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 14:11:40",
-      "https://news.ycombinator.com/item?id=38392931"
-    ],
-    [
-      "Despite just 5.8% sales, over 38% of bug reports come from the Linux community (2021)",
-      "https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/"
     ]
   ],
   [
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38392277"
     ],
     [
-      "Polio Is on the Brink of Eradication",
+      "Polio is on the brink of eradication",
       "https://www.nature.com/articles/d41586-023-03602-5"
     ]
   ],
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=38391787"
     ],
     [
-      "How Gödel's Proof Works (2020)",
+      "How Gödel's proof works (2020)",
       "https://www.quantamagazine.org/how-godels-proof-works-20200714/"
     ]
   ],
@@ -215,7 +195,7 @@
       "https://news.ycombinator.com/item?id=38391403"
     ],
     [
-      "Gameboy Technical Reference for Homebrew Developers",
+      "Gameboy technical reference for homebrew developers",
       "https://gbdev.io/pandocs/"
     ]
   ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2023-11-23, 06:42:08",
+      "https://news.ycombinator.com/item?id=38390052"
+    ],
+    [
+      "Writing a Debugger from Scratch: Stacks",
+      "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 00:31:33",
       "https://news.ycombinator.com/item?id=38387464"
     ],
     [
       "test, [, and [[ (2020)",
       "https://jmmv.dev/2020/03/test-bracket.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 16:44:15",
+      "https://news.ycombinator.com/item?id=38381573"
+    ],
+    [
+      "Reflecting on 18 Years at Google",
+      "https://ln.hixie.ch/?start=1700627373&count=1"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38378555"
     ],
     [
-      "The Secret Language of Ships",
+      "The secret language of ships",
       "https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/"
     ]
   ],
