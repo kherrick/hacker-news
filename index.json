@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-23, 12:15:09",
+      "https://news.ycombinator.com/item?id=38391934"
+    ],
+    [
+      "I discovered caching CDNs were throttling my everyday browsing",
+      "https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 11:40:30",
       "https://news.ycombinator.com/item?id=38391728"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-11-22, 21:30:56",
-      "https://news.ycombinator.com/item?id=38385419"
-    ],
-    [
-      "Rogue, and other roguelikes for Amiga",
-      "https://www.amigalove.com/viewtopic.php?t=2639"
-    ]
-  ],
-  [
-    [
       "2023-11-22, 20:54:03",
       "https://news.ycombinator.com/item?id=38384952"
     ],
@@ -187,16 +187,6 @@
     [
       "Fast self-hostable open-source workflow engine",
       "https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 17:32:35",
-      "https://news.ycombinator.com/item?id=38382225"
-    ],
-    [
-      "Welding and the automation frontier",
-      "https://www.construction-physics.com/p/welding-and-the-automation-frontier"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Before OpenAI, Sam Altman was fired from Y Combinator by his mentor",
       "https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 10:10:49",
+      "https://news.ycombinator.com/item?id=38377307"
+    ],
+    [
+      "Vtracer: Next-Gen Raster-to-Vector Conversion",
+      "https://github.com/visioncortex/vtracer"
     ]
   ],
   [
