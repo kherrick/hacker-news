@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-11-23, 12:15:09",
+      "https://news.ycombinator.com/item?id=38391934"
+    ],
+    [
+      "I discovered caching CDNs were throttling my everyday browsing",
+      "https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 12:13:37",
       "https://news.ycombinator.com/item?id=38391923"
     ],
@@ -287,16 +297,6 @@
     [
       "Vtracer: Next-Gen Raster-to-Vector Conversion",
       "https://github.com/visioncortex/vtracer"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 09:19:42",
-      "https://news.ycombinator.com/item?id=38376919"
-    ],
-    [
-      "The curious case of the abominable shower",
-      "https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/"
     ]
   ]
 ]
