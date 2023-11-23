@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-23, 12:41:13](https://news.ycombinator.com/item?id=38392146) - [Spotify Will End Service in Uruguay Due to Bill Requiring Fair Pay for Artists](https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news)
+* [2023-11-23, 12:35:05](https://news.ycombinator.com/item?id=38392086) - [Promises Training: Practical Exercises on Promises in JavaScript](https://github.com/henriqueinonhe/promises-training)
 * [2023-11-23, 12:15:09](https://news.ycombinator.com/item?id=38391934) - [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
 * [2023-11-23, 11:40:30](https://news.ycombinator.com/item?id=38391728) - [Large amounts of carbon capture as a solution is an 'illusion'](https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/)
 * [2023-11-23, 11:26:58](https://news.ycombinator.com/item?id=38391655) - [Rumours of SR-71 Blackbird Successor from Lockheed's Skunkworks](https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/)
@@ -20,14 +22,12 @@
 * [2023-11-22, 20:54:03](https://news.ycombinator.com/item?id=38384952) - [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
-* [2023-11-22, 15:01:38](https://news.ycombinator.com/item?id=38380137) - [VMware is now part of Broadcom](https://www.broadcom.com/info/vmware)
 * [2023-11-22, 12:17:10](https://news.ycombinator.com/item?id=38378216) - [Before OpenAI, Sam Altman was fired from Y Combinator by his mentor](https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/)
 * [2023-11-22, 10:10:49](https://news.ycombinator.com/item?id=38377307) - [Vtracer: Next-Gen Raster-to-Vector Conversion](https://github.com/visioncortex/vtracer)
 * [2023-11-22, 09:19:42](https://news.ycombinator.com/item?id=38376919) - [The curious case of the abominable shower](https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/)
 * [2023-11-22, 08:23:48](https://news.ycombinator.com/item?id=38376507) - [Litterbox – Analysis of Scratch Projects](https://scratch.fim.uni-passau.de/litterbox/about.php)
 * [2023-11-22, 06:09:39](https://news.ycombinator.com/item?id=38375310) - [Zork for the PDP-11 / RT-11 recreated](https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/)
 * [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
-* [2023-11-21, 14:31:08](https://news.ycombinator.com/item?id=38364084) - [Exponentially faster language modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-21, 13:35:26](https://news.ycombinator.com/item?id=38363394) - [Oculi Mundi collection of rare and ancient maps](https://oculi-mundi.com/)
 * [2023-11-20, 08:13:13](https://news.ycombinator.com/item?id=38344444) - [Three chips in and Google Tensor is on life support](https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html)
 
