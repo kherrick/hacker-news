@@ -78,6 +78,7 @@
 * [2023-11-22, 11:24:00](https://news.ycombinator.com/item?id=38377789) - [Development of San Andreas (2003-2004)](https://insiderockstarnorth.blogspot.com/2023/11/development-of-san-andreas-2003-2004.html)
 * [2023-11-22, 11:22:27](https://news.ycombinator.com/item?id=38377779) - [Lectron (Raytheon electronic block kits)](http://www.decodesystems.com/lectron.html)
 * [2023-11-22, 10:55:42](https://news.ycombinator.com/item?id=38377608) - [Ridley Scott: Our Anglo-Saxon Maximus](https://americanaffairsjournal.org/2023/11/greening-the-void-climate-change-and-political-legitimacy/)
+* [2023-11-22, 10:10:49](https://news.ycombinator.com/item?id=38377307) - [Vtracer: Next-Gen Raster-to-Vector Conversion](https://github.com/visioncortex/vtracer)
 * [2023-11-22, 10:06:06](https://news.ycombinator.com/item?id=38377263) - [The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2023-11-22, 09:38:46](https://news.ycombinator.com/item?id=38377072) - [LM Studio – Discover, download, and run local LLMs](https://lmstudio.ai/)
 * [2023-11-22, 09:19:42](https://news.ycombinator.com/item?id=38376919) - [The curious case of the abominable shower](https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/)
