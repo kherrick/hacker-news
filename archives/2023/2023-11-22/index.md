@@ -66,6 +66,7 @@
 * [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and linting Python at scale](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
 * [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
 * [2023-11-22, 13:02:26](https://news.ycombinator.com/item?id=38378595) - [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
+* [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The Secret Language of Ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 * [2023-11-22, 12:53:17](https://news.ycombinator.com/item?id=38378498) - [Launched Playtoob, a simple YouTube companion, because my 5yo daughter loves it](https://playtoob.com/)
 * [2023-11-22, 12:50:24](https://news.ycombinator.com/item?id=38378483) - [.NET 8's Best Blazor is not Blazor as we know it](https://servicestack.net/posts/net8-best-blazor)
 * [2023-11-22, 12:49:51](https://news.ycombinator.com/item?id=38378481) - [Rocket – Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/)
