@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-23, 04:19:52](https://news.ycombinator.com/item?id=38389223) - [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
+* [2023-11-23, 03:43:15](https://news.ycombinator.com/item?id=38388990) - [Meta: Gaia - A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 * [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+* [2023-11-23, 02:54:26](https://news.ycombinator.com/item?id=38388669) - [Andrej Karpathy: Intro to Large Language Models [Video]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-11-23, 01:03:36](https://news.ycombinator.com/item?id=38387775) - [Auroratone, a psychedelic 1940s film that helped WWII vets overcome PTSD](https://www.openculture.com/2023/11/watch-an-auroratone-a-psychedelic-1940s-film.html)
 * [2023-11-23, 00:47:35](https://news.ycombinator.com/item?id=38387620) - [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook/)
 * [2023-11-23, 00:40:59](https://news.ycombinator.com/item?id=38387554) - [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement/)
@@ -14,7 +15,6 @@
 * [2023-11-22, 19:11:59](https://news.ycombinator.com/item?id=38383696) - [Army ants use collective intelligence to build bridges](https://www.npr.org/2023/11/21/1214246291/army-ants-architecture-science-robots-research)
 * [2023-11-22, 19:07:49](https://news.ycombinator.com/item?id=38383646) - [For RoR, see every method call, parameter and return value in production](https://callstacking.com/)
 * [2023-11-22, 18:33:04](https://news.ycombinator.com/item?id=38383138) - [Fast self-hostable open-source workflow engine](https://www.windmill.dev/blog/launch-week-1/fastest-workflow-engine)
-* [2023-11-22, 18:31:01](https://news.ycombinator.com/item?id=38383099) - [All design and engineering of the original Tesla Roadster is now open source](https://twitter.com/elonmusk/status/1727392569238159491)
 * [2023-11-22, 17:32:35](https://news.ycombinator.com/item?id=38382225) - [Welding and the automation frontier](https://www.construction-physics.com/p/welding-and-the-automation-frontier)
 * [2023-11-22, 17:22:17](https://news.ycombinator.com/item?id=38382067) - [My experience trying to write human-sounding articles using Claude AI](https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai)
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
