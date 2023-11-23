@@ -2,6 +2,7 @@
 
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
 * [2023-11-23, 19:16:08](https://news.ycombinator.com/item?id=38396345) - [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
+* [2023-11-23, 18:23:56](https://news.ycombinator.com/item?id=38395813) - [Snaps. Why? Please Stop](https://forums.linuxmint.com/viewtopic.php?t=288004)
 * [2023-11-23, 18:10:39](https://news.ycombinator.com/item?id=38395655) - [After OpenAI's blowup, it seems pretty clear that 'AI safety' isn't a real thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
 * [2023-11-23, 17:00:06](https://news.ycombinator.com/item?id=38394828) - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
 * [2023-11-23, 16:56:24](https://news.ycombinator.com/item?id=38394787) - [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
@@ -24,7 +25,6 @@
 * [2023-11-23, 10:42:25](https://news.ycombinator.com/item?id=38391403) - [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
-* [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 13:51:44](https://news.ycombinator.com/item?id=38379104) - [Show HN: UI Library Creator](https://shuffle.dev/library-creator)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The Secret Language of Ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)

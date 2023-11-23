@@ -7,6 +7,7 @@
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
 * [2023-11-23, 19:41:23](https://news.ycombinator.com/item?id=38396653) - [Possibility That an SEC Investigation of Altman and Nadella May Soon Be Filed](https://michigan-post.com/redditors-from-r-wallstreetbets-call-attention-to-possibility-that-an-sec-investigation-of-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella-may-soon-be-filed/)
 * [2023-11-23, 19:16:08](https://news.ycombinator.com/item?id=38396345) - [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
+* [2023-11-23, 18:23:56](https://news.ycombinator.com/item?id=38395813) - [Snaps. Why? Please Stop](https://forums.linuxmint.com/viewtopic.php?t=288004)
 * [2023-11-23, 18:10:39](https://news.ycombinator.com/item?id=38395655) - [After OpenAI's Blowup, It Seems Pretty Clear That 'AI Safety' Isn't a Real Thing](https://gizmodo.com/ai-safety-openai-sam-altman-ouster-back-microsoft-1851038439)
 * [2023-11-23, 17:00:06](https://news.ycombinator.com/item?id=38394828) - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
 * [2023-11-23, 16:56:24](https://news.ycombinator.com/item?id=38394787) - [Committing to Rust for Kernel Code](https://lwn.net/SubscriberLink/952029/412bfd44912e90b2/)
