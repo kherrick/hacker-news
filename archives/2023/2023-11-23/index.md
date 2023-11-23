@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 14:08:07](https://news.ycombinator.com/item?id=38392887) - [OpenSSL Announces Final Release of OpenSSL 3.2.0](https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/)
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – an interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:25:51](https://news.ycombinator.com/item?id=38392484) - [The Fallout from the Weirdness at OpenAI](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai)
+* [2023-11-23, 13:13:37](https://news.ycombinator.com/item?id=38392388) - [Max Headroom Signal Hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
 * [2023-11-23, 12:41:13](https://news.ycombinator.com/item?id=38392146) - [Spotify Will End Service in Uruguay Due to Bill Requiring Fair Pay for Artists](https://mixmag.net/read/spotify-end-service-uruguay-copyright-law-change-artists-fair-pay-amendment-news)
 * [2023-11-23, 12:35:05](https://news.ycombinator.com/item?id=38392086) - [Promises Training: Practical Exercises on Promises in JavaScript](https://github.com/henriqueinonhe/promises-training)
 * [2023-11-23, 12:15:09](https://news.ycombinator.com/item?id=38391934) - [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
