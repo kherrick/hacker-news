@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 14:43:13](https://news.ycombinator.com/item?id=38393237) - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+* [2023-11-23, 14:21:15](https://news.ycombinator.com/item?id=38393032) - [Write libraries instead of services, where possible](https://catern.com/services.html)
 * [2023-11-23, 14:08:07](https://news.ycombinator.com/item?id=38392887) - [OpenSSL Announces Final Release of OpenSSL 3.2.0](https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/)
+* [2023-11-23, 14:01:34](https://news.ycombinator.com/item?id=38392824) - [Workers AI Update: Stable Diffusion, Code Llama and Workers AI in 100 Cities](https://blog.cloudflare.com/workers-ai-update-stable-diffusion-code-llama-workers-ai-in-100-cities/)
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – an interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:25:51](https://news.ycombinator.com/item?id=38392484) - [The Fallout from the Weirdness at OpenAI](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai)
 * [2023-11-23, 13:13:37](https://news.ycombinator.com/item?id=38392388) - [Max Headroom Signal Hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
