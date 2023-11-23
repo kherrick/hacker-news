@@ -58,6 +58,7 @@
 * [2023-11-21, 13:53:41](https://news.ycombinator.com/item?id=38363602) - [Super Mario RPG is an endearing, perplexing relic](https://www.polygon.com/reviews/23960636/super-mario-rpg-2023-switch-remake-review)
 * [2023-11-21, 13:41:15](https://news.ycombinator.com/item?id=38363449) - [Giant batteries drain economics of gas power plants](https://www.reuters.com/business/energy/giant-batteries-drain-economics-gas-power-plants-2023-11-21/)
 * [2023-11-21, 13:39:00](https://news.ycombinator.com/item?id=38363428) - [Insta360's New Ace Pro Combines Leica Engineering with Computational Photography](https://petapixel.com/2023/11/21/insta360s-new-ace-pro-combines-leica-engineering-with-computational-photography/)
+* [2023-11-21, 13:35:26](https://news.ycombinator.com/item?id=38363394) - [Oculi Mundi collection of rare and ancient maps](https://oculi-mundi.com/)
 * [2023-11-21, 13:29:12](https://news.ycombinator.com/item?id=38363333) - [Inside Ohio State’s DEI Factory](https://www.wsj.com/articles/inside-ohio-states-dei-factory-faculty-report-diversity-hiring-cefd804d)
 * [2023-11-21, 13:28:09](https://news.ycombinator.com/item?id=38363321) - [How hard could charging money be?](https://github.com/getlago/lago/wiki/How-hard-could-charging-money-be%3F)
 * [2023-11-21, 13:06:02](https://news.ycombinator.com/item?id=38363133) - [NY Federal Court: There's a Right to Record Police, Also Inside Station Lobbies](https://www.techdirt.com/2023/11/20/ny-federal-court-theres-a-right-to-record-police-officers-and-state-law-says-that-includes-inside-station-lobbies/)
