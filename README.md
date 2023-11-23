@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-23, 17:00:06](https://news.ycombinator.com/item?id=38394828) - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
+* [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 * [2023-11-23, 16:40:50](https://news.ycombinator.com/item?id=38394613) - [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
 * [2023-11-23, 16:15:53](https://news.ycombinator.com/item?id=38394357) - [Dbrand Is Suing Casetify](https://twitter.com/dbrand/status/1727721586856222893)
 * [2023-11-23, 15:58:19](https://news.ycombinator.com/item?id=38394156) - [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
@@ -15,7 +17,6 @@
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:13:37](https://news.ycombinator.com/item?id=38392388) - [Max Headroom Signal Hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio Is on the Brink of Eradication](https://www.nature.com/articles/d41586-023-03602-5)
-* [2023-11-23, 12:35:05](https://news.ycombinator.com/item?id=38392086) - [Promises Training: Practical Exercises on Promises in JavaScript](https://github.com/henriqueinonhe/promises-training)
 * [2023-11-23, 12:15:09](https://news.ycombinator.com/item?id=38391934) - [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
 * [2023-11-23, 11:52:57](https://news.ycombinator.com/item?id=38391787) - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2023-11-23, 10:42:25](https://news.ycombinator.com/item?id=38391403) - [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
@@ -29,7 +30,6 @@
 * [2023-11-22, 10:10:49](https://news.ycombinator.com/item?id=38377307) - [Vtracer: Next-Gen Raster-to-Vector Conversion](https://github.com/visioncortex/vtracer)
 * [2023-11-22, 09:19:42](https://news.ycombinator.com/item?id=38376919) - [The curious case of the abominable shower](https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/)
 * [2023-11-22, 06:58:48](https://news.ycombinator.com/item?id=38375786) - [The Three Projections of Doctor Futamura (2009)](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
-* [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 
 ## [Archives](archives/index.md)
 

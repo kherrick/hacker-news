@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 17:00:06](https://news.ycombinator.com/item?id=38394828) - [Pepper (YC S19) Is Hiring Founding Data Product Engineer](https://www.ycombinator.com/companies/pepper/jobs/HiLVjDL-founding-data-product-engineer)
+* [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The Story of Titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 * [2023-11-23, 16:40:50](https://news.ycombinator.com/item?id=38394613) - [Chrome pushes forward with plans to limit ad blockers in the future](https://www.malwarebytes.com/blog/news/2023/11/chrome-pushes-forward-with-plans-to-limit-ad-blockers-in-the-future)
 * [2023-11-23, 16:15:53](https://news.ycombinator.com/item?id=38394357) - [Dbrand Is Suing Casetify](https://twitter.com/dbrand/status/1727721586856222893)
 * [2023-11-23, 15:58:19](https://news.ycombinator.com/item?id=38394156) - [Qt Creator 12 Released](https://www.qt.io/blog/qt-creator-12-released)
