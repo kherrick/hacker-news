@@ -85,6 +85,7 @@
 * [2023-11-22, 08:58:22](https://news.ycombinator.com/item?id=38376784) - [Show HN: Deepmark AI- LLM assessment tool for task-specific metrics on your data](https://github.com/IngestAI/deepmark)
 * [2023-11-22, 08:51:13](https://news.ycombinator.com/item?id=38376731) - [Running Windows 98 on the Browser](https://copy.sh/v86/?profile=windows98)
 * [2023-11-22, 08:34:33](https://news.ycombinator.com/item?id=38376589) - [Sam Altman: Why You Should Fear Machine Intelligence (2015)](https://blog.samaltman.com/machine-intelligence-part-1)
+* [2023-11-22, 08:23:48](https://news.ycombinator.com/item?id=38376507) - [Litterbox – Analysis of Scratch Projects](https://scratch.fim.uni-passau.de/litterbox/about.php)
 * [2023-11-22, 06:52:56](https://news.ycombinator.com/item?id=38375728) - [TigerLab – Adversarial Testing for LLMs and Chatbots](https://www.tigerlab.ai)
 * [2023-11-22, 06:19:44](https://news.ycombinator.com/item?id=38375406) - [OpenAI brings Sam Altman back as CEO](https://www.cnbc.com/2023/11/22/openai-brings-sam-altman-back-as-ceo-days-after-ouster.html)
 * [2023-11-22, 06:06:54](https://news.ycombinator.com/item?id=38375283) - [Sam Back at OpenAI](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai)

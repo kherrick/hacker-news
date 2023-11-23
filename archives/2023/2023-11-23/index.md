@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
 * [2023-11-23, 05:20:15](https://news.ycombinator.com/item?id=38389618) - [Don't Kill My App](https://dontkillmyapp.com/)
+* [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 * [2023-11-23, 04:19:52](https://news.ycombinator.com/item?id=38389223) - [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
 * [2023-11-23, 03:43:15](https://news.ycombinator.com/item?id=38388990) - [Meta: Gaia - A Benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 * [2023-11-23, 03:22:05](https://news.ycombinator.com/item?id=38388842) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
