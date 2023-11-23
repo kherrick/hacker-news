@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 21:25:54](https://news.ycombinator.com/item?id=38397752) - [Programming as a Career Isn't Right for Me](https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA](https://habr.com/en/articles/456476/)
 * [2023-11-23, 19:41:23](https://news.ycombinator.com/item?id=38396653) - [Possibility That an SEC Investigation of Altman and Nadella May Soon Be Filed](https://michigan-post.com/redditors-from-r-wallstreetbets-call-attention-to-possibility-that-an-sec-investigation-of-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella-may-soon-be-filed/)
 * [2023-11-23, 19:16:08](https://news.ycombinator.com/item?id=38396345) - [Shellcheck finds bugs in your shell scripts](https://www.shellcheck.net/)
