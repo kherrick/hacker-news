@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 06:24:43](https://news.ycombinator.com/item?id=38389958) - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
 * [2023-11-23, 05:20:15](https://news.ycombinator.com/item?id=38389618) - [Don't Kill My App](https://dontkillmyapp.com/)
 * [2023-11-23, 04:44:05](https://news.ycombinator.com/item?id=38389386) - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 * [2023-11-23, 04:19:52](https://news.ycombinator.com/item?id=38389223) - [Two Fediverses, One Network](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
