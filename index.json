@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-23, 14:43:16",
+      "https://news.ycombinator.com/item?id=38393238"
+    ],
+    [
+      "Git Branches: Intuition and Reality",
+      "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 14:43:13",
       "https://news.ycombinator.com/item?id=38393237"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2023-11-23, 14:21:15",
+      "https://news.ycombinator.com/item?id=38393032"
+    ],
+    [
+      "Write libraries instead of services, where possible",
+      "https://catern.com/services.html"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 14:08:07",
       "https://news.ycombinator.com/item?id=38392887"
     ],
     [
       "OpenSSL Announces Final Release of OpenSSL 3.2.0",
       "https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/"
+    ]
+  ],
+  [
+    [
+      "2023-11-23, 14:01:34",
+      "https://news.ycombinator.com/item?id=38392824"
+    ],
+    [
+      "Workers AI Update: Stable Diffusion, Code Llama and Workers AI in 100 Cities",
+      "https://blog.cloudflare.com/workers-ai-update-stable-diffusion-code-llama-workers-ai-in-100-cities/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-11-22, 20:54:03",
-      "https://news.ycombinator.com/item?id=38384952"
-    ],
-    [
-      "How do I become a graphics programmer?",
-      "https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/"
-    ]
-  ],
-  [
-    [
       "2023-11-22, 16:44:15",
       "https://news.ycombinator.com/item?id=38381573"
     ],
@@ -241,21 +261,11 @@
   ],
   [
     [
-      "2023-11-22, 08:23:48",
-      "https://news.ycombinator.com/item?id=38376507"
-    ],
-    [
-      "Litterbox – Analysis of Scratch Projects",
-      "https://scratch.fim.uni-passau.de/litterbox/about.php"
-    ]
-  ],
-  [
-    [
       "2023-11-22, 06:58:48",
       "https://news.ycombinator.com/item?id=38375786"
     ],
     [
-      "The Three Projections of Doctor Futamura",
+      "The Three Projections of Doctor Futamura (2009)",
       "http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Oculi Mundi collection of rare and ancient maps",
       "https://oculi-mundi.com/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 08:13:13",
-      "https://news.ycombinator.com/item?id=38344444"
-    ],
-    [
-      "Three chips in and Google Tensor is on life support",
-      "https://www.notebookcheck.net/Three-chips-in-and-Google-Tensor-is-on-life-support.768438.0.html"
     ]
   ]
 ]
