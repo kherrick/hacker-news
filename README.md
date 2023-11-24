@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 15:59:38](https://news.ycombinator.com/item?id=38405227) - [Stripe Threatening to Disrupt Our Business](https://news.ycombinator.com/item?id=38405227)
 * [2023-11-24, 15:29:23](https://news.ycombinator.com/item?id=38404925) - [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
 * [2023-11-24, 15:28:07](https://news.ycombinator.com/item?id=38404913) - [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
 * [2023-11-24, 15:14:48](https://news.ycombinator.com/item?id=38404792) - [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
 * [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:38:39](https://news.ycombinator.com/item?id=38404397) - [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
-* [2023-11-24, 14:13:39](https://news.ycombinator.com/item?id=38404131) - [Pokémon is no longer just a game – it's a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
 * [2023-11-24, 14:00:41](https://news.ycombinator.com/item?id=38404016) - [Two Tier Architectures Are Anachronistic [video]](https://www.tele-task.de/lecture/video/10304/)
 * [2023-11-24, 13:46:21](https://news.ycombinator.com/item?id=38403891) - [Shopify live dashboard](https://bfcm.shopify.com/)
 * [2023-11-24, 13:46:05](https://news.ycombinator.com/item?id=38403888) - [A curated list of AI assistants](https://github.com/awesome-assistants/awesome-assistants/blob/main/build/assistants.csv)

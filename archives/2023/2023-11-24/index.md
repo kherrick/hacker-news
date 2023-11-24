@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 15:59:38](https://news.ycombinator.com/item?id=38405227) - [Stripe Threatening to Disrupt Our Business](https://news.ycombinator.com/item?id=38405227)
 * [2023-11-24, 15:29:23](https://news.ycombinator.com/item?id=38404925) - [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
 * [2023-11-24, 15:28:07](https://news.ycombinator.com/item?id=38404913) - [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
 * [2023-11-24, 15:14:48](https://news.ycombinator.com/item?id=38404792) - [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
