@@ -71,6 +71,7 @@
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
 * [2023-11-23, 08:57:40](https://news.ycombinator.com/item?id=38390832) - [Fortran 2023](https://wg5-fortran.org/f2023.html)
+* [2023-11-23, 07:37:26](https://news.ycombinator.com/item?id=38390402) - [A correct-by-construction conversion from lambda calculus to combinatory logic](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/correctbyconstruction-conversion-from-lambda-calculus-to-combinatory-logic/B2A7BCF12A7A5D52B294C78A6F04191F)
 * [2023-11-23, 06:42:08](https://news.ycombinator.com/item?id=38390052) - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
 * [2023-11-23, 06:35:09](https://news.ycombinator.com/item?id=38390018) - [Exploding Head Syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
 * [2023-11-23, 06:24:43](https://news.ycombinator.com/item?id=38389958) - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)
