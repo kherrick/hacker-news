@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
-* [2023-11-24, 18:16:04](https://news.ycombinator.com/item?id=38406625) - [I Challenged Boston Dynamics' Famous Atlas Robot [video]](https://www.youtube.com/watch?v=nAgTgwak7ME)
 * [2023-11-24, 18:09:44](https://news.ycombinator.com/item?id=38406578) - [Ubisoft blames 'technical error' for showing pop-up ads in Assassin's Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
 * [2023-11-24, 17:43:36](https://news.ycombinator.com/item?id=38406315) - [Show HN: AI Generated SVG's](https://vectorart.ai/layout3)
@@ -26,6 +25,7 @@
 * [2023-11-23, 13:53:10](https://news.ycombinator.com/item?id=38392747) - [Show HN: An AI-Generated Encyclopedia](https://mycyclopedia.co/)
 * [2023-11-23, 10:48:48](https://news.ycombinator.com/item?id=38391446) - [Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
+* [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
 * [2023-11-23, 00:00:26](https://news.ycombinator.com/item?id=38387059) - [Resilience, innovation and collapse of settlement networks in Bronze Age Europe](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288750)
 * [2023-11-22, 23:08:00](https://news.ycombinator.com/item?id=38386495) - [Deck-Month: a Decker game jam](https://itch.io/jam/deck-month)
 * [2023-11-22, 13:09:57](https://news.ycombinator.com/item?id=38378652) - [The Meaning of Melancholy](https://onthearts.com/p/the-meaning-of-melancholy)
