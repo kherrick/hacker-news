@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
 * [2023-11-23, 23:49:18](https://news.ycombinator.com/item?id=38399123) - [What do Apple, Meta, TikTok have in common? Fighting Europe's antitrust rules](https://www.theregister.com/2023/11/17/apple_ec_dma/)
+* [2023-11-23, 23:11:25](https://news.ycombinator.com/item?id=38398796) - [Call the Routing Police](https://blog.apnic.net/2023/11/23/call-the-routing-police/)
 * [2023-11-23, 23:07:28](https://news.ycombinator.com/item?id=38398751) - [15 years ago, I helped design Google Maps](https://twitter.com/elizlaraki/status/1727351922254852182)
 * [2023-11-23, 22:49:54](https://news.ycombinator.com/item?id=38398563) - [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
 * [2023-11-23, 22:23:51](https://news.ycombinator.com/item?id=38398305) - [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
