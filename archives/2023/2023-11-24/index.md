@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 23:06:11](https://news.ycombinator.com/item?id=38409353) - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
 * [2023-11-24, 22:48:01](https://news.ycombinator.com/item?id=38409236) - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
+* [2023-11-24, 22:42:43](https://news.ycombinator.com/item?id=38409191) - [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
 * [2023-11-24, 22:37:16](https://news.ycombinator.com/item?id=38409164) - [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 * [2023-11-24, 22:35:08](https://news.ycombinator.com/item?id=38409151) - [Asus Intros GeForce RTX 4060 Ti Video Card with Integrated M.2 SSD Slot](https://www.anandtech.com/show/21158/asus-intros-geforce-rtx-4060-ti-with-m2-ssd-slot)
 * [2023-11-24, 22:23:44](https://news.ycombinator.com/item?id=38409049) - [Kepler, Nvidia's Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
