@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
 * [2023-11-24, 03:26:42](https://news.ycombinator.com/item?id=38400389) - [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
+* [2023-11-24, 02:40:12](https://news.ycombinator.com/item?id=38400162) - [If somafm ever goes away I'll stop writing software](https://somafm.com/?thanksgivingwhat)
 * [2023-11-24, 01:44:01](https://news.ycombinator.com/item?id=38399891) - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
 * [2023-11-24, 01:18:01](https://news.ycombinator.com/item?id=38399767) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 01:16:30](https://news.ycombinator.com/item?id=38399753) - [AI is currently just glorified compression](https://twitter.com/ChombaBupe/status/1727713732359229676)
 * [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2023-11-24, 01:01:33](https://news.ycombinator.com/item?id=38399650) - [Imbue (Formerly Generally Intelligent) (YC S17) Is an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
+* [2023-11-24, 00:52:12](https://news.ycombinator.com/item?id=38399591) - [FullControl: Unconstrained gcode design for 3D printers](https://github.com/FullControlXYZ/fullcontrol)
 * [2023-11-24, 00:40:07](https://news.ycombinator.com/item?id=38399511) - [The Medley Interlisp Project](https://interlisp.org/)
 * [2023-11-24, 00:14:23](https://news.ycombinator.com/item?id=38399333) - [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
 * [2023-11-24, 00:10:46](https://news.ycombinator.com/item?id=38399305) - [Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
