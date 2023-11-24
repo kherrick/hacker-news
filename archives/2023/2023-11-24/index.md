@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
 * [2023-11-24, 12:29:37](https://news.ycombinator.com/item?id=38403297) - [Show HN: AIHairstylist – Try Hairstyles Instantly](https://play.google.com/store/apps/details?id=com.app.aihairstylist&hl=en_US)
+* [2023-11-24, 12:12:13](https://news.ycombinator.com/item?id=38403163) - [I Am Sitting in a Room (1969)](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)
 * [2023-11-24, 12:11:26](https://news.ycombinator.com/item?id=38403154) - [User read the manual, followed instructions, still couldn't make 'Excel' work](https://www.theregister.com/2023/11/24/on_call/)
 * [2023-11-24, 12:01:16](https://news.ycombinator.com/item?id=38403089) - [Langfuse (YC W23) is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
 * [2023-11-24, 11:41:08](https://news.ycombinator.com/item?id=38402939) - [Population of England and Wales grows at fastest rate since 1962](https://www.thisislocallondon.co.uk/news/national/23943664.population-england-wales-grows-fastest-rate-since-1962/)

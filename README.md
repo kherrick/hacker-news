@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-24, 12:29:37](https://news.ycombinator.com/item?id=38403297) - [Show HN: AIHairstylist – Try Hairstyles Instantly](https://play.google.com/store/apps/details?id=com.app.aihairstylist&hl=en_US)
+* [2023-11-24, 12:12:13](https://news.ycombinator.com/item?id=38403163) - [I Am Sitting in a Room (1969)](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)
 * [2023-11-24, 12:11:26](https://news.ycombinator.com/item?id=38403154) - [User read the manual, followed instructions, still couldn't make 'Excel' work](https://www.theregister.com/2023/11/24/on_call/)
 * [2023-11-24, 12:01:16](https://news.ycombinator.com/item?id=38403089) - [Langfuse (YC W23) is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
