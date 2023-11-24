@@ -17,7 +17,6 @@
 * [2023-11-23, 16:19:02](https://news.ycombinator.com/item?id=38394391) - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [2023-11-23, 16:18:45](https://news.ycombinator.com/item?id=38394383) - [Guinea worm disease is close to being eradicated](https://ourworldindata.org/guinea-worm-path-eradication)
 * [2023-11-23, 14:26:53](https://news.ycombinator.com/item?id=38393093) - [Separating debug symbols from executables](https://tweag.io/blog/2023-11-23-debug-fission/)
-* [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
 * [2023-11-23, 11:06:59](https://news.ycombinator.com/item?id=38391548) - [Motorcycle Ergonomics](https://cycle-ergo.com/)
@@ -30,6 +29,7 @@
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
+* [2023-11-20, 12:36:20](https://news.ycombinator.com/item?id=38347090) - [The Radiating Programmer](https://dev.37signals.com/the-radiating-programmer/)
 
 ## [Archives](archives/index.md)
 
