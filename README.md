@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 22:23:44](https://news.ycombinator.com/item?id=38409049) - [Kepler, Nvidia's Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
 * [2023-11-24, 22:02:40](https://news.ycombinator.com/item?id=38408873) - [Botlib: Telegram Bots in C by Antirez](https://github.com/antirez/botlib)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
@@ -9,7 +10,6 @@
 * [2023-11-24, 19:09:54](https://news.ycombinator.com/item?id=38407106) - [The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
 * [2023-11-24, 18:48:19](https://news.ycombinator.com/item?id=38406868) - [Mice eating less isoleucine live longer, healthier](https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/)
-* [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
 * [2023-11-24, 17:43:36](https://news.ycombinator.com/item?id=38406315) - [Show HN: AI Generated SVG's](https://vectorart.ai/layout3)
 * [2023-11-24, 17:40:06](https://news.ycombinator.com/item?id=38406274) - [Tamagui – UI kit that unify React Native and Web](https://tamagui.dev)

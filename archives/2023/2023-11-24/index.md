@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 22:23:44](https://news.ycombinator.com/item?id=38409049) - [Kepler, Nvidia's Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
 * [2023-11-24, 22:02:40](https://news.ycombinator.com/item?id=38408873) - [Botlib: Telegram Bots in C by Antirez](https://github.com/antirez/botlib)
 * [2023-11-24, 21:26:36](https://news.ycombinator.com/item?id=38408555) - [You Won't Survive as Human Capital](https://www.palladiummag.com/2023/11/24/you-wont-survive-as-human-capital/)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
