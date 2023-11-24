@@ -1,7 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 19:52:23](https://news.ycombinator.com/item?id=38407521) - [Cicero](https://ai.meta.com/research/cicero/)
+* [2023-11-24, 19:47:44](https://news.ycombinator.com/item?id=38407480) - [The Cannabis That People Are Using for Anxiety Is Probably Making It Worse](https://www.wsj.com/health/wellness/anxiety-medical-marijuana-treatment-4bfd2cc3)
+* [2023-11-24, 19:33:22](https://news.ycombinator.com/item?id=38407321) - [AI Doomers are worse than wrong – they're incompetent](https://www.infinitescroll.us/p/ai-doomers-are-worse-than-wrong-theyre)
 * [2023-11-24, 19:18:54](https://news.ycombinator.com/item?id=38407197) - [Fire TV now also displays full-screen video ads on its homescreen](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1700729070)
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
+* [2023-11-24, 18:57:12](https://news.ycombinator.com/item?id=38406979) - [Google admits cracking down on people using ad blockers](https://www.standard.co.uk/news/tech/google-admits-cracking-down-ad-blockers-b1122572.html)
 * [2023-11-24, 18:09:44](https://news.ycombinator.com/item?id=38406578) - [Ubisoft blames 'technical error' for showing pop-up ads in Assassin's Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
 * [2023-11-24, 17:49:43](https://news.ycombinator.com/item?id=38406388) - [Google Bard AI Now Has the Ability to Understand YouTube Videos](https://www.youtube.com/watch?v=Ck-0hKVT7Gg)
@@ -11,12 +15,9 @@
 * [2023-11-24, 17:26:05](https://news.ycombinator.com/item?id=38406156) - [Ask HN: How should I setup a phone for a newly blind relative?](https://news.ycombinator.com/item?id=38406156)
 * [2023-11-24, 16:50:15](https://news.ycombinator.com/item?id=38405823) - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 * [2023-11-24, 16:14:46](https://news.ycombinator.com/item?id=38405406) - [Yi-34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)
-* [2023-11-24, 15:35:19](https://news.ycombinator.com/item?id=38404972) - [PhD student bioengineers potato plant to detect gamma radiation](https://phys.org/news/2023-11-phd-student-bioengineers-potato-gamma.html)
 * [2023-11-24, 15:20:32](https://news.ycombinator.com/item?id=38404835) - [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp)
 * [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:00:41](https://news.ycombinator.com/item?id=38404016) - [Two Tier Architectures Are Anachronistic [video]](https://www.tele-task.de/lecture/video/10304/)
-* [2023-11-24, 13:46:21](https://news.ycombinator.com/item?id=38403891) - [Shopify live dashboard](https://bfcm.shopify.com/)
-* [2023-11-24, 12:13:21](https://news.ycombinator.com/item?id=38403176) - [Stripe live dashboard](https://bfcm.stripe.dev/)
 * [2023-11-24, 12:01:16](https://news.ycombinator.com/item?id=38403089) - [Langfuse (YC W23) is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
 * [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
 * [2023-11-24, 09:34:02](https://news.ycombinator.com/item?id=38402092) - [Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
@@ -29,7 +30,6 @@
 * [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [React Spreadsheet 2 – Your Own Google Sheets](https://www.rowsncolumns.app/)
 * [2023-11-23, 00:00:26](https://news.ycombinator.com/item?id=38387059) - [Resilience, innovation and collapse of settlement networks in Bronze Age Europe](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288750)
 * [2023-11-22, 23:08:00](https://news.ycombinator.com/item?id=38386495) - [Deck-Month: a Decker game jam](https://itch.io/jam/deck-month)
-* [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 
 ## [Archives](archives/index.md)
 

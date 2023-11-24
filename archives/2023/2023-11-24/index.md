@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 19:52:23](https://news.ycombinator.com/item?id=38407521) - [Cicero](https://ai.meta.com/research/cicero/)
+* [2023-11-24, 19:47:44](https://news.ycombinator.com/item?id=38407480) - [The Cannabis That People Are Using for Anxiety Is Probably Making It Worse](https://www.wsj.com/health/wellness/anxiety-medical-marijuana-treatment-4bfd2cc3)
+* [2023-11-24, 19:33:22](https://news.ycombinator.com/item?id=38407321) - [AI Doomers are worse than wrong – they're incompetent](https://www.infinitescroll.us/p/ai-doomers-are-worse-than-wrong-theyre)
 * [2023-11-24, 19:18:54](https://news.ycombinator.com/item?id=38407197) - [Fire TV now also displays full-screen video ads on its homescreen](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1700729070)
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
+* [2023-11-24, 18:57:12](https://news.ycombinator.com/item?id=38406979) - [Google admits cracking down on people using ad blockers](https://www.standard.co.uk/news/tech/google-admits-cracking-down-ad-blockers-b1122572.html)
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
 * [2023-11-24, 18:16:04](https://news.ycombinator.com/item?id=38406625) - [I Challenged Boston Dynamics' Famous Atlas Robot [video]](https://www.youtube.com/watch?v=nAgTgwak7ME)
 * [2023-11-24, 18:09:44](https://news.ycombinator.com/item?id=38406578) - [Ubisoft blames 'technical error' for showing pop-up ads in Assassin's Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
