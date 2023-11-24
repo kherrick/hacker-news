@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-24, 01:16:30",
-      "https://news.ycombinator.com/item?id=38399753"
-    ],
-    [
-      "AI is currently just glorified compression",
-      "https://twitter.com/ChombaBupe/status/1727713732359229676"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 01:15:23",
       "https://news.ycombinator.com/item?id=38399740"
     ],
@@ -67,6 +57,16 @@
     [
       "What do Apple, Meta, TikTok have in common? Fighting Europe's antitrust rules",
       "https://www.theregister.com/2023/11/17/apple_ec_dma/"
+    ]
+  ],
+  [
+    [
+      "2023-11-23, 23:11:25",
+      "https://news.ycombinator.com/item?id=38398796"
+    ],
+    [
+      "Call the Routing Police",
+      "https://blog.apnic.net/2023/11/23/call-the-routing-police/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Bluetooth stack modifications to improve audio quality on headphones without AA",
       "https://habr.com/en/articles/456476/"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 19:16:08",
-      "https://news.ycombinator.com/item?id=38396345"
-    ],
-    [
-      "Shellcheck finds bugs in your shell scripts",
-      "https://www.shellcheck.net/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The secret language of ships",
       "https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/"
+    ]
+  ],
+  [
+    [
+      "2023-11-20, 12:36:20",
+      "https://news.ycombinator.com/item?id=38347090"
+    ],
+    [
+      "The Radiating Programmer",
+      "https://dev.37signals.com/the-radiating-programmer/"
     ]
   ]
 ]
