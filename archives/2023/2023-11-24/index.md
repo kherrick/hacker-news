@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 17:38:19](https://news.ycombinator.com/item?id=38406261) - [Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
+* [2023-11-24, 17:26:05](https://news.ycombinator.com/item?id=38406156) - [Ask HN: How should I setup a phone for a newly blind relative?](https://news.ycombinator.com/item?id=38406156)
 * [2023-11-24, 16:50:15](https://news.ycombinator.com/item?id=38405823) - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 * [2023-11-24, 16:42:29](https://news.ycombinator.com/item?id=38405750) - [100% timeout for OpenAI API since 15:00 UTC. Anyone else?](https://news.ycombinator.com/item?id=38405750)
 * [2023-11-24, 16:14:46](https://news.ycombinator.com/item?id=38405406) - [Yi-34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)
@@ -13,6 +15,7 @@
 * [2023-11-24, 15:35:19](https://news.ycombinator.com/item?id=38404972) - [PhD student bioengineers potato plant to detect gamma radiation](https://phys.org/news/2023-11-phd-student-bioengineers-potato-gamma.html)
 * [2023-11-24, 15:29:23](https://news.ycombinator.com/item?id=38404925) - [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
 * [2023-11-24, 15:28:07](https://news.ycombinator.com/item?id=38404913) - [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
+* [2023-11-24, 15:20:32](https://news.ycombinator.com/item?id=38404835) - [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp)
 * [2023-11-24, 15:14:48](https://news.ycombinator.com/item?id=38404792) - [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
 * [2023-11-24, 14:54:51](https://news.ycombinator.com/item?id=38404569) - [MIT physicists turn pencil lead into \"gold\"](https://news.mit.edu/2023/mit-physicists-turn-pencil-lead-into-gold-1114)
 * [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
