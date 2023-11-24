@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 16:42:29](https://news.ycombinator.com/item?id=38405750) - [100% timeout for OpenAI API since 15:00 UTC. Anyone else?](https://news.ycombinator.com/item?id=38405750)
 * [2023-11-24, 16:14:46](https://news.ycombinator.com/item?id=38405406) - [Yi-34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)
 * [2023-11-24, 15:59:38](https://news.ycombinator.com/item?id=38405227) - [Stripe Threatening to Disrupt Our Business](https://news.ycombinator.com/item?id=38405227)
+* [2023-11-24, 15:43:28](https://news.ycombinator.com/item?id=38405046) - [A Visual Guide to the GPL License](https://sebastiancarlos.com/reacting-to-the-gpl-license-ef8f6b7d7c02?gi=ecf01907a62c)
+* [2023-11-24, 15:35:19](https://news.ycombinator.com/item?id=38404972) - [PhD student bioengineers potato plant to detect gamma radiation](https://phys.org/news/2023-11-phd-student-bioengineers-potato-gamma.html)
 * [2023-11-24, 15:29:23](https://news.ycombinator.com/item?id=38404925) - [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
 * [2023-11-24, 15:28:07](https://news.ycombinator.com/item?id=38404913) - [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
 * [2023-11-24, 15:14:48](https://news.ycombinator.com/item?id=38404792) - [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
