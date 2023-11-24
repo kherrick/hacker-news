@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
 * [2023-11-24, 15:28:07](https://news.ycombinator.com/item?id=38404913) - [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
+* [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:38:39](https://news.ycombinator.com/item?id=38404397) - [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
 * [2023-11-24, 14:13:39](https://news.ycombinator.com/item?id=38404131) - [Pokémon is no longer just a game – it's a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
 * [2023-11-24, 13:46:21](https://news.ycombinator.com/item?id=38403891) - [Live Dashboard of Shopify for Black Friday](https://bfcm.shopify.com/)
