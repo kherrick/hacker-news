@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-24, 23:06:11",
+      "https://news.ycombinator.com/item?id=38409353"
+    ],
+    [
+      "Things We Always Remind Ourselves While Coding",
+      "https://changelog.com/posts/things-we-always-remind-ourselves-while-coding"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 22:48:01",
       "https://news.ycombinator.com/item?id=38409236"
     ],
     [
       "Minecraft rewritten from scratch in Kotlin, hypixel works",
       "https://gitlab.bixilon.de/bixilon/minosoft"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 22:42:43",
+      "https://news.ycombinator.com/item?id=38409191"
+    ],
+    [
+      "FastClick: A new architecture for programmable network infrastructure",
+      "https://github.com/tbarbette/fastclick"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-11-24, 19:02:34",
-      "https://news.ycombinator.com/item?id=38407032"
-    ],
-    [
-      "Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data",
-      "https://www.interconnects.ai/p/q-star"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 18:48:19",
       "https://news.ycombinator.com/item?id=38406868"
     ],
@@ -147,16 +157,6 @@
     [
       "Mail-in-a-Box: a mail server in a box",
       "https://github.com/mail-in-a-box/mailinabox"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 17:43:36",
-      "https://news.ycombinator.com/item?id=38406315"
-    ],
-    [
-      "Show HN: AI Generated SVG's",
-      "https://vectorart.ai/layout3"
     ]
   ],
   [
