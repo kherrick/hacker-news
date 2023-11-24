@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 13:46:21](https://news.ycombinator.com/item?id=38403891) - [Live Dashboard of Shopify for Black Friday](https://bfcm.shopify.com/)
+* [2023-11-24, 13:46:05](https://news.ycombinator.com/item?id=38403888) - [A curated list of AI assistants](https://github.com/awesome-assistants/awesome-assistants/blob/main/build/assistants.csv)
 * [2023-11-24, 13:07:26](https://news.ycombinator.com/item?id=38403585) - [Subtitle is now open-source](https://vedgupta.in/blog/subtitle-breaking-down-language-barriers-with-ai-powered-caption-generation)
-* [2023-11-24, 12:34:01](https://news.ycombinator.com/item?id=38403332) - [Ex-owners of sex work site Backpage convicted of prostitution scheme](https://www.theguardian.com/us-news/2023/nov/17/backpage-sex-work-prostitution-money-laundering)
 * [2023-11-24, 12:13:21](https://news.ycombinator.com/item?id=38403176) - [Live dashboard of Stripe systems during Black Friday](https://bfcm.stripe.dev/)
 * [2023-11-24, 12:12:13](https://news.ycombinator.com/item?id=38403163) - [I Am Sitting in a Room (1969)](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)
 * [2023-11-24, 12:11:26](https://news.ycombinator.com/item?id=38403154) - [User read the manual, followed instructions, still couldn't make 'Excel' work](https://www.theregister.com/2023/11/24/on_call/)
@@ -20,7 +21,6 @@
 * [2023-11-23, 21:22:20](https://news.ycombinator.com/item?id=38397715) - [Show HN: Lua Carousel, create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA (2019)](https://habr.com/en/articles/456476/)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
-* [2023-11-23, 11:06:59](https://news.ycombinator.com/item?id=38391548) - [Motorcycle Ergonomics](https://cycle-ergo.com/)
 * [2023-11-23, 10:48:48](https://news.ycombinator.com/item?id=38391446) - [Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
 * [2023-11-23, 10:08:15](https://news.ycombinator.com/item?id=38391229) - [Building a freedom-friendly WiFi pocket-router (2020)](https://www.kulesz.me/post/130-pocket-router/)
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)

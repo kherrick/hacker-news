@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 13:46:21](https://news.ycombinator.com/item?id=38403891) - [Live Dashboard of Shopify for Black Friday](https://bfcm.shopify.com/)
+* [2023-11-24, 13:46:05](https://news.ycombinator.com/item?id=38403888) - [A curated list of AI assistants](https://github.com/awesome-assistants/awesome-assistants/blob/main/build/assistants.csv)
 * [2023-11-24, 13:07:26](https://news.ycombinator.com/item?id=38403585) - [Subtitle is now open-source](https://vedgupta.in/blog/subtitle-breaking-down-language-barriers-with-ai-powered-caption-generation)
 * [2023-11-24, 12:34:01](https://news.ycombinator.com/item?id=38403332) - [Ex-owners of sex work site Backpage convicted of prostitution scheme](https://www.theguardian.com/us-news/2023/nov/17/backpage-sex-work-prostitution-money-laundering)
 * [2023-11-24, 12:29:37](https://news.ycombinator.com/item?id=38403297) - [Show HN: AIHairstylist – Try Hairstyles Instantly](https://play.google.com/store/apps/details?id=com.app.aihairstylist&hl=en_US)
