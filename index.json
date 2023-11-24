@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-24, 14:41:51",
+      "https://news.ycombinator.com/item?id=38404426"
+    ],
+    [
+      "\"Useless Ruby sugar\": Argument forwarding",
+      "https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 14:38:39",
       "https://news.ycombinator.com/item?id=38404397"
     ],
@@ -77,16 +87,6 @@
     [
       "I Am Sitting in a Room (1969)",
       "https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 12:11:26",
-      "https://news.ycombinator.com/item?id=38403154"
-    ],
-    [
-      "User read the manual, followed instructions, still couldn't make 'Excel' work",
-      "https://www.theregister.com/2023/11/24/on_call/"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-11-24, 00:14:23",
-      "https://news.ycombinator.com/item?id=38399333"
+      "2023-11-24, 00:52:12",
+      "https://news.ycombinator.com/item?id=38399591"
     ],
     [
-      "Extremely large telescopes at risk",
-      "https://www.science.org/doi/10.1126/science.adm9964"
+      "FullControl: Unconstrained gcode design for 3D printers",
+      "https://github.com/FullControlXYZ/fullcontrol"
     ]
   ],
   [
