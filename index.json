@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 01:15:23",
+      "https://news.ycombinator.com/item?id=38399740"
+    ],
+    [
+      "Things you're allowed to do (2020)",
+      "https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 01:01:33",
       "https://news.ycombinator.com/item?id=38399650"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2023-11-24, 00:40:07",
+      "https://news.ycombinator.com/item?id=38399511"
+    ],
+    [
+      "The Medley Interlisp Project",
+      "https://interlisp.org/"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 00:14:23",
+      "https://news.ycombinator.com/item?id=38399333"
+    ],
+    [
+      "Extremely large telescopes at risk",
+      "https://www.science.org/doi/10.1126/science.adm9964"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 00:10:46",
       "https://news.ycombinator.com/item?id=38399305"
     ],
     [
       "Revival of Medley/Interlisp",
       "https://www.theregister.com/2023/11/23/medley_interlisp_revival/"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 00:08:13",
+      "https://news.ycombinator.com/item?id=38399285"
+    ],
+    [
+      "OpenAI's anarchist science chief is a techno-spiritual culthead",
+      "https://athenil.com/openai-scientist-ilya-sutskever-cult-spiritual-chatgpt/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2023-11-23, 19:31:08",
-      "https://news.ycombinator.com/item?id=38396526"
-    ],
-    [
-      "Bidding error sees Finnish day-ahead power price tumble to -203.40 euros/MWh",
-      "https://www.nasdaq.com/articles/bidding-error-sees-finnish-day-ahead-power-price-tumble-to-203.40-euros-mwh"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 19:16:08",
       "https://news.ycombinator.com/item?id=38396345"
     ],
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2023-11-23, 15:20:05",
-      "https://news.ycombinator.com/item?id=38393660"
-    ],
-    [
-      "C diff spores resist bleach and remain viable on surgical scrubs, fabrics",
-      "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001418"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 14:43:16",
-      "https://news.ycombinator.com/item?id=38393238"
-    ],
-    [
-      "Git Branches: Intuition and Reality",
-      "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 14:26:53",
       "https://news.ycombinator.com/item?id=38393093"
     ],
@@ -207,6 +217,16 @@
     [
       "How Gödel's proof works (2020)",
       "https://www.quantamagazine.org/how-godels-proof-works-20200714/"
+    ]
+  ],
+  [
+    [
+      "2023-11-23, 11:06:59",
+      "https://news.ycombinator.com/item?id=38391548"
+    ],
+    [
+      "Motorcycle Ergonomics",
+      "https://cycle-ergo.com/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The secret language of ships",
       "https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 10:10:49",
-      "https://news.ycombinator.com/item?id=38377307"
-    ],
-    [
-      "Vtracer: Next-Gen Raster-to-Vector Conversion",
-      "https://github.com/visioncortex/vtracer"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 12:36:20",
-      "https://news.ycombinator.com/item?id=38347090"
-    ],
-    [
-      "The Radiating Programmer",
-      "https://dev.37signals.com/the-radiating-programmer/"
     ]
   ]
 ]
