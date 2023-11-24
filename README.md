@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 21:26:36](https://news.ycombinator.com/item?id=38408555) - [You Won't Survive as Human Capital](https://www.palladiummag.com/2023/11/24/you-wont-survive-as-human-capital/)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2023-11-24, 20:18:30](https://news.ycombinator.com/item?id=38407780) - [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
@@ -9,7 +10,6 @@
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
 * [2023-11-24, 18:48:19](https://news.ycombinator.com/item?id=38406868) - [Mice eating less isoleucine live longer, healthier](https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/)
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
-* [2023-11-24, 18:27:50](https://news.ycombinator.com/item?id=38406708) - [Brain on Books](https://www.publicbooks.org/this-is-your-brain-on-books/)
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
 * [2023-11-24, 17:43:36](https://news.ycombinator.com/item?id=38406315) - [Show HN: AI Generated SVG's](https://vectorart.ai/layout3)
 * [2023-11-24, 17:40:06](https://news.ycombinator.com/item?id=38406274) - [Tamagui – UI kit that unify React Native and Web](https://tamagui.dev)
@@ -19,6 +19,7 @@
 * [2023-11-24, 15:20:32](https://news.ycombinator.com/item?id=38404835) - [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp)
 * [2023-11-24, 14:10:39](https://news.ycombinator.com/item?id=38404099) - [Now streaming: nuclear physics](https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/)
 * [2023-11-24, 12:01:16](https://news.ycombinator.com/item?id=38403089) - [Langfuse (YC W23) is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
+* [2023-11-24, 10:23:23](https://news.ycombinator.com/item?id=38402384) - [Gprobe](https://zeromips.org/posts/2023-11-18-gprobe/)
 * [2023-11-24, 09:34:02](https://news.ycombinator.com/item?id=38402092) - [Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 * [2023-11-24, 08:54:51](https://news.ycombinator.com/item?id=38401871) - [Domicles: Sudoku with Dominoes](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-24, 07:51:17](https://news.ycombinator.com/item?id=38401544) - [AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
@@ -29,7 +30,6 @@
 * [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [React Spreadsheet 2 – Your Own Google Sheets](https://www.rowsncolumns.app/)
 * [2023-11-23, 00:50:45](https://news.ycombinator.com/item?id=38387652) - [The $55M saga of a Netflix series nobody will ever see](https://www.nytimes.com/2023/11/22/business/carl-rinsch-netflix-conquest.html)
 * [2023-11-22, 23:08:00](https://news.ycombinator.com/item?id=38386495) - [Deck-Month: a Decker game jam](https://itch.io/jam/deck-month)
-* [2023-11-21, 04:11:22](https://news.ycombinator.com/item?id=38359089) - ['Electrocaloric' heat pump could transform air conditioning](https://www.nature.com/articles/d41586-023-03595-1)
 
 ## [Archives](archives/index.md)
 

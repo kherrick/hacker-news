@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 21:26:36](https://news.ycombinator.com/item?id=38408555) - [You Won't Survive as Human Capital](https://www.palladiummag.com/2023/11/24/you-wont-survive-as-human-capital/)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2023-11-24, 20:18:30](https://news.ycombinator.com/item?id=38407780) - [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
@@ -56,6 +57,7 @@
 * [2023-11-24, 11:41:08](https://news.ycombinator.com/item?id=38402939) - [Population of England and Wales grows at fastest rate since 1962](https://www.thisislocallondon.co.uk/news/national/23943664.population-england-wales-grows-fastest-rate-since-1962/)
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
 * [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
+* [2023-11-24, 10:23:23](https://news.ycombinator.com/item?id=38402384) - [Gprobe](https://zeromips.org/posts/2023-11-18-gprobe/)
 * [2023-11-24, 10:18:00](https://news.ycombinator.com/item?id=38402361) - [PHP 8.3](https://www.php.net/releases/8.3/en.php)
 * [2023-11-24, 10:10:12](https://news.ycombinator.com/item?id=38402313) - ['What the heck is going on?' High-energy particle falling to Earth](https://www.theguardian.com/science/2023/nov/24/amaterasu-extremely-high-energy-particle-detected-falling-to-earth)
 * [2023-11-24, 09:34:02](https://news.ycombinator.com/item?id=38402092) - [Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
