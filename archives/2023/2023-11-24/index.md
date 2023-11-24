@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 01:16:30](https://news.ycombinator.com/item?id=38399753) - [AI is currently just glorified compression](https://twitter.com/ChombaBupe/status/1727713732359229676)
 * [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2023-11-24, 01:01:33](https://news.ycombinator.com/item?id=38399650) - [Imbue (Formerly Generally Intelligent) (YC S17) Is an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
 * [2023-11-24, 00:40:07](https://news.ycombinator.com/item?id=38399511) - [The Medley Interlisp Project](https://interlisp.org/)
