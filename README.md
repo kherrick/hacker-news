@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 01:16:30](https://news.ycombinator.com/item?id=38399753) - [AI is currently just glorified compression](https://twitter.com/ChombaBupe/status/1727713732359229676)
 * [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2023-11-24, 01:01:33](https://news.ycombinator.com/item?id=38399650) - [Imbue (Formerly Generally Intelligent) (YC S17) Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
 * [2023-11-24, 00:40:07](https://news.ycombinator.com/item?id=38399511) - [The Medley Interlisp Project](https://interlisp.org/)
@@ -29,7 +30,6 @@
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
-* [2023-11-20, 12:36:20](https://news.ycombinator.com/item?id=38347090) - [The Radiating Programmer](https://dev.37signals.com/the-radiating-programmer/)
 
 ## [Archives](archives/index.md)
 
