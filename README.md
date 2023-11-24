@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-24, 05:41:37](https://news.ycombinator.com/item?id=38400929) - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
-* [2023-11-24, 05:36:50](https://news.ycombinator.com/item?id=38400912) - [Tell HN: Spotify now inserts Ads to premium users as well](https://news.ycombinator.com/item?id=38400912)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
 * [2023-11-24, 03:31:45](https://news.ycombinator.com/item?id=38400421) - [State Dept prioritizes 'AI-ready workforce' in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
 * [2023-11-24, 02:40:12](https://news.ycombinator.com/item?id=38400162) - [If somafm ever goes away I'll stop writing software](https://somafm.com/?thanksgivingwhat)
@@ -30,6 +29,7 @@
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
+* [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 
 ## [Archives](archives/index.md)
 
