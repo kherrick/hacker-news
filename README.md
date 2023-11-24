@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 05:41:37](https://news.ycombinator.com/item?id=38400929) - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
 * [2023-11-24, 05:36:50](https://news.ycombinator.com/item?id=38400912) - [Tell HN: Spotify now inserts Ads to premium users as well](https://news.ycombinator.com/item?id=38400912)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
 * [2023-11-24, 03:31:45](https://news.ycombinator.com/item?id=38400421) - [State Dept prioritizes 'AI-ready workforce' in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
@@ -23,7 +24,6 @@
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
 * [2023-11-23, 10:48:48](https://news.ycombinator.com/item?id=38391446) - [Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
 * [2023-11-23, 10:08:15](https://news.ycombinator.com/item?id=38391229) - [Building a freedom-friendly WiFi pocket-router (2021)](https://www.kulesz.me/post/130-pocket-router/)
-* [2023-11-23, 09:57:37](https://news.ycombinator.com/item?id=38391167) - [Don Walsh: The man who made the deepest ever dive](https://www.bbc.com/news/science-environment-67445718)
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
 * [2023-11-23, 07:37:26](https://news.ycombinator.com/item?id=38390402) - [A correct-by-construction conversion from lambda calculus to combinatory logic](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/correctbyconstruction-conversion-from-lambda-calculus-to-combinatory-logic/B2A7BCF12A7A5D52B294C78A6F04191F)
