@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 19:18:54](https://news.ycombinator.com/item?id=38407197) - [Fire TV now also displays full-screen video ads on its homescreen](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1700729070)
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
 * [2023-11-24, 18:16:04](https://news.ycombinator.com/item?id=38406625) - [I Challenged Boston Dynamics' Famous Atlas Robot [video]](https://www.youtube.com/watch?v=nAgTgwak7ME)

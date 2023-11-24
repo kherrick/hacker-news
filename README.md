@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 19:18:54](https://news.ycombinator.com/item?id=38407197) - [Fire TV now also displays full-screen video ads on its homescreen](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1700729070)
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
-* [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
 * [2023-11-24, 18:09:44](https://news.ycombinator.com/item?id=38406578) - [Ubisoft blames 'technical error' for showing pop-up ads in Assassin's Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
 * [2023-11-24, 17:49:43](https://news.ycombinator.com/item?id=38406388) - [Google Bard AI Now Has the Ability to Understand YouTube Videos](https://www.youtube.com/watch?v=Ck-0hKVT7Gg)
