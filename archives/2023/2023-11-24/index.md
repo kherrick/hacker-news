@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 11:41:08](https://news.ycombinator.com/item?id=38402939) - [Population of England and Wales grows at fastest rate since 1962](https://www.thisislocallondon.co.uk/news/national/23943664.population-england-wales-grows-fastest-rate-since-1962/)
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
 * [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
 * [2023-11-24, 09:15:03](https://news.ycombinator.com/item?id=38401969) - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 11:41:08](https://news.ycombinator.com/item?id=38402939) - [Population of England and Wales grows at fastest rate since 1962](https://www.thisislocallondon.co.uk/news/national/23943664.population-england-wales-grows-fastest-rate-since-1962/)
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
 * [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
 * [2023-11-24, 09:15:03](https://news.ycombinator.com/item?id=38401969) - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
@@ -18,7 +19,6 @@
 * [2023-11-23, 22:21:50](https://news.ycombinator.com/item?id=38398285) - [ESA’s new Ariane 6 rocket passed a major full-scale rehearsal](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
 * [2023-11-23, 21:24:10](https://news.ycombinator.com/item?id=38397742) - [The Eyes Have It (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA (2019)](https://habr.com/en/articles/456476/)
-* [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The story of titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 * [2023-11-23, 13:44:06](https://news.ycombinator.com/item?id=38392653) - [Eardrum Suck: The Mystery Solved (2019)](https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
 * [2023-11-23, 11:06:59](https://news.ycombinator.com/item?id=38391548) - [Motorcycle Ergonomics](https://cycle-ergo.com/)
