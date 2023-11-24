@@ -4,7 +4,7 @@
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2023-11-24, 20:18:30](https://news.ycombinator.com/item?id=38407780) - [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
 * [2023-11-24, 20:14:43](https://news.ycombinator.com/item?id=38407741) - [Please ignore the deluge of complete nonsense about Q*](https://twitter.com/ylecun/status/1728126868342145481)
-* [2023-11-24, 19:52:23](https://news.ycombinator.com/item?id=38407521) - [Cicero](https://ai.meta.com/research/cicero/)
+* [2023-11-24, 19:52:23](https://news.ycombinator.com/item?id=38407521) - [Cicero (2022)](https://ai.meta.com/research/cicero/)
 * [2023-11-24, 19:09:54](https://news.ycombinator.com/item?id=38407106) - [The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
 * [2023-11-24, 18:48:19](https://news.ycombinator.com/item?id=38406868) - [Mice eating less of specific amino acid – live longer, healthier](https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/)
