@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 08:09:35](https://news.ycombinator.com/item?id=38401638) - [Grid operator to interfere in Finnish electricity market after bidding error](https://www.reuters.com/business/energy/bidding-error-sees-finnish-day-ahead-power-price-tumble-20340-eurosmwh-2023-11-23/)
 * [2023-11-24, 07:00:55](https://news.ycombinator.com/item?id=38401289) - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
 * [2023-11-24, 06:50:53](https://news.ycombinator.com/item?id=38401242) - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
 * [2023-11-24, 06:24:43](https://news.ycombinator.com/item?id=38401125) - ['Sunspot archipelago' 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
@@ -16,7 +17,6 @@
 * [2023-11-23, 21:24:10](https://news.ycombinator.com/item?id=38397742) - [The Eyes Have It (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA (2019)](https://habr.com/en/articles/456476/)
 * [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The story of titanium](https://www.construction-physics.com/p/the-story-of-titanium)
-* [2023-11-23, 16:19:02](https://news.ycombinator.com/item?id=38394391) - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [2023-11-23, 13:44:06](https://news.ycombinator.com/item?id=38392653) - [Eardrum Suck: The Mystery Solved (2019)](https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
