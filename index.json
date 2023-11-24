@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-24, 05:36:50",
+      "https://news.ycombinator.com/item?id=38400912"
+    ],
+    [
+      "Tell HN: Spotify now inserts Ads to premium users as well",
+      "https://news.ycombinator.com/item?id=38400912"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 05:33:27",
+      "https://news.ycombinator.com/item?id=38400901"
+    ],
+    [
+      "Mid-old cells are a potential target for anti-aging interventions in the elderly",
+      "https://www.nature.com/articles/s41467-023-43491-w"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 03:31:45",
+      "https://news.ycombinator.com/item?id=38400421"
+    ],
+    [
+      "State Dept prioritizes 'AI-ready workforce' in its first AI strategy",
+      "https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 02:40:12",
       "https://news.ycombinator.com/item?id=38400162"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2023-11-23, 23:49:18",
-      "https://news.ycombinator.com/item?id=38399123"
-    ],
-    [
-      "What do Apple, Meta, TikTok have in common? Fighting Europe's antitrust rules",
-      "https://www.theregister.com/2023/11/17/apple_ec_dma/"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 23:11:25",
       "https://news.ycombinator.com/item?id=38398796"
     ],
@@ -97,16 +117,6 @@
     [
       "Experimental tree-based writing interface for GPT-3",
       "https://github.com/socketteer/loom"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 22:23:51",
-      "https://news.ycombinator.com/item?id=38398305"
-    ],
-    [
-      "PostgreSQL on S390x",
-      "https://www.cybertec-postgresql.com/en/postgresql-on-s390x/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-11-23, 14:26:53",
-      "https://news.ycombinator.com/item?id=38393093"
-    ],
-    [
-      "Separating debug symbols from executables",
-      "https://tweag.io/blog/2023-11-23-debug-fission/"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 13:00:21",
       "https://news.ycombinator.com/item?id=38392277"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-11-23, 07:37:26",
+      "https://news.ycombinator.com/item?id=38390402"
+    ],
+    [
+      "A correct-by-construction conversion from lambda calculus to combinatory logic",
+      "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/correctbyconstruction-conversion-from-lambda-calculus-to-combinatory-logic/B2A7BCF12A7A5D52B294C78A6F04191F"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 00:31:33",
       "https://news.ycombinator.com/item?id=38387464"
     ],
@@ -287,16 +297,6 @@
     [
       "The secret language of ships",
       "https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 06:01:45",
-      "https://news.ycombinator.com/item?id=38375239"
-    ],
-    [
-      "We have reached an agreement in principle for Sam to return to OpenAI as CEO",
-      "https://twitter.com/openai/status/1727206187077370115"
     ]
   ]
 ]
