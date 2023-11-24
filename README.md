@@ -12,7 +12,6 @@
 * [2023-11-23, 22:49:54](https://news.ycombinator.com/item?id=38398563) - [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
 * [2023-11-23, 22:23:51](https://news.ycombinator.com/item?id=38398305) - [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
 * [2023-11-23, 22:21:50](https://news.ycombinator.com/item?id=38398285) - [ESA’s new Ariane 6 rocket passed a major full-scale rehearsal](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
-* [2023-11-23, 21:33:26](https://news.ycombinator.com/item?id=38397817) - [YouTube is now blocking ad blockers so I make ads run faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
 * [2023-11-23, 21:24:10](https://news.ycombinator.com/item?id=38397742) - [The Eyes Have It (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA (2019)](https://habr.com/en/articles/456476/)
 * [2023-11-23, 16:59:13](https://news.ycombinator.com/item?id=38394816) - [About That OpenAI \"Breakthrough\"](https://garymarcus.substack.com/p/about-that-openai-breakthrough)
@@ -30,6 +29,7 @@
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
+* [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 
 ## [Archives](archives/index.md)
 
