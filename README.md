@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-24, 13:07:26](https://news.ycombinator.com/item?id=38403585) - [Subtitle is now open-source](https://vedgupta.in/blog/subtitle-breaking-down-language-barriers-with-ai-powered-caption-generation)
+* [2023-11-24, 12:34:01](https://news.ycombinator.com/item?id=38403332) - [Ex-owners of sex work site Backpage convicted of prostitution scheme](https://www.theguardian.com/us-news/2023/nov/17/backpage-sex-work-prostitution-money-laundering)
 * [2023-11-24, 12:13:21](https://news.ycombinator.com/item?id=38403176) - [Live dashboard of Stripe systems during Black Friday](https://bfcm.stripe.dev/)
 * [2023-11-24, 12:12:13](https://news.ycombinator.com/item?id=38403163) - [I Am Sitting in a Room (1969)](https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room)
 * [2023-11-24, 12:11:26](https://news.ycombinator.com/item?id=38403154) - [User read the manual, followed instructions, still couldn't make 'Excel' work](https://www.theregister.com/2023/11/24/on_call/)
@@ -8,7 +9,6 @@
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The feds' vehicle 'kill switch' mandate is a gross violation of privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
 * [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
 * [2023-11-24, 10:18:00](https://news.ycombinator.com/item?id=38402361) - [PHP 8.3](https://www.php.net/releases/8.3/en.php)
-* [2023-11-24, 10:10:12](https://news.ycombinator.com/item?id=38402313) - [Extremely high-energy particle detected falling to Earth](https://www.theguardian.com/science/2023/nov/24/amaterasu-extremely-high-energy-particle-detected-falling-to-earth)
 * [2023-11-24, 09:15:03](https://news.ycombinator.com/item?id=38401969) - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
 * [2023-11-24, 07:51:17](https://news.ycombinator.com/item?id=38401544) - [AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
