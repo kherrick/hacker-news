@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
+* [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
 * [2023-11-24, 09:15:03](https://news.ycombinator.com/item?id=38401969) - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
 * [2023-11-24, 08:41:14](https://news.ycombinator.com/item?id=38401805) - [Training for one trillion parameter model backed by Intel and US govt has begun](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun)
-* [2023-11-24, 08:09:07](https://news.ycombinator.com/item?id=38401637) - [Astronomers detect highest energy cosmic ray since 1991](https://arstechnica.com/science/2023/11/meet-amaterasu-astronomers-detect-highest-energy-cosmic-ray-since-1991/)
 * [2023-11-24, 08:04:34](https://news.ycombinator.com/item?id=38401613) - [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
 * [2023-11-24, 07:51:17](https://news.ycombinator.com/item?id=38401544) - [AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
 * [2023-11-24, 07:00:55](https://news.ycombinator.com/item?id=38401289) - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
