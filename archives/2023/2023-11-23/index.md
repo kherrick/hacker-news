@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 23:49:18](https://news.ycombinator.com/item?id=38399123) - [What do Apple, Meta, TikTok have in common? Fighting Europe's antitrust rules](https://www.theregister.com/2023/11/17/apple_ec_dma/)
 * [2023-11-23, 23:07:28](https://news.ycombinator.com/item?id=38398751) - [15 years ago, I helped design Google Maps](https://twitter.com/elizlaraki/status/1727351922254852182)
 * [2023-11-23, 22:49:54](https://news.ycombinator.com/item?id=38398563) - [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
 * [2023-11-23, 22:23:51](https://news.ycombinator.com/item?id=38398305) - [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
@@ -39,6 +40,7 @@
 * [2023-11-23, 14:46:05](https://news.ycombinator.com/item?id=38393264) - [Binance and CEO admit financial crimes, billions coughed up to US govt](https://www.theregister.com/2023/11/22/binance_ceo_settlement/)
 * [2023-11-23, 14:43:16](https://news.ycombinator.com/item?id=38393238) - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 14:43:13](https://news.ycombinator.com/item?id=38393237) - [US govt pays AT&T to let cops search Americans' phone records without warrant](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter/)
+* [2023-11-23, 14:26:53](https://news.ycombinator.com/item?id=38393093) - [Separating debug symbols from executables](https://tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 14:21:15](https://news.ycombinator.com/item?id=38393032) - [Write libraries instead of services, where possible](https://catern.com/services.html)
 * [2023-11-23, 14:11:40](https://news.ycombinator.com/item?id=38392931) - [Despite just 5.8% sales, over 38% of bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
 * [2023-11-23, 14:08:07](https://news.ycombinator.com/item?id=38392887) - [OpenSSL Announces Final Release of OpenSSL 3.2.0](https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/)
