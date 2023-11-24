@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-24, 15:29:23",
+      "https://news.ycombinator.com/item?id=38404925"
+    ],
+    [
+      "Tesla turns on 10k-node Nvidia H100 Cluster",
+      "https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 15:28:07",
       "https://news.ycombinator.com/item?id=38404913"
     ],
     [
       "Almost half of Californians speak a non-English language at home",
       "https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 14:54:51",
+      "https://news.ycombinator.com/item?id=38404569"
+    ],
+    [
+      "MIT physicists turn pencil lead into \"gold\"",
+      "https://news.mit.edu/2023/mit-physicists-turn-pencil-lead-into-gold-1114"
     ]
   ],
   [
@@ -161,26 +181,6 @@
   ],
   [
     [
-      "2023-11-24, 01:15:23",
-      "https://news.ycombinator.com/item?id=38399740"
-    ],
-    [
-      "Things you're allowed to do (2020)",
-      "https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 00:52:12",
-      "https://news.ycombinator.com/item?id=38399591"
-    ],
-    [
-      "FullControl: Unconstrained gcode design for 3D printers",
-      "https://github.com/FullControlXYZ/fullcontrol"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 21:22:20",
       "https://news.ycombinator.com/item?id=38397715"
     ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=38391920"
     ],
     [
-      "A Busy 1979",
+      "A Busy 1979 (2011)",
       "https://www.filfre.net/2011/07/a-busy-1979/"
     ]
   ],
