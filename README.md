@@ -3,6 +3,7 @@
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
 * [2023-11-24, 18:09:44](https://news.ycombinator.com/item?id=38406578) - [Ubisoft blames 'technical error' for showing pop-up ads in Assassin's Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
+* [2023-11-24, 17:49:43](https://news.ycombinator.com/item?id=38406388) - [Google Bard AI Now Has the Ability to Understand YouTube Videos](https://www.youtube.com/watch?v=Ck-0hKVT7Gg)
 * [2023-11-24, 17:43:36](https://news.ycombinator.com/item?id=38406315) - [Show HN: AI Generated SVG's](https://vectorart.ai/layout3)
 * [2023-11-24, 17:38:19](https://news.ycombinator.com/item?id=38406261) - [Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
 * [2023-11-24, 17:26:05](https://news.ycombinator.com/item?id=38406156) - [Ask HN: How should I setup a phone for a newly blind relative?](https://news.ycombinator.com/item?id=38406156)
@@ -28,7 +29,6 @@
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
 * [2023-11-23, 00:00:26](https://news.ycombinator.com/item?id=38387059) - [Resilience, innovation and collapse of settlement networks in Bronze Age Europe](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288750)
 * [2023-11-22, 23:08:00](https://news.ycombinator.com/item?id=38386495) - [Deck-Month: a Decker game jam](https://itch.io/jam/deck-month)
-* [2023-11-22, 13:09:57](https://news.ycombinator.com/item?id=38378652) - [The Meaning of Melancholy](https://onthearts.com/p/the-meaning-of-melancholy)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 
 ## [Archives](archives/index.md)
