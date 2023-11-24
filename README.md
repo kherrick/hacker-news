@@ -21,7 +21,7 @@
 * [2023-11-23, 14:26:53](https://news.ycombinator.com/item?id=38393093) - [Separating debug symbols from executables](https://tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – An interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
-* [2023-11-23, 11:52:57](https://news.ycombinator.com/item?id=38391787) - [How Gödel's proof works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+* [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
 * [2023-11-23, 11:06:59](https://news.ycombinator.com/item?id=38391548) - [Motorcycle Ergonomics](https://cycle-ergo.com/)
 * [2023-11-23, 09:57:37](https://news.ycombinator.com/item?id=38391167) - [Don Walsh: The man who made the deepest ever dive](https://www.bbc.com/news/science-environment-67445718)
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)

@@ -55,6 +55,7 @@
 * [2023-11-23, 12:35:05](https://news.ycombinator.com/item?id=38392086) - [Promises Training: Practical Exercises on Promises in JavaScript](https://github.com/henriqueinonhe/promises-training)
 * [2023-11-23, 12:15:09](https://news.ycombinator.com/item?id=38391934) - [I discovered caching CDNs were throttling my everyday browsing](https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/)
 * [2023-11-23, 12:13:37](https://news.ycombinator.com/item?id=38391923) - [Training of 1T Parameter Scientific AI Begins](https://www.hpcwire.com/2023/11/13/training-of-1-trillion-parameter-scientific-ai-begins/)
+* [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
 * [2023-11-23, 12:09:19](https://news.ycombinator.com/item?id=38391898) - [The Great Enshittening](https://pluralistic.net/2023/11/22/who-wins-the-argument/)
 * [2023-11-23, 11:52:57](https://news.ycombinator.com/item?id=38391787) - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2023-11-23, 11:49:19](https://news.ycombinator.com/item?id=38391768) - [The complete guide to iOS and macOS development in Neovim](https://wojciechkulik.pl/ios/the-complete-guide-to-ios-macos-development-in-neovim)
