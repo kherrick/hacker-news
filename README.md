@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-24, 03:18:09](https://news.ycombinator.com/item?id=38400351) - [Ilya Paper about Q*](https://old.reddit.com/r/LocalLLaMA/comments/1824dlf/ilya_paper_about_q/)
 * [2023-11-24, 02:40:12](https://news.ycombinator.com/item?id=38400162) - [If somafm ever goes away I'll stop writing software](https://somafm.com/?thanksgivingwhat)
 * [2023-11-24, 01:18:01](https://news.ycombinator.com/item?id=38399767) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
@@ -16,6 +15,7 @@
 * [2023-11-23, 21:33:26](https://news.ycombinator.com/item?id=38397817) - [YouTube is now blocking ad blockers so I make ads run faster](https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/)
 * [2023-11-23, 21:24:10](https://news.ycombinator.com/item?id=38397742) - [The Eyes Have It (1953)](https://www.gutenberg.org/files/31516/31516-h/31516-h.htm)
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA (2019)](https://habr.com/en/articles/456476/)
+* [2023-11-23, 16:59:13](https://news.ycombinator.com/item?id=38394816) - [About That OpenAI \"Breakthrough\"](https://garymarcus.substack.com/p/about-that-openai-breakthrough)
 * [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The story of titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 * [2023-11-23, 16:19:02](https://news.ycombinator.com/item?id=38394391) - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [2023-11-23, 16:18:45](https://news.ycombinator.com/item?id=38394383) - [Guinea worm disease is close to being eradicated](https://ourworldindata.org/guinea-worm-path-eradication)
