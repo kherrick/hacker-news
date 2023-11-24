@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 08:41:14](https://news.ycombinator.com/item?id=38401805) - [Training for one trillion parameter model backed by Intel and US govt has begun](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun)
 * [2023-11-24, 08:09:35](https://news.ycombinator.com/item?id=38401638) - [Grid operator to interfere in Finnish electricity market after bidding error](https://www.reuters.com/business/energy/bidding-error-sees-finnish-day-ahead-power-price-tumble-20340-eurosmwh-2023-11-23/)
 * [2023-11-24, 08:09:07](https://news.ycombinator.com/item?id=38401637) - [Astronomers detect highest energy cosmic ray since 1991](https://arstechnica.com/science/2023/11/meet-amaterasu-astronomers-detect-highest-energy-cosmic-ray-since-1991/)
 * [2023-11-24, 08:04:34](https://news.ycombinator.com/item?id=38401613) - [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
