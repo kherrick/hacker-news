@@ -68,6 +68,7 @@
 * [2023-11-23, 09:57:37](https://news.ycombinator.com/item?id=38391167) - [Don Walsh: The man who made the deepest ever dive](https://www.bbc.com/news/science-environment-67445718)
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Pioneer of Google's Data Centers Dies at 58](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
+* [2023-11-23, 08:57:40](https://news.ycombinator.com/item?id=38390832) - [Fortran 2023](https://wg5-fortran.org/f2023.html)
 * [2023-11-23, 06:42:08](https://news.ycombinator.com/item?id=38390052) - [Writing a Debugger from Scratch: Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6/)
 * [2023-11-23, 06:35:09](https://news.ycombinator.com/item?id=38390018) - [Exploding Head Syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
 * [2023-11-23, 06:24:43](https://news.ycombinator.com/item?id=38389958) - [This Louisiana Town Runs Largely on Traffic Fines. The Mayor Is Your Judge.](https://www.propublica.org/article/fenton-louisiana-brought-in-1-million-through-mayors-court)

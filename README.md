@@ -9,7 +9,6 @@
 * [2023-11-24, 00:14:23](https://news.ycombinator.com/item?id=38399333) - [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
 * [2023-11-24, 00:10:46](https://news.ycombinator.com/item?id=38399305) - [Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
 * [2023-11-23, 23:11:25](https://news.ycombinator.com/item?id=38398796) - [Call the Routing Police](https://blog.apnic.net/2023/11/23/call-the-routing-police/)
-* [2023-11-23, 23:07:28](https://news.ycombinator.com/item?id=38398751) - [15 years ago, I helped design Google Maps](https://twitter.com/elizlaraki/status/1727351922254852182)
 * [2023-11-23, 22:49:54](https://news.ycombinator.com/item?id=38398563) - [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
 * [2023-11-23, 22:23:51](https://news.ycombinator.com/item?id=38398305) - [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
 * [2023-11-23, 22:21:50](https://news.ycombinator.com/item?id=38398285) - [ESA’s new Ariane 6 rocket passed a major full-scale rehearsal](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
@@ -28,6 +27,7 @@
 * [2023-11-23, 09:57:37](https://news.ycombinator.com/item?id=38391167) - [Don Walsh: The man who made the deepest ever dive](https://www.bbc.com/news/science-environment-67445718)
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
+* [2023-11-23, 08:57:40](https://news.ycombinator.com/item?id=38390832) - [Fortran 2023](https://wg5-fortran.org/f2023.html)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 
