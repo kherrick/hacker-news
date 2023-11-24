@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-11-24, 22:48:01",
+      "https://news.ycombinator.com/item?id=38409236"
+    ],
+    [
+      "Minecraft rewritten from scratch in Kotlin, hypixel works",
+      "https://gitlab.bixilon.de/bixilon/minosoft"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 22:23:44",
       "https://news.ycombinator.com/item?id=38409049"
     ],
     [
       "Kepler, Nvidia's Strong Start on 28 nm",
       "https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 22:07:38",
+      "https://news.ycombinator.com/item?id=38408920"
+    ],
+    [
+      "Autonomous Excavator Constructs a Six-Metre-High Dry-Stone Wall",
+      "https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-11-24, 14:00:41",
-      "https://news.ycombinator.com/item?id=38404016"
-    ],
-    [
-      "Two Tier Architectures Are Anachronistic [video]",
-      "https://www.tele-task.de/lecture/video/10304/"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 12:01:16",
       "https://news.ycombinator.com/item?id=38403089"
     ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38390714"
     ],
     [
-      "React Spreadsheet 2 – Your Own Google Sheets",
+      "Show HN: React Spreadsheet 2",
       "https://www.rowsncolumns.app/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The $55M saga of a Netflix series nobody will ever see",
       "https://www.nytimes.com/2023/11/22/business/carl-rinsch-netflix-conquest.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 23:08:00",
-      "https://news.ycombinator.com/item?id=38386495"
-    ],
-    [
-      "Deck-Month: a Decker game jam",
-      "https://itch.io/jam/deck-month"
     ]
   ]
 ]
