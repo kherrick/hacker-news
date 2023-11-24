@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 16:50:15](https://news.ycombinator.com/item?id=38405823) - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 * [2023-11-24, 16:42:29](https://news.ycombinator.com/item?id=38405750) - [100% timeout for OpenAI API since 15:00 UTC. Anyone else?](https://news.ycombinator.com/item?id=38405750)
 * [2023-11-24, 16:14:46](https://news.ycombinator.com/item?id=38405406) - [Yi-34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)
+* [2023-11-24, 16:03:25](https://news.ycombinator.com/item?id=38405275) - [Texas officials warn of rolling blackouts to ease strain on power grid](https://www.dailymail.co.uk/news/article-12785185/Texas-officials-warn-rolling-blackouts-winter.html)
 * [2023-11-24, 15:59:38](https://news.ycombinator.com/item?id=38405227) - [Stripe Threatening to Disrupt Our Business](https://news.ycombinator.com/item?id=38405227)
 * [2023-11-24, 15:43:28](https://news.ycombinator.com/item?id=38405046) - [A Visual Guide to the GPL License](https://sebastiancarlos.com/reacting-to-the-gpl-license-ef8f6b7d7c02?gi=ecf01907a62c)
 * [2023-11-24, 15:35:19](https://news.ycombinator.com/item?id=38404972) - [PhD student bioengineers potato plant to detect gamma radiation](https://phys.org/news/2023-11-phd-student-bioengineers-potato-gamma.html)
