@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2023-11-24, 20:18:30](https://news.ycombinator.com/item?id=38407780) - [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
 * [2023-11-24, 20:14:54](https://news.ycombinator.com/item?id=38407744) - [Netflix spent $55M on sci-fi series that will almost certainly never be released](https://filmstories.co.uk/news/conquest-netflix-spent-55m-on-a-sci-fi-series-that-will-almost-certainly-never-be-released/)
 * [2023-11-24, 20:14:43](https://news.ycombinator.com/item?id=38407741) - [Yann LeCun: Ignore the deluge of complete nonsense about Q*](https://twitter.com/ylecun/status/1728126868342145481)
@@ -16,6 +17,7 @@
 * [2023-11-24, 18:57:12](https://news.ycombinator.com/item?id=38406979) - [Google admits cracking down on people using ad blockers](https://www.standard.co.uk/news/tech/google-admits-cracking-down-ad-blockers-b1122572.html)
 * [2023-11-24, 18:48:19](https://news.ycombinator.com/item?id=38406868) - [Mice eating less of specific amino acid – live longer, healthier](https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/)
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
+* [2023-11-24, 18:27:50](https://news.ycombinator.com/item?id=38406708) - [Brain on Books](https://www.publicbooks.org/this-is-your-brain-on-books/)
 * [2023-11-24, 18:16:04](https://news.ycombinator.com/item?id=38406625) - [I Challenged Boston Dynamics' Famous Atlas Robot [video]](https://www.youtube.com/watch?v=nAgTgwak7ME)
 * [2023-11-24, 18:09:44](https://news.ycombinator.com/item?id=38406578) - [Ubisoft blames 'technical error' for showing pop-up ads in Assassin's Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
