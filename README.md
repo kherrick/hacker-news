@@ -2,7 +2,6 @@
 
 * [2023-11-24, 15:29:23](https://news.ycombinator.com/item?id=38404925) - [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
 * [2023-11-24, 15:28:07](https://news.ycombinator.com/item?id=38404913) - [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
-* [2023-11-24, 14:54:51](https://news.ycombinator.com/item?id=38404569) - [MIT physicists turn pencil lead into \"gold\"](https://news.mit.edu/2023/mit-physicists-turn-pencil-lead-into-gold-1114)
 * [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:38:39](https://news.ycombinator.com/item?id=38404397) - [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
 * [2023-11-24, 14:13:39](https://news.ycombinator.com/item?id=38404131) - [Pokémon is no longer just a game – it's a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
@@ -18,6 +17,7 @@
 * [2023-11-24, 08:41:14](https://news.ycombinator.com/item?id=38401805) - [Training for one trillion parameter model backed by Intel and US govt has begun](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun)
 * [2023-11-24, 07:51:17](https://news.ycombinator.com/item?id=38401544) - [AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
+* [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2023-11-23, 21:22:20](https://news.ycombinator.com/item?id=38397715) - [Show HN: Lua Carousel, create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 13:53:10](https://news.ycombinator.com/item?id=38392747) - [Show HN: An AI-Generated Encyclopedia](https://mycyclopedia.co/)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979 (2011)](https://www.filfre.net/2011/07/a-busy-1979/)
