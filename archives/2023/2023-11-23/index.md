@@ -47,6 +47,7 @@
 * [2023-11-23, 14:11:40](https://news.ycombinator.com/item?id=38392931) - [Despite just 5.8% sales, over 38% of bug reports come from the Linux community](https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/)
 * [2023-11-23, 14:08:07](https://news.ycombinator.com/item?id=38392887) - [OpenSSL Announces Final Release of OpenSSL 3.2.0](https://www.openssl.org/blog/blog/2023/11/23/OpenSSL32/)
 * [2023-11-23, 14:01:34](https://news.ycombinator.com/item?id=38392824) - [Workers AI Update: Stable Diffusion, Code Llama and Workers AI in 100 Cities](https://blog.cloudflare.com/workers-ai-update-stable-diffusion-code-llama-workers-ai-in-100-cities/)
+* [2023-11-23, 13:53:10](https://news.ycombinator.com/item?id=38392747) - [Show HN: An AI-Generated Encyclopedia](https://mycyclopedia.co/)
 * [2023-11-23, 13:44:06](https://news.ycombinator.com/item?id=38392653) - [Eardrum Suck: The Mystery Solved (2019)](https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved)
 * [2023-11-23, 13:32:16](https://news.ycombinator.com/item?id=38392540) - [Retries – an interactive study of request retry methods](https://encore.dev/blog/retries)
 * [2023-11-23, 13:25:51](https://news.ycombinator.com/item?id=38392484) - [The Fallout from the Weirdness at OpenAI](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai)
