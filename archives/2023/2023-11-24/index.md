@@ -12,6 +12,7 @@
 * [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
 * [2023-11-24, 17:49:43](https://news.ycombinator.com/item?id=38406388) - [Google Bard AI Now Has the Ability to Understand YouTube Videos](https://www.youtube.com/watch?v=Ck-0hKVT7Gg)
 * [2023-11-24, 17:43:36](https://news.ycombinator.com/item?id=38406315) - [Show HN: AI Generated SVG's](https://vectorart.ai/layout3)
+* [2023-11-24, 17:40:06](https://news.ycombinator.com/item?id=38406274) - [Tamagui – UI kit that unify React Native and Web](https://tamagui.dev)
 * [2023-11-24, 17:38:19](https://news.ycombinator.com/item?id=38406261) - [Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
 * [2023-11-24, 17:26:05](https://news.ycombinator.com/item?id=38406156) - [Ask HN: How should I setup a phone for a newly blind relative?](https://news.ycombinator.com/item?id=38406156)
 * [2023-11-24, 16:50:15](https://news.ycombinator.com/item?id=38405823) - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
