@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-24, 08:09:35](https://news.ycombinator.com/item?id=38401638) - [Grid operator to interfere in Finnish electricity market after bidding error](https://www.reuters.com/business/energy/bidding-error-sees-finnish-day-ahead-power-price-tumble-20340-eurosmwh-2023-11-23/)
+* [2023-11-24, 08:09:07](https://news.ycombinator.com/item?id=38401637) - [Astronomers detect highest energy cosmic ray since 1991](https://arstechnica.com/science/2023/11/meet-amaterasu-astronomers-detect-highest-energy-cosmic-ray-since-1991/)
 * [2023-11-24, 08:04:34](https://news.ycombinator.com/item?id=38401613) - [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
 * [2023-11-24, 07:00:55](https://news.ycombinator.com/item?id=38401289) - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
 * [2023-11-24, 06:24:43](https://news.ycombinator.com/item?id=38401125) - ['Sunspot archipelago' 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
@@ -28,7 +29,6 @@
 * [2023-11-23, 07:37:26](https://news.ycombinator.com/item?id=38390402) - [A correct-by-construction conversion from lambda calculus to combinatory logic](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/correctbyconstruction-conversion-from-lambda-calculus-to-combinatory-logic/B2A7BCF12A7A5D52B294C78A6F04191F)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-22, 13:09:57](https://news.ycombinator.com/item?id=38378652) - [The Meaning of Melancholy](https://onthearts.com/p/the-meaning-of-melancholy)
-* [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 
 ## [Archives](archives/index.md)
