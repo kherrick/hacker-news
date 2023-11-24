@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 03:47:57](https://news.ycombinator.com/item?id=38400486) - [Harvard SETI Project Helps ID Mystery Sound](https://hackaday.com/2023/11/23/harvard-seti-project-helps-id-mystery-sound/)
 * [2023-11-24, 02:40:12](https://news.ycombinator.com/item?id=38400162) - [If somafm ever goes away I'll stop writing software](https://somafm.com/?thanksgivingwhat)
 * [2023-11-24, 01:18:01](https://news.ycombinator.com/item?id=38399767) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2023-11-24, 01:01:33](https://news.ycombinator.com/item?id=38399650) - [Imbue (Formerly Generally Intelligent) (YC S17) Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
-* [2023-11-24, 00:52:12](https://news.ycombinator.com/item?id=38399591) - [FullControl: Unconstrained gcode design for 3D printers](https://github.com/FullControlXYZ/fullcontrol)
 * [2023-11-24, 00:14:23](https://news.ycombinator.com/item?id=38399333) - [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
 * [2023-11-23, 23:11:25](https://news.ycombinator.com/item?id=38398796) - [Call the Routing Police](https://blog.apnic.net/2023/11/23/call-the-routing-police/)
 * [2023-11-23, 23:07:28](https://news.ycombinator.com/item?id=38398751) - [15 years ago, I helped design Google Maps](https://twitter.com/elizlaraki/status/1727351922254852182)

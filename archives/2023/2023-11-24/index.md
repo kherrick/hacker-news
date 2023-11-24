@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 03:47:57](https://news.ycombinator.com/item?id=38400486) - [Harvard SETI Project Helps ID Mystery Sound](https://hackaday.com/2023/11/23/harvard-seti-project-helps-id-mystery-sound/)
 * [2023-11-24, 03:26:42](https://news.ycombinator.com/item?id=38400389) - [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
 * [2023-11-24, 02:40:12](https://news.ycombinator.com/item?id=38400162) - [If somafm ever goes away I'll stop writing software](https://somafm.com/?thanksgivingwhat)
 * [2023-11-24, 01:44:01](https://news.ycombinator.com/item?id=38399891) - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
