@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2023-11-24, 20:18:30](https://news.ycombinator.com/item?id=38407780) - [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
 * [2023-11-24, 20:14:54](https://news.ycombinator.com/item?id=38407744) - [Netflix spent $55M on sci-fi series that will almost certainly never be released](https://filmstories.co.uk/news/conquest-netflix-spent-55m-on-a-sci-fi-series-that-will-almost-certainly-never-be-released/)
@@ -41,6 +42,7 @@
 * [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:38:39](https://news.ycombinator.com/item?id=38404397) - [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
 * [2023-11-24, 14:13:39](https://news.ycombinator.com/item?id=38404131) - [Pokémon is no longer just a game – it's a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
+* [2023-11-24, 14:10:39](https://news.ycombinator.com/item?id=38404099) - [Now streaming: nuclear physics](https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/)
 * [2023-11-24, 14:00:41](https://news.ycombinator.com/item?id=38404016) - [Two Tier Architectures Are Anachronistic [video]](https://www.tele-task.de/lecture/video/10304/)
 * [2023-11-24, 13:46:21](https://news.ycombinator.com/item?id=38403891) - [Live Dashboard of Shopify for Black Friday](https://bfcm.shopify.com/)
 * [2023-11-24, 13:46:05](https://news.ycombinator.com/item?id=38403888) - [A curated list of AI assistants](https://github.com/awesome-assistants/awesome-assistants/blob/main/build/assistants.csv)
@@ -70,6 +72,7 @@
 * [2023-11-24, 05:41:37](https://news.ycombinator.com/item?id=38400929) - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
 * [2023-11-24, 05:36:50](https://news.ycombinator.com/item?id=38400912) - [Tell HN: Spotify now inserts Ads to premium users as well](https://news.ycombinator.com/item?id=38400912)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
+* [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
 * [2023-11-24, 03:47:57](https://news.ycombinator.com/item?id=38400486) - [Harvard SETI Project Helps ID Mystery Sound](https://hackaday.com/2023/11/23/harvard-seti-project-helps-id-mystery-sound/)
 * [2023-11-24, 03:31:45](https://news.ycombinator.com/item?id=38400421) - [State Dept prioritizes 'AI-ready workforce' in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
 * [2023-11-24, 03:26:42](https://news.ycombinator.com/item?id=38400389) - [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
