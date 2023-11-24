@@ -2,6 +2,7 @@
 
 * [2023-11-24, 03:26:42](https://news.ycombinator.com/item?id=38400389) - [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
 * [2023-11-24, 01:44:01](https://news.ycombinator.com/item?id=38399891) - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/)
+* [2023-11-24, 01:18:01](https://news.ycombinator.com/item?id=38399767) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [2023-11-24, 01:01:33](https://news.ycombinator.com/item?id=38399650) - [Imbue (Formerly Generally Intelligent) (YC S17) Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
 * [2023-11-24, 00:40:07](https://news.ycombinator.com/item?id=38399511) - [The Medley Interlisp Project](https://interlisp.org/)
@@ -27,7 +28,6 @@
 * [2023-11-23, 09:57:37](https://news.ycombinator.com/item?id=38391167) - [Don Walsh: The man who made the deepest ever dive](https://www.bbc.com/news/science-environment-67445718)
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
-* [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 
