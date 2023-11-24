@@ -59,6 +59,7 @@
 * [2023-11-23, 11:49:19](https://news.ycombinator.com/item?id=38391768) - [The complete guide to iOS and macOS development in Neovim](https://wojciechkulik.pl/ios/the-complete-guide-to-ios-macos-development-in-neovim)
 * [2023-11-23, 11:40:30](https://news.ycombinator.com/item?id=38391728) - [Large amounts of carbon capture as a solution is an 'illusion'](https://electrek.co/2023/11/23/large-amounts-of-carbon-capture-as-a-solution-is-an-illusion-iea/)
 * [2023-11-23, 11:26:58](https://news.ycombinator.com/item?id=38391655) - [Rumours of SR-71 Blackbird Successor from Lockheed's Skunkworks](https://www.sandboxx.us/news/sr-72-hints-of-a-new-skunk-works-spy-plane-reignite-rumors-of-a-blackbird-successor/)
+* [2023-11-23, 11:06:59](https://news.ycombinator.com/item?id=38391548) - [Motorcycle Ergonomics](https://cycle-ergo.com/)
 * [2023-11-23, 10:42:25](https://news.ycombinator.com/item?id=38391403) - [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
 * [2023-11-23, 10:12:53](https://news.ycombinator.com/item?id=38391252) - [UK government blocks MP questions about Gaza-related activity at its Cyprus base](https://www.declassifieduk.org/uk-government-blocks-mp-questions-about-gaza-related-activity-at-its-cyprus-base/)
 * [2023-11-23, 09:57:37](https://news.ycombinator.com/item?id=38391167) - [Don Walsh: The man who made the deepest ever dive](https://www.bbc.com/news/science-environment-67445718)
