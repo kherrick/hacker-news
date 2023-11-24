@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-24, 03:26:42",
+      "https://news.ycombinator.com/item?id=38400389"
+    ],
+    [
+      "Learn Machine Learning",
+      "https://www.tensorflow.org/resources/learn-ml"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 01:44:01",
+      "https://news.ycombinator.com/item?id=38399891"
+    ],
+    [
+      "Spinning Up in Deep RL by OpenAI",
+      "https://spinningup.openai.com/en/latest/"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 01:15:23",
       "https://news.ycombinator.com/item?id=38399740"
     ],
@@ -47,16 +67,6 @@
     [
       "Revival of Medley/Interlisp",
       "https://www.theregister.com/2023/11/23/medley_interlisp_revival/"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 23:49:18",
-      "https://news.ycombinator.com/item?id=38399123"
-    ],
-    [
-      "What do Apple, Meta, TikTok have in common? Fighting Europe's antitrust rules",
-      "https://www.theregister.com/2023/11/17/apple_ec_dma/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Community Contribution at GitLab",
       "https://community.inc/deep-dives/contribution-gitlab"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 21:33:26",
-      "https://news.ycombinator.com/item?id=38397817"
-    ],
-    [
-      "YouTube is now blocking ad blockers so I make ads run faster",
-      "https://old.reddit.com/r/webdev/comments/181vbmk/youtube_is_now_blocking_ad_blockers_so_i_just/"
     ]
   ],
   [
