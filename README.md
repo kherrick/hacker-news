@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 22:48:01](https://news.ycombinator.com/item?id=38409236) - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
 * [2023-11-24, 22:23:44](https://news.ycombinator.com/item?id=38409049) - [Kepler, Nvidia's Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
+* [2023-11-24, 22:07:38](https://news.ycombinator.com/item?id=38408920) - [Autonomous Excavator Constructs a Six-Metre-High Dry-Stone Wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
 * [2023-11-24, 22:02:40](https://news.ycombinator.com/item?id=38408873) - [Botlib: Telegram Bots in C by Antirez](https://github.com/antirez/botlib)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
@@ -18,7 +20,6 @@
 * [2023-11-24, 16:50:15](https://news.ycombinator.com/item?id=38405823) - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 * [2023-11-24, 15:20:32](https://news.ycombinator.com/item?id=38404835) - [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp)
 * [2023-11-24, 14:10:39](https://news.ycombinator.com/item?id=38404099) - [Now streaming: nuclear physics](https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/)
-* [2023-11-24, 14:00:41](https://news.ycombinator.com/item?id=38404016) - [Two Tier Architectures Are Anachronistic [video]](https://www.tele-task.de/lecture/video/10304/)
 * [2023-11-24, 12:01:16](https://news.ycombinator.com/item?id=38403089) - [Langfuse (YC W23) is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
 * [2023-11-24, 09:34:02](https://news.ycombinator.com/item?id=38402092) - [Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 * [2023-11-24, 08:54:51](https://news.ycombinator.com/item?id=38401871) - [Domicles: Sudoku with Dominoes](https://emiruz.com/post/2023-11-13-domicles/)
@@ -27,9 +28,8 @@
 * [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
 * [2023-11-23, 21:49:57](https://news.ycombinator.com/item?id=38397956) - [Paul Auster on cancer, connection and the fallacy of closure](https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure)
 * [2023-11-23, 21:22:20](https://news.ycombinator.com/item?id=38397715) - [Show HN: Lua Carousel, create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
-* [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [React Spreadsheet 2 – Your Own Google Sheets](https://www.rowsncolumns.app/)
+* [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [Show HN: React Spreadsheet 2](https://www.rowsncolumns.app/)
 * [2023-11-23, 00:50:45](https://news.ycombinator.com/item?id=38387652) - [The $55M saga of a Netflix series nobody will ever see](https://www.nytimes.com/2023/11/22/business/carl-rinsch-netflix-conquest.html)
-* [2023-11-22, 23:08:00](https://news.ycombinator.com/item?id=38386495) - [Deck-Month: a Decker game jam](https://itch.io/jam/deck-month)
 
 ## [Archives](archives/index.md)
 
