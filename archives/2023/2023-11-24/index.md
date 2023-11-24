@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 20:14:54](https://news.ycombinator.com/item?id=38407744) - [Netflix spent $55M on sci-fi series that will almost certainly never be released](https://filmstories.co.uk/news/conquest-netflix-spent-55m-on-a-sci-fi-series-that-will-almost-certainly-never-be-released/)
 * [2023-11-24, 19:52:23](https://news.ycombinator.com/item?id=38407521) - [Cicero](https://ai.meta.com/research/cicero/)
 * [2023-11-24, 19:47:44](https://news.ycombinator.com/item?id=38407480) - [The Cannabis That People Are Using for Anxiety Is Probably Making It Worse](https://www.wsj.com/health/wellness/anxiety-medical-marijuana-treatment-4bfd2cc3)
 * [2023-11-24, 19:33:22](https://news.ycombinator.com/item?id=38407321) - [AI Doomers are worse than wrong – they're incompetent](https://www.infinitescroll.us/p/ai-doomers-are-worse-than-wrong-theyre)
