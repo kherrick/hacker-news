@@ -6,6 +6,9 @@
 
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
 * [2023-11-24, 18:16:04](https://news.ycombinator.com/item?id=38406625) - [I Challenged Boston Dynamics' Famous Atlas Robot [video]](https://www.youtube.com/watch?v=nAgTgwak7ME)
+* [2023-11-24, 18:09:44](https://news.ycombinator.com/item?id=38406578) - [Ubisoft blames 'technical error' for showing pop-up ads in Assassin's Creed](https://www.theverge.com/2023/11/24/23974420/ubisoft-assassins-creed-odyssey-pop-up-ad-xbox-playstation-technical-error)
+* [2023-11-24, 17:58:35](https://news.ycombinator.com/item?id=38406478) - [Mail-in-a-Box: a mail server in a box](https://github.com/mail-in-a-box/mailinabox)
+* [2023-11-24, 17:43:36](https://news.ycombinator.com/item?id=38406315) - [Show HN: AI Generated SVG's](https://vectorart.ai/layout3)
 * [2023-11-24, 17:38:19](https://news.ycombinator.com/item?id=38406261) - [Some observations on the final text of the European Digital Identity framework](https://blog.xot.nl/2023/11/20/some-observations-on-the-final-text-of-the-european-digital-identity-framework-eidas/index.html)
 * [2023-11-24, 17:26:05](https://news.ycombinator.com/item?id=38406156) - [Ask HN: How should I setup a phone for a newly blind relative?](https://news.ycombinator.com/item?id=38406156)
 * [2023-11-24, 16:50:15](https://news.ycombinator.com/item?id=38405823) - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
