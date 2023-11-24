@@ -44,6 +44,7 @@
 * [2023-11-22, 17:00:29](https://news.ycombinator.com/item?id=38381795) - [Can of Soup (YC S23) is hiring an ML engineer](https://www.ycombinator.com/companies/can-of-soup/jobs/ehxSeWE-machine-learning-engineer)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/?start=1700627373&count=1)
 * [2023-11-22, 16:44:15](https://news.ycombinator.com/item?id=38381573) - [Reflecting on 18 Years at Google](https://ln.hixie.ch/)
+* [2023-11-22, 16:43:49](https://news.ycombinator.com/item?id=38381563) - [Acoustic diffraction-resistant adaptive profile technology](https://phys.org/news/2023-11-acoustic-diffraction-resistant-profile-technology-elasticity.html)
 * [2023-11-22, 15:54:45](https://news.ycombinator.com/item?id=38380887) - [An inordinate amount of our attention is afforded to rich children](https://gkeenan.co/avgb/an-inordinate-amount-of-our-attention-is-afforded-to-absurdly-rich-children)
 * [2023-11-22, 15:52:46](https://news.ycombinator.com/item?id=38380857) - [Sam Altman's Manifest Destiny (2016)](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
 * [2023-11-22, 15:29:20](https://news.ycombinator.com/item?id=38380544) - [The AI industry turns against its favorite philosophy](https://www.semafor.com/article/11/21/2023/how-effective-altruism-led-to-a-crisis-at-openai)
