@@ -97,3 +97,4 @@
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [Test, [, and [[](https://jmmv.dev/2020/03/test-bracket.html)
 * [2023-11-23, 00:13:25](https://news.ycombinator.com/item?id=38387249) - [The Power of Bidiagonal Matrices](https://nhigham.com/2023/11/22/the-power-of-bidiagonal-matrices/)
 * [2023-11-23, 00:10:31](https://news.ycombinator.com/item?id=38387217) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
+* [2023-11-23, 00:00:26](https://news.ycombinator.com/item?id=38387059) - [Resilience, innovation and collapse of settlement networks in Bronze Age Europe](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288750)

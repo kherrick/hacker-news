@@ -27,7 +27,7 @@
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
 * [2023-11-23, 07:37:26](https://news.ycombinator.com/item?id=38390402) - [A correct-by-construction conversion from lambda calculus to combinatory logic](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/correctbyconstruction-conversion-from-lambda-calculus-to-combinatory-logic/B2A7BCF12A7A5D52B294C78A6F04191F)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
-* [2023-11-22, 16:43:49](https://news.ycombinator.com/item?id=38381563) - [Acoustic diffraction-resistant adaptive profile technology](https://phys.org/news/2023-11-acoustic-diffraction-resistant-profile-technology-elasticity.html)
+* [2023-11-23, 00:00:26](https://news.ycombinator.com/item?id=38387059) - [Resilience, innovation and collapse of settlement networks in Bronze Age Europe](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288750)
 * [2023-11-22, 13:09:57](https://news.ycombinator.com/item?id=38378652) - [The Meaning of Melancholy](https://onthearts.com/p/the-meaning-of-melancholy)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 
