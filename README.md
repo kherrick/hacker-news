@@ -2,6 +2,7 @@
 
 * [2023-11-24, 07:00:55](https://news.ycombinator.com/item?id=38401289) - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
 * [2023-11-24, 06:50:53](https://news.ycombinator.com/item?id=38401242) - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
+* [2023-11-24, 06:24:43](https://news.ycombinator.com/item?id=38401125) - ['Sunspot archipelago' 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
 * [2023-11-24, 05:41:37](https://news.ycombinator.com/item?id=38400929) - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
 * [2023-11-24, 03:31:45](https://news.ycombinator.com/item?id=38400421) - [State Dept prioritizes 'AI-ready workforce' in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
@@ -16,8 +17,7 @@
 * [2023-11-23, 19:41:49](https://news.ycombinator.com/item?id=38396658) - [Bluetooth stack modifications to improve audio quality on headphones without AA (2019)](https://habr.com/en/articles/456476/)
 * [2023-11-23, 16:59:13](https://news.ycombinator.com/item?id=38394816) - [About That OpenAI \"Breakthrough\"](https://garymarcus.substack.com/p/about-that-openai-breakthrough)
 * [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The story of titanium](https://www.construction-physics.com/p/the-story-of-titanium)
-* [2023-11-23, 16:19:02](https://news.ycombinator.com/item?id=38394391) - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* [2023-11-23, 16:18:45](https://news.ycombinator.com/item?id=38394383) - [Guinea worm disease is close to being eradicated](https://ourworldindata.org/guinea-worm-path-eradication)
+* [2023-11-23, 13:44:06](https://news.ycombinator.com/item?id=38392653) - [Eardrum Suck: The Mystery Solved (2019)](https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
 * [2023-11-23, 10:48:48](https://news.ycombinator.com/item?id=38391446) - [Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
