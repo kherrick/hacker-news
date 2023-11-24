@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-24, 09:15:03](https://news.ycombinator.com/item?id=38401969) - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
 * [2023-11-24, 08:41:14](https://news.ycombinator.com/item?id=38401805) - [Training for one trillion parameter model backed by Intel and US govt has begun](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun)
 * [2023-11-24, 08:09:07](https://news.ycombinator.com/item?id=38401637) - [Astronomers detect highest energy cosmic ray since 1991](https://arstechnica.com/science/2023/11/meet-amaterasu-astronomers-detect-highest-energy-cosmic-ray-since-1991/)
 * [2023-11-24, 08:04:34](https://news.ycombinator.com/item?id=38401613) - [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
@@ -22,6 +21,7 @@
 * [2023-11-23, 13:44:06](https://news.ycombinator.com/item?id=38392653) - [Eardrum Suck: The Mystery Solved (2019)](https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved)
 * [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
+* [2023-11-23, 11:06:59](https://news.ycombinator.com/item?id=38391548) - [Motorcycle Ergonomics](https://cycle-ergo.com/)
 * [2023-11-23, 10:48:48](https://news.ycombinator.com/item?id=38391446) - [Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
 * [2023-11-23, 10:08:15](https://news.ycombinator.com/item?id=38391229) - [Building a freedom-friendly WiFi pocket-router (2020)](https://www.kulesz.me/post/130-pocket-router/)
 * [2023-11-23, 09:49:38](https://news.ycombinator.com/item?id=38391112) - [The Revival of Medley/Interlisp](https://www.theregister.com/2023/11/23/medley_interlisp_revival/)
