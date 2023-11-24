@@ -64,6 +64,7 @@
 * [2023-11-23, 11:06:59](https://news.ycombinator.com/item?id=38391548) - [Motorcycle Ergonomics](https://cycle-ergo.com/)
 * [2023-11-23, 10:42:25](https://news.ycombinator.com/item?id=38391403) - [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs/)
 * [2023-11-23, 10:12:53](https://news.ycombinator.com/item?id=38391252) - [UK government blocks MP questions about Gaza-related activity at its Cyprus base](https://www.declassifieduk.org/uk-government-blocks-mp-questions-about-gaza-related-activity-at-its-cyprus-base/)
+* [2023-11-23, 10:08:15](https://news.ycombinator.com/item?id=38391229) - [Building a freedom-friendly WiFi pocket-router (2021)](https://www.kulesz.me/post/130-pocket-router/)
 * [2023-11-23, 09:57:37](https://news.ycombinator.com/item?id=38391167) - [Don Walsh: The man who made the deepest ever dive](https://www.bbc.com/news/science-environment-67445718)
 * [2023-11-23, 09:53:45](https://news.ycombinator.com/item?id=38391138) - [Pioneer of Google's Data Centers Dies at 58](https://spectrum.ieee.org/in-memoriam-nov-2023)
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
