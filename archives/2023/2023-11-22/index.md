@@ -66,6 +66,7 @@
 * [2023-11-22, 13:32:45](https://news.ycombinator.com/item?id=38378874) - [I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
 * [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and linting Python at scale](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
 * [2023-11-22, 13:22:06](https://news.ycombinator.com/item?id=38378776) - [Writing and Linting Python at Scale](https://engineering.fb.com/2023/11/21/production-engineering/writing-linting-python-at-scale-meta/)
+* [2023-11-22, 13:09:57](https://news.ycombinator.com/item?id=38378652) - [The Meaning of Melancholy](https://onthearts.com/p/the-meaning-of-melancholy)
 * [2023-11-22, 13:02:26](https://news.ycombinator.com/item?id=38378595) - [Are Analytics Good?](https://www.todepond.com/wikiblogarden/social-media/analytics/)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The Secret Language of Ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)

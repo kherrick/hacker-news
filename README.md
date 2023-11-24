@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-24, 07:00:55](https://news.ycombinator.com/item?id=38401289) - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
+* [2023-11-24, 06:50:53](https://news.ycombinator.com/item?id=38401242) - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
 * [2023-11-24, 05:41:37](https://news.ycombinator.com/item?id=38400929) - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
 * [2023-11-24, 03:31:45](https://news.ycombinator.com/item?id=38400421) - [State Dept prioritizes 'AI-ready workforce' in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
 * [2023-11-24, 02:40:12](https://news.ycombinator.com/item?id=38400162) - [If somafm ever goes away I'll stop writing software](https://somafm.com/?thanksgivingwhat)
 * [2023-11-24, 01:18:01](https://news.ycombinator.com/item?id=38399767) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 01:15:23](https://news.ycombinator.com/item?id=38399740) - [Things you're allowed to do (2020)](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-* [2023-11-24, 01:01:33](https://news.ycombinator.com/item?id=38399650) - [Imbue (Formerly Generally Intelligent) (YC S17) Is hiring an Engineering Manager](https://news.ycombinator.com/item?id=38399650)
 * [2023-11-24, 00:52:12](https://news.ycombinator.com/item?id=38399591) - [FullControl: Unconstrained gcode design for 3D printers](https://github.com/FullControlXYZ/fullcontrol)
 * [2023-11-24, 00:14:23](https://news.ycombinator.com/item?id=38399333) - [Extremely large telescopes at risk](https://www.science.org/doi/10.1126/science.adm9964)
 * [2023-11-23, 23:11:25](https://news.ycombinator.com/item?id=38398796) - [Call the Routing Police](https://blog.apnic.net/2023/11/23/call-the-routing-police/)
@@ -19,7 +20,6 @@
 * [2023-11-23, 16:43:25](https://news.ycombinator.com/item?id=38394635) - [The story of titanium](https://www.construction-physics.com/p/the-story-of-titanium)
 * [2023-11-23, 16:19:02](https://news.ycombinator.com/item?id=38394391) - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [2023-11-23, 16:18:45](https://news.ycombinator.com/item?id=38394383) - [Guinea worm disease is close to being eradicated](https://ourworldindata.org/guinea-worm-path-eradication)
-* [2023-11-23, 13:00:21](https://news.ycombinator.com/item?id=38392277) - [Polio is on the brink of eradication](https://www.nature.com/articles/d41586-023-03602-5)
 * [2023-11-23, 12:12:55](https://news.ycombinator.com/item?id=38391920) - [A Busy 1979](https://www.filfre.net/2011/07/a-busy-1979/)
 * [2023-11-23, 10:48:48](https://news.ycombinator.com/item?id=38391446) - [Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
 * [2023-11-23, 10:08:15](https://news.ycombinator.com/item?id=38391229) - [Building a freedom-friendly WiFi pocket-router (2021)](https://www.kulesz.me/post/130-pocket-router/)
@@ -27,9 +27,9 @@
 * [2023-11-23, 09:10:58](https://news.ycombinator.com/item?id=38390914) - [Ansel](https://ansel.photos/en/)
 * [2023-11-23, 07:37:26](https://news.ycombinator.com/item?id=38390402) - [A correct-by-construction conversion from lambda calculus to combinatory logic](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/correctbyconstruction-conversion-from-lambda-calculus-to-combinatory-logic/B2A7BCF12A7A5D52B294C78A6F04191F)
 * [2023-11-23, 00:31:33](https://news.ycombinator.com/item?id=38387464) - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
+* [2023-11-22, 13:09:57](https://news.ycombinator.com/item?id=38378652) - [The Meaning of Melancholy](https://onthearts.com/p/the-meaning-of-melancholy)
 * [2023-11-22, 12:58:47](https://news.ycombinator.com/item?id=38378557) - [POSIX v. reality: A position on O_PONIES (2009)](https://lwn.net/Articles/351422/)
 * [2023-11-22, 12:58:43](https://news.ycombinator.com/item?id=38378555) - [The secret language of ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
-* [2023-11-22, 06:01:45](https://news.ycombinator.com/item?id=38375239) - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 
 ## [Archives](archives/index.md)
 
