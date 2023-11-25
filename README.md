@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 21:01:08](https://news.ycombinator.com/item?id=38416633) - [Meticulous (YC S21) Is Hiring to solve e2e testing](https://news.ycombinator.com/item?id=38416633)
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 19:21:24](https://news.ycombinator.com/item?id=38415830) - [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
@@ -8,9 +9,9 @@
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
 * [2023-11-25, 17:21:06](https://news.ycombinator.com/item?id=38414841) - [New Wave Sci-Fi: 75 Best Novels of 1964–1983](https://www.hilobrow.com/new-wave-sci-fi/)
 * [2023-11-25, 17:14:27](https://news.ycombinator.com/item?id=38414785) - [Breezy Version Control System](https://www.breezy-vcs.org)
-* [2023-11-25, 17:00:50](https://news.ycombinator.com/item?id=38414691) - [Mutable.ai (YC W22) Is Hiring AI Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs/YX9awHC-founding-ai-research-engineer)
 * [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
 * [2023-11-25, 15:09:20](https://news.ycombinator.com/item?id=38413970) - [Show HN: Personalized Meal Plans to Suit Your Lifestyle](https://assistant.tnx-solutions.ch/)
+* [2023-11-25, 14:25:32](https://news.ycombinator.com/item?id=38413714) - [The United Slate](https://unitedslate.samaltman.com/)
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
 * [2023-11-25, 13:02:48](https://news.ycombinator.com/item?id=38413226) - [Need a PRNG? Use a CSPRNG](https://sortingsearching.com/2023/11/25/random.html)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
@@ -28,7 +29,6 @@
 * [2023-11-24, 15:27:52](https://news.ycombinator.com/item?id=38404910) - [Ain't Nobody Here but Us Chickens (2019)](https://www.scotwork.co.uk/insights/2019/ain-t-nobody-here-but-us-chickens/)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
-* [2023-11-24, 07:42:01](https://news.ycombinator.com/item?id=38401491) - [Nearly Cheating](https://leancrew.com/all-this/2023/11/nearly-cheating/)
 * [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 21:01:08](https://news.ycombinator.com/item?id=38416633) - [Meticulous (YC S21) Is Hiring to solve e2e testing](https://news.ycombinator.com/item?id=38416633)
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 19:21:24](https://news.ycombinator.com/item?id=38415830) - [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
@@ -21,6 +22,7 @@
 * [2023-11-25, 15:09:20](https://news.ycombinator.com/item?id=38413970) - [Show HN: Personalized Meal Plans to Suit Your Lifestyle](https://assistant.tnx-solutions.ch/)
 * [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 * [2023-11-25, 14:26:02](https://news.ycombinator.com/item?id=38413718) - [Availability and Use of F-35 Fighter Aircraft: An Update](https://www.cbo.gov/publication/58942)
+* [2023-11-25, 14:25:32](https://news.ycombinator.com/item?id=38413714) - [The United Slate](https://unitedslate.samaltman.com/)
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
 * [2023-11-25, 14:07:10](https://news.ycombinator.com/item?id=38413600) - [X may lose up to $75M by year-end on advertiser exodus](https://www.reuters.com/technology/x-may-lose-up-75-mln-by-year-end-advertiser-exodus-nyt-2023-11-24/)
 * [2023-11-25, 13:56:29](https://news.ycombinator.com/item?id=38413530) - [Maverick Mars chopper has survived way past its warranty](https://www.theregister.com/2023/11/23/ingenuity_pushes_the_envelope/)
