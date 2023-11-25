@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 05:19:06",
+      "https://news.ycombinator.com/item?id=38411415"
+    ],
+    [
+      "ArchiveTeam is saving Blogger from Google deletion",
+      "https://tracker.archiveteam.org/blogger/"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 04:11:37",
       "https://news.ycombinator.com/item?id=38411105"
     ],
@@ -17,16 +27,6 @@
     [
       "There are no strings on me",
       "https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 01:47:44",
-      "https://news.ycombinator.com/item?id=38410371"
-    ],
-    [
-      "Pythonicity: Composition vs. Inheritance",
-      "https://coady.github.io/posts/composition-vs-inheritance.html"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-11-24, 14:02:40",
+      "https://news.ycombinator.com/item?id=38404030"
+    ],
+    [
+      "Topo magazine uses comics to tell the news to French teens",
+      "https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 12:04:30",
       "https://news.ycombinator.com/item?id=38403111"
     ],
@@ -237,16 +247,6 @@
     [
       "Rxinfer: Automatic Bayesian Inference Through Reactive Message Passing",
       "https://biaslab.github.io/rxinfer-website/"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 04:40:43",
-      "https://news.ycombinator.com/item?id=38400685"
-    ],
-    [
-      "Data Parallel Extensions for Python",
-      "https://intelpython.github.io/DPEP/main/"
     ]
   ],
   [
