@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
 * [2023-11-25, 17:00:50](https://news.ycombinator.com/item?id=38414691) - [Mutable.ai (YC W22) Is Hiring AI Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs/YX9awHC-founding-ai-research-engineer)
+* [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Show HN: Play Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
 * [2023-11-25, 15:37:15](https://news.ycombinator.com/item?id=38414142) - [Mapped: The Migration of the Millionaires in 2023](https://www.visualcapitalist.com/mapped-the-migration-of-the-worlds-millionaires-in-2023/)
 * [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 * [2023-11-25, 14:26:02](https://news.ycombinator.com/item?id=38413718) - [Availability and Use of F-35 Fighter Aircraft: An Update](https://www.cbo.gov/publication/58942)

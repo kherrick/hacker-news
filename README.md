@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-25, 17:00:50](https://news.ycombinator.com/item?id=38414691) - [Mutable.ai (YC W22) Is Hiring AI Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs/YX9awHC-founding-ai-research-engineer)
+* [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Show HN: Play Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
 * [2023-11-25, 15:37:15](https://news.ycombinator.com/item?id=38414142) - [Mapped: The Migration of the Millionaires in 2023](https://www.visualcapitalist.com/mapped-the-migration-of-the-worlds-millionaires-in-2023/)
 * [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k is the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 * [2023-11-25, 14:26:02](https://news.ycombinator.com/item?id=38413718) - [Availability and Use of F-35 Fighter Aircraft: An Update](https://www.cbo.gov/publication/58942)
@@ -17,7 +18,6 @@
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:30:36](https://news.ycombinator.com/item?id=38407898) - [The Frog That Couldn't Jump](https://www.thedial.world/issue-10/kim-ju-song-memoir-frog-that-couldnt-jump)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-* [2023-11-24, 19:09:54](https://news.ycombinator.com/item?id=38407106) - [The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
 * [2023-11-24, 15:27:52](https://news.ycombinator.com/item?id=38404910) - [Ain't Nobody Here but Us Chickens (2019)](https://www.scotwork.co.uk/insights/2019/ain-t-nobody-here-but-us-chickens/)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 14:25:38](https://news.ycombinator.com/item?id=38404261) - [Strategies for making reproducible research the norm](https://elifesciences.org/articles/89736)
