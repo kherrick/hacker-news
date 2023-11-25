@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 18:08:32](https://news.ycombinator.com/item?id=38415207) - [Korean Smartphones Have Mandatory Shutter Sounds, 8 in 10 Want It Muted](https://petapixel.com/2023/11/06/korean-smartphones-have-mandatory-shutter-sounds-8-in-10-want-it-muted/)
 * [2023-11-25, 17:35:02](https://news.ycombinator.com/item?id=38414958) - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
 * [2023-11-25, 17:21:06](https://news.ycombinator.com/item?id=38414841) - [New Wave Sci-Fi: 75 Best Novels of 1964–1983](https://www.hilobrow.com/new-wave-sci-fi/)
@@ -22,7 +23,6 @@
 * [2023-11-24, 18:51:32](https://news.ycombinator.com/item?id=38406900) - [Fabricable Eulerian Wires for 3D Shape Abstraction (2018) [pdf]](https://gruvi.cs.sfu.ca/_pages/project/eulerianwires/files/eulerian_wires.pdf)
 * [2023-11-24, 15:27:52](https://news.ycombinator.com/item?id=38404910) - [Ain't Nobody Here but Us Chickens (2019)](https://www.scotwork.co.uk/insights/2019/ain-t-nobody-here-but-us-chickens/)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
-* [2023-11-24, 14:25:38](https://news.ycombinator.com/item?id=38404261) - [Strategies for making reproducible research the norm](https://elifesciences.org/articles/89736)
 * [2023-11-24, 14:02:40](https://news.ycombinator.com/item?id=38404030) - [Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
 * [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 11:16:25](https://news.ycombinator.com/item?id=38402776) - [Animotion – a visual CSS animation app](https://cssanimotion.pages.dev/)
