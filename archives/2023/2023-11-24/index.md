@@ -87,6 +87,7 @@
 * [2023-11-24, 05:36:50](https://news.ycombinator.com/item?id=38400912) - [Tell HN: Spotify now inserts Ads to premium users as well](https://news.ycombinator.com/item?id=38400912)
 * [2023-11-24, 05:33:27](https://news.ycombinator.com/item?id=38400901) - [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
 * [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
+* [2023-11-24, 04:30:03](https://news.ycombinator.com/item?id=38400647) - [Some reasons to measure (2021)](https://danluu.com/why-benchmark/)
 * [2023-11-24, 03:47:57](https://news.ycombinator.com/item?id=38400486) - [Harvard SETI Project Helps ID Mystery Sound](https://hackaday.com/2023/11/23/harvard-seti-project-helps-id-mystery-sound/)
 * [2023-11-24, 03:31:45](https://news.ycombinator.com/item?id=38400421) - [State Dept prioritizes 'AI-ready workforce' in its first AI strategy](https://federalnewsnetwork.com/artificial-intelligence/2023/11/state-dept-prioritizes-ai-ready-workforce-in-its-first-ai-strategy/)
 * [2023-11-24, 03:26:42](https://news.ycombinator.com/item?id=38400389) - [Learn Machine Learning](https://www.tensorflow.org/resources/learn-ml)
