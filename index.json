@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-11-25, 19:21:24",
+      "https://news.ycombinator.com/item?id=38415830"
+    ],
+    [
+      "Ask HN: Article on software only increasing complexity?",
+      "https://news.ycombinator.com/item?id=38415830"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 18:14:05",
       "https://news.ycombinator.com/item?id=38415252"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-11-24, 18:51:32",
-      "https://news.ycombinator.com/item?id=38406900"
-    ],
-    [
-      "Fabricable Eulerian Wires for 3D Shape Abstraction (2018) [pdf]",
-      "https://gruvi.cs.sfu.ca/_pages/project/eulerianwires/files/eulerian_wires.pdf"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 15:27:52",
       "https://news.ycombinator.com/item?id=38404910"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-11-24, 07:52:13",
-      "https://news.ycombinator.com/item?id=38401550"
-    ],
-    [
-      "Interesting features of John Harrison's sea clocks",
-      "https://incoherency.co.uk/blog/stories/harrison-clocks.html"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 07:42:01",
       "https://news.ycombinator.com/item?id=38401491"
     ],
     [
       "Nearly Cheating",
       "https://leancrew.com/all-this/2023/11/nearly-cheating/"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 04:40:43",
+      "https://news.ycombinator.com/item?id=38400685"
+    ],
+    [
+      "Data Parallel Extensions for Python",
+      "https://intelpython.github.io/DPEP/main/"
     ]
   ]
 ]
