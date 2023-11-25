@@ -4,13 +4,13 @@
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 18:22:09](https://news.ycombinator.com/item?id=38415309) - ['Zoom fatigue' may take toll on the brain and the heart](https://www.washingtonpost.com/health/2023/11/25/zoom-fatigue-brain-heart-effects/)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger Effect Is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
-* [2023-11-25, 18:08:32](https://news.ycombinator.com/item?id=38415207) - [Korean Smartphones Have Mandatory Shutter Sounds, 8 in 10 Want It Muted](https://petapixel.com/2023/11/06/korean-smartphones-have-mandatory-shutter-sounds-8-in-10-want-it-muted/)
 * [2023-11-25, 17:35:02](https://news.ycombinator.com/item?id=38414958) - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
 * [2023-11-25, 17:21:06](https://news.ycombinator.com/item?id=38414841) - [New Wave Sci-Fi: 75 Best Novels of 1964–1983](https://www.hilobrow.com/new-wave-sci-fi/)
 * [2023-11-25, 17:14:27](https://news.ycombinator.com/item?id=38414785) - [Breezy Version Control System](https://www.breezy-vcs.org)
 * [2023-11-25, 17:00:50](https://news.ycombinator.com/item?id=38414691) - [Mutable.ai (YC W22) Is Hiring AI Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs/YX9awHC-founding-ai-research-engineer)
 * [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
+* [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k is the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
 * [2023-11-25, 13:02:48](https://news.ycombinator.com/item?id=38413226) - [Need a PRNG? Use a CSPRNG](https://sortingsearching.com/2023/11/25/random.html)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
@@ -29,7 +29,7 @@
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 07:52:13](https://news.ycombinator.com/item?id=38401550) - [Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)
-* [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
+* [2023-11-24, 07:42:01](https://news.ycombinator.com/item?id=38401491) - [Nearly Cheating](https://leancrew.com/all-this/2023/11/nearly-cheating/)
 
 ## [Archives](archives/index.md)
 
