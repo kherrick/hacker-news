@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 22:06:06](https://news.ycombinator.com/item?id=38417163) - [Audiobooks Are Books and They're Also Practice](https://map.simonsarris.com/p/audiobooks-are-books-and-theyre-also)
+* [2023-11-25, 21:21:18](https://news.ycombinator.com/item?id=38416778) - [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
 * [2023-11-25, 21:06:54](https://news.ycombinator.com/item?id=38416669) - [Conversational AI is a great tool for education](https://twitter.com/vishnuhx/status/1728520353897460018)
-* [2023-11-25, 21:06:34](https://news.ycombinator.com/item?id=38416667) - [Fertility as Metascience](https://maximumprogress.substack.com/p/fertility-as-metascience)
 * [2023-11-25, 21:01:08](https://news.ycombinator.com/item?id=38416633) - [Meticulous (YC S21) Is Hiring to solve end-to-end testing](https://news.ycombinator.com/item?id=38416633)
 * [2023-11-25, 20:59:50](https://news.ycombinator.com/item?id=38416624) - [Three Year Cruise for Remote Workers Canceled](https://www.cnn.com/travel/article/three-year-cruise-canceled/index.html)
-* [2023-11-25, 20:55:19](https://news.ycombinator.com/item?id=38416595) - [This page knows your battery charge level (unless you're using Firefox)](https://deepesh-01.github.io/battery_indicator/)
 * [2023-11-25, 19:57:38](https://news.ycombinator.com/item?id=38416161) - [It's time for a new old language (2017) [pdf]](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf)
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - [New CRISPR systems hold promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)

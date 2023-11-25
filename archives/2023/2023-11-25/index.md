@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 22:06:06](https://news.ycombinator.com/item?id=38417163) - [Audiobooks Are Books and They're Also Practice](https://map.simonsarris.com/p/audiobooks-are-books-and-theyre-also)
+* [2023-11-25, 21:21:18](https://news.ycombinator.com/item?id=38416778) - [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
 * [2023-11-25, 21:06:54](https://news.ycombinator.com/item?id=38416669) - [Conversational AI is a great tool for education](https://twitter.com/vishnuhx/status/1728520353897460018)
 * [2023-11-25, 21:06:34](https://news.ycombinator.com/item?id=38416667) - [To get more growth we need more kids](https://maximumprogress.substack.com/p/fertility-as-metascience)
 * [2023-11-25, 21:01:08](https://news.ycombinator.com/item?id=38416633) - [Meticulous (YC S21) Is Hiring to solve e2e testing](https://news.ycombinator.com/item?id=38416633)
