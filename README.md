@@ -2,6 +2,7 @@
 
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
+* [2023-11-25, 19:21:24](https://news.ycombinator.com/item?id=38415830) - [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 17:35:02](https://news.ycombinator.com/item?id=38414958) - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
@@ -24,12 +25,11 @@
 * [2023-11-24, 22:07:38](https://news.ycombinator.com/item?id=38408920) - [Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:30:36](https://news.ycombinator.com/item?id=38407898) - [The Frog That Couldn't Jump](https://www.thedial.world/issue-10/kim-ju-song-memoir-frog-that-couldnt-jump)
-* [2023-11-24, 18:51:32](https://news.ycombinator.com/item?id=38406900) - [Fabricable Eulerian Wires for 3D Shape Abstraction (2018) [pdf]](https://gruvi.cs.sfu.ca/_pages/project/eulerianwires/files/eulerian_wires.pdf)
 * [2023-11-24, 15:27:52](https://news.ycombinator.com/item?id=38404910) - [Ain't Nobody Here but Us Chickens (2019)](https://www.scotwork.co.uk/insights/2019/ain-t-nobody-here-but-us-chickens/)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
-* [2023-11-24, 07:52:13](https://news.ycombinator.com/item?id=38401550) - [Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)
 * [2023-11-24, 07:42:01](https://news.ycombinator.com/item?id=38401491) - [Nearly Cheating](https://leancrew.com/all-this/2023/11/nearly-cheating/)
+* [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
 
 ## [Archives](archives/index.md)
 

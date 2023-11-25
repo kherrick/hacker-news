@@ -6,6 +6,7 @@
 
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
+* [2023-11-25, 19:21:24](https://news.ycombinator.com/item?id=38415830) - [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
 * [2023-11-25, 18:22:09](https://news.ycombinator.com/item?id=38415309) - ['Zoom fatigue' may take toll on the brain and the heart](https://www.washingtonpost.com/health/2023/11/25/zoom-fatigue-brain-heart-effects/)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger Effect Is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 18:10:44](https://news.ycombinator.com/item?id=38415219) - [AI Art Generators Can Be Fooled into Making NSFW Images](https://spectrum.ieee.org/dall-e)
