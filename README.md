@@ -15,6 +15,7 @@
 * [2023-11-25, 13:02:48](https://news.ycombinator.com/item?id=38413226) - [Need a PRNG? Use a CSPRNG](https://sortingsearching.com/2023/11/25/random.html)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 * [2023-11-25, 11:41:43](https://news.ycombinator.com/item?id=38412886) - [Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
+* [2023-11-25, 11:05:12](https://news.ycombinator.com/item?id=38412756) - [Hlava Franze Kafky (Franz Kafka's Head)](https://www.atlasobscura.com/places/hlava-franze-kafky)
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
 * [2023-11-25, 05:14:51](https://news.ycombinator.com/item?id=38411394) - [Napoleon: Two Centuries of Life After Death](https://www.historytoday.com/archive/feature/napoleon-two-centuries-life-after-death)
@@ -29,7 +30,6 @@
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 07:52:13](https://news.ycombinator.com/item?id=38401550) - [Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)
-* [2023-11-24, 07:42:01](https://news.ycombinator.com/item?id=38401491) - [Nearly Cheating](https://leancrew.com/all-this/2023/11/nearly-cheating/)
 
 ## [Archives](archives/index.md)
 

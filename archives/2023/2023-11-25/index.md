@@ -31,6 +31,7 @@
 * [2023-11-25, 12:00:29](https://news.ycombinator.com/item?id=38412976) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://news.ycombinator.com/item?id=38412976)
 * [2023-11-25, 11:41:43](https://news.ycombinator.com/item?id=38412886) - [Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 11:22:07](https://news.ycombinator.com/item?id=38412818) - [Developers are not happy with .NET MAUI, but nobody in the team cares about it](https://github.com/dotnet/maui/issues/19018)
+* [2023-11-25, 11:05:12](https://news.ycombinator.com/item?id=38412756) - [Hlava Franze Kafky (Franz Kafka's Head)](https://www.atlasobscura.com/places/hlava-franze-kafky)
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
 * [2023-11-25, 10:30:37](https://news.ycombinator.com/item?id=38412621) - [Stop using JSON Web Tokens for user sessions](https://ds-security.com/post/stop-using-jwts-for-sessions/)
 * [2023-11-25, 10:20:55](https://news.ycombinator.com/item?id=38412582) - [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
