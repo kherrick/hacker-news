@@ -10,6 +10,7 @@
 * [2023-11-23, 22:49:54](https://news.ycombinator.com/item?id=38398563) - [Experimental tree-based writing interface for GPT-3](https://github.com/socketteer/loom)
 * [2023-11-23, 22:23:51](https://news.ycombinator.com/item?id=38398305) - [PostgreSQL on S390x](https://www.cybertec-postgresql.com/en/postgresql-on-s390x/)
 * [2023-11-23, 22:21:50](https://news.ycombinator.com/item?id=38398285) - [Hot fire: Ariane 6 ready to rumble](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Hot_fire_Ariane_6_ready_to_rumble)
+* [2023-11-23, 21:56:30](https://news.ycombinator.com/item?id=38398009) - [The Killing of a Berlin Power Broker](https://granta.com/the-killing-of-a-berlin-power-broker/)
 * [2023-11-23, 21:49:57](https://news.ycombinator.com/item?id=38397956) - [Paul Auster on cancer, connection and the fallacy of closure](https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure)
 * [2023-11-23, 21:49:23](https://news.ycombinator.com/item?id=38397947) - [Community Contributions at GitLab](https://community.inc/deep-dives/contribution-gitlab)
 * [2023-11-23, 21:42:52](https://news.ycombinator.com/item?id=38397905) - [What is it like to be a crab?](https://aeon.co/essays/are-we-ready-to-study-consciousness-in-crabs-and-the-like)

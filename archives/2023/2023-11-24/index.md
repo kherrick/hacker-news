@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
 * [2023-11-24, 23:06:11](https://news.ycombinator.com/item?id=38409353) - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
+* [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 * [2023-11-24, 22:48:01](https://news.ycombinator.com/item?id=38409236) - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
 * [2023-11-24, 22:42:43](https://news.ycombinator.com/item?id=38409191) - [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
 * [2023-11-24, 22:37:16](https://news.ycombinator.com/item?id=38409164) - [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
