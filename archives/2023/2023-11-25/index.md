@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 10:30:37](https://news.ycombinator.com/item?id=38412621) - [Stop using JSON Web Tokens for user sessions](https://ds-security.com/post/stop-using-jwts-for-sessions/)
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is saving Blogger from Google deletion](https://tracker.archiveteam.org/blogger/)
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
 * [2023-11-25, 04:11:37](https://news.ycombinator.com/item?id=38411105) - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
