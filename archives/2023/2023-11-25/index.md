@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 15:37:15](https://news.ycombinator.com/item?id=38414142) - [Mapped: The Migration of the Millionaires in 2023](https://www.visualcapitalist.com/mapped-the-migration-of-the-worlds-millionaires-in-2023/)
 * [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 * [2023-11-25, 14:07:10](https://news.ycombinator.com/item?id=38413600) - [X may lose up to $75M by year-end on advertiser exodus](https://www.reuters.com/technology/x-may-lose-up-75-mln-by-year-end-advertiser-exodus-nyt-2023-11-24/)
 * [2023-11-25, 13:56:29](https://news.ycombinator.com/item?id=38413530) - [Maverick Mars chopper has survived way past its warranty](https://www.theregister.com/2023/11/23/ingenuity_pushes_the_envelope/)

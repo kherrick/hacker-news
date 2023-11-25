@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 15:37:15](https://news.ycombinator.com/item?id=38414142) - [Mapped: The Migration of the Millionaires in 2023](https://www.visualcapitalist.com/mapped-the-migration-of-the-worlds-millionaires-in-2023/)
 * [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k is the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 * [2023-11-25, 12:39:39](https://news.ycombinator.com/item?id=38413134) - [Anti-tumor activity of all-trans retinoic acid in gastric-cancer](https://pubmed.ncbi.nlm.nih.gov/37951921/)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
@@ -16,7 +17,6 @@
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:30:36](https://news.ycombinator.com/item?id=38407898) - [The Frog That Couldn't Jump](https://www.thedial.world/issue-10/kim-ju-song-memoir-frog-that-couldnt-jump)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-* [2023-11-24, 19:09:54](https://news.ycombinator.com/item?id=38407106) - [The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 14:25:38](https://news.ycombinator.com/item?id=38404261) - [Strategies for making reproducible research the norm](https://elifesciences.org/articles/89736)
 * [2023-11-24, 14:02:40](https://news.ycombinator.com/item?id=38404030) - [Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
