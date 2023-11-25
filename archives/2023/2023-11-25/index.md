@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 11:22:07](https://news.ycombinator.com/item?id=38412818) - [Developers are not happy with .NET MAUI, but nobody in the team cares about it](https://github.com/dotnet/maui/issues/19018)
 * [2023-11-25, 10:30:37](https://news.ycombinator.com/item?id=38412621) - [Stop using JSON Web Tokens for user sessions](https://ds-security.com/post/stop-using-jwts-for-sessions/)
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is saving Blogger from Google deletion](https://tracker.archiveteam.org/blogger/)
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
