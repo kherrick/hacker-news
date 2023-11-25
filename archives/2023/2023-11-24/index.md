@@ -85,6 +85,7 @@
 * [2023-11-24, 08:04:34](https://news.ycombinator.com/item?id=38401613) - [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
 * [2023-11-24, 07:52:13](https://news.ycombinator.com/item?id=38401550) - [Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)
 * [2023-11-24, 07:51:17](https://news.ycombinator.com/item?id=38401544) - [AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
+* [2023-11-24, 07:42:01](https://news.ycombinator.com/item?id=38401491) - [Nearly Cheating](https://leancrew.com/all-this/2023/11/nearly-cheating/)
 * [2023-11-24, 07:00:55](https://news.ycombinator.com/item?id=38401289) - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
 * [2023-11-24, 06:50:53](https://news.ycombinator.com/item?id=38401242) - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
 * [2023-11-24, 06:44:26](https://news.ycombinator.com/item?id=38401212) - [Rxinfer: Automatic Bayesian Inference Through Reactive Message Passing](https://biaslab.github.io/rxinfer-website/)
