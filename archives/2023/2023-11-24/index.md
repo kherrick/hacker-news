@@ -19,6 +19,7 @@
 * [2023-11-24, 21:26:36](https://news.ycombinator.com/item?id=38408555) - [You Won't Survive as Human Capital](https://www.palladiummag.com/2023/11/24/you-wont-survive-as-human-capital/)
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
+* [2023-11-24, 20:41:20](https://news.ycombinator.com/item?id=38408025) - [The Web Site to Remember National Semiconductor's Series 32000 Family](http://cpu-ns32k.net/Diephotos.html)
 * [2023-11-24, 20:30:36](https://news.ycombinator.com/item?id=38407898) - [The Frog That Couldn't Jump](https://www.thedial.world/issue-10/kim-ju-song-memoir-frog-that-couldnt-jump)
 * [2023-11-24, 20:25:28](https://news.ycombinator.com/item?id=38407851) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2023-11-24, 20:18:30](https://news.ycombinator.com/item?id=38407780) - [Show HN: A game to memorize scale degrees on the guitar fretboard](https://www.fretboardfly.com/FBG-201)
