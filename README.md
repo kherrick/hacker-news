@@ -2,10 +2,10 @@
 
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is saving Blogger from Google deletion](https://tracker.archiveteam.org/blogger/)
 * [2023-11-25, 04:11:37](https://news.ycombinator.com/item?id=38411105) - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
+* [2023-11-25, 03:44:41](https://news.ycombinator.com/item?id=38411005) - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 * [2023-11-25, 03:42:42](https://news.ycombinator.com/item?id=38410987) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-24, 23:51:39](https://news.ycombinator.com/item?id=38409692) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 * [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
-* [2023-11-24, 22:48:01](https://news.ycombinator.com/item?id=38409236) - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
 * [2023-11-24, 22:42:43](https://news.ycombinator.com/item?id=38409191) - [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
 * [2023-11-24, 22:37:16](https://news.ycombinator.com/item?id=38409164) - [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 * [2023-11-24, 22:23:44](https://news.ycombinator.com/item?id=38409049) - [Kepler, Nvidia's Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
