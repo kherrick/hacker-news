@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
 * [2023-11-25, 21:01:08](https://news.ycombinator.com/item?id=38416633) - [Meticulous (YC S21) Is Hiring to solve e2e testing](https://news.ycombinator.com/item?id=38416633)
+* [2023-11-25, 20:59:50](https://news.ycombinator.com/item?id=38416624) - [Three Year Cruise for Remote Workers Canceled](https://www.cnn.com/travel/article/three-year-cruise-canceled/index.html)
+* [2023-11-25, 20:55:19](https://news.ycombinator.com/item?id=38416595) - [This page knows your battery charge level (unless you're using Firefox)](https://deepesh-01.github.io/battery_indicator/)
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 19:21:24](https://news.ycombinator.com/item?id=38415830) - [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)

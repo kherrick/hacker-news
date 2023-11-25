@@ -15,6 +15,7 @@
 * [2023-11-24, 22:22:03](https://news.ycombinator.com/item?id=38409033) - [Visual Q-Learning Demo in JavaScript from Karpathy (2013)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 * [2023-11-24, 22:07:38](https://news.ycombinator.com/item?id=38408920) - [Autonomous Excavator Constructs a Six-Metre-High Dry-Stone Wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
 * [2023-11-24, 22:02:40](https://news.ycombinator.com/item?id=38408873) - [Botlib: Telegram Bots in C by Antirez](https://github.com/antirez/botlib)
+* [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
 * [2023-11-24, 21:26:36](https://news.ycombinator.com/item?id=38408555) - [You Won't Survive as Human Capital](https://www.palladiummag.com/2023/11/24/you-wont-survive-as-human-capital/)
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)

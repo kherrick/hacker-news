@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-25, 21:01:08](https://news.ycombinator.com/item?id=38416633) - [Meticulous (YC S21) Is Hiring to solve e2e testing](https://news.ycombinator.com/item?id=38416633)
+* [2023-11-25, 20:59:50](https://news.ycombinator.com/item?id=38416624) - [Three Year Cruise for Remote Workers Canceled](https://www.cnn.com/travel/article/three-year-cruise-canceled/index.html)
+* [2023-11-25, 20:55:19](https://news.ycombinator.com/item?id=38416595) - [This page knows your battery charge level (unless you're using Firefox)](https://deepesh-01.github.io/battery_indicator/)
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 19:21:24](https://news.ycombinator.com/item?id=38415830) - [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
@@ -15,7 +17,6 @@
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
 * [2023-11-25, 13:02:48](https://news.ycombinator.com/item?id=38413226) - [Need a PRNG? Use a CSPRNG](https://sortingsearching.com/2023/11/25/random.html)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
-* [2023-11-25, 11:41:43](https://news.ycombinator.com/item?id=38412886) - [Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 11:05:12](https://news.ycombinator.com/item?id=38412756) - [Hlava Franze Kafky (Franz Kafka's Head)](https://www.atlasobscura.com/places/hlava-franze-kafky)
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
@@ -24,12 +25,11 @@
 * [2023-11-25, 03:44:41](https://news.ycombinator.com/item?id=38411005) - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 * [2023-11-24, 22:22:03](https://news.ycombinator.com/item?id=38409033) - [ConvNetJS Deep Q Learning Demo (2013)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 * [2023-11-24, 22:07:38](https://news.ycombinator.com/item?id=38408920) - [Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
+* [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:30:36](https://news.ycombinator.com/item?id=38407898) - [The Frog That Couldn't Jump](https://www.thedial.world/issue-10/kim-ju-song-memoir-frog-that-couldnt-jump)
 * [2023-11-24, 15:27:52](https://news.ycombinator.com/item?id=38404910) - [Ain't Nobody Here but Us Chickens (2019)](https://www.scotwork.co.uk/insights/2019/ain-t-nobody-here-but-us-chickens/)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
-* [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
-* [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
 
 ## [Archives](archives/index.md)
 
