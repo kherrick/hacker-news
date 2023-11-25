@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-25, 18:22:09",
-      "https://news.ycombinator.com/item?id=38415309"
-    ],
-    [
-      "'Zoom fatigue' may take toll on the brain and the heart",
-      "https://www.washingtonpost.com/health/2023/11/25/zoom-fatigue-brain-heart-effects/"
-    ]
-  ],
-  [
-    [
       "2023-11-25, 18:14:05",
       "https://news.ycombinator.com/item?id=38415252"
     ],
@@ -297,6 +287,16 @@
     [
       "Nearly Cheating",
       "https://leancrew.com/all-this/2023/11/nearly-cheating/"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 04:40:43",
+      "https://news.ycombinator.com/item?id=38400685"
+    ],
+    [
+      "Data Parallel Extensions for Python",
+      "https://intelpython.github.io/DPEP/main/"
     ]
   ]
 ]
