@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-11-25, 17:35:02",
+      "https://news.ycombinator.com/item?id=38414958"
+    ],
+    [
+      "XPAK 400",
+      "https://kustomrama.com/wiki/XPAK_400"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 17:30:06",
+      "https://news.ycombinator.com/item?id=38414914"
+    ],
+    [
+      "Sqids – Generate Short Unique IDs from Numbers",
+      "https://sqids.org/"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 17:21:06",
       "https://news.ycombinator.com/item?id=38414841"
     ],
     [
       "New Wave Sci-Fi: 75 Best Novels of 1964–1983",
       "https://www.hilobrow.com/new-wave-sci-fi/"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 17:14:27",
+      "https://news.ycombinator.com/item?id=38414785"
+    ],
+    [
+      "Breezy Version Control System",
+      "https://www.breezy-vcs.org"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-11-24, 22:37:16",
-      "https://news.ycombinator.com/item?id=38409164"
-    ],
-    [
-      "Show HN: IP Guide – Info on IP addresses, Networks, and ASNs",
-      "https://ip.guide"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 22:07:38",
       "https://news.ycombinator.com/item?id=38408920"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2023-11-24, 22:02:40",
-      "https://news.ycombinator.com/item?id=38408873"
-    ],
-    [
-      "Botlib: C Telegram bot framework",
-      "https://github.com/antirez/botlib"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 21:04:05",
       "https://news.ycombinator.com/item?id=38408319"
     ],
     [
       "Cash Cows",
       "https://www.ageofinvention.xyz/p/age-of-invention-cash-cows"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 20:54:17",
-      "https://news.ycombinator.com/item?id=38408205"
-    ],
-    [
-      "Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game",
-      "https://www.perfectpitchpuzzle.com"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "Reality has a surprising amount of detail (2017)",
       "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 18:51:32",
+      "https://news.ycombinator.com/item?id=38406900"
+    ],
+    [
+      "Fabricable Eulerian Wires for 3D Shape Abstraction (2018) [pdf]",
+      "https://gruvi.cs.sfu.ca/_pages/project/eulerianwires/files/eulerian_wires.pdf"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Data Parallel Extensions for Python",
       "https://intelpython.github.io/DPEP/main/"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 08:37:29",
-      "https://news.ycombinator.com/item?id=38390714"
-    ],
-    [
-      "Show HN: React Spreadsheet 2",
-      "https://www.rowsncolumns.app/"
     ]
   ],
   [
