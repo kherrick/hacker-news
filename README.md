@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 * [2023-11-25, 13:56:29](https://news.ycombinator.com/item?id=38413530) - [Maverick Mars chopper has survived way past its warranty](https://www.theregister.com/2023/11/23/ingenuity_pushes_the_envelope/)
 * [2023-11-25, 12:39:39](https://news.ycombinator.com/item?id=38413134) - [Anti-tumor activity of all-trans retinoic acid in gastric-cancer](https://pubmed.ncbi.nlm.nih.gov/37951921/)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
@@ -12,9 +13,8 @@
 * [2023-11-25, 03:44:41](https://news.ycombinator.com/item?id=38411005) - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 * [2023-11-25, 03:42:42](https://news.ycombinator.com/item?id=38410987) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking (2021)](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
-* [2023-11-24, 22:37:16](https://news.ycombinator.com/item?id=38409164) - [Show HN: IP Guide – Info on IP addresses, Networks, and ASNs](https://ip.guide)
 * [2023-11-24, 22:07:38](https://news.ycombinator.com/item?id=38408920) - [Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
-* [2023-11-24, 22:02:40](https://news.ycombinator.com/item?id=38408873) - [Botlib: C Telegram bot framework](https://github.com/antirez/botlib)
+* [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:54:17](https://news.ycombinator.com/item?id=38408205) - [Show HN: Perfect Pitch Puzzle – a musical Wordle daily ear training game](https://www.perfectpitchpuzzle.com)
 * [2023-11-24, 19:09:54](https://news.ycombinator.com/item?id=38407106) - [The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
