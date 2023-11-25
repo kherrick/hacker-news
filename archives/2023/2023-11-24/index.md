@@ -81,6 +81,7 @@
 * [2023-11-24, 07:51:17](https://news.ycombinator.com/item?id=38401544) - [AI system self-organises to develop features of brains of complex organisms](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms)
 * [2023-11-24, 07:00:55](https://news.ycombinator.com/item?id=38401289) - [Odigos (YC W23) Is Hiring eBPF Engineer](https://www.ycombinator.com/companies/keyval/jobs/6pSjpry-ebpf-engineer)
 * [2023-11-24, 06:50:53](https://news.ycombinator.com/item?id=38401242) - [Flutter seems to be having bad times internally](https://twitter.com/timsneath/status/1727852099407622163)
+* [2023-11-24, 06:44:26](https://news.ycombinator.com/item?id=38401212) - [Rxinfer: Automatic Bayesian Inference Through Reactive Message Passing](https://biaslab.github.io/rxinfer-website/)
 * [2023-11-24, 06:24:43](https://news.ycombinator.com/item?id=38401125) - ['Sunspot archipelago' 15 times wider than Earth could soon bombard us](https://www.livescience.com/space/the-sun/enormous-sunspot-archipelago-15-times-wider-than-earth-could-soon-bombard-us-with-solar-flares)
 * [2023-11-24, 06:08:17](https://news.ycombinator.com/item?id=38401053) - [A historic Falcon 9 made a little more history Friday night (3 November 2023)](https://arstechnica.com/space/2023/11/a-historic-falcon-9-is-about-to-make-a-little-more-history-tonight/)
 * [2023-11-24, 05:41:37](https://news.ycombinator.com/item?id=38400929) - [Bosque Programming Language](https://www.microsoft.com/en-us/research/project/bosque-programming-language/)
