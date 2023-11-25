@@ -26,6 +26,7 @@
 * [2023-11-24, 20:14:54](https://news.ycombinator.com/item?id=38407744) - [Netflix spent $55M on sci-fi series that will almost certainly never be released](https://filmstories.co.uk/news/conquest-netflix-spent-55m-on-a-sci-fi-series-that-will-almost-certainly-never-be-released/)
 * [2023-11-24, 20:14:43](https://news.ycombinator.com/item?id=38407741) - [Yann LeCun: Ignore the deluge of complete nonsense about Q*](https://twitter.com/ylecun/status/1728126868342145481)
 * [2023-11-24, 19:52:23](https://news.ycombinator.com/item?id=38407521) - [Cicero](https://ai.meta.com/research/cicero/)
+* [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
 * [2023-11-24, 19:47:44](https://news.ycombinator.com/item?id=38407480) - [The Cannabis That People Are Using for Anxiety Is Probably Making It Worse](https://www.wsj.com/health/wellness/anxiety-medical-marijuana-treatment-4bfd2cc3)
 * [2023-11-24, 19:33:22](https://news.ycombinator.com/item?id=38407321) - [AI Doomers are worse than wrong – they're incompetent](https://www.infinitescroll.us/p/ai-doomers-are-worse-than-wrong-theyre)
 * [2023-11-24, 19:18:54](https://news.ycombinator.com/item?id=38407197) - [Fire TV now also displays full-screen video ads on its homescreen](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1700729070)

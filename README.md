@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 22:44:46](https://news.ycombinator.com/item?id=38417444) - [Ask HN: How can my mom downshift as a SQL developer?](https://news.ycombinator.com/item?id=38417444)
 * [2023-11-25, 22:40:12](https://news.ycombinator.com/item?id=38417415) - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
 * [2023-11-25, 22:26:32](https://news.ycombinator.com/item?id=38417326) - [Is the S&P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
-* [2023-11-25, 22:24:58](https://news.ycombinator.com/item?id=38417318) - [Ask HN: How to delete all Google photos so that I don't lose access to Gmail?](https://news.ycombinator.com/item?id=38417318)
 * [2023-11-25, 21:45:46](https://news.ycombinator.com/item?id=38416997) - [A chatbot that can't say anything controversial isn't worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
 * [2023-11-25, 21:45:41](https://news.ycombinator.com/item?id=38416994) - [Why You Shouldn't Invest in Vector Databases?](https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477)
 * [2023-11-25, 21:21:18](https://news.ycombinator.com/item?id=38416778) - [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
@@ -20,7 +20,6 @@
 * [2023-11-25, 13:10:58](https://news.ycombinator.com/item?id=38413263) - [Preparing for the end of third-party cookies](https://developer.chrome.com/blog/cookie-countdown-2023oct/)
 * [2023-11-25, 13:02:48](https://news.ycombinator.com/item?id=38413226) - [Need a PRNG? Use a CSPRNG](https://sortingsearching.com/2023/11/25/random.html)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
-* [2023-11-25, 11:05:12](https://news.ycombinator.com/item?id=38412756) - [Hlava Franze Kafky (Franz Kafka's Head)](https://www.atlasobscura.com/places/hlava-franze-kafky)
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
 * [2023-11-25, 05:14:51](https://news.ycombinator.com/item?id=38411394) - [Napoleon: Two Centuries of Life After Death](https://www.historytoday.com/archive/feature/napoleon-two-centuries-life-after-death)
@@ -29,6 +28,7 @@
 * [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:41:20](https://news.ycombinator.com/item?id=38408025) - [The Web Site to Remember National Semiconductor's Series 32000 Family](http://cpu-ns32k.net/Diephotos.html)
+* [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 
 ## [Archives](archives/index.md)

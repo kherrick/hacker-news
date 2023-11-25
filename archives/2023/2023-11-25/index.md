@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 22:44:46](https://news.ycombinator.com/item?id=38417444) - [Ask HN: How can my mom downshift as a SQL developer?](https://news.ycombinator.com/item?id=38417444)
 * [2023-11-25, 22:40:12](https://news.ycombinator.com/item?id=38417415) - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
 * [2023-11-25, 22:26:32](https://news.ycombinator.com/item?id=38417326) - [Is the S&P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
 * [2023-11-25, 22:24:58](https://news.ycombinator.com/item?id=38417318) - [Ask HN: How to delete all Google photos so that I don't lose access to Gmail?](https://news.ycombinator.com/item?id=38417318)
