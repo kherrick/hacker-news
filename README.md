@@ -6,7 +6,7 @@
 * [2023-11-25, 03:42:42](https://news.ycombinator.com/item?id=38410987) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-25, 01:11:47](https://news.ycombinator.com/item?id=38410160) - [Workarounds to Computer Access in Healthcare: Password or a Dead Patient? (2015)](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2023-11-24, 23:51:39](https://news.ycombinator.com/item?id=38409692) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
-* [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
+* [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking (2021)](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 * [2023-11-24, 22:42:43](https://news.ycombinator.com/item?id=38409191) - [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
 * [2023-11-24, 22:37:16](https://news.ycombinator.com/item?id=38409164) - [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 * [2023-11-24, 22:07:38](https://news.ycombinator.com/item?id=38408920) - [Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
