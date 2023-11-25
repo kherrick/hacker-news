@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-25, 04:11:37](https://news.ycombinator.com/item?id=38411105) - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
-* [2023-11-25, 04:07:42](https://news.ycombinator.com/item?id=38411089) - [Ask HN: Has your YouTube usage decreased?](https://news.ycombinator.com/item?id=38411089)
 * [2023-11-25, 03:37:25](https://news.ycombinator.com/item?id=38410966) - [Why does a random content farm control youtube.com/playlists?](https://lincoln.swaine-moore.is/writing-about/a-weird-redirect)
 * [2023-11-25, 01:47:44](https://news.ycombinator.com/item?id=38410371) - [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
+* [2023-11-24, 23:51:39](https://news.ycombinator.com/item?id=38409692) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 * [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 * [2023-11-24, 22:48:01](https://news.ycombinator.com/item?id=38409236) - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
 * [2023-11-24, 22:42:43](https://news.ycombinator.com/item?id=38409191) - [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
