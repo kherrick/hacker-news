@@ -29,6 +29,7 @@
 * [2023-11-24, 19:09:54](https://news.ycombinator.com/item?id=38407106) - [The Legend of Zelda: Twilight Princess Decompilation](https://github.com/zeldaret/tp)
 * [2023-11-24, 19:02:34](https://news.ycombinator.com/item?id=38407032) - [Q* Hypothesis: Enhancing Reasoning, Rewards, and Synthetic Data](https://www.interconnects.ai/p/q-star)
 * [2023-11-24, 18:57:12](https://news.ycombinator.com/item?id=38406979) - [Google admits cracking down on people using ad blockers](https://www.standard.co.uk/news/tech/google-admits-cracking-down-ad-blockers-b1122572.html)
+* [2023-11-24, 18:51:32](https://news.ycombinator.com/item?id=38406900) - [Fabricable Eulerian Wires for 3D Shape Abstraction (2018) [pdf]](https://gruvi.cs.sfu.ca/_pages/project/eulerianwires/files/eulerian_wires.pdf)
 * [2023-11-24, 18:48:19](https://news.ycombinator.com/item?id=38406868) - [Mice eating less of specific amino acid – live longer, healthier](https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/)
 * [2023-11-24, 18:28:15](https://news.ycombinator.com/item?id=38406710) - [Why Isn't Landfill Mining More Popular?](https://gizmodo.com/landfill-mining-metal-recovery-trash-recycling-ewaste-1850151569)
 * [2023-11-24, 18:27:50](https://news.ycombinator.com/item?id=38406708) - [Brain on Books](https://www.publicbooks.org/this-is-your-brain-on-books/)
