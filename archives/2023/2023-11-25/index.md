@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 22:40:12](https://news.ycombinator.com/item?id=38417415) - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
+* [2023-11-25, 22:26:32](https://news.ycombinator.com/item?id=38417326) - [Is the S&P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
+* [2023-11-25, 22:24:58](https://news.ycombinator.com/item?id=38417318) - [Ask HN: How to delete all Google photos so that I don't lose access to Gmail?](https://news.ycombinator.com/item?id=38417318)
 * [2023-11-25, 22:06:06](https://news.ycombinator.com/item?id=38417163) - [Audiobooks Are Books and They're Also Practice](https://map.simonsarris.com/p/audiobooks-are-books-and-theyre-also)
+* [2023-11-25, 21:45:46](https://news.ycombinator.com/item?id=38416997) - [A chatbot that can't say anything controversial isn't worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
+* [2023-11-25, 21:45:41](https://news.ycombinator.com/item?id=38416994) - [Why You Shouldn't Invest in Vector Databases?](https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477)
 * [2023-11-25, 21:21:18](https://news.ycombinator.com/item?id=38416778) - [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
 * [2023-11-25, 21:06:54](https://news.ycombinator.com/item?id=38416669) - [Conversational AI is a great tool for education](https://twitter.com/vishnuhx/status/1728520353897460018)
 * [2023-11-25, 21:06:34](https://news.ycombinator.com/item?id=38416667) - [To get more growth we need more kids](https://maximumprogress.substack.com/p/fertility-as-metascience)
