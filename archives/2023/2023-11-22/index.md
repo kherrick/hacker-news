@@ -16,6 +16,7 @@
 * [2023-11-22, 20:54:03](https://news.ycombinator.com/item?id=38384952) - [How do I become a graphics programmer? – A guide from AMD Game Engineering team](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/)
 * [2023-11-22, 20:53:57](https://news.ycombinator.com/item?id=38384950) - [McKinsey and its consulting industry peers face headwinds](https://www.bloomberg.com/news/features/2023-11-22/mckinsey-and-its-consulting-industry-peers-face-the-wildest-headwinds-in-years)
 * [2023-11-22, 20:43:33](https://news.ycombinator.com/item?id=38384828) - [Ask HN: Best Alternatives to OpenAI ChatGPT?](https://news.ycombinator.com/item?id=38384828)
+* [2023-11-22, 20:40:42](https://news.ycombinator.com/item?id=38384796) - [The Mummy!](https://en.wikipedia.org/wiki/The_Mummy!)
 * [2023-11-22, 20:21:02](https://news.ycombinator.com/item?id=38384587) - [Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://press.stripe.com/poor-charlies-almanack)
 * [2023-11-22, 20:16:00](https://news.ycombinator.com/item?id=38384528) - [Turns out, Meta's Threads is good for breaking news](https://www.businessinsider.com/sam-altman-fired-openai-test-meta-threads-breaking-news-2023-11)
 * [2023-11-22, 20:07:49](https://news.ycombinator.com/item?id=38384434) - [Western Digital Releases 24TB Ultrastar and Gold Hard Drives, 28TB SMR Ramping](https://www.anandtech.com/show/21146/western-digital-ships-24tb-hdds-ramps-28tb-hard-drives)

@@ -6,7 +6,6 @@
 * [2023-11-25, 03:42:42](https://news.ycombinator.com/item?id=38410987) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-25, 01:11:47](https://news.ycombinator.com/item?id=38410160) - [Workarounds to Computer Access in Healthcare: Password or a Dead Patient? (2015)](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2023-11-24, 23:51:39](https://news.ycombinator.com/item?id=38409692) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
-* [2023-11-24, 23:06:11](https://news.ycombinator.com/item?id=38409353) - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
 * [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 * [2023-11-24, 22:42:43](https://news.ycombinator.com/item?id=38409191) - [FastClick: A new architecture for programmable network infrastructure](https://github.com/tbarbette/fastclick)
 * [2023-11-24, 22:37:16](https://news.ycombinator.com/item?id=38409164) - [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
@@ -30,6 +29,7 @@
 * [2023-11-23, 21:42:52](https://news.ycombinator.com/item?id=38397905) - [What is it like to be a crab?](https://aeon.co/essays/are-we-ready-to-study-consciousness-in-crabs-and-the-like)
 * [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [Show HN: React Spreadsheet 2](https://www.rowsncolumns.app/)
 * [2023-11-23, 00:50:45](https://news.ycombinator.com/item?id=38387652) - [The $55M saga of a Netflix series nobody will ever see](https://www.nytimes.com/2023/11/22/business/carl-rinsch-netflix-conquest.html)
+* [2023-11-22, 20:40:42](https://news.ycombinator.com/item?id=38384796) - [The Mummy!](https://en.wikipedia.org/wiki/The_Mummy!)
 
 ## [Archives](archives/index.md)
 
