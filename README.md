@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-25, 12:59:34](https://news.ycombinator.com/item?id=38413212) - [Superficial toxicity is the enemy of curiosity-driven innovation in science](https://avi-loeb.medium.com/ashes-to-ashes-superficial-toxicity-is-the-enemy-of-curiosity-driven-innovation-in-science-9a2a4a85c564)
+* [2023-11-25, 14:07:10](https://news.ycombinator.com/item?id=38413600) - [X may lose up to $75M by year-end on advertiser exodus](https://www.reuters.com/technology/x-may-lose-up-75-mln-by-year-end-advertiser-exodus-nyt-2023-11-24/)
 * [2023-11-25, 12:39:39](https://news.ycombinator.com/item?id=38413134) - [Anti-tumor activity of all-trans retinoic acid in gastric-cancer](https://pubmed.ncbi.nlm.nih.gov/37951921/)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 * [2023-11-25, 12:00:29](https://news.ycombinator.com/item?id=38412976) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://news.ycombinator.com/item?id=38412976)
