@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 * [2023-11-25, 12:00:29](https://news.ycombinator.com/item?id=38412976) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
+* [2023-11-25, 12:00:29](https://news.ycombinator.com/item?id=38412976) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://news.ycombinator.com/item?id=38412976)
 * [2023-11-25, 11:41:43](https://news.ycombinator.com/item?id=38412886) - [Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 11:22:07](https://news.ycombinator.com/item?id=38412818) - [Developers are not happy with .NET MAUI, but nobody in the team cares about it](https://github.com/dotnet/maui/issues/19018)
 * [2023-11-25, 10:30:37](https://news.ycombinator.com/item?id=38412621) - [Stop using JSON Web Tokens for user sessions](https://ds-security.com/post/stop-using-jwts-for-sessions/)

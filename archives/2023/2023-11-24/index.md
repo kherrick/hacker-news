@@ -50,6 +50,7 @@
 * [2023-11-24, 15:20:32](https://news.ycombinator.com/item?id=38404835) - [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp)
 * [2023-11-24, 15:14:48](https://news.ycombinator.com/item?id=38404792) - [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
 * [2023-11-24, 14:54:51](https://news.ycombinator.com/item?id=38404569) - [MIT physicists turn pencil lead into \"gold\"](https://news.mit.edu/2023/mit-physicists-turn-pencil-lead-into-gold-1114)
+* [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:38:39](https://news.ycombinator.com/item?id=38404397) - [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
 * [2023-11-24, 14:25:38](https://news.ycombinator.com/item?id=38404261) - [Eleven strategies for making reproducible research the norm](https://elifesciences.org/articles/89736)
