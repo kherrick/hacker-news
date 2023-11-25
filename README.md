@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-25, 12:59:34](https://news.ycombinator.com/item?id=38413212) - [Superficial Toxicity Is the Enemy of Curiosity-Driven Innovation in Science](https://avi-loeb.medium.com/ashes-to-ashes-superficial-toxicity-is-the-enemy-of-curiosity-driven-innovation-in-science-9a2a4a85c564)
 * [2023-11-25, 12:39:39](https://news.ycombinator.com/item?id=38413134) - [Anti-tumor activity of all-trans retinoic acid in gastric-cancer](https://pubmed.ncbi.nlm.nih.gov/37951921/)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 * [2023-11-25, 12:00:29](https://news.ycombinator.com/item?id=38412976) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://news.ycombinator.com/item?id=38412976)
@@ -27,6 +26,7 @@
 * [2023-11-24, 07:52:13](https://news.ycombinator.com/item?id=38401550) - [Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)
 * [2023-11-24, 07:42:01](https://news.ycombinator.com/item?id=38401491) - [Nearly Cheating](https://leancrew.com/all-this/2023/11/nearly-cheating/)
 * [2023-11-24, 06:44:26](https://news.ycombinator.com/item?id=38401212) - [Rxinfer: Automatic Bayesian Inference Through Reactive Message Passing](https://biaslab.github.io/rxinfer-website/)
+* [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
 * [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [Show HN: React Spreadsheet 2](https://www.rowsncolumns.app/)
 * [2023-11-23, 00:50:45](https://news.ycombinator.com/item?id=38387652) - [The $55M saga of a Netflix series nobody will ever see](https://www.nytimes.com/2023/11/22/business/carl-rinsch-netflix-conquest.html)
 * [2023-11-22, 20:40:42](https://news.ycombinator.com/item?id=38384796) - [The Mummy](https://en.wikipedia.org/wiki/The_Mummy!)
