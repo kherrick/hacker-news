@@ -12,6 +12,7 @@
 * [2023-11-24, 22:37:16](https://news.ycombinator.com/item?id=38409164) - [Show HN: IP Guide – info on IP addresses, Networks, and ASNs](https://ip.guide)
 * [2023-11-24, 22:35:08](https://news.ycombinator.com/item?id=38409151) - [Asus Intros GeForce RTX 4060 Ti Video Card with Integrated M.2 SSD Slot](https://www.anandtech.com/show/21158/asus-intros-geforce-rtx-4060-ti-with-m2-ssd-slot)
 * [2023-11-24, 22:23:44](https://news.ycombinator.com/item?id=38409049) - [Kepler, Nvidia's Strong Start on 28 nm](https://chipsandcheese.com/2023/11/24/inside-kepler-nvidias-strong-start-on-28-nm/)
+* [2023-11-24, 22:22:03](https://news.ycombinator.com/item?id=38409033) - [Visual Q-Learning Demo in JavaScript from Karpathy (2013)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 * [2023-11-24, 22:07:38](https://news.ycombinator.com/item?id=38408920) - [Autonomous Excavator Constructs a Six-Metre-High Dry-Stone Wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
 * [2023-11-24, 22:02:40](https://news.ycombinator.com/item?id=38408873) - [Botlib: Telegram Bots in C by Antirez](https://github.com/antirez/botlib)
 * [2023-11-24, 21:26:36](https://news.ycombinator.com/item?id=38408555) - [You Won't Survive as Human Capital](https://www.palladiummag.com/2023/11/24/you-wont-survive-as-human-capital/)
