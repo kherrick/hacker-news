@@ -9,3 +9,4 @@
 * [2023-11-25, 01:47:44](https://news.ycombinator.com/item?id=38410371) - [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
 * [2023-11-25, 01:01:43](https://news.ycombinator.com/item?id=38410095) - [Git Discussion Bingo](https://wizardzines.com/comics/git-discussion-bingo/)
 * [2023-11-25, 00:25:16](https://news.ycombinator.com/item?id=38409903) - [Bandcamp support is faltering – maybe you should download your music now](https://linuximpact.com/bandcamp-support-is-faltering-download-your-music-now/)
+* [2023-11-25, 00:04:16](https://news.ycombinator.com/item?id=38409763) - [MicroLua brings the programming language Lua on the Nintendo DS](https://www.gamebrew.org/wiki/Micro_Lua_DS)
