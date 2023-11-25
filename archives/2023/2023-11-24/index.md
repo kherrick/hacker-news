@@ -64,6 +64,8 @@
 * [2023-11-24, 12:11:26](https://news.ycombinator.com/item?id=38403154) - [User read the manual, followed instructions, still couldn't make 'Excel' work](https://www.theregister.com/2023/11/24/on_call/)
 * [2023-11-24, 12:01:16](https://news.ycombinator.com/item?id=38403089) - [Langfuse (YC W23) is hiring a founding engineer to build LLM observability](https://www.workatastartup.com/jobs/62929)
 * [2023-11-24, 11:41:08](https://news.ycombinator.com/item?id=38402939) - [Population of England and Wales grows at fastest rate since 1962](https://www.thisislocallondon.co.uk/news/national/23943664.population-england-wales-grows-fastest-rate-since-1962/)
+* [2023-11-24, 11:31:43](https://news.ycombinator.com/item?id=38402879) - [My First PCB (2019)](https://lindzey.github.io/blog/2019/02/09/my-first-pcb/)
+* [2023-11-24, 11:16:25](https://news.ycombinator.com/item?id=38402776) - [Animotion – a visual CSS animation app](https://cssanimotion.pages.dev/)
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
 * [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
 * [2023-11-24, 10:23:23](https://news.ycombinator.com/item?id=38402384) - [Gprobe](https://zeromips.org/posts/2023-11-18-gprobe/)
