@@ -55,6 +55,7 @@
 * [2023-11-24, 14:25:38](https://news.ycombinator.com/item?id=38404261) - [Eleven strategies for making reproducible research the norm](https://elifesciences.org/articles/89736)
 * [2023-11-24, 14:13:39](https://news.ycombinator.com/item?id=38404131) - [Pokémon is no longer just a game – it's a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
 * [2023-11-24, 14:10:39](https://news.ycombinator.com/item?id=38404099) - [Now streaming: nuclear physics](https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/)
+* [2023-11-24, 14:02:40](https://news.ycombinator.com/item?id=38404030) - [Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
 * [2023-11-24, 14:00:41](https://news.ycombinator.com/item?id=38404016) - [Two Tier Architectures Are Anachronistic [video]](https://www.tele-task.de/lecture/video/10304/)
 * [2023-11-24, 13:46:21](https://news.ycombinator.com/item?id=38403891) - [Live Dashboard of Shopify for Black Friday](https://bfcm.shopify.com/)
 * [2023-11-24, 13:46:05](https://news.ycombinator.com/item?id=38403888) - [A curated list of AI assistants](https://github.com/awesome-assistants/awesome-assistants/blob/main/build/assistants.csv)
