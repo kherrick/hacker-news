@@ -49,6 +49,7 @@
 * [2023-11-24, 15:35:19](https://news.ycombinator.com/item?id=38404972) - [PhD student bioengineers potato plant to detect gamma radiation](https://phys.org/news/2023-11-phd-student-bioengineers-potato-gamma.html)
 * [2023-11-24, 15:29:23](https://news.ycombinator.com/item?id=38404925) - [Tesla turns on 10k-node Nvidia H100 Cluster](https://www.techradar.com/pro/nvidia-is-powering-a-mega-tesla-supercomputer-powered-by-10000-h100-gpus)
 * [2023-11-24, 15:28:07](https://news.ycombinator.com/item?id=38404913) - [Almost half of Californians speak a non-English language at home](https://www.axios.com/local/san-francisco/2023/09/07/california-foreign-language-speakers)
+* [2023-11-24, 15:27:52](https://news.ycombinator.com/item?id=38404910) - [Ain't Nobody Here but Us Chickens (2019)](https://www.scotwork.co.uk/insights/2019/ain-t-nobody-here-but-us-chickens/)
 * [2023-11-24, 15:20:32](https://news.ycombinator.com/item?id=38404835) - [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp)
 * [2023-11-24, 15:14:48](https://news.ycombinator.com/item?id=38404792) - [Disabling iOS Personalized Ads tells kernel to kill daemon every 3 seconds](https://twitter.com/whitetailani/status/1727576164284129654?s=20)
 * [2023-11-24, 14:54:51](https://news.ycombinator.com/item?id=38404569) - [MIT physicists turn pencil lead into \"gold\"](https://news.mit.edu/2023/mit-physicists-turn-pencil-lead-into-gold-1114)

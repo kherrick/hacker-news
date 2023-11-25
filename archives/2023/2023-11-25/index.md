@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 17:00:50](https://news.ycombinator.com/item?id=38414691) - [Mutable.ai (YC W22) Is Hiring AI Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs/YX9awHC-founding-ai-research-engineer)
 * [2023-11-25, 15:37:15](https://news.ycombinator.com/item?id=38414142) - [Mapped: The Migration of the Millionaires in 2023](https://www.visualcapitalist.com/mapped-the-migration-of-the-worlds-millionaires-in-2023/)
 * [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
+* [2023-11-25, 14:26:02](https://news.ycombinator.com/item?id=38413718) - [Availability and Use of F-35 Fighter Aircraft: An Update](https://www.cbo.gov/publication/58942)
 * [2023-11-25, 14:07:10](https://news.ycombinator.com/item?id=38413600) - [X may lose up to $75M by year-end on advertiser exodus](https://www.reuters.com/technology/x-may-lose-up-75-mln-by-year-end-advertiser-exodus-nyt-2023-11-24/)
 * [2023-11-25, 13:56:29](https://news.ycombinator.com/item?id=38413530) - [Maverick Mars chopper has survived way past its warranty](https://www.theregister.com/2023/11/23/ingenuity_pushes_the_envelope/)
 * [2023-11-25, 12:59:34](https://news.ycombinator.com/item?id=38413212) - [Superficial Toxicity Is the Enemy of Curiosity-Driven Innovation in Science](https://avi-loeb.medium.com/ashes-to-ashes-superficial-toxicity-is-the-enemy-of-curiosity-driven-innovation-in-science-9a2a4a85c564)
