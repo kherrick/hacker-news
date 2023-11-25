@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 18:22:09](https://news.ycombinator.com/item?id=38415309) - ['Zoom fatigue' may take toll on the brain and the heart](https://www.washingtonpost.com/health/2023/11/25/zoom-fatigue-brain-heart-effects/)
+* [2023-11-25, 18:10:44](https://news.ycombinator.com/item?id=38415219) - [AI Art Generators Can Be Fooled into Making NSFW Images](https://spectrum.ieee.org/dall-e)
 * [2023-11-25, 18:08:32](https://news.ycombinator.com/item?id=38415207) - [Korean Smartphones Have Mandatory Shutter Sounds, 8 in 10 Want It Muted](https://petapixel.com/2023/11/06/korean-smartphones-have-mandatory-shutter-sounds-8-in-10-want-it-muted/)
 * [2023-11-25, 17:35:02](https://news.ycombinator.com/item?id=38414958) - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
@@ -25,11 +27,9 @@
 * [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 * [2023-11-24, 14:02:40](https://news.ycombinator.com/item?id=38404030) - [Topo magazine uses comics to tell the news to French teens](https://www.niemanlab.org/2023/11/how-topo-magazine-uses-comics-to-tell-the-news-to-french-teens/)
 * [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making games in Go for absolute beginners](https://threedots.tech/post/making-games-in-go/)
-* [2023-11-24, 11:16:25](https://news.ycombinator.com/item?id=38402776) - [Animotion – a visual CSS animation app](https://cssanimotion.pages.dev/)
 * [2023-11-24, 07:52:13](https://news.ycombinator.com/item?id=38401550) - [Interesting features of John Harrison's sea clocks](https://incoherency.co.uk/blog/stories/harrison-clocks.html)
 * [2023-11-24, 07:42:01](https://news.ycombinator.com/item?id=38401491) - [Nearly Cheating](https://leancrew.com/all-this/2023/11/nearly-cheating/)
 * [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
-* [2023-11-22, 20:40:42](https://news.ycombinator.com/item?id=38384796) - [The Mummy](https://en.wikipedia.org/wiki/The_Mummy!)
 
 ## [Archives](archives/index.md)
 
