@@ -19,6 +19,7 @@
 * [2023-11-24, 16:50:15](https://news.ycombinator.com/item?id=38405823) - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 * [2023-11-24, 15:20:32](https://news.ycombinator.com/item?id=38404835) - [Elixir at Ramp](https://engineering.ramp.com/elixir-at-ramp)
 * [2023-11-24, 14:10:39](https://news.ycombinator.com/item?id=38404099) - [Now streaming: nuclear physics](https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/)
+* [2023-11-24, 12:04:30](https://news.ycombinator.com/item?id=38403111) - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 11:31:43](https://news.ycombinator.com/item?id=38402879) - [My First PCB (2019)](https://lindzey.github.io/blog/2019/02/09/my-first-pcb/)
 * [2023-11-24, 11:16:25](https://news.ycombinator.com/item?id=38402776) - [Animotion – a visual CSS animation app](https://cssanimotion.pages.dev/)
 * [2023-11-24, 06:44:26](https://news.ycombinator.com/item?id=38401212) - [Rxinfer: Automatic Bayesian Inference Through Reactive Message Passing](https://biaslab.github.io/rxinfer-website/)
@@ -27,7 +28,6 @@
 * [2023-11-23, 21:56:30](https://news.ycombinator.com/item?id=38398009) - [The Killing of a Berlin Power Broker](https://granta.com/the-killing-of-a-berlin-power-broker/)
 * [2023-11-23, 21:49:57](https://news.ycombinator.com/item?id=38397956) - [Paul Auster on cancer, connection and the fallacy of closure](https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure)
 * [2023-11-23, 21:42:52](https://news.ycombinator.com/item?id=38397905) - [What is it like to be a crab?](https://aeon.co/essays/are-we-ready-to-study-consciousness-in-crabs-and-the-like)
-* [2023-11-23, 21:22:20](https://news.ycombinator.com/item?id=38397715) - [Show HN: Lua Carousel, create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [Show HN: React Spreadsheet 2](https://www.rowsncolumns.app/)
 * [2023-11-23, 00:50:45](https://news.ycombinator.com/item?id=38387652) - [The $55M saga of a Netflix series nobody will ever see](https://www.nytimes.com/2023/11/22/business/carl-rinsch-netflix-conquest.html)
 
