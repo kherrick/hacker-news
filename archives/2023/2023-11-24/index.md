@@ -51,6 +51,7 @@
 * [2023-11-24, 14:54:51](https://news.ycombinator.com/item?id=38404569) - [MIT physicists turn pencil lead into \"gold\"](https://news.mit.edu/2023/mit-physicists-turn-pencil-lead-into-gold-1114)
 * [2023-11-24, 14:41:51](https://news.ycombinator.com/item?id=38404426) - [\"Useless Ruby sugar\": Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:38:39](https://news.ycombinator.com/item?id=38404397) - [Cats That Fetch Are an Evolutionary Mystery](https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/)
+* [2023-11-24, 14:25:38](https://news.ycombinator.com/item?id=38404261) - [Eleven strategies for making reproducible research the norm](https://elifesciences.org/articles/89736)
 * [2023-11-24, 14:13:39](https://news.ycombinator.com/item?id=38404131) - [Pokémon is no longer just a game – it's a lifestyle](https://www.theverge.com/23970890/pokemon-poketsume-transformation-games-brand)
 * [2023-11-24, 14:10:39](https://news.ycombinator.com/item?id=38404099) - [Now streaming: nuclear physics](https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/)
 * [2023-11-24, 14:00:41](https://news.ycombinator.com/item?id=38404016) - [Two Tier Architectures Are Anachronistic [video]](https://www.tele-task.de/lecture/video/10304/)
