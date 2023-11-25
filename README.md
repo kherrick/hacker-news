@@ -2,6 +2,7 @@
 
 * [2023-11-25, 01:56:45](https://news.ycombinator.com/item?id=38410423) - [Is there something similar to “distroless” images built with Nix?](https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957)
 * [2023-11-25, 01:47:44](https://news.ycombinator.com/item?id=38410371) - [Pythonicity: Composition vs. Inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
+* [2023-11-25, 01:01:43](https://news.ycombinator.com/item?id=38410095) - [Git Discussion Bingo](https://wizardzines.com/comics/git-discussion-bingo/)
 * [2023-11-24, 23:06:11](https://news.ycombinator.com/item?id=38409353) - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
 * [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 * [2023-11-24, 22:48:01](https://news.ycombinator.com/item?id=38409236) - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
@@ -25,7 +26,6 @@
 * [2023-11-24, 06:44:26](https://news.ycombinator.com/item?id=38401212) - [Rxinfer: Automatic Bayesian Inference Through Reactive Message Passing](https://biaslab.github.io/rxinfer-website/)
 * [2023-11-24, 04:40:43](https://news.ycombinator.com/item?id=38400685) - [Data Parallel Extensions for Python](https://intelpython.github.io/DPEP/main/)
 * [2023-11-24, 04:30:03](https://news.ycombinator.com/item?id=38400647) - [Some reasons to measure (2021)](https://danluu.com/why-benchmark/)
-* [2023-11-23, 21:56:30](https://news.ycombinator.com/item?id=38398009) - [The Killing of a Berlin Power Broker](https://granta.com/the-killing-of-a-berlin-power-broker/)
 * [2023-11-23, 21:49:57](https://news.ycombinator.com/item?id=38397956) - [Paul Auster on cancer, connection and the fallacy of closure](https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure)
 * [2023-11-23, 21:42:52](https://news.ycombinator.com/item?id=38397905) - [What is it like to be a crab?](https://aeon.co/essays/are-we-ready-to-study-consciousness-in-crabs-and-the-like)
 * [2023-11-23, 08:37:29](https://news.ycombinator.com/item?id=38390714) - [Show HN: React Spreadsheet 2](https://www.rowsncolumns.app/)
