@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 12:59:34](https://news.ycombinator.com/item?id=38413212) - [Superficial Toxicity Is the Enemy of Curiosity-Driven Innovation in Science](https://avi-loeb.medium.com/ashes-to-ashes-superficial-toxicity-is-the-enemy-of-curiosity-driven-innovation-in-science-9a2a4a85c564)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 * [2023-11-25, 12:00:29](https://news.ycombinator.com/item?id=38412976) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist)
 * [2023-11-25, 12:00:29](https://news.ycombinator.com/item?id=38412976) - [Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist](https://news.ycombinator.com/item?id=38412976)
