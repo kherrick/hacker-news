@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-25, 21:06:54](https://news.ycombinator.com/item?id=38416669) - [Conversational AI is a great tool for education](https://twitter.com/vishnuhx/status/1728520353897460018)
 * [2023-11-25, 21:06:34](https://news.ycombinator.com/item?id=38416667) - [To get more growth we need more kids](https://maximumprogress.substack.com/p/fertility-as-metascience)
 * [2023-11-25, 21:01:08](https://news.ycombinator.com/item?id=38416633) - [Meticulous (YC S21) Is Hiring to solve end-to-end testing](https://news.ycombinator.com/item?id=38416633)
 * [2023-11-25, 20:59:50](https://news.ycombinator.com/item?id=38416624) - [Three Year Cruise for Remote Workers Canceled](https://www.cnn.com/travel/article/three-year-cruise-canceled/index.html)
@@ -24,7 +25,6 @@
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
 * [2023-11-25, 05:14:51](https://news.ycombinator.com/item?id=38411394) - [Napoleon: Two Centuries of Life After Death](https://www.historytoday.com/archive/feature/napoleon-two-centuries-life-after-death)
 * [2023-11-25, 04:58:49](https://news.ycombinator.com/item?id=38411326) - [Your Brain on Books](https://www.publicbooks.org/this-is-your-brain-on-books/)
-* [2023-11-25, 03:44:41](https://news.ycombinator.com/item?id=38411005) - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 * [2023-11-24, 22:22:03](https://news.ycombinator.com/item?id=38409033) - [ConvNetJS Deep Q Learning Demo (2013)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 * [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
