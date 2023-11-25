@@ -2,7 +2,8 @@
 
 * [2023-11-25, 22:44:46](https://news.ycombinator.com/item?id=38417444) - [Ask HN: How can my mom downshift as a SQL developer?](https://news.ycombinator.com/item?id=38417444)
 * [2023-11-25, 22:40:12](https://news.ycombinator.com/item?id=38417415) - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
-* [2023-11-25, 22:26:32](https://news.ycombinator.com/item?id=38417326) - [Is the S&P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
+* [2023-11-25, 22:36:59](https://news.ycombinator.com/item?id=38417391) - [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
+* [2023-11-25, 22:15:47](https://news.ycombinator.com/item?id=38417247) - [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
 * [2023-11-25, 21:45:46](https://news.ycombinator.com/item?id=38416997) - [A chatbot that can't say anything controversial isn't worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
 * [2023-11-25, 21:45:41](https://news.ycombinator.com/item?id=38416994) - [Why You Shouldn't Invest in Vector Databases?](https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477)
 * [2023-11-25, 21:21:18](https://news.ycombinator.com/item?id=38416778) - [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
@@ -17,7 +18,6 @@
 * [2023-11-25, 17:14:27](https://news.ycombinator.com/item?id=38414785) - [Breezy Version Control System](https://www.breezy-vcs.org)
 * [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
-* [2023-11-25, 13:10:58](https://news.ycombinator.com/item?id=38413263) - [Preparing for the end of third-party cookies](https://developer.chrome.com/blog/cookie-countdown-2023oct/)
 * [2023-11-25, 13:02:48](https://news.ycombinator.com/item?id=38413226) - [Need a PRNG? Use a CSPRNG](https://sortingsearching.com/2023/11/25/random.html)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
