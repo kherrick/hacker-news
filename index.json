@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-25, 12:00:29",
+      "https://news.ycombinator.com/item?id=38412976"
+    ],
+    [
+      "Lago – Open-source Stripe Billing alternative – is hiring a Data Scientist",
+      "https://www.ycombinator.com/companies/lago/jobs/z7tQqkS-data-scientist"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 11:41:43",
+      "https://news.ycombinator.com/item?id=38412886"
+    ],
+    [
+      "Offpunk 2.0",
+      "https://ploum.net/2023-11-25-offpunk2.html"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 11:22:07",
       "https://news.ycombinator.com/item?id=38412818"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2023-11-25, 10:30:37",
-      "https://news.ycombinator.com/item?id=38412621"
+      "2023-11-25, 10:20:55",
+      "https://news.ycombinator.com/item?id=38412582"
     ],
     [
-      "Stop using JSON Web Tokens for user sessions",
-      "https://ds-security.com/post/stop-using-jwts-for-sessions/"
+      "Darktable: Crashing into the Wall in Slow-Motion",
+      "https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "PacketMill: Toward per-Core 100-Gbps networking (2021)",
       "https://dl.acm.org/doi/abs/10.1145/3445814.3446724"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 22:42:43",
-      "https://news.ycombinator.com/item?id=38409191"
-    ],
-    [
-      "FastClick: A new architecture for programmable network infrastructure",
-      "https://github.com/tbarbette/fastclick"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Paul Auster on cancer, connection and the fallacy of closure",
       "https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 21:42:52",
-      "https://news.ycombinator.com/item?id=38397905"
-    ],
-    [
-      "What is it like to be a crab?",
-      "https://aeon.co/essays/are-we-ready-to-study-consciousness-in-crabs-and-the-like"
     ]
   ],
   [
