@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-26, 14:32:25",
-      "https://news.ycombinator.com/item?id=38421851"
-    ],
-    [
-      "How An Apple Gadget Is Helping Drug Traffickers",
-      "https://www.smh.com.au/national/how-a-49-apple-gadget-is-helping-drug-traffickers-20231107-p5ei8m.html"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 14:11:13",
       "https://news.ycombinator.com/item?id=38421710"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2023-11-26, 09:49:54",
+      "https://news.ycombinator.com/item?id=38420434"
+    ],
+    [
+      "Visible Speech",
+      "https://github.com/Christoph-Lauer/Sonogram-Visible-Speech"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 08:36:23",
       "https://news.ycombinator.com/item?id=38420111"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-11-25, 22:10:09",
-      "https://news.ycombinator.com/item?id=38417195"
-    ],
-    [
-      "AnyTracker: Track any number on any website",
-      "https://anytracker.org/"
-    ]
-  ],
-  [
-    [
       "2023-11-25, 18:14:05",
       "https://news.ycombinator.com/item?id=38415252"
     ],
     [
       "The Dunning-Kruger effect is autocorrelation",
       "https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 17:30:06",
+      "https://news.ycombinator.com/item?id=38414914"
+    ],
+    [
+      "Sqids – Generate short unique IDs from numbers",
+      "https://sqids.org/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-11-25, 15:16:11",
-      "https://news.ycombinator.com/item?id=38414009"
+      "2023-11-24, 15:27:37",
+      "https://news.ycombinator.com/item?id=38404905"
     ],
     [
-      "Agricultural input shocks affect crop yields more in the high-yielding areas",
-      "https://www.nature.com/articles/s43016-023-00873-z"
+      "The Ambassador Pattern",
+      "https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador"
     ]
   ]
 ]
