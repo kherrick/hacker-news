@@ -39,6 +39,7 @@
 * [2023-11-25, 17:00:50](https://news.ycombinator.com/item?id=38414691) - [Mutable.ai (YC W22) Is Hiring AI Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs/YX9awHC-founding-ai-research-engineer)
 * [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Show HN: Play Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
 * [2023-11-25, 15:37:15](https://news.ycombinator.com/item?id=38414142) - [Mapped: The Migration of the Millionaires in 2023](https://www.visualcapitalist.com/mapped-the-migration-of-the-worlds-millionaires-in-2023/)
+* [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm by Matt Tytel](https://tytel.org/helm/)
 * [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
 * [2023-11-25, 15:09:20](https://news.ycombinator.com/item?id=38413970) - [Show HN: Personalized Meal Plans to Suit Your Lifestyle](https://assistant.tnx-solutions.ch/)
 * [2023-11-25, 14:28:11](https://news.ycombinator.com/item?id=38413727) - [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
