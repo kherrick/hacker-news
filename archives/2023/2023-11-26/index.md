@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 16:04:56](https://news.ycombinator.com/item?id=38422606) - [Updated a Complex Function Plotter that lets you sketch curves and see its image](https://tobylam.xyz/plotter/)
+* [2023-11-26, 15:46:40](https://news.ycombinator.com/item?id=38422437) - [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
 * [2023-11-26, 15:34:21](https://news.ycombinator.com/item?id=38422347) - [A ChatBot for Interacting with Hacker News](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fnewsnerdhackerbot.streamlit.app%2F)
+* [2023-11-26, 15:33:41](https://news.ycombinator.com/item?id=38422340) - [Falcon Down: Breaking Falcon Signature Scheme Through Side-Channel Attacks [pdf]](https://eprint.iacr.org/2021/772.pdf)
 * [2023-11-26, 15:22:30](https://news.ycombinator.com/item?id=38422268) - [Is there an updated list for verified good USB-C cables?](https://old.reddit.com/r/UsbCHardware/comments/vkfwug/is_there_an_updated_list_for_verified_good_usbc/)
 * [2023-11-26, 15:22:00](https://news.ycombinator.com/item?id=38422264) - [In-depth comparison of LLM frameworks](https://arxiv.org/abs/2311.12785)
+* [2023-11-26, 15:13:48](https://news.ycombinator.com/item?id=38422186) - [Linux being secure is a common misconception](https://madaidans-insecurities.github.io/linux.html)
 * [2023-11-26, 15:12:57](https://news.ycombinator.com/item?id=38422172) - [Sodium in Batteries: Shift May Herald Another Shakeup](https://www.bloomberg.com/news/articles/2023-11-26/sodium-in-ev-and-storage-batteries-may-herald-another-shakeup)
+* [2023-11-26, 15:08:21](https://news.ycombinator.com/item?id=38422125) - [Cyberattack on Kansas Courts Leaves Lawyers Filing 'Everything by Fax'](https://www.wsj.com/politics/national-security/cyberattack-on-kansas-courts-leaves-lawyers-filing-everything-by-fax-2664999f)
 * [2023-11-26, 14:34:44](https://news.ycombinator.com/item?id=38421871) - [It Will Never Be a Good Time to Buy a House](https://www.theatlantic.com/ideas/archive/2023/11/buying-house-market-shortage/676088/)
 * [2023-11-26, 14:33:19](https://news.ycombinator.com/item?id=38421862) - [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
 * [2023-11-26, 14:32:25](https://news.ycombinator.com/item?id=38421851) - [How An Apple Gadget Is Helping Drug Traffickers](https://www.smh.com.au/national/how-a-49-apple-gadget-is-helping-drug-traffickers-20231107-p5ei8m.html)
