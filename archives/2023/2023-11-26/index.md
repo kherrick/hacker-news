@@ -6,4 +6,5 @@
 
 * [2023-11-26, 00:57:38](https://news.ycombinator.com/item?id=38418282) - [Judge finds 'reasonable evidence' Tesla knew self-driving tech was defective](https://www.theguardian.com/technology/2023/nov/22/tesla-autopilot-defective-lawsuit-musk)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
+* [2023-11-26, 00:32:25](https://news.ycombinator.com/item?id=38418159) - [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
 * [2023-11-26, 00:01:58](https://news.ycombinator.com/item?id=38417982) - [Debian's MIPS64EL CPU Port Is at Risk Due to Declining Hardware Access](https://www.phoronix.com/news/Debian-MIPS64EL-Risk)

@@ -58,6 +58,7 @@
 * [2023-11-25, 10:30:37](https://news.ycombinator.com/item?id=38412621) - [Stop using JSON Web Tokens for user sessions](https://ds-security.com/post/stop-using-jwts-for-sessions/)
 * [2023-11-25, 10:20:55](https://news.ycombinator.com/item?id=38412582) - [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
 * [2023-11-25, 09:07:52](https://news.ycombinator.com/item?id=38412297) - [Numbers Far Afield](https://mathenchant.wordpress.com/2023/11/17/numbers-far-afield/)
+* [2023-11-25, 07:59:05](https://news.ycombinator.com/item?id=38412049) - [A peculiarity of the GNU Coreutils version of 'test' and '['](https://utcc.utoronto.ca/~cks/space/blog/linux/CoreutilsTestPeculiarity)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is saving Blogger from Google deletion](https://tracker.archiveteam.org/blogger/)
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is downloading and saving content from Blogger](https://wiki.archiveteam.org/index.php/Blogger)
