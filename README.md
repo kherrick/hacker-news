@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-26, 03:39:11](https://news.ycombinator.com/item?id=38418958) - [Tell HN: Firefox has madea lotof progress. Let the browser wars continue](https://news.ycombinator.com/item?id=38418958)
 * [2023-11-26, 01:14:03](https://news.ycombinator.com/item?id=38418359) - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 * [2023-11-26, 00:32:25](https://news.ycombinator.com/item?id=38418159) - [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
@@ -16,6 +15,7 @@
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - [New CRISPR systems hold promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
+* [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
 * [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
