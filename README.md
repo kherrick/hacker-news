@@ -8,7 +8,6 @@
 * [2023-11-26, 11:09:03](https://news.ycombinator.com/item?id=38420754) - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
 * [2023-11-26, 11:07:00](https://news.ycombinator.com/item?id=38420742) - [Formation °](https://formation.phobon.io/)
 * [2023-11-26, 11:06:42](https://news.ycombinator.com/item?id=38420740) - [mystery-o-matic.com random murder generator is open-source](https://github.com/mystery-o-matic/mystery-o-matic.github.io)
-* [2023-11-26, 11:03:44](https://news.ycombinator.com/item?id=38420728) - [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
 * [2023-11-26, 10:38:41](https://news.ycombinator.com/item?id=38420624) - [Write Guix package definitions in a breeze: Introducing Guix Packager](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
 * [2023-11-26, 10:22:12](https://news.ycombinator.com/item?id=38420555) - [RFC9460: Service Binding via the DNS (SVCB and HTTPS Resource Records)](https://www.rfc-editor.org/rfc/rfc9460)
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
@@ -17,6 +16,7 @@
 * [2023-11-26, 09:19:28](https://news.ycombinator.com/item?id=38420282) - [Sound Keeper](https://veg.by/en/projects/soundkeeper/)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
+* [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
@@ -25,11 +25,11 @@
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 * [2023-11-26, 00:32:25](https://news.ycombinator.com/item?id=38418159) - [Raiders of the Lost Ark Story Conference (1978)](https://nloewen.com/docs/lucas-spielberg-kasdan--raiders-of-the-lost-ark-story-conference/)
 * [2023-11-25, 22:10:09](https://news.ycombinator.com/item?id=38417195) - [AnyTracker: Track any number on any website](https://anytracker.org/)
-* [2023-11-25, 21:21:18](https://news.ycombinator.com/item?id=38416778) - [Ancient Echoes](https://www.etymonline.com/columns/post/ancient-echoes)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate short unique IDs from numbers](https://sqids.org/)
 * [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
 * [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
+* [2023-11-24, 15:27:37](https://news.ycombinator.com/item?id=38404905) - [The Ambassador Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
 ## [Archives](archives/index.md)
 
