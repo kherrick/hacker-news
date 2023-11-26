@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-26, 00:57:38",
-      "https://news.ycombinator.com/item?id=38418282"
-    ],
-    [
-      "Judge finds 'reasonable evidence' Tesla knew self-driving tech was defective",
-      "https://www.theguardian.com/technology/2023/nov/22/tesla-autopilot-defective-lawsuit-musk"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 00:53:51",
       "https://news.ycombinator.com/item?id=38418262"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-11-25, 17:14:27",
+      "https://news.ycombinator.com/item?id=38414785"
+    ],
+    [
+      "Breezy Version Control System",
+      "https://www.breezy-vcs.org"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 16:32:20",
       "https://news.ycombinator.com/item?id=38414513"
     ],
@@ -157,6 +157,16 @@
     [
       "Show HN: I saw this mind-blowing experiment, so I made a simple version of it",
       "https://github.com/Momciloo/fun-with-sockets"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 13:10:58",
+      "https://news.ycombinator.com/item?id=38413263"
+    ],
+    [
+      "Preparing for the end of third-party cookies",
+      "https://developer.chrome.com/blog/cookie-countdown-2023oct/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "MonadGPT – What would have happened if ChatGPT was invented in the 17th century?",
       "https://huggingface.co/Pclanglais/MonadGPT?text"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 14:45:26",
-      "https://news.ycombinator.com/item?id=38404463"
-    ],
-    [
-      "The bash book to rule them all",
-      "https://fabiensanglard.net/bash/"
     ]
   ]
 ]
