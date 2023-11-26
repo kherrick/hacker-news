@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-11-26, 20:23:40",
+      "https://news.ycombinator.com/item?id=38424657"
+    ],
+    [
+      "PCSX2 Disables Wayland Support",
+      "https://github.com/PCSX2/pcsx2/pull/10179"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 20:21:51",
       "https://news.ycombinator.com/item?id=38424633"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38423908"
     ],
     [
-      "Fish – Update on the Rust Port",
+      "Fish – Update on the Rust port",
       "https://github.com/fish-shell/fish-shell/discussions/10123"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Unix Shells and the Current Directory",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 06:43:16",
-      "https://news.ycombinator.com/item?id=38419673"
-    ],
-    [
-      "Rockwell Retro Encabulator [video]",
-      "https://www.youtube.com/watch?v=RXJKdh1KZ0w"
     ]
   ]
 ]
