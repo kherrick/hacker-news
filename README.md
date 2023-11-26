@@ -24,12 +24,12 @@
 * [2023-11-25, 07:59:05](https://news.ycombinator.com/item?id=38412049) - [A peculiarity of the GNU Coreutils version of 'test' and '['](https://utcc.utoronto.ca/~cks/space/blog/linux/CoreutilsTestPeculiarity)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
 * [2023-11-25, 04:58:49](https://news.ycombinator.com/item?id=38411326) - [Your Brain on Books](https://www.publicbooks.org/this-is-your-brain-on-books/)
-* [2023-11-24, 22:45:05](https://news.ycombinator.com/item?id=38409206) - [Libraries and Security](https://metrics.blogg.gu.se/?p=855)
 * [2023-11-24, 22:22:03](https://news.ycombinator.com/item?id=38409033) - [ConvNetJS Deep Q Learning Demo (2013)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 * [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:41:20](https://news.ycombinator.com/item?id=38408025) - [The Web Site to Remember National Semiconductor's Series 32000 Family](http://cpu-ns32k.net/Diephotos.html)
 * [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
+* [2023-11-24, 15:27:37](https://news.ycombinator.com/item?id=38404905) - [The Ambassador Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
 ## [Archives](archives/index.md)
 
