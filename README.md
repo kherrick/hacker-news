@@ -2,6 +2,7 @@
 
 * [2023-11-26, 17:15:44](https://news.ycombinator.com/item?id=38423198) - [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
 * [2023-11-26, 17:00:47](https://news.ycombinator.com/item?id=38423081) - [Supabase (YC S20) Is Hiring SREs and Platform Eng. (Remote)](https://boards.greenhouse.io/supabase/jobs/5013075004)
+* [2023-11-26, 16:52:15](https://news.ycombinator.com/item?id=38423013) - [Due to budget having run out, Manyland will unfortunately shut down](https://manyland.com/info)
 * [2023-11-26, 16:26:57](https://news.ycombinator.com/item?id=38422807) - [Reasonable GPUs](https://news.ycombinator.com/item?id=38422807)
 * [2023-11-26, 16:04:56](https://news.ycombinator.com/item?id=38422606) - [Complex and R^2 Graph Plotter](https://tobylam.xyz/plotter/)
 * [2023-11-26, 15:46:40](https://news.ycombinator.com/item?id=38422437) - [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
@@ -28,7 +29,6 @@
 * [2023-11-26, 06:43:16](https://news.ycombinator.com/item?id=38419673) - [Rockwell Retro Encabulator [video]](https://www.youtube.com/watch?v=RXJKdh1KZ0w)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
-* [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 * [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
 
 ## [Archives](archives/index.md)
