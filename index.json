@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-26, 20:27:06",
+      "https://news.ycombinator.com/item?id=38424689"
+    ],
+    [
+      "Bjarne Stroustrup Quotes",
+      "https://www.stroustrup.com/quotes.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 20:21:51",
+      "https://news.ycombinator.com/item?id=38424633"
+    ],
+    [
+      "Ripgrep 14 Released",
+      "https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 19:53:59",
       "https://news.ycombinator.com/item?id=38424412"
     ],
@@ -17,16 +37,6 @@
     [
       "HP says I should have known its £399 laptop bargain was too good to be true",
       "https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 19:04:03",
-      "https://news.ycombinator.com/item?id=38424009"
-    ],
-    [
-      "Does GPT-4 Pass the Turing Test?",
-      "https://arxiv.org/abs/2310.20216"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38423844"
     ],
     [
-      "Titled Tuesday [Chess] Cheating",
+      "Titled Tuesday Cheating",
       "https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/"
     ]
   ],
@@ -87,6 +97,16 @@
     [
       "The Collected Stories of Vernor Vinge",
       "https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 17:12:49",
+      "https://news.ycombinator.com/item?id=38423167"
+    ],
+    [
+      "Ask HN: What was the outcome of Reddit blackout?",
+      "https://news.ycombinator.com/item?id=38423167"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=38421862"
     ],
     [
-      "Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit",
+      "Whisky: Wine supercharged with the power of Apple's game porting toolkit",
       "https://getwhisky.app"
     ]
   ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-11-26, 11:09:03",
-      "https://news.ycombinator.com/item?id=38420754"
-    ],
-    [
-      "The most powerful cosmic ray since the Oh-My-God particle puzzles scientists",
-      "https://www.nature.com/articles/d41586-023-03677-0"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 11:06:42",
       "https://news.ycombinator.com/item?id=38420740"
     ],
     [
       "Mystery-o-matic.com random murder generator is open-source",
       "https://github.com/mystery-o-matic/mystery-o-matic.github.io"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 10:38:41",
-      "https://news.ycombinator.com/item?id=38420624"
-    ],
-    [
-      "Write Guix package definitions in a breeze: Introducing Guix Packager",
-      "https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/"
     ]
   ],
   [
