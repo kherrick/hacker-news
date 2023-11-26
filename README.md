@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-26, 19:04:03](https://news.ycombinator.com/item?id=38424009) - [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
 * [2023-11-26, 18:48:54](https://news.ycombinator.com/item?id=38423908) - [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
 * [2023-11-26, 18:43:34](https://news.ycombinator.com/item?id=38423860) - [PipeWire 1.0.0](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0)
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:34:00](https://news.ycombinator.com/item?id=38423781) - [San Francisco Streets with Andrew Callaghan [video]](https://www.youtube.com/watch?v=URfCwT3UQy4)
-* [2023-11-26, 18:25:25](https://news.ycombinator.com/item?id=38423709) - [Wallace and Gromit studio Aardman Animations running out of clay](https://www.theguardian.com/film/2023/nov/20/wallace-and-gromit-studio-aardman-animations-running-out-of-clay)
 * [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2023-11-26, 17:21:07](https://news.ycombinator.com/item?id=38423237) - [Escaping Duopoly: Best 5 Linux Smartphones Without Performance Security Excuses](https://nixsanctuary.com/escaping-the-duopoly-top-best-5-linux-smartphones-without-performance-and-security-excuses/)
 * [2023-11-26, 17:15:44](https://news.ycombinator.com/item?id=38423198) - [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
@@ -18,6 +18,7 @@
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [The key to mother and child well-being may be many caregivers](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
 * [2023-11-26, 11:09:03](https://news.ycombinator.com/item?id=38420754) - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
+* [2023-11-26, 11:07:00](https://news.ycombinator.com/item?id=38420742) - [Formation °](https://formation.phobon.io/)
 * [2023-11-26, 11:06:42](https://news.ycombinator.com/item?id=38420740) - [Mystery-o-matic.com random murder generator is open-source](https://github.com/mystery-o-matic/mystery-o-matic.github.io)
 * [2023-11-26, 10:38:41](https://news.ycombinator.com/item?id=38420624) - [Write Guix package definitions in a breeze: Introducing Guix Packager](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
 * [2023-11-26, 10:22:12](https://news.ycombinator.com/item?id=38420555) - [RFC9460: Service Binding via the DNS (SVCB and HTTPS Resource Records)](https://www.rfc-editor.org/rfc/rfc9460)
@@ -29,7 +30,6 @@
 * [2023-11-26, 06:43:16](https://news.ycombinator.com/item?id=38419673) - [Rockwell Retro Encabulator [video]](https://www.youtube.com/watch?v=RXJKdh1KZ0w)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
-* [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
 
 ## [Archives](archives/index.md)
 

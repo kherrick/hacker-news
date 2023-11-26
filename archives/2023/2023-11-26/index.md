@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 19:04:03](https://news.ycombinator.com/item?id=38424009) - [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
 * [2023-11-26, 18:48:54](https://news.ycombinator.com/item?id=38423908) - [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
 * [2023-11-26, 18:43:34](https://news.ycombinator.com/item?id=38423860) - [PipeWire 1.0.0](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0)
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
