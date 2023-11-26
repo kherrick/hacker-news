@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 21:00:23](https://news.ycombinator.com/item?id=38424986) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
+* [2023-11-26, 20:54:29](https://news.ycombinator.com/item?id=38424939) - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * [2023-11-26, 20:27:06](https://news.ycombinator.com/item?id=38424689) - [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
 * [2023-11-26, 20:21:51](https://news.ycombinator.com/item?id=38424633) - [Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
 * [2023-11-26, 19:53:59](https://news.ycombinator.com/item?id=38424412) - [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
