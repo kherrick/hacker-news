@@ -2,7 +2,6 @@
 
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
 * [2023-11-26, 04:48:59](https://news.ycombinator.com/item?id=38419248) - [At Meta, Underage Users Were an 'Open Secret,' States Say](https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html)
-* [2023-11-26, 04:24:21](https://news.ycombinator.com/item?id=38419148) - [Selfhosted Email by Maddy on Oracle Cloud](https://taoshu.in/net/selfhost-email.html)
 * [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 * [2023-11-26, 01:14:03](https://news.ycombinator.com/item?id=38418359) - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
@@ -19,6 +18,7 @@
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - [New CRISPR systems hold promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 18:10:44](https://news.ycombinator.com/item?id=38415219) - [AI Art Generators Can Be Fooled into Making NSFW Images](https://spectrum.ieee.org/dall-e)
+* [2023-11-25, 17:35:02](https://news.ycombinator.com/item?id=38414958) - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate short unique IDs from numbers](https://sqids.org/)
 * [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
 * [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
