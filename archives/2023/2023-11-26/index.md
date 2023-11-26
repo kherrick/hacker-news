@@ -7,6 +7,7 @@
 * [2023-11-26, 11:03:44](https://news.ycombinator.com/item?id=38420728) - [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
 * [2023-11-26, 10:25:16](https://news.ycombinator.com/item?id=38420564) - [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
+* [2023-11-26, 10:14:57](https://news.ycombinator.com/item?id=38420531) - [Making it clear when we're on a call with you to protect you from fraud](https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you/)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 05:35:58](https://news.ycombinator.com/item?id=38419421) - [Doxycycline, Azithromycin and Vitamin C (DAV): eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
