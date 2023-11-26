@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-26, 11:03:44](https://news.ycombinator.com/item?id=38420728) - [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
 * [2023-11-26, 10:25:16](https://news.ycombinator.com/item?id=38420564) - [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
-* [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 * [2023-11-26, 01:33:17](https://news.ycombinator.com/item?id=38418467) - [After Eating, Software Will Bite the World](https://www.overcomingbias.com/p/after-eating-software-will-bite-the)
 * [2023-11-26, 01:28:57](https://news.ycombinator.com/item?id=38418449) - [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)

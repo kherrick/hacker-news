@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 11:03:44](https://news.ycombinator.com/item?id=38420728) - [Can a Passenger Hack an Airplane?](https://blog.1password.com/can-you-hack-plane-ken-munro-interview/)
 * [2023-11-26, 10:25:16](https://news.ycombinator.com/item?id=38420564) - [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
