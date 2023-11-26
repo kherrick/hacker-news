@@ -14,6 +14,7 @@
 * [2023-11-26, 15:13:48](https://news.ycombinator.com/item?id=38422186) - [Linux being secure is a common misconception](https://madaidans-insecurities.github.io/linux.html)
 * [2023-11-26, 15:12:57](https://news.ycombinator.com/item?id=38422172) - [Sodium in Batteries: Shift May Herald Another Shakeup](https://www.bloomberg.com/news/articles/2023-11-26/sodium-in-ev-and-storage-batteries-may-herald-another-shakeup)
 * [2023-11-26, 15:08:21](https://news.ycombinator.com/item?id=38422125) - [Cyberattack on Kansas Courts Leaves Lawyers Filing 'Everything by Fax'](https://www.wsj.com/politics/national-security/cyberattack-on-kansas-courts-leaves-lawyers-filing-everything-by-fax-2664999f)
+* [2023-11-26, 15:02:31](https://news.ycombinator.com/item?id=38422070) - [Worst Data Engineering Mistake you've seen?](https://old.reddit.com/r/dataengineering/comments/16vhp70/worst_data_engineering_mistake_youve_seen/)
 * [2023-11-26, 14:34:44](https://news.ycombinator.com/item?id=38421871) - [It Will Never Be a Good Time to Buy a House](https://www.theatlantic.com/ideas/archive/2023/11/buying-house-market-shortage/676088/)
 * [2023-11-26, 14:33:19](https://news.ycombinator.com/item?id=38421862) - [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
 * [2023-11-26, 14:32:25](https://news.ycombinator.com/item?id=38421851) - [How An Apple Gadget Is Helping Drug Traffickers](https://www.smh.com.au/national/how-a-49-apple-gadget-is-helping-drug-traffickers-20231107-p5ei8m.html)
