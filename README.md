@@ -4,10 +4,11 @@
 * [2023-11-26, 21:00:23](https://news.ycombinator.com/item?id=38424986) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-11-26, 20:54:29](https://news.ycombinator.com/item?id=38424939) - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * [2023-11-26, 20:27:06](https://news.ycombinator.com/item?id=38424689) - [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
+* [2023-11-26, 20:23:40](https://news.ycombinator.com/item?id=38424657) - [PCSX2 Disables Wayland Support](https://github.com/PCSX2/pcsx2/pull/10179)
 * [2023-11-26, 20:21:51](https://news.ycombinator.com/item?id=38424633) - [Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
 * [2023-11-26, 19:53:59](https://news.ycombinator.com/item?id=38424412) - [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
 * [2023-11-26, 19:10:32](https://news.ycombinator.com/item?id=38424061) - [Noninvasive theta-burst stimulation enhances skill learning](https://www.nature.com/articles/s41593-023-01457-7)
-* [2023-11-26, 18:48:54](https://news.ycombinator.com/item?id=38423908) - [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
+* [2023-11-26, 18:48:54](https://news.ycombinator.com/item?id=38423908) - [Fish – Update on the Rust port](https://github.com/fish-shell/fish-shell/discussions/10123)
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:13:55](https://news.ycombinator.com/item?id=38423623) - [Oracle of Zotero: LLM QA of Your Research Library](https://github.com/Frost-group/The-Oracle-of-Zotero)
 * [2023-11-26, 18:08:48](https://news.ycombinator.com/item?id=38423581) - [Office Life in the 1980's (Vintage Photos) (2019)](https://weare.guru/office-life-in-the-1980s-vintage-photos/)
@@ -29,7 +30,6 @@
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 07:41:57](https://news.ycombinator.com/item?id=38419914) - [Unix Shells and the Current Directory](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory)
-* [2023-11-26, 06:43:16](https://news.ycombinator.com/item?id=38419673) - [Rockwell Retro Encabulator [video]](https://www.youtube.com/watch?v=RXJKdh1KZ0w)
 
 ## [Archives](archives/index.md)
 
