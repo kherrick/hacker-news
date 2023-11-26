@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
+* [2023-11-26, 04:24:21](https://news.ycombinator.com/item?id=38419148) - [Selfhosted Email by Maddy on Oracle Cloud](https://taoshu.in/net/selfhost-email.html)
 * [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 * [2023-11-26, 03:39:11](https://news.ycombinator.com/item?id=38418958) - [Tell HN: Firefox has madea lotof progress. Let the browser wars continue](https://news.ycombinator.com/item?id=38418958)
 * [2023-11-26, 01:14:03](https://news.ycombinator.com/item?id=38418359) - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
