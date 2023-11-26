@@ -45,6 +45,7 @@
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a Font](https://kokorobot.ca/site/making_a_font.html)
+* [2023-11-26, 12:48:24](https://news.ycombinator.com/item?id=38421216) - [Will anybody save Linux on Itanium?](https://www.theregister.com/2023/11/21/saving_linux_on_itanium/)
 * [2023-11-26, 12:37:59](https://news.ycombinator.com/item?id=38421157) - [Spanish agency created AI influencer and she's raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 12:12:43](https://news.ycombinator.com/item?id=38421027) - [Single alerts API for all monitoring tools](https://www.keephq.dev/post/unifying-alerts-from-various-sources)
