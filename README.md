@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-26, 00:57:38](https://news.ycombinator.com/item?id=38418282) - [Judge finds 'reasonable evidence' Tesla knew self-driving tech was defective](https://www.theguardian.com/technology/2023/nov/22/tesla-autopilot-defective-lawsuit-musk)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 * [2023-11-26, 00:01:58](https://news.ycombinator.com/item?id=38417982) - [Debian's MIPS64EL CPU Port Is at Risk Due to Declining Hardware Access](https://www.phoronix.com/news/Debian-MIPS64EL-Risk)
 * [2023-11-25, 22:40:12](https://news.ycombinator.com/item?id=38417415) - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
@@ -14,8 +13,10 @@
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 17:35:02](https://news.ycombinator.com/item?id=38414958) - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
+* [2023-11-25, 17:14:27](https://news.ycombinator.com/item?id=38414785) - [Breezy Version Control System](https://www.breezy-vcs.org)
 * [2023-11-25, 16:32:20](https://news.ycombinator.com/item?id=38414513) - [Sopwith – a classic bi-plane shoot 'em up from 1984 in the browser](https://midzer.de/wasm/sdl-sopwith/)
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
+* [2023-11-25, 13:10:58](https://news.ycombinator.com/item?id=38413263) - [Preparing for the end of third-party cookies](https://developer.chrome.com/blog/cookie-countdown-2023oct/)
 * [2023-11-25, 13:02:48](https://news.ycombinator.com/item?id=38413226) - [Need a PRNG? Use a CSPRNG](https://sortingsearching.com/2023/11/25/random.html)
 * [2023-11-25, 12:22:16](https://news.ycombinator.com/item?id=38413064) - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
@@ -29,7 +30,6 @@
 * [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:41:20](https://news.ycombinator.com/item?id=38408025) - [The Web Site to Remember National Semiconductor's Series 32000 Family](http://cpu-ns32k.net/Diephotos.html)
 * [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
-* [2023-11-24, 14:45:26](https://news.ycombinator.com/item?id=38404463) - [The bash book to rule them all](https://fabiensanglard.net/bash/)
 
 ## [Archives](archives/index.md)
 
