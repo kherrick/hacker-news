@@ -25,6 +25,7 @@
 * [2023-11-25, 20:37:42](https://news.ycombinator.com/item?id=38416483) - [Sarah Silverman Hits Stumbling Block in AI Copyright Infringement Lawsuit](https://www.hollywoodreporter.com/business/business-news/sarah-silverman-lawsuit-ai-meta-1235669403/)
 * [2023-11-25, 20:07:35](https://news.ycombinator.com/item?id=38416246) - [Dolphin Emulator Progress Report: August, September, and October 2023](https://dolphin-emu.org/blog/2023/11/25/dolphin-progress-report-august-september-and-october-2023/)
 * [2023-11-25, 19:57:38](https://news.ycombinator.com/item?id=38416161) - [It's time for a new old language (2017) [pdf]](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf)
+* [2023-11-25, 19:32:48](https://news.ycombinator.com/item?id=38415937) - [Mercury vs. Salt [video]](https://www.youtube.com/watch?v=tA9tqvfWQ7I)
 * [2023-11-25, 19:25:56](https://news.ycombinator.com/item?id=38415875) - [Nvidia sued for stealing trade secrets: blunder showed rival company's code](https://www.engadget.com/nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-rival-companys-code-063009605.html)
 * [2023-11-25, 19:23:22](https://news.ycombinator.com/item?id=38415851) - ['Treasure trove' of new CRISPR systems holds promise for genome editing](https://www.nature.com/articles/d41586-023-03697-w)
 * [2023-11-25, 19:21:24](https://news.ycombinator.com/item?id=38415830) - [Ask HN: Article on software only increasing complexity?](https://news.ycombinator.com/item?id=38415830)
