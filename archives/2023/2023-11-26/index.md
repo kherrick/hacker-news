@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 05:35:58](https://news.ycombinator.com/item?id=38419421) - [Doxycycline, Azithromycin and Vitamin C (DAV): eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
 * [2023-11-26, 04:48:59](https://news.ycombinator.com/item?id=38419248) - [At Meta, Underage Users Were an 'Open Secret,' States Say](https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html)
 * [2023-11-26, 04:24:21](https://news.ycombinator.com/item?id=38419148) - [Selfhosted Email by Maddy on Oracle Cloud](https://taoshu.in/net/selfhost-email.html)
