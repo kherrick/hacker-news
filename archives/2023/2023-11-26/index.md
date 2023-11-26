@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 22:57:02](https://news.ycombinator.com/item?id=38425966) - [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
 * [2023-11-26, 22:32:00](https://news.ycombinator.com/item?id=38425724) - [Climbing 50 steps a day can cut your risk of heart disease by 20%](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says)
 * [2023-11-26, 21:58:48](https://news.ycombinator.com/item?id=38425431) - [Ask HN: How to Deal with AI Anxiety?](https://news.ycombinator.com/item?id=38425431)
 * [2023-11-26, 21:39:18](https://news.ycombinator.com/item?id=38425251) - [Stephen Fry reads Nick Cave's stirring letter about ChatGPT and human creativity [video]](https://www.youtube.com/watch?v=iGJcF4bLKd4)

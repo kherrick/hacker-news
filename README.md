@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-26, 22:57:02](https://news.ycombinator.com/item?id=38425966) - [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
 * [2023-11-26, 22:32:00](https://news.ycombinator.com/item?id=38425724) - [Climbing 50 steps a day can cut your risk of heart disease by 20%](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says)
 * [2023-11-26, 21:39:18](https://news.ycombinator.com/item?id=38425251) - [Stephen Fry reads Nick Cave's stirring letter about ChatGPT and human creativity [video]](https://www.youtube.com/watch?v=iGJcF4bLKd4)
 * [2023-11-26, 21:19:24](https://news.ycombinator.com/item?id=38425114) - [Yann LeCun on why AI must be open source [video]](https://www.youtube.com/watch?v=EGDG3hgPNp8)
@@ -17,7 +18,6 @@
 * [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2023-11-26, 17:12:49](https://news.ycombinator.com/item?id=38423167) - [Ask HN: What was the outcome of Reddit blackout?](https://news.ycombinator.com/item?id=38423167)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
-* [2023-11-26, 15:33:41](https://news.ycombinator.com/item?id=38422340) - [Falcon Down: Breaking Falcon Signature Scheme Through Side-Channel Attacks [pdf]](https://eprint.iacr.org/2021/772.pdf)
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
