@@ -2,7 +2,6 @@
 
 * [2023-11-26, 14:34:44](https://news.ycombinator.com/item?id=38421871) - [It Will Never Be a Good Time to Buy a House](https://www.theatlantic.com/ideas/archive/2023/11/buying-house-market-shortage/676088/)
 * [2023-11-26, 14:33:19](https://news.ycombinator.com/item?id=38421862) - [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
-* [2023-11-26, 14:32:25](https://news.ycombinator.com/item?id=38421851) - [How An Apple Gadget Is Helping Drug Traffickers](https://www.smh.com.au/national/how-a-49-apple-gadget-is-helping-drug-traffickers-20231107-p5ei8m.html)
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
@@ -16,6 +15,7 @@
 * [2023-11-26, 10:22:12](https://news.ycombinator.com/item?id=38420555) - [RFC9460: Service Binding via the DNS (SVCB and HTTPS Resource Records)](https://www.rfc-editor.org/rfc/rfc9460)
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 10:14:57](https://news.ycombinator.com/item?id=38420531) - [Making it clear when we're on a call with you to protect you from fraud](https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you/)
+* [2023-11-26, 09:49:54](https://news.ycombinator.com/item?id=38420434) - [Visible Speech](https://github.com/Christoph-Lauer/Sonogram-Visible-Speech)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
@@ -26,10 +26,10 @@
 * [2023-11-26, 01:28:57](https://news.ycombinator.com/item?id=38418449) - [Let's Write a Malloc (2014)](https://danluu.com/malloc-tutorial/)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 * [2023-11-26, 00:32:25](https://news.ycombinator.com/item?id=38418159) - [Raiders of the Lost Ark Story Conference (1978)](https://nloewen.com/docs/lucas-spielberg-kasdan--raiders-of-the-lost-ark-story-conference/)
-* [2023-11-25, 22:10:09](https://news.ycombinator.com/item?id=38417195) - [AnyTracker: Track any number on any website](https://anytracker.org/)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
+* [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate short unique IDs from numbers](https://sqids.org/)
 * [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
-* [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
+* [2023-11-24, 15:27:37](https://news.ycombinator.com/item?id=38404905) - [The Ambassador Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
 ## [Archives](archives/index.md)
 
