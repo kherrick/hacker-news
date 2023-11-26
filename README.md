@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
+* [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
 * [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
@@ -26,7 +27,6 @@
 * [2023-11-25, 07:59:05](https://news.ycombinator.com/item?id=38412049) - [A peculiarity of the GNU Coreutils version of 'test' and '['](https://utcc.utoronto.ca/~cks/space/blog/linux/CoreutilsTestPeculiarity)
 * [2023-11-25, 06:49:57](https://news.ycombinator.com/item?id=38411762) - [Economic Effects of State Bans on Direct Manufacturer Sales to Car Buyers [pdf]](https://www.justice.gov/sites/default/files/atr/legacy/2009/05/28/246374.pdf)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
-* [2023-11-25, 05:14:51](https://news.ycombinator.com/item?id=38411394) - [Napoleon: Two centuries of life after death](https://www.historytoday.com/archive/feature/napoleon-two-centuries-life-after-death)
 * [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
 * [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
 * [2023-11-24, 15:27:37](https://news.ycombinator.com/item?id=38404905) - [The Ambassador Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
