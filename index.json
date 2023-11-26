@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-11-24, 22:45:05",
-      "https://news.ycombinator.com/item?id=38409206"
-    ],
-    [
-      "Libraries and Security",
-      "https://metrics.blogg.gu.se/?p=855"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 22:22:03",
       "https://news.ycombinator.com/item?id=38409033"
     ],
@@ -297,6 +287,16 @@
     [
       "MonadGPT – What would have happened if ChatGPT was invented in the 17th century?",
       "https://huggingface.co/Pclanglais/MonadGPT?text"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 15:27:37",
+      "https://news.ycombinator.com/item?id=38404905"
+    ],
+    [
+      "The Ambassador Pattern",
+      "https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador"
     ]
   ]
 ]
