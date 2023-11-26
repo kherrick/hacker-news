@@ -37,6 +37,7 @@
 * [2023-11-26, 04:24:21](https://news.ycombinator.com/item?id=38419148) - [Selfhosted Email by Maddy on Oracle Cloud](https://taoshu.in/net/selfhost-email.html)
 * [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 * [2023-11-26, 03:39:11](https://news.ycombinator.com/item?id=38418958) - [Tell HN: Firefox has madea lotof progress. Let the browser wars continue](https://news.ycombinator.com/item?id=38418958)
+* [2023-11-26, 03:25:26](https://news.ycombinator.com/item?id=38418901) - [Vintage Toilets in Pittsburgh](https://www.youtube.com/@vintagetoiletspittsburgh/featured)
 * [2023-11-26, 02:30:31](https://news.ycombinator.com/item?id=38418678) - [The interactive display for grasping Emacs? [video]](https://www.youtube.com/watch?v=_e-WTteF0us)
 * [2023-11-26, 01:33:17](https://news.ycombinator.com/item?id=38418467) - [After Eating, Software Will Bite the World](https://www.overcomingbias.com/p/after-eating-software-will-bite-the)
 * [2023-11-26, 01:28:57](https://news.ycombinator.com/item?id=38418449) - [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
