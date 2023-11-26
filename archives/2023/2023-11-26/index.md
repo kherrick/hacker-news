@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 12:37:59](https://news.ycombinator.com/item?id=38421157) - [Spanish agency created AI influencer and she's raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
 * [2023-11-26, 12:00:27](https://news.ycombinator.com/item?id=38420972) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [Hunter-gatherer childcare suggests new key to mother and child well-being](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
+* [2023-11-26, 11:19:27](https://news.ycombinator.com/item?id=38420791) - [When will global greenhouse gas emissions peak?](https://climateanalytics.org/publications/when-will-global-greenhouse-gas-emissions-peak)
 * [2023-11-26, 11:09:03](https://news.ycombinator.com/item?id=38420754) - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
 * [2023-11-26, 11:07:00](https://news.ycombinator.com/item?id=38420742) - [Formation °](https://formation.phobon.io/)
 * [2023-11-26, 11:06:42](https://news.ycombinator.com/item?id=38420740) - [mystery-o-matic.com random murder generator is open-source](https://github.com/mystery-o-matic/mystery-o-matic.github.io)
