@@ -9,6 +9,7 @@
 * [2023-11-25, 22:36:59](https://news.ycombinator.com/item?id=38417391) - [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
 * [2023-11-25, 22:26:32](https://news.ycombinator.com/item?id=38417326) - [Is the S&P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
 * [2023-11-25, 22:24:58](https://news.ycombinator.com/item?id=38417318) - [Ask HN: How to delete all Google photos so that I don't lose access to Gmail?](https://news.ycombinator.com/item?id=38417318)
+* [2023-11-25, 22:21:44](https://news.ycombinator.com/item?id=38417286) - [Another way to botch the security analysis of Kyber-512](https://blog.cr.yp.to/20231125-kyber.html)
 * [2023-11-25, 22:15:47](https://news.ycombinator.com/item?id=38417247) - [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
 * [2023-11-25, 22:13:23](https://news.ycombinator.com/item?id=38417228) - [Don'ts Or how not to program in Dyalog APL](https://www.toolofthought.com/donts)
 * [2023-11-25, 22:06:06](https://news.ycombinator.com/item?id=38417163) - [Audiobooks Are Books and They're Also Practice](https://map.simonsarris.com/p/audiobooks-are-books-and-theyre-also)
