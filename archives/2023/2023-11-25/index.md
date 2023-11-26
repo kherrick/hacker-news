@@ -10,6 +10,7 @@
 * [2023-11-25, 22:26:32](https://news.ycombinator.com/item?id=38417326) - [Is the S&P 500 Broken?](https://disciplinefunds.com/2023/11/21/is-the-sp-500-broken/)
 * [2023-11-25, 22:24:58](https://news.ycombinator.com/item?id=38417318) - [Ask HN: How to delete all Google photos so that I don't lose access to Gmail?](https://news.ycombinator.com/item?id=38417318)
 * [2023-11-25, 22:15:47](https://news.ycombinator.com/item?id=38417247) - [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
+* [2023-11-25, 22:13:23](https://news.ycombinator.com/item?id=38417228) - [Don'ts Or how not to program in Dyalog APL](https://www.toolofthought.com/donts)
 * [2023-11-25, 22:06:06](https://news.ycombinator.com/item?id=38417163) - [Audiobooks Are Books and They're Also Practice](https://map.simonsarris.com/p/audiobooks-are-books-and-theyre-also)
 * [2023-11-25, 21:45:46](https://news.ycombinator.com/item?id=38416997) - [A chatbot that can't say anything controversial isn't worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
 * [2023-11-25, 21:45:41](https://news.ycombinator.com/item?id=38416994) - [Why You Shouldn't Invest in Vector Databases?](https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477)
