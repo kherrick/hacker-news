@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 20:27:06](https://news.ycombinator.com/item?id=38424689) - [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
+* [2023-11-26, 20:21:51](https://news.ycombinator.com/item?id=38424633) - [Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
 * [2023-11-26, 19:53:59](https://news.ycombinator.com/item?id=38424412) - [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
 * [2023-11-26, 19:46:18](https://news.ycombinator.com/item?id=38424346) - [HP says I should have known its £399 laptop bargain was too good to be true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
 * [2023-11-26, 19:04:03](https://news.ycombinator.com/item?id=38424009) - [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
@@ -16,6 +18,7 @@
 * [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2023-11-26, 17:21:07](https://news.ycombinator.com/item?id=38423237) - [Escaping Duopoly: Best 5 Linux Smartphones Without Performance Security Excuses](https://nixsanctuary.com/escaping-the-duopoly-top-best-5-linux-smartphones-without-performance-and-security-excuses/)
 * [2023-11-26, 17:15:44](https://news.ycombinator.com/item?id=38423198) - [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
+* [2023-11-26, 17:12:49](https://news.ycombinator.com/item?id=38423167) - [Ask HN: What was the outcome of Reddit blackout?](https://news.ycombinator.com/item?id=38423167)
 * [2023-11-26, 17:00:47](https://news.ycombinator.com/item?id=38423081) - [Supabase (YC S20) Is Hiring SREs and Platform Eng. (Remote)](https://boards.greenhouse.io/supabase/jobs/5013075004)
 * [2023-11-26, 16:52:15](https://news.ycombinator.com/item?id=38423013) - [Due to budget having run out, Manyland will unfortunately shut down](https://manyland.com/info)
 * [2023-11-26, 16:26:57](https://news.ycombinator.com/item?id=38422807) - [Reasonable GPUs](https://news.ycombinator.com/item?id=38422807)
