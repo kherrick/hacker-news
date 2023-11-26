@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-26, 21:08:52",
+      "https://news.ycombinator.com/item?id=38425042"
+    ],
+    [
+      "Dependencies Belong in Version Control",
+      "https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 21:00:23",
       "https://news.ycombinator.com/item?id=38424986"
     ],
@@ -71,22 +81,22 @@
   ],
   [
     [
-      "2023-11-26, 18:43:34",
-      "https://news.ycombinator.com/item?id=38423860"
-    ],
-    [
-      "PipeWire 1.0.0",
-      "https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/1.0.0"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 18:42:05",
       "https://news.ycombinator.com/item?id=38423844"
     ],
     [
       "Titled Tuesday Cheating",
       "https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 18:13:55",
+      "https://news.ycombinator.com/item?id=38423623"
+    ],
+    [
+      "Oracle of Zotero: LLM QA of Your Research Library",
+      "https://github.com/Frost-group/The-Oracle-of-Zotero"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-11-26, 14:33:19",
-      "https://news.ycombinator.com/item?id=38421862"
-    ],
-    [
-      "Whisky: Wine supercharged with the power of Apple's game porting toolkit",
-      "https://getwhisky.app"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 14:11:13",
       "https://news.ycombinator.com/item?id=38421710"
     ],
@@ -187,6 +187,16 @@
     [
       "City of Boulder Open Data",
       "https://open-data.bouldercolorado.gov"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 13:31:39",
+      "https://news.ycombinator.com/item?id=38421452"
+    ],
+    [
+      "Making a Font",
+      "https://kokorobot.ca/site/making_a_font.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Rockwell Retro Encabulator [video]",
       "https://www.youtube.com/watch?v=RXJKdh1KZ0w"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 04:57:11",
-      "https://news.ycombinator.com/item?id=38419272"
-    ],
-    [
-      "Fun with DNS TXT Records",
-      "https://thoughts.theden.sh/posts/dns-txt-record-fun/"
     ]
   ]
 ]
