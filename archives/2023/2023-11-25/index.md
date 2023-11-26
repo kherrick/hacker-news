@@ -12,6 +12,7 @@
 * [2023-11-25, 22:21:44](https://news.ycombinator.com/item?id=38417286) - [Another way to botch the security analysis of Kyber-512](https://blog.cr.yp.to/20231125-kyber.html)
 * [2023-11-25, 22:15:47](https://news.ycombinator.com/item?id=38417247) - [Reflections on learning programming](https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html)
 * [2023-11-25, 22:13:23](https://news.ycombinator.com/item?id=38417228) - [Don'ts Or how not to program in Dyalog APL](https://www.toolofthought.com/donts)
+* [2023-11-25, 22:10:09](https://news.ycombinator.com/item?id=38417195) - [AnyTracker: Track any number on any website](https://anytracker.org/)
 * [2023-11-25, 22:06:06](https://news.ycombinator.com/item?id=38417163) - [Audiobooks Are Books and They're Also Practice](https://map.simonsarris.com/p/audiobooks-are-books-and-theyre-also)
 * [2023-11-25, 21:45:46](https://news.ycombinator.com/item?id=38416997) - [A chatbot that can't say anything controversial isn't worth much](https://www.theatlantic.com/ideas/archive/2023/11/ai-safety-regulations-uncensored-models/676076/)
 * [2023-11-25, 21:45:41](https://news.ycombinator.com/item?id=38416994) - [Why You Shouldn't Invest in Vector Databases?](https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477)
