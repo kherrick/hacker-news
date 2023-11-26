@@ -16,6 +16,7 @@
 * [2023-11-26, 18:48:54](https://news.ycombinator.com/item?id=38423908) - [Fish – Update on the Rust port](https://github.com/fish-shell/fish-shell/discussions/10123)
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:13:55](https://news.ycombinator.com/item?id=38423623) - [Oracle of Zotero: LLM QA of Your Research Library](https://github.com/Frost-group/The-Oracle-of-Zotero)
+* [2023-11-26, 18:08:48](https://news.ycombinator.com/item?id=38423581) - [Office Life in the 1980's (Vintage Photos) (2019)](https://weare.guru/office-life-in-the-1980s-vintage-photos/)
 * [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2023-11-26, 17:12:49](https://news.ycombinator.com/item?id=38423167) - [Ask HN: What was the outcome of Reddit blackout?](https://news.ycombinator.com/item?id=38423167)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
@@ -29,7 +30,6 @@
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:06:21](https://news.ycombinator.com/item?id=38420004) - [SIIG MiniSys S286 Small Form Factor PC](http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286)
-* [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 
 ## [Archives](archives/index.md)
 
