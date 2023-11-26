@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 22:32:00](https://news.ycombinator.com/item?id=38425724) - [Climbing 50 steps a day can cut your risk of heart disease by 20%](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says)
+* [2023-11-26, 21:58:48](https://news.ycombinator.com/item?id=38425431) - [Ask HN: How to Deal with AI Anxiety?](https://news.ycombinator.com/item?id=38425431)
 * [2023-11-26, 21:39:18](https://news.ycombinator.com/item?id=38425251) - [Stephen Fry reads Nick Cave's stirring letter about ChatGPT and human creativity [video]](https://www.youtube.com/watch?v=iGJcF4bLKd4)
+* [2023-11-26, 21:19:24](https://news.ycombinator.com/item?id=38425114) - [Yann LeCun on why AI must be open source [video]](https://www.youtube.com/watch?v=EGDG3hgPNp8)
 * [2023-11-26, 21:08:52](https://news.ycombinator.com/item?id=38425042) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 21:00:23](https://news.ycombinator.com/item?id=38424986) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-11-26, 20:54:29](https://news.ycombinator.com/item?id=38424939) - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
@@ -67,6 +70,7 @@
 * [2023-11-26, 09:19:28](https://news.ycombinator.com/item?id=38420282) - [Sound Keeper](https://veg.by/en/projects/soundkeeper/)
 * [2023-11-26, 08:56:16](https://news.ycombinator.com/item?id=38420182) - [Nvidia GPU Used to Decipher Ancient Greco-Roman Scroll](https://www.tomshardware.com/news/nvidia-gpu-decipher-ancient-greco-roman-scroll)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
+* [2023-11-26, 08:06:21](https://news.ycombinator.com/item?id=38420004) - [SIIG MiniSys S286 Small Form Factor PC](http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
 * [2023-11-26, 07:41:57](https://news.ycombinator.com/item?id=38419914) - [Unix Shells and the Current Directory](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory)
