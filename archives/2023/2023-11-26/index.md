@@ -43,6 +43,7 @@
 * [2023-11-26, 10:14:57](https://news.ycombinator.com/item?id=38420531) - [Making it clear when we're on a call with you to protect you from fraud](https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you/)
 * [2023-11-26, 09:49:54](https://news.ycombinator.com/item?id=38420434) - [Visible Speech](https://github.com/Christoph-Lauer/Sonogram-Visible-Speech)
 * [2023-11-26, 09:19:28](https://news.ycombinator.com/item?id=38420282) - [Sound Keeper](https://veg.by/en/projects/soundkeeper/)
+* [2023-11-26, 08:56:16](https://news.ycombinator.com/item?id=38420182) - [Nvidia GPU Used to Decipher Ancient Greco-Roman Scroll](https://www.tomshardware.com/news/nvidia-gpu-decipher-ancient-greco-roman-scroll)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
