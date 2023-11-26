@@ -6,6 +6,7 @@
 
 * [2023-11-26, 17:15:44](https://news.ycombinator.com/item?id=38423198) - [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
 * [2023-11-26, 17:00:47](https://news.ycombinator.com/item?id=38423081) - [Supabase (YC S20) Is Hiring SREs and Platform Eng. (Remote)](https://boards.greenhouse.io/supabase/jobs/5013075004)
+* [2023-11-26, 16:26:57](https://news.ycombinator.com/item?id=38422807) - [Reasonable GPUs](https://news.ycombinator.com/item?id=38422807)
 * [2023-11-26, 16:04:56](https://news.ycombinator.com/item?id=38422606) - [Updated a Complex Function Plotter that lets you sketch curves and see its image](https://tobylam.xyz/plotter/)
 * [2023-11-26, 15:46:40](https://news.ycombinator.com/item?id=38422437) - [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
@@ -43,6 +44,7 @@
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
 * [2023-11-26, 07:41:57](https://news.ycombinator.com/item?id=38419914) - [Unix Shells and the Current Directory](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory)
+* [2023-11-26, 06:43:16](https://news.ycombinator.com/item?id=38419673) - [Rockwell Retro Encabulator [video]](https://www.youtube.com/watch?v=RXJKdh1KZ0w)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 05:35:58](https://news.ycombinator.com/item?id=38419421) - [Doxycycline, Azithromycin and Vitamin C (DAV): eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
