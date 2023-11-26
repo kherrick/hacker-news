@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 23:08:14](https://news.ycombinator.com/item?id=38426072) - [Ask HN: Have you made IRL friends from HN usage?](https://news.ycombinator.com/item?id=38426072)
 * [2023-11-26, 22:57:02](https://news.ycombinator.com/item?id=38425966) - [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
 * [2023-11-26, 22:32:00](https://news.ycombinator.com/item?id=38425724) - [Climbing 50 steps a day can cut your risk of heart disease by 20%](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says)
+* [2023-11-26, 22:23:43](https://news.ycombinator.com/item?id=38425654) - [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
 * [2023-11-26, 21:58:48](https://news.ycombinator.com/item?id=38425431) - [Ask HN: How to Deal with AI Anxiety?](https://news.ycombinator.com/item?id=38425431)
 * [2023-11-26, 21:39:18](https://news.ycombinator.com/item?id=38425251) - [Stephen Fry reads Nick Cave's stirring letter about ChatGPT and human creativity [video]](https://www.youtube.com/watch?v=iGJcF4bLKd4)
 * [2023-11-26, 21:19:24](https://news.ycombinator.com/item?id=38425114) - [Yann LeCun on why AI must be open source [video]](https://www.youtube.com/watch?v=EGDG3hgPNp8)
