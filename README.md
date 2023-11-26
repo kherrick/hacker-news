@@ -2,6 +2,7 @@
 
 * [2023-11-26, 12:37:59](https://news.ycombinator.com/item?id=38421157) - [Spanish agency created AI influencer and she's raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
+* [2023-11-26, 12:12:43](https://news.ycombinator.com/item?id=38421027) - [Single alerts API for all monitoring tools](https://www.keephq.dev/post/unifying-alerts-from-various-sources)
 * [2023-11-26, 12:00:27](https://news.ycombinator.com/item?id=38420972) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [Hunter-gatherer childcare suggests new key to mother and child well-being](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
 * [2023-11-26, 11:19:27](https://news.ycombinator.com/item?id=38420791) - [When will global greenhouse gas emissions peak?](https://climateanalytics.org/publications/when-will-global-greenhouse-gas-emissions-peak)
@@ -29,7 +30,6 @@
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate short unique IDs from numbers](https://sqids.org/)
 * [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
 * [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
-* [2023-11-24, 15:27:37](https://news.ycombinator.com/item?id=38404905) - [The Ambassador Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
 ## [Archives](archives/index.md)
 
