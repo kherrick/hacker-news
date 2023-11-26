@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 * [2023-11-26, 01:14:03](https://news.ycombinator.com/item?id=38418359) - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 * [2023-11-26, 00:32:25](https://news.ycombinator.com/item?id=38418159) - [Raiders of the Lost Ark Story Conference Transcript](https://indiefilmhustle.com/tag/raiders-of-the-lost-ark-story-conference-transcript/)
@@ -26,7 +27,6 @@
 * [2023-11-25, 04:58:49](https://news.ycombinator.com/item?id=38411326) - [Your Brain on Books](https://www.publicbooks.org/this-is-your-brain-on-books/)
 * [2023-11-24, 22:22:03](https://news.ycombinator.com/item?id=38409033) - [ConvNetJS Deep Q Learning Demo (2013)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 * [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
-* [2023-11-24, 21:04:05](https://news.ycombinator.com/item?id=38408319) - [Cash Cows](https://www.ageofinvention.xyz/p/age-of-invention-cash-cows)
 * [2023-11-24, 20:41:20](https://news.ycombinator.com/item?id=38408025) - [The Web Site to Remember National Semiconductor's Series 32000 Family](http://cpu-ns32k.net/Diephotos.html)
 * [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
 * [2023-11-24, 15:27:37](https://news.ycombinator.com/item?id=38404905) - [The Ambassador Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
