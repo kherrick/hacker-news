@@ -9,6 +9,7 @@
 * [2023-11-26, 04:24:21](https://news.ycombinator.com/item?id=38419148) - [Selfhosted Email by Maddy on Oracle Cloud](https://taoshu.in/net/selfhost-email.html)
 * [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
 * [2023-11-26, 03:39:11](https://news.ycombinator.com/item?id=38418958) - [Tell HN: Firefox has madea lotof progress. Let the browser wars continue](https://news.ycombinator.com/item?id=38418958)
+* [2023-11-26, 01:33:17](https://news.ycombinator.com/item?id=38418467) - [After Eating, Software Will Bite the World](https://www.overcomingbias.com/p/after-eating-software-will-bite-the)
 * [2023-11-26, 01:14:03](https://news.ycombinator.com/item?id=38418359) - [The Curse of Docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 * [2023-11-26, 00:57:38](https://news.ycombinator.com/item?id=38418282) - [Judge finds 'reasonable evidence' Tesla knew self-driving tech was defective](https://www.theguardian.com/technology/2023/nov/22/tesla-autopilot-defective-lawsuit-musk)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
