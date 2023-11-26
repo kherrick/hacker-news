@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 17:00:47](https://news.ycombinator.com/item?id=38423081) - [Supabase (YC S20) Is Hiring SREs and Platform Eng. (Remote)](https://boards.greenhouse.io/supabase/jobs/5013075004)
 * [2023-11-26, 16:04:56](https://news.ycombinator.com/item?id=38422606) - [Updated a Complex Function Plotter that lets you sketch curves and see its image](https://tobylam.xyz/plotter/)
 * [2023-11-26, 15:46:40](https://news.ycombinator.com/item?id=38422437) - [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)

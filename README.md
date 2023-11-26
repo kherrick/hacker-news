@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-26, 17:00:47](https://news.ycombinator.com/item?id=38423081) - [Supabase (YC S20) Is Hiring SREs and Platform Eng. (Remote)](https://boards.greenhouse.io/supabase/jobs/5013075004)
 * [2023-11-26, 16:04:56](https://news.ycombinator.com/item?id=38422606) - [Updated a Complex Function Plotter that lets you sketch curves and see its image](https://tobylam.xyz/plotter/)
 * [2023-11-26, 15:46:40](https://news.ycombinator.com/item?id=38422437) - [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
@@ -14,7 +15,6 @@
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
-* [2023-11-26, 12:00:27](https://news.ycombinator.com/item?id=38420972) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-11-26, 11:09:03](https://news.ycombinator.com/item?id=38420754) - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
 * [2023-11-26, 11:07:00](https://news.ycombinator.com/item?id=38420742) - [Formation °](https://formation.phobon.io/)
 * [2023-11-26, 11:06:42](https://news.ycombinator.com/item?id=38420740) - [mystery-o-matic.com random murder generator is open-source](https://github.com/mystery-o-matic/mystery-o-matic.github.io)
