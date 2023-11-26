@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-26, 10:25:16](https://news.ycombinator.com/item?id=38420564) - [Daily Coffee Habits May Affect Brain Plasticity and Learning](https://neurosciencenews.com/caffeine-neuoplasticity-ltp-25255/)
+* [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
@@ -25,7 +26,6 @@
 * [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
 * [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
 * [2023-11-25, 07:59:05](https://news.ycombinator.com/item?id=38412049) - [A peculiarity of the GNU Coreutils version of 'test' and '['](https://utcc.utoronto.ca/~cks/space/blog/linux/CoreutilsTestPeculiarity)
-* [2023-11-25, 06:49:57](https://news.ycombinator.com/item?id=38411762) - [Economic Effects of State Bans on Direct Manufacturer Sales to Car Buyers [pdf]](https://www.justice.gov/sites/default/files/atr/legacy/2009/05/28/246374.pdf)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
 * [2023-11-24, 21:36:57](https://news.ycombinator.com/item?id=38408648) - [Online PDP-8 Home Page, Run a PDP-8](https://www.pdp8online.com/)
 * [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
