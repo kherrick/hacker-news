@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-26, 00:57:38",
+      "https://news.ycombinator.com/item?id=38418282"
+    ],
+    [
+      "Judge finds 'reasonable evidence' Tesla knew self-driving tech was defective",
+      "https://www.theguardian.com/technology/2023/nov/22/tesla-autopilot-defective-lawsuit-musk"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 00:53:51",
+      "https://news.ycombinator.com/item?id=38418262"
+    ],
+    [
+      "Naev – open-source game about space exploration, trade and combat",
+      "https://naev.org/"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 00:01:58",
+      "https://news.ycombinator.com/item?id=38417982"
+    ],
+    [
+      "Debian's MIPS64EL CPU Port Is at Risk Due to Declining Hardware Access",
+      "https://www.phoronix.com/news/Debian-MIPS64EL-Risk"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 22:40:12",
       "https://news.ycombinator.com/item?id=38417415"
     ],
@@ -27,26 +57,6 @@
     [
       "Reflections on learning programming",
       "https://blog.osm-ai.net/thinking/2023/10/26/novice-mistakes.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 22:13:23",
-      "https://news.ycombinator.com/item?id=38417228"
-    ],
-    [
-      "Don'ts Or how not to program in Dyalog APL",
-      "https://www.toolofthought.com/donts"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 21:45:41",
-      "https://news.ycombinator.com/item?id=38416994"
-    ],
-    [
-      "Investing in new vector database development vs enhancing existing databases",
-      "https://blog.det.life/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c?gi=6b9cfcb2e477"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-11-25, 17:14:27",
-      "https://news.ycombinator.com/item?id=38414785"
-    ],
-    [
-      "Breezy Version Control System",
-      "https://www.breezy-vcs.org"
-    ]
-  ],
-  [
-    [
       "2023-11-25, 16:32:20",
       "https://news.ycombinator.com/item?id=38414513"
     ],
@@ -157,16 +157,6 @@
     [
       "Show HN: I saw this mind-blowing experiment, so I made a simple version of it",
       "https://github.com/Momciloo/fun-with-sockets"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 13:10:58",
-      "https://news.ycombinator.com/item?id=38413263"
-    ],
-    [
-      "Preparing for the end of third-party cookies",
-      "https://developer.chrome.com/blog/cookie-countdown-2023oct/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "A Light in the Woods",
       "https://alightinthewoods.net/"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 09:07:52",
+      "https://news.ycombinator.com/item?id=38412297"
+    ],
+    [
+      "Numbers Far Afield",
+      "https://mathenchant.wordpress.com/2023/11/17/numbers-far-afield/"
     ]
   ],
   [
