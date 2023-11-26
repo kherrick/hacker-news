@@ -42,6 +42,7 @@
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
+* [2023-11-26, 07:41:57](https://news.ycombinator.com/item?id=38419914) - [Unix Shells and the Current Directory](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory)
 * [2023-11-26, 05:58:05](https://news.ycombinator.com/item?id=38419513) - [Show HN: An open-source notification infrastructure](https://github.com/novuhq/)
 * [2023-11-26, 05:35:58](https://news.ycombinator.com/item?id=38419421) - [Doxycycline, Azithromycin and Vitamin C (DAV): eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
 * [2023-11-26, 04:57:11](https://news.ycombinator.com/item?id=38419272) - [Fun with DNS TXT Records](https://thoughts.theden.sh/posts/dns-txt-record-fun/)
