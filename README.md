@@ -1,5 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
+* [2023-11-26, 15:34:21](https://news.ycombinator.com/item?id=38422347) - [A ChatBot for Interacting with Hacker News](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fnewsnerdhackerbot.streamlit.app%2F)
+* [2023-11-26, 15:22:30](https://news.ycombinator.com/item?id=38422268) - [Is there an updated list for verified good USB-C cables?](https://old.reddit.com/r/UsbCHardware/comments/vkfwug/is_there_an_updated_list_for_verified_good_usbc/)
+* [2023-11-26, 15:22:00](https://news.ycombinator.com/item?id=38422264) - [In-depth comparison of LLM frameworks](https://arxiv.org/abs/2311.12785)
+* [2023-11-26, 15:12:57](https://news.ycombinator.com/item?id=38422172) - [Sodium in Batteries: Shift May Herald Another Shakeup](https://www.bloomberg.com/news/articles/2023-11-26/sodium-in-ev-and-storage-batteries-may-herald-another-shakeup)
 * [2023-11-26, 14:33:19](https://news.ycombinator.com/item?id=38421862) - [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
@@ -14,7 +19,6 @@
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 10:14:57](https://news.ycombinator.com/item?id=38420531) - [Making it clear when we're on a call with you to protect you from fraud](https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you/)
 * [2023-11-26, 09:49:54](https://news.ycombinator.com/item?id=38420434) - [Visible Speech](https://github.com/Christoph-Lauer/Sonogram-Visible-Speech)
-* [2023-11-26, 09:19:28](https://news.ycombinator.com/item?id=38420282) - [Sound Keeper](https://veg.by/en/projects/soundkeeper/)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
@@ -23,13 +27,9 @@
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
 * [2023-11-26, 01:28:57](https://news.ycombinator.com/item?id=38418449) - [Let's Write a Malloc (2014)](https://danluu.com/malloc-tutorial/)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
-* [2023-11-25, 20:07:35](https://news.ycombinator.com/item?id=38416246) - [Dolphin Emulator Progress Report: August, September, and October 2023](https://dolphin-emu.org/blog/2023/11/25/dolphin-progress-report-august-september-and-october-2023/)
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate short unique IDs from numbers](https://sqids.org/)
 * [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
-* [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
-* [2023-11-25, 14:16:49](https://news.ycombinator.com/item?id=38413660) - [Show HN: I saw this mind-blowing experiment, so I made a simple version of it](https://github.com/Momciloo/fun-with-sockets)
-* [2023-11-24, 19:51:08](https://news.ycombinator.com/item?id=38407510) - [MonadGPT – What would have happened if ChatGPT was invented in the 17th century?](https://huggingface.co/Pclanglais/MonadGPT?text)
 
 ## [Archives](archives/index.md)
 
