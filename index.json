@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-26, 17:15:44",
+      "https://news.ycombinator.com/item?id=38423198"
+    ],
+    [
+      "The Collected Stories of Vernor Vinge",
+      "https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 17:00:47",
       "https://news.ycombinator.com/item?id=38423081"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38422606"
     ],
     [
-      "Updated a Complex Function Plotter that lets you sketch curves and see its image",
+      "Complex and R^2 Graph Plotter",
       "https://tobylam.xyz/plotter/"
     ]
   ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2023-11-26, 15:34:21",
-      "https://news.ycombinator.com/item?id=38422347"
-    ],
-    [
-      "A ChatBot for Interacting with Hacker News",
-      "https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fnewsnerdhackerbot.streamlit.app%2F"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 15:33:41",
       "https://news.ycombinator.com/item?id=38422340"
     ],
     [
       "Falcon Down: Breaking Falcon Signature Scheme Through Side-Channel Attacks [pdf]",
       "https://eprint.iacr.org/2021/772.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 15:22:30",
-      "https://news.ycombinator.com/item?id=38422268"
-    ],
-    [
-      "Is there an updated list for verified good USB-C cables?",
-      "https://old.reddit.com/r/UsbCHardware/comments/vkfwug/is_there_an_updated_list_for_verified_good_usbc/"
     ]
   ],
   [
@@ -81,12 +71,12 @@
   ],
   [
     [
-      "2023-11-26, 15:13:48",
-      "https://news.ycombinator.com/item?id=38422186"
+      "2023-11-26, 15:12:57",
+      "https://news.ycombinator.com/item?id=38422172"
     ],
     [
-      "Linux being secure is a common misconception",
-      "https://madaidans-insecurities.github.io/linux.html"
+      "Sodium in Batteries: Shift May Herald Another Shakeup",
+      "https://www.bloomberg.com/news/articles/2023-11-26/sodium-in-ev-and-storage-batteries-may-herald-another-shakeup"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Cyberattack on Kansas Courts Leaves Lawyers Filing 'Everything by Fax'",
       "https://www.wsj.com/politics/national-security/cyberattack-on-kansas-courts-leaves-lawyers-filing-everything-by-fax-2664999f"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 15:02:31",
-      "https://news.ycombinator.com/item?id=38422070"
-    ],
-    [
-      "Worst Data Engineering Mistake you've seen?",
-      "https://old.reddit.com/r/dataengineering/comments/16vhp70/worst_data_engineering_mistake_youve_seen/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-11-26, 09:49:54",
+      "https://news.ycombinator.com/item?id=38420434"
+    ],
+    [
+      "Visible Speech",
+      "https://github.com/Christoph-Lauer/Sonogram-Visible-Speech"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 09:19:28",
       "https://news.ycombinator.com/item?id=38420282"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2023-11-26, 08:01:41",
-      "https://news.ycombinator.com/item?id=38419985"
-    ],
-    [
-      "Modification to the Commodore MAX [video]",
-      "https://www.youtube.com/watch?v=_RK2m6AikPI"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 05:58:05",
       "https://news.ycombinator.com/item?id=38419513"
     ],
@@ -287,6 +267,26 @@
     [
       "Naev – open-source game about space exploration, trade and combat",
       "https://naev.org/"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 18:14:05",
+      "https://news.ycombinator.com/item?id=38415252"
+    ],
+    [
+      "The Dunning-Kruger effect is autocorrelation",
+      "https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 17:30:06",
+      "https://news.ycombinator.com/item?id=38414914"
+    ],
+    [
+      "Sqids – Generate short unique IDs from numbers",
+      "https://sqids.org/"
     ]
   ],
   [
