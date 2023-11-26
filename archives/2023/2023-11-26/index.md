@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 19:53:59](https://news.ycombinator.com/item?id=38424412) - [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
 * [2023-11-26, 19:46:18](https://news.ycombinator.com/item?id=38424346) - [HP says I should have known its £399 laptop bargain was too good to be true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
 * [2023-11-26, 19:04:03](https://news.ycombinator.com/item?id=38424009) - [Does GPT-4 Pass the Turing Test?](https://arxiv.org/abs/2310.20216)
 * [2023-11-26, 18:48:54](https://news.ycombinator.com/item?id=38423908) - [Fish – Update on the Rust Port](https://github.com/fish-shell/fish-shell/discussions/10123)
@@ -11,6 +12,7 @@
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:34:00](https://news.ycombinator.com/item?id=38423781) - [San Francisco Streets with Andrew Callaghan [video]](https://www.youtube.com/watch?v=URfCwT3UQy4)
 * [2023-11-26, 18:25:25](https://news.ycombinator.com/item?id=38423709) - [Wallace and Gromit studio Aardman Animations running out of clay](https://www.theguardian.com/film/2023/nov/20/wallace-and-gromit-studio-aardman-animations-running-out-of-clay)
+* [2023-11-26, 18:08:48](https://news.ycombinator.com/item?id=38423581) - [Office Life in the 1980's (Vintage Photos) (2019)](https://weare.guru/office-life-in-the-1980s-vintage-photos/)
 * [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2023-11-26, 17:21:07](https://news.ycombinator.com/item?id=38423237) - [Escaping Duopoly: Best 5 Linux Smartphones Without Performance Security Excuses](https://nixsanctuary.com/escaping-the-duopoly-top-best-5-linux-smartphones-without-performance-and-security-excuses/)
 * [2023-11-26, 17:15:44](https://news.ycombinator.com/item?id=38423198) - [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
