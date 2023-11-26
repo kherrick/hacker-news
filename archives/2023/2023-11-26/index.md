@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 21:08:52](https://news.ycombinator.com/item?id=38425042) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 21:00:23](https://news.ycombinator.com/item?id=38424986) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-11-26, 20:54:29](https://news.ycombinator.com/item?id=38424939) - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * [2023-11-26, 20:27:06](https://news.ycombinator.com/item?id=38424689) - [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
@@ -17,6 +18,7 @@
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday [Chess] Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:34:00](https://news.ycombinator.com/item?id=38423781) - [San Francisco Streets with Andrew Callaghan [video]](https://www.youtube.com/watch?v=URfCwT3UQy4)
 * [2023-11-26, 18:25:25](https://news.ycombinator.com/item?id=38423709) - [Wallace and Gromit studio Aardman Animations running out of clay](https://www.theguardian.com/film/2023/nov/20/wallace-and-gromit-studio-aardman-animations-running-out-of-clay)
+* [2023-11-26, 18:13:55](https://news.ycombinator.com/item?id=38423623) - [Oracle of Zotero: LLM QA of Your Research Library](https://github.com/Frost-group/The-Oracle-of-Zotero)
 * [2023-11-26, 18:08:48](https://news.ycombinator.com/item?id=38423581) - [Office Life in the 1980's (Vintage Photos) (2019)](https://weare.guru/office-life-in-the-1980s-vintage-photos/)
 * [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2023-11-26, 17:21:07](https://news.ycombinator.com/item?id=38423237) - [Escaping Duopoly: Best 5 Linux Smartphones Without Performance Security Excuses](https://nixsanctuary.com/escaping-the-duopoly-top-best-5-linux-smartphones-without-performance-and-security-excuses/)
@@ -41,6 +43,7 @@
 * [2023-11-26, 14:32:25](https://news.ycombinator.com/item?id=38421851) - [How An Apple Gadget Is Helping Drug Traffickers](https://www.smh.com.au/national/how-a-49-apple-gadget-is-helping-drug-traffickers-20231107-p5ei8m.html)
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
+* [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a Font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:37:59](https://news.ycombinator.com/item?id=38421157) - [Spanish agency created AI influencer and she's raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 12:12:43](https://news.ycombinator.com/item?id=38421027) - [Single alerts API for all monitoring tools](https://www.keephq.dev/post/unifying-alerts-from-various-sources)
