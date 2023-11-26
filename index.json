@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-11-26, 12:37:59",
-      "https://news.ycombinator.com/item?id=38421157"
+      "2023-11-26, 14:33:19",
+      "https://news.ycombinator.com/item?id=38421862"
     ],
     [
-      "Spanish agency created AI influencer and she's raking in up to $11,000 a month",
-      "https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/"
+      "Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit",
+      "https://getwhisky.app"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Visible Speech",
       "https://github.com/Christoph-Lauer/Sonogram-Visible-Speech"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 09:19:28",
-      "https://news.ycombinator.com/item?id=38420282"
-    ],
-    [
-      "Sound Keeper",
-      "https://veg.by/en/projects/soundkeeper/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Agricultural input shocks affect crop yields more in the high-yielding areas",
       "https://www.nature.com/articles/s43016-023-00873-z"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 15:27:37",
+      "https://news.ycombinator.com/item?id=38404905"
+    ],
+    [
+      "The Ambassador Pattern",
+      "https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador"
     ]
   ]
 ]
