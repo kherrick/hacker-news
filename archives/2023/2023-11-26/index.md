@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 21:39:18](https://news.ycombinator.com/item?id=38425251) - [Stephen Fry reads Nick Cave's stirring letter about ChatGPT and human creativity [video]](https://www.youtube.com/watch?v=iGJcF4bLKd4)
 * [2023-11-26, 21:08:52](https://news.ycombinator.com/item?id=38425042) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 21:00:23](https://news.ycombinator.com/item?id=38424986) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-11-26, 20:54:29](https://news.ycombinator.com/item?id=38424939) - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
