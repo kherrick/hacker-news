@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 17:15:44](https://news.ycombinator.com/item?id=38423198) - [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
 * [2023-11-26, 17:00:47](https://news.ycombinator.com/item?id=38423081) - [Supabase (YC S20) Is Hiring SREs and Platform Eng. (Remote)](https://boards.greenhouse.io/supabase/jobs/5013075004)
 * [2023-11-26, 16:04:56](https://news.ycombinator.com/item?id=38422606) - [Updated a Complex Function Plotter that lets you sketch curves and see its image](https://tobylam.xyz/plotter/)
 * [2023-11-26, 15:46:40](https://news.ycombinator.com/item?id=38422437) - [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
