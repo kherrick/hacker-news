@@ -2,8 +2,8 @@
 
 * [2023-11-26, 05:35:58](https://news.ycombinator.com/item?id=38419421) - [Doxycycline, Azithromycin and Vitamin C (DAV): eradicating cancer stem cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6520007/)
 * [2023-11-26, 04:54:16](https://news.ycombinator.com/item?id=38419263) - [The Flix Programming Language](https://flix.dev/)
-* [2023-11-26, 04:48:59](https://news.ycombinator.com/item?id=38419248) - [At Meta, Underage Users Were an 'Open Secret,' States Say](https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html)
 * [2023-11-26, 04:20:29](https://news.ycombinator.com/item?id=38419134) - [We have lost access to approximately €6k in bounties](https://newpipe.net/blog/pinned/announcement/we-have-lost-access-to-bountysource/)
+* [2023-11-26, 01:28:57](https://news.ycombinator.com/item?id=38418449) - [Let's Write a Malloc](https://danluu.com/malloc-tutorial/)
 * [2023-11-26, 00:53:51](https://news.ycombinator.com/item?id=38418262) - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 * [2023-11-26, 00:32:25](https://news.ycombinator.com/item?id=38418159) - [Raiders of the Lost Ark Story Conference (1978)](https://nloewen.com/docs/lucas-spielberg-kasdan--raiders-of-the-lost-ark-story-conference/)
 * [2023-11-25, 22:40:12](https://news.ycombinator.com/item?id=38417415) - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
