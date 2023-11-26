@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38424412"
     ],
     [
-      "The history behind aspirin 81",
+      "The history behind aspirin 81 (2019)",
       "https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/"
     ]
   ],
@@ -127,16 +127,6 @@
     [
       "Darling: Run macOS Software on Linux",
       "https://www.darlinghq.org/"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 17:15:44",
-      "https://news.ycombinator.com/item?id=38423198"
-    ],
-    [
-      "The Collected Stories of Vernor Vinge",
-      "https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/"
     ]
   ],
   [
@@ -205,8 +195,18 @@
       "https://news.ycombinator.com/item?id=38421452"
     ],
     [
-      "Making a Font",
+      "Making a font",
       "https://kokorobot.ca/site/making_a_font.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 12:48:24",
+      "https://news.ycombinator.com/item?id=38421216"
+    ],
+    [
+      "Will anybody save Linux on Itanium?",
+      "https://www.theregister.com/2023/11/21/saving_linux_on_itanium/"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "The key to mother and child well-being may be many caregivers",
       "https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 11:09:03",
+      "https://news.ycombinator.com/item?id=38420754"
+    ],
+    [
+      "The most powerful cosmic ray since the oh-my-god particle puzzles scientists",
+      "https://www.nature.com/articles/d41586-023-03677-0"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Grimoire: Open-Source bookmark manager with extra features",
       "https://github.com/goniszewski/grimoire"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 07:41:57",
-      "https://news.ycombinator.com/item?id=38419914"
-    ],
-    [
-      "Unix Shells and the Current Directory",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory"
     ]
   ]
 ]
