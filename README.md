@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
+* [2023-11-26, 17:21:07](https://news.ycombinator.com/item?id=38423237) - [Escaping Duopoly: Best 5 Linux Smartphones Without Performance Security Excuses](https://nixsanctuary.com/escaping-the-duopoly-top-best-5-linux-smartphones-without-performance-and-security-excuses/)
 * [2023-11-26, 17:15:44](https://news.ycombinator.com/item?id=38423198) - [The Collected Stories of Vernor Vinge](https://adeeplookbydavehook.wordpress.com/2023/11/25/the-collected-stories-of-vernor-vinge-2001-tor/)
 * [2023-11-26, 17:00:47](https://news.ycombinator.com/item?id=38423081) - [Supabase (YC S20) Is Hiring SREs and Platform Eng. (Remote)](https://boards.greenhouse.io/supabase/jobs/5013075004)
-* [2023-11-26, 16:52:15](https://news.ycombinator.com/item?id=38423013) - [Due to budget having run out, Manyland will unfortunately shut down](https://manyland.com/info)
 * [2023-11-26, 16:26:57](https://news.ycombinator.com/item?id=38422807) - [Reasonable GPUs](https://news.ycombinator.com/item?id=38422807)
 * [2023-11-26, 16:04:56](https://news.ycombinator.com/item?id=38422606) - [Complex and R^2 Graph Plotter](https://tobylam.xyz/plotter/)
 * [2023-11-26, 15:46:40](https://news.ycombinator.com/item?id=38422437) - [Neuralink Raises an Additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
@@ -22,7 +23,6 @@
 * [2023-11-26, 10:22:12](https://news.ycombinator.com/item?id=38420555) - [RFC9460: Service Binding via the DNS (SVCB and HTTPS Resource Records)](https://www.rfc-editor.org/rfc/rfc9460)
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 10:14:57](https://news.ycombinator.com/item?id=38420531) - [Making it clear when we're on a call with you to protect you from fraud](https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you/)
-* [2023-11-26, 09:19:28](https://news.ycombinator.com/item?id=38420282) - [Sound Keeper](https://veg.by/en/projects/soundkeeper/)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 07:41:57](https://news.ycombinator.com/item?id=38419914) - [Unix Shells and the Current Directory](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory)
