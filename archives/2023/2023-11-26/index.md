@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 14:33:19](https://news.ycombinator.com/item?id=38421862) - [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
 * [2023-11-26, 12:37:59](https://news.ycombinator.com/item?id=38421157) - [Spanish agency created AI influencer and she's raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 12:12:43](https://news.ycombinator.com/item?id=38421027) - [Single alerts API for all monitoring tools](https://www.keephq.dev/post/unifying-alerts-from-various-sources)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-26, 12:37:59](https://news.ycombinator.com/item?id=38421157) - [Spanish agency created AI influencer and she's raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
+* [2023-11-26, 14:33:19](https://news.ycombinator.com/item?id=38421862) - [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 12:12:43](https://news.ycombinator.com/item?id=38421027) - [Single alerts API for all monitoring tools](https://www.keephq.dev/post/unifying-alerts-from-various-sources)
 * [2023-11-26, 12:00:27](https://news.ycombinator.com/item?id=38420972) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -14,7 +14,6 @@
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 10:14:57](https://news.ycombinator.com/item?id=38420531) - [Making it clear when we're on a call with you to protect you from fraud](https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you/)
 * [2023-11-26, 09:49:54](https://news.ycombinator.com/item?id=38420434) - [Visible Speech](https://github.com/Christoph-Lauer/Sonogram-Visible-Speech)
-* [2023-11-26, 09:19:28](https://news.ycombinator.com/item?id=38420282) - [Sound Keeper](https://veg.by/en/projects/soundkeeper/)
 * [2023-11-26, 08:36:23](https://news.ycombinator.com/item?id=38420111) - [They're Made Out of Meat (1991)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 * [2023-11-26, 08:04:54](https://news.ycombinator.com/item?id=38419996) - [Grimoire: Open-Source bookmark manager with extra features](https://github.com/goniszewski/grimoire)
 * [2023-11-26, 08:01:41](https://news.ycombinator.com/item?id=38419985) - [Modification to the Commodore MAX [video]](https://www.youtube.com/watch?v=_RK2m6AikPI)
@@ -30,6 +29,7 @@
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate short unique IDs from numbers](https://sqids.org/)
 * [2023-11-25, 15:19:44](https://news.ycombinator.com/item?id=38414033) - [Helm](https://tytel.org/helm/)
 * [2023-11-25, 15:16:11](https://news.ycombinator.com/item?id=38414009) - [Agricultural input shocks affect crop yields more in the high-yielding areas](https://www.nature.com/articles/s43016-023-00873-z)
+* [2023-11-24, 15:27:37](https://news.ycombinator.com/item?id=38404905) - [The Ambassador Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
 ## [Archives](archives/index.md)
 
