@@ -22,7 +22,7 @@
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a Font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [The key to mother and child well-being may be many caregivers](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
-* [2023-11-26, 11:09:03](https://news.ycombinator.com/item?id=38420754) - [The most powerful cosmic ray since the Oh-My-God particle puzzles scientists](https://www.nature.com/articles/d41586-023-03677-0)
+* [2023-11-26, 11:06:42](https://news.ycombinator.com/item?id=38420740) - [Mystery-o-matic.com random murder generator is open-source](https://github.com/mystery-o-matic/mystery-o-matic.github.io)
 * [2023-11-26, 10:22:12](https://news.ycombinator.com/item?id=38420555) - [RFC9460: Service Binding via the DNS (SVCB and HTTPS Resource Records)](https://www.rfc-editor.org/rfc/rfc9460)
 * [2023-11-26, 10:21:55](https://news.ycombinator.com/item?id=38420554) - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 * [2023-11-26, 09:31:06](https://news.ycombinator.com/item?id=38420352) - [Sydney's underground spaghetti junction opens](https://www.smh.com.au/national/nsw/motorist-reversing-late-lane-changes-welcome-to-sydney-s-spaghetti-junction-20231126-p5emti.html)
