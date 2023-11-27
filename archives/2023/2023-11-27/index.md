@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 05:07:33](https://news.ycombinator.com/item?id=38428301) - [Orca-2-13B Runs Directly on Rust+WASM – No Python/C++ Hassles](https://www.secondstate.io/articles/orca-2-13b/)
 * [2023-11-27, 04:58:24](https://news.ycombinator.com/item?id=38428249) - [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
 * [2023-11-27, 04:55:20](https://news.ycombinator.com/item?id=38428225) - [Dive into Deep Learning: Interactive deep learning book with codes and maths](https://d2l.ai/)
 * [2023-11-27, 04:46:15](https://news.ycombinator.com/item?id=38428169) - [Housing wealth is meaningless, destructive and fundamentally changing society](https://www.theguardian.com/australia-news/2023/nov/27/australian-housing-wealth-is-meaningless-destructive-and-fundamentally-changing-our-society)
