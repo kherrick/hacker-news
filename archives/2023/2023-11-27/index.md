@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 21:29:11](https://news.ycombinator.com/item?id=38438621) - [Range Energy's electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
 * [2023-11-27, 20:35:37](https://news.ycombinator.com/item?id=38437878) - [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
 * [2023-11-27, 20:24:56](https://news.ycombinator.com/item?id=38437747) - [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
@@ -21,6 +22,7 @@
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 17:49:13](https://news.ycombinator.com/item?id=38435505) - [Worker's death from blunt force injuries resulted in $7k fine for Amazon](https://www.businessinsider.com/amazon-worker-death-indiana-resulted-7000-fine-2023-11)
 * [2023-11-27, 17:48:17](https://news.ycombinator.com/item?id=38435481) - [Organizer invents fake women speakers for DevTernity and JDKon conferences](https://twitter.com/GergelyOrosz/status/1728177708608450705?s=20)
+* [2023-11-27, 17:28:16](https://news.ycombinator.com/item?id=38435182) - [Agency: Pure Go LangChain Alternative](https://github.com/neurocult/agency)
 * [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 * [2023-11-27, 17:15:55](https://news.ycombinator.com/item?id=38435017) - [ed.bf: text editor in Brainfuck](https://github.com/bf-enterprise-solutions/ed.bf)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
