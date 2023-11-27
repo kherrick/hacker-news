@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 23:08:30](https://news.ycombinator.com/item?id=38439851) - [How could Al Bundy afford a house when he was making minimum wage?](https://old.reddit.com/r/AskHistorians/comments/ggozng/in_the_sitcom_married_with_children_protagonist/)
 * [2023-11-27, 23:06:04](https://news.ycombinator.com/item?id=38439817) - [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
 * [2023-11-27, 23:04:15](https://news.ycombinator.com/item?id=38439794) - [Male Tech Conference Founder Is Behind Popular Woman Coding Influencer Account](https://www.404media.co/coding-unicorn-instagram-julia-kirsina-devternity/)
 * [2023-11-27, 22:31:45](https://news.ycombinator.com/item?id=38439386) - [Shein Files for U.S. IPO](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
@@ -22,7 +23,6 @@
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the renaissance of retro hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
 * [2023-11-26, 20:47:04](https://news.ycombinator.com/item?id=38424890) - [Easter egg emoji: converting pixels into particles](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
-* [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
 * [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)
 * [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
 * [2023-11-25, 16:01:22](https://news.ycombinator.com/item?id=38414303) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
