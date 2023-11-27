@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
 * [2023-11-27, 20:35:37](https://news.ycombinator.com/item?id=38437878) - [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
 * [2023-11-27, 20:24:56](https://news.ycombinator.com/item?id=38437747) - [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
 * [2023-11-27, 20:00:36](https://news.ycombinator.com/item?id=38437388) - [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
@@ -22,7 +23,6 @@
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the Renaissance of Retro Hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
 * [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
-* [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother have gotten to where they are now by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-26, 20:47:04](https://news.ycombinator.com/item?id=38424890) - [Easter egg emoji: converting pixels into particles](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
 * [2023-11-26, 03:18:24](https://news.ycombinator.com/item?id=38418865) - [Signal reflections in electronic circuits](https://lcamtuf.substack.com/p/signal-reflections-in-electronic)
 * [2023-11-25, 18:04:59](https://news.ycombinator.com/item?id=38415174) - [Walter Arnold and the first speeding ticket](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Walter-Arnold-Worlds-First-Speeding-Ticket/)
