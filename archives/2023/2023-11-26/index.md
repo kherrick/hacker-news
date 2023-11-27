@@ -60,6 +60,7 @@
 * [2023-11-26, 14:32:25](https://news.ycombinator.com/item?id=38421851) - [How An Apple Gadget Is Helping Drug Traffickers](https://www.smh.com.au/national/how-a-49-apple-gadget-is-helping-drug-traffickers-20231107-p5ei8m.html)
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
+* [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a Font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:48:24](https://news.ycombinator.com/item?id=38421216) - [Will anybody save Linux on Itanium?](https://www.theregister.com/2023/11/21/saving_linux_on_itanium/)
 * [2023-11-26, 12:37:59](https://news.ycombinator.com/item?id=38421157) - [Spanish agency created AI influencer and she's raking in up to $11,000 a month](https://fortune.com/europe/2023/11/23/spanish-influencer-agency-earned-11000-ai-model-posers/)
