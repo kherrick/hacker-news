@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 19:42:31](https://news.ycombinator.com/item?id=38437164) - [What's the hardest real-life problem you solved with GPT-4?](https://old.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
 * [2023-11-27, 18:53:56](https://news.ycombinator.com/item?id=38436516) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
 * [2023-11-27, 18:48:27](https://news.ycombinator.com/item?id=38436419) - [Broadcom lays off many VMware employees after closing acquisition of the company](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
@@ -18,9 +19,8 @@
 * [2023-11-27, 15:07:48](https://news.ycombinator.com/item?id=38433083) - [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 13:39:15](https://news.ycombinator.com/item?id=38432127) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
-* [2023-11-27, 12:54:42](https://news.ycombinator.com/item?id=38431743) - [Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
 * [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the Renaissance of Retro Hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
-* [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
+* [2023-11-27, 11:18:11](https://news.ycombinator.com/item?id=38430974) - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
 * [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother have gotten to where they are now by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-26, 20:47:04](https://news.ycombinator.com/item?id=38424890) - [Easter egg emoji: converting pixels into particles](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
