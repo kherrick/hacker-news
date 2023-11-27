@@ -19,6 +19,7 @@
 * [2023-11-26, 21:08:52](https://news.ycombinator.com/item?id=38425042) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 21:00:23](https://news.ycombinator.com/item?id=38424986) - [Svix (YC W21) Is Hiring a Tech Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-11-26, 20:54:29](https://news.ycombinator.com/item?id=38424939) - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+* [2023-11-26, 20:47:04](https://news.ycombinator.com/item?id=38424890) - [Easter egg emoji: converting pixels into particles](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
 * [2023-11-26, 20:46:23](https://news.ycombinator.com/item?id=38424880) - [FontForge](https://fontforge.org)
 * [2023-11-26, 20:27:06](https://news.ycombinator.com/item?id=38424689) - [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
 * [2023-11-26, 20:23:40](https://news.ycombinator.com/item?id=38424657) - [PCSX2 Disables Wayland Support](https://github.com/PCSX2/pcsx2/pull/10179)
