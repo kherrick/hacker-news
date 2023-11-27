@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 17:48:17](https://news.ycombinator.com/item?id=38435481) - [Organizer invents fake women speakers for DevTernity and JDKon conferences](https://twitter.com/GergelyOrosz/status/1728177708608450705?s=20)
 * [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
+* [2023-11-27, 17:05:20](https://news.ycombinator.com/item?id=38434847) - [Plex Users Fear New Feature Will Leak Porn Habits to Their Friends and Family](https://www.404media.co/plex-users-fear-discover-together-week-in-review-feature-will-leak-porn-habits-to-their-friends-and-family/)
 * [2023-11-27, 17:00:53](https://news.ycombinator.com/item?id=38434779) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
 * [2023-11-27, 16:56:50](https://news.ycombinator.com/item?id=38434713) - [Several Piracy-Related Arrests Spark Fears of High-Level Crackdown](https://torrentfreak.com/several-piracy-related-arrests-spark-fears-of-high-level-crackdown-231127/)
 * [2023-11-27, 16:50:20](https://news.ycombinator.com/item?id=38434613) - [Prettier $20k Bounty was Claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
