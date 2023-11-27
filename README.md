@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 15:19:56](https://news.ycombinator.com/item?id=38433244) - [NYC Will Sell Your Car from Under You 10 Days After It's Towed](https://www.thedrive.com/features/nyc-will-sell-your-car-from-under-you-10-days-after-its-towed)
-* [2023-11-27, 14:23:15](https://news.ycombinator.com/item?id=38432540) - [Former SF Venture Capitalist Convicted of Fraud and Money Laundering Charges](https://www.justice.gov/usao-ndca/pr/former-san-francisco-venture-capitalist-convicted-multiple-fraud-and-money-laundering)
+* [2023-11-27, 15:00:41](https://news.ycombinator.com/item?id=38432992) - [Google Maps reverse geocoding API can be a thousand miles off](https://placekit.io/blog/articles/google-maps-is-always-right-right-5919)
 * [2023-11-27, 14:15:08](https://news.ycombinator.com/item?id=38432445) - [Download all of Wikipedia on your phone](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
 * [2023-11-27, 13:56:50](https://news.ycombinator.com/item?id=38432261) - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
 * [2023-11-27, 13:40:06](https://news.ycombinator.com/item?id=38432134) - [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
@@ -12,6 +11,7 @@
 * [2023-11-27, 12:16:28](https://news.ycombinator.com/item?id=38431402) - [Wealth Systems in RPGs](https://troypress.com/wealth-systems-in-rpgs/)
 * [2023-11-27, 12:00:26](https://news.ycombinator.com/item?id=38431273) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-11-27, 11:18:11](https://news.ycombinator.com/item?id=38430974) - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
+* [2023-11-27, 10:57:42](https://news.ycombinator.com/item?id=38430831) - [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 * [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-27, 07:57:20](https://news.ycombinator.com/item?id=38429370) - [Choose the browser that best suits your privacy needs](https://tuta.com/blog/best-private-browsers)
