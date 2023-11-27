@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 17:00:53](https://news.ycombinator.com/item?id=38434779) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
 * [2023-11-27, 16:56:50](https://news.ycombinator.com/item?id=38434713) - [Several Piracy-Related Arrests Spark Fears of High-Level Crackdown](https://torrentfreak.com/several-piracy-related-arrests-spark-fears-of-high-level-crackdown-231127/)
@@ -14,6 +15,7 @@
 * [2023-11-27, 16:32:18](https://news.ycombinator.com/item?id=38434344) - [Health experts criticise new NZ government's shock reversal of smoking ban](https://www.bbc.com/news/world-asia-67540190)
 * [2023-11-27, 16:00:03](https://news.ycombinator.com/item?id=38433856) - [\"We pulled off an SEO heist with AI and stole 3.6M impressions.\"](https://mastodon.social/@gamingonlinux/111482420414024520)
 * [2023-11-27, 15:41:53](https://news.ycombinator.com/item?id=38433563) - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
+* [2023-11-27, 15:39:26](https://news.ycombinator.com/item?id=38433517) - [Poll_next](https://without.boats/blog/poll-next/)
 * [2023-11-27, 15:38:28](https://news.ycombinator.com/item?id=38433502) - [Ask HN: What photo sharing solution should we use for our destination wedding?](https://news.ycombinator.com/item?id=38433502)
 * [2023-11-27, 15:35:10](https://news.ycombinator.com/item?id=38433452) - [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
 * [2023-11-27, 15:28:04](https://news.ycombinator.com/item?id=38433358) - [Python Is Easy. Go Is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
