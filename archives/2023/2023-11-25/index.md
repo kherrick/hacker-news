@@ -63,6 +63,7 @@
 * [2023-11-25, 10:37:47](https://news.ycombinator.com/item?id=38412645) - [A Light in the Woods](https://alightinthewoods.net/)
 * [2023-11-25, 10:30:37](https://news.ycombinator.com/item?id=38412621) - [Stop using JSON Web Tokens for user sessions](https://ds-security.com/post/stop-using-jwts-for-sessions/)
 * [2023-11-25, 10:20:55](https://news.ycombinator.com/item?id=38412582) - [Darktable: Crashing into the Wall in Slow-Motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
+* [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A Yamaha DX7 on a USB Dongle](https://hackaday.com/2023/11/24/a-yamaha-dx7-on-a-usb-dongle/)
 * [2023-11-25, 09:07:52](https://news.ycombinator.com/item?id=38412297) - [Numbers Far Afield](https://mathenchant.wordpress.com/2023/11/17/numbers-far-afield/)
 * [2023-11-25, 07:59:05](https://news.ycombinator.com/item?id=38412049) - [A peculiarity of the GNU Coreutils version of 'test' and '['](https://utcc.utoronto.ca/~cks/space/blog/linux/CoreutilsTestPeculiarity)
 * [2023-11-25, 06:49:57](https://news.ycombinator.com/item?id=38411762) - [Economic Effects of State Bans on Direct Manufacturer Sales to Car Buyers [pdf]](https://www.justice.gov/sites/default/files/atr/legacy/2009/05/28/246374.pdf)

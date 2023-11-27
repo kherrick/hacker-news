@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 15:41:53](https://news.ycombinator.com/item?id=38433563) - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
+* [2023-11-27, 15:35:10](https://news.ycombinator.com/item?id=38433452) - [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
 * [2023-11-27, 15:26:44](https://news.ycombinator.com/item?id=38433330) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
+* [2023-11-27, 15:24:39](https://news.ycombinator.com/item?id=38433302) - [Ask HN: What to Do After Burnout?](https://news.ycombinator.com/item?id=38433302)
 * [2023-11-27, 15:19:56](https://news.ycombinator.com/item?id=38433244) - [NYC Will Sell Your Car from Under You 10 Days After It's Towed](https://www.thedrive.com/features/nyc-will-sell-your-car-from-under-you-10-days-after-its-towed)
 * [2023-11-27, 15:07:48](https://news.ycombinator.com/item?id=38433083) - [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 * [2023-11-27, 15:00:41](https://news.ycombinator.com/item?id=38432992) - [Google Maps reverse geocoding API can be a thousand miles off](https://placekit.io/blog/articles/google-maps-is-always-right-right-5919)
