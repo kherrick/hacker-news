@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 18:20:05](https://news.ycombinator.com/item?id=38435978) - [AI is a weapon to surpass metal gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
+* [2023-11-27, 18:20:05](https://news.ycombinator.com/item?id=38435978) - [AI is a weapon to surpass Metal Gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
+* [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 17:05:20](https://news.ycombinator.com/item?id=38434847) - [Plex Users Fear New Feature Will Leak Porn Habits to Their Friends and Family](https://www.404media.co/plex-users-fear-discover-together-week-in-review-feature-will-leak-porn-habits-to-their-friends-and-family/)
@@ -17,7 +18,6 @@
 * [2023-11-27, 15:07:48](https://news.ycombinator.com/item?id=38433083) - [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 13:39:15](https://news.ycombinator.com/item?id=38432127) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
-* [2023-11-27, 13:01:30](https://news.ycombinator.com/item?id=38431792) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:54:42](https://news.ycombinator.com/item?id=38431743) - [Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
 * [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the Renaissance of Retro Hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
 * [2023-11-27, 11:18:11](https://news.ycombinator.com/item?id=38430974) - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
