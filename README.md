@@ -4,7 +4,6 @@
 * [2023-11-27, 20:00:36](https://news.ycombinator.com/item?id=38437388) - [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
 * [2023-11-27, 19:27:58](https://news.ycombinator.com/item?id=38436975) - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
-* [2023-11-27, 18:57:28](https://news.ycombinator.com/item?id=38436579) - ['It gets scary': Neighbors say these Bay Area ghost kitchens are out of control](https://www.sfchronicle.com/food/restaurants/article/ghost-kitchens-neighbors-18483456.php)
 * [2023-11-27, 18:53:56](https://news.ycombinator.com/item?id=38436516) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
 * [2023-11-27, 18:48:27](https://news.ycombinator.com/item?id=38436419) - [Broadcom lays off many VMware employees after closing acquisition](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
@@ -12,6 +11,7 @@
 * [2023-11-27, 17:15:55](https://news.ycombinator.com/item?id=38435017) - [ed.bf: text editor in Brainfuck](https://github.com/bf-enterprise-solutions/ed.bf)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 17:00:53](https://news.ycombinator.com/item?id=38434779) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
+* [2023-11-27, 16:56:50](https://news.ycombinator.com/item?id=38434713) - [Several piracy-related arrests spark fears of high-level crackdown](https://torrentfreak.com/several-piracy-related-arrests-spark-fears-of-high-level-crackdown-231127/)
 * [2023-11-27, 16:50:20](https://news.ycombinator.com/item?id=38434613) - [$20k bounty was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 16:47:19](https://news.ycombinator.com/item?id=38434574) - [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
 * [2023-11-27, 16:41:35](https://news.ycombinator.com/item?id=38434470) - [Web Components Eliminate JavaScript Framework Lock-In](https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-lock-in/)
@@ -27,9 +27,9 @@
 * [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
 * [2023-11-26, 03:18:24](https://news.ycombinator.com/item?id=38418865) - [Signal reflections in electronic circuits](https://lcamtuf.substack.com/p/signal-reflections-in-electronic)
 * [2023-11-25, 18:04:59](https://news.ycombinator.com/item?id=38415174) - [Walter Arnold and the First Ever Speeding Ticket](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Walter-Arnold-Worlds-First-Speeding-Ticket/)
+* [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A Yamaha DX7 on a USB Dongle](https://hackaday.com/2023/11/24/a-yamaha-dx7-on-a-usb-dongle/)
 * [2023-11-25, 00:20:18](https://news.ycombinator.com/item?id=38409871) - [Honeybees cluster together when it's cold – but we've been wrong about why](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
-* [2023-11-24, 23:14:59](https://news.ycombinator.com/item?id=38409425) - [Street Fighter II, subtile accurate animation (2021)](https://fabiensanglard.net/sf2_health_bar/index.html)
 
 ## [Archives](archives/index.md)
 
