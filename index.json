@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-27, 12:54:42",
+      "https://news.ycombinator.com/item?id=38431743"
+    ],
+    [
+      "Google Drive misplaces months' worth of customer data",
+      "https://www.theregister.com/2023/11/27/google_drive_files_disappearing/"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 12:25:06",
+      "https://news.ycombinator.com/item?id=38431482"
+    ],
+    [
+      "$10M AI Mathematical Olympiad Prize",
+      "https://aimoprize.com/"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 12:05:14",
+      "https://news.ycombinator.com/item?id=38431308"
+    ],
+    [
+      "Support HTTP over Unix domain sockets",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=1688774"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 12:00:26",
       "https://news.ycombinator.com/item?id=38431273"
     ],
@@ -37,16 +67,6 @@
     [
       "Where Is OpenCV 5?",
       "https://opencv.org/blog/where-is-opencv-5/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 08:50:18",
-      "https://news.ycombinator.com/item?id=38429817"
-    ],
-    [
-      "Amazon EC2 Enhances Defense in Depth with Default IMDSv2",
-      "https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/"
     ]
   ],
   [
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2023-11-26, 19:51:54",
+      "https://news.ycombinator.com/item?id=38424390"
+    ],
+    [
+      "Marc Thorpe, Robot Wars founder, has died",
+      "https://marcthorpe.com/about/"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 19:14:52",
       "https://news.ycombinator.com/item?id=38424090"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-11-26, 18:13:55",
-      "https://news.ycombinator.com/item?id=38423623"
-    ],
-    [
-      "Oracle of Zotero: LLM QA of Your Research Library",
-      "https://github.com/Frost-group/The-Oracle-of-Zotero"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 13:31:56",
       "https://news.ycombinator.com/item?id=38421454"
     ],
@@ -197,16 +217,6 @@
     [
       "Making a font",
       "https://kokorobot.ca/site/making_a_font.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 12:28:43",
-      "https://news.ycombinator.com/item?id=38421110"
-    ],
-    [
-      "The Weird World in RGB (2019) [video]",
-      "https://www.youtube.com/watch?v=uYbdx4I7STg"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Demystifying Web Push Notifications",
       "https://pqvst.com/2023/11/21/web-push-notifications/"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 09:32:51",
-      "https://news.ycombinator.com/item?id=38402086"
-    ],
-    [
-      "Spaceship that mows the lawn",
-      "https://theinspirationallifestyle.com/the-spaceship-that-mows-the-lawn/"
     ]
   ],
   [
