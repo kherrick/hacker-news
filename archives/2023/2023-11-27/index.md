@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 18:53:56](https://news.ycombinator.com/item?id=38436516) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
+* [2023-11-27, 18:48:27](https://news.ycombinator.com/item?id=38436419) - [Broadcom lays off many VMware employees after closing acquisition of the company](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
 * [2023-11-27, 18:20:05](https://news.ycombinator.com/item?id=38435978) - [AI is a weapon to surpass metal gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
+* [2023-11-27, 17:49:13](https://news.ycombinator.com/item?id=38435505) - [Worker's death from blunt force injuries resulted in $7k fine for Amazon](https://www.businessinsider.com/amazon-worker-death-indiana-resulted-7000-fine-2023-11)
 * [2023-11-27, 17:48:17](https://news.ycombinator.com/item?id=38435481) - [Organizer invents fake women speakers for DevTernity and JDKon conferences](https://twitter.com/GergelyOrosz/status/1728177708608450705?s=20)
 * [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
+* [2023-11-27, 17:15:55](https://news.ycombinator.com/item?id=38435017) - [ed.bf: text editor in Brainfuck](https://github.com/bf-enterprise-solutions/ed.bf)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 17:05:20](https://news.ycombinator.com/item?id=38434847) - [Plex Users Fear New Feature Will Leak Porn Habits to Their Friends and Family](https://www.404media.co/plex-users-fear-discover-together-week-in-review-feature-will-leak-porn-habits-to-their-friends-and-family/)
 * [2023-11-27, 17:00:53](https://news.ycombinator.com/item?id=38434779) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
