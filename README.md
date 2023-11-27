@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 18:20:05](https://news.ycombinator.com/item?id=38435978) - [AI is a weapon to surpass Metal Gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
@@ -25,6 +24,7 @@
 * [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother have gotten to where they are now by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
+* [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [The Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 03:18:24](https://news.ycombinator.com/item?id=38418865) - [Signal reflections in electronic circuits](https://lcamtuf.substack.com/p/signal-reflections-in-electronic)
 * [2023-11-25, 18:04:59](https://news.ycombinator.com/item?id=38415174) - [Walter Arnold and the First Ever Speeding Ticket](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Walter-Arnold-Worlds-First-Speeding-Ticket/)
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A Yamaha DX7 on a USB Dongle](https://hackaday.com/2023/11/24/a-yamaha-dx7-on-a-usb-dongle/)
