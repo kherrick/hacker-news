@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 20:01:59](https://news.ycombinator.com/item?id=38437419) - [Omea: The Integrated Information Environment by JetBrains](https://www.jetbrains.com/omea/)
+* [2023-11-27, 20:02:04](https://news.ycombinator.com/item?id=38437422) - [Big brands keep dropping X over antisemitism; $75M loss, report estimates](https://arstechnica.com/tech-policy/2023/11/x-may-lose-75m-in-ad-revenue-after-antisemitic-posts-report-says/)
+* [2023-11-27, 20:00:36](https://news.ycombinator.com/item?id=38437388) - [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
 * [2023-11-27, 19:27:58](https://news.ycombinator.com/item?id=38436975) - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
 * [2023-11-27, 18:57:28](https://news.ycombinator.com/item?id=38436579) - ['It gets scary': Neighbors say these Bay Area ghost kitchens are out of control](https://www.sfchronicle.com/food/restaurants/article/ghost-kitchens-neighbors-18483456.php)
@@ -20,7 +21,6 @@
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 13:39:15](https://news.ycombinator.com/item?id=38432127) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the Renaissance of Retro Hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
-* [2023-11-27, 11:18:11](https://news.ycombinator.com/item?id=38430974) - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
 * [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother have gotten to where they are now by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-26, 20:47:04](https://news.ycombinator.com/item?id=38424890) - [Easter egg emoji: converting pixels into particles](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)

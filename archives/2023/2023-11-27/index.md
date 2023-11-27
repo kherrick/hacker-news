@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 20:02:04](https://news.ycombinator.com/item?id=38437422) - [Big brands keep dropping X over antisemitism; $75M loss, report estimates](https://arstechnica.com/tech-policy/2023/11/x-may-lose-75m-in-ad-revenue-after-antisemitic-posts-report-says/)
 * [2023-11-27, 20:01:59](https://news.ycombinator.com/item?id=38437419) - [Omea: The Integrated Information Environment by JetBrains](https://www.jetbrains.com/omea/)
+* [2023-11-27, 20:00:36](https://news.ycombinator.com/item?id=38437388) - [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
 * [2023-11-27, 19:42:31](https://news.ycombinator.com/item?id=38437164) - [What's the hardest real-life problem you solved with GPT-4?](https://old.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
 * [2023-11-27, 19:27:58](https://news.ycombinator.com/item?id=38436975) - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
