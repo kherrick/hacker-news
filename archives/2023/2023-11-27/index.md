@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 16:32:18](https://news.ycombinator.com/item?id=38434344) - [Health experts criticise new NZ government's shock reversal of smoking ban](https://www.bbc.com/news/world-asia-67540190)
+* [2023-11-27, 16:00:03](https://news.ycombinator.com/item?id=38433856) - [\"We pulled off an SEO heist with AI and stole 3.6M impressions.\"](https://mastodon.social/@gamingonlinux/111482420414024520)
 * [2023-11-27, 15:41:53](https://news.ycombinator.com/item?id=38433563) - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
 * [2023-11-27, 15:35:10](https://news.ycombinator.com/item?id=38433452) - [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
+* [2023-11-27, 15:28:04](https://news.ycombinator.com/item?id=38433358) - [Python Is Easy. Go Is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
 * [2023-11-27, 15:26:44](https://news.ycombinator.com/item?id=38433330) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 * [2023-11-27, 15:24:39](https://news.ycombinator.com/item?id=38433302) - [Ask HN: What to Do After Burnout?](https://news.ycombinator.com/item?id=38433302)
 * [2023-11-27, 15:19:56](https://news.ycombinator.com/item?id=38433244) - [NYC Will Sell Your Car from Under You 10 Days After It's Towed](https://www.thedrive.com/features/nyc-will-sell-your-car-from-under-you-10-days-after-its-towed)
@@ -21,6 +24,7 @@
 * [2023-11-27, 13:39:15](https://news.ycombinator.com/item?id=38432127) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2023-11-27, 13:01:30](https://news.ycombinator.com/item?id=38431792) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:54:42](https://news.ycombinator.com/item?id=38431743) - [Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
+* [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the Renaissance of Retro Hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
 * [2023-11-27, 12:25:06](https://news.ycombinator.com/item?id=38431482) - [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
 * [2023-11-27, 12:16:28](https://news.ycombinator.com/item?id=38431402) - [Wealth Systems in RPGs](https://troypress.com/wealth-systems-in-rpgs/)
 * [2023-11-27, 12:05:14](https://news.ycombinator.com/item?id=38431308) - [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)
