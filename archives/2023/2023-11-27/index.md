@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 22:31:45](https://news.ycombinator.com/item?id=38439386) - [Shein Files for U.S. IPO](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
 * [2023-11-27, 21:48:57](https://news.ycombinator.com/item?id=38438884) - [X Has Become a 'Global Sewer,' Mayor of Paris Says](https://www.nytimes.com/2023/11/27/business/anne-hidalgo-x-twitter.html)
 * [2023-11-27, 21:29:11](https://news.ycombinator.com/item?id=38438621) - [Range Energy's electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
+* [2023-11-27, 21:06:30](https://news.ycombinator.com/item?id=38438278) - [BYD challenges Tesla with more than 300k electric cars sold in a month](https://english.elpais.com/economy-and-business/2023-11-21/chinese-automaker-byd-goes-after-teslas-throne-with-more-than-300000-electric-cars-sold-in-a-month.html)
 * [2023-11-27, 21:05:14](https://news.ycombinator.com/item?id=38438270) - [Amazon's $195 thin clients are repurposed Fire TV Cubes](https://arstechnica.com/information-technology/2023/11/amazons-195-thin-clients-are-repurposed-fire-tv-cubes/)
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [God Help Us, Let's Try to Understand AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 20:59:51](https://news.ycombinator.com/item?id=38438202) - [Ask HN: Tutorial on LLM / already grasp neural nets](https://news.ycombinator.com/item?id=38438202)
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
 * [2023-11-27, 20:35:37](https://news.ycombinator.com/item?id=38437878) - [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
+* [2023-11-27, 20:27:21](https://news.ycombinator.com/item?id=38437773) - [Synchronize a 3D scene across multiple windows using Three.js and localStorage](https://github.com/bgstaal/multipleWindow3dScene)
 * [2023-11-27, 20:24:56](https://news.ycombinator.com/item?id=38437747) - [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
 * [2023-11-27, 20:19:21](https://news.ycombinator.com/item?id=38437666) - [Évariste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
 * [2023-11-27, 20:02:04](https://news.ycombinator.com/item?id=38437422) - [Big brands keep dropping X over antisemitism; $75M loss, report estimates](https://arstechnica.com/tech-policy/2023/11/x-may-lose-75m-in-ad-revenue-after-antisemitic-posts-report-says/)
