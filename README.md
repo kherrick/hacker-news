@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
 * [2023-11-27, 02:36:14](https://news.ycombinator.com/item?id=38427447) - [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
 * [2023-11-27, 02:18:44](https://news.ycombinator.com/item?id=38427343) - [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 * [2023-11-27, 02:13:42](https://news.ycombinator.com/item?id=38427314) - [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
@@ -14,7 +15,6 @@
 * [2023-11-26, 20:54:29](https://news.ycombinator.com/item?id=38424939) - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 * [2023-11-26, 20:46:23](https://news.ycombinator.com/item?id=38424880) - [FontForge](https://fontforge.org)
 * [2023-11-26, 20:27:06](https://news.ycombinator.com/item?id=38424689) - [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
-* [2023-11-26, 20:21:51](https://news.ycombinator.com/item?id=38424633) - [Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
 * [2023-11-26, 19:53:59](https://news.ycombinator.com/item?id=38424412) - [The history behind aspirin 81 (2019)](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
 * [2023-11-26, 19:14:52](https://news.ycombinator.com/item?id=38424090) - [Storing Data in Pointers](https://muxup.com/2023q4/storing-data-in-pointers)
 * [2023-11-26, 19:10:32](https://news.ycombinator.com/item?id=38424061) - [Noninvasive theta-burst stimulation enhances skill learning](https://www.nature.com/articles/s41593-023-01457-7)
