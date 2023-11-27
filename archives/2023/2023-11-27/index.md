@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 17:00:53](https://news.ycombinator.com/item?id=38434779) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist)
 * [2023-11-27, 16:56:50](https://news.ycombinator.com/item?id=38434713) - [Several Piracy-Related Arrests Spark Fears of High-Level Crackdown](https://torrentfreak.com/several-piracy-related-arrests-spark-fears-of-high-level-crackdown-231127/)
 * [2023-11-27, 16:50:20](https://news.ycombinator.com/item?id=38434613) - [Prettier $20k Bounty was Claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
@@ -22,6 +23,7 @@
 * [2023-11-27, 15:07:48](https://news.ycombinator.com/item?id=38433083) - [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 * [2023-11-27, 15:00:41](https://news.ycombinator.com/item?id=38432992) - [Google Maps reverse geocoding API can be a thousand miles off](https://placekit.io/blog/articles/google-maps-is-always-right-right-5919)
 * [2023-11-27, 14:23:15](https://news.ycombinator.com/item?id=38432540) - [Former SF Venture Capitalist Convicted of Fraud and Money Laundering Charges](https://www.justice.gov/usao-ndca/pr/former-san-francisco-venture-capitalist-convicted-multiple-fraud-and-money-laundering)
+* [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 14:15:26](https://news.ycombinator.com/item?id=38432451) - [Physical attractiveness and intergenerational social mobility](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13320)
 * [2023-11-27, 14:15:08](https://news.ycombinator.com/item?id=38432445) - [Download all of Wikipedia on your phone](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
 * [2023-11-27, 13:56:50](https://news.ycombinator.com/item?id=38432261) - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
