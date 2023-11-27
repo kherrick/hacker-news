@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 13:01:30](https://news.ycombinator.com/item?id=38431792) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:54:42](https://news.ycombinator.com/item?id=38431743) - [Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
 * [2023-11-27, 12:25:06](https://news.ycombinator.com/item?id=38431482) - [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
 * [2023-11-27, 12:05:14](https://news.ycombinator.com/item?id=38431308) - [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)

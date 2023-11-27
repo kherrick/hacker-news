@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 13:01:30](https://news.ycombinator.com/item?id=38431792) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:54:42](https://news.ycombinator.com/item?id=38431743) - [Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
 * [2023-11-27, 12:25:06](https://news.ycombinator.com/item?id=38431482) - [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
 * [2023-11-27, 12:05:14](https://news.ycombinator.com/item?id=38431308) - [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)
@@ -19,7 +20,6 @@
 * [2023-11-26, 21:12:39](https://news.ycombinator.com/item?id=38425067) - [Build your own hi-fi ear defenders](https://spectrum.ieee.org/hi-fi-ear-defenders)
 * [2023-11-26, 19:51:54](https://news.ycombinator.com/item?id=38424390) - [Marc Thorpe, Robot Wars founder, has died](https://marcthorpe.com/about/)
 * [2023-11-26, 19:14:52](https://news.ycombinator.com/item?id=38424090) - [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
-* [2023-11-26, 19:10:32](https://news.ycombinator.com/item?id=38424061) - [Noninvasive theta-burst stimulation enhances skill learning](https://www.nature.com/articles/s41593-023-01457-7)
 * [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [The Periodic Table of Tools](https://periodictableoftools.com/index.html)
