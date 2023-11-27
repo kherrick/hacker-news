@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-27, 00:27:17",
+      "https://news.ycombinator.com/item?id=38426677"
+    ],
+    [
+      "Studio One 6.5 is now available as public beta version for Ubuntu Linux",
+      "https://www.presonussoftware.com/en_US/blog/studio-one-6-5-for-linux"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 22:57:02",
       "https://news.ycombinator.com/item?id=38425966"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-11-26, 22:41:02",
-      "https://news.ycombinator.com/item?id=38425805"
+      "2023-11-26, 22:53:13",
+      "https://news.ycombinator.com/item?id=38425932"
     ],
     [
-      "The N.Y.P.D. Is Upgrading Its Radios. The Public Won't Be Able to Tune In.",
-      "https://www.nytimes.com/2023/11/19/nyregion/nypd-police-scanner-radio.html"
+      "The artificial glacier growing in the desert",
+      "https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "The Death of a Relic Hunter",
       "https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 21:19:24",
-      "https://news.ycombinator.com/item?id=38425114"
-    ],
-    [
-      "Yann LeCun on why AI must be open source [video]",
-      "https://www.youtube.com/watch?v=EGDG3hgPNp8"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "The history behind aspirin 81 (2019)",
       "https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 19:14:52",
-      "https://news.ycombinator.com/item?id=38424090"
-    ],
-    [
-      "Storing Data in Pointers",
-      "https://muxup.com/2023q4/storing-data-in-pointers"
     ]
   ],
   [
@@ -271,22 +261,12 @@
   ],
   [
     [
-      "2023-11-26, 10:22:12",
-      "https://news.ycombinator.com/item?id=38420555"
+      "2023-11-26, 08:36:23",
+      "https://news.ycombinator.com/item?id=38420111"
     ],
     [
-      "RFC9460: Service Binding via the DNS (SVCB and HTTPS Resource Records)",
-      "https://www.rfc-editor.org/rfc/rfc9460"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 10:21:55",
-      "https://news.ycombinator.com/item?id=38420554"
-    ],
-    [
-      "VectorDB: Vector Database Built by Kagi Search",
-      "https://vectordb.com/"
+      "They're Made Out of Meat (1991)",
+      "https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "SIIG MiniSys S286 Small Form Factor PC",
       "http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 08:04:54",
+      "https://news.ycombinator.com/item?id=38419996"
+    ],
+    [
+      "Grimoire: Open-Source bookmark manager with extra features",
+      "https://github.com/goniszewski/grimoire"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 06:37:06",
+      "https://news.ycombinator.com/item?id=38401188"
+    ],
+    [
+      "Unciv",
+      "https://github.com/yairm210/Unciv"
     ]
   ]
 ]
