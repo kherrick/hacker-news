@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 14:15:26](https://news.ycombinator.com/item?id=38432451) - [Physical attractiveness and intergenerational social mobility](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13320)
 * [2023-11-27, 13:56:50](https://news.ycombinator.com/item?id=38432261) - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
+* [2023-11-27, 13:51:05](https://news.ycombinator.com/item?id=38432211) - [Allegations of Quid Pro Quo Behavior: Satya Nadella and Sam Altman's Friendship](https://twitter.com/1hopecomingtrue/status/1729041003531923699)
 * [2023-11-27, 13:40:06](https://news.ycombinator.com/item?id=38432134) - [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
 * [2023-11-27, 13:39:15](https://news.ycombinator.com/item?id=38432127) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2023-11-27, 13:01:30](https://news.ycombinator.com/item?id=38431792) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)

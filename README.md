@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 14:15:26](https://news.ycombinator.com/item?id=38432451) - [Physical attractiveness and intergenerational social mobility](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13320)
 * [2023-11-27, 13:56:50](https://news.ycombinator.com/item?id=38432261) - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
+* [2023-11-27, 13:51:05](https://news.ycombinator.com/item?id=38432211) - [Allegations of Quid Pro Quo Behavior: Satya Nadella and Sam Altman's Friendship](https://twitter.com/1hopecomingtrue/status/1729041003531923699)
 * [2023-11-27, 13:40:06](https://news.ycombinator.com/item?id=38432134) - [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
 * [2023-11-27, 13:39:15](https://news.ycombinator.com/item?id=38432127) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2023-11-27, 13:01:30](https://news.ycombinator.com/item?id=38431792) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
@@ -18,8 +20,6 @@
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
 * [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
 * [2023-11-26, 22:53:13](https://news.ycombinator.com/item?id=38425932) - [Artificial glacier growing in the desert (2017)](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
-* [2023-11-26, 22:51:19](https://news.ycombinator.com/item?id=38425907) - [Get started with technical writing](https://opensource.net/get-started-with-technical-writing/)
-* [2023-11-26, 22:23:43](https://news.ycombinator.com/item?id=38425654) - [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
 * [2023-11-26, 19:51:54](https://news.ycombinator.com/item?id=38424390) - [Marc Thorpe, Robot Wars founder, has died](https://marcthorpe.com/about/)
 * [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
