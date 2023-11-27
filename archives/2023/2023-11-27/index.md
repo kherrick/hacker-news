@@ -11,6 +11,7 @@
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
 * [2023-11-27, 20:35:37](https://news.ycombinator.com/item?id=38437878) - [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
 * [2023-11-27, 20:24:56](https://news.ycombinator.com/item?id=38437747) - [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
+* [2023-11-27, 20:19:21](https://news.ycombinator.com/item?id=38437666) - [Évariste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
 * [2023-11-27, 20:02:04](https://news.ycombinator.com/item?id=38437422) - [Big brands keep dropping X over antisemitism; $75M loss, report estimates](https://arstechnica.com/tech-policy/2023/11/x-may-lose-75m-in-ad-revenue-after-antisemitic-posts-report-says/)
 * [2023-11-27, 20:01:59](https://news.ycombinator.com/item?id=38437419) - [Omea: The Integrated Information Environment by JetBrains](https://www.jetbrains.com/omea/)
 * [2023-11-27, 20:00:36](https://news.ycombinator.com/item?id=38437388) - [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
