@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-27, 02:36:14](https://news.ycombinator.com/item?id=38427447) - [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
+* [2023-11-27, 02:18:44](https://news.ycombinator.com/item?id=38427343) - [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 * [2023-11-27, 02:13:42](https://news.ycombinator.com/item?id=38427314) - [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
 * [2023-11-27, 01:56:13](https://news.ycombinator.com/item?id=38427213) - [World’s biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
 * [2023-11-27, 01:02:24](https://news.ycombinator.com/item?id=38426899) - [Htmx Webring](https://htmx.org/webring/)
@@ -26,7 +27,6 @@
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
-* [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [The key to mother and child well-being may be many caregivers](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
 * [2023-11-26, 08:34:34](https://news.ycombinator.com/item?id=38420107) - [Freezing in Style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-26, 08:06:21](https://news.ycombinator.com/item?id=38420004) - [SIIG MiniSys S286 Small Form Factor PC](http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286)
 * [2023-11-24, 06:37:06](https://news.ycombinator.com/item?id=38401188) - [Unciv](https://github.com/yairm210/Unciv)
