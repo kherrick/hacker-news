@@ -29,7 +29,7 @@
 * [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
 * [2023-11-25, 16:01:22](https://news.ycombinator.com/item?id=38414303) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A Yamaha DX7 on a USB Dongle](https://hackaday.com/2023/11/24/a-yamaha-dx7-on-a-usb-dongle/)
-* [2023-11-25, 00:20:18](https://news.ycombinator.com/item?id=38409871) - [Honeybees cluster together when it's cold – but we've been wrong about why](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
+* [2023-11-25, 00:20:18](https://news.ycombinator.com/item?id=38409871) - [Honeybee clustering when it's cold is a distress behavior: study](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
 
 ## [Archives](archives/index.md)
 
