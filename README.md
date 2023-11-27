@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 04:29:51](https://news.ycombinator.com/item?id=38428053) - [Any Users of Dropbox Dash? Beginning of Personal LLMs?](https://www.dropbox.com/dash)
+* [2023-11-27, 04:58:24](https://news.ycombinator.com/item?id=38428249) - [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
+* [2023-11-27, 04:46:15](https://news.ycombinator.com/item?id=38428169) - [Housing wealth is meaningless, destructive and fundamentally changing society](https://www.theguardian.com/australia-news/2023/nov/27/australian-housing-wealth-is-meaningless-destructive-and-fundamentally-changing-our-society)
 * [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive has lost user data](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 * [2023-11-27, 03:48:44](https://news.ycombinator.com/item?id=38427818) - [College Sports Need Their Tax-Exempt Status Revoked](https://www.bloomberg.com/opinion/articles/2023-11-25/jimbo-fisher-is-why-college-sports-need-to-lose-tax-exemption-status)
 * [2023-11-27, 03:41:31](https://news.ycombinator.com/item?id=38427781) - [AWS debuts Amazon WorkSpaces Thin Client device for virtual desktop access](https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/)
@@ -21,7 +22,6 @@
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:13:55](https://news.ycombinator.com/item?id=38423623) - [Oracle of Zotero: LLM QA of Your Research Library](https://github.com/Frost-group/The-Oracle-of-Zotero)
 * [2023-11-26, 17:12:49](https://news.ycombinator.com/item?id=38423167) - [Ask HN: What was the outcome of Reddit blackout?](https://news.ycombinator.com/item?id=38423167)
-* [2023-11-26, 16:03:03](https://news.ycombinator.com/item?id=38422594) - [OpenWrt: Smartphone USB Tethering](https://openwrt.org/docs/guide-user/network/wan/smartphone.usb.tethering)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
