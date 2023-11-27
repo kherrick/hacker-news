@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-27, 12:00:26",
+      "https://news.ycombinator.com/item?id=38431273"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring Engineers",
+      "https://onesignal.com/careers"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 11:43:10",
+      "https://news.ycombinator.com/item?id=38431147"
+    ],
+    [
+      "Tesla sues Swedish state agency over number plate blockage",
+      "https://www.thelocal.se/20231127/tesla-sues-swedish-transport-agency-over-number-plate-blockage"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 11:26:42",
+      "https://news.ycombinator.com/item?id=38431042"
+    ],
+    [
+      "German Autobahn speed limit would bring €1bn in benefits",
+      "https://www.carbonbrief.org/autobahn-speed-limit-would-cut-carbon-and-bring-e1bn-in-benefits-study-says/"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 11:18:11",
       "https://news.ycombinator.com/item?id=38430974"
     ],
@@ -26,7 +56,7 @@
     ],
     [
       "Where Is OpenCV 5?",
-      "https://opencv.org/blog/2023/10/03/where-is-opencv-5/"
+      "https://opencv.org/blog/where-is-opencv-5/"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38429370"
     ],
     [
-      "Why bother with uBlock being blocked in Chrome? Time to switch to Firefox",
+      "Choose the browser that best suits your privacy needs",
       "https://tuta.com/blog/best-private-browsers"
     ]
   ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2023-11-26, 21:00:23",
-      "https://news.ycombinator.com/item?id=38424986"
-    ],
-    [
-      "Svix (YC W21) Is Hiring a Tech Lead (US Remote)",
-      "https://www.svix.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 20:54:29",
-      "https://news.ycombinator.com/item?id=38424939"
-    ],
-    [
-      "Understanding Deep Learning",
-      "https://udlbook.github.io/udlbook/"
-    ]
-  ],
-  [
-    [
       "2023-11-26, 19:14:52",
       "https://news.ycombinator.com/item?id=38424090"
     ],
@@ -171,22 +181,12 @@
   ],
   [
     [
-      "2023-11-26, 19:10:32",
-      "https://news.ycombinator.com/item?id=38424061"
+      "2023-11-26, 13:31:56",
+      "https://news.ycombinator.com/item?id=38421454"
     ],
     [
-      "Noninvasive theta-burst stimulation enhances skill learning",
-      "https://www.nature.com/articles/s41593-023-01457-7"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 18:13:55",
-      "https://news.ycombinator.com/item?id=38423623"
-    ],
-    [
-      "Oracle of Zotero: LLM QA of Your Research Library",
-      "https://github.com/Frost-group/The-Oracle-of-Zotero"
+      "The Weight of New York City: Subsidence from Anthropogenic Sources",
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38418865"
     ],
     [
-      "Signal Reflections in Electronic Circuits",
+      "Signal reflections in electronic circuits",
       "https://lcamtuf.substack.com/p/signal-reflections-in-electronic"
     ]
   ],
