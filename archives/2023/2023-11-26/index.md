@@ -24,6 +24,7 @@
 * [2023-11-26, 20:23:40](https://news.ycombinator.com/item?id=38424657) - [PCSX2 Disables Wayland Support](https://github.com/PCSX2/pcsx2/pull/10179)
 * [2023-11-26, 20:21:51](https://news.ycombinator.com/item?id=38424633) - [Ripgrep 14 Released](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
 * [2023-11-26, 19:53:59](https://news.ycombinator.com/item?id=38424412) - [The history behind aspirin 81](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
+* [2023-11-26, 19:51:54](https://news.ycombinator.com/item?id=38424390) - [Marc Thorpe, Robot Wars founder, has died](https://marcthorpe.com/about/)
 * [2023-11-26, 19:46:18](https://news.ycombinator.com/item?id=38424346) - [HP says I should have known its £399 laptop bargain was too good to be true](https://www.theguardian.com/money/2023/nov/23/hp-says-i-should-have-known-its-399-laptop-bargain-was-too-good-to-be-true)
 * [2023-11-26, 19:14:52](https://news.ycombinator.com/item?id=38424090) - [Storing Data in Pointers](https://muxup.com/2023q4/storing-data-in-pointers)
 * [2023-11-26, 19:10:32](https://news.ycombinator.com/item?id=38424061) - [Noninvasive theta-burst stimulation enhances skill learning](https://www.nature.com/articles/s41593-023-01457-7)
