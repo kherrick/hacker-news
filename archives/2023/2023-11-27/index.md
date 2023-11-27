@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
 * [2023-11-27, 04:58:24](https://news.ycombinator.com/item?id=38428249) - [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
+* [2023-11-27, 04:55:20](https://news.ycombinator.com/item?id=38428225) - [Dive into Deep Learning: Interactive deep learning book with codes and maths](https://d2l.ai/)
 * [2023-11-27, 04:46:15](https://news.ycombinator.com/item?id=38428169) - [Housing wealth is meaningless, destructive and fundamentally changing society](https://www.theguardian.com/australia-news/2023/nov/27/australian-housing-wealth-is-meaningless-destructive-and-fundamentally-changing-our-society)
 * [2023-11-27, 04:29:51](https://news.ycombinator.com/item?id=38428053) - [Any Users of Dropbox Dash? Beginning of Personal LLMs?](https://www.dropbox.com/dash)
 * [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive has lost user data](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)

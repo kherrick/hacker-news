@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-27, 04:58:24](https://news.ycombinator.com/item?id=38428249) - [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
+* [2023-11-27, 04:55:20](https://news.ycombinator.com/item?id=38428225) - [Dive into Deep Learning: Interactive deep learning book with codes and maths](https://d2l.ai/)
 * [2023-11-27, 04:46:15](https://news.ycombinator.com/item?id=38428169) - [Housing wealth is meaningless, destructive and fundamentally changing society](https://www.theguardian.com/australia-news/2023/nov/27/australian-housing-wealth-is-meaningless-destructive-and-fundamentally-changing-our-society)
 * [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive has lost user data](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 * [2023-11-27, 03:48:44](https://news.ycombinator.com/item?id=38427818) - [College Sports Need Their Tax-Exempt Status Revoked](https://www.bloomberg.com/opinion/articles/2023-11-25/jimbo-fisher-is-why-college-sports-need-to-lose-tax-exemption-status)
@@ -8,7 +9,6 @@
 * [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
 * [2023-11-27, 02:18:44](https://news.ycombinator.com/item?id=38427343) - [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 * [2023-11-27, 02:13:42](https://news.ycombinator.com/item?id=38427314) - [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
-* [2023-11-27, 01:56:13](https://news.ycombinator.com/item?id=38427213) - [World’s biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
 * [2023-11-27, 01:24:21](https://news.ycombinator.com/item?id=38427034) - [Spaced repetition for teaching two-year olds how to read](https://chipmonk.substack.com/p/spaced-repetition-for-teaching-two)
 * [2023-11-26, 22:53:13](https://news.ycombinator.com/item?id=38425932) - [An artificial glacier growing in the desert (2017)](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
 * [2023-11-26, 22:51:19](https://news.ycombinator.com/item?id=38425907) - [Getting Started with Technical Writing](https://opensource.net/get-started-with-technical-writing/)
