@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 17:48:17](https://news.ycombinator.com/item?id=38435481) - [Organizer invents fake women speakers for DevTernity and JDKon conferences](https://twitter.com/GergelyOrosz/status/1728177708608450705?s=20)
+* [2023-11-27, 18:20:05](https://news.ycombinator.com/item?id=38435978) - [AI is a weapon to surpass metal gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
 * [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 17:05:20](https://news.ycombinator.com/item?id=38434847) - [Plex Users Fear New Feature Will Leak Porn Habits to Their Friends and Family](https://www.404media.co/plex-users-fear-discover-together-week-in-review-feature-will-leak-porn-habits-to-their-friends-and-family/)
@@ -12,7 +12,6 @@
 * [2023-11-27, 16:39:58](https://news.ycombinator.com/item?id=38434450) - [Meta Designed Products to Capitalize on Teen Vulnerabilities, States Allege](https://www.wsj.com/business/media/meta-designed-products-to-capitalize-on-teen-vulnerabilities-states-allege-6791dad5)
 * [2023-11-27, 15:41:53](https://news.ycombinator.com/item?id=38433563) - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
 * [2023-11-27, 15:39:26](https://news.ycombinator.com/item?id=38433517) - [Poll_next](https://without.boats/blog/poll-next/)
-* [2023-11-27, 15:35:10](https://news.ycombinator.com/item?id=38433452) - [AirJet makes a MacBook Air perform like a MacBook Pro](https://www.macworld.com/article/2150862/airjet-makes-a-macbook-air-perform-like-a-macbook-pro.html)
 * [2023-11-27, 15:28:04](https://news.ycombinator.com/item?id=38433358) - [Python Is Easy. Go Is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
 * [2023-11-27, 15:26:44](https://news.ycombinator.com/item?id=38433330) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 * [2023-11-27, 15:07:48](https://news.ycombinator.com/item?id=38433083) - [Favorite Database T-Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
@@ -27,6 +26,7 @@
 * [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother have gotten to where they are now by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
 * [2023-11-26, 03:18:24](https://news.ycombinator.com/item?id=38418865) - [Signal reflections in electronic circuits](https://lcamtuf.substack.com/p/signal-reflections-in-electronic)
+* [2023-11-25, 18:04:59](https://news.ycombinator.com/item?id=38415174) - [Walter Arnold and the First Ever Speeding Ticket](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Walter-Arnold-Worlds-First-Speeding-Ticket/)
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A Yamaha DX7 on a USB Dongle](https://hackaday.com/2023/11/24/a-yamaha-dx7-on-a-usb-dongle/)
 * [2023-11-25, 00:20:18](https://news.ycombinator.com/item?id=38409871) - [Honeybees cluster together when it's cold – but we've been wrong about why](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
 * [2023-11-24, 23:14:59](https://news.ycombinator.com/item?id=38409425) - [Street Fighter II, subtile accurate animation (2021)](https://fabiensanglard.net/sf2_health_bar/index.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 18:20:05](https://news.ycombinator.com/item?id=38435978) - [AI is a weapon to surpass metal gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
 * [2023-11-27, 17:48:17](https://news.ycombinator.com/item?id=38435481) - [Organizer invents fake women speakers for DevTernity and JDKon conferences](https://twitter.com/GergelyOrosz/status/1728177708608450705?s=20)
 * [2023-11-27, 17:26:14](https://news.ycombinator.com/item?id=38435145) - [Pinecone Open-Sources AWS Reference Architecture with Pulumi](https://www.pinecone.io/blog/aws-reference-architecture/)
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)

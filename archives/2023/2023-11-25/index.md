@@ -34,6 +34,7 @@
 * [2023-11-25, 18:14:05](https://news.ycombinator.com/item?id=38415252) - [The Dunning-Kruger Effect Is Autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 * [2023-11-25, 18:10:44](https://news.ycombinator.com/item?id=38415219) - [AI Art Generators Can Be Fooled into Making NSFW Images](https://spectrum.ieee.org/dall-e)
 * [2023-11-25, 18:08:32](https://news.ycombinator.com/item?id=38415207) - [Korean Smartphones Have Mandatory Shutter Sounds, 8 in 10 Want It Muted](https://petapixel.com/2023/11/06/korean-smartphones-have-mandatory-shutter-sounds-8-in-10-want-it-muted/)
+* [2023-11-25, 18:04:59](https://news.ycombinator.com/item?id=38415174) - [Walter Arnold and the First Ever Speeding Ticket](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Walter-Arnold-Worlds-First-Speeding-Ticket/)
 * [2023-11-25, 17:35:02](https://news.ycombinator.com/item?id=38414958) - [XPAK 400](https://kustomrama.com/wiki/XPAK_400)
 * [2023-11-25, 17:30:06](https://news.ycombinator.com/item?id=38414914) - [Sqids – Generate Short Unique IDs from Numbers](https://sqids.org/)
 * [2023-11-25, 17:21:06](https://news.ycombinator.com/item?id=38414841) - [New Wave Sci-Fi: 75 Best Novels of 1964–1983](https://www.hilobrow.com/new-wave-sci-fi/)
