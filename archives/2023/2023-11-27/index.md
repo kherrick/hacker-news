@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 08:50:18](https://news.ycombinator.com/item?id=38429817) - [Amazon EC2 Enhances Defense in Depth with Default IMDSv2](https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/)
+* [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-27, 07:57:20](https://news.ycombinator.com/item?id=38429370) - [Why Bother with uBlock Being Blocked in Chrome? Time to Switch to Firefox](https://tuta.com/blog/best-private-browsers)
 * [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
