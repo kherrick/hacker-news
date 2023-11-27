@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-27, 23:06:04](https://news.ycombinator.com/item?id=38439817) - [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
+* [2023-11-27, 23:04:15](https://news.ycombinator.com/item?id=38439794) - [Male Tech Conference Founder Is Behind Popular Woman Coding Influencer Account](https://www.404media.co/coding-unicorn-instagram-julia-kirsina-devternity/)
 * [2023-11-27, 22:31:45](https://news.ycombinator.com/item?id=38439386) - [Shein Files for U.S. IPO](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
-* [2023-11-27, 22:05:25](https://news.ycombinator.com/item?id=38439082) - [Cory Doctorow: The real AI fight](https://pluralistic.net/2023/11/27/10-types-of-people/#taking-up-a-lot-of-space)
 * [2023-11-27, 21:29:11](https://news.ycombinator.com/item?id=38438621) - [Range Energy's electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
 * [2023-11-27, 21:06:30](https://news.ycombinator.com/item?id=38438278) - [BYD challenges Tesla with more than 300k electric cars sold in a month](https://english.elpais.com/economy-and-business/2023-11-21/chinese-automaker-byd-goes-after-teslas-throne-with-more-than-300000-electric-cars-sold-in-a-month.html)
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
@@ -20,7 +20,6 @@
 * [2023-11-27, 16:47:19](https://news.ycombinator.com/item?id=38434574) - [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
 * [2023-11-27, 15:07:48](https://news.ycombinator.com/item?id=38433083) - [My favorite database shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
-* [2023-11-27, 13:39:15](https://news.ycombinator.com/item?id=38432127) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the renaissance of retro hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
 * [2023-11-26, 20:47:04](https://news.ycombinator.com/item?id=38424890) - [Easter egg emoji: converting pixels into particles](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
 * [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
@@ -28,6 +27,7 @@
 * [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
 * [2023-11-25, 16:01:22](https://news.ycombinator.com/item?id=38414303) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A DX7 USB Dongle](https://diyelectromusic.wordpress.com/2023/11/22/a-dx7-usb-dongle/)
+* [2023-11-25, 03:54:03](https://news.ycombinator.com/item?id=38411039) - [Parenting Off-Balance](https://benexdict.io/p/parenting-off-balance)
 * [2023-11-25, 01:34:41](https://news.ycombinator.com/item?id=38410281) - [The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
 * [2023-11-25, 00:20:18](https://news.ycombinator.com/item?id=38409871) - [Honeybee clustering when it's cold is a distress behavior: study](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
 

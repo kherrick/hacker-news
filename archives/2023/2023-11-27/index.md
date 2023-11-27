@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
 * [2023-11-27, 23:06:04](https://news.ycombinator.com/item?id=38439817) - [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
+* [2023-11-27, 23:04:15](https://news.ycombinator.com/item?id=38439794) - [Male Tech Conference Founder Is Behind Popular Woman Coding Influencer Account](https://www.404media.co/coding-unicorn-instagram-julia-kirsina-devternity/)
 * [2023-11-27, 22:31:45](https://news.ycombinator.com/item?id=38439386) - [Shein Files for U.S. IPO](https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html)
 * [2023-11-27, 22:05:25](https://news.ycombinator.com/item?id=38439082) - [Cory Doctorow: The real AI fight](https://pluralistic.net/2023/11/27/10-types-of-people/#taking-up-a-lot-of-space)
 * [2023-11-27, 21:48:57](https://news.ycombinator.com/item?id=38438884) - [X Has Become a 'Global Sewer,' Mayor of Paris Says](https://www.nytimes.com/2023/11/27/business/anne-hidalgo-x-twitter.html)

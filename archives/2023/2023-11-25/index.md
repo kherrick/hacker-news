@@ -79,6 +79,7 @@
 * [2023-11-25, 04:58:49](https://news.ycombinator.com/item?id=38411326) - [Your Brain on Books](https://www.publicbooks.org/this-is-your-brain-on-books/)
 * [2023-11-25, 04:11:37](https://news.ycombinator.com/item?id=38411105) - [Tesla Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
 * [2023-11-25, 04:07:42](https://news.ycombinator.com/item?id=38411089) - [Ask HN: Has your YouTube usage decreased?](https://news.ycombinator.com/item?id=38411089)
+* [2023-11-25, 03:54:03](https://news.ycombinator.com/item?id=38411039) - [Parenting Off-Balance](https://benexdict.io/p/parenting-off-balance)
 * [2023-11-25, 03:44:41](https://news.ycombinator.com/item?id=38411005) - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 * [2023-11-25, 03:42:42](https://news.ycombinator.com/item?id=38410987) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-25, 03:37:25](https://news.ycombinator.com/item?id=38410966) - [Why does a random content farm control youtube.com/playlists?](https://lincoln.swaine-moore.is/writing-about/a-weird-redirect)
