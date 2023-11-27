@@ -5,28 +5,8 @@
       "https://news.ycombinator.com/item?id=38428301"
     ],
     [
-      "Orca-2-13B Runs Directly on Rust+WASM – No Python/C++ Hassles",
+      "Getting Started with Orca-2-13B",
       "https://www.secondstate.io/articles/orca-2-13b/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 04:55:20",
-      "https://news.ycombinator.com/item?id=38428225"
-    ],
-    [
-      "Dive into Deep Learning: Interactive deep learning book with codes and maths",
-      "https://d2l.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 04:46:15",
-      "https://news.ycombinator.com/item?id=38428169"
-    ],
-    [
-      "Housing wealth is meaningless, destructive and fundamentally changing society",
-      "https://www.theguardian.com/australia-news/2023/nov/27/australian-housing-wealth-is-meaningless-destructive-and-fundamentally-changing-our-society"
     ]
   ],
   [
@@ -35,28 +15,8 @@
       "https://news.ycombinator.com/item?id=38427864"
     ],
     [
-      "Google Drive has lost user data",
+      "Google Drive files suddenly disappeared",
       "https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 03:48:44",
-      "https://news.ycombinator.com/item?id=38427818"
-    ],
-    [
-      "College Sports Need Their Tax-Exempt Status Revoked",
-      "https://www.bloomberg.com/opinion/articles/2023-11-25/jimbo-fisher-is-why-college-sports-need-to-lose-tax-exemption-status"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 03:41:31",
-      "https://news.ycombinator.com/item?id=38427781"
-    ],
-    [
-      "AWS debuts Amazon WorkSpaces Thin Client device for virtual desktop access",
-      "https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/"
     ]
   ],
   [
@@ -71,32 +31,32 @@
   ],
   [
     [
+      "2023-11-27, 02:36:14",
+      "https://news.ycombinator.com/item?id=38427447"
+    ],
+    [
+      "Pixel 8 Pro owners complain about display bumps",
+      "https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 02:18:44",
       "https://news.ycombinator.com/item?id=38427343"
     ],
     [
-      "LaTeX Talks from the Tug Conference 2023 in Bonn",
+      "Talks from the TUG Conference 2023 in Bonn",
       "https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/"
     ]
   ],
   [
     [
-      "2023-11-27, 02:13:42",
-      "https://news.ycombinator.com/item?id=38427314"
+      "2023-11-27, 01:24:21",
+      "https://news.ycombinator.com/item?id=38427034"
     ],
     [
-      "Amazon EFS now supports up to 250k IOPS per file system",
-      "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 02:08:29",
-      "https://news.ycombinator.com/item?id=38427287"
-    ],
-    [
-      "Kongsberg, Norway and Germany to Develop New \"Super Missile\"",
-      "https://defence-industry.eu/kongsberg-norway-and-germany-to-develop-new-super-missile/"
+      "Spaced repetition for teaching two-year olds how to read",
+      "https://chipmonk.substack.com/p/spaced-repetition-for-teaching-two"
     ]
   ],
   [
@@ -105,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38425932"
     ],
     [
-      "An artificial glacier growing in the desert (2017)",
+      "Artificial glacier growing in the desert (2017)",
       "https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html"
     ]
   ],
@@ -115,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38425907"
     ],
     [
-      "Getting Started with Technical Writing",
+      "Get started with technical writing",
       "https://opensource.net/get-started-with-technical-writing/"
     ]
   ],
@@ -161,6 +121,16 @@
   ],
   [
     [
+      "2023-11-26, 20:46:23",
+      "https://news.ycombinator.com/item?id=38424880"
+    ],
+    [
+      "FontForge",
+      "https://fontforge.org"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 20:27:06",
       "https://news.ycombinator.com/item?id=38424689"
     ],
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38424412"
     ],
     [
-      "The history behind aspirin 81 (2019)",
+      "Aspirin 81 (2019)",
       "https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/"
     ]
   ],
@@ -185,7 +155,7 @@
       "https://news.ycombinator.com/item?id=38424090"
     ],
     [
-      "Storing Data in Pointers",
+      "Storing data in pointers",
       "https://muxup.com/2023q4/storing-data-in-pointers"
     ]
   ],
@@ -231,6 +201,16 @@
   ],
   [
     [
+      "2023-11-26, 16:03:03",
+      "https://news.ycombinator.com/item?id=38422594"
+    ],
+    [
+      "OpenWrt: Smartphone USB Tethering",
+      "https://openwrt.org/docs/guide-user/network/wan/smartphone.usb.tethering"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 15:35:29",
       "https://news.ycombinator.com/item?id=38422360"
     ],
@@ -251,11 +231,31 @@
   ],
   [
     [
+      "2023-11-26, 12:14:27",
+      "https://news.ycombinator.com/item?id=38421044"
+    ],
+    [
+      "The Periodic Table of Tools",
+      "https://periodictableoftools.com/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 11:44:05",
+      "https://news.ycombinator.com/item?id=38420892"
+    ],
+    [
+      "The key to mother and child well-being may be many caregivers",
+      "https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 08:34:34",
       "https://news.ycombinator.com/item?id=38420107"
     ],
     [
-      "Freezing in Style",
+      "Freezing in style",
       "https://blog.broulik.de/2023/11/freezing-in-style/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38419890"
     ],
     [
-      "Different Strokes for Different Folks",
+      "Emacs and the mouse: A modest defense of the rodent",
       "https://karthinks.com/software/different-strokes-for-different-folks/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38402086"
     ],
     [
-      "The spaceship that mows the lawn",
+      "Spaceship that mows the lawn",
       "https://theinspirationallifestyle.com/the-spaceship-that-mows-the-lawn/"
     ]
   ],
