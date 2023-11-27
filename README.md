@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
-* [2023-11-27, 06:36:47](https://news.ycombinator.com/item?id=38428957) - [Show HN: I built a guided Build your own DNS Server challenge](https://app.codecrafters.io/courses/dns-server/overview)
 * [2023-11-27, 05:07:33](https://news.ycombinator.com/item?id=38428301) - [Getting Started with Orca-2-13B](https://www.secondstate.io/articles/orca-2-13b/)
 * [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive files suddenly disappeared](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 * [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
-* [2023-11-27, 02:36:14](https://news.ycombinator.com/item?id=38427447) - [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)
 * [2023-11-27, 02:18:44](https://news.ycombinator.com/item?id=38427343) - [Talks from the TUG Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 * [2023-11-26, 22:53:13](https://news.ycombinator.com/item?id=38425932) - [Artificial glacier growing in the desert (2017)](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
 * [2023-11-26, 22:51:19](https://news.ycombinator.com/item?id=38425907) - [Get started with technical writing](https://opensource.net/get-started-with-technical-writing/)
@@ -28,6 +27,7 @@
 * [2023-11-26, 08:34:34](https://news.ycombinator.com/item?id=38420107) - [Freezing in style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-26, 08:06:21](https://news.ycombinator.com/item?id=38420004) - [SIIG MiniSys S286 Small Form Factor PC](http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286)
 * [2023-11-26, 07:36:19](https://news.ycombinator.com/item?id=38419890) - [Emacs and the mouse: A modest defense of the rodent](https://karthinks.com/software/different-strokes-for-different-folks/)
+* [2023-11-24, 10:19:38](https://news.ycombinator.com/item?id=38402368) - [Demystifying Web Push Notifications](https://pqvst.com/2023/11/21/web-push-notifications/)
 * [2023-11-24, 09:32:51](https://news.ycombinator.com/item?id=38402086) - [Spaceship that mows the lawn](https://theinspirationallifestyle.com/the-spaceship-that-mows-the-lawn/)
 * [2023-11-24, 06:37:06](https://news.ycombinator.com/item?id=38401188) - [Unciv](https://github.com/yairm210/Unciv)
 

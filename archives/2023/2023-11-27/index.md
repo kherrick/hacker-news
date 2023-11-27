@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
 * [2023-11-27, 06:36:47](https://news.ycombinator.com/item?id=38428957) - [Show HN: I built a guided Build your own DNS Server challenge](https://app.codecrafters.io/courses/dns-server/overview)
 * [2023-11-27, 05:07:33](https://news.ycombinator.com/item?id=38428301) - [Orca-2-13B Runs Directly on Rust+WASM – No Python/C++ Hassles](https://www.secondstate.io/articles/orca-2-13b/)

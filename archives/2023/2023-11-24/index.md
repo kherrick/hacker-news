@@ -84,6 +84,7 @@
 * [2023-11-24, 10:46:49](https://news.ycombinator.com/item?id=38402586) - [The Feds' Vehicle 'Kill Switch' Mandate Is a Gross Violation of Privacy](https://fee.org/articles/the-feds-vehicle-kill-switch-mandate-is-a-gross-and-dangerous-violation-of-privacy/)
 * [2023-11-24, 10:38:36](https://news.ycombinator.com/item?id=38402515) - [The Failed Commodification of Technical Work](https://ludic.mataroa.blog/blog/the-failed-commodification-of-technical-work/)
 * [2023-11-24, 10:23:23](https://news.ycombinator.com/item?id=38402384) - [Gprobe](https://zeromips.org/posts/2023-11-18-gprobe/)
+* [2023-11-24, 10:19:38](https://news.ycombinator.com/item?id=38402368) - [Demystifying Web Push Notifications](https://pqvst.com/2023/11/21/web-push-notifications/)
 * [2023-11-24, 10:18:00](https://news.ycombinator.com/item?id=38402361) - [PHP 8.3](https://www.php.net/releases/8.3/en.php)
 * [2023-11-24, 10:10:12](https://news.ycombinator.com/item?id=38402313) - ['What the heck is going on?' High-energy particle falling to Earth](https://www.theguardian.com/science/2023/nov/24/amaterasu-extremely-high-energy-particle-detected-falling-to-earth)
 * [2023-11-24, 10:05:53](https://news.ycombinator.com/item?id=38402289) - [Securely Chaining WiFi Routers (2022)](https://www.supernetworks.org/pages/blog/secure%20router%20chaining)
