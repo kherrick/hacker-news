@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 11:18:11](https://news.ycombinator.com/item?id=38430974) - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
 * [2023-11-27, 10:57:42](https://news.ycombinator.com/item?id=38430831) - [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
 * [2023-11-27, 09:35:31](https://news.ycombinator.com/item?id=38430232) - [Switzerland agrees to export 25 Panzer 87 tanks to Germany](https://www.armyrecognition.com/defense_news_november_2023_global_security_army_industry/switzerland_agrees_to_export_25_panzer_87_tanks_to_germany.html)
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/2023/10/03/where-is-opencv-5/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 11:18:11](https://news.ycombinator.com/item?id=38430974) - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
 * [2023-11-27, 10:57:42](https://news.ycombinator.com/item?id=38430831) - [Ransomware-hit British Library: Too open for business, or not open enough?](https://www.theregister.com/2023/11/27/british_library_opinion_column/)
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/2023/10/03/where-is-opencv-5/)
 * [2023-11-27, 08:50:18](https://news.ycombinator.com/item?id=38429817) - [Amazon EC2 Enhances Defense in Depth with Default IMDSv2](https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/)
@@ -7,7 +8,6 @@
 * [2023-11-27, 07:57:20](https://news.ycombinator.com/item?id=38429370) - [Why bother with uBlock being blocked in Chrome? Time to switch to Firefox](https://tuta.com/blog/best-private-browsers)
 * [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother have gotten to where they are now, by not innovating](https://retro.social/@ifixcoinops/111480744130939877)
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
-* [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive files suddenly disappeared](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 * [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
 * [2023-11-27, 02:18:44](https://news.ycombinator.com/item?id=38427343) - [Talks from the TUG Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 * [2023-11-26, 22:53:13](https://news.ycombinator.com/item?id=38425932) - [Artificial glacier growing in the desert (2017)](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
