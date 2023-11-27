@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 20:35:37](https://news.ycombinator.com/item?id=38437878) - [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
 * [2023-11-27, 20:24:56](https://news.ycombinator.com/item?id=38437747) - [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
 * [2023-11-27, 20:02:04](https://news.ycombinator.com/item?id=38437422) - [Big brands keep dropping X over antisemitism; $75M loss, report estimates](https://arstechnica.com/tech-policy/2023/11/x-may-lose-75m-in-ad-revenue-after-antisemitic-posts-report-says/)
 * [2023-11-27, 20:01:59](https://news.ycombinator.com/item?id=38437419) - [Omea: The Integrated Information Environment by JetBrains](https://www.jetbrains.com/omea/)
@@ -11,6 +12,7 @@
 * [2023-11-27, 19:42:31](https://news.ycombinator.com/item?id=38437164) - [What's the hardest real-life problem you solved with GPT-4?](https://old.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
 * [2023-11-27, 19:27:58](https://news.ycombinator.com/item?id=38436975) - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
+* [2023-11-27, 18:58:14](https://news.ycombinator.com/item?id=38436588) - [Covid-19 3rd leading cause of death among Canadians in 2022](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1310039401)
 * [2023-11-27, 18:57:28](https://news.ycombinator.com/item?id=38436579) - ['It gets scary': Neighbors say these Bay Area ghost kitchens are out of control](https://www.sfchronicle.com/food/restaurants/article/ghost-kitchens-neighbors-18483456.php)
 * [2023-11-27, 18:53:56](https://news.ycombinator.com/item?id=38436516) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
 * [2023-11-27, 18:48:27](https://news.ycombinator.com/item?id=38436419) - [Broadcom lays off many VMware employees after closing acquisition of the company](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
