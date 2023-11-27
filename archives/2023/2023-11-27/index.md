@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 20:01:59](https://news.ycombinator.com/item?id=38437419) - [Omea: The Integrated Information Environment by JetBrains](https://www.jetbrains.com/omea/)
 * [2023-11-27, 19:42:31](https://news.ycombinator.com/item?id=38437164) - [What's the hardest real-life problem you solved with GPT-4?](https://old.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
+* [2023-11-27, 19:27:58](https://news.ycombinator.com/item?id=38436975) - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
+* [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
+* [2023-11-27, 18:57:28](https://news.ycombinator.com/item?id=38436579) - ['It gets scary': Neighbors say these Bay Area ghost kitchens are out of control](https://www.sfchronicle.com/food/restaurants/article/ghost-kitchens-neighbors-18483456.php)
 * [2023-11-27, 18:53:56](https://news.ycombinator.com/item?id=38436516) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
 * [2023-11-27, 18:48:27](https://news.ycombinator.com/item?id=38436419) - [Broadcom lays off many VMware employees after closing acquisition of the company](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
 * [2023-11-27, 18:20:05](https://news.ycombinator.com/item?id=38435978) - [AI is a weapon to surpass metal gear](https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/)
