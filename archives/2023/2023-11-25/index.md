@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)
 * [2023-11-25, 22:44:46](https://news.ycombinator.com/item?id=38417444) - [Ask HN: How can my mom downshift as a SQL developer?](https://news.ycombinator.com/item?id=38417444)
 * [2023-11-25, 22:40:12](https://news.ycombinator.com/item?id=38417415) - [Aerial refuelling without human intervention](https://www.airbus.com/en/newsroom/stories/2023-11-aerial-refuelling-without-human-intervention)
 * [2023-11-25, 22:36:59](https://news.ycombinator.com/item?id=38417391) - [Postgres: Extensions Shape the Future [pdf]](https://blog.rustprooflabs.com/static/docs/pass2023--Extensions-Shape-the-Future.pdf)
