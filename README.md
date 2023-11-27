@@ -3,7 +3,7 @@
 * [2023-11-27, 21:48:57](https://news.ycombinator.com/item?id=38438884) - [X Has Become a 'Global Sewer,' Mayor of Paris Says](https://www.nytimes.com/2023/11/27/business/anne-hidalgo-x-twitter.html)
 * [2023-11-27, 21:29:11](https://news.ycombinator.com/item?id=38438621) - [Range Energy's electric trailer can improve semi-truck mpg by 36%](https://electrek.co/2023/11/27/range-energys-electric-trailer-can-improve-semi-truck-mpg-by-36/)
 * [2023-11-27, 21:05:14](https://news.ycombinator.com/item?id=38438270) - [Amazon's $195 thin clients are repurposed Fire TV Cubes](https://arstechnica.com/information-technology/2023/11/amazons-195-thin-clients-are-repurposed-fire-tv-cubes/)
-* [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [God Help Us, Let's Try to Understand AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
+* [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 20:59:51](https://news.ycombinator.com/item?id=38438202) - [Ask HN: Tutorial on LLM / already grasp neural nets](https://news.ycombinator.com/item?id=38438202)
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
 * [2023-11-27, 20:19:21](https://news.ycombinator.com/item?id=38437666) - [Évariste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
