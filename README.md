@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
 * [2023-11-27, 05:07:33](https://news.ycombinator.com/item?id=38428301) - [Getting Started with Orca-2-13B](https://www.secondstate.io/articles/orca-2-13b/)
 * [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive files suddenly disappeared](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 * [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
@@ -24,7 +25,6 @@
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:28:43](https://news.ycombinator.com/item?id=38421110) - [The Weird World in RGB (2019) [video]](https://www.youtube.com/watch?v=uYbdx4I7STg)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [The Periodic Table of Tools](https://periodictableoftools.com/index.html)
-* [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [The key to mother and child well-being may be many caregivers](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
 * [2023-11-26, 08:34:34](https://news.ycombinator.com/item?id=38420107) - [Freezing in style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-26, 08:06:21](https://news.ycombinator.com/item?id=38420004) - [SIIG MiniSys S286 Small Form Factor PC](http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286)
 * [2023-11-26, 07:36:19](https://news.ycombinator.com/item?id=38419890) - [Emacs and the mouse: A modest defense of the rodent](https://karthinks.com/software/different-strokes-for-different-folks/)
