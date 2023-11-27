@@ -6,6 +6,7 @@
 
 * [2023-11-26, 23:08:14](https://news.ycombinator.com/item?id=38426072) - [Ask HN: Have you made IRL friends from HN usage?](https://news.ycombinator.com/item?id=38426072)
 * [2023-11-26, 22:57:02](https://news.ycombinator.com/item?id=38425966) - [Cisco aids Ukraine defense with modified switches to counter Russian attacks](https://www.itworldcanada.com/post/cisco-aids-ukraine-in-cyber-defense-with-modified-switches-to-counter-russian-attacks)
+* [2023-11-26, 22:53:13](https://news.ycombinator.com/item?id=38425932) - [The artificial glacier growing in the desert](https://www.cnn.com/style/article/ice-stupa-sonam-wangchuk/index.html)
 * [2023-11-26, 22:41:02](https://news.ycombinator.com/item?id=38425805) - [The N.Y.P.D. Is Upgrading Its Radios. The Public Won't Be Able to Tune In.](https://www.nytimes.com/2023/11/19/nyregion/nypd-police-scanner-radio.html)
 * [2023-11-26, 22:32:00](https://news.ycombinator.com/item?id=38425724) - [Climbing 50 steps a day can cut your risk of heart disease by 20%](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says)
 * [2023-11-26, 22:23:43](https://news.ycombinator.com/item?id=38425654) - [The Death of a Relic Hunter](https://www.newyorker.com/news/letter-from-the-south/the-death-of-a-relic-hunter)
