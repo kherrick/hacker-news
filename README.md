@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
+* [2023-11-27, 06:36:47](https://news.ycombinator.com/item?id=38428957) - [Show HN: I built a guided Build your own DNS Server challenge](https://app.codecrafters.io/courses/dns-server/overview)
 * [2023-11-27, 05:07:33](https://news.ycombinator.com/item?id=38428301) - [Getting Started with Orca-2-13B](https://www.secondstate.io/articles/orca-2-13b/)
 * [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive files suddenly disappeared](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 * [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
@@ -20,7 +21,6 @@
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:13:55](https://news.ycombinator.com/item?id=38423623) - [Oracle of Zotero: LLM QA of Your Research Library](https://github.com/Frost-group/The-Oracle-of-Zotero)
 * [2023-11-26, 17:12:49](https://news.ycombinator.com/item?id=38423167) - [Ask HN: What was the outcome of Reddit blackout?](https://news.ycombinator.com/item?id=38423167)
-* [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:28:43](https://news.ycombinator.com/item?id=38421110) - [The Weird World in RGB (2019) [video]](https://www.youtube.com/watch?v=uYbdx4I7STg)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [The Periodic Table of Tools](https://periodictableoftools.com/index.html)

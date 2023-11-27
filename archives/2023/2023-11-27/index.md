@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
+* [2023-11-27, 06:36:47](https://news.ycombinator.com/item?id=38428957) - [Show HN: I built a guided Build your own DNS Server challenge](https://app.codecrafters.io/courses/dns-server/overview)
 * [2023-11-27, 05:07:33](https://news.ycombinator.com/item?id=38428301) - [Orca-2-13B Runs Directly on Rust+WASM – No Python/C++ Hassles](https://www.secondstate.io/articles/orca-2-13b/)
 * [2023-11-27, 04:58:24](https://news.ycombinator.com/item?id=38428249) - [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
 * [2023-11-27, 04:55:20](https://news.ycombinator.com/item?id=38428225) - [Dive into Deep Learning: Interactive deep learning book with codes and maths](https://d2l.ai/)
