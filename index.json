@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-11-27, 19:42:31",
-      "https://news.ycombinator.com/item?id=38437164"
+      "2023-11-27, 20:01:59",
+      "https://news.ycombinator.com/item?id=38437419"
     ],
     [
-      "What's the hardest real-life problem you solved with GPT-4?",
-      "https://old.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/"
+      "Omea: The Integrated Information Environment by JetBrains",
+      "https://www.jetbrains.com/omea/"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 19:27:58",
+      "https://news.ycombinator.com/item?id=38436975"
+    ],
+    [
+      "The official Rails job board is live",
+      "https://rubyonrails.org/2023/11/27/rails-job-board-is-live"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 19:18:08",
+      "https://news.ycombinator.com/item?id=38436851"
+    ],
+    [
+      "Metals: Where Electricity May Flow Without Electrons",
+      "https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 18:57:28",
+      "https://news.ycombinator.com/item?id=38436579"
+    ],
+    [
+      "'It gets scary': Neighbors say these Bay Area ghost kitchens are out of control",
+      "https://www.sfchronicle.com/food/restaurants/article/ghost-kitchens-neighbors-18483456.php"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38436419"
     ],
     [
-      "Broadcom lays off many VMware employees after closing acquisition of the company",
+      "Broadcom lays off many VMware employees after closing acquisition",
       "https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11"
     ]
   ],
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=38435908"
     ],
     [
-      "My Toddler Loves Planes, So I Built Her a Radar",
+      "My toddler loves planes, so I built her a radar",
       "https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 17:49:13",
-      "https://news.ycombinator.com/item?id=38435505"
-    ],
-    [
-      "Worker's death from blunt force injuries resulted in $7k fine for Amazon",
-      "https://www.businessinsider.com/amazon-worker-death-indiana-resulted-7000-fine-2023-11"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=38434613"
     ],
     [
-      "Prettier $20k Bounty was Claimed",
+      "$20k bounty was claimed",
       "https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed"
     ]
   ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2023-11-27, 16:39:58",
-      "https://news.ycombinator.com/item?id=38434450"
-    ],
-    [
-      "Meta Designed Products to Capitalize on Teen Vulnerabilities, States Allege",
-      "https://www.wsj.com/business/media/meta-designed-products-to-capitalize-on-teen-vulnerabilities-states-allege-6791dad5"
-    ]
-  ],
-  [
-    [
       "2023-11-27, 15:41:53",
       "https://news.ycombinator.com/item?id=38433563"
     ],
     [
       "Nutrient found in beef and dairy improves immune response to cancer",
       "https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 15:28:04",
-      "https://news.ycombinator.com/item?id=38433358"
-    ],
-    [
-      "Python Is Easy. Go Is Simple. Simple != Easy",
-      "https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38433083"
     ],
     [
-      "Favorite Database T-Shirts",
+      "My favorite database shirts",
       "https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html"
     ]
   ],
