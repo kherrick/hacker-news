@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 16:50:20](https://news.ycombinator.com/item?id=38434613) - [Prettier $20k Bounty was Claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
+* [2023-11-27, 16:41:35](https://news.ycombinator.com/item?id=38434470) - [Web Components Eliminate JavaScript Framework Lock-In](https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-lock-in/)
 * [2023-11-27, 16:32:18](https://news.ycombinator.com/item?id=38434344) - [Health experts criticise new NZ government's shock reversal of smoking ban](https://www.bbc.com/news/world-asia-67540190)
 * [2023-11-27, 16:00:03](https://news.ycombinator.com/item?id=38433856) - [\"We pulled off an SEO heist with AI and stole 3.6M impressions.\"](https://mastodon.social/@gamingonlinux/111482420414024520)
 * [2023-11-27, 15:41:53](https://news.ycombinator.com/item?id=38433563) - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)

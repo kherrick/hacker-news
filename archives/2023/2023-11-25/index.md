@@ -84,4 +84,5 @@
 * [2023-11-25, 01:11:47](https://news.ycombinator.com/item?id=38410160) - [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 * [2023-11-25, 01:01:43](https://news.ycombinator.com/item?id=38410095) - [Git Discussion Bingo](https://wizardzines.com/comics/git-discussion-bingo/)
 * [2023-11-25, 00:25:16](https://news.ycombinator.com/item?id=38409903) - [Bandcamp support is faltering – maybe you should download your music now](https://linuximpact.com/bandcamp-support-is-faltering-download-your-music-now/)
+* [2023-11-25, 00:20:47](https://news.ycombinator.com/item?id=38409876) - [Two Views of a River – Twain](https://www.thoughtco.com/two-ways-of-seeing-a-river-by-mark-twain-1688773)
 * [2023-11-25, 00:04:16](https://news.ycombinator.com/item?id=38409763) - [MicroLua brings the programming language Lua on the Nintendo DS](https://www.gamebrew.org/wiki/Micro_Lua_DS)
