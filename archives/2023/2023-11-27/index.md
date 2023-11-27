@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 15:19:56](https://news.ycombinator.com/item?id=38433244) - [NYC Will Sell Your Car from Under You 10 Days After It's Towed](https://www.thedrive.com/features/nyc-will-sell-your-car-from-under-you-10-days-after-its-towed)
+* [2023-11-27, 14:23:15](https://news.ycombinator.com/item?id=38432540) - [Former SF Venture Capitalist Convicted of Fraud and Money Laundering Charges](https://www.justice.gov/usao-ndca/pr/former-san-francisco-venture-capitalist-convicted-multiple-fraud-and-money-laundering)
 * [2023-11-27, 14:15:26](https://news.ycombinator.com/item?id=38432451) - [Physical attractiveness and intergenerational social mobility](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13320)
 * [2023-11-27, 14:15:08](https://news.ycombinator.com/item?id=38432445) - [Download all of Wikipedia on your phone](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
 * [2023-11-27, 13:56:50](https://news.ycombinator.com/item?id=38432261) - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)

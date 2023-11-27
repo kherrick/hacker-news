@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 14:15:26](https://news.ycombinator.com/item?id=38432451) - [Physical attractiveness and intergenerational social mobility](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13320)
+* [2023-11-27, 15:19:56](https://news.ycombinator.com/item?id=38433244) - [NYC Will Sell Your Car from Under You 10 Days After It's Towed](https://www.thedrive.com/features/nyc-will-sell-your-car-from-under-you-10-days-after-its-towed)
+* [2023-11-27, 14:23:15](https://news.ycombinator.com/item?id=38432540) - [Former SF Venture Capitalist Convicted of Fraud and Money Laundering Charges](https://www.justice.gov/usao-ndca/pr/former-san-francisco-venture-capitalist-convicted-multiple-fraud-and-money-laundering)
 * [2023-11-27, 14:15:08](https://news.ycombinator.com/item?id=38432445) - [Download all of Wikipedia on your phone](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/)
 * [2023-11-27, 13:56:50](https://news.ycombinator.com/item?id=38432261) - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
 * [2023-11-27, 13:40:06](https://news.ycombinator.com/item?id=38432134) - [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
@@ -9,7 +10,6 @@
 * [2023-11-27, 12:54:42](https://news.ycombinator.com/item?id=38431743) - [Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
 * [2023-11-27, 12:25:06](https://news.ycombinator.com/item?id=38431482) - [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
 * [2023-11-27, 12:16:28](https://news.ycombinator.com/item?id=38431402) - [Wealth Systems in RPGs](https://troypress.com/wealth-systems-in-rpgs/)
-* [2023-11-27, 12:05:14](https://news.ycombinator.com/item?id=38431308) - [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)
 * [2023-11-27, 12:00:26](https://news.ycombinator.com/item?id=38431273) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-11-27, 11:18:11](https://news.ycombinator.com/item?id=38430974) - [Tata Consultancy Services ordered to cough up $210M in code theft trial](https://www.theregister.com/2023/11/24/tata_210m_code_theft/)
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
