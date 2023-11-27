@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 04:29:51](https://news.ycombinator.com/item?id=38428053) - [Any Users of Dropbox Dash? Beginning of Personal LLMs?](https://www.dropbox.com/dash)
 * [2023-11-27, 03:55:00](https://news.ycombinator.com/item?id=38427864) - [Google Drive has lost user data](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 * [2023-11-27, 03:48:44](https://news.ycombinator.com/item?id=38427818) - [College Sports Need Their Tax-Exempt Status Revoked](https://www.bloomberg.com/opinion/articles/2023-11-25/jimbo-fisher-is-why-college-sports-need-to-lose-tax-exemption-status)
+* [2023-11-27, 03:41:31](https://news.ycombinator.com/item?id=38427781) - [AWS debuts Amazon WorkSpaces Thin Client device for virtual desktop access](https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/)
 * [2023-11-27, 02:46:22](https://news.ycombinator.com/item?id=38427498) - [Americans think the American dream is dying](https://www.axios.com/2023/11/25/american-dream-poll-wealth-inequality)
 * [2023-11-27, 02:36:18](https://news.ycombinator.com/item?id=38427448) - [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/html/)
 * [2023-11-27, 02:36:14](https://news.ycombinator.com/item?id=38427447) - [Pixel 8 Pro owners complain about display bumps](https://me.mashable.com/mobile/35238/pixel-8-pro-owners-complain-about-display-bumps-google-says-there-is-no-functional-impact)

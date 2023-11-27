@@ -88,6 +88,7 @@
 * [2023-11-24, 10:10:12](https://news.ycombinator.com/item?id=38402313) - ['What the heck is going on?' High-energy particle falling to Earth](https://www.theguardian.com/science/2023/nov/24/amaterasu-extremely-high-energy-particle-detected-falling-to-earth)
 * [2023-11-24, 10:05:53](https://news.ycombinator.com/item?id=38402289) - [Securely Chaining WiFi Routers (2022)](https://www.supernetworks.org/pages/blog/secure%20router%20chaining)
 * [2023-11-24, 09:34:02](https://news.ycombinator.com/item?id=38402092) - [Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
+* [2023-11-24, 09:32:51](https://news.ycombinator.com/item?id=38402086) - [The spaceship that mows the lawn](https://theinspirationallifestyle.com/the-spaceship-that-mows-the-lawn/)
 * [2023-11-24, 09:15:03](https://news.ycombinator.com/item?id=38401969) - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
 * [2023-11-24, 08:54:51](https://news.ycombinator.com/item?id=38401871) - [Domicles: Sudoku with Dominoes](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-24, 08:41:14](https://news.ycombinator.com/item?id=38401805) - [Training for one trillion parameter model backed by Intel and US govt has begun](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun)
