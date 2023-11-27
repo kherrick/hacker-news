@@ -23,12 +23,12 @@
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:28:43](https://news.ycombinator.com/item?id=38421110) - [The Weird World in RGB (2019) [video]](https://www.youtube.com/watch?v=uYbdx4I7STg)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [The Periodic Table of Tools](https://periodictableoftools.com/index.html)
-* [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [The key to mother and child well-being may be many caregivers](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
 * [2023-11-26, 08:34:34](https://news.ycombinator.com/item?id=38420107) - [Freezing in style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-26, 08:06:21](https://news.ycombinator.com/item?id=38420004) - [SIIG MiniSys S286 Small Form Factor PC](http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286)
 * [2023-11-26, 07:36:19](https://news.ycombinator.com/item?id=38419890) - [Emacs and the mouse: A modest defense of the rodent](https://karthinks.com/software/different-strokes-for-different-folks/)
 * [2023-11-24, 10:19:38](https://news.ycombinator.com/item?id=38402368) - [Demystifying Web Push Notifications](https://pqvst.com/2023/11/21/web-push-notifications/)
 * [2023-11-24, 09:32:51](https://news.ycombinator.com/item?id=38402086) - [Spaceship that mows the lawn](https://theinspirationallifestyle.com/the-spaceship-that-mows-the-lawn/)
+* [2023-11-24, 08:32:25](https://news.ycombinator.com/item?id=38401750) - [Mic Test](https://mictests.com/)
 * [2023-11-24, 06:37:06](https://news.ycombinator.com/item?id=38401188) - [Unciv](https://github.com/yairm210/Unciv)
 
 ## [Archives](archives/index.md)

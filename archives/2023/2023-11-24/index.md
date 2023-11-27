@@ -93,6 +93,7 @@
 * [2023-11-24, 09:15:03](https://news.ycombinator.com/item?id=38401969) - [DDG founder says Google's phone, manufacturing partnerships thwart competition](https://apnews.com/article/google-antitrust-trial-search-engine-duckduckgo-b3d81d41a5cbf8d7c2cef824663f1f8a)
 * [2023-11-24, 08:54:51](https://news.ycombinator.com/item?id=38401871) - [Domicles: Sudoku with Dominoes](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-24, 08:41:14](https://news.ycombinator.com/item?id=38401805) - [Training for one trillion parameter model backed by Intel and US govt has begun](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun)
+* [2023-11-24, 08:32:25](https://news.ycombinator.com/item?id=38401750) - [Mic Test](https://mictests.com/)
 * [2023-11-24, 08:09:35](https://news.ycombinator.com/item?id=38401638) - [Grid operator to interfere in Finnish electricity market after bidding error](https://www.reuters.com/business/energy/bidding-error-sees-finnish-day-ahead-power-price-tumble-20340-eurosmwh-2023-11-23/)
 * [2023-11-24, 08:09:07](https://news.ycombinator.com/item?id=38401637) - [Astronomers detect highest energy cosmic ray since 1991](https://arstechnica.com/science/2023/11/meet-amaterasu-astronomers-detect-highest-energy-cosmic-ray-since-1991/)
 * [2023-11-24, 08:04:34](https://news.ycombinator.com/item?id=38401613) - [GIMP 3.0 finally has a release schedule](https://librearts.org/2023/11/gimp-3-0-roadmap/)
