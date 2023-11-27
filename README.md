@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-27, 02:17:05](https://news.ycombinator.com/item?id=38427332) - [SEC Investigation Looms for OpenAI CEO Altman and Microsoft CEO Nadella](https://www.halt.org/sec-investigation-looms-for-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella/)
 * [2023-11-27, 02:13:42](https://news.ycombinator.com/item?id=38427314) - [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
 * [2023-11-27, 01:56:13](https://news.ycombinator.com/item?id=38427213) - [World’s biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
 * [2023-11-27, 01:02:24](https://news.ycombinator.com/item?id=38426899) - [Htmx Webring](https://htmx.org/webring/)
@@ -16,7 +17,6 @@
 * [2023-11-26, 19:53:59](https://news.ycombinator.com/item?id=38424412) - [The history behind aspirin 81 (2019)](https://www.clinicalcorrelations.org/2019/02/22/the-history-behind-aspirin-81/)
 * [2023-11-26, 19:14:52](https://news.ycombinator.com/item?id=38424090) - [Storing Data in Pointers](https://muxup.com/2023q4/storing-data-in-pointers)
 * [2023-11-26, 19:10:32](https://news.ycombinator.com/item?id=38424061) - [Noninvasive theta-burst stimulation enhances skill learning](https://www.nature.com/articles/s41593-023-01457-7)
-* [2023-11-26, 18:48:54](https://news.ycombinator.com/item?id=38423908) - [Fish – Update on the Rust port](https://github.com/fish-shell/fish-shell/discussions/10123)
 * [2023-11-26, 18:42:05](https://news.ycombinator.com/item?id=38423844) - [Titled Tuesday Cheating](https://dorianquelle.github.io/blog/How-To-Catch-Smart-Cheaters/)
 * [2023-11-26, 18:13:55](https://news.ycombinator.com/item?id=38423623) - [Oracle of Zotero: LLM QA of Your Research Library](https://github.com/Frost-group/The-Oracle-of-Zotero)
 * [2023-11-26, 17:52:46](https://news.ycombinator.com/item?id=38423469) - [Darling: Run macOS Software on Linux](https://www.darlinghq.org/)
@@ -24,10 +24,10 @@
 * [2023-11-26, 16:03:03](https://news.ycombinator.com/item?id=38422594) - [OpenWrt: Smartphone USB Tethering](https://openwrt.org/docs/guide-user/network/wan/smartphone.usb.tethering)
 * [2023-11-26, 15:35:29](https://news.ycombinator.com/item?id=38422360) - [First Is the Worst: Nintendo's Color TV Game 6 and 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
 * [2023-11-26, 14:11:13](https://news.ycombinator.com/item?id=38421710) - [Apertus – Open-Source Camera](https://www.apertus.org/en)
-* [2023-11-26, 14:08:47](https://news.ycombinator.com/item?id=38421696) - [City of Boulder Open Data](https://open-data.bouldercolorado.gov)
 * [2023-11-26, 13:31:39](https://news.ycombinator.com/item?id=38421452) - [Making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-26, 11:44:05](https://news.ycombinator.com/item?id=38420892) - [The key to mother and child well-being may be many caregivers](https://phys.org/news/2023-11-hunter-gatherer-approach-childcare-key-mother.html)
+* [2023-11-26, 08:34:34](https://news.ycombinator.com/item?id=38420107) - [Freezing in Style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-26, 08:06:21](https://news.ycombinator.com/item?id=38420004) - [SIIG MiniSys S286 Small Form Factor PC](http://users.glitchwrks.com/~glitch/2018/07/01/siig-s286)
 * [2023-11-24, 06:37:06](https://news.ycombinator.com/item?id=38401188) - [Unciv](https://github.com/yairm210/Unciv)
 

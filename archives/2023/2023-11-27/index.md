@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 02:17:05](https://news.ycombinator.com/item?id=38427332) - [SEC Investigation Looms for OpenAI CEO Altman and Microsoft CEO Nadella](https://www.halt.org/sec-investigation-looms-for-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella/)
 * [2023-11-27, 02:13:42](https://news.ycombinator.com/item?id=38427314) - [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
 * [2023-11-27, 01:56:13](https://news.ycombinator.com/item?id=38427213) - [World’s Biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
 * [2023-11-27, 01:02:24](https://news.ycombinator.com/item?id=38426899) - [Htmx Webring](https://htmx.org/webring/)
