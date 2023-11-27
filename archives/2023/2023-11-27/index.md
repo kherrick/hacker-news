@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 12:54:42](https://news.ycombinator.com/item?id=38431743) - [Google Drive misplaces months' worth of customer data](https://www.theregister.com/2023/11/27/google_drive_files_disappearing/)
+* [2023-11-27, 12:25:06](https://news.ycombinator.com/item?id=38431482) - [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
+* [2023-11-27, 12:05:14](https://news.ycombinator.com/item?id=38431308) - [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)
 * [2023-11-27, 12:00:26](https://news.ycombinator.com/item?id=38431273) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-11-27, 11:43:10](https://news.ycombinator.com/item?id=38431147) - [Tesla sues Swedish state agency over number plate blockage](https://www.thelocal.se/20231127/tesla-sues-swedish-transport-agency-over-number-plate-blockage)
 * [2023-11-27, 11:26:42](https://news.ycombinator.com/item?id=38431042) - [German Autobahn speed limit would bring €1bn in benefits](https://www.carbonbrief.org/autobahn-speed-limit-would-cut-carbon-and-bring-e1bn-in-benefits-study-says/)
