@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-27, 20:02:04](https://news.ycombinator.com/item?id=38437422) - [Big brands keep dropping X over antisemitism; $75M loss, report estimates](https://arstechnica.com/tech-policy/2023/11/x-may-lose-75m-in-ad-revenue-after-antisemitic-posts-report-says/)
+* [2023-11-27, 20:24:56](https://news.ycombinator.com/item?id=38437747) - [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
 * [2023-11-27, 20:00:36](https://news.ycombinator.com/item?id=38437388) - [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
-* [2023-11-27, 19:27:58](https://news.ycombinator.com/item?id=38436975) - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
 * [2023-11-27, 18:53:56](https://news.ycombinator.com/item?id=38436516) - [Sports Illustrated Published Articles by Fake, AI-Generated Writers](https://futurism.com/sports-illustrated-ai-generated-writers)
 * [2023-11-27, 18:48:27](https://news.ycombinator.com/item?id=38436419) - [Broadcom lays off many VMware employees after closing acquisition](https://www.businessinsider.com/broadcom-vmware-layoffs-employees-face-job-cuts-acquisition-2023-11)
@@ -26,8 +25,9 @@
 * [2023-11-26, 20:47:04](https://news.ycombinator.com/item?id=38424890) - [Easter egg emoji: converting pixels into particles](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
 * [2023-11-26, 13:31:56](https://news.ycombinator.com/item?id=38421454) - [The Weight of New York City: Subsidence from Anthropogenic Sources](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465)
 * [2023-11-26, 03:18:24](https://news.ycombinator.com/item?id=38418865) - [Signal reflections in electronic circuits](https://lcamtuf.substack.com/p/signal-reflections-in-electronic)
-* [2023-11-25, 18:04:59](https://news.ycombinator.com/item?id=38415174) - [Walter Arnold and the First Ever Speeding Ticket](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Walter-Arnold-Worlds-First-Speeding-Ticket/)
+* [2023-11-25, 18:04:59](https://news.ycombinator.com/item?id=38415174) - [Walter Arnold and the first speeding ticket](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Walter-Arnold-Worlds-First-Speeding-Ticket/)
 * [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
+* [2023-11-25, 16:01:22](https://news.ycombinator.com/item?id=38414303) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A Yamaha DX7 on a USB Dongle](https://hackaday.com/2023/11/24/a-yamaha-dx7-on-a-usb-dongle/)
 * [2023-11-25, 00:20:18](https://news.ycombinator.com/item?id=38409871) - [Honeybees cluster together when it's cold – but we've been wrong about why](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
 
