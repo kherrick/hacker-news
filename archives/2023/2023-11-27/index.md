@@ -18,6 +18,7 @@
 * [2023-11-27, 02:18:44](https://news.ycombinator.com/item?id=38427343) - [LaTeX Talks from the Tug Conference 2023 in Bonn](https://www.latex-project.org/news/2023/11/25/TUG-online-talks-2023/)
 * [2023-11-27, 02:17:05](https://news.ycombinator.com/item?id=38427332) - [SEC Investigation Looms for OpenAI CEO Altman and Microsoft CEO Nadella](https://www.halt.org/sec-investigation-looms-for-openai-ceo-sam-altman-and-microsoft-ceo-satya-nadella/)
 * [2023-11-27, 02:13:42](https://news.ycombinator.com/item?id=38427314) - [Amazon EFS now supports up to 250k IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
+* [2023-11-27, 02:08:29](https://news.ycombinator.com/item?id=38427287) - [Kongsberg, Norway and Germany to Develop New \"Super Missile\"](https://defence-industry.eu/kongsberg-norway-and-germany-to-develop-new-super-missile/)
 * [2023-11-27, 01:56:13](https://news.ycombinator.com/item?id=38427213) - [World’s Biggest iceberg moving beyond Antarctic waters](https://www.theguardian.com/world/2023/nov/27/worlds-biggest-iceberg-moving-beyond-antarctic-waters)
 * [2023-11-27, 01:24:21](https://news.ycombinator.com/item?id=38427034) - [Spaced repetition for teaching two-year olds how to read](https://chipmonk.substack.com/p/spaced-repetition-for-teaching-two)
 * [2023-11-27, 01:02:24](https://news.ycombinator.com/item?id=38426899) - [Htmx Webring](https://htmx.org/webring/)
