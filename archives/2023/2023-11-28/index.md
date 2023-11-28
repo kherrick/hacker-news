@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 07:12:18](https://news.ycombinator.com/item?id=38443252) - [U.N. Predicts Disaster If Global Warming Not Checked (1989)](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
 * [2023-11-28, 05:26:23](https://news.ycombinator.com/item?id=38442652) - [USB DNA micro sequencer for $1k](https://nanoporetech.com/products/sequence/minion)
 * [2023-11-28, 05:08:10](https://news.ycombinator.com/item?id=38442548) - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)

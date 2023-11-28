@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 07:12:18](https://news.ycombinator.com/item?id=38443252) - [U.N. Predicts Disaster If Global Warming Not Checked (1989)](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
 * [2023-11-28, 05:08:10](https://news.ycombinator.com/item?id=38442548) - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
@@ -13,7 +14,6 @@
 * [2023-11-28, 00:26:30](https://news.ycombinator.com/item?id=38440620) - [Running SQL Queries on Org Tables](http://yummymelon.com/devnull/running-sql-queries-on-org-tables.html)
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
-* [2023-11-27, 20:15:22](https://news.ycombinator.com/item?id=38437607) - [Running Llama.cpp on AWS Instances](https://github.com/ggerganov/llama.cpp/discussions/4225)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Strange Metals: Where electricity may flow without electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 17:28:16](https://news.ycombinator.com/item?id=38435182) - [Agency: Pure Go LangChain Alternative](https://github.com/neurocult/agency)
