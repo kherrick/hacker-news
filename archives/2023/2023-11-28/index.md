@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 12:21:54](https://news.ycombinator.com/item?id=38444948) - [Tax, healthcare, immigration: why Dutch people voted for Geert Wilders](https://www.theguardian.com/world/2023/nov/23/dutch-explain-why-they-voted-for-geert-wilders-netherlands-election)
+* [2023-11-28, 12:03:04](https://news.ycombinator.com/item?id=38444834) - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
+* [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-28, 11:18:08](https://news.ycombinator.com/item?id=38444606) - [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 * [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
