@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-28, 20:19:44",
+      "https://news.ycombinator.com/item?id=38450716"
+    ],
+    [
+      "Parsing 8-bit integers quickly",
+      "https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/"
+    ]
+  ],
+  [
+    [
       "2023-11-28, 20:10:58",
       "https://news.ycombinator.com/item?id=38450577"
     ],
@@ -107,16 +117,6 @@
     [
       "MeshGPT: Generating triangle meshes with decoder-only transformers",
       "https://nihalsid.github.io/mesh-gpt/"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 17:20:23",
-      "https://news.ycombinator.com/item?id=38448199"
-    ],
-    [
-      "Combine GPTs with private knowledge for actually useful AIs",
-      "https://medium.com/@yuhongsun96/using-gpts-as-team-members-357a8d7c86ac"
     ]
   ],
   [
