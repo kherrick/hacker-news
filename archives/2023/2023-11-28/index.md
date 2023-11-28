@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 17:02:01](https://news.ycombinator.com/item?id=38447954) - [Pika 1.0, the idea-to-video platform that brings your creativity to life](https://twitter.com/pika_labs/status/1729510078959497562)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:42:07](https://news.ycombinator.com/item?id=38447709) - [District court rejects Tesla request, Postnord does not have to deliver plates](https://www.svt.se/nyheter/inrikes/solna-tingsratt-avslar-teslas-stamning-mot-postnord--33vhqt)
 * [2023-11-28, 16:41:40](https://news.ycombinator.com/item?id=38447701) - [Sunspots could send a solar storm our way as early as Saturday](https://www.businessinsider.com/sunspots-15-times-size-of-earth-solar-storm-into-view-2023-11)
