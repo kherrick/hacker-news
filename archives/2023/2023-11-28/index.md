@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 22:40:38](https://news.ycombinator.com/item?id=38452493) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.aol.com/unity-software-cut-3-8-221242432.html)
 * [2023-11-28, 22:08:33](https://news.ycombinator.com/item?id=38452059) - [Ask HN: Git hosting sites that do not require 2FA?](https://news.ycombinator.com/item?id=38452059)
 * [2023-11-28, 22:04:50](https://news.ycombinator.com/item?id=38452005) - [Erwin Schrödinger – Sexual Abuse](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
 * [2023-11-28, 21:58:55](https://news.ycombinator.com/item?id=38451920) - [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
