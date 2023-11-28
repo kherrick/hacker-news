@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
-* [2023-11-28, 05:26:23](https://news.ycombinator.com/item?id=38442652) - [USB DNA micro sequencer for $1k](https://nanoporetech.com/products/sequence/minion)
 * [2023-11-28, 05:08:10](https://news.ycombinator.com/item?id=38442548) - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 * [2023-11-28, 03:40:34](https://news.ycombinator.com/item?id=38442050) - [Antirez' tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
@@ -23,6 +22,7 @@
 * [2023-11-27, 16:47:19](https://news.ycombinator.com/item?id=38434574) - [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
+* [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
 * [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)
 * [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
 * [2023-11-25, 16:11:15](https://news.ycombinator.com/item?id=38414380) - [Large Interferometer for Exoplanets [pdf]](https://www.aanda.org/articles/aa/pdf/2023/10/aa45927-23.pdf)

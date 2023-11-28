@@ -87,6 +87,7 @@
 * [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-27, 07:57:20](https://news.ycombinator.com/item?id=38429370) - [Why Bother with uBlock Being Blocked in Chrome? Time to Switch to Firefox](https://tuta.com/blog/best-private-browsers)
 * [2023-11-27, 07:43:06](https://news.ycombinator.com/item?id=38429291) - [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
+* [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
 * [2023-11-27, 06:59:49](https://news.ycombinator.com/item?id=38429080) - [No-Bullshit Games](https://nobsgames.stavros.io/)
 * [2023-11-27, 06:55:50](https://news.ycombinator.com/item?id=38429060) - [Show HN:Draw Fast - Real-time AI image generation based on drawings in a canvas](https://drawfast.io/)
 * [2023-11-27, 06:36:47](https://news.ycombinator.com/item?id=38428957) - [Show HN: I built a guided Build your own DNS Server challenge](https://app.codecrafters.io/courses/dns-server/overview)
