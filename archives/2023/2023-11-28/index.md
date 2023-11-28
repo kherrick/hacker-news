@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 19:24:33](https://news.ycombinator.com/item?id=38450047) - [Company founded by University of Bristol develops revolutionary fusion reactor](https://www.bristol.ac.uk/news/2023/november/astral-fusion-reactor.html)
+* [2023-11-28, 19:01:09](https://news.ycombinator.com/item?id=38449763) - [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
+* [2023-11-28, 18:52:26](https://news.ycombinator.com/item?id=38449630) - [Files Suggest UN Climate Summit's Leader Is Using Event to Promote Fossil Fuels](https://www.nytimes.com/2023/11/28/climate/uae-cop28-documents-al-jaber.html)
 * [2023-11-28, 18:42:48](https://news.ycombinator.com/item?id=38449493) - [The birth and death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 * [2023-11-28, 18:27:18](https://news.ycombinator.com/item?id=38449233) - [Please don't use AI to solve Advent of Code](https://adventofcode.com/)
 * [2023-11-28, 18:22:52](https://news.ycombinator.com/item?id=38449148) - [American workers are 'unhappier at work' than they have been in years](https://www.foxnews.com/media/american-workers-unhappier-work-they-have-been-years-inflation-remote-work-take-toll)
