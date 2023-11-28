@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 15:05:07](https://news.ycombinator.com/item?id=38446476) - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
+* [2023-11-28, 14:59:14](https://news.ycombinator.com/item?id=38446418) - [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+* [2023-11-28, 14:53:38](https://news.ycombinator.com/item?id=38446353) - [Keras 3.0](https://keras.io/keras_3/)
+* [2023-11-28, 14:51:22](https://news.ycombinator.com/item?id=38446332) - [Cybertruck Is Already a Production Nightmare for Tesla](https://www.bloomberg.com/news/articles/2023-11-28/tesla-cybertruck-delivery-event-preview-musk-warns-of-production-challenges)
+* [2023-11-28, 14:49:02](https://news.ycombinator.com/item?id=38446303) - [A father didn't believe his daughter was dead. The hospital harvested her organs](https://www.theguardian.com/us-news/2023/nov/28/hospital-organ-donation-death-lawsuit-fresno-california)
+* [2023-11-28, 14:35:53](https://news.ycombinator.com/item?id=38446147) - [Transfer your fund from Wallet of Satoshi immediately](https://sovereignoutcomes.com/transfer-your-fund-from-wallet-of-satoshi-immediately)
 * [2023-11-28, 14:25:54](https://news.ycombinator.com/item?id=38446027) - [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
 * [2023-11-28, 13:52:02](https://news.ycombinator.com/item?id=38445660) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 13:46:30](https://news.ycombinator.com/item?id=38445613) - [Left-sided Cancer: Blame your bed and TV?](https://blogs.scientificamerican.com/guest-blog/left-sided-cancer-blame-your-bed-and-tv/)
