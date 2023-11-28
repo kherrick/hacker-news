@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 04:59:39](https://news.ycombinator.com/item?id=38442497) - [Show HN: Draw Fast – Real-time AI image generation based on drawings in a canvas](https://stablediffusionweb.com/Realtime-Scribble-Diffusion)
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 * [2023-11-28, 03:40:34](https://news.ycombinator.com/item?id=38442050) - [Antirez' tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
 * [2023-11-28, 03:15:55](https://news.ycombinator.com/item?id=38441866) - [San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
@@ -19,7 +20,6 @@
 * [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 16:50:20](https://news.ycombinator.com/item?id=38434613) - [$20k bounty was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 16:47:19](https://news.ycombinator.com/item?id=38434574) - [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
-* [2023-11-27, 15:07:48](https://news.ycombinator.com/item?id=38433083) - [My favorite database shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html)
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
 * [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)

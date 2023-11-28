@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 04:59:39](https://news.ycombinator.com/item?id=38442497) - [Show HN: Draw Fast – Real-time AI image generation based on drawings in a canvas](https://stablediffusionweb.com/Realtime-Scribble-Diffusion)
 * [2023-11-28, 04:04:34](https://news.ycombinator.com/item?id=38442201) - [People likely to be harmed by AI don't have a seat at the table for regulation](https://english.elpais.com/technology/2023-11-27/margaret-mitchell-the-people-who-are-most-likely-to-be-harmed-by-ai-dont-have-a-seat-at-the-table-for-regulation.html)
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 * [2023-11-28, 03:40:34](https://news.ycombinator.com/item?id=38442050) - [Antirez' tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
