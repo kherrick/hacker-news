@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:51:04](https://news.ycombinator.com/item?id=38450327) - [OpenAI: Increased errors across API and ChatGPT](https://status.openai.com/incidents/q58417g6n5r7)
@@ -11,7 +12,6 @@
 * [2023-11-28, 18:52:26](https://news.ycombinator.com/item?id=38449630) - [Files Suggest UN Climate Summit's Leader Is Using Event to Promote Fossil Fuels](https://www.nytimes.com/2023/11/28/climate/uae-cop28-documents-al-jaber.html)
 * [2023-11-28, 17:59:00](https://news.ycombinator.com/item?id=38448694) - [Amazon announces Q, an AI chatbot for businesses](https://www.cnbc.com/2023/11/28/amazon-announces-q-an-ai-chatbot-for-businesses.html)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
-* [2023-11-28, 17:20:23](https://news.ycombinator.com/item?id=38448199) - [Combine GPTs with private knowledge for actually useful AIs](https://medium.com/@yuhongsun96/using-gpts-as-team-members-357a8d7c86ac)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [FDA agrees Loyal's data supports effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)
