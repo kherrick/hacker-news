@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:41:40](https://news.ycombinator.com/item?id=38447701) - [Sunspots could send a solar storm our way as early as Saturday](https://www.businessinsider.com/sunspots-15-times-size-of-earth-solar-storm-into-view-2023-11)
+* [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph Representation Learning on Relational Databases [pdf]](https://relbench.stanford.edu/paper.pdf)
 * [2023-11-28, 16:08:28](https://news.ycombinator.com/item?id=38447238) - [Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
 * [2023-11-28, 15:47:19](https://news.ycombinator.com/item?id=38446957) - [Nvidia's earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
+* [2023-11-28, 15:43:35](https://news.ycombinator.com/item?id=38446901) - [World Appears on Track to Triple Renewable Power by 2030](https://e360.yale.edu/digest/un-climate-negotiations-triple-renewable-energy)
 * [2023-11-28, 15:05:07](https://news.ycombinator.com/item?id=38446476) - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
 * [2023-11-28, 14:59:14](https://news.ycombinator.com/item?id=38446418) - [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 * [2023-11-28, 14:53:38](https://news.ycombinator.com/item?id=38446353) - [Keras 3.0](https://keras.io/keras_3/)
