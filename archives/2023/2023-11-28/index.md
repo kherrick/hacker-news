@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
+* [2023-11-28, 05:26:23](https://news.ycombinator.com/item?id=38442652) - [USB DNA micro sequencer for $1k](https://nanoporetech.com/products/sequence/minion)
 * [2023-11-28, 05:08:10](https://news.ycombinator.com/item?id=38442548) - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
 * [2023-11-28, 05:04:43](https://news.ycombinator.com/item?id=38442533) - [Blackhawk 3 Pro: American-made drone for consumers](https://blackhawk3.exodrones.com/)
 * [2023-11-28, 04:59:39](https://news.ycombinator.com/item?id=38442497) - [Show HN: Draw Fast – Real-time AI image generation based on drawings in a canvas](https://stablediffusionweb.com/Realtime-Scribble-Diffusion)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
+* [2023-11-28, 05:26:23](https://news.ycombinator.com/item?id=38442652) - [USB DNA micro sequencer for $1k](https://nanoporetech.com/products/sequence/minion)
 * [2023-11-28, 05:08:10](https://news.ycombinator.com/item?id=38442548) - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
 * [2023-11-28, 04:59:39](https://news.ycombinator.com/item?id=38442497) - [Show HN: Draw Fast – Real-time AI image generation based on drawings in a canvas](https://stablediffusionweb.com/Realtime-Scribble-Diffusion)
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
@@ -17,7 +19,6 @@
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 17:28:16](https://news.ycombinator.com/item?id=38435182) - [Agency: Pure Go LangChain Alternative](https://github.com/neurocult/agency)
 * [2023-11-27, 17:15:55](https://news.ycombinator.com/item?id=38435017) - [ed.bf: text editor in Brainfuck](https://github.com/bf-enterprise-solutions/ed.bf)
-* [2023-11-27, 17:09:37](https://news.ycombinator.com/item?id=38434914) - [Learnings from fine-tuning LLM on my Telegram messages](https://asmirnov.xyz/doppelganger)
 * [2023-11-27, 16:50:20](https://news.ycombinator.com/item?id=38434613) - [$20k bounty was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 16:47:19](https://news.ycombinator.com/item?id=38434574) - [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
@@ -25,7 +26,6 @@
 * [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)
 * [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
 * [2023-11-25, 16:11:15](https://news.ycombinator.com/item?id=38414380) - [Large Interferometer for Exoplanets [pdf]](https://www.aanda.org/articles/aa/pdf/2023/10/aa45927-23.pdf)
-* [2023-11-25, 16:01:22](https://news.ycombinator.com/item?id=38414303) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2023-11-25, 13:53:04](https://news.ycombinator.com/item?id=38413509) - [Regulating the Rag and Bone Man (2017)](https://blogs.loc.gov/law/2017/08/regulating-the-rag-and-bone-man/)
 * [2023-11-25, 07:42:13](https://news.ycombinator.com/item?id=38411975) - [Optical Computing with Plasma [video]](https://www.youtube.com/watch?v=Mdh2pLwsK8Y)
 * [2023-11-25, 01:34:41](https://news.ycombinator.com/item?id=38410281) - [The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
