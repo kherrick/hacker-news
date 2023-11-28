@@ -7,6 +7,7 @@
 * [2023-11-28, 04:04:34](https://news.ycombinator.com/item?id=38442201) - [People likely to be harmed by AI don't have a seat at the table for regulation](https://english.elpais.com/technology/2023-11-27/margaret-mitchell-the-people-who-are-most-likely-to-be-harmed-by-ai-dont-have-a-seat-at-the-table-for-regulation.html)
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 * [2023-11-28, 03:40:34](https://news.ycombinator.com/item?id=38442050) - [Antirez' tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
+* [2023-11-28, 03:15:55](https://news.ycombinator.com/item?id=38441866) - [San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
 * [2023-11-28, 02:58:41](https://news.ycombinator.com/item?id=38441747) - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
 * [2023-11-28, 02:52:10](https://news.ycombinator.com/item?id=38441710) - [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
 * [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)

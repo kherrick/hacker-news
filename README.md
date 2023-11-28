@@ -2,6 +2,7 @@
 
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
 * [2023-11-28, 03:40:34](https://news.ycombinator.com/item?id=38442050) - [Antirez' tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
+* [2023-11-28, 03:15:55](https://news.ycombinator.com/item?id=38441866) - [San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
 * [2023-11-28, 02:58:41](https://news.ycombinator.com/item?id=38441747) - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
 * [2023-11-28, 02:52:10](https://news.ycombinator.com/item?id=38441710) - [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
 * [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
@@ -24,12 +25,11 @@
 * [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)
 * [2023-11-25, 16:16:01](https://news.ycombinator.com/item?id=38414413) - [Process for mass producing Japanese 500 yen coins](https://theawesomer.com/how-coins-are-made/723090/)
 * [2023-11-25, 16:11:15](https://news.ycombinator.com/item?id=38414380) - [Large Interferometer for Exoplanets [pdf]](https://www.aanda.org/articles/aa/pdf/2023/10/aa45927-23.pdf)
+* [2023-11-25, 16:01:22](https://news.ycombinator.com/item?id=38414303) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2023-11-25, 13:53:04](https://news.ycombinator.com/item?id=38413509) - [Regulating the Rag and Bone Man (2017)](https://blogs.loc.gov/law/2017/08/regulating-the-rag-and-bone-man/)
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A DX7 USB Dongle](https://diyelectromusic.wordpress.com/2023/11/22/a-dx7-usb-dongle/)
 * [2023-11-25, 07:42:13](https://news.ycombinator.com/item?id=38411975) - [Optical Computing with Plasma [video]](https://www.youtube.com/watch?v=Mdh2pLwsK8Y)
-* [2023-11-25, 03:54:03](https://news.ycombinator.com/item?id=38411039) - [Parenting Off-Balance](https://benexdict.io/p/parenting-off-balance)
 * [2023-11-25, 01:34:41](https://news.ycombinator.com/item?id=38410281) - [The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
-* [2023-11-25, 00:20:18](https://news.ycombinator.com/item?id=38409871) - [Honeybee clustering when it's cold is a distress behavior: study](https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066)
 
 ## [Archives](archives/index.md)
 
