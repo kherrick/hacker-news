@@ -13,6 +13,7 @@
 * [2023-11-28, 00:26:30](https://news.ycombinator.com/item?id=38440620) - [Running SQL Queries on Org Tables](http://yummymelon.com/devnull/running-sql-queries-on-org-tables.html)
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
+* [2023-11-27, 20:15:22](https://news.ycombinator.com/item?id=38437607) - [Running Llama.cpp on AWS Instances](https://github.com/ggerganov/llama.cpp/discussions/4225)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Strange Metals: Where electricity may flow without electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 17:28:16](https://news.ycombinator.com/item?id=38435182) - [Agency: Pure Go LangChain Alternative](https://github.com/neurocult/agency)
@@ -29,7 +30,6 @@
 * [2023-11-25, 13:53:04](https://news.ycombinator.com/item?id=38413509) - [Regulating the Rag and Bone Man (2017)](https://blogs.loc.gov/law/2017/08/regulating-the-rag-and-bone-man/)
 * [2023-11-25, 07:42:13](https://news.ycombinator.com/item?id=38411975) - [Optical Computing with Plasma [video]](https://www.youtube.com/watch?v=Mdh2pLwsK8Y)
 * [2023-11-25, 01:34:41](https://news.ycombinator.com/item?id=38410281) - [The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
-* [2023-11-24, 23:14:25](https://news.ycombinator.com/item?id=38409418) - [A600GS Computer from AmigaKit Ltd](http://wiki.amiga.org/index.php?title=A600GS)
 
 ## [Archives](archives/index.md)
 
