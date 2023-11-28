@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 21:30:28](https://news.ycombinator.com/item?id=38451576) - [US and UK Military Contractors Created Plan for Global Censorship in 2018](https://public.substack.com/p/ctil-files-1-us-and-uk-military-contractors)
 * [2023-11-28, 21:27:13](https://news.ycombinator.com/item?id=38451543) - [Charlie Munger – Feeling Like a Victim Is Perfectly Disastrous](https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
@@ -18,7 +19,6 @@
 * [2023-11-28, 14:53:38](https://news.ycombinator.com/item?id=38446353) - [Keras 3.0](https://keras.io/keras_3/)
 * [2023-11-28, 14:25:54](https://news.ycombinator.com/item?id=38446027) - [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
 * [2023-11-28, 14:03:08](https://news.ycombinator.com/item?id=38445754) - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
-* [2023-11-28, 14:02:18](https://news.ycombinator.com/item?id=38445745) - [IKEA sensors for doors and windows, motion, water leaks](https://www.theverge.com/2023/11/28/23977693/ikea-sensors-door-window-water-motion-price-date-specs)
 * [2023-11-28, 13:52:02](https://news.ycombinator.com/item?id=38445660) - [Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 12:55:36](https://news.ycombinator.com/item?id=38445165) - [The Knight Capital Disaster](https://specbranch.com/posts/knight-capital/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft open-sources ThreadX](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
