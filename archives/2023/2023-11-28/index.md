@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
 * [2023-11-28, 08:00:48](https://news.ycombinator.com/item?id=38443465) - [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
 * [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
 * [2023-11-28, 07:20:53](https://news.ycombinator.com/item?id=38443292) - [Noyb files GDPR complaint against Meta over \"Pay or Okay\"](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
