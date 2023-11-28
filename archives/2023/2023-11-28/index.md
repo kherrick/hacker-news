@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 21:27:13](https://news.ycombinator.com/item?id=38451543) - [Charlie Munger – Feeling Like a Victim Is Perfectly Disastrous](https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)
+* [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
 * [2023-11-28, 20:35:15](https://news.ycombinator.com/item?id=38450908) - [The Dead Children We Must See](https://www.newyorker.com/news/our-columnists/the-dead-children-we-must-see)
 * [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)

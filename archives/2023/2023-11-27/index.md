@@ -50,6 +50,7 @@
 * [2023-11-27, 16:41:35](https://news.ycombinator.com/item?id=38434470) - [Web Components Eliminate JavaScript Framework Lock-In](https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-lock-in/)
 * [2023-11-27, 16:39:58](https://news.ycombinator.com/item?id=38434450) - [Meta Designed Products to Capitalize on Teen Vulnerabilities, States Allege](https://www.wsj.com/business/media/meta-designed-products-to-capitalize-on-teen-vulnerabilities-states-allege-6791dad5)
 * [2023-11-27, 16:32:18](https://news.ycombinator.com/item?id=38434344) - [Health experts criticise new NZ government's shock reversal of smoking ban](https://www.bbc.com/news/world-asia-67540190)
+* [2023-11-27, 16:01:32](https://news.ycombinator.com/item?id=38433885) - [Scientists succeed growing dolomite in lab by dissolving defects during growth](https://phys.org/news/2023-11-scientists-succeed-dolomite-lab-dissolving.html)
 * [2023-11-27, 16:00:03](https://news.ycombinator.com/item?id=38433856) - [\"We pulled off an SEO heist with AI and stole 3.6M impressions.\"](https://mastodon.social/@gamingonlinux/111482420414024520)
 * [2023-11-27, 15:41:53](https://news.ycombinator.com/item?id=38433563) - [Nutrient found in beef and dairy improves immune response to cancer](https://biologicalsciences.uchicago.edu/news/tva-nutrient-cancer-immunity)
 * [2023-11-27, 15:39:26](https://news.ycombinator.com/item?id=38433517) - [Poll_next](https://without.boats/blog/poll-next/)
