@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
+* [2023-11-28, 16:42:07](https://news.ycombinator.com/item?id=38447709) - [District court rejects Tesla request, Postnord does not have to deliver plates](https://www.svt.se/nyheter/inrikes/solna-tingsratt-avslar-teslas-stamning-mot-postnord--33vhqt)
 * [2023-11-28, 16:41:40](https://news.ycombinator.com/item?id=38447701) - [Sunspots could send a solar storm our way as early as Saturday](https://www.businessinsider.com/sunspots-15-times-size-of-earth-solar-storm-into-view-2023-11)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph Representation Learning on Relational Databases [pdf]](https://relbench.stanford.edu/paper.pdf)
 * [2023-11-28, 16:08:28](https://news.ycombinator.com/item?id=38447238) - [Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
