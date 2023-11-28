@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 23:43:19](https://news.ycombinator.com/item?id=38440194) - [Google Play keeps banning the same web browser due to vague DMCA notices](https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/)
+* [2023-11-27, 23:24:28](https://news.ycombinator.com/item?id=38440011) - [Linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
 * [2023-11-27, 23:08:30](https://news.ycombinator.com/item?id=38439851) - [How could Al Bundy afford a house when he was making minimum wage?](https://old.reddit.com/r/AskHistorians/comments/ggozng/in_the_sitcom_married_with_children_protagonist/)
 * [2023-11-27, 23:06:04](https://news.ycombinator.com/item?id=38439817) - [After 151 years, Popular Science will no longer offer a magazine](https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued)
 * [2023-11-27, 23:04:15](https://news.ycombinator.com/item?id=38439794) - [Male Tech Conference Founder Is Behind Popular Woman Coding Influencer Account](https://www.404media.co/coding-unicorn-instagram-julia-kirsina-devternity/)
