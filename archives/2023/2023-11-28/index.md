@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 12:51:02](https://news.ycombinator.com/item?id=38445122) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
 * [2023-11-28, 12:21:54](https://news.ycombinator.com/item?id=38444948) - [Tax, healthcare, immigration: why Dutch people voted for Geert Wilders](https://www.theguardian.com/world/2023/nov/23/dutch-explain-why-they-voted-for-geert-wilders-netherlands-election)
 * [2023-11-28, 12:03:04](https://news.ycombinator.com/item?id=38444834) - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
 * [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)

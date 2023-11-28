@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 12:51:02](https://news.ycombinator.com/item?id=38445122) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
 * [2023-11-28, 12:21:54](https://news.ycombinator.com/item?id=38444948) - [Tax, healthcare, immigration: why Dutch people voted for Geert Wilders](https://www.theguardian.com/world/2023/nov/23/dutch-explain-why-they-voted-for-geert-wilders-netherlands-election)
 * [2023-11-28, 12:03:04](https://news.ycombinator.com/item?id=38444834) - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
 * [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
@@ -13,7 +14,6 @@
 * [2023-11-28, 02:58:41](https://news.ycombinator.com/item?id=38441747) - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
 * [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
 * [2023-11-28, 01:33:07](https://news.ycombinator.com/item?id=38441139) - [Orion Browser by Kagi](https://kagi.com/orion/)
-* [2023-11-28, 01:01:02](https://news.ycombinator.com/item?id=38440911) - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-11-28, 00:44:33](https://news.ycombinator.com/item?id=38440779) - [An Invasive Tick That Can Clone Itself Is Spreading Across the U.S.](https://www.smithsonianmag.com/smart-news/an-invasive-tick-that-can-clone-itself-is-spreading-across-us-threatening-livestock-180983323/)
 * [2023-11-28, 00:26:30](https://news.ycombinator.com/item?id=38440620) - [Running SQL Queries on Org Tables](http://yummymelon.com/devnull/running-sql-queries-on-org-tables.html)
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
