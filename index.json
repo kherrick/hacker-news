@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-28, 19:24:33",
+      "https://news.ycombinator.com/item?id=38450047"
+    ],
+    [
+      "Company founded by University of Bristol develops revolutionary fusion reactor",
+      "https://www.bristol.ac.uk/news/2023/november/astral-fusion-reactor.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 19:01:09",
+      "https://news.ycombinator.com/item?id=38449763"
+    ],
+    [
+      "Meditron: A suite of open-source medical Large Language Models",
+      "https://github.com/epfLLM/meditron"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 18:52:26",
+      "https://news.ycombinator.com/item?id=38449630"
+    ],
+    [
+      "Files Suggest UN Climate Summit's Leader Is Using Event to Promote Fossil Fuels",
+      "https://www.nytimes.com/2023/11/28/climate/uae-cop28-documents-al-jaber.html"
+    ]
+  ],
+  [
+    [
       "2023-11-28, 18:42:48",
       "https://news.ycombinator.com/item?id=38449493"
     ],
@@ -47,16 +77,6 @@
     [
       "Amazon Introduces Q, an A.I. Chatbot for Companies",
       "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 17:41:16",
-      "https://news.ycombinator.com/item?id=38448450"
-    ],
-    [
-      "Section 702 surveillance reauthorization may get slipped into ‘must-pass’ NDAA",
-      "https://www.wired.com/story/section-702-reauthorization-ndaa-2023/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Semantic Kernel",
       "https://github.com/microsoft/semantic-kernel"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 14:02:24",
-      "https://news.ycombinator.com/item?id=38445747"
-    ],
-    [
-      "General Availability of the AWS SDK for Rust",
-      "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "PiDP-11",
       "https://retroviator.com/pidp-11/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 07:41:01",
-      "https://news.ycombinator.com/item?id=38429278"
-    ],
-    [
-      "C++ Memory Model: Migrating from x86 to ARM (2021)",
-      "https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/"
     ]
   ],
   [
