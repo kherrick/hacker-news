@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 * [2023-11-28, 22:40:38](https://news.ycombinator.com/item?id=38452493) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.aol.com/unity-software-cut-3-8-221242432.html)
+* [2023-11-28, 22:36:04](https://news.ycombinator.com/item?id=38452425) - [Nobody wants U.S. Treasury bonds](https://www.semafor.com/article/11/28/2023/nobody-wants-us-treasury-bonds)
 * [2023-11-28, 22:08:33](https://news.ycombinator.com/item?id=38452059) - [Ask HN: Git hosting sites that do not require 2FA?](https://news.ycombinator.com/item?id=38452059)
 * [2023-11-28, 22:04:50](https://news.ycombinator.com/item?id=38452005) - [Erwin Schrödinger – Sexual Abuse](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
 * [2023-11-28, 21:58:55](https://news.ycombinator.com/item?id=38451920) - [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
