@@ -24,7 +24,7 @@
 * [2023-11-28, 12:38:01](https://news.ycombinator.com/item?id=38445039) - [Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
 * [2023-11-28, 12:26:05](https://news.ycombinator.com/item?id=38444969) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
-* [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
+* [2023-11-28, 12:07:23](https://news.ycombinator.com/item?id=38444864) - [Portuguese Orange, Persian Portugal](https://untested.sonnet.io/Portuguese+Orange%2C+Persian+Portugal)
 * [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The hunt for life in Alpha Centauri](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-27, 21:57:06](https://news.ycombinator.com/item?id=38438983) - [Inspired by aircraft IFF interrogator antennas, I decided to build my own array](https://techhub.social/@oz1lqo/111484469731372526)
