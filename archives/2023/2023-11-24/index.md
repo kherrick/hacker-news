@@ -6,6 +6,7 @@
 
 * [2023-11-24, 23:51:39](https://news.ycombinator.com/item?id=38409692) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 * [2023-11-24, 23:29:59](https://news.ycombinator.com/item?id=38409544) - [Skull bone marrow channels as immune gateways to the central nervous system](https://www.nature.com/articles/s41593-023-01487-1)
+* [2023-11-24, 23:26:35](https://news.ycombinator.com/item?id=38409523) - [Intentional creation of carbon-rich dark earth soils in the Amazon](https://www.science.org/doi/full/10.1126/sciadv.adh8499)
 * [2023-11-24, 23:14:59](https://news.ycombinator.com/item?id=38409425) - [Street Fighter II, subtile accurate animation (2021)](https://fabiensanglard.net/sf2_health_bar/index.html)
 * [2023-11-24, 23:14:25](https://news.ycombinator.com/item?id=38409418) - [A600GS Computer from AmigaKit Ltd](http://wiki.amiga.org/index.php?title=A600GS)
 * [2023-11-24, 23:06:11](https://news.ycombinator.com/item?id=38409353) - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)

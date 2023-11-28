@@ -22,7 +22,6 @@
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
 * [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
-* [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [The Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)
 * [2023-11-25, 16:58:39](https://news.ycombinator.com/item?id=38414677) - [Visual effects model design [video] (1980)](https://www.bbc.co.uk/archive/visual-effects-model-design/zdmgnrd)
 * [2023-11-25, 16:11:15](https://news.ycombinator.com/item?id=38414380) - [Large Interferometer for Exoplanets [pdf]](https://www.aanda.org/articles/aa/pdf/2023/10/aa45927-23.pdf)
@@ -30,6 +29,7 @@
 * [2023-11-25, 08:29:22](https://news.ycombinator.com/item?id=38412138) - [Heron's Horse [video]](https://www.youtube.com/watch?v=dmPgTDs9FRo)
 * [2023-11-25, 07:42:13](https://news.ycombinator.com/item?id=38411975) - [Optical Computing with Plasma [video]](https://www.youtube.com/watch?v=Mdh2pLwsK8Y)
 * [2023-11-25, 01:34:41](https://news.ycombinator.com/item?id=38410281) - [The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
+* [2023-11-24, 23:26:35](https://news.ycombinator.com/item?id=38409523) - [Intentional creation of carbon-rich dark earth soils in the Amazon](https://www.science.org/doi/full/10.1126/sciadv.adh8499)
 
 ## [Archives](archives/index.md)
 
