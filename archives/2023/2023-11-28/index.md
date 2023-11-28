@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
 * [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:51:04](https://news.ycombinator.com/item?id=38450327) - [OpenAI: Increased errors across API and ChatGPT](https://status.openai.com/incidents/q58417g6n5r7)
 * [2023-11-28, 19:47:56](https://news.ycombinator.com/item?id=38450284) - [Some might not see how much work is/was to maintain xorg server](https://mastodon.social/@csoriano/111489425631719327)
+* [2023-11-28, 19:38:30](https://news.ycombinator.com/item?id=38450184) - [Google's .meme domain is here to serve your wackiest websites](https://www.theverge.com/2023/11/28/23979595/google-registry-meme-domain-launch)
 * [2023-11-28, 19:28:43](https://news.ycombinator.com/item?id=38450087) - [Most AI startups are doomed](https://weightythoughts.com/p/most-ai-startups-are-doomed)
 * [2023-11-28, 19:24:33](https://news.ycombinator.com/item?id=38450047) - [Company founded by University of Bristol develops revolutionary fusion reactor](https://www.bristol.ac.uk/news/2023/november/astral-fusion-reactor.html)
 * [2023-11-28, 19:14:04](https://news.ycombinator.com/item?id=38449941) - [Undercover in Saudi Arabia's secretive program to keep the world burning oil](https://climate-reporting.org/undercover-saudi-arabia-keep-burning-oil/)
@@ -19,6 +21,7 @@
 * [2023-11-28, 18:27:18](https://news.ycombinator.com/item?id=38449233) - [Please don't use AI to solve Advent of Code](https://adventofcode.com/)
 * [2023-11-28, 18:22:52](https://news.ycombinator.com/item?id=38449148) - [American workers are 'unhappier at work' than they have been in years](https://www.foxnews.com/media/american-workers-unhappier-work-they-have-been-years-inflation-remote-work-take-toll)
 * [2023-11-28, 17:59:00](https://news.ycombinator.com/item?id=38448694) - [Amazon announces Q, an AI chatbot for businesses](https://www.cnbc.com/2023/11/28/amazon-announces-q-an-ai-chatbot-for-businesses.html)
+* [2023-11-28, 17:56:37](https://news.ycombinator.com/item?id=38448655) - [Positional description matters for transformers arithmetic](https://arxiv.org/abs/2311.14737)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/)
 * [2023-11-28, 17:48:05](https://news.ycombinator.com/item?id=38448546) - [Amazon Introduces Q, an A.I. Chatbot for Companies](https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html)
 * [2023-11-28, 17:43:13](https://news.ycombinator.com/item?id=38448478) - [Meta Joins Google in Turning Back on Open Web over 'Child Protection' Mandates](https://www.techdirt.com/2023/11/28/meta-joins-google-in-turning-its-back-on-the-open-web-and-embracing-unconstitutional-mandates-that-pretend-to-protect-the-children/)
