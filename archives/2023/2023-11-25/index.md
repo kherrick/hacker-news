@@ -72,6 +72,7 @@
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A DX7 USB Dongle](https://diyelectromusic.wordpress.com/2023/11/22/a-dx7-usb-dongle/)
 * [2023-11-25, 09:07:52](https://news.ycombinator.com/item?id=38412297) - [Numbers Far Afield](https://mathenchant.wordpress.com/2023/11/17/numbers-far-afield/)
 * [2023-11-25, 07:59:05](https://news.ycombinator.com/item?id=38412049) - [A peculiarity of the GNU Coreutils version of 'test' and '['](https://utcc.utoronto.ca/~cks/space/blog/linux/CoreutilsTestPeculiarity)
+* [2023-11-25, 07:42:13](https://news.ycombinator.com/item?id=38411975) - [Optical Computing with Plasma [video]](https://www.youtube.com/watch?v=Mdh2pLwsK8Y)
 * [2023-11-25, 06:49:57](https://news.ycombinator.com/item?id=38411762) - [Economic Effects of State Bans on Direct Manufacturer Sales to Car Buyers [pdf]](https://www.justice.gov/sites/default/files/atr/legacy/2009/05/28/246374.pdf)
 * [2023-11-25, 05:45:42](https://news.ycombinator.com/item?id=38411505) - [The new Paris métro](https://www.forbes.com/sites/jenniferleighparker/2023/11/22/the-new-paris-mtro-is-coming-and-its-a-very-big-deal/)
 * [2023-11-25, 05:19:06](https://news.ycombinator.com/item?id=38411415) - [ArchiveTeam is saving Blogger from Google deletion](https://tracker.archiveteam.org/blogger/)
