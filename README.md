@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-28, 22:08:33](https://news.ycombinator.com/item?id=38452059) - [Ask HN: Git hosting sites that do not require 2FA?](https://news.ycombinator.com/item?id=38452059)
+* [2023-11-28, 22:04:50](https://news.ycombinator.com/item?id=38452005) - [Erwin Schrödinger – Sexual Abuse](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
 * [2023-11-28, 21:58:55](https://news.ycombinator.com/item?id=38451920) - [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:14:16](https://news.ycombinator.com/item?id=38451410) - [Berkshire Hathaway's Charlie Munger dies aged 99](https://www.ft.com/content/66124b0c-3cd1-41d4-b0b2-c2f45f4cf196)
@@ -19,7 +20,6 @@
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [Reasonable expectation of effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)
-* [2023-11-28, 14:03:08](https://news.ycombinator.com/item?id=38445754) - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
 * [2023-11-28, 12:55:36](https://news.ycombinator.com/item?id=38445165) - [The Knight Capital Disaster](https://specbranch.com/posts/knight-capital/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft open-sources ThreadX](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
 * [2023-11-28, 12:07:23](https://news.ycombinator.com/item?id=38444864) - [Portuguese Orange, Persian Portugal](https://untested.sonnet.io/Portuguese+Orange%2C+Persian+Portugal)
