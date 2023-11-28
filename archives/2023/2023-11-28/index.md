@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 02:58:41](https://news.ycombinator.com/item?id=38441747) - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
 * [2023-11-28, 02:52:10](https://news.ycombinator.com/item?id=38441710) - [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
 * [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
 * [2023-11-28, 02:41:57](https://news.ycombinator.com/item?id=38441635) - [3M, DuPont Defeat Class Action over Forever Chemicals](https://www.reuters.com/markets/commodities/3m-dupont-defeat-massive-class-action-over-forever-chemicals-2023-11-27/)
