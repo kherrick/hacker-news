@@ -1,22 +1,12 @@
 [
   [
     [
-      "2023-11-28, 21:30:28",
-      "https://news.ycombinator.com/item?id=38451576"
+      "2023-11-28, 21:58:55",
+      "https://news.ycombinator.com/item?id=38451920"
     ],
     [
-      "US and UK Military Contractors Created Plan for Global Censorship in 2018",
-      "https://public.substack.com/p/ctil-files-1-us-and-uk-military-contractors"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 21:27:13",
-      "https://news.ycombinator.com/item?id=38451543"
-    ],
-    [
-      "Charlie Munger – Feeling Like a Victim Is Perfectly Disastrous",
-      "https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger"
+      "Shutting down the Matrix bridge to Libera Chat",
+      "https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Some might not see how much work it was to maintain xorg server",
       "https://mastodon.social/@csoriano/111489425631719327"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 19:32:47",
+      "https://news.ycombinator.com/item?id=38450123"
+    ],
+    [
+      "Powering cost-efficient AI inference at scale with Cloud TPU v5e on GKE",
+      "https://cloud.google.com/blog/products/containers-kubernetes/cost-efficient-ai-inference-with-cloud-tpu-v5e-on-gke"
     ]
   ],
   [
