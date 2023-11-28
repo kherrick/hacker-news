@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-11-28, 05:26:23",
-      "https://news.ycombinator.com/item?id=38442652"
-    ],
-    [
-      "USB DNA micro sequencer for $1k",
-      "https://nanoporetech.com/products/sequence/minion"
-    ]
-  ],
-  [
-    [
       "2023-11-28, 05:08:10",
       "https://news.ycombinator.com/item?id=38442548"
     ],
@@ -227,6 +217,16 @@
     [
       "Custom Events in the Blocky World: Using JFR in Minecraft",
       "https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 07:41:01",
+      "https://news.ycombinator.com/item?id=38429278"
+    ],
+    [
+      "C++ Memory Model: Migrating from x86 to ARM",
+      "https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/"
     ]
   ],
   [
