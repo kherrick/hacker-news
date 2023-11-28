@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 22:08:33](https://news.ycombinator.com/item?id=38452059) - [Ask HN: Git hosting sites that do not require 2FA?](https://news.ycombinator.com/item?id=38452059)
 * [2023-11-28, 21:58:55](https://news.ycombinator.com/item?id=38451920) - [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:14:16](https://news.ycombinator.com/item?id=38451410) - [Berkshire Hathaway's Charlie Munger dies aged 99](https://www.ft.com/content/66124b0c-3cd1-41d4-b0b2-c2f45f4cf196)
@@ -9,7 +10,6 @@
 * [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
-* [2023-11-28, 19:47:56](https://news.ycombinator.com/item?id=38450284) - [Some might not see how much work it was to maintain xorg server](https://mastodon.social/@csoriano/111489425631719327)
 * [2023-11-28, 19:32:47](https://news.ycombinator.com/item?id=38450123) - [Powering cost-efficient AI inference at scale with Cloud TPU v5e on GKE](https://cloud.google.com/blog/products/containers-kubernetes/cost-efficient-ai-inference-with-cloud-tpu-v5e-on-gke)
 * [2023-11-28, 19:04:44](https://news.ycombinator.com/item?id=38449827) - [S3 Express Is All You Need](https://www.warpstream.com/blog/s3-express-is-all-you-need)
 * [2023-11-28, 19:01:09](https://news.ycombinator.com/item?id=38449763) - [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
