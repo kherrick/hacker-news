@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 19:28:43](https://news.ycombinator.com/item?id=38450087) - [Most AI startups are doomed](https://weightythoughts.com/p/most-ai-startups-are-doomed)
 * [2023-11-28, 19:24:33](https://news.ycombinator.com/item?id=38450047) - [Company founded by University of Bristol develops revolutionary fusion reactor](https://www.bristol.ac.uk/news/2023/november/astral-fusion-reactor.html)
+* [2023-11-28, 19:04:44](https://news.ycombinator.com/item?id=38449827) - [S3 Express Is All You Need](https://www.warpstream.com/blog/s3-express-is-all-you-need)
 * [2023-11-28, 19:01:09](https://news.ycombinator.com/item?id=38449763) - [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
 * [2023-11-28, 18:52:26](https://news.ycombinator.com/item?id=38449630) - [Files Suggest UN Climate Summit's Leader Is Using Event to Promote Fossil Fuels](https://www.nytimes.com/2023/11/28/climate/uae-cop28-documents-al-jaber.html)
 * [2023-11-28, 18:42:48](https://news.ycombinator.com/item?id=38449493) - [The birth and death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
