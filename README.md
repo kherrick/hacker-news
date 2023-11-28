@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-28, 08:00:48](https://news.ycombinator.com/item?id=38443465) - [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
+* [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
 * [2023-11-28, 07:20:53](https://news.ycombinator.com/item?id=38443292) - [Noyb files GDPR complaint against Meta over \"Pay or Okay\"](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 07:12:18](https://news.ycombinator.com/item?id=38443252) - [U.N. Predicts Disaster If Global Warming Not Checked (1989)](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
@@ -18,7 +19,6 @@
 * [2023-11-27, 20:15:22](https://news.ycombinator.com/item?id=38437607) - [Running Llama.cpp on AWS Instances](https://github.com/ggerganov/llama.cpp/discussions/4225)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Strange Metals: Where electricity may flow without electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
-* [2023-11-27, 17:28:16](https://news.ycombinator.com/item?id=38435182) - [Agency: Pure Go LangChain Alternative](https://github.com/neurocult/agency)
 * [2023-11-27, 16:47:19](https://news.ycombinator.com/item?id=38434574) - [Show HN: Trains.fyi – a live map of passenger trains in the US and Canada](https://trains.fyi/)
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
