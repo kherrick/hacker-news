@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 13:42:24](https://news.ycombinator.com/item?id=38445578) - [What happens when your AI girlfriend dies?](https://www.dazeddigital.com/life-culture/article/61432/1/what-happens-when-your-ai-girlfriend-dies-replika-forever-voices-soulmate)
 * [2023-11-28, 12:51:02](https://news.ycombinator.com/item?id=38445122) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
 * [2023-11-28, 12:35:27](https://news.ycombinator.com/item?id=38445022) - [Badly-Compressed Images Affect CLIP's Performance, New Research Contends](https://blog.metaphysic.ai/badly-compressed-images-affect-clips-performance-new-research-contends/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)

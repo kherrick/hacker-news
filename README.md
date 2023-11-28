@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 13:42:24](https://news.ycombinator.com/item?id=38445578) - [What happens when your AI girlfriend dies?](https://www.dazeddigital.com/life-culture/article/61432/1/what-happens-when-your-ai-girlfriend-dies-replika-forever-voices-soulmate)
 * [2023-11-28, 12:51:02](https://news.ycombinator.com/item?id=38445122) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
-* [2023-11-28, 12:35:27](https://news.ycombinator.com/item?id=38445022) - [Badly-Compressed Images Affect CLIP's Performance, New Research Contends](https://blog.metaphysic.ai/badly-compressed-images-affect-clips-performance-new-research-contends/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
 * [2023-11-28, 12:09:34](https://news.ycombinator.com/item?id=38444876) - [Swift as C++ Successor in FoundationDB [video]](https://www.youtube.com/watch?v=ZQc9-seU-5k)
 * [2023-11-28, 12:03:04](https://news.ycombinator.com/item?id=38444834) - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
@@ -20,7 +20,7 @@
 * [2023-11-28, 01:33:07](https://news.ycombinator.com/item?id=38441139) - [Orion Browser by Kagi](https://kagi.com/orion/)
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
-* [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
+* [2023-11-27, 08:50:18](https://news.ycombinator.com/item?id=38429817) - [Amazon EC2 Enhances Defense in Depth with Default IMDSv2](https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
 * [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM (2021)](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
 * [2023-11-27, 06:54:29](https://news.ycombinator.com/item?id=38429055) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
