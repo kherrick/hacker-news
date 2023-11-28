@@ -11,6 +11,7 @@
 * [2023-11-28, 12:03:04](https://news.ycombinator.com/item?id=38444834) - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
 * [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-28, 11:18:08](https://news.ycombinator.com/item?id=38444606) - [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
+* [2023-11-28, 10:09:39](https://news.ycombinator.com/item?id=38444241) - [Show HN: Transform Notes into Visual Mind Maps](https://www.cmaps.io/)
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 * [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
 * [2023-11-28, 08:00:48](https://news.ycombinator.com/item?id=38443465) - [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
