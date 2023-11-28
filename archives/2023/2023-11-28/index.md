@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 11:18:08](https://news.ycombinator.com/item?id=38444606) - [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 * [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
 * [2023-11-28, 08:00:48](https://news.ycombinator.com/item?id=38443465) - [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 11:18:08](https://news.ycombinator.com/item?id=38444606) - [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 * [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
 * [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
@@ -21,7 +22,6 @@
 * [2023-11-27, 14:18:24](https://news.ycombinator.com/item?id=38432486) - [Show HN: A Dalle-3 and GPT4-Vision feedback loop](https://dalle.party/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
 * [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM (2021)](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
-* [2023-11-26, 12:14:27](https://news.ycombinator.com/item?id=38421044) - [The Periodic Table of Tools](https://periodictableoftools.com/index.html)
 * [2023-11-25, 22:50:51](https://news.ycombinator.com/item?id=38417497) - [Formation-Flying Interferometry in Geocentric Orbits](https://arxiv.org/abs/2311.10970)
 * [2023-11-25, 16:58:39](https://news.ycombinator.com/item?id=38414677) - [Visual effects model design [video] (1980)](https://www.bbc.co.uk/archive/visual-effects-model-design/zdmgnrd)
 * [2023-11-25, 16:11:15](https://news.ycombinator.com/item?id=38414380) - [Large Interferometer for Exoplanets [pdf]](https://www.aanda.org/articles/aa/pdf/2023/10/aa45927-23.pdf)
