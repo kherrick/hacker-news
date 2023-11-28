@@ -2,6 +2,7 @@
 
 * [2023-11-28, 14:25:54](https://news.ycombinator.com/item?id=38446027) - [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
 * [2023-11-28, 13:52:02](https://news.ycombinator.com/item?id=38445660) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
+* [2023-11-28, 13:46:30](https://news.ycombinator.com/item?id=38445613) - [Left-sided Cancer: Blame your bed and TV? (2010)](https://blogs.scientificamerican.com/guest-blog/left-sided-cancer-blame-your-bed-and-tv/)
 * [2023-11-28, 12:51:02](https://news.ycombinator.com/item?id=38445122) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
 * [2023-11-28, 12:38:01](https://news.ycombinator.com/item?id=38445039) - [Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
 * [2023-11-28, 12:35:27](https://news.ycombinator.com/item?id=38445022) - [Badly-Compressed Images Affect CLIP's Performance, New Research Contends](https://blog.metaphysic.ai/badly-compressed-images-affect-clips-performance-new-research-contends/)
@@ -12,7 +13,6 @@
 * [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-28, 10:09:39](https://news.ycombinator.com/item?id=38444241) - [Show HN: Transform Notes into Visual Mind Maps](https://www.cmaps.io/)
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
-* [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort?](https://news.ycombinator.com/item?id=38443668)
 * [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The Hunt for Life in Alpha Centauri](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
