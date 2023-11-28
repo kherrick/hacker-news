@@ -2,7 +2,6 @@
 
 * [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
 * [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
-* [2023-11-28, 07:20:53](https://news.ycombinator.com/item?id=38443292) - [Noyb files GDPR complaint against Meta over \"Pay or Okay\"](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 07:12:18](https://news.ycombinator.com/item?id=38443252) - [U.N. Predicts Disaster If Global Warming Not Checked (1989)](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
@@ -12,6 +11,7 @@
 * [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
 * [2023-11-28, 01:33:07](https://news.ycombinator.com/item?id=38441139) - [Orion Browser by Kagi](https://kagi.com/orion/)
 * [2023-11-28, 01:01:02](https://news.ycombinator.com/item?id=38440911) - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
+* [2023-11-28, 00:44:33](https://news.ycombinator.com/item?id=38440779) - [An Invasive Tick That Can Clone Itself Is Spreading Across the U.S.](https://www.smithsonianmag.com/smart-news/an-invasive-tick-that-can-clone-itself-is-spreading-across-us-threatening-livestock-180983323/)
 * [2023-11-28, 00:26:30](https://news.ycombinator.com/item?id=38440620) - [Running SQL Queries on Org Tables](http://yummymelon.com/devnull/running-sql-queries-on-org-tables.html)
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [Let's try to understand AI monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)

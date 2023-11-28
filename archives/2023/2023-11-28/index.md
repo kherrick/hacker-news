@@ -28,6 +28,7 @@
 * [2023-11-28, 02:04:28](https://news.ycombinator.com/item?id=38441401) - [The Case That Could Destroy the Government](https://www.theatlantic.com/ideas/archive/2023/11/securities-and-exchange-commission-v-jarkesy-supreme-court/676059/)
 * [2023-11-28, 01:33:07](https://news.ycombinator.com/item?id=38441139) - [Orion Browser by Kagi](https://kagi.com/orion/)
 * [2023-11-28, 01:01:02](https://news.ycombinator.com/item?id=38440911) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
+* [2023-11-28, 00:44:33](https://news.ycombinator.com/item?id=38440779) - [An Invasive Tick That Can Clone Itself Is Spreading Across the U.S.](https://www.smithsonianmag.com/smart-news/an-invasive-tick-that-can-clone-itself-is-spreading-across-us-threatening-livestock-180983323/)
 * [2023-11-28, 00:26:30](https://news.ycombinator.com/item?id=38440620) - [Running SQL Queries on Org Tables](http://yummymelon.com/devnull/running-sql-queries-on-org-tables.html)
 * [2023-11-28, 00:25:14](https://news.ycombinator.com/item?id=38440607) - [Red Hat Enterprise Linux 10 Plans for Wayland and Xorg Server](https://www.redhat.com/de/blog/rhel-10-plans-wayland-and-xorg-server)
 * [2023-11-28, 00:23:40](https://news.ycombinator.com/item?id=38440597) - [Voice-over-LTE: The Reason Why Your Phone May Soon Stop Working](https://hackaday.com/2023/11/27/voice-over-lte-the-reason-why-your-phone-may-soon-stop-working/)
