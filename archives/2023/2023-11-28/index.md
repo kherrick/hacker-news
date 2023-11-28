@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 18:27:18](https://news.ycombinator.com/item?id=38449233) - [Please don't use AI to solve Advent of Code](https://adventofcode.com/)
+* [2023-11-28, 18:22:52](https://news.ycombinator.com/item?id=38449148) - [American workers are 'unhappier at work' than they have been in years](https://www.foxnews.com/media/american-workers-unhappier-work-they-have-been-years-inflation-remote-work-take-toll)
 * [2023-11-28, 17:59:00](https://news.ycombinator.com/item?id=38448694) - [Amazon announces Q, an AI chatbot for businesses](https://www.cnbc.com/2023/11/28/amazon-announces-q-an-ai-chatbot-for-businesses.html)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/)
 * [2023-11-28, 17:48:05](https://news.ycombinator.com/item?id=38448546) - [Amazon Introduces Q, an A.I. Chatbot for Companies](https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html)
 * [2023-11-28, 17:43:13](https://news.ycombinator.com/item?id=38448478) - [Meta Joins Google in Turning Back on Open Web over 'Child Protection' Mandates](https://www.techdirt.com/2023/11/28/meta-joins-google-in-turning-its-back-on-the-open-web-and-embracing-unconstitutional-mandates-that-pretend-to-protect-the-children/)
 * [2023-11-28, 17:41:16](https://news.ycombinator.com/item?id=38448450) - [Section 702 surveillance reauthorization may get slipped into ‘must-pass’ NDAA](https://www.wired.com/story/section-702-reauthorization-ndaa-2023/)
 * [2023-11-28, 17:32:04](https://news.ycombinator.com/item?id=38448318) - [Sorry you feel that way: why passive aggression took over the world](https://www.economist.com/1843/2023/11/21/sorry-you-feel-that-way-why-passive-aggression-took-over-the-world)
+* [2023-11-28, 17:20:23](https://news.ycombinator.com/item?id=38448199) - [Combine GPTs with private knowledge for actually useful AIs](https://medium.com/@yuhongsun96/using-gpts-as-team-members-357a8d7c86ac)
 * [2023-11-28, 17:14:52](https://news.ycombinator.com/item?id=38448137) - [Amazon Q](https://aws.amazon.com/q/)
 * [2023-11-28, 17:02:01](https://news.ycombinator.com/item?id=38447954) - [Pika 1.0, the idea-to-video platform that brings your creativity to life](https://twitter.com/pika_labs/status/1729510078959497562)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)

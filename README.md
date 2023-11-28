@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 18:27:18](https://news.ycombinator.com/item?id=38449233) - [Please don't use AI to solve Advent of Code](https://adventofcode.com/)
+* [2023-11-28, 18:22:52](https://news.ycombinator.com/item?id=38449148) - [American workers are 'unhappier at work' than they have been in years](https://www.foxnews.com/media/american-workers-unhappier-work-they-have-been-years-inflation-remote-work-take-toll)
 * [2023-11-28, 17:59:00](https://news.ycombinator.com/item?id=38448694) - [Amazon announces Q, an AI chatbot for businesses](https://www.cnbc.com/2023/11/28/amazon-announces-q-an-ai-chatbot-for-businesses.html)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/)
 * [2023-11-28, 17:48:05](https://news.ycombinator.com/item?id=38448546) - [Amazon Introduces Q, an A.I. Chatbot for Companies](https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html)
 * [2023-11-28, 17:41:16](https://news.ycombinator.com/item?id=38448450) - [Section 702 surveillance reauthorization may get slipped into ‘must-pass’ NDAA](https://www.wired.com/story/section-702-reauthorization-ndaa-2023/)
+* [2023-11-28, 17:20:23](https://news.ycombinator.com/item?id=38448199) - [Combine GPTs with private knowledge for actually useful AIs](https://medium.com/@yuhongsun96/using-gpts-as-team-members-357a8d7c86ac)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:41:56](https://news.ycombinator.com/item?id=38447705) - [AWS unveils Graviton4 & Trainium2](https://press.aboutamazon.com/2023/11/aws-unveils-next-generation-aws-designed-chips)
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [FDA agrees Loyal's data supports effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
@@ -22,14 +25,11 @@
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
-* [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
 * [2023-11-27, 21:57:06](https://news.ycombinator.com/item?id=38438983) - [Inspired by aircraft IFF interrogator antennas, I decided to build my own array](https://techhub.social/@oz1lqo/111484469731372526)
-* [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 12:29:35](https://news.ycombinator.com/item?id=38431514) - [Amiga Graphics Archive](https://amiga.lychesis.net/)
 * [2023-11-27, 08:39:54](https://news.ycombinator.com/item?id=38429727) - [PiDP-11](https://retroviator.com/pidp-11/)
 * [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM (2021)](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
 * [2023-11-27, 06:05:10](https://news.ycombinator.com/item?id=38428736) - [Windows NT: Peeking into the Cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)
-* [2023-11-27, 06:02:03](https://news.ycombinator.com/item?id=38428713) - ['Nuts and Bolts' Review: The Levers That Move the World](https://www.wsj.com/arts-culture/books/nuts-bolts-review-the-levers-that-move-the-world-f117a196)
 
 ## [Archives](archives/index.md)
 
