@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-28, 04:04:34",
-      "https://news.ycombinator.com/item?id=38442201"
-    ],
-    [
-      "People likely to be harmed by AI don't have a seat at the table for regulation",
-      "https://english.elpais.com/technology/2023-11-27/margaret-mitchell-the-people-who-are-most-likely-to-be-harmed-by-ai-dont-have-a-seat-at-the-table-for-regulation.html"
-    ]
-  ],
-  [
-    [
       "2023-11-28, 03:53:58",
       "https://news.ycombinator.com/item?id=38442133"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2023-11-27, 23:43:19",
+      "https://news.ycombinator.com/item?id=38440194"
+    ],
+    [
+      "Google Play keeps banning the same web browser due to vague DMCA notices",
+      "https://arstechnica.com/tech-policy/2023/11/weird-dmca-takedown-google-play-bans-app-because-it-can-load-warnerbros-com/"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 21:04:46",
       "https://news.ycombinator.com/item?id=38438261"
     ],
@@ -107,16 +107,6 @@
     [
       "Cheaper microscope could bring protein mapping technique to the masses",
       "https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 20:27:21",
-      "https://news.ycombinator.com/item?id=38437773"
-    ],
-    [
-      "Synchronize a 3D scene across multiple windows using Three.js and localStorage",
-      "https://github.com/bgstaal/multipleWindow3dScene"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Process for mass producing Japanese 500 yen coins",
       "https://theawesomer.com/how-coins-are-made/723090/"
+    ]
+  ],
+  [
+    [
+      "2023-11-25, 16:01:22",
+      "https://news.ycombinator.com/item?id=38414303"
+    ],
+    [
+      "The largest number representable in 64 bits",
+      "https://tromp.github.io/blog/2023/11/24/largest-number"
     ]
   ],
   [
