@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 17:43:13](https://news.ycombinator.com/item?id=38448478) - [Meta Joins Google in Turning Back on Open Web over 'Child Protection' Mandates](https://www.techdirt.com/2023/11/28/meta-joins-google-in-turning-its-back-on-the-open-web-and-embracing-unconstitutional-mandates-that-pretend-to-protect-the-children/)
+* [2023-11-28, 17:32:04](https://news.ycombinator.com/item?id=38448318) - [Sorry you feel that way: why passive aggression took over the world](https://www.economist.com/1843/2023/11/21/sorry-you-feel-that-way-why-passive-aggression-took-over-the-world)
+* [2023-11-28, 17:14:52](https://news.ycombinator.com/item?id=38448137) - [Amazon Q](https://aws.amazon.com/q/)
 * [2023-11-28, 17:02:01](https://news.ycombinator.com/item?id=38447954) - [Pika 1.0, the idea-to-video platform that brings your creativity to life](https://twitter.com/pika_labs/status/1729510078959497562)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:42:07](https://news.ycombinator.com/item?id=38447709) - [District court rejects Tesla request, Postnord does not have to deliver plates](https://www.svt.se/nyheter/inrikes/solna-tingsratt-avslar-teslas-stamning-mot-postnord--33vhqt)
-* [2023-11-28, 16:41:40](https://news.ycombinator.com/item?id=38447701) - [Sunspots could send a solar storm our way as early as Saturday](https://www.businessinsider.com/sunspots-15-times-size-of-earth-solar-storm-into-view-2023-11)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph Representation Learning on Relational Databases [pdf]](https://relbench.stanford.edu/paper.pdf)
 * [2023-11-28, 15:47:19](https://news.ycombinator.com/item?id=38446957) - [Nvidia's earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
 * [2023-11-28, 15:43:35](https://news.ycombinator.com/item?id=38446901) - [World Appears on Track to Triple Renewable Power by 2030](https://e360.yale.edu/digest/un-climate-negotiations-triple-renewable-energy)
@@ -23,13 +25,11 @@
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
 * [2023-11-28, 02:58:41](https://news.ycombinator.com/item?id=38441747) - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
 * [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
-* [2023-11-27, 18:16:07](https://news.ycombinator.com/item?id=38435908) - [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
 * [2023-11-27, 12:29:35](https://news.ycombinator.com/item?id=38431514) - [Amiga Graphics Archive](https://amiga.lychesis.net/)
 * [2023-11-27, 08:39:54](https://news.ycombinator.com/item?id=38429727) - [PiDP-11](https://retroviator.com/pidp-11/)
 * [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM (2021)](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
 * [2023-11-27, 06:54:29](https://news.ycombinator.com/item?id=38429055) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
 * [2023-11-27, 06:05:10](https://news.ycombinator.com/item?id=38428736) - [Windows NT: Peeking into the Cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)
-* [2023-11-27, 06:02:03](https://news.ycombinator.com/item?id=38428713) - ['Nuts and Bolts' Review: The Levers That Move the World](https://www.wsj.com/arts-culture/books/nuts-bolts-review-the-levers-that-move-the-world-f117a196)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 17:43:13](https://news.ycombinator.com/item?id=38448478) - [Meta Joins Google in Turning Back on Open Web over 'Child Protection' Mandates](https://www.techdirt.com/2023/11/28/meta-joins-google-in-turning-its-back-on-the-open-web-and-embracing-unconstitutional-mandates-that-pretend-to-protect-the-children/)
+* [2023-11-28, 17:32:04](https://news.ycombinator.com/item?id=38448318) - [Sorry you feel that way: why passive aggression took over the world](https://www.economist.com/1843/2023/11/21/sorry-you-feel-that-way-why-passive-aggression-took-over-the-world)
+* [2023-11-28, 17:14:52](https://news.ycombinator.com/item?id=38448137) - [Amazon Q](https://aws.amazon.com/q/)
 * [2023-11-28, 17:02:01](https://news.ycombinator.com/item?id=38447954) - [Pika 1.0, the idea-to-video platform that brings your creativity to life](https://twitter.com/pika_labs/status/1729510078959497562)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:42:07](https://news.ycombinator.com/item?id=38447709) - [District court rejects Tesla request, Postnord does not have to deliver plates](https://www.svt.se/nyheter/inrikes/solna-tingsratt-avslar-teslas-stamning-mot-postnord--33vhqt)
