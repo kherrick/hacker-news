@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
+* [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:51:04](https://news.ycombinator.com/item?id=38450327) - [OpenAI: Increased errors across API and ChatGPT](https://status.openai.com/incidents/q58417g6n5r7)
+* [2023-11-28, 19:47:56](https://news.ycombinator.com/item?id=38450284) - [Some might not see how much work is/was to maintain xorg server](https://mastodon.social/@csoriano/111489425631719327)
 * [2023-11-28, 19:28:43](https://news.ycombinator.com/item?id=38450087) - [Most AI startups are doomed](https://weightythoughts.com/p/most-ai-startups-are-doomed)
 * [2023-11-28, 19:24:33](https://news.ycombinator.com/item?id=38450047) - [Company founded by University of Bristol develops revolutionary fusion reactor](https://www.bristol.ac.uk/news/2023/november/astral-fusion-reactor.html)
 * [2023-11-28, 19:14:04](https://news.ycombinator.com/item?id=38449941) - [Undercover in Saudi Arabia's secretive program to keep the world burning oil](https://climate-reporting.org/undercover-saudi-arabia-keep-burning-oil/)
