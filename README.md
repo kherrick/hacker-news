@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 23:36:42](https://news.ycombinator.com/item?id=38453202) - [Women warn restaurants are luring them in via dating apps](https://www.dailydot.com/news/restaurants-use-tinder/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 * [2023-11-28, 21:58:55](https://news.ycombinator.com/item?id=38451920) - [Shutting down the Matrix bridge to Libera chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
@@ -19,7 +20,6 @@
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [Reasonable expectation of effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)
 * [2023-11-28, 14:03:08](https://news.ycombinator.com/item?id=38445754) - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
-* [2023-11-28, 13:52:02](https://news.ycombinator.com/item?id=38445660) - [Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 12:55:36](https://news.ycombinator.com/item?id=38445165) - [The Knight Capital Disaster](https://specbranch.com/posts/knight-capital/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft open-sources ThreadX](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
 * [2023-11-28, 12:07:23](https://news.ycombinator.com/item?id=38444864) - [Portuguese Orange, Persian Portugal](https://untested.sonnet.io/Portuguese+Orange%2C+Persian+Portugal)

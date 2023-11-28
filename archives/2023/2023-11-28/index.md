@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 23:36:42](https://news.ycombinator.com/item?id=38453202) - [Women warn restaurants are luring them in via dating apps](https://www.dailydot.com/news/restaurants-use-tinder/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 * [2023-11-28, 22:40:38](https://news.ycombinator.com/item?id=38452493) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.aol.com/unity-software-cut-3-8-221242432.html)
