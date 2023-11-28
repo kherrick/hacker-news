@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 14:25:54](https://news.ycombinator.com/item?id=38446027) - [Hackers spent 2 years looting secrets of chipmaker NXP before being detected](https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/)
 * [2023-11-28, 13:52:02](https://news.ycombinator.com/item?id=38445660) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 13:46:30](https://news.ycombinator.com/item?id=38445613) - [Left-sided Cancer: Blame your bed and TV?](https://blogs.scientificamerican.com/guest-blog/left-sided-cancer-blame-your-bed-and-tv/)
 * [2023-11-28, 13:42:24](https://news.ycombinator.com/item?id=38445578) - [What happens when your AI girlfriend dies?](https://www.dazeddigital.com/life-culture/article/61432/1/what-happens-when-your-ai-girlfriend-dies-replika-forever-voices-soulmate)
@@ -12,6 +13,7 @@
 * [2023-11-28, 12:35:27](https://news.ycombinator.com/item?id=38445022) - [Badly-Compressed Images Affect CLIP's Performance, New Research Contends](https://blog.metaphysic.ai/badly-compressed-images-affect-clips-performance-new-research-contends/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
 * [2023-11-28, 12:21:54](https://news.ycombinator.com/item?id=38444948) - [Tax, healthcare, immigration: why Dutch people voted for Geert Wilders](https://www.theguardian.com/world/2023/nov/23/dutch-explain-why-they-voted-for-geert-wilders-netherlands-election)
+* [2023-11-28, 12:18:33](https://news.ycombinator.com/item?id=38444929) - [Vitalik Buterin's Techno-Optimism](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html)
 * [2023-11-28, 12:09:34](https://news.ycombinator.com/item?id=38444876) - [Swift as C++ Successor in FoundationDB [video]](https://www.youtube.com/watch?v=ZQc9-seU-5k)
 * [2023-11-28, 12:03:04](https://news.ycombinator.com/item?id=38444834) - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
 * [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
