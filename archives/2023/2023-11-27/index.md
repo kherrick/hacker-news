@@ -85,6 +85,7 @@
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/2023/10/03/where-is-opencv-5/)
 * [2023-11-27, 08:50:18](https://news.ycombinator.com/item?id=38429817) - [Amazon EC2 Enhances Defense in Depth with Default IMDSv2](https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/)
+* [2023-11-27, 08:39:54](https://news.ycombinator.com/item?id=38429727) - [PiDP-11](https://retroviator.com/pidp-11/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)
 * [2023-11-27, 08:11:42](https://news.ycombinator.com/item?id=38429460) - [Apple's developers reflashed Mac ROMs in the '90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-27, 07:57:20](https://news.ycombinator.com/item?id=38429370) - [Why Bother with uBlock Being Blocked in Chrome? Time to Switch to Firefox](https://tuta.com/blog/best-private-browsers)

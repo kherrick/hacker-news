@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 15:47:19](https://news.ycombinator.com/item?id=38446957) - [Nvidia's earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
 * [2023-11-28, 15:05:07](https://news.ycombinator.com/item?id=38446476) - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
 * [2023-11-28, 14:59:14](https://news.ycombinator.com/item?id=38446418) - [How to Read a Paper [pdf]](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 * [2023-11-28, 14:53:38](https://news.ycombinator.com/item?id=38446353) - [Keras 3.0](https://keras.io/keras_3/)
