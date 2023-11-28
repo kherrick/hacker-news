@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-28, 01:01:02",
+      "https://news.ycombinator.com/item?id=38440911"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 00:23:40",
+      "https://news.ycombinator.com/item?id=38440597"
+    ],
+    [
+      "Voice-over-LTE: The Reason Why Your Phone May Soon Stop Working",
+      "https://hackaday.com/2023/11/27/voice-over-lte-the-reason-why-your-phone-may-soon-stop-working/"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 23:43:19",
       "https://news.ycombinator.com/item?id=38440194"
     ],
@@ -37,16 +57,6 @@
     [
       "After 151 years, Popular Science will no longer offer a magazine",
       "https://www.theverge.com/2023/11/27/23978042/popular-science-digital-magazine-discontinued"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 22:31:45",
-      "https://news.ycombinator.com/item?id=38439386"
-    ],
-    [
-      "Shein Files for U.S. IPO",
-      "https://www.cnbc.com/2023/11/27/shein-files-for-us-ipo-as-fast-fashion-giant-looks-to-expand-its-global-reach.html"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-11-27, 17:00:53",
-      "https://news.ycombinator.com/item?id=38434779"
-    ],
-    [
-      "Spine AI (YC S23) Is Hiring",
-      "https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-founding-ml-engineer-scientist"
-    ]
-  ],
-  [
-    [
       "2023-11-27, 16:50:20",
       "https://news.ycombinator.com/item?id=38434613"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-11-27, 13:39:15",
-      "https://news.ycombinator.com/item?id=38432127"
-    ],
-    [
-      "How are zlib, gzip and zip related?",
-      "https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they"
-    ]
-  ],
-  [
-    [
       "2023-11-27, 12:45:25",
       "https://news.ycombinator.com/item?id=38431652"
     ],
@@ -211,22 +201,22 @@
   ],
   [
     [
+      "2023-11-27, 11:43:10",
+      "https://news.ycombinator.com/item?id=38431147"
+    ],
+    [
+      "Tesla sues Swedish state agency over number plate blockage",
+      "https://www.thelocal.se/20231127/tesla-sues-swedish-transport-agency-over-number-plate-blockage"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 20:47:04",
       "https://news.ycombinator.com/item?id=38424890"
     ],
     [
       "Easter egg emoji: converting pixels into particles",
       "https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 13:31:56",
-      "https://news.ycombinator.com/item?id=38421454"
-    ],
-    [
-      "The Weight of New York City: Subsidence from Anthropogenic Sources",
-      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003465"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Honeybee clustering when it's cold is a distress behavior: study",
       "https://theconversation.com/honeybees-cluster-together-when-its-cold-but-weve-been-completely-wrong-about-why-218066"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 23:29:59",
+      "https://news.ycombinator.com/item?id=38409544"
+    ],
+    [
+      "Skull bone marrow channels as immune gateways to the central nervous system",
+      "https://www.nature.com/articles/s41593-023-01487-1"
     ]
   ]
 ]
