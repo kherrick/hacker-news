@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 18:42:48](https://news.ycombinator.com/item?id=38449493) - [The birth and death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 * [2023-11-28, 18:27:18](https://news.ycombinator.com/item?id=38449233) - [Please don't use AI to get on the global leaderboard](https://adventofcode.com/)
 * [2023-11-28, 17:59:00](https://news.ycombinator.com/item?id=38448694) - [Amazon announces Q, an AI chatbot for businesses](https://www.cnbc.com/2023/11/28/amazon-announces-q-an-ai-chatbot-for-businesses.html)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
@@ -26,7 +27,6 @@
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
 * [2023-11-27, 21:57:06](https://news.ycombinator.com/item?id=38438983) - [Inspired by aircraft IFF interrogator antennas, I decided to build my own array](https://techhub.social/@oz1lqo/111484469731372526)
-* [2023-11-27, 12:29:35](https://news.ycombinator.com/item?id=38431514) - [Amiga Graphics Archive](https://amiga.lychesis.net/)
 * [2023-11-27, 08:39:54](https://news.ycombinator.com/item?id=38429727) - [PiDP-11](https://retroviator.com/pidp-11/)
 * [2023-11-27, 07:41:01](https://news.ycombinator.com/item?id=38429278) - [C++ Memory Model: Migrating from x86 to ARM (2021)](https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/)
 * [2023-11-27, 06:05:10](https://news.ycombinator.com/item?id=38428736) - [Windows NT: Peeking into the Cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)

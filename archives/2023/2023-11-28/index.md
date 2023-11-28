@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 18:42:48](https://news.ycombinator.com/item?id=38449493) - [The birth and death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 * [2023-11-28, 18:27:18](https://news.ycombinator.com/item?id=38449233) - [Please don't use AI to solve Advent of Code](https://adventofcode.com/)
 * [2023-11-28, 18:22:52](https://news.ycombinator.com/item?id=38449148) - [American workers are 'unhappier at work' than they have been in years](https://www.foxnews.com/media/american-workers-unhappier-work-they-have-been-years-inflation-remote-work-take-toll)
 * [2023-11-28, 17:59:00](https://news.ycombinator.com/item?id=38448694) - [Amazon announces Q, an AI chatbot for businesses](https://www.cnbc.com/2023/11/28/amazon-announces-q-an-ai-chatbot-for-businesses.html)
