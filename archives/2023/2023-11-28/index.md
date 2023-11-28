@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 08:00:48](https://news.ycombinator.com/item?id=38443465) - [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
+* [2023-11-28, 07:20:53](https://news.ycombinator.com/item?id=38443292) - [Noyb files GDPR complaint against Meta over \"Pay or Okay\"](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 07:12:18](https://news.ycombinator.com/item?id=38443252) - [U.N. Predicts Disaster If Global Warming Not Checked (1989)](https://web.archive.org/web/20201101032435/https://apnews.com/article/bd45c372caf118ec99964ea547880cd0)
 * [2023-11-28, 05:49:10](https://news.ycombinator.com/item?id=38442779) - [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906)
