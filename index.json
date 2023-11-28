@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-28, 05:49:10",
+      "https://news.ycombinator.com/item?id=38442779"
+    ],
+    [
+      "Simplifying Transformer Blocks",
+      "https://arxiv.org/abs/2311.01906"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 05:26:23",
+      "https://news.ycombinator.com/item?id=38442652"
+    ],
+    [
+      "USB DNA micro sequencer for $1k",
+      "https://nanoporetech.com/products/sequence/minion"
+    ]
+  ],
+  [
+    [
       "2023-11-28, 05:08:10",
       "https://news.ycombinator.com/item?id=38442548"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-11-27, 17:09:37",
-      "https://news.ycombinator.com/item?id=38434914"
-    ],
-    [
-      "Learnings from fine-tuning LLM on my Telegram messages",
-      "https://asmirnov.xyz/doppelganger"
-    ]
-  ],
-  [
-    [
       "2023-11-27, 16:50:20",
       "https://news.ycombinator.com/item?id=38434613"
     ],
@@ -247,16 +257,6 @@
     [
       "Large Interferometer for Exoplanets [pdf]",
       "https://www.aanda.org/articles/aa/pdf/2023/10/aa45927-23.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 16:01:22",
-      "https://news.ycombinator.com/item?id=38414303"
-    ],
-    [
-      "The largest number representable in 64 bits",
-      "https://tromp.github.io/blog/2023/11/24/largest-number"
     ]
   ],
   [
