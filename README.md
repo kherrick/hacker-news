@@ -6,7 +6,6 @@
 * [2023-11-28, 03:40:34](https://news.ycombinator.com/item?id=38442050) - [Antirez' tiny JSON selector library](https://notes.billmill.org/link_blog/2023/11/antirez__tiny_JSON_selector_library.html)
 * [2023-11-28, 03:15:55](https://news.ycombinator.com/item?id=38441866) - [San Francisco Blows Housing Deadline, Prompting Standoff with State Regulators](https://sfstandard.com/2023/11/27/san-francisco-blows-state-housing-deadline-constraints-reduction-ordinance/)
 * [2023-11-28, 02:58:41](https://news.ycombinator.com/item?id=38441747) - [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
-* [2023-11-28, 02:52:10](https://news.ycombinator.com/item?id=38441710) - [New Outlook is good, both for yourself and 766 third parties](https://godforsaken.website/@Shrigglepuss/111482466182637440)
 * [2023-11-28, 02:43:11](https://news.ycombinator.com/item?id=38441643) - [RPG Engine for the Nintendo 64](https://github.com/breadbored/N64-RPG)
 * [2023-11-28, 02:34:00](https://news.ycombinator.com/item?id=38441584) - [Show HN: SwaraNotebook – a notation editor for Indian classical music](https://swaranotebook.com/)
 * [2023-11-28, 01:33:07](https://news.ycombinator.com/item?id=38441139) - [Orion Browser by Kagi](https://kagi.com/orion/)
@@ -30,6 +29,7 @@
 * [2023-11-25, 09:58:59](https://news.ycombinator.com/item?id=38412502) - [A DX7 USB Dongle](https://diyelectromusic.wordpress.com/2023/11/22/a-dx7-usb-dongle/)
 * [2023-11-25, 07:42:13](https://news.ycombinator.com/item?id=38411975) - [Optical Computing with Plasma [video]](https://www.youtube.com/watch?v=Mdh2pLwsK8Y)
 * [2023-11-25, 01:34:41](https://news.ycombinator.com/item?id=38410281) - [The Price of Time: The Real Story of Interest](https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures)
+* [2023-11-24, 23:14:25](https://news.ycombinator.com/item?id=38409418) - [A600GS Computer from AmigaKit Ltd](http://wiki.amiga.org/index.php?title=A600GS)
 
 ## [Archives](archives/index.md)
 

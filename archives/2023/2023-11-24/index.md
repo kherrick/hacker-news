@@ -7,6 +7,7 @@
 * [2023-11-24, 23:51:39](https://news.ycombinator.com/item?id=38409692) - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
 * [2023-11-24, 23:29:59](https://news.ycombinator.com/item?id=38409544) - [Skull bone marrow channels as immune gateways to the central nervous system](https://www.nature.com/articles/s41593-023-01487-1)
 * [2023-11-24, 23:14:59](https://news.ycombinator.com/item?id=38409425) - [Street Fighter II, subtile accurate animation (2021)](https://fabiensanglard.net/sf2_health_bar/index.html)
+* [2023-11-24, 23:14:25](https://news.ycombinator.com/item?id=38409418) - [A600GS Computer from AmigaKit Ltd](http://wiki.amiga.org/index.php?title=A600GS)
 * [2023-11-24, 23:06:11](https://news.ycombinator.com/item?id=38409353) - [Things We Always Remind Ourselves While Coding](https://changelog.com/posts/things-we-always-remind-ourselves-while-coding)
 * [2023-11-24, 22:59:02](https://news.ycombinator.com/item?id=38409318) - [PacketMill: Toward per-Core 100-Gbps networking](https://dl.acm.org/doi/abs/10.1145/3445814.3446724)
 * [2023-11-24, 22:48:01](https://news.ycombinator.com/item?id=38409236) - [Minecraft rewritten from scratch in Kotlin, hypixel works](https://gitlab.bixilon.de/bixilon/minosoft)
