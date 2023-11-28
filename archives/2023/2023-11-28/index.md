@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 16:41:40](https://news.ycombinator.com/item?id=38447701) - [Sunspots could send a solar storm our way as early as Saturday](https://www.businessinsider.com/sunspots-15-times-size-of-earth-solar-storm-into-view-2023-11)
 * [2023-11-28, 16:08:28](https://news.ycombinator.com/item?id=38447238) - [Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
 * [2023-11-28, 15:47:19](https://news.ycombinator.com/item?id=38446957) - [Nvidia's earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
 * [2023-11-28, 15:05:07](https://news.ycombinator.com/item?id=38446476) - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)

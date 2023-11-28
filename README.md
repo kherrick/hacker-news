@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-28, 16:41:40](https://news.ycombinator.com/item?id=38447701) - [Sunspots could send a solar storm our way as early as Saturday](https://www.businessinsider.com/sunspots-15-times-size-of-earth-solar-storm-into-view-2023-11)
 * [2023-11-28, 16:08:28](https://news.ycombinator.com/item?id=38447238) - [Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
 * [2023-11-28, 15:47:19](https://news.ycombinator.com/item?id=38446957) - [Nvidia's earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
 * [2023-11-28, 15:05:07](https://news.ycombinator.com/item?id=38446476) - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
@@ -13,7 +14,6 @@
 * [2023-11-28, 12:51:02](https://news.ycombinator.com/item?id=38445122) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)
 * [2023-11-28, 12:38:01](https://news.ycombinator.com/item?id=38445039) - [Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
-* [2023-11-28, 12:09:34](https://news.ycombinator.com/item?id=38444876) - [Swift as C++ Successor in FoundationDB [video]](https://www.youtube.com/watch?v=ZQc9-seU-5k)
 * [2023-11-28, 12:03:04](https://news.ycombinator.com/item?id=38444834) - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
 * [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-28, 10:09:39](https://news.ycombinator.com/item?id=38444241) - [Show HN: Transform Notes into Visual Mind Maps](https://www.cmaps.io/)
