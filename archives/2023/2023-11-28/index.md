@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
 * [2023-11-28, 05:08:10](https://news.ycombinator.com/item?id=38442548) - [Semaglutide treatment associated with high reduction in Alcohol Use Disorder](https://www.eurekalert.org/news-releases/1009292)
+* [2023-11-28, 05:04:43](https://news.ycombinator.com/item?id=38442533) - [Blackhawk 3 Pro: American-made drone for consumers](https://blackhawk3.exodrones.com/)
 * [2023-11-28, 04:59:39](https://news.ycombinator.com/item?id=38442497) - [Show HN: Draw Fast – Real-time AI image generation based on drawings in a canvas](https://stablediffusionweb.com/Realtime-Scribble-Diffusion)
 * [2023-11-28, 04:04:34](https://news.ycombinator.com/item?id=38442201) - [People likely to be harmed by AI don't have a seat at the table for regulation](https://english.elpais.com/technology/2023-11-27/margaret-mitchell-the-people-who-are-most-likely-to-be-harmed-by-ai-dont-have-a-seat-at-the-table-for-regulation.html)
 * [2023-11-28, 03:53:58](https://news.ycombinator.com/item?id=38442133) - [That time Verisign typo-squatted all of .com and .net](http://rachelbythebay.com/w/2023/11/27/sitefinder/)
