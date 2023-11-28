@@ -1,32 +1,22 @@
 [
   [
     [
+      "2023-11-28, 23:16:17",
+      "https://news.ycombinator.com/item?id=38452959"
+    ],
+    [
+      "My $500M Mars Rover Mistake: A Failure Story",
+      "https://www.chrislewicki.com/articles/failurestory"
+    ]
+  ],
+  [
+    [
       "2023-11-28, 22:56:59",
       "https://news.ycombinator.com/item?id=38452712"
     ],
     [
-      "Apple Pulls Plug on Goldman Credit-Card Partnership",
+      "Apple pulls plug on Goldman credit-card partnership",
       "https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 22:40:38",
-      "https://news.ycombinator.com/item?id=38452493"
-    ],
-    [
-      "Unity Software to cut 3.8% of staff in 'company reset'",
-      "https://www.aol.com/unity-software-cut-3-8-221242432.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 22:36:04",
-      "https://news.ycombinator.com/item?id=38452425"
-    ],
-    [
-      "Nobody wants U.S. Treasury bonds",
-      "https://www.semafor.com/article/11/28/2023/nobody-wants-us-treasury-bonds"
     ]
   ],
   [
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38451920"
     ],
     [
-      "Shutting down the Matrix bridge to Libera Chat",
+      "Shutting down the Matrix bridge to Libera chat",
       "https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38451524"
     ],
     [
-      "The Case for Never Reading the Book Jacket",
+      "The case for never reading the book jacket",
       "https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/"
     ]
   ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2023-11-28, 13:52:02",
+      "https://news.ycombinator.com/item?id=38445660"
+    ],
+    [
+      "Semantic fuzzing of the Rust compiler and interpreter [pdf]",
+      "https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf"
+    ]
+  ],
+  [
+    [
       "2023-11-28, 12:55:36",
       "https://news.ycombinator.com/item?id=38445165"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38433990"
     ],
     [
-      "To Move Fast, Quantum Maze Solvers Must Forget the Past",
+      "To move fast, quantum maze solvers must forget the past",
       "https://www.quantamagazine.org/to-move-fast-quantum-maze-solvers-must-forget-the-past-20230720/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38433885"
     ],
     [
-      "Scientists succeed growing dolomite in lab by dissolving defects during growth",
+      "Scientists succeed in growing dolomite in the lab",
       "https://phys.org/news/2023-11-scientists-succeed-dolomite-lab-dissolving.html"
     ]
   ],
