@@ -16,6 +16,7 @@
 * [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
+* [2023-11-28, 19:56:56](https://news.ycombinator.com/item?id=38450390) - [SDXL Turbo: A Real-Time Text-to-Image Generation Model](https://stability.ai/news/stability-ai-sdxl-turbo)
 * [2023-11-28, 19:51:04](https://news.ycombinator.com/item?id=38450327) - [OpenAI: Increased errors across API and ChatGPT](https://status.openai.com/incidents/q58417g6n5r7)
 * [2023-11-28, 19:47:56](https://news.ycombinator.com/item?id=38450284) - [Some might not see how much work is/was to maintain xorg server](https://mastodon.social/@csoriano/111489425631719327)
 * [2023-11-28, 19:38:30](https://news.ycombinator.com/item?id=38450184) - [Google's .meme domain is here to serve your wackiest websites](https://www.theverge.com/2023/11/28/23979595/google-registry-meme-domain-launch)
