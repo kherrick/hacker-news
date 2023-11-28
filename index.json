@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-11-27, 20:15:22",
-      "https://news.ycombinator.com/item?id=38437607"
-    ],
-    [
-      "Running Llama.cpp on AWS Instances",
-      "https://github.com/ggerganov/llama.cpp/discussions/4225"
-    ]
-  ],
-  [
-    [
       "2023-11-27, 19:18:08",
       "https://news.ycombinator.com/item?id=38436851"
     ],
@@ -215,8 +205,18 @@
       "https://news.ycombinator.com/item?id=38429278"
     ],
     [
-      "C++ Memory Model: Migrating from x86 to ARM",
+      "C++ Memory Model: Migrating from x86 to ARM (2021)",
       "https://arangodb.com/2021/02/cpp-memory-model-migrating-from-x86-to-arm/"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 12:14:27",
+      "https://news.ycombinator.com/item?id=38421044"
+    ],
+    [
+      "The Periodic Table of Tools",
+      "https://periodictableoftools.com/index.html"
     ]
   ],
   [
