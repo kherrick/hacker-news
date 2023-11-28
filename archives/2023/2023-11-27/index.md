@@ -93,6 +93,7 @@
 * [2023-11-27, 06:55:50](https://news.ycombinator.com/item?id=38429060) - [Show HN:Draw Fast - Real-time AI image generation based on drawings in a canvas](https://drawfast.io/)
 * [2023-11-27, 06:54:29](https://news.ycombinator.com/item?id=38429055) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
 * [2023-11-27, 06:36:47](https://news.ycombinator.com/item?id=38428957) - [Show HN: I built a guided Build your own DNS Server challenge](https://app.codecrafters.io/courses/dns-server/overview)
+* [2023-11-27, 06:02:03](https://news.ycombinator.com/item?id=38428713) - ['Nuts and Bolts' Review: The Levers That Move the World](https://www.wsj.com/arts-culture/books/nuts-bolts-review-the-levers-that-move-the-world-f117a196)
 * [2023-11-27, 05:07:33](https://news.ycombinator.com/item?id=38428301) - [Orca-2-13B Runs Directly on Rust+WASM – No Python/C++ Hassles](https://www.secondstate.io/articles/orca-2-13b/)
 * [2023-11-27, 04:58:24](https://news.ycombinator.com/item?id=38428249) - [Ask HN: Why do half of Internet users think we are living in a simulation?](https://news.ycombinator.com/item?id=38428249)
 * [2023-11-27, 04:55:20](https://news.ycombinator.com/item?id=38428225) - [Dive into Deep Learning: Interactive deep learning book with codes and maths](https://d2l.ai/)
