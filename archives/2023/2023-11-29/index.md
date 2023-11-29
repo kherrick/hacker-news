@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 17:15:26](https://news.ycombinator.com/item?id=38462087) - [Windows-as-an-App Is Coming](https://www.computerworld.com/article/3711200/windows-as-an-app-is-coming.html)
 * [2023-11-29, 17:14:29](https://news.ycombinator.com/item?id=38462078) - [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)
 * [2023-11-29, 17:05:23](https://news.ycombinator.com/item?id=38461993) - [Devternity Conference Invents Fake Female Attendees to Bolster Diversity](https://twitter.com/GergelyOrosz/status/1728177708608450705)
 * [2023-11-29, 17:04:46](https://news.ycombinator.com/item?id=38461989) - [The Red State Brain Drain Isn't Coming. It's Happening](https://newrepublic.com/article/176854/republican-red-states-brain-drain)
 * [2023-11-29, 17:00:58](https://news.ycombinator.com/item?id=38461944) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2023-11-29, 16:48:40](https://news.ycombinator.com/item?id=38461772) - [A Supreme Court case that could reshape the US Government](https://www.readtangle.com/sec-v-jarkesy-supreme-court-case/)
 * [2023-11-29, 16:30:17](https://news.ycombinator.com/item?id=38461514) - [Canadian government reaches deal with Google on Online News Act](https://www.cbc.ca/news/politics/google-online-news-act-1.7043330)
+* [2023-11-29, 16:19:33](https://news.ycombinator.com/item?id=38461344) - [Person-in-WiFi: Fine-Grained Person Perception Using WiFi [pdf]](https://www.ri.cmu.edu/app/uploads/2019/09/Person_in_WiFi_ICCV2019.pdf)
 * [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration (GNoME)](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
+* [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
+* [2023-11-29, 16:03:10](https://news.ycombinator.com/item?id=38461121) - [Deno Cron](https://deno.com/blog/cron)
 * [2023-11-29, 16:01:41](https://news.ycombinator.com/item?id=38461101) - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 * [2023-11-29, 15:12:37](https://news.ycombinator.com/item?id=38460325) - [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/)
