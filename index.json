@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-11-28, 22:56:59",
-      "https://news.ycombinator.com/item?id=38452712"
-    ],
-    [
-      "Apple pulls plug on Goldman credit-card partnership",
-      "https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45"
-    ]
-  ],
-  [
-    [
       "2023-11-28, 21:58:55",
       "https://news.ycombinator.com/item?id=38451920"
     ],
@@ -227,6 +217,16 @@
     [
       "GitMounter: A FUSE filesystem for Git repositories",
       "https://belkadan.com/blog/2023/11/GitMounter/"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 07:38:18",
+      "https://news.ycombinator.com/item?id=38443368"
+    ],
+    [
+      "Unit testing on an 8-bit CPU",
+      "https://boston.conman.org/2023/11/27.1"
     ]
   ],
   [
