@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 03:14:50](https://news.ycombinator.com/item?id=38455027) - [OwnCloud vulnerability with max severity score comes under \"mass\" exploitation](https://arstechnica.com/p3/)
 * [2023-11-29, 03:01:01](https://news.ycombinator.com/item?id=38454908) - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
 * [2023-11-29, 02:45:08](https://news.ycombinator.com/item?id=38454813) - [Do You Still Have the Right to a Jury Trial?](https://reason.com/2023/11/28/do-you-still-have-the-right-to-a-jury-trial/)
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
@@ -9,7 +10,6 @@
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The case for never reading the book jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
-* [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:56:56](https://news.ycombinator.com/item?id=38450390) - [SDXL Turbo: A Real-Time Text-to-Image Generation Model](https://stability.ai/news/stability-ai-sdxl-turbo)
@@ -20,7 +20,7 @@
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [Reasonable expectation of effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)
-* [2023-11-28, 14:03:08](https://news.ycombinator.com/item?id=38445754) - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+* [2023-11-28, 13:21:52](https://news.ycombinator.com/item?id=38445408) - [Donkey Code – the art of naming things](https://einarwh.wordpress.com/2017/01/21/donkey-code/)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-28, 08:29:45](https://news.ycombinator.com/item?id=38443608) - [GitMounter: A FUSE filesystem for Git repositories](https://belkadan.com/blog/2023/11/GitMounter/)
 * [2023-11-28, 07:38:18](https://news.ycombinator.com/item?id=38443368) - [Unit testing on an 8-bit CPU](https://boston.conman.org/2023/11/27.1)

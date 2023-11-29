@@ -71,6 +71,7 @@
 * [2023-11-28, 13:52:02](https://news.ycombinator.com/item?id=38445660) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 13:46:30](https://news.ycombinator.com/item?id=38445613) - [Left-sided Cancer: Blame your bed and TV?](https://blogs.scientificamerican.com/guest-blog/left-sided-cancer-blame-your-bed-and-tv/)
 * [2023-11-28, 13:42:24](https://news.ycombinator.com/item?id=38445578) - [What happens when your AI girlfriend dies?](https://www.dazeddigital.com/life-culture/article/61432/1/what-happens-when-your-ai-girlfriend-dies-replika-forever-voices-soulmate)
+* [2023-11-28, 13:21:52](https://news.ycombinator.com/item?id=38445408) - [Donkey Code – the art of naming things](https://einarwh.wordpress.com/2017/01/21/donkey-code/)
 * [2023-11-28, 12:55:36](https://news.ycombinator.com/item?id=38445165) - [The Knight Capital Disaster](https://specbranch.com/posts/knight-capital/)
 * [2023-11-28, 12:51:53](https://news.ycombinator.com/item?id=38445132) - [Red Hat Enterprise Linux 10 Plans for Wayland and Xorg Server](https://www.redhat.com/en/blog/rhel-10-plans-wayland-and-xorg-server)
 * [2023-11-28, 12:51:02](https://news.ycombinator.com/item?id=38445122) - [Treble.ai (YC S19) Is Hiring Spainish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-staff-product-engineer)

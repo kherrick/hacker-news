@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 03:14:50](https://news.ycombinator.com/item?id=38455027) - [OwnCloud vulnerability with max severity score comes under \"mass\" exploitation](https://arstechnica.com/p3/)
 * [2023-11-29, 03:01:01](https://news.ycombinator.com/item?id=38454908) - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
 * [2023-11-29, 02:45:08](https://news.ycombinator.com/item?id=38454813) - [Do You Still Have the Right to a Jury Trial?](https://reason.com/2023/11/28/do-you-still-have-the-right-to-a-jury-trial/)
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
