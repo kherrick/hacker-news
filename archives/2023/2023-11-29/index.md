@@ -45,6 +45,7 @@
 * [2023-11-29, 02:33:26](https://news.ycombinator.com/item?id=38454735) - [Massachusetts becomes fifth state to make prison calls free](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
 * [2023-11-29, 01:41:19](https://news.ycombinator.com/item?id=38454351) - [Historians and the Public](https://davidabell.substack.com/p/historians-and-the-public)
+* [2023-11-29, 01:41:06](https://news.ycombinator.com/item?id=38454349) - [Stable Diffusion:Real time prompting with SDXL Turbo and ComfyUI running locally](https://old.reddit.com/r/StableDiffusion/comments/1869cnk/real_time_prompting_with_sdxl_turbo_and_comfyui/)
 * [2023-11-29, 01:05:04](https://news.ycombinator.com/item?id=38454048) - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 * [2023-11-29, 01:04:53](https://news.ycombinator.com/item?id=38454047) - [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
 * [2023-11-29, 00:11:32](https://news.ycombinator.com/item?id=38453561) - [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)

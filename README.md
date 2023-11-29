@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-29, 14:21:04](https://news.ycombinator.com/item?id=38459617) - [Italy bans cultivated meat products](https://www.chemistryworld.com/news/italy-bans-cultivated-meat-products/4018541.article)
 * [2023-11-29, 13:46:22](https://news.ycombinator.com/item?id=38459245) - [Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
 * [2023-11-29, 13:13:49](https://news.ycombinator.com/item?id=38458923) - [MusicXML](https://www.musicxml.com/)
 * [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
@@ -19,6 +18,7 @@
 * [2023-11-29, 04:35:52](https://news.ycombinator.com/item?id=38455622) - [Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
 * [2023-11-29, 01:41:19](https://news.ycombinator.com/item?id=38454351) - [Historians and the Public](https://davidabell.substack.com/p/historians-and-the-public)
+* [2023-11-29, 01:41:06](https://news.ycombinator.com/item?id=38454349) - [Stable Diffusion:Real time prompting with SDXL Turbo and ComfyUI running locally](https://old.reddit.com/r/StableDiffusion/comments/1869cnk/real_time_prompting_with_sdxl_turbo_and_comfyui/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
