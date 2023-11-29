@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 08:27:06](https://news.ycombinator.com/item?id=38456925) - [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
 * [2023-11-29, 08:13:59](https://news.ycombinator.com/item?id=38456839) - [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
 * [2023-11-29, 06:51:26](https://news.ycombinator.com/item?id=38456362) - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
@@ -24,7 +25,6 @@
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-28, 08:29:45](https://news.ycombinator.com/item?id=38443608) - [GitMounter: A FUSE filesystem for Git repositories](https://belkadan.com/blog/2023/11/GitMounter/)
 * [2023-11-28, 07:38:18](https://news.ycombinator.com/item?id=38443368) - [Unit testing on an 8-bit CPU](https://boston.conman.org/2023/11/27.1)
-* [2023-11-28, 07:18:15](https://news.ycombinator.com/item?id=38443283) - [Trojan Room Coffee Pot](https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-27, 20:43:35](https://news.ycombinator.com/item?id=38437973) - [The tragedy of the canon; or, path dependence in the history of science (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0039368121001096)
 * [2023-11-27, 19:40:51](https://news.ycombinator.com/item?id=38437139) - [The Muddled Origins of the Word 'Viking'](https://www.atlasobscura.com/articles/origin-of-the-word-viking-why-vikings-called-vikings)

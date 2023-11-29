@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 08:27:06](https://news.ycombinator.com/item?id=38456925) - [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
 * [2023-11-29, 08:13:59](https://news.ycombinator.com/item?id=38456839) - [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
 * [2023-11-29, 08:09:21](https://news.ycombinator.com/item?id=38456816) - [Desktop GUI Is an Efficient and Fulfilling Way of Human-Computer Interaction](https://prahladyeri.github.io/blog/2023/11/desktop-gui-is-most-efficient-way-of-human-pc-interaction.html)
