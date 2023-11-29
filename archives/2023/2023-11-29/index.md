@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
 * [2023-11-29, 22:03:58](https://news.ycombinator.com/item?id=38465944) - [Cybertruck Launch](https://www.tesla.com/cybertruck)
+* [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 21:44:24](https://news.ycombinator.com/item?id=38465736) - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
 * [2023-11-29, 21:39:11](https://news.ycombinator.com/item?id=38465693) - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
 * [2023-11-29, 21:00:41](https://news.ycombinator.com/item?id=38465254) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
