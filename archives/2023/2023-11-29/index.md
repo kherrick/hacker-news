@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 16:01:41](https://news.ycombinator.com/item?id=38461101) - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 * [2023-11-29, 15:12:37](https://news.ycombinator.com/item?id=38460325) - [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/)
 * [2023-11-29, 14:56:55](https://news.ycombinator.com/item?id=38460093) - [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)
@@ -13,6 +14,7 @@
 * [2023-11-29, 13:34:32](https://news.ycombinator.com/item?id=38459128) - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
 * [2023-11-29, 13:20:27](https://news.ycombinator.com/item?id=38458996) - [Ask HN: Keep binaries in system memory never removed till manually done so](https://news.ycombinator.com/item?id=38458996)
 * [2023-11-29, 13:13:49](https://news.ycombinator.com/item?id=38458923) - [MusicXML](https://www.musicxml.com/)
+* [2023-11-29, 13:01:28](https://news.ycombinator.com/item?id=38458802) - [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
 * [2023-11-29, 12:25:36](https://news.ycombinator.com/item?id=38458548) - [AI minister likens risk of AI over-regulation to historical printing press ban](https://fortune.com/2023/11/28/artificial-intelligence-ai-technology-regulation-policy-guardrails-uae-fortune-global-forum/)
 * [2023-11-29, 12:15:26](https://news.ycombinator.com/item?id=38458470) - [A Science of Life Without Free Will by Robert Sapolsky](https://ndpr.nd.edu/reviews/determined-a-science-of-life-without-free-will/)
