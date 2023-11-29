@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 04:16:08](https://news.ycombinator.com/item?id=38455505) - [An ex-Googler's guide to dev tools](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [2023-11-29, 03:45:07](https://news.ycombinator.com/item?id=38455295) - [Americans Are Pulling Cash from Their Retirement Savings to Pay Bills](https://www.bloomberg.com/news/articles/2023-11-20/consumers-pull-cash-from-retirement-accounts-amid-budget-stress)
 * [2023-11-29, 03:12:31](https://news.ycombinator.com/item?id=38455007) - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
 * [2023-11-29, 03:01:01](https://news.ycombinator.com/item?id=38454908) - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
@@ -14,7 +15,6 @@
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:56:56](https://news.ycombinator.com/item?id=38450390) - [SDXL Turbo: A Real-Time Text-to-Image Generation Model](https://stability.ai/news/stability-ai-sdxl-turbo)
-* [2023-11-28, 19:01:09](https://news.ycombinator.com/item?id=38449763) - [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
 * [2023-11-28, 17:56:37](https://news.ycombinator.com/item?id=38448655) - [Positional description matters for transformers arithmetic](https://arxiv.org/abs/2311.14737)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
