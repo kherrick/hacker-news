@@ -2,6 +2,7 @@
 
 * [2023-11-29, 03:01:01](https://news.ycombinator.com/item?id=38454908) - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
 * [2023-11-29, 02:45:08](https://news.ycombinator.com/item?id=38454813) - [Do You Still Have the Right to a Jury Trial?](https://reason.com/2023/11/28/do-you-still-have-the-right-to-a-jury-trial/)
+* [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
 * [2023-11-29, 01:05:04](https://news.ycombinator.com/item?id=38454048) - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 * [2023-11-29, 01:04:53](https://news.ycombinator.com/item?id=38454047) - [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
 * [2023-11-28, 23:54:21](https://news.ycombinator.com/item?id=38453405) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
@@ -20,7 +21,6 @@
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [Reasonable expectation of effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)
 * [2023-11-28, 14:03:08](https://news.ycombinator.com/item?id=38445754) - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
-* [2023-11-28, 12:07:23](https://news.ycombinator.com/item?id=38444864) - [Portuguese Orange, Persian Portugal](https://untested.sonnet.io/Portuguese+Orange%2C+Persian+Portugal)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-28, 08:29:45](https://news.ycombinator.com/item?id=38443608) - [GitMounter: A FUSE filesystem for Git repositories](https://belkadan.com/blog/2023/11/GitMounter/)
 * [2023-11-28, 07:38:18](https://news.ycombinator.com/item?id=38443368) - [Unit testing on an 8-bit CPU](https://boston.conman.org/2023/11/27.1)
