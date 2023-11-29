@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 20:35:19](https://news.ycombinator.com/item?id=38464915) - [Apple M1 Pro Beats M3 Pro with Ableton, Logic and Pro Tools](https://www.gearnews.com/apple-m1-pro-beats-m3-pro-with-ableton-logic-and-pro-tools/)
 * [2023-11-29, 20:25:54](https://news.ycombinator.com/item?id=38464788) - [Cristiano Ronaldo faces $1B lawsuit over Binance ads](https://www.bbc.com/news/technology-67566602)
-* [2023-11-29, 20:20:52](https://news.ycombinator.com/item?id=38464715) - [The Unix-HATERS Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
+* [2023-11-29, 20:20:52](https://news.ycombinator.com/item?id=38464715) - [The Unix-Haters Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-11-29, 19:22:28](https://news.ycombinator.com/item?id=38463953) - [Reddit Sans](https://github.com/reddit/redditsans)
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
@@ -29,7 +30,6 @@
 * [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 22:37:48](https://news.ycombinator.com/item?id=38452443) - [Color: From Hexcodes to Eyeballs](https://jamie-wong.com/post/color/)
 * [2023-11-28, 20:23:14](https://news.ycombinator.com/item?id=38450760) - [Transistor first reported as \"little brain cell\"](https://www.biodigitaljazz.net/blog/littlebraincell.html)
-* [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 
 ## [Archives](archives/index.md)
 
