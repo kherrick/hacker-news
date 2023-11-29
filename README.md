@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-29, 03:31:22](https://news.ycombinator.com/item?id=38455161) - [It's All Bullshit: Performing Productivity at Google](https://thebaffler.com/latest/its-all-bullshit-tan)
 * [2023-11-29, 03:12:31](https://news.ycombinator.com/item?id=38455007) - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
 * [2023-11-29, 03:01:01](https://news.ycombinator.com/item?id=38454908) - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
@@ -10,6 +9,7 @@
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The case for never reading the book jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
+* [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:56:56](https://news.ycombinator.com/item?id=38450390) - [SDXL Turbo: A Real-Time Text-to-Image Generation Model](https://stability.ai/news/stability-ai-sdxl-turbo)
