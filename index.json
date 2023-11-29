@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-11-28, 23:56:29",
-      "https://news.ycombinator.com/item?id=38453430"
+      "2023-11-29, 01:05:04",
+      "https://news.ycombinator.com/item?id=38454048"
     ],
     [
-      "How scientists are trying to save the insects that make life possible",
-      "https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible"
+      "Cyberattack – November 2023",
+      "https://www.blender.org/news/cyberattack-november-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 00:11:32",
+      "https://news.ycombinator.com/item?id=38453561"
+    ],
+    [
+      "Housing Costs Are So High That Divorced Couples Are Still Living Together",
+      "https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 23:54:21",
+      "https://news.ycombinator.com/item?id=38453405"
+    ],
+    [
+      "Unity Software to cut 3.8% of staff in 'company reset'",
+      "https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38452959"
     ],
     [
-      "My $500M Mars Rover Mistake: A Failure Story",
+      "My $500M Mars rover mistake",
       "https://www.chrislewicki.com/articles/failurestory"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Apple pulls plug on Goldman credit-card partnership",
       "https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 22:37:48",
-      "https://news.ycombinator.com/item?id=38452443"
-    ],
-    [
-      "Color: From Hexcodes to Eyeballs",
-      "https://jamie-wong.com/post/color/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-11-28, 19:04:44",
-      "https://news.ycombinator.com/item?id=38449827"
-    ],
-    [
-      "S3 Express Is All You Need",
-      "https://www.warpstream.com/blog/s3-express-is-all-you-need"
-    ]
-  ],
-  [
-    [
       "2023-11-28, 19:01:09",
       "https://news.ycombinator.com/item?id=38449763"
     ],
@@ -201,26 +201,6 @@
   ],
   [
     [
-      "2023-11-28, 14:03:08",
-      "https://news.ycombinator.com/item?id=38445754"
-    ],
-    [
-      "Semantic Kernel",
-      "https://github.com/microsoft/semantic-kernel"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 12:35:20",
-      "https://news.ycombinator.com/item?id=38445020"
-    ],
-    [
-      "Microsoft open-sources ThreadX",
-      "https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/"
-    ]
-  ],
-  [
-    [
       "2023-11-28, 12:07:23",
       "https://news.ycombinator.com/item?id=38444864"
     ],
@@ -235,8 +215,18 @@
       "https://news.ycombinator.com/item?id=38444577"
     ],
     [
-      "Consider Writing Documentation for Your House",
+      "Writing documentation for your house",
       "https://luke.hsiao.dev/blog/housing-documentation/"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 08:29:45",
+      "https://news.ycombinator.com/item?id=38443608"
+    ],
+    [
+      "GitMounter: A FUSE filesystem for Git repositories",
+      "https://belkadan.com/blog/2023/11/GitMounter/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Scientists succeed in growing dolomite in the lab",
       "https://phys.org/news/2023-11-scientists-succeed-dolomite-lab-dissolving.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 12:22:14",
+      "https://news.ycombinator.com/item?id=38431457"
+    ],
+    [
+      "I hereby pardon all junior engineers",
+      "https://taylor.town/pardon-2023"
     ]
   ],
   [
