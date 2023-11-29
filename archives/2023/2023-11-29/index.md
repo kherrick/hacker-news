@@ -81,6 +81,7 @@
 * [2023-11-29, 06:51:26](https://news.ycombinator.com/item?id=38456362) - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
 * [2023-11-29, 06:38:03](https://news.ycombinator.com/item?id=38456299) - [Show HN: Python-Type-Challenges, master Python typing with online exercises](https://python-type-challenges.zeabur.app/)
 * [2023-11-29, 06:35:32](https://news.ycombinator.com/item?id=38456288) - [It's Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
+* [2023-11-29, 06:27:52](https://news.ycombinator.com/item?id=38456230) - [Exploring Self-Hosted Email Services](https://synergeticlabs.com/email-alchemy/)
 * [2023-11-29, 05:53:12](https://news.ycombinator.com/item?id=38456021) - [Understanding the Heap – A Beautiful Mess](https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html)
 * [2023-11-29, 05:46:20](https://news.ycombinator.com/item?id=38455985) - [BBC Basic returns on multiple platforms, open sourced](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 * [2023-11-29, 04:35:52](https://news.ycombinator.com/item?id=38455622) - [Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)

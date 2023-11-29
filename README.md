@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-29, 21:00:41](https://news.ycombinator.com/item?id=38465254) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2023-11-29, 20:46:27](https://news.ycombinator.com/item?id=38465065) - [Show HN: Oasis – A Repository of Project Ideas](https://oasis-of-ideas.github.io/)
 * [2023-11-29, 20:20:52](https://news.ycombinator.com/item?id=38464715) - [The Unix-Haters Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 19:22:28](https://news.ycombinator.com/item?id=38463953) - [Reddit Sans](https://github.com/reddit/redditsans)
@@ -9,7 +8,6 @@
 * [2023-11-29, 18:32:09](https://news.ycombinator.com/item?id=38463195) - [The origins of the steam engine](https://rootsofprogress.org/steam-engine-origins)
 * [2023-11-29, 17:32:54](https://news.ycombinator.com/item?id=38462318) - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
 * [2023-11-29, 17:29:46](https://news.ycombinator.com/item?id=38462269) - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
-* [2023-11-29, 17:14:29](https://news.ycombinator.com/item?id=38462078) - [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)
 * [2023-11-29, 17:00:34](https://news.ycombinator.com/item?id=38461939) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 16:19:33](https://news.ycombinator.com/item?id=38461344) - [Person-in-WiFi: Fine-Grained Person Perception Using WiFi [pdf]](https://www.ri.cmu.edu/app/uploads/2019/09/Person_in_WiFi_ICCV2019.pdf)
 * [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
@@ -26,10 +24,12 @@
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [The 1988 shooting down of Flight 655 as a user interface disaster](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 07:56:36](https://news.ycombinator.com/item?id=38456726) - [How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
 * [2023-11-29, 07:51:25](https://news.ycombinator.com/item?id=38456692) - [Travle: A daily game, get between countries in as few guesses as possible](https://imois.in/games/travle/)
+* [2023-11-29, 06:27:52](https://news.ycombinator.com/item?id=38456230) - [Exploring Self-Hosted Email Services](https://synergeticlabs.com/email-alchemy/)
 * [2023-11-29, 05:53:12](https://news.ycombinator.com/item?id=38456021) - [Understanding the Heap – A Beautiful Mess](https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html)
 * [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 22:37:48](https://news.ycombinator.com/item?id=38452443) - [Color: From Hexcodes to Eyeballs (2018)](https://jamie-wong.com/post/color/)
 * [2023-11-28, 20:23:14](https://news.ycombinator.com/item?id=38450760) - [Transistor first reported as \"little brain cell\"](https://www.biodigitaljazz.net/blog/littlebraincell.html)
+* [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 
 ## [Archives](archives/index.md)
 
