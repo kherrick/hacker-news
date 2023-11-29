@@ -65,6 +65,7 @@
 * [2023-11-29, 08:13:59](https://news.ycombinator.com/item?id=38456839) - [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
 * [2023-11-29, 08:09:21](https://news.ycombinator.com/item?id=38456816) - [Desktop GUI Is an Efficient and Fulfilling Way of Human-Computer Interaction](https://prahladyeri.github.io/blog/2023/11/desktop-gui-is-most-efficient-way-of-human-pc-interaction.html)
 * [2023-11-29, 07:56:36](https://news.ycombinator.com/item?id=38456726) - [How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
+* [2023-11-29, 07:51:25](https://news.ycombinator.com/item?id=38456692) - [Travle: A daily game, get between countries in as few guesses as possible](https://imois.in/games/travle/)
 * [2023-11-29, 07:17:43](https://news.ycombinator.com/item?id=38456511) - [The Washington Post Will Pause Its Advertising on X](https://www.washingtonian.com/2023/11/28/the-washington-post-will-pause-its-advertising-on-x/)
 * [2023-11-29, 06:51:26](https://news.ycombinator.com/item?id=38456362) - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
 * [2023-11-29, 06:38:03](https://news.ycombinator.com/item?id=38456299) - [Show HN: Python-Type-Challenges, master Python typing with online exercises](https://python-type-challenges.zeabur.app/)
