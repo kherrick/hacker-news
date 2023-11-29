@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 04:16:08",
+      "https://news.ycombinator.com/item?id=38455505"
+    ],
+    [
+      "An ex-Googler's guide to dev tools",
+      "https://sourcegraph.com/blog/ex-googler-guide-dev-tools"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 03:45:07",
       "https://news.ycombinator.com/item?id=38455295"
     ],
@@ -137,16 +147,6 @@
     [
       "SDXL Turbo: A Real-Time Text-to-Image Generation Model",
       "https://stability.ai/news/stability-ai-sdxl-turbo"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 19:01:09",
-      "https://news.ycombinator.com/item?id=38449763"
-    ],
-    [
-      "Meditron: A suite of open-source medical Large Language Models",
-      "https://github.com/epfLLM/meditron"
     ]
   ],
   [
