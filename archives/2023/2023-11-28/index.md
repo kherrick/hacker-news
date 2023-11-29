@@ -120,6 +120,7 @@
 * [2023-11-28, 02:34:00](https://news.ycombinator.com/item?id=38441584) - [Show HN: SwaraNotebook – a notation editor for Indian classical music](https://swaranotebook.com/)
 * [2023-11-28, 02:33:23](https://news.ycombinator.com/item?id=38441579) - [No Fap: A Cultural History of Anti-Masturbation](https://lareviewofbooks.org/article/no-fap-a-cultural-history-of-anti-masturbation)
 * [2023-11-28, 02:04:28](https://news.ycombinator.com/item?id=38441401) - [The Case That Could Destroy the Government](https://www.theatlantic.com/ideas/archive/2023/11/securities-and-exchange-commission-v-jarkesy-supreme-court/676059/)
+* [2023-11-28, 01:45:38](https://news.ycombinator.com/item?id=38441242) - [How Jensen Huang's Nvidia is powering the A.I. revolution](https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution)
 * [2023-11-28, 01:33:07](https://news.ycombinator.com/item?id=38441139) - [Orion Browser by Kagi](https://kagi.com/orion/)
 * [2023-11-28, 01:01:02](https://news.ycombinator.com/item?id=38440911) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-11-28, 00:44:33](https://news.ycombinator.com/item?id=38440779) - [An Invasive Tick That Can Clone Itself Is Spreading Across the U.S.](https://www.smithsonianmag.com/smart-news/an-invasive-tick-that-can-clone-itself-is-spreading-across-us-threatening-livestock-180983323/)
