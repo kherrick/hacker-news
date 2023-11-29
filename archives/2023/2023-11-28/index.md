@@ -78,6 +78,7 @@
 * [2023-11-28, 12:38:01](https://news.ycombinator.com/item?id=38445039) - [Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
 * [2023-11-28, 12:35:27](https://news.ycombinator.com/item?id=38445022) - [Badly-Compressed Images Affect CLIP's Performance, New Research Contends](https://blog.metaphysic.ai/badly-compressed-images-affect-clips-performance-new-research-contends/)
 * [2023-11-28, 12:35:20](https://news.ycombinator.com/item?id=38445020) - [Microsoft opens sources ThreadX RTOS used in Raspberry Pis](https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/)
+* [2023-11-28, 12:30:04](https://news.ycombinator.com/item?id=38444989) - [JavaScript: Double Bitwise Not (~~)](https://j11y.io/cool-stuff/double-bitwise-not/)
 * [2023-11-28, 12:26:05](https://news.ycombinator.com/item?id=38444969) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
 * [2023-11-28, 12:21:54](https://news.ycombinator.com/item?id=38444948) - [Tax, healthcare, immigration: why Dutch people voted for Geert Wilders](https://www.theguardian.com/world/2023/nov/23/dutch-explain-why-they-voted-for-geert-wilders-netherlands-election)
 * [2023-11-28, 12:18:33](https://news.ycombinator.com/item?id=38444929) - [Vitalik Buterin's Techno-Optimism](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html)
