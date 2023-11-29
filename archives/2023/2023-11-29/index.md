@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 14:21:04](https://news.ycombinator.com/item?id=38459617) - [Italy bans cultivated meat products](https://www.chemistryworld.com/news/italy-bans-cultivated-meat-products/4018541.article)
 * [2023-11-29, 13:46:22](https://news.ycombinator.com/item?id=38459245) - [Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
+* [2023-11-29, 13:20:27](https://news.ycombinator.com/item?id=38458996) - [Ask HN: Keep binaries in system memory never removed till manually done so](https://news.ycombinator.com/item?id=38458996)
 * [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
 * [2023-11-29, 12:25:36](https://news.ycombinator.com/item?id=38458548) - [AI minister likens risk of AI over-regulation to historical printing press ban](https://fortune.com/2023/11/28/artificial-intelligence-ai-technology-regulation-policy-guardrails-uae-fortune-global-forum/)
 * [2023-11-29, 12:12:29](https://news.ycombinator.com/item?id=38458448) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
@@ -39,6 +41,7 @@
 * [2023-11-29, 02:45:08](https://news.ycombinator.com/item?id=38454813) - [Do You Still Have the Right to a Jury Trial?](https://reason.com/2023/11/28/do-you-still-have-the-right-to-a-jury-trial/)
 * [2023-11-29, 02:33:26](https://news.ycombinator.com/item?id=38454735) - [Massachusetts becomes fifth state to make prison calls free](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
+* [2023-11-29, 01:41:19](https://news.ycombinator.com/item?id=38454351) - [Historians and the Public](https://davidabell.substack.com/p/historians-and-the-public)
 * [2023-11-29, 01:05:04](https://news.ycombinator.com/item?id=38454048) - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 * [2023-11-29, 01:04:53](https://news.ycombinator.com/item?id=38454047) - [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
 * [2023-11-29, 00:11:32](https://news.ycombinator.com/item?id=38453561) - [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
