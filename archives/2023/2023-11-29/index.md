@@ -7,6 +7,7 @@
 * [2023-11-29, 14:51:47](https://news.ycombinator.com/item?id=38460024) - [U.S. Suicides Reached a Record High Last Year](https://www.wsj.com/health/healthcare/americans-suicide-highest-level-2022-02eb10ea)
 * [2023-11-29, 14:21:04](https://news.ycombinator.com/item?id=38459617) - [Italy bans cultivated meat products](https://www.chemistryworld.com/news/italy-bans-cultivated-meat-products/4018541.article)
 * [2023-11-29, 13:46:22](https://news.ycombinator.com/item?id=38459245) - [Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
+* [2023-11-29, 13:34:32](https://news.ycombinator.com/item?id=38459128) - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
 * [2023-11-29, 13:20:27](https://news.ycombinator.com/item?id=38458996) - [Ask HN: Keep binaries in system memory never removed till manually done so](https://news.ycombinator.com/item?id=38458996)
 * [2023-11-29, 13:13:49](https://news.ycombinator.com/item?id=38458923) - [MusicXML](https://www.musicxml.com/)
 * [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
