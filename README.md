@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 18:13:28](https://news.ycombinator.com/item?id=38462924) - [Show HN: Fanfiction and Smut AI Generator](https://altplot.com)
 * [2023-11-29, 17:56:04](https://news.ycombinator.com/item?id=38462681) - [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
 * [2023-11-29, 17:49:03](https://news.ycombinator.com/item?id=38462570) - [Amazon exec: it's time to 'disagree and commit' to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
 * [2023-11-29, 17:29:46](https://news.ycombinator.com/item?id=38462269) - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
@@ -21,7 +22,6 @@
 * [2023-11-29, 09:18:32](https://news.ycombinator.com/item?id=38457247) - [Rust std fs slower than Python? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [The 1988 shooting down of Flight 655 as a user interface disaster](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 08:53:23](https://news.ycombinator.com/item?id=38457100) - [How to Work Effectively with Someone You Don't Like](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/)
-* [2023-11-29, 06:38:03](https://news.ycombinator.com/item?id=38456299) - [Show HN: Python-Type-Challenges, master Python typing with online exercises](https://python-type-challenges.zeabur.app/)
 * [2023-11-29, 05:53:12](https://news.ycombinator.com/item?id=38456021) - [Understanding the Heap – A Beautiful Mess](https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html)
 * [2023-11-29, 05:46:20](https://news.ycombinator.com/item?id=38455985) - [BBC Basic returns on multiple platforms, open sourced](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 * [2023-11-29, 01:41:06](https://news.ycombinator.com/item?id=38454349) - [Stable Diffusion:Real time prompting with SDXL Turbo and ComfyUI running locally](https://old.reddit.com/r/StableDiffusion/comments/1869cnk/real_time_prompting_with_sdxl_turbo_and_comfyui/)

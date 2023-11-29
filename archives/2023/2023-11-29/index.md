@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 18:13:28](https://news.ycombinator.com/item?id=38462924) - [Show HN: Fanfiction and Smut AI Generator](https://altplot.com)
 * [2023-11-29, 17:56:04](https://news.ycombinator.com/item?id=38462681) - [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
 * [2023-11-29, 17:49:03](https://news.ycombinator.com/item?id=38462570) - [Amazon exec: it's time to 'disagree and commit' to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
 * [2023-11-29, 17:30:30](https://news.ycombinator.com/item?id=38462283) - [Robert DeNiro blasts Apple for editing anti-Trump statements from his speech](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/)
