@@ -19,6 +19,7 @@
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [Reasonable expectation of effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)
+* [2023-11-28, 14:03:08](https://news.ycombinator.com/item?id=38445754) - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
 * [2023-11-28, 12:07:23](https://news.ycombinator.com/item?id=38444864) - [Portuguese Orange, Persian Portugal](https://untested.sonnet.io/Portuguese+Orange%2C+Persian+Portugal)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-28, 08:29:45](https://news.ycombinator.com/item?id=38443608) - [GitMounter: A FUSE filesystem for Git repositories](https://belkadan.com/blog/2023/11/GitMounter/)
@@ -28,7 +29,6 @@
 * [2023-11-27, 21:57:06](https://news.ycombinator.com/item?id=38438983) - [Inspired by aircraft IFF interrogator antennas, I decided to build my own array](https://techhub.social/@oz1lqo/111484469731372526)
 * [2023-11-27, 16:08:12](https://news.ycombinator.com/item?id=38433990) - [To move fast, quantum maze solvers must forget the past](https://www.quantamagazine.org/to-move-fast-quantum-maze-solvers-must-forget-the-past-20230720/)
 * [2023-11-27, 16:01:32](https://news.ycombinator.com/item?id=38433885) - [Scientists succeed in growing dolomite in the lab](https://phys.org/news/2023-11-scientists-succeed-dolomite-lab-dissolving.html)
-* [2023-11-27, 12:22:14](https://news.ycombinator.com/item?id=38431457) - [I hereby pardon all junior engineers](https://taylor.town/pardon-2023)
 * [2023-11-27, 08:39:54](https://news.ycombinator.com/item?id=38429727) - [PiDP-11](https://retroviator.com/pidp-11/)
 
 ## [Archives](archives/index.md)
