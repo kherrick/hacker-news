@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-29, 04:16:08](https://news.ycombinator.com/item?id=38455505) - [An ex-Googler's guide to dev tools](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
+* [2023-11-29, 04:16:08](https://news.ycombinator.com/item?id=38455505) - [An ex-Googler's guide to dev tools (2020)](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [2023-11-29, 03:12:31](https://news.ycombinator.com/item?id=38455007) - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
 * [2023-11-29, 03:01:01](https://news.ycombinator.com/item?id=38454908) - [Okta Says Hackers Stole Data for All Customer Support Users](https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users)
 * [2023-11-29, 02:33:26](https://news.ycombinator.com/item?id=38454735) - [Massachusetts becomes fifth state to make prison calls free](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
