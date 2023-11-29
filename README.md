@@ -15,6 +15,7 @@
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:56:56](https://news.ycombinator.com/item?id=38450390) - [SDXL Turbo: A Real-Time Text-to-Image Generation Model](https://stability.ai/news/stability-ai-sdxl-turbo)
+* [2023-11-28, 19:01:09](https://news.ycombinator.com/item?id=38449763) - [Meditron: A suite of open-source medical Large Language Models](https://github.com/epfLLM/meditron)
 * [2023-11-28, 17:56:37](https://news.ycombinator.com/item?id=38448655) - [Positional description matters for transformers arithmetic](https://arxiv.org/abs/2311.14737)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
 * [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
@@ -29,7 +30,6 @@
 * [2023-11-27, 21:57:06](https://news.ycombinator.com/item?id=38438983) - [Inspired by aircraft IFF interrogator antennas, I decided to build my own array](https://techhub.social/@oz1lqo/111484469731372526)
 * [2023-11-27, 16:08:12](https://news.ycombinator.com/item?id=38433990) - [To move fast, quantum maze solvers must forget the past](https://www.quantamagazine.org/to-move-fast-quantum-maze-solvers-must-forget-the-past-20230720/)
 * [2023-11-27, 16:01:32](https://news.ycombinator.com/item?id=38433885) - [Scientists succeed in growing dolomite in the lab](https://phys.org/news/2023-11-scientists-succeed-dolomite-lab-dissolving.html)
-* [2023-11-27, 08:39:54](https://news.ycombinator.com/item?id=38429727) - [PiDP-11](https://retroviator.com/pidp-11/)
 
 ## [Archives](archives/index.md)
 
