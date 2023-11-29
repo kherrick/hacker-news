@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 18:44:05](https://news.ycombinator.com/item?id=38463379) - [Ask HN: Why do people use Password Managers?](https://news.ycombinator.com/item?id=38463379)
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
 * [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
 * [2023-11-29, 18:13:28](https://news.ycombinator.com/item?id=38462924) - [Show HN: Fanfiction and Smut AI Generator](https://altplot.com)
@@ -27,6 +28,7 @@
 * [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 16:03:10](https://news.ycombinator.com/item?id=38461121) - [Deno Cron](https://deno.com/blog/cron)
 * [2023-11-29, 16:01:41](https://news.ycombinator.com/item?id=38461101) - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
+* [2023-11-29, 15:38:04](https://news.ycombinator.com/item?id=38460740) - [Lidocaine induces apoptosis in head and neck squamous cell carcinoma](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01449-3)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 * [2023-11-29, 15:12:37](https://news.ycombinator.com/item?id=38460325) - [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/)
 * [2023-11-29, 14:56:55](https://news.ycombinator.com/item?id=38460093) - [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)

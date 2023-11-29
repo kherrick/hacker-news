@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
+* [2023-11-29, 18:44:05](https://news.ycombinator.com/item?id=38463379) - [Ask HN: Why do people use Password Managers?](https://news.ycombinator.com/item?id=38463379)
 * [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
 * [2023-11-29, 17:36:27](https://news.ycombinator.com/item?id=38462370) - [Show HN: Custom GPTs for Developers](https://chat.openai.com/g/g-91MAzeHrG-tsdoc-generator)
 * [2023-11-29, 17:32:54](https://news.ycombinator.com/item?id=38462318) - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
@@ -12,6 +12,7 @@
 * [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 * [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 16:03:10](https://news.ycombinator.com/item?id=38461121) - [Deno Cron](https://deno.com/blog/cron)
+* [2023-11-29, 15:38:04](https://news.ycombinator.com/item?id=38460740) - [Lidocaine induces apoptosis in head and neck squamous cell carcinoma](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01449-3)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 * [2023-11-29, 13:34:32](https://news.ycombinator.com/item?id=38459128) - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
 * [2023-11-29, 13:31:14](https://news.ycombinator.com/item?id=38459090) - [New neurotech eschews electricity for ultrasound](https://spectrum.ieee.org/bci-ultrasound)
@@ -24,7 +25,6 @@
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [The 1988 shooting down of Flight 655 as a user interface disaster](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 07:56:36](https://news.ycombinator.com/item?id=38456726) - [How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
 * [2023-11-29, 05:53:12](https://news.ycombinator.com/item?id=38456021) - [Understanding the Heap – A Beautiful Mess](https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html)
-* [2023-11-29, 05:46:20](https://news.ycombinator.com/item?id=38455985) - [BBC Basic returns on multiple platforms, open sourced](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 * [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 22:37:48](https://news.ycombinator.com/item?id=38452443) - [Color: From Hexcodes to Eyeballs](https://jamie-wong.com/post/color/)
 * [2023-11-28, 20:23:14](https://news.ycombinator.com/item?id=38450760) - [Transistor first reported as \"little brain cell\"](https://www.biodigitaljazz.net/blog/littlebraincell.html)
