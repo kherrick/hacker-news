@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-29, 20:19:57",
-      "https://news.ycombinator.com/item?id=38464700"
-    ],
-    [
-      "Thunderbird for Android / K-9 Mail: October 2023 Progress Report",
-      "https://blog.thunderbird.net/2023/11/thunderbird-for-android-k-9-mail-october-2023-progress-report/"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 19:29:49",
       "https://news.ycombinator.com/item?id=38464057"
     ],
@@ -47,16 +37,6 @@
     [
       "Write shaders for the (sim) Vegas sphere",
       "https://whenistheweekend.com/theSphere.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 18:33:14",
-      "https://news.ycombinator.com/item?id=38463209"
-    ],
-    [
-      "Why Does the DEA Still Have On-Demand Access to Trillions of Phone Records?",
-      "https://www.techdirt.com/2023/11/29/ron-wyden-wants-to-know-why-the-dea-still-has-on-demand-access-to-trillions-of-phone-records/"
     ]
   ],
   [
@@ -95,8 +75,8 @@
       "https://news.ycombinator.com/item?id=38461939"
     ],
     [
-      "Loongson releases next-generation CPU",
-      "https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml"
+      "New Loongson chip matches Intel's 14600K in IPC tests, overclocked to 3 GHz",
+      "https://www.tomshardware.com/news/loongson-launches-3a6000-cpu-matches-14600k-ipc"
     ]
   ],
   [
@@ -141,12 +121,12 @@
   ],
   [
     [
-      "2023-11-29, 15:38:04",
-      "https://news.ycombinator.com/item?id=38460740"
+      "2023-11-29, 15:36:28",
+      "https://news.ycombinator.com/item?id=38460711"
     ],
     [
-      "Lidocaine induces apoptosis in head and neck squamous cell carcinoma",
-      "https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01449-3"
+      "Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future",
+      "https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/"
     ]
   ],
   [
@@ -171,11 +151,21 @@
   ],
   [
     [
+      "2023-11-29, 13:01:28",
+      "https://news.ycombinator.com/item?id=38458802"
+    ],
+    [
+      "Show HN: Error return traces for Go, inspired by Zig",
+      "https://github.com/bracesdev/errtrace"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 12:46:36",
       "https://news.ycombinator.com/item?id=38458683"
     ],
     [
-      "Extracting Training Data from ChatGPT",
+      "Extracting training data from ChatGPT",
       "https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "The 1988 shooting down of Flight 655 as a user interface disaster",
       "https://octodon.social/@jalefkowit/111490485825183949"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 07:56:36",
+      "https://news.ycombinator.com/item?id=38456726"
+    ],
+    [
+      "How to tackle unreliability of coding assistants",
+      "https://martinfowler.com/articles/exploring-gen-ai.html#memo-08"
     ]
   ],
   [
