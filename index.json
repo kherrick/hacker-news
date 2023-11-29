@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 16:01:41",
+      "https://news.ycombinator.com/item?id=38461101"
+    ],
+    [
+      "Show HN: Resume Matcher – An open source, free tool to improve your resume",
+      "https://github.com/srbhr/Resume-Matcher"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 15:36:28",
       "https://news.ycombinator.com/item?id=38460711"
     ],
@@ -27,6 +37,16 @@
     [
       "MusicXML",
       "https://www.musicxml.com/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 13:01:28",
+      "https://news.ycombinator.com/item?id=38458802"
+    ],
+    [
+      "Show HN: Error return traces for Go, inspired by Zig",
+      "https://github.com/bracesdev/errtrace"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Roundcube open-source webmail software merges with Nextcloud",
       "https://www.phoronix.com/news/Roundcube-Nextcloud"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 10:43:48",
-      "https://news.ycombinator.com/item?id=38457817"
-    ],
-    [
-      "Japan automakers play catch-up in EV race",
-      "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2818/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-11-28, 13:57:45",
-      "https://news.ycombinator.com/item?id=38445707"
-    ],
-    [
-      "Being a public historian",
-      "https://www.ageofinvention.xyz/p/age-of-invention-how-to-be-a-public"
-    ]
-  ],
-  [
-    [
       "2023-11-28, 11:12:25",
       "https://news.ycombinator.com/item?id=38444577"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-11-28, 07:38:18",
-      "https://news.ycombinator.com/item?id=38443368"
+      "2023-11-28, 07:12:23",
+      "https://news.ycombinator.com/item?id=38443253"
     ],
     [
-      "Unit testing on an 8-bit CPU",
-      "https://boston.conman.org/2023/11/27.1"
+      "Designing a SIMD Algorithm from Scratch",
+      "https://mcyoung.xyz/2023/11/27/simd-base64/"
     ]
   ],
   [
