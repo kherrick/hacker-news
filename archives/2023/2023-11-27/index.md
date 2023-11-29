@@ -90,6 +90,7 @@
 * [2023-11-27, 09:35:31](https://news.ycombinator.com/item?id=38430232) - [Switzerland agrees to export 25 Panzer 87 tanks to Germany](https://www.armyrecognition.com/defense_news_november_2023_global_security_army_industry/switzerland_agrees_to_export_25_panzer_87_tanks_to_germany.html)
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 * [2023-11-27, 09:18:52](https://news.ycombinator.com/item?id=38430074) - [Where Is OpenCV 5?](https://opencv.org/blog/2023/10/03/where-is-opencv-5/)
+* [2023-11-27, 09:00:40](https://news.ycombinator.com/item?id=38429915) - [Evaluating M3 Pro CPU Cores: General Performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
 * [2023-11-27, 08:50:18](https://news.ycombinator.com/item?id=38429817) - [Amazon EC2 Enhances Defense in Depth with Default IMDSv2](https://www.infoq.com/news/2023/11/aws-ec2-IMDSv2/)
 * [2023-11-27, 08:39:54](https://news.ycombinator.com/item?id=38429727) - [PiDP-11](https://retroviator.com/pidp-11/)
 * [2023-11-27, 08:37:02](https://news.ycombinator.com/item?id=38429697) - [Custom Events in the Blocky World: Using JFR in Minecraft](https://mostlynerdless.de/blog/2023/11/27/custom-events-in-the-blocky-world-using-jfr-in-minecraft/)

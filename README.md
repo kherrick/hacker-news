@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 10:55:16](https://news.ycombinator.com/item?id=38457889) - [Architecture Antipatterns](https://architecture-antipatterns.tech/)
 * [2023-11-29, 10:34:36](https://news.ycombinator.com/item?id=38457765) - [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
 * [2023-11-29, 10:13:10](https://news.ycombinator.com/item?id=38457619) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
@@ -14,12 +15,10 @@
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
 * [2023-11-28, 23:54:21](https://news.ycombinator.com/item?id=38453405) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
-* [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The case for never reading the book jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
-* [2023-11-28, 17:00:34](https://news.ycombinator.com/item?id=38447936) - [Shortbread.ai (YC W23) is hiring a founding engineer to build AI comics creation](https://www.workatastartup.com/jobs/61541)
 * [2023-11-28, 13:57:45](https://news.ycombinator.com/item?id=38445707) - [The Right Way to Be a Public Historian](https://www.ageofinvention.xyz/p/age-of-invention-how-to-be-a-public)
 * [2023-11-28, 13:21:52](https://news.ycombinator.com/item?id=38445408) - [Donkey Code – the art of naming things](https://einarwh.wordpress.com/2017/01/21/donkey-code/)
 * [2023-11-28, 12:26:05](https://news.ycombinator.com/item?id=38444969) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
@@ -30,6 +29,7 @@
 * [2023-11-27, 19:40:51](https://news.ycombinator.com/item?id=38437139) - [The Muddled Origins of the Word 'Viking'](https://www.atlasobscura.com/articles/origin-of-the-word-viking-why-vikings-called-vikings)
 * [2023-11-27, 16:08:12](https://news.ycombinator.com/item?id=38433990) - [To move fast, quantum maze solvers must forget the past](https://www.quantamagazine.org/to-move-fast-quantum-maze-solvers-must-forget-the-past-20230720/)
 * [2023-11-27, 16:01:32](https://news.ycombinator.com/item?id=38433885) - [Scientists succeed in growing dolomite in the lab](https://phys.org/news/2023-11-scientists-succeed-dolomite-lab-dissolving.html)
+* [2023-11-27, 09:00:40](https://news.ycombinator.com/item?id=38429915) - [Evaluating M3 Pro CPU Cores: General Performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
 
 ## [Archives](archives/index.md)
 
