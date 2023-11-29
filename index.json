@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-29, 17:04:46",
-      "https://news.ycombinator.com/item?id=38461989"
+      "2023-11-29, 17:14:29",
+      "https://news.ycombinator.com/item?id=38462078"
     ],
     [
-      "The Red State Brain Drain Isn't Coming. It's Happening",
-      "https://newrepublic.com/article/176854/republican-red-states-brain-drain"
+      "NPMprune: Remove unnecessary files from node_modules to optimize storage",
+      "https://github.com/xthezealot/npmprune"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 17:05:23",
+      "https://news.ycombinator.com/item?id=38461993"
+    ],
+    [
+      "Devternity Conference Invents Fake Female Attendees to Bolster Diversity",
+      "https://twitter.com/GergelyOrosz/status/1728177708608450705"
     ]
   ],
   [
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2023-11-29, 16:48:40",
-      "https://news.ycombinator.com/item?id=38461772"
+      "2023-11-29, 16:30:17",
+      "https://news.ycombinator.com/item?id=38461514"
     ],
     [
-      "A Supreme Court case that could reshape the US Government",
-      "https://www.readtangle.com/sec-v-jarkesy-supreme-court-case/"
+      "Canadian government reaches deal with Google on Online News Act",
+      "https://www.cbc.ca/news/politics/google-online-news-act-1.7043330"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 16:17:56",
+      "https://news.ycombinator.com/item?id=38461323"
+    ],
+    [
+      "Graph Networks for Materials Exploration (GNoME)",
+      "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Show HN: Resume Matcher – An open source, free tool to improve your resume",
       "https://github.com/srbhr/Resume-Matcher"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 15:36:28",
-      "https://news.ycombinator.com/item?id=38460711"
-    ],
-    [
-      "Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future",
-      "https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "Show HN: Error return traces for Go, inspired by Zig",
       "https://github.com/bracesdev/errtrace"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 12:46:36",
+      "https://news.ycombinator.com/item?id=38458683"
+    ],
+    [
+      "Extracting Training Data from ChatGPT",
+      "https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2023-11-29, 05:53:12",
+      "https://news.ycombinator.com/item?id=38456021"
+    ],
+    [
+      "Understanding the Heap – A Beautiful Mess",
+      "https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 05:46:20",
       "https://news.ycombinator.com/item?id=38455985"
     ],
@@ -197,26 +227,6 @@
     [
       "Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal",
       "https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 02:08:30",
-      "https://news.ycombinator.com/item?id=38454569"
-    ],
-    [
-      "Wozmon for x86-64",
-      "https://github.com/IanSeyler/wozmon_x86-64"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 01:41:19",
-      "https://news.ycombinator.com/item?id=38454351"
-    ],
-    [
-      "Historians and the Public",
-      "https://davidabell.substack.com/p/historians-and-the-public"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Writing documentation for your house",
       "https://luke.hsiao.dev/blog/housing-documentation/"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 07:12:23",
-      "https://news.ycombinator.com/item?id=38443253"
-    ],
-    [
-      "Designing a SIMD Algorithm from Scratch",
-      "https://mcyoung.xyz/2023/11/27/simd-base64/"
     ]
   ],
   [
