@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 20:20:52](https://news.ycombinator.com/item?id=38464715) - [The Unix-HATERS Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
+* [2023-11-29, 19:22:28](https://news.ycombinator.com/item?id=38463953) - [Reddit Sans](https://github.com/reddit/redditsans)
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:51:04](https://news.ycombinator.com/item?id=38463485) - [27% of New Cars in France Now Plugin Electric Cars](https://cleantechnica.com/2023/11/29/27-of-new-cars-in-france-now-plugin-electric-cars/)
 * [2023-11-29, 18:44:05](https://news.ycombinator.com/item?id=38463379) - [Ask HN: Why do people use Password Managers?](https://news.ycombinator.com/item?id=38463379)
@@ -62,6 +64,7 @@
 * [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
 * [2023-11-29, 09:18:32](https://news.ycombinator.com/item?id=38457247) - [Rust std fs slower than Python](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
+* [2023-11-29, 08:57:28](https://news.ycombinator.com/item?id=38457124) - [In 1903, NY Times predicted airplanes would take 10M years to develop](https://bigthink.com/pessimists-archive/air-space-flight-impossible/)
 * [2023-11-29, 08:53:23](https://news.ycombinator.com/item?id=38457100) - [How to Work Effectively with Someone You Don't Like](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/)
 * [2023-11-29, 08:27:06](https://news.ycombinator.com/item?id=38456925) - [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
 * [2023-11-29, 08:13:59](https://news.ycombinator.com/item?id=38456839) - [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
