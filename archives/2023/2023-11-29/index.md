@@ -33,6 +33,7 @@
 * [2023-11-29, 17:05:23](https://news.ycombinator.com/item?id=38461993) - [Devternity Conference Invents Fake Female Attendees to Bolster Diversity](https://twitter.com/GergelyOrosz/status/1728177708608450705)
 * [2023-11-29, 17:04:46](https://news.ycombinator.com/item?id=38461989) - [The Red State Brain Drain Isn't Coming. It's Happening](https://newrepublic.com/article/176854/republican-red-states-brain-drain)
 * [2023-11-29, 17:00:58](https://news.ycombinator.com/item?id=38461944) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+* [2023-11-29, 17:00:34](https://news.ycombinator.com/item?id=38461939) - [New Loongson chip matches Intel's 14600K in IPC tests, overclocked to 3 GHz](https://www.tomshardware.com/news/loongson-launches-3a6000-cpu-matches-14600k-ipc)
 * [2023-11-29, 17:00:34](https://news.ycombinator.com/item?id=38461939) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 16:48:40](https://news.ycombinator.com/item?id=38461772) - [A Supreme Court case that could reshape the US Government](https://www.readtangle.com/sec-v-jarkesy-supreme-court-case/)
 * [2023-11-29, 16:30:17](https://news.ycombinator.com/item?id=38461514) - [Canadian government reaches deal with Google on Online News Act](https://www.cbc.ca/news/politics/google-online-news-act-1.7043330)
