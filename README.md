@@ -1,15 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 17:04:46](https://news.ycombinator.com/item?id=38461989) - [The Red State Brain Drain Isn't Coming. It's Happening](https://newrepublic.com/article/176854/republican-red-states-brain-drain)
+* [2023-11-29, 17:00:58](https://news.ycombinator.com/item?id=38461944) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2023-11-29, 16:48:40](https://news.ycombinator.com/item?id=38461772) - [A Supreme Court case that could reshape the US Government](https://www.readtangle.com/sec-v-jarkesy-supreme-court-case/)
 * [2023-11-29, 16:01:41](https://news.ycombinator.com/item?id=38461101) - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 * [2023-11-29, 13:34:32](https://news.ycombinator.com/item?id=38459128) - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
+* [2023-11-29, 13:31:14](https://news.ycombinator.com/item?id=38459090) - [New Neurotech Eschews Electricity for Ultrasound](https://spectrum.ieee.org/bci-ultrasound)
 * [2023-11-29, 13:13:49](https://news.ycombinator.com/item?id=38458923) - [MusicXML](https://www.musicxml.com/)
 * [2023-11-29, 13:01:28](https://news.ycombinator.com/item?id=38458802) - [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 12:06:02](https://news.ycombinator.com/item?id=38458400) - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
-* [2023-11-29, 12:00:37](https://news.ycombinator.com/item?id=38458367) - [Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
 * [2023-11-29, 11:29:25](https://news.ycombinator.com/item?id=38458127) - [Dobb·E: An open-source framework for learning household robotic manipulation](https://dobb-e.com/)
-* [2023-11-29, 11:24:03](https://news.ycombinator.com/item?id=38458093) - [Poor Broken and Battered Amiga A2000 – Can We Fix It? [video]](https://www.youtube.com/watch?v=2VFNEhab_lk)
 * [2023-11-29, 11:03:47](https://news.ycombinator.com/item?id=38457953) - [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
 * [2023-11-29, 10:43:07](https://news.ycombinator.com/item?id=38457815) - [Show HN: GPT4 Vision for the Meta Glasses](https://github.com/dcrebbin/meta-vision-api)
 * [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
@@ -29,7 +30,6 @@
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-27, 20:43:35](https://news.ycombinator.com/item?id=38437973) - [The tragedy of the canon; or, path dependence in the history of science (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0039368121001096)
-* [2023-11-27, 09:00:40](https://news.ycombinator.com/item?id=38429915) - [Evaluating M3 Pro CPU Cores: General Performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
 
 ## [Archives](archives/index.md)
 

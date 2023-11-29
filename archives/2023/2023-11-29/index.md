@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 17:04:46](https://news.ycombinator.com/item?id=38461989) - [The Red State Brain Drain Isn't Coming. It's Happening](https://newrepublic.com/article/176854/republican-red-states-brain-drain)
+* [2023-11-29, 17:00:58](https://news.ycombinator.com/item?id=38461944) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2023-11-29, 16:48:40](https://news.ycombinator.com/item?id=38461772) - [A Supreme Court case that could reshape the US Government](https://www.readtangle.com/sec-v-jarkesy-supreme-court-case/)
 * [2023-11-29, 16:01:41](https://news.ycombinator.com/item?id=38461101) - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
@@ -13,6 +15,7 @@
 * [2023-11-29, 14:21:04](https://news.ycombinator.com/item?id=38459617) - [Italy bans cultivated meat products](https://www.chemistryworld.com/news/italy-bans-cultivated-meat-products/4018541.article)
 * [2023-11-29, 13:46:22](https://news.ycombinator.com/item?id=38459245) - [Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
 * [2023-11-29, 13:34:32](https://news.ycombinator.com/item?id=38459128) - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
+* [2023-11-29, 13:31:14](https://news.ycombinator.com/item?id=38459090) - [New Neurotech Eschews Electricity for Ultrasound](https://spectrum.ieee.org/bci-ultrasound)
 * [2023-11-29, 13:20:27](https://news.ycombinator.com/item?id=38458996) - [Ask HN: Keep binaries in system memory never removed till manually done so](https://news.ycombinator.com/item?id=38458996)
 * [2023-11-29, 13:13:49](https://news.ycombinator.com/item?id=38458923) - [MusicXML](https://www.musicxml.com/)
 * [2023-11-29, 13:01:28](https://news.ycombinator.com/item?id=38458802) - [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
