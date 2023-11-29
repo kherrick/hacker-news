@@ -10,6 +10,7 @@
 * [2023-11-29, 12:00:37](https://news.ycombinator.com/item?id=38458367) - [Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
 * [2023-11-29, 10:55:16](https://news.ycombinator.com/item?id=38457889) - [Architecture Antipatterns](https://architecture-antipatterns.tech/)
 * [2023-11-29, 10:43:07](https://news.ycombinator.com/item?id=38457815) - [Show HN: GPT4 Vision for the Meta Glasses](https://github.com/dcrebbin/meta-vision-api)
+* [2023-11-29, 10:34:55](https://news.ycombinator.com/item?id=38457770) - [In Continued Defense of Effective Altruism](https://www.astralcodexten.com/p/in-continued-defense-of-effective)
 * [2023-11-29, 10:34:36](https://news.ycombinator.com/item?id=38457765) - [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
 * [2023-11-29, 10:13:10](https://news.ycombinator.com/item?id=38457619) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
