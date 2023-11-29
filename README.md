@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-29, 10:55:16](https://news.ycombinator.com/item?id=38457889) - [Architecture Antipatterns](https://architecture-antipatterns.tech/)
-* [2023-11-29, 10:34:36](https://news.ycombinator.com/item?id=38457765) - [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
 * [2023-11-29, 10:13:10](https://news.ycombinator.com/item?id=38457619) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
@@ -15,6 +14,7 @@
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
 * [2023-11-28, 23:54:21](https://news.ycombinator.com/item?id=38453405) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
+* [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The case for never reading the book jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
