@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 23:56:29](https://news.ycombinator.com/item?id=38453430) - [How scientists are trying to save the insects that make life possible](https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible)
 * [2023-11-28, 23:36:42](https://news.ycombinator.com/item?id=38453202) - [Women warn restaurants are luring them in via dating apps](https://www.dailydot.com/news/restaurants-use-tinder/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 * [2023-11-28, 22:40:38](https://news.ycombinator.com/item?id=38452493) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.aol.com/unity-software-cut-3-8-221242432.html)
+* [2023-11-28, 22:37:48](https://news.ycombinator.com/item?id=38452443) - [Color: From Hexcodes to Eyeballs](https://jamie-wong.com/post/color/)
 * [2023-11-28, 22:36:04](https://news.ycombinator.com/item?id=38452425) - [Nobody wants U.S. Treasury bonds](https://www.semafor.com/article/11/28/2023/nobody-wants-us-treasury-bonds)
 * [2023-11-28, 22:08:33](https://news.ycombinator.com/item?id=38452059) - [Ask HN: Git hosting sites that do not require 2FA?](https://news.ycombinator.com/item?id=38452059)
 * [2023-11-28, 22:04:50](https://news.ycombinator.com/item?id=38452005) - [Erwin Schrödinger – Sexual Abuse](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
@@ -83,6 +85,7 @@
 * [2023-11-28, 11:40:37](https://news.ycombinator.com/item?id=38444719) - [Half Life:25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-28, 11:18:08](https://news.ycombinator.com/item?id=38444606) - [Court: Cloudflare Is Liable for Pirate Site, but Not as a DNS Provider](https://torrentfreak.com/court-cloudflare-is-liable-for-pirate-site-but-not-as-a-dns-provider-231127/)
 * [2023-11-28, 11:12:41](https://news.ycombinator.com/item?id=38444579) - [Google is deleting inactive accounts. Here's what that means](https://www.npr.org/2023/11/27/1215285876/google-inactive-account-delete-policy)
+* [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Consider Writing Documentation for Your House](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-28, 10:09:39](https://news.ycombinator.com/item?id=38444241) - [Show HN: Transform Notes into Visual Mind Maps](https://www.cmaps.io/)
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 * [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
