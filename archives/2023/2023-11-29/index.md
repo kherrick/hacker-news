@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 03:45:07](https://news.ycombinator.com/item?id=38455295) - [Americans Are Pulling Cash from Their Retirement Savings to Pay Bills](https://www.bloomberg.com/news/articles/2023-11-20/consumers-pull-cash-from-retirement-accounts-amid-budget-stress)
 * [2023-11-29, 03:31:22](https://news.ycombinator.com/item?id=38455161) - [It's All Bullshit: Performing Productivity at Google](https://thebaffler.com/latest/its-all-bullshit-tan)
 * [2023-11-29, 03:14:50](https://news.ycombinator.com/item?id=38455027) - [OwnCloud vulnerability with max severity score comes under \"mass\" exploitation](https://arstechnica.com/p3/)
 * [2023-11-29, 03:12:31](https://news.ycombinator.com/item?id=38455007) - [Shopify Ruby on Rails distributed monolith runs 19M queries per second on MySQL](https://twitter.com/ShopifyEng/status/1729500623773573265)
