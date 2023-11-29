@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 15:12:37](https://news.ycombinator.com/item?id=38460325) - [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/)
+* [2023-11-29, 14:56:55](https://news.ycombinator.com/item?id=38460093) - [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)
 * [2023-11-29, 14:51:47](https://news.ycombinator.com/item?id=38460024) - [U.S. Suicides Reached a Record High Last Year](https://www.wsj.com/health/healthcare/americans-suicide-highest-level-2022-02eb10ea)
 * [2023-11-29, 14:21:04](https://news.ycombinator.com/item?id=38459617) - [Italy bans cultivated meat products](https://www.chemistryworld.com/news/italy-bans-cultivated-meat-products/4018541.article)
 * [2023-11-29, 13:46:22](https://news.ycombinator.com/item?id=38459245) - [Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
@@ -52,4 +54,5 @@
 * [2023-11-29, 01:41:06](https://news.ycombinator.com/item?id=38454349) - [Stable Diffusion:Real time prompting with SDXL Turbo and ComfyUI running locally](https://old.reddit.com/r/StableDiffusion/comments/1869cnk/real_time_prompting_with_sdxl_turbo_and_comfyui/)
 * [2023-11-29, 01:05:04](https://news.ycombinator.com/item?id=38454048) - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 * [2023-11-29, 01:04:53](https://news.ycombinator.com/item?id=38454047) - [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
+* [2023-11-29, 00:31:29](https://news.ycombinator.com/item?id=38453750) - [In 1969, the U.S. turned off Niagara Falls](https://www.nationalgeographic.com/premium/article/niagara-american-falls-shut-turn-off-dewater-1969)
 * [2023-11-29, 00:11:32](https://news.ycombinator.com/item?id=38453561) - [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
