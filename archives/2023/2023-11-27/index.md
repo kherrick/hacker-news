@@ -28,6 +28,7 @@
 * [2023-11-27, 20:01:59](https://news.ycombinator.com/item?id=38437419) - [Omea: The Integrated Information Environment by JetBrains](https://www.jetbrains.com/omea/)
 * [2023-11-27, 20:00:36](https://news.ycombinator.com/item?id=38437388) - [GitHub is investigating an incident with Pull Requests, Issues and Webhooks](https://www.githubstatus.com/incidents/66vhjmd266r9)
 * [2023-11-27, 19:42:31](https://news.ycombinator.com/item?id=38437164) - [What's the hardest real-life problem you solved with GPT-4?](https://old.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
+* [2023-11-27, 19:40:51](https://news.ycombinator.com/item?id=38437139) - [The Muddled Origins of the Word 'Viking'](https://www.atlasobscura.com/articles/origin-of-the-word-viking-why-vikings-called-vikings)
 * [2023-11-27, 19:27:58](https://news.ycombinator.com/item?id=38436975) - [The official Rails job board is live](https://rubyonrails.org/2023/11/27/rails-job-board-is-live)
 * [2023-11-27, 19:18:08](https://news.ycombinator.com/item?id=38436851) - [Metals: Where Electricity May Flow Without Electrons](https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/)
 * [2023-11-27, 18:58:14](https://news.ycombinator.com/item?id=38436588) - [Covid-19 3rd leading cause of death among Canadians in 2022](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1310039401)
