@@ -129,6 +129,47 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="38465944">
+          <h3>
+            <a class="item" href="https://www.tesla.com/cybertruck"
+              >Cybertruck Launch</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-29 @ 22:03:58</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38465944"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38465736">
+          <h3>
+            <a
+              class="item"
+              href="https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth"
+              >Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps
+              Memory Bandwidth</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-29 @ 21:44:24</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38465736"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="38465693">
           <h3>
             <a
@@ -157,11 +198,11 @@
             <h4>
               <span>2023-11-29 @ 20:20:52</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38464715"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -176,11 +217,11 @@
             <h4>
               <span>2023-11-29 @ 19:29:49</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38464057"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -195,13 +236,100 @@
             <h4>
               <span>2023-11-29 @ 19:14:42</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38463832"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="38463731">
+          <h3>
+            <a class="item" href="https://pgxman.com/"
+              >Show HN: pgxman - npm for Postgres extensions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-29 @ 19:08:15</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38463731"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Installing and updating Postgres extensions is an uphill battle.
+                You're left searching for the right build tools and grappling
+                with often unclear and incomplete compiling instructions to even
+                try one out. But with pgxman, we've streamlined the process to
+                one simple step: pgxman install [extension name].
+              </p>
+              <p>
+                For example, to build parquet_s3_fdw manually, you'd need to:
+              </p>
+              <p>1. Download the parquet_s3_fdw source code;</p>
+              <p>
+                2. Figure out how to build it by looking at README. When
+                unclear, look at the source code how to build it. The README of
+                parquet_s3_fdw says it needs libarrow, libparquet &amp; aws_sdk.
+                Readme doesn’t say where to get them.
+              </p>
+              <p>
+                3. Make sure all dependencies are available to build the
+                project. Either install them from apt, if available, or build
+                them manually if not. For parquet_s3_fdw aws_sdk has to be built
+                manually — it’s not available in any apt repos
+              </p>
+              <p>
+                4. Build the extension targeting the correct OS, CPU
+                architecture and Postgres version.
+              </p>
+              <p>
+                5. Determine and build to the right path
+                /usr/lib/postgresql/15/lib - otherwise, Postgres wouldn’t be
+                able to find them.
+              </p>
+              <p>
+                6. Repeat across all relevant Postgres instances. Hopefully,
+                these Postgres versions are recent or else you’ll have to update
+                postgres, set maintenance window, etc.
+              </p>
+              <p>
+                * Added friction: Since parquet_s3_fdw is not designed to use in
+                a cloud environment, and we forked it to make changes to make it
+                possible to use.
+              </p>
+              <p>Using pgxman, you can just do:</p>
+              <p></p>
+              <pre><code>  pgxman install s3_parquet_fdw
+</code></pre>
+              pgxman integrates with your system package manager, ensuring the
+              correct versions are installed without extra packages from any
+              shared dependencies between extensions. pgxman’s automated build
+              system creates [APT] packages for each Postgres version, platform,
+              and OS supported by the extension. Extensions are built from a
+              “buildkit” formula, written in YAML, and are contributed through
+              GitHub.
+              <p>To install pgxman, you can do</p>
+              <p></p>
+              <pre><code>  brew install pgxman/tap/pgxman
+</code></pre>
+              or, if you don't mind pipe-to-shell,
+              <p></p>
+              <pre><code>  curl -sfl https://install.pgx.sh | sh -
+</code></pre>
+              If you'd like to learn more, we have an extensive blog post here:
+              <a
+                href="https://www.hydra.so/blog-posts/the-design-of-postgres-extension-manager-pgxman"
+                >https://www.hydra.so/blog-posts/the-design-of-postgres-exten...</a
+              >.
+            </div>
           </section>
         </section>
         <section id="38463195">
@@ -216,7 +344,7 @@
             <h4>
               <span>2023-11-29 @ 18:32:09</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38463195"
                   >Comments</a
@@ -237,33 +365,11 @@
             <h4>
               <span>2023-11-29 @ 17:32:54</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38462318"
                   >Comments</a
                 ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38462269">
-          <h3>
-            <a
-              class="item"
-              href="https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated"
-              >What should I do if I suspect one of the journal reviews I got is
-              AI-generated?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-29 @ 17:29:46</span
-              ><span class="points-container"
-                >Points: <span class="points">107</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38462269"
-                  >Comments</a
-                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -281,11 +387,11 @@
             <h4>
               <span>2023-11-29 @ 17:00:34</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38461939"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -324,11 +430,11 @@
             <h4>
               <span>2023-11-29 @ 16:17:56</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38461323"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -343,11 +449,11 @@
             <h4>
               <span>2023-11-29 @ 16:13:23</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38461249"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
           </section>
@@ -360,33 +466,11 @@
             <h4>
               <span>2023-11-29 @ 16:03:10</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38461121"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38460711">
-          <h3>
-            <a
-              class="item"
-              href="https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/"
-              >Rolls-Royce calls off bets on electric planes, says low-carbon
-              fuel is future</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-29 @ 15:36:28</span
-              ><span class="points-container"
-                >Points: <span class="points">117</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38460711"
-                  >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -423,11 +507,11 @@
             <h4>
               <span>2023-11-29 @ 13:31:14</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38459090"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -442,7 +526,7 @@
             <h4>
               <span>2023-11-29 @ 13:01:28</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38458802"
                   >Comments</a
@@ -463,11 +547,11 @@
             <h4>
               <span>2023-11-29 @ 12:46:36</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38458683"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -484,11 +568,11 @@
             <h4>
               <span>2023-11-29 @ 11:03:47</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38457953"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 194</span></span
               >
             </h4>
           </section>
@@ -503,7 +587,7 @@
             <h4>
               <span>2023-11-29 @ 10:43:07</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38457815"
                   >Comments</a
@@ -528,7 +612,7 @@
             <h4>
               <span>2023-11-29 @ 10:04:26</span
               ><span class="points-container"
-                >Points: <span class="points">332</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38457556"
                   >Comments</a
@@ -549,7 +633,7 @@
             <h4>
               <span>2023-11-29 @ 09:18:32</span
               ><span class="points-container"
-                >Points: <span class="points">546</span></span
+                >Points: <span class="points">549</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38457247"
                   >Comments</a
@@ -571,11 +655,11 @@
             <h4>
               <span>2023-11-29 @ 08:57:37</span
               ><span class="points-container"
-                >Points: <span class="points">693</span></span
+                >Points: <span class="points">694</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38457125"
                   >Comments</a
-                ><span class="descendants">: 538</span></span
+                ><span class="descendants">: 543</span></span
               >
             </h4>
           </section>
@@ -592,11 +676,11 @@
             <h4>
               <span>2023-11-29 @ 07:56:36</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38456726"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -612,7 +696,7 @@
             <h4>
               <span>2023-11-29 @ 07:51:25</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38456692"
                   >Comments</a
@@ -631,11 +715,11 @@
             <h4>
               <span>2023-11-29 @ 06:27:52</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38456230"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -652,7 +736,7 @@
             <h4>
               <span>2023-11-29 @ 05:53:12</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38456021"
                   >Comments</a
@@ -672,11 +756,11 @@
             <h4>
               <span>2023-11-28 @ 23:23:54</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38453047"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
             <div class="text">
@@ -765,7 +849,7 @@
             <h4>
               <span>2023-11-28 @ 22:37:48</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38452443"
                   >Comments</a
@@ -786,32 +870,11 @@
             <h4>
               <span>2023-11-28 @ 20:23:14</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38450760"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38444577">
-          <h3>
-            <a
-              class="item"
-              href="https://luke.hsiao.dev/blog/housing-documentation/"
-              >Writing documentation for your house</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-28 @ 11:12:25</span
-              ><span class="points-container"
-                >Points: <span class="points">546</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38444577"
-                  >Comments</a
-                ><span class="descendants">: 263</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
