@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 22:03:58](https://news.ycombinator.com/item?id=38465944) - [Cybertruck Launch](https://www.tesla.com/cybertruck)
+* [2023-11-29, 21:44:24](https://news.ycombinator.com/item?id=38465736) - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
 * [2023-11-29, 21:39:11](https://news.ycombinator.com/item?id=38465693) - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
 * [2023-11-29, 21:00:41](https://news.ycombinator.com/item?id=38465254) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-11-29, 20:46:27](https://news.ycombinator.com/item?id=38465065) - [Show HN: Oasis – A Repository of Project Ideas](https://oasis-of-ideas.github.io/)
@@ -14,6 +16,7 @@
 * [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 19:22:28](https://news.ycombinator.com/item?id=38463953) - [Reddit Sans](https://github.com/reddit/redditsans)
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
+* [2023-11-29, 19:08:15](https://news.ycombinator.com/item?id=38463731) - [Show HN: pgxman - npm for Postgres extensions](https://pgxman.com/)
 * [2023-11-29, 18:51:04](https://news.ycombinator.com/item?id=38463485) - [27% of New Cars in France Now Plugin Electric Cars](https://cleantechnica.com/2023/11/29/27-of-new-cars-in-france-now-plugin-electric-cars/)
 * [2023-11-29, 18:44:05](https://news.ycombinator.com/item?id=38463379) - [Ask HN: Why do people use Password Managers?](https://news.ycombinator.com/item?id=38463379)
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
