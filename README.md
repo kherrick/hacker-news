@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 20:25:54](https://news.ycombinator.com/item?id=38464788) - [Cristiano Ronaldo faces $1B lawsuit over Binance ads](https://www.bbc.com/news/technology-67566602)
 * [2023-11-29, 20:20:52](https://news.ycombinator.com/item?id=38464715) - [The Unix-HATERS Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-11-29, 19:22:28](https://news.ycombinator.com/item?id=38463953) - [Reddit Sans](https://github.com/reddit/redditsans)
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
-* [2023-11-29, 17:36:27](https://news.ycombinator.com/item?id=38462370) - [Show HN: Custom GPTs for Developers](https://chat.openai.com/g/g-91MAzeHrG-tsdoc-generator)
 * [2023-11-29, 17:32:54](https://news.ycombinator.com/item?id=38462318) - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
 * [2023-11-29, 17:29:46](https://news.ycombinator.com/item?id=38462269) - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
 * [2023-11-29, 17:14:29](https://news.ycombinator.com/item?id=38462078) - [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)

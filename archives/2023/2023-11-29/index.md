@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 20:25:54](https://news.ycombinator.com/item?id=38464788) - [Cristiano Ronaldo faces $1B lawsuit over Binance ads](https://www.bbc.com/news/technology-67566602)
 * [2023-11-29, 20:20:52](https://news.ycombinator.com/item?id=38464715) - [The Unix-HATERS Handbook (1994) [pdf]](https://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-11-29, 19:22:28](https://news.ycombinator.com/item?id=38463953) - [Reddit Sans](https://github.com/reddit/redditsans)
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
