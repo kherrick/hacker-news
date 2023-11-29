@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
 * [2023-11-29, 12:12:29](https://news.ycombinator.com/item?id=38458448) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2023-11-29, 12:06:02](https://news.ycombinator.com/item?id=38458400) - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
 * [2023-11-29, 12:00:37](https://news.ycombinator.com/item?id=38458367) - [Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
