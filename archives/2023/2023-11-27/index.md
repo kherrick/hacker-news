@@ -19,6 +19,7 @@
 * [2023-11-27, 21:04:46](https://news.ycombinator.com/item?id=38438261) - [God Help Us, Let's Try to Understand AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 20:59:51](https://news.ycombinator.com/item?id=38438202) - [Ask HN: Tutorial on LLM / already grasp neural nets](https://news.ycombinator.com/item?id=38438202)
 * [2023-11-27, 20:45:18](https://news.ycombinator.com/item?id=38438000) - [Cheaper microscope could bring protein mapping technique to the masses](https://www.science.org/content/article/cheaper-microscope-could-bring-protein-mapping-technique-masses)
+* [2023-11-27, 20:43:35](https://news.ycombinator.com/item?id=38437973) - [The tragedy of the canon; or, path dependence in the history of science (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0039368121001096)
 * [2023-11-27, 20:35:37](https://news.ycombinator.com/item?id=38437878) - [Tesla sues Swedish government after worker rebellion cripples car biz](https://www.theregister.com/2023/11/27/tesla_sweden_strike_lawsuit/)
 * [2023-11-27, 20:27:21](https://news.ycombinator.com/item?id=38437773) - [Synchronize a 3D scene across multiple windows using Three.js and localStorage](https://github.com/bgstaal/multipleWindow3dScene)
 * [2023-11-27, 20:24:56](https://news.ycombinator.com/item?id=38437747) - [Mexican ecologists start campaign to save axolotl](https://www.theguardian.com/world/2023/nov/25/axolotl-mexico-ecology-pollution-campaign)
