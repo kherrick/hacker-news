@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 12:06:02](https://news.ycombinator.com/item?id=38458400) - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
+* [2023-11-29, 12:00:37](https://news.ycombinator.com/item?id=38458367) - [Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
 * [2023-11-29, 10:55:16](https://news.ycombinator.com/item?id=38457889) - [Architecture Antipatterns](https://architecture-antipatterns.tech/)
+* [2023-11-29, 10:43:07](https://news.ycombinator.com/item?id=38457815) - [Show HN: GPT4 Vision for the Meta Glasses](https://github.com/dcrebbin/meta-vision-api)
 * [2023-11-29, 10:34:36](https://news.ycombinator.com/item?id=38457765) - [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
 * [2023-11-29, 10:13:10](https://news.ycombinator.com/item?id=38457619) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
+* [2023-11-29, 09:18:32](https://news.ycombinator.com/item?id=38457247) - [Rust std fs slower than Python](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 08:27:06](https://news.ycombinator.com/item?id=38456925) - [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
 * [2023-11-29, 08:13:59](https://news.ycombinator.com/item?id=38456839) - [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
