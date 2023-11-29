@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 06:51:26](https://news.ycombinator.com/item?id=38456362) - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
 * [2023-11-29, 06:35:32](https://news.ycombinator.com/item?id=38456288) - [It's Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
 * [2023-11-29, 04:35:52](https://news.ycombinator.com/item?id=38455622) - [Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
 * [2023-11-29, 04:16:08](https://news.ycombinator.com/item?id=38455505) - [An ex-Googler's guide to dev tools](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)

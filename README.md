@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 06:51:26](https://news.ycombinator.com/item?id=38456362) - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
 * [2023-11-29, 06:35:32](https://news.ycombinator.com/item?id=38456288) - [It's Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
 * [2023-11-29, 04:35:52](https://news.ycombinator.com/item?id=38455622) - [Unity Software with a 'company reset' walks away from film VFX and the Wētā Deal](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/)
 * [2023-11-29, 04:16:08](https://news.ycombinator.com/item?id=38455505) - [An ex-Googler's guide to dev tools (2020)](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
@@ -16,7 +17,6 @@
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
 * [2023-11-28, 19:56:56](https://news.ycombinator.com/item?id=38450390) - [SDXL Turbo: A Real-Time Text-to-Image Generation Model](https://stability.ai/news/stability-ai-sdxl-turbo)
-* [2023-11-28, 17:56:37](https://news.ycombinator.com/item?id=38448655) - [Positional description matters for transformers arithmetic](https://arxiv.org/abs/2311.14737)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [Reasonable expectation of effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph representation learning on relational databases [pdf]](https://relbench.stanford.edu/paper.pdf)
