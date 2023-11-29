@@ -77,6 +77,7 @@
 * [2023-11-27, 12:45:25](https://news.ycombinator.com/item?id=38431652) - [FPGAs and the Renaissance of Retro Hardware](https://brainbaking.com/post/2023/11/fpgas-and-the-renaissance-of-retro-hardware/)
 * [2023-11-27, 12:29:35](https://news.ycombinator.com/item?id=38431514) - [Amiga Graphics Archive](https://amiga.lychesis.net/)
 * [2023-11-27, 12:25:06](https://news.ycombinator.com/item?id=38431482) - [$10M AI Mathematical Olympiad Prize](https://aimoprize.com/)
+* [2023-11-27, 12:22:14](https://news.ycombinator.com/item?id=38431457) - [I hereby pardon all junior engineers](https://taylor.town/pardon-2023)
 * [2023-11-27, 12:16:28](https://news.ycombinator.com/item?id=38431402) - [Wealth Systems in RPGs](https://troypress.com/wealth-systems-in-rpgs/)
 * [2023-11-27, 12:05:14](https://news.ycombinator.com/item?id=38431308) - [Support HTTP over Unix domain sockets](https://bugzilla.mozilla.org/show_bug.cgi?id=1688774)
 * [2023-11-27, 12:00:26](https://news.ycombinator.com/item?id=38431273) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)

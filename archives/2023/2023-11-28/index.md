@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
 * [2023-11-28, 23:56:29](https://news.ycombinator.com/item?id=38453430) - [How scientists are trying to save the insects that make life possible](https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible)
+* [2023-11-28, 23:54:21](https://news.ycombinator.com/item?id=38453405) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
 * [2023-11-28, 23:36:42](https://news.ycombinator.com/item?id=38453202) - [Women warn restaurants are luring them in via dating apps](https://www.dailydot.com/news/restaurants-use-tinder/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
@@ -89,6 +90,7 @@
 * [2023-11-28, 10:09:39](https://news.ycombinator.com/item?id=38444241) - [Show HN: Transform Notes into Visual Mind Maps](https://www.cmaps.io/)
 * [2023-11-28, 09:07:13](https://news.ycombinator.com/item?id=38443855) - [PeerTube v6 is out, and powered by your ideas](https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/)
 * [2023-11-28, 08:40:19](https://news.ycombinator.com/item?id=38443668) - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
+* [2023-11-28, 08:29:45](https://news.ycombinator.com/item?id=38443608) - [GitMounter: A FUSE filesystem for Git repositories](https://belkadan.com/blog/2023/11/GitMounter/)
 * [2023-11-28, 08:07:16](https://news.ycombinator.com/item?id=38443494) - [Amateur astronomers discover an asteroid's moon](https://skyandtelescope.org/astronomy-news/amateur-astronomers-discover-an-asteroids-moon/)
 * [2023-11-28, 08:00:48](https://news.ycombinator.com/item?id=38443465) - [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
 * [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
