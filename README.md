@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-29, 08:09:21](https://news.ycombinator.com/item?id=38456816) - [Desktop GUI Is an Efficient and Fulfilling Way of Human-Computer Interaction](https://prahladyeri.github.io/blog/2023/11/desktop-gui-is-most-efficient-way-of-human-pc-interaction.html)
 * [2023-11-29, 07:17:43](https://news.ycombinator.com/item?id=38456511) - [The Washington Post Will Pause Its Advertising on X](https://www.washingtonian.com/2023/11/28/the-washington-post-will-pause-its-advertising-on-x/)
 * [2023-11-29, 06:51:26](https://news.ycombinator.com/item?id=38456362) - [A rural post office was told to prioritize Amazon packages. Chaos ensued](https://www.washingtonpost.com/technology/2023/11/28/amazon-missed-mail-rural-towns/)
 * [2023-11-29, 06:35:32](https://news.ycombinator.com/item?id=38456288) - [It's Still Funny That 1k People Gave Tesla $250k for a Roadster Six Years Ago](https://jalopnik.com/its-still-very-funny-that-1-000-people-gave-tesla-250-1851038764)
@@ -9,6 +8,7 @@
 * [2023-11-29, 04:16:08](https://news.ycombinator.com/item?id=38455505) - [An ex-Googler's guide to dev tools (2020)](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [2023-11-29, 02:33:26](https://news.ycombinator.com/item?id=38454735) - [Massachusetts becomes fifth state to make prison calls free](https://www.wgbh.org/news/local/2023-11-17/massachusetts-becomes-fifth-state-in-nation-to-make-prison-calls-free)
 * [2023-11-29, 02:08:30](https://news.ycombinator.com/item?id=38454569) - [Wozmon for x86-64](https://github.com/IanSeyler/wozmon_x86-64)
+* [2023-11-29, 01:05:04](https://news.ycombinator.com/item?id=38454048) - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 * [2023-11-28, 23:54:21](https://news.ycombinator.com/item?id=38453405) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple pulls plug on Goldman credit-card partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
