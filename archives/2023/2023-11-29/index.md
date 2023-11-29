@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
 * [2023-11-29, 18:13:28](https://news.ycombinator.com/item?id=38462924) - [Show HN: Fanfiction and Smut AI Generator](https://altplot.com)
 * [2023-11-29, 17:56:04](https://news.ycombinator.com/item?id=38462681) - [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
 * [2023-11-29, 17:49:03](https://news.ycombinator.com/item?id=38462570) - [Amazon exec: it's time to 'disagree and commit' to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
+* [2023-11-29, 17:44:49](https://news.ycombinator.com/item?id=38462493) - [Every Bitcoin payment 'uses a swimming pool of water'](https://www.bbc.com/news/technology-67564205)
+* [2023-11-29, 17:32:54](https://news.ycombinator.com/item?id=38462318) - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
 * [2023-11-29, 17:30:30](https://news.ycombinator.com/item?id=38462283) - [Robert DeNiro blasts Apple for editing anti-Trump statements from his speech](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/)
 * [2023-11-29, 17:29:46](https://news.ycombinator.com/item?id=38462269) - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
 * [2023-11-29, 17:15:26](https://news.ycombinator.com/item?id=38462087) - [Windows-as-an-App Is Coming](https://www.computerworld.com/article/3711200/windows-as-an-app-is-coming.html)

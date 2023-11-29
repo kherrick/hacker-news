@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-29, 18:13:28](https://news.ycombinator.com/item?id=38462924) - [Show HN: Fanfiction and Smut AI Generator](https://altplot.com)
-* [2023-11-29, 17:56:04](https://news.ycombinator.com/item?id=38462681) - [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
-* [2023-11-29, 17:49:03](https://news.ycombinator.com/item?id=38462570) - [Amazon exec: it's time to 'disagree and commit' to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
+* [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
+* [2023-11-29, 17:44:49](https://news.ycombinator.com/item?id=38462493) - [Every Bitcoin payment 'uses a swimming pool of water'](https://www.bbc.com/news/technology-67564205)
+* [2023-11-29, 17:32:54](https://news.ycombinator.com/item?id=38462318) - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
 * [2023-11-29, 17:29:46](https://news.ycombinator.com/item?id=38462269) - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
 * [2023-11-29, 17:14:29](https://news.ycombinator.com/item?id=38462078) - [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)
 * [2023-11-29, 17:00:58](https://news.ycombinator.com/item?id=38461944) - [QuestDB (YC S20) is hiring a core database engineer](https://questdb.io/careers/core-database-engineer/)
