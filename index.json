@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-29, 22:03:58",
+      "https://news.ycombinator.com/item?id=38465944"
+    ],
+    [
+      "Cybertruck Launch",
+      "https://www.tesla.com/cybertruck"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 21:44:24",
+      "https://news.ycombinator.com/item?id=38465736"
+    ],
+    [
+      "Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth",
+      "https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 21:39:11",
       "https://news.ycombinator.com/item?id=38465693"
     ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2023-11-29, 19:08:15",
+      "https://news.ycombinator.com/item?id=38463731"
+    ],
+    [
+      "Show HN: pgxman - npm for Postgres extensions",
+      "https://pgxman.com/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 18:32:09",
       "https://news.ycombinator.com/item?id=38463195"
     ],
@@ -57,16 +87,6 @@
     [
       "Visualizing Pokémon Red and Blue Connections (2020)",
       "http://peterhajas.com/blog/pokemon_rb_connections.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 17:29:46",
-      "https://news.ycombinator.com/item?id=38462269"
-    ],
-    [
-      "What should I do if I suspect one of the journal reviews I got is AI-generated?",
-      "https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Deno Cron",
       "https://deno.com/blog/cron"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 15:36:28",
-      "https://news.ycombinator.com/item?id=38460711"
-    ],
-    [
-      "Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future",
-      "https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Transistor first reported as \"little brain cell\"",
       "https://www.biodigitaljazz.net/blog/littlebraincell.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 11:12:25",
-      "https://news.ycombinator.com/item?id=38444577"
-    ],
-    [
-      "Writing documentation for your house",
-      "https://luke.hsiao.dev/blog/housing-documentation/"
     ]
   ]
 ]
