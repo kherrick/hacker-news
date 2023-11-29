@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-11-29, 14:51:47",
-      "https://news.ycombinator.com/item?id=38460024"
-    ],
-    [
-      "U.S. Suicides Reached a Record High Last Year",
-      "https://www.wsj.com/health/healthcare/americans-suicide-highest-level-2022-02eb10ea"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 13:46:22",
       "https://news.ycombinator.com/item?id=38459245"
     ],
     [
       "Guide to Tolkien's Letters",
       "https://www.tolkienguide.com/guide/letters/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 13:34:32",
+      "https://news.ycombinator.com/item?id=38459128"
+    ],
+    [
+      "Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]",
+      "https://www.sigmicro.org/media/oralhistories/colwell.pdf"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-11-29, 02:08:30",
+      "https://news.ycombinator.com/item?id=38454569"
+    ],
+    [
+      "Wozmon for x86-64",
+      "https://github.com/IanSeyler/wozmon_x86-64"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 01:41:19",
       "https://news.ycombinator.com/item?id=38454351"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2023-11-28, 13:21:52",
-      "https://news.ycombinator.com/item?id=38445408"
+      "2023-11-28, 13:57:45",
+      "https://news.ycombinator.com/item?id=38445707"
     ],
     [
-      "Donkey code",
-      "https://einarwh.wordpress.com/2017/01/21/donkey-code/"
+      "Being a public historian",
+      "https://www.ageofinvention.xyz/p/age-of-invention-how-to-be-a-public"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Writing documentation for your house",
       "https://luke.hsiao.dev/blog/housing-documentation/"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 08:29:45",
-      "https://news.ycombinator.com/item?id=38443608"
-    ],
-    [
-      "GitMounter: A FUSE filesystem for Git repositories",
-      "https://belkadan.com/blog/2023/11/GitMounter/"
     ]
   ],
   [
