@@ -68,6 +68,7 @@
 * [2023-11-28, 14:03:08](https://news.ycombinator.com/item?id=38445754) - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
 * [2023-11-28, 14:02:24](https://news.ycombinator.com/item?id=38445747) - [General Availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
 * [2023-11-28, 14:02:18](https://news.ycombinator.com/item?id=38445745) - [IKEA new Zigbee sensors for doors and windows, motion, water leaks are under $10](https://www.theverge.com/2023/11/28/23977693/ikea-sensors-door-window-water-motion-price-date-specs)
+* [2023-11-28, 13:57:45](https://news.ycombinator.com/item?id=38445707) - [The Right Way to Be a Public Historian](https://www.ageofinvention.xyz/p/age-of-invention-how-to-be-a-public)
 * [2023-11-28, 13:52:02](https://news.ycombinator.com/item?id=38445660) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 13:46:30](https://news.ycombinator.com/item?id=38445613) - [Left-sided Cancer: Blame your bed and TV?](https://blogs.scientificamerican.com/guest-blog/left-sided-cancer-blame-your-bed-and-tv/)
 * [2023-11-28, 13:42:24](https://news.ycombinator.com/item?id=38445578) - [What happens when your AI girlfriend dies?](https://www.dazeddigital.com/life-culture/article/61432/1/what-happens-when-your-ai-girlfriend-dies-replika-forever-voices-soulmate)
