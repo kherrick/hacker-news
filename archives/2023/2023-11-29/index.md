@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 10:34:36](https://news.ycombinator.com/item?id=38457765) - [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
+* [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 08:27:06](https://news.ycombinator.com/item?id=38456925) - [PgAdmin 4 v8.0](https://www.pgadmin.org/news/#92)
 * [2023-11-29, 08:13:59](https://news.ycombinator.com/item?id=38456839) - [Language and Poverty](https://www.sil.org/blog/language-and-poverty)
