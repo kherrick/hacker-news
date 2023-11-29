@@ -7,6 +7,7 @@
 * [2023-11-28, 23:56:29](https://news.ycombinator.com/item?id=38453430) - [How scientists are trying to save the insects that make life possible](https://www.npr.org/2023/11/28/1215513285/how-scientists-are-trying-to-save-the-insects-that-make-life-possible)
 * [2023-11-28, 23:54:21](https://news.ycombinator.com/item?id=38453405) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
 * [2023-11-28, 23:36:42](https://news.ycombinator.com/item?id=38453202) - [Women warn restaurants are luring them in via dating apps](https://www.dailydot.com/news/restaurants-use-tinder/)
+* [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-28, 22:56:59](https://news.ycombinator.com/item?id=38452712) - [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45)
 * [2023-11-28, 22:40:38](https://news.ycombinator.com/item?id=38452493) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.aol.com/unity-software-cut-3-8-221242432.html)

@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 17:56:04](https://news.ycombinator.com/item?id=38462681) - [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
+* [2023-11-29, 17:49:03](https://news.ycombinator.com/item?id=38462570) - [Amazon exec: it's time to 'disagree and commit' to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
 * [2023-11-29, 17:30:30](https://news.ycombinator.com/item?id=38462283) - [Robert DeNiro blasts Apple for editing anti-Trump statements from his speech](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/)
+* [2023-11-29, 17:29:46](https://news.ycombinator.com/item?id=38462269) - [What should I do if I suspect one of the journal reviews I got is AI-generated?](https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated)
 * [2023-11-29, 17:15:26](https://news.ycombinator.com/item?id=38462087) - [Windows-as-an-App Is Coming](https://www.computerworld.com/article/3711200/windows-as-an-app-is-coming.html)
 * [2023-11-29, 17:14:29](https://news.ycombinator.com/item?id=38462078) - [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)
 * [2023-11-29, 17:05:23](https://news.ycombinator.com/item?id=38461993) - [Devternity Conference Invents Fake Female Attendees to Bolster Diversity](https://twitter.com/GergelyOrosz/status/1728177708608450705)
