@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-11-29, 20:35:19",
-      "https://news.ycombinator.com/item?id=38464915"
+      "2023-11-29, 21:00:41",
+      "https://news.ycombinator.com/item?id=38465254"
     ],
     [
-      "Apple M1 Pro Beats M3 Pro with Ableton, Logic and Pro Tools",
-      "https://www.gearnews.com/apple-m1-pro-beats-m3-pro-with-ableton-logic-and-pro-tools/"
+      "EasyPost (YC S13) Is Hiring",
+      "https://www.easypost.com/careers"
     ]
   ],
   [
     [
-      "2023-11-29, 20:25:54",
-      "https://news.ycombinator.com/item?id=38464788"
+      "2023-11-29, 20:46:27",
+      "https://news.ycombinator.com/item?id=38465065"
     ],
     [
-      "Cristiano Ronaldo faces $1B lawsuit over Binance ads",
-      "https://www.bbc.com/news/technology-67566602"
+      "Show HN: Oasis – A Repository of Project Ideas",
+      "https://oasis-of-ideas.github.io/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "The Unix-Haters Handbook (1994) [pdf]",
       "https://web.mit.edu/~simsong/www/ugh.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 19:29:49",
+      "https://news.ycombinator.com/item?id=38464057"
+    ],
+    [
+      "Llamafile lets you distribute and run LLMs with a single file",
+      "https://github.com/Mozilla-Ocho/llamafile"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-11-29, 18:21:22",
-      "https://news.ycombinator.com/item?id=38463034"
+      "2023-11-29, 18:32:09",
+      "https://news.ycombinator.com/item?id=38463195"
     ],
     [
-      "Together AI raises a $102.5M Series A",
-      "https://www.together.ai/blog/series-a"
+      "The origins of the steam engine",
+      "https://rootsofprogress.org/steam-engine-origins"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "NPMprune: Remove unnecessary files from node_modules to optimize storage",
       "https://github.com/xthezealot/npmprune"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 17:00:58",
-      "https://news.ycombinator.com/item?id=38461944"
-    ],
-    [
-      "QuestDB (YC S20) is hiring a core database engineer",
-      "https://questdb.io/careers/core-database-engineer/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38452443"
     ],
     [
-      "Color: From Hexcodes to Eyeballs",
+      "Color: From Hexcodes to Eyeballs (2018)",
       "https://jamie-wong.com/post/color/"
     ]
   ],
