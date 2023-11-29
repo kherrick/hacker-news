@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 16:48:40](https://news.ycombinator.com/item?id=38461772) - [A Supreme Court case that could reshape the US Government](https://www.readtangle.com/sec-v-jarkesy-supreme-court-case/)
 * [2023-11-29, 16:01:41](https://news.ycombinator.com/item?id=38461101) - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 * [2023-11-29, 13:34:32](https://news.ycombinator.com/item?id=38459128) - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
 * [2023-11-29, 13:13:49](https://news.ycombinator.com/item?id=38458923) - [MusicXML](https://www.musicxml.com/)
 * [2023-11-29, 13:01:28](https://news.ycombinator.com/item?id=38458802) - [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
-* [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
 * [2023-11-29, 12:06:02](https://news.ycombinator.com/item?id=38458400) - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
 * [2023-11-29, 12:00:37](https://news.ycombinator.com/item?id=38458367) - [Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
 * [2023-11-29, 11:29:25](https://news.ycombinator.com/item?id=38458127) - [Dobb·E: An open-source framework for learning household robotic manipulation](https://dobb-e.com/)
