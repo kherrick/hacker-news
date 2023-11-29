@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 13:46:22](https://news.ycombinator.com/item?id=38459245) - [Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
 * [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
 * [2023-11-29, 12:25:36](https://news.ycombinator.com/item?id=38458548) - [AI minister likens risk of AI over-regulation to historical printing press ban](https://fortune.com/2023/11/28/artificial-intelligence-ai-technology-regulation-policy-guardrails-uae-fortune-global-forum/)
 * [2023-11-29, 12:12:29](https://news.ycombinator.com/item?id=38458448) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
