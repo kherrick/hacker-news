@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
 * [2023-11-29, 15:12:37](https://news.ycombinator.com/item?id=38460325) - [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/)
 * [2023-11-29, 14:56:55](https://news.ycombinator.com/item?id=38460093) - [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)
 * [2023-11-29, 14:51:47](https://news.ycombinator.com/item?id=38460024) - [U.S. Suicides Reached a Record High Last Year](https://www.wsj.com/health/healthcare/americans-suicide-highest-level-2022-02eb10ea)
