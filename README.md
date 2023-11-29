@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-29, 01:05:04](https://news.ycombinator.com/item?id=38454048) - [Cyberattack – November 2023](https://www.blender.org/news/cyberattack-november-2023/)
+* [2023-11-29, 01:04:53](https://news.ycombinator.com/item?id=38454047) - [ONNX Model Zoo Hosted on GitHub](https://github.com/xetdata/onnx-models)
 * [2023-11-29, 00:11:32](https://news.ycombinator.com/item?id=38453561) - [Housing Costs Are So High That Divorced Couples Are Still Living Together](https://www.wsj.com/personal-finance/they-want-to-split-up-the-housing-market-wont-let-them-bafd67f0)
 * [2023-11-28, 23:54:21](https://news.ycombinator.com/item?id=38453405) - [Unity Software to cut 3.8% of staff in 'company reset'](https://www.reuters.com/technology/unity-software-cut-38-staff-company-reset-2023-11-28/)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
@@ -8,7 +9,6 @@
 * [2023-11-28, 21:58:55](https://news.ycombinator.com/item?id=38451920) - [Shutting down the Matrix bridge to Libera chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The case for never reading the book jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
-* [2023-11-28, 20:35:15](https://news.ycombinator.com/item?id=38450908) - [The dead children we must see](https://www.newyorker.com/news/our-columnists/the-dead-children-we-must-see)
 * [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 20:10:54](https://news.ycombinator.com/item?id=38450576) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
