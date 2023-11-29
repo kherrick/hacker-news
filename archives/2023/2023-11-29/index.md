@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:44:05](https://news.ycombinator.com/item?id=38463379) - [Ask HN: Why do people use Password Managers?](https://news.ycombinator.com/item?id=38463379)
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
 * [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)

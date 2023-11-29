@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-29, 18:44:05](https://news.ycombinator.com/item?id=38463379) - [Ask HN: Why do people use Password Managers?](https://news.ycombinator.com/item?id=38463379)
+* [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
 * [2023-11-29, 17:36:27](https://news.ycombinator.com/item?id=38462370) - [Show HN: Custom GPTs for Developers](https://chat.openai.com/g/g-91MAzeHrG-tsdoc-generator)
 * [2023-11-29, 17:32:54](https://news.ycombinator.com/item?id=38462318) - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
