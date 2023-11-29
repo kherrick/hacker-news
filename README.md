@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-29, 17:30:30](https://news.ycombinator.com/item?id=38462283) - [Robert DeNiro blasts Apple for editing anti-Trump statements from his speech](https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/)
 * [2023-11-29, 17:15:26](https://news.ycombinator.com/item?id=38462087) - [Windows-as-an-App Is Coming](https://www.computerworld.com/article/3711200/windows-as-an-app-is-coming.html)
 * [2023-11-29, 17:14:29](https://news.ycombinator.com/item?id=38462078) - [NPMprune: Remove unnecessary files from node_modules to optimize storage](https://github.com/xthezealot/npmprune)
 * [2023-11-29, 17:05:23](https://news.ycombinator.com/item?id=38461993) - [Devternity Conference Invents Fake Female Attendees to Bolster Diversity](https://twitter.com/GergelyOrosz/status/1728177708608450705)
@@ -27,7 +28,6 @@
 * [2023-11-29, 01:41:06](https://news.ycombinator.com/item?id=38454349) - [Stable Diffusion:Real time prompting with SDXL Turbo and ComfyUI running locally](https://old.reddit.com/r/StableDiffusion/comments/1869cnk/real_time_prompting_with_sdxl_turbo_and_comfyui/)
 * [2023-11-29, 00:31:29](https://news.ycombinator.com/item?id=38453750) - [In 1969, the U.S. turned off Niagara Falls](https://www.nationalgeographic.com/premium/article/niagara-american-falls-shut-turn-off-dewater-1969)
 * [2023-11-28, 20:23:14](https://news.ycombinator.com/item?id=38450760) - [Transistor first reported as \"Little Brain Cell\"](https://www.biodigitaljazz.net/blog/littlebraincell.html)
-* [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-27, 20:43:35](https://news.ycombinator.com/item?id=38437973) - [The tragedy of the canon; or, path dependence in the history of science (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0039368121001096)
 
