@@ -21,6 +21,7 @@
 * [2023-11-28, 21:14:16](https://news.ycombinator.com/item?id=38451410) - [Berkshire Hathaway's Charlie Munger dies aged 99](https://www.ft.com/content/66124b0c-3cd1-41d4-b0b2-c2f45f4cf196)
 * [2023-11-28, 21:03:14](https://news.ycombinator.com/item?id=38451278) - [Charlie Munger has died](https://www.berkshirehathaway.com/news/nov2823.pdf)
 * [2023-11-28, 20:35:15](https://news.ycombinator.com/item?id=38450908) - [The Dead Children We Must See](https://www.newyorker.com/news/our-columnists/the-dead-children-we-must-see)
+* [2023-11-28, 20:23:14](https://news.ycombinator.com/item?id=38450760) - [Transistor first reported as \"Little Brain Cell\"](https://www.biodigitaljazz.net/blog/littlebraincell.html)
 * [2023-11-28, 20:20:02](https://news.ycombinator.com/item?id=38450718) - [He thought tending bar sounded like fun. Then the entire kitchen staff quit](https://jasonstanford.substack.com/p/he-thought-tending-bar-sounded-like)
 * [2023-11-28, 20:19:44](https://news.ycombinator.com/item?id=38450716) - [Parsing 8-bit integers quickly](https://lemire.me/blog/2023/11/28/parsing-8-bit-integers-quickly/)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)

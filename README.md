@@ -24,10 +24,10 @@
 * [2023-11-29, 01:41:06](https://news.ycombinator.com/item?id=38454349) - [Stable Diffusion:Real time prompting with SDXL Turbo and ComfyUI running locally](https://old.reddit.com/r/StableDiffusion/comments/1869cnk/real_time_prompting_with_sdxl_turbo_and_comfyui/)
 * [2023-11-29, 00:31:29](https://news.ycombinator.com/item?id=38453750) - [In 1969, the U.S. turned off Niagara Falls](https://www.nationalgeographic.com/premium/article/niagara-american-falls-shut-turn-off-dewater-1969)
 * [2023-11-28, 23:16:17](https://news.ycombinator.com/item?id=38452959) - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
+* [2023-11-28, 20:23:14](https://news.ycombinator.com/item?id=38450760) - [Transistor first reported as \"Little Brain Cell\"](https://www.biodigitaljazz.net/blog/littlebraincell.html)
 * [2023-11-28, 20:10:58](https://news.ycombinator.com/item?id=38450577) - [The camel, the rope, and the needle's eye](http://kiwihellenist.blogspot.com/2023/11/camel.html)
 * [2023-11-28, 17:56:36](https://news.ycombinator.com/item?id=38448653) - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
-* [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-27, 20:43:35](https://news.ycombinator.com/item?id=38437973) - [The tragedy of the canon; or, path dependence in the history of science (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0039368121001096)
 * [2023-11-27, 09:00:40](https://news.ycombinator.com/item?id=38429915) - [Evaluating M3 Pro CPU Cores: General Performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
 
