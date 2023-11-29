@@ -1,22 +1,32 @@
 [
   [
     [
-      "2023-11-29, 17:30:30",
-      "https://news.ycombinator.com/item?id=38462283"
+      "2023-11-29, 17:56:04",
+      "https://news.ycombinator.com/item?id=38462681"
     ],
     [
-      "Robert DeNiro blasts Apple for editing anti-Trump statements from his speech",
-      "https://variety.com/2023/film/news/robert-de-niro-apple-censors-trump-criticism-gotham-speech-1235810832/"
+      "Okta hackers stole data on all customer support users in major breach",
+      "https://sec.okta.com/harfiles/"
     ]
   ],
   [
     [
-      "2023-11-29, 17:15:26",
-      "https://news.ycombinator.com/item?id=38462087"
+      "2023-11-29, 17:49:03",
+      "https://news.ycombinator.com/item?id=38462570"
     ],
     [
-      "Windows-as-an-App Is Coming",
-      "https://www.computerworld.com/article/3711200/windows-as-an-app-is-coming.html"
+      "Amazon exec: it's time to 'disagree and commit' to office return despite no data",
+      "https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 17:29:46",
+      "https://news.ycombinator.com/item?id=38462269"
+    ],
+    [
+      "What should I do if I suspect one of the journal reviews I got is AI-generated?",
+      "https://academia.stackexchange.com/questions/204370/what-should-i-do-if-i-suspect-one-of-the-journal-reviews-i-got-is-al-generated"
     ]
   ],
   [
@@ -31,21 +41,11 @@
   ],
   [
     [
-      "2023-11-29, 17:05:23",
-      "https://news.ycombinator.com/item?id=38461993"
-    ],
-    [
-      "Devternity Conference Invents Fake Female Attendees to Bolster Diversity",
-      "https://twitter.com/GergelyOrosz/status/1728177708608450705"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 17:00:58",
       "https://news.ycombinator.com/item?id=38461944"
     ],
     [
-      "QuestDB (YC S20) Is Hiring a Core Database Engineer",
+      "QuestDB (YC S20) is hiring a core database engineer",
       "https://questdb.io/careers/core-database-engineer/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38461323"
     ],
     [
-      "Graph Networks for Materials Exploration (GNoME)",
+      "Graph Networks for Materials Exploration",
       "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Paperless-Ngx v2.0.0",
       "https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 11:29:25",
-      "https://news.ycombinator.com/item?id=38458127"
-    ],
-    [
-      "Dobb·E: An open-source framework for learning household robotic manipulation",
-      "https://dobb-e.com/"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2023-11-28, 20:23:14",
-      "https://news.ycombinator.com/item?id=38450760"
+      "2023-11-28, 23:23:54",
+      "https://news.ycombinator.com/item?id=38453047"
     ],
     [
-      "Transistor first reported as \"Little Brain Cell\"",
-      "https://www.biodigitaljazz.net/blog/littlebraincell.html"
+      "Show HN: Dobb·E – towards home robots with an open-source platform",
+      "https://dobb-e.com/"
     ]
   ],
   [
     [
-      "2023-11-28, 20:10:58",
-      "https://news.ycombinator.com/item?id=38450577"
+      "2023-11-28, 22:37:48",
+      "https://news.ycombinator.com/item?id=38452443"
     ],
     [
-      "The camel, the rope, and the needle's eye",
-      "http://kiwihellenist.blogspot.com/2023/11/camel.html"
+      "Color: From Hexcodes to Eyeballs",
+      "https://jamie-wong.com/post/color/"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 20:23:14",
+      "https://news.ycombinator.com/item?id=38450760"
+    ],
+    [
+      "Transistor first reported as \"little brain cell\"",
+      "https://www.biodigitaljazz.net/blog/littlebraincell.html"
     ]
   ],
   [
