@@ -94,6 +94,7 @@
 * [2023-11-28, 08:07:16](https://news.ycombinator.com/item?id=38443494) - [Amateur astronomers discover an asteroid's moon](https://skyandtelescope.org/astronomy-news/amateur-astronomers-discover-an-asteroids-moon/)
 * [2023-11-28, 08:00:48](https://news.ycombinator.com/item?id=38443465) - [The DEI backlash is here](https://www.axios.com/2023/11/27/dei-affirmative-action-supreme-court)
 * [2023-11-28, 07:44:00](https://news.ycombinator.com/item?id=38443399) - [The Hunt for Life in Alpha Centauri – Jstor Daily](https://daily.jstor.org/the-hunt-for-life-in-alpha-centauri/)
+* [2023-11-28, 07:38:18](https://news.ycombinator.com/item?id=38443368) - [Unit testing on an 8-bit CPU](https://boston.conman.org/2023/11/27.1)
 * [2023-11-28, 07:20:53](https://news.ycombinator.com/item?id=38443292) - [Noyb files GDPR complaint against Meta over \"Pay or Okay\"](https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
 * [2023-11-28, 07:18:15](https://news.ycombinator.com/item?id=38443283) - [Trojan Room Coffee Pot](https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot)
 * [2023-11-28, 07:12:23](https://news.ycombinator.com/item?id=38443253) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
