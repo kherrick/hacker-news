@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-29, 07:17:43",
-      "https://news.ycombinator.com/item?id=38456511"
-    ],
-    [
-      "The Washington Post Will Pause Its Advertising on X",
-      "https://www.washingtonian.com/2023/11/28/the-washington-post-will-pause-its-advertising-on-x/"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 06:51:26",
       "https://news.ycombinator.com/item?id=38456362"
     ],
@@ -87,16 +77,6 @@
     [
       "Wozmon for x86-64",
       "https://github.com/IanSeyler/wozmon_x86-64"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 01:05:04",
-      "https://news.ycombinator.com/item?id=38454048"
-    ],
-    [
-      "Cyberattack – November 2023",
-      "https://www.blender.org/news/cyberattack-november-2023/"
     ]
   ],
   [
@@ -215,8 +195,18 @@
       "https://news.ycombinator.com/item?id=38444989"
     ],
     [
-      "JavaScript: Double Bitwise Not (~~)",
+      "JavaScript: Double Bitwise Not (~~) (2010)",
       "https://j11y.io/cool-stuff/double-bitwise-not/"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 12:26:05",
+      "https://news.ycombinator.com/item?id=38444969"
+    ],
+    [
+      "Source filtering with file sets",
+      "https://www.tweag.io/blog/2023-11-28-file-sets/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Designing a SIMD Algorithm from Scratch",
       "https://mcyoung.xyz/2023/11/27/simd-base64/"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 20:43:35",
+      "https://news.ycombinator.com/item?id=38437973"
+    ],
+    [
+      "The tragedy of the canon; or, path dependence in the history of science (2021)",
+      "https://www.sciencedirect.com/science/article/abs/pii/S0039368121001096"
     ]
   ],
   [
