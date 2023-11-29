@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=38463731"
     ],
     [
-      "Show HN: pgxman - npm for Postgres extensions",
+      "Show HN: Pgxman – npm for Postgres extensions",
       "https://pgxman.com/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 18:42:34",
+      "https://news.ycombinator.com/item?id=38463355"
+    ],
+    [
+      "Who makes the most reliable new cars?",
+      "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Visualizing Pokémon Red and Blue Connections (2020)",
       "http://peterhajas.com/blog/pokemon_rb_connections.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 17:00:34",
-      "https://news.ycombinator.com/item?id=38461939"
-    ],
-    [
-      "New Loongson chip matches Intel's 14600K in IPC tests, overclocked to 3 GHz",
-      "https://www.tomshardware.com/news/loongson-launches-3a6000-cpu-matches-14600k-ipc"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Deno Cron",
       "https://deno.com/blog/cron"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 13:34:32",
-      "https://news.ycombinator.com/item?id=38459128"
-    ],
-    [
-      "Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]",
-      "https://www.sigmicro.org/media/oralhistories/colwell.pdf"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38456021"
     ],
     [
-      "Understanding the Heap – A Beautiful Mess",
+      "Understanding the heap – a beautiful mess",
       "https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Transistor first reported as \"little brain cell\"",
       "https://www.biodigitaljazz.net/blog/littlebraincell.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 01:45:38",
+      "https://news.ycombinator.com/item?id=38441242"
+    ],
+    [
+      "How Jensen Huang's Nvidia is powering the A.I. revolution",
+      "https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution"
     ]
   ]
 ]
