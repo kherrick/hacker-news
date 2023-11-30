@@ -20,7 +20,7 @@
 * [2023-11-29, 13:31:14](https://news.ycombinator.com/item?id=38459090) - [New neurotech eschews electricity for ultrasound](https://spectrum.ieee.org/bci-ultrasound)
 * [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis Were Harmed in the Making of This Presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
 * [2023-11-29, 12:16:27](https://news.ycombinator.com/item?id=38458482) - [Analog Devices Apollo MxFE 0.5 to 55 GHz Ecosystem](https://www.analog.com/en/education/education-library/videos/6330317501112.html)
-* [2023-11-29, 11:24:03](https://news.ycombinator.com/item?id=38458093) - [Poor Broken and Battered Amiga A2000 – Can We Fix It? [video]](https://www.youtube.com/watch?v=2VFNEhab_lk)
+* [2023-11-29, 11:03:47](https://news.ycombinator.com/item?id=38457953) - [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
 * [2023-11-29, 10:59:52](https://news.ycombinator.com/item?id=38457926) - [Hysp – An independent package manager](https://github.com/pwnwriter/hysp)
 * [2023-11-29, 07:56:36](https://news.ycombinator.com/item?id=38456726) - [How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
 * [2023-11-29, 07:51:25](https://news.ycombinator.com/item?id=38456692) - [Travle: A daily game – get between countries in as few guesses as possible](https://imois.in/games/travle/)
