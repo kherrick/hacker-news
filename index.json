@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-30, 17:14:56",
+      "https://news.ycombinator.com/item?id=38476038"
+    ],
+    [
+      "Is anyone using self hosted LLM day to day and training it like a new employee",
+      "https://news.ycombinator.com/item?id=38476038"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 17:05:48",
+      "https://news.ycombinator.com/item?id=38475926"
+    ],
+    [
+      "How to Ripen and Store Avocados",
+      "https://www.seriouseats.com/how-to-ripen-avocados-7377071"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 17:03:02",
+      "https://news.ycombinator.com/item?id=38475898"
+    ],
+    [
+      "Engineering a Solar System",
+      "https://planetplanet.net/2017/05/03/the-ultimate-engineered-solar-system/"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 17:00:07",
       "https://news.ycombinator.com/item?id=38475864"
     ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38475622"
     ],
     [
-      "Life Lessons from a 44 Year Old (2022)",
+      "Life lessons from a 44 year old (2022)",
       "https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38475545"
     ],
     [
-      "Stanisław Lem's Prescient Vision of Artificial Life",
+      "Stanisław Lem's vision of artificial life",
       "https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Alibaba releases 72B LLM with 32k context length",
       "https://huggingface.co/Qwen/Qwen-72B"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 15:31:26",
-      "https://news.ycombinator.com/item?id=38474696"
-    ],
-    [
-      "Large language models lack deep insights or a theory of mind",
-      "https://arxiv.org/abs/2311.16093"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Yabai – A tiling window manager for macOS",
       "https://github.com/koekeishiya/yabai"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 14:15:30",
-      "https://news.ycombinator.com/item?id=38473766"
-    ],
-    [
-      "Senator calls for the public release of AT&T 'Hemisphere' surveillance records",
-      "https://www.engadget.com/us-senator-calls-for-the-public-release-of-att-hemisphere-surveillance-records-083627787.html"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2023-11-30, 08:10:43",
-      "https://news.ycombinator.com/item?id=38471004"
+      "2023-11-30, 09:26:19",
+      "https://news.ycombinator.com/item?id=38471475"
     ],
     [
-      "XCurl",
-      "https://daniel.haxx.se/blog/2023/11/30/xcurl/"
+      "Open Source Supply Chain Security at Google",
+      "https://research.swtch.com/acmscored"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "When Technology Follows Art",
       "https://resobscura.substack.com/p/when-technology-follows-art"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 19:29:49",
-      "https://news.ycombinator.com/item?id=38464057"
-    ],
-    [
-      "Llamafile lets you distribute and run LLMs with a single file",
-      "https://github.com/Mozilla-Ocho/llamafile"
     ]
   ],
   [
