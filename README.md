@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 10:09:47](https://news.ycombinator.com/item?id=38471744) - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
-* [2023-11-30, 05:33:44](https://news.ycombinator.com/item?id=38470046) - [Adobe's buy of Figma is 'likely' bad for developers, rules UK regulator](https://www.theregister.com/2023/11/29/adobes_buy_of_figma_is/)
 * [2023-11-30, 02:03:21](https://news.ycombinator.com/item?id=38468387) - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
 * [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 * [2023-11-30, 01:08:42](https://news.ycombinator.com/item?id=38467850) - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
@@ -10,6 +10,7 @@
 * [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 21:39:11](https://news.ycombinator.com/item?id=38465693) - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
 * [2023-11-29, 21:12:56](https://news.ycombinator.com/item?id=38465396) - [Towards Higher-Level Abstractions for Molecular Programming [video]](https://www.youtube.com/watch?v=rp2RqVE08Zo)
+* [2023-11-29, 21:11:20](https://news.ycombinator.com/item?id=38465378) - [Strange Loops: journeys in declarative logic programming in genomics [video]](https://www.youtube.com/watch?v=CG24QFdVh-0)
 * [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
@@ -28,7 +29,6 @@
 * [2023-11-29, 06:27:52](https://news.ycombinator.com/item?id=38456230) - [Exploring Self-Hosted Email Services](https://synergeticlabs.com/email-alchemy/)
 * [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 21:39:59](https://news.ycombinator.com/item?id=38451680) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
-* [2023-11-28, 21:32:43](https://news.ycombinator.com/item?id=38451596) - [The Birth of the Chapter](https://www.chronicle.com/article/the-birth-of-the-chapter)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 
 ## [Archives](archives/index.md)
