@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 20:07:35](https://news.ycombinator.com/item?id=38478398) - [Evernote will restrict free users to 50 notes starting December 4](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
 * [2023-11-30, 19:54:58](https://news.ycombinator.com/item?id=38478263) - [Unity announces updates to it's web runtime support](https://blog.unity.com/engine-platform/web-runtime-updates-enhance-browser-experience)
+* [2023-11-30, 19:38:59](https://news.ycombinator.com/item?id=38478087) - [To safely deploy generative AI in health care, models must be open source](https://www.nature.com/articles/d41586-023-03803-y)
 * [2023-11-30, 18:53:17](https://news.ycombinator.com/item?id=38477452) - [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
@@ -14,7 +16,6 @@
 * [2023-11-30, 15:06:51](https://news.ycombinator.com/item?id=38474364) - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
 * [2023-11-30, 14:36:43](https://news.ycombinator.com/item?id=38474003) - [Proxmox VE Helper-Scripts – Scripts for Streamlining Your Homelab with Proxmox](https://tteck.github.io/Proxmox/)
 * [2023-11-30, 14:32:15](https://news.ycombinator.com/item?id=38473942) - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
-* [2023-11-30, 14:12:06](https://news.ycombinator.com/item?id=38473726) - [Edbrowse, a Command Line Editor Browser](https://edbrowse.org)
 * [2023-11-30, 11:25:06](https://news.ycombinator.com/item?id=38472198) - [CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can generalist foundation models beat special-purpose tuning?](https://arxiv.org/abs/2311.16452)
 * [2023-11-30, 11:11:07](https://news.ycombinator.com/item?id=38472108) - [Scotch on the Rocks: The TV drama locked away for 50 years](https://www.bbc.co.uk/news/uk-scotland-66889553)
@@ -27,7 +28,6 @@
 * [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 * [2023-11-29, 22:18:29](https://news.ycombinator.com/item?id=38466071) - [Literary Fight Club: On the Great Poets' Brawl of '68](https://lithub.com/literary-fight-club-on-the-great-poets-brawl-of-68/)
 * [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
-* [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [The Case for Challenging Music](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
 * [2023-11-29, 11:42:56](https://news.ycombinator.com/item?id=38458233) - [Hybrid Beamforming Receiver Dynamic Range Theory to Practice](https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html)
 

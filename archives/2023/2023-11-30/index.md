@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 20:07:35](https://news.ycombinator.com/item?id=38478398) - [Evernote will restrict free users to 50 notes starting December 4](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
 * [2023-11-30, 19:54:58](https://news.ycombinator.com/item?id=38478263) - [Unity announces updates to it's web runtime support](https://blog.unity.com/engine-platform/web-runtime-updates-enhance-browser-experience)
+* [2023-11-30, 19:38:59](https://news.ycombinator.com/item?id=38478087) - [To safely deploy generative AI in health care, models must be open source](https://www.nature.com/articles/d41586-023-03803-y)
 * [2023-11-30, 18:53:17](https://news.ycombinator.com/item?id=38477452) - [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
