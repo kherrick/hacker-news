@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 21:00:22](https://news.ycombinator.com/item?id=38478988) - [Don't Design Your Emails (2016)](https://www.gkogan.co/blog/dont-design-emails/)
 * [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 * [2023-11-30, 20:32:22](https://news.ycombinator.com/item?id=38478672) - [Apple's smart ring technology may not be limited to fingers](https://appleinsider.com/articles/23/11/28/apples-smart-ring-technology-may-not-be-limited-to-fingers)
 * [2023-11-30, 20:25:26](https://news.ycombinator.com/item?id=38478587) - [eBPF – Introduction, Tutorials and Community Resources](https://ebpf.io/)

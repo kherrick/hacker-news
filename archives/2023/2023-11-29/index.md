@@ -56,6 +56,7 @@
 * [2023-11-29, 16:01:41](https://news.ycombinator.com/item?id=38461101) - [Show HN: Resume Matcher – An open source, free tool to improve your resume](https://github.com/srbhr/Resume-Matcher)
 * [2023-11-29, 15:38:04](https://news.ycombinator.com/item?id=38460740) - [Lidocaine induces apoptosis in head and neck squamous cell carcinoma](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01449-3)
 * [2023-11-29, 15:36:28](https://news.ycombinator.com/item?id=38460711) - [Rolls-Royce calls off bets on electric planes, says low-carbon fuel is future](https://electrek.co/2023/11/29/rolls-royce-calls-off-bets-on-electric-planes-says-low-carbon-fuel-is-the-future/)
+* [2023-11-29, 15:18:22](https://news.ycombinator.com/item?id=38460419) - [Season's Bleatings: Finnish Photographs of the Nuuttipukki (1928)](https://publicdomainreview.org/collection/nuuttipukki/)
 * [2023-11-29, 15:12:37](https://news.ycombinator.com/item?id=38460325) - [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy/)
 * [2023-11-29, 14:56:55](https://news.ycombinator.com/item?id=38460093) - [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)
 * [2023-11-29, 14:51:47](https://news.ycombinator.com/item?id=38460024) - [U.S. Suicides Reached a Record High Last Year](https://www.wsj.com/health/healthcare/americans-suicide-highest-level-2022-02eb10ea)

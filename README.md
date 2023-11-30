@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 21:00:22](https://news.ycombinator.com/item?id=38478988) - [Don't Design Your Emails (2016)](https://www.gkogan.co/blog/dont-design-emails/)
 * [2023-11-30, 20:25:26](https://news.ycombinator.com/item?id=38478587) - [eBPF – Introduction, Tutorials and Community Resources](https://ebpf.io/)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
 * [2023-11-30, 20:03:47](https://news.ycombinator.com/item?id=38478354) - [Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
@@ -27,8 +28,7 @@
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
 * [2023-11-30, 03:12:38](https://news.ycombinator.com/item?id=38469037) - [The Naked Reader: Child Enslavement in the Villa of the Mysteries Fresco](https://www.journals.uchicago.edu/doi/10.1086/722232)
 * [2023-11-30, 02:25:59](https://news.ycombinator.com/item?id=38468589) - [Kolibri OS: fits on a floppy disk, programmed using interrupts](https://kolibrios.org/en/index.htm)
-* [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
-* [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [The Case for Challenging Music](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
+* [2023-11-29, 15:18:22](https://news.ycombinator.com/item?id=38460419) - [Season's Bleatings: Finnish Photographs of the Nuuttipukki (1928)](https://publicdomainreview.org/collection/nuuttipukki/)
 * [2023-11-29, 11:42:56](https://news.ycombinator.com/item?id=38458233) - [Hybrid Beamforming Receiver Dynamic Range Theory to Practice](https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html)
 
 ## [Archives](archives/index.md)
