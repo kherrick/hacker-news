@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-30, 15:31:26",
-      "https://news.ycombinator.com/item?id=38474696"
-    ],
-    [
-      "Large language models lack deep insights or a theory of mind",
-      "https://arxiv.org/abs/2311.16093"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 15:26:16",
       "https://news.ycombinator.com/item?id=38474621"
     ],
@@ -31,16 +21,6 @@
   ],
   [
     [
-      "2023-11-30, 14:52:41",
-      "https://news.ycombinator.com/item?id=38474213"
-    ],
-    [
-      "The University of California has all but dropped carbon offsets",
-      "https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 14:36:43",
       "https://news.ycombinator.com/item?id=38474003"
     ],
@@ -57,16 +37,6 @@
     [
       "Yabai – A tiling window manager for macOS",
       "https://github.com/koekeishiya/yabai"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 14:31:09",
-      "https://news.ycombinator.com/item?id=38473933"
-    ],
-    [
-      "Stable Diffusion XL Turbo can generate AI images as fast as you can type",
-      "https://arstechnica.com/information-technology/2023/11/stable-diffusion-turbo-xl-accelerates-image-synthesis-with-one-step-generation/"
     ]
   ],
   [
@@ -97,6 +67,16 @@
     [
       "Show HN: Taipy – Turns Data and AI algorithms into full web applications",
       "https://github.com/Avaiga/taipy"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 14:00:48",
+      "https://news.ycombinator.com/item?id=38473608"
+    ],
+    [
+      "Saving CO2 using location and time shifting in Azure",
+      "https://devblogs.microsoft.com/ise/2023/11/09/saving-co2-using-location-and-time-shifting-in-azure/"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2023-11-29, 21:39:11",
+      "https://news.ycombinator.com/item?id=38465693"
+    ],
+    [
+      "Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)",
+      "https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 21:12:56",
       "https://news.ycombinator.com/item?id=38465396"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-11-28, 21:39:59",
-      "https://news.ycombinator.com/item?id=38451680"
+      "2023-11-29, 13:28:21",
+      "https://news.ycombinator.com/item?id=38459061"
     ],
     [
-      "Herbie: Find and fix floating-point accuracy problems",
-      "https://herbie.uwplse.org/"
+      "Linux Filesystem Hierarchy (2004)",
+      "https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 11:12:25",
+      "https://news.ycombinator.com/item?id=38444577"
+    ],
+    [
+      "Writing documentation for your house",
+      "https://luke.hsiao.dev/blog/housing-documentation/"
     ]
   ]
 ]
