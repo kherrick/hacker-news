@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 07:38:01](https://news.ycombinator.com/item?id=38470787) - [Elon Musk: \"Don't advertise. Go f*** yourself\"](https://arstechnica.com/tech-policy/2023/11/elon-musk-on-x-antisemitism-controversy-dont-advertise-go-f-yourself/)
 * [2023-11-30, 03:27:36](https://news.ycombinator.com/item?id=38469166) - [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
 * [2023-11-30, 02:29:03](https://news.ycombinator.com/item?id=38468617) - [U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated](https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html)
 * [2023-11-30, 02:03:21](https://news.ycombinator.com/item?id=38468387) - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)

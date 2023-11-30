@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 07:38:01](https://news.ycombinator.com/item?id=38470787) - [Elon Musk: \"Don't advertise. Go f*** yourself\"](https://arstechnica.com/tech-policy/2023/11/elon-musk-on-x-antisemitism-controversy-dont-advertise-go-f-yourself/)
 * [2023-11-30, 02:03:21](https://news.ycombinator.com/item?id=38468387) - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
 * [2023-11-30, 01:57:52](https://news.ycombinator.com/item?id=38468326) - [Henry Kissinger Has Died](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
 * [2023-11-30, 01:08:42](https://news.ycombinator.com/item?id=38467850) - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
@@ -12,7 +13,6 @@
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
 * [2023-11-29, 18:32:09](https://news.ycombinator.com/item?id=38463195) - [The origins of the steam engine](https://rootsofprogress.org/steam-engine-origins)
 * [2023-11-29, 17:32:54](https://news.ycombinator.com/item?id=38462318) - [Visualizing Pokémon Red and Blue Connections (2020)](http://peterhajas.com/blog/pokemon_rb_connections.html)
-* [2023-11-29, 16:19:33](https://news.ycombinator.com/item?id=38461344) - [Person-in-WiFi: Fine-Grained Person Perception Using WiFi [pdf]](https://www.ri.cmu.edu/app/uploads/2019/09/Person_in_WiFi_ICCV2019.pdf)
 * [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 * [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 14:19:03](https://news.ycombinator.com/item?id=38459593) - [Intuitive Guide to Merge Sort](https://photonlines.substack.com/p/intuitive-guide-to-merge-sort)
