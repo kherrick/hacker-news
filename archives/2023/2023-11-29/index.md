@@ -11,6 +11,7 @@
 * [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 21:44:24](https://news.ycombinator.com/item?id=38465736) - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
 * [2023-11-29, 21:39:11](https://news.ycombinator.com/item?id=38465693) - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
+* [2023-11-29, 21:12:56](https://news.ycombinator.com/item?id=38465396) - [Towards Higher-Level Abstractions for Molecular Programming [video]](https://www.youtube.com/watch?v=rp2RqVE08Zo)
 * [2023-11-29, 21:00:41](https://news.ycombinator.com/item?id=38465254) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-11-29, 20:46:27](https://news.ycombinator.com/item?id=38465065) - [Show HN: Oasis – A Repository of Project Ideas](https://oasis-of-ideas.github.io/)
 * [2023-11-29, 20:35:19](https://news.ycombinator.com/item?id=38464915) - [Apple M1 Pro Beats M3 Pro with Ableton, Logic and Pro Tools](https://www.gearnews.com/apple-m1-pro-beats-m3-pro-with-ableton-logic-and-pro-tools/)
