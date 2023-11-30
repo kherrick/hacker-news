@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
+* [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
 * [2023-11-30, 10:09:47](https://news.ycombinator.com/item?id=38471744) - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
