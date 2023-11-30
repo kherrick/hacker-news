@@ -28,7 +28,7 @@
 * [2023-11-29, 21:11:20](https://news.ycombinator.com/item?id=38465378) - [Strange Loops: journeys in declarative logic programming in genomics [video]](https://www.youtube.com/watch?v=CG24QFdVh-0)
 * [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 14:07:12](https://news.ycombinator.com/item?id=38459463) - [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
-* [2023-11-29, 13:28:21](https://news.ycombinator.com/item?id=38459061) - [Linux Filesystem Hierarchy (2004)](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
+* [2023-11-29, 11:42:56](https://news.ycombinator.com/item?id=38458233) - [Hybrid Beamforming Receiver Dynamic Range Theory to Practice](https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 
 ## [Archives](archives/index.md)
