@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 12:59:17](https://news.ycombinator.com/item?id=38472921) - [Apple and Google avoid naming ChatGPT as their 'app of the year'](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
 * [2023-11-30, 12:21:51](https://news.ycombinator.com/item?id=38472611) - [Helen Toner resigned from the OpenAI board](https://twitter.com/hlntnr/status/1730034017435586920)
 * [2023-11-30, 12:13:58](https://news.ycombinator.com/item?id=38472552) - [Interview: Sam Altman on Being Fired and Rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
 * [2023-11-30, 11:49:58](https://news.ycombinator.com/item?id=38472367) - [Let's Not Flip Sides on IP Maximalism Because of AI](https://www.techdirt.com/2023/11/29/lets-not-flip-sides-on-ip-maximalism-because-of-ai/)
+* [2023-11-30, 11:47:52](https://news.ycombinator.com/item?id=38472353) - [Forbes built hall of shame for the questionable people on its 30 Under 30 lists](https://www.businessinsider.com/forbes-hall-shame-30-under-30-lists-regrets-sbf-ftx-2023-11)
 * [2023-11-30, 11:29:06](https://news.ycombinator.com/item?id=38472229) - [Edmunds EV Charging Test: How fast does each EV charge?](https://www.edmunds.com/car-news/electric-car-charging.html)
 * [2023-11-30, 11:25:06](https://news.ycombinator.com/item?id=38472198) - [CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
 * [2023-11-30, 11:13:51](https://news.ycombinator.com/item?id=38472124) - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
 * [2023-11-30, 11:03:48](https://news.ycombinator.com/item?id=38472059) - [We are not creating the \"right\" kind of AI](https://prahladyeri.github.io/blog/2023/11/we-are-not-creating-the-right-kind-of-ai.html)
+* [2023-11-30, 10:42:20](https://news.ycombinator.com/item?id=38471942) - [Q-Transformer](https://qtransformer.github.io/)
 * [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
 * [2023-11-30, 10:09:47](https://news.ycombinator.com/item?id=38471744) - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
 * [2023-11-30, 08:33:09](https://news.ycombinator.com/item?id=38471162) - [Ask HN: How does MS-Teams, Meets and Zoom virtual background works?](https://news.ycombinator.com/item?id=38471162)
