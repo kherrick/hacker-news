@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+* [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
 * [2023-11-30, 05:36:37](https://news.ycombinator.com/item?id=38470064) - [Show HN: Repeater – A tool which repeats CLI commands](https://github.com/baalimago/repeater)
-* [2023-11-30, 04:35:03](https://news.ycombinator.com/item?id=38469686) - [Academics without publications are just like imperial concubines without sons](https://www.tandfonline.com/doi/abs/10.1080/02680939.2023.2288339)
 * [2023-11-30, 02:03:21](https://news.ycombinator.com/item?id=38468387) - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
 * [2023-11-30, 01:57:52](https://news.ycombinator.com/item?id=38468326) - [Henry Kissinger Has Died](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
 * [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
