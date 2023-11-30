@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 12:13:58](https://news.ycombinator.com/item?id=38472552) - [Interview: Sam Altman on Being Fired and Rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
+* [2023-11-30, 11:49:58](https://news.ycombinator.com/item?id=38472367) - [Let's Not Flip Sides on IP Maximalism Because of AI](https://www.techdirt.com/2023/11/29/lets-not-flip-sides-on-ip-maximalism-because-of-ai/)
 * [2023-11-30, 11:25:06](https://news.ycombinator.com/item?id=38472198) - [CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
 * [2023-11-30, 11:13:51](https://news.ycombinator.com/item?id=38472124) - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
@@ -24,9 +26,7 @@
 * [2023-11-29, 13:28:21](https://news.ycombinator.com/item?id=38459061) - [Linux Filesystem Hierarchy (2004)](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
 * [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis were harmed in the making of this presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
 * [2023-11-29, 12:16:27](https://news.ycombinator.com/item?id=38458482) - [Analog Devices Apollo MxFE 0.5 to 55 GHz Ecosystem](https://www.analog.com/en/education/education-library/videos/6330317501112.html)
-* [2023-11-29, 11:03:47](https://news.ycombinator.com/item?id=38457953) - [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
-* [2023-11-29, 10:59:52](https://news.ycombinator.com/item?id=38457926) - [Hysp – An independent package manager](https://github.com/pwnwriter/hysp)
-* [2023-11-29, 09:18:32](https://news.ycombinator.com/item?id=38457247) - [Rust std fs slower than Python? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
+* [2023-11-29, 11:54:33](https://news.ycombinator.com/item?id=38458325) - [Amazon-Unveils-Q](https://techcrunch.com/2023/11/28/amazon-unveils-q-an-ai-powered-chatbot-for-businesses/)
 * [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 21:39:59](https://news.ycombinator.com/item?id=38451680) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)

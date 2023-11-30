@@ -75,6 +75,7 @@
 * [2023-11-29, 12:12:29](https://news.ycombinator.com/item?id=38458448) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2023-11-29, 12:06:02](https://news.ycombinator.com/item?id=38458400) - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
 * [2023-11-29, 12:00:37](https://news.ycombinator.com/item?id=38458367) - [Convictional (YC W19) Is Hiring](https://jobs.ashbyhq.com/convictional/e96f8d12-906d-4bfb-8d87-08017ae5cc91)
+* [2023-11-29, 11:54:33](https://news.ycombinator.com/item?id=38458325) - [Amazon-Unveils-Q](https://techcrunch.com/2023/11/28/amazon-unveils-q-an-ai-powered-chatbot-for-businesses/)
 * [2023-11-29, 11:29:25](https://news.ycombinator.com/item?id=38458127) - [Dobb·E: An open-source framework for learning household robotic manipulation](https://dobb-e.com/)
 * [2023-11-29, 11:25:42](https://news.ycombinator.com/item?id=38458106) - [Ask HN: How is this legal that you must use Google Billing for Android apps?](https://news.ycombinator.com/item?id=38458106)
 * [2023-11-29, 11:24:03](https://news.ycombinator.com/item?id=38458093) - [Poor Broken and Battered Amiga A2000 – Can We Fix It? [video]](https://www.youtube.com/watch?v=2VFNEhab_lk)
