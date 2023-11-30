@@ -2,7 +2,7 @@
 
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
-* [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The Weirdest Bug I've Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
+* [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-11-30, 18:25:44](https://news.ycombinator.com/item?id=38477057) - [You do need a technical co-founder](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
 * [2023-11-30, 17:22:39](https://news.ycombinator.com/item?id=38476135) - [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
 * [2023-11-30, 17:11:41](https://news.ycombinator.com/item?id=38476001) - [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
@@ -27,7 +27,7 @@
 * [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 * [2023-11-29, 22:18:29](https://news.ycombinator.com/item?id=38466071) - [Literary Fight Club: On the Great Poets' Brawl of '68](https://lithub.com/literary-fight-club-on-the-great-poets-brawl-of-68/)
 * [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
-* [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [I Always Hit the Crosswalk Button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
+* [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [The Case for Challenging Music](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
 * [2023-11-29, 11:42:56](https://news.ycombinator.com/item?id=38458233) - [Hybrid Beamforming Receiver Dynamic Range Theory to Practice](https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html)
 
