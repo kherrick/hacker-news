@@ -55,6 +55,7 @@
 * [2023-11-29, 14:56:55](https://news.ycombinator.com/item?id=38460093) - [Q* – Clues to the Puzzle? [video]](https://www.youtube.com/watch?v=ARf0WyFau0A)
 * [2023-11-29, 14:51:47](https://news.ycombinator.com/item?id=38460024) - [U.S. Suicides Reached a Record High Last Year](https://www.wsj.com/health/healthcare/americans-suicide-highest-level-2022-02eb10ea)
 * [2023-11-29, 14:21:04](https://news.ycombinator.com/item?id=38459617) - [Italy bans cultivated meat products](https://www.chemistryworld.com/news/italy-bans-cultivated-meat-products/4018541.article)
+* [2023-11-29, 14:07:12](https://news.ycombinator.com/item?id=38459463) - [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
 * [2023-11-29, 13:46:22](https://news.ycombinator.com/item?id=38459245) - [Guide to Tolkien's Letters](https://www.tolkienguide.com/guide/letters/)
 * [2023-11-29, 13:34:32](https://news.ycombinator.com/item?id=38459128) - [Oral History of Robert P. Colwell – Chief Architect for Intel's IA32 [pdf]](https://www.sigmicro.org/media/oralhistories/colwell.pdf)
 * [2023-11-29, 13:31:14](https://news.ycombinator.com/item?id=38459090) - [New Neurotech Eschews Electricity for Ultrasound](https://spectrum.ieee.org/bci-ultrasound)
