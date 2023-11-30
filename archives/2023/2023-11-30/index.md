@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 21:31:13](https://news.ycombinator.com/item?id=38479467) - [Multi-phase computation as an applicative functor [video]](https://www.youtube.com/watch?v=ajuJ1Fi0SuU)
 * [2023-11-30, 21:00:22](https://news.ycombinator.com/item?id=38478988) - [Don't Design Your Emails (2016)](https://www.gkogan.co/blog/dont-design-emails/)
 * [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
+* [2023-11-30, 20:50:36](https://news.ycombinator.com/item?id=38478866) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2023-11-30, 20:32:22](https://news.ycombinator.com/item?id=38478672) - [Apple's smart ring technology may not be limited to fingers](https://appleinsider.com/articles/23/11/28/apples-smart-ring-technology-may-not-be-limited-to-fingers)
 * [2023-11-30, 20:25:26](https://news.ycombinator.com/item?id=38478587) - [eBPF – Introduction, Tutorials and Community Resources](https://ebpf.io/)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
@@ -76,8 +78,11 @@
 * [2023-11-30, 09:17:49](https://news.ycombinator.com/item?id=38471425) - [Attack on Titan Slickback Dance Using Stable Diffusion Video](https://old.reddit.com/r/StableDiffusion/comments/186ywcv/how_i_made_this_attack_on_titan_animation/)
 * [2023-11-30, 08:33:09](https://news.ycombinator.com/item?id=38471162) - [Ask HN: How does MS-Teams, Meets and Zoom virtual background works?](https://news.ycombinator.com/item?id=38471162)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+* [2023-11-30, 07:47:58](https://news.ycombinator.com/item?id=38470832) - [Interview with Viktor Lofgren from Marginalia Search](https://nlnet.nl/news/2023/20231016-marginalia.html)
 * [2023-11-30, 07:38:01](https://news.ycombinator.com/item?id=38470787) - [Elon Musk: \"Don't advertise. Go f*** yourself\"](https://arstechnica.com/tech-policy/2023/11/elon-musk-on-x-antisemitism-controversy-dont-advertise-go-f-yourself/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
+* [2023-11-30, 06:47:58](https://news.ycombinator.com/item?id=38470479) - [The Myth of Smart Pointers](https://www.logikalsolutions.com/wordpress/information-technology/smart-pointers/)
+* [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
 * [2023-11-30, 05:36:37](https://news.ycombinator.com/item?id=38470064) - [Show HN: Repeater – A tool which repeats CLI commands](https://github.com/baalimago/repeater)
 * [2023-11-30, 05:33:44](https://news.ycombinator.com/item?id=38470046) - [Adobe's buy of Figma is 'likely' bad for developers, rules UK regulator](https://www.theregister.com/2023/11/29/adobes_buy_of_figma_is/)
 * [2023-11-30, 04:35:03](https://news.ycombinator.com/item?id=38469686) - [Academics without publications are just like imperial concubines without sons](https://www.tandfonline.com/doi/abs/10.1080/02680939.2023.2288339)
