@@ -52,6 +52,7 @@
 * [2023-11-30, 11:21:06](https://news.ycombinator.com/item?id=38472174) - [Unaligned accesses in C/C++: what, why and solutions to do it properly](https://blog.quarkslab.com/unaligned-accesses-in-cc-what-why-and-solutions-to-do-it-properly.html)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
 * [2023-11-30, 11:13:51](https://news.ycombinator.com/item?id=38472124) - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
+* [2023-11-30, 11:11:07](https://news.ycombinator.com/item?id=38472108) - [Scotch on the Rocks: The TV drama locked away for 50 years](https://www.bbc.co.uk/news/uk-scotland-66889553)
 * [2023-11-30, 11:03:48](https://news.ycombinator.com/item?id=38472059) - [We are not creating the \"right\" kind of AI](https://prahladyeri.github.io/blog/2023/11/we-are-not-creating-the-right-kind-of-ai.html)
 * [2023-11-30, 10:42:20](https://news.ycombinator.com/item?id=38471942) - [Q-Transformer](https://qtransformer.github.io/)
 * [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
