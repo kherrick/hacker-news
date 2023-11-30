@@ -75,6 +75,7 @@
 * [2023-11-30, 05:33:44](https://news.ycombinator.com/item?id=38470046) - [Adobe's buy of Figma is 'likely' bad for developers, rules UK regulator](https://www.theregister.com/2023/11/29/adobes_buy_of_figma_is/)
 * [2023-11-30, 04:35:03](https://news.ycombinator.com/item?id=38469686) - [Academics without publications are just like imperial concubines without sons](https://www.tandfonline.com/doi/abs/10.1080/02680939.2023.2288339)
 * [2023-11-30, 03:27:36](https://news.ycombinator.com/item?id=38469166) - [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
+* [2023-11-30, 03:12:38](https://news.ycombinator.com/item?id=38469037) - [The Naked Reader: Child Enslavement in the Villa of the Mysteries Fresco](https://www.journals.uchicago.edu/doi/10.1086/722232)
 * [2023-11-30, 02:29:03](https://news.ycombinator.com/item?id=38468617) - [U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated](https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html)
 * [2023-11-30, 02:25:59](https://news.ycombinator.com/item?id=38468589) - [Kolibri OS: fits on a floppy disk, programmed using interrupts](https://kolibrios.org/en/index.htm)
 * [2023-11-30, 02:03:21](https://news.ycombinator.com/item?id=38468387) - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
