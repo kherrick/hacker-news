@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 15:40:45](https://news.ycombinator.com/item?id=38474829) - [The 27 U.S. Constitutional Amendments Explained in Movies](https://www.ranker.com/list/the-27-constitutional-amendments-explained-in-movies/randolph)
 * [2023-11-30, 15:39:20](https://news.ycombinator.com/item?id=38474806) - [Airbnb's Silent Killer](https://www.nbcnews.com/tech/tech-news/airbnb-carbon-monoxide-poisonings-detectors-rcna105634)
 * [2023-11-30, 15:06:51](https://news.ycombinator.com/item?id=38474364) - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
 * [2023-11-30, 15:02:29](https://news.ycombinator.com/item?id=38474319) - [Lenovo: \"Best Minecraft House Ideas\"](https://www.lenovo.com/us/en/glossary/best-minecraft-house-ideas/)
