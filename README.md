@@ -16,7 +16,7 @@
 * [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
-* [2023-11-29, 18:32:09](https://news.ycombinator.com/item?id=38463195) - [The origins of the steam engine](https://rootsofprogress.org/steam-engine-origins)
+* [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 * [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 14:07:12](https://news.ycombinator.com/item?id=38459463) - [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
 * [2023-11-29, 13:28:21](https://news.ycombinator.com/item?id=38459061) - [Linux Filesystem Hierarchy (2004)](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
