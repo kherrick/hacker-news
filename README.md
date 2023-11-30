@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-30, 08:33:09](https://news.ycombinator.com/item?id=38471162) - [Ask HN: How does MS-Teams, Meets and Zoom virtual background works?](https://news.ycombinator.com/item?id=38471162)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
+* [2023-11-30, 05:33:44](https://news.ycombinator.com/item?id=38470046) - [Adobe's buy of Figma is 'likely' bad for developers, rules UK regulator](https://www.theregister.com/2023/11/29/adobes_buy_of_figma_is/)
 * [2023-11-30, 02:03:21](https://news.ycombinator.com/item?id=38468387) - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
 * [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 * [2023-11-30, 01:08:42](https://news.ycombinator.com/item?id=38467850) - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)

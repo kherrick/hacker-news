@@ -9,6 +9,7 @@
 * [2023-11-30, 07:38:01](https://news.ycombinator.com/item?id=38470787) - [Elon Musk: \"Don't advertise. Go f*** yourself\"](https://arstechnica.com/tech-policy/2023/11/elon-musk-on-x-antisemitism-controversy-dont-advertise-go-f-yourself/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
 * [2023-11-30, 05:36:37](https://news.ycombinator.com/item?id=38470064) - [Show HN: Repeater – A tool which repeats CLI commands](https://github.com/baalimago/repeater)
+* [2023-11-30, 05:33:44](https://news.ycombinator.com/item?id=38470046) - [Adobe's buy of Figma is 'likely' bad for developers, rules UK regulator](https://www.theregister.com/2023/11/29/adobes_buy_of_figma_is/)
 * [2023-11-30, 04:35:03](https://news.ycombinator.com/item?id=38469686) - [Academics without publications are just like imperial concubines without sons](https://www.tandfonline.com/doi/abs/10.1080/02680939.2023.2288339)
 * [2023-11-30, 03:27:36](https://news.ycombinator.com/item?id=38469166) - [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
 * [2023-11-30, 02:29:03](https://news.ycombinator.com/item?id=38468617) - [U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated](https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html)
