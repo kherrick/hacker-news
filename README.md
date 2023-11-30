@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-30, 17:22:39](https://news.ycombinator.com/item?id=38476135) - [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
 * [2023-11-30, 17:14:56](https://news.ycombinator.com/item?id=38476038) - [Is anyone using self hosted LLM day to day and training it like a new employee](https://news.ycombinator.com/item?id=38476038)
+* [2023-11-30, 17:11:41](https://news.ycombinator.com/item?id=38476001) - [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 * [2023-11-30, 17:05:05](https://news.ycombinator.com/item?id=38475921) - [Google to pay Canada's \"link tax,\" drops threat of removing news from search](https://arstechnica.com/tech-policy/2023/11/google-to-pay-canadas-link-tax-drops-threat-of-removing-news-from-search/)
 * [2023-11-30, 17:03:02](https://news.ycombinator.com/item?id=38475898) - [Engineering a Solar System](https://planetplanet.net/2017/05/03/the-ultimate-engineered-solar-system/)
@@ -17,7 +17,6 @@
 * [2023-11-30, 14:32:15](https://news.ycombinator.com/item?id=38473942) - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 * [2023-11-30, 14:12:06](https://news.ycombinator.com/item?id=38473726) - [Edbrowse, a Command Line Editor Browser](https://edbrowse.org)
 * [2023-11-30, 11:25:06](https://news.ycombinator.com/item?id=38472198) - [CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
-* [2023-11-30, 11:21:06](https://news.ycombinator.com/item?id=38472174) - [Unaligned accesses in C/C++: what, why and solutions to do it properly](https://blog.quarkslab.com/unaligned-accesses-in-cc-what-why-and-solutions-to-do-it-properly.html)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can generalist foundation models beat special-purpose tuning?](https://arxiv.org/abs/2311.16452)
 * [2023-11-30, 10:42:20](https://news.ycombinator.com/item?id=38471942) - [Q-Transformer](https://qtransformer.github.io/)
 * [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)](https://blog.burntsushi.net/ripgrep/)
@@ -28,6 +27,7 @@
 * [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 * [2023-11-29, 22:18:29](https://news.ycombinator.com/item?id=38466071) - [Literary Fight Club: On the Great Poets' Brawl of '68](https://lithub.com/literary-fight-club-on-the-great-poets-brawl-of-68/)
 * [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
+* [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [I Always Hit the Crosswalk Button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
 * [2023-11-29, 11:42:56](https://news.ycombinator.com/item?id=38458233) - [Hybrid Beamforming Receiver Dynamic Range Theory to Practice](https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html)
 

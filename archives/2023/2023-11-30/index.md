@@ -6,6 +6,7 @@
 
 * [2023-11-30, 17:22:39](https://news.ycombinator.com/item?id=38476135) - [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
 * [2023-11-30, 17:14:56](https://news.ycombinator.com/item?id=38476038) - [Is anyone using self hosted LLM day to day and training it like a new employee](https://news.ycombinator.com/item?id=38476038)
+* [2023-11-30, 17:11:41](https://news.ycombinator.com/item?id=38476001) - [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to Ripen and Store Avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 * [2023-11-30, 17:05:05](https://news.ycombinator.com/item?id=38475921) - [Google to pay Canada's \"link tax,\" drops threat of removing news from search](https://arstechnica.com/tech-policy/2023/11/google-to-pay-canadas-link-tax-drops-threat-of-removing-news-from-search/)
 * [2023-11-30, 17:03:02](https://news.ycombinator.com/item?id=38475898) - [Engineering a Solar System](https://planetplanet.net/2017/05/03/the-ultimate-engineered-solar-system/)
