@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-30, 02:29:03",
+      "https://news.ycombinator.com/item?id=38468617"
+    ],
+    [
+      "U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated",
+      "https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 01:57:52",
       "https://news.ycombinator.com/item?id=38468326"
     ],
@@ -137,16 +147,6 @@
     [
       "Jaq – A jq clone focused on correctness, speed, and simplicity",
       "https://github.com/01mf02/jaq"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 16:03:10",
-      "https://news.ycombinator.com/item?id=38461121"
-    ],
-    [
-      "Deno Cron",
-      "https://deno.com/blog/cron"
     ]
   ],
   [
