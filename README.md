@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
 * [2023-11-30, 10:09:47](https://news.ycombinator.com/item?id=38471744) - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
@@ -16,7 +17,6 @@
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
 * [2023-11-29, 18:32:09](https://news.ycombinator.com/item?id=38463195) - [The origins of the steam engine](https://rootsofprogress.org/steam-engine-origins)
-* [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 * [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 14:07:12](https://news.ycombinator.com/item?id=38459463) - [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
 * [2023-11-29, 13:28:21](https://news.ycombinator.com/item?id=38459061) - [Linux Filesystem Hierarchy (2004)](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
