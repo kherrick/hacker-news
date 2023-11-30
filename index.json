@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-30, 18:53:17",
+      "https://news.ycombinator.com/item?id=38477452"
+    ],
+    [
+      "Chicken Hypnotism",
+      "https://en.wikipedia.org/wiki/Chicken_hypnotism"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 18:39:47",
       "https://news.ycombinator.com/item?id=38477259"
     ],
@@ -37,16 +47,6 @@
     [
       "You do need a technical co-founder",
       "https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 17:22:39",
-      "https://news.ycombinator.com/item?id=38476135"
-    ],
-    [
-      "Storybook 7.6 Is Here",
-      "https://storybook.js.org/blog/storybook-7-6/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-11-30, 16:42:15",
-      "https://news.ycombinator.com/item?id=38475635"
-    ],
-    [
-      "Amazon's Trainium2 AI Accelerator Features 96 GB of HBM, 4x Training Performance",
-      "https://www.anandtech.com/show/21173/amazons-trainium2-features-96-gb-hbm-quadruples-training-performance"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 16:35:24",
       "https://news.ycombinator.com/item?id=38475545"
     ],
@@ -157,6 +147,16 @@
     [
       "Yabai – A tiling window manager for macOS",
       "https://github.com/koekeishiya/yabai"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 14:12:06",
+      "https://news.ycombinator.com/item?id=38473726"
+    ],
+    [
+      "Edbrowse, a Command Line Editor Browser",
+      "https://edbrowse.org"
     ]
   ],
   [
