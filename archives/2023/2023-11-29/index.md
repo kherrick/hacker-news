@@ -47,6 +47,7 @@
 * [2023-11-29, 17:00:34](https://news.ycombinator.com/item?id=38461939) - [New Loongson chip matches Intel's 14600K in IPC tests, overclocked to 3 GHz](https://www.tomshardware.com/news/loongson-launches-3a6000-cpu-matches-14600k-ipc)
 * [2023-11-29, 17:00:34](https://news.ycombinator.com/item?id=38461939) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 16:48:40](https://news.ycombinator.com/item?id=38461772) - [A Supreme Court case that could reshape the US Government](https://www.readtangle.com/sec-v-jarkesy-supreme-court-case/)
+* [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [I Always Hit the Crosswalk Button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
 * [2023-11-29, 16:30:17](https://news.ycombinator.com/item?id=38461514) - [Canadian government reaches deal with Google on Online News Act](https://www.cbc.ca/news/politics/google-online-news-act-1.7043330)
 * [2023-11-29, 16:19:33](https://news.ycombinator.com/item?id=38461344) - [Person-in-WiFi: Fine-Grained Person Perception Using WiFi [pdf]](https://www.ri.cmu.edu/app/uploads/2019/09/Person_in_WiFi_ICCV2019.pdf)
 * [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration (GNoME)](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
