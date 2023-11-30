@@ -67,6 +67,7 @@
 * [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
 * [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis Were Harmed in the Making of This Presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
 * [2023-11-29, 12:25:36](https://news.ycombinator.com/item?id=38458548) - [AI minister likens risk of AI over-regulation to historical printing press ban](https://fortune.com/2023/11/28/artificial-intelligence-ai-technology-regulation-policy-guardrails-uae-fortune-global-forum/)
+* [2023-11-29, 12:16:27](https://news.ycombinator.com/item?id=38458482) - [Analog Devices Apollo MxFE 0.5 to 55 GHz Ecosystem](https://www.analog.com/en/education/education-library/videos/6330317501112.html)
 * [2023-11-29, 12:15:26](https://news.ycombinator.com/item?id=38458470) - [A Science of Life Without Free Will by Robert Sapolsky](https://ndpr.nd.edu/reviews/determined-a-science-of-life-without-free-will/)
 * [2023-11-29, 12:12:29](https://news.ycombinator.com/item?id=38458448) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 * [2023-11-29, 12:06:02](https://news.ycombinator.com/item?id=38458400) - [Paperless-Ngx v2.0.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.0.0)
