@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-11-30, 17:22:39",
-      "https://news.ycombinator.com/item?id=38476135"
-    ],
-    [
-      "Storybook 7.6 Is Here",
-      "https://storybook.js.org/blog/storybook-7-6/"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 17:14:56",
       "https://news.ycombinator.com/item?id=38476038"
     ],
     [
       "Is anyone using self hosted LLM day to day and training it like a new employee",
       "https://news.ycombinator.com/item?id=38476038"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 17:11:41",
+      "https://news.ycombinator.com/item?id=38476001"
+    ],
+    [
+      "Proposal on implementing permanent time zones in the European Union",
+      "https://timeuse.barcelona/projects/permanent-time-zones-eu/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-11-30, 11:21:06",
-      "https://news.ycombinator.com/item?id=38472174"
-    ],
-    [
-      "Unaligned accesses in C/C++: what, why and solutions to do it properly",
-      "https://blog.quarkslab.com/unaligned-accesses-in-cc-what-why-and-solutions-to-do-it-properly.html"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 11:14:23",
       "https://news.ycombinator.com/item?id=38472128"
     ],
@@ -277,6 +267,16 @@
     [
       "When Technology Follows Art",
       "https://resobscura.substack.com/p/when-technology-follows-art"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 19:29:49",
+      "https://news.ycombinator.com/item?id=38464057"
+    ],
+    [
+      "Llamafile lets you distribute and run LLMs with a single file",
+      "https://github.com/Mozilla-Ocho/llamafile"
     ]
   ],
   [
