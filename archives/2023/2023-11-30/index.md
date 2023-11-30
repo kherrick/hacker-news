@@ -13,5 +13,6 @@
 * [2023-11-30, 02:03:21](https://news.ycombinator.com/item?id=38468387) - [Losing Metaphors: Zip and Paste](https://www.jefftk.com/p/losing-metaphors-zip-and-paste)
 * [2023-11-30, 01:57:52](https://news.ycombinator.com/item?id=38468326) - [Henry Kissinger Has Died](https://www.nytimes.com/2023/11/29/us/henry-kissinger-dead.html)
 * [2023-11-30, 01:57:52](https://news.ycombinator.com/item?id=38468326) - [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
+* [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 * [2023-11-30, 01:08:42](https://news.ycombinator.com/item?id=38467850) - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
 * [2023-11-30, 00:49:31](https://news.ycombinator.com/item?id=38467699) - [How Meta Is Planning for Elections in 2024](https://about.fb.com/news/2023/11/how-meta-is-planning-for-elections-in-2024/)
