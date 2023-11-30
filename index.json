@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-11-30, 17:00:07",
+      "https://news.ycombinator.com/item?id=38475864"
+    ],
+    [
+      "Joon (YC W22) Is Hiring a Founder Growth Hacker",
+      "https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 16:42:57",
+      "https://news.ycombinator.com/item?id=38475646"
+    ],
+    [
+      "Vim universe: fzf – command line fuzzy finder (2019) [video]",
+      "https://www.youtube.com/watch?v=qgG5Jhi_Els"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 16:41:29",
+      "https://news.ycombinator.com/item?id=38475622"
+    ],
+    [
+      "Life Lessons from a 44 Year Old (2022)",
+      "https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 16:35:24",
+      "https://news.ycombinator.com/item?id=38475545"
+    ],
+    [
+      "Stanisław Lem's Prescient Vision of Artificial Life",
+      "https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 16:32:11",
+      "https://news.ycombinator.com/item?id=38475501"
+    ],
+    [
+      "Alibaba releases 72B LLM with 32k context length",
+      "https://huggingface.co/Qwen/Qwen-72B"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 15:26:16",
       "https://news.ycombinator.com/item?id=38474621"
     ],
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2023-11-30, 14:00:48",
-      "https://news.ycombinator.com/item?id=38473608"
-    ],
-    [
-      "Saving CO2 using location and time shifting in Azure",
-      "https://devblogs.microsoft.com/ise/2023/11/09/saving-co2-using-location-and-time-shifting-in-azure/"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 11:25:06",
       "https://news.ycombinator.com/item?id=38472198"
     ],
@@ -127,16 +167,6 @@
     [
       "Ripgrep is faster than grep, ag, Git grep, ucg, pt, sift (2016)",
       "https://blog.burntsushi.net/ripgrep/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 10:09:47",
-      "https://news.ycombinator.com/item?id=38471744"
-    ],
-    [
-      "I worked in Amazon HR and was disgusted at what I was seeing with PIP plans",
-      "https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2023-11-29, 21:39:11",
-      "https://news.ycombinator.com/item?id=38465693"
-    ],
-    [
-      "Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)",
-      "https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 21:12:56",
-      "https://news.ycombinator.com/item?id=38465396"
-    ],
-    [
-      "Towards Higher-Level Abstractions for Molecular Programming [video]",
-      "https://www.youtube.com/watch?v=rp2RqVE08Zo"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 21:11:20",
       "https://news.ycombinator.com/item?id=38465378"
     ],
@@ -287,16 +297,6 @@
     [
       "Hybrid Beamforming Receiver Dynamic Range Theory to Practice",
       "https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 11:12:25",
-      "https://news.ycombinator.com/item?id=38444577"
-    ],
-    [
-      "Writing documentation for your house",
-      "https://luke.hsiao.dev/blog/housing-documentation/"
     ]
   ]
 ]
