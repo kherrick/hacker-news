@@ -10,6 +10,7 @@
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
 * [2023-11-30, 20:07:35](https://news.ycombinator.com/item?id=38478398) - [Evernote will restrict free users to 50 notes starting December 4](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
 * [2023-11-30, 20:03:47](https://news.ycombinator.com/item?id=38478354) - [Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
+* [2023-11-30, 19:56:28](https://news.ycombinator.com/item?id=38478279) - [Neil Gaiman's Radical Vision for the Future of the Internet](https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet/)
 * [2023-11-30, 19:54:58](https://news.ycombinator.com/item?id=38478263) - [Unity announces updates to it's web runtime support](https://blog.unity.com/engine-platform/web-runtime-updates-enhance-browser-experience)
 * [2023-11-30, 19:52:49](https://news.ycombinator.com/item?id=38478238) - [Firefox for Android is adding support for 400 add-ons](https://liliputing.com/firefox-for-android-is-adding-support-for-400-add-ons/)
 * [2023-11-30, 19:38:59](https://news.ycombinator.com/item?id=38478087) - [To safely deploy generative AI in health care, models must be open source](https://www.nature.com/articles/d41586-023-03803-y)
