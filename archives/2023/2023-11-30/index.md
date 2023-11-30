@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 20:32:22](https://news.ycombinator.com/item?id=38478672) - [Apple's smart ring technology may not be limited to fingers](https://appleinsider.com/articles/23/11/28/apples-smart-ring-technology-may-not-be-limited-to-fingers)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
 * [2023-11-30, 20:07:35](https://news.ycombinator.com/item?id=38478398) - [Evernote will restrict free users to 50 notes starting December 4](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
 * [2023-11-30, 20:03:47](https://news.ycombinator.com/item?id=38478354) - [Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
 * [2023-11-30, 19:54:58](https://news.ycombinator.com/item?id=38478263) - [Unity announces updates to it's web runtime support](https://blog.unity.com/engine-platform/web-runtime-updates-enhance-browser-experience)
+* [2023-11-30, 19:52:49](https://news.ycombinator.com/item?id=38478238) - [Firefox for Android is adding support for 400 add-ons](https://liliputing.com/firefox-for-android-is-adding-support-for-400-add-ons/)
 * [2023-11-30, 19:38:59](https://news.ycombinator.com/item?id=38478087) - [To safely deploy generative AI in health care, models must be open source](https://www.nature.com/articles/d41586-023-03803-y)
 * [2023-11-30, 19:24:53](https://news.ycombinator.com/item?id=38477931) - [NY woman clears $108M of other people's medical debt – after dying of cancer](https://www.cbc.ca/radio/asithappens/us-medical-debt-charity-1.7043821)
 * [2023-11-30, 18:53:17](https://news.ycombinator.com/item?id=38477452) - [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
@@ -64,6 +66,7 @@
 * [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
 * [2023-11-30, 10:09:47](https://news.ycombinator.com/item?id=38471744) - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
 * [2023-11-30, 09:26:19](https://news.ycombinator.com/item?id=38471475) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
+* [2023-11-30, 09:17:49](https://news.ycombinator.com/item?id=38471425) - [Attack on Titan Slickback Dance Using Stable Diffusion Video](https://old.reddit.com/r/StableDiffusion/comments/186ywcv/how_i_made_this_attack_on_titan_animation/)
 * [2023-11-30, 08:33:09](https://news.ycombinator.com/item?id=38471162) - [Ask HN: How does MS-Teams, Meets and Zoom virtual background works?](https://news.ycombinator.com/item?id=38471162)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 07:38:01](https://news.ycombinator.com/item?id=38470787) - [Elon Musk: \"Don't advertise. Go f*** yourself\"](https://arstechnica.com/tech-policy/2023/11/elon-musk-on-x-antisemitism-controversy-dont-advertise-go-f-yourself/)
