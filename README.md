@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 08:33:09](https://news.ycombinator.com/item?id=38471162) - [Ask HN: How does MS-Teams, Meets and Zoom virtual background works?](https://news.ycombinator.com/item?id=38471162)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
 * [2023-11-30, 05:36:37](https://news.ycombinator.com/item?id=38470064) - [Show HN: Repeater – A tool which repeats CLI commands](https://github.com/baalimago/repeater)
@@ -15,7 +16,6 @@
 * [2023-11-29, 19:14:42](https://news.ycombinator.com/item?id=38463832) - [Write shaders for the (sim) Vegas sphere](https://whenistheweekend.com/theSphere.html)
 * [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
 * [2023-11-29, 18:32:09](https://news.ycombinator.com/item?id=38463195) - [The origins of the steam engine](https://rootsofprogress.org/steam-engine-origins)
-* [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 * [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 14:07:12](https://news.ycombinator.com/item?id=38459463) - [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
 * [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis were harmed in the making of this presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)

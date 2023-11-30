@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 08:33:09](https://news.ycombinator.com/item?id=38471162) - [Ask HN: How does MS-Teams, Meets and Zoom virtual background works?](https://news.ycombinator.com/item?id=38471162)
 * [2023-11-30, 08:10:43](https://news.ycombinator.com/item?id=38471004) - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 07:38:01](https://news.ycombinator.com/item?id=38470787) - [Elon Musk: \"Don't advertise. Go f*** yourself\"](https://arstechnica.com/tech-policy/2023/11/elon-musk-on-x-antisemitism-controversy-dont-advertise-go-f-yourself/)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
