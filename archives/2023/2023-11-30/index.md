@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The Weirdest Bug I've Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
+* [2023-11-30, 18:25:44](https://news.ycombinator.com/item?id=38477057) - [You do need a technical co-founder](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
+* [2023-11-30, 18:25:09](https://news.ycombinator.com/item?id=38477046) - [Create a cute avatar from your photo. Powered by DALL-E 3](https://www.headshotpro.com/tools/free-pfp-generator)
 * [2023-11-30, 17:22:39](https://news.ycombinator.com/item?id=38476135) - [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
 * [2023-11-30, 17:14:56](https://news.ycombinator.com/item?id=38476038) - [Is anyone using self hosted LLM day to day and training it like a new employee](https://news.ycombinator.com/item?id=38476038)
 * [2023-11-30, 17:11:41](https://news.ycombinator.com/item?id=38476001) - [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
