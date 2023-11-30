@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 23:28:42](https://news.ycombinator.com/item?id=38480748) - [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
 * [2023-11-30, 21:31:13](https://news.ycombinator.com/item?id=38479467) - [Multi-phase computation as an applicative functor [video]](https://www.youtube.com/watch?v=ajuJ1Fi0SuU)
 * [2023-11-30, 21:00:22](https://news.ycombinator.com/item?id=38478988) - [Don't Design Your Emails (2016)](https://www.gkogan.co/blog/dont-design-emails/)
 * [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
