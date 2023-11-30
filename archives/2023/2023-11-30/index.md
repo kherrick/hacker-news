@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
 * [2023-11-30, 20:07:35](https://news.ycombinator.com/item?id=38478398) - [Evernote will restrict free users to 50 notes starting December 4](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
+* [2023-11-30, 20:03:47](https://news.ycombinator.com/item?id=38478354) - [Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
 * [2023-11-30, 19:54:58](https://news.ycombinator.com/item?id=38478263) - [Unity announces updates to it's web runtime support](https://blog.unity.com/engine-platform/web-runtime-updates-enhance-browser-experience)
 * [2023-11-30, 19:38:59](https://news.ycombinator.com/item?id=38478087) - [To safely deploy generative AI in health care, models must be open source](https://www.nature.com/articles/d41586-023-03803-y)
+* [2023-11-30, 19:24:53](https://news.ycombinator.com/item?id=38477931) - [NY woman clears $108M of other people's medical debt – after dying of cancer](https://www.cbc.ca/radio/asithappens/us-medical-debt-charity-1.7043821)
 * [2023-11-30, 18:53:17](https://news.ycombinator.com/item?id=38477452) - [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
