@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 11:25:06](https://news.ycombinator.com/item?id=38472198) - [CSAR: European Parliament rejects mass scanning of private messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can Generalist Foundation Models Beat Special-Purpose Tuning?Medicine Case Study](https://arxiv.org/abs/2311.16452)
 * [2023-11-30, 11:13:51](https://news.ycombinator.com/item?id=38472124) - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue/page2)
 * [2023-11-30, 11:03:48](https://news.ycombinator.com/item?id=38472059) - [We are not creating the \"right\" kind of AI](https://prahladyeri.github.io/blog/2023/11/we-are-not-creating-the-right-kind-of-ai.html)
