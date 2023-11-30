@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-11-30, 21:00:22",
-      "https://news.ycombinator.com/item?id=38478988"
+      "2023-11-30, 21:31:13",
+      "https://news.ycombinator.com/item?id=38479467"
     ],
     [
-      "Don't Design Your Emails (2016)",
-      "https://www.gkogan.co/blog/dont-design-emails/"
+      "Multi-phase computation as an applicative functor [video]",
+      "https://www.youtube.com/watch?v=ajuJ1Fi0SuU"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 20:57:29",
+      "https://news.ycombinator.com/item?id=38478964"
+    ],
+    [
+      "Tesla Cybertruck Pricing and Specs",
+      "https://www.tesla.com/cybertruck/design"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 20:50:36",
+      "https://news.ycombinator.com/item?id=38478866"
+    ],
+    [
+      "Compiler Options Hardening Guide for C and C++",
+      "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html"
     ]
   ],
   [
@@ -17,26 +37,6 @@
     [
       "Retro.directory",
       "http://retro.directory/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 20:03:47",
-      "https://news.ycombinator.com/item?id=38478354"
-    ],
-    [
-      "Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package",
-      "https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 19:56:28",
-      "https://news.ycombinator.com/item?id=38478279"
-    ],
-    [
-      "Neil Gaiman on the future of the internet",
-      "https://calnewport.com/neil-gaimans-radical-vision-for-the-future-of-the-internet/"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-11-30, 17:11:41",
-      "https://news.ycombinator.com/item?id=38476001"
-    ],
-    [
-      "Proposal on implementing permanent time zones in the European Union",
-      "https://timeuse.barcelona/projects/permanent-time-zones-eu/"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 17:05:48",
       "https://news.ycombinator.com/item?id=38475926"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2023-11-30, 11:25:06",
-      "https://news.ycombinator.com/item?id=38472198"
-    ],
-    [
-      "CSAR: European Parliament rejects mass scanning of private messages",
-      "https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages/"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 11:14:23",
       "https://news.ycombinator.com/item?id=38472128"
     ],
@@ -221,12 +201,12 @@
   ],
   [
     [
-      "2023-11-30, 09:26:19",
-      "https://news.ycombinator.com/item?id=38471475"
+      "2023-11-30, 07:47:58",
+      "https://news.ycombinator.com/item?id=38470832"
     ],
     [
-      "Open source supply chain security at Google [video]",
-      "https://research.swtch.com/acmscored"
+      "Interview with Viktor Lofgren from Marginalia Search",
+      "https://nlnet.nl/news/2023/20231016-marginalia.html"
     ]
   ],
   [
@@ -241,6 +221,26 @@
   ],
   [
     [
+      "2023-11-30, 06:47:58",
+      "https://news.ycombinator.com/item?id=38470479"
+    ],
+    [
+      "The Myth of Smart Pointers",
+      "https://www.logikalsolutions.com/wordpress/information-technology/smart-pointers/"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 06:27:49",
+      "https://news.ycombinator.com/item?id=38470355"
+    ],
+    [
+      "Properties of Lights Out: The Game",
+      "https://imois.in/posts/the-properties-of-lights-out-the-game/"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 03:12:38",
       "https://news.ycombinator.com/item?id=38469037"
     ],
@@ -251,22 +251,12 @@
   ],
   [
     [
-      "2023-11-30, 02:25:59",
-      "https://news.ycombinator.com/item?id=38468589"
+      "2023-11-29, 16:46:00",
+      "https://news.ycombinator.com/item?id=38461726"
     ],
     [
-      "Kolibri OS: fits on a floppy disk, programmed using interrupts",
-      "https://kolibrios.org/en/index.htm"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 21:47:03",
-      "https://news.ycombinator.com/item?id=38465769"
-    ],
-    [
-      "When Technology Follows Art",
-      "https://resobscura.substack.com/p/when-technology-follows-art"
+      "Why I always hit the crosswalk button (2015)",
+      "https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Season's Bleatings: Finnish Photographs of the Nuuttipukki (1928)",
       "https://publicdomainreview.org/collection/nuuttipukki/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 14:47:48",
+      "https://news.ycombinator.com/item?id=38459961"
+    ],
+    [
+      "Schoenberg: Why He Matters",
+      "https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/"
     ]
   ],
   [
