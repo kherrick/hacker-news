@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
 * [2023-11-30, 17:00:07](https://news.ycombinator.com/item?id=38475864) - [Joon (YC W22) Is Hiring a Founder Growth Hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
+* [2023-11-30, 16:53:53](https://news.ycombinator.com/item?id=38475787) - [Turn your picture into a Lego character](https://youml.com/recipes/236-photo-to-lego-minifigure)
 * [2023-11-30, 16:42:57](https://news.ycombinator.com/item?id=38475646) - [Vim universe: fzf – command line fuzzy finder (2019) [video]](https://www.youtube.com/watch?v=qgG5Jhi_Els)
+* [2023-11-30, 16:42:15](https://news.ycombinator.com/item?id=38475635) - [Amazon's Trainium2 AI Accelerator Features 96 GB of HBM, 4x Training Performance](https://www.anandtech.com/show/21173/amazons-trainium2-features-96-gb-hbm-quadruples-training-performance)
 * [2023-11-30, 16:41:29](https://news.ycombinator.com/item?id=38475622) - [Life Lessons from a 44 Year Old (2022)](https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old)
+* [2023-11-30, 16:38:17](https://news.ycombinator.com/item?id=38475586) - [Telegram now has a recommendation system](https://telegram.org/blog/similar-channels)
 * [2023-11-30, 16:35:24](https://news.ycombinator.com/item?id=38475545) - [Stanisław Lem's Prescient Vision of Artificial Life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 * [2023-11-30, 16:32:11](https://news.ycombinator.com/item?id=38475501) - [Alibaba releases 72B LLM with 32k context length](https://huggingface.co/Qwen/Qwen-72B)
 * [2023-11-30, 15:40:45](https://news.ycombinator.com/item?id=38474829) - [The 27 U.S. Constitutional Amendments Explained in Movies](https://www.ranker.com/list/the-27-constitutional-amendments-explained-in-movies/randolph)
