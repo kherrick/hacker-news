@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
+* [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 * [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The Weirdest Bug I've Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-11-30, 18:25:44](https://news.ycombinator.com/item?id=38477057) - [You do need a technical co-founder](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
 * [2023-11-30, 18:25:09](https://news.ycombinator.com/item?id=38477046) - [Create a cute avatar from your photo. Powered by DALL-E 3](https://www.headshotpro.com/tools/free-pfp-generator)
