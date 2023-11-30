@@ -6,6 +6,7 @@
 * [2023-11-30, 19:52:49](https://news.ycombinator.com/item?id=38478238) - [Firefox for Android is adding support for 400 add-ons](https://liliputing.com/firefox-for-android-is-adding-support-for-400-add-ons/)
 * [2023-11-30, 19:38:59](https://news.ycombinator.com/item?id=38478087) - [To safely deploy generative AI in health care, models must be open source](https://www.nature.com/articles/d41586-023-03803-y)
 * [2023-11-30, 19:25:41](https://news.ycombinator.com/item?id=38477940) - [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
+* [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 * [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
@@ -27,7 +28,6 @@
 * [2023-11-30, 03:12:38](https://news.ycombinator.com/item?id=38469037) - [The Naked Reader: Child Enslavement in the Villa of the Mysteries Fresco](https://www.journals.uchicago.edu/doi/10.1086/722232)
 * [2023-11-30, 02:25:59](https://news.ycombinator.com/item?id=38468589) - [Kolibri OS: fits on a floppy disk, programmed using interrupts](https://kolibrios.org/en/index.htm)
 * [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
-* [2023-11-29, 16:30:17](https://news.ycombinator.com/item?id=38461514) - [Canadian government reaches deal with Google on Online News Act](https://www.cbc.ca/news/politics/google-online-news-act-1.7043330)
 * [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [The Case for Challenging Music](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
 * [2023-11-29, 11:42:56](https://news.ycombinator.com/item?id=38458233) - [Hybrid Beamforming Receiver Dynamic Range Theory to Practice](https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html)
 

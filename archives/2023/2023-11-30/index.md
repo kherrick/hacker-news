@@ -15,6 +15,7 @@
 * [2023-11-30, 19:38:59](https://news.ycombinator.com/item?id=38478087) - [To safely deploy generative AI in health care, models must be open source](https://www.nature.com/articles/d41586-023-03803-y)
 * [2023-11-30, 19:25:41](https://news.ycombinator.com/item?id=38477940) - [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
 * [2023-11-30, 19:24:53](https://news.ycombinator.com/item?id=38477931) - [NY woman clears $108M of other people's medical debt – after dying of cancer](https://www.cbc.ca/radio/asithappens/us-medical-debt-charity-1.7043821)
+* [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:53:17](https://news.ycombinator.com/item?id=38477452) - [Chicken Hypnotism](https://en.wikipedia.org/wiki/Chicken_hypnotism)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
