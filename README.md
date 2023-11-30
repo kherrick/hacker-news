@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-30, 21:31:13](https://news.ycombinator.com/item?id=38479467) - [Multi-phase computation as an applicative functor [video]](https://www.youtube.com/watch?v=ajuJ1Fi0SuU)
 * [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 * [2023-11-30, 20:50:36](https://news.ycombinator.com/item?id=38478866) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
@@ -17,6 +16,7 @@
 * [2023-11-30, 15:31:26](https://news.ycombinator.com/item?id=38474696) - [Large language models lack deep insights or a theory of mind](https://arxiv.org/abs/2311.16093)
 * [2023-11-30, 15:06:51](https://news.ycombinator.com/item?id=38474364) - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
 * [2023-11-30, 14:50:55](https://news.ycombinator.com/item?id=38474190) - [Show HN: Qdorks.com – Advanced Google search query composer](https://qdorks.com/composer)
+* [2023-11-30, 14:36:43](https://news.ycombinator.com/item?id=38474003) - [Scripts for Streamlining Your Homelab with Proxmox VE](https://tteck.github.io/Proxmox/)
 * [2023-11-30, 14:32:15](https://news.ycombinator.com/item?id=38473942) - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)
 * [2023-11-30, 11:44:43](https://news.ycombinator.com/item?id=38472333) - [Show HN: Play a pen-and-paper game that is almost unknown in the US and Europe](https://www.paper-tactics.com)
