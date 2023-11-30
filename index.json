@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-11-29, 16:17:56",
+      "https://news.ycombinator.com/item?id=38461323"
+    ],
+    [
+      "Graph Networks for Materials Exploration",
+      "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 16:13:23",
       "https://news.ycombinator.com/item?id=38461249"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust std fs slower than Python? No, it's hardware",
       "https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 07:56:36",
-      "https://news.ycombinator.com/item?id=38456726"
-    ],
-    [
-      "How to tackle unreliability of coding assistants",
-      "https://martinfowler.com/articles/exploring-gen-ai.html#memo-08"
     ]
   ],
   [
