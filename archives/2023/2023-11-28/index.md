@@ -16,6 +16,7 @@
 * [2023-11-28, 22:08:33](https://news.ycombinator.com/item?id=38452059) - [Ask HN: Git hosting sites that do not require 2FA?](https://news.ycombinator.com/item?id=38452059)
 * [2023-11-28, 22:04:50](https://news.ycombinator.com/item?id=38452005) - [Erwin Schrödinger – Sexual Abuse](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
 * [2023-11-28, 21:58:55](https://news.ycombinator.com/item?id=38451920) - [Shutting down the Matrix bridge to Libera Chat](https://matrix.org/blog/2023/11/28/shutting-down-bridge-to-libera-chat/)
+* [2023-11-28, 21:39:59](https://news.ycombinator.com/item?id=38451680) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
 * [2023-11-28, 21:30:28](https://news.ycombinator.com/item?id=38451576) - [US and UK Military Contractors Created Plan for Global Censorship in 2018](https://public.substack.com/p/ctil-files-1-us-and-uk-military-contractors)
 * [2023-11-28, 21:27:13](https://news.ycombinator.com/item?id=38451543) - [Charlie Munger – Feeling Like a Victim Is Perfectly Disastrous](https://www.butwhatfor.com/p/takeaway-tuesday-facing-adversity-charlie-munger)
 * [2023-11-28, 21:25:47](https://news.ycombinator.com/item?id=38451524) - [The Case for Never Reading the Book Jacket](https://thewalrus.ca/the-case-for-never-reading-the-book-jacket/)
