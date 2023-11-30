@@ -6,6 +6,7 @@
 
 * [2023-11-29, 23:46:02](https://news.ycombinator.com/item?id=38467079) - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
 * [2023-11-29, 23:45:06](https://news.ycombinator.com/item?id=38467065) - [The End Of History: Academic historians are destroying their own discipline](https://www.ian-leslie.com/p/the-end-of-history)
+* [2023-11-29, 22:51:14](https://news.ycombinator.com/item?id=38466431) - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
 * [2023-11-29, 22:03:58](https://news.ycombinator.com/item?id=38465944) - [Cybertruck Launch](https://www.tesla.com/cybertruck)
 * [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 21:44:24](https://news.ycombinator.com/item?id=38465736) - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
@@ -62,6 +63,7 @@
 * [2023-11-29, 13:01:28](https://news.ycombinator.com/item?id=38458802) - [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 12:46:36](https://news.ycombinator.com/item?id=38458683) - [Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 * [2023-11-29, 12:43:32](https://news.ycombinator.com/item?id=38458660) - [Meta sued by privacy group over pay up or click OK model](https://www.theregister.com/2023/11/28/metas_eu_privacy_fee_triggers/)
+* [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis Were Harmed in the Making of This Presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
 * [2023-11-29, 12:25:36](https://news.ycombinator.com/item?id=38458548) - [AI minister likens risk of AI over-regulation to historical printing press ban](https://fortune.com/2023/11/28/artificial-intelligence-ai-technology-regulation-policy-guardrails-uae-fortune-global-forum/)
 * [2023-11-29, 12:15:26](https://news.ycombinator.com/item?id=38458470) - [A Science of Life Without Free Will by Robert Sapolsky](https://ndpr.nd.edu/reviews/determined-a-science-of-life-without-free-will/)
 * [2023-11-29, 12:12:29](https://news.ycombinator.com/item?id=38458448) - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
