@@ -20,6 +20,7 @@
 * [2023-11-30, 01:19:11](https://news.ycombinator.com/item?id=38467923) - [On Pneumatic Tires](https://www.scopeofwork.net/on-pneumatic-tires/)
 * [2023-11-29, 22:51:14](https://news.ycombinator.com/item?id=38466431) - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
 * [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
+* [2023-11-29, 21:39:11](https://news.ycombinator.com/item?id=38465693) - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
 * [2023-11-29, 21:12:56](https://news.ycombinator.com/item?id=38465396) - [Towards Higher-Level Abstractions for Molecular Programming [video]](https://www.youtube.com/watch?v=rp2RqVE08Zo)
 * [2023-11-29, 21:11:20](https://news.ycombinator.com/item?id=38465378) - [Strange Loops: journeys in declarative logic programming in genomics [video]](https://www.youtube.com/watch?v=CG24QFdVh-0)
 * [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
@@ -29,7 +30,6 @@
 * [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis were harmed in the making of this presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
 * [2023-11-29, 12:16:27](https://news.ycombinator.com/item?id=38458482) - [Analog Devices Apollo MxFE 0.5 to 55 GHz Ecosystem](https://www.analog.com/en/education/education-library/videos/6330317501112.html)
 * [2023-11-28, 21:39:59](https://news.ycombinator.com/item?id=38451680) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
-* [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 
 ## [Archives](archives/index.md)
 
