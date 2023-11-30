@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-30, 08:10:43",
+      "https://news.ycombinator.com/item?id=38471004"
+    ],
+    [
+      "XCurl",
+      "https://daniel.haxx.se/blog/2023/11/30/xcurl/"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 05:36:37",
+      "https://news.ycombinator.com/item?id=38470064"
+    ],
+    [
+      "Show HN: Repeater – A tool which repeats CLI commands",
+      "https://github.com/baalimago/repeater"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 04:35:03",
+      "https://news.ycombinator.com/item?id=38469686"
+    ],
+    [
+      "Academics without publications are just like imperial concubines without sons",
+      "https://www.tandfonline.com/doi/abs/10.1080/02680939.2023.2288339"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 02:03:21",
       "https://news.ycombinator.com/item?id=38468387"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-11-29, 17:32:54",
-      "https://news.ycombinator.com/item?id=38462318"
-    ],
-    [
-      "Visualizing Pokémon Red and Blue Connections (2020)",
-      "http://peterhajas.com/blog/pokemon_rb_connections.html"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 16:17:56",
       "https://news.ycombinator.com/item?id=38461323"
     ],
@@ -137,16 +157,6 @@
     [
       "Jaq – A jq clone focused on correctness, speed, and simplicity",
       "https://github.com/01mf02/jaq"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 14:19:03",
-      "https://news.ycombinator.com/item?id=38459593"
-    ],
-    [
-      "Intuitive Guide to Merge Sort",
-      "https://photonlines.substack.com/p/intuitive-guide-to-merge-sort"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Hysp – An independent package manager",
       "https://github.com/pwnwriter/hysp"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 10:04:26",
-      "https://news.ycombinator.com/item?id=38457556"
-    ],
-    [
-      "Freetar – an alternative front end for ultimate-guitar.com",
-      "https://github.com/kmille/freetar"
     ]
   ],
   [
