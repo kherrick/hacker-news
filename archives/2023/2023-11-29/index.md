@@ -9,6 +9,7 @@
 * [2023-11-29, 22:51:14](https://news.ycombinator.com/item?id=38466431) - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
 * [2023-11-29, 22:03:58](https://news.ycombinator.com/item?id=38465944) - [Cybertruck Launch](https://www.tesla.com/cybertruck)
 * [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
+* [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
 * [2023-11-29, 21:44:24](https://news.ycombinator.com/item?id=38465736) - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
 * [2023-11-29, 21:39:11](https://news.ycombinator.com/item?id=38465693) - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
 * [2023-11-29, 21:12:56](https://news.ycombinator.com/item?id=38465396) - [Towards Higher-Level Abstractions for Molecular Programming [video]](https://www.youtube.com/watch?v=rp2RqVE08Zo)
