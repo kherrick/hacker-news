@@ -20,7 +20,6 @@
 * [2023-11-29, 13:31:14](https://news.ycombinator.com/item?id=38459090) - [New neurotech eschews electricity for ultrasound](https://spectrum.ieee.org/bci-ultrasound)
 * [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis Were Harmed in the Making of This Presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
 * [2023-11-29, 12:16:27](https://news.ycombinator.com/item?id=38458482) - [Analog Devices Apollo MxFE 0.5 to 55 GHz Ecosystem](https://www.analog.com/en/education/education-library/videos/6330317501112.html)
-* [2023-11-29, 11:03:47](https://news.ycombinator.com/item?id=38457953) - [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
 * [2023-11-29, 10:59:52](https://news.ycombinator.com/item?id=38457926) - [Hysp – An independent package manager](https://github.com/pwnwriter/hysp)
 * [2023-11-29, 07:56:36](https://news.ycombinator.com/item?id=38456726) - [How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
 * [2023-11-29, 07:51:25](https://news.ycombinator.com/item?id=38456692) - [Travle: A daily game – get between countries in as few guesses as possible](https://imois.in/games/travle/)
@@ -28,6 +27,7 @@
 * [2023-11-29, 05:53:12](https://news.ycombinator.com/item?id=38456021) - [Understanding the heap – a beautiful mess](https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html)
 * [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 21:39:59](https://news.ycombinator.com/item?id=38451680) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
+* [2023-11-28, 21:32:43](https://news.ycombinator.com/item?id=38451596) - [The Birth of the Chapter](https://www.chronicle.com/article/the-birth-of-the-chapter)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 * [2023-11-28, 01:45:38](https://news.ycombinator.com/item?id=38441242) - [How Jensen Huang's Nvidia is powering the A.I. revolution](https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution)
 
