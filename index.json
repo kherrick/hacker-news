@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-11-29, 21:44:24",
-      "https://news.ycombinator.com/item?id=38465736"
-    ],
-    [
-      "Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth",
-      "https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 21:39:11",
       "https://news.ycombinator.com/item?id=38465693"
     ],
@@ -107,6 +97,16 @@
     [
       "The origins of the steam engine",
       "https://rootsofprogress.org/steam-engine-origins"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 17:32:54",
+      "https://news.ycombinator.com/item?id=38462318"
+    ],
+    [
+      "Visualizing Pokémon Red and Blue Connections (2020)",
+      "http://peterhajas.com/blog/pokemon_rb_connections.html"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38458651"
     ],
     [
-      "Many Tamagotchis Were Harmed in the Making of This Presentation (2012) [video]",
+      "Many Tamagotchis were harmed in the making of this presentation (2012) [video]",
       "https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264"
     ]
   ],
@@ -217,6 +217,16 @@
     [
       "Hysp – An independent package manager",
       "https://github.com/pwnwriter/hysp"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 09:18:32",
+      "https://news.ycombinator.com/item?id=38457247"
+    ],
+    [
+      "Rust std fs slower than Python? No, it's hardware",
+      "https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Writing documentation for your house",
       "https://luke.hsiao.dev/blog/housing-documentation/"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 01:45:38",
-      "https://news.ycombinator.com/item?id=38441242"
-    ],
-    [
-      "How Jensen Huang's Nvidia is powering the A.I. revolution",
-      "https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution"
     ]
   ]
 ]
