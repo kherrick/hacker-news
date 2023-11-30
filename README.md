@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-30, 21:31:13](https://news.ycombinator.com/item?id=38479467) - [Multi-phase computation as an applicative functor [video]](https://www.youtube.com/watch?v=ajuJ1Fi0SuU)
-* [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 * [2023-11-30, 20:50:36](https://news.ycombinator.com/item?id=38478866) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
 * [2023-11-30, 19:25:41](https://news.ycombinator.com/item?id=38477940) - [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
@@ -16,6 +15,7 @@
 * [2023-11-30, 16:35:24](https://news.ycombinator.com/item?id=38475545) - [Stanisław Lem's vision of artificial life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 * [2023-11-30, 15:31:26](https://news.ycombinator.com/item?id=38474696) - [Large language models lack deep insights or a theory of mind](https://arxiv.org/abs/2311.16093)
 * [2023-11-30, 15:06:51](https://news.ycombinator.com/item?id=38474364) - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
+* [2023-11-30, 14:36:43](https://news.ycombinator.com/item?id=38474003) - [Scripts for Streamlining Your Homelab with Proxmox VE](https://tteck.github.io/Proxmox/)
 * [2023-11-30, 14:32:15](https://news.ycombinator.com/item?id=38473942) - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can generalist foundation models beat special-purpose tuning?](https://arxiv.org/abs/2311.16452)
 * [2023-11-30, 11:11:07](https://news.ycombinator.com/item?id=38472108) - [Scotch on the Rocks: TV drama locked away for 50 years](https://www.bbc.co.uk/news/uk-scotland-66889553)
