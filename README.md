@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 14:13:56](https://news.ycombinator.com/item?id=38473750) - [AI and the Rise of Mediocrity](https://time.com/6337835/ai-mediocrity-essay/)
+* [2023-11-30, 14:11:12](https://news.ycombinator.com/item?id=38473715) - ['Weird Al' Roasts Spotify's Artist Payout System in Year-End Wrapped Video](https://www.rollingstone.com/music/music-news/weird-al-yankovic-spotify-wrapped-video-criticism-1234905887/)
 * [2023-11-30, 14:01:39](https://news.ycombinator.com/item?id=38473615) - [Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
 * [2023-11-30, 14:00:48](https://news.ycombinator.com/item?id=38473608) - [Saving CO2 using location and time shifting in Azure](https://devblogs.microsoft.com/ise/2023/11/09/saving-co2-using-location-and-time-shifting-in-azure/)
 * [2023-11-30, 11:49:58](https://news.ycombinator.com/item?id=38472367) - [Let's Not Flip Sides on IP Maximalism Because of AI](https://www.techdirt.com/2023/11/29/lets-not-flip-sides-on-ip-maximalism-because-of-ai/)
@@ -22,12 +24,10 @@
 * [2023-11-29, 21:12:56](https://news.ycombinator.com/item?id=38465396) - [Towards Higher-Level Abstractions for Molecular Programming [video]](https://www.youtube.com/watch?v=rp2RqVE08Zo)
 * [2023-11-29, 21:11:20](https://news.ycombinator.com/item?id=38465378) - [Strange Loops: journeys in declarative logic programming in genomics [video]](https://www.youtube.com/watch?v=CG24QFdVh-0)
 * [2023-11-29, 19:29:49](https://news.ycombinator.com/item?id=38464057) - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
-* [2023-11-29, 18:42:34](https://news.ycombinator.com/item?id=38463355) - [Who makes the most reliable new cars?](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/)
 * [2023-11-29, 14:07:12](https://news.ycombinator.com/item?id=38459463) - [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
 * [2023-11-29, 13:28:21](https://news.ycombinator.com/item?id=38459061) - [Linux Filesystem Hierarchy (2004)](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
 * [2023-11-29, 12:41:33](https://news.ycombinator.com/item?id=38458651) - [Many Tamagotchis were harmed in the making of this presentation (2012) [video]](https://media.ccc.de/v/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264)
 * [2023-11-29, 12:16:27](https://news.ycombinator.com/item?id=38458482) - [Analog Devices Apollo MxFE 0.5 to 55 GHz Ecosystem](https://www.analog.com/en/education/education-library/videos/6330317501112.html)
-* [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 21:39:59](https://news.ycombinator.com/item?id=38451680) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
 * [2023-11-28, 11:12:25](https://news.ycombinator.com/item?id=38444577) - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
 

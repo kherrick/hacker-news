@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 14:13:56](https://news.ycombinator.com/item?id=38473750) - [AI and the Rise of Mediocrity](https://time.com/6337835/ai-mediocrity-essay/)
+* [2023-11-30, 14:11:12](https://news.ycombinator.com/item?id=38473715) - ['Weird Al' Roasts Spotify's Artist Payout System in Year-End Wrapped Video](https://www.rollingstone.com/music/music-news/weird-al-yankovic-spotify-wrapped-video-criticism-1234905887/)
 * [2023-11-30, 14:01:39](https://news.ycombinator.com/item?id=38473615) - [Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
 * [2023-11-30, 14:00:48](https://news.ycombinator.com/item?id=38473608) - [Saving CO2 using location and time shifting in Azure](https://devblogs.microsoft.com/ise/2023/11/09/saving-co2-using-location-and-time-shifting-in-azure/)
 * [2023-11-30, 12:59:17](https://news.ycombinator.com/item?id=38472921) - [Apple and Google avoid naming ChatGPT as their 'app of the year'](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
