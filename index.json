@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-29, 22:03:58",
-      "https://news.ycombinator.com/item?id=38465944"
+      "2023-11-29, 23:46:02",
+      "https://news.ycombinator.com/item?id=38467079"
     ],
     [
-      "Cybertruck Launch",
-      "https://www.tesla.com/cybertruck"
+      "Understanding rapid tendon regeneration in newts may one day help human athletes",
+      "https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 23:45:06",
+      "https://news.ycombinator.com/item?id=38467065"
+    ],
+    [
+      "The End Of History: Academic historians are destroying their own discipline",
+      "https://www.ian-leslie.com/p/the-end-of-history"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38463731"
     ],
     [
-      "Show HN: Pgxman – npm for Postgres extensions",
+      "Show HN: pgxman – npm for Postgres extensions",
       "https://pgxman.com/"
     ]
   ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2023-11-29, 10:59:52",
+      "https://news.ycombinator.com/item?id=38457926"
+    ],
+    [
+      "Hysp – An independent package manager",
+      "https://github.com/pwnwriter/hysp"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 10:43:07",
       "https://news.ycombinator.com/item?id=38457815"
     ],
@@ -207,26 +227,6 @@
     [
       "Freetar – an alternative front end for ultimate-guitar.com",
       "https://github.com/kmille/freetar"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 09:18:32",
-      "https://news.ycombinator.com/item?id=38457247"
-    ],
-    [
-      "Rust std fs slower than Python? No, it's hardware",
-      "https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 08:57:37",
-      "https://news.ycombinator.com/item?id=38457125"
-    ],
-    [
-      "The 1988 shooting down of Flight 655 as a user interface disaster",
-      "https://octodon.social/@jalefkowit/111490485825183949"
     ]
   ],
   [
