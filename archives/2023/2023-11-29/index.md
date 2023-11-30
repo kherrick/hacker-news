@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 23:46:02](https://news.ycombinator.com/item?id=38467079) - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
+* [2023-11-29, 23:45:06](https://news.ycombinator.com/item?id=38467065) - [The End Of History: Academic historians are destroying their own discipline](https://www.ian-leslie.com/p/the-end-of-history)
 * [2023-11-29, 22:03:58](https://news.ycombinator.com/item?id=38465944) - [Cybertruck Launch](https://www.tesla.com/cybertruck)
 * [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 21:44:24](https://news.ycombinator.com/item?id=38465736) - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
@@ -69,6 +71,7 @@
 * [2023-11-29, 11:25:42](https://news.ycombinator.com/item?id=38458106) - [Ask HN: How is this legal that you must use Google Billing for Android apps?](https://news.ycombinator.com/item?id=38458106)
 * [2023-11-29, 11:24:03](https://news.ycombinator.com/item?id=38458093) - [Poor Broken and Battered Amiga A2000 – Can We Fix It? [video]](https://www.youtube.com/watch?v=2VFNEhab_lk)
 * [2023-11-29, 11:03:47](https://news.ycombinator.com/item?id=38457953) - [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
+* [2023-11-29, 10:59:52](https://news.ycombinator.com/item?id=38457926) - [Hysp – An independent package manager](https://github.com/pwnwriter/hysp)
 * [2023-11-29, 10:55:16](https://news.ycombinator.com/item?id=38457889) - [Architecture Antipatterns](https://architecture-antipatterns.tech/)
 * [2023-11-29, 10:43:48](https://news.ycombinator.com/item?id=38457817) - [Japan automakers play catch-up in EV race](https://www3.nhk.or.jp/nhkworld/en/news/backstories/2818/)
 * [2023-11-29, 10:43:07](https://news.ycombinator.com/item?id=38457815) - [Show HN: GPT4 Vision for the Meta Glasses](https://github.com/dcrebbin/meta-vision-api)
