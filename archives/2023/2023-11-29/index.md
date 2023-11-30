@@ -7,6 +7,7 @@
 * [2023-11-29, 23:46:02](https://news.ycombinator.com/item?id=38467079) - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
 * [2023-11-29, 23:45:06](https://news.ycombinator.com/item?id=38467065) - [The End Of History: Academic historians are destroying their own discipline](https://www.ian-leslie.com/p/the-end-of-history)
 * [2023-11-29, 22:51:14](https://news.ycombinator.com/item?id=38466431) - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
+* [2023-11-29, 22:18:29](https://news.ycombinator.com/item?id=38466071) - [Literary Fight Club: On the Great Poets' Brawl of '68](https://lithub.com/literary-fight-club-on-the-great-poets-brawl-of-68/)
 * [2023-11-29, 22:03:58](https://news.ycombinator.com/item?id=38465944) - [Cybertruck Launch](https://www.tesla.com/cybertruck)
 * [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
 * [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
