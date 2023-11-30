@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 * [2023-11-30, 20:32:22](https://news.ycombinator.com/item?id=38478672) - [Apple's smart ring technology may not be limited to fingers](https://appleinsider.com/articles/23/11/28/apples-smart-ring-technology-may-not-be-limited-to-fingers)
+* [2023-11-30, 20:25:26](https://news.ycombinator.com/item?id=38478587) - [eBPF – Introduction, Tutorials and Community Resources](https://ebpf.io/)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
 * [2023-11-30, 20:07:35](https://news.ycombinator.com/item?id=38478398) - [Evernote will restrict free users to 50 notes starting December 4](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
 * [2023-11-30, 20:03:47](https://news.ycombinator.com/item?id=38478354) - [Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
