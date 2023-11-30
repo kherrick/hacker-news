@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-11-30, 23:28:42](https://news.ycombinator.com/item?id=38480748) - [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
+* [2023-11-30, 23:19:53](https://news.ycombinator.com/item?id=38480656) - [Nearly 100k Gaza buildings may be damaged, satellite images show](https://www.bbc.co.uk/news/world-middle-east-67565872)
 * [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 * [2023-11-30, 20:50:36](https://news.ycombinator.com/item?id=38478866) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
@@ -22,7 +23,6 @@
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)
 * [2023-11-30, 11:44:43](https://news.ycombinator.com/item?id=38472333) - [Show HN: Play a pen-and-paper game that is almost unknown in the US and Europe](https://www.paper-tactics.com)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can generalist foundation models beat special-purpose tuning?](https://arxiv.org/abs/2311.16452)
-* [2023-11-30, 11:11:07](https://news.ycombinator.com/item?id=38472108) - [Scotch on the Rocks: TV drama locked away for 50 years](https://www.bbc.co.uk/news/uk-scotland-66889553)
 * [2023-11-30, 07:47:58](https://news.ycombinator.com/item?id=38470832) - [Interview with Viktor Lofgren from Marginalia Search](https://nlnet.nl/news/2023/20231016-marginalia.html)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
