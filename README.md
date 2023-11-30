@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 * [2023-11-30, 20:25:26](https://news.ycombinator.com/item?id=38478587) - [eBPF – Introduction, Tutorials and Community Resources](https://ebpf.io/)
 * [2023-11-30, 20:08:09](https://news.ycombinator.com/item?id=38478404) - [Retro.directory](http://retro.directory/)
 * [2023-11-30, 20:03:47](https://news.ycombinator.com/item?id=38478354) - [Firefox Developer Edition and Beta: Try Out Mozilla's .deb Package](https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/)
@@ -10,6 +9,7 @@
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 * [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-11-30, 18:25:44](https://news.ycombinator.com/item?id=38477057) - [You do need a technical co-founder](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
+* [2023-11-30, 17:45:57](https://news.ycombinator.com/item?id=38476482) - [Animate Anyone: Image-to-Video Synthesis for Character Animation](https://humanaigc.github.io/animate-anyone/)
 * [2023-11-30, 17:11:41](https://news.ycombinator.com/item?id=38476001) - [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 * [2023-11-30, 17:00:07](https://news.ycombinator.com/item?id=38475864) - [Joon (YC W22) Is Hiring a Founder Growth Hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
