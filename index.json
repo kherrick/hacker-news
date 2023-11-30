@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-11-30, 11:21:06",
+      "https://news.ycombinator.com/item?id=38472174"
+    ],
+    [
+      "Unaligned accesses in C/C++: what, why and solutions to do it properly",
+      "https://blog.quarkslab.com/unaligned-accesses-in-cc-what-why-and-solutions-to-do-it-properly.html"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 11:14:23",
       "https://news.ycombinator.com/item?id=38472128"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2023-11-30, 01:22:25",
+      "https://news.ycombinator.com/item?id=38467947"
+    ],
+    [
+      "Plastic Archeology",
+      "https://www.scopeofwork.net/plastic-archeology/"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 01:19:11",
       "https://news.ycombinator.com/item?id=38467923"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-11-29, 19:14:42",
-      "https://news.ycombinator.com/item?id=38463832"
-    ],
-    [
-      "Write shaders for the (sim) Vegas sphere",
-      "https://whenistheweekend.com/theSphere.html"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 18:42:34",
       "https://news.ycombinator.com/item?id=38463355"
     ],
     [
       "Who makes the most reliable new cars?",
       "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 16:13:23",
-      "https://news.ycombinator.com/item?id=38461249"
-    ],
-    [
-      "Jaq – A jq clone focused on correctness, speed, and simplicity",
-      "https://github.com/01mf02/jaq"
     ]
   ],
   [
