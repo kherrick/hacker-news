@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 17:22:39](https://news.ycombinator.com/item?id=38476135) - [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
 * [2023-11-30, 17:14:56](https://news.ycombinator.com/item?id=38476038) - [Is anyone using self hosted LLM day to day and training it like a new employee](https://news.ycombinator.com/item?id=38476038)
 * [2023-11-30, 17:11:41](https://news.ycombinator.com/item?id=38476001) - [Proposal on implementing permanent time zones in the European Union](https://timeuse.barcelona/projects/permanent-time-zones-eu/)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
@@ -8,7 +9,6 @@
 * [2023-11-30, 17:00:07](https://news.ycombinator.com/item?id=38475864) - [Joon (YC W22) Is Hiring a Founder Growth Hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
 * [2023-11-30, 16:42:57](https://news.ycombinator.com/item?id=38475646) - [Vim universe: fzf – command line fuzzy finder (2019) [video]](https://www.youtube.com/watch?v=qgG5Jhi_Els)
 * [2023-11-30, 16:42:15](https://news.ycombinator.com/item?id=38475635) - [Amazon's Trainium2 AI Accelerator Features 96 GB of HBM, 4x Training Performance](https://www.anandtech.com/show/21173/amazons-trainium2-features-96-gb-hbm-quadruples-training-performance)
-* [2023-11-30, 16:41:29](https://news.ycombinator.com/item?id=38475622) - [Life lessons from a 44 year old (2022)](https://www.anniemacmanus.com//articles/life-lessons-from-a-44-year-old)
 * [2023-11-30, 16:38:17](https://news.ycombinator.com/item?id=38475586) - [Telegram now has a recommendation system](https://telegram.org/blog/similar-channels)
 * [2023-11-30, 16:35:24](https://news.ycombinator.com/item?id=38475545) - [Stanisław Lem's vision of artificial life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 * [2023-11-30, 15:31:26](https://news.ycombinator.com/item?id=38474696) - [Large language models lack deep insights or a theory of mind](https://arxiv.org/abs/2311.16093)
