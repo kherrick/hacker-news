@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 02:29:03](https://news.ycombinator.com/item?id=38468617) - [U.S. GDP Grew at a 5.2% Rate in the Third Quarter, Even Stronger Than Indicated](https://www.cnbc.com/2023/11/29/us-gdp-grew-at-a-5point2percent-rate-in-the-third-quarter-even-stronger-than-first-indicated.html)
 * [2023-11-30, 01:57:52](https://news.ycombinator.com/item?id=38468326) - [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
 * [2023-11-30, 01:08:42](https://news.ycombinator.com/item?id=38467850) - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
 * [2023-11-29, 23:46:02](https://news.ycombinator.com/item?id=38467079) - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
@@ -14,7 +15,6 @@
 * [2023-11-29, 16:19:33](https://news.ycombinator.com/item?id=38461344) - [Person-in-WiFi: Fine-Grained Person Perception Using WiFi [pdf]](https://www.ri.cmu.edu/app/uploads/2019/09/Person_in_WiFi_ICCV2019.pdf)
 * [2023-11-29, 16:17:56](https://news.ycombinator.com/item?id=38461323) - [Graph Networks for Materials Exploration](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/)
 * [2023-11-29, 16:13:23](https://news.ycombinator.com/item?id=38461249) - [Jaq – A jq clone focused on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
-* [2023-11-29, 16:03:10](https://news.ycombinator.com/item?id=38461121) - [Deno Cron](https://deno.com/blog/cron)
 * [2023-11-29, 13:31:14](https://news.ycombinator.com/item?id=38459090) - [New neurotech eschews electricity for ultrasound](https://spectrum.ieee.org/bci-ultrasound)
 * [2023-11-29, 13:01:28](https://news.ycombinator.com/item?id=38458802) - [Show HN: Error return traces for Go, inspired by Zig](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 12:46:36](https://news.ycombinator.com/item?id=38458683) - [Extracting training data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
