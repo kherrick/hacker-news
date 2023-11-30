@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 17:22:39](https://news.ycombinator.com/item?id=38476135) - [Storybook 7.6 Is Here](https://storybook.js.org/blog/storybook-7-6/)
 * [2023-11-30, 17:14:56](https://news.ycombinator.com/item?id=38476038) - [Is anyone using self hosted LLM day to day and training it like a new employee](https://news.ycombinator.com/item?id=38476038)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to Ripen and Store Avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 * [2023-11-30, 17:03:02](https://news.ycombinator.com/item?id=38475898) - [Engineering a Solar System](https://planetplanet.net/2017/05/03/the-ultimate-engineered-solar-system/)
@@ -15,6 +16,7 @@
 * [2023-11-30, 16:38:17](https://news.ycombinator.com/item?id=38475586) - [Telegram now has a recommendation system](https://telegram.org/blog/similar-channels)
 * [2023-11-30, 16:35:24](https://news.ycombinator.com/item?id=38475545) - [Stanisław Lem's Prescient Vision of Artificial Life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 * [2023-11-30, 16:32:11](https://news.ycombinator.com/item?id=38475501) - [Alibaba releases 72B LLM with 32k context length](https://huggingface.co/Qwen/Qwen-72B)
+* [2023-11-30, 16:31:09](https://news.ycombinator.com/item?id=38475482) - [Rolling Stone's negative obituary for Henry Kissinger](https://www.rollingstone.com/politics/politics-news/henry-kissinger-war-criminal-dead-1234804748/)
 * [2023-11-30, 15:40:45](https://news.ycombinator.com/item?id=38474829) - [The 27 U.S. Constitutional Amendments Explained in Movies](https://www.ranker.com/list/the-27-constitutional-amendments-explained-in-movies/randolph)
 * [2023-11-30, 15:39:20](https://news.ycombinator.com/item?id=38474806) - [Airbnb's Silent Killer](https://www.nbcnews.com/tech/tech-news/airbnb-carbon-monoxide-poisonings-detectors-rcna105634)
 * [2023-11-30, 15:31:26](https://news.ycombinator.com/item?id=38474696) - [Large language models lack deep insights or a theory of mind](https://arxiv.org/abs/2311.16093)
