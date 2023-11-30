@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-11-30, 01:57:52](https://news.ycombinator.com/item?id=38468326) - [Henry Kissinger Has Died](https://www.bbc.com/news/world-us-canada-67574495)
 * [2023-11-30, 01:08:42](https://news.ycombinator.com/item?id=38467850) - [Sam Altman returns as CEO, OpenAI has a new initial board](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
-* [2023-11-30, 00:49:31](https://news.ycombinator.com/item?id=38467699) - [How Meta Is Planning for Elections in 2024](https://about.fb.com/news/2023/11/how-meta-is-planning-for-elections-in-2024/)
 * [2023-11-29, 23:46:02](https://news.ycombinator.com/item?id=38467079) - [Understanding rapid tendon regeneration in newts may one day help human athletes](https://bioengineer.org/understanding-rapid-tendon-regeneration-in-newts-may-one-day-help-human-athletes/)
 * [2023-11-29, 22:51:14](https://news.ycombinator.com/item?id=38466431) - [Ballerburg SDL – Play classical castle combat game from 1987 in the browser](https://baller.tuxfamily.org/online/)
 * [2023-11-29, 21:58:13](https://news.ycombinator.com/item?id=38465895) - [Loongson releases next-generation CPU](https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml)
@@ -22,13 +22,13 @@
 * [2023-11-29, 11:24:03](https://news.ycombinator.com/item?id=38458093) - [Poor Broken and Battered Amiga A2000 – Can We Fix It? [video]](https://www.youtube.com/watch?v=2VFNEhab_lk)
 * [2023-11-29, 11:03:47](https://news.ycombinator.com/item?id=38457953) - [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
 * [2023-11-29, 10:59:52](https://news.ycombinator.com/item?id=38457926) - [Hysp – An independent package manager](https://github.com/pwnwriter/hysp)
-* [2023-11-29, 10:43:07](https://news.ycombinator.com/item?id=38457815) - [Show HN: Hacky Meta Glasses GPT4 Vision Integration](https://github.com/dcrebbin/meta-vision-api)
 * [2023-11-29, 07:56:36](https://news.ycombinator.com/item?id=38456726) - [How to tackle unreliability of coding assistants](https://martinfowler.com/articles/exploring-gen-ai.html#memo-08)
 * [2023-11-29, 07:51:25](https://news.ycombinator.com/item?id=38456692) - [Travle: A daily game – get between countries in as few guesses as possible](https://imois.in/games/travle/)
 * [2023-11-29, 06:27:52](https://news.ycombinator.com/item?id=38456230) - [Exploring Self-Hosted Email Services](https://synergeticlabs.com/email-alchemy/)
 * [2023-11-29, 05:53:12](https://news.ycombinator.com/item?id=38456021) - [Understanding the heap – a beautiful mess](https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html)
 * [2023-11-28, 23:23:54](https://news.ycombinator.com/item?id=38453047) - [Show HN: Dobb·E – towards home robots with an open-source platform](https://dobb-e.com/)
 * [2023-11-28, 22:37:48](https://news.ycombinator.com/item?id=38452443) - [Color: From Hexcodes to Eyeballs (2018)](https://jamie-wong.com/post/color/)
+* [2023-11-28, 20:23:14](https://news.ycombinator.com/item?id=38450760) - [Transistor first reported as \"little brain cell\"](https://www.biodigitaljazz.net/blog/littlebraincell.html)
 * [2023-11-28, 01:45:38](https://news.ycombinator.com/item?id=38441242) - [How Jensen Huang's Nvidia is powering the A.I. revolution](https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution)
 
 ## [Archives](archives/index.md)
