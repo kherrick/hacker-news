@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 15:06:51](https://news.ycombinator.com/item?id=38474364) - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
+* [2023-11-30, 15:02:29](https://news.ycombinator.com/item?id=38474319) - [Lenovo: \"Best Minecraft House Ideas\"](https://www.lenovo.com/us/en/glossary/best-minecraft-house-ideas/)
+* [2023-11-30, 14:52:41](https://news.ycombinator.com/item?id=38474213) - [The University of California has all but dropped carbon offsets](https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/)
+* [2023-11-30, 14:33:32](https://news.ycombinator.com/item?id=38473958) - [Israel is using AI to target civilians](https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/)
+* [2023-11-30, 14:32:15](https://news.ycombinator.com/item?id=38473942) - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 * [2023-11-30, 14:13:56](https://news.ycombinator.com/item?id=38473750) - [AI and the Rise of Mediocrity](https://time.com/6337835/ai-mediocrity-essay/)
 * [2023-11-30, 14:12:06](https://news.ycombinator.com/item?id=38473726) - [Edbrowse, a Command Line Editor Browser](https://edbrowse.org)
 * [2023-11-30, 14:11:12](https://news.ycombinator.com/item?id=38473715) - ['Weird Al' Roasts Spotify's Artist Payout System in Year-End Wrapped Video](https://www.rollingstone.com/music/music-news/weird-al-yankovic-spotify-wrapped-video-criticism-1234905887/)
