@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 14:17:13](https://news.ycombinator.com/item?id=38486907) - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
 * [2023-12-01, 13:43:26](https://news.ycombinator.com/item?id=38486539) - [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
 * [2023-12-01, 13:11:25](https://news.ycombinator.com/item?id=38486259) - [Buggy animation in Atlassian Bitbucket is wasting half a CPU core at all times](https://thehftguy.com/2023/11/21/buggy-animation-in-atlassian-bitbucket-is-wasting-half-a-cpu-core-at-all-times/)
 * [2023-12-01, 12:47:15](https://news.ycombinator.com/item?id=38486075) - [Chip machine maker ASML names Christophe Fouquet as new CEO](https://nltimes.nl/2023/11/30/chip-machine-maker-asml-names-christophe-fouquet-new-ceo)
@@ -21,7 +22,6 @@
 * [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
 * [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
-* [2023-11-30, 17:45:57](https://news.ycombinator.com/item?id=38476482) - [Animate Anyone: Image-to-video synthesis for character animation](https://humanaigc.github.io/animate-anyone/)
 * [2023-11-30, 16:55:23](https://news.ycombinator.com/item?id=38475804) - [The Intel 386 processor die: the clock circuit](https://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:35:24](https://news.ycombinator.com/item?id=38475545) - [Stanisław Lem's vision of artificial life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)

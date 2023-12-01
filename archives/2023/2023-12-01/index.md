@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 14:17:13](https://news.ycombinator.com/item?id=38486907) - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
 * [2023-12-01, 13:43:26](https://news.ycombinator.com/item?id=38486539) - [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
 * [2023-12-01, 13:11:25](https://news.ycombinator.com/item?id=38486259) - [Buggy animation in Atlassian Bitbucket is wasting half a CPU core at all times](https://thehftguy.com/2023/11/21/buggy-animation-in-atlassian-bitbucket-is-wasting-half-a-cpu-core-at-all-times/)
 * [2023-12-01, 12:47:15](https://news.ycombinator.com/item?id=38486075) - [Chip machine maker ASML names Christophe Fouquet as new CEO](https://nltimes.nl/2023/11/30/chip-machine-maker-asml-names-christophe-fouquet-new-ceo)
