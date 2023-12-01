@@ -22,6 +22,7 @@
 * [2023-12-01, 00:44:21](https://news.ycombinator.com/item?id=38481426) - [Music-Map – Find Similar Music](https://www.music-map.com)
 * [2023-12-01, 00:30:41](https://news.ycombinator.com/item?id=38481298) - [The Nineteenth-Century Banjo](https://daily.jstor.org/the-nineteenth-century-banjo/)
 * [2023-12-01, 00:26:06](https://news.ycombinator.com/item?id=38481258) - [Booking.com hackers increase attacks on customers](https://www.bbc.co.uk/news/technology-67583486)
+* [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
 * [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 16:55:23](https://news.ycombinator.com/item?id=38475804) - [The Intel 386 processor die: the clock circuit](https://www.righto.com/2023/11/intel-386-clock-circuit.html)
@@ -29,7 +30,6 @@
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)
 * [2023-11-30, 13:50:31](https://news.ycombinator.com/item?id=38473484) - [Shane MacGowan has died](https://www.bbc.com/news/entertainment-arts-67546785)
 * [2023-11-30, 10:19:57](https://news.ycombinator.com/item?id=38471815) - [Hyundai Uni Wheel electric drive system could revolutionize EV design](https://www.autoblog.com/2023/11/29/uni-wheel-hyundai-kia-electric-vehicle-design/)
-* [2023-11-29, 09:48:33](https://news.ycombinator.com/item?id=38457455) - [Beam Me Out of This Death Trap, Scotty (1980)](http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html)
 
 ## [Archives](archives/index.md)
 
