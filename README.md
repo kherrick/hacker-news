@@ -14,7 +14,6 @@
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 * [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
-* [2023-11-30, 18:25:44](https://news.ycombinator.com/item?id=38477057) - [You do need a technical co-founder [video]](https://www.ycombinator.com/blog/why-you-really-do-need-a-technical-co-founder/)
 * [2023-11-30, 17:45:57](https://news.ycombinator.com/item?id=38476482) - [Animate Anyone: Image-to-video synthesis for character animation](https://humanaigc.github.io/animate-anyone/)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 * [2023-11-30, 17:00:07](https://news.ycombinator.com/item?id=38475864) - [Joon (YC W22) is hiring a founder growth hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
@@ -29,6 +28,7 @@
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [Why I always hit the crosswalk button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
+* [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [Schoenberg: Why He Matters](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
 * [2023-11-29, 09:48:33](https://news.ycombinator.com/item?id=38457455) - [Beam Me Out of This Death Trap, Scotty (1980)](http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html)
 
 ## [Archives](archives/index.md)
