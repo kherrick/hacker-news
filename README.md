@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 17:33:32](https://news.ycombinator.com/item?id=38489489) - [Bank boss hated IT, loved the beach, was clueless about ports and politeness](https://www.theregister.com/2023/12/01/on_call/)
 * [2023-12-01, 17:20:02](https://news.ycombinator.com/item?id=38489313) - [Billionaires amass more through inheritance than wealth creation, says UBS](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [SQLSync – Stop Building Databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
 * [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
 * [2023-12-01, 15:31:12](https://news.ycombinator.com/item?id=38487881) - [The Drums of War Are Growing Louder in South America](https://www.nakedcapitalism.com/2023/12/the-drums-of-war-are-growing-louder-in-south-america.html)
-* [2023-12-01, 15:27:14](https://news.ycombinator.com/item?id=38487823) - [Apple's chip lab, home to the most 'profound change' in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
 * [2023-12-01, 15:09:33](https://news.ycombinator.com/item?id=38487587) - [Show HN: Generate a video to animate stars of any GitHub repository](https://scastiel.dev/github-stars?ref=hn)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
