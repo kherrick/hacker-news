@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 18:26:03](https://news.ycombinator.com/item?id=38490314) - [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
 * [2023-12-01, 18:13:08](https://news.ycombinator.com/item?id=38490112) - [How China is tearing down Islam – FT](http://webcache.googleusercontent.com/search?q=cache:https://ig.ft.com/china-mosques/)
 * [2023-12-01, 17:36:50](https://news.ycombinator.com/item?id=38489533) - [Llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything)
 * [2023-12-01, 17:33:32](https://news.ycombinator.com/item?id=38489489) - [Bank boss hated IT, loved the beach, was clueless about ports and politeness](https://www.theregister.com/2023/12/01/on_call/)
