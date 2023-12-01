@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 17:20:02](https://news.ycombinator.com/item?id=38489313) - [Billionaires amass more through inheritance than wealth creation, says UBS](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4)
+* [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [SQLSync – Stop Building Databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
 * [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
 * [2023-12-01, 15:31:12](https://news.ycombinator.com/item?id=38487881) - [The Drums of War Are Growing Louder in South America](https://www.nakedcapitalism.com/2023/12/the-drums-of-war-are-growing-louder-in-south-america.html)
