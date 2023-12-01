@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 13:11:25](https://news.ycombinator.com/item?id=38486259) - [Buggy animation in Atlassian Bitbucket is wasting half a CPU core at all times](https://thehftguy.com/2023/11/21/buggy-animation-in-atlassian-bitbucket-is-wasting-half-a-cpu-core-at-all-times/)
 * [2023-12-01, 12:47:15](https://news.ycombinator.com/item?id=38486075) - [Chip machine maker ASML names Christophe Fouquet as new CEO](https://nltimes.nl/2023/11/30/chip-machine-maker-asml-names-christophe-fouquet-new-ceo)
 * [2023-12-01, 12:28:18](https://news.ycombinator.com/item?id=38485958) - [Exactly How Much Life Is on Earth?](https://www.nytimes.com/2023/12/01/science/space/earth-biology-life.html)
 * [2023-12-01, 12:25:33](https://news.ycombinator.com/item?id=38485939) - [As We May Toast](https://kevinlynagh.com/newsletter/2023_04_as_we_may_toast/)
