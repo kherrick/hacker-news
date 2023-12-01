@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 12:47:15](https://news.ycombinator.com/item?id=38486075) - [Chip machine maker ASML names Christophe Fouquet as new CEO](https://nltimes.nl/2023/11/30/chip-machine-maker-asml-names-christophe-fouquet-new-ceo)
 * [2023-12-01, 12:28:18](https://news.ycombinator.com/item?id=38485958) - [Exactly How Much Life Is on Earth?](https://www.nytimes.com/2023/12/01/science/space/earth-biology-life.html)
 * [2023-12-01, 12:25:33](https://news.ycombinator.com/item?id=38485939) - [As We May Toast](https://kevinlynagh.com/newsletter/2023_04_as_we_may_toast/)
 * [2023-12-01, 11:31:23](https://news.ycombinator.com/item?id=38485614) - [Penguin survives on 4-second microsleeps – times a day](https://www.nature.com/articles/d41586-023-03751-7)
@@ -18,8 +19,10 @@
 * [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
 * [2023-12-01, 05:43:39](https://news.ycombinator.com/item?id=38483572) - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
 * [2023-12-01, 05:04:30](https://news.ycombinator.com/item?id=38483353) - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
+* [2023-12-01, 04:50:39](https://news.ycombinator.com/item?id=38483271) - [Advent of Code 2023 is nigh](https://adventofcode.com/2023/)
 * [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 03:22:38](https://news.ycombinator.com/item?id=38482724) - [Users are massively giving their 1-star reviews to AdBlocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
+* [2023-12-01, 03:06:33](https://news.ycombinator.com/item?id=38482582) - [Like Oil Leads to Global Warming, Data Leads to Social Cooling](https://www.socialcooling.com/)
 * [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 * [2023-12-01, 02:02:25](https://news.ycombinator.com/item?id=38482085) - [A reality bending mistake in Apple's computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
