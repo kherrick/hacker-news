@@ -58,6 +58,7 @@
 * [2023-12-01, 10:11:29](https://news.ycombinator.com/item?id=38485137) - [China is building nuclear reactors faster than any other country](https://www.economist.com/china/2023/11/30/china-is-building-nuclear-reactors-faster-than-any-other-country)
 * [2023-12-01, 10:01:08](https://news.ycombinator.com/item?id=38485073) - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
 * [2023-12-01, 09:01:53](https://news.ycombinator.com/item?id=38484705) - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
+* [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
 * [2023-12-01, 08:40:47](https://news.ycombinator.com/item?id=38484567) - [What if mass storage were free? – George Copeland (1980) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800083.802685)
 * [2023-12-01, 08:31:49](https://news.ycombinator.com/item?id=38484506) - [Brazilian city enacts an ordinance that was written by ChatGPT](https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4)
 * [2023-12-01, 08:26:18](https://news.ycombinator.com/item?id=38484463) - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
