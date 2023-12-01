@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 09:01:53](https://news.ycombinator.com/item?id=38484705) - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
 * [2023-12-01, 08:31:49](https://news.ycombinator.com/item?id=38484506) - [Brazilian city enacts an ordinance that was written by ChatGPT](https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4)
 * [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
 * [2023-12-01, 05:43:39](https://news.ycombinator.com/item?id=38483572) - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)

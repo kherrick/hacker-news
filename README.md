@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 09:01:53](https://news.ycombinator.com/item?id=38484705) - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
 * [2023-12-01, 08:31:49](https://news.ycombinator.com/item?id=38484506) - [Brazilian city enacts an ordinance that was written by ChatGPT](https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4)
 * [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
 * [2023-12-01, 05:43:39](https://news.ycombinator.com/item?id=38483572) - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
@@ -15,7 +16,6 @@
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-11-30, 17:45:57](https://news.ycombinator.com/item?id=38476482) - [Animate Anyone: Image-to-video synthesis for character animation](https://humanaigc.github.io/animate-anyone/)
-* [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 * [2023-11-30, 16:55:23](https://news.ycombinator.com/item?id=38475804) - [The Intel 386 processor die: the clock circuit](https://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:35:24](https://news.ycombinator.com/item?id=38475545) - [Stanisław Lem's vision of artificial life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 * [2023-11-30, 14:50:55](https://news.ycombinator.com/item?id=38474190) - [Show HN: Qdorks.com – Advanced Google search query composer](https://qdorks.com/composer)
@@ -29,7 +29,7 @@
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [Why I always hit the crosswalk button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
 * [2023-11-29, 09:48:33](https://news.ycombinator.com/item?id=38457455) - [Beam Me Out of This Death Trap, Scotty (1980)](http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html)
-* [2023-11-29, 07:20:00](https://news.ycombinator.com/item?id=38456522) - [Why is this artist teaching boston dynamics dogs to paint?](https://www.theguardian.com/artanddesign/2023/nov/27/robot-dogs-learning-to-paint-artist-agnieszka-pilat)
+* [2023-11-29, 07:20:00](https://news.ycombinator.com/item?id=38456522) - [Why is this artist teaching Boston Dynamics dogs to paint?](https://www.theguardian.com/artanddesign/2023/nov/27/robot-dogs-learning-to-paint-artist-agnieszka-pilat)
 
 ## [Archives](archives/index.md)
 
