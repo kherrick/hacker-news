@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 19:53:30](https://news.ycombinator.com/item?id=38491394) - [Who is responsible for grade inflation at Yale?](https://marginalrevolution.com/marginalrevolution/2023/12/who-is-responsible-for-grade-inflation-at-yale-economists-are-meanies.html)
 * [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American Climbers Solve the 'Last Great Problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
 * [2023-12-01, 19:47:56](https://news.ycombinator.com/item?id=38491314) - [OpenAI delays launch of custom GPT store until early 2024](https://www.axios.com/2023/12/01/openai-delays-launch-custom-gpt-store-2024)
 * [2023-12-01, 19:46:50](https://news.ycombinator.com/item?id=38491293) - [$500 a day to pretend to be a model: The big business behind OnlyFans 'chatters'](https://english.elpais.com/international/2023-11-23/500-a-day-to-pretend-to-be-a-model-the-big-business-behind-onlyfans-chatters.html)
@@ -29,7 +30,6 @@
 * [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
 * [2023-12-01, 03:00:05](https://news.ycombinator.com/item?id=38482517) - [ACSLogo for Mac OS X](https://www.alancsmith.co.uk/logo/)
-* [2023-11-30, 21:23:01](https://news.ycombinator.com/item?id=38479329) - [Acquia, my Drupal startup](https://dri.es/acquia-my-drupal-startup)
 
 ## [Archives](archives/index.md)
 
