@@ -64,6 +64,7 @@
 * [2023-11-30, 14:11:12](https://news.ycombinator.com/item?id=38473715) - ['Weird Al' Roasts Spotify's Artist Payout System in Year-End Wrapped Video](https://www.rollingstone.com/music/music-news/weird-al-yankovic-spotify-wrapped-video-criticism-1234905887/)
 * [2023-11-30, 14:01:39](https://news.ycombinator.com/item?id=38473615) - [Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
 * [2023-11-30, 14:00:48](https://news.ycombinator.com/item?id=38473608) - [Saving CO2 using location and time shifting in Azure](https://devblogs.microsoft.com/ise/2023/11/09/saving-co2-using-location-and-time-shifting-in-azure/)
+* [2023-11-30, 13:50:31](https://news.ycombinator.com/item?id=38473484) - [Shane MacGowan has died](https://www.bbc.com/news/entertainment-arts-67546785)
 * [2023-11-30, 12:59:17](https://news.ycombinator.com/item?id=38472921) - [Apple and Google avoid naming ChatGPT as their 'app of the year'](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
 * [2023-11-30, 12:21:51](https://news.ycombinator.com/item?id=38472611) - [Helen Toner resigned from the OpenAI board](https://twitter.com/hlntnr/status/1730034017435586920)
 * [2023-11-30, 12:13:58](https://news.ycombinator.com/item?id=38472552) - [Interview: Sam Altman on Being Fired and Rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired)
