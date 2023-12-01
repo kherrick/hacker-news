@@ -22,6 +22,7 @@
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)
 * [2023-11-30, 11:44:43](https://news.ycombinator.com/item?id=38472333) - [Show HN: Play a pen-and-paper game that is almost unknown in the US and Europe](https://www.paper-tactics.com)
 * [2023-11-30, 11:14:23](https://news.ycombinator.com/item?id=38472128) - [Can generalist foundation models beat special-purpose tuning?](https://arxiv.org/abs/2311.16452)
+* [2023-11-30, 11:13:51](https://news.ycombinator.com/item?id=38472124) - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496)
 * [2023-11-30, 07:47:58](https://news.ycombinator.com/item?id=38470832) - [Interview with Viktor Lofgren from Marginalia Search](https://nlnet.nl/news/2023/20231016-marginalia.html)
 * [2023-11-30, 07:35:17](https://news.ycombinator.com/item?id=38470764) - [Brickception](https://brickception.xyz/)
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
@@ -29,7 +30,6 @@
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [Why I always hit the crosswalk button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
 * [2023-11-29, 15:18:22](https://news.ycombinator.com/item?id=38460419) - [Season's Bleatings: Finnish Photographs of the Nuuttipukki (1928)](https://publicdomainreview.org/collection/nuuttipukki/)
 * [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [Schoenberg: Why He Matters](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
-* [2023-11-29, 11:42:56](https://news.ycombinator.com/item?id=38458233) - [Hybrid beamforming receiver dynamic range theory to practice](https://www.analog.com/en/technical-articles/hybrid-beamforming-receiver-dynamic-range.html)
 
 ## [Archives](archives/index.md)
 
