@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
 * [2023-12-01, 17:33:32](https://news.ycombinator.com/item?id=38489489) - [Bank boss hated IT, loved the beach, was clueless about ports and politeness](https://www.theregister.com/2023/12/01/on_call/)
+* [2023-12-01, 17:33:25](https://news.ycombinator.com/item?id=38489485) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
 * [2023-12-01, 17:20:02](https://news.ycombinator.com/item?id=38489313) - [Billionaires amass more through inheritance than wealth creation, says UBS](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [SQLSync – Stop Building Databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
