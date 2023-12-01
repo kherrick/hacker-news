@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 14:47:29](https://news.ycombinator.com/item?id=38487266) - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
 * [2023-12-01, 14:17:13](https://news.ycombinator.com/item?id=38486907) - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
 * [2023-12-01, 13:43:26](https://news.ycombinator.com/item?id=38486539) - [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
 * [2023-12-01, 13:11:25](https://news.ycombinator.com/item?id=38486259) - [Buggy animation in Atlassian Bitbucket is wasting half a CPU core at all times](https://thehftguy.com/2023/11/21/buggy-animation-in-atlassian-bitbucket-is-wasting-half-a-cpu-core-at-all-times/)
+* [2023-12-01, 13:00:53](https://news.ycombinator.com/item?id=38486177) - [Is the Turing Test Dead?](https://spectrum.ieee.org/turing-test)
 * [2023-12-01, 12:47:15](https://news.ycombinator.com/item?id=38486075) - [Chip machine maker ASML names Christophe Fouquet as new CEO](https://nltimes.nl/2023/11/30/chip-machine-maker-asml-names-christophe-fouquet-new-ceo)
 * [2023-12-01, 12:28:18](https://news.ycombinator.com/item?id=38485958) - [Exactly How Much Life Is on Earth?](https://www.nytimes.com/2023/12/01/science/space/earth-biology-life.html)
 * [2023-12-01, 12:25:33](https://news.ycombinator.com/item?id=38485939) - [As We May Toast](https://kevinlynagh.com/newsletter/2023_04_as_we_may_toast/)
@@ -34,5 +36,6 @@
 * [2023-12-01, 01:49:36](https://news.ycombinator.com/item?id=38481970) - [ChatGPT's 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
 * [2023-12-01, 01:34:52](https://news.ycombinator.com/item?id=38481859) - [Java 8 still widely used](https://www.jetbrains.com/lp/devecosystem-2023/java/)
 * [2023-12-01, 00:44:21](https://news.ycombinator.com/item?id=38481426) - [Music-Map – Find Similar Music](https://www.music-map.com)
+* [2023-12-01, 00:30:41](https://news.ycombinator.com/item?id=38481298) - [The Nineteenth-Century Banjo](https://daily.jstor.org/the-nineteenth-century-banjo/)
 * [2023-12-01, 00:26:06](https://news.ycombinator.com/item?id=38481258) - [Booking.com hackers increase attacks on customers](https://www.bbc.co.uk/news/technology-67583486)
 * [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
