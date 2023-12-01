@@ -6,6 +6,7 @@
 
 * [2023-12-01, 17:33:32](https://news.ycombinator.com/item?id=38489489) - [Bank boss hated IT, loved the beach, was clueless about ports and politeness](https://www.theregister.com/2023/12/01/on_call/)
 * [2023-12-01, 17:33:25](https://news.ycombinator.com/item?id=38489485) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
+* [2023-12-01, 17:25:09](https://news.ycombinator.com/item?id=38489378) - [500 Highest Paying Tech Companies (Dec 2023)](https://github.com/miketromba/highest-paying-software-companies)
 * [2023-12-01, 17:20:02](https://news.ycombinator.com/item?id=38489313) - [Billionaires amass more through inheritance than wealth creation, says UBS](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [SQLSync – Stop Building Databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
@@ -43,6 +44,7 @@
 * [2023-12-01, 05:02:20](https://news.ycombinator.com/item?id=38483343) - [James-Lange Theory](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory)
 * [2023-12-01, 04:50:39](https://news.ycombinator.com/item?id=38483271) - [Advent of Code 2023 is nigh](https://adventofcode.com/2023/)
 * [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+* [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
 * [2023-12-01, 03:22:38](https://news.ycombinator.com/item?id=38482724) - [Users are massively giving their 1-star reviews to AdBlocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
 * [2023-12-01, 03:06:33](https://news.ycombinator.com/item?id=38482582) - [Like Oil Leads to Global Warming, Data Leads to Social Cooling](https://www.socialcooling.com/)
 * [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
