@@ -129,6 +129,84 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="38483650">
+          <h3>
+            <a class="item" href="https://search.acousticobservatory.org/"
+              >Show HN: Australian Acoustic Observatory Search</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-01 @ 05:57:47</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38483650"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://acousticobservatory.org/"
+                >https://acousticobservatory.org/</a
+              >) has 360 microphones across the continent, and over 2 million
+              hours of audio. However, none of it is labeled: We want to make
+              this enormous repository useful to researchers. We have found that
+              researchers are often looking for 'hard' signals - specific
+              call-types, birds with very little available training data, and so
+              on. So we built an acoustic-similarity search tool, allowing
+              researchers to provide an example of what they're looking for,
+              which we then match against embeddings from the A2O dataset.
+              <p>Here's some fun examples!</p>
+              <p>
+                Laughing Kookaburra: &lt;<a
+                  href="https://search.acousticobservatory.org/search/index.html?q=https://api.search.acousticobservatory.org/api/v1/a2o/audio_recordings/download/flac/372176?start_offset%3D25%26end_offset%3D30"
+                  >https://search.acousticobservatory.org/search/index.html?q=h...</a
+                >&gt;
+              </p>
+              <p>
+                Pacific Koel: &lt;<a
+                  href="https://search.acousticobservatory.org/search/index.html?q=https://api.search.acousticobservatory.org/api/v1/a2o/audio_recordings/download/flac/288576?start_offset%3D15%26end_offset%3D20"
+                  >https://search.acousticobservatory.org/search/index.html?q=h...</a
+                >&gt;
+              </p>
+              <p>
+                Chiming Wedgebill: &lt;<a
+                  href="https://search.acousticobservatory.org/search/index.html?q=https://api.search.acousticobservatory.org/api/v1/a2o/audio_recordings/download/flac/387006?start_offset%3D0%26end_offset%3D5"
+                  >https://search.acousticobservatory.org/search/index.html?q=h...</a
+                >&gt;
+              </p>
+              <p>
+                How it works, in a nutshell: We use audio source separation
+                (&lt;<a
+                  href="https://blog.research.google/2022/01/separating-birdsong-in-wild-for.html"
+                  >https://blog.research.google/2022/01/separating-birdsong-in-...</a
+                >&gt;) to pull apart the A2O data, and then run an embedding
+                model (&lt;<a href="https://arxiv.org/abs/2307.06292"
+                  >https://arxiv.org/abs/2307.06292</a
+                >&gt;) on each channel of the separated audio to produce a
+                'fingerprint' of the sound. All of this is put in a vector
+                database with a link back to the original audio. When someone
+                performs a search, we embed their audio, and then match against
+                all of the embeddings in the vector database.
+              </p>
+              <p>
+                Right now, about 1% of the A2O data is indexed (the first minute
+                of every recording, evenly sampled across the day). We're
+                looking to get initial feedback and will then continue to
+                iterate and expand coverage.
+              </p>
+              <p>
+                (Oh, and here's a bit of further reading:
+                <a
+                  href="https://blog.google/intl/en-au/company-news/technology/ai-ecoacoustics/"
+                  >https://blog.google/intl/en-au/company-news/technology/ai-ec...</a
+                >
+                )
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="38483353">
           <h3>
             <a class="item" href="https://www.anduril.com/roadrunner/"
@@ -139,11 +217,11 @@
             <h4>
               <span>2023-12-01 @ 05:04:30</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38483353"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -160,11 +238,11 @@
             <h4>
               <span>2023-12-01 @ 04:37:22</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38483181"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -180,7 +258,7 @@
             <h4>
               <span>2023-12-01 @ 02:56:14</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38482486"
                   >Comments</a
@@ -201,11 +279,11 @@
             <h4>
               <span>2023-12-01 @ 02:02:25</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38482085"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -220,7 +298,7 @@
             <h4>
               <span>2023-12-01 @ 01:53:45</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38482007"
                   >Comments</a
@@ -240,11 +318,11 @@
             <h4>
               <span>2023-12-01 @ 01:49:36</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38481970"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -259,11 +337,11 @@
             <h4>
               <span>2023-12-01 @ 00:44:21</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38481426"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -300,11 +378,11 @@
             <h4>
               <span>2023-11-30 @ 23:28:42</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38480748"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -319,11 +397,11 @@
             <h4>
               <span>2023-11-30 @ 20:57:29</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38478964"
                   >Comments</a
-                ><span class="descendants">: 733</span></span
+                ><span class="descendants">: 738</span></span
               >
             </h4>
           </section>
@@ -359,11 +437,11 @@
             <h4>
               <span>2023-11-30 @ 19:08:48</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">233</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38477688"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -379,11 +457,11 @@
             <h4>
               <span>2023-11-30 @ 18:39:47</span
               ><span class="points-container"
-                >Points: <span class="points">547</span></span
+                >Points: <span class="points">551</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38477259"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -400,7 +478,7 @@
             <h4>
               <span>2023-11-30 @ 18:35:00</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38477197"
                   >Comments</a
@@ -421,7 +499,7 @@
             <h4>
               <span>2023-11-30 @ 18:29:01</span
               ><span class="points-container"
-                >Points: <span class="points">447</span></span
+                >Points: <span class="points">450</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38477100"
                   >Comments</a
@@ -441,7 +519,7 @@
             <h4>
               <span>2023-11-30 @ 17:45:57</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38476482"
                   >Comments</a
@@ -462,28 +540,11 @@
             <h4>
               <span>2023-11-30 @ 17:05:48</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38475926"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38475864">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager"
-              >Joon (YC W22) is hiring a founder growth hacker</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-30 @ 17:00:07</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 158</span></span
               >
             </h4>
           </section>
@@ -521,32 +582,11 @@
             <h4>
               <span>2023-11-30 @ 16:35:24</span
               ><span class="points-container"
-                >Points: <span class="points">365</span></span
+                >Points: <span class="points">369</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38475545"
                   >Comments</a
                 ><span class="descendants">: 137</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38474364">
-          <h3>
-            <a
-              class="item"
-              href="https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/"
-              >Astronomers find six planets orbiting in resonance</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-11-30 @ 15:06:51</span
-              ><span class="points-container"
-                >Points: <span class="points">176</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38474364"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -561,11 +601,11 @@
             <h4>
               <span>2023-11-30 @ 14:50:55</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38474190"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
             <div class="text">
@@ -605,7 +645,7 @@
             <h4>
               <span>2023-11-30 @ 14:13:25</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38473743"
                   >Comments</a
@@ -672,7 +712,7 @@
             <h4>
               <span>2023-11-30 @ 11:44:43</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38472333"
                   >Comments</a
@@ -694,11 +734,11 @@
             <h4>
               <span>2023-11-30 @ 10:19:57</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38471815"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -715,7 +755,7 @@
             <h4>
               <span>2023-11-30 @ 07:47:58</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38470832"
                   >Comments</a
@@ -736,7 +776,7 @@
             <h4>
               <span>2023-11-30 @ 06:27:49</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38470355"
                   >Comments</a
@@ -766,6 +806,28 @@
             </h4>
           </section>
         </section>
+        <section id="38462892">
+          <h3>
+            <a
+              class="item"
+              href="https://apps.dtic.mil/sti/tr/pdf/ADA260260.pdf"
+              >Systematic Analysis of Complex Dynamic Systems: The Case of the
+              USS Vincennes [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-11-29 @ 18:11:26</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38462892"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="38461726">
           <h3>
             <a
@@ -782,7 +844,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38461726"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -799,7 +861,7 @@
             <h4>
               <span>2023-11-29 @ 09:48:33</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38457455"
                   >Comments</a
