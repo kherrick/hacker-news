@@ -7,7 +7,7 @@
 * [2023-12-01, 20:55:10](https://news.ycombinator.com/item?id=38492236) - [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
 * [2023-12-01, 20:24:37](https://news.ycombinator.com/item?id=38491826) - [Cocoa harvested by kids as young as 5 in Ghana: CBS News investigation](https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/)
 * [2023-12-01, 19:55:21](https://news.ycombinator.com/item?id=38491424) - [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
-* [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American Climbers Solve the 'Last Great Problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
+* [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American climbers solve the 'last great problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
 * [2023-12-01, 19:47:56](https://news.ycombinator.com/item?id=38491314) - [OpenAI delays launch of custom GPT store until early 2024](https://www.axios.com/2023/12/01/openai-delays-launch-custom-gpt-store-2024)
 * [2023-12-01, 19:42:57](https://news.ycombinator.com/item?id=38491251) - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 * [2023-12-01, 19:42:44](https://news.ycombinator.com/item?id=38491246) - [The future of air defense must be smarter, more affordable, and reusable](https://www.anduril.com/article/the-future-of-air-defense/)
