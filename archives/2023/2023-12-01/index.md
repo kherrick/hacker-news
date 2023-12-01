@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
+* [2023-12-01, 18:46:57](https://news.ycombinator.com/item?id=38490575) - [Cloudflare Gen 12 Server: Bigger, Better, Cooler in a 2U1N Form Factor](https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/)
 * [2023-12-01, 18:26:03](https://news.ycombinator.com/item?id=38490314) - [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
 * [2023-12-01, 18:13:08](https://news.ycombinator.com/item?id=38490112) - [How China is tearing down Islam – FT](http://webcache.googleusercontent.com/search?q=cache:https://ig.ft.com/china-mosques/)
 * [2023-12-01, 17:36:50](https://news.ycombinator.com/item?id=38489533) - [Llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything)
@@ -51,6 +53,7 @@
 * [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
 * [2023-12-01, 03:22:38](https://news.ycombinator.com/item?id=38482724) - [Users are massively giving their 1-star reviews to AdBlocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
 * [2023-12-01, 03:06:33](https://news.ycombinator.com/item?id=38482582) - [Like Oil Leads to Global Warming, Data Leads to Social Cooling](https://www.socialcooling.com/)
+* [2023-12-01, 03:00:05](https://news.ycombinator.com/item?id=38482517) - [ACSLogo for Mac OS X](https://www.alancsmith.co.uk/logo/)
 * [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 * [2023-12-01, 02:02:25](https://news.ycombinator.com/item?id=38482085) - [A reality bending mistake in Apple's computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
