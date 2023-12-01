@@ -60,6 +60,7 @@
 * [2023-11-28, 16:27:43](https://news.ycombinator.com/item?id=38447491) - [FDA agrees Loyal's data supports effectiveness for large dog lifespan extension](https://loyalfordogs.com/posts/loyal-announces-historic-fda-milestone-for-large-dog-lifespan-extension-drug)
 * [2023-11-28, 16:16:19](https://news.ycombinator.com/item?id=38447338) - [Relational Deep Learning: Graph Representation Learning on Relational Databases [pdf]](https://relbench.stanford.edu/paper.pdf)
 * [2023-11-28, 16:08:28](https://news.ycombinator.com/item?id=38447238) - [Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
+* [2023-11-28, 15:54:50](https://news.ycombinator.com/item?id=38447049) - [The Program audio series, 4 years after launching on HN](https://programaudioseries.com/the-program-results-5/)
 * [2023-11-28, 15:47:19](https://news.ycombinator.com/item?id=38446957) - [Nvidia's earnings are up 206% from last year as it continues riding the AI wave](https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/)
 * [2023-11-28, 15:43:35](https://news.ycombinator.com/item?id=38446901) - [World Appears on Track to Triple Renewable Power by 2030](https://e360.yale.edu/digest/un-climate-negotiations-triple-renewable-energy)
 * [2023-11-28, 15:05:07](https://news.ycombinator.com/item?id=38446476) - [Google's new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)
