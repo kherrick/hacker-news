@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 11:31:23](https://news.ycombinator.com/item?id=38485614) - [Penguin survives on 4-second microsleeps – times a day](https://www.nature.com/articles/d41586-023-03751-7)
+* [2023-12-01, 11:29:23](https://news.ycombinator.com/item?id=38485596) - [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 * [2023-12-01, 11:23:29](https://news.ycombinator.com/item?id=38485562) - [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
 * [2023-12-01, 10:37:00](https://news.ycombinator.com/item?id=38485295) - [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-12-01, 10:01:08](https://news.ycombinator.com/item?id=38485073) - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
@@ -12,10 +14,8 @@
 * [2023-12-01, 01:49:36](https://news.ycombinator.com/item?id=38481970) - [Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
 * [2023-12-01, 00:44:21](https://news.ycombinator.com/item?id=38481426) - [Music-Map – Find Similar Music](https://www.music-map.com)
 * [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
-* [2023-11-30, 20:50:36](https://news.ycombinator.com/item?id=38478866) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
-* [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 * [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-11-30, 17:45:57](https://news.ycombinator.com/item?id=38476482) - [Animate Anyone: Image-to-video synthesis for character animation](https://humanaigc.github.io/animate-anyone/)
 * [2023-11-30, 16:55:23](https://news.ycombinator.com/item?id=38475804) - [The Intel 386 processor die: the clock circuit](https://www.righto.com/2023/11/intel-386-clock-circuit.html)

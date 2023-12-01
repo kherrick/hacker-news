@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 11:31:23](https://news.ycombinator.com/item?id=38485614) - [Penguin survives on 4-second microsleeps – times a day](https://www.nature.com/articles/d41586-023-03751-7)
+* [2023-12-01, 11:29:23](https://news.ycombinator.com/item?id=38485596) - [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 * [2023-12-01, 11:23:29](https://news.ycombinator.com/item?id=38485562) - [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
 * [2023-12-01, 10:39:02](https://news.ycombinator.com/item?id=38485309) - [9Front's 'Humanbiologics' is out: Unix 2.0 programmers still busy bunnies](https://www.theregister.com/2023/12/01/9front_humanbiologics/)
 * [2023-12-01, 10:37:00](https://news.ycombinator.com/item?id=38485295) - [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
