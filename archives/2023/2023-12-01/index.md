@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 19:42:57](https://news.ycombinator.com/item?id=38491251) - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+* [2023-12-01, 19:40:06](https://news.ycombinator.com/item?id=38491215) - [Google Cloud causes another outage for customer that got ratelimited erroneously](https://twitter.com/gergelyorosz/status/1730648618401481019)
 * [2023-12-01, 19:29:50](https://news.ycombinator.com/item?id=38491088) - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
 * [2023-12-01, 19:24:51](https://news.ycombinator.com/item?id=38491028) - [Automakers must build cheaper, smaller EVs to spur adoption, report says](https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/)
+* [2023-12-01, 19:18:35](https://news.ycombinator.com/item?id=38490946) - [People are realizing that the Arsenal of Democracy is gone](https://www.noahpinion.blog/p/people-are-realizing-that-the-arsenal)
 * [2023-12-01, 19:13:20](https://news.ycombinator.com/item?id=38490887) - [Income by Zip, Population by City, Home Ownership Stats – ACS Data from Cybersyn](https://app.snowflake.com/marketplace/listing/GZTSZAS2KGK)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490810) - [Ask HN: Freelancer? Seeking freelancer? (December 2023)](https://news.ycombinator.com/item?id=38490810)

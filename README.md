@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 19:42:57](https://news.ycombinator.com/item?id=38491251) - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+* [2023-12-01, 19:40:06](https://news.ycombinator.com/item?id=38491215) - [Google Cloud causes another outage for customer that got ratelimited erroneously](https://twitter.com/gergelyorosz/status/1730648618401481019)
 * [2023-12-01, 19:29:50](https://news.ycombinator.com/item?id=38491088) - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
 * [2023-12-01, 19:24:51](https://news.ycombinator.com/item?id=38491028) - [Automakers must build cheaper, smaller EVs to spur adoption, report says](https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/)
+* [2023-12-01, 19:18:35](https://news.ycombinator.com/item?id=38490946) - [People are realizing that the Arsenal of Democracy is gone](https://www.noahpinion.blog/p/people-are-realizing-that-the-arsenal)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490810) - [Ask HN: Freelancer? Seeking freelancer? (December 2023)](https://news.ycombinator.com/item?id=38490810)
-* [2023-12-01, 19:07:01](https://news.ycombinator.com/item?id=38490809) - [Ask HN: Who wants to be hired? (December 2023)](https://news.ycombinator.com/item?id=38490809)
 * [2023-12-01, 18:46:57](https://news.ycombinator.com/item?id=38490575) - [Cloudflare Gen 12 Server: Bigger, Better, Cooler in a 2U1N Form Factor](https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/)
 * [2023-12-01, 18:26:03](https://news.ycombinator.com/item?id=38490314) - [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
 * [2023-12-01, 17:36:50](https://news.ycombinator.com/item?id=38489533) - [Llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything)
@@ -21,7 +23,6 @@
 * [2023-12-01, 13:26:40](https://news.ycombinator.com/item?id=38486394) - [The Inside Story of Microsoft's Partnership with OpenAI](https://www.newyorker.com/magazine/2023/12/11/the-inside-story-of-microsofts-partnership-with-openai)
 * [2023-12-01, 11:29:23](https://news.ycombinator.com/item?id=38485596) - [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 * [2023-12-01, 10:37:00](https://news.ycombinator.com/item?id=38485295) - [HTML hacks that shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
-* [2023-12-01, 08:26:18](https://news.ycombinator.com/item?id=38484463) - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
 * [2023-12-01, 05:48:10](https://news.ycombinator.com/item?id=38483597) - [Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
 * [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
@@ -29,7 +30,6 @@
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 * [2023-12-01, 00:30:41](https://news.ycombinator.com/item?id=38481298) - [The Nineteenth-Century Banjo](https://daily.jstor.org/the-nineteenth-century-banjo/)
 * [2023-11-30, 21:23:01](https://news.ycombinator.com/item?id=38479329) - [Acquia, my Drupal startup](https://dri.es/acquia-my-drupal-startup)
-* [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
 
 ## [Archives](archives/index.md)
 
