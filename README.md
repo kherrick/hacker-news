@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 * [2023-12-01, 02:02:25](https://news.ycombinator.com/item?id=38482085) - [A reality bending mistake in Apple's computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 * [2023-12-01, 01:49:36](https://news.ycombinator.com/item?id=38481970) - [ChatGPT's 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
@@ -24,7 +25,6 @@
 * [2023-11-30, 14:32:15](https://news.ycombinator.com/item?id=38473942) - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)
 * [2023-11-30, 11:44:43](https://news.ycombinator.com/item?id=38472333) - [Show HN: Play a pen-and-paper game that is almost unknown in the US and Europe](https://www.paper-tactics.com)
-* [2023-11-30, 11:13:51](https://news.ycombinator.com/item?id=38472124) - [In OpenZFS and Btrfs, everyone was just guessing](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496)
 * [2023-11-30, 07:47:58](https://news.ycombinator.com/item?id=38470832) - [Interview with Viktor Lofgren from Marginalia Search](https://nlnet.nl/news/2023/20231016-marginalia.html)
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)
