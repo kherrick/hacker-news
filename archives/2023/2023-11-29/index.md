@@ -94,6 +94,7 @@
 * [2023-11-29, 10:34:36](https://news.ycombinator.com/item?id=38457765) - [Backlash over fake female speakers shuts down developer conference](https://arstechnica.com/tech-policy/2023/11/backlash-over-fake-female-speakers-shuts-down-developer-conference/)
 * [2023-11-29, 10:13:10](https://news.ycombinator.com/item?id=38457619) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-29, 10:04:26](https://news.ycombinator.com/item?id=38457556) - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
+* [2023-11-29, 09:48:33](https://news.ycombinator.com/item?id=38457455) - [Beam Me Out of This Death Trap, Scotty (1980)](http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html)
 * [2023-11-29, 09:18:32](https://news.ycombinator.com/item?id=38457247) - [Rust std fs slower than Python](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 * [2023-11-29, 08:57:37](https://news.ycombinator.com/item?id=38457125) - [One of the greatest user interface disasters in history](https://octodon.social/@jalefkowit/111490485825183949)
 * [2023-11-29, 08:57:28](https://news.ycombinator.com/item?id=38457124) - [In 1903, NY Times predicted airplanes would take 10M years to develop](https://bigthink.com/pessimists-archive/air-space-flight-impossible/)
