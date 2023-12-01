@@ -2,7 +2,8 @@
 
 * [2023-12-01, 22:19:50](https://news.ycombinator.com/item?id=38493299) - [Parrots learn to make video calls to chat with other parrots: study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-12-01, 22:02:11](https://news.ycombinator.com/item?id=38493105) - [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
-* [2023-12-01, 21:59:11](https://news.ycombinator.com/item?id=38493069) - [Members of the OpenAI board had found Altman an unnervingly slippery operator](https://twitter.com/GaryMarcus/status/1730685674708201880)
+* [2023-12-01, 21:50:36](https://news.ycombinator.com/item?id=38492968) - [Paraguay official resigns after signing agreement with fictional country](https://www.theguardian.com/world/2023/nov/30/paraguay-official-resigns-agreement-fictional-country)
+* [2023-12-01, 21:32:54](https://news.ycombinator.com/item?id=38492747) - [Playstation removing previously purchased Discovery content](https://www.playstation.com/en-us/legal/psvideocontent/)
 * [2023-12-01, 21:25:36](https://news.ycombinator.com/item?id=38492652) - [80% faster, 50% less memory, 0% accuracy loss Llama finetuning](https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/)
 * [2023-12-01, 20:55:10](https://news.ycombinator.com/item?id=38492236) - [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
 * [2023-12-01, 20:24:37](https://news.ycombinator.com/item?id=38491826) - [Cocoa harvested by kids as young as 5 in Ghana: CBS News investigation](https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/)
@@ -14,7 +15,6 @@
 * [2023-12-01, 19:29:50](https://news.ycombinator.com/item?id=38491088) - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
 * [2023-12-01, 19:07:01](https://news.ycombinator.com/item?id=38490809) - [Ask HN: Who wants to be hired? (December 2023)](https://news.ycombinator.com/item?id=38490809)
-* [2023-12-01, 17:33:25](https://news.ycombinator.com/item?id=38489485) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
 * [2023-12-01, 17:22:01](https://news.ycombinator.com/item?id=38489340) - [Onyx, a new programming language powered by WebAssembly](https://wasmer.io/posts/onyxlang-powered-by-wasmer)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
