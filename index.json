@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-12-01, 17:36:50",
+      "https://news.ycombinator.com/item?id=38489533"
+    ],
+    [
+      "Llamafile is the new best way to run a LLM on your own computer",
+      "http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 17:33:25",
       "https://news.ycombinator.com/item?id=38489485"
     ],
@@ -147,6 +157,16 @@
     [
       "Star neuroscientist may have manipulated data to support a major stroke trial",
       "https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say"
+    ]
+  ],
+  [
+    [
+      "2023-12-01, 13:26:40",
+      "https://news.ycombinator.com/item?id=38486394"
+    ],
+    [
+      "The Inside Story of Microsoft's Partnership with OpenAI",
+      "https://www.newyorker.com/magazine/2023/12/11/the-inside-story-of-microsofts-partnership-with-openai"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-12-01, 00:26:06",
-      "https://news.ycombinator.com/item?id=38481258"
-    ],
-    [
-      "Booking.com hackers increase attacks on customers",
-      "https://www.bbc.co.uk/news/technology-67583486"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 21:23:01",
       "https://news.ycombinator.com/item?id=38479329"
     ],
@@ -287,16 +297,6 @@
     [
       "Visual Anagrams: Generating optical illusions with diffusion models",
       "https://dangeng.github.io/visual_anagrams/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 14:13:25",
-      "https://news.ycombinator.com/item?id=38473743"
-    ],
-    [
-      "Show HN: Bi-directional sync between Postgres and SQLite",
-      "https://powersync.com"
     ]
   ]
 ]
