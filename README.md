@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-01, 02:02:25](https://news.ycombinator.com/item?id=38482085) - [A reality bending mistake in Apple's computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
+* [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 * [2023-12-01, 01:49:36](https://news.ycombinator.com/item?id=38481970) - [ChatGPT's 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
 * [2023-12-01, 01:34:52](https://news.ycombinator.com/item?id=38481859) - [Java 8 still widely used](https://www.jetbrains.com/lp/devecosystem-2023/java/)
 * [2023-12-01, 00:44:21](https://news.ycombinator.com/item?id=38481426) - [Music-Map – Find Similar Music](https://www.music-map.com)
@@ -27,7 +28,6 @@
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [Why I always hit the crosswalk button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
-* [2023-11-29, 15:18:22](https://news.ycombinator.com/item?id=38460419) - [Season's Bleatings: Finnish Photographs of the Nuuttipukki (1928)](https://publicdomainreview.org/collection/nuuttipukki/)
 * [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [Schoenberg: Why He Matters](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
 * [2023-11-28, 15:54:50](https://news.ycombinator.com/item?id=38447049) - [The Program audio series, 4 years after launching on HN](https://programaudioseries.com/the-program-results-5/)
 
