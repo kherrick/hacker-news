@@ -32,4 +32,5 @@
 * [2023-12-01, 01:49:36](https://news.ycombinator.com/item?id=38481970) - [ChatGPT's 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
 * [2023-12-01, 01:34:52](https://news.ycombinator.com/item?id=38481859) - [Java 8 still widely used](https://www.jetbrains.com/lp/devecosystem-2023/java/)
 * [2023-12-01, 00:44:21](https://news.ycombinator.com/item?id=38481426) - [Music-Map – Find Similar Music](https://www.music-map.com)
+* [2023-12-01, 00:26:06](https://news.ycombinator.com/item?id=38481258) - [Booking.com hackers increase attacks on customers](https://www.bbc.co.uk/news/technology-67583486)
 * [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
