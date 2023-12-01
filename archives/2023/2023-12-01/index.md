@@ -7,6 +7,7 @@
 * [2023-12-01, 10:01:08](https://news.ycombinator.com/item?id=38485073) - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
 * [2023-12-01, 09:01:53](https://news.ycombinator.com/item?id=38484705) - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
 * [2023-12-01, 08:31:49](https://news.ycombinator.com/item?id=38484506) - [Brazilian city enacts an ordinance that was written by ChatGPT](https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4)
+* [2023-12-01, 08:26:18](https://news.ycombinator.com/item?id=38484463) - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
 * [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
 * [2023-12-01, 05:43:39](https://news.ycombinator.com/item?id=38483572) - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
 * [2023-12-01, 05:04:30](https://news.ycombinator.com/item?id=38483353) - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
