@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American Climbers Solve the 'Last Great Problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
+* [2023-12-01, 19:47:56](https://news.ycombinator.com/item?id=38491314) - [OpenAI delays launch of custom GPT store until early 2024](https://www.axios.com/2023/12/01/openai-delays-launch-custom-gpt-store-2024)
 * [2023-12-01, 19:42:57](https://news.ycombinator.com/item?id=38491251) - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+* [2023-12-01, 19:42:44](https://news.ycombinator.com/item?id=38491246) - [The future of air defense must be smarter, more affordable, and reusable](https://www.anduril.com/article/the-future-of-air-defense/)
 * [2023-12-01, 19:40:06](https://news.ycombinator.com/item?id=38491215) - [Google Cloud causes another outage for customer that got ratelimited erroneously](https://twitter.com/gergelyorosz/status/1730648618401481019)
 * [2023-12-01, 19:29:50](https://news.ycombinator.com/item?id=38491088) - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
 * [2023-12-01, 19:24:51](https://news.ycombinator.com/item?id=38491028) - [Automakers must build cheaper, smaller EVs to spur adoption, report says](https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/)
