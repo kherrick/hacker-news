@@ -36,6 +36,7 @@
 * [2023-11-30, 17:05:05](https://news.ycombinator.com/item?id=38475921) - [Google to pay Canada's \"link tax,\" drops threat of removing news from search](https://arstechnica.com/tech-policy/2023/11/google-to-pay-canadas-link-tax-drops-threat-of-removing-news-from-search/)
 * [2023-11-30, 17:03:02](https://news.ycombinator.com/item?id=38475898) - [Engineering a Solar System](https://planetplanet.net/2017/05/03/the-ultimate-engineered-solar-system/)
 * [2023-11-30, 17:00:07](https://news.ycombinator.com/item?id=38475864) - [Joon (YC W22) Is Hiring a Founder Growth Hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
+* [2023-11-30, 16:55:23](https://news.ycombinator.com/item?id=38475804) - [The Intel 386 processor die: the clock circuit](https://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:53:53](https://news.ycombinator.com/item?id=38475787) - [Turn your picture into a Lego character](https://youml.com/recipes/236-photo-to-lego-minifigure)
 * [2023-11-30, 16:42:57](https://news.ycombinator.com/item?id=38475646) - [Vim universe: fzf – command line fuzzy finder (2019) [video]](https://www.youtube.com/watch?v=qgG5Jhi_Els)
 * [2023-11-30, 16:42:15](https://news.ycombinator.com/item?id=38475635) - [Amazon's Trainium2 AI Accelerator Features 96 GB of HBM, 4x Training Performance](https://www.anandtech.com/show/21173/amazons-trainium2-features-96-gb-hbm-quadruples-training-performance)

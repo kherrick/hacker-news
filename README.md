@@ -17,6 +17,7 @@
 * [2023-11-30, 17:45:57](https://news.ycombinator.com/item?id=38476482) - [Animate Anyone: Image-to-video synthesis for character animation](https://humanaigc.github.io/animate-anyone/)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
 * [2023-11-30, 17:00:07](https://news.ycombinator.com/item?id=38475864) - [Joon (YC W22) is hiring a founder growth hacker](https://www.ycombinator.com/companies/joon/jobs/sKzkrxO-founding-growth-manager)
+* [2023-11-30, 16:55:23](https://news.ycombinator.com/item?id=38475804) - [The Intel 386 processor die: the clock circuit](https://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:35:24](https://news.ycombinator.com/item?id=38475545) - [Stanisław Lem's vision of artificial life](https://thereader.mitpress.mit.edu/stanislaw-lems-prescient-vision-of-artificial-life/)
 * [2023-11-30, 15:06:51](https://news.ycombinator.com/item?id=38474364) - [Astronomers find six planets orbiting in resonance](https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/)
 * [2023-11-30, 14:50:55](https://news.ycombinator.com/item?id=38474190) - [Show HN: Qdorks.com – Advanced Google search query composer](https://qdorks.com/composer)
@@ -29,7 +30,6 @@
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [Why I always hit the crosswalk button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
 * [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [Schoenberg: Why He Matters](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
-* [2023-11-28, 15:54:50](https://news.ycombinator.com/item?id=38447049) - [The Program audio series, 4 years after launching on HN](https://programaudioseries.com/the-program-results-5/)
 
 ## [Archives](archives/index.md)
 
