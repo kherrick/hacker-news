@@ -18,7 +18,7 @@
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
 * [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in an area with below average density](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
 * [2023-12-01, 15:09:33](https://news.ycombinator.com/item?id=38487587) - [Show HN: Generate a video to animate stars of any GitHub repository](https://scastiel.dev/github-stars?ref=hn)
-* [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [Seamless: Meta's new speech models](https://ai.meta.com/research/seamless-communication/)
+* [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 * [2023-12-01, 13:43:26](https://news.ycombinator.com/item?id=38486539) - [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
 * [2023-12-01, 13:26:40](https://news.ycombinator.com/item?id=38486394) - [The Inside Story of Microsoft's Partnership with OpenAI](https://www.newyorker.com/magazine/2023/12/11/the-inside-story-of-microsofts-partnership-with-openai)
