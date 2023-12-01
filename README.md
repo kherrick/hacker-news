@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-01, 03:22:38](https://news.ycombinator.com/item?id=38482724) - [Users are massively giving their 1-star reviews to AdBlocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
-* [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+* [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/)
 * [2023-12-01, 02:02:25](https://news.ycombinator.com/item?id=38482085) - [A reality bending mistake in Apple's computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 * [2023-12-01, 01:49:36](https://news.ycombinator.com/item?id=38481970) - [ChatGPT's 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
@@ -24,6 +23,7 @@
 * [2023-11-30, 14:32:15](https://news.ycombinator.com/item?id=38473942) - [Yabai – A tiling window manager for macOS](https://github.com/koekeishiya/yabai)
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)
 * [2023-11-30, 11:44:43](https://news.ycombinator.com/item?id=38472333) - [Show HN: Play a pen-and-paper game that is almost unknown in the US and Europe](https://www.paper-tactics.com)
+* [2023-11-30, 10:19:57](https://news.ycombinator.com/item?id=38471815) - [Hyundai Uni Wheel electric drive system could revolutionize EV design](https://www.autoblog.com/2023/11/29/uni-wheel-hyundai-kia-electric-vehicle-design/)
 * [2023-11-30, 07:47:58](https://news.ycombinator.com/item?id=38470832) - [Interview with Viktor Lofgren from Marginalia Search](https://nlnet.nl/news/2023/20231016-marginalia.html)
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)

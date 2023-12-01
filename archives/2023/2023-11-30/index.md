@@ -80,6 +80,7 @@
 * [2023-11-30, 11:03:48](https://news.ycombinator.com/item?id=38472059) - [We are not creating the \"right\" kind of AI](https://prahladyeri.github.io/blog/2023/11/we-are-not-creating-the-right-kind-of-ai.html)
 * [2023-11-30, 10:42:20](https://news.ycombinator.com/item?id=38471942) - [Q-Transformer](https://qtransformer.github.io/)
 * [2023-11-30, 10:21:33](https://news.ycombinator.com/item?id=38471822) - [Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
+* [2023-11-30, 10:19:57](https://news.ycombinator.com/item?id=38471815) - [Hyundai Uni Wheel electric drive system could revolutionize EV design](https://www.autoblog.com/2023/11/29/uni-wheel-hyundai-kia-electric-vehicle-design/)
 * [2023-11-30, 10:09:47](https://news.ycombinator.com/item?id=38471744) - [I worked in Amazon HR and was disgusted at what I was seeing with PIP plans](https://www.businessinsider.com/amazon-hr-performance-improvement-plans-pip-pivot-had-to-quit-2023-11)
 * [2023-11-30, 09:26:19](https://news.ycombinator.com/item?id=38471475) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
 * [2023-11-30, 09:17:49](https://news.ycombinator.com/item?id=38471425) - [Attack on Titan Slickback Dance Using Stable Diffusion Video](https://old.reddit.com/r/StableDiffusion/comments/186ywcv/how_i_made_this_attack_on_titan_animation/)
