@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 18:13:08](https://news.ycombinator.com/item?id=38490112) - [How China is tearing down Islam – FT](http://webcache.googleusercontent.com/search?q=cache:https://ig.ft.com/china-mosques/)
 * [2023-12-01, 17:36:50](https://news.ycombinator.com/item?id=38489533) - [Llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything)
 * [2023-12-01, 17:33:25](https://news.ycombinator.com/item?id=38489485) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
 * [2023-12-01, 17:25:09](https://news.ycombinator.com/item?id=38489378) - [500 Highest Paying Tech Companies (Dec 2023)](https://github.com/miketromba/highest-paying-software-companies)
@@ -18,18 +19,17 @@
 * [2023-12-01, 10:37:00](https://news.ycombinator.com/item?id=38485295) - [HTML hacks that shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-12-01, 08:26:18](https://news.ycombinator.com/item?id=38484463) - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
 * [2023-12-01, 05:48:10](https://news.ycombinator.com/item?id=38483597) - [Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
-* [2023-12-01, 05:42:18](https://news.ycombinator.com/item?id=38483564) - [An architect has found a way to build flood-proof homes](https://www.washingtonpost.com/climate-solutions/interactive/2023/flood-resistant-home-bamboo/)
 * [2023-12-01, 04:50:39](https://news.ycombinator.com/item?id=38483271) - [Advent of Code 2023 is nigh](https://adventofcode.com/2023/)
 * [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 * [2023-12-01, 00:30:41](https://news.ycombinator.com/item?id=38481298) - [The Nineteenth-Century Banjo](https://daily.jstor.org/the-nineteenth-century-banjo/)
 * [2023-12-01, 00:26:06](https://news.ycombinator.com/item?id=38481258) - [Booking.com hackers increase attacks on customers](https://www.bbc.co.uk/news/technology-67583486)
-* [2023-11-30, 21:23:01](https://news.ycombinator.com/item?id=38479329) - [Acquia, My Drupal Startup](https://dri.es/acquia-my-drupal-startup)
 * [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 14:13:25](https://news.ycombinator.com/item?id=38473743) - [Show HN: Bi-directional sync between Postgres and SQLite](https://powersync.com)
 * [2023-11-30, 13:50:31](https://news.ycombinator.com/item?id=38473484) - [Shane MacGowan has died](https://www.bbc.com/news/entertainment-arts-67546785)
+* [2023-11-30, 10:19:57](https://news.ycombinator.com/item?id=38471815) - [Hyundai Uni Wheel electric drive system could revolutionize EV design](https://www.autoblog.com/2023/11/29/uni-wheel-hyundai-kia-electric-vehicle-design/)
 
 ## [Archives](archives/index.md)
 
