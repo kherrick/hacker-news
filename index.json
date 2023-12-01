@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-01, 03:22:38",
+      "https://news.ycombinator.com/item?id=38482724"
+    ],
+    [
+      "Users are massively giving their 1-star reviews to AdBlocker",
+      "https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 02:56:14",
       "https://news.ycombinator.com/item?id=38482486"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-11-30, 20:50:36",
-      "https://news.ycombinator.com/item?id=38478866"
-    ],
-    [
-      "Compiler Options Hardening Guide for C and C++",
-      "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html"
-    ]
-  ],
-  [
-    [
       "2023-11-30, 19:25:41",
       "https://news.ycombinator.com/item?id=38477940"
     ],
@@ -117,16 +117,6 @@
     [
       "Visual Anagrams: Generating optical illusions with diffusion models",
       "https://dangeng.github.io/visual_anagrams/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 18:35:00",
-      "https://news.ycombinator.com/item?id=38477197"
-    ],
-    [
-      "Accelerating Generative AI with PyTorch II: GPT, Fast",
-      "https://pytorch.org/blog/accelerating-generative-ai-2/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Schoenberg: Why He Matters",
       "https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/"
+    ]
+  ],
+  [
+    [
+      "2023-11-29, 09:48:33",
+      "https://news.ycombinator.com/item?id=38457455"
+    ],
+    [
+      "Beam Me Out of This Death Trap, Scotty (1980)",
+      "http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html"
     ]
   ]
 ]
