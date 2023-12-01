@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 12:28:18](https://news.ycombinator.com/item?id=38485958) - [Exactly How Much Life Is on Earth?](https://www.nytimes.com/2023/12/01/science/space/earth-biology-life.html)
+* [2023-12-01, 12:25:33](https://news.ycombinator.com/item?id=38485939) - [As We May Toast](https://kevinlynagh.com/newsletter/2023_04_as_we_may_toast/)
 * [2023-12-01, 11:31:23](https://news.ycombinator.com/item?id=38485614) - [Penguin survives on 4-second microsleeps – times a day](https://www.nature.com/articles/d41586-023-03751-7)
 * [2023-12-01, 11:29:23](https://news.ycombinator.com/item?id=38485596) - [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 * [2023-12-01, 11:23:29](https://news.ycombinator.com/item?id=38485562) - [My insulin pump controller has a bug](https://twitter.com/morganherlocker/status/1730455721815527429)
