@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 19:29:50](https://news.ycombinator.com/item?id=38491088) - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
+* [2023-12-01, 19:24:51](https://news.ycombinator.com/item?id=38491028) - [Automakers must build cheaper, smaller EVs to spur adoption, report says](https://arstechnica.com/cars/2023/12/automakers-must-build-cheaper-smaller-evs-to-spur-adoption-report-says/)
+* [2023-12-01, 19:13:20](https://news.ycombinator.com/item?id=38490887) - [Income by Zip, Population by City, Home Ownership Stats – ACS Data from Cybersyn](https://app.snowflake.com/marketplace/listing/GZTSZAS2KGK)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
+* [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490810) - [Ask HN: Freelancer? Seeking freelancer? (December 2023)](https://news.ycombinator.com/item?id=38490810)
+* [2023-12-01, 19:07:01](https://news.ycombinator.com/item?id=38490809) - [Ask HN: Who wants to be hired? (December 2023)](https://news.ycombinator.com/item?id=38490809)
 * [2023-12-01, 19:03:28](https://news.ycombinator.com/item?id=38490766) - [I never got a response after Google assured me that they'd do a full retro](https://twitter.com/JustJake/status/1730644510592692627?s=20)
 * [2023-12-01, 18:46:57](https://news.ycombinator.com/item?id=38490575) - [Cloudflare Gen 12 Server: Bigger, Better, Cooler in a 2U1N Form Factor](https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/)
 * [2023-12-01, 18:26:03](https://news.ycombinator.com/item?id=38490314) - [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
