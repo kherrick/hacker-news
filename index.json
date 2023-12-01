@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-01, 19:42:57",
+      "https://news.ycombinator.com/item?id=38491251"
+    ],
+    [
+      "What Is Retrieval-Augmented Generation a.k.a. RAG?",
+      "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/"
+    ]
+  ],
+  [
+    [
+      "2023-12-01, 19:40:06",
+      "https://news.ycombinator.com/item?id=38491215"
+    ],
+    [
+      "Google Cloud causes another outage for customer that got ratelimited erroneously",
+      "https://twitter.com/gergelyorosz/status/1730648618401481019"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 19:29:50",
       "https://news.ycombinator.com/item?id=38491088"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2023-12-01, 19:18:35",
+      "https://news.ycombinator.com/item?id=38490946"
+    ],
+    [
+      "People are realizing that the Arsenal of Democracy is gone",
+      "https://www.noahpinion.blog/p/people-are-realizing-that-the-arsenal"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 19:07:02",
       "https://news.ycombinator.com/item?id=38490811"
     ],
@@ -37,16 +67,6 @@
     [
       "Ask HN: Freelancer? Seeking freelancer? (December 2023)",
       "https://news.ycombinator.com/item?id=38490810"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 19:07:01",
-      "https://news.ycombinator.com/item?id=38490809"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (December 2023)",
-      "https://news.ycombinator.com/item?id=38490809"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-12-01, 08:26:18",
-      "https://news.ycombinator.com/item?id=38484463"
-    ],
-    [
-      "Segment Anything Model (Sam) Visualized",
-      "https://flowforward.simple.ink/"
-    ]
-  ],
-  [
-    [
       "2023-12-01, 05:48:10",
       "https://news.ycombinator.com/item?id=38483597"
     ],
@@ -287,16 +297,6 @@
     [
       "Acquia, my Drupal startup",
       "https://dri.es/acquia-my-drupal-startup"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 18:39:47",
-      "https://news.ycombinator.com/item?id=38477259"
-    ],
-    [
-      "Visual Anagrams: Generating optical illusions with diffusion models",
-      "https://dangeng.github.io/visual_anagrams/"
     ]
   ]
 ]
