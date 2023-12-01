@@ -2,12 +2,14 @@
 
 * [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American Climbers Solve the 'Last Great Problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
 * [2023-12-01, 19:47:56](https://news.ycombinator.com/item?id=38491314) - [OpenAI delays launch of custom GPT store until early 2024](https://www.axios.com/2023/12/01/openai-delays-launch-custom-gpt-store-2024)
+* [2023-12-01, 19:46:50](https://news.ycombinator.com/item?id=38491293) - [$500 a day to pretend to be a model: The big business behind OnlyFans 'chatters'](https://english.elpais.com/international/2023-11-23/500-a-day-to-pretend-to-be-a-model-the-big-business-behind-onlyfans-chatters.html)
 * [2023-12-01, 19:42:57](https://news.ycombinator.com/item?id=38491251) - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 * [2023-12-01, 19:42:44](https://news.ycombinator.com/item?id=38491246) - [The future of air defense must be smarter, more affordable, and reusable](https://www.anduril.com/article/the-future-of-air-defense/)
 * [2023-12-01, 19:40:06](https://news.ycombinator.com/item?id=38491215) - [Google Cloud causes another outage for customer that got ratelimited erroneously](https://twitter.com/gergelyorosz/status/1730648618401481019)
 * [2023-12-01, 19:29:50](https://news.ycombinator.com/item?id=38491088) - [Salad Fingers and the dawn of ‘weird YouTube’](https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490810) - [Ask HN: Freelancer? Seeking freelancer? (December 2023)](https://news.ycombinator.com/item?id=38490810)
+* [2023-12-01, 19:07:01](https://news.ycombinator.com/item?id=38490809) - [Ask HN: Who wants to be hired? (December 2023)](https://news.ycombinator.com/item?id=38490809)
 * [2023-12-01, 18:46:57](https://news.ycombinator.com/item?id=38490575) - [Cloudflare Gen 12 Server: Bigger, Better, Cooler in a 2U1N Form Factor](https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/)
 * [2023-12-01, 18:26:03](https://news.ycombinator.com/item?id=38490314) - [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
 * [2023-12-01, 17:36:50](https://news.ycombinator.com/item?id=38489533) - [Llamafile is the new best way to run a LLM on your own computer](http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything)
@@ -27,8 +29,6 @@
 * [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
 * [2023-12-01, 03:00:05](https://news.ycombinator.com/item?id=38482517) - [ACSLogo for Mac OS X](https://www.alancsmith.co.uk/logo/)
-* [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
-* [2023-12-01, 00:30:41](https://news.ycombinator.com/item?id=38481298) - [The Nineteenth-Century Banjo](https://daily.jstor.org/the-nineteenth-century-banjo/)
 * [2023-11-30, 21:23:01](https://news.ycombinator.com/item?id=38479329) - [Acquia, my Drupal startup](https://dri.es/acquia-my-drupal-startup)
 
 ## [Archives](archives/index.md)

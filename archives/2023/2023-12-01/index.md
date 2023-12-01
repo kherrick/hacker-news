@@ -6,6 +6,7 @@
 
 * [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American Climbers Solve the 'Last Great Problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
 * [2023-12-01, 19:47:56](https://news.ycombinator.com/item?id=38491314) - [OpenAI delays launch of custom GPT store until early 2024](https://www.axios.com/2023/12/01/openai-delays-launch-custom-gpt-store-2024)
+* [2023-12-01, 19:46:50](https://news.ycombinator.com/item?id=38491293) - [$500 a day to pretend to be a model: The big business behind OnlyFans 'chatters'](https://english.elpais.com/international/2023-11-23/500-a-day-to-pretend-to-be-a-model-the-big-business-behind-onlyfans-chatters.html)
 * [2023-12-01, 19:42:57](https://news.ycombinator.com/item?id=38491251) - [What Is Retrieval-Augmented Generation a.k.a. RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 * [2023-12-01, 19:42:44](https://news.ycombinator.com/item?id=38491246) - [The future of air defense must be smarter, more affordable, and reusable](https://www.anduril.com/article/the-future-of-air-defense/)
 * [2023-12-01, 19:40:06](https://news.ycombinator.com/item?id=38491215) - [Google Cloud causes another outage for customer that got ratelimited erroneously](https://twitter.com/gergelyorosz/status/1730648618401481019)
