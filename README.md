@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 08:31:49](https://news.ycombinator.com/item?id=38484506) - [Brazilian city enacts an ordinance that was written by ChatGPT](https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4)
 * [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
 * [2023-12-01, 05:43:39](https://news.ycombinator.com/item?id=38483572) - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
 * [2023-12-01, 05:04:30](https://news.ycombinator.com/item?id=38483353) - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
@@ -12,7 +13,6 @@
 * [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
 * [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
-* [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 * [2023-11-30, 18:29:01](https://news.ycombinator.com/item?id=38477100) - [The weirdest bug I've seen yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-11-30, 17:45:57](https://news.ycombinator.com/item?id=38476482) - [Animate Anyone: Image-to-video synthesis for character animation](https://humanaigc.github.io/animate-anyone/)
 * [2023-11-30, 17:05:48](https://news.ycombinator.com/item?id=38475926) - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071)
