@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 20:55:10](https://news.ycombinator.com/item?id=38492236) - [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
 * [2023-12-01, 19:55:21](https://news.ycombinator.com/item?id=38491424) - [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
 * [2023-12-01, 19:53:30](https://news.ycombinator.com/item?id=38491394) - [Who is responsible for grade inflation at Yale?](https://marginalrevolution.com/marginalrevolution/2023/12/who-is-responsible-for-grade-inflation-at-yale-economists-are-meanies.html)
 * [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American Climbers Solve the 'Last Great Problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
