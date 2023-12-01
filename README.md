@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-01, 05:04:30](https://news.ycombinator.com/item?id=38483353) - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
+* [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/)
 * [2023-12-01, 02:02:25](https://news.ycombinator.com/item?id=38482085) - [A reality bending mistake in Apple's computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
@@ -28,7 +29,6 @@
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [Why I always hit the crosswalk button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
-* [2023-11-29, 14:47:48](https://news.ycombinator.com/item?id=38459961) - [Schoenberg: Why He Matters](https://www.theatlantic.com/books/archive/2023/11/schoenberg-why-he-matters-review/676112/)
 * [2023-11-29, 09:48:33](https://news.ycombinator.com/item?id=38457455) - [Beam Me Out of This Death Trap, Scotty (1980)](http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html)
 
 ## [Archives](archives/index.md)
