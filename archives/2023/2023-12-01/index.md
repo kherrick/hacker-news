@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
+* [2023-12-01, 15:27:14](https://news.ycombinator.com/item?id=38487823) - [Apple's chip lab, home to the most 'profound change' in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:47:29](https://news.ycombinator.com/item?id=38487266) - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
+* [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 * [2023-12-01, 14:17:13](https://news.ycombinator.com/item?id=38486907) - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
 * [2023-12-01, 14:11:50](https://news.ycombinator.com/item?id=38486849) - [\"Useless Ruby sugar\": Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
 * [2023-12-01, 13:43:26](https://news.ycombinator.com/item?id=38486539) - [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
@@ -26,7 +29,9 @@
 * [2023-12-01, 08:31:49](https://news.ycombinator.com/item?id=38484506) - [Brazilian city enacts an ordinance that was written by ChatGPT](https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4)
 * [2023-12-01, 08:26:18](https://news.ycombinator.com/item?id=38484463) - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
 * [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
+* [2023-12-01, 05:48:10](https://news.ycombinator.com/item?id=38483597) - [Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
 * [2023-12-01, 05:43:39](https://news.ycombinator.com/item?id=38483572) - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
+* [2023-12-01, 05:42:18](https://news.ycombinator.com/item?id=38483564) - [An architect has found a way to build flood-proof homes](https://www.washingtonpost.com/climate-solutions/interactive/2023/flood-resistant-home-bamboo/)
 * [2023-12-01, 05:04:30](https://news.ycombinator.com/item?id=38483353) - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
 * [2023-12-01, 05:02:20](https://news.ycombinator.com/item?id=38483343) - [James-Lange Theory](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory)
 * [2023-12-01, 04:50:39](https://news.ycombinator.com/item?id=38483271) - [Advent of Code 2023 is nigh](https://adventofcode.com/2023/)
