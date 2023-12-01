@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-01, 22:02:11](https://news.ycombinator.com/item?id=38493105) - [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
+* [2023-12-01, 21:53:23](https://news.ycombinator.com/item?id=38492996) - [OpenAI's Weird Governance Structure](https://www.economist.com/business/2023/11/21/inside-openais-weird-governance-structure)
 * [2023-12-01, 21:50:36](https://news.ycombinator.com/item?id=38492968) - [Paraguay official resigns after signing agreement with fictional country](https://www.theguardian.com/world/2023/nov/30/paraguay-official-resigns-agreement-fictional-country)
 * [2023-12-01, 21:32:54](https://news.ycombinator.com/item?id=38492747) - [Playstation removing previously purchased Discovery content](https://www.playstation.com/en-us/legal/psvideocontent/)
 * [2023-12-01, 21:25:36](https://news.ycombinator.com/item?id=38492652) - [80% faster, 50% less memory, 0% accuracy loss Llama finetuning](https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/)
@@ -15,7 +16,6 @@
 * [2023-12-01, 17:22:01](https://news.ycombinator.com/item?id=38489340) - [Onyx, a new programming language powered by WebAssembly](https://wasmer.io/posts/onyxlang-powered-by-wasmer)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
-* [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in an area with below average density](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 * [2023-12-01, 13:43:26](https://news.ycombinator.com/item?id=38486539) - [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
