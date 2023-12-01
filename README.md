@@ -2,6 +2,7 @@
 
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
 * [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
+* [2023-12-01, 15:31:12](https://news.ycombinator.com/item?id=38487881) - [The Drums of War Are Growing Louder in South America](https://www.nakedcapitalism.com/2023/12/the-drums-of-war-are-growing-louder-in-south-america.html)
 * [2023-12-01, 15:27:14](https://news.ycombinator.com/item?id=38487823) - [Apple's chip lab, home to the most 'profound change' in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
 * [2023-12-01, 15:09:33](https://news.ycombinator.com/item?id=38487587) - [Show HN: Generate a video to animate stars of any GitHub repository](https://scastiel.dev/github-stars?ref=hn)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
@@ -14,7 +15,6 @@
 * [2023-12-01, 11:29:23](https://news.ycombinator.com/item?id=38485596) - [RavynOS Finesse of macOS. Freedom of FreeBSD](https://ravynos.com/)
 * [2023-12-01, 10:37:00](https://news.ycombinator.com/item?id=38485295) - [HTML hacks that shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-12-01, 08:26:18](https://news.ycombinator.com/item?id=38484463) - [Segment Anything Model (Sam) Visualized](https://flowforward.simple.ink/)
-* [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
 * [2023-12-01, 05:48:10](https://news.ycombinator.com/item?id=38483597) - [Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
 * [2023-12-01, 05:42:18](https://news.ycombinator.com/item?id=38483564) - [An architect has found a way to build flood-proof homes](https://www.washingtonpost.com/climate-solutions/interactive/2023/flood-resistant-home-bamboo/)
 * [2023-12-01, 05:02:20](https://news.ycombinator.com/item?id=38483343) - [James-Lange Theory](https://en.wikipedia.org/wiki/James%E2%80%93Lange_theory)
