@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 10:39:02](https://news.ycombinator.com/item?id=38485309) - [9Front's 'Humanbiologics' is out: Unix 2.0 programmers still busy bunnies](https://www.theregister.com/2023/12/01/9front_humanbiologics/)
 * [2023-12-01, 10:37:00](https://news.ycombinator.com/item?id=38485295) - [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-12-01, 10:01:08](https://news.ycombinator.com/item?id=38485073) - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
 * [2023-12-01, 09:01:53](https://news.ycombinator.com/item?id=38484705) - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
@@ -12,7 +13,6 @@
 * [2023-12-01, 01:49:36](https://news.ycombinator.com/item?id=38481970) - [Are Open-Source Large Language Models Catching Up?](https://arxiv.org/abs/2311.16989)
 * [2023-12-01, 00:44:21](https://news.ycombinator.com/item?id=38481426) - [Music-Map – Find Similar Music](https://www.music-map.com)
 * [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
-* [2023-11-30, 20:50:36](https://news.ycombinator.com/item?id=38478866) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
 * [2023-11-30, 18:35:00](https://news.ycombinator.com/item?id=38477197) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
