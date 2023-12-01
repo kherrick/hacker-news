@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-01, 05:57:47](https://news.ycombinator.com/item?id=38483650) - [Show HN: Australian Acoustic Observatory Search](https://search.acousticobservatory.org/)
+* [2023-12-01, 05:43:39](https://news.ycombinator.com/item?id=38483572) - [The Stroad](https://www.strongtowns.org/journal/2017/10/30/the-stroad)
 * [2023-12-01, 05:04:30](https://news.ycombinator.com/item?id=38483353) - [Anduril announces Roadrunner, jet-powered VTOL drone](https://www.anduril.com/roadrunner/)
 * [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/)
@@ -10,7 +11,6 @@
 * [2023-12-01, 00:44:21](https://news.ycombinator.com/item?id=38481426) - [Music-Map – Find Similar Music](https://www.music-map.com)
 * [2023-12-01, 00:03:11](https://news.ycombinator.com/item?id=38481063) - [Skyfield: Elegant Astronomy for Python](https://rhodesmill.org/skyfield/)
 * [2023-11-30, 23:28:42](https://news.ycombinator.com/item?id=38480748) - [Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover](https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover)
-* [2023-11-30, 20:57:29](https://news.ycombinator.com/item?id=38478964) - [Tesla Cybertruck Pricing and Specs](https://www.tesla.com/cybertruck/design)
 * [2023-11-30, 19:25:41](https://news.ycombinator.com/item?id=38477940) - [How I made Bomb Rush Cyberfunk multiplayer](https://notnite.com/blog/slop-crew)
 * [2023-11-30, 19:08:48](https://news.ycombinator.com/item?id=38477688) - [Turbo Pascal Turns 40](https://blog.marcocantu.com/blog/2023-november-turbopascal40.html)
 * [2023-11-30, 18:39:47](https://news.ycombinator.com/item?id=38477259) - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
@@ -27,9 +27,9 @@
 * [2023-11-30, 07:47:58](https://news.ycombinator.com/item?id=38470832) - [Interview with Viktor Lofgren from Marginalia Search](https://nlnet.nl/news/2023/20231016-marginalia.html)
 * [2023-11-30, 06:27:49](https://news.ycombinator.com/item?id=38470355) - [Properties of Lights Out: The Game](https://imois.in/posts/the-properties-of-lights-out-the-game/)
 * [2023-11-30, 02:54:46](https://news.ycombinator.com/item?id=38468872) - [The Pursuit of Efficiency and the Science of Steam](https://technicshistory.com/2023/11/30/the-pursuit-of-efficiency-and-the-science-of-steam/)
-* [2023-11-29, 18:11:26](https://news.ycombinator.com/item?id=38462892) - [Systematic Analysis of Complex Dynamic Systems: The Case of the USS Vincennes [pdf]](https://apps.dtic.mil/sti/tr/pdf/ADA260260.pdf)
 * [2023-11-29, 16:46:00](https://news.ycombinator.com/item?id=38461726) - [Why I always hit the crosswalk button (2015)](https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/)
 * [2023-11-29, 09:48:33](https://news.ycombinator.com/item?id=38457455) - [Beam Me Out of This Death Trap, Scotty (1980)](http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html)
+* [2023-11-29, 07:20:00](https://news.ycombinator.com/item?id=38456522) - [Why is this artist teaching boston dynamics dogs to paint?](https://www.theguardian.com/artanddesign/2023/nov/27/robot-dogs-learning-to-paint-artist-agnieszka-pilat)
 
 ## [Archives](archives/index.md)
 
