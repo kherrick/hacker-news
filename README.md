@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 22:19:50](https://news.ycombinator.com/item?id=38493299) - [Parrots learn to make video calls to chat with other parrots: study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-12-01, 22:02:11](https://news.ycombinator.com/item?id=38493105) - [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
+* [2023-12-01, 21:59:11](https://news.ycombinator.com/item?id=38493069) - [Members of the OpenAI board had found Altman an unnervingly slippery operator](https://twitter.com/GaryMarcus/status/1730685674708201880)
 * [2023-12-01, 21:25:36](https://news.ycombinator.com/item?id=38492652) - [80% faster, 50% less memory, 0% accuracy loss Llama finetuning](https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/)
 * [2023-12-01, 20:55:10](https://news.ycombinator.com/item?id=38492236) - [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
 * [2023-12-01, 20:24:37](https://news.ycombinator.com/item?id=38491826) - [Cocoa harvested by kids as young as 5 in Ghana: CBS News investigation](https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/)
@@ -16,7 +18,6 @@
 * [2023-12-01, 17:22:01](https://news.ycombinator.com/item?id=38489340) - [Onyx, a new programming language powered by WebAssembly](https://wasmer.io/posts/onyxlang-powered-by-wasmer)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
-* [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in an area with below average density](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
 * [2023-12-01, 15:09:33](https://news.ycombinator.com/item?id=38487587) - [Show HN: Generate a video to animate stars of any GitHub repository](https://scastiel.dev/github-stars?ref=hn)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
@@ -27,7 +28,6 @@
 * [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
 * [2023-12-01, 08:40:47](https://news.ycombinator.com/item?id=38484567) - [What if mass storage were free? – George Copeland (1980) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800083.802685)
 * [2023-12-01, 05:48:10](https://news.ycombinator.com/item?id=38483597) - [Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
-* [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
 * [2023-12-01, 03:00:05](https://news.ycombinator.com/item?id=38482517) - [ACSLogo for Mac OS X](https://www.alancsmith.co.uk/logo/)
 
