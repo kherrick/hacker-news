@@ -2,8 +2,8 @@
 
 * [2023-12-01, 16:01:22](https://news.ycombinator.com/item?id=38488219) - [Astronomers posit that we live in a giant void](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html)
 * [2023-12-01, 15:27:14](https://news.ycombinator.com/item?id=38487823) - [Apple's chip lab, home to the most 'profound change' in decades](https://www.cnbc.com/2023/12/01/how-apple-makes-its-own-chips-for-iphone-and-mac-edging-out-intel.html)
+* [2023-12-01, 15:09:33](https://news.ycombinator.com/item?id=38487587) - [Show HN: Generate a video to animate stars of any GitHub repository](https://scastiel.dev/github-stars?ref=hn)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
-* [2023-12-01, 14:47:29](https://news.ycombinator.com/item?id=38487266) - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
 * [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 * [2023-12-01, 14:17:13](https://news.ycombinator.com/item?id=38486907) - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
 * [2023-12-01, 14:11:50](https://news.ycombinator.com/item?id=38486849) - [\"Useless Ruby sugar\": Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
