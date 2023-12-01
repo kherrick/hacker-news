@@ -32,6 +32,7 @@
 * [2023-11-29, 18:32:09](https://news.ycombinator.com/item?id=38463195) - [The origins of the steam engine](https://rootsofprogress.org/steam-engine-origins)
 * [2023-11-29, 18:21:22](https://news.ycombinator.com/item?id=38463034) - [Together AI raises a $102.5M Series A](https://www.together.ai/blog/series-a)
 * [2023-11-29, 18:13:28](https://news.ycombinator.com/item?id=38462924) - [Show HN: Fanfiction and Smut AI Generator](https://altplot.com)
+* [2023-11-29, 18:11:26](https://news.ycombinator.com/item?id=38462892) - [Systematic Analysis of Complex Dynamic Systems: The Case of the USS Vincennes [pdf]](https://apps.dtic.mil/sti/tr/pdf/ADA260260.pdf)
 * [2023-11-29, 17:56:04](https://news.ycombinator.com/item?id=38462681) - [Okta hackers stole data on all customer support users in major breach](https://sec.okta.com/harfiles/)
 * [2023-11-29, 17:49:03](https://news.ycombinator.com/item?id=38462570) - [Amazon exec: it's time to 'disagree and commit' to office return despite no data](https://fortune.com/2023/08/03/amazon-svp-mike-hopkins-office-return/)
 * [2023-11-29, 17:44:49](https://news.ycombinator.com/item?id=38462493) - [Every Bitcoin payment 'uses a swimming pool of water'](https://www.bbc.com/news/technology-67564205)
