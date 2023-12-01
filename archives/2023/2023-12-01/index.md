@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 23:21:52](https://news.ycombinator.com/item?id=38493963) - [Uber Joins the S&P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
+* [2023-12-01, 23:18:00](https://news.ycombinator.com/item?id=38493926) - [300-year-old Tokyo comb company sells 30k-yen ($200) wooden hair combs](https://soranews24.com/2023/10/29/300-year-old-tokyo-comb-company-sells-30000-yen-wooden-hair-combs-are-they-worth-it/)
+* [2023-12-01, 22:55:05](https://news.ycombinator.com/item?id=38493707) - [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
+* [2023-12-01, 22:30:28](https://news.ycombinator.com/item?id=38493442) - [Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575)
 * [2023-12-01, 22:19:50](https://news.ycombinator.com/item?id=38493299) - [Parrots learn to make video calls to chat with other parrots: study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
 * [2023-12-01, 22:02:11](https://news.ycombinator.com/item?id=38493105) - [A Nouveau graphics driver update](https://lwn.net/SubscriberLink/953144/b85b695d0c760692/)
 * [2023-12-01, 21:59:11](https://news.ycombinator.com/item?id=38493069) - [Members of the OpenAI board had found Altman an unnervingly slippery operator](https://twitter.com/GaryMarcus/status/1730685674708201880)
