@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
+* [2023-12-01, 19:03:28](https://news.ycombinator.com/item?id=38490766) - [I never got a response after Google assured me that they'd do a full retro](https://twitter.com/JustJake/status/1730644510592692627?s=20)
 * [2023-12-01, 18:46:57](https://news.ycombinator.com/item?id=38490575) - [Cloudflare Gen 12 Server: Bigger, Better, Cooler in a 2U1N Form Factor](https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/)
 * [2023-12-01, 18:26:03](https://news.ycombinator.com/item?id=38490314) - [Show HN: Unofficial YouTube Wrapped 2023, see top creators and watching habits](https://videorecap.viewodyssey.com/)
 * [2023-12-01, 18:13:08](https://news.ycombinator.com/item?id=38490112) - [How China is tearing down Islam – FT](http://webcache.googleusercontent.com/search?q=cache:https://ig.ft.com/china-mosques/)
@@ -12,6 +13,7 @@
 * [2023-12-01, 17:33:32](https://news.ycombinator.com/item?id=38489489) - [Bank boss hated IT, loved the beach, was clueless about ports and politeness](https://www.theregister.com/2023/12/01/on_call/)
 * [2023-12-01, 17:33:25](https://news.ycombinator.com/item?id=38489485) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
 * [2023-12-01, 17:25:09](https://news.ycombinator.com/item?id=38489378) - [500 Highest Paying Tech Companies (Dec 2023)](https://github.com/miketromba/highest-paying-software-companies)
+* [2023-12-01, 17:22:01](https://news.ycombinator.com/item?id=38489340) - [Onyx, a new programming language powered by WebAssembly](https://wasmer.io/posts/onyxlang-powered-by-wasmer)
 * [2023-12-01, 17:20:02](https://news.ycombinator.com/item?id=38489313) - [Billionaires amass more through inheritance than wealth creation, says UBS](https://www.ft.com/content/3944234e-e3b4-46fa-8c2f-cadec780ecb4)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [SQLSync – Stop Building Databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
