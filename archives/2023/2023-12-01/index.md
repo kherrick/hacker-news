@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:47:29](https://news.ycombinator.com/item?id=38487266) - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
 * [2023-12-01, 14:17:13](https://news.ycombinator.com/item?id=38486907) - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
 * [2023-12-01, 14:11:50](https://news.ycombinator.com/item?id=38486849) - [\"Useless Ruby sugar\": Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)

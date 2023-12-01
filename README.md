@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [Seamless: Meta's New Speech Models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:47:29](https://news.ycombinator.com/item?id=38487266) - [The Persistent Myth That Most Americans Are Miserable at Work](https://www.theatlantic.com/ideas/archive/2023/12/great-resignation-myth-polls/676189/)
 * [2023-12-01, 14:17:13](https://news.ycombinator.com/item?id=38486907) - [Return to office is 'dead,' Stanford economist says](https://www.cnbc.com/2023/11/30/return-to-office-is-dead-stanford-economist-says-heres-why.html)
 * [2023-12-01, 14:11:50](https://news.ycombinator.com/item?id=38486849) - [\"Useless Ruby sugar\": Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
@@ -29,7 +30,6 @@
 * [2023-11-30, 13:50:31](https://news.ycombinator.com/item?id=38473484) - [Shane MacGowan has died](https://www.bbc.com/news/entertainment-arts-67546785)
 * [2023-11-30, 10:19:57](https://news.ycombinator.com/item?id=38471815) - [Hyundai Uni Wheel electric drive system could revolutionize EV design](https://www.autoblog.com/2023/11/29/uni-wheel-hyundai-kia-electric-vehicle-design/)
 * [2023-11-29, 09:48:33](https://news.ycombinator.com/item?id=38457455) - [Beam Me Out of This Death Trap, Scotty (1980)](http://www.iasa-intl.com/folders/shuttle/GoodbyeColumbia.html)
-* [2023-11-29, 07:20:00](https://news.ycombinator.com/item?id=38456522) - [Why is this artist teaching Boston Dynamics dogs to paint?](https://www.theguardian.com/artanddesign/2023/nov/27/robot-dogs-learning-to-paint-artist-agnieszka-pilat)
 
 ## [Archives](archives/index.md)
 
