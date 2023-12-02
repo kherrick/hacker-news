@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
 * [2023-12-01, 23:27:06](https://news.ycombinator.com/item?id=38494017) - [Nothing Personal: How Ideas Made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
+* [2023-12-01, 23:26:57](https://news.ycombinator.com/item?id=38494016) - [Why Are Golang Heaps So Complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)
 * [2023-12-01, 23:21:52](https://news.ycombinator.com/item?id=38493963) - [Uber Joins the S&P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
 * [2023-12-01, 23:18:00](https://news.ycombinator.com/item?id=38493926) - [300-year-old Tokyo comb company sells 30k-yen ($200) wooden hair combs](https://soranews24.com/2023/10/29/300-year-old-tokyo-comb-company-sells-30000-yen-wooden-hair-combs-are-they-worth-it/)
 * [2023-12-01, 23:13:29](https://news.ycombinator.com/item?id=38493884) - [Deep Dive into the Vision Transformers Paper (ViT)](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)

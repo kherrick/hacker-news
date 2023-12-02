@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
 * [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
+* [2023-12-02, 16:43:43](https://news.ycombinator.com/item?id=38499843) - [Generative AI is killing our sense of awe](https://www.fastcompany.com/90916652/generative-ai-killing-sense-of-awe)
 * [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
 * [2023-12-02, 16:35:37](https://news.ycombinator.com/item?id=38499781) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-02, 16:29:15](https://news.ycombinator.com/item?id=38499723) - [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
@@ -14,6 +15,7 @@
 * [2023-12-02, 14:42:34](https://news.ycombinator.com/item?id=38498915) - [10,000TB storage cartridges could become mainstream by 2030](https://www.techradar.com/pro/video-of-ceramic-storage-system-prototype-surfaces-online-10000tb-cartridges-bombarded-with-laser-rays-could-become-mainstream-by-2030-making-slow-hard-drives-and-tapes-obsolete)
 * [2023-12-02, 14:41:51](https://news.ycombinator.com/item?id=38498908) - [The more things go wrong, the more things going wrong](https://jakeseliger.com/2023/11/14/the-more-things-go-wrong-the-more-things-going-wrong/)
 * [2023-12-02, 14:22:34](https://news.ycombinator.com/item?id=38498775) - [Is Ada safer than Rust?](https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/)
+* [2023-12-02, 14:06:48](https://news.ycombinator.com/item?id=38498688) - [GitQL now supports Date, Time and DateTime implicit casting](https://github.com/AmrDeveloper/GQL)
 * [2023-12-02, 13:57:10](https://news.ycombinator.com/item?id=38498650) - [World Bank to boost climate financing share to 45%](https://www.reuters.com/sustainability/sustainable-finance-reporting/world-bank-increases-climate-spending-45-2023-12-01/)
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
