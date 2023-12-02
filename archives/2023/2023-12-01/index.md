@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 23:27:06](https://news.ycombinator.com/item?id=38494017) - [Nothing Personal: How Ideas Made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
 * [2023-12-01, 23:21:52](https://news.ycombinator.com/item?id=38493963) - [Uber Joins the S&P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
 * [2023-12-01, 23:18:00](https://news.ycombinator.com/item?id=38493926) - [300-year-old Tokyo comb company sells 30k-yen ($200) wooden hair combs](https://soranews24.com/2023/10/29/300-year-old-tokyo-comb-company-sells-30000-yen-wooden-hair-combs-are-they-worth-it/)
+* [2023-12-01, 23:13:29](https://news.ycombinator.com/item?id=38493884) - [Deep Dive into the Vision Transformers Paper (ViT)](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
+* [2023-12-01, 23:05:39](https://news.ycombinator.com/item?id=38493811) - [Britain's scariest libel firm can pursue anyone, anywhere](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
 * [2023-12-01, 22:55:05](https://news.ycombinator.com/item?id=38493707) - [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
 * [2023-12-01, 22:30:28](https://news.ycombinator.com/item?id=38493442) - [Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575)
 * [2023-12-01, 22:19:50](https://news.ycombinator.com/item?id=38493299) - [Parrots learn to make video calls to chat with other parrots: study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
@@ -69,6 +72,7 @@
 * [2023-12-01, 10:37:00](https://news.ycombinator.com/item?id=38485295) - [10 Weird HTML Hacks That Shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-12-01, 10:11:29](https://news.ycombinator.com/item?id=38485137) - [China is building nuclear reactors faster than any other country](https://www.economist.com/china/2023/11/30/china-is-building-nuclear-reactors-faster-than-any-other-country)
 * [2023-12-01, 10:01:08](https://news.ycombinator.com/item?id=38485073) - [99 Years of Charlie Munger Wisdom in 44 Minutes [video]](https://www.youtube.com/watch?v=ySErrOs093o)
+* [2023-12-01, 09:49:32](https://news.ycombinator.com/item?id=38485002) - [Why Did These LEDs Light Up? ESP32-S3 – Which Pins Are Safe to Use? [video]](https://www.youtube.com/watch?v=tC-DLeI6hjQ)
 * [2023-12-01, 09:01:53](https://news.ycombinator.com/item?id=38484705) - [Federal judge blocks Montana's TikTok ban before it takes effect](https://www.npr.org/2023/11/30/1205735647/montana-tiktok-ban-blocked-state)
 * [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
 * [2023-12-01, 08:40:47](https://news.ycombinator.com/item?id=38484567) - [What if mass storage were free? – George Copeland (1980) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800083.802685)
