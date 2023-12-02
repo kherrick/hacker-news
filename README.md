@@ -8,7 +8,6 @@
 * [2023-12-02, 21:01:33](https://news.ycombinator.com/item?id=38502007) - [A new method to validate URLs in JavaScript (2023 edition)](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
 * [2023-12-02, 20:54:17](https://news.ycombinator.com/item?id=38501945) - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 * [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
-* [2023-12-02, 20:43:14](https://news.ycombinator.com/item?id=38501868) - [Show HN: ThreeFold – Decentralized Cloud Infrastructure](https://threefold.io/)
 * [2023-12-02, 20:32:53](https://news.ycombinator.com/item?id=38501779) - [How Meta patches Linux at hyperscale](https://thenewstack.io/how-meta-patches-linux-at-hyperscale/)
 * [2023-12-02, 20:10:27](https://news.ycombinator.com/item?id=38501589) - [Multifaceted: The linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-02, 19:54:25](https://news.ycombinator.com/item?id=38501437) - [Modeling CRDTs in Alloy – Counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
@@ -28,6 +27,7 @@
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 07:55:04](https://news.ycombinator.com/item?id=38496816) - [Submarine Cable Map 2023](https://submarine-cable-map-2023.telegeography.com/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+* [2023-12-02, 03:14:26](https://news.ycombinator.com/item?id=38495542) - [Modern automotive electronics will lead to a mechanical revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
 * [2023-12-01, 23:26:57](https://news.ycombinator.com/item?id=38494016) - [Why are Golang heaps so complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)
 * [2023-12-01, 09:57:14](https://news.ycombinator.com/item?id=38485048) - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
