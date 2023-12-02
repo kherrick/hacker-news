@@ -10,7 +10,6 @@
 * [2023-12-02, 00:32:44](https://news.ycombinator.com/item?id=38494529) - [New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
 * [2023-12-02, 00:22:51](https://news.ycombinator.com/item?id=38494466) - [Optical effect advances quantum computing with atomic qubits to a new dimension](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_410816.en.jsp)
 * [2023-12-01, 23:27:06](https://news.ycombinator.com/item?id=38494017) - [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
-* [2023-12-01, 23:11:34](https://news.ycombinator.com/item?id=38493871) - [Aging societies more vulnerable to collapse](https://santafe.edu/news-center/news/aging-societies-more-vulnerable-collapse#)
 * [2023-12-01, 23:06:58](https://news.ycombinator.com/item?id=38493821) - [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
 * [2023-12-01, 22:55:05](https://news.ycombinator.com/item?id=38493707) - [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
 * [2023-12-01, 22:30:28](https://news.ycombinator.com/item?id=38493442) - [Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575)
@@ -30,6 +29,7 @@
 * [2023-12-01, 09:49:32](https://news.ycombinator.com/item?id=38485002) - [Why Did These LEDs Light Up? ESP32-S3 – Which Pins Are Safe to Use? [video]](https://www.youtube.com/watch?v=tC-DLeI6hjQ)
 * [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
 * [2023-12-01, 05:48:10](https://news.ycombinator.com/item?id=38483597) - [Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
+* [2023-12-01, 02:58:50](https://news.ycombinator.com/item?id=38482507) - [Miniaturized technique to generate precise wavelengths of visible laser light](https://phys.org/news/2023-11-scientists-miniaturized-technique-generate-precise.html)
 
 ## [Archives](archives/index.md)
 

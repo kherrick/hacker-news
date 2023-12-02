@@ -97,6 +97,7 @@
 * [2023-12-01, 03:22:38](https://news.ycombinator.com/item?id=38482724) - [Users are massively giving their 1-star reviews to AdBlocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
 * [2023-12-01, 03:06:33](https://news.ycombinator.com/item?id=38482582) - [Like Oil Leads to Global Warming, Data Leads to Social Cooling](https://www.socialcooling.com/)
 * [2023-12-01, 03:00:05](https://news.ycombinator.com/item?id=38482517) - [ACSLogo for Mac OS X](https://www.alancsmith.co.uk/logo/)
+* [2023-12-01, 02:58:50](https://news.ycombinator.com/item?id=38482507) - [Miniaturized technique to generate precise wavelengths of visible laser light](https://phys.org/news/2023-11-scientists-miniaturized-technique-generate-precise.html)
 * [2023-12-01, 02:56:14](https://news.ycombinator.com/item?id=38482486) - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 * [2023-12-01, 02:02:25](https://news.ycombinator.com/item?id=38482085) - [A reality bending mistake in Apple's computational photography](https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography)
 * [2023-12-01, 01:53:45](https://news.ycombinator.com/item?id=38482007) - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
