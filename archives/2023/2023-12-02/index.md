@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
 * [2023-12-02, 18:39:58](https://news.ycombinator.com/item?id=38500821) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
+* [2023-12-02, 18:34:51](https://news.ycombinator.com/item?id=38500782) - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-12-02, 18:33:02](https://news.ycombinator.com/item?id=38500765) - [Signet App – Your digital identity and security of communications at your palm](https://signet.app/)
 * [2023-12-02, 18:25:49](https://news.ycombinator.com/item?id=38500705) - [Ask HN: What is the best stack to find a job currently?](https://news.ycombinator.com/item?id=38500705)
 * [2023-12-02, 18:18:53](https://news.ycombinator.com/item?id=38500641) - [UAW Launches Largest Organizing Drive in Modern American History](https://substack.perfectunion.us/p/uaw-launches-largest-organizing-drive)
@@ -16,6 +17,7 @@
 * [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
 * [2023-12-02, 16:35:37](https://news.ycombinator.com/item?id=38499781) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-02, 16:29:15](https://news.ycombinator.com/item?id=38499723) - [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
+* [2023-12-02, 16:15:09](https://news.ycombinator.com/item?id=38499610) - [Safety Critical Real-Time OS: Integrity-178B](https://www.ghs.com/products/safety_critical/integrity_178_tump.html)
 * [2023-12-02, 15:26:27](https://news.ycombinator.com/item?id=38499197) - [Tell HN: EmacsConf Live Now](https://emacsconf.org)
 * [2023-12-02, 15:16:38](https://news.ycombinator.com/item?id=38499134) - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
 * [2023-12-02, 14:45:26](https://news.ycombinator.com/item?id=38498934) - [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
