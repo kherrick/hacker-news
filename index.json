@@ -45,8 +45,28 @@
       "https://news.ycombinator.com/item?id=38500782"
     ],
     [
-      "Galactic Algorithm",
+      "Galactic algorithm",
       "https://en.wikipedia.org/wiki/Galactic_algorithm"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 18:28:53",
+      "https://news.ycombinator.com/item?id=38500736"
+    ],
+    [
+      "What Drives This Madness on Small Modular Nuclear Reactors?",
+      "https://cleantechnica.com/2023/11/30/what-drives-this-madness-on-small-modular-nuclear-reactors/"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 18:24:24",
+      "https://news.ycombinator.com/item?id=38500701"
+    ],
+    [
+      "Over 20 nations, including Japan, call for tripling of nuclear energy",
+      "https://www.japantimes.co.jp/news/2023/12/02/world/nuclear-energy-declaration/"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38500681"
     ],
     [
-      "Mundane emotions: Losing yourself in boredom, time and technology",
+      "Mundane emotions: Losing yourself in boredom, time and technology (2022)",
       "https://journals.sagepub.com/doi/10.1177/14705931221138617"
     ]
   ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-12-02, 16:40:50",
-      "https://news.ycombinator.com/item?id=38499824"
-    ],
-    [
-      "Dark patterns in UX design and how to avoid them",
-      "https://dodonut.com/blog/10-dark-patterns-in-ux-design/"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 16:35:37",
       "https://news.ycombinator.com/item?id=38499781"
     ],
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2023-12-02, 16:29:15",
-      "https://news.ycombinator.com/item?id=38499723"
-    ],
-    [
-      "Good old-fashioned AI remains viable in spite of the rise of LLMs",
-      "https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 16:15:09",
       "https://news.ycombinator.com/item?id=38499610"
     ],
     [
-      "Safety Critical Real-Time OS: Integrity-178B",
+      "Integrity-178B: Safety Critical Real-Time OS",
       "https://www.ghs.com/products/safety_critical/integrity_178_tump.html"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38498109"
     ],
     [
-      "Tiny Volumetric Display",
+      "Tiny volumetric display",
       "https://mitxela.com/projects/candle"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=38496702"
     ],
     [
-      "Designing a Distributed SQL Engine: Challenges and Decisions",
+      "Designing a distributed SQL engine: Challenges and decisions",
       "https://en.oceanbase.com/blog/2596985600"
     ]
   ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2023-12-02, 05:48:10",
-      "https://news.ycombinator.com/item?id=38496264"
-    ],
-    [
-      "Easy to use OpenID Connect client and server library written for Go",
-      "https://github.com/zitadel/oidc"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 03:52:10",
       "https://news.ycombinator.com/item?id=38495720"
     ],
     [
       "Tinnitus linked to undetected auditory nerve damage",
       "https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 03:41:36",
+      "https://news.ycombinator.com/item?id=38495666"
+    ],
+    [
+      "Electrocaloric material makes refrigerant-free solid-state fridge scalable",
+      "https://spectrum.ieee.org/solid-state-refrigerator"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38494016"
     ],
     [
-      "Why Are Golang Heaps So Complicated",
+      "Why are Golang heaps so complicated",
       "https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-12-01, 17:19:28",
+      "https://news.ycombinator.com/item?id=38489307"
+    ],
+    [
+      "Accidental database programming",
+      "https://sqlsync.dev/posts/stop-building-databases/"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 14:53:21",
       "https://news.ycombinator.com/item?id=38487359"
     ],
     [
       "The Seamless Communication models",
       "https://ai.meta.com/research/seamless-communication/"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 09:57:14",
-      "https://news.ycombinator.com/item?id=38485048"
-    ],
-    [
-      "Large Language Model Course",
-      "https://github.com/mlabonne/llm-course"
     ]
   ]
 ]
