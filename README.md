@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 12:01:54](https://news.ycombinator.com/item?id=38498000) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2023-12-02, 11:23:30](https://news.ycombinator.com/item?id=38497814) - [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 08:52:01](https://news.ycombinator.com/item?id=38497143) - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
 * [2023-12-02, 07:32:54](https://news.ycombinator.com/item?id=38496715) - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
@@ -22,8 +24,6 @@
 * [2023-12-02, 00:22:51](https://news.ycombinator.com/item?id=38494466) - [Optical effect advances quantum computing with atomic qubits to a new dimension](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_410816.en.jsp)
 * [2023-12-01, 23:06:58](https://news.ycombinator.com/item?id=38493821) - [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
 * [2023-12-01, 22:30:28](https://news.ycombinator.com/item?id=38493442) - [Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575)
-* [2023-12-01, 21:05:01](https://news.ycombinator.com/item?id=38492378) - [Ask HN: Who needs help this holidays?](https://news.ycombinator.com/item?id=38492378)
-* [2023-12-01, 20:55:10](https://news.ycombinator.com/item?id=38492236) - [The Neglected Books Page](https://neglectedbooks.com/)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Accidental database programming](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 12:01:54](https://news.ycombinator.com/item?id=38498000) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2023-12-02, 11:23:30](https://news.ycombinator.com/item?id=38497814) - [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 08:52:01](https://news.ycombinator.com/item?id=38497143) - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
 * [2023-12-02, 08:03:22](https://news.ycombinator.com/item?id=38496867) - [Google Maps now looks more like Apple Maps – and a lot of people aren't happy](https://www.techradar.com/computing/software/google-maps-now-looks-more-like-apple-maps-and-a-lot-of-people-arent-happy)
