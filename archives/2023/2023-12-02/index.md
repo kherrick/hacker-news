@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 21:02:01](https://news.ycombinator.com/item?id=38502012) - [90% of B2B YC companies have 50% of their revenue coming from other YC companies](https://twitter.com/laurenbalik/status/1730633287494754752)
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-02, 20:54:17](https://news.ycombinator.com/item?id=38501945) - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 * [2023-12-02, 20:31:04](https://news.ycombinator.com/item?id=38501766) - [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
@@ -50,6 +51,7 @@
 * [2023-12-02, 11:53:01](https://news.ycombinator.com/item?id=38497944) - [Startups weather a dismal year – 543 have declared bankruptcy or shut down](https://fortune.com/2023/11/30/startup-funding-bankruptcies-lower-valuations-2023/)
 * [2023-12-02, 11:23:30](https://news.ycombinator.com/item?id=38497814) - [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
+* [2023-12-02, 10:28:18](https://news.ycombinator.com/item?id=38497570) - [Show HN: A Time-Sharing Scheduling Coroutine Script Language](https://melang.org/)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 08:52:01](https://news.ycombinator.com/item?id=38497143) - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
 * [2023-12-02, 08:03:22](https://news.ycombinator.com/item?id=38496867) - [Google Maps now looks more like Apple Maps – and a lot of people aren't happy](https://www.techradar.com/computing/software/google-maps-now-looks-more-like-apple-maps-and-a-lot-of-people-arent-happy)
