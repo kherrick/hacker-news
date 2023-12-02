@@ -19,6 +19,7 @@
 * [2023-12-01, 21:50:36](https://news.ycombinator.com/item?id=38492968) - [Paraguay official resigns after signing agreement with fictional country](https://www.theguardian.com/world/2023/nov/30/paraguay-official-resigns-agreement-fictional-country)
 * [2023-12-01, 21:32:54](https://news.ycombinator.com/item?id=38492747) - [Playstation removing previously purchased Discovery content](https://www.playstation.com/en-us/legal/psvideocontent/)
 * [2023-12-01, 21:25:36](https://news.ycombinator.com/item?id=38492652) - [80% faster, 50% less memory, 0% accuracy loss Llama finetuning](https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/)
+* [2023-12-01, 21:00:27](https://news.ycombinator.com/item?id=38492304) - [CIA 2010 covert communication websites](https://ourbigbook.com/cirosantilli/cia-2010-covert-communication-websites)
 * [2023-12-01, 20:55:10](https://news.ycombinator.com/item?id=38492236) - [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
 * [2023-12-01, 20:24:37](https://news.ycombinator.com/item?id=38491826) - [Cocoa harvested by kids as young as 5 in Ghana: CBS News investigation](https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/)
 * [2023-12-01, 19:55:21](https://news.ycombinator.com/item?id=38491424) - [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
