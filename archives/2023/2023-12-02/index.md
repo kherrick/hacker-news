@@ -17,6 +17,7 @@
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 08:52:01](https://news.ycombinator.com/item?id=38497143) - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
 * [2023-12-02, 08:03:22](https://news.ycombinator.com/item?id=38496867) - [Google Maps now looks more like Apple Maps – and a lot of people aren't happy](https://www.techradar.com/computing/software/google-maps-now-looks-more-like-apple-maps-and-a-lot-of-people-arent-happy)
+* [2023-12-02, 07:56:54](https://news.ycombinator.com/item?id=38496827) - [LLM as DBA](https://arxiv.org/abs/2308.05481)
 * [2023-12-02, 07:55:04](https://news.ycombinator.com/item?id=38496816) - [Submarine Cable Map 2023](https://submarine-cable-map-2023.telegeography.com/)
 * [2023-12-02, 07:32:54](https://news.ycombinator.com/item?id=38496715) - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)

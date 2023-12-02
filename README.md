@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-02, 13:57:10](https://news.ycombinator.com/item?id=38498650) - [World Bank to boost climate financing share to 45%](https://www.reuters.com/sustainability/sustainable-finance-reporting/world-bank-increases-climate-spending-45-2023-12-01/)
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
@@ -9,6 +8,7 @@
 * [2023-12-02, 11:53:01](https://news.ycombinator.com/item?id=38497944) - [Startups weather a dismal year – 543 have declared bankruptcy or shut down](https://fortune.com/2023/11/30/startup-funding-bankruptcies-lower-valuations-2023/)
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+* [2023-12-02, 07:56:54](https://news.ycombinator.com/item?id=38496827) - [LLM as DBA](https://arxiv.org/abs/2308.05481)
 * [2023-12-02, 07:55:04](https://news.ycombinator.com/item?id=38496816) - [Submarine Cable Map 2023](https://submarine-cable-map-2023.telegeography.com/)
 * [2023-12-02, 07:32:54](https://news.ycombinator.com/item?id=38496715) - [Scalable extraction of training data from (production) language models](https://arxiv.org/abs/2311.17035)
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
