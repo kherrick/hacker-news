@@ -142,11 +142,11 @@
             <h4>
               <span>2023-12-02 @ 08:03:22</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38496867"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -162,7 +162,7 @@
             <h4>
               <span>2023-12-02 @ 07:32:54</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38496715"
                   >Comments</a
@@ -181,11 +181,11 @@
             <h4>
               <span>2023-12-02 @ 07:28:38</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38496702"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -203,11 +203,11 @@
             <h4>
               <span>2023-12-02 @ 07:21:52</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38496669"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -225,13 +225,104 @@
             <h4>
               <span>2023-12-02 @ 06:56:12</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38496560"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="38496357">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=38496357"
+              >Why are we being DDoSed by Cloudflare?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-02 @ 06:06:52</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38496357"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                162.158.202.23 - - [01/Dec/2023:23:30:02 -0500] "GET / HTTP/1.1"
+                301 244
+              </p>
+              <p>
+                162.158.202.23 - - [01/Dec/2023:23:30:02 -0500] "GET / HTTP/1.1"
+                301 244
+              </p>
+              <p>
+                172.69.90.116 - - [01/Dec/2023:23:30:02 -0500] "GET / HTTP/1.1"
+                301 244
+              </p>
+              <p>
+                108.162.221.143 - - [01/Dec/2023:23:30:02 -0500] "GET /
+                HTTP/1.1" 301 244
+              </p>
+              <p>
+                162.158.235.85 - - [01/Dec/2023:23:30:02 -0500] "GET / HTTP/1.1"
+                301 244
+              </p>
+              <p>
+                162.158.110.143 - - [01/Dec/2023:23:30:02 -0500] "GET /
+                HTTP/1.1" 301 244
+              </p>
+              <p>
+                162.158.110.142 - - [01/Dec/2023:23:30:02 -0500] "GET /
+                HTTP/1.1" 301 244
+              </p>
+              <p>
+                162.158.202.23 - - [01/Dec/2023:23:30:02 -0500] "GET / HTTP/1.1"
+                301 244
+              </p>
+              <p>
+                162.158.202.22 - - [01/Dec/2023:23:30:02 -0500] "GET / HTTP/1.1"
+                301 244
+              </p>
+              <p>
+                162.158.202.23 - - [01/Dec/2023:23:30:02 -0500] "GET / HTTP/1.1"
+                301 244
+              </p>
+              <p>
+                (it was around 5800 requests per second to a site that normally
+                gets 1 request per second or less at this time of day, and
+                lasted 21.5 minutes).
+              </p>
+              <p>
+                As it is http, I don't think it could have been spoofed. I tried
+                contacting cloudflare, but they are impossible to contact unless
+                you are a customer. All their social media chat just uses bots
+                and it is impossible to connect to a human if you're not a
+                customer. I tried calling their emergency DDoS line, but the
+                person just said that cloudflare doesn't DDoS people (even
+                though I explained that the attack definitely came from their
+                network, and someone was likely using their service to DDoS us).
+                They simply refused to direct me to anyone else in their
+                company. The phone number is just for people looking to purchase
+                DDoS protection, and they don't have any other method of
+                contacting them.
+              </p>
+              <p>
+                So, can someone explain why Cloudflare seems to be DDoSing us,
+                and exactly how it happened?
+              </p>
+              <p>
+                There is no way to report abuse to Cloudflare unless it is a
+                cloudflare website. (I tried, and it refuses to submit the
+                report). I suspect it may be someone abusing their WARP VPN
+                service, but there doesn't seem to be any way of reporting abuse
+                about it.
+              </p>
+            </div>
           </section>
         </section>
         <section id="38496264">
@@ -245,11 +336,11 @@
             <h4>
               <span>2023-12-02 @ 05:48:10</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38496264"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -285,11 +376,11 @@
             <h4>
               <span>2023-12-02 @ 03:52:10</span
               ><span class="points-container"
-                >Points: <span class="points">316</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38495720"
                   >Comments</a
-                ><span class="descendants">: 198</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
@@ -307,7 +398,7 @@
             <h4>
               <span>2023-12-02 @ 03:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38495666"
                   >Comments</a
@@ -328,11 +419,11 @@
             <h4>
               <span>2023-12-02 @ 03:26:12</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38495596"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -367,11 +458,11 @@
             <h4>
               <span>2023-12-02 @ 02:14:51</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38495204"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -388,11 +479,11 @@
             <h4>
               <span>2023-12-02 @ 02:01:51</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38495121"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -412,7 +503,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38495054"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -473,7 +564,7 @@
             <h4>
               <span>2023-12-01 @ 23:27:06</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38494017"
                   >Comments</a
@@ -498,7 +589,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38493821"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -516,7 +607,7 @@
             <h4>
               <span>2023-12-01 @ 22:30:28</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38493442"
                   >Comments</a
@@ -535,11 +626,11 @@
             <h4>
               <span>2023-12-01 @ 21:05:01</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38492378"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
             <div class="text">
@@ -624,28 +715,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38491337"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38491088">
-          <h3>
-            <a
-              class="item"
-              href="https://theconversation.com/salad-fingers-wasnt-just-strange-it-was-art-heres-how-its-still-influencing-the-weird-part-of-youtube-2-decades-on-216911"
-              >Salad Fingers and the dawn of ‘weird YouTube’</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-01 @ 19:29:50</span
-              ><span class="points-container"
-                >Points: <span class="points">167</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38491088"
-                  >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -664,7 +734,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38490811"
                   >Comments</a
-                ><span class="descendants">: 267</span></span
+                ><span class="descendants">: 268</span></span
               >
             </h4>
             <div class="text">
@@ -727,7 +797,7 @@
             <h4>
               <span>2023-12-01 @ 17:19:28</span
               ><span class="points-container"
-                >Points: <span class="points">457</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38489307"
                   >Comments</a
@@ -752,7 +822,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38487359"
                   >Comments</a
-                ><span class="descendants">: 317</span></span
+                ><span class="descendants">: 319</span></span
               >
             </h4>
           </section>
@@ -768,7 +838,7 @@
             <h4>
               <span>2023-12-01 @ 14:42:40</span
               ><span class="points-container"
-                >Points: <span class="points">277</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38487199"
                   >Comments</a
@@ -847,7 +917,7 @@
             <h4>
               <span>2023-12-01 @ 08:54:02</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38484654"
                   >Comments</a
@@ -869,7 +939,7 @@
             <h4>
               <span>2023-12-01 @ 02:58:50</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38482507"
                   >Comments</a
