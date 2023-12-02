@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-02, 21:45:25",
+      "https://news.ycombinator.com/item?id=38502340"
+    ],
+    [
+      "Microsoft blocking Firefox login with FIDO2 key on office.com",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=1824831"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 21:43:49",
+      "https://news.ycombinator.com/item?id=38502327"
+    ],
+    [
+      "New study confirms: Many adults opt for child-free life without regret",
+      "https://www.psypost.org/2023/12/new-study-confirms-many-adults-opt-for-child-free-life-without-regret-214806"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 21:01:55",
       "https://news.ycombinator.com/item?id=38502011"
     ],
@@ -17,6 +37,26 @@
     [
       "ACM Code of Ethics and Professional Conduct",
       "https://www.acm.org/code-of-ethics"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 20:44:27",
+      "https://news.ycombinator.com/item?id=38501878"
+    ],
+    [
+      "Scientists discover retinal cells that help stabilize our world view",
+      "https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 20:43:14",
+      "https://news.ycombinator.com/item?id=38501868"
+    ],
+    [
+      "Show HN: ThreeFold – Decentralized Cloud Infrastructure",
+      "https://threefold.io/"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2023-12-02, 07:28:38",
-      "https://news.ycombinator.com/item?id=38496702"
-    ],
-    [
-      "Designing a distributed SQL engine: Challenges and decisions",
-      "https://en.oceanbase.com/blog/2596985600"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 07:21:52",
       "https://news.ycombinator.com/item?id=38496669"
     ],
@@ -257,36 +287,6 @@
     [
       "Dutch astronomers prove last piece of gas feedback-feeding loop of black hole",
       "https://phys.org/news/2023-11-dutch-astronomers-piece-gas-feedback-feeding.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 19:07:02",
-      "https://news.ycombinator.com/item?id=38490811"
-    ],
-    [
-      "Ask HN: Who is hiring? (December 2023)",
-      "https://news.ycombinator.com/item?id=38490811"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 17:19:28",
-      "https://news.ycombinator.com/item?id=38489307"
-    ],
-    [
-      "Accidental database programming",
-      "https://sqlsync.dev/posts/stop-building-databases/"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 14:53:21",
-      "https://news.ycombinator.com/item?id=38487359"
-    ],
-    [
-      "The Seamless Communication models",
-      "https://ai.meta.com/research/seamless-communication/"
     ]
   ],
   [
