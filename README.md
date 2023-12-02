@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 13:57:10](https://news.ycombinator.com/item?id=38498650) - [World Bank to boost climate financing share to 45%](https://www.reuters.com/sustainability/sustainable-finance-reporting/world-bank-increases-climate-spending-45-2023-12-01/)
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
@@ -24,7 +25,6 @@
 * [2023-12-02, 00:32:44](https://news.ycombinator.com/item?id=38494529) - [New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
 * [2023-12-02, 00:22:51](https://news.ycombinator.com/item?id=38494466) - [Optical effect advances quantum computing with atomic qubits to a new dimension](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_410816.en.jsp)
 * [2023-12-01, 23:06:58](https://news.ycombinator.com/item?id=38493821) - [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
-* [2023-12-01, 20:29:50](https://news.ycombinator.com/item?id=38491893) - [Dutch astronomers prove last piece of gas feedback-feeding loop of black hole](https://phys.org/news/2023-11-dutch-astronomers-piece-gas-feedback-feeding.html)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Accidental database programming](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
