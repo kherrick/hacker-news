@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-02, 15:16:38](https://news.ycombinator.com/item?id=38499134) - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
+* [2023-12-02, 14:41:51](https://news.ycombinator.com/item?id=38498908) - [The more things go wrong, the more things going wrong](https://jakeseliger.com/2023/11/14/the-more-things-go-wrong-the-more-things-going-wrong/)
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
@@ -14,7 +15,6 @@
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 07:21:52](https://news.ycombinator.com/item?id=38496669) - [Review: A Dive into Mikrotik's Weird SmartNIC (2022)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
-* [2023-12-02, 05:37:03](https://news.ycombinator.com/item?id=38496206) - [\"Smartifying\" my Hi-Fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:17:01](https://news.ycombinator.com/item?id=38495559) - [Chrome's next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
