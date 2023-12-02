@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 21:45:25](https://news.ycombinator.com/item?id=38502340) - [Microsoft blocking Firefox login with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
+* [2023-12-02, 21:43:49](https://news.ycombinator.com/item?id=38502327) - [New study confirms: Many adults opt for child-free life without regret](https://www.psypost.org/2023/12/new-study-confirms-many-adults-opt-for-child-free-life-without-regret-214806)
 * [2023-12-02, 21:02:01](https://news.ycombinator.com/item?id=38502012) - [90% of B2B YC companies have 50% of their revenue coming from other YC companies](https://twitter.com/laurenbalik/status/1730633287494754752)
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-02, 20:54:17](https://news.ycombinator.com/item?id=38501945) - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
+* [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
+* [2023-12-02, 20:43:14](https://news.ycombinator.com/item?id=38501868) - [Show HN: ThreeFold – Decentralized Cloud Infrastructure](https://threefold.io/)
 * [2023-12-02, 20:31:04](https://news.ycombinator.com/item?id=38501766) - [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
 * [2023-12-02, 19:43:30](https://news.ycombinator.com/item?id=38501348) - [Netgear Nighthawk M6 Pro 5G MmWave WiFi 6E Mobile Hotspot Router and Antenna](https://www.netgear.com/home/mobile-wifi/hotspots/mr6550/)
 * [2023-12-02, 19:31:21](https://news.ycombinator.com/item?id=38501253) - [Electric Vehicles Are Less Reliable Than Conventional Cars](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/electric-vehicles-are-less-reliable-than-conventional-cars-a1047214174/)
