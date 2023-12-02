@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 15:26:27](https://news.ycombinator.com/item?id=38499197) - [Tell HN: EmacsConf Live Now](https://emacsconf.org)
 * [2023-12-02, 15:16:38](https://news.ycombinator.com/item?id=38499134) - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
 * [2023-12-02, 14:41:51](https://news.ycombinator.com/item?id=38498908) - [The more things go wrong, the more things going wrong](https://jakeseliger.com/2023/11/14/the-more-things-go-wrong-the-more-things-going-wrong/)
+* [2023-12-02, 14:22:34](https://news.ycombinator.com/item?id=38498775) - [Is Ada safer than Rust?](https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/)
 * [2023-12-02, 13:57:10](https://news.ycombinator.com/item?id=38498650) - [World Bank to boost climate financing share to 45%](https://www.reuters.com/sustainability/sustainable-finance-reporting/world-bank-increases-climate-spending-45-2023-12-01/)
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)

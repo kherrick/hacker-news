@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 15:26:27](https://news.ycombinator.com/item?id=38499197) - [Tell HN: EmacsConf Live Now](https://emacsconf.org)
 * [2023-12-02, 15:16:38](https://news.ycombinator.com/item?id=38499134) - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
-* [2023-12-02, 14:41:51](https://news.ycombinator.com/item?id=38498908) - [The more things go wrong, the more things going wrong](https://jakeseliger.com/2023/11/14/the-more-things-go-wrong-the-more-things-going-wrong/)
+* [2023-12-02, 14:22:34](https://news.ycombinator.com/item?id=38498775) - [Is Ada safer than Rust?](https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/)
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
@@ -25,7 +26,6 @@
 * [2023-12-02, 00:41:49](https://news.ycombinator.com/item?id=38494595) - [Fixing Canvas (2010)](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/4/10_Fixing_Canvas.html)
 * [2023-12-02, 00:32:44](https://news.ycombinator.com/item?id=38494529) - [New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
 * [2023-12-02, 00:22:51](https://news.ycombinator.com/item?id=38494466) - [Optical effect advances quantum computing with atomic qubits to a new dimension](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_410816.en.jsp)
-* [2023-12-01, 19:49:07](https://news.ycombinator.com/item?id=38491337) - [Three American climbers solve the 'last great problem in the Himalayas'](https://www.nytimes.com/2023/12/01/us/climbing-jannu-north-face.html)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Accidental database programming](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
