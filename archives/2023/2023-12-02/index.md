@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 06:05:24](https://news.ycombinator.com/item?id=38496347) - [Advent of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
 * [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
 * [2023-12-02, 05:21:32](https://news.ycombinator.com/item?id=38496143) - [Calling 'Fake' on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
 * [2023-12-02, 04:29:41](https://news.ycombinator.com/item?id=38495875) - [Meta will enforce ban on AI-powered political ads in every nation, no exceptions](https://www.zdnet.com/article/meta-will-enforce-ban-on-ai-powered-political-ads-in-every-nation-no-exceptions/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 06:05:24](https://news.ycombinator.com/item?id=38496347) - [Advent of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
 * [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
 * [2023-12-02, 05:21:32](https://news.ycombinator.com/item?id=38496143) - [Calling 'Fake' on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
 * [2023-12-02, 04:29:41](https://news.ycombinator.com/item?id=38495875) - [Meta will enforce ban on AI-powered political ads in every nation, no exceptions](https://www.zdnet.com/article/meta-will-enforce-ban-on-ai-powered-political-ads-in-every-nation-no-exceptions/)
@@ -11,7 +12,6 @@
 * [2023-12-02, 02:01:51](https://news.ycombinator.com/item?id=38495121) - [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
 * [2023-12-02, 01:53:16](https://news.ycombinator.com/item?id=38495054) - [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
 * [2023-12-02, 00:32:44](https://news.ycombinator.com/item?id=38494529) - [New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
-* [2023-12-02, 00:22:51](https://news.ycombinator.com/item?id=38494466) - [Optical effect advances quantum computing with atomic qubits to a new dimension](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_410816.en.jsp)
 * [2023-12-02, 00:09:15](https://news.ycombinator.com/item?id=38494365) - [Thank Eve for Human Evolution](https://nautil.us/thank-eve-for-human-evolution-454981/)
 * [2023-12-01, 23:27:06](https://news.ycombinator.com/item?id=38494017) - [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
 * [2023-12-01, 23:06:58](https://news.ycombinator.com/item?id=38493821) - [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
@@ -24,11 +24,11 @@
 * [2023-12-01, 19:07:01](https://news.ycombinator.com/item?id=38490809) - [Ask HN: Who wants to be hired? (December 2023)](https://news.ycombinator.com/item?id=38490809)
 * [2023-12-01, 17:22:01](https://news.ycombinator.com/item?id=38489340) - [Onyx, a new programming language powered by WebAssembly](https://wasmer.io/posts/onyxlang-powered-by-wasmer)
 * [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Accidental database programming](https://sqlsync.dev/posts/stop-building-databases/)
+* [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:42:40](https://news.ycombinator.com/item?id=38487199) - [Show HN: 80% faster, 50% less memory, 0% loss of accuracy Llama finetuning](https://github.com/unslothai/unsloth)
 * [2023-12-01, 09:49:32](https://news.ycombinator.com/item?id=38485002) - [Why Did These LEDs Light Up? ESP32-S3 – Which Pins Are Safe to Use? [video]](https://www.youtube.com/watch?v=tC-DLeI6hjQ)
 * [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
-* [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 02:58:50](https://news.ycombinator.com/item?id=38482507) - [Miniaturized technique to generate precise wavelengths of visible laser light](https://phys.org/news/2023-11-scientists-miniaturized-technique-generate-precise.html)
 
 ## [Archives](archives/index.md)
