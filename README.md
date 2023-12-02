@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-02, 22:00:32](https://news.ycombinator.com/item?id=38502497) - [Ukraine aid's best-kept secret: Most of the money stays in the USA](https://www.washingtonpost.com/opinions/2023/11/29/ukraine-military-aid-american-economy-boost/)
+* [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 * [2023-12-02, 21:45:25](https://news.ycombinator.com/item?id=38502340) - [Can't sign in with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-02, 20:54:17](https://news.ycombinator.com/item?id=38501945) - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
@@ -17,7 +17,7 @@
 * [2023-12-02, 16:15:09](https://news.ycombinator.com/item?id=38499610) - [Integrity-178B: Safety Critical Real-Time OS](https://www.ghs.com/products/safety_critical/integrity_178_tump.html)
 * [2023-12-02, 14:45:26](https://news.ycombinator.com/item?id=38498934) - [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
 * [2023-12-02, 14:06:48](https://news.ycombinator.com/item?id=38498688) - [GQL – Git Query Language](https://github.com/AmrDeveloper/GQL)
-* [2023-12-02, 13:02:24](https://news.ycombinator.com/item?id=38498332) - [The Universe in a lab: Testing alternate cosmology using a cloud of atoms](https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/)
+* [2023-12-02, 13:02:24](https://news.ycombinator.com/item?id=38498332) - [Testing alternate cosmology using a cloud of atoms](https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 10:28:18](https://news.ycombinator.com/item?id=38497570) - [Show HN: A Time-Sharing Scheduling Coroutine Script Language](https://melang.org/)

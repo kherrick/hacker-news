@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 * [2023-12-02, 22:00:32](https://news.ycombinator.com/item?id=38502497) - [Ukraine aid's best-kept secret: Most of the money stays in the USA](https://www.washingtonpost.com/opinions/2023/11/29/ukraine-military-aid-american-economy-boost/)
 * [2023-12-02, 21:45:25](https://news.ycombinator.com/item?id=38502340) - [Microsoft blocking Firefox login with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
 * [2023-12-02, 21:43:49](https://news.ycombinator.com/item?id=38502327) - [New study confirms: Many adults opt for child-free life without regret](https://www.psypost.org/2023/12/new-study-confirms-many-adults-opt-for-child-free-life-without-regret-214806)
