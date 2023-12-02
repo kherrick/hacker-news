@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 22:00:32](https://news.ycombinator.com/item?id=38502497) - [Ukraine aid's best-kept secret: Most of the money stays in the USA](https://www.washingtonpost.com/opinions/2023/11/29/ukraine-military-aid-american-economy-boost/)
 * [2023-12-02, 21:45:25](https://news.ycombinator.com/item?id=38502340) - [Microsoft blocking Firefox login with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
 * [2023-12-02, 21:43:49](https://news.ycombinator.com/item?id=38502327) - [New study confirms: Many adults opt for child-free life without regret](https://www.psypost.org/2023/12/new-study-confirms-many-adults-opt-for-child-free-life-without-regret-214806)
 * [2023-12-02, 21:28:37](https://news.ycombinator.com/item?id=38502210) - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/)
@@ -50,6 +51,7 @@
 * [2023-12-02, 14:06:48](https://news.ycombinator.com/item?id=38498688) - [GitQL now supports Date, Time and DateTime implicit casting](https://github.com/AmrDeveloper/GQL)
 * [2023-12-02, 13:57:10](https://news.ycombinator.com/item?id=38498650) - [World Bank to boost climate financing share to 45%](https://www.reuters.com/sustainability/sustainable-finance-reporting/world-bank-increases-climate-spending-45-2023-12-01/)
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
+* [2023-12-02, 13:02:24](https://news.ycombinator.com/item?id=38498332) - [The Universe in a lab: Testing alternate cosmology using a cloud of atoms](https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 * [2023-12-02, 12:18:35](https://news.ycombinator.com/item?id=38498090) - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
