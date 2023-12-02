@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 17:25:39](https://news.ycombinator.com/item?id=38500146) - [Ask HN: Is React Native still popular?](https://news.ycombinator.com/item?id=38500146)
 * [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
 * [2023-12-02, 16:43:43](https://news.ycombinator.com/item?id=38499843) - [Generative AI is killing our sense of awe](https://www.fastcompany.com/90916652/generative-ai-killing-sense-of-awe)
 * [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
@@ -15,7 +16,6 @@
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 07:55:04](https://news.ycombinator.com/item?id=38496816) - [Submarine Cable Map 2023](https://submarine-cable-map-2023.telegeography.com/)
-* [2023-12-02, 07:32:54](https://news.ycombinator.com/item?id=38496715) - [Scalable extraction of training data from (production) language models](https://arxiv.org/abs/2311.17035)
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 07:21:52](https://news.ycombinator.com/item?id=38496669) - [Review: A Dive into Mikrotik's Weird SmartNIC (2022)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)

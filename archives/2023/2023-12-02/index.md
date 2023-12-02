@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 17:25:39](https://news.ycombinator.com/item?id=38500146) - [Ask HN: Is React Native still popular?](https://news.ycombinator.com/item?id=38500146)
 * [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
 * [2023-12-02, 16:43:43](https://news.ycombinator.com/item?id=38499843) - [Generative AI is killing our sense of awe](https://www.fastcompany.com/90916652/generative-ai-killing-sense-of-awe)
 * [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
