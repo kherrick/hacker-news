@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus Linked to Undetected Auditory Nerve Damage – A Step Towards a Cure](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+* [2023-12-02, 05:21:32](https://news.ycombinator.com/item?id=38496143) - [Calling 'Fake' on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
+* [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:26:12](https://news.ycombinator.com/item?id=38495596) - [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
 * [2023-12-02, 03:17:01](https://news.ycombinator.com/item?id=38495559) - [Chrome's next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
@@ -25,7 +26,6 @@
 * [2023-12-01, 17:00:37](https://news.ycombinator.com/item?id=38489044) - [PropelAuth (YC W22) Is Hiring Support Engineers](https://www.workatastartup.com/jobs/63193)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:42:40](https://news.ycombinator.com/item?id=38487199) - [Show HN: 80% faster, 50% less memory, 0% loss of accuracy Llama finetuning](https://github.com/unslothai/unsloth)
-* [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 * [2023-12-01, 13:46:20](https://news.ycombinator.com/item?id=38486575) - [A giant thin stellar stream in the Coma Galaxy Cluster](https://www.aanda.org/articles/aa/full_html/2023/11/aa46780-23/aa46780-23.html)
 * [2023-12-01, 09:49:32](https://news.ycombinator.com/item?id=38485002) - [Why Did These LEDs Light Up? ESP32-S3 – Which Pins Are Safe to Use? [video]](https://www.youtube.com/watch?v=tC-DLeI6hjQ)
 * [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 05:21:32](https://news.ycombinator.com/item?id=38496143) - [Calling 'Fake' on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus Linked to Undetected Auditory Nerve Damage – A Step Towards a Cure](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:26:12](https://news.ycombinator.com/item?id=38495596) - [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
