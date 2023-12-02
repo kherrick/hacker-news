@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 * [2023-12-02, 12:18:35](https://news.ycombinator.com/item?id=38498090) - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
 * [2023-12-02, 12:06:40](https://news.ycombinator.com/item?id=38498018) - [Things that Transport for London can figure out by using our location data](https://www.londonreconnections.com/2023/its-crazy-how-much-tfl-can-learn-about-us-from-our-mobile-data-jamesomalley/)
@@ -31,6 +32,7 @@
 * [2023-12-02, 03:17:01](https://news.ycombinator.com/item?id=38495559) - [Chrome's next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
 * [2023-12-02, 03:14:26](https://news.ycombinator.com/item?id=38495542) - [Insanity of Modern Automotive Electronics Will Lead to a Mechanical Revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
 * [2023-12-02, 02:59:38](https://news.ycombinator.com/item?id=38495474) - [OpenChat Aura Running in Chatbot UI](https://openchat.team/)
+* [2023-12-02, 02:57:03](https://news.ycombinator.com/item?id=38495458) - [Conditioning honeybees to a mimic odor increases foraging activity](https://link.springer.com/article/10.1007/s13592-023-01019-7)
 * [2023-12-02, 02:46:46](https://news.ycombinator.com/item?id=38495397) - [MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators (2000)](https://www.micromac.com/index.html)
 * [2023-12-02, 02:44:33](https://news.ycombinator.com/item?id=38495385) - [The Evolution of Intelligence Itself](https://metastable.org/evolution.html)
 * [2023-12-02, 02:14:51](https://news.ycombinator.com/item?id=38495204) - [Not Everything Is Google's Fault (Just Many Things)](https://blog.railway.app/p/gcp-incidents)
