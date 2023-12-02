@@ -10,6 +10,7 @@
 * [2023-12-02, 07:21:52](https://news.ycombinator.com/item?id=38496669) - [Review: A Dive into MikroTik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 06:56:12](https://news.ycombinator.com/item?id=38496560) - [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
 * [2023-12-02, 06:52:34](https://news.ycombinator.com/item?id=38496535) - [COP28: Countries launch declaration to triple nuclear energy by 2050](https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key)
+* [2023-12-02, 06:06:52](https://news.ycombinator.com/item?id=38496357) - [Why are we being DDoSed by Cloudflare?](https://news.ycombinator.com/item?id=38496357)
 * [2023-12-02, 06:05:24](https://news.ycombinator.com/item?id=38496347) - [Advent of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
 * [2023-12-02, 05:56:40](https://news.ycombinator.com/item?id=38496304) - [Ask HN: Which Wireless Carriers Protect Against SIM Swapping & Port-Out Attacks?](https://news.ycombinator.com/item?id=38496304)
 * [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
