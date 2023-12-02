@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-02, 20:31:04](https://news.ycombinator.com/item?id=38501766) - [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
 * [2023-12-02, 19:43:30](https://news.ycombinator.com/item?id=38501348) - [Netgear Nighthawk M6 Pro 5G MmWave WiFi 6E Mobile Hotspot Router and Antenna](https://www.netgear.com/home/mobile-wifi/hotspots/mr6550/)
 * [2023-12-02, 19:31:21](https://news.ycombinator.com/item?id=38501253) - [Electric Vehicles Are Less Reliable Than Conventional Cars](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/electric-vehicles-are-less-reliable-than-conventional-cars-a1047214174/)
 * [2023-12-02, 19:14:08](https://news.ycombinator.com/item?id=38501111) - [LLMs are a revolution in open source](https://the.scapegoat.dev/llms-are-a-revolution-in-open-source/)
+* [2023-12-02, 19:03:44](https://news.ycombinator.com/item?id=38501030) - [Advent of Technical Writing: Navigation Structure (Day 1 of 24)](https://jamesg.blog/2023/12/02/advent-of-technical-writing/)
 * [2023-12-02, 18:51:00](https://news.ycombinator.com/item?id=38500909) - [I bought a container full of backyard electric construction equipment from China](https://electrek.co/2023/11/30/i-bought-container-full-of-electric-tractors-and-construction-equipment/)
 * [2023-12-02, 18:50:28](https://news.ycombinator.com/item?id=38500906) - [Singing to babies is vital to help them learn language, say scientists](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
 * [2023-12-02, 18:39:58](https://news.ycombinator.com/item?id=38500821) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
