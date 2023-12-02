@@ -6,10 +6,10 @@
 * [2023-12-02, 18:34:51](https://news.ycombinator.com/item?id=38500782) - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
-* [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
+* [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark patterns in UX design and how to avoid them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
+* [2023-12-02, 16:35:37](https://news.ycombinator.com/item?id=38499781) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-02, 16:29:15](https://news.ycombinator.com/item?id=38499723) - [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
 * [2023-12-02, 16:15:09](https://news.ycombinator.com/item?id=38499610) - [Safety Critical Real-Time OS: Integrity-178B](https://www.ghs.com/products/safety_critical/integrity_178_tump.html)
-* [2023-12-02, 15:26:27](https://news.ycombinator.com/item?id=38499197) - [EmacsConf Live Now](https://emacsconf.org)
 * [2023-12-02, 14:45:26](https://news.ycombinator.com/item?id=38498934) - [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
 * [2023-12-02, 14:22:34](https://news.ycombinator.com/item?id=38498775) - [Is Ada safer than Rust?](https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/)
 * [2023-12-02, 14:06:48](https://news.ycombinator.com/item?id=38498688) - [GQL – Git Query Language](https://github.com/AmrDeveloper/GQL)
@@ -28,8 +28,8 @@
 * [2023-12-01, 23:26:57](https://news.ycombinator.com/item?id=38494016) - [Why Are Golang Heaps So Complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)
 * [2023-12-01, 20:29:50](https://news.ycombinator.com/item?id=38491893) - [Dutch astronomers prove last piece of gas feedback-feeding loop of black hole](https://phys.org/news/2023-11-dutch-astronomers-piece-gas-feedback-feeding.html)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
-* [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Accidental database programming](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
+* [2023-12-01, 09:57:14](https://news.ycombinator.com/item?id=38485048) - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
 ## [Archives](archives/index.md)
 
