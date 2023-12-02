@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 20:31:04](https://news.ycombinator.com/item?id=38501766) - [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
 * [2023-12-02, 19:14:08](https://news.ycombinator.com/item?id=38501111) - [LLMs are a revolution in open source](https://the.scapegoat.dev/llms-are-a-revolution-in-open-source/)
 * [2023-12-02, 18:50:28](https://news.ycombinator.com/item?id=38500906) - [Singing to babies is vital to help them learn language, say scientists](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
 * [2023-12-02, 18:39:58](https://news.ycombinator.com/item?id=38500821) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
@@ -22,7 +23,6 @@
 * [2023-12-02, 07:21:52](https://news.ycombinator.com/item?id=38496669) - [Review: A Dive into Mikrotik's Weird SmartNIC (2022)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
-* [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:14:26](https://news.ycombinator.com/item?id=38495542) - [Modern automotive electronics will lead to a mechanical revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
 * [2023-12-02, 02:57:03](https://news.ycombinator.com/item?id=38495458) - [Conditioning honeybees to a mimic odor increases foraging activity](https://link.springer.com/article/10.1007/s13592-023-01019-7)
 * [2023-12-01, 23:26:57](https://news.ycombinator.com/item?id=38494016) - [Why Are Golang Heaps So Complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)

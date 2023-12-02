@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 20:31:04](https://news.ycombinator.com/item?id=38501766) - [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
 * [2023-12-02, 19:43:30](https://news.ycombinator.com/item?id=38501348) - [Netgear Nighthawk M6 Pro 5G MmWave WiFi 6E Mobile Hotspot Router and Antenna](https://www.netgear.com/home/mobile-wifi/hotspots/mr6550/)
 * [2023-12-02, 19:31:21](https://news.ycombinator.com/item?id=38501253) - [Electric Vehicles Are Less Reliable Than Conventional Cars](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/electric-vehicles-are-less-reliable-than-conventional-cars-a1047214174/)
 * [2023-12-02, 19:14:08](https://news.ycombinator.com/item?id=38501111) - [LLMs are a revolution in open source](https://the.scapegoat.dev/llms-are-a-revolution-in-open-source/)
