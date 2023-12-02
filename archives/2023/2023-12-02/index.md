@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
 * [2023-12-02, 05:21:32](https://news.ycombinator.com/item?id=38496143) - [Calling 'Fake' on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
 * [2023-12-02, 04:29:41](https://news.ycombinator.com/item?id=38495875) - [Meta will enforce ban on AI-powered political ads in every nation, no exceptions](https://www.zdnet.com/article/meta-will-enforce-ban-on-ai-powered-political-ads-in-every-nation-no-exceptions/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus Linked to Undetected Auditory Nerve Damage – A Step Towards a Cure](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
@@ -12,6 +13,7 @@
 * [2023-12-02, 03:17:01](https://news.ycombinator.com/item?id=38495559) - [Chrome's next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
 * [2023-12-02, 03:14:26](https://news.ycombinator.com/item?id=38495542) - [Insanity of Modern Automotive Electronics Will Lead to a Mechanical Revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
 * [2023-12-02, 02:44:33](https://news.ycombinator.com/item?id=38495385) - [The Evolution of Intelligence Itself](https://metastable.org/evolution.html)
+* [2023-12-02, 02:14:51](https://news.ycombinator.com/item?id=38495204) - [Not Everything Is Google's Fault (Just Many Things)](https://blog.railway.app/p/gcp-incidents)
 * [2023-12-02, 02:08:58](https://news.ycombinator.com/item?id=38495170) - [Ozempic could change the economy as we know it](https://www.businessinsider.com/semaglutide-wegovy-ozempic-weight-loss-healthcare-airlines-economy-productivity-2023-11)
 * [2023-12-02, 02:05:08](https://news.ycombinator.com/item?id=38495146) - [Amazon's Q has 'severe hallucinations' and leaks confidential data](https://www.platformer.news/p/amazons-q-has-severe-hallucinations)
 * [2023-12-02, 02:01:51](https://news.ycombinator.com/item?id=38495121) - [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
