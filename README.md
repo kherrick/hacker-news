@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 08:52:01](https://news.ycombinator.com/item?id=38497143) - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
 * [2023-12-02, 07:32:54](https://news.ycombinator.com/item?id=38496715) - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
@@ -28,7 +29,6 @@
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 * [2023-12-01, 14:42:40](https://news.ycombinator.com/item?id=38487199) - [Show HN: 80% faster, 50% less memory, 0% loss of accuracy Llama finetuning](https://github.com/unslothai/unsloth)
 * [2023-12-01, 09:49:32](https://news.ycombinator.com/item?id=38485002) - [Why Did These LEDs Light Up? ESP32-S3 – Which Pins Are Safe to Use? [video]](https://www.youtube.com/watch?v=tC-DLeI6hjQ)
-* [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
 * [2023-12-01, 02:58:50](https://news.ycombinator.com/item?id=38482507) - [Miniaturized technique to generate precise wavelengths of visible laser light](https://phys.org/news/2023-11-scientists-miniaturized-technique-generate-precise.html)
 
 ## [Archives](archives/index.md)
