@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 18:33:02](https://news.ycombinator.com/item?id=38500765) - [Signet App – Your digital identity and security of communications at your palm](https://signet.app/)
 * [2023-12-02, 18:18:53](https://news.ycombinator.com/item?id=38500641) - [UAW Launches Largest Organizing Drive in Modern American History](https://substack.perfectunion.us/p/uaw-launches-largest-organizing-drive)
 * [2023-12-02, 17:31:31](https://news.ycombinator.com/item?id=38500192) - [Who Is BasedBeffJezos, Leader of the 'E/Acc' Movement?](https://www.forbes.com/sites/emilybaker-white/2023/12/01/who-is-basedbeffjezos-the-leader-of-effective-accelerationism-eacc/)
 * [2023-12-02, 17:25:39](https://news.ycombinator.com/item?id=38500146) - [Ask HN: Is React Native still popular?](https://news.ycombinator.com/item?id=38500146)
+* [2023-12-02, 17:00:28](https://news.ycombinator.com/item?id=38499963) - [Playstation to Delete a Ton of TV Shows Users Already Paid For](https://kotaku.com/sony-ps4-ps5-discovery-mythbusters-tv-1851066164)
 * [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
 * [2023-12-02, 16:43:43](https://news.ycombinator.com/item?id=38499843) - [Generative AI is killing our sense of awe](https://www.fastcompany.com/90916652/generative-ai-killing-sense-of-awe)
 * [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
