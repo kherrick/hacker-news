@@ -5,28 +5,8 @@
       "https://news.ycombinator.com/item?id=38502340"
     ],
     [
-      "Microsoft blocking Firefox login with FIDO2 key on office.com",
+      "Can't sign in with FIDO2 key on office.com",
       "https://bugzilla.mozilla.org/show_bug.cgi?id=1824831"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 21:28:37",
-      "https://news.ycombinator.com/item?id=38502210"
-    ],
-    [
-      "Things Every Hacker Once Knew",
-      "http://www.catb.org/esr/faqs/things-every-hacker-once-knew/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 21:08:59",
-      "https://news.ycombinator.com/item?id=38502070"
-    ],
-    [
-      "Is the American Dream Dead?",
-      "https://www.ft.com/content/048d0119-b2c6-4aa1-a6bd-0b4a3549882c"
     ]
   ],
   [
@@ -67,6 +47,16 @@
     [
       "Show HN: ThreeFold – Decentralized Cloud Infrastructure",
       "https://threefold.io/"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 20:32:53",
+      "https://news.ycombinator.com/item?id=38501779"
+    ],
+    [
+      "How Meta patches Linux at hyperscale",
+      "https://thenewstack.io/how-meta-patches-linux-at-hyperscale/"
     ]
   ],
   [
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2023-12-02, 16:35:37",
-      "https://news.ycombinator.com/item?id=38499781"
-    ],
-    [
-      "Untyped Python: The Python That Was",
-      "https://lucumr.pocoo.org/2023/12/1/the-python-that-was/"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 16:15:09",
       "https://news.ycombinator.com/item?id=38499610"
     ],
@@ -167,6 +147,16 @@
     [
       "Understanding Objective-C by transpiling it to C++",
       "https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 14:22:34",
+      "https://news.ycombinator.com/item?id=38498775"
+    ],
+    [
+      "Is Ada safer than Rust?",
+      "https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Submarine Cable Map 2023",
       "https://submarine-cable-map-2023.telegeography.com/"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 07:28:38",
+      "https://news.ycombinator.com/item?id=38496702"
+    ],
+    [
+      "Designing a distributed SQL engine: Challenges and decisions",
+      "https://en.oceanbase.com/blog/2596985600"
     ]
   ],
   [
