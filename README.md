@@ -27,8 +27,8 @@
 * [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
 * [2023-12-01, 08:40:47](https://news.ycombinator.com/item?id=38484567) - [What if mass storage were free? – George Copeland (1980) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800083.802685)
 * [2023-12-01, 05:48:10](https://news.ycombinator.com/item?id=38483597) - [Quantum particles can feel the influence of gravitational fields](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect)
+* [2023-12-01, 04:37:22](https://news.ycombinator.com/item?id=38483181) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-12-01, 04:23:56](https://news.ycombinator.com/item?id=38483107) - [Using Turbo Frames and Streams Without Rails](https://radanskoric.com/experiments/using-turbo-frame-streams-without-rails)
-* [2023-12-01, 03:33:05](https://news.ycombinator.com/item?id=38482797) - [Divided by politics, a Colorado town mends its broken bones](https://www.nytimes.com/2023/11/30/us/politics/silverton-division.html)
 * [2023-12-01, 00:26:06](https://news.ycombinator.com/item?id=38481258) - [Booking.com hackers increase attacks on customers](https://www.bbc.co.uk/news/technology-67583486)
 
 ## [Archives](archives/index.md)
