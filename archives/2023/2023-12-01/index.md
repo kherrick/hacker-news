@@ -11,6 +11,7 @@
 * [2023-12-01, 23:11:34](https://news.ycombinator.com/item?id=38493871) - [Aging societies more vulnerable to collapse](https://santafe.edu/news-center/news/aging-societies-more-vulnerable-collapse#)
 * [2023-12-01, 23:06:58](https://news.ycombinator.com/item?id=38493821) - [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
 * [2023-12-01, 23:05:39](https://news.ycombinator.com/item?id=38493811) - [Britain's scariest libel firm can pursue anyone, anywhere](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
+* [2023-12-01, 22:56:06](https://news.ycombinator.com/item?id=38493721) - [When I Met the Pope](https://www.lrb.co.uk/the-paper/v45/n23/patricia-lockwood/diary)
 * [2023-12-01, 22:55:05](https://news.ycombinator.com/item?id=38493707) - [The skyhook solution](https://aeon.co/essays/space-junk-could-have-a-transcendent-purposeful-afterlife)
 * [2023-12-01, 22:30:28](https://news.ycombinator.com/item?id=38493442) - [Motile Living Biobots Self-Construct from Adult Human Somatic Progenitor Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202303575)
 * [2023-12-01, 22:19:50](https://news.ycombinator.com/item?id=38493299) - [Parrots learn to make video calls to chat with other parrots: study](https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls/)
