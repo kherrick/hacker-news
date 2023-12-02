@@ -23,6 +23,7 @@
 * [2023-12-01, 21:05:01](https://news.ycombinator.com/item?id=38492378) - [Ask HN: Who needs help this holidays?](https://news.ycombinator.com/item?id=38492378)
 * [2023-12-01, 21:00:27](https://news.ycombinator.com/item?id=38492304) - [CIA 2010 covert communication websites](https://ourbigbook.com/cirosantilli/cia-2010-covert-communication-websites)
 * [2023-12-01, 20:55:10](https://news.ycombinator.com/item?id=38492236) - [The Neglected Books page: Where forgotten books are remembered](https://neglectedbooks.com/)
+* [2023-12-01, 20:29:50](https://news.ycombinator.com/item?id=38491893) - [Dutch astronomers prove last piece of gas feedback-feeding loop of black hole](https://phys.org/news/2023-11-dutch-astronomers-piece-gas-feedback-feeding.html)
 * [2023-12-01, 20:24:37](https://news.ycombinator.com/item?id=38491826) - [Cocoa harvested by kids as young as 5 in Ghana: CBS News investigation](https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/)
 * [2023-12-01, 19:55:21](https://news.ycombinator.com/item?id=38491424) - [Seraph Secure: anti-scam software co-founded by Kitboga](https://www.seraphsecure.com/)
 * [2023-12-01, 19:53:30](https://news.ycombinator.com/item?id=38491394) - [Who is responsible for grade inflation at Yale?](https://marginalrevolution.com/marginalrevolution/2023/12/who-is-responsible-for-grade-inflation-at-yale-economists-are-meanies.html)
