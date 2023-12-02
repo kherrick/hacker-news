@@ -13,6 +13,7 @@
 * [2023-12-02, 21:08:59](https://news.ycombinator.com/item?id=38502070) - [Is the American Dream Dead?](https://www.ft.com/content/048d0119-b2c6-4aa1-a6bd-0b4a3549882c)
 * [2023-12-02, 21:02:01](https://news.ycombinator.com/item?id=38502012) - [90% of B2B YC companies have 50% of their revenue coming from other YC companies](https://twitter.com/laurenbalik/status/1730633287494754752)
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-12-02, 21:01:33](https://news.ycombinator.com/item?id=38502007) - [A new method to validate URLs in JavaScript (2023 edition)](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
 * [2023-12-02, 20:54:17](https://news.ycombinator.com/item?id=38501945) - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 * [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 * [2023-12-02, 20:43:14](https://news.ycombinator.com/item?id=38501868) - [Show HN: ThreeFold – Decentralized Cloud Infrastructure](https://threefold.io/)

@@ -4,6 +4,7 @@
 * [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 * [2023-12-02, 21:45:25](https://news.ycombinator.com/item?id=38502340) - [Can't sign in with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-12-02, 21:01:33](https://news.ycombinator.com/item?id=38502007) - [A new method to validate URLs in JavaScript (2023 edition)](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
 * [2023-12-02, 20:54:17](https://news.ycombinator.com/item?id=38501945) - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 * [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Scientists discover retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 * [2023-12-02, 20:43:14](https://news.ycombinator.com/item?id=38501868) - [Show HN: ThreeFold – Decentralized Cloud Infrastructure](https://threefold.io/)
@@ -28,7 +29,6 @@
 * [2023-12-02, 03:14:26](https://news.ycombinator.com/item?id=38495542) - [Modern automotive electronics will lead to a mechanical revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
 * [2023-12-02, 02:57:03](https://news.ycombinator.com/item?id=38495458) - [Conditioning honeybees to a mimic odor increases foraging activity](https://link.springer.com/article/10.1007/s13592-023-01019-7)
 * [2023-12-01, 23:26:57](https://news.ycombinator.com/item?id=38494016) - [Why are Golang heaps so complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)
-* [2023-12-01, 20:29:50](https://news.ycombinator.com/item?id=38491893) - [Dutch astronomers prove last piece of gas feedback-feeding loop of black hole](https://phys.org/news/2023-11-dutch-astronomers-piece-gas-feedback-feeding.html)
 * [2023-12-01, 09:57:14](https://news.ycombinator.com/item?id=38485048) - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
 ## [Archives](archives/index.md)
