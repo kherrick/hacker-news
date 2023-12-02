@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 * [2023-12-02, 12:18:35](https://news.ycombinator.com/item?id=38498090) - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
 * [2023-12-02, 12:01:54](https://news.ycombinator.com/item?id=38498000) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
@@ -13,7 +14,6 @@
 * [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:17:01](https://news.ycombinator.com/item?id=38495559) - [Chrome's next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
 * [2023-12-02, 02:59:38](https://news.ycombinator.com/item?id=38495474) - [OpenChat Aura Running in Chatbot UI](https://openchat.team/)
-* [2023-12-02, 02:46:46](https://news.ycombinator.com/item?id=38495397) - [MicroMac Technology's Home Page for Macintosh Upgrades and Accelerators (2000)](https://www.micromac.com/index.html)
 * [2023-12-02, 02:14:51](https://news.ycombinator.com/item?id=38495204) - [GCP Incidents](https://blog.railway.app/p/gcp-incidents)
 * [2023-12-02, 02:01:51](https://news.ycombinator.com/item?id=38495121) - [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
 * [2023-12-02, 01:53:16](https://news.ycombinator.com/item?id=38495054) - [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)

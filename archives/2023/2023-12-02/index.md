@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 * [2023-12-02, 12:18:35](https://news.ycombinator.com/item?id=38498090) - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
 * [2023-12-02, 12:06:40](https://news.ycombinator.com/item?id=38498018) - [Things that Transport for London can figure out by using our location data](https://www.londonreconnections.com/2023/its-crazy-how-much-tfl-can-learn-about-us-from-our-mobile-data-jamesomalley/)
 * [2023-12-02, 12:01:54](https://news.ycombinator.com/item?id=38498000) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
