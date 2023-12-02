@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 18:39:58](https://news.ycombinator.com/item?id=38500821) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
 * [2023-12-02, 18:33:02](https://news.ycombinator.com/item?id=38500765) - [Signet App – Your digital identity and security of communications at your palm](https://signet.app/)
+* [2023-12-02, 18:25:49](https://news.ycombinator.com/item?id=38500705) - [Ask HN: What is the best stack to find a job currently?](https://news.ycombinator.com/item?id=38500705)
 * [2023-12-02, 18:18:53](https://news.ycombinator.com/item?id=38500641) - [UAW Launches Largest Organizing Drive in Modern American History](https://substack.perfectunion.us/p/uaw-launches-largest-organizing-drive)
 * [2023-12-02, 17:31:31](https://news.ycombinator.com/item?id=38500192) - [Who Is BasedBeffJezos, Leader of the 'E/Acc' Movement?](https://www.forbes.com/sites/emilybaker-white/2023/12/01/who-is-basedbeffjezos-the-leader-of-effective-accelerationism-eacc/)
 * [2023-12-02, 17:25:39](https://news.ycombinator.com/item?id=38500146) - [Ask HN: Is React Native still popular?](https://news.ycombinator.com/item?id=38500146)
