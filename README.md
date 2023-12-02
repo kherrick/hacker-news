@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-02, 21:02:01](https://news.ycombinator.com/item?id=38502012) - [90% of B2B YC companies have 50% of their revenue coming from other YC companies](https://twitter.com/laurenbalik/status/1730633287494754752)
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-02, 20:54:17](https://news.ycombinator.com/item?id=38501945) - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 * [2023-12-02, 20:31:04](https://news.ycombinator.com/item?id=38501766) - [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
@@ -23,13 +22,14 @@
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a distributed SQL engine: Challenges and decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 07:21:52](https://news.ycombinator.com/item?id=38496669) - [Review: A Dive into Mikrotik's Weird SmartNIC (2022)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
-* [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric material makes refrigerant-free solid-state fridge scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:14:26](https://news.ycombinator.com/item?id=38495542) - [Modern automotive electronics will lead to a mechanical revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
 * [2023-12-02, 02:57:03](https://news.ycombinator.com/item?id=38495458) - [Conditioning honeybees to a mimic odor increases foraging activity](https://link.springer.com/article/10.1007/s13592-023-01019-7)
 * [2023-12-01, 23:26:57](https://news.ycombinator.com/item?id=38494016) - [Why are Golang heaps so complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)
 * [2023-12-01, 20:29:50](https://news.ycombinator.com/item?id=38491893) - [Dutch astronomers prove last piece of gas feedback-feeding loop of black hole](https://phys.org/news/2023-11-dutch-astronomers-piece-gas-feedback-feeding.html)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
+* [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Accidental database programming](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
+* [2023-12-01, 09:57:14](https://news.ycombinator.com/item?id=38485048) - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
 ## [Archives](archives/index.md)
 
