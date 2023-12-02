@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
 * [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
+* [2023-12-02, 16:35:37](https://news.ycombinator.com/item?id=38499781) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
+* [2023-12-02, 16:29:15](https://news.ycombinator.com/item?id=38499723) - [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
 * [2023-12-02, 15:26:27](https://news.ycombinator.com/item?id=38499197) - [Tell HN: EmacsConf Live Now](https://emacsconf.org)
 * [2023-12-02, 15:16:38](https://news.ycombinator.com/item?id=38499134) - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
 * [2023-12-02, 14:45:26](https://news.ycombinator.com/item?id=38498934) - [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)

@@ -13,6 +13,7 @@
 * [2023-11-29, 21:47:03](https://news.ycombinator.com/item?id=38465769) - [When Technology Follows Art](https://resobscura.substack.com/p/when-technology-follows-art)
 * [2023-11-29, 21:44:24](https://news.ycombinator.com/item?id=38465736) - [Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth](https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-5367-gbs-memory-bandwidth)
 * [2023-11-29, 21:39:11](https://news.ycombinator.com/item?id=38465693) - [Jerry (YC S17) Is Hiring VP Product (& Other Engineer and PM Roles)](https://jobs.ashbyhq.com/Jerry/921d3846-04e1-4430-a515-b91192a4993c)
+* [2023-11-29, 21:33:56](https://news.ycombinator.com/item?id=38465638) - [GraphScape: Modeling Similarity and Sequence Among Charts (2017)](https://medium.com/hci-design-at-uw/graphscape-modeling-similarity-sequence-among-charts-bd82cdbe866d)
 * [2023-11-29, 21:12:56](https://news.ycombinator.com/item?id=38465396) - [Towards Higher-Level Abstractions for Molecular Programming [video]](https://www.youtube.com/watch?v=rp2RqVE08Zo)
 * [2023-11-29, 21:11:20](https://news.ycombinator.com/item?id=38465378) - [Strange Loops: journeys in declarative logic programming in genomics [video]](https://www.youtube.com/watch?v=CG24QFdVh-0)
 * [2023-11-29, 21:00:41](https://news.ycombinator.com/item?id=38465254) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
