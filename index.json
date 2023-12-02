@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 15:16:38",
+      "https://news.ycombinator.com/item?id=38499134"
+    ],
+    [
+      "Ask HN: What are some unpopular technologies you wish people knew more about?",
+      "https://news.ycombinator.com/item?id=38499134"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 13:20:22",
       "https://news.ycombinator.com/item?id=38498434"
     ],
@@ -131,22 +141,22 @@
   ],
   [
     [
+      "2023-12-02, 06:06:52",
+      "https://news.ycombinator.com/item?id=38496357"
+    ],
+    [
+      "Why are we being DDoSed by Cloudflare?",
+      "https://news.ycombinator.com/item?id=38496357"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 05:48:10",
       "https://news.ycombinator.com/item?id=38496264"
     ],
     [
       "Easy to use OpenID Connect client and server library written for Go",
       "https://github.com/zitadel/oidc"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 04:21:19",
-      "https://news.ycombinator.com/item?id=38495835"
-    ],
-    [
-      "The Bonds We Make",
-      "https://www.milenerd.com/december-2023/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-12-01, 23:06:58",
-      "https://news.ycombinator.com/item?id=38493821"
-    ],
-    [
-      "A medieval Gothic monastery built using CAD / CAM",
-      "https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/"
-    ]
-  ],
-  [
-    [
       "2023-12-01, 19:07:02",
       "https://news.ycombinator.com/item?id=38490811"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-12-01, 14:42:40",
-      "https://news.ycombinator.com/item?id=38487199"
+      "2023-12-01, 04:37:22",
+      "https://news.ycombinator.com/item?id=38483181"
     ],
     [
-      "Show HN: 80% faster, 50% less memory, 0% loss of accuracy Llama finetuning",
-      "https://github.com/unslothai/unsloth"
+      "Code is run more than read",
+      "https://olano.dev/2023-11-30-code-is-run-more-than-read/"
     ]
   ]
 ]
