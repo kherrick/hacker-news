@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-01, 23:27:06](https://news.ycombinator.com/item?id=38494017) - [Nothing Personal: How ideas made Derek Parfit](https://hedgehogreview.com/issues/markets-and-the-good/articles/nothing-personal)
-* [2023-12-01, 23:21:52](https://news.ycombinator.com/item?id=38493963) - [Uber Joins the S&P 500](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-01-2023/card/uber-technologies-joins-the-s-p-500-JUPoBf8HFZP8ZeoZRZ6x)
 * [2023-12-01, 23:13:29](https://news.ycombinator.com/item?id=38493884) - [Deep Dive into the Vision Transformers Paper (ViT)](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
 * [2023-12-01, 23:06:58](https://news.ycombinator.com/item?id=38493821) - [A medieval Gothic monastery built using CAD / CAM](https://hackaday.com/2023/01/13/a-medieval-gothic-monastery-built-using-cad-cam/)
 * [2023-12-01, 23:05:39](https://news.ycombinator.com/item?id=38493811) - [Britain's scariest libel firm](https://www.economist.com/1843/2023/12/01/britains-scariest-libel-firm-can-pursue-anyone-anywhere)
@@ -22,6 +21,7 @@
 * [2023-12-01, 14:42:40](https://news.ycombinator.com/item?id=38487199) - [Show HN: 80% faster, 50% less memory, 0% loss of accuracy Llama finetuning](https://github.com/unslothai/unsloth)
 * [2023-12-01, 14:34:50](https://news.ycombinator.com/item?id=38487112) - [Easy Stable Diffusion XL in your device, offline](https://noiselith.com/)
 * [2023-12-01, 13:26:40](https://news.ycombinator.com/item?id=38486394) - [The Inside Story of Microsoft's Partnership with OpenAI](https://www.newyorker.com/magazine/2023/12/11/the-inside-story-of-microsofts-partnership-with-openai)
+* [2023-12-01, 12:47:15](https://news.ycombinator.com/item?id=38486075) - [ASML names Christophe Fouquet as new CEO](https://nltimes.nl/2023/11/30/chip-machine-maker-asml-names-christophe-fouquet-new-ceo)
 * [2023-12-01, 09:49:32](https://news.ycombinator.com/item?id=38485002) - [Why Did These LEDs Light Up? ESP32-S3 – Which Pins Are Safe to Use? [video]](https://www.youtube.com/watch?v=tC-DLeI6hjQ)
 * [2023-12-01, 08:54:02](https://news.ycombinator.com/item?id=38484654) - [Endatabas: A SQLite-inspired, SQL document database with full history](https://docs.endatabas.com/tutorial/quickstart.html)
 * [2023-12-01, 08:40:47](https://news.ycombinator.com/item?id=38484567) - [What if mass storage were free? – George Copeland (1980) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800083.802685)
