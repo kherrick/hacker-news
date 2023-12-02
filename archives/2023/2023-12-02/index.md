@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 19:43:30](https://news.ycombinator.com/item?id=38501348) - [Netgear Nighthawk M6 Pro 5G MmWave WiFi 6E Mobile Hotspot Router and Antenna](https://www.netgear.com/home/mobile-wifi/hotspots/mr6550/)
+* [2023-12-02, 18:51:00](https://news.ycombinator.com/item?id=38500909) - [I bought a container full of backyard electric construction equipment from China](https://electrek.co/2023/11/30/i-bought-container-full-of-electric-tractors-and-construction-equipment/)
 * [2023-12-02, 18:39:58](https://news.ycombinator.com/item?id=38500821) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
 * [2023-12-02, 18:34:51](https://news.ycombinator.com/item?id=38500782) - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-12-02, 18:33:02](https://news.ycombinator.com/item?id=38500765) - [Signet App – Your digital identity and security of communications at your palm](https://signet.app/)

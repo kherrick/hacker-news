@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 19:43:30](https://news.ycombinator.com/item?id=38501348) - [Netgear Nighthawk M6 Pro 5G MmWave WiFi 6E Mobile Hotspot Router and Antenna](https://www.netgear.com/home/mobile-wifi/hotspots/mr6550/)
+* [2023-12-02, 18:51:00](https://news.ycombinator.com/item?id=38500909) - [I bought a container full of backyard electric construction equipment from China](https://electrek.co/2023/11/30/i-bought-container-full-of-electric-tractors-and-construction-equipment/)
 * [2023-12-02, 18:39:58](https://news.ycombinator.com/item?id=38500821) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
 * [2023-12-02, 18:34:51](https://news.ycombinator.com/item?id=38500782) - [Galactic Algorithm](https://en.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-12-02, 17:00:28](https://news.ycombinator.com/item?id=38499963) - [Playstation to Delete a Ton of TV Shows Users Already Paid For](https://kotaku.com/sony-ps4-ps5-discovery-mythbusters-tv-1851066164)
@@ -24,11 +26,9 @@
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 02:57:03](https://news.ycombinator.com/item?id=38495458) - [Conditioning honeybees to a mimic odor increases foraging activity](https://link.springer.com/article/10.1007/s13592-023-01019-7)
-* [2023-12-02, 00:32:44](https://news.ycombinator.com/item?id=38494529) - [New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
 * [2023-12-01, 23:26:57](https://news.ycombinator.com/item?id=38494016) - [Why Are Golang Heaps So Complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)
 * [2023-12-01, 20:29:50](https://news.ycombinator.com/item?id=38491893) - [Dutch astronomers prove last piece of gas feedback-feeding loop of black hole](https://phys.org/news/2023-11-dutch-astronomers-piece-gas-feedback-feeding.html)
 * [2023-12-01, 19:07:02](https://news.ycombinator.com/item?id=38490811) - [Ask HN: Who is hiring? (December 2023)](https://news.ycombinator.com/item?id=38490811)
-* [2023-12-01, 17:19:28](https://news.ycombinator.com/item?id=38489307) - [Accidental database programming](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-01, 14:53:21](https://news.ycombinator.com/item?id=38487359) - [The Seamless Communication models](https://ai.meta.com/research/seamless-communication/)
 
 ## [Archives](archives/index.md)
