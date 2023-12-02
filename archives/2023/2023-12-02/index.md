@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 22:30:46](https://news.ycombinator.com/item?id=38502805) - [LibreChat](https://github.com/danny-avila/LibreChat)
 * [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 * [2023-12-02, 22:00:32](https://news.ycombinator.com/item?id=38502497) - [Ukraine aid's best-kept secret: Most of the money stays in the USA](https://www.washingtonpost.com/opinions/2023/11/29/ukraine-military-aid-american-economy-boost/)
 * [2023-12-02, 21:45:25](https://news.ycombinator.com/item?id=38502340) - [Microsoft blocking Firefox login with FIDO2 key on office.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1824831)
@@ -17,6 +18,7 @@
 * [2023-12-02, 20:43:14](https://news.ycombinator.com/item?id=38501868) - [Show HN: ThreeFold – Decentralized Cloud Infrastructure](https://threefold.io/)
 * [2023-12-02, 20:32:53](https://news.ycombinator.com/item?id=38501779) - [How Meta patches Linux at hyperscale](https://thenewstack.io/how-meta-patches-linux-at-hyperscale/)
 * [2023-12-02, 20:31:04](https://news.ycombinator.com/item?id=38501766) - [Porsche summons old-school cool with the 2024 911 Sport Classic](https://arstechnica.com/cars/2023/12/porsche-summons-old-school-cool-with-the-2024-911-sport-classic/)
+* [2023-12-02, 20:10:27](https://news.ycombinator.com/item?id=38501589) - [Multifaceted: The linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-02, 19:54:25](https://news.ycombinator.com/item?id=38501437) - [Modeling CRDTs in Alloy – Counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
 * [2023-12-02, 19:43:30](https://news.ycombinator.com/item?id=38501348) - [Netgear Nighthawk M6 Pro 5G MmWave WiFi 6E Mobile Hotspot Router and Antenna](https://www.netgear.com/home/mobile-wifi/hotspots/mr6550/)
 * [2023-12-02, 19:31:21](https://news.ycombinator.com/item?id=38501253) - [Electric Vehicles Are Less Reliable Than Conventional Cars](https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/electric-vehicles-are-less-reliable-than-conventional-cars-a1047214174/)
