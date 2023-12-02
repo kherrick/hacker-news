@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 22:00:32",
+      "https://news.ycombinator.com/item?id=38502497"
+    ],
+    [
+      "Ukraine aid's best-kept secret: Most of the money stays in the USA",
+      "https://www.washingtonpost.com/opinions/2023/11/29/ukraine-military-aid-american-economy-boost/"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 21:45:25",
       "https://news.ycombinator.com/item?id=38502340"
     ],
@@ -151,22 +161,22 @@
   ],
   [
     [
-      "2023-12-02, 14:22:34",
-      "https://news.ycombinator.com/item?id=38498775"
-    ],
-    [
-      "Is Ada safer than Rust?",
-      "https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 14:06:48",
       "https://news.ycombinator.com/item?id=38498688"
     ],
     [
       "GQL – Git Query Language",
       "https://github.com/AmrDeveloper/GQL"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 13:02:24",
+      "https://news.ycombinator.com/item?id=38498332"
+    ],
+    [
+      "The Universe in a lab: Testing alternate cosmology using a cloud of atoms",
+      "https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Submarine Cable Map 2023",
       "https://submarine-cable-map-2023.telegeography.com/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 07:28:38",
-      "https://news.ycombinator.com/item?id=38496702"
-    ],
-    [
-      "Designing a distributed SQL engine: Challenges and decisions",
-      "https://en.oceanbase.com/blog/2596985600"
     ]
   ],
   [
