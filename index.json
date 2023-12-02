@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-12-02, 14:22:34",
-      "https://news.ycombinator.com/item?id=38498775"
+      "2023-12-02, 14:45:26",
+      "https://news.ycombinator.com/item?id=38498934"
     ],
     [
-      "Is Ada safer than Rust?",
-      "https://old.reddit.com/r/rust/comments/17miqiu/is_ada_safer_than_rust/"
+      "Understanding Objective-C by transpiling it to C++",
+      "https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-12-01, 22:56:06",
+      "https://news.ycombinator.com/item?id=38493721"
+    ],
+    [
+      "When I Met the Pope",
+      "https://www.lrb.co.uk/the-paper/v45/n23/patricia-lockwood/diary"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 19:07:02",
       "https://news.ycombinator.com/item?id=38490811"
     ],
@@ -287,16 +297,6 @@
     [
       "The Seamless Communication models",
       "https://ai.meta.com/research/seamless-communication/"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 04:37:22",
-      "https://news.ycombinator.com/item?id=38483181"
-    ],
-    [
-      "Code is run more than read",
-      "https://olano.dev/2023-11-30-code-is-run-more-than-read/"
     ]
   ]
 ]
