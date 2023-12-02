@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus Linked to Undetected Auditory Nerve Damage – A Step Towards a Cure](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+* [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:26:12](https://news.ycombinator.com/item?id=38495596) - [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
 * [2023-12-02, 03:17:01](https://news.ycombinator.com/item?id=38495559) - [Chrome's next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
 * [2023-12-02, 03:14:26](https://news.ycombinator.com/item?id=38495542) - [Insanity of Modern Automotive Electronics Will Lead to a Mechanical Revolution [video]](https://www.youtube.com/watch?v=ANxhQ4wUiMQ)
