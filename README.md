@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-02, 08:03:22](https://news.ycombinator.com/item?id=38496867) - [Google Maps now looks more like Apple Maps – and a lot of people aren't happy](https://www.techradar.com/computing/software/google-maps-now-looks-more-like-apple-maps-and-a-lot-of-people-arent-happy)
 * [2023-12-02, 07:32:54](https://news.ycombinator.com/item?id=38496715) - [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 07:21:52](https://news.ycombinator.com/item?id=38496669) - [Review: A Dive into MikroTik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 06:56:12](https://news.ycombinator.com/item?id=38496560) - [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
-* [2023-12-02, 05:56:40](https://news.ycombinator.com/item?id=38496304) - [Ask HN: Which Wireless Carriers Protect Against SIM Swapping & Port-Out Attacks?](https://news.ycombinator.com/item?id=38496304)
 * [2023-12-02, 05:48:10](https://news.ycombinator.com/item?id=38496264) - [Easy to use OpenID Connect client and server library written for Go](https://github.com/zitadel/oidc)
 * [2023-12-02, 04:29:41](https://news.ycombinator.com/item?id=38495875) - [Meta will enforce ban on AI-powered political ads in every nation, no exceptions](https://www.zdnet.com/article/meta-will-enforce-ban-on-ai-powered-political-ads-in-every-nation-no-exceptions/)
 * [2023-12-02, 04:21:19](https://news.ycombinator.com/item?id=38495835) - [The Bonds We Make](https://www.milenerd.com/december-2023/)
