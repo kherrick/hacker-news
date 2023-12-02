@@ -11,6 +11,7 @@
 * [2023-12-02, 12:18:35](https://news.ycombinator.com/item?id=38498090) - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
 * [2023-12-02, 12:06:40](https://news.ycombinator.com/item?id=38498018) - [Things that Transport for London can figure out by using our location data](https://www.londonreconnections.com/2023/its-crazy-how-much-tfl-can-learn-about-us-from-our-mobile-data-jamesomalley/)
 * [2023-12-02, 12:01:54](https://news.ycombinator.com/item?id=38498000) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2023-12-02, 11:53:01](https://news.ycombinator.com/item?id=38497944) - [Startups weather a dismal year – 543 have declared bankruptcy or shut down](https://fortune.com/2023/11/30/startup-funding-bankruptcies-lower-valuations-2023/)
 * [2023-12-02, 11:23:30](https://news.ycombinator.com/item?id=38497814) - [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
