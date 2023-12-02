@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
 * [2023-12-02, 05:21:32](https://news.ycombinator.com/item?id=38496143) - [Calling 'Fake' on the iPhone Computational Photography Glitch](https://daringfireball.net/linked/2023/12/01/fake-iphone-computational-photography-glitch)
+* [2023-12-02, 04:29:41](https://news.ycombinator.com/item?id=38495875) - [Meta will enforce ban on AI-powered political ads in every nation, no exceptions](https://www.zdnet.com/article/meta-will-enforce-ban-on-ai-powered-political-ads-in-every-nation-no-exceptions/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus Linked to Undetected Auditory Nerve Damage – A Step Towards a Cure](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-02, 03:41:36](https://news.ycombinator.com/item?id=38495666) - [Electrocaloric Material Makes Refrigerant-Free Solid-State Fridge Scalable](https://spectrum.ieee.org/solid-state-refrigerator)
 * [2023-12-02, 03:26:12](https://news.ycombinator.com/item?id=38495596) - [Modern XMPP Server](https://docs.trueelena.org/self_hosting/modern_xmpp_server/index.html)
@@ -19,3 +20,4 @@
 * [2023-12-02, 00:32:44](https://news.ycombinator.com/item?id=38494529) - [New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
 * [2023-12-02, 00:22:51](https://news.ycombinator.com/item?id=38494466) - [Optical effect advances quantum computing with atomic qubits to a new dimension](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_410816.en.jsp)
 * [2023-12-02, 00:20:34](https://news.ycombinator.com/item?id=38494451) - [Chrome's next weapon in the War on Ad Blockers: Slower extension updates](https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/)
+* [2023-12-02, 00:09:15](https://news.ycombinator.com/item?id=38494365) - [Thank Eve for Human Evolution](https://nautil.us/thank-eve-for-human-evolution-454981/)
