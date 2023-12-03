@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-03, 01:44:42",
-      "https://news.ycombinator.com/item?id=38504027"
-    ],
-    [
-      "UniFi Express",
-      "https://ui.com/cloud-gateways/express"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 01:16:20",
       "https://news.ycombinator.com/item?id=38503896"
     ],
@@ -31,22 +21,22 @@
   ],
   [
     [
-      "2023-12-02, 23:59:28",
-      "https://news.ycombinator.com/item?id=38503462"
-    ],
-    [
-      "Factory construction boom in the US",
-      "https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 23:55:39",
       "https://news.ycombinator.com/item?id=38503439"
     ],
     [
       "Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar",
       "https://www.infoq.com/presentations/high-performance-asynchronous3/"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 22:49:38",
+      "https://news.ycombinator.com/item?id=38502979"
+    ],
+    [
+      "RISC-V Ox64 BL808 SBC: UART Interrupt and Platform-Level Interrupt Controller",
+      "https://lupyuen.codeberg.page/articles/plic2.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Ancient redwoods recover from fire by sprouting 1000-year-old buds",
       "https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 10:28:18",
+      "https://news.ycombinator.com/item?id=38497570"
+    ],
+    [
+      "Show HN: A Time-Sharing Scheduling Coroutine Script Language",
+      "https://melang.org/"
     ]
   ],
   [
