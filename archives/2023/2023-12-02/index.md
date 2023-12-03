@@ -43,6 +43,7 @@
 * [2023-12-02, 17:45:03](https://news.ycombinator.com/item?id=38500321) - [Chemist suggests retraction of DeepMind robotic synthesis paper](https://twitter.com/Robert_Palgrave/status/1730358675523424344)
 * [2023-12-02, 17:31:31](https://news.ycombinator.com/item?id=38500192) - [Who Is BasedBeffJezos, Leader of the 'E/Acc' Movement?](https://www.forbes.com/sites/emilybaker-white/2023/12/01/who-is-basedbeffjezos-the-leader-of-effective-accelerationism-eacc/)
 * [2023-12-02, 17:25:39](https://news.ycombinator.com/item?id=38500146) - [Ask HN: Is React Native still popular?](https://news.ycombinator.com/item?id=38500146)
+* [2023-12-02, 17:25:35](https://news.ycombinator.com/item?id=38500145) - [The city of the future looks like a former military bunker in Taipei](https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/)
 * [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Roar of cicadas was so loud, it was picked up by fiber-optic cables](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
 * [2023-12-02, 17:00:28](https://news.ycombinator.com/item?id=38499963) - [Playstation to Delete a Ton of TV Shows Users Already Paid For](https://kotaku.com/sony-ps4-ps5-discovery-mythbusters-tv-1851066164)
 * [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
