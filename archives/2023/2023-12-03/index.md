@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
 * [2023-12-03, 21:11:00](https://news.ycombinator.com/item?id=38510805) - [Three gaming-focused Linux operating systems beat Windows 11 in gaming benchmark](https://www.tomshardware.com/software/linux/three-gaming-focused-linux-operating-systems-beat-windows-11-in-gaming-benchmarks)
+* [2023-12-03, 20:52:56](https://news.ycombinator.com/item?id=38510651) - [uBlock Origin rules for HN: removing MSM news sources reduces systemic stress](https://news.ycombinator.com/item?id=38510651)
 * [2023-12-03, 20:46:48](https://news.ycombinator.com/item?id=38510598) - [What sea level rise will look like in cities that have hosted climate summits](https://www.cnn.com/2023/12/03/climate/sea-level-rise-cop28-climate/index.html)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
