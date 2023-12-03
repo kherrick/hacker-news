@@ -12,6 +12,7 @@
 * [2023-12-03, 16:51:07](https://news.ycombinator.com/item?id=38508432) - [Pushover Turns 10 (2022)](https://blog.pushover.net/posts/2022/3/ten)
 * [2023-12-03, 16:49:36](https://news.ycombinator.com/item?id=38508418) - [All the hominins made tools](https://johnhawks.net/weblog/all-the-hominins-made-tools/)
 * [2023-12-03, 16:38:39](https://news.ycombinator.com/item?id=38508324) - [Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets](https://github.com/good-lly/lowstorage)
+* [2023-12-03, 16:37:55](https://news.ycombinator.com/item?id=38508311) - [Wayland Isn't Going to Save the Linux Desktop](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
 * [2023-12-03, 16:37:53](https://news.ycombinator.com/item?id=38508309) - [US warship and multiple commercial ships attacked in the Red Sea](https://apnews.com/article/red-sea-houthi-yemen-ships-attack-israel-hamas-war-gaza-strip-716770f0a780160e9abed98d3c48fbde)
 * [2023-12-03, 16:34:49](https://news.ycombinator.com/item?id=38508282) - [Lobsters](https://github.com/lobsters/lobsters)
 * [2023-12-03, 16:34:21](https://news.ycombinator.com/item?id=38508276) - [S2n-TLS – A C99 implementation of the TLS/SSL protocol](https://github.com/aws/s2n-tls)
