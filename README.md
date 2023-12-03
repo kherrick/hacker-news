@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 16:29:30](https://news.ycombinator.com/item?id=38508233) - [One Reason Why American Health Care Is Expensive](https://marginalrevolution.com/marginalrevolution/2023/12/one-reason-why-american-health-care-is-expensive.html)
 * [2023-12-03, 15:58:37](https://news.ycombinator.com/item?id=38508003) - [The first results from the biggest basic income experiment](https://www.vox.com/future-perfect/2023/12/1/23981194/givedirectly-basic-income-experiment-abhijit-banerjee-tavneet-suri)
+* [2023-12-03, 15:54:31](https://news.ycombinator.com/item?id=38507964) - [I was scared To say this to NASA (But I said it anyway) – Smarter Every Day](https://www.youtube.com/watch?v=OoJsPvmFixU)
 * [2023-12-03, 15:22:39](https://news.ycombinator.com/item?id=38507672) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [2023-12-03, 14:40:36](https://news.ycombinator.com/item?id=38507381) - [The worst thing about Jenkins is that it works](http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html)
@@ -21,7 +23,6 @@
 * [2023-12-03, 02:16:55](https://news.ycombinator.com/item?id=38504178) - [Adding Build Provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
 * [2023-12-03, 02:07:21](https://news.ycombinator.com/item?id=38504134) - [Clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 * [2023-12-03, 01:44:42](https://news.ycombinator.com/item?id=38504027) - [UniFi Express](https://ui.com/cloud-gateways/express)
-* [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology (2022)](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Cicadas are so loud, fiber optic cables can ‘hear’ them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
 * [2023-12-02, 14:35:33](https://news.ycombinator.com/item?id=38498866) - [SidecarT – Atari ST/STE/Mega Cartridge Emulator on Raspberry Pi Pico Steroids](https://sidecartridge.com/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
@@ -29,7 +30,6 @@
 * [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
 * [2023-12-02, 06:54:43](https://news.ycombinator.com/item?id=38496550) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
-* [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
 
 ## [Archives](archives/index.md)
 

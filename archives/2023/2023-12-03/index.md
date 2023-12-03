@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 16:29:30](https://news.ycombinator.com/item?id=38508233) - [One Reason Why American Health Care Is Expensive](https://marginalrevolution.com/marginalrevolution/2023/12/one-reason-why-american-health-care-is-expensive.html)
 * [2023-12-03, 16:06:36](https://news.ycombinator.com/item?id=38508049) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-03, 15:58:37](https://news.ycombinator.com/item?id=38508003) - [The first results from the biggest basic income experiment](https://www.vox.com/future-perfect/2023/12/1/23981194/givedirectly-basic-income-experiment-abhijit-banerjee-tavneet-suri)
+* [2023-12-03, 15:54:31](https://news.ycombinator.com/item?id=38507964) - [I was scared To say this to NASA (But I said it anyway) – Smarter Every Day](https://www.youtube.com/watch?v=OoJsPvmFixU)
 * [2023-12-03, 15:22:39](https://news.ycombinator.com/item?id=38507672) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [2023-12-03, 15:03:50](https://news.ycombinator.com/item?id=38507531) - [Intel Neural-Chat-7B Model Achieves Top Ranking on LLM Leaderboard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386)
