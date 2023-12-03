@@ -27,8 +27,8 @@
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 11:56:02](https://news.ycombinator.com/item?id=38497963) - [Why do everyone's logo fonts look the same? (2020)](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/)
 * [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
-* [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Hole: A tiny NYC community forgotten for decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
 * [2023-12-02, 06:54:43](https://news.ycombinator.com/item?id=38496550) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
+* [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
 
 ## [Archives](archives/index.md)
