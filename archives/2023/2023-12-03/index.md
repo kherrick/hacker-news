@@ -9,6 +9,7 @@
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 * [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The Analog Computer for the Nike Missile System](https://www.ed-thelen.org/computer.html)
 * [2023-12-03, 03:36:15](https://news.ycombinator.com/item?id=38504576) - [NASA Open Source Software](https://code.nasa.gov/)
+* [2023-12-03, 03:34:16](https://news.ycombinator.com/item?id=38504565) - [A new approach to domain ranking](https://www.marginalia.nu/log/73-new-approach-to-ranking/)
 * [2023-12-03, 03:10:30](https://news.ycombinator.com/item?id=38504463) - [Banker pays $2M for coal mine, discovers $37B rare Earth elements](https://finance.yahoo.com/news/wall-street-banker-pays-2-215927737.html)
 * [2023-12-03, 02:36:11](https://news.ycombinator.com/item?id=38504270) - [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
 * [2023-12-03, 02:07:21](https://news.ycombinator.com/item?id=38504134) - [Clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
