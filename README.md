@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 10:56:52](https://news.ycombinator.com/item?id=38506175) - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 * [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
 * [2023-12-03, 03:34:16](https://news.ycombinator.com/item?id=38504565) - [A new approach to domain ranking](https://www.marginalia.nu/log/73-new-approach-to-ranking/)
@@ -16,7 +17,6 @@
 * [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 * [2023-12-02, 20:32:53](https://news.ycombinator.com/item?id=38501779) - [How Meta patches Linux at hyperscale](https://thenewstack.io/how-meta-patches-linux-at-hyperscale/)
 * [2023-12-02, 20:10:27](https://news.ycombinator.com/item?id=38501589) - [Multifaceted: The linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
-* [2023-12-02, 19:54:25](https://news.ycombinator.com/item?id=38501437) - [Modeling CRDTs in Alloy – Counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology (2022)](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 17:25:35](https://news.ycombinator.com/item?id=38500145) - [The city of the future looks like a former military bunker in Taipei (2016)](https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/)
 * [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Cicadas are so loud, fiber optic cables can ‘hear’ them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
