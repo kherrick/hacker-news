@@ -11,6 +11,7 @@
 * [2023-12-03, 12:57:13](https://news.ycombinator.com/item?id=38506739) - [Show HN: Gobble Bot](https://gobble.bot)
 * [2023-12-03, 12:43:16](https://news.ycombinator.com/item?id=38506667) - [The X Prize is taking aim at aging with a new $101M award](https://www.technologyreview.com/2023/11/29/1084052/x-prize-aging-101-million-award/)
 * [2023-12-03, 12:42:07](https://news.ycombinator.com/item?id=38506660) - [OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
+* [2023-12-03, 12:38:41](https://news.ycombinator.com/item?id=38506639) - [Why are there no PowerLine Smart Plugs?](https://shkspr.mobi/blog/2023/12/why-are-there-no-powerline-smart-plugs/)
 * [2023-12-03, 12:29:59](https://news.ycombinator.com/item?id=38506590) - [Microsoft is planning an 'Advanced Windows Settings' panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
 * [2023-12-03, 12:09:15](https://news.ycombinator.com/item?id=38506488) - [Inside Job: How a Hacker Helped Cocaine Traffickers Infiltrate Europe's Ports](https://www.occrp.org/en/narcofiles-the-new-criminal-order/inside-job-how-a-hacker-helped-cocaine-traffickers-infiltrate-europes-biggest-ports)
 * [2023-12-03, 12:02:17](https://news.ycombinator.com/item?id=38506462) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
