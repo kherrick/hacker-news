@@ -7,6 +7,7 @@
 * [2023-12-02, 23:59:28](https://news.ycombinator.com/item?id=38503462) - [The Eyepopping Factory Construction Boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
 * [2023-12-02, 23:55:39](https://news.ycombinator.com/item?id=38503439) - [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
 * [2023-12-02, 23:29:30](https://news.ycombinator.com/item?id=38503285) - [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399)
+* [2023-12-02, 22:49:38](https://news.ycombinator.com/item?id=38502979) - [RISC-V Ox64 BL808 SBC: UART Interrupt and Platform-Level Interrupt Controller](https://lupyuen.codeberg.page/articles/plic2.html)
 * [2023-12-02, 22:36:27](https://news.ycombinator.com/item?id=38502857) - [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
 * [2023-12-02, 22:30:46](https://news.ycombinator.com/item?id=38502805) - [LibreChat](https://github.com/danny-avila/LibreChat)
 * [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
