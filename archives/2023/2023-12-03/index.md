@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 15:03:50](https://news.ycombinator.com/item?id=38507531) - [Intel Neural-Chat-7B Model Achieves Top Ranking on LLM Leaderboard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386)
 * [2023-12-03, 13:48:27](https://news.ycombinator.com/item?id=38507035) - [Why Life Does Not Really Exist (2013)](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/)
 * [2023-12-03, 13:29:53](https://news.ycombinator.com/item?id=38506900) - [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
 * [2023-12-03, 13:25:35](https://news.ycombinator.com/item?id=38506874) - [Is technology harming our brains?](https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c)
