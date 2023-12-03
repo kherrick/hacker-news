@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-12-03, 12:57:13",
+      "https://news.ycombinator.com/item?id=38506739"
+    ],
+    [
+      "Show HN: Gobble Bot",
+      "https://gobble.bot"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 12:43:16",
       "https://news.ycombinator.com/item?id=38506667"
     ],
@@ -187,16 +197,6 @@
     [
       "Show HN: Fluvio – Distributed stream processing system written in Rust and WASM",
       "https://github.com/infinyon/fluvio"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 23:55:39",
-      "https://news.ycombinator.com/item?id=38503439"
-    ],
-    [
-      "Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar",
-      "https://www.infoq.com/presentations/high-performance-asynchronous3/"
     ]
   ],
   [
