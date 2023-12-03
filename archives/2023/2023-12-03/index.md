@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 17:44:43](https://news.ycombinator.com/item?id=38508993) - [Wise (formerly Transfer Wise) are asking me to send them photo of my ID](https://news.ycombinator.com/item?id=38508993)
+* [2023-12-03, 17:40:33](https://news.ycombinator.com/item?id=38508951) - [Pentagon says a warship and commercial ships have come under attack](https://www.npr.org/2023/12/03/1216851042/pentagon-says-a-warship-and-commercial-ships-have-come-under-attack-in-the-red-s)
 * [2023-12-03, 17:24:18](https://news.ycombinator.com/item?id=38508779) - [Steel – An embeddable and extensible scheme dialect built in Rust](https://github.com/mattwparas/steel)
 * [2023-12-03, 17:15:31](https://news.ycombinator.com/item?id=38508680) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-03, 17:04:07](https://news.ycombinator.com/item?id=38508571) - [Run 70B LLM Inference on a Single 4GB GPU with This New Technique](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb?gi=cbe7920f4cd2)
@@ -45,6 +47,7 @@
 * [2023-12-03, 10:55:35](https://news.ycombinator.com/item?id=38506166) - [Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
 * [2023-12-03, 10:48:50](https://news.ycombinator.com/item?id=38506140) - [GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text](https://arxiv.org/abs/2311.18805)
 * [2023-12-03, 10:42:56](https://news.ycombinator.com/item?id=38506120) - [The last Python Architecture you will ever need?](https://davidvujic.blogspot.com/2022/11/the-last-python-architecture-you-will-ever-need.html)
+* [2023-12-03, 10:27:38](https://news.ycombinator.com/item?id=38506078) - [Concurrent Pascal and SuperPascal programming languages, and more](http://brinch-hansen.net/papers/)
 * [2023-12-03, 10:26:33](https://news.ycombinator.com/item?id=38506073) - [Images of Change](https://climate.nasa.gov/images-of-change/)
 * [2023-12-03, 06:15:34](https://news.ycombinator.com/item?id=38505240) - [WikiReader](https://en.wikipedia.org/wiki/WikiReader)
 * [2023-12-03, 06:12:56](https://news.ycombinator.com/item?id=38505229) - [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
