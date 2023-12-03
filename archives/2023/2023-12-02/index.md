@@ -115,6 +115,7 @@
 * [2023-12-02, 02:01:51](https://news.ycombinator.com/item?id=38495121) - [To protect kids, the EPA wants total removal of lead pipes](https://www.washingtonpost.com/climate-environment/2023/11/30/lead-pipe-poisoning-biden-epa/)
 * [2023-12-02, 01:53:16](https://news.ycombinator.com/item?id=38495054) - [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
 * [2023-12-02, 01:24:45](https://news.ycombinator.com/item?id=38494875) - [The Great Deshittification](https://doriantaylor.com/the-great-deshittification)
+* [2023-12-02, 01:24:30](https://news.ycombinator.com/item?id=38494873) - [Archaeologists reveal life stories of people from medieval Cambridge](https://www.theguardian.com/science/2023/dec/01/archaeologists-life-stories-medieval-cambridge)
 * [2023-12-02, 00:41:49](https://news.ycombinator.com/item?id=38494595) - [Fixing Canvas (2010)](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/4/10_Fixing_Canvas.html)
 * [2023-12-02, 00:32:44](https://news.ycombinator.com/item?id=38494529) - [New York will plant trees using new tech to maximize foliage impact](https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping)
 * [2023-12-02, 00:22:51](https://news.ycombinator.com/item?id=38494466) - [Optical effect advances quantum computing with atomic qubits to a new dimension](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_410816.en.jsp)
