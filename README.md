@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-03, 06:12:56](https://news.ycombinator.com/item?id=38505229) - [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 * [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
 * [2023-12-03, 03:34:16](https://news.ycombinator.com/item?id=38504565) - [A new approach to domain ranking](https://www.marginalia.nu/log/73-new-approach-to-ranking/)
@@ -25,6 +24,7 @@
 * [2023-12-02, 12:50:32](https://news.ycombinator.com/item?id=38498267) - [Talking with the inventor of C++ [video]](https://www.youtube.com/watch?v=5uA1-J_Wl4E)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 11:48:05](https://news.ycombinator.com/item?id=38497927) - ['How do you reduce a national dish to a powder?': the world of crisp flavours](https://www.theguardian.com/food/2023/dec/02/the-weird-secretive-world-of-crisp-flavours)
+* [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Hole: A tiny NYC community forgotten for decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
 * [2023-12-02, 05:37:03](https://news.ycombinator.com/item?id=38496206) - [\"Smartifying\" my hi-fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
