@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 21:45:02](https://news.ycombinator.com/item?id=38511077) - [Make JSON Greppable](https://github.com/tomnomnom/gron)
+* [2023-12-03, 21:40:57](https://news.ycombinator.com/item?id=38511032) - [Sam Altman, Sugarcoating the Apocalypse](https://dnyuz.com/2023/12/02/sam-altman-sugarcoating-the-apocalypse/)
 * [2023-12-03, 21:36:20](https://news.ycombinator.com/item?id=38510997) - [The Placeholder Girlfriend](https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend)
+* [2023-12-03, 21:27:41](https://news.ycombinator.com/item?id=38510935) - [Learning Jai via Advent of Code](https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/)
 * [2023-12-03, 21:11:00](https://news.ycombinator.com/item?id=38510805) - [Three gaming-focused Linux operating systems beat Windows 11 in gaming benchmark](https://www.tomshardware.com/software/linux/three-gaming-focused-linux-operating-systems-beat-windows-11-in-gaming-benchmarks)
 * [2023-12-03, 20:52:56](https://news.ycombinator.com/item?id=38510651) - [uBlock Origin rules for HN: removing MSM news sources reduces systemic stress](https://news.ycombinator.com/item?id=38510651)
 * [2023-12-03, 20:46:48](https://news.ycombinator.com/item?id=38510598) - [What sea level rise will look like in cities that have hosted climate summits](https://www.cnn.com/2023/12/03/climate/sea-level-rise-cop28-climate/index.html)
@@ -59,6 +62,7 @@
 * [2023-12-03, 12:42:07](https://news.ycombinator.com/item?id=38506660) - [OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
 * [2023-12-03, 12:38:41](https://news.ycombinator.com/item?id=38506639) - [Why are there no PowerLine Smart Plugs?](https://shkspr.mobi/blog/2023/12/why-are-there-no-powerline-smart-plugs/)
 * [2023-12-03, 12:29:59](https://news.ycombinator.com/item?id=38506590) - [Microsoft is planning an 'Advanced Windows Settings' panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
+* [2023-12-03, 12:23:41](https://news.ycombinator.com/item?id=38506558) - [Rust-Cache](https://crates.io/crates/priority-expiry-cache/0.2.1)
 * [2023-12-03, 12:09:15](https://news.ycombinator.com/item?id=38506488) - [Inside Job: How a Hacker Helped Cocaine Traffickers Infiltrate Europe's Ports](https://www.occrp.org/en/narcofiles-the-new-criminal-order/inside-job-how-a-hacker-helped-cocaine-traffickers-infiltrate-europes-biggest-ports)
 * [2023-12-03, 12:02:17](https://news.ycombinator.com/item?id=38506462) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-03, 11:27:10](https://news.ycombinator.com/item?id=38506276) - [Ego, Fear and Money: How the A.I. Fuse Was Lit](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html)
