@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-12-03, 00:35:38",
+      "https://news.ycombinator.com/item?id=38503671"
+    ],
+    [
+      "Show HN: Fluvio – Distributed stream processing system written in Rust and WASM",
+      "https://github.com/infinyon/fluvio"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 00:05:03",
       "https://news.ycombinator.com/item?id=38503486"
     ],
@@ -167,16 +177,6 @@
     [
       "JSON Web Proofs",
       "https://github.com/json-web-proofs/json-web-proofs"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 21:11:04",
-      "https://news.ycombinator.com/item?id=38502089"
-    ],
-    [
-      "Pipeworld: Spreadsheet Dataflow Computing (2021)",
-      "https://arcan-fe.com/2021/04/12/introducing-pipeworld/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-12-02, 13:11:02",
-      "https://news.ycombinator.com/item?id=38498381"
+      "2023-12-02, 14:35:33",
+      "https://news.ycombinator.com/item?id=38498866"
     ],
     [
-      "Optimizing Go string operations with practical examples",
-      "https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb"
+      "SidecarT – Atari ST/STE/Mega Cartridge Emulator on Raspberry Pi Pico Steroids",
+      "https://sidecartridge.com/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-12-02, 10:42:01",
+      "https://news.ycombinator.com/item?id=38497624"
+    ],
+    [
+      "Ancient redwoods recover from fire by sprouting 1000-year-old buds",
+      "https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 09:05:11",
       "https://news.ycombinator.com/item?id=38497203"
     ],
@@ -267,16 +277,6 @@
     [
       "The Unix V6 shell and how control flow worked in it",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 05:37:03",
-      "https://news.ycombinator.com/item?id=38496206"
-    ],
-    [
-      "\"Smartifying\" my hi-fi system",
-      "https://blog.rgsilva.com/smartifying-my-hi-fi-system/"
     ]
   ],
   [
