@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
 * [2023-12-03, 22:16:45](https://news.ycombinator.com/item?id=38511280) - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
+* [2023-12-03, 21:45:39](https://news.ycombinator.com/item?id=38511084) - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
 * [2023-12-03, 21:45:02](https://news.ycombinator.com/item?id=38511077) - [Make JSON Greppable](https://github.com/tomnomnom/gron)
 * [2023-12-03, 21:40:57](https://news.ycombinator.com/item?id=38511032) - [Sam Altman, Sugarcoating the Apocalypse](https://dnyuz.com/2023/12/02/sam-altman-sugarcoating-the-apocalypse/)
 * [2023-12-03, 21:36:20](https://news.ycombinator.com/item?id=38510997) - [The Placeholder Girlfriend](https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend)
