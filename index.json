@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-03, 16:06:36",
-      "https://news.ycombinator.com/item?id=38508049"
-    ],
-    [
-      "Signal Facing Collapse After CIA Cuts Funding",
-      "https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 15:58:37",
       "https://news.ycombinator.com/item?id=38508003"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38507594"
     ],
     [
-      "Build your own WebAssembly Compiler",
+      "Build your own WebAssembly Compiler (2019)",
       "https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html"
     ]
   ],
@@ -71,32 +61,12 @@
   ],
   [
     [
-      "2023-12-03, 13:25:35",
-      "https://news.ycombinator.com/item?id=38506874"
-    ],
-    [
-      "Is technology harming our brains?",
-      "https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 12:50:38",
       "https://news.ycombinator.com/item?id=38506705"
     ],
     [
       "Wheel-Hand-Leg-Arms Open Doors Playfully",
       "https://spectrum.ieee.org/quadruped-robot-wheels"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 12:42:07",
-      "https://news.ycombinator.com/item?id=38506660"
-    ],
-    [
-      "OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman",
-      "https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/"
     ]
   ],
   [
@@ -137,6 +107,16 @@
     [
       "Ego, Fear and Money: How the A.I. Fuse Was Lit",
       "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 10:56:52",
+      "https://news.ycombinator.com/item?id=38506175"
+    ],
+    [
+      "1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study",
+      "https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-12-02, 18:22:44",
+      "https://news.ycombinator.com/item?id=38500681"
+    ],
+    [
+      "Mundane emotions: Losing yourself in boredom, time and technology (2022)",
+      "https://journals.sagepub.com/doi/10.1177/14705931221138617"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 17:11:14",
       "https://news.ycombinator.com/item?id=38500065"
     ],
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2023-12-02, 08:09:55",
-      "https://news.ycombinator.com/item?id=38496898"
-    ],
-    [
-      "3,800-km cable offers glimpse of a global power grid",
-      "https://spectrum.ieee.org/underwater-power-cable"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 06:54:43",
       "https://news.ycombinator.com/item?id=38496550"
     ],
     [
       "The Unix V6 shell and how control flow worked in it",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 03:52:10",
+      "https://news.ycombinator.com/item?id=38495720"
+    ],
+    [
+      "Tinnitus linked to undetected auditory nerve damage",
+      "https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/"
+    ]
+  ],
+  [
+    [
+      "2023-12-01, 20:31:09",
+      "https://news.ycombinator.com/item?id=38491915"
+    ],
+    [
+      "Brain waves usually found in sleep can protect against epileptic activity",
+      "https://medicalxpress.com/news/2023-11-brain-epileptic.html"
     ]
   ]
 ]
