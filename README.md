@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 12:42:07](https://news.ycombinator.com/item?id=38506660) - [OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
 * [2023-12-03, 12:29:59](https://news.ycombinator.com/item?id=38506590) - [Microsoft is planning an 'Advanced Windows Settings' panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
 * [2023-12-03, 12:02:17](https://news.ycombinator.com/item?id=38506462) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-03, 11:27:10](https://news.ycombinator.com/item?id=38506276) - [Ego, Fear and Money: How the A.I. Fuse Was Lit](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html)
@@ -19,7 +20,6 @@
 * [2023-12-02, 23:55:39](https://news.ycombinator.com/item?id=38503439) - [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
 * [2023-12-02, 22:49:38](https://news.ycombinator.com/item?id=38502979) - [UART Interrupt and Platform-Level Interrupt Controller](https://lupyuen.codeberg.page/articles/plic2.html)
 * [2023-12-02, 22:36:27](https://news.ycombinator.com/item?id=38502857) - [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
-* [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology (2022)](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 17:25:35](https://news.ycombinator.com/item?id=38500145) - [The city of the future looks like a former military bunker in Taipei (2016)](https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/)
 * [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Cicadas are so loud, fiber optic cables can ‘hear’ them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)

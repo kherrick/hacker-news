@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 12:42:07](https://news.ycombinator.com/item?id=38506660) - [OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
 * [2023-12-03, 12:29:59](https://news.ycombinator.com/item?id=38506590) - [Microsoft is planning an 'Advanced Windows Settings' panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
 * [2023-12-03, 12:02:17](https://news.ycombinator.com/item?id=38506462) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-03, 11:27:10](https://news.ycombinator.com/item?id=38506276) - [Ego, Fear and Money: How the A.I. Fuse Was Lit](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html)
