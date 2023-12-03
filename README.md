@@ -25,7 +25,7 @@
 * [2023-12-02, 12:55:57](https://news.ycombinator.com/item?id=38498295) - [You can't divide by zero – Garrit's Notes](https://garrit.xyz/posts/2023-11-30-why-you-can%27t-divide-by-zero)
 * [2023-12-02, 12:50:32](https://news.ycombinator.com/item?id=38498267) - [Talking with the inventor of C++ [video]](https://www.youtube.com/watch?v=5uA1-J_Wl4E)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
-* [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
+* [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Tiny NYC Community Forgotten for Decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
 * [2023-12-02, 05:37:03](https://news.ycombinator.com/item?id=38496206) - [\"Smartifying\" my hi-fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
