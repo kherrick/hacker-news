@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
-* [2023-12-03, 19:08:45](https://news.ycombinator.com/item?id=38509788) - [Arm Launches the Cortex-M52 for IoT; Its Smallest Processor with Helium](https://fuse.wikichip.org/news/7611/arm-launches-the-cortex-m52-for-iot-its-smallest-processor-with-helium/)
+* [2023-12-03, 19:02:47](https://news.ycombinator.com/item?id=38509739) - [American Librarians Helped Defeat the Nazis](https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:08:23](https://news.ycombinator.com/item?id=38509255) - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
 * [2023-12-03, 18:01:36](https://news.ycombinator.com/item?id=38509173) - [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
@@ -16,7 +16,7 @@
 * [2023-12-03, 16:31:31](https://news.ycombinator.com/item?id=38508250) - [Watsonx: IBM's code assistant for turning COBOL into Java](https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson)
 * [2023-12-03, 15:22:39](https://news.ycombinator.com/item?id=38507672) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
-* [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Show HN: Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
+* [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
 * [2023-12-03, 14:40:36](https://news.ycombinator.com/item?id=38507381) - [The worst thing about Jenkins is that it works (2019)](http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html)
 * [2023-12-03, 13:58:17](https://news.ycombinator.com/item?id=38507116) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 13:29:53](https://news.ycombinator.com/item?id=38506900) - [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)

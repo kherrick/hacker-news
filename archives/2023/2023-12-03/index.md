@@ -6,6 +6,7 @@
 
 * [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
 * [2023-12-03, 19:08:45](https://news.ycombinator.com/item?id=38509788) - [Arm Launches the Cortex-M52 for IoT; Its Smallest Processor with Helium](https://fuse.wikichip.org/news/7611/arm-launches-the-cortex-m52-for-iot-its-smallest-processor-with-helium/)
+* [2023-12-03, 19:02:47](https://news.ycombinator.com/item?id=38509739) - [American Librarians Helped Defeat the Nazis](https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:55:24](https://news.ycombinator.com/item?id=38509675) - [GiveDirectly – Send money directly to people who need it most](https://www.givedirectly.org/)
 * [2023-12-03, 18:53:34](https://news.ycombinator.com/item?id=38509657) - [Italy did an accidental experiment on the effectiveness of GitHub Copilot](https://arxiv.org/abs/2304.09339)
