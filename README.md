@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-03, 16:29:30](https://news.ycombinator.com/item?id=38508233) - [One Reason Why American Health Care Is Expensive](https://marginalrevolution.com/marginalrevolution/2023/12/one-reason-why-american-health-care-is-expensive.html)
 * [2023-12-03, 15:58:37](https://news.ycombinator.com/item?id=38508003) - [The first results from the biggest basic income experiment](https://www.vox.com/future-perfect/2023/12/1/23981194/givedirectly-basic-income-experiment-abhijit-banerjee-tavneet-suri)
 * [2023-12-03, 15:54:31](https://news.ycombinator.com/item?id=38507964) - [I was scared To say this to NASA (But I said it anyway) – Smarter Every Day](https://www.youtube.com/watch?v=OoJsPvmFixU)
 * [2023-12-03, 15:22:39](https://news.ycombinator.com/item?id=38507672) - [LLM Visualization](https://bbycroft.net/llm)
@@ -30,6 +29,7 @@
 * [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
 * [2023-12-02, 06:54:43](https://news.ycombinator.com/item?id=38496550) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+* [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
 
 ## [Archives](archives/index.md)
 
