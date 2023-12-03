@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 13:25:35](https://news.ycombinator.com/item?id=38506874) - [Is technology harming our brains?](https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c)
 * [2023-12-03, 12:43:16](https://news.ycombinator.com/item?id=38506667) - [The X Prize is taking aim at aging with a new $101M award](https://www.technologyreview.com/2023/11/29/1084052/x-prize-aging-101-million-award/)
 * [2023-12-03, 12:42:07](https://news.ycombinator.com/item?id=38506660) - [OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/)
 * [2023-12-03, 12:29:59](https://news.ycombinator.com/item?id=38506590) - [Microsoft is planning an 'Advanced Windows Settings' panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
