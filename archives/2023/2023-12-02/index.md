@@ -76,6 +76,7 @@
 * [2023-12-02, 12:01:54](https://news.ycombinator.com/item?id=38498000) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-02, 11:53:29](https://news.ycombinator.com/item?id=38497949) - [The Evolution of Tunnel Boring Machines](https://www.londonreconnections.com/2023/the-evolution-of-tunnel-boring-machines-constructionphysics/)
 * [2023-12-02, 11:53:01](https://news.ycombinator.com/item?id=38497944) - [Startups weather a dismal year – 543 have declared bankruptcy or shut down](https://fortune.com/2023/11/30/startup-funding-bankruptcies-lower-valuations-2023/)
+* [2023-12-02, 11:48:05](https://news.ycombinator.com/item?id=38497927) - ['How do you reduce a national dish to a powder?': the world of crisp flavours](https://www.theguardian.com/food/2023/dec/02/the-weird-secretive-world-of-crisp-flavours)
 * [2023-12-02, 11:23:30](https://news.ycombinator.com/item?id=38497814) - [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 10:28:18](https://news.ycombinator.com/item?id=38497570) - [Show HN: A Time-Sharing Scheduling Coroutine Script Language](https://melang.org/)
