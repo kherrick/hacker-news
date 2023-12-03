@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:55:24](https://news.ycombinator.com/item?id=38509675) - [GiveDirectly – Send money directly to people who need it most](https://www.givedirectly.org/)
 * [2023-12-03, 18:53:34](https://news.ycombinator.com/item?id=38509657) - [Italy did an accidental experiment on the effectiveness of GitHub Copilot](https://arxiv.org/abs/2304.09339)
@@ -34,6 +35,7 @@
 * [2023-12-03, 15:22:39](https://news.ycombinator.com/item?id=38507672) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [2023-12-03, 15:03:50](https://news.ycombinator.com/item?id=38507531) - [Intel Neural-Chat-7B Model Achieves Top Ranking on LLM Leaderboard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386)
+* [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Show HN: Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
 * [2023-12-03, 14:40:36](https://news.ycombinator.com/item?id=38507381) - [The worst thing about Jenkins is that it works](http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html)
 * [2023-12-03, 13:58:17](https://news.ycombinator.com/item?id=38507116) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 13:48:27](https://news.ycombinator.com/item?id=38507035) - [Why Life Does Not Really Exist (2013)](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/)
