@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-12-03, 19:08:06",
-      "https://news.ycombinator.com/item?id=38509780"
-    ],
-    [
-      "Embrace, Extend, and Extinguish",
-      "https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 19:02:47",
       "https://news.ycombinator.com/item?id=38509739"
     ],
@@ -297,6 +287,16 @@
     [
       "Tiny volumetric display",
       "https://mitxela.com/projects/candle"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 10:24:07",
+      "https://news.ycombinator.com/item?id=38497549"
+    ],
+    [
+      "Unsupervised speech-to-speech translation from monolingual data",
+      "https://blog.research.google/2023/12/unsupervised-speech-to-speech.html"
     ]
   ]
 ]
