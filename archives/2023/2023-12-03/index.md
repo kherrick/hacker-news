@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
 * [2023-12-03, 22:16:45](https://news.ycombinator.com/item?id=38511280) - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
 * [2023-12-03, 21:45:39](https://news.ycombinator.com/item?id=38511084) - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
 * [2023-12-03, 21:45:02](https://news.ycombinator.com/item?id=38511077) - [Make JSON Greppable](https://github.com/tomnomnom/gron)
@@ -78,6 +79,7 @@
 * [2023-12-03, 06:38:23](https://news.ycombinator.com/item?id=38505325) - [Decoding the Gun-Wielding Angels of Bolivia](https://www.atlasobscura.com/articles/angels-with-guns-angeles-arcabuceros-peru-bolivia)
 * [2023-12-03, 06:15:34](https://news.ycombinator.com/item?id=38505240) - [WikiReader](https://en.wikipedia.org/wiki/WikiReader)
 * [2023-12-03, 06:12:56](https://news.ycombinator.com/item?id=38505229) - [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
+* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 * [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The Analog Computer for the Nike Missile System](https://www.ed-thelen.org/computer.html)
 * [2023-12-03, 03:36:15](https://news.ycombinator.com/item?id=38504576) - [NASA Open Source Software](https://code.nasa.gov/)
