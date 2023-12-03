@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
 * [2023-12-03, 10:56:52](https://news.ycombinator.com/item?id=38506175) - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
+* [2023-12-03, 10:26:33](https://news.ycombinator.com/item?id=38506073) - [Images of Change](https://climate.nasa.gov/images-of-change/)
 * [2023-12-03, 06:15:34](https://news.ycombinator.com/item?id=38505240) - [WikiReader](https://en.wikipedia.org/wiki/WikiReader)
 * [2023-12-03, 06:12:56](https://news.ycombinator.com/item?id=38505229) - [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
