@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-03, 01:16:20",
+      "https://news.ycombinator.com/item?id=38503896"
+    ],
+    [
+      "Child abduction case: How Tom and Jerry cartoons helped police identify suspects",
+      "https://www.onmanorama.com/news/kerala/2023/12/02/kollam-child-abduction-tom-and-jerry-cartoon-helped-police-identify-suspects.html"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 00:05:03",
       "https://news.ycombinator.com/item?id=38503486"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38503462"
     ],
     [
-      "The Eyepopping Factory Construction Boom in the US",
+      "Factory construction boom in the US",
       "https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/"
     ]
   ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2023-12-02, 23:29:30",
-      "https://news.ycombinator.com/item?id=38503285"
-    ],
-    [
-      "A Survey of Graph Meets Large Language Model: Progress and Future Directions",
-      "https://arxiv.org/abs/2311.12399"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 22:36:27",
       "https://news.ycombinator.com/item?id=38502857"
     ],
     [
       "JSON Web Proofs",
       "https://github.com/json-web-proofs/json-web-proofs"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 22:30:46",
-      "https://news.ycombinator.com/item?id=38502805"
-    ],
-    [
-      "LibreChat – Enhanced ChatGPT Clone",
-      "https://github.com/danny-avila/LibreChat"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38502007"
     ],
     [
-      "A new method to validate URLs in JavaScript (2023 edition)",
+      "A new method to validate URLs in JavaScript",
       "https://www.stefanjudis.com/blog/validate-urls-in-javascript/"
     ]
   ],
@@ -107,6 +97,16 @@
     [
       "Scientists discover retinal cells that help stabilize our world view",
       "https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 20:32:53",
+      "https://news.ycombinator.com/item?id=38501779"
+    ],
+    [
+      "How Meta patches Linux at hyperscale",
+      "https://thenewstack.io/how-meta-patches-linux-at-hyperscale/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-12-02, 18:34:51",
-      "https://news.ycombinator.com/item?id=38500782"
-    ],
-    [
-      "Galactic algorithm",
-      "https://en.wikipedia.org/wiki/Galactic_algorithm"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 18:22:44",
       "https://news.ycombinator.com/item?id=38500681"
     ],
@@ -171,11 +161,21 @@
   ],
   [
     [
+      "2023-12-02, 17:25:35",
+      "https://news.ycombinator.com/item?id=38500145"
+    ],
+    [
+      "The city of the future looks like a former military bunker in Taipei",
+      "https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 17:11:14",
       "https://news.ycombinator.com/item?id=38500065"
     ],
     [
-      "Roar of cicadas was so loud, it was picked up by fiber-optic cables",
+      "Cicadas are so loud, fiber optic cables can ‘hear’ them",
       "https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/"
     ]
   ],
@@ -197,6 +197,16 @@
     [
       "Open-source drawing tool – Excalidraw",
       "https://github.com/excalidraw/excalidraw"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 15:16:38",
+      "https://news.ycombinator.com/item?id=38499134"
+    ],
+    [
+      "Ask HN: What are some unpopular technologies you wish people knew more about?",
+      "https://news.ycombinator.com/item?id=38499134"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=38498267"
     ],
     [
-      "Talking with the Inventor of C++",
+      "Talking with the inventor of C++ [video]",
       "https://www.youtube.com/watch?v=5uA1-J_Wl4E"
     ]
   ],
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2023-12-02, 10:28:18",
-      "https://news.ycombinator.com/item?id=38497570"
-    ],
-    [
-      "Show HN: A Time-Sharing Scheduling Coroutine Script Language",
-      "https://melang.org/"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 05:37:03",
       "https://news.ycombinator.com/item?id=38496206"
     ],
     [
-      "\"Smartifying\" my Hi-Fi system",
+      "\"Smartifying\" my hi-fi system",
       "https://blog.rgsilva.com/smartifying-my-hi-fi-system/"
     ]
   ],
