@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 02:36:11](https://news.ycombinator.com/item?id=38504270) - [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
 * [2023-12-03, 01:44:42](https://news.ycombinator.com/item?id=38504027) - [UniFi Express](https://ui.com/cloud-gateways/express)
 * [2023-12-03, 00:05:03](https://news.ycombinator.com/item?id=38503486) - [Not a real engineer (2019)](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
 * [2023-12-02, 23:59:28](https://news.ycombinator.com/item?id=38503462) - [Factory construction boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
@@ -13,7 +14,6 @@
 * [2023-12-02, 20:32:53](https://news.ycombinator.com/item?id=38501779) - [How Meta patches Linux at hyperscale](https://thenewstack.io/how-meta-patches-linux-at-hyperscale/)
 * [2023-12-02, 20:10:27](https://news.ycombinator.com/item?id=38501589) - [Multifaceted: The linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-02, 19:54:25](https://news.ycombinator.com/item?id=38501437) - [Modeling CRDTs in Alloy – Counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
-* [2023-12-02, 19:03:44](https://news.ycombinator.com/item?id=38501030) - [Advent of Technical Writing: Navigation Structure (Day 1 of 24)](https://jamesg.blog/2023/12/02/advent-of-technical-writing/)
 * [2023-12-02, 18:50:28](https://news.ycombinator.com/item?id=38500906) - [Infants understand language via rhythm and tone rather than individual sounds](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology (2022)](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 17:25:35](https://news.ycombinator.com/item?id=38500145) - [The city of the future looks like a former military bunker in Taipei](https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/)
