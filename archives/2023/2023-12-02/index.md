@@ -92,6 +92,7 @@
 * [2023-12-02, 07:28:38](https://news.ycombinator.com/item?id=38496702) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 07:21:52](https://news.ycombinator.com/item?id=38496669) - [Review: A Dive into MikroTik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 06:56:12](https://news.ycombinator.com/item?id=38496560) - [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
+* [2023-12-02, 06:54:43](https://news.ycombinator.com/item?id=38496550) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 06:52:34](https://news.ycombinator.com/item?id=38496535) - [COP28: Countries launch declaration to triple nuclear energy by 2050](https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key)
 * [2023-12-02, 06:06:52](https://news.ycombinator.com/item?id=38496357) - [Why are we being DDoSed by Cloudflare?](https://news.ycombinator.com/item?id=38496357)
 * [2023-12-02, 06:05:24](https://news.ycombinator.com/item?id=38496347) - [Advent of Code 2023 Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
