@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 23:59:28](https://news.ycombinator.com/item?id=38503462) - [The Eyepopping Factory Construction Boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
+* [2023-12-02, 23:29:30](https://news.ycombinator.com/item?id=38503285) - [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399)
 * [2023-12-02, 22:30:46](https://news.ycombinator.com/item?id=38502805) - [LibreChat](https://github.com/danny-avila/LibreChat)
 * [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 * [2023-12-02, 22:00:32](https://news.ycombinator.com/item?id=38502497) - [Ukraine aid's best-kept secret: Most of the money stays in the USA](https://www.washingtonpost.com/opinions/2023/11/29/ukraine-military-aid-american-economy-boost/)
@@ -36,8 +38,10 @@
 * [2023-12-02, 18:24:24](https://news.ycombinator.com/item?id=38500701) - [Over 20 nations, including Japan, call for tripling of nuclear energy](https://www.japantimes.co.jp/news/2023/12/02/world/nuclear-energy-declaration/)
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 18:18:53](https://news.ycombinator.com/item?id=38500641) - [UAW Launches Largest Organizing Drive in Modern American History](https://substack.perfectunion.us/p/uaw-launches-largest-organizing-drive)
+* [2023-12-02, 17:45:03](https://news.ycombinator.com/item?id=38500321) - [Chemist suggests retraction of DeepMind robotic synthesis paper](https://twitter.com/Robert_Palgrave/status/1730358675523424344)
 * [2023-12-02, 17:31:31](https://news.ycombinator.com/item?id=38500192) - [Who Is BasedBeffJezos, Leader of the 'E/Acc' Movement?](https://www.forbes.com/sites/emilybaker-white/2023/12/01/who-is-basedbeffjezos-the-leader-of-effective-accelerationism-eacc/)
 * [2023-12-02, 17:25:39](https://news.ycombinator.com/item?id=38500146) - [Ask HN: Is React Native still popular?](https://news.ycombinator.com/item?id=38500146)
+* [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Roar of cicadas was so loud, it was picked up by fiber-optic cables](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
 * [2023-12-02, 17:00:28](https://news.ycombinator.com/item?id=38499963) - [Playstation to Delete a Ton of TV Shows Users Already Paid For](https://kotaku.com/sony-ps4-ps5-discovery-mythbusters-tv-1851066164)
 * [2023-12-02, 17:00:01](https://news.ycombinator.com/item?id=38499957) - [Govdash (YC W22) Is Hiring a Full Stack Engineer in SF](https://www.ycombinator.com/companies/govdash/jobs/uI8RQW6-software-engineer-full-stack)
 * [2023-12-02, 16:45:33](https://news.ycombinator.com/item?id=38499864) - [WebAssembly versus JavaScript: Energy and Runtime Performance](https://repositorio.inesctec.pt/server/api/core/bitstreams/0870fb76-d463-456b-9e34-5b33bb7c0dd1/content)
@@ -59,6 +63,7 @@
 * [2023-12-02, 13:11:02](https://news.ycombinator.com/item?id=38498381) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 * [2023-12-02, 13:02:24](https://news.ycombinator.com/item?id=38498332) - [The Universe in a lab: Testing alternate cosmology using a cloud of atoms](https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
+* [2023-12-02, 12:50:32](https://news.ycombinator.com/item?id=38498267) - [Talking with the Inventor of C++](https://www.youtube.com/watch?v=5uA1-J_Wl4E)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 * [2023-12-02, 12:18:35](https://news.ycombinator.com/item?id=38498090) - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
 * [2023-12-02, 12:06:40](https://news.ycombinator.com/item?id=38498018) - [Things that Transport for London can figure out by using our location data](https://www.londonreconnections.com/2023/its-crazy-how-much-tfl-can-learn-about-us-from-our-mobile-data-jamesomalley/)
