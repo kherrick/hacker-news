@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 21:36:20](https://news.ycombinator.com/item?id=38510997) - [The Placeholder Girlfriend](https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend)
 * [2023-12-03, 21:11:00](https://news.ycombinator.com/item?id=38510805) - [Three gaming-focused Linux operating systems beat Windows 11 in gaming benchmark](https://www.tomshardware.com/software/linux/three-gaming-focused-linux-operating-systems-beat-windows-11-in-gaming-benchmarks)
 * [2023-12-03, 20:52:56](https://news.ycombinator.com/item?id=38510651) - [uBlock Origin rules for HN: removing MSM news sources reduces systemic stress](https://news.ycombinator.com/item?id=38510651)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
@@ -20,7 +21,6 @@
 * [2023-12-03, 15:22:39](https://news.ycombinator.com/item?id=38507672) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
-* [2023-12-03, 14:40:36](https://news.ycombinator.com/item?id=38507381) - [The worst thing about Jenkins is that it works (2019)](http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html)
 * [2023-12-03, 13:58:17](https://news.ycombinator.com/item?id=38507116) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 13:29:53](https://news.ycombinator.com/item?id=38506900) - [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
 * [2023-12-03, 13:17:53](https://news.ycombinator.com/item?id=38506835) - [Show HN: Rqbit – bittorent CLI and desktop app written in Rust](https://github.com/ikatson/rqbit/releases/tag/v4.0.0)

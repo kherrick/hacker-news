@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 21:36:20](https://news.ycombinator.com/item?id=38510997) - [The Placeholder Girlfriend](https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend)
 * [2023-12-03, 21:11:00](https://news.ycombinator.com/item?id=38510805) - [Three gaming-focused Linux operating systems beat Windows 11 in gaming benchmark](https://www.tomshardware.com/software/linux/three-gaming-focused-linux-operating-systems-beat-windows-11-in-gaming-benchmarks)
 * [2023-12-03, 20:52:56](https://news.ycombinator.com/item?id=38510651) - [uBlock Origin rules for HN: removing MSM news sources reduces systemic stress](https://news.ycombinator.com/item?id=38510651)
 * [2023-12-03, 20:46:48](https://news.ycombinator.com/item?id=38510598) - [What sea level rise will look like in cities that have hosted climate summits](https://www.cnn.com/2023/12/03/climate/sea-level-rise-cop28-climate/index.html)
