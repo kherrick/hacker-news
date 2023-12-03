@@ -12,6 +12,7 @@
 * [2023-12-03, 10:56:52](https://news.ycombinator.com/item?id=38506175) - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
 * [2023-12-03, 10:55:35](https://news.ycombinator.com/item?id=38506166) - [Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
 * [2023-12-03, 10:48:50](https://news.ycombinator.com/item?id=38506140) - [GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text](https://arxiv.org/abs/2311.18805)
+* [2023-12-03, 10:42:56](https://news.ycombinator.com/item?id=38506120) - [The last Python Architecture you will ever need?](https://davidvujic.blogspot.com/2022/11/the-last-python-architecture-you-will-ever-need.html)
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 * [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
 * [2023-12-03, 03:34:16](https://news.ycombinator.com/item?id=38504565) - [A new approach to domain ranking](https://www.marginalia.nu/log/73-new-approach-to-ranking/)
@@ -28,7 +29,6 @@
 * [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
 * [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Hole: A tiny NYC community forgotten for decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
 * [2023-12-02, 06:54:43](https://news.ycombinator.com/item?id=38496550) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
-* [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
 
 ## [Archives](archives/index.md)
