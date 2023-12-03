@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 01:44:42](https://news.ycombinator.com/item?id=38504027) - [UniFi Express](https://ui.com/cloud-gateways/express)
 * [2023-12-03, 01:16:20](https://news.ycombinator.com/item?id=38503896) - [Child abduction case: How Tom and Jerry cartoons helped police identify suspects](https://www.onmanorama.com/news/kerala/2023/12/02/kollam-child-abduction-tom-and-jerry-cartoon-helped-police-identify-suspects.html)
 * [2023-12-03, 00:05:03](https://news.ycombinator.com/item?id=38503486) - [Not a real engineer (2019)](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
 * [2023-12-02, 23:59:28](https://news.ycombinator.com/item?id=38503462) - [Factory construction boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
 * [2023-12-02, 23:55:39](https://news.ycombinator.com/item?id=38503439) - [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
 * [2023-12-02, 22:36:27](https://news.ycombinator.com/item?id=38502857) - [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
-* [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 * [2023-12-02, 21:11:04](https://news.ycombinator.com/item?id=38502089) - [Pipeworld: Spreadsheet Dataflow Computing (2021)](https://arcan-fe.com/2021/04/12/introducing-pipeworld/)
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-02, 21:01:33](https://news.ycombinator.com/item?id=38502007) - [A new method to validate URLs in JavaScript](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
