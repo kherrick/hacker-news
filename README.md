@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
+* [2023-12-03, 19:08:06](https://news.ycombinator.com/item?id=38509780) - [Embrace, Extend, and Extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
 * [2023-12-03, 19:02:47](https://news.ycombinator.com/item?id=38509739) - [American Librarians Helped Defeat the Nazis](https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:08:23](https://news.ycombinator.com/item?id=38509255) - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
@@ -26,7 +27,6 @@
 * [2023-12-03, 10:27:38](https://news.ycombinator.com/item?id=38506078) - [Concurrent Pascal and SuperPascal programming languages, and more](http://brinch-hansen.net/papers/)
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 * [2023-12-02, 16:25:18](https://news.ycombinator.com/item?id=38499684) - [How are startups shaped by macro conditions at birth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934)
-* [2023-12-02, 16:16:11](https://news.ycombinator.com/item?id=38499619) - [What Is Fundamental? (2009)](http://backreaction.blogspot.com/2009/07/what-is-fundamental.html)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 11:56:02](https://news.ycombinator.com/item?id=38497963) - [Why do everyone's logo fonts look the same? (2020)](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/)
 * [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
