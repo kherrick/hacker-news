@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 15:22:39](https://news.ycombinator.com/item?id=38507672) - [LLM Visualization](https://bbycroft.net/llm)
+* [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [2023-12-03, 15:03:50](https://news.ycombinator.com/item?id=38507531) - [Intel Neural-Chat-7B Model Achieves Top Ranking on LLM Leaderboard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386)
 * [2023-12-03, 13:48:27](https://news.ycombinator.com/item?id=38507035) - [Why Life Does Not Really Exist (2013)](https://blogs.scientificamerican.com/brainwaves/why-life-does-not-really-exist/)
 * [2023-12-03, 13:29:53](https://news.ycombinator.com/item?id=38506900) - [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
