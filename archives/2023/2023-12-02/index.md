@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
 * [2023-12-02, 23:59:28](https://news.ycombinator.com/item?id=38503462) - [The Eyepopping Factory Construction Boom in the US](https://wolfstreet.com/2023/12/02/the-eyepopping-factory-construction-boom-in-the-us/)
+* [2023-12-02, 23:55:39](https://news.ycombinator.com/item?id=38503439) - [Performance: Adventures in Thread-per-Core Async with Redpanda and Seastar](https://www.infoq.com/presentations/high-performance-asynchronous3/)
 * [2023-12-02, 23:29:30](https://news.ycombinator.com/item?id=38503285) - [A Survey of Graph Meets Large Language Model: Progress and Future Directions](https://arxiv.org/abs/2311.12399)
+* [2023-12-02, 22:36:27](https://news.ycombinator.com/item?id=38502857) - [JSON Web Proofs](https://github.com/json-web-proofs/json-web-proofs)
 * [2023-12-02, 22:30:46](https://news.ycombinator.com/item?id=38502805) - [LibreChat](https://github.com/danny-avila/LibreChat)
 * [2023-12-02, 22:07:54](https://news.ycombinator.com/item?id=38502586) - [Filmic's entire staff laid off by parent company Bending Spoons](https://petapixel.com/2023/12/01/filmics-entire-staff-laid-off-by-parent-company-bending-spoons/)
 * [2023-12-02, 22:00:32](https://news.ycombinator.com/item?id=38502497) - [Ukraine aid's best-kept secret: Most of the money stays in the USA](https://www.washingtonpost.com/opinions/2023/11/29/ukraine-military-aid-american-economy-boost/)
@@ -50,6 +52,7 @@
 * [2023-12-02, 16:35:37](https://news.ycombinator.com/item?id=38499781) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-02, 16:29:15](https://news.ycombinator.com/item?id=38499723) - [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
 * [2023-12-02, 16:15:09](https://news.ycombinator.com/item?id=38499610) - [Safety Critical Real-Time OS: Integrity-178B](https://www.ghs.com/products/safety_critical/integrity_178_tump.html)
+* [2023-12-02, 15:45:46](https://news.ycombinator.com/item?id=38499375) - [Open-source drawing tool – Excalidraw](https://github.com/excalidraw/excalidraw)
 * [2023-12-02, 15:26:27](https://news.ycombinator.com/item?id=38499197) - [Tell HN: EmacsConf Live Now](https://emacsconf.org)
 * [2023-12-02, 15:16:38](https://news.ycombinator.com/item?id=38499134) - [Ask HN: What are some unpopular technologies you wish people knew more about?](https://news.ycombinator.com/item?id=38499134)
 * [2023-12-02, 14:45:26](https://news.ycombinator.com/item?id=38498934) - [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
