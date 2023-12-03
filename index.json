@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-03, 16:06:36",
+      "https://news.ycombinator.com/item?id=38508049"
+    ],
+    [
+      "Signal Facing Collapse After CIA Cuts Funding",
+      "https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 15:58:37",
+      "https://news.ycombinator.com/item?id=38508003"
+    ],
+    [
+      "The first results from the biggest basic income experiment",
+      "https://www.vox.com/future-perfect/2023/12/1/23981194/givedirectly-basic-income-experiment-abhijit-banerjee-tavneet-suri"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 15:22:39",
       "https://news.ycombinator.com/item?id=38507672"
     ],
@@ -17,6 +37,16 @@
     [
       "Build your own WebAssembly Compiler",
       "https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 14:40:36",
+      "https://news.ycombinator.com/item?id=38507381"
+    ],
+    [
+      "The worst thing about Jenkins is that it works",
+      "http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html"
     ]
   ],
   [
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2023-12-03, 12:43:16",
-      "https://news.ycombinator.com/item?id=38506667"
+      "2023-12-03, 12:50:38",
+      "https://news.ycombinator.com/item?id=38506705"
     ],
     [
-      "The X Prize is taking aim at aging with a new $101M award",
-      "https://www.technologyreview.com/2023/11/29/1084052/x-prize-aging-101-million-award/"
+      "Wheel-Hand-Leg-Arms Open Doors Playfully",
+      "https://spectrum.ieee.org/quadruped-robot-wheels"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "OpenAI Committed to Buying $51M of AI Chips from a Startup Backed by Sam Altman",
       "https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 12:38:41",
+      "https://news.ycombinator.com/item?id=38506639"
+    ],
+    [
+      "Why are there no PowerLine Smart Plugs?",
+      "https://shkspr.mobi/blog/2023/12/why-are-there-no-powerline-smart-plugs/"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Ego, Fear and Money: How the A.I. Fuse Was Lit",
       "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 10:56:52",
-      "https://news.ycombinator.com/item?id=38506175"
-    ],
-    [
-      "1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study",
-      "https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-12-03, 00:35:38",
-      "https://news.ycombinator.com/item?id=38503671"
-    ],
-    [
-      "Show HN: Fluvio – Distributed stream processing system written in Rust and WASM",
-      "https://github.com/infinyon/fluvio"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 17:11:14",
       "https://news.ycombinator.com/item?id=38500065"
     ],
     [
       "Cicadas are so loud, fiber optic cables can ‘hear’ them",
       "https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 14:40:41",
-      "https://news.ycombinator.com/item?id=38498901"
-    ],
-    [
-      "Minimal Viable Programs (2014)",
-      "https://joearms.github.io/published/2014-06-25-minimal-viable-program.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Unix V6 shell and how control flow worked in it",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 03:52:10",
-      "https://news.ycombinator.com/item?id=38495720"
-    ],
-    [
-      "Tinnitus linked to undetected auditory nerve damage",
-      "https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/"
     ]
   ]
 ]
