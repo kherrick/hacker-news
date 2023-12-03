@@ -17,6 +17,7 @@
 * [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 * [2023-12-02, 20:32:53](https://news.ycombinator.com/item?id=38501779) - [How Meta patches Linux at hyperscale](https://thenewstack.io/how-meta-patches-linux-at-hyperscale/)
 * [2023-12-02, 19:54:25](https://news.ycombinator.com/item?id=38501437) - [Modeling CRDTs in Alloy – Counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
+* [2023-12-02, 18:50:28](https://news.ycombinator.com/item?id=38500906) - [Infants understand language via rhythm and tone rather than individual sounds](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology (2022)](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 17:25:35](https://news.ycombinator.com/item?id=38500145) - [The city of the future looks like a former military bunker in Taipei (2016)](https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/)
 * [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Cicadas are so loud, fiber optic cables can ‘hear’ them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
@@ -27,7 +28,6 @@
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Hole: A tiny NYC community forgotten for decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
-* [2023-12-01, 20:46:18](https://news.ycombinator.com/item?id=38492126) - [An Ancient Art Form Topples Assumptions about Mathematics](https://www.scientificamerican.com/article/an-ancient-art-form-topples-assumptions-about-mathematics/)
 * [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
 * [2023-12-01, 09:57:14](https://news.ycombinator.com/item?id=38485048) - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
