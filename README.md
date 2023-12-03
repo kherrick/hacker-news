@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The Analog Computer for the Nike Missile System](https://www.ed-thelen.org/computer.html)
 * [2023-12-03, 03:36:15](https://news.ycombinator.com/item?id=38504576) - [NASA Open Source Software](https://code.nasa.gov/)
 * [2023-12-03, 03:10:30](https://news.ycombinator.com/item?id=38504463) - [Banker pays $2M for coal mine, discovers $37B rare Earth elements](https://finance.yahoo.com/news/wall-street-banker-pays-2-215927737.html)
 * [2023-12-03, 02:36:11](https://news.ycombinator.com/item?id=38504270) - [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
@@ -18,7 +19,6 @@
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology (2022)](https://journals.sagepub.com/doi/10.1177/14705931221138617)
 * [2023-12-02, 17:25:35](https://news.ycombinator.com/item?id=38500145) - [The city of the future looks like a former military bunker in Taipei (2016)](https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/)
 * [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Cicadas are so loud, fiber optic cables can ‘hear’ them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
-* [2023-12-02, 14:06:48](https://news.ycombinator.com/item?id=38498688) - [GQL – Git Query Language](https://github.com/AmrDeveloper/GQL)
 * [2023-12-02, 13:11:02](https://news.ycombinator.com/item?id=38498381) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 * [2023-12-02, 13:02:24](https://news.ycombinator.com/item?id=38498332) - [Testing alternate cosmology using a cloud of atoms](https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/)
 * [2023-12-02, 12:55:57](https://news.ycombinator.com/item?id=38498295) - [You can't divide by zero – Garrit's Notes](https://garrit.xyz/posts/2023-11-30-why-you-can%27t-divide-by-zero)
