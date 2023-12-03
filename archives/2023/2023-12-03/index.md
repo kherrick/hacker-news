@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 18:08:23](https://news.ycombinator.com/item?id=38509255) - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
+* [2023-12-03, 18:04:50](https://news.ycombinator.com/item?id=38509209) - [What Happens When a Poor State Guts Its Public University](https://www.theatlantic.com/ideas/archive/2023/12/class-war-west-virignia-university/676152/)
 * [2023-12-03, 18:01:36](https://news.ycombinator.com/item?id=38509173) - [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
 * [2023-12-03, 17:46:26](https://news.ycombinator.com/item?id=38509011) - [Medicare Advantage Popular with Seniors – But Not Hospitals and Doctors](https://kffhealthnews.org/news/article/medicare-advantage-payment-rates-friction/)
 * [2023-12-03, 17:44:43](https://news.ycombinator.com/item?id=38508993) - [Wise (formerly Transfer Wise) are asking me to send them photo of my ID](https://news.ycombinator.com/item?id=38508993)
