@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2023-12-03, 16:34:49](https://news.ycombinator.com/item?id=38508282) - [Lobsters](https://github.com/lobsters/lobsters)
 * [2023-12-03, 16:29:30](https://news.ycombinator.com/item?id=38508233) - [One Reason Why American Health Care Is Expensive](https://marginalrevolution.com/marginalrevolution/2023/12/one-reason-why-american-health-care-is-expensive.html)
 * [2023-12-03, 16:06:36](https://news.ycombinator.com/item?id=38508049) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-03, 15:58:37](https://news.ycombinator.com/item?id=38508003) - [The first results from the biggest basic income experiment](https://www.vox.com/future-perfect/2023/12/1/23981194/givedirectly-basic-income-experiment-abhijit-banerjee-tavneet-suri)
