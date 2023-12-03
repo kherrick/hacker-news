@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-12-03, 16:51:07",
-      "https://news.ycombinator.com/item?id=38508432"
-    ],
-    [
-      "Pushover Turns 10 (2022)",
-      "https://blog.pushover.net/posts/2022/3/ten"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 16:49:36",
       "https://news.ycombinator.com/item?id=38508418"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2023-12-03, 13:58:17",
+      "https://news.ycombinator.com/item?id=38507116"
+    ],
+    [
+      "A guide to home row mods",
+      "https://precondition.github.io/home-row-mods"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 13:29:53",
       "https://news.ycombinator.com/item?id=38506900"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-12-03, 13:17:53",
-      "https://news.ycombinator.com/item?id=38506835"
+      "2023-12-03, 13:22:56",
+      "https://news.ycombinator.com/item?id=38506860"
     ],
     [
-      "Show HN: Rqbit – bittorent CLI and desktop app written in Rust",
-      "https://github.com/ikatson/rqbit/releases/tag/v4.0.0"
+      "Endianness, and why I don't like htons(3) and friends",
+      "https://www.thecodedmessage.com/posts/endianness/"
     ]
   ],
   [
