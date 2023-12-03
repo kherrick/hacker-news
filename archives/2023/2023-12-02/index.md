@@ -68,6 +68,7 @@
 * [2023-12-02, 13:11:02](https://news.ycombinator.com/item?id=38498381) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 * [2023-12-02, 13:02:24](https://news.ycombinator.com/item?id=38498332) - [The Universe in a lab: Testing alternate cosmology using a cloud of atoms](https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
+* [2023-12-02, 12:55:57](https://news.ycombinator.com/item?id=38498295) - [You can't divide by zero – Garrit's Notes](https://garrit.xyz/posts/2023-11-30-why-you-can%27t-divide-by-zero)
 * [2023-12-02, 12:50:32](https://news.ycombinator.com/item?id=38498267) - [Talking with the Inventor of C++](https://www.youtube.com/watch?v=5uA1-J_Wl4E)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 * [2023-12-02, 12:18:35](https://news.ycombinator.com/item?id=38498090) - [No new boss at NSA until it answers questions on buying location, browsing data](https://www.theregister.com/2023/12/02/nsa_held_hostage/)
