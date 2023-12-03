@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The Analog Computer for the Nike Missile System](https://www.ed-thelen.org/computer.html)
+* [2023-12-03, 04:14:52](https://news.ycombinator.com/item?id=38504787) - [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
 * [2023-12-03, 03:36:15](https://news.ycombinator.com/item?id=38504576) - [NASA Open Source Software](https://code.nasa.gov/)
-* [2023-12-03, 03:10:30](https://news.ycombinator.com/item?id=38504463) - [Banker pays $2M for coal mine, discovers $37B rare Earth elements](https://finance.yahoo.com/news/wall-street-banker-pays-2-215927737.html)
 * [2023-12-03, 02:36:11](https://news.ycombinator.com/item?id=38504270) - [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
 * [2023-12-03, 01:44:42](https://news.ycombinator.com/item?id=38504027) - [UniFi Express](https://ui.com/cloud-gateways/express)
 * [2023-12-03, 00:05:03](https://news.ycombinator.com/item?id=38503486) - [Not a real engineer (2019)](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
@@ -26,6 +25,7 @@
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Tiny NYC Community Forgotten for Decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
+* [2023-12-02, 07:56:54](https://news.ycombinator.com/item?id=38496827) - [LLM as DBA](https://arxiv.org/abs/2308.05481)
 * [2023-12-02, 05:37:03](https://news.ycombinator.com/item?id=38496206) - [\"Smartifying\" my hi-fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
