@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-03, 03:36:15](https://news.ycombinator.com/item?id=38504576) - [NASA Open Source Software](https://code.nasa.gov/)
+* [2023-12-03, 03:10:30](https://news.ycombinator.com/item?id=38504463) - [Banker pays $2M for coal mine, discovers $37B rare Earth elements](https://finance.yahoo.com/news/wall-street-banker-pays-2-215927737.html)
 * [2023-12-03, 02:36:11](https://news.ycombinator.com/item?id=38504270) - [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://www.nanowerk.com/news2/space/newsid=64160.php)
 * [2023-12-03, 01:44:42](https://news.ycombinator.com/item?id=38504027) - [UniFi Express](https://ui.com/cloud-gateways/express)
 * [2023-12-03, 00:05:03](https://news.ycombinator.com/item?id=38503486) - [Not a real engineer (2019)](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html)
@@ -12,7 +13,6 @@
 * [2023-12-02, 21:01:55](https://news.ycombinator.com/item?id=38502011) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-02, 20:44:27](https://news.ycombinator.com/item?id=38501878) - [Retinal cells that help stabilize our world view](https://optometry.berkeley.edu/berkeley-scientists-discover-retinal-cells-that-help-stabilize-our-world-view/)
 * [2023-12-02, 20:32:53](https://news.ycombinator.com/item?id=38501779) - [How Meta patches Linux at hyperscale](https://thenewstack.io/how-meta-patches-linux-at-hyperscale/)
-* [2023-12-02, 20:10:27](https://news.ycombinator.com/item?id=38501589) - [Multifaceted: The linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-02, 19:54:25](https://news.ycombinator.com/item?id=38501437) - [Modeling CRDTs in Alloy – Counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
 * [2023-12-02, 18:50:28](https://news.ycombinator.com/item?id=38500906) - [Infants understand language via rhythm and tone rather than individual sounds](https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists)
 * [2023-12-02, 18:22:44](https://news.ycombinator.com/item?id=38500681) - [Mundane emotions: Losing yourself in boredom, time and technology (2022)](https://journals.sagepub.com/doi/10.1177/14705931221138617)
