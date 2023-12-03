@@ -4,7 +4,6 @@
 * [2023-12-03, 20:46:48](https://news.ycombinator.com/item?id=38510598) - [What sea level rise will look like in cities that have hosted climate summits](https://www.cnn.com/2023/12/03/climate/sea-level-rise-cop28-climate/index.html)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
-* [2023-12-03, 19:08:06](https://news.ycombinator.com/item?id=38509780) - [Embrace, Extend, and Extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
 * [2023-12-03, 19:02:47](https://news.ycombinator.com/item?id=38509739) - [American Librarians Helped Defeat the Nazis](https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:30:09](https://news.ycombinator.com/item?id=38509454) - [DIY Home EV Charger](https://jamesfotherby.com/index-page/electric-vehicle-charger/)
@@ -30,6 +29,7 @@
 * [2023-12-03, 06:38:23](https://news.ycombinator.com/item?id=38505325) - [Decoding the Gun-Wielding Angels of Bolivia](https://www.atlasobscura.com/articles/angels-with-guns-angeles-arcabuceros-peru-bolivia)
 * [2023-12-02, 16:25:18](https://news.ycombinator.com/item?id=38499684) - [How are startups shaped by macro conditions at birth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
+* [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
 
 ## [Archives](archives/index.md)
 
