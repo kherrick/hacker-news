@@ -53,6 +53,7 @@
 * [2023-12-02, 16:40:50](https://news.ycombinator.com/item?id=38499824) - [Dark Patterns in UX Design and How to Avoid Them](https://dodonut.com/blog/10-dark-patterns-in-ux-design/)
 * [2023-12-02, 16:35:37](https://news.ycombinator.com/item?id=38499781) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-02, 16:29:15](https://news.ycombinator.com/item?id=38499723) - [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
+* [2023-12-02, 16:25:18](https://news.ycombinator.com/item?id=38499684) - [How are startups shaped by macro conditions at birth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934)
 * [2023-12-02, 16:16:11](https://news.ycombinator.com/item?id=38499619) - [What Is Fundamental? (2009)](http://backreaction.blogspot.com/2009/07/what-is-fundamental.html)
 * [2023-12-02, 16:15:09](https://news.ycombinator.com/item?id=38499610) - [Safety Critical Real-Time OS: Integrity-178B](https://www.ghs.com/products/safety_critical/integrity_178_tump.html)
 * [2023-12-02, 15:45:46](https://news.ycombinator.com/item?id=38499375) - [Open-source drawing tool – Excalidraw](https://github.com/excalidraw/excalidraw)
