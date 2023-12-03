@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
+* [2023-12-03, 18:55:24](https://news.ycombinator.com/item?id=38509675) - [GiveDirectly – Send money directly to people who need it most](https://www.givedirectly.org/)
+* [2023-12-03, 18:53:34](https://news.ycombinator.com/item?id=38509657) - [Italy did an accidental experiment on the effectiveness of GitHub Copilot](https://arxiv.org/abs/2304.09339)
 * [2023-12-03, 18:08:23](https://news.ycombinator.com/item?id=38509255) - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/abs/2311.02206)
 * [2023-12-03, 18:04:50](https://news.ycombinator.com/item?id=38509209) - [What Happens When a Poor State Guts Its Public University](https://www.theatlantic.com/ideas/archive/2023/12/class-war-west-virignia-university/676152/)
 * [2023-12-03, 18:01:36](https://news.ycombinator.com/item?id=38509173) - [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
