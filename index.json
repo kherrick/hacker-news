@@ -11,32 +11,22 @@
   ],
   [
     [
+      "2023-12-03, 21:45:39",
+      "https://news.ycombinator.com/item?id=38511084"
+    ],
+    [
+      "MakeMake: Generate make files from C source code",
+      "https://github.com/quelsolaar/makemake"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 21:45:02",
       "https://news.ycombinator.com/item?id=38511077"
     ],
     [
       "Make JSON Greppable",
       "https://github.com/tomnomnom/gron"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 21:40:57",
-      "https://news.ycombinator.com/item?id=38511032"
-    ],
-    [
-      "Sam Altman, Sugarcoating the Apocalypse",
-      "https://dnyuz.com/2023/12/02/sam-altman-sugarcoating-the-apocalypse/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 21:36:20",
-      "https://news.ycombinator.com/item?id=38510997"
-    ],
-    [
-      "The Placeholder Girlfriend",
-      "https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2023-12-03, 16:58:55",
-      "https://news.ycombinator.com/item?id=38508518"
-    ],
-    [
-      "Tesla: Security Vulnerabilities",
-      "https://www.cvedetails.com/vulnerability-list/vendor_id-16203/Tesla.html?page=1&order=1&trc=13&sha=73e27d3898b2b240263e0f443513b5e8f9073841"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 16:49:36",
       "https://news.ycombinator.com/item?id=38508418"
     ],
@@ -187,6 +167,16 @@
     [
       "Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets",
       "https://github.com/good-lly/lowstorage"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 16:34:21",
+      "https://news.ycombinator.com/item?id=38508276"
+    ],
+    [
+      "S2n-TLS – A C99 implementation of the TLS/SSL protocol",
+      "https://github.com/aws/s2n-tls"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Show HN: Onsites.fyi - Curated Big Tech Interview Experiences",
       "https://www.onsites.fyi/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 13:17:53",
+      "https://news.ycombinator.com/item?id=38506835"
+    ],
+    [
+      "Show HN: Rqbit – bittorent CLI and desktop app written in Rust",
+      "https://github.com/ikatson/rqbit/releases/tag/v4.0.0"
     ]
   ],
   [
