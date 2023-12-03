@@ -83,6 +83,7 @@
 * [2023-12-02, 11:23:30](https://news.ycombinator.com/item?id=38497814) - [Add dark mode to your website with a single line of code](https://github.com/bufferhead-code/nightowl)
 * [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 10:28:18](https://news.ycombinator.com/item?id=38497570) - [Show HN: A Time-Sharing Scheduling Coroutine Script Language](https://melang.org/)
+* [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
 * [2023-12-02, 09:57:05](https://news.ycombinator.com/item?id=38497445) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Tiny NYC Community Forgotten for Decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
 * [2023-12-02, 08:52:01](https://news.ycombinator.com/item?id=38497143) - [Show HN: Advent of Code CLI](https://github.com/tobias-walle/advent-of-code-cli)
