@@ -22,6 +22,7 @@
 * [2023-12-02, 17:25:35](https://news.ycombinator.com/item?id=38500145) - [The city of the future looks like a former military bunker in Taipei (2016)](https://blog.duncangeere.com/the-city-of-the-future-looks-like-a-former-military-bunker-in-taipei/)
 * [2023-12-02, 17:11:14](https://news.ycombinator.com/item?id=38500065) - [Cicadas are so loud, fiber optic cables can ‘hear’ them](https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/)
 * [2023-12-02, 13:11:02](https://news.ycombinator.com/item?id=38498381) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
+* [2023-12-02, 12:59:36](https://news.ycombinator.com/item?id=38498317) - [The 8-Bit Era: Eight Iconic Processor Designs](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-02, 12:50:32](https://news.ycombinator.com/item?id=38498267) - [Talking with the inventor of C++ [video]](https://www.youtube.com/watch?v=5uA1-J_Wl4E)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 11:48:05](https://news.ycombinator.com/item?id=38497927) - ['How do you reduce a national dish to a powder?': the world of crisp flavours](https://www.theguardian.com/food/2023/dec/02/the-weird-secretive-world-of-crisp-flavours)
@@ -29,7 +30,6 @@
 * [2023-12-02, 05:37:03](https://news.ycombinator.com/item?id=38496206) - [\"Smartifying\" my hi-fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 * [2023-12-01, 20:31:09](https://news.ycombinator.com/item?id=38491915) - [Brain waves usually found in sleep can protect against epileptic activity](https://medicalxpress.com/news/2023-11-brain-epileptic.html)
-* [2023-12-01, 09:57:14](https://news.ycombinator.com/item?id=38485048) - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
 ## [Archives](archives/index.md)
 

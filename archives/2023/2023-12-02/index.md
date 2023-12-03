@@ -67,6 +67,7 @@
 * [2023-12-02, 13:20:22](https://news.ycombinator.com/item?id=38498434) - [Tiger Global's Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns)
 * [2023-12-02, 13:11:02](https://news.ycombinator.com/item?id=38498381) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 * [2023-12-02, 13:02:24](https://news.ycombinator.com/item?id=38498332) - [The Universe in a lab: Testing alternate cosmology using a cloud of atoms](https://arstechnica.com/science/2023/12/the-universe-in-a-lab-testing-alternate-cosmology-using-a-cloud-of-atoms/)
+* [2023-12-02, 12:59:36](https://news.ycombinator.com/item?id=38498317) - [The 8-Bit Era: Eight Iconic Processor Designs](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-02, 12:57:52](https://news.ycombinator.com/item?id=38498309) - [A century later, new math smooths out general relativity](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/)
 * [2023-12-02, 12:55:57](https://news.ycombinator.com/item?id=38498295) - [You can't divide by zero – Garrit's Notes](https://garrit.xyz/posts/2023-11-30-why-you-can%27t-divide-by-zero)
 * [2023-12-02, 12:50:32](https://news.ycombinator.com/item?id=38498267) - [Talking with the Inventor of C++](https://www.youtube.com/watch?v=5uA1-J_Wl4E)
