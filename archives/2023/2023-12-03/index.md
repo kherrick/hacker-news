@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
 * [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
+* [2023-12-03, 19:08:45](https://news.ycombinator.com/item?id=38509788) - [Arm Launches the Cortex-M52 for IoT; Its Smallest Processor with Helium](https://fuse.wikichip.org/news/7611/arm-launches-the-cortex-m52-for-iot-its-smallest-processor-with-helium/)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:55:24](https://news.ycombinator.com/item?id=38509675) - [GiveDirectly – Send money directly to people who need it most](https://www.givedirectly.org/)
 * [2023-12-03, 18:53:34](https://news.ycombinator.com/item?id=38509657) - [Italy did an accidental experiment on the effectiveness of GitHub Copilot](https://arxiv.org/abs/2304.09339)
@@ -18,6 +19,7 @@
 * [2023-12-03, 17:15:31](https://news.ycombinator.com/item?id=38508680) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-03, 17:04:07](https://news.ycombinator.com/item?id=38508571) - [Run 70B LLM Inference on a Single 4GB GPU with This New Technique](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb?gi=cbe7920f4cd2)
 * [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2023-12-03, 16:58:55](https://news.ycombinator.com/item?id=38508518) - [Tesla: Security Vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-16203/Tesla.html?page=1&order=1&trc=13&sha=73e27d3898b2b240263e0f443513b5e8f9073841)
 * [2023-12-03, 16:57:05](https://news.ycombinator.com/item?id=38508504) - [Use It or Lose It: Exercising one's right to waste water (2015)](https://projects.propublica.org/killing-the-colorado/story/wasting-water-out-west-use-it-or-lose-it/)
 * [2023-12-03, 16:51:07](https://news.ycombinator.com/item?id=38508432) - [Pushover Turns 10 (2022)](https://blog.pushover.net/posts/2022/3/ten)
 * [2023-12-03, 16:49:36](https://news.ycombinator.com/item?id=38508418) - [All the hominins made tools](https://johnhawks.net/weblog/all-the-hominins-made-tools/)
