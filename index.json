@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-12-02, 22:49:38",
+      "https://news.ycombinator.com/item?id=38502979"
+    ],
+    [
+      "RISC-V Ox64 BL808 SBC: UART Interrupt and Platform-Level Interrupt Controller",
+      "https://lupyuen.codeberg.page/articles/plic2.html"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 22:36:27",
       "https://news.ycombinator.com/item?id=38502857"
     ],
@@ -127,16 +137,6 @@
     [
       "Modeling CRDTs in Alloy – Counters",
       "https://bytes.zone/posts/modeling-crdts-in-alloy-counters/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 19:03:44",
-      "https://news.ycombinator.com/item?id=38501030"
-    ],
-    [
-      "Advent of Technical Writing: Navigation Structure (Day 1 of 24)",
-      "https://jamesg.blog/2023/12/02/advent-of-technical-writing/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-12-02, 10:42:01",
-      "https://news.ycombinator.com/item?id=38497624"
-    ],
-    [
-      "Ancient redwoods recover from fire by sprouting 1000-year-old buds",
-      "https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 05:37:03",
       "https://news.ycombinator.com/item?id=38496206"
     ],
@@ -287,6 +277,16 @@
     [
       "Tinnitus linked to undetected auditory nerve damage",
       "https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/"
+    ]
+  ],
+  [
+    [
+      "2023-12-01, 20:31:09",
+      "https://news.ycombinator.com/item?id=38491915"
+    ],
+    [
+      "Brain waves usually found in sleep can protect against epileptic activity",
+      "https://medicalxpress.com/news/2023-11-brain-epileptic.html"
     ]
   ],
   [
