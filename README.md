@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 12:29:59](https://news.ycombinator.com/item?id=38506590) - [Microsoft is planning an 'Advanced Windows Settings' panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
 * [2023-12-03, 12:02:17](https://news.ycombinator.com/item?id=38506462) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-03, 11:27:10](https://news.ycombinator.com/item?id=38506276) - [Ego, Fear and Money: How the A.I. Fuse Was Lit](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html)
 * [2023-12-03, 10:56:52](https://news.ycombinator.com/item?id=38506175) - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
@@ -25,7 +26,6 @@
 * [2023-12-02, 14:35:33](https://news.ycombinator.com/item?id=38498866) - [SidecarT – Atari ST/STE/Mega Cartridge Emulator on Raspberry Pi Pico Steroids](https://sidecartridge.com/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 11:56:02](https://news.ycombinator.com/item?id=38497963) - [Why do everyone's logo fonts look the same?](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/)
-* [2023-12-02, 10:42:01](https://news.ycombinator.com/item?id=38497624) - [Ancient redwoods recover from fire by sprouting 1000-year-old buds](https://www.science.org/content/article/ancient-redwoods-recover-fire-sprouting-1000-year-old-buds)
 * [2023-12-02, 09:05:11](https://news.ycombinator.com/item?id=38497203) - [The Hole: A tiny NYC community forgotten for decades](https://www.bloomberg.com/features/2023-nyc-jewel-streets-redevelopment)
 * [2023-12-02, 06:54:43](https://news.ycombinator.com/item?id=38496550) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 03:52:10](https://news.ycombinator.com/item?id=38495720) - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)

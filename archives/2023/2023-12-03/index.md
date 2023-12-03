@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 12:29:59](https://news.ycombinator.com/item?id=38506590) - [Microsoft is planning an 'Advanced Windows Settings' panel for power users](https://www.xda-developers.com/microsoft-advanced-windows-settings-panel-mockup/)
 * [2023-12-03, 12:02:17](https://news.ycombinator.com/item?id=38506462) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-03, 11:27:10](https://news.ycombinator.com/item?id=38506276) - [Ego, Fear and Money: How the A.I. Fuse Was Lit](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html)
 * [2023-12-03, 10:56:52](https://news.ycombinator.com/item?id=38506175) - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
