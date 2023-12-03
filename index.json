@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-12-03, 21:36:20",
-      "https://news.ycombinator.com/item?id=38510997"
+      "2023-12-03, 21:45:02",
+      "https://news.ycombinator.com/item?id=38511077"
     ],
     [
-      "The Placeholder Girlfriend",
-      "https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend"
+      "Make JSON Greppable",
+      "https://github.com/tomnomnom/gron"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 21:40:57",
+      "https://news.ycombinator.com/item?id=38511032"
+    ],
+    [
+      "Sam Altman, Sugarcoating the Apocalypse",
+      "https://dnyuz.com/2023/12/02/sam-altman-sugarcoating-the-apocalypse/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 21:27:41",
+      "https://news.ycombinator.com/item?id=38510935"
+    ],
+    [
+      "Learning Jai via Advent of Code",
+      "https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-12-03, 16:34:49",
-      "https://news.ycombinator.com/item?id=38508282"
-    ],
-    [
-      "Lobsters",
-      "https://github.com/lobsters/lobsters"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 16:34:21",
       "https://news.ycombinator.com/item?id=38508276"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-12-03, 13:58:17",
-      "https://news.ycombinator.com/item?id=38507116"
-    ],
-    [
-      "A guide to home row mods",
-      "https://precondition.github.io/home-row-mods"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 13:29:53",
       "https://news.ycombinator.com/item?id=38506900"
     ],
@@ -237,6 +237,16 @@
     [
       "Show HN: Rqbit – bittorent CLI and desktop app written in Rust",
       "https://github.com/ikatson/rqbit/releases/tag/v4.0.0"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 12:23:41",
+      "https://news.ycombinator.com/item?id=38506558"
+    ],
+    [
+      "Rust-Cache",
+      "https://crates.io/crates/priority-expiry-cache/0.2.1"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tiny volumetric display",
       "https://mitxela.com/projects/candle"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 10:24:07",
-      "https://news.ycombinator.com/item?id=38497549"
-    ],
-    [
-      "Unsupervised speech-to-speech translation from monolingual data",
-      "https://blog.research.google/2023/12/unsupervised-speech-to-speech.html"
     ]
   ]
 ]
