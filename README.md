@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-03, 19:31:20](https://news.ycombinator.com/item?id=38509956) - [Why does sleep becomes more elusive as we age? Shifts in \"sleep architecture\"](https://www.salon.com/2023/12/02/why-does-sleep-become-more-elusive-as-we-age-it-has-to-do-with-shifts-in-sleep-architecture/)
 * [2023-12-03, 19:08:06](https://news.ycombinator.com/item?id=38509780) - [Embrace, Extend, and Extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
 * [2023-12-03, 19:02:47](https://news.ycombinator.com/item?id=38509739) - [American Librarians Helped Defeat the Nazis](https://daily.jstor.org/how-american-librarians-helped-defeat-the-nazis/)
@@ -22,7 +23,6 @@
 * [2023-12-03, 13:58:17](https://news.ycombinator.com/item?id=38507116) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 13:29:53](https://news.ycombinator.com/item?id=38506900) - [Show HN: Onsites.fyi - Curated Big Tech Interview Experiences](https://www.onsites.fyi/)
 * [2023-12-03, 13:17:53](https://news.ycombinator.com/item?id=38506835) - [Show HN: Rqbit – bittorent CLI and desktop app written in Rust](https://github.com/ikatson/rqbit/releases/tag/v4.0.0)
-* [2023-12-03, 12:50:38](https://news.ycombinator.com/item?id=38506705) - [Wheel-Hand-Leg-Arms Open Doors Playfully](https://spectrum.ieee.org/quadruped-robot-wheels)
 * [2023-12-03, 10:55:35](https://news.ycombinator.com/item?id=38506166) - [Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
 * [2023-12-03, 10:27:38](https://news.ycombinator.com/item?id=38506078) - [Concurrent Pascal and SuperPascal programming languages, and more](http://brinch-hansen.net/papers/)
 * [2023-12-03, 05:46:18](https://news.ycombinator.com/item?id=38505138) - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
