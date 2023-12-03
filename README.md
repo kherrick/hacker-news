@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-03, 17:24:18](https://news.ycombinator.com/item?id=38508779) - [Steel – An embeddable and extensible scheme dialect built in Rust](https://github.com/mattwparas/steel)
+* [2023-12-03, 17:15:31](https://news.ycombinator.com/item?id=38508680) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-03, 17:04:07](https://news.ycombinator.com/item?id=38508571) - [Run 70B LLM Inference on a Single 4GB GPU with This New Technique](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb?gi=cbe7920f4cd2)
 * [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-* [2023-12-03, 16:57:05](https://news.ycombinator.com/item?id=38508504) - [Use It or Lose It: Exercising one's right to waste water (2015)](https://projects.propublica.org/killing-the-colorado/story/wasting-water-out-west-use-it-or-lose-it/)
 * [2023-12-03, 16:51:07](https://news.ycombinator.com/item?id=38508432) - [Pushover Turns 10 (2022)](https://blog.pushover.net/posts/2022/3/ten)
 * [2023-12-03, 16:49:36](https://news.ycombinator.com/item?id=38508418) - [All the hominins made tools](https://johnhawks.net/weblog/all-the-hominins-made-tools/)
 * [2023-12-03, 16:38:39](https://news.ycombinator.com/item?id=38508324) - [Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets](https://github.com/good-lly/lowstorage)
@@ -26,7 +27,6 @@
 * [2023-12-03, 02:16:55](https://news.ycombinator.com/item?id=38504178) - [Adding Build Provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
 * [2023-12-03, 02:07:21](https://news.ycombinator.com/item?id=38504134) - [Clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 * [2023-12-02, 16:16:11](https://news.ycombinator.com/item?id=38499619) - [What Is Fundamental? (2009)](http://backreaction.blogspot.com/2009/07/what-is-fundamental.html)
-* [2023-12-02, 14:35:33](https://news.ycombinator.com/item?id=38498866) - [SidecarT – Atari ST/STE/Mega Cartridge Emulator on Raspberry Pi Pico Steroids](https://sidecartridge.com/)
 * [2023-12-02, 12:23:05](https://news.ycombinator.com/item?id=38498109) - [Tiny volumetric display](https://mitxela.com/projects/candle)
 * [2023-12-02, 11:56:02](https://news.ycombinator.com/item?id=38497963) - [Why do everyone's logo fonts look the same? (2020)](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/)
 * [2023-12-02, 10:24:07](https://news.ycombinator.com/item?id=38497549) - [Unsupervised speech-to-speech translation from monolingual data](https://blog.research.google/2023/12/unsupervised-speech-to-speech.html)

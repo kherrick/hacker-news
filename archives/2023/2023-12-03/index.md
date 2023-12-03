@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 17:24:18](https://news.ycombinator.com/item?id=38508779) - [Steel – An embeddable and extensible scheme dialect built in Rust](https://github.com/mattwparas/steel)
+* [2023-12-03, 17:15:31](https://news.ycombinator.com/item?id=38508680) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-03, 17:04:07](https://news.ycombinator.com/item?id=38508571) - [Run 70B LLM Inference on a Single 4GB GPU with This New Technique](https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb?gi=cbe7920f4cd2)
 * [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-03, 16:57:05](https://news.ycombinator.com/item?id=38508504) - [Use It or Lose It: Exercising one's right to waste water (2015)](https://projects.propublica.org/killing-the-colorado/story/wasting-water-out-west-use-it-or-lose-it/)
