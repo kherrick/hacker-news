@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 17:56:41](https://news.ycombinator.com/item?id=38520547) - [Booking.com users angry at firm's response to hacks](https://www.bbc.com/news/technology-67591310)
+* [2023-12-04, 17:40:21](https://news.ycombinator.com/item?id=38520308) - [Creators Suing AI Companies over Copyright Further Entrenches Big Tech](https://www.techdirt.com/2023/12/04/if-creators-suing-ai-companies-over-copyright-win-it-will-further-entrench-big-tech/)
 * [2023-12-04, 17:29:25](https://news.ycombinator.com/item?id=38520170) - [Eurostar Amsterdam to London trains cancelled for six months](https://www.independent.co.uk/travel/news-and-advice/eurostar-london-amsterdam-trains-cancelled-b2453340.html)
 * [2023-12-04, 17:07:40](https://news.ycombinator.com/item?id=38519877) - [Sellafield: 'bottomless pit of hell, money and despair'](https://www.theguardian.com/business/2023/dec/04/sellafield-money-europe-toxic-nuclear-site-cumbria-safety)
 * [2023-12-04, 17:00:10](https://news.ycombinator.com/item?id=38519758) - [Optery (YC W22) – Senior Product Manager – Data Privacy Rights Management (U.S.)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
@@ -17,7 +19,6 @@
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-bit era: Eight iconic processor designs](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 08:51:42](https://news.ycombinator.com/item?id=38515082) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
-* [2023-12-04, 07:32:55](https://news.ycombinator.com/item?id=38514595) - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 * [2023-12-04, 07:23:29](https://news.ycombinator.com/item?id=38514537) - [Spotify will reduce total headcount by approximately 17%](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
 * [2023-12-04, 05:19:25](https://news.ycombinator.com/item?id=38513975) - [Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full)
 * [2023-12-04, 05:13:18](https://news.ycombinator.com/item?id=38513953) - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
@@ -26,7 +27,6 @@
 * [2023-12-04, 02:31:27](https://news.ycombinator.com/item?id=38513091) - [Where do non-primitive recursive functions come up naturally?](https://blog.computationalcomplexity.org/2023/12/where-do-non-primitive-recursive.html)
 * [2023-12-04, 01:42:06](https://news.ycombinator.com/item?id=38512793) - [Potential of the Julia programming language for high energy physics computing](https://arxiv.org/abs/2306.03675)
 * [2023-12-03, 23:48:44](https://news.ycombinator.com/item?id=38512019) - [Largest floating solar power plant taking shape on hydropower plant](https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/)
-* [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-02, 11:46:03](https://news.ycombinator.com/item?id=38497917) - [Butterfly gardening](https://en.wikipedia.org/wiki/Butterfly_gardening)
