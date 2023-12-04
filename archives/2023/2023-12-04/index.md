@@ -25,6 +25,7 @@
 * [2023-12-04, 05:19:25](https://news.ycombinator.com/item?id=38513975) - [Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full)
 * [2023-12-04, 05:13:18](https://news.ycombinator.com/item?id=38513953) - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
 * [2023-12-04, 04:35:36](https://news.ycombinator.com/item?id=38513782) - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
+* [2023-12-04, 04:27:48](https://news.ycombinator.com/item?id=38513752) - [1962 Military Innstructional Video on Magnetic Cores](https://www.youtube.com/watch?v=HPT7Wtp3yoo)
 * [2023-12-04, 04:21:33](https://news.ycombinator.com/item?id=38513721) - [Outsmart Your Brain: Why Learning Is Hard and How You Can Make It Easy](https://www.kirkusreviews.com/book-reviews/daniel-t-willingham/outsmart-your-brain-learning/)
 * [2023-12-04, 04:08:22](https://news.ycombinator.com/item?id=38513643) - [Experts revive ancient techniques to make concrete more sustainable](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
 * [2023-12-04, 04:05:32](https://news.ycombinator.com/item?id=38513622) - [Stripe Press has the full, unformatted text of Poor Charlie's Almanack online](https://www.stripe.press/poor-charlies-almanack/fullbook)
