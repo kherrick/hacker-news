@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 23:17:22",
+      "https://news.ycombinator.com/item?id=38524599"
+    ],
+    [
+      "Open Source Ad Blocker for Mac, Windows, and Linux",
+      "https://github.com/anfragment/zen"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 23:12:09",
       "https://news.ycombinator.com/item?id=38524550"
     ],
@@ -287,16 +297,6 @@
     [
       "Now I can just print that video",
       "https://blog.forret.com/2023/12/01/printthatvideo/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 06:08:29",
-      "https://news.ycombinator.com/item?id=38505211"
-    ],
-    [
-      "LLM Visualization",
-      "https://bbycroft.net/llm"
     ]
   ]
 ]
