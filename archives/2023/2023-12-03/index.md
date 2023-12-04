@@ -74,6 +74,7 @@
 * [2023-12-03, 12:14:04](https://news.ycombinator.com/item?id=38506507) - [The Whale That's Known Only by the Sound of Its Voice](https://hakaimagazine.com/news/the-whale-thats-known-only-by-the-sound-of-its-voice/)
 * [2023-12-03, 12:09:15](https://news.ycombinator.com/item?id=38506488) - [Inside Job: How a Hacker Helped Cocaine Traffickers Infiltrate Europe's Ports](https://www.occrp.org/en/narcofiles-the-new-criminal-order/inside-job-how-a-hacker-helped-cocaine-traffickers-infiltrate-europes-biggest-ports)
 * [2023-12-03, 12:02:17](https://news.ycombinator.com/item?id=38506462) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I Can Just Print That Video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 11:27:10](https://news.ycombinator.com/item?id=38506276) - [Ego, Fear and Money: How the A.I. Fuse Was Lit](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html)
 * [2023-12-03, 10:56:52](https://news.ycombinator.com/item?id=38506175) - [1960s chatbot ELIZA beat OpenAI's GPT-3.5 in a recent Turing test study](https://arstechnica.com/information-technology/2023/12/real-humans-appeared-human-63-of-the-time-in-recent-turing-test-ai-study/)
 * [2023-12-03, 10:55:35](https://news.ycombinator.com/item?id=38506166) - [Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
