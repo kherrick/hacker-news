@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 13:26:16](https://news.ycombinator.com/item?id=38516912) - ['Drug use is a health problem': inside one of the oldest legal consumption rooms](https://www.theguardian.com/society/2023/dec/03/drug-use-is-a-health-problem-inside-one-of-the-worlds-oldest-legal-consumption-rooms)
 * [2023-12-04, 13:25:29](https://news.ycombinator.com/item?id=38516908) - [40 years of Turbo Pascal, the coding dinosaur that revolutionized IDEs](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
 * [2023-12-04, 13:09:27](https://news.ycombinator.com/item?id=38516787) - [What's lost when we photograph life instead of experiencing it? (2016)](https://theconversation.com/whats-lost-when-we-photograph-life-instead-of-experiencing-it-58392)
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Rob Pike: Gobs of data (2011)](https://go.dev/blog/gob)
