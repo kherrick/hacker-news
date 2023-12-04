@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
 * [2023-12-03, 22:16:45](https://news.ycombinator.com/item?id=38511280) - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
 * [2023-12-03, 21:54:38](https://news.ycombinator.com/item?id=38511140) - [US Visual Approaches: Lessons from the LH458 Incident](https://ops.group/blog/us-visual-approaches-lh458/)
