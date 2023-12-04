@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 15:01:06](https://news.ycombinator.com/item?id=38518080) - [Trading on Terror?spike in short selling ETFs before the October 7 Hamas attack [pdf]](https://img.haarets.co.il/bs/0000018c-30d8-dc03-a9ec-3cfb40060000/6c/97/de578d544e36ab79023fed36b3f4/ssrn-id4652027.pdf)
+* [2023-12-04, 14:19:03](https://news.ycombinator.com/item?id=38517528) - [FCC threatens $2.3M fines against unlicensed FM stations in Boston](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
+* [2023-12-04, 14:04:46](https://news.ycombinator.com/item?id=38517333) - [Tell HN: YC company Anima Health is spamming email addresses posted to HN](https://news.ycombinator.com/item?id=38517333)
 * [2023-12-04, 13:32:36](https://news.ycombinator.com/item?id=38516965) - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 * [2023-12-04, 13:30:45](https://news.ycombinator.com/item?id=38516943) - [Building AI Without a Neural Network](https://hivekit.io/blog/building-ai-without-a-neural-network/)
 * [2023-12-04, 13:26:16](https://news.ycombinator.com/item?id=38516912) - ['Drug use is a health problem': inside one of the oldest legal consumption rooms](https://www.theguardian.com/society/2023/dec/03/drug-use-is-a-health-problem-inside-one-of-the-worlds-oldest-legal-consumption-rooms)
@@ -31,6 +34,7 @@
 * [2023-12-04, 04:05:32](https://news.ycombinator.com/item?id=38513622) - [Stripe Press has the full, unformatted text of Poor Charlie's Almanack online](https://www.stripe.press/poor-charlies-almanack/fullbook)
 * [2023-12-04, 04:04:16](https://news.ycombinator.com/item?id=38513617) - [Paper vs. Devices: Brain Activation Differences During Memory Retrieval](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full)
 * [2023-12-04, 03:53:55](https://news.ycombinator.com/item?id=38513552) - [Typehero: All you need to become a TypeScript menace](https://typehero.dev/)
+* [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 * [2023-12-04, 03:24:51](https://news.ycombinator.com/item?id=38513395) - [Gemini Postponed, \"in some respects\" as good as GPT-4](https://old.reddit.com/r/mlscaling/comments/189jwne/gemini_postponed_in_some_respects_as_good_as_gpt4/)
 * [2023-12-04, 03:18:13](https://news.ycombinator.com/item?id=38513347) - [D Programming Language](https://dlang.org)
 * [2023-12-04, 03:00:29](https://news.ycombinator.com/item?id=38513258) - [Tax cuts for the wealthy only benefit the rich: debunking trickle-down economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
