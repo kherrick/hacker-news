@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 22:04:50](https://news.ycombinator.com/item?id=38523805) - [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
+* [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber who intentionally crashed plane is sentenced to 6 months in prison](https://twitter.com/bnonews/status/1731748816250974335)
 * [2023-12-04, 21:47:40](https://news.ycombinator.com/item?id=38523601) - [An usable and maximally efficient C standard library](https://github.com/gregoryc/standardlib)
 * [2023-12-04, 21:13:08](https://news.ycombinator.com/item?id=38523140) - [Reel Inequality: Charting the Vanishing Middle Class of Movies](https://www.reelinequality.com/)
 * [2023-12-04, 20:47:35](https://news.ycombinator.com/item?id=38522815) - [CA commission says Cruise withheld data about parking atop of a pedestrian](https://www.theregister.com/2023/12/04/cruise_pedestrian_california/)
