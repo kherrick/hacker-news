@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 16:09:58](https://news.ycombinator.com/item?id=38519012) - [Harvard gutted team examining Facebook Files following $500M Zuckerberg donation](https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/)
 * [2023-12-04, 15:31:34](https://news.ycombinator.com/item?id=38518473) - [Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
 * [2023-12-04, 15:13:06](https://news.ycombinator.com/item?id=38518237) - [Lego latest retailer to leave troubled San Francisco Centre](https://www.sfchronicle.com/bayarea/article/lego-san-francisco-centre-18530623.php)
 * [2023-12-04, 15:01:06](https://news.ycombinator.com/item?id=38518080) - [Trading on Terror?spike in short selling ETFs before the October 7 Hamas attack [pdf]](https://img.haarets.co.il/bs/0000018c-30d8-dc03-a9ec-3cfb40060000/6c/97/de578d544e36ab79023fed36b3f4/ssrn-id4652027.pdf)
