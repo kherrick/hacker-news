@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-04, 00:59:37](https://news.ycombinator.com/item?id=38512506) - [Study: Students would be willing to pay $28 to have peers deactivate TikTok](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
+* [2023-12-04, 02:03:40](https://news.ycombinator.com/item?id=38512921) - [Should children clean their own schools? Japan thinks so](https://www.good.is/articles/japan-children-clean-schools)
+* [2023-12-04, 00:59:37](https://news.ycombinator.com/item?id=38512506) - [When product markets become collective traps: The case of social media](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
 * [2023-12-04, 00:20:22](https://news.ycombinator.com/item?id=38512248) - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
 * [2023-12-03, 22:16:45](https://news.ycombinator.com/item?id=38511280) - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
@@ -17,7 +18,6 @@
 * [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-03, 16:49:36](https://news.ycombinator.com/item?id=38508418) - [All the hominins made tools](https://johnhawks.net/weblog/all-the-hominins-made-tools/)
 * [2023-12-03, 16:38:39](https://news.ycombinator.com/item?id=38508324) - [Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets](https://github.com/good-lly/lowstorage)
-* [2023-12-03, 16:34:21](https://news.ycombinator.com/item?id=38508276) - [S2n-TLS – A C99 implementation of the TLS/SSL protocol](https://github.com/aws/s2n-tls)
 * [2023-12-03, 16:31:31](https://news.ycombinator.com/item?id=38508250) - [Watsonx: IBM's code assistant for turning COBOL into Java](https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson)
 * [2023-12-03, 15:40:56](https://news.ycombinator.com/item?id=38507843) - [A Vacuum Tube Single Board 1-Bit Computer [video]](https://www.youtube.com/watch?v=s7nx-pMQ6tM)
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
