@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-04, 02:03:40](https://news.ycombinator.com/item?id=38512921) - [Should children clean their own schools? Japan thinks so](https://www.good.is/articles/japan-children-clean-schools)
+* [2023-12-04, 03:00:29](https://news.ycombinator.com/item?id=38513258) - [Tax cuts for the wealthy only benefit the rich: debunking trickle-down economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
+* [2023-12-04, 02:59:37](https://news.ycombinator.com/item?id=38513249) - [Why Americans' 'YOLO' spending spree baffles economists](https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists)
 * [2023-12-04, 00:59:37](https://news.ycombinator.com/item?id=38512506) - [When product markets become collective traps: The case of social media](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
 * [2023-12-04, 00:20:22](https://news.ycombinator.com/item?id=38512248) - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
@@ -26,7 +27,6 @@
 * [2023-12-03, 12:14:04](https://news.ycombinator.com/item?id=38506507) - [The Whale That's Known Only by the Sound of Its Voice](https://hakaimagazine.com/news/the-whale-thats-known-only-by-the-sound-of-its-voice/)
 * [2023-12-03, 10:55:35](https://news.ycombinator.com/item?id=38506166) - [Show HN: Simulate 3D plants in the browser](https://plant.max-richter.dev)
 * [2023-12-03, 09:13:14](https://news.ycombinator.com/item?id=38505856) - [George Wald: The Origin of Death (1970)](https://www.elijahwald.com/origin.html)
-* [2023-12-03, 06:15:34](https://news.ycombinator.com/item?id=38505240) - [WikiReader](https://en.wikipedia.org/wiki/WikiReader)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-02, 20:58:59](https://news.ycombinator.com/item?id=38501984) - [The 50 Years That Made America](https://www.historytoday.com/archive/feature/50-years-made-america)
 * [2023-12-02, 16:25:18](https://news.ycombinator.com/item?id=38499684) - [How are startups shaped by macro conditions at birth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934)
