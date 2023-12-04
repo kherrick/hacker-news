@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 20:47:35](https://news.ycombinator.com/item?id=38522815) - [CA commission says Cruise withheld data about parking atop of a pedestrian](https://www.theregister.com/2023/12/04/cruise_pedestrian_california/)
 * [2023-12-04, 20:35:53](https://news.ycombinator.com/item?id=38522671) - [No genuinely 'safe' alternatives to engineered stone bench tops, study finds](https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450)
 * [2023-12-04, 20:33:12](https://news.ycombinator.com/item?id=38522650) - [Judge: Amazon \"cannot claim shock\" that bathroom spycams were used as advertised](https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/)
 * [2023-12-04, 20:12:25](https://news.ycombinator.com/item?id=38522428) - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
@@ -29,7 +30,6 @@
 * [2023-12-03, 23:48:44](https://news.ycombinator.com/item?id=38512019) - [Floating solar power array on hydropower plant](https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 07:37:41](https://news.ycombinator.com/item?id=38505530) - [Intuitive guide to convolution](https://betterexplained.com/articles/intuitive-convolution/)
-* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 
