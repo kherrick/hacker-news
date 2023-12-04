@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 15:31:34](https://news.ycombinator.com/item?id=38518473) - [Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
 * [2023-12-04, 15:13:06](https://news.ycombinator.com/item?id=38518237) - [Lego latest retailer to leave troubled San Francisco Centre](https://www.sfchronicle.com/bayarea/article/lego-san-francisco-centre-18530623.php)
 * [2023-12-04, 15:01:06](https://news.ycombinator.com/item?id=38518080) - [Trading on Terror?spike in short selling ETFs before the October 7 Hamas attack [pdf]](https://img.haarets.co.il/bs/0000018c-30d8-dc03-a9ec-3cfb40060000/6c/97/de578d544e36ab79023fed36b3f4/ssrn-id4652027.pdf)
 * [2023-12-04, 14:46:00](https://news.ycombinator.com/item?id=38517901) - [Farewell to Charlie Munger](https://alchemy.substack.com/p/farewell-to-charlie-munger)
+* [2023-12-04, 14:43:56](https://news.ycombinator.com/item?id=38517873) - [A real case of Bobby Tables?](https://www.parallelparliament.co.uk/mp/alison-thewliss/bill/2022-23/economiccrimeandcorporatetransparency#9369E91A-2B4D-445F-A66B-1A5071727932)
 * [2023-12-04, 14:41:38](https://news.ycombinator.com/item?id=38517846) - [Oxford Word of the Year](https://languages.oup.com/word-of-the-year/2023/)
 * [2023-12-04, 14:19:03](https://news.ycombinator.com/item?id=38517528) - [FCC threatens $2.3M fines against unlicensed FM stations in Boston](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
 * [2023-12-04, 14:04:46](https://news.ycombinator.com/item?id=38517333) - [Tell HN: YC company Anima Health is spamming email addresses posted to HN](https://news.ycombinator.com/item?id=38517333)
