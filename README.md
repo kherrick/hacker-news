@@ -23,7 +23,7 @@
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 * [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
 * [2023-12-03, 14:40:36](https://news.ycombinator.com/item?id=38507381) - [The worst thing about Jenkins is that it works (2019)](http://twitchard.github.io/posts/2019-06-21-life-is-too-short-for-jenkins.html)
-* [2023-12-03, 12:14:04](https://news.ycombinator.com/item?id=38506507) - [The Whale That's Known Only by the Sound of Its Voice](https://hakaimagazine.com/news/the-whale-thats-known-only-by-the-sound-of-its-voice/)
+* [2023-12-03, 12:14:04](https://news.ycombinator.com/item?id=38506507) - [A whale that's known only by the sound of its voice](https://hakaimagazine.com/news/the-whale-thats-known-only-by-the-sound-of-its-voice/)
 * [2023-12-03, 10:55:35](https://news.ycombinator.com/item?id=38506166) - [Show HN: Simulate 3D plants in the browser](https://plant.max-richter.dev)
 * [2023-12-03, 09:13:14](https://news.ycombinator.com/item?id=38505856) - [George Wald: The Origin of Death (1970)](https://www.elijahwald.com/origin.html)
 * [2023-12-03, 06:38:23](https://news.ycombinator.com/item?id=38505325) - [Decoding the gun-wielding angels of Bolivia](https://www.atlasobscura.com/articles/angels-with-guns-angeles-arcabuceros-peru-bolivia)
