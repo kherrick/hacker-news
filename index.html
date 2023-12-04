@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="38516965">
+          <h3>
+            <a
+              class="item"
+              href="https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html"
+              >AI and Trust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-04 @ 13:32:36</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38516965"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="38516912">
           <h3>
             <a
@@ -142,11 +163,11 @@
             <h4>
               <span>2023-12-04 @ 13:26:16</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38516912"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -164,13 +185,150 @@
             <h4>
               <span>2023-12-04 @ 13:25:29</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38516908"
                   >Comments</a
                 ><span class="descendants">: 5</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="38516795">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=38516795"
+              >Launch HN: Slauth (YC S22) – auto-generate secure IAM policies
+              for AWS and GCP</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-04 @ 13:10:30</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38516795"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://slauth.io/">https://slauth.io/</a>. Slauth.io is
+              a CLI to auto-generate secure IAM policies for AWS, and GCP (Azure
+              in the next few days!). We enable development teams to speed up
+              creating secure policies and reduce over-permissive policies being
+              deployed to the cloud.
+              <p>
+                Check out the video or give our open-source CLI a try with one
+                of the sample repo's on
+                <a href="https://github.com/slauth-io/slauth-cli"
+                  >https://github.com/slauth-io/slauth-cli</a
+                >
+                <a
+                  href="https://www.loom.com/share/bd02211659eb4c7f9b335e34094b57cb?sid=f5e84cb2-6939-4d7f-9ed8-90521c90f6de"
+                  >https://www.loom.com/share/bd02211659eb4c7f9b335e34094b57cb?...</a
+                >
+              </p>
+              <p>
+                We got into the cloud access market by coincidence and were
+                amazed by the amount of money spent on IAM. Current tooling such
+                as <a href="http://Ermetic.com">http://Ermetic.com</a> and
+                <a href="http://wiz.io/">http://wiz.io/</a> visualize IAM
+                misconfigurations post deployment but don't actually change
+                engineering behavior, leaving organizations in a constant loop
+                of engineers deploying over-permissive policies ⇒ security
+                engineers/CISO's getting alerts ⇒ Jira tickets created begging
+                developers to remediate ⇒ New over-permissive policies being
+                deployed again.
+              </p>
+              <p>
+                We interviewed hundreds of developers and DevOps engineers and
+                discovered two key pain points:
+              </p>
+              <p>
+                1. *IAM is a Hassle:* Developers despise dealing with IAM
+                intricacies. 2. *Speed vs. Security:* IAM was slowing them down
+                in deploying quality code swiftly.
+              </p>
+              <p>
+                So the objective is automate policy creation so that developers
+                don't have to deal with it, and harden IAM security
+                pre-deployment.
+              </p>
+              <p>
+                We employ Large Language Models (currently OpenAI GPT-4) to scan
+                code in any language. Through a series of prompts, we identify
+                service calls and the actions required. The resource name
+                receives a placeholder unless its embedded in the code. We aim
+                in the future to create a static code analyzer in order to not
+                send any source code to LLM's but for now using LLM's is the
+                fastest way to market and somewhat accepted by the industry
+                through the use of Github Copilot etc.
+              </p>
+              <p>
+                You can use the CLI in the terminal or actually integrate it in
+                your CI/CD and have it become a part of your development team
+                workflow.
+              </p>
+              <p>Three main questions we receive</p>
+              <p>
+                1. *Security Concerns:* How can I trust [Slauth.io](<a
+                  href="http://slauth.io/"
+                  >http://slauth.io/</a
+                >) to access my source code? 2. *Policy Accuracy:* How can I
+                trust [Slauth.io](<a href="http://slauth.io/"
+                  >http://slauth.io/</a
+                >) creates the right policies? 3. *Differentiation:* How are you
+                different from IAMLive, IAMBic AccessAnalyzer or Policy Sentry?
+              </p>
+              <p>
+                To address the first concern, we don't access your code
+                directly. Instead, we offer a CLI that integrates into your
+                CI/CD pipeline, allowing local code scanning.
+                <a href="http://slauth.io/">http://slauth.io/</a> uses your
+                OpenAI key to convert the code into a secure policy, with the
+                option to output results to *`stdout`* or a file for artifact
+                upload and download. That does mean OpenAI has access to the
+                source code located in the path you set to be scanned as we need
+                to know which SDK calls are performed to generate the policies.
+              </p>
+              <p>
+                We have extensively tested it on AWS , Typescript and GPT 4 with
+                very good results (&gt;95% accuracy). We do know these
+                accuracies drop when using GPT 3.5 so if possible, use GPT 4 as
+                we are improving the prompts. GCP and Azure have been tested
+                less but the results when using GPT 4 seem equally high. We also
+                have experienced some hallucinations but they have not effected
+                the outcome of a secure policy but merely the structure of how
+                the policy is generated. That is not to say that it is 100%
+                reliable hence we aim to provide toolings to double check
+                policies through policy simulators and other means.
+              </p>
+              <p>
+                Compared to competitors, we focus mainly on generating secure
+                policies pre-deployment and automating as much as possible. We
+                were inspired by IAMLive but it wasn't as scalable to use across
+                development teams. Policy Sentry is great for templates but with
+                <a href="http://Slauth.io">http://Slauth.io</a> you actually get
+                a granular least privilege policy. Lastly, access analyzer is
+                used to harden security policies which have already been
+                deployed which is similar to other cloud scanning tools and
+                creates a strange reactive process to security. The new
+                access-analyzer feature checks policy diffs in your CDK but
+                again doesn't actually generate the policy pre-deployment.
+              </p>
+              <p>
+                We recognise some engineers are very capable of creating secure
+                policies but similar to using Checkov and TFscan in the context
+                of IaC deployment, we believe using Slauth.io will become a
+                necessity in your CI/CD when deploying service permissions to
+                make sure no IAM misconfiguration appear in the cloud.
+              </p>
+              <p>
+                Would love to get your feedback and feel free to interact on our
+                Github repo and join our Slack community.
+              </p>
+            </div>
           </section>
         </section>
         <section id="38516787">
@@ -186,11 +344,30 @@
             <h4>
               <span>2023-12-04 @ 13:09:27</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38516787"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 31</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38516614">
+          <h3>
+            <a class="item" href="https://www.adac.de/news/tuev-report-2024/"
+              >TÜV vehicle report 2024 – Tesla Model 3, most issues (German)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-04 @ 12:49:56</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38516614"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -205,11 +382,11 @@
             <h4>
               <span>2023-12-04 @ 12:15:12</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38516331"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -226,11 +403,11 @@
             <h4>
               <span>2023-12-04 @ 11:47:08</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38516123"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -247,30 +424,9 @@
             <h4>
               <span>2023-12-04 @ 10:47:02</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38515779"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38515563">
-          <h3>
-            <a
-              class="item"
-              href="https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d"
-              >Leaving F-Droid</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-04 @ 10:13:57</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38515563"
                   >Comments</a
                 ><span class="descendants">: 22</span></span
               >
@@ -289,11 +445,11 @@
             <h4>
               <span>2023-12-04 @ 08:51:42</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38515082"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -309,7 +465,7 @@
             <h4>
               <span>2023-12-04 @ 07:32:55</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38514595"
                   >Comments</a
@@ -330,11 +486,11 @@
             <h4>
               <span>2023-12-04 @ 07:23:29</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38514537"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 213</span></span
               >
             </h4>
           </section>
@@ -351,11 +507,11 @@
             <h4>
               <span>2023-12-04 @ 05:21:09</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513978"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -373,7 +529,7 @@
             <h4>
               <span>2023-12-04 @ 05:19:25</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513975"
                   >Comments</a
@@ -392,33 +548,11 @@
             <h4>
               <span>2023-12-04 @ 05:13:18</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513953"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38513782">
-          <h3>
-            <a
-              class="item"
-              href="https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html"
-              >Lack of sunlight during the day is worse than electric lighting
-              at night</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-04 @ 04:35:36</span
-              ><span class="points-container"
-                >Points: <span class="points">186</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38513782"
-                  >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -436,11 +570,11 @@
             <h4>
               <span>2023-12-04 @ 04:08:22</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513643"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -458,7 +592,7 @@
             <h4>
               <span>2023-12-04 @ 04:04:16</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513617"
                   >Comments</a
@@ -475,11 +609,11 @@
             <h4>
               <span>2023-12-04 @ 03:18:13</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513347"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -517,11 +651,11 @@
             <h4>
               <span>2023-12-04 @ 02:31:27</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513091"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -539,11 +673,11 @@
             <h4>
               <span>2023-12-04 @ 02:28:15</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38513073"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -559,11 +693,11 @@
             <h4>
               <span>2023-12-04 @ 01:42:06</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38512793"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -580,11 +714,11 @@
             <h4>
               <span>2023-12-03 @ 23:04:20</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38511697"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -599,11 +733,11 @@
             <h4>
               <span>2023-12-03 @ 22:48:06</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38511563"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -620,7 +754,7 @@
             <h4>
               <span>2023-12-03 @ 20:00:49</span
               ><span class="points-container"
-                >Points: <span class="points">441</span></span
+                >Points: <span class="points">447</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38510209"
                   >Comments</a
@@ -639,7 +773,7 @@
             <h4>
               <span>2023-12-03 @ 15:40:56</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38507843"
                   >Comments</a
@@ -658,11 +792,11 @@
             <h4>
               <span>2023-12-03 @ 14:49:51</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">327</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38507446"
                   >Comments</a
-                ><span class="descendants">: 236</span></span
+                ><span class="descendants">: 242</span></span
               >
             </h4>
             <div class="text">
@@ -708,30 +842,11 @@
             <h4>
               <span>2023-12-03 @ 12:14:04</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38506507"
                   >Comments</a
                 ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38506166">
-          <h3>
-            <a class="item" href="https://plant.max-richter.dev"
-              >Show HN: Simulate 3D plants in the browser</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-03 @ 10:55:35</span
-              ><span class="points-container"
-                >Points: <span class="points">392</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38506166"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -746,11 +861,11 @@
             <h4>
               <span>2023-12-03 @ 09:13:14</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38505856"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -765,7 +880,7 @@
             <h4>
               <span>2023-12-03 @ 06:08:29</span
               ><span class="points-container"
-                >Points: <span class="points">1158</span></span
+                >Points: <span class="points">1174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38505211"
                   >Comments</a
