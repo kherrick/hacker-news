@@ -7,6 +7,7 @@
 * [2023-12-04, 17:56:41](https://news.ycombinator.com/item?id=38520547) - [Booking.com users angry at firm's response to hacks](https://www.bbc.com/news/technology-67591310)
 * [2023-12-04, 17:40:21](https://news.ycombinator.com/item?id=38520308) - [Creators Suing AI Companies over Copyright Further Entrenches Big Tech](https://www.techdirt.com/2023/12/04/if-creators-suing-ai-companies-over-copyright-win-it-will-further-entrench-big-tech/)
 * [2023-12-04, 17:29:25](https://news.ycombinator.com/item?id=38520170) - [Eurostar Amsterdam to London trains cancelled for six months](https://www.independent.co.uk/travel/news-and-advice/eurostar-london-amsterdam-trains-cancelled-b2453340.html)
+* [2023-12-04, 17:11:56](https://news.ycombinator.com/item?id=38519944) - [An Easy-Sounding Problem Yields Numbers Too Big for Our Universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204)
 * [2023-12-04, 17:07:40](https://news.ycombinator.com/item?id=38519877) - [Sellafield: 'bottomless pit of hell, money and despair'](https://www.theguardian.com/business/2023/dec/04/sellafield-money-europe-toxic-nuclear-site-cumbria-safety)
 * [2023-12-04, 17:00:10](https://news.ycombinator.com/item?id=38519758) - [Optery (YC W22) – Senior Product Manager – Data Privacy Rights Management (U.S.)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2023-12-04, 16:57:24](https://news.ycombinator.com/item?id=38519719) - [HTML, the Programming Language](https://html-lang.org/)
