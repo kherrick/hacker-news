@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-04, 15:01:06](https://news.ycombinator.com/item?id=38518080) - [Spike in short selling in Israeli-company ETF days before Oct 7 [pdf]](https://img.haarets.co.il/bs/0000018c-30d8-dc03-a9ec-3cfb40060000/6c/97/de578d544e36ab79023fed36b3f4/ssrn-id4652027.pdf)
-* [2023-12-04, 14:46:00](https://news.ycombinator.com/item?id=38517901) - [Farewell to Charlie Munger](https://alchemy.substack.com/p/farewell-to-charlie-munger)
 * [2023-12-04, 14:41:38](https://news.ycombinator.com/item?id=38517846) - [Oxford Word of the Year](https://languages.oup.com/word-of-the-year/2023/)
 * [2023-12-04, 14:19:03](https://news.ycombinator.com/item?id=38517528) - [Feds dial up another crackdown on Boston-area pirate radio stations](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
 * [2023-12-04, 13:44:49](https://news.ycombinator.com/item?id=38517099) - [Django 5.0 Is Released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
@@ -28,6 +27,7 @@
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-03, 15:40:56](https://news.ycombinator.com/item?id=38507843) - [A Vacuum Tube Single Board 1-Bit Computer [video]](https://www.youtube.com/watch?v=s7nx-pMQ6tM)
+* [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
