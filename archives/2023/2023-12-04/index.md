@@ -6,8 +6,11 @@
 
 * [2023-12-04, 15:13:06](https://news.ycombinator.com/item?id=38518237) - [Lego latest retailer to leave troubled San Francisco Centre](https://www.sfchronicle.com/bayarea/article/lego-san-francisco-centre-18530623.php)
 * [2023-12-04, 15:01:06](https://news.ycombinator.com/item?id=38518080) - [Trading on Terror?spike in short selling ETFs before the October 7 Hamas attack [pdf]](https://img.haarets.co.il/bs/0000018c-30d8-dc03-a9ec-3cfb40060000/6c/97/de578d544e36ab79023fed36b3f4/ssrn-id4652027.pdf)
+* [2023-12-04, 14:46:00](https://news.ycombinator.com/item?id=38517901) - [Farewell to Charlie Munger](https://alchemy.substack.com/p/farewell-to-charlie-munger)
+* [2023-12-04, 14:41:38](https://news.ycombinator.com/item?id=38517846) - [Oxford Word of the Year](https://languages.oup.com/word-of-the-year/2023/)
 * [2023-12-04, 14:19:03](https://news.ycombinator.com/item?id=38517528) - [FCC threatens $2.3M fines against unlicensed FM stations in Boston](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
 * [2023-12-04, 14:04:46](https://news.ycombinator.com/item?id=38517333) - [Tell HN: YC company Anima Health is spamming email addresses posted to HN](https://news.ycombinator.com/item?id=38517333)
+* [2023-12-04, 13:44:49](https://news.ycombinator.com/item?id=38517099) - [Django 5.0 Is Released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
 * [2023-12-04, 13:32:36](https://news.ycombinator.com/item?id=38516965) - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 * [2023-12-04, 13:30:45](https://news.ycombinator.com/item?id=38516943) - [Building AI Without a Neural Network](https://hivekit.io/blog/building-ai-without-a-neural-network/)
 * [2023-12-04, 13:26:16](https://news.ycombinator.com/item?id=38516912) - ['Drug use is a health problem': inside one of the oldest legal consumption rooms](https://www.theguardian.com/society/2023/dec/03/drug-use-is-a-health-problem-inside-one-of-the-worlds-oldest-legal-consumption-rooms)
