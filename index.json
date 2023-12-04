@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-12-04, 02:03:40",
+      "https://news.ycombinator.com/item?id=38512921"
+    ],
+    [
+      "Should children clean their own schools? Japan thinks so",
+      "https://www.good.is/articles/japan-children-clean-schools"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 00:59:37",
       "https://news.ycombinator.com/item?id=38512506"
     ],
     [
-      "Study: Students would be willing to pay $28 to have peers deactivate TikTok",
+      "When product markets become collective traps: The case of social media",
       "https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets",
       "https://github.com/good-lly/lowstorage"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 16:34:21",
-      "https://news.ycombinator.com/item?id=38508276"
-    ],
-    [
-      "S2n-TLS – A C99 implementation of the TLS/SSL protocol",
-      "https://github.com/aws/s2n-tls"
     ]
   ],
   [
