@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-04, 08:58:58](https://news.ycombinator.com/item?id=38515123) - [Spotify to axe 1,500 workers to save costs](https://www.bbc.com/news/business-67611361)
-* [2023-12-04, 07:49:13](https://news.ycombinator.com/item?id=38514700) - [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)
 * [2023-12-04, 07:32:55](https://news.ycombinator.com/item?id=38514595) - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 * [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-04, 05:13:18](https://news.ycombinator.com/item?id=38513953) - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
@@ -20,6 +19,7 @@
 * [2023-12-03, 21:45:39](https://news.ycombinator.com/item?id=38511084) - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
 * [2023-12-03, 21:45:02](https://news.ycombinator.com/item?id=38511077) - [Gron: Make JSON greppable](https://github.com/tomnomnom/gron)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+* [2023-12-03, 19:05:31](https://news.ycombinator.com/item?id=38509759) - [The Startling Candor of Helen Garner](https://www.newyorker.com/culture/persons-of-interest/the-startling-candor-of-helen-garner)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:01:36](https://news.ycombinator.com/item?id=38509173) - [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
 * [2023-12-03, 17:24:18](https://news.ycombinator.com/item?id=38508779) - [Steel – An embeddable and extensible Scheme dialect](https://github.com/mattwparas/steel)
