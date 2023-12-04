@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-12-04, 04:04:16",
+      "https://news.ycombinator.com/item?id=38513617"
+    ],
+    [
+      "Paper vs. Devices: Brain Activation Differences During Memory Retrieval",
+      "https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 03:18:13",
       "https://news.ycombinator.com/item?id=38513347"
     ],
@@ -197,16 +207,6 @@
     [
       "All the hominins made tools",
       "https://johnhawks.net/weblog/all-the-hominins-made-tools/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 16:38:39",
-      "https://news.ycombinator.com/item?id=38508324"
-    ],
-    [
-      "Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets",
-      "https://github.com/good-lly/lowstorage"
     ]
   ],
   [
