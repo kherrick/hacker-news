@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 23:17:22](https://news.ycombinator.com/item?id=38524599) - [Open Source Ad Blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
 * [2023-12-04, 23:12:09](https://news.ycombinator.com/item?id=38524550) - [Grand Theft Auto VI Trailer 1 [video]](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 * [2023-12-04, 22:04:50](https://news.ycombinator.com/item?id=38523805) - [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
 * [2023-12-04, 21:58:35](https://news.ycombinator.com/item?id=38523736) - [\"Swiss AI\" Initiative for Transparent, Open-Source AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
@@ -29,7 +30,6 @@
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 * [2023-12-03, 23:44:47](https://news.ycombinator.com/item?id=38511991) - [Laser cutting of an electrical steel sheet using a fuzzy logic controller](https://www.mdpi.com/2227-7390/11/23/4769)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
-* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 23:17:22](https://news.ycombinator.com/item?id=38524599) - [Open Source Ad Blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
 * [2023-12-04, 23:12:09](https://news.ycombinator.com/item?id=38524550) - [Grand Theft Auto VI Trailer 1 [video]](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 * [2023-12-04, 22:58:50](https://news.ycombinator.com/item?id=38524388) - [40 Years of Turbo Pascal](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
 * [2023-12-04, 22:04:50](https://news.ycombinator.com/item?id=38523805) - [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
