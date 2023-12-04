@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-12-04, 12:15:12",
-      "https://news.ycombinator.com/item?id=38516331"
-    ],
-    [
-      "Gobs of data (2011)",
-      "https://go.dev/blog/gob"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 06:56:48",
       "https://news.ycombinator.com/item?id=38514388"
     ],
@@ -297,6 +287,16 @@
     [
       "Intuitive guide to convolution",
       "https://betterexplained.com/articles/intuitive-convolution/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 06:08:29",
+      "https://news.ycombinator.com/item?id=38505211"
+    ],
+    [
+      "LLM Visualization",
+      "https://bbycroft.net/llm"
     ]
   ]
 ]
