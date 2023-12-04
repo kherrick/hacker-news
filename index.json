@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-04, 18:24:42",
-      "https://news.ycombinator.com/item?id=38520948"
-    ],
-    [
-      "ML system design: 300 use cases from 80 companies",
-      "https://www.evidentlyai.com/ml-system-design"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 17:52:55",
       "https://news.ycombinator.com/item?id=38520487"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-12-04, 17:06:48",
+      "https://news.ycombinator.com/item?id=38519864"
+    ],
+    [
+      "Ask HN: Experience using your user's Google Drive instead of a database?",
+      "https://news.ycombinator.com/item?id=38519864"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 17:00:10",
       "https://news.ycombinator.com/item?id=38519758"
     ],
@@ -87,6 +87,16 @@
     [
       "A decade of Have I Been Pwned",
       "https://www.troyhunt.com/a-decade-of-have-i-been-pwned/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 16:08:32",
+      "https://news.ycombinator.com/item?id=38518994"
+    ],
+    [
+      "Switch off weird smart TV settings",
+      "https://practicalbetterments.com/switch-off-bad-tv-settings/"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-12-04, 13:01:43",
+      "https://news.ycombinator.com/item?id=38516717"
+    ],
+    [
+      "Kubernetes Needs an LTS",
+      "https://matduggan.com/why-kubernetes-needs-an-lts/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 12:15:12",
       "https://news.ycombinator.com/item?id=38516331"
     ],
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2023-12-04, 05:13:18",
-      "https://news.ycombinator.com/item?id=38513953"
-    ],
-    [
-      "VSCode LLVM Compiler Explorer",
-      "https://github.com/sunxfancy/vscode-llvm"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 04:08:22",
-      "https://news.ycombinator.com/item?id=38513643"
-    ],
-    [
-      "Experts revive ancient techniques to make concrete more sustainable",
-      "https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 04:04:16",
       "https://news.ycombinator.com/item?id=38513617"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-12-04, 01:42:06",
-      "https://news.ycombinator.com/item?id=38512793"
-    ],
-    [
-      "Potential of the Julia programming language for high energy physics computing",
-      "https://arxiv.org/abs/2306.03675"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 23:48:44",
       "https://news.ycombinator.com/item?id=38512019"
     ],
@@ -277,6 +267,16 @@
     [
       "Now I can just print that video",
       "https://blog.forret.com/2023/12/01/printthatvideo/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 07:37:41",
+      "https://news.ycombinator.com/item?id=38505530"
+    ],
+    [
+      "Intuitive guide to convolution",
+      "https://betterexplained.com/articles/intuitive-convolution/"
     ]
   ],
   [
