@@ -27,6 +27,7 @@
 * [2023-12-04, 14:41:38](https://news.ycombinator.com/item?id=38517846) - [Oxford Word of the Year](https://languages.oup.com/word-of-the-year/2023/)
 * [2023-12-04, 14:20:37](https://news.ycombinator.com/item?id=38517550) - [Ousted propaganda scholar Joan Donovan accuses Harvard of bowing to Meta](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint/)
 * [2023-12-04, 14:19:03](https://news.ycombinator.com/item?id=38517528) - [FCC threatens $2.3M fines against unlicensed FM stations in Boston](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
+* [2023-12-04, 14:19:03](https://news.ycombinator.com/item?id=38517528) - [Another crackdown on Boston-area pirate radio stations](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate)
 * [2023-12-04, 14:04:46](https://news.ycombinator.com/item?id=38517333) - [Tell HN: YC company Anima Health is spamming email addresses posted to HN](https://news.ycombinator.com/item?id=38517333)
 * [2023-12-04, 13:44:49](https://news.ycombinator.com/item?id=38517099) - [Django 5.0 Is Released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
 * [2023-12-04, 13:32:36](https://news.ycombinator.com/item?id=38516965) - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
