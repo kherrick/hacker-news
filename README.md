@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 04:21:33](https://news.ycombinator.com/item?id=38513721) - [Outsmart Your Brain: Why Learning Is Hard and How You Can Make It Easy](https://www.kirkusreviews.com/book-reviews/daniel-t-willingham/outsmart-your-brain-learning/)
+* [2023-12-04, 03:53:55](https://news.ycombinator.com/item?id=38513552) - [Typehero: All you need to become a TypeScript menace](https://typehero.dev/)
 * [2023-12-04, 03:24:51](https://news.ycombinator.com/item?id=38513395) - [Gemini Postponed, \"in some respects\" as good as GPT-4](https://old.reddit.com/r/mlscaling/comments/189jwne/gemini_postponed_in_some_respects_as_good_as_gpt4/)
 * [2023-12-04, 00:59:37](https://news.ycombinator.com/item?id=38512506) - [Large shares of consumers use social media out of a fear of missing out](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
 * [2023-12-04, 00:20:22](https://news.ycombinator.com/item?id=38512248) - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
@@ -17,7 +19,6 @@
 * [2023-12-03, 17:24:18](https://news.ycombinator.com/item?id=38508779) - [Steel – An embeddable and extensible Scheme dialect](https://github.com/mattwparas/steel)
 * [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-03, 16:49:36](https://news.ycombinator.com/item?id=38508418) - [All the hominins made tools](https://johnhawks.net/weblog/all-the-hominins-made-tools/)
-* [2023-12-03, 16:38:39](https://news.ycombinator.com/item?id=38508324) - [Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets](https://github.com/good-lly/lowstorage)
 * [2023-12-03, 16:31:31](https://news.ycombinator.com/item?id=38508250) - [Watsonx: IBM's code assistant for turning COBOL into Java](https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson)
 * [2023-12-03, 15:40:56](https://news.ycombinator.com/item?id=38507843) - [A Vacuum Tube Single Board 1-Bit Computer [video]](https://www.youtube.com/watch?v=s7nx-pMQ6tM)
 * [2023-12-03, 15:11:29](https://news.ycombinator.com/item?id=38507594) - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
@@ -26,7 +27,6 @@
 * [2023-12-03, 12:14:04](https://news.ycombinator.com/item?id=38506507) - [A whale that's known only by the sound of its voice](https://hakaimagazine.com/news/the-whale-thats-known-only-by-the-sound-of-its-voice/)
 * [2023-12-03, 10:55:35](https://news.ycombinator.com/item?id=38506166) - [Show HN: Simulate 3D plants in the browser](https://plant.max-richter.dev)
 * [2023-12-03, 09:13:14](https://news.ycombinator.com/item?id=38505856) - [George Wald: The Origin of Death (1970)](https://www.elijahwald.com/origin.html)
-* [2023-12-03, 06:38:23](https://news.ycombinator.com/item?id=38505325) - [Decoding the gun-wielding angels of Bolivia](https://www.atlasobscura.com/articles/angels-with-guns-angeles-arcabuceros-peru-bolivia)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-02, 20:58:59](https://news.ycombinator.com/item?id=38501984) - [The 50 Years That Made America](https://www.historytoday.com/archive/feature/50-years-made-america)
 * [2023-12-02, 16:25:18](https://news.ycombinator.com/item?id=38499684) - [How are startups shaped by macro conditions at birth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934)
