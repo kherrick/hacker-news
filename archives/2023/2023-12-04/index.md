@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 20:12:25](https://news.ycombinator.com/item?id=38522428) - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 * [2023-12-04, 19:59:17](https://news.ycombinator.com/item?id=38522325) - [A Windows Update bug is renaming everyone's printers to HP M101-M106](https://www.xda-developers.com/windows-update-bug-renaming-printers-m101-m106/)
 * [2023-12-04, 19:37:23](https://news.ycombinator.com/item?id=38522031) - [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
 * [2023-12-04, 18:25:51](https://news.ycombinator.com/item?id=38520974) - [Investors snagged 1 in 5 homes for sale in Boston area, worsening housing crisis](https://www.bostonglobe.com/2023/12/03/business/investor-boston-housing-real-estate/)
