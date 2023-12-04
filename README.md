@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-04, 23:17:22](https://news.ycombinator.com/item?id=38524599) - [System-wide Open Source Ad Blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
+* [2023-12-04, 23:17:04](https://news.ycombinator.com/item?id=38524595) - [Towards Accurate Differential Diagnosis with Large Language Models](https://arxiv.org/abs/2312.00164)
 * [2023-12-04, 22:58:02](https://news.ycombinator.com/item?id=38524372) - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
 * [2023-12-04, 22:04:50](https://news.ycombinator.com/item?id=38523805) - [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
 * [2023-12-04, 21:58:35](https://news.ycombinator.com/item?id=38523736) - [Joint initiative for trustworthy AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
@@ -23,7 +24,6 @@
 * [2023-12-04, 13:44:49](https://news.ycombinator.com/item?id=38517099) - [Django 5.0](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
-* [2023-12-04, 06:56:48](https://news.ycombinator.com/item?id=38514388) - [Secrets of the Fn Key](https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/)
 * [2023-12-04, 04:27:48](https://news.ycombinator.com/item?id=38513752) - [Magnetic Cores – Part I (1961) [video]](https://www.youtube.com/watch?v=HPT7Wtp3yoo)
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
