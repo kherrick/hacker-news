@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-04, 22:58:50",
+      "https://news.ycombinator.com/item?id=38524388"
+    ],
+    [
+      "40 Years of Turbo Pascal",
+      "https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 22:04:50",
       "https://news.ycombinator.com/item?id=38523805"
     ],
     [
       "Dietary fiber intake and all-cause and cause-specific mortality",
       "https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 21:58:35",
+      "https://news.ycombinator.com/item?id=38523736"
+    ],
+    [
+      "\"Swiss AI\" Initiative for Transparent, Open-Source AI",
+      "https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-12-04, 17:35:05",
-      "https://news.ycombinator.com/item?id=38520252"
-    ],
-    [
-      "Show HN: Modular audio synthesizer written in Rust",
-      "https://github.com/JohnDowson/pcmg"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 17:11:56",
       "https://news.ycombinator.com/item?id=38519944"
     ],
@@ -187,16 +197,6 @@
     [
       "A study of Google's code review tooling (Critique)",
       "https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 14:43:56",
-      "https://news.ycombinator.com/item?id=38517873"
-    ],
-    [
-      "A real case of Bobby Tables?",
-      "https://www.parallelparliament.co.uk/mp/alison-thewliss/bill/2022-23/economiccrimeandcorporatetransparency#9369E91A-2B4D-445F-A66B-1A5071727932"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-12-03, 23:44:47",
+      "https://news.ycombinator.com/item?id=38511991"
+    ],
+    [
+      "Laser cutting of an electrical steel sheet using a fuzzy logic controller",
+      "https://www.mdpi.com/2227-7390/11/23/4769"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 12:02:14",
       "https://news.ycombinator.com/item?id=38506460"
     ],
     [
       "Now I can just print that video",
       "https://blog.forret.com/2023/12/01/printthatvideo/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 06:08:29",
-      "https://news.ycombinator.com/item?id=38505211"
-    ],
-    [
-      "LLM Visualization",
-      "https://bbycroft.net/llm"
     ]
   ]
 ]
