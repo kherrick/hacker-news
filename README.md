@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 13:25:29](https://news.ycombinator.com/item?id=38516908) - [40 years of Turbo Pascal, the coding dinosaur that revolutionized IDEs](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
+* [2023-12-04, 13:09:27](https://news.ycombinator.com/item?id=38516787) - [What's lost when we photograph life instead of experiencing it? (2016)](https://theconversation.com/whats-lost-when-we-photograph-life-instead-of-experiencing-it-58392)
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Rob Pike: Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
@@ -21,8 +23,6 @@
 * [2023-12-04, 01:23:16](https://news.ycombinator.com/item?id=38512656) - [A case for moving away from the cloud and embracing local storage solutions](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 22:48:06](https://news.ycombinator.com/item?id=38511563) - [Stuxnet Source Code](https://github.com/research-virus/stuxnet)
-* [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
-* [2023-12-03, 22:16:45](https://news.ycombinator.com/item?id=38511280) - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-03, 15:40:56](https://news.ycombinator.com/item?id=38507843) - [A Vacuum Tube Single Board 1-Bit Computer [video]](https://www.youtube.com/watch?v=s7nx-pMQ6tM)
 * [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)

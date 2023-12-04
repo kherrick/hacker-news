@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 13:25:29](https://news.ycombinator.com/item?id=38516908) - [40 years of Turbo Pascal, the coding dinosaur that revolutionized IDEs](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
+* [2023-12-04, 13:09:27](https://news.ycombinator.com/item?id=38516787) - [What's lost when we photograph life instead of experiencing it? (2016)](https://theconversation.com/whats-lost-when-we-photograph-life-instead-of-experiencing-it-58392)
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Rob Pike: Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
