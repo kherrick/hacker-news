@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-04, 18:25:51",
+      "https://news.ycombinator.com/item?id=38520974"
+    ],
+    [
+      "Investors snagged 1 in 5 homes for sale in Boston area, worsening housing crisis",
+      "https://www.bostonglobe.com/2023/12/03/business/investor-boston-housing-real-estate/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 18:24:42",
+      "https://news.ycombinator.com/item?id=38520948"
+    ],
+    [
+      "ML system design: 300 use cases from 80 companies",
+      "https://www.evidentlyai.com/ml-system-design"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 17:56:41",
       "https://news.ycombinator.com/item?id=38520547"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2023-12-04, 17:40:21",
-      "https://news.ycombinator.com/item?id=38520308"
+      "2023-12-04, 17:52:55",
+      "https://news.ycombinator.com/item?id=38520487"
     ],
     [
-      "Creators Suing AI Companies over Copyright Further Entrenches Big Tech",
-      "https://www.techdirt.com/2023/12/04/if-creators-suing-ai-companies-over-copyright-win-it-will-further-entrench-big-tech/"
+      "Dogbolt Decompiler Explorer",
+      "https://dogbolt.org/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38519758"
     ],
     [
-      "Optery (YC W22) – Senior Product Manager – Data Privacy Rights Management (U.S.)",
+      "Optery (YC W22) – data privacy – is hiring a senior product manager (U.S.)",
       "https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "HTML, the Programming Language",
       "https://html-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 16:40:43",
-      "https://news.ycombinator.com/item?id=38519466"
-    ],
-    [
-      "23andMe hackers accessed a whole lot of user's personal data",
-      "https://www.techradar.com/pro/security/23andme-hackers-accessed-a-whole-lot-of-users-personal-data"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "A decade of Have I Been Pwned",
       "https://www.troyhunt.com/a-decade-of-have-i-been-pwned/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 15:31:34",
-      "https://news.ycombinator.com/item?id=38518473"
-    ],
-    [
-      "Google takes the pain out of code reviews, with 97% dev satisfaction",
-      "https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of"
     ]
   ],
   [
@@ -175,18 +175,8 @@
       "https://news.ycombinator.com/item?id=38516123"
     ],
     [
-      "The 8-bit era: Eight iconic processor designs",
+      "The 8-bit era: Eight processor designs",
       "https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 10:47:02",
-      "https://news.ycombinator.com/item?id=38515779"
-    ],
-    [
-      "HTML attributes for improved accessibility and user experience",
-      "https://www.htmhell.dev/adventcalendar/2023/4/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Spotify will reduce total headcount by approximately 17%",
       "https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 05:19:25",
+      "https://news.ycombinator.com/item?id=38513975"
+    ],
+    [
+      "Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard",
+      "https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=38512019"
     ],
     [
-      "Largest floating solar power plant taking shape on hydropower plant",
+      "Floating solar power array on hydropower plant",
       "https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/"
     ]
   ],
