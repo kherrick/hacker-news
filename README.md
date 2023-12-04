@@ -22,7 +22,6 @@
 * [2023-12-04, 13:44:49](https://news.ycombinator.com/item?id=38517099) - [Django 5.0](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
-* [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 06:56:48](https://news.ycombinator.com/item?id=38514388) - [The Hidden Secrets of the Fn Key](https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/)
 * [2023-12-04, 05:19:25](https://news.ycombinator.com/item?id=38513975) - [Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full)
 * [2023-12-04, 04:27:48](https://news.ycombinator.com/item?id=38513752) - [Magnetic Cores – Part I (1961) [video]](https://www.youtube.com/watch?v=HPT7Wtp3yoo)
@@ -30,6 +29,7 @@
 * [2023-12-03, 23:48:44](https://news.ycombinator.com/item?id=38512019) - [Floating solar power array on hydropower plant](https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 07:37:41](https://news.ycombinator.com/item?id=38505530) - [Intuitive guide to convolution](https://betterexplained.com/articles/intuitive-convolution/)
+* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 
