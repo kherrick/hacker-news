@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-04, 07:23:29",
-      "https://news.ycombinator.com/item?id=38514537"
+      "2023-12-04, 07:49:13",
+      "https://news.ycombinator.com/item?id=38514700"
     ],
     [
-      "Spotify will reduce total headcount by 17% across the company",
-      "https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/"
+      "macOS Sonoma is setting records for update size",
+      "https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 07:32:55",
+      "https://news.ycombinator.com/item?id=38514595"
+    ],
+    [
+      "Kramdown-man: A Kramdown convert for converting Markdown files into man pages",
+      "https://github.com/postmodern/kramdown-man"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Relative shell script includes with realpath on FreeBSD",
       "https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 05:13:18",
+      "https://news.ycombinator.com/item?id=38513953"
+    ],
+    [
+      "VSCode LLVM Compiler Explorer",
+      "https://github.com/sunxfancy/vscode-llvm"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Steel – An embeddable and extensible Scheme dialect",
       "https://github.com/mattwparas/steel"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 16:49:36",
-      "https://news.ycombinator.com/item?id=38508418"
-    ],
-    [
-      "All the hominins made tools",
-      "https://johnhawks.net/weblog/all-the-hominins-made-tools/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 16:31:31",
-      "https://news.ycombinator.com/item?id=38508250"
-    ],
-    [
-      "Watsonx: IBM's code assistant for turning COBOL into Java",
-      "https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson"
     ]
   ],
   [
