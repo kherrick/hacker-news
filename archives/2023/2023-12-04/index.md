@@ -20,6 +20,7 @@
 * [2023-12-04, 03:18:13](https://news.ycombinator.com/item?id=38513347) - [D Programming Language](https://dlang.org)
 * [2023-12-04, 03:00:29](https://news.ycombinator.com/item?id=38513258) - [Tax cuts for the wealthy only benefit the rich: debunking trickle-down economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 * [2023-12-04, 02:59:37](https://news.ycombinator.com/item?id=38513249) - [Why Americans' 'YOLO' spending spree baffles economists](https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists)
+* [2023-12-04, 02:55:28](https://news.ycombinator.com/item?id=38513225) - [The Ease Factor Problem (2018)](https://web.archive.org/web/20200926103540/https://massimmersionapproach.com/table-of-contents/anki/low-key-anki/the-ease-factor-problem/)
 * [2023-12-04, 02:28:15](https://news.ycombinator.com/item?id=38513073) - [Tyrian purple: The lost ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
 * [2023-12-04, 02:20:29](https://news.ycombinator.com/item?id=38513024) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 * [2023-12-04, 02:03:40](https://news.ycombinator.com/item?id=38512921) - [Should children clean their own schools? Japan thinks so](https://www.good.is/articles/japan-children-clean-schools)
