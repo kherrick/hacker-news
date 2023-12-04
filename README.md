@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-04, 23:17:22](https://news.ycombinator.com/item?id=38524599) - [Open Source Ad Blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
-* [2023-12-04, 23:12:09](https://news.ycombinator.com/item?id=38524550) - [Grand Theft Auto VI Trailer 1 [video]](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+* [2023-12-04, 23:17:22](https://news.ycombinator.com/item?id=38524599) - [System-wide Open Source Ad Blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
+* [2023-12-04, 22:58:02](https://news.ycombinator.com/item?id=38524372) - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
 * [2023-12-04, 22:04:50](https://news.ycombinator.com/item?id=38523805) - [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
-* [2023-12-04, 21:58:35](https://news.ycombinator.com/item?id=38523736) - [\"Swiss AI\" Initiative for Transparent, Open-Source AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
-* [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber who intentionally crashed plane is sentenced to 6 months in prison](https://twitter.com/bnonews/status/1731748816250974335)
-* [2023-12-04, 21:47:40](https://news.ycombinator.com/item?id=38523601) - [An usable and maximally efficient C standard library](https://github.com/gregoryc/standardlib)
+* [2023-12-04, 21:58:35](https://news.ycombinator.com/item?id=38523736) - [Joint initiative for trustworthy AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
+* [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
 * [2023-12-04, 20:30:31](https://news.ycombinator.com/item?id=38522616) - [High blood pressure may contribute to cognitive decline](https://www.nih.gov/news-events-news-releases/salty-immune-cells-surrounding-brain-linked-hypertension-induced-dementia)
 * [2023-12-04, 20:12:25](https://news.ycombinator.com/item?id=38522428) - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 * [2023-12-04, 19:46:08](https://news.ycombinator.com/item?id=38522142) - [Minnesota middle school students 'seem happy' after cellphone ban](https://www.newsnationnow.com/us-news/education/minnesota-middle-cellphone-ban/)
@@ -30,6 +29,7 @@
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 * [2023-12-03, 23:44:47](https://news.ycombinator.com/item?id=38511991) - [Laser cutting of an electrical steel sheet using a fuzzy logic controller](https://www.mdpi.com/2227-7390/11/23/4769)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
+* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 
