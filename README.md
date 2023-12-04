@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-04, 02:03:40](https://news.ycombinator.com/item?id=38512921) - [Should children clean their own schools? Japan thinks so](https://www.good.is/articles/japan-children-clean-schools)
+* [2023-12-04, 01:10:29](https://news.ycombinator.com/item?id=38512577) - [Download Valley](https://en.wikipedia.org/wiki/Download_Valley)
 * [2023-12-04, 00:59:37](https://news.ycombinator.com/item?id=38512506) - [When product markets become collective traps: The case of social media](https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/)
 * [2023-12-04, 00:20:22](https://news.ycombinator.com/item?id=38512248) - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
@@ -8,7 +9,6 @@
 * [2023-12-03, 21:54:38](https://news.ycombinator.com/item?id=38511140) - [US Visual Approaches: Lessons from the LH458 Incident](https://ops.group/blog/us-visual-approaches-lh458/)
 * [2023-12-03, 21:45:39](https://news.ycombinator.com/item?id=38511084) - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
 * [2023-12-03, 21:45:02](https://news.ycombinator.com/item?id=38511077) - [Gron: Make JSON greppable](https://github.com/tomnomnom/gron)
-* [2023-12-03, 21:27:41](https://news.ycombinator.com/item?id=38510935) - [Learning Jai via Advent of Code](https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:30:09](https://news.ycombinator.com/item?id=38509454) - [DIY Home EV Charger](https://jamesfotherby.com/index-page/electric-vehicle-charger/)
