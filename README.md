@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 21:47:40](https://news.ycombinator.com/item?id=38523601) - [An usable and maximally efficient C standard library](https://github.com/gregoryc/standardlib)
 * [2023-12-04, 21:13:08](https://news.ycombinator.com/item?id=38523140) - [Reel Inequality: Charting the Vanishing Middle Class of Movies](https://www.reelinequality.com/)
 * [2023-12-04, 20:30:31](https://news.ycombinator.com/item?id=38522616) - [High blood pressure may contribute to cognitive decline](https://www.nih.gov/news-events-news-releases/salty-immune-cells-surrounding-brain-linked-hypertension-induced-dementia)
 * [2023-12-04, 20:12:25](https://news.ycombinator.com/item?id=38522428) - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
@@ -26,7 +27,6 @@
 * [2023-12-04, 04:27:48](https://news.ycombinator.com/item?id=38513752) - [Magnetic Cores – Part I (1961) [video]](https://www.youtube.com/watch?v=HPT7Wtp3yoo)
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
-* [2023-12-03, 23:48:44](https://news.ycombinator.com/item?id=38512019) - [Floating solar power array on hydropower plant](https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 07:37:41](https://news.ycombinator.com/item?id=38505530) - [Intuitive guide to convolution](https://betterexplained.com/articles/intuitive-convolution/)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
