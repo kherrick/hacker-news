@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-04, 15:01:06](https://news.ycombinator.com/item?id=38518080) - [Trading on Terror?spike in short selling ETFs before the October 7 Hamas attack [pdf]](https://img.haarets.co.il/bs/0000018c-30d8-dc03-a9ec-3cfb40060000/6c/97/de578d544e36ab79023fed36b3f4/ssrn-id4652027.pdf)
+* [2023-12-04, 15:13:06](https://news.ycombinator.com/item?id=38518237) - [Lego latest retailer to leave troubled San Francisco Centre](https://www.sfchronicle.com/bayarea/article/lego-san-francisco-centre-18530623.php)
+* [2023-12-04, 15:01:06](https://news.ycombinator.com/item?id=38518080) - [Spike in short selling in Israeli-company ETF days before Oct 7 [pdf]](https://img.haarets.co.il/bs/0000018c-30d8-dc03-a9ec-3cfb40060000/6c/97/de578d544e36ab79023fed36b3f4/ssrn-id4652027.pdf)
 * [2023-12-04, 14:19:03](https://news.ycombinator.com/item?id=38517528) - [FCC threatens $2.3M fines against unlicensed FM stations in Boston](https://www.universalhub.com/2023/feds-dial-another-crackdown-boston-area-pirate#comments)
 * [2023-12-04, 14:04:46](https://news.ycombinator.com/item?id=38517333) - [Tell HN: YC company Anima Health is spamming email addresses posted to HN](https://news.ycombinator.com/item?id=38517333)
 * [2023-12-04, 13:32:36](https://news.ycombinator.com/item?id=38516965) - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
@@ -25,7 +26,6 @@
 * [2023-12-04, 01:42:06](https://news.ycombinator.com/item?id=38512793) - [Potential of the Julia programming language for high energy physics computing](https://arxiv.org/abs/2306.03675)
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
-* [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-03, 15:40:56](https://news.ycombinator.com/item?id=38507843) - [A Vacuum Tube Single Board 1-Bit Computer [video]](https://www.youtube.com/watch?v=s7nx-pMQ6tM)
 * [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
