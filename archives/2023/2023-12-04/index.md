@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 18:25:51](https://news.ycombinator.com/item?id=38520974) - [Investors snagged 1 in 5 homes for sale in Boston area, worsening housing crisis](https://www.bostonglobe.com/2023/12/03/business/investor-boston-housing-real-estate/)
+* [2023-12-04, 18:24:42](https://news.ycombinator.com/item?id=38520948) - [ML system design: 300 use cases from 80 companies](https://www.evidentlyai.com/ml-system-design)
 * [2023-12-04, 17:56:41](https://news.ycombinator.com/item?id=38520547) - [Booking.com users angry at firm's response to hacks](https://www.bbc.com/news/technology-67591310)
+* [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
 * [2023-12-04, 17:40:21](https://news.ycombinator.com/item?id=38520308) - [Creators Suing AI Companies over Copyright Further Entrenches Big Tech](https://www.techdirt.com/2023/12/04/if-creators-suing-ai-companies-over-copyright-win-it-will-further-entrench-big-tech/)
 * [2023-12-04, 17:29:25](https://news.ycombinator.com/item?id=38520170) - [Eurostar Amsterdam to London trains cancelled for six months](https://www.independent.co.uk/travel/news-and-advice/eurostar-london-amsterdam-trains-cancelled-b2453340.html)
 * [2023-12-04, 17:11:56](https://news.ycombinator.com/item?id=38519944) - [An Easy-Sounding Problem Yields Numbers Too Big for Our Universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204)
