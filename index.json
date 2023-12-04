@@ -5,18 +5,18 @@
       "https://news.ycombinator.com/item?id=38524599"
     ],
     [
-      "Open Source Ad Blocker for Mac, Windows, and Linux",
+      "System-wide Open Source Ad Blocker for Mac, Windows, and Linux",
       "https://github.com/anfragment/zen"
     ]
   ],
   [
     [
-      "2023-12-04, 23:12:09",
-      "https://news.ycombinator.com/item?id=38524550"
+      "2023-12-04, 22:58:02",
+      "https://news.ycombinator.com/item?id=38524372"
     ],
     [
-      "Grand Theft Auto VI Trailer 1 [video]",
-      "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "2023 WebMD Wrapped",
+      "https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38523736"
     ],
     [
-      "\"Swiss AI\" Initiative for Transparent, Open-Source AI",
+      "Joint initiative for trustworthy AI",
       "https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/"
     ]
   ],
@@ -45,18 +45,8 @@
       "https://news.ycombinator.com/item?id=38523704"
     ],
     [
-      "YouTuber who intentionally crashed plane is sentenced to 6 months in prison",
-      "https://twitter.com/bnonews/status/1731748816250974335"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 21:47:40",
-      "https://news.ycombinator.com/item?id=38523601"
-    ],
-    [
-      "An usable and maximally efficient C standard library",
-      "https://github.com/gregoryc/standardlib"
+      "YouTuber sentenced to 6 months in prison for obstructing probe into plane crash",
+      "https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Now I can just print that video",
       "https://blog.forret.com/2023/12/01/printthatvideo/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 06:08:29",
+      "https://news.ycombinator.com/item?id=38505211"
+    ],
+    [
+      "LLM Visualization",
+      "https://bbycroft.net/llm"
     ]
   ]
 ]
