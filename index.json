@@ -91,22 +91,22 @@
   ],
   [
     [
-      "2023-12-04, 02:20:29",
-      "https://news.ycombinator.com/item?id=38513024"
-    ],
-    [
-      "A few words about Blameless culture",
-      "https://www.gybe.ca/a-few-words-about-blameless-culture/"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 01:23:16",
       "https://news.ycombinator.com/item?id=38512656"
     ],
     [
       "A case for moving away from the cloud and embracing local storage solutions",
       "https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 00:20:22",
+      "https://news.ycombinator.com/item?id=38512248"
+    ],
+    [
+      "Writing a file system from scratch in Rust",
+      "https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html"
     ]
   ],
   [
