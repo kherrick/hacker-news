@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 21:13:08](https://news.ycombinator.com/item?id=38523140) - [Reel Inequality: Charting the Vanishing Middle Class of Movies](https://www.reelinequality.com/)
 * [2023-12-04, 20:47:35](https://news.ycombinator.com/item?id=38522815) - [CA commission says Cruise withheld data about parking atop of a pedestrian](https://www.theregister.com/2023/12/04/cruise_pedestrian_california/)
 * [2023-12-04, 20:35:53](https://news.ycombinator.com/item?id=38522671) - [No genuinely 'safe' alternatives to engineered stone bench tops, study finds](https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450)
 * [2023-12-04, 20:33:12](https://news.ycombinator.com/item?id=38522650) - [Judge: Amazon \"cannot claim shock\" that bathroom spycams were used as advertised](https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/)

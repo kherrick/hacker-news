@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 21:13:08](https://news.ycombinator.com/item?id=38523140) - [Reel Inequality: Charting the Vanishing Middle Class of Movies](https://www.reelinequality.com/)
 * [2023-12-04, 20:47:35](https://news.ycombinator.com/item?id=38522815) - [CA commission says Cruise withheld data about parking atop of a pedestrian](https://www.theregister.com/2023/12/04/cruise_pedestrian_california/)
 * [2023-12-04, 20:35:53](https://news.ycombinator.com/item?id=38522671) - [No genuinely 'safe' alternatives to engineered stone bench tops, study finds](https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450)
 * [2023-12-04, 20:33:12](https://news.ycombinator.com/item?id=38522650) - [Judge: Amazon \"cannot claim shock\" that bathroom spycams were used as advertised](https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/)
@@ -10,7 +11,6 @@
 * [2023-12-04, 18:21:47](https://news.ycombinator.com/item?id=38520901) - [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
 * [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
 * [2023-12-04, 17:11:56](https://news.ycombinator.com/item?id=38519944) - [An easy-sounding problem yields numbers too big for our universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204)
-* [2023-12-04, 17:07:40](https://news.ycombinator.com/item?id=38519877) - [Sellafield: Europe’s most toxic nuclear site](https://www.theguardian.com/business/2023/dec/04/sellafield-money-europe-toxic-nuclear-site-cumbria-safety)
 * [2023-12-04, 17:00:10](https://news.ycombinator.com/item?id=38519758) - [Optery (YC W22) – data privacy – is hiring a senior product manager (U.S.)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2023-12-04, 16:57:24](https://news.ycombinator.com/item?id=38519719) - [HTML, the Programming Language](https://html-lang.org/)
 * [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
