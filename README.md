@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-04, 13:32:36](https://news.ycombinator.com/item?id=38516965) - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
-* [2023-12-04, 13:26:16](https://news.ycombinator.com/item?id=38516912) - ['Drug use is a health problem': inside one of the oldest legal consumption rooms](https://www.theguardian.com/society/2023/dec/03/drug-use-is-a-health-problem-inside-one-of-the-worlds-oldest-legal-consumption-rooms)
+* [2023-12-04, 13:30:45](https://news.ycombinator.com/item?id=38516943) - [Building AI Without a Neural Network](https://hivekit.io/blog/building-ai-without-a-neural-network/)
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
-* [2023-12-04, 13:09:27](https://news.ycombinator.com/item?id=38516787) - [What's lost when we photograph life instead of experiencing it? (2016)](https://theconversation.com/whats-lost-when-we-photograph-life-instead-of-experiencing-it-58392)
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-Bit Era: Eight Iconic Processor Designs](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
@@ -24,6 +23,7 @@
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 22:48:06](https://news.ycombinator.com/item?id=38511563) - [Stuxnet Source Code](https://github.com/research-virus/stuxnet)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+* [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-03, 15:40:56](https://news.ycombinator.com/item?id=38507843) - [A Vacuum Tube Single Board 1-Bit Computer [video]](https://www.youtube.com/watch?v=s7nx-pMQ6tM)
 * [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I Can Just Print That Video](https://blog.forret.com/2023/12/01/printthatvideo/)

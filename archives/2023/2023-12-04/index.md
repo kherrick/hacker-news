@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
 * [2023-12-04, 13:32:36](https://news.ycombinator.com/item?id=38516965) - [AI and Trust](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+* [2023-12-04, 13:30:45](https://news.ycombinator.com/item?id=38516943) - [Building AI Without a Neural Network](https://hivekit.io/blog/building-ai-without-a-neural-network/)
 * [2023-12-04, 13:26:16](https://news.ycombinator.com/item?id=38516912) - ['Drug use is a health problem': inside one of the oldest legal consumption rooms](https://www.theguardian.com/society/2023/dec/03/drug-use-is-a-health-problem-inside-one-of-the-worlds-oldest-legal-consumption-rooms)
 * [2023-12-04, 13:25:29](https://news.ycombinator.com/item?id=38516908) - [40 years of Turbo Pascal, the coding dinosaur that revolutionized IDEs](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
