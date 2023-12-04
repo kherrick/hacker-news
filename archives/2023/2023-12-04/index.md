@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 20:35:53](https://news.ycombinator.com/item?id=38522671) - [No genuinely 'safe' alternatives to engineered stone bench tops, study finds](https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450)
 * [2023-12-04, 20:33:12](https://news.ycombinator.com/item?id=38522650) - [Judge: Amazon \"cannot claim shock\" that bathroom spycams were used as advertised](https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/)
+* [2023-12-04, 20:32:02](https://news.ycombinator.com/item?id=38522636) - [Llamafile – The easiest way to run LLMs locally on your Mac](https://ppaolo.substack.com/p/how-to-run-chatgpt-like-llms-locally)
 * [2023-12-04, 20:12:25](https://news.ycombinator.com/item?id=38522428) - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 * [2023-12-04, 19:59:17](https://news.ycombinator.com/item?id=38522325) - [A Windows Update bug is renaming everyone's printers to HP M101-M106](https://www.xda-developers.com/windows-update-bug-renaming-printers-m101-m106/)
 * [2023-12-04, 19:37:23](https://news.ycombinator.com/item?id=38522031) - [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
