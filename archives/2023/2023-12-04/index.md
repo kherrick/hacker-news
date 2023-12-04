@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
 * [2023-12-04, 17:00:10](https://news.ycombinator.com/item?id=38519758) - [Optery (YC W22) – Senior Product Manager – Data Privacy Rights Management (U.S.)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
+* [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
 * [2023-12-04, 16:26:55](https://news.ycombinator.com/item?id=38519257) - [A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
 * [2023-12-04, 16:09:58](https://news.ycombinator.com/item?id=38519012) - [Harvard gutted team examining Facebook Files following $500M Zuckerberg donation](https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/)
 * [2023-12-04, 15:31:34](https://news.ycombinator.com/item?id=38518473) - [Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)

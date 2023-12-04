@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-04, 17:00:10](https://news.ycombinator.com/item?id=38519758) - [Optery (YC W22) – Senior Product Manager – Data Privacy Rights Management (U.S.)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
+* [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
 * [2023-12-04, 16:26:55](https://news.ycombinator.com/item?id=38519257) - [A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
 * [2023-12-04, 16:09:58](https://news.ycombinator.com/item?id=38519012) - [Harvard gutted team examining Facebook Files following $500M Zuckerberg donation](https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/)
 * [2023-12-04, 15:31:34](https://news.ycombinator.com/item?id=38518473) - [Google takes the pain out of code reviews, with 97% dev satisfaction](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
@@ -26,10 +27,9 @@
 * [2023-12-04, 01:42:06](https://news.ycombinator.com/item?id=38512793) - [Potential of the Julia programming language for high energy physics computing](https://arxiv.org/abs/2306.03675)
 * [2023-12-03, 23:48:44](https://news.ycombinator.com/item?id=38512019) - [Largest floating solar power plant taking shape on hydropower plant](https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/)
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
-* [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
-* [2023-12-03, 14:49:51](https://news.ycombinator.com/item?id=38507446) - [Report Phone Spam – Shut down robocallers and text spammers](https://reportphonespam.org/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
+* [2023-12-02, 11:46:03](https://news.ycombinator.com/item?id=38497917) - [Butterfly gardening](https://en.wikipedia.org/wiki/Butterfly_gardening)
 
 ## [Archives](archives/index.md)
 
