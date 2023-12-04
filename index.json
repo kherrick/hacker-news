@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-04, 22:58:50",
-      "https://news.ycombinator.com/item?id=38524388"
+      "2023-12-04, 23:12:09",
+      "https://news.ycombinator.com/item?id=38524550"
     ],
     [
-      "40 Years of Turbo Pascal",
-      "https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/"
+      "Grand Theft Auto VI Trailer 1 [video]",
+      "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "An usable and maximally efficient C standard library",
       "https://github.com/gregoryc/standardlib"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 21:13:08",
-      "https://news.ycombinator.com/item?id=38523140"
-    ],
-    [
-      "Reel Inequality: Charting the Vanishing Middle Class of Movies",
-      "https://www.reelinequality.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Now I can just print that video",
       "https://blog.forret.com/2023/12/01/printthatvideo/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 06:08:29",
+      "https://news.ycombinator.com/item?id=38505211"
+    ],
+    [
+      "LLM Visualization",
+      "https://bbycroft.net/llm"
     ]
   ]
 ]
