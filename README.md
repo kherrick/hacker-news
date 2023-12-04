@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 07:32:55](https://news.ycombinator.com/item?id=38514595) - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 * [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-04, 05:13:18](https://news.ycombinator.com/item?id=38513953) - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
@@ -11,7 +12,6 @@
 * [2023-12-04, 02:28:15](https://news.ycombinator.com/item?id=38513073) - [Tyrian purple: Ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
 * [2023-12-04, 02:20:29](https://news.ycombinator.com/item?id=38513024) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 * [2023-12-04, 01:42:06](https://news.ycombinator.com/item?id=38512793) - [Potential of the Julia programming language for high energy physics computing](https://arxiv.org/abs/2306.03675)
-* [2023-12-04, 01:23:16](https://news.ycombinator.com/item?id=38512656) - [A case for moving away from the cloud and embracing local storage solutions](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
 * [2023-12-04, 00:20:22](https://news.ycombinator.com/item?id=38512248) - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 22:48:06](https://news.ycombinator.com/item?id=38511563) - [Stuxnet Source Code](https://github.com/research-virus/stuxnet)
