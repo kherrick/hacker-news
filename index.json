@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 11:47:08",
+      "https://news.ycombinator.com/item?id=38516123"
+    ],
+    [
+      "The 8-Bit Era: Eight Iconic Processor Designs – By Babbage",
+      "https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 11:02:20",
       "https://news.ycombinator.com/item?id=38515863"
     ],
@@ -17,6 +27,16 @@
     [
       "HTML attributes for improved accessibility and user experience",
       "https://www.htmhell.dev/adventcalendar/2023/4/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 08:51:42",
+      "https://news.ycombinator.com/item?id=38515082"
+    ],
+    [
+      "Inércia 2023",
+      "https://celso.io/posts/2023/12/03/inercia-2023/"
     ]
   ],
   [
@@ -101,22 +121,22 @@
   ],
   [
     [
+      "2023-12-04, 02:31:27",
+      "https://news.ycombinator.com/item?id=38513091"
+    ],
+    [
+      "Where do non-primitive recursive functions come up naturally?",
+      "https://blog.computationalcomplexity.org/2023/12/where-do-non-primitive-recursive.html"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 02:28:15",
       "https://news.ycombinator.com/item?id=38513073"
     ],
     [
       "Tyrian purple: Ancient pigment that was more valuable than gold",
       "https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 02:20:29",
-      "https://news.ycombinator.com/item?id=38513024"
-    ],
-    [
-      "A few words about Blameless culture",
-      "https://www.gybe.ca/a-few-words-about-blameless-culture/"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Learn how modern JavaScript frameworks work by building one",
       "https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 18:01:36",
-      "https://news.ycombinator.com/item?id=38509173"
-    ],
-    [
-      "Show HN: Audio plugin for circuit-bent MP3 compression sounds",
-      "https://wildergardenaudio.com/maim/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 17:24:18",
-      "https://news.ycombinator.com/item?id=38508779"
-    ],
-    [
-      "Steel – An embeddable and extensible Scheme dialect",
-      "https://github.com/mattwparas/steel"
     ]
   ],
   [
