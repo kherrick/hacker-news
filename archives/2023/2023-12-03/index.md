@@ -6,6 +6,7 @@
 
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
 * [2023-12-03, 22:16:45](https://news.ycombinator.com/item?id=38511280) - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
+* [2023-12-03, 21:54:38](https://news.ycombinator.com/item?id=38511140) - [US Visual Approaches: Lessons from the LH458 Incident](https://ops.group/blog/us-visual-approaches-lh458/)
 * [2023-12-03, 21:45:39](https://news.ycombinator.com/item?id=38511084) - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
 * [2023-12-03, 21:45:02](https://news.ycombinator.com/item?id=38511077) - [Make JSON Greppable](https://github.com/tomnomnom/gron)
 * [2023-12-03, 21:40:57](https://news.ycombinator.com/item?id=38511032) - [Sam Altman, Sugarcoating the Apocalypse](https://dnyuz.com/2023/12/02/sam-altman-sugarcoating-the-apocalypse/)
