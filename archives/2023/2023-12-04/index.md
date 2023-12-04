@@ -51,6 +51,7 @@
 * [2023-12-04, 07:49:13](https://news.ycombinator.com/item?id=38514700) - [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)
 * [2023-12-04, 07:32:55](https://news.ycombinator.com/item?id=38514595) - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 * [2023-12-04, 07:23:29](https://news.ycombinator.com/item?id=38514537) - [Spotify will reduce total headcount by 17% across the company](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
+* [2023-12-04, 06:56:48](https://news.ycombinator.com/item?id=38514388) - [The Hidden Secrets of the Fn Key](https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/)
 * [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-04, 05:19:25](https://news.ycombinator.com/item?id=38513975) - [Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full)
 * [2023-12-04, 05:13:18](https://news.ycombinator.com/item?id=38513953) - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
