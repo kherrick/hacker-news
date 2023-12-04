@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 07:23:29](https://news.ycombinator.com/item?id=38514537) - [Spotify will reduce total headcount by 17% across the company](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
 * [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-04, 04:35:36](https://news.ycombinator.com/item?id=38513782) - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
-* [2023-12-04, 04:05:32](https://news.ycombinator.com/item?id=38513622) - [Stripe Press has the full, unformatted text of Poor Charlie's Almanack online](https://www.stripe.press/poor-charlies-almanack/fullbook)
+* [2023-12-04, 04:08:22](https://news.ycombinator.com/item?id=38513643) - [Experts revive ancient techniques to make concrete more sustainable](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
 * [2023-12-04, 03:18:13](https://news.ycombinator.com/item?id=38513347) - [D Programming Language](https://dlang.org)
 * [2023-12-04, 02:28:15](https://news.ycombinator.com/item?id=38513073) - [Tyrian purple: Ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
 * [2023-12-04, 01:23:16](https://news.ycombinator.com/item?id=38512656) - [A case for moving away from the cloud and embracing local storage solutions](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
@@ -18,7 +19,6 @@
 * [2023-12-03, 18:08:23](https://news.ycombinator.com/item?id=38509255) - [GDlog: A GPU-accelerated deductive engine](https://arxiv.org/abs/2311.02206)
 * [2023-12-03, 18:01:36](https://news.ycombinator.com/item?id=38509173) - [Show HN: Audio plugin for circuit-bent MP3 compression sounds](https://wildergardenaudio.com/maim/)
 * [2023-12-03, 17:24:18](https://news.ycombinator.com/item?id=38508779) - [Steel – An embeddable and extensible Scheme dialect](https://github.com/mattwparas/steel)
-* [2023-12-03, 17:00:02](https://news.ycombinator.com/item?id=38508532) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-03, 16:49:36](https://news.ycombinator.com/item?id=38508418) - [All the hominins made tools](https://johnhawks.net/weblog/all-the-hominins-made-tools/)
 * [2023-12-03, 16:38:39](https://news.ycombinator.com/item?id=38508324) - [Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets](https://github.com/good-lly/lowstorage)
 * [2023-12-03, 16:31:31](https://news.ycombinator.com/item?id=38508250) - [Watsonx: IBM's code assistant for turning COBOL into Java](https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson)
