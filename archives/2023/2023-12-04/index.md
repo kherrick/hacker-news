@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 17:29:25](https://news.ycombinator.com/item?id=38520170) - [Eurostar Amsterdam to London trains cancelled for six months](https://www.independent.co.uk/travel/news-and-advice/eurostar-london-amsterdam-trains-cancelled-b2453340.html)
 * [2023-12-04, 17:07:40](https://news.ycombinator.com/item?id=38519877) - [Sellafield: 'bottomless pit of hell, money and despair'](https://www.theguardian.com/business/2023/dec/04/sellafield-money-europe-toxic-nuclear-site-cumbria-safety)
 * [2023-12-04, 17:00:10](https://news.ycombinator.com/item?id=38519758) - [Optery (YC W22) – Senior Product Manager – Data Privacy Rights Management (U.S.)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2023-12-04, 16:40:43](https://news.ycombinator.com/item?id=38519466) - [23andMe hackers accessed a whole lot of user's personal data](https://www.techradar.com/pro/security/23andme-hackers-accessed-a-whole-lot-of-users-personal-data)
