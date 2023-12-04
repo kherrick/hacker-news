@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-12-04, 02:59:37",
-      "https://news.ycombinator.com/item?id=38513249"
-    ],
-    [
-      "Why Americans' 'YOLO' spending spree baffles economists",
-      "https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 00:59:37",
       "https://news.ycombinator.com/item?id=38512506"
     ],
     [
-      "When product markets become collective traps: The case of social media",
+      "Large shares of consumers use social media out of a fear of missing out",
       "https://bfi.uchicago.edu/insight/research-summary/when-product-markets-become-collective-traps-the-case-of-social-media/"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "All the hominins made tools",
       "https://johnhawks.net/weblog/all-the-hominins-made-tools/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 16:38:39",
+      "https://news.ycombinator.com/item?id=38508324"
+    ],
+    [
+      "Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets",
+      "https://github.com/good-lly/lowstorage"
     ]
   ],
   [
