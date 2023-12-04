@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 08:58:58](https://news.ycombinator.com/item?id=38515123) - [Spotify to axe 1,500 workers to save costs](https://www.bbc.com/news/business-67611361)
+* [2023-12-04, 08:51:42](https://news.ycombinator.com/item?id=38515082) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 07:49:13](https://news.ycombinator.com/item?id=38514700) - [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)
 * [2023-12-04, 07:32:55](https://news.ycombinator.com/item?id=38514595) - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 * [2023-12-04, 07:23:29](https://news.ycombinator.com/item?id=38514537) - [Spotify will reduce total headcount by 17% across the company](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
@@ -23,6 +25,7 @@
 * [2023-12-04, 03:00:29](https://news.ycombinator.com/item?id=38513258) - [Tax cuts for the wealthy only benefit the rich: debunking trickle-down economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 * [2023-12-04, 02:59:37](https://news.ycombinator.com/item?id=38513249) - [Why Americans' 'YOLO' spending spree baffles economists](https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists)
 * [2023-12-04, 02:55:28](https://news.ycombinator.com/item?id=38513225) - [The Ease Factor Problem (2018)](https://web.archive.org/web/20200926103540/https://massimmersionapproach.com/table-of-contents/anki/low-key-anki/the-ease-factor-problem/)
+* [2023-12-04, 02:31:27](https://news.ycombinator.com/item?id=38513091) - [Where do non-primitive recursive functions come up naturally?](https://blog.computationalcomplexity.org/2023/12/where-do-non-primitive-recursive.html)
 * [2023-12-04, 02:28:15](https://news.ycombinator.com/item?id=38513073) - [Tyrian purple: The lost ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
 * [2023-12-04, 02:20:29](https://news.ycombinator.com/item?id=38513024) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 * [2023-12-04, 02:03:40](https://news.ycombinator.com/item?id=38512921) - [Should children clean their own schools? Japan thinks so](https://www.good.is/articles/japan-children-clean-schools)
