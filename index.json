@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-12-04, 10:13:57",
+      "https://news.ycombinator.com/item?id=38515563"
+    ],
+    [
+      "Leaving F-Droid",
+      "https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 08:51:42",
       "https://news.ycombinator.com/item?id=38515082"
     ],
@@ -67,6 +77,16 @@
     [
       "Relative shell script includes with realpath on FreeBSD",
       "https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 05:19:25",
+      "https://news.ycombinator.com/item?id=38513975"
+    ],
+    [
+      "Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard",
+      "https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2023-12-04, 01:23:16",
+      "https://news.ycombinator.com/item?id=38512656"
+    ],
+    [
+      "A case for moving away from the cloud and embracing local storage solutions",
+      "https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 23:04:20",
       "https://news.ycombinator.com/item?id=38511697"
     ],
@@ -197,26 +227,6 @@
     [
       "Ask HN: What side projects landed you a job?",
       "https://news.ycombinator.com/item?id=38511280"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 21:45:39",
-      "https://news.ycombinator.com/item?id=38511084"
-    ],
-    [
-      "MakeMake: Generate make files from C source code",
-      "https://github.com/quelsolaar/makemake"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 21:45:02",
-      "https://news.ycombinator.com/item?id=38511077"
-    ],
-    [
-      "Gron: Make JSON greppable",
-      "https://github.com/tomnomnom/gron"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "LLM Visualization",
       "https://bbycroft.net/llm"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 20:58:59",
-      "https://news.ycombinator.com/item?id=38501984"
-    ],
-    [
-      "The 50 Years That Made America",
-      "https://www.historytoday.com/archive/feature/50-years-made-america"
     ]
   ]
 ]
