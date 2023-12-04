@@ -2,7 +2,6 @@
 
 * [2023-12-04, 20:35:53](https://news.ycombinator.com/item?id=38522671) - [No genuinely 'safe' alternatives to engineered stone bench tops, study finds](https://www.abc.net.au/news/2023-12-05/study-finds-safety-concerns-in-engineered-stone-alternatives/103185450)
 * [2023-12-04, 20:33:12](https://news.ycombinator.com/item?id=38522650) - [Judge: Amazon \"cannot claim shock\" that bathroom spycams were used as advertised](https://arstechnica.com/tech-policy/2023/12/amazon-faces-trial-after-selling-bathroom-spycam-used-to-abuse-minor/)
-* [2023-12-04, 20:32:02](https://news.ycombinator.com/item?id=38522636) - [Llamafile – The easiest way to run LLMs locally on your Mac](https://ppaolo.substack.com/p/how-to-run-chatgpt-like-llms-locally)
 * [2023-12-04, 20:12:25](https://news.ycombinator.com/item?id=38522428) - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 * [2023-12-04, 19:59:17](https://news.ycombinator.com/item?id=38522325) - [A Windows Update bug is renaming everyone's printers to HP M101-M106](https://www.xda-developers.com/windows-update-bug-renaming-printers-m101-m106/)
 * [2023-12-04, 19:37:23](https://news.ycombinator.com/item?id=38522031) - [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
@@ -25,6 +24,7 @@
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 06:56:48](https://news.ycombinator.com/item?id=38514388) - [The Hidden Secrets of the Fn Key](https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/)
 * [2023-12-04, 05:19:25](https://news.ycombinator.com/item?id=38513975) - [Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full)
+* [2023-12-04, 04:27:48](https://news.ycombinator.com/item?id=38513752) - [Magnetic Cores – Part I (1961) [video]](https://www.youtube.com/watch?v=HPT7Wtp3yoo)
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 * [2023-12-03, 23:48:44](https://news.ycombinator.com/item?id=38512019) - [Floating solar power array on hydropower plant](https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
