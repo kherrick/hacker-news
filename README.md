@@ -19,6 +19,7 @@
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-bit era: Eight processor designs](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 08:51:42](https://news.ycombinator.com/item?id=38515082) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
+* [2023-12-04, 07:23:29](https://news.ycombinator.com/item?id=38514537) - [Spotify will reduce total headcount by approximately 17%](https://newsroom.spotify.com/2023-12-04/an-update-on-december-2023-organizational-changes/)
 * [2023-12-04, 06:56:48](https://news.ycombinator.com/item?id=38514388) - [The Hidden Secrets of the Fn Key](https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/)
 * [2023-12-04, 05:19:25](https://news.ycombinator.com/item?id=38513975) - [Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full)
 * [2023-12-04, 04:08:22](https://news.ycombinator.com/item?id=38513643) - [Experts revive ancient techniques to make concrete more sustainable](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
@@ -29,7 +30,6 @@
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 07:37:41](https://news.ycombinator.com/item?id=38505530) - [Intuitive guide to convolution](https://betterexplained.com/articles/intuitive-convolution/)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
-* [2023-12-02, 11:46:03](https://news.ycombinator.com/item?id=38497917) - [Butterfly gardening](https://en.wikipedia.org/wiki/Butterfly_gardening)
 
 ## [Archives](archives/index.md)
 
