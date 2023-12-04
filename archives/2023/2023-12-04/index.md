@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 08:58:58](https://news.ycombinator.com/item?id=38515123) - [Spotify to axe 1,500 workers to save costs](https://www.bbc.com/news/business-67611361)
 * [2023-12-04, 07:49:13](https://news.ycombinator.com/item?id=38514700) - [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)

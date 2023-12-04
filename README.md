@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 07:32:55](https://news.ycombinator.com/item?id=38514595) - [Kramdown-man: A Kramdown convert for converting Markdown files into man pages](https://github.com/postmodern/kramdown-man)
 * [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
@@ -13,7 +14,6 @@
 * [2023-12-04, 02:20:29](https://news.ycombinator.com/item?id=38513024) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 * [2023-12-04, 01:42:06](https://news.ycombinator.com/item?id=38512793) - [Potential of the Julia programming language for high energy physics computing](https://arxiv.org/abs/2306.03675)
 * [2023-12-04, 01:23:16](https://news.ycombinator.com/item?id=38512656) - [A case for moving away from the cloud and embracing local storage solutions](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
-* [2023-12-04, 00:20:22](https://news.ycombinator.com/item?id=38512248) - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 22:48:06](https://news.ycombinator.com/item?id=38511563) - [Stuxnet Source Code](https://github.com/research-virus/stuxnet)
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
