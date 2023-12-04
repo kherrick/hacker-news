@@ -10,6 +10,7 @@
 * [2023-12-04, 04:21:33](https://news.ycombinator.com/item?id=38513721) - [Outsmart Your Brain: Why Learning Is Hard and How You Can Make It Easy](https://www.kirkusreviews.com/book-reviews/daniel-t-willingham/outsmart-your-brain-learning/)
 * [2023-12-04, 04:08:22](https://news.ycombinator.com/item?id=38513643) - [Experts revive ancient techniques to make concrete more sustainable](https://techxplore.com/news/2023-11-experts-revive-ancient-techniques-concrete.html)
 * [2023-12-04, 04:05:32](https://news.ycombinator.com/item?id=38513622) - [Stripe Press has the full, unformatted text of Poor Charlie's Almanack online](https://www.stripe.press/poor-charlies-almanack/fullbook)
+* [2023-12-04, 04:04:16](https://news.ycombinator.com/item?id=38513617) - [Paper vs. Devices: Brain Activation Differences During Memory Retrieval](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full)
 * [2023-12-04, 03:53:55](https://news.ycombinator.com/item?id=38513552) - [Typehero: All you need to become a TypeScript menace](https://typehero.dev/)
 * [2023-12-04, 03:24:51](https://news.ycombinator.com/item?id=38513395) - [Gemini Postponed, \"in some respects\" as good as GPT-4](https://old.reddit.com/r/mlscaling/comments/189jwne/gemini_postponed_in_some_respects_as_good_as_gpt4/)
 * [2023-12-04, 03:18:13](https://news.ycombinator.com/item?id=38513347) - [D Programming Language](https://dlang.org)
