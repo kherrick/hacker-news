@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 03:24:51",
+      "https://news.ycombinator.com/item?id=38513395"
+    ],
+    [
+      "Gemini Postponed, \"in some respects\" as good as GPT-4",
+      "https://old.reddit.com/r/mlscaling/comments/189jwne/gemini_postponed_in_some_respects_as_good_as_gpt4/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 02:59:37",
       "https://news.ycombinator.com/item?id=38513249"
     ],
@@ -167,16 +177,6 @@
     [
       "All the hominins made tools",
       "https://johnhawks.net/weblog/all-the-hominins-made-tools/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 16:38:39",
-      "https://news.ycombinator.com/item?id=38508324"
-    ],
-    [
-      "Lowstorage: JSON-based database for Cloudflare Workers and R2 buckets",
-      "https://github.com/good-lly/lowstorage"
     ]
   ],
   [
