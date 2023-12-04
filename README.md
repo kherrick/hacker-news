@@ -9,9 +9,10 @@
 * [2023-12-04, 04:04:16](https://news.ycombinator.com/item?id=38513617) - [Paper vs. Devices: Brain Activation Differences During Memory Retrieval](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.634158/full)
 * [2023-12-04, 03:18:13](https://news.ycombinator.com/item?id=38513347) - [D Programming Language](https://dlang.org)
 * [2023-12-04, 02:28:15](https://news.ycombinator.com/item?id=38513073) - [Tyrian purple: Ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
+* [2023-12-04, 02:20:29](https://news.ycombinator.com/item?id=38513024) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 * [2023-12-04, 01:23:16](https://news.ycombinator.com/item?id=38512656) - [A case for moving away from the cloud and embracing local storage solutions](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
-* [2023-12-04, 00:20:22](https://news.ycombinator.com/item?id=38512248) - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
+* [2023-12-03, 22:48:06](https://news.ycombinator.com/item?id=38511563) - [Stuxnet Source Code](https://github.com/research-virus/stuxnet)
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)
 * [2023-12-03, 22:16:45](https://news.ycombinator.com/item?id=38511280) - [Ask HN: What side projects landed you a job?](https://news.ycombinator.com/item?id=38511280)
 * [2023-12-03, 21:45:39](https://news.ycombinator.com/item?id=38511084) - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
@@ -29,7 +30,6 @@
 * [2023-12-03, 09:13:14](https://news.ycombinator.com/item?id=38505856) - [George Wald: The Origin of Death (1970)](https://www.elijahwald.com/origin.html)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 * [2023-12-02, 20:58:59](https://news.ycombinator.com/item?id=38501984) - [The 50 Years That Made America](https://www.historytoday.com/archive/feature/50-years-made-america)
-* [2023-12-02, 16:25:18](https://news.ycombinator.com/item?id=38499684) - [How are startups shaped by macro conditions at birth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934)
 
 ## [Archives](archives/index.md)
 
