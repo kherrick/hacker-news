@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-04, 04:35:36](https://news.ycombinator.com/item?id=38513782) - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
 * [2023-12-04, 04:21:33](https://news.ycombinator.com/item?id=38513721) - [Outsmart Your Brain: Why Learning Is Hard and How You Can Make It Easy](https://www.kirkusreviews.com/book-reviews/daniel-t-willingham/outsmart-your-brain-learning/)
 * [2023-12-04, 03:53:55](https://news.ycombinator.com/item?id=38513552) - [Typehero: All you need to become a TypeScript menace](https://typehero.dev/)

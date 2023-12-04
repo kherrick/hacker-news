@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-04, 04:35:36](https://news.ycombinator.com/item?id=38513782) - [Lack of sunlight during the day is worse than electric lighting at night](https://english.elpais.com/health/2023-12-01/chronobiologist-and-nobel-laureate-in-medicine-michael-rosbash-lack-of-sunlight-during-the-day-is-worse-than-electric-lighting-at-night.html)
 * [2023-12-04, 02:28:15](https://news.ycombinator.com/item?id=38513073) - [Tyrian purple: Ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
 * [2023-12-04, 01:23:16](https://news.ycombinator.com/item?id=38512656) - [A case for moving away from the cloud and embracing local storage solutions](https://blog.golivecosmos.com/embrace-independence-the-case-for-moving-away-from-the-cloud/)
@@ -9,7 +10,6 @@
 * [2023-12-03, 21:45:39](https://news.ycombinator.com/item?id=38511084) - [MakeMake: Generate make files from C source code](https://github.com/quelsolaar/makemake)
 * [2023-12-03, 21:45:02](https://news.ycombinator.com/item?id=38511077) - [Gron: Make JSON greppable](https://github.com/tomnomnom/gron)
 * [2023-12-03, 20:00:49](https://news.ycombinator.com/item?id=38510209) - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
-* [2023-12-03, 19:05:31](https://news.ycombinator.com/item?id=38509759) - [The Startling Candor of Helen Garner](https://www.newyorker.com/culture/persons-of-interest/the-startling-candor-of-helen-garner)
 * [2023-12-03, 18:55:47](https://news.ycombinator.com/item?id=38509678) - [Chasquid – SMTP server focused on simplicity](https://blitiri.com.ar/p/chasquid/)
 * [2023-12-03, 18:30:09](https://news.ycombinator.com/item?id=38509454) - [DIY Home EV Charger](https://jamesfotherby.com/index-page/electric-vehicle-charger/)
 * [2023-12-03, 18:08:23](https://news.ycombinator.com/item?id=38509255) - [GDlog: A GPU-accelerated deductive engine](https://arxiv.org/abs/2311.02206)
