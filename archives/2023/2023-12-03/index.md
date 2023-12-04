@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
 * [2023-12-03, 23:48:44](https://news.ycombinator.com/item?id=38512019) - [Largest floating solar power plant taking shape on hydropower plant](https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/)
+* [2023-12-03, 23:44:47](https://news.ycombinator.com/item?id=38511991) - [Laser cutting of an electrical steel sheet using a fuzzy logic controller](https://www.mdpi.com/2227-7390/11/23/4769)
 * [2023-12-03, 23:04:20](https://news.ycombinator.com/item?id=38511697) - [History of the PDF [pdf]](https://www.sensible.so/history-of-the-pdf-pdf)
 * [2023-12-03, 22:48:06](https://news.ycombinator.com/item?id=38511563) - [Stuxnet Source Code](https://github.com/research-virus/stuxnet)
 * [2023-12-03, 22:23:22](https://news.ycombinator.com/item?id=38511346) - [The Fediverse is an opportunity learned societies can't ignore](https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/30/the-fediverse-is-an-opportunity-learned-societies-cant-ignore/)

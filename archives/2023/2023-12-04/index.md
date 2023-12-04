@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 22:58:50](https://news.ycombinator.com/item?id=38524388) - [40 Years of Turbo Pascal](https://www.theregister.com/2023/12/04/40_years_of_turbo_pascal/)
 * [2023-12-04, 22:04:50](https://news.ycombinator.com/item?id=38523805) - [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
+* [2023-12-04, 21:58:35](https://news.ycombinator.com/item?id=38523736) - [\"Swiss AI\" Initiative for Transparent, Open-Source AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber who intentionally crashed plane is sentenced to 6 months in prison](https://twitter.com/bnonews/status/1731748816250974335)
 * [2023-12-04, 21:47:40](https://news.ycombinator.com/item?id=38523601) - [An usable and maximally efficient C standard library](https://github.com/gregoryc/standardlib)
 * [2023-12-04, 21:13:08](https://news.ycombinator.com/item?id=38523140) - [Reel Inequality: Charting the Vanishing Middle Class of Movies](https://www.reelinequality.com/)
