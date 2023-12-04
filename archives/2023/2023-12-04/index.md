@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 03:24:51](https://news.ycombinator.com/item?id=38513395) - [Gemini Postponed, \"in some respects\" as good as GPT-4](https://old.reddit.com/r/mlscaling/comments/189jwne/gemini_postponed_in_some_respects_as_good_as_gpt4/)
 * [2023-12-04, 03:00:29](https://news.ycombinator.com/item?id=38513258) - [Tax cuts for the wealthy only benefit the rich: debunking trickle-down economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 * [2023-12-04, 02:59:37](https://news.ycombinator.com/item?id=38513249) - [Why Americans' 'YOLO' spending spree baffles economists](https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists)
 * [2023-12-04, 02:28:15](https://news.ycombinator.com/item?id=38513073) - [Tyrian purple: The lost ancient pigment that was more valuable than gold](https://www.bbc.com/future/article/20231122-tyrian-purple-the-lost-ancient-pigment-that-was-more-valuable-than-gold)
