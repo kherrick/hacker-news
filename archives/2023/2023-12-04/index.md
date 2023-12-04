@@ -6,6 +6,7 @@
 
 * [2023-12-04, 18:25:51](https://news.ycombinator.com/item?id=38520974) - [Investors snagged 1 in 5 homes for sale in Boston area, worsening housing crisis](https://www.bostonglobe.com/2023/12/03/business/investor-boston-housing-real-estate/)
 * [2023-12-04, 18:24:42](https://news.ycombinator.com/item?id=38520948) - [ML system design: 300 use cases from 80 companies](https://www.evidentlyai.com/ml-system-design)
+* [2023-12-04, 18:21:47](https://news.ycombinator.com/item?id=38520901) - [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
 * [2023-12-04, 17:56:41](https://news.ycombinator.com/item?id=38520547) - [Booking.com users angry at firm's response to hacks](https://www.bbc.com/news/technology-67591310)
 * [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
 * [2023-12-04, 17:43:04](https://news.ycombinator.com/item?id=38520344) - [Are Passkeys the beginning of the end of passwords? I certainly hope not](https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html)
