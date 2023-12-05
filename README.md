@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 09:07:09](https://news.ycombinator.com/item?id=38528514) - [Thieves return Android phone when they realize it's not an iPhone](https://9to5mac.com/2023/12/04/stolen-android-phone-returned-iphone/)
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 * [2023-12-05, 08:38:05](https://news.ycombinator.com/item?id=38528346) - [Tesla battle with Swedish unions spreads to Denmark](https://www.ft.com/content/4143c3ca-e2fd-48bb-b9b7-715454f1d28f)
 * [2023-12-05, 07:36:00](https://news.ycombinator.com/item?id=38528051) - [San Francisco now at 35% office vacancy rate, highest ever recorded: data](https://abc7news.com/downtown-san-francisco-office-vacancy-stores-closing-crime/14125753/)
@@ -11,7 +12,6 @@
 * [2023-12-05, 05:12:43](https://news.ycombinator.com/item?id=38527358) - [Designing a Symbol Layer (2021)](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
 * [2023-12-05, 04:00:28](https://news.ycombinator.com/item?id=38526948) - [Rage: Fast web framework compatible with Rails](https://github.com/rage-rb/rage)
 * [2023-12-05, 03:47:22](https://news.ycombinator.com/item?id=38526877) - [New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
-* [2023-12-05, 03:26:15](https://news.ycombinator.com/item?id=38526745) - [When Google Fiber abandons your city as a failed experiment (2019)](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
 * [2023-12-05, 02:34:55](https://news.ycombinator.com/item?id=38526349) - [Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 * [2023-12-05, 02:01:35](https://news.ycombinator.com/item?id=38526078) - [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
 * [2023-12-05, 01:49:15](https://news.ycombinator.com/item?id=38525978) - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
