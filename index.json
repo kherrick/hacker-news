@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-12-05, 15:04:11",
+      "https://news.ycombinator.com/item?id=38531720"
+    ],
+    [
+      "How Beeper Mini Works",
+      "https://blog.beeper.com/p/how-beeper-mini-works"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 14:57:38",
+      "https://news.ycombinator.com/item?id=38531621"
+    ],
+    [
+      "BMW EV achieves 1000km in range using Dual-Chemistry batteries",
+      "https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 14:56:25",
+      "https://news.ycombinator.com/item?id=38531604"
+    ],
+    [
+      "Show HN: How did YOUR computer reach my server?",
+      "https://how-did-i-get-here.net/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 14:35:12",
+      "https://news.ycombinator.com/item?id=38531235"
+    ],
+    [
+      "Mtn Dew using AI to find logos on twitch streams and reward streamers [pdf]",
+      "https://www.mountaindew.com/wp-content/uploads/2023/11/MTN-DEW-RAID-QA.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 14:32:12",
+      "https://news.ycombinator.com/item?id=38531181"
+    ],
+    [
+      "Termshark – A terminal UI for tshark, inspired by Wireshark",
+      "https://termshark.io/"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 14:31:25",
       "https://news.ycombinator.com/item?id=38531174"
     ],
@@ -17,6 +67,16 @@
     [
       "Firefox on the Brink?",
       "https://www.brycewray.com/posts/2023/11/firefox-brink/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 14:14:21",
+      "https://news.ycombinator.com/item?id=38530948"
+    ],
+    [
+      "Predict the next frame. Results of training a transformer on \"visual sentences\"",
+      "https://yutongbai.com/lvm.html"
     ]
   ],
   [
@@ -151,26 +211,6 @@
   ],
   [
     [
-      "2023-12-05, 06:57:44",
-      "https://news.ycombinator.com/item?id=38527866"
-    ],
-    [
-      "Mounting Git commits as folders with NFS",
-      "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 05:26:36",
-      "https://news.ycombinator.com/item?id=38527437"
-    ],
-    [
-      "Rest in Peace, Optane",
-      "https://specbranch.com/posts/rip-optane/"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 04:00:28",
       "https://news.ycombinator.com/item?id=38526948"
     ],
@@ -197,26 +237,6 @@
     [
       "I hacked Magic the Gathering: Arena for a 100% win rate",
       "https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 01:47:42",
-      "https://news.ycombinator.com/item?id=38525968"
-    ],
-    [
-      "Maelstrom: A workbench for learning distributed systems",
-      "https://github.com/jepsen-io/maelstrom"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 00:57:56",
-      "https://news.ycombinator.com/item?id=38525655"
-    ],
-    [
-      "Eclipse: The Demo that Sold 3D to Nintendo",
-      "https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-12-04, 09:36:30",
-      "https://news.ycombinator.com/item?id=38515351"
-    ],
-    [
-      "Starring the Computer",
-      "http://starringthecomputer.com/"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 09:13:17",
       "https://news.ycombinator.com/item?id=38515211"
     ],
     [
       "Human mobility networks reveal increased segregation in large cities",
       "https://www.nature.com/articles/s41586-023-06757-3"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 07:39:53",
-      "https://news.ycombinator.com/item?id=38514632"
-    ],
-    [
-      "A Decade of Have I Been Pwned",
-      "https://www.troyhunt.com/a-decade-of-have-i-been-pwned/"
     ]
   ],
   [
