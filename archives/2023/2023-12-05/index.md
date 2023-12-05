@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 15:04:11](https://news.ycombinator.com/item?id=38531720) - [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
+* [2023-12-05, 14:57:38](https://news.ycombinator.com/item?id=38531621) - [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
+* [2023-12-05, 14:56:25](https://news.ycombinator.com/item?id=38531604) - [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
+* [2023-12-05, 14:35:12](https://news.ycombinator.com/item?id=38531235) - [Mtn Dew using AI to find logos on twitch streams and reward streamers [pdf]](https://www.mountaindew.com/wp-content/uploads/2023/11/MTN-DEW-RAID-QA.pdf)
 * [2023-12-05, 14:34:40](https://news.ycombinator.com/item?id=38531219) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
+* [2023-12-05, 14:32:12](https://news.ycombinator.com/item?id=38531181) - [Termshark – A terminal UI for tshark, inspired by Wireshark](https://termshark.io/)
 * [2023-12-05, 14:31:25](https://news.ycombinator.com/item?id=38531174) - [The Curious Case of the Aggregation Query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
 * [2023-12-05, 14:24:52](https://news.ycombinator.com/item?id=38531104) - [Firefox on the Brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
+* [2023-12-05, 14:14:21](https://news.ycombinator.com/item?id=38530948) - [Predict the next frame. Results of training a transformer on \"visual sentences\"](https://yutongbai.com/lvm.html)
 * [2023-12-05, 14:13:48](https://news.ycombinator.com/item?id=38530940) - ['Impossible' orange auroras spotted in UK after solar storm slams into Earth](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth)
 * [2023-12-05, 14:10:12](https://news.ycombinator.com/item?id=38530885) - [Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
 * [2023-12-05, 14:09:44](https://news.ycombinator.com/item?id=38530880) - [AI will enable mass spying](https://www.schneier.com/blog/archives/2023/12/the-internet-enabled-mass-surveillance-ai-will-enable-mass-spying.html)
