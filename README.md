@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 15:06:26](https://news.ycombinator.com/item?id=38531761) - [Innovative wireless light switch could cut house wiring costs in half](https://www.ualberta.ca/folio/2023/11/innovative-light-switch-could-cut-house-wiring-costs-in-half.html)
 * [2023-12-05, 15:04:11](https://news.ycombinator.com/item?id=38531720) - [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
 * [2023-12-05, 14:57:38](https://news.ycombinator.com/item?id=38531621) - [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
 * [2023-12-05, 14:56:25](https://news.ycombinator.com/item?id=38531604) - [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
@@ -29,7 +30,6 @@
 * [2023-12-04, 11:35:13](https://news.ycombinator.com/item?id=38516038) - [NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Maths and science animations (2018)](https://blog.matthen.com)
 * [2023-12-04, 09:13:17](https://news.ycombinator.com/item?id=38515211) - [Human mobility networks reveal increased segregation in large cities](https://www.nature.com/articles/s41586-023-06757-3)
-* [2023-12-04, 05:36:53](https://news.ycombinator.com/item?id=38514047) - [As Nepali villages modernize, mokha art is on the verge of disappearing](https://globalvoices.org/2023/12/01/as-nepali-villages-modernize-mokha-art-is-on-the-verge-of-disappearing/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 15:06:26](https://news.ycombinator.com/item?id=38531761) - [Innovative wireless light switch could cut house wiring costs in half](https://www.ualberta.ca/folio/2023/11/innovative-light-switch-could-cut-house-wiring-costs-in-half.html)
 * [2023-12-05, 15:04:11](https://news.ycombinator.com/item?id=38531720) - [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
 * [2023-12-05, 14:57:38](https://news.ycombinator.com/item?id=38531621) - [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
 * [2023-12-05, 14:56:25](https://news.ycombinator.com/item?id=38531604) - [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
