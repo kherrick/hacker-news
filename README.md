@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 22:33:00](https://news.ycombinator.com/item?id=38537851) - [OpenWRT Docs \"have reason to suspect a security compromise\"](https://openwrt.org/index.html)
 * [2023-12-05, 20:55:34](https://news.ycombinator.com/item?id=38536778) - [Lena (2021)](https://qntm.org/mmacevedo)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 * [2023-12-05, 20:25:14](https://news.ycombinator.com/item?id=38536464) - [Google Season of Docs announces results of 2023 program](https://opensource.googleblog.com/2023/12/google-season-of-docs-announces-results-2023.html)
@@ -18,7 +19,6 @@
 * [2023-12-05, 14:31:25](https://news.ycombinator.com/item?id=38531174) - [The curious case of the aggregation query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
 * [2023-12-05, 14:14:21](https://news.ycombinator.com/item?id=38530948) - [Sequential modeling enables scalable learning for  large vision models](https://yutongbai.com/lvm.html)
 * [2023-12-05, 14:10:12](https://news.ycombinator.com/item?id=38530885) - [Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
-* [2023-12-05, 14:09:44](https://news.ycombinator.com/item?id=38530880) - [AI and Mass Spying](https://www.schneier.com/blog/archives/2023/12/the-internet-enabled-mass-surveillance-ai-will-enable-mass-spying.html)
 * [2023-12-05, 13:43:24](https://news.ycombinator.com/item?id=38530565) - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
 * [2023-12-05, 13:33:30](https://news.ycombinator.com/item?id=38530466) - [Toxic comments are associated with reduced volunteer activity on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 * [2023-12-05, 13:29:47](https://news.ycombinator.com/item?id=38530428) - [Lessons from 5 years of running a tech meetup](https://davekiss.com/blog/12-lessons-from-5-years-of-running-a-tech-meetup)

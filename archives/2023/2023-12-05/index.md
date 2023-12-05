@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 22:33:00](https://news.ycombinator.com/item?id=38537851) - [OpenWRT Docs \"have reason to suspect a security compromise\"](https://openwrt.org/index.html)
 * [2023-12-05, 20:55:34](https://news.ycombinator.com/item?id=38536778) - [Lena (MMAcevedo, the earliest executable image of a human brain)](https://qntm.org/mmacevedo)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 * [2023-12-05, 20:25:14](https://news.ycombinator.com/item?id=38536464) - [Google Season of Docs announces results of 2023 program](https://opensource.googleblog.com/2023/12/google-season-of-docs-announces-results-2023.html)
