@@ -2,6 +2,7 @@
 
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 * [2023-12-05, 07:36:00](https://news.ycombinator.com/item?id=38528051) - [San Francisco now at 35% office vacancy rate, highest ever recorded: data](https://abc7news.com/downtown-san-francisco-office-vacancy-stores-closing-crime/14125753/)
+* [2023-12-05, 07:19:10](https://news.ycombinator.com/item?id=38527965) - [23andMe confirms hackers stole ancestry data on 6.9M users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
 * [2023-12-05, 07:00:21](https://news.ycombinator.com/item?id=38527876) - [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
 * [2023-12-05, 07:00:13](https://news.ycombinator.com/item?id=38527875) - [Bits (YC S20) is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
 * [2023-12-05, 06:57:44](https://news.ycombinator.com/item?id=38527866) - [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
@@ -20,7 +21,6 @@
 * [2023-12-04, 22:17:12](https://news.ycombinator.com/item?id=38523961) - [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
 * [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
-* [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
 * [2023-12-04, 13:26:23](https://news.ycombinator.com/item?id=38516913) - [Vialibri: Physical Book Meta Search Engine](https://www.vialibri.net/)
 * [2023-12-04, 11:35:13](https://news.ycombinator.com/item?id=38516038) - [NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Maths and science animations](https://blog.matthen.com)
