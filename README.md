@@ -21,6 +21,7 @@
 * [2023-12-05, 13:43:24](https://news.ycombinator.com/item?id=38530565) - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
 * [2023-12-05, 13:33:30](https://news.ycombinator.com/item?id=38530466) - [Toxic comments are associated with reduced volunteer activity on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 * [2023-12-05, 13:29:47](https://news.ycombinator.com/item?id=38530428) - [Lessons from 5 years of running a tech meetup](https://davekiss.com/blog/12-lessons-from-5-years-of-running-a-tech-meetup)
+* [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [According to Plutarch, Julius Caesar was once captured by pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
 * [2023-12-05, 11:17:47](https://news.ycombinator.com/item?id=38529492) - [File Life](https://filelife.tours/)
 * [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
 * [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
@@ -28,7 +29,6 @@
 * [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the historical rate of catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
 * [2023-12-05, 06:26:24](https://news.ycombinator.com/item?id=38527719) - [Russell's Paradox of ghostwriters](https://statmodeling.stat.columbia.edu/2023/12/01/russells-paradox-of-ghostwriters/)
 * [2023-12-05, 03:03:44](https://news.ycombinator.com/item?id=38526584) - [A mineral produced by plate tectonics has a global cooling effect, study finds](https://phys.org/news/2023-11-mineral-plate-tectonics-global-cooling.html)
-* [2023-12-05, 02:34:55](https://news.ycombinator.com/item?id=38526349) - [Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 * [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)
 
 ## [Archives](archives/index.md)
