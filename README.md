@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 02:27:48](https://news.ycombinator.com/item?id=38526277) - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
 * [2023-12-05, 01:49:15](https://news.ycombinator.com/item?id=38525978) - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-12-05, 00:57:56](https://news.ycombinator.com/item?id=38525655) - [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
 * [2023-12-05, 00:49:35](https://news.ycombinator.com/item?id=38525583) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
@@ -29,7 +30,6 @@
 * [2023-12-03, 23:44:47](https://news.ycombinator.com/item?id=38511991) - [Laser cutting of an electrical steel sheet using a fuzzy logic controller](https://www.mdpi.com/2227-7390/11/23/4769)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 06:34:22](https://news.ycombinator.com/item?id=38505316) - [Films that made people emigrate](https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate)
-* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 

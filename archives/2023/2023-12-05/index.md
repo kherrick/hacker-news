@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 02:27:48](https://news.ycombinator.com/item?id=38526277) - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
 * [2023-12-05, 01:49:15](https://news.ycombinator.com/item?id=38525978) - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-12-05, 01:26:43](https://news.ycombinator.com/item?id=38525825) - [Ask HN: Where do you live? What's good or bad about it?](https://news.ycombinator.com/item?id=38525825)
 * [2023-12-05, 00:57:56](https://news.ycombinator.com/item?id=38525655) - [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
