@@ -26,9 +26,9 @@
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com)
+* [2023-12-04, 05:53:15](https://news.ycombinator.com/item?id=38514121) - [Why Unix kernels have grown caches for directory entries ('name caches')](https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy)
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
-* [2023-12-03, 23:44:47](https://news.ycombinator.com/item?id=38511991) - [Laser cutting of an electrical steel sheet using a fuzzy logic controller](https://www.mdpi.com/2227-7390/11/23/4769)
 * [2023-12-03, 06:34:22](https://news.ycombinator.com/item?id=38505316) - [Films that made people emigrate](https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate)
 
 ## [Archives](archives/index.md)
