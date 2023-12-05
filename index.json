@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-12-04, 14:20:37",
-      "https://news.ycombinator.com/item?id=38517550"
-    ],
-    [
-      "Ousted propaganda scholar accuses Harvard of bowing to Meta",
-      "https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint/"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 13:26:23",
       "https://news.ycombinator.com/item?id=38516913"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38515387"
     ],
     [
-      "Old blog of Matt Henderson, beautiful math animations",
+      "Maths and science animations",
       "https://blog.matthen.com"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Pragmatic Versioning – An Alternative to Semver",
       "https://github.com/seveibar/pragmaticversioning"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 06:08:29",
+      "https://news.ycombinator.com/item?id=38505211"
+    ],
+    [
+      "LLM Visualization",
+      "https://bbycroft.net/llm"
     ]
   ]
 ]
