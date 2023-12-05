@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 16:12:21](https://news.ycombinator.com/item?id=38532746) - [The challenges of supporting foreign key constraints](https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints)
+* [2023-12-05, 16:04:42](https://news.ycombinator.com/item?id=38532632) - [Working more than 55 hours a week kills 750k people a year worldwide](https://english.elpais.com/health/2023-11-28/working-more-than-55-hours-a-week-kills-750000-people-a-year-worldwide.html)
 * [2023-12-05, 16:01:38](https://news.ycombinator.com/item?id=38532593) - [Launch HN: Openlayer (YC S21) – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
 * [2023-12-05, 15:06:26](https://news.ycombinator.com/item?id=38531761) - [Innovative wireless light switch could cut house wiring costs in half](https://www.ualberta.ca/folio/2023/11/innovative-light-switch-could-cut-house-wiring-costs-in-half.html)
 * [2023-12-05, 15:04:11](https://news.ycombinator.com/item?id=38531720) - [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
