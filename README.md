@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-05, 20:55:34](https://news.ycombinator.com/item?id=38536778) - [Lena (MMAcevedo, the earliest executable image of a human brain)](https://qntm.org/mmacevedo)
+* [2023-12-05, 20:55:34](https://news.ycombinator.com/item?id=38536778) - [Lena (2021)](https://qntm.org/mmacevedo)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 * [2023-12-05, 19:53:37](https://news.ycombinator.com/item?id=38536090) - [Mycroft](https://mycroftproject.com/)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
@@ -18,7 +18,7 @@
 * [2023-12-05, 14:32:12](https://news.ycombinator.com/item?id=38531181) - [Termshark – A terminal UI for tshark, inspired by Wireshark](https://termshark.io/)
 * [2023-12-05, 14:31:25](https://news.ycombinator.com/item?id=38531174) - [The curious case of the aggregation query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
 * [2023-12-05, 14:24:52](https://news.ycombinator.com/item?id=38531104) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
-* [2023-12-05, 14:14:21](https://news.ycombinator.com/item?id=38530948) - [Predict the next frame. Results of training a transformer on \"visual sentences\"](https://yutongbai.com/lvm.html)
+* [2023-12-05, 14:14:21](https://news.ycombinator.com/item?id=38530948) - [Sequential modeling enables scalable learning for  large vision models](https://yutongbai.com/lvm.html)
 * [2023-12-05, 14:10:12](https://news.ycombinator.com/item?id=38530885) - [Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
 * [2023-12-05, 14:09:44](https://news.ycombinator.com/item?id=38530880) - [AI and Mass Spying](https://www.schneier.com/blog/archives/2023/12/the-internet-enabled-mass-surveillance-ai-will-enable-mass-spying.html)
 * [2023-12-05, 13:43:24](https://news.ycombinator.com/item?id=38530565) - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
