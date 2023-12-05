@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-05, 02:27:48",
+      "https://news.ycombinator.com/item?id=38526277"
+    ],
+    [
+      "Chrome.userScripts API requires developer mode",
+      "https://developer.chrome.com/docs/extensions/reference/api/userScripts"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 01:49:15",
       "https://news.ycombinator.com/item?id=38525978"
     ],
@@ -287,16 +297,6 @@
     [
       "Films that made people emigrate",
       "https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 06:08:29",
-      "https://news.ycombinator.com/item?id=38505211"
-    ],
-    [
-      "LLM Visualization",
-      "https://bbycroft.net/llm"
     ]
   ]
 ]
