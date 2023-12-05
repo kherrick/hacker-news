@@ -67,6 +67,7 @@
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
 * [2023-12-04, 12:56:12](https://news.ycombinator.com/item?id=38516661) - [Poland's Most Famous Dish: Pierogi](https://culture.pl/en/article/polands-most-famous-dish-pierogi)
 * [2023-12-04, 12:49:56](https://news.ycombinator.com/item?id=38516614) - [TÜV vehicle report 2024 – Tesla Model 3, most issues (German)](https://www.adac.de/news/tuev-report-2024/)
+* [2023-12-04, 12:32:12](https://news.ycombinator.com/item?id=38516475) - [The Languages of Media – Advertising Techniques](https://books.lib.uoguelph.ca/languagesofmedia/chapter/chapter-7-public-interventions/)
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Rob Pike: Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 11:35:13](https://news.ycombinator.com/item?id=38516038) - [NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
