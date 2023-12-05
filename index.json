@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-05, 22:33:00",
-      "https://news.ycombinator.com/item?id=38537851"
+      "2023-12-05, 23:11:04",
+      "https://news.ycombinator.com/item?id=38538236"
     ],
     [
-      "OpenWRT Docs \"have reason to suspect a security compromise\"",
-      "https://openwrt.org/index.html"
+      "Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?",
+      "https://drhyperion451.github.io/does-uBO-bypass-yt/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 22:14:05",
+      "https://news.ycombinator.com/item?id=38537682"
+    ],
+    [
+      "StyleX – Meta's styling library",
+      "https://stylexjs.com/"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Magicoder: Source Code Is All You Need",
       "https://arxiv.org/abs/2312.02120"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 20:25:14",
-      "https://news.ycombinator.com/item?id=38536464"
-    ],
-    [
-      "Google Season of Docs announces results of 2023 program",
-      "https://opensource.googleblog.com/2023/12/google-season-of-docs-announces-results-2023.html"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-12-05, 14:31:25",
-      "https://news.ycombinator.com/item?id=38531174"
-    ],
-    [
-      "The curious case of the aggregation query",
-      "https://modern-sql.com/blog/2023-12/curious-case-aggregation-query"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 14:14:21",
       "https://news.ycombinator.com/item?id=38530948"
     ],
@@ -237,6 +227,16 @@
     [
       "Formalizing the proof of PFR in Lean4 using Blueprint: a short tour",
       "https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 09:02:33",
+      "https://news.ycombinator.com/item?id=38528484"
+    ],
+    [
+      "Reminiscences from the end of the horse era in New York City (1952)",
+      "https://untappedcities.com/2022/02/21/horse-era-new-york-city/"
     ]
   ],
   [
