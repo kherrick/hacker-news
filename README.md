@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-05, 23:11:04](https://news.ycombinator.com/item?id=38538236) - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
+* [2023-12-05, 22:55:51](https://news.ycombinator.com/item?id=38538100) - [Virtual Machine as a Core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
+* [2023-12-05, 22:41:09](https://news.ycombinator.com/item?id=38537933) - [Cognitive Ability and Miscalibrated Financial Expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
 * [2023-12-05, 22:14:05](https://news.ycombinator.com/item?id=38537682) - [StyleX – Meta's styling library](https://stylexjs.com/)
 * [2023-12-05, 20:55:34](https://news.ycombinator.com/item?id=38536778) - [Lena (2021)](https://qntm.org/mmacevedo)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
@@ -25,9 +27,7 @@
 * [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
 * [2023-12-05, 09:02:33](https://news.ycombinator.com/item?id=38528484) - [Reminiscences from the end of the horse era in New York City (1952)](https://untappedcities.com/2022/02/21/horse-era-new-york-city/)
 * [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
-* [2023-12-05, 07:26:00](https://news.ycombinator.com/item?id=38528005) - [Seven escaped chimpanzees](https://www.theguardian.com/world/2023/dec/05/one-swedish-zoo-seven-escaped-chimpanzees)
 * [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the historical rate of catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
-* [2023-12-05, 06:26:24](https://news.ycombinator.com/item?id=38527719) - [Russell's Paradox of ghostwriters](https://statmodeling.stat.columbia.edu/2023/12/01/russells-paradox-of-ghostwriters/)
 * [2023-12-05, 03:03:44](https://news.ycombinator.com/item?id=38526584) - [A mineral produced by plate tectonics has a global cooling effect, study finds](https://phys.org/news/2023-11-mineral-plate-tectonics-global-cooling.html)
 * [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)
 
