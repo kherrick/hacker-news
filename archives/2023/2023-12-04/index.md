@@ -85,6 +85,7 @@
 * [2023-12-04, 05:57:23](https://news.ycombinator.com/item?id=38514138) - [History's most famous pot: the Meidias hydria](https://www.britishmuseum.org/blog/historys-most-famous-pot-meidias-hydria)
 * [2023-12-04, 05:56:47](https://news.ycombinator.com/item?id=38514137) - [Study of ancient British oral microbiomes reveals shift following Black Death](https://www.psu.edu/news/research/story/study-ancient-british-oral-microbiomes-reveals-shift-following-black-death/)
 * [2023-12-04, 05:53:15](https://news.ycombinator.com/item?id=38514121) - [Why Unix kernels have grown caches for directory entries ('name caches')](https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy)
+* [2023-12-04, 05:36:53](https://news.ycombinator.com/item?id=38514047) - [As Nepali villages modernize, mokha art is on the verge of disappearing](https://globalvoices.org/2023/12/01/as-nepali-villages-modernize-mokha-art-is-on-the-verge-of-disappearing/)
 * [2023-12-04, 05:21:09](https://news.ycombinator.com/item?id=38513978) - [Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-04, 05:19:25](https://news.ycombinator.com/item?id=38513975) - [Capturing DNA in snow tracks of polar bear, Eurasian lynx and snow leopard](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1250996/full)
 * [2023-12-04, 05:13:18](https://news.ycombinator.com/item?id=38513953) - [VSCode LLVM Compiler Explorer](https://github.com/sunxfancy/vscode-llvm)
