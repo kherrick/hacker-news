@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 18:39:42](https://news.ycombinator.com/item?id=38535108) - [Checkmate 19\" IPS Retro Monitor](https://www.checkmate1500plus.com/)
+* [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 * [2023-12-05, 17:34:54](https://news.ycombinator.com/item?id=38534109) - [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 * [2023-12-05, 17:23:45](https://news.ycombinator.com/item?id=38533901) - [IBM and Meta Launch Open AI Alliance with over 50 Founding Members](https://ai.meta.com/blog/ai-alliance/)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21, Open Source Datadog) Is Hiring SREs(Remote)](https://signoz.io/careers/site-reliability-engineer/)
@@ -63,6 +65,7 @@
 * [2023-12-05, 07:00:13](https://news.ycombinator.com/item?id=38527875) - [Bits (YC S20) is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
 * [2023-12-05, 06:57:44](https://news.ycombinator.com/item?id=38527866) - [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the Historical Rate of Catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
+* [2023-12-05, 06:26:24](https://news.ycombinator.com/item?id=38527719) - [Russell's Paradox of Ghostwriters](https://statmodeling.stat.columbia.edu/2023/12/01/russells-paradox-of-ghostwriters/)
 * [2023-12-05, 05:30:11](https://news.ycombinator.com/item?id=38527458) - [Almost 100k Google employees are about to get a hard-fought $20](https://www.sfgate.com/tech/article/google-confidentiality-settlement-workers-pay-18532568.php)
 * [2023-12-05, 05:26:36](https://news.ycombinator.com/item?id=38527437) - [Rest in Peace, Optane – Speculative Branches](https://specbranch.com/posts/rip-optane/)
 * [2023-12-05, 05:24:28](https://news.ycombinator.com/item?id=38527429) - [Bitcoin Core 26.0](https://github.com/bitcoin/bitcoin/releases/tag/v26.0)
