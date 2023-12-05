@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
 * [2023-12-05, 03:29:44](https://news.ycombinator.com/item?id=38526764) - [Global emissions at record highs as we continues to overspend on 'carbon budget'](https://www.abc.net.au/news/2023-12-05/global-carbon-project-finds-world-emissions-at-record-highs/103189436)
+* [2023-12-05, 03:26:15](https://news.ycombinator.com/item?id=38526745) - [When Google Fiber Abandons Your City as a Failed Experiment (2019)](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
 * [2023-12-05, 03:02:34](https://news.ycombinator.com/item?id=38526579) - [Study shows inoculating soil with mycorrhizal fungi can increase yield by 40%](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
 * [2023-12-05, 02:34:55](https://news.ycombinator.com/item?id=38526349) - [Before QR Codes, there was the CueCat (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 * [2023-12-05, 02:27:48](https://news.ycombinator.com/item?id=38526277) - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
