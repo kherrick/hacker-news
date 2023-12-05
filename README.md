@@ -13,7 +13,6 @@
 * [2023-12-05, 00:32:33](https://news.ycombinator.com/item?id=38525429) - [Taking low-dose aspirin is associated with 20% reduction in cancer deaths](https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer)
 * [2023-12-04, 23:17:22](https://news.ycombinator.com/item?id=38524599) - [System-wide open source ad blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
 * [2023-12-04, 23:17:04](https://news.ycombinator.com/item?id=38524595) - [Towards accurate differential diagnosis with large language models](https://arxiv.org/abs/2312.00164)
-* [2023-12-04, 22:58:02](https://news.ycombinator.com/item?id=38524372) - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
 * [2023-12-04, 22:17:12](https://news.ycombinator.com/item?id=38523961) - [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
 * [2023-12-04, 19:34:56](https://news.ycombinator.com/item?id=38521998) - [Show HN: Demo of Agent Based Model on GPU with CUDA and OpenGL (Windows/Linux)](https://github.com/KienTTran/ABMGPU)
@@ -28,6 +27,7 @@
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com)
+* [2023-12-04, 08:35:46](https://news.ycombinator.com/item?id=38515004) - [Understanding Keyboard Events Better](https://rugu.dev/en/blog/understanding-keyboard-events/)
 * [2023-12-04, 05:53:15](https://news.ycombinator.com/item?id=38514121) - [Why Unix kernels have grown caches for directory entries ('name caches')](https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy)
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
 
