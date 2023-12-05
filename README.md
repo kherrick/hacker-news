@@ -2,6 +2,7 @@
 
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 * [2023-12-05, 08:38:05](https://news.ycombinator.com/item?id=38528346) - [Tesla battle with Swedish unions spreads to Denmark](https://www.ft.com/content/4143c3ca-e2fd-48bb-b9b7-715454f1d28f)
+* [2023-12-05, 08:10:21](https://news.ycombinator.com/item?id=38528207) - [US gov fires a warning shot at Nvidia](https://www.pcgamer.com/us-gov-fires-a-warning-shot-at-nvidia-we-cannot-let-china-get-these-chips-if-you-redesign-a-chip-that-enables-them-to-do-ai-im-going-to-control-it-the-very-next-day/)
 * [2023-12-05, 07:36:00](https://news.ycombinator.com/item?id=38528051) - [San Francisco now at 35% office vacancy rate, highest ever recorded: data](https://abc7news.com/downtown-san-francisco-office-vacancy-stores-closing-crime/14125753/)
 * [2023-12-05, 07:19:10](https://news.ycombinator.com/item?id=38527965) - [23andMe confirms hackers stole ancestry data on 6.9M users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
 * [2023-12-05, 07:00:21](https://news.ycombinator.com/item?id=38527876) - [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
@@ -15,7 +16,6 @@
 * [2023-12-05, 02:01:35](https://news.ycombinator.com/item?id=38526078) - [Show HN: TSDiagram – Diagrams as Code with TypeScript](https://tsdiagram.com)
 * [2023-12-05, 01:49:15](https://news.ycombinator.com/item?id=38525978) - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-12-05, 01:47:42](https://news.ycombinator.com/item?id=38525968) - [Maelstrom: A workbench for learning distributed systems](https://github.com/jepsen-io/maelstrom)
-* [2023-12-05, 01:31:14](https://news.ycombinator.com/item?id=38525867) - [EHTML Docs](https://e-html.org/html/documentation.html)
 * [2023-12-05, 00:57:56](https://news.ycombinator.com/item?id=38525655) - [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
 * [2023-12-04, 22:17:12](https://news.ycombinator.com/item?id=38523961) - [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
