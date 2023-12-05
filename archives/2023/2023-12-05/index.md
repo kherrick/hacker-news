@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 05:30:11](https://news.ycombinator.com/item?id=38527458) - [Almost 100k Google employees are about to get a hard-fought $20](https://www.sfgate.com/tech/article/google-confidentiality-settlement-workers-pay-18532568.php)
 * [2023-12-05, 05:24:28](https://news.ycombinator.com/item?id=38527429) - [Bitcoin Core 26.0](https://github.com/bitcoin/bitcoin/releases/tag/v26.0)
+* [2023-12-05, 04:03:19](https://news.ycombinator.com/item?id=38526963) - [Add oil](https://en.wikipedia.org/wiki/Add_oil)
 * [2023-12-05, 03:47:22](https://news.ycombinator.com/item?id=38526877) - [New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 * [2023-12-05, 03:43:35](https://news.ycombinator.com/item?id=38526839) - [OpenAI is paying out $51M to a chip startup that Sam Altman invested in](https://www.businessinsider.com/openai-paying-out-millions-to-chip-startup-sam-altman-invested-2023-12)
 * [2023-12-05, 03:29:44](https://news.ycombinator.com/item?id=38526764) - [Global emissions at record highs as we continues to overspend on 'carbon budget'](https://www.abc.net.au/news/2023-12-05/global-carbon-project-finds-world-emissions-at-record-highs/103189436)
