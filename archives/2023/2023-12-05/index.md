@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
+* [2023-12-05, 08:38:05](https://news.ycombinator.com/item?id=38528346) - [Tesla battle with Swedish unions spreads to Denmark](https://www.ft.com/content/4143c3ca-e2fd-48bb-b9b7-715454f1d28f)
 * [2023-12-05, 07:36:00](https://news.ycombinator.com/item?id=38528051) - [San Francisco now at 35% office vacancy rate, highest ever recorded: data](https://abc7news.com/downtown-san-francisco-office-vacancy-stores-closing-crime/14125753/)
 * [2023-12-05, 07:19:10](https://news.ycombinator.com/item?id=38527965) - [23andMe confirms hackers stole ancestry data on 6.9M users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
 * [2023-12-05, 07:03:44](https://news.ycombinator.com/item?id=38527898) - [Asking ChatGPT to Repeat Words 'Forever' Is Now a Terms of Service Violation](https://www.404media.co/asking-chatgpt-to-repeat-words-forever-is-now-a-terms-of-service-violation/)
