@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-05, 19:53:37",
-      "https://news.ycombinator.com/item?id=38536090"
-    ],
-    [
-      "Mycroft",
-      "https://mycroftproject.com/"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 18:25:47",
       "https://news.ycombinator.com/item?id=38534920"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38532914"
     ],
     [
-      "Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm",
+      "Show HN: Desert Atlas, a self-hosted OpenStreetMap app for Sandstorm",
       "https://sandstorm.org/news/2023-12-05-osm-on-sandstorm"
     ]
   ],
@@ -141,32 +131,12 @@
   ],
   [
     [
-      "2023-12-05, 14:35:12",
-      "https://news.ycombinator.com/item?id=38531235"
-    ],
-    [
-      "Mtn Dew Raid Q&A [pdf]",
-      "https://www.mountaindew.com/wp-content/uploads/2023/11/MTN-DEW-RAID-QA.pdf"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 14:32:12",
       "https://news.ycombinator.com/item?id=38531181"
     ],
     [
       "Termshark – A terminal UI for tshark, inspired by Wireshark",
       "https://termshark.io/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 14:31:25",
-      "https://news.ycombinator.com/item?id=38531174"
-    ],
-    [
-      "The curious case of the aggregation query",
-      "https://modern-sql.com/blog/2023-12/curious-case-aggregation-query"
     ]
   ],
   [
@@ -221,12 +191,22 @@
   ],
   [
     [
-      "2023-12-05, 12:32:16",
-      "https://news.ycombinator.com/item?id=38529977"
+      "2023-12-05, 13:33:30",
+      "https://news.ycombinator.com/item?id=38530466"
     ],
     [
-      "According to Plutarch, Julius Caesar was once captured by pirates",
-      "https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates"
+      "Toxic comments are associated with reduced volunteer activity on Wikipedia",
+      "https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 13:29:47",
+      "https://news.ycombinator.com/item?id=38530428"
+    ],
+    [
+      "Lessons from 5 years of running a tech meetup",
+      "https://davekiss.com/blog/12-lessons-from-5-years-of-running-a-tech-meetup"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2023-12-05, 08:49:00",
+      "https://news.ycombinator.com/item?id=38528413"
+    ],
+    [
+      "Acoustic Location and Sound Mirrors",
+      "http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 07:26:00",
       "https://news.ycombinator.com/item?id=38528005"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38527754"
     ],
     [
-      "Analyzing the Historical Rate of Catastrophes",
+      "Analyzing the historical rate of catastrophes",
       "https://bounded-regret.ghost.io/base-rates-of-catastrophes/"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=38527719"
     ],
     [
-      "Russell's Paradox of Ghostwriters",
+      "Russell's Paradox of ghostwriters",
       "https://statmodeling.stat.columbia.edu/2023/12/01/russells-paradox-of-ghostwriters/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "A mineral produced by plate tectonics has a global cooling effect, study finds",
       "https://phys.org/news/2023-11-mineral-plate-tectonics-global-cooling.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 02:34:55",
+      "https://news.ycombinator.com/item?id=38526349"
+    ],
+    [
+      "Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)",
+      "https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net"
     ]
   ],
   [
