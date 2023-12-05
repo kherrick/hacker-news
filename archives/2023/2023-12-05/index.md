@@ -6,6 +6,7 @@
 
 * [2023-12-05, 23:11:04](https://news.ycombinator.com/item?id=38538236) - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
 * [2023-12-05, 22:55:51](https://news.ycombinator.com/item?id=38538100) - [Virtual Machine as a Core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
+* [2023-12-05, 22:44:41](https://news.ycombinator.com/item?id=38537977) - [Report: YouTube adding user-traceable ID tag to links shared off-platform](https://twitter.com/OldRowSwig/status/1732112446943269347?s=20)
 * [2023-12-05, 22:41:09](https://news.ycombinator.com/item?id=38537933) - [Cognitive Ability and Miscalibrated Financial Expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
 * [2023-12-05, 22:33:00](https://news.ycombinator.com/item?id=38537851) - [OpenWRT Docs \"have reason to suspect a security compromise\"](https://openwrt.org/index.html)
 * [2023-12-05, 22:14:05](https://news.ycombinator.com/item?id=38537682) - [StyleX – Meta's styling library](https://stylexjs.com/)
