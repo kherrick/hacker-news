@@ -6,6 +6,7 @@
 
 * [2023-12-05, 14:24:52](https://news.ycombinator.com/item?id=38531104) - [Firefox on the Brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 * [2023-12-05, 14:13:48](https://news.ycombinator.com/item?id=38530940) - ['Impossible' orange auroras spotted in UK after solar storm slams into Earth](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth)
+* [2023-12-05, 14:10:12](https://news.ycombinator.com/item?id=38530885) - [Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
 * [2023-12-05, 14:06:51](https://news.ycombinator.com/item?id=38530852) - [Meta, IBM Create Industrywide AI Alliance to Share Technology](https://www.bloomberg.com/news/articles/2023-12-05/meta-ibm-create-industrywide-ai-alliance-to-share-technology)
 * [2023-12-05, 13:46:53](https://news.ycombinator.com/item?id=38530597) - [My Fediverse use – I'm hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
 * [2023-12-05, 13:43:24](https://news.ycombinator.com/item?id=38530565) - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
@@ -13,6 +14,7 @@
 * [2023-12-05, 13:24:12](https://news.ycombinator.com/item?id=38530382) - [State of Mozilla](https://stateof.mozilla.org/#)
 * [2023-12-05, 13:22:45](https://news.ycombinator.com/item?id=38530367) - [Steam client drops support on macOS, but adds it on Linux](https://www.theregister.com/2023/12/04/steam_mac_lin_changes/)
 * [2023-12-05, 13:21:54](https://news.ycombinator.com/item?id=38530357) - [The pandemic's toll on schooling emerges in terrible exam results](https://www.economist.com/international/2023/12/05/the-pandemics-toll-on-schooling-emerges-in-terrible-exam-results)
+* [2023-12-05, 13:20:10](https://news.ycombinator.com/item?id=38530343) - [Show HN: SuperDuperDB – Open-source framework for integrating AI with databases](https://github.com/SuperDuperDB/superduperdb)
 * [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:52:32](https://news.ycombinator.com/item?id=38530087) - [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
 * [2023-12-05, 12:45:04](https://news.ycombinator.com/item?id=38530043) - [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
