@@ -31,12 +31,22 @@
   ],
   [
     [
-      "2023-12-05, 04:03:19",
-      "https://news.ycombinator.com/item?id=38526963"
+      "2023-12-05, 05:12:43",
+      "https://news.ycombinator.com/item?id=38527358"
     ],
     [
-      "Add oil",
-      "https://en.wikipedia.org/wiki/Add_oil"
+      "Designing a Symbol Layer",
+      "https://getreuer.info/posts/keyboards/symbol-layer/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 04:00:28",
+      "https://news.ycombinator.com/item?id=38526948"
+    ],
+    [
+      "Rage: Fast web framework compatible with Rails",
+      "https://github.com/rage-rb/rage"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-12-04, 23:17:04",
-      "https://news.ycombinator.com/item?id=38524595"
-    ],
-    [
-      "Towards accurate differential diagnosis with large language models",
-      "https://arxiv.org/abs/2312.00164"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 22:17:12",
       "https://news.ycombinator.com/item?id=38523961"
     ],
@@ -187,16 +187,6 @@
     [
       "Dogbolt Decompiler Explorer",
       "https://dogbolt.org/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 16:57:24",
-      "https://news.ycombinator.com/item?id=38519719"
-    ],
-    [
-      "HTML, the Programming Language",
-      "https://html-lang.org/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Understanding Keyboard Events Better",
       "https://rugu.dev/en/blog/understanding-keyboard-events/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 07:39:53",
+      "https://news.ycombinator.com/item?id=38514632"
+    ],
+    [
+      "A Decade of Have I Been Pwned",
+      "https://www.troyhunt.com/a-decade-of-have-i-been-pwned/"
     ]
   ],
   [
