@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 * [2023-12-05, 07:36:00](https://news.ycombinator.com/item?id=38528051) - [San Francisco now at 35% office vacancy rate, highest ever recorded: data](https://abc7news.com/downtown-san-francisco-office-vacancy-stores-closing-crime/14125753/)
 * [2023-12-05, 07:03:44](https://news.ycombinator.com/item?id=38527898) - [Asking ChatGPT to Repeat Words 'Forever' Is Now a Terms of Service Violation](https://www.404media.co/asking-chatgpt-to-repeat-words-forever-is-now-a-terms-of-service-violation/)
 * [2023-12-05, 07:00:21](https://news.ycombinator.com/item?id=38527876) - [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
