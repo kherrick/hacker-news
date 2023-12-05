@@ -64,6 +64,7 @@
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
 * [2023-12-04, 13:09:27](https://news.ycombinator.com/item?id=38516787) - [What's lost when we photograph life instead of experiencing it? (2016)](https://theconversation.com/whats-lost-when-we-photograph-life-instead-of-experiencing-it-58392)
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
+* [2023-12-04, 12:56:12](https://news.ycombinator.com/item?id=38516661) - [Poland's Most Famous Dish: Pierogi](https://culture.pl/en/article/polands-most-famous-dish-pierogi)
 * [2023-12-04, 12:49:56](https://news.ycombinator.com/item?id=38516614) - [TÜV vehicle report 2024 – Tesla Model 3, most issues (German)](https://www.adac.de/news/tuev-report-2024/)
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Rob Pike: Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
