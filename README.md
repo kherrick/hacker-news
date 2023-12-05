@@ -22,14 +22,14 @@
 * [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
 * [2023-12-04, 16:26:55](https://news.ycombinator.com/item?id=38519257) - [A decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
 * [2023-12-04, 16:08:32](https://news.ycombinator.com/item?id=38518994) - [Switch off bad TV settings](https://practicalbetterments.com/switch-off-bad-tv-settings/)
-* [2023-12-04, 14:20:37](https://news.ycombinator.com/item?id=38517550) - [Ousted propaganda scholar accuses Harvard of bowing to Meta](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint/)
 * [2023-12-04, 13:26:23](https://news.ycombinator.com/item?id=38516913) - [Vialibri: Physical Book Meta Search Engine](https://www.vialibri.net/)
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
-* [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com)
+* [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Maths and science animations](https://blog.matthen.com)
 * [2023-12-04, 08:35:46](https://news.ycombinator.com/item?id=38515004) - [Understanding Keyboard Events Better](https://rugu.dev/en/blog/understanding-keyboard-events/)
 * [2023-12-04, 05:53:15](https://news.ycombinator.com/item?id=38514121) - [Why Unix kernels have grown caches for directory entries ('name caches')](https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy)
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
+* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 
