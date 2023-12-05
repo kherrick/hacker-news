@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 01:26:43](https://news.ycombinator.com/item?id=38525825) - [Ask HN: Where do you live? What's good or bad about it?](https://news.ycombinator.com/item?id=38525825)
+* [2023-12-05, 00:57:56](https://news.ycombinator.com/item?id=38525655) - [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
 * [2023-12-05, 00:49:35](https://news.ycombinator.com/item?id=38525583) - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+* [2023-12-05, 00:32:33](https://news.ycombinator.com/item?id=38525429) - [Taking low-dose aspirin is associated with 20% reduction in cancer deaths](https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer)
 * [2023-12-04, 23:17:22](https://news.ycombinator.com/item?id=38524599) - [System-wide open source ad blocker for Mac, Windows, and Linux](https://github.com/anfragment/zen)
 * [2023-12-04, 23:17:04](https://news.ycombinator.com/item?id=38524595) - [Towards accurate differential diagnosis with large language models](https://arxiv.org/abs/2312.00164)
 * [2023-12-04, 22:58:02](https://news.ycombinator.com/item?id=38524372) - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
@@ -8,9 +11,7 @@
 * [2023-12-04, 21:58:35](https://news.ycombinator.com/item?id=38523736) - [Joint initiative for trustworthy AI](https://actu.epfl.ch/news/joint-initiative-for-trustworthy-ai/)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
 * [2023-12-04, 20:30:31](https://news.ycombinator.com/item?id=38522616) - [High blood pressure may contribute to cognitive decline](https://www.nih.gov/news-events-news-releases/salty-immune-cells-surrounding-brain-linked-hypertension-induced-dementia)
-* [2023-12-04, 20:12:25](https://news.ycombinator.com/item?id=38522428) - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 * [2023-12-04, 19:46:08](https://news.ycombinator.com/item?id=38522142) - [Minnesota middle school students 'seem happy' after cellphone ban](https://www.newsnationnow.com/us-news/education/minnesota-middle-cellphone-ban/)
-* [2023-12-04, 19:37:23](https://news.ycombinator.com/item?id=38522031) - [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
 * [2023-12-04, 19:34:56](https://news.ycombinator.com/item?id=38521998) - [Show HN: Demo of Agent Based Model on GPU with CUDA and OpenGL (Windows/Linux)](https://github.com/KienTTran/ABMGPU)
 * [2023-12-04, 18:21:47](https://news.ycombinator.com/item?id=38520901) - [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
 * [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
@@ -29,7 +30,6 @@
 * [2023-12-03, 23:44:47](https://news.ycombinator.com/item?id=38511991) - [Laser cutting of an electrical steel sheet using a fuzzy logic controller](https://www.mdpi.com/2227-7390/11/23/4769)
 * [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 06:34:22](https://news.ycombinator.com/item?id=38505316) - [Films that made people emigrate](https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate)
-* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 
