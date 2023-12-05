@@ -75,6 +75,7 @@
 * [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 10:13:57](https://news.ycombinator.com/item?id=38515563) - [Leaving F-Droid](https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d)
+* [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Play and learn how a nuclear plant works](https://dalton-nrs.manchester.ac.uk/)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com)
 * [2023-12-04, 09:36:30](https://news.ycombinator.com/item?id=38515351) - [Starring the Computer](http://starringthecomputer.com/)
 * [2023-12-04, 09:13:17](https://news.ycombinator.com/item?id=38515211) - [Human mobility networks reveal increased segregation in large cities](https://www.nature.com/articles/s41586-023-06757-3)
