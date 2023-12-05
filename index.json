@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-05, 18:18:12",
-      "https://news.ycombinator.com/item?id=38534810"
-    ],
-    [
-      "Spotify Is Screwed",
-      "https://www.wired.com/story/spotify-layoffs-music-streaming-future/"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 17:00:53",
       "https://news.ycombinator.com/item?id=38533533"
     ],
@@ -51,21 +41,11 @@
   ],
   [
     [
-      "2023-12-05, 16:55:38",
-      "https://news.ycombinator.com/item?id=38533451"
-    ],
-    [
-      "Cory Doctorow: Freeing Ourselves from the Clutches of Big Tech",
-      "https://www.noemamag.com/freeing-ourselves-from-the-clutches-of-big-tech/"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 16:33:58",
       "https://news.ycombinator.com/item?id=38533105"
     ],
     [
-      "Fine Tuning Mistral 7B on Magic the Gathering Draft",
+      "Fine-tuning Mistral 7B on Magic the Gathering Draft",
       "https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the"
     ]
   ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2023-12-05, 07:19:10",
+      "https://news.ycombinator.com/item?id=38527965"
+    ],
+    [
+      "23andMe confirms hackers stole ancestry data on 6.9M users",
+      "https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 06:32:12",
       "https://news.ycombinator.com/item?id=38527754"
     ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2023-12-04, 13:21:49",
+      "https://news.ycombinator.com/item?id=38516879"
+    ],
+    [
+      "From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source",
+      "https://corecursive.com/vue-with-evan-you/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 12:32:12",
       "https://news.ycombinator.com/item?id=38516475"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38515435"
     ],
     [
-      "Play and learn how a nuclear plant works",
+      "Nuclear Reactor Simulator",
       "https://dalton-nrs.manchester.ac.uk/"
     ]
   ]
