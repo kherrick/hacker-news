@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 03:29:44](https://news.ycombinator.com/item?id=38526764) - [Global emissions at record highs as we continues to overspend on 'carbon budget'](https://www.abc.net.au/news/2023-12-05/global-carbon-project-finds-world-emissions-at-record-highs/103189436)
 * [2023-12-05, 03:02:34](https://news.ycombinator.com/item?id=38526579) - [Study shows inoculating soil with mycorrhizal fungi can increase yield by 40%](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
 * [2023-12-05, 02:34:55](https://news.ycombinator.com/item?id=38526349) - [Before QR Codes, there was the CueCat (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 * [2023-12-05, 02:27:48](https://news.ycombinator.com/item?id=38526277) - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
@@ -12,7 +13,6 @@
 * [2023-12-04, 22:58:02](https://news.ycombinator.com/item?id=38524372) - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
 * [2023-12-04, 22:17:12](https://news.ycombinator.com/item?id=38523961) - [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
-* [2023-12-04, 19:46:08](https://news.ycombinator.com/item?id=38522142) - [Minnesota middle school students 'seem happy' after cellphone ban](https://www.newsnationnow.com/us-news/education/minnesota-middle-cellphone-ban/)
 * [2023-12-04, 19:34:56](https://news.ycombinator.com/item?id=38521998) - [Show HN: Demo of Agent Based Model on GPU with CUDA and OpenGL (Windows/Linux)](https://github.com/KienTTran/ABMGPU)
 * [2023-12-04, 18:21:47](https://news.ycombinator.com/item?id=38520901) - [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
 * [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
