@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-05, 03:43:35",
-      "https://news.ycombinator.com/item?id=38526839"
+      "2023-12-05, 03:47:22",
+      "https://news.ycombinator.com/item?id=38526877"
     ],
     [
-      "OpenAI is paying out $51M to a chip startup that Sam Altman invested in",
-      "https://www.businessinsider.com/openai-paying-out-millions-to-chip-startup-sam-altman-invested-2023-12"
+      "New theory claims to unite Einstein's gravity with quantum mechanics",
+      "https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38526745"
     ],
     [
-      "When Google Fiber Abandons Your City as a Failed Experiment (2019)",
+      "When Google Fiber abandons your city as a failed experiment (2019)",
       "https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38526349"
     ],
     [
-      "Before QR Codes, there was the CueCat (2006)",
+      "Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)",
       "https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net"
     ]
   ],
@@ -95,18 +95,8 @@
       "https://news.ycombinator.com/item?id=38525583"
     ],
     [
-      "Common Rust Lifetime Misconceptions",
+      "Common Rust Lifetime Misconceptions (2020)",
       "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 00:32:33",
-      "https://news.ycombinator.com/item?id=38525429"
-    ],
-    [
-      "Taking low-dose aspirin is associated with 20% reduction in cancer deaths",
-      "https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Kubernetes Needs an LTS",
       "https://matduggan.com/why-kubernetes-needs-an-lts/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 11:35:13",
+      "https://news.ycombinator.com/item?id=38516038"
+    ],
+    [
+      "NN-SVG",
+      "https://alexlenail.me/NN-SVG/AlexNet.html"
     ]
   ],
   [
