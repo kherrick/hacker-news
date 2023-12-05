@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 09:13:31](https://news.ycombinator.com/item?id=38528554) - [Why Windows Is So Much Better in the EU [video]](https://www.youtube.com/watch?v=FOQeKeKNXLU)
 * [2023-12-05, 09:07:09](https://news.ycombinator.com/item?id=38528514) - [Thieves return Android phone when they realize it's not an iPhone](https://9to5mac.com/2023/12/04/stolen-android-phone-returned-iphone/)
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 * [2023-12-05, 08:38:05](https://news.ycombinator.com/item?id=38528346) - [Tesla battle with Swedish unions spreads to Denmark](https://www.ft.com/content/4143c3ca-e2fd-48bb-b9b7-715454f1d28f)

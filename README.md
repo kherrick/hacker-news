@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 09:13:31](https://news.ycombinator.com/item?id=38528554) - [Why Windows Is So Much Better in the EU [video]](https://www.youtube.com/watch?v=FOQeKeKNXLU)
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
-* [2023-12-05, 08:10:21](https://news.ycombinator.com/item?id=38528207) - [US gov fires a warning shot at Nvidia](https://www.pcgamer.com/us-gov-fires-a-warning-shot-at-nvidia-we-cannot-let-china-get-these-chips-if-you-redesign-a-chip-that-enables-them-to-do-ai-im-going-to-control-it-the-very-next-day/)
 * [2023-12-05, 07:19:10](https://news.ycombinator.com/item?id=38527965) - [23andMe confirms hackers stole ancestry data on 6.9M users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
 * [2023-12-05, 07:00:21](https://news.ycombinator.com/item?id=38527876) - [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
 * [2023-12-05, 07:00:13](https://news.ycombinator.com/item?id=38527875) - [Bits (YC S20) is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
