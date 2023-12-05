@@ -25,10 +25,10 @@
 * [2023-12-05, 13:33:30](https://news.ycombinator.com/item?id=38530466) - [Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 * [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [Julius Caesar was once captured by pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
 * [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
+* [2023-12-05, 07:26:00](https://news.ycombinator.com/item?id=38528005) - [Seven Escaped Chimpanzees](https://www.theguardian.com/world/2023/dec/05/one-swedish-zoo-seven-escaped-chimpanzees)
 * [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the Historical Rate of Catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
 * [2023-12-05, 03:47:22](https://news.ycombinator.com/item?id=38526877) - [New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 * [2023-12-04, 13:21:49](https://news.ycombinator.com/item?id=38516879) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
-* [2023-12-04, 12:32:12](https://news.ycombinator.com/item?id=38516475) - [The Languages of Media – Advertising Techniques](https://books.lib.uoguelph.ca/languagesofmedia/chapter/chapter-7-public-interventions/)
 * [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Play and learn how a nuclear plant works](https://dalton-nrs.manchester.ac.uk/)
 
 ## [Archives](archives/index.md)
