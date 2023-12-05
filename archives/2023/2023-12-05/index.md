@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 14:24:52](https://news.ycombinator.com/item?id=38531104) - [Firefox on the Brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
+* [2023-12-05, 14:13:48](https://news.ycombinator.com/item?id=38530940) - ['Impossible' orange auroras spotted in UK after solar storm slams into Earth](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth)
 * [2023-12-05, 14:06:51](https://news.ycombinator.com/item?id=38530852) - [Meta, IBM Create Industrywide AI Alliance to Share Technology](https://www.bloomberg.com/news/articles/2023-12-05/meta-ibm-create-industrywide-ai-alliance-to-share-technology)
 * [2023-12-05, 13:46:53](https://news.ycombinator.com/item?id=38530597) - [My Fediverse use – I'm hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
 * [2023-12-05, 13:43:24](https://news.ycombinator.com/item?id=38530565) - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
