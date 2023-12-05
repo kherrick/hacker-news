@@ -20,7 +20,8 @@
 * [2023-12-04, 16:57:24](https://news.ycombinator.com/item?id=38519719) - [HTML, the Programming Language](https://html-lang.org/)
 * [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
 * [2023-12-04, 16:26:55](https://news.ycombinator.com/item?id=38519257) - [A decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
-* [2023-12-04, 16:08:32](https://news.ycombinator.com/item?id=38518994) - [Switch off weird smart TV settings](https://practicalbetterments.com/switch-off-bad-tv-settings/)
+* [2023-12-04, 16:08:32](https://news.ycombinator.com/item?id=38518994) - [Switch off bad TV settings](https://practicalbetterments.com/switch-off-bad-tv-settings/)
+* [2023-12-04, 14:20:37](https://news.ycombinator.com/item?id=38517550) - [Ousted propaganda scholar accuses Harvard of bowing to Meta](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint/)
 * [2023-12-04, 13:26:23](https://news.ycombinator.com/item?id=38516913) - [Vialibri: Physical Book Meta Search Engine](https://www.vialibri.net/)
 * [2023-12-04, 13:10:30](https://news.ycombinator.com/item?id=38516795) - [Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP](https://news.ycombinator.com/item?id=38516795)
 * [2023-12-04, 13:01:43](https://news.ycombinator.com/item?id=38516717) - [Kubernetes Needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
@@ -28,7 +29,6 @@
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 * [2023-12-03, 23:44:47](https://news.ycombinator.com/item?id=38511991) - [Laser cutting of an electrical steel sheet using a fuzzy logic controller](https://www.mdpi.com/2227-7390/11/23/4769)
-* [2023-12-03, 12:02:14](https://news.ycombinator.com/item?id=38506460) - [Now I can just print that video](https://blog.forret.com/2023/12/01/printthatvideo/)
 * [2023-12-03, 06:34:22](https://news.ycombinator.com/item?id=38505316) - [Films that made people emigrate](https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate)
 
 ## [Archives](archives/index.md)
