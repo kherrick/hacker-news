@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-05, 03:29:44",
-      "https://news.ycombinator.com/item?id=38526764"
-    ],
-    [
-      "Global emissions at record highs as we continues to overspend on 'carbon budget'",
-      "https://www.abc.net.au/news/2023-12-05/global-carbon-project-finds-world-emissions-at-record-highs/103189436"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 03:26:15",
       "https://news.ycombinator.com/item?id=38526745"
     ],
@@ -51,12 +41,42 @@
   ],
   [
     [
+      "2023-12-05, 02:01:35",
+      "https://news.ycombinator.com/item?id=38526078"
+    ],
+    [
+      "Show HN: TSDiagram – Diagrams as Code with TypeScript",
+      "https://tsdiagram.com"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 01:49:15",
       "https://news.ycombinator.com/item?id=38525978"
     ],
     [
       "I Hacked Magic the Gathering: Arena for a 100% Win Rate",
       "https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 01:47:42",
+      "https://news.ycombinator.com/item?id=38525968"
+    ],
+    [
+      "Maelstrom: A workbench for learning distributed systems",
+      "https://github.com/jepsen-io/maelstrom"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 01:31:14",
+      "https://news.ycombinator.com/item?id=38525867"
+    ],
+    [
+      "EHTML Docs",
+      "https://e-html.org/html/documentation.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-12-04, 14:20:37",
-      "https://news.ycombinator.com/item?id=38517550"
-    ],
-    [
-      "Ousted propaganda scholar accuses Harvard of bowing to Meta",
-      "https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint/"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 13:26:23",
       "https://news.ycombinator.com/item?id=38516913"
     ],
@@ -287,16 +297,6 @@
     [
       "Pragmatic Versioning – An Alternative to Semver",
       "https://github.com/seveibar/pragmaticversioning"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 03:25:44",
-      "https://news.ycombinator.com/item?id=38513402"
-    ],
-    [
-      "A minimum complete tutorial of Linux ext4 file system (2017)",
-      "https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/"
     ]
   ]
 ]
