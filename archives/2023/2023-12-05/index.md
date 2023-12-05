@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
 * [2023-12-05, 23:11:04](https://news.ycombinator.com/item?id=38538236) - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
+* [2023-12-05, 23:01:57](https://news.ycombinator.com/item?id=38538162) - [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
+* [2023-12-05, 22:57:45](https://news.ycombinator.com/item?id=38538123) - [Governor of Amazonas wants to charge Amazon royalties for use of the brand](https://www.nordinvestimentos.com.br/blog/governador-do-amazonas/)
 * [2023-12-05, 22:55:51](https://news.ycombinator.com/item?id=38538100) - [Virtual Machine as a Core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
 * [2023-12-05, 22:44:41](https://news.ycombinator.com/item?id=38537977) - [Report: YouTube adding user-traceable ID tag to links shared off-platform](https://twitter.com/OldRowSwig/status/1732112446943269347?s=20)
 * [2023-12-05, 22:41:09](https://news.ycombinator.com/item?id=38537933) - [Cognitive Ability and Miscalibrated Financial Expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
