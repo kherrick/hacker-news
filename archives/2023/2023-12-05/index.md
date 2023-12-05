@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 14:06:51](https://news.ycombinator.com/item?id=38530852) - [Meta, IBM Create Industrywide AI Alliance to Share Technology](https://www.bloomberg.com/news/articles/2023-12-05/meta-ibm-create-industrywide-ai-alliance-to-share-technology)
 * [2023-12-05, 13:46:53](https://news.ycombinator.com/item?id=38530597) - [My Fediverse use – I'm hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
+* [2023-12-05, 13:43:24](https://news.ycombinator.com/item?id=38530565) - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
 * [2023-12-05, 13:33:30](https://news.ycombinator.com/item?id=38530466) - [Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 * [2023-12-05, 13:24:12](https://news.ycombinator.com/item?id=38530382) - [State of Mozilla](https://stateof.mozilla.org/#)
 * [2023-12-05, 13:22:45](https://news.ycombinator.com/item?id=38530367) - [Steam client drops support on macOS, but adds it on Linux](https://www.theregister.com/2023/12/04/steam_mac_lin_changes/)
