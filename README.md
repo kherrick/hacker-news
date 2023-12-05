@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 20:19:19](https://news.ycombinator.com/item?id=38536396) - [X is now licensed for payment processing in a dozen U.S. states](https://techcrunch.com/2023/12/05/x-is-now-licensed-for-payment-processing-in-a-dozen-u-s-states/)
 * [2023-12-05, 19:53:37](https://news.ycombinator.com/item?id=38536090) - [Mycroft](https://mycroftproject.com/)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21), Open Source Datadog, Is Hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
@@ -24,7 +25,6 @@
 * [2023-12-05, 11:17:47](https://news.ycombinator.com/item?id=38529492) - [File Life](https://filelife.tours/)
 * [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
 * [2023-12-05, 07:26:00](https://news.ycombinator.com/item?id=38528005) - [Seven escaped chimpanzees](https://www.theguardian.com/world/2023/dec/05/one-swedish-zoo-seven-escaped-chimpanzees)
-* [2023-12-05, 07:19:10](https://news.ycombinator.com/item?id=38527965) - [23andMe confirms hackers stole ancestry data on 6.9M users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
 * [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the Historical Rate of Catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
 * [2023-12-05, 06:26:24](https://news.ycombinator.com/item?id=38527719) - [Russell's Paradox of Ghostwriters](https://statmodeling.stat.columbia.edu/2023/12/01/russells-paradox-of-ghostwriters/)
 * [2023-12-05, 03:03:44](https://news.ycombinator.com/item?id=38526584) - [A mineral produced by plate tectonics has a global cooling effect, study finds](https://phys.org/news/2023-11-mineral-plate-tectonics-global-cooling.html)
