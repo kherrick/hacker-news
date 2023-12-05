@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21, Open Source Datadog) Is Hiring SREs(Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-12-05, 16:23:23](https://news.ycombinator.com/item?id=38532914) - [Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
 * [2023-12-05, 16:13:10](https://news.ycombinator.com/item?id=38532761) - [Common Voice](https://commonvoice.mozilla.org/en)
 * [2023-12-05, 16:12:21](https://news.ycombinator.com/item?id=38532746) - [The challenges of supporting foreign key constraints](https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints)
@@ -22,7 +23,6 @@
 * [2023-12-05, 13:20:10](https://news.ycombinator.com/item?id=38530343) - [Show HN: SuperDuperDB – Open-source framework for integrating AI with databases](https://github.com/SuperDuperDB/superduperdb)
 * [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
-* [2023-12-05, 12:00:32](https://news.ycombinator.com/item?id=38529784) - [GiveCampus (YC S15) Is Hiring Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the Historical Rate of Catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
 * [2023-12-05, 03:47:22](https://news.ycombinator.com/item?id=38526877) - [New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 * [2023-12-05, 01:49:15](https://news.ycombinator.com/item?id=38525978) - [I hacked Magic the Gathering: Arena for a 100% win rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)

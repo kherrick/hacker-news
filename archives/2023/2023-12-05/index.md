@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21, Open Source Datadog) Is Hiring SREs(Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-12-05, 16:23:23](https://news.ycombinator.com/item?id=38532914) - [Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
 * [2023-12-05, 16:13:10](https://news.ycombinator.com/item?id=38532761) - [Common Voice](https://commonvoice.mozilla.org/en)
 * [2023-12-05, 16:12:21](https://news.ycombinator.com/item?id=38532746) - [The challenges of supporting foreign key constraints](https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints)
