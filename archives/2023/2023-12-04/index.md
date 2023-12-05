@@ -69,6 +69,7 @@
 * [2023-12-04, 12:15:12](https://news.ycombinator.com/item?id=38516331) - [Rob Pike: Gobs of data (2011)](https://go.dev/blog/gob)
 * [2023-12-04, 11:47:08](https://news.ycombinator.com/item?id=38516123) - [The 8-Bit Era: Eight Iconic Processor Designs – By Babbage](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 * [2023-12-04, 11:35:13](https://news.ycombinator.com/item?id=38516038) - [NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
+* [2023-12-04, 11:05:27](https://news.ycombinator.com/item?id=38515878) - [Symbian, the Secret History: Dark Star](https://www.theregister.com/2010/11/23/symbian_history_part_one_dark_star/)
 * [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 10:13:57](https://news.ycombinator.com/item?id=38515563) - [Leaving F-Droid](https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d)
