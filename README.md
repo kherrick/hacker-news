@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 19:41:26](https://news.ycombinator.com/item?id=38535915) - [Revisiting Persistent Bitcoin Criticisms [pdf]](https://www.fidelitydigitalassets.com/sites/default/files/documents/1110227.1.0%20Fidelity%20Digital%20Assets%20-%20Revisiting%20Persistent%20Bitcoin%20Criticisms%20%2811.02%29.pdf)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21), Open Source Datadog, Is Hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-12-05, 16:33:58](https://news.ycombinator.com/item?id=38533105) - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
@@ -19,7 +20,6 @@
 * [2023-12-05, 14:09:44](https://news.ycombinator.com/item?id=38530880) - [AI will enable mass spying](https://www.schneier.com/blog/archives/2023/12/the-internet-enabled-mass-surveillance-ai-will-enable-mass-spying.html)
 * [2023-12-05, 13:46:53](https://news.ycombinator.com/item?id=38530597) - [My Fediverse use – I'm hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
 * [2023-12-05, 13:43:24](https://news.ycombinator.com/item?id=38530565) - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
-* [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [According to Plutarch, Julius Caesar was once captured by pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
 * [2023-12-05, 11:17:47](https://news.ycombinator.com/item?id=38529492) - [File Life](https://filelife.tours/)
 * [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
