@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-05, 14:34:40](https://news.ycombinator.com/item?id=38531219) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-05, 14:31:25](https://news.ycombinator.com/item?id=38531174) - [The Curious Case of the Aggregation Query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
 * [2023-12-05, 14:24:52](https://news.ycombinator.com/item?id=38531104) - [Firefox on the Brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 * [2023-12-05, 14:13:48](https://news.ycombinator.com/item?id=38530940) - ['Impossible' orange auroras spotted in UK after solar storm slams into Earth](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth)
@@ -27,6 +26,7 @@
 * [2023-12-04, 12:32:12](https://news.ycombinator.com/item?id=38516475) - [The Languages of Media – Advertising Techniques](https://books.lib.uoguelph.ca/languagesofmedia/chapter/chapter-7-public-interventions/)
 * [2023-12-04, 11:35:13](https://news.ycombinator.com/item?id=38516038) - [NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Maths and science animations (2018)](https://blog.matthen.com)
+* [2023-12-04, 09:36:30](https://news.ycombinator.com/item?id=38515351) - [Starring the Computer](http://starringthecomputer.com/)
 * [2023-12-04, 09:13:17](https://news.ycombinator.com/item?id=38515211) - [Human mobility networks reveal increased segregation in large cities](https://www.nature.com/articles/s41586-023-06757-3)
 * [2023-12-04, 07:39:53](https://news.ycombinator.com/item?id=38514632) - [A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
 * [2023-12-04, 05:36:53](https://news.ycombinator.com/item?id=38514047) - [As Nepali villages modernize, mokha art is on the verge of disappearing](https://globalvoices.org/2023/12/01/as-nepali-villages-modernize-mokha-art-is-on-the-verge-of-disappearing/)
