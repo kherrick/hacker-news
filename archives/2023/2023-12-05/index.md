@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 20:55:34](https://news.ycombinator.com/item?id=38536778) - [Lena (MMAcevedo, the earliest executable image of a human brain)](https://qntm.org/mmacevedo)
 * [2023-12-05, 20:19:19](https://news.ycombinator.com/item?id=38536396) - [X is now licensed for payment processing in a dozen U.S. states](https://techcrunch.com/2023/12/05/x-is-now-licensed-for-payment-processing-in-a-dozen-u-s-states/)
 * [2023-12-05, 19:53:37](https://news.ycombinator.com/item?id=38536090) - [Mycroft](https://mycroftproject.com/)
 * [2023-12-05, 19:41:26](https://news.ycombinator.com/item?id=38535915) - [Revisiting Persistent Bitcoin Criticisms [pdf]](https://www.fidelitydigitalassets.com/sites/default/files/documents/1110227.1.0%20Fidelity%20Digital%20Assets%20-%20Revisiting%20Persistent%20Bitcoin%20Criticisms%20%2811.02%29.pdf)
@@ -31,6 +32,7 @@
 * [2023-12-05, 15:04:11](https://news.ycombinator.com/item?id=38531720) - [How Beeper Mini Works](https://blog.beeper.com/p/how-beeper-mini-works)
 * [2023-12-05, 14:57:38](https://news.ycombinator.com/item?id=38531621) - [BMW EV achieves 1000km in range using Dual-Chemistry batteries](https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/)
 * [2023-12-05, 14:56:25](https://news.ycombinator.com/item?id=38531604) - [Show HN: How did YOUR computer reach my server?](https://how-did-i-get-here.net/)
+* [2023-12-05, 14:44:39](https://news.ycombinator.com/item?id=38531428) - [How does Shazam work? (2022)](https://www.cameronmacleod.com/blog/how-does-shazam-work)
 * [2023-12-05, 14:35:12](https://news.ycombinator.com/item?id=38531235) - [Mtn Dew using AI to find logos on twitch streams and reward streamers [pdf]](https://www.mountaindew.com/wp-content/uploads/2023/11/MTN-DEW-RAID-QA.pdf)
 * [2023-12-05, 14:34:40](https://news.ycombinator.com/item?id=38531219) - [Signal Facing Collapse After CIA Cuts Funding](https://kitklarenberg.substack.com/p/signal-facing-collapse-after-cia)
 * [2023-12-05, 14:32:12](https://news.ycombinator.com/item?id=38531181) - [Termshark – A terminal UI for tshark, inspired by Wireshark](https://termshark.io/)
