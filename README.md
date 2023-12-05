@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:52:32](https://news.ycombinator.com/item?id=38530087) - [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
 * [2023-12-05, 12:45:04](https://news.ycombinator.com/item?id=38530043) - [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
 * [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
@@ -10,7 +11,6 @@
 * [2023-12-05, 07:00:21](https://news.ycombinator.com/item?id=38527876) - [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
 * [2023-12-05, 06:57:44](https://news.ycombinator.com/item?id=38527866) - [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2023-12-05, 05:26:36](https://news.ycombinator.com/item?id=38527437) - [Rest in Peace, Optane](https://specbranch.com/posts/rip-optane/)
-* [2023-12-05, 05:12:43](https://news.ycombinator.com/item?id=38527358) - [Designing a Symbol Layer (2021)](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
 * [2023-12-05, 04:00:28](https://news.ycombinator.com/item?id=38526948) - [Rage: Fast web framework compatible with Rails](https://github.com/rage-rb/rage)
 * [2023-12-05, 03:47:22](https://news.ycombinator.com/item?id=38526877) - [New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 * [2023-12-05, 02:34:55](https://news.ycombinator.com/item?id=38526349) - [Coding4Fun Hardware Boneyard – Using the CueCat with .NET (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
