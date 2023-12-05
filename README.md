@@ -17,7 +17,6 @@
 * [2023-12-05, 00:49:35](https://news.ycombinator.com/item?id=38525583) - [Common Rust Lifetime Misconceptions (2020)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 * [2023-12-04, 22:17:12](https://news.ycombinator.com/item?id=38523961) - [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
-* [2023-12-04, 19:34:56](https://news.ycombinator.com/item?id=38521998) - [Show HN: Demo of Agent Based Model on GPU with CUDA and OpenGL (Windows/Linux)](https://github.com/KienTTran/ABMGPU)
 * [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
 * [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
 * [2023-12-04, 16:26:55](https://news.ycombinator.com/item?id=38519257) - [A decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
@@ -28,6 +27,7 @@
 * [2023-12-04, 08:35:46](https://news.ycombinator.com/item?id=38515004) - [Understanding Keyboard Events Better](https://rugu.dev/en/blog/understanding-keyboard-events/)
 * [2023-12-04, 07:39:53](https://news.ycombinator.com/item?id=38514632) - [A Decade of Have I Been Pwned](https://www.troyhunt.com/a-decade-of-have-i-been-pwned/)
 * [2023-12-04, 05:57:23](https://news.ycombinator.com/item?id=38514138) - [History's most famous pot: the Meidias hydria](https://www.britishmuseum.org/blog/historys-most-famous-pot-meidias-hydria)
+* [2023-12-04, 05:56:47](https://news.ycombinator.com/item?id=38514137) - [Study of ancient British oral microbiomes reveals shift following Black Death](https://www.psu.edu/news/research/story/study-ancient-british-oral-microbiomes-reveals-shift-following-black-death/)
 * [2023-12-04, 05:53:15](https://news.ycombinator.com/item?id=38514121) - [Why Unix kernels have grown caches for directory entries ('name caches')](https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy)
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
 
