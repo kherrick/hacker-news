@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
 * [2023-12-05, 12:00:32](https://news.ycombinator.com/item?id=38529784) - [GiveCampus (YC S15) Is Hiring Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 * [2023-12-05, 07:19:10](https://news.ycombinator.com/item?id=38527965) - [23andMe confirms hackers stole ancestry data on 6.9M users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
@@ -15,11 +16,11 @@
 * [2023-12-05, 01:47:42](https://news.ycombinator.com/item?id=38525968) - [Maelstrom: A workbench for learning distributed systems](https://github.com/jepsen-io/maelstrom)
 * [2023-12-05, 01:31:14](https://news.ycombinator.com/item?id=38525867) - [EHTML Docs](https://e-html.org/html/documentation.html)
 * [2023-12-05, 00:57:56](https://news.ycombinator.com/item?id=38525655) - [Eclipse: The Demo that Sold 3D to Nintendo](https://gamehistory.org/eclipse-the-demo-that-sold-3d-to-nintendo/)
-* [2023-12-05, 00:49:35](https://news.ycombinator.com/item?id=38525583) - [Common Rust Lifetime Misconceptions (2020)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
+* [2023-12-04, 23:17:04](https://news.ycombinator.com/item?id=38524595) - [Towards accurate differential diagnosis with large language models](https://arxiv.org/abs/2312.00164)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
 * [2023-12-04, 17:52:55](https://news.ycombinator.com/item?id=38520487) - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
-* [2023-12-04, 16:28:09](https://news.ycombinator.com/item?id=38519277) - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
 * [2023-12-04, 13:26:23](https://news.ycombinator.com/item?id=38516913) - [Vialibri: Physical Book Meta Search Engine](https://www.vialibri.net/)
+* [2023-12-04, 13:21:49](https://news.ycombinator.com/item?id=38516879) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
 * [2023-12-04, 11:35:13](https://news.ycombinator.com/item?id=38516038) - [NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)
 * [2023-12-04, 11:05:27](https://news.ycombinator.com/item?id=38515878) - [The formation and early years of Symbian: Dark Star (2010)](https://www.theregister.com/2010/11/23/symbian_history_part_one_dark_star/)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Maths and science animations (2018)](https://blog.matthen.com)
@@ -29,7 +30,6 @@
 * [2023-12-04, 05:56:47](https://news.ycombinator.com/item?id=38514137) - [Study of ancient British oral microbiomes reveals shift following Black Death](https://www.psu.edu/news/research/story/study-ancient-british-oral-microbiomes-reveals-shift-following-black-death/)
 * [2023-12-04, 05:53:15](https://news.ycombinator.com/item?id=38514121) - [Why Unix kernels have grown caches for directory entries ('name caches')](https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy)
 * [2023-12-04, 05:36:53](https://news.ycombinator.com/item?id=38514047) - [As Nepali villages modernize, mokha art is on the verge of disappearing](https://globalvoices.org/2023/12/01/as-nepali-villages-modernize-mokha-art-is-on-the-verge-of-disappearing/)
-* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 
