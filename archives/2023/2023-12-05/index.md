@@ -11,6 +11,7 @@
 * [2023-12-05, 18:18:12](https://news.ycombinator.com/item?id=38534810) - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
 * [2023-12-05, 17:34:54](https://news.ycombinator.com/item?id=38534109) - [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 * [2023-12-05, 17:23:45](https://news.ycombinator.com/item?id=38533901) - [IBM and Meta Launch Open AI Alliance with over 50 Founding Members](https://ai.meta.com/blog/ai-alliance/)
+* [2023-12-05, 17:15:05](https://news.ycombinator.com/item?id=38533767) - [Ask HN: Why is it taken for granted that LLM models will keep improving?](https://news.ycombinator.com/item?id=38533767)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21, Open Source Datadog) Is Hiring SREs(Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-12-05, 16:55:38](https://news.ycombinator.com/item?id=38533451) - [Cory Doctorow: Freeing Ourselves from the Clutches of Big Tech](https://www.noemamag.com/freeing-ourselves-from-the-clutches-of-big-tech/)
 * [2023-12-05, 16:40:26](https://news.ycombinator.com/item?id=38533213) - [Tampermonkey: Dev Mode will become mandatory for running userscripts in Chromium](https://www.tampermonkey.net/changelog.php?locale=en&more=false&show=dhdg)
