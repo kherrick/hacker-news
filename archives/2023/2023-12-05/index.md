@@ -7,6 +7,7 @@
 * [2023-12-05, 18:39:42](https://news.ycombinator.com/item?id=38535108) - [Checkmate 19\" IPS Retro Monitor](https://www.checkmate1500plus.com/)
 * [2023-12-05, 18:31:34](https://news.ycombinator.com/item?id=38534992) - [Early On-Demand Music Streaming Required Lots of Nickels – Atlas Obscura](https://www.atlasobscura.com/articles/shyvers-multiphone)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
+* [2023-12-05, 18:18:12](https://news.ycombinator.com/item?id=38534810) - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
 * [2023-12-05, 17:34:54](https://news.ycombinator.com/item?id=38534109) - [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 * [2023-12-05, 17:23:45](https://news.ycombinator.com/item?id=38533901) - [IBM and Meta Launch Open AI Alliance with over 50 Founding Members](https://ai.meta.com/blog/ai-alliance/)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21, Open Source Datadog) Is Hiring SREs(Remote)](https://signoz.io/careers/site-reliability-engineer/)
