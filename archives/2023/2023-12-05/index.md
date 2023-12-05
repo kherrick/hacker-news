@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 13:46:53](https://news.ycombinator.com/item?id=38530597) - [My Fediverse use – I'm hosting everything myself – PeerTube, Mastodon and Lemmy](https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC)
+* [2023-12-05, 13:33:30](https://news.ycombinator.com/item?id=38530466) - [Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
+* [2023-12-05, 13:24:12](https://news.ycombinator.com/item?id=38530382) - [State of Mozilla](https://stateof.mozilla.org/#)
+* [2023-12-05, 13:22:45](https://news.ycombinator.com/item?id=38530367) - [Steam client drops support on macOS, but adds it on Linux](https://www.theregister.com/2023/12/04/steam_mac_lin_changes/)
 * [2023-12-05, 13:21:54](https://news.ycombinator.com/item?id=38530357) - [The pandemic's toll on schooling emerges in terrible exam results](https://www.economist.com/international/2023/12/05/the-pandemics-toll-on-schooling-emerges-in-terrible-exam-results)
 * [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:52:32](https://news.ycombinator.com/item?id=38530087) - [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
