@@ -70,6 +70,7 @@
 * [2023-12-04, 11:02:20](https://news.ycombinator.com/item?id=38515863) - [Spotify cuts almost 1,600 jobs amid rising costs](https://www.theguardian.com/technology/2023/dec/04/spotify-cut-jobs-amid-rising)
 * [2023-12-04, 10:47:02](https://news.ycombinator.com/item?id=38515779) - [HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 10:13:57](https://news.ycombinator.com/item?id=38515563) - [Leaving F-Droid](https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d)
+* [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com)
 * [2023-12-04, 08:58:58](https://news.ycombinator.com/item?id=38515123) - [Spotify to axe 1,500 workers to save costs](https://www.bbc.com/news/business-67611361)
 * [2023-12-04, 08:51:42](https://news.ycombinator.com/item?id=38515082) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 07:49:13](https://news.ycombinator.com/item?id=38514700) - [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)

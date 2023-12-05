@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 02:34:55](https://news.ycombinator.com/item?id=38526349) - [Before QR Codes, there was the CueCat (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 * [2023-12-05, 02:27:48](https://news.ycombinator.com/item?id=38526277) - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
 * [2023-12-05, 01:49:15](https://news.ycombinator.com/item?id=38525978) - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-12-05, 01:26:43](https://news.ycombinator.com/item?id=38525825) - [Ask HN: Where do you live? What's good or bad about it?](https://news.ycombinator.com/item?id=38525825)
