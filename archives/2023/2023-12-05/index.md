@@ -6,6 +6,7 @@
 
 * [2023-12-05, 20:55:34](https://news.ycombinator.com/item?id=38536778) - [Lena (MMAcevedo, the earliest executable image of a human brain)](https://qntm.org/mmacevedo)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
+* [2023-12-05, 20:25:14](https://news.ycombinator.com/item?id=38536464) - [Google Season of Docs announces results of 2023 program](https://opensource.googleblog.com/2023/12/google-season-of-docs-announces-results-2023.html)
 * [2023-12-05, 20:19:19](https://news.ycombinator.com/item?id=38536396) - [X is now licensed for payment processing in a dozen U.S. states](https://techcrunch.com/2023/12/05/x-is-now-licensed-for-payment-processing-in-a-dozen-u-s-states/)
 * [2023-12-05, 19:53:37](https://news.ycombinator.com/item?id=38536090) - [Mycroft](https://mycroftproject.com/)
 * [2023-12-05, 19:41:26](https://news.ycombinator.com/item?id=38535915) - [Revisiting Persistent Bitcoin Criticisms [pdf]](https://www.fidelitydigitalassets.com/sites/default/files/documents/1110227.1.0%20Fidelity%20Digital%20Assets%20-%20Revisiting%20Persistent%20Bitcoin%20Criticisms%20%2811.02%29.pdf)
