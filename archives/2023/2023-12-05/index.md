@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 07:00:13](https://news.ycombinator.com/item?id=38527875) - [Bits (YC S20) is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
 * [2023-12-05, 05:30:11](https://news.ycombinator.com/item?id=38527458) - [Almost 100k Google employees are about to get a hard-fought $20](https://www.sfgate.com/tech/article/google-confidentiality-settlement-workers-pay-18532568.php)
 * [2023-12-05, 05:26:36](https://news.ycombinator.com/item?id=38527437) - [Rest in Peace, Optane – Speculative Branches](https://specbranch.com/posts/rip-optane/)
 * [2023-12-05, 05:24:28](https://news.ycombinator.com/item?id=38527429) - [Bitcoin Core 26.0](https://github.com/bitcoin/bitcoin/releases/tag/v26.0)

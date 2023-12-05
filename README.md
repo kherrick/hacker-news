@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-05, 05:30:11](https://news.ycombinator.com/item?id=38527458) - [Almost 100k Google employees are about to get a hard-fought $20](https://www.sfgate.com/tech/article/google-confidentiality-settlement-workers-pay-18532568.php)
-* [2023-12-05, 05:26:36](https://news.ycombinator.com/item?id=38527437) - [Rest in Peace, Optane – Speculative Branches](https://specbranch.com/posts/rip-optane/)
-* [2023-12-05, 05:24:28](https://news.ycombinator.com/item?id=38527429) - [Bitcoin Core 26.0](https://github.com/bitcoin/bitcoin/releases/tag/v26.0)
-* [2023-12-05, 05:12:43](https://news.ycombinator.com/item?id=38527358) - [Designing a Symbol Layer](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
+* [2023-12-05, 07:00:13](https://news.ycombinator.com/item?id=38527875) - [Bits (YC S20) is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
+* [2023-12-05, 05:26:36](https://news.ycombinator.com/item?id=38527437) - [Rest in Peace, Optane](https://specbranch.com/posts/rip-optane/)
+* [2023-12-05, 05:12:43](https://news.ycombinator.com/item?id=38527358) - [Designing a Symbol Layer (2021)](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
+* [2023-12-05, 04:03:19](https://news.ycombinator.com/item?id=38526963) - [Add oil](https://en.wikipedia.org/wiki/Add_oil)
 * [2023-12-05, 04:00:28](https://news.ycombinator.com/item?id=38526948) - [Rage: Fast web framework compatible with Rails](https://github.com/rage-rb/rage)
 * [2023-12-05, 03:47:22](https://news.ycombinator.com/item?id=38526877) - [New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
 * [2023-12-05, 03:26:15](https://news.ycombinator.com/item?id=38526745) - [When Google Fiber abandons your city as a failed experiment (2019)](https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198)
