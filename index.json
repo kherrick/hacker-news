@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-12-05, 00:49:35",
+      "https://news.ycombinator.com/item?id=38525583"
+    ],
+    [
+      "Common Rust Lifetime Misconceptions",
+      "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 23:17:22",
       "https://news.ycombinator.com/item?id=38524599"
     ],
     [
-      "System-wide Open Source Ad Blocker for Mac, Windows, and Linux",
+      "System-wide open source ad blocker for Mac, Windows, and Linux",
       "https://github.com/anfragment/zen"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38524595"
     ],
     [
-      "Towards Accurate Differential Diagnosis with Large Language Models",
+      "Towards accurate differential diagnosis with large language models",
       "https://arxiv.org/abs/2312.00164"
     ]
   ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2023-12-04, 22:04:50",
-      "https://news.ycombinator.com/item?id=38523805"
+      "2023-12-04, 22:17:12",
+      "https://news.ycombinator.com/item?id=38523961"
     ],
     [
-      "Dietary fiber intake and all-cause and cause-specific mortality",
-      "https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext"
+      "The Norway Model: How the Scandinavian country became a literary powerhouse",
+      "https://www.thedial.world/issue-10/norway-literary-scene"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2023-12-04, 15:31:34",
-      "https://news.ycombinator.com/item?id=38518473"
-    ],
-    [
-      "A study of Google's code review tooling (Critique)",
-      "https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 14:20:37",
       "https://news.ycombinator.com/item?id=38517550"
     ],
     [
       "Ousted propaganda scholar accuses Harvard of bowing to Meta",
       "https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 13:44:49",
-      "https://news.ycombinator.com/item?id=38517099"
-    ],
-    [
-      "Django 5.0",
-      "https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2023-12-04, 04:27:48",
-      "https://news.ycombinator.com/item?id=38513752"
+      "2023-12-04, 05:57:23",
+      "https://news.ycombinator.com/item?id=38514138"
     ],
     [
-      "Magnetic Cores – Part I (1961) [video]",
-      "https://www.youtube.com/watch?v=HPT7Wtp3yoo"
+      "History's most famous pot: the Meidias hydria",
+      "https://www.britishmuseum.org/blog/historys-most-famous-pot-meidias-hydria"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Now I can just print that video",
       "https://blog.forret.com/2023/12/01/printthatvideo/"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 06:34:22",
+      "https://news.ycombinator.com/item?id=38505316"
+    ],
+    [
+      "Films that made people emigrate",
+      "https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate"
     ]
   ],
   [
