@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-12-04, 05:53:15",
+      "https://news.ycombinator.com/item?id=38514121"
+    ],
+    [
+      "Why Unix kernels have grown caches for directory entries ('name caches')",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 03:44:12",
       "https://news.ycombinator.com/item?id=38513501"
     ],
@@ -277,16 +287,6 @@
     [
       "A minimum complete tutorial of Linux ext4 file system (2017)",
       "https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 23:44:47",
-      "https://news.ycombinator.com/item?id=38511991"
-    ],
-    [
-      "Laser cutting of an electrical steel sheet using a fuzzy logic controller",
-      "https://www.mdpi.com/2227-7390/11/23/4769"
     ]
   ],
   [
