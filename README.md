@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 03:02:34](https://news.ycombinator.com/item?id=38526579) - [Study shows inoculating soil with mycorrhizal fungi can increase yield by 40%](https://phys.org/news/2023-11-inoculating-soil-mycorrhizal-fungi-yield.html)
 * [2023-12-05, 02:34:55](https://news.ycombinator.com/item?id=38526349) - [Before QR Codes, there was the CueCat (2006)](https://www.hanselman.com/blog/coding4fun-hardware-boneyard-using-the-cuecat-with-net)
 * [2023-12-05, 02:27:48](https://news.ycombinator.com/item?id=38526277) - [Chrome.userScripts API requires developer mode](https://developer.chrome.com/docs/extensions/reference/api/userScripts)
 * [2023-12-05, 01:49:15](https://news.ycombinator.com/item?id=38525978) - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
@@ -11,7 +12,6 @@
 * [2023-12-04, 22:58:02](https://news.ycombinator.com/item?id=38524372) - [2023 WebMD Wrapped](https://www.mcsweeneys.net/articles/your-2023-webmd-wrapped)
 * [2023-12-04, 22:17:12](https://news.ycombinator.com/item?id=38523961) - [The Norway Model: How the Scandinavian country became a literary powerhouse](https://www.thedial.world/issue-10/norway-literary-scene)
 * [2023-12-04, 21:56:15](https://news.ycombinator.com/item?id=38523704) - [YouTuber sentenced to 6 months in prison for obstructing probe into plane crash](https://www.justice.gov/usao-cdca/pr/santa-barbara-county-man-sentenced-6-months-prison-obstructing-federal-probe-plane)
-* [2023-12-04, 20:30:31](https://news.ycombinator.com/item?id=38522616) - [High blood pressure may contribute to cognitive decline](https://www.nih.gov/news-events-news-releases/salty-immune-cells-surrounding-brain-linked-hypertension-induced-dementia)
 * [2023-12-04, 19:46:08](https://news.ycombinator.com/item?id=38522142) - [Minnesota middle school students 'seem happy' after cellphone ban](https://www.newsnationnow.com/us-news/education/minnesota-middle-cellphone-ban/)
 * [2023-12-04, 19:34:56](https://news.ycombinator.com/item?id=38521998) - [Show HN: Demo of Agent Based Model on GPU with CUDA and OpenGL (Windows/Linux)](https://github.com/KienTTran/ABMGPU)
 * [2023-12-04, 18:21:47](https://news.ycombinator.com/item?id=38520901) - [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
@@ -29,7 +29,7 @@
 * [2023-12-04, 05:53:15](https://news.ycombinator.com/item?id=38514121) - [Why Unix kernels have grown caches for directory entries ('name caches')](https://utcc.utoronto.ca/~cks/space/blog/unix/KernelNameCachesWhy)
 * [2023-12-04, 03:44:12](https://news.ycombinator.com/item?id=38513501) - [Pragmatic Versioning – An Alternative to Semver](https://github.com/seveibar/pragmaticversioning)
 * [2023-12-04, 03:25:44](https://news.ycombinator.com/item?id=38513402) - [A minimum complete tutorial of Linux ext4 file system (2017)](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
-* [2023-12-03, 06:34:22](https://news.ycombinator.com/item?id=38505316) - [Films that made people emigrate](https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate)
+* [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
 
 ## [Archives](archives/index.md)
 
