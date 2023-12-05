@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-05, 12:32:16",
+      "https://news.ycombinator.com/item?id=38529977"
+    ],
+    [
+      "The Time Julius Caesar Was Captured by Pirates",
+      "https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 12:00:32",
       "https://news.ycombinator.com/item?id=38529784"
     ],
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2023-12-05, 00:49:35",
-      "https://news.ycombinator.com/item?id=38525583"
+      "2023-12-04, 23:17:04",
+      "https://news.ycombinator.com/item?id=38524595"
     ],
     [
-      "Common Rust Lifetime Misconceptions (2020)",
-      "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md"
+      "Towards accurate differential diagnosis with large language models",
+      "https://arxiv.org/abs/2312.00164"
     ]
   ],
   [
@@ -181,22 +191,22 @@
   ],
   [
     [
-      "2023-12-04, 16:28:09",
-      "https://news.ycombinator.com/item?id=38519277"
-    ],
-    [
-      "Forecasts need to have error bars",
-      "https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/"
-    ]
-  ],
-  [
-    [
       "2023-12-04, 13:26:23",
       "https://news.ycombinator.com/item?id=38516913"
     ],
     [
       "Vialibri: Physical Book Meta Search Engine",
       "https://www.vialibri.net/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 13:21:49",
+      "https://news.ycombinator.com/item?id=38516879"
+    ],
+    [
+      "From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source",
+      "https://corecursive.com/vue-with-evan-you/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "As Nepali villages modernize, mokha art is on the verge of disappearing",
       "https://globalvoices.org/2023/12/01/as-nepali-villages-modernize-mokha-art-is-on-the-verge-of-disappearing/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 06:08:29",
-      "https://news.ycombinator.com/item?id=38505211"
-    ],
-    [
-      "LLM Visualization",
-      "https://bbycroft.net/llm"
     ]
   ]
 ]
