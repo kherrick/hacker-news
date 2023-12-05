@@ -76,6 +76,7 @@
 * [2023-12-04, 10:13:57](https://news.ycombinator.com/item?id=38515563) - [Leaving F-Droid](https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d)
 * [2023-12-04, 09:41:45](https://news.ycombinator.com/item?id=38515387) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com)
 * [2023-12-04, 09:36:30](https://news.ycombinator.com/item?id=38515351) - [Starring the Computer](http://starringthecomputer.com/)
+* [2023-12-04, 09:13:17](https://news.ycombinator.com/item?id=38515211) - [Human mobility networks reveal increased segregation in large cities](https://www.nature.com/articles/s41586-023-06757-3)
 * [2023-12-04, 08:58:58](https://news.ycombinator.com/item?id=38515123) - [Spotify to axe 1,500 workers to save costs](https://www.bbc.com/news/business-67611361)
 * [2023-12-04, 08:51:42](https://news.ycombinator.com/item?id=38515082) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 08:35:46](https://news.ycombinator.com/item?id=38515004) - [Understanding Keyboard Events Better](https://rugu.dev/en/blog/understanding-keyboard-events/)

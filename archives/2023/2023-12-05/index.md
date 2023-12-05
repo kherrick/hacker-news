@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 13:21:54](https://news.ycombinator.com/item?id=38530357) - [The pandemic's toll on schooling emerges in terrible exam results](https://www.economist.com/international/2023/12/05/the-pandemics-toll-on-schooling-emerges-in-terrible-exam-results)
 * [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:52:32](https://news.ycombinator.com/item?id=38530087) - [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
 * [2023-12-05, 12:45:04](https://news.ycombinator.com/item?id=38530043) - [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
