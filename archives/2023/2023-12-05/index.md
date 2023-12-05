@@ -44,6 +44,7 @@
 * [2023-12-05, 07:00:21](https://news.ycombinator.com/item?id=38527876) - [Why does Gnome fingerprint unlock not unlock the keyring?](https://mjg59.dreamwidth.org/68537.html)
 * [2023-12-05, 07:00:13](https://news.ycombinator.com/item?id=38527875) - [Bits (YC S20) is hiring a finance and analytics manager in London](https://www.ycombinator.com/companies/bits/jobs/cC85dw9-finance-analytics-manager)
 * [2023-12-05, 06:57:44](https://news.ycombinator.com/item?id=38527866) - [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
+* [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the Historical Rate of Catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
 * [2023-12-05, 05:30:11](https://news.ycombinator.com/item?id=38527458) - [Almost 100k Google employees are about to get a hard-fought $20](https://www.sfgate.com/tech/article/google-confidentiality-settlement-workers-pay-18532568.php)
 * [2023-12-05, 05:26:36](https://news.ycombinator.com/item?id=38527437) - [Rest in Peace, Optane – Speculative Branches](https://specbranch.com/posts/rip-optane/)
 * [2023-12-05, 05:24:28](https://news.ycombinator.com/item?id=38527429) - [Bitcoin Core 26.0](https://github.com/bitcoin/bitcoin/releases/tag/v26.0)
