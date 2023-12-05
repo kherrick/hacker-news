@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-05, 18:39:42](https://news.ycombinator.com/item?id=38535108) - [Checkmate 19\" IPS Retro Monitor](https://www.checkmate1500plus.com/)
+* [2023-12-05, 18:31:34](https://news.ycombinator.com/item?id=38534992) - [Early On-Demand Music Streaming Required Lots of Nickels – Atlas Obscura](https://www.atlasobscura.com/articles/shyvers-multiphone)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 * [2023-12-05, 17:34:54](https://news.ycombinator.com/item?id=38534109) - [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21, Open Source Datadog) Is Hiring SREs(Remote)](https://signoz.io/careers/site-reliability-engineer/)
@@ -27,8 +28,7 @@
 * [2023-12-05, 07:26:00](https://news.ycombinator.com/item?id=38528005) - [Seven Escaped Chimpanzees](https://www.theguardian.com/world/2023/dec/05/one-swedish-zoo-seven-escaped-chimpanzees)
 * [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the Historical Rate of Catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
 * [2023-12-05, 06:26:24](https://news.ycombinator.com/item?id=38527719) - [Russell's Paradox of Ghostwriters](https://statmodeling.stat.columbia.edu/2023/12/01/russells-paradox-of-ghostwriters/)
-* [2023-12-05, 03:47:22](https://news.ycombinator.com/item?id=38526877) - [New theory claims to unite Einstein's gravity with quantum mechanics](https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html)
-* [2023-12-04, 13:21:49](https://news.ycombinator.com/item?id=38516879) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
+* [2023-12-04, 12:32:12](https://news.ycombinator.com/item?id=38516475) - [The Languages of Media – Advertising Techniques](https://books.lib.uoguelph.ca/languagesofmedia/chapter/chapter-7-public-interventions/)
 * [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Play and learn how a nuclear plant works](https://dalton-nrs.manchester.ac.uk/)
 
 ## [Archives](archives/index.md)
