@@ -88,6 +88,7 @@
 * [2023-12-03, 09:13:14](https://news.ycombinator.com/item?id=38505856) - [George Wald: The Origin of Death (1970)](https://www.elijahwald.com/origin.html)
 * [2023-12-03, 07:37:41](https://news.ycombinator.com/item?id=38505530) - [Intuitive guide to convolution](https://betterexplained.com/articles/intuitive-convolution/)
 * [2023-12-03, 06:38:23](https://news.ycombinator.com/item?id=38505325) - [Decoding the Gun-Wielding Angels of Bolivia](https://www.atlasobscura.com/articles/angels-with-guns-angeles-arcabuceros-peru-bolivia)
+* [2023-12-03, 06:34:22](https://news.ycombinator.com/item?id=38505316) - [Films that made people emigrate](https://www.theguardian.com/film/2023/dec/02/i-left-the-cinema-walked-home-and-announced-i-was-moving-films-that-made-people-emigrate)
 * [2023-12-03, 06:15:34](https://news.ycombinator.com/item?id=38505240) - [WikiReader](https://en.wikipedia.org/wiki/WikiReader)
 * [2023-12-03, 06:12:56](https://news.ycombinator.com/item?id=38505229) - [Simple Mobile Tools suite to be acquired by Israeli adware company](https://github.com/SimpleMobileTools/General-Discussion/issues/241)
 * [2023-12-03, 06:08:29](https://news.ycombinator.com/item?id=38505211) - [LLM Visualization](https://bbycroft.net/llm)
