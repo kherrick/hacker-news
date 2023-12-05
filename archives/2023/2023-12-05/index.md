@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 12:52:32](https://news.ycombinator.com/item?id=38530087) - [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
+* [2023-12-05, 12:45:04](https://news.ycombinator.com/item?id=38530043) - [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
 * [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
+* [2023-12-05, 12:23:49](https://news.ycombinator.com/item?id=38529930) - [Notes on Python to Go Translation of reposurgeon (2018)](https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc)
+* [2023-12-05, 12:07:49](https://news.ycombinator.com/item?id=38529840) - [Supreme Court hears a case that experts say could wreak havoc on the tax code](https://www.npr.org/2023/12/05/1216859366/supreme-court-tax-code)
 * [2023-12-05, 12:00:32](https://news.ycombinator.com/item?id=38529784) - [GiveCampus (YC S15) Is Hiring Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-12-05, 09:13:31](https://news.ycombinator.com/item?id=38528554) - [Why Windows Is So Much Better in the EU [video]](https://www.youtube.com/watch?v=FOQeKeKNXLU)
 * [2023-12-05, 09:07:09](https://news.ycombinator.com/item?id=38528514) - [Thieves return Android phone when they realize it's not an iPhone](https://9to5mac.com/2023/12/04/stolen-android-phone-returned-iphone/)
