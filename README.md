@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-05, 19:53:37](https://news.ycombinator.com/item?id=38536090) - [Mycroft](https://mycroftproject.com/)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
-* [2023-12-05, 17:15:05](https://news.ycombinator.com/item?id=38533767) - [Ask HN: Why is it taken for granted that LLM models will keep improving?](https://news.ycombinator.com/item?id=38533767)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21), Open Source Datadog, Is Hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-12-05, 16:33:58](https://news.ycombinator.com/item?id=38533105) - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 * [2023-12-05, 16:23:23](https://news.ycombinator.com/item?id=38532914) - [Show HN: Desert Atlas, a Fully Self-Hosted OpenStreetMap App for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
