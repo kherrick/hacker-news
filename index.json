@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-12-05, 23:11:04",
-      "https://news.ycombinator.com/item?id=38538236"
+      "2023-12-06, 00:58:14",
+      "https://news.ycombinator.com/item?id=38539174"
     ],
     [
-      "Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?",
-      "https://drhyperion451.github.io/does-uBO-bypass-yt/"
+      "Russ Cox: Go Testing by Example",
+      "https://research.swtch.com/testing"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 00:24:48",
+      "https://news.ycombinator.com/item?id=38538886"
+    ],
+    [
+      "Thermoelectric Heating Comes in from the Cold",
+      "https://spectrum.ieee.org/thermoelectric-heating"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 23:38:48",
+      "https://news.ycombinator.com/item?id=38538487"
+    ],
+    [
+      "High-Scale AI/ML Feature Serving at Low Cost with Caching",
+      "https://www.tecton.ai/blog/high-scale-feature-serving-at-low-cost-with-caching-machine-learning/"
     ]
   ],
   [
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2023-12-05, 17:41:32",
+      "https://news.ycombinator.com/item?id=38534227"
+    ],
+    [
+      "Why 3M stopped making floppy disks in the '90s",
+      "https://tedium.co/2023/11/17/3m-floppy-disks-history/"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 17:00:53",
       "https://news.ycombinator.com/item?id=38533533"
     ],
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2023-12-05, 16:12:21",
-      "https://news.ycombinator.com/item?id=38532746"
-    ],
-    [
-      "The challenges of supporting foreign key constraints",
-      "https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 16:01:38",
-      "https://news.ycombinator.com/item?id=38532593"
-    ],
-    [
-      "Launch HN: Openlayer (YC S21) – Testing and Evaluation for AI",
-      "https://news.ycombinator.com/item?id=38532593"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 15:33:23",
       "https://news.ycombinator.com/item?id=38532167"
     ],
@@ -187,16 +197,6 @@
     [
       "How does Shazam work? (2022)",
       "https://www.cameronmacleod.com/blog/how-does-shazam-work"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 14:32:12",
-      "https://news.ycombinator.com/item?id=38531181"
-    ],
-    [
-      "Termshark – A terminal UI for tshark, inspired by Wireshark",
-      "https://termshark.io/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-12-05, 06:32:12",
-      "https://news.ycombinator.com/item?id=38527754"
+      "2023-12-05, 09:01:10",
+      "https://news.ycombinator.com/item?id=38528477"
     ],
     [
-      "Analyzing the historical rate of catastrophes",
-      "https://bounded-regret.ghost.io/base-rates-of-catastrophes/"
+      "When would you ever want bubblesort?",
+      "https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/"
     ]
   ],
   [
