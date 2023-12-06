@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
 * [2023-12-06, 17:01:07](https://news.ycombinator.com/item?id=38546478) - [Polymath Robotics (YC S22) Is Hiring Robotics Safety Engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
 * [2023-12-06, 16:34:01](https://news.ycombinator.com/item?id=38546121) - [Flickypedia helps you put Flickr photos on Wikimedia Commons](https://www.flickr.org/tools/flickypedia/)
 * [2023-12-06, 16:31:38](https://news.ycombinator.com/item?id=38546079) - [Gold Prices Are Hitting Records](https://www.wsj.com/finance/commodities-futures/why-gold-prices-are-hitting-records-5772ec5f)
@@ -11,6 +12,7 @@
 * [2023-12-06, 16:14:29](https://news.ycombinator.com/item?id=38545850) - [Microsoft Will Eventually Start Charging You for Windows 10 Security Updates](https://gizmodo.com/microsfot-windows-10-charging-2025-1851074975)
 * [2023-12-06, 16:10:23](https://news.ycombinator.com/item?id=38545784) - [JetBrains AI](https://www.jetbrains.com/ai/)
 * [2023-12-06, 15:56:30](https://news.ycombinator.com/item?id=38545538) - [Show HN: Winglang – a new Cloud-Oriented programming language](https://github.com/winglang/wing)
+* [2023-12-06, 15:48:44](https://news.ycombinator.com/item?id=38545417) - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 * [2023-12-06, 15:44:49](https://news.ycombinator.com/item?id=38545341) - [Getting Started with Axum – Rust's Most Popular Web Framework](https://www.shuttle.rs/blog/2023/12/06/using-axum-rust)
 * [2023-12-06, 15:35:41](https://news.ycombinator.com/item?id=38545207) - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
 * [2023-12-06, 15:23:52](https://news.ycombinator.com/item?id=38545022) - [Just about every Windows/Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
