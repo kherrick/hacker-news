@@ -11,6 +11,7 @@
 * [2023-12-06, 15:56:30](https://news.ycombinator.com/item?id=38545538) - [Show HN: Winglang – a new Cloud-Oriented programming language](https://github.com/winglang/wing)
 * [2023-12-06, 15:44:49](https://news.ycombinator.com/item?id=38545341) - [Getting Started with Axum – Rust's Most Popular Web Framework](https://www.shuttle.rs/blog/2023/12/06/using-axum-rust)
 * [2023-12-06, 15:35:41](https://news.ycombinator.com/item?id=38545207) - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
+* [2023-12-06, 15:23:52](https://news.ycombinator.com/item?id=38545022) - [Just about every Windows/Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-06, 15:10:46](https://news.ycombinator.com/item?id=38544824) - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 * [2023-12-06, 15:05:18](https://news.ycombinator.com/item?id=38544746) - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
