@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 03:25:42](https://news.ycombinator.com/item?id=38540178) - [Loco. The one-person framework for Rust for side-projects and startups](https://loco.rs/)
 * [2023-12-06, 02:13:54](https://news.ycombinator.com/item?id=38539741) - [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
