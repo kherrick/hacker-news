@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 18:53:26](https://news.ycombinator.com/item?id=38548002) - [Physicists Find Seemingly Impossible Magnets with Just One Pole](https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole)
 * [2023-12-06, 18:17:49](https://news.ycombinator.com/item?id=38547556) - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 * [2023-12-06, 17:49:57](https://news.ycombinator.com/item?id=38547203) - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
 * [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
@@ -18,7 +19,6 @@
 * [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
 * [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking Serverless with Flame](https://fly.io/blog/rethinking-serverless-with-flame/)
-* [2023-12-06, 07:21:08](https://news.ycombinator.com/item?id=38541272) - [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-05, 22:56:29](https://news.ycombinator.com/item?id=38538111) - [All my favorite tracing tools](https://thume.ca/2023/12/02/tracing-methods/)

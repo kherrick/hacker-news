@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 18:53:26](https://news.ycombinator.com/item?id=38548002) - [Physicists Find Seemingly Impossible Magnets with Just One Pole](https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole)
 * [2023-12-06, 18:17:49](https://news.ycombinator.com/item?id=38547556) - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 * [2023-12-06, 17:49:57](https://news.ycombinator.com/item?id=38547203) - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
 * [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
