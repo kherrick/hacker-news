@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 22:32:46](https://news.ycombinator.com/item?id=38550408) - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
 * [2023-12-06, 22:17:14](https://news.ycombinator.com/item?id=38550271) - [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
+* [2023-12-06, 22:15:34](https://news.ycombinator.com/item?id=38550257) - [Don't Fall for Big Oil's Carbon Capture Deceptions](https://www.scientificamerican.com/article/dont-fall-for-big-oils-carbon-capture-deceptions/)
 * [2023-12-06, 22:01:51](https://news.ycombinator.com/item?id=38550140) - [K-Cup creator John Sylvan regrets inventing Keurig coffee pod system](https://www.cbc.ca/news/business/k-cup-creator-john-sylvan-regrets-inventing-keurig-coffee-pod-system-1.2982660)
 * [2023-12-06, 21:50:34](https://news.ycombinator.com/item?id=38550026) - [Unveiling secrets of the ESP32: creating an open-source Mac layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
@@ -70,6 +72,7 @@
 * [2023-12-06, 06:29:48](https://news.ycombinator.com/item?id=38540999) - [Leaked document shows how Amazon amasses influence in the Inland Empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
 * [2023-12-06, 06:23:12](https://news.ycombinator.com/item?id=38540974) - [HP exec says quiet part out loud when it comes to locking in print customers](https://www.theregister.com/2023/12/04/hp_printer_lockin/)
 * [2023-12-06, 05:53:09](https://news.ycombinator.com/item?id=38540850) - [Microsoft's Copilot is getting OpenAI's latest models and a new code interpreter](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature)
+* [2023-12-06, 05:37:43](https://news.ycombinator.com/item?id=38540776) - [What shape is the universe? (2021)](https://www.astronomy.com/science/what-shape-is-the-universe/)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 05:26:05](https://news.ycombinator.com/item?id=38540738) - [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
