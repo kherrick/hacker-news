@@ -86,6 +86,7 @@
 * [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
 * [2023-12-05, 09:13:31](https://news.ycombinator.com/item?id=38528554) - [Why Windows Is So Much Better in the EU [video]](https://www.youtube.com/watch?v=FOQeKeKNXLU)
 * [2023-12-05, 09:07:09](https://news.ycombinator.com/item?id=38528514) - [Thieves return Android phone when they realize it's not an iPhone](https://9to5mac.com/2023/12/04/stolen-android-phone-returned-iphone/)
+* [2023-12-05, 09:02:48](https://news.ycombinator.com/item?id=38528488) - [\"Heaving oscillators\" use wave power to extend shipping range](https://newatlas.com/marine/heave-oscillators-wave-energy-ship/)
 * [2023-12-05, 09:02:33](https://news.ycombinator.com/item?id=38528484) - [Reminiscences from the end of the horse era in New York City (1952)](https://untappedcities.com/2022/02/21/horse-era-new-york-city/)
 * [2023-12-05, 09:01:10](https://news.ycombinator.com/item?id=38528477) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-05, 08:49:50](https://news.ycombinator.com/item?id=38528416) - [Infocom’s code-porting tools for Zork and other games have been found](https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/)
