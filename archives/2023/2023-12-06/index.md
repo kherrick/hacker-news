@@ -13,4 +13,5 @@
 * [2023-12-06, 00:58:14](https://news.ycombinator.com/item?id=38539174) - [Russ Cox: Go Testing by Example](https://research.swtch.com/testing)
 * [2023-12-06, 00:57:39](https://news.ycombinator.com/item?id=38539167) - [An Update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
 * [2023-12-06, 00:56:20](https://news.ycombinator.com/item?id=38539153) - [MLX: An array framework for Apple Silicon](https://github.com/ml-explore/mlx)
+* [2023-12-06, 00:40:44](https://news.ycombinator.com/item?id=38539020) - [MLX: NumPy like framework for Apple Silicon by Apple](https://ml-explore.github.io/mlx/build/html/index.html)
 * [2023-12-06, 00:24:48](https://news.ycombinator.com/item?id=38538886) - [Thermoelectric Heating Comes in from the Cold](https://spectrum.ieee.org/thermoelectric-heating)
