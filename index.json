@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=38548209"
     ],
     [
-      "Quad9 turns the Sony case around in Dresden",
+      "Quad9 wins appeal against Sony",
       "https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "OpenAI Switch Kit: Swap OpenAI with any open-source model",
       "https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 17:49:57",
-      "https://news.ycombinator.com/item?id=38547203"
-    ],
-    [
-      "W3C Leaves Twitter",
-      "https://w3c.social/@w3c/111534700276754588"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas",
       "https://github.com/CopilotKit/CopilotKit"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 15:23:52",
+      "https://news.ycombinator.com/item?id=38545022"
+    ],
+    [
+      "Just about every Windows/Linux device vulnerable to new LogoFAIL firmware attack",
+      "https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-12-05, 22:56:29",
-      "https://news.ycombinator.com/item?id=38538111"
-    ],
-    [
-      "All my favorite tracing tools",
-      "https://thume.ca/2023/12/02/tracing-methods/"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 20:06:59",
       "https://news.ycombinator.com/item?id=38536252"
     ],
@@ -247,6 +237,16 @@
     [
       "Operating Systems, Transit and Cultural Influences",
       "https://bentsukun.ch/posts/os-culture/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 11:22:42",
+      "https://news.ycombinator.com/item?id=38529522"
+    ],
+    [
+      "PostgreSQL and FIPS Mode",
+      "http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode"
     ]
   ],
   [
