@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+* [2023-12-06, 05:26:05](https://news.ycombinator.com/item?id=38540738) - [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 01:23:11](https://news.ycombinator.com/item?id=38539374) - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 * [2023-12-06, 00:58:14](https://news.ycombinator.com/item?id=38539174) - [Go Testing by Example [video]](https://research.swtch.com/testing)
@@ -20,7 +21,6 @@
 * [2023-12-05, 15:33:23](https://news.ycombinator.com/item?id=38532167) - [iMessage, explained](https://jjtech.dev/reverse-engineering/imessage-explained/)
 * [2023-12-05, 15:06:21](https://news.ycombinator.com/item?id=38531759) - [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/)
 * [2023-12-05, 14:44:39](https://news.ycombinator.com/item?id=38531428) - [How does Shazam work? (2022)](https://www.cameronmacleod.com/blog/how-does-shazam-work)
-* [2023-12-05, 14:10:12](https://news.ycombinator.com/item?id=38530885) - [Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
 * [2023-12-05, 13:29:47](https://news.ycombinator.com/item?id=38530428) - [Lessons from 5 years of running a tech meetup](https://davekiss.com/blog/12-lessons-from-5-years-of-running-a-tech-meetup)
 * [2023-12-05, 12:42:47](https://news.ycombinator.com/item?id=38530030) - [A peculiar fish and an evolutionary mystery](https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/)
 * [2023-12-05, 11:17:47](https://news.ycombinator.com/item?id=38529492) - [File Life](https://filelife.tours/)

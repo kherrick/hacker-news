@@ -6,6 +6,7 @@
 
 * [2023-12-06, 05:53:09](https://news.ycombinator.com/item?id=38540850) - [Microsoft's Copilot is getting OpenAI's latest models and a new code interpreter](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+* [2023-12-06, 05:26:05](https://news.ycombinator.com/item?id=38540738) - [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 03:25:42](https://news.ycombinator.com/item?id=38540178) - [Loco. The one-person framework for Rust for side-projects and startups](https://loco.rs/)
 * [2023-12-06, 02:13:54](https://news.ycombinator.com/item?id=38539741) - [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
