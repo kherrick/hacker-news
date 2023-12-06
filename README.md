@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 02:13:54](https://news.ycombinator.com/item?id=38539741) - [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
 * [2023-12-06, 01:23:11](https://news.ycombinator.com/item?id=38539374) - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 * [2023-12-06, 00:58:14](https://news.ycombinator.com/item?id=38539174) - [Go Testing by Example [video]](https://research.swtch.com/testing)
@@ -9,7 +10,6 @@
 * [2023-12-05, 22:41:09](https://news.ycombinator.com/item?id=38537933) - [Cognitive ability and miscalibrated financial expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
-* [2023-12-05, 17:41:32](https://news.ycombinator.com/item?id=38534227) - [Why 3M stopped making floppy disks in the '90s](https://tedium.co/2023/11/17/3m-floppy-disks-history/)
 * [2023-12-05, 17:00:53](https://news.ycombinator.com/item?id=38533533) - [SigNoz (YC W21), Open Source Datadog, Is Hiring SREs (Remote)](https://signoz.io/careers/site-reliability-engineer/)
 * [2023-12-05, 16:33:58](https://news.ycombinator.com/item?id=38533105) - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 * [2023-12-05, 16:23:23](https://news.ycombinator.com/item?id=38532914) - [Show HN: Desert Atlas, a self-hosted OpenStreetMap app for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
@@ -27,7 +27,7 @@
 * [2023-12-05, 09:21:39](https://news.ycombinator.com/item?id=38528595) - [A chess TUI implementation](https://github.com/thomas-mauran/chess-tui)
 * [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
 * [2023-12-05, 09:02:33](https://news.ycombinator.com/item?id=38528484) - [Reminiscences from the end of the horse era in New York City (1952)](https://untappedcities.com/2022/02/21/horse-era-new-york-city/)
-* [2023-12-05, 06:32:12](https://news.ycombinator.com/item?id=38527754) - [Analyzing the historical rate of catastrophes](https://bounded-regret.ghost.io/base-rates-of-catastrophes/)
+* [2023-12-05, 03:04:33](https://news.ycombinator.com/item?id=38526590) - [Distant stars spotted in the Magellanic Stream](https://phys.org/news/2023-11-distant-stars-vast-magellanic-stream.html)
 * [2023-12-05, 03:03:44](https://news.ycombinator.com/item?id=38526584) - [A mineral produced by plate tectonics has a global cooling effect, study finds](https://phys.org/news/2023-11-mineral-plate-tectonics-global-cooling.html)
 * [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)
 

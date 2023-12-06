@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 03:25:42](https://news.ycombinator.com/item?id=38540178) - [Loco. The one-person framework for Rust for side-projects and startups](https://loco.rs/)
 * [2023-12-06, 02:13:54](https://news.ycombinator.com/item?id=38539741) - [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
 * [2023-12-06, 01:23:11](https://news.ycombinator.com/item?id=38539374) - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
