@@ -24,12 +24,12 @@
 * [2023-12-05, 15:06:21](https://news.ycombinator.com/item?id=38531759) - [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/)
 * [2023-12-05, 14:44:39](https://news.ycombinator.com/item?id=38531428) - [How does Shazam work? (2022)](https://www.cameronmacleod.com/blog/how-does-shazam-work)
 * [2023-12-05, 13:17:44](https://news.ycombinator.com/item?id=38530309) - [Branchless Lomuto Partitioning](https://orlp.net/blog/branchless-lomuto-partitioning/)
-* [2023-12-05, 12:42:47](https://news.ycombinator.com/item?id=38530030) - [A peculiar fish and an evolutionary mystery](https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/)
 * [2023-12-05, 09:21:39](https://news.ycombinator.com/item?id=38528595) - [A chess TUI implementation](https://github.com/thomas-mauran/chess-tui)
 * [2023-12-05, 09:02:33](https://news.ycombinator.com/item?id=38528484) - [Reminiscences from the end of the horse era in New York City (1952)](https://untappedcities.com/2022/02/21/horse-era-new-york-city/)
 * [2023-12-05, 09:01:10](https://news.ycombinator.com/item?id=38528477) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors (2004)](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
 * [2023-12-05, 07:20:55](https://news.ycombinator.com/item?id=38527980) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
+* [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)
 
 ## [Archives](archives/index.md)
 
