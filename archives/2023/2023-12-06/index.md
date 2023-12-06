@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
 * [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
+* [2023-12-06, 21:00:02](https://news.ycombinator.com/item?id=38549388) - [Framework Laptop 16 Deep Dive – Connectors](https://frame.work/blog/framework-laptop-16-deep-dive---connectors)
 * [2023-12-06, 20:54:25](https://news.ycombinator.com/item?id=38549332) - [AI Is Becoming a Band-Aid over Bad, Broken Tech Industry Design Choices](https://www.scientificamerican.com/article/ai-is-becoming-a-band-aid-over-bad-broken-tech-industry-design-choices/)
 * [2023-12-06, 20:38:20](https://news.ycombinator.com/item?id=38549169) - [Fukuoka court rules ban on dual nationality is constitutional](https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/)
 * [2023-12-06, 20:21:54](https://news.ycombinator.com/item?id=38548969) - [Commuting time of more than 30 min one way linked to higher chance of depression](https://www.sciencedirect.com/science/article/pii/S2214140523001676)
