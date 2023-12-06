@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-06, 03:25:42",
-      "https://news.ycombinator.com/item?id=38540178"
-    ],
-    [
-      "Loco. The one-person framework for Rust for side-projects and startups",
-      "https://loco.rs/"
-    ]
-  ],
-  [
-    [
       "2023-12-06, 02:13:54",
       "https://news.ycombinator.com/item?id=38539741"
     ],
@@ -37,6 +27,16 @@
     [
       "Go Testing by Example [video]",
       "https://research.swtch.com/testing"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 00:57:39",
+      "https://news.ycombinator.com/item?id=38539167"
+    ],
+    [
+      "An update on Twitch in Korea",
+      "https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/"
     ]
   ],
   [
@@ -81,32 +81,12 @@
   ],
   [
     [
-      "2023-12-05, 19:08:07",
-      "https://news.ycombinator.com/item?id=38535472"
-    ],
-    [
-      "Catching Up with the Cosmopolitan Ecosystem",
-      "https://til.simonwillison.net/cosmopolitan/ecosystem"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 18:25:47",
       "https://news.ycombinator.com/item?id=38534920"
     ],
     [
       "Show HN: Dropbase – Build internal web apps with just Python",
       "https://github.com/DropbaseHQ/dropbase"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 17:41:32",
-      "https://news.ycombinator.com/item?id=38534227"
-    ],
-    [
-      "Why 3M stopped making floppy disks in the '90s",
-      "https://tedium.co/2023/11/17/3m-floppy-disks-history/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2023-12-05, 14:32:12",
+      "https://news.ycombinator.com/item?id=38531181"
+    ],
+    [
+      "Termshark – A terminal UI for tshark, inspired by Wireshark",
+      "https://termshark.io/"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 14:14:21",
       "https://news.ycombinator.com/item?id=38530948"
     ],
@@ -217,6 +207,16 @@
     [
       "Polish trains lock up when serviced in third-party workshops",
       "https://social.hackerspace.pl/@q3k/111528162462505087"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 13:43:24",
+      "https://news.ycombinator.com/item?id=38530565"
+    ],
+    [
+      "A Brainfuck interpreter written in PostScript",
+      "https://github.com/nst/bfps"
     ]
   ],
   [
