@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 13:06:45](https://news.ycombinator.com/item?id=38543322) - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
+* [2023-12-06, 12:58:36](https://news.ycombinator.com/item?id=38543230) - [Serbia grants citizenship to Steve Wozniak](https://www.b92.net/eng/news/business.php?yyyy=2023&mm=12&dd=06&nav_id=117200)
+* [2023-12-06, 12:58:29](https://news.ycombinator.com/item?id=38543229) - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 * [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
+* [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
 * [2023-12-06, 12:27:05](https://news.ycombinator.com/item?id=38542955) - [A Warning](https://www.theatlantic.com/magazine/archive/2024/01/warning-second-trump-term/676117/)
 * [2023-12-06, 12:21:29](https://news.ycombinator.com/item?id=38542892) - [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
+* [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking Serverless with Flame](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 10:45:55](https://news.ycombinator.com/item?id=38542330) - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
 * [2023-12-06, 10:23:23](https://news.ycombinator.com/item?id=38542238) - [Ask HN: What are some excellent blogs, news boards, YouTube channels to follow?](https://news.ycombinator.com/item?id=38542238)
 * [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
