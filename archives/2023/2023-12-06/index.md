@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 06:29:48](https://news.ycombinator.com/item?id=38540999) - [Leaked document shows how Amazon amasses influence in the Inland Empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
 * [2023-12-06, 05:53:09](https://news.ycombinator.com/item?id=38540850) - [Microsoft's Copilot is getting OpenAI's latest models and a new code interpreter](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 05:26:05](https://news.ycombinator.com/item?id=38540738) - [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
