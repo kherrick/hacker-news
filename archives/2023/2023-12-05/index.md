@@ -67,6 +67,7 @@
 * [2023-12-05, 13:22:45](https://news.ycombinator.com/item?id=38530367) - [Steam client drops support on macOS, but adds it on Linux](https://www.theregister.com/2023/12/04/steam_mac_lin_changes/)
 * [2023-12-05, 13:21:54](https://news.ycombinator.com/item?id=38530357) - [The pandemic's toll on schooling emerges in terrible exam results](https://www.economist.com/international/2023/12/05/the-pandemics-toll-on-schooling-emerges-in-terrible-exam-results)
 * [2023-12-05, 13:20:10](https://news.ycombinator.com/item?id=38530343) - [Show HN: SuperDuperDB – Open-source framework for integrating AI with databases](https://github.com/SuperDuperDB/superduperdb)
+* [2023-12-05, 13:17:44](https://news.ycombinator.com/item?id=38530309) - [Branchless Lomuto Partitioning](https://orlp.net/blog/branchless-lomuto-partitioning/)
 * [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:52:32](https://news.ycombinator.com/item?id=38530087) - [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
 * [2023-12-05, 12:45:04](https://news.ycombinator.com/item?id=38530043) - [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
