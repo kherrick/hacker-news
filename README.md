@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
 * [2023-12-06, 12:21:29](https://news.ycombinator.com/item?id=38542892) - [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
 * [2023-12-06, 10:45:55](https://news.ycombinator.com/item?id=38542330) - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
@@ -11,7 +12,6 @@
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 01:23:11](https://news.ycombinator.com/item?id=38539374) - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
-* [2023-12-06, 00:58:14](https://news.ycombinator.com/item?id=38539174) - [Go Testing by Example [video]](https://research.swtch.com/testing)
 * [2023-12-06, 00:56:20](https://news.ycombinator.com/item?id=38539153) - [MLX: An array framework for Apple Silicon](https://github.com/ml-explore/mlx)
 * [2023-12-06, 00:40:44](https://news.ycombinator.com/item?id=38539020) - [MLX: NumPy like framework for Apple Silicon by Apple](https://ml-explore.github.io/mlx/build/html/index.html)
 * [2023-12-06, 00:24:48](https://news.ycombinator.com/item?id=38538886) - [Thermoelectric heating stands at the brink of commercialization](https://spectrum.ieee.org/thermoelectric-heating)
@@ -21,6 +21,7 @@
 * [2023-12-05, 22:41:09](https://news.ycombinator.com/item?id=38537933) - [Cognitive ability and miscalibrated financial expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
 * [2023-12-05, 22:14:05](https://news.ycombinator.com/item?id=38537682) - [StyleX – Meta's styling library](https://stylexjs.com/)
 * [2023-12-05, 17:21:36](https://news.ycombinator.com/item?id=38533869) - [What it takes to save the axolotl](https://www.nytimes.com/2023/12/05/science/mexico-axolotl-biology.html)
+* [2023-12-05, 16:01:38](https://news.ycombinator.com/item?id=38532593) - [Launch HN: Openlayer (YC S21) – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
 * [2023-12-05, 15:06:21](https://news.ycombinator.com/item?id=38531759) - [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/)
 * [2023-12-05, 14:44:39](https://news.ycombinator.com/item?id=38531428) - [How does Shazam work? (2022)](https://www.cameronmacleod.com/blog/how-does-shazam-work)
 * [2023-12-05, 13:17:44](https://news.ycombinator.com/item?id=38530309) - [Branchless Lomuto Partitioning](https://orlp.net/blog/branchless-lomuto-partitioning/)
@@ -29,7 +30,6 @@
 * [2023-12-05, 08:49:50](https://news.ycombinator.com/item?id=38528416) - [Infocom’s code-porting tools for Zork and other games have been found](https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/)
 * [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors (2004)](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
 * [2023-12-05, 07:20:55](https://news.ycombinator.com/item?id=38527980) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
-* [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
 * [2023-12-06, 12:27:05](https://news.ycombinator.com/item?id=38542955) - [A Warning](https://www.theatlantic.com/magazine/archive/2024/01/warning-second-trump-term/676117/)
 * [2023-12-06, 12:21:29](https://news.ycombinator.com/item?id=38542892) - [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
