@@ -8,6 +8,7 @@
 * [2023-12-06, 15:10:46](https://news.ycombinator.com/item?id=38544824) - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 * [2023-12-06, 15:05:18](https://news.ycombinator.com/item?id=38544746) - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
+* [2023-12-06, 13:59:21](https://news.ycombinator.com/item?id=38543947) - [Show HN: Why is the Amiga so beloved in the demoscene? (2023 essay)](https://marincomics.com/amiga-demoscene/)
 * [2023-12-06, 13:29:33](https://news.ycombinator.com/item?id=38543587) - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
 * [2023-12-06, 13:26:27](https://news.ycombinator.com/item?id=38543546) - [Ask HN: How are quantum computing companies making money?](https://news.ycombinator.com/item?id=38543546)
 * [2023-12-06, 13:21:28](https://news.ycombinator.com/item?id=38543491) - [Nim](https://nim-lang.org/blog/2023/09/19/mastering-nim.html)
