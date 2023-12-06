@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 19:11:46](https://news.ycombinator.com/item?id=38548209) - [Quad9 Turns the Sony Case Around in Dresden](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
 * [2023-12-06, 18:53:26](https://news.ycombinator.com/item?id=38548002) - [Physicists Find Seemingly Impossible Magnets with Just One Pole](https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole)
 * [2023-12-06, 18:17:49](https://news.ycombinator.com/item?id=38547556) - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 * [2023-12-06, 17:49:57](https://news.ycombinator.com/item?id=38547203) - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
@@ -42,6 +43,7 @@
 * [2023-12-06, 10:45:55](https://news.ycombinator.com/item?id=38542330) - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
 * [2023-12-06, 10:23:23](https://news.ycombinator.com/item?id=38542238) - [Ask HN: What are some excellent blogs, news boards, YouTube channels to follow?](https://news.ycombinator.com/item?id=38542238)
 * [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
+* [2023-12-06, 08:27:46](https://news.ycombinator.com/item?id=38541640) - [Bring code from other platforms into the browser](https://thewebshowcase.withgoogle.com/bring-code-from-platforms-into-the-browser)
 * [2023-12-06, 07:53:35](https://news.ycombinator.com/item?id=38541451) - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
 * [2023-12-06, 07:52:39](https://news.ycombinator.com/item?id=38541441) - [DIY 19\" rack mountable shallow DC output UPS built with refurbished 18650 cells](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
 * [2023-12-06, 07:51:59](https://news.ycombinator.com/item?id=38541436) - [Tesla Cybertruck's Race Against a Porsche 911 Was Apparently an 1/8-Mile Run](https://insideevs.com/news/699260/tesla-cybertruck-porsche-race/)
