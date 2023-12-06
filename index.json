@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-06, 18:53:26",
+      "https://news.ycombinator.com/item?id=38548002"
+    ],
+    [
+      "Physicists Find Seemingly Impossible Magnets with Just One Pole",
+      "https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 18:17:49",
       "https://news.ycombinator.com/item?id=38547556"
     ],
@@ -177,16 +187,6 @@
     [
       "Rethinking Serverless with Flame",
       "https://fly.io/blog/rethinking-serverless-with-flame/"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 07:21:08",
-      "https://news.ycombinator.com/item?id=38541272"
-    ],
-    [
-      "DNS Exfiltration Tool",
-      "https://github.com/m57/dnsteal"
     ]
   ],
   [
