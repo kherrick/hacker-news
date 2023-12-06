@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-12-05, 22:41:09",
-      "https://news.ycombinator.com/item?id=38537933"
-    ],
-    [
-      "Cognitive ability and miscalibrated financial expectations",
-      "https://journals.sagepub.com/doi/10.1177/01461672231209400"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 20:46:05",
       "https://news.ycombinator.com/item?id=38536681"
     ],
@@ -257,6 +247,16 @@
     [
       "A chess TUI implementation",
       "https://github.com/thomas-mauran/chess-tui"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 09:19:48",
+      "https://news.ycombinator.com/item?id=38528582"
+    ],
+    [
+      "Formalizing the proof of PFR in Lean4 using Blueprint: a short tour",
+      "https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/"
     ]
   ],
   [
