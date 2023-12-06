@@ -19,6 +19,7 @@
 * [2023-12-05, 20:19:19](https://news.ycombinator.com/item?id=38536396) - [X is now licensed for payment processing in a dozen U.S. states](https://techcrunch.com/2023/12/05/x-is-now-licensed-for-payment-processing-in-a-dozen-u-s-states/)
 * [2023-12-05, 19:53:37](https://news.ycombinator.com/item?id=38536090) - [Mycroft](https://mycroftproject.com/)
 * [2023-12-05, 19:41:26](https://news.ycombinator.com/item?id=38535915) - [Revisiting Persistent Bitcoin Criticisms [pdf]](https://www.fidelitydigitalassets.com/sites/default/files/documents/1110227.1.0%20Fidelity%20Digital%20Assets%20-%20Revisiting%20Persistent%20Bitcoin%20Criticisms%20%2811.02%29.pdf)
+* [2023-12-05, 19:08:07](https://news.ycombinator.com/item?id=38535472) - [Catching Up with the Cosmopolitan Ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
 * [2023-12-05, 18:39:42](https://news.ycombinator.com/item?id=38535108) - [Checkmate 19\" IPS Retro Monitor](https://www.checkmate1500plus.com/)
 * [2023-12-05, 18:31:34](https://news.ycombinator.com/item?id=38534992) - [Early On-Demand Music Streaming Required Lots of Nickels – Atlas Obscura](https://www.atlasobscura.com/articles/shyvers-multiphone)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
