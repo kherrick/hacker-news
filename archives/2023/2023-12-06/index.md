@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
 * [2023-12-06, 07:53:35](https://news.ycombinator.com/item?id=38541451) - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
+* [2023-12-06, 07:52:39](https://news.ycombinator.com/item?id=38541441) - [DIY 19\" rack mountable shallow DC output UPS built with refurbished 18650 cells](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
 * [2023-12-06, 07:51:59](https://news.ycombinator.com/item?id=38541436) - [Tesla Cybertruck's Race Against a Porsche 911 Was Apparently an 1/8-Mile Run](https://insideevs.com/news/699260/tesla-cybertruck-porsche-race/)
 * [2023-12-06, 07:42:33](https://news.ycombinator.com/item?id=38541375) - [TornadoVM v1.0 Released](https://github.com/beehive-lab/TornadoVM/releases/tag/v1.0)
+* [2023-12-06, 07:39:42](https://news.ycombinator.com/item?id=38541355) - [Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam](https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk)
 * [2023-12-06, 07:21:08](https://news.ycombinator.com/item?id=38541272) - [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
 * [2023-12-06, 06:54:10](https://news.ycombinator.com/item?id=38541129) - [The 23andMe Data Breach Keeps Spiraling](https://www.wired.com/story/23andme-breach-sec-update/)
 * [2023-12-06, 06:29:48](https://news.ycombinator.com/item?id=38540999) - [Leaked document shows how Amazon amasses influence in the Inland Empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
