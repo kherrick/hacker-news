@@ -26,8 +26,8 @@
 * [2023-12-05, 12:42:47](https://news.ycombinator.com/item?id=38530030) - [A peculiar fish and an evolutionary mystery](https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/)
 * [2023-12-05, 11:17:47](https://news.ycombinator.com/item?id=38529492) - [File Life](https://filelife.tours/)
 * [2023-12-05, 09:21:39](https://news.ycombinator.com/item?id=38528595) - [A chess TUI implementation](https://github.com/thomas-mauran/chess-tui)
+* [2023-12-05, 09:19:48](https://news.ycombinator.com/item?id=38528582) - [Formalizing the proof of PFR in Lean4 using Blueprint: a short tour](https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/)
 * [2023-12-05, 09:02:33](https://news.ycombinator.com/item?id=38528484) - [Reminiscences from the end of the horse era in New York City (1952)](https://untappedcities.com/2022/02/21/horse-era-new-york-city/)
-* [2023-12-05, 09:01:10](https://news.ycombinator.com/item?id=38528477) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-05, 03:03:44](https://news.ycombinator.com/item?id=38526584) - [A mineral produced by plate tectonics has a global cooling effect, study finds](https://phys.org/news/2023-11-mineral-plate-tectonics-global-cooling.html)
 * [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)
 
