@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 16:31:38](https://news.ycombinator.com/item?id=38546079) - [Gold Prices Are Hitting Records](https://www.wsj.com/finance/commodities-futures/why-gold-prices-are-hitting-records-5772ec5f)
+* [2023-12-06, 16:21:57](https://news.ycombinator.com/item?id=38545947) - [JetBrains AI Launch Event [video]](https://www.youtube.com/watch?v=SN51H_q9wBg)
+* [2023-12-06, 16:14:29](https://news.ycombinator.com/item?id=38545850) - [Microsoft Will Eventually Start Charging You for Windows 10 Security Updates](https://gizmodo.com/microsfot-windows-10-charging-2025-1851074975)
+* [2023-12-06, 16:10:23](https://news.ycombinator.com/item?id=38545784) - [JetBrains AI](https://www.jetbrains.com/ai/)
 * [2023-12-06, 15:56:30](https://news.ycombinator.com/item?id=38545538) - [Show HN: Winglang – a new Cloud-Oriented programming language](https://github.com/winglang/wing)
 * [2023-12-06, 15:44:49](https://news.ycombinator.com/item?id=38545341) - [Getting Started with Axum – Rust's Most Popular Web Framework](https://www.shuttle.rs/blog/2023/12/06/using-axum-rust)
 * [2023-12-06, 15:35:41](https://news.ycombinator.com/item?id=38545207) - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
