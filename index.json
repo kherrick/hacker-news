@@ -1,32 +1,42 @@
 [
   [
     [
-      "2023-12-06, 07:51:59",
-      "https://news.ycombinator.com/item?id=38541436"
+      "2023-12-06, 07:53:35",
+      "https://news.ycombinator.com/item?id=38541451"
     ],
     [
-      "Tesla Cybertruck's Race Against a Porsche 911 Was Apparently an 1/8-Mile Run",
-      "https://insideevs.com/news/699260/tesla-cybertruck-porsche-race/"
+      "World's largest tokamak fusion reactor powers up",
+      "https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/"
     ]
   ],
   [
     [
-      "2023-12-06, 06:29:48",
-      "https://news.ycombinator.com/item?id=38540999"
+      "2023-12-06, 07:42:33",
+      "https://news.ycombinator.com/item?id=38541375"
     ],
     [
-      "Leaked document shows how Amazon amasses influence in the Inland Empire",
-      "https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire"
+      "TornadoVM v1.0 Released",
+      "https://github.com/beehive-lab/TornadoVM/releases/tag/v1.0"
     ]
   ],
   [
     [
-      "2023-12-06, 06:23:12",
-      "https://news.ycombinator.com/item?id=38540974"
+      "2023-12-06, 07:21:08",
+      "https://news.ycombinator.com/item?id=38541272"
     ],
     [
-      "HP exec says quiet part out loud when it comes to locking in print customers",
-      "https://www.theregister.com/2023/12/04/hp_printer_lockin/"
+      "DNS Exfiltration Tool",
+      "https://github.com/m57/dnsteal"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 06:54:10",
+      "https://news.ycombinator.com/item?id=38541129"
+    ],
+    [
+      "The 23andMe Data Breach Keeps Spiraling",
+      "https://www.wired.com/story/23andme-breach-sec-update/"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=38538111"
     ],
     [
-      "All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more",
+      "All my favorite tracing tools",
       "https://thume.ca/2023/12/02/tracing-methods/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Fine-tuning Mistral 7B on Magic the Gathering Draft",
       "https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 16:23:23",
-      "https://news.ycombinator.com/item?id=38532914"
-    ],
-    [
-      "Show HN: Desert Atlas, a self-hosted OpenStreetMap app for Sandstorm",
-      "https://sandstorm.org/news/2023-12-05-osm-on-sandstorm"
     ]
   ],
   [
