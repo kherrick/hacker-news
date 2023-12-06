@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-06, 05:32:43",
+      "https://news.ycombinator.com/item?id=38540761"
+    ],
+    [
+      "Why Is Jepsen Written in Clojure?",
+      "https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 04:16:37",
       "https://news.ycombinator.com/item?id=38540421"
     ],
@@ -137,16 +147,6 @@
     [
       "Common Voice",
       "https://commonvoice.mozilla.org/en"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 16:12:21",
-      "https://news.ycombinator.com/item?id=38532746"
-    ],
-    [
-      "The challenges of supporting foreign key constraints",
-      "https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints"
     ]
   ],
   [
