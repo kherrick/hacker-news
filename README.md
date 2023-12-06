@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 07:51:59](https://news.ycombinator.com/item?id=38541436) - [Tesla Cybertruck's Race Against a Porsche 911 Was Apparently an 1/8-Mile Run](https://insideevs.com/news/699260/tesla-cybertruck-porsche-race/)
 * [2023-12-06, 06:29:48](https://news.ycombinator.com/item?id=38540999) - [Leaked document shows how Amazon amasses influence in the Inland Empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
 * [2023-12-06, 06:23:12](https://news.ycombinator.com/item?id=38540974) - [HP exec says quiet part out loud when it comes to locking in print customers](https://www.theregister.com/2023/12/04/hp_printer_lockin/)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
@@ -19,7 +20,6 @@
 * [2023-12-05, 16:33:58](https://news.ycombinator.com/item?id=38533105) - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 * [2023-12-05, 16:23:23](https://news.ycombinator.com/item?id=38532914) - [Show HN: Desert Atlas, a self-hosted OpenStreetMap app for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
 * [2023-12-05, 16:13:10](https://news.ycombinator.com/item?id=38532761) - [Common Voice](https://commonvoice.mozilla.org/en)
-* [2023-12-05, 16:12:21](https://news.ycombinator.com/item?id=38532746) - [The challenges of supporting foreign key constraints](https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints)
 * [2023-12-05, 16:01:38](https://news.ycombinator.com/item?id=38532593) - [Launch HN: Openlayer (YC S21) – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
 * [2023-12-05, 15:06:21](https://news.ycombinator.com/item?id=38531759) - [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/)
 * [2023-12-05, 14:44:39](https://news.ycombinator.com/item?id=38531428) - [How does Shazam work? (2022)](https://www.cameronmacleod.com/blog/how-does-shazam-work)
