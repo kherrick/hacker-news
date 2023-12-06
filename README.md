@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 15:10:46](https://news.ycombinator.com/item?id=38544824) - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 * [2023-12-06, 15:05:18](https://news.ycombinator.com/item?id=38544746) - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 13:29:33](https://news.ycombinator.com/item?id=38543587) - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
@@ -10,7 +11,6 @@
 * [2023-12-06, 12:54:20](https://news.ycombinator.com/item?id=38543196) - [Playstation keeps reminding us why digital ownership sucks](https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks)
 * [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
 * [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
-* [2023-12-06, 12:21:29](https://news.ycombinator.com/item?id=38542892) - [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
 * [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking Serverless with Flame](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 10:45:55](https://news.ycombinator.com/item?id=38542330) - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 15:10:46](https://news.ycombinator.com/item?id=38544824) - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 * [2023-12-06, 15:05:18](https://news.ycombinator.com/item?id=38544746) - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 13:29:33](https://news.ycombinator.com/item?id=38543587) - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
