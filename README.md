@@ -14,7 +14,7 @@
 * [2023-12-06, 00:40:44](https://news.ycombinator.com/item?id=38539020) - [MLX: NumPy like framework for Apple Silicon by Apple](https://ml-explore.github.io/mlx/build/html/index.html)
 * [2023-12-05, 22:56:29](https://news.ycombinator.com/item?id=38538111) - [All my favorite tracing tools](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 22:55:51](https://news.ycombinator.com/item?id=38538100) - [Virtual Machine as a core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
-* [2023-12-05, 22:41:09](https://news.ycombinator.com/item?id=38537933) - [Cognitive ability and miscalibrated financial expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
+* [2023-12-05, 22:44:41](https://news.ycombinator.com/item?id=38537977) - [Report: YouTube adding user-traceable ID tag to links shared off-platform](https://twitter.com/OldRowSwig/status/1732112446943269347?s=20)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 * [2023-12-05, 16:33:58](https://news.ycombinator.com/item?id=38533105) - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
