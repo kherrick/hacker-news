@@ -29,6 +29,7 @@
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 * [2023-12-05, 18:18:12](https://news.ycombinator.com/item?id=38534810) - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
 * [2023-12-05, 17:41:32](https://news.ycombinator.com/item?id=38534227) - [Why 3M stopped making floppy disks in the '90s](https://tedium.co/2023/11/17/3m-floppy-disks-history/)
+* [2023-12-05, 17:37:27](https://news.ycombinator.com/item?id=38534153) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-12-05, 17:34:54](https://news.ycombinator.com/item?id=38534109) - [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 * [2023-12-05, 17:23:45](https://news.ycombinator.com/item?id=38533901) - [IBM and Meta Launch Open AI Alliance with over 50 Founding Members](https://ai.meta.com/blog/ai-alliance/)
 * [2023-12-05, 17:21:36](https://news.ycombinator.com/item?id=38533869) - [What it takes to save the axolotl](https://www.nytimes.com/2023/12/05/science/mexico-axolotl-biology.html)

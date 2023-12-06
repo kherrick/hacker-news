@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 22:01:51](https://news.ycombinator.com/item?id=38550140) - [K-Cup creator John Sylvan regrets inventing Keurig coffee pod system](https://www.cbc.ca/news/business/k-cup-creator-john-sylvan-regrets-inventing-keurig-coffee-pod-system-1.2982660)
+* [2023-12-06, 21:50:34](https://news.ycombinator.com/item?id=38550026) - [Unveiling secrets of the ESP32: creating an open-source Mac layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
 * [2023-12-06, 21:00:02](https://news.ycombinator.com/item?id=38549388) - [Framework Laptop 16 Deep Dive – Connectors](https://frame.work/blog/framework-laptop-16-deep-dive---connectors)
+* [2023-12-06, 20:55:05](https://news.ycombinator.com/item?id=38549337) - [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105)
 * [2023-12-06, 20:54:25](https://news.ycombinator.com/item?id=38549332) - [AI Is Becoming a Band-Aid over Bad, Broken Tech Industry Design Choices](https://www.scientificamerican.com/article/ai-is-becoming-a-band-aid-over-bad-broken-tech-industry-design-choices/)
 * [2023-12-06, 20:38:20](https://news.ycombinator.com/item?id=38549169) - [Fukuoka court rules ban on dual nationality is constitutional](https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/)
 * [2023-12-06, 20:21:54](https://news.ycombinator.com/item?id=38548969) - [Commuting time of more than 30 min one way linked to higher chance of depression](https://www.sciencedirect.com/science/article/pii/S2214140523001676)
 * [2023-12-06, 20:08:55](https://news.ycombinator.com/item?id=38548841) - [Ask HN: Do you think GPT-5 will release before Gemini Ultra? Will it be better?](https://news.ycombinator.com/item?id=38548841)
+* [2023-12-06, 20:02:53](https://news.ycombinator.com/item?id=38548774) - [Painting is Terribly Difficult](https://www.lrb.co.uk/the-paper/v45/n24/julian-barnes/painting-is-terribly-difficult)
 * [2023-12-06, 19:57:15](https://news.ycombinator.com/item?id=38548712) - [Donald Knuth's Annual Christmas Lecture 2023](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 * [2023-12-06, 19:47:26](https://news.ycombinator.com/item?id=38548590) - [Psychologists say they can't meet the growing demand for mental health care](https://www.npr.org/sections/health-shots/2023/12/06/1217487323/psychologists-waitlist-demand-mental-health-care)
 * [2023-12-06, 19:11:46](https://news.ycombinator.com/item?id=38548209) - [Quad9 Turns the Sony Case Around in Dresden](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
