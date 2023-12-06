@@ -80,6 +80,7 @@
 * [2023-12-05, 12:07:49](https://news.ycombinator.com/item?id=38529840) - [Supreme Court hears a case that experts say could wreak havoc on the tax code](https://www.npr.org/2023/12/05/1216859366/supreme-court-tax-code)
 * [2023-12-05, 12:00:32](https://news.ycombinator.com/item?id=38529784) - [GiveCampus (YC S15) Is Hiring Engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-12-05, 11:44:26](https://news.ycombinator.com/item?id=38529679) - [Operating Systems, Transit and Cultural Influences](https://bentsukun.ch/posts/os-culture/)
+* [2023-12-05, 11:22:42](https://news.ycombinator.com/item?id=38529522) - [PostgreSQL and FIPS Mode](http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode)
 * [2023-12-05, 11:17:47](https://news.ycombinator.com/item?id=38529492) - [File Life](https://filelife.tours/)
 * [2023-12-05, 10:30:36](https://news.ycombinator.com/item?id=38529143) - [How Hackerman would create an image just by typing 0 and 1 – a deep dive to GIF](https://medium.com/@happybits/how-hackerman-would-create-an-image-just-by-typing-zeros-and-ones-a-deep-dive-into-gif-file-32bada0926c0)
 * [2023-12-05, 10:15:33](https://news.ycombinator.com/item?id=38529007) - [What Is a Hessenberg Matrix?](https://nhigham.com/2023/12/05/what-is-a-hessenberg-matrix/)
