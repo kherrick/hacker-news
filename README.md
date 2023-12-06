@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 18:17:49](https://news.ycombinator.com/item?id=38547556) - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 * [2023-12-06, 17:49:57](https://news.ycombinator.com/item?id=38547203) - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
 * [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
 * [2023-12-06, 17:01:07](https://news.ycombinator.com/item?id=38546478) - [Polymath Robotics (YC S22) is hiring a robotics safety engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
 * [2023-12-06, 16:34:01](https://news.ycombinator.com/item?id=38546121) - [Flickypedia helps you put Flickr photos on Wikimedia Commons](https://www.flickr.org/tools/flickypedia/)
-* [2023-12-06, 16:21:57](https://news.ycombinator.com/item?id=38545947) - [JetBrains AI Launch Event [video]](https://www.youtube.com/watch?v=SN51H_q9wBg)
 * [2023-12-06, 15:56:30](https://news.ycombinator.com/item?id=38545538) - [Show HN: Winglang – a new Cloud-Oriented programming language](https://github.com/winglang/wing)
 * [2023-12-06, 15:48:44](https://news.ycombinator.com/item?id=38545417) - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 * [2023-12-06, 15:35:41](https://news.ycombinator.com/item?id=38545207) - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
