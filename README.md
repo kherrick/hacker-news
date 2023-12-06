@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
 * [2023-12-06, 07:53:35](https://news.ycombinator.com/item?id=38541451) - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
 * [2023-12-06, 07:52:39](https://news.ycombinator.com/item?id=38541441) - [Second Life UPS Mark II](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
 * [2023-12-06, 07:42:33](https://news.ycombinator.com/item?id=38541375) - [TornadoVM v1.0 Released](https://github.com/beehive-lab/TornadoVM/releases/tag/v1.0)
@@ -29,7 +30,6 @@
 * [2023-12-05, 09:01:10](https://news.ycombinator.com/item?id=38528477) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors (2004)](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
 * [2023-12-05, 07:20:55](https://news.ycombinator.com/item?id=38527980) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
-* [2023-12-04, 09:50:47](https://news.ycombinator.com/item?id=38515435) - [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)
 
 ## [Archives](archives/index.md)
 

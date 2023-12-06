@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
 * [2023-12-06, 07:53:35](https://news.ycombinator.com/item?id=38541451) - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
 * [2023-12-06, 07:52:39](https://news.ycombinator.com/item?id=38541441) - [DIY 19\" rack mountable shallow DC output UPS built with refurbished 18650 cells](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
 * [2023-12-06, 07:51:59](https://news.ycombinator.com/item?id=38541436) - [Tesla Cybertruck's Race Against a Porsche 911 Was Apparently an 1/8-Mile Run](https://insideevs.com/news/699260/tesla-cybertruck-porsche-race/)
