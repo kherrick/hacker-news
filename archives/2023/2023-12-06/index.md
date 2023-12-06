@@ -8,6 +8,7 @@
 * [2023-12-06, 17:49:57](https://news.ycombinator.com/item?id=38547203) - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
 * [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
 * [2023-12-06, 17:01:07](https://news.ycombinator.com/item?id=38546478) - [Polymath Robotics (YC S22) Is Hiring Robotics Safety Engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
+* [2023-12-06, 16:48:29](https://news.ycombinator.com/item?id=38546307) - [Google's DeepMind finds 2.2M crystal structures in materials science win](https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/)
 * [2023-12-06, 16:34:01](https://news.ycombinator.com/item?id=38546121) - [Flickypedia helps you put Flickr photos on Wikimedia Commons](https://www.flickr.org/tools/flickypedia/)
 * [2023-12-06, 16:31:38](https://news.ycombinator.com/item?id=38546079) - [Gold Prices Are Hitting Records](https://www.wsj.com/finance/commodities-futures/why-gold-prices-are-hitting-records-5772ec5f)
 * [2023-12-06, 16:21:57](https://news.ycombinator.com/item?id=38545947) - [JetBrains AI Launch Event [video]](https://www.youtube.com/watch?v=SN51H_q9wBg)
