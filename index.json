@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-12-06, 20:38:20",
-      "https://news.ycombinator.com/item?id=38549169"
+      "2023-12-06, 21:00:02",
+      "https://news.ycombinator.com/item?id=38549388"
     ],
     [
-      "Fukuoka court rules ban on dual nationality is constitutional",
-      "https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/"
+      "Framework Laptop 16 Deep Dive – Connectors",
+      "https://frame.work/blog/framework-laptop-16-deep-dive---connectors"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38547556"
     ],
     [
-      "OpenAI Switch Kit: Swap OpenAI with any open-source model",
+      "Swap OpenAI with any open-source model",
       "https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "Show HN: Lume – automate data mappings using AI",
       "https://www.lume.ai/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 17:03:27",
+      "https://news.ycombinator.com/item?id=38546520"
+    ],
+    [
+      "Spotlight: Sentry for Development",
+      "https://spotlightjs.com/"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=38545538"
     ],
     [
-      "Show HN: Winglang – a new Cloud-Oriented programming language",
+      "Show HN: Winglang – A new cloud-oriented programming language",
       "https://github.com/winglang/wing"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Show HN: CopilotKit- Build in-app AI chatbots and AI-powered textareas",
       "https://github.com/CopilotKit/CopilotKit"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 15:23:52",
-      "https://news.ycombinator.com/item?id=38545022"
-    ],
-    [
-      "Just about every Windows/Linux device vulnerable to new LogoFAIL firmware attack",
-      "https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38536252"
     ],
     [
-      "Lessons from Lake Tanganyika's Scale Eating Fish",
+      "Lake Tanganyika's Scale Eating Fish",
       "https://thereader.mitpress.mit.edu/lessons-from-lake-tanganyikas-scale-eating-fish/"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=38529679"
     ],
     [
-      "Operating Systems, Transit and Cultural Influences",
+      "Operating systems, transit and cultural influences",
       "https://bentsukun.ch/posts/os-culture/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38529143"
     ],
     [
-      "How Hackerman would create an image just by typing 0 and 1 – a deep dive to GIF",
+      "How Hackerman would create an image just by typing 0 and 1 – deep dive into GIF",
       "https://medium.com/@happybits/how-hackerman-would-create-an-image-just-by-typing-zeros-and-ones-a-deep-dive-into-gif-file-32bada0926c0"
     ]
   ],
@@ -267,16 +267,6 @@
     [
       "\"Heaving oscillators\" use wave power to extend shipping range",
       "https://newatlas.com/marine/heave-oscillators-wave-energy-ship/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 08:49:50",
-      "https://news.ycombinator.com/item?id=38528416"
-    ],
-    [
-      "Infocom’s code-porting tools for Zork and other games have been found",
-      "https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Pencil Talk",
       "https://www.penciltalk.org/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 10:14:35",
+      "https://news.ycombinator.com/item?id=38515571"
+    ],
+    [
+      "LogoFAIL: Secure Boot bypass with manipulated boot logos",
+      "https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/"
     ]
   ]
 ]
