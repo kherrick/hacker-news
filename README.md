@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
-* [2023-12-06, 20:54:25](https://news.ycombinator.com/item?id=38549332) - [AI Is Becoming a Band-Aid over Bad, Broken Tech Industry Design Choices](https://www.scientificamerican.com/article/ai-is-becoming-a-band-aid-over-bad-broken-tech-industry-design-choices/)
 * [2023-12-06, 20:38:20](https://news.ycombinator.com/item?id=38549169) - [Fukuoka court rules ban on dual nationality is constitutional](https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/)
+* [2023-12-06, 20:21:54](https://news.ycombinator.com/item?id=38548969) - [Commuting time of more than 30 min one way linked to higher chance of depression](https://www.sciencedirect.com/science/article/pii/S2214140523001676)
 * [2023-12-06, 19:57:15](https://news.ycombinator.com/item?id=38548712) - [Donald Knuth's Annual Christmas Lecture 2023](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 * [2023-12-06, 19:11:46](https://news.ycombinator.com/item?id=38548209) - [Quad9 wins appeal against Sony](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
 * [2023-12-06, 19:04:28](https://news.ycombinator.com/item?id=38548130) - [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
@@ -19,7 +19,7 @@
 * [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
 * [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
-* [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking Serverless with Flame](https://fly.io/blog/rethinking-serverless-with-flame/)
+* [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 08:27:46](https://news.ycombinator.com/item?id=38541640) - [Bring code from other platforms into the browser](https://thewebshowcase.withgoogle.com/bring-code-from-platforms-into-the-browser)
 * [2023-12-05, 20:06:59](https://news.ycombinator.com/item?id=38536252) - [Lessons from Lake Tanganyika's Scale Eating Fish](https://thereader.mitpress.mit.edu/lessons-from-lake-tanganyikas-scale-eating-fish/)
 * [2023-12-05, 19:05:51](https://news.ycombinator.com/item?id=38535446) - [The Sheep Incident (2008)](https://www.damninteresting.com/the-sheep-incident/)
