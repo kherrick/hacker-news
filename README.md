@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 13:29:33](https://news.ycombinator.com/item?id=38543587) - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
 * [2023-12-06, 13:06:45](https://news.ycombinator.com/item?id=38543322) - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 * [2023-12-06, 12:58:36](https://news.ycombinator.com/item?id=38543230) - [Serbia grants citizenship to Steve Wozniak](https://www.b92.net/eng/news/business.php?yyyy=2023&mm=12&dd=06&nav_id=117200)
 * [2023-12-06, 12:58:29](https://news.ycombinator.com/item?id=38543229) - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 * [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
+* [2023-12-06, 12:39:10](https://news.ycombinator.com/item?id=38543064) - [Tesla (VP Vehicle Engineering) says Cybertruck likely to not make it to Europe](https://www.topgear.com/car-reviews/tesla/cybertruck/buying)
 * [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
 * [2023-12-06, 12:21:29](https://news.ycombinator.com/item?id=38542892) - [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
@@ -28,8 +30,6 @@
 * [2023-12-05, 10:15:33](https://news.ycombinator.com/item?id=38529007) - [What Is a Hessenberg Matrix?](https://nhigham.com/2023/12/05/what-is-a-hessenberg-matrix/)
 * [2023-12-05, 09:21:39](https://news.ycombinator.com/item?id=38528595) - [A chess TUI implementation](https://github.com/thomas-mauran/chess-tui)
 * [2023-12-05, 08:49:50](https://news.ycombinator.com/item?id=38528416) - [Infocom’s code-porting tools for Zork and other games have been found](https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/)
-* [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors (2004)](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
-* [2023-12-05, 07:20:55](https://news.ycombinator.com/item?id=38527980) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 
 ## [Archives](archives/index.md)
 
