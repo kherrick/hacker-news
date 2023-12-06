@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-06, 19:47:26](https://news.ycombinator.com/item?id=38548590) - [Psychologists say they can't meet the growing demand for mental health care](https://www.npr.org/sections/health-shots/2023/12/06/1217487323/psychologists-waitlist-demand-mental-health-care)
+* [2023-12-06, 20:38:20](https://news.ycombinator.com/item?id=38549169) - [Fukuoka court rules ban on dual nationality is constitutional](https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/)
+* [2023-12-06, 19:57:15](https://news.ycombinator.com/item?id=38548712) - [Donald Knuth's Annual Christmas Lecture 2023](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 * [2023-12-06, 19:11:46](https://news.ycombinator.com/item?id=38548209) - [Quad9 wins appeal against Sony](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
 * [2023-12-06, 19:04:28](https://news.ycombinator.com/item?id=38548130) - [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
 * [2023-12-06, 18:30:15](https://news.ycombinator.com/item?id=38547737) - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
@@ -22,7 +23,6 @@
 * [2023-12-06, 08:27:46](https://news.ycombinator.com/item?id=38541640) - [Bring code from other platforms into the browser](https://thewebshowcase.withgoogle.com/bring-code-from-platforms-into-the-browser)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-05, 20:06:59](https://news.ycombinator.com/item?id=38536252) - [Lessons from Lake Tanganyika's Scale Eating Fish](https://thereader.mitpress.mit.edu/lessons-from-lake-tanganyikas-scale-eating-fish/)
-* [2023-12-05, 17:21:36](https://news.ycombinator.com/item?id=38533869) - [What it takes to save the axolotl](https://www.nytimes.com/2023/12/05/science/mexico-axolotl-biology.html)
 * [2023-12-05, 11:44:26](https://news.ycombinator.com/item?id=38529679) - [Operating Systems, Transit and Cultural Influences](https://bentsukun.ch/posts/os-culture/)
 * [2023-12-05, 11:22:42](https://news.ycombinator.com/item?id=38529522) - [PostgreSQL and FIPS Mode](http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode)
 * [2023-12-05, 10:30:36](https://news.ycombinator.com/item?id=38529143) - [How Hackerman would create an image just by typing 0 and 1 – a deep dive to GIF](https://medium.com/@happybits/how-hackerman-would-create-an-image-just-by-typing-zeros-and-ones-a-deep-dive-into-gif-file-32bada0926c0)
