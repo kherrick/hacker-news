@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-06, 15:35:41](https://news.ycombinator.com/item?id=38545207) - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
 * [2023-12-06, 15:10:46](https://news.ycombinator.com/item?id=38544824) - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 * [2023-12-06, 15:05:18](https://news.ycombinator.com/item?id=38544746) - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
@@ -18,7 +19,6 @@
 * [2023-12-06, 07:21:08](https://news.ycombinator.com/item?id=38541272) - [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
-* [2023-12-06, 01:23:11](https://news.ycombinator.com/item?id=38539374) - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 * [2023-12-06, 00:56:20](https://news.ycombinator.com/item?id=38539153) - [MLX: An array framework for Apple Silicon](https://github.com/ml-explore/mlx)
 * [2023-12-06, 00:40:44](https://news.ycombinator.com/item?id=38539020) - [MLX: NumPy like framework for Apple Silicon by Apple](https://ml-explore.github.io/mlx/build/html/index.html)
 * [2023-12-05, 22:56:29](https://news.ycombinator.com/item?id=38538111) - [All my favorite tracing tools](https://thume.ca/2023/12/02/tracing-methods/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 15:35:41](https://news.ycombinator.com/item?id=38545207) - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered Textareas](https://github.com/CopilotKit/CopilotKit)
 * [2023-12-06, 15:10:46](https://news.ycombinator.com/item?id=38544824) - [Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 * [2023-12-06, 15:05:18](https://news.ycombinator.com/item?id=38544746) - [Gemini: Google's most capable AI model yet](https://blog.google/technology/ai/google-gemini-ai/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini – Google DeepMind](https://deepmind.google/technologies/gemini/)
