@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
 * [2023-12-06, 19:11:46](https://news.ycombinator.com/item?id=38548209) - [Quad9 Turns the Sony Case Around in Dresden](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
+* [2023-12-06, 19:04:28](https://news.ycombinator.com/item?id=38548130) - [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
 * [2023-12-06, 18:53:26](https://news.ycombinator.com/item?id=38548002) - [Physicists Find Seemingly Impossible Magnets with Just One Pole](https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole)
+* [2023-12-06, 18:30:15](https://news.ycombinator.com/item?id=38547737) - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
 * [2023-12-06, 18:17:49](https://news.ycombinator.com/item?id=38547556) - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 * [2023-12-06, 17:49:57](https://news.ycombinator.com/item?id=38547203) - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
+* [2023-12-06, 17:37:48](https://news.ycombinator.com/item?id=38547033) - [Show HN: Lume – automate data mappings using AI](https://www.lume.ai/)
 * [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
 * [2023-12-06, 17:01:07](https://news.ycombinator.com/item?id=38546478) - [Polymath Robotics (YC S22) Is Hiring Robotics Safety Engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
 * [2023-12-06, 16:48:29](https://news.ycombinator.com/item?id=38546307) - [Google's DeepMind finds 2.2M crystal structures in materials science win](https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/)
