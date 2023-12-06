@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
 * [2023-12-06, 13:29:33](https://news.ycombinator.com/item?id=38543587) - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
+* [2023-12-06, 13:13:55](https://news.ycombinator.com/item?id=38543401) - [Clues Hint at the True Nature of OpenAI's Shadowy Q* Project](https://www.wired.com/story/fast-forward-clues-hint-openai-shadowy-q-project/)
 * [2023-12-06, 13:06:45](https://news.ycombinator.com/item?id=38543322) - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 * [2023-12-06, 12:58:36](https://news.ycombinator.com/item?id=38543230) - [Serbia grants citizenship to Steve Wozniak](https://www.b92.net/eng/news/business.php?yyyy=2023&mm=12&dd=06&nav_id=117200)
 * [2023-12-06, 12:58:29](https://news.ycombinator.com/item?id=38543229) - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
