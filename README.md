@@ -2,6 +2,7 @@
 
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
 * [2023-12-06, 22:32:46](https://news.ycombinator.com/item?id=38550408) - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
+* [2023-12-06, 22:26:43](https://news.ycombinator.com/item?id=38550351) - [Danish pension fund to sell its Tesla shares over union dispute](https://www.reuters.com/sustainability/danish-pension-fund-sell-its-tesla-shares-over-union-dispute-2023-12-06/)
 * [2023-12-06, 22:17:14](https://news.ycombinator.com/item?id=38550271) - [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
 * [2023-12-06, 21:50:34](https://news.ycombinator.com/item?id=38550026) - [Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
@@ -23,7 +24,6 @@
 * [2023-12-06, 05:37:43](https://news.ycombinator.com/item?id=38540776) - [What shape is the universe? (2021)](https://www.astronomy.com/science/what-shape-is-the-universe/)
 * [2023-12-05, 19:05:51](https://news.ycombinator.com/item?id=38535446) - [The Sheep Incident (2008)](https://www.damninteresting.com/the-sheep-incident/)
 * [2023-12-05, 17:37:27](https://news.ycombinator.com/item?id=38534153) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
-* [2023-12-05, 17:21:36](https://news.ycombinator.com/item?id=38533869) - [What it takes to save the axolotl](https://www.nytimes.com/2023/12/05/science/mexico-axolotl-biology.html)
 * [2023-12-05, 11:44:26](https://news.ycombinator.com/item?id=38529679) - [Operating systems, transit and cultural influences](https://bentsukun.ch/posts/os-culture/)
 * [2023-12-05, 11:22:42](https://news.ycombinator.com/item?id=38529522) - [PostgreSQL and FIPS Mode](http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode)
 * [2023-12-05, 10:30:36](https://news.ycombinator.com/item?id=38529143) - [How Hackerman would create an image just by typing 0 and 1 – deep dive into GIF](https://medium.com/@happybits/how-hackerman-would-create-an-image-just-by-typing-zeros-and-ones-a-deep-dive-into-gif-file-32bada0926c0)

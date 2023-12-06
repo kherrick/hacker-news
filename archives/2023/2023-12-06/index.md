@@ -6,6 +6,7 @@
 
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
 * [2023-12-06, 22:32:46](https://news.ycombinator.com/item?id=38550408) - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
+* [2023-12-06, 22:26:43](https://news.ycombinator.com/item?id=38550351) - [Danish pension fund to sell its Tesla shares over union dispute](https://www.reuters.com/sustainability/danish-pension-fund-sell-its-tesla-shares-over-union-dispute-2023-12-06/)
 * [2023-12-06, 22:17:14](https://news.ycombinator.com/item?id=38550271) - [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
 * [2023-12-06, 22:15:34](https://news.ycombinator.com/item?id=38550257) - [Don't Fall for Big Oil's Carbon Capture Deceptions](https://www.scientificamerican.com/article/dont-fall-for-big-oils-carbon-capture-deceptions/)
 * [2023-12-06, 22:01:51](https://news.ycombinator.com/item?id=38550140) - [K-Cup creator John Sylvan regrets inventing Keurig coffee pod system](https://www.cbc.ca/news/business/k-cup-creator-john-sylvan-regrets-inventing-keurig-coffee-pod-system-1.2982660)
