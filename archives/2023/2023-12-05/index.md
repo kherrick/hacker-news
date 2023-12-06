@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 23:38:48](https://news.ycombinator.com/item?id=38538487) - [High-Scale AI/ML Feature Serving at Low Cost with Caching](https://www.tecton.ai/blog/high-scale-feature-serving-at-low-cost-with-caching-machine-learning/)
 * [2023-12-05, 23:11:04](https://news.ycombinator.com/item?id=38538236) - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
 * [2023-12-05, 23:01:57](https://news.ycombinator.com/item?id=38538162) - [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
 * [2023-12-05, 22:57:45](https://news.ycombinator.com/item?id=38538123) - [Governor of Amazonas wants to charge Amazon royalties for use of the brand](https://www.nordinvestimentos.com.br/blog/governador-do-amazonas/)
@@ -22,6 +23,7 @@
 * [2023-12-05, 18:31:34](https://news.ycombinator.com/item?id=38534992) - [Early On-Demand Music Streaming Required Lots of Nickels – Atlas Obscura](https://www.atlasobscura.com/articles/shyvers-multiphone)
 * [2023-12-05, 18:25:47](https://news.ycombinator.com/item?id=38534920) - [Show HN: Dropbase – Build internal web apps with just Python](https://github.com/DropbaseHQ/dropbase)
 * [2023-12-05, 18:18:12](https://news.ycombinator.com/item?id=38534810) - [Spotify Is Screwed](https://www.wired.com/story/spotify-layoffs-music-streaming-future/)
+* [2023-12-05, 17:41:32](https://news.ycombinator.com/item?id=38534227) - [Why 3M stopped making floppy disks in the '90s](https://tedium.co/2023/11/17/3m-floppy-disks-history/)
 * [2023-12-05, 17:34:54](https://news.ycombinator.com/item?id=38534109) - [I want to convince you to have an on-premise offering](https://hivekit.io/blog/i-want-to-convince-you-to-have-an-on-premise-offering/#hn)
 * [2023-12-05, 17:23:45](https://news.ycombinator.com/item?id=38533901) - [IBM and Meta Launch Open AI Alliance with over 50 Founding Members](https://ai.meta.com/blog/ai-alliance/)
 * [2023-12-05, 17:15:05](https://news.ycombinator.com/item?id=38533767) - [Ask HN: Why is it taken for granted that LLM models will keep improving?](https://news.ycombinator.com/item?id=38533767)
@@ -75,6 +77,7 @@
 * [2023-12-05, 09:13:31](https://news.ycombinator.com/item?id=38528554) - [Why Windows Is So Much Better in the EU [video]](https://www.youtube.com/watch?v=FOQeKeKNXLU)
 * [2023-12-05, 09:07:09](https://news.ycombinator.com/item?id=38528514) - [Thieves return Android phone when they realize it's not an iPhone](https://9to5mac.com/2023/12/04/stolen-android-phone-returned-iphone/)
 * [2023-12-05, 09:02:33](https://news.ycombinator.com/item?id=38528484) - [Reminiscences from the end of the horse era in New York City (1952)](https://untappedcities.com/2022/02/21/horse-era-new-york-city/)
+* [2023-12-05, 09:01:10](https://news.ycombinator.com/item?id=38528477) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
 * [2023-12-05, 08:39:02](https://news.ycombinator.com/item?id=38528353) - [Windows users report appearance of unwanted HP app](https://www.theregister.com/2023/11/30/windows_hp_software_uninvited/)
 * [2023-12-05, 08:38:05](https://news.ycombinator.com/item?id=38528346) - [Tesla battle with Swedish unions spreads to Denmark](https://www.ft.com/content/4143c3ca-e2fd-48bb-b9b7-715454f1d28f)
