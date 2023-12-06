@@ -24,11 +24,11 @@
 * [2023-12-05, 22:56:29](https://news.ycombinator.com/item?id=38538111) - [All my favorite tracing tools](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 17:21:36](https://news.ycombinator.com/item?id=38533869) - [What it takes to save the axolotl](https://www.nytimes.com/2023/12/05/science/mexico-axolotl-biology.html)
 * [2023-12-05, 15:06:21](https://news.ycombinator.com/item?id=38531759) - [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/)
-* [2023-12-05, 13:17:44](https://news.ycombinator.com/item?id=38530309) - [Branchless Lomuto Partitioning](https://orlp.net/blog/branchless-lomuto-partitioning/)
 * [2023-12-05, 10:15:33](https://news.ycombinator.com/item?id=38529007) - [What Is a Hessenberg Matrix?](https://nhigham.com/2023/12/05/what-is-a-hessenberg-matrix/)
 * [2023-12-05, 09:21:39](https://news.ycombinator.com/item?id=38528595) - [A chess TUI implementation](https://github.com/thomas-mauran/chess-tui)
 * [2023-12-05, 08:49:50](https://news.ycombinator.com/item?id=38528416) - [Infocom’s code-porting tools for Zork and other games have been found](https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/)
 * [2023-12-05, 08:49:00](https://news.ycombinator.com/item?id=38528413) - [Acoustic Location and Sound Mirrors (2004)](http://www.douglas-self.com/MUSEUM/COMMS/ear/ear.htm)
+* [2023-12-05, 07:20:55](https://news.ycombinator.com/item?id=38527980) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 * [2023-12-04, 19:22:05](https://news.ycombinator.com/item?id=38521822) - [Music from Outer Space](https://musicfromouterspace.com/)
 
 ## [Archives](archives/index.md)
