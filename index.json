@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-06, 05:53:09",
+      "https://news.ycombinator.com/item?id=38540850"
+    ],
+    [
+      "Microsoft's Copilot is getting OpenAI's latest models and a new code interpreter",
+      "https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 05:32:43",
       "https://news.ycombinator.com/item?id=38540761"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38540421"
     ],
     [
-      "JSONB Has Landed in SQLite",
+      "JSONB has landed",
       "https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97"
     ]
   ],
@@ -47,6 +57,26 @@
     [
       "An update on Twitch in Korea",
       "https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 00:56:20",
+      "https://news.ycombinator.com/item?id=38539153"
+    ],
+    [
+      "MLX: An array framework for Apple Silicon",
+      "https://github.com/ml-explore/mlx"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 22:56:29",
+      "https://news.ycombinator.com/item?id=38538111"
+    ],
+    [
+      "All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more",
+      "https://thume.ca/2023/12/02/tracing-methods/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Show HN: Dropbase – Build internal web apps with just Python",
       "https://github.com/DropbaseHQ/dropbase"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 17:41:32",
-      "https://news.ycombinator.com/item?id=38534227"
-    ],
-    [
-      "Why 3M stopped making floppy disks in the '90s",
-      "https://tedium.co/2023/11/17/3m-floppy-disks-history/"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-12-05, 14:56:25",
-      "https://news.ycombinator.com/item?id=38531604"
-    ],
-    [
-      "Show HN: How did your computer reach my server?",
-      "https://how-did-i-get-here.net/"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 14:44:39",
       "https://news.ycombinator.com/item?id=38531428"
     ],
     [
       "How does Shazam work? (2022)",
       "https://www.cameronmacleod.com/blog/how-does-shazam-work"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 14:10:12",
-      "https://news.ycombinator.com/item?id=38530885"
-    ],
-    [
-      "Polish trains lock up when serviced in third-party workshops",
-      "https://social.hackerspace.pl/@q3k/111528162462505087"
     ]
   ],
   [
