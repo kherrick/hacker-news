@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-06, 15:56:30",
+      "https://news.ycombinator.com/item?id=38545538"
+    ],
+    [
+      "Show HN: Winglang – a new Cloud-Oriented programming language",
+      "https://github.com/winglang/wing"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 15:44:49",
+      "https://news.ycombinator.com/item?id=38545341"
+    ],
+    [
+      "Getting Started with Axum – Rust's Most Popular Web Framework",
+      "https://www.shuttle.rs/blog/2023/12/06/using-axum-rust"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 15:35:41",
       "https://news.ycombinator.com/item?id=38545207"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2023-12-06, 01:23:11",
-      "https://news.ycombinator.com/item?id=38539374"
-    ],
-    [
-      "A new quantum algorithm for classical mechanics with an exponential speedup",
-      "https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 00:56:20",
-      "https://news.ycombinator.com/item?id=38539153"
-    ],
-    [
-      "MLX: An array framework for Apple Silicon",
-      "https://github.com/ml-explore/mlx"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 22:56:29",
       "https://news.ycombinator.com/item?id=38538111"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2023-12-05, 10:30:36",
+      "https://news.ycombinator.com/item?id=38529143"
+    ],
+    [
+      "How Hackerman would create an image just by typing 0 and 1 – a deep dive to GIF",
+      "https://medium.com/@happybits/how-hackerman-would-create-an-image-just-by-typing-zeros-and-ones-a-deep-dive-into-gif-file-32bada0926c0"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 10:15:33",
       "https://news.ycombinator.com/item?id=38529007"
     ],
     [
       "What Is a Hessenberg Matrix?",
       "https://nhigham.com/2023/12/05/what-is-a-hessenberg-matrix/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 09:21:39",
-      "https://news.ycombinator.com/item?id=38528595"
-    ],
-    [
-      "A chess TUI implementation",
-      "https://github.com/thomas-mauran/chess-tui"
     ]
   ],
   [
