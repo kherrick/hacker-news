@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
-* [2023-12-06, 02:13:54](https://news.ycombinator.com/item?id=38539741) - [New in Chrome 120 back button detection](https://developer.chrome.com/blog/new-in-chrome-120)
 * [2023-12-06, 01:23:11](https://news.ycombinator.com/item?id=38539374) - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 * [2023-12-06, 00:58:14](https://news.ycombinator.com/item?id=38539174) - [Go Testing by Example [video]](https://research.swtch.com/testing)
 * [2023-12-06, 00:57:39](https://news.ycombinator.com/item?id=38539167) - [An update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
@@ -14,6 +13,7 @@
 * [2023-12-05, 16:33:58](https://news.ycombinator.com/item?id=38533105) - [Fine-tuning Mistral 7B on Magic the Gathering Draft](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 * [2023-12-05, 16:23:23](https://news.ycombinator.com/item?id=38532914) - [Show HN: Desert Atlas, a self-hosted OpenStreetMap app for Sandstorm](https://sandstorm.org/news/2023-12-05-osm-on-sandstorm)
 * [2023-12-05, 16:13:10](https://news.ycombinator.com/item?id=38532761) - [Common Voice](https://commonvoice.mozilla.org/en)
+* [2023-12-05, 16:12:21](https://news.ycombinator.com/item?id=38532746) - [The challenges of supporting foreign key constraints](https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints)
 * [2023-12-05, 16:01:38](https://news.ycombinator.com/item?id=38532593) - [Launch HN: Openlayer (YC S21) – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
 * [2023-12-05, 15:33:23](https://news.ycombinator.com/item?id=38532167) - [iMessage, explained](https://jjtech.dev/reverse-engineering/imessage-explained/)
 * [2023-12-05, 15:06:21](https://news.ycombinator.com/item?id=38531759) - [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/)
