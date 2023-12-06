@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 05:53:09](https://news.ycombinator.com/item?id=38540850) - [Microsoft's Copilot is getting OpenAI's latest models and a new code interpreter](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 04:16:37](https://news.ycombinator.com/item?id=38540421) - [JSONB Has Landed in SQLite](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 03:25:42](https://news.ycombinator.com/item?id=38540178) - [Loco. The one-person framework for Rust for side-projects and startups](https://loco.rs/)
@@ -11,4 +12,5 @@
 * [2023-12-06, 01:23:11](https://news.ycombinator.com/item?id=38539374) - [A new quantum algorithm for classical mechanics with an exponential speedup](https://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 * [2023-12-06, 00:58:14](https://news.ycombinator.com/item?id=38539174) - [Russ Cox: Go Testing by Example](https://research.swtch.com/testing)
 * [2023-12-06, 00:57:39](https://news.ycombinator.com/item?id=38539167) - [An Update on Twitch in Korea](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/)
+* [2023-12-06, 00:56:20](https://news.ycombinator.com/item?id=38539153) - [MLX: An array framework for Apple Silicon](https://github.com/ml-explore/mlx)
 * [2023-12-06, 00:24:48](https://news.ycombinator.com/item?id=38538886) - [Thermoelectric Heating Comes in from the Cold](https://spectrum.ieee.org/thermoelectric-heating)
