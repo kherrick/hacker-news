@@ -12,7 +12,6 @@
 * [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking Serverless with Flame](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 10:45:55](https://news.ycombinator.com/item?id=38542330) - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
 * [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
-* [2023-12-06, 07:53:35](https://news.ycombinator.com/item?id=38541451) - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
 * [2023-12-06, 07:52:39](https://news.ycombinator.com/item?id=38541441) - [Second Life UPS Mark II](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
 * [2023-12-06, 07:21:08](https://news.ycombinator.com/item?id=38541272) - [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
@@ -30,6 +29,7 @@
 * [2023-12-05, 10:15:33](https://news.ycombinator.com/item?id=38529007) - [What Is a Hessenberg Matrix?](https://nhigham.com/2023/12/05/what-is-a-hessenberg-matrix/)
 * [2023-12-05, 09:21:39](https://news.ycombinator.com/item?id=38528595) - [A chess TUI implementation](https://github.com/thomas-mauran/chess-tui)
 * [2023-12-05, 08:49:50](https://news.ycombinator.com/item?id=38528416) - [Infocom’s code-porting tools for Zork and other games have been found](https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/)
+* [2023-12-04, 19:22:05](https://news.ycombinator.com/item?id=38521822) - [Music from Outer Space](https://musicfromouterspace.com/)
 
 ## [Archives](archives/index.md)
 

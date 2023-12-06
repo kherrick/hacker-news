@@ -26,6 +26,7 @@
 * [2023-12-04, 19:46:08](https://news.ycombinator.com/item?id=38522142) - [Minnesota middle school students 'seem happy' after cellphone ban](https://www.newsnationnow.com/us-news/education/minnesota-middle-cellphone-ban/)
 * [2023-12-04, 19:37:23](https://news.ycombinator.com/item?id=38522031) - [DoorDash raises minimum pay to $29.93 per hour in NYC](https://about.doordash.com/en-us/news/nyc-platform-experience)
 * [2023-12-04, 19:34:56](https://news.ycombinator.com/item?id=38521998) - [Show HN: Demo of Agent Based Model on GPU with CUDA and OpenGL (Windows/Linux)](https://github.com/KienTTran/ABMGPU)
+* [2023-12-04, 19:22:05](https://news.ycombinator.com/item?id=38521822) - [Music from Outer Space](https://musicfromouterspace.com/)
 * [2023-12-04, 18:25:51](https://news.ycombinator.com/item?id=38520974) - [Investors snagged 1 in 5 homes for sale in Boston area, worsening housing crisis](https://www.bostonglobe.com/2023/12/03/business/investor-boston-housing-real-estate/)
 * [2023-12-04, 18:24:42](https://news.ycombinator.com/item?id=38520948) - [ML system design: 300 use cases from 80 companies](https://www.evidentlyai.com/ml-system-design)
 * [2023-12-04, 18:21:47](https://news.ycombinator.com/item?id=38520901) - [Generating random terrains with Enu – a Nim lang based interactive sandbox](https://moigagoo.svbtle.com/generating-random-terrains-in-enu-0-2)
