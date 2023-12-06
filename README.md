@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-06, 19:11:46](https://news.ycombinator.com/item?id=38548209) - [Quad9 Turns the Sony Case Around in Dresden](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
-* [2023-12-06, 18:53:26](https://news.ycombinator.com/item?id=38548002) - [Physicists Find Seemingly Impossible Magnets with Just One Pole](https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole)
 * [2023-12-06, 18:17:49](https://news.ycombinator.com/item?id=38547556) - [OpenAI Switch Kit: Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 * [2023-12-06, 17:49:57](https://news.ycombinator.com/item?id=38547203) - [W3C Leaves Twitter](https://w3c.social/@w3c/111534700276754588)
 * [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
@@ -24,6 +23,7 @@
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-05, 22:56:29](https://news.ycombinator.com/item?id=38538111) - [All my favorite tracing tools](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 20:06:59](https://news.ycombinator.com/item?id=38536252) - [Lessons from Lake Tanganyika's Scale Eating Fish](https://thereader.mitpress.mit.edu/lessons-from-lake-tanganyikas-scale-eating-fish/)
+* [2023-12-05, 17:21:36](https://news.ycombinator.com/item?id=38533869) - [What it takes to save the axolotl](https://www.nytimes.com/2023/12/05/science/mexico-axolotl-biology.html)
 * [2023-12-05, 11:44:26](https://news.ycombinator.com/item?id=38529679) - [Operating Systems, Transit and Cultural Influences](https://bentsukun.ch/posts/os-culture/)
 * [2023-12-05, 10:30:36](https://news.ycombinator.com/item?id=38529143) - [How Hackerman would create an image just by typing 0 and 1 – a deep dive to GIF](https://medium.com/@happybits/how-hackerman-would-create-an-image-just-by-typing-zeros-and-ones-a-deep-dive-into-gif-file-32bada0926c0)
 * [2023-12-05, 09:02:48](https://news.ycombinator.com/item?id=38528488) - [\"Heaving oscillators\" use wave power to extend shipping range](https://newatlas.com/marine/heave-oscillators-wave-energy-ship/)
