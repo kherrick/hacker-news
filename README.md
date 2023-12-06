@@ -2,12 +2,12 @@
 
 * [2023-12-06, 22:32:46](https://news.ycombinator.com/item?id=38550408) - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
 * [2023-12-06, 22:17:14](https://news.ycombinator.com/item?id=38550271) - [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
-* [2023-12-06, 22:15:34](https://news.ycombinator.com/item?id=38550257) - [Don't Fall for Big Oil's Carbon Capture Deceptions](https://www.scientificamerican.com/article/dont-fall-for-big-oils-carbon-capture-deceptions/)
 * [2023-12-06, 21:50:34](https://news.ycombinator.com/item?id=38550026) - [Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
 * [2023-12-06, 21:00:02](https://news.ycombinator.com/item?id=38549388) - [Framework Laptop 16 Deep Dive – Connectors](https://frame.work/blog/framework-laptop-16-deep-dive---connectors)
 * [2023-12-06, 20:55:05](https://news.ycombinator.com/item?id=38549337) - [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105)
 * [2023-12-06, 20:02:53](https://news.ycombinator.com/item?id=38548774) - [Painting is Terribly Difficult](https://www.lrb.co.uk/the-paper/v45/n24/julian-barnes/painting-is-terribly-difficult)
+* [2023-12-06, 19:11:46](https://news.ycombinator.com/item?id=38548209) - [Quad9 wins appeal against Sony](https://quad9.net/news/blog/quad9-turns-the-sony-case-around-in-dresden/)
 * [2023-12-06, 19:04:28](https://news.ycombinator.com/item?id=38548130) - [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
 * [2023-12-06, 18:17:49](https://news.ycombinator.com/item?id=38547556) - [Swap OpenAI with any open-source model](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes)
 * [2023-12-06, 17:37:48](https://news.ycombinator.com/item?id=38547033) - [Show HN: Lume – automate data mappings using AI](https://www.lume.ai/)
