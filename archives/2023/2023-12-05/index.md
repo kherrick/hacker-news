@@ -68,6 +68,7 @@
 * [2023-12-05, 13:06:03](https://news.ycombinator.com/item?id=38530207) - [Sorry, but a new prompt for GPT-4 is not a paper](https://twitter.com/hbouammar/status/1731970658278469714)
 * [2023-12-05, 12:52:32](https://news.ycombinator.com/item?id=38530087) - [Ask HN: How are you dealing with the job market anxiety?](https://news.ycombinator.com/item?id=38530087)
 * [2023-12-05, 12:45:04](https://news.ycombinator.com/item?id=38530043) - [Phantom oscillations in principal component analysis](https://www.pnas.org/doi/10.1073/pnas.2311420120)
+* [2023-12-05, 12:42:47](https://news.ycombinator.com/item?id=38530030) - [A peculiar fish and an evolutionary mystery](https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/)
 * [2023-12-05, 12:32:16](https://news.ycombinator.com/item?id=38529977) - [The Time Julius Caesar Was Captured by Pirates](https://www.britannica.com/story/the-time-julius-caesar-was-captured-by-pirates)
 * [2023-12-05, 12:23:49](https://news.ycombinator.com/item?id=38529930) - [Notes on Python to Go Translation of reposurgeon (2018)](https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc)
 * [2023-12-05, 12:07:49](https://news.ycombinator.com/item?id=38529840) - [Supreme Court hears a case that experts say could wreak havoc on the tax code](https://www.npr.org/2023/12/05/1216859366/supreme-court-tax-code)
