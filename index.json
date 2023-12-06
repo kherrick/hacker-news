@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-06, 05:53:09",
-      "https://news.ycombinator.com/item?id=38540850"
-    ],
-    [
-      "Microsoft's Copilot is getting OpenAI's latest models and a new code interpreter",
-      "https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature"
-    ]
-  ],
-  [
-    [
       "2023-12-06, 05:32:43",
       "https://news.ycombinator.com/item?id=38540761"
     ],
@@ -67,6 +57,16 @@
     [
       "MLX: An array framework for Apple Silicon",
       "https://github.com/ml-explore/mlx"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 00:40:44",
+      "https://news.ycombinator.com/item?id=38539020"
+    ],
+    [
+      "MLX: NumPy like framework for Apple Silicon by Apple",
+      "https://ml-explore.github.io/mlx/build/html/index.html"
     ]
   ],
   [
