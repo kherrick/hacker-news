@@ -19,7 +19,7 @@
 * [2023-12-05, 22:41:09](https://news.ycombinator.com/item?id=38537933) - [Cognitive ability and miscalibrated financial expectations](https://journals.sagepub.com/doi/10.1177/01461672231209400)
 * [2023-12-05, 22:14:05](https://news.ycombinator.com/item?id=38537682) - [StyleX – Meta's styling library](https://stylexjs.com/)
 * [2023-12-05, 20:46:05](https://news.ycombinator.com/item?id=38536681) - [Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
-* [2023-12-05, 16:01:38](https://news.ycombinator.com/item?id=38532593) - [Launch HN: Openlayer (YC S21) – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
+* [2023-12-05, 17:21:36](https://news.ycombinator.com/item?id=38533869) - [What it takes to save the axolotl](https://www.nytimes.com/2023/12/05/science/mexico-axolotl-biology.html)
 * [2023-12-05, 15:06:21](https://news.ycombinator.com/item?id=38531759) - [Show HN: Beeper Mini – iMessage client for Android](https://www.beeper.com/)
 * [2023-12-05, 14:44:39](https://news.ycombinator.com/item?id=38531428) - [How does Shazam work? (2022)](https://www.cameronmacleod.com/blog/how-does-shazam-work)
 * [2023-12-05, 13:17:44](https://news.ycombinator.com/item?id=38530309) - [Branchless Lomuto Partitioning](https://orlp.net/blog/branchless-lomuto-partitioning/)
