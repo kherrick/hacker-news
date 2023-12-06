@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 17:01:07](https://news.ycombinator.com/item?id=38546478) - [Polymath Robotics (YC S22) Is Hiring Robotics Safety Engineer – San Francisco](https://www.ycombinator.com/companies/polymath-robotics/jobs/5icOcQK-robotics-safety-engineer-in-san-francisco)
+* [2023-12-06, 16:34:01](https://news.ycombinator.com/item?id=38546121) - [Flickypedia helps you put Flickr photos on Wikimedia Commons](https://www.flickr.org/tools/flickypedia/)
 * [2023-12-06, 16:31:38](https://news.ycombinator.com/item?id=38546079) - [Gold Prices Are Hitting Records](https://www.wsj.com/finance/commodities-futures/why-gold-prices-are-hitting-records-5772ec5f)
 * [2023-12-06, 16:21:57](https://news.ycombinator.com/item?id=38545947) - [JetBrains AI Launch Event [video]](https://www.youtube.com/watch?v=SN51H_q9wBg)
 * [2023-12-06, 16:14:29](https://news.ycombinator.com/item?id=38545850) - [Microsoft Will Eventually Start Charging You for Windows 10 Security Updates](https://gizmodo.com/microsfot-windows-10-charging-2025-1851074975)
