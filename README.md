@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-06, 13:29:33](https://news.ycombinator.com/item?id=38543587) - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
-* [2023-12-06, 13:13:55](https://news.ycombinator.com/item?id=38543401) - [Clues Hint at the True Nature of OpenAI's Shadowy Q* Project](https://www.wired.com/story/fast-forward-clues-hint-openai-shadowy-q-project/)
+* [2023-12-06, 13:26:27](https://news.ycombinator.com/item?id=38543546) - [Ask HN: How are quantum computing companies making money?](https://news.ycombinator.com/item?id=38543546)
+* [2023-12-06, 13:21:28](https://news.ycombinator.com/item?id=38543491) - [Nim](https://nim-lang.org/blog/2023/09/19/mastering-nim.html)
 * [2023-12-06, 13:06:45](https://news.ycombinator.com/item?id=38543322) - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 * [2023-12-06, 12:58:29](https://news.ycombinator.com/item?id=38543229) - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 * [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
-* [2023-12-06, 12:39:10](https://news.ycombinator.com/item?id=38543064) - [Tesla (VP Vehicle Engineering) says Cybertruck likely to not make it to Europe](https://www.topgear.com/car-reviews/tesla/cybertruck/buying)
 * [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
 * [2023-12-06, 12:21:29](https://news.ycombinator.com/item?id=38542892) - [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
