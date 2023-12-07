@@ -70,6 +70,7 @@
 * [2023-12-06, 11:28:59](https://news.ycombinator.com/item?id=38542556) - [Until the 14th century women dominated the field of beer brewing](https://daily.jstor.org/a-pint-for-the-alewives/)
 * [2023-12-06, 10:45:55](https://news.ycombinator.com/item?id=38542330) - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
 * [2023-12-06, 10:23:23](https://news.ycombinator.com/item?id=38542238) - [Ask HN: What are some excellent blogs, news boards, YouTube channels to follow?](https://news.ycombinator.com/item?id=38542238)
+* [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
 * [2023-12-06, 10:06:46](https://news.ycombinator.com/item?id=38542166) - [The (Often) Overlooked Experiment That Revealed the Quantum World](https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/)
 * [2023-12-06, 09:39:22](https://news.ycombinator.com/item?id=38542020) - [Takeaway](https://notoneoffbritishisms.com/2023/12/05/takeaway-2/)
