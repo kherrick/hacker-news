@@ -61,6 +61,7 @@
 * [2023-12-06, 12:58:29](https://news.ycombinator.com/item?id=38543229) - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 * [2023-12-06, 12:54:20](https://news.ycombinator.com/item?id=38543196) - [Playstation keeps reminding us why digital ownership sucks](https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks)
 * [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications -US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
+* [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life Is Omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2023-12-06, 12:39:10](https://news.ycombinator.com/item?id=38543064) - [Tesla (VP Vehicle Engineering) says Cybertruck likely to not make it to Europe](https://www.topgear.com/car-reviews/tesla/cybertruck/buying)
 * [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
 * [2023-12-06, 12:27:05](https://news.ycombinator.com/item?id=38542955) - [A Warning](https://www.theatlantic.com/magazine/archive/2024/01/warning-second-trump-term/676117/)
