@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 10:08:55](https://news.ycombinator.com/item?id=38554768) - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
 * [2023-12-07, 08:27:45](https://news.ycombinator.com/item?id=38554159) - [He blew the whistle on Amazon. He's still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
 * [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
@@ -13,7 +14,6 @@
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Long context prompting for Claude 2.1](https://www.anthropic.com/index/claude-2-1-prompting)
 * [2023-12-06, 22:32:46](https://news.ycombinator.com/item?id=38550408) - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
 * [2023-12-06, 21:50:34](https://news.ycombinator.com/item?id=38550026) - [Unveiling secrets of the ESP32: creating an open-source MAC layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
-* [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
 * [2023-12-06, 20:02:53](https://news.ycombinator.com/item?id=38548774) - [Painting is Terribly Difficult](https://www.lrb.co.uk/the-paper/v45/n24/julian-barnes/painting-is-terribly-difficult)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 10:06:46](https://news.ycombinator.com/item?id=38542166) - [Stern-Gerlach experiment used to probe the clash of quantum theory and gravity](https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/)
