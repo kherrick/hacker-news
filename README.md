@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-07, 08:27:45](https://news.ycombinator.com/item?id=38554159) - [He blew the whistle on Amazon. He's still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
-* [2023-12-07, 06:37:06](https://news.ycombinator.com/item?id=38553530) - [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
+* [2023-12-07, 07:48:14](https://news.ycombinator.com/item?id=38553934) - [Is El Salvador's Bitcoin bet paying off?](https://www.bbc.com/news/technology-67637245)
 * [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 * [2023-12-07, 04:59:49](https://news.ycombinator.com/item?id=38553008) - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
