@@ -24,10 +24,10 @@
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
 * [2023-12-07, 10:43:46](https://news.ycombinator.com/item?id=38554994) - [Show HN: My related-posts finder script (with LLM and GPT4 enhancement)](https://tomhazledine.com/llm-related-posts/)
 * [2023-12-07, 09:03:44](https://news.ycombinator.com/item?id=38554393) - [A Schism in the OpenPGP World](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
-* [2023-12-07, 06:55:10](https://news.ycombinator.com/item?id=38553624) - [Partitioned consensus and its impact on Spanner's latency](http://dbmsmusings.blogspot.com/2018/12/partitioned-consensus-and-its-impact-on.html)
 * [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life is omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2023-12-06, 12:22:46](https://news.ycombinator.com/item?id=38542905) - [Unlocking the secrets of oobleck–strange stuff that's both liquid and solid](https://arstechnica.com/science/2023/12/unlocking-the-secrets-of-oobleck-strange-stuff-thats-both-liquid-and-solid/)
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
+* [2023-12-06, 09:52:46](https://news.ycombinator.com/item?id=38542101) - [WikEM, the Global Emergency Medicine Wiki](https://wikem.org/wiki/Main_Page)
 * [2023-12-06, 09:19:24](https://news.ycombinator.com/item?id=38541901) - [The first electro-mechanical desktop synthesizer](https://gamechangeraudio.com/motor-synth-mkii/)
 * [2023-12-05, 22:01:23](https://news.ycombinator.com/item?id=38537545) - [Jets: Ruby Serverless Framework](https://docs.rubyonjets.com/)
 

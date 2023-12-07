@@ -75,6 +75,7 @@
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
 * [2023-12-06, 10:06:46](https://news.ycombinator.com/item?id=38542166) - [The (Often) Overlooked Experiment That Revealed the Quantum World](https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/)
+* [2023-12-06, 09:52:46](https://news.ycombinator.com/item?id=38542101) - [WikEM, the Global Emergency Medicine Wiki](https://wikem.org/wiki/Main_Page)
 * [2023-12-06, 09:39:22](https://news.ycombinator.com/item?id=38542020) - [Takeaway](https://notoneoffbritishisms.com/2023/12/05/takeaway-2/)
 * [2023-12-06, 09:19:24](https://news.ycombinator.com/item?id=38541901) - [The first electro-mechanical desktop synthesizer](https://gamechangeraudio.com/motor-synth-mkii/)
 * [2023-12-06, 09:06:33](https://news.ycombinator.com/item?id=38541825) - [Crush Your Interviews with the Power of Storytelling](https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling)
