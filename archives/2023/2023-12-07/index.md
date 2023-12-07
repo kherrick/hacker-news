@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
+* [2023-12-07, 15:41:19](https://news.ycombinator.com/item?id=38557588) - [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
 * [2023-12-07, 15:34:11](https://news.ycombinator.com/item?id=38557480) - [NASA's Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
 * [2023-12-07, 15:21:41](https://news.ycombinator.com/item?id=38557327) - [Ask HN: What other good forums are out there?](https://news.ycombinator.com/item?id=38557327)
 * [2023-12-07, 15:17:18](https://news.ycombinator.com/item?id=38557283) - [Spotify CFO cashes in £7.2M in shares after value surges on news of job cuts](https://www.theguardian.com/technology/2023/dec/07/spotify-cfo-cashes-in-72m-in-shares-after-value-surges-on-news-of-job-cuts)
