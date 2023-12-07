@@ -2,6 +2,7 @@
 
 * [2023-12-07, 03:17:40](https://news.ycombinator.com/item?id=38552434) - [Bungie Devs Atmosphere 'Soul-Crushing' Amid Layoffs, Cuts, Fear of Sony Takeover](https://www.ign.com/articles/bungie-devs-say-atmosphere-is-soul-crushing-amid-layoffs-cuts-and-fear-of-total-sony-takeover)
 * [2023-12-07, 03:09:42](https://news.ycombinator.com/item?id=38552370) - [Mistral LLM on Apple Silicon Using Apple's MLX Framework Runs Instantaneously](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
+* [2023-12-07, 02:55:40](https://news.ycombinator.com/item?id=38552267) - [The extremely large telescope will transform astronomy](https://www.economist.com/interactive/science-and-technology/2023/12/06/the-extremely-telescope-will-trasform-astronomy)
 * [2023-12-07, 02:39:32](https://news.ycombinator.com/item?id=38552159) - [Windows 11 is last in gaming performance tests against 3 Linux gaming distros](https://www.notebookcheck.net/Windows-11-scores-dead-last-in-gaming-performance-tests-against-3-Linux-gaming-distros.778624.0.html)
 * [2023-12-07, 02:11:34](https://news.ycombinator.com/item?id=38551993) - [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
 * [2023-12-07, 01:54:06](https://news.ycombinator.com/item?id=38551890) - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
@@ -17,7 +18,6 @@
 * [2023-12-06, 20:02:53](https://news.ycombinator.com/item?id=38548774) - [Painting is Terribly Difficult](https://www.lrb.co.uk/the-paper/v45/n24/julian-barnes/painting-is-terribly-difficult)
 * [2023-12-06, 19:04:28](https://news.ycombinator.com/item?id=38548130) - [Wikifunctions](https://wikimediafoundation.org/news/2023/12/05/introducing-wikifunctions-first-wikimedia-project-to-launch-in-a-decade-creates-new-forms-of-knowledge/)
 * [2023-12-06, 17:03:27](https://news.ycombinator.com/item?id=38546520) - [Spotlight: Sentry for Development](https://spotlightjs.com/)
-* [2023-12-06, 15:48:44](https://news.ycombinator.com/item?id=38545417) - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 * [2023-12-06, 15:35:41](https://news.ycombinator.com/item?id=38545207) - [Show HN: CopilotKit- Build in-app AI chatbots and AI-powered textareas](https://github.com/CopilotKit/CopilotKit)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 10:06:46](https://news.ycombinator.com/item?id=38542166) - [Stern-Gerlach experiment used to probe the clash of quantum theory and gravity](https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/)
