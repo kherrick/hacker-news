@@ -70,6 +70,7 @@
 * [2023-12-06, 10:23:23](https://news.ycombinator.com/item?id=38542238) - [Ask HN: What are some excellent blogs, news boards, YouTube channels to follow?](https://news.ycombinator.com/item?id=38542238)
 * [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
 * [2023-12-06, 10:06:46](https://news.ycombinator.com/item?id=38542166) - [The (Often) Overlooked Experiment That Revealed the Quantum World](https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/)
+* [2023-12-06, 09:06:33](https://news.ycombinator.com/item?id=38541825) - [Crush Your Interviews with the Power of Storytelling](https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling)
 * [2023-12-06, 08:27:46](https://news.ycombinator.com/item?id=38541640) - [Bring code from other platforms into the browser](https://thewebshowcase.withgoogle.com/bring-code-from-platforms-into-the-browser)
 * [2023-12-06, 08:03:12](https://news.ycombinator.com/item?id=38541516) - [Cdpath: Easily Navigate Directories in the Terminal](https://www.writesoftwarewell.com/cdpath-easily-navigate-directories-in-the-terminal/)
 * [2023-12-06, 07:53:35](https://news.ycombinator.com/item?id=38541451) - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)

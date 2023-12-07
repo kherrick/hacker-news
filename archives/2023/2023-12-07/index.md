@@ -6,6 +6,7 @@
 
 * [2023-12-07, 06:37:06](https://news.ycombinator.com/item?id=38553530) - [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
 * [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of Curiosities Laid the Foundation for Modern Museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
+* [2023-12-07, 05:43:59](https://news.ycombinator.com/item?id=38553254) - [Tesla Whistleblower – 'Autopilot' System Not Safe Enough for Public Roads](https://jalopnik.com/tesla-whistleblower-says-autopilot-system-is-not-safe-e-1851077068)
 * [2023-12-07, 04:59:49](https://news.ycombinator.com/item?id=38553008) - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
 * [2023-12-07, 04:25:36](https://news.ycombinator.com/item?id=38552823) - [New Legislation Proposes to Take Wall Street Out of the Housing Market](https://www.nytimes.com/2023/12/06/realestate/wall-street-housing-market.html)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger – Engineering at Meta](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
