@@ -65,6 +65,7 @@
 * [2023-12-06, 12:39:10](https://news.ycombinator.com/item?id=38543064) - [Tesla (VP Vehicle Engineering) says Cybertruck likely to not make it to Europe](https://www.topgear.com/car-reviews/tesla/cybertruck/buying)
 * [2023-12-06, 12:35:21](https://news.ycombinator.com/item?id=38543029) - [EfficientSAM](https://yformer.github.io/efficient-sam/)
 * [2023-12-06, 12:27:05](https://news.ycombinator.com/item?id=38542955) - [A Warning](https://www.theatlantic.com/magazine/archive/2024/01/warning-second-trump-term/676117/)
+* [2023-12-06, 12:22:46](https://news.ycombinator.com/item?id=38542905) - [Unlocking the secrets of oobleck–strange stuff that's both liquid and solid](https://arstechnica.com/science/2023/12/unlocking-the-secrets-of-oobleck-strange-stuff-thats-both-liquid-and-solid/)
 * [2023-12-06, 12:21:29](https://news.ycombinator.com/item?id=38542892) - [Norway Joins Denmark in Swedish Tesla Strike/Blockade](https://www.svt.se/nyheter/utrikes/aven-norge-dras-in-i-teslastrejken--3vcx0b)
 * [2023-12-06, 12:18:48](https://news.ycombinator.com/item?id=38542875) - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
 * [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking Serverless with Flame](https://fly.io/blog/rethinking-serverless-with-flame/)
