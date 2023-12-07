@@ -7,6 +7,7 @@
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
 * [2023-12-07, 15:41:19](https://news.ycombinator.com/item?id=38557588) - [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
 * [2023-12-07, 15:34:11](https://news.ycombinator.com/item?id=38557480) - [NASA's Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
+* [2023-12-07, 15:33:46](https://news.ycombinator.com/item?id=38557477) - [Nanoplastics Likely Worse Than Microplastics; We Know Almost Nothing About Them](https://www.vice.com/en/article/k7zkm3/nanoplastics-could-be-worse-than-microplastics-and-we-know-almost-nothing-about-them)
 * [2023-12-07, 15:21:41](https://news.ycombinator.com/item?id=38557327) - [Ask HN: What other good forums are out there?](https://news.ycombinator.com/item?id=38557327)
 * [2023-12-07, 15:17:18](https://news.ycombinator.com/item?id=38557283) - [Spotify CFO cashes in £7.2M in shares after value surges on news of job cuts](https://www.theguardian.com/technology/2023/dec/07/spotify-cfo-cashes-in-72m-in-shares-after-value-surges-on-news-of-job-cuts)
 * [2023-12-07, 15:13:56](https://news.ycombinator.com/item?id=38557246) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
