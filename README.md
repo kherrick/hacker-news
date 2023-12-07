@@ -9,6 +9,7 @@
 * [2023-12-07, 02:39:32](https://news.ycombinator.com/item?id=38552159) - [Windows 11 is last in gaming performance tests against 3 Linux gaming distros](https://www.notebookcheck.net/Windows-11-scores-dead-last-in-gaming-performance-tests-against-3-Linux-gaming-distros.778624.0.html)
 * [2023-12-07, 01:54:06](https://news.ycombinator.com/item?id=38551890) - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
 * [2023-12-07, 01:38:07](https://news.ycombinator.com/item?id=38551809) - [Five-Disk Floppy Raid: 4MB of Blistering Fast Storage (2009)](https://www.wired.com/2009/05/five-disk-floppy-raid-4mb-of-blistering-fast-storage/)
+* [2023-12-06, 23:51:13](https://news.ycombinator.com/item?id=38551085) - [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
 * [2023-12-06, 23:38:40](https://news.ycombinator.com/item?id=38550994) - [Researchers have discovered magnetic monopole quasi-particles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Merlin Sound ID – Identify Birds Using Your Phone (How It Works)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Long context prompting for Claude 2.1](https://www.anthropic.com/index/claude-2-1-prompting)
@@ -28,7 +29,6 @@
 * [2023-12-05, 22:34:50](https://news.ycombinator.com/item?id=38537873) - [Addressing post-quantum cryptography with CodeQL](https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/)
 * [2023-12-05, 19:05:51](https://news.ycombinator.com/item?id=38535446) - [The Sheep Incident (2008)](https://www.damninteresting.com/the-sheep-incident/)
 * [2023-12-05, 17:37:27](https://news.ycombinator.com/item?id=38534153) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
-* [2023-12-05, 10:30:36](https://news.ycombinator.com/item?id=38529143) - [How Hackerman would create an image just by typing 0 and 1 – deep dive into GIF](https://medium.com/@happybits/how-hackerman-would-create-an-image-just-by-typing-zeros-and-ones-a-deep-dive-into-gif-file-32bada0926c0)
 * [2023-12-04, 10:14:35](https://news.ycombinator.com/item?id=38515571) - [LogoFAIL: Secure Boot bypass with manipulated boot logos](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/)
 
 ## [Archives](archives/index.md)
