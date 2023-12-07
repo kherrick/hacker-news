@@ -2,7 +2,6 @@
 
 * [2023-12-07, 06:37:06](https://news.ycombinator.com/item?id=38553530) - [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
 * [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
-* [2023-12-07, 05:43:59](https://news.ycombinator.com/item?id=38553254) - [Tesla Whistleblower – 'Autopilot' System Not Safe Enough for Public Roads](https://jalopnik.com/tesla-whistleblower-says-autopilot-system-is-not-safe-e-1851077068)
 * [2023-12-07, 04:59:49](https://news.ycombinator.com/item?id=38553008) - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
 * [2023-12-07, 03:49:56](https://news.ycombinator.com/item?id=38552628) - [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
@@ -27,6 +26,7 @@
 * [2023-12-06, 00:08:39](https://news.ycombinator.com/item?id=38538754) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 * [2023-12-05, 22:59:54](https://news.ycombinator.com/item?id=38538144) - [Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-05, 22:34:50](https://news.ycombinator.com/item?id=38537873) - [Addressing post-quantum cryptography with CodeQL](https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/)
+* [2023-12-05, 19:37:41](https://news.ycombinator.com/item?id=38535853) - [Philosophy of Biff](https://biffweb.com/p/philosophy-of-biff/)
 * [2023-12-05, 19:05:51](https://news.ycombinator.com/item?id=38535446) - [The Sheep Incident (2008)](https://www.damninteresting.com/the-sheep-incident/)
 * [2023-12-05, 17:37:27](https://news.ycombinator.com/item?id=38534153) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-12-04, 10:14:35](https://news.ycombinator.com/item?id=38515571) - [LogoFAIL: Secure Boot bypass with manipulated boot logos](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/)
