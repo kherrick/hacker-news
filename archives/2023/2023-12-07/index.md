@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 23:02:13](https://news.ycombinator.com/item?id=38563002) - [Google's best Gemini demo was faked](https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/)
 * [2023-12-07, 22:56:20](https://news.ycombinator.com/item?id=38562946) - [Greedflation: Corporate profiteering 'significantly' boosted global prices,study](https://www.theguardian.com/business/2023/dec/07/greedflation-corporate-profiteering-boosted-global-prices-study)
 * [2023-12-07, 22:34:00](https://news.ycombinator.com/item?id=38562726) - [Google calls Drive data loss \"fixed,\" locks forum threads saying otherwise](https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/)
 * [2023-12-07, 22:14:15](https://news.ycombinator.com/item?id=38562558) - [How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)
