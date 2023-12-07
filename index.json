@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-12-06, 17:03:27",
+      "https://news.ycombinator.com/item?id=38546520"
+    ],
+    [
+      "Spotlight: Sentry for Development",
+      "https://spotlightjs.com/"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 15:35:41",
       "https://news.ycombinator.com/item?id=38545207"
     ],
@@ -257,16 +267,6 @@
     [
       "Syncthing: Untrusted Device Encryption",
       "https://docs.syncthing.net/specs/untrusted.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 22:34:50",
-      "https://news.ycombinator.com/item?id=38537873"
-    ],
-    [
-      "Addressing post-quantum cryptography with CodeQL",
-      "https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/"
     ]
   ],
   [
