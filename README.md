@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good (2020)](https://danluu.com/p95-skill/)
 * [2023-12-07, 18:40:28](https://news.ycombinator.com/item?id=38560041) - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 * [2023-12-07, 18:17:56](https://news.ycombinator.com/item?id=38559770) - [Helen Toner shares her side](https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef)
 * [2023-12-07, 18:10:21](https://news.ycombinator.com/item?id=38559672) - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
@@ -23,9 +22,10 @@
 * [2023-12-07, 13:53:06](https://news.ycombinator.com/item?id=38556261) - [Chipsynth C64 is an emulation of the SID so good, it can replace hardware](https://cdm.link/2023/12/chipsynth-c64/)
 * [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [SVG Tutorial](https://svg-tutorial.com/)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
+* [2023-12-07, 10:43:46](https://news.ycombinator.com/item?id=38554994) - [Show HN: My related-posts finder script (with LLM and GPT4 enhancement)](https://tomhazledine.com/llm-related-posts/)
 * [2023-12-07, 09:03:44](https://news.ycombinator.com/item?id=38554393) - [A Schism in the OpenPGP World](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
 * [2023-12-07, 06:55:10](https://news.ycombinator.com/item?id=38553624) - [Partitioned consensus and its impact on Spanner's latency](http://dbmsmusings.blogspot.com/2018/12/partitioned-consensus-and-its-impact-on.html)
-* [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life Is Omniperiodic](https://arxiv.org/abs/2312.02799)
+* [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life is omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-05, 22:01:23](https://news.ycombinator.com/item?id=38537545) - [Jets: Ruby Serverless Framework](https://docs.rubyonjets.com/)
 * [2023-12-05, 14:11:04](https://news.ycombinator.com/item?id=38530893) - [Light can be reflected not only in space but also in time](https://www.scientificamerican.com/article/light-can-travel-backward-in-time-sort-of/)

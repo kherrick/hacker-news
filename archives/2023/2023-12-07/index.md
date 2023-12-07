@@ -54,6 +54,7 @@
 * [2023-12-07, 12:02:12](https://news.ycombinator.com/item?id=38555451) - [Terminal Graphics Protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
 * [2023-12-07, 12:01:15](https://news.ycombinator.com/item?id=38555445) - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
+* [2023-12-07, 10:43:46](https://news.ycombinator.com/item?id=38554994) - [Show HN: My related-posts finder script (with LLM and GPT4 enhancement)](https://tomhazledine.com/llm-related-posts/)
 * [2023-12-07, 10:33:36](https://news.ycombinator.com/item?id=38554943) - [OpenPGP Forked into \"LibrePGP\" by GnuPG's Maintainer Werner Koch](https://blog.pgpkeys.eu/critique-critique.html)
 * [2023-12-07, 10:08:55](https://news.ycombinator.com/item?id=38554768) - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
 * [2023-12-07, 09:03:44](https://news.ycombinator.com/item?id=38554393) - [A Schism in the OpenPGP World](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
