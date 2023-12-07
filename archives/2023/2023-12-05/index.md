@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 23:50:18](https://news.ycombinator.com/item?id=38538592) - [Faeland](https://store.steampowered.com/app/1280080/Faeland/)
 * [2023-12-05, 23:38:48](https://news.ycombinator.com/item?id=38538487) - [High-Scale AI/ML Feature Serving at Low Cost with Caching](https://www.tecton.ai/blog/high-scale-feature-serving-at-low-cost-with-caching-machine-learning/)
 * [2023-12-05, 23:11:04](https://news.ycombinator.com/item?id=38538236) - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
 * [2023-12-05, 23:01:57](https://news.ycombinator.com/item?id=38538162) - [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
