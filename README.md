@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good](https://danluu.com/p95-skill/)
+* [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good (2020)](https://danluu.com/p95-skill/)
 * [2023-12-07, 18:40:28](https://news.ycombinator.com/item?id=38560041) - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 * [2023-12-07, 18:10:21](https://news.ycombinator.com/item?id=38559672) - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
 * [2023-12-07, 18:09:07](https://news.ycombinator.com/item?id=38559655) - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
