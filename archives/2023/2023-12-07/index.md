@@ -6,6 +6,7 @@
 
 * [2023-12-07, 19:22:50](https://news.ycombinator.com/item?id=38560624) - [Sam Altman-Backed Crypto Startup Raises $100M Bitcoin Private Credit Fund](https://coincu.com/234844-sam-altman-backed-crypto-startup-bitcoin-fund/)
 * [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good](https://danluu.com/p95-skill/)
+* [2023-12-07, 18:40:28](https://news.ycombinator.com/item?id=38560041) - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 * [2023-12-07, 18:10:22](https://news.ycombinator.com/item?id=38559673) - [Swedish court rules against Tesla in dispute with postal service over deliveries](https://www.reuters.com/world/europe/swedish-court-rules-against-tesla-dispute-with-postal-service-over-deliveries-2023-12-07/)
 * [2023-12-07, 18:10:21](https://news.ycombinator.com/item?id=38559672) - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
 * [2023-12-07, 18:09:07](https://news.ycombinator.com/item?id=38559655) - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
@@ -41,6 +42,7 @@
 * [2023-12-07, 13:24:12](https://news.ycombinator.com/item?id=38556008) - [Piracy Is Back: Piracy Statistics for 2023](https://dataprot.net/statistics/piracy-statistics/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
 * [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
+* [2023-12-07, 13:04:12](https://news.ycombinator.com/item?id=38555854) - [TAST-E is an animatronic robot head with a sense of taste and smell](https://blog.arduino.cc/2023/11/28/tast-e-is-an-animatronic-robot-head-with-a-sense-of-taste-and-smell/)
 * [2023-12-07, 13:02:53](https://news.ycombinator.com/item?id=38555846) - [Ex-Tesla employee casts doubt on car safety](https://www.bbc.com/news/technology-67591311)
 * [2023-12-07, 12:58:35](https://news.ycombinator.com/item?id=38555810) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
