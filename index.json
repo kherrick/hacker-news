@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2023-12-07, 13:02:53",
-      "https://news.ycombinator.com/item?id=38555846"
-    ],
-    [
-      "Ex-Tesla employee casts doubt on car safety",
-      "https://www.bbc.com/news/technology-67591311"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 12:58:35",
-      "https://news.ycombinator.com/item?id=38555810"
-    ],
-    [
-      "Apple and Google confirm governments spy on users through push notifications",
-      "https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 12:52:12",
       "https://news.ycombinator.com/item?id=38555768"
     ],
@@ -61,12 +41,32 @@
   ],
   [
     [
+      "2023-12-07, 12:30:15",
+      "https://news.ycombinator.com/item?id=38555629"
+    ],
+    [
+      "Show HN: VideoGist – Useful YouTube video summaries",
+      "https://www.videogist.co/"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 12:01:15",
       "https://news.ycombinator.com/item?id=38555445"
     ],
     [
       "Ploomber (YC W22) Is Hiring Software Engineers in NYC",
       "https://www.ycombinator.com/companies/ploomber/jobs"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 10:33:36",
+      "https://news.ycombinator.com/item?id=38554943"
+    ],
+    [
+      "OpenPGP Forked into \"LibrePGP\" by GnuPG's Maintainer Werner Koch",
+      "https://blog.pgpkeys.eu/critique-critique.html"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-12-07, 01:54:06",
+      "https://news.ycombinator.com/item?id=38551890"
+    ],
+    [
+      "23andMe updates their TOS to force binding arbitration",
+      "https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 23:38:40",
       "https://news.ycombinator.com/item?id=38550994"
     ],
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2023-12-06, 22:32:46",
-      "https://news.ycombinator.com/item?id=38550408"
-    ],
-    [
-      "Gordon Freeman at the Olympic Games",
-      "https://moonbase.lgbt/blog/100m-accelerated-backhopping/"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 21:50:34",
-      "https://news.ycombinator.com/item?id=38550026"
-    ],
-    [
-      "Unveiling secrets of the ESP32: creating an open-source MAC layer",
-      "https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/"
-    ]
-  ],
-  [
-    [
       "2023-12-06, 15:03:47",
       "https://news.ycombinator.com/item?id=38544729"
     ],
@@ -227,6 +217,16 @@
     [
       "Stern-Gerlach experiment used to probe the clash of quantum theory and gravity",
       "https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 09:06:33",
+      "https://news.ycombinator.com/item?id=38541825"
+    ],
+    [
+      "Crush Your Interviews with the Power of Storytelling",
+      "https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-12-05, 17:37:27",
-      "https://news.ycombinator.com/item?id=38534153"
-    ],
-    [
-      "Browsing the Eastern Side of the Personal Web",
-      "https://www.bikobatanari.art/posts/2023/east-west-website-culture"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 14:11:04",
       "https://news.ycombinator.com/item?id=38530893"
     ],
@@ -297,6 +287,16 @@
     [
       "Games Nintendo didn't want you to play: Tengen (2022)",
       "https://nicole.express/2022/the-center-point-can-not-hold.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 10:14:35",
+      "https://news.ycombinator.com/item?id=38515571"
+    ],
+    [
+      "LogoFAIL: Secure Boot bypass with manipulated boot logos",
+      "https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/"
     ]
   ]
 ]
