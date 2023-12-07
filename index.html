@@ -141,11 +141,11 @@
             <h4>
               <span>2023-12-07 @ 08:27:45</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38554159"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -160,11 +160,11 @@
             <h4>
               <span>2023-12-07 @ 07:48:14</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38553934"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -190,112 +190,6 @@
             </h4>
           </section>
         </section>
-        <section id="38553008">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=38553008"
-              >Tell HN: ZFS silent data corruption bugfix – my research
-              results</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-07 @ 04:59:49</span
-              ><span class="points-container"
-                >Points: <span class="points">68</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38553008"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                since I'm personally affected by this bug[1] and this scared me
-                somehow, I thought I'd post my research results to have a
-                discussion about the details.
-              </p>
-              <p>
-                I must say I lost a bit of trust in ZFS, since it was 'sold' as
-                rock solid unbreakable file system and now what... the sheer
-                complexity of ZFS let's me think that this was not the only bug
-                of this kind existing undetected in the source code.
-              </p>
-              <p>
-                However the communication was clear and precise, other
-                filesystems had similar problems and I just love the feature set
-                of zfs. So I'll give it another shot hoping that future
-                revisions will be safe(r).
-              </p>
-              <p>Here are my conclusions so far:</p>
-              <p></p>
-              <pre><code>  1. ZFS had a silent data corruption bug recently discussed on HN [6][7]
-  2. `Silent` means, you can't do anything about it without upgrading zfs (scrubs, checks, etc. don't help)
-  3. There is no tool to check if your data has been corrupted
-  4. Only once written and untouched data should be relatively safe (e.g. backups), the bug mainly affects reading data [4]
-  5. Setting `zfs_dmu_offset_next_sync=0` reduces probability of being affected, but no guarantee [4]
-  6. The bug affected any version before 2.2.2 and 2.1.14[2], but were more likely between 2.1.4 and 2.2.1 because a behaviour change in coreutils
-  7. The causing problem already existed much longer (since 2006?) - this is a question mark [4]
-  8. do a `zfs version` to see the version number
-  9. If you're scared (I was), please read this comment: https://news.ycombinator.com/item?id=38553342
-
-</code></pre>
-              So the only way to ENSURE your data is ok is checksumming all
-              files on another filesystem at file level and compare or
-              re-transfering all data from another filesystem after upgrading
-              zfs to the latest version.
-              <p>
-                Please let me know, if I missed something or got something
-                wrong.
-              </p>
-              <p>Sources:</p>
-              <p>
-                [1]:
-                <a
-                  href="https://www.phoronix.com/news/OpenZFS-Data-Corruption-Battle"
-                  >https://www.phoronix.com/news/OpenZFS-Data-Corruption-Battle</a
-                >
-              </p>
-              <p>
-                [2]:
-                <a href="https://www.phoronix.com/news/OpenZFS-2.2.2-Released"
-                  >https://www.phoronix.com/news/OpenZFS-2.2.2-Released</a
-                >
-              </p>
-              <p>
-                [3]:
-                <a
-                  href="https://www.theregister.com/2023/12/04/two_new_versions_of_openzfs/"
-                  >https://www.theregister.com/2023/12/04/two_new_versions_of_o...</a
-                >
-              </p>
-              <p>
-                [4]:
-                <a
-                  href="https://www.reddit.com/r/zfs/comments/1826lgs/psa_its_not_block_cloning_its_a_data_corruption/"
-                  >https://www.reddit.com/r/zfs/comments/1826lgs/psa_its_not_bl...</a
-                >
-              </p>
-              <p>
-                [5]:
-                <a href="https://news.ycombinator.com/item?id=38519382"
-                  >https://news.ycombinator.com/item?id=38519382</a
-                >
-              </p>
-              <p>
-                [6]:
-                <a href="https://news.ycombinator.com/item?id=38405731"
-                  >https://news.ycombinator.com/item?id=38405731</a
-                >
-              </p>
-              <p>
-                [7]:
-                <a href="https://news.ycombinator.com/item?id=38380240"
-                  >https://news.ycombinator.com/item?id=38380240</a
-                >
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="38552789">
           <h3>
             <a
@@ -308,11 +202,11 @@
             <h4>
               <span>2023-12-07 @ 04:21:51</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38552789"
                   >Comments</a
-                ><span class="descendants">: 191</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -329,7 +223,7 @@
             <h4>
               <span>2023-12-07 @ 03:49:56</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38552628"
                   >Comments</a
@@ -350,7 +244,7 @@
             <h4>
               <span>2023-12-07 @ 02:55:40</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38552267"
                   >Comments</a
@@ -391,11 +285,11 @@
             <h4>
               <span>2023-12-07 @ 01:54:06</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">227</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38551890"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -412,7 +306,7 @@
             <h4>
               <span>2023-12-07 @ 01:38:07</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38551809"
                   >Comments</a
@@ -437,7 +331,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38550994"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -476,11 +370,30 @@
             <h4>
               <span>2023-12-06 @ 23:00:20</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38550675"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38550567">
+          <h3>
+            <a class="item" href="https://tickets.events.ccc.de/37c3/intro/"
+              >Chaos Communication Congress tickets still available</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-06 @ 22:49:04</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38550567"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -497,7 +410,7 @@
             <h4>
               <span>2023-12-06 @ 22:32:46</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38550408"
                   >Comments</a
@@ -519,7 +432,7 @@
             <h4>
               <span>2023-12-06 @ 21:50:34</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38550026"
                   >Comments</a
@@ -556,7 +469,7 @@
             <h4>
               <span>2023-12-06 @ 20:02:53</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38548774"
                   >Comments</a
@@ -575,11 +488,11 @@
             <h4>
               <span>2023-12-06 @ 15:03:47</span
               ><span class="points-container"
-                >Points: <span class="points">1724</span></span
+                >Points: <span class="points">1725</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38544729"
                   >Comments</a
-                ><span class="descendants">: 1388</span></span
+                ><span class="descendants">: 1393</span></span
               >
             </h4>
           </section>
@@ -597,7 +510,7 @@
             <h4>
               <span>2023-12-06 @ 10:06:46</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38542166"
                   >Comments</a
@@ -618,11 +531,11 @@
             <h4>
               <span>2023-12-06 @ 09:06:33</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38541825"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -702,7 +615,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38538754"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -719,7 +632,7 @@
             <h4>
               <span>2023-12-05 @ 22:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38538144"
                   >Comments</a
@@ -738,7 +651,7 @@
             <h4>
               <span>2023-12-05 @ 19:37:41</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38535853"
                   >Comments</a
@@ -780,11 +693,11 @@
             <h4>
               <span>2023-12-05 @ 17:37:27</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38534153"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -799,11 +712,11 @@
             <h4>
               <span>2023-12-05 @ 17:33:45</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38534087"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -820,11 +733,11 @@
             <h4>
               <span>2023-12-04 @ 10:14:35</span
               ><span class="points-container"
-                >Points: <span class="points">262</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38515571"
                   >Comments</a
-                ><span class="descendants">: 277</span></span
+                ><span class="descendants">: 279</span></span
               >
             </h4>
           </section>
