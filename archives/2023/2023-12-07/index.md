@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 04:59:49](https://news.ycombinator.com/item?id=38553008) - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
+* [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger – Engineering at Meta](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
+* [2023-12-07, 03:49:56](https://news.ycombinator.com/item?id=38552628) - [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
 * [2023-12-07, 03:17:40](https://news.ycombinator.com/item?id=38552434) - [Bungie Devs Atmosphere 'Soul-Crushing' Amid Layoffs, Cuts, Fear of Sony Takeover](https://www.ign.com/articles/bungie-devs-say-atmosphere-is-soul-crushing-amid-layoffs-cuts-and-fear-of-total-sony-takeover)
 * [2023-12-07, 03:09:42](https://news.ycombinator.com/item?id=38552370) - [Running Mistral LLM on Apple Silicon Using Apple's MLX Framework Is Much Faster](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
 * [2023-12-07, 02:55:40](https://news.ycombinator.com/item?id=38552267) - [The extremely large telescope will transform astronomy](https://www.economist.com/interactive/science-and-technology/2023/12/06/the-extremely-telescope-will-trasform-astronomy)

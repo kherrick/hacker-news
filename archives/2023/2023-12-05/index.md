@@ -7,6 +7,7 @@
 * [2023-12-05, 23:38:48](https://news.ycombinator.com/item?id=38538487) - [High-Scale AI/ML Feature Serving at Low Cost with Caching](https://www.tecton.ai/blog/high-scale-feature-serving-at-low-cost-with-caching-machine-learning/)
 * [2023-12-05, 23:11:04](https://news.ycombinator.com/item?id=38538236) - [Does uBlock Origin (uBO) currently bypass YouTube's adblock detection?](https://drhyperion451.github.io/does-uBO-bypass-yt/)
 * [2023-12-05, 23:01:57](https://news.ycombinator.com/item?id=38538162) - [Playstation is erasing 1,318 seasons of Discovery shows from customer libraries](https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/)
+* [2023-12-05, 22:59:54](https://news.ycombinator.com/item?id=38538144) - [Syncthing: Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-05, 22:57:45](https://news.ycombinator.com/item?id=38538123) - [Governor of Amazonas wants to charge Amazon royalties for use of the brand](https://www.nordinvestimentos.com.br/blog/governador-do-amazonas/)
 * [2023-12-05, 22:56:29](https://news.ycombinator.com/item?id=38538111) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 22:55:51](https://news.ycombinator.com/item?id=38538100) - [Virtual Machine as a Core Android Primitive](https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html)
