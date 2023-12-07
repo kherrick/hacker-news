@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good](https://danluu.com/p95-skill/)
 * [2023-12-07, 18:10:22](https://news.ycombinator.com/item?id=38559673) - [Swedish court rules against Tesla in dispute with postal service over deliveries](https://www.reuters.com/world/europe/swedish-court-rules-against-tesla-dispute-with-postal-service-over-deliveries-2023-12-07/)
 * [2023-12-07, 18:10:21](https://news.ycombinator.com/item?id=38559672) - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
 * [2023-12-07, 18:09:07](https://news.ycombinator.com/item?id=38559655) - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
@@ -24,7 +25,6 @@
 * [2023-12-07, 12:02:12](https://news.ycombinator.com/item?id=38555451) - [Terminal Graphics Protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
 * [2023-12-07, 10:33:36](https://news.ycombinator.com/item?id=38554943) - [OpenPGP Forked into \"LibrePGP\" by GnuPG's Maintainer Werner Koch](https://blog.pgpkeys.eu/critique-critique.html)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
-* [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-06, 09:39:22](https://news.ycombinator.com/item?id=38542020) - [Takeaway](https://notoneoffbritishisms.com/2023/12/05/takeaway-2/)
 * [2023-12-06, 03:34:47](https://news.ycombinator.com/item?id=38540219) - [New calf brings new hope, and new concerns, for embattled Sumatran rhinos](https://news.mongabay.com/2023/11/new-calf-brings-new-hope-and-new-concerns-for-embattled-sumatran-rhinos/)
