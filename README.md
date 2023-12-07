@@ -2,6 +2,7 @@
 
 * [2023-12-07, 01:54:06](https://news.ycombinator.com/item?id=38551890) - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
 * [2023-12-07, 01:47:24](https://news.ycombinator.com/item?id=38551859) - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
+* [2023-12-07, 00:13:32](https://news.ycombinator.com/item?id=38551249) - [Senior engineers who don't code](https://josvisser.substack.com/p/senior-engineers-who-dont-code)
 * [2023-12-06, 23:51:13](https://news.ycombinator.com/item?id=38551085) - [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
 * [2023-12-06, 23:38:40](https://news.ycombinator.com/item?id=38550994) - [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Merlin Sound ID – Identify Birds Using Your Phone (How It Works)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
@@ -20,7 +21,6 @@
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 12:58:29](https://news.ycombinator.com/item?id=38543229) - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 * [2023-12-06, 12:49:52](https://news.ycombinator.com/item?id=38543155) - [Governments spying on Apple, Google users through push notifications](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
-* [2023-12-06, 12:03:39](https://news.ycombinator.com/item?id=38542764) - [Rethinking serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 08:03:12](https://news.ycombinator.com/item?id=38541516) - [Cdpath: Easily Navigate Directories in the Terminal](https://www.writesoftwarewell.com/cdpath-easily-navigate-directories-in-the-terminal/)
 * [2023-12-06, 05:37:43](https://news.ycombinator.com/item?id=38540776) - [What shape is the universe? (2021)](https://www.astronomy.com/science/what-shape-is-the-universe/)
 * [2023-12-06, 00:08:39](https://news.ycombinator.com/item?id=38538754) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
