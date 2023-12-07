@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 14:05:47](https://news.ycombinator.com/item?id=38556450) - [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
 * [2023-12-07, 13:24:12](https://news.ycombinator.com/item?id=38556008) - [Piracy Is Back: Piracy Statistics for 2023](https://dataprot.net/statistics/piracy-statistics/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
 * [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
