@@ -2,6 +2,7 @@
 
 * [2023-12-07, 18:10:22](https://news.ycombinator.com/item?id=38559673) - [Swedish court rules against Tesla in dispute with postal service over deliveries](https://www.reuters.com/world/europe/swedish-court-rules-against-tesla-dispute-with-postal-service-over-deliveries-2023-12-07/)
 * [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making Noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
+* [2023-12-07, 18:03:42](https://news.ycombinator.com/item?id=38559582) - [Gemini \"duck\" demo was not done in realtime or with voice](https://twitter.com/parmy/status/1732811357068615969)
 * [2023-12-07, 17:38:31](https://news.ycombinator.com/item?id=38559299) - [GateLoop: Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
 * [2023-12-07, 17:34:00](https://news.ycombinator.com/item?id=38559247) - [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
 * [2023-12-07, 17:00:18](https://news.ycombinator.com/item?id=38558788) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
@@ -9,7 +10,6 @@
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
 * [2023-12-07, 15:41:19](https://news.ycombinator.com/item?id=38557588) - [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
 * [2023-12-07, 15:34:11](https://news.ycombinator.com/item?id=38557480) - [NASA's Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
-* [2023-12-07, 15:15:50](https://news.ycombinator.com/item?id=38557263) - [Senator Sends Automakers Letter Criticizing Their Nonexistent Privacy Standards](https://www.techdirt.com/2023/12/07/senator-markey-sends-automakers-a-letter-criticizing-their-nonexistent-privacy-standards/)
 * [2023-12-07, 15:13:56](https://news.ycombinator.com/item?id=38557246) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-07, 14:57:23](https://news.ycombinator.com/item?id=38557054) - [Meta's new AI image generator was trained on 1.1B Instagram and FB photos](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 * [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
