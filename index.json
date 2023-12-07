@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-07, 19:49:44",
-      "https://news.ycombinator.com/item?id=38560943"
-    ],
-    [
-      "Fairphone 5 scores a perfect 10 from iFixit for repairability",
-      "https://www.theregister.com/2023/12/07/fairphone_5_repairability/"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 19:01:48",
       "https://news.ycombinator.com/item?id=38560345"
     ],
@@ -27,6 +17,16 @@
     [
       "OpenAI employees did not want to go work for Microsoft",
       "https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 18:17:56",
+      "https://news.ycombinator.com/item?id=38559770"
+    ],
+    [
+      "Helen Toner shares her side",
+      "https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38559607"
     ],
     [
-      "Making Noisy SVGs",
+      "Making noisy SVGs",
       "https://daniel.do/article/making-noisy-svgs/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38559192"
     ],
     [
-      "Choose Your Own IP",
+      "Choose your own IP",
       "https://tailscale.com/blog/choose-your-ip/"
     ]
   ],
@@ -135,18 +135,8 @@
       "https://news.ycombinator.com/item?id=38557715"
     ],
     [
-      "Data Engineering Design Patterns (DEDP)",
+      "Data Engineering Design Patterns",
       "https://www.dedp.online/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 15:41:19",
-      "https://news.ycombinator.com/item?id=38557588"
-    ],
-    [
-      "Efficient Transformer Knowledge Distillation: A Performance Review",
-      "https://arxiv.org/abs/2311.13657"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=38556669"
     ],
     [
-      "Efficient Parallelization of an Ubiquitous Sequential Computation",
+      "Efficient parallelization of an ubiquitous sequential computation",
       "https://arxiv.org/abs/2311.06281"
     ]
   ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=38556456"
     ],
     [
-      "Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged",
+      "Lithium “shortage” bubble implodes again",
       "https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "SVG Tutorial",
       "https://svg-tutorial.com/"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 11:04:26",
+      "https://news.ycombinator.com/item?id=38555115"
+    ],
+    [
+      "Fairphone 5: Keeping it 10/10?",
+      "https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38537545"
     ],
     [
-      "Jets: The Ruby Serverless Framework",
+      "Jets: Ruby Serverless Framework",
       "https://docs.rubyonjets.com/"
     ]
   ],
