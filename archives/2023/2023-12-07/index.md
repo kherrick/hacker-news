@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of Curiosities Laid the Foundation for Modern Museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 * [2023-12-07, 04:59:49](https://news.ycombinator.com/item?id=38553008) - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
+* [2023-12-07, 04:25:36](https://news.ycombinator.com/item?id=38552823) - [New Legislation Proposes to Take Wall Street Out of the Housing Market](https://www.nytimes.com/2023/12/06/realestate/wall-street-housing-market.html)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger – Engineering at Meta](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
 * [2023-12-07, 03:49:56](https://news.ycombinator.com/item?id=38552628) - [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
 * [2023-12-07, 03:17:40](https://news.ycombinator.com/item?id=38552434) - [Bungie Devs Atmosphere 'Soul-Crushing' Amid Layoffs, Cuts, Fear of Sony Takeover](https://www.ign.com/articles/bungie-devs-say-atmosphere-is-soul-crushing-amid-layoffs-cuts-and-fear-of-total-sony-takeover)
