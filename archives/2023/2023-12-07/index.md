@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 15:34:11](https://news.ycombinator.com/item?id=38557480) - [NASA's Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
+* [2023-12-07, 15:21:41](https://news.ycombinator.com/item?id=38557327) - [Ask HN: What other good forums are out there?](https://news.ycombinator.com/item?id=38557327)
 * [2023-12-07, 15:17:18](https://news.ycombinator.com/item?id=38557283) - [Spotify CFO cashes in £7.2M in shares after value surges on news of job cuts](https://www.theguardian.com/technology/2023/dec/07/spotify-cfo-cashes-in-72m-in-shares-after-value-surges-on-news-of-job-cuts)
 * [2023-12-07, 15:13:56](https://news.ycombinator.com/item?id=38557246) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-07, 15:12:46](https://news.ycombinator.com/item?id=38557228) - [Swedish Tesla strike goes international as Norwegian and Danish unions join in](https://www.theregister.com/2023/12/07/swedish_tesla_strike_international/)

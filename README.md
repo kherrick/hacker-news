@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 15:34:11](https://news.ycombinator.com/item?id=38557480) - [NASA's Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
+* [2023-12-07, 15:21:41](https://news.ycombinator.com/item?id=38557327) - [Ask HN: What other good forums are out there?](https://news.ycombinator.com/item?id=38557327)
 * [2023-12-07, 15:17:18](https://news.ycombinator.com/item?id=38557283) - [Spotify CFO cashes in £7.2M in shares after value surges on news of job cuts](https://www.theguardian.com/technology/2023/dec/07/spotify-cfo-cashes-in-72m-in-shares-after-value-surges-on-news-of-job-cuts)
 * [2023-12-07, 15:13:56](https://news.ycombinator.com/item?id=38557246) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-07, 15:12:46](https://news.ycombinator.com/item?id=38557228) - [Swedish Tesla strike goes international as Norwegian and Danish unions join in](https://www.theregister.com/2023/12/07/swedish_tesla_strike_international/)
@@ -12,7 +14,6 @@
 * [2023-12-07, 14:05:47](https://news.ycombinator.com/item?id=38556450) - [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
 * [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
-* [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
 * [2023-12-07, 12:30:15](https://news.ycombinator.com/item?id=38555629) - [Show HN: VideoGist – Useful YouTube video summaries](https://www.videogist.co/)
 * [2023-12-07, 12:18:07](https://news.ycombinator.com/item?id=38555555) - [100Gbps RF Sample Offload for RFSoC Using GNU Radio and PYNQ](https://strathprints.strath.ac.uk/86118/)
 * [2023-12-07, 12:01:15](https://news.ycombinator.com/item?id=38555445) - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
@@ -20,7 +21,6 @@
 * [2023-12-07, 09:03:44](https://news.ycombinator.com/item?id=38554393) - [A Schism in the OpenPGP World](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
 * [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
-* [2023-12-07, 02:42:38](https://news.ycombinator.com/item?id=38552186) - [Brain-Inspired Efficient Pruning: Criticality in Spiking Neural Networks](https://arxiv.org/abs/2311.16141)
 * [2023-12-07, 01:38:07](https://news.ycombinator.com/item?id=38551809) - [Five-Disk Floppy RAID: 4MB of Blistering Fast Storage (2009)](https://www.wired.com/2009/05/five-disk-floppy-raid-4mb-of-blistering-fast-storage/)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Behind the scenes of Sound ID in Merlin – Identify birds using your phone (2021)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
