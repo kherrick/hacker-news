@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 14:38:45](https://news.ycombinator.com/item?id=38556809) - [AMD leaps after launching AI chip that could challenge Nvidia dominance](https://www.msn.com/en-us/lifestyle/shopping/amd-leaps-after-launching-ai-chip-that-could-challenge-nvidia-dominance/ar-AA1l8RWS)
+* [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
 * [2023-12-07, 14:19:45](https://news.ycombinator.com/item?id=38556583) - [US retail lobbyists retract key claim on 'organized' retail crime](https://www.reuters.com/business/retail-consumer/us-retail-lobbyists-retract-key-claim-organized-retail-crime-2023-12-06/)
 * [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
 * [2023-12-07, 14:05:47](https://news.ycombinator.com/item?id=38556450) - [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
+* [2023-12-07, 13:46:47](https://news.ycombinator.com/item?id=38556188) - [Ask HN: Books you read in 2023 and recommend for 2024](https://news.ycombinator.com/item?id=38556188)
+* [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
 * [2023-12-07, 13:24:12](https://news.ycombinator.com/item?id=38556008) - [Piracy Is Back: Piracy Statistics for 2023](https://dataprot.net/statistics/piracy-statistics/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
 * [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)

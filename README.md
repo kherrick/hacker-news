@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-07, 14:19:45](https://news.ycombinator.com/item?id=38556583) - [US retail lobbyists retract key claim on 'organized' retail crime](https://www.reuters.com/business/retail-consumer/us-retail-lobbyists-retract-key-claim-organized-retail-crime-2023-12-06/)
+* [2023-12-07, 14:38:45](https://news.ycombinator.com/item?id=38556809) - [AMD leaps after launching AI chip that could challenge Nvidia dominance](https://www.msn.com/en-us/lifestyle/shopping/amd-leaps-after-launching-ai-chip-that-could-challenge-nvidia-dominance/ar-AA1l8RWS)
+* [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
 * [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
 * [2023-12-07, 14:05:47](https://news.ycombinator.com/item?id=38556450) - [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
+* [2023-12-07, 13:46:47](https://news.ycombinator.com/item?id=38556188) - [Ask HN: Books you read in 2023 and recommend for 2024](https://news.ycombinator.com/item?id=38556188)
+* [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
 * [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
@@ -21,15 +24,12 @@
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 11:28:59](https://news.ycombinator.com/item?id=38542556) - [Until the 14th century women dominated the field of beer brewing](https://daily.jstor.org/a-pint-for-the-alewives/)
 * [2023-12-06, 10:06:46](https://news.ycombinator.com/item?id=38542166) - [Stern-Gerlach experiment used to probe the clash of quantum theory and gravity](https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/)
-* [2023-12-06, 09:06:33](https://news.ycombinator.com/item?id=38541825) - [Crush Your Interviews with the Power of Storytelling](https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling)
 * [2023-12-06, 07:16:45](https://news.ycombinator.com/item?id=38541245) - [AN/PSQ-42](https://en.wikipedia.org/wiki/AN/PSQ-42)
-* [2023-12-06, 07:11:16](https://news.ycombinator.com/item?id=38541217) - [Vowels and diphthongs in sperm whales](https://osf.io/preprints/osf/285cs)
 * [2023-12-06, 05:41:44](https://news.ycombinator.com/item?id=38540796) - [An Existential Problem in the Search for Alien Life](https://www.theatlantic.com/science/archive/2023/12/defining-life-existentialism-scientific-theory/676238/)
 * [2023-12-06, 03:34:47](https://news.ycombinator.com/item?id=38540219) - [New calf brings new hope, and new concerns, for embattled Sumatran rhinos](https://news.mongabay.com/2023/11/new-calf-brings-new-hope-and-new-concerns-for-embattled-sumatran-rhinos/)
 * [2023-12-05, 22:59:54](https://news.ycombinator.com/item?id=38538144) - [Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-05, 14:11:04](https://news.ycombinator.com/item?id=38530893) - [Light can be reflected not only in space but also in time](https://www.scientificamerican.com/article/light-can-travel-backward-in-time-sort-of/)
 * [2023-12-05, 14:05:28](https://news.ycombinator.com/item?id=38530833) - [Games Nintendo didn't want you to play: Tengen (2022)](https://nicole.express/2022/the-center-point-can-not-hold.html)
-* [2023-12-04, 10:14:35](https://news.ycombinator.com/item?id=38515571) - [LogoFAIL: Secure Boot bypass with manipulated boot logos](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/)
 
 ## [Archives](archives/index.md)
 
