@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good (2020)](https://danluu.com/p95-skill/)
 * [2023-12-07, 18:40:28](https://news.ycombinator.com/item?id=38560041) - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
+* [2023-12-07, 18:17:56](https://news.ycombinator.com/item?id=38559770) - [Helen Toner shares her side](https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef)
 * [2023-12-07, 18:10:21](https://news.ycombinator.com/item?id=38559672) - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
 * [2023-12-07, 18:09:07](https://news.ycombinator.com/item?id=38559655) - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
@@ -19,7 +19,6 @@
 * [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama: Towards open trust and safety in generative AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
 * [2023-12-07, 14:26:33](https://news.ycombinator.com/item?id=38556669) - [Efficient parallelization of an ubiquitous sequential computation](https://arxiv.org/abs/2311.06281)
 * [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium “shortage” bubble implodes again](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
-* [2023-12-07, 14:05:47](https://news.ycombinator.com/item?id=38556450) - [Show HN: Recompyle – A JavaScript developer-friendly console / debugger](https://www.recompyle.com/)
 * [2023-12-07, 13:53:06](https://news.ycombinator.com/item?id=38556261) - [Chipsynth C64 is an emulation of the SID so good, it can replace hardware](https://cdm.link/2023/12/chipsynth-c64/)
 * [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [SVG Tutorial](https://svg-tutorial.com/)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
@@ -29,6 +28,7 @@
 * [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life is omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2023-12-06, 12:22:46](https://news.ycombinator.com/item?id=38542905) - [Unlocking the secrets of oobleck–strange stuff that's both liquid and solid](https://arstechnica.com/science/2023/12/unlocking-the-secrets-of-oobleck-strange-stuff-thats-both-liquid-and-solid/)
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
+* [2023-12-06, 09:19:24](https://news.ycombinator.com/item?id=38541901) - [The first electro-mechanical desktop synthesizer](https://gamechangeraudio.com/motor-synth-mkii/)
 * [2023-12-05, 22:01:23](https://news.ycombinator.com/item?id=38537545) - [Jets: Ruby Serverless Framework](https://docs.rubyonjets.com/)
 
 ## [Archives](archives/index.md)
