@@ -10,5 +10,6 @@
 * [2023-12-07, 02:11:34](https://news.ycombinator.com/item?id=38551993) - [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
 * [2023-12-07, 01:54:06](https://news.ycombinator.com/item?id=38551890) - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
 * [2023-12-07, 01:47:24](https://news.ycombinator.com/item?id=38551859) - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
+* [2023-12-07, 01:38:07](https://news.ycombinator.com/item?id=38551809) - [Five-Disk Floppy Raid: 4MB of Blistering Fast Storage](https://www.wired.com/2009/05/five-disk-floppy-raid-4mb-of-blistering-fast-storage/)
 * [2023-12-07, 01:13:21](https://news.ycombinator.com/item?id=38551658) - [Show HN: Launch your product within hours](https://shipped.club/)
 * [2023-12-07, 00:13:32](https://news.ycombinator.com/item?id=38551249) - [Senior engineers who don't code](https://josvisser.substack.com/p/senior-engineers-who-dont-code)

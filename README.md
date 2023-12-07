@@ -4,7 +4,7 @@
 * [2023-12-07, 03:09:42](https://news.ycombinator.com/item?id=38552370) - [Mistral LLM on Apple Silicon Using Apple's MLX Framework Runs Instantaneously](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
 * [2023-12-07, 02:11:34](https://news.ycombinator.com/item?id=38551993) - [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
 * [2023-12-07, 01:54:06](https://news.ycombinator.com/item?id=38551890) - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
-* [2023-12-07, 01:47:24](https://news.ycombinator.com/item?id=38551859) - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
+* [2023-12-07, 01:38:07](https://news.ycombinator.com/item?id=38551809) - [Five-Disk Floppy Raid: 4MB of Blistering Fast Storage](https://www.wired.com/2009/05/five-disk-floppy-raid-4mb-of-blistering-fast-storage/)
 * [2023-12-06, 23:51:13](https://news.ycombinator.com/item?id=38551085) - [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
 * [2023-12-06, 23:38:40](https://news.ycombinator.com/item?id=38550994) - [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Merlin Sound ID – Identify Birds Using Your Phone (How It Works)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
