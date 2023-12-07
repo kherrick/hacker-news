@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-07, 19:01:48",
-      "https://news.ycombinator.com/item?id=38560345"
-    ],
-    [
-      "95%-ile isn't that good (2020)",
-      "https://danluu.com/p95-skill/"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 18:40:28",
       "https://news.ycombinator.com/item?id=38560041"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2023-12-07, 10:43:46",
+      "https://news.ycombinator.com/item?id=38554994"
+    ],
+    [
+      "Show HN: My related-posts finder script (with LLM and GPT4 enhancement)",
+      "https://tomhazledine.com/llm-related-posts/"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 09:03:44",
       "https://news.ycombinator.com/item?id=38554393"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38543133"
     ],
     [
-      "Conway's Game of Life Is Omniperiodic",
+      "Conway's Game of Life is omniperiodic",
       "https://arxiv.org/abs/2312.02799"
     ]
   ],
