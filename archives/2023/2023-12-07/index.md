@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 19:49:44](https://news.ycombinator.com/item?id=38560943) - [Fairphone 5 scores a perfect 10 from iFixit for repairability](https://www.theregister.com/2023/12/07/fairphone_5_repairability/)
 * [2023-12-07, 19:22:50](https://news.ycombinator.com/item?id=38560624) - [Sam Altman-Backed Crypto Startup Raises $100M Bitcoin Private Credit Fund](https://coincu.com/234844-sam-altman-backed-crypto-startup-bitcoin-fund/)
 * [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good](https://danluu.com/p95-skill/)
 * [2023-12-07, 18:40:28](https://news.ycombinator.com/item?id=38560041) - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)

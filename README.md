@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 19:49:44](https://news.ycombinator.com/item?id=38560943) - [Fairphone 5 scores a perfect 10 from iFixit for repairability](https://www.theregister.com/2023/12/07/fairphone_5_repairability/)
 * [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good (2020)](https://danluu.com/p95-skill/)
 * [2023-12-07, 18:40:28](https://news.ycombinator.com/item?id=38560041) - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 * [2023-12-07, 18:10:21](https://news.ycombinator.com/item?id=38559672) - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
@@ -18,7 +19,6 @@
 * [2023-12-07, 14:57:23](https://news.ycombinator.com/item?id=38557054) - [Meta's new AI image generator was trained on 1.1B Instagram and FB photos](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 * [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
 * [2023-12-07, 14:26:33](https://news.ycombinator.com/item?id=38556669) - [Efficient Parallelization of an Ubiquitous Sequential Computation](https://arxiv.org/abs/2311.06281)
-* [2023-12-07, 14:23:34](https://news.ycombinator.com/item?id=38556636) - [How the first gen iPod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 * [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
 * [2023-12-07, 13:53:06](https://news.ycombinator.com/item?id=38556261) - [Chipsynth C64 is an emulation of the SID so good, it can replace hardware](https://cdm.link/2023/12/chipsynth-c64/)
 * [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
