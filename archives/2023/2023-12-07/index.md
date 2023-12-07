@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making Noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
 * [2023-12-07, 17:38:31](https://news.ycombinator.com/item?id=38559299) - [GateLoop: Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
+* [2023-12-07, 17:34:00](https://news.ycombinator.com/item?id=38559247) - [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
 * [2023-12-07, 17:00:18](https://news.ycombinator.com/item?id=38558788) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A Lost X-Files Song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
