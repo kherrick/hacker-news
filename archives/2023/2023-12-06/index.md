@@ -86,6 +86,7 @@
 * [2023-12-06, 06:29:48](https://news.ycombinator.com/item?id=38540999) - [Leaked document shows how Amazon amasses influence in the Inland Empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
 * [2023-12-06, 06:23:12](https://news.ycombinator.com/item?id=38540974) - [HP exec says quiet part out loud when it comes to locking in print customers](https://www.theregister.com/2023/12/04/hp_printer_lockin/)
 * [2023-12-06, 05:53:09](https://news.ycombinator.com/item?id=38540850) - [Microsoft's Copilot is getting OpenAI's latest models and a new code interpreter](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature)
+* [2023-12-06, 05:41:44](https://news.ycombinator.com/item?id=38540796) - [An Existential Problem in the Search for Alien Life](https://www.theatlantic.com/science/archive/2023/12/defining-life-existentialism-scientific-theory/676238/)
 * [2023-12-06, 05:37:43](https://news.ycombinator.com/item?id=38540776) - [What shape is the universe? (2021)](https://www.astronomy.com/science/what-shape-is-the-universe/)
 * [2023-12-06, 05:32:43](https://news.ycombinator.com/item?id=38540761) - [Why Is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 05:26:05](https://news.ycombinator.com/item?id=38540738) - [After the Plague: Health and History in Medieval England](https://www.aftertheplague.org)
