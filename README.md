@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 18:10:22](https://news.ycombinator.com/item?id=38559673) - [Swedish court rules against Tesla in dispute with postal service over deliveries](https://www.reuters.com/world/europe/swedish-court-rules-against-tesla-dispute-with-postal-service-over-deliveries-2023-12-07/)
 * [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making Noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
 * [2023-12-07, 17:38:31](https://news.ycombinator.com/item?id=38559299) - [GateLoop: Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
 * [2023-12-07, 17:34:00](https://news.ycombinator.com/item?id=38559247) - [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
@@ -20,7 +21,6 @@
 * [2023-12-07, 12:18:07](https://news.ycombinator.com/item?id=38555555) - [100Gbps RF Sample Offload for RFSoC Using GNU Radio and PYNQ](https://strathprints.strath.ac.uk/86118/)
 * [2023-12-07, 12:02:12](https://news.ycombinator.com/item?id=38555451) - [Terminal Graphics Protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
 * [2023-12-07, 10:33:36](https://news.ycombinator.com/item?id=38554943) - [OpenPGP Forked into \"LibrePGP\" by GnuPG's Maintainer Werner Koch](https://blog.pgpkeys.eu/critique-critique.html)
-* [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 * [2023-12-07, 04:21:51](https://news.ycombinator.com/item?id=38552789) - [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Behind the scenes of Sound ID in Merlin – Identify birds using your phone (2021)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
