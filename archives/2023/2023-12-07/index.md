@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 17:00:18](https://news.ycombinator.com/item?id=38558788) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
 * [2023-12-07, 15:41:19](https://news.ycombinator.com/item?id=38557588) - [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
 * [2023-12-07, 15:34:11](https://news.ycombinator.com/item?id=38557480) - [NASA's Psyche Delivers First Images and Other Data](https://www.jpl.nasa.gov/news/nasas-psyche-delivers-first-images-and-other-data)
@@ -13,6 +14,7 @@
 * [2023-12-07, 15:13:56](https://news.ycombinator.com/item?id=38557246) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-07, 15:12:46](https://news.ycombinator.com/item?id=38557228) - [Swedish Tesla strike goes international as Norwegian and Danish unions join in](https://www.theregister.com/2023/12/07/swedish_tesla_strike_international/)
 * [2023-12-07, 15:10:30](https://news.ycombinator.com/item?id=38557203) - [Tesla shares 48V architecture with other automakers to move the industry](https://electrek.co/2023/12/07/tesla-shares-48v-architecture-with-other-automakers-to-move-the-industry/)
+* [2023-12-07, 14:57:23](https://news.ycombinator.com/item?id=38557054) - [Meta's new AI image generator was trained on 1.1B Instagram and FB photos](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 * [2023-12-07, 14:38:45](https://news.ycombinator.com/item?id=38556809) - [AMD leaps after launching AI chip that could challenge Nvidia dominance](https://www.msn.com/en-us/lifestyle/shopping/amd-leaps-after-launching-ai-chip-that-could-challenge-nvidia-dominance/ar-AA1l8RWS)
 * [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
 * [2023-12-07, 14:26:33](https://news.ycombinator.com/item?id=38556669) - [Efficient Parallelization of an Ubiquitous Sequential Computation](https://arxiv.org/abs/2311.06281)
