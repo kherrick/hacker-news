@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
+* [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
+* [2023-12-07, 13:02:53](https://news.ycombinator.com/item?id=38555846) - [Ex-Tesla employee casts doubt on car safety](https://www.bbc.com/news/technology-67591311)
 * [2023-12-07, 12:58:35](https://news.ycombinator.com/item?id=38555810) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
-* [2023-12-07, 12:50:47](https://news.ycombinator.com/item?id=38555753) - [Voidr – Cutting-edge open source alternatives to mainstream cloud services](https://github.com/voidr-team)
 * [2023-12-07, 12:01:15](https://news.ycombinator.com/item?id=38555445) - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-12-07, 10:08:55](https://news.ycombinator.com/item?id=38554768) - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
 * [2023-12-07, 09:03:44](https://news.ycombinator.com/item?id=38554393) - [A Schism in the OpenPGP World](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
@@ -12,8 +14,6 @@
 * [2023-12-07, 03:49:56](https://news.ycombinator.com/item?id=38552628) - [A slightly longer Lean 4 proof tour](https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/)
 * [2023-12-07, 02:55:40](https://news.ycombinator.com/item?id=38552267) - [The extremely large telescope will transform astronomy](https://www.economist.com/interactive/science-and-technology/2023/12/06/the-extremely-telescope-will-trasform-astronomy)
 * [2023-12-07, 02:42:38](https://news.ycombinator.com/item?id=38552186) - [Brain-Inspired Efficient Pruning: Criticality in Spiking Neural Networks](https://arxiv.org/abs/2311.16141)
-* [2023-12-07, 01:54:06](https://news.ycombinator.com/item?id=38551890) - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
-* [2023-12-07, 01:38:07](https://news.ycombinator.com/item?id=38551809) - [Five-Disk Floppy RAID: 4MB of Blistering Fast Storage (2009)](https://www.wired.com/2009/05/five-disk-floppy-raid-4mb-of-blistering-fast-storage/)
 * [2023-12-06, 23:38:40](https://news.ycombinator.com/item?id=38550994) - [Researchers have discovered magnetic monopole quasi-particles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Behind the scenes of Sound ID in Merlin – Identify birds using your phone (2021)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Long context prompting for Claude 2.1](https://www.anthropic.com/index/claude-2-1-prompting)
@@ -28,8 +28,8 @@
 * [2023-12-06, 05:41:44](https://news.ycombinator.com/item?id=38540796) - [An Existential Problem in the Search for Alien Life](https://www.theatlantic.com/science/archive/2023/12/defining-life-existentialism-scientific-theory/676238/)
 * [2023-12-05, 22:59:54](https://news.ycombinator.com/item?id=38538144) - [Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-05, 17:37:27](https://news.ycombinator.com/item?id=38534153) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
+* [2023-12-05, 14:11:04](https://news.ycombinator.com/item?id=38530893) - [Light can be reflected not only in space but also in time](https://www.scientificamerican.com/article/light-can-travel-backward-in-time-sort-of/)
 * [2023-12-05, 14:05:28](https://news.ycombinator.com/item?id=38530833) - [Games Nintendo didn't want you to play: Tengen (2022)](https://nicole.express/2022/the-center-point-can-not-hold.html)
-* [2023-12-04, 10:14:35](https://news.ycombinator.com/item?id=38515571) - [LogoFAIL: Secure Boot bypass with manipulated boot logos](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/)
 
 ## [Archives](archives/index.md)
 

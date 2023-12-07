@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
+* [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
+* [2023-12-07, 13:02:53](https://news.ycombinator.com/item?id=38555846) - [Ex-Tesla employee casts doubt on car safety](https://www.bbc.com/news/technology-67591311)
 * [2023-12-07, 12:58:35](https://news.ycombinator.com/item?id=38555810) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
 * [2023-12-07, 12:50:47](https://news.ycombinator.com/item?id=38555753) - [Voidr – Cutting-edge open source alternatives to mainstream cloud services](https://github.com/voidr-team)
