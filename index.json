@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-07, 04:25:36",
-      "https://news.ycombinator.com/item?id=38552823"
-    ],
-    [
-      "New Legislation Proposes to Take Wall Street Out of the Housing Market",
-      "https://www.nytimes.com/2023/12/06/realestate/wall-street-housing-market.html"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 04:21:51",
       "https://news.ycombinator.com/item?id=38552789"
     ],
@@ -81,16 +71,6 @@
   ],
   [
     [
-      "2023-12-07, 02:39:32",
-      "https://news.ycombinator.com/item?id=38552159"
-    ],
-    [
-      "Windows 11 is last in gaming performance tests against 3 Linux gaming distros",
-      "https://www.notebookcheck.net/Windows-11-scores-dead-last-in-gaming-performance-tests-against-3-Linux-gaming-distros.778624.0.html"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 01:54:06",
       "https://news.ycombinator.com/item?id=38551890"
     ],
@@ -105,8 +85,18 @@
       "https://news.ycombinator.com/item?id=38551809"
     ],
     [
-      "Five-Disk Floppy Raid: 4MB of Blistering Fast Storage (2009)",
+      "Five-Disk Floppy RAID: 4MB of Blistering Fast Storage (2009)",
       "https://www.wired.com/2009/05/five-disk-floppy-raid-4mb-of-blistering-fast-storage/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 23:51:13",
+      "https://news.ycombinator.com/item?id=38551085"
+    ],
+    [
+      "Tales of Topological Qubits",
+      "https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext"
     ]
   ],
   [
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=38550737"
     ],
     [
-      "Merlin Sound ID – Identify Birds Using Your Phone (How It Works)",
+      "Behind the scenes of Sound ID in Merlin – Identify birds using your phone (2021)",
       "https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/"
     ]
   ],
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2023-12-06, 15:35:41",
-      "https://news.ycombinator.com/item?id=38545207"
+      "2023-12-06, 17:03:27",
+      "https://news.ycombinator.com/item?id=38546520"
     ],
     [
-      "Show HN: CopilotKit- Build in-app AI chatbots and AI-powered textareas",
-      "https://github.com/CopilotKit/CopilotKit"
+      "Spotlight: Sentry for Development",
+      "https://spotlightjs.com/"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=38541245"
     ],
     [
-      "An/PSQ-42",
+      "AN/PSQ-42",
       "https://en.wikipedia.org/wiki/AN/PSQ-42"
     ]
   ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=38538144"
     ],
     [
-      "Syncthing: Untrusted Device Encryption",
+      "Untrusted Device Encryption",
       "https://docs.syncthing.net/specs/untrusted.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 22:34:50",
+      "https://news.ycombinator.com/item?id=38537873"
+    ],
+    [
+      "Addressing post-quantum cryptography with CodeQL",
+      "https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/"
     ]
   ],
   [
