@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 17:38:31](https://news.ycombinator.com/item?id=38559299) - [GateLoop: Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
 * [2023-12-07, 17:00:18](https://news.ycombinator.com/item?id=38558788) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A Lost X-Files Song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
@@ -27,7 +28,6 @@
 * [2023-12-06, 09:39:22](https://news.ycombinator.com/item?id=38542020) - [Takeaway](https://notoneoffbritishisms.com/2023/12/05/takeaway-2/)
 * [2023-12-06, 08:29:41](https://news.ycombinator.com/item?id=38541647) - [Welcome to Principia Cybernetica Web (2002)](http://pespmc1.vub.ac.be/)
 * [2023-12-06, 03:34:47](https://news.ycombinator.com/item?id=38540219) - [New calf brings new hope, and new concerns, for embattled Sumatran rhinos](https://news.mongabay.com/2023/11/new-calf-brings-new-hope-and-new-concerns-for-embattled-sumatran-rhinos/)
-* [2023-12-05, 22:59:54](https://news.ycombinator.com/item?id=38538144) - [Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-05, 14:11:04](https://news.ycombinator.com/item?id=38530893) - [Light can be reflected not only in space but also in time](https://www.scientificamerican.com/article/light-can-travel-backward-in-time-sort-of/)
 * [2023-12-05, 14:05:28](https://news.ycombinator.com/item?id=38530833) - [Games Nintendo didn't want you to play: Tengen (2022)](https://nicole.express/2022/the-center-point-can-not-hold.html)
 
