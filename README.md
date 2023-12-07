@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 01:13:21](https://news.ycombinator.com/item?id=38551658) - [Show HN: Launch your product within hours](https://shipped.club/)
 * [2023-12-06, 23:51:13](https://news.ycombinator.com/item?id=38551085) - [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
 * [2023-12-06, 23:45:25](https://news.ycombinator.com/item?id=38551043) - [Services across England now lag far behind East Germany](https://www.cam.ac.uk/research/news/services-across-england-now-lag-far-behind-east-germany-as-experts-call-for-universal-basic)
-* [2023-12-06, 23:41:46](https://news.ycombinator.com/item?id=38551011) - [Research shows mouse and primate brains mature at the same pace](https://www.anl.gov/article/when-do-brains-grow-up)
 * [2023-12-06, 23:38:40](https://news.ycombinator.com/item?id=38550994) - [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Merlin Sound ID – Identify Birds Using Your Phone (How It Works)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
