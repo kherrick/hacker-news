@@ -10,6 +10,7 @@
 * [2023-12-06, 23:38:40](https://news.ycombinator.com/item?id=38550994) - [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
 * [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Merlin Sound ID – Identify Birds Using Your Phone (How It Works)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
+* [2023-12-06, 22:49:04](https://news.ycombinator.com/item?id=38550567) - [Chaos Communication Congress tickets still available](https://tickets.events.ccc.de/37c3/intro/)
 * [2023-12-06, 22:32:46](https://news.ycombinator.com/item?id=38550408) - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
 * [2023-12-06, 22:26:43](https://news.ycombinator.com/item?id=38550351) - [Danish pension fund to sell its Tesla shares over union dispute](https://www.reuters.com/sustainability/danish-pension-fund-sell-its-tesla-shares-over-union-dispute-2023-12-06/)
 * [2023-12-06, 22:17:14](https://news.ycombinator.com/item?id=38550271) - [AMD MI300 Performance – Faster Than H100, but How Much?](https://www.semianalysis.com/p/amd-mi300-performance-faster-than)
