@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-07, 03:09:42",
+      "https://news.ycombinator.com/item?id=38552370"
+    ],
+    [
+      "Running Mistral LLM on Apple Silicon Using Apple's MLX Framework Is Much Faster",
+      "https://github.com/ml-explore/mlx-examples/tree/main/mistral"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 02:11:34",
       "https://news.ycombinator.com/item?id=38551993"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38550675"
     ],
     [
-      "Anthropic Claude performance depends heavily on prompt style",
+      "Long context prompting for Claude 2.1",
       "https://www.anthropic.com/index/claude-2-1-prompting"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)",
       "https://spellbrush.com/careers"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 21:00:02",
-      "https://news.ycombinator.com/item?id=38549388"
-    ],
-    [
-      "Framework Laptop 16 Deep Dive – Connectors",
-      "https://frame.work/blog/framework-laptop-16-deep-dive---connectors"
     ]
   ],
   [
