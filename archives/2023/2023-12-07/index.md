@@ -20,6 +20,8 @@
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
 * [2023-12-07, 12:50:47](https://news.ycombinator.com/item?id=38555753) - [Voidr – Cutting-edge open source alternatives to mainstream cloud services](https://github.com/voidr-team)
 * [2023-12-07, 12:30:15](https://news.ycombinator.com/item?id=38555629) - [Show HN: VideoGist – Useful YouTube video summaries](https://www.videogist.co/)
+* [2023-12-07, 12:18:07](https://news.ycombinator.com/item?id=38555555) - [100Gbps RF Sample Offload for RFSoC Using GNU Radio and PYNQ](https://strathprints.strath.ac.uk/86118/)
+* [2023-12-07, 12:02:12](https://news.ycombinator.com/item?id=38555451) - [Terminal Graphics Protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
 * [2023-12-07, 12:01:15](https://news.ycombinator.com/item?id=38555445) - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-12-07, 10:33:36](https://news.ycombinator.com/item?id=38554943) - [OpenPGP Forked into \"LibrePGP\" by GnuPG's Maintainer Werner Koch](https://blog.pgpkeys.eu/critique-critique.html)
 * [2023-12-07, 10:08:55](https://news.ycombinator.com/item?id=38554768) - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)

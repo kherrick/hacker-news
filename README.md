@@ -5,11 +5,12 @@
 * [2023-12-07, 14:23:34](https://news.ycombinator.com/item?id=38556636) - [How the first gen iPod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 * [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
 * [2023-12-07, 14:05:47](https://news.ycombinator.com/item?id=38556450) - [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
-* [2023-12-07, 13:46:47](https://news.ycombinator.com/item?id=38556188) - [Ask HN: Books you read in 2023 and recommend for 2024](https://news.ycombinator.com/item?id=38556188)
 * [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
 * [2023-12-07, 12:30:15](https://news.ycombinator.com/item?id=38555629) - [Show HN: VideoGist – Useful YouTube video summaries](https://www.videogist.co/)
+* [2023-12-07, 12:18:07](https://news.ycombinator.com/item?id=38555555) - [100Gbps RF Sample Offload for RFSoC Using GNU Radio and PYNQ](https://strathprints.strath.ac.uk/86118/)
+* [2023-12-07, 12:02:12](https://news.ycombinator.com/item?id=38555451) - [Terminal Graphics Protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
 * [2023-12-07, 12:01:15](https://news.ycombinator.com/item?id=38555445) - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-12-07, 10:33:36](https://news.ycombinator.com/item?id=38554943) - [OpenPGP Forked into \"LibrePGP\" by GnuPG's Maintainer Werner Koch](https://blog.pgpkeys.eu/critique-critique.html)
 * [2023-12-07, 09:03:44](https://news.ycombinator.com/item?id=38554393) - [A Schism in the OpenPGP World](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
@@ -29,7 +30,6 @@
 * [2023-12-05, 22:59:54](https://news.ycombinator.com/item?id=38538144) - [Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-05, 14:11:04](https://news.ycombinator.com/item?id=38530893) - [Light can be reflected not only in space but also in time](https://www.scientificamerican.com/article/light-can-travel-backward-in-time-sort-of/)
 * [2023-12-05, 14:05:28](https://news.ycombinator.com/item?id=38530833) - [Games Nintendo didn't want you to play: Tengen (2022)](https://nicole.express/2022/the-center-point-can-not-hold.html)
-* [2023-12-04, 10:14:35](https://news.ycombinator.com/item?id=38515571) - [LogoFAIL: Secure Boot bypass with manipulated boot logos](https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/)
 
 ## [Archives](archives/index.md)
 
