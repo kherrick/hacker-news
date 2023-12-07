@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 19:22:50](https://news.ycombinator.com/item?id=38560624) - [Sam Altman-Backed Crypto Startup Raises $100M Bitcoin Private Credit Fund](https://coincu.com/234844-sam-altman-backed-crypto-startup-bitcoin-fund/)
 * [2023-12-07, 19:01:48](https://news.ycombinator.com/item?id=38560345) - [95%-ile isn't that good](https://danluu.com/p95-skill/)
 * [2023-12-07, 18:10:22](https://news.ycombinator.com/item?id=38559673) - [Swedish court rules against Tesla in dispute with postal service over deliveries](https://www.reuters.com/world/europe/swedish-court-rules-against-tesla-dispute-with-postal-service-over-deliveries-2023-12-07/)
 * [2023-12-07, 18:10:21](https://news.ycombinator.com/item?id=38559672) - [StableLM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)
@@ -13,6 +14,7 @@
 * [2023-12-07, 17:38:31](https://news.ycombinator.com/item?id=38559299) - [GateLoop: Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927)
 * [2023-12-07, 17:34:00](https://news.ycombinator.com/item?id=38559247) - [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
 * [2023-12-07, 17:29:50](https://news.ycombinator.com/item?id=38559192) - [Choose Your Own IP](https://tailscale.com/blog/choose-your-ip/)
+* [2023-12-07, 17:24:54](https://news.ycombinator.com/item?id=38559139) - [Standard Webhooks: open-source tools and guidelines for sending webhooks](https://github.com/standard-webhooks/standard-webhooks)
 * [2023-12-07, 17:00:18](https://news.ycombinator.com/item?id=38558788) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A Lost X-Files Song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
