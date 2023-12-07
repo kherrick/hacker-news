@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 23:51:13](https://news.ycombinator.com/item?id=38551085) - [Tales of Topological Qubits](https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext)
+* [2023-12-06, 23:45:25](https://news.ycombinator.com/item?id=38551043) - [Services across England now lag far behind East Germany](https://www.cam.ac.uk/research/news/services-across-england-now-lag-far-behind-east-germany-as-experts-call-for-universal-basic)
+* [2023-12-06, 23:41:46](https://news.ycombinator.com/item?id=38551011) - [Research shows mouse and primate brains mature at the same pace](https://www.anl.gov/article/when-do-brains-grow-up)
+* [2023-12-06, 23:38:40](https://news.ycombinator.com/item?id=38550994) - [Researchers have discovered magnetic monopoles](https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles)
+* [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Merlin Sound ID – Identify Birds Using Your Phone (How It Works)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 23:00:20](https://news.ycombinator.com/item?id=38550675) - [Anthropic Claude performance depends heavily on prompt style](https://www.anthropic.com/index/claude-2-1-prompting)
 * [2023-12-06, 22:32:46](https://news.ycombinator.com/item?id=38550408) - [Gordon Freeman at the Olympic Games](https://moonbase.lgbt/blog/100m-accelerated-backhopping/)
 * [2023-12-06, 22:26:43](https://news.ycombinator.com/item?id=38550351) - [Danish pension fund to sell its Tesla shares over union dispute](https://www.reuters.com/sustainability/danish-pension-fund-sell-its-tesla-shares-over-union-dispute-2023-12-06/)
@@ -87,3 +92,4 @@
 * [2023-12-06, 00:56:20](https://news.ycombinator.com/item?id=38539153) - [MLX: An array framework for Apple Silicon](https://github.com/ml-explore/mlx)
 * [2023-12-06, 00:40:44](https://news.ycombinator.com/item?id=38539020) - [MLX: NumPy like framework for Apple Silicon by Apple](https://ml-explore.github.io/mlx/build/html/index.html)
 * [2023-12-06, 00:24:48](https://news.ycombinator.com/item?id=38538886) - [Thermoelectric Heating Comes in from the Cold](https://spectrum.ieee.org/thermoelectric-heating)
+* [2023-12-06, 00:08:39](https://news.ycombinator.com/item?id=38538754) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
