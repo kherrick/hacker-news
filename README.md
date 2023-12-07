@@ -2,6 +2,7 @@
 
 * [2023-12-07, 12:58:35](https://news.ycombinator.com/item?id=38555810) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
+* [2023-12-07, 12:50:47](https://news.ycombinator.com/item?id=38555753) - [Voidr – Cutting-edge open source alternatives to mainstream cloud services](https://github.com/voidr-team)
 * [2023-12-07, 12:01:15](https://news.ycombinator.com/item?id=38555445) - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-12-07, 10:08:55](https://news.ycombinator.com/item?id=38554768) - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
 * [2023-12-07, 09:03:44](https://news.ycombinator.com/item?id=38554393) - [A Schism in the OpenPGP World](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
@@ -25,7 +26,6 @@
 * [2023-12-06, 07:16:45](https://news.ycombinator.com/item?id=38541245) - [AN/PSQ-42](https://en.wikipedia.org/wiki/AN/PSQ-42)
 * [2023-12-06, 07:11:16](https://news.ycombinator.com/item?id=38541217) - [Vowels and diphthongs in sperm whales](https://osf.io/preprints/osf/285cs)
 * [2023-12-06, 05:41:44](https://news.ycombinator.com/item?id=38540796) - [An Existential Problem in the Search for Alien Life](https://www.theatlantic.com/science/archive/2023/12/defining-life-existentialism-scientific-theory/676238/)
-* [2023-12-06, 00:08:39](https://news.ycombinator.com/item?id=38538754) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 * [2023-12-05, 22:59:54](https://news.ycombinator.com/item?id=38538144) - [Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-05, 17:37:27](https://news.ycombinator.com/item?id=38534153) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-12-05, 14:05:28](https://news.ycombinator.com/item?id=38530833) - [Games Nintendo didn't want you to play: Tengen (2022)](https://nicole.express/2022/the-center-point-can-not-hold.html)
