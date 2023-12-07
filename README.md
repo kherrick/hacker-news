@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-07, 03:09:42](https://news.ycombinator.com/item?id=38552370) - [Running Mistral LLM on Apple Silicon Using Apple's MLX Framework Is Much Faster](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
+* [2023-12-07, 03:17:40](https://news.ycombinator.com/item?id=38552434) - [Bungie Devs Atmosphere 'Soul-Crushing' Amid Layoffs, Cuts, Fear of Sony Takeover](https://www.ign.com/articles/bungie-devs-say-atmosphere-is-soul-crushing-amid-layoffs-cuts-and-fear-of-total-sony-takeover)
+* [2023-12-07, 03:09:42](https://news.ycombinator.com/item?id=38552370) - [Mistral LLM on Apple Silicon Using Apple's MLX Framework Runs Instantaneously](https://github.com/ml-explore/mlx-examples/tree/main/mistral)
 * [2023-12-07, 02:11:34](https://news.ycombinator.com/item?id=38551993) - [Launching Default End-to-End Encryption on Messenger](https://messengernews.fb.com/2023/12/06/launching-default-end-to-end-encryption-on-messenger/)
 * [2023-12-07, 01:54:06](https://news.ycombinator.com/item?id=38551890) - [23andMe updates their TOS to force binding arbitration](https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/)
 * [2023-12-07, 01:47:24](https://news.ycombinator.com/item?id=38551859) - [Police Can Spy on Your iOS and Android Push Notifications](https://www.wired.com/story/apple-google-push-notification-surveillance/)
@@ -24,7 +25,6 @@
 * [2023-12-06, 07:11:16](https://news.ycombinator.com/item?id=38541217) - [Vowels and Diphthongs in Sperm Whales](https://osf.io/preprints/osf/285cs)
 * [2023-12-06, 05:37:43](https://news.ycombinator.com/item?id=38540776) - [What shape is the universe? (2021)](https://www.astronomy.com/science/what-shape-is-the-universe/)
 * [2023-12-06, 00:08:39](https://news.ycombinator.com/item?id=38538754) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
-* [2023-12-05, 19:37:41](https://news.ycombinator.com/item?id=38535853) - [Philosophy of Biff](https://biffweb.com/p/philosophy-of-biff/)
 * [2023-12-05, 19:05:51](https://news.ycombinator.com/item?id=38535446) - [The Sheep Incident (2008)](https://www.damninteresting.com/the-sheep-incident/)
 * [2023-12-05, 17:37:27](https://news.ycombinator.com/item?id=38534153) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-12-05, 11:22:42](https://news.ycombinator.com/item?id=38529522) - [PostgreSQL and FIPS Mode](http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode)
