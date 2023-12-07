@@ -70,6 +70,7 @@
 * [2023-12-06, 10:23:23](https://news.ycombinator.com/item?id=38542238) - [Ask HN: What are some excellent blogs, news boards, YouTube channels to follow?](https://news.ycombinator.com/item?id=38542238)
 * [2023-12-06, 10:08:37](https://news.ycombinator.com/item?id=38542178) - [EU Integrity Watch](https://www.integritywatch.eu/)
 * [2023-12-06, 08:27:46](https://news.ycombinator.com/item?id=38541640) - [Bring code from other platforms into the browser](https://thewebshowcase.withgoogle.com/bring-code-from-platforms-into-the-browser)
+* [2023-12-06, 08:03:12](https://news.ycombinator.com/item?id=38541516) - [Cdpath: Easily Navigate Directories in the Terminal](https://www.writesoftwarewell.com/cdpath-easily-navigate-directories-in-the-terminal/)
 * [2023-12-06, 07:53:35](https://news.ycombinator.com/item?id=38541451) - [World's largest tokamak fusion reactor powers up](https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/)
 * [2023-12-06, 07:52:39](https://news.ycombinator.com/item?id=38541441) - [DIY 19\" rack mountable shallow DC output UPS built with refurbished 18650 cells](https://pop.fsck.pl/projects/secondlife-ups-MkII.html)
 * [2023-12-06, 07:51:59](https://news.ycombinator.com/item?id=38541436) - [Tesla Cybertruck's Race Against a Porsche 911 Was Apparently an 1/8-Mile Run](https://insideevs.com/news/699260/tesla-cybertruck-porsche-race/)
