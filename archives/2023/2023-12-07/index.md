@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 12:01:15](https://news.ycombinator.com/item?id=38555445) - [Ploomber (YC W22) Is Hiring Software Engineers in NYC](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-12-07, 10:08:55](https://news.ycombinator.com/item?id=38554768) - [The Qatargate Files](https://www.politico.eu/article/european-parliament-qatargate-corruption-scandal-leaked-documents-pier-antonio-panzeri-francesco-giorgi-eva-kaili/)
 * [2023-12-07, 08:27:45](https://news.ycombinator.com/item?id=38554159) - [He blew the whistle on Amazon. He's still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
 * [2023-12-07, 07:48:14](https://news.ycombinator.com/item?id=38553934) - [Is El Salvador's Bitcoin bet paying off?](https://www.bbc.com/news/technology-67637245)
