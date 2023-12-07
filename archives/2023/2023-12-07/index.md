@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 15:13:56](https://news.ycombinator.com/item?id=38557246) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
+* [2023-12-07, 15:12:46](https://news.ycombinator.com/item?id=38557228) - [Swedish Tesla strike goes international as Norwegian and Danish unions join in](https://www.theregister.com/2023/12/07/swedish_tesla_strike_international/)
 * [2023-12-07, 14:38:45](https://news.ycombinator.com/item?id=38556809) - [AMD leaps after launching AI chip that could challenge Nvidia dominance](https://www.msn.com/en-us/lifestyle/shopping/amd-leaps-after-launching-ai-chip-that-could-challenge-nvidia-dominance/ar-AA1l8RWS)
 * [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
+* [2023-12-07, 14:26:33](https://news.ycombinator.com/item?id=38556669) - [Efficient Parallelization of an Ubiquitous Sequential Computation](https://arxiv.org/abs/2311.06281)
 * [2023-12-07, 14:23:34](https://news.ycombinator.com/item?id=38556636) - [How the first gen iPod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 * [2023-12-07, 14:19:45](https://news.ycombinator.com/item?id=38556583) - [US retail lobbyists retract key claim on 'organized' retail crime](https://www.reuters.com/business/retail-consumer/us-retail-lobbyists-retract-key-claim-organized-retail-crime-2023-12-06/)
 * [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
