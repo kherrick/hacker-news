@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-07, 01:13:21",
-      "https://news.ycombinator.com/item?id=38551658"
+      "2023-12-07, 01:54:06",
+      "https://news.ycombinator.com/item?id=38551890"
     ],
     [
-      "Show HN: Launch your product within hours",
-      "https://shipped.club/"
+      "23andMe updates their TOS to force binding arbitration",
+      "https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 01:47:24",
+      "https://news.ycombinator.com/item?id=38551859"
+    ],
+    [
+      "Police Can Spy on Your iOS and Android Push Notifications",
+      "https://www.wired.com/story/apple-google-push-notification-surveillance/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Tales of Topological Qubits",
       "https://cacm.acm.org/magazines/2023/12/278144-tales-of-topological-qubits/fulltext"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 23:45:25",
-      "https://news.ycombinator.com/item?id=38551043"
-    ],
-    [
-      "Services across England now lag far behind East Germany",
-      "https://www.cam.ac.uk/research/news/services-across-england-now-lag-far-behind-east-germany-as-experts-call-for-universal-basic"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-12-06, 15:48:44",
-      "https://news.ycombinator.com/item?id=38545417"
-    ],
-    [
-      "Databases are the endgame for data-oriented design",
-      "https://spacetimedb.com/blog/databases-and-data-oriented-design"
-    ]
-  ],
-  [
-    [
       "2023-12-06, 15:35:41",
       "https://news.ycombinator.com/item?id=38545207"
     ],
@@ -217,6 +207,16 @@
     [
       "Rethinking serverless with FLAME",
       "https://fly.io/blog/rethinking-serverless-with-flame/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 08:03:12",
+      "https://news.ycombinator.com/item?id=38541516"
+    ],
+    [
+      "Cdpath: Easily Navigate Directories in the Terminal",
+      "https://www.writesoftwarewell.com/cdpath-easily-navigate-directories-in-the-terminal/"
     ]
   ],
   [
