@@ -2,6 +2,7 @@
 
 * [2023-12-07, 22:56:20](https://news.ycombinator.com/item?id=38562946) - [Greedflation: Corporate profiteering 'significantly' boosted global prices,study](https://www.theguardian.com/business/2023/dec/07/greedflation-corporate-profiteering-boosted-global-prices-study)
 * [2023-12-07, 22:34:00](https://news.ycombinator.com/item?id=38562726) - [Google calls Drive data loss \"fixed,\" locks forum threads saying otherwise](https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/)
+* [2023-12-07, 22:14:15](https://news.ycombinator.com/item?id=38562558) - [How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)
 * [2023-12-07, 18:40:28](https://news.ycombinator.com/item?id=38560041) - [OpenAI employees did not want to go work for Microsoft](https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12)
 * [2023-12-07, 18:17:56](https://news.ycombinator.com/item?id=38559770) - [Helen Toner shares her side](https://www.wsj.com/tech/ai/helen-toner-openai-board-2e4031ef)
 * [2023-12-07, 18:09:07](https://news.ycombinator.com/item?id=38559655) - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
@@ -18,7 +19,6 @@
 * [2023-12-07, 14:57:23](https://news.ycombinator.com/item?id=38557054) - [Meta's new AI image generator was trained on 1.1B Instagram and FB photos](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 * [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama: Towards open trust and safety in generative AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
 * [2023-12-07, 14:26:33](https://news.ycombinator.com/item?id=38556669) - [Efficient parallelization of an ubiquitous sequential computation](https://arxiv.org/abs/2311.06281)
-* [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium “shortage” bubble implodes again](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
 * [2023-12-07, 13:53:06](https://news.ycombinator.com/item?id=38556261) - [Chipsynth C64 is an emulation of the SID so good, it can replace hardware](https://cdm.link/2023/12/chipsynth-c64/)
 * [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [SVG Tutorial](https://svg-tutorial.com/)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
