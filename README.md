@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-07, 13:24:12](https://news.ycombinator.com/item?id=38556008) - [Piracy Is Back: Piracy Statistics for 2023](https://dataprot.net/statistics/piracy-statistics/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
 * [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
 * [2023-12-07, 13:02:53](https://news.ycombinator.com/item?id=38555846) - [Ex-Tesla employee casts doubt on car safety](https://www.bbc.com/news/technology-67591311)
@@ -22,7 +23,6 @@
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 11:28:59](https://news.ycombinator.com/item?id=38542556) - [Until the 14th century women dominated the field of beer brewing](https://daily.jstor.org/a-pint-for-the-alewives/)
 * [2023-12-06, 10:06:46](https://news.ycombinator.com/item?id=38542166) - [Stern-Gerlach experiment used to probe the clash of quantum theory and gravity](https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/)
-* [2023-12-06, 09:06:33](https://news.ycombinator.com/item?id=38541825) - [Crush Your Interviews with the Power of Storytelling](https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling)
 * [2023-12-06, 07:16:45](https://news.ycombinator.com/item?id=38541245) - [AN/PSQ-42](https://en.wikipedia.org/wiki/AN/PSQ-42)
 * [2023-12-06, 07:11:16](https://news.ycombinator.com/item?id=38541217) - [Vowels and diphthongs in sperm whales](https://osf.io/preprints/osf/285cs)
 * [2023-12-06, 05:41:44](https://news.ycombinator.com/item?id=38540796) - [An Existential Problem in the Search for Alien Life](https://www.theatlantic.com/science/archive/2023/12/defining-life-existentialism-scientific-theory/676238/)
