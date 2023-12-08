@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 14:15:36](https://news.ycombinator.com/item?id=38569284) - [The Domestication of SARS-CoV-2 into a Seasonal Infection by Viral Variants](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1289387/abstract)
+* [2023-12-08, 14:12:03](https://news.ycombinator.com/item?id=38569240) - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
 * [2023-12-08, 13:40:34](https://news.ycombinator.com/item?id=38568908) - [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
 * [2023-12-08, 13:39:37](https://news.ycombinator.com/item?id=38568896) - [Hetzner is terminating contracts with all users who had a Russian postal address](https://news.ycombinator.com/item?id=38568896)
 * [2023-12-08, 12:58:49](https://news.ycombinator.com/item?id=38568468) - [How to think about OpenAI's rumored (and overhyped) Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/)
