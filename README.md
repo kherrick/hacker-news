@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-08, 19:10:26](https://news.ycombinator.com/item?id=38572877) - [Paul Graham's Twitter account targeted by IDF](https://twitter.com/paulg/status/1733146138226614465)
 * [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [New year, new company – encouraging last-minute applications to YC](https://news.ycombinator.com/item?id=38572504)
 * [2023-12-08, 18:29:19](https://news.ycombinator.com/item?id=38572401) - [A bike lane moved, and this San Francisco neighborhood erupted](https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/)
 * [2023-12-08, 18:20:51](https://news.ycombinator.com/item?id=38572284) - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
+* [2023-12-08, 18:15:00](https://news.ycombinator.com/item?id=38572188) - [Neonatal circumcision associated with altered adult socio-affective processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7702013/)
 * [2023-12-08, 18:10:35](https://news.ycombinator.com/item?id=38572127) - [Mistral releases 8x7 MoE model via torrent](https://twitter.com/MistralAI/status/1733150512395038967?s=20)
 * [2023-12-08, 17:57:16](https://news.ycombinator.com/item?id=38571972) - [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
