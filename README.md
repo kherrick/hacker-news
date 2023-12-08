@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We Investigated France's Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
-* [2023-12-08, 01:58:50](https://news.ycombinator.com/item?id=38564479) - [Iran: If You're Going to Bomb a Place, You Should Know Its People First](https://blog.ricksteves.com/blog/iran-today/)
 * [2023-12-08, 01:32:39](https://news.ycombinator.com/item?id=38564286) - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
 * [2023-12-08, 00:52:08](https://news.ycombinator.com/item?id=38563997) - [Tolstoy: How much Land does a man need](https://www.online-literature.com/tolstoy/2738/)
 * [2023-12-08, 00:06:27](https://news.ycombinator.com/item?id=38563627) - [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
@@ -20,6 +19,7 @@
 * [2023-12-07, 15:10:30](https://news.ycombinator.com/item?id=38557203) - [Tesla shares 48V architecture with other automakers](https://electrek.co/2023/12/07/tesla-shares-48v-architecture-with-other-automakers-to-move-the-industry/)
 * [2023-12-07, 14:57:23](https://news.ycombinator.com/item?id=38557054) - [Meta's new AI image generator was trained on 1.1B Instagram and FB photos](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 * [2023-12-07, 14:35:47](https://news.ycombinator.com/item?id=38556771) - [Purple Llama: Towards open trust and safety in generative AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
+* [2023-12-07, 14:26:33](https://news.ycombinator.com/item?id=38556669) - [Efficient parallelization of an ubiquitous sequential computation](https://arxiv.org/abs/2311.06281)
 * [2023-12-07, 13:53:06](https://news.ycombinator.com/item?id=38556261) - [Chipsynth C64 is an emulation of the SID so good, it can replace hardware](https://cdm.link/2023/12/chipsynth-c64/)
 * [2023-12-07, 13:43:44](https://news.ycombinator.com/item?id=38556162) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
