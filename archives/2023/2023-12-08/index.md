@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 20:10:17](https://news.ycombinator.com/item?id=38573609) - [Warning from OpenAI leaders helped trigger Sam Altman's ouster](https://www.washingtonpost.com/technology/2023/12/08/open-ai-sam-altman-complaints/)
 * [2023-12-08, 19:55:01](https://news.ycombinator.com/item?id=38573378) - [Google announces April 2024 shutdown date for Google Podcasts](https://arstechnica.com/gadgets/2023/12/google-podcasts-dies-april-2024-youtube-music-migration-tool-goes-live/)
 * [2023-12-08, 19:45:47](https://news.ycombinator.com/item?id=38573269) - [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
 * [2023-12-08, 19:33:21](https://news.ycombinator.com/item?id=38573141) - [Apps That Use AI to Undress Women in Photos Soaring in Use](https://www.bloomberg.com/news/articles/2023-12-08/ai-nudify-apps-that-undress-women-in-photos-soaring-in-use)

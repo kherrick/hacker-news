@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 20:10:17](https://news.ycombinator.com/item?id=38573609) - [Warning from OpenAI leaders helped trigger Sam Altman's ouster](https://www.washingtonpost.com/technology/2023/12/08/open-ai-sam-altman-complaints/)
 * [2023-12-08, 19:55:01](https://news.ycombinator.com/item?id=38573378) - [Google announces April 2024 shutdown date for Google Podcasts](https://arstechnica.com/gadgets/2023/12/google-podcasts-dies-april-2024-youtube-music-migration-tool-goes-live/)
 * [2023-12-08, 19:45:47](https://news.ycombinator.com/item?id=38573269) - [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
 * [2023-12-08, 18:49:14](https://news.ycombinator.com/item?id=38572675) - [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
@@ -23,7 +24,6 @@
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 * [2023-12-08, 09:51:36](https://news.ycombinator.com/item?id=38567149) - [5Ghoul: 5G Modem Firmware CVEs](https://asset-group.github.io/disclosures/5ghoul/)
 * [2023-12-08, 09:38:44](https://news.ycombinator.com/item?id=38567074) - [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
-* [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 * [2023-12-08, 04:47:28](https://news.ycombinator.com/item?id=38565567) - [Ancient stars made extraordinarily heavy elements, researchers find](https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html)
 * [2023-12-08, 04:05:07](https://news.ycombinator.com/item?id=38565314) - [Practical Ways to Increase Product Velocity](https://staysaasy.com/management/2023/12/07/accelerating-product-velocity.html)
 * [2023-12-07, 20:53:23](https://news.ycombinator.com/item?id=38561682) - [Memray: Python memory profiler](https://bloomberg.github.io/memray/index.html)
