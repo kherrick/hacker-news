@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-08, 21:19:50",
+      "https://news.ycombinator.com/item?id=38574577"
+    ],
+    [
+      "Una-Cybertron-7B",
+      "https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 21:18:38",
+      "https://news.ycombinator.com/item?id=38574555"
+    ],
+    [
+      "GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis",
+      "https://shunyuanzheng.github.io/GPS-Gaussian"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 20:26:49",
       "https://news.ycombinator.com/item?id=38573837"
     ],
@@ -87,16 +107,6 @@
     [
       "ReconFusion: 3D Reconstruction with Diffusion Priors",
       "https://reconfusion.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 16:15:45",
-      "https://news.ycombinator.com/item?id=38570677"
-    ],
-    [
-      "Judge allows major 'right to repair' lawsuit against John Deere to move forward",
-      "https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "'A-team' of math proves a critical link between addition and sets",
       "https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 09:33:51",
-      "https://news.ycombinator.com/item?id=38541983"
-    ],
-    [
-      "I'm building a self-destructing USB drive (2022)",
-      "https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/"
     ]
   ]
 ]
