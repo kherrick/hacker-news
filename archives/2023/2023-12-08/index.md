@@ -6,7 +6,9 @@
 
 * [2023-12-08, 12:35:28](https://news.ycombinator.com/item?id=38568264) - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
 * [2023-12-08, 12:19:15](https://news.ycombinator.com/item?id=38568121) - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
+* [2023-12-08, 12:14:32](https://news.ycombinator.com/item?id=38568076) - [Arch Linux bugtracker migration to Gitlab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
+* [2023-12-08, 11:50:43](https://news.ycombinator.com/item?id=38567881) - [National Crime Agency response to Meta's rollout of end-to-end-encryption](https://www.nationalcrimeagency.gov.uk/news/nca-response-to-meta-s-rollout-of-end-to-end-encryption)
 * [2023-12-08, 11:28:43](https://news.ycombinator.com/item?id=38567745) - [Beyond \"Abolish the FDA\"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 * [2023-12-08, 10:33:32](https://news.ycombinator.com/item?id=38567424) - [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
