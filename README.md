@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 17:09:11](https://news.ycombinator.com/item?id=38571332) - [Scientists Have Reported a Breakthrough in Understanding Whale Language](https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language)
 * [2023-12-08, 17:00:30](https://news.ycombinator.com/item?id=38571214) - [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
 * [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
 * [2023-12-08, 16:44:34](https://news.ycombinator.com/item?id=38571017) - [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
@@ -12,6 +13,7 @@
 * [2023-12-08, 14:43:46](https://news.ycombinator.com/item?id=38569608) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-08, 14:12:03](https://news.ycombinator.com/item?id=38569240) - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
 * [2023-12-08, 14:02:06](https://news.ycombinator.com/item?id=38569129) - [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
+* [2023-12-08, 14:01:25](https://news.ycombinator.com/item?id=38569121) - [Double Standards](https://www.raspberrypi.com/news/double-standards/)
 * [2023-12-08, 12:35:28](https://news.ycombinator.com/item?id=38568264) - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
 * [2023-12-08, 12:33:41](https://news.ycombinator.com/item?id=38568252) - [Postgres Language Server: Implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 * [2023-12-08, 12:19:15](https://news.ycombinator.com/item?id=38568121) - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
@@ -26,9 +28,7 @@
 * [2023-12-08, 01:32:39](https://news.ycombinator.com/item?id=38564286) - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
 * [2023-12-07, 22:55:44](https://news.ycombinator.com/item?id=38562939) - [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
 * [2023-12-07, 20:25:32](https://news.ycombinator.com/item?id=38561382) - [Fun Cryptic Clues](https://onwords.substack.com/p/some-of-the-most-fun-cryptic-clues)
-* [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
-* [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
 
 ## [Archives](archives/index.md)

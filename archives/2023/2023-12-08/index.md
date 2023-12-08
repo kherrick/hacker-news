@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 17:09:11](https://news.ycombinator.com/item?id=38571332) - [Scientists Have Reported a Breakthrough in Understanding Whale Language](https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language)
 * [2023-12-08, 17:00:30](https://news.ycombinator.com/item?id=38571214) - [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
 * [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
 * [2023-12-08, 16:44:34](https://news.ycombinator.com/item?id=38571017) - [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
@@ -18,6 +19,7 @@
 * [2023-12-08, 14:15:36](https://news.ycombinator.com/item?id=38569284) - [The Domestication of SARS-CoV-2 into a Seasonal Infection by Viral Variants](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1289387/abstract)
 * [2023-12-08, 14:12:03](https://news.ycombinator.com/item?id=38569240) - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
 * [2023-12-08, 14:02:06](https://news.ycombinator.com/item?id=38569129) - [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
+* [2023-12-08, 14:01:25](https://news.ycombinator.com/item?id=38569121) - [Double Standards](https://www.raspberrypi.com/news/double-standards/)
 * [2023-12-08, 13:40:34](https://news.ycombinator.com/item?id=38568908) - [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
 * [2023-12-08, 13:39:37](https://news.ycombinator.com/item?id=38568896) - [Hetzner is terminating contracts with all users who had a Russian postal address](https://news.ycombinator.com/item?id=38568896)
 * [2023-12-08, 12:58:49](https://news.ycombinator.com/item?id=38568468) - [How to think about OpenAI's rumored (and overhyped) Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/)
