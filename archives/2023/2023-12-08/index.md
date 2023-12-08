@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2023-12-08, 11:28:43](https://news.ycombinator.com/item?id=38567745) - [Beyond \"Abolish the FDA\"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 * [2023-12-08, 10:33:32](https://news.ycombinator.com/item?id=38567424) - [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
 * [2023-12-08, 10:30:09](https://news.ycombinator.com/item?id=38567397) - [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
+* [2023-12-08, 09:38:44](https://news.ycombinator.com/item?id=38567074) - [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
 * [2023-12-08, 09:02:13](https://news.ycombinator.com/item?id=38566840) - [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
 * [2023-12-08, 08:40:07](https://news.ycombinator.com/item?id=38566697) - [The Internet Shutdown Game](https://shutdowngame.apc.org/)
 * [2023-12-08, 08:20:55](https://news.ycombinator.com/item?id=38566586) - [\"Non-Player Character\"](https://www.yudkowsky.net/other/fiction/npc)
