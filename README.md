@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 * [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We Investigated France's Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 * [2023-12-08, 01:32:39](https://news.ycombinator.com/item?id=38564286) - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
 * [2023-12-08, 00:52:08](https://news.ycombinator.com/item?id=38563997) - [Tolstoy: How much Land does a man need](https://www.online-literature.com/tolstoy/2738/)
@@ -25,7 +26,6 @@
 * [2023-12-07, 11:54:59](https://news.ycombinator.com/item?id=38555417) - [Radio Architecture Matters: A Review of RF Sampling vs. Zero-IF](https://www.analog.com/en/technical-articles/radio-architecture-matters.html)
 * [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
-* [2023-12-07, 10:43:46](https://news.ycombinator.com/item?id=38554994) - [Show HN: My related-posts finder script (with LLM and GPT4 enhancement)](https://tomhazledine.com/llm-related-posts/)
 * [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life is omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-06, 09:52:46](https://news.ycombinator.com/item?id=38542101) - [WikEM, the Global Emergency Medicine Wiki](https://wikem.org/wiki/Main_Page)
