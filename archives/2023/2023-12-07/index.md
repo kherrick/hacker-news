@@ -67,6 +67,7 @@
 * [2023-12-07, 07:41:13](https://news.ycombinator.com/item?id=38553881) - [55% of workers say their pay isn't keeping up with inflation](https://www.cnbc.com/2022/09/14/half-of-working-americans-say-their-pay-isnt-keeping-up-with-inflation.html)
 * [2023-12-07, 06:55:10](https://news.ycombinator.com/item?id=38553624) - [Partitioned consensus and its impact on Spanner's latency](http://dbmsmusings.blogspot.com/2018/12/partitioned-consensus-and-its-impact-on.html)
 * [2023-12-07, 06:37:06](https://news.ycombinator.com/item?id=38553530) - [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
+* [2023-12-07, 06:04:35](https://news.ycombinator.com/item?id=38553369) - [Jarotsim is a playground of Turing machines](https://compudanzas.itch.io/jarotsim)
 * [2023-12-07, 05:44:45](https://news.ycombinator.com/item?id=38553259) - [Cabinets of Curiosities Laid the Foundation for Modern Museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
 * [2023-12-07, 05:43:59](https://news.ycombinator.com/item?id=38553254) - [Tesla Whistleblower – 'Autopilot' System Not Safe Enough for Public Roads](https://jalopnik.com/tesla-whistleblower-says-autopilot-system-is-not-safe-e-1851077068)
 * [2023-12-07, 04:59:49](https://news.ycombinator.com/item?id=38553008) - [Tell HN: ZFS silent data corruption bugfix – my research results](https://news.ycombinator.com/item?id=38553008)
