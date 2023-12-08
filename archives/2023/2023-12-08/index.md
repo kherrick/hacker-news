@@ -16,6 +16,7 @@
 * [2023-12-08, 18:29:19](https://news.ycombinator.com/item?id=38572401) - [A Bike Lane Moved, and This San Francisco Neighborhood Erupted](https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/)
 * [2023-12-08, 18:20:51](https://news.ycombinator.com/item?id=38572284) - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
 * [2023-12-08, 18:19:30](https://news.ycombinator.com/item?id=38572264) - [Electric Vehicles are better than gas-powered cars in winter–here's why](https://arstechnica.com/cars/2023/12/electric-vehicles-are-better-than-gas-powered-cars-in-winter-heres-why/)
+* [2023-12-08, 18:15:05](https://news.ycombinator.com/item?id=38572190) - [Simultaneous cat and external keyboard input causing kernel panic (2011)](https://lore.kernel.org/lkml/20111103182830.GB3844@khazad-dum.debian.net/T/)
 * [2023-12-08, 18:15:00](https://news.ycombinator.com/item?id=38572188) - [Neonatal circumcision associated with altered adult socio-affective processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7702013/)
 * [2023-12-08, 18:10:35](https://news.ycombinator.com/item?id=38572127) - [Mistral releases 8x7 MoE model via torrent](https://twitter.com/MistralAI/status/1733150512395038967?s=20)
 * [2023-12-08, 17:57:16](https://news.ycombinator.com/item?id=38571972) - [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
