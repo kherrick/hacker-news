@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 19:10:26](https://news.ycombinator.com/item?id=38572877) - [Paul Graham's Twitter account targeted by IDF](https://twitter.com/paulg/status/1733146138226614465)
 * [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [New year, new company – encouraging last-minute applications to YC](https://news.ycombinator.com/item?id=38572504)
-* [2023-12-08, 18:29:19](https://news.ycombinator.com/item?id=38572401) - [A Bike Lane Moved, and This San Francisco Neighborhood Erupted](https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/)
+* [2023-12-08, 18:29:19](https://news.ycombinator.com/item?id=38572401) - [A bike lane moved, and this San Francisco neighborhood erupted](https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/)
 * [2023-12-08, 18:20:51](https://news.ycombinator.com/item?id=38572284) - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
 * [2023-12-08, 18:10:35](https://news.ycombinator.com/item?id=38572127) - [Mistral releases 8x7 MoE model via torrent](https://twitter.com/MistralAI/status/1733150512395038967?s=20)
 * [2023-12-08, 17:57:16](https://news.ycombinator.com/item?id=38571972) - [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
@@ -26,8 +27,7 @@
 * [2023-12-08, 04:47:28](https://news.ycombinator.com/item?id=38565567) - [Ancient stars made extraordinarily heavy elements, researchers find](https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html)
 * [2023-12-08, 04:05:07](https://news.ycombinator.com/item?id=38565314) - [Practical Ways to Increase Product Velocity](https://staysaasy.com/management/2023/12/07/accelerating-product-velocity.html)
 * [2023-12-07, 20:53:23](https://news.ycombinator.com/item?id=38561682) - [Memray: The endgame Python memory profiler](https://bloomberg.github.io/memray/index.html)
-* [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
-* [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
+* [2023-12-07, 20:25:32](https://news.ycombinator.com/item?id=38561382) - [Fun Cryptic Clues](https://onwords.substack.com/p/some-of-the-most-fun-cryptic-clues)
 * [2023-12-06, 15:55:08](https://news.ycombinator.com/item?id=38545522) - ['A-team' of math proves a critical link between addition and sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-06, 09:33:51](https://news.ycombinator.com/item?id=38541983) - [I'm building a self-destructing USB drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 
