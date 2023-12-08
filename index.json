@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-08, 18:36:45",
+      "https://news.ycombinator.com/item?id=38572504"
+    ],
+    [
+      "New year, new company – encouraging last-minute applications to YC",
+      "https://news.ycombinator.com/item?id=38572504"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 18:19:30",
+      "https://news.ycombinator.com/item?id=38572264"
+    ],
+    [
+      "Electric Vehicles are better than gas-powered cars in winter–here's why",
+      "https://arstechnica.com/cars/2023/12/electric-vehicles-are-better-than-gas-powered-cars-in-winter-heres-why/"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 17:57:16",
       "https://news.ycombinator.com/item?id=38571972"
     ],
@@ -17,16 +37,6 @@
     [
       "Scientists Have Reported a Breakthrough in Understanding Whale Language",
       "https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 17:00:30",
-      "https://news.ycombinator.com/item?id=38571214"
-    ],
-    [
-      "Flexport is hiring customs duty drawback specialists",
-      "https://flexport.com/careers"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-12-08, 15:25:14",
-      "https://news.ycombinator.com/item?id=38570110"
-    ],
-    [
-      "The wealth of the 25 richest families in the world soared 43% in the last year",
-      "https://www.bloomberg.com/features/2023-worlds-richest-families/"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 15:18:50",
       "https://news.ycombinator.com/item?id=38570035"
     ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=38569240"
     ],
     [
-      "jc: Converts the output of popular command-line tools to JSON",
+      "JC converts the output of popular command-line tools to JSON",
       "https://github.com/kellyjonbrazil/jc"
     ]
   ],
@@ -167,6 +167,16 @@
     [
       "Postgres Language Server: Implementing the Parser",
       "https://supabase.com/blog/postgres-language-server-implementing-parser"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 12:19:15",
+      "https://news.ycombinator.com/item?id=38568121"
+    ],
+    [
+      "Problems on the Galaxy Store",
+      "https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Practical Ways to Increase Product Velocity",
       "https://staysaasy.com/management/2023/12/07/accelerating-product-velocity.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 01:32:39",
-      "https://news.ycombinator.com/item?id=38564286"
-    ],
-    [
-      "Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS",
-      "http://www.sol-1.org/index.php"
     ]
   ],
   [
