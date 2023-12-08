@@ -2,6 +2,7 @@
 
 * [2023-12-08, 12:35:28](https://news.ycombinator.com/item?id=38568264) - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
 * [2023-12-08, 12:19:15](https://news.ycombinator.com/item?id=38568121) - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
+* [2023-12-08, 12:14:32](https://news.ycombinator.com/item?id=38568076) - [Arch Linux bugtracker migration to Gitlab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 * [2023-12-08, 10:33:32](https://news.ycombinator.com/item?id=38567424) - [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
@@ -19,7 +20,6 @@
 * [2023-12-07, 22:55:44](https://news.ycombinator.com/item?id=38562939) - [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
 * [2023-12-07, 22:14:15](https://news.ycombinator.com/item?id=38562558) - [How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)
 * [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
-* [2023-12-07, 17:29:50](https://news.ycombinator.com/item?id=38559192) - [Choose your own IP](https://tailscale.com/blog/choose-your-ip/)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 13:43:44](https://news.ycombinator.com/item?id=38556162) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
