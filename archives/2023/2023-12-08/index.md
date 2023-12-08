@@ -8,6 +8,7 @@
 * [2023-12-08, 16:20:26](https://news.ycombinator.com/item?id=38570732) - [Homes need to be built for better internet](https://www.theverge.com/2023/12/8/23991092/homes-need-to-be-built-for-better-internet)
 * [2023-12-08, 16:15:45](https://news.ycombinator.com/item?id=38570677) - [Judge Allows Major 'Right to Repair' Lawsuit Against John Deere to Move Forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)
 * [2023-12-08, 16:03:00](https://news.ycombinator.com/item?id=38570537) - [Mistral \"Mixtral\" 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
+* [2023-12-08, 15:25:14](https://news.ycombinator.com/item?id=38570110) - [The wealth of the 25 richest families in the world soared 43% in the last year](https://www.bloomberg.com/features/2023-worlds-richest-families/)
 * [2023-12-08, 15:18:50](https://news.ycombinator.com/item?id=38570035) - [Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
 * [2023-12-08, 14:43:46](https://news.ycombinator.com/item?id=38569608) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-08, 14:15:36](https://news.ycombinator.com/item?id=38569284) - [The Domestication of SARS-CoV-2 into a Seasonal Infection by Viral Variants](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1289387/abstract)
