@@ -129,27 +129,6 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="38570867">
-          <h3>
-            <a
-              class="item"
-              href="https://www.forbes.com/sites/lanceeliot/2023/11/26/about-that-mysterious-ai-breakthrough-known-as-q-by-openai-that-allegedly-attains-true-ai-or-is-on-the-path-toward-artificial-general-intelligence-agi/"
-              >About That Mysterious AI Breakthrough Known as Q* by OpenAI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-08 @ 16:32:09</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38570867"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="38570732">
           <h3>
             <a
@@ -162,11 +141,11 @@
             <h4>
               <span>2023-12-08 @ 16:20:26</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38570732"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -184,13 +163,97 @@
             <h4>
               <span>2023-12-08 @ 16:15:45</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38570677"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38570624">
+          <h3>
+            <a class="item" href="https://www.warpbuild.com/"
+              >Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30%
+              faster builds</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-08 @ 16:11:20</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38570624"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                WarpBuild provides fast, secure `x86-64` and `arm64` Github
+                actions runners. This speeds up your workloads by 30%, at half
+                the cost, and takes ~2mins to get started.
+              </p>
+              <p>
+                We’ve been seeing pretty good results since we opened up signups
+                a week ago and I’ve shared some numbers publicly here [1].
+              </p>
+              <p>
+                Currently, we support linux runners for Github organizations
+                (not personal accounts) and MacOS support is coming soon (~Jan).
+              </p>
+              <p>
+                The way the runners work is deceptively simple: Runners are
+                assigned to hardware that is ideal for build workloads with fast
+                NVMe disks and high single-core performance.
+              </p>
+              <p>
+                The runners are allocated on VMs, not containers. This provides
+                faster performance and enables use cases requiring (1) nested
+                virtualization for running firecracker and other hypervisors,
+                (2) k8s without relying on kind, and (3) Android emulators on
+                `arm64` instances in test workflows.
+              </p>
+              <p>
+                We also have released a Github Action called `Action-Debugger`
+                that allows you to SSH into a running workflow for simplifying
+                pesky debugging[2].
+              </p>
+              <p>
+                The same set of packages that you’d get on Github hosted runners
+                are pre-configured (on x86-64 runners) so everything works out
+                of the box with no modifications needed.
+              </p>
+              <p>
+                A very minor detail that I’m rather proud of, and I’d love your
+                thoughts on improving it further, is the onboarding flow for the
+                ease of moving workflows to WarpBuild. We’ve also put in a lot
+                of effort into making the workflow start up time where we are as
+                fast or faster than Github.
+              </p>
+              <p>
+                [1]
+                <a href="https://x.com/suryaoruganti/status/1732932591001735419"
+                  >https://x.com/suryaoruganti/status/1732932591001735419</a
+                >
+                [2]
+                <a href="https://github.com/WarpBuilds/action-debugger"
+                  >https://github.com/WarpBuilds/action-debugger</a
+                >, h/t to tmate
+              </p>
+              <p>
+                Making builds faster by providing optimal hardware and
+                configurations across CI providers is the first step in our
+                mission to make build engineering better.
+              </p>
+              <p>
+                I’d love your feedback on the product and thoughts on other CI
+                pain points we could solve to enable better collaboration and
+                developer experience.
+              </p>
+            </div>
           </section>
         </section>
         <section id="38570537">
@@ -205,11 +268,11 @@
             <h4>
               <span>2023-12-08 @ 16:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38570537"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -227,11 +290,11 @@
             <h4>
               <span>2023-12-08 @ 15:25:14</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38570110"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -249,11 +312,11 @@
             <h4>
               <span>2023-12-08 @ 15:18:50</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38570035"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -268,11 +331,11 @@
             <h4>
               <span>2023-12-08 @ 14:43:46</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38569608"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -287,11 +350,11 @@
             <h4>
               <span>2023-12-08 @ 14:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38569240"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -306,11 +369,11 @@
             <h4>
               <span>2023-12-08 @ 14:02:06</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38569129"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -327,11 +390,11 @@
             <h4>
               <span>2023-12-08 @ 12:58:49</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38568468"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -347,7 +410,7 @@
             <h4>
               <span>2023-12-08 @ 12:35:28</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38568264"
                   >Comments</a
@@ -368,11 +431,11 @@
             <h4>
               <span>2023-12-08 @ 12:33:41</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38568252"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -389,11 +452,11 @@
             <h4>
               <span>2023-12-08 @ 12:19:15</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38568121"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -410,11 +473,11 @@
             <h4>
               <span>2023-12-08 @ 12:14:32</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38568076"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -449,11 +512,11 @@
             <h4>
               <span>2023-12-08 @ 11:20:36</span
               ><span class="points-container"
-                >Points: <span class="points">475</span></span
+                >Points: <span class="points">495</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38567687"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 197</span></span
               >
             </h4>
           </section>
@@ -470,11 +533,11 @@
             <h4>
               <span>2023-12-08 @ 09:51:36</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38567149"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -492,28 +555,9 @@
             <h4>
               <span>2023-12-08 @ 09:38:44</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38567074"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38566697">
-          <h3>
-            <a class="item" href="https://shutdowngame.apc.org/"
-              >The Internet Shutdown Game</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-08 @ 08:40:07</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38566697"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
               >
@@ -530,11 +574,11 @@
             <h4>
               <span>2023-12-08 @ 07:12:15</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38566235"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
           </section>
@@ -551,7 +595,7 @@
             <h4>
               <span>2023-12-08 @ 04:59:34</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38565629"
                   >Comments</a
@@ -572,11 +616,11 @@
             <h4>
               <span>2023-12-08 @ 04:05:07</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38565314"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -593,7 +637,7 @@
             <h4>
               <span>2023-12-08 @ 02:45:28</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38564808"
                   >Comments</a
@@ -613,11 +657,11 @@
             <h4>
               <span>2023-12-08 @ 01:32:39</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38564286"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
             <div class="text">
@@ -641,11 +685,11 @@
             <h4>
               <span>2023-12-07 @ 22:55:44</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">290</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38562939"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -660,7 +704,7 @@
             <h4>
               <span>2023-12-07 @ 18:04:56</span
               ><span class="points-container"
-                >Points: <span class="points">447</span></span
+                >Points: <span class="points">449</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38559607"
                   >Comments</a
@@ -681,11 +725,11 @@
             <h4>
               <span>2023-12-07 @ 16:36:10</span
               ><span class="points-container"
-                >Points: <span class="points">398</span></span
+                >Points: <span class="points">400</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38558423"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -702,11 +746,11 @@
             <h4>
               <span>2023-12-07 @ 12:36:01</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38555655"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -745,11 +789,30 @@
             <h4>
               <span>2023-12-07 @ 11:04:26</span
               ><span class="points-container"
-                >Points: <span class="points">434</span></span
+                >Points: <span class="points">437</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38555115"
                   >Comments</a
-                ><span class="descendants">: 440</span></span
+                ><span class="descendants">: 444</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38544729">
+          <h3>
+            <a class="item" href="https://deepmind.google/technologies/gemini/"
+              >Gemini AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-06 @ 15:03:47</span
+              ><span class="points-container"
+                >Points: <span class="points">2059</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38544729"
+                  >Comments</a
+                ><span class="descendants">: 1579</span></span
               >
             </h4>
           </section>
