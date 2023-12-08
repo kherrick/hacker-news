@@ -8,6 +8,7 @@
 * [2023-12-08, 19:55:01](https://news.ycombinator.com/item?id=38573378) - [Google announces April 2024 shutdown date for Google Podcasts](https://arstechnica.com/gadgets/2023/12/google-podcasts-dies-april-2024-youtube-music-migration-tool-goes-live/)
 * [2023-12-08, 19:45:47](https://news.ycombinator.com/item?id=38573269) - [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
 * [2023-12-08, 19:33:21](https://news.ycombinator.com/item?id=38573141) - [Apps That Use AI to Undress Women in Photos Soaring in Use](https://www.bloomberg.com/news/articles/2023-12-08/ai-nudify-apps-that-undress-women-in-photos-soaring-in-use)
+* [2023-12-08, 19:19:04](https://news.ycombinator.com/item?id=38572974) - [Okta Breach Impacted All Customer Support Users–Not 1 Percent](https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/)
 * [2023-12-08, 19:10:26](https://news.ycombinator.com/item?id=38572877) - [Paul Graham's Twitter account targeted by IDF](https://twitter.com/paulg/status/1733146138226614465)
 * [2023-12-08, 18:49:14](https://news.ycombinator.com/item?id=38572675) - [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
 * [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [New year, new company – encouraging last-minute applications to YC](https://news.ycombinator.com/item?id=38572504)
