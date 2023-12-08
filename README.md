@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-08, 09:02:13](https://news.ycombinator.com/item?id=38566840) - [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
+* [2023-12-08, 08:20:55](https://news.ycombinator.com/item?id=38566586) - [\"Non-Player Character\"](https://www.yudkowsky.net/other/fiction/npc)
 * [2023-12-08, 07:12:15](https://news.ycombinator.com/item?id=38566235) - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 * [2023-12-08, 05:03:50](https://news.ycombinator.com/item?id=38565651) - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
 * [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
@@ -23,7 +24,6 @@
 * [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
 * [2023-12-07, 10:43:46](https://news.ycombinator.com/item?id=38554994) - [Show HN: My related-posts finder script (with LLM and GPT4 enhancement)](https://tomhazledine.com/llm-related-posts/)
-* [2023-12-06, 23:08:24](https://news.ycombinator.com/item?id=38550737) - [Behind the scenes of Sound ID in Merlin – Identify birds using your phone (2021)](https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 * [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life is omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2023-12-06, 12:22:46](https://news.ycombinator.com/item?id=38542905) - [Unlocking the secrets of oobleck–strange stuff that's both liquid and solid](https://arstechnica.com/science/2023/12/unlocking-the-secrets-of-oobleck-strange-stuff-thats-both-liquid-and-solid/)

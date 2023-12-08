@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
 * [2023-12-08, 09:02:13](https://news.ycombinator.com/item?id=38566840) - [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
+* [2023-12-08, 08:20:55](https://news.ycombinator.com/item?id=38566586) - [\"Non-Player Character\"](https://www.yudkowsky.net/other/fiction/npc)
 * [2023-12-08, 07:12:15](https://news.ycombinator.com/item?id=38566235) - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 * [2023-12-08, 06:09:07](https://news.ycombinator.com/item?id=38565926) - [World of Goo 2](https://worldofgoo2.com/)
 * [2023-12-08, 05:40:00](https://news.ycombinator.com/item?id=38565801) - [Average distance to a supermarket in Amsterdam is 400 meter or 1300 feet](https://www.oozo.nl/nabije-voorzieningen/amsterdam)
