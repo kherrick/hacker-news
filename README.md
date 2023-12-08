@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 16:03:00](https://news.ycombinator.com/item?id=38570537) - [Mistral \"Mixtral\" 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
+* [2023-12-08, 15:18:50](https://news.ycombinator.com/item?id=38570035) - [Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
 * [2023-12-08, 14:43:46](https://news.ycombinator.com/item?id=38569608) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-08, 14:12:03](https://news.ycombinator.com/item?id=38569240) - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
 * [2023-12-08, 14:02:06](https://news.ycombinator.com/item?id=38569129) - [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
@@ -8,7 +10,6 @@
 * [2023-12-08, 12:35:28](https://news.ycombinator.com/item?id=38568264) - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
 * [2023-12-08, 12:33:41](https://news.ycombinator.com/item?id=38568252) - [Postgres Language Server: Implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 * [2023-12-08, 12:19:15](https://news.ycombinator.com/item?id=38568121) - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
-* [2023-12-08, 12:15:55](https://news.ycombinator.com/item?id=38568083) - [Amazon's humanoid robots will eventually cost only $3 per hour to operate](https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10)
 * [2023-12-08, 12:14:32](https://news.ycombinator.com/item?id=38568076) - [Arch Linux bugtracker migration to Gitlab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
@@ -29,7 +30,6 @@
 * [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
-* [2023-12-05, 22:01:23](https://news.ycombinator.com/item?id=38537545) - [Jets: Ruby Serverless Framework](https://docs.rubyonjets.com/)
 
 ## [Archives](archives/index.md)
 

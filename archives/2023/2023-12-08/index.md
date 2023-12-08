@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 16:03:00](https://news.ycombinator.com/item?id=38570537) - [Mistral \"Mixtral\" 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
+* [2023-12-08, 15:18:50](https://news.ycombinator.com/item?id=38570035) - [Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
 * [2023-12-08, 14:43:46](https://news.ycombinator.com/item?id=38569608) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-08, 14:15:36](https://news.ycombinator.com/item?id=38569284) - [The Domestication of SARS-CoV-2 into a Seasonal Infection by Viral Variants](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1289387/abstract)
 * [2023-12-08, 14:12:03](https://news.ycombinator.com/item?id=38569240) - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
