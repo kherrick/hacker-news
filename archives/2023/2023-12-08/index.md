@@ -34,6 +34,7 @@
 * [2023-12-08, 05:40:00](https://news.ycombinator.com/item?id=38565801) - [Average distance to a supermarket in Amsterdam is 400 meter or 1300 feet](https://www.oozo.nl/nabije-voorzieningen/amsterdam)
 * [2023-12-08, 05:03:50](https://news.ycombinator.com/item?id=38565651) - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
 * [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
+* [2023-12-08, 04:05:07](https://news.ycombinator.com/item?id=38565314) - [Practical Ways to Increase Product Velocity](https://staysaasy.com/management/2023/12/07/accelerating-product-velocity.html)
 * [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We Investigated France's Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 * [2023-12-08, 02:12:13](https://news.ycombinator.com/item?id=38564570) - [Is C# Underhyped?](https://old.reddit.com/r/dotnet/comments/1870fwq/is_c_underhyped/)
 * [2023-12-08, 02:04:05](https://news.ycombinator.com/item?id=38564520) - [Amsterdam Switches to 30 Km/h on 80% of its Roads](https://www.amsterdam.nl/en/news/speed-limit-30km/)
