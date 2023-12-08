@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 13:40:34](https://news.ycombinator.com/item?id=38568908) - [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
 * [2023-12-08, 12:35:28](https://news.ycombinator.com/item?id=38568264) - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
+* [2023-12-08, 12:33:41](https://news.ycombinator.com/item?id=38568252) - [Postgres Language Server: Implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 * [2023-12-08, 12:19:15](https://news.ycombinator.com/item?id=38568121) - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
 * [2023-12-08, 12:14:32](https://news.ycombinator.com/item?id=38568076) - [Arch Linux bugtracker migration to Gitlab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
