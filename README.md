@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 09:02:13](https://news.ycombinator.com/item?id=38566840) - [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
 * [2023-12-08, 07:12:15](https://news.ycombinator.com/item?id=38566235) - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
-* [2023-12-08, 05:40:00](https://news.ycombinator.com/item?id=38565801) - [Average distance to a supermarket in Amsterdam is 400 meter or 1300 feet](https://www.oozo.nl/nabije-voorzieningen/amsterdam)
 * [2023-12-08, 05:03:50](https://news.ycombinator.com/item?id=38565651) - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
 * [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 * [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We investigated France's mass profiling machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
