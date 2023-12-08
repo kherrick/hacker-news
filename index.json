@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-08, 16:03:00",
+      "https://news.ycombinator.com/item?id=38570537"
+    ],
+    [
+      "Mistral \"Mixtral\" 8x7B 32k model [magnet]",
+      "https://twitter.com/MistralAI/status/1733150512395038967"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 15:18:50",
+      "https://news.ycombinator.com/item?id=38570035"
+    ],
+    [
+      "Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters",
+      "https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 14:43:46",
       "https://news.ycombinator.com/item?id=38569608"
     ],
@@ -77,16 +97,6 @@
     [
       "Problems on the Galaxy Store",
       "https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 12:15:55",
-      "https://news.ycombinator.com/item?id=38568083"
-    ],
-    [
-      "Amazon's humanoid robots will eventually cost only $3 per hour to operate",
-      "https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Gemini AI",
       "https://deepmind.google/technologies/gemini/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 22:01:23",
-      "https://news.ycombinator.com/item?id=38537545"
-    ],
-    [
-      "Jets: Ruby Serverless Framework",
-      "https://docs.rubyonjets.com/"
     ]
   ]
 ]
