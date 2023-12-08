@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 21:19:50](https://news.ycombinator.com/item?id=38574577) - [Una-Cybertron-7B](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16)
+* [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 * [2023-12-08, 20:26:49](https://news.ycombinator.com/item?id=38573837) - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
 * [2023-12-08, 20:21:53](https://news.ycombinator.com/item?id=38573765) - [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
 * [2023-12-08, 18:49:14](https://news.ycombinator.com/item?id=38572675) - [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
@@ -9,7 +11,6 @@
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
 * [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
 * [2023-12-08, 16:44:34](https://news.ycombinator.com/item?id=38571017) - [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
-* [2023-12-08, 16:15:45](https://news.ycombinator.com/item?id=38570677) - [Judge allows major 'right to repair' lawsuit against John Deere to move forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)
 * [2023-12-08, 16:11:20](https://news.ycombinator.com/item?id=38570624) - [Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30% faster builds](https://www.warpbuild.com/)
 * [2023-12-08, 16:03:00](https://news.ycombinator.com/item?id=38570537) - [Mistral \"Mixtral\" 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
 * [2023-12-08, 15:35:29](https://news.ycombinator.com/item?id=38570261) - [You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
@@ -29,7 +30,6 @@
 * [2023-12-07, 13:44:30](https://news.ycombinator.com/item?id=38556169) - [The Right Chemistry: Reflections on the manufacture of mirrors (2022)](https://montrealgazette.com/opinion/columnists/the-right-chemistry-reflections-on-the-manufacture-of-mirrors)
 * [2023-12-07, 02:53:03](https://news.ycombinator.com/item?id=38552245) - [MIDI Editor](http://www.midieditor.org/index.php?category=intro)
 * [2023-12-06, 15:55:08](https://news.ycombinator.com/item?id=38545522) - ['A-team' of math proves a critical link between addition and sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
-* [2023-12-06, 09:33:51](https://news.ycombinator.com/item?id=38541983) - [I'm building a self-destructing USB drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 
 ## [Archives](archives/index.md)
 
