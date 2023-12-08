@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
 * [2023-12-08, 06:09:07](https://news.ycombinator.com/item?id=38565926) - [World of Goo 2](https://worldofgoo2.com/)
+* [2023-12-08, 05:03:50](https://news.ycombinator.com/item?id=38565651) - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
 * [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 * [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We Investigated France's Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 * [2023-12-08, 02:12:13](https://news.ycombinator.com/item?id=38564570) - [Is C# Underhyped?](https://old.reddit.com/r/dotnet/comments/1870fwq/is_c_underhyped/)
