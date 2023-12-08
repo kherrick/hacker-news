@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 17:00:30](https://news.ycombinator.com/item?id=38571214) - [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
+* [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
+* [2023-12-08, 16:44:34](https://news.ycombinator.com/item?id=38571017) - [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
 * [2023-12-08, 16:32:09](https://news.ycombinator.com/item?id=38570867) - [About That Mysterious AI Breakthrough Known as Q* by OpenAI](https://www.forbes.com/sites/lanceeliot/2023/11/26/about-that-mysterious-ai-breakthrough-known-as-q-by-openai-that-allegedly-attains-true-ai-or-is-on-the-path-toward-artificial-general-intelligence-agi/)
 * [2023-12-08, 16:20:26](https://news.ycombinator.com/item?id=38570732) - [Homes need to be built for better internet](https://www.theverge.com/2023/12/8/23991092/homes-need-to-be-built-for-better-internet)
 * [2023-12-08, 16:15:45](https://news.ycombinator.com/item?id=38570677) - [Judge Allows Major 'Right to Repair' Lawsuit Against John Deere to Move Forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)

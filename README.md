@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 17:00:30](https://news.ycombinator.com/item?id=38571214) - [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
+* [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
+* [2023-12-08, 16:44:34](https://news.ycombinator.com/item?id=38571017) - [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
 * [2023-12-08, 16:20:26](https://news.ycombinator.com/item?id=38570732) - [Homes need to be built for better internet](https://www.theverge.com/2023/12/8/23991092/homes-need-to-be-built-for-better-internet)
 * [2023-12-08, 16:15:45](https://news.ycombinator.com/item?id=38570677) - [Judge Allows Major 'Right to Repair' Lawsuit Against John Deere to Move Forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)
 * [2023-12-08, 16:11:20](https://news.ycombinator.com/item?id=38570624) - [Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30% faster builds](https://www.warpbuild.com/)
@@ -14,7 +17,6 @@
 * [2023-12-08, 12:33:41](https://news.ycombinator.com/item?id=38568252) - [Postgres Language Server: Implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 * [2023-12-08, 12:19:15](https://news.ycombinator.com/item?id=38568121) - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
 * [2023-12-08, 12:14:32](https://news.ycombinator.com/item?id=38568076) - [Arch Linux bugtracker migration to Gitlab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
-* [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 * [2023-12-08, 09:51:36](https://news.ycombinator.com/item?id=38567149) - [5Ghoul: 5G Modem Firmware CVEs](https://asset-group.github.io/disclosures/5ghoul/)
 * [2023-12-08, 09:38:44](https://news.ycombinator.com/item?id=38567074) - [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
@@ -24,12 +26,10 @@
 * [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We investigated France's mass profiling machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 * [2023-12-08, 01:32:39](https://news.ycombinator.com/item?id=38564286) - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
 * [2023-12-07, 22:55:44](https://news.ycombinator.com/item?id=38562939) - [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
-* [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
+* [2023-12-07, 20:25:32](https://news.ycombinator.com/item?id=38561382) - [Fun Cryptic Clues](https://onwords.substack.com/p/some-of-the-most-fun-cryptic-clues)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
-* [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
-* [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 
 ## [Archives](archives/index.md)
 
