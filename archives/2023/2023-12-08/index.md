@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We Investigated France's Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
+* [2023-12-08, 02:12:13](https://news.ycombinator.com/item?id=38564570) - [Is C# Underhyped?](https://old.reddit.com/r/dotnet/comments/1870fwq/is_c_underhyped/)
 * [2023-12-08, 02:04:05](https://news.ycombinator.com/item?id=38564520) - [Amsterdam Switches to 30 Km/h on 80% of its Roads](https://www.amsterdam.nl/en/news/speed-limit-30km/)
 * [2023-12-08, 02:00:48](https://news.ycombinator.com/item?id=38564496) - [White House threatens to veto anti-EV bill just passed by US House](https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/)
 * [2023-12-08, 01:32:39](https://news.ycombinator.com/item?id=38564286) - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
