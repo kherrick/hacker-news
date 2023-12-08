@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-12-08, 01:58:50",
-      "https://news.ycombinator.com/item?id=38564479"
-    ],
-    [
-      "Iran: If You're Going to Bomb a Place, You Should Know Its People First",
-      "https://blog.ricksteves.com/blog/iran-today/"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 01:32:39",
       "https://news.ycombinator.com/item?id=38564286"
     ],
@@ -197,6 +187,16 @@
     [
       "Purple Llama: Towards open trust and safety in generative AI",
       "https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 14:26:33",
+      "https://news.ycombinator.com/item?id=38556669"
+    ],
+    [
+      "Efficient parallelization of an ubiquitous sequential computation",
+      "https://arxiv.org/abs/2311.06281"
     ]
   ],
   [
