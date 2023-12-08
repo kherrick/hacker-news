@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 22:52:37](https://news.ycombinator.com/item?id=38575801) - [E.U. Agrees on Artificial Intelligence Rules with Landmark New Law](https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html)
 * [2023-12-08, 21:57:43](https://news.ycombinator.com/item?id=38575120) - [Ask HN: What fuel for my data furnace?](https://news.ycombinator.com/item?id=38575120)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
@@ -11,7 +12,6 @@
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
 * [2023-12-08, 17:23:18](https://news.ycombinator.com/item?id=38571524) - [The valve at the end of the world](https://dirt.fyi/article/2023/11/vegetation?ref=thebrowser.com)
 * [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
-* [2023-12-08, 16:44:34](https://news.ycombinator.com/item?id=38571017) - [ReconFusion: 3D Reconstruction with Diffusion Priors](https://reconfusion.github.io/)
 * [2023-12-08, 16:11:20](https://news.ycombinator.com/item?id=38570624) - [Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30% faster builds](https://www.warpbuild.com/)
 * [2023-12-08, 16:03:00](https://news.ycombinator.com/item?id=38570537) - [Mistral \"Mixtral\" 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
 * [2023-12-08, 15:35:29](https://news.ycombinator.com/item?id=38570261) - [You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
