@@ -9,6 +9,7 @@
 * [2023-12-07, 22:55:44](https://news.ycombinator.com/item?id=38562939) - [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
 * [2023-12-07, 22:34:00](https://news.ycombinator.com/item?id=38562726) - [Google calls Drive data loss \"fixed,\" locks forum threads saying otherwise](https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/)
 * [2023-12-07, 22:14:15](https://news.ycombinator.com/item?id=38562558) - [How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)
+* [2023-12-07, 20:53:23](https://news.ycombinator.com/item?id=38561682) - [Memray: The endgame Python memory profiler](https://bloomberg.github.io/memray/index.html)
 * [2023-12-07, 20:25:32](https://news.ycombinator.com/item?id=38561382) - [Fun Cryptic Clues](https://onwords.substack.com/p/some-of-the-most-fun-cryptic-clues)
 * [2023-12-07, 19:49:44](https://news.ycombinator.com/item?id=38560943) - [Fairphone 5 scores a perfect 10 from iFixit for repairability](https://www.theregister.com/2023/12/07/fairphone_5_repairability/)
 * [2023-12-07, 19:22:50](https://news.ycombinator.com/item?id=38560624) - [Sam Altman-Backed Crypto Startup Raises $100M Bitcoin Private Credit Fund](https://coincu.com/234844-sam-altman-backed-crypto-startup-bitcoin-fund/)
