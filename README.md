@@ -2,7 +2,6 @@
 
 * [2023-12-08, 02:04:05](https://news.ycombinator.com/item?id=38564520) - [Amsterdam Switches to 30 Km/h on 80% of its Roads](https://www.amsterdam.nl/en/news/speed-limit-30km/)
 * [2023-12-08, 02:00:48](https://news.ycombinator.com/item?id=38564496) - [White House threatens to veto anti-EV bill just passed by US House](https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/)
-* [2023-12-08, 01:21:06](https://news.ycombinator.com/item?id=38564196) - [How to think about the OpenAI Q* rumors](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)
 * [2023-12-08, 00:06:27](https://news.ycombinator.com/item?id=38563627) - [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
 * [2023-12-07, 22:14:15](https://news.ycombinator.com/item?id=38562558) - [How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)
 * [2023-12-07, 18:09:07](https://news.ycombinator.com/item?id=38559655) - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
@@ -21,6 +20,7 @@
 * [2023-12-07, 14:26:33](https://news.ycombinator.com/item?id=38556669) - [Efficient parallelization of an ubiquitous sequential computation](https://arxiv.org/abs/2311.06281)
 * [2023-12-07, 13:53:06](https://news.ycombinator.com/item?id=38556261) - [Chipsynth C64 is an emulation of the SID so good, it can replace hardware](https://cdm.link/2023/12/chipsynth-c64/)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
+* [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
 * [2023-12-07, 10:43:46](https://news.ycombinator.com/item?id=38554994) - [Show HN: My related-posts finder script (with LLM and GPT4 enhancement)](https://tomhazledine.com/llm-related-posts/)
 * [2023-12-07, 06:04:35](https://news.ycombinator.com/item?id=38553369) - [Jarotsim is a playground of Turing machines](https://compudanzas.itch.io/jarotsim)
