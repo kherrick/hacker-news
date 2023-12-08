@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-08, 02:00:48](https://news.ycombinator.com/item?id=38564496) - [White House threatens to veto anti-EV bill just passed by US House](https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/)
 * [2023-12-08, 01:32:39](https://news.ycombinator.com/item?id=38564286) - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
 * [2023-12-08, 00:52:08](https://news.ycombinator.com/item?id=38563997) - [Tolstoy: How much Land does a man need](https://www.online-literature.com/tolstoy/2738/)
 * [2023-12-08, 00:06:27](https://news.ycombinator.com/item?id=38563627) - [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
@@ -26,6 +25,7 @@
 * [2023-12-07, 10:43:46](https://news.ycombinator.com/item?id=38554994) - [Show HN: My related-posts finder script (with LLM and GPT4 enhancement)](https://tomhazledine.com/llm-related-posts/)
 * [2023-12-07, 06:04:35](https://news.ycombinator.com/item?id=38553369) - [Jarotsim is a playground of Turing machines](https://compudanzas.itch.io/jarotsim)
 * [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life is omniperiodic](https://arxiv.org/abs/2312.02799)
+* [2023-12-06, 12:22:46](https://news.ycombinator.com/item?id=38542905) - [Unlocking the secrets of oobleck–strange stuff that's both liquid and solid](https://arstechnica.com/science/2023/12/unlocking-the-secrets-of-oobleck-strange-stuff-thats-both-liquid-and-solid/)
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-06, 09:52:46](https://news.ycombinator.com/item?id=38542101) - [WikEM, the Global Emergency Medicine Wiki](https://wikem.org/wiki/Main_Page)
 * [2023-12-06, 09:19:24](https://news.ycombinator.com/item?id=38541901) - [The first electro-mechanical desktop synthesizer](https://gamechangeraudio.com/motor-synth-mkii/)
