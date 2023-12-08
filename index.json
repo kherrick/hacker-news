@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-12-08, 19:33:21",
-      "https://news.ycombinator.com/item?id=38573141"
+      "2023-12-08, 19:55:01",
+      "https://news.ycombinator.com/item?id=38573378"
     ],
     [
-      "Apps That Use AI to Undress Women in Photos Soaring in Use",
-      "https://www.bloomberg.com/news/articles/2023-12-08/ai-nudify-apps-that-undress-women-in-photos-soaring-in-use"
+      "Google announces April 2024 shutdown date for Google Podcasts",
+      "https://arstechnica.com/gadgets/2023/12/google-podcasts-dies-april-2024-youtube-music-migration-tool-goes-live/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 19:45:47",
+      "https://news.ycombinator.com/item?id=38573269"
+    ],
+    [
+      "DNA companies should receive the death penalty for getting hacked",
+      "https://techcrunch.com/2023/12/08/protect-or-perish/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 18:49:14",
+      "https://news.ycombinator.com/item?id=38572675"
+    ],
+    [
+      "The pro-Israel information war",
+      "https://jackpoulson.substack.com/p/inside-the-pro-israel-information"
     ]
   ],
   [
@@ -21,42 +41,12 @@
   ],
   [
     [
-      "2023-12-08, 18:29:19",
-      "https://news.ycombinator.com/item?id=38572401"
-    ],
-    [
-      "A bike lane moved, and this San Francisco neighborhood erupted",
-      "https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 18:20:51",
       "https://news.ycombinator.com/item?id=38572284"
     ],
     [
-      "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+      "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts (2017)",
       "https://arxiv.org/abs/1701.06538"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 18:15:00",
-      "https://news.ycombinator.com/item?id=38572188"
-    ],
-    [
-      "Neonatal circumcision associated with altered adult socio-affective processing",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7702013/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 18:10:35",
-      "https://news.ycombinator.com/item?id=38572127"
-    ],
-    [
-      "Mistral releases 8x7 MoE model via torrent",
-      "https://twitter.com/MistralAI/status/1733150512395038967?s=20"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38571332"
     ],
     [
-      "Scientists Have Reported a Breakthrough in Understanding Whale Language",
+      "Researchers have identified new elements of whale vocalizations",
       "https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language"
     ]
   ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2023-12-08, 16:03:00",
+      "https://news.ycombinator.com/item?id=38570537"
+    ],
+    [
+      "Mistral \"Mixtral\" 8x7B 32k model [magnet]",
+      "https://twitter.com/MistralAI/status/1733150512395038967"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 15:35:29",
       "https://news.ycombinator.com/item?id=38570261"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38570035"
     ],
     [
-      "Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters",
+      "Spoofing DNS records by abusing DHCP DNS dynamic updates",
       "https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp"
     ]
   ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-12-07, 22:55:44",
-      "https://news.ycombinator.com/item?id=38562939"
-    ],
-    [
-      "A genetically modified bacterium that outcompetes bacteria causing tooth decay",
-      "https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 20:53:23",
       "https://news.ycombinator.com/item?id=38561682"
     ],
     [
       "Memray: Python memory profiler",
       "https://bloomberg.github.io/memray/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 02:53:03",
+      "https://news.ycombinator.com/item?id=38552245"
+    ],
+    [
+      "MIDI Editor",
+      "http://www.midieditor.org/index.php?category=intro"
     ]
   ],
   [
