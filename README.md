@@ -25,7 +25,7 @@
 * [2023-12-08, 09:38:44](https://news.ycombinator.com/item?id=38567074) - [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
 * [2023-12-08, 04:47:28](https://news.ycombinator.com/item?id=38565567) - [Ancient stars made extraordinarily heavy elements, researchers find](https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html)
 * [2023-12-07, 20:53:23](https://news.ycombinator.com/item?id=38561682) - [Memray: Python memory profiler](https://bloomberg.github.io/memray/index.html)
-* [2023-12-07, 20:25:32](https://news.ycombinator.com/item?id=38561382) - [Fun Cryptic Clues](https://onwords.substack.com/p/some-of-the-most-fun-cryptic-clues)
+* [2023-12-07, 19:40:58](https://news.ycombinator.com/item?id=38560832) - [WigglyPaint: A juicy, jiggly drawing program](https://internet-janitor.itch.io/wigglypaint)
 * [2023-12-07, 13:52:08](https://news.ycombinator.com/item?id=38556242) - [The Story](https://mazzzystar.github.io/2023/12/07/sublink/)
 * [2023-12-07, 13:44:30](https://news.ycombinator.com/item?id=38556169) - [The Right Chemistry: Reflections on the manufacture of mirrors (2022)](https://montrealgazette.com/opinion/columnists/the-right-chemistry-reflections-on-the-manufacture-of-mirrors)
 * [2023-12-07, 02:53:03](https://news.ycombinator.com/item?id=38552245) - [MIDI Editor](http://www.midieditor.org/index.php?category=intro)
