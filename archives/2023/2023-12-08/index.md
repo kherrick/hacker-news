@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [New year, new company – encouraging last-minute applications to YC](https://news.ycombinator.com/item?id=38572504)
+* [2023-12-08, 18:19:30](https://news.ycombinator.com/item?id=38572264) - [Electric Vehicles are better than gas-powered cars in winter–here's why](https://arstechnica.com/cars/2023/12/electric-vehicles-are-better-than-gas-powered-cars-in-winter-heres-why/)
 * [2023-12-08, 17:57:16](https://news.ycombinator.com/item?id=38571972) - [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
 * [2023-12-08, 17:09:11](https://news.ycombinator.com/item?id=38571332) - [Scientists Have Reported a Breakthrough in Understanding Whale Language](https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language)
 * [2023-12-08, 17:00:30](https://news.ycombinator.com/item?id=38571214) - [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
