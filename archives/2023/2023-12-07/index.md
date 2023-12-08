@@ -46,6 +46,7 @@
 * [2023-12-07, 14:06:19](https://news.ycombinator.com/item?id=38556456) - [Lithium Price Collapsed 77% in a Year, as Demand and Production Both Surged](https://wolfstreet.com/2023/11/23/lithium-shortage-bubble-implodes-once-again-as-demand-and-production-both-surged/)
 * [2023-12-07, 14:05:47](https://news.ycombinator.com/item?id=38556450) - [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
 * [2023-12-07, 13:53:06](https://news.ycombinator.com/item?id=38556261) - [Chipsynth C64 is an emulation of the SID so good, it can replace hardware](https://cdm.link/2023/12/chipsynth-c64/)
+* [2023-12-07, 13:52:08](https://news.ycombinator.com/item?id=38556242) - [The Story](https://mazzzystar.github.io/2023/12/07/sublink/)
 * [2023-12-07, 13:46:47](https://news.ycombinator.com/item?id=38556188) - [Ask HN: Books you read in 2023 and recommend for 2024](https://news.ycombinator.com/item?id=38556188)
 * [2023-12-07, 13:44:30](https://news.ycombinator.com/item?id=38556169) - [The Right Chemistry: Reflections on the manufacture of mirrors](https://montrealgazette.com/opinion/columnists/the-right-chemistry-reflections-on-the-manufacture-of-mirrors)
 * [2023-12-07, 13:43:44](https://news.ycombinator.com/item?id=38556162) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
