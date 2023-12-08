@@ -26,6 +26,7 @@
 * [2023-12-08, 18:10:35](https://news.ycombinator.com/item?id=38572127) - [Mistral releases 8x7 MoE model via torrent](https://twitter.com/MistralAI/status/1733150512395038967?s=20)
 * [2023-12-08, 17:57:16](https://news.ycombinator.com/item?id=38571972) - [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
+* [2023-12-08, 17:23:18](https://news.ycombinator.com/item?id=38571524) - [The valve at the end of the world](https://dirt.fyi/article/2023/11/vegetation?ref=thebrowser.com)
 * [2023-12-08, 17:09:11](https://news.ycombinator.com/item?id=38571332) - [Scientists Have Reported a Breakthrough in Understanding Whale Language](https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language)
 * [2023-12-08, 17:00:30](https://news.ycombinator.com/item?id=38571214) - [Flexport is hiring customs duty drawback specialists](https://flexport.com/careers)
 * [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
