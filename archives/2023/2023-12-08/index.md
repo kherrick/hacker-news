@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 19:33:21](https://news.ycombinator.com/item?id=38573141) - [Apps That Use AI to Undress Women in Photos Soaring in Use](https://www.bloomberg.com/news/articles/2023-12-08/ai-nudify-apps-that-undress-women-in-photos-soaring-in-use)
 * [2023-12-08, 19:10:26](https://news.ycombinator.com/item?id=38572877) - [Paul Graham's Twitter account targeted by IDF](https://twitter.com/paulg/status/1733146138226614465)
 * [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [New year, new company – encouraging last-minute applications to YC](https://news.ycombinator.com/item?id=38572504)
 * [2023-12-08, 18:29:19](https://news.ycombinator.com/item?id=38572401) - [A Bike Lane Moved, and This San Francisco Neighborhood Erupted](https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/)
