@@ -6,7 +6,6 @@
 * [2023-12-08, 18:20:51](https://news.ycombinator.com/item?id=38572284) - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
 * [2023-12-08, 18:15:00](https://news.ycombinator.com/item?id=38572188) - [Neonatal circumcision associated with altered adult socio-affective processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7702013/)
 * [2023-12-08, 18:10:35](https://news.ycombinator.com/item?id=38572127) - [Mistral releases 8x7 MoE model via torrent](https://twitter.com/MistralAI/status/1733150512395038967?s=20)
-* [2023-12-08, 17:57:16](https://news.ycombinator.com/item?id=38571972) - [FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR](https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
 * [2023-12-08, 17:09:11](https://news.ycombinator.com/item?id=38571332) - [Scientists Have Reported a Breakthrough in Understanding Whale Language](https://www.vice.com/en/article/4a35kp/scientists-have-reported-a-breakthrough-in-understanding-whale-language)
 * [2023-12-08, 16:49:57](https://news.ycombinator.com/item?id=38571088) - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
@@ -27,7 +26,8 @@
 * [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 * [2023-12-08, 04:47:28](https://news.ycombinator.com/item?id=38565567) - [Ancient stars made extraordinarily heavy elements, researchers find](https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html)
 * [2023-12-08, 04:05:07](https://news.ycombinator.com/item?id=38565314) - [Practical Ways to Increase Product Velocity](https://staysaasy.com/management/2023/12/07/accelerating-product-velocity.html)
-* [2023-12-07, 20:53:23](https://news.ycombinator.com/item?id=38561682) - [Memray: The endgame Python memory profiler](https://bloomberg.github.io/memray/index.html)
+* [2023-12-07, 22:55:44](https://news.ycombinator.com/item?id=38562939) - [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
+* [2023-12-07, 20:53:23](https://news.ycombinator.com/item?id=38561682) - [Memray: Python memory profiler](https://bloomberg.github.io/memray/index.html)
 * [2023-12-06, 15:55:08](https://news.ycombinator.com/item?id=38545522) - ['A-team' of math proves a critical link between addition and sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-06, 09:33:51](https://news.ycombinator.com/item?id=38541983) - [I'm building a self-destructing USB drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 
