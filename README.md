@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 14:43:46](https://news.ycombinator.com/item?id=38569608) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-08, 14:12:03](https://news.ycombinator.com/item?id=38569240) - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
+* [2023-12-08, 14:02:06](https://news.ycombinator.com/item?id=38569129) - [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
 * [2023-12-08, 13:40:34](https://news.ycombinator.com/item?id=38568908) - [London trains see power cut as thousands stranded in dark for hours](https://metro.co.uk/2023/12/08/thousands-stranded-cold-dark-london-trains-hours-power-cut-19944985/)
 * [2023-12-08, 12:58:49](https://news.ycombinator.com/item?id=38568468) - [How to think about OpenAI's rumored (and overhyped) Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/)
 * [2023-12-08, 12:35:28](https://news.ycombinator.com/item?id=38568264) - [No distributed quantum advantage for approximate graph coloring](https://arxiv.org/abs/2307.09444)
@@ -22,13 +24,11 @@
 * [2023-12-07, 22:55:44](https://news.ycombinator.com/item?id=38562939) - [A genetically modified bacterium that outcompetes bacteria causing tooth decay](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq)
 * [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
-* [2023-12-07, 15:10:30](https://news.ycombinator.com/item?id=38557203) - [Tesla shares 48V architecture with other automakers](https://electrek.co/2023/12/07/tesla-shares-48v-architecture-with-other-automakers-to-move-the-industry/)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
 * [2023-12-07, 11:54:59](https://news.ycombinator.com/item?id=38555417) - [Radio Architecture Matters: A Review of RF Sampling vs. Zero-IF](https://www.analog.com/en/technical-articles/radio-architecture-matters.html)
 * [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
 * [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
-* [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-05, 22:01:23](https://news.ycombinator.com/item?id=38537545) - [Jets: Ruby Serverless Framework](https://docs.rubyonjets.com/)
 
 ## [Archives](archives/index.md)
