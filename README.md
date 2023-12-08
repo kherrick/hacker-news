@@ -21,6 +21,7 @@
 * [2023-12-07, 13:44:30](https://news.ycombinator.com/item?id=38556169) - [The Right Chemistry: Reflections on the manufacture of mirrors](https://montrealgazette.com/opinion/columnists/the-right-chemistry-reflections-on-the-manufacture-of-mirrors)
 * [2023-12-07, 13:43:44](https://news.ycombinator.com/item?id=38556162) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
+* [2023-12-07, 12:02:12](https://news.ycombinator.com/item?id=38555451) - [Terminal graphics protocol](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
 * [2023-12-07, 11:54:59](https://news.ycombinator.com/item?id=38555417) - [Radio Architecture Matters: A Review of RF Sampling vs. Zero-IF](https://www.analog.com/en/technical-articles/radio-architecture-matters.html)
 * [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
@@ -28,7 +29,6 @@
 * [2023-12-06, 12:47:22](https://news.ycombinator.com/item?id=38543133) - [Conway's Game of Life is omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2023-12-06, 10:20:37](https://news.ycombinator.com/item?id=38542225) - [The economics of all-you-can-eat buffets (2020)](https://thehustle.co/the-economics-of-all-you-can-eat-buffets/)
 * [2023-12-06, 09:52:46](https://news.ycombinator.com/item?id=38542101) - [WikEM, the Global Emergency Medicine Wiki](https://wikem.org/wiki/Main_Page)
-* [2023-12-06, 09:19:24](https://news.ycombinator.com/item?id=38541901) - [The first electro-mechanical desktop synthesizer](https://gamechangeraudio.com/motor-synth-mkii/)
 * [2023-12-05, 22:01:23](https://news.ycombinator.com/item?id=38537545) - [Jets: Ruby Serverless Framework](https://docs.rubyonjets.com/)
 
 ## [Archives](archives/index.md)
