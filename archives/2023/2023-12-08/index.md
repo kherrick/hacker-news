@@ -6,6 +6,7 @@
 
 * [2023-12-08, 22:34:13](https://news.ycombinator.com/item?id=38575579) - [Apple has seemingly found a way to block Android's new iMessage app](https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app)
 * [2023-12-08, 21:57:43](https://news.ycombinator.com/item?id=38575120) - [Ask HN: What fuel for my data furnace?](https://news.ycombinator.com/item?id=38575120)
+* [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:19:50](https://news.ycombinator.com/item?id=38574577) - [Una-Cybertron-7B](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 * [2023-12-08, 20:34:29](https://news.ycombinator.com/item?id=38573936) - [Maybe We Already Have Runaway Machines](https://www.newyorker.com/books/under-review/maybe-we-already-have-runaway-machines)
