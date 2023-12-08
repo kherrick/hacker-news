@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 16:32:09](https://news.ycombinator.com/item?id=38570867) - [About That Mysterious AI Breakthrough Known as Q* by OpenAI](https://www.forbes.com/sites/lanceeliot/2023/11/26/about-that-mysterious-ai-breakthrough-known-as-q-by-openai-that-allegedly-attains-true-ai-or-is-on-the-path-toward-artificial-general-intelligence-agi/)
+* [2023-12-08, 16:20:26](https://news.ycombinator.com/item?id=38570732) - [Homes need to be built for better internet](https://www.theverge.com/2023/12/8/23991092/homes-need-to-be-built-for-better-internet)
+* [2023-12-08, 16:15:45](https://news.ycombinator.com/item?id=38570677) - [Judge Allows Major 'Right to Repair' Lawsuit Against John Deere to Move Forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)
 * [2023-12-08, 16:03:00](https://news.ycombinator.com/item?id=38570537) - [Mistral \"Mixtral\" 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
 * [2023-12-08, 15:18:50](https://news.ycombinator.com/item?id=38570035) - [Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
 * [2023-12-08, 14:43:46](https://news.ycombinator.com/item?id=38569608) - [The Onyx Programming Language](https://onyxlang.io/)

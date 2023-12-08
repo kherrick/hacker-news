@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 16:32:09](https://news.ycombinator.com/item?id=38570867) - [About That Mysterious AI Breakthrough Known as Q* by OpenAI](https://www.forbes.com/sites/lanceeliot/2023/11/26/about-that-mysterious-ai-breakthrough-known-as-q-by-openai-that-allegedly-attains-true-ai-or-is-on-the-path-toward-artificial-general-intelligence-agi/)
+* [2023-12-08, 16:20:26](https://news.ycombinator.com/item?id=38570732) - [Homes need to be built for better internet](https://www.theverge.com/2023/12/8/23991092/homes-need-to-be-built-for-better-internet)
+* [2023-12-08, 16:15:45](https://news.ycombinator.com/item?id=38570677) - [Judge Allows Major 'Right to Repair' Lawsuit Against John Deere to Move Forward](https://www.techdirt.com/2023/12/08/judge-allows-major-right-to-repair-lawsuit-against-john-deere-to-move-forward/)
 * [2023-12-08, 16:03:00](https://news.ycombinator.com/item?id=38570537) - [Mistral \"Mixtral\" 8x7B 32k model [magnet]](https://twitter.com/MistralAI/status/1733150512395038967)
 * [2023-12-08, 15:18:50](https://news.ycombinator.com/item?id=38570035) - [Spoofing DNS records abusing Microsoft DHCP server running in 40% of datacenters](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
 * [2023-12-08, 14:43:46](https://news.ycombinator.com/item?id=38569608) - [The Onyx Programming Language](https://onyxlang.io/)
@@ -13,7 +16,6 @@
 * [2023-12-08, 12:14:32](https://news.ycombinator.com/item?id=38568076) - [Arch Linux bugtracker migration to Gitlab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
-* [2023-12-08, 10:30:09](https://news.ycombinator.com/item?id=38567397) - [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
 * [2023-12-08, 09:51:36](https://news.ycombinator.com/item?id=38567149) - [5Ghoul: 5G Modem Firmware CVEs](https://asset-group.github.io/disclosures/5ghoul/)
 * [2023-12-08, 09:38:44](https://news.ycombinator.com/item?id=38567074) - [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
 * [2023-12-08, 08:40:07](https://news.ycombinator.com/item?id=38566697) - [The Internet Shutdown Game](https://shutdowngame.apc.org/)
@@ -26,10 +28,8 @@
 * [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
-* [2023-12-07, 11:54:59](https://news.ycombinator.com/item?id=38555417) - [Radio Architecture Matters: A Review of RF Sampling vs. Zero-IF](https://www.analog.com/en/technical-articles/radio-architecture-matters.html)
 * [2023-12-07, 11:34:15](https://news.ycombinator.com/item?id=38555294) - [Exploring Quantum Computing with JavaScript: A Beginner's Guide](https://medium.com/@yourfuse/exploring-quantum-computing-with-javascript-a-beginners-guide-d29a4af15ec7)
 * [2023-12-07, 11:04:26](https://news.ycombinator.com/item?id=38555115) - [Fairphone 5: Keeping it 10/10?](https://www.ifixit.com/News/87664/fairphone-5-keeping-it-10-10)
-* [2023-12-06, 15:03:47](https://news.ycombinator.com/item?id=38544729) - [Gemini AI](https://deepmind.google/technologies/gemini/)
 
 ## [Archives](archives/index.md)
 
