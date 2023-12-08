@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 06:09:07](https://news.ycombinator.com/item?id=38565926) - [World of Goo 2](https://worldofgoo2.com/)
 * [2023-12-08, 04:59:34](https://news.ycombinator.com/item?id=38565629) - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 * [2023-12-08, 02:45:28](https://news.ycombinator.com/item?id=38564808) - [We Investigated France's Mass Profiling Machine](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 * [2023-12-08, 01:32:39](https://news.ycombinator.com/item?id=38564286) - [Show HN: Homebrew 16bit CPU from 74HC logic with C compiler and Unix-like OS](http://www.sol-1.org/index.php)
@@ -13,7 +14,6 @@
 * [2023-12-07, 17:34:00](https://news.ycombinator.com/item?id=38559247) - [Three Decades of HTML](https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/)
 * [2023-12-07, 17:29:50](https://news.ycombinator.com/item?id=38559192) - [Choose your own IP](https://tailscale.com/blog/choose-your-ip/)
 * [2023-12-07, 17:24:54](https://news.ycombinator.com/item?id=38559139) - [Standard Webhooks: open-source tools and guidelines for sending webhooks](https://github.com/standard-webhooks/standard-webhooks)
-* [2023-12-07, 17:00:18](https://news.ycombinator.com/item?id=38558788) - [Sieve (YC W22), video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A lost X-Files song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns](https://www.dedp.online/)
 * [2023-12-07, 15:13:56](https://news.ycombinator.com/item?id=38557246) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
