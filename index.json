@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-12-08, 17:57:16",
-      "https://news.ycombinator.com/item?id=38571972"
-    ],
-    [
-      "FDA Approves Sickle Cell Treatments, Including One That Uses CRISPR",
-      "https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 17:56:30",
       "https://news.ycombinator.com/item?id=38571956"
     ],
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2023-12-07, 22:55:44",
+      "https://news.ycombinator.com/item?id=38562939"
+    ],
+    [
+      "A genetically modified bacterium that outcompetes bacteria causing tooth decay",
+      "https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 20:53:23",
       "https://news.ycombinator.com/item?id=38561682"
     ],
     [
-      "Memray: The endgame Python memory profiler",
+      "Memray: Python memory profiler",
       "https://bloomberg.github.io/memray/index.html"
     ]
   ],
