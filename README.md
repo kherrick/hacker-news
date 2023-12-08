@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-08, 02:04:05](https://news.ycombinator.com/item?id=38564520) - [Amsterdam Switches to 30 Km/h on 80% of its Roads](https://www.amsterdam.nl/en/news/speed-limit-30km/)
+* [2023-12-08, 02:00:48](https://news.ycombinator.com/item?id=38564496) - [White House threatens to veto anti-EV bill just passed by US House](https://arstechnica.com/cars/2023/12/white-house-threatens-to-veto-anti-ev-bill-just-passed-by-us-house/)
 * [2023-12-08, 01:21:06](https://news.ycombinator.com/item?id=38564196) - [How to think about the OpenAI Q* rumors](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)
-* [2023-12-08, 00:56:40](https://news.ycombinator.com/item?id=38564026) - [Loco: The one-person Rust framework for side-projects and startups](https://github.com/loco-rs/loco)
 * [2023-12-08, 00:06:27](https://news.ycombinator.com/item?id=38563627) - [The Omnichord will be re-produced to commemorate our 70th anniversary](https://suzukimusic-global.com/products_single.php?parent_cate_cd=3&products_cate_cd=34&products_cd=315)
-* [2023-12-07, 22:34:00](https://news.ycombinator.com/item?id=38562726) - [Google calls Drive data loss \"fixed,\" locks forum threads saying otherwise](https://arstechnica.com/gadgets/2023/12/google-calls-drive-data-loss-fixed-locks-forum-threads-saying-otherwise/)
 * [2023-12-07, 22:14:15](https://news.ycombinator.com/item?id=38562558) - [How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)
 * [2023-12-07, 18:09:07](https://news.ycombinator.com/item?id=38559655) - [Hanukkah of Data: Practice your data skills with 8 free data puzzles](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:04:56](https://news.ycombinator.com/item?id=38559607) - [Making noisy SVGs](https://daniel.do/article/making-noisy-svgs/)
