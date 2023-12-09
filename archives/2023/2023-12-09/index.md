@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
 * [2023-12-09, 07:00:17](https://news.ycombinator.com/item?id=38579372) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2023-12-09, 06:20:11](https://news.ycombinator.com/item?id=38579170) - [EU Strikes Deal to Regulate ChatGPT, AI Tech in Landmark Act](https://www.bloomberg.com/news/articles/2023-12-08/eu-strikes-deal-to-regulate-chatgpt-other-ai-in-landmark-act)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2023-12-09, 06:09:46](https://news.ycombinator.com/item?id=38579130) - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
 * [2023-12-09, 05:52:48](https://news.ycombinator.com/item?id=38579034) - [Light No Fire – A Fantasy Game from the Makers of No Man's Sky](https://lightnofire.com/)

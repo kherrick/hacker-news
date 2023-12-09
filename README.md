@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-09, 07:00:17](https://news.ycombinator.com/item?id=38579372) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2023-12-09, 06:20:11](https://news.ycombinator.com/item?id=38579170) - [EU Strikes Deal to Regulate ChatGPT, AI Tech in Landmark Act](https://www.bloomberg.com/news/articles/2023-12-08/eu-strikes-deal-to-regulate-chatgpt-other-ai-in-landmark-act)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2023-12-09, 06:09:46](https://news.ycombinator.com/item?id=38579130) - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
 * [2023-12-09, 05:52:48](https://news.ycombinator.com/item?id=38579034) - [Light No Fire – A Fantasy Game from the Makers of No Man's Sky](https://lightnofire.com/)
@@ -13,7 +14,6 @@
 * [2023-12-09, 00:41:38](https://news.ycombinator.com/item?id=38576974) - [Gaussian explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
 * [2023-12-08, 23:49:50](https://news.ycombinator.com/item?id=38576530) - [Verizon fell for fake \"search warrant,\" gave victim's phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
 * [2023-12-08, 23:37:05](https://news.ycombinator.com/item?id=38576351) - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
-* [2023-12-08, 22:04:02](https://news.ycombinator.com/item?id=38575199) - [The industries AI is disrupting are not lucrative](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 * [2023-12-08, 20:26:49](https://news.ycombinator.com/item?id=38573837) - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
