@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 14:05:57](https://news.ycombinator.com/item?id=38582000) - [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
 * [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling Eggs for Spotify with Knuth's Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
 * [2023-12-09, 12:32:20](https://news.ycombinator.com/item?id=38581432) - [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
@@ -17,11 +18,10 @@
 * [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
 * [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
 * [2023-12-09, 01:14:37](https://news.ycombinator.com/item?id=38577240) - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
-* [2023-12-08, 23:49:50](https://news.ycombinator.com/item?id=38576530) - [Verizon fell for fake \"search warrant,\" gave victim's phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
-* [2023-12-08, 23:37:05](https://news.ycombinator.com/item?id=38576351) - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
+* [2023-12-08, 15:35:29](https://news.ycombinator.com/item?id=38570261) - [You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
 * [2023-12-08, 12:42:30](https://news.ycombinator.com/item?id=38568323) - [India unveils flatpack field hospital that can be airdropped to disaster zones](https://www.theguardian.com/global-development/2023/dec/08/india-aarogya-maitri-aid-cube-flatpack-field-hospital-for-remote-disaster-zones)
 * [2023-12-08, 12:12:52](https://news.ycombinator.com/item?id=38568062) - [Cyborg cockroach could be the future of earthquake search and rescue](https://www.nature.com/articles/d41586-023-03801-0)
 * [2023-12-08, 10:31:43](https://news.ycombinator.com/item?id=38567406) - [Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos](https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/)
@@ -29,7 +29,7 @@
 * [2023-12-07, 11:27:01](https://news.ycombinator.com/item?id=38555243) - ['A-Team' of Math Proves a Critical Link Between Addition and Sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-07, 08:51:07](https://news.ycombinator.com/item?id=38554310) - [Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
-* [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
+* [2023-12-06, 09:33:51](https://news.ycombinator.com/item?id=38541983) - [I'm building a self-destructing USB drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 
 ## [Archives](archives/index.md)
 
