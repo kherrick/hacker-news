@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-09, 07:00:17](https://news.ycombinator.com/item?id=38579372) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-* [2023-12-09, 06:20:11](https://news.ycombinator.com/item?id=38579170) - [EU Strikes Deal to Regulate ChatGPT, AI Tech in Landmark Act](https://www.bloomberg.com/news/articles/2023-12-08/eu-strikes-deal-to-regulate-chatgpt-other-ai-in-landmark-act)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2023-12-09, 06:09:46](https://news.ycombinator.com/item?id=38579130) - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
 * [2023-12-09, 05:52:48](https://news.ycombinator.com/item?id=38579034) - [Light No Fire – A Fantasy Game from the Makers of No Man's Sky](https://lightnofire.com/)
@@ -28,6 +27,7 @@
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 15:55:08](https://news.ycombinator.com/item?id=38545522) - ['A-team' of math proves a critical link between addition and sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-06, 11:53:59](https://news.ycombinator.com/item?id=38542700) - [High Court rules that Getty vs. Stability AI case can proceed](https://www.technollama.co.uk/high-court-rules-that-getty-v-stability-ai-case-can-proceed)
+* [2023-12-06, 11:27:40](https://news.ycombinator.com/item?id=38542550) - [The Amazonian Travels of Richard Evans Schultes](https://www.amazonteam.org/maps/schultes/en/)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
 * [2023-12-06, 09:33:51](https://news.ycombinator.com/item?id=38541983) - [I'm building a self-destructing USB drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 

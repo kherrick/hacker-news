@@ -75,6 +75,7 @@
 * [2023-12-06, 11:53:59](https://news.ycombinator.com/item?id=38542700) - [High Court rules that Getty vs. Stability AI case can proceed](https://www.technollama.co.uk/high-court-rules-that-getty-v-stability-ai-case-can-proceed)
 * [2023-12-06, 11:52:21](https://news.ycombinator.com/item?id=38542689) - [The Case of the Missing Vega AVUM Propellant Tanks](https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/)
 * [2023-12-06, 11:28:59](https://news.ycombinator.com/item?id=38542556) - [Until the 14th century women dominated the field of beer brewing](https://daily.jstor.org/a-pint-for-the-alewives/)
+* [2023-12-06, 11:27:40](https://news.ycombinator.com/item?id=38542550) - [The Amazonian Travels of Richard Evans Schultes](https://www.amazonteam.org/maps/schultes/en/)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
 * [2023-12-06, 10:45:55](https://news.ycombinator.com/item?id=38542330) - [An Open Letter to the Python Software Foundation](https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html)
 * [2023-12-06, 10:23:23](https://news.ycombinator.com/item?id=38542238) - [Ask HN: What are some excellent blogs, news boards, YouTube channels to follow?](https://news.ycombinator.com/item?id=38542238)
