@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [1968-12-09 the mother of all demos](https://dougengelbart.org/content/view/209/)
+* [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Backdoor found in secure TETRA radios](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 17:00:56](https://news.ycombinator.com/item?id=38583480) - [Ashby (YC W19) Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2023-12-09, 16:54:12](https://news.ycombinator.com/item?id=38583431) - [No Exit: The Uncivil Folly of Libertarian Flight](https://hedgehogreview.com/issues/markets-and-the-good/articles/no-exit)
 * [2023-12-09, 16:36:31](https://news.ycombinator.com/item?id=38583281) - [Adolescent boys struggle with disorganization and distraction](https://www.wsj.com/tech/personal-tech/middle-schoolers-academic-success-innovation-40e8456d)
