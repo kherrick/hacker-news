@@ -79,6 +79,7 @@
 * [2023-12-07, 08:27:45](https://news.ycombinator.com/item?id=38554159) - [He blew the whistle on Amazon. He's still paying the price](https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1)
 * [2023-12-07, 07:48:14](https://news.ycombinator.com/item?id=38553934) - [Is El Salvador's Bitcoin bet paying off?](https://www.bbc.com/news/technology-67637245)
 * [2023-12-07, 07:41:13](https://news.ycombinator.com/item?id=38553881) - [55% of workers say their pay isn't keeping up with inflation](https://www.cnbc.com/2022/09/14/half-of-working-americans-say-their-pay-isnt-keeping-up-with-inflation.html)
+* [2023-12-07, 07:03:55](https://news.ycombinator.com/item?id=38553674) - [Programming Bottom-Up (1993)](http://www.paulgraham.com/progbot.html)
 * [2023-12-07, 06:55:10](https://news.ycombinator.com/item?id=38553624) - [Partitioned consensus and its impact on Spanner's latency](http://dbmsmusings.blogspot.com/2018/12/partitioned-consensus-and-its-impact-on.html)
 * [2023-12-07, 06:37:06](https://news.ycombinator.com/item?id=38553530) - [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
 * [2023-12-07, 06:04:35](https://news.ycombinator.com/item?id=38553369) - [Jarotsim is a playground of Turing machines](https://compudanzas.itch.io/jarotsim)
