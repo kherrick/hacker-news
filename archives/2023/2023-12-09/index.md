@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 15:38:42](https://news.ycombinator.com/item?id=38582748) - [Vitamin B6 deficiency leads to social deficits and cognitive impairment](https://www.nature.com/articles/s41398-021-01381-z)
 * [2023-12-09, 14:55:30](https://news.ycombinator.com/item?id=38582382) - [The EU Just Passed Sweeping New Rules to Regulate AI](https://www.wired.com/story/eu-ai-act/)
 * [2023-12-09, 14:50:35](https://news.ycombinator.com/item?id=38582344) - [Typical CS dude checking his Georgia Tech admission 3 hours early](https://twitter.com/vineethsendil/status/1733257745120330027)
 * [2023-12-09, 14:05:57](https://news.ycombinator.com/item?id=38582000) - [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)

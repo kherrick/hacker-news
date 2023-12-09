@@ -17,6 +17,7 @@
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
 * [2023-12-08, 20:52:03](https://news.ycombinator.com/item?id=38574187) - [Macro and Micro Necessity](https://www.colinmcginn.net/macro-and-micro-necessity/)
+* [2023-12-08, 20:50:50](https://news.ycombinator.com/item?id=38574165) - [The cult of the Hindu cowboy](https://granta.com/cult-hindu-cowboy/)
 * [2023-12-08, 20:34:29](https://news.ycombinator.com/item?id=38573936) - [Maybe We Already Have Runaway Machines](https://www.newyorker.com/books/under-review/maybe-we-already-have-runaway-machines)
 * [2023-12-08, 20:27:14](https://news.ycombinator.com/item?id=38573843) - [Windows 10 End of Support](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-windows-11-windows-365-and-esu/ba-p/4000414)
 * [2023-12-08, 20:26:49](https://news.ycombinator.com/item?id=38573837) - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
