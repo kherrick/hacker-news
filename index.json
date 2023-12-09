@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-12-09, 20:03:24",
-      "https://news.ycombinator.com/item?id=38585393"
-    ],
-    [
-      "Google's NotebookLM Could Be the Ultimate AI-Based Notes App If It Stops Lying",
-      "https://gizmodo.com/google-notebooklm-ai-notes-app-1851084245"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 19:18:17",
-      "https://news.ycombinator.com/item?id=38584922"
-    ],
-    [
-      "Is Grok Basically Just an OpenAI Wrapper?",
-      "https://twitter.com/JaxWinterbourne/status/1733360575252517001"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 18:31:08",
       "https://news.ycombinator.com/item?id=38584336"
     ],
@@ -35,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38584179"
     ],
     [
-      "Mistral's mixtral-8x7B-32kseqlen on vercel",
+      "Mistral's mixtral-8x7B-32kseqlen on Vercel",
       "https://twitter.com/rauchg/status/1733540995546190048"
     ]
   ],
@@ -111,16 +91,6 @@
   ],
   [
     [
-      "2023-12-09, 14:05:57",
-      "https://news.ycombinator.com/item?id=38582000"
-    ],
-    [
-      "Apple to move key iPad engineering resources to Vietnam",
-      "https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 14:00:17",
       "https://news.ycombinator.com/item?id=38581959"
     ],
@@ -141,12 +111,12 @@
   ],
   [
     [
-      "2023-12-09, 12:32:20",
-      "https://news.ycombinator.com/item?id=38581432"
+      "2023-12-09, 13:22:24",
+      "https://news.ycombinator.com/item?id=38581735"
     ],
     [
-      "Advent of Technical Writing: Style",
-      "https://jamesg.blog/2023/12/09/style/"
+      "Single-Dose Psilocybin for Major Depressive Disorder: Randomized Clinical Trial",
+      "https://jamanetwork.com/journals/jama/fullarticle/2808950"
     ]
   ],
   [
@@ -211,12 +181,22 @@
   ],
   [
     [
+      "2023-12-08, 20:54:08",
+      "https://news.ycombinator.com/item?id=38574219"
+    ],
+    [
+      "The Geopolitics of Godzilla",
+      "https://petertasker.asia/articles/the-geopolitics-of-godzilla/"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 20:53:23",
       "https://news.ycombinator.com/item?id=38574208"
     ],
     [
       "Just Your Handyman",
-      "https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com"
+      "https://www.plough.com/en/topics/life/work/just-your-handyman"
     ]
   ],
   [
@@ -227,6 +207,26 @@
     [
       "Ava PLS: open-source application for running language models locally",
       "https://avapls.com/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 17:56:30",
+      "https://news.ycombinator.com/item?id=38571956"
+    ],
+    [
+      "FDA approves a CRISPR-based medicine for treatment of sickle cell disease",
+      "https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 12:42:30",
+      "https://news.ycombinator.com/item?id=38568323"
+    ],
+    [
+      "Flatpack field hospitals that can be airdropped to disaster zones",
+      "https://www.theguardian.com/global-development/2023/dec/08/india-aarogya-maitri-aid-cube-flatpack-field-hospital-for-remote-disaster-zones"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=38567406"
     ],
     [
-      "Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos",
+      "Nikon makes firmware for astronauts to block cosmic rays in photos",
       "https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38566906"
     ],
     [
-      "A doctoral dissertation build system",
+      "The highly involved build process for my doctoral dissertation",
       "https://spwhitton.name//blog/entry/dissertmake/"
     ]
   ],
