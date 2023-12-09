@@ -6,7 +6,6 @@
 * [2023-12-09, 07:00:17](https://news.ycombinator.com/item?id=38579372) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2023-12-09, 06:09:46](https://news.ycombinator.com/item?id=38579130) - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
-* [2023-12-09, 05:52:48](https://news.ycombinator.com/item?id=38579034) - [Light No Fire – A Fantasy Game from the Makers of No Man's Sky](https://lightnofire.com/)
 * [2023-12-09, 05:38:43](https://news.ycombinator.com/item?id=38578951) - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
 * [2023-12-09, 05:03:02](https://news.ycombinator.com/item?id=38578771) - [Terraform module for scalable GitHub action runners on AWS](https://github.com/philips-labs/terraform-aws-github-runner)
 * [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
@@ -30,6 +29,7 @@
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 11:53:59](https://news.ycombinator.com/item?id=38542700) - [High Court rules that Getty vs. Stability AI case can proceed](https://www.technollama.co.uk/high-court-rules-that-getty-v-stability-ai-case-can-proceed)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
+* [2023-12-06, 09:33:51](https://news.ycombinator.com/item?id=38541983) - [I'm building a self-destructing USB drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 
 ## [Archives](archives/index.md)
 
