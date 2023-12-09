@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 16:27:07](https://news.ycombinator.com/item?id=38583203) - [If You're Not Paranoid, You're Crazy](https://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/)
+* [2023-12-09, 16:23:17](https://news.ycombinator.com/item?id=38583163) - [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
+* [2023-12-09, 15:52:49](https://news.ycombinator.com/item?id=38582870) - [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
 * [2023-12-09, 15:38:42](https://news.ycombinator.com/item?id=38582748) - [Vitamin B6 deficiency leads to social deficits and cognitive impairment](https://www.nature.com/articles/s41398-021-01381-z)
 * [2023-12-09, 14:55:30](https://news.ycombinator.com/item?id=38582382) - [The EU Just Passed Sweeping New Rules to Regulate AI](https://www.wired.com/story/eu-ai-act/)
 * [2023-12-09, 14:50:35](https://news.ycombinator.com/item?id=38582344) - [Typical CS dude checking his Georgia Tech admission 3 hours early](https://twitter.com/vineethsendil/status/1733257745120330027)
