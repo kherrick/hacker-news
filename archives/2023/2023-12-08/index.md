@@ -65,6 +65,7 @@
 * [2023-12-08, 11:50:43](https://news.ycombinator.com/item?id=38567881) - [National Crime Agency response to Meta's rollout of end-to-end-encryption](https://www.nationalcrimeagency.gov.uk/news/nca-response-to-meta-s-rollout-of-end-to-end-encryption)
 * [2023-12-08, 11:28:43](https://news.ycombinator.com/item?id=38567745) - [Beyond \"Abolish the FDA\"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
+* [2023-12-08, 11:10:50](https://news.ycombinator.com/item?id=38567626) - [Using Fido Keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-08, 10:33:32](https://news.ycombinator.com/item?id=38567424) - [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
 * [2023-12-08, 10:30:09](https://news.ycombinator.com/item?id=38567397) - [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
 * [2023-12-08, 09:51:36](https://news.ycombinator.com/item?id=38567149) - [5Ghoul: 5G Modem Firmware CVEs](https://asset-group.github.io/disclosures/5ghoul/)
