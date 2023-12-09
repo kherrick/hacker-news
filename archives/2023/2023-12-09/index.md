@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 18:18:43](https://news.ycombinator.com/item?id=38584230) - [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
+* [2023-12-09, 18:13:40](https://news.ycombinator.com/item?id=38584179) - [Mistral's mixtral-8x7B-32kseqlen on vercel](https://twitter.com/rauchg/status/1733540995546190048)
 * [2023-12-09, 18:04:16](https://news.ycombinator.com/item?id=38584094) - [Tesla Model Y 2nd in new vehicle registrations in the US, overtaking Toyota RAV4](https://twitter.com/sawyermerritt/status/1733178375353618758)
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [1968-12-09 the mother of all demos](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:08:35](https://news.ycombinator.com/item?id=38583535) - [New QuickJS Release](https://github.com/bellard/quickjs/commit/daa35bc1e5d43192098af9b51caeb4f18f73f9f9)
