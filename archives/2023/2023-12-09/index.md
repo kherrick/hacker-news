@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 22:00:02](https://news.ycombinator.com/item?id=38586512) - [Firefox Keeps Getting Faster](https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/)
 * [2023-12-09, 21:06:56](https://news.ycombinator.com/item?id=38586098) - [The U.S. Government's Most Powerful Spying Tool Is Fighting for Its Life](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
 * [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
