@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 23:49:50](https://news.ycombinator.com/item?id=38576530) - [Verizon fell for fake \"search warrant,\" gave victim's phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
+* [2023-12-08, 23:37:36](https://news.ycombinator.com/item?id=38576358) - [EVE Online – Down the Rabbit Hole [video]](https://www.youtube.com/watch?v=BCSeISYcoyI)
+* [2023-12-08, 23:37:05](https://news.ycombinator.com/item?id=38576351) - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
 * [2023-12-08, 22:52:37](https://news.ycombinator.com/item?id=38575801) - [E.U. Agrees on Artificial Intelligence Rules with Landmark New Law](https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html)
 * [2023-12-08, 22:34:13](https://news.ycombinator.com/item?id=38575579) - [Apple has seemingly found a way to block Android's new iMessage app](https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app)
 * [2023-12-08, 21:57:43](https://news.ycombinator.com/item?id=38575120) - [Ask HN: What fuel for my data furnace?](https://news.ycombinator.com/item?id=38575120)
