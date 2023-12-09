@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling Eggs for Spotify with Knuth's Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
+* [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
 * [2023-12-09, 12:32:20](https://news.ycombinator.com/item?id=38581432) - [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
 * [2023-12-09, 12:22:25](https://news.ycombinator.com/item?id=38581373) - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
 * [2023-12-09, 12:00:36](https://news.ycombinator.com/item?id=38581195) - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
@@ -8,7 +10,6 @@
 * [2023-12-09, 08:46:54](https://news.ycombinator.com/item?id=38579981) - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
 * [2023-12-09, 08:31:50](https://news.ycombinator.com/item?id=38579899) - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
 * [2023-12-09, 08:29:35](https://news.ycombinator.com/item?id=38579890) - [A connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
-* [2023-12-09, 07:38:43](https://news.ycombinator.com/item?id=38579602) - [Gilles Deleuze – What is Philosophy? [audio]](https://www.philosophizethis.org/podcast/deleuze-pt-1)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2023-12-09, 06:09:46](https://news.ycombinator.com/item?id=38579130) - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
 * [2023-12-09, 05:38:43](https://news.ycombinator.com/item?id=38578951) - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
@@ -21,7 +22,6 @@
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
-* [2023-12-08, 15:35:29](https://news.ycombinator.com/item?id=38570261) - [You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
 * [2023-12-08, 12:42:30](https://news.ycombinator.com/item?id=38568323) - [India unveils flatpack field hospital that can be airdropped to disaster zones](https://www.theguardian.com/global-development/2023/dec/08/india-aarogya-maitri-aid-cube-flatpack-field-hospital-for-remote-disaster-zones)
 * [2023-12-08, 12:12:52](https://news.ycombinator.com/item?id=38568062) - [Cyborg cockroach could be the future of earthquake search and rescue](https://www.nature.com/articles/d41586-023-03801-0)
 * [2023-12-08, 10:31:43](https://news.ycombinator.com/item?id=38567406) - [Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos](https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/)
