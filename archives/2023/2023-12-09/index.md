@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 19:36:08](https://news.ycombinator.com/item?id=38585109) - [Ask HN: What sub $200 product improved your 2023](https://news.ycombinator.com/item?id=38585109)
 * [2023-12-09, 19:18:17](https://news.ycombinator.com/item?id=38584922) - [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 18:18:43](https://news.ycombinator.com/item?id=38584230) - [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
@@ -16,6 +17,7 @@
 * [2023-12-09, 17:00:56](https://news.ycombinator.com/item?id=38583480) - [Ashby (YC W19) Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2023-12-09, 16:54:12](https://news.ycombinator.com/item?id=38583431) - [No Exit: The Uncivil Folly of Libertarian Flight](https://hedgehogreview.com/issues/markets-and-the-good/articles/no-exit)
 * [2023-12-09, 16:50:49](https://news.ycombinator.com/item?id=38583399) - [Stop making Linux distributions, make applications instead](https://makealinux.app)
+* [2023-12-09, 16:50:35](https://news.ycombinator.com/item?id=38583394) - [$7T annually invested in nature-negative activities](https://www.unep.org/news-and-stories/press-release/global-annual-finance-flows-7-trillion-fueling-climate-biodiversity)
 * [2023-12-09, 16:36:31](https://news.ycombinator.com/item?id=38583281) - [Adolescent boys struggle with disorganization and distraction](https://www.wsj.com/tech/personal-tech/middle-schoolers-academic-success-innovation-40e8456d)
 * [2023-12-09, 16:27:07](https://news.ycombinator.com/item?id=38583203) - [If You're Not Paranoid, You're Crazy](https://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/)
 * [2023-12-09, 16:23:17](https://news.ycombinator.com/item?id=38583163) - [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
