@@ -17,6 +17,7 @@
 * [2023-12-08, 23:37:05](https://news.ycombinator.com/item?id=38576351) - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
+* [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
 * [2023-12-08, 20:26:49](https://news.ycombinator.com/item?id=38573837) - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
 * [2023-12-08, 20:21:53](https://news.ycombinator.com/item?id=38573765) - [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
@@ -29,7 +30,6 @@
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 11:53:59](https://news.ycombinator.com/item?id=38542700) - [High Court rules that Getty vs. Stability AI case can proceed](https://www.technollama.co.uk/high-court-rules-that-getty-v-stability-ai-case-can-proceed)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
-* [2023-12-06, 09:33:51](https://news.ycombinator.com/item?id=38541983) - [I'm building a self-destructing USB drive (2022)](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
 
 ## [Archives](archives/index.md)
 
