@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 03:51:20](https://news.ycombinator.com/item?id=38578377) - [HashiCorp Vault Alternatives](https://infisical.com/blog/hashicorp-vault-alternatives)
+* [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
 * [2023-12-09, 02:44:32](https://news.ycombinator.com/item?id=38577964) - [Wine 9.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/9.0-rc1)
 * [2023-12-09, 01:14:37](https://news.ycombinator.com/item?id=38577240) - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
 * [2023-12-09, 00:41:38](https://news.ycombinator.com/item?id=38576974) - [Gaussian Explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
 * [2023-12-08, 23:49:50](https://news.ycombinator.com/item?id=38576530) - [Verizon fell for fake \"search warrant,\" gave victim's phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
 * [2023-12-08, 23:37:05](https://news.ycombinator.com/item?id=38576351) - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
-* [2023-12-08, 21:45:35](https://news.ycombinator.com/item?id=38574934) - [Show HN: We've built an Open Source plugin to make using AI easier for VFX](https://DeepMake.com/download/)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 * [2023-12-08, 20:26:49](https://news.ycombinator.com/item?id=38573837) - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
@@ -28,7 +29,6 @@
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 15:55:08](https://news.ycombinator.com/item?id=38545522) - ['A-team' of math proves a critical link between addition and sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-06, 11:53:59](https://news.ycombinator.com/item?id=38542700) - [High Court rules that Getty vs. Stability AI case can proceed](https://www.technollama.co.uk/high-court-rules-that-getty-v-stability-ai-case-can-proceed)
-* [2023-12-06, 11:52:21](https://news.ycombinator.com/item?id=38542689) - [The Case of the Missing Vega AVUM Propellant Tanks](https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
 
 ## [Archives](archives/index.md)
