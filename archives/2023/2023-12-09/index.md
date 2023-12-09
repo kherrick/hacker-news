@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 18:04:16](https://news.ycombinator.com/item?id=38584094) - [Tesla Model Y 2nd in new vehicle registrations in the US, overtaking Toyota RAV4](https://twitter.com/sawyermerritt/status/1733178375353618758)
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [1968-12-09 the mother of all demos](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Backdoor found in secure TETRA radios](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 17:00:56](https://news.ycombinator.com/item?id=38583480) - [Ashby (YC W19) Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 18:04:16](https://news.ycombinator.com/item?id=38584094) - [Tesla Model Y 2nd in new vehicle registrations in the US, overtaking Toyota RAV4](https://twitter.com/sawyermerritt/status/1733178375353618758)
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [1968-12-09 the mother of all demos](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Backdoor found in secure TETRA radios](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 17:00:56](https://news.ycombinator.com/item?id=38583480) - [Ashby (YC W19) Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2023-12-09, 16:23:17](https://news.ycombinator.com/item?id=38583163) - [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
 * [2023-12-09, 15:52:49](https://news.ycombinator.com/item?id=38582870) - [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
-* [2023-12-09, 14:48:38](https://news.ycombinator.com/item?id=38582328) - [Cardiometabolic Effects of Omnivorous vs. Vegan Diets in Identical Twins](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812392)
 * [2023-12-09, 14:05:57](https://news.ycombinator.com/item?id=38582000) - [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
 * [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling eggs for Spotify with Knuth's Fibonacci hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
