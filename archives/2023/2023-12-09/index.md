@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
 * [2023-12-09, 20:12:37](https://news.ycombinator.com/item?id=38585515) - [Remembering Jon Postel and the day he hijacked the internet (2012)](https://www.wired.com/2012/10/joe-postel/)
 * [2023-12-09, 20:03:24](https://news.ycombinator.com/item?id=38585393) - [Google's NotebookLM Could Be the Ultimate AI-Based Notes App If It Stops Lying](https://gizmodo.com/google-notebooklm-ai-notes-app-1851084245)
+* [2023-12-09, 19:50:48](https://news.ycombinator.com/item?id=38585266) - [Gross value added per worker by country and area in Europe](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6974049f-7543-41a2-ae38-8a2347c99799_1240x1052.png)
+* [2023-12-09, 19:45:30](https://news.ycombinator.com/item?id=38585213) - [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
 * [2023-12-09, 19:36:08](https://news.ycombinator.com/item?id=38585109) - [Ask HN: What sub $200 product improved your 2023](https://news.ycombinator.com/item?id=38585109)
 * [2023-12-09, 19:18:17](https://news.ycombinator.com/item?id=38584922) - [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
