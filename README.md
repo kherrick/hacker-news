@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-09, 23:02:07](https://news.ycombinator.com/item?id=38587052) - [Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
-* [2023-12-09, 22:37:06](https://news.ycombinator.com/item?id=38586818) - [Three Things That LLMs Have Made Us Rethink](https://rodneybrooks.com/three-things-that-llms-have-made-us-rethink/)
+* [2023-12-09, 23:17:54](https://news.ycombinator.com/item?id=38587211) - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
+* [2023-12-09, 23:02:07](https://news.ycombinator.com/item?id=38587052) - [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
+* [2023-12-09, 22:37:06](https://news.ycombinator.com/item?id=38586818) - [Three things that LLMs have made us rethink](https://rodneybrooks.com/three-things-that-llms-have-made-us-rethink/)
 * [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 22:20:58](https://news.ycombinator.com/item?id=38586692) - [Scary AI recognizes passwords by the sound of your typing](https://www.pcworld.com/article/2166661/ai-recognises-passwords-by-the-sound-of-typing.html)
@@ -18,7 +19,6 @@
 * [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling eggs for Spotify with Knuth's Fibonacci hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
 * [2023-12-09, 13:22:24](https://news.ycombinator.com/item?id=38581735) - [Single-Dose Psilocybin for Major Depressive Disorder: Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2808950)
-* [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 20:54:08](https://news.ycombinator.com/item?id=38574219) - [The Geopolitics of Godzilla](https://petertasker.asia/articles/the-geopolitics-of-godzilla/)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman)
 * [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava PLS: open-source application for running language models locally](https://avapls.com/)
