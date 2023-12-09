@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 07:00:17](https://news.ycombinator.com/item?id=38579372) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2023-12-09, 05:52:48](https://news.ycombinator.com/item?id=38579034) - [Light No Fire – A Fantasy Game from the Makers of No Man's Sky](https://lightnofire.com/)
 * [2023-12-09, 05:38:43](https://news.ycombinator.com/item?id=38578951) - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
 * [2023-12-09, 05:22:50](https://news.ycombinator.com/item?id=38578872) - [\"If buying isn't owning, piracy isn't stealing\"](https://pluralistic.net/2023/12/08/playstationed/)
+* [2023-12-09, 05:03:02](https://news.ycombinator.com/item?id=38578771) - [Terraform module for scalable GitHub action runners on AWS](https://github.com/philips-labs/terraform-aws-github-runner)
 * [2023-12-09, 05:02:15](https://news.ycombinator.com/item?id=38578764) - [The US shoplifting scourge is a lot of hype with little evidence](https://www.cnn.com/2023/12/07/business/shoplifting-surge-hype-nightcap/index.html)
 * [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
 * [2023-12-09, 03:51:20](https://news.ycombinator.com/item?id=38578377) - [HashiCorp Vault Alternatives](https://infisical.com/blog/hashicorp-vault-alternatives)
