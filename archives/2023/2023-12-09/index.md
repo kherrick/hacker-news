@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 17:00:56](https://news.ycombinator.com/item?id=38583480) - [Ashby (YC W19) Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
+* [2023-12-09, 16:36:31](https://news.ycombinator.com/item?id=38583281) - [Adolescent boys struggle with disorganization and distraction](https://www.wsj.com/tech/personal-tech/middle-schoolers-academic-success-innovation-40e8456d)
 * [2023-12-09, 16:27:07](https://news.ycombinator.com/item?id=38583203) - [If You're Not Paranoid, You're Crazy](https://www.theatlantic.com/magazine/archive/2015/11/if-youre-not-paranoid-youre-crazy/407833/)
 * [2023-12-09, 16:23:17](https://news.ycombinator.com/item?id=38583163) - [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
 * [2023-12-09, 15:52:49](https://news.ycombinator.com/item?id=38582870) - [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
 * [2023-12-09, 15:38:42](https://news.ycombinator.com/item?id=38582748) - [Vitamin B6 deficiency leads to social deficits and cognitive impairment](https://www.nature.com/articles/s41398-021-01381-z)
 * [2023-12-09, 14:55:30](https://news.ycombinator.com/item?id=38582382) - [The EU Just Passed Sweeping New Rules to Regulate AI](https://www.wired.com/story/eu-ai-act/)
 * [2023-12-09, 14:50:35](https://news.ycombinator.com/item?id=38582344) - [Typical CS dude checking his Georgia Tech admission 3 hours early](https://twitter.com/vineethsendil/status/1733257745120330027)
+* [2023-12-09, 14:48:38](https://news.ycombinator.com/item?id=38582328) - [Cardiometabolic Effects of Omnivorous vs. Vegan Diets in Identical Twins](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812392)
 * [2023-12-09, 14:05:57](https://news.ycombinator.com/item?id=38582000) - [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
 * [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling Eggs for Spotify with Knuth's Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
