@@ -2,7 +2,6 @@
 
 * [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
 * [2023-12-09, 20:12:37](https://news.ycombinator.com/item?id=38585515) - [Remembering Jon Postel and the day he hijacked the internet (2012)](https://www.wired.com/2012/10/joe-postel/)
-* [2023-12-09, 19:50:48](https://news.ycombinator.com/item?id=38585266) - [Gross value added per worker by country and area in Europe](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6974049f-7543-41a2-ae38-8a2347c99799_1240x1052.png)
 * [2023-12-09, 19:45:30](https://news.ycombinator.com/item?id=38585213) - [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 18:13:40](https://news.ycombinator.com/item?id=38584179) - [Mistral's mixtral-8x7B-32kseqlen on Vercel](https://twitter.com/rauchg/status/1733540995546190048)
@@ -29,6 +28,7 @@
 * [2023-12-08, 04:48:58](https://news.ycombinator.com/item?id=38565576) - [Balkan genomes trace the rise/fall of Roman Empire's frontier, migrations](https://phys.org/news/2023-12-ancient-balkan-genomes-fall-roman.html)
 * [2023-12-07, 08:51:07](https://news.ycombinator.com/item?id=38554310) - [Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
 * [2023-12-07, 08:47:14](https://news.ycombinator.com/item?id=38554281) - [CPNG, a backwards compatible fork of PNG](https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
+* [2023-12-07, 07:16:05](https://news.ycombinator.com/item?id=38553743) - [Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 * [2023-12-07, 07:03:55](https://news.ycombinator.com/item?id=38553674) - [Programming Bottom-Up (1993)](http://www.paulgraham.com/progbot.html)
 
 ## [Archives](archives/index.md)
