@@ -10,7 +10,6 @@
 * [2023-12-09, 12:00:36](https://news.ycombinator.com/item?id=38581195) - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
 * [2023-12-09, 10:57:41](https://news.ycombinator.com/item?id=38580758) - [French AI startup Mistral secures €2B valuation](https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb)
 * [2023-12-09, 10:55:17](https://news.ycombinator.com/item?id=38580742) - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
-* [2023-12-09, 08:46:54](https://news.ycombinator.com/item?id=38579981) - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
 * [2023-12-09, 08:31:50](https://news.ycombinator.com/item?id=38579899) - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
 * [2023-12-09, 08:29:35](https://news.ycombinator.com/item?id=38579890) - [A connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
@@ -30,6 +29,7 @@
 * [2023-12-07, 11:27:01](https://news.ycombinator.com/item?id=38555243) - ['A-Team' of Math Proves a Critical Link Between Addition and Sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-07, 08:51:07](https://news.ycombinator.com/item?id=38554310) - [Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
 * [2023-12-07, 08:47:14](https://news.ycombinator.com/item?id=38554281) - [CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
+* [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 
 ## [Archives](archives/index.md)
 
