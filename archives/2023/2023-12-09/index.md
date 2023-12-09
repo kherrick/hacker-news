@@ -6,6 +6,7 @@
 
 * [2023-12-09, 12:22:25](https://news.ycombinator.com/item?id=38581373) - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
 * [2023-12-09, 12:00:36](https://news.ycombinator.com/item?id=38581195) - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
+* [2023-12-09, 11:40:17](https://news.ycombinator.com/item?id=38581069) - [The Cognitive Style of Unix (2010)](https://blog.vivekhaldar.com/post/3339907908/the-cognitive-style-of-unix)
 * [2023-12-09, 10:55:17](https://news.ycombinator.com/item?id=38580742) - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
 * [2023-12-09, 08:46:54](https://news.ycombinator.com/item?id=38579981) - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
 * [2023-12-09, 08:31:50](https://news.ycombinator.com/item?id=38579899) - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)

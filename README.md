@@ -2,6 +2,7 @@
 
 * [2023-12-09, 12:22:25](https://news.ycombinator.com/item?id=38581373) - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
 * [2023-12-09, 12:00:36](https://news.ycombinator.com/item?id=38581195) - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
+* [2023-12-09, 11:40:17](https://news.ycombinator.com/item?id=38581069) - [The Cognitive Style of Unix (2010)](https://blog.vivekhaldar.com/post/3339907908/the-cognitive-style-of-unix)
 * [2023-12-09, 10:55:17](https://news.ycombinator.com/item?id=38580742) - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
 * [2023-12-09, 08:46:54](https://news.ycombinator.com/item?id=38579981) - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
 * [2023-12-09, 08:31:50](https://news.ycombinator.com/item?id=38579899) - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
@@ -26,7 +27,6 @@
 * [2023-12-08, 11:10:50](https://news.ycombinator.com/item?id=38567626) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-08, 10:31:43](https://news.ycombinator.com/item?id=38567406) - [Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos](https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/)
 * [2023-12-08, 04:48:58](https://news.ycombinator.com/item?id=38565576) - [Balkan genomes trace the rise/fall of Roman Empire's frontier, migrations](https://phys.org/news/2023-12-ancient-balkan-genomes-fall-roman.html)
-* [2023-12-07, 19:40:58](https://news.ycombinator.com/item?id=38560832) - [WigglyPaint: A juicy, jiggly drawing program](https://internet-janitor.itch.io/wigglypaint)
 * [2023-12-07, 11:27:01](https://news.ycombinator.com/item?id=38555243) - ['A-Team' of Math Proves a Critical Link Between Addition and Sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
