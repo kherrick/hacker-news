@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 05:02:15](https://news.ycombinator.com/item?id=38578764) - [The US shoplifting scourge is a lot of hype with little evidence](https://www.cnn.com/2023/12/07/business/shoplifting-surge-hype-nightcap/index.html)
 * [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
 * [2023-12-09, 03:51:20](https://news.ycombinator.com/item?id=38578377) - [HashiCorp Vault Alternatives](https://infisical.com/blog/hashicorp-vault-alternatives)
 * [2023-12-09, 03:27:10](https://news.ycombinator.com/item?id=38578247) - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 05:02:15](https://news.ycombinator.com/item?id=38578764) - [The US shoplifting scourge is a lot of hype with little evidence](https://www.cnn.com/2023/12/07/business/shoplifting-surge-hype-nightcap/index.html)
 * [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
 * [2023-12-09, 03:27:10](https://news.ycombinator.com/item?id=38578247) - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
 * [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
@@ -22,7 +23,6 @@
 * [2023-12-08, 14:02:06](https://news.ycombinator.com/item?id=38569129) - [TXR Lisp](https://www.nongnu.org/txr/txr-lisp.html)
 * [2023-12-08, 11:10:50](https://news.ycombinator.com/item?id=38567626) - [Using Fido Keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-08, 04:47:28](https://news.ycombinator.com/item?id=38565567) - [Ancient stars made extraordinarily heavy elements, researchers find](https://phys.org/news/2023-12-ancient-stars-extraordinarily-heavy-elements.html)
-* [2023-12-07, 20:53:23](https://news.ycombinator.com/item?id=38561682) - [Memray: Python memory profiler](https://bloomberg.github.io/memray/index.html)
 * [2023-12-07, 19:40:58](https://news.ycombinator.com/item?id=38560832) - [WigglyPaint: A juicy, jiggly drawing program](https://internet-janitor.itch.io/wigglypaint)
 * [2023-12-07, 02:53:03](https://news.ycombinator.com/item?id=38552245) - [MIDI Editor](http://www.midieditor.org/index.php?category=intro)
 * [2023-12-06, 21:29:55](https://news.ycombinator.com/item?id=38549734) - [Meta II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
