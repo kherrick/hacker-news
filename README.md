@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 20:12:37](https://news.ycombinator.com/item?id=38585515) - [Remembering Jon Postel and the day he hijacked the internet (2012)](https://www.wired.com/2012/10/joe-postel/)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 18:13:40](https://news.ycombinator.com/item?id=38584179) - [Mistral's mixtral-8x7B-32kseqlen on Vercel](https://twitter.com/rauchg/status/1733540995546190048)
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Vulnerabilities in TETRA radio networks](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 17:00:56](https://news.ycombinator.com/item?id=38583480) - [Ashby (YC W19) is hiring a platform engineer to help us scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2023-12-09, 16:50:49](https://news.ycombinator.com/item?id=38583399) - [Make Apps for Linux](https://makealinux.app)
-* [2023-12-09, 16:50:35](https://news.ycombinator.com/item?id=38583394) - [$7T annually invested in nature-negative activities](https://www.unep.org/news-and-stories/press-release/global-annual-finance-flows-7-trillion-fueling-climate-biodiversity)
 * [2023-12-09, 16:23:17](https://news.ycombinator.com/item?id=38583163) - [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
 * [2023-12-09, 15:52:49](https://news.ycombinator.com/item?id=38582870) - [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
 * [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling eggs for Spotify with Knuth's Fibonacci hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
