@@ -17,6 +17,7 @@
 * [2023-12-06, 22:15:34](https://news.ycombinator.com/item?id=38550257) - [Don't Fall for Big Oil's Carbon Capture Deceptions](https://www.scientificamerican.com/article/dont-fall-for-big-oils-carbon-capture-deceptions/)
 * [2023-12-06, 22:01:51](https://news.ycombinator.com/item?id=38550140) - [K-Cup creator John Sylvan regrets inventing Keurig coffee pod system](https://www.cbc.ca/news/business/k-cup-creator-john-sylvan-regrets-inventing-keurig-coffee-pod-system-1.2982660)
 * [2023-12-06, 21:50:34](https://news.ycombinator.com/item?id=38550026) - [Unveiling secrets of the ESP32: creating an open-source Mac layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
+* [2023-12-06, 21:29:55](https://news.ycombinator.com/item?id=38549734) - [Meta II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
 * [2023-12-06, 21:01:08](https://news.ycombinator.com/item?id=38549407) - [Spellbrush (YC W18), Hiring AI Anime Researchers and Gamedevs (Tokyo/SF)](https://spellbrush.com/careers)
 * [2023-12-06, 21:00:02](https://news.ycombinator.com/item?id=38549388) - [Framework Laptop 16 Deep Dive – Connectors](https://frame.work/blog/framework-laptop-16-deep-dive---connectors)
 * [2023-12-06, 20:55:05](https://news.ycombinator.com/item?id=38549337) - [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105)
