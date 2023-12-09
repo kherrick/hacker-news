@@ -13,7 +13,6 @@
 * [2023-12-09, 05:38:43](https://news.ycombinator.com/item?id=38578951) - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
 * [2023-12-09, 05:03:02](https://news.ycombinator.com/item?id=38578771) - [Terraform module for scalable GitHub action runners on AWS](https://github.com/philips-labs/terraform-aws-github-runner)
 * [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
-* [2023-12-09, 03:27:10](https://news.ycombinator.com/item?id=38578247) - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
 * [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
 * [2023-12-09, 01:14:37](https://news.ycombinator.com/item?id=38577240) - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
 * [2023-12-09, 00:41:38](https://news.ycombinator.com/item?id=38576974) - [Gaussian explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
@@ -28,6 +27,7 @@
 * [2023-12-08, 10:31:43](https://news.ycombinator.com/item?id=38567406) - [Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos](https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/)
 * [2023-12-08, 04:48:58](https://news.ycombinator.com/item?id=38565576) - [Balkan genomes trace the rise/fall of Roman Empire's frontier, migrations](https://phys.org/news/2023-12-ancient-balkan-genomes-fall-roman.html)
 * [2023-12-07, 11:27:01](https://news.ycombinator.com/item?id=38555243) - ['A-Team' of Math Proves a Critical Link Between Addition and Sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
+* [2023-12-07, 08:51:07](https://news.ycombinator.com/item?id=38554310) - [Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
 
