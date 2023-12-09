@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 22:53:02](https://news.ycombinator.com/item?id=38586978) - [Public Domain Day 2024 Is Coming: Here's What to Know](https://copyrightlately.com/public-domain-day-2024/)
+* [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
+* [2023-12-09, 22:20:58](https://news.ycombinator.com/item?id=38586692) - [Scary AI recognizes passwords by the sound of your typing](https://www.pcworld.com/article/2166661/ai-recognises-passwords-by-the-sound-of-typing.html)
 * [2023-12-09, 22:00:02](https://news.ycombinator.com/item?id=38586512) - [Firefox Keeps Getting Faster](https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/)
 * [2023-12-09, 21:06:56](https://news.ycombinator.com/item?id=38586098) - [The U.S. Government's Most Powerful Spying Tool Is Fighting for Its Life](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
 * [2023-12-09, 21:06:53](https://news.ycombinator.com/item?id=38586096) - [Show HN: Minimalist Calendars Generator](https://useminimal.com)
