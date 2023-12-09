@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 19:18:17](https://news.ycombinator.com/item?id=38584922) - [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 18:18:43](https://news.ycombinator.com/item?id=38584230) - [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
 * [2023-12-09, 18:13:40](https://news.ycombinator.com/item?id=38584179) - [Mistral's mixtral-8x7B-32kseqlen on vercel](https://twitter.com/rauchg/status/1733540995546190048)
