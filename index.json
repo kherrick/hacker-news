@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-09, 18:18:43",
-      "https://news.ycombinator.com/item?id=38584230"
-    ],
-    [
-      "Amazon Has an Honesty Issue",
-      "https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 18:13:40",
       "https://news.ycombinator.com/item?id=38584179"
     ],
@@ -61,21 +51,11 @@
   ],
   [
     [
-      "2023-12-09, 17:08:35",
-      "https://news.ycombinator.com/item?id=38583535"
-    ],
-    [
-      "New QuickJS Release",
-      "https://github.com/bellard/quickjs/commit/daa35bc1e5d43192098af9b51caeb4f18f73f9f9"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 17:02:29",
       "https://news.ycombinator.com/item?id=38583489"
     ],
     [
-      "Backdoor found in secure TETRA radios",
+      "Vulnerabilities in TETRA radio networks",
       "https://www.cryptomuseum.com/radio/tetra/burst.htm"
     ]
   ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38583480"
     ],
     [
-      "Ashby (YC W19) Is Hiring a Platform Engineer to Help Us Scale",
+      "Ashby (YC W19) is hiring a platform engineer to help us scale",
       "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0"
     ]
   ],
@@ -107,6 +87,16 @@
     [
       "$7T annually invested in nature-negative activities",
       "https://www.unep.org/news-and-stories/press-release/global-annual-finance-flows-7-trillion-fueling-climate-biodiversity"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 16:23:17",
+      "https://news.ycombinator.com/item?id=38583163"
+    ],
+    [
+      "Android adds ggml lib to AICore",
+      "https://twitter.com/tarantulae/status/1733263854312825220"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2023-12-09, 12:32:20",
+      "https://news.ycombinator.com/item?id=38581432"
+    ],
+    [
+      "Advent of Technical Writing: Style",
+      "https://jamesg.blog/2023/12/09/style/"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 10:55:17",
       "https://news.ycombinator.com/item?id=38580742"
     ],
@@ -191,32 +191,12 @@
   ],
   [
     [
-      "2023-12-09, 06:09:46",
-      "https://news.ycombinator.com/item?id=38579130"
-    ],
-    [
-      "OpenBao – FOSS Fork of HashiCorp Vault",
-      "https://github.com/openbao/openbao/tree/development"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 05:38:43",
       "https://news.ycombinator.com/item?id=38578951"
     ],
     [
       "Nebula Genomics – First to offer consumer anonymous sequencing",
       "https://nebula.org/anonymous-seq/"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 05:03:02",
-      "https://news.ycombinator.com/item?id=38578771"
-    ],
-    [
-      "Terraform module for scalable GitHub action runners on AWS",
-      "https://github.com/philips-labs/terraform-aws-github-runner"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2023-12-08, 10:31:43",
+      "https://news.ycombinator.com/item?id=38567406"
+    ],
+    [
+      "Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos",
+      "https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 09:10:08",
       "https://news.ycombinator.com/item?id=38566906"
     ],
@@ -297,6 +287,16 @@
     [
       "CPNG, a backwards compatible fork of PNG",
       "https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 07:03:55",
+      "https://news.ycombinator.com/item?id=38553674"
+    ],
+    [
+      "Programming Bottom-Up (1993)",
+      "http://www.paulgraham.com/progbot.html"
     ]
   ]
 ]
