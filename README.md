@@ -8,7 +8,7 @@
 * [2023-12-09, 22:00:02](https://news.ycombinator.com/item?id=38586512) - [Firefox Keeps Getting Faster](https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/)
 * [2023-12-09, 21:06:53](https://news.ycombinator.com/item?id=38586096) - [Show HN: Minimalist Calendars Generator](https://useminimal.com)
 * [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
-* [2023-12-09, 20:12:37](https://news.ycombinator.com/item?id=38585515) - [Remembering Jon Postel and the day he hijacked the internet (2012)](https://www.wired.com/2012/10/joe-postel/)
+* [2023-12-09, 20:57:36](https://news.ycombinator.com/item?id=38586014) - [Show HN: Fine-grained stylistic control of LLMs using model arithmetic](https://github.com/eth-sri/language-model-arithmetic)
 * [2023-12-09, 19:45:30](https://news.ycombinator.com/item?id=38585213) - [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
