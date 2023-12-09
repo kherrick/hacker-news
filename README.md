@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 05:38:43](https://news.ycombinator.com/item?id=38578951) - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
 * [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
 * [2023-12-09, 03:27:10](https://news.ycombinator.com/item?id=38578247) - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
 * [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
@@ -16,7 +17,6 @@
 * [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [Want to apply for YC W24? We’re opening some last-minute spots](https://news.ycombinator.com/item?id=38572504)
 * [2023-12-08, 18:15:05](https://news.ycombinator.com/item?id=38572190) - [Simultaneous cat and external keyboard input causing kernel panic (2011)](https://lore.kernel.org/lkml/20111103182830.GB3844@khazad-dum.debian.net/T/)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
-* [2023-12-08, 17:23:18](https://news.ycombinator.com/item?id=38571524) - [The valve at the end of the world](https://dirt.fyi/article/2023/11/vegetation?ref=thebrowser.com)
 * [2023-12-08, 16:11:20](https://news.ycombinator.com/item?id=38570624) - [Show HN: WarpBuild – x86-64 and arm GitHub Action runners for 30% faster builds](https://www.warpbuild.com/)
 * [2023-12-08, 15:35:29](https://news.ycombinator.com/item?id=38570261) - [You are never taught how to build quality software](https://www.florianbellmann.com/blog/never-taught-qa)
 * [2023-12-08, 15:18:50](https://news.ycombinator.com/item?id=38570035) - [Spoofing DNS records by abusing DHCP DNS dynamic updates](https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp)
