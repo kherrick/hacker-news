@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 21:06:56](https://news.ycombinator.com/item?id=38586098) - [The U.S. Government's Most Powerful Spying Tool Is Fighting for Its Life](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
 * [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
 * [2023-12-09, 20:56:06](https://news.ycombinator.com/item?id=38586000) - [A Cultural Critique of the Tesla Cybertruck](https://www.roadandtrack.com/car-culture/a46076478/a-cultural-critique-of-the-tesla-cybertruck/)
 * [2023-12-09, 20:12:37](https://news.ycombinator.com/item?id=38585515) - [Remembering Jon Postel and the day he hijacked the internet (2012)](https://www.wired.com/2012/10/joe-postel/)

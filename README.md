@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 21:06:56](https://news.ycombinator.com/item?id=38586098) - [The U.S. Government's Most Powerful Spying Tool Is Fighting for Its Life](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
 * [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
 * [2023-12-09, 20:56:06](https://news.ycombinator.com/item?id=38586000) - [A Cultural Critique of the Tesla Cybertruck](https://www.roadandtrack.com/car-culture/a46076478/a-cultural-critique-of-the-tesla-cybertruck/)
 * [2023-12-09, 20:12:37](https://news.ycombinator.com/item?id=38585515) - [Remembering Jon Postel and the day he hijacked the internet (2012)](https://www.wired.com/2012/10/joe-postel/)
@@ -9,7 +10,6 @@
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Vulnerabilities in TETRA radio networks](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 16:50:49](https://news.ycombinator.com/item?id=38583399) - [Make Apps for Linux](https://makealinux.app)
-* [2023-12-09, 16:23:17](https://news.ycombinator.com/item?id=38583163) - [Android adds ggml lib to AICore](https://twitter.com/tarantulae/status/1733263854312825220)
 * [2023-12-09, 15:52:49](https://news.ycombinator.com/item?id=38582870) - [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
 * [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling eggs for Spotify with Knuth's Fibonacci hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
