@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 18:18:43](https://news.ycombinator.com/item?id=38584230) - [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
 * [2023-12-09, 18:04:16](https://news.ycombinator.com/item?id=38584094) - [Tesla Model Y 2nd in new vehicle registrations in the US, overtaking Toyota RAV4](https://twitter.com/sawyermerritt/status/1733178375353618758)
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:08:35](https://news.ycombinator.com/item?id=38583535) - [New QuickJS Release](https://github.com/bellard/quickjs/commit/daa35bc1e5d43192098af9b51caeb4f18f73f9f9)
-* [2023-12-09, 17:08:21](https://news.ycombinator.com/item?id=38583532) - [New York approves the first congestion toll in the US: $15 to enter Manhattan](https://english.elpais.com/climate/2023-12-07/new-york-approves-the-first-congestion-toll-in-the-us-drivers-to-be-charged-15-to-enter-manhattan.html)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Backdoor found in secure TETRA radios](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 17:00:56](https://news.ycombinator.com/item?id=38583480) - [Ashby (YC W19) Is Hiring a Platform Engineer to Help Us Scale](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0)
 * [2023-12-09, 16:50:49](https://news.ycombinator.com/item?id=38583399) - [Stop making Linux distributions, make applications instead](https://makealinux.app)
