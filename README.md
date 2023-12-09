@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
+* [2023-12-09, 20:56:06](https://news.ycombinator.com/item?id=38586000) - [A Cultural Critique of the Tesla Cybertruck](https://www.roadandtrack.com/car-culture/a46076478/a-cultural-critique-of-the-tesla-cybertruck/)
 * [2023-12-09, 20:12:37](https://news.ycombinator.com/item?id=38585515) - [Remembering Jon Postel and the day he hijacked the internet (2012)](https://www.wired.com/2012/10/joe-postel/)
 * [2023-12-09, 19:45:30](https://news.ycombinator.com/item?id=38585213) - [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
@@ -21,7 +22,6 @@
 * [2023-12-08, 20:54:08](https://news.ycombinator.com/item?id=38574219) - [The Geopolitics of Godzilla](https://petertasker.asia/articles/the-geopolitics-of-godzilla/)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman)
 * [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava PLS: open-source application for running language models locally](https://avapls.com/)
-* [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
 * [2023-12-08, 12:42:30](https://news.ycombinator.com/item?id=38568323) - [Flatpack field hospitals that can be airdropped to disaster zones](https://www.theguardian.com/global-development/2023/dec/08/india-aarogya-maitri-aid-cube-flatpack-field-hospital-for-remote-disaster-zones)
 * [2023-12-08, 12:12:52](https://news.ycombinator.com/item?id=38568062) - [Cyborg cockroach could be the future of earthquake search and rescue](https://www.nature.com/articles/d41586-023-03801-0)
 * [2023-12-08, 09:10:08](https://news.ycombinator.com/item?id=38566906) - [The highly involved build process for my doctoral dissertation](https://spwhitton.name//blog/entry/dissertmake/)
