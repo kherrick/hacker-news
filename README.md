@@ -5,7 +5,7 @@
 * [2023-12-09, 00:41:38](https://news.ycombinator.com/item?id=38576974) - [Gaussian Explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)
 * [2023-12-08, 23:49:50](https://news.ycombinator.com/item?id=38576530) - [Verizon fell for fake \"search warrant,\" gave victim's phone data to stalker](https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/)
 * [2023-12-08, 23:37:05](https://news.ycombinator.com/item?id=38576351) - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
-* [2023-12-08, 22:52:37](https://news.ycombinator.com/item?id=38575801) - [E.U. Agrees on Artificial Intelligence Rules with Landmark New Law](https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html)
+* [2023-12-08, 21:45:35](https://news.ycombinator.com/item?id=38574934) - [Show HN: We've built an Open Source plugin to make using AI easier for VFX](https://DeepMake.com/download/)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 * [2023-12-08, 20:26:49](https://news.ycombinator.com/item?id=38573837) - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
