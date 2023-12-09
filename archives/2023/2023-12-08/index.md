@@ -9,6 +9,7 @@
 * [2023-12-08, 23:37:05](https://news.ycombinator.com/item?id=38576351) - [QuIP#: 2-bit Quantization for LLMs](https://cornell-relaxml.github.io/quip-sharp/)
 * [2023-12-08, 22:52:37](https://news.ycombinator.com/item?id=38575801) - [E.U. Agrees on Artificial Intelligence Rules with Landmark New Law](https://www.nytimes.com/2023/12/08/technology/eu-ai-act-regulation.html)
 * [2023-12-08, 22:34:13](https://news.ycombinator.com/item?id=38575579) - [Apple has seemingly found a way to block Android's new iMessage app](https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app)
+* [2023-12-08, 22:04:02](https://news.ycombinator.com/item?id=38575199) - [The industries AI is disrupting are not lucrative](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is)
 * [2023-12-08, 21:57:43](https://news.ycombinator.com/item?id=38575120) - [Ask HN: What fuel for my data furnace?](https://news.ycombinator.com/item?id=38575120)
 * [2023-12-08, 21:45:35](https://news.ycombinator.com/item?id=38574934) - [Show HN: We've built an Open Source plugin to make using AI easier for VFX](https://DeepMake.com/download/)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
