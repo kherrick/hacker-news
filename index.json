@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-12-09, 00:48:15",
+      "https://news.ycombinator.com/item?id=38577021"
+    ],
+    [
+      "Tesla Cybertruck's stiff structure, sharp design raise safety concerns",
+      "https://www.reuters.com/business/autos-transportation/tesla-cybertrucks-stiff-structure-sharp-design-raise-safety-concerns-experts-2023-12-08/"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 00:18:05",
+      "https://news.ycombinator.com/item?id=38576764"
+    ],
+    [
+      "'Greedflation' study finds many companies were lying to you about inflation",
+      "https://fortune.com/europe/2023/12/08/greedflation-study/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 23:49:50",
+      "https://news.ycombinator.com/item?id=38576530"
+    ],
+    [
+      "Verizon fell for fake \"search warrant,\" gave victim's phone data to stalker",
+      "https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 23:37:36",
+      "https://news.ycombinator.com/item?id=38576358"
+    ],
+    [
+      "EVE Online – Down the Rabbit Hole [video]",
+      "https://www.youtube.com/watch?v=BCSeISYcoyI"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 23:37:05",
+      "https://news.ycombinator.com/item?id=38576351"
+    ],
+    [
+      "QuIP#: 2-bit Quantization for LLMs",
+      "https://cornell-relaxml.github.io/quip-sharp/"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 22:52:37",
       "https://news.ycombinator.com/item?id=38575801"
     ],
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2023-12-08, 16:44:34",
-      "https://news.ycombinator.com/item?id=38571017"
-    ],
-    [
-      "ReconFusion: 3D Reconstruction with Diffusion Priors",
-      "https://reconfusion.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 16:11:20",
       "https://news.ycombinator.com/item?id=38570624"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2023-12-08, 14:12:03",
-      "https://news.ycombinator.com/item?id=38569240"
-    ],
-    [
-      "JC converts the output of popular command-line tools to JSON",
-      "https://github.com/kellyjonbrazil/jc"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 14:02:06",
       "https://news.ycombinator.com/item?id=38569129"
     ],
@@ -181,52 +211,12 @@
   ],
   [
     [
-      "2023-12-08, 14:01:25",
-      "https://news.ycombinator.com/item?id=38569121"
-    ],
-    [
-      "Double Standards",
-      "https://www.raspberrypi.com/news/double-standards/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 12:35:28",
-      "https://news.ycombinator.com/item?id=38568264"
-    ],
-    [
-      "No distributed quantum advantage for approximate graph coloring",
-      "https://arxiv.org/abs/2307.09444"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 12:33:41",
       "https://news.ycombinator.com/item?id=38568252"
     ],
     [
       "Postgres Language Server: Implementing the Parser",
       "https://supabase.com/blog/postgres-language-server-implementing-parser"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 09:51:36",
-      "https://news.ycombinator.com/item?id=38567149"
-    ],
-    [
-      "5Ghoul: Unleashing Chaos on 5G Edge Devices",
-      "https://asset-group.github.io/disclosures/5ghoul/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 09:38:44",
-      "https://news.ycombinator.com/item?id=38567074"
-    ],
-    [
-      "Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians",
-      "https://yuelangx.github.io/gaussianheadavatar/"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2023-12-07, 13:52:08",
-      "https://news.ycombinator.com/item?id=38556242"
-    ],
-    [
-      "The Story",
-      "https://mazzzystar.github.io/2023/12/07/sublink/"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 13:44:30",
       "https://news.ycombinator.com/item?id=38556169"
     ],
@@ -297,6 +277,26 @@
     [
       "'A-team' of math proves a critical link between addition and sets",
       "https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 11:52:21",
+      "https://news.ycombinator.com/item?id=38542689"
+    ],
+    [
+      "The Case of the Missing Vega AVUM Propellant Tanks",
+      "https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 10:46:17",
+      "https://news.ycombinator.com/item?id=38542334"
+    ],
+    [
+      "The Morgan XP-1 is an eccentric English electric vehicle",
+      "https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/"
     ]
   ]
 ]
