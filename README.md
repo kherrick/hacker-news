@@ -24,11 +24,11 @@
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
 * [2023-12-08, 11:10:50](https://news.ycombinator.com/item?id=38567626) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-08, 10:31:43](https://news.ycombinator.com/item?id=38567406) - [Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos](https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/)
+* [2023-12-08, 04:48:58](https://news.ycombinator.com/item?id=38565576) - [Balkan genomes trace the rise/fall of Roman Empire's frontier, migrations](https://phys.org/news/2023-12-ancient-balkan-genomes-fall-roman.html)
 * [2023-12-07, 19:40:58](https://news.ycombinator.com/item?id=38560832) - [WigglyPaint: A juicy, jiggly drawing program](https://internet-janitor.itch.io/wigglypaint)
 * [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 15:55:08](https://news.ycombinator.com/item?id=38545522) - ['A-team' of math proves a critical link between addition and sets](https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/)
 * [2023-12-06, 11:53:59](https://news.ycombinator.com/item?id=38542700) - [High Court rules that Getty vs. Stability AI case can proceed](https://www.technollama.co.uk/high-court-rules-that-getty-v-stability-ai-case-can-proceed)
-* [2023-12-06, 11:27:40](https://news.ycombinator.com/item?id=38542550) - [The Amazonian Travels of Richard Evans Schultes](https://www.amazonteam.org/maps/schultes/en/)
 * [2023-12-06, 10:46:17](https://news.ycombinator.com/item?id=38542334) - [The Morgan XP-1 is an eccentric English electric vehicle](https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/)
 
 ## [Archives](archives/index.md)
