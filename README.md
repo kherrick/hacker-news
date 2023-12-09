@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 12:00:36](https://news.ycombinator.com/item?id=38581195) - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
 * [2023-12-09, 10:55:17](https://news.ycombinator.com/item?id=38580742) - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
 * [2023-12-09, 08:46:54](https://news.ycombinator.com/item?id=38579981) - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
 * [2023-12-09, 08:31:50](https://news.ycombinator.com/item?id=38579899) - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
 * [2023-12-09, 08:29:35](https://news.ycombinator.com/item?id=38579890) - [A connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
 * [2023-12-09, 07:38:43](https://news.ycombinator.com/item?id=38579602) - [Gilles Deleuze – What is Philosophy? [audio]](https://www.philosophizethis.org/podcast/deleuze-pt-1)
-* [2023-12-09, 07:00:17](https://news.ycombinator.com/item?id=38579372) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2023-12-09, 06:09:46](https://news.ycombinator.com/item?id=38579130) - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
 * [2023-12-09, 05:38:43](https://news.ycombinator.com/item?id=38578951) - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
