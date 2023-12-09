@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-09, 22:00:02](https://news.ycombinator.com/item?id=38586512) - [Firefox Keeps Getting Faster](https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/)
 * [2023-12-09, 21:06:56](https://news.ycombinator.com/item?id=38586098) - [The U.S. Government's Most Powerful Spying Tool Is Fighting for Its Life](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
 * [2023-12-09, 21:00:56](https://news.ycombinator.com/item?id=38586040) - [UpCodes (YC S17) is hiring remote SWEs to help make buildings cheaper](https://up.codes/careers)
 * [2023-12-09, 20:56:06](https://news.ycombinator.com/item?id=38586000) - [A Cultural Critique of the Tesla Cybertruck](https://www.roadandtrack.com/car-culture/a46076478/a-cultural-critique-of-the-tesla-cybertruck/)
@@ -16,7 +17,6 @@
 * [2023-12-09, 13:22:24](https://news.ycombinator.com/item?id=38581735) - [Single-Dose Psilocybin for Major Depressive Disorder: Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2808950)
 * [2023-12-09, 10:55:17](https://news.ycombinator.com/item?id=38580742) - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
 * [2023-12-09, 07:38:43](https://news.ycombinator.com/item?id=38579602) - [Gilles Deleuze – What is Philosophy? [audio]](https://www.philosophizethis.org/podcast/deleuze-pt-1)
-* [2023-12-09, 06:20:11](https://news.ycombinator.com/item?id=38579170) - [EU strikes deal to regulate ChatGPT, AI tech](https://www.bloomberg.com/news/articles/2023-12-08/eu-strikes-deal-to-regulate-chatgpt-other-ai-in-landmark-act)
 * [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 20:54:08](https://news.ycombinator.com/item?id=38574219) - [The Geopolitics of Godzilla](https://petertasker.asia/articles/the-geopolitics-of-godzilla/)
