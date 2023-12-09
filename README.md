@@ -23,11 +23,11 @@
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman)
 * [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava PLS: open-source application for running language models locally](https://avapls.com/)
 * [2023-12-08, 12:42:30](https://news.ycombinator.com/item?id=38568323) - [Flatpack field hospitals that can be airdropped to disaster zones](https://www.theguardian.com/global-development/2023/dec/08/india-aarogya-maitri-aid-cube-flatpack-field-hospital-for-remote-disaster-zones)
-* [2023-12-08, 12:12:52](https://news.ycombinator.com/item?id=38568062) - [Cyborg cockroach could be the future of earthquake search and rescue](https://www.nature.com/articles/d41586-023-03801-0)
 * [2023-12-08, 09:10:08](https://news.ycombinator.com/item?id=38566906) - [The highly involved build process for my doctoral dissertation](https://spwhitton.name//blog/entry/dissertmake/)
 * [2023-12-08, 06:24:50](https://news.ycombinator.com/item?id=38565994) - [The Wizardry Frontier](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 08:51:07](https://news.ycombinator.com/item?id=38554310) - [Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
 * [2023-12-07, 08:47:14](https://news.ycombinator.com/item?id=38554281) - [CPNG, a backwards compatible fork of PNG](https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
+* [2023-12-07, 07:29:21](https://news.ycombinator.com/item?id=38553822) - [Simple feature gross code](https://anguscheng.com/post/2023-12-07-simple-feature-gross-code/)
 * [2023-12-07, 07:16:05](https://news.ycombinator.com/item?id=38553743) - [Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 * [2023-12-07, 07:03:55](https://news.ycombinator.com/item?id=38553674) - [Programming Bottom-Up (1993)](http://www.paulgraham.com/progbot.html)
 
