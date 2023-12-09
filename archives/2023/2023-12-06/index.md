@@ -22,6 +22,7 @@
 * [2023-12-06, 20:55:05](https://news.ycombinator.com/item?id=38549337) - [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105)
 * [2023-12-06, 20:54:25](https://news.ycombinator.com/item?id=38549332) - [AI Is Becoming a Band-Aid over Bad, Broken Tech Industry Design Choices](https://www.scientificamerican.com/article/ai-is-becoming-a-band-aid-over-bad-broken-tech-industry-design-choices/)
 * [2023-12-06, 20:38:20](https://news.ycombinator.com/item?id=38549169) - [Fukuoka court rules ban on dual nationality is constitutional](https://www.japantimes.co.jp/news/2023/12/06/japan/crime-legal/dual-nationality-fukuoka-ruling/)
+* [2023-12-06, 20:23:48](https://news.ycombinator.com/item?id=38548996) - [Christmas on the Moon](https://longreads.com/2023/12/06/christmas-holidays-alone-not-home/)
 * [2023-12-06, 20:21:54](https://news.ycombinator.com/item?id=38548969) - [Commuting time of more than 30 min one way linked to higher chance of depression](https://www.sciencedirect.com/science/article/pii/S2214140523001676)
 * [2023-12-06, 20:08:55](https://news.ycombinator.com/item?id=38548841) - [Ask HN: Do you think GPT-5 will release before Gemini Ultra? Will it be better?](https://news.ycombinator.com/item?id=38548841)
 * [2023-12-06, 20:02:53](https://news.ycombinator.com/item?id=38548774) - [Painting is Terribly Difficult](https://www.lrb.co.uk/the-paper/v45/n24/julian-barnes/painting-is-terribly-difficult)
