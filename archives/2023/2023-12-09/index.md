@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
 * [2023-12-09, 07:00:17](https://news.ycombinator.com/item?id=38579372) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+* [2023-12-09, 06:16:23](https://news.ycombinator.com/item?id=38579161) - [PysimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+* [2023-12-09, 06:09:46](https://news.ycombinator.com/item?id=38579130) - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
 * [2023-12-09, 05:52:48](https://news.ycombinator.com/item?id=38579034) - [Light No Fire – A Fantasy Game from the Makers of No Man's Sky](https://lightnofire.com/)
 * [2023-12-09, 05:38:43](https://news.ycombinator.com/item?id=38578951) - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
 * [2023-12-09, 05:22:50](https://news.ycombinator.com/item?id=38578872) - [\"If buying isn't owning, piracy isn't stealing\"](https://pluralistic.net/2023/12/08/playstationed/)
