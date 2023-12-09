@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 20:03:24](https://news.ycombinator.com/item?id=38585393) - [Google's NotebookLM Could Be the Ultimate AI-Based Notes App If It Stops Lying](https://gizmodo.com/google-notebooklm-ai-notes-app-1851084245)
 * [2023-12-09, 19:36:08](https://news.ycombinator.com/item?id=38585109) - [Ask HN: What sub $200 product improved your 2023](https://news.ycombinator.com/item?id=38585109)
 * [2023-12-09, 19:18:17](https://news.ycombinator.com/item?id=38584922) - [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)

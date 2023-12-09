@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-09, 19:36:08](https://news.ycombinator.com/item?id=38585109) - [Ask HN: What sub $200 product improved your 2023](https://news.ycombinator.com/item?id=38585109)
+* [2023-12-09, 20:03:24](https://news.ycombinator.com/item?id=38585393) - [Google's NotebookLM Could Be the Ultimate AI-Based Notes App If It Stops Lying](https://gizmodo.com/google-notebooklm-ai-notes-app-1851084245)
 * [2023-12-09, 19:18:17](https://news.ycombinator.com/item?id=38584922) - [Is Grok Basically Just an OpenAI Wrapper?](https://twitter.com/JaxWinterbourne/status/1733360575252517001)
 * [2023-12-09, 18:31:08](https://news.ycombinator.com/item?id=38584336) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 18:18:43](https://news.ycombinator.com/item?id=38584230) - [Amazon Has an Honesty Issue](https://www.bentasker.co.uk/posts/blog/opinion/amazon-parcel-contents-get-stolen-and-then-amazon-tries-to-keep-payment.html)
@@ -24,7 +24,7 @@
 * [2023-12-09, 05:03:02](https://news.ycombinator.com/item?id=38578771) - [Terraform module for scalable GitHub action runners on AWS](https://github.com/philips-labs/terraform-aws-github-runner)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
-* [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava is now open source](https://tomsik.cz/posts/ava-oss/)
+* [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava PLS: open-source application for running language models locally](https://avapls.com/)
 * [2023-12-08, 12:12:52](https://news.ycombinator.com/item?id=38568062) - [Cyborg cockroach could be the future of earthquake search and rescue](https://www.nature.com/articles/d41586-023-03801-0)
 * [2023-12-08, 09:10:08](https://news.ycombinator.com/item?id=38566906) - [A doctoral dissertation build system](https://spwhitton.name//blog/entry/dissertmake/)
 * [2023-12-08, 04:48:58](https://news.ycombinator.com/item?id=38565576) - [Balkan genomes trace the rise/fall of Roman Empire's frontier, migrations](https://phys.org/news/2023-12-ancient-balkan-genomes-fall-roman.html)
