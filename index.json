@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-09, 14:05:57",
+      "https://news.ycombinator.com/item?id=38582000"
+    ],
+    [
+      "Apple to move key iPad engineering resources to Vietnam",
+      "https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 14:00:17",
       "https://news.ycombinator.com/item?id=38581959"
     ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2023-12-08, 23:49:50",
-      "https://news.ycombinator.com/item?id=38576530"
-    ],
-    [
-      "Verizon fell for fake \"search warrant,\" gave victim's phone data to stalker",
-      "https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 23:37:05",
-      "https://news.ycombinator.com/item?id=38576351"
-    ],
-    [
-      "QuIP#: 2-bit Quantization for LLMs",
-      "https://cornell-relaxml.github.io/quip-sharp/"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 21:41:47",
       "https://news.ycombinator.com/item?id=38574888"
     ],
@@ -217,6 +207,16 @@
     [
       "FDA approves a CRISPR-based medicine for treatment of sickle cell disease",
       "https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 15:35:29",
+      "https://news.ycombinator.com/item?id=38570261"
+    ],
+    [
+      "You are never taught how to build quality software",
+      "https://www.florianbellmann.com/blog/never-taught-qa"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-12-06, 10:46:17",
-      "https://news.ycombinator.com/item?id=38542334"
+      "2023-12-06, 09:33:51",
+      "https://news.ycombinator.com/item?id=38541983"
     ],
     [
-      "The Morgan XP-1 is an eccentric English electric vehicle",
-      "https://arstechnica.com/cars/2023/12/throwback-sportscar-maker-morgan-hasnt-forgotten-about-evs-meet-xp-1/"
+      "I'm building a self-destructing USB drive (2022)",
+      "https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/"
     ]
   ]
 ]
