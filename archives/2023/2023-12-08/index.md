@@ -15,6 +15,7 @@
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:19:50](https://news.ycombinator.com/item?id=38574577) - [Una-Cybertron-7B](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
+* [2023-12-08, 20:54:08](https://news.ycombinator.com/item?id=38574219) - [The Geopolitics of Godzilla](https://petertasker.asia/articles/the-geopolitics-of-godzilla/)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
 * [2023-12-08, 20:52:03](https://news.ycombinator.com/item?id=38574187) - [Macro and Micro Necessity](https://www.colinmcginn.net/macro-and-micro-necessity/)
 * [2023-12-08, 20:50:50](https://news.ycombinator.com/item?id=38574165) - [The cult of the Hindu cowboy](https://granta.com/cult-hindu-cowboy/)

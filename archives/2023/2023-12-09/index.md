@@ -15,6 +15,7 @@
 * [2023-12-09, 14:48:38](https://news.ycombinator.com/item?id=38582328) - [Cardiometabolic Effects of Omnivorous vs. Vegan Diets in Identical Twins](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812392)
 * [2023-12-09, 14:05:57](https://news.ycombinator.com/item?id=38582000) - [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam)
 * [2023-12-09, 14:00:17](https://news.ycombinator.com/item?id=38581959) - [Scrambling Eggs for Spotify with Knuth's Fibonacci Hashing](https://pncnmnp.github.io/blogs/fibonacci-hashing.html)
+* [2023-12-09, 13:43:39](https://news.ycombinator.com/item?id=38581862) - [Ask HN: Slowly Losing Interest in Software Engineering, should I be worried?](https://news.ycombinator.com/item?id=38581862)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
 * [2023-12-09, 12:32:20](https://news.ycombinator.com/item?id=38581432) - [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
 * [2023-12-09, 12:22:25](https://news.ycombinator.com/item?id=38581373) - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
