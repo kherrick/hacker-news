@@ -29,6 +29,7 @@
 * [2023-12-08, 19:33:21](https://news.ycombinator.com/item?id=38573141) - [Apps That Use AI to Undress Women in Photos Soaring in Use](https://www.bloomberg.com/news/articles/2023-12-08/ai-nudify-apps-that-undress-women-in-photos-soaring-in-use)
 * [2023-12-08, 19:19:04](https://news.ycombinator.com/item?id=38572974) - [Okta Breach Impacted All Customer Support Users–Not 1 Percent](https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/)
 * [2023-12-08, 19:10:26](https://news.ycombinator.com/item?id=38572877) - [Paul Graham's Twitter account targeted by IDF](https://twitter.com/paulg/status/1733146138226614465)
+* [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava is now open source](https://tomsik.cz/posts/ava-oss/)
 * [2023-12-08, 18:49:14](https://news.ycombinator.com/item?id=38572675) - [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
 * [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [New year, new company – encouraging last-minute applications to YC](https://news.ycombinator.com/item?id=38572504)
 * [2023-12-08, 18:29:19](https://news.ycombinator.com/item?id=38572401) - [A Bike Lane Moved, and This San Francisco Neighborhood Erupted](https://sfstandard.com/2023/12/08/san-francisco-small-business-protests-valencia-street-bike-lane/)
