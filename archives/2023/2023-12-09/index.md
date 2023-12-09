@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
 * [2023-12-09, 03:51:20](https://news.ycombinator.com/item?id=38578377) - [HashiCorp Vault Alternatives](https://infisical.com/blog/hashicorp-vault-alternatives)
+* [2023-12-09, 03:27:10](https://news.ycombinator.com/item?id=38578247) - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
 * [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
 * [2023-12-09, 02:44:32](https://news.ycombinator.com/item?id=38577964) - [Wine 9.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/9.0-rc1)
 * [2023-12-09, 01:14:37](https://news.ycombinator.com/item?id=38577240) - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)

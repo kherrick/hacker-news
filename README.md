@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-09, 03:51:20](https://news.ycombinator.com/item?id=38578377) - [HashiCorp Vault Alternatives](https://infisical.com/blog/hashicorp-vault-alternatives)
+* [2023-12-09, 04:06:08](https://news.ycombinator.com/item?id=38578459) - [EPA orders packaging firm Inhance to stop making PFAS](https://cen.acs.org/environment/persistent-pollutants/US-EPA-orders-packaging-firm/101/web/2023/12)
+* [2023-12-09, 03:27:10](https://news.ycombinator.com/item?id=38578247) - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
 * [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
 * [2023-12-09, 02:44:32](https://news.ycombinator.com/item?id=38577964) - [Wine 9.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/9.0-rc1)
 * [2023-12-09, 01:14:37](https://news.ycombinator.com/item?id=38577240) - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
@@ -11,7 +12,6 @@
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
 * [2023-12-08, 20:26:49](https://news.ycombinator.com/item?id=38573837) - [Paving the way to efficient architectures: StripedHyena-7B](https://www.together.ai/blog/stripedhyena-7b)
 * [2023-12-08, 20:21:53](https://news.ycombinator.com/item?id=38573765) - [American Chestnut Foundation Ceasing Distribution of Blight-Resistant Seeds](https://tacf.org/darling-58/)
-* [2023-12-08, 18:49:14](https://news.ycombinator.com/item?id=38572675) - [The pro-Israel information war](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
 * [2023-12-08, 18:36:45](https://news.ycombinator.com/item?id=38572504) - [Want to apply for YC W24? We’re opening some last-minute spots](https://news.ycombinator.com/item?id=38572504)
 * [2023-12-08, 18:15:05](https://news.ycombinator.com/item?id=38572190) - [Simultaneous cat and external keyboard input causing kernel panic (2011)](https://lore.kernel.org/lkml/20111103182830.GB3844@khazad-dum.debian.net/T/)
 * [2023-12-08, 17:56:30](https://news.ycombinator.com/item?id=38571956) - [FDA approves a CRISPR-based medicine for treatment of sickle cell disease](https://www.statnews.com/2023/12/08/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease/)
