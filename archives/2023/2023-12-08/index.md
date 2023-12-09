@@ -64,6 +64,7 @@
 * [2023-12-08, 12:19:15](https://news.ycombinator.com/item?id=38568121) - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
 * [2023-12-08, 12:15:55](https://news.ycombinator.com/item?id=38568083) - [Amazon's humanoid robots will eventually cost only $3 per hour to operate](https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10)
 * [2023-12-08, 12:14:32](https://news.ycombinator.com/item?id=38568076) - [Arch Linux bugtracker migration to Gitlab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
+* [2023-12-08, 12:12:52](https://news.ycombinator.com/item?id=38568062) - [Cyborg cockroach could be the future of earthquake search and rescue](https://www.nature.com/articles/d41586-023-03801-0)
 * [2023-12-08, 12:00:09](https://news.ycombinator.com/item?id=38567944) - [Rollstack (YC W23) is hiring a senior software engineer in Brazil](https://www.ycombinator.com/companies/rollstack-2/jobs)
 * [2023-12-08, 11:57:40](https://news.ycombinator.com/item?id=38567926) - [Chronic fatigue syndrome is more common than some past studies suggest, CDC says](https://apnews.com/article/chronic-fatigue-syndrome-long-covid-cdc-c7f3dddbe88ec40d70448743fd479b30)
 * [2023-12-08, 11:50:43](https://news.ycombinator.com/item?id=38567881) - [National Crime Agency response to Meta's rollout of end-to-end-encryption](https://www.nationalcrimeagency.gov.uk/news/nca-response-to-meta-s-rollout-of-end-to-end-encryption)
