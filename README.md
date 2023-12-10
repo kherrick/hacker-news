@@ -3,10 +3,11 @@
 * [2023-12-10, 19:46:02](https://news.ycombinator.com/item?id=38594326) - [Applesauce lead poisoning cases in kids surge amid questions on FDA oversight](https://www.washingtonpost.com/wellness/2023/12/09/applesauce-recall-lead-poisoning-cinnamon/)
 * [2023-12-10, 19:28:05](https://news.ycombinator.com/item?id=38594139) - [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
 * [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
+* [2023-12-10, 18:58:56](https://news.ycombinator.com/item?id=38593866) - [Columbia and NYU Would Lose $327M in Tax Breaks Under Proposal](https://www.nytimes.com/2023/12/10/nyregion/columbia-nyu-property-tax-exemptions-legislation.html)
 * [2023-12-10, 18:51:18](https://news.ycombinator.com/item?id=38593803) - [You Can Select Multiple Tabs in Safari, Chrome, Firefox](https://daringfireball.net/linked/2023/12/07/safari-chrome-firebox-multiple-tab-selection)
 * [2023-12-10, 18:28:50](https://news.ycombinator.com/item?id=38593638) - [Ratatui](https://github.com/ratatui-org/ratatui)
 * [2023-12-10, 18:27:50](https://news.ycombinator.com/item?id=38593630) - [Ask HN: Assuming this 2023 LtG paper is correct, how do you prepare?](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
-* [2023-12-10, 18:25:56](https://news.ycombinator.com/item?id=38593616) - [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/)
+* [2023-12-10, 18:25:56](https://news.ycombinator.com/item?id=38593616) - [Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/)
 * [2023-12-10, 18:15:13](https://news.ycombinator.com/item?id=38593538) - [The Valley of the Cheese of the Dead](https://www.atlasobscura.com/articles/most-unusual-cheese-switzerland)
 * [2023-12-10, 18:11:17](https://news.ycombinator.com/item?id=38593494) - [Raspberry Pi releases PCIe FFC connector specifications, new HAT+ standard](https://www.cnx-software.com/2023/12/11/raspberry-pi-releases-pcie-ffc-connector-specifications-new-hat-standard/)
 * [2023-12-10, 18:05:45](https://news.ycombinator.com/item?id=38593449) - [The United Arab Emirates' takeover of African forests](https://www.lemonde.fr/en/le-monde-africa/article/2023/12/10/the-united-arab-emirates-takeover-of-african-forests_6328426_124.html)
@@ -29,7 +30,6 @@
 * [2023-12-08, 19:29:04](https://news.ycombinator.com/item?id=38573094) - [The Two Milan Kunderas](https://drb.ie/articles/the-two-milan-kunderas/)
 * [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
 * [2023-12-07, 07:36:00](https://news.ycombinator.com/item?id=38553857) - [Hyper Performant and Hackable Code Forge Built on Open Standards](https://ayllu-forge.org/)
-* [2023-12-07, 00:49:01](https://news.ycombinator.com/item?id=38551512) - [The diminishing half-life of knowledge](https://rednafi.com/zephyr/diminishing_half_life_of_knowledge/)
 
 ## [Archives](archives/index.md)
 
