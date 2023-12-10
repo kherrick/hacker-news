@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 23:35:13](https://news.ycombinator.com/item?id=38587340) - [65% increase in \"significant\" Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
 * [2023-12-09, 23:17:54](https://news.ycombinator.com/item?id=38587211) - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
 * [2023-12-09, 23:02:07](https://news.ycombinator.com/item?id=38587052) - [Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 * [2023-12-09, 22:53:02](https://news.ycombinator.com/item?id=38586978) - [Public Domain Day 2024 Is Coming: Here's What to Know](https://copyrightlately.com/public-domain-day-2024/)
