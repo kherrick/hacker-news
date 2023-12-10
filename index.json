@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-10, 18:28:50",
+      "https://news.ycombinator.com/item?id=38593638"
+    ],
+    [
+      "Ratatui",
+      "https://github.com/ratatui-org/ratatui"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 18:27:50",
+      "https://news.ycombinator.com/item?id=38593630"
+    ],
+    [
+      "Ask HN: Assuming this 2023 LtG paper is correct, how do you prepare?",
+      "https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 18:25:56",
       "https://news.ycombinator.com/item?id=38593616"
     ],
@@ -17,6 +37,16 @@
     [
       "Rising sea levels threaten hazardous waste facilities along U.S. coast",
       "https://www.axios.com/2023/12/10/sea-levels-hazardous-waste-climate-change"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 18:11:17",
+      "https://news.ycombinator.com/item?id=38593494"
+    ],
+    [
+      "Raspberry Pi releases PCIe FFC connector specifications, new HAT+ standard",
+      "https://www.cnx-software.com/2023/12/11/raspberry-pi-releases-pcie-ffc-connector-specifications-new-hat-standard/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-12-10, 05:33:19",
-      "https://news.ycombinator.com/item?id=38589389"
-    ],
-    [
-      "Linux: Ext4 data corruption in 6.1.64-1",
-      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 22:30:35",
       "https://news.ycombinator.com/item?id=38586773"
     ],
@@ -207,16 +227,6 @@
     [
       "Gooey: Turn almost any Python command line program into a full GUI application",
       "https://github.com/chriskiehl/Gooey"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 08:53:29",
-      "https://news.ycombinator.com/item?id=38580013"
-    ],
-    [
-      "Arrows of Time",
-      "https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "FastSpring Risk Screening",
       "https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 16:45:38",
-      "https://news.ycombinator.com/item?id=38558564"
-    ],
-    [
-      "Things I learned from teaching",
-      "https://claytonwramsey.github.io/blog/learned-from-teaching.html"
     ]
   ],
   [
