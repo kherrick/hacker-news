@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-10, 19:28:05",
+      "https://news.ycombinator.com/item?id=38594139"
+    ],
+    [
+      "The subtleties of proper B+Tree implementation",
+      "https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 19:15:10",
       "https://news.ycombinator.com/item?id=38594018"
     ],
     [
       "FFM (Foreign Function and Memory API) Goes Final",
       "https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 18:58:56",
+      "https://news.ycombinator.com/item?id=38593866"
+    ],
+    [
+      "Columbia and NYU Would Lose $327M in Tax Breaks Under Proposal",
+      "https://www.nytimes.com/2023/12/10/nyregion/columbia-nyu-property-tax-exemptions-legislation.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B",
       "https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 18:25:15",
-      "https://news.ycombinator.com/item?id=38593610"
-    ],
-    [
-      "Rising sea levels threaten hazardous waste facilities along U.S. coast",
-      "https://www.axios.com/2023/12/10/sea-levels-hazardous-waste-climate-change"
     ]
   ],
   [
@@ -107,6 +117,16 @@
     [
       "Sigil II, a Doom WAD from J.Romero, has been released",
       "https://doomwiki.org/wiki/SIGIL_II"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 17:30:20",
+      "https://news.ycombinator.com/item?id=38593177"
+    ],
+    [
+      "Show HN: Watering my Christmas tree with ESPHome",
+      "https://johnzanussi.com/posts/diy-automated-christmas-tree-watering"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2023-12-09, 22:30:02",
-      "https://news.ycombinator.com/item?id=38586767"
+      "2023-12-09, 22:45:56",
+      "https://news.ycombinator.com/item?id=38586918"
     ],
     [
-      "Gooey: Turn almost any Python command line program into a full GUI application",
-      "https://github.com/chriskiehl/Gooey"
+      "Introduction to Legion: life in the Roman army",
+      "https://www.britishmuseum.org/blog/introduction-legion-life-roman-army"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-12-08, 21:09:57",
-      "https://news.ycombinator.com/item?id=38574445"
-    ],
-    [
-      "World's deepest, largest underground lab operational",
-      "https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 19:29:04",
       "https://news.ycombinator.com/item?id=38573094"
     ],
     [
       "The Two Milan Kunderas",
       "https://drb.ie/articles/the-two-milan-kunderas/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 22:47:45",
-      "https://news.ycombinator.com/item?id=38562858"
-    ],
-    [
-      "FastSpring Risk Screening",
-      "https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/"
     ]
   ],
   [
