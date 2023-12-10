@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 15:20:50](https://news.ycombinator.com/item?id=38592087) - [Ask HN: Anyone Interested in Taking over Jsweet.org?](https://news.ycombinator.com/item?id=38592087)
 * [2023-12-10, 15:16:32](https://news.ycombinator.com/item?id=38592050) - [Scholars Who Study the Middle East Are Afraid to Speak Out](https://www.chronicle.com/article/scholars-who-study-the-middle-east-are-afraid-to-speak-out)
+* [2023-12-10, 15:05:06](https://news.ycombinator.com/item?id=38591946) - [Created a free website that simplifies stock analysis](https://stocknear.com/)
 * [2023-12-10, 14:58:15](https://news.ycombinator.com/item?id=38591904) - [First female active-duty soldier graduates from sniper schools](https://taskandpurpose.com/news/first-female-active-duty-soldier-graduates-from-sniper-schools/)
 * [2023-12-10, 14:33:23](https://news.ycombinator.com/item?id=38591742) - [Spotify announces CFO to leave, days after he cashed in $9.3M in shares](https://www.theguardian.com/technology/2023/dec/08/spotify-announces-cfo-to-leave-days-after-he-cashed-in-shares)
 * [2023-12-10, 14:33:08](https://news.ycombinator.com/item?id=38591740) - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
