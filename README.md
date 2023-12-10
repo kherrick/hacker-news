@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 15:43:27](https://news.ycombinator.com/item?id=38592265) - [The Curious Case of Claudine Gay](https://www.karlstack.com/p/the-curious-case-of-claudine-gay)
 * [2023-12-10, 15:20:50](https://news.ycombinator.com/item?id=38592087) - [Ask HN: Anyone Interested in Taking over Jsweet.org?](https://news.ycombinator.com/item?id=38592087)
-* [2023-12-10, 15:16:32](https://news.ycombinator.com/item?id=38592050) - [Scholars Who Study the Middle East Are Afraid to Speak Out](https://www.chronicle.com/article/scholars-who-study-the-middle-east-are-afraid-to-speak-out)
+* [2023-12-10, 15:10:49](https://news.ycombinator.com/item?id=38591996) - [Tech firms failing to 'walk the walk' on ethical AI, report says](https://www.aljazeera.com/news/2023/12/8/tech-firms-failing-to-walk-the-walk-on-ethical-ai-report-says)
 * [2023-12-10, 15:05:06](https://news.ycombinator.com/item?id=38591946) - [Created a free website that simplifies stock analysis](https://stocknear.com/)
 * [2023-12-10, 14:33:08](https://news.ycombinator.com/item?id=38591740) - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
 * [2023-12-10, 14:21:44](https://news.ycombinator.com/item?id=38591677) - [Croatia could be Europe's hidden tech haven in 2024](https://www.fastcompany.com/90995354/croatia-could-be-europes-hidden-tech-haven-in-2024)
@@ -24,7 +25,6 @@
 * [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-08, 23:22:33](https://news.ycombinator.com/item?id=38576158) - [Rhapsodies in Blue: Anna Atkins' Cyanotypes](https://publicdomainreview.org/essay/anna-atkins-cyanotypes/)
-* [2023-12-08, 09:43:32](https://news.ycombinator.com/item?id=38567107) - [Optimizing engineering communication for better developer experience](https://www.opslevel.com/resources/optimizing-engineering-communication-for-better-developer-experience)
 * [2023-12-08, 04:16:30](https://news.ycombinator.com/item?id=38565380) - [Routers at Centre Pompidou and software evolution](https://tomasp.net/blog/2023/pompidou/)
 * [2023-12-07, 22:47:45](https://news.ycombinator.com/item?id=38562858) - [FastSpring Risk Screening](https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/)
 * [2023-12-07, 16:45:38](https://news.ycombinator.com/item?id=38558564) - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
