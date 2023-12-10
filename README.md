@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-10, 21:55:59](https://news.ycombinator.com/item?id=38595470) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
+* [2023-12-10, 21:29:56](https://news.ycombinator.com/item?id=38595245) - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
 * [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
 * [2023-12-10, 20:45:49](https://news.ycombinator.com/item?id=38594876) - [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
 * [2023-12-10, 20:44:29](https://news.ycombinator.com/item?id=38594866) - [Coherent: The affordable Unix-like PC OS from over a decade before Linux 0.01](https://github.com/gspu/Coherent)
@@ -26,7 +27,6 @@
 * [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
 * [2023-12-09, 11:08:19](https://news.ycombinator.com/item?id=38580842) - [The Night Before Doom: A Poem from the Past (1993)](https://www.gamers.org/docs/FAQ/doomfaq/sect5.html)
 * [2023-12-09, 07:22:49](https://news.ycombinator.com/item?id=38579499) - [Neil Armstrong's Visit to Langholm](https://www.historic-uk.com/HistoryUK/HistoryofScotland/Neil-Armstrong-Visits-Langholm/)
-* [2023-12-09, 01:37:35](https://news.ycombinator.com/item?id=38577424) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-08, 19:29:04](https://news.ycombinator.com/item?id=38573094) - [The Two Milan Kunderas](https://drb.ie/articles/the-two-milan-kunderas/)
 * [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
 * [2023-12-07, 07:36:00](https://news.ycombinator.com/item?id=38553857) - [Ayllu: Hackable Code Forge Built on Open Standards](https://ayllu-forge.org/)
