@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 22:52:55](https://news.ycombinator.com/item?id=38595855) - [Please, Expose Your RSS](https://rknight.me/please-expose-your-rss/)
 * [2023-12-10, 21:55:59](https://news.ycombinator.com/item?id=38595470) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 * [2023-12-10, 21:31:55](https://news.ycombinator.com/item?id=38595256) - [Ask HN: Why haven't we seen a race to the bottom in SaaS pricing?](https://news.ycombinator.com/item?id=38595256)
 * [2023-12-10, 21:29:56](https://news.ycombinator.com/item?id=38595245) - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
@@ -21,7 +22,6 @@
 * [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-based moderation systems](https://cblgh.org/trustnet/)
-* [2023-12-10, 08:06:22](https://news.ycombinator.com/item?id=38589981) - [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 * [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
 * [2023-12-09, 11:24:35](https://news.ycombinator.com/item?id=38580965) - [Tomato lost in space by history-making astronaut has been found](https://www.cnn.com/2023/12/08/world/tomato-frank-rubio-space-station-nasa-scn/index.html)
 * [2023-12-09, 11:08:19](https://news.ycombinator.com/item?id=38580842) - [The Night Before Doom: A Poem from the Past (1993)](https://www.gamers.org/docs/FAQ/doomfaq/sect5.html)

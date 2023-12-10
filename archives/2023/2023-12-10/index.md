@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 22:52:55](https://news.ycombinator.com/item?id=38595855) - [Please, Expose Your RSS](https://rknight.me/please-expose-your-rss/)
 * [2023-12-10, 21:55:59](https://news.ycombinator.com/item?id=38595470) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 * [2023-12-10, 21:31:55](https://news.ycombinator.com/item?id=38595256) - [Ask HN: Why haven't we seen a race to the bottom in SaaS pricing?](https://news.ycombinator.com/item?id=38595256)
 * [2023-12-10, 21:29:56](https://news.ycombinator.com/item?id=38595245) - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
