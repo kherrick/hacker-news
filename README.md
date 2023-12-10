@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-10, 21:27:41](https://news.ycombinator.com/item?id=38595233) - [I Hate MFA](https://www.alexmolas.com/2023/12/10/hate-mfa.html)
 * [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
 * [2023-12-10, 20:45:49](https://news.ycombinator.com/item?id=38594876) - [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
 * [2023-12-10, 20:44:29](https://news.ycombinator.com/item?id=38594866) - [Coherent: The affordable Unix-like PC OS from over a decade before Linux 0.01](https://github.com/gspu/Coherent)
@@ -19,6 +18,7 @@
 * [2023-12-10, 17:25:30](https://news.ycombinator.com/item?id=38593147) - [Show HN: Rot - Offline secrets management](https://github.com/candiddev/rot)
 * [2023-12-10, 17:07:10](https://news.ycombinator.com/item?id=38593008) - [Inert pesticide ingredients may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
+* [2023-12-10, 13:37:43](https://news.ycombinator.com/item?id=38591437) - [Ask HN: Best UI design courses for hackers?](https://news.ycombinator.com/item?id=38591437)
 * [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-based moderation systems](https://cblgh.org/trustnet/)
