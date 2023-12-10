@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 12:33:19](https://news.ycombinator.com/item?id=38591099) - [Austin sees mass exodus of ex-Silicon Valley tech companies, here's why](https://www.mysanantonio.com/business/article/austin-loses-tech-companies-18541636.php)
+* [2023-12-10, 12:27:42](https://news.ycombinator.com/item?id=38591080) - [Ask HN: How to inform YouTube a video is no longer under copyright?](https://news.ycombinator.com/item?id=38591080)
+* [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-10, 12:01:01](https://news.ycombinator.com/item?id=38590975) - [Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
 * [2023-12-10, 11:26:44](https://news.ycombinator.com/item?id=38590827) - [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
 * [2023-12-10, 11:26:10](https://news.ycombinator.com/item?id=38590826) - [HP printer app is installing on PCs whether they have HP printers or not](https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/)
