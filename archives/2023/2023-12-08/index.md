@@ -89,6 +89,7 @@
 * [2023-12-08, 08:40:07](https://news.ycombinator.com/item?id=38566697) - [The Internet Shutdown Game](https://shutdowngame.apc.org/)
 * [2023-12-08, 08:20:55](https://news.ycombinator.com/item?id=38566586) - [\"Non-Player Character\"](https://www.yudkowsky.net/other/fiction/npc)
 * [2023-12-08, 08:00:30](https://news.ycombinator.com/item?id=38566475) - [Baldur's Gate 3 Wins Game of the Year at the Game Awards](https://www.nytimes.com/2023/12/07/arts/game-awards-winners-list.html)
+* [2023-12-08, 07:12:42](https://news.ycombinator.com/item?id=38566237) - [The Technology (2014)](http://paulbuchheit.blogspot.com/2014/07/the-technology.html)
 * [2023-12-08, 07:12:15](https://news.ycombinator.com/item?id=38566235) - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 * [2023-12-08, 06:24:50](https://news.ycombinator.com/item?id=38565994) - [The Wizardry Frontier](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-08, 06:09:07](https://news.ycombinator.com/item?id=38565926) - [World of Goo 2](https://worldofgoo2.com/)
