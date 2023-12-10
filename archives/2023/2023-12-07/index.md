@@ -27,6 +27,7 @@
 * [2023-12-07, 17:29:50](https://news.ycombinator.com/item?id=38559192) - [Choose Your Own IP](https://tailscale.com/blog/choose-your-ip/)
 * [2023-12-07, 17:24:54](https://news.ycombinator.com/item?id=38559139) - [Standard Webhooks: open-source tools and guidelines for sending webhooks](https://github.com/standard-webhooks/standard-webhooks)
 * [2023-12-07, 17:00:18](https://news.ycombinator.com/item?id=38558788) - [Sieve (YC W22), the video/audio AI cloud, is hiring systems engineers](https://sievedata.com/about/jobs)
+* [2023-12-07, 16:45:38](https://news.ycombinator.com/item?id=38558564) - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 * [2023-12-07, 16:36:10](https://news.ycombinator.com/item?id=38558423) - [A Lost X-Files Song](https://twitter.com/laurenancona/status/1731900441800155459)
 * [2023-12-07, 15:51:49](https://news.ycombinator.com/item?id=38557715) - [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
 * [2023-12-07, 15:41:19](https://news.ycombinator.com/item?id=38557588) - [Efficient Transformer Knowledge Distillation: A Performance Review](https://arxiv.org/abs/2311.13657)
