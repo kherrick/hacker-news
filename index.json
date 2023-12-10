@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-10, 14:21:44",
+      "https://news.ycombinator.com/item?id=38591677"
+    ],
+    [
+      "Croatia could be Europe's hidden tech haven in 2024",
+      "https://www.fastcompany.com/90995354/croatia-could-be-europes-hidden-tech-haven-in-2024"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 14:18:25",
+      "https://news.ycombinator.com/item?id=38591662"
+    ],
+    [
+      "Write your own retro compiler",
+      "http://t3x.org/t3x/0/book.html"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 14:07:13",
       "https://news.ycombinator.com/item?id=38591584"
     ],
@@ -47,16 +67,6 @@
     [
       "Stealthy Linux rootkit found in the wild after going undetected for 2 years",
       "https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 11:26:10",
-      "https://news.ycombinator.com/item?id=38590826"
-    ],
-    [
-      "HP printer app is installing on PCs whether they have HP printers or not",
-      "https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Gooey: Turn almost any Python command line program into a full GUI application",
       "https://github.com/chriskiehl/Gooey"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 20:57:36",
-      "https://news.ycombinator.com/item?id=38586014"
-    ],
-    [
-      "Show HN: Fine-grained stylistic control of LLMs using model arithmetic",
-      "https://github.com/eth-sri/language-model-arithmetic"
     ]
   ],
   [
