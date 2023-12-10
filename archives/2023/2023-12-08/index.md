@@ -20,6 +20,7 @@
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman)
 * [2023-12-08, 20:52:03](https://news.ycombinator.com/item?id=38574187) - [Macro and Micro Necessity](https://www.colinmcginn.net/macro-and-micro-necessity/)
+* [2023-12-08, 20:51:24](https://news.ycombinator.com/item?id=38574174) - [Chateaubriand, the Romantic Classicist](https://antigonejournal.com/2023/12/classicism-romantic-era-ii/)
 * [2023-12-08, 20:50:50](https://news.ycombinator.com/item?id=38574165) - [The cult of the Hindu cowboy](https://granta.com/cult-hindu-cowboy/)
 * [2023-12-08, 20:34:29](https://news.ycombinator.com/item?id=38573936) - [Maybe We Already Have Runaway Machines](https://www.newyorker.com/books/under-review/maybe-we-already-have-runaway-machines)
 * [2023-12-08, 20:27:14](https://news.ycombinator.com/item?id=38573843) - [Windows 10 End of Support](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-windows-11-windows-365-and-esu/ba-p/4000414)

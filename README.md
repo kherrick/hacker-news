@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-10, 06:02:28](https://news.ycombinator.com/item?id=38589520) - [Ask HN: What's the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
-* [2023-12-10, 05:43:05](https://news.ycombinator.com/item?id=38589430) - [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)
 * [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-10, 04:43:51](https://news.ycombinator.com/item?id=38589144) - [Visual Basic for Applications Language Specification [pdf]](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
 * [2023-12-10, 04:21:54](https://news.ycombinator.com/item?id=38589018) - [What Is L4S?](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
@@ -21,7 +20,8 @@
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Vulnerabilities in TETRA radio networks](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
-* [2023-12-08, 09:53:35](https://news.ycombinator.com/item?id=38567161) - [\"Inside Macintosh\" in electronic format](https://spinsidemacintosh.neocities.org/)
+* [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
+* [2023-12-08, 20:51:24](https://news.ycombinator.com/item?id=38574174) - [Chateaubriand, the Romantic Classicist](https://antigonejournal.com/2023/12/classicism-romantic-era-ii/)
 * [2023-12-08, 07:12:42](https://news.ycombinator.com/item?id=38566237) - [The Technology (2014)](http://paulbuchheit.blogspot.com/2014/07/the-technology.html)
 * [2023-12-08, 06:24:50](https://news.ycombinator.com/item?id=38565994) - [The Wizardry Frontier](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 16:45:38](https://news.ycombinator.com/item?id=38558564) - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
