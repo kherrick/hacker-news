@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-10, 12:33:19](https://news.ycombinator.com/item?id=38591099) - [Austin sees mass exodus of ex-Silicon Valley tech companies, here's why](https://www.mysanantonio.com/business/article/austin-loses-tech-companies-18541636.php)
 * [2023-12-10, 12:27:42](https://news.ycombinator.com/item?id=38591080) - [Ask HN: How to inform YouTube a video is no longer under copyright?](https://news.ycombinator.com/item?id=38591080)
 * [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-10, 12:01:01](https://news.ycombinator.com/item?id=38590975) - [Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
@@ -15,6 +14,7 @@
 * [2023-12-10, 03:46:43](https://news.ycombinator.com/item?id=38588858) - [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
 * [2023-12-10, 03:33:48](https://news.ycombinator.com/item?id=38588790) - [Waveterm](https://www.waveterm.dev/)
 * [2023-12-10, 02:12:27](https://news.ycombinator.com/item?id=38588379) - [Cramming a tiny program into a tiny ELF file](https://tmpout.sh/3/22.html)
+* [2023-12-09, 23:35:13](https://news.ycombinator.com/item?id=38587340) - [Air Traffic Controllers Pushed to the Brink](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
 * [2023-12-09, 23:17:54](https://news.ycombinator.com/item?id=38587211) - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
 * [2023-12-09, 23:02:07](https://news.ycombinator.com/item?id=38587052) - [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 * [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
