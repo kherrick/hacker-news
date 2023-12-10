@@ -26,7 +26,7 @@
 * [2023-12-08, 07:12:42](https://news.ycombinator.com/item?id=38566237) - [The Technology (2014)](http://paulbuchheit.blogspot.com/2014/07/the-technology.html)
 * [2023-12-08, 06:24:50](https://news.ycombinator.com/item?id=38565994) - [The Wizardry Frontier](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 13:31:23](https://news.ycombinator.com/item?id=38556069) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
-* [2023-12-07, 07:29:21](https://news.ycombinator.com/item?id=38553822) - [Simple feature gross code](https://anguscheng.com/post/2023-12-07-simple-feature-gross-code/)
+* [2023-12-07, 08:51:07](https://news.ycombinator.com/item?id=38554310) - [Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
 * [2023-12-07, 07:16:05](https://news.ycombinator.com/item?id=38553743) - [Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 * [2023-12-07, 07:03:55](https://news.ycombinator.com/item?id=38553674) - [Programming Bottom-Up (1993)](http://www.paulgraham.com/progbot.html)
 * [2023-12-07, 07:00:15](https://news.ycombinator.com/item?id=38553647) - [Milk-V Pioneer – native RISC-V computer](https://milkv.io/pioneer)
