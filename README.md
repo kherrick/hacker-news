@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 09:21:52](https://news.ycombinator.com/item?id=38590313) - [Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?](https://news.ycombinator.com/item?id=38590313)
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
-* [2023-12-10, 08:28:38](https://news.ycombinator.com/item?id=38590080) - [Ask HN: Can we do better than Git for version control?](https://news.ycombinator.com/item?id=38590080)
 * [2023-12-10, 08:06:22](https://news.ycombinator.com/item?id=38589981) - [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 * [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-10, 04:43:51](https://news.ycombinator.com/item?id=38589144) - [Visual Basic for Applications Language Specification [pdf]](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
