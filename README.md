@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 01:29:32](https://news.ycombinator.com/item?id=38588121) - [Fear of cheap Chinese EVs spurs automaker dash for affordable cars](https://www.reuters.com/business/autos-transportation/fear-cheap-chinese-evs-spurs-automaker-dash-affordable-cars-2023-12-08/)
 * [2023-12-10, 01:10:26](https://news.ycombinator.com/item?id=38588012) - [American workers proving they don't need to return to office to be productive](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
 * [2023-12-09, 23:17:54](https://news.ycombinator.com/item?id=38587211) - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
 * [2023-12-09, 23:02:07](https://news.ycombinator.com/item?id=38587052) - [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
@@ -21,7 +22,6 @@
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:07:59](https://news.ycombinator.com/item?id=38574422) - [How Did Christianity Change the Roman Empire?](https://www.historytoday.com/archive/head-head/how-did-christianity-change-roman-empire)
 * [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava PLS: open-source application for running language models locally](https://avapls.com/)
-* [2023-12-08, 14:01:14](https://news.ycombinator.com/item?id=38569117) - [Blogging with Word in your Jamstack](https://augustl.com/blog/2023/blogging_with_word/)
 * [2023-12-08, 12:42:30](https://news.ycombinator.com/item?id=38568323) - [Flatpack field hospitals that can be airdropped to disaster zones](https://www.theguardian.com/global-development/2023/dec/08/india-aarogya-maitri-aid-cube-flatpack-field-hospital-for-remote-disaster-zones)
 * [2023-12-08, 09:10:08](https://news.ycombinator.com/item?id=38566906) - [The highly involved build process for my doctoral dissertation](https://spwhitton.name//blog/entry/dissertmake/)
 * [2023-12-08, 06:24:50](https://news.ycombinator.com/item?id=38565994) - [The Wizardry Frontier](https://v5.chriskrycho.com/journal/wizardry-frontier/)
