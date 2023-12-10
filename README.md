@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-10, 18:02:15](https://news.ycombinator.com/item?id=38593420) - [Xbox Will \"Exit the Gaming Business\" If Game Pass Doesn't Get Enough Subscribers](https://www.thegamer.com/xbox-exit-gaming-business-if-game-pass-doesnt-get-enough-subscribers-pc-cloud/)
 * [2023-12-10, 17:40:43](https://news.ycombinator.com/item?id=38593248) - [Sigil II, a Doom WAD from J.Romero, has been released](https://doomwiki.org/wiki/SIGIL_II)
 * [2023-12-10, 17:07:10](https://news.ycombinator.com/item?id=38593008) - [Inert pesticide ingredients may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
 * [2023-12-10, 17:00:06](https://news.ycombinator.com/item?id=38592947) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38592947)
@@ -20,6 +19,7 @@
 * [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-10, 04:43:51](https://news.ycombinator.com/item?id=38589144) - [Visual Basic for Applications Language Specification [pdf]](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
 * [2023-12-10, 03:46:43](https://news.ycombinator.com/item?id=38588858) - [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
+* [2023-12-10, 03:33:48](https://news.ycombinator.com/item?id=38588790) - [Waveterm](https://www.waveterm.dev/)
 * [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
