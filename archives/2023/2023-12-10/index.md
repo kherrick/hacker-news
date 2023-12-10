@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
 * [2023-12-10, 18:51:18](https://news.ycombinator.com/item?id=38593803) - [You Can Select Multiple Tabs in Safari, Chrome, Firefox](https://daringfireball.net/linked/2023/12/07/safari-chrome-firebox-multiple-tab-selection)
 * [2023-12-10, 18:28:50](https://news.ycombinator.com/item?id=38593638) - [Ratatui](https://github.com/ratatui-org/ratatui)
 * [2023-12-10, 18:27:50](https://news.ycombinator.com/item?id=38593630) - [Ask HN: Assuming this 2023 LtG paper is correct, how do you prepare?](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
