@@ -55,6 +55,7 @@
 * [2023-12-09, 12:22:25](https://news.ycombinator.com/item?id=38581373) - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
 * [2023-12-09, 12:00:36](https://news.ycombinator.com/item?id=38581195) - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
 * [2023-12-09, 11:40:17](https://news.ycombinator.com/item?id=38581069) - [The Cognitive Style of Unix (2010)](https://blog.vivekhaldar.com/post/3339907908/the-cognitive-style-of-unix)
+* [2023-12-09, 11:24:35](https://news.ycombinator.com/item?id=38580965) - [Tomato lost in space by history-making astronaut has been found](https://www.cnn.com/2023/12/08/world/tomato-frank-rubio-space-station-nasa-scn/index.html)
 * [2023-12-09, 11:08:19](https://news.ycombinator.com/item?id=38580842) - [The Night Before Doom: A Poem from the Past (1993)](https://www.gamers.org/docs/FAQ/doomfaq/sect5.html)
 * [2023-12-09, 10:58:33](https://news.ycombinator.com/item?id=38580768) - [OpenAI's Crisis over the Future of Artificial Intelligence](https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html)
 * [2023-12-09, 10:57:41](https://news.ycombinator.com/item?id=38580758) - [French AI startup Mistral secures €2B valuation](https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb)
