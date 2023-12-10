@@ -23,12 +23,12 @@
 * [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
-* [2023-12-08, 23:22:33](https://news.ycombinator.com/item?id=38576158) - [Rhapsodies in Blue: Anna Atkins' Cyanotypes](https://publicdomainreview.org/essay/anna-atkins-cyanotypes/)
 * [2023-12-08, 21:09:57](https://news.ycombinator.com/item?id=38574445) - [World's deepest, largest underground lab operational](https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html)
 * [2023-12-07, 22:47:45](https://news.ycombinator.com/item?id=38562858) - [FastSpring Risk Screening](https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/)
 * [2023-12-07, 16:45:38](https://news.ycombinator.com/item?id=38558564) - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 * [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
 * [2023-12-07, 07:36:00](https://news.ycombinator.com/item?id=38553857) - [Hyper Performant and Hackable Code Forge Built on Open Standards](https://ayllu-forge.org/)
+* [2023-12-07, 07:16:05](https://news.ycombinator.com/item?id=38553743) - [Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 * [2023-12-07, 00:49:01](https://news.ycombinator.com/item?id=38551512) - [The diminishing half-life of knowledge](https://rednafi.com/zephyr/diminishing_half_life_of_knowledge/)
 
 ## [Archives](archives/index.md)
