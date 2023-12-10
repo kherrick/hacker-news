@@ -85,6 +85,7 @@
 * [2023-12-08, 10:30:09](https://news.ycombinator.com/item?id=38567397) - [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
 * [2023-12-08, 09:53:35](https://news.ycombinator.com/item?id=38567161) - [\"Inside Macintosh\" in electronic format](https://spinsidemacintosh.neocities.org/)
 * [2023-12-08, 09:51:36](https://news.ycombinator.com/item?id=38567149) - [5Ghoul: 5G Modem Firmware CVEs](https://asset-group.github.io/disclosures/5ghoul/)
+* [2023-12-08, 09:43:32](https://news.ycombinator.com/item?id=38567107) - [Optimizing engineering communication for better developer experience](https://www.opslevel.com/resources/optimizing-engineering-communication-for-better-developer-experience)
 * [2023-12-08, 09:38:44](https://news.ycombinator.com/item?id=38567074) - [Gaussian Head Avatar: Ultra High-Fidelity Head Avatar via Dynamic Gaussians](https://yuelangx.github.io/gaussianheadavatar/)
 * [2023-12-08, 09:10:08](https://news.ycombinator.com/item?id=38566906) - [A doctoral dissertation build system](https://spwhitton.name//blog/entry/dissertmake/)
 * [2023-12-08, 09:02:13](https://news.ycombinator.com/item?id=38566840) - [Apple and Google Monitor Notifications. We Need Push Notification Alternatives](https://tuta.com/blog/open-source-email-fdroid)
