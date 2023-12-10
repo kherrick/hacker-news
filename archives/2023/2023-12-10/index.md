@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
+* [2023-12-10, 08:28:38](https://news.ycombinator.com/item?id=38590080) - [Ask HN: Can we do better than Git for version control?](https://news.ycombinator.com/item?id=38590080)
 * [2023-12-10, 06:02:28](https://news.ycombinator.com/item?id=38589520) - [Ask HN: What's the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
 * [2023-12-10, 05:43:05](https://news.ycombinator.com/item?id=38589430) - [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)
 * [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
