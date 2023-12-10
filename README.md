@@ -2,6 +2,7 @@
 
 * [2023-12-10, 12:01:01](https://news.ycombinator.com/item?id=38590975) - [Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
 * [2023-12-10, 11:26:44](https://news.ycombinator.com/item?id=38590827) - [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
+* [2023-12-10, 11:26:10](https://news.ycombinator.com/item?id=38590826) - [HP printer app is installing on PCs whether they have HP printers or not](https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/)
 * [2023-12-10, 09:21:52](https://news.ycombinator.com/item?id=38590313) - [Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?](https://news.ycombinator.com/item?id=38590313)
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
@@ -19,7 +20,6 @@
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 20:57:36](https://news.ycombinator.com/item?id=38586014) - [Show HN: Fine-grained stylistic control of LLMs using model arithmetic](https://github.com/eth-sri/language-model-arithmetic)
 * [2023-12-09, 19:45:30](https://news.ycombinator.com/item?id=38585213) - [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
-* [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
 * [2023-12-08, 23:22:33](https://news.ycombinator.com/item?id=38576158) - [Rhapsodies in Blue: Anna Atkins' Cyanotypes](https://publicdomainreview.org/essay/anna-atkins-cyanotypes/)
 * [2023-12-08, 20:51:24](https://news.ycombinator.com/item?id=38574174) - [Chateaubriand, the Romantic Classicist](https://antigonejournal.com/2023/12/classicism-romantic-era-ii/)
