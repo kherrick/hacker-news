@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
 * [2023-12-10, 18:25:56](https://news.ycombinator.com/item?id=38593616) - [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/)
+* [2023-12-10, 18:25:15](https://news.ycombinator.com/item?id=38593610) - [Rising sea levels threaten hazardous waste facilities along U.S. coast](https://www.axios.com/2023/12/10/sea-levels-hazardous-waste-climate-change)
 * [2023-12-10, 18:23:54](https://news.ycombinator.com/item?id=38593599) - [The Guns Were Said to Be Destroyed. Instead, They Were Reborn](https://www.nytimes.com/2023/12/10/us/guns-disposal-recycling.html)
 * [2023-12-10, 18:13:47](https://news.ycombinator.com/item?id=38593526) - [Mistral, French A.I. Startup, Is Valued at $2B in Funding Round](https://www.nytimes.com/2023/12/10/technology/mistral-ai-funding.html)
 * [2023-12-10, 18:05:45](https://news.ycombinator.com/item?id=38593449) - [The United Arab Emirates' takeover of African forests](https://www.lemonde.fr/en/le-monde-africa/article/2023/12/10/the-united-arab-emirates-takeover-of-african-forests_6328426_124.html)
