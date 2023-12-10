@@ -10,7 +10,7 @@
 * [2023-12-10, 03:46:43](https://news.ycombinator.com/item?id=38588858) - [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
 * [2023-12-10, 03:33:48](https://news.ycombinator.com/item?id=38588790) - [Waveterm](https://www.waveterm.dev/)
 * [2023-12-10, 02:12:27](https://news.ycombinator.com/item?id=38588379) - [Cramming a tiny program into a tiny ELF file](https://tmpout.sh/3/22.html)
-* [2023-12-09, 23:35:13](https://news.ycombinator.com/item?id=38587340) - [65% increase in \"significant\" Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
+* [2023-12-09, 23:35:13](https://news.ycombinator.com/item?id=38587340) - [Air Traffic Controllers Pushed to the Brink](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
 * [2023-12-09, 23:17:54](https://news.ycombinator.com/item?id=38587211) - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
 * [2023-12-09, 23:02:07](https://news.ycombinator.com/item?id=38587052) - [Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 * [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
