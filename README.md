@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 20:13:15](https://news.ycombinator.com/item?id=38594578) - [Mistral-8x7B-Chat](https://huggingface.co/mattshumer/mistral-8x7b-chat)
+* [2023-12-10, 20:06:29](https://news.ycombinator.com/item?id=38594521) - [I wrote a meta mode for ChatGPT (*** see comments for correct URL)](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)
 * [2023-12-10, 19:46:02](https://news.ycombinator.com/item?id=38594326) - [Applesauce lead poisoning cases in kids surge amid questions on FDA oversight](https://www.washingtonpost.com/wellness/2023/12/09/applesauce-recall-lead-poisoning-cinnamon/)
 * [2023-12-10, 19:28:05](https://news.ycombinator.com/item?id=38594139) - [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
 * [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
@@ -24,10 +26,8 @@
 * [2023-12-10, 08:17:05](https://news.ycombinator.com/item?id=38590028) - [Innovation of the Year: BYD Blade Battery](https://www.electrifying.com/blog/best-cars/innovation-of-the-year-byd-blade-battery)
 * [2023-12-10, 08:06:22](https://news.ycombinator.com/item?id=38589981) - [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 * [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
-* [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 07:22:49](https://news.ycombinator.com/item?id=38579499) - [Neil Armstrong's Visit to Langholm](https://www.historic-uk.com/HistoryUK/HistoryofScotland/Neil-Armstrong-Visits-Langholm/)
 * [2023-12-08, 19:29:04](https://news.ycombinator.com/item?id=38573094) - [The Two Milan Kunderas](https://drb.ie/articles/the-two-milan-kunderas/)
-* [2023-12-07, 22:47:45](https://news.ycombinator.com/item?id=38562858) - [FastSpring Risk Screening](https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/)
 * [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
 * [2023-12-07, 07:36:00](https://news.ycombinator.com/item?id=38553857) - [Hyper Performant and Hackable Code Forge Built on Open Standards](https://ayllu-forge.org/)
 

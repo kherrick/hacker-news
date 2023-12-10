@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 20:13:15](https://news.ycombinator.com/item?id=38594578) - [Mistral-8x7B-Chat](https://huggingface.co/mattshumer/mistral-8x7b-chat)
+* [2023-12-10, 20:06:29](https://news.ycombinator.com/item?id=38594521) - [I wrote a meta mode for ChatGPT (*** see comments for correct URL)](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)
 * [2023-12-10, 19:46:02](https://news.ycombinator.com/item?id=38594326) - [Applesauce lead poisoning cases in kids surge amid questions on FDA oversight](https://www.washingtonpost.com/wellness/2023/12/09/applesauce-recall-lead-poisoning-cinnamon/)
 * [2023-12-10, 19:28:05](https://news.ycombinator.com/item?id=38594139) - [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
 * [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
