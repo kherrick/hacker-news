@@ -8,6 +8,7 @@
 * [2023-12-09, 23:17:54](https://news.ycombinator.com/item?id=38587211) - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
 * [2023-12-09, 23:02:07](https://news.ycombinator.com/item?id=38587052) - [Open source alternative to ChatGPT and ChatPDF-like AI tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 * [2023-12-09, 22:53:02](https://news.ycombinator.com/item?id=38586978) - [Public Domain Day 2024 Is Coming: Here's What to Know](https://copyrightlately.com/public-domain-day-2024/)
+* [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
 * [2023-12-09, 22:37:06](https://news.ycombinator.com/item?id=38586818) - [Three Things That LLMs Have Made Us Rethink](https://rodneybrooks.com/three-things-that-llms-have-made-us-rethink/)
 * [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)

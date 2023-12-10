@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 19:28:05](https://news.ycombinator.com/item?id=38594139) - [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
 * [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
+* [2023-12-10, 18:58:56](https://news.ycombinator.com/item?id=38593866) - [Columbia and NYU Would Lose $327M in Tax Breaks Under Proposal](https://www.nytimes.com/2023/12/10/nyregion/columbia-nyu-property-tax-exemptions-legislation.html)
 * [2023-12-10, 18:51:18](https://news.ycombinator.com/item?id=38593803) - [You Can Select Multiple Tabs in Safari, Chrome, Firefox](https://daringfireball.net/linked/2023/12/07/safari-chrome-firebox-multiple-tab-selection)
 * [2023-12-10, 18:28:50](https://news.ycombinator.com/item?id=38593638) - [Ratatui](https://github.com/ratatui-org/ratatui)
 * [2023-12-10, 18:27:50](https://news.ycombinator.com/item?id=38593630) - [Ask HN: Assuming this 2023 LtG paper is correct, how do you prepare?](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
@@ -18,6 +20,7 @@
 * [2023-12-10, 18:02:15](https://news.ycombinator.com/item?id=38593420) - [Xbox Will \"Exit the Gaming Business\" If Game Pass Doesn't Get Enough Subscribers](https://www.thegamer.com/xbox-exit-gaming-business-if-game-pass-doesnt-get-enough-subscribers-pc-cloud/)
 * [2023-12-10, 18:01:46](https://news.ycombinator.com/item?id=38593418) - [SSH keys stolen by stream of malicious PyPI and NPM packages](https://www.bleepingcomputer.com/news/security/ssh-keys-stolen-by-stream-of-malicious-pypi-and-npm-packages/)
 * [2023-12-10, 17:40:43](https://news.ycombinator.com/item?id=38593248) - [Sigil II, a Doom WAD from J.Romero, has been released](https://doomwiki.org/wiki/SIGIL_II)
+* [2023-12-10, 17:30:20](https://news.ycombinator.com/item?id=38593177) - [Show HN: Watering my Christmas tree with ESPHome](https://johnzanussi.com/posts/diy-automated-christmas-tree-watering)
 * [2023-12-10, 17:14:21](https://news.ycombinator.com/item?id=38593065) - [Show HN: Skytable's new NoSQL engine with BlueQL, injection safety, better perf](https://skytable.io/blog/2023/12/skytable-octave-is-here/)
 * [2023-12-10, 17:07:10](https://news.ycombinator.com/item?id=38593008) - [Inert pesticide ingredients in may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
 * [2023-12-10, 17:00:06](https://news.ycombinator.com/item?id=38592947) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38592947)
