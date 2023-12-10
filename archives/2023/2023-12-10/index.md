@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 14:58:15](https://news.ycombinator.com/item?id=38591904) - [First female active-duty soldier graduates from sniper schools](https://taskandpurpose.com/news/first-female-active-duty-soldier-graduates-from-sniper-schools/)
 * [2023-12-10, 14:33:23](https://news.ycombinator.com/item?id=38591742) - [Spotify announces CFO to leave, days after he cashed in $9.3M in shares](https://www.theguardian.com/technology/2023/dec/08/spotify-announces-cfo-to-leave-days-after-he-cashed-in-shares)
 * [2023-12-10, 14:33:08](https://news.ycombinator.com/item?id=38591740) - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
 * [2023-12-10, 14:31:28](https://news.ycombinator.com/item?id=38591726) - [Is the Texas boom town of Austin losing its luster?](https://techcrunch.com/2023/12/07/is-the-texas-boom-town-of-austin-losing-its-luster/)
