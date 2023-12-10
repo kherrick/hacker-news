@@ -21,7 +21,7 @@
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Vulnerabilities in TETRA radio networks](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
-* [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
+* [2023-12-08, 09:53:35](https://news.ycombinator.com/item?id=38567161) - [\"Inside Macintosh\" in electronic format](https://spinsidemacintosh.neocities.org/)
 * [2023-12-08, 07:12:42](https://news.ycombinator.com/item?id=38566237) - [The Technology (2014)](http://paulbuchheit.blogspot.com/2014/07/the-technology.html)
 * [2023-12-08, 06:24:50](https://news.ycombinator.com/item?id=38565994) - [The Wizardry Frontier](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 16:45:38](https://news.ycombinator.com/item?id=38558564) - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
