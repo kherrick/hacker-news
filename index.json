@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-12-10, 21:27:41",
+      "https://news.ycombinator.com/item?id=38595233"
+    ],
+    [
+      "I Hate MFA",
+      "https://www.alexmolas.com/2023/12/10/hate-mfa.html"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 21:00:06",
       "https://news.ycombinator.com/item?id=38594989"
     ],
     [
       "Meticulous.ai (YC S21) Is Hiring to make tests obsolete",
       "https://news.ycombinator.com/item?id=38594989"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 20:45:49",
+      "https://news.ycombinator.com/item?id=38594876"
+    ],
+    [
+      "PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop",
+      "https://github.com/bluewaysw/pcgeos"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 20:44:29",
+      "https://news.ycombinator.com/item?id=38594866"
+    ],
+    [
+      "Coherent: The affordable Unix-like PC OS from over a decade before Linux 0.01",
+      "https://github.com/gspu/Coherent"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2023-12-10, 19:46:02",
-      "https://news.ycombinator.com/item?id=38594326"
+      "2023-12-10, 19:31:41",
+      "https://news.ycombinator.com/item?id=38594178"
     ],
     [
-      "Applesauce lead poisoning cases in kids surge amid questions on FDA oversight",
-      "https://www.washingtonpost.com/wellness/2023/12/09/applesauce-recall-lead-poisoning-cinnamon/"
+      "The cfarm compile farm project",
+      "https://portal.cfarm.net/"
     ]
   ],
   [
@@ -121,22 +151,22 @@
   ],
   [
     [
-      "2023-12-10, 17:40:43",
-      "https://news.ycombinator.com/item?id=38593248"
-    ],
-    [
-      "Sigil II, a Doom WAD from J.Romero, has been released",
-      "https://doomwiki.org/wiki/SIGIL_II"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 17:30:20",
       "https://news.ycombinator.com/item?id=38593177"
     ],
     [
       "Show HN: Watering my Christmas tree with ESPHome",
       "https://johnzanussi.com/posts/diy-automated-christmas-tree-watering"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 17:25:30",
+      "https://news.ycombinator.com/item?id=38593147"
+    ],
+    [
+      "Show HN: Rot - Offline secrets management",
+      "https://github.com/candiddev/rot"
     ]
   ],
   [
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2023-12-10, 14:07:13",
-      "https://news.ycombinator.com/item?id=38591584"
-    ],
-    [
-      "Bad NEWS, Emacs",
-      "https://eshelyaron.com/posts/2023-12-10-bad-news.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 13:37:43",
-      "https://news.ycombinator.com/item?id=38591437"
-    ],
-    [
-      "Ask HN: Best UI design courses for hackers?",
-      "https://news.ycombinator.com/item?id=38591437"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 12:03:18",
       "https://news.ycombinator.com/item?id=38590984"
     ],
     [
       "AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting",
       "https://github.com/ast-grep/ast-grep"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 11:26:44",
-      "https://news.ycombinator.com/item?id=38590827"
-    ],
-    [
-      "Stealthy Linux rootkit found in the wild after going undetected for 2 years",
-      "https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/"
     ]
   ],
   [
