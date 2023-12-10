@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 14:31:28](https://news.ycombinator.com/item?id=38591726) - [Is the Texas boom town of Austin losing its luster?](https://techcrunch.com/2023/12/07/is-the-texas-boom-town-of-austin-losing-its-luster/)
 * [2023-12-10, 14:21:44](https://news.ycombinator.com/item?id=38591677) - [Croatia could be Europe's hidden tech haven in 2024](https://www.fastcompany.com/90995354/croatia-could-be-europes-hidden-tech-haven-in-2024)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 * [2023-12-10, 14:07:13](https://news.ycombinator.com/item?id=38591584) - [Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
