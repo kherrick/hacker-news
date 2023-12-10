@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 18:02:15](https://news.ycombinator.com/item?id=38593420) - [Xbox Will \"Exit the Gaming Business\" If Game Pass Doesn't Get Enough Subscribers](https://www.thegamer.com/xbox-exit-gaming-business-if-game-pass-doesnt-get-enough-subscribers-pc-cloud/)
 * [2023-12-10, 17:40:43](https://news.ycombinator.com/item?id=38593248) - [Sigil II, a Doom WAD from J.Romero, has been released](https://doomwiki.org/wiki/SIGIL_II)
 * [2023-12-10, 17:14:21](https://news.ycombinator.com/item?id=38593065) - [Show HN: Skytable's new NoSQL engine with BlueQL, injection safety, better perf](https://skytable.io/blog/2023/12/skytable-octave-is-here/)
 * [2023-12-10, 17:07:10](https://news.ycombinator.com/item?id=38593008) - [Inert pesticide ingredients in may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
@@ -21,6 +22,7 @@
 * [2023-12-10, 14:31:28](https://news.ycombinator.com/item?id=38591726) - [Is the Texas boom town of Austin losing its luster?](https://techcrunch.com/2023/12/07/is-the-texas-boom-town-of-austin-losing-its-luster/)
 * [2023-12-10, 14:21:44](https://news.ycombinator.com/item?id=38591677) - [Croatia could be Europe's hidden tech haven in 2024](https://www.fastcompany.com/90995354/croatia-could-be-europes-hidden-tech-haven-in-2024)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
+* [2023-12-10, 14:07:26](https://news.ycombinator.com/item?id=38591585) - [Engineers design a robotic replica of the heart's right chamber](https://news.mit.edu/2023/mit-engineers-design-robotic-replica-hearts-right-chamber-1208)
 * [2023-12-10, 14:07:13](https://news.ycombinator.com/item?id=38591584) - [Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
 * [2023-12-10, 13:37:43](https://news.ycombinator.com/item?id=38591437) - [Ask HN: Best UI design courses for hackers?](https://news.ycombinator.com/item?id=38591437)
 * [2023-12-10, 12:52:24](https://news.ycombinator.com/item?id=38591196) - [Tesla drivers run Autopilot where it's not intended – with deadly consequences](https://www.washingtonpost.com/technology/2023/12/10/tesla-autopilot-crash/)
