@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
 * [2023-12-10, 15:43:27](https://news.ycombinator.com/item?id=38592265) - [The Curious Case of Claudine Gay](https://www.karlstack.com/p/the-curious-case-of-claudine-gay)
+* [2023-12-10, 15:40:32](https://news.ycombinator.com/item?id=38592243) - [A Warrant Showing the U.S. Government Is Monitoring Push Notifications](https://www.404media.co/us-government-warrant-monitoring-push-notifications-apple-google-yahoo/)
 * [2023-12-10, 15:20:50](https://news.ycombinator.com/item?id=38592087) - [Ask HN: Anyone Interested in Taking over Jsweet.org?](https://news.ycombinator.com/item?id=38592087)
 * [2023-12-10, 15:16:32](https://news.ycombinator.com/item?id=38592050) - [Scholars Who Study the Middle East Are Afraid to Speak Out](https://www.chronicle.com/article/scholars-who-study-the-middle-east-are-afraid-to-speak-out)
 * [2023-12-10, 15:10:49](https://news.ycombinator.com/item?id=38591996) - [Tech firms failing to 'walk the walk' on ethical AI, report says](https://www.aljazeera.com/news/2023/12/8/tech-firms-failing-to-walk-the-walk-on-ethical-ai-report-says)

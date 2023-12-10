@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-10, 15:20:50](https://news.ycombinator.com/item?id=38592087) - [Ask HN: Anyone Interested in Taking over Jsweet.org?](https://news.ycombinator.com/item?id=38592087)
+* [2023-12-10, 15:40:32](https://news.ycombinator.com/item?id=38592243) - [A Warrant Showing the U.S. Government Is Monitoring Push Notifications](https://www.404media.co/us-government-warrant-monitoring-push-notifications-apple-google-yahoo/)
 * [2023-12-10, 15:10:49](https://news.ycombinator.com/item?id=38591996) - [Tech firms failing to 'walk the walk' on ethical AI, report says](https://www.aljazeera.com/news/2023/12/8/tech-firms-failing-to-walk-the-walk-on-ethical-ai-report-says)
 * [2023-12-10, 15:05:06](https://news.ycombinator.com/item?id=38591946) - [Created a free website that simplifies stock analysis](https://stocknear.com/)
 * [2023-12-10, 14:33:08](https://news.ycombinator.com/item?id=38591740) - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
