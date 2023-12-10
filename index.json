@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-10, 14:31:28",
+      "https://news.ycombinator.com/item?id=38591726"
+    ],
+    [
+      "Is the Texas boom town of Austin losing its luster?",
+      "https://techcrunch.com/2023/12/07/is-the-texas-boom-town-of-austin-losing-its-luster/"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 14:21:44",
       "https://news.ycombinator.com/item?id=38591677"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-12-09, 23:02:07",
-      "https://news.ycombinator.com/item?id=38587052"
-    ],
-    [
-      "Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools",
-      "https://github.com/SecureAI-Tools/SecureAI-Tools"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 22:30:35",
       "https://news.ycombinator.com/item?id=38586773"
     ],
@@ -187,6 +187,16 @@
     [
       "Gooey: Turn almost any Python command line program into a full GUI application",
       "https://github.com/chriskiehl/Gooey"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 20:57:36",
+      "https://news.ycombinator.com/item?id=38586014"
+    ],
+    [
+      "Show HN: Fine-grained stylistic control of LLMs using model arithmetic",
+      "https://github.com/eth-sri/language-model-arithmetic"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Things I learned from teaching",
       "https://claytonwramsey.github.io/blog/learned-from-teaching.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 13:31:23",
-      "https://news.ycombinator.com/item?id=38556069"
-    ],
-    [
-      "Improving programming language performance",
-      "https://xnacly.me/posts/2023/language-performance/"
     ]
   ],
   [
