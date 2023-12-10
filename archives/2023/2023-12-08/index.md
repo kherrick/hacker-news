@@ -16,6 +16,7 @@
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:19:50](https://news.ycombinator.com/item?id=38574577) - [Una-Cybertron-7B](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16)
 * [2023-12-08, 21:18:38](https://news.ycombinator.com/item?id=38574555) - [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Human Synthesis](https://shunyuanzheng.github.io/GPS-Gaussian)
+* [2023-12-08, 21:09:57](https://news.ycombinator.com/item?id=38574445) - [World's deepest, largest underground lab operational](https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html)
 * [2023-12-08, 21:07:59](https://news.ycombinator.com/item?id=38574422) - [How Did Christianity Change the Roman Empire?](https://www.historytoday.com/archive/head-head/how-did-christianity-change-roman-empire)
 * [2023-12-08, 20:54:08](https://news.ycombinator.com/item?id=38574219) - [The Geopolitics of Godzilla](https://petertasker.asia/articles/the-geopolitics-of-godzilla/)
 * [2023-12-08, 20:53:23](https://news.ycombinator.com/item?id=38574208) - [Just Your Handyman](https://www.plough.com/en/topics/life/work/just-your-handyman?ref=thebrowser.com)
