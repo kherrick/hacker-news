@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-10, 06:02:28](https://news.ycombinator.com/item?id=38589520) - [Ask HN: What's the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
+* [2023-12-10, 05:43:05](https://news.ycombinator.com/item?id=38589430) - [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)
 * [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-10, 04:21:54](https://news.ycombinator.com/item?id=38589018) - [What Is L4S?](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
 * [2023-12-10, 03:46:43](https://news.ycombinator.com/item?id=38588858) - [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
@@ -18,7 +19,6 @@
 * [2023-12-09, 17:45:06](https://news.ycombinator.com/item?id=38583881) - [Doug Engelbart’s 1968 demo](https://dougengelbart.org/content/view/209/)
 * [2023-12-09, 17:02:29](https://news.ycombinator.com/item?id=38583489) - [Vulnerabilities in TETRA radio networks](https://www.cryptomuseum.com/radio/tetra/burst.htm)
 * [2023-12-09, 16:50:49](https://news.ycombinator.com/item?id=38583399) - [Make Apps for Linux](https://makealinux.app)
-* [2023-12-09, 15:52:49](https://news.ycombinator.com/item?id=38582870) - [NeurIPS 2023 Posters Cluster Visualization](https://neurips2023.vizhub.ai/)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
