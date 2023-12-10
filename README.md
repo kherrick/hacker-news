@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-10, 12:52:24](https://news.ycombinator.com/item?id=38591196) - [Tesla drivers run Autopilot where it's not intended – with deadly consequences](https://www.washingtonpost.com/technology/2023/12/10/tesla-autopilot-crash/)
+* [2023-12-10, 14:07:13](https://news.ycombinator.com/item?id=38591584) - [Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
 * [2023-12-10, 12:27:42](https://news.ycombinator.com/item?id=38591080) - [Ask HN: How to inform YouTube a video is no longer under copyright?](https://news.ycombinator.com/item?id=38591080)
 * [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-10, 12:01:01](https://news.ycombinator.com/item?id=38590975) - [Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
