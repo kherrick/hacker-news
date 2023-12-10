@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-10, 12:33:19",
+      "https://news.ycombinator.com/item?id=38591099"
+    ],
+    [
+      "Austin sees mass exodus of ex-Silicon Valley tech companies, here's why",
+      "https://www.mysanantonio.com/business/article/austin-loses-tech-companies-18541636.php"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 12:27:42",
+      "https://news.ycombinator.com/item?id=38591080"
+    ],
+    [
+      "Ask HN: How to inform YouTube a video is no longer under copyright?",
+      "https://news.ycombinator.com/item?id=38591080"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 12:03:18",
+      "https://news.ycombinator.com/item?id=38590984"
+    ],
+    [
+      "AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting",
+      "https://github.com/ast-grep/ast-grep"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 12:01:01",
       "https://news.ycombinator.com/item?id=38590975"
     ],
@@ -27,16 +57,6 @@
     [
       "HP printer app is installing on PCs whether they have HP printers or not",
       "https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 09:21:52",
-      "https://news.ycombinator.com/item?id=38590313"
-    ],
-    [
-      "Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?",
-      "https://news.ycombinator.com/item?id=38590313"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-12-09, 23:35:13",
-      "https://news.ycombinator.com/item?id=38587340"
-    ],
-    [
-      "Air Traffic Controllers Pushed to the Brink",
-      "https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 23:17:54",
       "https://news.ycombinator.com/item?id=38587211"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-12-09, 08:53:29",
-      "https://news.ycombinator.com/item?id=38580013"
-    ],
-    [
-      "Arrows of Time",
-      "https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/"
-    ]
-  ],
-  [
-    [
       "2023-12-08, 23:22:33",
       "https://news.ycombinator.com/item?id=38576158"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-12-08, 07:12:42",
-      "https://news.ycombinator.com/item?id=38566237"
-    ],
-    [
-      "The Technology (2014)",
-      "http://paulbuchheit.blogspot.com/2014/07/the-technology.html"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 16:45:38",
       "https://news.ycombinator.com/item?id=38558564"
     ],
@@ -267,6 +257,16 @@
     [
       "Improving programming language performance",
       "https://xnacly.me/posts/2023/language-performance/"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 09:57:48",
+      "https://news.ycombinator.com/item?id=38554691"
+    ],
+    [
+      "Audiobox: Meta's new foundation research model for audio generation",
+      "https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/"
     ]
   ],
   [
