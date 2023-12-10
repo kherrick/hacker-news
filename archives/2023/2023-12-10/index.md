@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 18:51:18](https://news.ycombinator.com/item?id=38593803) - [You Can Select Multiple Tabs in Safari, Chrome, Firefox](https://daringfireball.net/linked/2023/12/07/safari-chrome-firebox-multiple-tab-selection)
 * [2023-12-10, 18:28:50](https://news.ycombinator.com/item?id=38593638) - [Ratatui](https://github.com/ratatui-org/ratatui)
 * [2023-12-10, 18:27:50](https://news.ycombinator.com/item?id=38593630) - [Ask HN: Assuming this 2023 LtG paper is correct, how do you prepare?](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
 * [2023-12-10, 18:25:56](https://news.ycombinator.com/item?id=38593616) - [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/)

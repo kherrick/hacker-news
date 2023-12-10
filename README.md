@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 18:51:18](https://news.ycombinator.com/item?id=38593803) - [You Can Select Multiple Tabs in Safari, Chrome, Firefox](https://daringfireball.net/linked/2023/12/07/safari-chrome-firebox-multiple-tab-selection)
 * [2023-12-10, 18:28:50](https://news.ycombinator.com/item?id=38593638) - [Ratatui](https://github.com/ratatui-org/ratatui)
 * [2023-12-10, 18:27:50](https://news.ycombinator.com/item?id=38593630) - [Ask HN: Assuming this 2023 LtG paper is correct, how do you prepare?](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13442)
 * [2023-12-10, 18:25:56](https://news.ycombinator.com/item?id=38593616) - [Paris-Based Startup and OpenAI Competitor Mistral AI Valued at $2B](https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/)
@@ -21,7 +22,6 @@
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:17:05](https://news.ycombinator.com/item?id=38590028) - [Innovation of the Year: BYD Blade Battery](https://www.electrifying.com/blog/best-cars/innovation-of-the-year-byd-blade-battery)
 * [2023-12-10, 08:06:22](https://news.ycombinator.com/item?id=38589981) - [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
-* [2023-12-09, 22:30:35](https://news.ycombinator.com/item?id=38586773) - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 07:22:49](https://news.ycombinator.com/item?id=38579499) - [Neil Armstrong's Visit to Langholm](https://www.historic-uk.com/HistoryUK/HistoryofScotland/Neil-Armstrong-Visits-Langholm/)
 * [2023-12-08, 21:09:57](https://news.ycombinator.com/item?id=38574445) - [World's deepest, largest underground lab operational](https://www.chinadaily.com.cn/a/202312/07/WS65712c17a31090682a5f1ebc.html)
