@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-10, 21:00:06",
+      "https://news.ycombinator.com/item?id=38594989"
+    ],
+    [
+      "Meticulous.ai (YC S21) Is Hiring to make tests obsolete",
+      "https://news.ycombinator.com/item?id=38594989"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 20:26:42",
+      "https://news.ycombinator.com/item?id=38594697"
+    ],
+    [
+      "Omg.lol: An Oasis on the Internet",
+      "https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 20:13:15",
       "https://news.ycombinator.com/item?id=38594578"
     ],
@@ -47,16 +67,6 @@
     [
       "FFM (Foreign Function and Memory API) Goes Final",
       "https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 18:58:56",
-      "https://news.ycombinator.com/item?id=38593866"
-    ],
-    [
-      "Columbia and NYU Would Lose $327M in Tax Breaks Under Proposal",
-      "https://www.nytimes.com/2023/12/10/nyregion/columbia-nyu-property-tax-exemptions-legislation.html"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-12-10, 18:01:46",
-      "https://news.ycombinator.com/item?id=38593418"
-    ],
-    [
-      "SSH keys stolen by stream of malicious PyPI and NPM packages",
-      "https://www.bleepingcomputer.com/news/security/ssh-keys-stolen-by-stream-of-malicious-pypi-and-npm-packages/"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 17:40:43",
       "https://news.ycombinator.com/item?id=38593248"
     ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-12-10, 17:00:06",
-      "https://news.ycombinator.com/item?id=38592947"
-    ],
-    [
-      "GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer",
-      "https://news.ycombinator.com/item?id=38592947"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 16:05:01",
       "https://news.ycombinator.com/item?id=38592450"
     ],
@@ -171,22 +161,22 @@
   ],
   [
     [
-      "2023-12-10, 15:40:32",
-      "https://news.ycombinator.com/item?id=38592243"
-    ],
-    [
-      "A Warrant Showing the U.S. Government Is Monitoring Push Notifications",
-      "https://www.404media.co/us-government-warrant-monitoring-push-notifications-apple-google-yahoo/"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 14:18:25",
       "https://news.ycombinator.com/item?id=38591662"
     ],
     [
       "Write your own retro compiler",
       "http://t3x.org/t3x/0/book.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 14:07:13",
+      "https://news.ycombinator.com/item?id=38591584"
+    ],
+    [
+      "Bad NEWS, Emacs",
+      "https://eshelyaron.com/posts/2023-12-10-bad-news.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Neil Armstrong's Visit to Langholm",
       "https://www.historic-uk.com/HistoryUK/HistoryofScotland/Neil-Armstrong-Visits-Langholm/"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 01:37:35",
+      "https://news.ycombinator.com/item?id=38577424"
+    ],
+    [
+      "Dynamic music and sound techniques for video games",
+      "https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/"
     ]
   ],
   [
