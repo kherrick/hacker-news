@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 17:14:21](https://news.ycombinator.com/item?id=38593065) - [Show HN: Skytable's new NoSQL engine with BlueQL, injection safety, better perf](https://skytable.io/blog/2023/12/skytable-octave-is-here/)
 * [2023-12-10, 17:07:10](https://news.ycombinator.com/item?id=38593008) - [Inert pesticide ingredients in may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
 * [2023-12-10, 17:00:06](https://news.ycombinator.com/item?id=38592947) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38592947)
 * [2023-12-10, 15:40:32](https://news.ycombinator.com/item?id=38592243) - [A Warrant Showing the U.S. Government Is Monitoring Push Notifications](https://www.404media.co/us-government-warrant-monitoring-push-notifications-apple-google-yahoo/)
@@ -12,7 +13,6 @@
 * [2023-12-10, 11:26:44](https://news.ycombinator.com/item?id=38590827) - [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
-* [2023-12-10, 08:28:38](https://news.ycombinator.com/item?id=38590080) - [Ask HN: Can we do better than Git for version control?](https://news.ycombinator.com/item?id=38590080)
 * [2023-12-10, 08:17:05](https://news.ycombinator.com/item?id=38590028) - [Innovation of the Year: BYD Blade Battery](https://www.electrifying.com/blog/best-cars/innovation-of-the-year-byd-blade-battery)
 * [2023-12-10, 08:06:22](https://news.ycombinator.com/item?id=38589981) - [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 * [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
