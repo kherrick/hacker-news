@@ -52,6 +52,7 @@
 * [2023-12-07, 13:44:30](https://news.ycombinator.com/item?id=38556169) - [The Right Chemistry: Reflections on the manufacture of mirrors](https://montrealgazette.com/opinion/columnists/the-right-chemistry-reflections-on-the-manufacture-of-mirrors)
 * [2023-12-07, 13:43:44](https://news.ycombinator.com/item?id=38556162) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
 * [2023-12-07, 13:38:04](https://news.ycombinator.com/item?id=38556116) - [Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
+* [2023-12-07, 13:31:23](https://news.ycombinator.com/item?id=38556069) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
 * [2023-12-07, 13:24:12](https://news.ycombinator.com/item?id=38556008) - [Piracy Is Back: Piracy Statistics for 2023](https://dataprot.net/statistics/piracy-statistics/)
 * [2023-12-07, 13:22:16](https://news.ycombinator.com/item?id=38555990) - [Show HN: Cujobay – A Modern Alternative to Crunchbase](https://www.cujobay.com)
 * [2023-12-07, 13:09:50](https://news.ycombinator.com/item?id=38555896) - [Which Movies Are the Most Polarizing? A Statistical Analysis](https://www.statsignificant.com/p/which-movies-are-the-most-polarizing)
