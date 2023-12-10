@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-10, 02:12:27](https://news.ycombinator.com/item?id=38588379) - [Cramming a Tiny Program into a Tiny ELF File: A Case Study](https://tmpout.sh/3/22.html)
-* [2023-12-10, 01:29:32](https://news.ycombinator.com/item?id=38588121) - [Fear of cheap Chinese EVs spurs automaker dash for affordable cars](https://www.reuters.com/business/autos-transportation/fear-cheap-chinese-evs-spurs-automaker-dash-affordable-cars-2023-12-08/)
 * [2023-12-10, 01:10:26](https://news.ycombinator.com/item?id=38588012) - [Factors driving a productivity explosion](https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/)
 * [2023-12-09, 23:35:13](https://news.ycombinator.com/item?id=38587340) - [65% increase in \"significant\" Air Traffic Control incidents in 2023](https://www.nytimes.com/2023/12/02/business/air-traffic-controllers-safety.html)
 * [2023-12-09, 23:17:54](https://news.ycombinator.com/item?id=38587211) - [Nokia Bell Labs Is Moving to Helix in New Brunswick](https://www.roi-nj.com/2023/12/08/real_estate/nokia-bell-labs-is-moving-to-helix-in-new-brunswick/)
@@ -22,6 +21,7 @@
 * [2023-12-08, 21:41:47](https://news.ycombinator.com/item?id=38574888) - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 * [2023-12-08, 21:07:59](https://news.ycombinator.com/item?id=38574422) - [How did Christianity change the Roman Empire?](https://www.historytoday.com/archive/head-head/how-did-christianity-change-roman-empire)
 * [2023-12-08, 18:53:16](https://news.ycombinator.com/item?id=38572720) - [Ava PLS: open-source application for running language models locally](https://avapls.com/)
+* [2023-12-08, 14:01:14](https://news.ycombinator.com/item?id=38569117) - [Blogging with Word in your Jamstack](https://augustl.com/blog/2023/blogging_with_word/)
 * [2023-12-08, 09:53:35](https://news.ycombinator.com/item?id=38567161) - [\"Inside Macintosh\" in electronic format](https://spinsidemacintosh.neocities.org/)
 * [2023-12-08, 06:24:50](https://news.ycombinator.com/item?id=38565994) - [The Wizardry Frontier](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 08:51:07](https://news.ycombinator.com/item?id=38554310) - [Why a spritz of water before grinding coffee yields better results](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/)
