@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-10, 05:33:19",
+      "https://news.ycombinator.com/item?id=38589389"
+    ],
+    [
+      "Linux: Ext4 data corruption in 6.1.64-1",
+      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 04:21:54",
+      "https://news.ycombinator.com/item?id=38589018"
+    ],
+    [
+      "What Is L4S?",
+      "https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 03:46:43",
       "https://news.ycombinator.com/item?id=38588858"
     ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=38588379"
     ],
     [
-      "Cramming a Tiny Program into a Tiny ELF File: A Case Study",
+      "Cramming a tiny program into a tiny ELF file",
       "https://tmpout.sh/3/22.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 01:10:26",
-      "https://news.ycombinator.com/item?id=38588012"
-    ],
-    [
-      "Factors driving a productivity explosion",
-      "https://fortune.com/2023/12/09/what-is-fueling-productivity-boom-four-reasons/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Why a spritz of water before grinding coffee yields better results",
       "https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 07:29:21",
-      "https://news.ycombinator.com/item?id=38553822"
-    ],
-    [
-      "Simple feature gross code",
-      "https://anguscheng.com/post/2023-12-07-simple-feature-gross-code/"
     ]
   ],
   [
