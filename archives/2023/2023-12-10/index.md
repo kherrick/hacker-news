@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 14:33:23](https://news.ycombinator.com/item?id=38591742) - [Spotify announces CFO to leave, days after he cashed in $9.3M in shares](https://www.theguardian.com/technology/2023/dec/08/spotify-announces-cfo-to-leave-days-after-he-cashed-in-shares)
+* [2023-12-10, 14:33:08](https://news.ycombinator.com/item?id=38591740) - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
 * [2023-12-10, 14:31:28](https://news.ycombinator.com/item?id=38591726) - [Is the Texas boom town of Austin losing its luster?](https://techcrunch.com/2023/12/07/is-the-texas-boom-town-of-austin-losing-its-luster/)
 * [2023-12-10, 14:21:44](https://news.ycombinator.com/item?id=38591677) - [Croatia could be Europe's hidden tech haven in 2024](https://www.fastcompany.com/90995354/croatia-could-be-europes-hidden-tech-haven-in-2024)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 * [2023-12-10, 14:07:13](https://news.ycombinator.com/item?id=38591584) - [Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
+* [2023-12-10, 13:37:43](https://news.ycombinator.com/item?id=38591437) - [Ask HN: Best UI design courses for hackers?](https://news.ycombinator.com/item?id=38591437)
 * [2023-12-10, 12:52:24](https://news.ycombinator.com/item?id=38591196) - [Tesla drivers run Autopilot where it's not intended – with deadly consequences](https://www.washingtonpost.com/technology/2023/12/10/tesla-autopilot-crash/)
 * [2023-12-10, 12:33:19](https://news.ycombinator.com/item?id=38591099) - [Austin sees mass exodus of ex-Silicon Valley tech companies, here's why](https://www.mysanantonio.com/business/article/austin-loses-tech-companies-18541636.php)
 * [2023-12-10, 12:27:42](https://news.ycombinator.com/item?id=38591080) - [Ask HN: How to inform YouTube a video is no longer under copyright?](https://news.ycombinator.com/item?id=38591080)
