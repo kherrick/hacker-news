@@ -80,6 +80,7 @@
 * [2023-12-09, 03:27:10](https://news.ycombinator.com/item?id=38578247) - [HashiCorp Vault Forked into OpenBao](https://www.theregister.com/2023/12/08/hashicorp_openbao_fork/)
 * [2023-12-09, 03:17:24](https://news.ycombinator.com/item?id=38578185) - [NetworkX – Network Analysis in Python](https://networkx.org/)
 * [2023-12-09, 02:44:32](https://news.ycombinator.com/item?id=38577964) - [Wine 9.0 RC1 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/9.0-rc1)
+* [2023-12-09, 01:37:35](https://news.ycombinator.com/item?id=38577424) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 01:14:37](https://news.ycombinator.com/item?id=38577240) - [Show HN: Open-source alternatives to tools You pay for](https://osssoftware.org/)
 * [2023-12-09, 00:48:15](https://news.ycombinator.com/item?id=38577021) - [Tesla Cybertruck's stiff structure, sharp design raise safety concerns](https://www.reuters.com/business/autos-transportation/tesla-cybertrucks-stiff-structure-sharp-design-raise-safety-concerns-experts-2023-12-08/)
 * [2023-12-09, 00:41:38](https://news.ycombinator.com/item?id=38576974) - [Gaussian Explosion](https://aras-p.info/blog/2023/12/08/Gaussian-explosion/)

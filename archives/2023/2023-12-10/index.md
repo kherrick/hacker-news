@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
+* [2023-12-10, 20:26:42](https://news.ycombinator.com/item?id=38594697) - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
 * [2023-12-10, 20:13:15](https://news.ycombinator.com/item?id=38594578) - [Mistral-8x7B-Chat](https://huggingface.co/mattshumer/mistral-8x7b-chat)
 * [2023-12-10, 20:06:29](https://news.ycombinator.com/item?id=38594521) - [I wrote a meta mode for ChatGPT (*** see comments for correct URL)](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)
 * [2023-12-10, 19:46:02](https://news.ycombinator.com/item?id=38594326) - [Applesauce lead poisoning cases in kids surge amid questions on FDA oversight](https://www.washingtonpost.com/wellness/2023/12/09/applesauce-recall-lead-poisoning-cinnamon/)
