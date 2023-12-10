@@ -26,6 +26,7 @@
 * [2023-12-10, 18:01:46](https://news.ycombinator.com/item?id=38593418) - [SSH keys stolen by stream of malicious PyPI and NPM packages](https://www.bleepingcomputer.com/news/security/ssh-keys-stolen-by-stream-of-malicious-pypi-and-npm-packages/)
 * [2023-12-10, 17:40:43](https://news.ycombinator.com/item?id=38593248) - [Sigil II, a Doom WAD from J.Romero, has been released](https://doomwiki.org/wiki/SIGIL_II)
 * [2023-12-10, 17:30:20](https://news.ycombinator.com/item?id=38593177) - [Show HN: Watering my Christmas tree with ESPHome](https://johnzanussi.com/posts/diy-automated-christmas-tree-watering)
+* [2023-12-10, 17:25:30](https://news.ycombinator.com/item?id=38593147) - [Show HN: Rot - Offline secrets management](https://github.com/candiddev/rot)
 * [2023-12-10, 17:14:21](https://news.ycombinator.com/item?id=38593065) - [Show HN: Skytable's new NoSQL engine with BlueQL, injection safety, better perf](https://skytable.io/blog/2023/12/skytable-octave-is-here/)
 * [2023-12-10, 17:07:10](https://news.ycombinator.com/item?id=38593008) - [Inert pesticide ingredients in may be more toxic to bees than scientists thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
 * [2023-12-10, 17:00:06](https://news.ycombinator.com/item?id=38592947) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=38592947)
