@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 15:16:32](https://news.ycombinator.com/item?id=38592050) - [Scholars Who Study the Middle East Are Afraid to Speak Out](https://www.chronicle.com/article/scholars-who-study-the-middle-east-are-afraid-to-speak-out)
 * [2023-12-10, 14:33:08](https://news.ycombinator.com/item?id=38591740) - [Tyrannosaur's Stomach Contents Have Been Found](https://www.scientificamerican.com/article/tyrannosaurs-stomach-contents-have-been-found-for-the-first-time/)
 * [2023-12-10, 14:31:28](https://news.ycombinator.com/item?id=38591726) - [Is the Texas boom town of Austin losing its luster?](https://techcrunch.com/2023/12/07/is-the-texas-boom-town-of-austin-losing-its-luster/)
 * [2023-12-10, 14:21:44](https://news.ycombinator.com/item?id=38591677) - [Croatia could be Europe's hidden tech haven in 2024](https://www.fastcompany.com/90995354/croatia-could-be-europes-hidden-tech-haven-in-2024)
@@ -28,7 +29,6 @@
 * [2023-12-07, 22:47:45](https://news.ycombinator.com/item?id=38562858) - [FastSpring Risk Screening](https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/)
 * [2023-12-07, 16:45:38](https://news.ycombinator.com/item?id=38558564) - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 * [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
-* [2023-12-07, 07:16:05](https://news.ycombinator.com/item?id=38553743) - [Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 * [2023-12-07, 00:49:01](https://news.ycombinator.com/item?id=38551512) - [The diminishing half-life of knowledge](https://rednafi.com/zephyr/diminishing_half_life_of_knowledge/)
 
 ## [Archives](archives/index.md)
