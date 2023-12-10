@@ -8,6 +8,7 @@
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
 * [2023-12-10, 08:28:38](https://news.ycombinator.com/item?id=38590080) - [Ask HN: Can we do better than Git for version control?](https://news.ycombinator.com/item?id=38590080)
+* [2023-12-10, 08:17:05](https://news.ycombinator.com/item?id=38590028) - [Innovation of the Year: BYD Blade Battery](https://www.electrifying.com/blog/best-cars/innovation-of-the-year-byd-blade-battery)
 * [2023-12-10, 08:06:22](https://news.ycombinator.com/item?id=38589981) - [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 * [2023-12-10, 06:02:28](https://news.ycombinator.com/item?id=38589520) - [Ask HN: What's the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
 * [2023-12-10, 05:43:05](https://news.ycombinator.com/item?id=38589430) - [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)
