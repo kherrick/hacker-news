@@ -82,6 +82,7 @@
 * [2023-12-07, 07:29:21](https://news.ycombinator.com/item?id=38553822) - [Simple feature gross code](https://anguscheng.com/post/2023-12-07-simple-feature-gross-code/)
 * [2023-12-07, 07:16:05](https://news.ycombinator.com/item?id=38553743) - [Sony debuts first PS5 controller for disabled gamers](https://www.bbc.com/news/technology-67635851)
 * [2023-12-07, 07:03:55](https://news.ycombinator.com/item?id=38553674) - [Programming Bottom-Up (1993)](http://www.paulgraham.com/progbot.html)
+* [2023-12-07, 07:00:15](https://news.ycombinator.com/item?id=38553647) - [Milk-V Pioneer – native RISC-V computer](https://milkv.io/pioneer)
 * [2023-12-07, 06:55:10](https://news.ycombinator.com/item?id=38553624) - [Partitioned consensus and its impact on Spanner's latency](http://dbmsmusings.blogspot.com/2018/12/partitioned-consensus-and-its-impact-on.html)
 * [2023-12-07, 06:37:06](https://news.ycombinator.com/item?id=38553530) - [Robinhood launches crypto trading in the European Union](https://newsroom.aboutrobinhood.com/robinhood-launches-crypto-trading-in-the-eu/)
 * [2023-12-07, 06:04:35](https://news.ycombinator.com/item?id=38553369) - [Jarotsim is a playground of Turing machines](https://compudanzas.itch.io/jarotsim)
