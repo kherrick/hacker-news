@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-10, 12:52:24](https://news.ycombinator.com/item?id=38591196) - [Tesla drivers run Autopilot where it's not intended – with deadly consequences](https://www.washingtonpost.com/technology/2023/12/10/tesla-autopilot-crash/)
 * [2023-12-10, 12:27:42](https://news.ycombinator.com/item?id=38591080) - [Ask HN: How to inform YouTube a video is no longer under copyright?](https://news.ycombinator.com/item?id=38591080)
 * [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-10, 12:01:01](https://news.ycombinator.com/item?id=38590975) - [Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
@@ -20,10 +21,9 @@
 * [2023-12-09, 22:30:02](https://news.ycombinator.com/item?id=38586767) - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 * [2023-12-09, 20:57:36](https://news.ycombinator.com/item?id=38586014) - [Show HN: Fine-grained stylistic control of LLMs using model arithmetic](https://github.com/eth-sri/language-model-arithmetic)
 * [2023-12-09, 19:45:30](https://news.ycombinator.com/item?id=38585213) - [Sneakers Film Promotional Floppy](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
-* [2023-12-08, 23:22:33](https://news.ycombinator.com/item?id=38576158) - [Rhapsodies in Blue: Anna Atkins' Cyanotypes](https://publicdomainreview.org/essay/anna-atkins-cyanotypes/)
+* [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
 * [2023-12-08, 20:51:24](https://news.ycombinator.com/item?id=38574174) - [Chateaubriand, the Romantic Classicist](https://antigonejournal.com/2023/12/classicism-romantic-era-ii/)
 * [2023-12-08, 09:43:32](https://news.ycombinator.com/item?id=38567107) - [Optimizing engineering communication for better developer experience](https://www.opslevel.com/resources/optimizing-engineering-communication-for-better-developer-experience)
-* [2023-12-08, 07:12:42](https://news.ycombinator.com/item?id=38566237) - [The Technology (2014)](http://paulbuchheit.blogspot.com/2014/07/the-technology.html)
 * [2023-12-07, 16:45:38](https://news.ycombinator.com/item?id=38558564) - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 * [2023-12-07, 13:31:23](https://news.ycombinator.com/item?id=38556069) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
 * [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
