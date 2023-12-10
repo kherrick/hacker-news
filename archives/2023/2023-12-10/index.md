@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
+* [2023-12-10, 04:21:54](https://news.ycombinator.com/item?id=38589018) - [What Is L4S?](https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth)
 * [2023-12-10, 03:46:43](https://news.ycombinator.com/item?id=38588858) - [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
 * [2023-12-10, 03:43:18](https://news.ycombinator.com/item?id=38588834) - [Canada's surging cost of living fuels reverse immigration](https://www.reuters.com/world/americas/canadas-surging-cost-living-fuels-reverse-immigration-2023-12-09/)
 * [2023-12-10, 02:12:27](https://news.ycombinator.com/item?id=38588379) - [Cramming a Tiny Program into a Tiny ELF File: A Case Study](https://tmpout.sh/3/22.html)
