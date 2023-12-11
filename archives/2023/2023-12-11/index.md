@@ -10,3 +10,4 @@
 * [2023-12-11, 01:12:07](https://news.ycombinator.com/item?id=38596622) - [Could We Stop Yellowstone from Erupting with a Giant Geothermal Power Plant?](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-12-11, 00:28:20](https://news.ycombinator.com/item?id=38596406) - [Simulatrex – LLM-Based Simulations](https://github.com/simulatrex/simulatrex)
 * [2023-12-11, 00:18:05](https://news.ycombinator.com/item?id=38596353) - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
+* [2023-12-11, 00:15:07](https://news.ycombinator.com/item?id=38596335) - [Littlefs – a little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
