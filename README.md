@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 * [2023-12-11, 03:55:33](https://news.ycombinator.com/item?id=38597498) - [Humans have 'large, negative impact on wildlife,' researchers find](https://www.msn.com/en-us/health/other/humans-have-large-negative-impact-on-wildlife-researchers-find/ar-AA1lh582)
 * [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
 * [2023-12-11, 02:17:39](https://news.ycombinator.com/item?id=38596953) - [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real](https://sagittarius.greg.technology/)
@@ -23,7 +24,6 @@
 * [2023-12-10, 17:30:20](https://news.ycombinator.com/item?id=38593177) - [Show HN: Watering my Christmas tree with ESPHome](https://johnzanussi.com/posts/diy-automated-christmas-tree-watering)
 * [2023-12-10, 17:25:30](https://news.ycombinator.com/item?id=38593147) - [Show HN: Rot - Offline secrets management](https://github.com/candiddev/rot)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
-* [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
 * [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
 * [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
