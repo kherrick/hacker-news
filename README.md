@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
+* [2023-12-11, 08:01:29](https://news.ycombinator.com/item?id=38598559) - [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
@@ -11,7 +13,6 @@
 * [2023-12-11, 00:18:05](https://news.ycombinator.com/item?id=38596353) - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
 * [2023-12-11, 00:15:07](https://news.ycombinator.com/item?id=38596335) - [Littlefs – a little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
 * [2023-12-10, 23:48:20](https://news.ycombinator.com/item?id=38596191) - [High school math doesn't prepare most students for their college majors](https://hechingerreport.org/proof-points-professors-say-high-school-math-doesnt-prepare-most-students-for-their-college-majors/)
-* [2023-12-10, 22:52:55](https://news.ycombinator.com/item?id=38595855) - [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
 * [2023-12-10, 21:55:59](https://news.ycombinator.com/item?id=38595470) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 * [2023-12-10, 21:29:56](https://news.ycombinator.com/item?id=38595245) - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
 * [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
@@ -21,7 +22,6 @@
 * [2023-12-10, 19:28:05](https://news.ycombinator.com/item?id=38594139) - [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
 * [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
 * [2023-12-10, 18:15:13](https://news.ycombinator.com/item?id=38593538) - [The valley of the cheese of the dead](https://www.atlasobscura.com/articles/most-unusual-cheese-switzerland)
-* [2023-12-10, 17:30:20](https://news.ycombinator.com/item?id=38593177) - [Show HN: Watering my Christmas tree with ESPHome](https://johnzanussi.com/posts/diy-automated-christmas-tree-watering)
 * [2023-12-10, 10:12:12](https://news.ycombinator.com/item?id=38590560) - [First tomato ever grown in space, lost 8 months ago, found by NASA astronauts](https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
 * [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
