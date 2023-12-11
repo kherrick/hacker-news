@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 08:04:38](https://news.ycombinator.com/item?id=38598575) - [Why Blogging Platforms Suck](https://bannerblog.dev/why-banner-blog)
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 * [2023-12-11, 08:02:49](https://news.ycombinator.com/item?id=38598565) - [AI rejection letter for being born on the wrong date](https://old.reddit.com/r/antiwork/comments/18eyr87/got_an_ai_rejection_letter_forbeing_born_on_the/)
 * [2023-12-11, 08:01:29](https://news.ycombinator.com/item?id=38598559) - [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
