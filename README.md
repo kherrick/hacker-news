@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 15:27:42](https://news.ycombinator.com/item?id=38601435) - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
 * [2023-12-11, 14:23:24](https://news.ycombinator.com/item?id=38600870) - [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 14:05:03](https://news.ycombinator.com/item?id=38600714) - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
@@ -9,7 +10,6 @@
 * [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
 * [2023-12-11, 10:05:58](https://news.ycombinator.com/item?id=38599168) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
-* [2023-12-11, 09:26:33](https://news.ycombinator.com/item?id=38598983) - [We don't have official RSS feed support for now, but we're working on a solution](https://developer.chrome.com/feeds)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
 * [2023-12-11, 08:40:30](https://news.ycombinator.com/item?id=38598742) - [Earliest Carpenters: 476,000-year-old log structure discovered in Zambia](https://www.archaeology.org/issues/537-features/top10/11937-zambia-kalambo-river-earliest-woodworking)
 * [2023-12-11, 08:04:38](https://news.ycombinator.com/item?id=38598575) - [Why I created Banner Blog](https://bannerblog.dev/why-banner-blog)
