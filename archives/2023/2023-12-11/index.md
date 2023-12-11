@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 12:00:14](https://news.ycombinator.com/item?id=38599832) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-12-11, 11:57:09](https://news.ycombinator.com/item?id=38599815) - [Alex Jones: Conspiracy theorist returns to X with Andrew Tate repost](https://www.bbc.co.uk/news/world-us-canada-67673623)
+* [2023-12-11, 11:18:49](https://news.ycombinator.com/item?id=38599573) - [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state)
 * [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [$35 smart calculator for small shops](https://smart.tohands.in/)
+* [2023-12-11, 10:05:58](https://news.ycombinator.com/item?id=38599168) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2023-12-11, 09:49:59](https://news.ycombinator.com/item?id=38599097) - [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 * [2023-12-11, 09:26:33](https://news.ycombinator.com/item?id=38598983) - [Google have removed RSS support from their developer blogs](https://developer.chrome.com/feeds)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
+* [2023-12-11, 08:40:30](https://news.ycombinator.com/item?id=38598742) - [Earliest Carpenters: 476,000-year-old log structure discovered in Zambia](https://www.archaeology.org/issues/537-features/top10/11937-zambia-kalambo-river-earliest-woodworking)
 * [2023-12-11, 08:04:38](https://news.ycombinator.com/item?id=38598575) - [Why Blogging Platforms Suck](https://bannerblog.dev/why-banner-blog)
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 * [2023-12-11, 08:02:49](https://news.ycombinator.com/item?id=38598565) - [AI rejection letter for being born on the wrong date](https://old.reddit.com/r/antiwork/comments/18eyr87/got_an_ai_rejection_letter_forbeing_born_on_the/)
