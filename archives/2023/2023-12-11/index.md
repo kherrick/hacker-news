@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
 * [2023-12-11, 21:00:59](https://news.ycombinator.com/item?id=38605451) - [Why Europe Fails to Create Wealth](https://loeber.substack.com/p/14-why-europe-fails-to-create-wealth)
+* [2023-12-11, 20:58:12](https://news.ycombinator.com/item?id=38605422) - [The web services I self-host (2022)](https://thinking.ajdecon.org/2022/10/30/the-web-services-i-self-host/)
 * [2023-12-11, 19:45:23](https://news.ycombinator.com/item?id=38604519) - [GPT-4 has Seasonal Depression](https://twitter.com/fabianstelzer/status/1734296159873536214)
 * [2023-12-11, 19:42:02](https://news.ycombinator.com/item?id=38604470) - [Fntastic announces shutdown four days after releasing \"The Day Before\"](https://www.fntastic.com)
 * [2023-12-11, 19:13:54](https://news.ycombinator.com/item?id=38604104) - [Show HN: Sherlock – AI that chats with your friends about their gift wishes](https://www.giftit.social/)
