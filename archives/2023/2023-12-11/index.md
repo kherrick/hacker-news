@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To Revive Portland, Officials Seek to Recriminalize Public Drug Use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
 * [2023-12-11, 21:03:48](https://news.ycombinator.com/item?id=38605477) - [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
 * [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
 * [2023-12-11, 21:00:59](https://news.ycombinator.com/item?id=38605451) - [Why Europe Fails to Create Wealth](https://loeber.substack.com/p/14-why-europe-fails-to-create-wealth)
