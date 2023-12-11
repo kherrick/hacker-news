@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 21:03:48](https://news.ycombinator.com/item?id=38605477) - [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
 * [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
-* [2023-12-11, 19:50:58](https://news.ycombinator.com/item?id=38604597) - [GPT-4-turbo produces shorter completions when it \"thinks\" its December vs. May](https://twitter.com/RobLynch99/status/1734278713762549970)
-* [2023-12-11, 19:28:58](https://news.ycombinator.com/item?id=38604307) - [OpenAI's Investors Don't Own It](https://www.bloomberg.com/opinion/articles/2023-12-11/openai-s-investors-don-t-own-it)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
 * [2023-12-11, 18:29:28](https://news.ycombinator.com/item?id=38603440) - [TSA Introducing Self-Service Screening Technology in Las Vegas](https://upgradedpoints.com/news/tsa-self-service-screening/)
 * [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
@@ -15,6 +14,7 @@
 * [2023-12-11, 12:31:00](https://news.ycombinator.com/item?id=38600031) - [Transparent wood could soon find uses in smartphone screens, insulated windows](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 * [2023-12-11, 10:05:58](https://news.ycombinator.com/item?id=38599168) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
+* [2023-12-11, 09:19:20](https://news.ycombinator.com/item?id=38598940) - [Comparing 6502 Multiply Routines](https://github.com/TobyLobster/multiply_test)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [JEDEDC publishes new CAMM2 memory module standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
 * [2023-12-11, 08:40:30](https://news.ycombinator.com/item?id=38598742) - [Earliest Carpenters: 476k-year-old log structure discovered in Zambia](https://www.archaeology.org/issues/537-features/top10/11937-zambia-kalambo-river-earliest-woodworking)
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
@@ -29,7 +29,7 @@
 * [2023-12-10, 11:15:08](https://news.ycombinator.com/item?id=38590786) - [Cowgol 2.0 (2022)](http://cowlark.com/cowgol/index.html)
 * [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [Mathematicians have found a new upper limit to the Ramsey number](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [The Journey from WebSockets to HTTP Streams](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
-* [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
+* [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-free instruction set architecture for out-of-order processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 
 ## [Archives](archives/index.md)
 

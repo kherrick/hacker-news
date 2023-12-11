@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 21:03:48](https://news.ycombinator.com/item?id=38605477) - [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
 * [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
 * [2023-12-11, 21:00:59](https://news.ycombinator.com/item?id=38605451) - [Why Europe Fails to Create Wealth](https://loeber.substack.com/p/14-why-europe-fails-to-create-wealth)
 * [2023-12-11, 20:58:12](https://news.ycombinator.com/item?id=38605422) - [The web services I self-host (2022)](https://thinking.ajdecon.org/2022/10/30/the-web-services-i-self-host/)
@@ -48,6 +49,7 @@
 * [2023-12-11, 09:49:59](https://news.ycombinator.com/item?id=38599097) - [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 * [2023-12-11, 09:26:33](https://news.ycombinator.com/item?id=38598983) - [Google have removed RSS support from their developer blogs](https://developer.chrome.com/feeds)
+* [2023-12-11, 09:19:20](https://news.ycombinator.com/item?id=38598940) - [Comparing 6502 Multiply Routines](https://github.com/TobyLobster/multiply_test)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
 * [2023-12-11, 08:40:30](https://news.ycombinator.com/item?id=38598742) - [Earliest Carpenters: 476,000-year-old log structure discovered in Zambia](https://www.archaeology.org/issues/537-features/top10/11937-zambia-kalambo-river-earliest-woodworking)
 * [2023-12-11, 08:04:38](https://news.ycombinator.com/item?id=38598575) - [Why Blogging Platforms Suck](https://bannerblog.dev/why-banner-blog)
