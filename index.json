@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-11, 18:13:28",
+      "https://news.ycombinator.com/item?id=38603207"
+    ],
+    [
+      "GigaGPT: GPT-3 sized models in 565 lines of code",
+      "https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 18:00:07",
+      "https://news.ycombinator.com/item?id=38603014"
+    ],
+    [
+      "Photorealistic Video Generation with Diffusion Models",
+      "https://walt-video-diffusion.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 17:46:07",
       "https://news.ycombinator.com/item?id=38602786"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38602750"
     ],
     [
-      "The best WebAssembly runtime may be no runtime at all",
+      "The best WebAssembly runtime may be no runtime",
       "https://00f.net/2023/12/11/webassembly-compilation-to-c/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38602022"
     ],
     [
-      "W4 Games Announces Pricing Model for Console Ports",
+      "W4 Games announces pricing model for console ports",
       "https://w4games.com/2023/12/11/w4-games-announces-pricing-model-for-console-ports/"
     ]
   ],
@@ -277,26 +297,6 @@
     [
       "Capturing gestures: from Linux' EVDev to the browser",
       "https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 13:20:24",
-      "https://news.ycombinator.com/item?id=38581719"
-    ],
-    [
-      "Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors",
-      "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 06:40:02",
-      "https://news.ycombinator.com/item?id=38579272"
-    ],
-    [
-      "Invisible Bunnies That Power World of Warcraft (2017)",
-      "https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630"
     ]
   ]
 ]
