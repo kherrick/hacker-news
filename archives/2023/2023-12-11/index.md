@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
+* [2023-12-11, 18:00:07](https://news.ycombinator.com/item?id=38603014) - [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
 * [2023-12-11, 17:46:07](https://news.ycombinator.com/item?id=38602786) - [US lawyer who put Big Tobacco on trial takes aim at sports betting](https://www.ft.com/content/497fdb45-fe81-4b13-97d0-70abe667b94f)
 * [2023-12-11, 17:44:26](https://news.ycombinator.com/item?id=38602750) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)

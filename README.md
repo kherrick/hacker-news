@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
+* [2023-12-11, 18:00:07](https://news.ycombinator.com/item?id=38603014) - [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
 * [2023-12-11, 17:46:07](https://news.ycombinator.com/item?id=38602786) - [US lawyer who put Big Tobacco on trial takes aim at sports betting](https://www.ft.com/content/497fdb45-fe81-4b13-97d0-70abe667b94f)
-* [2023-12-11, 17:44:26](https://news.ycombinator.com/item?id=38602750) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
+* [2023-12-11, 17:44:26](https://news.ycombinator.com/item?id=38602750) - [The best WebAssembly runtime may be no runtime](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 17:00:41](https://news.ycombinator.com/item?id=38602281) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2023-12-11, 16:53:58](https://news.ycombinator.com/item?id=38602228) - ['Glacier mice' baffle scientists](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
-* [2023-12-11, 16:31:26](https://news.ycombinator.com/item?id=38602022) - [W4 Games Announces Pricing Model for Console Ports](https://w4games.com/2023/12/11/w4-games-announces-pricing-model-for-console-ports/)
+* [2023-12-11, 16:31:26](https://news.ycombinator.com/item?id=38602022) - [W4 Games announces pricing model for console ports](https://w4games.com/2023/12/11/w4-games-announces-pricing-model-for-console-ports/)
 * [2023-12-11, 16:26:02](https://news.ycombinator.com/item?id=38601960) - [Bad science and bad statistics in the courtroom convict innocent people](https://www.scientificamerican.com/article/bad-science-and-bad-statistics-in-the-courtroom-convict-innocent-people/)
 * [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
@@ -28,8 +30,6 @@
 * [2023-12-10, 12:28:17](https://news.ycombinator.com/item?id=38591083) - [How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [Mathematicians have found a new upper limit to the Ramsey number](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
-* [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
-* [2023-12-09, 06:40:02](https://news.ycombinator.com/item?id=38579272) - [Invisible Bunnies That Power World of Warcraft (2017)](https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630)
 
 ## [Archives](archives/index.md)
 
