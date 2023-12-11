@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-11, 22:58:20",
+      "https://news.ycombinator.com/item?id=38606671"
+    ],
+    [
+      "This guy makes $53,000 a month cleaning people's litter",
+      "https://dollarsanity.com/how-i-turned-my-side-hustle-into-650k-a-year-cleaning-business/"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 22:57:50",
       "https://news.ycombinator.com/item?id=38606667"
     ],
     [
       "AdaptNet: Policy Adaptation for Physics-Based Character Control",
       "https://arxiv.org/abs/2310.00239"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 22:43:12",
+      "https://news.ycombinator.com/item?id=38606488"
+    ],
+    [
+      "The Secret Behind Qualcomm's Margins? Patents",
+      "https://blog.withedge.com/p/the-secret-behind-qualcomms-margins"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "GigaGPT: GPT-3 sized models in 565 lines of code",
       "https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 18:00:07",
-      "https://news.ycombinator.com/item?id=38603014"
-    ],
-    [
-      "Photorealistic Video Generation with Diffusion Models",
-      "https://walt-video-diffusion.github.io/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Mechanical Watch (2022)",
       "https://ciechanow.ski/mechanical-watch/"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 12:28:17",
-      "https://news.ycombinator.com/item?id=38591083"
-    ],
-    [
-      "How many lines of C it takes to execute a + b in Python",
-      "https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals"
     ]
   ],
   [
