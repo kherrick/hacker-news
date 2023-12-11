@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 14:23:24](https://news.ycombinator.com/item?id=38600870) - [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 14:05:03](https://news.ycombinator.com/item?id=38600714) - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
 * [2023-12-11, 12:53:16](https://news.ycombinator.com/item?id=38600209) - [Whirlygig Volumetric Display LPC1768 Demo (2014) [video]](https://www.youtube.com/watch?v=8MFhoGbUYPY)
@@ -19,7 +20,6 @@
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 * [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
 * [2023-12-11, 00:18:05](https://news.ycombinator.com/item?id=38596353) - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
-* [2023-12-11, 00:15:07](https://news.ycombinator.com/item?id=38596335) - [Littlefs – a little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
 * [2023-12-10, 20:26:42](https://news.ycombinator.com/item?id=38594697) - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 * [2023-12-10, 12:28:17](https://news.ycombinator.com/item?id=38591083) - [How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
