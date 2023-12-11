@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-11, 15:27:42](https://news.ycombinator.com/item?id=38601435) - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
+* [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
 * [2023-12-11, 14:23:24](https://news.ycombinator.com/item?id=38600870) - [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 14:05:03](https://news.ycombinator.com/item?id=38600714) - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
@@ -16,6 +16,7 @@
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 * [2023-12-11, 08:01:29](https://news.ycombinator.com/item?id=38598559) - [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+* [2023-12-11, 05:47:17](https://news.ycombinator.com/item?id=38597992) - [Eleanor Cross](https://en.wikipedia.org/wiki/Eleanor_cross)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 * [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
@@ -24,7 +25,6 @@
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 * [2023-12-10, 12:28:17](https://news.ycombinator.com/item?id=38591083) - [How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [A Big Small Leap Forward in Graph Theory](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
-* [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
 * [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 06:40:02](https://news.ycombinator.com/item?id=38579272) - [Invisible Bunnies That Power World of Warcraft (2017)](https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630)

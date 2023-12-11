@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
 * [2023-12-11, 15:27:42](https://news.ycombinator.com/item?id=38601435) - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
 * [2023-12-11, 14:23:24](https://news.ycombinator.com/item?id=38600870) - [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
@@ -27,6 +28,7 @@
 * [2023-12-11, 08:02:49](https://news.ycombinator.com/item?id=38598565) - [AI rejection letter for being born on the wrong date](https://old.reddit.com/r/antiwork/comments/18eyr87/got_an_ai_rejection_letter_forbeing_born_on_the/)
 * [2023-12-11, 08:01:29](https://news.ycombinator.com/item?id=38598559) - [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+* [2023-12-11, 05:47:17](https://news.ycombinator.com/item?id=38597992) - [Eleanor Cross](https://en.wikipedia.org/wiki/Eleanor_cross)
 * [2023-12-11, 05:46:41](https://news.ycombinator.com/item?id=38597989) - [Flu cases on the rise in NY, soaring in other states](https://www.fox5ny.com/news/ny-flu-cases-rise-soaring-across-us)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:46:58](https://news.ycombinator.com/item?id=38597720) - [Will this be the last Christmas you can get an Apple Watch?](https://theapopkavoice.com/stories/will-this-be-the-last-christmas-you-can-get-an-apple-watch,69600)
