@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-10, 23:36:58",
+      "https://news.ycombinator.com/item?id=38596127"
+    ],
+    [
+      "Wasabi linked to \"substantial\" boost in memory, Japanese study finds",
+      "https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 22:52:55",
       "https://news.ycombinator.com/item?id=38595855"
     ],
     [
-      "Please, Expose Your RSS",
+      "Please, expose your RSS",
       "https://rknight.me/please-expose-your-rss/"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 22:17:00",
+      "https://news.ycombinator.com/item?id=38595630"
+    ],
+    [
+      "The Bare Minimum Video Game: The Odyssey 100",
+      "https://nicole.express/2023/special-thanks-to-homer.html"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "The surprising connection between after-hours work and decreased productivity",
       "https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 21:18:21",
+      "https://news.ycombinator.com/item?id=38595152"
+    ],
+    [
+      "The SAT Museum [pdf]",
+      "https://ceur-ws.org/Vol-3545/paper6.pdf"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2023-12-10, 08:47:56",
-      "https://news.ycombinator.com/item?id=38590164"
-    ],
-    [
-      "Fuzzy Finding with Emacs Instead of Fzf",
-      "https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 08:43:59",
-      "https://news.ycombinator.com/item?id=38590144"
-    ],
-    [
-      "Trust-based moderation systems",
-      "https://cblgh.org/trustnet/"
-    ]
-  ],
-  [
-    [
       "2023-12-09, 22:45:56",
       "https://news.ycombinator.com/item?id=38586918"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2023-12-09, 11:24:35",
-      "https://news.ycombinator.com/item?id=38580965"
+      "2023-12-09, 10:47:44",
+      "https://news.ycombinator.com/item?id=38580694"
     ],
     [
-      "Tomato lost in space by history-making astronaut has been found",
-      "https://www.cnn.com/2023/12/08/world/tomato-frank-rubio-space-station-nasa-scn/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 11:08:19",
-      "https://news.ycombinator.com/item?id=38580842"
-    ],
-    [
-      "The Night Before Doom: A Poem from the Past (1993)",
-      "https://www.gamers.org/docs/FAQ/doomfaq/sect5.html"
+      "Patching around a C++ crash with a little bit of Lua",
+      "http://rachelbythebay.com/w/2023/12/07/header/"
     ]
   ],
   [
