@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 22:58:20](https://news.ycombinator.com/item?id=38606671) - [This guy makes $53,000 a month cleaning people's litter](https://dollarsanity.com/how-i-turned-my-side-hustle-into-650k-a-year-cleaning-business/)
 * [2023-12-11, 22:57:50](https://news.ycombinator.com/item?id=38606667) - [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
+* [2023-12-11, 22:43:12](https://news.ycombinator.com/item?id=38606488) - [The Secret Behind Qualcomm's Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-11, 21:44:00](https://news.ycombinator.com/item?id=38605941) - [Sen. Wyden to the DOJ: Govs Gathering Push Notification Data from Google, Apple](https://www.techdirt.com/2023/12/11/letter-from-sen-wyden-to-the-doj-says-governments-are-gathering-push-notification-data-from-google-apple/)
 * [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To Revive Portland, Officials Seek to Recriminalize Public Drug Use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
