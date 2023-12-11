@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 09:49:59](https://news.ycombinator.com/item?id=38599097) - [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
 * [2023-12-11, 08:04:38](https://news.ycombinator.com/item?id=38598575) - [Why Blogging Platforms Suck](https://bannerblog.dev/why-banner-blog)
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
@@ -25,7 +26,6 @@
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
 * [2023-12-10, 06:51:53](https://news.ycombinator.com/item?id=38589681) - [Decompressing a gzip file by hand (sorta), part 2: Now with Huffman](https://thomastay.dev/blog/decompressing_gzip_2/)
 * [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
-* [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
 * [2023-12-09, 06:40:02](https://news.ycombinator.com/item?id=38579272) - [Invisible Bunnies That Power World of Warcraft (2017)](https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630)
 * [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
 * [2023-12-07, 12:42:38](https://news.ycombinator.com/item?id=38555696) - [Show HN: Temporary Note – Convenient way to use a browser tab as a notepad](https://temporarynote.com/en)
