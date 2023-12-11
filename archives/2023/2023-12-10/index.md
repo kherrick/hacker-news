@@ -59,6 +59,7 @@
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 * [2023-12-10, 14:07:26](https://news.ycombinator.com/item?id=38591585) - [Engineers design a robotic replica of the heart's right chamber](https://news.mit.edu/2023/mit-engineers-design-robotic-replica-hearts-right-chamber-1208)
 * [2023-12-10, 14:07:13](https://news.ycombinator.com/item?id=38591584) - [Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
+* [2023-12-10, 14:05:56](https://news.ycombinator.com/item?id=38591581) - [On Limited Editions (1998)](http://woodblock.com/surimono/atgallery01.html)
 * [2023-12-10, 13:37:43](https://news.ycombinator.com/item?id=38591437) - [Ask HN: Best UI design courses for hackers?](https://news.ycombinator.com/item?id=38591437)
 * [2023-12-10, 12:52:24](https://news.ycombinator.com/item?id=38591196) - [Tesla drivers run Autopilot where it's not intended – with deadly consequences](https://www.washingtonpost.com/technology/2023/12/10/tesla-autopilot-crash/)
 * [2023-12-10, 12:33:19](https://news.ycombinator.com/item?id=38591099) - [Austin sees mass exodus of ex-Silicon Valley tech companies, here's why](https://www.mysanantonio.com/business/article/austin-loses-tech-companies-18541636.php)
