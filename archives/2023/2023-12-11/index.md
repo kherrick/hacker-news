@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 13:00:57](https://news.ycombinator.com/item?id=38600260) - [Mistral AI, a Paris-based OpenAI rival, closed its $415M funding round](https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/)
+* [2023-12-11, 12:57:09](https://news.ycombinator.com/item?id=38600238) - [The Religion of Techno-Optimism](https://www.disconnect.blog/p/the-religion-of-techno-optimism)
 * [2023-12-11, 12:00:14](https://news.ycombinator.com/item?id=38599832) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-12-11, 11:57:09](https://news.ycombinator.com/item?id=38599815) - [Alex Jones: Conspiracy theorist returns to X with Andrew Tate repost](https://www.bbc.co.uk/news/world-us-canada-67673623)
 * [2023-12-11, 11:18:49](https://news.ycombinator.com/item?id=38599573) - [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state)
