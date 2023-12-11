@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-11, 14:23:24](https://news.ycombinator.com/item?id=38600870) - [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 14:05:03](https://news.ycombinator.com/item?id=38600714) - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
 * [2023-12-11, 12:53:16](https://news.ycombinator.com/item?id=38600209) - [Whirlygig Volumetric Display LPC1768 Demo (2014) [video]](https://www.youtube.com/watch?v=8MFhoGbUYPY)
@@ -26,6 +25,7 @@
 * [2023-12-10, 12:28:17](https://news.ycombinator.com/item?id=38591083) - [How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [A Big Small Leap Forward in Graph Theory](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
+* [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
 * [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 06:40:02](https://news.ycombinator.com/item?id=38579272) - [Invisible Bunnies That Power World of Warcraft (2017)](https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630)
 * [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
