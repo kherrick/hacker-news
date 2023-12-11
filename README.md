@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 03:55:33](https://news.ycombinator.com/item?id=38597498) - [Humans have 'large, negative impact on wildlife,' researchers find](https://www.msn.com/en-us/health/other/humans-have-large-negative-impact-on-wildlife-researchers-find/ar-AA1lh582)
+* [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
 * [2023-12-11, 02:17:39](https://news.ycombinator.com/item?id=38596953) - [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real](https://sagittarius.greg.technology/)
 * [2023-12-11, 01:14:13](https://news.ycombinator.com/item?id=38596634) - [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
 * [2023-12-11, 01:12:07](https://news.ycombinator.com/item?id=38596622) - [Could We Stop Yellowstone from Erupting with a Giant Geothermal Power Plant?](https://www.construction-physics.com/p/could-we-stop-yellowstone-from-erupting)
 * [2023-12-11, 00:18:05](https://news.ycombinator.com/item?id=38596353) - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
 * [2023-12-11, 00:15:07](https://news.ycombinator.com/item?id=38596335) - [Littlefs – a little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
-* [2023-12-10, 23:48:20](https://news.ycombinator.com/item?id=38596191) - [High school math doesn't prepare most students for their college majors](https://hechingerreport.org/proof-points-professors-say-high-school-math-doesnt-prepare-most-students-for-their-college-majors/)
 * [2023-12-10, 22:52:55](https://news.ycombinator.com/item?id=38595855) - [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
 * [2023-12-10, 22:17:00](https://news.ycombinator.com/item?id=38595630) - [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
 * [2023-12-10, 21:55:59](https://news.ycombinator.com/item?id=38595470) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
@@ -29,7 +30,6 @@
 * [2023-12-09, 10:47:44](https://news.ycombinator.com/item?id=38580694) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
 * [2023-12-07, 11:14:43](https://news.ycombinator.com/item?id=38555169) - [User Interface Typography](https://imperavi.com/books/ui-typography/)
-* [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
 
 ## [Archives](archives/index.md)
 
