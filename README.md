@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-11, 21:00:59](https://news.ycombinator.com/item?id=38605451) - [Why Europe Fails to Create Wealth](https://loeber.substack.com/p/14-why-europe-fails-to-create-wealth)
 * [2023-12-11, 19:45:23](https://news.ycombinator.com/item?id=38604519) - [GPT-4 has Seasonal Depression](https://twitter.com/fabianstelzer/status/1734296159873536214)
-* [2023-12-11, 19:42:02](https://news.ycombinator.com/item?id=38604470) - [Fntastic announces shutdown four days after releasing \"The Day Before\"](https://www.fntastic.com)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
+* [2023-12-11, 18:25:24](https://news.ycombinator.com/item?id=38603375) - [Tons of dead sardines, mackerel wash ashore in northern Japan](https://japantoday.com/category/national/Thousands-of-dead-sardines-wash-ashore-in-northern-Japan)
 * [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
 * [2023-12-11, 18:12:22](https://news.ycombinator.com/item?id=38603193) - [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
 * [2023-12-11, 18:00:07](https://news.ycombinator.com/item?id=38603014) - [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
@@ -13,7 +12,6 @@
 * [2023-12-11, 15:27:42](https://news.ycombinator.com/item?id=38601435) - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 12:31:00](https://news.ycombinator.com/item?id=38600031) - [Transparent wood could soon find uses in smartphone screens, insulated windows](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
-* [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
 * [2023-12-11, 10:05:58](https://news.ycombinator.com/item?id=38599168) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
@@ -21,8 +19,9 @@
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 * [2023-12-11, 08:01:29](https://news.ycombinator.com/item?id=38598559) - [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+* [2023-12-11, 05:47:17](https://news.ycombinator.com/item?id=38597992) - [Eleanor Cross](https://en.wikipedia.org/wiki/Eleanor_cross)
 * [2023-12-10, 21:16:09](https://news.ycombinator.com/item?id=38595140) - [The First Costume Book: 1562](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
-* [2023-12-10, 16:28:44](https://news.ycombinator.com/item?id=38592662) - [What can you do with an Einstein?](https://www.nytimes.com/2023/12/10/science/mathematics-tiling-einstein.html)
+* [2023-12-10, 16:28:44](https://news.ycombinator.com/item?id=38592662) - [What can you do with an Einstein (aperiodic monotile)?](https://www.nytimes.com/2023/12/10/science/mathematics-tiling-einstein.html)
 * [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He steals them, of course](https://literaryreview.co.uk/he-steals-them-of-course)
 * [2023-12-10, 14:05:56](https://news.ycombinator.com/item?id=38591581) - [On Limited Editions (1998)](http://woodblock.com/surimono/atgallery01.html)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
@@ -30,6 +29,7 @@
 * [2023-12-10, 11:15:08](https://news.ycombinator.com/item?id=38590786) - [Cowgol 2.0 (2022)](http://cowlark.com/cowgol/index.html)
 * [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [Mathematicians have found a new upper limit to the Ramsey number](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
+* [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 
 ## [Archives](archives/index.md)
 
