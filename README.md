@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-11, 05:46:41](https://news.ycombinator.com/item?id=38597989) - [Flu cases on the rise in NY, soaring in other states](https://www.fox5ny.com/news/ny-flu-cases-rise-soaring-across-us)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 * [2023-12-11, 03:22:38](https://news.ycombinator.com/item?id=38597301) - [HN-comments-drawer: one line HN comments integration into sites](https://github.com/prakhar897/hn-comments-drawer)
@@ -23,6 +22,7 @@
 * [2023-12-10, 17:30:20](https://news.ycombinator.com/item?id=38593177) - [Show HN: Watering my Christmas tree with ESPHome](https://johnzanussi.com/posts/diy-automated-christmas-tree-watering)
 * [2023-12-10, 17:25:30](https://news.ycombinator.com/item?id=38593147) - [Show HN: Rot - Offline secrets management](https://github.com/candiddev/rot)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
+* [2023-12-10, 10:12:12](https://news.ycombinator.com/item?id=38590560) - [First tomato ever grown in space, lost 8 months ago, found by NASA astronauts](https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
 * [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
 * [2023-12-09, 10:47:44](https://news.ycombinator.com/item?id=38580694) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
