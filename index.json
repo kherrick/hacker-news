@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-11, 21:00:59",
-      "https://news.ycombinator.com/item?id=38605451"
-    ],
-    [
-      "Why Europe Fails to Create Wealth",
-      "https://loeber.substack.com/p/14-why-europe-fails-to-create-wealth"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 19:45:23",
       "https://news.ycombinator.com/item?id=38604519"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
-      "2023-12-11, 19:42:02",
-      "https://news.ycombinator.com/item?id=38604470"
-    ],
-    [
-      "Fntastic announces shutdown four days after releasing \"The Day Before\"",
-      "https://www.fntastic.com"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 18:56:23",
       "https://news.ycombinator.com/item?id=38603853"
     ],
     [
       "Show HN: I built an OSS alternative to Azure OpenAI services",
       "https://github.com/bricks-cloud/BricksLLM"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 18:25:24",
+      "https://news.ycombinator.com/item?id=38603375"
+    ],
+    [
+      "Tons of dead sardines, mackerel wash ashore in northern Japan",
+      "https://japantoday.com/category/national/Thousands-of-dead-sardines-wash-ashore-in-northern-Japan"
     ]
   ],
   [
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2023-12-11, 10:27:03",
-      "https://news.ycombinator.com/item?id=38599270"
-    ],
-    [
-      "Tohands – Smart calculator for small businesses",
-      "https://smart.tohands.in/"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 10:05:58",
       "https://news.ycombinator.com/item?id=38599168"
     ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2023-12-11, 05:47:17",
+      "https://news.ycombinator.com/item?id=38597992"
+    ],
+    [
+      "Eleanor Cross",
+      "https://en.wikipedia.org/wiki/Eleanor_cross"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 21:16:09",
       "https://news.ycombinator.com/item?id=38595140"
     ],
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38592662"
     ],
     [
-      "What can you do with an Einstein?",
+      "What can you do with an Einstein (aperiodic monotile)?",
       "https://www.nytimes.com/2023/12/10/science/mathematics-tiling-einstein.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Capturing gestures: from Linux' EVDev to the browser",
       "https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 13:20:24",
+      "https://news.ycombinator.com/item?id=38581719"
+    ],
+    [
+      "Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors",
+      "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272"
     ]
   ]
 ]
