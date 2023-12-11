@@ -82,6 +82,7 @@
 * [2023-12-08, 11:28:43](https://news.ycombinator.com/item?id=38567745) - [Beyond \"Abolish the FDA\"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
 * [2023-12-08, 11:20:36](https://news.ycombinator.com/item?id=38567687) - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 * [2023-12-08, 11:10:50](https://news.ycombinator.com/item?id=38567626) - [Using Fido Keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
+* [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
 * [2023-12-08, 10:33:32](https://news.ycombinator.com/item?id=38567424) - [Tesla loses legal action in Sweden as dispute with Nordic unions escalates](https://www.theguardian.com/technology/2023/dec/07/tesla-loses-legal-action-sweden-nordic-unions-licence-plates-collective-bargaining)
 * [2023-12-08, 10:31:43](https://news.ycombinator.com/item?id=38567406) - [Nikon Makes Special Firmware for Astronauts to Block Cosmic Rays in Photos](https://petapixel.com/2023/12/06/nikon-makes-special-firmware-for-astronauts-to-block-galactic-cosmic-rays-in-photos/)
 * [2023-12-08, 10:30:09](https://news.ycombinator.com/item?id=38567397) - [X.com is Twitter, but what are [a-z].com?](https://nerology.substack.com/p/xcom-is-twitter-but-what-are-a-zcom)
